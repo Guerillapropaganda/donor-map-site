@@ -25,6 +25,10 @@ const ProfileHeader: QuartzComponent = ({
     : type === "donor" ? "ph-type-donor"
     : "ph-type-other"
 
+  // Say vs Pay data from frontmatter
+  const svp = fm?.["say-vs-pay"] as any
+  const svpJson = svp ? JSON.stringify(svp) : ""
+
   return (
     <div class={classNames(displayClass, "ph-header")}>
       <div class="ph-badges">
@@ -36,6 +40,9 @@ const ProfileHeader: QuartzComponent = ({
       </div>
       {lastUpdated && (
         <div class="ph-meta">UPDATED {lastUpdated}</div>
+      )}
+      {svpJson && (
+        <div id="svp-data" data-svp={svpJson} style="display:none" />
       )}
     </div>
   )
@@ -159,13 +166,70 @@ function hideDataviewFields() {
   }
 }
 
+function renderSayVsPay() {
+  var dataEl = document.getElementById('svp-data');
+  if (!dataEl) return;
+  var existing = document.getElementById('svp-card');
+  if (existing) return;
+  var raw = dataEl.dataset.svp;
+  if (!raw) return;
+  try { var d = JSON.parse(raw); } catch(e) { return; }
+
+  var html = '<div id="svp-card" class="svp-card">';
+  html += '<div class="svp-header">SAY VS. PAY</div>';
+  html += '<div class="svp-columns">';
+
+  // Left column: public record
+  html += '<div class="svp-col">';
+  html += '<div class="svp-col-label svp-passed-label">THE PUBLIC RECORD</div>';
+  if (d.passed) {
+    for (var i = 0; i < d.passed.length; i++) {
+      html += '<div class="svp-item svp-pass"><span class="svp-check">&#10003;</span> ' + d.passed[i] + '</div>';
+    }
+  }
+  if (d.blocked) {
+    html += '<div class="svp-col-label svp-blocked-label">WHAT DIDN\'T PASS</div>';
+    for (var j = 0; j < d.blocked.length; j++) {
+      html += '<div class="svp-item svp-block"><span class="svp-x">&#10007;</span> ' + d.blocked[j] + '</div>';
+    }
+  }
+  html += '</div>';
+
+  // Right column: money trail
+  html += '<div class="svp-col">';
+  html += '<div class="svp-col-label svp-money-label">THE MONEY TRAIL</div>';
+  if (d['top-donors']) {
+    for (var k = 0; k < d['top-donors'].length; k++) {
+      var donor = d['top-donors'][k];
+      html += '<div class="svp-donor"><span class="svp-donor-name">' + donor.name + '</span><span class="svp-donor-amt">' + donor.amount + '</span></div>';
+    }
+  }
+  html += '</div>';
+  html += '</div>'; // end columns
+
+  if (d['gap-stat']) {
+    html += '<div class="svp-gap">' + d['gap-stat'] + '</div>';
+  }
+  html += '</div>';
+
+  // Insert into contradiction card
+  var cards = document.querySelectorAll('.psc-contradiction');
+  if (cards.length > 0) {
+    var heading = cards[0].querySelector('h2, h3');
+    if (heading) {
+      heading.insertAdjacentHTML('afterend', html);
+    }
+  }
+}
+
 wrapProfileSections();
 hideDataviewFields();
 hideDuplicateNotices();
+renderSayVsPay();
 document.addEventListener('nav', function() {
   var art = document.querySelector('article');
   if (art) art.dataset.sectionsWrapped = '';
-  setTimeout(function() { wrapProfileSections(); hideDataviewFields(); hideDuplicateNotices(); }, 100);
+  setTimeout(function() { wrapProfileSections(); hideDataviewFields(); hideDuplicateNotices(); renderSayVsPay(); }, 100);
 });
 `
 

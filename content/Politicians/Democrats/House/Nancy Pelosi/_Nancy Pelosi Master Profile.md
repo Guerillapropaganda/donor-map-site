@@ -5,6 +5,27 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+say-vs-pay:
+  passed:
+    - "ACA — expanded coverage to 20M"
+    - "CHIPS Act — $52B for semiconductors"
+    - "Two Trump impeachments"
+    - "BBB passed House at $3.5T"
+  blocked:
+    - "PRO Act — labor organizing rights"
+    - "Drug pricing negotiation"
+    - "Build Back Better — 90% killed in Senate"
+    - "STOCK Act enforcement"
+  top-donors:
+    - name: "AIPAC"
+      amount: "$3.2M"
+    - name: "Goldman Sachs"
+      amount: "$2.1M"
+    - name: "PhRMA"
+      amount: "$1.9M"
+    - name: "Lockheed Martin"
+      amount: "$900K"
+  gap-stat: "$1.6B raised — 90% of BBB killed by donor-class Senate"
 ---
 
 

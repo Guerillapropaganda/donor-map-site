@@ -1582,6 +1582,98 @@ body[data-slug*="master-profile" i] {
     color: #63636e;
     margin-bottom: 8px;
   }
+
+  // ── Say vs. Pay contradiction card ──
+  .svp-card {
+    background: linear-gradient(135deg, #0e0e14 0%, #111118 100%);
+    border: 1px solid rgba(239, 68, 68, 0.25);
+    border-radius: 10px;
+    padding: 24px;
+    margin: 20px 0;
+  }
+
+  .svp-header {
+    font-family: "Space Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 3px;
+    color: #ef4444;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(239, 68, 68, 0.15);
+  }
+
+  .svp-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+
+  .svp-col-label {
+    font-family: "Space Mono", monospace;
+    font-size: 9px;
+    letter-spacing: 2px;
+    margin-bottom: 12px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #1e1e28;
+  }
+
+  .svp-passed-label { color: #22c55e; }
+  .svp-blocked-label { color: #ef4444; margin-top: 16px; }
+  .svp-money-label { color: #f59e0b; }
+
+  .svp-item {
+    font-size: 0.82rem;
+    line-height: 1.5;
+    padding: 4px 0;
+    color: #b4b4bc;
+  }
+
+  .svp-check {
+    color: #22c55e;
+    font-weight: 700;
+    margin-right: 6px;
+  }
+
+  .svp-x {
+    color: #ef4444;
+    font-weight: 700;
+    margin-right: 6px;
+  }
+
+  .svp-donor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px solid #1a1a22;
+  }
+
+  .svp-donor:last-child { border-bottom: none; }
+
+  .svp-donor-name {
+    color: #b4b4bc;
+    font-size: 0.85rem;
+  }
+
+  .svp-donor-amt {
+    color: #22c55e;
+    font-family: "Space Mono", monospace;
+    font-size: 0.85rem;
+    font-weight: 700;
+  }
+
+  .svp-gap {
+    margin-top: 20px;
+    padding: 14px;
+    background: rgba(239, 68, 68, 0.08);
+    border: 1px solid rgba(239, 68, 68, 0.2);
+    border-radius: 6px;
+    text-align: center;
+    font-size: 0.88rem;
+    color: #ef4444;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
 }
 
 // ── Profile page mobile ──
@@ -1604,6 +1696,15 @@ body[data-slug*="master-profile" i] {
 
     .callout {
       padding: 14px !important;
+    }
+
+    .svp-columns {
+      grid-template-columns: 1fr;
+      gap: 16px;
+    }
+
+    .svp-card {
+      padding: 16px;
     }
 
     table {
