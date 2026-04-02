@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
-import { resolveRelative, simplifySlug, pathToRoot, joinSegments } from "../util/path"
+import { simplifySlug } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 
 // ─── Helpers ────────────────────────────────────────────────────────
@@ -149,11 +149,16 @@ const DonorMapSidebar: QuartzComponent = ({
   allFiles,
 }: QuartzComponentProps) => {
   const currentSlug = (fileData.slug ?? "").toLowerCase()
-  // Use simplified slug (strips /index suffix from folder pages) so pathToRoot
-  // produces the correct number of .. segments matching the actual URL depth.
-  // Without this, folder page links break on subdirectory deployments (GitHub Pages)
-  // because SPA navigation doesn't add trailing slashes.
-  const currentSimplified = simplifySlug(fileData.slug!)
+
+  // Extract the base path from cfg.baseUrl for absolute URL construction.
+  // Relative URLs are unreliable on subdirectory deployments (GitHub Pages)
+  // because SPA navigation is inconsistent about trailing slashes on folder
+  // pages, causing pathToRoot-based relative resolution to break.
+  // Absolute paths bypass this entirely.
+  const baseUrl = cfg.baseUrl ?? ""
+  const slashIdx = baseUrl.indexOf("/")
+  const basePath = slashIdx >= 0 ? "/" + baseUrl.substring(slashIdx + 1) : ""
+  // basePath = "/donor-map-site" (or "" for root deployments)
 
   // Count files whose slug starts with a given prefix
   function countInFolder(prefix: string): number {
@@ -164,22 +169,20 @@ const DonorMapSidebar: QuartzComponent = ({
     }).length
   }
 
-  // Build a relative href from the current page to a target slug.
-  // Uses simplified current slug to avoid the /index depth mismatch.
-  function safeHref(targetSlug: string): string {
-    const root = pathToRoot(currentSimplified)
-    return joinSegments(root, targetSlug)
+  // Absolute href: always resolves correctly regardless of current page URL
+  function absHref(targetSlug: string): string {
+    return `${basePath}/${targetSlug}`
   }
 
-  // Resolve a slug to a relative URL for folder pages
+  // Resolve a slug to an absolute URL for folder pages
   function getFolderHref(slugPrefix: string): string {
-    return safeHref(slugPrefix)
+    return absHref(slugPrefix)
   }
 
-  // Resolve a search term to a profile page URL
+  // Resolve a search term to an absolute profile page URL
   function getProfileHref(search: string): string {
     const page = findPage(allFiles, search)
-    if (page?.slug) return safeHref(simplifySlug(page.slug))
+    if (page?.slug) return absHref(simplifySlug(page.slug))
     return "#"
   }
 
@@ -267,7 +270,7 @@ const DonorMapSidebar: QuartzComponent = ({
     <div class={classNames(displayClass, "donor-map-sidebar")}>
       {/* Logo */}
       <div class="dm-logo">
-        <a href={safeHref("")}>
+        <a href={absHref("")}>
           <span class="dm-logo-dm">DM</span>
           <span class="dm-logo-text"> Donor Map<span class="dm-cursor">_</span></span>
         </a>
