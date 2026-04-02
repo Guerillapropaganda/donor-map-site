@@ -9,7 +9,7 @@ parent: "[[_Marco Rubio Master Profile]]"
 
 #rubio #cuba #operation-southern-spear #blockade #fuel #humanitarian-crisis #sugar #fanjul #class-analysis #follow-the-money #2026
 
-related: [[_Marco Rubio Master Profile]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Fanjul Family - Florida Crystals]] · [[_Donald Trump Master Profile|Trump]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]]
+related: [[_Marco Rubio Master Profile]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Fanjul Family - Florida Crystals]] · [[_Donald Trump Master Profile|Trump]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]]
 donors: [[Fanjul Family - Florida Crystals]] · [[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]]
 
 ---
