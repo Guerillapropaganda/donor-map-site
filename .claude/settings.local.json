@@ -35,7 +35,24 @@
       "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge --repo Guerillapropaganda/donor-map-site --merge)",
       "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge 33 --repo Guerillapropaganda/donor-map-site --merge)",
       "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge 34 --repo Guerillapropaganda/donor-map-site --merge)",
-      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge 35 --repo Guerillapropaganda/donor-map-site --merge)"
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge 35 --repo Guerillapropaganda/donor-map-site --merge)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge 36 --repo Guerillapropaganda/donor-map-site --merge)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge 37 --repo Guerillapropaganda/donor-map-site --merge)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge 38 --repo Guerillapropaganda/donor-map-site --merge)",
+      "Bash(xargs -I {} grep -l \"^\\\\|\" {})",
+      "Bash(grep -r \"dataview\\\\|dataviewjs\" /c/Users/third/donor-map-site/.claude/worktrees/elated-borg/content --include=*.md)",
+      "Bash(grep -A 20 '```dataview' \"/c/Users/third/donor-map-site/.claude/worktrees/elated-borg/content/Politicians/Democrats/House/Ayanna Pressley/_Ayanna Pressley Master Profile.md\")",
+      "Bash(find /c/Users/third/donor-map-site/.claude/worktrees/elated-borg/content -name *.md -type f -exec grep -l \"^\\\\| .* \\\\|\" {})",
+      "Bash(2)",
+      "Bash(grep -r class= /c/Users/third/donor-map-site/.claude/worktrees/elated-borg/content --include=*.md)",
+      "Bash(grep -r '{: \\\\.' /c/Users/third/donor-map-site/.claude/worktrees/elated-borg/content --include=*.md)",
+      "Bash(grep -r \"^\\\\|\" /c/Users/third/donor-map-site/.claude/worktrees/elated-borg/content --include=*.md)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge 39 --repo Guerillapropaganda/donor-map-site --merge)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr list --repo Guerillapropaganda/donor-map-site --state open --json number,title)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge 40 --repo Guerillapropaganda/donor-map-site --merge)",
+      "Bash(find /c/Users/third/donor-map-site/.claude/worktrees/elated-borg/quartz/static -name og-image* -o -name icon.png)",
+      "Bash(find C:Usersthirddonor-map-site.claudeworktreeselated-borgcontentStoriesPublished -type f -name *.md -o -name *.json)",
+      "Bash(find 'C:\\\\Users\\\\third\\\\donor-map-site\\\\.claude\\\\worktrees\\\\elated-borg\\\\content\\\\Stories\\\\Published\\\\Contradiction Deep Dives' -type f -name *.md)"
     ]
   }
 }
