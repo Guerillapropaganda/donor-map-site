@@ -286,6 +286,18 @@ const LandingPage: QuartzComponent = ({
               Every donor, PAC, and dark money network by sector.
             </div>
           </a>
+          <a href={getHref("about-the-donor-map")} class="lp-start-card">
+            <div class="lp-start-card-title">About</div>
+            <div class="lp-start-card-desc">
+              What this project is, who built it, and why it exists.
+            </div>
+          </a>
+          <a href={getHref("methodology")} class="lp-start-card">
+            <div class="lp-start-card-title">Methodology</div>
+            <div class="lp-start-card-desc">
+              How profiles are built, sourced, and verified.
+            </div>
+          </a>
         </div>
       </section>
 
