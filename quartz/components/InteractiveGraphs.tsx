@@ -3,22 +3,22 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 const InteractiveGraphs: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const slug = String(fileData.slug ?? "").toLowerCase()
 
-  // Money Flow page
+  // Homepage — render tabbed container for all three tools
+  if (slug === "index") {
+    return null // Homepage tools render via the markdown div + afterDOMLoaded
+  }
+
+  // Standalone interactive pages
   if (slug.includes("interactive/money-flow")) {
     return <div id="dm-money-flow" class="dm-interactive-container" />
   }
-
-  // ROI Calculator page
   if (slug.includes("interactive/roi-calculator")) {
     return <div id="dm-roi-calc" class="dm-interactive-container" />
   }
-
-  // Both Sides page
   if (slug.includes("interactive/both-sides")) {
     return <div id="dm-both-sides" class="dm-interactive-container" />
   }
 
-  // Not an interactive page — render nothing
   return null
 }
 
@@ -600,9 +600,67 @@ function renderBothSides(container) {
   });
 }
 
+// ─── HOMEPAGE TABBED CONTAINER ───────────────
+
+function renderHomepageTools(container) {
+  container.innerHTML = '';
+
+  // Build tabbed interface
+  var wrapper = document.createElement('div');
+  wrapper.className = 'dm-hp-tools';
+
+  // Tabs
+  var tabs = document.createElement('div');
+  tabs.className = 'dm-hp-tabs';
+  var tabData = [
+    { id: 'flow', label: 'Money Flow', icon: '\u{1F4CA}' },
+    { id: 'roi', label: 'ROI Calculator', icon: '\u{1F4B0}' },
+    { id: 'both', label: 'Both Sides', icon: '\u{1F504}' },
+  ];
+  tabData.forEach(function(t, i) {
+    var btn = document.createElement('button');
+    btn.className = 'dm-hp-tab' + (i === 0 ? ' dm-hp-tab-active' : '');
+    btn.setAttribute('data-tab', t.id);
+    btn.innerHTML = '<span class="dm-hp-tab-icon">' + t.icon + '</span> ' + t.label;
+    btn.addEventListener('click', function() {
+      tabs.querySelectorAll('.dm-hp-tab').forEach(function(b) { b.classList.remove('dm-hp-tab-active'); });
+      btn.classList.add('dm-hp-tab-active');
+      wrapper.querySelectorAll('.dm-hp-panel').forEach(function(p) { p.classList.remove('dm-hp-panel-active'); });
+      var panel = wrapper.querySelector('[data-panel="' + t.id + '"]');
+      if (panel) panel.classList.add('dm-hp-panel-active');
+    });
+    tabs.appendChild(btn);
+  });
+  wrapper.appendChild(tabs);
+
+  // Panels
+  tabData.forEach(function(t, i) {
+    var panel = document.createElement('div');
+    panel.className = 'dm-hp-panel' + (i === 0 ? ' dm-hp-panel-active' : '');
+    panel.setAttribute('data-panel', t.id);
+    wrapper.appendChild(panel);
+  });
+
+  container.appendChild(wrapper);
+
+  // Render into panels
+  var flowPanel = wrapper.querySelector('[data-panel="flow"]');
+  var roiPanel = wrapper.querySelector('[data-panel="roi"]');
+  var bothPanel = wrapper.querySelector('[data-panel="both"]');
+
+  if (flowPanel) renderMoneyFlow(flowPanel);
+  if (roiPanel) renderROICalc(roiPanel);
+  if (bothPanel) renderBothSides(bothPanel);
+}
+
 // ─── INIT ────────────────────────────────────
 
 function initInteractive() {
+  // Homepage tabbed tools
+  var hp = document.getElementById('dm-homepage-tools');
+  if (hp) renderHomepageTools(hp);
+
+  // Standalone pages
   var mf = document.getElementById('dm-money-flow');
   if (mf) renderMoneyFlow(mf);
 
@@ -984,6 +1042,77 @@ InteractiveGraphs.css = `
 
   .dm-roi-arrow {
     display: none;
+  }
+}
+
+/* ═══════════════════════════════════════════════
+   HOMEPAGE TABBED TOOLS
+   ═══════════════════════════════════════════════ */
+
+.dm-hp-tools {
+  background: #13131a;
+  border: 1px solid #1e1e28;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.dm-hp-tabs {
+  display: flex;
+  border-bottom: 1px solid #1e1e28;
+  background: #0e0e14;
+}
+
+.dm-hp-tab {
+  flex: 1;
+  padding: 14px 12px;
+  border: none;
+  background: none;
+  color: #63636e;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+  text-align: center;
+  border-bottom: 2px solid transparent;
+}
+
+.dm-hp-tab:hover {
+  color: #a1a1aa;
+  background: rgba(99, 102, 241, 0.04);
+}
+
+.dm-hp-tab-active {
+  color: #818cf8 !important;
+  border-bottom-color: #818cf8 !important;
+  background: rgba(99, 102, 241, 0.06) !important;
+}
+
+.dm-hp-tab-icon {
+  margin-right: 4px;
+}
+
+.dm-hp-panel {
+  display: none;
+  padding: 24px;
+}
+
+.dm-hp-panel-active {
+  display: block;
+}
+
+@media (max-width: 800px) {
+  .dm-hp-tab {
+    font-size: 12px;
+    padding: 10px 6px;
+  }
+
+  .dm-hp-tab-icon {
+    display: none;
+  }
+
+  .dm-hp-panel {
+    padding: 16px 12px;
   }
 }
 `
