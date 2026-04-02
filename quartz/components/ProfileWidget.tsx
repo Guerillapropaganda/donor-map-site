@@ -317,13 +317,13 @@ ProfileWidget.css = `
 
 .pw-tab:hover {
   color: #a1a1aa;
-  background: rgba(99, 102, 241, 0.04);
+  background: rgba(212, 160, 23, 0.04);
 }
 
 .pw-tab-active {
-  color: #818cf8 !important;
-  border-bottom-color: #818cf8 !important;
-  background: rgba(99, 102, 241, 0.06) !important;
+  color: #d4a017 !important;
+  border-bottom-color: #d4a017 !important;
+  background: rgba(212, 160, 23, 0.06) !important;
 }
 
 /* Panels */
@@ -378,7 +378,7 @@ ProfileWidget.css = `
 }
 
 .pw-flow-row:hover {
-  background: rgba(99, 102, 241, 0.06);
+  background: rgba(212, 160, 23, 0.06);
 }
 
 .pw-flow-info {
@@ -424,7 +424,7 @@ ProfileWidget.css = `
 }
 
 .pw-roi-row:hover {
-  border-color: rgba(99, 102, 241, 0.2);
+  border-color: rgba(212, 160, 23, 0.2);
 }
 
 .pw-roi-top-row {
@@ -437,7 +437,7 @@ ProfileWidget.css = `
 .pw-roi-donor {
   font-size: 12px;
   font-weight: 600;
-  color: #818cf8;
+  color: #d4a017;
 }
 
 .pw-roi-multiplier {
@@ -469,7 +469,7 @@ ProfileWidget.css = `
 .pw-roi-donated {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #818cf8;
+  color: #d4a017;
 }
 
 .pw-roi-arrow {
@@ -495,13 +495,13 @@ ProfileWidget.css = `
 }
 
 .pw-bs-row:hover {
-  border-color: rgba(99, 102, 241, 0.2);
+  border-color: rgba(212, 160, 23, 0.2);
 }
 
 .pw-bs-donor {
   font-size: 12px;
   font-weight: 700;
-  color: #818cf8;
+  color: #d4a017;
   margin-bottom: 6px;
 }
 

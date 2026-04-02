@@ -327,8 +327,8 @@ DonorMapSidebar.css = `
   font-family: 'Space Mono', monospace;
   font-size: 14px;
   font-weight: 700;
-  color: #818cf8;
-  background: rgba(99, 102, 241, 0.15);
+  color: #d4a017;
+  background: rgba(212, 160, 23, 0.15);
   padding: 2px 6px;
   border-radius: 3px;
   margin-right: 8px;
@@ -342,7 +342,7 @@ DonorMapSidebar.css = `
 }
 
 .dm-cursor {
-  color: #818cf8;
+  color: #d4a017;
   animation: blink 1.2s step-end infinite;
 }
 
@@ -426,7 +426,7 @@ DonorMapSidebar.css = `
 }
 
 .dm-nav-branch > summary:hover {
-  background: rgba(99, 102, 241, 0.06);
+  background: rgba(212, 160, 23, 0.06);
   color: #e4e4e7;
 }
 
@@ -458,8 +458,8 @@ details[open] > summary > .dm-nav-chevron {
 }
 
 .dm-nav-branch.depth-0 > summary:hover {
-  color: #818cf8;
-  background: rgba(99, 102, 241, 0.04);
+  color: #d4a017;
+  background: rgba(212, 160, 23, 0.04);
 }
 
 .dm-nav-branch.depth-0 > summary > .dm-nav-chevron {
@@ -490,7 +490,7 @@ details[open] > summary > .dm-nav-chevron {
 }
 
 .dm-nav-leaf:hover {
-  background: rgba(99, 102, 241, 0.06) !important;
+  background: rgba(212, 160, 23, 0.06) !important;
   color: #c8c8d0 !important;
 }
 
@@ -514,15 +514,15 @@ details[open] > summary > .dm-nav-chevron {
 }
 
 .dm-nav-section-link:hover {
-  color: #818cf8 !important;
-  background: rgba(99, 102, 241, 0.04) !important;
+  color: #d4a017 !important;
+  background: rgba(212, 160, 23, 0.04) !important;
 }
 
 /* ── Active state ── */
 .dm-nav-active {
   color: #e4e4e7 !important;
-  background: rgba(99, 102, 241, 0.1) !important;
-  border-left: 2px solid #818cf8 !important;
+  background: rgba(212, 160, 23, 0.1) !important;
+  border-left: 2px solid #d4a017 !important;
 }
 
 .dm-nav-active .dm-nav-count {
@@ -579,7 +579,7 @@ details[open] > summary > .dm-nav-chevron {
 }
 
 .dm-featured-link:hover {
-  background: rgba(99, 102, 241, 0.08) !important;
+  background: rgba(212, 160, 23, 0.08) !important;
   color: #e4e4e7 !important;
 }
 
