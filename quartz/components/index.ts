@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import DonorMapSidebar from "./DonorMapSidebar"
 import InteractiveGraphs from "./InteractiveGraphs"
+import ProfileWidget from "./ProfileWidget"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   DonorMapSidebar,
   InteractiveGraphs,
+  ProfileWidget,
 }
