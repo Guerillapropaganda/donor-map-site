@@ -588,7 +588,19 @@ hr {
 .graph > .graph-outer {
   border-color: #1e1e28;
   background: #0c0c0f;
-  height: 300px;
+  height: 200px;
+
+  // Prevent graph canvas from capturing sidebar scroll
+  canvas {
+    touch-action: none;
+    pointer-events: auto;
+  }
+}
+
+// Ensure right sidebar scrolls past the graph
+.sidebar.right > .sidebar-container {
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 // Hide global graph — too many nodes for this vault size
@@ -1035,9 +1047,15 @@ hr {
   &:hover { color: #a5b4fc !important; }
 }
 
-// ── Featured Investigation ──
+// ── Featured Investigations ──
 .lp-featured {
   padding: 0 0 40px 0;
+}
+
+.lp-featured-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 
 .lp-featured-card {
