@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "guerillapropaganda.github.io/donor-map-site",
-    ignorePatterns: ["private", "templates", ".obsidian", "_templates", "Vault Maintenance", "Excalidraw", "Assets", "DRAFT-*", "publish.css", "_VAULT_INDEX.md"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_templates", "Vault Maintenance", "Excalidraw", "Assets", "DRAFT-*", "publish.css", "_VAULT_INDEX.md", "Stories/Internal", "Interactive"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

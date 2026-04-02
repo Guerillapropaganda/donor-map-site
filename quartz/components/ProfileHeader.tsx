@@ -150,8 +150,6 @@ function hideDuplicateNotices() {
 function hideDataviewFields() {
   var article = document.querySelector('article');
   if (!article) return;
-  var slug = (document.body.dataset.slug || '').toLowerCase();
-  if (slug.indexOf('master-profile') === -1) return;
   var ps = article.querySelectorAll('p');
   for (var i = 0; i < ps.length; i++) {
     var t = ps[i].textContent || '';
