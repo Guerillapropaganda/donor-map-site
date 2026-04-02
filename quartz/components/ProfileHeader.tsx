@@ -152,8 +152,8 @@ function hideDataviewFields() {
   if (!article) return;
   var ps = article.querySelectorAll('p');
   for (var i = 0; i < ps.length; i++) {
-    var t = ps[i].textContent || '';
-    if (t.match(/^[a-z-]+::\s/)) {
+    var t = (ps[i].textContent || '').trim();
+    if (t.match(/[a-z-]+::\s/)) {
       ps[i].style.display = 'none';
     }
   }
