@@ -130,10 +130,20 @@ const navTree: NavNode[] = [
   {
     name: "Media Pipeline",
     slugPrefix: "Media--and--Influence-Pipeline",
+    children: [
+      { name: "Right", slugPrefix: "Media--and--Influence-Pipeline/Right" },
+      { name: "Left", slugPrefix: "Media--and--Influence-Pipeline/Left" },
+      { name: "Centrist", slugPrefix: "Media--and--Influence-Pipeline/Centrist" },
+    ],
   },
   {
     name: "Think Tanks",
     slugPrefix: "Think-Tanks--and--Policy-Infrastructure",
+    children: [
+      { name: "Conservative", slugPrefix: "Think-Tanks--and--Policy-Infrastructure/Conservative" },
+      { name: "Liberal", slugPrefix: "Think-Tanks--and--Policy-Infrastructure/Liberal" },
+      { name: "Centrist", slugPrefix: "Think-Tanks--and--Policy-Infrastructure/Centrist" },
+    ],
   },
   {
     name: "K Street",

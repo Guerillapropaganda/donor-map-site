@@ -685,10 +685,23 @@ function replaceEmDashes() {
   }
 }
 
+// Clean up folder page titles: "Folder: Lobbying-Firms--and--K-Street" → "Lobbying Firms & K Street"
+function cleanFolderTitle() {
+  var title = document.querySelector('.article-title');
+  if (!title) return;
+  var text = title.textContent || '';
+  if (text.indexOf('Folder:') !== 0) return;
+  text = text.replace('Folder: ', '');
+  text = text.replace(/--and--/g, ' & ');
+  text = text.replace(/-/g, ' ');
+  title.textContent = text;
+}
+
 initInteractive();
 replaceEmDashes();
+cleanFolderTitle();
 document.addEventListener('nav', function() {
-  setTimeout(function() { initInteractive(); replaceEmDashes(); }, 100);
+  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); }, 100);
 });
 `
 
