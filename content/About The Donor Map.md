@@ -48,7 +48,7 @@ This is built by a working-class person who got tired. Tired of the corruption. 
 
 The accountability side has FOIA requests and underfunded journalists. The donor class has entire industries dedicated to keeping their influence invisible. That gap exists on purpose. This project is one attempt to close it.
 
-Every claim is cited. Every source is tiered by reliability. Every FEC number comes directly from the government API. The methodology is documented and open. Click any claim. Verify it yourself.
+Every claim is cited. Every source is tiered by reliability. Every FEC number comes directly from the government API. The methodology is documented and open. Click any claim. Verify it yourself. Read the full [[Methodology]] page for evidentiary standards, unit definitions, and limitations.
 
 This project is not affiliated with any political party, campaign, PAC, media outlet, or donor. The framework is class analysis, not partisanship. Democrats and Republicans are both documented here. The money does not care about party. Neither does this database.
 

@@ -226,6 +226,7 @@ article > ul.tags ~ ul.tags {
 }
 
 // --- Tables ---
+// Auto-fit: shrink text and cells so tables never overflow
 table {
   width: 100%;
   border-collapse: collapse;
@@ -233,8 +234,11 @@ table {
   border: 1px solid #1e1e28;
   border-radius: 0;
   overflow: hidden;
-  font-size: 14px;
+  font-size: 13px;
   margin: 16px 0;
+  table-layout: fixed;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 thead tr {
@@ -244,21 +248,22 @@ thead tr {
 
 th {
   font-family: 'Space Mono', monospace !important;
-  font-size: 10px !important;
+  font-size: 9px !important;
   font-weight: 700 !important;
-  letter-spacing: 2px !important;
+  letter-spacing: 1.5px !important;
   text-transform: uppercase !important;
   color: #63636e !important;
-  padding: 12px 16px !important;
+  padding: 10px 12px !important;
   text-align: left !important;
   border-bottom: none !important;
 }
 
 td {
-  padding: 12px 16px !important;
+  padding: 10px 12px !important;
   border-bottom: 1px solid #1a1a22 !important;
   color: #b4b4bc !important;
   line-height: 1.5;
+  font-size: 13px;
 }
 
 tr:hover td {
@@ -276,7 +281,7 @@ td:nth-child(2) {
 td:first-child a.internal {
   color: #818cf8 !important;
   background: rgba(99, 102, 241, 0.1) !important;
-  padding: 2px 8px !important;
+  padding: 2px 6px !important;
   border-radius: 4px !important;
   border: none !important;
   border-bottom: none !important;
@@ -488,22 +493,126 @@ hr {
   font-weight: 700 !important;
 }
 
-// --- Mobile ---
+// =============================================
+// MOBILE — Full phone optimization
+// =============================================
 @media (max-width: 800px) {
+  // Larger, more readable headings
   article h1, .article-title {
     font-size: 28px !important;
+    line-height: 1.2 !important;
   }
 
   article h2 {
-    font-size: 20px !important;
+    font-size: 19px !important;
+    margin-top: 32px;
+    padding-left: 10px;
   }
 
+  article h3 {
+    font-size: 10px !important;
+  }
+
+  // BIGGER body text on mobile — easier to read
+  article p {
+    font-size: 16px !important;
+    line-height: 1.85 !important;
+    color: #c8c8d0 !important;   // brighter than desktop #b4b4bc
+  }
+
+  article li {
+    font-size: 16px !important;
+    line-height: 1.8 !important;
+    color: #c8c8d0 !important;
+  }
+
+  article strong {
+    color: #f0f0f2 !important;   // even brighter for emphasis
+  }
+
+  article em {
+    color: #b4b4bc !important;   // bump up from #a1a1aa
+  }
+
+  // GREEN text — brighter on mobile for contrast
+  td:nth-child(2),
+  .dm-amount,
+  .pw-flow-amount,
+  .pw-bs-amt,
+  .pw-roi-value,
+  .dm-roi-badge-value,
+  .dm-bs-total,
+  .dm-bs-recip-amount {
+    color: #4ade80 !important;   // brighter green
+  }
+
+  // GREY/MUTED text — brighter on mobile
+  .content-meta,
+  .breadcrumb-container,
+  .dm-subtitle,
+  .dm-section-label {
+    color: #8a8a96 !important;   // brighter than #63636e
+  }
+
+  // Tables: compact fit, no overflow
   table {
-    font-size: 12px;
+    font-size: 11px;
+    table-layout: auto;  // let browser auto-fit on mobile
   }
 
   td, th {
-    padding: 8px 10px !important;
+    padding: 8px 8px !important;
+    font-size: 11px !important;
+  }
+
+  th {
+    font-size: 8px !important;
+    letter-spacing: 1px !important;
+  }
+
+  td:first-child a.internal {
+    padding: 1px 4px !important;
+    font-size: 11px !important;
+  }
+
+  // Links — slightly larger tap targets
+  a.internal {
+    font-size: inherit !important;
+    padding: 2px 0 !important;
+  }
+
+  // Callouts — more breathing room
+  .callout {
+    margin: 16px 0;
+    padding: 12px !important;
+  }
+
+  .callout p {
+    font-size: 14px !important;
+    line-height: 1.7 !important;
+    color: #c8c8d0 !important;
+  }
+
+  // Blockquotes
+  blockquote {
+    padding: 12px 16px !important;
+    margin: 16px 0;
+  }
+
+  blockquote p {
+    font-size: 14px !important;
+    color: #d4d4dc !important;
+  }
+
+  // Money amounts in code
+  strong > code, b > code {
+    font-size: 1em !important;
+    padding: 1px 6px !important;
+  }
+
+  // Content area padding
+  .center {
+    padding: 0 16px !important;
   }
 }
 

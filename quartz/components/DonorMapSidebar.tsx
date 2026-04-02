@@ -38,12 +38,6 @@ const contradictions = [
   { name: "Carried Interest Scam", icon: "\u{1F4B0}", search: "the-carried-interest-loophole---30-years-of-survival" },
 ]
 
-const tools = [
-  { name: "Money Flow", icon: "\u{1F4CA}", search: "interactive/money-flow" },
-  { name: "ROI Calculator", icon: "\u{1F4B0}", search: "interactive/roi-calculator" },
-  { name: "Both-Sides", icon: "\u{1F504}", search: "interactive/both-sides" },
-]
-
 const DonorMapSidebar: QuartzComponent = ({
   fileData,
   cfg,
@@ -125,22 +119,6 @@ const DonorMapSidebar: QuartzComponent = ({
           </ul>
         </div>
 
-        <div class="dm-section">
-          <div class="dm-section-label">INTERACTIVE</div>
-          <ul class="dm-list">
-            {tools.map((t) => {
-              const href = getHref(t.search)
-              return (
-                <li class="dm-list-item">
-                  <a href={href} class="dm-link">
-                    <span class="dm-icon">{t.icon}</span>
-                    <span class="dm-name">{t.name}</span>
-                  </a>
-                </li>
-              )
-            })}
-          </ul>
-        </div>
       </nav>
     </div>
   )
