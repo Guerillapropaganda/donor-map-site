@@ -1267,7 +1267,7 @@ body:has(.lp-landing) .breadcrumb-container {
 }
 
 // ── Section Cards (created by JS) ──
-body[data-slug*="master-profile"] {
+body[data-slug*="master-profile" i] {
 
   // Hide horizontal rules — cards provide separation
   article hr {
@@ -1465,7 +1465,7 @@ body[data-slug*="master-profile"] {
     padding: 10px 14px;
   }
 
-  body[data-slug*="master-profile"] {
+  body[data-slug*="master-profile" i] {
     .profile-section-card {
       padding: 18px 16px;
       border-radius: 6px;
