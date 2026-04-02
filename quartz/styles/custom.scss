@@ -503,39 +503,76 @@ footer {
   font-size: 11px;
 }
 
-.footer-site-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px 16px;
-  padding: 16px 0;
-  margin-bottom: 12px;
+.footer-columns {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  padding: 24px 0 20px 0;
   border-bottom: 1px solid #1e1e28;
+  margin-bottom: 12px;
+}
+
+.footer-col-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #63636e;
+  margin-bottom: 10px;
+}
+
+.footer-col-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+
+  li { margin: 0; padding: 0; }
 
   a {
     color: #5b8dce !important;
     font-size: 12px;
     font-weight: 500;
     text-decoration: none !important;
-    white-space: nowrap;
     transition: color 0.15s;
 
-    &:hover {
-      color: #8bb5e8 !important;
-    }
+    &:hover { color: #8bb5e8 !important; }
   }
 }
 
-footer > p:first-of-type {
+.footer-rss-link::before {
+  content: "◉ ";
+  color: #f59e0b;
+  font-size: 10px;
+}
+
+.footer-bottom {
   opacity: 0.4;
   font-size: 10px;
+
+  ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+  }
 }
 
 footer a {
   color: #63636e !important;
 }
 
-.footer-site-nav a {
+.footer-col-links a {
   color: #5b8dce !important;
+}
+
+@media (max-width: 800px) {
+  .footer-columns {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px 16px;
+  }
 }
 
 // --- Folder listing pages ---
