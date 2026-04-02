@@ -1,21 +1,25 @@
 @use "./base.scss";
 
 // =============================================
-// THE DONOR MAP — Dark Dashboard v3
-// Red/green color scheme, monospace headers
+// THE DONOR MAP — Dark Dashboard v4
+// Purple/green, matching demo screenshot
 // =============================================
 
 :root {
   color-scheme: dark;
 }
 
-// --- Global ---
 body {
   background: #0c0c0f !important;
 }
 
 .page {
   background: #0c0c0f;
+}
+
+// --- Hide default page title (sidebar has logo) ---
+.page-title {
+  display: none !important;
 }
 
 // --- Header ---
@@ -25,23 +29,13 @@ header {
   border-bottom: 1px solid #1a1a22;
 }
 
-// Hide default page title (our sidebar has the logo)
-.page-title {
-  display: none !important;
-}
-
 // --- Sidebar ---
 .left.sidebar,
 .sidebar.left > .sidebar-container {
   background: #0c0c0f;
 }
 
-// --- Article / main content ---
-article {
-  max-width: 780px;
-}
-
-// Article title (politician names etc)
+// --- Article title ---
 article h1,
 .article-title {
   font-size: 42px !important;
@@ -52,37 +46,37 @@ article h1,
   color: #e4e4e7 !important;
 }
 
-// Section headers with red left border
+// --- H2 — purple left border ---
 article h2 {
-  font-size: 24px !important;
+  font-size: 22px !important;
   font-weight: 700 !important;
-  margin-top: 48px;
+  margin-top: 44px;
   margin-bottom: 16px;
-  padding-left: 16px;
-  border-left: 3px solid #ef4444;
+  padding-left: 14px;
+  border-left: 3px solid #818cf8;
   color: #e4e4e7 !important;
 }
 
-// Sub-section headers — monospace uppercase
+// --- H3 — monospace section labels ---
 article h3 {
   font-family: 'Space Mono', monospace !important;
-  font-size: 12px !important;
+  font-size: 11px !important;
   font-weight: 700 !important;
-  letter-spacing: 3px !important;
+  letter-spacing: 2px !important;
   text-transform: uppercase !important;
-  color: #22c55e !important;
-  margin-top: 36px;
-  margin-bottom: 12px;
+  color: #63636e !important;
+  margin-top: 32px;
+  margin-bottom: 10px;
 }
 
 article h4 {
   font-family: 'Space Mono', monospace !important;
   font-size: 11px !important;
   font-weight: 700 !important;
-  letter-spacing: 2px !important;
+  letter-spacing: 1.5px !important;
   text-transform: uppercase !important;
-  color: #ef4444 !important;
-  margin-top: 28px;
+  color: #818cf8 !important;
+  margin-top: 24px;
 }
 
 // --- Body text ---
@@ -106,42 +100,37 @@ article em {
   color: #a1a1aa;
 }
 
-// --- Content meta (date, read time) ---
+// --- Content meta ---
 .content-meta {
   font-family: 'Space Mono', monospace;
-  font-size: 12px;
-  color: #ef4444 !important;
-  letter-spacing: 1px;
-  text-transform: uppercase;
+  font-size: 11px;
+  color: #63636e !important;
+  letter-spacing: 0.5px;
 }
 
 // --- Links ---
 a.internal {
-  color: #ef4444 !important;
+  color: #818cf8 !important;
   font-weight: 600;
   text-decoration: none;
   background: none !important;
   padding: 0 !important;
   border: none !important;
-  border-bottom: 1px solid rgba(239, 68, 68, 0.3) !important;
+  border-bottom: 1px solid rgba(129, 140, 248, 0.25) !important;
   border-radius: 0 !important;
   transition: all 0.15s;
 }
 
 a.internal:hover {
-  color: #f87171 !important;
-  border-bottom-color: #ef4444 !important;
+  color: #a5b4fc !important;
+  border-bottom-color: #818cf8 !important;
   background: none !important;
 }
 
 a.external {
-  color: #ef4444;
+  color: #818cf8;
   text-decoration: none;
-  border-bottom: 1px dotted rgba(239, 68, 68, 0.3);
-}
-
-a.external:hover {
-  border-bottom-color: #ef4444;
+  border-bottom: 1px dotted rgba(129, 140, 248, 0.3);
 }
 
 // --- Tags ---
@@ -149,7 +138,7 @@ a.tag-link {
   background: #13131a !important;
   color: #63636e !important;
   border: 1px solid #1e1e28 !important;
-  border-radius: 3px !important;
+  border-radius: 4px !important;
   font-family: 'Space Mono', monospace !important;
   font-size: 11px !important;
   font-weight: 500 !important;
@@ -158,18 +147,22 @@ a.tag-link {
 }
 
 a.tag-link:hover {
-  color: #ef4444 !important;
-  border-color: #ef4444 !important;
+  color: #818cf8 !important;
+  border-color: #818cf8 !important;
+}
+
+// Hide duplicate tag set from TagList (keep only inline frontmatter tags)
+article > ul.tags ~ ul.tags {
+  display: none !important;
 }
 
 // --- Callouts ---
 .callout {
-  background: #13131a !important;
+  background: #111118 !important;
   border: 1px solid #1e1e28 !important;
-  border-left: 3px solid #ef4444 !important;
-  border-radius: 0 6px 6px 0 !important;
+  border-left: 3px solid #818cf8 !important;
+  border-radius: 0 8px 8px 0 !important;
   margin: 20px 0;
-  padding: 16px 20px !important;
 }
 
 .callout-title {
@@ -178,49 +171,40 @@ a.tag-link:hover {
   font-weight: 700 !important;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #ef4444 !important;
 }
 
-// Contradiction callouts (red, more prominent)
+// Key finding callouts (green)
+.callout[data-callout="tip"],
+.callout[data-callout="success"],
+.callout[data-callout="info"],
+.callout[data-callout="note"] {
+  border-left-color: #22c55e !important;
+}
+
+.callout[data-callout="tip"] .callout-title,
+.callout[data-callout="success"] .callout-title {
+  color: #22c55e !important;
+}
+
+// Contradiction / warning callouts (red)
 .callout[data-callout="contradiction"],
 .callout[data-callout="warning"],
 .callout[data-callout="danger"] {
   border-left-color: #ef4444 !important;
-  background: rgba(239, 68, 68, 0.05) !important;
-  border-color: rgba(239, 68, 68, 0.2) !important;
-  border-left-width: 4px !important;
+  background: rgba(239, 68, 68, 0.04) !important;
+  border-color: rgba(239, 68, 68, 0.15) !important;
 }
 
-// Money/tip callouts (green)
-.callout[data-callout="tip"],
-.callout[data-callout="success"],
-.callout[data-callout="money"] {
-  border-left-color: #22c55e !important;
-  background: rgba(34, 197, 94, 0.04) !important;
-}
-
-.callout[data-callout="tip"] .callout-title,
-.callout[data-callout="success"] .callout-title,
-.callout[data-callout="money"] .callout-title {
-  color: #22c55e !important;
-}
-
-// Info/note callouts
-.callout[data-callout="info"],
-.callout[data-callout="note"] {
-  border-left-color: #63636e !important;
-}
-
-.callout[data-callout="info"] .callout-title,
-.callout[data-callout="note"] .callout-title {
-  color: #a1a1aa !important;
+.callout[data-callout="contradiction"] .callout-title,
+.callout[data-callout="warning"] .callout-title,
+.callout[data-callout="danger"] .callout-title {
+  color: #ef4444 !important;
 }
 
 // Pattern callouts (amber)
 .callout[data-callout="pattern"],
 .callout[data-callout="analytical-pattern"] {
   border-left-color: #f59e0b !important;
-  background: rgba(245, 158, 11, 0.04) !important;
 }
 
 .callout[data-callout="pattern"] .callout-title,
@@ -244,22 +228,22 @@ table {
   border-radius: 0;
   overflow: hidden;
   font-size: 14px;
-  margin: 20px 0;
+  margin: 16px 0;
 }
 
 thead tr {
   background: #0a0a0f !important;
-  border-bottom: 2px solid #ef4444 !important;
+  border-bottom: 1px solid #2a2a36 !important;
 }
 
 th {
   font-family: 'Space Mono', monospace !important;
   font-size: 10px !important;
   font-weight: 700 !important;
-  letter-spacing: 3px !important;
+  letter-spacing: 2px !important;
   text-transform: uppercase !important;
   color: #63636e !important;
-  padding: 14px 16px !important;
+  padding: 12px 16px !important;
   text-align: left !important;
   border-bottom: none !important;
 }
@@ -275,34 +259,37 @@ tr:hover td {
   background: #141419 !important;
 }
 
-// Money amounts in tables — green
+// Money amounts in tables (2nd column) — green
 td:nth-child(2) {
   font-family: 'Space Mono', monospace;
   color: #22c55e !important;
   font-weight: 700;
 }
 
+// Donor names in tables (1st column) — purple links
+td:first-child a.internal {
+  color: #818cf8 !important;
+  background: rgba(99, 102, 241, 0.1) !important;
+  padding: 2px 8px !important;
+  border-radius: 4px !important;
+  border: none !important;
+  border-bottom: none !important;
+  font-weight: 600;
+}
+
 // --- Blockquotes ---
 blockquote {
-  border-left: 3px solid #ef4444 !important;
-  background: rgba(239, 68, 68, 0.04) !important;
-  border-radius: 0 4px 4px 0;
+  border-left: 3px solid #818cf8 !important;
+  background: rgba(99, 102, 241, 0.04) !important;
+  border-radius: 0 6px 6px 0;
   padding: 16px 24px !important;
   margin: 24px 0;
 }
 
 blockquote p {
   color: #d4d4dc !important;
-  font-size: 16px !important;
+  font-size: 15px !important;
   line-height: 1.7;
-  font-style: normal !important;
-}
-
-blockquote p:last-child {
-  font-family: 'Space Mono', monospace;
-  font-size: 11px !important;
-  color: #63636e !important;
-  margin-top: 8px;
 }
 
 // --- Code ---
@@ -318,7 +305,7 @@ code {
 pre {
   background: #0a0a0f !important;
   border: 1px solid #1e1e28 !important;
-  border-radius: 4px !important;
+  border-radius: 6px !important;
 }
 
 pre > code {
@@ -326,35 +313,23 @@ pre > code {
   padding: 16px !important;
 }
 
-// --- Money amounts ---
-// In vault: **`$1.6B`**
+// --- Money amounts: **`$1.6B`** ---
 strong > code, b > code {
   color: #22c55e !important;
   font-family: 'Space Mono', monospace !important;
   font-weight: 700 !important;
   font-size: 1.1em !important;
   background: rgba(34, 197, 94, 0.08) !important;
-  border: 1px solid rgba(34, 197, 94, 0.2) !important;
+  border: 1px solid rgba(34, 197, 94, 0.15) !important;
   padding: 2px 8px !important;
   border-radius: 3px;
-}
-
-// --- Graph ---
-.graph {
-  border: 1px solid #1e1e28;
-  border-radius: 4px;
-  overflow: hidden;
-}
-
-.graph > svg {
-  background: #0a0a0f !important;
 }
 
 // --- Search ---
 .search-bar, #search-container > #search-space > input {
   background: #13131a !important;
   border: 1px solid #1e1e28 !important;
-  border-radius: 4px !important;
+  border-radius: 6px !important;
   color: #e4e4e7 !important;
 }
 
@@ -375,7 +350,7 @@ strong > code, b > code {
 }
 
 .toc a:hover {
-  color: #ef4444 !important;
+  color: #818cf8 !important;
 }
 
 .toc .depth-1 > li > a {
@@ -393,18 +368,18 @@ strong > code, b > code {
 .backlinks > h3 {
   font-family: 'Space Mono', monospace !important;
   font-size: 11px !important;
-  letter-spacing: 3px !important;
+  letter-spacing: 2px !important;
   text-transform: uppercase !important;
   color: #63636e !important;
   margin-bottom: 12px;
 }
 
 .backlinks ul li a {
-  color: #ef4444 !important;
+  color: #818cf8 !important;
 }
 
 .backlinks ul li a:hover {
-  color: #f87171 !important;
+  color: #a5b4fc !important;
 }
 
 // --- Breadcrumbs ---
@@ -412,8 +387,7 @@ strong > code, b > code {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
   color: #63636e;
-  letter-spacing: 1px;
-  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 .breadcrumb-container a {
@@ -421,14 +395,14 @@ strong > code, b > code {
 }
 
 .breadcrumb-container a:hover {
-  color: #ef4444 !important;
+  color: #818cf8 !important;
 }
 
 // --- Popover ---
 .popover {
   background: #13131a !important;
   border: 1px solid #1e1e28 !important;
-  border-radius: 4px !important;
+  border-radius: 6px !important;
   box-shadow: 0 12px 40px rgba(0, 0, 0, 0.6) !important;
 }
 
@@ -451,22 +425,22 @@ footer a {
 // --- Folder listing pages ---
 .section-li {
   border-bottom: 1px solid #1a1a22;
-  padding: 6px 0;
+  padding: 8px 0;
 }
 
 .section-li .section a {
   font-weight: 600;
-  color: #ef4444 !important;
+  color: #818cf8 !important;
 }
 
 .section-li .section a:hover {
-  color: #f87171 !important;
+  color: #a5b4fc !important;
 }
 
 // --- Horizontal rules ---
 hr {
   border: none;
-  border-top: 2px solid #ef4444;
+  border-top: 2px solid #818cf8;
   margin: 32px 0;
   width: 60px;
 }
@@ -491,7 +465,7 @@ hr {
 
 // --- Selection ---
 ::selection {
-  background: rgba(239, 68, 68, 0.25);
+  background: rgba(99, 102, 241, 0.3);
   color: #e4e4e7;
 }
 
@@ -506,13 +480,6 @@ hr {
   font-size: 10px !important;
   color: #63636e !important;
   font-weight: 700 !important;
-}
-
-// --- Related/donor metadata at top of profiles ---
-article > p:first-of-type {
-  font-size: 13px;
-  color: #a1a1aa;
-  line-height: 1.8;
 }
 
 // --- Mobile ---
@@ -532,51 +499,6 @@ article > p:first-of-type {
   td, th {
     padding: 8px 10px !important;
   }
-}
-
-// --- Hide duplicate frontmatter tags from article body ---
-// Quartz renders tags both from TagList component AND inline from frontmatter
-// Keep only one set — the inline ones inside article
-article > ul.tags:first-of-type {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  list-style: none !important;
-  padding: 0 !important;
-  margin: 0 0 20px 0 !important;
-}
-
-article > ul.tags:first-of-type ~ ul.tags {
-  display: none !important;
-}
-
-// If TagList renders a separate container above article, hide it
-.tag-container {
-  display: none !important;
-}
-
-// --- Force all Quartz --secondary uses to red ---
-// Override base.scss which uses var(--secondary) for many elements
-a, a:visited {
-  color: var(--secondary);
-}
-
-a:hover {
-  color: #f87171 !important;
-}
-
-// Ensure blockquotes use red not any inherited color
-blockquote {
-  border-left-color: #ef4444 !important;
-}
-
-// --- Checklist items in base ---
-input[type="checkbox"] {
-  border-color: #ef4444 !important;
-}
-
-input[type="checkbox"]:checked {
-  background-color: #ef4444 !important;
 }
 
 // --- Print ---

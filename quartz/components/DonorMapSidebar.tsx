@@ -6,12 +6,10 @@ const DonorMapSidebar: QuartzComponent = ({
   fileData,
   cfg,
   displayClass,
-  allFiles,
 }: QuartzComponentProps) => {
   const baseDir = pathToRoot(fileData.slug!)
-  const currentSlug = fileData.slug ?? ""
+  const currentSlug = (fileData.slug ?? "").toLowerCase()
 
-  // Key politicians with tracked amounts
   const politicians = [
     { name: "Nancy Pelosi", amount: "$14.2M", slug: "Politicians/Democrats/House/Nancy-Pelosi/_Nancy-Pelosi-Master-Profile" },
     { name: "Mitch McConnell", amount: "$11.8M", slug: "Politicians/Republicans/Senate/Mitch-McConnell/_Mitch-McConnell-Master-Profile" },
@@ -20,28 +18,33 @@ const DonorMapSidebar: QuartzComponent = ({
     { name: "Donald Trump", amount: "$7.2M", slug: "Politicians/Republicans/Presidential/Donald-Trump/_Donald-Trump-Master-Profile" },
   ]
 
-  // Key donors
   const donors = [
-    { name: "Goldman Sachs", slug: "Donors-&-Power-Networks/Wall-Street-&-Finance/Goldman-Sachs" },
-    { name: "AIPAC", slug: "Donors-&-Power-Networks/Israel-Lobby/AIPAC" },
-    { name: "Koch Network", slug: "Donors-&-Power-Networks/Koch-Network" },
-    { name: "Lockheed Martin", slug: "Donors-&-Power-Networks/Defense-&-Intelligence/Lockheed-Martin" },
+    { name: "Goldman Sachs", icon: "\u{1F3E6}", slug: "Donors-&-Power-Networks/Wall-Street-&-Finance/Goldman-Sachs" },
+    { name: "AIPAC", icon: "\u{1F54E}", slug: "Donors-&-Power-Networks/Israel-Lobby/AIPAC" },
+    { name: "Koch Network", icon: "\u{1F3ED}", slug: "Donors-&-Power-Networks/Koch-Network" },
+    { name: "Lockheed Martin", icon: "\u{2708}", slug: "Donors-&-Power-Networks/Defense-&-Intelligence/Lockheed-Martin" },
   ]
 
-  // Key contradictions
   const contradictions = [
-    { name: "Drug Pricing Theater", slug: "Stories/Contradictions/Contradiction-01" },
-    { name: "Defense Budget Bloat", slug: "Stories/Contradictions/Contradiction-02" },
-    { name: "Carried Interest Scam", slug: "Stories/Contradictions/Contradiction-03" },
+    { name: "Drug Pricing Theater", icon: "\u{1F48A}", slug: "Stories/Contradictions/Contradiction-01" },
+    { name: "Defense Budget Bloat", icon: "\u{1F4A3}", slug: "Stories/Contradictions/Contradiction-02" },
+    { name: "Carried Interest Scam", icon: "\u{1F4B0}", slug: "Stories/Contradictions/Contradiction-03" },
+  ]
+
+  const tools = [
+    { name: "Money Flow", icon: "\u{1F4CA}", slug: "Assets/donor-money-flow" },
+    { name: "ROI Calculator", icon: "\u{1F4B0}", slug: "Assets/roi-calculator" },
+    { name: "Both-Sides", icon: "\u{1F504}", slug: "Assets/both-sides-machine" },
   ]
 
   return (
     <div class={classNames(displayClass, "donor-map-sidebar")}>
       <div class="dm-logo">
         <a href={baseDir}>
-          <span class="dm-logo-text">DONOR MAP<span class="dm-cursor">_</span></span>
+          <span class="dm-logo-dm">DM</span>
+          <span class="dm-logo-text"> Donor Map<span class="dm-cursor">_</span></span>
         </a>
-        <div class="dm-subtitle">FOLLOW THE MONEY</div>
+        <div class="dm-subtitle">v2.0 — 1,442 nodes tracked</div>
       </div>
 
       <nav class="dm-nav">
@@ -49,7 +52,7 @@ const DonorMapSidebar: QuartzComponent = ({
           <div class="dm-section-label">POLITICIANS</div>
           <ul class="dm-list">
             {politicians.map((p) => {
-              const isActive = currentSlug.toLowerCase().includes(p.name.toLowerCase().replace(/ /g, "-"))
+              const isActive = currentSlug.includes(p.name.toLowerCase().replace(/ /g, "-"))
               return (
                 <li class={`dm-list-item ${isActive ? "dm-active" : ""}`}>
                   <a href={`${baseDir}/${p.slug}`} class={`dm-link ${isActive ? "dm-active-link" : ""}`}>
@@ -63,11 +66,12 @@ const DonorMapSidebar: QuartzComponent = ({
         </div>
 
         <div class="dm-section">
-          <div class="dm-section-label">DONORS</div>
+          <div class="dm-section-label">DONOR NODES</div>
           <ul class="dm-list">
             {donors.map((d) => (
               <li class="dm-list-item">
                 <a href={`${baseDir}/${d.slug}`} class="dm-link">
+                  <span class="dm-icon">{d.icon}</span>
                   <span class="dm-name">{d.name}</span>
                 </a>
               </li>
@@ -81,6 +85,7 @@ const DonorMapSidebar: QuartzComponent = ({
             {contradictions.map((c) => (
               <li class="dm-list-item">
                 <a href={`${baseDir}/${c.slug}`} class="dm-link">
+                  <span class="dm-icon">{c.icon}</span>
                   <span class="dm-name">{c.name}</span>
                 </a>
               </li>
@@ -89,23 +94,16 @@ const DonorMapSidebar: QuartzComponent = ({
         </div>
 
         <div class="dm-section">
-          <div class="dm-section-label">TOOLS</div>
+          <div class="dm-section-label">INTERACTIVE</div>
           <ul class="dm-list">
-            <li class="dm-list-item">
-              <a href={`${baseDir}/Assets/donor-money-flow`} class="dm-link dm-tool-link">
-                Money Flow <span class="dm-arrow">→</span>
-              </a>
-            </li>
-            <li class="dm-list-item">
-              <a href={`${baseDir}/Assets/roi-calculator`} class="dm-link dm-tool-link">
-                ROI Calculator <span class="dm-arrow">→</span>
-              </a>
-            </li>
-            <li class="dm-list-item">
-              <a href={`${baseDir}/Assets/both-sides-machine`} class="dm-link dm-tool-link">
-                Both-Sides Machine <span class="dm-arrow">→</span>
-              </a>
-            </li>
+            {tools.map((t) => (
+              <li class="dm-list-item">
+                <a href={`${baseDir}/${t.slug}`} class="dm-link">
+                  <span class="dm-icon">{t.icon}</span>
+                  <span class="dm-name">{t.name}</span>
+                </a>
+              </li>
+            ))}
           </ul>
         </div>
       </nav>
@@ -125,23 +123,36 @@ DonorMapSidebar.css = `
 
 /* Logo */
 .dm-logo {
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 .dm-logo a {
   text-decoration: none !important;
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+
+.dm-logo-dm {
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+  font-weight: 700;
+  color: #818cf8;
+  background: rgba(99, 102, 241, 0.15);
+  padding: 2px 6px;
+  border-radius: 3px;
+  margin-right: 8px;
 }
 
 .dm-logo-text {
-  font-family: 'Space Mono', monospace;
-  font-size: 22px;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 18px;
   font-weight: 700;
-  color: #ef4444;
-  letter-spacing: 2px;
+  color: #e4e4e7;
 }
 
 .dm-cursor {
-  color: #22c55e;
+  color: #818cf8;
   animation: blink 1.2s step-end infinite;
 }
 
@@ -153,27 +164,26 @@ DonorMapSidebar.css = `
 .dm-subtitle {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  letter-spacing: 3px;
+  letter-spacing: 0.5px;
   color: #63636e;
   margin-top: 4px;
+  margin-left: 2px;
 }
 
 /* Navigation */
 .dm-nav {
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 1.25rem;
 }
 
 .dm-section-label {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   font-weight: 700;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   color: #63636e;
-  margin-bottom: 8px;
-  padding-bottom: 4px;
-  border-bottom: 1px solid #1e1e28;
+  margin-bottom: 6px;
 }
 
 .dm-list {
@@ -182,7 +192,7 @@ DonorMapSidebar.css = `
   margin: 0 !important;
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  gap: 1px;
 }
 
 .dm-list-item {
@@ -191,11 +201,7 @@ DonorMapSidebar.css = `
   list-style: none !important;
 }
 
-.dm-list-item::before {
-  display: none !important;
-  content: none !important;
-}
-
+.dm-list-item::before,
 .dm-list-item::marker {
   display: none !important;
   content: none !important;
@@ -203,28 +209,30 @@ DonorMapSidebar.css = `
 
 .dm-link {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  padding: 6px 8px;
-  border-radius: 4px;
+  padding: 7px 10px;
+  border-radius: 6px;
   text-decoration: none !important;
-  transition: background 0.15s;
+  transition: background 0.15s, color 0.15s;
   font-size: 14px;
-  color: #d4d4dc !important;
+  color: #a1a1aa !important;
   background: none !important;
   border: none !important;
+  border-left: 3px solid transparent !important;
+  gap: 8px;
 }
 
 .dm-link:hover {
-  background: rgba(239, 68, 68, 0.08) !important;
-  color: #ffffff !important;
+  background: rgba(99, 102, 241, 0.08) !important;
+  color: #e4e4e7 !important;
 }
 
-/* Active state for current page */
+/* Active state — purple left border + highlight */
 .dm-active-link {
-  color: #ffffff !important;
-  font-weight: 700 !important;
-  background: rgba(239, 68, 68, 0.1) !important;
+  color: #e4e4e7 !important;
+  font-weight: 600 !important;
+  background: rgba(99, 102, 241, 0.12) !important;
+  border-left: 3px solid #818cf8 !important;
 }
 
 .dm-active-link .dm-amount {
@@ -233,32 +241,22 @@ DonorMapSidebar.css = `
 
 .dm-name {
   font-weight: 500;
+  flex: 1;
 }
 
 .dm-amount {
   font-family: 'Space Mono', monospace;
-  font-size: 13px;
-  font-weight: 700;
+  font-size: 12px;
+  font-weight: 600;
   color: #22c55e;
+  margin-left: auto;
 }
 
-.dm-tool-link {
-  color: #a1a1aa !important;
-  font-size: 13px;
-}
-
-.dm-tool-link:hover {
-  color: #ef4444 !important;
-}
-
-.dm-arrow {
-  color: #ef4444;
-  font-weight: 700;
-  transition: transform 0.15s;
-}
-
-.dm-link:hover .dm-arrow {
-  transform: translateX(3px);
+.dm-icon {
+  font-size: 14px;
+  width: 20px;
+  text-align: center;
+  flex-shrink: 0;
 }
 
 /* Hide on mobile */
