@@ -79,15 +79,31 @@ const hookCards: HookCard[] = [
   },
 ]
 
-// ─── Featured investigation ─────────────────────────────────────────
-const featuredInvestigation = {
-  label: "FEATURED INVESTIGATION",
-  title: "The Cuba Fuel Blockade",
-  hook: "On March 16, 2026, Cuba's power grid collapsed. Ten million people went dark. The cause: a U.S. fuel blockade managed by Secretary of State Rubio — whose career was funded by the Fanjul sugar dynasty, the family that directly benefits from eliminating Cuban agricultural competition.",
-  stat: "$2.9M",
-  statLabel: "Fanjul family political spending in 2024",
-  search: "operation-southern-spear-and-the-cuba-fuel-blockade",
+// ─── Featured investigations ────────────────────────────────────────
+interface FeaturedInvestigation {
+  title: string
+  hook: string
+  stat: string
+  statLabel: string
+  search: string
 }
+
+const featuredInvestigations: FeaturedInvestigation[] = [
+  {
+    title: "The Cuba Fuel Blockade",
+    hook: "On March 16, 2026, Cuba's power grid collapsed. Ten million people went dark. The cause: a U.S. fuel blockade managed by Secretary of State Rubio — whose career was funded by the Fanjul sugar dynasty, the family that directly benefits from eliminating Cuban agricultural competition.",
+    stat: "$2.9M",
+    statLabel: "Fanjul family political spending in 2024",
+    search: "operation-southern-spear-and-the-cuba-fuel-blockade",
+  },
+  {
+    title: "The Nuestra America Convoy",
+    hook: "650 people from 33 nations delivered 20+ tons of humanitarian aid to Cuba. Within 72 hours, the donor class that profits from the embargo launched a coordinated media-political attack to punish them. The same politicians who receive anti-Cuba lobby money led the charge.",
+    stat: "650+",
+    statLabel: "participants from 33 nations",
+    search: "the-nuestra-america-convoy---how-the-donor-class-attacked-a-humanitarian-mission",
+  },
+]
 
 // ─── Component ──────────────────────────────────────────────────────
 const LandingPage: QuartzComponent = ({
@@ -219,21 +235,25 @@ const LandingPage: QuartzComponent = ({
         </div>
       </section>
 
-      {/* ── Featured investigation ── */}
+      {/* ── Featured investigations ── */}
       <section class="lp-featured">
-        <div class="lp-section-label">{featuredInvestigation.label}</div>
-        <div class="lp-featured-card">
-          <div class="lp-featured-content">
-            <h3 class="lp-featured-title">{featuredInvestigation.title}</h3>
-            <p class="lp-featured-hook">{featuredInvestigation.hook}</p>
-            <a href={getHref(featuredInvestigation.search)} class="lp-featured-link">
-              Read the full investigation →
-            </a>
-          </div>
-          <div class="lp-featured-stat">
-            <span class="lp-featured-stat-number">{featuredInvestigation.stat}</span>
-            <span class="lp-featured-stat-label">{featuredInvestigation.statLabel}</span>
-          </div>
+        <div class="lp-section-label">FEATURED INVESTIGATIONS</div>
+        <div class="lp-featured-grid">
+          {featuredInvestigations.map((inv) => (
+            <div class="lp-featured-card">
+              <div class="lp-featured-content">
+                <h3 class="lp-featured-title">{inv.title}</h3>
+                <p class="lp-featured-hook">{inv.hook}</p>
+                <a href={getHref(inv.search)} class="lp-featured-link">
+                  Read the full investigation →
+                </a>
+              </div>
+              <div class="lp-featured-stat">
+                <span class="lp-featured-stat-number">{inv.stat}</span>
+                <span class="lp-featured-stat-label">{inv.statLabel}</span>
+              </div>
+            </div>
+          ))}
         </div>
       </section>
 
