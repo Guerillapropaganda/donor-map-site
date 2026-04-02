@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
-import { resolveRelative } from "../util/path"
+import { resolveRelative, simplifySlug, pathToRoot, joinSegments } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 
 // ─── Helpers ────────────────────────────────────────────────────────
@@ -149,6 +149,11 @@ const DonorMapSidebar: QuartzComponent = ({
   allFiles,
 }: QuartzComponentProps) => {
   const currentSlug = (fileData.slug ?? "").toLowerCase()
+  // Use simplified slug (strips /index suffix from folder pages) so pathToRoot
+  // produces the correct number of .. segments matching the actual URL depth.
+  // Without this, folder page links break on subdirectory deployments (GitHub Pages)
+  // because SPA navigation doesn't add trailing slashes.
+  const currentSimplified = simplifySlug(fileData.slug!)
 
   // Count files whose slug starts with a given prefix
   function countInFolder(prefix: string): number {
@@ -159,15 +164,22 @@ const DonorMapSidebar: QuartzComponent = ({
     }).length
   }
 
+  // Build a relative href from the current page to a target slug.
+  // Uses simplified current slug to avoid the /index depth mismatch.
+  function safeHref(targetSlug: string): string {
+    const root = pathToRoot(currentSimplified)
+    return joinSegments(root, targetSlug)
+  }
+
   // Resolve a slug to a relative URL for folder pages
   function getFolderHref(slugPrefix: string): string {
-    return resolveRelative(fileData.slug!, slugPrefix as any)
+    return safeHref(slugPrefix)
   }
 
   // Resolve a search term to a profile page URL
   function getProfileHref(search: string): string {
     const page = findPage(allFiles, search)
-    if (page?.slug) return resolveRelative(fileData.slug!, page.slug)
+    if (page?.slug) return safeHref(simplifySlug(page.slug))
     return "#"
   }
 
@@ -255,7 +267,7 @@ const DonorMapSidebar: QuartzComponent = ({
     <div class={classNames(displayClass, "donor-map-sidebar")}>
       {/* Logo */}
       <div class="dm-logo">
-        <a href={resolveRelative(fileData.slug!, "index" as any)}>
+        <a href={safeHref("")}>
           <span class="dm-logo-dm">DM</span>
           <span class="dm-logo-text"> Donor Map<span class="dm-cursor">_</span></span>
         </a>
