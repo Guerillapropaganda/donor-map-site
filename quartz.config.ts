@@ -1,6 +1,11 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+/**
+ * Quartz 4 Configuration
+ *
+ * See https://quartz.jzhao.xyz/configuration for more information.
+ */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "The Donor Map",
@@ -23,25 +28,25 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#0c0c0f",
-          lightgray: "#1e1e28",
+          lightgray: "#1a1a22",
           gray: "#63636e",
-          darkgray: "#a1a1aa",
+          darkgray: "#b4b4bc",
           dark: "#e4e4e7",
-          secondary: "#818cf8",
+          secondary: "#ef4444",
           tertiary: "#22c55e",
-          highlight: "rgba(99, 102, 241, 0.12)",
-          textHighlight: "rgba(99, 102, 241, 0.2)",
+          highlight: "rgba(239, 68, 68, 0.08)",
+          textHighlight: "rgba(239, 68, 68, 0.15)",
         },
         darkMode: {
           light: "#0c0c0f",
-          lightgray: "#1e1e28",
+          lightgray: "#1a1a22",
           gray: "#63636e",
-          darkgray: "#a1a1aa",
+          darkgray: "#b4b4bc",
           dark: "#e4e4e7",
-          secondary: "#818cf8",
+          secondary: "#ef4444",
           tertiary: "#22c55e",
-          highlight: "rgba(99, 102, 241, 0.12)",
-          textHighlight: "rgba(99, 102, 241, 0.2)",
+          highlight: "rgba(239, 68, 68, 0.08)",
+          textHighlight: "rgba(239, 68, 68, 0.15)",
         },
       },
     },
@@ -49,8 +54,16 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({ priority: ["frontmatter", "git", "filesystem"] }),
-      Plugin.SyntaxHighlighting({ theme: { light: "github-light", dark: "github-dark" }, keepBackground: false }),
+      Plugin.CreatedModifiedDate({
+        priority: ["frontmatter", "git", "filesystem"],
+      }),
+      Plugin.SyntaxHighlighting({
+        theme: {
+          light: "github-light",
+          dark: "github-dark",
+        },
+        keepBackground: false,
+      }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
@@ -65,11 +78,16 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
-      Plugin.ContentIndex({ enableSiteMap: true, enableRSS: true }),
+      Plugin.ContentIndex({
+        enableSiteMap: true,
+        enableRSS: true,
+      }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      // Comment out CustomOgImages to speed up build time
+      // Plugin.CustomOgImages(),
     ],
   },
 }
