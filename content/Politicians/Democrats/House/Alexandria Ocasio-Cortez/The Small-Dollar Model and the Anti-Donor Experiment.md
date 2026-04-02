@@ -2,7 +2,7 @@
 title: "The Small-Dollar Model and the Anti-Donor Experiment"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-02
 source-tier: 1
 parent: [[_Alexandria Ocasio-Cortez Master Profile]]
 ---
@@ -56,15 +56,21 @@ The implications:
 
 ### The [[ActBlue|ActBlue]] Infrastructure
 
-AOC's small-dollar operation runs primarily through [[ActBlue|ActBlue]], the Democratic fundraising platform. Her email list, social media following (15+ million across platforms), and news-cycle presence function as the acquisition engine: controversy, legislation, cultural moments, and direct appeals all generate donation spikes.
+AOC's small-dollar operation runs primarily through [[ActBlue|ActBlue]], the Democratic fundraising platform (secure.actblue.com/donate/ocasio2020). Her email list, social media following (15+ million across platforms), and news-cycle presence function as the acquisition engine: controversy, legislation, cultural moments, and direct appeals all generate donation spikes.
 
-The model borrows directly from [[_Bernie Sanders Master Profile|Bernie Sanders]]' 2016 and 2020 presidential campaigns:
-- Low average donation: makes mass volume possible
-- Recurring small donors: generates predictable revenue independent of news cycles
-- Non-transactional relationship: donors give because of identification with the politician, not because of policy-specific transactional access
-- National donor base: unlike most House members, AOC's donors are nationwide, making her less dependent on any geographic donor community
+> [!money]
+> ActBlue charges a standard 3.95% processing fee on each contribution. Applied to AOC's career total of ~$73.9 million, this translates to roughly $2.92 million in processing fees paid to ActBlue. For the 2023–2024 cycle alone ($15.16M raised): ~$599,000 in fees. This is a cost borne by the campaigns, not deducted from donor contributions. In H1 2025, AOC received the third-most small-dollar donations on ActBlue, trailing only the DNC and DSCC — beating the DCCC and every other individual candidate. [ActBlue Pricing](https://www.actblue.com/pricing/) (Tier 2), [CNN](https://www.cnn.com/2025/08/26/politics/aoc-ocasio-cortez-fundraising-democrats) (Tier 2)
+
+The model borrows directly from [[_Bernie Sanders Master Profile|Bernie Sanders]]' 2016 and 2020 presidential campaigns: low average donation ($20) makes mass volume possible; recurring small donors generate predictable revenue; non-transactional relationship means donors give from identification, not policy access; national donor base makes her less dependent on any geographic community.
 
 **The ProPublica investigation angle:** ProPublica reported on how some progressive fundraisers (Hawley, Greene) juice their fundraising numbers through expensive email vendor relationships that take as much as 80 cents on the dollar. AOC's operation has not been subject to the same criticism — her high average individual contribution count and low average amount suggest genuine grassroots volume rather than expensive list acquisition.
+
+### The Professional-Class Donor Problem
+
+> [!contradiction]
+> The small-dollar model is empirically clean: no corporate PAC money, 70%+ from sub-$200 contributions. But the class composition of those small-dollar donors complicates the "working-class funding" narrative. Her top contributing industries (all individual employees): Education ($2.64M career), Health Professionals ($1.1M+), Electronics/Tech ($3.66M combined), Lawyers ($2.59M), Securities & Investment ($2.67M combined), TV/Movies/Music ($985K). Top contributing employers: Google ($162K), NYC Dept of Education ($67K), Amazon ($63K), Apple ($63K), NYU ($47K). Geographic concentration: 99%+ of individual contributions from outside NY-14; only 6% of 2018 itemized donations came from within her district; California is the largest out-of-state source. Evidence of contribution-splitting: the New York Post documented a Manhattan doctor making 130 donations as low as $1.25 totaling $2,100; a Google engineer splitting donations into small increments via ActBlue. The honest assessment: her small-dollar base is disproportionately composed of educated professionals in coastal metros — not the working-class Bronx-Queens constituency she represents. [OpenSecrets Industries Combined](https://www.opensecrets.org/members-of-congress/industries?cycle=2024&type=C) (Tier 1), [New York Post](https://nypost.com/2025/11/15/us-news/aoc-trumpets-small-donors-but-celebs-like-jane-fonda-ben-affleck-wanda-sykes-and-melanie-griffith-give-big/) (Tier 2), [OpenSecrets Out-of-State 2018](https://www.opensecrets.org/news/2018/07/alexandria-ocasio-cortez-boosted-by-out-of-state-donors-after-primary-win/) (Tier 1)
+
+Notable high-profile individual donors documented by the New York Post: Jane Fonda, Ben Affleck, Wanda Sykes, Jackson Browne ($12,000 since 2020), Oracle NetSuite founder Evan Goldberg ($6,600 in 2025), Patagonia heir Claire Chouinard ($6,300), Bridgewater Associates deputy CEO Porter Diehl ($3,500 in 2025).
 
 ---
 

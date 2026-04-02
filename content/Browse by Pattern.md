@@ -1,14 +1,19 @@
 ---
 title: "Browse by Pattern"
+type: index
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: null
+parent: null
 ---
 
-## Browse by Pattern
+### Browse by Pattern
 
 These patterns recur across the database — across parties, chambers, decades, and industries. Once you see one, you start seeing it everywhere. Each section lists profiles where the pattern is most visible.
 
 ---
 
-## Genuine Win + Structural Limit
+### Genuine Win + Structural Limit
 
 A real policy victory that stops short of threatening donor interests. The win is real. The ceiling is funded.
 
@@ -22,7 +27,7 @@ A real policy victory that stops short of threatening donor interests. The win i
 
 ---
 
-## Two-Audience Problem
+### Two-Audience Problem
 
 One message for voters, another for donors. The progressive speech and the private fundraiser serve different masters.
 
@@ -36,7 +41,7 @@ One message for voters, another for donors. The progressive speech and the priva
 
 ---
 
-## Revolving Door
+### Revolving Door
 
 Staff cycling between congressional offices, regulatory agencies, and the industries they're supposed to oversee. The door spins in both directions.
 
@@ -49,7 +54,7 @@ Staff cycling between congressional offices, regulatory agencies, and the indust
 
 ---
 
-## Donor-Class Override
+### Donor-Class Override
 
 A policy outcome that directly contradicts what the constituency wants but serves the people who write the checks.
 
@@ -59,7 +64,7 @@ A policy outcome that directly contradicts what the constituency wants but serve
 
 ---
 
-## Both-Sides Illusion
+### Both-Sides Illusion
 
 Two politicians in public opposition who share the same donors. The fight is real. The funding is bipartisan.
 
@@ -69,7 +74,7 @@ Two politicians in public opposition who share the same donors. The fight is rea
 
 ---
 
-## Dark Money Symmetry
+### Dark Money Symmetry
 
 Democrats and Republicans running identical dark money operations while one denounces the other's.
 
@@ -79,7 +84,7 @@ Democrats and Republicans running identical dark money operations while one deno
 
 ---
 
-## Self-Funding as Independence
+### Self-Funding as Independence
 
 Billionaire candidates framed as uncorruptible because they fund themselves.
 
@@ -89,7 +94,7 @@ Billionaire candidates framed as uncorruptible because they fund themselves.
 
 ---
 
-## Committee Jurisdiction as Fundraising Engine
+### Committee Jurisdiction as Fundraising Engine
 
 The committee assignment creates the donor pipeline, not the other way around.
 
@@ -100,4 +105,6 @@ The committee assignment creates the donor pipeline, not the other way around.
 
 ---
 
-**[[Politicians Index]]** · **[[Donors & Power Networks Index]]** · **[[Follow the Money - Guided Tour]]**
+### Return to [[The Donor Map Database]]** · **[[Politicians Index]]** · **[[Donors & Power Networks Index]]** · **[[Follow the Money - Guided Tour]]
+
+content-readiness:: ready

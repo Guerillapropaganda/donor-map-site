@@ -1,14 +1,19 @@
 ---
 title: "Follow the Money - Guided Tour"
+type: story
+content-readiness: ready
+last-updated: 2026-03-31
+source-tier: null
+parent: null
 ---
 
-## Follow the Money — Guided Tour
+### Follow the Money — Guided Tour
 
-The database has 1,400+ profiles. This is where to start. Each trail follows the money through a different slice of the political system — from donor to politician to policy outcome. Pick one and follow the links.
+The database has 1,200+ profiles. This is where to start. Each trail follows the money through a different slice of the political system — from donor to politician to policy outcome. Pick one and follow the links.
 
 ---
 
-## Trail 1: The Cuba Fuel Blockade — Imperialism With Receipts
+### Trail 1: The Cuba Fuel Blockade — Imperialism With Receipts
 
 On March 16, 2026, Cuba's national power grid collapsed entirely. Ten million people lost electricity. The cause: Operation Southern Spear — a U.S. naval blockade that intercepted fuel shipments to the island while sanctions eliminated every alternative supply. By late March, 47 vessels had been struck, hospitals suspended non-urgent surgeries, schools closed, and the UN condemned the operation as "a serious violation of international law."
 
@@ -18,13 +23,17 @@ Then follow the infrastructure play: the [[LARA Fund - Mauricio Claver-Carone|LA
 
 Then the legislative shield: [[_Mario Diaz-Balart Master Profile|Rep. Mario Diaz-Balart]] — Vice Chair of House Appropriations, top congressional recipient of Fanjul money — writes the spending bills that fund the blockade and prohibit any policy reversal.
 
+The OFAC "wedge": on February 25, 2026, Treasury issued FAQ 1238 — a "favorable licensing policy" allowing fuel resale to Cuba's *private sector only*. State hospitals, public water systems, refrigeration for 10 million people — excluded. The structural outcome is forced privatization of energy survival. Whoever controls fuel access controls the island's economic future. The same policy that blocks state fuel creates the conditions under which private capital acquires Cuban infrastructure at fire-sale prices.
+
+Then on March 31 — the same day the humanitarian crisis dominated international headlines — Trump allowed a Russian tanker carrying 700,000 barrels to dock at Matanzas, saying "They have to survive." The administration that engineered the blockade gave itself the humanitarian release valve. The contradiction reveals the strategy: not destruction, but controlled pressure that produces a negotiating partner willing to accept terms set by U.S.-aligned capital.
+
 This is not diplomacy. This is the donor-to-policy pipeline operating at the scale of a nation's survival. Sugar money in, fuel blockade out, infrastructure acquisition pending. Timestamped and sourced.
 
 **[[Operation Southern Spear and the Cuba Fuel Blockade|Read the full investigation →]]** · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals|Fanjul Family]] · [[LARA Fund - Mauricio Claver-Carone|LARA Fund]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]]
 
 ---
 
-## Trail 2: Wall Street Owns the Senate
+### Trail 2: Wall Street Owns the Senate
 
 Start with the man who runs the Democratic Senate: [[_Chuck Schumer Master Profile|Chuck Schumer]] — the top Wall Street recipient in the entire Congress, with four documented donation-to-policy sequences and $230M+ flowing through his Senate Majority PAC. Follow his funding to [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] and the securities industry. Then read [[The Wall Street-Schumer Funding Axis]] to see the pipeline in full.
 
@@ -34,7 +43,7 @@ Compare Schumer to his Republican counterpart [[_Mitch McConnell Master Profile|
 
 ---
 
-## Trail 3: The Defense Money Pipeline
+### Trail 3: The Defense Money Pipeline
 
 Start with [[Lockheed Martin]] — 20 documented donation-to-policy sequences across both parties. Follow the defense money to [[_Jeanne Shaheen Master Profile|Jeanne Shaheen]] — five defense contractors in her top 20 donors, sitting on Foreign Relations, Armed Services, and Appropriations simultaneously. Then [[_Martin Heinrich Master Profile|Martin Heinrich]] — a former weapons lab contractor who now chairs the committees that fund the labs.
 
@@ -44,7 +53,7 @@ See how the lobbying arm delivers the ask: [[Akin Gump Strauss Hauer & Feld|Akin
 
 ---
 
-## Trail 4: Big Pharma vs. Everyone
+### Trail 4: Big Pharma vs. Everyone
 
 Start with [[PhRMA]] — the pharmaceutical industry's $254M+ political spending operation — and [[Pfizer]]. Then read [[_Chris Coons Master Profile|Chris Coons]] — third-highest pharma recipient in the Senate, patent maximalist who opposed COVID vaccine patent sharing. Compare him to [[_Elizabeth Warren Master Profile|Elizabeth Warren]] — the most detailed profile in the database, documenting how the CFPB was created and then systematically destroyed by the industries it regulated.
 
@@ -54,7 +63,7 @@ See how the think tanks provide intellectual cover: [[Manhattan Institute]] and 
 
 ---
 
-## Trail 5: Dark Money Left and Right
+### Trail 5: Dark Money Left and Right
 
 Start with the right: [[Koch Network - Charles Koch|Koch Network]] → [[Americans for Prosperity]] → [[Heritage Foundation]] → [[Federalist Society]] → [[Leonard Leo]] → [[Judicial Crisis Network]]. Follow the pipeline from billionaire donors through think tanks and legal networks to Supreme Court appointments.
 
@@ -66,7 +75,7 @@ Read [[_Sheldon Whitehouse Master Profile|Sheldon Whitehouse]] — the Democrat 
 
 ---
 
-## Trail 6: The Supreme Court Was Purchased
+### Trail 6: The Supreme Court Was Purchased
 
 Start with [[Leonard Leo]] and the [[Federalist Society]]. Follow the money through [[Judicial Crisis Network]] and the confirmation campaigns. Then read the justices: [[_Clarence Thomas Master Profile|Clarence Thomas]] ($4.75M in documented Harlan Crow gifts over 30 years), [[_Samuel Alito Master Profile|Samuel Alito]] (the $100K+ Fisher trip that preceded a $2.4B Argentina case), [[_Neil Gorsuch Master Profile|Neil Gorsuch]], [[_Brett Kavanaugh Master Profile|Brett Kavanaugh]], [[_Amy Coney Barrett Master Profile|Amy Coney Barrett]].
 
@@ -76,7 +85,7 @@ See how the think tanks built the pipeline: [[Federalist Society]], [[Heritage F
 
 ---
 
-## Trail 7: The Trump Cabinet Is a Donor Map
+### Trail 7: The Trump Cabinet Is a Donor Map
 
 Start with [[_Donald Trump Master Profile|Trump]] — the most documented individual in the database — and follow the money to his cabinet: [[_Howard Lutnick Master Profile|Howard Lutnick]] (Wall Street), [[_Scott Bessent Master Profile|Scott Bessent]] (hedge fund), [[_Chris Wright Master Profile|Chris Wright]] (fossil fuel), [[_Doug Burgum Master Profile|Doug Burgum]] (billionaire self-funder), [[_Linda McMahon Master Profile|Linda McMahon]] ($100M+ Trump donor), [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] (pharma/tech).
 
@@ -86,7 +95,7 @@ Then follow the policy portfolios: [[_David Sacks Master Profile|David Sacks]] (
 
 ---
 
-## Trail 8: The Consent Machine
+### Trail 8: The Consent Machine
 
 This trail goes through the parallel pipelines — the infrastructure that manufactures public support for donor-class policy outcomes.
 
@@ -100,7 +109,7 @@ Then the lobbyists who deliver the ask: [[Alpine Group]], [[BGR Group]], [[Balla
 
 ---
 
-## Trail 9: The Israel Lobby
+### Trail 9: The Israel Lobby
 
 Start with [[AIPAC - American Israel Public Affairs Committee|AIPAC]] — the most powerful single-issue lobby in American politics. Follow the money to [[DMFI - Democratic Majority for Israel|DMFI]], [[United Democracy Project - UDP|United Democracy Project]], and [[Haim Saban]]. Then read how the lobby money maps onto votes: [[_Chuck Schumer Master Profile|Schumer]] ($3.4M+ career), [[_Hakeem Jeffries Master Profile|Jeffries]], [[_Benjamin Netanyahu Master Profile|Netanyahu]]'s American funding network.
 
@@ -108,7 +117,7 @@ Start with [[AIPAC - American Israel Public Affairs Committee|AIPAC]] — the mo
 
 ---
 
-## Where to Go Next
+### Where to Go Next
 
 **[[Browse by Pattern]]** — Explore the database by analytical pattern: Revolving Door, Two-Audience Problem, Donor-Class Override, Dark Money Symmetry.
 
@@ -117,3 +126,9 @@ Start with [[AIPAC - American Israel Public Affairs Committee|AIPAC]] — the mo
 **[[Donors & Power Networks Index]]** — Every donor, organized by sector.
 
 **[[About The Donor Map]]** — The mission, the methodology, and why this exists.
+
+**[[The Donor Map Database]]** — Back to the homepage.
+
+---
+
+content-readiness:: ready

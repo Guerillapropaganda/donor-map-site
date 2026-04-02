@@ -1,8 +1,17 @@
 ---
 title: "About The Donor Map"
+type: reference
+content-readiness: ready
+last-updated: 2026-04-01
+source-tier: null
+parent: null
 ---
 
-## What This Is
+### About The Donor Map
+
+---
+
+### What This Is
 
 The Donor Map is a donor-first model of American politics. It documents who funds whom, what they got for their money, and how the machinery connecting those two facts actually works.
 
@@ -14,7 +23,7 @@ This is not a blog. This is not opinion. This is an evidence base with an analyt
 
 ---
 
-## The Four Pipelines
+### The Four Pipelines
 
 We track four pipelines:
 
@@ -28,7 +37,7 @@ We track four pipelines:
 
 ---
 
-## Why It's Built This Way
+### Why It's Built This Way
 
 The people who fund American politics have spent decades building the architecture to keep that funding invisible. Campaign finance is fragmented across agencies that don't talk to each other. Dark money flows through entities that never disclose their donors. Lobbying disclosures arrive months late with exemptions wide enough to drive entire industries through. Shell companies stacked on shell companies. Trusts that hide ownership. The opacity isn't a bug. It's the product.
 
@@ -40,7 +49,7 @@ FEC filings are their location data. Lobbying disclosures are their purchase his
 
 ---
 
-## Independence
+### Independence
 
 This is not built by an institution. There is no newsroom behind this. No think tank budget. No graduate fellowship. No nonprofit board filled with the same donors this database tracks.
 
@@ -48,13 +57,13 @@ This is built by a working-class person who got tired. Tired of the corruption. 
 
 The accountability side has FOIA requests and underfunded journalists. The donor class has entire industries dedicated to keeping their influence invisible. That gap exists on purpose. This project is one attempt to close it.
 
-Every claim is cited. Every source is tiered by reliability. Every FEC number comes directly from the government API. The methodology is documented and open. Click any claim. Verify it yourself. Read the full [[Methodology]] page for evidentiary standards, unit definitions, and limitations.
+Every claim is cited. Every source is tiered by reliability. Every FEC number comes directly from the government API. The methodology is documented and open. Click any claim. Verify it yourself.
 
 This project is not affiliated with any political party, campaign, PAC, media outlet, or donor. The framework is class analysis, not partisanship. Democrats and Republicans are both documented here. The money does not care about party. Neither does this database.
 
 ---
 
-## Source Standards
+### Source Standards
 
 Every claim is cited. Every source is tiered by reliability:
 
@@ -69,7 +78,7 @@ If a claim doesn't have a source, it doesn't belong here. This is the paper trai
 
 ---
 
-## Support This Project
+### Support This Project
 
 No advertisers. No corporate sponsors. No PAC money. Just the paper trail, pointed upward.
 
@@ -79,4 +88,8 @@ If this kind of work matters to you, support it directly:
 
 ---
 
-Built in [Obsidian](https://obsidian.md). Published via [Quartz](https://quartz.jzhao.xyz). Sourced from public records.
+Built in [Obsidian](https://obsidian.md). Published via [Obsidian Publish](https://obsidian.md/publish). Sourced from public records.
+
+---
+
+content-readiness:: ready

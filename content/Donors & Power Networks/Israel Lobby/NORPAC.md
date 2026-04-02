@@ -2,7 +2,7 @@
 title: "NORPAC"
 type: donor
 content-readiness: developed
-last-updated: 2026-04-01
+last-updated: 2026-04-02
 source-tier: 1
 parent: null
 ---
@@ -15,15 +15,26 @@ related: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - 
 
 ### Who They Are
 
-NORPAC (founded 1994, based in Englewood, New Jersey) describes itself as "the most active grassroots political action committee supporting the critically important U.S.-Israel relationship." Its model is fundamentally different from AIPAC's mass-lobbying approach — centered on intimate donor dinners that create direct personal relationships between politicians and pro-Israel donors.
+NORPAC (founded 1992 by Rabbi Menachem Genack, based in Englewood Cliffs, New Jersey) describes itself as "the most active grassroots political action committee supporting the critically important U.S.-Israel relationship." FEC registration dates to July 30, 1990; the organization became operationally active by 1992. Its model is fundamentally different from [[AIPAC - American Israel Public Affairs Committee|AIPAC]]'s mass-lobbying approach — centered on intimate donor dinners that create direct personal relationships between politicians and pro-Israel donors.
 
-NORPAC operates through a decentralized, volunteer-driven system: funded and led entirely by volunteers, meaning "100% of every dollar raised goes directly to the pro-Israel candidates we support" with no overhead deduction. This passthrough model makes NORPAC unique in the pro-Israel ecosystem.
+NORPAC operates through a decentralized, volunteer-driven system: funded and led entirely by volunteers, meaning "100% of every dollar raised goes directly to the pro-Israel candidates we support" with no overhead deduction. This passthrough model makes NORPAC unique in the pro-Israel ecosystem. Led by president Dr. Ben Chouake (New Jersey physician), who stated in a 2009 debate with J Street's Jeremy Ben-Ami that NORPAC's "job is to defend Israel in Congress" — which he defined as never criticizing Israeli policies or U.S. support for them in congressional settings.
+
+Some observers have characterized NORPAC as an informal auxiliary arm of AIPAC, taking more explicit public positions than AIPAC is willing to take. During the 2013 Chuck Hagel defense secretary confirmation fight, AIPAC remained officially neutral while NORPAC president Chouake published an op-ed arguing Hagel's nomination was "problematic and should be declined." Several current and former AIPAC leaders — including president Michael Kassen and former president David Steiner — have personally donated thousands of dollars through NORPAC's bundling network. In contrast to AIPAC (which lobbies but does not donate directly to candidates), NORPAC donates money directly to political campaigns and bundles individual donations.
 
 ---
 
 ### What They Want
 
-Strong U.S.-Israel relationship. Iran sanctions. Antisemitism Awareness Act. Arms shipments to Israel. Same policy goals as AIPAC but delivered through personal relationship model rather than mass lobbying infrastructure.
+NORPAC's policy agenda is formally set each year before its annual Mission to Washington, selecting 5 priority issues for congressional lobbying. Core legislative priorities (consistent across cycles):
+
+- **Full unconditional military aid to Israel:** Oppose any cuts to the $3.8B annual security assistance package; oppose any conditions on arms shipments. During 2024, NORPAC explicitly pressed Congress and the Biden administration to stop withholding weapons from Israel during the Gaza war.
+- **Iran containment:** Iran Freedom Support Act, maximum sanctions enforcement, support for Israeli military action against Iranian nuclear program. NORPAC was among the top donors to members of Congress who opposed the 2015 JCPOA Iran nuclear deal.
+- **Antisemitism legislation:** Antisemitism Awareness Act and related measures expanding legal definitions of antisemitism to include certain forms of criticism of Israel.
+- **U.S.-Israel strategic partnership:** Legislation formally designating Israel as a U.S. strategic partner, enabling visa-free travel and enhanced defense cooperation.
+- **Curbing arms transfers to Arab states:** NORPAC has historically claimed credit for restricting U.S. weapons sales to Arab countries on grounds the weapons could be used against Israel.
+- **Opposing BDS:** Support for anti-boycott legislation at federal and state levels.
+
+The policy goals mirror [[AIPAC - American Israel Public Affairs Committee|AIPAC]]'s agenda but are delivered through the personal relationship model rather than mass lobbying infrastructure. The distinction matters: NORPAC creates direct donor-politician intimacy; AIPAC creates institutional pressure at scale.
 
 ---
 
@@ -37,6 +48,22 @@ Strong U.S.-Israel relationship. Iran sanctions. Antisemitism Awareness Act. Arm
 | 2021-2022 | ~$2,500,000 | ~$1,200,000 |
 
 NORPAC's funding is split nearly evenly between parties: $800,218 to Democrats, $836,856 to Republicans in the 2024 cycle.
+
+#### Historical Growth (FEC API Data)
+
+| Cycle | Total Raised | Total Contributions | Growth |
+|-------|-------------|-------------------|--------|
+| 2002 | $613,078 | $306,552 | Baseline |
+| 2006 | $515,729 | $487,314 | Steady |
+| 2010 | $1,254,371 | $1,236,666 | +143% from 2006 |
+| 2014 | $1,736,744 | $1,735,380 | +38% (Iran deal cycle) |
+| 2018 | $2,093,820 | $2,056,156 | +20% (Trump era) |
+| 2022 | $1,996,728 | $1,962,582 | −5% |
+| 2024 | $3,439,062 | $3,357,615 | **+72%** (Gaza war cycle) |
+
+NORPAC increased its spending to $2.7 million in the 2024 elections from $1.6 million in 2022, and increased fundraising events from approximately 40 per year to 60. President Chouake told JNS: "People are distressed. Israel is at war. The house is on fire. People are more active."
+
+- [FEC API: NORPAC committee totals by cycle](https://api.open.fec.gov/v1/committee/C00247403/totals/?api_key=DEMO_KEY&per_page=20&sort=-cycle) (Tier 1)
 
 #### Top Recipients (2024 Cycle)
 
@@ -67,6 +94,24 @@ NORPAC's strategic innovation is the intimate donor dinner model:
 
 ---
 
+### Donation-to-Policy Timeline
+
+| Date | Recipient/Target | Amount | Policy Return | Time Gap |
+|------|-----------------|--------|---------------|----------|
+| 2009 | Members of Congress (Mission to Washington) | ~$1.2M cycle | Lobbied to block cuts to $3B annual Israel aid; aid maintained through Obama admin | Ongoing |
+| 2013 | Chuck Hagel confirmation opposition | Advocacy spend (no direct) | Chouake op-ed calling nomination "problematic"; NORPAC donors funded Hagel opponents; Hagel confirmed but politically weakened | Immediate |
+| 2013 | Congress (Mission) | ~$1.4M cycle | Lobbied for "strategic partner" designation, Iran sanctions, and resolution supporting Israeli strike on Iran | 1–2 years |
+| 2014–2016 | Ed Royce (R-CA), Ted Cruz (R-TX) (top recipients) | Top NORPAC beneficiary + largest overall recipient 2016 | Royce led House effort to "derail" JCPOA Iran nuclear deal; Cruz led Senate opposition; JCPOA survived but with bipartisan opposition secured | 6–12 months |
+| 2022 | Ritchie Torres (D-NY), Josh Gottheimer (D-NJ) | $136K + $63K (bundled) | Torres became leading Democratic voice defending Israel operations in Gaza; Gottheimer co-led bipartisan Iron Dome funding push | Concurrent |
+| 2024 | George Latimer (D-NY16) primary challenge | $53,400 bundled | Latimer defeated progressive incumbent [[_Jamaal Bowman Master Profile\|Jamaal Bowman]] in June 2024 primary; NORPAC support aligned with [[AIPAC - American Israel Public Affairs Committee\|AIPAC]]/[[United Democracy Project - UDP\|UDP]] $14.5M spending | 3 months |
+| 2024 | Mission to Washington (1,200 attendees, 310 meetings) | ~$3.4M cycle | Lobbied for unconditional arms to Israel during Gaza war; pressed against Biden weapons pause; $3.8B FY2025 aid secured without conditions | 6–12 months |
+| 2026 | Mission to Washington (ongoing) | ~$1.8M YTD | 32nd annual Mission; advocacy for continued Israel security assistance under Trump admin | Active |
+
+> [!money] The Bundling Premium
+> NORPAC's direct PAC contributions in 2024 totaled only $79,039 — a fraction of the $3.4M raised. The difference reveals the mechanism: NORPAC's real power is bundling individual donor contributions with earmarked memo lines specifying the recipient. When a politician receives a bundled check from NORPAC, they know the money came "because of a specific issue — a strong U.S.-Israel relationship," as Dr. Chouake explained. The PAC contribution is the label; the bundled individual donations are the payload. This model means NORPAC's influence is dramatically understated by PAC-only contribution databases — its real financial footprint is 40–50× its direct PAC spending.
+
+---
+
 ### What They've Gotten: Access and Influence
 
 #### The Mission to Washington
@@ -93,10 +138,15 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 - [NORPAC official website](https://norpac.net) (UNVERIFIED) (Tier 4)
 - [Jewish Standard/Scribd: NORPAC fundraisers](https://www.scribd.com/document/414628497/Jewish-Standard-June-28-2019-including-supplements-About-Our-Children-and-Bar-Bat-Mitzvah) (UNVERIFIED) (Tier 3)
 - [Jewish Standard: NORPAC hosts fundraiser for Huckabee](https://jewishstandard.timesofisrael.com/norpac-hosts-fundraiser-for-huckabee/) (UNVERIFIED) (Tier 3)
-- [Jewish Link: NORPAC's Annual Mission to Washington](https://jewishlink.news/norpacs-annual-mission-to-washington-a-day-of-advocacy-for-israel/) (UNVERIFIED) (Tier 3)
-- [Rep. Schweikert: NORPAC sends 1,200 advocates to DC](https://schweikert.house.gov/2024/05/23/norpac-sends-1200-advocates-to-dc/) (UNVERIFIED) (Tier 3)
+- [Jewish Link: NORPAC's Annual Mission to Washington](https://jewishlink.news/norpacs-annual-mission-to-washington-a-day-of-advocacy-for-israel/) (Tier 3)
+- [Rep. Schweikert: NORPAC sends 1,200 advocates to DC](https://schweikert.house.gov/2024/05/23/norpac-sends-1200-advocates-to-dc/) (Tier 3)
 - [OpenSecrets: NorPAC profile](https://www.opensecrets.org/political-action-committees-pacs/norpac/C00247403/summary/2024) (Tier 1)
 - [FEC: NorPAC committee data](https://www.fec.gov/data/committee/C00247403/) (Tier 1)
+- [FEC API: NORPAC committee totals by cycle](https://api.open.fec.gov/v1/committee/C00247403/totals/?api_key=DEMO_KEY&per_page=20&sort=-cycle) (Tier 1)
+- [OpenSecrets: NorPAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/norpac/C00247403/candidate-recipients/2024) (Tier 1)
+- [Militarist Monitor: NORPAC profile](https://militarist-monitor.org/profile/norpac/) (Tier 3)
+- [Wikipedia: NORPAC](https://en.wikipedia.org/wiki/NORPAC) (Tier 3)
+- [JNS: Campaign spending at pro-Israel PACs up in 2024](https://www.jns.org/u.s.-news/campaign-spending-at-pro-israel-political-action-committees-up-in-2024) (Tier 3)
 
 ---
 
