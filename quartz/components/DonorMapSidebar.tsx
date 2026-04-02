@@ -342,13 +342,14 @@ DonorMapSidebar.css = `
 }
 
 .dm-cursor {
-  color: #5b8dce;
-  animation: blink 1.2s step-end infinite;
+  color: #22c55e;
+  text-shadow: 0 0 8px rgba(34, 197, 94, 0.6);
+  animation: pulse-glow 2.5s ease-in-out infinite;
 }
 
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
+@keyframes pulse-glow {
+  0%, 100% { opacity: 1; text-shadow: 0 0 8px rgba(34, 197, 94, 0.6); }
+  50% { opacity: 0.3; text-shadow: 0 0 2px rgba(34, 197, 94, 0.2); }
 }
 
 .dm-subtitle {
