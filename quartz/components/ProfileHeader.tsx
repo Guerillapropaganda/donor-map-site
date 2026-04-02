@@ -9,10 +9,10 @@ const ProfileHeader: QuartzComponent = ({
   if (!slug.toLowerCase().includes("master-profile")) return null
 
   const fm = fileData.frontmatter
-  const type = (fm?.type as string) ?? "unknown"
-  const readiness = (fm?.["content-readiness"] as string) ?? "draft"
-  const lastUpdated = (fm?.["last-updated"] as string) ?? ""
-  const sourceTier = (fm?.["source-tier"] as string) ?? ""
+  const type = String(fm?.type ?? "unknown")
+  const readiness = String(fm?.["content-readiness"] ?? "draft")
+  const lastUpdated = String(fm?.["last-updated"] ?? "")
+  const sourceTier = String(fm?.["source-tier"] ?? "")
 
   // Normalize display values
   const typeLabel = type.charAt(0).toUpperCase() + type.slice(1)
