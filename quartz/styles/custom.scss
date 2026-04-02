@@ -88,12 +88,23 @@ article h4 {
 // --- Content area: prevent text from overflowing into sidebars ---
 .center {
   min-width: 0;          // allow grid item to shrink below content size
+  max-width: 100%;
+  overflow: hidden;      // hard-clip anything that escapes the grid column
   overflow-wrap: break-word;
   word-break: break-word;
 }
 
 .center > article {
   min-width: 0;
+  max-width: 100%;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+// Force long inline content (wikilinks, URLs) to wrap
+article p, article li, article td {
+  max-width: 100%;
   overflow-wrap: break-word;
   word-break: break-word;
 }
