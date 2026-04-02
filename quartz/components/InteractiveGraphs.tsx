@@ -671,9 +671,24 @@ function initInteractive() {
   if (bs) renderBothSides(bs);
 }
 
+// Replace em dashes with semicolons in article text
+function replaceEmDashes() {
+  var article = document.querySelector('article');
+  if (!article) return;
+  var em = String.fromCharCode(8212);
+  var walker = document.createTreeWalker(article, NodeFilter.SHOW_TEXT);
+  var node;
+  while (node = walker.nextNode()) {
+    if (node.nodeValue && node.nodeValue.indexOf(em) !== -1) {
+      node.nodeValue = node.nodeValue.split(em).join('; ');
+    }
+  }
+}
+
 initInteractive();
+replaceEmDashes();
 document.addEventListener('nav', function() {
-  setTimeout(initInteractive, 100);
+  setTimeout(function() { initInteractive(); replaceEmDashes(); }, 100);
 });
 `
 
