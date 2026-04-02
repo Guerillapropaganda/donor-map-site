@@ -173,7 +173,9 @@ function renderSayVsPay() {
   if (existing) return;
   var raw = dataEl.dataset.svp;
   if (!raw) return;
-  try { var d = JSON.parse(raw); } catch(e) { return; }
+  var d;
+  if (raw.charAt(0) !== '{') return;
+  d = JSON.parse(raw);
 
   var html = '<div id="svp-card" class="svp-card">';
   html += '<div class="svp-header">SAY VS. PAY</div>';
@@ -188,7 +190,7 @@ function renderSayVsPay() {
     }
   }
   if (d.blocked) {
-    html += '<div class="svp-col-label svp-blocked-label">WHAT DIDN\'T PASS</div>';
+    html += '<div class="svp-col-label svp-blocked-label">WHAT DIDN' + "'" + 'T PASS</div>';
     for (var j = 0; j < d.blocked.length; j++) {
       html += '<div class="svp-item svp-block"><span class="svp-x">&#10007;</span> ' + d.blocked[j] + '</div>';
     }
