@@ -289,7 +289,7 @@ ProfileWidget.css = `
   border-radius: 8px;
   padding: 0;
   margin-top: 16px;
-  overflow: hidden;
+  overflow: visible;
 }
 
 /* Tabs */
@@ -330,10 +330,30 @@ ProfileWidget.css = `
 .pw-panel {
   display: none;
   padding: 14px;
+  max-height: 400px;
+  overflow-y: auto;
 }
 
 .pw-panel-active {
   display: block;
+}
+
+/* Scrollbar for panels */
+.pw-panel::-webkit-scrollbar {
+  width: 3px;
+}
+
+.pw-panel::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.pw-panel::-webkit-scrollbar-thumb {
+  background: #1e1e28;
+  border-radius: 2px;
+}
+
+.pw-panel::-webkit-scrollbar-thumb:hover {
+  background: #2a2a36;
 }
 
 .pw-section-label {
