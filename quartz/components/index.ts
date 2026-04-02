@@ -29,6 +29,8 @@ import LandingPage from "./LandingPage"
 import ProfileHeader from "./ProfileHeader"
 import ProfileWidget from "./ProfileWidget"
 import RelatedProfiles from "./RelatedProfiles"
+import MobileNav from "./MobileNav"
+import ArticleNav from "./ArticleNav"
 
 export {
   ArticleTitle,
@@ -62,4 +64,6 @@ export {
   ProfileHeader,
   ProfileWidget,
   RelatedProfiles,
+  MobileNav,
+  ArticleNav,
 }

@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.InteractiveGraphs()],
+  afterBody: [Component.InteractiveGraphs(), Component.ArticleNav(), Component.MobileNav()],
   footer: Component.Footer({
     links: {
       "The Donor Map": "https://guerillapropaganda.github.io/donor-map-site/",
