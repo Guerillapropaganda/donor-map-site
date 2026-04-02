@@ -255,19 +255,25 @@ article > ul.tags ~ ul.tags {
 }
 
 // --- Tables ---
-// Auto-fit: shrink text and cells so tables never overflow
+// ── Tables — evidence exhibits ──
+.table-scroll-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 16px 0;
+  border-radius: 6px;
+  border: 1px solid #1e1e28;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
   background: #0e0e14;
-  border: 1px solid #1e1e28;
-  border-radius: 0;
-  overflow: hidden;
+  border: none;
   font-size: 13px;
-  margin: 16px 0;
-  table-layout: fixed;
+  table-layout: auto;
   word-wrap: break-word;
   overflow-wrap: break-word;
+  margin: 0; // margin handled by scroll wrapper
 }
 
 thead tr {
@@ -285,6 +291,10 @@ th {
   padding: 10px 12px !important;
   text-align: left !important;
   border-bottom: none !important;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: #0a0a0f !important;
 }
 
 td {
@@ -295,19 +305,38 @@ td {
   font-size: 13px;
 }
 
+// Zebra striping
+tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02);
+}
+
 tr:hover td {
   background: #141419 !important;
 }
 
-// Money amounts in tables (2nd column) — green
-td:nth-child(2) {
-  font-family: 'Space Mono', monospace;
+// Smart cell detection classes (applied by DOM script)
+.cell-money {
+  font-family: 'Space Mono', monospace !important;
   color: #22c55e !important;
-  font-weight: 700;
+  font-weight: 700 !important;
+  white-space: nowrap;
 }
 
-// Donor names in tables (1st column) — purple links
-td:first-child a.internal {
+.cell-date {
+  font-family: 'Space Mono', monospace !important;
+  color: #8a8a96 !important;
+  white-space: nowrap;
+  font-size: 12px !important;
+}
+
+.cell-gap-fast {
+  color: #ef4444 !important;
+  font-weight: 600 !important;
+  font-size: 12px !important;
+}
+
+// Links inside table cells
+td a.internal {
   color: #5b8dce !important;
   background: rgba(91, 141, 206, 0.1) !important;
   padding: 2px 6px !important;
@@ -738,15 +767,20 @@ hr {
     color: #8a8a96 !important;
   }
 
-  // Tables: compact fit, no overflow
+  // Tables: horizontally scrollable on mobile
+  .table-scroll-wrap {
+    margin: 12px -8px;  // bleed slightly for more room
+    border-radius: 4px;
+  }
+
   table {
-    font-size: 11px;
-    table-layout: auto;  // let browser auto-fit on mobile
+    font-size: 12px;
+    min-width: 500px;  // force scroll rather than crushing columns
   }
 
   td, th {
-    padding: 8px 8px !important;
-    font-size: 11px !important;
+    padding: 8px 10px !important;
+    font-size: 12px !important;
   }
 
   th {
@@ -754,9 +788,9 @@ hr {
     letter-spacing: 1px !important;
   }
 
-  td:first-child a.internal {
+  td a.internal {
     padding: 1px 4px !important;
-    font-size: 11px !important;
+    font-size: 12px !important;
   }
 
   // Links — slightly larger tap targets
