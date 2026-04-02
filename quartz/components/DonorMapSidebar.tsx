@@ -3,41 +3,145 @@ import { classNames } from "../util/lang"
 import { resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 
-// Lookup helper: find a page in allFiles by matching the end of its slug
-// e.g. searchTerm "_Nancy-Pelosi-Master-Profile" matches
-// "Politicians/Democrats/House/Nancy-Pelosi/_Nancy-Pelosi-Master-Profile"
+// ─── Helpers ────────────────────────────────────────────────────────
 function findPage(allFiles: QuartzPluginData[], searchTerm: string): QuartzPluginData | undefined {
   const lower = searchTerm.toLowerCase()
-  // Try exact end-of-slug match first (most precise)
   return allFiles.find((f) => {
     const slug = (f.slug ?? "").toLowerCase()
     return slug.endsWith(lower) || slug === lower
   })
 }
 
-// Sidebar entry definitions — only need display name + a unique search key
-// The search key matches the END of the Quartz slug (filename portion)
-const politicians = [
-  { name: "Nancy Pelosi", amount: "$14.2M", search: "_nancy-pelosi-master-profile" },
-  { name: "Mitch McConnell", amount: "$11.8M", search: "_mitch-mcconnell-master-profile" },
-  { name: "Ted Cruz", amount: "$9.4M", search: "_ted-cruz-master-profile" },
-  { name: "Chuck Schumer", amount: "$8.7M", search: "_chuck-schumer-master-profile" },
-  { name: "Donald Trump", amount: "$7.2M", search: "_donald-trump-master-profile" },
+// ─── Types ──────────────────────────────────────────────────────────
+interface FeaturedItem {
+  name: string
+  detail: string
+  search: string
+}
+
+interface NavNode {
+  name: string
+  slugPrefix: string
+  children?: NavNode[]
+  featured?: FeaturedItem[]
+}
+
+// ─── Featured items (curated) ───────────────────────────────────────
+const featuredPoliticians: FeaturedItem[] = [
+  { name: "Nancy Pelosi", detail: "$14.2M", search: "_nancy-pelosi-master-profile" },
+  { name: "Mitch McConnell", detail: "$11.8M", search: "_mitch-mcconnell-master-profile" },
+  { name: "Ted Cruz", detail: "$9.4M", search: "_ted-cruz-master-profile" },
+  { name: "Chuck Schumer", detail: "$8.7M", search: "_chuck-schumer-master-profile" },
+  { name: "Donald Trump", detail: "$7.2M", search: "_donald-trump-master-profile" },
 ]
 
-const donors = [
-  { name: "Goldman Sachs", icon: "\u{1F3E6}", search: "wall-street/goldman-sachs" },
-  { name: "AIPAC", icon: "\u{1F54E}", search: "aipac---american-israel-public-affairs-committee" },
-  { name: "Koch Network", icon: "\u{1F3ED}", search: "koch-network---charles-koch" },
-  { name: "Lockheed Martin", icon: "\u{2708}", search: "defense--and--intelligence/lockheed-martin" },
+const featuredDonors: FeaturedItem[] = [
+  { name: "Goldman Sachs", detail: "\u{1F3E6}", search: "wall-street/goldman-sachs" },
+  { name: "AIPAC", detail: "\u{1F54E}", search: "aipac---american-israel-public-affairs-committee" },
+  { name: "Koch Network", detail: "\u{1F3ED}", search: "koch-network---charles-koch" },
+  { name: "Lockheed Martin", detail: "\u{2708}", search: "defense--and--intelligence/lockheed-martin" },
 ]
 
-const contradictions = [
-  { name: "Drug Pricing Theater", icon: "\u{1F48A}", search: "contradiction-03---pharma-kills-drug-negotiation-from-both-sides" },
-  { name: "Defense Budget Bloat", icon: "\u{1F4A3}", search: "contradiction-04---lockheed-martin-buys-defense-hawks-in-both-parties" },
-  { name: "Carried Interest Scam", icon: "\u{1F4B0}", search: "the-carried-interest-loophole---30-years-of-survival" },
+const featuredStories: FeaturedItem[] = [
+  { name: "Drug Pricing Theater", detail: "\u{1F48A}", search: "contradiction-03---pharma-kills-drug-negotiation-from-both-sides" },
+  { name: "Defense Budget Bloat", detail: "\u{1F4A3}", search: "contradiction-04---lockheed-martin-buys-defense-hawks-in-both-parties" },
+  { name: "Carried Interest Scam", detail: "\u{1F4B0}", search: "the-carried-interest-loophole---30-years-of-survival" },
 ]
 
+// ─── Navigation tree structure ──────────────────────────────────────
+// slugPrefix must match Quartz's slug encoding:
+//   spaces → hyphens, & → --and--, _ prefix preserved
+const navTree: NavNode[] = [
+  {
+    name: "Politicians",
+    slugPrefix: "Politicians",
+    featured: featuredPoliticians,
+    children: [
+      {
+        name: "Democrats",
+        slugPrefix: "Politicians/Democrats",
+        children: [
+          { name: "Senate", slugPrefix: "Politicians/Democrats/Senate" },
+          { name: "House", slugPrefix: "Politicians/Democrats/House" },
+          { name: "Governors", slugPrefix: "Politicians/Democrats/Governors" },
+          { name: "Presidential", slugPrefix: "Politicians/Democrats/Presidential" },
+          { name: "CA Governor 2026", slugPrefix: "Politicians/Democrats/CA-Governor-2026" },
+        ],
+      },
+      {
+        name: "Republicans",
+        slugPrefix: "Politicians/Republicans",
+        children: [
+          { name: "Senate", slugPrefix: "Politicians/Republicans/Senate" },
+          { name: "House", slugPrefix: "Politicians/Republicans/House" },
+          { name: "Governors", slugPrefix: "Politicians/Republicans/Governors" },
+          { name: "Presidential", slugPrefix: "Politicians/Republicans/Presidential" },
+          { name: "Trump Cabinet", slugPrefix: "Politicians/Republicans/Trump-Cabinet" },
+          { name: "CA Governor 2026", slugPrefix: "Politicians/Republicans/CA-Governor-2026" },
+        ],
+      },
+      { name: "SCOTUS", slugPrefix: "Politicians/SCOTUS" },
+      { name: "Independent", slugPrefix: "Politicians/Independent" },
+      { name: "International", slugPrefix: "Politicians/International" },
+    ],
+  },
+  {
+    name: "Donors & Power Networks",
+    slugPrefix: "Donors--and--Power-Networks",
+    featured: featuredDonors,
+    children: [
+      { name: "Agriculture", slugPrefix: "Donors--and--Power-Networks/Agriculture" },
+      { name: "Carceral State", slugPrefix: "Donors--and--Power-Networks/Carceral-State" },
+      { name: "Dark Money", slugPrefix: "Donors--and--Power-Networks/Dark-Money" },
+      { name: "Defense & Intelligence", slugPrefix: "Donors--and--Power-Networks/Defense--and--Intelligence" },
+      { name: "Education", slugPrefix: "Donors--and--Power-Networks/Education" },
+      { name: "Energy & Utilities", slugPrefix: "Donors--and--Power-Networks/Energy--and--Utilities" },
+      { name: "Foreign", slugPrefix: "Donors--and--Power-Networks/Foreign" },
+      { name: "Gig Economy", slugPrefix: "Donors--and--Power-Networks/Gig-Economy" },
+      { name: "Healthcare", slugPrefix: "Donors--and--Power-Networks/Healthcare" },
+      { name: "Healthcare Industry", slugPrefix: "Donors--and--Power-Networks/Healthcare-Industry" },
+      { name: "Israel Lobby", slugPrefix: "Donors--and--Power-Networks/Israel-Lobby" },
+      { name: "Labor Unions", slugPrefix: "Donors--and--Power-Networks/Labor-Unions" },
+      { name: "Law Enforcement", slugPrefix: "Donors--and--Power-Networks/Law-Enforcement" },
+      { name: "Media & Entertainment", slugPrefix: "Donors--and--Power-Networks/Media--and--Entertainment" },
+      { name: "Mega-Donors", slugPrefix: "Donors--and--Power-Networks/Mega-Donors" },
+      { name: "Pharma & Healthcare", slugPrefix: "Donors--and--Power-Networks/Pharma--and--Healthcare" },
+      { name: "Real Estate", slugPrefix: "Donors--and--Power-Networks/Real-Estate" },
+      { name: "Real Estate & Housing", slugPrefix: "Donors--and--Power-Networks/Real-Estate--and--Housing" },
+      { name: "Restaurant & Food", slugPrefix: "Donors--and--Power-Networks/Restaurant--and--Food" },
+      { name: "Super PACs", slugPrefix: "Donors--and--Power-Networks/Super-PACs" },
+      { name: "Tech & Crypto", slugPrefix: "Donors--and--Power-Networks/Tech--and--Crypto" },
+      { name: "Wall Street", slugPrefix: "Donors--and--Power-Networks/Wall-Street" },
+    ],
+  },
+  {
+    name: "Stories",
+    slugPrefix: "Stories",
+    featured: featuredStories,
+    children: [
+      { name: "Contradiction Deep Dives", slugPrefix: "Stories/Published/Contradiction-Deep-Dives" },
+      { name: "Cross-Politician Analysis", slugPrefix: "Stories/Published/Cross-Politician-Analysis" },
+      { name: "Investigations", slugPrefix: "Stories/Published/Investigations" },
+      { name: "2026 Senate Races", slugPrefix: "Stories/Published/2026-Senate-Races" },
+      { name: "2026 House Races", slugPrefix: "Stories/Published/2026-House-Races" },
+      { name: "2028 Presidential", slugPrefix: "Stories/Published/2028-Presidential-Race" },
+    ],
+  },
+  {
+    name: "Media Pipeline",
+    slugPrefix: "Media--and--Influence-Pipeline",
+  },
+  {
+    name: "Think Tanks",
+    slugPrefix: "Think-Tanks--and--Policy-Infrastructure",
+  },
+  {
+    name: "K Street",
+    slugPrefix: "Lobbying-Firms--and--K-Street",
+  },
+]
+
+// ─── Component ──────────────────────────────────────────────────────
 const DonorMapSidebar: QuartzComponent = ({
   fileData,
   cfg,
@@ -46,18 +150,110 @@ const DonorMapSidebar: QuartzComponent = ({
 }: QuartzComponentProps) => {
   const currentSlug = (fileData.slug ?? "").toLowerCase()
 
-  // Resolve a search term to a proper relative URL using Quartz's own resolver
-  function getHref(searchTerm: string): string {
-    const page = findPage(allFiles, searchTerm)
-    if (page?.slug) {
-      return resolveRelative(fileData.slug!, page.slug)
-    }
-    // Fallback: return "#" if page not found (won't 404, just stays on page)
+  // Count files whose slug starts with a given prefix
+  function countInFolder(prefix: string): number {
+    const lp = prefix.toLowerCase()
+    return allFiles.filter((f) => {
+      const s = (f.slug ?? "").toLowerCase()
+      return s.startsWith(lp + "/") || s === lp
+    }).length
+  }
+
+  // Resolve a slug to a relative URL for folder pages
+  function getFolderHref(slugPrefix: string): string {
+    return resolveRelative(fileData.slug!, slugPrefix as any)
+  }
+
+  // Resolve a search term to a profile page URL
+  function getProfileHref(search: string): string {
+    const page = findPage(allFiles, search)
+    if (page?.slug) return resolveRelative(fileData.slug!, page.slug)
     return "#"
+  }
+
+  // Render the featured/highlighted items within a section
+  function renderFeatured(items: FeaturedItem[]): any {
+    return (
+      <div class="dm-featured">
+        {items.map((item) => {
+          const href = getProfileHref(item.search)
+          const nameSlug = item.name.toLowerCase().replace(/ /g, "-")
+          const isActive = currentSlug.includes(nameSlug)
+          return (
+            <a
+              href={href}
+              class={`dm-featured-link ${isActive ? "dm-nav-active" : ""}`}
+              data-no-popover
+            >
+              <span class="dm-featured-name">{item.name}</span>
+              <span class="dm-featured-detail">{item.detail}</span>
+            </a>
+          )
+        })}
+      </div>
+    )
+  }
+
+  // Recursively render a navigation tree node
+  function renderNode(node: NavNode, depth: number): any {
+    const count = countInFolder(node.slugPrefix)
+    const isInSection = currentSlug.startsWith(node.slugPrefix.toLowerCase() + "/") ||
+                        currentSlug === node.slugPrefix.toLowerCase()
+
+    // Leaf node — link to folder listing page
+    if (!node.children || node.children.length === 0) {
+      // If it's a top-level leaf (no children, depth 0), still render as expandable header style
+      if (depth === 0) {
+        return (
+          <li class="dm-nav-item">
+            <a
+              href={getFolderHref(node.slugPrefix)}
+              class={`dm-nav-section-link ${isInSection ? "dm-nav-active" : ""}`}
+            >
+              <span class="dm-nav-name">{node.name}</span>
+              {count > 0 && <span class="dm-nav-count">{count}</span>}
+            </a>
+          </li>
+        )
+      }
+      return (
+        <li class="dm-nav-item">
+          <a
+            href={getFolderHref(node.slugPrefix)}
+            class={`dm-nav-leaf ${isInSection ? "dm-nav-active" : ""}`}
+          >
+            <span class="dm-nav-name">{node.name}</span>
+            {count > 0 && <span class="dm-nav-count">{count}</span>}
+          </a>
+        </li>
+      )
+    }
+
+    // Branch node — expandable with <details>
+    return (
+      <li class="dm-nav-item">
+        <details class={`dm-nav-branch depth-${depth}`} {...(isInSection ? { open: true } : {})}>
+          <summary class="dm-nav-summary">
+            <svg class="dm-nav-chevron" viewBox="0 0 10 10" width="10" height="10">
+              <path d="M3 1 L7 5 L3 9" fill="none" stroke="currentColor" stroke-width="1.5" />
+            </svg>
+            <span class="dm-nav-name">{node.name}</span>
+            {count > 0 && <span class="dm-nav-count">{count}</span>}
+          </summary>
+          <div class="dm-nav-children">
+            {node.featured && node.featured.length > 0 && renderFeatured(node.featured)}
+            <ul class="dm-nav-list">
+              {node.children.map((child) => renderNode(child, depth + 1))}
+            </ul>
+          </div>
+        </details>
+      </li>
+    )
   }
 
   return (
     <div class={classNames(displayClass, "donor-map-sidebar")}>
+      {/* Logo */}
       <div class="dm-logo">
         <a href={resolveRelative(fileData.slug!, "index" as any)}>
           <span class="dm-logo-dm">DM</span>
@@ -66,65 +262,19 @@ const DonorMapSidebar: QuartzComponent = ({
         <div class="dm-subtitle">v2.0 — {allFiles.length.toLocaleString()} nodes tracked</div>
       </div>
 
+      {/* Expandable navigation tree */}
       <nav class="dm-nav">
-        <div class="dm-section">
-          <div class="dm-section-label">POLITICIANS</div>
-          <ul class="dm-list">
-            {politicians.map((p) => {
-              const href = getHref(p.search)
-              const isActive = currentSlug.includes(p.name.toLowerCase().replace(/ /g, "-"))
-              return (
-                <li class={`dm-list-item ${isActive ? "dm-active" : ""}`}>
-                  <a href={href} class={`dm-link ${isActive ? "dm-active-link" : ""}`}>
-                    <span class="dm-name">{p.name}</span>
-                    <span class="dm-amount">{p.amount}</span>
-                  </a>
-                </li>
-              )
-            })}
-          </ul>
-        </div>
-
-        <div class="dm-section">
-          <div class="dm-section-label">DONOR NODES</div>
-          <ul class="dm-list">
-            {donors.map((d) => {
-              const href = getHref(d.search)
-              return (
-                <li class="dm-list-item">
-                  <a href={href} class="dm-link">
-                    <span class="dm-icon">{d.icon}</span>
-                    <span class="dm-name">{d.name}</span>
-                  </a>
-                </li>
-              )
-            })}
-          </ul>
-        </div>
-
-        <div class="dm-section">
-          <div class="dm-section-label">CONTRADICTIONS</div>
-          <ul class="dm-list">
-            {contradictions.map((c) => {
-              const href = getHref(c.search)
-              return (
-                <li class="dm-list-item">
-                  <a href={href} class="dm-link">
-                    <span class="dm-icon">{c.icon}</span>
-                    <span class="dm-name">{c.name}</span>
-                  </a>
-                </li>
-              )
-            })}
-          </ul>
-        </div>
-
+        <ul class="dm-nav-list dm-nav-root">
+          {navTree.map((section) => renderNode(section, 0))}
+        </ul>
       </nav>
     </div>
   )
 }
 
+// ─── Styles ─────────────────────────────────────────────────────────
 DonorMapSidebar.css = `
+/* ── Sidebar container ── */
 .donor-map-sidebar {
   display: flex;
   flex-direction: column;
@@ -132,11 +282,13 @@ DonorMapSidebar.css = `
   padding: 0;
   position: sticky;
   top: 2rem;
+  max-height: calc(100vh - 4rem);
 }
 
-/* Logo */
+/* ── Logo (unchanged) ── */
 .dm-logo {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.25rem;
+  flex-shrink: 0;
 }
 
 .dm-logo a {
@@ -183,96 +335,248 @@ DonorMapSidebar.css = `
   margin-left: 2px;
 }
 
-/* Navigation */
+/* ── Scrollable nav area ── */
 .dm-nav {
-  display: flex;
-  flex-direction: column;
-  gap: 1.25rem;
+  overflow-y: auto;
+  overflow-x: hidden;
+  flex: 1;
+  min-height: 0;
+  padding-right: 4px;
 }
 
-.dm-section-label {
-  font-family: 'Space Mono', monospace;
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 2px;
-  color: #63636e;
-  margin-bottom: 6px;
+.dm-nav::-webkit-scrollbar {
+  width: 3px;
 }
 
-.dm-list {
+.dm-nav::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.dm-nav::-webkit-scrollbar-thumb {
+  background: #1e1e28;
+  border-radius: 3px;
+}
+
+/* ── List resets ── */
+.dm-nav-list {
   list-style: none !important;
   padding: 0 !important;
   margin: 0 !important;
-  display: flex;
-  flex-direction: column;
-  gap: 1px;
 }
 
-.dm-list-item {
+.dm-nav-item {
+  list-style: none !important;
   margin: 0 !important;
   padding: 0 !important;
-  list-style: none !important;
 }
 
-.dm-list-item::before,
-.dm-list-item::marker {
+.dm-nav-item::before,
+.dm-nav-item::marker {
   display: none !important;
   content: none !important;
 }
 
-.dm-link {
-  display: flex;
-  align-items: center;
-  padding: 7px 10px;
-  border-radius: 6px;
-  text-decoration: none !important;
-  transition: background 0.15s, color 0.15s;
-  font-size: 14px;
-  color: #a1a1aa !important;
-  background: none !important;
-  border: none !important;
-  border-left: 3px solid transparent !important;
-  gap: 8px;
+/* ── Branch nodes (expandable) ── */
+.dm-nav-branch {
+  border: none;
+  margin: 0;
+  padding: 0;
 }
 
-.dm-link:hover {
+.dm-nav-branch > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 8px;
+  border-radius: 4px;
+  color: #a1a1aa;
+  transition: background 0.15s, color 0.15s;
+  user-select: none;
+}
+
+.dm-nav-branch > summary::-webkit-details-marker {
+  display: none;
+}
+
+.dm-nav-branch > summary:hover {
+  background: rgba(99, 102, 241, 0.06);
+  color: #e4e4e7;
+}
+
+/* ── Chevron icon ── */
+.dm-nav-chevron {
+  flex-shrink: 0;
+  color: #4a4a54;
+  transition: transform 0.15s ease;
+}
+
+details[open] > summary > .dm-nav-chevron {
+  transform: rotate(90deg);
+}
+
+/* ── Depth 0: top-level section headers ── */
+.dm-nav-branch.depth-0 > summary {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #63636e;
+  padding: 8px 6px;
+  margin-top: 4px;
+}
+
+.dm-nav-root > .dm-nav-item:first-child .depth-0 > summary {
+  margin-top: 0;
+}
+
+.dm-nav-branch.depth-0 > summary:hover {
+  color: #818cf8;
+  background: rgba(99, 102, 241, 0.04);
+}
+
+.dm-nav-branch.depth-0 > summary > .dm-nav-chevron {
+  color: #63636e;
+}
+
+/* ── Depth 1: subcategory headers ── */
+.dm-nav-branch.depth-1 > summary {
+  font-size: 13px;
+  font-weight: 600;
+  color: #8a8a96;
+  padding: 5px 6px;
+}
+
+/* ── Leaf links (navigate to folder pages) ── */
+.dm-nav-leaf {
+  display: flex;
+  align-items: center;
+  padding: 4px 6px 4px 22px;
+  font-size: 13px;
+  color: #8a8a96 !important;
+  text-decoration: none !important;
+  border-radius: 4px;
+  border: none !important;
+  background: none !important;
+  transition: background 0.15s, color 0.15s;
+  border-left: 2px solid transparent !important;
+}
+
+.dm-nav-leaf:hover {
+  background: rgba(99, 102, 241, 0.06) !important;
+  color: #c8c8d0 !important;
+}
+
+/* ── Top-level leaf links (sections with no children) ── */
+.dm-nav-section-link {
+  display: flex;
+  align-items: center;
+  padding: 8px 6px;
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #63636e !important;
+  text-decoration: none !important;
+  border-radius: 4px;
+  border: none !important;
+  background: none !important;
+  transition: background 0.15s, color 0.15s;
+  margin-top: 4px;
+}
+
+.dm-nav-section-link:hover {
+  color: #818cf8 !important;
+  background: rgba(99, 102, 241, 0.04) !important;
+}
+
+/* ── Active state ── */
+.dm-nav-active {
+  color: #e4e4e7 !important;
+  background: rgba(99, 102, 241, 0.1) !important;
+  border-left: 2px solid #818cf8 !important;
+}
+
+.dm-nav-active .dm-nav-count {
+  color: #63636e;
+}
+
+.dm-nav-active .dm-featured-detail {
+  color: #4ade80 !important;
+}
+
+/* ── Count badges ── */
+.dm-nav-count {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  color: #3a3a44;
+  margin-left: auto;
+  padding-left: 8px;
+  flex-shrink: 0;
+}
+
+/* ── Name (truncate long names) ── */
+.dm-nav-name {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* ── Children container (indentation) ── */
+.dm-nav-children {
+  padding-left: 10px;
+}
+
+/* ── Featured items ── */
+.dm-featured {
+  padding: 4px 0 6px 0;
+  margin-bottom: 2px;
+  border-bottom: 1px solid rgba(30, 30, 40, 0.6);
+}
+
+.dm-featured-link {
+  display: flex;
+  align-items: center;
+  padding: 4px 8px;
+  font-size: 13px;
+  color: #b4b4bc !important;
+  text-decoration: none !important;
+  border-radius: 4px;
+  border: none !important;
+  background: none !important;
+  transition: background 0.15s, color 0.15s;
+  border-left: 2px solid transparent !important;
+}
+
+.dm-featured-link:hover {
   background: rgba(99, 102, 241, 0.08) !important;
   color: #e4e4e7 !important;
 }
 
-/* Active state — purple left border + highlight */
-.dm-active-link {
-  color: #e4e4e7 !important;
-  font-weight: 600 !important;
-  background: rgba(99, 102, 241, 0.12) !important;
-  border-left: 3px solid #818cf8 !important;
-}
-
-.dm-active-link .dm-amount {
-  color: #4ade80 !important;
-}
-
-.dm-name {
-  font-weight: 500;
+.dm-featured-name {
   flex: 1;
+  font-weight: 500;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
-.dm-amount {
+.dm-featured-detail {
   font-family: 'Space Mono', monospace;
-  font-size: 12px;
-  font-weight: 600;
+  font-size: 11px;
   color: #22c55e;
   margin-left: auto;
-}
-
-.dm-icon {
-  font-size: 14px;
-  width: 20px;
-  text-align: center;
+  padding-left: 8px;
   flex-shrink: 0;
 }
 
-/* Hide on mobile */
+/* ── Hide on mobile ── */
 @media (max-width: 800px) {
   .donor-map-sidebar {
     display: none;
