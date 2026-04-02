@@ -193,15 +193,26 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
-  // calculate color
+  // calculate color — type-based coloring
+  const nodeTypeColor = (id: string): string | null => {
+    const lower = id.toLowerCase()
+    if (lower.startsWith("politicians/")) return "#5b8dce" // steel blue
+    if (lower.startsWith("donors")) return "#22c55e" // green
+    if (lower.startsWith("stories/")) return "#ef4444" // red
+    if (lower.startsWith("lobbying") || lower.startsWith("k-street")) return "#f59e0b" // amber
+    if (lower.startsWith("media")) return "#a855f7" // purple
+    if (lower.startsWith("think")) return "#f59e0b" // amber
+    return null
+  }
+
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+    } else if (d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
-      return computedStyleMap["--gray"]
+      return nodeTypeColor(d.id) ?? computedStyleMap["--gray"]
     }
   }
 
