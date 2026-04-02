@@ -1,4 +1,4 @@
-﻿import { QuartzConfig } from "./quartz/cfg"
+import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "donor-map.github.io",
+    baseUrl: "guerillapropaganda.github.io/donor-map-site",
     ignorePatterns: ["private", "templates", ".obsidian", "_templates", "Vault Maintenance", "Excalidraw", "Assets"],
     defaultDateType: "modified",
     theme: {
