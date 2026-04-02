@@ -708,12 +708,26 @@ function cleanListingNames() {
   }
 }
 
+// Hide dataview inline fields (key:: value) on all pages
+function hideDataviewFields() {
+  var article = document.querySelector('article');
+  if (!article) return;
+  var ps = article.querySelectorAll('p');
+  for (var i = 0; i < ps.length; i++) {
+    var t = (ps[i].textContent || '').trim();
+    if (t.match(/[a-z-]+::\s/)) {
+      ps[i].style.display = 'none';
+    }
+  }
+}
+
 initInteractive();
 replaceEmDashes();
 cleanFolderTitle();
 cleanListingNames();
+hideDataviewFields();
 document.addEventListener('nav', function() {
-  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); cleanListingNames(); }, 100);
+  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); cleanListingNames(); hideDataviewFields(); }, 100);
 });
 `
 
