@@ -27,7 +27,7 @@ interface HookCard {
   body: string
   stat: string
   statLabel: string
-  color: "green" | "red" | "amber" | "purple"
+  color: "green" | "red" | "amber" | "gold"
   links: { text: string; search: string }[]
 }
 
@@ -47,7 +47,7 @@ const hookCards: HookCard[] = [
     body: "AIPAC funds Pelosi ($3.2M) AND Cruz ($1.9M). Goldman Sachs funds Schumer AND McConnell. PhRMA funds both sides of drug pricing. Different jerseys, identical policy outcomes.",
     stat: "97-3",
     statLabel: "Senate vote on Israel aid — bought bipartisan",
-    color: "purple",
+    color: "gold",
     links: [
       { text: "The Both-Sides Illusion", search: "cross-politician-contradiction-map---the-both-sides-illusion-with-receipts" },
       { text: "Goldman Sachs Funds Both Sides", search: "contradiction-01---goldman-sachs-funds-both-sides-of-financial-regulation" },

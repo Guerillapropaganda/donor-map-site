@@ -59,7 +59,7 @@ article h2 {
   margin-top: 44px;
   margin-bottom: 16px;
   padding-left: 14px;
-  border-left: 3px solid #818cf8;
+  border-left: 3px solid #d4a017;
   color: #e4e4e7 !important;
 }
 
@@ -81,7 +81,7 @@ article h4 {
   font-weight: 700 !important;
   letter-spacing: 1.5px !important;
   text-transform: uppercase !important;
-  color: #818cf8 !important;
+  color: #d4a017 !important;
   margin-top: 24px;
 }
 
@@ -142,7 +142,7 @@ article em {
 
 // --- Links ---
 a.internal {
-  color: #818cf8 !important;
+  color: #d4a017 !important;
   font-weight: 600;
   text-decoration: none;
   background: none !important;
@@ -154,13 +154,13 @@ a.internal {
 }
 
 a.internal:hover {
-  color: #a5b4fc !important;
-  border-bottom-color: #818cf8 !important;
+  color: #e8c84a !important;
+  border-bottom-color: #d4a017 !important;
   background: none !important;
 }
 
 a.external {
-  color: #818cf8;
+  color: #d4a017;
   text-decoration: none;
   border-bottom: 1px dotted rgba(129, 140, 248, 0.3);
 }
@@ -179,8 +179,8 @@ a.tag-link {
 }
 
 a.tag-link:hover {
-  color: #818cf8 !important;
-  border-color: #818cf8 !important;
+  color: #d4a017 !important;
+  border-color: #d4a017 !important;
 }
 
 // Hide duplicate tag set from TagList (keep only inline frontmatter tags)
@@ -192,7 +192,7 @@ article > ul.tags ~ ul.tags {
 .callout {
   background: #111118 !important;
   border: 1px solid #1e1e28 !important;
-  border-left: 3px solid #818cf8 !important;
+  border-left: 3px solid #d4a017 !important;
   border-radius: 0 8px 8px 0 !important;
   margin: 20px 0;
   overflow-wrap: break-word;
@@ -308,8 +308,8 @@ td:nth-child(2) {
 
 // Donor names in tables (1st column) — purple links
 td:first-child a.internal {
-  color: #818cf8 !important;
-  background: rgba(99, 102, 241, 0.1) !important;
+  color: #d4a017 !important;
+  background: rgba(212, 160, 23, 0.1) !important;
   padding: 2px 6px !important;
   border-radius: 4px !important;
   border: none !important;
@@ -319,8 +319,8 @@ td:first-child a.internal {
 
 // --- Blockquotes ---
 blockquote {
-  border-left: 3px solid #818cf8 !important;
-  background: rgba(99, 102, 241, 0.04) !important;
+  border-left: 3px solid #d4a017 !important;
+  background: rgba(212, 160, 23, 0.04) !important;
   border-radius: 0 6px 6px 0;
   padding: 16px 24px !important;
   margin: 24px 0;
@@ -390,7 +390,7 @@ strong > code, b > code {
 }
 
 .toc a:hover {
-  color: #818cf8 !important;
+  color: #d4a017 !important;
 }
 
 .toc .depth-1 > li > a {
@@ -415,11 +415,11 @@ strong > code, b > code {
 }
 
 .backlinks ul li a {
-  color: #818cf8 !important;
+  color: #d4a017 !important;
 }
 
 .backlinks ul li a:hover {
-  color: #a5b4fc !important;
+  color: #e8c84a !important;
 }
 
 // --- Breadcrumbs ---
@@ -435,7 +435,7 @@ strong > code, b > code {
 }
 
 .breadcrumb-container a:hover {
-  color: #818cf8 !important;
+  color: #d4a017 !important;
 }
 
 // --- Popover ---
@@ -462,7 +462,7 @@ footer {
   border-bottom: 1px solid #1e1e28;
 
   a {
-    color: #818cf8 !important;
+    color: #d4a017 !important;
     font-size: 12px;
     font-weight: 500;
     text-decoration: none !important;
@@ -470,7 +470,7 @@ footer {
     transition: color 0.15s;
 
     &:hover {
-      color: #a5b4fc !important;
+      color: #e8c84a !important;
     }
   }
 }
@@ -485,7 +485,7 @@ footer a {
 }
 
 .footer-site-nav a {
-  color: #818cf8 !important;
+  color: #d4a017 !important;
 }
 
 // --- Folder listing pages ---
@@ -520,7 +520,7 @@ ul.section-ul {
   transition: border-color 0.2s, background 0.2s;
 
   &:hover {
-    border-color: rgba(99, 102, 241, 0.35);
+    border-color: rgba(212, 160, 23, 0.35);
     background: #151520;
   }
 }
@@ -547,13 +547,13 @@ ul.section-ul {
 }
 
 .section-li .section a:hover {
-  color: #a5b4fc !important;
+  color: #e8c84a !important;
 }
 
 // --- Horizontal rules ---
 hr {
   border: none;
-  border-top: 2px solid #818cf8;
+  border-top: 2px solid #d4a017;
   margin: 32px 0;
   width: 60px;
 }
@@ -614,7 +614,7 @@ hr {
 
 // --- Selection ---
 ::selection {
-  background: rgba(99, 102, 241, 0.3);
+  background: rgba(212, 160, 23, 0.3);
   color: #e4e4e7;
 }
 
@@ -712,7 +712,7 @@ hr {
 
   // Links should pop on mobile
   a.internal {
-    color: #a5b4fc !important;
+    color: #e8c84a !important;
   }
 
   // Callout text
@@ -812,7 +812,7 @@ hr {
   text-align: center;
   padding: 48px 24px 40px;
   margin: -8px -16px 0 -16px;
-  background: linear-gradient(180deg, rgba(99, 102, 241, 0.06) 0%, transparent 100%);
+  background: linear-gradient(180deg, rgba(212, 160, 23, 0.06) 0%, transparent 100%);
   border-bottom: 1px solid #1e1e28;
 }
 
@@ -821,13 +821,13 @@ hr {
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 3px;
-  color: #818cf8;
+  color: #d4a017;
   margin-bottom: 20px;
   padding: 6px 16px;
   display: inline-block;
-  border: 1px solid rgba(99, 102, 241, 0.2);
+  border: 1px solid rgba(212, 160, 23, 0.2);
   border-radius: 4px;
-  background: rgba(99, 102, 241, 0.06);
+  background: rgba(212, 160, 23, 0.06);
 }
 
 .lp-hero-title {
@@ -872,7 +872,7 @@ hr {
   font-family: 'Space Mono', monospace;
   font-size: 24px;
   font-weight: 700;
-  color: #818cf8;
+  color: #d4a017;
 
   &.green { color: #22c55e; }
   &.amber { color: #f59e0b; }
@@ -904,7 +904,7 @@ hr {
 .lp-cta-primary {
   display: inline-block;
   padding: 12px 28px;
-  background: #818cf8 !important;
+  background: #d4a017 !important;
   color: #0c0c0f !important;
   font-family: 'Space Grotesk', sans-serif;
   font-size: 14px;
@@ -915,7 +915,7 @@ hr {
   transition: all 0.15s;
 
   &:hover {
-    background: #a5b4fc !important;
+    background: #e8c84a !important;
     transform: translateY(-1px);
   }
 }
@@ -924,18 +924,18 @@ hr {
   display: inline-block;
   padding: 12px 28px;
   background: transparent !important;
-  color: #818cf8 !important;
+  color: #d4a017 !important;
   font-family: 'Space Grotesk', sans-serif;
   font-size: 14px;
   font-weight: 700;
   border-radius: 6px;
   text-decoration: none !important;
-  border: 1px solid rgba(99, 102, 241, 0.3) !important;
+  border: 1px solid rgba(212, 160, 23, 0.3) !important;
   transition: all 0.15s;
 
   &:hover {
-    border-color: #818cf8 !important;
-    background: rgba(99, 102, 241, 0.06) !important;
+    border-color: #d4a017 !important;
+    background: rgba(212, 160, 23, 0.06) !important;
   }
 }
 
@@ -959,8 +959,8 @@ hr {
   flex-direction: column;
   transition: border-color 0.15s;
 
-  &:hover { border-color: rgba(99, 102, 241, 0.3); }
-  &.lp-hook-purple { border-top: 3px solid #818cf8; }
+  &:hover { border-color: rgba(212, 160, 23, 0.3); }
+  &.lp-hook-gold { border-top: 3px solid #d4a017; }
   &.lp-hook-green  { border-top: 3px solid #22c55e; }
   &.lp-hook-red    { border-top: 3px solid #ef4444; }
   &.lp-hook-amber  { border-top: 3px solid #f59e0b; }
@@ -973,7 +973,7 @@ hr {
   letter-spacing: 2px;
   margin-bottom: 12px;
 
-  .lp-hook-purple & { color: #818cf8; }
+  .lp-hook-gold & { color: #d4a017; }
   .lp-hook-green &  { color: #22c55e; }
   .lp-hook-red &    { color: #ef4444; }
   .lp-hook-amber &  { color: #f59e0b; }
@@ -1016,7 +1016,7 @@ hr {
   font-size: 18px;
   font-weight: 700;
 
-  .lp-hook-purple & { color: #818cf8; }
+  .lp-hook-gold & { color: #d4a017; }
   .lp-hook-green &  { color: #22c55e; }
   .lp-hook-red &    { color: #ef4444; }
   .lp-hook-amber &  { color: #f59e0b; }
@@ -1037,14 +1037,14 @@ hr {
 .lp-hook-link {
   font-size: 13px;
   font-weight: 600;
-  color: #818cf8 !important;
+  color: #d4a017 !important;
   text-decoration: none !important;
   border: none !important;
   background: none !important;
   padding: 0 !important;
   transition: color 0.15s;
 
-  &:hover { color: #a5b4fc !important; }
+  &:hover { color: #e8c84a !important; }
 }
 
 // ── Featured Investigations ──
@@ -1158,7 +1158,7 @@ hr {
   transition: all 0.15s;
 
   &:hover {
-    border-color: rgba(99, 102, 241, 0.3);
+    border-color: rgba(212, 160, 23, 0.3);
     background: #141419;
   }
 }
@@ -1168,8 +1168,8 @@ hr {
   font-size: 8px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #818cf8;
-  background: rgba(99, 102, 241, 0.1);
+  color: #d4a017;
+  background: rgba(212, 160, 23, 0.1);
   padding: 6px 8px;
   border-radius: 4px;
   flex-shrink: 0;
@@ -1225,15 +1225,15 @@ hr {
   transition: all 0.15s;
 
   &:hover {
-    border-color: rgba(99, 102, 241, 0.3);
+    border-color: rgba(212, 160, 23, 0.3);
     background: #141419;
   }
 }
 
 .lp-start-primary {
   grid-column: 1 / -1;
-  border-left: 3px solid #818cf8;
-  background: linear-gradient(135deg, rgba(99, 102, 241, 0.06) 0%, transparent 100%);
+  border-left: 3px solid #d4a017;
+  background: linear-gradient(135deg, rgba(212, 160, 23, 0.06) 0%, transparent 100%);
 }
 
 .lp-start-card-title {
@@ -1244,7 +1244,7 @@ hr {
 
   .lp-start-primary & {
     font-size: 17px;
-    color: #818cf8;
+    color: #d4a017;
   }
 }
 
@@ -1270,7 +1270,7 @@ hr {
   }
 
   strong {
-    color: #818cf8 !important;
+    color: #d4a017 !important;
   }
 }
 
@@ -1371,9 +1371,9 @@ body:has(.lp-landing) .breadcrumb-container {
 }
 
 .ph-type-politician {
-  color: #818cf8;
-  border-color: rgba(99, 102, 241, 0.3);
-  background: rgba(99, 102, 241, 0.08);
+  color: #d4a017;
+  border-color: rgba(212, 160, 23, 0.3);
+  background: rgba(212, 160, 23, 0.08);
 }
 
 .ph-type-donor {
@@ -1434,9 +1434,9 @@ body[data-slug*="master-profile" i] {
 
     .tag-link {
       display: inline-block;
-      background: rgba(99, 102, 241, 0.12);
-      color: #818cf8;
-      border: 1px solid rgba(99, 102, 241, 0.25);
+      background: rgba(212, 160, 23, 0.12);
+      color: #d4a017;
+      border: 1px solid rgba(212, 160, 23, 0.25);
       border-radius: 4px;
       padding: 3px 10px;
       font-size: 0.72rem;
@@ -1447,8 +1447,8 @@ body[data-slug*="master-profile" i] {
       transition: background 0.2s, border-color 0.2s;
 
       &:hover {
-        background: rgba(99, 102, 241, 0.22);
-        border-color: #818cf8;
+        background: rgba(212, 160, 23, 0.22);
+        border-color: #d4a017;
       }
     }
   }
@@ -1466,7 +1466,7 @@ body[data-slug*="master-profile" i] {
     color: #8b8b9e;
 
     a {
-      color: #a5b4fc;
+      color: #e8c84a;
       text-decoration: none;
       &:hover { text-decoration: underline; }
     }
@@ -1482,7 +1482,7 @@ body[data-slug*="master-profile" i] {
     transition: border-color 0.2s;
 
     &:hover {
-      border-color: rgba(99, 102, 241, 0.2);
+      border-color: rgba(212, 160, 23, 0.2);
     }
 
     // Heading inside card — card header
@@ -1510,7 +1510,7 @@ body[data-slug*="master-profile" i] {
 
   // ── Card variants — color-coded left borders ──
   .psc-who, .psc-thesis, .psc-position {
-    border-left: 3px solid #818cf8;
+    border-left: 3px solid #d4a017;
   }
 
   .psc-contradiction {
@@ -1625,7 +1625,7 @@ body[data-slug*="master-profile" i] {
   }
 
   th {
-    color: #818cf8 !important;
+    color: #d4a017 !important;
     font-size: 9px !important;
     padding: 12px !important;
   }
@@ -1636,7 +1636,7 @@ body[data-slug*="master-profile" i] {
   }
 
   tr:hover td {
-    background: rgba(99, 102, 241, 0.04) !important;
+    background: rgba(212, 160, 23, 0.04) !important;
   }
 
   // Timeline-specific: date column
