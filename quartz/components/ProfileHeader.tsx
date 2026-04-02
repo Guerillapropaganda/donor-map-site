@@ -135,6 +135,18 @@ function wrapProfileSections() {
   article.dataset.sectionsWrapped = 'true';
 }
 
+function hideDuplicateNotices() {
+  var article = document.querySelector('article');
+  if (!article) return;
+  var callouts = article.querySelectorAll('.callout');
+  for (var i = 0; i < callouts.length; i++) {
+    var title = callouts[i].querySelector('.callout-title-inner');
+    if (title && (title.textContent || '').indexOf('DUPLICATE') !== -1) {
+      callouts[i].style.display = 'none';
+    }
+  }
+}
+
 function hideDataviewFields() {
   var article = document.querySelector('article');
   if (!article) return;
@@ -151,10 +163,11 @@ function hideDataviewFields() {
 
 wrapProfileSections();
 hideDataviewFields();
+hideDuplicateNotices();
 document.addEventListener('nav', function() {
   var art = document.querySelector('article');
   if (art) art.dataset.sectionsWrapped = '';
-  setTimeout(function() { wrapProfileSections(); hideDataviewFields(); }, 100);
+  setTimeout(function() { wrapProfileSections(); hideDataviewFields(); hideDuplicateNotices(); }, 100);
 });
 `
 
