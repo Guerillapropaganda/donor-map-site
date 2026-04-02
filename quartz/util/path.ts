@@ -169,7 +169,13 @@ export function pathToRoot(slug: FullSlug): RelativeURL {
 }
 
 export function resolveRelative(current: FullSlug, target: FullSlug | SimpleSlug): RelativeURL {
-  const res = joinSegments(pathToRoot(current), simplifySlug(target as FullSlug)) as RelativeURL
+  // Simplify current slug to strip /index suffix from folder pages.
+  // Without this, pathToRoot produces one extra ".." for folder pages because
+  // the slug depth (includes /index) doesn't match the URL depth (no /index).
+  // This causes relative links to escape the base URL on subdirectory deployments
+  // (e.g. GitHub Pages) when SPA navigation doesn't add trailing slashes.
+  const currentSimplified = simplifySlug(current) as FullSlug
+  const res = joinSegments(pathToRoot(currentSimplified), simplifySlug(target as FullSlug)) as RelativeURL
   return res
 }
 
