@@ -39,9 +39,9 @@ const contradictions = [
 ]
 
 const tools = [
-  { name: "Money Flow", icon: "\u{1F4CA}", search: "donors--and--power-networks" },
-  { name: "ROI Calculator", icon: "\u{1F4B0}", search: "stories/published" },
-  { name: "Both-Sides", icon: "\u{1F504}", search: "contradiction-deep-dives" },
+  { name: "Money Flow", icon: "\u{1F4CA}", search: "interactive/money-flow" },
+  { name: "ROI Calculator", icon: "\u{1F4B0}", search: "interactive/roi-calculator" },
+  { name: "Both-Sides", icon: "\u{1F504}", search: "interactive/both-sides" },
 ]
 
 const DonorMapSidebar: QuartzComponent = ({
