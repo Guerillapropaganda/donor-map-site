@@ -534,6 +534,51 @@ article > p:first-of-type {
   }
 }
 
+// --- Hide duplicate frontmatter tags from article body ---
+// Quartz renders tags both from TagList component AND inline from frontmatter
+// Keep only one set — the inline ones inside article
+article > ul.tags:first-of-type {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 0 20px 0 !important;
+}
+
+article > ul.tags:first-of-type ~ ul.tags {
+  display: none !important;
+}
+
+// If TagList renders a separate container above article, hide it
+.tag-container {
+  display: none !important;
+}
+
+// --- Force all Quartz --secondary uses to red ---
+// Override base.scss which uses var(--secondary) for many elements
+a, a:visited {
+  color: var(--secondary);
+}
+
+a:hover {
+  color: #f87171 !important;
+}
+
+// Ensure blockquotes use red not any inherited color
+blockquote {
+  border-left-color: #ef4444 !important;
+}
+
+// --- Checklist items in base ---
+input[type="checkbox"] {
+  border-color: #ef4444 !important;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #ef4444 !important;
+}
+
 // --- Print ---
 @media print {
   body {

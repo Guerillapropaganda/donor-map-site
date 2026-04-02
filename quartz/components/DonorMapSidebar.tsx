@@ -9,6 +9,7 @@ const DonorMapSidebar: QuartzComponent = ({
   allFiles,
 }: QuartzComponentProps) => {
   const baseDir = pathToRoot(fileData.slug!)
+  const currentSlug = fileData.slug ?? ""
 
   // Key politicians with tracked amounts
   const politicians = [
@@ -47,14 +48,17 @@ const DonorMapSidebar: QuartzComponent = ({
         <div class="dm-section">
           <div class="dm-section-label">POLITICIANS</div>
           <ul class="dm-list">
-            {politicians.map((p) => (
-              <li class="dm-list-item">
-                <a href={`${baseDir}/${p.slug}`} class="dm-link">
-                  <span class="dm-name">{p.name}</span>
-                  <span class="dm-amount">{p.amount}</span>
-                </a>
-              </li>
-            ))}
+            {politicians.map((p) => {
+              const isActive = currentSlug.toLowerCase().includes(p.name.toLowerCase().replace(/ /g, "-"))
+              return (
+                <li class={`dm-list-item ${isActive ? "dm-active" : ""}`}>
+                  <a href={`${baseDir}/${p.slug}`} class={`dm-link ${isActive ? "dm-active-link" : ""}`}>
+                    <span class="dm-name">{p.name}</span>
+                    <span class="dm-amount">{p.amount}</span>
+                  </a>
+                </li>
+              )
+            })}
           </ul>
         </div>
 
@@ -214,6 +218,17 @@ DonorMapSidebar.css = `
 .dm-link:hover {
   background: rgba(239, 68, 68, 0.08) !important;
   color: #ffffff !important;
+}
+
+/* Active state for current page */
+.dm-active-link {
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  background: rgba(239, 68, 68, 0.1) !important;
+}
+
+.dm-active-link .dm-amount {
+  color: #4ade80 !important;
 }
 
 .dm-name {
