@@ -86,6 +86,19 @@ async function _navigate(url: URL, isBack: boolean = false) {
   cleanupFns.clear()
 
   const html = p.parseFromString(contents, "text/html")
+
+  // Fix: folder pages (slug ending in /index) need trailing slash in URL
+  // Without it, relative URL resolution breaks on subdirectory deployments
+  // because pathToRoot produces N "../" segments assuming N+1 path levels,
+  // but without trailing slash the browser sees N levels
+  const pageSlug = html.body.dataset.slug
+  if (pageSlug && (pageSlug.endsWith("/index") || pageSlug === "index")) {
+    if (!url.pathname.endsWith("/")) {
+      url = new URL(url.href)
+      url.pathname += "/"
+    }
+  }
+
   normalizeRelativeURLs(html, url)
 
   let title = html.querySelector("title")?.textContent
@@ -188,6 +201,16 @@ function createRouter() {
 }
 
 createRouter()
+
+// Fix: on initial page load, ensure folder pages have trailing slash in URL
+// so that subsequent relative link clicks resolve correctly
+const _initialSlug = document.body.dataset.slug
+if (_initialSlug && (_initialSlug.endsWith("/index") || _initialSlug === "index")) {
+  if (!window.location.pathname.endsWith("/")) {
+    history.replaceState({}, "", window.location.pathname + "/" + window.location.search + window.location.hash)
+  }
+}
+
 notifyNav(getFullSlug(window))
 
 if (!customElements.get("route-announcer")) {
