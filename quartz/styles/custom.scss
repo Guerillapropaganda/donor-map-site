@@ -636,6 +636,18 @@ hr {
 // MOBILE — Full phone optimization
 // =============================================
 @media (max-width: 800px) {
+  // Site name at top of mobile pages
+  .page-header::before {
+    content: "Donor Map$";
+    display: block;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #e4e4e7;
+    padding: 12px 0 8px 0;
+    letter-spacing: 0.5px;
+  }
+
   // Larger, more readable headings
   article h1, .article-title {
     font-size: 28px !important;
