@@ -60,7 +60,7 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: false,
       },
       globalGraph: {
-        depth: 2,
+        depth: 1,
         repelForce: 0.3,
         centerForce: 0.4,
         linkDistance: 30,
