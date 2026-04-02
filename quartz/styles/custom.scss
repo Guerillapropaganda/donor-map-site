@@ -1186,6 +1186,309 @@ body:has(.lp-landing) .breadcrumb-container {
   }
 }
 
+// =============================================
+// MASTER PROFILE PAGES — Dashboard Cards
+// Scoped to master profile pages only
+// =============================================
+
+// ── Profile Header Bar ──
+.ph-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  background: #111118;
+  border: 1px solid #1e1e28;
+  border-radius: 8px;
+  padding: 12px 18px;
+  margin-bottom: 20px;
+}
+
+.ph-badges {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.ph-badge {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  border: 1px solid;
+}
+
+.ph-type-politician {
+  color: #818cf8;
+  border-color: rgba(99, 102, 241, 0.3);
+  background: rgba(99, 102, 241, 0.08);
+}
+
+.ph-type-donor {
+  color: #22c55e;
+  border-color: rgba(34, 197, 94, 0.3);
+  background: rgba(34, 197, 94, 0.08);
+}
+
+.ph-type-other {
+  color: #a1a1aa;
+  border-color: rgba(161, 161, 170, 0.3);
+  background: rgba(161, 161, 170, 0.06);
+}
+
+.ph-tier {
+  color: #f59e0b;
+  border-color: rgba(245, 158, 11, 0.3);
+  background: rgba(245, 158, 11, 0.08);
+}
+
+.ph-readiness {
+  &.ph-ready {
+    color: #22c55e;
+    border-color: rgba(34, 197, 94, 0.3);
+    background: rgba(34, 197, 94, 0.08);
+  }
+  &.ph-draft {
+    color: #63636e;
+    border-color: #1e1e28;
+    background: rgba(99, 99, 110, 0.06);
+  }
+}
+
+.ph-meta {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.5px;
+  color: #63636e;
+}
+
+// ── Section Cards (created by JS) ──
+body[data-slug*="master-profile"] {
+
+  // Hide horizontal rules — cards provide separation
+  article hr {
+    display: none !important;
+  }
+
+  // Section card container
+  .profile-section-card {
+    background: #111118;
+    border: 1px solid #1e1e28;
+    border-radius: 8px;
+    padding: 28px;
+    margin-bottom: 20px;
+    transition: border-color 0.2s;
+
+    &:hover {
+      border-color: rgba(99, 102, 241, 0.2);
+    }
+
+    // H2 inside card — card header
+    h2 {
+      margin-top: 0 !important;
+      padding-bottom: 12px;
+      margin-bottom: 16px;
+      border-bottom: 1px solid #1e1e28;
+      border-left: none;
+      padding-left: 0;
+      scroll-margin-top: 24px;
+    }
+
+    // Remove extra top margin from first element after h2
+    h2 + p, h2 + ul, h2 + ol, h2 + blockquote, h2 + table {
+      margin-top: 0;
+    }
+
+    // Last element in card — no bottom margin
+    > *:last-child {
+      margin-bottom: 0 !important;
+    }
+  }
+
+  // ── Card variants — color-coded left borders ──
+  .psc-who, .psc-thesis, .psc-position {
+    border-left: 3px solid #818cf8;
+  }
+
+  .psc-contradiction {
+    border-left: 3px solid #ef4444;
+    background: linear-gradient(135deg, rgba(239, 68, 68, 0.03) 0%, #111118 100%);
+
+    h2 {
+      color: #ef4444 !important;
+      border-bottom-color: rgba(239, 68, 68, 0.15);
+    }
+  }
+
+  .psc-donors {
+    border-left: 3px solid #22c55e;
+    background: linear-gradient(135deg, rgba(34, 197, 94, 0.03) 0%, #111118 100%);
+
+    h2 {
+      color: #22c55e !important;
+      border-bottom-color: rgba(34, 197, 94, 0.15);
+    }
+  }
+
+  .psc-patterns, .psc-timeline {
+    border-left: 3px solid #f59e0b;
+    background: linear-gradient(135deg, rgba(245, 158, 11, 0.03) 0%, #111118 100%);
+
+    h2 {
+      color: #f59e0b !important;
+      border-bottom-color: rgba(245, 158, 11, 0.15);
+    }
+  }
+
+  .psc-sources {
+    background: #0e0e14;
+    border-color: #1a1a22;
+
+    h2 {
+      font-size: 16px !important;
+      color: #63636e !important;
+      border-bottom-color: #1a1a22;
+    }
+
+    // De-emphasize source list items
+    li {
+      font-size: 13px !important;
+      color: #8a8a96 !important;
+    }
+  }
+
+  // ── Enhanced callouts on master profiles ──
+  .callout[data-callout="contradiction"],
+  .callout[data-callout="warning"],
+  .callout[data-callout="danger"] {
+    border: 2px solid rgba(239, 68, 68, 0.2) !important;
+    border-left: 4px solid #ef4444 !important;
+    background: rgba(239, 68, 68, 0.06) !important;
+    padding: 20px !important;
+
+    .callout-title {
+      font-size: 12px !important;
+      letter-spacing: 2.5px;
+    }
+
+    p {
+      font-size: 14px !important;
+      line-height: 1.85 !important;
+    }
+  }
+
+  .callout[data-callout="money"],
+  .callout[data-callout="tip"],
+  .callout[data-callout="success"] {
+    border: 2px solid rgba(34, 197, 94, 0.15) !important;
+    border-left: 4px solid #22c55e !important;
+    background: rgba(34, 197, 94, 0.05) !important;
+    padding: 20px !important;
+
+    .callout-title {
+      font-size: 12px !important;
+      letter-spacing: 2.5px;
+    }
+
+    p {
+      font-size: 14px !important;
+      line-height: 1.85 !important;
+    }
+  }
+
+  .callout[data-callout="pattern"],
+  .callout[data-callout="analytical-pattern"] {
+    border: 2px solid rgba(245, 158, 11, 0.15) !important;
+    border-left: 4px solid #f59e0b !important;
+    background: rgba(245, 158, 11, 0.04) !important;
+    padding: 20px !important;
+
+    .callout-title {
+      font-size: 12px !important;
+      letter-spacing: 2.5px;
+    }
+  }
+
+  // ── Dashboard table styling ──
+  table {
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #1e1e28;
+  }
+
+  thead tr {
+    background: linear-gradient(180deg, #13131a 0%, #0e0e14 100%) !important;
+    border-bottom: 2px solid #2a2a36 !important;
+  }
+
+  th {
+    color: #818cf8 !important;
+    font-size: 9px !important;
+    padding: 12px !important;
+  }
+
+  // Zebra striping
+  tbody tr:nth-child(even) {
+    background: rgba(255, 255, 255, 0.015);
+  }
+
+  tr:hover td {
+    background: rgba(99, 102, 241, 0.04) !important;
+  }
+
+  // Timeline-specific: date column
+  .psc-timeline td:first-child {
+    white-space: nowrap;
+    font-family: 'Space Mono', monospace;
+    font-size: 11px;
+    color: #63636e !important;
+  }
+
+  // ── Preamble content (before first h2) ──
+  article > p:first-of-type,
+  article > ul.tags {
+    font-size: 13px;
+    color: #63636e;
+    margin-bottom: 8px;
+  }
+}
+
+// ── Profile page mobile ──
+@media (max-width: 800px) {
+  .ph-header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 14px;
+  }
+
+  body[data-slug*="master-profile"] {
+    .profile-section-card {
+      padding: 18px 16px;
+      border-radius: 6px;
+
+      h2 {
+        font-size: 18px !important;
+      }
+    }
+
+    .callout {
+      padding: 14px !important;
+    }
+
+    table {
+      font-size: 11px;
+    }
+
+    td, th {
+      padding: 8px !important;
+    }
+  }
+}
+
 // --- Print ---
 @media print {
   body {
