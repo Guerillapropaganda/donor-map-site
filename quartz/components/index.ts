@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import DonorMapSidebar from "./DonorMapSidebar"
 import InteractiveGraphs from "./InteractiveGraphs"
 import LandingPage from "./LandingPage"
+import ProfileHeader from "./ProfileHeader"
 import ProfileWidget from "./ProfileWidget"
 
 export {
@@ -57,5 +58,6 @@ export {
   DonorMapSidebar,
   InteractiveGraphs,
   LandingPage,
+  ProfileHeader,
   ProfileWidget,
 }

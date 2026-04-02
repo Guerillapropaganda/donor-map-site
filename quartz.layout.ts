@@ -33,6 +33,13 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.ContentMeta(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+    Component.ConditionalRender({
+      component: Component.ProfileHeader(),
+      condition: (page) => {
+        const slug = (page.fileData.slug ?? "").toLowerCase()
+        return slug.includes("master-profile")
+      },
+    }),
   ],
   left: [
     Component.DonorMapSidebar(),
