@@ -29,9 +29,9 @@ InteractiveGraphs.afterDOMLoaded = `
 // ═══════════════════════════════════════════════
 
 const DM_COLORS = {
-  gold: '#d4a017',
-  goldLight: '#e8c84a',
-  goldDim: 'rgba(212, 160, 23, 0.15)',
+  steel: '#5b8dce',
+  steelLight: '#8bb5e8',
+  steelDim: 'rgba(91, 141, 206, 0.15)',
   green: '#22c55e',
   greenDim: 'rgba(34, 197, 94, 0.08)',
   red: '#ef4444',
@@ -412,7 +412,7 @@ function renderMoneyFlow(container) {
     }
 
     donorNodes.forEach(function(n) {
-      drawNode(n, DM_COLORS.gold, n.name, fmt(n.total));
+      drawNode(n, DM_COLORS.steel, n.name, fmt(n.total));
     });
     polNodes.forEach(function(n) {
       drawNode(n, partyColor(n.party), n.name, n.party + ' — ' + fmt(n.total));
@@ -787,7 +787,7 @@ InteractiveGraphs.css = `
 }
 
 .dm-roi-card:hover {
-  border-color: rgba(212, 160, 23, 0.3);
+  border-color: rgba(91, 141, 206, 0.3);
 }
 
 .dm-roi-top {
@@ -800,7 +800,7 @@ InteractiveGraphs.css = `
 
 .dm-roi-donor {
   font-weight: 700;
-  color: #d4a017;
+  color: #5b8dce;
   font-size: 15px;
 }
 
@@ -858,7 +858,7 @@ InteractiveGraphs.css = `
 }
 
 .dm-roi-bar-donated {
-  background: #d4a017;
+  background: #5b8dce;
 }
 
 .dm-roi-bar-value-fill {
@@ -922,7 +922,7 @@ InteractiveGraphs.css = `
 }
 
 .dm-bs-card:hover {
-  border-color: rgba(212, 160, 23, 0.3);
+  border-color: rgba(91, 141, 206, 0.3);
 }
 
 .dm-bs-donor-header {
@@ -932,7 +932,7 @@ InteractiveGraphs.css = `
 .dm-bs-donor-name {
   font-size: 18px;
   font-weight: 700;
-  color: #d4a017;
+  color: #5b8dce;
   margin-bottom: 4px;
 }
 
@@ -1133,13 +1133,13 @@ InteractiveGraphs.css = `
 
 .dm-hp-tab:hover {
   color: #a1a1aa;
-  background: rgba(212, 160, 23, 0.04);
+  background: rgba(91, 141, 206, 0.04);
 }
 
 .dm-hp-tab-active {
-  color: #d4a017 !important;
-  border-bottom-color: #d4a017 !important;
-  background: rgba(212, 160, 23, 0.06) !important;
+  color: #5b8dce !important;
+  border-bottom-color: #5b8dce !important;
+  background: rgba(91, 141, 206, 0.06) !important;
 }
 
 .dm-hp-tab-icon {
