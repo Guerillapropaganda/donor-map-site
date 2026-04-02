@@ -85,11 +85,26 @@ article h4 {
   margin-top: 24px;
 }
 
+// --- Content area: prevent text from overflowing into sidebars ---
+.center {
+  min-width: 0;          // allow grid item to shrink below content size
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.center > article {
+  min-width: 0;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
 // --- Body text ---
 article p {
   line-height: 1.8;
   color: #b4b4bc;
   font-size: 15px;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 article li {
@@ -169,6 +184,9 @@ article > ul.tags ~ ul.tags {
   border-left: 3px solid #818cf8 !important;
   border-radius: 0 8px 8px 0 !important;
   margin: 20px 0;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  min-width: 0;
 }
 
 .callout-title {
