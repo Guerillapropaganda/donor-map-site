@@ -49,7 +49,7 @@ function wrapProfileSections() {
   if (article.dataset.sectionsWrapped === 'true') return;
 
   // Only run on master profile pages
-  var slug = document.body.dataset.slug || '';
+  var slug = (document.body.dataset.slug || '').toLowerCase();
   if (slug.indexOf('master-profile') === -1) return;
 
   var children = Array.from(article.children);
