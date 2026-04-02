@@ -135,11 +135,26 @@ function wrapProfileSections() {
   article.dataset.sectionsWrapped = 'true';
 }
 
+function hideDataviewFields() {
+  var article = document.querySelector('article');
+  if (!article) return;
+  var slug = (document.body.dataset.slug || '').toLowerCase();
+  if (slug.indexOf('master-profile') === -1) return;
+  var ps = article.querySelectorAll('p');
+  for (var i = 0; i < ps.length; i++) {
+    var t = ps[i].textContent || '';
+    if (t.match(/^[a-z-]+::\s/)) {
+      ps[i].style.display = 'none';
+    }
+  }
+}
+
 wrapProfileSections();
+hideDataviewFields();
 document.addEventListener('nav', function() {
   var art = document.querySelector('article');
   if (art) art.dataset.sectionsWrapped = '';
-  setTimeout(wrapProfileSections, 100);
+  setTimeout(function() { wrapProfileSections(); hideDataviewFields(); }, 100);
 });
 `
 
