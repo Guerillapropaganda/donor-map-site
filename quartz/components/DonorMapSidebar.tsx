@@ -19,22 +19,22 @@ const DonorMapSidebar: QuartzComponent = ({
   ]
 
   const donors = [
-    { name: "Goldman Sachs", icon: "\u{1F3E6}", slug: "Donors-&-Power-Networks/Wall-Street-&-Finance/Goldman-Sachs" },
-    { name: "AIPAC", icon: "\u{1F54E}", slug: "Donors-&-Power-Networks/Israel-Lobby/AIPAC" },
-    { name: "Koch Network", icon: "\u{1F3ED}", slug: "Donors-&-Power-Networks/Koch-Network" },
-    { name: "Lockheed Martin", icon: "\u{2708}", slug: "Donors-&-Power-Networks/Defense-&-Intelligence/Lockheed-Martin" },
+    { name: "Goldman Sachs", icon: "\u{1F3E6}", slug: "Donors--and--Power-Networks/Wall-Street/Goldman-Sachs" },
+    { name: "AIPAC", icon: "\u{1F54E}", slug: "Donors--and--Power-Networks/Israel-Lobby/AIPAC---American-Israel-Public-Affairs-Committee" },
+    { name: "Koch Network", icon: "\u{1F3ED}", slug: "Donors--and--Power-Networks/Mega-Donors/Koch-Network---Charles-Koch" },
+    { name: "Lockheed Martin", icon: "\u{2708}", slug: "Donors--and--Power-Networks/Defense--and--Intelligence/Lockheed-Martin" },
   ]
 
   const contradictions = [
-    { name: "Drug Pricing Theater", icon: "\u{1F48A}", slug: "Stories/Contradictions/Contradiction-01" },
-    { name: "Defense Budget Bloat", icon: "\u{1F4A3}", slug: "Stories/Contradictions/Contradiction-02" },
-    { name: "Carried Interest Scam", icon: "\u{1F4B0}", slug: "Stories/Contradictions/Contradiction-03" },
+    { name: "Drug Pricing Theater", icon: "\u{1F48A}", slug: "Stories/Published/Contradiction-Deep-Dives/Contradiction-03---PhRMA-Kills-Drug-Negotiation-From-Both-Sides" },
+    { name: "Defense Budget Bloat", icon: "\u{1F4A3}", slug: "Stories/Published/Contradiction-Deep-Dives/Contradiction-04---Lockheed-Martin-Buys-Defense-Hawks-in-Both-Parties" },
+    { name: "Carried Interest Scam", icon: "\u{1F4B0}", slug: "Stories/Published/Contradiction-Deep-Dives" },
   ]
 
   const tools = [
-    { name: "Money Flow", icon: "\u{1F4CA}", slug: "Assets/donor-money-flow" },
-    { name: "ROI Calculator", icon: "\u{1F4B0}", slug: "Assets/roi-calculator" },
-    { name: "Both-Sides", icon: "\u{1F504}", slug: "Assets/both-sides-machine" },
+    { name: "Money Flow", icon: "\u{1F4CA}", slug: "Donors--and--Power-Networks" },
+    { name: "ROI Calculator", icon: "\u{1F4B0}", slug: "Stories/Published" },
+    { name: "Both-Sides", icon: "\u{1F504}", slug: "Stories/Published/Contradiction-Deep-Dives" },
   ]
 
   return (
