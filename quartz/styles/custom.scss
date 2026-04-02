@@ -591,9 +591,13 @@ hr {
   height: 300px;
 }
 
-.global-graph-outer > .global-graph-container {
-  background-color: #0c0c0f !important;
-  border-color: #1e1e28 !important;
+// Hide global graph — too many nodes for this vault size
+.global-graph-icon {
+  display: none !important;
+}
+
+.global-graph-outer {
+  display: none !important;
 }
 
 // --- Selection ---
