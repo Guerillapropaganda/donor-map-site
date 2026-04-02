@@ -1,0 +1,177 @@
+---
+title: "Trump Victory"
+type: pac
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+
+#donor #pac #joint-fundraising #trump #rnc #state-parties #mega-donors #dark-money #legal-fees #contribution-limits
+
+related: [[The Pardon Machine - Who Got Clemency and Who Funded It]] [[_Donald Trump Master Profile|Trump]] [[Save America PAC]] [[MAGA Inc]]
+
+---
+
+### Who They Are
+
+Trump Victory is a joint fundraising committee (JFC) established May 25, 2016, shared between the Trump campaign, the Republican National Committee, and state Republican parties. It was Trump's primary vehicle for soliciting large-dollar contributions during the 2016 and 2020 cycles, raising a combined $474.7 million ($108.4 million in 2016, $366.3 million in 2020). For the 2024 cycle, Trump Victory was effectively replaced by the Trump 47 Committee ($368.2 million raised).
+
+The JFC structure serves a specific legal purpose: it allows donors to write a single large check — up to $449,400-$817,800 depending on participating entities — that is split among multiple recipients according to a predetermined formula. The formula is the mechanism. By listing the Trump campaign, the RNC, and dozens of state parties as beneficiaries, Trump Victory creates the appearance of distributed funding while concentrating control in the Trump operation.
+
+The defining feature of Trump Victory's operation — documented by OpenSecrets in a 2021 investigation — is the state party pass-through scheme. In the 2020 cycle, Trump Victory distributed $13.3 million to 21 state parties, and all 21 state parties transferred the exact amounts back to the RNC the same day, down to the penny. State parties received approximately $72 million through this mechanism and passed it all through to the RNC. The state parties were not beneficiaries. They were conduits — legal fictions used to circumvent individual contribution limits to the RNC.
+
+---
+
+### What They Want
+
+**Maximize large-dollar contributions to Trump's operation:** The JFC structure allows Trump to solicit contributions far larger than what any single entity could accept. A donor who can give only $6,600 to the Trump campaign can write a $449,400+ check to Trump Victory — and the allocation formula ensures the money flows where Trump's operation needs it most.
+
+**Circumvent contribution limits through state party pass-throughs:** The documented pattern of same-day transfers from state parties to the RNC turns the JFC's state party allocation into a contribution-limit circumvention device. Donors effectively contribute to the RNC at multiples of the legal limit by routing money through state parties that function as pass-throughs.
+
+**Prioritize legal defense over party building (2024):** The Trump 47 Committee — Trump Victory's 2024 successor — restructured the allocation formula to direct money to Save America PAC (Trump's legal defense fund) before the RNC. This meant donor money paid for Trump's criminal defense attorneys before a single dollar reached the Republican Party's general operations.
+
+**Control the RNC apparatus:** In March 2024, Trump installed Lara Trump (his daughter-in-law) as RNC co-chair and Michael Whatley as chair, completing a takeover of the party's fundraising machinery. The JFC structure gives Trump personal control over the flow of hundreds of millions of dollars through the Republican Party.
+
+---
+
+### Who Funds Them
+
+#### Fundraising by Cycle
+
+| Cycle | Amount Raised | Key Context |
+|-------|--------------|-------------|
+| 2016 | $108,424,871 | Initial JFC with 11 state parties |
+| 2020 | $366,304,967 | Expanded to 46 state parties; peak fundraising |
+| 2024 | $0 (replaced) | Trump 47 Committee raised $368,225,256 |
+| **Combined** | **$474.7M (Trump Victory) + $368.2M (Trump 47)** | **$842.9M total through JFC vehicles** |
+
+#### Notable Mega-Donors
+
+| Donor | Amount | Cycle | Destination |
+|-------|--------|-------|-------------|
+| Duke Buchan (and wife) | ~$900K | 2016 | Trump Victory |
+| Richard Uihlein (Uline CEO) | ~$900K | 2016 | Trump Victory + America First Action |
+| Miriam Adelson | ~$800K | 2016 | Trump Victory (plus $5M to super PACs) |
+| Timothy Mellon | $150M | 2024 | MAGA Inc. (super PAC, not JFC) |
+| Elon Musk | $277M+ | 2024 | America PAC (super PAC, not JFC) |
+
+The JFC's contribution limits ($449K-$818K maximum) are dwarfed by unlimited super PAC giving. The mega-donor ecosystem shifted toward MAGA Inc. and America PAC for 2024, where there are no caps. Trump Victory's role evolved from primary fundraising vehicle (2016-2020) to structural pass-through (2024).
+
+---
+
+### The State Party Pass-Through Scheme
+
+OpenSecrets documented the mechanism in detail:
+
+| Date | Action | Amount | Source |
+|------|--------|--------|--------|
+| Sep 4, 2020 | Trump Victory distributes to 21 state parties | $13.3M | FEC filings |
+| Sep 4, 2020 | All 21 state parties transfer exact amounts to RNC | $13.3M | FEC filings |
+| Oct 15, 2020 | Alaska GOP receives from Trump Victory | $2.7M | FEC filings |
+| Oct 15, 2020 | Alaska GOP transfers exact amount to RNC | $2.7M | FEC filings |
+| 2020 full cycle | GOP state parties transfer to RNC | ~$72M | OpenSecrets |
+
+The same-day, to-the-penny transfers demonstrate that state parties exercised zero discretion over these funds. The money touched their accounts for administrative purposes only — long enough to create a legal fiction of distributed funding while concentrating all resources at the national level.
+
+> [!money]
+> In the 2020 cycle, Trump Victory listed 46 state parties as beneficiaries, allowing donors to write checks 9x larger than the individual RNC contribution limit. State parties received approximately $72 million and transferred it all to the RNC — often the same day, down to the penny. The JFC structure didn't fund state parties. It used state party accounts as legal pass-throughs to circumvent federal contribution limits to the RNC. The 46 state parties were line items on a form, not actual recipients.
+
+---
+
+### The 2024 Restructure — Legal Fees Before Party
+
+For 2024, the Trump 47 Committee restructured the JFC allocation to prioritize Trump's personal legal defense:
+
+### Allocation order (per donation):
+1. First $6,600 → Trump for President 2024 (federal max)
+2. Next $5,000 → **Save America PAC** (legal defense fund)
+3. Next $413,000 → RNC
+4. Remainder → State parties
+
+The critical innovation: Save America PAC — which spent $50+ million on Trump's criminal defense attorneys in 2023 — receives donor money before the Republican National Committee. A donor writing a $424,600 check to support Republican candidates is actually funding Trump's lawyers before supporting the party.
+
+> [!contradiction]
+> Trump's campaign publicly stated: "We will not use RNC funds to pay any of President Trump's legal bills." The Trump 47 Committee's allocation formula directs donor money to Save America PAC — which pays Trump's legal bills — before a single dollar reaches the RNC. The statement is technically true and functionally false. RNC funds don't pay legal bills. The money is intercepted before it becomes RNC funds.
+
+---
+
+### The Aggressive Fundraising Tactics
+
+#### Pre-Checked Recurring Donations (2020)
+
+Trump's 2020 digital fundraising operation — which included Trump Victory donors — used pre-checked boxes to automatically enroll donors in recurring weekly contributions. By late in the cycle, donors faced two pre-checked boxes simultaneously: one for recurring weekly donations and one authorizing a separate additional donation. Opting out required finding and unchecking both boxes.
+
+| Metric | Amount | Source |
+|--------|--------|--------|
+| Total refunded (2020-2021) | $135M+ | Slate, CNN |
+| Trump campaign refund rate | 10.7% | CNN |
+| Biden campaign refund rate | ~6.8% | CNN |
+| First half 2021 refunds alone | ~$13M | CNN |
+
+The 10.7% refund rate — compared to Biden's 6.8% — indicates that Trump's fundraising operation systematically generated contributions donors didn't intend to make. The pre-checked recurring box meant a one-time $50 donor could be charged $50 per week for months before discovering the recurring charge.
+
+---
+
+### What They've Gotten
+
+#### $842.9 Million Through Two JFC Vehicles
+
+Across Trump Victory (2016-2020) and Trump 47 Committee (2024), Trump's JFC operation raised $842.9 million — nearly a billion dollars through a structure that allows contributions 9x larger than direct campaign limits while routing money through state party pass-throughs to concentrate it at the national level.
+
+#### RNC Takeover
+
+Trump's March 2024 installation of Lara Trump and Michael Whatley at the RNC completed the conversion of the Republican Party's fundraising infrastructure into an extension of the Trump campaign. The JFC structure — originally designed as a party-building mechanism — became a personal fundraising tool controlled entirely by Trump allies.
+
+#### Legal Defense Subsidy
+
+The Trump 47 Committee's allocation formula channeled donor money to Save America PAC before the RNC, subsidizing Trump's criminal defense from contributions ostensibly raised for Republican candidates and party operations. Save America has spent $72.5+ million on Trump's legal fees since January 2021.
+
+#### Trump Property Revenue
+
+Republican political spending at Trump-owned properties exceeded $1 million in 2025 alone, with the RNC accounting for $800K+ in Mar-a-Lago catering, venue rentals, and lodging. Since 2016, Trump properties have received over $17 million from campaign and RNC spending — money that flows from donors through JFCs through the party back to Trump's personal businesses.
+
+> [!money]
+> Since 2016, Trump properties have received $17+ million from campaign and RNC spending. Trump's JFC operations raised $842.9 million. Trump's leadership PAC spent $72.5M+ on his legal defense. Trump installed his daughter-in-law to run the RNC. The fundraising structure is designed to look like a political party. It functions as a personal financial ecosystem: donor money enters as political contributions and exits as legal fee payments, property rental charges, and family member salaries. The party is the vehicle. Trump is the destination.
+
+---
+
+### Class Analysis
+
+Trump Victory is the structural mechanism through which Trump converted the Republican Party from a political institution into a personal fundraising operation.
+
+**The JFC as contribution-limit circumvention.** Federal law limits individual contributions to $6,600 per candidate and $41,300 per national party committee. The JFC structure allows a single check of $449,400+ by listing dozens of state parties as nominal beneficiaries. But the 2020 same-day, to-the-penny state-to-RNC transfers documented by OpenSecrets reveal that state parties exercise no actual control over these funds. The JFC's legal compliance depends on the fiction that state parties are independent recipients. The financial reality is that they're pass-throughs.
+
+**The allocation formula as power.** By restructuring the 2024 JFC to direct money to Save America PAC before the RNC, Trump established that his personal legal defense takes priority over party operations. This isn't metaphorical — it's the literal allocation formula. Donors who think they're supporting Republican candidates are funding criminal defense attorneys first. The formula is the confession.
+
+**The refund rate as exploitation metric.** A 10.7% refund rate — 58% higher than the opposing campaign — is a quantitative measure of donor exploitation. Pre-checked recurring donation boxes extracted money from donors who didn't intend to give it. The $135 million in refunds represents only the donors who noticed and successfully reversed the charges. The unreversed recurring charges — from donors who never checked their credit card statements — represent the profit from the operation.
+
+**The party as personal business.** Trump properties receiving $17+ million from political spending, Trump's daughter-in-law running the RNC, Trump's legal bills prioritized over party funding, Trump's PAC paying Melania's fashion designer — the structure is self-enrichment with a political wrapper. The Republican Party's fundraising infrastructure exists to convert donor money into Trump family income, legal defense, and personal expenses. The JFC is the entry point. The Trump Organization is the exit.
+
+---
+
+### Sources
+
+- [FEC: Trump Victory Committee Data](https://www.fec.gov/data/committee/C00618389/) (Tier 1)
+- [FEC: Trump 47 Committee Data](https://www.fec.gov/data/committee/C00867937/) (Tier 1)
+- [OpenSecrets: Trump Victory Summary 2020](https://www.opensecrets.org/jfc/summary.php?id=C00618389&cycle=2020) (Tier 1)
+- [OpenSecrets: Trump Victory Summary 2016](https://www.opensecrets.org/joint-fundraising-committees-jfcs/summary?name=Trump+Victory&id=C00618389&cycle=2016) (Tier 1)
+- [OpenSecrets: Trump 47 Committee Summary 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/trump-47-cmte/C00867937/2024/summary) (Tier 1)
+- [OpenSecrets: Trump Raised Record Sums for State Parties — Then RNC Took It Back](https://www.opensecrets.org/news/2021/02/trump-raised-record-sums-for-state-parties-rnc/) (Tier 1)
+- [The Hill: Trump Fundraising Agreement Prioritizes Legal Fee PAC Before RNC](https://www.thehill.com/homenews/campaign/4548589-trump-fundraising-agreement-prioritizes-payments-to-pac-covering-legal-fees-before-rnc/) (Tier 2)
+- [CNN: PAC That Pays Trump's Legal Bills Gets Priority Over RNC Donations](https://www.cnn.com/2024/03/21/politics/save-america-pac-rnc-trump-donations/index.html) (Tier 2)
+- [CNN: Trump 2020 Campaign Refunds Millions After Aggressive Fundraising](https://www.cnn.com/2021/08/07/politics/trump-refunds-millions-2020-campaign-fundraising/index.html) (Tier 2)
+- [NPR: RNC Member Introduces Resolution to Prevent Trump Legal Bill Payments](https://www.npr.org/2019/01/04/681987077/rnc-members-want-to-block-a-primary-challenge-to-trump-but-the-rules-may-stop-th) (Tier 2)
+- [CBS News: RNC Votes to Install Trump's Handpicked Leaders](https://www.cbsnews.com/news/rnc-donald-trump-michael-whatley-lara-trump/) (Tier 2)
+- [NOTUS: Republican Political Spending at Trump Properties Tops $1 Million in 2025](https://www.notus.org/money/republican-political-spending-trump-tower-properties-bedminster-mar-a-lago) (Tier 2)
+- [CNBC: Trump Properties Made Over $17 Million from Campaign and RNC Since 2016](https://www.cnbc.com/2020/07/17/trump-properties-made-over-17-million-from-campaign-rnc-since-2016.html) (Tier 2)
+- [CREW: Political Spending Tops $1.8 Million at Trump Properties](https://www.citizensforethics.org/reports-investigations/crew-investigations/political-spending-tops-1-8-million-at-trump-properties-this-cycle/) (Tier 2)
+- [ProPublica: Trump Spawned a New Group of Mega-Donors Who Now Hold Sway Over the GOP's Future](https://www.propublica.org/article/trump-spawned-a-new-group-of-mega-donors-who-now-hold-sway-over-gops-future) (Tier 2)
+- [Brennan Center: Pro-Trump Super PAC Raises Record-Breaking $305 Million](https://www.brennancenter.org/our-work/analysis-opinion/pro-trump-super-pac-raises-record-breaking-305-million) (Tier 2)
+- [Slate: Trump Campaign Refunded $135 Million After Aggressive Tactics](https://www.slate.com/news-and-politics/2021/08/trump-campaign-republican-refunds-donations-fundraising.html) (Tier 2)
+- [TIME: Inside the GOP Fight Over Trump's Legal Costs](https://time.com/6836021/trump-legal-costs-rnc-gop/) (Tier 2)
+
+---
+
+content-readiness:: ready

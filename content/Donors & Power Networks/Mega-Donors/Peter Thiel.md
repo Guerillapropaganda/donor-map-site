@@ -1,0 +1,192 @@
+---
+title: "Peter Thiel"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-23
+source-tier: 1
+parent: null
+---
+
+
+#donor #thiel #palantir #surveillance #paypal-mafia #class-analysis #follow-the-money #anti-democracy #dark-enlightenment #kingmaker #venture-capital #trump #vance
+
+related: [[_Donald Trump Master Profile]] | [[Elon Musk]] | [[_JD Vance Master Profile]] | [[_David Sacks Master Profile|David Sacks]]
+
+---
+
+### Who He Is
+
+[[Peter Thiel]]. Born 1967 in Frankfurt, Germany. Stanford philosophy degree, Stanford Law. Co-founded PayPal with Max Levchin (1998) — sold to eBay for $1.5 billion (2002). First outside investor in Facebook ($500,000 for 10.2% in 2004 — cashed out $1 billion+). Co-founded [[Palantir Technologies|Palantir Technologies]] (2004) with CIA seed money. Runs Founders Fund ($17 billion AUM, 2025). Net worth in the low billions.
+
+Thiel is not a check-writer. He is an architect. He doesn't just fund politicians — he manufactures them. He identified [[_JD Vance Master Profile|JD Vance]], hired him at [[Mithril Capital|Mithril Capital]], introduced him to Trump at Mar-a-Lago, spent $15 million to put him in the Senate, then lobbied Trump to make him vice president. That is a patron-client pipeline from venture capital to the White House.
+
+He spent $10 million to secretly destroy Gawker Media through litigation. He obtained New Zealand citizenship after spending 12 days in the country — a literal exit strategy from the democracy he no longer believes in.
+
+> [!quote]
+> He wrote: "I no longer believe that freedom and democracy are compatible."
+
+He means it. His political project is not to reform democracy but to render it irrelevant through monopoly power, surveillance infrastructure, and the installation of ideologically aligned politicians in positions of authority.
+
+---
+
+### The Class Analysis
+
+Thiel represents a class position that doesn't map onto the traditional donor categories. He is not buying tax cuts (Mellon), foreign policy (Adelson), or regulatory capture for his own companies (Musk — though Palantir benefits enormously). He is building infrastructure for a post-democratic oligarchy.
+
+His stated ideology: "Competition is for losers." His philosophy: monopoly is the natural and desirable state of capital. His political theory: democracy is an obstacle to freedom because voters demand redistribution. His solution: build technological systems (Palantir surveillance), political patronage networks (Vance, Masters, Sacks), and physical exit options (New Zealand, Seasteading) that make democratic accountability irrelevant.
+
+The class function: Thiel is capital's R&D department for governance. While Musk captures existing regulatory agencies and Mellon funds ideological destruction of the welfare state, Thiel is designing the replacement system. Palantir provides the surveillance infrastructure. Founders Fund portfolio companies (Anduril — $20B+ military contracts, Scale AI) build the defense/intelligence tech stack. The PayPal Mafia network (Musk at DOGE, Sacks as AI/Crypto Czar, Vance as VP, Rabois' husband at State Department) populates the government. The ideology (Dark Enlightenment, neoreaction, techno-feudalism) provides the intellectual framework.
+
+This is not a donor buying influence. This is an architect building a system.
+
+---
+
+### What He Wants
+
+— Monopoly capitalism: concentrated corporate power without regulatory constraint
+— Weakened democracy: fewer voters, less redistribution, governance by technological/financial elites
+— Expanded surveillance state: Palantir's government contracts depend on normalized mass surveillance
+— Military-tech spending: Founders Fund portfolio (Palantir, Anduril, Scale AI) depends on expanding defense/intelligence budgets
+— Political allies in power: Vance as VP, Sacks in the White House, Musk at DOGE — the PayPal Mafia as governing class
+— Deregulation of tech: AI, crypto, autonomous vehicles — remove the state from the path of capital
+— Immigration structured for capital: pro-H-1B (cheap skilled labor for tech) while supporting MAGA immigration restriction (for working-class immigrants). The class division is explicit: skilled immigrants serve capital, unskilled immigrants are excluded.
+— Exit options: New Zealand citizenship, Seasteading, the ability to leave when the system he helped build collapses
+
+---
+
+### Who He Funds
+
+### [[_JD Vance Master Profile|JD Vance]] — The Flagship Investment:
+— 2017: Hired Vance at [[Mithril Capital|Mithril Capital]] (Thiel's VC firm).
+— February 2021: Brought Vance to Mar-a-Lago for his first meeting with Trump.
+
+> [!money]
+> — 2022: $15 million to Protect Ohio Values PAC — largest single donation to a Senate candidate in American history at the time.
+
+— Post-Senate: Vance joined Thiel's Narya Capital; Thiel provided at least 15% of initial capital.
+— 2024: Thiel lobbied Trump to select Vance as VP. Trump did.
+— The pipeline: employer → introducer → funder → patron → kingmaker. Thiel did not donate to a politician. He built one.
+[Source: CBS News — Tier 2; Washington Post — Tier 2]
+
+### Blake Masters — The Failed Investment:
+— Masters was COO of Thiel Capital and president of the Thiel Foundation.
+— $20 million to Saving Arizona PAC for Masters' 2022 Senate campaign.
+— Masters lost. The investment failed politically, but the signal succeeded: Thiel can make or break candidates with a single check.
+[Source: OpenSecrets — Tier 1; Ballotpedia — Tier 3]
+
+### [[_Donald Trump Master Profile|Donald Trump]] — 2016:
+— $1.25 million direct contribution.
+— Spoke at the 2016 Republican National Convention.
+— Member of Trump's presidential transition team.
+— California delegate to the RNC.
+[Source: OpenSecrets — Tier 1]
+
+### [[_Donald Trump Master Profile|Donald Trump]] — 2024:
+— $1.7 million (FEC records). Publicly said he had "no plans to donate to 2024 candidates."
+— "If you hold a gun to my head I'll vote for Trump."
+— He didn't need to donate. Vance was already the VP nominee. Sacks was already in the administration. The infrastructure was already built. The $50M+ spent in prior cycles had compounded.
+[Source: Bloomberg — Tier 2; CNBC — Tier 2]
+
+**Total political spending 2016–2024:** $50+ million in direct donations, plus dark money groups.
+
+---
+
+### What He's Gotten
+
+### Palantir contract explosion:
+— Federal contracts: $4.4M (2009) → $541M (2024) → $970.5M (2025). Nearly doubled in one year of the second Trump term.
+— $10 billion 10-year Army contract (2025).
+— $1.3 billion DoD Project Maven contract.
+— ICE ImmigrationOS contract ($30M 2024 + $90M renewal) — AI tracking of undocumented immigrants.
+— $1 billion+ Navy contracts.
+— NSA XKEYSCORE support (classified).
+— Thiel's Palantir stock rose 140% after Trump's election.
+[Source: CNBC — Tier 2; The Intercept — Tier 2; The Hill — Tier 2]
+
+### Founders Fund portfolio government contracts:
+— Anduril Industries (Palmer Luckey): expanded Army contract valued at $20 billion+ for autonomous military drones and AI defense systems.
+— Scale AI: Department of Defense partnership.
+— The portfolio is increasingly dependent on government spending. Thiel's political investments produce government contracts for his financial investments. The loop closes.
+
+### A vice president:
+— [[_JD Vance Master Profile|JD Vance]]. This is the return that matters most. Thiel spent $15 million on a Senate race and got a vice president. The ROI is incalculable. Vance now promotes Thiel-aligned policy on deregulation, tech autonomy, and government restructuring from the second-highest office in the country.
+
+### The PayPal Mafia in government:
+— Musk: DOGE (January–May 2025)
+— Sacks: White House AI and Crypto Czar
+— Keith Rabois' husband Jacob Helberg: nominee for Undersecretary of State
+— Vance: Vice President
+— The network Thiel co-built at PayPal in 1998 now occupies the executive branch. [See: [[_David Sacks Master Profile|David Sacks]] | [[_JD Vance Master Profile]]]
+
+---
+
+### The Gawker Precedent — Billionaire Weaponization of Law
+
+In 2007, Gawker outed Thiel as gay. His response: fund a proxy lawsuit to destroy the company. He secretly provided $10 million to back Hulk Hogan's privacy lawsuit against Gawker for publishing a sex tape. Jury verdict: $140 million. Gawker filed for bankruptcy (June 2016). Sold to Univision for $135 million.
+
+A billionaire spent $10 million and destroyed a media company that criticized him. This is not a donation or a legal strategy. It is a demonstration of power: criticize the wrong billionaire and your company ceases to exist. The precedent was set. Every journalist who covers Thiel knows it. [Source: Wikipedia — Bollea v. Gawker — Tier 3; NPR — Tier 2]
+
+---
+
+### The Dark Enlightenment Connection
+
+Thiel's intellectual world is not standard Republican conservatism. It is the Dark Enlightenment — a movement rejecting Enlightenment principles (democracy, egalitarianism, universal liberty) in favor of hierarchical, authoritarian governance by technological elites.
+
+Key figures: Curtis Yarvin (pseudonym Mencius Moldbug) — anti-democratic theorist who advocates "neocameralism" (governing states like corporations with a CEO, not elected officials). Yarvin is described as the "house political philosopher" of Thiel's network. Thiel's Founders Fund invested in Yarvin's startup Urbit. Yarvin has described Thiel as "fully enlightened."
+
+The Seasteading Institute — founded by Patri Friedman (grandson of Milton Friedman), funded by Thiel — proposes building floating cities outside national jurisdiction. This is the physical manifestation of the ideology: if you can't end democracy, leave it. Thiel's New Zealand citizenship (obtained after 12 days in the country under an "exceptional circumstances" waiver) is the personal version of the same strategy. [Source: TIME — Tier 2; Jacobin — Tier 2; Cato Institute — Tier 1]
+
+---
+
+### Enemies / Opposition
+
+— Gawker Media (destroyed)
+— NLRB (Palantir labor practices)
+— ICE/surveillance critics (ACLU, American Immigration Council, EFF)
+— Democratic Party apparatus
+— Investigative journalists (the Gawker precedent is designed to chill coverage)
+— [[Reid Hoffman|Reid Hoffman]] — the PayPal Mafia member who went the other direction (Democratic mega-donor, LinkedIn founder)
+
+---
+
+### Connected Policy Areas
+
+Trump donor map — architect of the MAGA tech infrastructure, not just a funder
+Surveillance state — Palantir is the backbone of federal surveillance (ICE, NSA, DoD, CIA)
+Immigration — ImmigrationOS, ICE contracts, H-1B class contradiction
+Defense spending — Founders Fund portfolio dependent on military contracts
+Democracy/governance — Dark Enlightenment ideology, anti-democratic political theory
+Media/free press — Gawker precedent as billionaire weapon against journalism
+
+---
+
+### Sources
+
+- [CBS News: Thiel and Vance](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/) (Tier 2)
+- [Washington Post: Thiel tech network](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2)
+- [The Intercept: Palantir and NSA](https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/) (Tier 2)
+- [CNBC: Palantir $10B Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)
+- [American Immigration Council: ImmigrationOS](https://www.americanimmigrationcouncil.org/blog/ice-immigrationos-palantir-ai-track-immigrants/) (Tier 2)
+- [The Hill: Palantir contracts](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2)
+- [OpenSecrets: Thiel donations](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel) (Tier 1)
+- [Cato Institute: "I no longer believe freedom and democracy are compatible"](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/) (Tier 1)
+- [Jacobin: Thiel as philosopher king](https://jacobin.com/2025/10/peter-thiel-would-be-philosopher-king-takes-on-democracy) (Tier 2)
+- [Bloomberg: Thiel allies in Trump government](https://www.bloomberg.com/features/2025-peter-thiel-trump-administration-connections/) (Tier 2)
+- [NPR: Gawker settlement](https://www.npr.org/sections/thetwo-way/2016/11/02/500389355/hulk-hogan-reaches-settlement-with-gawker) (Tier 2)
+- [NBC News: PayPal Mafia Trump connections](https://www.nbcnews.com/tech/tech-news/mapping-trumps-connections-techs-right-wing-brotherhood-rcna180693) (Tier 2)
+- [CNBC: Thiel steps down from Meta board](https://www.cnbc.com/2022/02/07/peter-thiel-to-step-down-from-facebook-board.html) (Tier 2)
+- [NZ Herald: citizenship details](https://www.nzherald.co.nz/indepth/national/how-peter-thiel-got-new-zealand-citizenship/) (Tier 2)
+
+research-status:: ready — core role documented with full class analysis, Palantir contract explosion ($4.4M→$970.5M), PayPal Mafia government network mapped, Gawker precedent, Dark Enlightenment ideology, 2026 return to active spending. All ### headers, inline citations with Tier 1-2 sources, wikilinks verified. Promoted to ready Session 38h.
+content-readiness:: ready
+
+---
+
+### March 2026 Update — Return to Active Political Spending
+
+**March 19, 2026:** Bloomberg reported that Thiel and fellow billionaire **Richard Uihlein** (Uline founder, MAGA megadonor) are pumping millions into a Republican PAC. This confirms Thiel's return to active federal political spending after sitting out the 2024 cycle entirely. Thiel previously spent $35M in the 2022 midterms (including $20M on Blake Masters in Arizona) before stepping back.
+
+**Context:** Thiel's re-engagement in 2026 coincides with the [[AIPAC - American Israel Public Affairs Committee|AIPAC]]-crypto-AI donor coalition's massive midterm intervention. Thiel's political goals align: he supports candidates hostile to tech regulation, friendly to crypto, and hawkish on China. The Uihlein partnership suggests coordination with the [[Club for Growth|Club for Growth]] orbit — Uihlein's primary vehicle — rather than the MAGA establishment.
+
+- [Bloomberg: Billionaires Thiel and Uihlein pump millions into Republican PAC](https://www.bloomberg.com/news/articles/2026-03-19/billionaires-thiel-and-uihlein-pump-millions-into-republican-pac) (Tier 2)
+- [Crain's Chicago Business: Thiel and Uihlein pump millions into GOP PAC](https://www.chicagobusiness.com/politics-policy/ccb-thiel-and-uihlein-pump-millions-into-gop-pac-20260319/) (Tier 2)

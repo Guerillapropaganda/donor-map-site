@@ -1,0 +1,115 @@
+---
+title: "Jim Inhofe"
+type: politician
+content-readiness: ready
+last-updated: 2026-03-25
+source-tier: 1
+parent: null
+---
+
+#politician #republican #senate #oklahoma #fossil-fuel #climate-denial #defense #armed-services #koch #oil-gas #follow-the-money #class-analysis #deceased
+
+related: [[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Northrop Grumman]]
+
+---
+
+### Who He Was
+
+James Mountain Inhofe (November 17, 1934 – July 9, 2024). Republican U.S. Senator from Oklahoma, 1994–2023. The longest-serving U.S. senator in Oklahoma history. Chairman of the Senate Environment and Public Works Committee (2003–2007, 2015–2017) and Chairman of the Senate Armed Services Committee (2018–2021). Resigned January 3, 2023; died July 9, 2024, at age 89.
+
+Born in Des Moines, Iowa, raised in Tulsa. University of Tulsa graduate. Army veteran (1957–1958). Independent businessman in aviation, real estate, and insurance — president of Quaker Life Insurance Company before entering politics. Tulsa mayor (1978–1984). U.S. House (1987–1994). Won a special election to the Senate in 1994 and was reelected five times.
+
+Inhofe was the fossil fuel industry's most reliable Senate asset for three decades — and the defense industry's most consistent champion of increased military spending. These two functions defined his entire career.
+
+---
+
+### The Central Thesis
+
+Inhofe served two donor classes simultaneously: the fossil fuel industry and the defense industry. As chair of both the Environment and Armed Services committees at different points, he was perfectly positioned to deliver for both. For oil and gas, he provided the most aggressive climate denial in the Senate — blocking environmental legislation, attacking EPA authority, and providing intellectual cover for the industry's resistance to regulation. For defense contractors, he championed record military spending bills and protected Oklahoma's five military installations. Both donor classes got exactly what they paid for.
+
+---
+
+### The Core Contradiction
+
+Inhofe represented one of America's poorest states while serving its wealthiest industries. Oklahoma ranks in the bottom ten states for median household income, healthcare access, and education outcomes. Inhofe's three decades of fossil fuel deregulation enriched extractive industries while leaving Oklahoma communities bearing the environmental costs — including a dramatic increase in earthquakes linked to fracking wastewater injection that Inhofe refused to investigate.
+
+> [!contradiction]
+> Inhofe famously brought a snowball onto the Senate floor in February 2015 to "disprove" global warming — while his top career donors included Koch Industries ($105,150+), Murray Energy ($90,000+), and the broader oil and gas industry ($2.14 million career total). The snowball wasn't an argument — it was a performance. The audience wasn't the public. It was the donor class that needed continued political cover for carbon extraction.
+
+---
+
+### Donor Class Map
+
+**Career oil and gas industry contributions:** $2,139,220 (OpenSecrets career total)
+
+### Top fossil fuel donors:
+- Koch Industries: $105,150+ (top career contributor)
+- Murray Energy: $90,000+
+- ExxonMobil: $20,500+ since 2007
+- BP PAC: Regular contributor despite Inhofe's climate denial
+
+**Defense industry contributions:** Significant career totals from Lockheed Martin, Northrop Grumman, Boeing, and other defense contractors with Oklahoma operations (Tinker AFB, Fort Sill, Altus AFB, Vance AFB, McAlester Army Ammunition Plant).
+
+| Date | Event | Amount | Source |
+|------|-------|--------|--------|
+| 1994-2022 | Career oil & gas industry contributions | $2.14M | OpenSecrets |
+| 1989-2022 | Koch Industries career contributions (top donor) | $105,150+ | OpenSecrets |
+| 2003 | Called climate change "the greatest hoax ever perpetrated on the American people" | — | Senate floor |
+| 2015-02 | Brought snowball to Senate floor to "disprove" warming | — | C-SPAN |
+| 2017 | Co-signed letter urging Trump to withdraw from Paris Agreement | — | DeSmog |
+| 2018-2021 | Chaired Armed Services Committee; passed $716B NDAA | $716B | Military Times |
+| 2023-01-03 | Resigned from Senate | — | Congress.gov |
+| 2024-07-09 | Died at age 89 | — | PBS |
+
+---
+
+### Policy Record — Fossil Fuel Service
+
+**Climate denial:** Inhofe was the Senate's most prominent climate change denier for two decades. He authored "The Greatest Hoax: How the Global Warming Conspiracy Threatens Your Future" (2012). Used his EPW Committee chairmanship to block climate legislation, attack EPA scientists, and hold hearings platforming industry-funded climate skeptics.
+
+### Legislative record:
+— Voted against every major environmental regulation reaching the Senate floor
+— Blocked cap-and-trade legislation repeatedly
+— Fought EPA Clean Power Plan and methane regulations
+— Co-authored letter urging Paris Agreement withdrawal (signed by 22 GOP senators)
+— Opposed Waxman-Markey climate bill
+— Protected fossil fuel tax subsidies in every budget cycle
+
+**What the industry got:** Three decades of the most powerful committee chairman in environmental policy actively blocking any regulation that would constrain fossil fuel extraction. Inhofe didn't just vote against climate action — he used his institutional power to prevent it from reaching a vote.
+
+---
+
+### Policy Record — Defense Industry Service
+
+**Armed Services Committee:** As chairman (2018–2021), Inhofe championed the $716 billion National Defense Authorization Act for FY2019 — a record at the time. Consistently pushed for defense spending increases above Pentagon requests.
+
+**Oklahoma military installations:** Protected and expanded funding for Tinker AFB (KC-46A tanker mission), Fort Sill (Fires Center of Excellence), Altus AFB, Vance AFB, and McAlester Army Ammunition Plant. Created the Defense Community Infrastructure Program (DCIP) in the FY2019 NDAA.
+
+**What the industry got:** Steady increases in defense spending, protection of legacy weapons programs, and guaranteed federal investment in Oklahoma military infrastructure that sustained the state's defense contractor employment base.
+
+---
+
+### Analytical Patterns
+
+**Donor-Class Override:** Oklahoma's citizens needed healthcare expansion, education funding, and environmental protection from fracking-induced earthquakes. Inhofe delivered fossil fuel deregulation and defense spending. The gap between constituent need and policy output was bridged entirely by donor money.
+
+**Villain Framing:** Inhofe framed climate scientists, the EPA, and environmental groups as threats to Oklahoma jobs — deflecting attention from the extractive industries whose profits left the state while environmental costs remained.
+
+**Both-Sides Illusion:** Inhofe's successor [[_Markwayne Mullin Master Profile|Markwayne Mullin]] continues the same fossil fuel service with the same donors. The seat changed occupants but not function.
+
+---
+
+### Sources
+
+- [OpenSecrets: Jim Inhofe career industry contributions](https://www.opensecrets.org/members-of-congress/james-m-inhofe/industries?cid=N00005582&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Jim Inhofe campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00005582) (Tier 1)
+- [PBS: Oklahoma Sen. Jim Inhofe dies at 89](https://www.pbs.org/newshour/politics/oklahomas-sen-jim-inhofe-republican-known-for-denying-human-caused-climate-change-dies-at-89) (Tier 2)
+- [Military Times: Former Sen. Jim Inhofe, top Republican defense voice, dies at 89](https://www.militarytimes.com/news/pentagon-congress/2024/07/09/former-us-sen-jim-inhofe-top-republican-defense-voice-dies-at-89/) (Tier 2)
+- [DeSmog: James Inhofe profile](https://www.desmog.com/james-inhofe/) (Tier 2)
+- [Grist: Climate-denying senator given money by BP PAC](https://grist.org/climate-energy/climate-denying-senator-james-inhofe-bp-pac/) (Tier 2)
+- [Wikipedia: Jim Inhofe](https://en.wikipedia.org/wiki/Jim_Inhofe) (Tier 3)
+- [Ballotpedia: Jim Inhofe](https://ballotpedia.org/Jim_Inhofe) (Tier 3)
+
+---
+
+content-readiness:: ready

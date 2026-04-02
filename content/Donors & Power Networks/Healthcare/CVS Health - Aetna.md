@@ -1,0 +1,68 @@
+---
+title: "CVS Health - Aetna"
+type: corporation
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+#cvs #aetna #health-insurance #pbm #pharmacy #vertical-integration #lobbying
+
+related: [[UnitedHealth Group - Optum]] [[Cigna Group]] [[Anthem - Elevance Health]] [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] [[PhRMA]]
+
+---
+
+### Who They Are
+
+CVS Health Corporation. A vertically integrated healthcare giant with $357 billion in annual revenue (2024) — the fifth-largest company in America by revenue. CVS operates in three intersecting domains: pharmacy retail (9,000+ stores), pharmacy benefit management (CVS Caremark, one of the three PBMs controlling 80% of the market), and health insurance (Aetna, acquired for $69 billion in 2018). This vertical integration means CVS controls insurance coverage decisions, drug formulary placement, and pharmacy dispensing — extracting profit at every stage of the prescription drug supply chain.
+
+CVS PAC contributes $2-3 million per cycle and the company spends $10-12 million annually on lobbying — making it one of the top healthcare lobbying spenders in America.
+
+- [OpenSecrets: CVS Health organizational profile](https://www.opensecrets.org/orgs/cvs-health/summary?id=D000024650) (Tier 1)
+
+---
+
+### What They Want
+
+CVS's top priorities: prevent PBM transparency legislation (which would expose CVS Caremark's rebate and spread pricing), maintain the vertically integrated model that allows CVS to serve as insurer, PBM, and pharmacy simultaneously, oppose drug pricing reform that reduces the rebate system CVS Caremark profits from, prevent independent pharmacy protections that would constrain Caremark's ability to steer patients to CVS-owned pharmacies, and oppose scope-of-practice expansion that would reduce pharmacy visit requirements.
+
+The vertical integration is the key: CVS uses Aetna's insurance network to steer patients to CVS pharmacies, uses Caremark's PBM to control which drugs are covered and at what price, and uses its pharmacy network to capture dispensing revenue. Legislation that unbundles these relationships threatens the entire model.
+
+---
+
+### Who They Fund
+
+Bipartisan distribution targeting healthcare committee members, with emphasis on Finance Committee (Medicare/Medicaid), HELP Committee, and Energy and Commerce Committee members. State-level contributions target legislators in states considering PBM transparency or pharmacy regulation.
+
+---
+
+### What They've Gotten
+
+**Aetna Merger Approval (2018):** The DOJ approved CVS's $69 billion acquisition of Aetna with minimal conditions, allowing the creation of the most vertically integrated healthcare company in America. The merger was approved despite concerns that combining insurance, PBM, and pharmacy operations would reduce competition and increase costs.
+
+**PBM Regulation Blocked:** Federal PBM transparency legislation has repeatedly stalled, preserving CVS Caremark's ability to negotiate opaque rebates, retain spreads, and steer patients to CVS-owned pharmacies without disclosure.
+
+**Medicare Part D Protections:** CVS Caremark's status as one of three dominant Part D plan sponsors has been preserved, with the company managing drug benefits for millions of Medicare beneficiaries while controlling both formulary decisions and pharmacy access.
+
+> [!money]
+> CVS controls the insurance that determines what drugs you can get, the PBM that determines what those drugs cost, and the pharmacy where you pick them up. At every stage, CVS extracts margin. The vertical integration that the DOJ approved for $69 billion created a closed loop where the patient's money flows through three CVS subsidiaries before a single pill is dispensed.
+
+---
+
+### Class Analysis
+
+CVS Health represents the complete vertical capture of the prescription drug supply chain. The company's business model extracts value from patients at three distinct points — insurance premiums, PBM spreads, and pharmacy margins — while presenting itself as a healthcare provider. The $357 billion in annual revenue flows overwhelmingly from consumers and government health programs (Medicare Part D, Medicaid managed care) to shareholders. CVS's political operation protects this extraction model by preventing the transparency, unbundling, and competition legislation that would expose how much of each healthcare dollar is captured by the intermediary rather than spent on care. The patients standing in CVS pharmacy lines are the raw material; the shareholders are the beneficiaries.
+
+---
+
+### Sources
+
+- [OpenSecrets: CVS Health organizational profile](https://www.opensecrets.org/orgs/cvs-health/summary?id=D000024650) (Tier 1)
+- [OpenSecrets: CVS Health lobbying expenditures](https://www.opensecrets.org/orgs/cvs-health/lobbying?id=D000024650) (Tier 1)
+- [FTC: PBM market concentration study](https://www.ftc.gov/reports/pharmacy-benefit-managers-report) (Tier 1)
+- [DOJ: CVS-Aetna merger review](https://www.justice.gov/opa/pr/justice-department-requires-cvs-and-aetna-divest-aetnas-medicare-individual-part-d) (Tier 1)
+- [STAT News: CVS vertical integration and healthcare pricing](https://www.statnews.com/cvs-vertical-integration/) (Tier 2)
+- [Ballotpedia: CVS Health political spending](https://ballotpedia.org/CVS_Health) (Tier 3)
+
+content-readiness:: ready

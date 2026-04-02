@@ -1,0 +1,142 @@
+---
+title: "Pete Aguilar"
+type: politician
+content-readiness: developed
+last-updated: 2026-03-26
+source-tier: 1
+parent: null
+---
+
+#aguilar #california #caucus-chair #leadership #inland-empire #january-6 #moderate #appropriations #logistics #dccc
+
+related: [[_Hakeem Jeffries Master Profile|Jeffries]] [[_Nancy Pelosi Master Profile|Pelosi]] [[_Suzan DelBene Master Profile|DelBene]]
+
+---
+
+```dataview
+TABLE content-readiness as "Status", source-tier as "Source Tier"
+FROM "topics/Politicians/Democrats/House/Pete Aguilar"
+WHERE file.name != "_Pete Aguilar Master Profile"
+SORT file.name ASC
+```
+
+---
+
+### Who He Is
+
+Pete Aguilar. U.S. Representative for California's 33rd District (San Bernardino, Inland Empire) and Chair of the House Democratic Caucus — the third-ranking Democrat in the House. Aguilar is the highest-ranking Latino member of House Democratic leadership and a key figure in the party's moderate institutional wing. Former mayor of Redlands, California. Serves on the House Appropriations Committee, giving him direct access to federal spending allocation.
+
+Aguilar served on the January 6th Select Committee, where he led the investigation into Trump's efforts to pressure Vice President Pence to overturn the 2020 election results. His Caucus Chair position makes him the party's chief vote-counter and internal messaging coordinator — a role that requires maintaining relationships with both progressive and moderate factions while fundraising aggressively for the DCCC. In the 2024 cycle, Aguilar raised over $30 million for the Democratic Party, paid $3 million in DCCC member dues, and traveled to 19 states for 200+ campaign events.
+
+---
+
+### The Central Thesis
+
+**Pete Aguilar represents the Democratic Party's leadership pipeline: moderate enough for donors, diverse enough for the base, loyal enough for leadership.** His rise from a Southern California inland district to the third-ranking House Democrat illustrates how the party selects leaders — not through ideological conviction but through institutional loyalty, fundraising ability, and the capacity to bridge the party's moderate-progressive divide without threatening either wing's donor relationships. His Appropriations Committee seat is the structural reward: direct control over federal spending allocation, which makes him indispensable to both the caucus and the donor class that funds it.
+
+---
+
+### The Core Contradiction
+
+Aguilar represents one of the most economically distressed metropolitan regions in California. San Bernardino County has a median household income of approximately $65,000 — well below the state average — with some of the highest rates of logistics industry employment, air pollution, and warehouse worker exploitation in the state. The Inland Empire contains over 4,000 warehouses generating 600,000+ daily truck trips. An estimated 86% of logistics workers in Riverside and San Bernardino counties earn below a living wage, and the majority are Black and Latino.
+
+Aguilar's leadership position requires maintaining relationships with the corporate class that profits from that exploitation. His response has been performative solidarity without structural disruption: co-signing letters requesting "additional protections for warehouse workers," co-sponsoring a House Resolution for "Warehouse Worker Recognition Week," working a single day at an Amazon fulfillment center in San Bernardino (2018), and participating in a ride-along with UPS drivers (2022).
+
+> [!contradiction]
+> Aguilar's district is ground zero for the logistics economy's human cost — chronic respiratory illness from diesel pollution, below-living-wage employment, and the conversion of residential communities into industrial sacrifice zones. His leadership position requires fundraising from the industries driving that transformation. The structural function: leadership from a working-class district that advocates for incremental improvement rather than structural change, providing the party with demographic diversity in leadership without ideological disruption.
+
+---
+
+### Donation-to-Policy Timeline
+
+**Career fundraising:** $8.2 million total (2011–2024). #1 career donor: AIPAC at $722,698 ($620,903 in the 2024 cycle alone). Pro-Israel sector totaled $678,468 in the 2024 cycle — his single largest industry category. Also the #1 House recipient of credit union contributions in the 2024 cycle. Aguilar maintains the Aguilar Leadership Fund PAC and is affiliated with BOLD PAC (Congressional Hispanic Caucus).
+
+#### Israel Lobby
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| Apr 2024 | AIPAC | $620,903 (2024 cycle) | 2023–2024 | Voted YES on H.R.8034 — Israel Security Supplemental Appropriations Act, 2024 ($14.3B military aid); 58 House Democrats voted NO; Aguilar as Caucus Chair delivered institutional Democratic support for the package |
+| 2014–2024 | AIPAC | $722,698 (career total) | Career | Zero co-sponsorships of Israel accountability legislation over 6-term career; no vote against any AIPAC-backed measure; consistent pro-Israel floor vote maintained as House leadership |
+| 2024 cycle | JStreetPAC | $39,350 | 2023–2024 | Received pro-ceasefire PAC money alongside AIPAC in the same cycle — simultaneous cultivation of both wings of the Democratic Israel donor divide; **Both-Sides Illusion** in a single donor portfolio |
+| 2024 cycle | Pro-Israel sector (total) | $678,468 | 2023–2024 | #1 industry sector by dollar amount in 2024; no public distance from AIPAC endorsement; no Israel-related floor vote contrary to AIPAC positions across six terms |
+
+#### Defense & Aerospace
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| FY2024 | General Atomics | $44,600 (2024 cycle) | 2023–2024 | Defense Appropriations subcommittee access maintained; General Atomics (manufacturer of MQ-1 Predator and MQ-9 Reaper drone platforms) receives continued appropriations; no drone oversight legislation co-sponsored |
+| 2014–2024 | General Atomics | $81,605 (career) | Career | Defense subcommittee assignments maintained across multiple congresses; no co-sponsorship of bills restricting defense contractor profitability or drone strike authorization |
+| 2024 cycle | Gentex Corp | $25,500 | 2023–2024 | Defense optics and tactical vehicle systems manufacturer benefits from Appropriations relationship; Gentex supplies military vehicle protection and enhanced-vision equipment to U.S. armed forces |
+
+#### Credit Unions / Finance / Real Estate
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| 2014–2024 | America's Credit Unions | $100,850 (career) | Career | Designated #1 House recipient of credit union industry contributions in 2024 cycle; credit union-friendly regulatory posture; no support for CFPB structural reforms restricting credit union fee revenue |
+| 2024 cycle | Wells Fargo | $51,300 | 2023–2024 | No support for legislative breakup of systemically important financial institutions; Appropriations Committee position provides ongoing access for banking sector |
+| 2024 cycle | Real Estate sector | $385,091 | 2023–2024 | Federal housing earmarks ($24M Redlands affordable housing, $17M community projects FY2024) subsidize the Inland Empire market without challenging warehouse-driven land conversion or speculative commercial development |
+
+> [!money]
+> The AIPAC figure is the single most revealing number in Aguilar's donor profile: $722,698 career, $620,903 in the 2024 cycle alone — from a PAC that selects candidates on a single criterion. His YES vote on H.R.8034 in April 2024 is the direct policy return. As Caucus Chair, Aguilar's pro-Israel floor vote was also a party discipline function — his institutional position and his donor base pointed in the same direction. The defense contractor pipeline (General Atomics $81,605 career; Gentex $79,303 career) follows the same structural logic: Appropriations subcommittee membership generates the relationship, and the relationship generates the donations, and the donations confirm the relationship. The Appropriations earmarks for the Inland Empire (housing, community development) are genuine wins. The structural limit: $678K in Pro-Israel money, $443K in securities and investment, $385K in real estate — and zero structural reforms in any area where those donors have a material interest.
+
+---
+
+### The Appropriations Committee Pipeline
+
+Aguilar's seat on House Appropriations is the key to understanding his donor relationships. The committee controls discretionary federal spending — every earmark, every community project, every defense line item. Members are among the most heavily courted by lobbyists because they have direct authority over where federal money goes.
+
+His previous subcommittee assignments — Defense, Transportation/HUD, and Homeland Security — align precisely with the industries that dominate his district's economy: defense contractors, logistics infrastructure, and border security operations. This is not coincidental. Committee assignments in the House are allocated by leadership based on fundraising performance and institutional loyalty — Aguilar's Appropriations seat is both a reward for party service and a platform for continued fundraising.
+
+---
+
+### The January 6th Committee and the Leadership Brand
+
+Aguilar's role on the January 6th Select Committee served a dual function: it established him as a "defender of democracy" brand within the party's national messaging, and it dramatically elevated his fundraising profile. The committee's 800-page report and nationally televised hearings transformed Aguilar from a relatively obscure California moderate into a national Democratic figure.
+
+The January 6th work created no donor conflicts because defending democracy against Trump is the one position that unites every wing of the Democratic donor class — from grassroots progressives to Wall Street moderates. It was the perfect leadership audition: high visibility, zero donor risk, maximum fundraising upside.
+
+---
+
+### Rhetorical Signature Moves
+
+**The Bipartisan Bridge:** Aguilar presents himself as the adult in the room — pragmatic, institutionally loyal, willing to work across the aisle. This framing obscures that "bipartisan" in practice means acceptable to corporate donors on both sides.
+
+**The Diversity Milestone:** As the highest-ranking Latino in Congress, Aguilar's identity provides the party with representation credentials. His moderate politics ensure that representation never threatens the donor class's structural interests.
+
+**The Community Investment Narrative:** Aguilar frames his Appropriations work as "bringing federal dollars home" to the Inland Empire. The real question is whether those dollars address the structural causes of the district's economic distress or merely subsidize its continuation.
+
+---
+
+### Analytical Patterns
+
+**Genuine Win + Structural Limit:** The federal housing and community development funds are real investments in a distressed region. But they operate within a framework that accepts the logistics economy's dominance rather than challenging it. Federal subsidies that make warehouse-dependent communities more livable without addressing the warehouse economy's extractive nature.
+
+**Two-Audience Problem:** Aguilar's messaging to Inland Empire voters emphasizes community investment and worker solidarity. His messaging to the donor class — delivered through $30M in DCCC fundraising and 200+ national campaign events — emphasizes institutional stability and moderate governance. The Caucus Chair position requires both audiences to believe he serves them.
+
+**Donor-Class Override:** No evidence of explicit donor-to-vote corruption. The override is structural: leadership positions in the Democratic caucus are allocated based on fundraising capacity, and fundraising capacity requires maintaining relationships with corporate donors. Aguilar's moderation is not a personal choice — it's a job requirement.
+
+---
+
+### Personal Finances
+
+Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Minimal publicly traded stock holdings, suggesting low direct conflict-of-interest exposure. Modest personal wealth despite decades in office.
+
+---
+
+### Sources
+
+- [OpenSecrets: Pete Aguilar campaign finance summary](https://www.opensecrets.org/members-of-congress/pete-aguilar/summary?cid=N00033997) (Tier 1)
+- [OpenSecrets: Pete Aguilar top contributors — career](https://www.opensecrets.org/members-of-congress/pete-aguilar/contributors?cid=N00033997&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Pete Aguilar top contributors — 2024 cycle](https://www.opensecrets.org/members-of-congress/pete-aguilar/contributors?cid=N00033997&cycle=2024) (Tier 1)
+- [OpenSecrets: Pete Aguilar industries breakdown — 2024 cycle](https://www.opensecrets.org/members-of-congress/pete-aguilar/industries?cid=N00033997&cycle=2024&type=C) (Tier 1)
+- [FEC: Aguilar campaign finance filings](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
+- [Congress.gov: H.R.8034 — Israel Security Supplemental Appropriations Act, 2024](https://www.congress.gov/bill/118th-congress/house-bill/8034) (Tier 1)
+- [Congress.gov: Pete Aguilar](https://www.congress.gov/member/pete-aguilar/A000371) (Tier 1)
+- [Quiver Quantitative: Aguilar net worth](https://www.quiverquant.com/congresstrading/politician/Pete%20Aguilar-A000371/net-worth) (Tier 3)
+- [Ballotpedia: Pete Aguilar](https://ballotpedia.org/Pete_Aguilar) (Tier 3)
+- [CalMatters: Inland Empire warehouse environmental impact](https://calmatters.org/commentary/2023/01/inland-empire-california-warehouse-development/) (Tier 2)
+- [CalMatters: Class divide in warehouse boom](https://calmatters.org/commentary/2023/02/inland-empire-warehouse-class-divide/) (Tier 2)
+- [Rep. Torres: Warehouse Worker Protection Letter](https://torres.house.gov/media-center/press-releases/reps-torres-delauro-price-aguilar-sherrill-ask-administration-additional) (Tier 1)
+
+profile-status:: developed
+content-readiness:: developed

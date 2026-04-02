@@ -1,0 +1,152 @@
+---
+title: "Jack Reed"
+type: politician
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+
+#jack-reed #democrat #rhode-island #senate #ranking-member #armed-services #defense #military #west-point #phase-6-gavel-power
+
+related: [[_Roger Wicker Master Profile|Wicker]] [[Lockheed Martin]] [[Boeing]]
+
+donors: [[Lockheed Martin]] [[Boeing]]
+
+profile-status:: ready
+
+---
+---
+
+### Who They Are
+
+Jack Reed is the senior senator from Rhode Island and the Ranking Member (formerly Chair) of the Senate Armed Services Committee — the body that authorizes every dollar the Pentagon spends and confirms every senior military appointment. He has held his Senate seat since 1997 and served in the House from 1991 to 1997.
+
+Before Congress, Reed was career military: West Point graduate (class of 1971), Army Ranger, 82nd Airborne Division, served as an infantry company commander and taught at West Point. He holds a master's degree from the Kennedy School of Government at Harvard and a law degree from Harvard Law School.
+
+Reed's net worth is among the lowest in the Senate — reported between negative $506,000 and $235,000, depending on the reporting period. He is one of the few senators who is genuinely not wealthy. His state, Rhode Island, is home to General Dynamics Electric Boat (submarine manufacturer), Naval Station Newport, and a defense economy worth $7.6 billion supporting approximately 34,000 jobs.
+
+---
+
+### The Central Thesis
+
+Jack Reed is the military-industrial complex's most credentialed Democrat. West Point, Army Ranger, 82nd Airborne, Harvard Kennedy School, Harvard Law — the CV is impeccable. He parlayed it into the Senate's most important defense position, where he oversees the authorization of $800+ billion in annual Pentagon spending. His top career donor is General Dynamics Electric Boat — the submarine manufacturer headquartered in his state that builds the most expensive weapons systems in the Navy's fleet.
+
+Reed is not corrupt in the transactional sense. He doesn't take money and deliver specific policy favors on a timeline. He is something more structural: the Democrat who ensures the defense budget never faces serious challenge from the left. His military credentials make him unimpeachable on defense. His party affiliation makes Pentagon spending bipartisan. His state's defense economy makes cutting the budget an economic threat to his own constituents. The alignment is total — personal biography, state economy, committee jurisdiction, and donor base all point the same direction. Reed doesn't need to be bought. He was built for this.
+
+---
+
+### The Core Contradiction
+
+> [!contradiction]
+> Reed has never voted to cut the defense budget. Not once in 29 years in the Senate. He represents a state where defense spending is 8% of GDP and 34,000 jobs depend on military contracts. His top donor is the submarine manufacturer in his state. He sits on the committee that authorizes the money that flows to that manufacturer. He votes for every defense authorization. He is the Democrat the Pentagon points to when accused of partisanship. The contradiction isn't between his words and his votes — those are perfectly aligned. The contradiction is between the Democratic Party's rhetorical commitment to rebalancing military and domestic spending and its most senior defense voice, who has never supported rebalancing in any concrete vote.
+
+---
+
+### Donor Class Map
+
+### Campaign Fundraising (career):
+- Defense sector: ~$1 million+ career total
+- General Dynamics Electric Boat: $154,000+ (top organizational donor)
+- Top 4 defense contractors (GD, Raytheon, Lockheed, BAE): $362,000+ combined
+- These 4 contractors supply 90%+ of Saudi arms sales
+
+### Top Industry Donors (career):
+1. Defense aerospace ($1M+ career)
+2. Lawyers & law firms
+3. Securities & investment
+4. Real estate
+5. Insurance
+
+### Key Organizational Contributors:
+1. General Dynamics / Electric Boat ($154K+ — #1 career donor)
+2. Raytheon Technologies
+3. Lockheed Martin
+4. BAE Systems
+5. Textron (Rhode Island-based defense/industrial)
+
+> [!money]
+> The numbers are modest by Senate standards — ~$1 million in career defense donations is not mega-donor territory. But the structural alignment doesn't require large checks. General Dynamics Electric Boat employs thousands of Rhode Islanders building Columbia-class nuclear submarines at $9.4 billion per boat. Reed doesn't need a bribe to support the submarine program. He needs to keep his state employed. The defense economy IS the constituency interest. This is what structural capture looks like when it doesn't require corruption — the interests are pre-aligned before a single dollar changes hands.
+
+### State Defense Economy:
+- Total Rhode Island defense economy: $7.6 billion
+- Defense-dependent jobs: ~34,000
+- Major installations: Naval Station Newport, Naval Undersea Warfare Center, General Dynamics Electric Boat (Quonset Point facility)
+- Rhode Island defense spending as share of state GDP: ~8%
+
+---
+
+### Donation-to-Policy Timeline
+
+### Pipeline: Defense Industry → Armed Services Authorization
+| Date | Type | Event | Donor | Amount | Gap |
+|------|------|-------|-------|--------|-----|
+| 1997-2024 | DONATION | Career defense sector contributions | Defense industry | $1M+ | — |
+| 1997-2024 | ← POLICY | Votes for every NDAA (National Defense Authorization Act) | — | $800B+/yr | Ongoing |
+| 1997-2024 | ← NOTE | Has never voted to cut the defense budget in 29 years | — | — | — |
+
+### Pipeline: General Dynamics → Submarine Program
+| Date | Type | Event | Donor | Amount | Gap |
+|------|------|-------|-------|--------|-----|
+| 1997-2024 | DONATION | Career General Dynamics/Electric Boat contributions | GD/EB | $154K+ | — |
+| Various | ← POLICY | Supports Virginia-class submarine procurement (currently 2/year) | — | $4.3B/yr | Ongoing |
+| Various | ← POLICY | Champions Columbia-class SSBN program | — | $9.4B/boat | Ongoing |
+| Various | ← POLICY | Advocates for submarine industrial base funding | — | — | Ongoing |
+| Various | ← NOTE | Electric Boat is largest private employer in region; submarine spending = direct RI job creation | — | — | — |
+
+### Pipeline: Saudi Arms Suppliers → Foreign Military Sales
+| Date | Type | Event | Donor | Amount | Gap |
+|------|------|-------|-------|--------|-----|
+| 1997-2024 | DONATION | Career contributions from top 4 Saudi arms suppliers | GD, Raytheon, LMT, BAE | $362K+ | — |
+| Various | ← POLICY | Does not oppose Saudi arms sales despite humanitarian concerns | — | — | Ongoing |
+| Various | ← NOTE | The 4 contractors supplying 90%+ of Saudi arms account for significant share of Reed's defense donations | — | — | — |
+
+---
+
+### Analytical Patterns
+
+**Genuine Win + Structural Limit:** Reed has pushed for genuine military reforms — better oversight of contractor fraud, improved veteran healthcare, accountability for Pentagon procurement failures. These wins are real but bounded. They improve how the money is spent without ever questioning how much money is spent. The structural limit: the defense budget itself is never on the table.
+
+**Both-Sides Illusion:** Reed (Democrat) and Wicker (Republican, Armed Services Chair) publicly disagree on social policy, foreign policy nuance, and partisan issues. They agree on the defense budget. Every year. The Armed Services Committee is the most bipartisan committee in the Senate because both parties' members are funded by the same defense contractors. The partisan fight stops at the Pentagon's door.
+
+**Self-Funding as Independence (inverted):** Reed's low net worth (-$506K to $235K) is unusual in the Senate. He is genuinely not wealthy. This is sometimes framed as independence from money interests. But Reed doesn't need personal wealth when his state's economy IS the defense industry. The independence framing obscures the structural alignment: Reed votes for defense spending because Rhode Island needs defense spending, because General Dynamics employs his constituents, because the submarine program IS his state's economic policy.
+
+**Donor-Class Override:** Reed's constituents would benefit from domestic spending on healthcare, education, and infrastructure. Rhode Island has real poverty outside the defense sector. But the Armed Services Committee's jurisdiction is military spending, and Reed's structural position ensures that Rhode Island's federal funding flows primarily through the Pentagon, not through domestic programs. The defense economy crowds out the alternative.
+
+---
+
+### Rhetorical Signature Moves
+
+**Military credentials as authority** — West Point, Ranger, 82nd Airborne. The biography is invoked whenever defense spending is questioned. The function: make it impossible to challenge the defense budget from the left without appearing to challenge a combat veteran's judgment. Reed's credentials are the Democratic Party's shield against defense cuts.
+
+**"Bipartisan national security"** — The framing that defense spending is above partisanship. Reed and Wicker's cooperative relationship on Armed Services is presented as statesmanship. The function: ensure the defense budget passes with overwhelming bipartisan majorities every year, insulating it from the budget fights that affect every other federal program.
+
+**"Our men and women in uniform"** — The troops framing that conflates supporting service members with supporting defense contractor profits. Opposing a $9.4 billion submarine is reframed as opposing the troops. Reed deploys this instinctively because his biography makes it authentic.
+
+---
+
+### Connected Profiles
+
+- [[_Roger Wicker Master Profile|Wicker]] — Armed Services Chair (Republican counterpart)
+- [[Lockheed Martin]] — Top defense donor
+- [[Boeing]] — Defense contractor donor
+
+---
+
+### Sources
+
+- [OpenSecrets: Jack Reed donor profile](https://www.opensecrets.org/members-of-congress/jack-reed/summary?cid=N00000362) (Tier 1)
+- [OpenSecrets: Jack Reed industry donors](https://www.opensecrets.org/members-of-congress/jack-reed/industries?cid=N00000362) (Tier 1)
+- [OpenSecrets: Jack Reed contributors](https://www.opensecrets.org/members-of-congress/jack-reed/contributors?cid=N00000362) (Tier 1)
+- [Senate.gov: Jack Reed official biography](https://www.reed.senate.gov/about) (Tier 1)
+- [Congress.gov: National Defense Authorization Act](https://www.congress.gov/bill/118th-congress/house-bill/2670) (Tier 1)
+- [DOD: Rhode Island Defense Spending Report](https://oldcc.gov/state/rhode-island) (Tier 1)
+- [CBO: Columbia-Class Submarine Cost Estimates](https://www.cbo.gov/publication/57370) (Tier 1)
+- [OpenSecrets: Armed Services Committee members received $5.8M from defense sector during 2022 cycle](https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle/) (Tier 1)
+- [Washington Post: What's in and out of the $1.7 trillion omnibus spending bill — defense provisions](https://www.washingtonpost.com/us-policy/2022/12/22/spending-bill-omnibus-congress/) (Tier 2)
+- [NPR: Rhode Island's Defense Economy](NOTFOUND_NPR) (Tier 2)
+- [Ballotpedia: Jack Reed](https://ballotpedia.org/Jack_Reed_%28Rhode_Island%29) (Tier 3)
+- [Wikipedia: Jack Reed (politician)](https://en.wikipedia.org/wiki/Jack_Reed_%28politician%29) (Tier 3)
+
+content-readiness:: ready

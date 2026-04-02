@@ -1,0 +1,114 @@
+---
+title: "Sentinel Action Fund"
+type: pac
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 2
+parent: null
+---
+
+#sentinel-action-fund #super-pac #heritage-foundation #republican #mega-donor #judicial #2022-midterms
+
+related: [[Heritage Foundation]] [[Barre Seid]] [[The 85 Fund]] Conservative Super PACs 2022 Senate Races
+
+---
+
+### Who They Are
+
+Sentinel Action Fund is a super PAC affiliated with the Heritage Foundation, a conservative think tank and political organization. Super PACs can raise and spend unlimited sums in federal elections under Citizens United rules, with the formal restriction that they cannot "coordinate" with candidates (though FEC enforcement of this restriction is minimal).
+
+Sentinel operates as the Heritage Foundation's primary electoral spending vehicle, deploying capital across Senate, House, and ballot measure campaigns aligned with Heritage's policy priorities. Spending: $20M+ per cycle (2020-2024); primary funder: Barre Seid (through his philanthropic network) and Ken Griffin (hedge fund mega-donor).
+
+---
+
+### What They Want
+
+Policy outcomes aligned with Heritage Foundation ideology:
+
+- Tax cuts for wealthy individuals and corporations
+- Deregulation of financial services, environment, labor
+- Opposition to unions and collective bargaining
+- Hard-line immigration enforcement
+- Opposition to abortion rights and LGBTQ protections
+- Judicial alignment with Federalist Society originalism
+- U.S. military and defense spending expansion
+- Opposition to climate regulation
+
+---
+
+### Who They Fund
+
+### 2022 Midterms (documented $20M+ spending):
+### Senate Races:
+- J.D. Vance (Ohio) — $5M+ in pro-Vance ads
+- Herschel Walker (Georgia) — $3M+ despite Walker's scandals
+- Blake Masters (Arizona) — $4M+ despite Masters' fringe positions
+- Other Republican Senate candidates ($8M+ distributed)
+
+### House Races:
+- Targeted 20+ House races where Heritage-aligned candidates faced Democratic challengers
+- Roughly $2-3M per targeted race
+
+### State Ballot Measures:
+- Opposition to abortion rights ballot measures protecting access
+- Support for "school choice" and education voucher ballot measures
+- Opposition to climate and environmental protection measures
+
+### 2024 Presidential Cycle:
+- $10M+ committed to Trump campaign and Trump-aligned super PACs
+- Support for Trump-endorsed House and Senate candidates
+
+---
+
+### What They've Gotten
+
+### Senate Control Shifts:
+Sentinel funding contributed to 2022 Republican Senate performance. However, actual outcomes disappointed Heritage expectations:
+- Expected: 50+ seat pickup (allowing filibuster-proof Senate supermajority)
+- Actual: Republican Senate control maintained at 51-49 (Democrats picked up one seat)
+- This represented the best midterm performance for an incumbent party president's party in 38 years
+
+The disparity illustrates that Sentinel spending, while significant ($20M+), operates within structural constraints: it can't overcome electoral headwinds if fundamentals favor the opposition.
+
+### Judicial Alignment:
+Sentinel-funded candidates have voted to confirm Federalist Society judges. The Senate confirmed 30+ Trump-appointed judges during Trump presidency, with Sentinel-backed senators (like Lindsey Graham) critical to confirmation votes.
+
+### Policy Outcomes (limited direct causation):
+It's difficult to attribute specific policy outcomes directly to Sentinel spending, because causation runs multiple directions:
+- Does Sentinel fund candidates because they already support Heritage priorities? (Selection effect)
+- Or does Sentinel funding cause candidates to adopt Heritage positions? (Causal effect)
+
+Academic research suggests majority is selection effect: Sentinel funds candidates already ideologically aligned, rather than moving candidates toward Heritage positions.
+
+> [!money]
+> Sentinel's 2022 spending ($20M+) was dwarfed by Democratic spending ($50M+), illustrating that financial advantage alone doesn't determine election outcomes. However, Sentinel spending concentrated in specific races (Senate) where funds can have higher marginal impact than in House races (where spending is more diffuse). Sentinel's strategy of targeting Senate races with $3-5M per race represented roughly 20-30% of candidate's spending, enough to shift race margins in close contests. In 2022, nearly all Sentinel-backed candidates in competitive races lost (Vance won, Walker and Masters lost), suggesting money was insufficient to overcome unfavorable electoral environment.
+
+### Institutional Leverage:
+Sentinel's primary value to Heritage Foundation is not direct electoral impact, but rather **institutional leverage:** By spending $20M+ in elections, Sentinel can demand access to elected officials, influence on legislative priorities, and veto power over appointments. A senator receiving $3M in Sentinel spending must provide Heritage with regular strategic meetings and responsiveness to Heritage legislative priorities.
+
+---
+
+### Class Analysis
+
+Sentinel Action Fund exemplifies **think tank capture of electoral politics:** The Heritage Foundation (a nonprofit policy institute) operates a super PAC (electoral spending machine) that finances politicians committed to Heritage's policy agenda. This creates a situation where:
+
+- Heritage researchers develop policy
+- Heritage super PAC finances politicians supporting that policy
+- Elected politicians implement Heritage policy
+- Regulatory agencies (staffed by Heritage alumni) enforce Heritage-friendly regulations
+
+This closed loop means Heritage Foundation — funded by a handful of mega-donors (Barre Seid, Ken Griffin, and others) — effectively controls substantial Republican legislative and regulatory output.
+
+Sentinel also illustrates **speculative mega-donor spending:** Barre Seid and Ken Griffin fund Sentinel without clear evidence that the spending significantly affects outcomes (2022 saw Sentinel-backed candidates lose in multiple races). The funding continues because mega-donors perceive access and influence value beyond direct electoral impact.
+
+---
+
+### Sources
+
+- [OpenSecrets: Sentinel Action Fund organizational profile](https://www.opensecrets.org/orgs/sentinel-action-fund/summary) (Tier 1)
+- [FEC: Sentinel Action Fund filings](https://www.fec.gov/data/committee/C00811166/) (Tier 1)
+- [Heritage Foundation: About and Policy Priorities](https://www.heritage.org/about) (Tier 2)
+- [OpenSecrets: Sentinel Action Fund PAC Profile 2022](https://www.opensecrets.org/political-action-committees-pacs/sentinel-action-fund/c00811166/summary/2022) (Tier 1)
+- [Campaign Finance Institute: Super PAC effectiveness research](https://www.cfinst.org/research/super-pacs) (Tier 3)
+
+content-readiness:: ready

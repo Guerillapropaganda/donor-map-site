@@ -1,0 +1,217 @@
+---
+title: "Think Big AI"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 2
+parent: null
+---
+
+
+#donor #think-big #ai #artificial-intelligence #super-pac #class-analysis #follow-the-money #deregulation #2026-elections #openai #andreessen-horowitz
+
+related: [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile]]
+
+---
+
+### Who They Are
+
+Think Big (officially part of the broader "Leading the Future" super PAC structure) is the artificial intelligence industry's electoral spending vehicle. A Democratic-facing affiliate of the broader Leading the Future super PAC, which has raised $125+ million in commitments and holds $70+ million in cash on hand as of early 2026.
+
+Leading the Future operates through two party-facing vehicles: Think Big (Democratic affiliate) and American Mission (Republican affiliate). This structure permits the AI industry to fund candidates across the party spectrum while maintaining unified political objectives. The stated goal is to elect legislators sympathetic to AI industry regulatory preferences: a federal AI framework that defers to industry self-regulation, expansion of data center construction, and elimination of labor protections in AI model training.
+
+---
+
+### The Class Analysis
+
+Think Big is the newest major industry super PAC, launching in 2024 with less operational history than Fairshake but nearly identical structural purpose. Like crypto, the AI industry does not seek to reshape existing regulation — it seeks to prevent regulation from being created. The industry frames its political spending as necessary to preserve "innovation," but the actual agenda is regulatory capture: writing the industry's own rules through government structures populated by industry-selected officials.
+
+> [!money]
+> Leading the Future raised $125+ million in commitments, with $70+ million cash on hand entering 2026. The major funders include Marc Andreessen and Ben Horowitz (Andreessen Horowitz, $25M+ committed), Greg Brockman (OpenAI co-founder and president, $25M+ committed), and other venture capital firms with major AI investments. The spending is strategic and early — aimed at shaping the 2026 midterm field by supporting pro-AI candidates and defeating progressive incumbents who have called for AI regulation or labor protections in AI model training.
+
+The AI industry's political strategy mirrors crypto's 2024 playbook: bipartisan funding, focus on primary races to shape the general election field, disciplinary spending against candidates who support regulation, and coordinated messaging that avoids actually discussing AI policy in campaign advertising.
+
+---
+
+### What They Want
+
+— Federal AI regulatory framework that defers to industry self-regulation ("safe harbor" provisions)
+— No mandatory labor protections for AI model training or data annotation work (preserves low-wage contractor model)
+— Expansion of data center construction permits and electricity access (critical for large language model training)
+— No legal liability for AI companies for harms caused by their systems
+— Copyright protections that permit unlimited "fair use" training of models on copyrighted material
+— H1-B visa expansion for AI engineering talent recruitment
+— No restrictions on AI model export or sale
+— Federal preemption of state AI regulation (blocks California, New York, other states from setting higher standards)
+
+---
+
+### Major Donors — The AI Mega-Investors
+
+### Leading the Future Funding 2024-2026:
+| Date | Event | Amount | Source |
+|------|-------|--------|--------|
+| 2024-01-01 | Greg Brockman (OpenAI co-founder & president) commitment to Leading the Future | $25+ million | CNBC |
+| 2024-01-01 | Andreessen Horowitz (a16z, $46B AUM) commitment to Leading the Future | $25+ million | CNBC |
+| 2024-01-01 | Additional venture capital (Sequoia, Greylock, Khosla Ventures) commitment to Leading the Future | $25+ million | CNBC |
+| 2024-01-01 | Tech entrepreneurs (Various Silicon Valley founders) commitment to Leading the Future | $25+ million | CNBC |
+| 2026-01-01 | Total funds committed to Leading the Future (2024-2026) | $125+ million | CNBC |
+| 2026-01-01 | Cash on hand (Leading the Future, as of January 2026) | $70+ million | CNBC |
+
+### 2024-2025 Deployment Activity:
+Think Big and American Mission combined spent approximately $2.5–3 million in the Illinois congressional primaries (March 2026), deployed alongside Fairshake crypto spending ($8.6M) and [[AIPAC - American Israel Public Affairs Committee|AIPAC]] pro-Israel spending ($21M+), with total outside spending exceeding $34 million across four open House seats.
+
+**Illinois Results (March 18, 2026):** Think Big spent $1M+ to boost Jesse Jackson Jr. in 7th CD — Jackson lost. AI-backed Jobs and Democracy PAC spent $1M against Jackson in the same race. Combined AI/crypto spending of nearly $20M across Illinois primaries produced minimal returns — a significant early test failure for the AI industry's electoral strategy.
+
+> [!contradiction]
+> The AI industry's first major electoral test in Illinois was a near-total failure. Despite $2.5M+ in spending, AI-backed candidates largely lost. The industry's "bipartisan" approach — funding both pro-AI candidates AND opposition to anti-AI candidates simultaneously through different PACs — created a confusing spending environment that may have blunted effectiveness. The question for 2026: will the AI industry learn from Fairshake's disciplinary model, or will it continue scattershot spending?
+
+- [Fortune: AI and Crypto spent nearly $20 million to reshape Illinois — they mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2)
+- [NOTUS: The AI Super PAC Fight That Might Shape the Midterms](https://www.notus.org/2026-election/ai-super-pacs-leading-the-future-public-first-alex-bores) (Tier 2)
+
+[Source: Fortune — Tier 2; CNBC — Tier 2; NBC News — Tier 2]
+
+---
+
+### Leadership — Individual Major Donors
+
+### Greg Brockman (OpenAI co-founder and president):
+— Think Big/Leading the Future commitment: $25+ million
+— Role: Co-founder of OpenAI (alongside Sam Altman)
+— OpenAI structure: For-profit subsidiary with board oversight by non-profit foundation
+— OpenAI business: GPT-4 language model, DALL-E image generation, ChatGPT consumer product (100M+ users)
+— Political strategy: Explicit framing of AI regulation as existential threat to "innovation"
+— Rhetoric: "AI will solve climate change, disease, poverty" — justification for deregulation
+
+[Source: OpenAI official statements; CNBC — Tier 2]
+
+### Marc Andreessen & Ben Horowitz (a16z):
+— a16z commitment to Think Big/Leading the Future: $25+ million
+— a16z total AUM: $46 billion
+— a16z AI-specific investments: $3.1 billion AUM, $3.4 billion additional planned
+— Personal involvement: Marc Andreessen board seat at OpenAI (removed 2024 after antitrust concerns), Ben Horowitz on OpenAI advisory board
+— Major holdings: Anthropic (Claude AI company), Databricks (data/ML platform), other AI infrastructure
+— Political philosophy: "AI is too important to be regulated by government" — justifies industry self-regulation model
+
+[Source: a16z official filings; CNBC — Tier 2; NBC News — Tier 2]
+
+---
+
+### 2026 Midterm Deployment
+
+### Illinois Congressional Primaries (March 2026):
+Think Big and American Mission deployed $2.5–3 million combined across four Chicago-area open House seats in March 2026. This represented the first major test of the AI industry's electoral strategy in a major midterm race.
+
+**Results:** AI industry candidates largely lost in Illinois. The combined $20+ million from crypto (Fairshake $8.6M), AI (Think Big/American Mission $2.5M), and pro-Israel ([[AIPAC - American Israel Public Affairs Committee|AIPAC]]/UDP $21M+) money failed to deliver preferred candidates in most races. Illinois' dense Democratic district structure and strong progressive primary voting patterns resisted outside spending saturation.
+
+**Lessons learned:** AI industry's political operation less developed than crypto's 2024 juggernaut. Crypto had 8+ months of primary season (January–August 2024) to saturate markets. AI industry's Illinois deployment came compressed into final weeks before primary. The spending volume was insufficient to overcome organizational disadvantage.
+
+[Source: Fortune — Tier 2; CNBC — Tier 2; NBC News — Tier 2]
+
+---
+
+### Strategic Alliance — Crypto, AI, and Pro-Israel Money
+
+### The 2026 Pattern:
+In Illinois primaries, three distinct outside spending blocs operated simultaneously with no formal coordination but aligned targeting:
+
+— **Fairshake (crypto):** $8.6M, focused on candidates favorable to crypto deregulation
+— **Think Big/American Mission (AI):** $2.5M+, focused on candidates favorable to AI self-regulation
+— **AIPAC/[[United Democracy Project - UDP|United Democracy Project]] (Israel):** $21M+, focused on pro-Israel positioning and progressive incumbent removal
+
+**Total combined:** $34M+ in a single state primary cycle
+
+**Shared targets:** Progressive Democratic candidates (particularly those critical of Israel or favorable to labor unions) and candidates unwilling to commit to industry-friendly regulatory frameworks.
+
+**Unified message:** No unified candidate, but unified opposition — remove progressives, replace with candidates acceptable to tech and finance donor class.
+
+**Practical result:** Money abundance did not translate to electoral outcomes in Illinois, but the three-industry alliance demonstrates the emerging oligarchic pattern: wealthy industries conducting coordinated electoral intervention without formal legal coordination (which would require joint fundraising agreements).
+
+[Source: Chicago Sun-Times — Tier 2; Axios Chicago — Tier 2; Fortune — Tier 2]
+
+---
+
+### Regulatory Capture Strategy
+
+### The Federal AI Framework Strategy:
+Leading the Future and its affiliate PACs are not focused primarily on individual congressional races. The long-term political objective is federal AI legislation that establishes:
+
+— Industry-written standards for "safe" AI deployment
+— "Safe harbor" liability protections for companies following those standards
+— Federal preemption of state AI regulation (California and New York are moving toward stronger standards)
+— H1-B visa expansion for model training and engineering talent
+— Copyright law modifications to permit unlimited training data use
+
+### Key legislative targets (2025–2026):
+— **AI Leadership in the 21st Century Act** — federal framework proposal backed by AI industry
+— **H1-B visa expansion** — tech industry standard legislative priority
+— **Platform Transparency and Accountability Act** — being rewritten to exempt AI companies from real oversight
+
+Unlike crypto's GENIUS Act (which passed into law in July 2025), AI regulatory legislation remains in proposal stage. The industry is using 2026 midterms to shape the Congress that will write and pass AI legislation in 2027–2028.
+
+[Source: House Judiciary Committee — Tier 1; Congressional bills database — Tier 1]
+
+---
+
+### The Copyright Conflict
+
+> [!contradiction]
+> The AI industry trained large language models (including ChatGPT, Claude, Llama) on copyrighted material — books, news articles, academic papers, image datasets — without permission or compensation to authors. AI companies claim this is "fair use." Authors, publishers, and artists disagree and have filed lawsuits. The industry's political strategy is to prevent copyright law reform and legislative action against their training practices by:
+>
+> 1. Funding candidates who oppose "overregulation"
+> 2. Lobbying Congress against copyright protections for AI-generated works
+> 3. Framing copyright enforcement as "restricting innovation"
+>
+> The money is literal: prevent regulation of the industry by purchasing the legislators who would otherwise write that regulation.
+
+[Source: New York Times — Tier 2; Reuters — Tier 2]
+
+---
+
+### Enemies / Opposition
+
+— Labor unions (AI threatens job automation, model training uses gig contractors)
+— Writers' and artists' organizations (copyright infringement via training data)
+— Consumer advocacy organizations (AI bias, algorithmic discrimination)
+— Reproductive rights organizations (AI used in abortion tracking apps)
+— Immigration advocates (H1-B visa expansion opposed as labor market suppression)
+— State regulators (California AI safety bills, New York algorithmic accountability)
+— Public health advocates (AI harms in mental health, misinformation amplification)
+
+---
+
+### Sources
+
+- [CNBC: AI industry looks to repeat crypto lobbying success with 2026 war chest](https://www.cnbc.com/2026/01/28/ai-laws-tech-lobyying-super-pac-midterm-elections.html) (Tier 2)
+- [NBC News: Ads funded by AI industry flooding 2026 elections, avoiding mention of AI](https://www.nbcnews.com/politics/2026-election/ads-ai-industry-are-flooding-2026-election-artificial-intelligence-rcna260782) (Tier 2)
+- [Fortune: AI and Crypto spent $20M in Illinois primaries, mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2)
+- [American Prospect: First AIPAC, now AI PACs — super PACs and the 2026 primaries](https://prospect.org/2026/02/20/aipac-ai-pacs-crypto-midterms-congress-chicago/) (Tier 2)
+- [Chicago Sun-Times: $31M super PAC blitz in four congressional primaries](https://chicago.suntimes.com/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries) (Tier 2)
+- [Axios Chicago: Super PACs flood Illinois congressional races](https://www.axios.com/local/chicago/2026/03/04/super-pacs-for-ai-crypto-and-israel-flood-illinois-congressional-races) (Tier 2)
+- [Read Sludge: Crypto, AI, AIPAC set to smash super PAC records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2)
+
+---
+
+### March 24, 2026 Update — Meta State-Level PACs and Anthropic's Public First
+
+**Meta's $65M state-level operation:** Meta is launching two new super PACs for state legislative races — **Forge the Future Project** (backing Republicans) and **Making Our Tomorrow** (backing Democrats). Total commitment: **$65 million**, beginning with Texas and Illinois. The goal is to boost state legislators who are friendly to the AI industry, particularly blocking state-level AI regulation before it can establish precedent. This represents a new front: AI industry spending has been federal until now. Meta's state-level operation aims to preempt regulation from below while federal preemption bills are pending.
+
+- [The Decoder: Meta pours $65 million into state elections to back AI-friendly politicians](https://the-decoder.com/meta-pours-65-million-into-state-elections-to-back-ai-friendly-politicians/) (Tier 2)
+- [Common Dreams: Meta drops $65M on super PACs to back pro-AI candidates](https://www.commondreams.org/news/meta-super-pacs-ai) (Tier 2)
+
+**Anthropic's Jobs and Democracy PAC / Public First:** Anthropic has staked **$20 million** in Public First, an umbrella organization that includes the Jobs and Democracy PAC. Public First frames itself as a "kinder, gentler AI super PAC" focused on prudent regulation rather than accelerationism. Total raised: **$50 million**; planning to raise $25 million more. Already spent in Illinois — $1M against Jesse Jackson Jr. in IL-7 (Jackson lost, but so did the Anthropic-opposed candidate).
+
+> [!money]
+> The AI industry's 2026 spending ecosystem now includes at least four major PAC operations: Leading the Future/Think Big (OpenAI-backed, $125M committed), Public First/Jobs and Democracy (Anthropic-backed, $50M), Meta's state-level PACs ($65M), and various smaller AI-adjacent super PACs. Combined total: **$240M+ committed** to AI-industry electoral intervention in a single cycle. This rivals Fairshake's crypto operation and dwarfs traditional industry lobbying.
+
+- [American Prospect: AI goes to bat for Valerie Foushee](https://prospect.org/2026/02/25/ai-anthropic-claude-super-pac-valerie-foushee-congress-north-carolina/) (Tier 2)
+- [Prism News: Tech billionaires bankroll AI-aligned super PACs as $125M floods midterms](https://www.prismnews.com/news/tech-billionaires-bankroll-ai-aligned-super-pacs-as-125-million-floods-2026-midterms) (Tier 2)
+
+**CLARITY Act crypto-AIPAC-AI convergence:** A FinTech Weekly analysis of FEC Schedule A filings found that 7 of 46 senators sitting on the two Senate committees controlling the CLARITY Act received a combined **$265,500** in direct contributions from crypto-affiliated individuals during the 2025-2026 cycle. This granular data confirms the donation-to-legislation pipeline is active at the committee level.
+
+- [FinTech Weekly: CLARITY Act campaign finance analysis](https://www.fintechweekly.com/news/clarity-act-senate-campaign-finance-fairshake-crypto-pac-fec-data-2026) (Tier 2)
+
+---
+
+research-status:: ready — $125M raised, $70M cash on hand, Illinois deployment $2.5M+, major donors (Brockman $25M, a16z $25M), three-industry alliance pattern, regulatory capture strategy, copyright conflict, Meta $65M state PACs, Anthropic $50M Public First, CLARITY Act committee-level donations. 10+ sources, Tier 1-2. All ### headers. Updated Session auto-finance (March 24, 2026).
+content-readiness:: ready

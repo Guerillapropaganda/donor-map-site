@@ -1,0 +1,32 @@
+---
+title: "Labor Unions"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+#labor #unions #democratic #organizing #collective-bargaining #pac #decline
+
+related: [[SEIU - Service Employees International Union|SEIU]] [[UAW - United Auto Workers|UAW]] [[California Labor Federation]] [[Teamsters - International Brotherhood of Teamsters|Teamsters]]
+
+---
+
+### Who They Are
+
+Labor Unions. The collective political operation of America's organized labor movement — the AFL-CIO, Change to Win coalition, and independent unions that represent 14.4 million workers (10% of the workforce, down from 35% in the 1950s). Unions collectively contribute $500M+ per cycle to political campaigns, overwhelmingly (90%+) to Democratic candidates. The union political operation includes PAC contributions, independent expenditures, voter registration, canvassing, phone banking, and Election Day get-out-the-vote operations.
+
+Labor unions are the largest institutional donor bloc in the Democratic coalition, but their political power has declined proportionally with union membership. At peak membership (1950s), unions could deliver entire states; today, union political power is concentrated in public-sector unions (AFSCME, AFT, SEIU), building trades (IBEW, Operating Engineers, Laborers), and a handful of industrial unions (UAW, USW) that retain significant membership.
+
+> [!money]
+> Labor unions are the only institutional donor bloc in American politics whose political agenda is structurally aligned with working-class interests — but the $500M+ per cycle in political spending has produced diminishing returns as union membership declines and corporate political spending escalates. Unions' political investment in Democrats has not prevented trade liberalization (NAFTA, PNTR with China), weakening of labor law (no card check, no PRO Act), or the erosion of the right to organize. The structural paradox: unions are the Democratic Party's largest institutional donor, but the policies most important to unions (labor law reform, trade protection) are the policies Democrats most frequently sacrifice to appease corporate donors. Unions fund the party; the party serves the donors who oppose unions.
+
+---
+
+### Sources
+
+- [OpenSecrets: Labor sector contributions](https://www.opensecrets.org/industries/indus?ind=P) (Tier 1)
+- [Ballotpedia: Labor union political spending](https://ballotpedia.org/Labor_Unions) (Tier 3)
+
+content-readiness:: ready

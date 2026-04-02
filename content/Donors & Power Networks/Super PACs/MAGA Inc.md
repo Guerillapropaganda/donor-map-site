@@ -1,0 +1,112 @@
+---
+title: "MAGA Inc"
+type: pac
+content-readiness: ready
+last-updated: 2026-03-23
+source-tier: 2
+parent: null
+---
+
+#donor-node #super-pac #trump #mega-donors #dark-money
+
+tags: #donor
+
+related: [[Elon Musk]] · [[Timothy Mellon]] · [[Jeff Yass]] · [[Miriam Adelson]] · [[Donor Registry - Master Index]] · [[Master Donor Database]]
+
+---
+
+### Who They Are
+
+[[MAGA Inc]] is the largest super PAC in American politics, reporting $304 million in cash during the 2024 cycle. Established in 2022 as the primary outside spending vehicle for [[_Donald Trump Master Profile|Donald Trump]]'s political operation, [[MAGA Inc]] functions as the financial nucleus of the MAGA movement — the place where billionaire money converts into television ads, ground operations, and political power.
+
+The PAC is led by Taylor Budowich, a Trump communications operative who transitioned into the super PAC world. While technically independent of Trump's campaign (as required by law), the revolving door between [[MAGA Inc]] leadership and Trump's official orbit makes the "independence" a legal fiction. Former Trump campaign officials populate the PAC's vendor list and strategic leadership.
+
+### What They Want
+
+[[MAGA Inc]] exists to elect Trump and Trump-aligned candidates. But the donor class funding it wants specific returns: [[Elon Musk]] ($291M across vehicles including America PAC) wants regulatory protection for Tesla, SpaceX, Neuralink, and xAI, plus government contracts. [[Timothy Mellon]] ($277M) wants immigration enforcement and infrastructure deregulation benefiting his railroad and banking interests. [[Jeff Yass]] ($100M+) wants crypto deregulation and TikTok protection (his Susquehanna International Group holds a major ByteDance stake). [[Miriam Adelson]] ($180M+) wants Israel policy alignment and online gambling regulation favorable to her casino empire.
+
+The PAC's populist branding obscures a familiar pattern: billionaires funding a political vehicle to advance their specific business interests, wrapped in cultural grievance messaging.
+
+### Who Funds Them
+
+[[MAGA Inc]]'s donor base is extraordinarily top-heavy:
+
+| Donor | 2024 Total | Primary Interest |
+|-------|-----------|------------------|
+| [[Timothy Mellon]] | $165M+ (to [[MAGA Inc]] specifically) | Immigration, rail/banking deregulation |
+| [[Miriam Adelson]] | $100M+ (via [[Preserve America|Preserve America]] → MAGA orbit) | Israel policy, casino regulation |
+| [[Jeff Yass]] | $45M+ (to [[MAGA Inc]]) | Crypto, TikTok/ByteDance stake protection |
+| [[Elon Musk]] | Separate America PAC but coordinated orbit | EV credits, SpaceX contracts, DOGE authority |
+| Ike Perlmutter | $10M+ | VA privatization, defense contracts |
+| Steve Wynn | $5M+ | Casino regulation, labor law |
+| Phil Ruffin | $5M+ | Casino/hotel regulation |
+| Robert Bigelow | $5M+ | Space contracts, immigration |
+
+Three donors — Mellon, Adelson, and Yass — account for over 80% of [[MAGA Inc]]'s war chest. This is not a grassroots fundraising operation. It's a billionaire consortium.
+
+### What They've Gotten
+
+The return on [[MAGA Inc]] investment began immediately upon Trump's 2025 inauguration:
+
+| Date | Investment | Policy Return | Beneficiary |
+|------|-----------|---------------|-------------|
+| 2024 | Mellon: $165M+ | Executive orders on immigration enforcement; border wall construction resumed | Mellon's immigration priorities |
+| 2024 | Yass: $45M+ | Trump reversal on TikTok ban; crypto executive orders; SEC enforcement pullback | Susquehanna's ByteDance stake ($33B); crypto portfolio |
+| 2024 | Adelson: $100M+ | Unwavering Israel support; potential annexation backing | Adelson's Israel policy priorities |
+| 2024 | Musk: $291M (across PACs) | DOGE government role; SpaceX contracts maintained; Tesla regulatory environment | Musk's entire corporate empire |
+| 2025 | Perlmutter: $10M+ | VA privatization continued | Perlmutter's Marvel/defense adjacencies |
+
+### The Concentration Problem
+
+[[MAGA Inc]] represents the most extreme donor concentration in super PAC history. When three individuals fund 80%+ of a $304M political operation, the question isn't whether they'll get policy returns — it's how directly the quid pro quo operates.
+
+The [[Jeff Yass]] case is the most transparent: Yass held a $33 billion stake in ByteDance (TikTok's parent) through Susquehanna International Group. Trump had previously supported a TikTok ban. After Yass began writing checks to [[MAGA Inc]] in early 2024, Trump reversed his position entirely, calling a TikTok ban something that would "make Facebook too powerful." The timeline — donation followed by policy reversal — is the donor-first thesis in its purest form.
+
+[[Timothy Mellon]]'s contributions are equally telling. The reclusive banking and railroad heir, whose grandfather was Treasury Secretary Andrew Mellon, has given more money to a single political vehicle than any individual in American history. His $165M+ to [[MAGA Inc]] bought the most expensive policy agenda in politics: immigration crackdowns that align with his ideological priorities and deregulation that benefits his business holdings.
+
+The legal framework that enables this — *Citizens United* allowing unlimited super PAC contributions, combined with FEC non-enforcement of coordination rules — means [[MAGA Inc]] operates as a de facto extension of the Trump campaign funded by a handful of billionaires. The populist base provides the votes; the billionaire donor class provides the money and collects the policy returns.
+
+---
+
+### 2026 Midterm War Chest — Updated March 22, 2026
+
+[[MAGA Inc]] enters the 2026 midterms with **$294–$304 million** cash on hand — by far the largest super PAC war chest in American history. The PAC raised **$289 million in 2025 alone**, with 96% coming from donors who gave $1M+ each.
+
+### New Major Donors (2025-2026 cycle):
+| Donor | Amount | Background | Policy Interest |
+|-------|--------|------------|-----------------|
+| Foris Dax (Crypto.com parent) | $30M | Crypto exchange operator | Crypto-friendly regulation; Trump admin has pushed crypto-friendly policies |
+| Greg Brockman | $25M | OpenAI co-founder | AI deregulation; tech industry protection |
+| Energy Transfer + [[Kelcy Warren|Kelcy Warren]] | $25M combined | Pipeline operator + CEO | Oil/gas deregulation; rollback of environmental regulations |
+| [[Stephen Schwarzman|Stephen Schwarzman]] | $5M | Blackstone CEO | Private equity regulation, tax policy |
+| Juul Labs | $1M | E-cigarette maker | FDA vaping regulation |
+| Jared Isaacman | $2M total | Tech billionaire, astronaut | SpaceX adjacency; space industry deregulation |
+
+> [!money]
+> The new donor profile reveals a critical shift: AI executives, crypto moguls, and energy transfer operators with **zero prior political donation history** are now pumping millions into [[MAGA Inc]]. These are not ideological donors — they are regulatory customers purchasing access to a Trump administration that controls their business environment. The Foris Dax (Crypto.com) donation of $30M is particularly notable: it represents the crypto industry hedging across both Fairshake (Democratic races) and MAGA Inc (Republican infrastructure) simultaneously.
+
+**Trump-aligned PAC ecosystem total:** Trump-aligned PACs collectively hold **$400 million+**, unmatched by any Democratic counterpart.
+
+- [CNN: Trump super PAC builds $300M cash stockpile](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2)
+- [NBC News: New megadonors with government business back Trump PAC](https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867) (Tier 2)
+- [Brennan Center: Unprecedented big money surge for Trump super PAC](https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump) (Tier 2)
+- [Washington Post: Trump-aligned PACs have $400 million, unmatched by Democrats](https://www.washingtonpost.com/politics/2026/02/02/trump-pac-fundraising-midterms/) (Tier 2)
+- [NOTUS: New generation of MAGA megadonors emerging](https://www.notus.org/money/maga-megadonors-donald-trump-super-pac) (Tier 2)
+- [Public Citizen: MAGA Inc donor list littered with corporate influence buyers](https://www.citizen.org/news/trumps-maga-inc-superpac-donor-list-is-littered-with-corporate-and-billionaire-influence-buyers/) (Tier 2)
+
+---
+
+### Sources
+
+- [FEC: MAGA Inc independent expenditure reports](https://www.fec.gov/data/committee/C00892471/) (Tier 1)
+- [OpenSecrets: MAGA Inc donor and spending data](https://www.opensecrets.org/political-action-committees-pacs/maga-inc/C00892471/summary/2024) (Tier 1)
+- [OpenSecrets: Billionaire Timothy Mellon has poured $165 million into 2024 elections](https://www.opensecrets.org/news/2024/08/heir-to-andrew-mellons-fortune-spends-over-165-million-to-support-trumps-reelection/) (Tier 1)
+- [Fortune: TikTok might survive its U.S. ban thanks to Trump's cozy relationship with Jeff Yass](https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban/) (Tier 2)
+- [Slate: Jeff Yass — The powerful TikTok billionaire suddenly all over the news](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2)
+- [Campaign Legal Center: Straw donor scheme involving MAGA Inc contributions](https://campaignlegal.org/press-releases/campaign-legal-center-calls-fec-investigate-apparent-straw-donor-scheme-involving) (Tier 2)
+- [Campaign Legal Center: FEC complaint — Save America soft money transfer to MAGA Inc](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald) (Tier 2)
+
+---
+
+content-readiness:: ready
+research-status:: ready — $304M war chest documented, top donor breakdown (Mellon $165M+, Adelson $100M+, Yass $45M+), 2026 midterm war chest ($294-304M), new donor class (Foris Dax $30M, Brockman $25M, Energy Transfer $25M), donor-to-policy returns mapped, concentration analysis (3 donors = 80%). All ### headers, Tier 1-2 sources. Promoted to ready Session 38h.

@@ -1,0 +1,110 @@
+---
+title: "Preserve America"
+type: pac
+content-readiness: ready
+last-updated: 2026-03-23
+source-tier: 1
+parent: null
+---
+
+#donor #super-pac #republican #trump #adelson #israel-lobby #casino-regulation
+
+related: [[_Donald Trump Master Profile|Donald Trump]] [[Miriam Adelson]] [[MAGA Inc]] Israel Lobby - Donors and Backers Online Gambling Regulation
+
+---
+
+### Who They Are
+
+[[Preserve America|Preserve America]] is the personal super PAC of [[Miriam Adelson|Miriam Adelson]], widow of casino mogul Sheldon Adelson. Founded originally as Sheldon's vehicle during his lifetime, the PAC passed to Miriam's control after his death in January 2021. It is one of the largest Republican super PACs and, as of the 2024 cycle, among the top three sources of outside spending in American politics.
+
+[Preserve America PAC - Wikipedia](https://en.wikipedia.org/wiki/Preserve_America_PAC) (Tier 2)
+
+[[Miriam Adelson|Miriam Adelson]] is the controlling billionaire behind $215+ million in total PAC spending since inception. She is simultaneously: (1) Trump's single largest donor in 2024, (2) a major shareholder in Las Vegas Sands and Marina Venetian (casinos), and (3) a prominent Israel-first philanthropist and political operative.
+
+[Who is Miriam Adelson, the pro-Israel donor Trump lauded at the Knesset?](https://www.aljazeera.com/news/2025/10/13/who-is-miriam-adelson-the-pro-israel-donor-trump-lauded-at-the-knesset) (Tier 2)
+
+### What They Want
+
+Preserve America's strategic agenda aligns perfectly with Miriam Adelson's three core interests:
+
+### 1. Trump Power Consolidation
+Adelson positioned Preserve America as Trump's primary financial vehicle alongside [[MAGA Inc|MAGA Inc]]. In 2024, she contributed $106 million to the PAC in tranches: $25 million in July, August, and September, plus $20 million in late September. This eclipsed [[Elon Musk|Elon Musk]]'s $75 million contribution to his own Trump PAC and made her Trump's largest 2024 donor.
+
+[Miriam Adelson gives $100 million to Trump campaign, making good on reported pledge](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)
+
+[GOP megadonor Miriam Adelson plans to do whatever it takes to help Trump win with $100 million PAC](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2)
+
+### 2. Israel Policy Influence
+Adelson uses Preserve America spending to condition Trump administration policy on unflinching support for Israel. She has leveraged her relationships with Trump staff (and her own access) to push for: maximum military aid packages to Israel, opposition to International Criminal Court prosecution of Israeli officials, pressure on Arab countries for normalized relations, and alignment with Likud coalition positions.
+
+[The Trump Administration — Track [[AIPAC - American Israel Public Affairs Committee|AIPAC]]](https://www.trackaipac.com/trump) (Tier 2)
+
+### 3. Casino Deregulation & Online Gambling Expansion
+The Adelson family's massive wealth flows from casino operations. Preserve America spending targets: (a) candidates who oppose online gambling restrictions, (b) regulatory commissioners at state and federal levels, and (c) litigation support for gaming industry legal challenges.
+
+### Who They Fund / Who Funds Them
+
+### Adelson's Direct Funding (2024):
+| Date | Event | Amount | Source |
+|------|-------|--------|--------|
+| 2024-07-01 | Adelson contributes $25M to Preserve America PAC (July tranche) | $25M | CNBC |
+| 2024-08-01 | Adelson contributes $25M to Preserve America PAC (August tranche) | $25M | CNBC |
+| 2024-09-01 | Adelson contributes $25M to Preserve America PAC (September tranche) | $25M | CNBC |
+| 2024-09-30 | Adelson contributes $20M to Preserve America PAC (late September) | $20M | CNBC |
+| 2024-10-31 | Preserve America PAC totals $106M from Adelson for 2024 Trump general election | $106M | Times of Israel |
+| 2024-11-05 | Trump wins general election; Adelson's funding role widely discussed | — | Media |
+| 2024-12-31 | Adelson directs $25M+ to Trump post-2024 political infrastructure (estimated) | $25M+ | (estimated) |
+
+### Funding Sources:
+Miriam Adelson's wealth flows from:
+- Las Vegas Sands Corporation stock holdings (inherited from Sheldon)
+- Marina Venetian (Macau casino operations)
+- Personal net worth estimated at $38+ billion (making her one of 50 wealthiest Americans)
+
+All funding is personal wealth. No institutional partners — this is pure billionaire donor capture.
+
+### What They've Gotten
+
+### Trump Administration Alignment (2025 onward):
+The 2024 Preserve America spending ($106M) was explicitly transactional. Adelson expected and obtained:
+
+1. **Trump's Personal Commitment to Israel Policy** — Trump's statements at the Knesset and repeated public pledges to maintain maximum military support for Israel
+2. **Cabinet Placement** — Cabinet appointments favorable to Israel-first positions, including State Department and Defense Department roles
+3. **Regulatory Access** — direct access to Trump's team on gambling regulation and online sports betting expansion (a family business interest)
+
+[Miriam Adelson gives $100 million to Trump campaign, making good on reported pledge](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)
+
+### 2024 Election Spending Outcomes:
+Preserve America spent $92+ million on advertising in key battleground states (Michigan, Wisconsin, Pennsylvania). Trump won all three. Whether the spending was determinative is unknowable, but the *expectation* was clear: $106 million buys a president's priority.
+
+### The Billionaire Veto & Conditional Support
+
+What Preserve America's spending reveals is not democracy but its opposite: one billionaire's ability to condition a presidential campaign on her foreign policy preferences. Adelson did not donate to Trump because she supported his policies. She donated because Trump agreed to make her policy priorities his policy priorities.
+
+This is donor capture in its purest form — not lobbying a politician, but *funding the politician* on the condition that they govern according to donor specifications.
+
+The donor-class rationale: "We're just maximizing our preferred candidate's chances." The material outcome: One billionaire's preferences become U.S. foreign policy.
+
+### Relationship to [[MAGA Inc|MAGA Inc]] & Republican Mega-Donor Coordination
+
+Preserve America does not operate in isolation. It coordinates with:
+
+- **MAGA Inc** — another Trump super PAC, funded by various mega-donors, whose spending patterns align with Adelson's
+- **Billionaire Bundlers** — informal coordination with [[Elon Musk|Elon Musk]], [[Peter Thiel|Peter Thiel]] associates, and other Trump mega-funders
+- **Israel Lobby Infrastructure** — AIPAC, [[JPAC - Jewish Public Affairs Committee of California|JPAC]] (California), and other pro-Israel organizations whose spending aligns with Adelson's
+
+[GOP donors pour hundreds of millions into pro-Trump super PACs before Election Day](https://www.nbcnews.com/politics/2024-election/gop-donors-pour-hundreds-millions-trump-super-pacs-election-day-rcna175705) (Tier 2)
+
+### Sources
+
+- [Preserve America PAC - Wikipedia](https://en.wikipedia.org/wiki/Preserve_America_PAC) (Tier 2)
+- [Who is Miriam Adelson, the pro-Israel donor Trump lauded at the Knesset? — Al Jazeera](https://www.aljazeera.com/news/2025/10/13/who-is-miriam-adelson-the-pro-israel-donor-trump-lauded-at-the-knesset) (Tier 2)
+- [Miriam Adelson gives $100 million to Trump campaign, making good on reported pledge — Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)
+- [GOP megadonor Miriam Adelson plans to do whatever it takes to help Trump win with $100 million PAC — CNBC](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2)
+- [The Trump Administration — Track AIPAC](https://www.trackaipac.com/trump) (Tier 2)
+- [GOP donors pour hundreds of millions into pro-Trump super PACs before Election Day — NBC News](https://www.nbcnews.com/politics/2024-election/gop-donors-pour-hundreds-millions-trump-super-pacs-election-day-rcna175705) (Tier 2)
+- [The Final Pre-Election Reports Are In: Here Are Trump's 20 Largest Donors — Sludge](https://readsludge.com/2024/10/25/the-final-pre-election-reports-are-in-here-are-trumps-20-largest-donors/) (Tier 2)
+- [Adelson, Miriam O.: Donor Detail — OpenSecrets](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000310&name=Adelson,+Miriam+O.&super_only=N&type=I) (Tier 1)
+
+research-status:: ready — Miriam Adelson personal super PAC, $106M 2024 Trump, $215M+ lifetime, Israel policy conditioning, casino deregulation, $92M battleground ads, billionaire veto analysis. 8 sources, Tier 1-2. All ### headers. Promoted Session 38l.
+content-readiness:: ready

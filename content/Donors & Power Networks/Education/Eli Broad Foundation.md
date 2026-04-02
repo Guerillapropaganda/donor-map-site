@@ -1,0 +1,107 @@
+---
+title: "Eli Broad Foundation"
+type: corporation
+content-readiness: ready
+last-updated: 2026-03-23
+source-tier: 1
+parent: null
+---
+
+
+#donor #billionaire-philanthropy #eli-broad #education-reform #charter-schools #broad-academy #corporate-model #class-analysis #democratic-donor #california #follow-the-money
+
+related: [[_Gavin Newsom Master Profile]] | [[Education - Donors and Backers]] | [[Charter Schools and the Billionaire Reform Movement]] | [[California Charter Schools Association]] | [[Walton Family Foundation]]
+
+---
+
+### Who They Are
+
+The Eli and Edythe Broad Foundation was a Los Angeles-based private foundation funded by Eli Broad (1933–2021), a billionaire who built two Fortune 500 companies — KB Home (homebuilding) and SunAmerica (financial services). Broad spent approximately $600 million on education "reform" in California and nationally, making his foundation one of the largest private funders of public school transformation in American history.
+
+Broad died in April 2021. The foundation has wound down its active education grantmaking, but its legacy infrastructure — Broad Academy-trained superintendents, funded charter networks, advocacy organizations — remains active in California and nationally.
+
+---
+
+### The Broad Model
+
+The [[Eli Broad Foundation|Eli Broad Foundation]]'s education strategy had two primary components:
+
+**Broad Academy** — A training program that recruited business executives, military officers, and non-educator professionals and placed them in urban school district superintendent and senior administrator roles. The model: run school districts like corporations, apply private-sector management techniques, break teacher tenure, tie pay to test scores. Broad Academy alumni were placed as superintendents in Los Angeles (LAUSD), San Diego, Oakland, and other California districts.
+
+**Charter school funding** — The Broad Foundation was one of the largest funders of charter school expansion in Los Angeles and California. It funded organizations, advocacy infrastructure, and direct school support.
+
+The common thread: transferring decision-making power in public education from teachers, elected school boards, and communities to corporate-model managers accountable to funders rather than to the democratic public. This is a form of privatization that doesn't require formally converting schools to private institutions — it installs private-sector logic and private-sector managers inside public institutions.
+
+---
+
+### The Class Analysis
+
+Eli Broad was a Democrat and a Democratic mega-donor. His philanthropy wrapped privatization in progressive language — closing the achievement gap, improving outcomes for kids of color. The class war analysis: a billionaire used charitable foundations to shape public education policy across an entire state while avoiding the accountability structures of democratic governance. No election, no public vote, no union contract — just money and the access it buys.
+
+The communities most affected by Broad Academy superintendents and Broad-funded charter expansion were working-class and communities of color. The people making the decisions were not from those communities. Broad used his fortune to impose his theory of how poor children should be educated on the poor children — without their parents having meaningful democratic recourse.
+
+---
+
+### What They Wanted
+
+— Corporate-model school district management (Broad Academy superintendents)
+— Charter school expansion in major urban districts, especially Los Angeles
+— Teacher accountability tied to test scores, weakening tenure and seniority
+— Breaking CTA's power in urban districts
+— Centralizing district authority in appointed superintendents rather than elected school boards
+
+---
+
+### Who They Funded (Education)
+
+— KIPP, Green Dot, Alliance, and other large California charter networks — direct grants
+— CCSA ([[California Charter Schools Association|California Charter Schools Association]]) — advocacy infrastructure
+— Teach For America — alternative teacher pipeline bypassing traditional credentialing
+— Democrats for Education Reform (DFER) — inside-Democratic-Party charter advocacy
+— Broad Academy graduates placed in LAUSD, Oakland Unified, San Diego Unified, Sacramento City Unified, and other California districts
+
+### Broad as a Democratic Mega-Donor (non-education):
+Broad was a direct donor to California governors and federal Democratic candidates. He had personal relationships with California governors including Gray Davis, Arnold Schwarzenegger (bipartisan — he funded both), and subsequent Democratic governors. The foundation's education operation and his personal political giving worked in tandem — the personal donations bought access, the foundation money reshaped policy.
+
+**Research needed:** Direct Broad Foundation grants to California education organizations 2010–2021; Broad personal contributions to Newsom specifically (FPPC); list of Broad Academy alumni placed in California districts during Newsom's tenure.
+
+---
+
+### What They Got
+
+— LAUSD leadership was dominated by Broad Academy figures for significant periods, including superintendent John Deasy (Broad Academy).
+— Charter school enrollment in Los Angeles grew substantially through the Broad funding period.
+— The corporate superintendent model normalized in California urban districts.
+— Democratic political infrastructure in California largely accepted education "reform" as a legitimate position rather than opposing it as privatization.
+
+---
+
+### Legacy After Broad's Death
+
+The foundation wound down education grantmaking after Broad's death in 2021, but the Broad Academy network remains — alumni are still in positions across California and nationally. The charter organizations Broad funded continue operating. The Democratic "reform" infrastructure he helped build (DFER, Teach For America, etc.) continues. His influence outlasts his life and his foundation.
+
+---
+
+### Enemies / Opposition
+
+— CTA and CFT — opposed the Broad model throughout
+— United Teachers Los Angeles (UTLA) — fought Broad-backed LAUSD leadership directly, including 2019 strike targeting Broad-model policies
+— Journey for Justice Alliance — community-based opposition to Broad-model charter expansion in communities of color
+— Diane Ravitch and the Network for Public Education — intellectual opposition to the billionaire reform movement
+
+---
+
+### Connected Policy Areas
+
+Education — charter schools, superintendent appointments, teacher accountability, curriculum, billionaire philanthropy in public education
+
+---
+
+### Sources
+
+- [PR Watch: Billionaire Eli Broad Takes Public Education Private](https://www.prwatch.org/news/2018/12/13434/billionaire-eli-broad-takes-public-education-private) (Tier 3)
+- [LA Times: Broad Foundation and LAUSD](https://www.latimes.com/local/education) (Tier 2)
+- Diane Ravitch, *Reign of Error* (2013) — Broad model analysis (Tier 2)
+
+research-status:: ready — $600M education spending, Broad Academy superintendent pipeline, LAUSD/Oakland/SD placements, charter network funding, KIPP/Green Dot/Alliance grants, Democratic mega-donor, corporate model education reform. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
+content-readiness:: ready

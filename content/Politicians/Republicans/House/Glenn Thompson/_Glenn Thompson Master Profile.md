@@ -1,0 +1,148 @@
+---
+title: "Glenn Thompson"
+type: politician
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+
+#glenn-thompson #republican #pennsylvania #house #committee-chair #agriculture #farm-bill #crop-insurance #snap #dairy #sugar #agribusiness #phase-6-gavel-power
+
+related: [[_Donald Trump Master Profile|Trump]]
+
+donors:
+
+profile-status:: ready
+
+---
+---
+
+### Who They Are
+
+Glenn "GT" Thompson represents Pennsylvania's 15th Congressional District and chairs the House Agriculture Committee — the body that writes the Farm Bill, the single largest piece of legislation governing federal agriculture, nutrition, and rural programs. He is the first Pennsylvanian to chair the Agriculture Committee in nearly 170 years.
+
+Thompson is a descendant of dairy farmers from Howard Township, Centre County, Pennsylvania. Before Congress, he worked for 28 years as a therapist, rehabilitation services manager, and licensed nursing home administrator in Lycoming County. He was first elected in 2008. He also sits on the Education and Workforce Committee.
+
+His gavel controls the Farm Bill — a five-year authorization that typically runs $400-500 billion, with roughly 80% going to nutrition programs (SNAP) and 20% to farm subsidies, crop insurance, conservation, and commodity programs.
+
+---
+
+### The Central Thesis
+
+Glenn Thompson is the agribusiness industry's Farm Bill architect — the committee chair who writes the legislation that determines who gets fed and who gets subsidized, funded by the industries that benefit from the answer. Since becoming chair in 2023, he became the single largest House recipient of agribusiness PAC money ($158,000+ in the 2024 cycle), and one of every seven PAC dollars he received in the first half of 2023 came from organizations that had never donated to him before. The gavel created the donor base.
+
+His Farm Bill approach tells the story: $53 billion increase in farm subsidies (for his donors) coupled with $30 billion in SNAP cuts over a decade (from the people who eat). The committee chair funded by crop insurance companies and sugar producers proposes expanding crop insurance while cutting food assistance for 42 million Americans. This is the Farm Bill's structural function: transfer money from nutrition programs serving the poor to commodity programs serving agribusiness.
+
+---
+
+### The Core Contradiction
+
+> [!contradiction]
+> Thompson voted against the Respect for Marriage Act — legislation protecting same-sex marriage — three days before attending his own gay son's wedding. He told his son in advance that he'd vote against it. At the wedding, he gave a speech about how "blessed" he felt. This personal contradiction mirrors his policy contradiction: he represents rural Pennsylvania communities that depend on SNAP for food security while cutting $30 billion from SNAP to fund $53 billion in farm subsidies for the agribusiness corporations that fund his campaign. In both cases, Thompson chooses the donor class (party orthodoxy, agribusiness money) over the people closest to him (his son, his constituents).
+
+---
+
+### Donor Class Map
+
+### Campaign Fundraising:
+- #1 House recipient from: Agricultural services, Crop production, Dairy, Farm bureaus, Sugar cane & sugar beets (2022 cycle)
+- Agribusiness PAC money: $158,000+ (2024 cycle) — largest in House
+- 1 in 7 PAC dollars in first half of 2023 from first-time donors (gavel premium)
+
+### Top Industry Donors (career):
+1. Agricultural services (#1 in House)
+2. Crop production & basic processing (#1 in House)
+3. Dairy (#1 in House)
+4. Farm bureaus (#1 in House)
+5. Sugar cane & sugar beets (#1 in House)
+
+### Key Organizational Contributors:
+- American Farm Bureau Federation
+- Crop insurance companies (federally subsidized crop insurance is $17B+/year program)
+- Sugar industry PACs (American Sugar Alliance)
+- Dairy cooperatives (Land O'Lakes, Dairy Farmers of America)
+- Agribusiness corporations (Cargill, ADM, Deere & Company)
+- Rural electric cooperatives
+
+> [!money]
+> The gavel premium is documented in real time: one in seven PAC dollars Thompson received in the first half of 2023 came from organizations that had NEVER given to him before. These aren't rewarding past loyalty — they're purchasing access to the new Agriculture Committee chair. The Farm Bill is a $400-500 billion piece of legislation. Even a minor provision change can be worth billions to the crop insurance industry, sugar producers, or commodity traders. Thompson's $158,000 in agribusiness PAC money is the entry fee for a seat at a trillion-dollar table.
+
+### Industry Alignment:
+Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop insurance companies, farm bureaus), commodity programs (sugar, dairy, corn), SNAP (grocery industry), conservation (agricultural services), rural development (rural electric cooperatives). The committee writes the rules for every industry that funds the chair.
+
+---
+
+### Donation-to-Policy Timeline
+
+### Pipeline: Agribusiness → Farm Bill Subsidies
+| Date | Type | Event | Donor | Amount | Gap |
+|------|------|-------|-------|--------|-----|
+| 2023 | ROLE | Named Agriculture Committee Chair | — | — | — |
+| 2023 | DONATION | 1 in 7 PAC dollars from first-time donors (gavel premium) | Agribusiness | $158K+ | Immediate |
+| 2024 | ← POLICY | Proposes $53 billion increase in farm subsidies in Farm Bill | — | $53B | 1 year |
+| 2024 | ← POLICY | Proposes $30 billion in SNAP cuts over decade | — | -$30B | 1 year |
+| 2024 | ← NOTE | Money flows UP to agribusiness donors; cuts flow DOWN to SNAP recipients. Same bill. | — | — | — |
+
+### Pipeline: Crop Insurance Industry → Crop Insurance Expansion
+| Date | Type | Event | Donor | Amount | Gap |
+|------|------|-------|-------|--------|-----|
+| 2023-2024 | DONATION | #1 House recipient from crop production industry | Crop insurance/production | #1 recipient | — |
+| 2024 | ← POLICY | Thompson: "maybe we need to see about strengthening" crop insurance program | — | $17B+/yr program | Ongoing |
+| 2024 | ← NOTE | Federally subsidized crop insurance costs taxpayers $17B+/year; Thompson proposes expanding it while cutting food assistance | — | — | — |
+
+### Pipeline: Sugar Industry → Sugar Subsidies
+| Date | Type | Event | Donor | Amount | Gap |
+|------|------|-------|-------|--------|-----|
+| 2022-2024 | DONATION | #1 House recipient from sugar cane & sugar beets | Sugar industry | #1 recipient | — |
+| 2024 | ← POLICY | Farm Bill protects sugar price supports and import quotas | — | — | Ongoing |
+| 2024 | ← NOTE | U.S. sugar program costs consumers $3.5B+/year in higher prices; program survives every Farm Bill because of industry lobbying | — | — | — |
+
+### Pipeline: 2026 Farm Bill Markup
+| Date | Type | Event | Donor | Amount | Gap |
+|------|------|-------|-------|--------|-----|
+| 2026-03 | ← ACTION | Agriculture Committee votes 34-17 to advance new Farm Bill (4 Democrats vote with Republicans) | — | — | — |
+| 2026-03 | ← NOTE | Thompson targeting full House floor vote by Easter (April 5). SNAP cuts and subsidy increases remain in bill. | — | — | — |
+
+---
+
+### Analytical Patterns
+
+**Donor-Class Override:** Thompson's rural Pennsylvania constituents rely on SNAP at higher rates than the national average. His Farm Bill cuts $30 billion from SNAP while adding $53 billion to farm subsidies for the agribusiness corporations that fund him. The donor class (agribusiness) gets the subsidy increase. The constituency gets the nutrition cut. Same bill, opposite outcomes, same chair.
+
+**Genuine Win + Structural Limit:** The Farm Bill does provide real benefits to small farmers — crop insurance, conservation programs, rural development loans. Thompson's dairy farming heritage is genuine. The structural limit: the bill's subsidy structure overwhelmingly benefits large agribusiness operations, not small family farms. The top 10% of farm operations receive the majority of commodity payments. Thompson champions "family farms" while writing legislation that consolidates industrial agriculture.
+
+**Two-Audience Problem:** To rural constituents: the dairy farmer's grandson who fights for family agriculture. To agribusiness donors: the committee chair who protects crop insurance subsidies, sugar price supports, and commodity programs. The two audiences hear the same word — "farming" — but it means different things to each.
+
+**Gavel Premium (documented):** The 1-in-7 first-time donor ratio proves the gavel premium in real time. These donors weren't investing in Glenn Thompson the person. They were investing in the Agriculture Committee chairmanship. When the gavel moves, the money follows.
+
+---
+
+### Rhetorical Signature Moves
+
+**"As a descendant of dairy farmers"** — The heritage credential that positions agribusiness policy as personal. The function: make subsidy expansion feel like family preservation rather than corporate welfare.
+
+**"Protecting our farmers"** — The populist framing that conflates small family farms with industrial agribusiness. The function: justify commodity programs that disproportionately benefit large operations by invoking the cultural image of the small farmer.
+
+**"The Farm Bill is about more than farming"** — Acknowledges SNAP's presence in the bill while framing nutrition cuts as "reform." The function: make $30 billion in food assistance cuts sound like responsible budgeting rather than transferring money from hungry people to crop insurance companies.
+
+---
+
+### Sources
+
+- [OpenSecrets: Glenn Thompson donor profile](https://www.opensecrets.org/members-of-congress/glenn-thompson/summary?cid=N00029736) (Tier 1)
+- [OpenSecrets: Glenn Thompson industry donors](https://www.opensecrets.org/members-of-congress/glenn-thompson/industries?cid=N00029736) (Tier 1)
+- [Congress.gov: Glenn Thompson](https://www.congress.gov/member/glenn-thompson/T000467) (Tier 1)
+- [House Agriculture Committee: Chairman Thompson](https://agriculture.house.gov/about/chairman-thompson.htm) (Tier 1)
+- [CBPP: House Agriculture Committee Chairman Proposes Cut in SNAP Benefits](https://www.cbpp.org/blog/house-agriculture-committee-chairman-proposes-cut-in-snap-benefits-reversing-bipartisan) (Tier 2)
+- [Pittsburgh Post-Gazette: Thompson sees PAC money surge as Agriculture Committee chair](https://www.post-gazette.com/news/politics-state/2023/07/30/glenn-thompson-pac-donations-house-agriculture-committee/stories/202307300085) (Tier 2)
+- [The Hill: Sparks fly over SNAP at contentious markup of House farm bill](https://thehill.com/policy/healthcare/4683175-house-republican-farm-bill-snap-food-aid-partisan-markup/) (Tier 2)
+- [Pennsylvania Capital-Star: Thompson talks tariffs, SNAP, and immigration's impact on agriculture](https://penncapital-star.com/agriculture-pa-farms/qa-congressman-glenn-thompson-talks-tariffs-snap-and-immigrations-impact-on-agriculture/) (Tier 2)
+- [CNN: GOP congressman attends gay son's wedding after opposing marriage protections](https://www.cnn.com/2022/07/25/politics/glenn-thompson-attends-gay-sons-wedding-after-opposing-protections/index.html) (Tier 2)
+- [Common Dreams: GOP Farm Bill Full of Industry-Backed Poison Pills](https://www.commondreams.org/news/farm-bill-2026) (Tier 2)
+- [Food and Environment Reporting Network: Glenn Thompson](https://thefern.org/ag_tag/glenn-thompson/) (Tier 2)
+- [Ballotpedia: Glenn Thompson](https://ballotpedia.org/Glenn_Thompson_%28Pennsylvania%29) (Tier 3)
+- [Wikipedia: Glenn Thompson](https://en.wikipedia.org/wiki/Glenn_Thompson_%28politician%29) (Tier 3)
+
+content-readiness:: ready

@@ -1,0 +1,277 @@
+---
+title: "_Donald Trump Master Profile"
+type: politician
+content-readiness: ready
+last-updated: 2026-03-23
+source-tier: 1
+parent: null
+---
+
+
+#trump #master-profile #president #republican #class-analysis #follow-the-money #fascist #grifter #billionaire-populism #donor-class #oligarch
+
+related: [[_Gavin Newsom Master Profile]] · [[_Chad Bianco Master Profile]] · [[Elon Musk]] · [[Peter Thiel]] · [[Miriam Adelson]] · [[Jeff Yass]] · [[Timothy Mellon]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Ken Griffin]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[Rupert Murdoch]] · [[Crypto Industry Bloc]] · [[GEO Group]] · [[CoreCivic]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Trump Crypto - The President as Personal Profiteer]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir State - Surveillance as Policy]] · [[Immigration Enforcement - The Detention Economy]] · [[Project 2025 - The Blueprint They Followed]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]
+
+donors: [[Elon Musk]], [[Peter Thiel]], [[Miriam Adelson]], [[Jeffrey Yass]], [[Timothy Mellon]], [[Richard and Elizabeth Uihlein|Richard Uihlein]], [[Kenneth Griffin]], [[Crypto Industry Bloc]]
+
+---
+---
+
+### Who He Is
+
+Donald John Trump. Born June 14, 1946, in Queens, New York. Republican. 45th and 47th President of the United States. Real estate heir turned casino bankrupter turned reality TV host turned president turned convicted felon turned president again. Net worth fluctuates wildly depending on who's counting and what his stock is doing — somewhere between $2 billion and $6 billion, much of it in branding value and Truth Social stock rather than liquid assets.
+
+Born into wealth — not self-made, despite the mythology. Fred Trump's real estate empire in New York provided the inheritance, the loans, the connections, and the political infrastructure that launched Donald's career. The "small loan of a million dollars" line is the tell: even his attempt to minimize his inheritance revealed a man for whom a million dollars is small.
+
+---
+
+### The Central Thesis
+
+Trump is not a donor-class Democrat (like Newsom) or a police-class authoritarian (like Bianco). He is something the existing political categories struggle to contain: a billionaire populist fraud who scams in every direction simultaneously — extracting from the working class through false promises and culture war distraction, extracting from the billionaire class through access-selling and institutional capture, and extracting from the state itself through contracts, deregulation, and direct personal enrichment schemes.
+
+The standard left framing is "Trump serves capital." That's true but incomplete. Trump serves Trump. Capital gets what it wants (tax cuts, deregulation, labor discipline) because capital is willing to pay, and Trump is willing to sell. But Trump is also running side hustles — crypto coins, branded Bibles, NFTs, a media company valued at billions despite generating almost no revenue — that extract directly from his own supporters. He is not an ideological servant of capital. He is a transactional grifter whose interests happen to align with capital's when the price is right.
+
+The fascism is real — the authoritarian consolidation, the movement politics, the scapegoating, the dismantling of institutional checks. But the fascism is also for sale. The people buying it are the billionaire class documented below, and what they're purchasing is not ideology but deregulation, tax protection, and the elimination of the administrative state that constrains their accumulation. The fascism is the delivery mechanism. The product is oligarchy.
+
+---
+
+### The Core Contradiction
+
+> [!contradiction]
+> Trump's brand is built on one claim: he fights for the working class against a corrupt elite.
+
+His record is the opposite: the 2017 Tax Cuts and Jobs Act delivered $1.5 trillion in tax cuts overwhelmingly benefiting corporations and the wealthy. His 2024 campaign was funded by six donors who each gave over $100 million. His cabinet is the wealthiest in American history. His administration created DOGE — a billionaire's personal vehicle for dismantling the agencies that regulate his own companies. His personal business ventures extract money directly from his supporters through branded merchandise, crypto scams, and a media company propped up by political loyalty rather than revenue.
+
+The working-class voters who wear the hat get the culture war. The billionaires who write the checks get the policy.
+
+---
+
+### The Donor Class Map — 2024
+
+Trump's 2024 campaign and affiliated groups raised approximately $1.45 billion. About 44% came from just 10 megadonors. Small-dollar donations (under $200) collapsed from roughly 50% of his fundraising in 2020 to under 30% in 2024. The populist movement is funded by oligarchs. [Source: OpenSecrets — Tier 1; Brennan Center — Tier 2]
+
+### The Mega-Donors (Over $100 Million Each):
+[[Timothy Mellon]] — $125–197 million. Banking heir (Mellon family). The single largest individual donor to [[MAGA Inc|MAGA Inc]]. super PAC. Reclusive. Old money. The class position is inheritance — generational wealth buying political protection. [Source: [Fortune: Timothy Mellon](https://fortune.com/2024/11/09/timothy-mellon-net-worth-top-donor-trump-campaign-elon-musk/) (Tier 2)]
+
+[[Elon Musk]] — $118.6 million to America PAC; approximately $292 million in total 2024 political spending. CEO of Tesla, SpaceX, X (Twitter). His companies hold $38 billion+ in federal contracts, loans, subsidies, and tax credits over two decades. $6.3 billion from federal and local governments in 2024 alone. He was then given control of DOGE — an agency tasked with cutting government spending on everyone except, apparently, [[Elon Musk]]. [Source: [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)] [See: Elon Musk - The Oligarch in the Building]
+
+[[Miriam Adelson]] — $100–148 million. Widow of Sheldon Adelson (Las Vegas Sands casino empire). Primary policy interest: Israel — maximalist support, annexation of the West Bank, U.S. embassy in Jerusalem (achieved first term). Secondary interest: online gambling regulation favorable to casino industry. [Source: [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)]
+
+**Richard & [[Richard and Elizabeth Uihlein|Elizabeth Uihlein]]** — $100 million+. Uline shipping supplies fortune. Wisconsin-based. Major funders of far-right candidates and organizations nationally. The Kochs but less sophisticated. [Source: [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)]
+
+**[[Kenneth Griffin|Kenneth Griffin]]** — $100 million+. Citadel hedge fund founder. Financial deregulation interest. Moved from anti-Trump to mega-donor as the tax and regulatory benefits became clear. [Source: [Brennan Center: Megadonor analysis](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2)]
+
+**Jeffrey & Janine Yass** — $100 million+. Susquehanna International Group (trading firm). Major Republican donor. TikTok investment interest — Yass holds a significant stake in ByteDance, TikTok's parent company. His donations coincided with the TikTok ban debate. [Source: [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)]
+
+---
+
+### Industry Sectors — What They Bought
+
+**Fossil Fuel:** At least $75 million to Trump campaign and PACs. [[Chevron|Chevron]] ($2M), [[ExxonMobil|ExxonMobil]] ($1M), Occidental Petroleum ($1M) to inaugural fund. What they got: declared energy emergency, continued drilling permits, proposed massive offshore drilling expansion, EPA ordered to weaken emissions rules on cars/power plants/oil fields, proposed repeal of the 2009 endangerment finding (the legal foundation of all federal climate regulation), delayed methane limits. 31 key environmental rules targeted for rollback. [Source: Yale Climate Connections — Tier 2; The Hill — Tier 2]
+
+**Crypto:** At least $13.5 million to the inaugural fund alone. Coinbase, Kraken, Galaxy Digital, Crypto.com, Paradigm ($1M each). What they got: Executive order on "Strengthening American Leadership in Digital Financial Technology." Strategic Bitcoin Reserve established. CBDC banned. Biden-era crypto oversight directive repealed. Stablecoin-friendly regulatory framework. Meanwhile, Trump's own family launched World Liberty Financial ($WLFI token), profiting $1 billion+ in proceeds by December 2025, earning the family $460+ million in the first half of 2025 alone. Plus the $TRUMP meme coin (800 million of 1 billion tokens remain Trump-owned). The president is personally profiting from the asset class he is deregulating. [Source: NPR — Tier 2; Holland & Knight — Tier 2; CBS News — Tier 2]
+
+**Tech:** Amazon ($1M), Meta ($1M), plus Musk and Thiel's broader influence. What they got: DOGE targeting regulatory agencies, AI deregulation, antitrust pressure redirected toward perceived political enemies rather than market concentration.
+
+**Private Prisons:** [[CoreCivic|CoreCivic]] and [[GEO Group|GEO Group]] ($500K each to inaugural fund). What they got: immigration enforcement expansion creates demand for detention beds. The same companies connected to the Newsom notes ([[CoreCivic]] | [[GEO Group]]) are funding both the California governor who signed AB 32 (then delayed it) and the president whose immigration crackdown fills their facilities. The money flows to both parties. The beds stay full.
+
+**Defense/Surveillance:** Palantir's federal contracts: $4.4M (2009) → $541M (2024) → $970.5M (2025). Nearly doubled in one year of the second Trump term. [[Peter Thiel|Peter Thiel]] co-founded Palantir, backed [[_JD Vance Master Profile|JD Vance]] for Senate, and built the MAGA tech infrastructure. 10-year, $10 billion Army contract. $1.3 billion DoD Project Maven contract. ICE surveillance contract. Thiel notably gave $0 directly to Trump in 2024 — he didn't need to. The investment was already made through Vance and the institutional infrastructure. [Source: The Hill — Tier 2; Statista — Tier 2]
+
+---
+
+### The Personal Grift — Trump's Side Hustles
+
+This is what separates Trump from a standard corporate Republican. He is not just selling policy to donors — he is running parallel extraction operations that target his own supporters:
+
+**Trump Media / Truth Social (DJT):** Trump holds a majority stake in a company with minimal revenue but a market cap inflated by political loyalty. The stock is a meme stock powered by MAGA identity, not business fundamentals.
+
+**World Liberty Financial / $WLFI token:** Family crypto venture launched September 2024. By December 2025: $1 billion in proceeds, $3 billion in unsold tokens, $460 million to the family in the first half of 2025. The UAE Royal Family purchased a 49% stake — and the Trump administration subsequently approved advanced chip sales to a UAE firm. [Source: NPR — Tier 2; CBS News — Tier 2]
+
+**$TRUMP meme coin:** 1 billion tokens on the Solana blockchain. 800 million remain Trump-owned. The president of the United States launched a personal cryptocurrency three days before his inauguration. $MELANIA coin followed the next day.
+
+**Branded merchandise:** Trump Bibles, Trump sneakers, Trump NFTs, Trump-branded everything. Each product extracts money directly from supporters while functioning as a loyalty ritual — buying the product is the political act.
+
+**The pattern:** The working class funds Trump through small-dollar donations, merchandise purchases, crypto speculation, and cultural loyalty. The billionaire class funds Trump through mega-donations and inaugural payments. Trump extracts from both. The policy goes to the billionaires. The products go to the workers. Everyone pays. Trump profits.
+
+---
+
+### The 2017 Tax Cuts — The Clearest Pipeline
+
+The Tax Cuts and Jobs Act is the single cleanest donor-to-policy transaction in the database:
+
+— Corporate tax rate: 35% → 21% (permanent)
+— Top individual rate: 39.6% → 37%
+— Revenue cost: $1.5 trillion over 10 years (JCT estimate)
+— CBO: deficit increase of $1.455 trillion (2018–2027)
+
+The benefits were distributed upward. The standard deduction increase and child tax credit expansion provided real (modest) relief to middle-income households — this is the genuine win that makes the whole package politically viable. But the structural beneficiaries were corporations and high-income earners. The corporate rate cut alone was worth hundreds of billions to the donor class that funded Trump's campaign. The donors paid millions. They got back billions. That is the return on investment.
+
+[Source: CBO — Tier 1; Tax Policy Center — Tier 1; JCT — Tier 1]
+
+---
+
+### The Epstein Class — A Biographical Note
+
+Trump's social world before politics was the New York billionaire circuit of the 1990s and 2000s — the same world that produced Jeffrey Epstein's network. Documented facts in the public record:
+
+— Trump and Epstein socialized extensively in the 1990s and early 2000s. Photographs, party guest lists, and contemporaneous reporting document this. [Tier 2 — multiple news sources]
+— Trump's 2002 quote to New York Magazine: "I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side." [Tier 1 — primary source, published interview]
+— Trump reportedly barred Epstein from Mar-a-Lago at some point — the timeline and reason are disputed.
+— After Epstein's arrest and Ghislaine Maxwell's arrest, Trump said of Maxwell: "I wish her well." [Tier 1 — on-camera statement, July 2020]
+
+This note does not allege specific criminal conduct. It locates Trump within a social class — the billionaire circuit where Epstein operated — and documents the public record. The class analysis point: Trump came from and belongs to the world where men like Epstein were not anomalies but fixtures. That world is the same world that funds his campaigns and fills his cabinet.
+
+---
+
+### Connections to Existing Vault
+
+**Bianco:** Trump endorsement, America First Legal sanctuary lawsuit ([[_Stephen Miller Master Profile|Stephen Miller]]), immigration enforcement cooperation, gubernatorial campaign positioning. Bianco is the local-level implementation of the Trump model — constitutional sheriff ideology meets MAGA politics. [See: [[287(g) and the Sanctuary State Contradiction]] | [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]]
+
+**Newsom:** The foil. Newsom's entire 2028 positioning is built against Trump. The "California vs. Trump" frame documented in [[Trump Resistance and the 2028 Play]] serves Newsom's donor class by redirecting class analysis onto partisan conflict. Trump makes Newsom's contradictions invisible — who cares about single-payer when you're fighting fascism?
+
+**Private Prisons:** [[CoreCivic|CoreCivic]] and [[GEO Group|GEO Group]] fund both Trump (inaugural) and operate in the California system documented in the Newsom immigration notes ([[Private Detention - AB 32]]). The private detention industry doesn't care which party is in power. It needs beds full. Trump fills them through enforcement. Newsom fills them through delayed reform. The money flows to both.
+
+---
+
+### Policy Area Notes
+
+— [[2017 Tax Cuts - The $1.5 Trillion Receipt]]
+— [[DOGE - The Billionaires Government]]
+— [[Trump Crypto - The President as Personal Profiteer]]
+— [[Fossil Fuel Deregulation - The Climate Donors]]
+— [[The Palantir State - Surveillance as Policy]]
+— [[Immigration Enforcement - The Detention Economy]]
+— [[Project 2025 - The Blueprint They Followed]]
+— [[The Billionaire Cabinet - Wealthiest Administration in History]]
+— [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]
+— [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]]
+— [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]]
+— [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]]
+— [[The Insurrection Investment - Who Funded January 6th and What They Got]]
+— [[The Grift Machine - How Trump Monetized the Presidency]]
+— [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]
+— [[The Culture War Economy - Who Profits From Division]]
+— [[The Iran War Money Trail - From Adelson to Airstrikes]]
+
+---
+
+### Sources
+
+- [OpenSecrets: Trump 2024 summary](https://www.opensecrets.org/2024-presidential-race/donald-trump/candidate?id=N00023864) (Tier 1)
+- [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
+- [Brennan Center: Megadonor analysis](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2)
+- [FEC: Trump candidate page](https://www.fec.gov/data/candidate/P80001571/) (Tier 1)
+- [CBO: TCJA analysis](https://www.cbo.gov/publication/53312) (Tier 1)
+- [Tax Policy Center: TCJA impact](https://taxpolicycenter.org/briefing-book/how-did-tcja-affect-federal-budget-outlook) (Tier 1)
+- [NPR: World Liberty Financial](https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial) (Tier 2)
+- [CBS News: Trump family crypto net worth](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/) (Tier 2)
+- [Yale Climate Connections: Fossil fuel spending](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2)
+- [The Hill: Palantir contracts](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2)
+- [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)
+- [PBS NewsHour: DOGE disassembled](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2)
+- [Holland & Knight: Crypto executive order](https://www.hklaw.com/en/insights/publications/2025/01/president-trump-signs-executive-order-on-digital-assets) (Tier 2)
+- [Fortune: Timothy Mellon](https://fortune.com/2024/11/09/timothy-mellon-net-worth-top-donor-trump-campaign-elon-musk/) (Tier 2)
+
+---
+
+### Analytical Patterns
+
+**The Genuine Win + Structural Limit** — Trump's tax cuts, deregulation, and fossil fuel policies are real victories for his billionaire/corporate donor base, but stop short of dismantling the regulatory state entirely. His wins advance wealthy donor interests without comprehensive institutional transformation.
+
+**The Villain Framing** — Trump blames immigrants, the "deep state," and international competitors as external villains requiring hardline policies, deflecting from examining his actual material position: he implements policies directly benefiting his personal financial interests (TikTok delays protecting Yass's stake, crypto executive orders helping inaugural donors, fossil fuel deregulation). The villain is external; the beneficiary (Trump + his donors) remains structurally invisible.
+
+**The Two-Audience Problem** — Trump performs as a populist fighting for "the people" against elites to his base, while privately implementing policies that directly enrich himself and his billionaire donors. The populist rhetoric masks the actual function: billionaire wealth extraction disguised as anti-establishment action.
+
+---
+
+### Donation-to-Policy Timeline
+
+#### Israel Lobby
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| 2017-12 | Sheldon & [[Miriam Adelson]] | ~$20M to super PAC | 2016-10 | Trump recognizes Jerusalem as Israeli capital; announces embassy move — 14 months after donation |
+| 2018-05 | [[Miriam Adelson]] (continued) | Part of $90M+ cycle | 2016-2018 | U.S. Embassy opens in Jerusalem; Adelsons attend front row. $20M bought a policy shift every previous president refused |
+| 2024-2025 | [[Miriam Adelson]] via [[Preserve America]] PAC | $106-120M | 2024 cycle | Huckabee appointed Ambassador to Israel (maximalist); Rubio at State (Adelson-attributed); Iran strikes begin Feb 2026 |
+
+#### Fossil Fuel / Energy
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| 2017-06 | Oil & gas industry (Koch, API, Hamm, Kelcy Warren) | $4.1M+ to campaign | 2016 cycle | Trump withdraws U.S. from Paris Climate Agreement — 8 months after election |
+| 2025-01 | Kelcy Warren (Energy Transfer), Harold Hamm (Continental Resources) | $5M + $1M | 2024-07 | Energy emergency declaration Day 1 — 31 environmental rules targeted for rollback; 6 months after Mar-a-Lago fundraiser |
+| 2025-01 | Houston oil executives (Mar-a-Lago pitch recipients) | Part of $1B fundraising goal | 2024-04 | Offshore drilling expansion, LNG export approvals, EPA enforcement gutted — donor wish list executed as executive action |
+
+#### Tech / Crypto
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| 2025-01-20 | [[Jeffrey Yass]] (Susquehanna, ~15% ByteDance) | $1M to Trump directly | 2025-01-17 | Trump EO delays TikTok enforcement — **3 days** between donation and policy. Yass's $15B+ stake protected |
+| 2025-03 | [[Jeffrey Yass]] (second tranche) | $15M to [[MAGA Inc]] | 2025-03-06 | Second TikTok enforcement delay issued — weeks after $15M donation |
+| 2025-01-23 | Crypto industry (Coinbase, Kraken, Crypto.com, Paradigm — $1M each) | $13.5M+ to inaugural | 2024-12 | Trump signs crypto EO: revokes Biden oversight, Strategic Bitcoin Reserve, bans CBDC — **3 weeks** after inaugural donations |
+
+#### Mega-Donors / Government Access
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| 2024-11-12 | [[Elon Musk]] via America PAC | $118.6M+ | 2024 cycle | DOGE announced; Musk appointed co-lead — $38B+ federal contractor given oversight of his own regulators. **Same week** as PAC total reached |
+| 2025-01 | [[Timothy Mellon]] | $151.5M to MAGA Inc | 2024 cycle | Border wall + immigration enforcement priorities dominate first 100 days — Mellon is largest single donor in American history |
+| 2024-2025 | Inaugural donors (aggregate — $245M from tech, crypto, finance, fossil fuel) | $245M total | 2024-12 to 2025-01 | Patron-client architecture: every major donor sector received dedicated executive action within first 30 days |
+
+> [!money] The Damning Sequences
+> **3 days:** Yass gives $1M on 2025-01-17 → TikTok delay issued 2025-01-20. The sitting president delayed enforcement of a law passed by Congress within 72 hours of a $1M donation from the man with a $15B stake in the affected company.
+>
+> **3 weeks:** Crypto inaugural donations Dec 2024 → Crypto EO signed Jan 23, 2025. The industry that donated $13.5M+ to the inaugural fund received a dedicated executive order within three weeks of the inauguration.
+>
+> **14 months:** Adelson's $20M+ 2016 super PAC donation → Jerusalem recognition Dec 2017. $20M bought a policy shift every previous president refused. The $106-120M 2024 investment is now producing direct military strikes on Iran.
+>
+> **Same week:** Trump's DOGE announcement (Nov 12, 2024) coincided with Musk's America PAC total. A $38B+ federal contractor was handed oversight of the agencies regulating his own companies.
+>
+> **The patron-client architecture:** $245M inaugural fund → dedicated executive orders for every major donor sector within 30 days. This is not corruption in the margins. This is the operating system.
+
+---
+
+### [[MAGA Inc]]. 2026 War Chest (Finance Research Update 2026-03-21)
+
+**[[MAGA Inc]]. super PAC** entered 2026 with **$294–300 million cash on hand** — the largest midterm war chest in Republican Party history. The PAC raised **$102 million** in the second half of 2025, including **25 donations of $1 million or more**.
+
+### Major new 2025 donors:
+- **Greg Brockman** (OpenAI co-founder): **$25 million** (September 2025) — the single largest individual contribution in the H2 2025 period
+- **Foris DAX Inc.** (Crypto.com parent): **$20 million**
+- **Konstantin Sokolov** (private equity): **$11 million**
+- **[[Stephen Schwarzman|Stephen Schwarzman]]** (Blackstone CEO): **$5 million**
+- **Jared Isaacman** (NASA Administrator, former SpaceX): **$1 million** — a sitting Trump appointee donating to the Trump super PAC
+
+**Historical context:** [[MAGA Inc]]. spent **$456 million** supporting Trump's 2024 return (per OpenSecrets). The $300M entering 2026 represents roughly 66% of the total 2024 cycle spend — positioned entirely for midterm candidate support and 2028 pre-positioning.
+
+**Class composition note:** The new donor cohort is notably tech/crypto-heavy. Brockman (OpenAI), Foris DAX (crypto), and Isaacman (SpaceX/NASA) signal the tech-finance sector fully integrating into Trump's political infrastructure in Year 2 of his second term.
+
+- [CNN — Trump super PAC builds $300 million cash stockpile for 2026](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2)
+- [US News — Trump-Aligned MAGA Inc Super PAC enters 2026 with $300 million stockpile](https://www.usnews.com/news/politics/articles/2026-01-02/trump-aligned-maga-inc-super-pac-enters-2026-with-300-million-stockpile) (Tier 2)
+- [FEC — MAGA INC. committee overview](https://www.fec.gov/data/committee/C00892471/) (Tier 1)
+
+---
+
+### March 2026 Updates — Iran War and Executive Actions
+
+**Iran war — fourth week (March 22, 2026):** "Major combat operations" launched February 28 with joint US-Israel strikes. War now in fourth week. Trump threatened to "obliterate" Iranian power plants if Strait of Hormuz not reopened within 48 hours. Iran responded it will keep the strait closed indefinitely. The strait handles ~20% of global oil consumption.
+
+> [!contradiction]
+> Trump simultaneously says he's considering "winding down" operations while deploying 2,500 additional Marines and allowing Hegseth to request $200B in supplemental war funding. Dovish rhetoric, hawkish action — identical pattern to first-term Syria and Iran escalations.
+
+### Executive orders — March 2026:
+- **National AI Policy Framework** (March 20): Preempts state AI regulation. Direct benefit to tech donor bloc.
+- **Removing Regulatory Barriers to Affordable Home Construction** (March 13): Deregulatory push benefiting real estate donors.
+- **Promoting Access to Mortgage Credit** (March 13): Expands mortgage access — financial industry benefit.
+- **Task Force to Eliminate Fraud** (March 16)
+- **Made in America Advertising** (March 13)
+
+**DHS shutdown — week 5:** The partial DHS shutdown (since Feb 14) continues. 50,000+ TSA officers working without pay. Musk offered to personally cover TSA salaries. Trump threatened to deploy ICE agents to airports if shutdown doesn't end.
+
+- [NPR: Iran war enters fourth week](https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week) (Tier 2)
+- [CNBC: Trump AI policy framework](https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html) (Tier 2)
+- [Federal Register: 2026 Executive Orders](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026) (Tier 1)
+- [CNBC: Trump threatens ICE at airports](https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html) (Tier 2)
+
+profile-status:: ready — master profile fully built with inline citations. All bold headers converted to ### format. Mega-donors individually sourced (OpenSecrets Tier 1, Brennan Center Tier 2). Industry sectors (fossil fuel, crypto, tech, private prisons, defense) documented with source tier labels. Donation-to-policy timeline with temporal mapping. MAGA Inc 2026 war chest ($300M) documented. March 2026 updates (Iran war, executive orders, DHS shutdown). 17 policy sub-notes linked. Promoted to ready Session 38h (March 23, 2026).
+content-readiness:: ready

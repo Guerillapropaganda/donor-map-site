@@ -1,0 +1,88 @@
+---
+title: "Breitbart News and the Mercer-Bannon Media Pipeline"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-23
+source-tier: 2
+parent: null
+---
+
+
+#breitbart #mercer #bannon #media #alt-right #gai #clinton-cash #class-analysis
+
+related: [[Robert Mercer]] · [[Rebekah Mercer]] · [[_Donald Trump Master Profile]]
+
+---
+
+### What It Was
+
+Breitbart News. Conservative media platform. Robert and [[Rebekah Mercer|Rebekah Mercer]] invested at least $10 million following Andrew Breitbart's death in 2012. [[_Steve Bannon Master Profile|Steve Bannon]]: Executive Chairman (2012–2017). Self-described "platform for the alt-right." The $10M Mercer investment transformed Breitbart from a small blog network into a conservative media powerhouse that served as the testing ground for Trump-era messaging — immigration, nationalism, anti-establishment populism. When the messaging was proven, [[Rebekah Mercer|Rebekah Mercer]] moved Bannon from the media platform to the campaign itself (August 2016). Breitbart generated the narratives. [[Cambridge Analytica and the Data Weaponization of Elections|Cambridge Analytica]] targeted the audiences. The super PAC funded the ads. One donor funded all three.
+
+---
+
+### The Mercer-Bannon Connection
+
+The Mercers met Bannon through a [[Club for Growth|Club for Growth]] donors' meeting in Palm Beach (2011). What followed was the most consequential donor-operative partnership in modern politics:
+
+| Entity | Mercer Investment | Bannon Role | Function |
+|--------|------------------|-------------|----------|
+| Breitbart News | $10M | Executive Chairman | Messaging platform, narrative testing |
+| Government Accountability Institute | $2M seed + ongoing | Co-founder, $376K/year | Opposition research ("Clinton Cash") |
+| Cambridge Analytica | $15-20M | VP, board secretary | Data targeting, voter manipulation |
+| Trump Campaign | N/A | CEO (Aug 2016) | Execution — hired by [[Rebekah Mercer|Rebekah Mercer]] |
+| White House | N/A | Chief Strategist (Jan 2017) | Policy implementation |
+
+Bannon simultaneously collected $376,000/year from GAI (for 30 hours/week) while running Breitbart and serving on Cambridge Analytica's board. The Mercer network paid Bannon's salary across multiple entities — ensuring his entire political existence depended on a single family's funding.
+
+---
+
+### The Media-to-White-House Pipeline
+
+### Phase 1 — Breitbart as Lab (2012-2015):
+Bannon used Breitbart to test nationalist, anti-immigration, anti-establishment messaging. The audience data revealed which narratives mobilized voters. The platform functioned as a political polling operation disguised as journalism.
+
+### Phase 2 — GAI as Arsenal (2012-2016):
+Peter Schweizer's Government Accountability Institute — co-founded with Bannon, funded by Mercers, chaired by Rebekah Mercer — produced "Clinton Cash" (2015). The book was opposition research packaged as investigative journalism. The New York Times licensed its findings. The mainstream media amplified Mercer-funded attacks. The donor's money became the news cycle.
+
+### Phase 3 — Cambridge Analytica as Weapon (2015-2016):
+The psychographic data from 87 million Facebook users allowed precise targeting of the Breitbart-tested narratives to the voters most susceptible to them. The messaging (Breitbart) + targeting (Cambridge Analytica) + funding (super PAC) formed a closed system: one donor, one strategist, three interlocking tools.
+
+### Phase 4 — Rebekah Mercer as Kingmaker (August 2016):
+Rebekah Mercer personally persuaded Trump to hire Bannon as campaign CEO and Kellyanne Conway as campaign manager. The donor didn't just fund the campaign — she staffed it with her own operatives.
+
+### Phase 5 — White House (January 2017):
+Bannon entered the West Wing as Chief Strategist. The pipeline from Mercer's wallet to the Oval Office was complete.
+
+> [!money]
+> The total Mercer investment in the Bannon ecosystem: $10M (Breitbart) + $2M+ (GAI) + $15-20M (Cambridge Analytica) + $15.5M (super PAC) = approximately $42-47M. The return: the presidency. Specifically — Rebekah Mercer placed Bannon (campaign CEO → Chief Strategist), Conway (campaign manager → Senior Counselor), and directed cabinet selections from the transition team. The donor didn't buy influence. She built the campaign from components she owned, installed operatives she funded, and governed the transition that selected the government. The investment wasn't in Trump. It was in the infrastructure that made Trump possible.
+
+---
+
+### The Fall and Aftermath
+
+**November 2017:** [[Robert Mercer|Robert Mercer]] resigned as Renaissance co-CEO (under Simons' pressure over Breitbart's toxicity). Sold Breitbart stake to daughters. Publicly cut ties with Bannon.
+
+### Breitbart decline:
+- 90% of advertisers lost within 3 months of 2016 election
+- Traffic collapse: 17.3M monthly readers (early 2017) → 4.6M (May 2019) — 72% decline
+- Revenue gutted
+
+### Bannon legal troubles:
+- Arrested August 2020: fraud charges related to "We Build the Wall" fundraising scheme
+- Pardoned by Trump (January 2021)
+- Convicted of contempt of Congress (July 2022) for refusing January 6 committee subpoena
+- Served 4 months in federal prison (October 2024 – January 2025, commuted by Trump)
+
+The Bannon relationship became a liability. The Mercers adapted — shifting from media-operative partnerships to institutional board positions (Heritage, Project 2025). The lesson: operatives are disposable. Institutions endure.
+
+---
+
+### Sources
+
+- [NPR: Inside the wealthy family funding Bannon's plan](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years) (Tier 2)
+- [NPR: Robert Mercer and conservative politics](https://www.npr.org/2017/05/26/530181660/robert-mercer-is-a-force-to-be-reckoned-with-in-finance-and-conservative-politic) (Tier 2)
+- [Washington Post: The Mercers and Stephen Bannon](https://www.washingtonpost.com/graphics/politics/mercer-bannon/) (Tier 2)
+- [CNBC: Wealthy Mercer family scaled back giving to conservative causes](https://www.cnbc.com/2020/11/24/mercer-family-dramatically-scaled-back-giving-to-conservative-causes-heading-into-2020.html) (Tier 2)
+
+research-status:: ready — $10M Breitbart, $42-47M total ecosystem, Bannon hire pipeline, GAI/Clinton Cash, media-to-WH pipeline, 72% traffic decline, Bannon legal timeline. 4 sources, Tier 2. All ### headers. Promoted Session 38m.
+content-readiness:: ready

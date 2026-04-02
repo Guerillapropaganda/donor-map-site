@@ -1,0 +1,136 @@
+---
+title: "Steve Scalise"
+type: politician
+content-readiness: ready
+last-updated: 2026-03-25
+source-tier: 1
+parent: null
+---
+
+#politician #republican #house #louisiana #energy #fossil-fuel #climate #leadership #class-analysis #follow-the-money #gavel-power
+
+related: [[Koch Network - Charles Koch|Koch Network]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[Valero Energy]]
+
+---
+
+### Who They Are
+
+Steve Scalise. Republican congressman from Louisiana's 1st Congressional District since 2008. House Majority Leader in the 119th Congress — the second-highest position in House Republican leadership. Previously served as House Majority Whip (2014-2019) and House Minority Whip (2019-2023). Former chairman of the Republican Study Committee. Senior member of the House Energy and Commerce Committee, serving on the Energy and Environment Subcommittee and the Commerce, Trade, and Consumer Protection Subcommittee. Before politics, worked as a software engineer and technology company marketing executive. B.S. from Louisiana State University. Survived a mass shooting at a congressional baseball practice in June 2017. Diagnosed with multiple myeloma (blood cancer) in August 2023 — described it as "very treatable." Nominated for House Speaker in October 2023 after Kevin McCarthy's ouster but withdrew his candidacy after failing to secure enough votes, partly due to resurfaced controversy over a 2002 speech to a white supremacist group founded by David Duke. Career fundraising exceeds $85 million through his campaign committee; leadership PAC has raised over $11 million.
+
+---
+
+### The Central Thesis
+
+Scalise's donor-class function is to serve as the fossil fuel industry's highest-ranking legislative operator in the House. Representing Louisiana — a state whose economy is built on oil, gas, petrochemicals, and offshore drilling — Scalise translates the energy industry's policy agenda into legislative action from the second-most powerful position in House leadership. Four of the five largest PAC donors to his joint fundraising committee come from the oil and gas sector. Koch Industries and Valero Energy are among his top PAC donors. He ranks fourth among all House lawmakers in oil and gas contributions. From the Energy and Commerce Committee, he introduced the Lower Energy Costs Act (H.R. 1) to repeal methane emissions fees, gut EPA regulatory authority, and fast-track fossil fuel permitting — a bill that would sweep away Biden-era climate policy wholesale. His career arc — from the Energy Committee to Majority Whip to Majority Leader — maps to the fossil fuel industry's need for a loyal operator who rises through leadership while never losing focus on their core policy priorities: block climate regulation, expand drilling, and ensure the regulatory state cannot constrain extraction.
+
+---
+
+### The Core Contradiction
+
+> [!contradiction]
+> Scalise frames himself as fighting for lower energy costs for working families and reducing dependence on "hostile foreign countries." But the primary beneficiaries of his legislative agenda are multinational energy corporations, not Louisiana families paying utility bills. The Lower Energy Costs Act repeals methane emissions fees and EPA regulatory authority — policies designed to protect the air and water quality of communities living near petrochemical plants and refineries, which are disproportionately poor and Black communities in Louisiana's "Cancer Alley." The congressman who survived a shooting and a cancer diagnosis champions the interests of industries whose pollution causes cancer in his own constituents. His district includes some of the most petrochemical-saturated communities in America, and his legislative record ensures they remain that way.
+
+---
+
+### Donor Class Map
+
+> [!money] Follow the Money
+> Career campaign fundraising exceeds $85.2 million. Leadership PAC (Scalise Leadership Fund) has raised $11.3M+. Four of the five largest PAC donors to his joint fundraising committee come from the oil and gas sector. Koch Industries and Valero Energy are among top PAC contributors. Ranks 4th among all House lawmakers in 2023-24 oil and gas contributions. AT&T Inc. was the top donor to Team Scalise in the 2024 cycle ($48,818). Top industry sectors include oil and gas, chemicals, building materials, automotive, and accountants.
+
+### Top Sectors (Career):
+- Oil & Gas: top sector (4th highest among all House members, 2023-24)
+- Chemicals: top recipient category
+- Building Materials: significant
+- Automotive: significant
+- Accountants: significant
+- Telecom (AT&T): top individual PAC donor 2024
+
+### Key PAC Donors:
+- Koch Industries PAC: among top PAC donors
+- Valero Energy PAC: among top PAC donors
+- AT&T Inc.: $48,818 (2024 cycle, top Team Scalise donor)
+- Four of five largest joint fundraising committee PAC donors from oil and gas sector
+
+---
+
+### Donation-to-Policy Timeline
+
+| Date | Event/Contribution | Amount | Policy Action | Time Gap |
+|------|-------------------|--------|---------------|----------|
+| 2008-2014 | Oil and gas PAC contributions as Energy Committee member | Ongoing | Sponsored legislation to strip EPA authority to regulate greenhouse gases under Clean Air Act | Concurrent |
+| 2009-12 | EPA endangerment finding on CO2 | — | Scalise attacked finding as based on "Climate Gate's corrupt science," pushed to overturn | 0 months |
+| 2012 | Energy industry support | Ongoing | Led passage of RESTORE Act (BP oil spill fines to coastal restoration — rare bipartisan win that also protected energy industry's social license to operate in Gulf) | Concurrent |
+| 2014-2019 | Elevated to House Majority Whip | — | Used whip position to block climate legislation, ensure energy votes held in line | Concurrent |
+| 2019-2023 | Continued oil/gas PAC support as Minority Whip | Ongoing | Blocked Democratic climate provisions, opposed Clean Power Plan implementation | Concurrent |
+| 2023-01 | Koch, Valero among top PAC donors | 4th in House | Introduced H.R. 1 — Lower Energy Costs Act: repeals methane fees, guts EPA authority, fast-tracks fossil fuel permits | 0 months |
+| 2023-10 | Energy industry backing for Speaker bid | Ongoing | Nominated for Speaker; withdrew after failing to secure votes (David Duke controversy resurfaced) | Concurrent |
+| 2024 | AT&T top donor ($48.8K); oil/gas 4th highest in House | Ongoing | Re-elected Majority Leader; continued energy deregulation agenda in 119th Congress | 0 months |
+
+---
+
+### Policy Area Notes
+
+### Energy & Fossil Fuels (Core Function):
+- Introduced H.R. 1, the Lower Energy Costs Act — repeals methane emissions fee, eliminates "green bank" for low-carbon projects, guts EPA regulatory authority, fast-tracks fossil fuel permitting
+- Co-sponsored legislation to strip EPA authority to regulate greenhouse gases under the Clean Air Act
+- Attacked EPA's CO2 endangerment finding as based on "corrupt science"
+- Championed offshore oil and gas leasing expansion
+- Led passage of RESTORE Act (2012) — directed BP oil spill fines to coastal restoration, a bipartisan win that also served to maintain industry's social license in the Gulf
+- Introduced GAS Act to lower gas prices through expanded domestic production
+- Frames all climate policy as "radical anti-American energy agenda"
+
+### Climate Denial & Obstruction:
+- Called EPA's CO2 endangerment finding based on "Climate Gate's corrupt science"
+- Accused Democrats of "climate hypocrisy" while representing one of America's most polluted industrial corridors
+- Argued Biden's climate agenda lacks "real science" — promoting "political science" instead
+- Consistently voted against renewable energy incentives and emissions reduction measures
+
+### White Supremacy Controversy:
+- Spoke at 2002 conference of European-American Unity and Rights Organization (EURO), a white supremacist group founded by former KKK Grand Wizard David Duke
+- Journalist Stephanie Grace reported Scalise once called himself "David Duke without the baggage"
+- Apologized, saying he wasn't aware of the group's controversial history
+- Controversy resurfaced during 2023 Speaker bid; cited by Rep. Nancy Mace as reason she couldn't support him
+- Withdrew Speaker candidacy after failing to secure sufficient votes
+
+---
+
+### Rhetorical Signature Moves
+
+- **"Lower costs" populism:** Frames every fossil fuel deregulation bill as lowering costs for families — while the structural beneficiaries are energy corporations whose profit margins expand with fewer regulations.
+- **"American energy independence" nationalism:** Casts climate regulation as dependence on "hostile foreign countries" and fossil fuel expansion as patriotic — obscuring that U.S. energy companies are multinational corporations that export product globally.
+- **"Real science" inversion:** Accuses climate scientists of practicing "political science" while positioning fossil fuel industry talking points as "real science."
+- **"Red tape" framing:** Every environmental protection becomes "red tape" that hurts working families — never protection against documented industrial pollution.
+
+---
+
+### Analytical Patterns
+
+- **Genuine Win + Structural Limit:** The RESTORE Act (2012) was a real bipartisan win for Louisiana's coast — but it also preserved the energy industry's social license to operate in the Gulf by showing that spill damage gets cleaned up, rather than questioning whether the drilling should continue.
+- **Villain Framing:** Frames EPA, "woke regulators," and the Biden administration as villains threatening Louisiana's economy — never the energy companies whose operations create Cancer Alley.
+- **Two-Audience Problem:** Tells Louisiana voters he's fighting to lower their energy bills. Tells energy PAC donors he's blocking every regulation that would constrain their operations. Same legislative agenda, different justification.
+- **Donor-Class Override:** Louisiana communities in Cancer Alley — disproportionately poor, disproportionately Black — suffer documented health impacts from petrochemical exposure. Scalise's legislative record ensures those facilities face less regulation, not more.
+- **Revolving Door:** Not personally, but as Majority Leader and Energy Committee member, his staff and allies cycle between Congress and energy industry lobbying. His leadership PAC and joint fundraising committee function as conduits between energy money and House Republican energy policy.
+
+---
+
+### Sources
+
+- [OpenSecrets: Steve Scalise campaign finance summary](https://www.opensecrets.org/members-of-congress/steve-scalise/summary?cid=N00009660) (Tier 1)
+- [OpenSecrets: Steve Scalise industry contributions 2020](https://www.opensecrets.org/members-of-congress/steve-scalise/industries?cid=N00009660&cycle=2020) (Tier 1)
+- [OpenSecrets: Team Scalise top donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/team-scalise/C00750521/2024/donors) (Tier 1)
+- [GovTrack: Steve Scalise](https://www.govtrack.us/congress/members/steve_scalise/412261) (Tier 1)
+- [Congress.gov: Steve Scalise](https://www.congress.gov/member/steve-scalise/S001176) (Tier 1)
+- [Bloomberg Government: Oil, gas ties power House Speaker candidate Scalise fundraising](https://news.bgov.com/bloomberg-government-news/oil-gas-ties-power-house-speaker-candidate-scalise-fundraising) (Tier 2)
+- [Common Dreams: Scalise took $40K from PAC of CEO accused of oil price rigging](https://www.commondreams.org/news/big-oil-political-contributions) (Tier 2)
+- [Roll Call: Sweeping GOP energy bill would sweep away Biden's climate agenda](https://rollcall.com/2023/03/14/sweeping-gop-energy-bill-would-sweep-away-bidens-climate-agenda/) (Tier 2)
+- [NPR: Scalise says he's a unifier — the state of the GOP will test that](https://www.npr.org/2023/10/12/1205346289/scalise-says-hes-a-unifier-the-current-state-of-the-gop-will-test-that-skill) (Tier 2)
+- [Washington Post: The story behind Steve Scalise and David Duke](https://www.washingtonpost.com/politics/2023/10/12/steve-scalise-white-supremacy-david-duke-louisiana/) (Tier 2)
+- [OpenSecrets News: McCarthy's ouster spurs big money race for House leadership](https://www.opensecrets.org/news/2023/10/kevin-mccarthys-historic-ouster-spurs-big-money-race-for-house-leadership/) (Tier 2)
+- [Scalise.house.gov: Lower Energy Costs Act](https://scalise.house.gov/press-releases/Scalise-Makes-American-Energy-a-Priority,-Introduces-the-Lower-Energy-Costs-Act) (Tier 1)
+- [Ballotpedia: Steve Scalise](https://ballotpedia.org/Steve_Scalise) (Tier 3)
+- [On the Issues: Steve Scalise on Energy & Oil](https://ontheissues.org/House/Steve_Scalise_Energy_+_Oil.htm) (Tier 3)
+
+---
+
+profile-status:: ready
+content-readiness:: ready

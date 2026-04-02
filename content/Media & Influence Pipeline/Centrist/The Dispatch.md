@@ -1,0 +1,74 @@
+---
+title: "The Dispatch"
+type: media-profile
+content-readiness: raw
+last-updated: 2026-03-31
+source-tier: null
+parent: null
+category: centrist
+platform: substack
+---
+
+#media-pipeline #centrist #media-network #dispatch #conservative-intellectual #never-trump
+
+related: [[David French]] · [[Jonah Goldberg]] · [[Steve Hayes]]
+
+---
+
+### Who They Are
+
+Conservative media company founded in 2019 by Steve Hayes, Jonah Goldberg, and Toby Stock after Hayes and Goldberg left Fox News. Subscription-based model. Positions itself as serious, policy-focused conservatism vs. populist/Trump-aligned media. David French is a prominent contributor (now also at NYT).
+
+### The Funding Model
+
+*To be researched.* Key questions:
+- Launch funding: self-funded or investor-backed?
+- Subscriber count and revenue?
+- Any institutional funders or foundation support?
+- Did the Fox News departure involve non-compete or financial settlements?
+- How does The Dispatch's funding model compare to The Bulwark's Omidyar dependency?
+- Is subscriber revenue sufficient for the operation?
+
+### FEC Record
+
+*Pending API query — run fecDonorLookup() for principals/founders.*
+
+### Who Funds Them
+
+Subscriber revenue (primary?) · Unknown launch investors
+
+*Detailed donor mapping pending research.*
+
+### What They Push
+
+Institutional conservatism, rule-of-law, hawkish foreign policy, free-market economics, religious liberty. The editorial line represents pre-Trump Republican establishment positions — which is itself a class position (donor-class conservatism without populist performance).
+
+### The Audience Capture Model
+
+*To be researched.*
+
+### What Their Funders Got
+
+*To be researched — map funding inputs to editorial/policy outputs.*
+
+### Class Analysis
+
+Does The Dispatch represent what the Republican donor class actually wants (free markets, interventionist foreign policy, institutional stability) stripped of the populist packaging that Trump added? If subscriber-funded, whose subscribers? Is the audience donor-class conservatives who want their politics without the vulgar populism?
+
+### Capture Architecture
+
+*Pending — 3-5 line structural summary of platform funder, income dependency, and editorial red lines.*
+
+### Timeline
+
+| Date | Event | Key Players | Amount | Significance |
+|------|-------|-------------|--------|--------------|
+| | | | | |
+
+*To be populated with key funding events, editorial shifts, and political interventions.*
+
+### Sources
+
+*No sources yet — raw placeholder.*
+
+content-readiness:: raw

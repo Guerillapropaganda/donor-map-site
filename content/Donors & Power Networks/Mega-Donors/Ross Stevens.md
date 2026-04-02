@@ -1,0 +1,121 @@
+---
+title: "Ross Stevens"
+type: donor
+content-readiness: developed
+last-updated: 2026-03-26
+source-tier: 1
+parent: null
+---
+
+#ross-stevens #stone-ridge #crypto #bitcoin #nydig #mega-donor #wall-street #club-for-growth #ramaswamy #pro-israel
+
+related: [[Fairshake PAC - Crypto Super PAC]] [[Crypto Industry Bloc]] [[Coinbase]] [[Club for Growth]] [[Vivek Ramaswamy]]
+
+---
+
+### Who They Are
+
+Ross Stevens. Founder and CEO of Stone Ridge Holdings Group (est. 2012), a New York-based alternative asset manager with $20B+ in assets under management. Stevens also founded NYDIG (New York Digital Investment Group) in 2017, a subsidiary that provides Bitcoin custody, lending, and investment services to institutional clients including banks, insurance companies, and asset managers. Stevens holds a PhD in Finance and Statistics from the University of Chicago Booth School of Business and a BSE in Finance from the University of Pennsylvania's Wharton School. He began his career at Goldman Sachs.
+
+Stevens is a registered Republican based in New York. His political spending pattern reveals a dual-track donor: one channel funds free-market conservative infrastructure (Club for Growth Action), while the other funds a specific candidate vehicle (V-PAC: Victors, Not Victims, the pro-Ramaswamy super PAC for Ohio's 2026 gubernatorial race). His total documented federal political spending across 2022-2026 exceeds $5.6 million.
+
+Stone Ridge Holdings Group adopted Bitcoin as its primary treasury reserve asset in 2020, purchasing 10,000+ BTC (then valued at $100M+). Since 2017, the firm cash-sweeps fiat profits into Bitcoin. Stone Ridge Energy, another subsidiary, owns and operates over 10GW of U.S. natural gas production that powers Bitcoin mining operations — vertically integrating energy production with cryptocurrency extraction.
+
+---
+
+### What They Want
+
+Stevens' political spending maps directly onto his business interests and ideological commitments:
+
+**Crypto-friendly regulation:** NYDIG's entire business model depends on institutional clients — banks and insurance companies — being legally permitted to hold and transact in Bitcoin. The rescission of SEC Staff Accounting Bulletin 121 (which imposed punitive capital requirements on banks holding client crypto) and the OCC's loosened guidance in 2025 directly benefited NYDIG's custody business. U.S. Bank resumed Bitcoin custody services through NYDIG as sub-custodian after these regulatory changes. Every dollar Stevens spends on pro-crypto PACs and candidates is an investment in the regulatory framework that generates NYDIG's revenue.
+
+**Free-market conservative economics:** Stevens' $500K in contributions to Club for Growth Action (2022 and 2025 cycles) signal alignment with the organization's anti-tax, deregulation, anti-union agenda. Club for Growth is the institutional backbone of supply-side Republicanism — Stevens funds the economic infrastructure that protects asset managers and crypto businesses from regulatory burden.
+
+**Pro-Israel advocacy:** Stevens withdrew a $100 million donation to the University of Pennsylvania's Wharton School in December 2023 after President Liz Magill's congressional testimony on campus antisemitism. Stevens' attorneys cited Penn's "permissive approach to hate speech calling for violence against Jews and laissez faire attitude toward harassment and discrimination against Jewish students." He subsequently redirected a separate $100M gift from Penn to the University of Chicago. This pattern — using philanthropic leverage to enforce pro-Israel institutional compliance — mirrors the donor-pressure campaigns that forced the resignations of three Ivy League presidents in 2023-2024.
+
+---
+
+### Who They Fund
+
+#### FEC-Documented Contributions
+
+| Date | Recipient/Target | Amount | Policy Return | Time Gap |
+|------|-----------------|--------|---------------|----------|
+| 04/2022 | Club for Growth Action | $250,000 | Free-market conservative infrastructure; anti-regulation candidates | Ongoing |
+| 05/2023 | Bitcoin Freedom PAC | $100,022 | Pro-Bitcoin candidates; anti-crypto-regulation spending | 6-12 months to 2024 election spending |
+| 01/2025 | V-PAC: Victors, Not Victims (Ramaswamy) | $1,000,000 | Ramaswamy Ohio governor campaign; DOGE-aligned candidate | Active — 2026 gubernatorial |
+| 02/2025 | V-PAC: Victors, Not Victims (Ramaswamy) | $4,000,000 | Ramaswamy Ohio governor campaign; DOGE-aligned candidate | Active — 2026 gubernatorial |
+| 10/2025 | Club for Growth Action | $250,000 | Free-market conservative infrastructure; 2026 cycle candidates | Active — 2026 cycle |
+
+> [!money]
+> Stevens' FEC-documented political spending totals $5.6M+ across three cycles — but the real story is the acceleration. He gave $250K in 2022, $100K in 2024, and then $5.25M in the 2026 cycle alone. The $5M to Ramaswamy's V-PAC makes Stevens one of the largest individual donors to the Ohio gubernatorial race. The spending pattern suggests Stevens is transitioning from a background donor (funding institutional vehicles like Club for Growth) to a patron-class mega-donor backing a specific political figure — the same model that Miriam Adelson, Timothy Mellon, and Elon Musk used with Trump in 2024.
+
+#### Philanthropic Leverage
+
+Stevens uses nine-figure philanthropic gifts as political instruments:
+
+- **University of Pennsylvania:** $100M gift (2017) to establish Stevens Center for Innovation in Finance at Wharton. Withdrew in December 2023 over antisemitism response, contributing to the forced resignation of President Liz Magill.
+- **University of Chicago Booth:** Redirected $100M from Penn to fund the Stevens Doctoral Program in finance.
+- **U.S. Olympic & Paralympic Foundation:** $100M gift (March 2025) to fund post-career financial security for Team USA athletes — the largest individual donation in the foundation's history.
+
+---
+
+### What They've Gotten
+
+The regulatory environment Stevens' political spending targets has shifted decisively in his favor since 2024:
+
+**SAB 121 rescission (2025):** The SEC rescinded Staff Accounting Bulletin 121, which had imposed punitive capital requirements on banks providing crypto custody. This directly unlocked NYDIG's institutional custody business model — banks that had paused crypto custody services (including U.S. Bank) resumed them using NYDIG as sub-custodian.
+
+**Strategic Bitcoin Reserve (March 2025):** Trump's executive order establishing a Strategic Bitcoin Reserve — designating Bitcoin as a permanent national reserve asset — validates the thesis Stevens has articulated in annual investor letters since 2020: that Bitcoin is a legitimate treasury reserve asset. The executive order's framework tracks Stevens' own corporate strategy at Stone Ridge.
+
+**Pro-crypto congressional majority (2024):** The crypto industry's $139M spending through Fairshake PAC and affiliates produced a Congress with 50+ crypto-backed members and a 91% success rate across 58 targeted races. While Stevens' individual contributions through Bitcoin Freedom PAC were modest ($100K), the broader crypto industry infrastructure he participates in has delivered a regulatory environment that directly benefits NYDIG.
+
+**Ramaswamy gubernatorial campaign (2025-2026):** V-PAC raised $18.6M in its first year, with Stevens contributing $5M — approximately 27% of total receipts. The super PAC launched a $3M ad campaign touting Trump's endorsement of Ramaswamy for Ohio governor. Stevens is effectively bankrolling a DOGE-aligned candidate for a major governor's race, extending the deregulation agenda from federal to state level.
+
+---
+
+### Donation-to-Policy Timeline
+
+| Date | Recipient/Target | Amount | Policy Return | Time Gap |
+|------|-----------------|--------|---------------|----------|
+| 2020 | Stone Ridge Bitcoin treasury strategy | 10,000+ BTC ($100M+) | Internal: established Bitcoin as corporate treasury reserve | Foundation for political thesis |
+| 04/2022 | Club for Growth Action | $250,000 | CfG-backed candidates won 70%+ of targeted 2022 races | 6 months |
+| 05/2023 | Bitcoin Freedom PAC | $100,022 | PAC spent on anti-Warren, anti-Brown crypto messaging | 18 months to Brown's 2024 defeat |
+| 12/2023 | UPenn donation withdrawal | -$100M | Penn President Magill resigned within days | Immediate |
+| 01/2025 | V-PAC: Victors, Not Victims | $1,000,000 | Ramaswamy Ohio campaign launch; $3M ad blitz | Active |
+| 02/2025 | V-PAC: Victors, Not Victims | $4,000,000 | V-PAC total raised $18.6M; dominant super PAC in OH-GOV | Active |
+| 03/2025 | — | — | Trump signs Strategic Bitcoin Reserve EO; SAB 121 rescinded | 2 years from initial crypto PAC investment |
+| 09/2025 | — | — | U.S. Bank resumes Bitcoin custody via NYDIG sub-custodian | 2.5 years from Bitcoin Freedom PAC contribution |
+| 10/2025 | Club for Growth Action | $250,000 | 2026 cycle conservative candidates | Active |
+
+> [!money]
+> The ROI timeline is stark: Stevens invested $100K in Bitcoin Freedom PAC in May 2023. By March 2025, the regulatory environment had shifted to validate his entire business model — SAB 121 gone, strategic reserve established, banks resuming crypto custody through his own company. His $5M investment in Ramaswamy signals that Stevens sees state-level deregulation as the next frontier after federal crypto policy was secured. The philanthropic withdrawal from Penn demonstrated the same leverage logic: $100M moves institutional policy faster than any lobbying operation.
+
+---
+
+### Class Analysis
+
+Stevens represents a specific species of mega-donor: the ideological capitalist whose political spending is indistinguishable from his business strategy. Unlike pure ideological donors (who spend regardless of business impact) or pure transactional donors (who buy specific policy outcomes), Stevens operates at the intersection — his ideological commitment to Bitcoin and free markets is also his business model.
+
+> [!contradiction]
+> Stevens positions himself as a defender of financial freedom and individual sovereignty through Bitcoin — his investor letters frame Bitcoin as liberation from state-controlled fiat currency. Yet his actual political strategy relies on the most traditional forms of elite influence: nine-figure philanthropic gifts used as political leverage, multi-million dollar super PAC contributions to a single candidate, and funding the institutional machinery (Club for Growth) of the Republican donor class. The "freedom" Stevens advocates is freedom for capital — specifically his capital — to operate without regulatory friction. The populist framing of Bitcoin as empowerment for ordinary people obscures the reality that NYDIG's business serves institutional clients, not retail Bitcoin holders.
+
+Stevens' political evolution from background institutional donor ($250K to Club for Growth) to patron-class mega-donor ($5M to a single candidate's super PAC) mirrors the broader trend in post-Citizens United politics: as the regulatory stakes increase, the spending escalates proportionally. His 2026-cycle spending is 21x his 2022-cycle spending. If Ramaswamy wins Ohio's governorship, Stevens will have purchased significant influence over the executive branch of the seventh-largest state economy — a platform for both deregulation and a potential 2028 presidential campaign.
+
+---
+
+### Sources
+
+- [FEC: Ross Stevens individual contributions, 2025-2026 cycle](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ross+stevens&two_year_transaction_period=2026&min_amount=1000) (Tier 1)
+- [FEC: Ross Stevens individual contributions, 2023-2024 cycle](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ross+stevens&two_year_transaction_period=2024&min_amount=1000) (Tier 1)
+- [FEC: Ross Stevens individual contributions, 2021-2022 cycle](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ross+stevens&two_year_transaction_period=2022&min_amount=1000) (Tier 1)
+- [FEC: V-PAC Victors Not Victims committee overview](https://www.fec.gov/data/committee/C00892919/) (Tier 1)
+- [FEC: Bitcoin Freedom PAC committee overview](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1)
+- [NBC News: Vivek Ramaswamy's allies tout Trump endorsement in $3 million Ohio ad blitz](https://www.nbcnews.com/politics/2026-election/vivek-ramaswamys-allies-tout-trump-endorsement-3-million-ohio-ad-blitz-rcna195681) (Tier 2)
+- [Signal Cleveland: Pro-Ramaswamy super PAC opens Ohio's 2026 political ad season](https://signalcleveland.org/pro-ramaswamy-super-pac-opens-ohios-2026-political-ad-season-with-early-statewide-tv-campaign/) (Tier 2)
+- [NBC Philadelphia: Wharton donor Ross Stevens threatens to withdraw $100M due to antisemitism controversy](https://www.nbcphiladelphia.com/news/local/wharton-donor-withdraws-100m-due-to-antisemitism-controversy-at-penn/3716232/) (Tier 2)
+- [Fortune: Ross Stevens pledges $100 million to U.S. Olympians, Paralympians](https://fortune.com/2025/03/05/ross-stevens-olympics-retirement/) (Tier 2)
+- [OpenSecrets: The crypto trio — how the cryptocurrency industry made its mark on 2024 elections](https://www.opensecrets.org/news/2024/11/the-crypto-trio-how-the-cryptocurrency-industry-has-made-its-mark-on-2024-elections/) (Tier 2)
+- [CoinLineup: U.S. Bank resumes cryptocurrency custody with NYDIG](https://coinlineup.com/us-bank-resumes-crypto-custody-with-nydig/) (Tier 3)
+
+content-readiness:: developed

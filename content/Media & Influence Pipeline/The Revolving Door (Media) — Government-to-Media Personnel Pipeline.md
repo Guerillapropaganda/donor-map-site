@@ -1,0 +1,382 @@
+---
+title: "The Revolving Door (Media) — Government-to-Media Personnel Pipeline"
+type: story
+content-readiness: developed
+last-updated: 2026-04-01
+source-tier: 2
+parent: null
+---
+
+#media #revolving-door #fox-news #msnbc #trump #obama #defense #lobbying #disclosure #both-sides-illusion
+
+related: [[Fox News - Murdoch Media Empire]] · [[Crooked Media]] · [[Rachel Maddow]] · [[Sean Hannity]] · [[Tucker Carlson]] · [[Dan Bongino]] · [[Nicolle Wallace]] · [[Joe Scarborough]] · [[Raytheon (RTX)]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]]
+
+---
+
+### The Core Pattern
+
+The boundary between political power and media has dissolved. There is no longer a clear separation between the press and the government it ostensibly scrutinizes. Instead, a continuous loop moves personnel from government to media, from media to lobbying, from lobbying to think tanks, and back again — each rotation conferring credibility, access, and financial reward.
+
+Democrats flow primarily through MSNBC, NBC News, and podcast empires. Republicans — particularly under Trump — flow almost exclusively through Fox News. The second Trump administration drew at least 23 former Fox News employees into government positions, a historically unprecedented level of formal integration. Comedian Bill Maher captured the structural reality: "I've heard of state TV; this is TV state."
+
+The pattern is bidirectional. People leave government for media (almost always a pay increase). People leave media for government (under Trump, almost always a pay cut — but with proximity to power). The financial incentives, the speed of transition, and the systematic failure to disclose conflicts mean that the American public is routinely presented with "independent analysis" from people who are thoroughly embedded in power structures.
+
+---
+
+### Obama Administration to Media
+
+The most commercially successful government-to-media pipeline of the Obama era is Crooked Media, founded in January 2017 by three former Obama staffers.
+
+| Name | White House Title | Service Period | Departure | Media Launch | Gap |
+|------|------------------|----------------|-----------|---------------|-----|
+| Jon Favreau | Director of Speechwriting | 2005–2013 | March 1, 2013 | Crooked Media (Jan 2017) | 3.8 years |
+| Jon Lovett | Presidential Speechwriter | 2011–2012 | 2012 | Crooked Media (Jan 2017) | 4.5 years |
+| Tommy Vietor | NSC Spokesman | 2007–2013 | 2013 | Crooked Media (Jan 2017) | 4 years |
+| Dan Pfeiffer | WH Communications Director | 2009–2015 | March 2015 | Pod Save America (co-host) | 1.8 years |
+
+Crooked Media's "Pod Save America" launched on January 10, 2017 — ten days before Trump's inauguration. Today, their 25+ podcasts generate over 30 million monthly downloads. In February 2026, Crooked Media signed a deal with MS NOW (formerly MSNBC) to air a weekly compilation program. The company's estimated annual revenue is approximately $31.6 million.
+
+> [!money]
+> Pod Save America and the broader Crooked Media ecosystem represent the Democratic revolving door at scale: former government communications officials packaging Democratic messaging for the donor base, without the traditional distinction of journalism. Sponsors include consumer brands (ZipRecruiter, BetterHelp, SimpliSafe) seeking to reach high-income progressive audiences — the exact demographic that drives political fundraising.
+
+**Jen Psaki: Press Secretary to $12M/Year Cable Contract**
+
+| Role | Period | Compensation |
+|------|--------|-------------|
+| WH Communications Director (Obama) | 2009–2011 | Government salary |
+| CNN Contributor | 2017–2020 | Undisclosed |
+| WH Press Secretary (Biden) | Jan 2021–May 13, 2022 | ~$183,000/year |
+| MSNBC Host/Analyst | Fall 2022–present | Reported $12M/year contract |
+
+Psaki's gap from White House exit to media was approximately 4 months. Her pay leap: from $183,000/year to a reported $12–14 million/year — a roughly **65x increase**. This is not a journalist becoming a commentator; this is a government official securing a cable news contract at a rate that reflects her access and credibility within Democratic power structures, not the market value of her expertise.
+
+**Other Obama Officials in Media**
+
+| Name | Government Role | Media Role | Gap |
+|------|----------------|------------|-----|
+| Robert Gibbs | WH Press Secretary (2009–2011) | MSNBC/NBC Contributor (Feb 2013) | ~2 years |
+| David Axelrod | Senior Adviser to President (2009–2011) | NBC/MSNBC Analyst (2013), CNN Senior Commentator (2015–present) | ~2 years |
+| Josh Earnest | WH Press Secretary (2014–2017) | NBC/MSNBC Political Analyst (March 2017) | ~2 months |
+| Ben Rhodes | Deputy NSA for Strategic Communications (2009–2017) | NBC/MSNBC Contributor (June 2018); Pod Save the World co-host | ~1.5 years |
+| David Plouffe | Senior Adviser to President (2011–2013) | Uber SVP Policy & Strategy (2014); Bloomberg TV contributor | ~1 year |
+| Symone Sanders | VP Kamala Harris Chief Spokesperson | MSNBC Weekend Host (May 2022) | ~3 months |
+
+Josh Earnest's gap of approximately 2 months between departing the White House and joining NBC/MSNBC represents one of the shortest transitions documented. Note the secondary placement: Rhodes' brother David Rhodes was CBS News president — a family link between government and media across networks.
+
+---
+
+### Trump First Term to Media (Exits)
+
+**Kayleigh McEnany: 41-Day Jump to Fox**
+
+| Role | Period | Compensation |
+|------|--------|-------------|
+| Trump Campaign National Spokesperson | 2019–2020 | $167,962 |
+| WH Press Secretary | April 7, 2020–Jan 20, 2021 | ~$183,000/year |
+| Fox News Contributor | March 2, 2021 | Undisclosed |
+| Fox News Co-Host, "Outnumbered" | April 6, 2021–present | Undisclosed |
+
+McEnany announced her Fox News contributor role on March 2, 2021 — just **41 days** after leaving the White House. She began co-hosting "Outnumbered" on April 6, 2021. This represents the fastest documented press secretary-to-media transition in modern history.
+
+**Other First-Term Trump Officials**
+
+| Name | Government Role | Media Destination | Gap |
+|------|----------------|-------------------|-----|
+| Sarah Huckabee Sanders | WH Press Secretary (July 2017–June 2019) | Fox News Contributor (Sept 6, 2019) | ~2 months |
+| Sean Spicer | WH Press Secretary (Jan–July 2017) | Newsmax Host, "Spicer & Co." (March 2020) | ~2.5 years |
+| Kellyanne Conway | Senior Counselor to President (2017–Aug 2020) | Fox News Contributor (Oct 2022); Fox show host (2024) | ~2 years |
+| Larry Kudlow | Dir., National Economic Council (2018–2021) | Fox Business Host, "Kudlow" | Months |
+| Mike Pompeo | Secretary of State (2018–2021) | Fox News Contributor | Months |
+| Mick Mulvaney | OMB Dir./Acting Chief of Staff (2017–2021) | CBS News Contributor (March 2022); later NewsNation, CNBC | ~14 months |
+
+Sanders joined Fox less than two months after leaving the White House, debuting on "Fox & Friends" September 6, 2019. Mulvaney's CBS hire was controversial — CBS News co-president Neeraj Khemlani explicitly described it as an effort to hire more Republican commentators. He was later fired by CBS and subsequently joined NewsNation and CNBC.
+
+---
+
+### Hope Hicks: The Triple Cycle
+
+Hope Hicks represents the rare complete three-way cycle. She moved from Trump White House Communications Director (2017–2018) to Fox Corporation EVP (2019), back to the White House as Counselor (2020–2021).
+
+Most remarkably: as Hicks left the White House for Fox Corp in October 2018, Fox News executive Bill Shine moved in the opposite direction — from Fox into the White House as communications chief of staff. This is not a revolving door that squeaks; this is a door with no hinges at all.
+
+---
+
+### Media to Government: The Second Trump Administration
+
+The second Trump administration drew at least 23 former Fox News employees into government — an unprecedented level of formal integration between a single media corporation and state power.
+
+**Cabinet-Level Appointments from Fox**
+
+| Name | Media Role | Government Position | Media Salary | Govt Salary | Change |
+|------|-----------|---------------------|-------------|-------------|---------|
+| Pete Hegseth | Fox & Friends Weekend Co-Host (2017–Nov 2024) | Secretary of Defense | ~$2.3M/year | $246,400/year | -90% |
+| Sean Duffy | Fox Business Co-Host, "The Bottom Line" | Secretary of Transportation | ~$563,788/year | ~$246,400/year | -56% |
+| Dan Bongino | Fox News Host/Podcaster; Rumble investor (5.7% stake) | Deputy Director, FBI (March–Dec 2025) | Millions | ~$203,700/year | Massive |
+| Tulsi Gabbard | Fox News Contributor (2022–2024) | Director of National Intelligence | $1.2M/year (media portfolio) | ~$246,400/year | -80% |
+
+**Pete Hegseth** disclosed $4.6 million in Fox News salary over two years (2023–2024), meaning roughly $2.3 million annually. As Defense Secretary, he earns $246,400 — managing an $850 billion budget while accepting a **~90% pay cut from media income alone**. He also earned $765,000 from speaking engagements ($10,000–$25,000 per event at Heritage Foundation, NRA, Turning Point USA) and $600,500 from book deals.
+
+**Dan Bongino** held a ~5.7% stake in Rumble worth approximately $160 million. His final podcast episode aired March 14, 2025; he assumed FBI office March 17. He left the FBI in January 2026, serving less than a year.
+
+**Tulsi Gabbard** reported $1.2 million in 2024 income from her MAGA media portfolio: $199,500 (Fox News), $119,500 (ACLJ), $373,872 (Tulsi Media LLC), $297,500 (book advance), and $170,130 in paid speaking fees. Her net worth was reported at $55–127 million.
+
+> [!money]
+> The financial asymmetry reveals the underlying power structure. Government-to-media almost always produces massive pay increases (Psaki: 65x). Media-to-government under Trump produces massive pay cuts (Hegseth: -90%, Gabbard: -80%, Duffy: -56%). Yet media personalities still make the jump. Why? Because in the second Trump administration, proximity to power is worth more than salary.
+
+**Complete List of Fox-Affiliated Personnel in Second Trump Administration**
+
+| Name | Fox Role | Government Position |
+|------|---------|-------------------|
+| Pete Hegseth | Fox & Friends Weekend Co-Host | Secretary of Defense |
+| Sean Duffy | Fox Business Co-Host | Secretary of Transportation |
+| Dan Bongino | Fox Host/Contributor (2019–2023) | Deputy Director, FBI |
+| Tulsi Gabbard | Fox Contributor (2022–2024) | Director of National Intelligence |
+| Sebastian Gorka | Fox Contributor; Salem Radio host | Deputy Asst./Sr. Dir. Counterterrorism |
+| Michael Waltz | Fox Contributor (2017–2018) | National Security Adviser, then UN Ambassador |
+| Kimberly Guilfoyle | Co-Host, "The Five" | Ambassador to Greece |
+| Mike Huckabee | Fox Weekend Host (2008–2015), Contributor | Ambassador to Israel |
+| Keith Kellogg | Fox Contributor | Special Envoy for Ukraine/Russia |
+| Tom Homan | Fox Contributor (2018–) | "Border Czar" |
+| Tammy Bruce | Fox Contributor; Fox Nation Host | State Department Spokesperson |
+| Morgan Ortagus | Fox Contributor | Deputy Special Envoy, Middle East Peace |
+| Sara Carter | Fox Contributor | Director, Office of Drug Control |
+| Leo Terrell | Fox Contributor (2021–) | Counsel to Asst. AG for Civil Rights |
+| Monica Crowley | Fox Contributor (1999–2017) | Asst. Secretary of State/Chief of Protocol |
+| Dr. Janette Nesheiwat | Fox Medical Contributor (2020–) | Surgeon General |
+| Martin Makary | Fox Contributor (2020–) | FDA Commissioner |
+| Alex Pfeiffer | Tucker Carlson Associate Producer | WH Principal Deputy Comms Director |
+| Sergio Gor | Former Fox News Booker | Director, Presidential Personnel Office |
+| Jeanine Pirro | Fox Host (2006–2024) | Interim U.S. Attorney for DC |
+| Lara Trump | Fox Contributor; now Fox host | RNC Co-Chair (departed); returned to Fox |
+| Scott Bessent | Frequent Fox guest | Secretary of Treasury |
+
+NPR noted Trump named 20 Fox-affiliated people in his first term and nearly matched that figure on day one of his second term.
+
+---
+
+### The Cycling Pattern: Media to Government to Media
+
+**Dan Bongino: The Complete Loop**
+
+| Phase | Role | Period |
+|-------|------|--------|
+| Law Enforcement | NYPD Officer | 1995–1999 |
+| Law Enforcement | Secret Service Agent | 1999–May 2011 |
+| Politics | Senate/Congress campaigns (3 failed bids) | 2012, 2014, 2016 |
+| Media | Podcast "Renegade Republican" / "Dan Bongino Show" | 2015–2025 |
+| Media | NRA TV Host | 2018 |
+| Media | Fox News Contributor, then Host | 2019–April 2023 |
+| Media | Cumulus Radio; Rumble investor | 2021–2025 |
+| Government | Deputy Director, FBI | March 17–Dec 2025 |
+| Media | Return to podcasting/media | Jan 2026–present |
+
+Bongino's trajectory is the most complete loop documented: Secret Service agent protecting both Bush and Obama, three failed congressional campaigns, NRA TV host, Fox News contributor, Saturday night Fox show host, nationally syndicated radio host replacing Rush Limbaugh, investor in Rumble (5.7% stake worth ~$160 million), FBI deputy director for less than a year, and back to civilian life.
+
+**Joe Scarborough: Congress to MSNBC**
+
+| Phase | Role | Period |
+|-------|------|--------|
+| Politics | U.S. Representative, FL-1 (R) | 1995–Sept 2001 |
+| Law | Environmental lawyer, Florida | 2001–2003 |
+| Media | Host, "Scarborough Country" (MSNBC) | April 2003–2007 |
+| Media | Co-Host, "Morning Joe" (MSNBC/MS NOW) | May 2007–present |
+
+Scarborough was elected in 1994's Republican wave. He resigned from Congress in September 2001, citing family reasons. After briefly returning to law, he launched "Scarborough Country" on MSNBC in April 2003 — roughly 18 months after leaving Congress. "Morning Joe" has been a Washington "breakfast staple" since 2007, airing on screens at the congressional gym and on government jets.
+
+**George Stephanopoulos: Clinton to ABC**
+
+| Phase | Role | Period |
+|-------|------|--------|
+| Politics | Senior Adviser / Communications Director, Clinton WH | 1993–1996 |
+| Media | ABC News Correspondent, then Anchor | 1997–present |
+
+Stephanopoulos joined ABC News in 1997, approximately one year after leaving the Clinton White House. In 2015, he apologized for donating $75,000 to the Clinton Foundation without disclosing it to ABC or viewers. The donation itself was not disclosed; his apology was only triggered after public discovery.
+
+**Nicolle Wallace: Bush to McCain to MSNBC**
+
+| Phase | Role | Period |
+|-------|------|--------|
+| Politics | WH Director of Media Affairs / Communications (Bush) | 2001–July 2006 |
+| Media | CBS News Political Analyst | 2006–2008 |
+| Politics | Senior Adviser, McCain 2008 Campaign | 2008 |
+| Media | Co-Host, "The View" (ABC) | 2014–2015 |
+| Media | MSNBC Host, "Deadline: White House" | 2016–present |
+
+Wallace served as Bush's communications director, moved into media, cycled back to the McCain campaign, and then returned to media — this time on the liberal-leaning MSNBC. Her show "Deadline: White House" garnered 2 million viewers by July 2020.
+
+---
+
+### The Speed and Compensation Gap
+
+**Government-to-Media: Shortest Transitions**
+
+| Person | Transition | Gap |
+|--------|-----------|-----|
+| Kayleigh McEnany | Trump WH Press Sec → Fox News | 41 days |
+| Josh Earnest | Obama WH Press Sec → NBC/MSNBC | ~2 months |
+| Sarah Huckabee Sanders | Trump WH Press Sec → Fox News | ~2 months |
+| Symone Sanders | VP Harris Spokesperson → MSNBC | ~3 months |
+| Jen Psaki | Biden WH Press Sec → MSNBC | ~4 months |
+
+**Compensation Comparison: Government vs. Media**
+
+| Person | Government Pay | Media Pay | Multiple/Change |
+|--------|---------------|-----------|-----------------|
+| Jen Psaki | ~$183,000/year | ~$12M/year | 65x increase |
+| Pete Hegseth | $246,400/year | ~$2.3M/year | Took 90% cut |
+| Dan Bongino | ~$203,700/year | Millions + $160M stake | Took massive cut |
+| Tulsi Gabbard | ~$246,400/year | ~$1.2M/year | Took 80% cut |
+| Sean Duffy | ~$246,400/year | ~$563,788/year + $304K | Took 71% cut |
+| Jay Carney | ~$172,200/year | Undisclosed Amazon SVP | Major increase |
+
+> [!contradiction]
+> The compensation gap reveals a structural inversion of incentives. Government-to-media produces enormous pay increases. The expectation is that a former press secretary can command cable news contracts because they have access, credibility, and audience. Media-to-government under Trump produces massive pay cuts. Yet the media personalities still make the jump — because in Trump 2.0, proximity to power is the commodity. The presidency is the brand. Fox News is the recruiting office.
+
+---
+
+### Lobbyists, Think Tanks, and Defense Industry on Cable News
+
+A 2022 investigation by The Lever, analyzed by FAIR, found that **20 of 22 featured American guests** on corporate network Sunday politics programs discussing the Afghanistan withdrawal had ties to the arms industry or its boosters — and few, if any, disclosed their conflicts of interest.
+
+**Documented Cases of Undisclosed Conflicts:**
+
+- **Leon Panetta** (former Defense Secretary, CIA Director): Regularly appears on CNN as an expert while serving as senior counselor at Beacon Global Strategies, a defense industry consulting firm whose clients have reportedly included Raytheon. CNN did not disclose this connection.
+
+- **Jeremy Bash** (former Pentagon/CIA Chief of Staff): Also at Beacon Global Strategies, appeared on NBC's "Meet the Press" calling for Ukraine to "shoot Russian aircraft out of the sky" and "kill Russians" — without disclosure of his defense industry ties.
+
+A 2010 investigation by The Nation found that since 2007, **at least 75 registered lobbyists, PR representatives, and corporate officials** had appeared on MSNBC, Fox News, CNN, CNBC, and Fox Business with no disclosure of corporate interests that had paid them. Cases included pundits working for AIG appearing during the AIG bailout discussion, and insurance/pharma-employed commentators discussing healthcare reform.
+
+**Think Tanks as Staging Areas**
+
+The Quincy Institute documented the Pentagon's Secretary of Defense Executive Fellows (SDEF) program as a "de facto lobbying tool" and "taxpayer-funded revolving door" — from 1995 to 2021, over 315 military officers were placed at top weapons manufacturers. More than 40% went on to work for government contractors in their post-military careers.
+
+---
+
+### Foreign State Media as Safety Valve
+
+RT America, the U.S. arm of Russian government-funded RT, ceased operations on March 3, 2022, after Russia's invasion of Ukraine. All 120 employees were laid off. Several prominent American commentators had hosted shows on the network:
+
+| Name | RT America Show | Period | Post-RT Career |
+|------|---------------|--------|---------------|
+| Chris Hedges | "On Contact" (Emmy-nominated) | ~2016–2022 | Substack; 6 years of YouTube archive deleted by Google |
+| Lee Camp | "Redacted Tonight" (375 episodes) | ~2014–2022 | YouTube archive removed; Patreon; podcast "Moment of Clarity" |
+| Jesse Ventura | "The World According to Jesse" | 2017–2022 | Show ended when RT shut down |
+| Ed Schultz | "News with Ed Schultz" | 2016–2018 | Died July 2018 |
+| Larry King | "Larry King Now" / "Politicking" | 2013–2020 | Died January 2021 |
+
+**Jesse Ventura** explicitly said he went to RT because no mainstream network would hire him after his defamation lawsuit against the Chris Kyle estate. RT provided his health insurance after he lost it through the Screen Actors Guild.
+
+**Chris Hedges** (Pulitzer Prize-winning former NYT correspondent) stated he went to RT because he was "blacklisted" from mainstream media over his opposition to U.S. imperialism and support for the BDS movement against Israel. After YouTube deleted his entire archive: "I vanished. In totalitarian systems you exist, then you don't."
+
+**Lee Camp** hosted "Redacted Tonight" for 8 years and 375 episodes. He stated: "It's the only network in essentially all of American media where you can tackle anti-war, anti-imperialist, anti-capitalist issues."
+
+> [!contradiction]
+> The RT America story exposes the functional boundary of acceptable dissent in American media. Mainstream outlets will hire government officials without cooling-off periods. They will hire think tank fellows without disclosing funding sources. But commentators who question U.S. imperialism or corporate capitalism? Those are "too controversial" for mainstream employment. RT became the safety valve — the employer of last resort for Americans whose politics didn't fit cable news orthodoxy. When RT shut down, those commentators' entire digital archives were deleted. Not just archived — deleted. The structural suppression was formalized.
+
+---
+
+### Disclosure Failures Across the Board
+
+Across all categories, disclosure of conflicts of interest remains the exception rather than the rule.
+
+- 2010 Nation investigation: 75+ lobbyists on cable news without disclosure
+- 2022 Lever investigation: Defense industry ties undisclosed for vast majority of pundits
+- FAIR finding: 20 of 22 Sunday show guests had arms industry connections without viewer notification
+- Cable networks' own written disclosure policies: unenforced
+
+---
+
+### Timeline: Key Moments in the Revolving Door
+
+| Date | Event | Key Players | Amount | Significance |
+|------|-------|-----------|--------|---|
+| Jan 1997 | Stephanopoulos to ABC News | George Stephanopoulos, ABC News | Unknown | First major government-to-cable-news move; established template |
+| April 2003 | Scarborough launches "Scarborough Country" (MSNBC) | Joe Scarborough | Unknown | Congress-to-media full cycle; shows revolving door applies to both parties |
+| Jan 2017 | Crooked Media launch; Pod Save America launch | Favreau, Lovett, Vietor, Pfeiffer | ~$31.6M annual revenue (by 2026) | Government-to-podcast empire; Obama alumni business model |
+| March 2, 2021 | McEnany to Fox News (41 days post-White House) | Kayleigh McEnany | Unknown | Fastest documented press secretary transition |
+| May 2022 | Psaki joins MSNBC | Jen Psaki | $12M/year reported | Largest compensation gap: $183K→$12M (65x) |
+| Feb 2026 | Crooked Media-MS NOW deal | Crooked Media, MS NOW | Unknown | Integration of podcaster-government complex into cable news |
+| March 2021–Jan 2026 | 23+ Fox personnel appointed to Trump 2.0 | Hegseth, Duffy, Bongino, Gabbard, et al. | $2.3M (Hegseth), $1.2M (Gabbard), $563K (Duffy) | Unprecedented media-to-government pipeline |
+
+---
+
+### Class Analysis: The Dissolving Boundary
+
+The revolving door is the mechanism by which political media becomes an extension of government rather than a check on it. The structural function is clear:
+
+**For government officials:** Media careers are lucrative reward structures. A press secretary earns $183,000; two years later, they're earning $12 million. The media contract is not compensation for expertise — it's compensation for access, credibility within power, and the ability to deliver insider narratives. Cable news is buying the government official's proximity to the next administration.
+
+**For media corporations:** Hiring government officials is a form of insider credentialing. The official adds access, gravitas, and the appearance of inside expertise. Networks compete for these contracts because the officials bring audiences of people interested in power. The official remains embedded in government networks, speaks at think tank events funded by corporate interests, and maintains advisory relationships.
+
+**For the donor class:** The system is frictionless. Money flows to politicians, which is documented in campaign disclosures. Money also flows to media personalities who will legitimize those politicians. The media personalities don't appear as campaign staff; they appear as "analysts." But their financial interests are aligned with the politicians they "analyze."
+
+**The Democratic variant:** Diffuse across MSNBC, NBC News, CNN, and the podcast ecosystem. Obama alumni populate multiple networks. Psaki's $12 million MSNBC contract is not an outlier — it's the model. Crooked Media generates $31.6 million annually by repackaging Democratic messaging for a high-income donor base. The Democratic "resistance" to Trump is sold as a subscription product.
+
+**The Republican variant (Trump 2.0):** Concentrated through Fox News. The 23+ Fox-to-government appointments represent formalized capture. Fox News is no longer a media organization with political alignment; it is an organ of state administration. Hegseth manages the Pentagon while his Fox salary was nearly 10x his Defense Secretary salary. The financial incentive to leave media actually increases under Trump — not because government pays more, but because government power itself has become the brand.
+
+> [!money]
+> The revolving door is not corruption in the traditional sense. It is structural integration. The boundary between government and media has been removed from its hinges. Both Republicans and Democrats operate the same system; the Republican version is simply more visible because it is more concentrated and more brazen. The financial incentive for government-to-media is always massive. The financial incentive for media-to-government under Trump is power itself. The donor class benefits from both directions: they buy politicians through one mechanism, and buy media legitimacy for those politicians through another.
+
+---
+
+### Sources
+
+- [The Independent: Trump's Fox News administration](https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-fox-news-second-administration-b2678911.html) (Tier 2)
+- [Wikipedia: Crooked Media](https://en.wikipedia.org/wiki/Crooked_Media) (Tier 3)
+- [Los Angeles Times: Obama speechwriter Favreau leaving White House](https://www.latimes.com/world/la-xpm-2013-feb-05-la-na-obama-speechwriter-20130205-story.html) (Tier 2)
+- [Hollywood Reporter: Pod Save America launch](https://www.hollywoodreporter.com/news/general-news/keeping-1600-podcasts-obama-alums-launch-new-show-crooked-media-company-961556/) (Tier 2)
+- [PR Newswire: SiriusXM-Crooked Media deal](https://www.prnewswire.com/news-releases/siriusxm-strikes-multi-year-deal-with-crooked-media-301509011.html) (Tier 2)
+- [Deadline: Crooked-MS NOW deal 2026](https://deadline.com/2026/02/ms-now-crooked-media-deal-1236726903/) (Tier 2)
+- [Capitalism.com: Jen Psaki salary analysis](https://www.capitalism.com/jen-psakis-net-worth-houses-husband-and-salary-as-white-house-press-secretary/) (Tier 3)
+- [Business Insider: Jen Psaki to MSNBC 2022](https://www.businessinsider.com/jen-psaki-join-nbc-news-september-after-white-house-2022-5) (Tier 2)
+- [Los Angeles Times: Psaki MSNBC contract 2022](https://www.latimes.com/entertainment-arts/business/story/2022-04-01/white-house-press-secretary-jen-psaki-will-join-msnbc-in-may) (Tier 2)
+- [CNN: Jay Carney resignation 2014](https://www.cnn.com/2014/05/30/politics/obama-carney-leaving) (Tier 2)
+- [Time: Jay Carney to Amazon 2015](https://time.com/3723776/jay-carney-amazon/) (Tier 2)
+- [Adweek: Robert Gibbs MSNBC 2013](https://www.adweek.com/tvnewser/robert-gibbs-named-nbc-news-msnbc-contributor-156833) (Tier 2)
+- [Adweek: Ben Rhodes NBC/MSNBC 2018](https://www.adweek.com/tvnewser/former-obama-official-ben-rhodes-joins-nbc-news-and-msnbc/) (Tier 2)
+- [Wall Street Journal: Kayleigh McEnany to Fox News 2021](https://www.wsj.com/business/media/kayleigh-mcenany-joins-fox-news-as-commentator-11614710188) (Tier 2)
+- [The Hill: McEnany "Outnumbered" co-host 2021](https://thehill.com/homenews/media/545543-kayleigh-mcenany-joins-fox-news-as-co-host-of-outnumbered/) (Tier 2)
+- [TheWrap: Sean Spicer leaves Newsmax 2023](https://www.thewrap.com/sean-spicer-leaves-newsmax/) (Tier 2)
+- [The Hill: Sean Spicer Newsmax exit 2023](https://thehill.com/homenews/media/3939086-sean-spicer-leaves-newsmax/) (Tier 2)
+- [Wikipedia: Sebastian Gorka](https://en.wikipedia.org/wiki/Sebastian_Gorka) (Tier 3)
+- [CNBC: Hope Hicks Fox appointment 2018](https://www.cnbc.com/2018/10/08/ex-trump-aide-hope-hicks-hired-by-foxheres-8-things-you-may-not-know.html) (Tier 2)
+- [Fox Business: Hope Hicks chief communications officer](https://www.foxbusiness.com/media/hope-hicks-joins-new-fox-as-chief-communications-officer) (Tier 2)
+- [Fox News Press: Sarah Huckabee Sanders Fox 2019](https://press.foxnews.com/2019/08/fox-news-signs-sarah-huckabee-sanders-to-contributor-role) (Tier 2)
+- [New York Times: Sarah Huckabee Sanders Fox 2019](https://www.nytimes.com/2019/08/22/us/sarah-sanders-fox-news.html) (Tier 2)
+- [Wikipedia: Mick Mulvaney](https://en.wikipedia.org/wiki/Mick_Mulvaney) (Tier 3)
+- [Harvard Magazine: Mick Mulvaney profile](https://www.harvardmagazine.com/2023/11/mick-mulvaney-harvard) (Tier 2)
+- [Newsweek: Fox News Trump administration list](https://www.newsweek.com/full-list-fox-news-personalities-serving-donald-trump-administration-2070560) (Tier 2)
+- [Yahoo/TheWrap: Fox News Trump appointees](https://www.yahoo.com/news/21-fox-news-personalities-contributors-221718333.html) (Tier 2)
+- [WUWF/NPR: Trump's Fox appointees 2025](https://www.wuwf.org/2025-01-20/trump-taps-19-fox-pundits-personalities-and-producers-for-second-term) (Tier 2)
+- [Yahoo Finance: Pete Hegseth Fox salary analysis 2025](https://finance.yahoo.com/news/defense-secretary-pete-hegseths-6m-141516956.html) (Tier 2)
+- [Hollywood Reporter: Pete Hegseth financial disclosure 2025](https://www.hollywoodreporter.com/business/business-news/pete-hegseth-fox-news-salary-trump-cabinet-1236107855/) (Tier 2)
+- [Business Insider: Pete Hegseth financial disclosure 2025](https://www.businessinsider.com/pete-hegseth-salary-fox-paid-speeches-financial-disclosure-2025-1) (Tier 2)
+- [Forbes: Dan Bongino Rumble stake 2025](https://www.forbes.com/sites/kylemullins/2025/02/25/former-secret-service-agent-turned-deputy-fbi-director-is-already-very-rich/) (Tier 2)
+- [Fox News: Dan Bongino leaves FBI 2026](https://www.foxnews.com/politics/dan-bongino-leaves-fbi-deputy-director-role-after-less-than-year-returns-civilian-life) (Tier 2)
+- [Business Insider: Tulsi Gabbard financial disclosure 2025](https://www.businessinsider.com/tulsi-gabbard-financial-disclosure-paid-speeches-2025-1) (Tier 2)
+- [ABC News: Tulsi Gabbard income disclosure](https://abcnews.com/Politics/tulsi-gabbard-income-disclosure-wealth/story?id=117891226) (Tier 2)
+- [Deadline: Fox News Trump appointments gallery](https://deadline.com/gallery/fox-news-personalities-trump-white-house-list/) (Tier 2)
+- [Wikipedia: Joe Scarborough](https://en.wikipedia.org/wiki/Joe_Scarborough) (Tier 3)
+- [InfluenceWatch: Joe Scarborough profile](https://www.influencewatch.org/person/joe-scarborough/) (Tier 3)
+- [Fox Business: Stephanopoulos Clinton Foundation donations 2015](https://www.foxbusiness.com/markets/abc-faces-credibility-crisis-over-stephanopoulos-donations-to-clinton-foundation) (Tier 2)
+- [CBC: Stephanopoulos Clinton Foundation apology 2015](https://www.cbc.ca/news/entertainment/george-stephanopoulos-sorry-for-not-disclosing-clinton-foundation-donations-1.3075259) (Tier 2)
+- [Wikipedia: Nicolle Wallace](https://en.wikipedia.org/wiki/Nicolle_Wallace) (Tier 3)
+- [InfluenceWatch: Nicolle Wallace profile](https://www.influencewatch.org/person/nicolle-wallace/) (Tier 3)
+- [Business Insider: Nicolle Wallace MSNBC 2018](https://www.businessinsider.com/nicolle-wallace-msnbc-profile-2018-3) (Tier 2)
+- [Salon: Defense industry pundits undisclosed ties 2022](https://www.salon.com/2022/04/13/new-report-details-how-cnn-and-msnbc-pundits-profit-from-undisclosed-ties-to-defense-contractors_partner/) (Tier 2)
+- [FAIR: Cable news lobbying disclosure failures](https://fair.org/take-action/action-alerts/tell-cable-news-no-more-pr-pundits/) (Tier 2)
+- [SourceWatch: AEI Comcast net neutrality](https://www.sourcewatch.org/index.php/American_Enterprise_Institute) (Tier 3)
+- [The Lever: Pentagon revolving door SDEF program](https://www.levernews.com/the-pentagons-30-year-lobbying-swindle/) (Tier 2)
+- [WSWS: RT America shutdown 2022](https://www.wsws.org/en/articles/2022/03/31/hedg-m31.html) (Tier 2)
+- [ESPN: Jesse Ventura RT America 2019](https://www.espn.com/wwe/story/_/id/19581015/ex-governor-wrestler-jesse-ventura-again-work-russian-funded-rt-network) (Tier 2)
+- [Star Tribune: Jesse Ventura RT 2017](https://www.startribune.com/former-gov-jesse-ventura-has-a-new-gig-on-russian-television/427092891/) (Tier 2)
+- [Wikipedia: The Grayzone](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 3)
+- [Article 19: FARA and foreign media disclosure](https://www.article19.org/resources/requiring-media-register-foreign-agents-poses-threat-free-speech/) (Tier 2)
+- [FARA.us: Foreign Agent Registration Act](https://www.fara.us) (Tier 1)
+- [JD Supra: FCC foreign media disclosure rules 2018](https://www.jdsupra.com/legalnews/fcc-s-foreign-media-reporting-54003/) (Tier 2)
+- [Wired: Dan Bongino FBI appointment 2025](https://www.wired.com/story/dan-bongino-fbi-deputy-director-infowars/) (Tier 2)
+- [OPB: Dan Bongino FBI appointment 2025](https://www.opb.org/article/2025/02/24/dan-bongino-tapped-as-fbi-deputy-director-who-is-he/) (Tier 2)
+
+---
+
+content-readiness:: developed

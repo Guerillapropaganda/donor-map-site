@@ -1,0 +1,186 @@
+---
+title: "Dan Bongino"
+type: media-profile
+content-readiness: ready
+last-updated: 2026-03-26
+source-tier: 1
+parent: null
+category: right
+---
+
+#media-profile #right #conservative #rumble #fbi #trump #revolving-door #law-enforcement #podcaster #class-analysis
+
+related: [[Tucker Carlson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[Russell Brand]] · [[_Media Pipeline Framework]]
+donors: [[Peter Thiel]]
+
+---
+
+### Who They Are
+
+Daniel John Bongino (born December 4, 1974, Queens, New York). NYPD officer (1995-1999). U.S. Secret Service agent (1999-2011) — instructor at Secret Service Training Academy (2002-2006), Presidential Protection Division under George W. Bush and Barack Obama (2006-2011). Three failed Republican congressional campaigns: Maryland Senate (2012), Maryland 6th District (2014, lost by 1.5 points), Florida 19th District (2016). Conservative media personality. 20th Deputy Director of the Federal Bureau of Investigation (March 17, 2025 - January 3, 2026). Currently host of The Dan Bongino Show on Rumble (exclusive video, relaunched February 2, 2026) and Westwood One/Cumulus radio syndication (8.5 million weekly radio listeners, 4th most-listened-to radio host in America, Rush Limbaugh's former time slot).
+
+Career arc: NYPD → Secret Service (Obama protective detail) → failed congressional candidate (3x) → CRTV (Conservative Review TV, 2017) → NRA TV contributor → podcast from basement → Westwood One/Cumulus radio syndication (Limbaugh slot, 2021) → Fox News (Unfiltered with Dan Bongino, 2021-2023) → left Fox Apr 2023 (failed contract negotiations) → Rumble exclusive + radio → FBI Deputy Director (Trump appointment, Mar 2025) → resigned FBI Jan 2026 (Epstein files clash with AG Bondi) → Rumble exclusive relaunch (Feb 2, 2026).
+
+Bongino is unique in this vault as the only media figure who served in a senior federal law enforcement role between media stints. The FBI Deputy Director position was not a career capstone — it was a 10-month interlude between media seasons. Trump himself said Bongino left because he "wants to go back to his show." The revolving door between conservative media and government has never spun faster or more visibly.
+
+**Rumble equity: 15,885,353 shares** (~5.8% of Rumble Inc., NASDAQ: RUM). SEC Schedule 13G filing (September 16, 2022). Bongino is the third-largest individual shareholder behind CEO Chris Pavlovski (37%) and Ryan Milnes (17%). This is not a hosting deal — it is an ownership stake. Bongino is both a Rumble content creator and a Rumble equity holder, meaning his content directly impacts the value of his shares. Every viewer he drives to Rumble increases the platform's valuation and his personal net worth.
+
+**FEC record:** 15 contributions (2017-2024), **~$106,000 total**, entirely Republican. Largest single contribution: $50,000 to Trump 47 Committee Inc. (Apr 5, 2024). Also contributed to Save America ($5,000), Never Surrender Inc. ($5,700), Republican National Committee ($39,300), Donald J. Trump for President Inc. ($500 in 2020), and MAGA-aligned House candidates (Ronny Jackson/TX, Sean Parnell/PA, Ian Smith, Antonio Sabato Jr.). Employer listed variously as "ENTREPRENEUR," "BONGINO INC.," "SELF EMPLOYED," and "CRTV." The contribution pattern is 100% Trump-aligned — no donations to non-Trump Republicans or any other political faction.
+
+---
+
+### Funding Model
+
+Bongino's funding model is the most vertically integrated in the right-wing media section of this vault. He is simultaneously a content creator, platform equity holder, radio syndication host, and former government official whose media career and government service reinforce each other.
+
+**Radio syndication (Cumulus/Westwood One):** In January 2021, Bongino inherited Rush Limbaugh's radio time slot after Limbaugh's death — the most valuable real estate in conservative talk radio. Cumulus Media's Westwood One syndicates the show to 300+ affiliate stations. 8.5 million weekly listeners make him the 4th-most-listened-to radio host in America. The radio deal provides stable, advertising-based income independent of any digital platform. Westwood One also serves as exclusive sales partner for the Rumble relaunch.
+
+**Rumble (platform + equity):** Bongino's relationship with Rumble is not a standard hosting deal. He owns ~5.8% of the company (~15.9M shares). Rumble's investors include Peter Thiel's Narya Capital (JD Vance's firm), making Bongino's equity position part of the Thiel media infrastructure network that connects to Glenn Greenwald (Rumble/System Update), Russell Brand (Rumble migration), and Tucker Carlson (Rumble speculated deal). The January 2026 exclusive video distribution agreement — signed 9 days after Bongino left the FBI — grants Rumble exclusive live stream rights for the daily show. Audio remains on all podcast platforms.
+
+**Fox News (2021-2023):** Bongino hosted Unfiltered with Dan Bongino on Saturday nights (2021-2023). Left in April 2023 after failed contract negotiations. The departure followed the pattern of conservative media figures exiting Fox for independent/Rumble distribution (cf. Tucker Carlson's firing in April 2023).
+
+**CRTV / BlazeTV (2017-2019):** Bongino was an early CRTV host — the Conservative Review TV network that merged with Glenn Beck's TheBlaze to form BlazeTV in December 2018. Employer listed as "CRTV" on his 2017 FEC filing. CRTV was co-founded by Cary Katz, the same billionaire casino magnate who appears in the Steven Crowder profile as the financial backer of the CRTV-to-BlazeTV pipeline.
+
+> [!money]
+> **The equity-content flywheel:** Bongino's Rumble stake creates a financial incentive structure that no other media personality in this vault possesses (except possibly Tucker Carlson's rumored Rumble equity). Every viewer Bongino drives to Rumble increases the platform's user metrics, which increases the stock price, which increases the value of his 15.9M shares. Content creation and equity appreciation are the same activity. This means Bongino's editorial choices — which stories to cover, which platforms to attack, which culture war battles to fight — directly impact his net worth through a mechanism that is invisible to his audience. When Bongino tells his audience to leave YouTube for Rumble, he is making a personal investment decision disguised as a political statement.
+
+---
+
+### FEC Record
+
+**Total:** $106,000 | **Contributions:** 22 | **Party split:** 100% Republican
+**API-verified:** 2026-03-26
+
+| Date | Recipient | Amount | Party | Employer at Filing |
+|------|-----------|--------|-------|--------------------|
+| 2024-04-05 | Trump 47 Committee Inc | $50,000 | REP | ENTREPRENEUR |
+| 2024-04-05 | Republican National Committee | $39,300 | REP | ENTREPRENEUR |
+| 2024-02-29 | Never Surrender Inc | $5,000 | REP | SELF EMPLOYED |
+| 2023-12-08 | WinRed | $1,000 | REP | SELF EMPLOYED |
+| 2022-09-22 | Ian Smith for Congress | $1,000 | REP | ENTREPRENEUR |
+| 2020-10-20 | Donald J. Trump for President Inc | $500 | REP | CRTV |
+| (additional smaller contributions, 2017-2024) | Multiple Republican candidates and committees | ~$8,200 | REP | Various |
+
+> [!money]
+> Bongino's FEC record is 100% Trump-aligned across a 7-year period. The $50,000 Trump 47 Committee contribution (April 2024) precedes his FBI appointment by exactly 11 months — a clear donation-to-appointment arc. The $39,300 RNC contribution from the same date suggests coordinated giving. His total personal political investment ($106K) is entirely within the Wilks-Thiel MAGA ecosystem documented in his professional funding: Rumble equity, Trump appointment, Trump loyalty. The pattern is consistent: Bongino's FEC money flows to the same institutions that his media platform advances.
+
+- [FEC API: Dan Bongino individual contributions (22 results, $106,000)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=bongino%2C+dan&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+
+> **Note on API results:** The FEC API search for "bongino, dan" returns 22 results totaling $106,000 across 2017-2024. All verified results confirm the Rumble/media personality Dan Bongino. The contribution pattern is consistent across filings with clear employer and occupation data matching the media figure. No disambiguation required — all 22 results belong to the subject.
+
+---
+
+### Who Funds Them (Indirect)
+
+**Rumble Inc. investors (Thiel network):** Rumble's investor base includes Peter Thiel's Narya Capital, Vivek Ramaswamy's investment, and venture capital aligned with the MAGA tech infrastructure. Bongino's 5.8% equity stake means he is co-invested alongside this network. When Thiel's money increases Rumble's valuation, Bongino's net worth increases proportionally.
+
+**Cumulus Media / Westwood One:** Cumulus Media (NASDAQ: CMLS) is a publicly traded radio conglomerate. The Limbaugh time slot is the flagship conservative talk radio property — its value derives from advertiser demand for the 8.5M weekly audience. Bongino's radio funding is corporate advertising, not donor money.
+
+**Fox News / Fox Corp (2021-2023):** Standard network compensation during his Fox tenure. The departure was over contract terms, not editorial conflicts — distinguishing Bongino from Tucker Carlson (fired) and Megyn Kelly (contract buyout).
+
+**Donald Trump (political patron):** The FBI Deputy Director appointment was a direct Trump reward for media loyalty. Bongino had no FBI experience. Neither did his boss, FBI Director Kash Patel. The appointment was a loyalty appointment — converting media advocacy into government power.
+
+---
+
+### What They Push
+
+**1. Law enforcement credentialism.** Bongino's Secret Service background is deployed as credentialing for every political claim. Unlike pundits who opinionate from the outside, Bongino claims insider knowledge — he was "in the room," he "protected the president," he "knows how the system works." The Secret Service credential functions as an authentication mechanism that distinguishes Bongino from commentators without government experience, even though his actual policy positions are indistinguishable from any other MAGA media figure.
+
+**2. Platform migration as political act.** Bongino has been one of the most aggressive advocates for conservative audiences leaving mainstream platforms (YouTube, Facebook, Twitter pre-Musk) for Rumble. This advocacy is both ideological (Big Tech censors conservatives) and financial (Bongino owns 5.8% of Rumble). The platform migration message — "they're censoring you, come to our platform" — is the foundational narrative of the Thiel-funded alternative media ecosystem.
+
+**3. Deep state / FBI reform.** Bongino's brief FBI tenure and his post-FBI commentary center on the narrative that the FBI and DOJ are weaponized against conservatives. His resignation over the Epstein files clash with AG Bondi reinforces this narrative — even the Trump-appointed AG is allegedly part of the cover-up. This positions Bongino as the ultimate insider-turned-whistleblower, even though his actual FBI tenure produced no public reforms or policy changes.
+
+**4. Trump loyalty as organizing principle.** Bongino's FEC record ($106K, 100% Trump-aligned), his FBI appointment (Trump loyalty reward), and his content (daily Trump defense) position him as one of the most Trump-dependent media figures in the vault. Unlike Rogan (who maintains ideological independence) or Carlson (who operates as an independent power center), Bongino's entire career depends on Trump's political ecosystem.
+
+---
+
+### Audience Capture
+
+**Platform:** Rumble (exclusive video), Westwood One/Cumulus radio (300+ affiliates, 8.5M weekly), podcast (all platforms, audio only)
+
+**Demographics:** Older conservative men, talk radio audience (Rush Limbaugh inheritance), law enforcement/military community, MAGA movement base. Bongino's audience skews older and more traditionally conservative than the younger, internet-native audiences of figures like Charlie Kirk or Ben Shapiro.
+
+**Capture mechanism — The Limbaugh Inheritance:** Bongino's audience capture is unique because a significant portion of his audience was inherited, not built. The Rush Limbaugh time slot came with a pre-existing audience of millions who were habituated to turning on the radio at that time. Bongino's content serves this inherited audience — his style is talk radio bombast, not internet-native content creation. The Rumble component is a digital extension of the radio base, not an independent audience.
+
+> [!contradiction]
+> **The FBI Contradiction.** Bongino spent years building a media career attacking the FBI as a corrupt deep state institution. Then he accepted the #2 job at the FBI. Then he resigned after 10 months and returned to media, where he resumed attacking the FBI — now with the credibility of having been inside it. The contradiction is the feature: Bongino's brief FBI tenure functions as an authentication upgrade for his existing narrative. He didn't go to the FBI to reform it — he went to the FBI to come back and say he tried to reform it but the system was too corrupt. The 10-month tenure was a media strategy, not a government career.
+
+---
+
+### What Funders Got
+
+**Rumble got:** Its most valuable exclusive content creator. Bongino's audience (8.5M radio + podcast + video) drives platform metrics, user growth, and engagement numbers that Rumble needs to justify its valuation to investors. The exclusive video deal signed January 12, 2026, ensures that anyone who wants to watch (not just listen to) the Bongino show must use Rumble. This is the same content-exclusivity strategy that Spotify used with Rogan — but Rumble's version is cheaper because Bongino already owns equity in the platform.
+
+**Trump got:** A media loyalist installed at the #2 position in the FBI during a critical period of institutional restructuring under Director Kash Patel. Bongino's lack of FBI experience was the feature, not the bug — a loyal outsider is more useful for institutional disruption than a career insider would be.
+
+**The Thiel media infrastructure got:** Another node in the network. Bongino's Rumble equity, exclusive content deal, and MAGA media positioning connect him to the same Thiel-funded platform ecosystem that hosts Greenwald, Brand, and (potentially) Carlson. The Thiel investment in Rumble doesn't need to pay each creator directly — the equity appreciation aligns their financial interests with the platform's success automatically.
+
+---
+
+### Class Analysis
+
+Dan Bongino represents **the media-to-government revolving door as content strategy** — the conversion of government service into media credentialing at a speed never before seen in American politics. His 10-month FBI tenure was not a career — it was an episode arc.
+
+**Pattern: Government as Media Credential.** Bongino's career inverts the traditional revolving door. The standard pattern: government official → media commentator (leveraging insider knowledge). Bongino's pattern: media commentator → government official (leveraging media loyalty) → media commentator (leveraging government credential). The FBI appointment was not a reward for expertise — it was a reward for media loyalty that simultaneously upgraded Bongino's media credentials. The class function is to collapse the distinction between media and government entirely: Bongino can now say "I was FBI Deputy Director" in every segment, forever.
+
+**Pattern: Equity as Editorial Alignment.** Bongino's 5.8% Rumble stake (~15.9M shares) means his editorial decisions have direct financial consequences. When he advocates for platform migration, he's advertising his own investment. When he attacks YouTube or Facebook, he's defending his portfolio. This is not a hosting deal or a sponsorship — it's ownership. The audience sees a political commentator. The SEC filing shows an equity holder whose content is marketing for his own stock position.
+
+**Pattern: The Limbaugh Succession Problem.** Conservative talk radio's business model depends on personality-driven audiences that follow individual hosts. Limbaugh's death created a succession crisis — who inherits the audience? Bongino won the Limbaugh slot but hasn't replicated Limbaugh's cultural dominance. The radio audience is aging and shrinking; Bongino's Rumble strategy is an attempt to migrate the talk radio business model to digital platforms before the AM radio audience dies. The equity stake is the hedge: even if the radio audience shrinks, the Rumble stock appreciates as the platform grows.
+
+**Comparison to Tucker Carlson:** Both Carlson and Bongino left Fox News in April 2023 and moved to Rumble-aligned distribution. The difference is positioning: Carlson operates as an independent power center (his own Tucker Carlson Network). Bongino operates as a Trump loyalty node (his media career depends on Trump's ecosystem). Carlson can survive a post-Trump landscape. Bongino's media value is inseparable from Trump's political operation.
+
+**Comparison to Glenn Greenwald:** Both hold positions in the Thiel-funded Rumble ecosystem. Greenwald came from the left and claims ideological independence. Bongino comes from the right and claims law enforcement credentialism. Both use platform migration as political narrative. But Greenwald's audience swap was market-driven (the right-wing audience found him, not vice versa). Bongino's Rumble position was strategic — he invested in the platform before building his audience on it. Greenwald is a content migrant. Bongino is a platform investor.
+
+**The unique Bongino contribution to this vault:** Bongino is the only media figure who went from media → government → media in the current cycle. The FBI Deputy Director role was the most extreme example of the media-government revolving door in this vault — not because of its duration (10 months) or its policy impact (minimal) but because of its function: converting government service into media content. Every future Bongino segment carries the implicit credential "I was FBI Deputy Director." The Epstein files clash with AG Bondi — whether genuine policy disagreement or manufactured drama — provides permanent narrative fuel. The government position was content.
+
+---
+
+### Timeline
+
+| Date | Event | Key Players | Amount | Significance |
+|------|-------|-------------|--------|--------------|
+| 1995-1999 | NYPD service | Bongino | — | Law enforcement credential origin; deployed as authentication for all future media work |
+| 2006-2011 | Secret Service Presidential Protection Division | Bongino, Bush, Obama | — | "I protected the president" becomes permanent media credentialing device |
+| 2012-2016 | Three failed congressional campaigns (MD Senate, MD-6, FL-19) | Bongino | ~$3M raised | Electoral failure redirects ambition from governance to media; failed politician → media commentator pipeline |
+| Sep 2020 | Acquires equity stake in Rumble (~15.9M shares, ~5.8%) | Bongino, Chris Pavlovski, Peter Thiel (Narya Capital) | Equity (~5.8% of RUM) | Platform migration advocacy becomes personal investment; editorial decisions now have direct financial consequences |
+| Jan 2021 | Inherits Rush Limbaugh radio time slot (Westwood One/Cumulus) | Bongino, Cumulus Media | 8.5M weekly listeners | Largest single audience inheritance in conservative media; instant scale without audience-building |
+| 2021-2023 | Fox News — Unfiltered with Dan Bongino | Bongino, Fox Corp | Network salary | Simultaneous Fox + Rumble + radio = most diversified right-media distribution in vault |
+| Apr 2023 | Leaves Fox News (failed contract negotiations) | Bongino, Fox Corp | — | Exits same month as Tucker Carlson firing; Fox-to-independent migration wave |
+| Apr 5, 2024 | $50,000 contribution to Trump 47 Committee | Bongino, Trump | $50,000 | Largest single FEC contribution; financial loyalty receipt |
+| Mar 17, 2025 | Appointed FBI Deputy Director by Trump | Bongino, Trump, Kash Patel | Government salary | No FBI experience; loyalty appointment converting media advocacy into government power |
+| Jul 2025 | Heated confrontation with AG Bondi over Epstein files; considers resignation | Bongino, Pam Bondi | — | Epstein files clash creates permanent narrative fuel; insider credential upgrade whether he stays or goes |
+| Dec 17, 2025 | Announces FBI resignation effective January 2026 | Bongino, Trump | — | Trump: "He wants to go back to his show." 10-month tenure was a media episode, not a career |
+| Jan 12, 2026 | Signs exclusive Rumble video/live streaming deal (9 days after FBI exit) | Bongino, Rumble | Exclusive rights deal | FBI credential → immediate monetization; revolving door completes full rotation in 9 days |
+| Feb 2, 2026 | Relaunches Dan Bongino Show on Rumble (exclusive video) | Bongino, Rumble, Westwood One | — | Media → government → media cycle complete; every segment now carries "former FBI Deputy Director" credential |
+
+> [!money]
+> **The 9-Day Revolving Door.** Dan Bongino left the FBI on January 3, 2026. Nine days later, on January 12, Rumble announced the exclusive video distribution deal. Nine days after that isn't a career transition — it's a content relaunch. The FBI tenure was a 10-month credential-acquisition operation that converted government service into permanent media authentication. Trump confirmed it himself: Bongino left because he "wants to go back to his show." The $50,000 Trump 47 Committee contribution (Apr 2024) → FBI appointment (Mar 2025) → Rumble relaunch (Feb 2026) sequence maps a complete donation-to-appointment-to-monetization pipeline — but with the media figure as both donor and beneficiary.
+
+---
+
+### Capture Architecture
+
+**Platform funder:** Rumble (Peter Thiel / JD Vance-backed; Bongino holds 15.9M shares / ~5.8% equity). Westwood One/Cumulus radio syndication (8.5M weekly listeners, Limbaugh slot). Previously Fox News ($, 2021-2023).
+**Income dependency:** Rumble exclusive video + Rumble equity appreciation + Cumulus radio deal + podcast advertising. The equity stake converts every editorial decision into a financial one — promoting Rumble migration is promoting his own stock. Radio syndication through Salem/Cumulus provides legacy media reach tied to Christian conservative infrastructure.
+**Editorial red lines:** Cannot critique Trump (entire media career is Trump-loyalty content; FBI appointment came from Trump; FEC record is 100% Trump-aligned), cannot question Rumble/Thiel ecosystem (he's a 5.8% equity holder), cannot moderate on law enforcement (brand built on NYPD/Secret Service credentialing). The FBI interlude proved it: 10-month government role bookended by media seasons — the revolving door IS the content strategy.
+
+---
+
+### Sources
+
+- [SEC: Schedule 13G — Daniel John Bongino, Rumble Inc. Beneficial Ownership (Sep 16, 2022)](https://www.sec.gov/Archives/edgar/data/1830081/000121390022059250/ea166367-13gbongino_rumble.htm) (Tier 1)
+- [FEC Individual Contributions: Dan Bongino (15 results, 2015-2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=dan+bongino&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [Rumble Corp Blog: "Rumble Secures Exclusive Video and Live Streaming Rights for The Dan Bongino Show" (Jan 12, 2026)](https://corp.rumble.com/blog/rumble-secures-exclusive-video-and-live-streaming-rights-for-the-dan-bongino-show/) (Tier 1)
+- [NBC News: "FBI Deputy Director Dan Bongino Says He Will Step Down in January" (Dec 17, 2025)](https://www.nbcnews.com/politics/trump-administration/fbi-deputy-director-dan-bongino-leave-post-january-rcna249789) (Tier 2)
+- [Axios: "Trump on Bongino FBI Exit: He 'Wants to Go Back to His Show'" (Dec 17, 2025)](https://www.axios.com/2025/12/17/dan-bongino-tenure-fbi-trump-show) (Tier 2)
+- [PBS News: "Dan Bongino Says He Plans to Resign as FBI Deputy Director" (Dec 17, 2025)](https://www.pbs.org/newshour/politics/dan-bongino-says-he-plans-to-resign-as-fbi-deputy-director-in-january-ending-brief-tenure) (Tier 2)
+- [NPR Fresh Air: "How Dan Bongino Is Building a Right-Wing Media Infrastructure in Time for 2024" (Jan 6, 2022)](https://www.npr.org/2022/01/06/1070924133/how-dan-bongino-is-building-a-right-wing-media-infrastructure-in-time-for-2024) (Tier 2)
+- [NBC News: "Dan Bongino Weighs Resigning from FBI After Heated Confrontation with Pam Bondi over Epstein Files" (Jul 2025)](https://www.nbcnews.com/politics/justice-department/dan-bongino-weighs-resigning-fbi-heated-confrontation-pam-bondi-epstei-rcna218388) (Tier 2)
+- [CNN: "Deputy FBI Director Bongino Has Told People He Is Considering Resigning Amid Epstein Files Fallout" (Jul 11, 2025)](https://www.cnn.com/2025/07/11/politics/bongino-consider-resigning-epstein-files) (Tier 2)
+- [Washington Examiner: "Dan Bongino Acquires Part-Ownership of Video-Sharing Competitor Rumble" (Sep 2020)](https://www.washingtonexaminer.com/news/2643457/exclusive-fed-up-with-youtube-crushing-conservative-voices-dan-bongino-acquires-part-ownership-of-video-sharing-competitor/) (Tier 3)
+- [Democracy Now: "Dan Bongino Announces Resignation as FBI's Second-in-Command" (Dec 18, 2025)](https://www.democracynow.org/2025/12/18/headlines/dan_bongino_announces_resignation_as_fbis_second_in_command) (Tier 2)
+- [Wikipedia: Dan Bongino](https://en.wikipedia.org/wiki/Dan_Bongino) (Tier 3)
+
+---
+
+content-readiness:: ready

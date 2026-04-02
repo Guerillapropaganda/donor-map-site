@@ -1,0 +1,275 @@
+---
+title: "The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media"
+type: story
+content-readiness: developed
+last-updated: 2026-04-01
+source-tier: 2
+parent: null
+---
+
+#media #advertising #cross-spectrum #pharma #insurance #defense #tech #boycotts #both-sides-illusion
+
+related: [[Fox News - Murdoch Media Empire]] · [[Rachel Maddow]] · [[Tucker Carlson]] · [[Sean Hannity]] · [[Laura Ingraham]] · [[PhRMA]] · [[JPMorgan Chase]] · [[Raytheon (RTX)]] · [[Daily Wire]] · [[Joe Rogan]]
+
+---
+
+### The Core Thesis
+
+American political media presents itself as total war between opposing worldviews. The advertising infrastructure that funds it tells a different story: the same corporations — pharmaceutical giants, insurance conglomerates, banks, tech platforms, and consumer brands — routinely buy airtime on both Fox News and MSNBC/CNN simultaneously, often within the same week. Sometimes in competing primetime hours.
+
+The political media war is a product sold to viewers. The real relationship is between advertisers and the networks they fund. When pharma companies don't care whether their psoriasis drug airs on Tucker Carlson or Rachel Maddow, and when insurance companies simultaneously rank #1 on both CNN and Fox News, the "both sides" illusion dissolves. The corporate donor class doesn't fund winners and losers in politics. It funds both sides, hedging against uncertainty and guaranteeing access regardless of electoral outcomes.
+
+This same structural logic applies to cable news: corporations don't care which political identity sells to their target demographic. They care that both sides are dependent on their advertising dollars.
+
+---
+
+### The Cable News Revenue Landscape
+
+Cable news remains a $3.6 billion segment of a $20.2 billion cable TV market in steep decline. Within that market, cable news has proven more resilient than entertainment cable — primarily because live-news viewership resists time-shifting.
+
+But the three networks are not equally valuable. Fox News captures roughly half of all cable news advertising dollars:
+
+| Year | Fox News Ad Revenue | CNN Ad Revenue | MSNBC Ad Revenue |
+|------|-------------------|----------------|-----------------|
+| 2016 | $917M | $539M | $351M |
+| 2017 | $1.008B | $615M | $467M |
+| 2018 | $855M | $596M | $572M |
+| 2019 | $847M | $574M | $620M |
+| 2020 | $1.066B | $842M | $709M |
+| 2021 | $1.038B | $679M | $595M |
+| 2022 | $1.147B | $590M | $530M |
+
+The 2020 peak — election and COVID-era news consumption — was the high-water mark. Since then, trajectories diverged sharply. CNN's total revenue fell from $2.2 billion (2021) to $1.8 billion (2023). MSNBC faced the most acute crisis: down 46% in total viewers and 64% in the 25–54 demo year-over-year by Q3 2025.
+
+Fox News reported seven consecutive quarters of advertising revenue growth as of March 2026, adding approximately 350 new national advertisers in 2025 alone. By September 2025:
+
+| Network | Monthly Ad Revenue | Fox's Share |
+|---------|-------------------|-------------|
+| Fox News | $105.5M | 51% |
+| CNN | $70.5M | 34% |
+| MSNBC | $31.5M | 15% |
+
+> [!money]
+> Fox News's structural dominance makes it unavoidable for any brand seeking scale in cable news. In April 2025, Fox News commanded 2.59 million primetime viewers versus MSNBC's 1.21 million and CNN's 519,000. For companies targeting the 55+ demographic — the heaviest prescription drug users, largest insurance purchasers, and highest-net-worth viewers — Fox News is not a choice. It's a requirement.
+
+---
+
+### Pharmaceutical Companies — The Largest Cross-Spectrum Advertisers
+
+Pharma is simultaneously the largest advertiser across all three networks and the clearest evidence of structural indifference to political identity.
+
+Pharmaceutical companies spent $10.8 billion on direct-to-consumer advertising in 2024 — rising to $7 billion on TV alone through November 2025, a 16% year-over-year increase. In Q3 2025, pharma topped all industries at 13.1% of total national TV ad spend. Drugmakers accounted for nearly 25% of all evening news ad minutes across ABC, CBS, CNN, Fox News, MSNBC, and NBC.
+
+The top five TV ad spenders in 2025 illustrate the scale:
+
+| Rank | Drug | Company | 2025 TV Spend |
+|------|------|---------|--------------|
+| 1 | Skyrizi | AbbVie | $439.6M |
+| 2 | Tremfya | Johnson & Johnson | $431M |
+| 3 | Rinvoq | AbbVie | $376.4M |
+| 4 | Wegovy | Novo Nordisk | $298.1M |
+| 5 | Dupixent | Sanofi/Regeneron | $241.3M |
+
+The single most documented case of cross-network pharmaceutical advertising comes from February 2018 (Alphonso data, published by Adweek): Otezla (Amgen's psoriasis drug) was simultaneously the #1 advertiser on CNN ($1.07M/month), the #2 advertiser on Fox News ($1.04M/month), and a top-five advertiser on MSNBC — all in the same calendar month. Otezla's placement was identical by design: the drug targets aging patients with psoriasis, a demographic that watches cable news regardless of political host.
+
+Advertising researcher T.S. Kelly at Alphonso explained: "While most assume brands regard CNN, MSNBC, and Fox News audiences differently, it is clear that all three attract consumers seeking improvements. Pharma and wellness marketers are buying ad space across all three."
+
+| Brand | Company | Fox News (Feb. 2018) | CNN (Feb. 2018) | MSNBC (Feb. 2018) |
+|-------|---------|----------------------|-----------------|-------------------|
+| **Otezla** | Amgen | **$1.04M — #2** | **$1.07M — #1** | **$318K — #4** |
+| **Humira** | AbbVie | National buy | $690K — #5 | $261K — #9 |
+| **BRILINTA** | AstraZeneca | Top 10 Hannity | — | #2 Rachel Maddow |
+| **Toujeo** | Sanofi | Top 10 Hannity | — | — |
+
+More recent iSpot.tv data shows pharma impressions surging across all networks simultaneously in February 2025 versus prior year: Fox News +63%, CNN +46.8%, MSNBC +32.3%. The Rachel Maddow Show saw pharma impressions increase elevenfold when Maddow returned to weeknights in early 2025.
+
+> [!contradiction]
+> RFK Jr. and Tucker Carlson have claimed pharma's omnipresence functions as implicit financial pressure on editorial coverage — Carlson describing it as pharma "buying off the news." The 25% of evening news minutes occupied by pharma ads is high enough that the claim carries structural plausibility. Yet pharma's indifference to which network carries its message suggests the buying power works identically on all networks. Editorial independence exists in inverse proportion to advertising dependence — and that dependence is bipartisan.
+
+---
+
+### Insurance Companies — The Most Structurally Reliable Cross-Spectrum Advertisers
+
+If pharma is the biggest by spend, insurance is the most consistent. The 2020 Kantar/CMAG data (UT Austin Center for Media Engagement) is unambiguous:
+
+| Company | CNN Rank | MSNBC Rank | Fox News Rank |
+|---------|----------|------------|---------------|
+| **Progressive** | **#1** | **#1** | **#3** |
+| **Liberty Mutual** | #8 | **#2** | #9 |
+| Allstate | — | #4 | — |
+| GEICO | #10 | #10 | (2018: #9) |
+| Chase Bank | — | #8 | (post-2024 return) |
+
+Progressive being the #1 advertiser on both CNN and MSNBC while ranking #3 on Fox News simultaneously is the most unambiguous documented case of a financial company running equivalent campaigns across the full political spectrum. In March–April 2020 alone, Progressive and Liberty Mutual together ran more than 1,700 ads on Fox News. Liberty Mutual ran more than 600 Fox News ads in two months — while simultaneously holding #2 position on MSNBC.
+
+The scale of these budgets makes ubiquity logical rather than strategic. In 2024, Progressive spent $3.5 billion on advertising (up 186.8% from 2023). Allstate spent $1.87 billion (+187.6%). GEICO approximately $1.4 billion (+67%). State Farm $1.11 billion (+11.9%). Companies with $3.5 billion annual advertising budgets do not voluntarily cede half the cable news market to competitors on political grounds.
+
+Fox Corp's COO John Nallen confirmed insurance as the #1 driver of Fox News advertising growth in Q1 FY2026, noting that "financial services leading due to insurance company demand."
+
+---
+
+### Banks and Financial Services — The Post-2024 Return
+
+Major banks retreated from Fox News between 2019 and 2024 under boycott pressure. That trend reversed sharply after November 2024.
+
+JPMorgan Chase returned to Fox News in early 2025 "for the first time in at least two years," per Financial Times reporting. Chase had been a top-8 advertiser on MSNBC as recently as January–June 2020. Its return to Fox News, combined with ongoing MSNBC and CNN presence, makes it a confirmed cross-spectrum financial advertiser. J.P. Morgan Payments became the sole presenting partner of the centrist *Acquired* business podcast in 2024, sponsoring a 6,000-person live event featuring Mark Zuckerberg.
+
+TD Ameritrade held an exclusive sponsorship arrangement with Fox Business Network (commercial-free coverage of the February 2020 market crash) while simultaneously ranking as the #6 advertiser on CNN in the first half of 2020.
+
+Cryptocurrency companies developed perhaps the most deliberately bipartisan political spending strategy in corporate America. Coinbase and other crypto firms funded **Fairshake**, a super PAC with $193 million in its 2025–2026 war chest operating two affiliate PACs: **Defend American Jobs** (Republican-oriented) and **Protect Progress** (Democratic-oriented). Fairshake spent $40.1 million defeating Democratic Senator Sherrod Brown in Ohio's 2024 race. The crypto industry constituted 48% of all corporate political contributions in the 2024 election cycle — funding both sides simultaneously at the structural level.
+
+---
+
+### Technology — Near-50/50 PAC Splits and Simultaneous Platform Deals
+
+Major technology companies maintain near-even bipartisan splits in formal corporate PAC contributions, ensuring institutional access regardless of which party controls government:
+
+| Company | % to Democrats | % to Republicans |
+|---------|----------------|-----------------|
+| Google Inc PAC | 48.69% | 50.56% |
+| Amazon PAC | 50.56% | 49.44% |
+| Microsoft PAC | 45.16% | 53.40% |
+| Meta PAC | 40.22% | 56.74% |
+| Apple (US Apple Assn) | 46.77% | 53.23% |
+
+These splits are deliberate, not accidental. They represent institutional neutrality extending to media partnerships as well.
+
+In December 2025, Meta announced AI content licensing partnerships with media outlets spanning the full political spectrum simultaneously:
+
+- **Right/conservative**: Fox News, Fox Sports, The Daily Caller, The Washington Examiner, News Corp
+- **Left/center**: CNN, USA Today, Le Monde, People Inc.
+
+The simultaneous structuring of opposing-network deals reflects identical logic to cross-network advertising: reach and access, not editorial alignment. Meta went further in 2026, announcing a $65 million bipartisan super PAC campaign to back tech-friendly state candidates — one PAC for Republicans ("Forge the Future Project") and one for Democrats ("Making Our Tomorrow").
+
+Amazon and Netflix returned to Fox News after years of absence following the November 2024 election. Amazon had previously been confirmed advertising on all six major news networks (Fox News, CNN, MSNBC, ABC, CBS, NBC), spending $1.8 million on CNN and $1.5 million on MSNBC in Q4 2020 alone. Netflix's advertising revenue exceeded $1.5 billion in 2025, with programmatic placement across all major platforms. Netflix contributed $1 million to Trump's 2025 inauguration while CEO Reed Hastings had contributed $4.9 million to Democrats in 2020 — illustrating the gap between executive ideology and corporate media behavior.
+
+Google acknowledged funding more than 170 third-party organizations across the political spectrum — simultaneously supporting Heritage Foundation, Heritage Action, and ALEC (American Legislative Exchange Council) while also funding Center for American Progress and New America Foundation (~$21 million combined). This is deliberate, not inadvertent. It represents systematic strategy to maintain influence regardless of which ideological camp holds power.
+
+---
+
+### Defense Contractors — Influence Advertising and the Undisclosed Pundit Pipeline
+
+Defense contractors operate on fundamentally different advertising logic from consumer brands. Their customers are the Pentagon, Congress, and the defense acquisition bureaucracy. Their advertising targets policymakers in Washington, DC — "influence advertising" designed to shape procurement decisions worth billions.
+
+The most concrete manifestation is DC Metro station advertising. A 2023 survey documented that government contractors dominate 100% of ad space at the Pentagon Metro station. The ten government contractors identified — Boeing, CACI, General Dynamics, Google, IBM, KPMG, L3Harris, RTX (Raytheon), SourceAmerica, McKesson — collectively received $83.1 billion from the federal government in fiscal year 2023. Pentagon station domination costs $198,000 per four-week period. A January 2026 analysis confirmed the trend has intensified, now including newer defense tech startups (Anduril, Shield AI) alongside traditional primes.
+
+For television, defense contractors run bipartisan national ad campaigns by necessity: news programming on both Fox News and CNN reaches policymakers and staffs. A contractor advertising on only one network would implicitly signal political alignment in a town where such signals carry real consequences.
+
+> [!contradiction]
+> The more significant form of defense contractor influence on news media is not advertising but the practice of hiring retired military officers as paid television analysts — who simultaneously hold lucrative positions at defense contractors, without disclosing those ties on air.
+
+David Barstow's Pulitzer Prize–winning 2008 New York Times investigation obtained 8,000 pages of Pentagon documents showing the Pentagon cultivated more than 75 retired military officers as TV "military analysts" appearing on Fox News, CNN, NBC, CBS, and ABC as part of a coordinated campaign to generate favorable Iraq War coverage. These analysts collectively represented more than 150 military contractors as lobbyists, executives, board members, or consultants. Pentagon officials internally called them "message force multipliers" and "surrogates."
+
+The most extensively documented ongoing case: **Gen. Jack Keane**, Fox News's "senior strategic analyst," sat on General Dynamics' Board of Directors from 2004 to at least 2018, earning $257,884+ annually — while making dozens of Fox News appearances advocating for increased defense spending on ships, tanks, and vehicles built by General Dynamics, without disclosure. He also served as Executive Chairman of AM General from 2016 onward (which received a $459 million contract in 2017 for Humvees for Afghanistan) while appearing on Fox News at least 33 times in the first two weeks after the Afghanistan withdrawal, without any disclosure.
+
+The pattern extends across networks. **Jeh Johnson** — former Homeland Security Secretary — appeared on CNN endorsing the ongoing Gaza war while sitting on Lockheed Martin's Board of Directors (joined December 2017, $325,000 annually), with no disclosure. **Stephen Hadley** appeared on Fox News without disclosing his Raytheon board seat (2009–2020). **Leon Panetta** called for immediate arms shipments to Ukraine on CNN without disclosing ties to Beacon Global Strategies, whose clients reportedly include Raytheon.
+
+The documented cases span Fox News, CNN, MSNBC, and NBC. The undisclosed defense contractor–media pundit relationship is bipartisan by design. Contractors have interest in policy outcomes, not political parties. Advocacy for military spending, sustained conflicts, and weapons procurement is welcome on all networks.
+
+A third channel operates through think tanks. A Quincy Institute/FAIR study of 11 months of Ukraine war coverage found that of the 15 most-cited think tanks, only Human Rights Watch does not take funding from Pentagon contractors. Media were seven times more likely to cite think tanks with defense contractor ties than those without. The Atlantic Council and CSIS — the two most-cited think tanks — both receive hundreds of thousands of dollars from Raytheon and Lockheed Martin. Not a single instance was found where a media organization disclosed that its cited source received defense industry funding.
+
+Lockheed Martin directly sponsored Politico's flagship national security newsletter (*Morning Defense/National Security Daily*) from at least March 2021 through August 2021 — with "Presented by Lockheed Martin" displayed beneath every headline and two Lockheed ads per edition. The sponsorship was quietly removed after public scrutiny.
+
+---
+
+### The Boycott Cycle — Why It Never Sticks (Except Once)
+
+Advertiser boycotts of Fox News shows have followed a consistent pattern: companies pull from a specific show; Fox News moves buys to other dayparts; fringe direct-response brands fill the vacuum; the host stays on air (or gets fired for unrelated reasons); companies quietly return — without acknowledging they left.
+
+**Glenn Beck (2009–2011):** ColorOfChange launched the first major organized campaign after Beck called Obama "a racist." More than 300 advertisers placed Beck on "Do Not Air" lists: Progressive Insurance, Procter & Gamble, Walmart, Best Buy, CVS, GEICO, Capital One, AT&T, Johnson & Johnson. The campaign cost Fox an estimated $600,000+ per week. Beck's show ended April 6, 2011. Fox's position: advertisers moved to other dayparts.
+
+**Bill O'Reilly (2017):** After the New York Times reported $13 million in sexual harassment settlements, 77 corporations pulled ads within two weeks: Mercedes-Benz, Hyundai, BMW, Pfizer, GlaxoSmithKline, Sanofi, Bayer, Allstate, T. Rowe Price. On April 7, 2017, The O'Reilly Factor ran only 4 minutes 40 seconds of paid ads — down 69% from the 14 minutes 32 seconds March average. The show had generated $178 million in annual advertising revenue in 2015. O'Reilly was fired April 19, 2017 — the only Fox News primetime host definitively fired primarily due to advertiser pressure. This show was cancelled rather than surviving the boycott.
+
+**Sean Hannity (2017):** The clearest documented case of advertiser pressure shaping editorial content. When Media Matters published Hannity's advertiser list on May 23, 2017 amid his Seth Rich conspiracy coverage, Fox News programming president Suzanne Scott met with Hannity and "encouraged him to stop pushing" the story. That same night, Hannity announced he would drop Seth Rich "out of respect for the family." Fox News retracted its related article the same day. Cars.com, Peloton, Leesa Sleep, Casper, USAA, and Ring pulled ads.
+
+**Laura Ingraham (2018–2019):** After mocking Parkland survivor David Hogg, Ingraham lost 29 confirmed advertisers: Allstate, AT&T, Hulu, IBM, Nestlé, Sleep Number, Wayfair, TripAdvisor. Standard Media Index data showed Ingraham's show lost approximately $16 million in 2018 versus prior year — down 56% in April alone. A year later, she had recovered only about 60% of pre-boycott advertisers, with the mix shifting toward direct-response brands.
+
+**Tucker Carlson (2018–2023):** Tucker Carlson Tonight experienced four distinct boycott waves over five years, losing more than 70 advertisers cumulatively: IHOP, SmileDirectClub, Pfizer, TD Ameritrade, Samsung, T-Mobile, Disney, Papa John's. Q4 2018 ad revenue fell 45% year-over-year to $13.6 million. By Q2 2021, Fox News house ads and Fox Nation promotions accounted for nearly 24% of ad impressions on Tucker Carlson Tonight, with MyPillow adding another 11%. Carlson was fired April 24, 2023. After his departure, blue-chip brands — Procter & Gamble (Gillette Venus, Secret deodorant) and Novo Nordisk (Ozempic) — returned to the 8PM slot.
+
+The X/Twitter collapse is the exception that proves the rule. Twitter's annual global advertising revenue fell from $4.5 billion (2022) to approximately $2.0 billion (2024) — a loss of more than $2.5 billion annually. Over 500 advertisers left. Major brands (IBM, Apple, Disney, Warner Bros. Discovery, Comcast, Amazon, Walmart, Netflix) paused after Elon Musk's agreement with antisemitic content in November 2023. Musk acknowledged at the NYT DealBook Summit that "this advertising boycott is going to kill the company." By early 2026, X's advertising boss claimed 97 of the top 100 advertisers had returned, though at roughly 50% of 2022 spending levels.
+
+| Show / Platform | Approximate Revenue Loss | Outcome |
+|----------------|--------------------------|---------|
+| Glenn Beck | $600K+/week peak | Show cancelled 2011 |
+| Bill O'Reilly | $178M annual revenue eliminated | Host fired April 2017 |
+| Sean Hannity | Limited (show survived) | Story dropped same night |
+| Laura Ingraham | ~$16M in 2018 | Show survived; recovered ~60% by 2019 |
+| Tucker Carlson | 45% Q4 2018 drop | Show survived 5 more years; host fired April 2023 |
+| X/Twitter | ~$2.5B+ annual loss | Platform revenue still 55% below 2022 baseline |
+
+---
+
+### Timeline
+
+| Date | Event | Key Players | Amount | Significance |
+|------|-------|-----------|--------|--------------|
+| Feb 2009 | Glenn Beck "racist" comment | ColorOfChange, Beck, Fox News | — | First major organized advertiser campaign |
+| April 2011 | Glenn Beck show cancelled | Fox News, 300+ advertisers | $600K+/week | Boycott achieves removal of specific host |
+| April 2017 | O'Reilly Factor cancelled | New York Times, 77 advertisers, Fox News | $13M settlements | Only host fired primarily due to advertiser pressure; show cancelled |
+| May 2017 | Hannity drops Seth Rich story | Media Matters, Hannity, Fox programming | Editorial change | Same-day shift after advertiser list publication |
+| Sept 2018 | Ingraham loses 29 advertisers | Laura Ingraham, advertisers, boycott groups | $16M annual loss | Largest advertiser loss among surviving hosts |
+| Feb 2018 | Otezla #1 CNN / #2 Fox News simultaneous | Amgen, pharma, all networks | $1.07M / $1.04M | Evidence of pharmaceutical indifference to network identity |
+| H1 2020 | Progressive #1 both CNN and MSNBC / #3 Fox | Progressive, insurance, cable news | — | Most unambiguous cross-spectrum advertiser |
+| April 2023 | Tucker Carlson fired | Fox News, boycott groups, advertisers | 45% Q4 2018 decline | Host departure follows multi-year boycott wave |
+| Nov 2024 | JPMorgan, Amazon, Netflix return to Fox News | Blue-chip brands, Fox News | $1.2–1.4B annual revenue | Post-election shift in political risk calculation |
+| Dec 2025 | Meta announces simultaneous Fox/CNN AI deals | Meta, Fox News, CNN, News Corp | Undisclosed | Explicit simultaneous right/left media deals |
+| March 2026 | Fox News reports 7 consecutive quarters ad growth | Fox Corp, 350+ new advertisers | $345M Q1 record | Post-2024 return of blue-chip brands produces record revenue |
+
+---
+
+### Class Analysis
+
+The "Both-Sides Illusion" applies to media funding with the same force as to political funding.
+
+Corporations don't choose sides in the political media war — they fund both sides simultaneously and let voters and audiences sort out the winner. This structural relationship produces three observable outcomes:
+
+**First: Access regardless of electoral outcome.** A pharmaceutical company that advertises only on CNN signals dependence on Democratic administrations. A company that advertises only on Fox News signals dependence on Republican administrations. Companies with multi-billion-dollar revenue streams cannot afford that kind of political directional bet. They advertise on both networks, guaranteeing they maintain relationships with the political coalition in power at any given moment.
+
+**Second: Editorial pressure exerted equally.** When pharma companies occupy 25% of evening news advertising minutes across all networks, they exercise financial pressure on all networks identically. When insurance companies rank in the top 3 across all networks simultaneously, their advertising power buys silence on insurance regulation everywhere. Hannity's editorial shift on Seth Rich proves that advertiser pressure can move editorial decisions. The pattern suggests identical pressure operates on all networks, regardless of political identity.
+
+**Third: Political risk calculation follows electoral outcome.** Companies retreated from Fox News between 2018 and 2023 under boycott pressure and progressive social media campaigns. After November 2024, that calculation inverted: companies visible avoiding Fox News risked being seen as politically hostile to the political coalition controlling the White House, Congress, and regulatory agencies. The result was seven consecutive quarters of record Fox News advertising revenue driven primarily by blue-chip brands returning. Political risk flows from actual power, not ideology.
+
+> [!money]
+> The "buying silence" model works at scale. Pharmaceutical companies spend $7 billion annually on television. Insurance companies spend $10+ billion combined. Banks, tech, defense contractors add billions more. No news network can maintain editorial independence from advertising revenue at this magnitude. The political media war on television is funded identically on both sides — making the war itself the product, not the outcome.
+
+---
+
+### Sources
+
+- [Adweek: "Here Are the Biggest Advertisers on Fox News, CNN, and MSNBC"](https://www.adweek.com/tvnewser/here-are-the-biggest-advertisers-on-fox-news-cnn-and-msnbc/) (Tier 2)
+- [University of Texas Center for Media Engagement: "Top Advertisers on Cable and Nightly Network News Programs"](https://mediaengagement.org/wp-content/uploads/2020/12/Top-Advertisers-on-Cable-and-Nightly-Network-News-Programs-1.pdf) (Tier 2)
+- [MM+M: "Pharma TV Ad Spend Topped $7B in 2025"](https://www.mmm-online.com/news/pharma-tv-ad-spend-topped-7b-in-2025/) (Tier 2)
+- [iSpot.tv (via Wisconsin Watch): "Drug Companies Advertising: 25% of Evening News Ad Minutes"](https://wisconsinwatch.org/2025/07/drug-companies-advertising-consumer-ads-pharmaceutical-news/) (Tier 2)
+- [The Daily Upside: "Proposed Crackdown on Pharma Ads Leaves Cable TV Fearing $10B Withdrawal"](https://www.thedailyupside.com/industries/healthcare/proposed-crackdown-on-pharma-ads-leaves-cable-tv-fearing-10b-withdrawal/) (Tier 2)
+- [S&P Global Market Intelligence: "Progressive's Advertising Expenditure Hits Record High in 2024"](https://www.spglobal.com/market-intelligence/en/news-insights/articles/2025/3/progressives-advertising-expenditure-hits-record-high-in-2024-88020488) (Tier 2)
+- [Mother Jones: "Same Advertisers Bankrolling Fox's Bad Climate Coverage Are There for COVID-19"](https://www.motherjones.com/media/2020/05/the-same-advertisers-that-bankroll-foxs-bad-climate-coverage-are-there-for-covid-19/) (Tier 2)
+- [TheDesk: "Fox News Media Record Ad Revenue Growth"](https://thedesk.net/2026/03/fox-news-media-record-ad-revenue-growth/) (Tier 2)
+- [Forbes: "Fox News Reports Its Highest First Quarter Ad Revenue in History"](https://www.forbes.com/sites/markjoyella/2025/10/30/fox-news-reports-its-highest-first-quarter-ad-revenue-in-history/) (Tier 2)
+- [Barrett Media: "Fox News, CNN, MSNBC Earn More Than $200 Million in September Ad Revenue"](https://barrettmedia.com/2025/10/16/fox-news-cnn-msnbc-earn-more-than-200-million-in-september-ad-revenue-new-data-shows/) (Tier 2)
+- [OpenSecrets: Google Inc PAC Contributions Data](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/pac-to-pac/2024) (Tier 1)
+- [Meta Newsroom: "Bringing More Real-Time News and Content to Meta AI"](https://about.fb.com/news/2025/12/bringing-more-real-time-news-and-content-to-meta-ai/) (Tier 1)
+- [The Verge: "Meta Announces AI Licensing Deals with Fox News, CNN, and Others"](https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today) (Tier 2)
+- [Politico: "Meta Drops $65 Million Into Super PACs to Boost Tech-Friendly State Candidates"](https://www.politico.com/news/2026/02/02/meta-drops-65-million-into-super-pacs-to-boost-tech-friendly-state-candidates-00759567) (Tier 2)
+- [Business Insider: "Big Advertisers Embrace Conservative Media"](https://www.businessinsider.com/big-advertisers-embrace-conservative-media-fox-news-daily-wire-rumble-2025-3) (Tier 2)
+- [Mediaite: "Fox News Becomes Haven for Blue-Chip Advertisers Amid Post-Election Ratings Surge"](https://www.mediaite.com/media/news/fox-news-becomes-a-haven-for-blue-chip-advertisers-amid-post-election-ratings-surge/) (Tier 2)
+- [New York Times: "Pentagon's Generals in the Green Room" (Pulitzer Prize investigation)](https://www.nytimes.com/2008/04/20/us/20generals.html) (Tier 1)
+- [Media Matters: "Fox Hides Frequent Military Spending Advocate Defense Contractor Director"](https://www.mediamatters.org/fox-news/fox-hides-frequent-military-spending-advocate-defense-contractor-director) (Tier 2)
+- [The Daily Beast: "Fox News Hasn't Disclosed That Its Go-To Afghanistan Expert Jack Keane Profits from War"](https://www.thedailybeast.com/fox-news-hasnt-disclosed-that-its-go-to-afghanistan-expert-jack-keane-profits-from-war) (Tier 2)
+- [Truthout: "These Experts Cheer On Gaza Siege Without Disclosing Ties to War Profiteering"](https://truthout.org/articles/these-experts-cheer-on-gaza-siege-without-disclosing-ties-to-war-profiteering/) (Tier 2)
+- [Salon: "How CNN and MSNBC Pundits Profit from Undisclosed Ties to Defense Contractors"](https://www.salon.com/2022/04/13/new-report-details-how-cnn-and-msnbc-pundits-profit-from-undisclosed-ties-to-defense-contractors_partner/) (Tier 2)
+- [FAIR: "Report Shows How Military-Industrial Complex Sets Media Narrative on Ukraine"](https://fair.org/home/report-shows-how-military-industrial-complex-sets-media-narrative-on-ukraine/) (Tier 2)
+- [Responsible Statecraft: "Weapons Firms Have Ties to Industry-Friendly Think Tank"](https://responsiblestatecraft.org/2023/07/06/weapons-firms-have-ties-to-industry-friendly-think-tank-report/) (Tier 2)
+- [Jacobin: "Pentagon Metro Station Advertising"](https://jacobin.com/2023/10/rtx-raytheon-lockheed-dc-metro-advertising/) (Tier 2)
+- [The Nation: "Government Contractors Dominate DC Advertising"](https://www.thenation.com/article/politics/dc-ads-defense/) (Tier 2)
+- [FinTech Weekly: "Fairshake Crypto Super PAC War Chest"](https://www.fintechweekly.com/news/clarity-act-senate-campaign-finance-fairshake-crypto-pac-fec-data-2026) (Tier 2)
+- [Wired: "Crypto Political Donations Super PACs Campaigns"](https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/) (Tier 2)
+- [Reuters: "Glenn Beck and Fox News End Daily TV Show"](https://www.reuters.com/article/lifestyle/glenn-beck-and-fox-news-end-daily-tv-show-idUSTRE7357PL/) (Tier 2)
+- [TIME: "Bill O'Reilly Advertisers Withdrawals"](https://time.com/4730099/bill-oreilly-advertisers-commercials-sexual-harassment/) (Tier 2)
+- [TheWrap: "Tucker Carlson and Laura Ingraham Boycotts Have Cost Millions"](https://www.thewrap.com/tucker-carlson-and-laura-ingraham-boycotts-have-cost-millions-in-ad-losses-data-shows-exclusive/) (Tier 2)
+- [Los Angeles Times: "Fox News Advertisers Exodus"](https://www.latimes.com/business/hollywood/la-fi-ct-fox-news-advertisers-carlson-20190313-story.html) (Tier 2)
+- [Variety: "Advertisers Return to Tucker Carlson's 8PM Fox News Slot After His Departure"](https://variety.com/2023/tv/news/tucker-carlson-fox-news-advertisers-return-1235606123/) (Tier 2)
+- [New York Times: "X Advertisers Pause Over Elon Musk Antisemitic Post"](https://www.nytimes.com/2023/11/24/business/x-elon-musk-advertisers.html) (Tier 1)
+- [Fortune: "X's UK Revenue Decline"](https://fortune.com/2026/01/27/x-uk-twitter-financial-filings-revenue-decline-58-percent/) (Tier 2)
+- [Deadline: "Fox News Advertisers Post-Election Return"](https://deadline.com/2025/02/donald-trump-fox-news-advertisers-1236301121/) (Tier 2)
+
+content-readiness:: developed

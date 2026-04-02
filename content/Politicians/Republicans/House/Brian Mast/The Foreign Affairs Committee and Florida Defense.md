@@ -1,0 +1,41 @@
+---
+title: "The Foreign Affairs Committee and Florida Defense"
+type: sub-note
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: "[[_Brian Mast Master Profile]]"
+---
+
+#mast #florida #foreign-affairs #defense #israel #veterans #wounded-warrior
+
+related: [[_Brian Mast Master Profile]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[Lockheed Martin]]
+
+donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[Lockheed Martin]]
+
+---
+
+### The Wounded Warrior and Foreign Affairs Chairman
+
+Brian Mast chairs the House Foreign Affairs Committee. Mast is a combat-wounded veteran who lost both legs to an IED in Afghanistan while serving as an Army bomb disposal technician. His military sacrifice gives him unassailable credentials on defense and foreign policy — a biographical shield that insulates his policy positions from the scrutiny applied to politicians without military service.
+
+Mast represents Florida's 21st District — the Treasure Coast (Stuart, Port St. Lucie, Jupiter). His district's economy centers on real estate, tourism, agriculture (citrus, sugar), and a significant retiree/veteran population. The Foreign Affairs Committee jurisdiction — foreign aid, arms sales, sanctions, diplomatic operations — connects minimally to his district's economic base but maximally to the defense and pro-Israel donor networks that fund committee members.
+
+---
+
+### The AIPAC Alignment
+
+Mast is one of AIPAC's most reliable allies in the House. He volunteered with the Israel Defense Forces (IDF) after his military service — an unusual biographical detail that signals deep personal commitment to Israel beyond standard political alignment. His Foreign Affairs chairmanship gives him direct jurisdiction over Israel-related legislation: military aid authorization, Iron Dome funding, and sanctions against Israel's adversaries.
+
+> [!money]
+> Mast's Foreign Affairs chairmanship creates a fundraising pipeline from defense contractors (arms sales authorization), pro-Israel organizations (AIPAC, which bundled $30+ million for congressional candidates in the 2024 cycle), and foreign policy think tanks. His personal military sacrifice provides a biographical shield that makes questioning his foreign policy positions — particularly on Israel — politically costly for opponents. The moral authority of combat wounds is converted into policy authority on foreign affairs.
+
+---
+
+### Sources
+
+- [Congress.gov: Brian Mast member profile](https://www.congress.gov/member/brian-mast/M001199) (Tier 1)
+- [OpenSecrets: Brian Mast campaign finance summary](https://www.opensecrets.org/members-of-congress/brian-mast/summary?cid=N00037269) (Tier 1)
+- [Ballotpedia: Brian Mast](https://ballotpedia.org/Brian_Mast) (Tier 3)
+
+content-readiness:: ready

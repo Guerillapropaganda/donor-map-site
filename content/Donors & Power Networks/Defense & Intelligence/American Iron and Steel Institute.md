@@ -1,0 +1,118 @@
+---
+title: "American Iron and Steel Institute"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+
+#donor #steel #tariffs #lobbying #trade-policy #class-analysis #follow-the-money #revolving-door #national-security
+
+related: [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] [[Nucor Corporation]] [[_Donald Trump Master Profile|Trump]]
+
+---
+
+### Who They Are
+
+The American Iron and Steel Institute (AISI) is the U.S. steel industry's primary trade association and lobbying arm, founded in 1855 as the American Iron Association and reorganized under its current name in 1908 under Judge Elbert H. Gary of U.S. Steel Corporation. Its membership comprises integrated and electric arc furnace steelmakers — Nucor Corporation (largest U.S. producer), Cleveland-Cliffs (whose CEO Lourenco Goncalves serves as 2026 AISI Board Chairman), Steel Dynamics, ArcelorMittal, and North American Stainless, among others.
+
+AISI's structural function is to convert steelmaker profit interests into national security language. The organization's signature achievement — the Section 232 steel tariffs of 2018 — was engineered through a Commerce Department investigation that framed import competition as a threat to national defense, bypassing the normal trade remedy process and enabling blanket tariff protection.
+
+**Lobbying scale:** The steel industry spent $12.1 million on lobbying in 2018 (peak year coinciding with Section 232 implementation), declining to $8.9 million in 2020 and $6.9 million through Q3 2021 (rising again as the infrastructure bill advanced). AISI's own PAC is modest ($79,500 raised in 2017-2018; $40,500 in 2021-2022), but the institute's influence operates primarily through member company PACs — particularly [[Nucor Corporation|Nucor]]'s PAC ($752,997 raised in 2023-2024) and Cleveland-Cliffs' lobbying apparatus.
+
+---
+
+### What They Want
+
+One thing: tariff protection from foreign steel competition, maintained permanently and framed as national security rather than industrial subsidy.
+
+- **Preserve Section 232 tariffs** (25% on steel imports, in place since March 2018) — AISI published "Five Reasons to Continue the Section 232 Tariffs" in 2025
+- **Expand Buy America provisions** — require federal infrastructure spending to use domestic steel
+- **Block carbon regulation** — oppose EPA emissions standards while claiming U.S. steel is "60% cleaner" than global average
+- **Maintain anti-dumping duties** — layer additional protections on top of Section 232
+- **Control the narrative** — frame all trade protection as "national security," never as corporate subsidy
+
+---
+
+### Who They Fund
+
+AISI PAC spending is modest, but the institute's political influence flows through member company PACs and coordinated lobbying:
+
+| Entity | 2023-2024 Raised | Focus |
+|--------|-----------------|-------|
+| AISI PAC | ~$40,500 | Ways & Means, Finance, Commerce committees |
+| Nucor Corp PAC | $752,997 | Bipartisan tariff supporters, infrastructure backers |
+| Steel industry total lobbying | $6.9M (Q1-Q3 2021) | Buy America, Section 232 defense |
+
+The PAC targets members of the committees that control trade policy: Senate Finance, House Ways & Means, and Senate/House Commerce committees.
+
+---
+
+### What They've Gotten
+
+### The Section 232 Timeline — From Investigation to Permanent Protection:
+| Date | Event | Source |
+|------|-------|--------|
+| Apr 19, 2017 | Commerce Department initiates Section 232 investigation at Trump's direction | Commerce.gov |
+| Jan 2018 | Commerce Secretary Wilbur Ross submits report finding imports "threaten national security" | Commerce.gov |
+| Feb 16, 2018 | Ross publicly releases Section 232 reports recommending 24% global tariff or alternatives | Commerce.gov |
+| Mar 8, 2018 | Trump imposes 25% global steel tariff and 10% aluminum tariff via presidential proclamation | White House |
+| 2018 | Nucor posts record earnings — 79% profit increase, $3.5B steel mills segment earnings | SEC/Nucor 10-K |
+| Nov 2021 | Infrastructure bill passes with expanded Buy America provisions — Nucor stock jumps ~10% | Congress.gov |
+| 2025 | AISI publishes "Five Reasons to Continue Section 232 Tariffs" — protection now treated as permanent | AISI |
+
+> [!money]
+> The steel industry spent $12.1 million on lobbying in 2018 alone to secure and defend Section 232 tariffs. Nucor's 2018 earnings surged 79% to record levels — average selling prices rose 21% with 5.3% more steel shipped. The tariff created a permanent price floor that transferred billions annually from downstream industries (construction, auto, appliances) to steel producers. Buy America provisions in the $1.2 trillion infrastructure bill guaranteed additional federal spending flowing to domestic producers. The lobbying-to-profit ratio is orders of magnitude in the industry's favor.
+
+> [!contradiction]
+> AISI framed Section 232 as necessary to counter Chinese steel "dumping" that threatened national security. In reality, China supplied just 3.35% of U.S. steel imports by value in 2017 — and less than 1% by volume by 2024. The top actual steel importers to the U.S. are Canada, Japan, South Korea, Mexico, and Taiwan — all military allies. The "national security" tariff was applied globally, hitting allies and adversaries alike, because the actual purpose was never national security. It was blanket protection from all competition, branded as patriotism.
+
+**The downstream cost:** Federal Reserve economists found 75,000 fewer manufacturing jobs by mid-2019 attributable to steel/aluminum tariffs. Trade Partnership projected 146,000 net job losses economy-wide. Washing machine prices rose $86 per unit (12%). Ford estimated $1 billion in cost impacts in 2018 alone. The tariff transferred wealth from downstream manufacturers and consumers to upstream steel producers.
+
+---
+
+### Class Analysis — National Security as Corporate Subsidy
+
+The Section 232 mechanism reveals how industrial subsidy operates in American politics: you can't pass a bill giving steel companies billions in price protection, but you can have the Commerce Secretary declare imports a national security threat and impose tariffs by presidential proclamation — bypassing Congress, the WTO, and public debate.
+
+### The Wilbur Ross revolving door:
+Ross's personal history with steel is the vault's cleanest revolving door case. In 2002, he agreed to buy bankrupt steel assets for $325 million. Within weeks, George W. Bush imposed 30% steel tariffs. By 2005, Ross sold International Steel Group to Mittal Steel for $4.5 billion — a $260 million personal profit on a $3 million investment. He then became Trump's Commerce Secretary and ordered the Section 232 investigation that recommended the tariffs. The Office of Government Ethics refused to certify Ross's 2018 financial disclosure due to omissions and misstatements. American Oversight obtained emails showing USTR officials connected to Ross's former law firm (Skadden Arps) provided insider access to steel industry lobbyists.
+
+### Who benefits:
+- **Steel producers:** Nucor, Cleveland-Cliffs, Steel Dynamics, U.S. Steel — 21% average price increases, record earnings, stock appreciation, guaranteed federal contracts through Buy America
+- **Steel executives:** Compensation tied to tariff-driven profits. Nucor CEO Ferriola publicly credited tariffs for enabling a new billion-dollar production facility
+- **AISI:** Policy victory validates the organization's existence and lobbying model
+
+### Who pays:
+- **Downstream manufacturers:** Construction (47% of steel consumption), auto (25%), appliances, machinery — $3.4 billion annual production decrease (2018-2021)
+- **Manufacturing workers:** 75,000 jobs lost — more jobs destroyed downstream than exist in the entire steel production industry
+- **Consumers:** Higher prices on cars, appliances, housing, infrastructure. The tariff is a regressive consumption tax disguised as trade policy
+- **U.S. allies:** Canada, Japan, South Korea, EU — tariffed despite being security partners, damaging alliances that Section 232 supposedly protects
+
+The "national security" frame is the mechanism that makes the transfer invisible. No one votes against national security. The result: a permanent industrial subsidy that cannot be debated, reviewed, or repealed through normal legislative process.
+
+---
+
+### Sources
+
+- [Commerce.gov: Section 232 Steel Investigation and Reports](https://www.commerce.gov/issues/trade-enforcement/section-232-steel) (Tier 1)
+- [Commerce.gov: Secretary Ross Releases Steel and Aluminum 232 Reports](https://www.commerce.gov/news/press-releases/2018/02/secretary-ross-releases-steel-and-aluminum-232-reports-coordination) (Tier 1)
+- [OpenSecrets: AISI PAC Profile 2022](https://www.opensecrets.org/political-action-committees-pacs/american-iron-steel-institute/C00295097/summary/2022) (Tier 1)
+- [FEC: Nucor Corporation PAC (C00379628)](https://www.fec.gov/data/committee/C00379628/) (Tier 1)
+- [USITC: Tariff Effects on U.S. Industries](https://www.usitc.gov/press_room/news_release/2023/er0315_63679.htm) (Tier 1)
+- [Tax Foundation: Section 232 Tariffs Harmed the Economy](https://taxfoundation.org/research/all/federal/section-232-tariffs-steel-aluminum-2024/) (Tier 2)
+- [PBS News: Steel Tariffs Hurt Manufacturers Downstream](https://www.pbs.org/newshour/economy/steel-tariffs-hurt-manufacturers-downstream-data-shows) (Tier 2)
+- [The Intercept: Before Pushing Tariffs, Wilbur Ross Had Messy History With U.S. Steel Industry](https://theintercept.com/2018/03/05/steel-tariffs-wilbur-ross-pollution/) (Tier 2)
+- [American Oversight: Insider Access for Steel Lobbyists Tied to Lighthizer](https://americanoversight.org/emails-show-insider-access-for-steel-industry-lobbyists-tied-to-lighthizer/) (Tier 2)
+- [CNN: Commerce IG Probe Requested for Wilbur Ross Conflicts](https://www.cnn.com/2018/08/13/politics/wilbur-ross-clc-ig-probe-commerce) (Tier 2)
+- [OpenSecrets: Steel Producers Spend Big on Lobbying](https://www.opensecrets.org/news/2021/11/steel-producers-eyeing-new-infrastructure-investment-spend-big-on-lobbying/) (Tier 2)
+- [Econofact: Steel Tariffs and U.S. Jobs Revisited](https://econofact.org/steel-tariffs-and-u-s-jobs-revisited) (Tier 2)
+- [PolitiFact: How Much Steel Does the U.S. Import from China?](https://www.politifact.com/factchecks/2018/mar/08/angus-king/does-much-steel-does-us-import-china/) (Tier 2)
+- [AISI: Five Reasons to Continue Section 232 Tariffs](https://www.steel.org/2025/07/five-reasons-to-continue-the-section-232-tariffs/) (Tier 3)
+- [Seven Pillars Institute: Wilbur Ross Conflicts of Interest](https://sevenpillarsinstitute.org/conflicts-of-interest-wilbur-ross/) (Tier 3)
+
+---
+
+content-readiness:: ready

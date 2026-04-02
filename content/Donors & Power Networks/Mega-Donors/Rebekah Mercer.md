@@ -1,0 +1,65 @@
+---
+title: "Rebekah Mercer"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-23
+source-tier: 2
+parent: null
+---
+
+
+#rebekah-mercer #mega-donor #trump-transition #heritage-foundation #project-2025 #cambridge-analytica #class-analysis
+
+related: [[Robert Mercer]] · [[_Donald Trump Master Profile]] · [[Leonard Leo]]
+
+---
+
+### Who They Are
+
+[[Rebekah Mercer]]. Political operative and heir to the [[Robert Mercer|Robert Mercer]] hedge fund fortune. Director of the Mercer Family Foundation ($88.4M in assets, 2023). Heritage Foundation board member. Heritage Action for America trustee. Chairwoman of the Government Accountability Institute (Peter Schweizer's "Clinton Cash" operation). Co-founder of Reclaim New York (with [[_Steve Bannon Master Profile|Steve Bannon]]). Member of Trump's 16-person transition executive committee (2016). Board member of Emerdata — the successor entity to [[Cambridge Analytica and the Data Weaponization of Elections|Cambridge Analytica]]. Co-founder of 1789 Capital — led $15M seed round for Tucker Carlson's media company. Former Parler investor. If [[Robert Mercer]] built the fortune, [[Rebekah Mercer]] weaponized it. She personally hired Bannon and Conway for the Trump campaign, directed cabinet selection from the transition team, and now manages the family's shift from direct candidate funding to institutional capture — Heritage board, Project 2025 funding, [[DonorsTrust|DonorsTrust]] dark money ($31M in 2022-2023).
+
+---
+
+### What They Want
+
+Long-term institutional control over the conservative movement's infrastructure. [[Rebekah Mercer]]'s evolution from 2016 to 2024 reveals the strategy: less direct candidate spending (2016 peak: $22.5M), more institutional investment (Heritage board, Project 2025 entities, [[DonorsTrust|DonorsTrust]] conduit). The shift recognizes that candidates are temporary but institutions are permanent. Heritage Foundation drafts the policies. Project 2025 staffs the government. [[DonorsTrust|DonorsTrust]] anonymizes the funding. [[Rebekah Mercer]] sits on the boards that control all three.
+
+---
+
+### Who They Fund
+
+| Date | Event | Amount | Source |
+|------|-------|--------|--------|
+| 2013-01-01 | Rebekah Mercer co-founds Reclaim New York with Steve Bannon | — | NPR |
+| 2018-03-01 | Mercer joins board of Emerdata (Cambridge Analytica successor) | — | NBC News |
+| 2021-01-01 | Mercer becomes Chairwoman of Government Accountability Institute (Schweizer's outfit) | — | Ballotpedia |
+| 2021-01-01 | Mercer Foundation directs $1.6M to Project 2025 entities (2021-2022) | $1.6M | ProPublica |
+| 2022-01-01 | Mercer directs $31M to DonorsTrust (dark money conduit) (2022-2023 total) | $31M | OpenSecrets |
+| 2022-01-01 | Rebekah Mercer joins Heritage Foundation board; begins providing "millions in foundation grants" | (millions) | Heritage Foundation |
+| 2022-01-01 | Rebekah becomes trustee of Heritage Action for America | — | Heritage Foundation |
+| 2024-01-01 | Mercer co-leads 1789 Capital seed funding for Tucker Carlson media company | $15M | Fortune |
+| 2024-04-01 | Mercer co-chairs Trump 47 Committee Palm Beach fundraising dinner | — | Trump campaign |
+
+---
+
+### What They've Gotten
+
+**The Transition Power:** [[Rebekah Mercer]]'s seat on Trump's 16-person transition executive committee gave her direct influence over cabinet selection. She lobbied against "too liberal" nominees, pushed for Jeff Sessions (AG), Michael Flynn (NSA), and against Mitt Romney (State). The transition committee is the most consequential personnel decision point in American government — 4,000+ appointments flow through it. The donor who funded the campaign controlled who governed.
+
+**The Project 2025 Pipeline:** Mercer Foundation funding to Heritage ($1.6M to Project 2025 entities, 2021-2022) plus Rebekah's Heritage board position created a direct line from donor to policy blueprint. Project 2025's 920-page "Mandate for Leadership" became the operational template for Trump's second term. [[Rebekah Mercer]] funded the blueprint, governed the institution that wrote it, and had transition-team experience to ensure it was implemented.
+
+> [!money]
+> [[Rebekah Mercer]]'s evolution represents the donor class learning from 2016. Direct candidate funding is volatile — candidates lose, scandals erupt, Bannon gets fired. Institutional capture is permanent. Heritage Foundation will outlast every candidate it supports. DonorsTrust anonymizes the money. Project 2025 pre-writes the policies. The board seats ensure the institutions serve the donors. [[Rebekah Mercer]] isn't donating to politics. She's governing through institutions she controls — without ever appearing on a ballot.
+
+---
+
+### Sources
+
+- [CNBC: Mercers weigh 2024 Trump support](https://www.cnbc.com/2024/03/15/rebekah-mercer-trump.html) (Tier 2)
+- [Ballotpedia: Rebekah Mercer](https://ballotpedia.org/Rebekah_Mercer) (Tier 2)
+- [Fortune: Women on Trump transition team](https://fortune.com/2016/11/17/trump-transition-women/) (Tier 2)
+- [NPR: Inside the family funding Bannon's plan](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years) (Tier 2)
+- [CNBC: Mercer family conservative causes](https://www.cnbc.com/2020/11/24/mercer-family-dramatically-scaled-back-giving-to-conservative-causes-heading-into-2020.html) (Tier 2)
+
+research-status:: ready — Heritage board, Project 2025 $1.6M, DonorsTrust $31M, transition committee, Tucker Carlson $15M, GAI chairwoman, institutional capture strategy. 5 sources, Tier 2. All ### headers. Promoted Session 38m.
+content-readiness:: ready

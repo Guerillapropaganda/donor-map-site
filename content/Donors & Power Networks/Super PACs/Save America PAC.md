@@ -1,0 +1,213 @@
+---
+title: "Save America PAC"
+type: pac
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+
+#donor #pac #leadership-pac #trump #dark-money #class-analysis #follow-the-money #pardons #slush-fund #january-6 #legal-defense
+
+related: [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[MAGA Inc]] · [[_Donald Trump Master Profile]] · [[Trump Victory]] · [[Trump Crypto - The President as Personal Profiteer]]
+
+---
+
+### Who They Are
+
+Save America is Donald Trump's leadership PAC, established November 9, 2020 — two days after the election he lost. FEC ID: C00762591. Treasurer: Bradley T. Crate. Legal structure: leadership PAC (not a super PAC), meaning it faces contribution limits but has broad spending discretion. Registered as a Quarterly PAC, Qualified Leadership PAC.
+
+The defining characteristic: Save America raised $250+ million on the claim that donations would fund an "Official Election Defense Fund" to fight the 2020 results. That fund did not exist. The January 6 Committee documented that Trump and his campaign knew the fraud claims were false while continuing to fundraise on them — sending 25+ fundraising emails per day during the post-election period. The money went to Save America's general account, where it was spent primarily on Trump's personal legal defense, staff, events, and transfers to other Trump entities.
+
+Save America is not a political action committee in any meaningful sense. It is a personal financial instrument for Donald Trump, structured as a PAC for legal and tax purposes, funded by small-dollar donors who believed they were defending democracy, and spent overwhelmingly on the legal costs of the man who attacked it.
+
+### PAC ecosystem:
+- **Save America** (leadership PAC): Main vehicle. Collects small-dollar and large-dollar donations. Primary spender on legal fees.
+- **[[MAGA Inc]]** (super PAC, est. September 2022): Save America transferred $20 million to MAGA Inc. in October 2022, then clawed back $60 million in monthly installments — a maneuver that drew an FEC complaint.
+- **Trump 47 Committee**: Joint fundraising vehicle with the RNC for the 2024 campaign. Donations flow to the campaign first, then overflow to Save America once donors hit individual contribution limits.
+- **[[Trump Victory]]**: Joint fundraising with state parties and RNC.
+
+[Source: [FEC: Save America Committee Overview](https://www.fec.gov/data/committee/C00762591/) (Tier 1); [OpenSecrets: Save America PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/save-america/C00762591/summary/2024) (Tier 1)]
+
+---
+
+### What They Want
+
+**Legal defense funding.** Save America's primary function since 2022 has been paying Donald Trump's personal legal bills — criminal defense in four indictments (two federal, two state), civil fraud trials, defamation cases, and related litigation. The PAC spent $50+ million on legal fees in 2023 alone, consuming the vast majority of its receipts.
+
+**Pardon-economy infrastructure.** Save America and its affiliated PACs (particularly MAGA Inc.) serve as the financial gateway to presidential clemency. Donors who give to Trump-affiliated PACs and later receive pardons create a documented pattern of pay-for-clemency — one that operates in a legal gray zone because leadership PAC contributions are not technically quid pro quo.
+
+**Donor list maintenance.** The 15,713 large-dollar donors ($200+) in the 2023–2024 cycle and the much larger small-dollar base represent Trump's most valuable political asset: a direct-solicitation donor file that can be monetized for any future campaign, legal defense, or personal enrichment purpose. The PAC structure keeps this list under Trump's personal control.
+
+---
+
+### The "Big Lie" Fundraising Machine
+
+> [!money] $250 Million on a Fund That Didn't Exist
+> Between November 3, 2020, and January 6, 2021, Trump's campaign and PAC apparatus raised approximately $250 million by telling donors their money would go to an "Official Election Defense Fund" to fight the 2020 results. The January 6 Committee found that this fund did not exist. Not one dollar went to a dedicated election defense fund. The money flowed into Save America's general account, where it was spent on Trump's post-presidential operation — including $60+ million in legal fees, staff salaries, event costs, and transfers to other Trump entities.
+>
+> The committee documented that Trump's campaign sent 25+ fundraising emails per day during this period, using deceptive tactics: fake forwarded messages, misleading sender lines ("Donald J. Trump, me," "You, Trump," "fwd: yours truly"), subject lines designed to mimic personal correspondence, and implied automatic recurring donations with difficult opt-out mechanisms.
+>
+> The committee concluded that Trump raised $250 million on claims he knew were false — making the post-election fundraising operation what the committee called "The Big Rip-Off."
+
+[Source: [NPR: January 6 Panel — Trump Campaign Misled Donors](https://www.npr.org/2022/12/19/1144230127/jan-6-committee-votes-on-criminal-referrals-against-trump) (Tier 2); [Congress.gov: January 6 Committee Final Report — "The Big Rip-Off" (PDF)](https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT-4-3.pdf) (Tier 1); [Rolling Stone: Trump Scammed Supporters Out of $250M](https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/) (Tier 2)]
+
+---
+
+### Who They Fund — The Legal Fee Machine
+
+### Fundraising by cycle:
+| Period | Total Raised | Notes |
+|--------|--------------|-------|
+| Nov–Dec 2020 | $31.5M | First 8 weeks post-election |
+| 2021–2022 cycle | $108.7M | Full cycle |
+| 2023–2024 cycle | $99.7M | 15,713 large-dollar ($200+) donors |
+| 2025 (YTD) | $11.8M | Early 2025 filings |
+| **Cumulative (2021–2025)** | **$212M raised / $241M spent** | Spent more than raised via reserves and transfers |
+
+### Where the money actually went:
+| Category | Amount | Period | % of Spending |
+|----------|--------|--------|---------------|
+| Legal fees | $50M+ | 2023 alone | ~80% of 2023 spending |
+| Legal fees | $21.6M | First half 2023 | 86% of H1 2023 spending ($25M total) |
+| Legal fees | $60M+ | 2020–2025 cumulative | Largest spending category |
+| Operating expenditures | $19.1M | Various | Consulting, polling, events, travel, payroll |
+| Political contributions to candidates | $210K | 2022 cycle | 42 candidates; 0.2% of total raised |
+| Trump/Melania portraits (Smithsonian) | $650K | — | — |
+| Event Strategies Inc (Jan 6 rally organizer) | $5M+ | — | — |
+| Mark Meadows charitable foundation | $1M | — | — |
+| America First Policy Institute | $1M | — | — |
+
+> [!contradiction] The Political PAC That Doesn't Do Politics
+> In the 2022 cycle, Save America raised $108.7 million and contributed $210,000 to 42 political candidates — 0.19% of total receipts. The other 99.8% went to legal fees, staff, events, and Trump's personal operation. This is not a political action committee. It is a legal defense fund structured as a PAC to exploit donor willingness to give to "Trump's political operation" while spending their money on Trump's personal legal exposure.
+
+### Key legal expenditures (partial list):
+- Trump civil fraud case defense: $11 million (H2 2023)
+- Clifford Robert (Eric Trump, Donald Trump Jr. representation): $3.9 million
+- Chris Kise & Associates: $2.3 million
+- Continental PLLC: $2.6 million
+- Alina Habba: $2.3 million
+- Monthly legal burn rate (2023–2024): $3–5.6 million per month
+
+**Cash position:** End of March 2024: approximately $4–5.1 million on hand — severely depleted during the height of Trump's criminal trials.
+
+[Source: [CBS News: Trump PAC Pays His Legal Bills](https://www.cbsnews.com/news/trump-pac-pays-his-legal-bills-save-america/) (Tier 2); [ABC News: $50M on Legal Bills in 2023](https://abcnews.go.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612) (Tier 2); [CNN: Legal Expenses Outstrip Fundraising](https://www.cnn.com/2024/03/20/politics/legal-bills-trump/index.html) (Tier 2); [The Hill: Trump PAC Monthly Legal Spending](https://thehill.com/homenews/campaign/4547289-trump-pac-legal-expenses-fec/) (Tier 2)]
+
+---
+
+### What They've Gotten — The Pardon Economy
+
+The intersection of Save America donations and presidential clemency creates the documented pattern described in [[The Pardon Machine - Who Got Clemency and Who Funded It]].
+
+### Documented donor-to-pardon connections:
+| Donor/Relative | Amount | Entity | Pardon Recipient | Charges | Year |
+|----------------|--------|--------|-----------------|---------|------|
+| Daughter of Julio Herrera Velutini | $3.5M | MAGA Inc. | Julio Herrera Velutini (Venezuelan billionaire) | Bribery | Jan 2026 |
+| Mother of Paul Walczak | $1M | MAGA Inc. | Paul Walczak (convicted fraudster) | Fraud | April 2025 |
+
+### First-term pardons (Trump allies):
+- Roger Stone (December 23, 2020) — convicted of obstruction, witness tampering, lying to Congress
+- Paul Manafort (December 23, 2020) — convicted of conspiracy, money laundering, tax fraud
+- Steve Bannon (January 2021) — indicted for fraud in "We Build the Wall" scheme
+- Charles Kushner (December 2020) — convicted of tax evasion, witness tampering
+
+> [!money] The Pardon Premium
+> The pardon economy operates through plausible deniability: family members of pardon-seekers donate to Trump-affiliated PACs (Save America or MAGA Inc.), and pardon recipients later receive clemency. No explicit quid pro quo is documented — the system works because both sides understand the transaction without stating it. AEI described this as a "sordid pardon economy" operating as a "seedy but legal and lucrative market." The structural function: Save America and MAGA Inc. serve as the collection mechanism for what is effectively a clemency fee, paid by donors who expect (and receive) presidential action in return.
+
+
+---
+
+### DOJ and Legal Scrutiny
+
+### Jack Smith investigation:
+- Issued 197 subpoenas to Republican individuals and entities
+- Save America PAC targeted by grand jury investigating January 6 and fundraising fraud
+- Subpoenas sought records on PAC fundraising and disbursements
+- Vendors subpoenaed to determine if they delivered services or concealed actual payees
+- **October 2023:** Jack Smith withdrew the Save America PAC subpoena — reason unknown
+- **2025:** Jack Smith resigned from all Trump prosecutions after Trump's election and inauguration
+- **No criminal charges** filed against Save America or Trump related to fundraising fraud
+
+### FEC complaints:
+- **November 2022:** Campaign Legal Center filed complaint alleging violation of soft money ban
+- Alleged Trump violated the Federal Election Campaign Act by transferring funds inappropriately while already a presidential candidate
+- Complaint centered on the $60 million clawback from MAGA Inc. to Save America
+- **Supplemental complaint filed May 2023** with additional evidence
+
+> [!contradiction] $250 Million in Documented Deception, Zero Charges
+> The January 6 Committee documented that Trump raised $250 million on claims of election fraud he knew were false, through a fund that did not exist, using deceptive email tactics (25+ per day, fake forwarded messages, misleading sender lines). Jack Smith investigated the PAC's finances. The FEC received formal complaints. Despite all of this, no criminal charges were ever filed for fundraising fraud. The subpoena was withdrawn. The special counsel resigned. Save America continues to operate. The structural lesson: leadership PACs exist in a legal gray zone where documented deception of donors faces no enforcement mechanism.
+
+[Source: [Campaign Legal Center: FEC Complaint Against Save America (PDF)](https://campaignlegal.org/sites/default/files/2023-05/MUR%208090%20%28Save%20America%29%20Supplemental%20FEC%20Complaint%20and%20Attachment.pdf) (Tier 1); [Campaign Legal Center: Soft Money Ban Violation](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald-trump-and-save-america-for-violating-soft-money-ban) (Tier 2); [Washington Post: Smith Withdraws Save America Subpoena](https://www.washingtonpost.com/nation/2023/10/17/special-counsel-withdraws-trump-subpoena/) (Tier 2)]
+
+---
+
+### Donation-to-Policy Timeline
+
+| Date | Event | Amount | Outcome | Time Gap |
+|------|-------|--------|---------|----------|
+| 2020-11-09 | Save America PAC established | — | Legal structure created 2 days post-election | Immediate |
+| 2020-11 to 2021-01 | "Stop the Steal" fundraising | $250M | Money flows to Save America general account, not election defense | Concurrent |
+| 2021-01-06 | January 6 rally | $5M+ to Event Strategies Inc. | Capitol breach; Trump impeached (acquitted) | Same day |
+| 2022 cycle | Full-cycle fundraising | $108.7M raised | $210K to candidates (0.19%); rest to legal/operations | Concurrent |
+| 2022-09 | MAGA Inc. created; $20M transferred from Save America | $20M → $60M clawback | FEC complaint filed; Trump gains super PAC capability | 0-2 months |
+| 2023 | Peak legal spending year | $50M+ legal fees | Criminal defense in 4 indictments; civil fraud defense | Concurrent |
+| 2023-10 | Jack Smith withdraws Save America subpoena | — | Fundraising fraud investigation appears abandoned | — |
+| 2024 | Trump 47 Committee established for campaign | Save America overflow vehicle | PAC depleted to $4-5M cash on hand during trials | Concurrent |
+| 2025-01 | Trump inaugurated; pardons begin | Save America/MAGA Inc. donors | Stone, Manafort, Bannon previously pardoned; new clemency wave | 0-4 years |
+| 2025-04 | Paul Walczak pardoned | $1M from mother to MAGA Inc. | Convicted fraudster receives clemency | Months |
+| 2026-01 | Velutini pardoned | $3.5M from daughter to MAGA Inc. | Venezuelan billionaire (bribery) receives clemency | Months |
+
+---
+
+### Class Analysis — The Slush Fund as Political Innovation
+
+Save America represents a structural innovation in American political corruption: the leadership PAC as personal financial instrument, insulated from accountability by a combination of legal gray zones, partisan loyalty, and enforcement failure.
+
+**The slush fund mechanics.** FactCheck.org and Issue One characterize Save America as a "textbook example of a political slush fund." Leadership PACs face contribution limits but have nearly unlimited spending discretion. There is no legal requirement that a leadership PAC spend its money on politics. Trump exploited this structure to create a personal legal defense fund disguised as a political operation — raising money from small-dollar donors who believed they were supporting Republican candidates, then spending 99.8% of it on his own legal bills, staff, and personal expenses.
+
+**The deception architecture.** The January 6 Committee documented the mechanics in detail: fake forwarded emails, misleading sender lines, an "Official Election Defense Fund" that did not exist, 25+ solicitations per day, and implied recurring donations with difficult opt-out. This was not sloppy fundraising. It was a sophisticated operation designed to extract maximum donations from supporters who believed they were defending democracy. The $250 million raised on these claims represents one of the largest documented donor deceptions in American political history.
+
+**The pardon economy.** Save America and MAGA Inc. together create the financial infrastructure for presidential clemency-for-hire. The pattern is documented: family members of pardon-seekers donate to Trump-affiliated PACs; pardon-seekers later receive clemency. No explicit quid pro quo is required because the system operates on mutual understanding. The structural innovation: by routing payments through PACs rather than direct payments, the transaction acquires the legal protection of political speech while serving the functional purpose of purchasing presidential power.
+
+**The enforcement vacuum.** Despite documented deception of donors, a grand jury investigation, FEC complaints, and congressional findings, no criminal charges were filed. Jack Smith withdrew the subpoena. The FEC — structurally deadlocked with an even number of commissioners — has not acted on the Campaign Legal Center complaints. The special counsel resigned after Trump's election. Save America continues to operate and raise money. The lesson for future political operatives is clear: leadership PACs can deceive donors, spend money on personal legal defense, and facilitate pay-for-clemency without facing legal consequences — as long as the PAC holder wins the presidency.
+
+**Pattern: Two-Audience Problem.** Save America's fundraising appeals target small-dollar donors with messages about defending democracy and fighting election fraud. Its spending benefits a single individual's legal defense. The audience for the rhetoric (grassroots supporters) and the beneficiary of the money (Donald Trump's attorneys) have no overlap in interest.
+
+**Pattern: Donor-Class Override.** The pardon economy inverts the normal donor-to-policy pipeline: instead of donors funding politicians who enact favorable policy, donors fund the president who grants them personal clemency. The policy outcome is individualized — not regulatory capture but personal liberation from criminal accountability, purchased through PAC contributions.
+
+---
+
+### Sources
+
+### FEC Filings & OpenSecrets:
+- [FEC: Save America Committee Overview](https://www.fec.gov/data/committee/C00762591/) (Tier 1)
+- [OpenSecrets: Save America PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/save-america/C00762591/summary/2024) (Tier 1)
+- [FEC: Trump 47 Committee](https://www.fec.gov/data/committee/C00867937/) (Tier 1)
+
+### January 6 Committee:
+- [Congress.gov: January 6 Committee Final Report — "The Big Rip-Off" (PDF)](https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT-4-3.pdf) (Tier 1)
+- [NPR: January 6 Panel — Trump Campaign Misled Donors](https://www.npr.org/2022/12/19/1144230127/jan-6-committee-votes-on-criminal-referrals-against-trump) (Tier 2)
+- [CBS News: January 6 Committee Hearing on Fundraising](https://www.cbsnews.com/news/january-6-committee-hearing-fundraising-trump-campaign-allies/) (Tier 2)
+- [Rolling Stone: Trump Scammed Supporters Out of $250M](https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/) (Tier 2)
+
+### Legal Spending:
+- [CBS News: Trump PAC Pays His Legal Bills](https://www.cbsnews.com/news/trump-pac-pays-his-legal-bills-save-america/) (Tier 2)
+- [ABC News: $50M on Legal Bills in 2023](https://abcnews.go.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612) (Tier 2)
+- [CNN: Legal Expenses Outstrip Fundraising](https://www.cnn.com/2024/03/20/politics/legal-bills-trump/index.html) (Tier 2)
+- [The Hill: Trump PAC Monthly Legal Spending](https://thehill.com/homenews/campaign/4547289-trump-pac-legal-expenses-fec/) (Tier 2)
+
+### FEC Complaints & DOJ Investigation:
+- [Campaign Legal Center: FEC Complaint Against Save America (PDF)](https://campaignlegal.org/sites/default/files/2023-05/MUR%208090%20%28Save%20America%29%20Supplemental%20FEC%20Complaint%20and%20Attachment.pdf) (Tier 1)
+- [Campaign Legal Center: Soft Money Ban Violation](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald-trump-and-save-america-for-violating-soft-money-ban) (Tier 2)
+- [Washington Post: Smith Withdraws Save America Subpoena](https://www.washingtonpost.com/nation/2023/10/17/special-counsel-withdraws-trump-subpoena/) (Tier 2)
+- [CNN: Smith Withdraws PAC Subpoena](https://www.cnn.com/2023/10/26/politics/special-counsel-withdraw-subpoena-trump-fundraising/index.html) (Tier 2)
+
+### Pardon Economy:
+- [Campaign Legal Center: Foreign Billionaire Pardon Case](https://campaignlegal.org/update/seeking-pardon-foreign-billionaire-allegedly-funneled-millions-trump-super-pac) (Tier 2)
+- [AEI: Trump's Sordid Pardon Economy](https://www.aei.org/op-eds/trumps-sordid-pardon-economy/) (Tier 2)
+- [The Hill: Trump-Pardoned Allies](https://thehill.com/opinion/campaign/4559868-four-trump-pardoned-allies-thank-him-with-action-and-loyalty/) (Tier 2)
+
+---
+
+content-readiness:: ready

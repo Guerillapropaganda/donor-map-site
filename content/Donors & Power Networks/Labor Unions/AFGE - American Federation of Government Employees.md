@@ -1,0 +1,133 @@
+---
+title: "AFGE - American Federation of Government Employees"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 2
+parent: null
+---
+
+#AFGE #labor-union #federal-employees #government-workers #DOGE #Trump-layoffs #union-resistance
+
+related: Federal Workforce Labor Movement Government Employment Policy Trump Cabinet 2025 Union Political Spending
+
+---
+
+### Who They Are
+
+AFGE (American Federation of Government Employees) is the largest federal employee union, representing 700,000+ workers across federal agencies including the General Services Administration, National Aeronautics and Space Administration, Department of Veterans Affairs, Department of Homeland Security, and other civilian federal agencies.
+
+Founded in 1932, AFGE operates as a traditional AFL-CIO-affiliated labor union with a political action committee (AFGE-PAC) that donates to Democratic candidates and federal labor protection-friendly Republicans. Annual budget: $100M+; union membership: 700K+; political spending: $2-5M per cycle.
+
+AFGE represents the largest concentration of organized public sector workers in the U.S., making it a primary target for union-weakening initiatives (like Trump's proposed DOGE federal workforce reduction).
+
+---
+
+### What They Want
+
+**Job security and wage protection for federal employees,** defined as:
+
+- Opposition to federal workforce reductions ("RIFs" — Reductions in Force)
+- Opposition to federal employee compensation reductions
+- Defense of federal employee defined-benefit pension systems
+- Opposition to at-will federal employment (which would allow removal without cause)
+- Protection of federal employee collective bargaining rights
+- Opposition to federal service consolidation/privatization
+- Opposition to federal pay freezes and benefit reductions
+
+AFGE has explicitly positioned itself as a primary opponent of DOGE (Department of Government Efficiency) and Trump's proposed federal workforce cuts.
+
+---
+
+### Who They Fund
+
+### 2024 Political Spending:
+### Democratic Presidential Candidates:
+- Joe Biden 2020/2024 — primary union supporter ($500K+ direct support + get-out-the-vote mobilization)
+- Endorsed Biden despite union concerns about slow federal hiring under Biden administration
+
+### Democratic Congressional Candidates:
+- Democratic Senate candidates supporting federal employee protections (~$500K per cycle)
+- Democratic House candidates in districts with significant federal workforce (~$1M per cycle)
+- Democratic candidates in federal hub cities (Washington D.C., Northern Virginia, Maryland, federal centers)
+
+### Federal Employee Advocacy:
+- Direct lobbying (in-house and contract lobbyists) on federal pay, benefits, staffing
+- Member political education and voter mobilization
+- Opposition research on federal workforce reduction proposals
+
+### Anti-Outsourcing Campaigns:
+- Campaigns opposing federal service privatization and contracting-out of federal jobs
+- Coalition building with other public sector unions (SEIU, AFSCME)
+
+---
+
+### What They've Gotten
+
+### Regulatory Victories (limited; federal workforce has declined):
+### Biden Administration (2021-2025):
+- Federal employee pay raises (3-4.5% annually, above inflation in some years)
+- Hiring increases (Biden committed to federal hiring after Trump-era freeze)
+- Pension protection (prevented federal pension reduction proposals)
+- Vaccine mandate application to federal workforce (AFGE supported as worker safety measure)
+
+However, these gains were modest relative to AFGE's stated goals:
+- Federal workforce size: declined from 2.9M (2020) to 2.8M (2025) despite Biden administration
+- Real federal wage growth: negative when adjusted for inflation (federal employees lost purchasing power)
+- New federal hiring: focused on defense and border enforcement, not civilian agencies AFGE represents
+
+### Trump Administration (2017-2021):
+- Federal workforce reduction by 10K+ employees through attrition and RIFs
+- Federal pay freeze (2019-2020)
+- Removal of federal employee civil service protections via executive order (EO 13957, largely reversed by Biden)
+- Attempted pension reduction (blocked by Congress)
+
+### Coalition Building Success:
+AFGE has successfully coordinated with other public sector unions (SEIU, AFSCME) and Democratic organizations to defend federal employment. This coalition building created enough political pressure to prevent Trump's most aggressive federal workforce cuts (though reductions still occurred).
+
+### 2025 DOGE Threat:
+Trump's appointment of Elon Musk to lead DOGE (Department of Government Efficiency) has created existential threat to AFGE membership:
+
+- Musk publicly stated goal of reducing federal workforce by 50% (eliminating 1M+ federal jobs)
+- Proposed elimination of federal employee unions
+- Proposed conversion to at-will employment (allowing removal without cause)
+
+AFGE is currently mobilizing full political and legal resources to resist DOGE:
+- Legal challenges to federal workforce reductions
+- Coalition mobilization with Democratic Congress members
+- Media campaigns highlighting federal worker job losses
+- Political organizing in federal hub districts (Northern Virginia, Washington D.C., Maryland)
+
+> [!contradiction]
+> AFGE presents itself as a workers' rights organization defending federal employees against cuts, yet represents a relatively privileged workforce with above-average wages, defined-benefit pensions, and job security (compared to private sector workers). AFGE's advocacy for federal job protection can be framed as either: (1) class solidarity defending working conditions across public sector, or (2) privileged workers defending their relative advantages while less-organized private sector workers lack similar protections. This creates tension between AFGE's universal labor rhetoric and its particularistic defense of federal employee privileges.
+
+---
+
+### Class Analysis
+
+AFGE represents **organized labor's structural weakness in Trump era:** Although AFGE has 700K+ members and $100M+ annual budget, it faces potential existential threat from DOGE's proposed 50% federal workforce reduction. This illustrates that **union power is contingent on political alignment:**
+
+- When Democratic administration is in power, AFGE can negotiate wage increases and protect jobs
+- When Republican administration (particularly Trump) is in power, AFGE is on defense against existential workforce reductions
+- AFGE's leverage depends entirely on Democratic control of Congress and executive branch
+
+AFGE also illustrates **why unions support Democratic Party despite limited success:** AFGE endorsed Biden even though federal workforce declined under Biden. AFGE continues supporting Democrats because the alternative (Trump/DOGE) threatens the union's existence. This creates structural Democratic leverage over labor unions: unions must support Democrats because Republicans are worse, even when Democrats fail to deliver on union priorities.
+
+AFGE's position also reveals **bifurcation of labor movement:**
+- Public sector unions (AFGE, SEIU, AFSCME) have some bargaining power
+- Private sector unions (UAW, IAMAW, IBT) have declined precipitously
+- Federal employees (AFGE) have relative security compared to private sector workers
+
+This means AFGE's defense of federal jobs is simultaneously defense of privileged union position and resistance to labor's overall decline.
+
+---
+
+### Sources
+
+- [OpenSecrets: AFGE political spending](https://www.opensecrets.org/orgs/american-federation-of-government-employees/summary) (Tier 1)
+- [AFGE: About Us and Federal Workforce Advocacy](https://www.afge.org/about-afge/) (Tier 2)
+- [Federal Times: AFGE federal workforce policy positions](https://www.federaltimes.com/management/2024/01/15/afge-federal-workforce/) (Tier 2)
+- [ProPublica: Federal workforce reductions and union resistance](https://www.propublica.org/article/doge-elon-musk-trump-staffers-tracker-update) (Tier 2)
+- [Union membership statistics: Bureau of Labor Statistics](https://www.bls.gov/news.release/union2.nr0.htm) (Tier 1)
+
+content-readiness:: ready

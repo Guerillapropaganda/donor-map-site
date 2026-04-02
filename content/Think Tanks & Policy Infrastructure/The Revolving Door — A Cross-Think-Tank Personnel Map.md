@@ -1,0 +1,261 @@
+---
+title: "The Revolving Door — A Cross-Think-Tank Personnel Map"
+type: think-tank
+content-readiness: ready
+last-updated: 2026-03-27
+source-tier: 2
+parent: null
+category: cross-comparison
+tax-status: null
+---
+
+#think-tank #cross-comparison #revolving-door #class-analysis #personnel #policy-pipeline #regulatory-capture
+
+related: [[Heritage Foundation]] · [[Federalist Society]] · [[Center for American Progress]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]]
+
+---
+
+### The Argument
+
+The revolving door is not a corruption problem. It is an infrastructure problem.
+
+Individual corruption requires illegal acts — bribes, fraud, undisclosed conflicts. The revolving door is entirely legal, fully disclosed, and structurally built into every major American think tank. The system works as designed: think tanks hire the people who run government agencies, those people return to the same think tanks when administrations change, the think tanks produce research while the officials wait, and when the allied party returns to power, the officials implement the research they wrote during their time in opposition.
+
+This document maps the personnel circuit across all 25 think tanks in this vault. The goal is to show that the "revolving door" is not a series of individual career choices but a **single coordinated infrastructure** connecting donor money, institutional research, government implementation, and private sector return — across every major think tank, every administration, and every ideological label.
+
+> [!money]
+> The think tank functions as the financial and institutional holding area for the policy class between administrations. When a Republican administration ends, dozens of former officials rotate to Heritage, Hudson, Hoover, AEI, and Federalist Society, where their salaries are paid by the same donor class that funded the administration they just left. When a Democratic administration ends, they rotate to Brookings, CAP, CNAS, Roosevelt, and EPI. The donors fund both the research and the researchers. The officials maintain their influence, their titles, their networks, and their policy agendas — tax-exempt, foundation-funded, waiting for the next electoral cycle.
+
+---
+
+### The Three Models: How Think Tanks Use the Revolving Door
+
+The 25 profiles in this vault reveal three distinct structural models for how think tanks integrate the revolving door into their institutional function:
+
+**Model 1: The Government-in-Exile (Hudson, Hoover, CAP, CNAS)**
+The institution collects former senior officials from a specific administration and maintains their policy influence during the opposition years. When the allied party returns to power, the officials rotate back in. The think tank is not primarily a research institution — it is a personnel holding facility. The research is a byproduct; the product is the officials themselves, ideologically calibrated and policy-ready.
+
+**Model 2: The Talent Pipeline (Heritage, Mercatus, AEI, EPI, Roosevelt)**
+The institution trains and pre-deploys ideologically aligned personnel who then move into government to implement the think tank's research agenda. Unlike the Government-in-Exile model (which collects former officials), the Pipeline model produces future officials. The research comes first, the personnel second — but the personnel are selected specifically because they will implement the research when given the opportunity.
+
+**Model 3: The Permanent Establishment (CFR, Brookings, Atlantic Council, RAND)**
+The institution spans administrations and partisan transitions. Its members serve under both Republican and Democratic administrations, hold seats regardless of who is in power, and maintain a consistent foreign policy, financial, and defense establishment consensus that outlasts any single administration. The revolving door here does not run to one party — it runs to the policy class itself.
+
+---
+
+### The Full Personnel Map: 25 Think Tanks, 60+ Key Movements
+
+### Timeline
+
+| Date | Event | Key Players | Amount | Significance |
+|------|-------|-------------|--------|--------------|
+| 1977 | Heritage Foundation founded; AEI begins placing fellows in Reagan transition | Ed Feulner (Heritage), James Miller III (AEI → OMB) | Coors/Scaife seed funding | First coordinated think tank → administration placement operation |
+| 1982 | Federalist Society founded; Leonard Leo joins leadership | Leo, David McIntosh, Steven Calabresi | $25K seed from Scaife/Olin | Judicial pipeline established; first institution designed to capture judiciary rather than executive branch |
+| 1983 | Aspen Institute Congressional Program begins off-the-record lawmaker-donor retreats | Walter Isaacson era | $32.6M federal funding base established | 40+ years of off-record lawmaker-donor networking begins; 2,400+ bipartisan members |
+| 1981–1989 | Reagan administration: Heritage supplies 60% of 2,000 policy recommendations; AEI provides 7 officials including Scalia | Heritage/AEI → Reagan White House | Heritage founding investment from Koch/Scaife | Proof-of-concept for think tank → government pipeline at scale; Scalia from AEI to SCOTUS |
+| 1994 | CFR members hold 21 SecDef/War posts, 19 Treasury, 17 State, 15 CIA Director slots across postwar history | CFR membership rolls | $692M endowment | Establishes CFR as permanent credentialing institution for U.S. foreign policy class |
+| 1997 | RAND adds third FFRDC; becomes dominant government contractor think tank | RAND Board (Hagel, Danzig, Napolitano) | $462M annual budget (77% federal) | RAND model: think tank fully funded by the government whose policies it evaluates |
+| 2001–2003 | Richard Haass: Clinton State Policy Planning → CFR President during Iraq War buildup | Richard Haass | $1.44M FY2024 President Emeritus pay | Government → think tank → policy influence during critical period; CFR hosts Iraq debate while former policy director leads it |
+| 2003 | Center for American Progress founded | John Podesta (Clinton COS founder) | $25M launch budget | Democratic talent pipeline institutionalized; Podesta creates the liberal equivalent of Heritage's government-in-exile model |
+| 2005 | Third Way founded; Jonathan Cowan (Clinton HUD CoS) as president | Cowan, Jim Kessler | Wall Street finance trustee base | Clinton officials create the Wall Street-aligned Democratic centrist think tank as counterweight to progressive organizations |
+| 2006 | Hamilton Project launched at Brookings; Robert Rubin (Goldman CEO) co-founds | Peter Orszag (dir), Jason Furman, Doug Elmendorf | Goldman-backed | Democratic economic policy shop: all three founding directors become Obama administration officials |
+| 2007 | Center for a New American Security (CNAS) founded | Michèle Flournoy, Kurt Campbell (co-founders) | $14.1M budget (post-growth) | Defense contractor-funded Democratic national security think tank; co-founders both become senior Obama defense/State officials |
+| 2009–2010 | Brookings/Hamilton Project empties into Obama administration; CNAS places 14+ | Orszag → OMB, Furman → CEA, Elmendorf → CBO, Flournoy → UnderSecDef, Campbell → Asst SecState | N/A | Two think tanks provide the senior economic and defense teams of an incoming administration simultaneously |
+| 2009 | Susan Rice: Brookings Senior Fellow → Obama UN Ambassador → National Security Adviser (2013) | Susan Rice | N/A | Definitive Brookings → Democratic administration arc; Rice spends two full Obama terms in senior positions after Brookings |
+| 2012 | Mark Calabria: Cato Director of Financial Regulation → Trump FHFA Director (2019) | Mark Calabria | Koch-funded Cato research base | The Pipeline model in pure form: 7 years producing research arguing for privatizing Fannie/Freddie → appointed to regulate Fannie/Freddie → attempts privatization → Biden fires him → returns to Cato |
+| 2013 | Jonathan Grumet (BPC President) → American Clean Power Association CEO | Jason Grumet | $37.8M BPC budget | Revolving door through a bipartisan centrist vehicle into industry: BPC president becomes clean energy industry's chief lobbyist |
+| 2014–2017 | Heidi Shierholz: EPI Senior Economist → Obama DOL Chief Economist → returns to EPI as Policy Director → EPI President | Heidi Shierholz | EPI budget $11.9M/yr | Three-turn revolving door: think tank → regulatory agency → think tank → think tank president; carries EPI labor agenda into government and back |
+| 2016–2017 | Heritage produces Trump administration staffing list; Project 2025 precursor deployed | Phil Schiliro, Jim DeMint era Heritage | Heritage $80M+ revenue period | Government-in-exile model fully activated: Heritage supplies both the policy agenda and the personnel for incoming Trump administration |
+| 2017 | Hester Peirce: Mercatus Director of Financial Markets → SEC Commissioner ("Crypto Mom") | Hester Peirce | Koch $9.85M+ to Mercatus | Tightest revolving door in the vault: Mercatus produces research opposing crypto regulation → research director becomes the regulator who opposes crypto regulation |
+| 2017 | Kevin Hassett: AEI Director of Economic Policy → Trump Council of Economic Advisers Chair | Kevin Hassett | Koch/DonorsTrust AEI funding base | AEI Pipeline model: Hassett produces corporate tax cut research at AEI, implements TCJA as CEA Chair, returns to AEI |
+| 2017 | William Beach: Mercatus VP → Bureau of Labor Statistics Commissioner | William Beach | Koch network career (IHS → Heritage → Mercatus → BLS) | Koch network spans three think tanks and a federal statistical agency: same personnel, same agenda across all four institutions |
+| 2019–2020 | Hudson Institute becomes Republican national security government-in-exile: Pompeo, Haley, Barr, Chao, Schadlow all land post-Trump | Mike Pompeo, Nikki Haley, William Barr, Elaine Chao | $102.9M Hudson net assets | Five Trump Cabinet/sub-Cabinet officials rotate into single think tank; Haley uses Hudson platform to launch 2024 presidential run |
+| 2020 | Leonard Leo receives $1.6B from Barre Seid for Marble Freedom Trust; Federalist Society judiciary now holds SCOTUS supermajority | Leonard Leo, Barre Seid | $1.6 billion (largest single dark money transfer in history) | Federalist Society pipeline achieves its terminal objective: 6 of 9 SCOTUS justices linked to FedSoc; Chevron eliminated 2024 |
+| 2021 | CNAS places 16 officials into Biden national security apparatus in single transition | Avril Haines (DNI), Kurt Campbell (NSC), Victoria Nuland (State), Ely Ratner (DoD Pentagon), Nathaniel Fick (first Cyber Ambassador), Anne Neuberger (NSC cyber), + 10 more | CNAS $14.1M budget vs. ~$3B in government positions filled | Most concentrated single-think-tank-to-administration pipeline in this vault: 16 senior positions filled by one $14M institution |
+| 2021 | Sharon Parrott: CBPP three tours + Obama HHS/OMB → CBPP President | Sharon Parrott | CBPP $52.5M budget | Three-tour revolving door across Democratic administrations; defines CBPP as Democratic safety-net policy holding facility |
+| 2021 | Stacy Dean: CBPP 24 years of SNAP research → Biden USDA Deputy Under Secretary for Food, Nutrition | Stacy Dean | N/A | Pipeline model in pure form: 24 years writing SNAP policy research → appointed to administer SNAP |
+| 2021 | Lisa Cook: Roosevelt Institute Board Vice Chair → Federal Reserve Board Governor (first Black woman confirmed) | Lisa Cook | N/A | Roosevelt pipeline into monetary policy: progressive economist board member becomes Fed Governor during Biden era |
+| 2021 | K. Sabeel Rahman: Roosevelt Fellow → Biden OIRA Senior Counselor | K. Sabeel Rahman | N/A | Roosevelt's administrative state pipeline: fellow writing about regulatory reform becomes the official who reviews regulations at OIRA |
+| 2021 | Myrna Pérez: Brennan Center Voting Rights Director → Second Circuit Court of Appeals | Myrna Pérez | Soros $7.47M to Brennan Center | Brennan Center → federal judiciary pipeline mirrors Federalist Society's but with progressive nominees; first major judicial appointment from Brennan Center |
+| 2022 | Condoleezza Rice: Hoover Director + Atlantic Council Honorary Director — holds both simultaneously | Condoleezza Rice | Hoover ~$600M endowment; Atlantic Council $69.9M budget | Cross-think-tank figure: Rice's simultaneous presence at Hoover (Stanford-adjacent conservative) and Atlantic Council (NATO establishment) demonstrates how senior officials span ideological categories within the "centrist" foreign policy establishment |
+| 2022–2023 | David Rubenstein: Carlyle Group ($465B AUM) → CFR Chairman + Brookings Co-Chair simultaneously | David Rubenstein | Carlyle Group AUM $465B | Same private equity billionaire governs both "centrist" foreign policy think tanks; the Both-Sides Illusion in institutional governance form |
+| 2023 | Michael Froman: Citigroup → CFR Fellow → Obama USTR → Mastercard VP → CFR President | Michael Froman | $1.44M+ CFR president compensation | Full circuit: financial sector → "independent" think tank → government negotiating trade deals → financial sector again → back to "independent" think tank as its president. Revolving door's complete loop |
+| 2023 | Cecilia Rouse: Princeton/Obama CEA → Biden CEA Chair → Brookings President | Cecilia Rouse | N/A | Brookings collects another Democratic economic team member; the institution as Democratic economic policy's permanent address |
+| 2023 | Jason Matheny: IARPA Director → White House NSC/OSTP → RAND CEO + Anthropic Long-Term Benefit Trust | Jason Matheny | RAND $462M budget | Intelligence community → think tank → AI governance board; Matheny's position on Anthropic's trust board while running RAND creates a AI policy feedback loop |
+| 2025 | Gina Raimondo: Biden Commerce Secretary → CFR Distinguished Fellow and Task Force Co-Chair on economic security | Gina Raimondo | CFR $692M endowment | Post-Biden express lane: Commerce Secretary lands at CFR within weeks of leaving government, immediately chairs the task force covering her portfolio |
+| 2025 | Victoria Nuland: CNAS CEO → Biden Under Secretary of State → back to CNAS ecosystem | Victoria Nuland | N/A | CNAS three-position revolving door: think tank CEO → top State Department position → returns to think tank orbit |
+| 2025 | Heritage Project 2025: 25 of 30 chapter authors are former Trump officials who passed through Heritage → government → Heritage | 31+ Project 2025 personnel placed in Trump second term | $100.9M Heritage revenue (2023) | Government-in-exile model completes its circuit in 4 years: officials park at Heritage during Biden administration, return to government when Trump wins, implement Heritage-authored policy |
+
+> [!money]
+> The 35 key revolving door movements charted above collectively represent: 16 Cabinet-level positions (Secretary of State, Defense, Treasury, Commerce, Education, Labor, HUD, Transportation, Attorney General), 4 CIA/Intelligence Director positions, 3 Supreme Court justices (Scalia from AEI, Gorsuch/Kavanaugh/Barrett from Federalist Society list), 2 Federal Reserve Governors, and 2 federal court of appeals appointments. The institutions that produced these placements had a combined annual budget of approximately $2.1 billion — less than the annual salary budget of a single mid-sized federal department. The leverage ratio is extraordinary: $2.1 billion in annual think tank budgets has shaped the policy and personnel of a $6.8 trillion federal government.
+
+---
+
+### Pattern Analysis: Cross-Institutional Circuits
+
+#### The Republican Government-in-Exile Cluster
+
+Four conservative institutions operate as interlocking holding facilities for Republican officials between administrations:
+
+**Hudson + Hoover + Heritage + AEI** — these four think tanks together hold virtually the entire Republican national security, economic, and domestic policy apparatus when out of power:
+
+- H.R. McMaster: Hudson (after Trump) → Hoover (continuing)
+- William Barr: Manhattan Institute trustee + Hudson fellow
+- Condoleezza Rice: Hoover director + Atlantic Council honorary
+- Dick Cheney: AEI fellow + board; wife Lynne Cheney: AEI senior fellow
+- John Bolton: AEI senior fellow between government stints
+- Mike Pompeo, Nikki Haley, Elaine Chao, Nadia Schadlow: all land at Hudson post-Trump
+- 25 of 30 Project 2025 chapter authors: former Trump officials who parked at Heritage
+
+The **combined effect**: when a Republican administration ends, its senior personnel rotate to a small cluster of interconnected think tanks. These officials continue producing policy research, continue receiving conservative donor funding, and continue communicating with their networks. When Republicans win again, the cluster deploys. The 4-year gap is not a break — it is the reload.
+
+#### The Democratic National Security Pipeline
+
+**CNAS + Brookings + CFR + Atlantic Council** together supply the Democratic foreign policy and national security establishment:
+
+- Michèle Flournoy: CNAS → Under SecDef (Obama)
+- Avril Haines: CNAS → DNI (Biden)
+- Kurt Campbell: CNAS → NSC/State (Biden)
+- Victoria Nuland: CNAS → Under SecState (Biden)
+- Susan Rice: Brookings → UN Amb/NSA (Obama) → Biden DPC
+- Jack Lew: Hamilton/Brookings → Obama Treasury
+- Martin Indyk: Brookings → Clinton/Obama State, Middle East
+
+When Republicans control the foreign policy apparatus, Democrats park at CNAS and Brookings. The same think tanks that produced the Iran nuclear deal framework, the Obama Asia pivot, and the Biden national security team were funded during the Republican years by defense contractors, foreign governments, and Wall Street. The policy produced during opposition years reflects what those donors wanted implemented when the party returned to power.
+
+#### The Koch Think Tank Network: One Agenda, Three Institutions
+
+**Cato + Mercatus + AEI** form an overlapping Koch-aligned deregulatory policy ecosystem:
+
+- Charles Koch: Cato founder + Mercatus board + AEI funder
+- Richard Fink: Founded Mercatus as Koch graduate student; Koch Industries EVP; Mercatus board
+- Nancy Pfotenhauer: Cato board member + Koch Industries VP for Government Affairs (same person)
+- William Beach: Koch's Institute for Humane Studies → Heritage → Mercatus → Bureau of Labor Statistics commissioner
+- Mark Calabria: Cato research → FHFA director
+- Hester Peirce: Mercatus research → SEC commissioner
+
+The **one-agenda, three-institutions** pattern means Koch network deregulatory preferences arrive at the regulatory state through at least three separately branded "independent" research pipelines. When regulators cite "independent research," they are frequently citing research produced by overlapping Koch-funded institutions staffed by Koch-network personnel.
+
+#### The Soros/Progressive Foundation Network: Three Institutions, Same Personnel Pipeline
+
+**Brennan Center + Center on Budget and Policy Priorities + Center for American Progress** share overlapping foundation funding (Ford, MacArthur, Open Society) and complementary policy agendas:
+
+- Vanita Gupta: Brennan Center board → Biden Associate AG (#3 DOJ)
+- Myrna Pérez: Brennan Center → Second Circuit
+- Stacy Dean: CBPP 24 years → Biden USDA SNAP
+- Sharon Parrott: CBPP three tours → Obama/Biden HHS/OMB → CBPP President
+- Brian Deese: CAP → Biden NEC Director
+- Gene Sperling: CAP → Biden Senior Adviser
+- Neera Tanden: CAP President → Biden staff → CAP President
+
+The mirror image of the Koch network: three separately branded institutions sharing funding sources, policy frameworks, and personnel pipelines into Democratic administrations.
+
+---
+
+### The Bipartisan Officials: Who Spans Both Sides
+
+The following officials appear in the revolving door at institutions across ideological categories, exposing the "centrist" institutions as the permanent home of the policy establishment regardless of which party wins:
+
+| Name | Conservative Think Tank | Centrist Think Tank | Government Role | Demonstrates |
+|------|-------------------------|---------------------|-----------------|--------------|
+| Condoleezza Rice | Hoover Institution (Director) | Atlantic Council (Honorary) | Secretary of State (Bush) | National security establishment spans "conservative" and "centrist" labels |
+| David Rubenstein | — | CFR (Chairman) + Brookings (Co-Chair) | Carter domestic policy | Private equity governs both centrist foreign policy institutions |
+| Richard Haass | — | CFR (President 20 years) | State Policy Planning (Powell) | Establishment foreign policy apparatus spans administrations |
+| Michael Froman | — | CFR (Fellow + President) | Obama USTR + Citi/Mastercard | Finance sector → government trade negotiator → finance sector → think tank president; the full circuit |
+| Frank Carlucci | — | Atlantic Council | Defense Secretary (Reagan) + Carlyle Group | Defense establishment + private equity + think tank: interlocking |
+| Janet Napolitano | — | RAND (Trustee) | DHS Secretary (Obama) | Security apparatus parks at RAND across party transitions |
+
+**The CFR exception:** CFR is the single institution most consistently represented across administrations, parties, and ideological categories. CFR members have held virtually every senior national security and foreign policy position in the postwar American government. This is not coincidence — CFR membership functions as the credentialing mechanism for the foreign policy class, operating above partisan politics because the class it serves operates above partisan politics.
+
+---
+
+### The Permanent Revolving Door at RAND
+
+RAND's revolving door is structurally distinct: it runs between government and a federally funded research organization, not between think tank and government. RAND receives 77% of its funding from the federal government and produces research on behalf of that government. Its board is composed of former Secretaries of Defense (Hagel), Secretaries of the Navy (Danzig), Secretaries of the Air Force (Rice), Secretaries of Homeland Security (Napolitano), Directors of DARPA (Tompkins, who also spent 10 years at defense contractor SAIC), and former Deputy National Security Advisors.
+
+This creates a feedback loop that the other 24 think tanks do not share: RAND's researchers are former government officials, RAND's funders are the government agencies those officials ran, and RAND's research is used by current government officials to make the same kinds of decisions that RAND's board made when they ran those agencies.
+
+CEO Jason Matheny's position on Anthropic's Long-Term Benefit Trust (the oversight body for an AI company navigating federal AI governance) while running RAND — which has active AI policy research contracts with the Department of Defense — represents the newest iteration of this feedback loop.
+
+---
+
+### The Failed Revolving Door: Michèle Flournoy
+
+The most revealing data point is the revolving door appointment that didn't happen.
+
+Michèle Flournoy co-founded CNAS, served as Obama's Under Secretary of Defense for Policy, was considered the most likely nominee for Secretary of Defense under Hillary Clinton (had Clinton won in 2016), was widely reported as Biden's front-runner for Secretary of Defense in 2020 — and was passed over for Lloyd Austin, a defense contractor board member (Raytheon).
+
+The failed Flournoy appointment reveals the revolving door's hierarchy: when a think tank alumna (CNAS) and a defense contractor board member (Austin from Raytheon) compete for the same Cabinet position, the contractor wins. The think tank produces the policy class; the contractor class outranks the policy class when the final appointment is made.
+
+> [!contradiction]
+> CNAS is the most aggressive revolving door operation in this vault — 16 Biden administration placements from a $14M think tank. But the single most senior appointment in its portfolio (Secretary of Defense) went to the defense contractor, not the think tank co-founder. The revolving door gets personnel into government at every level. At the Cabinet level, the contractor class and the financial class maintain priority. Think tanks are the mechanism by which the donor class shapes policy. When there is a conflict between the think tank class and the direct donor class, the donors win.
+
+---
+
+### Class Analysis
+
+The revolving door reveals the actual structure of American governance: **policy is made by a class of professionals who rotate continuously between think tanks, government positions, private sector roles, and back to think tanks.** The electoral system selects the partisan identity of the administration; the policy class fills the substantive positions regardless.
+
+The class has a consistent composition:
+- Elite law schools (Yale, Harvard, Columbia Law for Federalist Society; NYU, Harvard, Columbia for progressive legal infrastructure)
+- Elite economics programs (Harvard Kennedy School, Princeton Woodrow Wilson School, Chicago, MIT)
+- Specific credential institutions (CFR membership, Federalist Society membership, RAND affiliation, Brookings fellowship)
+- A small number of entry-point employers (specific law firms, Goldman Sachs, Citigroup, private equity, defense contractors) that feed into the think tanks that feed into government
+
+The revolving door is not a corruption problem because it operates through legitimate institutions, disclosed affiliations, and legal career transitions. It is a class problem: the people who make policy are drawn from an extremely narrow stratum, share educational and professional backgrounds, are employed between government stints by institutions funded by the donor class, and implement policy that consistently reflects donor interests across partisan transitions.
+
+The clearest evidence: across 35 revolving door movements tracked here, spanning conservative, liberal, and centrist institutions, the policy outcomes are structurally consistent — financial deregulation, expanded defense spending, managed social policy, free trade frameworks, judicial conservatism, and regulatory rollback are the common throughlines regardless of which party's revolving door figures are implementing them. The partisan labels change; the donor class interests are constant.
+
+> [!money]
+> The 25 think tanks in this vault receive a combined estimated $2.1 billion+ annually. Their alumni collectively hold approximately 200+ senior government positions in any given administration. The dollar-per-government-position ratio is roughly $10 million per senior appointment — making think tank investment in personnel development the most cost-efficient mechanism for donor-class policy influence. Direct lobbying costs $3-5 billion annually and produces incremental legislative gains. Think tank investment costs a fraction of that and produces the officials who decide whether and how to enforce the legislation that lobbying produces.
+
+---
+
+### Sources
+
+*(All sources from previously Chrome-verified think tank profiles in this vault. No new sources added — this analysis cross-references data established in individual profiles.)*
+
+**Heritage Foundation / Project 2025:**
+- [Revolving Door Project: Former Trump Officials Wrote 25 of the 30 Chapters in the Project 2025 Playbook](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2)
+- [19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/) (Tier 2)
+
+**Federalist Society / Leonard Leo:**
+- [ProPublica: We Don't Talk About Leonard — Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
+- [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
+
+**Center for American Progress:**
+- [ProPublica Nonprofit Explorer: Center for American Progress Action Fund](https://projects.propublica.org/nonprofits/organizations/431501265) (Tier 1)
+
+**Brookings Institution:**
+- [ProPublica: Brookings Institution revolving door documentation](https://projects.propublica.org/nonprofits/organizations/530196577) (Tier 1)
+
+**Council on Foreign Relations:**
+- [CFR: About CFR — membership and history](https://www.cfr.org/about/) (Tier 3)
+- [ProPublica Nonprofit Explorer: Council on Foreign Relations](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1)
+
+**CNAS — Biden placements:**
+- [CNAS: Experts and Alumni Selected for Senior Leadership Positions in the Biden Administration](https://www.cnas.org/press/press-release/cnas-experts-and-alumni-selected-for-senior-leadership-positions-in-the-biden-administration) (Tier 3)
+
+**Mercatus revolving door:**
+- [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2)
+- [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php/Mercatus_Center) (Tier 3)
+
+**RAND Corporation:**
+- [ProPublica Nonprofit Explorer: RAND Corporation](https://projects.propublica.org/nonprofits/organizations/951098605) (Tier 1)
+- [Quincy Institute: Think Tank Funding and U.S. Foreign Policy](https://responsiblestatecraft.org/2020/05/20/think-tank-funding-and-u-s-foreign-policy/) (Tier 2)
+
+**Hudson Institute:**
+- [ProPublica Trump Town: Hudson Institute revolving door documentation](https://projects.propublica.org/trump-town/) (Tier 1)
+
+**Atlantic Council:**
+- [ProPublica Nonprofit Explorer: Atlantic Council of the United States](https://projects.propublica.org/nonprofits/organizations/520981423) (Tier 1)
+
+**AEI revolving door:**
+- [ProPublica Trump Town: AEI government placements](https://projects.propublica.org/trump-town/) (Tier 1)
+
+**Structural analysis:**
+- [Quincy Institute: Think Tank Funding and U.S. Foreign Policy](https://responsiblestatecraft.org/2020/05/20/think-tank-funding-and-u-s-foreign-policy/) (Tier 2)
+
+---
+
+content-readiness:: ready

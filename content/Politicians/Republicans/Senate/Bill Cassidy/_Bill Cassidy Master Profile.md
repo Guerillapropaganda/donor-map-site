@@ -1,0 +1,136 @@
+---
+title: "_Bill Cassidy Master Profile"
+type: politician
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+
+#bill-cassidy #senate #louisiana #physician #petrochemical #fossil-fuel #impeachment #bipartisan #class-analysis
+
+related: [[Petrochemical Industry Bloc]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]] · Bipartisan Infrastructure Group
+
+donors: [[Petrochemical Industry Bloc]], [[Fossil Fuel Bloc]], [[Koch Network - Charles Koch]]
+
+profile-status:: ready
+
+---
+---
+
+### Who He Is
+
+Bill Cassidy. U.S. Senator from Louisiana (2015–present). Born September 8, 1957, in Highland Park, Illinois. Medical doctor (LSU School of Medicine, 1984). Family medicine physician and cardiologist. Served in U.S. House (2009–2015) representing Louisiana's 6th District. Voted to convict President Trump during his second impeachment (February 2021) — one of only seven Republicans to do so. Running for reelection in 2026 facing Trump-backed primary challenger Julia Letlow. The rarest Republican unicorn: a physician-politician who broke with Trump and survived (barely) in a deep-red state.
+
+---
+
+### The Central Thesis
+
+Bill Cassidy is the vault's case study in how petrochemical and fossil fuel industry dominance in Louisiana's economy functions as a structural replacement for standard donor-class influence. Cassidy represents a state where the donor class and the state geography are identical: petrochemicals are Louisiana's entire economy (15% of the state's GDP, 80% of industrial employment). His vote to convict Trump should have been political suicide in a MAGA state — but it was insulated from normal electoral consequences because Louisiana's oil and gas industry needed a senator who could work across the aisle on energy infrastructure. The bipartisan infrastructure bill (which Cassidy co-authored) funneled federal money to Louisiana's petrochemical corridor and carbon capture pipelines. His political survival is purchased by the same industry that pollutes Cancer Alley. His Trump vote was permitted because it didn't threaten industry interests — it actually served them by preserving his dealmaking capacity.
+
+---
+
+### The Core Contradiction
+
+> [!contradiction]
+> Cassidy is a physician who voted to convict Trump on constitutional grounds, condemning the January 6 attack and defending democratic norms. He was censured by the Louisiana Republican Party for this vote. He's positioned himself as a responsible institutionalist defending the Constitution.
+>
+> Simultaneously, Cassidy has defended the petrochemical industry against its most basic health accountability claims. When President Biden referred to Louisiana's industrial corridor as "Cancer Alley," Cassidy rebuked him, claiming the term "slams upon our state." As a physician, Cassidy attributed higher cancer rates in petrochemical communities to lifestyle factors (smoking, overeating) rather than toxic air pollution — a claim contradicted by peer-reviewed research linking industrial pollution directly to cancer clusters.
+>
+> The constitutional integrity stops at industry interest. Cassidy's Trump vote demonstrated principle; his Cancer Alley denial demonstrates deference to the donor class that funds him and defines Louisiana's entire political structure.
+
+---
+
+### Donor Class Map
+
+### The Petrochemical Corridor:
+- Louisiana Petrochemical Industry — The entire state's industrial base. 15% of state GDP, 80% of industrial manufacturing jobs. Cassidy's physician background gives him credibility on health claims the industry denies. His bipartisan brand (infrastructure co-author) justifies channeling $1.2 trillion federal infrastructure money through Louisiana's petrochemical and energy infrastructure. Cancer Alley environmental justice costs are externalized; the infrastructure subsidies flow to donors.
+
+### Bipartisan Infrastructure Bill — Who Benefited:
+- Co-authored by Cassidy alongside 9 other senators (5 from each party). The $1.2 trillion bill included $8 billion for regional hydrogen hubs and $6 billion for carbon capture pipeline infrastructure. Carbon capture requires pipelines. Blue hydrogen (made from natural gas with carbon sequestration) is fossil fuel infrastructure rebranded as "climate solution." Louisiana received billions in this allocation — directly benefiting petrochemical companies that own the pipelines and operate the thermal conversion hubs.
+
+### Fossil Fuel and Energy Sector:
+- Oil, gas, and petrochemical industry donations throughout his House and Senate career. The bill's hydrogen hub provisions and carbon capture subsidies are infrastructure investments disguised as climate policy — they preserve fossil fuel operations while funneling federal money to the industries operating them.
+
+---
+
+### The Impeachment Vote — Why Cassidy Survived
+
+Cassidy's vote to convict Trump was the single most surprising act by any deep-red-state Republican in the impeachment trials. He should have been primary-challenged immediately. Instead, he survived politically.
+
+The answer lies in Louisiana's unique donor landscape: petroleum dominance creates a donor class with different strategic interests than Trump-aligned Republicans in other states. Louisiana's oil and gas industry needs someone who can:
+
+1. Work with Democratic senators on energy legislation (bipartisan infrastructure)
+2. Navigate federal environmental regulations (EPA, Clean Water Act, Clean Air Act)
+3. Manage federal relationships on Gulf of Mexico energy leases and drilling permits
+4. Maintain Louisiana's position in the federal energy infrastructure
+
+Trump's transactionalism threatened this. A senator who couldn't work across the aisle — who was completely captured by Trump — would lose dealmaking capacity. Cassidy's impeachment vote, paired with his bipartisan infrastructure authorship, proved he could negotiate with Democratic senators and the Biden administration while still delivering petrochemical sector interests.
+
+The Louisiana petrochemical industry tolerated his Trump vote because it served their interests. His political survival was purchased by the same industry that faces environmental justice claims.
+
+---
+
+### Donation-to-Policy Timeline
+
+*Note: Cassidy's impeachment vote should have been career-ending in deep-red Louisiana. Instead, petrochemical industry support insulated him because his dealmaking capacity — bipartisan infrastructure authorship funneling billions to Louisiana's petrochemical corridor — was more valuable than Trump loyalty.*
+
+#### Petrochemical Corridor / Cancer Alley Infrastructure
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| 2021-11 | Louisiana petrochemical industry — 15% of state GDP, 80% of industrial manufacturing jobs; oil/gas/petrochemical PACs | Career oil/gas/petrochemical funding | 2008–2021 ongoing | Co-authors bipartisan infrastructure bill ($1.2 trillion); includes $8B hydrogen hub provision and $6B carbon capture pipeline subsidies — fossil fuel infrastructure rebranded as "climate solution" flowing directly to Louisiana's petrochemical corridor |
+| 2021-Q4 | Petrochemical and oil/gas sector donations accumulate post-infrastructure bill passage — reward cycle | Post-passage reward donations | 2021-Q4 | Cancer Alley environmental justice costs externalized; infrastructure subsidies flow to donors; Cassidy rebukes Biden for using term "Cancer Alley" — physician attributes cancer rates to lifestyle factors, not industrial pollution |
+
+#### Bipartisan Infrastructure / Carbon Capture Pipeline
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| 2021-06 | Bipartisan infrastructure group (5 senators each party); blue hydrogen (natural gas with carbon sequestration) subsidies serve fossil fuel preservation | Federal infrastructure allocation to Louisiana | 2021 | $8B regional hydrogen hubs + $6B carbon capture pipelines — carbon capture requires pipelines owned by petrochemical companies; federal money preserves fossil fuel operations under climate policy branding |
+
+#### Trump Impeachment / Political Survival Economics
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| 2021-02 | Petrochemical industry permits impeachment vote — Cassidy's dealmaking capacity more valuable than Trump loyalty | Political capital; industry prevents meaningful primary challenge | 2021-02 | Votes to convict Trump (1 of 7 Republicans); Louisiana GOP censures him; petrochemical industry prevents serious primary threat because bipartisan capacity serves their infrastructure interests |
+| 2026-05 | Trump endorses Julia Letlow to primary Cassidy — explicitly citing impeachment vote | Trump endorsement to challenger | 2025-01 | Primary election May 16, 2026; test of whether petrochemical industry support outweighs Trump's endorsement machine in deep-red Louisiana |
+
+> [!money] The Survival Pattern
+> Cassidy's impeachment vote should have been career-ending in Louisiana. Instead, he survived and became the lead author on a $1.2 trillion infrastructure bill that funneled federal money directly to his state's dominant industry. The pattern: his vote to convict Trump was permitted (even lionized by national media) because it didn't threaten Louisiana petrochemical interests — it actually preserved his capacity to deliver on energy infrastructure legislation that those interests needed. The censure was meaningless; the primary challenge from Letlow is real only because Trump demanded it, but Louisiana's oil/gas industry remains his structural base.
+
+---
+
+### Analytical Patterns
+
+**The Genuine Win + Structural Limit** — Cassidy's bipartisan infrastructure bill ($1.2 trillion) represents a real policy victory and genuine dealmaking capacity across party lines. However, the "win" stops short of threatening donor interests: the infrastructure billions flowed to Louisiana's petrochemical corridor and carbon capture pipelines that serve fossil fuel companies, not to healthcare or environmental remediation for Cancer Alley communities. The policy victory serves donor class interests while appearing to serve public interest.
+
+**The Villain Framing** — When Biden referred to Louisiana's industrial corridor as "Cancer Alley," Cassidy rebuked him for "slamming upon our state" rather than engaging with environmental justice claims. He frames the disease pattern as lifestyle factors (smoking, overeating) rather than industrial pollution—deflecting class analysis onto individual behavior rather than structural industrial exposure. This move protects the petrochemical donor class by reframing the harm as an individual problem.
+
+---
+
+### Rhetorical Signature Moves
+
+1. **The Institutionalist:** Cassidy presents himself as a constitutionalist defending democratic norms (his Trump vote, his bipartisan infrastructure work). This brand provides political cover for petrochemical industry alignment — he can claim to be "fighting for Louisiana" when he's actually fighting for petrochemical subsidies.
+
+2. **The Physician Expert:** Cassidy invokes his medical credentials when dismissing environmental justice claims about Cancer Alley, blaming individual lifestyle factors rather than industrial pollution. Medical expertise deployed to defend polluters, not to protect patients.
+
+3. **The Bipartisan Dealmaker:** Infrastructure bill co-authorship is framed as "working across the aisle for Louisiana." The actual outcome: federal dollars flow to petrochemical infrastructure; the industry stays in control; environmental regulations are minimized.
+
+4. **The Trump Defier (Controlled):** Cassidy's impeachment vote and his refusal to align completely with Trump are presented as principle. But they function as political theater: Louisiana's oil and gas industry needs dealmaking capacity more than Trump loyalty, so his "defiance" is strategically permitted and even lauded.
+
+---
+
+### Sources
+
+- [OpenSecrets: Bill Cassidy campaign finance summary](https://www.opensecrets.org/members-of-congress/bill-cassidy/summary?cid=N00030245) (Tier 1)
+- [FEC: Bill Cassidy candidate profile](https://www.fec.gov/data/candidate/S4LA00107/) (Tier 1)
+- [U.S. Senator Bill Cassidy official statement on impeachment conviction vote](https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-votes-to-convict-president-donald-trump/) (Tier 1)
+- [Rolling Stone: Louisiana GOP Censures Sen. Cassidy Who 'Voted to Convict President Trump Because He Is Guilty'](https://www.rollingstone.com/politics/politics-news/louisiana-gop-censures-cassidy-trump-impeachment-vote-1128332/) (Tier 2)
+- [Louisiana Illuminator: 'By objecting to the term Cancer Alley, Sen. Bill Cassidy is defending polluters, not Louisiana'](https://lailluminator.com/2021/02/05/by-objecting-to-the-term-cancer-alley-sen-bill-cassidy-defending-polluters-not-louisiana/) (Tier 2)
+- [NOLA.com: 'It's a slam upon our state': Sen. Bill Cassidy rebukes Joe Biden over 'Cancer Alley' remarks](https://www.nola.com/news/environment/article_98b5dd56-665c-11eb-993d-ab9537e3b12f.html) (Tier 2)
+- [Cook Political Report: Bayou Battle Looms as Cassidy Tries To Repent From Trump Impeachment Vote](https://www.cookpolitical.com/analysis/senate/louisiana-senate/bayou-battle-looms-cassidy-tries-repent-trump-impeachment-vote) (Tier 2)
+- [NBC News: GOP Sen. Bill Cassidy draws primary challenger citing Trump impeachment vote](https://www.nbcnews.com/politics/congress/gop-sen-bill-cassidy-draws-primary-challenger-trump-impeachment-rcna182940) (Tier 2)
+- [19thNews: Trump backs Rep. Julia Letlow to challenge Sen. Bill Cassidy in Louisiana](https://19thnews.org/2026/01/louisiana-senate-2026-cassidy-letlow/) (Tier 2)
+- [U.S. Senator Bill Cassidy: Bipartisan group introduces nation's first comprehensive CO2 infrastructure bill](https://www.cassidy.senate.gov/newsroom/press-releases/bipartisan-group-introduces-nations-first-comprehensive-co2-infrastructure-bill/) (Tier 1)
+content-readiness:: ready

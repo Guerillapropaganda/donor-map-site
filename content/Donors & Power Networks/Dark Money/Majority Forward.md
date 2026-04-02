@@ -1,0 +1,108 @@
+---
+title: "Majority Forward"
+type: pac
+content-readiness: developed
+last-updated: 2026-03-26
+source-tier: 1
+parent: null
+---
+
+#majority-forward #dark-money #democratic #501c4 #senate #schumer #dark-money-symmetry
+
+related: [[Senate Majority PAC]] [[_Chuck Schumer Master Profile|Schumer]] [[New Venture Fund]] [[Sixteen Thirty Fund]] [[Advocacy Fund]] [[Democratic Senatorial Campaign Committee]]
+
+---
+
+### Who They Are
+
+Majority Forward is a 501(c)(4) dark money organization that operates as the nonprofit arm of the Democratic Senate campaign apparatus. Founded in 2015, it works in tandem with [[Senate Majority PAC]] — the Super PAC that directly funds Senate Democratic campaigns. As a 501(c)(4), Majority Forward can accept unlimited donations without disclosing its donors, functioning as the dark money counterpart to the disclosed Super PAC spending.
+
+The organization was incorporated by Marc Elias of Perkins Coie — the Democratic Party's go-to election lawyer — and has been led by figures drawn directly from the Senate Democratic leadership orbit. Rebecca Lambe, former chief political strategist for Senate Majority Leader Harry Reid, led the organization in its first cycle. J.B. Poersch, former executive director of the Democratic Senatorial Campaign Committee, has served simultaneously as president of both Majority Forward and Senate Majority PAC.
+
+Majority Forward and Senate Majority PAC share office space, staff, and a cost-sharing agreement. In the second half of 2015 alone, Majority Forward reimbursed Senate Majority PAC over $300,000 for staff, office space, and other expenses. The two organizations are functionally a single operation split across two legal entities — one for disclosed Super PAC spending, one for anonymous dark money.
+
+### What They Want
+
+Majority Forward exists to ensure Democratic control of the U.S. Senate through unlimited anonymous spending. The organization's structural purpose is to allow the Schumer-aligned Senate leadership operation to accept money from donors who do not want their names disclosed — corporate interests, wealthy individuals, and other nonprofit pass-throughs that prefer to influence elections without public accountability.
+
+The 501(c)(4) structure allows Majority Forward to run "issue advocacy" ads that target competitive Senate races without explicitly calling for a candidate's election or defeat — the legal distinction that permits dark money spending. In practice, these ads are indistinguishable from campaign advertising.
+
+> [!contradiction]
+> Majority Forward is the institutional embodiment of the Democratic Party's dark money contradiction. Senate Democrats have repeatedly introduced legislation to require disclosure of political donors (the DISCLOSE Act), publicly denounced Republican dark money operations, and campaigned on the promise of getting dark money out of politics. Simultaneously, they built one of the largest dark money operations in American politics. Majority Forward's spending has consistently exceeded its Republican counterpart One Nation in recent cycles — Democrats are not losing the dark money arms race, they are winning it while claiming to oppose it.
+
+### Who They Fund
+
+Majority Forward's money flows primarily through three channels:
+
+**1. Senate Majority PAC (primary recipient):** The vast majority of Majority Forward's expenditures are grants to Senate Majority PAC. In 2020, Majority Forward contributed approximately $50 million to SMP — making it by far the single largest donor, accounting for 13% of SMP's revenue. In 2024, Majority Forward transferred approximately $70.8 million to SMP, with $30 million in Q3 2024 alone.
+
+**2. Satellite PACs:** Majority Forward has served as sole fiscal sponsor of smaller state-level PACs created for specific Senate races. In 2020, it was the sole funder of North Star ($7M, targeting Alaska's Dan Sullivan) and Let's Turn Colorado Blue ($1.5M, supporting John Hickenlooper's primary).
+
+**3. Allied nonprofits:** Tax records show Majority Forward donated nearly $2.7 million in 2018 to Coalition for a Safe and Secure America (CSSA), a left-of-center nonprofit that ran digital ads attacking Republican Senate candidates. CREW later filed an IRS complaint alleging CSSA failed to report its political activities on its 2018 tax return.
+
+### Donation-to-Policy Timeline
+
+| Date | Recipient/Target | Amount | Policy Return | Time Gap |
+|------|-----------------|--------|---------------|----------|
+| 2016 | Senate races (PA, NH, NV, OH, WI, KY) | ~$15M | Narrowed Republican Senate majority; Hassan defeated Ayotte in NH | Immediate |
+| 2016 | Merrick Garland SCOTUS campaign | $3.4M | Failed — McConnell blocked hearings; but established Majority Forward as political player | N/A |
+| 2018 | Senate Majority PAC + satellite operations | ~$46M | Democrats gained 2 Senate seats; Tester reelected in MT ($4.2M from MF was largest outside spend) | Immediate |
+| 2018 | Coalition for a Safe and Secure America | $2.7M | Anti-Republican digital ads in competitive races; later drew IRS complaint | Immediate |
+| 2019 | Government shutdown ads (AZ, CO, GA, IA, ME, NC) | $600K | Pressured Republican senators; set up 2020 targeting | 1 year |
+| 2020 | Senate Majority PAC | ~$50M | Democrats won Senate majority (50-50 + VP); SMP spent $200M attacking GOP incumbents | Immediate |
+| 2020 | North Star PAC (Alaska) | $7M | Dan Sullivan reelected despite $6.9M in attack ads | N/A |
+| 2020 | Independent advertising (est. Wesleyan Media Project) | $23.8M+ | 40,000+ ads by August 2020 alone; biggest outside Senate ad spender July-Aug 2020 | Immediate |
+| 2022 | Senate races via SMP | ~$76M total contributions | Democrats held Senate majority, gained a seat (Fetterman PA) | Immediate |
+| 2024 | Senate Majority PAC | ~$70.8M | Democrats lost Senate majority despite record dark money spending | Immediate |
+
+> [!money]
+> Majority Forward's spending trajectory tells the story of dark money's escalation: $15M in 2016, $46M in 2018, $83M+ in 2020, $76M in 2022, $113M+ in 2024. Each cycle breaks the previous record. The organization has contributed more money to federal political committees than any other dark money group in recent cycles. This escalation has occurred entirely under the banner of a party that publicly campaigns on eliminating dark money — the structural incentive to win overrides every stated principle about transparency. Majority Forward's record-breaking 2024 spending ($113M+) also coincided with Democrats losing the Senate majority, raising questions about whether dark money spending has reached a point of diminishing returns.
+
+### What They've Gotten
+
+Majority Forward's structural achievement is not any single election outcome but the normalization of a permanent Democratic dark money infrastructure that mirrors the Republican apparatus Democrats publicly condemn. The organization has:
+
+**Built institutional permanence:** Unlike one-cycle operations, Majority Forward has operated continuously since 2015 across five election cycles, creating a durable infrastructure for anonymous political spending that will persist regardless of individual election outcomes.
+
+**Established the pass-through model:** By serving as the primary dark money conduit to Senate Majority PAC, Majority Forward proved that a 501(c)(4) could function as a money-laundering operation for Super PAC funding — allowing donors to give anonymously to an entity that then passes the money to a disclosed Super PAC, effectively anonymizing what would otherwise be public contributions.
+
+**Created satellite operations:** The North Star and Let's Turn Colorado Blue model demonstrated that Majority Forward could spin up state-level PACs as needed, funded entirely by dark money, to target individual races with plausible organizational separation.
+
+### Class Analysis
+
+Majority Forward is the Dark Money Symmetry pattern in institutional form. The organization exists because the donor class requires anonymity — not because voters demand it. The donors who fund Majority Forward through undisclosed contributions are not small-dollar grassroots supporters who lack the resources for public engagement; they are corporations, wealthy individuals, and nonprofit pass-throughs that prefer to influence elections without accountability.
+
+The known funders confirm this: the Advocacy Fund ($1.5M in 2016), NEO Philanthropy Action Fund ($500K), Sixteen Thirty Fund ($500K), the American Health Care Association ($200K), and the Environmental Defense Action Fund ($200K). These are institutional donors operating through multiple layers of nonprofit intermediaries — the professional infrastructure of anonymous political spending.
+
+The FTX connection is particularly revealing: when the cryptocurrency exchange filed for bankruptcy in 2022, its creditor matrix listed Majority Forward as a recipient of funds. The crypto industry's political spending operated through dark money channels precisely because disclosure would reveal the industry's attempt to buy regulatory outcomes — the anonymity is the point.
+
+> [!contradiction]
+> The Democratic Party's position on dark money is structurally identical to its position on many donor-class issues: publicly oppose the practice, privately build the most sophisticated version of it. Senate Democrats have introduced the DISCLOSE Act in every Congress since 2010 — a bill that would require disclosure of donors to organizations like Majority Forward. The bill has never passed, and Democrats have never prioritized it even when they controlled both chambers. Majority Forward's existence is only possible because the DISCLOSE Act keeps failing — and its existence removes the institutional incentive to pass it.
+
+### Enemies / Opposition
+
+**Campaign finance reformers:** Citizens for Responsibility and Ethics in Washington (CREW) filed an IRS complaint against Majority Forward's grantee CSSA for failing to report political activities. The Center for Responsive Politics (OpenSecrets) has raised concerns about whether Majority Forward exceeds the legal limits on political spending for a 501(c)(4).
+
+**Progressive organizations:** Friends of the Earth, CREDO Action, and Climate Hawks Vote objected to Majority Forward's 2017 pro-coal advertising supporting Joe Manchin, gathering 157,000 signatures. The tension between Majority Forward's institutional loyalty to all Democratic Senate incumbents and progressive policy goals has surfaced repeatedly.
+
+**Republican counterparts:** One Nation (the Republican Senate dark money counterpart) and Crossroads GPS operate as Majority Forward's structural mirrors. The two sides have essentially agreed to a dark money arms race while each publicly blaming the other for the problem.
+
+### Connected Policy Areas
+
+The organization's spending does not target specific policy outcomes — it targets Senate control. However, the anonymous donor structure means that Majority Forward's funders can purchase Senate influence without disclosure. The policy areas most likely to benefit from anonymous funding are those where public knowledge of donor identity would create backlash: pharmaceutical pricing, financial regulation, fossil fuel subsidies, and tech regulation — industries whose lobbying is politically toxic but whose money is structurally necessary for Senate campaigns.
+
+---
+
+### Sources
+
+- [OpenSecrets: Outside spending on 2024 elections shatters records](https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/) (Tier 1)
+- [OpenSecrets: Party-aligned groups funnel millions in dark money to super PACs](https://www.opensecrets.org/news/2023/08/party-aligned-groups-funnel-millions-in-dark-money-to-closely-tied-super-pacs-ahead-of-2024-election/) (Tier 1)
+- [IRS: Majority Forward 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Majority%20Forward&city=&state=All+States&country=US) (Tier 1)
+- [FEC: Majority Forward contribution records](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Majority+Forward&two_year_transaction_period=2020) (Tier 1)
+- [Brennan Center: Dark money hit record $1.9B in 2024 federal races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races) (Tier 2)
+- [Center for Public Integrity: Democratic super PAC aided by secret money](https://publicintegrity.org/politics/democratic-super-pac-aided-by-secret-money/) (Tier 2)
+- [NBC News: How Democrats use dark money — and win elections](https://www.nbcnews.com/politics/congress/how-democrats-use-dark-money-win-elections-n849391) (Tier 2)
+- [InfluenceWatch: Majority Forward profile](https://www.influencewatch.org/non-profit/majority-forward/) (Tier 3)
+- [Ballotpedia: Majority Forward](https://ballotpedia.org/Majority_Forward) (Tier 3)
+
+content-readiness:: developed

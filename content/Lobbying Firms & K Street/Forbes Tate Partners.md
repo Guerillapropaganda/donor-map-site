@@ -1,0 +1,280 @@
+---
+title: "Forbes Tate Partners"
+type: lobbying-firm
+content-readiness: ready
+last-updated: 2026-03-27
+source-tier: 1
+parent: null
+annual-revenue: "$26.4M"
+lobbyist-count: 33
+revolving-door-pct: "63.6%"
+---
+
+#lobbying #k-street #pharma #healthcare #tobacco #grassroots #tax-policy #telecom #defense #bipartisan-access #clinton-orbit
+
+related: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackstone Group]] · [[Raytheon (RTX)|RTX Corp]] · [[_Lobbying Firms Framework]]
+
+---
+
+### Who They Are
+
+Forbes Tate Partners (FTP) is a bipartisan, full-service government affairs and public advocacy firm founded in 2012 by Jeff Forbes and Dan Tate Jr. — two former Clinton White House colleagues who had each run successful government relations practices before merging their operations. Headquartered in Washington, DC, the firm billed $26.35 million from 153 clients in 2025 and $26.29 million from 150 clients in 2024, making it one of the top 20 lobbying firms in the country.
+
+FTP is a subsidiary of **Public Policy Holding Company (PPHC)**, the London Stock Exchange-listed lobbying conglomerate that also owns Alpine Group and Crossroads Strategies. PPHC's combined federal lobbying revenue exceeded $69 million in 2023, making it the largest single-entity lobbying revenue stream in Washington. The firms maintain separate brands and offices but share holding company infrastructure.
+
+In October 2025, FTP expanded its geographic footprint into the Dallas–Fort Worth metropolitan area, establishing a new office focused on health, energy, AI, and financial services sectors. The expansion included the launch of the Lonestar Social Index, a proprietary platform tracking how Texas policy and business conversations influence national dialogue. The Dallas expansion signals FTP's recognition that the center of gravity in Republican politics and corporate America has shifted southward — particularly in the energy, tech, and health sectors that dominate the firm's client list.
+
+What distinguishes FTP from traditional lobbying shops is its **integrated grassroots/grasstops advocacy model**: the firm combines direct lobbying with public affairs campaigns, coalition management, digital communications, and grassroots mobilization. This means FTP doesn't just lobby Congress — it manufactures the appearance of public support for its clients' policy positions. The firm's services include strategic communications, insights and polling, coalition coordination, and "third-party coordination" — industry language for astroturf operations that create the impression of broad-based public support for corporate policy goals.
+
+The founding story is itself a map of the revolving door: Forbes came from the Senate Finance Committee (Chief of Staff to Senator Max Baucus, then Democratic Staff Director of the Finance Committee), and Tate came from the Clinton White House (Special Assistant to the President for Legislative Affairs). Together they represent the two essential D.C. access points — Congress and the Executive Branch — packaged into a single firm.
+
+> [!money]
+> Forbes Tate Partners represents the evolution of K Street: from simple lobbying to full-spectrum influence operations. The firm doesn't just ask legislators for favors — it constructs the political environment in which those favors become inevitable. When PhRMA needs Congress to block drug pricing legislation, FTP provides the lobbyists, the grassroots campaigns, the coalition partners, and the communications strategy simultaneously. The integrated model makes the influence invisible by making it look like organic democratic participation.
+
+---
+
+### Client List
+
+FTP represents 153 clients across pharma, healthcare, tech, defense, telecom, tobacco, financial services, energy, and agriculture — with a massive pharma/healthcare cluster that dominates the portfolio.
+
+#### Pharma & Healthcare (largest sector)
+- [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] — pharmaceutical trade association ($320K+)
+- Eli Lilly & Co (Lilly USA) — pharma
+- Gilead Sciences — pharma
+- Novartis AG (Novartis Corp) — pharma
+- Roche Holdings (Genentech Inc) — pharma
+- AstraZeneca PLC (Alexion Pharmaceuticals) — pharma ($200K)
+- Sanofi (Sanofi US) — pharma
+- [[Amgen Inc]] — pharma ($320K)
+- CSL Ltd (CSL Behring) — plasma/biotech
+- Halozyme Therapeutics — pharma
+- Ionis Pharmaceuticals — pharma
+- Vir Biotechnology — pharma
+- Lykos Therapeutics — psychedelic pharma
+- Anavex Life Sciences — pharma ($240K, 2025)
+- Walgreens Boots Alliance — pharmacy chain
+- Independent Pharmacy Cooperative — pharmacy
+- American College of Radiology — health professionals ($200K)
+- Association of American Medical Colleges — medical education ($240K)
+- Alivecor Inc — health tech
+- Bio-Rad Laboratories — diagnostics ($320K)
+- KKR & Co (Global Medical Response) — private equity healthcare ($320K+)
+- Multiplan Inc — healthcare cost management
+- Molina Healthcare — Medicaid managed care
+- House Rx — pharmacy
+
+#### Tobacco
+- Altria Group (Altria Client Services) — tobacco ($200K)
+
+#### Defense & Aerospace
+- [[RTX Corp]] — defense ($320K+)
+- SpaceX — aerospace
+- General Atomics — defense drones
+- Joby Aviation — air taxis
+
+#### Tech & Telecom
+- Advanced Micro Devices (AMD) — semiconductors ($240K)
+- CTIA — wireless trade association
+- Verizon Communications — telecom
+- AT&T Inc (DirecTV) — telecom/media
+- Deutsche Telekom (T-Mobile USA) — wireless
+- Lumen Technologies — telecom
+- NCTA The Internet & Television Assn — cable trade group
+- Uber Technologies — gig economy
+- Peloton Interactive — connected fitness
+- Coreweave — AI/cloud computing
+- Shein Group (Shein Technology) — fast fashion/e-commerce
+- Coalition for App Fairness — tech coalition (Apple antitrust)
+- Live Nation Entertainment — entertainment
+- Sony Corp (Sony Interactive Entertainment) — gaming
+- Universal Music Group — music
+
+#### Financial Services
+- [[Blackstone Group]] (Blackstone Administrative Services Partnership) — private equity ($320K)
+- Assured Guaranty Corp — insurance ($360K)
+- Visa Inc (Visa USA) — payments
+- Jones Financial Companies (Edward Jones) — financial services
+- Options Clearing Corp — derivatives
+- Insured Retirement Institute — insurance trade group
+- PNC Financial Services — banking
+- Bank Policy Institute — bank trade group
+- Bank of Montreal (BMO Bank) — banking ($120K, 2025)
+
+#### Energy & Utilities
+- Exelon Corp — nuclear/electric utility
+- Entergy Corp — electric utility
+- National Grid plc — electric/gas utility
+- Public Service Enterprise Group — utility
+- Williams Companies — natural gas
+- Citizens for Responsible Energy Solutions — clean energy Republican group
+- Solaredge Technologies — solar
+
+#### Agriculture & Food
+- Tyson Foods — meat processing
+- Barilla America — food ($200K)
+- YUM! Brands — fast food
+- Tractor Supply Co — farm retail
+- US Beet Sugar Assn — sugar lobby
+- AgLogic Chemical — agricultural chemicals
+
+#### Transportation
+- Airlines for America — airline trade group ($240K)
+- Association of American Railroads — rail trade group ($240K)
+- Crowley Maritime — shipping
+- Honda Motor Co (American Honda Motor) — auto
+- United Parcel Service — shipping
+
+> [!contradiction]
+> FTP simultaneously represents PhRMA (the pharmaceutical industry's largest trade group, which spends billions fighting drug pricing legislation) and multiple healthcare providers, medical associations, and even a Medicaid managed care company (Molina Healthcare) whose patients are directly harmed by the high drug prices PhRMA lobbies to maintain. The firm also represents Altria (tobacco) while lobbying on health issues — the clearest client conflict laundering in the portfolio. The grassroots advocacy arm creates "coalitions" that manufacture the appearance of public support for positions that serve these corporate clients, not the public.
+
+---
+
+### The Revolving Door
+
+FTP's 63.6% revolving door rate (21 of 33 lobbyists in 2024 are former government employees) is anchored by the founders' Clinton White House and Senate Finance Committee pedigrees.
+
+**Key Revolving Door Hires:**
+
+**Jeff Forbes** — Founding Partner
+- **Former:** Special Assistant to the President and Staff Director for Legislative Affairs, Clinton White House (1997); Chief of Staff to Senator Max Baucus (D-MT) (1999-2002); Democratic Staff Director, U.S. Senate Committee on Finance (2003)
+- **Government Role:** Top staff position on the committee that writes tax law, trade policy, and healthcare legislation (Medicare, Medicaid, ACA). Baucus was Finance Committee Chairman during critical healthcare and tax debates.
+- **Value:** Senate Finance Committee is arguably the most powerful committee for FTP's pharma/healthcare/tax client base. Forbes's relationships with Finance Committee members and staff are the firm's core asset.
+- **Notable:** Also ran political campaigns — NH Field Director for Clinton 1992, Deputy Political Director for Clinton 1996
+
+**Dan Tate Jr.** — Founding Partner
+- **Former:** Special Assistant to the President for Legislative Affairs, Clinton White House (3 years); previously served at the Department of Energy and U.S. House of Representatives
+- **Government Role:** Clinton's liaison to Democratic and Republican moderates — worked with New Democrats and Blue Dogs. Responsible for trade, energy, environment, telecom, transportation, and financial services legislation.
+- **Value:** White House Legislative Affairs access (the office that coordinates the President's agenda with Congress); bipartisan moderate relationships; received the 2024 Bryce Harlow Business-Government Relations Award (the lobbying industry's highest honor)
+- **Notable:** The Bryce Harlow Award is named after Eisenhower's and Nixon's chief lobbyist — the award itself celebrates the professionalization of the revolving door
+
+**Jay Driscoll** — (Revolving Door flagged)
+- **Client coverage:** Broadest lobbyist in the firm — covers Altria (tobacco), Amgen, AstraZeneca, AT&T, AMD, Airlines for America, SpaceX, Verizon, Uber, KKR/Global Medical Response, Live Nation, Deutsche Telekom, UPS, Tyson Foods, and 20+ more clients
+- **Value:** High-volume bipartisan contact man
+
+**Cindy S. Brown** — (Revolving Door flagged)
+- **Client coverage:** Pharma-heavy portfolio — PhRMA, Eli Lilly, Gilead, Novartis, Roche/Genentech, AstraZeneca, CSL, Sanofi, Coreweave, RTX, Verizon
+- **Value:** Pharma industry specialist
+
+**Cynthia Brown** — (Revolving Door flagged)
+- **Client coverage:** Similar pharma-heavy portfolio to Cindy Brown — PhRMA, Eli Lilly, Gilead, Novartis, Roche/Genentech, AstraZeneca, CSL, Sanofi, plus AMD, Exelon, Coreweave, Deutsche Telekom, Honda
+- **Value:** Healthcare and pharma specialist with energy crossover
+
+**Paul Dioguardi** — (Revolving Door flagged)
+- **Client coverage:** Healthcare-focused — Molina Healthcare, KKR/Global Medical Response, Independent Pharmacy Cooperative, Lykos Therapeutics, Multiplan
+- **Value:** Medicare/Medicaid and healthcare delivery specialist
+
+**Rich Lopez** — (Revolving Door flagged)
+- **Client coverage:** Cross-sector generalist — Altria, Walgreens, CSL, KKR, Honda, JobsOhio, Jones Financial, Joby Aviation, Shein, RTX, Universal Music Group, Tyson Foods
+- **Value:** Ohio political network (JobsOhio, Ohio Business Roundtable)
+
+**Justin Kintz** — (Revolving Door flagged)
+- **Client coverage:** Tech-focused — Coalition for App Fairness, Uber, Peloton, Zero Hash
+- **Value:** Former Uber executive (reverse revolving door — industry to lobbying firm)
+
+**Scott Olsen** — Partner (joined late 2025)
+- **Former:** Senior Vice President of Federal Advocacy, PhRMA (Pharmaceutical Research and Manufacturers of America) — one of the most powerful lobbying positions in Washington healthcare policy
+- **FTP Role:** Partner; advising health care clients and venture capital/emerging biotech division
+- **Value:** Olsen moves directly from PhRMA — FTP's single most strategically significant client — to a partner role at the firm that lobbies for PhRMA. This is the revolving door at its purest: PhRMA's top federal lobbyist now works for the firm PhRMA pays to lobby Congress. The relationship is no longer mediated by a client engagement — the PhRMA expertise is now inside the firm permanently.
+- **Source note:** Reported by Politico Influence
+
+> [!money]
+> The Forbes-Tate founding structure is a textbook case of revolving door optimization: Forbes brings the Senate Finance Committee (which controls tax, trade, and healthcare law), Tate brings the White House Legislative Affairs office (which controls the President's relationship with Congress). Between them, they can access every stage of the legislative process — from committee markup to presidential signing ceremony. Every pharma company paying FTP $200K-$320K annually is purchasing access to the committee that writes Medicare and Medicaid law.
+
+---
+
+### What They Deliver
+
+FTP's top lobbying issues in 2024 reveal a pharma/healthcare-dominated practice:
+
+| Issue Area | Lobbying Reports | Clients | Lobbyists |
+|-----------|-----------------|---------|-----------|
+| Health Issues | 172 | 46 | 26 |
+| Taxes | 125 | 33 | 28 |
+| Fed Budget & Appropriations | 100 | 27 | 25 |
+| Medicare & Medicaid | 94 | 26 | 19 |
+| Environment & Superfund | 87 | 24 | 17 |
+| Energy & Nuclear Power | 77 | 22 | 22 |
+| Agriculture | 60 | 16 | 19 |
+| Trade | 59 | 19 | 24 |
+| Finance | 50 | 14 | 27 |
+| Telecommunications | 48 | 12 | 17 |
+| Defense | 47 | 13 | 25 |
+
+Health Issues dominates with 172 reports from 46 clients — consistent with the massive pharma cluster in the client list. Medicare & Medicaid is its own separate category with 94 reports. Together, health-related lobbying accounts for the firm's largest activity by far.
+
+**The Grassroots Machine:**
+FTP's distinctive capability is combining direct lobbying with manufactured grassroots support. The firm's services include:
+- **Coalition management:** Building and managing issue-specific coalitions that give corporate policy positions the appearance of broad-based support
+- **Grassroots/grasstops mobilization:** Activating networks of supporters (real and cultivated) to pressure legislators
+- **Strategic communications:** Framing corporate lobbying goals as public interest narratives
+- **Digital advocacy:** Social media campaigns, digital advertising, and online petition drives
+- **Third-party coordination:** Organizing ostensibly independent voices to echo client talking points
+
+This model means that when FTP lobbies against drug pricing legislation on behalf of PhRMA, it simultaneously runs grassroots campaigns through patient groups, coalition partners, and digital channels that make the opposition appear organic. The lobbying and the astroturf are managed by the same firm.
+
+---
+
+### The Bipartisan Model
+
+FTP's bipartisan architecture is embedded in the founding DNA:
+
+- **Democratic access:** Jeff Forbes (Clinton WH, Baucus/Finance Committee), Dan Tate (Clinton WH Legislative Affairs, Blue Dog liaison)
+- **Republican crossover:** Tate's specific role was liaising with Republican moderates and New Democrats — he was the Clinton Administration's bridge to the center-right
+- **Bipartisan staff:** Multiple lobbyists flagged as revolving door from both parties
+
+The firm's client list confirms the bipartisan model: Altria, PhRMA, Blackstone, RTX, SpaceX, Uber, and the major telecom companies all need access to both parties. FTP's founding on the Clinton centrist model (Blue Dogs, New Democrats, bipartisan trade deals) reflects the specific strand of Democratic politics most compatible with corporate lobbying.
+
+**The PPHC Amplifier:** As with Alpine Group and Crossroads Strategies, FTP's position within the PPHC holding company means clients can access overlapping political networks through sister firms. The Ohio Business Roundtable (a client of FTP through Rich Lopez) mirrors Alpine Group's Ohio Business Council — suggesting coordinated client cultivation across PPHC subsidiaries.
+
+---
+
+### Billing vs. Outcomes
+
+### Lobbying-to-Policy Timeline
+
+| Date | Recipient/Target | Amount | Policy Return | Time Gap |
+|------|-----------------|--------|---------------|----------|
+| 2003 | Senate Finance Committee | Staff Director salary | Forbes builds Finance Committee relationships as Baucus's top staffer | Foundation |
+| 1997-2000 | Clinton White House | WH staff salaries | Forbes and Tate build bipartisan relationships during Clinton legislative campaigns (NAFTA, telecom, financial services) | Foundation |
+| 2012 | Forbes Tate Partners founded | Startup investment | Two Clinton WH alumni combine Senate Finance + WH Legislative Affairs access into single lobbying firm | 9-12 years post-government |
+| 2020-2021 | PPHC acquires FTP | Acquisition | London Stock Exchange listing financializes FTP's political access; combined $69M+ PPHC revenue | N/A |
+| 2022-2024 | PhRMA drug pricing lobbying | $26.3M (firm total, 2024) | IRA drug pricing provisions limited to Medicare negotiation for 10 drugs (far narrower than proposed universal negotiation) — industry preserved commercial market pricing power | Concurrent |
+| 2024 | Dan Tate receives Bryce Harlow Award | Industry recognition | Lobbying establishment's highest honor — legitimizes the revolving door as public service | Career culmination |
+| 2024-2025 | Altria Group (tobacco) | $200K/yr | Continued lobbying on tobacco regulation, nicotine policy, and FDA oversight of novel tobacco products | Ongoing |
+| 2025 | Shein Group (fast fashion) | Client fees | Lobbying on trade policy (de minimis threshold) to protect Chinese e-commerce supply chain from tariffs | Ongoing |
+| 2025 | SpaceX + Joby Aviation | Client fees | Lobbying on FAA regulation, launch licensing, airspace integration for commercial space and air taxis | Ongoing |
+
+> [!money]
+> The PhRMA relationship is the most structurally significant: PhRMA is the pharmaceutical industry's most powerful lobbying vehicle, and Forbes Tate's founder ran the Senate Finance Committee staff that writes Medicare/Medicaid law. When FTP lobbies Finance Committee members on drug pricing, it's a former Staff Director calling staffers he hired or trained. The $26M firm revenue is a fraction of what PhRMA's clients save by blocking comprehensive drug pricing legislation.
+
+---
+
+### Class Analysis
+
+Forbes Tate Partners represents the **maturation of Clinton-era centrist politics into a corporate lobbying infrastructure**. The firm's founding by two Clinton White House alumni is not incidental — it reflects a specific political moment when Democrats embraced corporate-friendly policy (NAFTA, telecom deregulation, financial services deregulation) and built the relationships that now generate lobbying revenue.
+
+The grassroots/astroturf dimension is FTP's most important structural contribution to the donor-to-policy pipeline. Traditional lobbying is visible — it appears in disclosure filings, client lists, and lobbying reports. FTP's integrated model adds an invisibility layer: when Congress receives lobbying contacts AND grassroots pressure AND coalition letters AND digital campaigns from what appear to be independent sources, but all of which are coordinated by the same firm, the influence becomes structurally undetectable. The democratic process appears to be functioning normally even as it's being professionally orchestrated.
+
+The pharma cluster is the clearest example: FTP represents PhRMA (the trade group), individual pharma companies (Eli Lilly, Gilead, Novartis, Roche, AstraZeneca, Sanofi, Amgen), healthcare providers (KKR/Global Medical Response, Molina), medical associations (AAMC, American College of Radiology), and pharmacy interests (Walgreens, Independent Pharmacy Cooperative). By representing every link in the healthcare chain, FTP can manufacture the appearance of industry-wide consensus on policy positions that actually serve pharmaceutical manufacturers' pricing interests.
+
+The PPHC holding company structure adds the final layer: FTP's political access, combined with Alpine Group's Appropriations/Energy expertise and Crossroads Strategies' bipartisan Senate relationships, creates a lobbying conglomerate whose profits flow to London Stock Exchange investors. The revolving door has been securitized — former White House staff access is now an asset class generating returns for international shareholders.
+
+---
+
+### Sources
+
+- [OpenSecrets: Forbes Tate Partners Lobbying Firm Profile — 2025](https://www.opensecrets.org/federal-lobbying/firms/summary?cycle=2025&id=D000066687) (Tier 1)
+- [OpenSecrets: Forbes Tate Partners Lobbying Firm Profile — 2024](https://www.opensecrets.org/federal-lobbying/firms/summary?cycle=2024&id=D000066687) (Tier 1)
+- [OpenSecrets: Forbes Tate Partners Lobbyists — 2024](https://www.opensecrets.org/federal-lobbying/firms/lobbyists?cycle=2024&id=D000066687) (Tier 1)
+- [OpenSecrets: Forbes Tate Partners Issues Lobbied — 2024](https://www.opensecrets.org/federal-lobbying/firms/issues?cycle=2024&id=D000066687) (Tier 1)
+- [Forbes Tate Partners: Who We Are](https://forbes-tate.com/who-we-are/) (Tier 3)
+- [Forbes Tate Partners: Jeffrey Forbes Bio](https://forbes-tate.com/member/jeffrey-forbes/) (Tier 3)
+- [Forbes Tate Partners: Dan Tate Bio](https://forbes-tate.com/member/dan-tate/) (Tier 3)
+- [PPHC: Dan Tate to Receive 2024 Bryce Harlow Business-Government Relations Award](https://pphcompany.com/dan-tate-co-founder-of-forbes-tate-partners-will-receive-the-bryce-harlow-business-government-relations-award/) (Tier 3)
+- [LegiStorm: Forbes Tate Partners LLC Summary](https://www.legistorm.com/organization/summary/49047/Forbes_Tate_Partners_LLC.html) (Tier 3)
+- [LegiStorm: Jeff Forbes Biography](https://www.legistorm.com/person/bio/123803/Jeffrey_Alan_Forbes.html) (Tier 3)
+- [PR Newswire: Forbes Tate Partners Expands Public Affairs and Advocacy Footprint to the Lone Star State (Oct 2025)](https://www.prnewswire.com/news-releases/forbes-tate-partners-expands-public-affairs-and-advocacy-footprint-to-the-lone-star-state-302584261.html) (Tier 3)
+- [Dallas Innovates: D.C. Public Affairs Firm Forbes Tate Partners Expands to Dallas-Fort Worth (Oct 2025)](https://dallasinnovates.com/d-c-public-affairs-firm-forbes-tate-partners-expands-to-dallas-fort-worth/) (Tier 3)
+- [Forbes Tate Partners/Politico Influence: Former PhRMA lobbyist Scott Olsen lands at Forbes Tate](https://forbes-tate.com/politico-influence-former-phrma-lobbyist-lands-at-forbes-tate/) (Tier 2)
+
+content-readiness:: ready

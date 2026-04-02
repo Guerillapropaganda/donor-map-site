@@ -1,0 +1,151 @@
+---
+title: "Judicial Crisis Network"
+type: donor
+content-readiness: developed
+last-updated: 2026-03-25
+source-tier: 1
+parent: null
+---
+
+#donor #judicial-crisis-network #concord-fund #leonard-leo #scotus #dark-money #judicial-confirmations #class-analysis #follow-the-money #barre-seid #marble-freedom-trust #honest-elections-project #raga
+
+related: [[Leonard Leo]] · [[_Neil Gorsuch Master Profile|Gorsuch]] · [[_Amy Coney Barrett Master Profile|Barrett]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Koch Network - Charles Koch]] · [[Donors Trust]] · [[Federalist Society]] · [[_Sheldon Whitehouse Master Profile|Whitehouse]] · [[_Clarence Thomas Master Profile|Thomas]]
+
+---
+
+### Who They Are
+
+The Judicial Crisis Network (JCN) is the advertising and public pressure arm of [[Leonard Leo|Leonard Leo]]'s dark money judicial selection pipeline. Founded in 2004 as the Judicial Confirmation Network to support George W. Bush's judicial nominees, it rebranded as the Judicial Crisis Network in 2011 and again as the Concord Fund in December 2020 — obscuring its history while maintaining identical operations. JCN is a 501(c)(4) "social welfare" organization based in Vienna, Virginia, which means it can accept unlimited anonymous donations and spend on political advocacy without disclosing its donors.
+
+JCN has spent over $100 million on Supreme Court confirmation battles, state attorney general races, and regulatory advocacy since 2016. It is the single largest outside spending vehicle for Supreme Court confirmations in American history. The organization also operates under the fictitious name "Honest Elections Project," a voter suppression operation launched in 2020.
+
+Carrie Severino, JCN's president, is a former [[_Clarence Thomas Master Profile|Clarence Thomas]] clerk and Leo protégé. Ann Corkery serves as counsel ($310K compensation in FY2024). Gary Marx serves as president, secretary, treasurer, and director — and draws $0 in compensation, a common dark money structure where leadership is compensated through affiliated entities.
+
+---
+
+### What They Want
+
+JCN's stated mission is judicial confirmations, but its operational scope reveals a broader agenda: capturing the federal judiciary to achieve through courts what cannot pass through legislatures. Specific priorities include confirming conservative Supreme Court justices and federal judges, defending those justices from ethics investigations, opposing judicial ethics reform legislation, funding Republican attorneys general (via RAGA), voter roll purges and ballot access restrictions (via Honest Elections Project), and opposing the DISCLOSE Act and any dark money transparency legislation.
+
+The through-line: every JCN priority either installs sympathetic judges, protects installed judges from accountability, or blocks legislation that would expose the money behind judicial capture.
+
+---
+
+### The Leo Network — Money Flow Architecture
+
+JCN operates within Leonard Leo's interconnected network of dark money organizations. The network functions as a pass-through system: money flows from anonymous donors through multiple entities before reaching its political destination, making it nearly impossible to trace the original source.
+
+**Key network nodes:**
+
+- **Marble Freedom Trust** — The apex entity. Received the $1.6 billion Barre Seid donation in 2020. Disbursed $55.5 million to the Concord Fund (JCN). Leo controls this entity directly.
+- **Rule of Law Trust (RLT)** — Entered the 2022 midterms with a $202 million war chest. The largest beneficiary of RLT funds was JCN. RLT raised $237 million total from at most six anonymous donors.
+- **85 Fund** (formerly Judicial Education Project) — The sister 501(c)(3) to JCN's 501(c)(4). Operates the Honest Elections Project.
+- **Donors Trust** — The dark money ATM. Donated $80 million to coalition groups in the 2024 cycle.
+- **CRC Advisors** — Leo's personal consulting firm. The Concord Fund paid CRC Advisors $6 million between July 2022 and June 2023 for "consulting."
+- **Federalist Society** — The talent pipeline. JCN provides the money; the Federalist Society provides the judicial candidates.
+
+> [!money]
+> The network architecture is the product. By routing money through multiple 501(c)(3) and 501(c)(4) entities, Leo's operation achieves three things simultaneously: donor anonymity (no public disclosure), tax optimization (Barre Seid avoided ~$400 million in capital gains taxes by donating Tripp Lite stock rather than cash), and political deniability (no single entity appears to control the full operation). The $1.6 billion Seid donation — the largest known political donation in American history — arrived as a stock transfer of 100% of Tripp Lite shares before the company sold for $1.65 billion to an Irish conglomerate. Leo's network received the proceeds tax-free.
+
+---
+
+### Who They Fund
+
+**2024 cycle contributions ($4.04 million total — 100% from organization, 0% from individuals):**
+
+| Recipient | Amount | Type |
+|-----------|--------|------|
+| Truth & Courage PAC | $2,500,000 | Outside Group (Conservative) |
+| Congressional Leadership Fund | $750,000 | Carey Committee (Conservative) |
+| Pole Position PAC | $750,000 | Outside Group (Conservative) |
+| Republican National Lawyers Assn | $40,000 | 527 (Conservative) |
+
+**Republican Attorneys General Association (RAGA):** $20.3 million from JCN/Concord Fund since 2014. Top RAGA funder in both 2023 ($1 million in first half) and 2024 ($1 million in Q1 alone). AGs serve as the enforcement arm — filing lawsuits that implement the policy agenda the courts were captured to deliver.
+
+**Anti-offshore wind:** The Concord Fund donated $573,000 to a New England fisherman stewardship association opposing offshore wind projects in 2023-2024, revealing the network's expansion beyond judicial politics into energy policy.
+
+---
+
+### What They've Spent — SCOTUS Confirmation Campaigns
+
+### Donation-to-Policy Timeline
+
+| Date | Recipient/Target | Amount | Policy Return | Time Gap |
+|------|-----------------|--------|---------------|----------|
+| 2016 | Merrick Garland blockade / Gorsuch confirmation campaign | $17M | Garland seat held open → Gorsuch confirmed April 2017; cast deciding votes on Janus v. AFSCME (gutting public union funding), Trump travel ban | ~12 months |
+| 2018 | Brett Kavanaugh confirmation campaign | $17M | Kavanaugh confirmed October 2018; cast deciding vote on Dobbs (overturning Roe), joined Chevron deference overturn, EPA regulatory limits | ~1 month |
+| 2020 | Amy Coney Barrett confirmation campaign | $10M | Barrett confirmed October 2020; joined 6-3 supermajority on Dobbs, Students for Fair Admissions (ending affirmative action), Bruen (expanding gun rights) | ~3 weeks |
+| 2020 | Barre Seid → Marble Freedom Trust (Tripp Lite stock) | $1,600M | Funded the entire network's next decade of operations; Leo pledged $1B to "crush liberal dominance" in media and politics | Ongoing |
+| 2021-2024 | RAGA funding (annual $1M+ grants) | $20.3M cumulative | Republican AGs filed challenges to EPA regulations, student loan forgiveness, immigration policy — all before courts JCN helped stack | 1-5 years |
+| 2024 | Truth & Courage PAC, CLF, Pole Position PAC | $4.04M | Electoral support for congressional candidates aligned with judicial agenda | Current cycle |
+
+> [!money]
+> JCN spent $44 million on three Supreme Court confirmations. The justices it helped confirm have delivered rulings worth hundreds of billions to the donor class: overturning Chevron deference (eliminating regulatory authority over industries), gutting the EPA's power to regulate emissions, ending affirmative action, expanding gun rights, overturning Roe v. Wade. The $44 million was not a donation. It was a capital investment with compounding returns every Supreme Court term. And the $1.6 billion Seid donation ensures the operation is funded for decades — the largest known investment in judicial capture in American history.
+
+---
+
+### Financial Profile — IRS 990 Data (Concord Fund)
+
+| Fiscal Year | Revenue | Expenses | Net Income | Key Detail |
+|-------------|---------|----------|------------|------------|
+| FY2024 (ending June 2024) | $65.1M | $64.7M | $425K | Peak revenue year; $875K professional fundraising fees; conflict of interest transactions reported |
+| FY2023 (ending June 2023) | $52.8M | $54.7M | -$1.9M | $947K salaries; operated at deficit |
+| FY2022 (ending June 2022) | $29.4M | $28.5M | $823K | Lowest recent year; rebuilding after SCOTUS confirmation spending |
+| FY2021 (ending June 2021) | $48.1M | $51.1M | -$3.0M | Barrett confirmation year spending |
+| FY2019 (ending June 2019) | $29.6M | $33.7M | -$4.1M | Kavanaugh confirmation year spending |
+
+**100% of revenue comes from contributions.** Zero program service revenue, zero investment income, zero earned income. The Concord Fund is a pure pass-through: anonymous donors put money in, political spending comes out.
+
+**Compensation structure (FY2024):** Ann Corkery (Counsel) $310K, Frank Scaturro (Counsel) $268K, Carrie Severino (Counsel) $171K. Gary Marx (President/Secretary/Treasurer/Director) $0. The $0 compensation for the organization's president signals compensation through affiliated entities — a standard dark money practice.
+
+> [!contradiction]
+> The Concord Fund reports $0 in executive compensation while paying three "counsels" a combined $749K. The president draws $0. This structure exists because Leo's network compensates leadership through consulting fees at CRC Advisors ($6M from Concord Fund alone in one year) rather than direct salaries — making total compensation harder to track across the interlocking entities.
+
+---
+
+### The Honest Elections Project — Voter Suppression Arm
+
+In February 2020, the Concord Fund registered "Honest Elections Project" as a fictitious business name in Virginia. HEP operates as a voter suppression operation disguised as election integrity advocacy:
+
+- Successfully urged the Supreme Court to allow Virginia to purge voters from its rolls before the 2024 election
+- Supported the SAVE Act (mandatory proof-of-citizenship for voter registration) based on unfounded noncitizen voting claims
+- Filed amicus briefs in voting rights cases before the same courts JCN helped stack
+
+The connection is structurally important: JCN spends to confirm justices, then HEP litigates voting restrictions before those justices. The same dark money network controls both the judges and the cases.
+
+---
+
+### Revolving Door
+
+JCN's lobbying operation is small ($240K in 2024, $80K in 2023) but perfectly captured: 100% of JCN's lobbyists (1 of 1) have previously held government jobs. The revolving door operates primarily through the Federalist Society talent pipeline rather than through traditional lobbying — JCN doesn't need to lobby legislators when it can install judges directly.
+
+---
+
+### Class Analysis
+
+JCN represents the most efficient political investment vehicle in American history. For $44 million in SCOTUS confirmation spending (2016-2020), the donor class received a 6-3 Supreme Court supermajority that has: eliminated Chevron deference (the regulatory foundation for environmental, labor, and consumer protection), overturned Roe v. Wade (a 50-year social policy delivered to religious conservative donors), gutted affirmative action (a corporate HR priority), expanded gun rights (an NRA priority), and limited the EPA's regulatory authority (a fossil fuel industry priority).
+
+The return on investment is incalculable because it compounds every term. Every 5-4 or 6-3 decision that rolls back regulation or expands corporate power was purchased, in part, with JCN's anonymous dollars. And the donors who provided those dollars will never be identified.
+
+The $1.6 billion Seid donation transformed the operation from campaign-cycle dependent to permanently endowed. Leo's network now operates like a foundation — spending from a corpus that generates returns indefinitely. The judicial capture is not a project. It is an institution.
+
+**Analytical patterns present:** Dark Money Symmetry (Democrats denounce JCN's dark money while their own dark money groups — Demand Justice, Arabella Advisors — run parallel operations at smaller scale), Donor-Class Override (anonymous donors purchasing judicial outcomes that override democratic legislation), Revolving Door (Thomas clerk → JCN president → judicial gatekeeper).
+
+---
+
+### Sources
+
+- [OpenSecrets: Judicial Crisis Network organizational profile](https://www.opensecrets.org/orgs/judicial-crisis-network/summary?id=D000026924) (Tier 1)
+- [ProPublica Nonprofit Explorer: The Concord Fund IRS 990 filings](https://projects.propublica.org/nonprofits/organizations/202303252) (Tier 1)
+- [Senate Judiciary Committee: Votes to authorize subpoenas for Harlan Crow and Leonard Leo](https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-votes-to-authorize-subpoenas-for-harlan-crow-and-leonard-leo) (Tier 1)
+- [Sen. Sheldon Whitehouse: The Scheme Speech 6 — Judicial Crisis Network](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-6-judicial-crisis-network/) (Tier 1)
+- [ProPublica: We Don't Talk About Leonard — The man behind the right's Supreme Court supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
+- [ProPublica: Barre Seid donated $1.6 billion to conservative Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
+- [CNN: Massive dark money donation — new conservative group got $1.6 billion from single donor](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs/index.html) (Tier 2)
+- [CREW: Leonard Leo's mysterious $200 million dark money war chest](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-mysterious-200-million-dark-money-war-chest/) (Tier 2)
+- [CREW: Leonard Leo's firm continues to rake in millions from his own dark money network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2)
+- [EXPOSEDbyCMD: Leonard Leo's Concord Fund top funder of Republican AGs group in 2024](https://www.exposedbycmd.org/2024/04/16/leonard-leos-concord-fund-top-funder-of-republican-ags-group-in-2024/) (Tier 2)
+- [InfluenceWatch: Concord Fund profile](https://www.influencewatch.org/non-profit/concord-fund/) (Tier 3)
+
+content-readiness:: developed
+research-status:: developed — $65M FY2024 revenue, $100M+ SCOTUS confirmation spending, $1.6B Barre Seid/Marble Freedom Trust pipeline, $20.3M to RAGA, Honest Elections Project voter suppression arm, full IRS 990 financial history, Leo network architecture mapped. 11 sources, Tier 1-3. Broken WaPo URL replaced. Promoted from ready (thin) to developed (substantive). Session: Automated Donor Node Build March 25, 2026 Run 12.

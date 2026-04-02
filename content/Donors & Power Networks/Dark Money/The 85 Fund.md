@@ -1,0 +1,83 @@
+---
+title: "The 85 Fund"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+#85-fund #dark-money #judicial #Leonard-Leo #judicial-education-project #SCOTUS #nomination-campaigns
+
+related: [[Barre Seid]] [[Leonard Leo]] [[Marble Freedom Trust]] [[Sentinel Action Fund]] Judicial Education Project
+
+---
+
+### Who They Are
+
+The 85 Fund is a dark money nonprofit 501(c)(4) organization that operates as the political and advertising wing of Leonard Leo's judicial capture network. Formerly known as the Judicial Education Project, it was renamed "The 85 Fund" in 2021 — a reference to the number of federal judges appointed by Republican presidents at the time.
+
+The organization runs media campaigns supporting ultra-conservative Supreme Court nominees and opposing Democratic appointees. It is primarily funded through Barre Seid's Marble Freedom Trust and operates with no public accountability for its donor base. Spending: $10+ million per Supreme Court nomination fight (2020-2024 period).
+
+---
+
+### What They Want
+
+Supreme Court and federal judicial dominance by Federalist Society-aligned judges. The 85 Fund's explicit mission is to shape judicial nominations and block judges perceived as threats to conservative jurisprudence. Secondary aims include opposing abortion rights protections (pre-Dobbs), limiting voting rights protections, opposing labor protections, and defending corporate interests against regulatory enforcement.
+
+---
+
+### Who They Fund
+
+### Direct Activities:
+- Television and digital ad campaigns in Supreme Court nomination fights
+- Opposition research and talking point development
+- Coordinated media strategy with conservative outlets
+- State-level judicial race spending
+
+### Financing Sources (as a dark money org):
+- Marble Freedom Trust (primary funder, $10M+ annually)
+- Anonymous donors through 501(c)(4) status (no public disclosure)
+- Coordinated with Heritage Foundation's Sentinel Action Fund on spending timing and messaging
+
+---
+
+### What They've Gotten
+
+### Supreme Court Nomination Campaigns (2020-2024):
+**Amy Coney Barrett (2020):** The 85 Fund spent $10+ million on pro-Barrett ads and messaging, coordinating with conservative media to frame Barrett as a originalist jurist without addressing her opposition to abortion rights and expanded regulatory authority. The campaign successfully suppressed discussion of her explicit anti-Roe jurisprudence.
+
+**Brett Kavanaugh (2018):** The Judicial Education Project (predecessor to The 85 Fund) spent $5+ million during his nomination fight, coordinating rapid response to sexual assault allegations and framing the confirmation as a "war on the judiciary."
+
+**Neil Gorsuch (2017):** Spent $10+ million on coordinated media campaign supporting Gorsuch as a "textualist" originalist, setting template for future dark money judicial nomination spending.
+
+> [!money]
+> The 85 Fund operates a disclosure-avoidance strategy: it functions as a 501(c)(4) nonprofit, which means its donors remain completely anonymous. A $10 million ad campaign supporting Amy Coney Barrett — paid for with Barre Seid's capital — did not reveal Seid's name in a single advertisement. Federal law permits this because 501(c)(4) organizations are classified as "social welfare" groups rather than political organizations, despite functioning entirely as political entities. The IRS has never challenged this classification despite 20+ years of clear evidence that dark money nonprofits operate as partisan machines.
+
+### Abortion Jurisprudence:
+The 85 Fund-supported judges (Kavanaugh, Barrett, Gorsuch, Thomas, Alito) voted to overturn Roe v. Wade in Dobbs (2022). The judgment overturned 50 years of constitutional abortion rights protections, restricting reproductive autonomy directly in the interests of religious conservative voters — but with economic spillover benefits for corporate interests (reduced workforce demands for childcare, lower wage pressure from reproductive labor reductions).
+
+### Voting Rights Restriction:
+The 85 Fund-supported judges voted to gut the Voting Rights Act (Shelby County, 2013), restrict voting access (Brnovich v. Democratic National Committee, 2021), and block voting rights protections (Merrill v. Milligan, 2023). Each decision tightens electoral barriers in ways that help Republican candidates and hurt Democratic constituencies.
+
+---
+
+### Class Analysis
+
+The 85 Fund exemplifies **dark money judicial capture infrastructure**: a nonprofit organization that receives unlimited sums from a single billionaire (Seid), deploys capital to influence Supreme Court composition, operates with zero donor transparency, and achieves outcomes (Dobbs, voting rights restriction, union-weakening) that serve both religious conservative voters AND billionaire class interests.
+
+The 85 Fund also illustrates the **asymmetry in progressive dark money**: Democrats have no equivalent organization that runs $10+ million pro-judge campaigns. The equivalent would be a dark money group running ads opposing Samuel Alito or Clarence Thomas — but no such organization exists with comparable resources. This asymmetry means Supreme Court composition tilts toward structures that serve billionaire interests (by restricting labor regulation, voting rights, environmental enforcement) while progressive groups fight reactive battles against judicial appointments already locked in.
+
+The Fund's rebranding from "Judicial Education Project" to "The 85 Fund" reveals self-awareness about opacity: the new name conveys numbers and victory framing ("we have 85 judges") while obscuring the organization's explicit political function.
+
+---
+
+### Sources
+
+- [ProPublica: The 85 Fund and Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
+- [OpenSecrets: The 85 Fund organizational profile](https://www.opensecrets.org/orgs/the-85-fund/summary) (Tier 1)
+- [IRS Form 990: The 85 Fund (Judicial Education Project)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=The%2085%20Fund&city=&state=All+States&country=US) (Tier 1)
+- [Axios: The 85 Fund spending in 2020-2024](https://www.axios.com/2024/07/12/the-85-fund-spending-supreme-court) (Tier 2)
+- [Center for Responsive Politics: Dark money and judicial nominations](https://www.opensecrets.org/news/2020/10/dark-money-fuels-court-battle/) (Tier 2)
+
+content-readiness:: ready

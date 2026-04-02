@@ -1,0 +1,128 @@
+---
+title: "Concerned Veterans for America"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+
+#donor #dark-money #koch #veterans #privatization #va #astroturf #class-analysis #follow-the-money #healthcare
+
+related: [[Koch Network - Charles Koch]] [[_Pete Hegseth Master Profile|Hegseth]] [[Doug Collins]] [[_Donald Trump Master Profile|Trump]] [[Veterans and Military - Donors and Backers]] [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]
+
+---
+
+### Who They Are
+
+Concerned Veterans for America (CVA) is the Koch network's purpose-built political operation targeting veterans' healthcare for privatization. Founded in 2011 as "Vets for Economic Freedom Trust" with $2 million in seed funding from Koch-affiliated donors. Rebranded to CVA shortly after formation. Pete Hegseth — now Trump's Secretary of Defense — served as its first CEO and executive director (2011-2016).
+
+**Funding structure:** From 2012-2014, CVA received over $20 million from Freedom Partners Chamber of Commerce — described by Politico as "the Koch brothers' secret bank." In 2015 alone, CVA received nearly $16 million in contributions, with $14 million coming directly from Freedom Partners. By 2016 (Hegseth's final year), the organization raised $15.9 million and spent $16.4 million.
+
+**Post-2016 restructuring:** After Koch network reorganization in 2016, Americans for Prosperity became the umbrella organization absorbing CVA as an extension project. CVA now receives all funding from AFP and no longer files independent IRS returns — meaning its budget, donors, and expenditures are invisible to public disclosure. This is dark money by design.
+
+**Koch network trustees:** Wayne Gable — former managing director of federal affairs at Koch Industries, president of the Charles G. Koch Foundation, and board member of Freedom Partners — serves as a CVA trustee. The organization's governance connects directly to the Koch family's corporate and philanthropic apparatus.
+
+---
+
+### What They Want
+
+Privatization of the Veterans Health Administration. CVA's 15-year project has one structural goal: redirect the VA's $369 billion annual budget from government-operated healthcare to private healthcare networks operated by corporations like Optum/UnitedHealth, TriWest Healthcare Alliance, and CVS/Aetna.
+
+The rhetorical frame is "choice" and "access." The structural outcome is defunding the largest integrated healthcare system in the United States and transferring its revenue to private insurers and providers.
+
+### Specific policy objectives:
+- Expand community care referrals under VA MISSION Act (2018) until private care becomes the default
+- Shutter underperforming VA facilities rather than invest in them
+- Weaken VA employee protections to accelerate workforce reduction
+- Create "personal option" allowing veterans to access private care with VA funding
+- Remove bureaucratic barriers that currently keep veterans within VA's integrated care system
+
+---
+
+### Who They Fund (and Who Funds Them)
+
+> [!money] Follow the Money — CVA Funding Pipeline
+> **2012-2014:** $20+ million from Freedom Partners (Koch "secret bank")
+> **2015:** $16 million total / $14 million from Freedom Partners alone
+> **2016:** $15.9 million raised / $16.4 million spent (Hegseth's final year)
+> **Post-2016:** Absorbed into AFP. Budget now invisible — no independent IRS filings
+> **Total documented Koch network funding:** $50+ million (2011-2016)
+>
+> CVA does not fund politicians directly. It funds *policy*. The organization lobbies, runs grassroots campaigns, produces policy papers, and cultivates political allies who then implement its agenda from inside government.
+
+### Key political allies cultivated by CVA:
+- **[[_Pete Hegseth Master Profile|Pete Hegseth]]:** CVA executive director 2011-2016. Now Secretary of Defense. Controls Pentagon budget and military healthcare policy.
+- **[[Doug Collins]]:** Championed three CVA-backed bills in Congress. Now VA Secretary. Controls $369B VA budget.
+- **Darin Selnick:** CVA adviser appointed to VA Commission on Care (2014). Advocated shuttering VA facilities and expanding private care. Instrumental in developing the MISSION Act.
+- **Americans for Prosperity:** Koch umbrella org now lobbying for Veterans' ACCESS Act and "personal option" for private community care.
+
+---
+
+### What They've Gotten
+
+### The 15-year pipeline, completed:
+| Date | Event | Amount | Source |
+|------|-------|--------|--------|
+| 2011-01-01 | Koch network founds Concerned Veterans for America with Hegseth as CEO | $2M seed funding | American Oversight |
+| 2014-01-01 | VA Choice Act passes, first legislative expansion of private care (CVA lobbied heavily) | — | Congress.gov |
+| 2014-01-01 | CVA adviser Darin Selnick placed on Commission on Care to advocate facility closures | — | VA.gov |
+| 2018-01-01 | VA MISSION Act passes with CVA engineering, streamlines private care expansion | — | Congress.gov |
+| 2018-01-01 | VA community care spending jumps from $14.8B (2018 baseline) | $14.8B | VA.gov |
+| 2023-01-01 | VA community care spending reaches $28.5B (exact date pending) | $28.5B | VA.gov |
+| 2025-01-24 | Hegseth confirmed as Defense Secretary (51-50 with VP tie-break) | — | Senate.gov |
+| 2025-02-01 | Doug Collins confirmed as VA Secretary (77-23) | — | Senate.gov |
+| 2025-01-01 | FY2026 budget proposes $14.4B increase in community care spending (67% increase) | $14.4B | VA.gov |
+
+> [!money]
+> The Koch network spent $50+ million over 15 years to redirect a $369 billion annual budget. That's a return of roughly 7,000:1 on the policy investment — and the returns compound annually as privatization becomes structurally irreversible. By 2026, 40% of VA patients receive care through community care networks (private providers). Referral rates increase 15-20% annually. TriWest and Optum administer regions as Third-Party Administrators extracting 8-12% overhead. FY2026 budget directs 75% of all new VA medical funding to private providers. VA direct care funding is flat or reduced. By 2030, current trajectory suggests 60-70% of VA patients in community care networks. Integrated VA care becomes impossible to restore.
+
+**CVA's access to Trump administration documented:** American Oversight obtained records showing numerous emails and meetings between CVA representatives and high-level VA officials. CVA publicly boasted it had "a seat at the table with the Trump administration."
+
+**The veterans who oppose it:** Major veterans' organizations — VFW, DAV, Vietnam Veterans of America, AMVETS, Paralyzed Veterans of America — have consistently opposed CVA's privatization agenda. A 2018 survey found 92% of VA users rated their VA care as "good" or "excellent." The organizations that actually represent veterans' healthcare interests are fighting the organization that claims to speak for veterans.
+
+> [!contradiction]
+> CVA's name contains "Veterans" and its mission statement claims to empower veterans with healthcare choice. But the major veterans' service organizations — VFW (1.5 million members), DAV (1 million members), Vietnam Veterans of America, AMVETS, Paralyzed Veterans of America — uniformly oppose CVA's privatization agenda. CVA's actual membership is not publicly disclosed. The organization that claims to speak for veterans is opposed by the organizations that actually do. The "concerned veterans" in the name are the Koch network's donors, not the veterans who use the VA.
+
+---
+
+### Class Analysis
+
+The rhetorical frame: "veterans deserve choice." The structural reality: working-class veterans lose integrated healthcare so private healthcare corporations can extract profit from the VA's budget.
+
+### Who benefits:
+- **Private healthcare corporations:** Optum/UnitedHealth (TPA regions 1-3, $544M COVID contract, $3.14M PAC), TriWest (TPA regions 4-5, $86B+ contracts), CVS/Aetna (dual-enrollment profit extraction). Three-tier profit extraction: administrative overhead (8-12%), provider margins (15-25% higher than VA), and dual-enrollment Medicare capture (government pays twice).
+- **Koch network:** Ideological victory. VA is the largest proof-of-concept for single-payer healthcare in America. Dismantling it removes the strongest counterexample to the Koch position that government cannot deliver healthcare.
+- **Private insurance industry:** Every veteran moved from VA to community care becomes a potential private insurance customer for non-VA services.
+
+### Who pays:
+- **Working-class veterans:** Lose integrated care coordination, specialist access, mental health continuity. Higher out-of-pocket costs in private networks. Private providers have no mandate to understand military-specific conditions (PTSD, TBI, burn pit exposure, military sexual trauma).
+- **VA workforce:** 5,400+ civilian employees cut under DOGE. Remaining staff face increased caseloads, degraded facilities, and demoralization. The workers who actually deliver veteran care are being eliminated to fund private alternatives.
+- **Taxpayers:** Community care costs more per patient than VA direct care. VA's integrated system has lower overhead than fragmented private care. Privatization increases total cost while reducing coordination.
+
+The circular logic: underfund VA → wait times increase → cite wait times as proof of government failure → outsource to private networks → VA continues underfunded → cycle repeats. The crisis is engineered. The solution was pre-written. The beneficiaries were pre-selected.
+
+---
+
+### Sources
+
+- [American Oversight: Documents Reveal Extent of Koch-Funded VA Privatization Group's Influence](https://americanoversight.org/documents-reveal-extent-of-koch-funded-va-privatization-groups-influence/) (Tier 1)
+- [OpenSecrets: How Money Is Driving the Push to Privatize Veterans' Health Care](https://www.opensecrets.org/news/2025/12/how-money-is-driving-the-push-to-privatize-veterans-health-care/) (Tier 1)
+- [Congress.gov: VA MISSION Act (S.2372)](https://www.congress.gov/bill/115th-congress/senate-bill/2372) (Tier 1)
+- [VA.gov: FY2026 Budget Request](https://www.va.gov/budget/) (Tier 1)
+- [ProPublica Nonprofit Explorer: Freedom Partners Chamber of Commerce (990)](https://projects.propublica.org/nonprofits/organizations/271747501) (Tier 1)
+- [DeSmog: Concerned Veterans for America](https://www.desmog.com/concerned-veterans-america/) (Tier 2)
+- [CBS News: GOP Insiders Sought Hegseth's Removal as CVA Leader](https://www.cbsnews.com/news/pete-hegseth-concerned-veterans-for-america-jessie-jane-duff/) (Tier 2)
+- [CNN: Hegseth and Collins Push Cutting Veterans' Health Benefits](https://www.cnn.com/2024/12/07/politics/pete-hegseth-doug-collins-veterans-health-care/index.html) (Tier 2)
+- [American Prospect: Gunning for More VA Privatization](https://prospect.org/health/2023-07-11-gunning-for-more-va-privatization/) (Tier 2)
+- [Government Executive: House Republicans Set Stage for Expanding Private Care](https://www.govexec.com/management/2024/12/house-republicans-set-stage-expanding-private-care-veterans/401398/) (Tier 2)
+- [Newsweek: Is the VA Being Privatized? Koch-Backed Group Says It Just Wants Choice](https://www.newsweek.com/koch-brothers-backed-group-could-determine-future-va-870693) (Tier 2)
+- [AFGE: Koch-Funded CVA Wants to Dismantle VA](https://www.afge.org/article/report-koch-funded-concerned-veterans-for-america-wants-to-dismantle-va-cut-veterans-benefits/) (Tier 2)
+- [Washington Post: How a Koch-backed veterans group gained influence in Trump's Washington](https://www.washingtonpost.com/politics/how-a-koch-backed-veterans-group-gained-influence-in-trumps-washington/2018/04/07/398b67c4-3784-11e8-9c0a-85d477d9a226_story.html) (Tier 2)
+- [SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php/Concerned_Veterans_for_America) (Tier 3)
+- [Common Dreams: Privatizer Pete Hegseth Is Bad for Military Families](https://www.commondreams.org/opinion/pete-hegseth-privatization-va) (Tier 3)
+
+---
+
+content-readiness:: ready

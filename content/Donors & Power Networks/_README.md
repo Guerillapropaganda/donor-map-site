@@ -1,0 +1,54 @@
+---
+title: "README - Donors and Power Networks"
+type: reference
+content-readiness: ready
+last-updated: 2026-03-23
+source-tier: null
+parent: null
+---
+
+### Donors & Power Networks/
+
+All donor nodes organized by sector. This is the analytical backbone of the vault — politicians are understood through their funding.
+
+### Sector Folders
+
+| Folder | Contents | Count |
+|--------|----------|-------|
+| Agriculture/ | Farm Bureau, Western Growers, Fanjul Family | 6 |
+| Carceral State/ | GEO Group, CoreCivic, Aramark, Securus, Bail Bond Industry | 7 |
+| Dark Money/ | Heritage Foundation, Federalist Society, DonorsTrust | 11 |
+| Defense & Intelligence/ | Lockheed Martin, Northrop Grumman, Raytheon, Boeing | 7 |
+| Education/ | DeVos Family, American Federation for Children | 6 |
+| Energy & Utilities/ | Fossil Fuel Bloc, ExxonMobil, Chevron, PG&E, WSPA | 6 |
+| Foreign/ | Gulf State Money, MBS | 2 |
+| Gig Economy/ | Uber, Lyft, DoorDash | 4 |
+| Healthcare/ | Blue Shield, Anthem, Kaiser | 5 |
+| Israel Lobby/ | AIPAC, DMFI, Haim Saban, JPAC, JCRC | 6 |
+| Labor Unions/ | IBEW, SEIU, Teamsters, CNA, UFCW, AFSCME, etc. | 12 |
+| Law Enforcement/ | PORAC, RSA | 2 |
+| Mega-Donors/ | Koch, Musk, Thiel, Mellon, Bloomberg, Mercer, Leo, etc. | 32 |
+| Super PACs/ | MAGA Inc, Save America, Senate Leadership Fund, etc. | 17 |
+| Tech & Crypto/ | Crypto Industry Bloc, Amazon, Andreessen, etc. | 10 |
+| Wall Street/ | Goldman Sachs, JPMorgan, Blackstone | 1 |
+
+### Naming Convention
+
+- Named after the entity: `Koch Network - Charles Koch.md`
+- Full names, not abbreviations — use wikilink aliases for display
+- YAML `type` should be `donor`, `pac`, or `corporation` depending on the entity
+
+### Note Anatomy (Donor Nodes)
+
+1. Tags
+2. `related:` wikilinks
+3. Sections: Who They Are → What They Want → Who They Fund → What They've Gotten → Class Analysis → Sources
+4. Footer: `content-readiness:: ready
+
+### Rules
+
+- Every donor node must link to at least one politician
+- Every donor node must have at least one documented policy outcome
+- Source citations follow the standard format with tier ratings
+
+content-readiness:: ready

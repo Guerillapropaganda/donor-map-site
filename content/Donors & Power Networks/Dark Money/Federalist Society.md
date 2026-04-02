@@ -1,0 +1,179 @@
+---
+title: "Federalist Society"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+
+#donor #dark-money #judicial #federalist-society #leonard-leo #scotus #501c3 #conservative #judicial-pipeline
+
+related: [[Leonard Leo]] [[Project 2025 - The Blueprint They Followed]] [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] [[Heritage Foundation]] [[Koch Network - Charles Koch]] [[_Donald Trump Master Profile|Trump]] [[_Clarence Thomas Master Profile|Thomas]] [[_Samuel Alito Master Profile|Alito]]
+
+---
+
+### Who They Are
+
+The Federalist Society for Law and Public Policy Studies is the most consequential legal organization in American politics. Founded in 1982 at Yale, Harvard, and University of Chicago law schools. Operates as a 501(c)(3) "educational nonprofit" with no formal role in judicial selection.
+
+In practice, every Republican-appointed Supreme Court justice since Clarence Thomas (1991) has been a member or vetted through the organization. Six of nine sitting SCOTUS justices are members or affiliates. 84% of Trump's appellate judges are Federalist Society members. The organization didn't achieve this by accident — it built a 40-year pipeline.
+
+Three divisions: a Student Division with chapters at all 204 ABA-accredited law schools (10,000+ law students), a Lawyers Division with 65,000+ legal professionals in 90 city chapters, and a Faculty Division cultivating conservative legal academics. Total membership exceeds 75,000.
+
+Leonard Leo served as executive vice president and co-chairman, functioning as the de facto judicial gatekeeper for Republican administrations from George W. Bush through Trump's second term. Leo personally vetted and recommended all six conservative SCOTUS justices currently serving.
+
+---
+
+### What They Want
+
+The Federalist Society's stated mission is promoting "originalist" and "textualist" legal interpretation. Translated into policy outcomes, this means:
+
+**Regulatory dismantlement:** Chevron deference elimination (achieved 2024 via Loper Bright) strips federal agencies of interpretive authority. This is the single most consequential deregulatory victory in 40 years — it undermines EPA, OSHA, NLRB, SEC, and every regulatory agency simultaneously.
+
+**Executive power limitation (selectively):** Constrain agency rulemaking while expanding presidential authority over personnel (Schedule F) and enforcement discretion.
+
+**Individual rights reinterpretation:** Second Amendment expansion (Bruen), religious liberty expansion, affirmative action elimination (SFFA), abortion returned to states (Dobbs).
+
+**Corporate legal architecture:** Limit class action litigation, constrain securities regulation, expand corporate speech rights (Citizens United), narrow labor protections.
+
+The common thread: every major Federalist Society judicial victory transfers power from public institutions to private capital.
+
+---
+
+### Who Funds Them
+
+Revenue: $22.6 million (2018), with total assets of $48.3 million. The organization receives no lobbying income because it technically doesn't lobby — it "educates."
+
+| Donor | Amount | Period | Source |
+|-------|--------|--------|--------|
+| DonorsTrust | $5.5M (2017), $4.3M (2022) | Ongoing | CMD |
+| Lynde & Harry Bradley Foundation | $3M+ | Single year | ProPublica |
+| Charles G. Koch Charitable Foundation | $768K | 2018 | ProPublica 990 |
+| William & Flora Hewlett Foundation | $543K | 2018 | ProPublica 990 |
+| Sarah Scaife Foundation | Ongoing | 1980s-present | DeSmog |
+| Searle Freedom Trust | Ongoing | Multi-year | ProPublica |
+| 47 separate foundation donors | ~$4M combined | 2018 | ProPublica 990 |
+
+The real money flows through Leonard Leo's parallel network, not through the Federalist Society directly. This is the structural innovation — the Society provides the intellectual framework and personnel pipeline, while Leo's dark money empire funds the campaigns to confirm the judges and litigate the cases.
+
+> [!money]
+> DonorsTrust — the Koch-aligned donor-advised fund that legally shields contributor identities — provided over 25% of the Federalist Society's $20 million annual budget in 2017 alone ($5.5M). In 2022, the Federalist Society was DonorsTrust's single largest recipient at $4.3 million. DonorsTrust funneled $134 million to right-wing groups that year. The Society's chair of its board of visitors, Kimberly Dennis, simultaneously chairs the DonorsTrust board.
+
+---
+
+### The Leo Financial Empire
+
+Leonard Leo is the fulcrum connecting the Federalist Society to the broader dark money network. His organizations form an interlocking web:
+
+| Entity | Type | Function |
+|--------|------|----------|
+| Federalist Society | 501(c)(3) | Intellectual pipeline, judicial vetting |
+| Marble Freedom Trust | 501(c)(4) | $1.6B war chest from Barre Seid |
+| CRC Advisors | Consulting firm | Leo's personal firm — $102M paid 2016-2022 |
+| The 85 Fund (fmr. Judicial Education Project) | 501(c)(3) | Litigation funding, amicus briefs |
+| Judicial Crisis Network | 501(c)(4) | $44M+ on SCOTUS confirmation campaigns |
+| Rule of Law Trust | 501(c)(4) | Dark money distribution |
+| Concord Fund | 501(c)(4) | Additional dark money vehicle |
+
+**The $1.6 Billion Transfer:** In 2021, Barre Seid — a 90-year-old manufacturing magnate — donated 100% of his Tripp Lite shares to Marble Freedom Trust before the company's sale to Eaton Corporation. Leo, as trustee and chairman, controls the funds. Seid avoided approximately $400 million in capital gains taxes. By August 2022, Marble Freedom Trust had already distributed ~$200 million to other conservative organizations.
+
+> [!contradiction]
+> The Federalist Society maintains 501(c)(3) tax-exempt status as an "educational" organization with "no formal role in judicial selection." Meanwhile, Leo — who ran the Society for decades — simultaneously operates CRC Advisors, which has been paid $102 million since 2016, with $76 million coming directly from Leo-tied organizations. CREW documented that Leo-tied nonprofits paid his businesses $90 million in just six years. The "educational nonprofit" is the front door; the consulting firm is where the money lands.
+
+---
+
+### What They've Gotten
+
+#### The Judicial Takeover — By the Numbers
+
+### Trump 1.0 judicial appointments:
+- 234 lifetime federal judges confirmed
+- 54 appellate judges (43 of 51 were Federalist Society members — 84%)
+- 3 Supreme Court justices (Gorsuch, Kavanaugh, Barrett)
+- Federal appellate judiciary shifted from 39.7% Republican-appointed (January 2017) to 53.6% (January 2021)
+
+### Six SCOTUS justices with Federalist Society connections:
+Clarence Thomas, John Roberts, Samuel Alito, Neil Gorsuch, Brett Kavanaugh, Amy Coney Barrett — Leo personally involved in the selection or confirmation of all six.
+
+#### Temporal Mapping — The 40-Year Investment
+
+| Date | Event | Scale | Outcome |
+|------|-------|-------|---------|
+| 1982 | Federalist Society founded at Yale/Harvard/Chicago | 3 chapters | Pipeline construction begins |
+| 1991 | Clarence Thomas confirmed | 52-48 | First FedSoc SCOTUS justice |
+| 2005 | Roberts and Alito confirmed | Leo vets both | Conservative majority begins forming |
+| 2016 | Leo creates Trump SCOTUS nominee list | 21 names | Template for judicial capture |
+| 2017 | Gorsuch confirmed | 54-45, $10M JCN | Merrick Garland seat stolen |
+| 2018 | Kavanaugh confirmed | 50-48, $4.5M+ JCN | Swing seat captured |
+| 2020 | Barrett confirmed | 52-48, $10M+ JCN | 6-3 supermajority locked |
+| 2021 | Barre Seid $1.6B to Marble Freedom Trust | $1.6 billion | Largest dark money donation in history |
+| 2022 | Dobbs — Roe overturned | 6-3, all FedSoc majority | 50-year precedent eliminated |
+| 2022 | Bruen — gun rights expanded | 6-3 | Concealed carry restrictions struck |
+| 2023 | SFFA — affirmative action ended | 6-2 | 50-year precedent eliminated |
+| 2023 | Biden student loans blocked | 6-3 | $400B program struck down |
+| 2024 | Loper Bright — Chevron deference eliminated | 6-3 | 40-year regulatory framework gutted |
+
+> [!money]
+> The ROI calculation: The Federalist Society's annual budget is ~$22 million. Leo's broader network has spent perhaps $600 million over 20 years on judicial campaigns, litigation funding, and infrastructure. The policy outcomes — Chevron elimination alone shifts billions in regulatory compliance costs from corporations to the public. Dobbs, SFFA, Bruen, student loan blocks — each represents a multi-billion-dollar transfer of power or resources. Conservative estimates put the value of Chevron elimination at $100 billion+ in reduced regulatory costs over a decade. The investment-to-outcome ratio is incalculable.
+
+#### The SFFA Litigation Pipeline
+
+The Students for Fair Admissions case that ended affirmative action was funded directly through Leo's network. The 85 Fund (part of Leo's empire) funded SFFA through DonorsTrust. In 2019 alone, DonorsTrust gave $1 million to SFFA, and the Searle Freedom Trust gave $1.5 million (2017-2019). Kimberly Dennis — who chairs both the DonorsTrust board and sits on the Federalist Society board — created a closed loop: same donors fund the Society, the litigation, and the judges who rule on the cases.
+
+---
+
+### Class Analysis
+
+The Federalist Society is the most successful institutional investment in American political history. For roughly $22 million per year in direct funding — plus Leo's broader dark money network — the donor class has achieved permanent structural control of the federal judiciary.
+
+The innovation is architectural. The Society doesn't lobby Congress, fund campaigns, or buy votes. It builds judges. By capturing the judicial nomination pipeline, it achieves something more durable than any legislative victory: constitutional interpretation that can't be reversed by the next election.
+
+Every major Federalist Society judicial outcome transfers power from public institutions to private capital. Chevron elimination weakens every regulatory agency. Dobbs removes federal protection. SFFA eliminates equity mechanisms. Bruen expands individual rights that constrain government. The pattern is consistent: the "originalist" judicial philosophy produces outcomes that systematically benefit the donor class.
+
+The dark money symmetry is complete. Leo's network operates with the same opacity that conservatives publicly decry in progressive dark money. DonorsTrust functions as an anonymity shield. Marble Freedom Trust holds $1.6 billion in untraceable funds. CRC Advisors extracts $102 million. And the Federalist Society itself maintains tax-exempt status as an "educational" organization.
+
+> [!contradiction]
+> Trump called Leo a "sleazebag" and said the Federalist Society gave him "bad advice" on judges — even though the three SCOTUS justices Leo recommended delivered Trump's biggest policy wins (Dobbs, Chevron, presidential immunity). The Senate Judiciary Committee subpoenaed Leo in 2024 investigating whether gifts gained access to SCOTUS justices. The institution that claims to champion the rule of law is under investigation for corrupting the courts.
+
+---
+
+### Connected Policy Areas
+
+- [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns|Judicial Pipeline]]
+- [[The Koch-Leo-Crow Triangle and Donor Summit Access|Koch-Leo-Crow Triangle]]
+- [[The Leo Pipeline and Operation Higher Court|Leo Pipeline]]
+- [[People of Praise and the Federalist Society as Parallel Selection Pipelines|Barrett Selection Pipeline]]
+- [[Heritage Foundation|Heritage Foundation (partner in judicial list)]]
+- [[Judicial Crisis Network|JCN ($44M+ confirmation spending)]]
+
+---
+
+### Sources
+
+- [OpenSecrets: Federalist Society profile](https://www.opensecrets.org/orgs/federalist-society/summary?id=D000080363) (Tier 1)
+- [OpenSecrets: Federalist Society totals](https://www.opensecrets.org/orgs/federalist-society/totals?id=D000080363) (Tier 1)
+- [ProPublica Nonprofit Explorer: Federalist Society 990 filings](https://projects.propublica.org/nonprofits/organizations/363235550) (Tier 1)
+- [Federalist Society: About Us](https://fedsoc.org/about-us) (Tier 1)
+- [ProPublica: We Don't Talk About Leonard — Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
+- [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo (Barre Seid / Marble Freedom Trust)](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
+- [CNN: Massive Dark Money Donation — $1.6 Billion to Conservative Group](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs) (Tier 2)
+- [CREW: Leonard Leo's Firm Rakes In Millions from Dark Money Network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2)
+- [CREW: Leo-Tied Nonprofits Paid His Businesses $90 Million](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leo-tied-nonprofits-businesses-88-million/) (Tier 2)
+- [CREW: $80 Million Dark Money Group Tied to Leo](https://www.citizensforethics.org/reports-investigations/crew-investigations/80-million-dark-money-group-tied-to-trump-supreme-court-advisor-leonard-leo/) (Tier 2)
+- [CMD: DonorsTrust Funneled $134 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/) (Tier 2)
+- [CMD: DonorsTrust Pumped $142 Million into Right-Wing Causes in 2018](https://www.exposedbycmd.org/2019/12/23/donorstrust-pumped-142-million-right-wing-causes-2018/) (Tier 2)
+- [The Hill: Meet the Powerful Group Behind Trump's Judicial Nominations](https://thehill.com/regulation/court-battles/360598-meet-the-powerful-group-behind-trump-judicial-nominations/) (Tier 2)
+- [The 19th: How Trump Has Shaped Federal Courts](https://19thnews.org/2025/01/trump-judges-federal-judiciary/) (Tier 2)
+- [Yale Daily News: SFFA Funded by Large Conservative Groups with Federalist Society Ties](https://yaledailynews.com/blog/2022/11/03/sffa-funded-by-large-conservative-groups-with-federalist-society-ties/) (Tier 2)
+- [Harvard Crimson: Public Filings Reveal SFFA Mostly Funded by Conservative Trusts](https://www.thecrimson.com/article/2019/2/7/sffa-finance/) (Tier 2)
+- [Inside Philanthropy: Wealthy Donors Behind the Assault on Affirmative Action](https://www.insidephilanthropy.com/home/2023-8-10-the-wealthy-donors-behind-the-assault-on-affirmative-action) (Tier 2)
+- [CNN: Senate Democrats Subpoena Leonard Leo in SCOTUS Ethics Probe](https://www.cnn.com/2024/04/11/politics/leonard-leo-subpoena-supreme-court-ethics-probe/index.html) (Tier 2)
+- [Senator Whitehouse: The Scheme Speech 5 — The Federalist Society](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-5-the-federalist-society/) (Tier 2)
+- [Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/) (Tier 2)
+- [NPR: Heritage Foundation Staff Walkout](https://www.npr.org/2025/12/22/nx-s1-5651990/heritage-foundation-mike-pence) (Tier 2)
+
+---
+
+content-readiness:: ready

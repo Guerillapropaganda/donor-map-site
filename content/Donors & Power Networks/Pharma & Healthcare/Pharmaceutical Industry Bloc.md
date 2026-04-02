@@ -1,0 +1,63 @@
+---
+title: "Pharmaceutical Industry Bloc"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+#pharma #industry-bloc #lobbying #drug-pricing #patent #medicare #aca
+
+related: [[PhRMA]] [[Pfizer]] [[AbbVie]] [[Eli Lilly]] [[Merck]] [[Novo Nordisk]] [[Johnson & Johnson]] [[Gilead Sciences]] [[Purdue Pharma - Sackler Family]]
+
+---
+
+### Who They Are
+
+The Pharmaceutical Industry Bloc. The most powerful lobbying force in American politics by total spending: $350-400 million annually in lobbying (more than any other industry), $50-80 million per cycle in PAC and campaign contributions, and hundreds of millions more in issue advocacy, astroturfing, and state-level political spending. The bloc includes brand-name drug manufacturers (Pfizer, Merck, AbbVie, Eli Lilly, Novo Nordisk, J&J), their trade association PhRMA, generic manufacturers, pharmacy benefit managers (CVS/Caremark, Express Scripts, OptumRx), and biotech companies.
+
+The industry employs more registered lobbyists than there are members of Congress — 1,800+ lobbyists, roughly 3.4 per legislator. This lobbying army includes 65%+ former government officials (revolving door).
+
+- [OpenSecrets: Pharmaceutical industry lobbying totals](https://www.opensecrets.org/industries/indus?ind=H04) (Tier 1)
+
+---
+
+### What They Want
+
+Patent protection extension (delaying generic competition), opposition to Medicare drug price negotiation (partially achieved through IRA, but limited to 10 drugs initially), opposition to drug importation from Canada, reduced 340B program eligibility, favorable FDA approval pathways, and international trade enforcement of intellectual property protections.
+
+---
+
+### The $350 Million Lobbying Machine
+
+The pharmaceutical industry's lobbying spending dwarfs every other sector:
+
+| Industry | Annual Lobbying Spend |
+|----------|----------------------|
+| **Pharmaceuticals** | **$350-400M** |
+| Insurance | $175-200M |
+| Tech | $150-175M |
+| Oil & Gas | $125-150M |
+| Defense | $120-140M |
+
+This spending buys a specific legislative outcome: the preservation of monopoly pricing. American drug prices are 2-3x higher than other developed countries because the pharmaceutical industry has lobbied successfully to prevent the government from negotiating prices (until the IRA's limited provision), prevent importation from countries with lower prices, and extend patent monopolies through legal strategies (patent thickets, pay-for-delay settlements with generic manufacturers).
+
+---
+
+### The IRA Drug Pricing Provision — A Structural Analysis
+
+The Inflation Reduction Act's drug pricing provision (2022) allows Medicare to negotiate prices on 10 drugs starting in 2026, expanding to 20 drugs by 2029. The provision was marketed as a historic victory for drug pricing reform. The structural reality:
+
+Medicare covers 4,000+ drugs. Negotiation on 10-20 drugs leaves 99%+ of the drug market unaffected. The provision excludes drugs in their first 9-13 years on market (depending on type) — the period when monopoly pricing is most profitable. The pharmaceutical industry spent $350+ million lobbying against the provision and still preserved 99% of its pricing power. The "loss" was carefully managed: the industry accepted limited negotiation on its oldest, highest-profile drugs to prevent more aggressive reform.
+
+> [!money]
+> The pharmaceutical industry's $350-400 million annual lobbying investment protects a $600+ billion annual U.S. revenue stream — making it the highest-ROI lobbying spend in American politics. The industry's 1,800+ lobbyists (3.4 per member of Congress) ensure that every legislative proposal affecting drug pricing is shaped, weakened, or killed before it threatens monopoly pricing. The IRA's drug pricing provision — negotiation on 10 of 4,000+ drugs — demonstrates the industry's ability to concede symbolically while preserving structurally. Every dollar in lobbying spending protects roughly $1,500 in revenue.
+
+---
+
+### Sources
+
+- [OpenSecrets: Pharmaceutical industry lobbying totals](https://www.opensecrets.org/industries/indus?ind=H04) (Tier 1)
+
+content-readiness:: ready

@@ -1,0 +1,146 @@
+---
+title: "Mark Green"
+type: politician
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+
+#mark-green #republican #tennessee #house #committee-chair #homeland-security #military #special-operations #healthcare #mayorkas-impeachment #resigned #phase-6-gavel-power
+
+related: [[_Donald Trump Master Profile|Trump]] [[_Bennie Thompson Master Profile|Thompson]]
+
+donors:
+
+profile-status:: ready
+
+---
+---
+
+### Who They Are
+
+Mark Green represented Tennessee's 7th Congressional District and chaired the House Homeland Security Committee from 2023 until his resignation in July 2025. Before Congress, he had two notable careers: elite military operator and healthcare entrepreneur.
+
+Military: West Point graduate, Army flight surgeon assigned to the 160th Special Operations Aviation Regiment ("Night Stalkers"). Deployed to Iraq and Afghanistan. Was part of Operation Red Dawn (2003) — the special forces operation that captured Saddam Hussein. Green personally interrogated Saddam for six hours, later writing a book about it (*A Night With Saddam*). Earned the Bronze Star and Air Medal with V Device for Valor. Retired as Major in 2006.
+
+Business: Founded Align MD in 2010, an emergency department management and staffing company that grew to $200+ million in annual revenue, servicing 50 hospitals across 10 states. Served as CEO through 2016. Also served on the boards of American Physician Partners and Rural Physician Partners. His healthcare business background made him wealthy before entering politics.
+
+Green resigned from Congress on July 20, 2025, citing a private-sector opportunity "designed to help America compete against the CCP."
+
+---
+
+### The Central Thesis
+
+Mark Green is the national security performace artist — the special operator who turned military credentials into political power, then used Homeland Security chairmanship primarily for partisan spectacle rather than structural oversight. His most significant action as chair was impeaching DHS Secretary Alejandro Mayorkas — the first cabinet impeachment in 150 years — on a party-line vote, for what was fundamentally a policy disagreement over border enforcement reframed as "high crimes and misdemeanors."
+
+Meanwhile, the $60 billion DHS apparatus — its contractor networks, surveillance programs, procurement pipelines — continued without meaningful reform or oversight. Green's committee held border hearings and generated Fox News clips. It did not restructure DHS procurement, reform ICE detention contracting, or address the homeland security industrial complex. The Saddam interrogator became the border theater director.
+
+Then he left for the private sector, where the real money is.
+
+---
+
+### The Core Contradiction
+
+> [!contradiction]
+> Green built a $200M+ healthcare staffing company — an industry rife with private equity exploitation, staffing shortages, and emergency department closures. He then chaired the committee overseeing DHS, FEMA, and domestic emergency response while maintaining financial ties to the healthcare industry that profits from those same emergencies. The man who knows how to monetize hospital staffing crises sat on the committee that oversees the federal response to the crises that create hospital surges. And when he left, he didn't go to Homeland Security consulting — he went back to the private sector, where the committee's oversight had ensured no meaningful regulation would follow him.
+
+---
+
+### Donor Class Map
+
+### Campaign Fundraising:
+- Defense & homeland security industry contributions
+- Healthcare/pharmaceutical donors (Align MD industry connections)
+- PAC-heavy from trade association and leadership PACs
+- Tennessee-based oil/gas and real estate interests
+
+### Top Industry Donors (career):
+1. Defense/homeland security contractors
+2. Health professionals & healthcare services
+3. Oil & gas
+4. Real estate
+5. Leadership PACs
+
+### Key Organizational Contributors:
+- Defense and homeland security contractor PACs
+- Healthcare industry PACs
+- Tennessee business networks
+- Republican leadership PACs
+
+> [!money]
+> Green's wealth didn't come from Congress — it came from building a healthcare staffing empire before entering politics. This matters because it means his financial interests aren't in the committee's jurisdiction (homeland security). They're in healthcare — which means Green didn't need the Homeland Security chairmanship for personal enrichment. He needed it for partisan power projection and career advancement. The chairmanship was a stepping stone, not a revenue stream. He used it for the Mayorkas impeachment (maximum partisan value, zero policy reform), then left for the private sector. The committee was the credential, not the capture mechanism.
+
+---
+
+### Donation-to-Policy Timeline
+
+### Pipeline: Military Credentials → Homeland Security Chair → Partisan Spectacle
+| Date | Type | Event | Donor | Amount | Gap |
+|------|------|-------|-------|--------|-----|
+| 2003 | CREDENTIAL | Participates in Saddam Hussein capture; interrogates Saddam 6 hours | — | — | — |
+| 2019 | ROLE | Elected to Congress on military credentials | — | — | 16 years |
+| 2023 | ROLE | Named Homeland Security Committee Chair | — | — | 4 years |
+| 2024 | ← ACTION | Committee impeaches DHS Secretary Mayorkas on party-line vote | — | — | 1 year |
+| 2024 | ← NOTE | First cabinet impeachment in 150 years; Senate dismissed charges without trial | — | — | — |
+| 2024-2025 | ← ACTION | Multiple border hearings generating media coverage; no structural DHS reform legislation passed | — | — | — |
+| 2025-06 | EXIT | Announces resignation for private-sector opportunity to "compete against the CCP" | — | — | — |
+| 2025-07 | EXIT | Resigns from Congress | — | — | 2 years as chair |
+
+### Pipeline: Healthcare Entrepreneur → Congress → Private Sector (Revolving Door)
+| Date | Type | Event | Donor | Amount | Gap |
+|------|------|-------|-------|--------|-----|
+| 2010 | BUSINESS | Founds Align MD (ER staffing company) | — | — | — |
+| 2016 | BUSINESS | Align MD reaches $200M+ annual revenue, 50 hospitals, 10 states | — | $200M+/yr | 6 years |
+| 2019 | → CONGRESS | Enters Congress with healthcare industry wealth and connections | — | — | 3 years |
+| 2025 | → PRIVATE SECTOR | Resigns from Congress; launches new private-sector venture | — | — | 6 years |
+| 2025 | ← NOTE | Complete cycle: private sector → Congress (6 years) → private sector. Congressional service enhanced network, credentials, and industry access | — | — | — |
+
+---
+
+### Analytical Patterns
+
+**Revolving Door:** Green executed the full rotation in six years: healthcare entrepreneur → Congress → Homeland Security Chair → private sector. The congressional stint added military-credentialed political connections, committee oversight knowledge of DHS procurement, and national security bona fides to his business resume. He left when the political marginal return declined (narrow House majority, diminishing power of the chairmanship) and the private sector offered better compensation for the same network.
+
+**Villain Framing:** The Mayorkas impeachment is pure villain framing. A complex policy disagreement about border enforcement strategy — one where both parties share responsibility for decades of immigration system dysfunction — was reduced to one cabinet secretary's personal culpability. The function: deflect from the structural failure (Congress's inability to pass immigration reform) by personalizing the blame on a single appointee.
+
+**Two-Audience Problem:** To Republican base voters: the Saddam interrogator who'll be tough on the border. To defense and homeland security industry: a committee chair who won't disrupt the DHS contractor ecosystem. The border hearings served the first audience. The absence of procurement reform served the second. Both audiences got what they needed.
+
+**Self-Funding as Independence:** Green's pre-congressional wealth from Align MD positioned him as independent from donor pressure. But "independence" from donors doesn't mean independence from class interest. Green's healthcare industry background aligned him with the same private-sector deregulatory agenda his donors wanted anyway.
+
+---
+
+### Rhetorical Signature Moves
+
+**Military biography as authority** — The Saddam Hussein interrogation story is invoked constantly. It establishes security credentials that make it difficult to challenge Green's homeland security positions without appearing to question a combat veteran's judgment. The function is identical to Jack Reed's military credentials play: the biography IS the argument.
+
+**"Border crisis"** — The framing that transforms a decades-long bipartisan failure into an acute emergency requiring the current committee chair's urgent attention. The function: justify media-generating hearings and the Mayorkas impeachment without requiring actual legislative solutions.
+
+**"I'll bring my business experience to Washington"** — The entrepreneur-as-outsider framing. Green ran a $200M company and knows how government should work. The function: position private-sector wealth as qualification rather than conflict of interest.
+
+---
+
+### Connected Profiles
+
+- [[_Donald Trump Master Profile|Trump]] — Mayorkas impeachment aligned with Trump border agenda
+- [[_Bennie Thompson Master Profile|Thompson]] — Homeland Security RM (Democratic counterpart)
+
+---
+
+### Sources
+
+- [OpenSecrets: Mark Green donor profile](https://www.opensecrets.org/members-of-congress/mark-green/summary?cid=N00041873) (Tier 1)
+- [Congress.gov: Mark E. Green](https://www.congress.gov/member/mark-green/G000590) (Tier 1)
+- [House.gov: Mark Green biography](https://markgreen.house.gov/biography) (Tier 1)
+- [NBC News: Mark Green to resign from Congress for private-sector job](https://www.nbcnews.com/politics/congress/mark-green-tennessee-republican-resign-congress-homeland-security-rcna211953) (Tier 2)
+- [CNN: Mark Green to leave Congress after House votes on Trump agenda bill](https://www.cnn.com/2025/06/09/politics/mark-green-tennessee-congressman-to-resign) (Tier 2)
+- [Roll Call: Tennessee Rep. Mark Green will resign after next budget vote](https://rollcall.com/2025/06/09/mark-green-tennessee-resign-budget/) (Tier 2)
+- [CNBC: Rep. Mark Green resigns from Congress](https://www.cnbc.com/2025/07/05/rep-mark-green-announces-resignation.html) (Tier 2)
+- [Nashville Banner: Uncertainty Surrounds Mark Green's Departure](https://nashvillebanner.com/2025/07/08/congressman-mark-green-resigns-special-election/) (Tier 2)
+- [We Are The Mighty: Congressman was Special Forces doctor who interrogated Saddam](https://www.wearethemighty.com/mighty-moments/badass-congressman-interrogated-saddam-hussein/) (Tier 3)
+- [Ballotpedia: Mark Green](https://ballotpedia.org/Mark_Green_%28Tennessee%29) (Tier 3)
+- [Wikipedia: Mark Green (Tennessee politician)](https://en.wikipedia.org/wiki/Mark_Green_%28Tennessee_politician%29) (Tier 3)
+- [TriStar Daily: Former Tennessee Congressman Green Launches New Company](https://tristardaily.com/former-tennessee-congressman-mark-green-launches-new-company/) (Tier 3)
+
+content-readiness:: ready

@@ -1,0 +1,68 @@
+---
+title: "John McCain"
+type: politician
+content-readiness: ready
+last-updated: 2026-03-26
+source-tier: 1
+parent: null
+---
+
+#politician #republican #senator #presidential2008 #maverick-brand #keating-five
+
+**related:** [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon Technologies]] · [[Northrop Grumman]] · [[AT&T - American Telephone & Telegraph|AT&T]] · [[Hensley & Co]]
+
+### Who They Are
+
+John McCain (1936–2018) served as U.S. Senator from Arizona (1987–2018) and was the 2008 Republican presidential nominee. A Navy pilot and Vietnam War POW (shot down 1967, held captive 5.5 years), McCain built his political brand on military service, "maverick" independence, and campaign finance reform. His Keating Five scandal (1989) involved improper influence from savings & loan tycoon Charles Keating; McCain was cleared but damaged.
+
+### The Central Thesis
+
+McCain positioned himself as a reformer fighting corruption and excess campaign spending, while simultaneously serving as one of the Senate's most reliable advocates for defense spending increases and weapons contractor interests. His "maverick" brand obscured deep structural alignment with the military-industrial complex he claimed to scrutinize. The contradiction between reform rhetoric and defense-contractor dependence defines his political economy.
+
+### The Core Contradiction
+
+> [!contradiction]
+> McCain campaigned as a campaign finance reformer (McCain-Feingold, 2002) while receiving career totals of $4.7M+ from defense contractors—among the highest in Senate history. His 2008 presidential campaign promised ethics reforms while running a bundler-based system identical to what he publicly opposed. The Keating Five scandal (1989) involved implicit quid pro quo pressure; McCain was technically cleared but the pattern of donor access persisted throughout his career.
+
+### Donor Class Map
+
+| Donor/Sector | Career Total | Key Years |
+|---|---|---|
+| Lockheed Martin | $800K+ (bundlers + direct) | 1995–2018 |
+| Boeing | $600K+ | 1995–2018 |
+| Raytheon Technologies | $450K+ | 2000–2018 |
+| Northrop Grumman | $400K+ | 2000–2018 |
+| AT&T / Telecom | $500K+ | 1990–2018 |
+| Merrill Lynch / Finance | $350K+ | 2000–2018 |
+| JPMorgan Chase | $300K+ | 2000–2018 |
+| Hensley & Co (family) | Direct family wealth (beer distribution) | 1980s–present |
+
+### Key Policy-to-Donor Pipelines
+
+> [!money]
+> **Defense Spending → Weapons Contractors**
+> McCain championed annual DoD budget increases, opposed base closures, and advocated for weapons platforms (F-35, ballistic missile defense) that directly benefited his top donors. 2001–2008: McCain voted for every defense spending bill while receiving 40% of campaign funds from defense bundlers.
+>
+> **Telecom Deregulation → AT&T/Telecom PACs**
+> McCain supported telecom deregulation (consistent with his "market champion" brand) while receiving sustained funding from AT&T and related carriers. The Keating Five scandal involved S&L deregulation pressure; defense contractor pressure followed a similar implicit quid pro quo structure.
+
+### Class Analysis
+
+McCain represents the **"reform-branded defense contractor proxy"** pattern. His Keating Five involvement and subsequent spending on defense contractor bundlers reveal a consistent structural alignment: the reformer posture allows bipartisan credibility while the defense dependency locks him into the military-industrial establishment. His 2008 presidential bid relied on Pioneer/Ranger bundlers ($100K/$200K thresholds) identical to the systems he had publicly opposed.
+
+The "maverick" brand worked precisely because it allowed McCain to advocate for defense increases and weapons platforms without appearing to be a captured actor. Democratic colleagues praised his ethics and independence while he delivered for Lockheed and Boeing. This is the function of the "principled conservative" in a capitalist system: create moral cover for material alignment.
+
+His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017) showed consistent defense-contractor alignment even when it meant breaking with a Republican president—revealing that McCain's loyalty was to his donor base, not party or Trump's authority.
+
+### Sources
+
+- [OpenSecrets: John McCain donor profile](https://www.opensecrets.org/members-of-congress/john-mccain/summary?cid=N00006424) (Tier 1)
+- [FEC campaign finance records: McCain presidential 2008](https://www.fec.gov) (Tier 1)
+- [Defense Industry Donations to John McCain](https://publicintegrity.org) (Tier 2)
+- [Keating Five scandal: Senate Ethics Committee investigation](https://www.senate.gov) (Tier 1)
+- [McCain-Feingold Campaign Finance Reform Act of 2002](https://www.congress.gov) (Tier 1)
+- [McCain family business: Hensley & Co beer distribution](https://ballotpedia.org/John_McCain) (Tier 3)
+
+---
+
+`content-readiness:: ready`

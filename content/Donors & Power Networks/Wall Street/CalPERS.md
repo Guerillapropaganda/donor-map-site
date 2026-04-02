@@ -1,0 +1,155 @@
+---
+title: "CalPERS"
+type: corporation
+content-readiness: developed
+last-updated: 2026-03-25
+source-tier: 1
+parent: null
+---
+
+#calpers #pension #california #public-employees #wall-street #private-equity #investment #lobbying #placement-agents #corruption #class-analysis #follow-the-money
+
+related: [[CalSTRS]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Apollo Global Management]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[SEIU - Service Employees International Union|SEIU]]
+
+---
+
+### Who They Are
+
+California Public Employees' Retirement System (CalPERS). The largest public pension fund in America, managing approximately $556 billion in assets (June 2025) — growing to roughly $600 billion by year-end 2025 — for over 2 million California state and local government employees, retirees, and their families. CalPERS is simultaneously a retirement system, an investment powerhouse, and a political actor. Its board is partially elected (6 of 13 members), its investment decisions shape global markets, and its benefit obligations drive California's fiscal politics.
+
+CalPERS's structural significance is threefold. First, the fund's massive portfolio makes it the single most coveted institutional investor for Wall Street — a CalPERS allocation is a seal of approval worth billions in additional fundraising from other institutional investors. Second, its unfunded accrued liability (UAL) — estimated between $50-80 billion depending on market conditions, with the funded ratio reaching approximately 79% in FY2025 — creates permanent fiscal pressure on California's state and local budgets. Third, the board's investment decisions are political acts: which private equity firms get allocations, which asset classes get expanded, and which ESG criteria get applied are all contested political questions with billions at stake.
+
+Every California politician must navigate the CalPERS question: protect benefits (and face fiscal pressure from UAL) or reform the system (and face opposition from SEIU, AFSCME, and the broader public employee union infrastructure that turns out votes in low-turnout primaries).
+
+- [CalPERS: Facts at a Glance FY2024-25](https://www.calpers.ca.gov/documents/facts-investments/download?inline=) (Tier 1)
+- [CalPERS: Preliminary 11.6% Return for FY2024-25](https://www.calpers.ca.gov/newsroom/calpers-news/2025/calpers-announces-preliminary-116-return-for-2024-25-fiscal-year) (Tier 1)
+
+---
+
+### What They Want
+
+CalPERS's institutional interests are shaped by the structural tension between its investment returns and its benefit obligations. The fund needs: favorable regulatory treatment for private equity and alternative investments (which now constitute 40% of the portfolio target), stable or increasing employer contribution rates from California governments, protection from pension reform efforts that would reduce benefits or shift to defined-contribution models, and a political environment that does not challenge the fund's investment autonomy.
+
+The board's 2024 decision to increase private market allocations from 33% to 40% of plan assets — pushing private equity to a 17% target with a range up to 22% — represents a structural bet on Wall Street's most opaque and fee-heavy asset class. Private equity currently represents $92 billion in CalPERS assets. The fees on these investments are estimated at 6-7% annually, though CalPERS's own officials have historically been unable to fully account for performance fees paid to managers.
+
+> [!money] The Fee Machine
+> CalPERS's $92 billion private equity portfolio generates estimated annual fees of $5.5-6.4 billion for Wall Street managers (at the 6-7% estimated fee rate). The fund's 2024 decision to increase private markets to 40% of the portfolio means this fee stream will grow substantially. CalPERS claims the strategy will save $25 billion in fees over a decade by bringing more management in-house — but the baseline fee expenditure dwarfs the savings. Wall Street firms that manage CalPERS money have a direct financial interest in California politics, because the CalPERS board's investment decisions and the state's pension funding decisions are political acts. The pension fund is the hidden mechanism through which public employee retirement security is entangled with Wall Street profit.
+
+---
+
+### Who They Fund
+
+CalPERS does not operate a PAC or make direct campaign contributions. Its political influence operates through three channels.
+
+**Channel 1 — Board elections and union spending:** The CalPERS board includes six elected seats. The 2025 board election became the most expensive in CalPERS history, with unions assembling $660,000 through an independent expenditure committee to support favored candidates via mailers. Incumbent Jose Luis Pacheco raised $184,000 in direct contributions — the most of any CalPERS candidate ever — with $54,000+ from construction trade unions seeking favorable treatment in CalPERS real estate and construction investments.
+
+**Channel 2 — State lobbying:** CalPERS lobbies the California legislature on pension funding formulas, employer contribution rates, and investment regulation. The fund's positions on bills affecting public employee retirement directly shape fiscal policy for every city, county, and school district in California.
+
+**Channel 3 — Wall Street reciprocity:** The most significant political influence is indirect. Private equity firms, hedge funds, and alternative asset managers that manage CalPERS money contribute to California political campaigns, fund think tanks, and employ lobbyists who protect the pension system's investment autonomy. The allocation relationship creates a structural quid pro quo: Wall Street protects CalPERS's political autonomy; CalPERS allocates to Wall Street's highest-fee products.
+
+> [!contradiction] The 2025 Board Election — Thumb on the Scale
+> During the 2025 board election, several candidates criticized CalPERS's private equity investments and associated fees. CalPERS responded by sending a message to all 2 million members promoting its private equity performance — while voting was still underway. Multiple candidates accused CalPERS of using institutional communications to influence the election outcome in favor of the incumbent board aligned with the private equity expansion strategy. The institution used its informational monopoly over members to defend the investment strategy that its own elected board was supposed to evaluate independently.
+
+- [CalMatters: California unions spending more than ever on CalPERS board election](https://calmatters.org/politics/2025/09/calpers-election-spending/) (Tier 2)
+- [CalMatters: CalPERS touted investment returns, hit sore spot in board election](https://calmatters.org/politics/2025/09/calpers-election-private-equity/) (Tier 2)
+
+---
+
+### What They've Gotten
+
+CalPERS's structural power produces policy outcomes without traditional campaign spending.
+
+**Pension obligation protection:** No California governor has successfully enacted structural pension reform that reduces CalPERS benefits. Governor Schwarzenegger's 2005 pension reform initiative (Proposition 76) was defeated after public employee unions spent $100M+ on opposition. Governor Brown's 2013 PEPRA reforms capped benefits for new hires but left existing obligations untouched. Every attempt at structural reform triggers the union-CalPERS alliance — the unions provide voter mobilization, CalPERS provides the institutional legitimacy.
+
+**Private equity expansion:** The 2024 board vote to increase private market allocations to 40% — the largest PE allocation increase in CalPERS history — proceeded over objections from retiree advocates and fee transparency groups. The expansion benefits Wall Street managers through increased fee revenue and benefits CalPERS management by reducing public market scrutiny of fund performance (private assets are valued quarterly, not daily, smoothing reported volatility).
+
+**Employer contribution rates:** CalPERS sets employer contribution rates that local governments must pay. School employer rates reached 26.81% of payroll for FY2025-26. These rates are not negotiable — they function as a tax on local government operations that flows through CalPERS to Wall Street managers and back to retirees. When rates increase, local governments cut services or raise taxes. CalPERS's investment performance directly determines the fiscal capacity of every city and school district in California.
+
+---
+
+### The Buenrostro Corruption Scandal
+
+The most revealing episode in CalPERS history: the placement agent bribery scheme that exposed how Wall Street firms purchased access to CalPERS allocations.
+
+**The players:** Fred Buenrostro, CalPERS CEO (2002-2008). Alfred Villalobos, placement agent and founder of ARVCO Capital Research. Apollo Global Management, private equity firm.
+
+**The scheme:** Villalobos paid Buenrostro approximately $250,000 in cash (delivered in paper bags and a shoe box), plus gifts, international travel, entertainment, and payment for Buenrostro's wedding. In return, Buenrostro provided Villalobos with official CalPERS documents and influence. Villalobos then used his CalPERS access to earn placement agent fees from private equity firms seeking CalPERS allocations. Apollo Global Management paid ARVCO $14 million in fees after receiving $3 billion in CalPERS investments, facilitated through fraudulent letters created by Buenrostro and Villalobos.
+
+**Outcome:** Buenrostro pleaded guilty to conspiracy to commit fraud and bribery (2014), sentenced to 54 months in federal prison. Villalobos committed suicide before trial (2015). The SEC charged Buenrostro and Villalobos with falsifying documents in a $20 million fee scheme.
+
+> [!money] The Placement Agent Pipeline
+> The Buenrostro scandal revealed the structural vulnerability: CalPERS managed hundreds of billions in assets, and a single CEO could be bought for $250,000 in cash and a paid wedding. Apollo received $3 billion in CalPERS allocations and paid $14 million in placement fees — a 214:1 return on the placement agent's bribery investment. The scandal led to California's 2009 ban on placement agents for public pension funds, but the underlying structure — Wall Street firms competing for CalPERS allocations worth billions in management fees — remains unchanged. The ban eliminated the middlemen but not the incentive.
+
+- [DOJ: Former CalPERS CEO Sentenced to 54 Months](https://www.justice.gov/usao-ndca/pr/former-calpers-ceo-sentenced-54-months-imprisonment-role-corruption-conspiracy) (Tier 1)
+- [SEC: Charges Against Former CalPERS CEO in Placement Agent Fee Scheme](https://www.sec.gov/newsroom/press-releases/2012-2012-73htm) (Tier 1)
+- [Fortune: Ex-CalPERS CEO admits he's a crook](https://fortune.com/2014/07/14/ex-calpers-ceo-admits-hes-a-crook/) (Tier 2)
+
+---
+
+### The Private Equity Transparency Fight
+
+A decade-long battle over whether CalPERS members — the retirees whose money is at stake — can know what they're paying Wall Street.
+
+**The fee disclosure gap:** When CalPERS's chief investment officer was asked during a board meeting how much in performance fees had been paid to private equity managers, he acknowledged no one knew. CalPERS was unable to track the total fees its own portfolio was generating for Wall Street. Independent estimates put total PE fees at 6-7% annually on invested capital.
+
+**The retiree investigation:** In 2025, a coalition of CalPERS retirees launched a GoFundMe to hire forensic pension investigator Edward Siedle to examine CalPERS's private equity fees, performance, and governance practices. The investigation was triggered by persistent underperformance: measured over one-year, five-year, 10-year, and 20-year periods, CalPERS's private equity has underperformed its benchmark in three of four time frames — despite charging the highest fees of any asset class.
+
+**The clean energy losses:** CalPERS lost 71% ($331 million) of $468 million invested in clean energy strategies — losses the fund has declined to fully explain publicly, fueling allegations that politically motivated ESG investment decisions were made without adequate risk analysis.
+
+- [NBC News: CalPERS faces probe launched by concerned retirees](https://www.nbcnews.com/news/us-news/california-public-pension-fund-nations-largest-faces-probe-launched-co-rcna215534) (Tier 2)
+- [Naked Capitalism: CalPERS retiree group launches GoFundMe for PE fee investigation](https://www.nakedcapitalism.com/2025/07/calpers-retiree-group-launches-gofundme-for-investigation-on-private-equity-fees.html) (Tier 2)
+- [The Center Square: CalPERS lost 71% of $468M in clean energy](https://www.thecentersquare.com/california/article_55faf935-81b3-457e-9cb3-006fd895dbdf.html) (Tier 2)
+
+---
+
+### Donation-to-Policy Timeline
+
+| Date | Event | Amount/Impact | Policy Outcome | Time Gap |
+|------|-------|---------------|----------------|----------|
+| 2002-2008 | Buenrostro serves as CalPERS CEO | $250K in bribes received | Apollo receives $3B in CalPERS allocations; $14M in placement fees | Concurrent |
+| 2005 | Schwarzenegger pension reform initiative (Prop 76) | $100M+ union opposition | Reform defeated — CalPERS benefits untouched | Immediate |
+| 2009 | California bans placement agents for public pensions | — | Middlemen eliminated; structural incentive unchanged | Post-scandal |
+| 2013 | Brown signs PEPRA pension reform | — | New hires capped; existing $300B+ in obligations untouched | — |
+| 2024 | CalPERS board votes to increase private markets to 40% | $92B current PE portfolio | Wall Street fee revenue expands; PE target rises to 17-22% | Immediate |
+| 2025 | Board election: unions spend $660K on independent expenditures | $660K documented | Pro-PE-expansion candidates supported; CalPERS sends pro-PE message during voting | Concurrent |
+| 2025-06 | CalPERS reports 11.6% FY2025 return | $556B total assets | Funded ratio reaches 79%; employer contribution rates projected to decrease slightly | Ongoing |
+| 2025-07 | Retiree group launches forensic PE fee investigation | GoFundMe funded | Independent probe of fee disclosure, performance, and governance | Pending |
+
+---
+
+### Class Analysis
+
+CalPERS is the most complex node in the vault's donor ecosystem because it serves two masters simultaneously. On one side: 2 million public employees whose retirement security depends on the fund's solvency. On the other: Wall Street firms whose fee revenue depends on CalPERS allocating to high-fee, opaque asset classes.
+
+The structural function is a pass-through: taxpayer-funded employer contributions flow into CalPERS, CalPERS allocates to private equity and alternative investments, Wall Street extracts 6-7% annually in fees, and whatever remains funds retirement benefits. When returns are strong, both sides benefit. When returns underperform — as CalPERS's PE has in three of four measured time periods — retirees bear the risk through benefit pressure and taxpayers bear the cost through increased employer contributions.
+
+The political dimension is what makes CalPERS a donor-class node rather than a neutral institutional investor. The board's investment decisions determine which Wall Street firms receive billions in allocations. Those firms, in turn, have structural incentives to protect CalPERS's political autonomy, oppose pension reform, and support board candidates who favor private market expansion. The union-CalPERS-Wall Street triangle operates as a self-reinforcing system: unions protect CalPERS from reform, CalPERS allocates to Wall Street, Wall Street's lobbying infrastructure protects the investment environment that generates its fees.
+
+The Buenrostro scandal was the system's most visible failure, but the structure that produced it — billions in allocation decisions controlled by a small, partially elected board with enormous discretion — remains intact. The 2025 retiree investigation represents the first serious external challenge to this structure in a decade.
+
+> [!contradiction] The Workers' Money, Wall Street's Fees
+> CalPERS exists to provide retirement security for teachers, firefighters, DMV clerks, and park rangers. Its $556 billion in assets represent decades of deferred compensation from public workers. Yet the fund's investment strategy channels an estimated $5-6 billion annually in fees to Wall Street's most opaque asset managers — managers whose performance has underperformed benchmarks in three of four measured time periods. The workers whose retirement depends on CalPERS cannot track the fees their money generates. The Wall Street firms collecting those fees lobby to protect the political structure that guarantees the allocations. The pension fund designed to serve the working class has become a fee-generation mechanism for the investor class.
+
+---
+
+### Sources
+
+- [CalPERS: Preliminary 11.6% Return for FY2024-25](https://www.calpers.ca.gov/newsroom/calpers-news/2025/calpers-announces-preliminary-116-return-for-2024-25-fiscal-year) (Tier 1)
+- [CalPERS: Facts at a Glance FY2024-25](https://www.calpers.ca.gov/documents/facts-investments/download?inline=) (Tier 1)
+- [CalPERS: Managing the Unfunded Accrued Liability](https://www.calpers.ca.gov/employers/actuarial-resources/managing-unfunded-accrued-liability) (Tier 1)
+- [DOJ: Former CalPERS CEO Sentenced to 54 Months](https://www.justice.gov/usao-ndca/pr/former-calpers-ceo-sentenced-54-months-imprisonment-role-corruption-conspiracy) (Tier 1)
+- [SEC: Charges Against Former CalPERS CEO in Placement Agent Fee Scheme](https://www.sec.gov/newsroom/press-releases/2012-2012-73htm) (Tier 1)
+- [CalMatters: California unions spending more than ever on CalPERS board election](https://calmatters.org/politics/2025/09/calpers-election-spending/) (Tier 2)
+- [CalMatters: CalPERS touted investment returns, hit sore spot in board election](https://calmatters.org/politics/2025/09/calpers-election-private-equity/) (Tier 2)
+- [CalMatters: How Newsom's budget sidesteps CalPERS pension cost](https://calmatters.org/politics/2024/04/calpers-pension-cost/) (Tier 2)
+- [NBC News: CalPERS faces probe launched by concerned retirees](https://www.nbcnews.com/news/us-news/california-public-pension-fund-nations-largest-faces-probe-launched-co-rcna215534) (Tier 2)
+- [Fortune: Ex-CalPERS CEO admits he's a crook](https://fortune.com/2014/07/14/ex-calpers-ceo-admits-hes-a-crook/) (Tier 2)
+- [Naked Capitalism: CalPERS retiree group launches GoFundMe for PE fee investigation](https://www.nakedcapitalism.com/2025/07/calpers-retiree-group-launches-gofundme-for-investigation-on-private-equity-fees.html) (Tier 2)
+- [The Center Square: CalPERS lost 71% of $468M in clean energy](https://www.thecentersquare.com/california/article_55faf935-81b3-457e-9cb3-006fd895dbdf.html) (Tier 2)
+- [Ridgeline Municipal Strategies: CalPERS 11.6% Return Impact on UAL](https://www.ridgelinemuni.com/blog/calpers-announces-11-6-investment-return-for-fy2025-what-does-that-mean-for-your-agency) (Tier 3)
+- [Ballotpedia: CalPERS](https://ballotpedia.org/CalPERS) (Tier 3)
+
+---
+
+research-status:: developed — Expanded from 31-line stub to full donor node with Buenrostro corruption scandal (DOJ/SEC primary sources), PE fee transparency fight (NBC News, retiree investigation), 2025 board election spending ($660K union IE), temporal mapping table (8 entries), class analysis with union-CalPERS-Wall Street triangle, 2 callout blocks, 14 sources (5 Tier 1, 7 Tier 2, 2 Tier 3). Gaps: specific PE manager allocation amounts by firm (CalPERS annual report needed), state lobbying expenditure totals (FPPC data needed), employer contribution rate history table. Cannot reach ready without FPPC verification and complete PE fee accounting.
+content-readiness:: developed

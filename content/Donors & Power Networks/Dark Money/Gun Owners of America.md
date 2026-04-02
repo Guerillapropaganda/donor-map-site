@@ -1,0 +1,131 @@
+---
+title: "Gun Owners of America"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 2
+parent: null
+---
+
+#gun-owners-of-america #GOA #hardline-gun-rights #NRA-alternative #dark-money #second-amendment #Republican-donor
+
+related: [[National Rifle Association]] Second Amendment Advocacy Gun Rights Lobbying Republican Base Organization Constitutional Carry Movement
+
+---
+
+### Who They Are
+
+Gun Owners of America (GOA) is a 501(c)(4) nonprofit advocacy organization and affiliated super PAC that operates as the hardline, no-compromise wing of the gun rights movement. Founded in 1975, it positions itself to the political right of the National Rifle Association (NRA), opposing **all** gun regulations (including background checks, red flag laws, and waiting periods).
+
+GOA has grown significantly since 2020, becoming the primary organizational force behind "constitutional carry" legislation (eliminating permit requirements for concealed carry) and state-level gun rights maximization. Annual budget: $40M+ (2023-2024); membership: 2.5M+ members (claimed, though actual is likely lower). GOA operates as both a lobbying/advocacy organization and as a dark money funder of Republican campaigns and ballot initiatives.
+
+---
+
+### What They Want
+
+Absolute Second Amendment maximization, defined as:
+
+- Elimination of all gun regulations (background checks, waiting periods, licensing)
+- Federal constitutional carry (eliminating state permit systems)
+- Unrestricted access to semiautomatic weapons, silencers, and high-capacity magazines
+- Opposition to gun violence research and epidemiological study of gun mortality
+- Opposition to "red flag" extreme risk protection orders
+- Opposition to magazine capacity limits and "assault weapon" definitions
+- Reversal of any existing gun regulations through judicial litigation
+
+GOA distinguishes itself from NRA by refusing any regulatory compromise. While NRA has occasionally endorsed background checks or waiting periods, GOA opposes them categorically.
+
+---
+
+### Who They Fund
+
+### Direct PAC Spending:
+### 2022 Midterms:
+- $10M+ in candidate spending across Republican campaigns
+- Focused on Senate and House races where gun control was a potential issue
+- Specific spending on candidates committed to eliminating gun regulations
+
+### 2024 Presidential/Congressional:
+- $15M+ committed to Trump campaign and Republican super PACs
+- Trump's opposition to gun control made him GOA preferred candidate
+- Heavy spending in Republican primary and general election
+
+### Ballot Initiative Spending:
+### State Constitutional Carry Initiatives:
+- Spending in Washington state, California, and other states to pass constitutional carry
+- Spending to defend constitutional carry laws against repeal efforts
+- Total: $5M+ per cycle
+
+### Local and State Candidate Spending:
+- 50+ state-level Republican candidates in pro-gun races
+- Average $50K-$200K per candidate
+- Focused on state legislatures where constitutional carry is decided
+
+---
+
+### What They've Gotten
+
+### Constitutional Carry Expansion:
+GOA has been extraordinarily successful in advancing constitutional carry legislation:
+- 2020: 17 states had constitutional carry
+- 2024: 28+ states have constitutional carry or constitutional carry pending
+- Expansion accelerated during Trump presidency and post-Trump period
+
+Constitutional carry legislation eliminates concealed carry permit requirements, removing the last remaining regulatory checkpoint for handgun carry.
+
+### Judicial Strategy Success:
+GOA has been central to Second Amendment judicial maximization strategy:
+
+**New York Rifle & Pistol Association v. Bruen (2022):** Supreme Court decision overturning century-old handgun licensing laws in New York. The decision created new Second Amendment doctrine that strikes down gun regulations. GOA's litigation strategy and amicus briefs influenced the decision.
+
+**Impact:** Post-Bruen, federal courts have struck down:
+- Handgun licensing laws (New York, California)
+- Magazine capacity restrictions (pending litigation)
+- Semiautomatic weapon bans (Colt AR-15 restrictions blocked by federal courts)
+
+GOA's litigation network filed 50+ federal lawsuits post-Bruen to strike down gun regulations.
+
+### Political Leverage:
+GOA has emerged as a primary political driver for Republican gun policy:
+- GOP platforms increasingly align with GOA hardline positions (eliminate background checks, federal constitutional carry)
+- Republican politicians demonstrate fealty to GOA by rejecting any gun control proposals
+- GOA endorsements/opposition significantly impacts Republican nomination outcomes in primary races
+
+> [!money]
+> GOA's $40M+ annual budget allows spending equivalent to:
+> - Gun violence prevention organizations ($50M total across entire sector) — GOA alone is 80% of gun prevention spending but in opposite direction
+> - NRA spending ($100M+ annually) — GOA is significant fraction of NRA's total spending
+> This means GOA's budget is directly competitive with gun violence prevention sector. GOA can spend $15M in 2024 election cycle while gun violence prevention organizations struggle to fund coordinated campaigns with comparable resources.
+
+### Narrative Control:
+GOA operates social media presence (500K+ followers, highly engaged) and generates constant messaging around Second Amendment absolutism. This creates a primary messaging advantage: gun rights maximization is the dominant messaging in gun-focused social media ecosystem.
+
+### Trump Alliance:
+GOA became dominant gun rights organization in Trump coalition:
+- GOA endorsed Trump early in 2024 cycle
+- Trump adopted GOA's hardline gun rights positions
+- Post-Trump election, GOA positioned for major influence in Trump administration gun policy
+
+---
+
+### Class Analysis
+
+Gun Owners of America represents **single-issue ideological purity in dark money:** Unlike corporate donors (who balance multiple interests) or partisan megadonors (who balance multiple policy priorities), GOA is monofocused on gun rights maximization.
+
+GOA's model reveals **how dark money enables ideological hardening:** By providing alternative funding to NRA, GOA creates incentive for Republican politicians to adopt more hardline gun positions. This creates an **escalation dynamic:** as GOA pushes politicians toward absolute positions, politicians cannot retreat without losing GOA funding.
+
+GOA also illustrates **asymmetry in gun policy advocacy:** Gun rights advocates (GOA, NRA, gun manufacturers) spend $200M+ annually on advocacy. Gun violence prevention advocates spend $50M+ annually — 4x fewer resources. This resource disparity directly translates to policy disparity: gun rights positions dominate while gun violence prevention positions are marginalized.
+
+The post-Bruen litigation strategy reveals how **judicial capture can override democratic will:** Polls show 80%+ of Americans support background checks and magazine restrictions, yet post-Bruen judicial strategy strikes down these regulations despite democratic majorities. GOA's judicial strategy converts judicial appointments (Gorsuch, Kavanaugh, Barrett) into policy outcomes that override democratic preferences.
+
+---
+
+### Sources
+
+- [OpenSecrets: Gun Owners of America organizational profile](https://www.opensecrets.org/orgs/gun-owners-of-america/summary) (Tier 1)
+- [IRS Form 990: Gun Owners of America (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Gun%20Owners%20of%20America&city=&state=All+States&country=US) (Tier 1)
+- [OpenSecrets: Gun Owners of America lobbying profile](https://www.opensecrets.org/orgs/gun-owners-of-america/lobbying?id=D000026353) (Tier 1)
+- [SCOTUSblog: New York Rifle v. Bruen and Second Amendment doctrine](https://www.scotusblog.com/2022/06/opinion-analysis-bruen/) (Tier 3)
+- [Ballotpedia: Constitutional carry state list](https://ballotpedia.org/Constitutional_carry) (Tier 3)
+
+content-readiness:: ready

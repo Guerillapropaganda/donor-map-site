@@ -1,0 +1,47 @@
+---
+title: "Hedge Fund Industry Bloc"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+---
+
+#hedge-funds #wall-street #carried-interest #tax #bipartisan #sec #regulation
+
+related: [[Citadel - Kenneth Griffin]] [[Goldman Sachs]] [[Private Equity Industry Bloc]] [[Renaissance Technologies and the 7 Billion Dollar Tax Settlement]]
+
+---
+
+### Who They Are
+
+The US hedge fund industry manages approximately $4.5 trillion in assets (2024), concentrated among 15,000+ funds with the top 100 managing over 60% of total assets. Hedge funds are lightly regulated investment vehicles that use leverage, short-selling, derivatives, and alternative strategies to generate returns for accredited investors (individuals with $1M+ net worth or $200K+ income).
+
+The hedge fund industry's political spending is dominated by individual mega-donors rather than industry PACs: Kenneth Griffin (Citadel, $100M+ to Republicans), James Simons (Renaissance Technologies, $50M+ to Democrats before his death in 2024), George Soros ($100M+ to Democrats), and Steve Cohen (Point72, $30M+ bipartisan). These individual contributions dwarf any PAC operation.
+
+---
+
+### What They Want
+
+Preservation of carried interest tax treatment (taxing fund manager profits at 20% capital gains rate rather than 37% ordinary income rate), reduced SEC reporting requirements, opposition to financial transaction taxes, favorable CFTC regulation of derivatives, and reduced scrutiny of short-selling practices.
+
+---
+
+### What They've Gotten
+
+**Carried Interest Survival:** The carried interest loophole — which allows hedge fund and private equity managers to pay the 20% capital gains rate on performance fees rather than the 37% ordinary income rate — has survived every tax reform attempt since 2007. The IRA's 2022 "carried interest reform" extended the holding period from 1 year to 3 years but preserved the preferential rate — a modification designed to appear reformist while changing almost nothing in practice.
+
+**SEC Regulatory Capture:** The SEC's Division of Investment Management oversees hedge fund regulation but is staffed largely by lawyers who previously worked at, or plan to work at, hedge funds and their law firms. This Revolving Door ensures that regulation reflects the industry's risk tolerance rather than investors' or the public's.
+
+> [!money]
+> The carried interest loophole saves hedge fund managers an estimated $18 billion per decade in tax payments. The industry's political spending to preserve this loophole — concentrated in mega-donor contributions to both parties — totals perhaps $200-300 million per cycle. The ROI: every dollar of political spending preserves approximately $6-9 in tax savings. The loophole survives because hedge fund mega-donors fund both parties: Griffin funds Republicans; Soros and Simons fund Democrats. Neither party will eliminate the loophole because both parties depend on hedge fund money.
+
+---
+
+### Sources
+
+- [OpenSecrets: Hedge fund industry spending](https://www.opensecrets.org/industries/indus?ind=F2700) (Tier 1)
+- [SEC: Investment adviser registration statistics](https://www.sec.gov/divisions/investment/ia-registration-stats.shtml) (Tier 1)
+- [Ballotpedia: Hedge fund political spending](https://ballotpedia.org/Hedge_Fund_Industry_Bloc) (Tier 3)
+
+content-readiness:: ready
