@@ -52,7 +52,8 @@
       "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge 40 --repo Guerillapropaganda/donor-map-site --merge)",
       "Bash(find /c/Users/third/donor-map-site/.claude/worktrees/elated-borg/quartz/static -name og-image* -o -name icon.png)",
       "Bash(find C:Usersthirddonor-map-site.claudeworktreeselated-borgcontentStoriesPublished -type f -name *.md -o -name *.json)",
-      "Bash(find 'C:\\\\Users\\\\third\\\\donor-map-site\\\\.claude\\\\worktrees\\\\elated-borg\\\\content\\\\Stories\\\\Published\\\\Contradiction Deep Dives' -type f -name *.md)"
+      "Bash(find 'C:\\\\Users\\\\third\\\\donor-map-site\\\\.claude\\\\worktrees\\\\elated-borg\\\\content\\\\Stories\\\\Published\\\\Contradiction Deep Dives' -type f -name *.md)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr merge 41 --repo Guerillapropaganda/donor-map-site --merge)"
     ]
   }
 }

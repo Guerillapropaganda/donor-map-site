@@ -762,14 +762,54 @@ function enhanceTables() {
   }
 }
 
+// Add type badges to folder listing items based on their href
+function enhanceListings() {
+  var items = document.querySelectorAll('.section-li .section');
+  for (var i = 0; i < items.length; i++) {
+    var item = items[i];
+    if (item.dataset.badged) continue;
+    item.dataset.badged = 'true';
+    var link = item.querySelector('a');
+    if (!link) continue;
+    var href = (link.getAttribute('href') || '').toLowerCase();
+    var badge = null;
+    if (href.indexOf('/politicians/') !== -1) {
+      badge = 'POL';
+      var cls = 'listing-badge-pol';
+    } else if (href.indexOf('/donors') !== -1) {
+      badge = 'DONOR';
+      var cls = 'listing-badge-donor';
+    } else if (href.indexOf('/stories/') !== -1) {
+      badge = 'STORY';
+      var cls = 'listing-badge-story';
+    } else if (href.indexOf('/lobbying') !== -1 || href.indexOf('/k-street') !== -1) {
+      badge = 'K ST';
+      var cls = 'listing-badge-lobby';
+    } else if (href.indexOf('/media') !== -1) {
+      badge = 'MEDIA';
+      var cls = 'listing-badge-media';
+    } else if (href.indexOf('/think') !== -1) {
+      badge = 'THINK';
+      var cls = 'listing-badge-think';
+    }
+    if (badge) {
+      var span = document.createElement('span');
+      span.className = 'listing-badge ' + cls;
+      span.textContent = badge;
+      item.insertBefore(span, item.firstChild);
+    }
+  }
+}
+
 initInteractive();
 replaceEmDashes();
 cleanFolderTitle();
 cleanListingNames();
 hideDataviewFields();
 enhanceTables();
+enhanceListings();
 document.addEventListener('nav', function() {
-  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); cleanListingNames(); hideDataviewFields(); enhanceTables(); }, 100);
+  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); cleanListingNames(); hideDataviewFields(); enhanceTables(); enhanceListings(); }, 100);
 });
 `
 
