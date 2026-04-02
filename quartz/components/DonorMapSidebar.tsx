@@ -173,17 +173,28 @@ DonorMapSidebar.css = `
 }
 
 .dm-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
   display: flex;
   flex-direction: column;
   gap: 2px;
 }
 
 .dm-list-item {
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
+  list-style: none !important;
+}
+
+.dm-list-item::before {
+  display: none !important;
+  content: none !important;
+}
+
+.dm-list-item::marker {
+  display: none !important;
+  content: none !important;
 }
 
 .dm-link {
