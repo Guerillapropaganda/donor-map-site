@@ -1,50 +1,75 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
-import { pathToRoot } from "../util/path"
+import { resolveRelative } from "../util/path"
+import { QuartzPluginData } from "../plugins/vfile"
+
+// Lookup helper: find a page in allFiles by matching the end of its slug
+// e.g. searchTerm "_Nancy-Pelosi-Master-Profile" matches
+// "Politicians/Democrats/House/Nancy-Pelosi/_Nancy-Pelosi-Master-Profile"
+function findPage(allFiles: QuartzPluginData[], searchTerm: string): QuartzPluginData | undefined {
+  const lower = searchTerm.toLowerCase()
+  // Try exact end-of-slug match first (most precise)
+  return allFiles.find((f) => {
+    const slug = (f.slug ?? "").toLowerCase()
+    return slug.endsWith(lower) || slug === lower
+  })
+}
+
+// Sidebar entry definitions — only need display name + a unique search key
+// The search key matches the END of the Quartz slug (filename portion)
+const politicians = [
+  { name: "Nancy Pelosi", amount: "$14.2M", search: "_nancy-pelosi-master-profile" },
+  { name: "Mitch McConnell", amount: "$11.8M", search: "_mitch-mcconnell-master-profile" },
+  { name: "Ted Cruz", amount: "$9.4M", search: "_ted-cruz-master-profile" },
+  { name: "Chuck Schumer", amount: "$8.7M", search: "_chuck-schumer-master-profile" },
+  { name: "Donald Trump", amount: "$7.2M", search: "_donald-trump-master-profile" },
+]
+
+const donors = [
+  { name: "Goldman Sachs", icon: "\u{1F3E6}", search: "wall-street/goldman-sachs" },
+  { name: "AIPAC", icon: "\u{1F54E}", search: "aipac---american-israel-public-affairs-committee" },
+  { name: "Koch Network", icon: "\u{1F3ED}", search: "koch-network---charles-koch" },
+  { name: "Lockheed Martin", icon: "\u{2708}", search: "defense--and--intelligence/lockheed-martin" },
+]
+
+const contradictions = [
+  { name: "Drug Pricing Theater", icon: "\u{1F48A}", search: "contradiction-03---pharma-kills-drug-negotiation-from-both-sides" },
+  { name: "Defense Budget Bloat", icon: "\u{1F4A3}", search: "contradiction-04---lockheed-martin-buys-defense-hawks-in-both-parties" },
+  { name: "Carried Interest Scam", icon: "\u{1F4B0}", search: "the-carried-interest-loophole---30-years-of-survival" },
+]
+
+const tools = [
+  { name: "Money Flow", icon: "\u{1F4CA}", search: "donors--and--power-networks" },
+  { name: "ROI Calculator", icon: "\u{1F4B0}", search: "stories/published" },
+  { name: "Both-Sides", icon: "\u{1F504}", search: "contradiction-deep-dives" },
+]
 
 const DonorMapSidebar: QuartzComponent = ({
   fileData,
   cfg,
   displayClass,
+  allFiles,
 }: QuartzComponentProps) => {
-  const baseDir = pathToRoot(fileData.slug!)
   const currentSlug = (fileData.slug ?? "").toLowerCase()
 
-  const politicians = [
-    { name: "Nancy Pelosi", amount: "$14.2M", slug: "Politicians/Democrats/House/Nancy-Pelosi/_Nancy-Pelosi-Master-Profile" },
-    { name: "Mitch McConnell", amount: "$11.8M", slug: "Politicians/Republicans/Senate/Mitch-McConnell/_Mitch-McConnell-Master-Profile" },
-    { name: "Ted Cruz", amount: "$9.4M", slug: "Politicians/Republicans/Senate/Ted-Cruz/_Ted-Cruz-Master-Profile" },
-    { name: "Chuck Schumer", amount: "$8.7M", slug: "Politicians/Democrats/Senate/Chuck-Schumer/_Chuck-Schumer-Master-Profile" },
-    { name: "Donald Trump", amount: "$7.2M", slug: "Politicians/Republicans/Presidential/Donald-Trump/_Donald-Trump-Master-Profile" },
-  ]
-
-  const donors = [
-    { name: "Goldman Sachs", icon: "\u{1F3E6}", slug: "Donors--and--Power-Networks/Wall-Street/Goldman-Sachs" },
-    { name: "AIPAC", icon: "\u{1F54E}", slug: "Donors--and--Power-Networks/Israel-Lobby/AIPAC---American-Israel-Public-Affairs-Committee" },
-    { name: "Koch Network", icon: "\u{1F3ED}", slug: "Donors--and--Power-Networks/Mega-Donors/Koch-Network---Charles-Koch" },
-    { name: "Lockheed Martin", icon: "\u{2708}", slug: "Donors--and--Power-Networks/Defense--and--Intelligence/Lockheed-Martin" },
-  ]
-
-  const contradictions = [
-    { name: "Drug Pricing Theater", icon: "\u{1F48A}", slug: "Stories/Published/Contradiction-Deep-Dives/Contradiction-03---PhRMA-Kills-Drug-Negotiation-From-Both-Sides" },
-    { name: "Defense Budget Bloat", icon: "\u{1F4A3}", slug: "Stories/Published/Contradiction-Deep-Dives/Contradiction-04---Lockheed-Martin-Buys-Defense-Hawks-in-Both-Parties" },
-    { name: "Carried Interest Scam", icon: "\u{1F4B0}", slug: "Stories/Published/The-Carried-Interest-Loophole---30-Years-of-Survival" },
-  ]
-
-  const tools = [
-    { name: "Money Flow", icon: "\u{1F4CA}", slug: "Donors--and--Power-Networks" },
-    { name: "ROI Calculator", icon: "\u{1F4B0}", slug: "Stories/Published" },
-    { name: "Both-Sides", icon: "\u{1F504}", slug: "Stories/Published/Contradiction-Deep-Dives" },
-  ]
+  // Resolve a search term to a proper relative URL using Quartz's own resolver
+  function getHref(searchTerm: string): string {
+    const page = findPage(allFiles, searchTerm)
+    if (page?.slug) {
+      return resolveRelative(fileData.slug!, page.slug)
+    }
+    // Fallback: return "#" if page not found (won't 404, just stays on page)
+    return "#"
+  }
 
   return (
     <div class={classNames(displayClass, "donor-map-sidebar")}>
       <div class="dm-logo">
-        <a href={baseDir}>
+        <a href={resolveRelative(fileData.slug!, "index" as any)}>
           <span class="dm-logo-dm">DM</span>
           <span class="dm-logo-text"> Donor Map<span class="dm-cursor">_</span></span>
         </a>
-        <div class="dm-subtitle">v2.0 — 1,442 nodes tracked</div>
+        <div class="dm-subtitle">v2.0 — {allFiles.length.toLocaleString()} nodes tracked</div>
       </div>
 
       <nav class="dm-nav">
@@ -52,10 +77,11 @@ const DonorMapSidebar: QuartzComponent = ({
           <div class="dm-section-label">POLITICIANS</div>
           <ul class="dm-list">
             {politicians.map((p) => {
+              const href = getHref(p.search)
               const isActive = currentSlug.includes(p.name.toLowerCase().replace(/ /g, "-"))
               return (
                 <li class={`dm-list-item ${isActive ? "dm-active" : ""}`}>
-                  <a href={`${baseDir}/${p.slug}`} class={`dm-link ${isActive ? "dm-active-link" : ""}`}>
+                  <a href={href} class={`dm-link ${isActive ? "dm-active-link" : ""}`}>
                     <span class="dm-name">{p.name}</span>
                     <span class="dm-amount">{p.amount}</span>
                   </a>
@@ -68,42 +94,51 @@ const DonorMapSidebar: QuartzComponent = ({
         <div class="dm-section">
           <div class="dm-section-label">DONOR NODES</div>
           <ul class="dm-list">
-            {donors.map((d) => (
-              <li class="dm-list-item">
-                <a href={`${baseDir}/${d.slug}`} class="dm-link">
-                  <span class="dm-icon">{d.icon}</span>
-                  <span class="dm-name">{d.name}</span>
-                </a>
-              </li>
-            ))}
+            {donors.map((d) => {
+              const href = getHref(d.search)
+              return (
+                <li class="dm-list-item">
+                  <a href={href} class="dm-link">
+                    <span class="dm-icon">{d.icon}</span>
+                    <span class="dm-name">{d.name}</span>
+                  </a>
+                </li>
+              )
+            })}
           </ul>
         </div>
 
         <div class="dm-section">
           <div class="dm-section-label">CONTRADICTIONS</div>
           <ul class="dm-list">
-            {contradictions.map((c) => (
-              <li class="dm-list-item">
-                <a href={`${baseDir}/${c.slug}`} class="dm-link">
-                  <span class="dm-icon">{c.icon}</span>
-                  <span class="dm-name">{c.name}</span>
-                </a>
-              </li>
-            ))}
+            {contradictions.map((c) => {
+              const href = getHref(c.search)
+              return (
+                <li class="dm-list-item">
+                  <a href={href} class="dm-link">
+                    <span class="dm-icon">{c.icon}</span>
+                    <span class="dm-name">{c.name}</span>
+                  </a>
+                </li>
+              )
+            })}
           </ul>
         </div>
 
         <div class="dm-section">
           <div class="dm-section-label">INTERACTIVE</div>
           <ul class="dm-list">
-            {tools.map((t) => (
-              <li class="dm-list-item">
-                <a href={`${baseDir}/${t.slug}`} class="dm-link">
-                  <span class="dm-icon">{t.icon}</span>
-                  <span class="dm-name">{t.name}</span>
-                </a>
-              </li>
-            ))}
+            {tools.map((t) => {
+              const href = getHref(t.search)
+              return (
+                <li class="dm-list-item">
+                  <a href={href} class="dm-link">
+                    <span class="dm-icon">{t.icon}</span>
+                    <span class="dm-name">{t.name}</span>
+                  </a>
+                </li>
+              )
+            })}
           </ul>
         </div>
       </nav>
