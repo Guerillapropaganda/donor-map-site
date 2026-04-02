@@ -60,7 +60,7 @@ function wrapProfileSections() {
   for (var i = 0; i < children.length; i++) {
     var el = children[i];
 
-    if (el.tagName === 'H2') {
+    if (el.tagName === 'H2' || el.tagName === 'H3') {
       // Close previous card
       if (currentCard) {
         fragment.appendChild(currentCard);
@@ -137,6 +137,8 @@ function wrapProfileSections() {
 
 wrapProfileSections();
 document.addEventListener('nav', function() {
+  var art = document.querySelector('article');
+  if (art) art.dataset.sectionsWrapped = '';
   setTimeout(wrapProfileSections, 100);
 });
 `
