@@ -282,7 +282,7 @@ const DonorMapSidebar: QuartzComponent = ({
       <div class="dm-logo">
         <a href={absHref("")}>
           <span class="dm-logo-dm">DM</span>
-          <span class="dm-logo-text"> Donor Map<span class="dm-cursor">$</span></span>
+          <span class="dm-logo-text"> The Donor Map<span class="dm-cursor">$</span></span>
         </a>
         <div class="dm-subtitle">v2.0 — {allFiles.length.toLocaleString()} nodes tracked</div>
       </div>
