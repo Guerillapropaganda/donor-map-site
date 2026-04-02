@@ -550,6 +550,26 @@ hr {
   background: #2a2a36;
 }
 
+// --- Graph view ---
+.graph > h3 {
+  color: #63636e;
+  font-family: "Space Mono", monospace;
+  font-size: 10px !important;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.graph > .graph-outer {
+  border-color: #1e1e28;
+  background: #0c0c0f;
+  height: 300px;
+}
+
+.global-graph-outer > .global-graph-container {
+  background-color: #0c0c0f !important;
+  border-color: #1e1e28 !important;
+}
+
 // --- Selection ---
 ::selection {
   background: rgba(99, 102, 241, 0.3);
