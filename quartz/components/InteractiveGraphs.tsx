@@ -697,11 +697,23 @@ function cleanFolderTitle() {
   title.textContent = text;
 }
 
+// Strip leading underscores from link text in folder listings
+function cleanListingNames() {
+  var links = document.querySelectorAll('.section-li .desc a');
+  for (var i = 0; i < links.length; i++) {
+    var t = links[i].textContent || '';
+    if (t.charAt(0) === '_') {
+      links[i].textContent = t.substring(1);
+    }
+  }
+}
+
 initInteractive();
 replaceEmDashes();
 cleanFolderTitle();
+cleanListingNames();
 document.addEventListener('nav', function() {
-  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); }, 100);
+  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); cleanListingNames(); }, 100);
 });
 `
 
