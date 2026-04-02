@@ -28,6 +28,7 @@ import InteractiveGraphs from "./InteractiveGraphs"
 import LandingPage from "./LandingPage"
 import ProfileHeader from "./ProfileHeader"
 import ProfileWidget from "./ProfileWidget"
+import RelatedProfiles from "./RelatedProfiles"
 
 export {
   ArticleTitle,
@@ -60,4 +61,5 @@ export {
   LandingPage,
   ProfileHeader,
   ProfileWidget,
+  RelatedProfiles,
 }

@@ -338,14 +338,32 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     return new URL(resolveRelative(currentSlug, slug), location.toString())
   }
 
+  function getContentBadge(slug: string): string {
+    const s = slug.toLowerCase()
+    if (s.startsWith("politicians/"))
+      return `<span class="search-badge search-badge-pol">POLITICIAN</span>`
+    if (s.startsWith("donors"))
+      return `<span class="search-badge search-badge-donor">DONOR</span>`
+    if (s.startsWith("stories/"))
+      return `<span class="search-badge search-badge-story">INVESTIGATION</span>`
+    if (s.startsWith("lobbying") || s.startsWith("k-street"))
+      return `<span class="search-badge search-badge-lobby">K STREET</span>`
+    if (s.startsWith("media"))
+      return `<span class="search-badge search-badge-media">MEDIA</span>`
+    if (s.startsWith("think"))
+      return `<span class="search-badge search-badge-think">THINK TANK</span>`
+    return ``
+  }
+
   const resultToHTML = ({ slug, title, content, tags }: Item) => {
     const htmlTags = tags.length > 0 ? `<ul class="tags">${tags.join("")}</ul>` : ``
+    const badge = getContentBadge(slug)
     const itemTile = document.createElement("a")
     itemTile.classList.add("result-card")
     itemTile.id = slug
     itemTile.href = resolveUrl(slug).toString()
     itemTile.innerHTML = `
-      <h3 class="card-title">${title}</h3>
+      <h3 class="card-title">${badge}${title}</h3>
       ${htmlTags}
       <p class="card-description">${content}</p>
     `

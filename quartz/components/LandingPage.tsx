@@ -288,6 +288,12 @@ const LandingPage: QuartzComponent = ({
               Nine curated trails — Cuba blockade, Wall Street, defense, pharma, dark money, the Supreme Court, Trump Cabinet, consent machine, Israel Lobby.
             </div>
           </a>
+          <a href={getHref("the-biggest-findings")} class="lp-start-card lp-start-primary">
+            <div class="lp-start-card-title">The Biggest Findings</div>
+            <div class="lp-start-card-desc">
+              The 10 most damning contradictions. Same donors, both parties, same outcomes. Start here.
+            </div>
+          </a>
           <a href={getHref("browse-by-pattern")} class="lp-start-card">
             <div class="lp-start-card-title">Browse by Pattern</div>
             <div class="lp-start-card-desc">
