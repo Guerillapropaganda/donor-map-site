@@ -28,7 +28,7 @@ const DonorMapSidebar: QuartzComponent = ({
   const contradictions = [
     { name: "Drug Pricing Theater", icon: "\u{1F48A}", slug: "Stories/Published/Contradiction-Deep-Dives/Contradiction-03---PhRMA-Kills-Drug-Negotiation-From-Both-Sides" },
     { name: "Defense Budget Bloat", icon: "\u{1F4A3}", slug: "Stories/Published/Contradiction-Deep-Dives/Contradiction-04---Lockheed-Martin-Buys-Defense-Hawks-in-Both-Parties" },
-    { name: "Carried Interest Scam", icon: "\u{1F4B0}", slug: "Stories/Published/Contradiction-Deep-Dives" },
+    { name: "Carried Interest Scam", icon: "\u{1F4B0}", slug: "Stories/Published/The-Carried-Interest-Loophole---30-Years-of-Survival" },
   ]
 
   const tools = [
