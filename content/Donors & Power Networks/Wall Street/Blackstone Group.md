@@ -1,7 +1,7 @@
 ---
 title: "Blackstone Group"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -83,14 +83,14 @@ Schwarzman's personal contributions skew heavily Republican — approximately 90
 
 Blackstone PAC maintains a roughly 55/45 Republican-Democrat split, ensuring access to committee chairs regardless of which party holds power. The dual strategy is deliberate: Schwarzman's personal giving buys Republican leadership access, while the PAC maintains Democratic relationships essential for blocking hostile legislation.
 
-**Key relationships:**
+### Key relationships:
 - [[_Donald Trump Master Profile|Donald Trump]] — Schwarzman served on Strategic and Policy Forum, hosted fundraisers, contributed $20M+ to Trump-aligned super PACs across both campaigns
 - [[_Chuck Schumer Master Profile|Chuck Schumer]] — Blackstone PAC contributor to New York's Senate leader; Schumer has never supported closing the carried interest loophole despite representing Wall Street's home state
 - [[_Susan Collins Master Profile|Susan Collins]] — $200K+ from Schwarzman; Collins cast pivotal vote for TCJA preserving carried interest
 - Senate Finance Committee — carried interest jurisdiction; both parties' members receive Blackstone PAC contributions
 - House Ways and Means Committee — tax policy jurisdiction
 
-**Lobbying:**
+### Lobbying:
 
 | Year | Lobbying Spend | Lobbyists | Revolving Door % |
 |------|---------------|-----------|-----------------|
@@ -115,7 +115,7 @@ The return on Blackstone's political investment is best measured in a single num
 
 ### The Carried Interest Loophole — A $18 Billion Gift
 
-**Donation-to-policy timeline:**
+### Donation-to-policy timeline:
 
 | Date | Investment/Event | Amount | Policy Outcome | Time Gap |
 |------|-----------------|--------|----------------|----------|

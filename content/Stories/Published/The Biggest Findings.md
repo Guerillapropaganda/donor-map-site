@@ -1,7 +1,7 @@
 ---
 title: "The Biggest Findings"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 ---

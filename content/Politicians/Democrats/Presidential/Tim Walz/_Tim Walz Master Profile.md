@@ -28,7 +28,7 @@ Walz's authenticity is genuine: he taught school, coached football, served in th
 
 ### Donor Class Map
 
-**Primary funding sources (Minnesota Governorship + VP Campaign):**
+### Primary funding sources (Minnesota Governorship + VP Campaign):
 
 | Donor/Sector | Amount (Cycle) | Policy Position | Governance Outcome |
 |---|---|---|---|
@@ -51,13 +51,13 @@ Walz's authenticity is genuine: he taught school, coached football, served in th
 
 ### Analytical Patterns
 
-**Pattern: Two-Audience Problem**
+### Pattern: Two-Audience Problem
 Walz performs authentic working-class politics through rhetoric, personal narrative, and labor union relationships. Simultaneously, his governance serves centrist corporate interests through tax policy, healthcare preservation, and regulatory capture. Different audiences see different Walz: workers see the public school teacher; corporations see the business-friendly governor. Both versions are real; they're just aimed at different audiences.
 
-**Pattern: Authenticity as Political Technology**
+### Pattern: Authenticity as Political Technology
 Walz's working-class authenticity is not fake — his teaching and coaching careers are genuine. However, his authenticity is deployed politically as a tool to build trust with working-class audiences who will then accept centrist policy that does not serve their material interests. It's the newest version of the populist bait-and-switch: "He's one of us, so he would never betray us." That premise masks centrist governance.
 
-**Pattern: Genuine Win + Structural Limit**
+### Pattern: Genuine Win + Structural Limit
 As Minnesota Governor, Walz achieved real wins: Medicaid expansion (real healthcare for vulnerable people), paid family leave (real support for working families), public school funding increases (real for teachers and students), and Minneapolis 2040 zoning reform (real opportunity for housing affordability). All are genuine. All operate within limits: Medicaid expansion preserves insurance industry profits; paid leave does not challenge work culture; school funding does not reorient school purpose toward working-class economic power; zoning reform does not redistribute ownership of housing stock to workers.
 
 ### Class Analysis

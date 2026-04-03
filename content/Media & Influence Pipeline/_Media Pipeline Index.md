@@ -203,7 +203,7 @@ New profiles beyond original Phase 1+2 targets. Built as the continuous deepenin
 | `Jake Tapper.md` | **ready** | Dartmouth '91 → Salon/WCP → ABC News (2003-2013) → CNN *The Lead* + *State of the Union* (2013-present); ~$7M/yr under Mark Thompson flat-renewal (no raise); 3 NYT bestselling novels + HBO Max *Hellfire Club* adaptation (corporate synergy through parent WBD); moderated 2024 presidential debate; *Original Sin* Biden decline book; 3 ownership transitions (AT&T→WBD→Paramount/Skydance pending, Feb 2026); Bari Weiss editorial oversight risk; zero independent platform; FEC $0 (JAKE + JACOB confirmed); 8 sources |
 | `Nicolle Wallace.md` | **ready** | UC Berkeley/Northwestern Medill → Jeb Bush FL press sec → Bush White House Communications Director (2005-2006) → McCain-Palin 2008 senior advisor → The View (1 season, fired "not Republican enough") → MSNBC/MS NOW *Deadline: White House* (2017-present); $3-5M/yr; married Michael S. Schmidt (NYT/Pulitzer, Apr 2022); "self-loathing former Republican" brand as monetizable product; managed Palin media access → built career on critiquing it; FEC $0 (NICOLLE + NICOLE confirmed); 7 sources |
 
-**Queued Phase 3 candidates (not yet built):**
+### Queued Phase 3 candidates (not yet built):
 - CNN/centrist expansion: ~~Abby Phillip (built run 15)~~, ~~Chris Wallace (built run 16)~~, ~~Ana Navarro (built run 16)~~
 - Chris Hedges-adjacent: ~~Lee Camp (built 2026-03-27 run 13)~~
 - Podcast expansion: ~~Chapo Trap House (built 2026-03-27 run 11)~~, ~~Red Scare (built 2026-03-27 run 12)~~
@@ -307,7 +307,7 @@ The FEC record across all media personalities reveals the structural gap between
 
 **The core finding:** Personal political giving has almost no relationship to political influence in media. The most influential political media figures — Rogan ($450M), Shapiro (Daily Wire CEO), Maddow ($30M/yr) — give nothing or near-nothing. The figures with the highest FEC integrity (contributions matching on-air positions) are the lowest-paid: Kulinski (~$500K-$1M), Gray, Seder. **Money flows TO media personalities, not FROM them** — they are instruments of donor-class influence, not independent political actors.
 
-**Major corrections from API verification:**
+### Major corrections from API verification:
 
 - **Tucker Carlson**: Previously "N/A" → **$16,250 across 30 years** (Heritage Foundation 1995, Fox/MTG 2021, $15K MTG 2025). Only politician he's ever backed: Marjorie Taylor Greene.
 - **Cenk Uygur**: Previously "unknown" → **$98,354** ($30K own presidential campaign, $25K Rebellion PAC, $20K SC Dems). Largest personal donor in left media pipeline.
@@ -316,7 +316,7 @@ The FEC record across all media personalities reveals the structural gap between
 - **Sam Seder**: Previously "$110/2" → **~$4,012/50 entries** spanning Air America era (2006) through 2018. Includes $250 Elizabeth Warren.
 - **Laura Ingraham**: Previously "<$1K/~70 WinRed" → **$0 confirmed** (104 API results are all other Laura Ingrahams).
 
-**Pattern flags:**
+### Pattern flags:
 
 - **$0 FEC as right-wing standard:** 11 of 16 right-wing figures show $0 or N/A. Only exceptions: Bongino ($106K, 100% Trump), Tucker ($16.3K, 100% MTG), Watters ($1K Obama — contradicts on-air persona), Bet-David ($15.5K, 100% Rep + RFK Jr — rare self-funded right-wing figure who donates).
 - **Left giving is real but small:** Piker (~$2.9K Bernie), Seder (~$4K progressive), Gray ($447), Kulinski ($4-8K). These are genuine contributions but trivial relative to income. Exception: Cenk at $98K — by far the largest left-media personal donor.

@@ -41,13 +41,13 @@ Bonnell's revenue structure reveals the volatility of platform-dependent streami
 
 ### Who Funds Them
 
-**Direct funders:**
+### Direct funders:
 - [[Twitch]] (pre-ban 2006-2022): $0 fixed; 50/50 subscription split, 100% ad revenue
 - [[YouTube]] (primary, post-2022): variable ad revenue + YouTube membership split
 - [[Audience subscriptions/donations]] (all platforms): fans paying $5-25/month subscriptions, one-off Super Chats, tips
 - [[Sponsorships]] (minimal): occasional tech/energy drink brands, heavily constrained by "hateful conduct" reputation
 
-**Indirect funders (platform infrastructure):**
+### Indirect funders (platform infrastructure):
 - [[Kick]] (streaming platform, 2024): offered $100K+ guarantees to high-profile streamers; Bonnell was kicked off after brief stint
 - [[Self-hosted infrastructure]] (2024-present): independent streaming server costs estimated $2-5K/month
 
@@ -128,13 +128,13 @@ Bonnell's format trains audiences to see political engagement as entertainment, 
 
 **Platform Funder:** YouTube (primary, 2022-present); self-hosted infrastructure (2024-present, minimal revenue)
 
-**Income Dependency Breakdown:**
+### Income Dependency Breakdown:
 - YouTube ad revenue: Est. 20-30% of annual revenue (low RPM for political content)
 - YouTube membership/Super Chats: Est. 40-50% of annual revenue (direct audience payment)
 - Sponsorships: Est. 5-10% (constrained by "hateful conduct" reputation)
 - Direct donations/Patreon: Est. 10-20% (low compared to independent creators)
 
-**Editorial Red Lines:**
+### Editorial Red Lines:
 - Cannot criticize YouTube's algorithm or moderation policy (loss of primary platform)
 - Cannot conduct detailed donor-class analysis (audience organized for Democratic campaigns sees money-in-politics as secondary)
 - Cannot reject debate format (entire brand and audience engagement depends on it)

@@ -40,7 +40,7 @@ Morgan's revenue structure reveals integration with global Murdoch media infrast
 
 ### Who Funds Them
 
-**Direct funders:**
+### Direct funders:
 - [[News Corp]] (2021-2024): £50 million over three years; primary employer
 - [[Fox Nation]] (part of News Corp): US streaming distribution platform
 - [[Sky News Australia]] (News Corp subsidiary): international distribution
@@ -48,7 +48,7 @@ Morgan's revenue structure reveals integration with global Murdoch media infrast
 - [[YouTube]] (2024-present): ad revenue + sponsorship split (secondary funder)
 - [[Sponsorships/Brands]] (minimal, estimated $200-500K annually)
 
-**Indirect funders (corporate infrastructure):**
+### Indirect funders (corporate infrastructure):
 - [[Rupert Murdoch]] (News Corp controlling shareholder): strategic decision to invest £50M in Morgan as container for controversy content across global properties
 - [[HarperCollins]] (News Corp publishing): book publishing arrangements included in News Corp deal
 - [[News UK]] (News Corp subsidiary): Sun/Times columns, infrastructure support
@@ -131,12 +131,12 @@ Morgan's format trains audiences to see political engagement as entertainment co
 
 **Platform Funder:** Rupert Murdoch/News Corp (infrastructure); YouTube (distribution/revenue, 2024-present)
 
-**Income Dependency Breakdown:**
+### Income Dependency Breakdown:
 - News Corp revenue-sharing (four-year deal): Est. 40-50% of annual revenue (declining over time)
 - YouTube ad revenue + sponsorships: Est. 40-50% of annual revenue (rising as channel matures)
 - Book deals/column syndication: Est. 5-10% (through various News Corp and independent publishers)
 
-**Editorial Red Lines:**
+### Editorial Red Lines:
 - Cannot criticize Rupert Murdoch or News Corp business model (loss of revenue-sharing deal)
 - Cannot conduct structural analysis of media ownership consolidation (would require discussing Murdoch's role)
 - Cannot take left-wing positions on economic policy (alienates both News Corp and YouTube audience)

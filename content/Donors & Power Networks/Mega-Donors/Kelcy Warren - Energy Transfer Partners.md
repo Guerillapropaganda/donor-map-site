@@ -47,7 +47,7 @@ Warren's policy agenda is a direct extension of Energy Transfer's business requi
 > [!money] Follow the Money
 > FEC records show **984 individual federal contributions** (2010–2026), all from Energy Transfer Partners, TX, 100% Republican. Warren is the rare mega-donor who contributes through both personal giving (FEC-tracked) and massive Super PAC donations ($10M+ single contributions). Combined with his wife Amy Warren's contributions, total documented political giving exceeds $30 million for Trump alone. Total career political spending (federal + state): estimated $50M+.
 
-**Major documented contributions:**
+### Major documented contributions:
 
 | Recipient | Amount | Date | Significance |
 |-----------|--------|------|-------------|

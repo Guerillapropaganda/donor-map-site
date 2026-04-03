@@ -83,13 +83,13 @@ The platform dependency pattern ran throughout: Wallace's brand required institu
 
 ### What Their Funders Got
 
-**Fox News (2003–2021):**
+### Fox News (2003–2021):
 - 18 years of credible journalism cover that allowed the network to credibly claim its news division was separate from its opinion programming
 - A moderating presence that made Fox News more palatable to advertisers, policymakers, and critics
 - Validated access to every major political figure — guests who would otherwise avoid Fox would appear with Wallace, lending the network further credibility
 - Anchor for the network's Sunday show during the entire rise of MAGA media without ever threatening the primetime opinion infrastructure
 
-**CNN (2021–2024):**
+### CNN (2021–2024):
 - A marquee hire that was meant to anchor CNN+'s streaming launch — the most high-profile personality signing for the platform
 - When CNN+ failed, Wallace continued to provide institutional credibility for a network in crisis under WBD restructuring
 - His presence reduced the urgency to address CNN's structural identity crisis — "we have Chris Wallace" delayed serious reckonings

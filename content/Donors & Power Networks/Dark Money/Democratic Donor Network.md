@@ -1,7 +1,7 @@
 ---
 title: "Democratic Donor Network"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null

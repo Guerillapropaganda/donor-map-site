@@ -1,7 +1,7 @@
 ---
 title: "Nick Fuentes"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -32,7 +32,7 @@ In November 2022, Fuentes attended a private dinner at Mar-a-Lago with Donald Tr
 
 **Cryptocurrency funding:** In December 2020, Fuentes received approximately $250,000 in Bitcoin from Laurent Bachelier, a deceased French programmer. Chainalysis tracking showed this donation was part of a broader distribution to far-right figures, indicating coordination by a high-net-worth actor supporting the white nationalist movement infrastructure.
 
-**Institutional donors (only 2 documented):**
+### Institutional donors (only 2 documented):
 - Dazzio Gutierrez Family Foundation: $100,000 (2021)
 - Peter Luce Foundation: $2,500 (2023)
 
@@ -81,7 +81,7 @@ His small-dollar donor base rewards positions that larger institutions would sup
 
 ### What Their Funders Got
 
-**State GOP infiltration:**
+### State GOP infiltration:
 - Arizona: Wendy Rogers invited to AFPAC, later censured by Arizona GOP; Paul Gosar keynoted AFPAC 2022
 - Idaho: Lt. Gov. Janice McGeachin recorded video greeting for AFPAC
 - Texas: October 2023 Defend Texas Liberty PAC meeting created political liability that forced the PAC to curtail engagement

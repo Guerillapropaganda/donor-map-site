@@ -21,7 +21,7 @@ The Council on Foreign Relations (CFR) is the most influential foreign policy th
 
 Headquartered at 58 East 68th Street in New York City with a Washington, D.C. office, CFR operates as an invitation-only membership organization, think tank, and publisher. As of January 2025, it has 5,291 individual members — all U.S. citizens or permanent residents, nominated by existing members and granted either five-year term or lifetime membership. This exclusivity is a feature, not a bug: CFR is not a public square, it is a private club for the foreign policy class.
 
-**Scale (FY2024, IRS Form 990):**
+### Scale (FY2024, IRS Form 990):
 - Annual revenue: $79.1 million
 - Annual expenses: $94.3 million (spending down endowment)
 - Total assets: $755.5 million
@@ -39,7 +39,7 @@ Tax status: 501(c)(3), tax-exempt since January 1927. EIN: 13-1628168.
 
 CFR's funding model mixes member dues, corporate memberships, foundation grants, and a $692 million endowment. The endowment draw (29% of revenue per CFR's own breakdown) means the institution is substantially self-sustaining — but the corporate membership structure and foundation grants directly tie it to the donor class it supposedly analyzes "independently."
 
-**Pentagon Contractors (Think Tank Funding Tracker — minimum documented amounts):**
+### Pentagon Contractors (Think Tank Funding Tracker — minimum documented amounts):
 
 | Contractor | Minimum Contribution |
 |---|---|
@@ -67,7 +67,7 @@ CFR ranks sixth among all American think tanks in Pentagon contractor funding �
 
 **Blavatnik Controversy (2019):** CFR accepted a $12 million gift from Len Blavatnik — a Ukrainian-born oligarch whose longtime business partner Viktor Vekselberg was sanctioned by the U.S. Treasury and whose associate Oleg Deripaska has been sanctioned since 2018. Fifty-six prominent anti-corruption activists, former Treasury, State, and NSC officials signed a letter condemning the donation as helping "Blavatnik export Russian kleptocratic practices to the West." CFR president Richard Haass declined to return the money. The donation funded the Blavatnik Internship Program, which now runs 100+ paid internships per year.
 
-**CFR's revenue sources (self-reported breakdown):**
+### CFR's revenue sources (self-reported breakdown):
 - Endowment draw: 29%
 - Unrestricted individual gifts: 18%
 - Foreign Affairs magazine: 13%
@@ -138,24 +138,24 @@ CFR is not just a revolving door — it is the revolving door's permanent addres
 
 **21 Secretaries of Defense or War, 19 Secretaries of the Treasury, 17 Secretaries of State, and 15 CIA Directors** have been CFR members. This is not correlation — CFR membership is a credentialing mechanism for the foreign policy class.
 
-**Key revolving door examples:**
+### Key revolving door examples:
 
-**David Rubenstein (Chairman):**
+### David Rubenstein (Chairman):
 Carter White House deputy domestic policy advisor → Carlyle Group co-founder and managing director ($465 billion AUM) → CFR Chairman (2019–present). Also: co-chair of Brookings Institution board, regent at Smithsonian, trustee at World Economic Forum. Rubenstein's presence at CFR and Brookings simultaneously embodies the Both-Sides Illusion pattern — "centrist" institutions with the same private equity chairman.
 
-**Michael Froman (President, 2023–present):**
+### Michael Froman (President, 2023–present):
 Citigroup executive → CFR Distinguished Fellow → Obama NSC Deputy for International Economic Affairs (2009–2013) → U.S. Trade Representative (2013–2017) → Mastercard Vice Chairman and President for Strategic Growth → CFR President (2023). The full arc: financial sector → independent research → government negotiating trade deals → financial sector → back to independent research. Environmental groups specifically criticized Froman's TPP negotiations for "taking care of his friends on Wall Street and in corporate board rooms."
 
-**Richard Haass (President Emeritus):**
+### Richard Haass (President Emeritus):
 CFR President 2003–2023. Paid $1.44 million in FY2024 as President Emeritus. Prior: State Department Director of Policy Planning under Colin Powell (2001–2003), overseeing the policy shop as the Iraq War was launched. CFR-generated frameworks shaped the post-9/11 security architecture while Haass held both roles in the same establishment.
 
-**Gina Raimondo (Distinguished Fellow, 2025):**
+### Gina Raimondo (Distinguished Fellow, 2025):
 Biden Secretary of Commerce (2021–2025) → CFR Distinguished Fellow and co-chair of CFR Task Force on economic security (January 2025). The revolving door's express lane: leaves Commerce, lands at CFR within weeks, takes the "economic security" framing portfolio — covering economic policy, U.S. competitiveness, and artificial intelligence — that directly serves tech and finance sector members.
 
-**Sue Mi Terry (Senior Fellow — arrested 2024):**
+### Sue Mi Terry (Senior Fellow — arrested 2024):
 CIA analyst → NSC Korea policy director → CFR Senior Fellow → arrested July 2024 for acting as an unregistered foreign agent for the South Korean government (FARA violation). DOJ charged Terry with advocating for South Korean government positions and providing Korean officials access to U.S. officials. In exchange: luxury handbags, meals, and a $37,000 unrestricted grant. Terry resigned her CFR fellowship after indictment. This case illustrates the structural risk of CFR's model: fellows who have government access are also attractive targets for foreign government influence operations.
 
-**Historical leadership — the money and the chair:**
+### Historical leadership — the money and the chair:
 - David Rockefeller (Co-Chair 1970–1985): Chairman, Chase Manhattan Bank
 - Peter Peterson (Chair 1985–2007): Co-founder, Blackstone Group
 - Robert Rubin (Co-Chair 2007–2017): Former CEO, Goldman Sachs; former Treasury Secretary; architect of 1990s financial deregulation
@@ -189,7 +189,7 @@ The structural function is elite reproduction. CFR membership signals to the hir
 
 The "centrist" or "nonpartisan" label obscures what the class composition reveals: every CFR chairman for half a century has been a Wall Street titan. The corporate membership is the Fortune 500 finance and defense industrial base. The endowment is $692 million. This is not a neutral institution studying foreign policy — it is the foreign policy class studying itself and producing the intellectual products that justify its own continued dominance.
 
-**Key patterns present:**
+### Key patterns present:
 - **Bipartisan Credibility Shield:** Maintains token bipartisan membership and "no institutional positions" claim while consistently producing frameworks that support military engagement, financial globalization, and the interests of defense contractors and Wall Street banks
 - **Revolving Door (Policy):** The most institutionalized revolving door in American government — 21 SecDefs, 17 SecStates, 15 CIA Directors
 - **Academic Capture:** University-adjacent branding, *Foreign Affairs* academic prestige, and the "independent research" framing legitimize what is structurally a corporate-funded policy production operation

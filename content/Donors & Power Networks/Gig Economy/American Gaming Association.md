@@ -1,7 +1,7 @@
 ---
 title: "American Gaming Association"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
@@ -62,20 +62,20 @@ AGA's policy agenda is shaped by the industry's core revenue-protection interest
 
 The gaming industry's political spending pattern is bipartisan by structural necessity: casino regulation, spectrum-equivalent gaming licenses, and tax treatment of winnings are all shaped by whichever party controls regulatory agencies at any given moment. Unlike single-industry blocs that can afford ideological loyalty, gaming companies fund both parties.
 
-**AGA PAC (direct contributions, 2024 cycle):**
+### AGA PAC (direct contributions, 2024 cycle):
 Total: $143,900 | Split: approximately even between Republicans and Democrats | Primary recipients: Members of gambling-relevant committees (Judiciary, Finance, Commerce)
 
-**Industry-wide (Casinos/Gambling sector, OpenSecrets):**
+### Industry-wide (Casinos/Gambling sector, OpenSecrets):
 - 2024 federal lobbying: $39.35M (by all gaming industry entities combined)
 - 2024 PAC contributions: $552,450 to federal candidates
 - Historical industry total (OpenSecrets, all cycles combined): tracked at opensecrets.org/industries/summary?cycle=All&ind=N07
 
-**Major member company political profiles:**
+### Major member company political profiles:
 - **MGM Resorts International:** Over the past decade, MGM's PAC has given $404,690 to Democrats — double what it gave Republicans. In Nevada state-level races (2024 cycle), MGM led casino donors with $360,000, approximately 85% to Democrats.
 - **Las Vegas Sands (Miriam Adelson):** 72% of Las Vegas Sands political donations to Republicans. Miriam Adelson personally gave $13.7M in Texas political donations in the first 10 months of 2024, targeting a constitutional amendment to enable casino licensing.
 - **Station Casinos (Fertitta family):** $247,000+ to Nevada state legislators in 2024 cycle.
 
-**The Adelson Exception — Internal Contradiction:**
+### The Adelson Exception — Internal Contradiction:
 For most of the AGA's history, Sheldon Adelson represented a structural internal contradiction: AGA's largest member (Las Vegas Sands) was also the primary funder of RAWA — the legislation that would ban online gambling and destroy a key AGA priority. Adelson spent tens of millions opposing internet gambling while his company sat inside the AGA's membership. The conflict was never resolved; Adelson's death in January 2021 simply removed the problem. Miriam Adelson has since redirected the family's political spending to Texas casino legalization rather than federal online gambling bans.
 
 ---
@@ -107,7 +107,7 @@ For most of the AGA's history, Sheldon Adelson represented a structural internal
 
 **Online gambling protection:** RAWA was never enacted. AGA's resistance — never publicly prominent, given Adelson's membership — succeeded in keeping online gambling legal at the state level.
 
-**What didn't happen:**
+### What didn't happen:
 - **iGaming federal legalization** is still state-by-state (7 states as of 2025); a federal framework has not emerged
 - **Texas casino legalization** continues to fail; Miriam Adelson's $13.7M 2024 investment did not move the 2025 Texas Legislature
 - **Prediction markets regulatory clarity** remains unresolved; CFTC vs. state gaming commission jurisdiction fight is the industry's central 2025-2026 battleground

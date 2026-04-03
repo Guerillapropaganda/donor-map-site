@@ -1,7 +1,7 @@
 ---
 title: "Trump Donor Coalition"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -17,7 +17,7 @@ related: [[_Donald Trump Master Profile|Trump]] · [[Miriam Adelson]] · [[Elon 
 
 The Trump Donor Coalition. The financial infrastructure supporting Donald Trump's political operation — a unique coalition combining mega-donors, small-dollar grassroots fundraising, crypto industry buy-in, and tech-Republican converts that has no precedent in modern Republican politics. The coalition represents the most concentrated mega-donor dependence in presidential campaign history, with three individuals (Mellon, Musk, Adelson) providing over $469 million — more than most entire presidential campaigns raise.
 
-**The financial architecture (2024 cycle):**
+### The financial architecture (2024 cycle):
 
 | Entity | FEC ID | Total Raised | Function |
 |--------|--------|-------------|----------|

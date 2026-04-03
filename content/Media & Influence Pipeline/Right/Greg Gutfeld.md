@@ -48,7 +48,7 @@ No FEC individual contributions found. The FEC API returns 0 results for both "G
 
 ### Who Funds Them
 
-**Primary funder: [[Fox Corp - Rupert Murdoch]]**
+### Primary funder: [[Fox Corp - Rupert Murdoch]]
 
 Fox Corporation (NYSE: FOXA) is controlled by the Murdoch family. Lachlan Murdoch serves as Chairman and CEO. Fox News generates the majority of Fox Corp's cable revenue through a combination of affiliate fees (~$2/subscriber/month across ~70M households) and advertising revenue (~$1.5B/yr).
 

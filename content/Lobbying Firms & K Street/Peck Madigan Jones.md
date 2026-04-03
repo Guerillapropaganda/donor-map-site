@@ -76,7 +76,7 @@ Tiber Creek Group's 2025 client roster of 120 entities is overwhelmingly concent
 
 Of 20 registered lobbyists, **13 are revolving door hires (65.0%)** — former government employees now lobbying. Zero are former members of Congress. The revolving door runs primarily through Democratic Senate offices and the Clinton and Obama White Houses, with a Republican subsidiary (Bay Bridge Strategies) providing cross-aisle coverage.
 
-**Key Revolving Door Hires:**
+### Key Revolving Door Hires:
 
 - **Jeffrey Peck** (Former Chairman, 2007-2018) — Former General Counsel and Majority Staff Director of the Senate Judiciary Committee under then-Chairman Joe Biden (D-DE), serving from 1987-1992. In that role, Peck played a leading role on four Supreme Court nominations (Robert Bork, Anthony Kennedy, David Souter, Clarence Thomas), proposed constitutional amendments, the Civil Justice Reform Act of 1990, and civil rights, intellectual property, and antitrust legislation. After leaving the Senate, Peck built the lobbying firm that bears his name. He later served as Treasurer and Vice Chairman of the Biden Foundation (2017-present) and as a volunteer senior advisor to the Biden Presidential Transition. Named one of Washington's "top lobbyists" by The Hill for more than a decade. The Biden connection is the firm's most valuable asset: Peck staffed Biden on the Judiciary Committee, then fundraised for Biden's foundation, then advised Biden's transition to the presidency, then lobbied the Biden administration for corporate clients.
 
@@ -112,7 +112,7 @@ Of 20 registered lobbyists, **13 are revolving door hires (65.0%)** — former g
 
 Tiber Creek Group delivers healthcare policy access and federal appropriations expertise — two issue areas where its Senate Democratic lineage provides structural advantages.
 
-**Top Issues Lobbied (2025):**
+### Top Issues Lobbied (2025):
 
 | Issue Area | Reports | Lobbyists | Clients |
 |------------|---------|-----------|---------|
@@ -127,7 +127,7 @@ Tiber Creek Group delivers healthcare policy access and federal appropriations e
 | Insurance | 28 | 9 | 7 |
 | Labor, Antitrust & Workplace | 26 | 10 | 8 |
 
-**Key Legislative and Regulatory Work:**
+### Key Legislative and Regulatory Work:
 
 - **Healthcare Dominance:** Health Issues (125 reports) and Medicare/Medicaid (111 reports) together account for more lobbying activity than any other combined issue pair. With 38 healthcare clients, the firm runs what amounts to a standing healthcare lobbying operation — permanent advocacy infrastructure for the pharmaceutical and insurance industries on drug pricing, reimbursement rates, and regulatory oversight.
 
@@ -143,17 +143,17 @@ Tiber Creek Group delivers healthcare policy access and federal appropriations e
 
 Tiber Creek Group's bipartisan model is structurally unusual: rather than mixing Republican and Democratic partners within a single firm, it operates parallel subsidiary firms serving different parties.
 
-**Democratic Side (Core Operation):**
+### Democratic Side (Core Operation):
 - Jeffrey Peck — Biden Judiciary Committee Staff Director, Biden Foundation Treasurer
 - Jonathon Jones — Sen. Carper CoS (D-DE), Managing Partner
 - Harold Ickes — Clinton Deputy Chief of Staff, Ickes & Enright Group
 - John Michael Gonzalez — Obama Transition Legislative Affairs
 - Jay Heimbach — Obama WH Legislative Affairs, Clinton WH advisor
 
-**Republican Side (Bay Bridge Strategies subsidiary):**
+### Republican Side (Bay Bridge Strategies subsidiary):
 - Bay Bridge Strategies operates as an "accomplished and experienced" Republican partnership within the Tiber Creek family, providing bipartisan coverage without requiring the core Democratic firm to hire Republican partners directly.
 
-**Specialized Subsidiaries:**
+### Specialized Subsidiaries:
 - **Tiber Creek Health Strategies** — healthcare-specific lobbying (leveraging the firm's dominant sector)
 - **TiberCom** — communications and public affairs integration
 

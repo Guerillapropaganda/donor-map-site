@@ -27,7 +27,7 @@ In 2024, Kasparian declared herself "unaligned" and "politically homeless," laun
 
 Kasparian's funding model is the most structurally revealing in the pipeline because it documents a real-time transition from progressive institutional media to conservative media infrastructure — while the subject insists she's "unaligned."
 
-**Revenue streams:**
+### Revenue streams:
 - TYT salary (~$600K/year reported) — funded by TYT's membership, advertising, and sponsorship model. TYT previously received $20M from Jeffrey Katzenberg's WndrCo (2017) and $4M from Buddy Roemer (2014)
 - Valuetainment/Her Take (compensation undisclosed) — Patrick Bet-David's media company, based in Fort Lauderdale
 - "Unaligned" Substack (subscription revenue, size unknown)
@@ -75,7 +75,7 @@ Kasparian's funding model is the most structurally revealing in the pipeline bec
 
 Kasparian represents a different audience capture variant than Dore or Greenwald. Her shift isn't primarily ideological — it's institutional and personal, driven by a combination of genuine trauma and the economic incentives that followed.
 
-**The capture sequence:**
+### The capture sequence:
 1. **2007-2022 (TYT institutional capture):** 15 years as co-host and executive producer. Content shaped by TYT's progressive-Democratic institutional position. Kasparian IS TYT's brand almost as much as Cenk Uygur.
 2. **2022 (breaking point):** Sexual assault by homeless man + progressive backlash for discussing it. Genuine personal trauma that legitimate institutional progressivism failed to address.
 3. **2023-2024 (realignment):** Progressive audience departure, "unaligned" declaration, right-media circuit appearances. Each appearance on Shapiro/Fox/Valuetainment generates massive engagement from new audience.

@@ -30,7 +30,7 @@ Politicians rarely invent policy. They cite research. That research is funded by
 
 ### Isolation Rules
 
-**Same architecture as the Media & Influence Pipeline — fully separate from the main Donor Map vault.**
+### Same architecture as the Media & Influence Pipeline — fully separate from the main Donor Map vault.
 
 1. **One-way wikilinks only.** Think tank files link TO donor nodes in `Donors & Power Networks/`. Main vault files (politicians, donor nodes, stories) NEVER link back to think tank files. If this section is deleted, zero main vault files break.
 2. **Separate YAML type.** All think tank profiles use `type: think-tank`. Excluded from all existing dataview queries, vault audits, and content-readiness statistics.
@@ -137,7 +137,7 @@ Where Recipient/Target = the politician, agency, or legislative body that receiv
 
 Same as main vault. No changes.
 
-**Additional source types specific to think tanks:**
+### Additional source types specific to think tanks:
 - **Tier 1:** IRS 990 filings (ProPublica Nonprofit Explorer), Congressional testimony transcripts, government agency citations of think tank research
 - **Tier 2:** Investigative reporting on think tank funding (ProPublica, The Intercept, New Yorker "Dark Money" reporting)
 - **Tier 3:** Think tank's own publications (useful for mapping output, but treat self-reported impact claims as Tier 4)
@@ -164,7 +164,7 @@ Same analytical approach as the media pipeline. "Centrist" think tanks will be t
 
 ### Build Priority
 
-**Phase 1 — Initial 12-15 profiles:**
+### Phase 1 — Initial 12-15 profiles:
 
 | # | Name | Category | Why First |
 |---|------|----------|-----------|

@@ -1,7 +1,7 @@
 ---
 title: "National Republican Senatorial Committee"
 type: pac
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -23,7 +23,7 @@ The NRSC is chaired by a sitting senator appointed by Senate leadership. Its str
 
 ### The Money — 2024 Cycle
 
-**Financial Summary (FEC, 2023-2024 cycle):**
+### Financial Summary (FEC, 2023-2024 cycle):
 
 | Category | Amount |
 |----------|--------|
@@ -70,7 +70,7 @@ The largest single contributor — Friends of John Thune at $4.25 million — dw
 
 ### Where the Money Goes — 2024 Expenditures
 
-**Top Vendors:**
+### Top Vendors:
 
 | Vendor | Amount | Purpose |
 |--------|--------|---------|

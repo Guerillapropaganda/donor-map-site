@@ -38,7 +38,7 @@ The Center's financial trajectory tells the real story. In FY2019, revenue was $
 
 The Brennan Center relies almost entirely on contributions — 88.4% of FY2024 revenue came from donations, with the rest from investment income on its now-substantial endowment. It receives no funding from NYU or the government.
 
-**Major foundation funders:**
+### Major foundation funders:
 
 - **Open Society Foundations (George Soros):** $7.47M from 2000-2010 alone, with continued funding since. One of the largest single-source funders in the Center's history. VP for Programs John Kowal worked at the Open Society Institute from 1997-2008 before joining Brennan Center.
 - **Carnegie Corporation of New York:** $3.65M+ total since initial $25,000 founding grant in 1996.
@@ -60,19 +60,19 @@ The Brennan Center relies almost entirely on contributions — 88.4% of FY2024 r
 
 The Brennan Center's policy output spans three major areas, with voting rights as the flagship:
 
-**Voting Rights & Election Reform:**
+### Voting Rights & Election Reform:
 - Pioneered Automatic Voter Registration (AVR) — now adopted in 23 states plus DC, the single most impactful voter registration reform in modern history
 - Led litigation against restrictive voter ID laws, including *Veasey v. Abbott* (successful challenge to Texas voter ID law at the Fifth Circuit)
 - Filed amicus briefs in *Shelby County v. Holder* (2013) defending Section 5 of the Voting Rights Act
 - Drafted model language for the John R. Lewis Voting Rights Advancement Act
 - Published influential research on voter fraud rarity, directly countering Heritage Foundation's voter fraud database
 
-**Money in Politics:**
+### Money in Politics:
 - Developed small-donor public financing models adopted in New York City and proposed at federal level
 - Published research on Citizens United impact and dark money flows
 - Advocated for the For the People Act / Freedom to Vote Act
 
-**Criminal Justice:**
+### Criminal Justice:
 - Research on mass incarceration costs and alternatives
 - Advocacy for sentencing reform and reentry programs
 - Published influential analyses of prosecutorial discretion and bail reform
@@ -83,19 +83,19 @@ The Brennan Center's policy output spans three major areas, with voting rights a
 
 The Brennan Center operates one of the most effective think-tank-to-legislation pipelines in liberal policy:
 
-**Automatic Voter Registration (AVR):**
+### Automatic Voter Registration (AVR):
 1. Brennan Center researchers developed the AVR concept and model legislation
 2. Oregon became first state to adopt (2015), followed by California
 3. By 2026, 23 states plus DC have enacted AVR — 17 legislatively, 3 administratively, 3 by ballot initiative
 4. Brennan Center staff provided direct technical assistance to state legislatures throughout
 
-**Voting Rights Litigation:**
+### Voting Rights Litigation:
 1. Brennan Center attorneys litigate voting rights cases in federal court
 2. *Veasey v. Abbott* — blocked Texas's strict voter ID law
 3. Amicus briefs in *Shelby County v. Holder* (lost, but shaped post-decision legislative response)
 4. Research feeds directly into congressional testimony — Waldman testified before the House Administration Committee on voting rights (2021)
 
-**Freedom to Vote / John Lewis VRA:**
+### Freedom to Vote / John Lewis VRA:
 1. Brennan Center published framework analyses defining legislative goals
 2. Waldman and staff directly consulted with Senate offices drafting the legislation
 3. The bill incorporated Brennan Center's proposed VRA preclearance formula updates
@@ -124,17 +124,17 @@ The Brennan Center operates one of the most effective think-tank-to-legislation 
 
 The Brennan Center's revolving door runs primarily between the organization, the Democratic Party's legal infrastructure, and the federal judiciary:
 
-**Brennan Center → Federal Judiciary:**
+### Brennan Center → Federal Judiciary:
 - **Myrna Pérez** — Director of Voting Rights and Elections (2006-2021) → U.S. Court of Appeals, Second Circuit (confirmed October 2021, 48-43 vote). Led *Veasey v. Abbott* litigation at Brennan Center before being nominated by Biden.
 
-**Brennan Center → Biden Administration:**
+### Brennan Center → Biden Administration:
 - **Vanita Gupta** — Brennan Center board member → Associate Attorney General of the United States (2021-2025), the #3 position at DOJ
 - **Nicole Austin-Hillery** — Director of Brennan Center's Washington D.C. office, interfacing directly with congressional offices on voting rights legislation
 
-**Open Society → Brennan Center:**
+### Open Society → Brennan Center:
 - **John Kowal** — Open Society Institute (1997-2008), then Ford Foundation → Brennan Center VP for Programs. Carries the Soros network's institutional priorities directly into Brennan Center programming.
 
-**Clinton White House → Brennan Center:**
+### Clinton White House → Brennan Center:
 - **Michael Waldman** — Clinton speechwriter/Director of Speechwriting (1995-1999) → Brennan Center President (2005-present). 20+ year tenure making him the defining figure of the institution.
 
 > [!contradiction]

@@ -1,7 +1,7 @@
 ---
 title: "Chevron"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -36,7 +36,7 @@ The Richmond refinery is in a predominantly low-income, Latino and Black communi
 
 Chevron maintains a substantial federal and state PAC operation. At the California level, Chevron contributes to legislative campaigns and the California Democratic and Republican parties. Their giving tends to be bipartisan at the state level — they need relationships regardless of who controls Sacramento.
 
-**Federal PAC Contributions by Election Cycle (2000–2024):**
+### Federal PAC Contributions by Election Cycle (2000–2024):
 
 | Election Cycle | PAC Contributions | Total All Sources | % to Democrats | % to Republicans |
 |----------------|-------------------|-------------------|----------------|-----------------|
@@ -58,7 +58,7 @@ Chevron maintains a substantial federal and state PAC operation. At the Californ
 
 The 2024 cycle demonstrates Chevron's Republican weighting: $4.5 million to [[Senate Leadership Fund|Senate Leadership Fund]], $2.75 million to [[Congressional Leadership Fund]] — two major Republican leadership PACs directed at maintaining GOP control of Senate and House. Despite California's Democratic-majority lean, Chevron's federal giving tilts 73–85% Republican on average.
 
-**Federal Lobbying Expenditures (2000–2024):**
+### Federal Lobbying Expenditures (2000–2024):
 
 | Year | Federal Lobbying Spending |
 |------|--------------------------|
@@ -82,7 +82,7 @@ The 2024 cycle demonstrates Chevron's Republican weighting: $4.5 million to [[Se
 
 The two largest spending years (2008 and 2010, ~$13M each) coincided with Chevron's fight against Waxman-Markey cap-and-trade legislation, which the company and industry successfully blocked.
 
-**2024 Top Recipients:**
+### 2024 Top Recipients:
 
 | Recipient | Total | Type |
 |-----------|-------|------|
@@ -98,7 +98,7 @@ The two largest spending years (2008 and 2010, ~$13M each) coincided with Chevro
 > [!money]
 > Combined with [[ConocoPhillips]] and [[Marathon Petroleum]], the three companies collectively spent an estimated $280–290 million on federal lobbying between 2000 and 2024 — now outspending [[ExxonMobil]] 2.2–2.9x annually (2022–2024) while maintaining lower public profiles. In recent years, the three-company group outspends ExxonMobil 2.2–2.9x on federal lobbying alone.
 
-**California State PAC:**
+### California State PAC:
 
 $37 million in California contributions since 2009, plus $24 million in state lobbying. In 2017 alone, Chevron spent $6.3 million lobbying in California in a single quarter. In 2025, Chevron spent $12.9 million lobbying California officials, ranking first among all industry lobbying spenders in Sacramento. In 2024, California's fossil fuel industry spent a record $38 million, with Chevron leading.
 
@@ -108,14 +108,14 @@ $37 million in California contributions since 2009, plus $24 million in state lo
 
 ### What They've Gotten
 
-**Federal Level:**
+### Federal Level:
 — Continued federal lands leasing and drilling authorization
 — Blocked Waxman-Markey cap-and-trade legislation (2009–2010)
 — Killed Section 1504 of Dodd-Frank (Cardin-Lugar anti-corruption rule) via Congressional Review Act (2017)
 — Continued access to international markets (Myanmar, Kazakhstan, Angola, Nigeria) despite sanctions pressure
 — EV tax credit elimination (2025, via coordinated industry effort)
 
-**California Level:**
+### California Level:
 — Continued drilling permits issued by CalGEM throughout Newsom's tenure
 — Cap-and-trade maintained as the primary carbon mechanism — allows continued emissions through offset purchasing rather than direct refinery reduction requirements
 — No emergency enforcement action on Richmond refinery community health outcomes
@@ -123,7 +123,7 @@ $37 million in California contributions since 2009, plus $24 million in state lo
 — Cap-and-trade extension (2017) containing language matching WSPA "wish list" with provisions to slow rising carbon prices and increase free permits for oil and gas
 — Monterey County Measure Z (fracking ban) defeated despite Chevron's $2.2M spend (measure passed anyway)
 
-**Richmond, California Refinery:**
+### Richmond, California Refinery:
 — 2012 refinery fire: 15,000 residents hospitalized; Chevron paid $90M settlement
 — 2014 Richmond city election: $3M+ spent to elect council favorable to refinery operations
 — 2017: $6.3M in single quarter on state lobbying opposing AB 378 (high-polluting facilities cap-and-trade ineligibility); bill failed after Chevron incentivized United Steelworkers union to withdraw support with $5-year refinery upgrade contract contingent on labor opposition

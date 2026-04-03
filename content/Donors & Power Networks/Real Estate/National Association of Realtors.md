@@ -1,7 +1,7 @@
 ---
 title: "National Association of Realtors"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -41,7 +41,7 @@ NAR's political operation is the textbook bipartisan access strategy: buy every 
 
 NAR gives **identical $120,000 contributions to all six major party committees**: DNC, DCCC, DSCC, RNC, NRCC, and NRSC. The **Bipartisan Real Estate Caucus** in Congress now has **122 members**, cultivated through years of giving and staffed by **535 Federal Political Coordinators** who maintain relationships with 100% of Congress. (UNVERIFIED)
 
-**2024 Cycle — Contributions by Party of Recipient:**
+### 2024 Cycle — Contributions by Party of Recipient:
 
 | Cycle | Total | Democrats | % Dems | Republicans | % Repubs |
 |-------|-------|-----------|--------|-------------|----------|
@@ -55,7 +55,7 @@ Total contributions tripled from $5.3 million (2018) to $17.5 million (2024) —
 
 **2024 Direct Candidate Contributions:** When you strip out PAC-to-PAC transfers, NAR's direct candidate giving skews heavily Republican: $3.58M to Republicans (69.0%) vs. $2.36M to Democrats (30.6%). And 94% of candidate contributions go to incumbents ($5.6M) vs. just 6% to challengers ($354K). NAR doesn't invest in change — it buys access to existing power.
 
-**2024 Top Recipients:**
+### 2024 Top Recipients:
 
 | Recipient | Amount | Type |
 |-----------|--------|------|
@@ -87,7 +87,7 @@ NAR's PAC also funneled $1.27 million to legislators who voted to overturn the 2
 
 NAR achieved a **97% win rate** on supported candidates in 2024. Notably, NAR never spends money opposing candidates — all independent expenditure is positive "for" spending, which insulates it from antagonizing any politician. (UNVERIFIED)
 
-**2024 Full Political Ecosystem — All Channels:**
+### 2024 Full Political Ecosystem — All Channels:
 
 | Category | Amount |
 |----------|--------|
@@ -282,7 +282,7 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 
 ### Sources
 
-**Existing Sources:**
+### Existing Sources:
 - [OpenSecrets: NAR Summary Profile — contributions, lobbying, outside spending](https://www.opensecrets.org/orgs/national-assn-of-realtors/summary?id=D000000062) (Tier 1)
 - [OpenSecrets: NAR Totals — party split by cycle](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062) (Tier 1)
 - [OpenSecrets: NAR Recipients — candidate party and incumbent breakdown](https://www.opensecrets.org/orgs/national-assn-of-realtors/recipients?id=D000000062) (Tier 1)
@@ -292,23 +292,23 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 - [Wikipedia: Burnett v. National Association of Realtors — antitrust case summary](https://en.wikipedia.org/wiki/Burnett_v._National_Association_of_Realtors) (Tier 3)
 - [PR Newswire: NAR promotes Shannon McGahn to Chief Advocacy Officer](https://www.prnewswire.com/news-releases/national-association-of-realtors-promotes-shannon-mcgahn-to-chief-advocacy-officer-announces-retirement-of-bill-malkasian-joe-ventrone-301130184.html) (Tier 3)
 
-**Lobbying Expenditures & PAC Data:**
+### Lobbying Expenditures & PAC Data:
 - [OpenSecrets: NAR PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/national-assn-of-realtors/C00030718/candidate-recipients/2024) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: NAR PAC expenditures 2024](https://www.opensecrets.org/political-action-committees-pacs/national-assn-of-realtors/C00030718/expenditures/2024) (Tier 1) (UNVERIFIED)
 - [RealTrends: 25 Years of NAR Lobbying Visualized](https://www.realtrends.com/blog/2023/09/13/datadigest-25-years-of-nar-lobbying-visualized/) (Tier 2)
 - [Real Estate News: NAR spent more on lobbying than any other group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2)
 - [Real Estate News: How NAR Spent Its Money in 2024 — 990 filing](https://www.realestatenews.com/2025/12/03/how-nar-spent-its-money-in-2024) (Tier 2)
 
-**APOA Dark Money:**
+### APOA Dark Money:
 - [New York Times: Dark Money Investigation — APOA and Republican Super PACs](https://www.nytimes.com/2024/12/09/realestate/nar-real-estate-politics.html) (Tier 2) (UNVERIFIED)
 - [HousingWire: NAR APOA New York Times Expose on Nonprofit Giving to Conservative Groups](https://www.housingwire.com/articles/nar-apoa-new-york-times-expose-nonprofit-giving-conservative-groups/) (Tier 2)
 - [Real Estate News: NAR Responds to Myths in New York Times Dark Money Story](https://www.realestatenews.com/2024/12/10/nar-responds-to-myths-in-new-york-times-dark-money-story) (Tier 2)
 
-**Policy Outcomes & Rent Control:**
+### Policy Outcomes & Rent Control:
 - [1031 Crowdfunding: Preserve 1031 Exchanges](https://www.1031crowdfunding.com/preserve-1031-exchanges/) (Tier 3) (UNVERIFIED)
 - [1031 Corp: Exchanging Thoughts Blog — Preserve Section 1031](https://www.1031corp.com/exchanging-thoughts-blog/preserve-section-1031) (Tier 3)
 
-**Revolving Door & Regulatory Capture:**
+### Revolving Door & Regulatory Capture:
 - [Cato Institute: Mark Calabria — Staff Profile](https://www.cato.org/people/mark-calabria) (Tier 3)
 - [PCAOB: Mark A. Calabria — Board Biographies](https://pcaobus.org/about/the-board/board-bios/mark-a.-calabria) (Tier 3)
 - [Private Equity Stakeholder Project (PESP): Concerns Surround Appointment of PE Insider to Head FHFA](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2)

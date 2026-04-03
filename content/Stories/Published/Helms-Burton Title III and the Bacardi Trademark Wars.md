@@ -1,7 +1,7 @@
 ---
 title: "Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
@@ -30,7 +30,7 @@ The legislative architects of Helms-Burton were Senators Jesse Helms (R-NC) and 
 
 The influence campaign, however, tells a different story. The Center for Public Integrity (1998) documented that Fisk showed his initial draft to **Jorge Mas Canosa**, executive director of the Cuban American National Foundation (CANF). Mas Canosa met with Helms and offered suggestions. However, CPI concluded that CANF did **not** play the determinative role—CANF's position on auctioning recovered properties directly contradicted the interests of title claimants.
 
-**Bacardi's role was decisive.**
+### Bacardi's role was decisive.
 
 Manuel J. Cutillas, executive director of Bacardi, coordinated the company's influence campaign. But the operative was **Otto Reich**, a Miami consultant who had been paid over $600,000 by Bacardi since 1996. According to CPI, Reich "arranged the loan of Bacardi lawyers to help draft the measure's most controversial provisions"—specifically, the clauses creating the private right of action and defining the scope of "trafficking" in confiscated property.
 
@@ -114,7 +114,7 @@ President Trump changed the calculus. Beginning in January 2019, Trump shortened
 
 The 2019 activation of Title III was not spontaneous. It was the product of a coordinated campaign by specific claimants, their lawyers, and the same revolving-door operative who had helped draft the original legislation: Otto Reich.
 
-**The lead plaintiffs were:**
+### The lead plaintiffs were:
 - **Jose Garcia-Bengochea**, a retired Miami neurosurgeon who held a certified claim to the Santiago docks (82.5% ownership stake under his claim).
 - **Mickael Behn**, heir to Havana Docks interests.
 
@@ -319,7 +319,7 @@ content-readiness:: Developed story file with full donor-to-policy chain, litiga
 
 ### Sources
 
-**Tier 1 (Primary Documents and Authoritative Government Records):**
+### Tier 1 (Primary Documents and Authoritative Government Records):
 
 - DOJ Foreign Claims Settlement Commission Claims Database: https://www.justice.gov/fcsc/claims-against-cuba (Tier 1)
 - FCSC Certified Claims List (PDF): https://www.justice.gov/sites/default/files/fcsc/pages/attachments/2014/12/18/cuban_basic_claimant_info_value.pdf (Tier 1)
@@ -329,7 +329,7 @@ content-readiness:: Developed story file with full donor-to-policy chain, litiga
 - U.S. State Department Title III Provisions (1999): https://1997-2001.state.dept/regions/wha/fs_990716_cuba_titleIII.html (Tier 1)
 - USTR WTO Dispute Settlement — Section 211 Dispute: https://ustr.gov/issue-areas/enforcement/dispute-settlement-proceedings/united-states-%E2%80%93-section-211-omnibus-appropri (Tier 1)
 
-**Tier 2 (Academic and Investigative Journalism):**
+### Tier 2 (Academic and Investigative Journalism):
 
 - Miami New Times — Title III Donor Investigation: https://www.miaminewtimes.com/uncategorized/inside-the-campaign-to-crush-investment-in-cuba-under-helms-burton-act-17727091/ (Tier 2)
 - Center for Public Integrity (via Progreso Weekly): https://progresoweekly.us/the-true-origin-of-the-helms-burton-act/ (Tier 2)
@@ -345,7 +345,7 @@ content-readiness:: Developed story file with full donor-to-policy chain, litiga
 - Reuters — Exxon SCOTUS Case (Feb 2026): https://www.reuters.com/business/energy/us-supreme-court-hear-exxon-bid-compensation-cuba-2026-02-23/ (Tier 2)
 - Reuters — Biden Signs No Stolen Trademarks Act (Dec 2024): https://www.reuters.com/legal/government/biden-signs-us-law-barring-stolen-cuba-owned-trademarks-2024-12-03/ (Tier 2)
 
-**Tier 3 (Supplementary and Regional Sources):**
+### Tier 3 (Supplementary and Regional Sources):
 
 - Center for Free Cuba — Brothers to the Rescue Shootdown (March 2026 Retrospective): https://cubacenter.org/cuba-brief/2026/03/12/cubabrief-on-this-day-in-1996-president-bill-clinton-signed-the-cuban-liberty-and-democratic-solidarity-act-helms-burton-act-in-response-to-the-brothers-to-the-rescue-shootdown/ (Tier 3)
 - Mayer Brown LLP — EU Blocking Statute Analysis: https://www.mayerbrown.com/en/insights/publications/2021/12/eu-top-court-issues-firstever-judgment-on-the-eu-blocking-statute-against-us-sanctions (Tier 3)
@@ -358,7 +358,7 @@ content-readiness:: Developed story file with full donor-to-policy chain, litiga
 - Deutsche Welle — Havana Club Trademark Dispute (2024): https://www.dw.com/en/us-law-ends-havana-club-trademark-battle-between-cuba-and-bacardi/a-71097201 (Tier 3)
 - The Drinks Business — Havana Club Dispute Ongoing Coverage: https://www.thedrinksbusiness.com/2024/06/the-havana-club-dispute-rumbles-on/ (Tier 3)
 
-**Tier 4 (Analysis and Commentary):**
+### Tier 4 (Analysis and Commentary):
 
 - Jacobin Magazine — SCOTUS Cuba Lawfare (January 2026): https://jacobin.com/2026/01/cuba-lawfare-trump-supreme-court (Tier 4)
 - JSTOR — Bacardi "Hidden War" Monograph: https://www.jstor.org/stable/j.ctt18mvnpg (Tier 4)

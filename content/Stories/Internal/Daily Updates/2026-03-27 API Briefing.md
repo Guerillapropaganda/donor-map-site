@@ -29,7 +29,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 **Action required:** David must register a personal FEC API key at https://api.open.fec.gov/developers/ to get 1,000 calls/hour. Until then, daily runs will continue to fail on FEC queries. See `API Pipeline.md` for registration instructions.
 
-**Affected queries (skipped this run):**
+### Affected queries (skipped this run):
 - New large donations from tracked donors (schedule_a)
 - Independent expenditures since 03/20/2026 (schedule_e)
 - Candidate totals 2026 cycle
@@ -43,7 +43,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 #### Tracked Entities — Flagged Filings
 
-**JPMorgan Chase Holdings LLC**
+### JPMorgan Chase Holdings LLC
 - **Registrant:** Dentons US LLP
 - **Period:** Q1 2026 (Jan 1 – Mar 31)
 - **Income:** $60,000
@@ -79,7 +79,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 #### Defense Contractors
 
-**Lockheed Martin**
+### Lockheed Martin
 
 | Contract | Recipient | Amount |
 |----------|-----------|--------|
@@ -92,7 +92,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 - NOAA C-130J aircraft modification (4 aircraft, fully modified)
 - Wikilink: [[Lockheed Martin]]
 
-**Raytheon Technologies**
+### Raytheon Technologies
 
 | Contract | Description | Amount |
 |----------|-------------|--------|
@@ -103,7 +103,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 - **Flag:** Raytheon's $418M FAA radar contract is a non-DOD defense contract — Federal Aviation Administration paying Raytheon to replace air traffic control radar. Classic dual-use defense/civilian infrastructure capture.
 - Wikilink: [[Raytheon Technologies]]
 
-**Northrop Grumman**
+### Northrop Grumman
 
 | Contract | Description | Amount |
 |----------|-------------|--------|
@@ -112,7 +112,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 - Wikilink: [[Northrop Grumman]]
 
-**Boeing**
+### Boeing
 
 | Contract | Description | Amount |
 |----------|-------------|--------|
@@ -123,7 +123,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 - **Flag:** Boeing's March 2026 contract activity is dominated by long-running NASA space programs (ISS, SLS). These are cost-plus development contracts that have historically run billions over budget. The $22.4B ISS contract shows active March obligation modifications.
 - Wikilink: [[Boeing]]
 
-**General Dynamics**
+### General Dynamics
 
 | Contract | Description | Amount |
 |----------|-------------|--------|
@@ -132,7 +132,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 #### Tech/Cloud Contractors
 
-**Microsoft Corporation**
+### Microsoft Corporation
 
 | Contract | Description | Amount |
 |----------|-------------|--------|
@@ -142,7 +142,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 - **Flag:** Microsoft Azure Stratus is a DHS cloud contract — Microsoft is the primary cloud provider for Department of Homeland Security. March 2026 activity shows active obligations. Connect to [[Microsoft]] and broader [[Tech & Crypto]] donor network.
 
-**Amazon Web Services**
+### Amazon Web Services
 
 | Contract | Description | Amount |
 |----------|-------------|--------|
@@ -154,7 +154,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 #### Wall Street / Financial
 
-**Goldman Sachs**
+### Goldman Sachs
 
 | Contract | Description | Amount |
 |----------|-------------|--------|

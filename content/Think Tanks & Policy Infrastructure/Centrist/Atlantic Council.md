@@ -33,7 +33,7 @@ The Atlantic Council operates through more than a dozen centers and programs inc
 
 The Atlantic Council's funding model is a three-legged stool: defense contractors, foreign governments, and corporate sponsors — with the U.S. government providing a fourth, quieter leg. The mix makes the Atlantic Council the most foreign-government-funded and Pentagon-contractor-funded major think tank in the United States.
 
-**Pentagon Contractors ($10.2M, 2019-2023 — highest among all U.S. think tanks):**
+### Pentagon Contractors ($10.2M, 2019-2023 — highest among all U.S. think tanks):
 - Northrop Grumman: ~$5.6M (2019-2023)
 - SAAB: $1.2M+
 - General Atomics: $850K
@@ -43,7 +43,7 @@ The Atlantic Council's funding model is a three-legged stool: defense contractor
 - Airbus: Corporate Members Program ($250K+ annually)
 - Booz Allen Hamilton: "Foundational Sponsor" of Defense Innovation Adoption Commission
 
-**Foreign Government Funding (~$21M, 2019-2023 — highest among all U.S. think tanks):**
+### Foreign Government Funding (~$21M, 2019-2023 — highest among all U.S. think tanks):
 - United Arab Emirates Embassy: $1M+ annually for 5+ consecutive years
 - UAE Ministry of Foreign Affairs: $100K-$250K
 - Abu Dhabi National Oil Company (ADNOC): $250K-$500K
@@ -52,12 +52,12 @@ The Atlantic Council's funding model is a three-legged stool: defense contractor
 - Qatar: significant (specific amounts undisclosed)
 - Additional funding from European NATO allies
 
-**U.S. Federal Government ($15.3M, 2021-2025):**
+### U.S. Federal Government ($15.3M, 2021-2025):
 - Department of Defense
 - Department of State
 - USAID
 
-**Corporate & Individual Mega-Donors ($1M+ tier, 2024):**
+### Corporate & Individual Mega-Donors ($1M+ tier, 2024):
 - [[Goldman Sachs]] (board chair is Goldman EVP)
 - Adrienne Arsht (vice chair and major personal donor)
 - Facebook/Meta
@@ -67,13 +67,13 @@ The Atlantic Council's funding model is a three-legged stool: defense contractor
 - Hunt Consolidated
 - Splunk Inc.
 
-**Burisma Holdings (2017-2019):**
+### Burisma Holdings (2017-2019):
 - $300K-$450K from Ukrainian energy company owned by Mykola Zlochevsky
 - Partnership announced January 2017
 - Hunter Biden served on Burisma board simultaneously
 - Atlantic Council board member Sally Painter co-founded Blue Star Strategies, consulting firm representing Burisma
 
-**Revenue Trajectory:**
+### Revenue Trajectory:
 | Fiscal Year | Revenue | Expenses | Net Assets |
 |-------------|---------|----------|------------|
 | 2024 | $69.9M | $68.4M | $66.6M |
@@ -127,7 +127,7 @@ The Atlantic Council's pipeline operates through a distinctive mechanism: **it p
 
 The Atlantic Council's revolving door operates at the highest level of the U.S. national security establishment — not policy analysts cycling through mid-level positions, but Secretaries of State, Defense Secretaries, CIA Directors, and National Security Advisors rotating onto the board and back into government.
 
-**Board-Level Revolving Door (Honorary/Lifetime Directors):**
+### Board-Level Revolving Door (Honorary/Lifetime Directors):
 - Henry Kissinger: Secretary of State (Nixon/Ford) → Atlantic Council
 - James A. Baker III: Secretary of State (Bush Sr.) → Atlantic Council
 - Condoleezza Rice: National Security Advisor / Secretary of State (Bush Jr.) → Atlantic Council
@@ -137,33 +137,33 @@ The Atlantic Council's revolving door operates at the highest level of the U.S. 
 - R. James Woolsey: CIA Director (Clinton) → Atlantic Council
 - Frank Carlucci: National Security Advisor / Defense Secretary (Reagan) → Carlyle Group → Atlantic Council
 
-**Active Revolving Door:**
+### Active Revolving Door:
 
-**Stephen J. Hadley (Vice Chair):**
+### Stephen J. Hadley (Vice Chair):
 - National Security Advisor (Bush Jr., 2005-2009)
 - Principal, RiceHadleyGates LLC (consulting firm with Rice and Gates)
 - Atlantic Council executive vice chair
 - *NSA → private consulting → think tank leadership — carrying defense industry relationships across all three*
 
-**Mark T. Esper (Commission Co-Chair):**
+### Mark T. Esper (Commission Co-Chair):
 - Raytheon VP for Government Relations (lobbyist)
 - Secretary of Defense (Trump admin, 2019-2020)
 - Co-chair, Atlantic Council Defense Innovation Adoption Commission
 - *Defense contractor lobbyist → Pentagon chief → think tank commission chair recommending defense procurement reform*
 
-**Deborah Lee James (Commission Co-Chair):**
+### Deborah Lee James (Commission Co-Chair):
 - SAIC executive
 - Secretary of the Air Force (Obama admin, 2013-2017)
 - Co-chair, Atlantic Council Defense Innovation Adoption Commission
 - *Defense contractor executive → Air Force Secretary → think tank commission chair*
 
-**John F.W. Rogers (Board Chair):**
+### John F.W. Rogers (Board Chair):
 - Executive Vice President, [[Goldman Sachs]]
 - Assistant to President Reagan / Under Secretary of State for Management (Reagan admin)
 - Atlantic Council board chair
 - *Wall Street → State Department → think tank chairman — Goldman Sachs chairing NATO's civilian policy shop*
 
-**Frederick Kempe (CEO):**
+### Frederick Kempe (CEO):
 - Wall Street Journal editor/reporter (25+ years)
 - Atlantic Council President/CEO (2007-present)
 - *Media → think tank leadership. Kempe's media background provides the cultural credibility that makes defense contractor-funded analysis look like independent journalism.*
@@ -177,7 +177,7 @@ The Atlantic Council's revolving door operates at the highest level of the U.S. 
 
 The Atlantic Council's funders receive returns calibrated to each funding stream:
 
-**Specific Returns:**
+### Specific Returns:
 
 1. **Defense Contractors — Procurement Advocacy:** The $10.2M from Pentagon contractors purchases policy recommendations that consistently argue for increased defense spending, faster procurement, and expanded weapons systems. The Defense Innovation Commission's recommendations — written by industry commissioners from companies that gave $810K-$1.6M — call for reforms that would accelerate defense acquisition, directly benefiting the companies that funded the recommendations. Northrop Grumman's $5.6M investment produces analysis supporting the bomber, satellite, and nuclear modernization programs that Northrop builds.
 

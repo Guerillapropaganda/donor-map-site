@@ -41,7 +41,7 @@ No FEC individual contributions found. Candace Owens has made zero federal polit
 
 Owens's funding model has undergone the most dramatic transformation in this vault section — from total institutional dependency (TPUSA → Daily Wire) to self-funded independence, with the break triggered not by editorial disagreement but by the Israel lobby's veto power over conservative media.
 
-**Phase 1: Institutional Conservative Pipeline (2017-2024)**
+### Phase 1: Institutional Conservative Pipeline (2017-2024)
 
 **Turning Point USA (2017-2019):** TPUSA hired Owens as "director of urban engagement" in November 2017, later promoting her to communications director. TPUSA's mega-donor pipeline (see [[Charlie Kirk]] profile: $389M total raised, Bradley Impact Fund $23.6M, Wayne Duddlesten $13.1M, DonorsTrust dark money) funded Owens's salary and platform. The TPUSA role gave Owens a national media platform, CPAC speaking slots, and direct access to Trump (who called her "a very smart thinker"). She departed May 2019 amid backlash over comments about Hitler, framing the exit as a decision to focus on BLEXIT.
 
@@ -49,7 +49,7 @@ Owens's funding model has undergone the most dramatic transformation in this vau
 
 **Daily Wire (2021-2024):** Owens hosted Candace on the Daily Wire starting March 19, 2021. The Daily Wire was built on Wilks Brothers seed money ($4.7M from Dan and Farris Wilks, petroleum billionaires — same funding source documented in the [[Ben Shapiro]] and [[Steven Crowder]] profiles). Specific salary terms were never publicly disclosed, though Owens's June 2023 podcast episode was titled "Why Daily Wire Should Pay Me $100 Million Dollars." The firing on March 22, 2024, was announced by CEO Jeremy Boreing via X: "Daily Wire and Candace Owens have ended their relationship."
 
-**Phase 2: Self-Funded Independence (2024-present)**
+### Phase 2: Self-Funded Independence (2024-present)
 
 The post-Daily Wire operation is the fastest media independence build in this vault:
 

@@ -1,7 +1,7 @@
 ---
 title: "Healthcare Sector"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
@@ -19,7 +19,7 @@ The Healthcare Sector is the single largest lobbying force in American politics 
 
 Combined healthcare lobbying in 2024: **$743.9 million** — the highest total of any sector in federal lobbying. Combined political contributions (PACs + individuals giving $200+): **$443 million** in the 2024 election cycle. The healthcare sector has outspent every other industry in lobbying since 1998, with cumulative pharmaceutical-alone lobbying exceeding **$6.1 billion from 1999 to 2024**.
 
-**Sector breakdown (2024 lobbying):**
+### Sector breakdown (2024 lobbying):
 - Pharmaceuticals/Health Products: $384.5M (top sub-sector; top spender since 1999)
 - Health Services/HMOs: ~$118M
 - Insurance: ~$117M
@@ -47,7 +47,7 @@ The sector's legislative priorities converge across subsectors into a coherent c
 
 The healthcare sector's political giving is aggressively bipartisan — a structural feature, not an accident. Both parties receive substantial funding to ensure that regardless of which party controls healthcare legislation, the sector's fundamental interests are protected. In the 2024 cycle, the sector split approximately 55% Republican / 45% Democrat on direct candidate contributions, with the split narrowing or reversing when Democratic legislators hold key committee positions.
 
-**Key recipients (committee access — 2024 cycle):**
+### Key recipients (committee access — 2024 cycle):
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|----------|
@@ -68,14 +68,14 @@ The healthcare sector's political giving is aggressively bipartisan — a struct
 
 The healthcare sector's return on political investment is measurable in structural outcomes: the United States is the only developed nation without universal healthcare. Americans pay the highest drug prices in the world — 2.5x to 4x the prices paid in comparable countries. Healthcare consumes 18% of U.S. GDP. Administrative costs alone account for an estimated 34% of total healthcare expenditures (versus 12-25% in other OECD nations) — the direct cost of maintaining a multi-payer private insurance system that lobbying protects.
 
-**Structural victories (what didn't happen):**
+### Structural victories (what didn't happen):
 - Harry Truman's national health insurance proposal (1945, 1949): blocked by AMA's "socialized medicine" campaign — then the most expensive lobbying effort in U.S. history.
 - Clinton healthcare reform (1993-1994): blocked by AHIP's "Harry and Louise" campaign ($100M+) and insurance industry coordination.
 - Medicare drug price negotiation: blocked from 1997 to 2021 (Medicare Part D 2003 explicitly prohibited it). IRA 2022 finally allowed negotiation for 10 drugs in Year 1.
 - Public option: blocked in ACA (2010), blocked in Build Back Better (2021-2022).
 - Medicare for All: never reached committee vote despite House majority (2019-2021).
 
-**What did happen:**
+### What did happen:
 - ACA individual mandate (2010): required all Americans to purchase private insurance — a policy the insurance industry itself designed and advocated for as the "alternative" to single-payer.
 - Medicare Advantage expansion: privatized portion of Medicare, generating $500B+ in annual payments to private insurers; documented 25% overpayment above Traditional Medicare costs.
 - Biologic drug exclusivity (12 years under ACA): delayed generic competition for expensive biologic drugs by up to a decade beyond base patent terms.

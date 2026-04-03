@@ -54,15 +54,15 @@ At estimated sub-$200K/yr income from crowdfunding and documentaries, zero FEC a
 
 ### Who Funds Them
 
-**Phase 1 funder: Russian government (via ANO TV-Novosti / RT America)**
+### Phase 1 funder: Russian government (via ANO TV-Novosti / RT America)
 
 RT America was registered as a foreign agent under FARA in 2017. Martin's show operated within a network funded by the Russian state, though she maintained (and demonstrated through the Crimea incident) editorial independence unusual for RT hosts. The structural question: did RT fund Martin because her anti-imperialist content aligned with Russian geopolitical interests (undermining U.S. credibility), even when she had genuine editorial freedom? The answer is almost certainly yes — RT's business model was funding American dissidents whose critiques of U.S. policy served Russian information interests, regardless of whether the hosts themselves were "controlled."
 
-**Phase 2 funder: Venezuelan government (via teleSUR)**
+### Phase 2 funder: Venezuelan government (via teleSUR)
 
 teleSUR is a multi-state Latin American media venture primarily funded by Venezuela, with contributions from Cuba, Nicaragua, Uruguay, and Bolivia. Martin's anti-imperialist documentary work aligned with teleSUR's editorial positioning against U.S. foreign policy in Latin America. The U.S. sanctions that cut her funding demonstrate the geopolitical stakes: the Treasury Department's sanctions on Venezuelan state entities had the secondary effect of defunding American journalists whose work challenged U.S. foreign policy narratives.
 
-**Phase 3 funder: Audience (crowdfunding)**
+### Phase 3 funder: Audience (crowdfunding)
 
 Post-2018, Martin has no institutional funder. Revenue comes directly from viewers. This is the cleanest funding model in the media pipeline — no corporate sponsors, no platform exclusivity, no government contracts. The constraint is financial: crowdfunding produces far less revenue than institutional backing, limiting production quality and output frequency.
 
@@ -87,15 +87,15 @@ Martin's audience capture operates through ideological alignment rather than alg
 
 ### What Their Funders Got
 
-**What RT got (2012–2015):**
+### What RT got (2012–2015):
 1. An American journalist with genuine credibility criticizing U.S. foreign policy, military interventions, and corporate media — content that aligned with Russian information warfare objectives regardless of Martin's editorial independence.
 2. A Crimea moment that RT could spin as evidence of editorial freedom ("see, our hosts can criticize Russia"), even as the incident embarrassed the network.
 
-**What teleSUR got (2015–2018):**
+### What teleSUR got (2015–2018):
 1. High-quality investigative documentary content from an American journalist covering U.S. imperialism in Latin America — content that served Venezuela's narrative interests.
 2. An English-language media presence reaching American audiences with anti-interventionist content during a period of escalating U.S. sanctions pressure on Venezuela.
 
-**What the audience gets (2018–present):**
+### What the audience gets (2018–present):
 1. Anti-imperialist investigative journalism with no corporate or state editorial constraints.
 2. The *Gaza Fights for Freedom* documentary — the most widely viewed independent documentary on the Gaza conflict.
 3. A First Amendment legal precedent: *Martin v. Wrigley* established that Georgia's anti-BDS law violates the First Amendment, a ruling with implications for anti-BDS laws in 30+ states.

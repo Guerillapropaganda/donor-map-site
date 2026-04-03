@@ -1,7 +1,7 @@
 ---
 title: "Marathon Petroleum"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -29,7 +29,7 @@ Opposition to EPA refinery emissions standards, reduced Clean Air Act enforcemen
 
 ### Who They Fund
 
-**Federal PAC Contributions by Election Cycle (2012–2024):**
+### Federal PAC Contributions by Election Cycle (2012–2024):
 
 | Election Cycle | PAC Contributions | Total All Sources | % to Democrats | % to Republicans |
 |----------------|-------------------|-------------------|----------------|-----------------|
@@ -47,7 +47,7 @@ Marathon Petroleum is the most Republican-concentrated of all major oil companie
 
 MPAC (Marathon Petroleum Corporation Employees Political Action Committee, C00496307) raised $1,539,531 in 2023–2024 and gave $648,900 to federal candidates (8.63% Democrat, 91.37% Republican). Location: Findlay, Ohio.
 
-**Federal Lobbying Expenditures (2012–2024):**
+### Federal Lobbying Expenditures (2012–2024):
 
 | Year | Federal Lobbying Spending | Notes |
 |------|--------------------------|-------|
@@ -67,7 +67,7 @@ MPAC (Marathon Petroleum Corporation Employees Political Action Committee, C0049
 
 **Confirmed total 2012–2024:** ~$34.2 million. The 2018 peak ($4.96M) coincided with CAFE rollback campaign and the $23 billion Andeavor acquisition. California state lobbying (2025): $877,023, ranking 5th among oil industry spenders in Sacramento.
 
-**2024 Top Recipients:**
+### 2024 Top Recipients:
 
 | Recipient | Total | Significance |
 |-----------|-------|---|
@@ -92,30 +92,30 @@ Marathon Petroleum ran one of the most extensively documented covert fossil fuel
 > [!contradiction]
 > Marathon's official stance: We support free market principles and are not opposed to electric vehicles. Internally and through dark money: We will use every available lever to block EV adoption, fuel economy standards, and state-level EV incentives — via congressional letter orchestration, ALEC bills, dark money Facebook campaigns generating 25% of DOT comments, and EPA access.
 
-**The Campaign Architecture:**
+### The Campaign Architecture:
 
-**1. Congressional Letter Campaign & Draft Coordination:**
+### 1. Congressional Letter Campaign & Draft Coordination:
 Marathon drafted a letter opposing CAFE (Corporate Average Fuel Economy) standards and circulated it among members of Congress. Nineteen lawmakers from Indiana, West Virginia, and Pennsylvania subsequently sent letters to the Transportation Department containing phrases quoted verbatim from Marathon's industry letter. The talking points reframed fuel efficiency as a consumer freedom issue ("choice in vehicles that best fit their needs") rather than federal energy policy, directly contradicting decades of U.S. energy law. The copied language appeared in official congressional correspondence, creating the appearance of independent legislative opposition masking Marathon's orchestration.
 
-**2. ALEC Model Legislation Strategy:**
+### 2. ALEC Model Legislation Strategy:
 Marathon coordinated with the [[ALEC - American Legislative Exchange Council|American Legislative Exchange Council (ALEC)]] to draft model legislation blocking state-level EV incentive programs. ALEC's guide described current fuel-efficiency rules as "a relic of a disproven narrative of resource scarcity." ALEC's corporate members and affiliated state legislators then circulated the template legislation in state legislatures — a turnkey operation for replicating anti-EV policy across states. Specific model bills included the Asphalt Industry Alliance Act and gas tax preservation measures designed to protect liquid fuel revenue streams.
 
-**3. Dark Money Facebook Campaign (25% of DOT Comments):**
+### 3. Dark Money Facebook Campaign (25% of DOT Comments):
 A Facebook dark money campaign covertly run by Transportation Energy Partners LLC (an oil industry front group representing ExxonMobil, Chevron, Phillips 66, and other majors) generated extraordinary comment volume on fuel economy standards. A New York Times analysis found that 25% of the 12,000 public comments received by the Department of Transportation could be traced to this single petition — meaning one astroturf campaign generated one-quarter of all public input. The ads linked to a website using a photo of Obama with the question "Would YOU buy a used car from this man?" — negative framing designed to mobilize opposition. This demonstrates how digital dark money can manufacture the appearance of grassroots opposition while being entirely funded and directed by corporate interests.
 
-**4. ALEC Event Strategy:**
+### 4. ALEC Event Strategy:
 Marathon sponsored a major event in New Orleans attended by 1,500 state legislators and officials. Transportation Secretary Elaine Chao attended and praised the administration's "regulatory reforms." The event served as a coordination mechanism for state legislatures to align on anti-EV policy — a nationwide campaign orchestrated through a private corporate-sponsored event.
 
-**5. EPA Administrator Direct Access:**
+### 5. EPA Administrator Direct Access:
 Marathon CEO Gary Heminger met multiple times with EPA Administrator Scott Pruitt after Pruitt's appointment. Marathon had been a major donor to Pruitt's earlier campaigns in Oklahoma. EPA FOIA records show sustained email coordination between Marathon lobbyist Michael Birsic and EPA scheduling staff to arrange CEO-to-Administrator meetings focused on "RFS and air regulations." The pattern demonstrates how corporate donations create direct regulatory access.
 
-**6. EV Tax Credit Opposition & Barrasso Bill:**
+### 6. EV Tax Credit Opposition & Barrasso Bill:
 Marathon representatives spoke at an ALEC meeting in Washington (November 2018, attended by ~1,500 state legislators) against the federal EV tax credit. The oil refiners voted through a resolution calling for Congress to scrap the $7,500 subsidy. Marathon lobbied on Senator [[_John Barrasso Master Profile|John Barrasso's]] bill (who received $15,000 from Marathon and $15,400 from [[Koch Industries]]) to eliminate the EV tax credit entirely and add a new user fee on EV owners. Marathon reported spending $910,000 on lobbying in the final three months of 2018 that included the Barrasso EV bill.
 
-**7. AFPM Collective Campaign (2023–2024):**
+### 7. AFPM Collective Campaign (2023–2024):
 Marathon is a lead member of the [[American Fuel and Petrochemical Manufacturers|American Fuel and Petrochemical Manufacturers (AFPM)]], which collectively spent a record $7 million on federal lobbying in 2023. AFPM ran a seven-figure swing-state ad campaign in Ohio, Pennsylvania, Michigan, Wisconsin, Arizona, Nevada, and Georgia portraying EPA's tailpipe emissions standards as a "car ban." The framing successfully influenced policy discourse — the 2025 One Big Beautiful Bill Act incorporated the "car ban" language, and EV tax credits were entirely eliminated.
 
-**Company Response:**
+### Company Response:
 When confronted by E&E News about the covert campaign, Marathon spokesman Chuck Rice stated: "Consistent with our free market principles, Marathon Petroleum supports efforts to remove or limit subsidies for electric vehicles," describing the EV tax credit lobbying as "minimal."
 
 ---
@@ -135,7 +135,7 @@ When confronted by E&E News about the covert campaign, Marathon spokesman Chuck 
 > [!money]
 > Marathon Petroleum's $5-10 million annual lobbying investment protects a $150+ billion revenue stream by opposing the environmental regulations that would internalize the health costs its refineries impose on surrounding communities. The 48217 zip code in Detroit — where Marathon's refinery produces pollution linked to elevated cancer and asthma rates — demonstrates the environmental justice dimension: the communities most affected by Marathon's operations are the communities with the least political power to demand remediation. Marathon's lobbying ensures that the health costs of refining ($2-4 billion annually in estimated health impacts from refinery pollution nationally) are borne by communities rather than by shareholders.
 
-**Donation-to-Policy Timeline:**
+### Donation-to-Policy Timeline:
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|------------------|--------|---------------|----------|

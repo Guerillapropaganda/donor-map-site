@@ -1,7 +1,7 @@
 ---
 title: "American Enterprise Institute"
 type: think-tank
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -33,7 +33,7 @@ AEI is best understood as the **establishment neoconservative wing** of the cons
 - **FY2024 Total Assets:** $353,111,569
 - **Contributions share of revenue:** 87.1% ($59,215,174)
 
-**Financial Trajectory (FY2014–FY2024):**
+### Financial Trajectory (FY2014–FY2024):
 
 | Fiscal Year | Revenue | Contributions | Contributions % | Assets |
 |-----------|---------|---------------|-----------------|--------|
@@ -52,7 +52,7 @@ The FY 2015 revenue spike to $84.6 million coincides directly with Daniel D'Anie
 
 AEI has a **0/5 transparency score** — they have never published a public donor list for any year on record. What is known comes from IRS 990 filings (board members and compensation), leaked documents, and investigative reporting.
 
-**The Board as Donor Map:**
+### The Board as Donor Map:
 
 The AEI board of trustees is itself a directory of the conservative donor class. From IRS 990 filings (2019–2024):
 
@@ -64,7 +64,7 @@ The AEI board of trustees is itself a directory of the conservative donor class.
 - **Peter H. Coors** — Coors brewing family, longtime conservative philanthropic network.
 - **Clifford S. Asness** — Founder of AQR Capital Management ($130B+ hedge fund), one of the largest quant funds in the world.
 
-**Identified Major Funding Sources (Foundation and Corporate):**
+### Identified Major Funding Sources (Foundation and Corporate):
 
 AEI's IRS 990 filings reveal specific funding sources across multiple categories:
 
@@ -82,7 +82,7 @@ AEI's IRS 990 filings reveal specific funding sources across multiple categories
 | Scaife Foundations | $1.7M+ | 2012–2016 |
 | DeVos Family Foundation | $1M+ | 2017+ |
 
-**Dark Money Pipeline:**
+### Dark Money Pipeline:
 
 [[DonorsTrust]] and Donors Capital Fund have been AEI's single largest funding source pathway. Combined documented flows:
 
@@ -94,11 +94,11 @@ AEI's IRS 990 filings reveal specific funding sources across multiple categories
 
 DonorsTrust allows donors to route money to conservative causes without their names appearing on 990s, providing a dark money pipeline directly into AEI's operating budget. In 2020 alone, DonorsTrust distributed approximately $182 million across 339 organizations, with eight individuals responsible for $270 million (75% of total donations) — including a single $158 million donation. Since 2016, DonorsTrust has accumulated over $1 billion and distributed it to conservative policy organizations including AEI.
 
-**2009 Donor Concentration:**
+### 2009 Donor Concentration:
 
 AEI's 2009 tax year disclosure documented extreme donor concentration — its four largest funders were: a **donor-advised fund** ($2 million from Donors Capital Fund), **Paul Singer** ($1.1 million), the **Kern Family Foundation** ($1.07 million), and the **Taipei Economic and Cultural Representative Office** (Taiwan's de facto embassy). The seventh largest was the **US Chamber of Commerce** ($473,000). In 2010, AEI received a single $2.5 million grant from Donors Capital Fund.
 
-**Financial Sector Donors:**
+### Financial Sector Donors:
 
 - **Goldman Sachs Charitable Gift Fund:** $188,000 (2020–2022)
 - **Fidelity Investments Charitable Gift Fund:** $3.35 million (2019–2022)
@@ -130,15 +130,15 @@ AEI's 2009 tax year disclosure documented extreme donor concentration — its fo
 
 AEI publishes hundreds of policy papers, op-eds, and reports annually. The policy outputs that have most directly translated into legislation or regulatory outcomes:
 
-**Defense and Foreign Policy:**
+### Defense and Foreign Policy:
 
 Frederick W. Kagan's *Choosing Victory: A Plan for Success in Iraq* (2006) was the scholarly blueprint for the 2007 Iraq surge. Kagan's "surge" proposal, developed at AEI, was adopted nearly verbatim by the Bush administration. AEI organized a war planning conference in late 2006 that Bush administration officials attended. Ongoing research supports increased defense spending, expanded NATO commitments, and military intervention — aligning with [[Carlyle Group]] and defense contractor donor interests. Current scholars Kori Schake (Director, Foreign and Defense Policy) and Mackenzie Eaglen argue for defense budget prioritization, with Eaglen characterizing military modernization investment as imperative despite budget constraints. In January 2025, AEI published analysis asking "How Much Is Too Much?" arguing that "policymakers must decide if defense should be afforded a higher priority than nondefense programs."
 
-**Climate and Energy:**
+### Climate and Energy:
 
 AEI's climate denial operation is the most systematically documented case of donor-funded policy laundering. In February 2007, AEI sent letters signed by **Kenneth Green** (visiting scholar) and **Steven Hayward** offering **$10,000 each** to scientists willing to write papers critiquing the IPCC's Fourth Assessment Report. The letters, later published by The Guardian, described the IPCC as "resistant to reasonable criticism and dissent" and solicited essays exploring "the limitations of climate model outputs." Travel expenses and additional payments were offered. At the time, **Lee Raymond**, former CEO of [[ExxonMobil]], served as vice-chairman of AEI's board while AEI had received more than $1.6 million from ExxonMobil. AEI president Christopher DeMuth defended the payments as "conventional practice," but they drew condemnation from the Royal Society and Greenpeace, and at least one American scientist declined the offer citing fears it could be "misused for political gain."
 
-**ExxonMobil Annual Grants to AEI (1998–2019):**
+### ExxonMobil Annual Grants to AEI (1998–2019):
 
 | Year | Grant Amount |
 |------|--------------|
@@ -151,16 +151,16 @@ Patrick Michaels and other AEI-affiliated scholars produced decades of research 
 
 Current AEI climate voice **Benjamin Zycher** argues that "any plausible policy" to curb carbon emissions "would yield trivial effects while imposing large costs" and has called the Paris Agreement an "absurdity." In March 2019, Zycher published a report recommending "watchful waiting, adaptation over time, and ongoing investment in resilience" rather than emissions reduction. Notably, Zycher argues that a carbon tax would be "ineffective," directly contradicting [[ExxonMobil]]'s stated public position in favor of a carbon tax — illustrating how AEI's research conclusions operate independently of even its funders' stated policy preferences. In 2023, AEI published research opposing EPA's proposed greenhouse gas emissions standards for fossil-fired power plants, characterizing the Biden EPA's climate agenda as "central planning" and arguing that wind and solar power "cannot survive market competition without huge subsidies and guaranteed market shares."
 
-**Financial Deregulation and the 2008 Crisis:**
+### Financial Deregulation and the 2008 Crisis:
 
 Peter J. Wallison's research blamed the 2008 financial crisis on "government housing policies" rather than deregulation — a finding that became the Republican Party's primary legislative argument against the Dodd-Frank Act. Wallison, an AEI resident fellow and former Reagan White House counsel, filed the sole Republican dissent from the Financial Crisis Inquiry Commission's majority report. His dissent drew heavily on research by fellow AEI scholar **Edward Pinto**, who produced what he called a "Forensic Study" arguing that Non-Traditional Mortgages (NTMs) driven by government affordable housing goals were the root cause. Wallison expanded this argument in his 2015 book "Hidden in Plain Sight: What Really Caused the World's Worst Financial Crisis and Why It Could Happen Again," explicitly stating that "The Dodd-Frank Act was aimed at the wrong target."
 
-**AEI Opposition to Dodd-Frank and the CFPB:**
+### AEI Opposition to Dodd-Frank and the CFPB:
 
 - **Peter Wallison** argued that Dodd-Frank "has and will continue to significantly expand the regulatory burden on financial businesses" and that the CFPB's single-director structure and independent funding were structurally unconstitutional.
 - **Adam White**, AEI senior fellow, testified before Congress in 2015 that the Financial Stability Oversight Council (FSOC) structure "undermined constitutional governance by delegating overbroad powers to the FSOC while simultaneously removing or weakening key checks and balances." White also served as counsel to plaintiffs challenging the CFPB.
 
-**Tax Policy — The TCJA Pipeline:**
+### Tax Policy — The TCJA Pipeline:
 
 AEI economists have consistently produced research supporting lower corporate tax rates and capital gains tax reduction — the intellectual framework cited by Congressional Republicans during the 2017 Tax Cuts and Jobs Act debate. Most directly, **Kevin Hassett** served as AEI's director of economic policy research before being appointed **Chairman of the Council of Economic Advisers** under President [[_Donald Trump Master Profile|Trump]] in September 2017 — just as the TCJA was being drafted.
 
@@ -170,35 +170,35 @@ In an October 2017 speech to the Tax Policy Center and Tax Foundation, Hassett m
 - Workers "ultimately pay all the corporate tax" and would therefore benefit enormously from its reduction
 - In his own research, a $1 increase in corporate taxes would reduce wages by $13
 
-**Criticism and Rebuttal:**
+### Criticism and Rebuttal:
 
 The Tax Policy Center directly challenged Hassett's analysis, noting that "Hassett's claim that labor bears several times the burden of corporate taxes is at the far edge of the debate and is based on some sloppy and highly controversial methodology." The Tax Policy Center, CBO, and the Joint Committee on Taxation estimated workers pay roughly **one-fifth to one-quarter** of the corporate tax — far less than Hassett claimed. Harvard economist Mihir Desai, whom CEA cited, stated the CEA "misinterprets results of our paper." Many economists described Hassett's $13-per-$1 finding as "simply impossible." The Economic Policy Institute noted that "83 percent of" the TCJA's benefits go to the top 1% when fully phased in, and that cross-country data shows "lower corporate rates actually associated with lower investment" — the opposite of what Hassett claimed.
 
 After Hassett's departure, AEI continued to produce research supporting the TCJA. A 2024 report by **Kyle Pomerleau** and **Donald Schneider** argued the TCJA "helped drive economic growth, job creation, and business investment" and called for extending and expanding its provisions. However, a 2024 paper in the Journal of Economic Perspectives by Chodorow-Reich, Zidar, and Zwick found that the TCJA did increase investment but "it's far too small to offset the direct mechanical cost of the reform" — confirming the tax cut significantly reduced revenues without the self-financing growth Hassett had predicted. The authors noted that pass-through tax changes "really look like a transfer to the firms' owners" with "little impact on growth."
 
-**Donor Return on Investment:**
+### Donor Return on Investment:
 
 The TCJA reduced the corporate tax rate from 35% to 21% — a 14 percentage point cut. For AEI's corporate and wealthy individual donors, the return on investment was extraordinary. AEI's total annual budget is approximately $60–70 million. The TCJA reduced federal corporate tax revenue by roughly $100–150 billion per year. Even a conservative attribution of the TCJA's intellectual framework to AEI's decades of corporate tax research represents a return of thousands to one on donor investments.
 
-**Healthcare Policy:**
+### Healthcare Policy:
 
 AEI maintains consistent opposition to government-led healthcare expansion. **Joe Antos**, AEI scholar, argued in the Journal of Health Politics, Policy and Law that the ACA's Medicaid expansion "will actually" not serve the poor effectively, characterizing it as a poor deal for low-income Americans. AEI has published research arguing that **drug price controls** "could constrain research and impair the development of new drugs." AEI has hosted events and published analyses questioning the Inflation Reduction Act's drug price negotiation provisions, with scholars warning about impacts on pharmaceutical innovation.
 
-**Labor and Wages:**
+### Labor and Wages:
 
 AEI has been a prolific source of research opposing minimum wage increases. **Mark Perry** (AEI scholar) published analyses summarizing three NBER working papers showing "negative demand and supply side effects of higher minimum wages," arguing that minimum wage increases reduce employment, decrease economic mobility, and increase high school dropout rates. **Michael Strain** (Director of Economic Policy Studies) and Jeffrey Clemens published research arguing "large minimum wage increases modestly reduced hours worked among low-experience workers." A 2023 AEI working paper concluded that "minimum wage increases predict declines in union membership among the minimum wage's most direct beneficiaries" — effectively arguing that minimum wage increases weaken unions.
 
-**Social Security and Privatization:**
+### Social Security and Privatization:
 
 **Andrew Biggs**, AEI senior fellow, is the organization's primary Social Security scholar. His key proposals include a **flat benefit Social Security system** modeled on New Zealand, Australia, UK, and Canada, where all retirees receive the same payment equal to the poverty threshold (~$1,000/month), with middle- and upper-income households expected to save privately to supplement. Biggs claims this plan would "cut Social Security's 75-year shortfall by three-quarters." Penn Wharton Budget Model analysis promoted by Biggs projected GDP would be "approximately 2.6% higher" under his flat benefit plan compared to Democratic expansion proposals. Biggs also co-authored a proposal with Alicia Munnell (Boston College) to repeal tax exemptions for employer-sponsored retirement plans and IRAs to shore up Social Security, drawing criticism from the Cato Institute as "raiding Americans' private retirement savings."
 
 AEI has historically advocated for **Personal Security Accounts (PSAs)** — mandatory private retirement accounts funded by redirecting 5% of the 12.4% payroll tax into privately managed accounts. Under this proposal, promoted at AEI, "workers' personal accounts would be backed up by" a first-tier government benefit ensuring poverty-level income. The plan would "turn the vast majority of social security's 130 million taxpayers into investors and, in the next decade alone, release literally hundreds of billions of dollars of payroll taxes for investment in the private sector."
 
-**Wall Street Connection to Social Security:**
+### Wall Street Connection to Social Security:
 
 The financial industry's interest in Social Security privatization is direct and substantial. BlackRock CEO Larry Fink has openly pushed for private investment accounts within Social Security. AEI's donor base includes major financial institutions and hedge fund managers — [[Clifford Asness]] (AQR Capital, $6.72 million through his foundation), [[Fidelity]] ($3.35 million), and Goldman Sachs ($188,000) — all of which would directly benefit from managing even a fraction of the Social Security trust fund's trillions.
 
-**Education:**
+### Education:
 
 AEI's education policy team (Frederick Hess, director) has produced the intellectual architecture for school privatization, charter school expansion, and voucher programs — aligned with [[DeVos]] family donor interests and the broader school privatization agenda.
 
@@ -206,11 +206,11 @@ AEI's education policy team (Frederick Hess, director) has produced the intellec
 
 ### The Carlyle Group Connection
 
-**Current Relevance (2026):**
+### Current Relevance (2026):
 
 [[Carlyle Group]], co-founded by Daniel A. D'Aniello (AEI board chairman), manages approximately $453 billion in assets under management and has extensive portfolio holdings in defense, aerospace, and government services. In 2026, Carlyle announced plans to launch a dedicated **defense-focused fund** to capitalize on increased military spending, identifying a projected **€14 trillion European defense and infrastructure investment gap**. Carlyle's current defense portfolio includes **StandardAero** (potentially valued at ~$10 billion for exit) and a **$1.3 billion hyperscale data center project at Fort Bliss, Texas** under the U.S. Army's Enhanced Use Lease program.
 
-**AEI's Defense Policy Research:**
+### AEI's Defense Policy Research:
 
 AEI maintains an active defense policy program led by scholars including **Mackenzie Eaglen** and **Kori Schake** (Director, Foreign and Defense Policy). AEI research consistently advocates for increased defense spending. Eaglen has argued that "amid shrinking budgets, Washington has decided that 40-year old programs will suffice" and called for modernization investment. AEI published analysis in January 2025 asking "How Much Is Too Much?" arguing that "policymakers must decide if defense should be afforded a higher priority than nondefense programs."
 
@@ -220,15 +220,15 @@ The alignment between D'Aniello's Carlyle Group — which directly profits from 
 
 ### Harlan Crow and the Thomas Connection
 
-**Crow Holdings and Political Power:**
+### Crow Holdings and Political Power:
 
 **Harlan Crow**, the Dallas-based real estate billionaire, serves as a **director at AEI**. Crow is chairman and CEO of **Crow Holdings**, a private family real estate firm managing approximately $29 billion in assets, with holdings in residential real estate, commercial properties, warehouses, and student housing.
 
-**The Thomas Patronage Network:**
+### The Thomas Patronage Network:
 
 Crow has drawn intense scrutiny for his undisclosed gifts and travel to Supreme Court Justice Clarence [[_Clarence Thomas Master Profile|Thomas]], including private jet travel, luxury yacht cruises, and paying $19,000 for a Bible once owned by Frederick Douglass. ProPublica reported that Crow paid private boarding school tuition for Thomas's grandnephew. Thomas did not disclose most of these gifts on his financial disclosure forms. According to OpenSecrets, Crow has publicly contributed **$14.7 million** to state and federal political candidates over three decades, overwhelmingly to Republicans, with the caveat that "I don't disclose what I'm not required to disclose" regarding dark money contributions.
 
-**Structural Alignment:**
+### Structural Alignment:
 
 Crow's real estate empire directly benefits from AEI's policy positions opposing environmental regulations (which constrain development), supporting lower capital gains taxes (which benefit real estate investors), and advocating for reduced government regulation of housing markets. The relationship between Crow, AEI, and the Supreme Court represents the sharpest illustration of how the donor class uses institutional networks to coordinate policy influence across multiple branches of government simultaneously.
 

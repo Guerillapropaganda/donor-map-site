@@ -31,7 +31,7 @@ parent: null
 
 **Analytical patterns:** Donor-Class Override, Dark Money Symmetry, Two-Audience Problem, Genuine Win + Structural Limit (the original IRA negotiation program was real, but pharma bought exceptions that gut its reach)
 
-**Sources:**
+### Sources:
 - [Fierce Healthcare: Orphan drugs' price negotiation exemption to cost Medicare $8.8B](https://www.fiercehealthcare.com/regulatory/expanded-price-negotiation-exemption-orphan-drugs-cost-medicare-88b-over-10-years-cbo) (Tier 2)
 - [CEPR: How Big Pharma Bought Government to Protect Its Racket](https://cepr.net/publications/how-big-pharma-bought-government-to-protect-its-racket/) (Tier 2)
 - [Jacobin: Big Pharma Lobbying Makes Medicine Far More Expensive](https://jacobin.com/2025/11/big-pharma-lobbying-drug-prices) (Tier 2)
@@ -52,7 +52,7 @@ parent: null
 
 **Analytical patterns:** Donor-Class Override, Self-Funding as Independence (inverted — Trump explicitly priced his policy), Revolving Door (fossil fuel allies placed in charge of regulatory agencies)
 
-**Sources:**
+### Sources:
 - [Brennan Center: Fossil Fuel Industry Donors See Major Returns in Trump's Policies](https://www.brennancenter.org/our-work/analysis-opinion/fossil-fuel-industry-donors-see-major-returns-trumps-policies) (Tier 2)
 - [Yale Climate Connections: The fossil fuel industry spent $219 million to elect the new U.S. government](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2)
 - [Inequality.org: Fossil Fuel "Oil-Garchs" Reap Billions in Payback for Trump Support](https://inequality.org/article/fossil-fuel-oil-garchs-reap-billions-for-trump-support/) (Tier 2)
@@ -72,7 +72,7 @@ parent: null
 
 **Analytical patterns:** Genuine Win + Structural Limit, Both-Sides Illusion (bipartisan bill that may not threaten core donor interests), Revolving Door (70% of Boeing lobbyists from government)
 
-**Sources:**
+### Sources:
 - [Breaking Defense: Bipartisan bill would make restrictions on contractor buybacks, dividends permanent](https://breakingdefense.com/2026/03/bipartisan-bill-would-make-restrictions-on-contractor-buybacks-dividends-permanent/) (Tier 2)
 - [US News: Pentagon Poised to Curb Some Defense Contractors' Payouts Under Trump Order](https://www.usnews.com/news/top-news/articles/2026-02-06/pentagon-poised-to-curb-some-defense-contractors-payouts-under-trump-order) (Tier 2)
 - [Responsible Statecraft: Pols loaded with industry cash vote up military budget](https://responsiblestatecraft.org/congress-ndaa-vote/) (Tier 2)
@@ -91,7 +91,7 @@ parent: null
 
 **Analytical patterns:** Donor-Class Override, Revolving Door (industry-sympathetic appointees), Genuine Win + Structural Limit (Maine ban is real but limited)
 
-**Sources:**
+### Sources:
 - [Lexology: Why US regulators are cracking down on private equity investments in the healthcare sector](https://www.lexology.com/library/detail.aspx?g=270f2e15-a852-4ec3-a142-c2a1496ee743) (Tier 2) (UNVERIFIED — paywalled analysis)
 - [Holland & Knight: Charting a Path Forward in 2026 — Year-End Healthcare Antitrust Report](https://www.hklaw.com/en/insights/publications/2025/12/charting-a-path-forward-in-2026-holland-knights-year-end-healthcare) (Tier 3) (UNVERIFIED — law firm analysis)
 
@@ -105,7 +105,7 @@ parent: null
 
 **Vault relevance:** Background data for Defense & Intelligence donor sector. Could feed updated temporal mapping tables in existing defense donor nodes.
 
-**Sources:**
+### Sources:
 - [Responsible Statecraft: Pols loaded with industry cash vote up military budget](https://responsiblestatecraft.org/congress-ndaa-vote/) (Tier 2)
 - [OpenSecrets: Defense Sector Summary](https://www.opensecrets.org/industries/indus?Ind=D) (Tier 1)
 

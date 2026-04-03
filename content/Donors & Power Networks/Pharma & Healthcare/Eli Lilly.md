@@ -1,7 +1,7 @@
 ---
 title: "Eli Lilly"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -33,7 +33,7 @@ Lilly's product portfolio spans three politically significant categories:
 
 Eli Lilly's political operation is modest relative to its market cap but strategically targeted:
 
-**Eli Lilly PAC (C00082792) — 2024 cycle:**
+### Eli Lilly PAC (C00082792) — 2024 cycle:
 
 | Category | Amount |
 |----------|--------|
@@ -44,7 +44,7 @@ Eli Lilly's political operation is modest relative to its market cap but strateg
 | Individual donors ($200+) | $1,797,435 |
 | End cash on hand | $1,490,046 |
 
-**Lobbying — annual spending:**
+### Lobbying — annual spending:
 
 | Year | Lobbying Spend | Lobbyists | Revolving Door % |
 |------|---------------|-----------|-----------------|
@@ -99,7 +99,7 @@ Eli Lilly's political operation is modest relative to its market cap but strateg
 
 ### What They've Gotten — The Insulin-to-GLP-1 Pipeline
 
-**The Humalog price arc (1996-2023):**
+### The Humalog price arc (1996-2023):
 
 | Date | Event | Humalog Price/Vial | Significance |
 |------|-------|-------------------|--------------|
@@ -113,7 +113,7 @@ Eli Lilly's political operation is modest relative to its market cap but strateg
 
 **The calculation:** Humalog's molecule did not change between 1996 and 2023. The $21-to-$275 price increase was pure pricing power enabled by the insulin oligopoly, PBM rebate architecture, and political protection from lobbying. Lilly's cumulative insulin revenue over this period exceeded $40 billion. The "voluntary" $35 cap came only after the Inflation Reduction Act's Medicare insulin cap (2023) and mounting state AG lawsuits made continued high pricing politically untenable — not because Lilly chose affordability.
 
-**The GLP-1 gold rush (2022-present):**
+### The GLP-1 gold rush (2022-present):
 
 | Date | Event | Revenue Impact |
 |------|-------|---------------|

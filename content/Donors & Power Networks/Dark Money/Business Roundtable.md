@@ -1,7 +1,7 @@
 ---
 title: "Business Roundtable"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -67,7 +67,7 @@ The BRT does not operate a PAC but exerts influence through three channels that 
 
 ### What They've Gotten
 
-**Tax Cuts and Jobs Act (2017) — The BRT's Masterpiece:**
+### Tax Cuts and Jobs Act (2017) — The BRT's Masterpiece:
 
 The BRT's top legislative priority for a decade. The corporate rate cut from 35% to 21% generated approximately $320 billion in annual tax savings for BRT member companies. Jamie Dimon personally lobbied Congress, appeared at White House meetings, and attended the signing ceremony. The BRT spent an estimated $82 million on tax lobbying in 2017 (across the full lobbying apparatus, not just BRT-specific spending).
 

@@ -1,7 +1,7 @@
 ---
 title: "Pramila Jayapal"
 type: politician
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -80,7 +80,7 @@ Jayapal's fundraising is genuinely distinct from most House Democrats — small-
 | Tech Industry | Microsoft ($549K career, also Amazon, Google) | Regulatory accommodation, antitrust limitation | Access, but Jayapal's antitrust work is notably aggressive despite donations |
 | Lawyers/Lobbyists | Democratic-aligned legal community | Progressive policy alignment | Policy alignment maintained |
 
-**2024 Fundraising Breakdown:**
+### 2024 Fundraising Breakdown:
 - Large individual contributions: 58.82%
 - Small individual contributions (under $200): 26.23%
 - PAC contributions: 14.95%

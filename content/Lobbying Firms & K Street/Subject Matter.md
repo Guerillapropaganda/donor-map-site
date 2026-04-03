@@ -78,7 +78,7 @@ Avoq's 2025 client roster of 97 entities spans tech, finance, crypto, healthcare
 
 Of 18 registered lobbyists, **13 are revolving door hires (72.2%)** — former government employees now lobbying. Zero are former members of Congress. The revolving door runs exclusively through Democratic congressional offices and the Democratic campaign apparatus.
 
-**Key Revolving Door Hires:**
+### Key Revolving Door Hires:
 
 - **Steven Elmendorf** (Co-Founder/Managing Partner) — Former Chief of Staff to House Democratic Leader Dick Gephardt (D-MO), serving as Gephardt's senior advisor for 12 years. Deputy campaign manager for John Kerry's 2004 presidential campaign, serving as primary liaison to senators, members of Congress, governors, and mayors. One of the Democratic Party's most prolific campaign bundlers — fundraising for Democratic candidates while simultaneously lobbying them for corporate clients. This dual role is the firm's core product: clients buy access to the Democratic politicians that Elmendorf helps fund.
 
@@ -104,7 +104,7 @@ Of 18 registered lobbyists, **13 are revolving door hires (72.2%)** — former g
 
 - **Barry LaSala** (Lobbyist) — Revolving door profile.
 
-**Notable Non-Revolving-Door Hire (2025):**
+### Notable Non-Revolving-Door Hire (2025):
 
 - **Jeff Levey** (Senior Advisor, Government Relations, joined July 2025) — Former Executive Director, Ernst & Young's Washington Council — EY's dedicated federal advocacy unit. At EY, Levey advised companies on federal and international tax policy and advocated before Congress, IRS, Treasury, and the OECD. His expertise spans U.S. and global tax reform, international corporate taxation, financial services policy, and regulatory engagement. Levey is not a revolving door hire (EY Washington Council is corporate-side advocacy, not government service) — but his addition to the firm's tax practice is analytically significant given that **Taxes** is Avoq's #1 lobbied issue area (72 reports, 21 clients in 2025). The hire reinforces the firm's Finance Committee / tax-writing committee pipeline at a moment when the Trump tax cut extensions and corporate rate debates are Congress's dominant legislative priority.
 
@@ -117,7 +117,7 @@ Of 18 registered lobbyists, **13 are revolving door hires (72.2%)** — former g
 
 Avoq delivers Democratic legislative access and regulatory relationships to corporate clients who face regulatory scrutiny from Democratic agencies and congressional committees.
 
-**Top Issues Lobbied (2025):**
+### Top Issues Lobbied (2025):
 
 | Issue Area | Reports | Lobbyists | Clients |
 |------------|---------|-----------|---------|
@@ -132,7 +132,7 @@ Avoq delivers Democratic legislative access and regulatory relationships to corp
 | Travel & Tourism | 28 | 5 | 5 |
 | Gaming, Gambling & Casinos | 24 | 3 | 4 |
 
-**Key Legislative and Regulatory Work:**
+### Key Legislative and Regulatory Work:
 
 - **AI Governance:** AI Progress ($440K, top client) and the Chamber of Progress ($120K) position the firm at the center of AI regulation debates. The firm lobbies on AI policy from the industry side while maintaining Democratic relationships that shape the regulatory framework.
 
@@ -150,7 +150,7 @@ Avoq delivers Democratic legislative access and regulatory relationships to corp
 
 Unlike the bipartisan firms that dominate this cohort, Avoq operates as a primarily Democratic firm — though not exclusively so. The revolving door runs through Democratic offices, the bundling pipeline feeds Democratic campaigns, and the client value proposition is Democratic access.
 
-**Democratic Pipeline:**
+### Democratic Pipeline:
 - Steve Elmendorf — Gephardt CoS (12 years), Kerry 2004 deputy campaign manager, DCCC bundler
 - Cedric Grant — Hakeem Jeffries CoS (current House Democratic Leader)
 - Sandra Alcala — Rep. Vela CoS, House Democratic Caucus, Congressional Hispanic Caucus

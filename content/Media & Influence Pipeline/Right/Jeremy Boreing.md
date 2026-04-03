@@ -61,7 +61,7 @@ Boreing is primarily an infrastructure operator rather than an ideological conte
 - **PragerU** — Listed as presenter on PragerU's website
 - **The Jeremy Boreing Show** — Independent production launched March 2026 post-Daily Wire exit
 
-**Policy narratives pushed through Daily Wire infrastructure Boreing built:**
+### Policy narratives pushed through Daily Wire infrastructure Boreing built:
 - Anti-trans content (Knowles CPAC 2023; Boreing's infrastructure amplified "transgenderism must be eradicated" to millions)
 - Gender ideology as civilizational threat (Walsh's *What Is a Woman?* produced under Boreing's operational leadership)
 - Free speech and anti-"woke" corporate gatekeeping (Jeremy's Razors origin story: corporate advertisers use ideology, not market logic, to punish conservative media)
@@ -73,7 +73,7 @@ Boreing is primarily an infrastructure operator rather than an ideological conte
 
 Boreing's model differs from individual host capture — he built the platform infrastructure that captures the audience across all Daily Wire personalities simultaneously:
 
-**Structural capture mechanism:**
+### Structural capture mechanism:
 1. Free podcast content (Shapiro, Walsh, Knowles, Klavan) builds audience at no cost → drives DailyWire+ subscriptions for premium content → subscription base funds advertiser-independent operations → consumer brands (Jeremy's Razors, Mayflower Cigars) monetize audience loyalty beyond media
 2. Each layer reinforces the others: losing one podcast doesn't collapse the ecosystem (Candace Owens was fired March 2024 without structural damage)
 3. The subscription model creates financial switching costs for the audience — subscribers who pay for DailyWire+ are more captured than free listeners
@@ -84,14 +84,14 @@ Boreing's model differs from individual host capture — he built the platform i
 
 ### What Their Funders Got
 
-**What the Wilks Brothers got:**
+### What the Wilks Brothers got:
 - $4.7M → stake in $200M+ annual operation (50-100x+ return trajectory)
 - Professional infrastructure executing their theological-capitalist worldview at industrial scale (Knowles: Catholicism + natural law; Walsh: evangelical conservatism; Shapiro: secular Jewish conservatism under evangelical umbrella)
 - *What Is a Woman?* (2022): Daily Wire Films production, 100M+ impressions, became organizing document for anti-trans legislative campaign
 - Policy pipeline: Daily Wire content daily briefed Republican politicians on culture war framing; state-level bathroom bills, drag restrictions, and transition bans followed
 - Conservative entertainment ecosystem that demonstrates viability of subscriber-funded premium content outside Hollywood
 
-**What Boreing personally got:**
+### What Boreing personally got:
 - Built a $200M+ company from a pool house
 - Established the infrastructure playbook for donor-class-funded conservative media independence
 - Jeremy's Razors: personal brand that converted culture war into consumer product
@@ -121,7 +121,7 @@ Boreing's model differs from individual host capture — he built the platform i
 
 ### Class Analysis
 
-**Who benefits from Boreing's infrastructure existing:**
+### Who benefits from Boreing's infrastructure existing:
 
 1. **The Wilks Brothers** — Their $4.7M seed generated a $200M+ enterprise executing their theological-capitalist worldview across culture war, entertainment, and consumer goods simultaneously. The Daily Wire is the most scalable donor-class media investment in U.S. conservative history by ROI.
 
@@ -131,7 +131,7 @@ Boreing's model differs from individual host capture — he built the platform i
 
 4. **Conservative media entrepreneurs** — Boreing's subscription + commerce model is the template every right-wing media startup is now attempting to replicate. He proved the model works at scale.
 
-**Who loses:**
+### Who loses:
 - Transgender people: Boreing's platform amplified the anti-trans legislative agenda that produced bathroom bills, transition bans, and drag restrictions across Republican-controlled states
 - Independent journalism: Daily Wire's scale ($200M+) crowds out smaller, less-capitalized journalism operations that lack billionaire backing
 - Harry's Razors and liberal-aligned advertisers: Jeremy's Razors proved that conservative audiences can defect from mainstream consumer brands at scale when mobilized by media narratives
@@ -144,7 +144,7 @@ Boreing's model differs from individual host capture — he built the platform i
 
 **Income dependency:** Equity in Daily Wire → departed as co-CEO March 2025 → advisory + Pendragon Cycle production; post-exit income from Pendragon Cycle directorial work + Jeremy Boreing Show independent launch
 
-**Editorial red lines (while co-CEO):**
+### Editorial red lines (while co-CEO):
 - Cannot criticize Israel (Wilks constraint — Owens firing confirmed this is non-negotiable)
 - Cannot criticize evangelical theology or Wilks Brothers worldview
 - Cannot platform economic left or labor organizing perspectives

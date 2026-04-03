@@ -27,7 +27,7 @@ SLF operates in tandem with One Nation, its 501(c)(4) dark money sister organiza
 
 ### The Money — FEC Financial Summary (2024 Cycle)
 
-**SLF (C00571703) — OpenSecrets/FEC:**
+### SLF (C00571703) — OpenSecrets/FEC:
 
 | Category | Amount |
 |----------|--------|
@@ -40,7 +40,7 @@ SLF operates in tandem with One Nation, its 501(c)(4) dark money sister organiza
 
 **Key metric:** $283.9M of $298.9M (95%) came from individual donors giving $200+. This is the most donor-concentrated major super PAC in American politics — no grassroots component whatsoever.
 
-**Spending growth trajectory:**
+### Spending growth trajectory:
 
 | Cycle | Total Raised | Growth |
 |-------|-------------|--------|

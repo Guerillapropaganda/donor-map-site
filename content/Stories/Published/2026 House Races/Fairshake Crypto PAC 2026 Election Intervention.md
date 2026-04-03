@@ -1,7 +1,7 @@
 ---
 title: "Fairshake Crypto PAC 2026 Election Intervention"
 type: story
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -38,7 +38,7 @@ The 2026 cycle reveals a critical vulnerability in Fairshake's model: its single
 | Total disbursements | $26,871,126 | Through reporting period |
 | Independent expenditures | $7,774,301 | Direct IE spending |
 
-**Bipartisan arms maintain fractional capacity:**
+### Bipartisan arms maintain fractional capacity:
 
 | Entity | Committee ID | Receipts | Disbursements | IE |
 |--------|--------------|----------|---------------|----|
@@ -111,7 +111,7 @@ Conservative estimate of available capital across all vehicles: **$300M+** (FEC-
 | IL-08 | Melissa Bean (D) | FOR | Part of $10M+ | Won | Bean favors crypto clarity |
 | AL Senate | Barry Moore (R) | FOR | $5M | In progress | TBD |
 
-**2024 vs. 2026 Performance:**
+### 2024 vs. 2026 Performance:
 
 | Cycle | War Chest | Primary Win Rate | Trend | Notable Outcome |
 |-------|-----------|------------------|-------|-----------------|
@@ -174,7 +174,7 @@ Conservative estimate of available capital across all vehicles: **$300M+** (FEC-
 
 ### The Fundamental Contradiction
 
-**Coinbase's Position:**
+### Coinbase's Position:
 - Contribution: $52.4M (35% of major donor capital)
 - Public Statement (Jan 2026): CEO Armstrong stated current CLARITY draft is "worse than the status quo"
 - Logical Inference: Coinbase opposes the bill that Fairshake's $193M spending is supposed to advance

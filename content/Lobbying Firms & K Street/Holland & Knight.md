@@ -172,19 +172,19 @@ The result is a firm that can simultaneously lobby Republican appropriators and 
 
 ### Billing vs. Outcomes
 
-**American Chemistry Council / Chemical Industry ($520,000/year, 2024–2025)**
+### American Chemistry Council / Chemical Industry ($520,000/year, 2024–2025)
 Investment: $520,000/year to Holland & Knight, plus separate lobbying operations
 Return: The ACC investment in Holland & Knight produced the most documented regulatory return in the 2025–2026 TSCA cycle. In sequence: Freedhoff hired (April 2025) → H&K publishes TSCA industry guidance (May 2025) → EPA extends TSCA deadlines (June 2025) → EPA weakens Risk Evaluation Framework (September 2025) → EPA proposes PFAS reporting rollback (November 2025) → EPA proposes SCCAP rescission (February 2026) → Senate GOP TSCA reform bill targeting evidence burden reduction (March 2026). The firm that had the Biden-era TSCA architect AND the Republican TSCA negotiator on staff is now publishing client guidance on how to exploit each rollback. The $520,000 annual retainer is purchasing not just access but institutional expertise applied in real time against the regulatory framework Holland & Knight's own staff helped write.
 
-**Alphabet/Waymo + Wing Aviation ($640,000/year, 2024)**
+### Alphabet/Waymo + Wing Aviation ($640,000/year, 2024)
 Investment: $640,000 in 2024 lobbying fees
 Return: FAA advanced beyond-visual-line-of-sight authorization for commercial drones; autonomous vehicle federal regulatory framework developed without restrictive legislation; Waymo's commercial robotaxi expansion enabled in multiple cities without new federal oversight requirements.
 
-**National Cannabis Roundtable / Ed Perlmutter (undisclosed)**
+### National Cannabis Roundtable / Ed Perlmutter (undisclosed)
 Investment: Lobbying fees + Perlmutter hire
 Return: SAFER Banking Act cleared Senate Banking Committee in 2023 — the furthest the bill had advanced in 10 years of Perlmutter advocacy. The former sponsor of the bill now lobbying for it is, structurally, the fastest possible policy path.
 
-**TransDigm Group / Defense Portfolio (undisclosed)**
+### TransDigm Group / Defense Portfolio (undisclosed)
 Investment: Lobbying fees via Tom Davis
 Return: Defense appropriations continued. TransDigm historically cited for sole-source contracting and excess profit-taking from DoD — its continued defense business requires sustained congressional relationship management, which Davis provides via his House Oversight relationships.
 

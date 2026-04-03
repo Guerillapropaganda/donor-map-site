@@ -22,7 +22,7 @@ related: [[Heritage Foundation]] · [[RAND Corporation]] · [[Aspen Institute]] 
 
 ### Budget Rankings — All 25 Profiles
 
-**Revenue figures from IRS 990 filings (ProPublica Nonprofit Explorer), FY2024 unless noted. All data sourced from individual vault profiles (Tier 1 underlying sources).**
+### Revenue figures from IRS 990 filings (ProPublica Nonprofit Explorer), FY2024 unless noted. All data sourced from individual vault profiles (Tier 1 underlying sources).
 
 | Rank | Institution | Category | FY2024 Revenue | Net Assets | Gov't Funding % |
 |------|-------------|----------|---------------|------------|-----------------|
@@ -76,12 +76,12 @@ related: [[Heritage Foundation]] · [[RAND Corporation]] · [[Aspen Institute]] 
 
 Two institutions dominate the government funding category with numbers that dwarf any other think tank.
 
-**RAND Corporation — $462M budget, 77% federal government:**
+### RAND Corporation — $462M budget, 77% federal government:
 RAND's 990 classification as a nonprofit obscures its real structure. The form treats government contracts as "contributions," making RAND appear foundation-funded when it is overwhelmingly a defense contractor. The Pentagon pays RAND to research defense policy. RAND recommends more defense spending. Congress funds more defense spending. New spending generates new RAND contracts. The feedback loop is not accidental — it is the designed purpose of the Federally Funded Research and Development Center (FFRDC) model. RAND's 77% federal dependency is the highest of any think tank in this vault and rivals the government dependency of actual federal contractors.
 
 Between 2014 and 2019, RAND received $1.029 billion of the $1.078 billion that defense contractors and U.S. government agencies donated to the top 50 think tanks — 95% of all such funding went to one institution. RAND is not a think tank that does defense work. RAND is a defense contractor that occasionally does non-defense work.
 
-**Urban Institute — $130M budget, 54% federal government:**
+### Urban Institute — $130M budget, 54% federal government:
 Urban's government dependency operates through a different mechanism: program evaluation contracts. HUD pays Urban to evaluate HUD programs. HHS pays Urban to evaluate HHS programs. The agency being evaluated is the client paying for the evaluation. This structurally ensures that Urban's research question is never "should this program exist?" but always "how can this program be improved?" The Great Society evaluates itself, at $130M per year.
 
 | Institution | Total Revenue | Federal % | Federal $ | Structure |
@@ -100,13 +100,13 @@ Urban's government dependency operates through a different mechanism: program ev
 
 The "nonpartisan independent research organization" label obscures radically different funding architectures across the 25 think tanks.
 
-**Conservative funding model — private donors, dark money, corporate foundations:**
+### Conservative funding model — private donors, dark money, corporate foundations:
 Conservative think tanks are funded almost entirely by private donors, with zero government funding (except Hoover's nominal Stanford connection). The dark money infrastructure is the defining structural feature: DonorsTrust alone contributed $86.7M to AEI (2003–2010), $16.56M to Heartland (2005–2013), $8.9M to Hudson (2002+), and $5.5M to the Federalist Society in a single year. Charles Koch's network built or seeded Cato (co-founded), Mercatus (founded by Koch strategist), and Heritage. The total conservative think tank ecosystem is funded by a relatively small number of ultra-wealthy families (Koch, Bradley, Scaife, DeVos, Klingenstein, Mercer, Singer) routing money through anonymous donor-advised funds.
 
-**Liberal funding model — progressive foundations, limited union funding:**
+### Liberal funding model — progressive foundations, limited union funding:
 Liberal think tanks are funded primarily by progressive foundations (Ford, Hewlett, Gates, MacArthur, Soros, Rockefeller, Carnegie) with organized labor as a secondary source (EPI: AFL-CIO governance; CAP: SEIU, AFSCME). Corporate funding exists (CAP receives Goldman, Google, PhRMA, Northrop Grumman money) but is a secondary source. Urban Institute's 54% federal funding is the anomaly that proves the rule: the other six liberal think tanks have minimal government funding. The progressive foundation ecosystem is itself funded by the same wealth concentration the think tanks critique — Ford (auto fortune), Gates (Microsoft fortune), Hewlett (HP fortune).
 
-**Centrist funding model — the full spectrum:**
+### Centrist funding model — the full spectrum:
 The centrist category has the most diverse funding architecture. CFR ($692M endowment) is self-sustaining plus corporate membership fees. Atlantic Council is 22% federal + 30% foreign governments + defense contractor corporate membership. Aspen is private billionaire philanthropy ($175M Bezos, $200K McKinsey, $500K Breakthrough Energy). Brookings is corporate (Goldman Hamilton Project, JPMorgan $10M) plus foreign government ($18.5M Qatar/Norway/UAE) plus foundation. RAND is 77% federal. The "centrist" label covers everything from a Pentagon subsidiary (RAND) to a billionaire social club (Aspen) to a foreign-funded international policy shop (Atlantic Council) — the one thing they share is the institutional claim that their funding doesn't shape their analysis.
 
 ---
@@ -198,7 +198,7 @@ Every think tank in this vault except Mercatus (which operates inside George Mas
 3. The organization pays no property tax — the real estate holdings are subsidized
 4. No public disclosure of individual donors is required — donors are anonymous except on the 990's highest-compensation section
 
-**Estimated annual federal tax subsidy to think tank ecosystem (rough calculation):**
+### Estimated annual federal tax subsidy to think tank ecosystem (rough calculation):
 - Assuming average marginal donor tax rate of 37%
 - On ~$2B in annual contributions, the foregone tax revenue is approximately $740M annually
 - The federal government gives back roughly $740M per year in tax subsidies to the institutions that produce the research shaping federal policy

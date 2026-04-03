@@ -1,7 +1,7 @@
 ---
 title: "DonorsTrust"
 type: pac
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -17,7 +17,7 @@ related: [[Koch Network - Charles Koch|Koch Network]] · [[Donors Capital Fund|D
 
 DonorsTrust is a 501(c)(3) donor-advised fund (DAF) sponsor and public charity established in 1999 by [[Whitney Lynn Ball]] and Kimberly Dennis (both formerly of the [[Philanthropy Roundtable|Philanthropy Roundtable]]). Its stated mission is "safeguarding the intent of libertarian and conservative donors" and protecting against "philanthropic drift" — the fear that family foundations would eventually be captured by centrist or progressive heirs.
 
-**Core structure:**
+### Core structure:
 - **EIN:** 52-2166327
 - **Tax-exempt since:** September 1999
 - **Location:** Alexandria, Virginia (suburban rowhouse)
@@ -35,7 +35,7 @@ DonorsTrust is a 501(c)(3) donor-advised fund (DAF) sponsor and public charity e
 > [!money] Follow the Money
 > DonorsTrust operates a five-step legal mechanism that converts named billionaire donations into untraceable grants to right-wing institutions. The process: (1) wealthy donor contributes cash or appreciated stock to DonorsTrust, claiming immediate tax deduction at full fair-market value; (2) DonorsTrust opens a named "donor-advised account" and the gift becomes DonorsTrust's property; (3) the donor "advises" (but cannot legally direct) distributions; (4) DonorsTrust board retains final approval authority; (5) grantee organizations receive checks labeled "DonorsTrust," with the original donor's identity legally erased from public records.
 
-**Five-step mechanism:**
+### Five-step mechanism:
 
 1. **IRC Section 4966/4967 Donor-Advised Funds:** Under the Pension Protection Act of 2006, DAF sponsors must disclose aggregate assets and distributions on Form 990, but are NOT required to disclose donor identities. The gift is legally irrevocable — once a donor contributes, the money belongs to DonorsTrust, not the donor. Donor "advises" but does not legally direct.
 
@@ -96,12 +96,12 @@ Source: ProPublica Nonprofit Explorer (Tier 1, API-accessible)
 | 2011 | $40,127,442 | $32,164,867 | $7,962,575 | $26,128,041 | $26,017,669 |
 | 2010 | $29,567,627 | $25,065,327 | $4,502,300 | $18,409,511 | $18,395,110 |
 
-**Key observations:**
+### Key observations:
 - The 2021 spike in revenue ($1.094 billion) reflects three disclosed donations: $427 million (cash), ~$77 million, and ~$426 million in "closely held common stock in a C-corporation" received December 30, 2021. All three donors remain anonymous.
 - "Expenses" in a DAF context represents primarily grants disbursed, plus administrative overhead (salaries, etc.) — executive compensation was only $1.76 million of $291 million in 2024 expenses.
 - The 2023 negative net revenue of -$199.7 million reflects large grants paid out from the accumulated asset base built in 2021.
 
-**Grants paid (CMD analysis):**
+### Grants paid (CMD analysis):
 
 | Year | Grants to Right-Wing Groups | Source |
 |------|-------------------------------------|--------|
@@ -119,7 +119,7 @@ Source: ProPublica Nonprofit Explorer (Tier 1, API-accessible)
 | 2011 | $92 million (DT+DCF) | SourceWatch (Tier 3, UNVERIFIED) |
 | 2010 | $63 million (DT+DCF) | SourceWatch (Tier 3, UNVERIFIED) |
 
-**Cumulative totals:**
+### Cumulative totals:
 - 1999–2013: ~$400 million distributed (Whitney Ball to Mother Jones, 2013)
 - 1999–2015: ~$740 million (DonorsTrust website, per Wikipedia)
 - 1999–2021: over $1.5 billion (DonorsTrust website, per Politico)
@@ -148,7 +148,7 @@ Source: ProPublica Nonprofit Explorer (Tier 1, API-accessible)
 | 2011 | $61,700,814 | $57,382,089 | $4,318,725 | $35,671,060 |
 | 2010 | $17,066,051 | $42,100,506 | -$25,034,455 | $32,486,478 |
 
-**Key observations:**
+### Key observations:
 - DCF's total assets peaked around 2013–2014 at ~$36 million and have declined dramatically, reaching ~$11 million by 2022–2024.
 - DCF received no contributions in 2021 and essentially ceased active grantmaking after 2020.
 - Between 2005 and 2012, DCF declared $349 million of income from donations, yet conservative transparency tracking suggests only ~$2.75 million came from other non-profit groups required to declare their funding — meaning over $346 million was untraceable to specific donors.
@@ -196,7 +196,7 @@ SPN is consistently the largest single beneficiary category.
 | 2011 | $1,418,000 | $1,282,700 | **$2,700,700** |
 | 2010 | $484,500 | $977,942 | **$1,462,442** |
 
-**10-year cumulative (2010–2019): approximately $40 million from DT+DCF combined.**
+### 10-year cumulative (2010–2019): approximately $40 million from DT+DCF combined.
 
 #### 7.3 Heartland Institute
 

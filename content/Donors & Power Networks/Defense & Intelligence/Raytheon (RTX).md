@@ -1,7 +1,7 @@
 ---
 title: "Raytheon (RTX Corporation)"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -73,31 +73,31 @@ Combined PAC and individual employee contributions in 2024 totaled $3.87 million
 
 Most serve on Armed Services, Appropriations, Intelligence, or Foreign Affairs committees:
 
-**House Armed Services Committee Members:**
+### House Armed Services Committee Members:
 - [[_Mike Rogers Master Profile|Mike Rogers]] (R-AL) — Chair: $10,000
 - [[_Rob Wittman Master Profile|Rob Wittman]] (R-VA) — Vice Chair
 - [[_Adam Smith Master Profile|Adam Smith]] (D-WA) — Ranking Member: $10,000
 - [[_Salud Carbajal Master Profile|Salud Carbajal]] (D-CA): $10,000
 - [[_Seth Moulton Master Profile|Seth Moulton]] (D-MA): $10,000
 
-**House Appropriations Committee Members:**
+### House Appropriations Committee Members:
 - [[_Rosa DeLauro Master Profile|Rosa DeLauro]] (D-CT): $10,000
 - [[_Hal Rogers Master Profile|Hal Rogers]] (R-KY): $10,000
 - [[_Mike Simpson Master Profile|Mike Simpson]] (R-ID): $10,000
 
-**House Leadership:**
+### House Leadership:
 - [[_Mike Johnson Master Profile|Mike Johnson]] (R-LA) — Speaker: $10,000
 - [[_Steve Scalise Master Profile|Steve Scalise]] (R-LA) — Majority Leader
 - [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] (D-NY) — Minority Leader: $10,000
 - [[_Katherine Clark Master Profile|Katherine Clark]] (D-MA) — Minority Whip: $10,000
 
-**Senate Armed Services Committee:**
+### Senate Armed Services Committee:
 - [[_Rick Scott Master Profile|Rick Scott]] (R-FL): $8,000
 - [[_Martin Heinrich Master Profile|Martin Heinrich]] (D-NM): $7,500
 - [[_Roger Wicker Master Profile|Roger Wicker]] (R-MS) — Chair: $5,500
 - [[_John Barrasso Master Profile|John Barrasso]] (R-WY): $5,000
 
-**Armed Services Committee Concentration Pattern:**
+### Armed Services Committee Concentration Pattern:
 
 Per OpenSecrets' 2023 analysis, the defense sector gave $5.8 million to the 84 members of House and Senate Armed Services Committees during the 2022 cycle. Armed Services Committee members received 3x the average defense industry donations compared to other representatives ($79,588 vs. $26,213). From 2002-2022, defense sector contributions to Armed Services Committee members totaled $89.3 million (inflation-adjusted).
 
@@ -150,7 +150,7 @@ RTX holds a unique distinction: it has placed executives in the Secretary of Def
 
 #### Lloyd Austin (Biden Administration, 2021-2025)
 
-**Timeline:**
+### Timeline:
 - March 2016: General Austin retires as Commander, U.S. Central Command after 41 years in the Army
 - **April 2016: Austin immediately joins the board of United Technologies Corp.** (pre-merger Raytheon)
 - April 2020: UTC merges with Raytheon; Austin transitions to the Raytheon Technologies board
@@ -158,7 +158,7 @@ RTX holds a unique distinction: it has placed executives in the Secretary of Def
 - 2018+: Partner at Pine Island Capital Partners, a private equity firm buying defense contractors
 - December 7, 2020: Nominated by President Biden as Secretary of Defense
 
-**Compensation & Conflicts:**
+### Compensation & Conflicts:
 - 2016-2020: $1.4 million in total compensation from Raytheon/UTC
 - At confirmation: $800,000-$1.75 million in Raytheon stock holdings
 - Austin required a congressional waiver of the 7-year civilian cooling-off period (only the second in modern history; Congress voted 326-78 in the House, 69-27 in the Senate)
@@ -168,7 +168,7 @@ RTX holds a unique distinction: it has placed executives in the Secretary of Def
 
 #### Mark Esper (Trump Administration 1.0, 2017-2020)
 
-**Timeline:**
+### Timeline:
 - 2010-2017: Vice President for Government Relations at Raytheon Company — top corporate lobbyist
 - During this period, Raytheon posted record federal lobbying spending, peaking in 2013 at $7.6 million
 - Named top corporate lobbyist by The Hill in 2015 and 2016
@@ -179,7 +179,7 @@ RTX holds a unique distinction: it has placed executives in the Secretary of Def
 
 #### William Lynn III (Obama Administration, 2009-2011)
 
-**Timeline:**
+### Timeline:
 - 2003-2008: Senior Vice President and top lobbyist for Raytheon Company
 - January 2009: President Obama nominates Lynn as Deputy Secretary of Defense (the #2 position)
 - This appointment violated Obama's own ethics executive order banning lobbyists from working on issues related to their former employers for 2 years
@@ -188,7 +188,7 @@ RTX holds a unique distinction: it has placed executives in the Secretary of Def
 
 #### Bob Work (Pentagon to Raytheon, 2014-2017)
 
-**Timeline:**
+### Timeline:
 - 2014-July 2017: Deputy Secretary of Defense under Obama and Trump
 - During tenure, oversaw the "Third Offset" technology strategy emphasizing advanced autonomous weapons and AI — systems Raytheon produces
 - **August 2017 (less than one month after leaving government):** Work is elected to Raytheon's board of directors
@@ -196,7 +196,7 @@ RTX holds a unique distinction: it has placed executives in the Secretary of Def
 
 #### Charles Faulkner (State Department, 2017-2019)
 
-**Timeline:**
+### Timeline:
 - 2012-2016: Registered lobbyist at BGR Group for Raytheon
 - BGR Group simultaneously registered as foreign agent for Saudi Arabia
 - June 2017: Faulkner joins State Department as Acting Assistant Secretary of State for Legislative Affairs (13 months after leaving BGR, likely violating Trump's own 2-year lobbying ban)
@@ -208,7 +208,7 @@ RTX holds a unique distinction: it has placed executives in the Secretary of Def
 
 #### Maj. Gen. Mike Boera (Air Force to Raytheon, 2015)
 
-**Timeline:**
+### Timeline:
 - Served as USAF Director of Programs in the office of the deputy chief of staff for strategic plans and programs — directly shaping which weapons the Air Force buys
 - 2015: Joins Raytheon as Executive of Intelligence, Information and Services division
 - Same year: Air Force awarded Raytheon $2.9 billion in contracts
@@ -243,7 +243,7 @@ A Quincy Institute/Jacobin investigation (April 2024) reveals the systemic natur
 
 Raytheon has been the primary U.S. munitions supplier to Saudi Arabia's air campaign in Yemen since 2015. The company was the first weapons manufacturer to build a permanent operation in Saudi Arabia in the 1960s, hiring members of the Saudi royal family as consultants. Raytheon opened a Riyadh office in 2017. After the Yemen war began in March 2015, Raytheon's stock price rose from approximately $108 to more than $180 by 2019, reflecting billions in Saudi arms revenue.
 
-**Documented civilian atrocities with Raytheon munitions:**
+### Documented civilian atrocities with Raytheon munitions:
 - April 22, 2018 (wedding party): Airstrike killing 21 people was conducted using a Raytheon GBU-12 Paveway II guided bomb
 - Airstrike on family vehicle: Killed 15 members of a single family using Raytheon GBU-12
 - August 2018 (Dahyan school bus massacre): Killing 40 children, linked to Raytheon-manufactured munitions
@@ -256,7 +256,7 @@ Per OpenSecrets Yemen case study, Raytheon alone gave over $4.5 million to the c
 
 Raytheon's Missiles & Defense segment experienced four consecutive quarters of revenue decline before Russia's February 2022 invasion of Ukraine. The conflict reversed this trajectory entirely.
 
-**Weapons supplied to Ukraine:**
+### Weapons supplied to Ukraine:
 - **Stinger** man-portable air defense missiles (replenishment for U.S. Army stocks sent to Ukraine)
 - **Patriot** air and missile defense systems (delivered to Ukraine; Germany, Netherlands, Romania also ordered replacements)
 - **NASAMS** (National Advanced Surface-to-Air Missile Systems) — delivered directly to Ukraine

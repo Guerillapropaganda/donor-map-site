@@ -23,21 +23,21 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 
 **Why Diamond:** This is not a pattern or inference — it is documented, named, and confirmed by the donors themselves under congressional pressure. It represents the clearest documented pay-to-play structure in modern U.S. political history. The structural function is explicit: corporations buy regulatory forbearance and contract access through a legal vehicle that bypasses campaign finance law entirely.
 
-**Donation-to-Policy timeline hits already documented:**
+### Donation-to-Policy timeline hits already documented:
 - **Google/YouTube** → $22M settlement to Trump (directed to ballroom fund) → DOJ weighing whether to appeal antitrust remedies against Google (breakup now off the table per TechTarget reporting)
 - **UnitedHealthcare** → $5M to MAGA Inc. (Jan 2025) → Trump CMS approved higher-than-proposed 2026 Medicare Advantage rates (+5.06% vs. flat initial proposal)
 - **Microsoft, Amazon, Palantir** → ballroom donations → continued federal contract awards totaling hundreds of billions; DOGE under Musk canceled 10,000+ contracts but **zero** for ballroom donors
 - **Union Pacific Railroad** → ballroom donor → seeking federal merger approval before Trump administration
 - **Amazon, Apple, Meta, Google, Nvidia** → ballroom donors → antitrust proceedings ongoing; Google breakup dropped, DOJ appeal uncertain
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - [[_Donald Trump Master Profile]] — core thesis vehicle
 - [[Palantir]] (if exists) — $900M+ in federal contracts under Trump, ICE surveillance
 - [[Amazon]] — ballroom donor + federal contracts
 - [[Google]] — ballroom donor + antitrust case softening
 - [[Microsoft]] — ballroom donor + federal contract dominance
 
-**Lead sources (all Chrome-verified VALID):**
+### Lead sources (all Chrome-verified VALID):
 - [OpenSecrets: Trump ballroom donors poised to benefit from AI plan they helped shape](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/) (Tier 1)
 - [Warren.senate.gov: Warren, Min release new details on Trump ballroom donations](https://www.warren.senate.gov/newsroom/press-releases/warren-min-release-new-details-on-trump-ballroom-donations-by-giant-corporations-with-business-in-front-of-trump-admin) (Tier 1)
 - [Warren.senate.gov: Warren, Garcia introduce Stop Ballroom Bribery Act](https://www.warren.senate.gov/newsroom/press-releases/warren-garcia-introduce-new-bill-to-stop-apparent-bribery-involving-trump-ballroom-donations) (Tier 1)
@@ -54,16 +54,16 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 
 **Why Gold:** Documented donation amounts, named recipients, specific policy outcome (case dismissal), short time gap (2024 donation → Jan 2026 dismissal), and external verification from TechCrunch and pattern documentation from NYT/Americans for Financial Reform.
 
-**Donation-to-policy timeline:**
+### Donation-to-policy timeline:
 - **2024:** Winklevoss twins donate $21M+ in Bitcoin to pro-Trump PACs; lobby admin on regulatory appointments
 - **Jan 2026:** SEC dismisses Gemini Earn lawsuit (8th crypto case dropped under Trump)
 - **Broader pattern:** 60%+ of pending crypto enforcement cases dropped, paused, or reduced
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - [[_Donald Trump Master Profile]] — crypto donor-to-deregulation pattern
 - Winklevoss / Gemini node (may need creation in `Donors & Power Networks/Tech & Crypto/`)
 
-**Lead sources (all Chrome-verified VALID):**
+### Lead sources (all Chrome-verified VALID):
 - [TechCrunch: SEC drops lawsuit against Winklevoss twins' Gemini crypto exchange](https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/) (Tier 2)
 
 **Note:** Search results referenced Yahoo Finance and Americans for Financial Reform as corroborating sources — URLs need individual Chrome verification before vault use. Mark as `(UNVERIFIED)` if added.
@@ -80,11 +80,11 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 
 **Donation-to-policy gap:** Settlement paid → DOJ chooses not to pursue breakup or appeal harshest remedies → Google preserves $1T+ market position
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - [[_Donald Trump Master Profile]]
 - Google donor node (if exists in `Donors & Power Networks/Tech & Crypto/`)
 
-**Lead sources (all Chrome-verified VALID):**
+### Lead sources (all Chrome-verified VALID):
 - [The Hill: Senate Democrats press Google, YouTube on Trump settlement](https://thehill.com/policy/technology/5557463-google-youtube-trump-lawsuit-democrats/) (Tier 2)
 
 **Note:** TechTarget (Google breakup off table) and CNBC (antitrust remedies) cited in search results — URLs need Chrome verification before use.
@@ -101,11 +101,11 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 
 **Pattern type:** **Revolving Door** (inverted — donor installs himself in regulatory position)
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - [[_Donald Trump Master Profile]]
 - Elon Musk / Tesla / SpaceX node (if exists in `Donors & Power Networks/Tech & Crypto/`)
 
-**Lead sources (all Chrome-verified VALID):**
+### Lead sources (all Chrome-verified VALID):
 - [Campaign Legal Center: Elon Musk has grown even wealthier through serving in Trump's administration](https://campaignlegal.org/update/elon-musk-has-grown-even-wealthier-through-serving-trumps-administration) (Tier 2)
 - [The Hill: Palantir courts major federal contracts and controversy in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2)
 
@@ -121,11 +121,11 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 
 **Why Silver:** Important baseline data for vault context, not a specific quid-pro-quo but essential analytical infrastructure for the 2026 Senate and House race files.
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - `topics/Stories/Published/2026 Senate Races/` — all files benefit from this context
 - `topics/Stories/Published/2026 House Races/` — all files benefit from this context
 
-**Lead sources (all Chrome-verified VALID):**
+### Lead sources (all Chrome-verified VALID):
 - [OpenSecrets: Political ad spending projected to reach new high in 2026 midterms](https://www.opensecrets.org/news/2026/01/political-ad-spending-is-projected-to-reach-a-new-high-in-2026-midterms/) (Tier 1)
 
 **Recommended vault action:** Cite in intro sections of 2026 race analysis files. May anchor a standalone story: `The $10.8 Billion Midterm — Who's Buying the 2026 Congress.md`
@@ -140,11 +140,11 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 
 **Pattern types:** **Revolving Door**, **Donor-Class Override**, **Both-Sides Illusion** potential (Palantir received contracts under Biden too)
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - Palantir donor node (if exists in `Donors & Power Networks/Tech & Crypto/`)
 - [[_Donald Trump Master Profile]]
 
-**Lead sources:**
+### Lead sources:
 - [The Hill: Palantir courts major federal contracts and controversy in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2) — VALID
 
 **Recommended vault action:** Create or expand Palantir donor node. Flag revolving door (former Palantir exec as federal CIO). Connect to ballroom pipeline story.
@@ -157,11 +157,11 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 
 **Why Bronze:** No specific donation-to-policy link. Useful rhetorical/analytical data for the Warren master profile and for Contradiction Deep Dive content.
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - [[_Elizabeth Warren Master Profile]] (if exists)
 - Warren sub-notes on financial regulation
 
-**Lead source:**
+### Lead source:
 - [CNN: Elizabeth Warren says Democrats hoping to win in 2026 need to 'read the room'](https://www.cnn.com/2026/01/12/politics/elizabeth-warren-democrats-affordability) (Tier 2) — URL needs Chrome verification before vault use
 
 **Recommended vault action:** Add to Warren profile as rhetorical signature data point. Flag **Two-Audience Problem** pattern.
@@ -183,7 +183,7 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 | `thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/` | ✅ VALID | 2 |
 | `opensecrets.org/news/2026/01/political-ad-spending-is-projected-to-reach-a-new-high-in-2026-midterms/` | ✅ VALID | 1 |
 
-**10 URLs verified VALID. 0 broken.**
+### 10 URLs verified VALID. 0 broken.
 
 URLs referenced in search results but NOT yet Chrome-verified (mark `UNVERIFIED` if used):
 - WaPo: Musk $38B government funding interactive

@@ -69,7 +69,7 @@ parent: null
 
 ### Corporate Members (300+ identified)
 
-**Partial list of major corporate members:**
+### Partial list of major corporate members:
 - Koch Industries ($779K in 2017 alone, board member status)
 - ExxonMobil
 - Shell Oil
@@ -106,7 +106,7 @@ parent: null
 |---|---|---|---|---|---|
 | Castle Doctrine Act | 2005 (Florida basis) | 2005-2012 | 30+ states | 25 of 30 SYG states traced to ALEC model | ProPublica (Tier 2) |
 
-**Outcomes:**
+### Outcomes:
 - 131 Stand Your Ground bills introduced in 2011-2012 session
 - ~25% lifted 30%+ language directly from ALEC model
 - 25 of 30 states adopting SYG laws used ALEC model (ProPublica analysis)
@@ -121,7 +121,7 @@ parent: null
 |---|---|---|---|---|---|
 | Voter ID Act | July 17, 2009 (Task Force); Aug 27, 2009 (Board) | 2011-2012 | 6-7 strict states by 2012 | Task Force disbanded April 2012 | NBC News (Tier 2) |
 
-**Outcomes:**
+### Outcomes:
 - 62+ voter ID bills introduced in 2011-2012 legislative sessions
 - 50%+ proposed by ALEC member-legislators
 - States: Alabama, Kansas, Rhode Island, South Carolina, Texas, Tennessee, Wisconsin (strict versions passed 2011)
@@ -136,7 +136,7 @@ parent: null
 |---|---|---|---|---|---|
 | Right to Work Act | January 1995 (Board approval) | 2001 (Oklahoma) | 2+ (Oklahoma, others) | Model remains active | ALEC.org (Tier 2) |
 
-**Outcomes:**
+### Outcomes:
 - Oklahoma (2001): Passed constitutional amendment + RTW law word-for-word matching ALEC model
 - No successful adoptions 2000-2002 beyond Oklahoma
 - Acceleration phase (2011-2016): Michigan, Wisconsin, Pennsylvania, Indiana RTW laws adopted
@@ -153,7 +153,7 @@ parent: null
 | Minimum-Mandatory Sentencing Act | 1995-2003 (refined) | 1995+ | Multiple | Private prisons | ALEC Exposed (Tier 2) |
 | Mandatory Sentencing for Repeated Felony Theft Act | [Pre-2000] | 2000s+ | Multiple | Retail chains, private prisons | ALEC Exposed (Tier 2) |
 
-**Outcomes:**
+### Outcomes:
 - Truth in Sentencing: 25 states signed into law by 1995 alone
 - Three-strikes laws, mandatory minimums for drug offenses, and expanded retail theft penalties all pushed through ALEC
 - Private prison industry beneficiary: Corrections Corporation of America (CCA) was executive committee member of ALEC Public Safety & Elections Task Force
@@ -169,7 +169,7 @@ parent: null
 | Class Actions Improvements Act | [Pre-2000] | 2000+ | Multiple | Ongoing promotion | ALEC.org (Tier 2) |
 | Assumption of Risk Act | [Pre-2000] | 2000+ | Multiple | Ongoing | ALEC Exposed (Tier 2) |
 
-**Outcomes:**
+### Outcomes:
 - Product Liability Act: ~20 states codified product liability laws based on ALEC model
 - Class Actions: Legislation in multiple states restricts multi-state and multi-victim lawsuits
 - Beneficiaries: Manufacturers, insurers, corporate defendants (shields from class action liability)
@@ -182,7 +182,7 @@ parent: null
 |---|---|---|---|---|---|
 | Animal & Ecological Terrorism Act (AETA) | Dec 14, 2002 (Criminal Justice Task Force) | Jan 2004 (Board) | 2010 (Iowa) | 9+ states; 5+ struck down | ALEC Exposed (Tier 2) |
 
-**Outcomes:**
+### Outcomes:
 - Model drafted to criminalize undercover investigation of factory farms
 - Created "terrorist registry" for conviction
 - States adopting (with constitutional challenges):
@@ -206,7 +206,7 @@ parent: null
 | Rent Control Preemption Act | [Pre-2000s] | Multiple | Blocked local housing controls | Landlords, real estate corporations | ALEC Exposed (Tier 2) |
 | State Pesticide Preemption Act | [Pre-2000s] | 10+ states | Blocked local GMO/pesticide restrictions | Ag-chem industry (Monsanto, etc.) | ALEC Exposed (Tier 2) |
 
-**Outcomes:**
+### Outcomes:
 - 100+ preemption laws passed blocking local democracy across policy domains
 - Florida dominant adopter of preemption legislation
 - Coordination: Chamber of Commerce, state business associations, ALEC preemption task force
@@ -217,7 +217,7 @@ parent: null
 |---|---|---|---|---|---|
 | Critical Infrastructure Protection Act | 2017 (Post-Standing Rock) | 2017 | 8+ states; 13+ introduced | Oil/gas pipeline protection; specified for Dakota Access parameters | ExxonMobil, Shell, oil producers | ProPublica/Exposed by CMD (Tier 2) |
 
-**Outcomes:**
+### Outcomes:
 - Model drafted immediately post-Standing Rock (2016-2017) protests
 - Oklahoma (HB 1123, 2017): Confessedly modeled on ALEC language
 - States adopting: Oklahoma, Iowa, Texas, Wyoming, North Dakota, Louisiana, Montana, Alaska, Delaware (8+); 13+ others introduced
@@ -234,7 +234,7 @@ parent: null
 | Grid Stability Bills (15+ variants) | 2024+ | Ohio HB 1286, WV/PA/MI/KY similar | 5+ | Fossil fuel baseload protection; renewables undercut | Duke Energy, FirstEnergy, natural gas utilities | Exposed by CMD / CleanTechnica (Tier 2) |
 | Natural Gas "Clean Energy" Rebrand | 2024+ | Multiple | 5+ | Natural gas marketed as "bridge fuel"; subsidies | American Gas Association, natural gas producers | Energy & Policy Institute (Tier 2) |
 
-**Recent Push (2024-2025):**
+### Recent Push (2024-2025):
 - 15+ grid "stability" bills introduced 2024-2025
 - Ohio HB 1286 (2024): Explicitly anti-renewable language
 - West Virginia, Pennsylvania, Michigan, Kentucky bills follow ALEC model
@@ -304,7 +304,7 @@ parent: null
 
 ### Companies That Stayed (Notable)
 
-**Documented Staying Through 2013-2014:**
+### Documented Staying Through 2013-2014:
 - Koch Industries (increased investment post-exodus)
 - ExxonMobil
 - Duke Energy
@@ -391,21 +391,21 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 ### Energy Deregulation Acceleration (2024-2025)
 
-**Grid Stability Bills (15+ Variants 2024-2025):**
+### Grid Stability Bills (15+ Variants 2024-2025):
 - Ohio HB 1286 (2024): Explicit anti-renewable language
 - West Virginia, Pennsylvania, Michigan, Kentucky: Similar bills in 2024-2025
 - 15+ grid bills introduced; renewables systematically starved
 - Task force: Energy, Environment & Agriculture (fossil fuel dominated)
 - Donor push: ExxonMobil, Koch, Duke Energy, American Gas Association
 
-**Natural Gas "Rebranding":**
+### Natural Gas "Rebranding":
 - ALEC promoting natural gas as "clean energy bridge fuel"
 - Implicit subsidy language in model bills
 - Beneficiary: American Gas Association members
 
 ### Anti-ESG Legislation (2023-2025)
 
-**State Pension Divestment Protection:**
+### State Pension Divestment Protection:
 - ALEC model requires state pensions to maximize short-term returns
 - Blocks ESG screening; prevents divestment from fossil fuels
 - Requires state comptrollers to track and penalize "ESG-friendly" financial firms
@@ -432,7 +432,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 **Complainant:** Common Cause (nonprofit government watchdog)
 
-**Allegations:**
+### Allegations:
 - ALEC misuses tax-exempt charity status
 - Functions as a corporate lobbying organization (violates 501(c)(3) rules)
 - Massively underreports lobbying activity on Form 990
@@ -440,7 +440,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 - Corporate members deduct ALEC membership dues as business expenses while ALEC operates tax-exempt
 - ALEC covers travel, hotels, meals for state legislators (gifts subject to ethics disclosure that ALEC conceals)
 
-**Requested Remedy:**
+### Requested Remedy:
 - Immediate IRS investigation
 - Revocation of 501(c)(3) tax-exempt status
 - Civil and criminal penalties
@@ -483,7 +483,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 **Direct ALEC Funding (Charles Koch):** $2.3 million documented (2019-2023)
 
-**Indirect Coordination:**
+### Indirect Coordination:
 - Charles Koch Foundation board member roles in ALEC
 - Stand Together Fellowship ($584K 2019-2023) funneled to ALEC
 - Stand Together Trust ($1.2M 2019-2023) primary recent conduit
@@ -496,12 +496,12 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 ### State Policy Network (SPN) Coordination
 
-**Organizational Relationship:**
+### Organizational Relationship:
 - ALEC and SPN are "sister organizations"
 - SPN is member of ALEC; ALEC is associate member of SPN
 - **SPN serves as academic legitimacy layer for ALEC legislation**
 
-**How It Works:**
+### How It Works:
 - ALEC writes model bill in closed-door corporate-legislator meeting
 - SPN state think tanks write "research" supporting the bill
 - SPN experts testify in state legislatures favoring ALEC model bills
@@ -515,7 +515,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 **Relationship:** Heritage Foundation ($4.8M documented Koch funding) coordinates vertically with ALEC
 
-**Pipeline:**
+### Pipeline:
 - ALEC writes model bills in states
 - Heritage Foundation translates to federal policy (Project 2025 — 900+ page Trump administration policy manual)
 - Project 2025 calls on states to enact laws (ALEC model bills) creating litigation basis for federal court challenges
@@ -525,7 +525,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 ### Fossil Fuel Bloc Coordination
 
-**Primary ALEC Members:**
+### Primary ALEC Members:
 - ExxonMobil
 - Shell Oil
 - Duke Energy
@@ -534,7 +534,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 **Task Force Control:** Energy, Environment & Agriculture Task Force dominated by these members
 
-**Model Legislation Output 2017-2025:**
+### Model Legislation Output 2017-2025:
 - Critical Infrastructure Protection Act (standing Rock response, 2017)
 - 15+ Grid Stability Bills (2024-2025, anti-renewable)
 - Natural Gas "Clean Energy" Rebranding
@@ -555,7 +555,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 ### Dark Money Funding of Dark Money Organization
 
-**Meta-Corruption Finding:**
+### Meta-Corruption Finding:
 - ALEC operates on 35% undisclosed funding ($19.1M of $54.7M contributions 2017-2021)
 - ALEC then drafts "Personal Privacy Protection Act" model legislation (2017)
 - 17 states adopted this ALEC model protecting dark money from disclosure
@@ -606,14 +606,14 @@ ALEC operates on 35% undisclosed funding while simultaneously drafting legislati
 
 **Total Sources Identified:** 40+ (mix of Tier 1 government records, Tier 2 investigative journalism, Tier 3 secondary reporting)
 
-**Data Gaps:**
+### Data Gaps:
 1. ALEC's complete current corporate member list (partially redacted in Form 990)
 2. Specific revolving door figures post-2015 (ALEC's 501(c)(3) status avoids lobbying registration requirements)
 3. Recent (2024-2026) legislative success rate on new model bills
 4. Names of the 105 unnamed donors contributing the $19.1M undisclosed funding
 5. IRS investigation outcome on Common Cause complaint (possibly not yet concluded or findings not publicly released)
 
-**Confidence Levels by Section:**
+### Confidence Levels by Section:
 - Funding sources: High (Form 990, ProPublica, CMD analysis)
 - Model legislation: High (ALEC Exposed database, state legislative records, news analysis)
 - Corporate exodus: High (multiple news outlets, contemporaneous reporting)

@@ -29,16 +29,16 @@ Tenet is the clearest documented case of foreign dark money laundering through A
 
 Tenet's funding was overwhelmingly Russian state money laundered through a multi-layered shell company structure:
 
-**Layer 1 — RT state funding (primary, ~90% of deposits):**
+### Layer 1 — RT state funding (primary, ~90% of deposits):
 Between October 2023 and August 2024, RT transferred $9.7 million to Tenet Media through shell companies registered in the UK, Hungary, and UAE. These transfers were disguised as payments for "electronics purchases." Approximately 90% of Tenet's total bank deposits came from RT. The money originated from the Russian state budget via RT's operational funding.
 
-**Layer 2 — Shell company pipeline:**
+### Layer 2 — Shell company pipeline:
 RT (Moscow) → Shell companies (UK/Hungary/UAE) → Roaming Millennial Inc. (Canada) → Tenet Media (Nashville, Tennessee). The pipeline was designed to obscure the Russian government origin. Founders Chen and Donovan allegedly created a fictitious wealthy European persona — "Eduard Grigoriann" — and told commentators their funding came from this nonexistent private investor.
 
-**Layer 3 — Commentator payments ($8.7M to top three):**
+### Layer 3 — Commentator payments ($8.7M to top three):
 The DOJ alleges $8.7 million flowed to three primary commentators' production companies. Per CBS News, one commentator received $400,000/month plus a $100,000 signing bonus. Wikipedia reports all six featured commentators received "over $400,000 monthly." The exact per-commentator breakdown remains sealed in court filings; public reporting attributes the signing bonus to different commentators depending on the source.
 
-**Layer 4 — Platform revenue (negligible):**
+### Layer 4 — Platform revenue (negligible):
 Any YouTube ad revenue, sponsorships, or organic income was dwarfed by the RT pipeline. Tenet was not a viable commercial enterprise — it was an influence operation with a media company wrapper.
 
 > [!money]
@@ -60,13 +60,13 @@ Any YouTube ad revenue, sponsorships, or organic income was dwarfed by the RT pi
 
 ### Who Funds Them
 
-**RT / Russian Federation (via Kalashnikov and Afanasyeva) — $9.7M (Oct 2023–Aug 2024)**
+### RT / Russian Federation (via Kalashnikov and Afanasyeva) — $9.7M (Oct 2023–Aug 2024)
 RT (Russia Today) is a Russian state-controlled international media network funded directly by the Russian government budget. The two RT employees named in the indictment — Kostiantyn Kalashnikov and Elena Afanasyeva — allegedly managed day-to-day operations of the Tenet funding pipeline while concealing their RT employment. They operated under false names when communicating with commentators. Both were indicted on charges of conspiracy to commit money laundering and conspiracy to violate the Foreign Agents Registration Act (FARA). As of March 2026, both remain at large as fugitives.
 
-**Lauren Chen and Liam Donovan (conduits, not funders)**
+### Lauren Chen and Liam Donovan (conduits, not funders)
 The DOJ alleged that Chen ("Founder-1") and Donovan ("Founder-2") knew the funding originated from "the Russians" and used the fictional "Eduard Grigoriann" persona to deceive their own commentators about the source. They were named in the indictment but not charged as criminal defendants. Chen's name did not appear on Tenet's website, nor did she publicly associate her title with the organization — the concealment was structural from the start. Chen was fired by Blaze Media on September 5, 2024, the day after the indictment was unsealed. Her U.S. work visa was revoked in 2024. In December 2025, both Chen and Donovan returned to the U.S. following visa re-authorization facilitated by the Trump administration. State Department Senior Advisor Joe Rittenhouse confirmed his involvement, stating their return "would not be possible without new Leadership at the Whitehouse, FBI, CBP, and State Department."
 
-**The Chen Revolving Door (RT employee → "independent" creator → RT-funded media founder):**
+### The Chen Revolving Door (RT employee → "independent" creator → RT-funded media founder):
 Chen's career arc maps the complete revolving door between Russian state media and the American conservative ecosystem. She launched the "Roaming Millennial" YouTube persona in 2016, building 400K+ subscribers. In 2021, she began contributing directly to RT — the DOJ alleges she was compensated by RT to create and publish over 200 videos on her personal YouTube channel without disclosing the funding source. In January 2022 she co-founded Tenet Media, which then received $9.7M from RT through the shell company pipeline. The trajectory: RT contributor (paid, undisclosed) → independent creator brand → RT-funded media company founder → talent scout recruiting established American commentators into the same pipeline. Each stage added a layer of deniability while maintaining the same funding source.
 
 > [!money]
@@ -97,7 +97,7 @@ Tenet's content was designed to inject Kremlin-aligned narratives into the Ameri
 
 Tenet's audience capture operated through a parasitic model — it didn't build its own audience but hijacked the existing audiences of established commentators:
 
-**The Talent Roster:**
+### The Talent Roster:
 
 | Commentator | Platform | Audience Pre-Tenet | Payment (alleged) | Role |
 |-------------|----------|-------------------|-------------------|------|
@@ -116,14 +116,14 @@ Tenet's audience capture operated through a parasitic model — it didn't build 
 
 ### What Their Funders Got
 
-**The Russian state got:**
+### The Russian state got:
 - 2,000 videos with 16M+ views produced by trusted American voices
 - Kremlin-aligned narratives on Ukraine, NATO, and domestic division delivered through authentic conservative media channels
 - Bypass of platform bans that had shut down RT America (March 2022) and restricted official Russian state media distribution
 - Plausible deniability — the content appeared to be independent American commentary, not Russian state media
 - Cost-per-influence far below traditional intelligence operations: $9.7M for 10 months of continuous multi-platform content from six established commentators with combined audiences in the millions
 
-**What the commentators got:**
+### What the commentators got:
 - Above-market compensation ($400K+/month vs. typical YouTube creator economics of $5-50K/month for comparable audiences)
 - Production support and guaranteed income regardless of algorithmic performance
 - Post-indictment: enhanced notoriety and, for some, closer ties to the Trump administration (Pool received White House press credentials in early 2025)

@@ -1,7 +1,7 @@
 ---
 title: "National Association of Manufacturers"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -24,7 +24,7 @@ NAM's two political vehicles:
 - **NAM PAC (the political committee):** Direct contributions to congressional candidates; approximately 85% Republican, concentrated on members of the Energy and Commerce Committee, Environment and Public Works Committee, and the tax-writing Ways and Means / Finance Committees
 - **Manufacturers' Center for Legal Action (MCLA):** Amicus brief factory. Files in cases affecting corporate liability, environmental regulation, and labor law — particularly SCOTUS cases
 
-**Lobbying scale:**
+### Lobbying scale:
 
 | Year | Federal Lobbying Spend | Source |
 |------|----------------------|--------|

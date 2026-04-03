@@ -1,7 +1,7 @@
 ---
 title: "DSCC - Democratic Senatorial Campaign Committee"
 type: pac
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -25,7 +25,7 @@ The DSCC operates alongside but separately from the Democratic dark money appara
 
 ### The Money — 2024 Cycle
 
-**Financial Summary (FEC, 2023-2024 cycle):**
+### Financial Summary (FEC, 2023-2024 cycle):
 
 | Category | Amount |
 |----------|--------|
@@ -70,7 +70,7 @@ The donor pattern reveals two things. First, the DSCC's top contributors are ove
 
 ### Where the Money Goes — 2024 Expenditures
 
-**Top Vendors:**
+### Top Vendors:
 
 | Vendor | Amount | Purpose |
 |--------|--------|---------|

@@ -84,7 +84,7 @@ Each phase reveals pattern: institutional reach requires editorial constraint; e
 - Class analysis: war serves investor class, destroys working class
 - Evangelical Christian theology applied to political economy (liberation theology tradition)
 
-**What changed with each platform:**
+### What changed with each platform:
 - **NYT era**: War reporting focused on victim narratives, human cost of conflict; framed as humanitarian journalism within liberal institutional constraints
 - **RT era**: Explicit anti-US imperialism; supported non-aligned movement positions; critiqued NATO expansion, Western intervention in Syria; no equivalent critique of Russian state actions
 - **Real News era**: Continued anti-imperialist framing but with increased Democratic Party critique (Biden, Harris, DNC gatekeeping)

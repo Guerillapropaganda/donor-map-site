@@ -1,7 +1,7 @@
 ---
 title: "Contradiction 15 - Private Equity Buys Regulatory Immunity Across the Aisle"
 type: story
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null

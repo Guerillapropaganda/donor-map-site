@@ -61,7 +61,7 @@ No FEC individual contributions found. FEC API returns zero results for "Lex Fri
 
 Unlike most media profiles in this vault, Fridman doesn't receive direct political funding. His donor-class alignment operates through **access economics**: tech billionaires grant him interviews (the product that drives his revenue), and in return, they receive a high-reach, low-confrontation platform.
 
-**The Guest-as-Funder Pipeline:**
+### The Guest-as-Funder Pipeline:
 
 | Guest | Appearances | Company/Network | What They Got |
 |-------|-------------|-----------------|---------------|
@@ -111,13 +111,13 @@ Fridman pushes a worldview that serves the tech billionaire class without ever e
 
 ### What Funders Got
 
-**Tech billionaires received:**
+### Tech billionaires received:
 - Unchallenged, long-form access to millions of viewers
 - Image rehabilitation and "humanization" content (Musk talking about his "inner storm," Zuckerberg appearing relatable)
 - Platform to promote corporate narratives without adversarial questioning
 - Displacement of traditional journalism: CJR reports that leaders now have "no incentive to submit to serious questioning" when they can reach larger audiences through Fridman
 
-**Political leaders received:**
+### Political leaders received:
 - Trump: pre-election platform where false claims went unchallenged (Kamala Harris "communist" claim corrected once, then dropped)
 - Netanyahu: uncontested defense of West Bank settlements
 - Modi: 3-hour platform where the RSS was described as a "sacred organization" without pushback

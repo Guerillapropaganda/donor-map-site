@@ -87,29 +87,29 @@ CRS has a 76.9% revolving door rate — 20 of 26 registered lobbyists are former
 
 #### Former Senators
 
-**Trent Lott (R-MS)**
+### Trent Lott (R-MS)
 **Former Position:** U.S. Senator (1989–2007), Senate Majority Leader (1996–2001, 2003), Senate Minority Whip
 **Joined CRS:** 2020 (from Squire Patton Boggs)
 Named in The Hill's Top Lobbyists 2023. Lott's value to CRS is his personal relationship with virtually every Republican senator who served during his 18-year tenure. As former Majority Leader, he retains floor access privileges and institutional relationships that no amount of policy expertise can replicate.
 
-**John Breaux (D-LA)**
+### John Breaux (D-LA)
 **Former Position:** U.S. Senator (1987–2005), U.S. Representative (1972–1987), Senate Finance Committee, Senate Commerce Committee
 **Joined CRS:** 2020 (from Squire Patton Boggs, where he and Lott had co-led the firm's bipartisan practice)
 Named in The Hill's Top Lobbyists 2023. Breaux served 33 years in Congress total — 15 in the House, 18 in the Senate. His Finance Committee background makes him the firm's primary asset for tax, healthcare, and trade lobbying. Breaux and Lott had previously co-led a practice at Squire Patton Boggs before moving to CRS together.
 
 #### Key Founding Partners
 
-**John Green — CEO**
+### John Green — CEO
 **Former Position:** Senior aide to Sen. Trent Lott (R-MS); founding partner of what became Ogilvy Government Relations
 Green's career trajectory maps the revolving door precisely: Senate leadership staff → founding a lobbying firm → selling it to a global conglomerate (WPP/Ogilvy) → founding CRS → hiring his former boss (Lott) as the firm's marquee lobbyist. The boss-staffer relationship inverted: Lott now lobbies under Green's firm.
 
-**Stewart Hall — Founding Partner**
+### Stewart Hall — Founding Partner
 **Former Position:** Legislative Director to Sen. Richard Shelby (R-AL), 1992–1996; founding partner of Ogilvy Government Relations
 Hall's Shelby experience gave CRS its initial edge in defense appropriations, financial services, and Senate procedure — Shelby chaired or ranked on Senate Appropriations and Banking committees for decades.
 
 #### Recent Hires
 
-**Lucy Panza — Executive Vice President**
+### Lucy Panza — Executive Vice President
 **Former Position:** Counsel to Senate Majority Leader Chuck Schumer (D-NY)
 Panza's hire from Schumer's office extends CRS's bipartisan access model into the current Democratic Senate leadership. Combined with the Lott hire, CRS now has personal-relationship access to both a former Republican Majority Leader and the current Democratic leader's inner circle.
 

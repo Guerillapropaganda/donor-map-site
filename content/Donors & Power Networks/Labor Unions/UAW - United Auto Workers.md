@@ -1,7 +1,7 @@
 ---
 title: "UAW - United Auto Workers"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -17,16 +17,16 @@ related: [[AFL-CIO]] [[SEIU - Service Employees International Union|SEIU]] [[_De
 
 International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW). One of the largest and most politically significant unions in America, representing approximately 370,000–400,000 active members and 580,000+ retired members across 600+ local unions. The UAW's membership spans auto manufacturing (General Motors, Ford, Stellantis), aerospace, agricultural equipment, and — since the 2023 organizing wave under President Shawn Fain — foreign-owned plants in the South (Volkswagen Chattanooga, Mercedes-Benz Alabama).
 
-**Political Operation:**
+### Political Operation:
 The UAW spent $6.2 million in total political contributions in the 2024 cycle, ranking #151 of 40,455 organizations nationally, with $672,000 in federal lobbying. The union's political operation extends beyond direct PAC contributions through soft money transfers to outside spending groups and $10-15 million per cycle on voter mobilization in battleground states: Michigan, Wisconsin, Pennsylvania, and Ohio.
 
-**V-CAP PAC Details:**
+### V-CAP PAC Details:
 The UAW operates the Voluntary Community Action Program (V-CAP) PAC (FEC ID: C00002840) accepting voluntary member contributions. In 2024, V-CAP raised $15.3 million and spent $14.1 million, ranking 17th among all PACs nationally ($14.3 million in disbursements). The union also reports political and lobbying expenditures to the Department of Labor via LM-2 filings.
 
-**Corruption Disruption (2017-2022):**
+### Corruption Disruption (2017-2022):
 The UAW's political operation was substantially destabilized by a federal corruption scandal that sent two union presidents to prison. A subsequent court-ordered monitorship and reform elections produced new leadership under Shawn Fain, who adopted confrontational, class-war framing for political engagement beginning in 2023. The UAW's political endorsement is one of the most coveted in Democratic politics because its membership spans working-class voters in the exact swing states that determine presidential elections.
 
-**Structural Distinction:**
+### Structural Distinction:
 The UAW is unique in the vault as a labor donor — one of the few political spending entities that represents workers rather than capital. Where corporate donors spend money to extract value from government, the UAW spends money to protect the labor share of value already produced by its members. The analytical frame is distinct: the question is not whether the UAW buys policy outcomes — it does — but whether those outcomes serve workers or union leadership.
 
 - [OpenSecrets: UAW organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/united-auto-workers/summary?id=D000000070) (Tier 1) (Chrome-verified)
@@ -121,16 +121,16 @@ The UAW's $672,000 in federal lobbying is modest compared to auto companies: GM 
 
 Under Shawn Fain's leadership, the UAW executed a novel "Stand-Up Strike" strategy against GM, Ford, and Stellantis simultaneously — striking select plants and escalating strategically rather than striking all plants at once. The strike lasted 46 days (September 15 – October 30, 2023) and at its peak involved roughly 45,000 workers across 38 locations in 20 states. Ratification completed November 16–17. The contracts achieved the most favorable terms in a generation.
 
-**Wage Gains:**
+### Wage Gains:
 The contracts achieved a 25% wage increase over the 4.5-year contract life, with 11% immediate increases in year one. More significantly, they reinstated Cost-of-Living Adjustments (COLA), suspended since 2007. Combined with COLA, total pay increases exceed 33% over the contract period. Top production pay rising from approximately $32.05/hour to $42.60/hour by 2028; skilled trades exceeding $50/hour.
 
-**Two-Tier System Collapse:**
+### Two-Tier System Collapse:
 Wage tiers substantially narrowed: temporary workers converting to permanent status within 90 days (Ford) or 9 months maximum. Tier differentials were eliminated at multiple component plants. Workers on progression received immediate 20–46% raises, immediately reducing the wage gap between new hires and senior workers.
 
-**Retirement and Benefits:**
+### Retirement and Benefits:
 The contracts achieved the first increase to the pension multiplier for pre-2007 hires since 2003. Employer 401(k) contributions boosted to 10%, up from approximately 6.4%, more than doubling many members' annual retirement contributions. Current retirees received annual bonuses for the first time in 15 years — a $1.25 billion boost total, representing $1 billion more than the previous four contracts combined.
 
-**Job Security and Plant Reopenings:**
+### Job Security and Plant Reopenings:
 The contracts granted the right to strike over plant closures — a direct win against automaker offshoring strategies. The Belvidere, Illinois assembly plant reopening was a key political victory Fain tied directly to Biden administration intervention.
 
 Fain declared: "After years of cutbacks, months of our Stand Up campaign, and weeks on the picket line, we have turned the tide for the American autoworker."
@@ -141,50 +141,50 @@ On September 26, 2023, President Joe Biden became the first sitting U.S. preside
 
 The visit was strategically orchestrated: the White House worked behind the scenes to improve relations with Fain, who had been withholding endorsement and publicly criticizing Biden's EV transition subsidies. Biden's team notified automaker executives only one hour before announcing the picket line visit.
 
-**Other Political Figures at the Strike:**
+### Other Political Figures at the Strike:
 Vice President Kamala Harris had previously walked a picket line with UAW members in 2019 during the GM strike — Fain repeatedly cited this in his 2024 endorsement rationale. Governor Tim Walz (selected as Harris's VP running mate) also walked the picket line in 2023. Former President Donald Trump held a competing event September 27 at a non-union auto parts plant in Clinton Township, Michigan, arguing to non-union workers that EV transition would render any contract moot.
 
 ### Shawn Fain's Political Strategy
 
-**Background: Reform Candidate in a Reforming Union**
+### Background: Reform Candidate in a Reforming Union
 
 Shawn Fain is a 29-year UAW member — an electrician from Kokomo, Indiana, who started at Chrysler in 1994. He ran on the "Unite All Workers for Democracy" (UAWD) reform slate in the first-ever direct member election (made possible by the federal consent decree). On March 25, 2023, Fain won the UAW presidency over incumbent Ray Curry by just 505 votes out of 138,267 counted — a razor-thin margin in a historically significant election.
 
-**Break from "Jointness" Unionism**
+### Break from "Jointness" Unionism
 
 The central ideological shift Fain represents is the rejection of "jointness" — the cooperative, management-partnership model that dominated UAW leadership since the Chrysler bankruptcy of 1979–80. Under this model, union leaders participated in joint labor-management programs, accepted wage concessions in exchange for company survivability pledges, and largely avoided confrontational tactics. Fain criticized the legacy leadership as "comfortably inactive... rested on the laurels of people from the '50s and '60s." In his first months, he announced the union would not endorse Biden (a break from precedent) and publicly criticized the Biden DOE's loan to Ford and SK On for a battery plant as "a giveaway," asking: "Why is Joe Biden's administration enabling this corporate avarice with taxpayer funds?"
 
-**Endorsements Earned, Not Given**
+### Endorsements Earned, Not Given
 
 Fain's explicit political doctrine: endorsements must be "earned," not extended automatically. In his January 24, 2024 Biden endorsement announcement, he stated: "When I first came into office we made some headlines by saying that our endorsements would be earned not freely given... We've said we'd stand with whoever stood with us in our fight." This created tension with the Democratic establishment — the AFL-CIO had issued its "earliest-ever presidential endorsement" months before, and UAW's delay was a deliberate political signal.
 
-**"Trump Is a Scab" Rhetoric**
+### "Trump Is a Scab" Rhetoric
 
 At the 2024 Democratic National Convention, Fain headlined the opening night wearing a shirt reading "TRUMP IS A SCAB" — union terminology for strikebreaker used as a political epithet. He contrasted Biden walking the picket line with Trump doing nothing during the 2019 GM strike, showing a literal blank slide to assembled union members.
 
-**Confrontational Approach to Both Parties**
+### Confrontational Approach to Both Parties
 
 Unlike previous UAW presidents, Fain did not confine confrontational rhetoric to Republicans. He publicly criticized Biden over EV subsidies, called out the administration's limitations, pushed explicitly on Gaza ceasefire demands, and maintained that the union's support was contingent on policy outcomes — not party loyalty. He also explicitly disengaged from Trump, refusing to meet with him during the 2024 endorsement process even as Teamsters' Sean O'Brien took a meeting at Mar-a-Lago.
 
-**Explicit Class War Framing**
+### Explicit Class War Framing
 
 Fain embraced open class conflict language. In October 2023 during the strike, he wore a shirt reading "EAT THE RICH." He declared: "Class warfare has been going on in this country for 40 years. The problem is when the billionaire class has taken everything, they don't consider it class warfare... It's been going on for 40 years, but the only difference is now we're going to call it for what it is." He cited the statistic that three families in America hold as much wealth as the bottom 50% combined.
 
 ### 2024 Election Cycle
 
-**Biden Endorsement (January 24, 2024)**
+### Biden Endorsement (January 24, 2024)
 
 After months of withholding endorsement, the UAW formally endorsed Biden's reelection. Fain's framing was explicitly contingent: "If our endorsements must be earned, Joe Biden has earned it." He cited the picket line visit, the Belvidere plant reopening, and Biden's manufacturing investment agenda. Biden addressed members at the event: "We're fundamentally changing the economy… The days of working people being dealt out of a deal are over in this country." A friction point: a small group interrupted Biden's appearance calling for a Gaza ceasefire and unfurled a Palestinian flag — the UAW had formally called for a ceasefire.
 
-**Biden's Withdrawal and Harris Transition (July 21, 2024)**
+### Biden's Withdrawal and Harris Transition (July 21, 2024)
 
 When Biden announced his withdrawal from the presidential race, the UAW moved quickly. Within hours, the union released a statement noting Harris "walked the picket line with us in 2019" and calling for defeat of "Donald Trump and his billionaire agenda." Behind the scenes, the UAW's executive board sought specific assurances from Harris on continuation of Biden's manufacturing job investment agenda and a stronger stance on conditioning U.S. aid to Israel. Fain spoke directly with Harris, and the board was "encouraged by their conversation."
 
-**Harris Endorsement (July 31, 2024)**
+### Harris Endorsement (July 31, 2024)
 
 On July 31, 2024, the UAW formally endorsed Kamala Harris. Fain declared: "We can either re-elect a billionaire who opposes everything our union represents, or we can choose Kamala Harris, who will align with us in our fight against corporate greed." Harris held a major rally in Detroit the following week (August 7–8, 2024) with UAW members. The UAW launched a nationwide mobilization effort targeting its approximately 1 million active and retired members, investing "millions of dollars" in member contact programs.
 
-**2024 Election Outcomes**
+### 2024 Election Outcomes
 
 October 2024 polling of UAW members in battleground states showed Harris leading Trump by 22 points among UAW members overall and 29 points among members contacted by the union. Michigan UAW members favored Harris 54%–34%. Post-election analysis found that Harris won 57% of union member votes to Trump's 41% — a 16-point margin, slightly better than Biden's 14-point margin in 2020 — even as Trump won the overall working class (non-college voters) by 12 points. Harris still lost Michigan overall to Trump, and with it the presidency.
 
@@ -226,10 +226,10 @@ Jeffrey "Paycheck" Pietrzyk, another senior UAW official, died before sentencing
 
 ### The Scheme: Two Interlocking Mechanisms
 
-**Embezzlement of union dues via "master accounts":**
+### Embezzlement of union dues via "master accounts":
 UAW officials at Palm Springs, Coronado, and Lake of the Ozarks created hotel "master accounts" nominally for conferences. They then charged personal expenses — private villa rentals, $60,000+ in cigars, custom Titleist golf clubs, high-end liquor — to these accounts over weeks before and after any actual conference. Jones and co-conspirators used UAW money to pay for over $750,000 in meals, golf, and personal travel between 2010 and 2019. Jones' "Flower Fund" (nominally for flowers for deceased members) was used for personal enrichment.
 
-**Illegal payments from FCA/Stellantis (corporate bribery):**
+### Illegal payments from FCA/Stellantis (corporate bribery):
 Starting no later than 2009, FCA executives (under authorization from CEO Sergio Marchionne) paid UAW officials over $3.5 million in illegal payments — including extravagant meals, golf, luxury parties, designer goods, an Italian-made shotgun, and the payoff of former UAW VP General Holiefield's $262,000 home mortgage. The purpose: to compromise collective bargaining, gain favorable contract terms, and attempt to force a GM-FCA merger by manipulating UAW consent. Stellantis (formerly FCA US LLC) pleaded guilty in January 2021 to conspiring to violate the Taft-Hartley Act.
 
 The General Motors civil lawsuit (filed August 2020) alleged the scheme was even broader — including possible offshore accounts in Switzerland, Luxembourg, Liechtenstein, Italy, Singapore, and the Cayman Islands — and that FCA used the bribery scheme to deliberately harm GM's competitive position, potentially costing GM billions.
@@ -252,11 +252,11 @@ The Fain era has not been without controversy. The federal monitor Neil Barofsky
 
 ### Class Analysis
 
-**The UAW's Scale in Context**
+### The UAW's Scale in Context
 
 The UAW's total tracked political contributions in the 2024 cycle were $6.2 million. Its V-CAP PAC ranked 17th among all U.S. PACs at approximately $14.3 million in disbursements. These are not small figures in absolute terms — but they are tiny relative to the political spending of the industries whose workers the UAW represents.
 
-**Labor vs. Finance: A Systemic Imbalance**
+### Labor vs. Finance: A Systemic Imbalance
 
 The most illustrative comparison is between the entire U.S. labor sector and the Finance/Insurance/Real Estate (FIRE) sector:
 
@@ -273,26 +273,26 @@ The Finance sector alone outspent all U.S. labor unions combined by nearly 9-to-
 > [!money]
 > At the PAC level (where both sides face identical contribution limits), business PACs still outspent labor PACs by roughly 7-to-1 in 2024. Business and corporate-related PACs raised approximately $756 million; for every $1 unions spent on political contributions, business interests spent approximately $16 — a 16-to-1 ratio in total contributions. In outside spending, the UAW's $450,953 in independent expenditures is less than 0.3% of what a single business-aligned Super PAC (America PAC) spent in 2024 ($172 million). **Lobbying reveals the starkest asymmetry: Business lobbying totaled $1.055 billion (87.48% of all lobbying); Labor lobbying totaled $14 million (1.16%) — a 75-to-1 ratio.**
 
-**Structural Factors Compounding the Spending Disparity**
+### Structural Factors Compounding the Spending Disparity
 
 Several factors compound the spending imbalance: UAW political money comes primarily from voluntary member contributions to V-CAP (capped voluntary donations) and organizational soft money transfers from general dues. Corporate political money increasingly flows through unlimited Super PACs funded from corporate treasuries with no per-donor limit. The 2010 *Citizens United v. FEC* ruling allowed unlimited corporate and union treasury spending in elections, but corporations have far greater treasury sizes. Outside spending grew from $574 million in 2008 to $4.5 billion in 2024 — a nearly 8x increase — and corporate interests captured most of that growth. Private-sector union membership has fallen from approximately 35% of the private workforce in the 1950s to approximately 6% today. The UAW's 370,000–400,000 active members represent a fraction of their Cold War peak. Even accepting inflated management-aligned estimates of total union political and lobbying spending in 2024 at $1.8 billion (across all unions, including soft money and LM-2 Schedule 16 disclosures), the FIRE sector alone outspent all U.S. labor by 1.4-to-1. Corporate political power operates through both electoral spending and direct regulatory/lobbying access through trade associations, revolving door appointments, and business councils — channels with no union equivalent at scale.
 
-**Internal Class Hierarchy**
+### Internal Class Hierarchy
 
 The corruption scandal revealed that union leadership operated as a self-dealing elite — accepting bribes from the same auto executives they were supposed to be bargaining against. The Fiat Chrysler bribery scheme meant that contract negotiations were partially rigged: executives paid UAW leaders to accept weaker contracts. Members' dues funded leadership's luxury spending ($750,000+ in meals/golf/cigars, $262,000 mortgage payoffs for executives). The structure that the consent decree reformed — indirect elections, opaque finances, concentration of power in the International Executive Board — was a class hierarchy within the union itself.
 
 > [!contradiction]
 > The UAW spent $6.2 million supporting Democrats in 2024, then endorsed a signature Trump policy (auto tariffs) in 2025. Fain's position — supporting tariffs while opposing the president who imposed them — reveals the class fracture in Democratic coalition politics. The union's members benefit from protectionism. The union's political allies are free-trade Democrats. The tariff endorsement is rational for workers and heretical for the party. This is the structural tension that cost Democrats working-class voters: the party's donor class (tech, finance, corporate) benefits from free trade; the party's base (labor, manufacturing) does not.
 
-**The EV Transition: The Existential Test**
+### The EV Transition: The Existential Test
 
 Electric vehicles require fewer parts and less assembly labor than internal combustion vehicles. If the transition proceeds on management's terms — non-union battery plants, automated assembly, Southern right-to-work states — the UAW shrinks. If the transition proceeds on the UAW's terms — union battery plants, prevailing wages, existing communities — the UAW survives. The 2023 contract's right-to-strike-over-plant-closures is the union's primary leverage. The political spending buys the NLRB enforcement and trade policy that determines which version of the transition materializes.
 
-**2024 Election: The Limits of Vote-for-Money Calculus**
+### 2024 Election: The Limits of Vote-for-Money Calculus
 
 The 2024 election exposed the limits of the UAW's political strategy. The union spent $6.2 million supporting Democrats, endorsed Harris, mobilized aggressively in swing states, and won 57% of union households — yet Harris lost Michigan overall and the presidency. As Trump made larger gains among non-union working-class voters, the UAW's ability to mobilize its own membership — however successfully — proved insufficient to overcome broader working-class defection from the Democratic coalition. Fain's aspiration to recruit a broader "working-class fight" beyond unionized sectors collided with electoral reality.
 
-**The Structural Reality of Labor Political Power**
+### The Structural Reality of Labor Political Power
 
 Fain articulated the union's strategic theory explicitly: "The billionaire class and the corporate class have the money, but the working class have the votes. And so as long as they support our initiatives, they're going to win." This reflects the UAW's compensation for financial disadvantage with member mobilization, swing-state concentration, and earned media through direct action like the Stand-Up Strike. Whether that calculus produced sufficient political return in 2024 is debatable: Harris won 57% of union member votes but lost Michigan — and with it, the presidency — as Trump made larger gains among non-union working-class voters, precisely the population Fain had aspired to recruit into the broader "working-class fight."
 
@@ -318,7 +318,7 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 
 ### Sources
 
-**FEC & Government Data (Tier 1):**
+### FEC & Government Data (Tier 1):
 - [OpenSecrets: UAW organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/united-auto-workers/summary?id=D000000070) (Tier 1) (Chrome-verified)
 - [OpenSecrets: UAW organization totals across all cycles](https://www.opensecrets.org/orgs/united-auto-workers/totals?cycle=A&id=d000000070) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: UAW V-CAP PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2024) (Tier 1) (UNVERIFIED)
@@ -330,7 +330,7 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 - [OpenSecrets: FIRE Sector Totals 2024](https://www.opensecrets.org/industries/totals?cycle=2024&ind=F) (Tier 1) (UNVERIFIED)
 - [FEC: PAC Table 4b 2024](https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/pac/PAC4b_2024_24m.xlsx) (Tier 1)
 
-**DOJ & Law Enforcement (Tier 1):**
+### DOJ & Law Enforcement (Tier 1):
 - [DOJ: Progress Towards Reforming the UAW](https://www.justice.gov/usao-edmi/pr/progress-towards-reforming-uaw) (Tier 1) (Chrome-verified)
 - [DOJ: Gary Jones sentencing](https://www.justice.gov/usao-edmi/pr/former-international-uaw-president-gary-jones-sentenced-prison-embezzling-union-funds) (Tier 1)
 - [DOJ: Direct Election Order](https://www.justice.gov/usao-edmi/pr/district-judge-enters-order-approving-historic-change-uaw-constitution-and-system) (Tier 1)
@@ -340,7 +340,7 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 - [UAW Monitor Website](https://www.uawmonitor.com/about) (Tier 1)
 - [UAW Monitor Reports](https://www.uawmonitor.com/reports) (Tier 1)
 
-**Major Investigative & News Journalism (Tier 2):**
+### Major Investigative & News Journalism (Tier 2):
 - [CNBC: UAW President Shawn Fain under investigation by federal monitor](https://www.cnbc.com/2024/06/10/uaw-president-shawn-fain-federal-monitor-investigation.html) (Tier 2) (Chrome-verified)
 - [NPR: UAW Endorses Biden](https://www.npr.org/2024/01/24/1226590769/biden-uaw-autoworkers) (Tier 2)
 - [New Yorker: Biden's picket line visit](https://www.newyorker.com/news/our-columnists/joe-bidens-visit-to-a-uaw-picket-line-was-a-powerful-political-gesture) (Tier 2)
@@ -355,7 +355,7 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 - [LA Times: Harris Detroit rally](https://www.latimes.com/opinion/story/2024-08-08/union-working-class-voters-kamala-harris-tim-walz-detroit-uaw-rally) (Tier 2)
 - [USA Today: UAW monitor changes December 2025](https://www.usatoday.com/story/cars/news/2025/12/22/uaw-union-culture-changes-federal-monitors-report/87884218007/) (Tier 2)
 
-**Labor & Analysis Journalism (Tier 3):**
+### Labor & Analysis Journalism (Tier 3):
 - [Labor Notes: Stand-Up Strike results](https://labornotes.org/2023/10/big-3-buckled-stand-strike-spread) (Tier 3)
 - [Labor Notes: UAW reformers clinch presidency](https://labornotes.org/2023/03/uaw-reformers-clinch-presidency) (Tier 3)
 - [In These Times: UAW Strike GOP response](https://inthesetimes.com/article/uaw-auto-workers-strike-gop-republicans-china-electric-vehicles) (Tier 3) (UNVERIFIED)
@@ -364,16 +364,16 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 - [Quorum: Corporate vs Labor spending](https://www.quorum.us/blog/corporate-donations/) (Tier 3)
 - [Center for American Progress: Union vote 2024](https://www.americanprogressaction.org/article/while-other-voters-moved-away-from-the-democrats-union-members-shifted-toward-harris-in-2024/) (Tier 3)
 
-**Alternative/Specialized Sources (Tier 4):**
+### Alternative/Specialized Sources (Tier 4):
 - [Common Dreams: UAW withholds Biden endorsement](https://www.commondreams.org/news/uaw-withholds-biden-endorsement-2024-just-ev-transition) (Tier 4)
 - [Real News Network: Fain DNC speech interview](https://therealnews.com/exclusive-uaws-shawn-fain-on-trump-democrats-winning-the-class-war) (Tier 4)
 - [World Socialist Web Site: UAW monitor report November 2024](https://www.wsws.org/en/articles/2025/11/24/dngo-n24.html) (Tier 4)
 
-**Union Documents & Primary Sources (Tier 1):**
+### Union Documents & Primary Sources (Tier 1):
 - [UAW Solidarity Magazine: 2023 Big Three Strike issue](https://uaw.org/wp-content/uploads/2023/11/2023_Solidarity_Mag_Big_Three_issue-1.pdf) (Tier 1)
 - [UAW: October 2024 member polling](https://uaw.org/uaw-poll-shows-member-support-for-harris-growing-significantly-in-battleground-states-as-unions-member-engagement-program-delivers-results/) (Tier 1)
 
-**Reference Sources (Tier 3):**
+### Reference Sources (Tier 3):
 - [Wikipedia: 2023 United Auto Workers strike](https://en.wikipedia.org/wiki/2023_United_Auto_Workers_strike) (Tier 3)
 - [Union Democracy: UAW consent decree referendum](https://uniondemocracy.org/victory-for-uaw-reformers-consent-decree-referendum-mandates-direct-election-of-top-officers/) (Tier 3)
 - [People's World: Fain wins UAW](https://peoplesworld.org/article/riding-wave-of-reform-and-renewal-shawn-fain-wins-uaw-presidency/) (Tier 3)

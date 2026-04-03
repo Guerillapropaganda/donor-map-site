@@ -49,7 +49,7 @@ Kirk operated three interlocking revenue streams that made him simultaneously a 
 **Bradley Impact Fund** — [[Bradley Foundation]]
 The single largest documented foundation donor to TPUSA: $23.6 million from 2014 to 2023. The Bradley Foundation is a Milwaukee-based conservative foundation with $900M+ in assets that funds the full right-wing policy infrastructure: AEI, Heritage Foundation, Manhattan Institute, and TPUSA. Bradley money flows through its "Impact Fund" vehicle, which routes grants while obscuring ultimate donor identities.
 
-**Wayne Duddlesten Foundation**
+### Wayne Duddlesten Foundation
 A Texas private foundation that gave TPUSA $13.1 million — a figure that had not been previously reported until a September 2025 Forbes investigation. Wayne Duddlesten is a Houston commercial real estate developer. The size of this gift makes Duddlesten one of the largest single donors in TPUSA's history.
 
 **DonorsTrust** — [[DonorsTrust]]
@@ -61,13 +61,13 @@ Home Depot co-founder. A significant TPUSA backer whose foundation has been docu
 **Richard and Elizabeth Uihlein** — [[Richard and Elizabeth Uihlein]]
 Uline packaging billionaires. The Ed Uihlein Family Foundation gave TPUSA $275,000 documented between 2014–2016. Additional amounts are believed to have flowed through intermediary vehicles. Uihlein is among the top five individual conservative mega-donors in the country.
 
-**Foster Friess (deceased) / Lynn Friess**
+### Foster Friess (deceased) / Lynn Friess
 Wyoming investment billionaire. Friess was an early and vocal TPUSA supporter. He died in 2021; his widow Lynn Friess announced continued support for TPUSA following Kirk's assassination in 2025.
 
 **Koch Network** — [[Koch Network - Charles Koch]]
 Multiple Koch-adjacent funding vehicles (including Stand Together and its affiliate network) have supported the TPUSA ecosystem. The Bradley Impact Fund itself has deep Koch ideological alignment. The connection is documented indirectly but consistently across donor watchdog reporting.
 
-**Julie Fancelli**
+### Julie Fancelli
 Publix supermarket heiress. Gave $1.25 million to Kirk's organizations specifically to fund transportation to the January 6, 2021 Stop the Steal rally.
 
 > [!money]
@@ -145,16 +145,16 @@ Kirk's audience capture operated through a dual mechanism: institutional infrast
 
 ### What Their Funders Got
 
-**Return on investment — Bradley Foundation ($23.6M):**
+### Return on investment — Bradley Foundation ($23.6M):
 Anti-DEI narratives went from fringe campus activism in 2014 to federal executive orders by 2025. Kirk's 2,000-chapter network was the ground-level distribution infrastructure for "critical race theory" panic that resulted in state legislative bans across 18+ states. The donor who funded the messenger got the policy.
 
-**Return on investment — Uihlein network:**
+### Return on investment — Uihlein network:
 Anti-union content normalized across college campuses in states where Uline operates logistics facilities. Kirk's messaging on "economic freedom" functioned as pre-emptive inoculation against labor organizing among young workers who had passed through TPUSA chapters.
 
-**Return on investment — Stop the Steal funders:**
+### Return on investment — Stop the Steal funders:
 The election denial infrastructure Kirk built through Turning Point Action — and the January 6 rally involvement — directly served Trump's goal of delegitimizing the 2020 election result. No prosecutorial accountability for funders has materialized.
 
-**Return on investment — Mega-donor class collectively:**
+### Return on investment — Mega-donor class collectively:
 TPUSA's Campus Victory Project helped elect conservative student government leaders at hundreds of universities — training the next generation of Republican operatives, donors, and candidates. The Koch network's "pipeline" strategy (fund youth infrastructure → produce ideologically loyal politicians) had its most successful implementation in TPUSA.
 
 ---

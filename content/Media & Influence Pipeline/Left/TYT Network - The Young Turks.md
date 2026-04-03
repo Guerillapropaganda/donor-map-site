@@ -29,21 +29,21 @@ The network entered a period of institutional fracture in 2024-2025 with co-host
 
 TYT's revenue structure has five layers, listed by analytical importance rather than revenue share:
 
-**Layer 1 — Venture capital (historical, governance-defining):**
+### Layer 1 — Venture capital (historical, governance-defining):
 - 2014: $4M from Roemer, Robinson, Melville & Co. (RRM), a private equity fund led by former Republican Louisiana Governor Buddy Roemer. The deal included an advisory board seat for RRM and an option to increase to $8M. A Republican PE fund had governance rights over a progressive media network from 2014 onward.
 - 2017: $20M round led by 3L Capital (Shawn Colo), with participation from WndrCo (Jeffrey Katzenberg), Greycroft, and e.ventures. Katzenberg's WndrCo took an equity stake. Board member Kenan Turnacioglu (Pointstate Capital) joined as part of the restructuring.
 - Total institutional capital: $24M. The VC layer defines governance, not just revenue.
 
-**Layer 2 — Subscription revenue (~50% of total):**
+### Layer 2 — Subscription revenue (~50% of total):
 TYT operates a paid membership tier at approximately $10/month. At peak (circa 2018), Digiday reported 27,000 paid subscribers — roughly $3.2M/year (Cenk claimed 30K on TYT's website but attributed the discrepancy to a technical error). The 2017 round was explicitly earmarked to grow this line: Cenk Uygur told Digiday the plan was to "build out the rest of our team — tech team, a data team, a product team" to scale subscriptions. Current subscriber count is not publicly disclosed; the Kasparian realignment and Uygur's MAGA pivot likely caused churn, but no independent reporting has quantified it.
 
-**Layer 3 — YouTube ad revenue (~35-40% of total):**
+### Layer 3 — YouTube ad revenue (~35-40% of total):
 The flagship channel generates an estimated $248K/month in YouTube ad revenue based on 35.9M monthly views. With 71,256 total videos uploaded, TYT is one of the most prolific political channels on the platform. YouTube's algorithm and ad policies are a structural dependency.
 
-**Layer 4 — Live events and merchandise:**
+### Layer 4 — Live events and merchandise:
 Smaller revenue stream. TYT has held live events and fundraisers, but this is not a major revenue line.
 
-**Layer 5 — Platform diversification (emerging):**
+### Layer 5 — Platform diversification (emerging):
 Recent expansion into Roku and YouTube Premium streaming. Scale and revenue impact unclear.
 
 > [!money]
@@ -55,11 +55,11 @@ Recent expansion into Roku and YouTube Premium streaming. Scale and revenue impa
 
 TYT is a privately held media company and does not make political contributions as an entity. For principal and employee giving:
 
-**Principal giving:**
+### Principal giving:
 - **Cenk Uygur:** $98,353.62 across 18 contributions (2022-2024). 55% self-funded (own campaign + Rebellion PAC), 30% Democratic causes. Largest single personal donor in the left media pipeline. See [[Cenk Uygur]] for full breakdown.
 - **Ana Kasparian:** $1,150 total. Largest: $1,000 to Cenk Uygur's Rebellion PAC (Nov 2019). See [[Ana Kasparian]] for breakdown.
 
-**Employee giving (FEC API: employer = "The Young Turks"):**
+### Employee giving (FEC API: employer = "The Young Turks"):
 - **Total contributions:** 411 (FEC API pagination count, 2013-2025)
 - **Party split:** ~100% Democratic/progressive. No Republican recipients identified in sampled data.
 - **Key recipients:** ActBlue, Harris Victory Fund, Bernie Sanders, Justice Democrats, Rashida Tlaib, Wolf-PAC, Cenk for America
@@ -76,19 +76,19 @@ TYT is a privately held media company and does not make political contributions 
 
 ### Who Funds Them
 
-**Buddy Roemer (RRM Private Equity) — $4M (2014)**
+### Buddy Roemer (RRM Private Equity) — $4M (2014)
 Roemer was Republican governor of Louisiana (1988–1992) and ran for the Republican and Reform Party presidential nominations in 2012 on a campaign finance reform platform. His investment in TYT was framed around shared campaign finance reform values — Roemer leads The Reform Project, Uygur founded Wolf-PAC. The framing doesn't change the structure: Republican private equity money was the first institutional capital in progressive media's flagship operation. RRM received advisory board governance and an option to double to $8M. Roemer died in 2021; the status of RRM's equity stake and governance rights post-death is unreported.
 
-**Jeffrey Katzenberg (WndrCo) — part of $20M round (2017)**
+### Jeffrey Katzenberg (WndrCo) — part of $20M round (2017)
 Katzenberg is the former chairman of Walt Disney Studios and co-founder of DreamWorks. He is among the most prolific Democratic mega-donors in Hollywood history — major bundler for Obama, Clinton, and Biden. His mobile-entertainment holding company WndrCo took an equity stake in TYT. Katzenberg's investment brought TYT into the same donor-class orbit as the mainstream Democratic politicians TYT covered. As of 2025, TYT remained on WndrCo's portfolio list — Katzenberg has not exited.
 
-**3L Capital (Shawn Colo) — led $20M round (2017)**
+### 3L Capital (Shawn Colo) — led $20M round (2017)
 Growth equity firm that led the 2017 round and placed Colo on TYT's board. Goldman Sachs-funded institutional investor providing oversight of a progressive media operation. Board member Kenan Turnacioglu (Pointstate Capital) joined as part of the restructuring — Turnacioglu was a documented Clinton donor during the 2016 primary.
 
-**Greycroft (Alan Patricof) — participated in $20M round (2017)**
+### Greycroft (Alan Patricof) — participated in $20M round (2017)
 Venture capital fund founded by Alan Patricof, who served as Hillary Clinton's national finance chairman. A man who personally raised money for the Democratic establishment's preferred 2016 candidate holds equity in the media network that claimed to challenge that establishment.
 
-**e.ventures — participated in $20M round (2017)**
+### e.ventures — participated in $20M round (2017)
 Venture capital fund. Part of the institutional investor stack that holds TYT equity.
 
 > [!money]
@@ -116,15 +116,15 @@ TYT's editorial output over the 2005-2026 period organized around five persisten
 
 TYT's audience capture operated in three distinct phases:
 
-**Phase 1 — Left-audience capture (2005-2022):**
+### Phase 1 — Left-audience capture (2005-2022):
 YouTube-native progressive content optimized for the platform's algorithm: outrage cycles, Republican-dunking, and progressive validation. The algorithm rewarded emotional intensity. TYT's criticism of Republicans was consistent; its criticism of the Democratic donor class was softer and less likely to name the investors TYT shared with Democratic politicians. At peak, 13M+ subscribers across the network's channels.
 
-**Phase 2 — Fracture (2024-2025):**
+### Phase 2 — Fracture (2024-2025):
 Ana Kasparian's public political realignment — breaking with progressive orthodoxy on issues including Israel-Palestine rhetoric — created an existential editorial crisis. On May 1, 2025, Kasparian joined "Her Take," a conservative-leaning panel show created by Patrick Bet-David (Valuetainment), alongside Jillian Michaels and Lindy Li. As of March 2026, Kasparian has not formally departed TYT and continues to appear on the main show — she is simultaneously working for both TYT and Valuetainment. This dual-platform positioning is itself an audience capture phenomenon: Kasparian maintains the TYT salary (Katzenberg equity money) while building an exit ramp through conservative media infrastructure.
 
 The departures and realignments follow a pattern: Jimmy Dore (left-populist exit, April 2019) → Ana Kasparian (centrist/right realignment, 2024-2025, still technically on TYT) → Cenk's MAGA pivot (2024-present). Three fractures from TYT's ideological center in six years. The center did not hold — but unlike Dore's clean break, Kasparian's straddling of both platforms reveals that the fracture is economic as much as ideological.
 
-**Phase 3 — Anti-establishment rebranding (2025-2026):**
+### Phase 3 — Anti-establishment rebranding (2025-2026):
 Post-Kasparian, the flagship channel holds 6.53M subscribers with ~60K new subscribers and 35.9M views in the most recent 30-day period. The content has shifted toward "anti-establishment populism" — Uygur criticizing both parties in a frame that generates engagement without requiring him to name his own investors. The algorithmic incentive (controversy = views) aligns with the new positioning.
 
 > [!contradiction]

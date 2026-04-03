@@ -30,15 +30,15 @@ Enterprise Products wants to preserve and expand fossil fuel infrastructure — 
 > [!money] Follow the Money
 > Enterprise Products leans strongly Republican. In the 2024 cycle, total contributions reached $768,170 (86% from individuals, 14% from PACs), with 80% going to Republican candidates. The company spent $1.08M on lobbying in 2024.
 
-**2024 cycle contributions ($768,170 total):**
+### 2024 cycle contributions ($768,170 total):
 - 80% to Republican candidates
 - Top recipients: RNC ($86K), NRSC ($72K), Nella Louise Domenici (R, $46K), Tony Gonzales (R-TX, $27K)
 - Enterprise Products PAC: $83K to candidates (89% Republican)
 
-**Lobbying:**
+### Lobbying:
 - 2024 expenditures: $1.08M
 
-**FY2025 financials:**
+### FY2025 financials:
 - Revenue: $52.6B (down from $56.2B in 2024)
 - Net income: $5.88B ($2.66/unit)
 - Record adjusted cash flow from operations: $8.7B

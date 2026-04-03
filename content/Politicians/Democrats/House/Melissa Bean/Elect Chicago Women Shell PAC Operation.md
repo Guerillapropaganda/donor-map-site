@@ -1,7 +1,7 @@
 ---
 title: "Elect Chicago Women Shell PAC Operation"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: "_Melissa Bean Master Profile"
@@ -73,10 +73,10 @@ No ad mentioned Israel, Gaza, or foreign policy. This was strategic. By 2026, th
 
 Elect Chicago Women's donor structure, disclosed March 20, 2026:
 
-**Institutional funders:**
+### Institutional funders:
 - [[United Democracy Project - UDP|United Democracy Project]] (AIPAC super PAC arm): $4,042,000 — the controlling donor; establishes ECW as a UDP-directed entity
 
-**Individual high-dollar donors:**
+### Individual high-dollar donors:
 - Anthony Davis, President of Linden Capital Partners (Chicago private equity): $1,500,000
 - Blair Frank, portfolio manager at Capital Group (institutional asset management): $1,000,000
 - Michael Sacks, CEO of GSM Grosnover and Northwestern University trustee: $900,000

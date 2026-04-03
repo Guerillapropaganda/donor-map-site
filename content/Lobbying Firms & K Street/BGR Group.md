@@ -113,37 +113,37 @@ BGR Group was built on the revolving door from its founding moment. Haley Barbou
 
 With **86.1% of 2024 lobbyists being former government employees** — the highest rate in this vault's tracked lobbying cohort — BGR is less a law/lobbying firm and more a structured mechanism for converting public-sector Republican relationships into private revenue.
 
-**Haley Barbour — Founding Partner**
+### Haley Barbour — Founding Partner
 Former Government Position: Special Assistant to President Reagan; Director, White House Office of Political Affairs; Chairman, Republican National Committee (1993–1997); Governor of Mississippi (2004–2012).
 Lobby Focus: Healthcare, defense, energy, agriculture, tobacco, financial services.
 Key Clients: American Health Care Assn, British American Tobacco (Reynolds American), Enterprise Products, Huntington Ingalls, Southern Co, University of Mississippi.
 Why It Matters: Barbour is the archetypal revolving door figure. He built the Republican establishment as RNC Chair, raising hundreds of millions in the 1994 and 1996 cycles. He then traded those relationships at BGR, stepped away to serve as governor, and returned to BGR lobbying immediately after his governorship. His client list — tobacco, fossil fuels, defense contractors, nursing homes — maps precisely onto the industries that benefit most from Republican federal governance. Barbour doesn't just have relationships; he *is* the Republican establishment.
 
-**Ed Rogers — Founding Partner**
+### Ed Rogers — Founding Partner
 Former Government Position: Special Assistant to President Reagan (Deputy Director, Office of Political Affairs); Deputy Assistant to President George H.W. Bush.
 Lobby Focus: Energy, trade, foreign governments, finance.
 Key Clients: Government of Azerbaijan, Government of India, Kurdistan Regional Government, Canadian National Railway, Southern Co, Ferroglobe, Xiaomi Inc.
 Why It Matters: Rogers's White House credentials from two administrations gave BGR its founding bipartisan credibility within the Republican establishment. His foreign government work — Azerbaijan, India, China-adjacent tech (Xiaomi) — represents the firm's willingness to operate in gray zones of foreign influence where FARA registration provides legal cover but the political sensitivity remains high.
 
-**David Urban — Managing Director**
+### David Urban — Managing Director
 Former Government Position: Senior Advisor, Trump 2016 and 2020 presidential campaigns; played central role in winning Pennsylvania for Trump in 2016; served as Trump's primary cable news surrogate during 2024 campaign.
 Lobby Focus: Strategic advisory; clients include University of Pennsylvania (federal funding dispute), multiple defense and tech clients.
 Why It Matters: Urban is BGR's most valuable asset in the Trump era. He is not a conventional revolving door hire — he never held a government appointment — but his direct access to Trump is worth more than any former agency head or Senate staffer. BGR's 58% revenue surge in 2025 is directly attributable to what Urban's Trump relationship is worth to clients in the first year of a new administration. The University of Pennsylvania retained BGR specifically for Urban's Trump access when federal funding was threatened.
 
-**Sean Duffy — Former Partner (2019–2024)**
+### Sean Duffy — Former Partner (2019–2024)
 Former Government Position: U.S. Representative (R-WI), 2011–2019; House Financial Services Committee; CNN political commentator (2019–2024).
 Lobby Focus: Transportation, financial services, media.
 Why It Matters: Duffy's BGR trajectory is the most documented revolving door sequence of the firm's recent history. He left Congress, joined CNN as a political commentator while simultaneously registering as a BGR lobbyist — Media Matters documented the conflict of interest in real time. He lobbied for airline industry clients at BGR while appearing on CNN as a "political analyst." He then lobbied for clients whose positions conflicted with Trump's stated positions on airline consumer fees — documented by Newsweek. Trump nonetheless nominated him as Transportation Secretary in November 2024, and he was confirmed. A BGR partner went from CNN pundit to cabinet secretary, with a lobbying phase in between, in five years.
 
-**Lt. Gen. Keith Kellogg, U.S. Army (Ret.) — Advisory Board (January 2026)**
+### Lt. Gen. Keith Kellogg, U.S. Army (Ret.) — Advisory Board (January 2026)
 Former Government Position: Assistant to the President and Special Presidential Envoy for Ukraine and Russia (appointed November 2024); National Security Advisor to Vice President Pence; Acting National Security Advisor to President Trump (Feb 2017); 35-year military career including combat commands and executive defense roles.
 Why It Matters: Kellogg's addition to BGR's advisory board in January 2026 — after stepping down as Trump's Ukraine-Russia envoy — represents the latest and most direct Trump-to-BGR pipeline. His appointment puts a figure who was literally negotiating with foreign heads of state weeks earlier onto BGR's advisory board, where his relationships with Trump's inner circle, the National Security Council, and foreign government counterparts are now available to BGR's defense, foreign government, and FARA clients. For BGR's Somalia, Panama, Azerbaijan, and India FARA portfolios, Kellogg's NSC relationships are commercially invaluable.
 
-**Charlie Chapman — Vice President, Health & Life Sciences (March 2026)**
+### Charlie Chapman — Vice President, Health & Life Sciences (March 2026)
 Former Government Position: Policy Advisor in the Immediate Office of the Secretary at the Department of Health and Human Services under the Trump-Vance administration, where he provided counsel on CMS policy and operational issues; previously Professional Staff Member on the House Budget Committee advising on healthcare programs and budgetary policy; also served at the 2024 Republican National Convention and on the Trump-Vance 60th Presidential Inaugural Committee.
 Why It Matters: Chapman moved directly from Trump's HHS to BGR's health practice — the textbook revolving door hire that converts current administration relationships into corporate access. His CMS expertise is immediately monetizable for BGR's pharma client portfolio: PhRMA, Pfizer, Amgen, GSK, Novartis, Bayer, Centene, CVS Health, and Walgreens all have direct exposure to CMS reimbursement and drug pricing decisions. Chapman provides BGR's healthcare clients a lobbyist who was sitting in the Secretary's office at HHS months ago — making regulatory decisions on the same issues he now lobbies on.
 
-**Lanny Griffith — Founding Partner (deceased)**
+### Lanny Griffith — Founding Partner (deceased)
 Former Government Position: Executive Director, Mississippi Republican Party; senior operative, Bush-Quayle campaigns; participated in Reagan-era Republican infrastructure-building.
 Why It Matters: Griffith completed the founding triumvirate's Republican establishment credentials. His 30-year tenure until his death represented BGR's institutional continuity from Reagan through Trump.
 

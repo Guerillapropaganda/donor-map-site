@@ -1,7 +1,7 @@
 ---
 title: "CalSTRS - California State Teachers' Retirement System"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null

@@ -1,7 +1,7 @@
 ---
 title: "The Veterans Affairs and Iowa Agriculture"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: "[[_Joni Ernst Master Profile]]"

@@ -41,12 +41,12 @@ This is a **platform-dependent** model masquerading as diversified: Patreon subs
 
 ### Who Funds Them
 
-**Direct funders:**
+### Direct funders:
 - YouTube/Google, via AdSense algorithm (Tier 1: YouTube policy changes directly control revenue)
 - Patreon community (Tier 3: audience-sourced, individual small donations averaging $3-20/month)
 - Sponsorship/advertiser networks (Tier 2: unnamed brand partnerships, affiliate revenue)
 
-**Indirect funders (corporate infrastructure):**
+### Indirect funders (corporate infrastructure):
 - Discovery Digital Networks (2013-2016: acquired DeFranco's operations, controlled editorial direction)
 - Group Nine Media (2016-2017: Discovery-backed rollup, attempted to integrate DeFranco into "content studio" model)
 
@@ -128,13 +128,13 @@ DeFranco's centrist frame trains audiences to distrust left-wing institutional c
 
 **Platform Funder:** YouTube (primary, declining); Patreon (secondary, increasing importance)
 
-**Income Dependency Breakdown:**
+### Income Dependency Breakdown:
 - YouTube AdSense: Est. 40-50% of annual revenue (declining due to demonetization)
 - Patreon: Est. 25-35% of annual revenue (rising, critical to sustainability)
 - Sponsorships/Affiliate: Est. 15-25% (opaque, brand-deal dependent)
 - Merchandise/Licensing: Est. 5-10%
 
-**Editorial Red Lines:**
+### Editorial Red Lines:
 - Cannot criticize YouTube's algorithm or business model (loses 40% revenue)
 - Cannot conduct detailed donor-class analysis (loses advertiser comfort, Patreon conversions)
 - Cannot take structural left-wing positions (loses "centrist skeptic" brand identity worth ~$600K/year)

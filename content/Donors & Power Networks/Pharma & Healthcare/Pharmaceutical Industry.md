@@ -1,7 +1,7 @@
 ---
 title: "Pharmaceutical Industry"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -17,7 +17,7 @@ related: [[Pharmaceutical Industry Bloc]] [[PhRMA]] [[Gilead Sciences]] [[Modern
 
 The Pharmaceutical Industry is the collective political operation of America's drug manufacturers — led by [[PhRMA]] (the trade association representing 68 brand-name drug makers) and individual pharma giants (Pfizer, Johnson & Johnson, Merck, AbbVie, Eli Lilly, Bristol Myers Squibb, Novartis, Roche, Novo Nordisk, Gilead Sciences). The pharmaceutical industry operates the most expensive lobbying apparatus in Washington and has for over two decades running.
 
-**Scale of the political operation (2024-2025):**
+### Scale of the political operation (2024-2025):
 - Annual federal lobbying: $451.8 million (2025) — up from $391 million in 2024, the largest single-year increase on record
 - Registered lobbyists: 1,893 (2025), of which 51.6% are former government employees
 - Top lobbying client: PhRMA at $38.2 million (2025), followed by Pharmaceutical Care Management Association ($13.7M), Amgen ($13.3M), Pfizer ($12.7M), Roche ($11.4M), Eli Lilly ($11.2M), Merck ($11.0M)
@@ -55,20 +55,20 @@ The industry's bipartisan contribution strategy ensures both parties serve these
 
 The pharmaceutical industry's contribution pattern is strategically bipartisan, with money flowing to committee gatekeepers who control drug pricing legislation:
 
-**Key committee targets:**
+### Key committee targets:
 - Senate Finance Committee (jurisdiction over Medicare/Medicaid)
 - Senate HELP Committee (FDA oversight, drug safety)
 - House Energy & Commerce Committee (health subcommittee, FDA authorization)
 - House Ways & Means Committee (Medicare reimbursement)
 
-**2024 cycle top congressional recipients:**
+### 2024 cycle top congressional recipients:
 - Bob Casey (D-PA, Senate) — $624,574
 - Jon Tester (D-MT, Senate) — $576,423
 - Brett Guthrie (R-KY, House) — $534,102 (Energy & Commerce ranking member)
 
 **Bipartisan split:** The industry's party-line giving has oscillated based on which party controls Congress, but consistently funds both sides. Kamala Harris received $8.65 million from the pharmaceutical/health products sector in the 2024 presidential cycle; Donald Trump received $1.44 million.
 
-**Key intermediaries:**
+### Key intermediaries:
 - [[PhRMA]] — the industry's primary lobbying and dark money vehicle ($38.2M lobbying, $500M+ total political spending per cycle)
 - Individual company PACs (Pfizer PAC, Merck PAC, AbbVie PAC, etc.)
 - Third Way — pharma funded Third Way's anti-Medicare for All campaign
@@ -83,13 +83,13 @@ The pharmaceutical industry's contribution pattern is strategically bipartisan, 
 
 The pharmaceutical industry's political investment has produced the most favorable regulatory and pricing environment of any industry in any developed country. U.S. pharmaceutical revenue exceeds $600 billion annually — the world's largest market — protected by a political infrastructure that has blocked price controls for decades.
 
-**The IRA drug price negotiation battle (2022-2025):**
+### The IRA drug price negotiation battle (2022-2025):
 
 The Inflation Reduction Act of 2022 represented the industry's first major legislative loss since the creation of Medicare Part D in 2003. But the loss itself demonstrates the industry's power: PhRMA's lobbying ensured the provision was limited to 10 drugs in its first year (out of 12,000+ on the market), phased in over years, and structured with industry-friendly price floors. The pharmaceutical lobby didn't prevent negotiation — it designed a negotiation framework that minimally impacts the industry's pricing power while allowing politicians to claim victory.
 
 The industry's response to the IRA was multi-pronged: at least seven manufacturers and two trade associations filed lawsuits challenging the program's constitutionality; 63% of PhRMA member companies reported plans to shift R&D away from small molecules subject to negotiation; and the industry increased lobbying spending to record levels ($451.8M in 2025, up from $391M in 2024) to shape implementation and potential repeal.
 
-**The revolving door ecosystem:**
+### The revolving door ecosystem:
 
 The pharmaceutical industry operates the most extensive revolving door in Washington. Of the industry's 1,893 registered lobbyists in 2025, 51.6% are former government employees. Since 2000, every FDA commissioner has gone on to work for industry. 145 out of 206 PhRMA lobbyists in 2022 were former federal employees. A 2024 BMJ investigation revealed that FDA ethics rules contain a loophole allowing former staff to lobby for industry "behind the scenes" immediately after leaving government service — they are prohibited from direct contact but permitted to direct and strategize lobbying campaigns.
 

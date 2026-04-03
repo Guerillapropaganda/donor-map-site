@@ -26,7 +26,7 @@ parent: null
 
 **Classification:** GOLD — major update to existing March 31 Silver story (31 corporations). Scale has tripled.
 
-**What's new since March 31:**
+### What's new since March 31:
 - Public Citizen's tracker now documents enforcement actions against **over 100 corporations** stopped by the Trump administration — up from the 31-corporation count logged March 31
 - At least **17 corporations** that donated to Trump's inaugural fund ($50M combined) have had federal enforcement cases dropped or paused
 - Specific named corporations: Bank of America, Capital One, Coinbase, DuPont, JPMorgan — all inaugural donors, all enforcement cases dismissed
@@ -34,17 +34,17 @@ parent: null
 - Ripple: Biden's SEC sought $1.95B in penalties; Trump's SEC settled for $125M. Ripple contributed $4.9M to inauguration
 - Google ($1M inaugural donation): DOJ scrapped proposed breakup plan requiring Google to sell AI businesses
 
-**Why this escalates:**
+### Why this escalates:
 The March 31 discovery logged the 31-corporation tracker as Silver. At 100+ enforcement actions canceled — with a documented $50M inaugural-donor-to-enforcement-cancellation pipeline involving named corporations — this is now a Gold-tier systematic pattern. The donation-to-policy timeline is explicit: inaugural donation → enforcement case dropped, often within months.
 
 **Key analytical patterns:** Donor-Class Override, Both-Sides Illusion (bipartisan corporate donors buying enforcement immunity)
 
-**Vault connections:**
+### Vault connections:
 - [[Cryptocurrency Industry]] (Coinbase, Ripple already profiled)
 - Trump Cabinet / Trump donor profiles
 - Existing Intuit/Direct File story (March 31 Gold)
 
-**Sources (UNVERIFIED — Chrome unavailable):**
+### Sources (UNVERIFIED — Chrome unavailable):
 - [Public Citizen: Canceled Corporate Enforcement](https://www.citizen.org/article/canceled-corporate-enforcement-trump-first-year-second-term/) (Tier 2)
 - [Truthout: Trump Drops or Pauses Cases Against 17 Inaugural Donor Corporations](https://truthout.org/articles/trump-drops-or-pauses-cases-against-17-corporations-that-funded-his-inauguration/) (Tier 2)
 - [Common Dreams: 'See How This Works?'](https://www.commondreams.org/news/trump-corporations-inauguration) (Tier 2)
@@ -57,7 +57,7 @@ The March 31 discovery logged the 31-corporation tracker as Silver. At 100+ enfo
 
 **Classification:** GOLD — new. First major 2026 primary test of AIPAC's electoral spending machine, with mixed results that update the vault's Israel Lobby donor profiles.
 
-**What happened:**
+### What happened:
 - AIPAC and affiliated pro-Israel groups spent approximately **$22M of the $31M** pumped into Illinois US House Democratic primaries (March 18)
 - Result: **2 wins, 2 losses** — a significant underperformance for that spending level
 - **Loss:** Melissa Conyears-Ervin (AIPAC-backed, $4M+ in support) lost to State Rep. La Shawn Ford
@@ -66,18 +66,18 @@ The March 31 discovery logged the 31-corporation tracker as Silver. At 100+ enfo
 - **Win:** Cook County Commissioner Donna Miller won
 - AIPAC's political arm funneled over $5M to other groups with neutral-sounding names (hidden spending structure)
 
-**Why this matters for the vault:**
+### Why this matters for the vault:
 This is the first significant test of whether AIPAC's 2024 spending model (which defeated Squad members Bowman and Bush) can scale into 2026. The 50% win rate at $22M suggests diminishing returns — voters are now aware of the spending source and candidates are campaigning against AIPAC's involvement directly.
 
 **Key analytical patterns:** Donor-Class Override (attempted), Both-Sides Illusion (AIPAC funds both parties), Dark Money Symmetry (neutral-sounding PAC names hiding Israel lobby funding)
 
-**Vault connections:**
+### Vault connections:
 - [[AIPAC - American Israel Public Affairs Committee|AIPAC]] donor node — priority update target
 - [[DMFI - Democratic Majority for Israel|DMFI]] — may have been involved in Illinois spending
 - Israel Lobby section broadly
 - 2026 House Races story folder
 
-**Sources (UNVERIFIED — Chrome unavailable):**
+### Sources (UNVERIFIED — Chrome unavailable):
 - [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
 - [Common Dreams: AIPAC Flops in Illinois, Record Spending 'Full-Spectrum Disaster for Democracy'](https://www.commondreams.org/news/aipac-spending-illinois) (Tier 2)
 - [American Prospect: Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2)
@@ -90,24 +90,24 @@ This is the first significant test of whether AIPAC's 2024 spending model (which
 
 **Classification:** GOLD — new. A structurally new donor class is entering electoral politics at unprecedented scale. This is a vault-level discovery — no AI super PAC donor nodes exist yet.
 
-**What's new:**
+### What's new:
 - **Leading the Future:** Network of super PACs and 501(c)(4) nonprofits, raised $50M+ through end of 2025, targeting $100M total. Backers: Andreessen Horowitz, Greg Brockman (OpenAI co-founder), Ron Conway, Joe Lonsdale (Palantir co-founder), Perplexity AI
 - **Meta's $65M:** Committed to Forge the Future (Republican arm) and Making Our Tomorrow (Democratic arm) PACs. Also launched American Technology Excellence Project for state-level races
 - **Today's breaking news (April 1):** AI-aligned super PACs are pouring millions into Texas congressional races — Meta-backed PAC spent $1.2M+ on Texas state primaries including comptroller and Legislature
 - **Total AI super PAC ecosystem:** Leading the Future ($100M target) + Meta ($65M) + individual AI company contributions = $200M+ electoral machine for 2026
 
-**Why this matters for the vault:**
+### Why this matters for the vault:
 The AI industry is building the same bipartisan donor infrastructure that crypto (Fairshake) built in 2024. Same playbook: fund both parties, use neutral-sounding PAC names, spend on issues unrelated to AI to elect "friendly" candidates. Andreessen Horowitz appears in both crypto AND AI super PAC networks — making a16z a potential mega-hub node.
 
 **Key analytical patterns:** Both-Sides Illusion (explicit bipartisan PAC structure), Self-Funding as Independence (tech billionaires framing spending as "innovation protection"), Dark Money Symmetry (501(c)(4) arm hides donors)
 
-**Vault connections:**
+### Vault connections:
 - [[Marc Andreessen & Horowitz|a16z]] — already in vault, needs AI super PAC expansion
 - [[Cryptocurrency Industry]] — parallel spending model
 - [[Fairshake PAC - Crypto Super PAC|Fairshake PAC]] — operational template being replicated
 - Tech & Crypto donor section — new AI sub-nodes needed
 
-**Sources (UNVERIFIED — Chrome unavailable):**
+### Sources (UNVERIFIED — Chrome unavailable):
 - [Houston Public Media: AI-aligned super PACs pouring millions into Texas congressional races](https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/04/01/547787/texas-congress-ai-super-pacs-artificial-intelligence-regulation-2026-midterms/) (Tier 2)
 - [NOTUS: The AI Super PAC Fight That Might Shape the Midterms](https://www.notus.org/2026-election/ai-super-pacs-leading-the-future-public-first-alex-bores) (Tier 2)
 - [Axios: The AI influence network's power players](https://www.axios.com/2026/02/27/ai-influence-power-players) (Tier 2) (UNVERIFIED)
@@ -119,7 +119,7 @@ The AI industry is building the same bipartisan donor infrastructure that crypto
 
 **Classification:** SILVER — update to existing vault coverage. Material new numbers but core story unchanged.
 
-**What's new since March 31:**
+### What's new since March 31:
 - Fairshake now has **$191M cash on hand** — up from the $141M/$260M raised figures in prior coverage
 - Fairshake is now the **#1 most-funded super PAC** in the country by cash on hand, and #5 overall PAC
 - Spent **$8.6M on Illinois races** — sixfold increase over 2024 Illinois spending
@@ -128,13 +128,13 @@ The AI industry is building the same bipartisan donor infrastructure that crypto
 - New affiliated PACs: Digital Freedom Fund ($21M, Winklevoss twins), Fellowship PAC ($100M claimed)
 - Major backers doubling down: Coinbase, a16z, Jump Crypto, Uniswap Labs, Ripple Labs
 
-**Vault connections:**
+### Vault connections:
 - [[Fairshake PAC - Crypto Super PAC|Fairshake PAC]] — direct update
 - [[Cryptocurrency Industry]] — recently promoted to ready
 - [[Winklevoss Twins]] — Digital Freedom Fund connection
 - [[Marc Andreessen & Horowitz|a16z]] — continued funding
 
-**Sources (UNVERIFIED — Chrome unavailable):**
+### Sources (UNVERIFIED — Chrome unavailable):
 - [Citation Needed: Crypto super PACs have hundreds of millions ready for midterms](https://www.citationneeded.news/crypto-super-pacs-2026-midterms/) (Tier 2)
 - [CoinDesk: Crypto PAC Fairshake marks first wins in 2026 primaries](https://www.coindesk.com/policy/2026/03/04/crypto-election-pac-fairshake-marks-first-wins-in-2026-u-s-congressional-primaries/) (Tier 3)
 - [CoinDesk: Fairshake leaps into first midterm Senate race with $5M in Alabama](https://www.coindesk.com/policy/2026/02/10/crypto-pac-fairshake-leaps-into-first-midterm-senate-race-with-usd5-million-in-alabama/) (Tier 3)
@@ -146,20 +146,20 @@ The AI industry is building the same bipartisan donor infrastructure that crypto
 
 **Classification:** SILVER — update to existing Musk coverage. Extends the SpaceX-xAI-DOGE Diamond story into electoral spending.
 
-**What's new:**
+### What's new:
 - Musk gave **$20M to two top Republican groups** by end of 2025
 - Dropped **$10M into Kentucky Senate race** in March 2026
 - Signals Musk could play a "pivotal role" in 2026 congressional fight — same pattern as 2024 but now as sitting DOGE leader with active government contracts
 
-**Why this matters:**
+### Why this matters:
 The man running DOGE (cutting government agencies, influencing contracts) is simultaneously the largest individual donor to Republican congressional candidates. The conflict of interest isn't just about SpaceX contracts — it's about electing a Congress that will protect his position.
 
-**Vault connections:**
+### Vault connections:
 - Elon Musk donor node (Mega-Donors) — priority expansion
 - Diamond SpaceX-xAI story (ongoing)
 - 2026 Senate Races story folder
 
-**Sources (UNVERIFIED — Chrome unavailable):**
+### Sources (UNVERIFIED — Chrome unavailable):
 - [The Hill: Musk jumps back into political fray with big midterm donations](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/) (Tier 2) (UNVERIFIED)
 
 ---
@@ -168,7 +168,7 @@ The man running DOGE (cutting government agencies, influencing contracts) is sim
 
 **Flag type:** Crossover story candidate — flagged for David.
 
-**Pattern identified:**
+### Pattern identified:
 Andreessen Horowitz (a16z) now appears as a major funder in BOTH:
 1. **Fairshake PAC** (crypto) — bipartisan, $191M war chest
 2. **Leading the Future** (AI) — bipartisan, $100M target

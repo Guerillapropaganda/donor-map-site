@@ -43,22 +43,22 @@ Cuomo is the real estate donor class's preferred Democrat — a moderate who del
 > [!money] Follow the Money
 > Cuomo's 2025 mayoral campaign raised $3.6M directly. The real story is the Fix the City super PAC: $25M raised, with the real estate industry as the dominant funding source. This is donor-class political spending at its most transparent.
 
-**2025 mayoral campaign:**
+### 2025 mayoral campaign:
 - Direct campaign: $3.6M
 - Fix the City super PAC: $25M
 
-**Fix the City top donors:**
+### Fix the City top donors:
 - Michael Bloomberg: $8.3M
 - DoorDash: $1M
 - Bill Ackman: $500K
 - Real estate donors: $6M+
 
-**Income (2024):**
+### Income (2024):
 - Innovation Strategies consulting firm: $4.71M
 - State pension: $50K
 - Investments: $230K
 
-**Key endorsements (2025 mayoral):**
+### Key endorsements (2025 mayoral):
 - Eric Adams
 - Donald Trump (unusual cross-party endorsement)
 - Michael Bloomberg

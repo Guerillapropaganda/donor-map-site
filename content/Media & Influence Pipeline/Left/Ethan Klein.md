@@ -31,16 +31,16 @@ Klein met Hila at the Yad Vashem Holocaust memorial in Israel in 2007 while he w
 
 Klein's revenue runs through four primary streams, each with distinct structural dependencies:
 
-**1. YouTube Ad Revenue**
+### 1. YouTube Ad Revenue
 YouTube (Google/Alphabet) is the foundational platform. Multiple channels — h3h3Productions, H3 Podcast, H3 Podcast Highlights, and spin-off shows — generate combined estimated ad revenue of $30,000–$50,000 per month. This figure is structurally capped by YouTube's content moderation policies: two channel suspensions (May 2022 and October 2022) demonstrated that Klein's political commentary carries advertiser-flight risk. YouTube controls not just distribution but monetization eligibility, giving Google/Alphabet effective editorial veto power over content.
 
-**2. Podcast Sponsorships / Brand Deals**
+### 2. Podcast Sponsorships / Brand Deals
 Sponsorships are the primary income driver. Brand deals are managed by Tom Ward (H3's podcast manager) and negotiated per episode. Recent sponsors have included Seek, Stamps.com, Angi, LinkedIn, and Etsy — a roster of mainstream consumer and B2B brands that sets a de facto content floor: the show must remain advertiser-compatible. Earlier sponsor rosters included Squarespace, HelloFresh, and Manscaped, the dominant podcast advertiser trio of 2019–2022. Combined with ad revenue, total monthly revenue is estimated at approximately $500,000.
 
-**3. Teddy Fresh**
+### 3. Teddy Fresh
 Hila Klein founded Teddy Fresh in 2017 as a streetwear clothing brand. She serves as CEO and principal designer. The brand has achieved mainstream legitimacy — worn by Sofia Vergara, Billie Eilish, and Heidi Klum; licensed with Marvel, Looney Tunes, and Ripndip. In 2025, Hila expanded into Teddy Glow, a high-end makeup line. Teddy Fresh functions as a brand diversification hedge: it provides income not algorithmically dependent on YouTube or politically contingent on sponsors. Its success directly reduces Klein's need to remain advertiser-palatable, giving him somewhat more political latitude than creator-peers who lack a product revenue stream.
 
-**4. YouTube Channel Memberships (BBTV Dispute)**
+### 4. YouTube Channel Memberships (BBTV Dispute)
 H3H3 partnered with BBTV (Broadband TV), a Vancouver-based creator network, in 2017. In April 2023, Klein publicly accused BBTV of taking an unauthorized 30% cut of YouTube channel membership revenue — an amount he claimed totaled at least $620,000. BBTV's position was that memberships fell under "Other Net Revenue," entitling them to their standard split. After Klein went public on-stream, BBTV CEO Shahrzad Rafati agreed to repay the full $620,000. The episode exposed the MCN (multi-channel network) dependency model: creator networks extract revenue shares from creators who signed contracts without full understanding of their terms.
 
 > [!money]

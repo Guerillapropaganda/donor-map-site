@@ -1,7 +1,7 @@
 ---
 title: "AFL-CIO"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -25,7 +25,7 @@ The AFL-CIO is not a union itself — it is a federation of unions. Its members 
 
 ### The Money — Political Spending
 
-**AFL-CIO 2024 cycle summary (via OpenSecrets, ID D000000088):**
+### AFL-CIO 2024 cycle summary (via OpenSecrets, ID D000000088):
 
 | Category | Amount |
 |----------|--------|
@@ -40,7 +40,7 @@ The AFL-CIO is not a union itself — it is a federation of unions. Its members 
 
 **Source of funds:** 96.5% from the organization itself; only 3.5% from individuals. This is pure institutional money — not employee-driven like corporate PACs.
 
-**Outside spending breakdown (2024 cycle):**
+### Outside spending breakdown (2024 cycle):
 
 | Direction | Amount | Share |
 |-----------|--------|-------|
@@ -51,7 +51,7 @@ The AFL-CIO is not a union itself — it is a federation of unions. Its members 
 
 100% of AFL-CIO outside spending supported Democrats or opposed Republicans — zero bipartisan hedging. This makes the AFL-CIO the most ideologically pure major political spender in the vault, in stark contrast to corporate donors who routinely fund both sides.
 
-**Lobbying subsidiaries (2025):**
+### Lobbying subsidiaries (2025):
 
 | Subsidiary | Lobbying Spend |
 |------------|---------------|
@@ -104,7 +104,7 @@ The AFL-CIO is not a union itself — it is a federation of unions. Its members 
 > [!contradiction]
 > The AFL-CIO is the Democratic Party's most loyal institutional supporter — 100% of its outside spending goes to Democrats, zero bipartisan hedging. Yet labor's #1 legislative priority (the PRO Act) has never received a Senate floor vote, even during the 2021-2023 Democratic trifecta when Democrats controlled the Senate, House, and White House simultaneously. The structural explanation: corporate donors who oppose the PRO Act contribute more to individual Democratic senators than labor does, and those senators can block legislation through the filibuster. Labor pays for loyalty to the Democratic Party; corporate donors pay for veto power over it.
 
-**The PRO Act timeline — a case study in donor-class veto power:**
+### The PRO Act timeline — a case study in donor-class veto power:
 
 | Date | Event | Significance |
 |------|-------|-------------|
@@ -120,7 +120,7 @@ The AFL-CIO is not a union itself — it is a federation of unions. Its members 
 > [!money]
 > The PRO Act's failure reveals the fundamental asymmetry of labor vs. corporate political power. The AFL-CIO and its affiliates collectively spend $50-80M per cycle supporting Democrats — making labor the party's largest institutional donor bloc. But the U.S. Chamber of Commerce alone spent $81M on lobbying in 2024. Add the National Association of Manufacturers ($16M), Business Roundtable ($31M), and industry-specific trade groups, and the corporate lobby outspends labor by roughly 15:1 on lobbying alone. Labor's advantage is in voter mobilization and ground game; corporate power's advantage is in the lobbying that kills legislation between elections. The PRO Act passed the House twice because labor can mobilize House districts. It died in the Senate because corporate lobbying can hold individual senators.
 
-**Biden-era NLRB gains (2021-2025) — Genuine Wins with Structural Limits:**
+### Biden-era NLRB gains (2021-2025) — Genuine Wins with Structural Limits:
 
 The Biden NLRB delivered significant administrative victories:
 - **Cemex doctrine (2023):** Automatic union recognition when employers commit unfair labor practices during elections — the most pro-labor NLRB precedent in decades
@@ -130,11 +130,11 @@ The Biden NLRB delivered significant administrative victories:
 
 But every one of these gains is administrative — enacted through NLRB rulemaking, not legislation. The Trump NLRB (2025-present) can reverse each one. The structural limit: labor's legislative priorities require 60 Senate votes (or filibuster elimination); its administrative gains require only a friendly president — and disappear with the next hostile one.
 
-**The 2024 election and the union household vote gap:**
+### The 2024 election and the union household vote gap:
 
 AFL-CIO endorsed Harris unanimously. But union household voters backed Harris over Trump by only 8 percentage points — the narrowest union household margin in modern history. The [[Teamsters - International Brotherhood of Teamsters|Teamsters]] and International Association of Fire Fighters declined to endorse either candidate. This represents a structural crisis for labor's political model: the federation's leadership delivers unanimous endorsements, but the rank-and-file is increasingly split on cultural and economic issues that cross class lines.
 
-**The tariff contradiction (2025-2026):**
+### The tariff contradiction (2025-2026):
 
 The AFL-CIO's position on Trump's tariffs reveals the Two-Audience Problem in reverse — labor leadership must simultaneously:
 1. Support protectionist trade policy (which aligns with member interests in manufacturing)

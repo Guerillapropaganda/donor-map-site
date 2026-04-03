@@ -25,7 +25,7 @@ Post-election FEC filings confirm that [[AIPAC - American Israel Public Affairs 
 
 **The disclosure timing exploit:** Elect Chicago Women was registered with the FEC on January 27, 2026 and did not begin accepting or spending money until February. Because federal regulations only require donor disclosure on quarterly filing deadlines, the PAC spent millions on TV, digital, and mail advertising without revealing its funders until three days after the primary. This is not a bug — it is a deliberate structural exploit of FEC reporting windows. The PAC was created precisely to spend within a single quarter and delay disclosure past Election Day.
 
-**The money map:**
+### The money map:
 
 | Donor | Amount | Vehicle | Notes |
 |-------|--------|---------|-------|
@@ -79,7 +79,7 @@ The FTC reached a proposed settlement on March 24 with CVS Caremark — one of t
 
 Pro-crypto super PACs have amassed $221 million in cash on hand for the 2026 midterms, with an additional $100 million in committed but unfiled funds. Total crypto industry political spending has reached $288 million for the 2026 cycle — making it one of the largest single-industry political spending operations in American history outside of defense and pharma.
 
-**The key players:**
+### The key players:
 
 | Entity | War Chest | Key Backers | Strategy |
 |--------|-----------|-------------|----------|
@@ -109,7 +109,7 @@ Pro-crypto super PACs have amassed $221 million in cash on hand for the 2026 mid
 
 A WBUR investigation published March 24 documents a boom in politically active 501(c)(4) nonprofits in Massachusetts — at least 10 new organizations since 2024, operating without donor disclosure while influencing state elections and policy.
 
-**Key findings from the WBUR investigation:**
+### Key findings from the WBUR investigation:
 
 - **One Commonwealth** (Gov. Maura Healey's allies): Raised $748,000 in its first year to support Healey's housing agenda. DraftKings disclosed a $50,000 contribution to state gaming regulators — one of the few donors identified because gaming regulations, not campaign finance law, required the disclosure. A paving company also identified as a donor. Most contributors remain anonymous.
 

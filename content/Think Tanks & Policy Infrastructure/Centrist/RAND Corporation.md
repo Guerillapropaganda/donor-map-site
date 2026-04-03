@@ -55,12 +55,12 @@ RAND's funding structure is unique among think tanks: it is overwhelmingly a gov
 | Other | $3.5M | 0.7% |
 | **Total** | **$469.7M** | **100%** |
 
-**Key funding facts:**
+### Key funding facts:
 - **77% of revenue comes from U.S. federal government contracts** — principally the Department of War (now called the Department of Defense) and its sub-agencies
 - Contributions (grants + donations) account for 93% of total revenue on IRS Form 990 filings — but this is because government contracts are classified as "contributions" on Form 990, making the organization appear philanthropy-funded when it is overwhelmingly a government contractor
 - Private sector funding is less than 1% of revenue — RAND is functionally a government-funded operation with a nonprofit wrapper
 
-**Notable donors and grantmakers (FY2025):**
+### Notable donors and grantmakers (FY2025):
 - Gates Foundation, Carnegie Corporation, Arnold Ventures, Walton Family Foundation, Smith Richardson Foundation, Hewlett Foundation, Robert Wood Johnson Foundation, Pew Charitable Trusts
 - Charles Koch Foundation — also funds Heritage, Cato, AEI, Manhattan Institute
 - Donald Rumsfeld (listed as individual donor: "Joyce and Donald Rumsfeld")
@@ -83,7 +83,7 @@ RAND operates four Federally Funded Research and Development Centers (FFRDCs) �
 3. **RAND National Defense Research Institute (NDRI)** — Conducts research for the Office of the Secretary of War, Joint Staff, Unified Combatant Commands, defense agencies, Marine Corps, and Navy.
 4. **Homeland Security Operational Analysis Center (HSOAC)** — Sponsored by the Department of Homeland Security.
 
-**Key historical outputs:**
+### Key historical outputs:
 - **Nuclear deterrence theory** — RAND developed the doctrine of Mutually Assured Destruction (MAD) and game theory applications to nuclear strategy during the Cold War, directly shaping U.S. defense posture for decades
 - **Pentagon Papers** — The classified study of U.S. decision-making in Vietnam was produced in part by RAND analysts. Daniel Ellsberg, a RAND analyst, leaked the 7,000-page study in 1971, revealing systematic government deception about the war
 - **Vietnam counterinsurgency research** — RAND conducted extensive research on insurgency in Vietnam, Laos, and Thailand throughout the war era
@@ -98,7 +98,7 @@ RAND operates four Federally Funded Research and Development Centers (FFRDCs) �
 
 RAND's policy influence operates through a unique mechanism: the FFRDC model gives it quasi-governmental authority while maintaining nominal independence.
 
-**How RAND research becomes policy:**
+### How RAND research becomes policy:
 
 1. **Government agency commissions research** — DoD, DHS, HHS, etc. fund specific studies through FFRDC contracts
 2. **RAND produces "independent" analysis** — Research is technically independent but scoped to client needs
@@ -128,7 +128,7 @@ RAND's policy influence operates through a unique mechanism: the FFRDC model giv
 
 RAND's revolving door operates differently from most think tanks. Rather than a politician-to-lobbyist pipeline, RAND functions as a **career waystation** for national security professionals rotating between government, intelligence, and defense policy roles.
 
-**Board of Trustees (selected, with government backgrounds):**
+### Board of Trustees (selected, with government backgrounds):
 
 | Name | RAND Role | Government Role |
 |------|-----------|----------------|
@@ -143,7 +143,7 @@ RAND's revolving door operates differently from most think tanks. Rather than a 
 | Meghan O'Sullivan | Trustee (2024) | Former Deputy National Security Adviser for Iraq and Afghanistan |
 | Kenneth Feinberg | Trustee | Former Special Master, 9/11 Victim Compensation Fund |
 
-**CEO pipeline:**
+### CEO pipeline:
 - **Jason Matheny** (CEO since 2022): IARPA director → White House NSC/OSTP → RAND CEO. Also sits on Anthropic's Long-Term Benefit Trust.
 - **Michael Rich** (CEO 2011–2022): Career RAND insider, 30+ years at the organization.
 - **Donald B. Rice** (former CEO): RAND CEO → Secretary of the Air Force → back to RAND board + donor.
@@ -157,7 +157,7 @@ RAND's revolving door operates differently from most think tanks. Rather than a 
 
 ### What Their Funders Got
 
-**The Department of War got:**
+### The Department of War got:
 - Intellectual justification for every major defense spending increase since 1948
 - "Independent" research cited in congressional testimony to support procurement programs
 - Nuclear deterrence doctrine that sustained Cold War-era military budgets for 45 years
@@ -165,16 +165,16 @@ RAND's revolving door operates differently from most think tanks. Rather than a 
 - Post-9/11 analysis supporting expanded military and intelligence operations
 - $500 million in FFRDC contracts (2017–2019) producing research that recommends... more defense spending
 
-**Open Philanthropy / tech billionaires got:**
+### Open Philanthropy / tech billionaires got:
 - Direct influence on Biden's AI Executive Order through RAND-drafted reporting requirements
 - Policy framework favorable to existing AI companies (CEO sits on Anthropic's oversight board)
 - Legitimacy-laundering: billionaire policy preferences repackaged as "independent, nonpartisan research"
 
-**The Department of Homeland Security got:**
+### The Department of Homeland Security got:
 - $58.3M/year (FY2025) in research supporting DHS operations, immigration enforcement analysis, and border security frameworks
 - "Evidence-based" framing for enforcement-heavy immigration policies
 
-**Defense contractor ecosystem got:**
+### Defense contractor ecosystem got:
 - Research that consistently recommends military modernization, force projection, and new weapons systems — generating procurement contracts for the same defense industry that also funds think tanks
 - The feedback loop documented by Inkstick Media: Pentagon funds RAND → RAND recommends more Pentagon spending → Congress approves → new contracts flow to defense contractors and back to RAND
 

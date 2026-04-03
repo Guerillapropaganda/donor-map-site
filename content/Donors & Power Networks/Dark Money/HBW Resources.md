@@ -1,7 +1,7 @@
 ---
 title: "HBW Resources"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
@@ -49,7 +49,7 @@ HBW's policy agenda maps directly onto its client roster — which is to say, it
 
 HBW's political contributions are modest and come entirely from individual employees (the firm has no PAC). The action is in lobbying fees, not campaign donations.
 
-**2024 cycle employee contributions: $25,391 total**
+### 2024 cycle employee contributions: $25,391 total
 
 Top recipients (2024):
 - Kevin Cramer (R-ND): $3,500

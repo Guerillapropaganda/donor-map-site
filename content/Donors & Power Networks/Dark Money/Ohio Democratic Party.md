@@ -27,7 +27,7 @@ The Ohio party organization is heavily dependent on national Democratic infrastr
 
 ### Who Funds Them
 
-**State party fundraising (FEC data):**
+### State party fundraising (FEC data):
 
 | Cycle | Total Raised | Total Spent | Primary Dependency |
 |-------|-------------|------------|-------------------|
@@ -41,7 +41,7 @@ The $28.5M raised in 2023-2024 is almost entirely consumed by operations and can
 
 ### What They've Gotten
 
-**The Sherrod Brown pattern — raising the most and losing anyway:**
+### The Sherrod Brown pattern — raising the most and losing anyway:
 
 The 2024 Ohio Senate race is the definitive evidence of structural Democratic failure in Ohio. Sherrod Brown raised $100.4M — the most of any Senate candidate in 2024 except for a handful of presidential primary runners. Bernie Moreno raised $26.7M. Brown was outspent by outside groups: $113.9M in outside spending opposed Brown while only $26.6M supported him. Total race spending hit $477M, the most expensive non-presidential race in 2024. Brown lost by 206,434 votes, receiving 46.5% vs. Moreno's 50.1%.
 
@@ -50,7 +50,7 @@ The verdict: money does not fix structural donor-class misalignment. Brown ran a
 > [!money]
 > **$100.4M raised and $113.9M in outside spending opposing him — Sherrod Brown's 2024 defeat proved that money cannot substitute for structural political alignment.** The Ohio Democratic Party's national donor dependency generated unprecedented fundraising ($28.5M for the state party in 2024) but failed to reconnect the party with the working-class white voters who abandoned it in 2016-2024. Outside groups spent 4x more opposing Brown than supporting him. The result: the last major Ohio Democrat lost, completing the state's realignment.
 
-**The structural collapse timeline:**
+### The structural collapse timeline:
 
 ### Money Flow — Ohio Democratic Party 2016-2026
 

@@ -25,7 +25,7 @@ The crypto industry's political agenda is existential: the industry's survival d
 
 ### The Money — Fairshake PAC (2024 Cycle)
 
-**Financial Summary (OpenSecrets/FEC):**
+### Financial Summary (OpenSecrets/FEC):
 
 | Category | Amount |
 |----------|--------|
@@ -33,7 +33,7 @@ The crypto industry's political agenda is existential: the industry's survival d
 | Total spent | $195,826,511 |
 | End cash on hand | $64,244,198 |
 
-**Top Funders:**
+### Top Funders:
 
 | Donor | Amount | Role |
 |-------|--------|------|
@@ -51,14 +51,14 @@ Fairshake spent nearly twice as much on Republican candidates as Democrats, but 
 
 The crypto industry's lobbying priorities center on one objective: prevent crypto assets from being classified as securities under existing SEC authority, and create a new, lighter regulatory framework.
 
-**Support:**
+### Support:
 - The GENIUS Act (stablecoin regulation — creates favorable framework for stablecoin issuers, benefits Sacks-invested BitGo and others)
 - FIT21 (Financial Innovation and Technology for the 21st Century Act — creates new regulatory framework separating crypto from SEC jurisdiction)
 - Clear token classification that exempts most crypto assets from securities law
 - Self-regulatory models for crypto exchanges
 - Crypto-friendly appointees (David Sacks as AI/Crypto Czar, pro-crypto SEC commissioners)
 
-**Oppose:**
+### Oppose:
 - SEC enforcement actions classifying tokens as unregistered securities
 - SEC Chair Gary Gensler's regulatory approach (Gensler was effectively removed when Trump took office)
 - Bank-like regulation of crypto exchanges
@@ -71,7 +71,7 @@ The crypto industry's lobbying priorities center on one objective: prevent crypt
 
 Fairshake's 2024 strategy targeted both parties, focusing on primaries (eliminating crypto-skeptic candidates before the general election) and competitive general election races:
 
-**Key victories:**
+### Key victories:
 - Defeated crypto-skeptic Katie Porter in the California Senate Democratic primary
 - Spent heavily against Sherrod Brown (D-OH) — Brown lost to crypto-backed Bernie Moreno
 - Elected 53 crypto-friendly members to the incoming Congress across both parties

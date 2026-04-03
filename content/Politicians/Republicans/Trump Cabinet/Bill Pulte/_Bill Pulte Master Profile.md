@@ -43,16 +43,16 @@ Pulte is a trust fund heir who leveraged inherited wealth into a political brand
 > [!money] Follow the Money
 > Pulte is a heavy Republican donor and close Trump ally. His political spending operates through personal donations and LLC structures. A $500K contribution via LLC to a pro-Trump PAC in 2021 was alleged to be an illegal conduit donation.
 
-**Known political spending:**
+### Known political spending:
 - $500K via LLC to pro-Trump PAC (2021) — alleged illegal conduit donation
 - Close Trump ally with personal relationship
 - Republican donor (specific federal contribution records need FEC API pull)
 
-**Suspicious financial activity:**
+### Suspicious financial activity:
 - Team Pulte Inc. (philanthropic foundation) funded with $200K
 - Team Pulte made $65K donation to One World Love LLC (2023) — questioned as potential conduit for Trump-related legal funds
 
-**Net worth sources:**
+### Net worth sources:
 - Pulte Capital Partners (private equity, building products)
 - PulteGroup board compensation (2016–2020)
 - Family wealth (PulteGroup founder's grandson)

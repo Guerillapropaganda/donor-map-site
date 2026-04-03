@@ -32,17 +32,17 @@ AFPM actively opposes the Renewable Fuel Standard, carbon taxes, EV mandates, an
 > [!money] Follow the Money
 > AFPM is one of the most active fossil fuel lobbying organizations in the country. $8.95M on lobbying in 2024 (7 lobbyists), $3.49M in 2025. The AFPM PAC contributed $842K in the 2024 cycle, with $350K to the Congressional Leadership Fund and $150K to the Senate Leadership Fund — funding Republican House and Senate campaign infrastructure.
 
-**2024 cycle political contributions ($842K via PAC):**
+### 2024 cycle political contributions ($842K via PAC):
 - 73% to Republicans
 - Congressional Leadership Fund: $350K
 - Senate Leadership Fund: $150K
 - 2019–2020 PAC: raised and spent ~$217K
 
-**Lobbying expenditures:**
+### Lobbying expenditures:
 - 2024: $8.95M (7 lobbyists)
 - 2025: $3.49M
 
-**Financial profile (FY2023):**
+### Financial profile (FY2023):
 - Revenue: $61.4M (98%+ from membership dues)
 - Total assets: $74.5M
 - CEO compensation (Chet Thompson): $4.5M

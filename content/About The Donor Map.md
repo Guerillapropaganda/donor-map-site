@@ -84,7 +84,7 @@ No advertisers. No corporate sponsors. No PAC money. Just the paper trail, point
 
 If this kind of work matters to you, support it directly:
 
-**[Support on Patreon →](https://www.patreon.com/TheDonorMap)**
+### [Support on Patreon →](https://www.patreon.com/TheDonorMap)
 
 ---
 

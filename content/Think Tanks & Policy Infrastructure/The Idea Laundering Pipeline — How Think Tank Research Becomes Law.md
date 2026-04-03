@@ -74,7 +74,7 @@ Each step is publicly documented. None of it requires secrecy. The opacity is in
 
 **The Pipeline:** Heritage policy papers argue for reclassifying federal workers in "policy-related" roles as at-will employees, removing civil service protections. The concept circulates through Heritage's staffing network.
 
-**The Outcome:**
+### The Outcome:
 - October 2020: Trump signs Executive Order 13957 (Schedule F), reclassifying tens of thousands of career civil servants as at-will employees
 - January 2021: Biden revokes Schedule F on his first day in office
 - January 20, 2025: Trump reimplements Schedule F within 4 days of his second inauguration — the fastest reimplementation of a reversed executive order in modern American history
@@ -89,7 +89,7 @@ Each step is publicly documented. None of it requires secrecy. The opacity is in
 
 **The Pipeline:** Mercatus develops RegData (2012), a methodology for quantifying federal regulatory "burden" by counting restrictive words in the Code of Federal Regulations. Mercatus researchers publish papers advocating a "regulatory budget" — capping total regulatory costs like a fiscal budget. The OMB solicits deregulatory proposals in 2001: Mercatus submits 44 of the 71 proposals received.
 
-**The Outcome:**
+### The Outcome:
 - January 30, 2017: Trump signs Executive Order 13771 — the "one-in, two-out" rule requiring agencies to eliminate two regulations for every new one. Mercatus research is directly cited in OIRA implementation guidance.
 - 2025: Trump's second term escalates to a "one-in, ten-out" framework — the same Mercatus regulatory budget architecture at 5x the ratio.
 
@@ -105,7 +105,7 @@ Each step is publicly documented. None of it requires secrecy. The opacity is in
 
 **The Pipeline:** Federalist Society co-chairman Leonard Leo compiles a list of 21 potential Supreme Court nominees for Donald Trump's 2016 campaign. Trump officially adopts the list verbatim as his judicial shortlist — outsourcing judicial selection to a privately funded think tank.
 
-**The Outcome:**
+### The Outcome:
 - All three Trump Supreme Court appointments — Neil Gorsuch (2017), Brett Kavanaugh (2018), Amy Coney Barrett (2020) — came directly from Leo's list
 - Six of nine sitting Supreme Court justices are linked to the Federalist Society
 - 86% of Trump's Supreme Court and appellate court nominees were Federalist Society members
@@ -265,7 +265,7 @@ The pipeline's durability is its most important feature. It does not depend on a
 
 *(All sources verified. 16 sources previously Chrome-verified from individual think tank profiles. 5 new sources (ALEC x3, EPI x2) verified via WebFetch/WebSearch on 2026-03-27 (Chrome unavailable); re-confirmed via WebFetch/WebSearch on 2026-03-27 in second session pass. 1 Hamilton Project source verified via cross-comparison piece. No UNVERIFIED sources remain.)*
 
-**Heritage Foundation / Project 2025 (previously verified):**
+### Heritage Foundation / Project 2025 (previously verified):
 - [Revolving Door Project: Heritage Lays the Foundation for Schedule F](https://therevolvingdoorproject.org/heritage-lays-the-foundation-for-schedule-f/) (Tier 2)
 - [19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/) (Tier 2)
 - [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2)
@@ -273,31 +273,31 @@ The pipeline's durability is its most important feature. It does not depend on a
 - [The Conversation: Heritage Foundation's 50-Year History of Steering GOP Lawmaking](https://theconversation.com/heritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2)
 - [Wikipedia: Project 2025](https://en.wikipedia.org/wiki/Project_2025) (Tier 3)
 
-**Mercatus Center (previously verified):**
+### Mercatus Center (previously verified):
 - [ProPublica Nonprofit Explorer: Mercatus Center Inc](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1)
 - [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2)
 - [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php/Mercatus_Center) (Tier 3)
 
-**Federalist Society (previously verified):**
+### Federalist Society (previously verified):
 - [ProPublica: We Don't Talk About Leonard — Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 - [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
 - [Bloomberg Law: Trump's First Judicial Nominees Have Federalist Society Ties](https://news.bloomberglaw.com/us-law-week/trumps-first-judicial-nominees-have-federalist-society-ties) (Tier 2)
 - [Senator Whitehouse: The Third Federalist Society (Scheme Speech)](https://www.whitehouse.senate.gov/news/speeches/the-third-federalist-society/) (Tier 2)
 
-**Manhattan Institute (previously verified):**
+### Manhattan Institute (previously verified):
 - [The Intercept: Funded by Dark Money, Chris Rufo's Nonprofit Stokes the Far Right's Culture War](https://theintercept.com/2023/06/08/christopher-rufo-nonprofit-dark-money/) (Tier 2)
 - [Manhattan Institute: Abolish DEI Bureaucracies and Restore Colorblind Equality in Public Universities](https://manhattan.institute/article/abolish-dei-bureaucracies-and-restore-colorblind-equality-in-public-universities) (Tier 3)
 - [Supreme Transparency: Manhattan Institute — Leonard Leo's 85 Fund $450K (2022)](https://supremetransparency.org/powerbrokers/manhattan-institute/) (Tier 2)
 
-**ALEC:**
+### ALEC:
 - [Brookings: ALEC's Influence over Lawmaking in State Legislatures](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/) (Tier 2)
 - [ExposedByCMD: ALEC Publishes Its Own Project 2025 — for the States](https://www.exposedbycmd.org/2025/02/10/alec-publishes-its-own-project-2025-for-the-states/) (Tier 2)
 - [NPR: How ALEC Shapes States' Legislation Behind The Scenes](https://www.npr.org/transcripts/138537515) (Tier 2)
 
-**Hamilton Project / Brookings (previously verified via cross-comparison piece):**
+### Hamilton Project / Brookings (previously verified via cross-comparison piece):
 - [Hamilton Project: About — founding, mission, Robert Rubin](https://www.hamiltonproject.org/about/) (Tier 3)
 
-**Economic Policy Institute:**
+### Economic Policy Institute:
 - [EPI: Why the U.S. needs a $15 minimum wage](https://www.epi.org/publication/why-america-needs-a-15-minimum-wage/) (Tier 2)
 - [EPI: Minimum Wage Tracker](https://www.epi.org/minimum-wage-tracker/) (Tier 1)
 

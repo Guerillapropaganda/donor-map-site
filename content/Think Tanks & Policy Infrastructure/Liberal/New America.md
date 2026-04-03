@@ -27,7 +27,7 @@ New America's institutional function is to translate Silicon Valley's policy pre
 
 **CEO:** Anne-Marie Slaughter (since 2013). Compensation: $570,709 + $39,151 other (FY2024). Slaughter previously served as Director of Policy Planning at the State Department under Hillary Clinton (2009–2011) and was Dean of Princeton's Woodrow Wilson School (2002–2009). Her prominence as a public intellectual — particularly her 2012 Atlantic article "Why Women Still Can't Have It All" — gives New America media visibility disproportionate to its policy output.
 
-**Key staff:**
+### Key staff:
 - Paul Butler (President & CTO, $438,951 + $49,146)
 - Barry Howard (COO, $301,435 + $65,728)
 - Cecilia Munoz (VP for Public Interest Technology) — former Obama White House Director of Domestic Policy Council (8 years on senior staff)
@@ -35,7 +35,7 @@ New America's institutional function is to translate Silicon Valley's policy pre
 
 **Board Chair:** Sally R. Osberg
 
-**Board of Directors (notable members per InfluenceWatch):**
+### Board of Directors (notable members per InfluenceWatch):
 - David Bradley — chairman of Atlantic Media
 - David Brooks — New York Times columnist
 - James Fallows — national correspondent for The Atlantic
@@ -57,7 +57,7 @@ New America's funding reveals the Silicon Valley-to-policy pipeline in its pures
 
 **Google / Eric Schmidt** — The defining funder. Google and the Eric Schmidt Family Foundation contributed $21 million+ to New America over the years. Schmidt served on New America's board of directors, and the organization's main conference room was named the "Eric Schmidt Ideas Lab." This funding relationship became the center of a national controversy in 2017 when New America fired Barry Lynn after he praised the EU's $2.7 billion antitrust fine against Google.
 
-**Major foundation funders (per InfluenceWatch donor data):**
+### Major foundation funders (per InfluenceWatch donor data):
 - **Schwab Charitable Fund** — $5.01M (2017 alone)
 - **Bill and Melinda Gates Foundation** — Multiple grants totaling millions ($2.4M + $1.2M + $800K in 2017 alone)
 - **Ford Foundation** — Multiple grants ($2M + $1.16M + $800K + $587K in 2017)
@@ -68,14 +68,14 @@ New America's funding reveals the Silicon Valley-to-policy pipeline in its pures
 - **Tides Foundation** — $500K (2018)
 - **Democracy Fund** — $225K (2018)
 
-**Wall Street donors:**
+### Wall Street donors:
 - **Goldman Sachs Philanthropy Fund** — $750K (2018)
 - **JPMorgan Chase Foundation** — $1.275M (2018, across three grants)
 
-**Government contracts:**
+### Government contracts:
 - U.S. Department of State — $1.4M+ (FY2018–2019) for wireless network development for dissidents in Iran, Syria, Libya, and Cuba. This raised concerns among alumni about independence from government.
 
-**Corporate donors per public disclosures:**
+### Corporate donors per public disclosures:
 New America publishes an annual donor list. The 2018 list includes tech companies, financial institutions, and progressive foundations as the dominant categories.
 
 > [!money]
@@ -109,7 +109,7 @@ New America operates across a broad range of policy areas, reflecting its large 
 
 New America's pipeline operates through three channels: Obama administration personnel placement, tech industry policy framing, and media amplification through its board-level media connections.
 
-**How New America research becomes policy:**
+### How New America research becomes policy:
 
 1. **Tech industry and foundations fund research programs** — Google funds tech policy, Gates funds education, Soros funds governance reform
 2. **Research framed as "innovation" or "digital equity"** — Tech industry preferences packaged as progressive policy
@@ -164,28 +164,28 @@ New America's revolving door runs primarily through the Obama administration and
 
 ### What Their Funders Got
 
-**Google / Eric Schmidt got:**
+### Google / Eric Schmidt got:
 - A premier Washington think tank with their name on the conference room
 - Tech policy research that framed Google's interests as innovation and digital opportunity
 - The absence of anti-monopoly research from the think tank most positioned to produce it (until Barry Lynn was fired)
 - Board-level access to an institution with Obama administration connections and elite media board members
 - The "Eric Schmidt Ideas Lab" — literal institutional branding
 
-**Progressive foundations (Ford, Hewlett, Soros) got:**
+### Progressive foundations (Ford, Hewlett, Soros) got:
 - A large-scale progressive policy operation covering education, governance, national security, and economic mobility
 - Obama administration alumni maintaining the policy infrastructure between Democratic presidencies
 - Media amplification through board-level connections to NYT, Atlantic, CNN
 
-**Gates Foundation got:**
+### Gates Foundation got:
 - Education reform research aligned with data-driven accountability frameworks
 - Progressive institutional cover for education policies that teachers' unions often oppose
 - Access to Democratic policymakers through New America's revolving door
 
-**Goldman Sachs / JPMorgan got:**
+### Goldman Sachs / JPMorgan got:
 - $2M+ bought association with a progressive think tank — "bipartisan" credibility for Wall Street philanthropy
 - Policy research framed as economic mobility and innovation rather than financial regulation
 
-**The Obama administration network got:**
+### The Obama administration network got:
 - An institutional home for former officials (Slaughter, Munoz, Mariani) maintaining policy influence between administrations
 - Media connections ensuring continued public visibility for Obama-era policy frameworks
 - A platform for translating Obama-era governance philosophy into ongoing policy advocacy

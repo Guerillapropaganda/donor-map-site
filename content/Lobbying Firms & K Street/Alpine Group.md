@@ -112,7 +112,7 @@ Alpine represents 108 clients across energy, defense, tech, pharma, manufacturin
 
 Alpine's 72.2% revolving door rate (13 of 18 lobbyists in 2024 are former government employees) is a core business asset, though notably zero are former members of Congress — this is a **staff-level revolving door**, not a politician-level one.
 
-**Key Revolving Door Hires:**
+### Key Revolving Door Hires:
 
 **Les Spivey** — Principal & President (formerly CEO/Managing Principal)
 - **Former:** Professional Staff Member, U.S. Senate Committee on Appropriations — served under three different Chairmen
@@ -186,7 +186,7 @@ Alpine's top lobbying issues in 2024 reveal the firm's policy machinery:
 
 Appropriations dominates — 174 lobbying reports from 48 clients across all 18 lobbyists. This is consistent with Spivey's Appropriations Committee background and the firm's core competency: steering federal funding to clients.
 
-**Specific deliverables the structure enables:**
+### Specific deliverables the structure enables:
 - **Tax policy navigation:** Brainard's Ways & Means experience positions Alpine to guide clients through TCJA renewal, clean energy tax credit extensions (IRA provisions), and corporate tax reform
 - **Energy permitting:** The energy client cluster (Shell, Equinor, NextDecade, IPAA, Natural Gas Supply Assn) benefits from Alpine's E&C committee relationships for permitting reform and LNG export approvals
 - **Defense tech contracts:** The surveillance/defense tech cluster (Palantir, Leidos, Cellebrite, Babel Street) leverages Teague and Overland's defense relationships for procurement access
@@ -198,7 +198,7 @@ Appropriations dominates — 174 lobbying reports from 48 clients across all 18 
 
 Two client stories from 2025 illustrate Alpine's two modes of operation: proactive positioning and crisis defense.
 
-**TCJA Renewal — The Preemptive Strike:**
+### TCJA Renewal — The Preemptive Strike:
 
 Alpine's January 2025 hire of Colin Brainard from Walmart Federal Government Affairs was the clearest example of preemptive legislative positioning in this cohort. Brainard arrived specifically for what the lobbying community was calling the "Super Bowl" of tax legislation: the renewal of expiring TCJA provisions. Tax Notes reported in August 2024 that lobbying on the TCJA rewrite was already swelling, with firms competing to position clients ahead of the 2025 debate.
 
@@ -207,7 +207,7 @@ The timeline of Brainard's impact: hired January 13, 2025 → House Ways and Mea
 > [!money]
 > Brainard was hired on January 13, 2025 — six months before the TCJA bill was signed. The lead time is the product: clients who hire Alpine early get a lobbyist who helps shape the bill. Clients who hire late get someone who reads the bill after it passes. The $280K+ that major Alpine clients pay annually is essentially a retainer for access to the markup table.
 
-**ASML — Washington Lobbying in a Trade War:**
+### ASML — Washington Lobbying in a Trade War:
 
 ASML Holding NV (paying Alpine $280K in 2025) is one of the most geopolitically exposed companies in the world: the Dutch manufacturer of extreme ultraviolet (EUV) and deep ultraviolet (DUV) lithography machines has a near-monopoly on the equipment needed to produce advanced semiconductors. Both the United States and China want ASML's technology; the question is who controls export access.
 

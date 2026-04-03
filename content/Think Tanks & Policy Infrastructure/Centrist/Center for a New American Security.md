@@ -37,24 +37,24 @@ CNAS is currently led by CEO Richard Fontaine ($777K compensation, FY2024). Its 
 
 CNAS discloses its donors publicly, but not individual amounts. The Center for International Policy's 2020 review of 50 major U.S. think tanks found that CNAS was the **single largest recipient of defense contractor money from 2014 to 2019**, with 29 different defense companies contributing.
 
-**Defense contractor funding (2019-2023):**
+### Defense contractor funding (2019-2023):
 - **Total defense contractor funding:** $6.67M
 - **Northrop Grumman** — largest single defense donor
 - **Lockheed Martin**
 - **RTX (Raytheon)**
 - Additional defense firms among the 29 documented
 
-**U.S. government funding (2019-2023):**
+### U.S. government funding (2019-2023):
 - **Total government grants:** $3.99M
 - Department of State, Department of Defense, Department of Energy
 
-**Foreign government funding (2019-2023):**
+### Foreign government funding (2019-2023):
 - **Total foreign government funding:** $2.81M
 - Japan, South Korea, Germany, European Union
 
 **Additional corporate donors:** Amazon, Google, Chevron, and other major corporations.
 
-**Board-level corporate connections:**
+### Board-level corporate connections:
 - **James Murdoch** — board Director (News Corp/media empire heir)
 - **David Schwimmer** — board Director (CEO, London Stock Exchange Group)
 - **Douglas Beck** — board Director (Apple VP, previously)
@@ -68,29 +68,29 @@ CNAS discloses its donors publicly, but not individual amounts. The Center for I
 
 CNAS produces policy reports and personnel across four main program areas:
 
-**Defense Program:**
+### Defense Program:
 - Military force structure recommendations
 - Defense budget analysis
 - Weapons systems procurement advocacy (including the B-21 bomber recommendation that triggered the ethics investigation)
 - War gaming and scenario planning (including China contingency exercises)
 
-**Indo-Pacific Security:**
+### Indo-Pacific Security:
 - China competition strategy
 - Taiwan policy frameworks
 - AUKUS and allied defense integration
 - Led by Lisa Curtis (former Trump NSC Senior Director for South Asia — rare bipartisan crossover)
 
-**Energy, Economics, and Security:**
+### Energy, Economics, and Security:
 - Sanctions policy research (Elizabeth Rosenberg → Treasury sanctions enforcement)
 - Technology competition and export controls (Emily Kilcrease)
 - Economic statecraft frameworks
 
-**Transatlantic Security:**
+### Transatlantic Security:
 - NATO modernization
 - European defense integration
 - Russia/Ukraine policy
 
-**AI and Emerging Technology:**
+### AI and Emerging Technology:
 - Paul Scharre (EVP) — leading voice on autonomous weapons policy, author of *Army of None*
 - AI governance frameworks adopted by DoD
 
@@ -129,7 +129,7 @@ CNAS operates less as a traditional think tank and more as a **Democratic admini
 
 CNAS operates the most aggressive revolving door between a think tank and a presidential administration documented in this vault. The 990 filings reveal the personnel pipeline directly:
 
-**CNAS → Biden Administration (at least 16 placements):**
+### CNAS → Biden Administration (at least 16 placements):
 
 - **Avril Haines** — CNAS board Director → **Director of National Intelligence** (the nation's top intelligence official)
 - **Kurt Campbell** — CNAS co-founder/Chairman → **NSC Indo-Pacific Coordinator** (2021-2024), then **Deputy Secretary of State** (2024)
@@ -142,11 +142,11 @@ CNAS operates the most aggressive revolving door between a think tank and a pres
 - **Nathaniel Fick** — CNAS board Director → **Ambassador at Large for Cyberspace and Digital Policy** (first ever)
 - **Anne Neuberger** — CNAS board Director → **Deputy National Security Advisor for Cyber and Emerging Technology**
 
-**CNAS → Obama Administration (14+ placements):**
+### CNAS → Obama Administration (14+ placements):
 - **Michèle Flournoy** — CNAS co-founder/CEO → **Under Secretary of Defense for Policy** (2009-2012)
 - Plus 13+ additional staffers to DoD and State Department positions
 
-**Bipartisan crossover:**
+### Bipartisan crossover:
 - **Lisa Curtis** — Trump NSC Senior Director for South Asia → CNAS Program Director → demonstrates bipartisan credibility that makes CNAS more effective
 - **Richard Armitage** — Bush Deputy Secretary of State → CNAS board (demonstrates bipartisan network)
 - **Jon Huntsman Jr.** — Republican Governor, Ambassador to China/Russia → CNAS board

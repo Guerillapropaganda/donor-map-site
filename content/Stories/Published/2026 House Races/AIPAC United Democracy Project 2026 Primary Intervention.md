@@ -1,7 +1,7 @@
 ---
 title: "AIPAC United Democracy Project 2026 Primary Intervention"
 type: story
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -46,7 +46,7 @@ The broader AIPAC apparatus, combining traditional PAC contributions ($28M in 20
 
 The UDP donor base clusters tightly around ultra-high-net-worth individuals (UHNW) in finance, technology, and real estate. No grassroots component exists; there are no itemized small-dollar donors. This is a top-down, checkbook-driven operation.
 
-**2024 cycle top donors:**
+### 2024 cycle top donors:
 - Jan Koum (WhatsApp co-founder): $5M
 - Jonathan Jacobson (Highsage Capital): $4.575M
 - Bernard Marcus (Home Depot co-founder): $3M

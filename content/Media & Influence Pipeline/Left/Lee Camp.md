@@ -77,14 +77,14 @@ Camp's audience capture mechanism evolved with his platform:
 
 ### What Their Funders Got
 
-**What Russia got from 8 years of RT/Camp:**
+### What Russia got from 8 years of RT/Camp:
 - Access to U.S. left-leaning audiences suspicious of corporate media
 - Normalized RT America as a legitimate news outlet through Camp's anti-corporate credibility
 - Anti-NATO, anti-U.S. military intervention content delivered with genuine left-media format and audience
 - A left-wing U.S. voice promoting narratives aligned with Russian foreign policy interests during the 2014-2022 period (Ukraine, Syria, NATO expansion)
 - When RT America was shut down, Camp publicly blamed the U.S. government rather than Russia — a last act of narrative service
 
-**What Camp got:**
+### What Camp got:
 - A television platform for 8 years
 - Production budget, staff, and distribution network unavailable outside major media
 - Reach to audiences that could not be accessed through independent left media
@@ -109,7 +109,7 @@ Camp's audience capture mechanism evolved with his platform:
 
 ### Class Analysis
 
-**Who benefits from Camp's platform existing:**
+### Who benefits from Camp's platform existing:
 
 1. **Russian state information infrastructure (2014–2022):** RT America's primary strategic value was not its ratings (small) but its brand legitimation — having genuine U.S. left journalists like Camp and Abby Martin gave RT a credibility shield. Camp's genuine class analysis attracted audiences who then received RT's broader Russia-aligned foreign policy framing.
 
@@ -125,12 +125,12 @@ Camp's audience capture mechanism evolved with his platform:
 
 **Income dependency:** RT salary (8 years) → MintPress (undisclosed) → YouTube ad revenue + crowdfunding. Post-RT income is significantly reduced from the RT platform era.
 
-**Editorial red lines (RT phase):**
+### Editorial red lines (RT phase):
 - Cannot criticize Russian foreign policy, Kremlin, or Putin directly
 - Cannot cover Russian military actions in Ukraine, Syria, or elsewhere with the same critical lens as U.S. military actions
 - Cannot challenge the RT framing that U.S. corporate media is uniquely corrupt while RT is "independent"
 
-**Editorial red lines (MintPress phase):**
+### Editorial red lines (MintPress phase):
 - Cannot criticize Iranian foreign policy, Hezbollah, or Hamas with the same lens applied to U.S. allies
 - Cannot challenge MintPress's consistent Iran/Russia-aligned foreign policy narrative framing
 

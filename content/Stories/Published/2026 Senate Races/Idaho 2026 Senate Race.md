@@ -1,7 +1,7 @@
 ---
 title: "Idaho 2026 Senate Race"
 type: story
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -21,7 +21,7 @@ donors:: Energy, Agribusiness, Securities/Investment
 
 Jim Risch, the 82-year-old incumbent Republican senator, is running for his fourth term in Idaho's solidly conservative R+18 environment. Risch won his 2020 reelection with 62.6% of the vote and received an early endorsement from Donald Trump for 2026. This is a noncompetitive race in one of the nation's safest Republican states.
 
-**Candidate Field:**
+### Candidate Field:
 
 *Republicans (May 19 primary):*
 - **Jim Risch** (incumbent)
@@ -37,7 +37,7 @@ Jim Risch, the 82-year-old incumbent Republican senator, is running for his four
 *Independent:*
 - **Todd Achilles** (most-funded non-Risch challenger)
 
-**Early Polling:**
+### Early Polling:
 A March 2026 Public Policy Polling survey showed Risch at 48% and independent Todd Achilles at 34%, indicating the incumbent's only potential vulnerability—his age—has not significantly dented his support in this Republican stronghold.
 
 ---
@@ -61,7 +61,7 @@ Risch commands overwhelming financial dominance. As of December 31, 2025:
 
 Over his career (2007–2024), Risch's largest donor categories reflect Idaho's economic base and national Republican priorities:
 
-**Top Industries (Career):**
+### Top Industries (Career):
 - Energy & Natural Resources: $898K
 - Agribusiness: $537K (forestry $155K, crop production $138K)
 - Securities/Investment: $421K

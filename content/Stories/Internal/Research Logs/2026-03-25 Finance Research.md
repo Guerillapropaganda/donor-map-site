@@ -36,7 +36,7 @@ This run produced 10 actionable findings across three tiers. The dominant patter
 
 MAGA Inc., the super PAC backing Trump, ended 2025 with $304 million in cash on hand — an unprecedented stockpile for a non-campaign-year. The H2 2025 fundraising haul of $102 million was dominated by finance, AI, and crypto sector donors.
 
-**Key donors confirmed in H2 2025 FEC filings:**
+### Key donors confirmed in H2 2025 FEC filings:
 
 | Donor | Amount | Affiliation | Date |
 |-------|--------|-------------|------|
@@ -55,7 +55,7 @@ MAGA Inc., the super PAC backing Trump, ended 2025 with $304 million in cash on 
 
 **Vault profiles to update:** [[Stephen Schwarzman - Blackstone]], [[MAGA Inc]] (if exists), [[_Donald Trump Master Profile]]
 
-**Sources:**
+### Sources:
 - [CNN: Trump's super PAC builds $300 million cash stockpile](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2)
 - [NBC News: New megadonors with major business before the government back Trump's super PAC](https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867) (Tier 2)
 
@@ -67,12 +67,12 @@ MAGA Inc., the super PAC backing Trump, ended 2025 with $304 million in cash on 
 
 Fairshake, the crypto industry's super PAC, ended 2025 with $193 million — more than double what the crypto industry spent in the entire 2024 cycle. The PAC operates through a tri-structure designed to fund both parties simultaneously.
 
-**PAC structure:**
+### PAC structure:
 - **Fairshake** — parent committee, holds funds
 - **Protect Progress** — Democratic-facing arm
 - **Defend American Jobs** — Republican-facing arm
 
-**Major funders:**
+### Major funders:
 
 | Donor | Amount | Entity |
 |-------|--------|--------|
@@ -88,7 +88,7 @@ Fairshake, the crypto industry's super PAC, ended 2025 with $193 million — mor
 
 **Vault profiles to update:** [[Fairshake PAC]] (new node needed), [[Coinbase]], [[a16z - Andreessen Horowitz]]
 
-**Sources:**
+### Sources:
 - [Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac) (Tier 2)
 - [CNBC: Crypto super PAC Fairshake has $116 million on hand for 2026 election](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
 - [Readsludge: Crypto, AI, and AIPAC Set up to Smash Super PAC Spending Records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2)
@@ -102,7 +102,7 @@ Fairshake, the crypto industry's super PAC, ended 2025 with $193 million — mor
 
 A new super PAC, **Leading the Future**, was launched in August 2025 by AI industry donors. It raised $125 million in its first year. Goal: back candidates who support federal AI regulation over state-by-state rules — a deregulation play framed as pro-consumer "uniformity."
 
-**Key founders/donors:**
+### Key founders/donors:
 - Andreessen Horowitz (Marc Andreessen — Trump adviser)
 - Greg Brockman (OpenAI) — also giving $25M directly to MAGA Inc.
 - **Joe Lonsdale** — Palantir co-founder, vocal Trump supporter
@@ -116,7 +116,7 @@ A new super PAC, **Leading the Future**, was launched in August 2025 by AI indus
 
 **Vault profiles to update:** [[Palantir Technologies]], [[Peter Thiel]] (Lonsdale connection)
 
-**Sources:**
+### Sources:
 - [CNBC: AI industry super PAC raises $125 million in 2025](https://www.cnbc.com/2026/01/30/ai-industry-super-pac-raises-campaign-money.html) (Tier 2)
 - [NBC News: AI, crypto and Trump super PACs stash millions to spend on the midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2)
 
@@ -128,7 +128,7 @@ A new super PAC, **Leading the Future**, was launched in August 2025 by AI indus
 
 Federal lobbying spending hit $5.08 billion in 2025 — the first year to break $5 billion and the largest single-year increase since quarterly disclosures began in 2008. The number of lobbying organizations grew 12% to 15,768.
 
-**Industry breakdown:**
+### Industry breakdown:
 
 | Sector | 2025 Spending |
 |--------|--------------|
@@ -136,7 +136,7 @@ Federal lobbying spending hit $5.08 billion in 2025 — the first year to break 
 | Pharma / Health Products | $452M |
 | Defense | $191M |
 
-**Tracked corporations (verified via OpenSecrets):**
+### Tracked corporations (verified via OpenSecrets):
 
 | Company | 2025 Lobbying Spend |
 |---------|-------------------|
@@ -151,7 +151,7 @@ Federal lobbying spending hit $5.08 billion in 2025 — the first year to break 
 
 **Vault profiles to update:** [[Meta - Facebook]], [[Google - Alphabet]], [[Blackstone Group]], [[US Chamber of Commerce]]
 
-**Sources:**
+### Sources:
 - [OpenSecrets: Lobbying firms took in a record $5 billion in 2025](https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/) (Tier 1)
 
 ---
@@ -164,14 +164,14 @@ Federal lobbying spending hit $5.08 billion in 2025 — the first year to break 
 
 Peter Thiel resumed political giving in early 2025 after sitting out the 2024 cycle entirely.
 
-**2025 contributions documented:**
+### 2025 contributions documented:
 - $1.5M to Club for Growth Action (Feb 2025)
 - $852,200 to Mike Johnson's "Grow the Majority" joint fundraising committee (Feb 2025) — redistributed to RNC, NRCC, 29 GOP House members, and 12 state parties
 - $3M to California Business Roundtable (Dec 2025) — lobbying against proposed 5% CA wealth tax on billionaires
 
 **March 2026 update:** Bloomberg (BLOCKED — unverified) reported Thiel and Uihlein recently pumped additional millions into Club for Growth Action. EXPOSEDbyCMD confirmed Club for Growth raised $15.8M in 2025; $10M from Jeffrey Yass.
 
-**Club for Growth Action 2025 funding:**
+### Club for Growth Action 2025 funding:
 
 | Donor | Amount |
 |-------|--------|
@@ -187,7 +187,7 @@ Peter Thiel resumed political giving in early 2025 after sitting out the 2024 cy
 
 **Vault profiles to update:** [[Peter Thiel]], [[Club for Growth Action]], [[_Mike Johnson Master Profile]]
 
-**Sources:**
+### Sources:
 - [Yahoo Finance: Peter Thiel's political hiatus is over. Here's where his money's flowing now.](https://finance.yahoo.com/news/peter-thiels-political-hiatus-over-112902928.html) (Tier 2)
 - [EXPOSEDbyCMD: Major Right-Wing Super PACs Disclose Recent Contributions and Endorsements](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/) (Tier 2)
 
@@ -201,7 +201,7 @@ AIPAC's federal PAC delivered $28 million to congressional members and candidate
 
 **Top recipient:** Speaker Mike Johnson — $625,000 in PAC contributions (H1 2025)
 
-**2024 cycle final tally (via Readsludge):**
+### 2024 cycle final tally (via Readsludge):
 - United Democracy Project (UDP) — AIPAC's super PAC — spent $100M across 389 races
 - 26 Senate races, 363 House races targeted
 - Effective: defeated Jamaal Bowman (NY-16) and Cori Bush (MO-1)
@@ -213,7 +213,7 @@ AIPAC's federal PAC delivered $28 million to congressional members and candidate
 
 **Vault profiles to update:** [[AIPAC - American Israel Public Affairs Committee]], [[Jamaal Bowman]], [[Cori Bush]], [[_Mike Johnson Master Profile]]
 
-**Sources:**
+### Sources:
 - [Readsludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2)
 - [Readsludge: Here Is All the Money AIPAC Spent on the 2024 Elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
 - [OpenSecrets: American Israel Public Affairs Cmte Profile](https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963) (Tier 1)
@@ -235,7 +235,7 @@ Americans for Prosperity Action (AFP Action) raised $28.9M in 2025, with $6.5M f
 
 **Vault profiles to update:** [[Koch Network - Charles Koch]], [[Americans for Prosperity]]
 
-**Sources:**
+### Sources:
 - [Readsludge: Koch Network Fuels Republican Push to Kill ACA Subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2)
 
 ---
@@ -255,7 +255,7 @@ The two main Republican congressional super PACs raised a combined $175M in 2025
 
 **Vault profiles to update:** [[Senate Leadership Fund]], [[Congressional Leadership Fund]], [[Ken Griffin - Citadel]]
 
-**Sources:**
+### Sources:
 - [FEC: SLF PAC committee overview](https://www.fec.gov/data/committee/C00571703/?tab=summary) (Tier 1)
 - [Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising) (Tier 2) (UNVERIFIED — not Chrome-checked this session)
 
@@ -278,7 +278,7 @@ LegiStorm tracked 866 individuals moving from Congress to lobbying in 2025 — a
 
 **Vault profiles to update:** [[Elon Musk - Tesla SpaceX]], [[DOGE - Department of Government Efficiency]] (if exists)
 
-**Sources:**
+### Sources:
 - [LegiStorm: Revolving Door in Congress 2025](https://info.legistorm.com/blog/revolving-door-in-congress) (Tier 3) (UNVERIFIED — not Chrome-checked this session)
 - [Revolving Door Project: DOGE analysis](https://therevolvingdoorproject.org/doge-musk-vought-government-cuts-civil-service/) (Tier 3) (UNVERIFIED — not Chrome-checked this session)
 
@@ -290,7 +290,7 @@ LegiStorm tracked 866 individuals moving from Congress to lobbying in 2025 — a
 
 Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA Inc. in H2 2025, contributing $20–30M (sources differ on exact figure). This coincides with the Trump administration's reversal of Biden-era crypto enforcement posture.
 
-**Timeline pattern:**
+### Timeline pattern:
 - Jan 2025: Trump signs executive order establishing pro-crypto regulatory framework
 - H2 2025: Foris DAX gives $20–30M to MAGA Inc.
 - 2025: SEC drops major crypto enforcement actions; CFTC leadership reshuffled
@@ -300,7 +300,7 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 
 **Vault profiles to update:** [[Crypto.com / Foris DAX]] (new node needed), [[_Donald Trump Master Profile]]
 
-**Sources:**
+### Sources:
 - [CNN: Trump's super PAC builds $300 million cash stockpile](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2)
 - [NBC News: New megadonors with major business before the government back Trump's super PAC](https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867) (Tier 2)
 
@@ -308,7 +308,7 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 
 ### Vault Update Flags
 
-**Profiles flagged for update (do not modify directly — flag for profile-builder / donor-node-builder tasks):**
+### Profiles flagged for update (do not modify directly — flag for profile-builder / donor-node-builder tasks):
 
 | Profile | Finding | Priority |
 |---------|---------|---------|
@@ -323,7 +323,7 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 | [[Meta - Facebook]] | Now tops Big Tech lobbying at $26.29M in 2025 | LOW |
 | [[Google - Alphabet]] | $15.6M in 2025 lobbying | LOW |
 
-**New nodes needed:**
+### New nodes needed:
 - Fairshake PAC (crypto, $193M war chest, Coinbase/a16z/Ripple)
 - Leading the Future PAC (AI, $125M, Lonsdale/Brockman/a16z)
 - Crypto.com / Foris DAX (top MAGA Inc. donor, $20–30M)
@@ -332,7 +332,7 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 
 ### URL Verification Log — This Session
 
-**VALID (Chrome-confirmed):**
+### VALID (Chrome-confirmed):
 - `https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/`
 - `https://www.cnbc.com/2026/01/30/ai-industry-super-pac-raises-campaign-money.html`
 - `https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html`
@@ -349,11 +349,11 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 - `https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/`
 - `https://www.fec.gov/data/committee/C00571703/?tab=summary`
 
-**BLOCKED / UNVERIFIED (Bloomberg domain-restricted):**
+### BLOCKED / UNVERIFIED (Bloomberg domain-restricted):
 - `https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest` — UNVERIFIED (Bloomberg site restriction)
 - `https://www.bloomberg.com/news/articles/2026-03-19/billionaires-thiel-and-uihlein-pump-millions-into-republican-pac` — UNVERIFIED (Bloomberg site restriction)
 
-**UNVERIFIED (not Chrome-checked this session — verify before using in ready files):**
+### UNVERIFIED (not Chrome-checked this session — verify before using in ready files):
 - `https://www.axios.com/2026/02/03/2025-campaign-fundraising`
 - `https://info.legistorm.com/blog/revolving-door-in-congress`
 - `https://therevolvingdoorproject.org/doge-musk-vought-government-cuts-civil-service/`

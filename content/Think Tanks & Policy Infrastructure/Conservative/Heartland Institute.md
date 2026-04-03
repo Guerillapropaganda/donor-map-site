@@ -27,7 +27,7 @@ Unlike Heritage ($100M+) or AEI ($90M+), Heartland operates on a small budget th
 
 **President:** James M. Taylor (since March 2020). Compensation: $333,590 (FY2024). Taylor previously directed Heartland's Center on Climate and Environmental Policy. He replaced Frank Lasée, who resigned in March 2020 amid a staff layoff.
 
-**Key staff:**
+### Key staff:
 - James Lakely (Vice President, $210,861) — former communications director, promoted alongside Taylor
 - Justin Haskins (Director of Socialism Research Center, $118,658 in FY2022) — leads Heartland's anti-socialism messaging
 - Samuel Karnick (Director of Publications, $108,308)
@@ -56,7 +56,7 @@ Heartland's funding model is the most exposed in the think tank ecosystem, thank
 
 **Anonymous mega-donor** — Per the 2012 leaked documents, a single anonymous donor contributed at least $7.2 million between 2008 and 2011. This donor's identity has never been publicly confirmed but represented a massive share of Heartland's budget during those years.
 
-**Corporate donors revealed in 2012 leak (selected):**
+### Corporate donors revealed in 2012 leak (selected):
 - Microsoft ($50,000–$60,000)
 - GlaxoSmithKline ($50,000–$60,000)
 - State Farm Insurance ($230,000 in one year)
@@ -95,7 +95,7 @@ Heartland's output is concentrated in climate denial, with secondary programs in
 
 Heartland's pipeline operates differently from Washington-based think tanks. Rather than placing fellows in federal administrations, Heartland works the state level — pushing model legislation, talking points, and NIPCC reports to state legislators and attorneys general.
 
-**How Heartland research becomes policy:**
+### How Heartland research becomes policy:
 
 1. **Produce NIPCC reports and Climate at a Glance materials** — Create citation-ready "counter-evidence" on climate science
 2. **Distribute to state legislators** — 1 million+ contacts per year, direct outreach to legislators who lack independent research capacity
@@ -149,25 +149,25 @@ Heartland's revolving door operates differently from Washington think tanks. Rat
 
 ### What Their Funders Got
 
-**Fossil fuel interests (via DonorsTrust/DCF, Exxon, anonymous mega-donor) got:**
+### Fossil fuel interests (via DonorsTrust/DCF, Exxon, anonymous mega-donor) got:
 - The NIPCC: a citation-ready counter-IPCC product that provides legislators with "scientific" cover for opposing climate regulation
 - 14+ International Conferences on Climate Change generating alternative media narratives
 - Climate at a Glance: shareable talking points for state legislators opposing renewable mandates
 - Direct distribution to 1 million+ legislator contacts per year
 - Decades of delay in climate regulation — the core product of the climate denial industry
 
-**Philip Morris / tobacco industry got:**
+### Philip Morris / tobacco industry got:
 - Research questioning secondhand smoke science
 - Board-level access to a "think tank" producing industry-friendly research
 - Lobbying against tobacco taxes, smoking bans, and FDA regulation
 - The "Smoker's Lounge" — ongoing institutional advocacy against tobacco regulation
 
-**DonorsTrust / anonymous conservative donors got:**
+### DonorsTrust / anonymous conservative donors got:
 - Anonymized funding of climate denial without public disclosure of individual donor identity
 - Tax-deductible contributions to what functions as a fossil fuel industry advocacy operation
 - Plausible deniability: funding flows through DonorsTrust, so individual donors' names never appear on Heartland's materials
 
-**Koch network got:**
+### Koch network got:
 - Climate denial infrastructure funded primarily through DonorsTrust (not directly attributable to Koch)
 - State-level policy networks opposing renewable energy mandates and EPA regulation
 - Model legislation distributed to state legislators across the country

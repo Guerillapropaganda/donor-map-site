@@ -43,12 +43,12 @@ Waltz is a military-industrial revolving door figure who built personal wealth t
 > [!money] Follow the Money
 > Waltz's campaign and Warrior Diplomat PAC raised $2.79M in 2023–2024. Top donors include AIPAC ($102K) and securities/investment firms ($292K). The AIPAC connection is analytically significant — Waltz is hawkish on Israel and supportive of military aid.
 
-**2023–2024 fundraising:**
+### 2023–2024 fundraising:
 - Total raised: $2.79M (campaign + Warrior Diplomat PAC)
 - AIPAC: $102K
 - Securities/investment firms: $292K
 
-**Financial disclosures (2024):**
+### Financial disclosures (2024):
 - Net worth: ~$3M
 - Assets: $4–9M
 - Liabilities: $1–2.2M

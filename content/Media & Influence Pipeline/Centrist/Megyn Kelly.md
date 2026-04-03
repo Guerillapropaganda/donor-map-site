@@ -37,7 +37,7 @@ Kelly's revenue architecture spans three layers: institutional contracts, platfo
 
 **Sponsors:** Direct-response advertisers managed through Red Seat/Fox Corp ad infrastructure. Documented sponsors include Riverbend Ranch and Herald Group. The show's advertising page markets access to a right-leaning audience demographic.
 
-**Prior institutional backing:**
+### Prior institutional backing:
 - Fox News (2004–2017): Salary estimated at $15–20M/year at peak during The Kelly File era
 - NBC/Comcast (2017–2019): $69M three-year contract, departed with approximately $30M settlement after show cancellation
 

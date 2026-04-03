@@ -1,7 +1,7 @@
 ---
 title: "Bill Clinton"
 type: politician
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
@@ -171,16 +171,16 @@ The Clinton administration's revolving door with Wall Street was the most extens
 
 ### Analytical Patterns
 
-**Pattern: Genuine Win + Structural Limit**
+### Pattern: Genuine Win + Structural Limit
 Clinton achieved genuine economic growth (1995–2000 expansion), unemployment fell to 4.0%, and the federal budget reached surplus in 1998–2001. These are real achievements. However, they occurred within structural limits set by the donor class: union membership declined from 15.5% to 13.5% during Clinton's presidency; income inequality accelerated (Gini coefficient rose); wealth concentrated in finance, tech, and real estate while manufacturing was offshored; environmental regulation was weakened. The economic expansion benefited asset owners and financial sector workers, not the working class that formed the Democratic base.
 
-**Pattern: Villain Framing**
+### Pattern: Villain Framing
 Clinton blamed "globalization" and "technological change" for manufacturing decline and wage stagnation — external forces beyond political control. This framing deflected from his own policy choices (NAFTA, opposition to labor law reform, welfare cuts) that actively accelerated the damage. When the cause is framed as impersonal market forces, the political architects of those forces escape accountability.
 
-**Pattern: Both-Sides Illusion**
+### Pattern: Both-Sides Illusion
 On crime, welfare, and trade, Clinton positioned himself as taking the "moderate" position between Republican extremism and Democratic softness. This framing obscured that he was not splitting the difference — he was implementing the Republican donor class's program with Democratic branding. There was no "center" between mass incarceration and no incarceration; he chose mass incarceration. There was no "center" between NAFTA and no NAFTA; he chose NAFTA. The "center" was wherever the donor class wanted him to be.
 
-**Pattern: Dark Money Symmetry**
+### Pattern: Dark Money Symmetry
 The DLC refused to disclose its donor list while positioning itself as a force for Democratic Party "reform." The 1996 campaign finance scandal revealed illegal foreign contributions alongside legal corporate soft money — both serving the same function (purchasing policy outcomes) through different mechanisms. Clinton's Democratic Party pioneered the soft-money fundraising strategies that both parties would later escalate into the Super PAC era.
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Dick Cheney"
 type: politician
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 2
 parent: null
@@ -100,19 +100,19 @@ More precisely: Cheney's financial interest in Halliburton's success was not eli
 
 ### Rhetorical Signature Moves
 
-**"No doubt" Certainty Rhetoric**
+### "No doubt" Certainty Rhetoric
 Cheney specialized in stating uncertain or false intelligence claims with absolute certainty. "There is no doubt..." "We know that..." These formulations foreclosed debate by making any questioning of the evidence appear naive. The certainty was manufactured to serve the war agenda.
 
-**"Work the Dark Side"**
+### "Work the Dark Side"
 Explicit endorsement of extralegal methods wrapped in necessity language. September 16, 2001, on Meet the Press: "We also have to work, though, sort of the dark side, if you will." This framing normalized torture, surveillance, and secret detention by positioning them as pragmatic necessities rather than moral choices.
 
-**Villain Framing**
+### Villain Framing
 Blame external threats (Saddam, al-Qaeda, Iran) to justify military and surveillance expansion that serves the defense-industrial complex. The threat is real enough to be plausible, catastrophic enough to justify extraordinary measures, and indefinite enough to never require resolution. Cheney's "1% doctrine" (if there's a 1% chance of threat, treat it as a certainty) is this pattern in its purest form.
 
-**"I Have No Financial Interest"**
+### "I Have No Financial Interest"
 Technically precise, substantively false. Cheney used legal terminology to deny what was structurally obvious. This is the donor class's standard rhetorical defense against conflict of interest charges: comply with the letter of disclosure law while maintaining the financial relationship through financial engineering (deferred comp, donated options, insurance policies).
 
-**Executive Privilege Absolutism**
+### Executive Privilege Absolutism
 When challenged on Energy Task Force records, Warrantless Wiretapping, or torture memos: maximum secrecy, executive privilege, state secrets. The goal is not legal legitimacy but delay, exhaustion, and precedent. Cheney spent his entire vice presidency establishing that the executive branch cannot be audited by Congress, the courts, or the public on national security matters.
 
 ---

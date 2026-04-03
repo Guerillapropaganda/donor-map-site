@@ -1,7 +1,7 @@
 ---
 title: "James O'Keefe"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -46,22 +46,22 @@ After the February 2023 ouster, O'Keefe Media Group incorporated as a for-profit
 
 The Project Veritas funding model relied on four primary donor channels:
 
-**DonorsTrust (2014-2018): $8.4M**
+### DonorsTrust (2014-2018): $8.4M
 The single largest source during peak years. DonorsTrust distributed approximately $8.4M to Project Veritas across the 2014-2018 window, representing roughly one-third of the organization's total contributions during that period. In 2015 specifically, DonorsTrust and its affiliate [[Donors Capital Fund]] together provided $1.5M, equaling 40% of Project Veritas's annual revenue. DonorsTrust functions as a pass-through intermediary that allows dark money donors to fund organizations while maintaining anonymity — donors give to DonorsTrust, which then passes money to vetted right-wing organizations. For Project Veritas, this meant 40% of annual revenue came through channels designed to obscure the original donors' identities.
 
-**Bradley Foundation (2015-2022): $6.5M cumulative**
+### Bradley Foundation (2015-2022): $6.5M cumulative
 The [[Bradley Foundation]] and its related Bradley Impact Fund provided direct funding across multiple years. The Bradley Impact Fund alone contributed $2.1M in 2021 and $1.8M in 2022 — the largest single sources in those fiscal years. The Bradley Foundation has become a primary funder of right-wing litigation, media, and culture war infrastructure; Project Veritas fit that profile perfectly. The foundation's funding suggests a deliberate strategy to expand opposition research capacity as a tool for the broader conservative movement.
 
-**Robert Mercer and Affiliated Vehicles: $775K+**
+### Robert Mercer and Affiliated Vehicles: $775K+
 Robert Mercer provided $25K in direct donations (2012) and channeled $750K through the "Making America Great Again" fund to "Action Fund" entities in 2018. Mercer is a major Republican donor and data scientist who has funded a range of right-wing organizations including Cambridge Analytica before its collapse. His funding to Project Veritas reflects a broader alignment with data-driven opposition research and micro-targeted messaging.
 
-**Trump Foundation: $20K (2015)**
+### Trump Foundation: $20K (2015)
 The Trump Foundation provided a single $20K contribution in 2015, signaling political alignment during Trump's 2016 campaign run.
 
-**Dunn's Foundation: $100K (2013-2014)**
+### Dunn's Foundation: $100K (2013-2014)
 Dunn's Foundation, managed by conservative donors, provided $100K across 2013-2014.
 
-**National Christian Charitable Foundation: $7,350**
+### National Christian Charitable Foundation: $7,350
 A smaller conservative donor network contributed $7,350.
 
 > [!money]
@@ -73,7 +73,7 @@ A smaller conservative donor network contributed $7,350.
 
 Project Veritas operated as opposition research disguised as journalism. The organization's output was timed to election cycles and designed to create maximum political damage to progressive organizations and Democratic candidates.
 
-**Signature targets:**
+### Signature targets:
 - **ACORN (2009):** A series of hidden-camera sting videos alleging fraud in voter registration and poverty programs. The videos were selectively edited and the claims disputed by investigators, but led directly to ACORN's defunding and dissolution. The campaign destroyed an organization that had registered 1.7M voters, many in low-income communities.
 - **Planned Parenthood (2015):** Undercover videos alleging illegal sales of fetal tissue, later discredited. Nevertheless, the videos provided political ammunition for Republican defunding efforts.
 - **CNN and Washington Post (2017-2018):** Undercover operations against media outlets; designed to discredit mainstream journalism as biased.

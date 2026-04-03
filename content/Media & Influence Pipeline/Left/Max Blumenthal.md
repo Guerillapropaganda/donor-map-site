@@ -1,7 +1,7 @@
 ---
 title: "Max Blumenthal"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 3
 parent: null
@@ -23,7 +23,7 @@ Journalist, author, founder of The Grayzone (crowdfunded investigative outlet). 
 
 The Grayzone operates on stated Patreon model: crowdfunded through patron subscriptions generating $3,830-$19,150 monthly (2020 baseline). Blumenthal claims funding comes from "private friends of mine who are basically progressive Americans who support progressive media." However, Patreon revenue alone cannot sustain full staff salaries (Blumenthal, Aaron Maté, Anya Parampil, 5+ contributors). Stated model masks undisclosed funding sources.
 
-**Documented funding connections:**
+### Documented funding connections:
 - 2015: Paid speaker at RT Moscow gala (exact fee undisclosed; reported attendance)
 - 2018: Received $20,000 award from Association for Investment in Popular Action Committees (Assad-aligned California nonprofit) alongside "Serena Shim Award"
 - Multiple Grayzone staff employed by Russian government media outlets at various points

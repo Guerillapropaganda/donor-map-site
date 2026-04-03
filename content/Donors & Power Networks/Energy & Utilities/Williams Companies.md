@@ -30,15 +30,15 @@ Williams wants to maintain and expand natural gas pipeline infrastructure, posit
 > [!money] Follow the Money
 > Williams PAC contributed $551K to federal candidates in 2023–2024, with 87% ($478K) going to Republicans. Corporate contributions of $269K in 2024 were more bipartisan — going to state parties and legislators in Louisiana, Virginia, Washington, and Oregon. Lobbying expenditures: $1.66M in 2025.
 
-**2023–2024 PAC contributions ($551K total):**
+### 2023–2024 PAC contributions ($551K total):
 - 87% Republican ($478K)
 - $10K each to Oklahoma Reps Bice, Cole, and Hern
 - Corporate contributions: $269K (more bipartisan, state-level)
 
-**Lobbying:**
+### Lobbying:
 - 2025 expenditures: $1.66M across 11 lobbyists
 
-**FY2025 financials:**
+### FY2025 financials:
 - Revenue: $11.95B (up from $10.5B in 2024)
 - Net income: $2.62B ($2.14/share, +18%)
 - Adjusted EBITDA: $7.75B (13th consecutive year of growth)

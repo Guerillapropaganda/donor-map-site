@@ -30,13 +30,13 @@ NRHC lobbies against federal rent caps and tenant protection mandates while supp
 > [!money] Follow the Money
 > NRHC's financial profile is modest compared to its member companies' market capitalizations, but its lobbying function is outsized relative to its budget. The revolving-door hire of former HUD Acting Secretary Todman as CEO is itself a form of political spending — it buys institutional knowledge, regulatory relationships, and credibility.
 
-**Financial profile (2023):**
+### Financial profile (2023):
 - Revenue: ~$3M (primarily member dues)
 - Assets: ~$977K
 - Liabilities: $1.6M
 - CEO compensation (David Howard, 2023): $444K
 
-**Lobbying:**
+### Lobbying:
 - 2024: $460K
 - 2025: $328K
 

@@ -1,7 +1,7 @@
 ---
 title: "John Hickenlooper"
 type: politician
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -53,7 +53,7 @@ Hickenlooper represents Colorado — a state with growing progressive environmen
 
 ### Career Federal Campaign Finance (OpenSecrets, 2019–2024):
 
-**Top Industries:**
+### Top Industries:
 1. Securities & Investment: $2,758,550
 2. Education: $2,728,678
 3. Lawyers/Law Firms: $2,720,263
@@ -62,7 +62,7 @@ Hickenlooper represents Colorado — a state with growing progressive environmen
 6. Electronics Mfg & Equip: $1,122,369
 7. TV/Movies/Music: $1,000,986
 
-**Top Contributors (employer/organization):**
+### Top Contributors (employer/organization):
 1. Alphabet Inc (Google): $269,369
 2. University of Colorado: $229,950
 3. University of California: $202,396
@@ -72,7 +72,7 @@ Hickenlooper represents Colorado — a state with growing progressive environmen
 7. Liberty Media Corp: $99,667
 8. Brownstein Hyatt et al: $76,450
 
-**Sector Totals:**
+### Sector Totals:
 - Communications/Electronics: $3,669,452
 - Lawyers & Lobbyists: $2,923,445
 - Health: $2,250,599

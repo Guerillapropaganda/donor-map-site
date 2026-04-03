@@ -1,7 +1,7 @@
 ---
 title: "Tenet Healthcare"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
@@ -47,7 +47,7 @@ Tenet's federal lobbying targets four overlapping policy areas, all designed to 
 
 Tenet's PAC contributions are bipartisan by design — the company funds whoever controls the committees that regulate hospital payments, regardless of party. In the 2024 cycle ($443,374 total):
 
-**Top recipients (2024 cycle):**
+### Top recipients (2024 cycle):
 - Kamala Harris (D-PRES): $59,519 (individual contributions from Tenet employees)
 - Donald Trump (R-PRES): $28,678 (individual contributions)
 - Republican National Committee: $19,327
@@ -81,19 +81,19 @@ Tenet's PAC contributions are bipartisan by design — the company funds whoever
 
 ### What They've Gotten
 
-**Policy wins (what Tenet's lobbying protected):**
+### Policy wins (what Tenet's lobbying protected):
 - Medicaid DSH cuts repeatedly delayed — $24 billion in scheduled cuts have been postponed by Congress multiple times, preserving supplemental payments to Tenet's safety-net hospitals
 - Site-neutral payment reform stalled — CBO estimates site-neutral payments would save Medicare $157 billion; the hospital lobby (including Tenet) has prevented comprehensive implementation
 - 340B drug discount program maintained — hospital pharmacy spread between 340B acquisition costs and full-price reimbursement continues to generate significant revenue
 - Medicare for All blocked — the Partnership for America's Health Care Future coalition, to which Tenet contributed $630K, successfully prevented single-payer legislation from advancing
 
-**Corporate outcomes (what the political protection enabled):**
+### Corporate outcomes (what the political protection enabled):
 - Tenet completed its pivot to ambulatory surgery centers: USPI now operates 535+ facilities generating higher margins than inpatient hospitals
 - Divested nine hospitals in 2024 for $3 billion in after-tax proceeds while lobbying to maintain the payment structures those hospitals depended on
 - Stock price increased from ~$20 (2020) to over $150 (2024) as the ASC pivot generated returns
 - Despite $1.4 billion+ in cumulative fraud settlements, Tenet was never debarred from Medicare or Medicaid — the company continued receiving billions in federal healthcare payments
 
-**What didn't happen:**
+### What didn't happen:
 - No debarment from federal programs despite serial fraud — the DOJ settlements included criminal guilty pleas by subsidiaries but no systemic consequences for the parent company's federal program participation
 - No comprehensive site-neutral payment reform — the CBO-estimated $157 billion in Medicare savings remains unrealized
 - No structural reform to the for-profit hospital billing model that Tenet's fraud history demonstrates is prone to systematic exploitation

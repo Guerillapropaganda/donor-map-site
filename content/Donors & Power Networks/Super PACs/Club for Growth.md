@@ -1,7 +1,7 @@
 ---
 title: "Club for Growth"
 type: pac
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -25,7 +25,7 @@ Club for Growth's network comprises over 500,000 members and operates through mu
 
 ### The Money — FEC Financial Summary (2024 Cycle)
 
-**Club for Growth Action (C00487470) — OpenSecrets/FEC:**
+### Club for Growth Action (C00487470) — OpenSecrets/FEC:
 
 | Category | Amount |
 |----------|--------|
@@ -77,7 +77,7 @@ The mechanism is pure: vote the way we want, or face a $5-10M primary challenge.
 
 Club for Growth Action achieved a 77.3% win rate in the 2024 cycle, winning 32 of its targeted races including 24 primary election wins. The operation deployed 235 unique TV ads, 174 mail pieces, and 22 radio ads across federal and state races.
 
-**Key 2024 victories:**
+### Key 2024 victories:
 
 | Race | Candidate | Type | Significance |
 |------|-----------|------|-------------|
@@ -92,7 +92,7 @@ Club for Growth Action achieved a 77.3% win rate in the 2024 cycle, winning 32 o
 | AL-01 | Rep. Barry Moore | General | Protected fiscal conservative |
 | MO-03 | Bob Onder | Primary | Fiscal conservative primary win |
 
-**2024 primary enforcement targets (documented):**
+### 2024 primary enforcement targets (documented):
 
 - **Jim Justice (WV Senate primary):** Targeted with $2-5M in opposition spending for insufficient fiscal conservative credentials
 - **Matt Dolan (OH Senate primary):** Targeted for being too moderate on fiscal issues

@@ -31,7 +31,7 @@ Lobbying firms are the connective tissue. They employ former staffers who lobby 
 
 ### Isolation Rules
 
-**Same architecture as Media Pipeline and Think Tank sections — fully separate from the main Donor Map vault.**
+### Same architecture as Media Pipeline and Think Tank sections — fully separate from the main Donor Map vault.
 
 1. **One-way wikilinks only.** Lobbying firm files link TO donor nodes in `Donors & Power Networks/`. Main vault files NEVER link back. Clean deletion with zero breakage.
 2. **Separate YAML type.** All files use `type: lobbying-firm`. Excluded from main vault stats.
@@ -151,7 +151,7 @@ The lobbying firm profiles connect to donor nodes as CLIENTS of the firm. The do
 
 ### Build Priority
 
-**Phase 1 — Top 10 firms by lobbying revenue:**
+### Phase 1 — Top 10 firms by lobbying revenue:
 
 | # | Firm | Why First |
 |---|------|-----------|

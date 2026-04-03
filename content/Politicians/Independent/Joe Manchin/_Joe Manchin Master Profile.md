@@ -1,7 +1,7 @@
 ---
 title: "_Joe Manchin Master Profile"
 type: politician
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -50,7 +50,7 @@ Joe Manchin. Former U.S. Senator from West Virginia (2010–2025). Former Govern
 | 2017–2022 (Senate) | $1,243,116 | $552,107 | Included | $2,246,567 |
 | **Career Total** | **~$1.2M+** | **$647,452** | **#1 industry 2010, 2012** | **$5M+** |
 
-**Key cycle highlights:**
+### Key cycle highlights:
 - **2010 (Special Election):** Coal mining designated #1 donor industry; mining gave $341,848; oil & gas gave $109,850
 - **2012:** Coal mining again #1 favorite industry; mining gave $682,698; utilities gave $388,200; total energy sector $1,404,648
 - **2022:** Manchin ranked #1 oil & gas recipient in entire Senate for 2021–2022 cycle, receiving $835,209 from oil & gas alone in that cycle

@@ -1,7 +1,7 @@
 ---
 title: "Centene Corporation PAC"
 type: pac
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
@@ -36,7 +36,7 @@ Specific legislative priorities include: maintaining Medicaid expansion under th
 
 CentenePAC's contribution pattern is aggressively bipartisan, reflecting the company's dependence on Medicaid policy that transcends party control. In the 2024 cycle, congressional contributions split 51.5% Democratic / 48.3% Republican. When broader candidate giving (including presidential) is included, the split was 63.9% Democratic / 36.2% Republican — reflecting the Harris presidential campaign's pull.
 
-**Key recipient patterns (2024 cycle):**
+### Key recipient patterns (2024 cycle):
 
 The PAC overwhelmingly favors incumbents (84.6% of congressional contributions) over challengers — the goal is access to sitting committee members, not ideological outcomes. Average contributions to House members were $1,672 (D) and $2,415 (R); to Senators, $2,248 (D) and $2,707 (R). The slightly higher Republican averages reflect targeted spending on committee chairs.
 
@@ -85,7 +85,7 @@ CentenePAC has been registered as an active monthly corporate PAC since March 19
 
 The One Big Beautiful Bill Act, signed into law in 2025, represents the most significant test and failure of Centene's bipartisan political strategy. Despite years of bipartisan PAC contributions, $60M+ in lobbying since 2018, and direct investment in the Trump inaugural fund, the Republican-controlled Congress enacted $1 trillion in Medicaid and ACA cuts that devastated Centene's business.
 
-**Financial impact (2025):**
+### Financial impact (2025):
 - Net loss: $6.7 billion for the full year (versus profits in prior years)
 - Q3 2025: $6.6 billion loss driven by non-cash goodwill impairment triggered by the One Big Beautiful Bill and stock price decline
 - Q2 2025: $253 million loss as medical costs surged

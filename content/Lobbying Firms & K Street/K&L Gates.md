@@ -161,19 +161,19 @@ The result is that a K&L Gates client facing a bipartisan legislative threat —
 
 ### Billing vs. Outcomes
 
-**American Maritime Partnership + Lake Carriers' Association + Maritime Coalition ($2.5M+/year)**
+### American Maritime Partnership + Lake Carriers' Association + Maritime Coalition ($2.5M+/year)
 Investment: Sustained annual billing across 6–8 maritime clients totaling $2.5M+ per year
 Return: Jones Act maintained largely intact through multiple reform efforts, waiver requests, and Trump executive actions. SHIPS for America Act (2024) introduced with bipartisan support specifically expanding — not restricting — the Jones Act framework. March 2026 Trump administration 60-day waiver for energy products (oil, natural gas, LNG, fertilizer, coal) represented an acute threat, but AMP-led lobbying positioned the waiver as emergency-only measure, preventing permanent statutory change or longer-duration waiver. Domestic maritime industry receives $500M+ in annual federal support through Maritime Administration programs, federal military sealift contracts, and port infrastructure grants funded by the Bipartisan Infrastructure Law.
 
-**ByteDance Inc ($160,000 in 2024)**
+### ByteDance Inc ($160,000 in 2024)
 Investment: $160,000 disclosed lobbying (plus separate legal and PR spend)
 Return: TikTok divestiture legislation signed (PAFACA, April 2024), but implementation contested in federal court and execution delayed by Trump executive orders. ByteDance ultimately signed a deal in December 2025 to sell TikTok's US operations to an Oracle-led consortium (Oracle + Silver Lake + Abu Dhabi MGX, owning 45% of a new "TikTok USDS Joint Venture LLC"). Critics noted the deal may not fully meet PAFACA's "clean break" requirement. K&L Gates deployed a bipartisan former-Congress team (Doyle, Gordon, Denham, Trahern) during the critical 2023–2025 period — the lobbying helped buy time for a negotiated exit rather than an outright ban.
 
-**Church Alliance ($450,000/year)**
+### Church Alliance ($450,000/year)
 Investment: $450,000 to K&L Gates in 2024
 Return: Pension and benefits regulation for religious and non-profit sector maintained; IRS, DOL, and PBGC regulatory treatment of church plans preserved through multiple administrative and legislative cycles. Mike Evans (former Senate Finance majority counsel) handles this directly — his former committee's jurisdiction covers exactly the tax-exempt status and ERISA exemptions Church Alliance protects.
 
-**Pitney Bowes ($610,000) + Package Coalition ($480,000)**
+### Pitney Bowes ($610,000) + Package Coalition ($480,000)
 Investment: $1.09M combined in 2024
 Return: USPS postal rate structures maintained in forms favorable to commercial mailers; postal reform legislation shaped; Package Coalition (air cargo shippers) secured FAA reauthorization provisions favorable to air cargo operations. This is K&L Gates' second-largest sectoral concentration after maritime — the mail/shipping logistics lobby.
 

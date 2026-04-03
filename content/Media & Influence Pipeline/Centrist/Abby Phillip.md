@@ -21,13 +21,13 @@ Abby Phillip (born Abigail Daniella Phillip, November 25, 1988, Alexandria, Virg
 
 Of Afro-Trinidadian descent, Phillip grew up in Bowie, Maryland. She graduated **Harvard College** in 2010 with a B.A. in government, originally intending to study pre-med. At Harvard she wrote for The Harvard Crimson.
 
-**Career trajectory (textbook elite institutional pipeline):**
+### Career trajectory (textbook elite institutional pipeline):
 - Politico — White House reporter, covering campaign finance and lobbying under Obama
 - ABC News — ABC News Fellow, digital politics reporter
 - The Washington Post — national political reporter, general assignments
 - CNN (2017–present) — White House correspondent, Inside Politics Sunday anchor, CNN NewsNight host (2023–present)
 
-**Platform presence:**
+### Platform presence:
 - CNN NewsNight (10 PM weeknights, ~500K-900K average viewers per Variety, 2024)
 - CNN Saturday Morning Table for Five (weekend)
 - Previously: Inside Politics Sunday (2021–2023)
@@ -48,7 +48,7 @@ Phillip's income derives entirely from institutional corporate media employment:
 
 **Speaking engagements:** UTA agency signing (2022) positions Phillip for corporate speaking circuit — a standard income supplement for cable news anchors.
 
-**FEC record below — $0 confirmed.**
+### FEC record below — $0 confirmed.
 
 ---
 
@@ -67,7 +67,7 @@ No FEC individual contributions found. The FEC API returns 0 results for both "P
 
 ### Who Funds Them
 
-**Warner Bros. Discovery → Paramount/Skydance (CNN corporate parent):**
+### Warner Bros. Discovery → Paramount/Skydance (CNN corporate parent):
 
 CNN has passed through three corporate ownership structures since 2018:
 1. **Time Warner / WarnerMedia** (historical, pre-AT&T)
@@ -75,26 +75,26 @@ CNN has passed through three corporate ownership structures since 2018:
 3. **Warner Bros. Discovery** (2022–present): David Zaslav as CEO. Under WBD, CNN eliminated progressive-leaning content, fired Don Lemon, Chris Cuomo, and dozens of on-air personalities, and oriented the network toward "neutrality" attractive to conservative viewers and corporate advertisers
 4. **Paramount/Skydance (pending acquisition, ~$111B)**: Shari Redstone and David Ellison's Skydance acquiring WBD. Trump entered the fight in December 2025 saying it is "imperative that CNN be sold." **[[Bari Weiss]]** — who received her own $100M Paramount/Skydance deal to oversee CBS News editorial direction — is expected to have oversight influence over CNN post-acquisition
 
-**Advertiser class:**
+### Advertiser class:
 CNN's revenue depends on corporate advertisers spanning pharma, finance, tech, and defense. Under WBD, CNN has become explicitly more advertiser-friendly — meaning less likely to air content that challenges major advertisers or their political allies.
 
-**Flatiron Books / Macmillan:**
+### Flatiron Books / Macmillan:
 Book funding for *A Dream Deferred*. Macmillan is owned by **Holtzbrinck Publishing Group** (Stuttgart-based private company). Standard commercial publishing deal; no obvious political conflict.
 
 ---
 
 ### What They Push
 
-**1. Democratic establishment centrism**
+### 1. Democratic establishment centrism
 Phillip's coverage consistently reflects the institutional Democratic Party's framing. The 2020 Drake University debate moment — treating as fact a disputed allegation against Bernie Sanders — is the clearest documented instance of editorial alignment against left-populism. Multiple progressive media critics (FAIR, Rolling Stone/Taibbi, Common Dreams) documented CNN's debate moderation as structurally anti-Sanders.
 
-**2. Process journalism as political neutrality**
+### 2. Process journalism as political neutrality
 CNN NewsNight's format is politics-as-spectacle: panel debates, rapid-fire news reaction, emphasis on "both sides" framing. This format serves the corporate requirement of neutrality while producing content that de facto normalizes the political status quo. Questions about why donors fund candidates are less present than questions about polling and electoral strategy.
 
-**3. Representation as institutional legitimacy**
+### 3. Representation as institutional legitimacy
 Phillip's profile as a Black Harvard-educated anchor provides CNN with progressive identity cover. Her presence allows CNN to claim diversity while its ownership structure (WBD → Paramount), editorial constraints (no hot takes, no overt political views), and content (centrist horse-race journalism) remain structurally aligned with corporate donor-class interests.
 
-**4. The Jesse Jackson book as political repositioning**
+### 4. The Jesse Jackson book as political repositioning
 *A Dream Deferred* — about Jesse Jackson's 1988 campaign and its significance for Black political power — is a sophisticated move: it positions Phillip within the tradition of Black progressive politics while operating entirely within a corporate media institution. The book's subject (Jackson as DNC outsider whose movement was suppressed) does not translate into institutional criticism of the forces that currently suppress left-populist voices, including CNN itself.
 
 ---
@@ -113,15 +113,15 @@ Phillip's capture is purely institutional — she is a salaried corporate media 
 
 ### What Their Funders Got
 
-**Warner Bros. Discovery (CNN ownership) got:**
+### Warner Bros. Discovery (CNN ownership) got:
 - A primetime anchor with Harvard credentials, Black identity, and a track record of measured institutional journalism — providing CNN demographic and reputational credibility at low editorial risk
 - The 2020 debate moderation moment: CNN's institutional alignment against Sanders (the most donor-class threatening Democratic candidate) was normalized when Phillip, as a Black woman anchor, appeared to be the face of that editorial decision — rather than CNN's corporate ownership structure
 
-**Democratic establishment got:**
+### Democratic establishment got:
 - The Drake University debate moment produced an anti-Sanders news cycle at a critical moment in the 2020 primary. Progressive challengers face institutional media headwinds; the debate format served this function
 - An anchor whose coverage of Democratic politics consistently centers process, polling, and horse-race dynamics over structural analysis of donor-class control
 
-**Flatiron Books / Macmillan got:**
+### Flatiron Books / Macmillan got:
 - A credentialed CNN anchor with cross-demographic reach writing a book about Black political history — commercially viable in the post-2020 political book market
 
 ---

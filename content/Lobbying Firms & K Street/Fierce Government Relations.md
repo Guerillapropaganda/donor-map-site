@@ -78,7 +78,7 @@ Fierce's 2025 client roster of 25 entities is concentrated in tech, telecom, hea
 
 Of 9 registered lobbyists, **7 are revolving door hires (77.8%)** — one of the highest revolving door percentages in this cohort. Zero are former members of Congress. The firm's revolving door runs exclusively through Republican executive branch and congressional staff positions.
 
-**Key Revolving Door Hires:**
+### Key Revolving Door Hires:
 
 - **Kirk Blalock** (Managing Partner) — Former Special Assistant to the President and Deputy Director, White House Office of Public Liaison under George W. Bush, where he was the lead staff liaison to the US business community. Before the Bush White House, served as Director of External Affairs at Philip Morris Companies; Special Assistant to Chairman Haley Barbour at the Republican National Committee; and Special Assistant to US Secretary of Education Lamar Alexander. The Philip Morris → RNC → Bush White House → K Street trajectory is a textbook revolving door career arc. National Chairman for Young Professionals for John McCain during the 2008 presidential campaign. Board member of the Fund for American Studies and Board of Governors of the Bryce Harlow Foundation.
 
@@ -103,7 +103,7 @@ Of 9 registered lobbyists, **7 are revolving door hires (77.8%)** — one of the
 
 Fierce Government Relations delivers Republican executive branch access and tax/trade policy expertise to corporate clients who need to understand and influence the Republican side of legislative negotiations.
 
-**Top Issues Lobbied (2025):**
+### Top Issues Lobbied (2025):
 
 | Issue Area | Reports | Lobbyists | Clients |
 |------------|---------|-----------|---------|
@@ -118,7 +118,7 @@ Fierce Government Relations delivers Republican executive branch access and tax/
 | Banking | 13 | 9 | 5 |
 | Environment & Superfund | 11 | 9 | 5 |
 
-**Key Legislative Specializations:**
+### Key Legislative Specializations:
 
 - **Tax Policy:** The firm's dominant issue area at 65 reports for 29 clients. Chadwick's White House role on the Jobs and Growth Tax Act of 2003 and Blalock's business community liaison role directly feed this practice. Every major corporate client on the roster has tax exposure — from Apple's international tax structure to the Business Roundtable's corporate tax rate advocacy.
 
@@ -143,7 +143,7 @@ Anthropic quadrupled its federal lobbying to $3.1 million in 2025 across multipl
 
 Unlike every other firm in this cohort, Fierce Government Relations is explicitly and exclusively Republican. The firm does not maintain Democratic partners, does not hire Democratic staffers, and does not pretend to cover both sides of the aisle.
 
-**The Republican Pipeline:**
+### The Republican Pipeline:
 - Kirk Blalock — Bush 43 White House Office of Public Liaison, RNC under Haley Barbour, Lamar Alexander Education Dept
 - Kirsten Chadwick — Bush 43 White House Legislative Affairs, Bush 41 administration
 - Billy Piper — McConnell Chief of Staff (Senate Republican Leader)

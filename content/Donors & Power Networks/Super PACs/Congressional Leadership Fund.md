@@ -1,7 +1,7 @@
 ---
 title: "Congressional Leadership Fund"
 type: pac
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -27,7 +27,7 @@ CLF operates in tandem with AAN: CLF handles disclosed independent expenditures 
 
 ### The Money — FEC Financial Summary (2024 Cycle)
 
-**CLF (C00504530) — FEC/OpenSecrets:**
+### CLF (C00504530) — FEC/OpenSecrets:
 
 | Category | Amount |
 |----------|--------|
@@ -43,7 +43,7 @@ CLF operates in tandem with AAN: CLF handles disclosed independent expenditures 
 
 **Key structural note:** CLF's hybrid structure means nearly all money ($242M of $243M) flows through "other receipts" — the non-contribution super PAC account that accepts unlimited donations. The traditional PAC side ($118K in contributions) is vestigial. This is functionally a super PAC that retains the legal option of making direct candidate contributions.
 
-**Spending growth trajectory:**
+### Spending growth trajectory:
 
 | Cycle | Total Raised | Growth |
 |-------|-------------|--------|

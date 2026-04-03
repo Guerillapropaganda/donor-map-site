@@ -1,7 +1,7 @@
 ---
 title: "UPS"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -48,7 +48,7 @@ UPS's lobbying agenda is driven by five core priorities, each directly tied to r
 
 UPS's political spending operates through three channels: the UPSPAC (direct candidate contributions), corporate lobbying expenditures, and individual executive contributions.
 
-**2024 Cycle — PAC and Total Political Spending:**
+### 2024 Cycle — PAC and Total Political Spending:
 
 | Metric | Amount |
 |--------|--------|
@@ -57,7 +57,7 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 | Lobbying (2024) | $6,190,000 |
 | Lobbying (2023) | $8,520,000 |
 
-**Top Recipients, 2024 Cycle (OpenSecrets):**
+### Top Recipients, 2024 Cycle (OpenSecrets):
 
 | Recipient | Amount | Type |
 |-----------|--------|------|
@@ -71,7 +71,7 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 | Republican National Committee | $37,701 | Party Committee |
 | Hakeem Jeffries | $21,828 | Candidate (D-NY08) |
 
-**PAC Partisan Split (2024 cycle):**
+### PAC Partisan Split (2024 cycle):
 - House: 58% Republican / 42% Democrat (284 recipients)
 - Senate: 75% Republican / 25% Democrat (25 recipients)
 - Overall PAC to candidates: 59.34% Republican / 40.22% Democrat
@@ -79,7 +79,7 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 > [!money] Follow the Money
 > UPS's bipartisan split is not principled moderation — it's structural insurance. The company gives roughly 60/40 Republican because its core policy interests (tax cuts, deregulation, trade liberalization) align with the GOP, but it cannot afford to defund Democrats because the Teamsters — representing 340,000 UPS workers — are a core Democratic constituency. If UPS went fully Republican, the Teamsters could escalate labor actions and Democratic allies could target UPS on postal reform, labor law, and regulatory scrutiny. The bipartisan giving pattern is a cost of doing business with a unionized workforce. Compare to FedEx, which is non-union and gives overwhelmingly Republican.
 
-**Lobbying — Revolving Door:**
+### Lobbying — Revolving Door:
 
 | Year | Lobbying Spend | Lobbyists | Revolving Door % |
 |------|---------------|-----------|-----------------|

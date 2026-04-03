@@ -1,7 +1,7 @@
 ---
 title: "Judicial Crisis Network"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -35,7 +35,7 @@ The through-line: every JCN priority either installs sympathetic judges, protect
 
 JCN operates within Leonard Leo's interconnected network of dark money organizations. The network functions as a pass-through system: money flows from anonymous donors through multiple entities before reaching its political destination, making it nearly impossible to trace the original source.
 
-**Key network nodes:**
+### Key network nodes:
 
 - **Marble Freedom Trust** — The apex entity. Received the $1.6 billion Barre Seid donation in 2020. Disbursed $55.5 million to the Concord Fund (JCN). Leo controls this entity directly.
 - **Rule of Law Trust (RLT)** — Entered the 2022 midterms with a $202 million war chest. The largest beneficiary of RLT funds was JCN. RLT raised $237 million total from at most six anonymous donors.
@@ -51,7 +51,7 @@ JCN operates within Leonard Leo's interconnected network of dark money organizat
 
 ### Who They Fund
 
-**2024 cycle contributions ($4.04 million total — 100% from organization, 0% from individuals):**
+### 2024 cycle contributions ($4.04 million total — 100% from organization, 0% from individuals):
 
 | Recipient | Amount | Type |
 |-----------|--------|------|

@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey Yass"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -48,12 +48,12 @@ Secondary objectives, in order of financial materiality:
 
 ### Who He Funds
 
-**Total estimated political spending:**
+### Total estimated political spending:
 - **2024 cycle:** ~$100 million — reportedly the single largest individual political donor in America
 - **2025 cycle (partial):** ~$36M+ so far — on pace for $150M+ (50% above 2024)
 - **Lifetime total:** Washington Post analysis places the Yass family at approximately **$310 million** in total political contributions across all cycles through 2025
 
-**FEC Individual Contributions (Selected Largest, Direct Donations):**
+### FEC Individual Contributions (Selected Largest, Direct Donations):
 
 | Date | Amount | Recipient |
 |------|--------|-----------|
@@ -78,7 +78,7 @@ Secondary objectives, in order of financial materiality:
 | 2024-09-06 | $9,500,000 | Club for Growth Action |
 | 2024-09-06 | $5,000,000 | Protect Freedom PAC |
 
-**2024 Cycle Total Breakdown (Federal):**
+### 2024 Cycle Total Breakdown (Federal):
 
 | Vehicle | Amount |
 |---------|--------|
@@ -92,7 +92,7 @@ Secondary objectives, in order of financial materiality:
 | Misc. state/NRSC | ~$1.5M |
 | **Federal Total** | **~$101M** |
 
-**2025 Cycle (Confirmed):**
+### 2025 Cycle (Confirmed):
 
 | Recipient | Amount | Vehicle | Purpose |
 |-----------|--------|---------|---------|
@@ -102,7 +102,7 @@ Secondary objectives, in order of financial materiality:
 | Trump East Wing ballroom | $2,500,000 | Private donation | White House renovation fund |
 | NRSC Victory Fund | $740,100 | Direct contribution | Senate Republican infrastructure |
 
-**Key Recipients by Category:**
+### Key Recipients by Category:
 
 **[[Club for Growth]]:** $50–55 million cumulative lifetime (largest single recipient). $2.3M (2018) → $21.7M (2020, 30% of all CfG receipts) → $17–18M (2022) → $40M (2024 cycle) → Lifetime total likely $50–55M+ by 2025.
 
@@ -154,7 +154,7 @@ Secondary objectives, in order of financial materiality:
 
 Yass operates a layered, interlocking network of Pennsylvania state PACs — the most sophisticated state-level political architecture documented for any single donor. He is the near-sole funder of all entities in this hierarchy.
 
-**The Hierarchy:**
+### The Hierarchy:
 
 ```
 Jeff Yass (sole or near-sole funder)
@@ -178,14 +178,14 @@ Jeff Yass (sole or near-sole funder)
              └─ Operates as PAC operating committee
 ```
 
-**Pennsylvania Spending Trajectory:**
+### Pennsylvania Spending Trajectory:
 
 - **2018:** ~$3.2 million
 - **2022:** ~$22 million
 - **2024:** ~$35 million
 - **Lifetime (2010–2024):** ~$80–100 million+
 
-**2024 Pennsylvania Detailed Breakdown:**
+### 2024 Pennsylvania Detailed Breakdown:
 
 - $13.4M through Commonwealth Leaders Fund — contributed to nearly every Republican state legislative candidate per Spotlight PA analysis
 - $6M to help elect Dave Sunday as Pennsylvania Attorney General (defeating Democrat Eugene DePasquale)
@@ -207,7 +207,7 @@ Jeff Yass (sole or near-sole funder)
 
 In late 2023/early 2024, Yass made a calculated political investment in Texas governor Greg Abbott's political operation, specifically to fund primary challenges against anti-voucher House Republicans. The strategy succeeded in fundamentally reshaping Texas education policy.
 
-**The Donations:**
+### The Donations:
 - December 2023: $6 million to Greg Abbott campaign
 - April 2024: $4 million to Greg Abbott campaign
 - **Total:** $10–12 million
@@ -228,7 +228,7 @@ This represents the clearest single case of Yass using targeted political spendi
 
 Yass's donations relative to TikTok ban legislation and enforcement represent the most granular donation-to-policy correlation in the vault. Every significant Yass money movement aligns with a TikTok legislative or regulatory threat.
 
-**2020 Trump Ban Threat:**
+### 2020 Trump Ban Threat:
 
 | Date | Event | Yass Action | Result |
 |------|-------|------------|--------|
@@ -237,7 +237,7 @@ Yass's donations relative to TikTok ban legislation and enforcement represent th
 | Aug 17, 2020 | **Yass gives another $5M to CfG Action** | Doubling down on CfG support | Anti-Biden messaging maintained |
 | Nov 10, 2020 | **Yass gives $2.5M to Protect Freedom PAC** | Post-election access positioning | TikTok threat diffuses under Trump |
 
-**2023 Senate Threat — Rand Paul Block:**
+### 2023 Senate Threat — Rand Paul Block:
 
 | Date | Event | Yass Action | Result |
 |------|-------|------------|--------|
@@ -245,7 +245,7 @@ Yass's donations relative to TikTok ban legislation and enforcement represent th
 | April 2023 | **Rand Paul blocks Josh Hawley's TikTok ban legislation on Senate floor** | Cumulative $23M to Paul-affiliated PACs since 2015 | Fast-track TikTok ban dies; First Amendment protection framing substitutes for regulatory argument |
 | Sept 2023 | Wall Street Journal reports Yass is major donor to politicians opposing TikTok restrictions | Political profile emerges | Media attention to conflict of interest |
 
-**2024 House Victory — Trump Reversal:**
+### 2024 House Victory — Trump Reversal:
 
 | Date | Event | Yass Action | Result |
 |------|-------|------------|--------|
@@ -256,7 +256,7 @@ Yass's donations relative to TikTok ban legislation and enforcement represent th
 | April 2024 | Biden signs TikTok ban/divestiture law; ban set for January 19, 2025 | Ban legislation passes despite Yass lobbying; but Trump's electoral path becomes clear | — |
 | May 2024 | **Yass gives $5M to CfG Action** | Continued CfG maximum support | — |
 
-**2025 Trump Administration — TikTok Delays:**
+### 2025 Trump Administration — TikTok Delays:
 
 | Date | Event | Yass Action | Amount | Significance |
 |------|-------|------------|--------|-------------|
@@ -269,7 +269,7 @@ Yass's donations relative to TikTok ban legislation and enforcement represent th
 
 **Yass's Personal ByteDance Stake Preservation:** Net worth increased from approximately $27 billion in 2024 to $65.7 billion by early 2026 — an increase of $38.7 billion directly attributable to TikTok's survival and rising ByteDance valuations.
 
-**Rand Paul and TikTok — Detailed:**
+### Rand Paul and TikTok — Detailed:
 
 Yass has given an estimated **$23+ million to Rand Paul-affiliated PACs** since 2015. In the 2022 cycle, Yass provided ~83% of all money raised by Paul's two super PACs (Kentucky Freedom PAC and Protect Freedom PAC). In April 2023, Paul blocked Josh Hawley's fast-track TikTok ban legislation on the Senate floor, citing First Amendment protection. Capitol Hill sources attributed the move to Yass's influence. Paul has received over $10 million from Yass since 2020 across Kentucky Freedom PAC and Protect Freedom PAC alone, plus $32,200 directly.
 
@@ -283,12 +283,12 @@ Paul's statement: "My opposition to censorship and my steadfast [support] for th
 
 University of Austin (UATX) represents Yass's most visible entry into the broader "anti-woke" tech donor network, placing him in convergence with Peter Thiel, Harlan Crow, and the PayPal Mafia ecosystem.
 
-**Yass's UATX Commitments:**
+### Yass's UATX Commitments:
 - **2024:** $35 million initial donation
 - **November 2025:** $100 million additional donation, eliminating tuition permanently
 - **Ongoing:** $300M+ fundraising campaign launch
 
-**Co-Donors in UATX:**
+### Co-Donors in UATX:
 - **Peter Thiel:** PayPal co-founder, Palantir founder; overlaps with Yass on UATX
 - **Harlan Crow:** Republican megadonor and Clarence Thomas associate
 - **Joe Lonsdale:** Palantir co-founder, UATX board chair, Trump supporter
@@ -358,7 +358,7 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 
 ### Sources
 
-**OpenSecrets & FEC (Tier 1):**
+### OpenSecrets & FEC (Tier 1):
 - [OpenSecrets: Jeffrey Yass donor detail — 2024 outside spending](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000004245&name=Yass,+Jeffrey+S+%26+Janine=&super_only=N&type=I) (Tier 1)
 - [OpenSecrets: Jeffrey Yass donor detail — 2020 outside spending](https://www.opensecrets.org/outside-spending/donor_detail/2020?id=U0000004245&name=Yass%2C+Jeffrey+S&super=N&type=I) (Tier 1)
 - [OpenSecrets: Jeffrey Yass donor lookup (by amount descending)](https://www.opensecrets.org/donor-lookup/results?name=Jeff+Yass&order=desc&sort=A) (Tier 1)
@@ -368,11 +368,11 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - [OpenSecrets: Biggest Donors 2024](https://www.opensecrets.org/elections-overview/biggest-donors) (Tier 1)
 - [OpenSecrets: Biggest Donors 2024 — Musk tops list (March 2025)](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
 
-**Government & Institutional (Tier 1):**
+### Government & Institutional (Tier 1):
 - [Whitehouse.gov: President Trump's One Big Beautiful Bill Is Now the Law](https://www.whitehouse.gov/releases/2025/07/president-trumps-one-big-beautiful-bill-is-now-the-law/) (Tier 1)
 - [Pennsylvania Department of State: Voter Registration Records](https://www.dos.pa.gov/Pages/default.aspx) (Tier 1)
 
-**Investigative Journalism (Tier 2):**
+### Investigative Journalism (Tier 2):
 - [ProPublica: Meet the Billionaire and Rising GOP Mega-Donor Who's Gaming the Tax System](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 2) (WebFetch verified ✓)
 - [Philadelphia Inquirer: Jeffrey Yass, Pa.'s richest man, donated at least $2.5 million to Trump's White House ballroom](https://www.inquirer.com/politics/nation/jeffrey-yass-trump-ballroom-billionaire-donations-20251103.html) (Tier 2) (WebFetch confirmed available ✓)
 - [Philadelphia Inquirer: Jeffrey Yass and TikTok's ByteDance stake](https://www.inquirer.com/politics/jeff-yass-billionaire-donor-tik-tok-bytedance-20240418.html) (Tier 2)
@@ -396,7 +396,7 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - [Forbes: Secretive billionaire is one of America's biggest conservative donors](https://www.forbes.com/sites/michelatindera/2021/04/16/this-secretive-billionaire-is-one-of-americas-biggest-conservative-donors/) (Tier 2) (UNVERIFIED)
 - [The 74 Million: School choice activist Jeff Yass may have prompted Trump's about-face on TikTok](https://www.the74million.org/article/school-choice-activist-jeff-yass-may-have-prompted-trumps-about-face-on-tiktok/) (Tier 2-3) (UNVERIFIED)
 
-**News & Secondary Sources (Tier 2-3):**
+### News & Secondary Sources (Tier 2-3):
 - [NY Post: Rand Paul backed by GOP donor with $33B TikTok stake](https://nypost.com/2023/04/06/rand-paul-backed-by-gop-donor-with-33b-tiktok-stake/) (Tier 2)
 - [Texas Tribune: Yass and Texas school voucher Republicans (January 2024)](https://www.texastribune.org/2024/01/31/texas-house-republican-primary-2024-vouchers/) (Tier 2)
 - [Yahoo/Bloomberg: Jeff Yass gives $4 million to Greg Abbott](https://www.yahoo.com/news/jeff-yass-gives-4-million-201104102.html) (Tier 2)
@@ -406,7 +406,7 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - [Marginal Revolution: University of Austin $100M Yass donation](https://marginalrevolution.com/?p=91799) (Tier 3)
 - [Quartz: Jeff Yass Trump TikTok Truth Social](https://qz.com/jeff-yass-trump-tiktok-truth-social-1851367927) (Tier 2-3) (UNVERIFIED)
 
-**Specialized/Advocacy Sources (Tier 3-4):**
+### Specialized/Advocacy Sources (Tier 3-4):
 - [All Eyes on Yass: Statements on PA political spending (October 2024)](https://www.alleyesonyass.com/statements/oct-7-2024) (Tier 3-4) (UNVERIFIED)
 - [Curmudgucation: PA school choice lobby and Jeff Yass (August 2025)](https://curmudgucation.blogspot.com/2025/08/pa-school-choice-lobby-and-jeff-yass.html) (Tier 3)
 - [Philadelphia Citizen: Jeff Yass on TikTok free speech](https://thephiladelphiacitizen.org/jeff-yass-tiktok-free-speech/) (Tier 3)
@@ -415,7 +415,7 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - [Cambridge Perspectives on Politics: Diaspora-local cooperation and American-Israeli network ideological change (Academic)](https://www.cambridge.org/core/journals/perspectives-on-politics/article/diasporalocal-cooperation-as-a-driver-of-ideological-change-the-ascendance-of-american-conservatism-in-israel/1114BF43E1A4A649C9E46387BB26DFDB) (Tier 2-3) (UNVERIFIED)
 - [The Guardian: Yass donations to anti-Muslim and pro-Israel groups](https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake) (Tier 2) (UNVERIFIED)
 
-**Reference & Aggregator (Tier 3):**
+### Reference & Aggregator (Tier 3):
 - [Wikipedia: Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) (Tier 3)
 - [Ballotpedia: Jeff Yass](https://ballotpedia.org/Jeff_Yass) (Tier 3) (UNVERIFIED)
 

@@ -1,7 +1,7 @@
 ---
 title: "Think Big AI PAC and AI Policy Alignment"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 2
 parent: "_Melissa Bean Master Profile"
@@ -40,13 +40,13 @@ LTF operates through four affiliated entities:
 
 The structure mirrors the Fairshake model: a dual-partisan PAC network (Think Big for Democrats, American Mission for Republicans) allows the industry to invest in both parties simultaneously while maintaining the "nonpartisan" brand. Build American AI serves as the dark money pass-through for donors who prefer not to appear directly in FEC filings.
 
-**Key donors and amounts (FEC filings):**
+### Key donors and amounts (FEC filings):
 - Greg Brockman (OpenAI President and co-founder) and Anna Brockman: **$25 million** to Leading the Future
 - a16z (Andreessen Horowitz): **$25 million** to Leading the Future
 - Ron Conway (SV Angel founder): **$500,000** to Think Big
 - Joe Lonsdale (Palantir co-founder, 8VC partner): undisclosed amount
 
-**Total network scale at 2026 midterms:**
+### Total network scale at 2026 midterms:
 - $100M+ pledged to the LTF network
 - $70M in cash on hand (as of early 2026 reporting)
 - $39M in reported reserves at year-end 2025
@@ -87,19 +87,19 @@ The additional alignment factor: Bean's career at JPMorgan Chase and Mesirow Wea
 
 ### The Deregulation Agenda: What AI Industry Donors Want
 
-**What Leading the Future explicitly opposes:**
+### What Leading the Future explicitly opposes:
 - State-level AI liability laws and safety testing requirements (California SB 1047, Colorado AI Act, Texas AI bills)
 - Federal legislation that would require pre-deployment safety testing for large AI models
 - Regulatory mandates around AI transparency, algorithmic auditing, or bias testing
 - Any legislation that creates regulatory uncertainty for AI development timelines
 
-**What Leading the Future supports:**
+### What Leading the Future supports:
 - A single "national framework" for AI — preempting state laws while establishing minimal federal standards
 - Federal investment in AI infrastructure (data centers, compute, power grid)
 - Immigration policy favorable to tech worker visas (H-1B expansion)
 - Export controls on AI chips directed at China (a shared interest with national security state)
 
-**The Anthropic counter-position (Jobs and Democracy PAC):**
+### The Anthropic counter-position (Jobs and Democracy PAC):
 - Supports federal AI safety requirements including pre-deployment testing
 - Accepts some federal regulation as a cost of avoiding fragmented state regulation
 - Backed by Anthropic, which sells AI safety services and has a competitive interest in safety requirements that disadvantage OpenAI's faster-moving development model

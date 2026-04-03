@@ -1,7 +1,7 @@
 ---
 title: "2026 Primary Race - IL-8 Bean vs. Ahmed"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 2
 parent: "_Melissa Bean Master Profile"

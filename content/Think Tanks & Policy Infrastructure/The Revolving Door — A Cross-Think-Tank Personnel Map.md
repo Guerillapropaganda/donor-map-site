@@ -32,13 +32,13 @@ This document maps the personnel circuit across all 25 think tanks in this vault
 
 The 25 profiles in this vault reveal three distinct structural models for how think tanks integrate the revolving door into their institutional function:
 
-**Model 1: The Government-in-Exile (Hudson, Hoover, CAP, CNAS)**
+### Model 1: The Government-in-Exile (Hudson, Hoover, CAP, CNAS)
 The institution collects former senior officials from a specific administration and maintains their policy influence during the opposition years. When the allied party returns to power, the officials rotate back in. The think tank is not primarily a research institution — it is a personnel holding facility. The research is a byproduct; the product is the officials themselves, ideologically calibrated and policy-ready.
 
-**Model 2: The Talent Pipeline (Heritage, Mercatus, AEI, EPI, Roosevelt)**
+### Model 2: The Talent Pipeline (Heritage, Mercatus, AEI, EPI, Roosevelt)
 The institution trains and pre-deploys ideologically aligned personnel who then move into government to implement the think tank's research agenda. Unlike the Government-in-Exile model (which collects former officials), the Pipeline model produces future officials. The research comes first, the personnel second — but the personnel are selected specifically because they will implement the research when given the opportunity.
 
-**Model 3: The Permanent Establishment (CFR, Brookings, Atlantic Council, RAND)**
+### Model 3: The Permanent Establishment (CFR, Brookings, Atlantic Council, RAND)
 The institution spans administrations and partisan transitions. Its members serve under both Republican and Democratic administrations, hold seats regardless of who is in power, and maintain a consistent foreign policy, financial, and defense establishment consensus that outlasts any single administration. The revolving door here does not run to one party — it runs to the policy class itself.
 
 ---
@@ -215,45 +215,45 @@ The clearest evidence: across 35 revolving door movements tracked here, spanning
 
 *(All sources from previously Chrome-verified think tank profiles in this vault. No new sources added — this analysis cross-references data established in individual profiles.)*
 
-**Heritage Foundation / Project 2025:**
+### Heritage Foundation / Project 2025:
 - [Revolving Door Project: Former Trump Officials Wrote 25 of the 30 Chapters in the Project 2025 Playbook](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2)
 - [19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/) (Tier 2)
 
-**Federalist Society / Leonard Leo:**
+### Federalist Society / Leonard Leo:
 - [ProPublica: We Don't Talk About Leonard — Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 - [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
 
-**Center for American Progress:**
+### Center for American Progress:
 - [ProPublica Nonprofit Explorer: Center for American Progress Action Fund](https://projects.propublica.org/nonprofits/organizations/431501265) (Tier 1)
 
-**Brookings Institution:**
+### Brookings Institution:
 - [ProPublica: Brookings Institution revolving door documentation](https://projects.propublica.org/nonprofits/organizations/530196577) (Tier 1)
 
-**Council on Foreign Relations:**
+### Council on Foreign Relations:
 - [CFR: About CFR — membership and history](https://www.cfr.org/about/) (Tier 3)
 - [ProPublica Nonprofit Explorer: Council on Foreign Relations](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1)
 
-**CNAS — Biden placements:**
+### CNAS — Biden placements:
 - [CNAS: Experts and Alumni Selected for Senior Leadership Positions in the Biden Administration](https://www.cnas.org/press/press-release/cnas-experts-and-alumni-selected-for-senior-leadership-positions-in-the-biden-administration) (Tier 3)
 
-**Mercatus revolving door:**
+### Mercatus revolving door:
 - [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2)
 - [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php/Mercatus_Center) (Tier 3)
 
-**RAND Corporation:**
+### RAND Corporation:
 - [ProPublica Nonprofit Explorer: RAND Corporation](https://projects.propublica.org/nonprofits/organizations/951098605) (Tier 1)
 - [Quincy Institute: Think Tank Funding and U.S. Foreign Policy](https://responsiblestatecraft.org/2020/05/20/think-tank-funding-and-u-s-foreign-policy/) (Tier 2)
 
-**Hudson Institute:**
+### Hudson Institute:
 - [ProPublica Trump Town: Hudson Institute revolving door documentation](https://projects.propublica.org/trump-town/) (Tier 1)
 
-**Atlantic Council:**
+### Atlantic Council:
 - [ProPublica Nonprofit Explorer: Atlantic Council of the United States](https://projects.propublica.org/nonprofits/organizations/520981423) (Tier 1)
 
-**AEI revolving door:**
+### AEI revolving door:
 - [ProPublica Trump Town: AEI government placements](https://projects.propublica.org/trump-town/) (Tier 1)
 
-**Structural analysis:**
+### Structural analysis:
 - [Quincy Institute: Think Tank Funding and U.S. Foreign Policy](https://responsiblestatecraft.org/2020/05/20/think-tank-funding-and-u-s-foreign-policy/) (Tier 2)
 
 ---

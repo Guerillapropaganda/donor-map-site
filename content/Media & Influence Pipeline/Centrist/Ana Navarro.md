@@ -29,7 +29,7 @@ Net worth: approximately $5 million.
 
 ### The Funding Model
 
-**Multi-platform institutional salary:**
+### Multi-platform institutional salary:
 - **The View (ABC):** ~$250,000/year as permanent co-host (estimated; The View pay is not publicly disclosed). The show commands over 3 million daily viewers — a platform that rivals the reach of cable news primetime for political commentary.
 - **CNN / CNN en Español:** Political commentator contract, value undisclosed. Navarro appears as a "Republican" voice across CNN programming.
 - **ABC News:** Political commentator since February 2014.

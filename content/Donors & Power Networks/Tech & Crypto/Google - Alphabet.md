@@ -1,7 +1,7 @@
 ---
 title: "Google - Alphabet"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -62,7 +62,7 @@ Google's core legislative and regulatory priorities, in order of financial signi
 | 2024 | Google Inc + Waymo + Wing + Cloud | $14,860,000 | Waymo ($1.74M), Wing ($420K), Cloud ($390K) | Ongoing |
 | 2025 Q1 | Google Inc + Waymo | $3,805,000 | Partial year; Waymo ($520K) | Ongoing |
 
-**Cumulative 2015-2024: ~$148 million in disclosed federal lobbying.**
+### Cumulative 2015-2024: ~$148 million in disclosed federal lobbying.
 **Cumulative 2010-2015: ~$80 million** (per shareholder resolution analysis).
 
 > [!money]
@@ -130,7 +130,7 @@ Alphabet supports 368 trade associations, social welfare groups, and nonprofits 
 
 Established 2006. Treasurer: Anne Wall. Washington, DC.
 
-**PAC fundraising and party split by election cycle:**
+### PAC fundraising and party split by election cycle:
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
@@ -162,7 +162,7 @@ The 3.5x increase to Trump's 2025 inaugural confirms the political realignment: 
 
 Google employee contributions skew heavily Democratic — 90.5% from individuals, 9.5% from the organization. [[_Kamala Harris Master Profile|Kamala Harris]] was the top individual recipient at $4.4M. The spending went 48.7% to candidates, 24.5% to party committees, 21.9% to outside groups, 2.6% to leadership PACs, and 2.3% to 527 groups.
 
-**2024 cycle — Top recipients from all Google/Alphabet sources ($20.6M total):**
+### 2024 cycle — Top recipients from all Google/Alphabet sources ($20.6M total):
 
 | Recipient | Amount | Type |
 |-----------|--------|------|

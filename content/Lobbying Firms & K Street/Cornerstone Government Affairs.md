@@ -92,17 +92,17 @@ The client base spans virtually every major industry sector with significant leg
 
 Cornerstone's 43% revolving door rate (43 of 100 lobbyists in 2025 are former government employees) understates the firm's real access architecture. The key hires cluster around party leadership and key committee staff — not just junior staffers.
 
-**Tier 1 — Party Infrastructure Captures (2023-2024):**
+### Tier 1 — Party Infrastructure Captures (2023-2024):
 
 **Hyma Moore** (hired Nov. 2023) — Chief of Staff to the Democratic National Committee under Chairman Jamie Harrison. Moore brings a decade of public policy, government, and strategic communications experience, along with her entire DNC network. Cornerstone President Campbell Kaufman described the Reed-Moore combination as giving the firm "both the former RNC Chief of Staff and former DNC Chief of Staff" on staff simultaneously — the explicit value proposition being party-agnostic legislative access.
 
 **Mike Reed** (hired Feb. 2024) — Chief of Staff of the Republican National Committee under Ronna McDaniel. As RNC CoS, Reed oversaw digital, data, fundraising, political, legal, and communications departments for an organization with 300+ headquarters staff and 1,000+ field employees. He was recruited by Cornerstone before leaving the RNC, staying through the winter meeting transition.
 
-**Tier 2 — Treasury & Tax Capture (2024):**
+### Tier 2 — Treasury & Tax Capture (2024):
 
 **Ron Storhaug** (hired Dec. 2024) — Deputy Assistant Secretary for Tax and Budget at the Treasury Department's Office of Legislative Affairs; previously Senior Economic Policy Adviser to Sen. Tim Kaine (D-VA). Storhaug was recruited specifically ahead of the 2025 Tax Cuts and Jobs Act expiration fight — a $4+ trillion legislative battleground affecting every major corporate client at Cornerstone.
 
-**Tier 3 — Agency & Committee Staff:**
+### Tier 3 — Agency & Committee Staff:
 
 **Lauren Tomlinson** (hired Aug. 2024) — Deputy Assistant Secretary for Public Affairs, Department of Homeland Security. Now leads Cornerstone's national security/public affairs practice. Has direct relationships with DHS and DoD communications networks — relevant for Cornerstone's defense and intelligence contractor clients.
 
@@ -116,7 +116,7 @@ Cornerstone's 43% revolving door rate (43 of 100 lobbyists in 2025 are former go
 
 **Connie LaRossa** — Former DHS and DoD official. Leads Cornerstone's Homeland Security Practice Group alongside Carithers and Molino.
 
-**Tier 4 — Appropriations Power Play (March 2026):**
+### Tier 4 — Appropriations Power Play (March 2026):
 
 **Robin Juliano** (began March 16, 2026) — Returned to Cornerstone as Principal after serving as Policy Director for House Democratic Whip Katherine Clark (D-MA), where she led a team of policy advisors and advised the Whip and the full Democratic caucus on all legislation moving through the House floor. Prior to the Whip's office, Juliano previously served at Cornerstone and at the House Appropriations Committee as Staff Director — making this a revolving door return. Her dual experience running the House Appropriations Committee staff and the Whip's policy operation gives Cornerstone direct access to both the spending pipeline and Democratic House leadership's floor strategy.
 
@@ -125,7 +125,7 @@ Cornerstone's 43% revolving door rate (43 of 100 lobbyists in 2025 are former go
 > [!money]
 > The Juliano-Ulmer dual hire in March 2026 is Cornerstone's most aggressive appropriations play to date. Robin Juliano — former House Appropriations Staff Director and then Policy Director for the Democratic Whip — paired with Morgan Ulmer, the Senate Appropriations Committee Staff Director. These are the two people who ran the spending machinery of both chambers. For Cornerstone's 386 clients — Boeing, RTX, Google, AbbVie, the entire agriculture bloc — having the former staff directors from both Appropriations committees on the payroll simultaneously is the closest thing to owning the federal budget process that K Street can offer.
 
-**The Reverse Revolving Door — John Keast:**
+### The Reverse Revolving Door — John Keast:
 
 John Keast joined Cornerstone in 2006 after 11 years as Sen. Roger Wicker's Chief of Staff. He worked as a partner at the firm for 12 years, during which period he lobbied Congress on behalf of Boeing and other clients. In December 2018, Keast left Cornerstone to become **Senate Commerce Committee staff director** for Sen. Wicker — bringing 12 years of K-Street relationships, client familiarity, and lobbying network with him back into a committee with direct oversight of aviation, telecommunications, science, transportation, and commerce.
 
@@ -187,7 +187,7 @@ For corporate clients operating in federal regulatory environments — which mea
 
 **Revenue trajectory:** $48M (2024) → $55.7M (2025) — a 16% single-year increase, tracking the surge in lobbying activity around the Trump administration's first 100 days and TCJA expiration.
 
-**Client ROI calculation:**
+### Client ROI calculation:
 - Alphabet paid $840K in 2025 lobbying fees. Google's Alphabet generates $350B+ in annual revenue. $840K represents 0.00024% of revenue — essentially zero cost to potentially shape antitrust policy, AI legislation, and child safety bill liability provisions worth billions in regulatory exposure.
 - AbbVie paid $240K for pharma lobbying. AbbVie's Humira generated $20B+ globally before biosimilar competition. Even marginal protection from IRA drug negotiation lists justifies millions in lobbying spend.
 - The agriculture bloc (CoBank, Elanco, sugar, rice) collectively paid ~$400K. The sugar program alone generates hundreds of millions in annual producer benefits through price supports.

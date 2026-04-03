@@ -1,7 +1,7 @@
 ---
 title: "Mike Waltz"
 type: politician
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null

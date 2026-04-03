@@ -1,7 +1,7 @@
 ---
 title: "Les Wexner - Wexner Family Enterprises"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -43,19 +43,19 @@ His political legacy is inseparable from his relationship with Jeffrey Epstein, 
 
 ### Who They Fund
 
-**Combined Political Giving: $5.3 million+ (1980–2022)**
+### Combined Political Giving: $5.3 million+ (1980–2022)
 
 According to OpenSecrets, Les and Abigail Wexner combined contributed over $5.3 million to state and federal political campaigns and party organizations from 1980 through 2022. Federal contributions peaked in the 2018 cycle when Wexner ranked #350 among all individual federal donors, giving $314,900 total — $297,200 to Republicans, $2,700 to Democrats. Political giving sharply declined after 2019 when the Epstein scandal became public, but Wexner donated $250,000 to the NRSC in 2025 — a significant re-entry attempt before the February 2026 full unredaction of his FBI co-conspirator designation.
 
 #### Federal Contributions (Selected, 1980–2026)
 
-**Large PAC and committee transfers:**
+### Large PAC and committee transfers:
 - 2025: National Republican Senatorial Committee — $250,000
 - June 2018: Republican Governors Association — $250,000
 - Since 2016: NRCC (National Republican Congressional Committee) — $236,300+
 - Through 2019: PORT PAC (Portman Leadership PAC) — channeled to Ted Cruz ($10,000), Josh Hawley ($10,000), Rick Scott ($5,000), Lindsey Graham ($5,000), and Donald Trump's 2020 campaign ($10,000)
 
-**Individual candidate contributions (recent cycles):**
+### Individual candidate contributions (recent cycles):
 - 2025: Sen. Jon Husted (OH-R) — $3,500
 - 2025: Sen. Bernie Moreno (OH-R) — $3,500
 - 2025: Rep. Mike Carey (OH-R) — $3,300
@@ -118,10 +118,10 @@ Wexner has contributed to and directed multiple PACs:
 
 Following the February 2026 release of unredacted FBI documents naming Wexner as a co-conspirator in sex trafficking investigation, Ohio politicians announced they would donate Wexner contributions to charity:
 
-**Returned / pledged to donate:**
+### Returned / pledged to donate:
 - Jon Husted, Robert Sprague, Keith Faber, David Yost, Mike Carey, Joyce Beatty, Shannon Hardin, Beth Liston, Michele Reynolds, John O'Grady, Emmanuel Remy, Troy Balderson
 
-**Did not return / remained silent:**
+### Did not return / remained silent:
 - Gov. Mike DeWine (defended Wexner publicly: "There is no evidence whatsoever that he has done anything wrong")
 - Sen. Bernie Moreno (said donation was unsolicited)
 - Mayor Andrew Ginther (received $150,000+, noncommittal)
@@ -173,7 +173,7 @@ In 1990, Wexner invested $100,000 in Republican George Voinovich's successful gu
 
 **What Wexner gave:** $55,000 to Voinovich between 1990–1994
 
-**What Voinovich delivered:**
+### What Voinovich delivered:
 - Connected Wexner to the "Cleveland Tomorrow" group, which became the template for the Columbus Partnership (the private governance structure for 11 counties)
 - **$235 million state-funded highway interchange** for Easton Town Center, Wexner's retail development. A 1994 article in *The Other Paper* reported that Wexner's excessive donations to Voinovich "helped the project in jumping the queue" over two higher-ranked projects at the Mid-Ohio Regional Planning Commission
 - State-funded infrastructure for New Albany's development
@@ -188,7 +188,7 @@ Wexner's early cross-party giving demonstrates the logic: he supported both Demo
 
 In 1989, the Columbus City Council approved a critical water and sewage infrastructure deal for New Albany. A Columbus City School Board member challenged the deal as being tainted by Wexner's investment in Hammond's jazz club. The opposition failed; the deal proceeded. This arrangement allowed New Albany to develop without annexation into Columbus, preserving its ability to establish its own school district and property tax structure.
 
-**Policy return: Access to city water/sewer without annexation liability = the foundation for New Albany's later growth as an exclusive enclave.**
+### Policy return: Access to city water/sewer without annexation liability = the foundation for New Albany's later growth as an exclusive enclave.
 
 #### New Albany: Private Government Model (1986–2026)
 
@@ -227,18 +227,18 @@ The Columbus Partnership (founded 2002), Columbus 2020 / One Columbus economic d
 
 #### Ohio State University: Institutional Capture (1961–2026)
 
-**Funding history:**
+### Funding history:
 - **$200+ million total** to Ohio State over 30+ years — largest individual donor in university history
 - **1961 onward:** Wexner (1959 graduate) began modest donations ($5 initially)
 - **February 2011:** Historic $100 million gift ($65M personal, $35M Limited Brands Foundation) — "one of the largest philanthropic gifts ever made to a public university"
 
-**Institutional control:**
+### Institutional control:
 - **Ohio State University Wexner Medical Center:** Medical center renamed after the 2011 gift
 - **Wexner Center for the Arts:** Limited Brands Foundation raised nearly $50 million
 - **Board of Trustees:** Wexner served as chairman (multiple terms), including during the period when Dr. Richard Strauss sexually abused hundreds of male athletes. OSU's commissioned investigation detailed "breakdowns in leadership, oversight, and response" under Wexner's chairmanship
 - **OSU Foundation:** Wexner was founding member and first chairman
 
-**Naming controversy (February 2026 onward):**
+### Naming controversy (February 2026 onward):
 
 Following the February 2026 release of unredacted FBI co-conspirator documents, the Ohio Nurses Association (ONA) led a campaign to remove Wexner's name from all OSU buildings. Over 100 nurses, union members, students, and community members protested outside the Wexner Medical Center in February 2026.
 
@@ -282,7 +282,7 @@ Legal experts described the scope as "remarkable" and "unprecedented" in its bre
 
 **1989:** Wexner purchased 9 East 71st Street on Manhattan's Upper East Side for **$13.2 million** — then a record for Manhattan townhouse sales. Wexner renovated the seven-story, 21,000-square-foot neoclassical mansion extensively, filling it with art including Picasso works. The mansion appeared on the December 1995 cover of Architectural Digest. Epstein lived there beginning in 1996.
 
-**Property transfer (disputed):**
+### Property transfer (disputed):
 - **Wexner's 2026 congressional statement:** "Contrary to rumors, I did not gift Epstein the New York townhouse; he acquired it from me for what I was informed was its appraised value."
 - **NBC4 documents:** Wexner sold the property to Epstein on November 11, 1998, for $20 million — Epstein paid $1,012,028.24 upfront, with remaining balance in installments through 2000
 - **2011 transfer:** Public records show the property was transferred from Nine East 71st Street Corporation (controlled by Wexner and Epstein) to Maple Inc. (a Virgin Islands entity controlled solely by Epstein) for **$0**

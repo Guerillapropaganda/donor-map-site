@@ -118,13 +118,13 @@ The Daily Wire model—billionaire-funded, subscription-protected, ideology-firs
 
 **Income dependency:** Daily Wire salary + DailyWire+ subscription backend cut + Westwood One syndication deal + advertising integration
 
-**Editorial red lines:**
+### Editorial red lines:
 - Cannot criticize billionaire wealth concentration or evangelical theology
 - Cannot platform leftist political economy (socialism, wealth taxes, labor organizing)
 - Cannot interview politicians or candidates without culture-war framing as prerequisite
 - Cannot question Wilks brothers' ideological commitments or business practices
 
-**Structural constraints that shape content:**
+### Structural constraints that shape content:
 - Daily show format demands continuous content production → incentivizes scandal, outrage, viral moments over sustained investigation
 - Billionaire funding model enables uncompromising rhetoric but also enables billionaire veto power (implicit or explicit)
 - Audience composition (evangelical, high-income conservative base) creates listener expectations for culture-war discourse

@@ -1,7 +1,7 @@
 ---
 title: "Anderson Cooper"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 2
 parent: null
@@ -56,13 +56,13 @@ Based on institutional pattern analysis: Cooper's peers at CNN with similar prof
 
 ### Who Funds Them
 
-**Warner Bros. Discovery → Paramount/Skydance (Larry Ellison):**
+### Warner Bros. Discovery → Paramount/Skydance (Larry Ellison):
 WBD has owned CNN since the AT&T/Time Warner acquisition (2018) and subsequent WarnerMedia spin-off (2022). In February 2026, WBD's board accepted Paramount's $110.9 billion acquisition offer, meaning CNN is now transitioning to ownership under **David Ellison** (CEO, Paramount) and **Larry Ellison** (Oracle founder, Trump ally). Larry Ellison sat next to Trump at the post-election White House announcement for the $500B Stargate AI consortium. The editorial implications for CNN are the central structural story of Cooper's 2026 situation.
 
-**Previous ownership chain:**
+### Previous ownership chain:
 - Turner Broadcasting (founded Ted Turner) → Time Warner (1996) → AT&T (2018) → WarnerMedia → Warner Bros. Discovery (2022) → Paramount/Skydance (2026, pending regulatory approval)
 
-**Bari Weiss / CBS News (60 Minutes):**
+### Bari Weiss / CBS News (60 Minutes):
 In October 2025, David Ellison's Paramount acquired Weiss's *The Free Press* for $150 million and appointed her CBS News editor-in-chief. Weiss's editorial agenda — which CBS insiders described as "MAGA-curious" — began reshaping *60 Minutes* in ways Cooper found incompatible. The anchor who had been a *60 Minutes* mainstay for nearly 20 years used "family time" language publicly while sources told *Status* and the Daily Beast the real reason was the "rightward direction under Bari and Ellison." His editorial exit valve closed. Then Paramount announced it would acquire CNN's parent company. He is now trapped on both ends.
 
 ---
@@ -71,7 +71,7 @@ In October 2025, David Ellison's Paramount acquired Weiss's *The Free Press* for
 
 Cooper's editorial positioning has been consistently establishment liberal-centrist: strong on Trump accountability coverage, aggressive on January 6, pro-NATO/Ukraine framing, Israel-aligned on Gaza (with exceptions, see below), standard CNN foreign policy line.
 
-**Key content patterns:**
+### Key content patterns:
 
 **Institutional constraint visible in real time — Nina Turner cutoff (Feb 2024):** During CNN's Michigan Democratic primary coverage, former Ohio State Senator Nina Turner began discussing the depth of Palestinian suffering (citing 30,000+ dead in Gaza). Cooper cut her off multiple times, at one point saying "we don't need to debate the issue." The exchange generated significant backlash as a specimen of CNN's editorial ceiling on Palestinian civilian casualty framing. Not a one-time anomaly — a documented pattern.
 
@@ -87,12 +87,12 @@ Cooper's editorial positioning has been consistently establishment liberal-centr
 
 Cooper's model is **prestige institutional capture** — the audience trusts him because he has cultivated a persona of emotional authenticity (Hurricane Katrina, personal grief journalism, *All There Is* podcast), which creates cover for the editorial constraints he operates under.
 
-**Pattern — Genuine Emotional Authenticity + Institutional Ceiling:**
+### Pattern — Genuine Emotional Authenticity + Institutional Ceiling:
 Cooper's genuine moments (Katrina, on-air emotional reporting, publicly processing grief after Gloria Vanderbilt's death and his brother's suicide) build credibility reserves that are then spent on institutional constraint. The audience trusts him because he has cried on television — and that trust is what makes his selective coverage choices more powerful than a less trusted anchor's would be.
 
 **The Vanderbilt Irony:** Cooper is the last name of a ruling-class dynasty, covering for a ruling-class media company, moderating presidential debates for a ruling-class political system. He has publicly and repeatedly rejected the Vanderbilt inheritance — both financially ("no trust fund") and rhetorically. But the institutional media path he chose functions as a parallel mechanism: same social position, different funding model. He earns $18M/year from a corporation whose new owner sits next to Trump at Stargate announcements.
 
-**Platform dependency structure:**
+### Platform dependency structure:
 - Zero independent platform
 - Zero subscriber model
 - Zero alternative revenue
@@ -115,7 +115,7 @@ Cooper's genuine moments (Katrina, on-air emotional reporting, publicly processi
 
 Anderson Cooper is the perfect centrist institutional media specimen: born into the ruling class, watched the ruling class dissipate his inheritance, and rebuilt ruling-class positioning through institutional media service. His $18M/year CNN salary is his new trust fund — and it comes with the same strings any trust fund would: the donor class sets the editorial parameters.
 
-**Structural function for the donor class:**
+### Structural function for the donor class:
 1. **Credibility anchor:** Cooper's genuine authenticity moments make CNN's institutional framing more credible than a purely corporate-sounding anchor would. He is the humanizing face of what is, operationally, an AT&T/WBD/Paramount corporate news product.
 2. **Debate moderator:** Moderating presidential debates (2016, 2024) is the highest form of institutional legitimacy CNN can project. Cooper's presence validates the framing.
 3. **Ceiling enforcement:** The Nina Turner cutoff shows the utility of having a trusted anchor execute institutional constraints — the audience is less likely to notice when it's Cooper doing it than if a less trusted figure did.

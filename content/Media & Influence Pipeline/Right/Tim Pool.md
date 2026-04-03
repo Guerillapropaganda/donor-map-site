@@ -64,7 +64,7 @@ Pool's revenue runs through multiple streams that collectively produce an estima
 
 ### Who Funds Them
 
-**Russian state media (via RT / Tenet Media, 2023–2024):**
+### Russian state media (via RT / Tenet Media, 2023–2024):
 The centerpiece of Pool's funding profile. RT employees Kostiantyn Kalashnikov and Elena Afanasyeva covertly directed Tenet Media — a Nashville-based company founded by conservative YouTuber Lauren Chen and her husband Liam Donovan — as a front for Russian influence operations. Between October 2023 and August 2024, RT transferred **$9.7 million** from shell companies to Tenet, representing ~90% of Tenet's bank deposits. Tenet distributed most of these funds to its contracted commentators. Pool, as one of the two commentators with the largest followings, received the maximum rate: **$400,000/month** for producing four weekly videos (per the DOJ indictment).
 
 The shell companies used to launder the payments were registered in Turkey, the United Arab Emirates, and Mauritius. Wire transfer notes described the payments as purchases of electronics.
@@ -114,14 +114,14 @@ Pool's platform operates on a closed feedback loop that has no natural correctio
 
 ### What Their Funders Got
 
-**Russian state media (RT):**
+### Russian state media (RT):
 - ~2,000 videos on major platforms (YouTube, TikTok, Instagram, X) accumulating 16M+ views, per DOJ indictment
 - Content amplifying domestic U.S. divisions on immigration, inflation, foreign policy — core RT messaging priorities
 - Plausible deniability: the content came from American creators with American audiences, not from RT directly
 - Platform legitimacy that RT itself could not achieve (RT's YouTube channel had already been removed)
 - Value: $9.7M in total Tenet payments produced content that would have cost far more to generate through overt state media channels — and would have had zero credibility with Pool's audience
 
-**Pool's direct funders (sponsors, Super Chats):**
+### Pool's direct funders (sponsors, Super Chats):
 - Platform dependence: audience locked into Timcast ecosystem
 - Political normalization: fringe-right positions laundered through the "former liberal" persona
 - Conservative brand adjacency for small sponsors (Cast Brew, VirtualShield) reaching a high-engagement political audience

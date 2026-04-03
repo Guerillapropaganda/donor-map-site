@@ -1,7 +1,7 @@
 ---
 title: "Ohio Federation of Teachers"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -40,7 +40,7 @@ OFT has also been a consistent voice for anti-gerrymandering reform, endorsing t
 
 OFT's political spending operates through a COPE (Committee on Political Education) fund — voluntary member contributions separate from dues money. The union endorses almost exclusively Democratic candidates, with endorsements approved by a majority vote of OFT's Executive Council composed of member leaders from every local.
 
-**Financial overview (LM-2 filing, fiscal year ending 06/30/2024):**
+### Financial overview (LM-2 filing, fiscal year ending 06/30/2024):
 
 | Category | Amount | % of Total Spending |
 |----------|--------|-------------------|
@@ -56,7 +56,7 @@ OFT's political spending operates through a COPE (Committee on Political Educati
 > [!money]
 > OFT spent $580,658 on political activities, lobbying, and contributions in FY2024 — roughly 23% of total disbursements. For a union with $2.36M in total receipts, this is a significant political commitment. But context matters: the Ohio Education Association spent $1.06M in federal contributions alone in the 2024 cycle (OpenSecrets), and the Republican supermajority's allied dark money networks outspend Ohio's entire labor movement by orders of magnitude. OFT's $580K in political spending is a rearguard action — enough to maintain a presence in Columbus but nowhere near enough to alter the structural power balance that has shifted Ohio from swing state to Republican fortress.
 
-**2022 endorsements (representative sample):**
+### 2022 endorsements (representative sample):
 - U.S. Senate: Tim Ryan (D)
 - Governor: Nan Whaley / Cheryl Stephens (D)
 - U.S. House: Greg Landsman (D-1), Joyce Beatty (D-3), Marcy Kaptur (D-9), Shontel Brown (D-11), Emilia Sykes (D-13)
@@ -74,7 +74,7 @@ OFT's endorsement pattern reveals the structural limitation: the union endorses 
 
 The answer, structurally, is defeat — with one significant exception.
 
-**The voucher timeline — OFT's losing battle:**
+### The voucher timeline — OFT's losing battle:
 
 ### Donation-to-Policy Timeline
 

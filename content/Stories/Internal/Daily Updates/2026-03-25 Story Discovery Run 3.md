@@ -23,7 +23,7 @@ parent: null
 
 Trump's post-election fundraising has reached roughly $2 billion. The NYT analyzed contributions from 346 major donors and found that more than half have benefited — or are in industries that have benefited — from Trump administration actions: pardons, dropped enforcement cases, government contracts, and industry-friendly regulatory rollbacks.
 
-**Named donor-to-benefit connections:**
+### Named donor-to-benefit connections:
 
 | Date | Donor/Industry | Amount | Policy Return | Time Gap |
 |------|---------------|--------|---------------|----------|
@@ -59,7 +59,7 @@ Trump's post-election fundraising has reached roughly $2 billion. The NYT analyz
 
 The AI industry has built a three-stage influence pipeline: (1) ballroom donations and inaugural contributions to Trump, (2) direct authorship of the AI Action Plan released March 20, 2026, and (3) $100M+ super PAC spending to elect AI-friendly candidates in the 2026 midterms.
 
-**Stage 1 — The donations:**
+### Stage 1 — The donations:
 
 | Date | Donor | Amount | Vehicle |
 |------|-------|--------|---------|
@@ -95,7 +95,7 @@ The AI industry has built a three-stage influence pipeline: (1) ballroom donatio
 
 The Digital Asset Market Clarity Act of 2025 passed the House on July 17, 2025 with a 294-134 bipartisan vote. It is now stalled in the Senate, where seven of the forty-six senators on the two committees with direct control over the bill received $265,500 in crypto-affiliated contributions during the 2025-2026 cycle. Meanwhile, Fairshake has amassed $193M for 2026 midterm spending.
 
-**The money pipeline:**
+### The money pipeline:
 
 | Date | Source → Recipient | Amount | Electoral/Policy Impact | Time Gap |
 |------|-------------------|--------|------------------------|----------|

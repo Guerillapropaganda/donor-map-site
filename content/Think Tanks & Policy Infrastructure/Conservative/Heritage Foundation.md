@@ -1,7 +1,7 @@
 ---
 title: "Heritage Foundation"
 type: think-tank
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -156,7 +156,7 @@ Heritage's policy pipeline has five stages:
 
 **Pharmaceutical Price Controls:** Heritage has consistently opposed government drug price controls using framing identical to pharmaceutical industry lobbying campaigns while receiving documented payments from those same donors. "Why Pelosi's Drug Price Control Scheme Would Be a Poison Pill to Innovation" (September 2019) opposed the "Lower Drug Costs Now Act" as "an unprecedented exercise of raw government power." When the Inflation Reduction Act allowed Medicare to negotiate drug prices beginning 2026, Heritage opposed it as "replacing private sector negotiations with price controls."
 
-**Pharmaceutical and Insurance Industry Donors:**
+### Pharmaceutical and Insurance Industry Donors:
 
 | Donor | Amount | Year(s) | Type |
 |-------|--------|---------|------|
@@ -184,7 +184,7 @@ Heritage's policy pipeline has five stages:
 
 **Fossil Fuel Funding Pipeline:** The overlap between Heritage's climate denial research and its fossil fuel funding sources is structural. ExxonMobil gave Heritage $870,000 in documented grants, including $25,000 earmarked for climate programs. Heritage's ExxonMobil-funded studies were used in reports claiming climate regulations would "inflict severe and disproportionate economic burdens on poor families." Koch network contributions total $6.1 million documented; the Stand Together Network (Koch's umbrella) was identified as a contributor to Heritage in Inequality.org's October 2024 analysis of fossil fuel philanthropy. Shell USA Company Foundation donated to Heritage and other Project 2025 advisory organizations.
 
-**Key Climate Researchers:**
+### Key Climate Researchers:
 - **Nicolas Loris** — Senior Research Fellow and Deputy Director of the Thomas A. Roe Institute. Author of the Clean Power Plan Primer, Paris analyses, GND assessment, and methane regulation oppositions. Works for Cherokee Nation Businesses' energy advocacy arm.
 - **Kevin D. Dayaratna** — Chief Statistician, Center for Data Analysis. Co-authored Paris cost analysis, GND cost analysis, and papers calling the social cost of carbon negligible or negative.
 - **David W. Kreutzer** — Former Senior Research Fellow in Energy Economics and Climate Change. Co-authored Paris analysis and "The State of Climate Science."
@@ -200,7 +200,7 @@ Heritage's policy pipeline has five stages:
 
 **OSHA, Davis-Bacon, and Overtime:** Heritage characterized workplace safety regulations as economically harmful. On Davis-Bacon, Heritage called for repeal of the 1931 prevailing wage law, arguing in "Davis-Bacon Flaws Hurt Virginia's Workers" (Sherk and Tyrrell, 2008) that Department of Labor wage determination methodology is "scientifically unsound." Heritage's Mandate for Leadership guidance contributed to Davis-Bacon weakening under Reagan. On overtime, Heritage's "Salaried Overtime Requirements" (Sherk, 2015) argued Obama's proposed overtime rule would cause employers to cut base salaries; a federal court invalidated the rule in August 2017.
 
-**Labor Policy Summary Table:**
+### Labor Policy Summary Table:
 
 | Vote/Bill | Heritage Position | Year | Outcome |
 |-----------|------------------|------|---------|
@@ -351,49 +351,49 @@ Heritage's revolving door is the most extensive in conservative politics. It is 
 
 The measurable policy outcomes attributable to Heritage's policy pipeline, cross-referenced with donor interests:
 
-**Koch Industries (oil, gas, chemicals, manufacturing):**
+### Koch Industries (oil, gas, chemicals, manufacturing):
 - Corporate rate cut from 35% to 21% (TCJA, 2017): est. $1–1.4B annual savings
 - Chevron deference eliminated (Loper Light Enterprises v. Raimondo, 2024): removes regulatory agencies' ability to interpret environmental and safety rules
 - EPA deregulation across two administrations: weakens Clean Air Act enforcement, climate regulations
 - NLRB gutting: undermines union organizing in Koch-owned facilities
 - Minimum wage stagnation for 15+ years
 
-**Scaife Foundations (oil fortune, Mellon banking):**
+### Scaife Foundations (oil fortune, Mellon banking):
 - Financial deregulation advocacy: consistent Heritage output for 40+ years
 - Estate tax threshold increases (TCJA): directly benefits multi-generational wealth preservation
 - Anti-labor regulatory rollbacks
 - Climate denial infrastructure: $30M+ sustained over 51 years
 
-**Bradley Foundation (industrial manufacturing, anti-union focus):**
+### Bradley Foundation (industrial manufacturing, anti-union focus):
 - Education privatization: Heritage advocated school vouchers since 1970s; DeVos-era Department of Education implemented them
 - Right-to-work advocacy: Heritage produced research framing union dues as coercion; 22+ states passed RTW legislation using Heritage talking points
 - $7.9M targeting anti-union research capacity; Bradley's 2024 annual giving of $14.5M to local and state conservative groups amplified Heritage RTW research
 
-**Coors Family (beer, real estate):**
+### Coors Family (beer, real estate):
 - Federal land deregulation: consistent Heritage policy output
 - Liquor and alcohol industry regulatory rollbacks
 - Union busting: Heritage minimum wage and right-to-work research countered Coors' labor opposition
 
-**DeVos Family (education privatization, multi-level marketing):**
+### DeVos Family (education privatization, multi-level marketing):
 - Department of Education restructuring: Heritage had recommended dismantling the department for decades; now being executed
 - For-profit education deregulation
 - Amway business model protection: Heritage opposition to employee classification rules, worker protections, and FTC oversight of MLM companies
 
-**Financial Services (Fidelity, Vanguard, Schwab, BlackRock):**
+### Financial Services (Fidelity, Vanguard, Schwab, BlackRock):
 - Social Security privatization: if implemented, would divert $1.1 trillion annually in payroll taxes to private investment accounts, generating $5B+ per year in management fees
 - $6.3M to Heritage from Fidelity (2017–2022) alone; $18M+ from all donor-advised funds since 2020
 
-**Pharmaceutical Companies (PhRMA, Pfizer, J&J, GSK, Novartis):**
+### Pharmaceutical Companies (PhRMA, Pfizer, J&J, GSK, Novartis):
 - Drug price control opposition: PhRMA gave $212,500 to Heritage + $37,500 to Heritage Action while Heritage opposed drug price negotiations
 - Medicare For All defeat: $24.7–32T opposition projections deployed in congressional messaging
 - FDA deregulation: reduced oversight of drug approval and pricing
 
-**ExxonMobil ($870K documented):**
+### ExxonMobil ($870K documented):
 - Kyoto Protocol opposition: $23M Scaife + $870K ExxonMobil funding opposed international climate agreement
 - Paris withdrawal: Heritage projections cited by Trump for 2017 withdrawal announcement
 - Endangerment Finding defense: Heritage defended ExxonMobil against state attorney general climate investigations
 
-**Lockheed Martin ($341K documented):**
+### Lockheed Martin ($341K documented):
 - F-22 Raptor program: Heritage published "flurry of reports" supporting program after Pentagon recommended cutting it; ~$13B program saved through Heritage advocacy coordinated with monthly executive meetings
 
 > [!money]

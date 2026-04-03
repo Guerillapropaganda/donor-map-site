@@ -32,7 +32,7 @@ The firm operates from about a dozen offices across the US and internationally, 
 
 ### Client List
 
-**2025 top clients by sector (OpenSecrets data):**
+### 2025 top clients by sector (OpenSecrets data):
 
 #### Tech / Crypto / AI
 
@@ -125,22 +125,22 @@ The firm operates from about a dozen offices across the US and internationally, 
 
 ### What They Deliver
 
-**TikTok ban delay:**
+### TikTok ban delay:
 ByteDance hired Ballard in 2024 as Congress was finalizing legislation to force a sale or ban TikTok. After Trump's inauguration in January 2025, he repeatedly delayed enforcement of the ban. As of mid-2025, TikTok was still operating in the US. ByteDance paid Ballard throughout this period. Correlation is not proof — but the outcome matches the client interest exactly.
 
-**Nippon Steel / U.S. Steel acquisition:**
+### Nippon Steel / U.S. Steel acquisition:
 Biden blocked the Nippon Steel acquisition of U.S. Steel in January 2025, citing national security. Nippon Steel hired Ballard. By June 2025, the Trump administration approved the $15 billion deal. The reversal directly followed Ballard's engagement.
 
-**GEO Group and mass deportation:**
+### GEO Group and mass deportation:
 GEO Group (private prison/detention operator) has been a Ballard client. Under Trump's second term, GEO Group secured expanded federal detention contracts as the mass deportation program scaled up. Ballard's Stephen Klopp lobbied for Securitas/Paragon Systems (detention/security) while simultaneously lobbying for the Florida Sheriffs Association and Major County Sheriffs — the law enforcement network that feeds the deportation pipeline.
 
-**Crypto deregulation:**
+### Crypto deregulation:
 Ballard represents Ripple, Kraken (Payward), Blockchain US, and ByteDance — a concentrated crypto client stack. The Trump administration's SEC dropped its case against Ripple, reversed Biden-era crypto enforcement, and moved toward a strategic Bitcoin reserve. Multiple Ballard crypto clients were direct beneficiaries of the regulatory pivot.
 
-**Libyan warlord contract (March 2026):**
+### Libyan warlord contract (March 2026):
 Ballard signed a $2 million FARA-registered contract with the General Command of the Libyan Armed Forces — the military apparatus controlled by Khalifa Haftar, an 82-year-old warlord whose forces have been accused of mass killings, forced disappearances, and attacks on civilians by the UN and human rights organizations. The team includes Brian Ballard personally, Democratic former Congressman Robert Wexler (providing bipartisan cover), and the firm's MENA practice chief. The contract scope includes engagement with US executive branch officials — meaning Ballard is using its Trump access premium to promote a foreign military commander whom the UN does not recognize as Libya's legitimate ruler. The deal was filed with FARA on March 13, 2026.
 
-**FARA enforcement rollback:**
+### FARA enforcement rollback:
 Bondi's DOJ in 2025 directed prosecutors to deprioritize FARA enforcement unless conduct resembled "traditional espionage." This directly reduced legal risk for Ballard Partners and every other firm with foreign government clients. Bondi made this decision as sitting AG while her former employer continued lobbying for a dozen-plus foreign governments. The March 2026 Haftar contract illustrates the downstream consequence: Ballard took on a foreign military client accused of atrocities, under a FARA enforcement regime that its own former employee softened.
 
 ---
@@ -168,18 +168,18 @@ Bondi's DOJ in 2025 directed prosecutors to deprioritize FARA enforcement unless
 
 Ballard is fundamentally a Trump-access shop, but the firm maintains structural bipartisan coverage:
 
-**Democratic access layer:**
+### Democratic access layer:
 - **Robert Wexler** — Former Democratic Congressman (FL-19, 1997–2010). Provides Democratic Hill access and is active on foreign government and finance clients.
 - **Joe Buscaino** — Former Democratic LA City Councilmember. Provides California and municipal government access.
 - **Michael LaRosa** — Former White House Social Secretary under Biden; now lobbies for ByteDance, UnitedHealth, Harvard, among others.
 
-**Republican access core:**
+### Republican access core:
 - **Brian D. Ballard** — Trump fundraiser, Florida Republican kingmaker
 - **Jeff B. Miller** — Former Republican Chair of House Veterans Affairs Committee
 - **Leonard Curry** — Former Republican Mayor of Jacksonville
 - **Hunter Morgen** — Former Member of Congress (Republican)
 
-**2026 expansion:**
+### 2026 expansion:
 - **Rich Haselwood** — Joined Ballard's Washington DC office in March 2026 after a lengthy career at Reynolds American (R.J. Reynolds subsidiary), where he served as Senior Director of State Government Relations. Named one of The Hill's Top Lobbyists in 2021 and 2024. His arrival expands Ballard's consumer products/tobacco regulatory portfolio and adds a top-tier lobbyist who has navigated the intersection of corporate government relations and federal regulatory strategy for decades.
 
 The bipartisan model serves a specific function: it allows Ballard to claim it can lobby regardless of which party controls Congress or agency leadership. But the core value proposition is pure Trump access, and the revenue spike from $19M to $88M in one year proves it.

@@ -23,7 +23,7 @@ Klavan grew up in Great Neck, Long Island, son of Gene Klavan (NYC disc jockey).
 
 A landmark in his public persona: Klavan **converted to Christianity at age 49**, baptized privately, converting from secular Judaism. His 2016 memoir *The Great Good Thing: A Secular Jew Comes to Faith in Christ* became a defining text of his intellectual brand. He lives in Nashville, Tennessee, with wife Ellen Flanagan (married 1980), daughter of Irish novelist Thomas Flanagan and sister of writer Caitlin Flanagan.
 
-**Platform presence:**
+### Platform presence:
 - The Andrew Klavan Show (Daily Wire, since 2016) — #17 conservative podcast, 1,600+ episodes
 - The New Jerusalem (Substack with son Spencer Klavan, ~16,000+ subscribers)
 - X/Twitter: @andrewklavan (280K+ followers)
@@ -60,17 +60,17 @@ No FEC individual contributions found. The FEC API returns 0 results for "KLAVAN
 
 ### Who Funds Them
 
-**Primary funder: The Daily Wire / Wilks Brothers**
+### Primary funder: The Daily Wire / Wilks Brothers
 
 The Daily Wire was built on a $4.7M seed investment from **Farris Wilks** in 2015, with Dan Wilks also listed as early investor. The Wilks brothers are Texas fracking billionaires and fundamentalist Christian pastors whose political and religious agenda is inseparable: they oppose abortion, LGBTQ rights, climate action, and support Christian nationalist political organizing. Their Daily Wire investment was not a media bet — it was a theological infrastructure project.
 
 The Wilks brothers imposed an **Israel loyalty test** on Daily Wire talent: Candace Owens was fired in March 2024 after conflicts with Ben Shapiro over her coverage of Gaza. The test is explicit: Daily Wire hosts do not challenge Israeli policy. Klavan's theological conservatism — Christian Zionism is a core element of evangelical conservative ideology — makes him naturally compliant with this constraint.
 
-**Secondary funder: Substack platform**
+### Secondary funder: Substack platform
 
 The New Jerusalem operates on Substack, which received $65M Series A funding from Andreessen Horowitz (a16z). This places Klavan's independent content platform within the same a16z-funded tech infrastructure that funds [[Glenn Greenwald]]'s Substack. The platform itself is a product of Silicon Valley libertarian capital.
 
-**Advertising/book publishers:**
+### Advertising/book publishers:
 
 Klavan's books are published through specialty conservative and general market publishers. *The Kingdom of Cain* (2025) was published through a general market publisher. His crime fiction crosses mainstream readership demographics — widening reach beyond the core Daily Wire audience.
 
@@ -80,16 +80,16 @@ Klavan's books are published through specialty conservative and general market p
 
 Klavan's content serves three distinct donor-class functions:
 
-**1. Theological legitimization of economic conservatism**
+### 1. Theological legitimization of economic conservatism
 Klavan's conversion narrative (secular Jew → Christian) and literary credentials legitimate the fusion of Christian nationalism with free-market capitalism. He provides intellectual cover for what would otherwise appear as nakedly reactionary donor-class politics. The *Great Good Thing* memoir frames the Wilks Brothers' theocratic vision as spiritual journey, not political project.
 
-**2. Anti-progressive culture war**
+### 2. Anti-progressive culture war
 Klavan's Daily Wire content consistently attacks progressive cultural norms — LGBTQ rights, DEI, feminism, secularism — while framing these attacks as defense of Western civilization and Judeo-Christian heritage. This is the same function Walsh serves (culture war shock content), but delivered with literary gravitas and dry humor rather than trolling outrage.
 
-**3. Trump skepticism as controlled opposition**
+### 3. Trump skepticism as controlled opposition
 Unlike Hannity or Watters, Klavan has offered tepid criticisms of Trump while remaining broadly within the MAGA coalition. This "thoughtful conservative" positioning extends the Daily Wire's demographic reach to educated conservatives uncomfortable with pure Trumpism — widening the donor-class propaganda tent without destabilizing its core.
 
-**4. Christian fiction as theological pipeline**
+### 4. Christian fiction as theological pipeline
 Klavan's novels explicitly incorporate Christian worldview — *Another Kingdom*, the Cameron Winter series, and *A Strange Habit of Mind* embed theological conservatism in accessible crime-thriller formats. This is long-form audience capture: fiction readers who don't consume political podcasts are exposed to the same ideological framework through narrative.
 
 ---

@@ -47,14 +47,14 @@ The Wilks brothers' political spending serves two intertwined goals — fossil f
 
 ### Who They Fund
 
-**Media Infrastructure**
+### Media Infrastructure
 
 | Entity | Amount | Year | What It Bought |
 |--------|--------|------|----------------|
 | The Daily Wire (Ben Shapiro) | $4.7M seed + co-ownership stake | 2015 | Conservative media company; Farris Wilks remains co-owner. $200M+ annual revenue by 2024. Top-10 climate disinformation publisher. |
 | PragerU (Dennis Prager) | ~$6.5M (Thirteen Foundation) | 2013+ | Right-wing video operation with 5B+ views. Most of PragerU's early seed money. |
 
-**Political Campaigns (Combined, Farris + Dan + wives)**
+### Political Campaigns (Combined, Farris + Dan + wives)
 
 Texas state giving: $11M+ (Wilks) combined with Tim Dunn's $18M+, they are among the top donors in the state. At the federal level, FEC records show 93 individual contributions from Farris Wilks alone (2010-2026), including:
 
@@ -67,7 +67,7 @@ Texas state giving: $11M+ (Wilks) combined with Tim Dunn's $18M+, they are among
 | Thomas Massie | $2,900 | 2022 | Anti-establishment Republican |
 | Rand Paul | $2,900 + Victory Fund | 2021-2022 | Libertarian-leaning Republican |
 
-**Advocacy Organizations**
+### Advocacy Organizations
 
 - **Defend Texas Liberty PAC:** $3M+ to Don Huffines' 2022 gubernatorial challenge to Greg Abbott. Primary vehicle for funding right-wing primary challengers in Texas.
 - **Empower Texans:** Created by Tim Dunn, largely funded by Dunn and Wilks. Issues legislative "Fiscal Responsibility Index" scorecards used to primary insufficiently conservative Republicans.
@@ -75,7 +75,7 @@ Texas state giving: $11M+ (Wilks) combined with Tim Dunn's $18M+, they are among
 - **WallBuilders:** ~$3M from Farris Wilks. David Barton's Christian nationalist historical revisionism organization.
 - **Heritage Foundation, Focus on the Family:** Significant donations through personal foundations (Thirteen Foundation, Heavenly Fathers Foundation).
 
-**Foundation Spending**
+### Foundation Spending
 
 - **Thirteen Foundation** (Farris + JoAnn Wilks): $12.8M in 2012 alone. Funds anti-abortion groups, crisis pregnancy centers, conservative Christian organizations.
 - **Heavenly Fathers Foundation** (Dan + Staci Wilks): $4.3M in 2012. Similar distribution pattern.

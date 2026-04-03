@@ -1,7 +1,7 @@
 ---
 title: "ALEC - American Legislative Exchange Council"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -105,10 +105,10 @@ ALEC does not make direct campaign contributions — its 501(c)(3) status prohib
 
 **3. Legislator Pipeline:** ALEC conferences provide networking, talking points, and model bills to state legislators who are often under-resourced. In many state legislatures, ALEC is the primary policy research operation available to Republican members. The organization functions as an outsourced legislative staff funded by corporations.
 
-**Key corporate funders (known to have remained post-2012 exodus):**
+### Key corporate funders (known to have remained post-2012 exodus):
 Koch Industries, ExxonMobil, Altria (Philip Morris), AT&T, FedEx, State Farm, Pfizer, UPS, PhRMA
 
-**Key foundation funders:**
+### Key foundation funders:
 Lynde & Harry Bradley Foundation ($3.6M, 2019–2024), Koch-affiliated entities ($2.3M, 2019–2023), Donors Trust/Donors Capital Fund (amounts undisclosed), Sarah Scaife Foundation
 
 ---
@@ -134,7 +134,7 @@ ALEC's legislative manufacturing process is structured and closed-door:
 
 ALEC has produced 1,000+ model bills. The Center for Media and Democracy's ALEC Exposed project documented 850+ leaked model bills. In 2011–2012 alone, Brookings Institution researcher Molly Jackman identified 132 bills introduced in state legislatures with language directly traceable to ALEC models, with 12 enacted into law (~9% success rate — 5x higher than the average bill's <2% enactment rate). Between 2010 and 2018, legislators introduced 2,900 bills based on ALEC models, with more than 600 enacted (~21% passage rate). The pipeline operates at a scale no individual corporation could achieve: one bill draft, distributed to legislators in 50 state capitals, introduced simultaneously across the country.
 
-**2011–2012 ALEC Bill Statistics (Brookings Study):**
+### 2011–2012 ALEC Bill Statistics (Brookings Study):
 
 | Metric | Data |
 |--------|------|
@@ -199,7 +199,7 @@ Florida's Stand Your Ground law (2005) was drafted with ALEC's involvement and d
 
 ALEC's Energy, Environment & Agriculture Task Force is dominated by fossil fuel representatives: Koch Industries, ExxonMobil, Duke Energy, Peabody Coal. The flagship anti-renewable model bill is the **"Electricity Freedom Act"** (2012), co-written by ALEC and the Heartland Institute, which declared renewable portfolio standards "essentially a tax on consumers."
 
-**ALEC's Renewable Energy Campaign:**
+### ALEC's Renewable Energy Campaign:
 
 | Year | Action | Outcome |
 |------|--------|---------|
@@ -298,14 +298,14 @@ ALEC does not operate in isolation. It occupies a specific structural position i
 
 [[State Policy Network]] (SPN) is the connective tissue linking national Koch network priorities to state-level "intellectual" infrastructure. Founded in 1992, SPN describes itself as "dedicated solely to improving the practical effectiveness of independent, nonprofit, market-oriented, state-focused think tanks."
 
-**SPN Structure:**
+### SPN Structure:
 - **63 state-based affiliates** (dedicated state think tanks)
 - **130+ national nonprofit partners** (national organizations providing policy framework)
 - **Combined 2020 revenue: $152 million** (SPN + all affiliates)
 
 SPN functions as ALEC's intellectual legitimacy layer. When ALEC introduces model legislation in a state, SPN affiliates in that state simultaneously release "studies" and position papers providing academic cover for the bills. SPN also provides expert testimony in state legislative hearings. The same funders (Koch, Bradley, Scaife) support both ALEC and SPN, creating structural coordination: ALEC writes the bill, SPN writes the research justifying it, [[Americans for Prosperity]] runs the ad campaign pressuring legislators to pass it.
 
-**SPN Growth and Revenue:**
+### SPN Growth and Revenue:
 
 | Year | Member Think Tanks | Combined Revenue (SPN + Affiliates) |
 |------|-------------------|-------------------------------------|
@@ -314,7 +314,7 @@ SPN functions as ALEC's intellectual legitimacy layer. When ALEC introduces mode
 | 2020 | 64 affiliates + 99 associates | $152 million |
 | 2023 | — | — |
 
-**SPN Core Organization Annual Revenue (2013–2023):**
+### SPN Core Organization Annual Revenue (2013–2023):
 
 | Year | Revenue | Expenses | Net Assets |
 |------|---------|----------|------------|
@@ -325,7 +325,7 @@ SPN functions as ALEC's intellectual legitimacy layer. When ALEC introduces mode
 | 2021 | $24.8M | $18.7M | $18.9M |
 | 2023 | $27.1M | $25.8M | $20.1M |
 
-**Koch Funding of SPN:**
+### Koch Funding of SPN:
 
 | Source | Amount | Period |
 |--------|--------|--------|
@@ -340,7 +340,7 @@ SPN functions as ALEC's intellectual legitimacy layer. When ALEC introduces mode
 
 Per Center for Public Integrity analysis, DonorsTrust and Donors Capital Fund are "the preferred donor conduit of the Koch political network." In 2011, grants from DonorsTrust made up approximately 40% of SPN's annual revenue.
 
-**Top SPN Affiliates with Koch Connections:**
+### Top SPN Affiliates with Koch Connections:
 
 | State | Affiliate | Funding | Role |
 |-------|-----------|---------|------|
@@ -371,7 +371,7 @@ In 2010, the Republican State Leadership Committee (RSLC) launched **REDMAP (Red
 
 Per Bill Moyers: "The Republicans spent $30 million on this and they were able to build themselves a firewall, a full Chamber of Congress for a decade, for less than the price of a losing Senate race in a small state."
 
-**Koch Network Connection to REDMAP:**
+### Koch Network Connection to REDMAP:
 - [[Americans for Prosperity]] spent $39 million in 2010 (combined AFP entities), credited with boosting the Tea Party wave delivering 675 legislative seats
 - In North Carolina, Koch associate **Art Pope** — who attends Koch donor seminars — contributed $2.2–$2.3 million to 20 state legislative candidates in 2010, effectively doubling their campaign budgets
 - The RSLC is organized to accept unlimited corporate donations (post-Citizens United, January 2010)

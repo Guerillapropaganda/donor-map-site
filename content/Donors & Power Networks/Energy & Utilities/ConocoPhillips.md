@@ -1,7 +1,7 @@
 ---
 title: "ConocoPhillips"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -25,7 +25,7 @@ ConocoPhillips' most politically significant asset is the Willow Project — an 
 
 ### Who They Fund
 
-**Federal PAC Contributions by Election Cycle (2000–2024):**
+### Federal PAC Contributions by Election Cycle (2000–2024):
 
 | Election Cycle | PAC Contributions | Total All Sources | % to Democrats | % to Republicans |
 |----------------|-------------------|-------------------|----------------|-----------------|
@@ -47,7 +47,7 @@ ConocoPhillips' most politically significant asset is the Willow Project — an 
 
 ConocoPhillips SPIRIT PAC (FEC Committee ID C00112896) raised $457,652 in 2023–2024 and gave $294,000 to federal candidates (17.69% to Democrats, 82.31% to Republicans). The company's giving is highly variable — averaging 82–92% Republican, jumping to 92%+ in non-presidential off-years. The extreme 2016 anomaly (88.70% GOP) reflects concentrated investment in a potential Trump deregulatory presidency.
 
-**Federal Lobbying Expenditures (2002–2024):**
+### Federal Lobbying Expenditures (2002–2024):
 
 | Year | Federal Lobbying Spending |
 |------|--------------------------|
@@ -71,7 +71,7 @@ ConocoPhillips SPIRIT PAC (FEC Committee ID C00112896) raised $457,652 in 2023�
 
 **Confirmed total 2002–2024:** ~$91 million. The 2010 peak ($19.6M) marked ConocoPhillips' highest single-year spending and coincided with Senate votes on Waxman-Markey cap-and-trade legislation — the industry's coordinated fight to block climate policy. Recent years (2022–2024, averaging $8.3M annually) now exceed [[ExxonMobil]]'s federal lobbying spending.
 
-**2024 Top Recipients:**
+### 2024 Top Recipients:
 
 | Recipient | Total | Significance |
 |-----------|-------|---|
@@ -88,7 +88,7 @@ ConocoPhillips SPIRIT PAC (FEC Committee ID C00112896) raised $457,652 in 2023�
 
 **Alaska Delegation Pattern:** ConocoPhillips' 2024 giving heavily weighted to Alaska delegation members who championed Willow approval — Murkowski and Sullivan were the most important political advocates.
 
-**Revolving Door: The Cheney Energy Task Force Connection**
+### Revolving Door: The Cheney Energy Task Force Connection
 
 Andrew Lundquist represents the most significant documented revolving door at ConocoPhillips:
 - **Government roles:** Staff director for Vice President Cheney's 2001 energy task force; White House energy policy director; earlier served as staff director for Senate Energy Committee under Sen. Frank Murkowski (R-AK)
@@ -104,7 +104,7 @@ This exemplifies how executive branch energy policy architects (Cheney's energy 
 
 ### What They've Gotten
 
-**Willow Project: Full Lobbying Campaign and Policy Victory**
+### Willow Project: Full Lobbying Campaign and Policy Victory
 
 The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 million barrels expected over project lifetime, $8–17 billion government revenues) represents ConocoPhillips' most significant recent policy victory:
 

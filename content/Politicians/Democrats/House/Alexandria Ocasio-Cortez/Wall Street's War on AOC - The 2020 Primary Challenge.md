@@ -1,7 +1,7 @@
 ---
 title: "Wall Street's War on AOC - The 2020 Primary Challenge"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: "[[_Alexandria Ocasio-Cortez Master Profile]]"

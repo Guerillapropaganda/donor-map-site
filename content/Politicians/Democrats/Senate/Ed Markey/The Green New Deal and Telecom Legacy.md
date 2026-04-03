@@ -1,7 +1,7 @@
 ---
 title: "The Green New Deal and Telecom Legacy"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: "[[_Ed Markey Master Profile]]"
@@ -29,7 +29,7 @@ The structural relationship: Markey regulated AT&T, Verizon, Comcast, and DISH's
 
 The Telecommunications Act of 1996 was Markey's signature legislative achievement. The stated goal: break up media monopolies, spur competition, and lower consumer prices. The outcome contradicted the goal on nearly every metric.
 
-**What happened after the Act:**
+### What happened after the Act:
 - Cable bills rose 6.1% annually between 1995 and 2012, compared to 2.4% annual CPI inflation
 - Clear Channel went from owning 40 radio stations nationally to 1,200+
 - Regional telephone companies merged into AT&T and Verizon — a duopoly

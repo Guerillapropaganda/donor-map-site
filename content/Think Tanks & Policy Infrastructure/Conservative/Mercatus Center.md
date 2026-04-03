@@ -1,7 +1,7 @@
 ---
 title: "Mercatus Center"
 type: think-tank
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -37,7 +37,7 @@ The financial trajectory is revealing: revenue grew from $11.7M (FY2011) to $50.
 
 Contributions account for 94.7% of revenue (FY2024). The Koch network is the dominant funding source.
 
-**Revenue trajectory (FY2011-FY2024):**
+### Revenue trajectory (FY2011-FY2024):
 
 | Fiscal Year | Total Revenue | Contributions | Total Assets |
 |---|---|---|---|
@@ -55,12 +55,12 @@ Contributions account for 94.7% of revenue (FY2024). The Koch network is the dom
 
 Revenue nearly quintupled between 2011 and peak FY2021, with contributions representing 94-99% of total revenue in every year.
 
-**Koch family/network documented funding:**
+### Koch family/network documented funding:
 - **Charles Koch Foundation:** $9.85M+ to Mercatus (2005-2018 documented period), with additional millions flowing through George Mason University Foundation. Historical grants include $3.9M (2006), $2.68M (2007), $1.05M (2008), $1.015M (2005).
 - **DonorsTrust / Donors Capital Fund:** $15.1M + $1.5M respectively (1985-2015) — the Koch network's preferred dark money pass-through
 - **Koch family direct:** $30M+ total to George Mason University, much directed to or through Mercatus
 
-**Complete donor landscape (1985-2015):**
+### Complete donor landscape (1985-2015):
 
 | Donor | Total |
 |---|---|
@@ -78,7 +78,7 @@ Revenue nearly quintupled between 2011 and peak FY2021, with contributions repre
 | PhRMA | $35,000 |
 | American Petroleum Institute | $25,000 |
 
-**Board-level Koch control:**
+### Board-level Koch control:
 - **Charles G. Koch** — served as board Director (documented through at least FY2019)
 - **Richard H. Fink** — Director (Koch's chief political strategist who founded the center); Executive Vice President, Koch Industries
 - **Brian Hooks** — Director (CEO of Koch's Stand Together network, formerly Mercatus COO)
@@ -97,13 +97,13 @@ Revenue nearly quintupled between 2011 and peak FY2021, with contributions repre
 
 Mercatus produces three categories of policy output, all serving the deregulatory agenda:
 
-**RegData / QuantGov — The Regulatory Cost Machine:**
+### RegData / QuantGov — The Regulatory Cost Machine:
 The center's flagship product is RegData, launched in 2012, which quantifies federal regulatory restrictions by counting the number of "restrictive words" (shall, must, may not, required, prohibited) in the Code of Federal Regulations. QuantGov (2017) expanded this approach using data analytics. These tools provide the intellectual architecture for arguing that regulation has measurable, excessive costs — the foundation of Trump's Executive Order 13771 ("one-in, two-out" rule).
 
-**Regulatory Budget Concept:**
+### Regulatory Budget Concept:
 Mercatus researchers developed the "regulatory budget" concept — capping the total cost of regulations just like the fiscal budget caps spending. This concept was directly adopted by the Trump administration's deregulatory framework and escalated to "one-in, ten-out" in Trump's second term.
 
-**Policy-Specific Deregulatory Research:**
+### Policy-Specific Deregulatory Research:
 - Financial market deregulation (Hester Peirce's work before becoming SEC Commissioner)
 - Healthcare deregulation (Brian Blasé's work before joining the White House)
 - Labor deregulation (minimum wage opposition, overtime protection challenges, OSHA rollback arguments)
@@ -119,7 +119,7 @@ Mercatus researchers developed the "regulatory budget" concept — capping the t
 
 Mercatus runs the most direct think-tank-to-executive-branch pipeline in the deregulatory space:
 
-**The RegData → Executive Order 13771 Pipeline:**
+### The RegData → Executive Order 13771 Pipeline:
 1. Mercatus develops RegData methodology quantifying "regulatory burden" (2012) by Patrick McLaughlin and Omar Al-Ubaydli, published in peer-reviewed form (2015)
 2. Mercatus researchers publish papers arguing for a "regulatory budget" to cap regulatory costs
 3. **Patrick McLaughlin testifies before House Committee on the Budget** (July 7, 2016), chaired by Representative Tom Price (R-GA, later HHS Secretary). McLaughlin argues that "regulatory accumulation has been demonstrated to distort business investment choices, deter innovation, hinder productivity growth, and slow economic growth" and proposes a "regulatory budget process."
@@ -128,7 +128,7 @@ Mercatus runs the most direct think-tank-to-executive-branch pipeline in the der
 6. Mercatus research is directly cited in White House and OIRA implementation guidance
 7. Trump 2.0 (2025) escalates to "one-in, ten-out" — the same Mercatus framework at higher ratios
 
-**Claimed Cost Savings under EO 13771:**
+### Claimed Cost Savings under EO 13771:
 
 | Fiscal Year | Deregulatory Actions | Regulatory Actions | Ratio | Annualized Cost Savings |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ Mercatus runs the most direct think-tank-to-executive-branch pipeline in the der
 
 At EPA specifically, the agency achieved over $96 million in annualized regulatory cost savings from deregulatory actions in FYs 2017-2018. Brookings Institution noted significant methodological concerns with these numbers, including how OMB chose to count "deregulatory actions" broadly while counting only "significant" regulatory actions for ratio calculation, potentially inflating apparent savings.
 
-**The Academic Capture Pipeline:**
+### The Academic Capture Pipeline:
 1. Koch Foundation funds professorships at George Mason University's economics department
 2. Gift agreements (2003-2011, revealed via FOIA in 2018) gave Koch donors seats on faculty selection committees
 3. Koch-selected professors produce research favorable to Koch policy positions
@@ -159,13 +159,13 @@ This section documents how Mercatus research systematically opposes policies tha
 - **"Raising the Minimum Wage: A Tired, Bad Proposal"** (February 2013, Veronique de Rugy) — Published the day after Obama's SOTU proposing $9 minimum wage
 - **"Helping the Poor Without Hurting the Recovery"** by Mark Adams, featuring Keith Hall (former BLS Commissioner, Mercatus senior fellow) — Argued raising minimum wage to $9 would increase unemployment and proposed regulatory reform as alternative
 
-**Overtime Protection Opposition:**
+### Overtime Protection Opposition:
 - **"An Economic Analysis of Overtime Pay Regulations"** (April 2016) — Opposed Department of Labor's proposal to extend overtime protections to 5 million workers by raising salary threshold from $23,660 to $50,440. Paper claimed employers would respond by "cutting base salaries or laying off workers" and that tech industry alone might face "$317 million and $4.5 billion in legal fees." Policy outcome: Federal judge in Texas blocked the Obama-era overtime rule (November 2016) before implementation, citing cost concerns Mercatus and allies had raised.
 
-**OSHA Workplace Safety Opposition:**
+### OSHA Workplace Safety Opposition:
 - **"Evaluating OSHA's Effectiveness and Suggestions for Reform"** (April 2013) — Argued OSHA is not the major cause of declining fatalities and should redirect toward "educational efforts" rather than enforcement. Recommended OSHA "inspect fewer worksites for the second and third times" — effectively arguing for less rigorous enforcement. Center for Progressive Reform critiqued this as rehashing "discredited arguments," noting it "relies exclusively on studies finding little or no correlation between OSHA activity and reductions in worker injuries."
 
-**Gig Worker Classification:**
+### Gig Worker Classification:
 - **"Assessing the Impact of Worker Reclassification"** (December 2023) — Filed with Minnesota government arguing against AB5-style worker classification that would extend employee protections to gig workers. Study concluded stricter classification tests could "reduce employment, hours worked, or wages."
 - **"Four Recommendations for Analyzing the Department of Labor's Proposed Rule"** (October 2020) — Public interest comment opposing DOL's proposed independent contractor rule
 
@@ -180,7 +180,7 @@ Mercatus research arguing for reduced OSHA enforcement and against stricter work
 
 **The Blahous Medicare for All Study (2018):** The most politically consequential Mercatus healthcare publication was **"The Costs of a National Single-Payer Healthcare System"** by Charles Blahous, published July 2018. The study estimated Senator Bernie Sanders' Medicare for All would increase federal budget commitments by $32.6 trillion over 10 years. However, buried in the tables: total national health expenditures would actually decline by $2.054 trillion under M4A's most favorable assumptions. People's Policy Project analysis documented the political strategy: "Mercatus is to bury the money-saving finding in the report's tables while headlining the incomprehensibly large $32.6 trillion number in order to trick dim reporters into splashing that number everywhere." The $32.6 trillion figure became a central Republican talking point against Medicare for All throughout 2018-2020. Physicians for a National Health Program documented that Blahous "grossly underestimates the main source of savings from single payer: administrative efficiency" and omitted $724 billion in expected federal employee health benefit costs that would be redirected under M4A.
 
-**ACA / Medicaid Expansion Opposition:**
+### ACA / Medicaid Expansion Opposition:
 - **"Evidence Is Mounting: The Affordable Care Act Has Worsened Medicaid's Structural Problems"** (September 2016) — Argued ACA Medicaid expansion produced enrollment and spending "much higher than expected"
 - **"The Broken Promises of the Affordable Care Act"** (October 2016) — Concluded ACA "increased, rather than decreased, overall healthcare spending" and "negatively affected economic growth"
 - **"The Affordable Care Act's Medicaid Expansion Is Shifting Resources Away from Low-Income Children"** (December 2022, Blahous/Sigaud) — Found per capita Medicaid spending on children in expansion states grew less than one-third of nonexpansion states
@@ -198,7 +198,7 @@ Policy outcome: Multiple states have rolled back or modified CON laws since 2020
 
 **2002 Wendy Gramm "Hit List":** Wendy Gramm, distinguished senior scholar at Mercatus and founder of its Regulatory Studies Program, suggested 44 Clean Air Act regulations for reconsideration, including smog/soot standards and tailpipe exhaust rules. The Office of Management and Budget adopted 14 of 23 regulations ultimately targeted for elimination, directly matching Mercatus suggestions.
 
-**EPA and Environmental Regulation Opposition:**
+### EPA and Environmental Regulation Opposition:
 - **"EPA's Irrational, Uncompliant Benefit-Cost Analysis"** — Criticized EPA's approach to regulating greenhouse gas emissions from power plants
 - **"Overriding Consumer Preferences with Energy Regulations"** (by Ted Gayer) — Argued energy efficiency regulations "benefits stem from private consumer savings" rather than environmental gains, framing EPA/DOE rules as paternalistic overreach
 - **CAFE Standards Criticism:** Published public interest comments calling for "regulatory review" of fuel economy standards, arguing they "add to traffic congestion and cause technological lock-in"
@@ -228,7 +228,7 @@ Total: $718M+ in documented environmental fines. Key Koch operations include Fli
 - **"Regulatory Burdens: The Impact of Dodd-Frank on Community Banking"** (July 2013) — Congressional testimony arguing Dodd-Frank provisions including "extensive new mortgage rules, CFPB, capital requirements" are harming community banks and deepening "too-big-to-fail status of large financial institutions"
 - **"Did Deregulation Cause the Financial Crisis?"** (August 2017) — Used Mercatus's own RegData to argue there was "no meaningful decrease in regulatory restrictions in the period leading up to the financial crisis" and crisis was "preceded by nearly four decades of steadily increasing regulation"
 
-**CFPB Opposition:**
+### CFPB Opposition:
 - **"The Consumer Financial Protection Bureau: Savior or Menace?"** (October 2012, Todd Zywicki) — Characterized CFPB as "a powerful, largely unaccountable new federal bureaucracy." Recommended replacing single director with commission, subjecting it to congressional budgetary oversight, and weakening consumer protection mandate
 
 **The Wendy Gramm-Enron Connection — Financial Deregulation Precedent:** Wendy Gramm, Mercatus's Regulatory Studies Program founder, previously served as CFTC chair then joined Enron's board. As Mercatus RSP head in mid-1990s, she "pushed Congress to support what came to be known as the Enron Loophole, exempting the type of energy derivatives from which Enron profited from regulatory oversight." Her husband, Senator Phil Gramm, crafted the Commodity Futures Modernization Act of 2000, which enabled unregulated trading of credit default swaps — a major cause of the 2008 financial crisis. This historical precedent shows how Mercatus-affiliated scholars can bridge regulatory agencies, corporate boards, and legislative action to facilitate financial deregulation.
@@ -283,7 +283,7 @@ Total: $718M+ in documented environmental fines. Key Koch operations include Fli
 
 Mercatus operates one of the tightest revolving doors between a university-affiliated think tank and the federal regulatory apparatus:
 
-**Mercatus → Trump Administration:**
+### Mercatus → Trump Administration:
 
 - **Hester Maria Peirce** — Senior Research Fellow & Director, Financial Markets Working Group → SEC Commissioner (nominated 2017, confirmed 2018). Known as "Crypto Mom" for opposing SEC cryptocurrency regulation. Carried Mercatus financial deregulation agenda directly into the regulatory body.
 - **William Beach** — VP of Policy Research at Mercatus → Commissioner of the Bureau of Labor Statistics (confirmed March 2019). Senators Whitehouse and Warren raised concerns about Koch network influence on federal statistics. Previously Heritage Foundation economist and president of Koch's Institute for Humane Studies.
@@ -292,7 +292,7 @@ Mercatus operates one of the tightest revolving doors between a university-affil
 - **Susan Dudley** — Director, Regulatory Studies Program → OIRA Administrator (Bush recess appointment, April 2007). Public Citizen described Dudley as "an anti-regulatory extremist best known for her work at the industry-funded think Mercatus Center."
 - **Keith Hall** — Senior Research Fellow → BLS Commissioner → CBO Director (installed 2015 via Tom Price/Enzi, both Koch PAC recipients)
 
-**Koch Network → Mercatus → Koch Network:**
+### Koch Network → Mercatus → Koch Network:
 - **Richard Fink** — Founded Mercatus as a Koch graduate student, served as Koch Industries EVP, sat on Mercatus board throughout, remains board member. The revolving door between Mercatus and Koch Industries' political operation is essentially the same building.
 - **Brian Hooks** — Mercatus COO → CEO of Koch's Stand Together network → Mercatus board Director. Direct pipeline between Mercatus operations and Koch's political infrastructure.
 

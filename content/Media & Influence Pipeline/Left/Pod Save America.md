@@ -17,7 +17,7 @@ related: [[George Soros]] · [[Hollywood Democratic Donor Network]] · [[Democra
 
 **Entity Type:** Political Action Committee (PAC), not individual contributors. Vote Save America (FEC ID: C00835587) is Crooked Media's affiliated PAC, separate from the podcast hosts' personal campaign finance.
 
-**PAC Summary (2023–2024 cycle):**
+### PAC Summary (2023–2024 cycle):
 - Total raised: $8.67M
 - Total disbursed: $8.67M (100% to Democratic candidates and causes)
 - All-in cycle giving since 2018: $70M+

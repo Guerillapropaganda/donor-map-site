@@ -1,7 +1,7 @@
 ---
 title: "Narya Capital"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -41,13 +41,13 @@ Narya's financial interests and political interests are identical — because Va
 
 Narya's capital flows in two directions: into portfolio companies and into political infrastructure.
 
-**Portfolio companies (confirmed Narya investments):**
+### Portfolio companies (confirmed Narya investments):
 - **True Anomaly** — defense tech startup building autonomous spacecraft and orbital surveillance systems. Narya was lead investor. True Anomaly raised a $260M Series C in 2024. Primary revenue target: Pentagon and DoD contracts.
 - **AppHarvest** — Kentucky indoor farming company (vertical agri-tech). Narya invested; AppHarvest went public via SPAC in 2021, collapsed amid labor disputes and mismanagement, filed for bankruptcy in 2023. Workers alleged "nightmare" conditions including unsafe practices and wage violations.
 - **Omni** — fintech/logistics platform. Narya portfolio.
 - Additional undisclosed positions in biotech and logistics held through Vance's Senate and VP tenure.
 
-**Political infrastructure:**
+### Political infrastructure:
 - Thiel's **Protect Ohio Values PAC** — funded by Peter Thiel with $15M — bankrolled Vance's 2022 Ohio Senate campaign. Narya was the institutional relationship that brought Thiel and Vance together; the VC investment preceded and enabled the political one.
 - The broader Thiel–Andreessen–Schmidt political network that funded Narya also funded Republican Senate and presidential candidates through separate PACs during the 2022 and 2024 cycles.
 

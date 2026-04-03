@@ -35,19 +35,19 @@ MI does not disclose its donor list. Schedule B of its Form 990 (donor names) is
 
 Documented funding from investigative reporting and foundation grant disclosures:
 
-**Wall Street / Finance:**
+### Wall Street / Finance:
 Paul Singer's Paul E. Singer Foundation gave $525,000 to MI in 2016. Singer serves as Chairman of the Board — an unusually direct capture of institutional leadership by a major donor. Singer is the founder of Elliott Management, one of the most aggressive activist hedge funds in the world, with a known interest in deregulation, anti-union policy, and judicial appointments aligned with property rights.
 
 Roger Hertog, former president and partner at Sanford C. Bernstein & Co. (investment management), served as MI Chairman before Singer and is a major historical donor. Hertog has been described as the architect of the modern Manhattan Institute's intellectual identity.
 
-**Koch Network:**
+### Koch Network:
 - Charles Koch Foundation: $790,305 (2013–2021)
 - Claude R. Lambe Foundation (Koch-controlled): $2,075,000 (2001–2012)
 - Stand Together Fellowships: $445,520 (2015, 2020)
 - Charles Koch Institute: $66,720 (2014–2018)
 - Total documented Koch network funding: ~$3.4M
 
-**Bradley Foundation:**
+### Bradley Foundation:
 - Lynde and Harry Bradley Foundation: $5,781,560 since 1986
 - $625,000 in 2019 alone
 The Bradley Foundation is a Milwaukee-based conservative foundation — one of the top funders of the conservative policy ecosystem alongside Koch and Scaife.
@@ -63,10 +63,10 @@ The Bradley Foundation is a Milwaukee-based conservative foundation — one of t
 
 MI produces policy research, books, op-eds, model legislation, and *City Journal* content across several core areas:
 
-**Policing and Criminal Justice:**
+### Policing and Criminal Justice:
 George Kelling (MI Senior Fellow) and James Q. Wilson co-authored "Broken Windows" (1982), the foundational text for order-maintenance policing. MI published follow-up research and City Journal commentary throughout the 1990s that shaped Giuliani's NYPD strategy. Heather Mac Donald's *The War on Cops* (2016) and *The Diversity Delusion* (2018) are MI products that directly countered the Black Lives Matter movement and police reform campaigns. Mac Donald earned $359,584 in FY2023.
 
-**Education / Anti-CRT / DEI:**
+### Education / Anti-CRT / DEI:
 Christopher Rufo joined MI as Senior Fellow and became the primary architect of the national anti-CRT and anti-DEI campaign. Key outputs include:
 - "Critical Race Theory Is the New Segregation" (MI article, 2021)
 - *Diversity, Equity and Inclusion: Model Legislation for State Legislatures* (MI issue brief, 2023) — provided legislators with verbatim bill language to abolish DEI offices
@@ -74,20 +74,20 @@ Christopher Rufo joined MI as Senior Fellow and became the primary architect of 
 - The "Manhattan Statement" (2025) — a higher education reform framework endorsed by Trump Education Secretary Linda McMahon
 Rufo earned $282,293 in FY2023, $252,700 in FY2024.
 
-**Housing:**
+### Housing:
 MI has produced a sustained body of research opposing rent control, supporting zoning deregulation, and promoting YIMBY (Yes In My Backyard) housing policy. Key outputs shaped New York Mayor Adams's "City of Yes for Housing Opportunity" zoning reform (2024). This research benefits real estate interests — not coincidentally, MI's donor base includes finance capital deeply invested in New York City real estate markets.
 
-**Fiscal / Tax Policy:**
+### Fiscal / Tax Policy:
 Senior Fellow Brian Riedl (fiscal policy) produces budget and tax research consistently opposing progressive taxation and wealth taxes. Jessica Riedl's work on deficits frames social spending as the fiscal problem while rarely interrogating defense spending or tax cuts for the wealthy.
 
-**Energy / Climate:**
+### Energy / Climate:
 Robert Bryce (former Senior Fellow, $209,033 in FY2018) specialized in opposing renewable energy mandates and fracking regulation. MI published extensive research questioning clean energy policy timelines. DeSmog documents MI as a consistent producer of content favorable to fossil fuel industry interests.
 
 ---
 
 ### The Policy Pipeline
 
-**Pipeline 1 — Broken Windows to Mass Policing:**
+### Pipeline 1 — Broken Windows to Mass Policing:
 1982: Kelling/Wilson "Broken Windows" theory published (Atlantic Monthly; Kelling is MI Senior Fellow)
 1990: City Journal founded — provides ongoing platform for order-maintenance policing research
 1992: City Journal coverage catches Giuliani's attention as he prepares 1993 mayoral run; campaign consults City Journal editor Fred Siegel
@@ -96,7 +96,7 @@ Robert Bryce (former Senior Fellow, $209,033 in FY2018) specialized in opposing 
 2013: Floyd v. City of New York court ruling finds NYPD's stop-and-frisk practice unconstitutional — a direct descendant of Broken Windows applied at scale
 2020: Heather Mac Donald's MI platform makes her the leading intellectual voice against police reform after George Floyd's murder
 
-**Pipeline 2 — MI Research to State DEI Bans:**
+### Pipeline 2 — MI Research to State DEI Bans:
 2020: Rufo produces CRT Briefing Book for Trump executive order on diversity training (Sept. 2020)
 2021: Rufo joins MI; continues CRT campaign with institutional backing
 2022: Florida "Stop WOKE Act" — Rufo consulted on drafting; prohibits CRT instruction in schools and DEI training in workplaces
@@ -129,15 +129,15 @@ May 2025: Rufo appears on PBS NewsHour defending Trump's campaign to "end wokeis
 
 MI functions as a Republican policy staffing pipeline as much as a research institution. From ProPublica's Trump Town database (verified):
 
-**Into Trump Administration (First Term):**
+### Into Trump Administration (First Term):
 - **Diana Furchtgott-Roth** — MI Senior Fellow and Director of E21 → Deputy Assistant Secretary of Transportation (2017–2019). Managed MI's Washington office and Shadow Open Market Committee before moving to DOT.
 - **Paul I. Howard** — MI Director and Senior Fellow, Health Policy → Senior positions at HHS. Oversaw MI's health policy research before translating it directly into executive branch work.
 - **David Malpass** — MI Trustee → Under Secretary of the Treasury for International Affairs (Trump, 2017), then World Bank President (2019–2023). Malpass is a former Bear Stearns economist; his move from MI board to Treasury exemplifies the finance-to-government-to-international-institution pipeline.
 
-**Into Bush Administration:**
+### Into Bush Administration:
 - **David Frum** — MI fellow → Bush White House speechwriter. Frum coined "Axis of Evil" — the rhetorical framework that helped justify the Iraq War. MI provided the incubation space; the Bush administration deployed the product.
 
-**Board Members in Cabinet:**
+### Board Members in Cabinet:
 - **William Barr** — MI Trustee → Trump Attorney General (2019–2020, confirmed after initial nomination). Barr's Justice Department oversaw the federal response to 2020 protests — directly aligned with MI's Heather Mac Donald anti-reform framing.
 - **Betsy DeVos** — MI Trustee → Trump Secretary of Education (2017–2021). DeVos promoted school choice and charter school expansion — core MI policy positions.
 
@@ -150,22 +150,22 @@ MI functions as a Republican policy staffing pipeline as much as a research inst
 
 The return on investment for MI's core donor base is measurable across their key policy areas:
 
-**Hedge fund / finance capital:**
+### Hedge fund / finance capital:
 - Sustained intellectual opposition to wealth taxes, financial transaction taxes, and progressive income taxation
 - Broken Windows policing doctrine criminalized the disorder (homelessness, street vendors, minor violations) that reduced luxury real estate values — direct financial benefit to Manhattan property holders
 - Opposition to rent control protects unregulated rental income streams for real estate-adjacent investors
 - Anti-DEI campaign reduces compliance costs and legal exposure for financial firms with diversity programs under scrutiny
 
-**Koch network (libertarian deregulation):**
+### Koch network (libertarian deregulation):
 - Energy deregulation research (Bryce) aligned with Koch Industries' fossil fuel interests
 - Labor market deregulation research reduces union leverage
 - Opposition to government spending programs reduces tax obligations for high earners
 
-**Bradley Foundation (conservative governance):**
+### Bradley Foundation (conservative governance):
 - Education reform (school choice, charter schools) advances privatization of public education
 - Criminal justice research justifying mass incarceration and opposing reform maintained a status quo that depresses labor supply in ways that benefit certain industries
 
-**Structural return across donors:**
+### Structural return across donors:
 The Manhattan Institute converts donor money into intellectual legitimacy. The same positions that benefit the donor class arrive in public discourse as "evidence-based research" rather than funded advocacy. The laundering operation is the product.
 
 ---

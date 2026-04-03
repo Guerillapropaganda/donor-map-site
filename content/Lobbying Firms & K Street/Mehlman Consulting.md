@@ -91,7 +91,7 @@ Mehlman's client roster reads like a who's who of corporate America, with a conc
 
 Of 25 registered lobbyists, **16 are revolving door hires (64.0%)** — former government employees now lobbying. Zero are former members of Congress.
 
-**Key Revolving Door Hires:**
+### Key Revolving Door Hires:
 
 - **Bruce P. Mehlman** (Partner, founder) — Former Assistant Secretary of Commerce for Technology Policy under George W. Bush (confirmed by the Senate, 2001). Before Commerce, Mehlman was Cisco Systems' lead tech and telecom lobbyist. Before Cisco, he served as Policy Director and General Counsel to the House Republican Conference under Rep. J.C. Watts (R-OK) and General Counsel to the National Republican Congressional Committee (NRCC). This triple-layer revolving door — congressional staff to corporate lobbyist to executive branch to firm founder — represents one of the most complete career arcs in K Street.
 
@@ -118,7 +118,7 @@ Of 25 registered lobbyists, **16 are revolving door hires (64.0%)** — former g
 
 Mehlman Consulting's core product is positioning corporate clients to benefit from — or avoid damage in — the tech, health, and tax policy debates that dominate Washington.
 
-**Top Issues Lobbied (2025):**
+### Top Issues Lobbied (2025):
 
 | Issue Area | Reports | Lobbyists | Clients |
 |------------|---------|-----------|---------|
@@ -132,7 +132,7 @@ Mehlman Consulting's core product is positioning corporate clients to benefit fr
 | Environment & Superfund | 61 | 24 | 16 |
 | Energy & Nuclear Power | 57 | 24 | 17 |
 
-**Key Legislative Wins:**
+### Key Legislative Wins:
 
 The firm has been active in every major tech policy battle of the last decade:
 
@@ -147,12 +147,12 @@ The firm has been active in every major tech policy battle of the last decade:
 
 Mehlman's bipartisan model is structurally embedded in the partnership:
 
-**Republican Side:**
+### Republican Side:
 - Bruce Mehlman — Bush Commerce Department, House Republican Conference, NRCC
 - Dean Rosen — Senate Majority Leader Frist (R), Senate health committees
 - Sage Eastman — Ways and Means under Dave Camp (R-MI)
 
-**Democratic Side:**
+### Democratic Side:
 - David Thomas — Democratic partner
 - Paul Thornell — VP Al Gore's Legislative Affairs office, Citigroup
 - Nichole Distefano — Democratic partner

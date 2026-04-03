@@ -41,7 +41,7 @@ The Roosevelt Institute's core argument is that inequality is not a market failu
 
 Unlike RAND (government contracts) or Heritage (corporate mega-donors), the Roosevelt Institute is funded overwhelmingly by progressive foundations. 100% of its revenue comes from contributions (grants and donations) — zero program service revenue.
 
-**Key foundation funders:**
+### Key foundation funders:
 - **William and Flora Hewlett Foundation** — $1.29 million in 2020 alone (including $1M general operating support, $250K climate finance regulatory project)
 - **Ford Foundation** — major funder, supporting inequality and economic justice work
 - **MacArthur Foundation** — general support
@@ -52,7 +52,7 @@ Unlike RAND (government contracts) or Heritage (corporate mega-donors), the Roos
 
 **Democracy Alliance connection:** In 2015, the Democracy Alliance — the major progressive donor collaborative that coordinates giving among liberal mega-donors including George Soros, Tom Steyer, and others — added the Roosevelt Institute to its list of recommended funding targets. Wong's background at the Democracy Alliance before taking the Roosevelt helm makes this connection particularly direct. The Alliance's endorsement channels seven-figure donations from wealthy progressive donors into Roosevelt's operations.
 
-**Board composition (notable members):**
+### Board composition (notable members):
 - **Anne Roosevelt** (Chair) — FDR's great-granddaughter. The Roosevelt family name is the institution's primary brand asset.
 - **Randi Weingarten** (Board member, 2023 filing) — President of the American Federation of Teachers (AFT). Direct labor movement connection.
 - **Lisa Cook** (Vice Chair, 2022) — Michigan State economist who became a Biden appointee to the Federal Reserve Board of Governors in 2022. Revolving door from Roosevelt board to federal policymaking.
@@ -69,28 +69,28 @@ Unlike RAND (government contracts) or Heritage (corporate mega-donors), the Roos
 
 Roosevelt's output is concentrated in five policy areas, all framed through the "rewrite the rules" thesis:
 
-**1. Antitrust and competition policy**
+### 1. Antitrust and competition policy
 - "Rewriting the Rules of the American Economy" (2015, Stiglitz) — The foundational document arguing that rising inequality results from deliberate policy choices favoring corporate concentration
 - Anti-monopoly research providing intellectual framework for the "New Brandeis" school of antitrust enforcement adopted by FTC Chair Lina Khan
 - Competition policy analysis supporting Biden's July 2021 Executive Order on Promoting Competition in the American Economy
 
-**2. Industrial policy**
+### 2. Industrial policy
 - "Industrial Policy 2025: Bringing the State Back In" — Framework for active government role in shaping economic development
 - Analysis supporting the CHIPS Act, Inflation Reduction Act, and broader "Bidenomics" industrial strategy
 - Research on public investment, procurement, and government capacity
 
-**3. Labor and worker power**
+### 3. Labor and worker power
 - PRO Act advocacy research
 - Minimum wage analysis
 - Worker classification and gig economy research
 - NLRB strengthening proposals
 
-**4. Financial regulation**
+### 4. Financial regulation
 - Regulatory reform frameworks — Sabeel Rahman's "Rewiring Regulation" project directly influenced Biden OIRA approach
 - Wall Street accountability research
 - Consumer financial protection analysis
 
-**5. Climate and energy transition**
+### 5. Climate and energy transition
 - Climate finance regulatory project (Hewlett-funded)
 - Green industrial policy
 - Just transition frameworks
@@ -101,7 +101,7 @@ Roosevelt's output is concentrated in five policy areas, all framed through the 
 
 Roosevelt operates a distinctive pipeline: academic economics → policy paper → Biden administration appointment → executive order/rulemaking.
 
-**How Roosevelt research becomes policy:**
+### How Roosevelt research becomes policy:
 
 1. **Stiglitz and fellows develop framework** — Academic-grade economic research on inequality, market power, and structural reform
 2. **Reports published with policy recommendations** — "Rewriting the Rules" format: diagnosis + specific legislative/regulatory proposals
@@ -151,19 +151,19 @@ Roosevelt's revolving door runs primarily in one direction: from Roosevelt (and 
 
 ### What Their Funders Got
 
-**Progressive foundations got:**
+### Progressive foundations got:
 - Intellectual infrastructure for the most activist Democratic economic agenda since LBJ
 - "Rewriting the Rules" framework adopted as Biden economic policy blueprint
 - Personnel placed in key regulatory positions (OIRA, Fed, NEC)
 - Competition policy revival — FTC under Khan, DOJ antitrust under Kanter
 - Industrial policy legitimacy — CHIPS Act, IRA framed as public investment, not "big government spending"
 
-**Democracy Alliance donors got:**
+### Democracy Alliance donors got:
 - An organization that channels progressive economic discontent into institutional reform proposals rather than more radical structural demands
 - Tax and antitrust proposals that target corporate concentration but don't threaten the wealth structure that allows progressive mega-donors to exist
 - The credibility of a Nobel laureate (Stiglitz) backing policy positions that donors already preferred
 
-**Labor unions (AFT, Teamsters via board seats) got:**
+### Labor unions (AFT, Teamsters via board seats) got:
 - Research supporting PRO Act, minimum wage increases, NLRB strengthening
 - Academic legitimacy for labor's policy agenda
 - Access to the progressive policy network that shapes Democratic platforms

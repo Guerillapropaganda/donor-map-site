@@ -1,7 +1,7 @@
 ---
 title: "US Chamber of Commerce"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -80,7 +80,7 @@ The Chamber's legislative agenda is a comprehensive corporate wish list spanning
 
 The Chamber's independent expenditure campaigns have historically favored Republicans by approximately 90/10, though the organization has occasionally backed centrist Democrats in competitive races.
 
-**Key spending cycles:**
+### Key spending cycles:
 - **2010:** Massive outside spending following Citizens United; Senate races targeted
 - **2016:** "Exclusively supported Republican candidates" per OpenSecrets
 - **2018:** Targeted spending in Senate and House races

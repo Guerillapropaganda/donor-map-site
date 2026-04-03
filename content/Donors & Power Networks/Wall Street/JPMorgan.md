@@ -1,7 +1,7 @@
 ---
 title: "JPMorgan Chase"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -43,7 +43,7 @@ JPMorgan's political spending operates through its PAC, employee individual cont
 
 **2024 cycle total: $8,048,922** (ranked 114th of 40,455 tracked organizations by OpenSecrets)
 
-**2024 top recipients:**
+### 2024 top recipients:
 
 | Recipient | Amount | Party/Type | Notes |
 |-----------|--------|------------|-------|
@@ -61,7 +61,7 @@ JPMorgan's political spending operates through its PAC, employee individual cont
 > [!money]
 > JPMorgan gave $1 million to MAGA Inc and $723K to Kamala Harris in the same cycle. It gave to both Trump and Harris's presidential campaigns simultaneously. This is not hedging — it is the Both-Sides Illusion as a business model. JPMorgan's political contributions do not express policy preferences; they purchase access. The bank funds whoever might win, ensuring that the new administration's Treasury Secretary will take Jamie Dimon's calls. The strategy costs $8M annually and protects a $3.9 trillion institution with an implicit federal guarantee. The ROI is incalculable.
 
-**Lobbying spending:**
+### Lobbying spending:
 - 2024: $3,600,000 (ranked 177th of 9,200 lobbying organizations)
 - 2023: $3,310,000
 - 2010–2017 cumulative: $44.33 million
@@ -120,7 +120,7 @@ The Both-Sides Illusion is JPMorgan's signature move. By funding both parties an
 
 The "too big to fail" designation is the vault's clearest example of **Donor-Class Override**: an explicit government guarantee that socializes JPMorgan's downside risk while privatizing its profits, maintained through political spending that prevents the structural reform (Glass-Steagall restoration, forced breakup) that would eliminate it. Every administration, Democratic and Republican, has preserved this arrangement. Both parties have floated Dimon for Treasury Secretary. The guarantee is bipartisan because the political system that maintains it is bipartisan.
 
-**Analytical patterns present:**
+### Analytical patterns present:
 - **Both-Sides Illusion** — funds both parties and both presidential candidates simultaneously
 - **Revolving Door** — 70% of lobbyists from government; Daley from JPMorgan lobbying to Obama Chief of Staff
 - **Donor-Class Override** — "too big to fail" guarantee is a permanent taxpayer subsidy maintained through political spending

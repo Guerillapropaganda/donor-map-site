@@ -1,7 +1,7 @@
 ---
 title: "Defense Contractors Bloc"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -29,7 +29,7 @@ The industry does not primarily want policy wins on discrete issues — it wants
 
 ### Who They Fund
 
-**2024 Cycle — Top Contributors by Company**
+### 2024 Cycle — Top Contributors by Company
 
 | Rank | Company | Total | To Dems | To Repubs | Lean |
 |------|---------|-------|---------|-----------|------|
@@ -43,7 +43,7 @@ The industry does not primarily want policy wins on discrete issues — it wants
 
 The bipartisan split pattern is near-uniform: the three legacy primes (Lockheed, Northrop, RTX) lean Democrat; the more Trump-aligned tech/defense firms (General Atomics, L3Harris, Anduril) lean Republican. The industry funds both parties because it doesn't need to pick a winner — it needs the winner to believe defense spending is a civic obligation.
 
-**Top Congressional Recipients, 2024 Cycle**
+### Top Congressional Recipients, 2024 Cycle
 
 The top House recipients are uniformly members of the Armed Services Committee or the Defense Appropriations Subcommittee — the committees that write defense budgets and procurement rules:
 
@@ -53,7 +53,7 @@ The top House recipients are uniformly members of the Armed Services Committee o
 
 The investment is precise: funding flows to the members who write the authorization and appropriations bills, not to members who merely vote for them.
 
-**Think Tank Capture**
+### Think Tank Capture
 
 Defense contractors lavished $32 million on Washington D.C. think tanks between 2019 and 2023, according to the Think Tank Funding Tracker. The Atlantic Council received $2.53 million from Pentagon contractors in 2024 alone — RTX, Northrop Grumman, and Lockheed Martin each gave $100,000+. CSIS received $250,000+ donations from Lockheed Martin, Northrop Grumman, General Atomics, General Dynamics, and RTX individually. The Center for a New American Security (CNAS) received $6.6M from 2019-2023.
 
@@ -81,21 +81,21 @@ The result: every major DC think tank that produces defense policy analysis is f
 
 ### What They've Gotten
 
-**The Budget Floor**
+### The Budget Floor
 
 The NDAA has passed every single year without fail — the only major federal legislation with a perfect passage record. FY2024: $886B. FY2025: $895B. The Pentagon has failed its financial audit every year since audits began in 2018. Congress has responded by continuing to increase the budget. There is no other industry in which a company receiving $100+ billion in annual government contracts can fail five consecutive audits without losing a dollar of business.
 
-**The F-35: Cost Overrun as Business Model**
+### The F-35: Cost Overrun as Business Model
 
 The F-35 program is the clearest window into how the defense contracting system actually operates. The plane is now projected to cost $1.7 trillion over its lifetime — the most expensive weapons program in human history. It is 10 years late and 80% over its original budget. In 2024, Lockheed delivered 110 aircraft, all late by an average of 238 days. The Block 4 modernization upgrade faces an additional $1.2 billion in cost overruns. Despite all of this, the F-35 Joint Program Office paid Lockheed $1.7 billion by July 2025 without applying economic adjustments, despite the aircraft achieving only a 50% readiness rate.
 
 The F-35 has suppliers in 45 states. This is not a feature of the aircraft — it's a feature of the political strategy. Canceling or cutting the F-35 would threaten jobs in 45 states, making it impossible for any member of Congress to vote against it regardless of performance.
 
-**The $2.4 Trillion Tranche**
+### The $2.4 Trillion Tranche
 
 Between 2020 and 2024, Pentagon contractors received $2.4 trillion in contracts — 54% of total DOD spending of $4.4 trillion. The top five companies (Lockheed Martin, RTX, Northrop Grumman, Boeing, General Dynamics) captured the largest shares. Emerging tech firms (SpaceX, Palantir, Anduril) are entering the top tier as multi-year contracts begin to flow.
 
-**The Revolving Door Returns**
+### The Revolving Door Returns
 
 The Project on Government Oversight's "Brass Parachutes" report documented 645 instances of defense contractor hiring of former senior Pentagon officials in a single recent year. When 80% of retiring U.S. generals go on to work for defense contractors (Responsible Statecraft), the definition of "senior official" expands across every layer of the procurement process. The people who write weapons requirements become the employees of the companies that fulfill them. The companies that produce the weapons become the employers of the officials who will write the next cycle of requirements.
 

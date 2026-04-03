@@ -1,7 +1,7 @@
 ---
 title: "Carlyle Group"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -43,10 +43,10 @@ Carlyle's political priorities are inseparable from its business model — every
 
 Carlyle's contribution pattern is strategically bipartisan, with the partisan split shifting based on which party controls Congress and the White House:
 
-**2024 cycle — $3.9M total, 71% Democratic:**
+### 2024 cycle — $3.9M total, 71% Democratic:
 Top recipients include Senate Majority PAC ($675,815), National Democratic Redistricting Committee ($300,000), DCCC ($283,332), DNC ($200,868), House Majority PAC ($150,000), and DSCC ($141,551). Kamala Harris received $109,100. Kyrsten Sinema — the senator who personally killed carried interest reform in the Inflation Reduction Act — received $103,900. The NRCC received $82,062.
 
-**Historical partisan oscillation:**
+### Historical partisan oscillation:
 The contribution data tells the story of a firm that buys access regardless of party:
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
@@ -63,24 +63,24 @@ The contribution data tells the story of a firm that buys access regardless of p
 > [!money]
 > The pattern is unmistakable: Carlyle's partisan split tracks which party controls Congress, not ideology. When Republicans held Congress (2012-2016), 56-80% went to the GOP. When Democrats took control (2018-2024), 62-71% flipped to Democrats. This is not political conviction — it is access purchasing. Both parties receive enough money to ensure Carlyle's core interests (carried interest, defense spending, deregulation) are protected regardless of electoral outcome. The $103,900 to Sinema — the pivotal vote who killed carried interest reform — is the clearest single transaction in the dataset.
 
-**The Rubenstein model — philanthropy as political access:**
+### The Rubenstein model — philanthropy as political access:
 Co-founder David Rubenstein (net worth ~$3.7B) hosts bipartisan dinner salons for senators and representatives at the Library of Congress every few months, interviewing prominent historians. His "patriotic philanthropy" — $700M+ in lifetime donations to the Washington Monument, Monticello, the National Archives, the Smithsonian, the Kennedy Center, and the White House Historical Association — creates a network of goodwill and personal relationships with the political class that no lobbyist can replicate. ProPublica documented how Rubenstein deployed these relationships to help kill carried interest reform, describing a strategy that combined legitimate philanthropy with targeted political access.
 
 ---
 
 ### What They've Gotten
 
-**The carried interest loophole — 30+ years of protection:**
+### The carried interest loophole — 30+ years of protection:
 Despite bipartisan campaign rhetoric against carried interest since 2007, the loophole has survived every reform attempt. Obama pledged to close it; it survived. Trump's 2017 tax reform was supposed to address it; it survived with only a minor holding period extension. The Inflation Reduction Act of 2022 included carried interest reform until Kyrsten Sinema — a top Carlyle recipient — demanded its removal as the price of her vote. The 2025 Republican tax bill preserved it entirely. For Carlyle's partners, the loophole saves an estimated 17 percentage points on performance fees — translating to tens of millions per partner annually.
 
-**Defense portfolio returns:**
+### Defense portfolio returns:
 Carlyle's defense investment strategy has produced extraordinary returns by buying government contractors, expanding their contract base through political connections, then exiting at premium valuations:
 
 - **United Defense Industries:** Acquired 1997, IPO'd 2001 (during the post-9/11 defense spending surge), sold 2005 to BAE Systems. The Carlyle Group's defense investments benefited enormously from the Iraq and Afghanistan wars, during which defense spending doubled.
 - **Booz Allen Hamilton:** Acquired after 2008 split from Booz & Co., IPO'd 2010, Carlyle exited by 2016. During Carlyle's ownership, BAH expanded its intelligence community and cyber contracts significantly.
 - **ManTech International:** Acquired 2022 for $4.2B ($96/share, 32% premium). ManTech provides IT and cybersecurity services to the Army, intelligence agencies, and federal health agencies, including a $622M Army TITUS task order.
 
-**Regulatory environment:**
+### Regulatory environment:
 The SEC under both parties has largely declined to impose meaningful restrictions on private equity fund practices. PE firms continue to charge management fees, transaction fees, and monitoring fees that critics argue come at the expense of investors and portfolio company employees. Carlyle's lobbying operation — 25 lobbyists, 72% with government experience — ensures the firm has advance intelligence on any regulatory changes.
 
 ---
@@ -89,7 +89,7 @@ The SEC under both parties has largely declined to impose meaningful restriction
 
 No firm in American history has assembled a more impressive collection of former government officials. The revolving door is not an incidental feature of Carlyle's business — it is the business model. Former officials bring three assets: relationships with current decision-makers, insider knowledge of policy direction, and the implicit promise that current officials may follow the same path to private equity wealth.
 
-**Documented Carlyle advisors, executives, and senior staff with government backgrounds:**
+### Documented Carlyle advisors, executives, and senior staff with government backgrounds:
 
 - **George H.W. Bush** — 41st President of the United States. Senior advisor to Carlyle's Asia fund, 1998-2003. His involvement opened doors to sovereign wealth funds and heads of state across Asia and the Middle East.
 - **James Baker III** — Secretary of State and Secretary of the Treasury. Senior counselor to Carlyle. Baker's diplomatic relationships facilitated Carlyle's international deal pipeline.

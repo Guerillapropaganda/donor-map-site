@@ -35,7 +35,7 @@ Board chair Kenneth Apfel is a former Commissioner of the Social Security Admini
 
 CBPP's funding comes overwhelmingly from major progressive foundations, with a significant secondary stream from labor unions and dark money networks. Unlike conservative think tanks that rely heavily on individual mega-donors, CBPP's funding model is foundation-centric.
 
-**Major Foundation Funders:**
+### Major Foundation Funders:
 - Ford Foundation
 - Annie E. Casey Foundation
 - John D. and Catherine T. MacArthur Foundation
@@ -54,22 +54,22 @@ CBPP's funding comes overwhelmingly from major progressive foundations, with a s
 - Kresge Foundation
 - Conrad N. Hilton Foundation
 
-**Dark Money / Pass-Through Funders:**
+### Dark Money / Pass-Through Funders:
 - [[Democracy Alliance]] — CBPP attended the 2006 Democracy Alliance meeting alongside CAP and EPI to discuss progressive economic agendas
 - Hopewell Fund (Arabella Advisors network)
 - New Venture Fund (Arabella Advisors network)
 - Wellspring Philanthropic Fund
 
-**Labor Union Funders:**
+### Labor Union Funders:
 - [[AFL-CIO]]
 - Change to Win
 - Unite Here Local 25
 - National Education Association (NEA)
 
-**Cross-Think-Tank Funding:**
+### Cross-Think-Tank Funding:
 - [[Center for American Progress]] donated $613,750 to CBPP in 2022 — the same organization that regularly cites CBPP research in its own advocacy, creating a closed-loop citation-funding circuit.
 
-**Revenue Trajectory:**
+### Revenue Trajectory:
 | Fiscal Year | Revenue | Expenses | Total Assets |
 |-------------|---------|----------|--------------|
 | 2024 | $52.5M | $48.6M | — |
@@ -122,7 +122,7 @@ CBPP's influence operates through a distinct pipeline: CBPP produces analysis �
 
 CBPP has one of the most active revolving doors in the progressive think tank ecosystem, with staff cycling between the organization and Democratic administrations:
 
-**Sharon Parrott (President):**
+### Sharon Parrott (President):
 - CBPP welfare reform director (1993-2009)
 - HHS Counselor for Human Services Policy, Obama admin (2009-2012)
 - CBPP VP for budget policy (2012-2014)
@@ -131,13 +131,13 @@ CBPP has one of the most active revolving doors in the progressive think tank ec
 - CBPP President (2021-present)
 - *Three tours at CBPP, two in Democratic administrations — quintessential revolving door*
 
-**Stacy Dean:**
+### Stacy Dean:
 - CBPP senior policy analyst → VP for food assistance policy (1997-2021)
 - USDA Deputy Under Secretary for Food, Nutrition, and Consumer Services, Biden admin (2021-2022)
 - Nominated for USDA Under Secretary (2022)
 - *24 years producing SNAP research at CBPP, then appointed to run the federal SNAP program*
 
-**Aviva Aron-Dine:**
+### Aviva Aron-Dine:
 - CBPP researcher → VP for health policy
 - OMB associate director / acting deputy director, Obama admin
 - CBPP VP for health policy (between administrations)
@@ -145,14 +145,14 @@ CBPP has one of the most active revolving doors in the progressive think tank ec
 - Treasury acting assistant secretary for tax policy, Biden admin
 - *Now director of Hamilton Project at Brookings — the Goldman Sachs-funded policy shop*
 
-**Robert Greenstein (Founder):**
+### Robert Greenstein (Founder):
 - USDA Food and Nutrition Service Administrator, Carter admin
 - Founded CBPP (1981)
 - Clinton Bipartisan Commission on Entitlement and Tax Reform (1994)
 - Obama transition team, federal budget policy (2008)
 - *Founded the think tank after leaving government, then returned to advise multiple administrations*
 
-**Kenneth Apfel (Board Chair):**
+### Kenneth Apfel (Board Chair):
 - Social Security Administration Commissioner, Clinton admin
 - OMB Associate Director, Clinton admin
 - CBPP board chair
@@ -167,7 +167,7 @@ CBPP has one of the most active revolving doors in the progressive think tank ec
 
 CBPP's funders — major progressive foundations — are not seeking direct financial ROI like corporate donors. Their return is structural: the maintenance and expansion of the federal safety net, which aligns with foundation missions around poverty reduction, health equity, and social justice.
 
-**Specific Returns:**
+### Specific Returns:
 
 1. **Medicaid Expansion (2010-present):** CBPP's state-by-state technical assistance helped push 40 states to expand Medicaid under the ACA, covering 20+ million previously uninsured adults. The Robert Wood Johnson Foundation, which funds CBPP and has a mission centered on health equity, received direct mission-aligned returns.
 

@@ -45,7 +45,7 @@ Katzenberg's policy interests align precisely with the entertainment industry's 
 > [!money] Follow the Money
 > 809 FEC contributions (2010–2026), 100% Democratic. Personal Super PAC giving exceeds $3M to Priorities USA Action alone. Bundled an estimated $6.6M+ for Obama (with Andy Spahn). Single Clooney-hosted fundraiser in 2012 raised ~$15 million — a presidential fundraiser record at the time. Total estimated career bundling: $100M+ for Democratic candidates and committees.
 
-**Super PAC and major committee contributions (documented):**
+### Super PAC and major committee contributions (documented):
 
 | Recipient | Amount | Date | Significance |
 |-----------|--------|------|-------------|
@@ -60,7 +60,7 @@ Katzenberg's policy interests align precisely with the entertainment industry's 
 | DNC Services Corp | (multiple) | 2020–2024 | Party committee maximum contributions |
 | 50+ individual Democratic candidates | $3,300 each | 2024 cycle | Max contributions to competitive races |
 
-**Bundling operations (estimated from reporting):**
+### Bundling operations (estimated from reporting):
 - Obama 2008: Co-bundled $6.6M+ with Andy Spahn
 - Obama 2012: National co-chair; George Clooney fundraiser at Katzenberg's direction raised ~$15M in single event
 - Clinton 2016: Major bundler; $100K-per-person fundraiser at Beverly Hills home with Obama

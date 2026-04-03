@@ -1,7 +1,7 @@
 ---
 title: The FEC Complaints - PAC-to-LLC Transfer Controversy
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: "[[_Saikat Chakrabarti Master Profile]]"
@@ -47,7 +47,7 @@ The respondents' brief in FEC MUR 7592 offered several key defenses:
 > [!contradiction]
 > The FEC Commission voted **5-1 to close the file** with a **3-3 deadlock** on whether to find reason to believe violations had occurred. The deadlock prevented enforcement action despite General Counsel recommendation for finding violations.
 
-**Outcome:**
+### Outcome:
 - All respondents: "Dismissed-Other"
 - No fines imposed
 - No penalties assessed
@@ -62,18 +62,18 @@ Following the FEC dismissal, the National Legal and Policy Center filed suit on 
 
 Coverage varied significantly by outlet:
 
-**Critical framing:**
+### Critical framing:
 - Washington Examiner (March 4, 2019): Characterized transfers as a "$1M slush fund"
 - Fox News (March 4, 2019): Claimed "Illegally moved $885G"
 - Bloomberg (March 19, 2019): "Critics crying hypocrisy"
 - Heritage Foundation (March 12, 2019): Hans Von Spakovsky commentary suggesting investigation warranted
 - Capital Research Center (March 25, 2019): Framed as "Scam PAC"
 
-**Neutral/analytical coverage:**
+### Neutral/analytical coverage:
 - CNN (March 6, 2019): Featured Common Cause attorney Paul Ryan discussing weak disclosure requirements
 - Washington Post (March 5, 2019): Reported facts with reference to complaint
 
-**Unverified claims:**
+### Unverified claims:
 - NY Post (August 3, 2019): Reported "Feds probing" based on anonymous sources only — **no indictment was ever filed** against [[_Saikat Chakrabarti Master Profile|Chakrabarti]]
 
 ### Related Disclosure Issue

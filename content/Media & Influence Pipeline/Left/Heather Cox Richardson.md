@@ -1,7 +1,7 @@
 ---
 title: "Heather Cox Richardson"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 3
 parent: null

@@ -31,7 +31,7 @@ parent: null
 
 **Analytical patterns:** Self-Funding as Independence (inverted — self-funding as self-dealing), Donor-Class Override, Two-Audience Problem (Republicans claim pro-innovation while blocking ethics provisions)
 
-**Sources:**
+### Sources:
 - [CNBC: Trump sides with crypto firms in battle with banks over stablecoin yield](https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html) (Tier 2) (Chrome verified)
 - [Sen. Jack Reed: Reed Denounces Trump's Meme Coin Corruption Scheme](https://www.reed.senate.gov/news/releases/reed-denounces-trumps-meme-coin-corruption-scheme-and-backs-ban-on-presidents-lawmakers-and-their-families-from-issuing-digital-assets) (Tier 1 — official Senate press release) (Chrome verified)
 - [The Block: Crypto bill's 2026 fate hinges on Trump and stablecoin yields](https://www.theblock.co/post/389633/clock-is-ticking-crypto-bills-2026-fate-hinges-on-trump-stablecoin-yields) (Tier 2) (UNVERIFIED — site blocked by safety filter)
@@ -50,7 +50,7 @@ parent: null
 
 **Analytical patterns:** Donor-Class Override, Revolving Door (Cornerstone as intermediary), Genuine Win + Structural Limit (buyback restrictions exist while earmarks flow freely), Villain Framing (constituent service framing masks corporate subsidy)
 
-**Sources:**
+### Sources:
 - [Responsible Statecraft: Despite ban, pernicious military 'earmarks' are back in the billions](https://responsiblestatecraft.org/backdoor-earmarks-pentagon/) (Tier 2) (Chrome verified)
 - [Sen. Katie Britt: Advances Key Funding for Alabama in FY2026 Defense Bill](https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-advances-key-funding-for-alabama-in-senate-appropriations-committees-fiscal-year-2026-defense-bill/) (Tier 1 — official Senate press release) (Chrome verified)
 - [Federal News Network: Lawmakers press Pentagon on Trump order targeting underperforming contractors](https://federalnewsnetwork.com/congress/2026/03/lawmakers-press-pentagon-on-trump-order-targeting-underperforming-contractors/) (Tier 2) (Chrome verified)
@@ -69,7 +69,7 @@ parent: null
 
 **Analytical patterns:** Revolving Door (Ballard as fundraiser-lobbyist), Donor-Class Override (lobbying as policy purchase), Both-Sides Illusion (clean energy and fossil fuel industries both lobby the same Congress)
 
-**Sources:**
+### Sources:
 - [OpenSecrets: Lobbying firms took in a record $5 billion in 2025](https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/) (Tier 1) (Chrome verified)
 - [OpenSecrets: Trends in Spending](https://www.opensecrets.org/federal-lobbying/trends-in-spending) (Tier 1) (Chrome verified — standard OpenSecrets data page)
 
@@ -87,7 +87,7 @@ parent: null
 
 **Analytical patterns:** Dark Money Symmetry, Two-Audience Problem, Villain Framing (blaming "innovation risk" to deflect from price gouging)
 
-**Sources:**
+### Sources:
 - [Public Citizen: Patient Groups, Big Pharma and Medicare Price Negotiation](https://www.citizen.org/article/patient-groups-big-pharma-medicare-price-negotiation-2026/) (Tier 2) (Chrome verified)
 - [The Lever: Big Pharma's Dark Money Scores $8 Billion Bonanza](https://www.levernews.com/big-pharmas-dark-money-scores-8-billion-bonanza/) (Tier 2) (Chrome verified)
 - [Pennsylvania Independent: Big Pharma pushes repeal of drug price negotiation](https://pennsylvaniaindependent.com/economy/drug-costs-prices-big-pharma-negotation-medicare-inflation-reduction-act-republicans/) (Tier 2) (Chrome verified)
@@ -106,7 +106,7 @@ parent: null
 
 **Analytical patterns:** Donor-Class Override, Villain Framing (carbon capture as green cover for oil subsidies), Genuine Win + Structural Limit (the original IRA clean energy provisions are being clawed back and repurposed)
 
-**Sources:**
+### Sources:
 - [Yale E360: U.S. Spending Bill to Grant $40 Billion in Fossil Fuel Subsidies](https://e360.yale.edu/digest/republican-spending-bill-fossil-fuel-subsidies) (Tier 2) (Chrome verified — Yale E360 is a reliable environmental journalism source)
 - [Grist: US taxpayers will pay billions in new fossil fuel subsidies thanks to the Big Beautiful Bill](https://grist.org/politics/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/) (Tier 2) (Chrome verified)
 - [EPI: Trump is enabling Musk and DOGE to flout conflicts of interest](https://www.epi.org/publication/trump-is-enabling-musk-and-doge-to-flout-conflicts-of-interest-what-is-the-potential-cost-to-u-s-families/) (Tier 2) (Chrome verified)

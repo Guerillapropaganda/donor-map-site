@@ -33,7 +33,7 @@ TYT's revenue has three primary streams: subscription revenue (~50% of total), Y
 
 **YouTube ad revenue:** The flagship channel's scale (13M+ subscribers, 8B+ views lifetime) generates substantial YouTube advertising revenue. Exact figures are not publicly disclosed; TYT is privately held.
 
-**Venture capital (2014 and 2017 rounds):**
+### Venture capital (2014 and 2017 rounds):
 - 2014: $4M from Roemer, Robinson, Melville & Co. (RRM), a private equity fund led by former Republican Louisiana Governor Buddy Roemer. The deal included an advisory board seat for Roemer's firm and an option to increase to $8M.
 - 2017: $20M round led by 3L Capital, with participation from WndrCo (Jeffrey Katzenberg), Greycroft, and e.ventures. Katzenberg's WndrCo took an equity stake. Board member Kenan Turnacioglu (Pointstate Capital) joined as part of the restructuring.
 
@@ -71,16 +71,16 @@ Uygur's personal net worth is estimated at $5–10M across celebrity net worth t
 
 ### Who Funds Them
 
-**Buddy Roemer (RRM Private Equity) — $4M (2014)**
+### Buddy Roemer (RRM Private Equity) — $4M (2014)
 Roemer was Republican governor of Louisiana (1988–1992) and ran for the Republican and Reform Party presidential nominations in 2012. His investment in TYT was framed around shared campaign finance reform values — but private equity money is private equity money regardless of framing. Roemer's firm received an advisory board seat and an option to double the investment. A Republican PE fund had governance rights over a progressive media network from 2014 onward.
 
-**Jeffrey Katzenberg (WndrCo) — part of $20M round (2017)**
+### Jeffrey Katzenberg (WndrCo) — part of $20M round (2017)
 Katzenberg is the former chairman of Walt Disney Studios and co-founder of DreamWorks. He is among the most prolific Democratic mega-donors in Hollywood history — major bundler for Obama, Biden, and the Democratic Party broadly. His mobile-entertainment holding company WndrCo took an equity stake in TYT as part of the $20M round. Katzenberg's investment brought TYT into the same donor-class orbit as the mainstream Democratic politicians TYT covered.
 
-**3L Capital — led $20M round (2017)**
+### 3L Capital — led $20M round (2017)
 Growth equity firm that led the 2017 round. Provides institutional investor oversight alongside Katzenberg.
 
-**Greycroft — participated in $20M round (2017)**
+### Greycroft — participated in $20M round (2017)
 Venture capital fund. Part of the institutional investor stack that now holds equity in TYT.
 
 > [!money]

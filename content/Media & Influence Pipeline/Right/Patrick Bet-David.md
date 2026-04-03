@@ -21,7 +21,7 @@ Patrick Bet-David (born October 18, 1978, Tehran, Iran) is an Iranian-born Ameri
 
 Bet-David founded PHP Agency in 2009, a multi-level marketing company selling life insurance and financial services. PHP was acquired by Integrity Marketing Group in July 2022 (Houlihan Lokey advised), with Bet-David becoming a Managing Partner at Integrity. He launched the Valuetainment YouTube channel in November 2012, which grew into a media company headquartered in Fort Lauderdale, Florida. The PBD Podcast, launched in 2020, expanded Valuetainment into political commentary.
 
-**Platform reach (as of early 2026):**
+### Platform reach (as of early 2026):
 - Valuetainment YouTube: 6.39M subscribers
 - PBD Podcast YouTube: 2.91M subscribers, ~806M+ views, 4,800+ episodes
 - Her Take (launched May 2025): weekly Friday show featuring Ana Kasparian, Jillian Michaels, Amy Dangerfield, Lindy Li
@@ -75,16 +75,16 @@ The critical structural point: **Bet-David's media company is funded by an MLM.*
 
 Unlike most media personalities in this pipeline, Bet-David is primarily **self-funded through MLM-derived wealth**. This creates a unique funding architecture:
 
-**Primary capital source: PHP Agency → Integrity Marketing Group**
+### Primary capital source: PHP Agency → Integrity Marketing Group
 PHP Agency (founded 2009) was a multi-level marketing insurance company with thousands of agents. The company was acquired by Integrity Marketing Group in July 2022. Bet-David became a Managing Partner at Integrity. The acquisition converted his MLM equity into institutional insurance industry wealth. PHP was advised by Houlihan Lokey in the transaction.
 
-**YouTube/platform ad revenue**
+### YouTube/platform ad revenue
 Google/YouTube is the primary ad-revenue platform. Valuetainment's 6.39M subscribers and PBD Podcast's 2.91M subscribers generate substantial ad income across 4,800+ videos. YouTube's algorithm incentivizes engagement-maximizing content — controversial guests, political debates, and culture war topics drive views.
 
-**Sponsor ecosystem**
+### Sponsor ecosystem
 Standard podcast/YouTube sponsorship model. Her Take launch PR (May 2025) mentioned gold/precious metals advertisers (American Hartford Gold, Priority Gold, Thor Metals Group) — the same advertiser class that dominates right-wing media.
 
-**Convention/events revenue**
+### Convention/events revenue
 The Vault Conference (annual, West Palm Beach) charges premium tickets for multi-day events featuring celebrity speakers (Dwayne Johnson, Nick Saban reported as past speakers). This is a direct monetization of the Valuetainment audience.
 
 **No known VC, dark money, or institutional media backing.** Unlike Bari Weiss (Andreessen/Sacks), Cenk Uygur (Katzenberg), or Daily Wire (Wilks Brothers), Valuetainment has not taken outside investment from identifiable political donors. This is the basis of PBD's independence narrative — but the independence is funded by an MLM that extracted from its own agent base.

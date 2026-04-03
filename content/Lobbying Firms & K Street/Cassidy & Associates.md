@@ -87,7 +87,7 @@ Cassidy's 2025 client roster of 188 entities spans defense, energy, education, m
 
 Of 34 registered lobbyists, **24 are revolving door hires (70.6%)** — former government employees now lobbying the institutions they once served. Zero are former members of Congress, meaning Cassidy's revolving door runs through staff and agency positions rather than the elected officials themselves.
 
-**Key Revolving Door Hires:**
+### Key Revolving Door Hires:
 
 - **Kai Anderson** (CEO) — Former deputy chief of staff to Senate Majority Leader Harry Reid (D-NV). Anderson's Reid connection provides direct access to Senate Democratic leadership and the Nevada political establishment. His client list includes multiple Nevada-connected entities: MGM Resorts, Las Vegas Valley Water District, Southern Nevada Water Authority, State of Nevada, Switch LTD.
 
@@ -116,7 +116,7 @@ Of 34 registered lobbyists, **24 are revolving door hires (70.6%)** — former g
 
 The Trump administration's 2025 funding threats against major research universities — particularly Ivy League and elite institutions — created a surge in academic lobbying demand that played directly into Cassidy's core competency. The firm's founding product was university appropriations navigation; in 2025, that product became university survival navigation.
 
-**University of Pennsylvania — The Cassidy Response:**
+### University of Pennsylvania — The Cassidy Response:
 
 Penn faced a multi-front funding assault from the Trump administration in 2025: a threatened $175 million suspension of federal contracts (citing a transgender athlete on the women's swimming team in 2022), plus projected cuts to NIH research funding that could affect over $1 billion in Penn's annual federal funding. Penn's response was to dramatically ramp up lobbying — both internal staff and external firms.
 
@@ -127,7 +127,7 @@ The pattern reveals Cassidy's strategic positioning: when universities face exis
 > [!money]
 > Penn paid Cassidy $80K/quarter while simultaneously paying BGR Group (another Cassidy cohort firm) and Mehlman Consulting. Three major K Street firms lobbying simultaneously for a single university's funding survival tells the story of what happens when the Trump administration threatens $1 billion+ in annual federal funding. Cassidy's institutional knowledge of the appropriations process — built over 48 years — makes it uniquely positioned for crisis lobbying on exactly this kind of threat.
 
-**Big Ten Conference — The College Sports Antitrust Fight (2025):**
+### Big Ten Conference — The College Sports Antitrust Fight (2025):
 
 Cassidy's representation of the Big Ten Conference ($360,000/year) positions the firm at the center of one of 2025's largest lobbying battles: the fight over whether Congress will codify the House v. NCAA antitrust settlement and grant college sports governing bodies an antitrust exemption.
 
@@ -142,13 +142,13 @@ The Big Ten — the richest conference in college sports, with a $7+ billion med
 
 Cassidy & Associates invented a specific product: converting lobbying fees into congressionally directed spending. The firm's core competency is appropriations — steering federal dollars to specific clients through the budget process.
 
-**The Earmark Machine (1977–2011):**
+### The Earmark Machine (1977–2011):
 The firm's foundational innovation was the university earmark. In 1977, Tufts University President Jean Mayer retained the newly formed Schlossberg-Cassidy to lobby for a human nutrition research center. The result was a $27 million earmark — one of the first modern congressionally directed spending items. This model was replicated for Boston University and dozens of other institutions, with clients routinely obtaining $10-20 million or more per earmark. Over three decades, Cassidy essentially created the market for academic earmark lobbying.
 
-**Post-Earmark Reinvention (2011–present):**
+### Post-Earmark Reinvention (2011–present):
 When Congress imposed an earmark moratorium in 2011, Cassidy's revenue cratered and the firm laid off nearly 20% of staff in December 2010. The firm pivoted to defense authorization, energy policy, and regulatory lobbying. The earmark moratorium was partially lifted in 2021 (rebranded as "Community Project Funding" and "Congressionally Directed Spending"), and Cassidy's revenue has climbed back — from roughly $12.85 million in 2015 to $30.58 million in 2025.
 
-**Top Issues Lobbied (2025):**
+### Top Issues Lobbied (2025):
 
 | Issue Area | Reports | Lobbyists | Clients |
 |------------|---------|-----------|---------|
@@ -160,7 +160,7 @@ When Congress imposed an earmark moratorium in 2011, Cassidy's revenue cratered 
 | Environment & Superfund | 86 | 21 | 26 |
 | Taxes | 77 | 20 | 22 |
 
-**Foreign Government Clients:**
+### Foreign Government Clients:
 Cassidy has a documented history of representing authoritarian governments. In 2004, the firm began representing Equatorial Guinea's President Teodoro Obiang — described as one of Africa's most notorious dictators — at a reported rate of $120,000 per month. In 2017, the firm was hired by Egyptian intelligence services, a government accused of widespread human rights violations. The firm's parent company Weber Shandwick dropped the Egypt account in July 2017, but Cassidy maintained it.
 
 ---

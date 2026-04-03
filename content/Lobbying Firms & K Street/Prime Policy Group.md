@@ -79,7 +79,7 @@ Prime's 2025 client roster of 25 entities is modest compared to the mega-firms i
 
 Of 16 registered lobbyists, **9 are revolving door hires (56.3%)** — former government employees now lobbying. One is a former member of Congress (Tom Reed, R-NY), though OpenSecrets does not flag him in its former-member database.
 
-**Key Revolving Door Hires:**
+### Key Revolving Door Hires:
 
 - **Charlie Black** (Founding Chairman) — The firm's foundational revolving door asset. Black served as Policy Director and General Counsel to the House Republican Conference, then co-founded Black, Manafort, Stone and Kelly in 1980 while simultaneously serving as senior advisor to the Reagan, George H.W. Bush, and George W. Bush presidential campaigns. Served as senior political advisor and strategist to Senator John McCain's 2008 presidential campaign. His revolving door operates at the presidential campaign level — he didn't just lobby Congress, he helped select the presidents who appointed the regulators his clients needed to influence. Inducted into the Hall of Fame of the American Association of Political Consultants in 2010. Received the Bryce Harlow Foundation Business-Government Award in 2013. Currently serves on the boards of the Fund for American Studies and No Labels.
 
@@ -108,7 +108,7 @@ Of 16 registered lobbyists, **9 are revolving door hires (56.3%)** — former go
 
 Prime Policy Group's core product is bipartisan legislative strategy — helping corporate clients navigate tax, trade, appropriations, and regulatory issues through relationships on both sides of the aisle.
 
-**Top Issues Lobbied (2025):**
+### Top Issues Lobbied (2025):
 
 | Issue Area | Reports | Lobbyists | Clients |
 |------------|---------|-----------|---------|
@@ -122,7 +122,7 @@ Prime Policy Group's core product is bipartisan legislative strategy — helping
 | Transportation | 8 | 10 | 2 |
 | Energy & Nuclear Power | 6 | 4 | 3 |
 
-**The BMSK Legacy — Foreign Dictator Lobbying (1980-1996):**
+### The BMSK Legacy — Foreign Dictator Lobbying (1980-1996):
 
 The firm's predecessor, Black, Manafort, Stone and Kelly, pioneered the business model of representing authoritarian foreign governments in Washington. BMSK's foreign client list included:
 
@@ -135,7 +135,7 @@ The firm's predecessor, Black, Manafort, Stone and Kelly, pioneered the business
 
 Black has defended this work by saying the firm "ran every potential foreign client by the State Department and/or the White House" and only took clients whose representation aligned with US foreign policy goals. The firm resigned the Marcos account the same day the White House withdrew support.
 
-**Current Legislative Focus:**
+### Current Legislative Focus:
 
 Tom Reed's Ways and Means background drives the tax practice (32 reports, top issue area). The trade practice (23 reports) reflects both Reed's committee jurisdiction and the firm's historical strength in international affairs. Bailey's Transportation and Infrastructure Committee experience feeds the transportation lobbying (8 reports covering transit, aviation, and school transportation clients).
 
@@ -145,12 +145,12 @@ Tom Reed's Ways and Means background drives the tax practice (32 reports, top is
 
 Prime Policy Group's bipartisan model is structural, inherited from both predecessor firms:
 
-**Republican Side:**
+### Republican Side:
 - Charlie Black (Founding Chairman) — Reagan/Bush campaigns, House Republican Conference, BMSK founder
 - Rich Meade (Chairman) — House Budget Committee under Jim Nussle (R-IA), Bush 2004 campaign
 - Tom Reed (Vice Chairman) — Former Republican congressman (R-NY-23), Ways and Means
 
-**Democratic Side:**
+### Democratic Side:
 - Stefan Bailey (CEO) — Senator Evan Bayh (D-IN), Reps. Baron Hill and Nick Rahall (D)
 - Irving Daniels (Managing Director) — Reps. Charlie Rangel and Floyd Flake (D-NY), Dodd-Frank
 - Marty Paone (Senior Advisor) — Senate Majority Secretary (D), Obama White House

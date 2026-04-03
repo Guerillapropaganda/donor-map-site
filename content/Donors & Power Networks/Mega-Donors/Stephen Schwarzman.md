@@ -1,7 +1,7 @@
 ---
 title: "Stephen Schwarzman"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -45,7 +45,7 @@ Schwarzman is one of the top 15 individual political donors in the United States
 | Tell It Like It Is PAC | $2,000,000 | Republican messaging |
 | Trump 47 Committee | $419,600 | Trump reelection |
 
-**Total direct 2024 cycle: $40M (personal contributions)**
+### Total direct 2024 cycle: $40M (personal contributions)
 
 **Total Blackstone-affiliated 2024: $48.6M** (includes Schwarzman personal, Blackstone PAC, and employee bundling)
 

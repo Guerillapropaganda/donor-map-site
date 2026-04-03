@@ -17,7 +17,7 @@ related: [[Peter Thiel]] · [[Palmer Luckey]] · [[Founders Fund]]
 
 Anduril Industries is a private AI-driven defense contractor founded in 2017 by Palmer Luckey (Oculus VR creator), Brian Schimpf (CEO), and Trae Stephens (Founders Fund partner). Headquartered in Costa Mesa, California. Approximately 7,000 employees. The company builds AI-powered autonomous defense systems including drones, sensors, underwater vehicles, and surveillance towers, all integrated through its Lattice OS software platform. Anduril has positioned itself as a Silicon Valley alternative to traditional defense contractors (Lockheed Martin, Raytheon, etc.), promising faster innovation cycles and software-first weapons development.
 
-**Valuation trajectory:**
+### Valuation trajectory:
 - Series G (June 2025): $30.5B valuation, $2.5B raised (led by Founders Fund at $1B)
 - Pursuing additional $4B round at ~$60B valuation (March 2026)
 - Total raised: $6B+
@@ -35,25 +35,25 @@ Anduril wants to disrupt the traditional defense procurement model — replacing
 > [!money] Follow the Money
 > Anduril's political influence operates primarily through its founder Palmer Luckey rather than through a corporate PAC. Luckey is a major Republican donor and Trump supporter who has hosted events at Mar-a-Lago and suggested renaming the Department of Defense to the "Department of War."
 
-**Corporate lobbying:**
+### Corporate lobbying:
 - 2022: $940K
 - Cumulative 2018–2025: ~$1.3M
 - Focus areas: DHS appropriations, border technology, defense procurement reform
 
-**Palmer Luckey political activity:**
+### Palmer Luckey political activity:
 - Major Republican donor
 - Trump supporter with personal relationship
 - Mar-a-Lago event host
 - Direct access to Trump administration decision-makers
 
-**Key contracts:**
+### Key contracts:
 - $20B Army enterprise contract (March 2026) — one of the largest defense deals ever awarded to a non-traditional contractor
 - $1B SOCOM counter-drone contract
 - $967M Air Force ABMS contract
 
 **Co-founder Trae Stephens:** Partner at Founders Fund (Peter Thiel's VC firm), connecting Anduril to the Thiel political network.
 
-**Capital expenditures:**
+### Capital expenditures:
 - $900M+ on Ohio Arsenal-1 factory for autonomous weapons manufacturing
 
 ---

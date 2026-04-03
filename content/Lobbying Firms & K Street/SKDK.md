@@ -124,7 +124,7 @@ Isay brought the New York political machine connections — Schumer, Bloomberg, 
 
 SKDK doesn't deliver specific legislative provisions the way registered lobbying firms do. It delivers something more valuable and less traceable: **narrative control**. SKDK shapes how policy fights are framed, which arguments reach policymakers, and which corporate interests are perceived as aligned with Democratic values.
 
-**Documented outcomes:**
+### Documented outcomes:
 
 1. **Food industry vs. Michelle Obama (2010):** SKDK helped General Mills, Kellogg, and Pepsi defeat proposed guidelines to limit marketing unhealthy foods to children — developed by the Obama administration that SKDK's own principals had helped elect.
 

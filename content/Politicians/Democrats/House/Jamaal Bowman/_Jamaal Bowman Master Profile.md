@@ -49,7 +49,7 @@ The Bowman case pairs with the Omar case in the vault's donor-class map: both sh
 
 ### FEC Financial Summary (API-Sourced)
 
-**Bowman for Congress (C00709196) — 2023-2024 Cycle:**
+### Bowman for Congress (C00709196) — 2023-2024 Cycle:
 
 | Category | Amount |
 |----------|--------|
@@ -97,7 +97,7 @@ The 2024 Bowman-Latimer primary was the most expensive House primary in American
 
 FEC processed filings document 65 independent expenditure transactions opposing Bowman across his career. The 2024 cycle accounts for the overwhelming majority.
 
-**2024 cycle — Opposition spending by super PAC (FEC processed filings):**
+### 2024 cycle — Opposition spending by super PAC (FEC processed filings):
 
 | Spender | Primary Spending Category | Estimated Total | Payees |
 |---------|--------------------------|----------------|--------|
@@ -105,7 +105,7 @@ FEC processed filings document 65 independent expenditure transactions opposing 
 | FAIRSHAKE (crypto super PAC) | Media buy, production | $2,078,023 | Targeted Platform Media, Dockside Strategies |
 | DMFI PAC (Democratic Majority for Israel) | Direct mail, digital advertising | ~$95,247 | Threshold Group, SKDKnickerbocker |
 
-**2020 cycle — Opposition spending (Bowman vs. Engel):**
+### 2020 cycle — Opposition spending (Bowman vs. Engel):
 
 | Spender | Spending Category | Total | Payees |
 |---------|-------------------|-------|--------|
@@ -194,7 +194,7 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 | FAIRSHAKE / crypto industry (opposition) | Crypto exchanges, VCs | Bowman's removal as crypto regulation vote | Latimer votes for FIT21 post-election |
 | Palestinian rights / anti-war funders | Muslim American advocacy groups | Palestinian rights advocacy | Consistent advocacy, no legislative wins |
 
-**Fundraising profile (2024 cycle — FEC verified):**
+### Fundraising profile (2024 cycle — FEC verified):
 - Bowman raised $6,052,175 in total receipts — strong for any House incumbent
 - Individual contributions: $5,451,971 (90% of total) — small-dollar grassroots base ($1.63M unitemized, 27% of individual contributions)
 - Other committee contributions: $295,119 — limited PAC dependence

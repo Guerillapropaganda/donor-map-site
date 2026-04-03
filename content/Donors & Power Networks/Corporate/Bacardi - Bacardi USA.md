@@ -1,7 +1,7 @@
 ---
 title: "Bacardi - Bacardi USA"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
@@ -89,19 +89,19 @@ The political contributions ($39,000 PAC annually, $550,000 in lobbying) are inv
 
 ### Sources
 
-**Tier 1 (Primary Data)**
+### Tier 1 (Primary Data)
 - OpenSecrets Bacardi USA PAC (C00160838) 2024 recipient data: https://www.opensecrets.org/political-action-committees-pacs/bacardi-usa/C00160838/candidate-recipients/2024
 - OpenSecrets Bacardi lobbying expenditure history: https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000042218
 - OpenSecrets Bacardi lobbyist registry 2023: https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2023&id=D000042218
 
-**Tier 2 (Secondary Analysis)**
+### Tier 2 (Secondary Analysis)
 - Progreso Weekly: "The True Origin of the Helms-Burton Act" (CPI documentation of 1998 Section 211 insertion): https://progresoweekly.us/the-true-origin-of-the-helms-burton-act/
 - Council on Hemispheric Affairs: "Otto Reich: A Career in Disservice" (biographical analysis): https://coha.org/otto-reich-a-career-in-disservice/
 - Latin American Studies Association (CRP data): "Exile Lawmakers and Bacardi Contributions": https://latinamericanstudies.org/us-cuba/exile-lawmakers.htm
 - Miami New Times: "Inside the Campaign to Crush Investment in Cuba Under Helms-Burton Act" (Title III activation documentation): https://www.miaminewtimes.com/uncategorized/inside-the-campaign-to-crush-investment-in-cuba-under-helms-burton-act-17727091/
 - Reuters: "Biden Signs US Law Barring Stolen Cuba-Owned Trademarks" (No Stolen Trademarks Act): https://www.reuters.com/legal/government/biden-signs-us-law-barring-stolen-cuba-owned-trademarks-2024-12-03/
 
-**Tier 3 (Industry/Tertiary)**
+### Tier 3 (Industry/Tertiary)
 - Deutsche Welle: "US Law Ends Havana Club Trademark Battle Between Cuba and Bacardi": https://www.dw.com/en/us-law-ends-havana-club-trademark-battle-between-cuba-and-bacardi/a-71097201
 - The Drinks Business: "The Havana Club Dispute Rumbles On": https://www.thedrinksbusiness.com/2024/06/the-havana-club-dispute-rumbles-on/
 

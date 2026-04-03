@@ -44,13 +44,13 @@ Ocean Conservancy's formal policy agenda:
 
 Ocean Conservancy sits at the intersection of two funding streams: the elite liberal foundation network that drives mainstream environmentalism, and the corporate partnership model that constrains it.
 
-**Foundation funders (major):**
+### Foundation funders (major):
 - David and Lucile Packard Foundation — multiple grants documented, including three grants in 2022 alone (grant nos. 2022-73557, 2022-73329, 2022-73330). Packard has pledged $480M to ocean conservation over the long term; OC is a primary grantee.
 - Gordon and Betty Moore Foundation — top-10 funder in marine area-based conservation globally (2010–2022).
 - Bloomberg Philanthropies — committed $375M+ to ocean conservation since 2014. OC participates in Bloomberg's ocean initiative ecosystem.
 - Bezos Earth Fund — pledged $100M+ for Pacific coastal ecosystems; OC positioned as a grantee in this emerging funding stream.
 
-**Corporate partners (key):**
+### Corporate partners (key):
 - The Coca-Cola Company — partner in the "Closed Loop Ocean" initiative (launched 2017, Our Ocean conference). The world's largest single-use plastic polluter funds Ocean Conservancy's plastic cleanup programming.
 - Dow Chemical — co-sponsor of the 2015 "Stemming the Tide" report; sits on Ocean Conservancy's Trash Free Seas Alliance steering committee; backed Closed Loop Ocean.
 - American Chemistry Council (ACC) — plastics industry trade group; sat on the steering committee of the "Stemming the Tide" report that the ACC praised on release and that OC later retracted.
@@ -79,12 +79,12 @@ Ocean Conservancy sits at the intersection of two funding streams: the elite lib
 
 Ocean Conservancy's advocacy has produced real policy wins — but constrained by the corporate-capture pattern built into its funding model:
 
-**Legislative wins:**
+### Legislative wins:
 - Marine debris provisions in the Bipartisan Infrastructure Law (2021) — OC lobbying contributed to these provisions; OC directly received $5.2M in NOAA grants under BIL funding.
 - IRA NOAA Fisheries climate investment (~$1.2B) — OC advocacy supported IRA fisheries implementation; climate-ready fisheries is OC's core programmatic focus.
 - Biden 30x30 executive actions — OC supported the 30x30 marine protection framework throughout Biden's term.
 
-**What didn't happen:**
+### What didn't happen:
 - The UN Global Plastics Treaty (INC-5, Busan, November 2024) stalled without a framework agreement. Fossil fuel and petrochemical industry lobbyists — including companies that are OC's own partners — deployed 200+ lobbyists to dominate the negotiations. OC's more progressive treaty positions were structurally undermined by the same corporate interests funding its programs.
 - Production-side plastic regulation in the U.S. has not advanced. OC's Trash Free Seas framework remains focused on waste management and cleanup rather than production limits — the exact advocacy scope its corporate partners require.
 

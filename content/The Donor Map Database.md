@@ -68,7 +68,7 @@ Behind the blockade, three donor pipelines converge: the sugar oligarchy gets pe
 
 This is not diplomacy. This is economic warfare with a donor-class return on investment — documented in real time, with receipts.
 
-**[[Operation Southern Spear and the Cuba Fuel Blockade|Read the full investigation →]]**
+### [[Operation Southern Spear and the Cuba Fuel Blockade|Read the full investigation →]]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "ExxonMobil"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -28,7 +28,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 **Core objective:** Sustained profitability in oil and gas operations with regulatory certainty that minimizes transition risk. ExxonMobil's stated strategy balances traditional hydrocarbon production with selective low-carbon capital allocation—particularly carbon capture and storage (CCS) and direct air capture (DAC), leveraging federal subsidies via the Inflation Reduction Act.
 
-**Policy priorities:**
+### Policy priorities:
 - Preservation of federal tax credits for carbon capture (Section 45Q — ExxonMobil's primary financial beneficiary)
 - Favorable depreciation schedules and deductions for oil and gas operations
 - Regulatory predictability in methane and emissions standards (with compliance flexibility for large operators)
@@ -43,7 +43,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 ### PAC Contributions by Election Cycle (2000–2024)
 
-**Total contributed (2000–2024): Approximately $28.5 million (all sources combined)**
+### Total contributed (2000–2024): Approximately $28.5 million (all sources combined)
 
 | Cycle | Total (All Sources) | PAC Only | % Democrat | % Republican |
 |-------|---------------------|----------|------------|--------------|
@@ -73,7 +73,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 ### Lobbying Machine (2000–2024)
 
-**Total reported federal lobbying (2000–2024): Approximately $293 million**
+### Total reported federal lobbying (2000–2024): Approximately $293 million
 
 | Year | Amount | Legislative/Regulatory Context |
 |------|--------|------|
@@ -112,7 +112,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 ### Top Recipients
 
-**2024 Election Cycle — Top Candidates:**
+### 2024 Election Cycle — Top Candidates:
 
 | Candidate | Party | State | Amount | Notes |
 |-----------|-------|-------|--------|-------|
@@ -127,7 +127,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 | Jon Tester | D | MT | $20,094 | Swing-state Senate race |
 | John Barrasso | R | WY | $18,208 | Senate Energy Committee chair |
 
-**Historical Long-Term Recipients (2000–2024 Combined):**
+### Historical Long-Term Recipients (2000–2024 Combined):
 
 - **[[_Ted Cruz Master Profile|Ted Cruz (R-TX)]]:** Among the top career recipients across multiple cycles; sits on Senate Commerce Committee with jurisdiction over energy policy
 - **John Cornyn (R-TX):** Career Senate recipient; multiple cycles in top-10
@@ -167,8 +167,8 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 ### Climate Denial Funding (1997–2019)
 
-**Documented Total (1997–2015): $33,799,735**
-**Estimated Total (through 2019): >$37 million**
+### Documented Total (1997–2015): $33,799,735
+### Estimated Total (through 2019): >$37 million
 **Number of organizations funded:** 40+ distinct organizations
 
 | Organization | Total Documented | Period | Peak | Status |
@@ -233,13 +233,13 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 ### What They've Gotten
 
-**Regulatory wins:**
+### Regulatory wins:
 - **Section 45Q Tax Credit Expansion (IRA, Aug 2022):** ExxonMobil received at least $331 million in federal DOE grants for carbon capture projects in Texas. CEO Woods explicitly stated in Nov 2024 that repealing these credits would "materially change" CCS investment calculus, confirming direct policy-to-business-model dependence.
 - **Methane Rule Exemptions (EPA Dec 2023):** EPA's final rule included compliance pathways favorable to large operators. Exxon's "Alternate Means of Emissions Limitation" application (approved) allows airplane-based detection rather than on-site monitoring—regulatory accommodation not available to smaller producers.
 - **Permian Permitting Efficiency (2024–2025):** Pioneer acquisition faced minimal regulatory friction. FTC consent order (Jan 2025) barred only board nomination—left operational integration intact. Exxon now controls 1.4M+ acres of low-cost Permian resource.
 - **Clean Power Plan Repeal (2017):** Exxon's API coordination and Trump administration alignment (via Tillerson, 2017–2018) delivered the repeal of the single most consequential climate regulation on the books.
 
-**Access and influence:**
+### Access and influence:
 - **Direct representation in Trump administration:** [[_Rex Tillerson Master Profile|Tillerson as Secretary of State (2017–2018)]], with $240M in Exxon shares and a $1B Rosneft joint venture creating direct conflict of interest
 - **CEO Woods as [[American Petroleum Institute|API]] Board Chair:** Controlling voice in fossil fuel bloc messaging and deregulatory "wishlist" to incoming administrations
 - **CSIS fellowship for Woods:** Credentialing at think tank with direct Trump administration access
@@ -251,7 +251,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 **Scale:** 75.76% of ExxonMobil's 66 registered federal lobbyists in 2024 had prior government experience—making Exxon's lobbying operation one of the most "revolving door"-dense in Washington.
 
-**Key Individual Cases:**
+### Key Individual Cases:
 
 | Person | Government Role | Industry Role | Conflict/Significance |
 |--------|---|---|---|
@@ -289,7 +289,7 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 
 ### Sources
 
-**Political Contributions — Tier 1:**
+### Political Contributions — Tier 1:
 - [OpenSecrets: ExxonMobil donor profile](https://www.opensecrets.org/orgs/exxon-mobil/summary?id=D000000129) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: ExxonMobil PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/C00121368/summary/2024) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: ExxonMobil totals](https://www.opensecrets.org/orgs/exxon-mobil/totals?id=D000000129) (Tier 1) (UNVERIFIED)
@@ -298,11 +298,11 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 - [ExxonMobil: 2024 Corporate political contributions disclosure](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/corporate-political-contributions) (Tier 1)
 - [ExxonMobil: PAC contribution data](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/pac-contribution-data) (Tier 1)
 
-**Lobbying — Tier 1:**
+### Lobbying — Tier 1:
 - [OpenSecrets: ExxonMobil Lobbying Profile](https://www.opensecrets.org/orgs/exxon-mobil/lobbying?id=D000000129) (Tier 1) (UNVERIFIED)
 - [Center for American Progress: 2011 Was Very Good to ExxonMobil](https://www.americanprogress.org/article/2011-was-very-good-to-exxonmobil/) (Tier 2) (UNVERIFIED)
 
-**Climate & Internal Knowledge — Tier 1-2:**
+### Climate & Internal Knowledge — Tier 1-2:
 - [Harvard Gazette: Exxon scientists predicted global warming with 'shocking skill and accuracy'](https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/) (Tier 2)
 - [Scientific American: Exxon knew about climate change almost 40 years ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (Tier 2)
 - [Science journal: Assessing ExxonMobil's global warming projections](https://www.science.org/doi/10.1126/science.abk0063) (Tier 1) (UNVERIFIED)
@@ -310,32 +310,32 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 - [Supran & Oreskes: Assessing ExxonMobil's Climate Change Communications (1977–2014)](https://cssn.org/wp-content/uploads/2020/12/Assessing-ExxonMobils-climate-change-communications-1977%E2%80%932014-Geoffrey-Supran-.pdf) (Tier 1 academic) (UNVERIFIED)
 - [Wikipedia: ExxonMobil Climate Change Denial](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_denial) (Tier 3)
 
-**Climate Denial Funding — Tier 2:**
+### Climate Denial Funding — Tier 2:
 - [DeSmog: ExxonMobil Funding Climate Science Denial](https://www.desmog.com/exxonmobil-funding-climate-science-denial/) (Tier 2)
 - [Union of Concerned Scientists: ExxonMobil Climate Denial Funding 1998–2014 (PDF)](https://www.ucs.org/sites/default/files/attach/2015/07/ExxonMobil-Climate-Denial-Funding-1998-2014.pdf) (Tier 2)
 
-**Carbon Tax Contradiction — Tier 2:**
+### Carbon Tax Contradiction — Tier 2:
 - [Union of Concerned Scientists: To find out if ExxonMobil really supports a carbon tax, just follow the money](https://blog.ucs.org/elliott-negin/to-find-out-if-exxonmobil-really-supports-a-carbon-tax-just-follow-the-money/) (Tier 2)
 - [Energy and Policy Institute: ExxonMobil Opposed Carbon Tax Bills](https://energyandpolicy.org/exxonmobil-opposed-carbon-tax-bills/) (Tier 2)
 
-**Policy Outcomes — Tier 2:**
+### Policy Outcomes — Tier 2:
 - [Greenpeace Unearthed: Undercover Investigation — Keith McCoy Admissions](https://unearthed.greenpeace.org/2021/06/30/exxon-climate-change-undercover/) (Tier 2)
 - [InfluenceMap: ExxonMobil Lobbying Report (PDF)](https://influencemap.org/site/data/000/310/ExxonMobil_Lobbying_May_2018.pdf) (Tier 2)
 - [ExxonKnews: With Methane Rules on the Chopping Block](https://www.exxonknews.org/p/with-methane-rules-on-the-chopping) (Tier 2)
 
-**Revolving Door — Tier 2:**
+### Revolving Door — Tier 2:
 - [Sludge: Exxon Consultant Revolves Back to DOE](https://readsludge.com/2025/03/26/exxon-consultant-revolves-back-to-doe/) (Tier 2)
 - [Revolving Door Project: Climate and Environment](https://therevolvingdoorproject.org/tag/climate/) (Tier 2)
 - [Public Citizen: Trump Appointees Tracker](https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/) (Tier 2)
 - [Politico: Exxon, Mobile, Russia Sanctions, Rex Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770) (Tier 2) (UNVERIFIED)
 - [ExxonMobil: Conflict of Interest Agreement — Tillerson](https://corporate.exxonmobil.com/news/news-releases/2017/0103_exxonmobil-and-tillerson-reach-agreement-to-comply-with-conflict-of-interest-requirements) (Tier 1)
 
-**Financial Data — Tier 1:**
+### Financial Data — Tier 1:
 - [ExxonMobil: Full-year 2022 results](https://corporate.exxonmobil.com/news/news-releases/2023/0131_exxonmobil-announces-full-year-2022-results) (Tier 1)
 - [ExxonMobil: 2023 results announcement](https://corporate.exxonmobil.com/news/news-releases/2024/0202_exxonmobil-announces-2023-results) (Tier 1)
 - [ExxonMobil: 2024 results announcement](https://corporate.exxonmobil.com/news/news-releases/2025/0131_exxonmobil-announces-2024-results) (Tier 1)
 
-**Pioneer Acquisition — Tier 1:**
+### Pioneer Acquisition — Tier 1:
 - [ExxonMobil: Press release — Pioneer acquisition completed (May 2024)](https://corporate.exxonmobil.com/news/news-releases/2024/0503_exxonmobil-completes-acquisition-of-pioneer-natural-resources) (Tier 1)
 - [FTC: Final consent order — Exxon-Pioneer merger (Jan 2025)](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-approves-final-order-exxon-pioneer-deal) (Tier 1)
 

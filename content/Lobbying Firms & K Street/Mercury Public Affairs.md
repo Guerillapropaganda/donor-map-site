@@ -31,7 +31,7 @@ The defining story of Mercury is the firm's capacity to survive scandal and reor
 
 ### Client List
 
-**2025 select clients by sector (OpenSecrets data):**
+### 2025 select clients by sector (OpenSecrets data):
 
 #### Chinese / National Security Risk
 
@@ -96,22 +96,22 @@ The defining story of Mercury is the firm's capacity to survive scandal and reor
 
 ### What They Deliver
 
-**The Manafort/Ukraine machine (2012–2017):**
+### The Manafort/Ukraine machine (2012–2017):
 Mercury, directed by Vin Weber, received $1.02 million from Paul Manafort's European Centre for a Modern Ukraine to lobby Congress during the 2012 Ukrainian elections. The work included: lobbying to support Viktor Yanukovych's political standing, opposing the release of his jailed political rival Yulia Tymoshenko, and cultivating favorable congressional sentiment toward a pro-Russia government. All without registering as foreign agents under FARA. Mueller named Mercury as "Company A" in Manafort's 2017 indictment. Mercury subsequently filed retroactive FARA disclosures.
 
-**ZTE — the founding China deal (2018):**
+### ZTE — the founding China deal (2018):
 ZTE, the Chinese telecom giant, was placed on the Commerce Department's entity list in 2018, threatening to destroy the company. One day after Trump publicly expressed sympathy for ZTE, the company hired Bryan Lanza and Mercury ($75,000/month via Hogan Lovells). Two weeks later, a deal was announced allowing ZTE to continue operating. Mercury did not deliver the deal alone, but the proximity is documented.
 
-**Alibaba sanctions defense:**
+### Alibaba sanctions defense:
 Mercury's Alibaba team, featuring Bryan Lanza, worked to fend off potential sanctions against the company during the first Trump term. Alibaba remained a Mercury client into 2025 ($320K).
 
-**Tencent / NDAA defense (2025):**
+### Tencent / NDAA defense (2025):
 Tencent hired Mercury in April 2025 for work related to the National Defense Authorization Act — specifically on provisions that could restrict or sanction Chinese tech companies. Lobbied by Bryan Lanza and John Lonergan.
 
-**Gotion EV batteries:**
+### Gotion EV batteries:
 Gotion Inc, the Chinese-owned EV battery manufacturer, has faced state-level bans and federal national security scrutiny for its planned Michigan factory. Mercury lobbies for Gotion in Washington, using multiple revolving door lobbyists, while the company is simultaneously under investigation.
 
-**Lukoil — sanctioned Russian oil (December 2025):**
+### Lukoil — sanctioned Russian oil (December 2025):
 In December 2025, sanctioned Russian oil giant Lukoil hired Bryan Lanza and Mercury to assist with the divestiture of its international assets after the U.S. Treasury sanctioned the company in October 2025 as part of pressure on Russia over the Ukraine war. Lukoil's international division (based in Austria) operates refineries, oil fields, and 2,000+ gas stations worldwide, including 200+ in the United States — assets valued at $22 billion in 2024. Mercury/Lanza interfaced with Treasury to secure an extension of the divestiture deadline from December 13 to January 17, 2026. The same firm that represents Ukraine (Stand With Ukraine, $500K) simultaneously took fees from a sanctioned Russian company whose parent funds the Russian state — and the same lobbyist (Lanza) who represents Chinese firms under Trump scrutiny now represented a Russian firm under Trump sanctions. Note: Lanza's Lukoil consulting was personal, not through Mercury's registered lobbying practice, but the access network is identical.
 
 > [!money]
@@ -143,16 +143,16 @@ In December 2025, sanctioned Russian oil giant Lukoil hired Bryan Lanza and Merc
 
 Mercury maintains genuine bipartisan infrastructure, more effectively than most firms:
 
-**Republican access:**
+### Republican access:
 - Vin Weber — Former Republican House leadership member; New Gingrich ally; Conservative movement credibility
 - David Vitter — Former Republican Senator; energy/finance relationships
 - Bryan Lanza — Direct Trump campaign/transition access
 
-**Democratic access:**
+### Democratic access:
 - Cheri Bustos — Former DCCC chair; deep relationships in House Democratic caucus, particularly Midwest members
 - Toby Moffett — Former Democratic Congressman from Connecticut (1975–1983); decades of Democratic relationships
 
-**The foreign government play:**
+### The foreign government play:
 Mercury's simultaneous representation of Ukraine (Stand With Ukraine, $500K) and Qatar (Government of Qatar, $300K) — two governments with competing interests in the Middle East and Central Asia — is only possible because Mercury doesn't take positions. It sells relationships. The firm is not advising on policy. It is maintaining access in both directions.
 
 ---

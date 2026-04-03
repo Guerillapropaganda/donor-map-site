@@ -1,7 +1,7 @@
 ---
 title: "Marc Andreessen & Horowitz"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -48,12 +48,12 @@ a16z's policy agenda is the portfolio's wish list:
 
 **441 FEC-disclosed contributions** (2019-2026). All from California. Employer listed as "Andreessen Horowitz." The scale and breadth of Andreessen's direct FEC contributions reveal a systematic Republican donor operation that goes far beyond super PAC contributions.
 
-**2026 cycle (Jan-Mar 2026):**
+### 2026 cycle (Jan-Mar 2026):
 - NRSC (National Republican Senatorial Committee): $50,000 (Feb 24, 2026)
 - Dr. Brian Babin for Congress (TX-R): $7,000 (Feb 2, 2026)
 - Pat Harrigan Committee (NC-R): $5,000 (Jan 30, 2026)
 
-**2025 cycle contributions (selected major):**
+### 2025 cycle contributions (selected major):
 - Fairshake PAC: **$11,900,000** (Dec 10, 2025) — via AH Capital Management LLC
 - Defend American Jobs: $50,000 (Dec 10, 2025)
 - Protect Progress: $50,000 (Dec 10, 2025)
@@ -70,7 +70,7 @@ a16z's policy agenda is the portfolio's wish list:
 - Lead Encourage Elect PAC: $5,000 (Nov 24, 2025)
 - More Jobs Less Government: listed (Nov 21, 2025)
 
-**2024 cycle contributions (major):**
+### 2024 cycle contributions (major):
 - $2,500,000 to pro-Trump super PAC (Oct 2024)
 - $844,600 to Trump campaign and Republican Party committees (federal maximum + party support)
 - $22,000,000 to Fairshake (split with Horowitz)
@@ -97,7 +97,7 @@ a16z's policy agenda is the portfolio's wish list:
 
 [[Fairshake PAC]] was the 2024 primary vehicle. A crypto industry super PAC that became the single largest outside spending operation in multiple races.
 
-**a16z contributions to Fairshake:**
+### a16z contributions to Fairshake:
 - $22-25 million via the a16z Crypto Fund (May 2024)
 - $23 million additional for the 2026 cycle (Nov 2024)
 - $11.9 million from Andreessen personally (Dec 2025)
@@ -105,7 +105,7 @@ a16z's policy agenda is the portfolio's wish list:
 - $1.5 million combined to affiliated PACs Defend American Jobs and Protect Progress (2023)
 - Total a16z Fairshake commitment: approximately **$75-80 million** across two cycles
 
-**Fairshake 2024 cycle totals:**
+### Fairshake 2024 cycle totals:
 - Total raised: $260+ million
 - General election spending: $87.26 million on 28 candidates
 - Primary spending: $37+ million across House and Senate races
@@ -123,11 +123,11 @@ a16z's policy agenda is the portfolio's wish list:
 
 ### Leading the Future — The AI Super PAC (2025-2026)
 
-**The playbook that worked for crypto is now being deployed for AI.**
+### The playbook that worked for crypto is now being deployed for AI.
 
 In August 2025, Andreessen and Horowitz launched Leading the Future (LTF), a super PAC dedicated to electing AI-friendly candidates in the 2026 midterms. Co-founded with OpenAI president Greg Brockman.
 
-**Fundraising:**
+### Fundraising:
 - Andreessen: $12,500,000 (personal)
 - Horowitz: $12,500,000 (personal)
 - Brockman + wife: $12,500,000 each
@@ -145,7 +145,7 @@ In August 2025, Andreessen and Horowitz launched Leading the Future (LTF), a sup
 
 ### The Trump Pivot
 
-**Timeline:**
+### Timeline:
 - Spring 2024: Andreessen describes "alarming" meeting with Biden officials who explained plans for government AI control
 - July 16, 2024: Andreessen and Horowitz publicly endorse Trump in podcast episode "The Ben and Marc Show" — one week before Biden withdrew
 - July 2024: Announced donations to pro-Trump super PACs
@@ -185,7 +185,7 @@ The PCAST appointment formalizes what Bloomberg reported in February 2026: a16z 
 
 **Collin McCune:** a16z chief lobbyist in Washington. Primary contact for White House and congressional staffers on tech policy. Senior White House officials and top Republican congressional staffers now "routinely call Andreessen Horowitz first" when considering measures that could impact tech companies' AI initiatives (Bloomberg).
 
-**The placement pipeline:**
+### The placement pipeline:
 1. Invest in AI/crypto companies
 2. Place partners in government (Krishnan)
 3. Get appointed to presidential advisory councils (Andreessen on PCAST)

@@ -1,7 +1,7 @@
 ---
 title: "Dinesh D'Souza"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -67,7 +67,7 @@ D'Souza's revenue streams operate through a diversified pipeline:
 
 **Film investors:** Obama's America was financed by approximately 24 private donors organizing through the Obama's America Foundation LLC. Specific donor identities are not fully disclosed, but the coalition indicates access to conservative mega-donor networks. 2000 Mules investors are similarly obscured in corporate structure; Police State used Bongino and Rumble as co-production partners.
 
-**Wikilinks to donor nodes:**
+### Wikilinks to donor nodes:
 - [[Salem Media Group]] (primary patron/distributor)
 - [[Council for National Policy]] (funder network bridge)
 - [[Club for Growth Action]] (2024 recipient of D'Souza contributions)

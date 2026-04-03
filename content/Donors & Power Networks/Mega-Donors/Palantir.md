@@ -1,7 +1,7 @@
 ---
 title: "Palantir Technologies"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
@@ -38,7 +38,7 @@ The deeper structural goal is vendor lock-in at the federal level. Palantir's st
 
 Palantir's political spending operates through three channels: the Palantir Technologies PAC (direct candidate contributions), corporate lobbying, and the personal political spending of Thiel and other executives.
 
-**2024 cycle — PAC and employee contributions (OpenSecrets):**
+### 2024 cycle — PAC and employee contributions (OpenSecrets):
 
 Total political spending: $4,943,324
 
@@ -57,7 +57,7 @@ Total political spending: $4,943,324
 > [!money] Follow the Money
 > The split is revealing: $2M went to pro-Trump outside groups, while employee contributions spread across both parties' committees. This isn't bipartisan good citizenship — it's insurance. Palantir needs defense contracts regardless of who controls the White House, so the company hedges. But the heavy lean ($2M Trump vs. $123K Harris in outside spending) reveals where Palantir's leadership sees its structural advantage. The Thiel-Vance-Sacks network is the real channel — PAC spending is noise.
 
-**Lobbying — Full History (Senate LDA API + OpenSecrets):**
+### Lobbying — Full History (Senate LDA API + OpenSecrets):
 
 | Year | Lobbying Spend | Lobbyists | Notes |
 |------|---------------|-----------|-------|
@@ -97,7 +97,7 @@ Total political spending: $4,943,324
 
 The return on Palantir's political investment is measured in contract ceilings, not campaign outcomes. The company's government revenue has exploded since the Thiel network achieved political power in 2024-2025.
 
-**Government contract timeline:**
+### Government contract timeline:
 
 | Date | Contract | Value | Agency | Significance |
 |------|----------|-------|--------|-------------|
@@ -155,10 +155,10 @@ Palantir has neither confirmed nor denied specific operational roles in these sy
 
 Palantir's police surveillance business predates its federal government dominance. The company established its local law enforcement presence through an unusual mechanism: charitable donations. Palantir gave software to the LAPD and New Orleans Police Department for free or at heavily subsidized rates in its early years, building institutional dependency before transitioning to paid contracts.
 
-**LAPD — Predictive Policing (2012–2020):**
+### LAPD — Predictive Policing (2012–2020):
 Palantir provided software for the LAPD's "Laser" (Los Angeles Strategic Extraction and Restoration) program, which used algorithmic scoring to designate individuals as "chronic offenders" subject to enhanced surveillance and proactive stops. Training documents obtained by BuzzFeed News showed the LAPD using Palantir's Gotham platform to query databases covering scars, tattoos, gang affiliations, prior arrests, and license plate data. The LAPD eventually ended the Laser program in 2020 amid civil liberties concerns, but the Palantir contract relationship with LAPD continued under different programs.
 
-**NYPD — Surveillance Data Analysis:**
+### NYPD — Surveillance Data Analysis:
 The NYPD licensed Palantir software to analyze arrest records, license plate reads, and parking ticket data. When the NYPD attempted to transition to a new system ("Cobalt," developed with IBM), Palantir refused to hand over a readable version of the underlying data to the NYPD, claiming the data structure constituted proprietary intellectual property. The dispute, documented by the Brennan Center, illustrates the vendor lock-in dynamic at the core of Palantir's business model: once a police department's operational data is inside Palantir's platform, leaving becomes legally and technically contentious.
 
 **National footprint:** Palantir's police surveillance contracts span dozens of cities and counties across the U.S. The company's Gotham platform is used by law enforcement agencies in at least 17 states. The pattern across all deployments is consistent: initial entry via subsidized pricing or charitable giving, followed by deep data integration, followed by contract disputes when agencies attempt to exit.

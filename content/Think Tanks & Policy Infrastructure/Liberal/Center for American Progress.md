@@ -30,10 +30,10 @@ Annual revenue has ranged from $37 million (2024, a contraction year) to $52 mil
 
 ### Who Funds Them
 
-**Founding donors (2003):**
+### Founding donors (2003):
 George Soros pledged $3 million to help launch CAP in 2003, alongside other major Democratic donors including Peter Lewis, Steve Bing, and Herb and Marion Sandler.
 
-**Board members who are also donors:**
+### Board members who are also donors:
 - **Hansjörg Wyss** — Swiss billionaire (net worth ~$5-6B), founder of the $2.7B Wyss Foundation, sits on CAP's board of directors. Also funds through the Berger Action Fund ($232M) and the Arabella Advisors dark money network. Wyss is a foreign national, which raises legal questions about his role in U.S. political infrastructure.
 - **Donald Sussman** — Hedge fund manager and major Democratic donor, board director. One of the largest individual donors to Democratic causes in the 2016 cycle.
 - **Tom Steyer** — Billionaire climate donor, former CAP board director (through ~2019). Funded CAP and later ran for president in 2020.
@@ -42,10 +42,10 @@ George Soros pledged $3 million to help launch CAP in 2003, alongside other majo
 - **Glenn Hutchins** — Silver Lake Partners co-founder, former board director.
 - **Eric Mindich** — Hedge fund manager (former), board director through 2023.
 
-**Foundation donors ($1M+ in 2022, self-reported):**
+### Foundation donors ($1M+ in 2022, self-reported):
 Bloomberg Philanthropies, Carnegie Corporation of New York, Chan Zuckerberg Initiative, Bill & Melinda Gates Foundation, William and Flora Hewlett Foundation, Sandler Foundation, Silicon Valley Community Foundation, Wellspring Philanthropic Fund.
 
-**Corporate donors (amounts per disclosed supporter lists):**
+### Corporate donors (amounts per disclosed supporter lists):
 - Citigroup: $100,000+
 - Apple: $100,000+
 - Google: $100,000+
@@ -60,7 +60,7 @@ Bloomberg Philanthropies, Carnegie Corporation of New York, Chan Zuckerberg Init
 - Eli Lilly: donor (pharmaceutical)
 - NBCUniversal: donor
 
-**Dark money connections:**
+### Dark money connections:
 CAP is embedded in the Arabella Advisors progressive dark money network, which operates through the New Venture Fund (501c3) and Sixteen Thirty Fund (501c4). Wyss's funding flows through these vehicles. As of 2024, CAP stopped publishing its donor honor roll, citing concerns about donor targeting — a decision that also conveniently reduces transparency at a moment when corporate and foreign-linked donor relationships have attracted scrutiny.
 
 ---
@@ -84,16 +84,16 @@ CAP is embedded in the Arabella Advisors progressive dark money network, which o
 
 ### What They Produce
 
-**Landmark policy papers:**
+### Landmark policy papers:
 - **"Universal Health Care Coverage for the United States" (2007)** — CAP's pre-ACA healthcare blueprint. Preserved employer-sponsored insurance and private insurance markets. Became the substantive framework for Democratic health reform debate.
 - **"Change for America" (2008-2009)** — Comprehensive policy agenda for an incoming Democratic administration. Adopted as de facto Obama transition blueprint; 10 CAP experts joined the Obama transition team.
 - **"Medicare Extra for All" (2018)** — Public option proposal with explicit private insurance opt-out provision. Foreclosed the single-payer debate within mainstream Democratic policy space.
 - **"A 100% Clean Future" (2019)** — Climate policy roadmap whose key provisions (clean electricity standard, climate finance mechanisms) appeared in Biden's Build Back Better framework and the Inflation Reduction Act.
 
-**Media infrastructure:**
+### Media infrastructure:
 ThinkProgress (2005-2019) — CAP's in-house media outlet, which at peak operated as one of the most-read progressive websites. Shut down in September 2019 after the staff unionized and CAP refused to fund the union contract — a revealing episode of donor-class priorities overriding stated progressive commitments.
 
-**Model legislation:**
+### Model legislation:
 CAP produces policy memos and legislative language that Democratic Congressional staff regularly incorporate verbatim. Unlike ALEC on the right, CAP does not formally distribute model legislation — but the revolving door performs the same function. CAP staff who become Senate HELP Committee staffers or White House domestic policy advisors bring the same policy frameworks with them.
 
 ---
@@ -102,13 +102,13 @@ CAP produces policy memos and legislative language that Democratic Congressional
 
 CAP's pipeline operates through direct personnel transfer rather than the formal model-legislation structure used by conservative think tanks.
 
-**Obama administration (2009-2017):**
+### Obama administration (2009-2017):
 A squadron of CAP experts worked with Obama's 2008-2009 transition team. CAP's "Change for America" agenda served as the blueprint for the incoming administration's priorities. At minimum 10 CAP fellows or staff had formal advisory roles. Denis McDonough (later Obama's Chief of Staff) came from CAP. Neera Tanden served as senior advisor for health reform at HHS, directly shaping ACA draft language. John Podesta returned to the White House in 2014 as Counselor to the President, overseeing climate and regulatory policy from within.
 
-**Biden administration (2021-2025):**
+### Biden administration (2021-2025):
 Politico described CAP as "the most influential think tank of the Biden era" in 2021. By mid-2021, nearly 70 CAP employees had joined the Biden administration. Key placements included: Ron Klain (Chief of Staff, with CAP connections), Neera Tanden (Staff Secretary, then Domestic Policy Council Director), Kelly Magsamen (Pentagon Chief of Staff), Brian Deese (NEC Director, with CAP ties). In September 2022, Biden appointed CAP founder John Podesta as clean energy czar with control over roughly $370 billion in IRA climate spending.
 
-**Trump 2.0 era — opposition research and Democratic rebuild (2025–):**
+### Trump 2.0 era — opposition research and Democratic rebuild (2025–):
 As Biden's administration ended in January 2025, the revolving door reversed: CAP became the landing pad for departing Democratic officials rather than the launchpad. Neera Tanden — who left CAP for a Biden White House position in 2021 and rose to Domestic Policy Council Director — returned to lead CAP as president and CEO in January 2025, her second stint running the organization.
 
 Tanden's return signals CAP's pivot to opposition infrastructure. In a February 2025 interview with Semafor, she explicitly positioned CAP as the institution Democrats need for both aggressive Trump resistance and alternative agenda development: "The most important thing about Trump is that he's a bully, and if you cower he will take your breakfast money and your lunch money. He'll take all your money." She also told Democrats they "should not be knee-jerk institution defenders" — a posture that, coming from the head of the Democratic establishment's flagship think tank, is notable.
@@ -137,16 +137,16 @@ The pattern is structurally significant: CAP is not a think tank that occasional
 
 ### What Their Funders Got
 
-**Private insurance industry (AHIP, Eli Lilly, PhRMA):**
+### Private insurance industry (AHIP, Eli Lilly, PhRMA):
 The ACA, drafted during a period when CAP provided both the policy framework and key HHS staff, preserved the private insurance market as the structural foundation of American healthcare. No public option survived. No single-payer pathway was advanced. The individual mandate created a captive customer base for private insurers. CAP's "Medicare Extra" proposal (2018) explicitly carved out a role for private insurance in any future public option — foreclosing single-payer before the debate began.
 
-**Wall Street (Goldman Sachs, Citigroup, Bank of America):**
+### Wall Street (Goldman Sachs, Citigroup, Bank of America):
 CAP produced no serious agenda for reinstating Glass-Steagall, breaking up Too Big to Fail banks, or imposing structural financial reform during either the Obama or Biden eras. Dodd-Frank (2010), shaped in part by alumni of CAP-adjacent networks, preserved the major banks intact. The IRA created a new green finance market in which Wall Street institutions are positioned as climate capital intermediaries — a mechanism that enriches the financial sector while addressing climate emissions.
 
-**Tech sector (Google, Apple, Microsoft):**
+### Tech sector (Google, Apple, Microsoft):
 No major antitrust push emerged from CAP's policy pipeline during either the Obama or Biden administrations. The Biden administration's late-term FTC activism was independent of CAP. CAP published no major research agenda calling for breaking up platform monopolies while Google and Apple were among its disclosed donors.
 
-**Defense contractors (Northrop Grumman):**
+### Defense contractors (Northrop Grumman):
 CAP's foreign policy shop consistently operated within the liberal interventionist consensus — supporting NATO commitments, opposing troop withdrawal from Afghanistan, backing drone warfare — positions compatible with sustained defense contractor revenue. No serious agenda for Pentagon budget reduction has emerged from CAP's policy output.
 
 > [!contradiction]

@@ -49,7 +49,7 @@ Yass's political agenda maps directly onto SIG's business model and his personal
 > [!money] Follow the Money
 > FEC records show **774 individual federal contributions** (2010–2026), employer listed as SIG/Susquehanna Partners G.P., virtually 100% Republican (with the notable exception of $1M to the Moderate PAC, which supports Democratic incumbents against progressive primary challengers). Yass's political spending has escalated exponentially: $5M (2016) → $25.3M (2020) → $100M (2024) → $16M to MAGA Inc. alone in first half of 2025. Total career political giving: estimated $200M+.
 
-**Major documented contributions:**
+### Major documented contributions:
 
 | Recipient | Amount | Date | Significance |
 |-----------|--------|------|-------------|

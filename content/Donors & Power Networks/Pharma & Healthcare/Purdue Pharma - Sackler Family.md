@@ -1,7 +1,7 @@
 ---
 title: "Purdue Pharma - Sackler Family"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -110,7 +110,7 @@ A revised settlement was reached in 2025: $7.4 billion total, with the Sackler f
 
 The Purdue Pharma-Sackler case is the vault's most extreme example of the **privatize-profits-socialize-costs** model in American corporate history. The family extracted $10+ billion from a product that killed 600,000+ Americans, used the profits to fund philanthropy that whitewashed their reputation (the Sackler name appeared on wings at the Met, the Louvre, and dozens of universities), then deployed corporate legal structures — bankruptcy, offshore trusts, asset protection vehicles — to limit accountability to a fraction of their wealth.
 
-**Analytical patterns present:**
+### Analytical patterns present:
 
 - **Revolving Door (extreme):** Curtis Wright's FDA-to-Purdue pipeline is the vault's most consequential single revolving door case — the regulator who approved the misleading label was hired by the company that used it to market a drug that killed hundreds of thousands. 87.5% of Purdue's 2023 lobbyists are government alumni.
 - **Donor-Class Override:** The $625,000+ in RAGA donations invested in the officials who decide whether to prosecute pharmaceutical companies. Multiple Republican AGs initially declined to join opioid litigation.

@@ -38,7 +38,7 @@ Career fundraising: $82M+ (1997–2024). Top non-retired industry sectors: Lawye
 
 ### The Central Thesis
 
-**Baldwin is the rare progressive who wins in a swing state by anchoring her progressive economic agenda to specific Wisconsin industries — dairy, manufacturing, healthcare — rather than abstract ideology. Her donor architecture reveals the structural limits of that populism.**
+### Baldwin is the rare progressive who wins in a swing state by anchoring her progressive economic agenda to specific Wisconsin industries — dairy, manufacturing, healthcare — rather than abstract ideology. Her donor architecture reveals the structural limits of that populism.
 
 Career fundraising data shows her top non-retired industry sectors are Lawyers/Law Firms ($4.8M), Education ($4.2M), Women's Issues ($4.2M), Health Professionals ($3.1M), and Securities & Investment ($2.7M). Labor unions — the constituency her populism ostensibly serves — rank far lower at $2.3M career, and that money is almost entirely PAC-driven ($2.16M of $2.27M). The people who fund Baldwin's campaigns are overwhelmingly professionals, not workers. Her populism is real in its policy outputs but elite in its financial architecture.
 

@@ -43,7 +43,7 @@ Soon-Shiong's political interests combine biotech regulatory concerns with media
 > [!money] Follow the Money
 > FEC records show **75 individual federal contributions** (2010–2026). The partisan split tells the story: Hillary Victory Fund / DNC in 2016 → Kevin McCarthy, NRCC, and Republican candidates by 2017 → Mike Pence for President (2023) → massive RNC contributions (2025). Employer listed as NantWorks, Abraxis Bioscience, Veteran Holdings LLC, or self-employed across different filings. Total documented giving: $500K+ federal, likely much more through state and joint fundraising.
 
-**Major documented contributions:**
+### Major documented contributions:
 
 | Recipient | Amount | Date | Significance |
 |-----------|--------|------|-------------|

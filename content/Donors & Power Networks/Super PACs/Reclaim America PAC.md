@@ -30,22 +30,22 @@ Leadership PACs serve as relationship-building tools for ambitious politicians. 
 > [!money] Follow the Money
 > In 2023–2024, Reclaim America raised $903,568 and spent $1,094,775 — spending more than it raised by drawing down reserves. The most notable disbursement: $105,000 to the Trump 47 Committee, signaling Rubio's alignment with Trump heading into the 2024 cycle.
 
-**2023–2024 cycle:**
+### 2023–2024 cycle:
 - Raised: $903,568 (179 large individual donors contributed $336,832)
 - Spent: $1,094,775
 - Cash on hand: $52,812
 
-**Top donors:**
+### Top donors:
 - Dana White (UFC): $6,600
 - Stephen Schwarzman: $5,000
 - Christine Schwarzman: $5,000
 - Brian Ballard: $5,000
 
-**Candidate contributions ($120K total, 100% Republican):**
+### Candidate contributions ($120K total, 100% Republican):
 - $10K each: Jim Banks (IN), Sam Brown (NV), Deb Fischer (NE), Eric Hovde (WI), Dave McCormick (PA), Bernie Moreno (OH), Mike Rogers (MI), Tim Sheehy (MT)
 - $5K each: Ted Cruz, Rick Scott, JD Vance
 
-**PAC-to-PAC contributions ($205K):**
+### PAC-to-PAC contributions ($205K):
 - Trump 47 Committee: $105,000
 - RNC: $45,000
 - NRSC: $30,000

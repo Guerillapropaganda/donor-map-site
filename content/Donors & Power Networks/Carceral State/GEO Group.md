@@ -1,7 +1,7 @@
 ---
 title: "GEO Group - Private Prison Industrial Complex"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -17,7 +17,7 @@ related: [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[
 
 GEO Group, Inc. (NYSE: GEO; formerly Wackenhut Corrections Corporation, founded 1988) is the world's largest private prison company by revenue. Together with [[CoreCivic]], GEO controls over 70% of the U.S. private detention market. Headquartered in Boca Raton, Florida. Founder and CEO: George C. Zoley (chairman and CEO since inception).
 
-**2025 financial profile:**
+### 2025 financial profile:
 - Total revenue: $2.63 billion (up 8.7% from $2.42 billion in 2024)
 - Net income: $254.4 million ($1.82/share) — a 700%+ increase over 2024
 - Adjusted EBITDA: $464.4 million
@@ -27,12 +27,12 @@ GEO Group, Inc. (NYSE: GEO; formerly Wackenhut Corrections Corporation, founded 
 
 GEO operates 95 facilities worldwide with approximately 75,000 total beds (including idle and under-development facilities) and employs approximately 20,000 employees. As of 2025, GEO operates 19 facilities specifically for ICE detention with approximately 26,000 operational beds — up from approximately 20,000 at the start of 2025.
 
-**Key subsidiaries:**
+### Key subsidiaries:
 - **BI Incorporated** — Boulder, Colorado-based electronic monitoring company acquired in 2011 for $145 million; the exclusive provider of ICE's Intensive Supervision Appearance Program (ISAP) ankle monitor program; employs nearly 1,000 people across approximately 100 offices nationwide
 - **GEO Transport, Inc. (GTI)** — the largest provider of ground and air transportation for ICE
 - **GEO Acquisition II Inc.** — subsidiary used for political contributions, including $1 million to a pro-Trump super PAC in 2024
 
-**Revenue history:**
+### Revenue history:
 - 2019: $2.5 billion
 - 2024: $2.42 billion
 - 2025: $2.63 billion
@@ -78,12 +78,12 @@ Continued private operation of immigration detention centers and state prisons. 
 | 2024 | $3,556,200 | $467,000 | **$4,023,200** |
 | 2023 | $2,033,500 | $362,500 | **$2,396,000** |
 
-**2025 recipient breakdown:**
+### 2025 recipient breakdown:
 - Federal/National Candidates and Committees: $1,722,000
 - State/Local Candidates and Committees: $2,253,400
 - 527 Organizations: $450,000
 
-**2024 recipient breakdown:**
+### 2024 recipient breakdown:
 - Federal/National Candidates and Committees: $2,538,500
 - State/Local Candidates and Committees: $969,700
 - 527 Organizations: $515,000
@@ -147,7 +147,7 @@ GEO Group and its employees have donated approximately $4.4 million to federal c
 | Mark Green (R-TN) | Tennessee | $55,975 | **Homeland Security Committee Chair** |
 | Steve Scalise (R-LA) | Louisiana | $55,901 | House Majority Leader |
 
-**Critical intersections — The Money-Appropriations Pipeline:**
+### Critical intersections — The Money-Appropriations Pipeline:
 - **Rep. Henry Cuellar (D-TX)**, the single largest all-time recipient of private prison industry donations ($210,140), sat on the House Appropriations Homeland Security Subcommittee — the precise body that funds ICE detention. GEO Group and [[CoreCivic]] each operate facilities within his district. This represents a direct line from donor to appropriations power.
 - **Rep. Mark Green (R-TN)**, Chair of the House Homeland Security Committee, received $55,975 total and $21,800 in the 2023–2024 cycle from the private prison industry.
 - **Rep. Jim Jordan (R-OH)**, Chair of the House Judiciary Committee, received $7,500 in 2024 and $13,768 total from GEO Group.
@@ -184,7 +184,7 @@ Biden's January 2021 executive order directed DOJ not to renew private prison co
 
 GEO Group and [[CoreCivic]] derived only approximately 23% of their 2019 revenue combined from DOJ contracts (BOP + USMS). ICE contracts were already the larger revenue source. Biden's "ban" left the most profitable segment entirely untouched.
 
-**What actually happened under Biden:**
+### What actually happened under Biden:
 - GEO immediately developed workarounds to offset minimal DOJ losses
 - Converted closed DOJ facilities into ICE facilities (e.g., Moshannon Valley, PA)
 - Expanded ICE contracts to offset DOJ losses

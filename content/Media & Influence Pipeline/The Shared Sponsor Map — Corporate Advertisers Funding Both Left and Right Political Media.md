@@ -1,7 +1,7 @@
 ---
 title: "The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media"
 type: story
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null

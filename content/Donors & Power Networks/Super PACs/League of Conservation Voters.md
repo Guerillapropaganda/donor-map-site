@@ -30,18 +30,18 @@ LCV's mission is to build political power for environmental protection. In pract
 > [!money] Follow the Money
 > LCV spent $120 million supporting Democratic candidates in the 2024 elections — its largest investment ever. Revenue reached ~$159M, a dramatic increase from $19.5M in 2010. The organization has grown from a scorecard publisher to one of the most powerful environmental political spenders in the country.
 
-**2024 electoral spending:**
+### 2024 electoral spending:
 - Total spent: $120M (largest ever)
 - LCV Victory Fund received $48.7M from LCV
 
-**Revenue trajectory:**
+### Revenue trajectory:
 - 2010: $19.5M
 - Recent: ~$159M (8x growth in 15 years)
 
-**Dark money inflow:**
+### Dark money inflow:
 - Sixteen Thirty Fund (liberal dark money hub): $18.9M to LCV in 2021
 
-**Lobbying:**
+### Lobbying:
 - 2024: $760K
 
 **Key function:** The National Environmental Scorecard rates every member of Congress on environmental votes. This is widely cited in campaign literature and serves as both an accountability tool and an electoral weapon — low scores become attack ad material.

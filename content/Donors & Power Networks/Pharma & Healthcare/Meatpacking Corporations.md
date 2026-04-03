@@ -1,7 +1,7 @@
 ---
 title: "Meatpacking Corporations"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -48,11 +48,11 @@ The meatpacking industry's policy agenda is a labor-cost minimization program dr
 
 The meatpacking industry's political contributions are bipartisan but lean Republican — typically 55-65% Republican, 35-45% Democratic. Contributions target Agriculture, Labor, and Judiciary committee members who control the regulatory framework governing slaughterhouse safety, labor law, immigration policy, and antitrust enforcement.
 
-**Tyson Foods — the industry's largest political spender:**
+### Tyson Foods — the industry's largest political spender:
 
 Tyson Foods PAC (TYPAC, FEC ID C00169821) is the single largest meatpacking PAC. 2024 cycle contributions: $316,500 to federal candidates. Tyson's lobbying spending: $2,190,000 in 2025 alone (through Q3), consistent with $1.5-2.5M annual lobbying spend over the past decade.
 
-**Industry-wide political spending (2024 cycle):**
+### Industry-wide political spending (2024 cycle):
 
 The meat processing and products industry spent $886,000 on election-related activities in the 2024 cycle — approximately 80% of what it spent in the entire 2020 cycle — with spending accelerating as USDA updated crucial regulations on market transparency and the Packers & Stockyards Act.
 
@@ -85,19 +85,19 @@ The meat processing and products industry spent $886,000 on election-related act
 
 The meatpacking industry's political returns fall into four categories: regulatory immunity, antitrust protection, labor discipline infrastructure, and crisis exploitation.
 
-**COVID-19 — the definitive case study in regulatory capture:**
+### COVID-19 — the definitive case study in regulatory capture:
 
 In April 2020, President Trump signed an executive order declaring meatpacking plants "critical infrastructure" under the Defense Production Act — language drafted by the North American Meat Institute, the industry's trade association. The order overrode OSHA's authority to shut down plants with active COVID outbreaks, forcing workers to remain on the line while infections spread through the industry.
 
 The results: 44,000+ meatpacking workers infected at 504 plants. At least 269 workers died. OSHA's enforcement response: two citations totaling less than $30,000 — a $15,615 fine against JBS for its Greeley, Colorado plant (where seven workers died and 290 were infected) and a $13,494 fine against Smithfield for its Sioux Falls, South Dakota plant (where four workers died and 1,294 were infected). The fines amounted to less than $2,500 per worker who died.
 
-**Antitrust — the revolving door of performative enforcement:**
+### Antitrust — the revolving door of performative enforcement:
 
 The Biden administration announced a meatpacking competition initiative in January 2022, including $1 billion for independent meat processing capacity. The structural enforcement — breaking up the Big Four's 85% market control — never materialized. The DOJ opened an antitrust probe that was quietly closed before Trump took office in 2025. In November 2025, Trump publicly demanded a DOJ investigation into meatpacker "illicit collusion" — after his own DOJ had already closed the Biden-era probe. The announcement was performative: the same administration that withdrew USDA's Packers & Stockyards enforcement rule simultaneously claimed to be cracking down on the industry.
 
 Meanwhile, Tyson agreed to pay $55 million and Cargill $32.5 million to settle a beef price-fixing lawsuit filed by consumers in 2019 — penalties that amount to a fraction of one quarter's profits for either company.
 
-**Child labor — the labor discipline system exposed:**
+### Child labor — the labor discipline system exposed:
 
 In 2023, the Department of Labor discovered that Packers Sanitation Services Inc. (PSSI) — a Blackstone Group-owned sanitation contractor — had employed more than 100 children, some as young as 13, cleaning skull splitters, brisket saws, and bone cutters in meatpacking plants operated by JBS, Tyson, and Cargill across eight states. The fine: $1.5 million. A subsequent investigation by the DOL found another contractor, QSI, had employed 54 children at 13 meatpacking plants in eight states on overnight shifts between 2021 and 2024. Federal investigations expanded to 11 states covering meatpacking and produce operations.
 

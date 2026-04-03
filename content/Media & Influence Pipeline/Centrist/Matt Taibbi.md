@@ -27,7 +27,7 @@ Central to the Twitter Files story (December 2022) — Elon Musk selected Taibbi
 
 Taibbi's funding model represents the purest Substack independence case in the pipeline — but the platform itself has a funding story.
 
-**Revenue streams:**
+### Revenue streams:
 - Racket News Substack subscriptions (462K+ subscribers, paid tier estimated $50-80/year) — estimated $500K-$1M+/year based on comparable top-15 Substack writers
 - Book advances and royalties (seven published books)
 - Racket News Live podcast/events
@@ -64,14 +64,14 @@ Taibbi's funding model represents the purest Substack independence case in the p
 
 **Direct funders:** Taibbi's subscribers. No identified corporate sponsors, PAC money, or dark money funding for Racket News.
 
-**Indirect funders — the a16z bridge:**
+### Indirect funders — the a16z bridge:
 
 This is the structural story. [[Marc Andreessen and a16z|Andreessen Horowitz (a16z)]] invested $65 million in Substack's Series B (March 2021) AND committed $400 million to Elon Musk's Twitter acquisition (October 2022). The same venture capital firm that funds the platform where Taibbi publishes also funded the Twitter acquisition that produced the Twitter Files story that made Taibbi the most prominent Substack journalist.
 
 > [!money]
 > a16z didn't pay Taibbi directly. They did something more sophisticated: they funded the platform (Substack, $65M) and the story source (Twitter/Musk, $400M) simultaneously. Taibbi's independence is real at the individual level — no one tells him what to write. But the infrastructure that makes his independence economically viable was built by the same venture capital that bought Twitter. The journalist is independent. The ecosystem is not.
 
-**Elon Musk — access as currency:**
+### Elon Musk — access as currency:
 
 Musk gave Taibbi exclusive access to Twitter's internal documents in December 2022. Taibbi acknowledged agreeing to undisclosed conditions for the access. No financial compensation has been documented, but exclusive access to the biggest tech-censorship story of the decade has massive economic value — it drove Racket News subscriptions and elevated Taibbi's profile from "former Rolling Stone writer" to "the Twitter Files journalist."
 
@@ -91,7 +91,7 @@ The relationship deteriorated in April 2023 when Musk throttled Substack links o
 
 Taibbi is the textbook audience swap case — same journalist, same analytical framework, completely different audience.
 
-**The swap mechanics:**
+### The swap mechanics:
 1. Pre-2020: Progressive audience attracted by anti-Wall Street, anti-corporate journalism
 2. 2020-2021: COVID skepticism and media criticism alienated progressive readers
 3. 2022: Twitter Files cemented new right-leaning/libertarian audience

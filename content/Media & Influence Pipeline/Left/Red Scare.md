@@ -21,7 +21,7 @@ Red Scare is an American cultural commentary and humor podcast launched March 20
 
 Red Scare occupies a structurally unique analytical position in this vault: it is the mirror image of Chapo Trap House. Both shows launched within 2 years of each other, both began as dirtbag-left podcasts in Lower Manhattan, both are funded primarily by Patreon subscribers. But where Chapo maintained its socialist left politics through the 2020s (at a cost of scale), Red Scare's audience and hosts followed a right-accelerating trajectory — from left critique of neoliberalism to explicit Trump support, from class analysis to "race realist" reference points, from dirtbag left to Dimes Square New Right. The divergence is the analysis: what captured Red Scare that didn't capture Chapo?
 
-**Hosts:**
+### Hosts:
 
 **Dasha Nekrasova** — Belarusian-American actress and filmmaker born in Minsk, raised in Las Vegas. Best known for her role as Comfrey Pellits in HBO's *Succession* (Season 3, 9 episodes, 2021) and as director of *The Scary of Sixty-First* (2021), which won Best First Feature at the Berlin International Film Festival. Also appeared in A24's *Materialists* (2025). In November 2025, she hosted Nick Fuentes — identified white nationalist — on Red Scare; she was subsequently dropped by talent agency Gersh and cut from the thriller film *Iconoclast* (dir. Gabriel Basso) before her contract was signed. Nekrasova has described herself as a Catholic and has adopted increasingly right-identified cultural positions post-2020.
 
@@ -35,12 +35,12 @@ Red Scare's revenue model is entirely subscriber-funded with no confirmed corpor
 2. **Free public episodes** — RSS feed via Libsyn, available on all major podcast platforms. Free episodes function as subscriber conversion funnels.
 3. **No confirmed corporate sponsors** — unlike Pod Save America (SiriusXM, corporate sponsors), Cenk Uygur (Katzenberg investment), or right-wing counterparts (Wilks/Daily Wire, Thiel/Rumble). The Encounter Books and Passages Publishing connections were reported in the context of a fashion event hosted by Khachiyan, not verified as podcast advertising contracts.
 
-**Patreon revenue trajectory:**
+### Patreon revenue trajectory:
 - ~$22K/month (late 2016 era comparisons show a slower start than Chapo)
 - Peak: ~$50K+/month (pre-November 2025)
 - Post-Fuentes controversy: revenue tracking suggests slight decline in paid members
 
-**Comparison to Chapo Trap House:**
+### Comparison to Chapo Trap House:
 Red Scare at peak generated roughly 25% of Chapo's Patreon revenue ($44K vs ~$200K/month), with a smaller paid subscriber base (8,652 vs ~47,000 paid). The structural comparison suggests Red Scare's subscriber base is shallower and more susceptible to disruption — more vulnerable to the November 2025 Fuentes controversy causing churn.
 
 ### FEC Record
@@ -71,11 +71,11 @@ No FEC individual contributions found. The FEC API returns 0 results for "KHACHI
 
 ### Who Funds Them
 
-**Confirmed:**
+### Confirmed:
 
 - **Patreon subscribers** — 8,652 paid members at ~$5/month average (March 2026). The subscriber base is the funding class. Unlike Chapo's 47,000 paid subscribers who are overwhelmingly DSA-adjacent, Red Scare's audience has drifted from dirtbag-left to "diverse from democratic socialists to right-wing populists, and trad Catholics to 'based' queers" (per contemporary descriptions). The funder profile has shifted rightward alongside the content.
 
-**Unconfirmed/Denied:**
+### Unconfirmed/Denied:
 
 - **Peter Thiel** — In April 2022, Khachiyan met with Thiel and Blake Masters (then Thiel Foundation president, later Arizona Senate candidate). Masters told Vanity Fair that Thiel found Red Scare "interesting" and, when asked if the podcast might receive Thiel funding, said "Maybe, yeah." Nekrasova and Khachiyan publicly denied receiving any Thiel funding. The meeting itself is confirmed; the financial relationship is denied but never conclusively disproven. Thiel's documented strategy of funding rightward-drifting media figures (Tim Pool via Rumble/Locals, Glenn Greenwald via Substack/Rumble, Tucker Carlson via 1789 Capital) makes Red Scare a plausible target — but as of 2026, no documented funding arrangement has surfaced.
 
@@ -87,19 +87,19 @@ No FEC individual contributions found. The FEC API returns 0 results for "KHACHI
 
 Red Scare's content has evolved through three distinct phases:
 
-**Phase 1 (2018-2020): Dirtbag Left Aesthetics**
+### Phase 1 (2018-2020): Dirtbag Left Aesthetics
 - Critique of neoliberalism, mainstream feminism, and "PMC" (professional-managerial class) liberalism
 - References to Mark Fisher, Slavoj Žižek, Camille Paglia, Christopher Lasch, Michel Houellebecq
 - Bernie Sanders-adjacent without Chapo's explicit electoral advocacy
 - "Bored irony" as political stance: contempt for social liberalism and desire to shock the bourgeoisie
 
-**Phase 2 (2020-2022): Post-Left Transition**
+### Phase 2 (2020-2022): Post-Left Transition
 - George Floyd protests (June 2020) as explicit turning point: hosts began distancing from BLM and left anti-racism
 - Shift from left-critical references to New Right touchstones: Bronze Age Pervert, Curtis Yarvin (neoreactionary), Steve Sailer ("race realist")
 - "Post-left" positioning: critique of the left as captured by identity politics, but without socialist economic analysis
 - Dimes Square scene coalesces: Lower Manhattan arts/media cluster blending ironic aesthetics with reactionary politics
 
-**Phase 3 (2022-present): MAGA-Adjacent New Right**
+### Phase 3 (2022-present): MAGA-Adjacent New Right
 - Thiel/Masters meeting (April 2022): legitimized connection to organized New Right donor infrastructure
 - Explicit Trump support in 2024 presidential election
 - Khachiyan: "We've always loved [Trump], even when we had to be down-low brothers about it"
@@ -122,11 +122,11 @@ Red Scare's audience capture model is the inverse of Chapo Trap House — and is
 
 ### What Their Funders Got
 
-**What the (original) subscriber class got:**
+### What the (original) subscriber class got:
 - 2018-2020: Validation of left critique of neoliberalism delivered through female voices in a scene (dirtbag left) that was overwhelmingly male; specific critique of liberal feminism resonated with young women alienated from mainstream feminist discourse
 - Literary and philosophical sophistication (Žižek, Fisher, Paglia, Lasch) as entertainment — class-marked content that signaled intellectual sophistication without academic gatekeeping
 
-**What the (current) subscriber class gets:**
+### What the (current) subscriber class gets:
 - Validation of "post-liberal" and MAGA-adjacent cultural politics delivered by aesthetically credible women in the New York arts world
 - "Ironic" cover for right-wing politics: content that can be described as provocation or transgression rather than sincere far-right commitment — until November 2025
 - Access to a crossover figure (Nekrasova/Succession) that bridges mainstream cultural capital and dissident right politics
@@ -157,7 +157,7 @@ Red Scare's audience capture model is the inverse of Chapo Trap House — and is
 
 ### Class Analysis
 
-**Who benefits from Red Scare existing:**
+### Who benefits from Red Scare existing:
 
 1. **The New Right donor ecosystem** — Red Scare provides a female-voiced, aesthetically sophisticated, culturally credible media product that reaches the educated urban demographic the New Right most wants but cannot reach through Fox News or Daily Wire. The show normalizes rightward drift as intellectual sophistication rather than reactionary populism. This is a unique market position that Tucker Carlson, Ben Shapiro, and Charlie Kirk cannot fill.
 
@@ -165,11 +165,11 @@ Red Scare's audience capture model is the inverse of Chapo Trap House — and is
 
 3. **Peter Thiel (potentially)** — If any financial relationship exists (denied but unconfirmed), Thiel gains exactly the media product his documented strategy targets: intellectual credibility, ironic detachment, and reach into demographics that resist crude right-wing populism. The Thiel portfolio (Substack via a16z, Rumble, Locals, 1789 Capital, Tucker Carlson Network) consistently targets media figures who can legitimize New Right ideas to audiences otherwise unreachable.
 
-**Who the platform structurally serves:**
+### Who the platform structurally serves:
 
 The vault's central thesis — donors control politicians — applies to media as: funders control content through financial dependency. Red Scare's case complicates this: the documented funding (Patreon subscribers) drifted right alongside the content, making it unclear whether the hosts led the audience or the audience led the hosts. The Thiel connection, if real, would clarify the causal chain. Without it, Red Scare is the vault's most complex audience capture case: a left podcast captured by its own rightward-moving audience, producing content that now serves a right-donor-class ecosystem even if it was never directly funded by one.
 
-**What Red Scare reveals about class and media independence:**
+### What Red Scare reveals about class and media independence:
 
 Red Scare started as proof that women-led, intellectually credible left commentary could sustain itself on Patreon without institutional backing. It ended as proof that Patreon-funded "independence" does not prevent capture — it just changes the capture mechanism from corporate/donor funding to audience preference feedback loops. The audience is the funder, and the audience moved right. The podcast followed. This is not donor-class capture but it is class capture: capture by a subscriber class whose politics shifted, pulling the editorial product with it.
 
@@ -179,16 +179,16 @@ Red Scare started as proof that women-led, intellectually credible left commenta
 
 **Income dependency:** 100% Patreon → subscriber preferences directly shape editorial viability. No advertiser relationships to constrain content in traditional ways, but subscriber churn is continuous financial signal.
 
-**Editorial red lines (subscriber-enforced, current):**
+### Editorial red lines (subscriber-enforced, current):
 - Cannot drift back toward progressive left without triggering right subscriber loss
 - Cannot fully disavow the Fuentes interview or Nick Fuentes adjacency without undermining the "anti-cancel-culture" positioning that defines current audience identity
 - Cannot criticize Trump or MAGA politics without alienating the post-2020 subscriber base
 - Cannot maintain Hollywood career alongside far-right podcast without institutional collision (November 2025 confirmed this)
 
-**Editorial red lines (institutional, external):**
+### Editorial red lines (institutional, external):
 - Mainstream entertainment industry (Gersh, film productions) cannot coexist with white nationalist platforming: Nekrasova discovered this in November 2025. The resolution was not compromise but separation: the podcast survives, the acting career does not.
 
-**What distinguishes Red Scare from Chapo (the comparison case):**
+### What distinguishes Red Scare from Chapo (the comparison case):
 Chapo's subscriber capture constrained hosts toward left consistency. Red Scare's subscriber capture accelerated hosts toward right drift. The mechanism is identical (Patreon financial signal shapes editorial direction); the direction differs because the audiences differ. The question of which came first — host drift or audience drift — is the analytical gap this profile cannot resolve without internal communications or financial records. The Thiel meeting suggests the hosts may have led the drift; the audience replacement pattern suggests the audience followed.
 
 ### Sources

@@ -1,7 +1,7 @@
 ---
 title: "Arkansas 2026 Senate Race"
 type: story
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -22,13 +22,13 @@ This is a decidedly safe Republican seat. A GrayHouse poll from February 2026 sh
 
 ### The Money Map
 
-**Fundraising through February 11, 2026 (post-primary):**
+### Fundraising through February 11, 2026 (post-primary):
 
 Cotton has built a substantial war chest with $11.88 million raised, $8.6 million spent, and $9.67 million in cash on hand. Shoffner, starting from a weaker position, has raised $1.24 million, spent $734,000, and holds $504,000 in cash.
 
 [!money] The disparity reflects both the structural advantages of incumbency and the donor class preference for Cotton's campaign. Shoffner faces a roughly 19-to-1 cash disadvantage heading into the general election.
 
-**Arkansas Top Donors (2024 cycle):**
+### Arkansas Top Donors (2024 cycle):
 
 - Stephens Inc: $19 million
 - Mountaire Corp: $11 million

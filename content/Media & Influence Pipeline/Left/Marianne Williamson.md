@@ -25,7 +25,7 @@ Marianne Williamson is an author, spiritual teacher, and two-time Democratic pre
 
 The FEC API returns 0 results for "WILLIAMSON, MARIANNE" as a contributor to other campaigns. This is analytically significant: despite running two presidential campaigns ($8.4M raised in 2020, $5.4M in 2024), Williamson made zero traceable contributions to other federal candidates. Her political engagement is exclusively through her own candidacy, not through the donor pipeline that funds other Democrats.
 
-**As a candidate (FEC filings):**
+### As a candidate (FEC filings):
 - **2020 campaign:** $8,403,835 total receipts (Nov 2018 - Dec 2020), ~70% small-dollar, 100K+ individual donors
 - **2024 campaign:** $5,404,966 total receipts (Jul 2022 - Dec 2024), weaker trajectory, no debate platform
 
@@ -48,14 +48,14 @@ The small-dollar model theoretically democratizes funding: no mega-donors, no su
 
 ### Who Funds Them
 
-**2020 primary:**
+### 2020 primary:
 - Individual small-dollar donors (100,000+ contributors)
 - Geographic concentration: progressive enclaves (SF Bay Area, LA, NYC, Boston, Chicago)
 - Occupational concentration: creative workers, service sector, tech workers, college-educated professionals
 - Demographic: women-skewed, higher education attainment, younger average age, predominantly white with growing Black and Latino support
 - Class position: solidly upper-middle-class donor base; not working class; not precariat
 
-**2024 primary:**
+### 2024 primary:
 - Similar demographic but smaller in magnitude
 - Weaker fundraising growth suggesting donor fatigue
 - Base less enthusiastic than 2020
@@ -98,13 +98,13 @@ Williamson's constituency consists of:
 
 ### What Their Funders Got
 
-**2020:**
+### 2020:
 - Platform voice for reparations and spiritual transformation; validation for progressive donors' values
 - Demonstration that small-dollar fundraising could compete with billionaire-funded campaigns (initially)
 - Media coverage and debate stage that amplified progressive policy agenda
 - Participation in Democratic primary process; sense of political efficacy through campaign funding
 
-**2024:**
+### 2024:
 - Less tangible return: no debate platform; limited media attention; campaign repeated rather than progressed
 - Funder frustration evident in weaker fundraising relative to 2020
 - Lack of measurable political impact (no policy victories, no primary wins)
@@ -156,13 +156,13 @@ Her campaigns expose Democratic Party gatekeeping: not through censorship (Willi
 
 **Income dependency:** Small-dollar fundraising (80%), book royalties (15%), speaking/media appearances (5%)
 
-**Editorial red lines:**
+### Editorial red lines:
 - CANNOT abandon reparations as campaign centerpiece (core to base differentiation)
 - CANNOT accept institutional Democratic Party constraint on policy positions
 - CANNOT moderate spiritual/consciousness framing (core to unique positioning)
 - CANNOT compete for working-class donors without changing class composition
 
-**Structural constraints that shape campaign:**
+### Structural constraints that shape campaign:
 - Small-dollar model requires constant fundraising; forces continuous messaging to maintain donor enthusiasm
 - Debate access critical to viability but controlled by DNC gatekeeping
 - Media coverage concentrated on "outsider" angle rather than policy substance

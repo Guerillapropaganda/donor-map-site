@@ -1,7 +1,7 @@
 ---
 title: "AIPAC - American Israel Public Affairs Committee"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null

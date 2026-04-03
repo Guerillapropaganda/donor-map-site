@@ -31,7 +31,7 @@ Hoover's founding mission, articulated in a 1959 statement to the Stanford Board
 
 **Deputy Director:** Eric Wakin (also Director of Library & Archives).
 
-**Notable fellows (current and recent):**
+### Notable fellows (current and recent):
 - **Victor Davis Hanson** — Military historian, prominent conservative commentator, Trump supporter
 - **Thomas Sowell** — Economist, conservative intellectual, free-market advocate
 - **Niall Ferguson** — Historian, conservative public intellectual
@@ -51,7 +51,7 @@ Hoover's founding mission, articulated in a 1959 statement to the Stanford Board
 
 Hoover's funding model combines a large endowment with aggressive private fundraising from conservative donors. Because Hoover is a division of Stanford rather than an independent 501(c)(3), its donor disclosures are less transparent than standalone nonprofits — there are no public Form 990 filings listing specific contributions.
 
-**Known major funders (per MediaBias/FactCheck, Inside Philanthropy, DeSmog, and InfluenceWatch):**
+### Known major funders (per MediaBias/FactCheck, Inside Philanthropy, DeSmog, and InfluenceWatch):
 
 | Funder | Type | Estimated Giving | Key Connection |
 |--------|------|-----------------|----------------|
@@ -65,10 +65,10 @@ Hoover's funding model combines a large endowment with aggressive private fundra
 | **Annenberg Foundation** | Foundation | $10M (2014 grant) | Established "Annenberg Strategic Initiative" endowment |
 | **Charles Koch Foundation** | Foundation | Ongoing | Also funds Heritage, Cato, AEI |
 
-**Historical corporate funders (per DeSmog/SourceWatch):**
+### Historical corporate funders (per DeSmog/SourceWatch):
 - Archer Daniels Midland Foundation, ARCO Foundation, Boeing-McDonnell Foundation, Chrysler Corporation Fund, Dean Witter Foundation, Exxon Educational Foundation, Ford Motor Company Fund, General Electric Foundation, J.P. Morgan Charitable Trust, Procter & Gamble Fund, and others.
 
-**Board of Overseers — the donor class in plain view:**
+### Board of Overseers — the donor class in plain view:
 
 The Board of Overseers is Hoover's governing body, independent of Stanford's Board of Trustees. It reads as a who's-who of conservative wealth and political power. Key members include:
 
@@ -93,29 +93,29 @@ The Board of Overseers is Hoover's governing body, independent of Stanford's Boa
 
 Hoover operates across several policy domains, all framed through the institution's founding commitment to free markets, limited government, and American military strength:
 
-**1. Economics and free markets**
+### 1. Economics and free markets
 - Friedman and Hayek's work at Hoover provided the intellectual foundation for supply-side economics and deregulation from the 1970s through the Reagan era
 - John Taylor's "Taylor Rule" for monetary policy remains a cornerstone of Federal Reserve analysis
 - Thomas Sowell's work on race, economics, and social policy is among the most widely cited conservative scholarship in America
 - Ongoing research supporting tax cuts, deregulation, and market-based solutions to social problems
 
-**2. National security and foreign policy**
+### 2. National security and foreign policy
 - Condoleezza Rice's directorship makes Hoover a hub for Republican foreign policy talent
 - H.R. McMaster and Jim Mattis provide Trump-era national security credentials
 - The Koret-Taube Task Force on National Security and Law addresses counterterrorism legal frameworks
 - Historical archives on Cold War, Soviet Union, and military strategy provide scholarly depth
 
-**3. Education policy**
+### 3. Education policy
 - The Koret Task Force on K-12 Education is Hoover's most direct policy-to-legislation pipeline
 - Research supports school choice, charter schools, vouchers, and accountability testing
 - *Education Next* (Hoover quarterly publication) is among the most influential education policy journals in the country
 
-**4. History and political thought**
+### 4. History and political thought
 - Victor Davis Hanson produces military history and conservative cultural commentary with enormous popular reach
 - Niall Ferguson's work on empire, finance, and civilization history carries mainstream academic credibility
 - The Hoover Library & Archives holds millions of primary documents on 20th century history
 
-**5. Technology and governance**
+### 5. Technology and governance
 - Growing focus on AI, cybersecurity, and technology governance
 - Fellows like Amy Zegart work on intelligence and emerging technology threats
 
@@ -127,7 +127,7 @@ Hoover operates across several policy domains, all framed through the institutio
 
 Hoover's policy pipeline operates through a distinctive mechanism: the prestige of Stanford University's brand combined with the independence of a conservative donor-funded think tank.
 
-**How Hoover research becomes policy:**
+### How Hoover research becomes policy:
 
 1. **Conservative donors fund specific research programs** — Koret funds education, Taube funds national security, Scaife/Bradley fund economics
 2. **Hoover fellows produce scholarship with Stanford's imprimatur** — Research carries "Stanford University" credibility even though Stanford has minimal control over Hoover's output
@@ -159,7 +159,7 @@ Hoover's policy pipeline operates through a distinctive mechanism: the prestige 
 
 Hoover's revolving door is its primary competitive advantage over other conservative think tanks. Heritage and AEI produce policy papers; Hoover produces Secretaries of State and Defense.
 
-**Government-to-Hoover pipeline (selected):**
+### Government-to-Hoover pipeline (selected):
 
 | Name | Government Role | Hoover Role | Direction |
 |------|----------------|-------------|-----------|
@@ -183,29 +183,29 @@ Hoover's revolving door is its primary competitive advantage over other conserva
 
 ### What Their Funders Got
 
-**Conservative foundations (Scaife, Bradley, Simon, Koch) got:**
+### Conservative foundations (Scaife, Bradley, Simon, Koch) got:
 - The intellectual architecture of Reaganomics: supply-side economics, deregulation, anti-union labor policy, all developed and legitimized by Nobel laureates at Hoover
 - Five decades of free-market economic scholarship that frames regulation as government overreach
 - Education policy research supporting vouchers, charter schools, and weakening public education unions
 - Stanford University's brand laundering their ideological investments as "academic research"
 
-**Taube/Koret got:**
+### Taube/Koret got:
 - The directorship named after them — the institutional identity stamped with their name
 - National security and education task forces bearing their names
 - Direct shaping of K-12 education policy through the Koret Task Force
 - A permanent seat at the table of conservative intellectual infrastructure
 
-**Harlan Crow got:**
+### Harlan Crow got:
 - Board of Overseers seat at the institution that produces Republican Cabinet members
 - Network access to Condoleezza Rice, Jim Mattis, H.R. McMaster, and the Republican national security establishment
 - The same proximity to conservative institutional power that he purchases with Clarence Thomas
 
-**Rebekah Mercer got:**
+### Rebekah Mercer got:
 - Board seat connecting Breitbart/Cambridge Analytica-style populist conservatism to Hoover's establishment conservative credentialism
 - Legitimacy-laundering: the Mercer name associated with Stanford rather than Steve Bannon
 - Access to the Republican foreign policy and defense establishment
 
-**Rupert Murdoch got:**
+### Rupert Murdoch got:
 - Board seat at the institution that produces the experts his media empire amplifies
 - Closed loop: Hoover produces the scholarship → Fox News distributes it → public opinion shifts → Republican administrations implement it → Hoover fellows staff the administration
 - Stanford credibility attached to Fox News contributors (Hanson, Ferguson, others)

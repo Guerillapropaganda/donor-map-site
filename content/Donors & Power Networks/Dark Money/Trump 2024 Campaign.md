@@ -1,7 +1,7 @@
 ---
 title: "Trump 2024 Campaign"
 type: pac
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -82,7 +82,7 @@ The 2024 Trump operation used a multi-layered super PAC structure that allowed d
 
 ### Top Contributors — The Donor Class Map
 
-**OpenSecrets data, 2024 cycle (campaign + outside groups combined):**
+### OpenSecrets data, 2024 cycle (campaign + outside groups combined):
 
 | Contributor | Total | Primary Interest |
 |------------|-------|-----------------|
@@ -97,7 +97,7 @@ The 2024 Trump operation used a multi-layered super PAC structure that allowed d
 | Uline Inc / Richard Uihlein | $13,023,873 | Manufacturing, anti-union |
 | Energy Transfer LP / Kelcy Warren | $12,548,084 | Pipeline approvals, fossil fuel deregulation |
 
-**Top industry sectors:**
+### Top industry sectors:
 
 | Sector | Total | What They Bought |
 |--------|-------|-----------------|

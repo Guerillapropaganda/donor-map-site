@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Industry Bloc — Fairshake PAC Network"
 type: pac
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -52,7 +52,7 @@ The underlying ask: legalize and protect the industry's revenue model through ca
 
 ### Who They Fund
 
-**Major Donors to Fairshake Network (2024):**
+### Major Donors to Fairshake Network (2024):
 
 | Donor | Amount | Entity Type |
 |-------|--------|-------------|
@@ -63,7 +63,7 @@ The underlying ask: legalize and protect the industry's revenue model through ca
 | Chris Larsen | $11M+ | Ripple co-founder (personal) |
 | Winklevoss twins | $4.9M | Gemini founders (personal) |
 
-**Targeted Electoral Campaigns (2024):**
+### Targeted Electoral Campaigns (2024):
 
 | Target | Race | Amount | Outcome |
 |--------|------|--------|---------|
@@ -74,7 +74,7 @@ The underlying ask: legalize and protect the industry's revenue model through ca
 
 The targeting pattern is deliberate: anti-crypto incumbents and primary challengers who opposed the industry face overwhelming ad campaigns. The money flows to destroy political opposition.
 
-**Trump 2.0 Inaugural & Transition Donations:**
+### Trump 2.0 Inaugural & Transition Donations:
 
 - $18M+ in contributions to Trump inaugural committee
 - Direct funding of crypto-friendly appointees and transition officials
@@ -84,7 +84,7 @@ The targeting pattern is deliberate: anti-crypto incumbents and primary challeng
 
 ### What They've Gotten
 
-**The Policy Sweep Under Trump 2.0 (Jan–March 2026):**
+### The Policy Sweep Under Trump 2.0 (Jan–March 2026):
 
 | Date | Policy Win | Significance | Time Gap |
 |------|-----------|--------------|----------|
@@ -106,17 +106,17 @@ The targeting pattern is deliberate: anti-crypto incumbents and primary challeng
 
 Fairshake represents the maturation of Citizens United politics: an entire industry pooling resources to purchase a complete regulatory framework designed by the industry itself.
 
-**The Business Model:**
+### The Business Model:
 
 The 53-5 win record proves the model works. It demonstrated a critical threshold: **the cost of opposing crypto now exceeds the benefit of incumbent safety.** Legislators learned that voting against crypto means facing multi-million-dollar attack campaigns in their next primary or general election. This is not lobbying — it is an enforcement mechanism. The money doesn't persuade; it threatens.
 
 Katie Porter, Sherrod Brown, Jamaal Bowman, and Cori Bush all lost races where Fairshake spent millions in opposition advertising. The message to surviving legislators is clear: the cost of crypto opposition is career-ending. This structural fear is more powerful than any lobbying argument.
 
-**The Replication Effect:**
+### The Replication Effect:
 
 The Fairshake playbook has become the template for CEO-driven regulatory capture. Meta launched a $65M state super PAC operation (American PAC) copying Fairshake's targeting and spend model. Andreessen Horowitz is preparing a $125M AI super PAC (Leading the Future) using the identical playbook. Josh Vlasto — former aide to Schumer and Cuomo, now connecting crypto money, AI money, and pro-Israel advocacy spending as a single operative — is literally the consultant orchestrating the replication.
 
-**The Structural Innovation:**
+### The Structural Innovation:
 
 Previous super PACs spent money on persuasion (TV ads, mail, digital). Fairshake treats political spending as regulatory enforcement. The goal is not to persuade the 30% of voters who are swing voters — it is to establish a cost structure that makes opposition politically suicidal for any legislator who might be vulnerable to primary challenge or general election pressure.
 

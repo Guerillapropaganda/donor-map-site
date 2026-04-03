@@ -29,7 +29,7 @@ BPC's roots trace to 2002, when the National Commission on Energy Policy (NCEP) 
 
 **Former President & CEO:** Jason Grumet (2007–January 2023). Founded BPC and ran it for 15 years. Left to become CEO of the American Clean Power Association — a direct revolving door move from "bipartisan" policy think tank to clean energy industry trade group. Compensation peaked at $769K + $192K related (FY2022).
 
-**Key staff:**
+### Key staff:
 - William Hoagland (Senior VP, $254K + $85K from related org) — former staff director of Senate Budget Committee
 - Steven Scully (SVP Communications, $363K) — former C-SPAN political editor
 - Dennis Shea (Executive Director, Housing, $332K) — former HUD Deputy Secretary under Trump
@@ -45,20 +45,20 @@ BPC's roots trace to 2002, when the National Commission on Energy Policy (NCEP) 
 
 BPC's funding model mixes corporate sponsorship, foundations, and individual donors. In FY2024, per BPC's own disclosures: 78% from institutional foundations, 20% from corporates and other sources, 2% from individual and family foundations.
 
-**Known corporate funders and sponsors:**
+### Known corporate funders and sponsors:
 - **Google** — Funded BPC's 2024 AI education project for legislators
 - **Nvidia** — Funded BPC energy report on data center demand (cited in 2025 congressional testimony)
 - **Hewlett Foundation** — Early and ongoing funder (energy policy)
 - **MacArthur Foundation** — General support
 
-**Historical corporate funders (per InfluenceWatch/DeSmog):**
+### Historical corporate funders (per InfluenceWatch/DeSmog):
 - Energy companies (through the NCEP predecessor and ongoing Energy Project)
 - Healthcare industry actors (through the Health Program)
 - Housing and real estate interests (through the Terwilliger Center for Housing Policy, named after former National Association of Home Builders chair Ron Terwilliger)
 
 **The Harvard ethics report:** In 2013, the Edmond & Lily Safra Center for Ethics at Harvard University published research finding that BPC "advanced the interests of its funders, including corporations and industry associations who provide operational support and philanthropies that fund much of the center's programmatic work." This is the most direct academic critique of BPC's funding-to-policy pipeline.
 
-**Board of Directors (FY2024, selected):**
+### Board of Directors (FY2024, selected):
 
 | Name | Title | Background |
 |------|-------|-----------|
@@ -101,7 +101,7 @@ BPC operates through six major policy programs, each with its own corporate and 
 
 BPC's policy pipeline operates through the "bipartisan commission" model: assemble a panel of former officials from both parties, produce consensus recommendations, present them as the "reasonable middle" that transcends partisan conflict.
 
-**How BPC research becomes policy:**
+### How BPC research becomes policy:
 
 1. **Corporate or foundation funds a program** — Energy companies fund energy research, health industry funds health research, Google funds AI research
 2. **BPC convenes bipartisan commission** — Former senators, governors, Cabinet secretaries from both parties co-chair
@@ -130,7 +130,7 @@ BPC's policy pipeline operates through the "bipartisan commission" model: assemb
 
 BPC's revolving door is its core design feature. The institution exists as a credentialed landing pad for former officials and a launching pad for future ones.
 
-**Board-to-government / government-to-board pipeline:**
+### Board-to-government / government-to-board pipeline:
 
 | Name | Government Role | BPC Role | Direction |
 |------|----------------|----------|-----------|
@@ -155,27 +155,27 @@ BPC's revolving door is its core design feature. The institution exists as a cre
 
 ### What Their Funders Got
 
-**Energy industry funders got:**
+### Energy industry funders got:
 - "All-of-the-above" energy framing that preserves fossil fuel production while adding renewables
 - Bipartisan cover for opposing aggressive climate regulation
 - The NCEP-to-BPC pipeline: an energy industry initiative rebranded as nonpartisan policy research
 - Nvidia's data center demand report presented as objective analysis rather than industry advocacy
 
-**Tech industry (Google, Nvidia) got:**
+### Tech industry (Google, Nvidia) got:
 - Legislative framing of AI as opportunity rather than threat requiring regulation
 - Bipartisan legitimacy for tech policy preferences
 - Direct access to legislators through BPC-organized briefings
 
-**Healthcare industry got:**
+### Healthcare industry got:
 - Reform proposals that preserve the private insurance model while addressing cost concerns
 - Bipartisan consensus against more structural reforms (single-payer, public option)
 
-**Real estate / housing industry got:**
+### Real estate / housing industry got:
 - Terwilliger Center for Housing Policy — named after a homebuilder industry leader
 - Housing supply proposals that favor development industry interests
 - Three former HUD secretaries legitimizing industry-friendly housing policy
 
-**Both parties' political establishments got:**
+### Both parties' political establishments got:
 - A credentialed retirement home for former officials (with compensation: Spellings at $1M+, Grumet at $960K+)
 - "Bipartisan" brand that maintains the centrist consensus against both left-wing and right-wing populism
 - Think tank infrastructure that frames the establishment position as the moderate, reasonable default

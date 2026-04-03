@@ -32,7 +32,7 @@ The Claremont Institute's stated mission is "to restore the principles of the Am
 
 **Vice Chair:** Dr. Larry P. Arnn — simultaneously president of Hillsdale College, creating a direct institutional bridge between the two flagship organizations of the intellectual New Right.
 
-**Key personnel (per ProPublica FY2024 filing):**
+### Key personnel (per ProPublica FY2024 filing):
 - **Dr. Charles Kesler** (Director, CRB Editor, $227K) — editor of the *Claremont Review of Books*, the institute's flagship publication
 - **Arthur Milikh** (Executive Director, $198K + $24K) — runs the Center for the American Way of Life
 - **Michael Anton** (Senior Fellow, $164K + $18K) — author of the "Flight 93 Election" essay (2016) arguing that a Hillary Clinton presidency would be the final destruction of America and voting for Trump was the equivalent of charging the cockpit
@@ -49,7 +49,7 @@ Claremont's funding model is dominated by a single mega-donor — board chair Th
 
 **Revenue composition (FY2024):** 90.2% contributions, 4.1% program services, 1.7% investment income.
 
-**Key funders:**
+### Key funders:
 
 | Funder | Type | Amount/Period | Key Connection |
 |--------|------|---------------|----------------|
@@ -73,13 +73,13 @@ Claremont's funding model is dominated by a single mega-donor — board chair Th
 
 Claremont's output operates on three levels: intellectual publication, personnel training, and constitutional litigation.
 
-**1. The Claremont Review of Books (CRB)**
+### 1. The Claremont Review of Books (CRB)
 - Quarterly journal edited by Charles Kesler — the New Right's most intellectually serious publication
 - Provides the philosophical framework for Trumpism rooted in natural law and the American Founding
 - Publishes Anton, Caldwell, Kesler, and other Claremont-aligned intellectuals
 - Functions as a recruiting tool: promising writers become fellows, fellows become movement leaders
 
-**2. Fellowship programs (5 active programs)**
+### 2. Fellowship programs (5 active programs)
 - **Publius Fellowship** — the flagship, for emerging conservative writers and thinkers
 - **Lincoln Fellowship** — for young professionals in government and policy
 - **John Marshall Fellowship** — for lawyers, focused on constitutional jurisprudence
@@ -88,18 +88,18 @@ Claremont's output operates on three levels: intellectual publication, personnel
 
 The fellowship programs are Claremont's primary pipeline mechanism. Notable alumni include JD Vance, Josh Hawley, Tom Cotton, Ben Sasse, Ron DeSantis, and other figures in the New Right political orbit.
 
-**3. Center for Constitutional Jurisprudence (CCJ)**
+### 3. Center for Constitutional Jurisprudence (CCJ)
 - Founded and led by John Eastman (until his disbarment)
 - Files amicus briefs advancing originalist constitutional interpretation
 - Strategic constitutional litigation challenging progressive regulatory frameworks
 
-**4. Center for the American Way of Life**
+### 4. Center for the American Way of Life
 - Led by Arthur Milikh
 - Explicitly aims to "undermine the Left's hold over America's institutions"
 - Produces policy proposals on immigration, education, culture, and institutional reform
 - The operational arm that translates Claremont's philosophy into political action
 
-**5. The American Mind (online journal)**
+### 5. The American Mind (online journal)
 - Daily publication covering politics, culture, and philosophy from the New Right perspective
 
 ---
@@ -108,7 +108,7 @@ The fellowship programs are Claremont's primary pipeline mechanism. Notable alum
 
 Claremont's pipeline is distinctive among conservative think tanks: it doesn't primarily produce policy papers that become legislation. It produces the intellectual framework and the personnel that reshape what conservatism itself means.
 
-**How Claremont shapes the political landscape:**
+### How Claremont shapes the political landscape:
 
 1. **Philosophical framework first** — Jaffa's natural law constitutionalism → Kesler's political philosophy → Anton's "Flight 93" crisis framing → the New Right's conclusion that American institutions are fundamentally corrupted and must be seized, not reformed
 2. **Fellowship programs train the cadre** — Young conservatives absorb the framework through intensive seminars, then enter government, media, law, and politics
@@ -140,7 +140,7 @@ Claremont's pipeline is distinctive among conservative think tanks: it doesn't p
 
 Claremont's revolving door operates differently from the typical think tank model. Rather than former officials landing at Claremont after government service, Claremont trains young conservatives who then enter government as the movement's cadre.
 
-**Fellowship alumni in government (selected):**
+### Fellowship alumni in government (selected):
 
 | Name | Claremont Connection | Government/Political Role | Direction |
 |------|----------------------|--------------------------|-----------|
@@ -165,23 +165,23 @@ Claremont's revolving door operates differently from the typical think tank mode
 
 ### What Their Funders Got
 
-**Thomas Klingenstein got:**
+### Thomas Klingenstein got:
 - Total organizational control — board chair, dominant funder, ideological patron
 - His "cold civil war" thesis adopted as the New Right's master narrative
 - An intellectual infrastructure that translates Wall Street money into populist nationalism
 - The institutional credibility to be a major conservative thought leader despite no government experience
 
-**Bradley Foundation got:**
+### Bradley Foundation got:
 - A pipeline that produces senators, governors, and a vice president aligned with the conservative donor network's interests
 - The "Flight 93 Election" framework that made Trump acceptable to conservative intellectuals
 - Constitutional jurisprudence infrastructure (CCJ) that challenges progressive regulation
 - Continued post-Jan 6 influence over the New Right's intellectual direction
 
-**DeVos Foundation got:**
+### DeVos Foundation got:
 - Fellowship alumni who support education privatization, school choice, and weakening teachers' unions
 - Institutional alignment between Claremont's anti-"administrative state" philosophy and DeVos's education deregulation agenda
 
-**The broader conservative donor class got:**
+### The broader conservative donor class got:
 - Intellectual justification for populist nationalism that doesn't threaten the economic interests of its funders
 - A "New Right" that rails against elites while being funded by a Wall Street investment partner (Klingenstein)
 - The philosophical infrastructure that converts working-class anger into political outcomes (tax cuts, deregulation, judicial appointments) that serve the donor class

@@ -1,7 +1,7 @@
 ---
 title: "LARA Fund - Mauricio Claver-Carone"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 2
 parent: null

@@ -28,7 +28,7 @@ Reid was a powerful progressive on selected issues (labor alliance, some environ
 
 ### Donor Class Map
 
-**Top Nevada donors and policy returns:**
+### Top Nevada donors and policy returns:
 
 | Donor/Sector | Amount (Career) | Policy Return | Mechanism |
 |---|---|---|---|
@@ -51,13 +51,13 @@ Reid was a powerful progressive on selected issues (labor alliance, some environ
 
 ### Analytical Patterns
 
-**Pattern: Two-Audience Problem**
+### Pattern: Two-Audience Problem
 Reid performed progressivism on national votes (healthcare, labor, tax policy) while delivering capture on Nevada state issues (gaming, development, mining). His national voting record was real; his state-level delivery to donors was equally real. Voters saw the votes; they didn't see the regulatory permits and water rights.
 
-**Pattern: Genuine Win + Structural Limit**
+### Pattern: Genuine Win + Structural Limit
 Reid secured real healthcare reform (ACA), real labor support, real votes against Republican obstruction. These are genuine policy wins that helped Nevada voters. However, they operated within limits: Nevada's gaming economy remained extractive, inequality accelerated, real wages for service workers stagnated despite union presence, and development enriched corporations while producing low-wage service jobs. The structural limits protected donor interests.
 
-**Pattern: Revolving Door (Light Version)**
+### Pattern: Revolving Door (Light Version)
 Reid's post-Senate career includes a lobbying firm (The Reid Group) and consulting work directly with Nevada corporations and foreign entities. His Senate power translated directly into post-Senate income from the industries he regulated.
 
 ### Class Analysis

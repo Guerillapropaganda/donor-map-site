@@ -1,7 +1,7 @@
 ---
 title: "Christopher Rufo"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -48,7 +48,7 @@ Note: Rufo does not make significant federal campaign contributions. His politic
 
 The donor class that funds Rufo operates through three primary mechanisms: direct Manhattan Institute funding, American Studio nonprofit funding, and Bradley Prize designation. These donors are not choosing Rufo randomly—they are funding the specific policy output that his campaigns produce.
 
-**Manhattan Institute funders (Rufo's institutional salary, research platform):**
+### Manhattan Institute funders (Rufo's institutional salary, research platform):
 
 - [[DonorsTrust]]: $2.1M+ cumulative to Manhattan Institute; $370K specifically to American Studio (dark money pass-through)
 - [[Bradley Foundation]]: $8.6M cumulative to Manhattan Institute; $250K earmarked for Rufo's anti-CRT initiatives
@@ -67,24 +67,24 @@ These are not philanthropic donations in the traditional sense. They are investm
 
 Rufo's content agenda is tightly aligned with donor interests. He has pushed:
 
-**Anti-CRT Campaign (his original and most successful project):**
+### Anti-CRT Campaign (his original and most successful project):
 - Began as research project inside Manhattan Institute (funder-directed)
 - Weaponized the term "critical race theory" to encompass all race-conscious curriculum, diversity initiatives, and historical honesty about race in America
 - Rufo himself documented the strategy: "We'll take the academic framework and make it available to dark money groups, and they'll do the legwork."
 - Result: The brand became toxic. Public perception of CRT went from neutral (5% awareness in 2020) to overwhelmingly negative (75% unfavorable by 2022) in 18 months through coordinated media + dark money campaigns
 
-**Anti-DEI Agenda:**
+### Anti-DEI Agenda:
 - Pushed federal ban on diversity training (Executive Order 13950, Sept 2020—which Rufo helped draft)
 - Escalated to state legislation banning DEI initiatives entirely (Florida HB 7, "Stop WOKE Act")
 - Targeted university DEI offices specifically, demanding elimination of "diversity bureaucracy"
 - Attacked gender studies programs as ideological capture
 
-**Policy Architecture for State-Level Restrictions:**
+### Policy Architecture for State-Level Restrictions:
 - Provided model legislation that states adopted verbatim
 - Wrote white papers that became talking points for Republican governors
 - Positioned Manhattan Institute as policy factory for the culture war
 
-**New College of Florida Takeover (Jan 2023–present):**
+### New College of Florida Takeover (Jan 2023–present):
 - Appointed to Board of Trustees by Ron DeSantis
 - Orchestrated firing of President Richard Okker (Jan 31, 2023)
 - Directed closure of DEI office and gender studies program
@@ -99,7 +99,7 @@ This is NOT traditional audience capture. The mechanism is inverted.
 
 Rufo does not follow audience demand—he *manufactures* audience demand through strategic information control and then provides the policy solutions his funders have already designed. This is the inverse of the two-audience problem: instead of lying to voters while keeping donors happy, Rufo manufactures voter anger about issues donors have selected, creating the *appearance* of grassroots demand for policies that serve donor interests.
 
-**The mechanism:**
+### The mechanism:
 
 1. **Donor selects policy outcome:** Bradley Foundation, Koch, DonorsTrust decide they want to eliminate institutional DEI infrastructure
 2. **Think tank does research:** Manhattan Institute receives funding to develop policy proposals for DEI elimination
@@ -121,7 +121,7 @@ Rufo is the machinery that makes this possible. Without him, the manufactured pa
 
 **Trump January 2025 DEI Executive Orders:** Rufo met with Trump transition team at Mar-a-Lago (November 2024). The DEI elimination orders Trump signed in January 2025 track Rufo's specific proposals almost verbatim. Return: federal policy without Congressional approval.
 
-**New College of Florida Institutional Capture (2023–2025):**
+### New College of Florida Institutional Capture (2023–2025):
 - President Okker fired
 - DEI office eliminated
 - Gender studies program terminated

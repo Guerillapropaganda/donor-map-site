@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Most Expensive House Races 2026"
 type: story
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -60,7 +60,7 @@ Chatzky's personal financial commitment—$5 million in self-loans—signals bot
 
 Vindman leads Frontline fundraising for three consecutive quarters, driven by a remarkable donor profile: 88.5% of donations originate from out-of-state sources. His status as a decorated Army officer and impeachment witness created a national fundraising halo unavailable to most freshman candidates. QuiverQuant estimates the race will consume $56.4 million over two years.
 
-**Outside Spending Deep Dive:**
+### Outside Spending Deep Dive:
 - House Majority PAC: $8.9M
 - American Patriots PAC: $6.2M
 - Congressional Leadership Fund: $3.3M
@@ -97,7 +97,7 @@ The America PAC allocation reveals fragmentary Republican spending—Musk's $1.0
 
 Mackenzie won by one point in 2024 with a two-year total of $37 million. QuiverQuant projects the race will consume $56.7 million over two years—a 53% spending increase despite no significant change in underlying competitiveness. His freshman status makes him vulnerable to a second-wave challenge.
 
-**Outside Group Hierarchy:**
+### Outside Group Hierarchy:
 - House Majority PAC: $14.1M
 - Congressional Leadership Fund: $9.7M
 
@@ -121,7 +121,7 @@ Evans's 0.7-point victory in 2024 placed her among the most vulnerable freshmen.
 
 ### CA-40 & CA-41: The Golden State Concentration
 
-**CA-40: Young Kim (R)**
+### CA-40: Young Kim (R)
 
 Kim raised $1.5 million in Q4 2025, maintaining a $5.5 million cash position. Her media buy of $3.25 million represented one of the cycle's largest. California's Proposition 50 redistricting moved CA-40 further Republican—the only House district nationally to shift rightward. This defensive requirement paradoxically requires offensive-level spending to protect an improving seat.
 

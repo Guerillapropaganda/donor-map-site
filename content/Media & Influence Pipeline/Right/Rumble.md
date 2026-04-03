@@ -1,7 +1,7 @@
 ---
 title: "Rumble"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 category: right
@@ -52,7 +52,7 @@ Note: Rumble is a Canadian-incorporated company (Delaware subsidiary). Its found
 
 ### Who Funds Them
 
-**Institutional Investors:**
+### Institutional Investors:
 - [[Peter Thiel]] — Direct investor; co-led Narya Capital round May 2021; called "first outside investor"
 - [[Narya Capital]] — JD Vance and Colin Greenspon (backed by Thiel, Eric Schmidt, Marc Andreessen); valued platform at ~$500M; placed board member Ethan Fallang
 - [[Colt Ventures]] — Darren Blanton (Trump campaign advisor); early investor in Narya round
@@ -60,15 +60,15 @@ Note: Rumble is a Canadian-incorporated company (Delaware subsidiary). Its found
 - [[Tether]] — Paolo Ardoino (CEO); $775M investment December 2024; 48% of Class A float; committed $100M advertising + $150M GPU services over two years
 - **Northern Data AG** — German AI compute company; Rumble announced all-stock acquisition (~$767M, 2.0281 shares per ND share) November 2025; Tether owns 54% of Northern Data
 
-**Content Creator / Equity Partner:**
+### Content Creator / Equity Partner:
 - [[Dan Bongino]] — ~5.8% equity stake (~$160M valuation); exclusive podcast deal; Trump's Deputy FBI Director nominee
 
-**Government Customers:**
+### Government Customers:
 - **Trump Media & Technology Group** — Rumble Cloud provides infrastructure for Truth Social
 - **Government of El Salvador** — Cloud services contract January 2025 (Nayib Bukele, Trump ally)
 - **White House** — Official channel established February 2025 (rumble.com/whitehouse)
 
-**Platform Revenue Dependency (secondary):**
+### Platform Revenue Dependency (secondary):
 - Advertising through Rumble Advertising Center (RAC); extremely low ARPU ($0.34-$0.46 per user per quarter; YouTube ≈ $8 per user per year)
 - Subscription revenue through Locals.com acquisition (October 2021); Q2 2022: $7.5M transaction value (400% YoY)
 - Tipping and campaign contributions through Rumble Wallet
@@ -82,7 +82,7 @@ Note: Rumble is a Canadian-incorporated company (Delaware subsidiary). Its found
 
 Rumble's content strategy operates through two contradictory narratives: stated commitment to minimal moderation in the name of free speech, and selective enforcement that disproportionately protects right-wing and foreign state content.
 
-**Official content categories hosted:**
+### Official content categories hosted:
 - Far-right commentary and personalities; platforming for commentators deplatformed by YouTube (e.g., Alex Jones, Steven Crowder, Russell Brand)
 - Russian state media (RT/RT America) until Russia itself banned Rumble (March 2024)
 - Holocaust denial and Nazi-adjacent content (Stew Peters hosting content calling Hitler a potential hero; describing Nazi book burning as "justified")
@@ -91,7 +91,7 @@ Rumble's content strategy operates through two contradictory narratives: stated 
 - COVID-19 misinformation (platform feature for commentators like Bongino kicked off YouTube for medical misinformation)
 - Trump campaign infrastructure (RNC debate livestreaming, official White House channel)
 
-**Selective enforcement pattern:**
+### Selective enforcement pattern:
 Rumble blocks search results for certain extremist keywords without removing underlying content. It resists legal orders from democratic governments (France: blocked entire country rather than remove RT; Brazil: disabled access rather than comply with de Moraes suspension orders) while hosting Russian state propaganda without legal compulsion. The pattern suggests political asymmetry—Western democratic government authority is resisted; Russian state content is hosted profitably.
 
 **The RNC debate infrastructure:** Rumble served as exclusive RNC livestream provider for the 2nd, 3rd, and 4th Republican presidential primary debates in 2023 (partnered with Fox Business, NBC, Megyn Kelly, Washington Free Beacon). This transformed Rumble from a fringe platform into official Republican Party infrastructure, providing mainstream legitimacy while implicitly endorsing the platform's content environment.
@@ -115,30 +115,30 @@ Rumble's audience capture operates through three mechanisms:
 
 ### What Their Funders Got
 
-**Peter Thiel / Narya Capital / JD Vance:**
+### Peter Thiel / Narya Capital / JD Vance:
 - Early-stage equity at $500M valuation; transformed into public equity via SPAC that valued company at $2.1B
 - Board representation through Ethan Fallang
 - Ideological alignment: Rumble's "free speech" positioning matched Thiel's libertarian antitrust critique of big tech companies
 - Political positioning: Investment allowed Vance to claim he was building "alternative infrastructure" rather than participating in Trump ecosystem; later became explicit when Vance was elevated to Vice President
 
-**Howard Lutnick / Cantor Fitzgerald:**
+### Howard Lutnick / Cantor Fitzgerald:
 - SPAC sponsor role generated founder's shares at zero cost; standard SPAC economics meant Cantor received substantial equity upside for completing the deal
 - Commerce Secretary appointment (Trump, December 2024) gave Lutnick regulatory authority over technology policy; Rumble was positioned favorably in any antitrust or platform regulation discussions
 - Truth Social partnership endorsement; public statements about Rumble's "explosive growth" on CNN
 
-**Dan Bongino:**
+### Dan Bongino:
 - $400,000+/month guaranteed income through exclusive podcast deal (far above standard podcast economics)
 - Equity stake worth $160+ million at peak valuation
 - Post-nomination as Deputy FBI Director (Bongino departed the platform in late 2024), stock dropped 7% single-day from loss of his audience's draw
 - Political positioning: access to Trump administration; platform for his content regardless of YouTube's demonetization policies
 
-**Tether:**
+### Tether:
 - $775M capital injection gave Tether influence over platform direction without voting control (by design—Pavlovski maintained Class D super-voting shares)
 - Committed $100M in advertising over two years (direct revenue to Rumble)
 - Committed $150M in GPU services purchases over two years (tied to Northern Data acquisition; creates revenue stream for Rumble Cloud division)
 - Strategic alignment: Tether's USDT stablecoin benefits from any infrastructure that increases cryptocurrency adoption; Rumble's Rumble Wallet feature promotes bitcoin and crypto payments
 
-**Trump Administration (White House, Truth Social, El Salvador):**
+### Trump Administration (White House, Truth Social, El Salvador):
 - Truth Social hostage dependency: Trump Media's platform runs on Rumble's servers; any Rumble outage risks Trump's direct communication channel
 - White House channel (February 2025): official government legitimacy for a platform that hosts Holocaust denial and Russian state media
 - El Salvador contract: government cloud services; demonstrated Rumble's infrastructure can support sovereign government operations
@@ -207,7 +207,7 @@ Patterns present: **Donor-Class Override** (platform moderation policies reject 
 
 ### Sources
 
-**Primary Documents (Tier 1 — SEC Filings, Government Records):**
+### Primary Documents (Tier 1 — SEC Filings, Government Records):
 - [SEC EDGAR: Rumble 10-K 2024 Filing](https://www.sec.gov/Archives/edgar/data/1830081/000101376225001863/ea0234307-10k_rumble.htm) (Tier 1)
 - [Rumble Q4 & Full Year 2025 Results](https://corp.rumble.com/blog/rumble-reports-fourth-quarter-and-full-year-2025-results/) (Tier 1)
 - [Rumble Q1 2025 Earnings](https://corp.rumble.com/blog/rumble-reports-first-quarter-2025-results/) (Tier 1)
@@ -217,37 +217,37 @@ Patterns present: **Donor-Class Override** (platform moderation policies reject 
 - [Rumble-Truth Social Infrastructure Deal](https://www.foxbusiness.com/politics/trumps-media-company-to-partner-with-rumble) (Tier 2)
 - [El Salvador Government Cloud Services Contract](https://corp.rumble.com/blog/rumble-announces-cloud-agreement-with-government-of-el-salvador/) (Tier 1)
 
-**Venture Capital & Political Investor (Tier 2 — Major Investigative Journalism & Bloomberg/Forbes):**
+### Venture Capital & Political Investor (Tier 2 — Major Investigative Journalism & Bloomberg/Forbes):
 - [PR Newswire: Narya and Peter Thiel Lead Investment in Rumble](https://www.prnewswire.com/news-releases/narya-and-peter-thiel-lead-investment-in-rumble-301295309.html) (Tier 2)
 - [Business Insider: Startups JD Vance is invested in](https://www.businessinsider.com/startups-jd-vance-invested-in-venture-capital-narya-peter-thiel-2024-11) (Tier 2)
 - [Forbes: Why the founder of Rumble is now a billionaire](https://www.forbes.com/sites/kylemullins/2025/01/06/why-the-founder-of-the-right-wing-video-platform-rumble-is-now-a-billionaire/) (Tier 2)
 - [Forbes: Dan Bongino Rumble stake and FBI nomination](https://www.forbes.com/sites/kylemullins/2025/02/25/former-secret-service-agent-turned-deputy-fbi-director-is-already-very-rich/) (Tier 2)
 - [Forbes: Rumble is finally relevant but running out of cash](https://www.forbes.com/sites/kylemullins/2024/12/20/the-jd-vance-backed-youtube-clone-rumble-is-finally-relevant-but-its-running-out-of-cash/) (Tier 2)
 
-**Foreign Money & Russian State Media (Tier 2 — Major Investigative Journalism):**
+### Foreign Money & Russian State Media (Tier 2 — Major Investigative Journalism):
 - [Seattle Times / New York Times: Company backed by JD Vance gives platform for Russian propaganda](https://www.seattletimes.com/nation-world/company-backed-by-j-d-vance-gives-platform-for-russian-propaganda/) (Tier 2)
 - [PolitiFact: Does JD Vance profit from Russia propaganda?](https://www.politifact.com/factchecks/2022/may/24/tim-ryan/does-jd-vance-profit-russia-propaganda/) (Tier 2)
 - [The Federalist: Rumble Barred in Russia Over Refusal to Censor](https://thefederalist.com/2024/06/04/exclusive-rumble-barred-in-russia-over-platforms-refusal-of-kremlin-censorship/) (Tier 2)
 
-**Content Moderation & Extremism (Tier 2 — Major Investigative Journalism):**
+### Content Moderation & Extremism (Tier 2 — Major Investigative Journalism):
 - [Rolling Stone: Trump Campaign Ads Are Monetizing Pro-Nazi Content on Rumble](https://www.rollingstone.com/politics/politics-features/trump-campaign-ads-nazi-rumble-stew-peters-1234987325/) (Tier 2)
 - [Los Angeles Times: GOP debate livestreaming partner is haven for disinformation](https://www.latimes.com/politics/story/2023-09-25/gop-debate-livestreaming-partner-haven-disinformation-extremism) (Tier 2)
 - [ADL: Rumble as Platform for Hate Content](https://www.adl.org/resources/blog/rumble-emerges-platform-choice-antisemitic-and-far-right-extremist-content) (Tier 2)
 
-**International Legal Battles (Tier 2 — News Reporting):**
+### International Legal Battles (Tier 2 — News Reporting):
 - [Brussels Signal: Rumble wins court case against French government](https://brusselssignal.eu/2025/10/rumble-wins-court-case-against-french-government-and-regains-access-to-france/) (Tier 2)
 - [Fox News: White House launches Rumble account](https://www.foxnews.com/politics/free-speech-transparency-white-house-launches-rumble-account-social-media-presence-grows) (Tier 2)
 - [Rumble and Truth Social sue Brazilian Judge de Moraes](https://corp.rumble.com/blog/rumble-and-truth-social-sue-brazilian-judge-over-censorship-orders-targeting-u-s-users/) (Tier 1)
 
-**Campaign Finance & Political Infrastructure (Tier 2 — News Reporting):**
+### Campaign Finance & Political Infrastructure (Tier 2 — News Reporting):
 - [Nasdaq: Rumble Announces Livestream Contributions for U.S. Federal Political Campaigns](https://www.nasdaq.com/press-release/rumble-announces-livestream-contributions-for-u.s.-federal-political-campaigns-2024) (Tier 1)
 - [PA Democratic Party: McCormick refuses to pull Rumble investments](https://www.padems.org/new-mccormick-refuses-to-pull-investments-from-website-that-platforms-holocaust-denial-and-anti-semitic-hate/) (Tier 2)
 
-**Insider Selling & SEC Filings (Tier 2 — Financial Data):**
+### Insider Selling & SEC Filings (Tier 2 — Financial Data):
 - [GuruFocus: Christopher Pavlovski insider transactions](https://www.gurufocus.com/insider/222244/christopher-pavlovski) (Tier 2)
 - [Yahoo Finance: Rumble insider ownership analysis](https://finance.yahoo.com/news/despite-recent-sales-rumble-inc-145742514.html) (Tier 2)
 
-**Reference (Tier 3 — Secondary Sources):**
+### Reference (Tier 3 — Secondary Sources):
 - [Wikipedia: Rumble (company)](https://en.wikipedia.org/wiki/Rumble_(company)) (Tier 3)
 - [Celebrity Net Worth: Chris Pavlovski](https://www.celebritynetworth.com/richest-businessmen/richest-billionaires/chris-pavlovski-net-worth/) (Tier 3)
 

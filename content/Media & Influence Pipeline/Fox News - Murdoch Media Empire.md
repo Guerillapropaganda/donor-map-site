@@ -45,7 +45,7 @@ Fox News is funded by advertisers and cable carriage fees. It receives no direct
 
 Fox News is nominally funded by advertisers. But the network's real political backers are the Murdoch family fortune and the institutional Republican donor class that depends on Fox's audience-manufacturing capacity. No major Republican donor can afford to have Fox News turn against them. No Republican politician can win a primary without Fox airtime. The network is the chokepoint through which Republican political power flows.
 
-**Key institutional relationships:**
+### Key institutional relationships:
 - [[Rupert Murdoch]] — Owner, architect, the man who built the machine. $750K in direct political donations since 1990 is rounding error compared to the $5-7B annual operation he funds through Fox Corp.
 - Lachlan Murdoch — Current operational control. Ideologically aligned with his father. The succession is secure.
 - Senate Leadership Fund (Mitch McConnell's PAC) — Murdoch donated $2M directly in October 2024. Fox News coverage of McConnell-backed Senate candidates has been consistently favorable.

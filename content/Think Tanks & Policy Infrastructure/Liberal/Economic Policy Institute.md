@@ -23,13 +23,13 @@ The Economic Policy Institute (EPI) is a 501(c)(3) nonprofit think tank founded 
 
 **Structure:** EPI is the 501(c)(3) research arm. EPI Action is a companion 501(c)(4) that conducts explicit advocacy and is not required to disclose donors. The two entities share staff and leadership under the same organizational umbrella.
 
-**Scale (IRS 990 data):**
+### Scale (IRS 990 data):
 - FY 2024: Revenue $11.9M · Expenses $13.6M · Total Assets $19.6M
 - FY 2023: Revenue $16.2M · Expenses $12.1M · Net Income $4.0M
 - FY 2022: Revenue $8.1M · Expenses $12.2M
 - FY 2021: Revenue $16.5M · Expenses $10.4M
 
-**Current leadership:**
+### Current leadership:
 - **Heidi Shierholz** — President (since 2021); former Obama DOL Chief Economist
 - **Elizabeth H. Shuler** — Board Chair; AFL-CIO President
 - **Naomi Walker** — Vice President; salary $220,755 (FY 2024)
@@ -43,31 +43,31 @@ The Economic Policy Institute (EPI) is a 501(c)(3) nonprofit think tank founded 
 
 EPI discloses funding tiers annually on its website. The structural picture is clear: foundations provide the majority of funding, with organized labor as the second-largest source.
 
-**2021 funding breakdown (self-disclosed):**
+### 2021 funding breakdown (self-disclosed):
 - Foundations: **79%**
 - Labor Unions: **14%**
 - Corporations/Organizations: **2%**
 - Individuals: **3%**
 - Other: **2%**
 
-**Top donors by tier (2021 acknowledgment list):**
+### Top donors by tier (2021 acknowledgment list):
 
-**$200,000 and above:**
+### $200,000 and above:
 American Federation of Teachers · Bauman Foundation · Bernard and Anne Spitzer Charitable Trust · Bill & Melinda Gates Foundation · Fidelity Charitable Gift Fund · Ford Foundation · National Education Association · New Venture Fund (The Hub) · Omidyar Network · Robert Wood Johnson Foundation · Silicon Valley Foundation · Surdna Foundation · Topos Partnership · W.K. Kellogg Foundation · William and Flora Hewlett Foundation
 
-**$100,000–$199,999:**
+### $100,000–$199,999:
 AFL-CIO · AFSCME · International Brotherhood of Teamsters · Kresge Foundation · Marguerite Casey Foundation · Service Employees International Union · United Auto Workers · United Food & Commercial Workers International Union · United Steelworkers
 
-**$50,000–$99,999:**
+### $50,000–$99,999:
 Coydog Foundation · Peter G. Peterson Foundation · Present Progressive Fund · United Brotherhood of Carpenters and Joiners
 
-**$10,000–$49,999:**
+### $10,000–$49,999:
 Amalgamated Transit Union · American Income Life · Communications Workers of America · International Association of Machinists · International Brotherhood of Boilermakers · International Brotherhood of Electrical Workers · National Association of Letter Carriers · Rockefeller Philanthropy Advisors · UNITE HERE · Oxfam · Steel Dynamics Inc.
 
 > [!money]
 > EPI's founding was itself a union investment: eight labor unions made a five-year funding pledge at inception — AFSCME, UAW, United Steelworkers, United Mine Workers, IAM, Communications Workers of America, SEIU, and UFCW. The organization was built from day one as labor's research arm. By 2021, AFL-CIO president Elizabeth Shuler chaired the board, UAW and SEIU remained top funders at $100K+, and every union federation with significant political clout had money in EPI. The "independent research" brand is accurate in that EPI researchers write what they believe — but the institutional structure ensures they believe what their funders need them to believe.
 
-**Notable anomalies:**
+### Notable anomalies:
 - **Peter G. Peterson Foundation ($50K–$99K):** Peterson was a deficit hawk whose foundation spent billions arguing that Social Security and Medicare spending must be cut. EPI's own research consistently opposes entitlement cuts. This funder relationship has not been publicly explained.
 - **Bill & Melinda Gates Foundation ($200K+):** Microsoft historically engaged in aggressive union avoidance. The Gates Foundation is the largest private education funder, with a reform agenda (charter schools, high-stakes testing) that teacher unions — also EPI funders — oppose.
 - **Tobacco Institute (1980s, historical):** EPI accepted money from the Tobacco Institute to oppose excise taxes on tobacco. This early episode of funder-directed research is documented in academic literature on tobacco industry strategy.
@@ -90,7 +90,7 @@ EPI's output is primarily economic research framed as policy advocacy. Its flags
 
 **CEO pay ratio reports** — Annual publication tracking CEO-to-worker pay ratios. EPI's finding that CEOs earned 351 times the average worker in 2020 is the most-cited figure on executive compensation inequality.
 
-**Trump 2.0 anti-worker documentation series (2025–):**
+### Trump 2.0 anti-worker documentation series (2025–):
 
 When Trump's second administration moved to systematically dismantle labor protections beginning in January 2025, EPI shifted a significant portion of its output to real-time damage documentation — functioning as a running audit of the most comprehensive attack on U.S. labor rights in modern history.
 
@@ -129,7 +129,7 @@ The minimum wage, overtime, and NLRB pipelines all follow this structure. EPI do
 
 EPI's staff movement between the think tank and Democratic administrations is the clearest evidence of its institutional function: it is a parking lot for labor-aligned economists between Democratic administrations and a training ground for future regulators.
 
-**Key documented movements:**
+### Key documented movements:
 
 | Name | EPI Role | Government Role | Direction |
 |------|----------|-----------------|-----------|
@@ -169,18 +169,18 @@ EPI's staff movement between the think tank and Democratic administrations is th
 
 ### What Their Funders Got
 
-**AFL-CIO / affiliated unions:**
+### AFL-CIO / affiliated unions:
 - Obama overtime rule (2016): EPI research provided the economic case; Shierholz was inside DOL when the rule was drafted
 - Biden NLRB reforms: Multiple Trump-era NLRB rules reversed; EPI research provided the documentation of harm
 - Biden overtime rule (2024): EPI modeling cited in rulemaking; rule extended overtime to 4+ million additional workers (later struck down by court)
 - Sustained congressional attention to wage stagnation and inequality: EPI's CEO pay ratio and productivity-pay gap data are the standard citations in Democratic speeches on economic inequality
 
-**National Education Association / American Federation of Teachers:**
+### National Education Association / American Federation of Teachers:
 - EPI research consistently documents the economic value of teacher pay and union contracts
 - EPI analysis of public sector union legislation used to oppose state-level right-to-work expansion
 - EPI research on early childhood education policy aligned with NEA/AFT positions on pre-K funding
 
-**Ford Foundation / major foundations:**
+### Ford Foundation / major foundations:
 - EPI research on inequality, minimum wage, and labor standards supports the "inclusive economy" framework foundations fund across multiple organizations
 - Policy alignment is structural — EPI's outputs are consistent with the center-left economic reform framework that major Democratic foundations fund
 
@@ -194,7 +194,7 @@ The conservative think tank model converts corporate and billionaire money into 
 
 The critical question for class analysis is not whether EPI's research is accurate (it generally is, by the standards of mainstream labor economics) but what structural function the "independence" framing serves. When a Republican senator cites Heritage Foundation research, the funding relationship is understood. When a Democratic senator cites EPI research, it is presented as neutral economic analysis. The institutional separation between funder and researcher serves a legitimacy function that pure lobbying cannot.
 
-**EPI's specific class function:**
+### EPI's specific class function:
 1. **Demand legitimacy for labor in policy debates** — In an economic discourse dominated by corporate-funded research, EPI provides the counterweight that allows labor's policy agenda to be framed as evidence-based rather than interest-based
 2. **Train the next generation of labor-aligned regulators** — The revolving door pattern is not incidental; it is the mechanism by which EPI's analytical framework becomes government policy
 3. **Maintain the empirical record of inequality** — EPI's longitudinal data on wages, CEO pay, and productivity is the factual foundation for political arguments about economic distribution

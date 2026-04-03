@@ -1,7 +1,7 @@
 ---
 title: "Melissa Bean's Corporate Background"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 2
 parent: "_Melissa Bean Master Profile"
@@ -38,29 +38,29 @@ This technology background is significant for two reasons: (1) it explains her c
 
 ### Congressional Career (2005–2011)
 
-**Electoral history:**
+### Electoral history:
 - 2004: Won IL-8 Democratic primary; became first Democrat to win the district since its 1935 formation; defeated Republican Phil Crane (15-term incumbent) — a genuine upset.
 - 2006: Re-elected with 51.2% of the vote.
 - 2008: Re-elected with 59.3% of the vote (Obama year tailwind).
 - 2010: Lost to Republican Joe Walsh by 291 votes out of ~180,000 cast; one of the tightest House results in 2010 cycle.
 
-**Committee assignments:**
+### Committee assignments:
 - Committee on Financial Services (ranking minority member, multiple subcommittees)
 - Committee on Small Business
 - Subcommittees: Capital Markets; Insurance and Government Sponsored Enterprises; Financial Institutions and Consumer Credit; Science, Technology, Communications; Finance and Tax; Contracting and Technology
 
-**Party caucuses:**
+### Party caucuses:
 - Blue Dog Coalition (fiscal conservative Democrats)
 - New Democrat Coalition (corporate-centrist Democrats)
 - Co-chair, New Democrats' Financial Services Task Force
 
-**Voting record:**
+### Voting record:
 - GovTrack ideological score: slightly right of median Democrats
 - 96.4% attendance rate
 - 1 bill enacted as primary sponsor: Preservation Approval Process Improvement Act of 2007 (H.R. 1675)
 - Major legislation focus: Taxation (21% of sponsored bills), Commerce (17%), Technology (12%), Finance (9%)
 
-**Key votes / political positioning:**
+### Key votes / political positioning:
 - 2005: Voted with Republicans to extend tax cuts on capital gains and dividends — one of only 9 House Democrats to do so. House Democratic Leader Nancy Pelosi called this vote "immoral."
 - Dodd-Frank (2010): Participated in financial reform discussions but as a Financial Services Committee member with New Democrat Coalition ties, was a moderating influence on regulatory scope. Banking lobbyists regularly cited her as a channel for their positions.
 - Technology bills: championed personal data protection legislation aligned with her telecom industry background.

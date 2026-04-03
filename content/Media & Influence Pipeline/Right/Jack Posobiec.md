@@ -1,7 +1,7 @@
 ---
 title: "Jack Posobiec"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -28,7 +28,7 @@ Posobiec is fluent in Mandarin Chinese—a skill that informed his HUMINT analys
 
 Posobiec's income does not flow from direct donor relationships or traditional media contracts. Instead, he operates through institutional funding streams that insulate him from direct accountability:
 
-**Human Events ownership chain:**
+### Human Events ownership chain:
 - Founded 1944 as a conservative publication
 - Acquired by Eagle Publishing, then Salem Media (2014)
 - Purchased by Raheem Kassam and Ian Chamberlain for $300K (2019)
@@ -36,7 +36,7 @@ Posobiec's income does not flow from direct donor relationships or traditional m
 - Expanded through acquisition of The Post Millennial (2022)
 - Sold to JTN Networks/John Solomon (November 2025)
 
-**Posobiec's compensation flows:**
+### Posobiec's compensation flows:
 - Senior editor salary from Human Events (funded by Jeff Webb's personal fortune, then institutional ownership)
 - Speaking fees from TPUSA event circuit
 - Social media monetization (YouTube partnership, Substack, X monetization)
@@ -55,17 +55,17 @@ The critical structure: Posobiec does not need direct donor funding because the 
 
 The funding architecture is institutional, not personal. Posobiec's employers and platforms are funded by:
 
-**TPUSA (Turning Point USA)—the event circuit where Posobiec speaks:**
+### TPUSA (Turning Point USA)—the event circuit where Posobiec speaks:
 - $7.8M from Bradley Impact Fund (2022)
 - $1.4M from DonorsTrust (2022)
 - Funding sources routed through Sean Hannity and other conservative media figures
 
-**Human Events (Posobiec's employer):**
+### Human Events (Posobiec's employer):
 - Jeff Webb personal fortune (2020-2025)
 - Webb made his wealth through Varsity Spirit and a Bain Capital exit worth $2.5B
 - After sale to JTN Networks, institutional funding through John Solomon's network
 
-**Claremont Institute:**
+### Claremont Institute:
 - Appointed Posobiec as Lincoln Fellow (2019)
 - Provides intellectual infrastructure and speaking platform
 - Claremont's funding comes from institutional conservative donors (Mercer network, Scaife, others)
@@ -79,25 +79,25 @@ The pattern is clear: dark-money networks fund the platforms (TPUSA, Human Event
 
 Posobiec's messaging focuses on delegitimizing democratic norms through narratives framed as patriotic defense:
 
-**Stop the Steal (originated hashtag—September 2020):**
+### Stop the Steal (originated hashtag—September 2020):
 - Tweeted "#StopTheSteal 2020 is coming..." on September 7, 2020
 - Five months before the 2020 election, before any votes were cast, before any fraud could be alleged
 - Timeline is critical: the narrative was pre-manufactured, not responsive to evidence
 - This originated the organizing hashtag used to coordinate January 6 mobilization
 - All Stop the Steal tweets were deleted after legal exposure became clear
 
-**Pizzagate promotion (November 2016):**
+### Pizzagate promotion (November 2016):
 - Livestreamed from Comet Ping Pong (the Washington D.C. pizzeria that became target of the conspiracy theory)
 - Livestream occurred two weeks before Edgar Maddison Welch drove to the restaurant and opened fire
 - Never faced consequence for the promotion, despite the direct causality to violence
 
-**"Unhumans" thesis (2024):**
+### "Unhumans" thesis (2024):
 - Published book framing progressives and Democrats as fundamentally non-human
 - Strips human rights justification from political opposition
 - Provided blurb by JD Vance (then-vice-presidential nominee)
 - Class analysis: dehumanization rhetoric follows from intelligence community psychological operations doctrine (IO theory treats adversary populations as targets, not humans)
 
-**4D Warfare and military IO doctrine:**
+### 4D Warfare and military IO doctrine:
 - Applies military information operations doctrine to domestic politics
 - Frames information warfare as patriotic rather than destabilizing
 - The methodology (IO) is military doctrine; the application (domestic politics) is psychological warfare against the constituency
@@ -120,33 +120,33 @@ Revenue comes from institutional platforms (Human Events salary, TPUSA speaking 
 
 The return on investment for Posobiec's funders is concrete and documented:
 
-**Citizens for Trump coordination (2016):**
+### Citizens for Trump coordination (2016):
 - Posobiec served as Special Projects Director for Citizens for Trump
 - FEC Matter Under Review #7401 filed for coordination violations
 - Worked with Corey Lewandowski, Stephen Miller, and Reince Priebus
 - Coordinated outside spending with Trump campaign
 
-**Stop the Steal narrative infrastructure (2020):**
+### Stop the Steal narrative infrastructure (2020):
 - Originated the hashtag five months before the election
 - Created the organizing framework that coordinated January 6 mobilization
 - RNC and Trump campaign used the narrative for fundraising and voter suppression messaging
 
-**Pizzagate promotion (November 2016):**
+### Pizzagate promotion (November 2016):
 - Two-week lead time before Comet Ping Pong shooting
 - Livestream provided real-time audience engagement with conspiracy theory
 - No legal consequences, but high impact on radicalization trajectory
 
-**RNC poll watcher training (September 2024):**
+### RNC poll watcher training (September 2024):
 - Hired by Republican National Committee to train poll watchers in Michigan and Wisconsin
 - Directly deployed in battleground states
 - Voter intimidation infrastructure disguised as election monitoring
 
-**Oval Office access (June 2025):**
+### Oval Office access (June 2025):
 - Photographed with Trump and JD Vance in the Oval Office
 - Demonstrates direct political patronage and policy access
 - VIP treatment within Trump administration
 
-**Diplomatic access:**
+### Diplomatic access:
 - Traveled with Cabinet secretaries on diplomatic missions
 - Elevated status within administration despite no official position
 
@@ -172,18 +172,18 @@ Posobiec's editorial red line is anything that threatens his access to power and
 
 **Evidence:** After Stop the Steal began producing legal consequences (January 6 prosecutions, potential election interference investigations), Posobiec deleted all Stop the Steal tweets. His support for the narrative evaporated when legal exposure became clear. The operational priority (political warfare) yielded to survival priority (legal liability).
 
-**Platform dependencies:**
+### Platform dependencies:
 - Human Events (institutional base, salary, editorial authority)
 - TPUSA event circuit (speaking income, audience access)
 - Trump/Vance access (status, potential appointments, administrative contracts)
 - RNC contracts (direct revenue, institutional legitimacy)
 
-**Intelligence methodology:**
+### Intelligence methodology:
 - HUMINT analysis training (human targeting, intelligence collection)
 - IO doctrine (information operation strategy, narrative construction)
 - Classified information handling (operational security, compartmentalization)
 
-**Political patrons:**
+### Political patrons:
 - Trump orbit (primary audience, primary patronage source)
 - RNC (operational contracts, election infrastructure)
 - JD Vance (personal relationship, administrative access)

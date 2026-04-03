@@ -46,7 +46,7 @@ The Grayzone operates on stated model of reader/listener funding through Patreon
 - Useful Idiots: similar subscriber base
 - Income likely insufficient to support full staff salaries without additional funding
 
-**Secondary/undisclosed funding (allegations):**
+### Secondary/undisclosed funding (allegations):
 - Research by Institute for Strategic Dialogue (2022) found that Grayzone staff and contributors received funding sources raising conflict-of-interest questions:
   - Anya Parampil, Wyatt Reed, Mohamed Elmaazi, Jeremy Loffredo, Kit Klarenberg, Dan Cohen, Rania Khalek all received payments from Russian government media at some point
   - Maté worked as briefer for Russia's UN mission

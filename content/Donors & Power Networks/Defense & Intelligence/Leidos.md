@@ -1,7 +1,7 @@
 ---
 title: "Leidos"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -39,7 +39,7 @@ Leidos operates one of the most precisely bipartisan PAC operations in the defen
 
 The PAC's House contributions ($595,000) tilted slightly Republican (53.53% R / 46.47% D), while Senate contributions ($82,500) tilted Democratic (69.09% D / 30.91% R) — reflecting Leidos' Virginia headquarters and the importance of Virginia's Democratic senators to the company's home-state interests.
 
-**2024 cycle top recipients (PAC + employee contributions combined):**
+### 2024 cycle top recipients (PAC + employee contributions combined):
 
 | Recipient | Amount | Type |
 |-----------|--------|------|

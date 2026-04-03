@@ -1,7 +1,7 @@
 ---
 title: "CREW - Citizens for Responsibility and Ethics in Washington"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -39,7 +39,7 @@ The organization's tactical innovation is weaponizing government transparency an
 
 CREW's funding comes overwhelmingly from contributions (96.6% of 2024 revenue), with virtually no program service revenue or earned income. The organization does not disclose its donor list, but tax records and investigative reporting have identified the following funders:
 
-**Known foundation donors:**
+### Known foundation donors:
 - Open Society Foundations (George Soros)
 - David Geffen Foundation
 - Gill Foundation
@@ -47,15 +47,15 @@ CREW's funding comes overwhelmingly from contributions (96.6% of 2024 revenue), 
 - Streisand Foundation (Barbra Streisand)
 - Bohemian Foundation
 
-**Network affiliations:**
+### Network affiliations:
 - Democracy Alliance (recommended organization until dropped in 2012)
 - David Brock political network (board chairman 2014-2016; $40M anti-Trump operation in 2017)
 - Arabella Advisors-adjacent donor network (dark money pass-through infrastructure)
 
-**Labor:**
+### Labor:
 - Service Employees International Union (SEIU)
 
-**Leadership-era funding patterns:**
+### Leadership-era funding patterns:
 - Under Melanie Sloan (2001-2014): CREW received $150,000 from a nonprofit connected to John Sperling, founder of the University of Phoenix, during the same period CREW attacked proposed regulations that would tighten reporting requirements on the for-profit education industry. Sperling's Aurora Foundation routed money through pass-through nonprofits associated with a Sacramento Democratic political consultancy that subsequently funded CREW. This pay-for-play pattern — a donor funding the watchdog to attack the donor's regulatory critics — is the most damaging allegation against CREW's claimed nonpartisan status.
 - Under David Brock (board chairman 2014-2016): CREW was integrated into Brock's political operation alongside Media Matters, American Bridge, and Correct the Record. Brock's network declared $40M in anti-Trump spending in 2017, with CREW described as "a particular locus of activity." During Brock's tenure, CREW walked away from pursuing Hillary Clinton's email records despite a State Department Inspector General finding that CREW's FOIA request had been improperly denied.
 - Under Norman Eisen/Noah Bookbinder (2016-2024): Revenue surged from $555,735 in net assets (2016) to $11.2 million in net assets (2024). The Trump-era fundraising boom transformed CREW from a small operation into a well-funded legal advocacy machine.
@@ -69,7 +69,7 @@ CREW's funding comes overwhelmingly from contributions (96.6% of 2024 revenue), 
 
 CREW's legal and investigative output is substantial, and its victories are genuine — which makes the class analysis more interesting, not less.
 
-**Major legal actions and outcomes:**
+### Major legal actions and outcomes:
 
 **Colorado 14th Amendment case (2023-2024):** CREW filed suit in September 2023 on behalf of six Colorado voters seeking to disqualify Trump from the 2024 ballot under Section 3 of the 14th Amendment's insurrection clause. The Colorado Supreme Court ruled Trump ineligible — a historic decision — but the U.S. Supreme Court reversed in *Trump v. Anderson* (March 2024), ruling that Congress, not state courts, enforces Section 3.
 

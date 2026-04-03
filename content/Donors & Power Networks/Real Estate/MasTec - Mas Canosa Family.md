@@ -1,7 +1,7 @@
 ---
 title: "MasTec - Mas Canosa Family"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 2
 parent: null

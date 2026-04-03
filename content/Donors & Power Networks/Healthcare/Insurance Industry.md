@@ -1,7 +1,7 @@
 ---
 title: "Insurance Industry"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -27,7 +27,7 @@ The insurance industry's political operation serves one overriding objective: th
 
 **Primary objective — Block structural reform:** Prevent any legislation that would eliminate or substantially reduce private insurance's role as the intermediary between patients and healthcare. This includes single-payer/Medicare for All, a robust public option, and any expansion of Medicare/Medicaid that displaces private coverage.
 
-**Secondary objectives:**
+### Secondary objectives:
 - **Medicare Advantage payment rates:** Protect and expand the Medicare Advantage program, which pays private insurers 120% of what traditional Medicare costs per beneficiary — generating billions in profit from government overpayment
 - **ACA marketplace rules:** Shape exchange regulations, risk corridor payments, and essential health benefit definitions to maximize insurer profitability
 - **Medicaid managed care contracts:** Expand privatized Medicaid administration through managed care organizations (MCOs), which generate revenue by managing state Medicaid populations
@@ -41,7 +41,7 @@ The insurance industry's political operation serves one overriding objective: th
 
 The insurance industry's contribution strategy is explicitly bipartisan and committee-targeted. The industry gives to whoever sits on the committees that regulate it, regardless of party.
 
-**Key committee targets:**
+### Key committee targets:
 - Senate Finance Committee (jurisdiction over Medicare, Medicaid, ACA)
 - Senate Health, Education, Labor & Pensions (HELP) Committee
 - House Energy and Commerce Committee (health subcommittee)

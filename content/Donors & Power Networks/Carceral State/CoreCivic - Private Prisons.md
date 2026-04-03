@@ -1,7 +1,7 @@
 ---
 title: "CoreCivic - Private Prisons"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -36,7 +36,7 @@ Increased federal detention capacity (more ICE beds), mandatory minimum sentenci
 
 CoreCivic's 2024 political spending was overwhelmingly Republican: $660,170 of $784,974 (84%) went to Republican candidates and committees.
 
-**Top recipients (2024 cycle):**
+### Top recipients (2024 cycle):
 
 | Recipient | Amount | Type |
 |-----------|--------|------|
@@ -98,7 +98,7 @@ CoreCivic's most profitable growth area is immigrant detention. ICE detention co
 
 CoreCivic's business model is the most literal form of commodified human suffering in the vault: the company generates revenue by keeping people in cages, with each detained person generating $80-120 per day in government payments. The political investment required to maintain this revenue stream is remarkably small relative to the return — roughly $2.5M in 2024 political spending protecting a $1.9B revenue operation.
 
-**Analytical patterns present:**
+### Analytical patterns present:
 
 - **Donor-Class Override:** The detention bed mandate — a congressional requirement that ICE maintain minimum bed levels — exists solely to guarantee revenue for CoreCivic and GEO Group. No other industry has a congressional floor on government purchasing of its services. This is the most direct case of legislation written for donor benefit in the carceral sector.
 - **Genuine Win + Structural Limit:** Biden's EO 14006 applied to DOJ contracts (2% of CoreCivic revenue) while leaving ICE contracts (30% of revenue) untouched. The visible policy victory preserved the company's actual profit center.

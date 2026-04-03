@@ -1,7 +1,7 @@
 ---
 title: "The Intellectual Property and Banking Donor Pipeline"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: "[[_Thom Tillis Master Profile]]"
@@ -19,7 +19,7 @@ donors: [[Bank of America]] [[Wells Fargo]] [[PhRMA]] [[Goldman Sachs]] [[Truist
 
 Thom Tillis represents North Carolina — home to Bank of America's global headquarters (Charlotte), Truist Financial's headquarters (Charlotte, post-BB&T/SunTrust merger), and Wells Fargo's major East Coast hub. Charlotte is the second-largest banking center in the United States after New York City, and Tillis's seat on the Senate Banking, Housing and Urban Affairs Committee gives him direct jurisdictional authority over the industry that dominates his state's financial economy.
 
-**Career finance sector contributions (OpenSecrets, 2013–2024):**
+### Career finance sector contributions (OpenSecrets, 2013–2024):
 - Commercial banking: $836,185
 - Securities and investment: $2.4 million
 - Private equity: $709,157

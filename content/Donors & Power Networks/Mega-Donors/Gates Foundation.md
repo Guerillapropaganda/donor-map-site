@@ -45,7 +45,7 @@ The Gates Foundation's policy agenda spans education, global health, and technol
 > [!money] Follow the Money
 > The Gates Foundation operates through grant-making, not FEC-tracked political contributions. Bill Gates has minimal direct political giving on record. The foundation's political power flows through $6+ billion in annual grant disbursements — funding think tanks, universities, media organizations, advocacy groups, and international institutions. Total lifetime grants: $77.6+ billion since inception. The foundation's IRS Form 990-PF filings are available through ProPublica Nonprofit Explorer.
 
-**Major grant categories and documented recipients:**
+### Major grant categories and documented recipients:
 
 | Recipient | Amount | Period | Significance |
 |-----------|--------|--------|-------------|
@@ -61,7 +61,7 @@ The Gates Foundation's policy agenda spans education, global health, and technol
 | Education spending (2009 alone) | $373 million | 2009 | Single-year education grant total |
 | Education commitment (2017) | $1.7 billion | 2017–2022 | Five-year commitment to education initiatives |
 
-**Trust investment holdings (Dec 2025, SEC filings):**
+### Trust investment holdings (Dec 2025, SEC filings):
 - Berkshire Hathaway Class B: $9.75 billion (27.59% of portfolio)
 - Total trust investments: $35+ billion across ~160 million shares
 

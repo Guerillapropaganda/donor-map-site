@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Board of New York"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -49,7 +49,7 @@ REBNY's funding flows to: every significant NYC mayoral candidate (bipartisan), 
 
 ### What They've Gotten
 
-**REBNY's most consequential policy victories:**
+### REBNY's most consequential policy victories:
 
 #### 421-a Tax Abatement: From $73M to $1.4B Annual ROI
 

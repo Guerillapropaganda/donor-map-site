@@ -1,7 +1,7 @@
 ---
 title: "American Petroleum Institute"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -68,7 +68,7 @@ API's cumulative federal lobbying spending from 1998–2024 totals approximately
 | 2024 | $6,250,000 | Methane fee opposition, election year |
 | 2025 (Q1) | $1,920,000 | Trump transition (annualized ~$7.7M) |
 
-**Key observations:**
+### Key observations:
 - Peak spending ($9.1–9.3M per year) occurred during Clean Power Plan battles (2013–2015) and Waxman-Markey cap-and-trade fight (2009–2010)
 - 2009 Waxman-Markey year identified as second-highest annual spending by entire fossil fuel industry per Union of Concerned Scientists
 - Average federal lobbying spend 2013–2015: $9.2M/year
@@ -94,7 +94,7 @@ Sources: [OpenSecrets federal lobbying disclosure (D000031493)](https://www.open
 | 2022 | $7,205,200 | 22.3% | 77.7% | $7,002,500 |
 | 2024 | $6,918,202 | 26.9% | 73.1% | $6,500,000 |
 
-**2024 Cycle Breakdown:**
+### 2024 Cycle Breakdown:
 - Total API PAC contributions: $6,918,202 (88.3% to Republicans, 11.7% to Democrats)
 - **Super PAC dark money (2024):** $6,500,000 outside spending
 - **Senate Leadership Fund** (Republican Senate super PAC): $3,500,000
@@ -109,12 +109,12 @@ Sources: [OpenSecrets API Totals (D000031493)](https://www.opensecrets.org/orgs/
 
 #### Dark Money Operations
 
-**Better Jobs Together Campaign (2021–2022 Dark Money Operation):**
+### Better Jobs Together Campaign (2021–2022 Dark Money Operation):
 API's 2021 Form 990 tax filing revealed API paid **$3,500,000** to "Better Jobs Together Campaign," an opaque Virginia corporation formed April 2021. Better Jobs Together then ran more than $2,500,000 in TV ads supporting conservative Democratic members of Congress—**Representatives Henry Cuellar (TX) and Kurt Schrader (OR)**—who were actively blocking Biden's climate and infrastructure agenda. This was a classic dark money operation: API funneled money through an anonymous shell corporation to secretly fund Democratic politicians opposing their party's climate platform.
 
 Source: [Sludge: Revealed — Oil Industry Lobbying Group Funded Dark Money Ad Campaign](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2)
 
-**Additional Dark Money Recipients Funded by API:**
+### Additional Dark Money Recipients Funded by API:
 API has funneled donations to dozens of 501(c)(4) and ideological organizations through its Schedule I charitable contributions:
 
 | Organization | Amount | Purpose |
@@ -139,12 +139,12 @@ API's revenue derives almost entirely from membership dues ($217.9 million, 86.4
 
 #### Top Member Company Dues
 
-**[[ExxonMobil|ExxonMobil]]:**
+### [[ExxonMobil|ExxonMobil]]:
 - Disclosed paying **$7,500,000–$9,990,000** to API in 2023 for lobbying-related expenditures (federal, state, local, and grassroots)
 - [[InfluenceMap]] estimated ExxonMobil's annual dues at approximately **$5–6 million** (7.7% of API's $65M estimated total political spending) based on U.S. oil reserves methodology
 - ExxonMobil's Lee Raymond served as API Chairman while simultaneously serving as Exxon CEO (1990s)
 
-**[[Chevron|Chevron]]:**
+### [[Chevron|Chevron]]:
 - Estimated dues: **$2–3 million annually**
 - Michael Wirth, Chevron CEO, served as Chair of API Finance Committee
 
@@ -179,7 +179,7 @@ Combined lobbying and PR spending outpaced climate advocacy groups **27:1** betw
 
 #### Specific Advertising Contractor Spending
 
-**Edelman PR (2008–2012): $327.4 Million**
+### Edelman PR (2008–2012): $327.4 Million
 - 2008: $75,207,455
 - 2009: $68,732,735
 - 2010: $63,228,379 (one-third of API's entire budget that year)
@@ -189,17 +189,17 @@ Combined lobbying and PR spending outpaced climate advocacy groups **27:1** betw
 
 Edelman ran API's [[Energy Citizens|Energy Citizens]] astroturf campaign starting in 2009.
 
-**Blue Advertising (2013–2016): $112.4 Million**
+### Blue Advertising (2013–2016): $112.4 Million
 - 2013: $32,834,698
 - 2014: $28,272,065 (Clean Power Plan opposition peak)
 - 2015: $26,890,598
 - 2016: $24,355,069
 - **Total: $112,352,430**
 
-**FleishmanHillard (2011–2016): $96.6 Million**
+### FleishmanHillard (2011–2016): $96.6 Million
 - Retained for "Energy from Shale" project (pro-fracking campaign)
 
-**Democracy Data & Communications (2011–2015): $29.3 Million**
+### Democracy Data & Communications (2011–2015): $29.3 Million
 - Hosted Energy Citizens websites designed to appear citizen-run (OurEnergyCan.org, Our-Energy-Matter.com)
 
 **Additional contractors (2008–2019):** Over $100M combined to other PR, digital, and events firms
@@ -208,19 +208,19 @@ Sources: [Climate Investigations Center: Trade Association PR Spending](https://
 
 ### Named Advertising Campaigns
 
-**Energy Citizens (2009–ongoing, $63M+ in peak years):**
+### Energy Citizens (2009–ongoing, $63M+ in peak years):
 - Launched August 2009 via leaked memo from API President Jack Gerard instructing member companies to recruit employees, retirees, vendors, contractors to attend rallies opposing Waxman-Markey cap-and-trade climate legislation
 - API promised to "bus in company members and provide logistical support"; retained events management firm to organize logistics
 - First Energy Citizens rally (Houston, August 18, 2009): ~2,500 attendees—all oil industry employees required to show company ID; average citizens barred
 - Partners included U.S. Chamber of Commerce, National Association of Manufacturers, [[FreedomWorks]], American Conservative Union, National Taxpayers Union, Americans for Tax Reform
 - As of 2024, Energy Citizens campaign still active, running ads about oil and gas workers
 
-**Vote 4 Energy (2012):**
+### Vote 4 Energy (2012):
 - Launched January 4, 2012 ahead of presidential election by Jack Gerard
 - Targeted 2012 elections to elect energy-friendly candidates, oppose Obama energy policies including Keystone XL delay
 - Described as "thinly veiled election year bullying" by DeSmog; total spending never disclosed
 
-**Lights On Energy (2024, $10M+):**
+### Lights On Energy (2024, $10M+):
 - Eight-figure ($10M+ minimum) national TV and digital advertising campaign launched January 2024 ahead of 2024 election
 - Promotes natural gas and domestic oil production as essential for "energy independence"
 - Focused on dismantling Biden climate policies: methane regulations, EV mandates, offshore leasing restrictions
@@ -278,7 +278,7 @@ Source: [OpenSecrets News: API Recycled Same Arguments](https://www.opensecrets.
 
 **1997–1998 Kyoto Protocol Opposition ($13 Million Campaign):** API and [[Global Climate Coalition|GCC]] co-founded **Global Climate Information Project**, running **$13 million** advertising campaign before/during Kyoto negotiations with tagline "It's not global and it won't work." Ads warned gasoline prices could rise 50 cents per gallon.
 
-**2009–2010 Waxman-Markey Cap-and-Trade Fight:**
+### 2009–2010 Waxman-Markey Cap-and-Trade Fight:
 - API led Energy Citizens astroturf campaign
 - Ran television ads showing Americans "fading from view" as jobs disappeared
 - Spent $7.32 million on federal lobbying (then-record)
@@ -455,14 +455,14 @@ Sources: [Union of Concerned Scientists: Fossil Fuel Deception](https://blog.ucs
 
 #### API Leadership with Prior Government Service
 
-**Mike Sommers (President & CEO, July 2018–present):**
+### Mike Sommers (President & CEO, July 2018–present):
 - Special Assistant to President George W. Bush (National Economic Council—agriculture and trade policy)
 - Policy Director, Legislative Director, Press Secretary for Speaker John Boehner
 - Chief of Staff for Speaker Boehner
 - President and CEO of American Investment Council (private equity lobby) before joining API
 - Total 2024 compensation: $6,153,378
 
-**Megan Bloomgren (SVP Communications):**
+### Megan Bloomgren (SVP Communications):
 - Director of Communications, U.S. Department of Interior
 - Press Secretary and Deputy Director of Public Affairs, U.S. Department of Energy
 - White House Council on Environmental Quality
@@ -470,13 +470,13 @@ Sources: [Union of Concerned Scientists: Fossil Fuel Deception](https://blog.ucs
 - Press Lead for Bush/Cheney Presidential Campaign
 - Moved directly from Interior to API
 
-**Rex Tillerson (API Board Member, Reverse Revolving Door):**
+### Rex Tillerson (API Board Member, Reverse Revolving Door):
 - Chairman and CEO, [[ExxonMobil]]
 - API board member while serving as Exxon CEO
 - Later became Secretary of State under President Trump (2017–2018)
 - Trajectory: industry to government
 
-**Ryan Meyers (SVP & General Counsel):**
+### Ryan Meyers (SVP & General Counsel):
 - Counsel for Senator Jon Kyl (R-AZ) and Senator Elizabeth Dole (R-NC)
 
 #### In-House Lobbyists with Revolving Door Profiles
@@ -495,17 +495,17 @@ From OpenSecrets' 2021 API lobbyist roster: **51 total lobbyists; 40 (78.43%) ha
 
 #### External Lobbying Firms with Revolving Door Lobbyists
 
-**Brownstein, Hyatt et al ($230,000):**
+### Brownstein, Hyatt et al ($230,000):
 - Mark L. Pryor (Former U.S. Senator, D-AR)
 - Nadeam Elshami (Former Chief of Staff to House Minority/Majority Leader Nancy Pelosi)
 - Brian McKeon (Former government—national security/State Dept)
 
-**CGCN Group ($420,000):**
+### CGCN Group ($420,000):
 - Jay N. Cranford (Revolving door profile)
 - Sam K. Geduldig (Former Congressional staffer)
 - Aaron Szabo (Former EPA)
 
-**Ogilvy Government Relations ($320,000):**
+### Ogilvy Government Relations ($320,000):
 - Multiple lobbyists with revolving door profiles
 
 #### Philip Cooney Case: EPA to ExxonMobil
@@ -537,7 +537,7 @@ Sources: [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.
 | 2024 | Lights On Energy campaign + lobbying | $10,000,000+ | Methane fee rule implementation obstructed; Congressional Review Act repeal prepared | Within fiscal year |
 | 2025 | Federal lobbying (post-election) | $1,920,000 (Q1 annualized) | Congressional Review Act repeals Waste Emissions Charge, February 2025 (52–47); Trump returns to office | Weeks |
 
-**Key patterns:**
+### Key patterns:
 - Policy returns typically arrive within 6–18 months of peak spending on specific issues
 - CPP opposition (2013–2015, $9.1–9.3M/year) took 3 years for Supreme Court stay, 4 years for repeal
 - Waxman-Markey opposition (2009–2010) achieved defeat within same Congress

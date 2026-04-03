@@ -1,7 +1,7 @@
 ---
 title: "Brookings Institution"
 type: think-tank
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -19,7 +19,7 @@ related: [[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[JPMorgan Chas
 
 The Brookings Institution is Washington's largest and most influential think tank by budget, founded in 1916 by St. Louis businessman Robert S. Brookings as the Institute for Government Research. Located at 1775 Massachusetts Avenue NW — walking distance from the White House — Brookings describes itself as nonpartisan and independent. Outside observers describe it as centrist, center-left, or center-right depending on which policy area you're examining, which is itself a clue: Brookings serves whoever is funding it.
 
-**Key facts:**
+### Key facts:
 - 501(c)(3) nonprofit, EIN 53-0196577
 - FY2024 revenue: $109 million; expenses: $102 million; net assets: $487.8 million
 - FY2024 contributions: $70.3 million (64.5% of revenue)

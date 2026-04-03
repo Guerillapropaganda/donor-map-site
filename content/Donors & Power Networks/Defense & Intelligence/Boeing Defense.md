@@ -1,7 +1,7 @@
 ---
 title: "Boeing Defense"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -39,7 +39,7 @@ Boeing's lobbying targets in the 118th Congress reveal the overlap: the company'
 
 Boeing operates one of the most strategically bipartisan PAC operations in corporate America. In the 2024 cycle, Boeing's total political contributions reached $5.8 million (PAC + employee contributions), with the Boeing Company PAC distributing $1.59 million directly to federal candidates: 62% to Republicans, 37% to Democrats. The PAC gave to 260 House candidates and 42 Senate candidates — a saturation strategy that ensures Boeing has a relationship with virtually every member who touches defense, appropriations, or transportation policy.
 
-**2024 cycle top recipients (total from Boeing employees + PAC):**
+### 2024 cycle top recipients (total from Boeing employees + PAC):
 
 | Recipient | Amount | Type |
 |-----------|--------|------|

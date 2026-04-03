@@ -23,7 +23,7 @@ Chapo occupies a structurally unique position in this vault: it is the primary t
 
 The show reached its cultural peak during the 2016-2020 Bernie Sanders era. Chapo was a primary media vehicle for the Sanders left and a key cultural artifact of the "Dirtbag Left" aesthetic: systemic critique delivered through profanity, character mockery, and dark humor rather than liberal technocratic earnestness. Its audience — largely young, white, male, educated, and economically precarious — self-identifies as the "failsons" (economically adrift young adults with enough family context to avoid crushing poverty but insufficient market integration to achieve stability).
 
-**Hosts:**
+### Hosts:
 - **Will Menaker** — co-founder; son of literary editor Daniel Menaker (Random House); background in media/publishing
 - **Felix Biederman** — co-founder; former sportswriter; known for absurdist humor and Buffalo Bills fandom
 - **Matt Christman** — co-founder; political analyst; created "Acid Marxism" YouTube channel; suffered stroke September 2023 (returned December 2024 as "Strokes of Genius" segment host)
@@ -100,7 +100,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "FROST,
 
 **What the subscriber class wants (and therefore funds):** Systemic critique of capitalism, liberal hypocrisy skewering, progressive culture war solidarity without liberal civility norms, Bernie Sanders-aligned electoral commentary (2016-2020 peak), anti-NATO left internationalism, dark humor as coping mechanism for economic precarity. The subscriber class's preferences ARE the editorial constraints.
 
-**Platform dependency substitutes for donor dependency:**
+### Platform dependency substitutes for donor dependency:
 - **Patreon** — sole payment processor. If Patreon terminates the account (unlikely given $200K/month revenue Patreon would lose), the operation collapses. Patreon has deplatformed creators for policy violations; Chapo must operate within Patreon's content guidelines.
 - **Reddit** — r/ChapoTrapHouse (formerly 160,000+ subscribers) was banned June 29, 2020 in Reddit's 2,000-subreddit hate speech purge — the same policy action that banned r/The_Donald. Community organizing and clip distribution were disrupted, though Patreon revenue was not immediately affected.
 - **Apple Podcasts / Spotify** — free distribution depends on these platform's continued availability. Mass deplatforming risk is lower than for video/social platforms.
@@ -133,17 +133,17 @@ The absence of a corporate donor class does not mean the absence of capture. The
 
 There is no traditional funder class to receive returns. But the structural functions Chapo has served:
 
-**For the DSA and socialist left:**
+### For the DSA and socialist left:
 - Mass cultural legitimation: Chapo normalized socialist politics for a demographic (young, educated, economically precarious) that the institutional left had lost to liberal technocracy
 - Sanders campaigns: Chapo was a primary media vehicle for the 2016 and 2020 Sanders primaries; their endorsements and coverage reached 47K+ subscribers who then canvassed, donated, and voted
 - Dirtbag Left aesthetic: the cultural mode of left politics — anti-civility, structurally critical, humor-forward — spread through Chapo's influence to other outlets (Current Affairs, The Jacobin, Breaking Points)
 
-**For the subscriber class itself:**
+### For the subscriber class itself:
 - Community and identity formation for economically precarious young leftists who feel excluded from both mainstream Democrat liberalism and Republican conservatism
 - Validation of material analysis as the correct lens for understanding political outcomes
 - Coping mechanism: the dark comedy function (making "the worst aspects of where we're at feel bearable," per Felix Biederman)
 
-**What the absence of a traditional donor class produces:**
+### What the absence of a traditional donor class produces:
 - No revolving door to government (hosts have no institutional relationship with the Democratic party apparatus they critique)
 - No sponsor veto (content can go places advertiser-dependent media cannot)
 - No billionaire override (no Wilks Brothers equivalent, no Katzenberg round, no Omidyar foundation)
@@ -171,7 +171,7 @@ There is no traditional funder class to receive returns. But the structural func
 
 ### Class Analysis
 
-**Who benefits from Chapo's platform existing:**
+### Who benefits from Chapo's platform existing:
 
 1. **The DSA and left-socialist organizational ecosystem** — Chapo provides mass cultural legitimation for socialist politics without requiring the DSA to fund or control media operations. 47K paid subscribers who are predisposed to DSA values are a voter/canvasser/donor base that materialized without the organizational cost of building it from scratch. The 2016 and 2020 Sanders campaigns benefited directly from Chapo's endorsement infrastructure.
 
@@ -179,7 +179,7 @@ There is no traditional funder class to receive returns. But the structural func
 
 3. **The Patreon platform** — Chapo is Patreon's 5th-largest creator. Its $199K/month drives significant platform revenue (Patreon takes ~8-12% fee). Patreon has structural incentive to protect Chapo's account; losing it would cost Patreon $16K-$24K/month in fees.
 
-**Who the platform structurally challenges:**
+### Who the platform structurally challenges:
 - The Democratic Party establishment and its media apparatus (Pod Save America, MSNBC, "lanyard liberals") — Chapo's critique delegitimizes incremental liberal politics as structurally insufficient, pulling subscribers toward more radical positions that are harder for the Democratic Party to absorb
 - The liberal civility norm infrastructure — the Dirtbag Left aesthetic, by design, violates the class-marked discourse rules that center professional-class political speech
 
@@ -193,14 +193,14 @@ There is no traditional funder class to receive returns. But the structural func
 
 **Income dependency:** 100% Patreon → any Patreon policy change or account termination would immediately threaten the operation. Secondary: live touring, book deals, comics anthology.
 
-**Editorial red lines (subscriber-enforced, not corporate-enforced):**
+### Editorial red lines (subscriber-enforced, not corporate-enforced):
 - Cannot take positions perceived as "pro-establishment Democrat" without subscriber backlash
 - Cannot abandon systemic/class analysis in favor of personality-driven politics
 - Cannot take positions perceived as "campist" (uncritical of authoritarian left governments) — Ukraine coverage generated significant subscriber pushback
 - Cannot abandon the Dirtbag Left aesthetic for polished, civility-norm-compliant content
 - Cannot endorse candidates to the right of the DSA position without subscriber revolt
 
-**What distinguishes Chapo capture from right-wing media capture:**
+### What distinguishes Chapo capture from right-wing media capture:
 Right-wing donor-class capture (Wilks/Daily Wire, Thiel/Rumble, Fox/Murdoch) flows top-down from concentrated capital to content creators. Chapo's subscriber capture flows bottom-up from dispersed audience preferences to content creators. The direction inverts the power relationship, but the mechanism — financial dependency shapes editorial decisions — is structurally identical.
 
 ### Sources

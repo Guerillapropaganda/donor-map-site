@@ -1,7 +1,7 @@
 ---
 title: "PhRMA - Pharmaceutical Research and Manufacturers of America"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -35,7 +35,7 @@ PhRMA (Pharmaceutical Research and Manufacturers of America) is the principal tr
 
 PhRMA's singular political objective is preventing Medicare from negotiating drug prices. The organization estimates that full Medicare negotiation authority would cost its members $100 billion or more over the next decade (2026–2035). This is existential: if Medicare can negotiate prices, state Medicaid programs will demand the same authority. Private insurers will follow. The entire U.S. drug pricing structure—which extracts nearly three times the international price for equivalent drugs—collapses.
 
-**Secondary political objectives include:**
+### Secondary political objectives include:
 
 Blocking state-level price negotiations (California, New York, and other states have proposed state drug price boards; PhRMA has funded campaigns to defeat every one). Defeating drug importation from Canada and other countries (U.S. brand-name drug prices are 422% of OECD comparator prices; Canadian prices are 44% of U.S. prices). Eliminating patent transparency requirements and proposals that would disclose the gap between R&D costs and drug prices. Protecting the "evergreening" practice—filing dozens of secondary patents to extend monopoly periods indefinitely. Maintaining regulatory deference to the pharmaceutical industry, resisting FDA approval acceleration for generic drugs, and ensuring that Medicare lacks the structural leverage (formulary authority, price ceilings) to achieve meaningful savings even if negotiation authority were granted.
 

@@ -1,7 +1,7 @@
 ---
 title: "Koch Industries"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -17,7 +17,7 @@ related: [[Koch Network - Charles Koch|Charles Koch]] · [[Americans for Prosper
 
 Koch Industries (renamed Koch, Inc. in 2023). The second-largest privately held company in America, with $125+ billion in annual revenue. Founded in 1940 by Fred Koch, the company is controlled by Chairman and CEO Charles Koch (net worth ~$128B, among the top 5 richest Americans). Koch Industries' private ownership structure is the key structural feature: it shields the company from the public disclosure requirements, shareholder activism, and SEC oversight that constrain publicly traded competitors — allowing the Koch family to deploy corporate resources for political purposes with minimal transparency and no shareholder accountability.
 
-**Major subsidiaries:**
+### Major subsidiaries:
 
 | Subsidiary | Sector | Political Relevance |
 |-----------|--------|-------------------|
@@ -38,7 +38,7 @@ Every major federal regulatory agency oversees some Koch business operation: EPA
 
 Koch Industries' political spending operates through multiple channels, from the direct corporate PAC to the $578M Koch network:
 
-**KOCHPAC (C00236489) — Direct corporate PAC:**
+### KOCHPAC (C00236489) — Direct corporate PAC:
 
 | Category | Amount |
 |----------|--------|
@@ -47,7 +47,7 @@ Koch Industries' political spending operates through multiple channels, from the
 | Contributions to federal candidates | $1,689,000 (100% Republican) |
 | Individual donors $200+ | $3,050,901 |
 
-**Koch Industries organizational spending (2024 cycle via OpenSecrets):**
+### Koch Industries organizational spending (2024 cycle via OpenSecrets):
 
 | Recipient | Amount | Type |
 |-----------|--------|------|

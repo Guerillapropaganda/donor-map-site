@@ -26,7 +26,7 @@ Same analytical framework. Same source standards. Same class analysis lens. Diff
 
 ### Isolation Rules
 
-**This section is architecturally separate from the main Donor Map vault.**
+### This section is architecturally separate from the main Donor Map vault.
 
 1. **One-way wikilinks only.** Media files link TO donor nodes in `Donors & Power Networks/`. Main vault files (politicians, donor nodes, stories) NEVER link back to media files. If this section is deleted, zero main vault files break.
 2. **Separate YAML type.** All media profiles use `type: media-profile`. This excludes them from all existing dataview queries, vault audits, and content-readiness statistics.
@@ -106,9 +106,9 @@ Every media profile follows this structure:
 
 **FEC data requirement:** Every U.S.-eligible media profile must include a standardized `### FEC Record` section. Use `fecDonorLookup()` from `api-toolkit.js` for research; cite the direct API endpoint with DEMO_KEY for reader verification. All FEC data is also aggregated in the **FEC Filings — Consolidated Media Pipeline Table** in [[_Media Pipeline Index]] — update the table when adding or modifying any profile's FEC data.
 
-**`### FEC Record` section spec — placement: after `### The Funding Model`, before `### Who Funds Them`:**
+### `### FEC Record` section spec — placement: after `### The Funding Model`, before `### Who Funds Them`:
 
-**For profiles with contributions (table format):**
+### For profiles with contributions (table format):
 ```
 ### FEC Record
 
@@ -125,7 +125,7 @@ Every media profile follows this structure:
 - [FEC API: [Name] individual contributions (N results, $X,XXX)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=[name]&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
 ```
 
-**For profiles with $0 confirmed (always explain what the API returned):**
+### For profiles with $0 confirmed (always explain what the API returned):
 ```
 ### FEC Record
 
@@ -138,14 +138,14 @@ No FEC individual contributions found. The FEC API returns [N] results for "[nam
 
 **Rule: Always show your work on disambiguation.** When the API returns results for a common name but none belong to the subject, say so — name the count, explain why they don't match (wrong state, wrong employer, wrong occupation), and confirm $0 for the actual person. Silence is not the same as absence. Readers clicking the API link will see those results and need to understand why we're reporting $0.
 
-**For non-U.S. citizens:**
+### For non-U.S. citizens:
 ```
 ### FEC Record
 
 **Status:** N/A — [nationality] citizen; ineligible for U.S. federal campaign contributions.
 ```
 
-**Multi-host profiles (Breaking Points, Pod Save America, etc.):**
+### Multi-host profiles (Breaking Points, Pod Save America, etc.):
 
 When a profile covers an organization with multiple hosts or principals, give each person their own `####` sub-section inside `### FEC Record`. Each sub-section gets:
 - Individual summary line (total, count, party split, API-verified date)
@@ -254,7 +254,7 @@ Each centrist profile will test this thesis against the actual funding data. If 
 
 ### Build Priority
 
-**Phase 1 — Initial 15 profiles (draft quality):**
+### Phase 1 — Initial 15 profiles (draft quality):
 
 | # | Name | Category | Why First |
 |---|------|----------|-----------|

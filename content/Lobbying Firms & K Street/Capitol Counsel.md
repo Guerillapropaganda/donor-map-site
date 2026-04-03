@@ -96,41 +96,41 @@ Top clients by sector (2024-2025 data):
 
 Capitol Counsel was architecturally designed around the revolving door. With 73.7% of its 38 registered lobbyists (2024) being former government employees, the firm's core product is access and relationships built on the public dime.
 
-**Josh Kardon — Partner (joined January 2014)**
+### Josh Kardon — Partner (joined January 2014)
 Former Government Position: Chief of Staff to Senator Ron Wyden (D-OR) for 17 years (also served as Legislative Director/Press Secretary and energy/environmental advisor to then-Rep. Barbara Boxer).
 Lobby Focus: Trade, telecommunications, transportation, healthcare, financial services.
 Key Clients: Comcast, Delta Air Lines, Nike, NCTA, National Assn of Real Estate Investment Trusts, Paramount Skydance.
 Why It Matters: Wyden chairs or ranks on the Senate Finance Committee — the most powerful tax and healthcare policy body in Congress. Kardon spent 17 years cultivating those relationships. Roll Call headlined his hire: "The Beginning of Wyden World?"
 
-**Jonathan Kott — Partner (joined June 2021)**
+### Jonathan Kott — Partner (joined June 2021)
 Former Government Position: Senior Advisor and Communications Director, Senator Joe Manchin (D-WV) for 7 years; simultaneously Communications Director for Senator Chris Coons (D-DE). Between Hill stints, ran dark money group Big Tent Project Fund ($12M+ raised) attacking Senator Bernie Sanders in the 2020 Democratic primary.
 Lobby Focus: Energy, healthcare, media, telecom.
 Key Clients: ExxonMobil, American Fuel and Petrochemical Manufacturers, Healthcare Leadership Council, Biogen, Fox Corporation, Delta Air Lines, Exelon, PBM Accountability Project, International Franchise Assn.
 Why It Matters: Manchin was the decisive swing vote during Democrats' 2021-2022 reconciliation window. Kott's Manchin access — and his media credibility as a "Manchin whisperer" invited onto cable news to explain his former boss's votes — made him uniquely valuable to energy and pharma clients whose priority was weakening the Inflation Reduction Act.
 
-**Martin Gold — Partner (joined late 2014)**
+### Martin Gold — Partner (joined late 2014)
 Former Government Position: Counsel to Senate Majority Leaders Howard Baker (R-TN) and Bill Frist (R-TN). Republican staff director and counsel to the Senate Rules Committee. Professional staff member, Senate Select Committee on Intelligence. Recognized parliamentary expert; authored major reference work on Senate practice.
 Lobby Focus: Healthcare, pharmaceutical, financial regulation.
 Key Clients: Roche/Genentech, Healthcare Leadership Council, Physicians Advocacy Institute, Franklin Resources, Zai Lab.
 Why It Matters: Gold is not a typical revolving door hire — he is a Senate rules and procedure expert. His value to clients is knowing exactly how legislation can be blocked, amended, or advanced through parliamentary strategy. Former Republican Senate leadership access completes the firm's bipartisan coverage.
 
-**Hon. Pat Roberts — Partner (joined February 2021)**
+### Hon. Pat Roberts — Partner (joined February 2021)
 Former Government Position: U.S. Senator (R-KS), 1997-2021. Chaired the Senate Agriculture Committee and Senate Intelligence Committee. First member of Congress ever to chair both the House and Senate Agriculture Committees.
 Lobby Focus: Agriculture, defense, healthcare, intelligence community interests.
 Key Clients: Lockheed Martin, Comcast, Cook Inlet Assn (Alaska Native corporation), Colorado State University, agricultural interests.
 Why It Matters: Roberts joined Capitol Counsel within weeks of retiring from the Senate after 24 years — a textbook revolving door. His Agriculture and Intelligence Chairmanships cover two of Capitol Counsel's most valuable client sectors. The 2-year cooling-off period applies only to direct lobbying of former colleagues; strategy and client consultation can begin immediately.
 
-**Hon. Jim McCrery — Partner (joined January 2009)**
+### Hon. Jim McCrery — Partner (joined January 2009)
 Former Government Position: Republican Congressman, Louisiana's 4th District (1988-2009). Ranking Member on the House Ways and Means Committee.
 Lobby Focus: Tax, trade, healthcare — all Ways and Means jurisdiction.
 Why It Matters: McCrery's arrival in 2009 was the catalyst for Capitol Counsel's bipartisan expansion. The Washington Post named him one of four "lobbyists to watch" in 2010 after the Republican House takeover. His Ways and Means background made the firm credible to finance, pharma, and energy clients who need tax policy expertise. According to founder Raffaelli, McCrery's style and personality "permeate the firm."
 
-**Shannon Finley — Founding Partner**
+### Shannon Finley — Founding Partner
 Former Government Position: 8 years as political advisor to Senator Max Baucus (D-MT) — national finance director for his 2002 re-election campaign and director of Glacier PAC; later political director. Baucus chaired the Senate Finance Committee during the ACA negotiations.
 Lobby Focus: Healthcare, taxes, financial services, political strategy.
 Why It Matters: Baucus was chairman of Finance during the most consequential healthcare legislation in a generation. Finley's network through the Baucus orbit and Democratic Finance Committee pipeline remains active throughout healthcare policy.
 
-**Alan Hill — Of Counsel (joined January 2026)**
+### Alan Hill — Of Counsel (joined January 2026)
 Former Government Position: Decades in executive leadership at the intersection of government and industry; key role advancing legislation across House Energy and Commerce Committee jurisdiction; spearheaded the Protection of Lawful Commerce in Arms Act.
 Current Role: Founder, J.A. Hill Group, LLC; Of Counsel, Capitol Counsel.
 Lobby Focus: Communications, technology, energy, advanced materials and manufacturing.

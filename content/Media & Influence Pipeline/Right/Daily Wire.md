@@ -48,7 +48,7 @@ The Daily Wire's financial architecture has four layers, each with distinct poli
 
 **Status:** Institutional — The Daily Wire is a media company, not a political committee. No FEC filings as an entity.
 
-**A-roster principals:**
+### A-roster principals:
 
 - [[Ben Shapiro]]: $2,800 to Rep. Randy Feenstra (R-IA) — the sole A-roster exception
 - [[Jeremy Boreing]]: $0 confirmed (Chrome API 2026-03-27)
@@ -63,19 +63,19 @@ The Daily Wire's financial architecture has four layers, each with distinct poli
 
 ### Who Funds Them
 
-**Farris and Dan Wilks — Founding Investors / Co-Owners**
+### Farris and Dan Wilks — Founding Investors / Co-Owners
 Texas fracking billionaires. Evangelical Christians who fund a coordinated media and political infrastructure: Daily Wire ($4.7M seed), PragerU (via Allen Estrin/Dennis Prager), and adjacent conservative organizations. Farris Wilks retains co-ownership stake (exact percentage undisclosed).
 
-**Dennis Prager — Shareholder**
+### Dennis Prager — Shareholder
 Co-founder of PragerU, the Wilks-funded short-video operation. Prager holds a stake in The Daily Wire, creating a direct equity link between the two largest Wilks-funded media properties.
 
-**DailyWire+ Subscribers — 1M+ paying audience**
+### DailyWire+ Subscribers — 1M+ paying audience
 The subscription base is the primary revenue engine. Subscribers collectively provide $95-100M+ annually, making them the largest single funding source — but the editorial framework they're funding was established by the Wilks seed capital before any subscriber arrived.
 
-**Corporate Advertisers — Expanding post-Shapiro testimony**
+### Corporate Advertisers — Expanding post-Shapiro testimony
 Expanding advertiser relationships following Shapiro's Congressional testimony on conservative media advertising discrimination.
 
-**Potential Investors / Acquirers — 2025**
+### Potential Investors / Acquirers — 2025
 Shapiro actively soliciting investment or acquisition at Milken Conference (May 2025). Company valued "well north of $1 billion" as of last raise (2023).
 
 **Koch Network — NOT VERIFIED:** No direct funding link between Koch Network and The Daily Wire exists in the public record. Both entities fund the broader conservative ecosystem (TPUSA, Heritage Foundation), and the connection is ecosystem-adjacent, but direct Koch→Daily Wire funding is unconfirmed. Classified as inferred.
@@ -110,18 +110,18 @@ The full capture funnel operates across four tiers: free podcast content (mass a
 
 ### What Their Funders Got
 
-**Farris Wilks / fossil fuel sector:**
+### Farris Wilks / fossil fuel sector:
 - Zero Daily Wire content challenging fossil fuel industry across entire company history
 - Anti-climate content normalized as mainstream conservative position through DW's cultural reach
 - Cultural conservatism packaged as populism provides political cover for economic policies that serve fossil fuel interests (deregulation, anti-EPA)
 
-**Wilks Brothers / evangelical agenda:**
+### Wilks Brothers / evangelical agenda:
 - *What Is a Woman?* (2022): 170M+ views on X after Musk promotion (June 2023), became organizing document for anti-trans legislative campaigns nationwide
 - State-level bathroom bills, drag restrictions, and transition bans followed DW culture war content
 - *Am I Racist?* (2024): $12.3M theatrical gross proved commercial viability of culture war documentary model
 - Christian conservative worldview presented as rational analysis through Shapiro's "facts don't care about feelings" framing
 
-**TPUSA / conservative infrastructure:**
+### TPUSA / conservative infrastructure:
 - $1M institutional donation to Turning Point USA following Charlie Kirk's assassination (September 10, 2025) — announced September 17, 2025, framed as honoring Kirk and "bringing people back to Christ, back to church, and back to biblical values." Direct cash transfer from one Wilks-adjacent media property to another Wilks-Koch youth political infrastructure organization
 
 ### Class Analysis

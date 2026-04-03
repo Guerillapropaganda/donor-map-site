@@ -1,7 +1,7 @@
 ---
 title: "The Science Committee and Texas Petrochemical Pipeline"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: "[[_Brian Babin Master Profile]]"

@@ -27,13 +27,13 @@ Urban's institutional identity is built on data-driven policy research. It opera
 
 **President & CEO:** Sarah Rosen Wartell (since 2012). Compensation: $971,063 + $291,561 other (FY2024) — total package exceeding $1.26 million. Wartell previously served as Deputy Assistant to the President for Economic Policy and Deputy Director of the National Economic Council under President Clinton, and was founding president of the Urban Institute's Housing Finance Policy Center. Before entering government, she was a housing policy expert.
 
-**Key staff:**
+### Key staff:
 - Mary Cunningham (SVP for Research and Programs, $407,826 + $55,452)
 - Todd Greene (VP and Executive Director, Workrise, $397,461 + $49,668)
 
 **Staff size:** Approximately 500+ researchers and staff. One of the largest think tank workforces in Washington.
 
-**Policy Centers (13):**
+### Policy Centers (13):
 The Center on Education Data and Policy, the Health Policy Center, the Housing Finance Policy Center, the Income and Benefits Policy Center, the Justice Policy Center, the Center on Labor, Human Services, and Population, the Metropolitan Housing and Communities Policy Center, the Center on Nonprofits and Philanthropy, the Research to Action Lab, the Statistical Methods Group, the Tax Policy Center (joint with Brookings), the Center on International Development and Governance, and the Center on Immigration.
 
 ---
@@ -42,7 +42,7 @@ The Center on Education Data and Policy, the Health Policy Center, the Housing F
 
 Urban Institute's funding model is the most government-dependent of any major think tank. In 2013 (the most detailed public breakdown available), federal government contracts provided approximately 54% of operating funds, private foundations another 30%, and the remainder came from nonprofits, corporations, state and local governments, international organizations, and endowment income.
 
-**Federal government (largest funder by far):**
+### Federal government (largest funder by far):
 - U.S. Department of Health and Human Services — Health policy evaluation, Medicaid/Medicare research
 - U.S. Department of Housing and Urban Development — Housing policy, homelessness research
 - U.S. Department of Education — Education program evaluation
@@ -50,7 +50,7 @@ Urban Institute's funding model is the most government-dependent of any major th
 - U.S. Department of Labor — Workforce development evaluation
 - Various other federal agencies
 
-**Major foundation funders:**
+### Major foundation funders:
 - **Bill and Melinda Gates Foundation** — Education, economic mobility, Upward Mobility Initiative
 - **Ford Foundation** — Inequality, housing, racial equity research
 - **Robert Wood Johnson Foundation** — Health policy, healthcare access
@@ -61,7 +61,7 @@ Urban Institute's funding model is the most government-dependent of any major th
 - **Rockefeller Foundation** — Urban policy, economic opportunity
 - **Arnold Ventures** — Criminal justice, evidence-based policy
 
-**Board of Trustees (notable members):**
+### Board of Trustees (notable members):
 Urban's board includes a mix of corporate executives, foundation leaders, and former government officials from both parties — reflecting its positioning as a "nonpartisan" research institution. The board's composition tilts center-left but includes enough Republican-adjacent members to maintain bipartisan credibility.
 
 > [!money]
@@ -91,7 +91,7 @@ Urban's output is dominated by quantitative policy research — microsimulation 
 
 Urban's pipeline is built on government contracts rather than personnel placement — the think tank evaluates programs for the agencies that fund it.
 
-**How Urban research becomes policy:**
+### How Urban research becomes policy:
 
 1. **Federal agency commissions evaluation** — HHS, HUD, DOJ, DOE, DOL contract with Urban to evaluate their programs
 2. **Urban produces quantitative analysis** — Microsimulation models, randomized controlled trials, longitudinal studies
@@ -139,19 +139,19 @@ Urban's revolving door runs primarily between Democratic administrations and the
 
 ### What Their Funders Got
 
-**Federal government got:**
+### Federal government got:
 - The most comprehensive evaluation infrastructure for domestic social programs in the country
 - Microsimulation models (TRIM3) that allow agencies to project policy impacts before implementation
 - Political cover: when agencies cite "Urban Institute research" supporting their programs, it sounds independent even though the agency paid for the research
 - The Tax Policy Center: a bipartisan scoring operation that shapes congressional tax debate
 
-**Progressive foundations (Gates, Ford, MacArthur, Annie E. Casey, RWJF) got:**
+### Progressive foundations (Gates, Ford, MacArthur, Annie E. Casey, RWJF) got:
 - Quantitative research supporting the policy programs they also fund — a validation loop
 - Evidence base for progressive policy priorities: housing affordability, healthcare access, criminal justice reform, anti-poverty programs
 - Institutional legitimacy: "Urban Institute research shows..." carries more weight than "the Ford Foundation believes..."
 - A permanent research infrastructure that outlasts individual grants
 
-**The Democratic policy establishment got:**
+### The Democratic policy establishment got:
 - A think tank that structurally validates the Great Society framework — evaluating and improving federal programs rather than questioning their existence
 - Data infrastructure (TPC, TRIM3) that shapes how policymakers understand tax and transfer policy
 - A revolving door for policy officials between Democratic administrations

@@ -1,7 +1,7 @@
 ---
 title: New Consensus and the Green New Deal Architecture
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: "[[_Saikat Chakrabarti Master Profile]]"
@@ -46,7 +46,7 @@ Donor identities remain shielded: 501(c)(3) status permits Schedule B protection
 
 ### Staff and Compensation Patterns
 
-**As of FY2023 (most recent 990):**
+### As of FY2023 (most recent 990):
 - Saikat Chakrabarti: Director, President. $0 compensation (all years).
 - Zack Exley: Executive Director. $178,122.
 - Megan Hernandez: Director, Treasurer. $0.
@@ -67,7 +67,7 @@ New Consensus served as the intellectual and socialization apparatus for the Gre
 > [!quote]
 > "I worked on the inside to build political support, while the Sunrise Movement worked on the outside to mount a pressure campaign on representatives and presidential candidates. At the same time, New Consensus worked to flesh out the ideas in the Green New Deal and socialize them with academics and journalists."
 
-**Three-pillar strategy:**
+### Three-pillar strategy:
 1. **Inside pressure:** [[_Saikat Chakrabarti Master Profile|Chakrabarti]] as [[_Alexandria Ocasio-Cortez Master Profile|AOC]]'s CoS provided legislative architecture.
 2. **Outside pressure:** Sunrise Movement mounted grassroots/media campaigns.
 3. **Intellectual legitimacy:** New Consensus developed policy detail and cultivated academic/journalist credibility.

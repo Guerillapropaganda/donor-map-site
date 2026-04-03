@@ -1,7 +1,7 @@
 ---
 title: "Enersystems and the Personal Coal Fortune"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: [[_Joe Manchin Master Profile]]
@@ -36,12 +36,12 @@ content-readiness:: developed
 | 2011–2020 (cumulative) | $5.2M–$5.1M | Average ~$510K/year across decade |
 | 2010–2024 (total estimate) | $4.5M+ | From founding through Senate service |
 
-**Manchin's Financial Stake:**
+### Manchin's Financial Stake:
 - Stock value in Enersystems: $1M–$5M (Senate disclosure ranges)
 - Percentage of net worth: ~33% of Manchin's $4.3M–$12.8M total net worth
 - Percentage of investment portfolio: 71% of investments per Guardian analysis
 
-**Farmington Resources (secondary coal company):**
+### Farmington Resources (secondary coal company):
 - Stake: Holds mining services company co-owned with son
 - Income (2011–2020): $80K–$250K from dividends/interest
 - Asset value: Up to $500K

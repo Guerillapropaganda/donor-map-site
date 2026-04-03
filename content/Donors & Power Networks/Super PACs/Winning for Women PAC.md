@@ -1,7 +1,7 @@
 ---
 title: "Winning for Women PAC"
 type: pac
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -100,7 +100,7 @@ WFW's track record reveals the organization's dual function: general election su
 > [!contradiction]
 > **Winning for Women markets itself as a gender equity organization, but its spending pattern reveals a primary intervention vehicle funded by Wall Street.** In 2022, WFW spent more money opposing Republican candidates ($3.25M) than opposing Democratic candidates ($1.13M). The "women" branding provides political cover for what the Congressional Leadership Fund and Citadel cannot do directly: intervene in Republican primaries without triggering MAGA backlash. A super PAC called "Establishment Candidate Quality Control" would face immediate grassroots rejection. A super PAC called "Winning for Women" can spend millions against Republican primary candidates while claiming to advance women's representation.
 
-**Spending by cycle:**
+### Spending by cycle:
 
 | Cycle | Total IEs | For Republicans | Against Republicans | Against Democrats | General Success |
 |-------|----------|----------------|-------------------|------------------|----------------|

@@ -30,16 +30,16 @@ NMHC lobbies on tax policy (Section 1031 like-kind exchanges, LIHTC expansion, c
 > [!money] Follow the Money
 > NMHC is notably bipartisan in its political giving — PAC contributions in 2023–2024 split 52% to Democrats and 47% to Republicans. This is unusual among industry trade associations and reflects a strategic calculation: housing policy requires cooperation across party lines, and NMHC needs access to both sides.
 
-**2023–2024 NMHC PAC ($4M+ raised in 2024 cycle):**
+### 2023–2024 NMHC PAC ($4M+ raised in 2024 cycle):
 - 52% to Democrats, 47% to Republicans
 - $165K each to NRSC, DCCC, and DSCC
 - 2025 PAC raised: $2.1M
 - Individual contribution limits: $5,000/year
 
-**Lobbying:**
+### Lobbying:
 - 2024: $3.42M across 15 lobbyists
 
-**Financial profile (FY2024):**
+### Financial profile (FY2024):
 - Revenue: ~$28.2M ($27.4M from program services)
 - Expenses: $24.4M
 

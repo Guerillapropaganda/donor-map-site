@@ -23,7 +23,7 @@ Levin served in the Reagan administration for eight years, including as Chief of
 
 In 2015, Levin founded Conservative Review, a multi-platform conservative media network. In 2018, Conservative Review merged with Glenn Beck's TheBlaze to form Blaze Media — the same ecosystem that hosts Steven Crowder's Louder with Crowder and other right-wing programs. Levin is a ten-time New York Times bestselling author, a National Radio Hall of Fame inductee (2018), and a neoconservative known for his staunch support of Israel and hawkish foreign policy. He endorsed Ted Cruz in the 2016 Republican primaries before becoming a strong Trump supporter.
 
-**Platform reach:**
+### Platform reach:
 - The Mark Levin Show: ~400 radio affiliates, ~7M+ weekly listeners (estimated), Westwood One/Cumulus Media
 - Life, Liberty & Levin: Fox News, Saturday/Sunday evenings
 - LevinTV: streaming on Blaze Media
@@ -37,13 +37,13 @@ In 2015, Levin founded Conservative Review, a multi-platform conservative media 
 
 Levin's funding model has three distinct layers, each controlled by a different institutional interest:
 
-**Layer 1: Corporate radio — Cumulus Media/Westwood One**
+### Layer 1: Corporate radio — Cumulus Media/Westwood One
 Levin has been with Cumulus Media since 2007. He signed a 10-year contract extension with Westwood One in 2016 (through 2025), then signed another multi-year extension in July 2024. Westwood One is the exclusive distribution and sales representative for Levin's radio program. Cumulus (NASDAQ: CMLS) is the largest audio network in America, reaching over 250 million people monthly through 400+ owned stations and 9,800+ affiliates. Levin's radio income is estimated at $10-15M/year.
 
-**Layer 2: Fox News/Fox Corporation**
+### Layer 2: Fox News/Fox Corporation
 Life, Liberty & Levin has aired on Fox News since February 2018. ADWEEK reported Fox extended Levin's multi-year deal in November 2022. Fox Corporation generates $14B+ in annual revenue; Levin's Fox salary is estimated at $5-8M/year. The same Fox infrastructure that employs Hannity ($25M/yr), Ingraham ($15M/yr), and Gutfeld ($7M/yr) employs Levin.
 
-**Layer 3: Landmark Legal Foundation — Koch/Scaife/ExxonMobil dark money**
+### Layer 3: Landmark Legal Foundation — Koch/Scaife/ExxonMobil dark money
 This is the most revealing funding layer. Landmark Legal Foundation, which Levin led as president for decades and now chairs, received funding from three of the most powerful donor-class entities in American conservative politics:
 - **Charles G. Koch Charitable Foundation** — the Koch network's philanthropic arm, funding deregulation, fossil fuel interests, and anti-union efforts
 - **Sarah Scaife Foundation** — the Mellon-Scaife family fortune, one of the "four sisters" foundations that built the modern conservative movement
@@ -51,7 +51,7 @@ This is the most revealing funding layer. Landmark Legal Foundation, which Levin
 
 Levin received $300K+/year from this donor-funded foundation while simultaneously hosting a radio show that argued for the exact deregulatory positions his donors wanted. The Landmark Legal → radio host pipeline is the donor-to-media conversion in its purest form.
 
-**Layer 4: Blaze Media/Conservative Review**
+### Layer 4: Blaze Media/Conservative Review
 Levin co-founded what became Blaze Media (Conservative Review + TheBlaze merger, 2018). This gives him equity/salary from a second media company within the right-wing ecosystem. Blaze Media also hosts Crowder, Beck, and other conservative personalities — all funded by the same advertiser base and donor ecosystem.
 
 ---

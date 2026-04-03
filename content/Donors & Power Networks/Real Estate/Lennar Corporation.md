@@ -1,7 +1,7 @@
 ---
 title: "Lennar Corporation"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
@@ -30,13 +30,13 @@ Lennar operates primarily through the National Association of Home Builders (NAH
 
 Lennar's policy agenda is driven by its business model: build the most homes at the lowest cost on the most land with the fewest regulatory constraints.
 
-**Federal priorities (via NAHB):**
+### Federal priorities (via NAHB):
 - **Tariff relief on building materials:** Softwood lumber faces a 10% tariff; structural steel faces 50%. NAHB estimates current tariffs add $7,500–$10,000 to the cost of each new single-family home. Lennar's margins depend on keeping material costs below the price point where buyers can qualify for mortgages.
 - **Immigration reform for construction labor:** NAHB has pushed for a new visa program specifically for construction workers. Lennar's January 2026 10-K filing explicitly cited a "dwindling worker pool" as the primary risk to meeting its 85,000-delivery target. The 2025 immigration restrictions have accelerated labor shortages that were already structural.
 - **Housing finance reform:** Lennar benefits from any policy that expands mortgage access — the company routinely "buys down" mortgage rates to 5% or lower through its financial services subsidiary, Lennar Mortgage. Federal policies that reduce down payment requirements, expand FHA/VA eligibility, or support first-time buyers directly increase Lennar's addressable market.
 - **Zoning deregulation:** Lennar supports reforms that allow denser construction on more land — but selectively. The company favors deregulation that allows it to build more units at current prices, not reforms that would increase competition from smaller builders or mandate affordable housing set-asides.
 
-**Florida state priorities (direct lobbying):**
+### Florida state priorities (direct lobbying):
 - **SB 812 — Fast-track permitting:** Lennar lobbyists directly authored legislation allowing builders to obtain permits before finalizing development plans, hire private contractors for faster reviews, and secure "vested rights" shielding them from future regulatory changes. Representative Tiffany Esposito filed the bill as her own legislation. Investigative reporting documented that Lennar lobbyists sent the proposal directly to Esposito's office.
 - **Graywater tax credits:** Lennar lobbied for tax credits of up to $4,200 per home for graywater systems — benefiting Greyter Water Systems, a Canadian startup in which Lennar is the lead investor ($3M initial investment in 2020, co-led a $10M round announced one week after the tax break was proposed).
 - **Perpetual amenity fees:** Lennar lobbied to overturn a 2023 Florida court ruling (Avatar v. Gundel) that deemed perpetual developer amenity fees illegal. The legislation would allow developers to collect endless fees from homeowners in master-planned communities. Lennar faces its own potential class-action over similar fees at ChampionsGate near Walt Disney World.
@@ -50,13 +50,13 @@ Lennar's policy agenda is driven by its business model: build the most homes at 
 
 Lennar's political spending operates through three channels: employee/executive individual contributions to candidates (the primary federal channel), NAHB's BUILD-PAC (the industry trade channel), and direct state-level political committee contributions (the Florida channel).
 
-**Federal contributions (OpenSecrets, 2024 cycle):**
+### Federal contributions (OpenSecrets, 2024 cycle):
 Total: $261,284 from individuals associated with Lennar (employees, executives, and their families). Lennar does not operate its own federal PAC — it channels industry-level federal advocacy through NAHB's BUILD-PAC.
 
-**Stuart Miller — Executive Chairman, personal political spending:**
+### Stuart Miller — Executive Chairman, personal political spending:
 Over the past two decades, Stuart Miller has contributed approximately $350,000 to federal candidates, parties, and committees — approximately two-thirds to Democrats and one-third to Republicans. In 2009, during the company's lobbying blitz for $1.5 billion in federal tax rebates, Miller personally contributed over $96,000 to Democratic candidates. Total Lennar political spending quintupled to $1.1 million in the 2009 cycle.
 
-**The Tread Standard LLC scandal:**
+### The Tread Standard LLC scandal:
 Miller created a Delaware shell company, Tread Standard LLC, for the explicit purpose of making anonymous political contributions. Through Tread Standard, Miller funneled:
 - $150,000 to Jeb Bush's Super PAC, Right to Rise (2015)
 - $100,000 to 34N22, a Super PAC backing Herschel Walker's Georgia Senate bid (March 2022)
@@ -64,7 +64,7 @@ Miller created a Delaware shell company, Tread Standard LLC, for the explicit pu
 
 Miller admitted to the FEC that he used Tread Standard "to prevent disclosure of Miller's identity." In April 2025, the FEC dismissed the case without penalty — treating what could have been a five-year felony (contributing $25,000+ in the name of another) as a minor reporting violation. The Super PACs signed settlement agreements promising not to repeat the behavior; Miller walked free.
 
-**Florida state-level:**
+### Florida state-level:
 Lennar contributed $50,000 to the Republican Party of Florida ahead of Governor [[_Ron DeSantis Master Profile|Ron DeSantis]]'s inauguration, at a time the party was offering donors "close access and tickets" to exclusive events. Lennar also funded the political committee of its own Florida lobbying firm prior to the 2023 legislative session, creating a direct pipeline: Lennar money → lobbying firm political committee → legislative access → Lennar-authored legislation.
 
 > [!money] Follow the Money

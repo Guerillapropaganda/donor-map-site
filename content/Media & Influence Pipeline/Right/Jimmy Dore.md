@@ -27,7 +27,7 @@ Hosted The Jimmy Dore Show on TYT Network from 2009 to 2019 under the banner "Ag
 
 Dore operates a multi-platform, audience-funded model with no single corporate dependency — but with a documented foreign money connection.
 
-**Revenue streams:**
+### Revenue streams:
 - YouTube ad revenue (1.8M subscribers, estimated $44K-$131K/month from AdSense based on analytics estimates)
 - Rumble streaming (migrated content post-YouTube demonetization risks)
 - Rokfin subscriptions (independent platform)
@@ -63,7 +63,7 @@ Dore operates a multi-platform, audience-funded model with no single corporate d
 
 ### What They Push
 
-**Core narrative arc:**
+### Core narrative arc:
 - Anti-establishment populism from a class-first left perspective
 - Medicare for All as litmus test (the #ForceTheVote campaign, December 2020)
 - Anti-war, anti-interventionist foreign policy — extending to Assad apologism and chemical attack denial
@@ -79,7 +79,7 @@ Dore operates a multi-platform, audience-funded model with no single corporate d
 
 Dore represents a distinct variant of audience capture: the left-to-right pipeline accelerator who maintains left-wing self-identification while producing content that functions as right-wing recruitment.
 
-**The capture mechanism:**
+### The capture mechanism:
 1. **2009-2019 (TYT era):** Standard progressive political comedy. Audience: left-liberal, anti-corporate, pro-Bernie Sanders.
 2. **2019-2020 (independence + COVID):** Left TYT, began COVID lockdown skepticism. Progressive audience fragments, anti-establishment audience grows.
 3. **2020-2021 (ForceTheVote):** Permanent break with institutional progressives. Left audience departs en masse. Right-populist and libertarian audience arrives.

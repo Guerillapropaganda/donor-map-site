@@ -1,7 +1,7 @@
 ---
 title: "Crooked Media"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -31,7 +31,7 @@ Vote Save America, the super PAC affiliate, raised $32M in Q3 2020 directed to D
 
 **Consortium acquisition (Dec 2024):** Crooked Media joined a Soros-co-invested consortium to acquire **First We Feast / Hot Ones** from BuzzFeed for $82.5M, expanding the audio-visual media empire and signaling Soros's commitment to controlling the progressive media narrative.
 
-**Revenue streams:**
+### Revenue streams:
 - **Podcast advertising:** Est. $25-35M annually (PSA alone), 25 active sponsors
 - **Sponsored brands:** BetterHelp, SimpliSafe, ZipRecruiter, Squarespace, Masterclass (all DTC lifestyle/consumer brands; notably absent: defense contractors, financial institutions, political PACs)
 - **Subscriptions:** Friends of the Pod (35K+ paid subscribers × $9.99/month = ~$4.2M annually recurring)
@@ -72,7 +72,7 @@ The editorial ceiling is set by the founders' own political history: they cannot
 
 Crooked Media's audience **IS the Obama coalition** — educated, professional-class Democrats with disposable income, concentrated in urban and suburban coastal markets. The founders' White House background creates a specific type of audience capture: their authority comes from access to power, which means structural critique of power — or the Democratic establishment that granted them access — is off-limits.
 
-**The mechanism:**
+### The mechanism:
 1. **Authority through insider status:** "We worked in the White House, so we know what's really happening" — this claim requires defending Democratic institutional legitimacy
 2. **Audience overlap:** The 1.5M listeners are the same people who donate to Democratic campaigns, attend DNC events, and whose votes are called "turnout" in Democratic strategy
 3. **Soros alignment:** With Sept 2022 investment, Soros gained both equity stake and editorial influence over the dominant progressive podcast network — the largest media operation on the left
@@ -117,7 +117,7 @@ This is not editorial discretion. This is editorial control exercised by a polit
 
 **Founders:** All Obama White House alumni with ongoing political relationships. Their media credibility rests on Democratic institutional legitimacy.
 
-**Editorial red lines (structurally enforced):**
+### Editorial red lines (structurally enforced):
 - Cannot critique Obama foreign policy without undermining Vietor's NSC credentials
 - Cannot critique Wall Street without attacking Democratic mega-donor class
 - Cannot critique Democratic climate policy without attacking Soros-aligned priorities

@@ -1,7 +1,7 @@
 ---
 title: "Meta - Facebook"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -89,13 +89,13 @@ Meta's federal contributions still lean Democratic (92% from individuals, 8% org
 
 ### Meta PAC Detail (FEC ID: C00502906)
 
-**2023-2024 cycle:**
+### 2023-2024 cycle:
 - Raised: $341,607
 - Spent: $333,503
 - Distributed to candidates: $197,300
 - Party split: 40% Democratic, 57% Republican, 3% bipartisan
 
-**Top individual recipients:**
+### Top individual recipients:
 - John Cornyn (R-TX): $7,500
 - Angus King (I-ME): $6,000
 - Zoe Lofgren (D-CA): $5,300
@@ -103,7 +103,7 @@ Meta's federal contributions still lean Democratic (92% from individuals, 8% org
 - Steve Scalise (R-LA): $5,000
 - Thom Tillis (R-NC): $5,000
 
-**Organization-level contributions by cycle (employee + PAC combined):**
+### Organization-level contributions by cycle (employee + PAC combined):
 
 | Cycle | Total | Democratic % |
 |-------|-------|-------------|
@@ -221,7 +221,7 @@ Meta employs 85 registered lobbyists (2025), or roughly one for every six member
 
 ### State-Level Lobbying (California Focus)
 
-**California 2025 lobbying footprint:**
+### California 2025 lobbying footprint:
 - Direct lobbying: $4.6M (2025 record)
 - Behested payments (indirect influence): $1,245,000 across 34 payments
 - Policy targets: Opposed AI safety reporting bill; lobbied for veto of AI chatbot regulation
@@ -230,7 +230,7 @@ Meta employs 85 registered lobbyists (2025), or roughly one for every six member
 - Capital investment: $50M donation to Gov. Newsom's Capitol Mall building project
 - **Total California political footprint (2025): ~$30M**
 
-**New York coalition lobbying:**
+### New York coalition lobbying:
 - $823K+ in coalition with Google to kill child safety bills
 - Targeted bills: SAFE Act, Child Data Protection Act
 - Coordinated with tech industry on K-12 digital rights legislation

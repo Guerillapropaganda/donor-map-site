@@ -30,14 +30,14 @@ Freedom Partners existed to advance free-market deregulation, kill the Affordabl
 > [!money] Follow the Money
 > Freedom Partners raised $256 million in its first full year (2012) and distributed over $575 million in grants from 2012 to 2017. This was not charity — it was a coordinated investment by the donor class in political infrastructure designed to return policy dividends worth orders of magnitude more.
 
-**IRS 990 revenue by year:**
+### IRS 990 revenue by year:
 - 2011: $255.7M
 - 2012: $57.5M
 - 2013: $35.9M
 - 2014: $126.4M
 - 2015: $139.3M
 
-**Major grant recipients (2012–2017):**
+### Major grant recipients (2012–2017):
 - Americans for Prosperity: $185M ($47.5M in 2017 alone)
 - Center to Protect Patient Rights: $229M
 - 60 Plus Association: $32M
@@ -48,7 +48,7 @@ Freedom Partners existed to advance free-market deregulation, kill the Affordabl
 - Heritage Action: undisclosed
 - Club for Growth: undisclosed
 
-**Super PAC — Freedom Partners Action Fund:**
+### Super PAC — Freedom Partners Action Fund:
 - Total election spending: $50M+
 - 2014 midterms alone: $23M
 

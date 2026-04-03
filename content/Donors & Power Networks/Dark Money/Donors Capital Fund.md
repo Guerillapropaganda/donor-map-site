@@ -30,17 +30,17 @@ Donors Capital Fund exists to protect donor anonymity while funding organization
 > [!money] Follow the Money
 > Combined with sister organization DonorsTrust, these entities distributed $740 million from 1999 to 2015. DonorsTrust alone distributed $195 million to right-wing groups in 2024 — a 22% year-over-year increase. The scale makes this one of the largest anonymous funding operations in American politics.
 
-**FY2024 financials (Donors Capital Fund alone):**
+### FY2024 financials (Donors Capital Fund alone):
 - Revenue: $7.4M (90.5% from contributions)
 - Net assets: $10.7M
 - Peak revenue: $71M (2016)
 
-**DonorsTrust 2024 major recipients:**
+### DonorsTrust 2024 major recipients:
 - America First Legal: $3.4M
 - Alliance Defending Freedom: $2.8M
 - Heritage Foundation: $2.3M
 
-**Known recipients of combined DCF/DonorsTrust grants:**
+### Known recipients of combined DCF/DonorsTrust grants:
 - Heritage Foundation
 - ALEC
 - Cato Institute

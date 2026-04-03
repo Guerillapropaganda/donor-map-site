@@ -1,7 +1,7 @@
 ---
 title: "Contradiction 23 - Prison Telecom Monopoly Profits From Bipartisan Neglect"
 type: story
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null

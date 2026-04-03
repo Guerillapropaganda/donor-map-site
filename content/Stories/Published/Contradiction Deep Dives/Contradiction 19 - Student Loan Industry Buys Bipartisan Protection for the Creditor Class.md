@@ -1,7 +1,7 @@
 ---
 title: "Contradiction 19 — Student Loan Industry Buys Bipartisan Protection for the Creditor Class"
 type: story
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -32,7 +32,7 @@ SLM Corporation (Sallie Mae), privatized in 2004, split in 2014 into SLM Corp (p
 
 **Navient contributions 2014–2024:** ~$1.86 million total, with a remarkably stable partisan split: 43–47% Democratic, 53–57% Republican in every cycle. No cycle shows anything approaching partisan exclusivity. [OpenSecrets](https://www.opensecrets.org/orgs/navient-corp/totals?id=D000068171) (Tier 1)
 
-**Combined Navient + SLM Corp lobbying (selected years):**
+### Combined Navient + SLM Corp lobbying (selected years):
 
 | Year | Combined Lobbying |
 |------|-------------------|

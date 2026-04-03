@@ -21,7 +21,7 @@ Owen Jones (born August 8, 1984, Sheffield, UK) is a British journalist, columni
 
 Jones read History at University College, Oxford (graduated 2005), worked as a trade union lobbyist and parliamentary researcher for Labour MP John McDonnell before entering journalism. His parents were both members of the Militant tendency, a Trotskyist faction within the Labour Party — he grew up in a household where left politics was the default position, not an acquired conviction. He has been a Labour Party member since age 15; he left the party in March 2024 citing Keir Starmer's rejection of the policy platform on which Starmer won the 2021 Labour leadership election.
 
-**Key biographical facts:**
+### Key biographical facts:
 - Born Sheffield; raised Stockport; attended Bramhall High School
 - University College, Oxford (BA History, 2005)
 - Journalist of the Year, Stonewall Awards 2012
@@ -49,7 +49,7 @@ Jones's income derives from multiple institutional sources:
 
 ### Who Funds Them
 
-**Primary funder: The Guardian / Scott Trust**
+### Primary funder: The Guardian / Scott Trust
 
 The Guardian is owned by the Scott Trust Limited, which holds the shares of Guardian Media Group (GMG). The Scott Trust's purpose is to ensure The Guardian's financial and editorial independence in perpetuity. In practice:
 - GMG generates revenue from digital advertising, subscriptions (3M+ paying supporters), events, and commercial partnerships
@@ -58,11 +58,11 @@ The Guardian is owned by the Scott Trust Limited, which holds the shares of Guar
 
 **The institutional constraint:** Jones's most controversial work (the Drop Site News article accusing a BBC editor of systematic Israeli propaganda) was NOT published in the Guardian — it was published in Drop Site News. This is analytically significant: the Guardian's institutional constraints (libel risk, BBC relationships, institutional reputation management) created an editorial ceiling that Jones circumvented by publishing elsewhere. When Jones sued over the resulting libel claim, he won (High Court, March 2026). But the original publishing choice — taking the riskiest work to an independent outlet — reveals the Guardian's operational red lines even for its most prominent left columnists.
 
-**Secondary: Penguin Books / Bertelsmann**
+### Secondary: Penguin Books / Bertelsmann
 
 Penguin is owned by Bertelsmann, the German media conglomerate (revenue ~€19B/year). Jones's publishing relationship with Penguin places his work inside a global commercial publishing infrastructure. Penguin does not editorially constrain columnists at the level that advertiser relationships constrain U.S. media — but commercial publishing has its own incentives (saleable, readable, not legally liability-generating content).
 
-**Tertiary: YouTube / Alphabet / Google**
+### Tertiary: YouTube / Alphabet / Google
 
 YouTube's advertising revenue model means Jones's video income depends on Google's advertiser relationships and algorithmic promotion. His content must remain within YouTube's Community Guidelines. For UK left political content, this has generally not been a constraint — but demonetization risk is present for controversial content (e.g., explicit support for groups designated as terrorist organizations by the UK government).
 
@@ -90,17 +90,17 @@ Jones's capture architecture is institutional rather than corporate-advertiser i
 
 ### What Their Funders Got
 
-**What The Guardian gets from Jones:**
+### What The Guardian gets from Jones:
 - The most prominent left-wing columnist in British media — essential for Guardian's credibility as a left-liberal institution
 - Significant YouTube audience and social media reach that drives Guardian brand awareness
 - A writer whose positions attract both readers who agree and readers who disagree — controversy generates traffic
 - A writer who takes institutional risk on his own (Drop Site News) rather than exposing the Guardian to direct libel risk
 
-**What Penguin/Bertelsmann gets:**
+### What Penguin/Bertelsmann gets:
 - Bestselling political authors with reliable commercial audiences (*The Establishment* was a Sunday Times bestseller)
 - Left-wing political content that is genuinely commercially viable — Jones's books sell at scale
 
-**What Jones himself gets:**
+### What Jones himself gets:
 - Platform for genuine political analysis that has shaped mainstream left discourse in the UK
 - *Chavs* (2011) is arguably the most influential piece of left political writing in post-2010 UK — it reframed the working class debate and is still cited in academic and political contexts
 
@@ -125,7 +125,7 @@ Jones's capture architecture is institutional rather than corporate-advertiser i
 
 ### Class Analysis
 
-**Who benefits from Jones's platform existing:**
+### Who benefits from Jones's platform existing:
 
 1. **British working class and left-leaning audiences** — Jones's genuine class analysis (*Chavs*, *The Establishment*) has materially shaped how British working-class politics are discussed. *Chavs* directly challenged the cultural demonization of working-class people; its policy impact was real in shifting media and parliamentary discourse.
 
@@ -143,7 +143,7 @@ Jones's capture architecture is institutional rather than corporate-advertiser i
 
 **Income dependency:** Guardian salary (~£60-100K) + Penguin royalties + YouTube revenue + speaking fees. Multiple income streams reduce dependency on any single source, but Guardian relationship is primary.
 
-**Editorial red lines:**
+### Editorial red lines:
 - Cannot publish institutional-attack journalism through the Guardian that carries significant UK libel risk (Drop Site News used for BBC/Gaza piece)
 - Cannot explicitly endorse electoral parties in Guardian columns (journalistic convention, not contractual)
 - Cannot maintain party membership while writing Guardian political commentary at this level (per journalistic norms — he left Labour)

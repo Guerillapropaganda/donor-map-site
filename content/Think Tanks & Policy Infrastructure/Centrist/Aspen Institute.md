@@ -37,10 +37,10 @@ The Aspen Institute operates through dozens of programs and initiatives spanning
 
 The Aspen Institute's funding model is staggeringly diversified — foundation grants, corporate sponsors, government contracts, individual mega-donors, and $48M in program service revenue (conference fees, seminar tuition).
 
-**Mega-Donors ($1M+ in 2023):**
+### Mega-Donors ($1M+ in 2023):
 38 groups gave $1M+ in 2023, including: Walmart Foundation, Google LLC, Ford Foundation, Gates Foundation, Bloomberg Philanthropies. The $175M Bezos Family Foundation endowment in 2024 dwarfs any single gift in this vault.
 
-**Foundation Funders:**
+### Foundation Funders:
 - Ford Foundation
 - Gates Foundation
 - Carnegie Corporation
@@ -49,14 +49,14 @@ The Aspen Institute's funding model is staggeringly diversified — foundation g
 - MacArthur Foundation ($7.6M total, 1981-2023)
 - Arnold Ventures ($100K for Congressional Program, $750K for criminal justice, 2022)
 
-**Corporate Sponsors:**
+### Corporate Sponsors:
 - Google, Microsoft, Amazon, IBM — tech sector ($285K+ combined to Aspen since 2021)
 - McKinsey & Company ($200K), Deloitte ($100K), Boston Consulting Group ($50K)
 - General Dynamics ($100K), RTX/Raytheon ($100K), Accenture ($50K), General Electric ($50K), Peraton ($50K), Batelle ($25K)
 - Merck ($225K)
 - Breakthrough Energy Foundation (Bill Gates) — $500K+ in 2022
 
-**Federal Government Funding:**
+### Federal Government Funding:
 - $32.6M from federal agencies (2021-2025) including:
   - USAID: $9M five-year agreement for Guatemalan investment
   - State Department: $6M contract for North Africa/Middle East exchange program (2024)
@@ -66,10 +66,10 @@ The Aspen Institute's funding model is staggeringly diversified — foundation g
   - Treasury: $210K
   - Fish and Wildlife Service: $25K
 
-**Foreign Government Funding:**
+### Foreign Government Funding:
 Over $8M from foreign sources (2014-2018), primarily Western democracies but including Saudi Arabia and UAE.
 
-**Revenue Trajectory:**
+### Revenue Trajectory:
 | Fiscal Year | Revenue | Expenses | Net Assets |
 |-------------|---------|----------|------------|
 | 2024 | $443.8M | $234.3M | $647.1M |
@@ -119,36 +119,36 @@ The Aspen Institute doesn't produce model legislation or traditional policy pape
 
 The Aspen Institute's revolving door operates at the highest levels of government — not junior staff placements, but Cabinet secretaries and agency heads rotating onto the board.
 
-**Walter Isaacson (CEO, 2003-2018):**
+### Walter Isaacson (CEO, 2003-2018):
 - CNN chairman → Time magazine editor → Aspen Institute CEO → Celebrity biographer
 - *Media → think tank → cultural production. Isaacson's role was to give Aspen elite cultural credibility.*
 
-**Dan Glickman (VP, Executive Director of Congressional Program):**
+### Dan Glickman (VP, Executive Director of Congressional Program):
 - Secretary of Agriculture (Clinton admin)
 - Chairman/CEO, Motion Picture Association of America
 - Aspen Institute VP, Congressional Program director ($340K)
 - *Cabinet → corporate lobby → think tank running the congressional access program*
 
-**Robert K. Steel (Former Board Chair):**
+### Robert K. Steel (Former Board Chair):
 - Goldman Sachs partner (20+ years)
 - Under Secretary of the Treasury for Domestic Finance (Bush admin)
 - CEO of Wachovia Bank
 - Aspen Institute board chair
 - *Goldman Sachs → Treasury → banking CEO → think tank chairman — the full circuit*
 
-**Alex Azar II (Trustee):**
+### Alex Azar II (Trustee):
 - HHS Secretary (Trump admin)
 - Eli Lilly executive (president of U.S. operations)
 - Aspen Institute trustee
 - *Pharma executive → HHS Secretary → think tank board — carrying pharmaceutical interests into government and back*
 
-**Madeleine Albright (Former Trustee):**
+### Madeleine Albright (Former Trustee):
 - Secretary of State (Clinton admin)
 - Aspen Institute trustee and chair of Aspen Strategy Group
 - Also on boards of multiple corporations
 - *Cabinet → think tank → corporate boards*
 
-**Mickey Edwards (VP and Program Director):**
+### Mickey Edwards (VP and Program Director):
 - Republican member of Congress (Oklahoma, 1977-1993)
 - Aspen Institute VP, Rodel Fellowship program director ($347K)
 - *Congress → think tank — training next generation of bipartisan leaders in Aspen's worldview*
@@ -162,7 +162,7 @@ The Aspen Institute's revolving door operates at the highest levels of governmen
 
 The Aspen Institute's funders receive a return that is harder to quantify than direct policy wins but arguably more valuable: **the manufacture of elite consensus**.
 
-**Specific Returns:**
+### Specific Returns:
 
 1. **Tech Regulation Framing:** Google, Microsoft, Amazon, and IBM collectively gave $285K+ while the Aspen Institute ran congressional AI trips. Before formal AI regulation debates began, these trips shaped how members of Congress conceptualized AI governance — with the donors' preferred "light-touch" framing embedded in the conversation from the start.
 

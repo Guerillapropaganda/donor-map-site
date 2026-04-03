@@ -43,15 +43,15 @@ Wiener is the YIMBY movement's legislative champion — a pro-housing Democrat w
 > [!money] Follow the Money
 > Wiener's congressional campaign has raised $2.78M with $2.27M cash on hand. His career fundraising shows significant real estate sector funding — $500K+ from real estate interests, drawing criticism from housing activists.
 
-**Congressional campaign (CA-11, launched 2025):**
+### Congressional campaign (CA-11, launched 2025):
 - Raised: $2.78M
 - Cash on hand: $2.27M
 
-**Career funding patterns:**
+### Career funding patterns:
 - Real estate interests: $500K+ across career
 - Endorsements: California Democratic Party, LGBTQ Victory Fund, EMILY's List, tech industry donors
 
-**Key endorsements:**
+### Key endorsements:
 - California Democratic Party (2026 congressional race)
 - LGBTQ Victory Fund
 - EMILY's List

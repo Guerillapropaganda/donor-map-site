@@ -119,7 +119,7 @@ This is Akin Gump's core product. In 2024, **41 of 74 registered lobbyists (55.4
 
 #### Campaign Bundlers
 
-**Geoffrey K. Verhoff — Senior Advisor, Lobbying & Public Policy**
+### Geoffrey K. Verhoff — Senior Advisor, Lobbying & Public Policy
 Background: Not a traditional revolving door government hire. Verhoff served as Vice Chairman of the Republican National Committee's finance arm from 2017 to 2021, and was **Trump's largest known money bundler during the 2024 election cycle**, raising at least $3.6 million for the Trump 47 Committee. He is the clearest structural example of the **Bundling Operation** pattern: the same individual who raises campaign contributions for a politician is simultaneously retained by the lobbying firm that then represents clients who need access to that politician's administration.
 
 In Q1 2025 alone — the first three months after Trump's inauguration — Verhoff personally generated $3.4 million in new client billings, led by Nippon Steel's $1.7 million payment to Akin Gump. The Trump access he built as a campaign bundler became immediately monetizable the moment the administration took office. His single biggest client is Nippon Steel, for whom he ran one of the most consequential lobbying reversals of 2025 alongside Ballard Partners' Brian Ballard.
@@ -193,7 +193,7 @@ Akin Gump has maintained bipartisan access for over three decades, predating the
 
 ### Billing vs. Outcomes
 
-**Revenue trajectory:**
+### Revenue trajectory:
 - 2023: ~$54.7M
 - 2024: $56.6M (269 clients)
 - 2025: $65.4M (307 clients) — record high, firm's largest year ever

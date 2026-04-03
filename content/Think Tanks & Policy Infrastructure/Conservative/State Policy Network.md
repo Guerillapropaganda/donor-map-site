@@ -32,18 +32,18 @@ SPN affiliates advance school choice/voucher programs, anti-union legislation (r
 > [!money] Follow the Money
 > SPN's FY2024 revenue reached $25.2M ($23.8M from contributions — 94% donor-funded). The broader network of 64 affiliates had combined revenue exceeding $227M as of 2025. This is a quarter-billion-dollar policy infrastructure funded almost entirely by anonymous contributions.
 
-**Major known funders (2014–2019):**
+### Major known funders (2014–2019):
 - DonorsTrust/Donors Capital Fund: $26.6M
 - Searle Freedom Trust: $4.2M
 - Walton Family Foundation: $1.7M
 - Bradley Foundation: $1.6M
 
-**Financial profile:**
+### Financial profile:
 - FY2024 revenue: $25.2M
 - Total network affiliate revenue: $227M+ (2025)
 - Total assets: $24.6M
 
-**Network reach:**
+### Network reach:
 - 64 state-level think tank affiliates
 - 100+ national partners
 - 115,000 media mentions (2024)

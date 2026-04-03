@@ -24,7 +24,7 @@ Benjamin Aaron Shapiro (b. January 15, 1984) is the co-founder and editor emerit
 
 Shapiro graduated summa cum laude from UCLA in 2004 and cum laude from Harvard Law School in 2007. He served as editor-at-large at Breitbart News from 2012 to 2016, resigning over the site's failure to support reporter Michelle Fields after she was assaulted by Trump campaign manager Corey Lewandowski. The resignation positioned Shapiro as a principled conservative critic of Trumpism — a brand posture he has steadily walked back since 2020.
 
-**Platform reach (2024–2025):**
+### Platform reach (2024–2025):
 - The Ben Shapiro Show: 25 million monthly downloads; Q4 2024 ranked among the top 50 U.S. podcasts by Edison Research
 - Daily Wire+: 1 million+ paying subscribers at approximately $7.99/month
 - Social media: 35M+ followers across platforms
@@ -49,7 +49,7 @@ The Daily Wire's revenue structure has three pillars: subscriptions, advertising
 
 **Advertising:** Despite the right-wing media industry's historic difficulty with Fortune 500 advertisers, Shapiro testified before Congress as part of efforts to open mainstream ad spending to conservative media. Those efforts produced results: conversations with Fortune 500 advertisers have "opened up enormously" per DW statements.
 
-**Valuation trajectory:**
+### Valuation trajectory:
 - 2023: Raised undisclosed round at valuation "well north of $1 billion"
 - September 2025: Closed $100 million Series B at $850 million valuation
 - May 2025 (concurrent): Shapiro simultaneously meetings with investors at the Milken Conference seeking capital — or a buyer — amid financial pressure following 25% staff layoffs and reports of a hired bankruptcy attorney
@@ -80,16 +80,16 @@ The Daily Wire's revenue structure has three pillars: subscriptions, advertising
 
 ### Who Funds Them
 
-**Farris and Dan Wilks — Founding Investors / Co-Owners**
+### Farris and Dan Wilks — Founding Investors / Co-Owners
 Texas fracking billionaires who built their fortune through Frac Tech Holdings. Deeply religious (Assembly of Yahweh 7th Day congregation), the brothers view right-wing media as a vehicle for shifting the country's moral and political values. Before backing Shapiro, they contributed $6.5 million to PragerU in 2013 — establishing a pattern of funding coordinated conservative media infrastructure rather than single candidates. Farris Wilks remains a co-owner of The Daily Wire. He has separately put $6.8 million into Texans United for a Conservative Majority PAC.
 
-**Dennis Prager — Shareholder**
+### Dennis Prager — Shareholder
 Co-founder of PragerU, the Wilks-funded short-video propaganda operation. Prager holds a stake in The Daily Wire, creating a direct equity link between the two largest Wilks-funded media properties. The Shapiro-Prager-Wilks triangle is not a coincidence of shared values — it is a coordinated media ecosystem built with fossil fuel money.
 
-**Daily Wire+ Subscribers — 1M+ paying audience**
+### Daily Wire+ Subscribers — 1M+ paying audience
 Subscribers at $7.99/month represent both revenue and audience capture. The subscription model rewards content that generates outrage and loyalty, not content that challenges the funding class's interests.
 
-**Fortune 500 Advertisers — Growing**
+### Fortune 500 Advertisers — Growing
 Following Shapiro's Congressional testimony on advertising discrimination against conservative media, major corporate advertisers have expanded relationships with The Daily Wire. This introduces a second layer of sponsor veto alongside the Wilks ideological constraints.
 
 > [!money]
@@ -132,21 +132,21 @@ Shapiro's brand is built on a specific rhetorical posture: the calm, fast-talkin
 
 ### What Their Funders Got
 
-**Farris Wilks / fossil fuel sector:**
+### Farris Wilks / fossil fuel sector:
 - A top-10 climate disinformation platform reaching 25M+ monthly listeners, co-owned for a $4.7M seed investment in 2015
 - Normalization of climate skepticism as conservative identity marker — listeners who "trust Shapiro" receive fossil-fuel-favorable framing as empirical fact
 - Coordinated media infrastructure (DW + PragerU) producing the same climate messaging from multiple "independent" sources — amplifying the perception of consensus
 
-**Israel Lobby / pro-Israel donors:**
+### Israel Lobby / pro-Israel donors:
 - Unwavering editorial support for Israeli military operations regardless of civilian casualty counts
 - Firing of any DW talent who expressed insufficient support for Israel (Owens, 2024)
 - Shapiro's intellectual credibility lent to the framing that criticism of Israeli military operations equals antisemitism
 
-**TPUSA / Koch ecosystem:**
+### TPUSA / Koch ecosystem:
 - In September 2025, The Daily Wire donated $1 million to Turning Point USA in Charlie Kirk's honor — a direct cash transfer from one Wilks-adjacent media property to another Wilks-Koch youth political infrastructure organization
 - Daily Wire audience functions as a recruitment pipeline for TPUSA and affiliated campus organizing
 
-**Shapiro personally:**
+### Shapiro personally:
 - Net worth estimated at $50 million+
 - Transitioned from journalist/commentator to media executive and CEO-equivalent
 - Positioned as intellectual legitimizer for donor-class conservatism

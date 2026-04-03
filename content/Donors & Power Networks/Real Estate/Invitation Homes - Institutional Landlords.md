@@ -1,7 +1,7 @@
 ---
 title: "Invitation Homes - Institutional Landlords"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -36,7 +36,7 @@ Opposition to rent control and tenant protection legislation at all levels (fede
 > [!money] Follow the Money
 > The **PE landlord bloc collectively owns approximately 350,000+ corporate-owned single-family rental homes** and deploys coordinated political resources through [[National Rental Home Council|NRHC]], [[National Multifamily Housing Council|NMHC]], and allied trade associations. Combined 2024 federal lobbying: **$150.9 million deployed by 638 lobbyists, 61.13% of whom are revolvers** (former government officials).
 
-**Institutional Landlord Bloc Political Power:**
+### Institutional Landlord Bloc Political Power:
 
 | Entity | Homes Owned | Key Political Activity |
 |--------|------------|----------------------|
@@ -54,7 +54,7 @@ The **NRHC**, founded in March 2014 by Colony American Homes, Invitation Homes, 
 
 NRHC lobbying has grown from **$200,000 (2021) to $460,000 (2024)**, and the group recently hired [[Sudafi Henry|former Biden aide Sudafi Henry]] to lobby on single-family rental issues.
 
-**Trade Association Network 2024 Lobbying Deployment:**
+### Trade Association Network 2024 Lobbying Deployment:
 
 | Trade Association | 2024 Lobbying | Key Members | Revolvers % |
 |-------------------|--------------|------------|-----------|
@@ -91,7 +91,7 @@ Invitation Homes specifically spent **$1M+ opposing CA Prop 10 (2018)** and **$5
 
 Despite growing bipartisan concern about institutional investors buying single-family homes, no federal legislation restricting corporate homebuying has passed. The **Stop Wall Street Landlords Act** (introduced 2022, 2024, 2026) has stalled in committee in all three sessions. Invitation Homes and the institutional landlord lobby have successfully prevented any federal restriction on their core business model.
 
-**Federal bills opposed and killed by PE landlord bloc:**
+### Federal bills opposed and killed by PE landlord bloc:
 
 - **Stop Wall Street Landlords Act** (2022, 2024, 2026) — Would remove tax benefits for large corporate SFR owners. Stalled in committee all three sessions.
 - **End Hedge Fund Control of American Homes Act** (2023-2024) — Would force PE firms to sell SFR holdings over 10 years. Killed in committee.

@@ -57,7 +57,7 @@ Breaking Points operates a hybrid subscription-and-advertising model deliberatel
 
 Ball's FEC record splits into two phases: her own 2010 congressional race (VA-1, lost 63.9%-34.8%) and her post-media political giving. Excluding own-campaign and ActBlue conduit entries, her political giving totals ~$77,275 across 29 unique recipients — all progressive insurgent or Democratic candidates.
 
-**Top recipients (excluding own campaign and ActBlue conduit):**
+### Top recipients (excluding own campaign and ActBlue conduit):
 
 | Recipient | Total | # | Party | Period |
 |-----------|-------|---|-------|--------|

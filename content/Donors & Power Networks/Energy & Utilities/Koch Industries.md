@@ -1,7 +1,7 @@
 ---
 title: "Koch Industries"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -34,7 +34,7 @@ Koch Industries' policy priorities are the Koch Network's priorities, and every 
 
 Koch Industries' revenue is overwhelmingly dependent on fossil fuel extraction, refining, transport, and trading. The company's strategic position in Canadian oil sands refining makes it uniquely vulnerable to climate regulation and carbon pricing.
 
-**Flint Hills Resources — Refining Operations**
+### Flint Hills Resources — Refining Operations
 
 | Refinery | Location | Crude Capacity | Products | Notes |
 |----------|----------|----------------|----------|-------|
@@ -46,7 +46,7 @@ Koch Industries' revenue is overwhelmingly dependent on fossil fuel extraction, 
 > [!money] Tar Sands Dependency
 > Koch Industries' refining operations are architected around processing heavy Canadian crude from the Alberta oil sands. Pine Bend is specifically designed for this feedstock — it cannot efficiently process light shale crude. This makes Koch strategically dependent on: (1) continued extraction from Alberta tar sands, (2) pipeline infrastructure to move tar sands crude to U.S. refineries, (3) regulations that don't disadvantage heavy crude processing, and (4) no carbon pricing that would make tar sands crude uneconomical. Keystone XL was essential to Koch Industries' future profitability — not ideological pipeline politics, but direct corporate survival.
 
-**Koch Pipeline Company — 4,000 Miles of Crude and Refined Transport**
+### Koch Pipeline Company — 4,000 Miles of Crude and Refined Transport
 
 | System | Miles | Capacity | Product | Notes |
 |--------|-------|----------|---------|-------|
@@ -55,7 +55,7 @@ Koch Industries' revenue is overwhelmingly dependent on fossil fuel extraction, 
 | **Colonial Pipeline** | (stake) | World's largest-volume refined products pipeline | Refined fuels | **28% ownership — Koch's largest pipeline stake** |
 | **Trans Alaska Pipeline** | (stake) | Carries ~15% of U.S. crude | Crude oil | **3% Koch ownership interest** |
 
-**Koch Minerals / Koch Carbon — Petroleum Coke Operations**
+### Koch Minerals / Koch Carbon — Petroleum Coke Operations
 
 Koch Minerals (formerly Koch Carbon) operates the world's largest dry-bulk commodities trading and marketing operation, with particular focus on **petroleum coke (petcoke)** — an extremely carbon-intensive byproduct of oil sands refining.
 
@@ -67,7 +67,7 @@ Koch Minerals (formerly Koch Carbon) operates the world's largest dry-bulk commo
 
 Koch's petcoke operations are a direct climate liability: the company generates petcoke as a refining byproduct and exports it globally where it will be burned, creating emissions that would be illegal or economically unviable in the U.S. A 2013 controversy over Detroit and Chicago petcoke piles becoming a public health hazard led Koch to fight for continued petcoke storage and export rights.
 
-**Koch Ag & Energy Solutions (KAES) — Fertilizer**
+### Koch Ag & Energy Solutions (KAES) — Fertilizer
 
 Koch is one of the four companies controlling 75% of the U.S. nitrogen-based fertilizer market. KAES is a direct natural gas business: nitrogen fertilizers are produced from natural gas (as feedstock for ammonia synthesis). Every dollar increase in natural gas prices threatens KAES margins.
 
@@ -80,7 +80,7 @@ Koch is one of the four companies controlling 75% of the U.S. nitrogen-based fer
 
 The Wever acquisition signals Koch's confidence in: (1) continued natural gas price stability or decline, (2) agricultural demand for nitrogen fertilizers, and (3) regulatory acceptance of large fertilizer operations. Any carbon pricing on natural gas or climate policy targeting agricultural emissions directly threatens the investment thesis.
 
-**Georgia-Pacific — Petrochemical Exposure**
+### Georgia-Pacific — Petrochemical Exposure
 
 Koch Industries acquired Georgia-Pacific in December 2005 for **$21 billion**, at the time making Koch the nation's largest private company. Georgia-Pacific generates approximately **$20.5 billion in annual revenue** (2023 estimate) and employs 30,000+ across 150+ locations in 27 states.
 
@@ -108,7 +108,7 @@ Charles Koch's libertarian ideology provides the intellectual framework, but the
 
 ### Specific Regulatory Outcomes and Lobbying Targets
 
-**EPA Emissions Standards Opposition**
+### EPA Emissions Standards Opposition
 
 Koch has systematically lobbied against every major EPA emissions regulation:
 
@@ -122,7 +122,7 @@ Koch has systematically lobbied against every major EPA emissions regulation:
 
 5. **Clean Power Plan (2015):** Through [[Americans for Prosperity|AFP]], the Koch network opposed Obama's Clean Power Plan, targeting coal and natural gas power plants. Koch subsidiary Flint Hills Resources spent **$1 million on California Proposition 23** (2010) — an attempt to suspend AB 32 climate law — and lost.
 
-**Chemical Safety Regulation Opposition — Georgia-Pacific**
+### Chemical Safety Regulation Opposition — Georgia-Pacific
 
 Georgia-Pacific (Koch subsidiary) has contested EPA safety designations for three decades:
 
@@ -132,7 +132,7 @@ Georgia-Pacific (Koch subsidiary) has contested EPA safety designations for thre
 - **Asbestos, Benzene:** Koch lobbied to prevent tighter controls on asbestos, formaldehyde, and benzene — all directly linked to Koch's chemical and refinery operations.
 - **Chemical Plant Security:** Koch opposed chemical plant security provisions (2007-2010), specifically resisting requirements for "inherently safer" technology at facilities using chlorine dioxide, hydrofluoric acid (Corpus Christi), and formaldehyde.
 
-**Renewable Fuel Standard Waiver Lobbying (2017-2024)**
+### Renewable Fuel Standard Waiver Lobbying (2017-2024)
 
 Koch holds a paradoxical position on ethanol:
 - Flint Hills Resources is the **largest purchaser of ethanol in Minnesota** (uses it as blendstock in refined gasoline)
@@ -141,11 +141,11 @@ Koch holds a paradoxical position on ethanol:
 
 2023-2024 lobbying targets included: H.R.4469 (prohibiting eRINs from satisfying RFS volume requirements), Consumer and Fuel Retailer Choice Act, Fuels Parity Act.
 
-**Pipeline Permitting and Federal Lease Opposition**
+### Pipeline Permitting and Federal Lease Opposition
 
 Koch Pipeline Company lobbied for streamlined permitting for its South Texas crude oil system (540+ miles, Eagle Ford to Corpus Christi, expanded 2010-2014). The Trump administration's pro-pipeline stance — advanced partly through Koch network allies in key agencies — benefited Koch pipeline operations through expedited permitting and reduced environmental review.
 
-**Crude Oil Export Ban Repeal (December 2015)**
+### Crude Oil Export Ban Repeal (December 2015)
 
 Koch Industries actively lobbied Congress to lift the 1975 crude oil export ban. Koch Industries president Philip Ellender stated: **"We hope Congress will still consider lifting the crude export ban on its own merits, not by burdening society with continuing subsidies"** — explicitly opposing the wind/solar tax credit extension that was bundled with the repeal.
 
@@ -181,7 +181,7 @@ KochPAC (FEC ID: C00236489) has operated since 1995 with remarkable consistency:
 > [!contradiction] From Two-Party Buyer to Pure GOP Vehicle
 > In 2000, KochPAC gave 24% of candidate contributions to Democrats (energy and agriculture votes in Democratic hands). By 2024, Democratic contributions hit zero. The partisan collapse happened gradually (2000-2008: 85% R), then dramatically (2009-2010: 90% R), then absolutely (2011+: 98%+ R). This tracks the rise of Tea Party faction dominance and the complete coalition realignment in energy politics.
 
-**Democratic recipients (2000-2020, now discontinued):**
+### Democratic recipients (2000-2020, now discontinued):
 - Collin Peterson (D-MN, Agriculture Chair): $10,000 (2020)
 - Kurt Schrader (D-OR): $10,000 (2020)
 - Henry Cuellar (D-TX): $10,000 (2020)
@@ -197,10 +197,10 @@ All were energy/agriculture district Democrats. By 2024, even these last three w
 
 ### Who They Fund
 
-**Koch Industries PAC (direct contributions):**
+### Koch Industries PAC (direct contributions):
 Koch Inc. PAC raised $3.6 million in the 2023-2024 cycle and distributed $1.69 million to federal candidates — exclusively Republicans (100% in 2024), targeting Energy and Commerce Committee members, Environment and Public Works Committee members, and tax-writing committee members. The PAC's direct contributions are modest because the Koch Network's dark money infrastructure provides a vastly larger and less traceable political spending channel.
 
-**Top Koch Industries PAC Recipients (2024 cycle):**
+### Top Koch Industries PAC Recipients (2024 cycle):
 | Recipient | Party | 2024 Amount | Notable History |
 |-----------|-------|------------|------------------|
 | Jason Smith | R-MO | $23,200 | House Ways & Means Chair (2023+) |
@@ -209,7 +209,7 @@ Koch Inc. PAC raised $3.6 million in the 2023-2024 cycle and distributed $1.69 m
 | Ron DeSantis | R-FL | $13,352 | 2024 presidential primary candidate |
 | Nikki Haley | R | $21,054 | 2024 presidential primary candidate |
 
-**Historical top recipients (prior cycles):**
+### Historical top recipients (prior cycles):
 | Recipient | Party | Peak Amount | Peak Cycle | Notes |
 |-----------|-------|------------|-----------|-------|
 | Mike Pompeo | R-KS | $114,400 | 2014 | "Congressman from Koch" — Wichita district |
@@ -228,7 +228,7 @@ Koch Inc. PAC raised $3.6 million in the 2023-2024 cycle and distributed $1.69 m
 
 ---
 
-**Koch Industries total political operation (2024 cycle):**
+### Koch Industries total political operation (2024 cycle):
 
 | Vehicle | 2024 Spending | Purpose |
 |---------|--------------|---------|
@@ -252,16 +252,16 @@ Koch Inc. PAC raised $3.6 million in the 2023-2024 cycle and distributed $1.69 m
 
 ### What They've Gotten
 
-**EPA Rollbacks (2017-2021, 2025-present):**
+### EPA Rollbacks (2017-2021, 2025-present):
 Clean Power Plan repeal, methane regulation rollback, weakened PFAS enforcement, and reduced refinery emissions standards — all directly benefiting Koch Industries' refining operations. The second Trump administration launched what EPA itself called the "biggest deregulatory action in U.S. history," proposing to roll back air pollution rules for power plants and weaken the Mercury and Air Toxics Standards (MATS). Koch-backed groups — including AFP and the Competitive Enterprise Institute — provided the legal and lobbying infrastructure for these rollbacks.
 
-**West Virginia v. EPA (2022) — The Koch SCOTUS Campaign:**
+### West Virginia v. EPA (2022) — The Koch SCOTUS Campaign:
 The Americans for Prosperity Foundation filed an amicus brief in West Virginia v. EPA, arguing the Supreme Court should limit EPA's regulatory authority over greenhouse gas emissions. The Court ruled 6-3 to curb EPA's power under the "major questions doctrine." Koch-tied groups spent years building the legal framework and funding the judicial pipeline (via the [[Federalist Society]]) that produced the majority. The ruling protects Koch Industries' refinery operations from future climate regulation.
 
-**TCJA (2017) — The Pass-Through Windfall:**
+### TCJA (2017) — The Pass-Through Windfall:
 The corporate rate reduction and the 20% pass-through income deduction generated massive tax savings for Koch Industries' privately held structure. Charles Koch reportedly told donors at a network retreat that the network's $20 million investment in the tax bill fight had generated "a tax cut you're already benefiting from." The pass-through provision was specifically designed to benefit private companies like Koch Industries that are structured as pass-through entities.
 
-**Climate Regulation Prevention — Three Decades of Success:**
+### Climate Regulation Prevention — Three Decades of Success:
 No federal carbon pricing, emissions trading, or carbon tax has been enacted in the United States. This is the Koch Network's single most important policy achievement over three decades of sustained advocacy. Every proposed climate regulation — cap-and-trade (Waxman-Markey 2009), Clean Power Plan (2015), Build Back Better climate provisions (2021) — has been defeated or gutted. The Koch Network's lobbying, litigation, and electoral operations have maintained a regulatory environment in which Koch Industries' refining operations face no carbon-related costs.
 
 > [!money] The Regulatory Protection ROI
@@ -363,7 +363,7 @@ Koch Industries' federal lobbying spending reveals the company's strategic prior
 
 Koch Industries' lobbying is concentrated in oil & gas (96% of 1998-2017 spending), but operates through multiple subsidiary entities and shell organizations to distribute enforcement burdens and create the appearance of independent advocacy.
 
-**Lobbying by Industry Classification (1998-2017):**
+### Lobbying by Industry Classification (1998-2017):
 
 | Industry | Total Spend | Percentage | Notes |
 |----------|------------|-----------|-------|
@@ -373,7 +373,7 @@ Koch Industries' lobbying is concentrated in oil & gas (96% of 1998-2017 spendin
 | Mining | $430,000 | 0.4% | Minor operations |
 | General Contractors | $160,000 | 0.1% | Infrastructure-related |
 
-**Lobbying by Subsidiary and Peak Year:**
+### Lobbying by Subsidiary and Peak Year:
 
 | Entity | Peak Spend | Peak Year | Notes |
 |--------|-----------|-----------|-------|
@@ -393,7 +393,7 @@ Koch Industries' lobbying is concentrated in oil & gas (96% of 1998-2017 spendin
 
 Koch Industries' lobbying agenda centers on six policy domains, each directly protecting company revenue. Senate LDA-2 filings and House records document specific bills and regulatory targets.
 
-**A. EPA Regulation — Emissions and Chemical Standards**
+### A. EPA Regulation — Emissions and Chemical Standards
 
 Core objective: Oppose greenhouse gas regulation under Clean Air Act; block new emissions standards (dioxin, formaldehyde, benzene); weaken chemical facility standards.
 
@@ -406,14 +406,14 @@ Core objective: Oppose greenhouse gas regulation under Clean Air Act; block new 
 - [Vice: Koch Industries EPA Supreme Court climate change](https://www.vice.com/en/article/koch-brothers-epa-supreme-court-climate-change/) (Tier 2)
 - [Jacobin: Charles Koch EPA carbon emissions Supreme Court](https://jacobin.com/2022/02/charles-koch-epa-carbon-emissions-supreme-court) (Tier 2)
 
-**B. Climate Policy — Cap-and-Trade, Paris Agreement, Green Deal**
+### B. Climate Policy — Cap-and-Trade, Paris Agreement, Green Deal
 
 - Waxman-Markey cap-and-trade (ACES 2009): Maximum opposition; bill passed House, died in Senate. Koch Network estimated to have spent $400M+ that cycle on opposition.
 - Paris Agreement opposition: H.R. 9 (2019), climate accord withdrawal support
 - Green New Deal opposition: 2019-2021 lobbying against climate spending packages
 - State-level: Flint Hills Resources spent $1 million against California Proposition 23 (2010, sought to roll back climate law)
 
-**C. Energy Deregulation — Commodity Markets and Price Controls**
+### C. Energy Deregulation — Commodity Markets and Price Controls
 
 - Enron Loophole preservation: Lobbying to maintain commodities derivatives exemptions that allow oil speculation and price volatility without CFTC oversight
 - CFTC exemptions: Resisting position limits and transparency rules for oil futures
@@ -421,7 +421,7 @@ Core objective: Oppose greenhouse gas regulation under Clean Air Act; block new 
 - Wind Production Tax Credit (PTC) opposition: Nickles Group specifically retained to oppose renewable energy subsidies
 - Fuel efficiency standards: Opposition to CAFE standard increases; 2025 opposition to NHTSA EV mandate implementation
 
-**D. Tax Policy — Deductions, Pass-Through Provisions, TCJA**
+### D. Tax Policy — Deductions, Pass-Through Provisions, TCJA
 
 - Section 199 Domestic Production Deduction: Lobbying to preserve $14+ billion over 10 years in tax benefits for oil and gas drilling; Capitol Tax Partners retained specifically for this issue (2003-2022)
 - LIFO (Last-In-First-Out) accounting method: Lobbying to preserve accounting rules that benefit oil companies during inflation
@@ -429,9 +429,9 @@ Core objective: Oppose greenhouse gas regulation under Clean Air Act; block new 
 - Tax Cuts and Jobs Act (TCJA) passage and implementation (2017-2018): Koch Network invested $20 million; Charles Koch stated the network was "already benefiting from" the corporate rate reduction and pass-through deduction
 - 2025: Lobbying for TCJA extension before expiration; focus on preserving 20% pass-through deduction for Koch Industries' private structure
 
-**E. Labor Law and Right-to-Work**
+### E. Labor Law and Right-to-Work
 
-**Federal NLRB Opposition:**
+### Federal NLRB Opposition:
 Koch Industries has lobbied extensively to restrict National Labor Relations Board's ability to certify unions in Koch facilities and across the broader American workforce. The Trump administration's 2017-2021 NLRB appointments produced five major rule changes that directly benefited Koch's anti-union strategy:
 
 | Rule/Decision | Obama-era Standard | Trump NLRB Change | Economic Impact to Koch |
@@ -444,24 +444,24 @@ Koch Industries has lobbied extensively to restrict National Labor Relations Boa
 
 The joint employer rule change was **particularly important to Koch Industries**, given the company's extensive use of contractors and subsidiaries across its petroleum refining (Flint Hills Resources), chemicals (INVISTA), building products (Georgia-Pacific), and pipeline operations.
 
-**Janus v. AFSCME and Public-Sector Union Weakening:**
+### Janus v. AFSCME and Public-Sector Union Weakening:
 [[Americans for Prosperity|AFP]] and other Koch-backed groups funded the litigation strategy in *Janus v. AFSCME* (2018), which struck down mandatory fair-share fees from government workers to their unions. While Janus primarily affects public-sector unions (and Koch Industries itself is non-union private sector), the decision benefited Koch by weakening the largest organized opposition to Koch-backed political candidates and policy agenda.
 
 Post-Janus, [[Americans for Prosperity|AFP]] launched **email campaigns and door-to-door outreach specifically designed to persuade government workers to exit their unions**. Public employee unions anticipated losing 10-33% of revenue. [[SEIU - Service Employees International Union|SEIU]] Local 1000 (California public employees) saw dues collapse 49% (from $7.5M/month to $3.8M/month), reducing the union's capacity to mobilize opposition to Koch-backed politicians and anti-labor legislation.
 
-**State Right-to-Work Expansion:**
+### State Right-to-Work Expansion:
 Beyond federal lobbying, [[Americans for Prosperity|AFP]] drove state-level right-to-work passage in Indiana (2012), Michigan (2012), Wisconsin (2015), West Virginia (2016), and Kentucky (2017). While these campaigns don't appear in Koch Industries' direct federal lobbying filings, AFP is substantially funded by Koch network contributions ($47.5M from Freedom Partners in 2017 alone, plus ongoing funding).
 
-**For the People Act (H.R. 1) Opposition:**
+### For the People Act (H.R. 1) Opposition:
 - 2019-2021: Koch Industries lobbied against voting rights expansion provisions that could increase voter registration and participation — which polls show would increase Democratic electoral outcomes
 - Labor organizing provisions in H.R. 1: Koch Industries opposition to Protecting the Right to Organize (PRO) Act provisions that would strengthen union certification and reduce employer retaliation capacity
 
 - [EPI: NLRB Reinstates 2020 Joint Employer Rule](https://www.epi.org/policywatch/nlrb-reinstates-2020-joint-employer-rule-that-will-make-it-harder-for-workers-to-join-unions-and-bargain-contracts/) (Tier 2) (UNVERIFIED)
 - [New York Times: How Trump Betrays Forgotten Americans (Sep 2018)](https://www.nytimes.com/2018/09/03/opinion/trump-betrays-forgotten-americans-greenhouse.html) (Tier 2) (UNVERIFIED)
 
-**F. Financial Regulation — Dodd-Frank and CFTC Transparency**
+### F. Financial Regulation — Dodd-Frank and CFTC Transparency
 
-**Dodd-Frank Rollback Campaign (2017-2018):**
+### Dodd-Frank Rollback Campaign (2017-2018):
 Koch Industries' financial deregulation advocacy culminated in passage of the **Economic Growth, Regulatory Relief, and Consumer Protection Act (S.2155)** signed into law by President Trump on May 24, 2018. While Koch's direct financial sector interest is limited (the company is not a bank), the network's philosophical anti-regulatory stance drove sustained opposition to Dodd-Frank's oversight provisions.
 
 | Provision | Pre-Act | Post-Act | Impact |
@@ -474,7 +474,7 @@ Koch Industries' financial deregulation advocacy culminated in passage of the **
 
 Gregory Zerzan (ex-House Financial Services, Treasury, ISDA) specifically retained by Koch to lobby for derivatives exemptions and position limits relief — Koch's commodity trading operations (Koch Supply & Trading) benefit from reduced CFTC transparency and position limit reporting. CFTC exemptions for oil futures speculation allow Koch's trading arm to take larger positions without public disclosure of holdings.
 
-**CFTC and Derivatives Oversight:**
+### CFTC and Derivatives Oversight:
 - Enron Loophole preservation: Lobbying to maintain commodities derivatives exemptions that allow oil speculation without CFTC oversight
 - Position limit opposition: Resisting CFTC rules on maximum position sizes in oil futures markets
 - Swaps dealer transparency: Opposition to reporting requirements for oil derivatives trading
@@ -482,9 +482,9 @@ Gregory Zerzan (ex-House Financial Services, Treasury, ISDA) specifically retain
 
 ---
 
-**G. Pipeline Infrastructure and Keystone XL**
+### G. Pipeline Infrastructure and Keystone XL
 
-**Koch Industries' Direct Financial Stakes in Keystone XL:**
+### Koch Industries' Direct Financial Stakes in Keystone XL:
 [[Flint Hills Resources]] (Koch subsidiary) and [[Koch Industries]] held direct, substantial financial interests in Keystone XL approval. The pipeline was essential to Koch's tar sands refining operations:
 
 - **Flint Hills Resources Canada LP** (Koch subsidiary based in Calgary): Operated "among Canada's largest crude oil purchasers, shippers, and exporters," supplying approximately **250,000 barrels of tar sands oil per day** to Koch's Pine Bend, Minnesota refinery
@@ -493,14 +493,14 @@ Gregory Zerzan (ex-House Financial Services, Treasury, ISDA) specifically retain
 - **Intervener Status in Canadian Regulatory Hearing:** Flint Hills Resources Canada LP **filed for and received "intervener status"** in National Energy Board hearings on Keystone XL, explicitly stating it had **"a direct and substantial interest in the application"** (2009 filing)
 - **COLT Hub (North Dakota):** Flint Hills subsidiary operates a storage terminal that directly feeds crude oil into the Dakota Access pipeline system
 
-**Lobbying Campaign for Approval:**
+### Lobbying Campaign for Approval:
 While [[Koch Industries|Koch Industries]] publicly maintained that it had no direct financial interest in Keystone XL, subsidiary lobbying by [[Flint Hills Resources]] through retained firms was explicit:
 
 - **60 Plus Association** (receives Koch network funding): Testified before the Iowa Utilities Board in support of both Keystone XL and Dakota Access pipeline approval; 60 Plus chairman Jim Martin publicly advocated for both pipelines
 - **[[American Energy Alliance|American Energy Alliance]]** (Koch-backed): Allied with [[Americans for Prosperity|AFP]] to coordinate lobbying in Nebraska and other states for KXL approval
 - **Koch Seminar Network Internal Credit:** A **leaked memorandum** from the Koch Seminar Network (obtained by The Intercept and Documented Investigations) showed the Koch donor network explicitly **taking credit for Trump administration approval of both Keystone XL and Dakota Access "during the first months of his presidency,"** demonstrating that network lobbying (not just Freedom Partners' public campaigns) was directly coordinated with Trump administration permitting decisions
 
-**Approval Timeline and Corporate Outcome:**
+### Approval Timeline and Corporate Outcome:
 
 | Date | Event | Koch Corporate Interest |
 |---|---|---|
@@ -532,10 +532,10 @@ While [[Koch Industries|Koch Industries]] publicly maintained that it had no dir
 
 Koch Industries' lobbying operation combines in-house government affairs (Koch Companies Public Sector, LLC) with a network of retained Washington law firms and boutique lobbying shops. The retained firms specialize by issue domain and often employ revolving-door ex-legislators.
 
-**Primary In-House Vehicle:**
+### Primary In-House Vehicle:
 - **Koch Companies Public Sector, LLC** (2005–present): Consolidated subsidiary lobbying entity; central hub for all federal advocacy coordination
 
-**Regularly Retained Multi-Year Contracts:**
+### Regularly Retained Multi-Year Contracts:
 
 | Firm | Period | Annual Peak | Specialization | Notes |
 |------|--------|------------|-----------------|-------|
@@ -549,7 +549,7 @@ Koch Industries' lobbying operation combines in-house government affairs (Koch C
 | Mehlman Castagnetti Rosen & Thomas | 2007–2014 | $300K | General government relations | Closed/rebranded 2014 |
 | PhronesisDC LLC | 2025–present | $110K Q1 | Vehicle emissions, EV mandates, tax | New retained firm for emissions focus |
 
-**Subsidiary-Specific Contracts:**
+### Subsidiary-Specific Contracts:
 - **Georgia-Pacific LLC** → Alston & Bird: $800K/year (peak), forest products and pulp/paper regulation
 - **Flint Hills Resources** → Tiahrt Enterprises: 2021–present, retained through ex-Rep Todd Tiahrt (R-KS 1995-2011)
 
@@ -573,12 +573,12 @@ Koch Industries' lobbying operation relies heavily on rotating ex-government off
 | 2022 | 31 | 27 | 87% | Consistent staffing |
 | 2024 | 30 | 25 | 83% | Current staffing level |
 
-**Current Named Lobbyists (2025):**
+### Current Named Lobbyists (2025):
 - **Catherine Haggett** (since 2005): 20-year tenure; specializes in energy, environment, and tax policy; most senior Koch lobbyist
 - **Brian Henneberry** (since 2006): 19-year tenure; ex-legislative assistant to Senator Brownback (R-KS); in-house Koch staff
 - **Jason Lawrence** (joined 2022): Ex-NRA; hired for Second Amendment and conservative coalition work
 
-**Historical Revolving Door Hires:**
+### Historical Revolving Door Hires:
 
 | Name | Prior Government Role | Koch Role | Period |
 |------|----------------------|-----------|--------|

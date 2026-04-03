@@ -1,7 +1,7 @@
 ---
 title: "Comcast - NBCUniversal"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -45,7 +45,7 @@ Comcast PAC distributes contributions with bipartisan precision, targeting commi
 
 **2025-2026 cycle (through Feb 2026):** $2.02M raised, $1.44M contributed to other committees, $50K transferred to affiliated committees.
 
-**Strategic targeting pattern:**
+### Strategic targeting pattern:
 - Commerce Committee members (telecom jurisdiction — broadband regulation, net neutrality, spectrum allocation)
 - Judiciary Committee members (antitrust oversight — merger review, copyright law)
 - Appropriations Committee members (broadband subsidies — BEAD funding, ACP funding)

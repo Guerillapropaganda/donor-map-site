@@ -59,7 +59,7 @@ The defense industry funds think tanks on both sides of the partisan divide, ens
 | [[Center for American Progress]] | Liberal | Disclosed donor (undisclosed amount) | Northrop Grumman |
 | [[Aspen Institute]] | Centrist | **$1.125M** | General Dynamics, RTX, McKinsey |
 
-**Total documented defense contractor spending across 6 think tanks: $24.1M+ (2019-2023)**
+### Total documented defense contractor spending across 6 think tanks: $24.1M+ (2019-2023)
 
 > [!money]
 > Northrop Grumman appears as a top funder at every major security think tank in this vault — conservative, liberal, and centrist. The Atlantic Council takes $5.6M from Northrop and has a former Raytheon lobbyist co-chairing its Defense Innovation Commission. CNAS takes $6.67M from defense contractors and then places 30+ alumni in the Biden Pentagon. Brookings takes $1.75M from Northrop and produces defense policy papers. Hudson takes $2.24M and staffs Republican administrations. Even CAP, the "progressive" policy shop, lists Northrop Grumman as a donor. The defense industry doesn't pick sides because it doesn't need to. Both sides produce the same output: more spending.
@@ -81,7 +81,7 @@ Unlike Goldman Sachs and the defense industry, the Koch network funds exclusivel
 | [[Manhattan Institute]] | Conservative | Koch Network member | — | Bradley member |
 | [[Hudson Institute]] | Conservative | Koch Network member | $8.9M | **$13M+** |
 
-**Total documented Koch/DonorsTrust/Bradley funding to conservative think tanks: $200M+**
+### Total documented Koch/DonorsTrust/Bradley funding to conservative think tanks: $200M+
 
 > [!money]
 > The Koch-Bradley-DonorsTrust pipeline is the largest documented donor network in the think tank ecosystem, with over $200M in traceable funding to six conservative think tanks alone. DonorsTrust — the "dark money ATM of the conservative movement" — is the anonymization layer: a donor gives to DonorsTrust, DonorsTrust gives to AEI ($86.7M), and the original donor's identity disappears. The $86.7M from DonorsTrust to AEI alone exceeds the total annual budget of most think tanks in this vault.
@@ -102,7 +102,7 @@ Three think tanks in this vault receive massive foreign government funding, rais
 | [[CNAS]] | Centrist | **$2.81M** (2019-2023) | Japan, South Korea, Germany, EU |
 | [[Aspen Institute]] | Centrist | **$8M+** (2014-2018) | Including Saudi Arabia, UAE |
 
-**Total documented foreign government funding: $52.9M+**
+### Total documented foreign government funding: $52.9M+
 
 The Atlantic Council's former Brookings president (Gen. John Allen) was investigated by the FBI for allegedly lobbying the Trump White House on behalf of Qatar — the same government that gave Brookings $14.8M. Taiwan gave Hudson $2.6M in a single year while Hudson fellows advocated for stronger U.S. defense commitments to Taiwan. The UAE gave the Atlantic Council $1M+ annually while the Council's CEO published favorable op-eds about the UAE.
 
@@ -133,7 +133,7 @@ The foundation network funds think tanks that produce genuine policy wins on soc
 
 The most revealing analysis is not where think tanks disagree (social issues, cultural questions, partisan positioning) but where they converge — because convergence on donor-class priorities reveals the structural function of the entire ecosystem.
 
-**Policy Area 1: No Structural Financial Reform**
+### Policy Area 1: No Structural Financial Reform
 
 | Think Tank | Position | Funder Alignment |
 |------------|----------|-----------------|
@@ -144,7 +144,7 @@ The most revealing analysis is not where think tanks disagree (social issues, cu
 
 **Outcome:** No major think tank in this vault — left, right, or center — produced a serious research agenda for breaking up Too Big to Fail banks. Goldman's world is preserved regardless of which party governs.
 
-**Policy Area 2: Defense Spending Always Increases**
+### Policy Area 2: Defense Spending Always Increases
 
 | Think Tank | Position | Funder Alignment |
 |------------|----------|-----------------|
@@ -155,7 +155,7 @@ The most revealing analysis is not where think tanks disagree (social issues, cu
 
 **Outcome:** Regardless of which party holds power, the think tanks that staff the Pentagon produce compatible recommendations. The defense budget has increased under every administration since these think tanks were founded.
 
-**Policy Area 3: Healthcare — Private Insurance Preserved**
+### Policy Area 3: Healthcare — Private Insurance Preserved
 
 | Think Tank | Position | Funder Alignment |
 |------------|----------|-----------------|

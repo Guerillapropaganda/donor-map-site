@@ -33,7 +33,7 @@ Invariant's core market position: **the lobbying firm for Silicon Valley compani
 
 ### Client List
 
-**Top clients by billing (2024, selected):**
+### Top clients by billing (2024, selected):
 
 #### Tech / Electronics
 
@@ -83,7 +83,7 @@ Invariant's core market position: **the lobbying firm for Silicon Valley compani
 
 Invariant's 54.2% revolving door rate (32 of 59 lobbyists in 2024 with prior government employment) is not incidental — it IS the product. The firm's value proposition is access, and access comes from hiring people whose former bosses still run the committees that matter.
 
-**Key revolving door hires:**
+### Key revolving door hires:
 
 **Paul Arcangeli** — *Former:* Staff Director, House Armed Services Committee (2004–2022, 18 years). *Current:* Principal, Invariant (2022–present). Adam Smith (D-WA), the HASC's Ranking Member, recognized Arcangeli for his "indispensable role in supporting the passage of nearly one-third of every NDAA the House has ever considered." He left in June 2022 and began lobbying in Q3 2022. Now lobbies for: RTX Corp (Raytheon), Palantir, SpaceX, Airbus, and 20+ defense/aerospace clients. Top industries represented: Electronics ($3.23M), Air Transport ($2.28M), Defense Aerospace ($1.34M). The man who helped write every defense bill for 18 years now sells access to the process he designed.
 
@@ -106,25 +106,25 @@ Invariant's 54.2% revolving door rate (32 of 59 lobbyists in 2024 with prior gov
 
 ### What They Deliver
 
-**Palantir — DoD procurement and ICE surveillance policy:**
+### Palantir — DoD procurement and ICE surveillance policy:
 Invariant lobbied Congress on "funding for Defense Department technology procurement, AI policy, and border surveillance technology" on Palantir's behalf. Palantir's core government revenue comes from DoD and DHS/ICE contracts. As of 2026, Palantir held multiple active contracts with ICE for AI-assisted surveillance and deportation processing. Invariant's lobbying activity coincides with Palantir's expansion from a niche intelligence contractor to a mainstream government AI vendor.
 
-**SpaceX — 14-year retainer and launch deregulation:**
+### SpaceX — 14-year retainer and launch deregulation:
 SpaceX has retained Invariant for over 14 years — one of the longest continuous lobbying relationships in the tech sector. Invariant's defense-connected lobbyists (Arcangeli, Kowalski) lobby DoD and FAA on SpaceX's behalf. SpaceX's government revenue ($3B+/yr from DoD satellite and launch contracts) depends on DoD procurement decisions and FAA launch licensing. The firm lobbied for SpaceX's positions on commercial launch regulations and DoD payload contracts throughout the Biden and Trump administrations.
 
-**RTX Corp (Raytheon) — NDAA provisions:**
+### RTX Corp (Raytheon) — NDAA provisions:
 Paul Arcangeli's first lobbying disclosures at Invariant (Q1 2023) specifically noted "commercial items in FY2024 National Defense Authorization Act" on behalf of Raytheon. "Commercial items" provisions in the NDAA affect whether defense contractors must comply with specific accounting standards or can use commercial pricing — a regulatory distinction worth billions in contract margins. Arcangeli, who spent 18 years helping write NDAA language for the HASC, now writes it for Raytheon's clients.
 
-**Apple — Tech regulation neutralization:**
+### Apple — Tech regulation neutralization:
 Apple paid Invariant $680,000 in 2024 and $710,000 in 2025, making it one of the firm's top three clients by billing. Apple's primary lobbying interests include app store regulation (App Store antitrust legislation), encryption policy, and semiconductor export controls. Despite repeated Congressional attempts to pass meaningful app store or tech antitrust legislation, no significant federal action passed during the 2022-2024 Congress.
 
-**Palantir — ImmigrationOS and the Surveillance Escalation (2026):**
+### Palantir — ImmigrationOS and the Surveillance Escalation (2026):
 While Invariant lobbied Congress on Palantir's behalf, Palantir's ICE products expanded dramatically. In January 2026, reporting revealed Palantir had developed a tool called **ELITE** (Enhanced Leads Identification & Targeting for Enforcement) that ingests Medicaid data and other government databases to generate dossiers on potential deportation targets, assigning confidence scores to individuals' current addresses. Separately, ICE awarded Palantir a **$30 million contract** to build **ImmigrationOS** — a comprehensive surveillance platform designed to streamline identification, apprehension, and tracking of deportation targets with "near real-time visibility." These are the products that Invariant's lobbying infrastructure protects. The firm's $560,000 annual Palantir billing is the access fee for ensuring Congressional oversight committees do not scrutinize the surveillance tools that Invariant's own Democratic bundling recipients publicly criticize.
 
-**Palantir Lobbying Expansion (2026):**
+### Palantir Lobbying Expansion (2026):
 Palantir has expanded its lobbying infrastructure beyond Invariant. In March 2026, Palantir retained **Ferox** as an additional lobbying firm. Separately, Palantir hired two lobbyists with deep Democratic Party ties — **Cristina Antelo** and **Debra Dixon** — in early 2026 as pressure mounted from Democratic members over ICE contracts. The expansion signals that Palantir's lobbying needs have outgrown even Invariant's 59-lobbyist operation: the company now requires dedicated Democratic defense lobbyists to supplement Invariant's bundling-based access model.
 
-**Democratic Party access — the political product (escalation):**
+### Democratic Party access — the political product (escalation):
 In Q1 2025, Invariant bundled nearly $4 million to the DCCC. In February 2025, Invariant hosted a fundraiser for Senate Democratic leadership at which Heather Podesta appeared alongside Chuck Schumer. By January 2026, the bundling operation had escalated further: Palantir's lobbying firms (led by Invariant) bundled a combined **$2.9 million to the DCCC in a single month** — representing **38% of the DCCC's total January contributions**. When a single company's lobbyists provide more than a third of the House Democrats' campaign committee funding in a given month, the line between lobbying and party financing dissolves. The firm's lobbyists bundled donations to DCCC chair Hakeem Jeffries and individual Democratic members. In exchange, Democratic leadership remained largely silent on Palantir's ICE surveillance contracts even as their own members publicly criticized deportation operations.
 
 ---
@@ -169,13 +169,13 @@ Her response was to strip her own name from the firm, rename it something intent
 
 ### Billing vs. Outcomes
 
-**Palantir ROI calculation:**
+### Palantir ROI calculation:
 Palantir paid Invariant approximately $560,000 in 2024. Palantir's government revenue in fiscal 2024 exceeded $1.1 billion — roughly evenly split between DoD and civilian agencies including DHS/ICE. The lobbying investment of $560K against $1.1B in government contracts represents a 0.05% overhead cost for policy infrastructure. If Invariant's lobbying helped preserve even one $50M contract renewal, the ROI is approximately 8,900%.
 
-**Apple ROI calculation:**
+### Apple ROI calculation:
 Apple paid Invariant $680,000 in 2024 (rising to $710K in 2025). Apple's primary lobbying objective during this period was defeating federal app store competition legislation (the American Innovation and Choice Online Act, Open App Markets Act). These bills, if passed, could have forced changes to Apple's App Store that analysts estimated would reduce App Store revenue by $15-25 billion annually. The lobbying investment of $680K against a potential $15B annual revenue impact represents a return ratio of roughly 22,000:1 if the legislation's defeat is partly attributable to lobbying.
 
-**SpaceX 14-year retention:**
+### SpaceX 14-year retention:
 SpaceX has retained Invariant since approximately 2011. Over 14+ years, SpaceX's government revenue has grown from zero to approximately $3.4 billion per year (2024), primarily DoD launch and satellite contracts. The continuous lobbying retainer across three presidential administrations (Obama, Trump 1, Biden, Trump 2) tracks directly with SpaceX's transformation from a startup competing for government contracts to the dominant provider of U.S. government launch services.
 
 ---

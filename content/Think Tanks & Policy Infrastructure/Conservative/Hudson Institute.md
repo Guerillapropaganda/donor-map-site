@@ -28,7 +28,7 @@ Hudson's institutional identity is built on national security hawkishness, with 
 
 **President & CEO:** John P. Walters. Compensation: $600K + $63K from related organizations (FY2024). Walters previously served as Director of the Office of National Drug Control Policy under George W. Bush (2001–2009) — the federal "drug czar." His appointment signals Hudson's positioning within the Republican national security establishment.
 
-**Key staff and fellows:**
+### Key staff and fellows:
 - Walter Russell Mead (Ravenel B. Curry III Distinguished Fellow, $406K + $39K) — Foreign policy intellectual, Wall Street Journal "Global View" columnist, author of "Special Providence." Mead is Hudson's most prominent public intellectual.
 - Mike Pompeo (Distinguished Fellow, 2021–2025) — Former Secretary of State and CIA Director under Trump. Joined Hudson in 2021 after leaving government. Left Hudson for Columbia University's SIPA Institute of Global Politics (Carnegie Distinguished Fellow, March 2025) after Trump explicitly barred him from the second-term administration.
 - Nikki Haley (Senior Fellow, 2021–2023) — Former UN Ambassador under Trump, former Governor of South Carolina. Used Hudson as a policy platform before her 2024 presidential run. Trump barred her from a second-term administration role alongside Pompeo.
@@ -46,20 +46,20 @@ Hudson's institutional identity is built on national security hawkishness, with 
 
 Hudson's funding combines conservative foundation megadonors, defense industry money, and — most distinctively — direct foreign government funding, particularly from Taiwan.
 
-**Major foundation funders (cumulative, per InfluenceWatch/Conservative Transparency):**
+### Major foundation funders (cumulative, per InfluenceWatch/Conservative Transparency):
 - **Lynde and Harry Bradley Foundation** — $13 million+ since 1987. Hudson's largest identified domestic funder by far. Bradley's Milwaukee-based conservative philanthropy has been the anchor donor sustaining Hudson through multiple decades.
 - **DonorsTrust / Donors Capital Fund** — $8.9 million since 2002. The conservative dark money conduit that anonymizes individual donor identity. This is likely Koch network and allied conservative donor money laundered through DonorsTrust's anonymization function.
 - **Smith Richardson Foundation** — $6.7 million since 1996. Defense and foreign policy-focused conservative foundation. Smith Richardson's portfolio heavily overlaps with Hudson's national security focus.
 - **Sarah Scaife Foundation** — $4.2 million since 1991. Richard Mellon Scaife's foundation — part of the same conservative foundation infrastructure that built Heritage and AEI.
 - **John M. Olin Foundation** — $3 million (1989–2003). Now-defunct conservative foundation that invested heavily in building right-wing intellectual infrastructure across academia and think tanks.
 
-**Foreign government funding:**
+### Foreign government funding:
 - **Taiwan (TECRO — Taipei Economic and Cultural Representative Office)** — $2.6 million in 2023 alone. This is direct foreign government funding for a U.S. think tank that produces policy research advocating for stronger U.S.-Taiwan defense commitments. Hudson's Japan-Taiwan program, chaired by figures like H.R. McMaster, produces research that directly serves Taiwan's national security interests.
 
-**Defense industry funding (per OpenSecrets):**
+### Defense industry funding (per OpenSecrets):
 - Defense contractors contributed $2.24 million to Hudson since 2019, making the think tank a recipient of funding from the same defense industry that benefits from the hawkish policies Hudson advocates.
 
-**Board of Trustees (selected):**
+### Board of Trustees (selected):
 - Sarah May Stern (Chair) — Conservative philanthropist
 - Marie-Josée Kravis — Hudson board member, wife of Henry Kravis (KKR co-founder). The Kravis connection links Hudson to Wall Street private equity.
 - Conrad Black — Media baron, former newspaper magnate, Trump ally
@@ -92,7 +92,7 @@ Hudson's output is concentrated in national security and foreign policy, with su
 
 Hudson operates the classic neoconservative policy pipeline: produce hawkish research → staff Republican administrations → implement the research as policy → return to Hudson when Democrats take power → repeat.
 
-**How Hudson research becomes policy:**
+### How Hudson research becomes policy:
 
 1. **Fellows produce threat assessments** — China threat reports, defense gap analyses, alliance vulnerability studies
 2. **Media amplification** — Walter Russell Mead's WSJ column, fellow op-eds, congressional testimony
@@ -144,27 +144,27 @@ Hudson's revolving door is the most concentrated government-to-think-tank pipeli
 
 ### What Their Funders Got
 
-**Bradley Foundation and conservative foundations got:**
+### Bradley Foundation and conservative foundations got:
 - Three decades of neoconservative foreign policy infrastructure that outlasts any single administration
 - A personnel pipeline that places hawkish policymakers in Republican administrations
 - The 2017 National Security Strategy — literally written by a Hudson fellow
 - Intellectual frameworks for great-power competition that drive defense spending increases
 
-**DonorsTrust / anonymous conservative donors got:**
+### DonorsTrust / anonymous conservative donors got:
 - Anonymized funding of hawkish policy research without public disclosure of individual donor identity
 - Tax-deductible contributions to what functions as a Republican foreign policy operation
 
-**Defense contractors got:**
+### Defense contractors got:
 - Research consistently advocating increased defense spending, military modernization, and expanded alliance commitments
 - Policy recommendations that, when implemented, directly increase defense procurement budgets
 - Access to former officials who understand procurement processes and can advocate for industry-favorable policies
 
-**Taiwan got:**
+### Taiwan got:
 - $2.6M purchased policy advocacy from former Cabinet officials with direct experience implementing U.S. defense commitments
 - Research products supporting stronger U.S.-Taiwan military ties, arms sales, and alliance frameworks
 - Access to the neoconservative personnel pipeline that staffs Republican national security positions
 
-**The Republican foreign policy establishment got:**
+### The Republican foreign policy establishment got:
 - A credentialed institutional home between administrations ($600K CEO salary, $406K for Mead)
 - Continued policy influence through research, media, and congressional testimony during Democratic administrations
 - A launchpad for future political campaigns (Haley's presidential run was incubated at Hudson)

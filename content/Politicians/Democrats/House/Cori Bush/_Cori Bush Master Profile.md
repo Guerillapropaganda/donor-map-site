@@ -43,17 +43,17 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 > [!money] Follow the Money
 > Bush raised $3.93M in 2023–2024 and spent $3.92M. Her funding was primarily from individual donors — 62.58% from large individual contributions, 32.24% from small donors, 5.17% from PACs. The small-donor share is high for Congress but doesn't match the grassroots-only narrative. The $750K in campaign security spending, including payments to her husband, is the financial vulnerability that enabled the indictment.
 
-**2023–2024 cycle:**
+### 2023–2024 cycle:
 - Raised: $3.93M
 - Spent: $3.92M
 - Large individual contributions: 62.58%
 - Small donors: 32.24%
 - PACs: 5.17%
 
-**AIPAC spending against Bush:**
+### AIPAC spending against Bush:
 - United Democracy Project: $8.5M supporting Wesley Bell (her primary opponent)
 
-**Security spending controversy:**
+### Security spending controversy:
 - Total campaign security spending: ~$750K
 - Payments to husband Cortney Merritts: $102,500+ (unlicensed security services)
 - Federal indictment: August 2025

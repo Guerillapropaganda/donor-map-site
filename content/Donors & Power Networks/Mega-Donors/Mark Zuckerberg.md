@@ -1,7 +1,7 @@
 ---
 title: "Mark Zuckerberg"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -37,7 +37,7 @@ Zuckerberg's direct political giving has been relatively modest compared to his 
 
 **Trump Inaugural Fund (2025):** Meta donated $1 million to Trump's inaugural fund — a direct signal of realignment. This broke historical precedent: no donation to either candidate's inaugural in 2017 (Trump) or 2021 (Biden).
 
-**Chan Zuckerberg Initiative — Election Infrastructure & Political Retreat (2020-2025):**
+### Chan Zuckerberg Initiative — Election Infrastructure & Political Retreat (2020-2025):
 
 Zuckerberg and his wife Priscilla Chan donated a total of **$419.5 million** in election infrastructure funding (not $400M as commonly cited):
 - $250M initial to CTCL + $50M to CEIR (Sept 1, 2020)
@@ -109,7 +109,7 @@ Zuckerberg and his wife Priscilla Chan donated a total of **$419.5 million** in 
 
 **Rick Dearborn:** Trump White House Deputy Chief of Staff → Mindset lobbying firm (2024-2025) where he lobbies directly for Meta. Active Trump-Meta revolving door.
 
-**Sheryl Sandberg political donations:**
+### Sheryl Sandberg political donations:
 - Lifetime political contributions: ~$2M
 - Direction: Overwhelmingly Democratic (no known Republican contributions)
 - 2016: $416K to Hillary Clinton Super PAC

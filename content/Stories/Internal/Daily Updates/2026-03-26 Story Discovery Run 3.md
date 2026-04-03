@@ -27,7 +27,7 @@ The mechanism was explicit: in 2024, Trump asked oil and gas executives at a pri
 
 **Why Diamond:** This is the clearest documented case of policy capture in the vault's scope. The donation amounts are verified ($75M–$450M range across multiple sources). The policy outcome is verified (endangerment finding formally revoked Feb 2026). The quid pro quo dinner is documented by congressional investigation. The public cost is quantified ($80B over 10 years). The API wish list cross-check confirms systematic delivery. Multiple analytical patterns apply: **Donor-Class Override**, **Revolving Door** (dozens of fossil fuel industry hires in Trump EPA/DOI per Inside Climate News), and **Both-Sides Illusion** (some Democratic senators from fossil fuel states voted for related deregulation measures).
 
-**Donation-to-policy timeline:**
+### Donation-to-policy timeline:
 - **2024:** Trump asks oil executives to raise $1B; industry gives $75M–$450M to campaign/PACs
 - **2024:** Senate Finance/Budget committees investigate the offer as quid pro quo
 - **Jan 2025:** $11.8M to inauguration fund from oil/gas
@@ -36,13 +36,13 @@ The mechanism was explicit: in 2024, Trump asked oil and gas executives at a pri
 - **Feb 2026:** EPA revokes endangerment finding — largest deregulatory action in EPA history
 - **Mar 2026:** Methane compliance deadline (set for March 2026) delayed to January 2027
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - [[_Donald Trump Master Profile]] — energy donor section needs major expansion
 - [[Koch Network - Charles Koch]] (if exists in `Donors & Power Networks/`)
 - American Petroleum Institute (may need donor node creation in `Donors & Power Networks/Energy & Utilities/`)
 - Oil & Gas sector donors broadly
 
-**Lead sources (all Chrome-verified VALID):**
+### Lead sources (all Chrome-verified VALID):
 - [Brennan Center: Fossil Fuel Industry Donors See Major Returns in Trump's Policies](https://www.brennancenter.org/our-work/analysis-opinion/fossil-fuel-industry-donors-see-major-returns-trumps-policies) (Tier 2)
 - [Common Dreams: In Gift to Big Oil Donors, Trump Stops EPA From Combating Climate Threat](https://www.commondreams.org/news/trump-guts-endangerment) (Tier 3)
 - [Inequality.org: Fossil Fuel "Oil-Garchs" Reap Billions in Payback for Trump Support](https://inequality.org/article/fossil-fuel-oil-garchs-reap-billions-for-trump-support/) (Tier 3)
@@ -62,18 +62,18 @@ The policy anchor: AIPAC has drawn a hard line on unconditional U.S. military ai
 
 **Why Gold:** Verified dollar amounts from FEC data, bipartisan funding pattern documented (Johnson + Jeffries), specific policy outcome (unconditional aid), and the UDP's deliberate concealment of its Israel lobby function is a structural transparency story. The **Both-Sides Illusion** pattern is textbook: AIPAC funds Democratic and Republican leadership simultaneously to ensure the same policy outcome regardless of which party controls Congress.
 
-**Donation-to-policy timeline:**
+### Donation-to-policy timeline:
 - **2025–2026 cycle:** $28M to congressional campaigns via AIPAC PAC
 - **Feb 2026:** $13.7M poured into Chicago-area Democratic primaries via UDP
 - **Mar 2026:** $20M+ total Illinois primary spending; AIPAC goes 2-for-4
 - **Ongoing:** Zero conditions attached to Israel military aid in any appropriations bill
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - [[AIPAC - American Israel Public Affairs Committee]] — needs major update with 2026 cycle data
 - United Democracy Project (may need sub-note or separate PAC node)
 - Illinois 2026 race files if they exist
 
-**Lead sources (all Chrome-verified VALID):**
+### Lead sources (all Chrome-verified VALID):
 - [Sludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2)
 - [Sludge: AIPAC Splits in Illinois Races After $20M in Spending](https://readsludge.com/2026/03/18/aipac-splits-in-illinois-races-after-20m-in-spending/) (Tier 2)
 - [WBEZ: Pro-Israel Group's Donors Pour $13.7M into Chicago-Area Primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2)
@@ -92,12 +92,12 @@ The broader pattern: crypto and AI super PACs are on track to smash spending rec
 
 **Why Gold:** Documented donation amounts ($1M+ per company to inauguration), specific enforcement outcomes (cases dismissed), congressional scrutiny (House Democrats' formal letter), and the SEC's own agenda confirms crypto removed entirely. Previous runs documented the Winklevoss/Gemini angle; this run adds the broader systematic pattern across all major crypto firms and the SEC's formal regulatory retreat.
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - [[_Donald Trump Master Profile]] — crypto deregulation section
 - Coinbase, Ripple donor nodes (if they exist in `Donors & Power Networks/Tech & Crypto/`)
 - Fairshake / crypto super PAC nodes
 
-**Lead sources (all Chrome-verified VALID):**
+### Lead sources (all Chrome-verified VALID):
 - [CryptoSlate: SEC Removes All Mention of Crypto from 2026 Agenda](https://cryptoslate.com/sec-is-done-with-crypto-removes-all-mention-from-its-agenda-for-2026/) (Tier 3)
 - [House Democrats Financial Services Committee: Letter to SEC on Crypto Enforcement](https://democrats-financialservices.house.gov/uploadedfiles/01.14.2026_ltr_sec_rfcryptoe.pdf) (Tier 1)
 - [Sludge: Crypto, AI, and AIPAC Set Up to Smash Super PAC Spending Records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2)
@@ -116,11 +116,11 @@ Warren and Hawley introduced the "Break Up Big Medicine Act" in February 2026 to
 
 **Pattern types:** **Genuine Win + Structural Limit**, **Donor-Class Override**
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - UnitedHealth Group / CVS Health donor nodes (if they exist in `Donors & Power Networks/Healthcare/` or `Pharma & Healthcare/`)
 - Warren and Hawley master profiles (if they exist)
 
-**Lead sources (all Chrome-verified VALID):**
+### Lead sources (all Chrome-verified VALID):
 - [The Hill: Warren, Hawley Introducing Legislation to Break Up 'Big Medicine'](https://thehill.com/policy/healthcare/5732189-break-up-big-medicine-act/) (Tier 2)
 - [MedCity News: It Took Years for Congress to Enact PBM Transparency — What About Vertical Integration?](https://medcitynews.com/2026/03/congress-pbm-vertical-integration/) (Tier 3)
 - [Tennessee Lookout: CVS Blankets Tennessee Airwaves to Fight PBM Bill](https://tennesseelookout.com/2026/03/19/cvs-blankets-tennessee-airwaves-enlists-mass-texts-to-fight-pharmacy-benefit-manager-bill/) (Tier 2)
@@ -139,12 +139,12 @@ The structural function: DOGE creates the appearance of fiscal discipline while 
 
 **Pattern types:** **Donor-Class Override**, **Revolving Door** (DOGE advisory board members with defense industry ties)
 
-**Relevant vault nodes:**
+### Relevant vault nodes:
 - [[_Donald Trump Master Profile]] — DOGE section
 - Defense Contractors Bloc (if exists in `Donors & Power Networks/Defense & Intelligence/`)
 - Elon Musk / SpaceX nodes
 
-**Lead sources (all Chrome-verified VALID):**
+### Lead sources (all Chrome-verified VALID):
 - [Responsible Statecraft: DOGE Wants to Cut the Pentagon — By 0.07%](https://responsiblestatecraft.org/doge-pentagon-2671396652/) (Tier 2)
 - [Sludge: DOGE's Ties to the Military-Industrial Complex](https://readsludge.com/2024/12/23/doges-ties-to-the-military-industrial-complex/) (Tier 2)
 
@@ -176,7 +176,7 @@ The structural function: DOGE creates the appearance of fiscal discipline while 
 | `responsiblestatecraft.org/doge-pentagon-2671396652/` | VALID | 2 |
 | `readsludge.com/2024/12/23/doges-ties-to-the-military-industrial-complex/` | VALID | 2 |
 
-**19 URLs verified VALID. 0 broken.**
+### 19 URLs verified VALID. 0 broken.
 
 ---
 

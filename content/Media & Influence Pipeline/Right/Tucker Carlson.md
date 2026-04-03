@@ -27,17 +27,17 @@ Born into old money (his mother left the family; his father was a diplomat and m
 
 ### The Funding Model
 
-**Phase 1 — Fox News (2016–2023):**
+### Phase 1 — Fox News (2016–2023):
 
 Carlson earned $10 million annually at Fox by 2020, rising to an estimated $20 million by 2023. His show generated approximately 16% of Fox News's total advertising revenue despite a major advertiser exodus. After Carlson's 2018 on-air comment that immigration makes the country "poorer, dirtier and more divided," over 20 advertisers pulled out. After his 2020 BLM comments, 26 more followed — including Disney, T-Mobile, and Papa John's. MyPillow (CEO Mike Lindell, a Trump loyalist) stepped in to fill the gap, at one point representing nearly half of Carlson's show's ad spend.
 
 The advertiser crisis revealed the structural dynamic: Carlson's content drove away mainstream commercial advertisers and pulled in ideologically aligned replacements who needed him as much as he needed them. Fox kept him because cable subscriber fees — not advertising — were the primary revenue base. Every U.S. cable household paid ~$2/month to Fox News whether they watched or not.
 
-**Phase 2 — Twitter/X Bridge (April–December 2023):**
+### Phase 2 — Twitter/X Bridge (April–December 2023):
 
 After his April 24, 2023 firing, Carlson reportedly forfeited ~$25 million in remaining contract severance to break his non-compete clause. He launched a free show on Elon Musk's X/Twitter, which provided both a platform and an implicit political-class endorsement without requiring Carlson to share ownership or editorial control. The X arrangement was unpaid but functioned as a high-visibility proving ground for independent monetization.
 
-**Phase 3 — Tucker Carlson Network (December 2023–present):**
+### Phase 3 — Tucker Carlson Network (December 2023–present):
 
 TCN launched in December 2023 at $9/month for ad-free content. By November 2024, Forbes estimated annual revenue at $30 million — exceeding Carlson's Fox salary. In June 2025, Carlson and co-founder Neil Patel bought out their investors (1789 Capital and affiliates), achieving full ownership. Carlson's stated rationale: "It's hard to claim you're independent when other people own your company."
 
@@ -73,7 +73,7 @@ Additional revenue: In November 2024, Carlson launched ALP nicotine pouches thro
 
 ### Who Funds Them
 
-**1789 Capital — $15M seed round (October 2023)**
+### 1789 Capital — $15M seed round (October 2023)
 
 The firm that seeded TCN is a ~$150M conservative venture capital fund founded by Omeed Malik (former Bank of America executive, Trump donor) and Christopher Buskirk (conservative author/investor). [[Rebekah Mercer]] is listed as an executive officer at 1789 Capital and reportedly invested in its $150M fund. [[Peter Thiel]] was reported to have "hinted to allies" about investing.
 
@@ -81,15 +81,15 @@ Rebekah Mercer's political profile: previously invested in Breitbart News and Pa
 
 Donald Trump Jr. subsequently joined 1789 Capital as a partner, tightening the link between TCN's original funder and the Trump political operation.
 
-**Elon Musk / X Platform**
+### Elon Musk / X Platform
 
 While Musk did not directly fund TCN, Carlson's use of X as a distribution platform from April–December 2023 gave Musk's platform its most significant journalism-adjacent moment and boosted X's credibility as a political media platform. The relationship is symbiotic: Carlson got distribution and credibility; Musk got content and political alignment. The Putin interview (200M+ views on X) was the peak of this arrangement.
 
-**MyPillow / Mike Lindell (Fox-era)**
+### MyPillow / Mike Lindell (Fox-era)
 
 During the Fox advertiser exodus, Lindell's MyPillow spent nearly half of its ~$75M annual ad budget on Carlson's show. This created a direct financial dependency between Carlson's content and a company whose CEO was one of the most visible election deniers in the country. The content and the advertiser were ideologically fused.
 
-**Turning Point Brands (ALP joint venture)**
+### Turning Point Brands (ALP joint venture)
 
 Publicly traded tobacco accessories company. The ALP deal converts Carlson's audience into a direct consumer base, eliminating the advertiser intermediary entirely. His audience IS the product pipeline.
 
@@ -161,7 +161,7 @@ This is not incidental. Carlson's funders — Mercer, 1789 Capital, the Fox adve
 
 The Putin interview represents the endpoint of this logic: Carlson's "anti-establishment" credentials were deployed to legitimize the leader of an authoritarian petrostate as a truth-telling alternative to the American "regime" — on behalf of an audience whose economic interests have nothing to do with Russian foreign policy and everything to do with domestic class dynamics that Carlson never discusses.
 
-**Patterns present:**
+### Patterns present:
 - **Villain Framing** — immigration, Democrats, "elites" as targets; capital never named
 - **Independence Theater** — performative break from Fox while remaining within donor-class funding infrastructure
 - **Audience Capture** — audience radicalization creates content lock-in; host cannot moderate without losing subscribers

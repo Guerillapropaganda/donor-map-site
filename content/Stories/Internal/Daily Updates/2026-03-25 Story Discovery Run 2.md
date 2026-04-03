@@ -23,7 +23,7 @@ parent: null
 
 On March 19, 2026, the EPA formally revoked the 2009 endangerment finding — the legal foundation for all federal greenhouse gas regulation under the Clean Air Act. This single administrative action eliminates the legal basis for regulating emissions from vehicles, power plants, and oil and gas operations. The fossil fuel industry donated at least $75 million to Trump's 2024 campaign and affiliated PACs, plus $11.8 million to his inauguration fund. Trump reportedly told oil executives to raise $1 billion and called the investment a "deal" given the regulation they would avoid.
 
-**The revolving door pipeline:**
+### The revolving door pipeline:
 
 | Name | Previous Role | Current Role | Regulatory Target |
 |------|--------------|-------------|-------------------|
@@ -32,7 +32,7 @@ On March 19, 2026, the EPA formally revoked the 2009 endangerment finding — th
 | Abigale Tardif | Policy analyst, [[Koch Network - Charles Koch|Americans for Prosperity]] (Koch-funded) | EPA Office of Air and Radiation | Air quality regulations |
 | Wayne Palmer | Lobbyist, Essential Minerals Association | Asst. Secretary, Mine Safety & Health (DOL) | Mine safety enforcement |
 
-**The donor-to-policy timeline:**
+### The donor-to-policy timeline:
 
 | Date | Event | Amount | Significance |
 |------|-------|--------|-------------|
@@ -78,7 +78,7 @@ The "One Big Beautiful Bill Act" (OBBBA), signed approximately eight months ago,
 
 **The beneficiaries:** The Big Six — [[JPMorgan Chase]], [[Bank of America]], [[Citigroup]], [[Goldman Sachs - Wall Street Titan|Goldman Sachs]], Wells Fargo, and Morgan Stanley — have collectively added approximately $600 billion to their combined market value since the OBBBA was signed, reaching $2.37 trillion by March 2026.
 
-**The money pipeline:**
+### The money pipeline:
 
 | Bank | 2024 Contributions | Lobbying | Key Connection |
 |------|-------------------|----------|----------------|
@@ -108,7 +108,7 @@ The "One Big Beautiful Bill Act" (OBBBA), signed approximately eight months ago,
 
 The Department of Defense announced plans to spend the entire $152 billion allocated through reconciliation in FY2026, abandoning previous plans to spend $113 billion this year and spread the rest through FY2029. The acceleration pumps billions into munitions ($25B), missile defense ($24.4B), and shipbuilding, with $1B additional through the Defense Production Act.
 
-**The contractor pipeline (2020-2024 Pentagon contracts):**
+### The contractor pipeline (2020-2024 Pentagon contracts):
 
 | Contractor | Pentagon Contracts (2020-2024) | Key FY26 Reconciliation Items | Vault Profile |
 |------------|-------------------------------|-------------------------------|---------------|

@@ -1,7 +1,7 @@
 ---
 title: "The Revolving Door (Media) — Government-to-Media Personnel Pipeline"
 type: story
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -39,7 +39,7 @@ Crooked Media's "Pod Save America" launched on January 10, 2017 — ten days bef
 > [!money]
 > Pod Save America and the broader Crooked Media ecosystem represent the Democratic revolving door at scale: former government communications officials packaging Democratic messaging for the donor base, without the traditional distinction of journalism. Sponsors include consumer brands (ZipRecruiter, BetterHelp, SimpliSafe) seeking to reach high-income progressive audiences — the exact demographic that drives political fundraising.
 
-**Jen Psaki: Press Secretary to $12M/Year Cable Contract**
+### Jen Psaki: Press Secretary to $12M/Year Cable Contract
 
 | Role | Period | Compensation |
 |------|--------|-------------|
@@ -50,7 +50,7 @@ Crooked Media's "Pod Save America" launched on January 10, 2017 — ten days bef
 
 Psaki's gap from White House exit to media was approximately 4 months. Her pay leap: from $183,000/year to a reported $12–14 million/year — a roughly **65x increase**. This is not a journalist becoming a commentator; this is a government official securing a cable news contract at a rate that reflects her access and credibility within Democratic power structures, not the market value of her expertise.
 
-**Other Obama Officials in Media**
+### Other Obama Officials in Media
 
 | Name | Government Role | Media Role | Gap |
 |------|----------------|------------|-----|
@@ -67,7 +67,7 @@ Josh Earnest's gap of approximately 2 months between departing the White House a
 
 ### Trump First Term to Media (Exits)
 
-**Kayleigh McEnany: 41-Day Jump to Fox**
+### Kayleigh McEnany: 41-Day Jump to Fox
 
 | Role | Period | Compensation |
 |------|--------|-------------|
@@ -78,7 +78,7 @@ Josh Earnest's gap of approximately 2 months between departing the White House a
 
 McEnany announced her Fox News contributor role on March 2, 2021 — just **41 days** after leaving the White House. She began co-hosting "Outnumbered" on April 6, 2021. This represents the fastest documented press secretary-to-media transition in modern history.
 
-**Other First-Term Trump Officials**
+### Other First-Term Trump Officials
 
 | Name | Government Role | Media Destination | Gap |
 |------|----------------|-------------------|-----|
@@ -105,7 +105,7 @@ Most remarkably: as Hicks left the White House for Fox Corp in October 2018, Fox
 
 The second Trump administration drew at least 23 former Fox News employees into government — an unprecedented level of formal integration between a single media corporation and state power.
 
-**Cabinet-Level Appointments from Fox**
+### Cabinet-Level Appointments from Fox
 
 | Name | Media Role | Government Position | Media Salary | Govt Salary | Change |
 |------|-----------|---------------------|-------------|-------------|---------|
@@ -123,7 +123,7 @@ The second Trump administration drew at least 23 former Fox News employees into 
 > [!money]
 > The financial asymmetry reveals the underlying power structure. Government-to-media almost always produces massive pay increases (Psaki: 65x). Media-to-government under Trump produces massive pay cuts (Hegseth: -90%, Gabbard: -80%, Duffy: -56%). Yet media personalities still make the jump. Why? Because in the second Trump administration, proximity to power is worth more than salary.
 
-**Complete List of Fox-Affiliated Personnel in Second Trump Administration**
+### Complete List of Fox-Affiliated Personnel in Second Trump Administration
 
 | Name | Fox Role | Government Position |
 |------|---------|-------------------|
@@ -156,7 +156,7 @@ NPR noted Trump named 20 Fox-affiliated people in his first term and nearly matc
 
 ### The Cycling Pattern: Media to Government to Media
 
-**Dan Bongino: The Complete Loop**
+### Dan Bongino: The Complete Loop
 
 | Phase | Role | Period |
 |-------|------|--------|
@@ -172,7 +172,7 @@ NPR noted Trump named 20 Fox-affiliated people in his first term and nearly matc
 
 Bongino's trajectory is the most complete loop documented: Secret Service agent protecting both Bush and Obama, three failed congressional campaigns, NRA TV host, Fox News contributor, Saturday night Fox show host, nationally syndicated radio host replacing Rush Limbaugh, investor in Rumble (5.7% stake worth ~$160 million), FBI deputy director for less than a year, and back to civilian life.
 
-**Joe Scarborough: Congress to MSNBC**
+### Joe Scarborough: Congress to MSNBC
 
 | Phase | Role | Period |
 |-------|------|--------|
@@ -183,7 +183,7 @@ Bongino's trajectory is the most complete loop documented: Secret Service agent 
 
 Scarborough was elected in 1994's Republican wave. He resigned from Congress in September 2001, citing family reasons. After briefly returning to law, he launched "Scarborough Country" on MSNBC in April 2003 — roughly 18 months after leaving Congress. "Morning Joe" has been a Washington "breakfast staple" since 2007, airing on screens at the congressional gym and on government jets.
 
-**George Stephanopoulos: Clinton to ABC**
+### George Stephanopoulos: Clinton to ABC
 
 | Phase | Role | Period |
 |-------|------|--------|
@@ -192,7 +192,7 @@ Scarborough was elected in 1994's Republican wave. He resigned from Congress in 
 
 Stephanopoulos joined ABC News in 1997, approximately one year after leaving the Clinton White House. In 2015, he apologized for donating $75,000 to the Clinton Foundation without disclosing it to ABC or viewers. The donation itself was not disclosed; his apology was only triggered after public discovery.
 
-**Nicolle Wallace: Bush to McCain to MSNBC**
+### Nicolle Wallace: Bush to McCain to MSNBC
 
 | Phase | Role | Period |
 |-------|------|--------|
@@ -208,7 +208,7 @@ Wallace served as Bush's communications director, moved into media, cycled back 
 
 ### The Speed and Compensation Gap
 
-**Government-to-Media: Shortest Transitions**
+### Government-to-Media: Shortest Transitions
 
 | Person | Transition | Gap |
 |--------|-----------|-----|
@@ -218,7 +218,7 @@ Wallace served as Bush's communications director, moved into media, cycled back 
 | Symone Sanders | VP Harris Spokesperson → MSNBC | ~3 months |
 | Jen Psaki | Biden WH Press Sec → MSNBC | ~4 months |
 
-**Compensation Comparison: Government vs. Media**
+### Compensation Comparison: Government vs. Media
 
 | Person | Government Pay | Media Pay | Multiple/Change |
 |--------|---------------|-----------|-----------------|
@@ -238,7 +238,7 @@ Wallace served as Bush's communications director, moved into media, cycled back 
 
 A 2022 investigation by The Lever, analyzed by FAIR, found that **20 of 22 featured American guests** on corporate network Sunday politics programs discussing the Afghanistan withdrawal had ties to the arms industry or its boosters — and few, if any, disclosed their conflicts of interest.
 
-**Documented Cases of Undisclosed Conflicts:**
+### Documented Cases of Undisclosed Conflicts:
 
 - **Leon Panetta** (former Defense Secretary, CIA Director): Regularly appears on CNN as an expert while serving as senior counselor at Beacon Global Strategies, a defense industry consulting firm whose clients have reportedly included Raytheon. CNN did not disclose this connection.
 
@@ -246,7 +246,7 @@ A 2022 investigation by The Lever, analyzed by FAIR, found that **20 of 22 featu
 
 A 2010 investigation by The Nation found that since 2007, **at least 75 registered lobbyists, PR representatives, and corporate officials** had appeared on MSNBC, Fox News, CNN, CNBC, and Fox Business with no disclosure of corporate interests that had paid them. Cases included pundits working for AIG appearing during the AIG bailout discussion, and insurance/pharma-employed commentators discussing healthcare reform.
 
-**Think Tanks as Staging Areas**
+### Think Tanks as Staging Areas
 
 The Quincy Institute documented the Pentagon's Secretary of Defense Executive Fellows (SDEF) program as a "de facto lobbying tool" and "taxpayer-funded revolving door" — from 1995 to 2021, over 315 military officers were placed at top weapons manufacturers. More than 40% went on to work for government contractors in their post-military careers.
 

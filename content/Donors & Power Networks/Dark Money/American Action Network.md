@@ -50,7 +50,7 @@ AAN's primary expenditure function is as the dark money feeder to the [[Congress
 
 Dan Conston has led both organizations simultaneously since 2018. This dual leadership makes the coordination between the anonymous funding stream and the explicit electoral spending explicit and structural — not incidental.
 
-**Cycle-by-cycle CLF transfers:**
+### Cycle-by-cycle CLF transfers:
 
 | Cycle | AAN → CLF Transfer | CLF Total Spend | AAN Share of CLF |
 |-------|-------------------|-----------------|-----------------|

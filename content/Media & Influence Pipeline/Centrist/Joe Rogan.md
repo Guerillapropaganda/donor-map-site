@@ -31,23 +31,23 @@ Primary platforms: Spotify (exclusive 2021–2024), then multi-platform includin
 
 Rogan's revenue model has three layers: platform licensing deals, sponsor revenue, and business equity. Together they have produced an estimated $450M+ in pre-tax earnings since 2020.
 
-**Spotify Licensing**
+### Spotify Licensing
 
 In May 2020, Spotify signed Rogan to an exclusive licensing deal worth over $200 million over 3.5 years. The show moved exclusively to Spotify in January 2021. In February 2024, Spotify renewed the deal for up to $250 million over multiple years — but dropped the exclusivity clause. Under the new structure, Rogan distributes across all major platforms (Spotify, YouTube, Apple Podcasts, Amazon Music), with Spotify handling ad sales and taking a distribution fee while Rogan receives a guaranteed minimum plus a revenue share on advertising sold across all platforms.
 
 Total Spotify earnings across both deals: at least $450 million in guaranteed fees.
 
-**Sponsor Revenue**
+### Sponsor Revenue
 
 Each JRE episode carries 2–3 sponsor reads at a minimum entry rate of $120,000 per sponsor per episode. In 2023, podcast advertising contributed an estimated $48 million to Rogan's annual income. Annual podcast earnings are estimated at approximately $60 million. Major recurring sponsors have included Athletic Greens (AG1), BetterHelp, Cash App, The Farmer's Dog, SimpliSafe, Gen Digital, and Call of Duty.
 
 The sponsor model creates a structural constraint: sponsors who advertise to JRE's audience — predominantly male, 18–34, anti-institutional, masculine-coded — are largely immune to advertiser boycotts driven by progressive pressure campaigns. Rogan's "apolitical" branding shields his ad revenue from the cancellation dynamics that hit overtly partisan personalities.
 
-**Business Equity: Onnit → Unilever**
+### Business Equity: Onnit → Unilever
 
 Rogan was a co-founder and equity holder in Onnit, a holistic wellness and supplement brand based in Austin, Texas. He promoted Onnit products extensively on JRE throughout the 2010s, converting his audience into a customer base. In April 2021, Unilever acquired Onnit for a reported $100–400 million. Rogan's equity stake, while undisclosed, was a substantial windfall on top of his podcast income.
 
-**UFC Commentary**
+### UFC Commentary
 
 Rogan has been the UFC's color commentator since 2002, with a brief hiatus 2022–2023. The commentary role pays an undisclosed salary but functions primarily as a structural relationship: it ties Rogan to Dana White, the UFC's president and one of Donald Trump's most important political allies in the 2024 election.
 
@@ -75,7 +75,7 @@ No FEC individual contributions found. FEC API returns 5 results for "Joe Rogan"
 | Unilever | Acquirer | Bought Onnit in 2021; Rogan received equity payout |
 | BetterHelp, Cash App, etc. | Sponsors | Regular ad partners at $120K+ per episode minimum |
 
-**Tech Billionaire Guest Pipeline**
+### Tech Billionaire Guest Pipeline
 
 Rogan's guest roster functions as a secondary funding mechanism through platform legitimacy. [[Peter Thiel]] appeared on JRE episode #2190 in August 2024. [[Elon Musk]] has appeared multiple times (most notably episode #1169 in 2018, drawing 50M+ YouTube views) and is a close public ally. [[Marc Andreessen and a16z]] partner Marc Andreessen appeared on JRE in 2023. These appearances are not direct payments — they are access trades: Rogan provides audience reach to tech billionaires, and they provide prestige and a network connection that protects Rogan's brand as a "serious" interviewer rather than an entertainer.
 
@@ -86,19 +86,19 @@ Rogan's guest roster functions as a secondary funding mechanism through platform
 
 ### What They Push
 
-**COVID Vaccine Skepticism**
+### COVID Vaccine Skepticism
 
 In January 2022, Rogan interviewed Dr. Robert Malone, an mRNA researcher who had been banned from Twitter for spreading vaccine misinformation. Rogan gave Malone a platform to reach an estimated 11 million listeners with claims that mass vaccination was unnecessary and dangerous. Over 270 scientists and doctors signed an open letter to Spotify demanding action. Neil Young, Joni Mitchell, and other artists pulled their music from the platform in protest. Spotify added content advisories but refused to remove the episode. Rogan apologized for "misinformation" but defended the interview. Rogan had previously promoted ivermectin as a COVID treatment on his show.
 
-**Climate Denial and Doubt**
+### Climate Denial and Doubt
 
 In an October 2024 episode, Rogan hosted Richard Lindzen and William Happer — two octogenarian climate contrarians funded by fossil fuel interests — and presented their views as credible scientific dissent. Yale Climate Connections documented this as part of a pattern: "Rather than outright denying climate change, today's most influential media personalities like Joe Rogan now push subtler, more insidious narratives — arguing that climate solutions don't work, that global warming is beneficial or that environmental policies are tools for government overreach." Rogan has also platformed Bjørn Lomborg and Jordan Peterson on climate topics. A Yale Climate Connections analysis found that 8 of the 10 most popular online shows spread climate misinformation; JRE is among them.
 
-**Anti-Institutional Masculinity**
+### Anti-Institutional Masculinity
 
 Rogan's core content frame — long-form conversation about fitness, combat sports, psychedelics, hunting, free speech — constructs a masculine identity grounded in physical autonomy, distrust of experts, and resistance to "woke" cultural norms. This framing is not incidentally right-wing; it structurally positions institutional authority (CDC, FDA, academic consensus) as threats to masculine sovereignty. The political valence is deniable because it's delivered through fitness culture and comedy rather than explicit partisanship.
 
-**The 2024 Trump Endorsement**
+### The 2024 Trump Endorsement
 
 On October 25, 2024, Rogan endorsed Donald Trump for president — ten days after a three-hour interview with Trump that drew 26 million views in its first 24 hours (47 million total views as of early 2025). Rogan stated he initially didn't want to endorse but was urged by Dana White. At Trump's victory event, White said: "I want to thank... last but not least, the mighty and powerful Joe Rogan." Analysts attributed a 1–2.6% boost in Trump's vote share to his podcast strategy, with more than half linked to JRE.
 

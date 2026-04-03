@@ -1,7 +1,7 @@
 ---
 title: "Goldman Sachs — The Government Sachs Alumni Network"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: "Goldman Sachs"

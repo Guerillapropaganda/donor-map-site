@@ -32,7 +32,7 @@ InfluenceMap does not engage in direct lobbying or endorse candidates. Its funct
 > [!money] Follow the Money
 > InfluenceMap is funded by philanthropic foundations. This is relevant context — it means their data independence depends on foundation funding remaining non-conditional. No corporate sponsors are disclosed.
 
-**Known funders:**
+### Known funders:
 - Quadrature Climate Foundation
 - The Sunrise Project
 - Laudes Foundation
@@ -49,7 +49,7 @@ InfluenceMap does not engage in direct lobbying or endorse candidates. Its funct
 
 InfluenceMap's Carbon Majors database update attributed 57% of global CO2 emissions since 2016 to just 80 fossil fuel producers. Its 2024–2025 reports documented growing gaps between corporate climate pledges and actual lobbying behavior, particularly in the automotive and financial sectors. The organization has specifically documented how trade associations like AFPM, the American Petroleum Institute, and the U.S. Chamber of Commerce lobby against climate policy while their member companies make public sustainability pledges.
 
-**Vault-relevant findings:**
+### Vault-relevant findings:
 - AFPM identified as one of the top obstructors of climate policy — a direct data point connecting the AFPM donor node to InfluenceMap's accountability work
 - FinanceMap platform expanded to cover asset manager climate voting records
 - Climate Action 100+ benchmark methodology developed by InfluenceMap

@@ -28,7 +28,7 @@ Clinton embodies the "progressive who delivers for Wall Street" archetype. Her f
 
 ### Donor Class Map
 
-**Top donors and policy returns:**
+### Top donors and policy returns:
 
 | Donor/Sector | Amount (Career) | Policy Return | Period |
 |---|---|---|---|
@@ -51,13 +51,13 @@ Clinton embodies the "progressive who delivers for Wall Street" archetype. Her f
 
 ### Analytical Patterns
 
-**Pattern: Two-Audience Problem**
+### Pattern: Two-Audience Problem
 Clinton's leaked private speeches to Goldman Sachs revealed a candidate maintaining different policy positions for Wall Street than for public audiences. Her explicit words: "You need to have both a public and private position" — a confession of the two-audience strategy. This pattern delegitimized the Democratic nominee among working-class voters who recognized they were not the audience for the "private position."
 
-**Pattern: Genuine Win + Structural Limit**
+### Pattern: Genuine Win + Structural Limit
 As Secretary of State, Clinton achieved genuine wins for women's rights and LGBTQ+ equality (foreign policy commitments, NGO funding). These victories were real and substantive. However, they operated within parameters set by donor interests: U.S. military and intelligence spending remained untouched; trade policy remained neoliberal; Wall Street remained unregulated. The structural limits protected donor interests while allowing Clinton to claim progressive credentials.
 
-**Pattern: Donor-Class Override**
+### Pattern: Donor-Class Override
 Clinton's opposition to Glass-Steagall reinstatement, despite being the signature financial policy demand of the Sanders campaign and substantial Democratic grassroots, directly reflected Goldman Sachs and Wall Street's interests over her constituency. She chose donor interests over voter demands on the central economic issue of the 2016 race.
 
 ### Class Analysis

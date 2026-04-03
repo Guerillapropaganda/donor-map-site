@@ -133,7 +133,7 @@ FTP represents 153 clients across pharma, healthcare, tech, defense, telecom, to
 
 FTP's 63.6% revolving door rate (21 of 33 lobbyists in 2024 are former government employees) is anchored by the founders' Clinton White House and Senate Finance Committee pedigrees.
 
-**Key Revolving Door Hires:**
+### Key Revolving Door Hires:
 
 **Jeff Forbes** — Founding Partner
 - **Former:** Special Assistant to the President and Staff Director for Legislative Affairs, Clinton White House (1997); Chief of Staff to Senator Max Baucus (D-MT) (1999-2002); Democratic Staff Director, U.S. Senate Committee on Finance (2003)
@@ -202,7 +202,7 @@ FTP's top lobbying issues in 2024 reveal a pharma/healthcare-dominated practice:
 
 Health Issues dominates with 172 reports from 46 clients — consistent with the massive pharma cluster in the client list. Medicare & Medicaid is its own separate category with 94 reports. Together, health-related lobbying accounts for the firm's largest activity by far.
 
-**The Grassroots Machine:**
+### The Grassroots Machine:
 FTP's distinctive capability is combining direct lobbying with manufactured grassroots support. The firm's services include:
 - **Coalition management:** Building and managing issue-specific coalitions that give corporate policy positions the appearance of broad-based support
 - **Grassroots/grasstops mobilization:** Activating networks of supporters (real and cultivated) to pressure legislators

@@ -21,7 +21,7 @@ The Federalist Society for Law and Public Policy Studies is the most consequenti
 
 Headquartered in Washington, D.C. Operates as a 501(c)(3) tax-exempt "educational" nonprofit — EIN 36-3235550. Tax-exempt since July 1983.
 
-**IRS 990 Data (FY ending Sept. 2024, ProPublica Nonprofit Explorer):**
+### IRS 990 Data (FY ending Sept. 2024, ProPublica Nonprofit Explorer):
 - Revenue: $22,549,891 (73.1% from contributions — $16.5M; 7.6% program services — $1.7M; 4.4% investment income — $996K; 14.9% sales of assets — $3.4M)
 - Expenses: $27,717,519
 - Net Income: -$5,167,628
@@ -43,7 +43,7 @@ The organization claims it does not lobby, does not endorse legislation or candi
 
 The Federalist Society's direct budget is modest by Washington standards — $22.5M annually. The real money flows through Leonard Leo's parallel dark money network, which has distributed over $1.6 billion to conservative legal and political operations since 2016. The Society provides the intellectual framework and personnel pipeline; Leo's empire funds the campaigns to confirm the judges and litigate the cases.
 
-**Major identified donors:**
+### Major identified donors:
 
 | Donor | Amount | Period | Source |
 |-------|--------|--------|--------|
@@ -81,7 +81,7 @@ The Federalist Society does not produce model legislation or policy papers in th
 
 **Amicus brief coordination:** Leo's parallel organizations — particularly The 85 Fund — coordinate amicus briefs supporting cases designed to advance the donor class agenda through the courts the Society helped staff.
 
-**Key judicial outcomes produced by Federalist Society-vetted judges:**
+### Key judicial outcomes produced by Federalist Society-vetted judges:
 
 - *Loper Bright v. Raimondo* (2024) — Chevron deference eliminated. 6-3, all FedSoc majority. Gutted 40 years of agency regulatory authority.
 - *Dobbs v. Jackson Women's Health* (2022) — Roe v. Wade overturned. 6-3, all FedSoc majority. 50-year precedent eliminated.
@@ -115,7 +115,7 @@ The Federalist Society's policy pipeline is unlike any other institution in Amer
 
 The Federalist Society's revolving door operates differently from traditional policy organizations. Staff don't rotate between the think tank and regulatory agencies. Instead, **the network itself is the revolving door** — members move between law schools, judicial clerkships, private practice, government legal positions, and the federal bench, carrying Federalist Society jurisprudence at every stage.
 
-**Key personnel movements:**
+### Key personnel movements:
 
 - **Leonard Leo:** Co-chairman of the Federalist Society → informal judicial advisor to George W. Bush → chief judicial advisor to Trump → controller of $1.6B dark money empire through Marble Freedom Trust and CRC Advisors ($102M in consulting fees from his own network, 2016–2022).
 
@@ -152,7 +152,7 @@ OpenSecrets tracks 93 Federalist Society-connected individuals through the revol
 > [!money]
 > The ROI calculation defies conventional measurement. The Federalist Society's direct budget is ~$22M/year. Leo's broader network has spent approximately $600M over two decades on judicial infrastructure. The policy returns: Chevron elimination shifts $100B+ in reduced regulatory costs to corporations over a decade. Dobbs, SFFA, Bruen, Citizens United — each represents a multi-billion-dollar structural transfer of power from public institutions to private capital. The donor class invested hundreds of millions in the judicial pipeline and received structural control of constitutional interpretation. No lobbying expenditure, no campaign contribution, no legislative strategy has ever produced comparable returns.
 
-**Trump 2.0 — the pipeline continues despite the public rift:**
+### Trump 2.0 — the pipeline continues despite the public rift:
 
 On May 29, 2025, after the U.S. Court of International Trade struck down his tariffs, Trump posted on Truth Social calling Leo a "sleazebag" who "probably hates America" and declared himself "disappointed in The Federalist Society because of the bad advice they gave me on numerous Judicial Nominations." Leo responded diplomatically, calling Trump's court transformation "his most important legacy." The fracture was driven by Trump's fury that his own SCOTUS appointees — selected on Leo's recommendation — declined to keep him in office after the 2020 election.
 

@@ -1,7 +1,7 @@
 ---
 title: "Founders Fund"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -41,7 +41,7 @@ Founders Fund does not have a corporate PAC. The political spending flows throug
 > [!money] Follow the Money
 > Peter Thiel's 2022 cycle outside spending totaled $35.25 million through super PACs alone — the largest individual outside spending in any midterm Senate cycle. The spending was concentrated on two candidates: JD Vance (Ohio Senate) and Blake Masters (Arizona Senate), both Thiel protégés from his venture capital network. Thiel spent $15 million on Vance and $20 million on Masters through their respective super PACs. In 2024, Thiel pulled back from direct candidate spending ($1.7 million in federal contributions) but the network he built — Vance as VP, Sacks as AI czar, Musk at DOGE — was already operational.
 
-**2022 cycle — Super PAC spending (FEC records):**
+### 2022 cycle — Super PAC spending (FEC records):
 
 | Date | Recipient | Amount |
 |------|-----------|--------|
@@ -55,7 +55,7 @@ Founders Fund does not have a corporate PAC. The political spending flows throug
 | 2022-10-13 | Saving Arizona PAC (Blake Masters) | $2,500,000 |
 | 2022-10-20 | Saving Arizona PAC (Blake Masters) | $2,500,000 |
 
-**Total 2022 outside spending: $35,250,000**
+### Total 2022 outside spending: $35,250,000
 
 **Dark money channel:** Thiel also controls Per Aspera Policy, a 501(c)(4) dark money nonprofit that funneled at least $200,000 to Protect Ohio Values. Because 501(c)(4) organizations don't disclose donors, the full extent of dark money spending is unknown.
 
@@ -74,7 +74,7 @@ Founders Fund does not have a corporate PAC. The political spending flows throug
 
 The Founders Fund network's political investments have produced extraordinary returns — not in traditional campaign-contribution-to-vote sequences, but in something more valuable: the placement of network members in positions that control policy, contracts, and regulatory architecture.
 
-**The PayPal Mafia Takeover (2024-2025):**
+### The PayPal Mafia Takeover (2024-2025):
 
 | Date | Investment/Event | Amount | Policy Outcome | Time Gap |
 |------|-----------------|--------|----------------|----------|

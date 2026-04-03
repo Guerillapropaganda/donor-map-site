@@ -1,7 +1,7 @@
 ---
 title: "The Endorsement Economy - Courage to Change PAC"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: "[[_Alexandria Ocasio-Cortez Master Profile]]"
@@ -33,21 +33,21 @@ The 2023-2024 cycle reveals a strategic shift: independent expenditures ($279,60
 
 ### 2023-2024 Recipient Network
 
-**Top-tier recipient (over $5K):**
+### Top-tier recipient (over $5K):
 - Pat Ryan (D-NY): $10,000
 
-**Tier recipients ($5,000 each):**
+### Tier recipients ($5,000 each):
 Jamaal Bowman, Cori Bush, Matt Cartwright, Greg Casar, Christopher Deluzio, Summer Lee, Ilhan Omar, Mary Peltola, Ayanna Pressley, Delia Ramirez, Aaron Regunberg, Melanie Stansbury, Rashida Tlaib, Michelle Vallejo, Susan Wild, Bernie Sanders.
 
 **Partisan consistency:** 94.44% of candidate contributions directed to Democrats in 2023-2024 (Tier 1).
 
 ### 2019-2020 Early Coalition Building
 
-**Initial top recipients:**
+### Initial top recipients:
 - Kara Eastman (D-NE): $10,000
 - Georgette Gomez (D-CA): $10,000
 
-**Secondary tier ($5-7K):**
+### Secondary tier ($5-7K):
 Anthony Brindisi, Teresa Leger Fernandez, Marie Newman, Jamaal Bowman, Cori Bush, Jessica Cisneros.
 
 Early giving prioritized first-time candidates and challengers, establishing pattern of supporting anti-establishment primary challenges.
@@ -60,30 +60,30 @@ Early giving prioritized first-time candidates and challengers, establishing pat
 
 The real magnitude of Ocasio-Cortez's endorsement economy extends far beyond PAC disbursements:
 
-**2025 NYC Mayoral Race:**
+### 2025 NYC Mayoral Race:
 Zohran Mamdani received her early endorsement and won—validating her endorsement as primary-moving force in New York progressive politics (Tier 2).
 
-**2026 New Jersey Special Election:**
+### 2026 New Jersey Special Election:
 Analilia Mejia, another AOC endorsee, outperformed baseline expectations and secured victory (Tier 2).
 
-**2020 Primary Unseating Incumbents:**
+### 2020 Primary Unseating Incumbents:
 Her endorsements of Jamaal Bowman and Cori Bush preceded their primary victories over long-serving incumbent representatives—a material shift in House composition (Tier 2).
 
-**Donor Network Activation:**
+### Donor Network Activation:
 Her social media audience (3.1M+ Instagram followers) and bundled small-dollar networks generate far more capital than $90-200K direct PAC contributions. ActBlue H1 2025 data ranks her 3rd nationally in small-dollar donation activation, behind only DNC and DSCC (Tier 2).
 
 ### Institutional Alignment and Reciprocal Networks
 
-**Justice Democrats / Saikat Chakrabarti:**
+### Justice Democrats / Saikat Chakrabarti:
 Chakrabarti co-founded both Justice Democrats and Brand New Congress, recruited AOC's 2018 candidacy through an open nomination process (her brother Gabriel submitted her name), and served as her first Chief of Staff until August 2019. A founding engineer at Stripe, his early equity stake makes him one of the wealthiest figures in the progressive infrastructure. As of 2026, Chakrabarti is running for Congress in CA-11 (Nancy Pelosi's former seat), facing Supervisor Connie Chan and State Sen. Scott Wiener. The San Francisco Chronicle covered an April 1, 2026 debate among the candidates. The Justice Democrats/AOC relationship is reciprocal: she endorses their subsequent candidates, creating a closed-loop accountability structure. [San Francisco Chronicle, April 2026](URL NEEDED) (Tier 2).
 
-**Working Families Party:**
+### Working Families Party:
 Coordinates multi-candidate endorsement slates, expanding her influence across state-level races.
 
-**Democratic Socialists of America (DSA):**
+### Democratic Socialists of America (DSA):
 Complex relationship marked by occasional divergence on endorsement priorities and strategy—not a unified bloc despite shared origins.
 
-**Bernie Sanders Coalition:**
+### Bernie Sanders Coalition:
 Q1 2025 "Fighting Oligarchy" tour fundraising with Sanders correlated with campaign spike to $9.6M (Tier 2), indicating his network mobilization capability intersects with hers.
 
 ---
@@ -92,7 +92,7 @@ research-status:: Complete with FEC filings and recent electoral outcomes throug
 
 content-readiness:: Developed
 
-**Sources:**
+### Sources:
 - OpenSecrets Courage to Change 2024, 2022, 2020 (Tier 1)
 - FEC C00692202 filings (Tier 1)
 - Reuters: Moderate Democrats Return Donations (Tier 2)

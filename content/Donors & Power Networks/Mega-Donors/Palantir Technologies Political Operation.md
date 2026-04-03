@@ -1,7 +1,7 @@
 ---
 title: "Palantir Technologies Political Operation"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
@@ -37,7 +37,7 @@ Palantir's political objectives are structural, not ideological — the company 
 
 Palantir's political spending in the 2024 cycle ($4.94 million total from PAC and affiliated individuals) is strategically bipartisan, tilting Republican but maintaining Democratic access:
 
-**Top recipients (2024 cycle, OpenSecrets):**
+### Top recipients (2024 cycle, OpenSecrets):
 
 | Recipient | Amount | Type |
 |-----------|--------|------|

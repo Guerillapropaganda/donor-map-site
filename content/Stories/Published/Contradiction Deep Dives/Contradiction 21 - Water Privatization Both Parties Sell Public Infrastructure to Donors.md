@@ -1,7 +1,7 @@
 ---
 title: "Contradiction 21 - Water Privatization: Both Parties Sell Public Infrastructure to Donors"
 type: story
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -21,7 +21,7 @@ The United States professes commitment to clean, affordable water access while s
 
 American Water Works is the largest private water utility in the United States. Its PAC distributes contributions strategically across both parties, targeting legislators with jurisdiction over water and infrastructure.
 
-**2023–2024 cycle top recipients:**
+### 2023–2024 cycle top recipients:
 - Mike Bost (R-IL, Agriculture Committee Chair): $6,000
 - John Garamendi (D-CA): $5,000
 - Jimmy Panetta (D-CA): $5,000

@@ -53,7 +53,7 @@ Priorities USA Action's stated mission is to elect Democrats and defend voting r
 
 Priorities USA Action's disclosed donor base reads as a directory of Democratic mega-donor wealth:
 
-**Top disclosed donors by cycle:**
+### Top disclosed donors by cycle:
 
 | Cycle | Top Donors | Amount |
 |-------|-----------|--------|

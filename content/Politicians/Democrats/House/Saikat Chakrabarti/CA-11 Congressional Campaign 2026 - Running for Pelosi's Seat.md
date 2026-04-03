@@ -1,7 +1,7 @@
 ---
 title: CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: "[[_Saikat Chakrabarti Master Profile]]"
@@ -19,7 +19,7 @@ related:: [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Alexandria Ocasio-Cortez
 
 The top-two primary is scheduled for June 2, 2026, with 10 total candidates (9 Democrats, 1 Republican). CA-11 has a Cook Partisan Voter Index of D+36, making it a solidly Democratic seat.
 
-**Major Democratic Contenders:**
+### Major Democratic Contenders:
 - [[_Scott Wiener Master Profile|Wiener]] (State Senator, establishment-backed)
 - [[_Connie Chan Master Profile|Chan]] (Supervisor, labor/progressive coalition)
 - Chakrabarti (self-funding progressive insurgent)
@@ -29,7 +29,7 @@ The top-two primary is scheduled for June 2, 2026, with 10 total candidates (9 D
 > [!money]
 > Through end of 2025, Chakrabarti raised $1,769,247.61 with a highly unusual fundraising composition: $1,470,000.00 (83.1%) from his own pocket as candidate self-loans, leaving him with only $298,247.61 in individual contributions and $0 from PACs or party sources. This leaves $112,266.36 cash on hand against $1,470,000 in outstanding self-loan debts.
 
-**Comparative Fundraising (End of 2025):**
+### Comparative Fundraising (End of 2025):
 - Wiener: $2,785,939 raised, $0 self-loans, $28,050 PAC, $2,274,365 COH
 - Chakrabarti: $1,769,248 raised, $1,470,000 self-loans, $0 PAC, $112,266 COH
 - Chan: $174,385 raised, $0 self-loans, $7,000 PAC, ~$119,531 COH
@@ -43,22 +43,22 @@ Despite lower overall fundraising than Wiener, Chakrabarti achieved 5,724 indivi
 > [!contradiction]
 > Chakrabarti has secured endorsements from national progressive organizations (Justice Democrats, former Rep. Jamaal Bowman) and reportedly [[_Alexandria Ocasio-Cortez Master Profile|AOC]]-adjacent support, yet he has been explicitly declined by DSA SF and faces institutional opposition from California's Democratic establishment.
 
-**Establishment Consolidation Behind Wiener:**
+### Establishment Consolidation Behind Wiener:
 - California Democratic Party: 117 of 151 delegates to Wiener; Chakrabarti: 0 delegates
 - San Francisco Labor Council: Chan
 - California Teachers Association: Chan
 - National Nurses United: Chan
 
-**Progressive Endorsements for Chakrabarti:**
+### Progressive Endorsements for Chakrabarti:
 - Justice Democrats: March 30, 2026
 - Former Rep. Jamaal Bowman: Spring 2026
 
-**Neutral/Opposed:**
+### Neutral/Opposed:
 - [[_Alexandria Ocasio-Cortez Master Profile|AOC]]: No endorsement as of April 2, 2026
 - Democratic Socialists of America—SF: Explicitly declined on August 12, 2025, stating Chakrabarti is "not a DSA member or a socialist...not endorsed by our Chapter"
 - [[_Nancy Pelosi Master Profile|Pelosi]]: No endorsement
 
-**Other Endorsements:**
+### Other Endorsements:
 - Working Families Party: Chan (February 20, 2026)
 
 ### Polling: Name Recognition Gap
@@ -69,7 +69,7 @@ Early polling data shows Chakrabarti competitive in internal samples but trailin
 - Internal Chakrabarti poll (January 2026): Wiener 37%, Chakrabarti 16%, Chan 17%
 - Polymarket (April 2026 prediction market): Wiener 55%, Chan 29.9%, Chakrabarti 9.3%
 
-**Name Recognition Deficit:**
+### Name Recognition Deficit:
 - Chakrabarti: 45%
 - Chan: 64%
 - Wiener: 92%
@@ -78,36 +78,36 @@ Early polling data shows Chakrabarti competitive in internal samples but trailin
 
 Chakrabarti's campaign platform (saikat.us/policies) positions him as a left-wing economic insurgent:
 
-**Housing & Land Use:**
+### Housing & Land Use:
 - Federal financing entity for affordable housing
 - Repeal Faircloth Amendment to enable expanded public housing
 - Double total public housing stock
 
-**Climate & Energy:**
+### Climate & Energy:
 - "Mission for America" as successor to Green New Deal
 - Revive the Reconstruction Finance Corporation (RFC)
 - Enforce Raker Act to convert PG&E to public utility
 
-**Healthcare:**
+### Healthcare:
 - Medicare for All
 
-**Technology & Big Tech Regulation:**
+### Technology & Big Tech Regulation:
 - Require data centers to pay for energy and grid infrastructure
 - AI safety regulation and enforcement
 - Fund Federal Trade Commission for tech breakups
 
-**Israel/Palestine:**
+### Israel/Palestine:
 - End ALL U.S. military aid to Israel (more absolutist than Wiener's position)
 - Support Block the Bombs Act
 
-**Tax & Fiscal:**
+### Tax & Fiscal:
 - Ultra-millionaire tax (2% above $50M, 3% above $1B)
 - Ban congressional stock trading
 - $25 minimum wage
 - Free public college
 - Universal childcare
 
-**Labor & Civil Rights:**
+### Labor & Civil Rights:
 - Support PRO Act (union organizing protection)
 - Abolish Immigration and Customs Enforcement (ICE)
 - Codify Roe v. Wade
@@ -130,15 +130,15 @@ Wiener attacked Chakrabarti's self-funding strategy directly, noting "He has spe
 > [!contradiction]
 > Chakrabarti positions himself as a grassroots insurgent, yet faces attacks on his residency record, voting gaps, and support from a crypto/VC-backed super PAC that also funds his establishment opponents.
 
-**Maryland Residency Controversy:**
+### Maryland Residency Controversy:
 In March 2025, investigative reporting revealed that Chakrabarti purchased a $1.6–1.8M home in Gaithersburg, Maryland in 2018 and listed it as his "principal residence" for approximately seven years. He claimed the purchase was for his parents (who reside in New Jersey) and attributed the discrepancy to a "clerical mistake." When confronted by SF Standard, he corrected the deed listing. This contradiction undermines his claim as a committed San Francisco resident and candidate.
 
-**Voting Record Gaps:**
+### Voting Record Gaps:
 - Voted in San Francisco in 2010, then not again until 2020 (10-year gap)
 - Voted in New York City in 2016 and 2018
 - Campaign donation addresses listed in Covina (CA), Washington DC, and New York City
 
-**Abundant Future Super PAC:**
+### Abundant Future Super PAC:
 Despite his anti-establishment rhetoric, Chakrabarti has received support from Abundant Future, a super PAC funded by:
 - Chris Larsen (Ripple Labs crypto founder): $100,000
 - Garry Tan (Y Combinator CEO): $25,000
@@ -147,7 +147,7 @@ Despite his anti-establishment rhetoric, Chakrabarti has received support from A
 
 Notably, all four major funders of the pro-Chakrabarti super PAC also donated to [[_Scott Wiener Master Profile|Wiener]], suggesting wealthy tech sector hedging. Abundant Future ran mailers attacking Chakrabarti with the message "Saikat Chakrabarti sends Greetings from Maryland"—a self-sabotaging attack raising questions about the super PAC's true allegiances.
 
-**Local Donation Pattern Contradictions:**
+### Local Donation Pattern Contradictions:
 In 2024–2025, Chakrabarti donated $10,000 to GrowSF-backed centrist candidate Bilal Mahmood over DSA-backed progressive Dean Preston, and $500 to Michael Lai over progressive challenger Chyanne Chen. These donations contradict his progressive primary positioning.
 
 ### Tech Sector Class Analysis: Patrick Collison & Stripe

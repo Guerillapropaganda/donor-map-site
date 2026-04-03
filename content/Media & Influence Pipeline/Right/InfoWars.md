@@ -1,7 +1,7 @@
 ---
 title: "InfoWars"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
@@ -25,7 +25,7 @@ InfoWars is a media and product-sales operation founded and controlled by Alex J
 
 InfoWars operated under a fundamentally different revenue structure than traditional media. Approximately 80% of revenue derived from direct-to-consumer supplement sales, not advertising or subscriptions.
 
-**Supplement Sales (Primary Revenue): ~$165 million over three years (2015-2018)**
+### Supplement Sales (Primary Revenue): ~$165 million over three years (2015-2018)
 
 InfoWars Life (later rebranded as Dr. Jones Naturals) sold products marketed to address health anxieties created by the platform's content:
 - Super Male Vitality (testosterone booster, Jones's signature product)
@@ -39,11 +39,11 @@ InfoWars Life (later rebranded as Dr. Jones Naturals) sold products marketed to 
 
 Many products were originally sourced from Dr. Edward F. Group III's Global Healing Center before InfoWars co-branding.
 
-**The Broadcast-as-Infomercial Model**
+### The Broadcast-as-Infomercial Model
 
 Genesis Communications Network syndicated Jones's radio show for two decades under a **barter arrangement**: Jones received no syndication fees or advertising revenue share. Instead, GCN paid Jones in advertising time slots on his own show, which Jones used exclusively to promote InfoWars supplements. This structural arrangement meant Jones's entire broadcast infrastructure was functionally designed as a supplement sales funnel. GCN announced shutdown effective May 5, 2024, citing financial losses after Jones's deplatforming.
 
-**Secondary Revenue Streams**
+### Secondary Revenue Streams
 
 - **Display advertising**: ~$1 million annually from Revcontent network widgets on articles
 - **Fundraising "money bombs"**: Telethon-style direct donations, typically $100,000 per event
@@ -69,11 +69,11 @@ Genesis Communications Network syndicated Jones's radio show for two decades und
 
 InfoWars had **no documented institutional or dark money backers**. The operation was entirely consumer-funded through direct sales relationships. This structural feature — absence of external institutional funders — meant Jones had no major financial patrons to whom he was beholden, unlike donor-dependent media personalities.
 
-**Russian State Media Amplification**
+### Russian State Media Amplification
 
 From May 2014 to November 2017, InfoWars republished **over 1,000 articles from RT (Russia Today)** — a volume that dwarfed republication of CNN, BBC, or New York Times content. During the 2016 election, Russian bots actively promoted Trump via InfoWars. InfoWars republished Sputnik articles originating from Russian state sources without attribution. The FBI investigated this activity as part of Russian interference inquiries but brought no charges. The relationship appears to have been a convergence of interests (cost-free content for InfoWars; amplified reach for Russian narratives) rather than a formal funding or coordination arrangement.
 
-**Advertiser Relationships**
+### Advertiser Relationships
 
 - Prior to 2018, major brands inadvertently had ads placed on Jones-adjacent YouTube channels through automated systems; when publicized, all withdrew (Nike, Moen, Expedia, Acer, ClassPass, Alibaba, OneFamily)
 - Following The Onion's November 2024 auction win (subsequently rejected by the bankruptcy judge), the satirical outlet committed to a "multi-year advertising partnership" with a planned relaunch of InfoWars, with **Everytown for Gun Safety** as exclusive advertiser
@@ -84,7 +84,7 @@ From May 2014 to November 2017, InfoWars republished **over 1,000 articles from 
 
 InfoWars's editorial output served two simultaneous functions: **political agitation** and **supplement marketing**. Content was designed to create a psychological state (fear, urgency, existential threat) that directly motivated product purchases.
 
-**Major Narrative Clusters**
+### Major Narrative Clusters
 
 - **Government false flag operations**: 9/11, Sandy Hook (20 children, 6 educators killed), Boston Marathon, Las Vegas shooting — presented as staged events or conspiracies
 - **"New World Order" globalist conspiracy**: Framed as an existential threat requiring vigilance and preparedness products
@@ -93,11 +93,11 @@ InfoWars's editorial output served two simultaneous functions: **political agita
 - **Illegal voting claims**: Amplified immigration-related anxieties
 - **Pizzagate / child trafficking networks**: Attributed to Democratic figures, generating audience engagement and product sales spikes
 
-**Russia-Aligned Content**
+### Russia-Aligned Content
 
 InfoWars republished 1,000+ RT articles without identifying them as Russian state media. Whether commercially motivated (cost-free content) or politically aligned, the effect was amplifying Russian state narratives on U.S. audiences without attribution.
 
-**Political Messaging Pipeline**
+### Political Messaging Pipeline
 
 During the 2016 presidential campaign, Trump echoed Jones's claims "verbatim" days after Jones broadcast them, per former InfoWars staffer Rob Jacobson and PBS Frontline analysis. Jones himself claimed occasional phone contact with Trump, stating in one instance: "I said 'Sir, you need to investigate [illegal voting],' and he said, 'I know, I'm making a speech in two days.'" This represented documented coordination where InfoWars content flowed directly into presidential campaign messaging.
 
@@ -107,14 +107,14 @@ During the 2016 presidential campaign, Trump echoed Jones's claims "verbatim" da
 
 InfoWars audience capture operated through **fear monetization**: the platform's entire value proposition was that Jones possessed special knowledge of threats (government conspiracies, population control, false flag operations) that mainstream media suppressed. Audience trust was the product being sold — both to advertisers and directly to consumers buying supplements.
 
-**Documented Audience Metrics**
+### Documented Audience Metrics
 
 - Pre-2018: Approximately 1.4 million daily visits across infowars.com and social platforms
 - Post-deplatforming (2018): Dropped to ~715,000 daily visits (50% decline)
 - YouTube subscribers (pre-ban): Millions across various channels
 - Current reach (March 2026): SimilarWeb reports #17,642 globally, #103 in Government category; 77.85% of traffic from direct sources
 
-**The Content-Purchasing Loop**
+### The Content-Purchasing Loop
 
 Each content cycle created psychological dependency on new information. Jones presented himself as the sole reliable source of suppressed truth. The audience, convinced of imminent threats, purchased supplements as protective measures. Revenue spikes directly correlated with alarming content. This was not accidental — Jones stated explicitly that "accuracy" was not the goal, with staffer Joe Biggs admitting on record: "It's not about truth, it's not about accuracy — it's about what's going to make people click on this video."
 
@@ -124,21 +124,21 @@ Each content cycle created psychological dependency on new information. Jones pr
 
 Since InfoWars had no institutional backers, the question reframes to: **what did the audience (consumers) get, and what did political actors (Trump, Roger Stone) gain?**
 
-**For supplement consumers:**
+### For supplement consumers:
 - A framework that validated their anxieties about government, health, and social collapse
 - Products positioned as essential protective measures against these threats
 - A sense of insider knowledge and community membership
 
-**For the Trump campaign (2016):**
+### For the Trump campaign (2016):
 - Direct access to millions of engaged voters via Roger Stone's InfoWars platform
 - Content that echoed and amplified Trump's campaign messaging (immigration, government corruption, electoral fraud)
 - Plausible deniability — Trump could promote InfoWars narratives while claiming independence from them
 
-**For Roger Stone:**
+### For Roger Stone:
 - A megaphone for his own political operativism
 - Close proximity to Trump through the InfoWars relationship
 
-**For Russian state interests:**
+### For Russian state interests:
 - Amplification of Russian media content ($9.7 million in Tenet Media represented formal state funding, but InfoWars offered free distribution of RT narratives at scale)
 - Domestic American reach without attribution of origin
 

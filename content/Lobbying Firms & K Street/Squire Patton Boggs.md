@@ -154,7 +154,7 @@ Squire Patton Boggs maintains explicit bipartisan access — a legacy of the Pat
 
 ### Billing vs. Outcomes
 
-**Revenue trajectory:**
+### Revenue trajectory:
 - 2019: ~$30M (post-merger peak)
 - 2021–2022: ~$25–27M
 - 2023: $22.66M (54 lobbyists)

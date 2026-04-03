@@ -1,7 +1,7 @@
 ---
 title: "Americans for Prosperity"
 type: pac
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -26,7 +26,7 @@ AFP operates through multiple legally distinct entities:
 | CVA Action (DBA) | DBA of AFP Action | C00687103 | Veterans-focused electoral spending | Included in AFP Action total |
 | LIBRE Action (DBA) | DBA of AFP Action | C00687103 | Latino-focused electoral spending | Included in AFP Action total |
 
-**AFP Action FEC financial summary (2024 cycle):**
+### AFP Action FEC financial summary (2024 cycle):
 
 | Category | Amount |
 |----------|--------|

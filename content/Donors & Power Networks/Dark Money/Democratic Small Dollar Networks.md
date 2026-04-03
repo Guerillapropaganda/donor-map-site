@@ -1,7 +1,7 @@
 ---
 title: "Democratic Small Dollar Networks"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null

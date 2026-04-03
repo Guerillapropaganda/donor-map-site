@@ -29,21 +29,21 @@ His podcast *Club Random with Bill Maher* launched in 2022 as a casual interview
 
 ### The Funding Model
 
-**HBO / Warner Bros. Discovery — Primary revenue source**
+### HBO / Warner Bros. Discovery — Primary revenue source
 
 Maher earns approximately $10 million per year under his *Real Time* contract. His current deal extends through 2026. This income flows from Warner Bros. Discovery (WBD), the conglomerate formed by AT&T's WarnerMedia and Discovery Inc. merging in 2022. WBD is itself subject to ongoing merger talks with Paramount, which would create an even larger media consolidation. Maher has produced over 700 episodes under this arrangement — at $10M/year, cumulative HBO income over his career likely exceeds $200 million.
 
 HBO does not carry advertising. Maher's revenue therefore has no advertiser veto mechanism — but it does have a corporate parent veto mechanism. WBD sets the terms of his renewal.
 
-**Stand-up comedy — Secondary revenue stream**
+### Stand-up comedy — Secondary revenue stream
 
 Maher tours regularly across the United States and has released nine HBO stand-up specials, two Emmy-nominated. Stand-up income adds several million dollars per year.
 
-**Club Random podcast — Studio71 distribution (2024–2025)**
+### Club Random podcast — Studio71 distribution (2024–2025)
 
 After launching *Club Random* in 2022, Maher struck a distribution deal with Studio71 podcast network in July 2024. Club Random Studios — a broader network housing podcasts from Sage Steele, Billy Corgan, Shane Smith (Vice founder), and others — launched March 2024 and shut down May 2025, confirmed by Semafor reporting.
 
-**Investments — Significant wealth multiplier**
+### Investments — Significant wealth multiplier
 
 - *New York Mets minority stake (2012):* Maher purchased approximately 4% of the Mets for roughly $20M in 2012 when the Wilpon family needed capital after Bernie Madoff exposure threatened the franchise. When Steve Cohen (SAC Capital) purchased the Mets for $2.4B in 2020, Maher's stake tripled to approximately $60M.
 - *Real estate:* Beverly Hills property (purchased from Ben Affleck, 2003), Catalina Island condo ($1M, 2020).
@@ -71,19 +71,19 @@ FEC API returns 156 raw results for "Bill Maher" (OpenSecrets ID: D000071834, Bi
 
 ### Who Funds Them
 
-**Warner Bros. Discovery (AT&T spinoff)**
+### Warner Bros. Discovery (AT&T spinoff)
 
 WBD is Maher's primary funder. The company has significant telecommunications, defense-adjacent tech, and financial sector interests through its corporate relationships and board. Its corporate governance structures are available at wbd.com but its political influence extends well beyond formal PAC spending — it runs CNN and HBO simultaneously, giving it editorial leverage across the ideological spectrum.
 
-**Steve Cohen (SAC Capital / Mets connection)**
+### Steve Cohen (SAC Capital / Mets connection)
 
 Maher's Mets investment puts him in a joint ownership structure with Steve Cohen — the hedge fund billionaire and SAC Capital founder whose firm paid $1.8B to settle insider trading charges in 2013. The Mets connection creates a social and financial web linking Maher to finance-sector power. Cohen is a major Democratic donor.
 
-**Studio71 / Club Random network (2024–2025)**
+### Studio71 / Club Random network (2024–2025)
 
 Studio71 is a podcast network that distributed Club Random and helped Maher build a platform for "heterodox" voices. The network's parent structure connects to Red Arrow Studios (ProSiebenSat.1). The network amplified a specific editorial universe — Sage Steele (anti-ESPN establishment), Shane Smith (Vice media), Billy Corgan, Fred Durst — voices united by skepticism of "woke" frameworks rather than any coherent alternative.
 
-**Self-funded political giving (notable)**
+### Self-funded political giving (notable)
 
 - 2012: $1M to Priorities USA Action (Obama SuperPAC)
 - 2018: $1M to Democratic Senate PAC (flipping Senate blue)
@@ -97,19 +97,19 @@ Maher's Democratic donations establish his "liberal" credential while being dwar
 
 Maher's content serves the donor class through several durable mechanisms — not via explicit right-wing advocacy, but through *constraining the left* while performing opposition to the right.
 
-**Anti-"woke" centrism as a full-time content genre**
+### Anti-"woke" centrism as a full-time content genre
 
 Since approximately 2016, Maher's New Rules segments have increasingly targeted the left's cultural politics — transgender issues, campus speech debates, pronoun usage, "cancel culture" — while spending far less time analyzing structural inequality, donor-class influence, or corporate power. The effect: his liberal audience is trained to regard left cultural politics as a greater threat than billionaire political spending.
 
-**Islamophobia normalized for liberal audiences**
+### Islamophobia normalized for liberal audiences
 
 Maher's most consistent ideological project is his critique of Islam, framed as secularist liberalism. Jacobin's analysis identifies this as Islamophobia serving neoconservative objectives — making liberal audiences comfortable with the foreign policy premises of the donor class (pro-Israel positioning, Muslim-majority country interventionism). He is perhaps the most effective normalizer of neocon foreign policy among self-identified liberals.
 
-**"Both sides are bad" framing that depoliticizes structural causes**
+### "Both sides are bad" framing that depoliticizes structural causes
 
 Maher regularly performs disgust with "both parties" in ways that systematically understate the asymmetry of donor-class investment in the Republican Party and overstate liberal cultural excess as a political danger. This framing serves capital by making structural inequality appear as political stalemate rather than intentional policy.
 
-**"I haven't changed, the left has"**
+### "I haven't changed, the left has"
 
 Maher's signature defensive line — repeated across CNN, Hollywood Reporter, and his own show — positions his critics as having moved while he stayed still. This narrative inoculates corporate centrism from accountability: the problem is always the left's overreach, never donor-class capture of the political system.
 
@@ -119,11 +119,11 @@ Maher's signature defensive line — repeated across CNN, Hollywood Reporter, an
 
 Maher's audience capture runs through two interlocking mechanisms:
 
-**1. Corporate platform dependency**
+### 1. Corporate platform dependency
 
 *Real Time* exists at the pleasure of Warner Bros. Discovery. Maher is not independent — he is the longest-tenured employee of a media conglomerate that also runs CNN. His "I'll say what I really think" positioning is structurally false: he says what $10M/year in WBD employment permits. There is no documented instance of Maher pushing structural anti-corporate content that threatened WBD's business interests. The structural constraint doesn't require active censorship — it operates through the implicit understanding that the host who bites the hand feeding $10M/year does not keep the $10M/year.
 
-**2. The "reasonable liberal" brand feedback loop**
+### 2. The "reasonable liberal" brand feedback loop
 
 Maher's audience self-selects for people who want to feel liberal while being validated in their frustration with the left. Fox News regularly clips his attacks on progressive positions. AEI praises him. Right-wing media amplifies his "woke" critiques and ignores his pro-choice or Trump-critical segments. This creates a brand loop: the more Maher attacks the left, the more right-wing amplification he gets, the more he's framed as a "brave truth-teller," the more his brand is validated. The donor class benefits from this loop without funding him directly.
 
@@ -155,16 +155,16 @@ Maher's audience self-selects for people who want to feel liberal while being va
 
 ### What Their Funders Got
 
-**Warner Bros. Discovery / corporate media ecosystem:**
+### Warner Bros. Discovery / corporate media ecosystem:
 - A credentialed "liberal" voice that attacks the left's most mobilizing issues (trans rights, racial equity, campus speech) from inside the liberal tent — making those attacks far more effective than identical content from Fox News
 - 700+ episodes of content normalizing the premise that liberal cultural excess is a comparable threat to right-wing structural power
 - Sustained amplification of "both sides" framing that depoliticizes corporate donor influence
 
-**Democratic establishment (via PAC donations):**
+### Democratic establishment (via PAC donations):
 - Maintained brand relationship with a high-profile liberal entertainer who softens Democratic voters toward centrist positioning
 - Insulation from left-wing criticism — Maher's attacks on progressives from within the Democratic tent help marginalize the party's left wing
 
-**Neoconservative / pro-intervention foreign policy establishment:**
+### Neoconservative / pro-intervention foreign policy establishment:
 - Consistent liberal-facing normalization of Islamophobia and pro-Israel framing
 - A liberal audience that has been trained to regard anti-Muslim bias as secularism rather than foreign policy alignment
 

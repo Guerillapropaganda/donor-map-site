@@ -1,7 +1,7 @@
 ---
 title: "The BBB Kill and IRA Fossil Fuel Concessions"
 type: sub-note
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: [[_Joe Manchin Master Profile]]
@@ -60,7 +60,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 
 #### The Fossil Fuel Concessions — The Price of Manchin's Vote
 
-**1. Mandatory Oil and Gas Lease Sales (Offshore)**
+### 1. Mandatory Oil and Gas Lease Sales (Offshore)
 
 - IRA required federal government to hold **three offshore oil and gas lease sales** that Biden administration had attempted to cancel
 - **Reinstated a fourth sale** that federal court had invalidated
@@ -69,7 +69,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 
 **Source:** [Senate Energy Committee, September 22, 2023](https://www.energy.senate.gov/2023/9/manchin-because-of-the-ira-we-are-producing-record-levels-of-fossil-fuels) (Tier 1) (UNVERIFIED)
 
-**2. Mandatory Oil and Gas Lease Sales (Onshore)**
+### 2. Mandatory Oil and Gas Lease Sales (Onshore)
 
 - IRA prohibits federal wind and solar leases unless government first holds oil and gas lease sales on federal land
 - BLM must offer **minimum 2 million acres** (or all nominated areas, whichever is lesser) before granting wind/solar rights-of-way
@@ -77,7 +77,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 
 **Source:** [Harvard EELP analysis: IRA Onshore Leasing](https://eelp.law.harvard.edu/ira-onshore-leasing/) (Tier 2)
 
-**3. Mountain Valley Pipeline (MVP) Side Deal**
+### 3. Mountain Valley Pipeline (MVP) Side Deal
 
 - **303-mile natural gas pipeline** from West Virginia to Virginia
 - Manchin negotiated **separate side deal** with Schumer and Speaker Pelosi to hold votes on permitting reform legislation before fiscal year 2022 end
@@ -93,7 +93,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 
 **Source:** [American Prospect, September 21, 2022: Permitting Reform Is a Decoy for Ramping Up Gas](https://prospect.org/2022/09/21/permitting-reform-decoy-ramping-up-natural-gas-manchin/) (Tier 2); [E&E News, December 7, 2022: Manchin's Last Gasp Permitting Effort Fails](https://www.eenews.net/articles/manchins-last-gasp-permitting-effort-fails/) (Tier 2)
 
-**4. Expanded Carbon Capture (45Q) Tax Credit**
+### 4. Expanded Carbon Capture (45Q) Tax Credit
 
 - IRA expanded and extended **45Q tax credit** for carbon capture, utilization and storage (CCS)
 - Manchin specifically demanded this provision in July 2021 memo to Schumer
@@ -105,7 +105,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 
 **Source:** [Sludge: Manchin Delivered 'Game Changer' to His Top Donor](https://readsludge.com/2022/08/29/manchin-delivered-game-changer-to-his-top-donor/) (Tier 2)
 
-**5. Methane Emissions Fee (Weakened)**
+### 5. Methane Emissions Fee (Weakened)
 
 - Original BBB included $775 million methane fee rising to $1,500/metric ton by 2026
 - IRA version weakened: exempts small operations, phases in gradually
@@ -114,7 +114,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 
 **Source:** [E&E News, July 28, 2022: Manchin revives climate deal — what's in the $369B bill](https://www.eenews.net/articles/manchin-revives-climate-deal-whats-in-the-369b-bill/) (Tier 2)
 
-**6. Other Fossil Fuel Provisions**
+### 6. Other Fossil Fuel Provisions
 
 - **Royalty rate increases** for oil and gas on federal land (Manchin framed as "balanced" — accepted higher rates in exchange for guaranteed auctions)
 - **API watermark on draft:** American Petroleum Institute watermark reportedly found on leaked memo of Manchin's permitting reform draft — suggesting API effectively wrote provisions of the legislation
@@ -222,7 +222,7 @@ All six of these PACs donated exactly $5,000 (legal maximum) in the same quarter
 
 Manchin became a member of the Senate Energy and Natural Resources Committee when he entered the Senate in **November 2010**. After Democrats took the Senate majority in 2020, he became **chairman** — a position that gave him extraordinary power over energy legislation, oversight, nominations, and hearings.
 
-**Committee jurisdiction includes:**
+### Committee jurisdiction includes:
 - Federal oil, gas, and coal leasing on public lands
 - Nuclear energy and waste policy
 - Energy efficiency and renewable energy programs
@@ -232,14 +232,14 @@ Manchin became a member of the Senate Energy and Natural Resources Committee whe
 
 **Structural amplification:** As both (a) the **50th Democratic vote** in a 50-50 Senate (maximum legislative leverage) AND (b) the **chairman of the Senate's primary energy jurisdiction committee** (maximum regulatory leverage), Manchin had uniquely elevated positions from which fossil fuel donations could purchase maximum influence.
 
-**OpenSecrets designated Manchin #1 Senate recipient (2021–2022) from:**
+### OpenSecrets designated Manchin #1 Senate recipient (2021–2022) from:
 - Oil & Gas industry
 - Natural Gas Transmission & Distribution industry
 - Coal Mining industry
 - Tobacco industry
 - Mining industry
 
-**Key power moves:**
+### Key power moves:
 - **October 2021:** Used committee leverage to demand "sole jurisdiction" over any clean energy standard, which effectively gave him veto power over BBB's centerpiece climate provision (CEPP)
 - **March 2022:** Blocked Interior Department nominee **Laura Daniel-Davis** (assistant secretary for lands and mineral management) using committee chairmanship to freeze her vote until Biden clarified federal oil & gas leasing plans
 - **March 2022:** Only Democrat to join Republicans in voting to overturn EPA heavy-duty truck emissions regulation

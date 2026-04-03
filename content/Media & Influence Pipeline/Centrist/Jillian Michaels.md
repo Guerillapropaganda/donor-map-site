@@ -41,13 +41,13 @@ Michaels' revenue structure reveals the transition from entertainment celebrity 
 
 ### Who Funds Them
 
-**Direct funders:**
+### Direct funders:
 - [[Valuetainment Media]] (primary, 2025-present): fixed compensation + production infrastructure + distribution network
 - [[Patrick Bet-David]] (indirect): Valuetainment founder/CEO who created "Her Take" specifically as counter-programming to The View; Michaels is employee/talent
 - [[Fitness sponsorships/endorsements]]: supplement companies, fitness equipment brands (tied to her existing brand, not Valuetainment-specific)
 - [[Audience/Patreon]]: minimal direct audience funding compared to independent creators
 
-**Indirect funders (corporate infrastructure):**
+### Indirect funders (corporate infrastructure):
 - [[Valuetainment Investments Group]]: Patrick Bet-David's venture capital firm; provides institutional backing for media company
 - [[PHP Agency]]: Bet-David's insurance/financial services company; partially funds Valuetainment media operations through equity structure
 
@@ -125,13 +125,13 @@ Michaels' fitness celebrity status pre-programs audiences toward accepting her p
 
 **Platform Funder:** Valuetainment Media (exclusive, 2025-present)
 
-**Income Dependency Breakdown:**
+### Income Dependency Breakdown:
 - Valuetainment salary/production: Est. 50-60% of political media revenue
 - Fitness sponsorships/endorsements: Est. 30-40% (enabled by Valuetainment visibility)
 - Speaking fees/appearances: Est. 5-10% (minimal)
 - Direct audience monetization: Est. 0-5% (minimal)
 
-**Editorial Red Lines:**
+### Editorial Red Lines:
 - Cannot criticize Patrick Bet-David or Valuetainment (loss of 50%+ revenue)
 - Cannot take structural left-wing positions (violates Valuetainment mission)
 - Cannot refuse right-adjacent celebrity guests or talking points (format depends on controversy)

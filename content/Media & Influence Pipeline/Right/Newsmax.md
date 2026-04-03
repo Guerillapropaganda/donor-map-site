@@ -1,7 +1,7 @@
 ---
 title: "Newsmax"
 type: media-profile
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -27,7 +27,7 @@ What distinguishes Newsmax from other conservative media is the explicit structu
 
 #### Capital Structure (IPO & Private Placements)
 
-**Newsmax went public March 31, 2025 under dual-class structure:**
+### Newsmax went public March 31, 2025 under dual-class structure:
 - IPO proceeds: $75 million through 7.5 million Class B shares at $10/share (the regulatory maximum for Regulation A+ offerings)
 - Private preferred stock placement (February 2025): $225 million in Series B 7% Convertible Preferred Stock at a 25% discount to IPO price (oversubscribed by $75 million)
 - Total capital raised (2024-2025): Approximately $300 million
@@ -63,7 +63,7 @@ What distinguishes Newsmax from other conservative media is the explicit structu
 
 ### FEC Record
 
-**Status: Pending API query**
+### Status: Pending API query
 
 Christopher Ruddy's personal FEC contributions should be queried against the FEC API to establish his actual campaign giving patterns relative to his on-air Trump advocacy. However, based on available reporting:
 
@@ -296,17 +296,17 @@ Patterns present: **Donor-Class Override** (Qatar editorial suppression override
 
 ### Sources
 
-**Government/Regulatory Filings (Tier 1):**
+### Government/Regulatory Filings (Tier 1):
 - [Newsmax SEC 2025 Annual Report (EDGAR CIK 0002026478)](https://www.stocktitan.net/sec-filings/NMAX/ars-newsmax-inc-sec-filing-2f6d1c397320.html) (Tier 1)
 - [Newsmax SEC Form 1-A Offering Statement (Regulation A+ IPO)](https://www.sec.gov/Archives/edgar/data/2026478/000121390025011388/ea022889101-1a_newsmax.htm) (Tier 1)
 - [Newsmax Investor Relations: IPO Closing Announcement](https://ir.newsmax.com/news/news-details/2025/Newsmax-Announces-Closing-of-75-Million-Initial-Public-Offering/default.aspx) (Tier 1)
 
-**Investigative Journalism — Foreign Investment & Editorial Suppression (Tier 2):**
+### Investigative Journalism — Foreign Investment & Editorial Suppression (Tier 2):
 - [ICIJ: "Qatari royal invested about $50 million in pro-Trump network Newsmax"](https://www.icij.org/inside-icij/2024/03/qatari-royal-invested-about-50-million-in-pro-trump-network-newsmax/) (Tier 2)
 - [Washington Post / Stars and Stripes: Qatar Investment Investigation](https://www.stripes.com/theaters/middle_east/2024-03-26/qatari-royal-invested-newsmax-13433363.html) (Tier 2)
 - [Mediaite: "Newsmax Leaders Urged Staff to 'Soften' Coverage of Qatar"](https://www.mediaite.com/media/news/newsmax-leaders-urged-staff-to-soften-coverage-of-qatar-after-gulf-royal-invested-50-million-in-network-report/) (Tier 2)
 
-**Defamation Settlements & Court Documents (Tier 1-2):**
+### Defamation Settlements & Court Documents (Tier 1-2):
 - [Reuters: "Newsmax agreed to pay $40 million to Smartmatic"](https://www.reuters.com/business/media-telecom/newsmax-agreed-pay-40-million-settle-defamation-suit-over-2020-false-election-2025-03-13/) (Tier 2)
 - [Politico: "Newsmax reaches $67M settlement with Dominion"](https://www.politico.com/news/2025/08/18/newsmax-dominion-voting-defamation-settlement-00513458) (Tier 2)
 - [PBS NewsHour: "Newsmax to pay $67M in defamation case over false 2020 election claims"](https://www.pbs.org/newshour/politics/newsmax-to-pay-67m-in-defamation-case-over-false-2020-election-claims) (Tier 2)
@@ -314,38 +314,38 @@ Patterns present: **Donor-Class Override** (Qatar editorial suppression override
 - [Mother Jones: "Newsmax Issues Retraction and Apology"](https://www.motherjones.com/politics/2021/05/newsmax-apology-retraction-for-2020-election-coverage-trump-dominion-lawsuit/) (Tier 2)
 - [CNN: "Newsmax anchor storms off set"](https://www.cnn.com/2021/02/03/media/newsmax-mypillow-mike-lindell-voter-claims) (Tier 2)
 
-**Ruddy-Trump Relationship & Political Influence (Tier 2):**
+### Ruddy-Trump Relationship & Political Influence (Tier 2):
 - [The Atlantic: "Newsmax's Chris Ruddy Is the Media's Favorite Friend-of-Trump"](https://www.theatlantic.com/politics/archive/2017/03/how-chris-ruddy-became-the-medias-favorite-friend-of-trump/519168/) (Tier 2)
 - [New York Times: "The King of Trump TV Thinks You're Dumb Enough to Buy It"](https://www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.html) (Tier 2)
 - [Forbes: "Conservative News Outlet Newsmax Mints New Billionaire"](https://www.forbes.com/sites/giacomotognini/2025/03/31/newsmax-founder-chris-ruddy-is-a-billionaire-thanks-to-stock-surge/) (Tier 2)
 - [Politico: "A conservative media war erupts with both sides hoping Trump is in their corner"](https://www.politico.com/news/2025/11/28/a-conservative-media-war-erupts-with-both-sides-hoping-trump-is-in-their-corner-00669920) (Tier 2)
 
-**Cable Carriage Disputes & Political Leverage (Tier 2):**
+### Cable Carriage Disputes & Political Leverage (Tier 2):
 - [Adweek: "Newsmax and DirecTV Come to Terms on New Carriage Deal"](https://www.adweek.com/tvnewser/newsmax-and-directv-come-to-terms-on-new-carriage-deal/) (Tier 2)
 - [TheWrap: "DirecTV Drops Newsmax Over Carriage Fee Dispute"](https://www.thewrap.com/directv-newsmax-carriage-fee-dispute/) (Tier 2)
 - [Vanity Fair: "How Newsmax's Cable-Fee Fight Spiraled"](https://www.vanityfair.com/news/2023/02/newsmax-directv-cable-republicans) (Tier 2)
 - [StreamTV Insider: "DirecTV and Newsmax reach multi-year carriage deal"](https://www.streamtvinsider.com/video/directv-and-newsmax-reach-multi-year-carriage-deal-ending-heated-dispute) (Tier 2)
 
-**Investor Profiles (Tier 2-3):**
+### Investor Profiles (Tier 2-3):
 - [Wendy Siegelman Substack: "A look at businessman Vadim Shulman"](https://wendysiegelman.substack.com/p/a-look-at-newsmax-investor-vadim-shulman) (Tier 2)
 - [Wikipedia: Thomas Peterffy](https://en.wikipedia.org/wiki/Thomas_Peterffy) (Tier 3)
 - [Wikipedia: Christopher Ruddy](https://en.wikipedia.org/wiki/Christopher_Ruddy) (Tier 3)
 - [SourceWatch: "Richard Mellon Scaife"](https://www.sourcewatch.org/index.php/Richard_Mellon_Scaife) (Tier 3)
 
-**Editorial Suppression & Content Deletion (Tier 2):**
+### Editorial Suppression & Content Deletion (Tier 2):
 - [Semafor: "Newsmax deletes interview criticizing FCC"](https://www.semafor.com/article/03/12/2025/newsmax-deletes-interview-criticizing-fcc) (Tier 2)
 - [The Independent: "Newsmax star defends Alex Acosta's sweetheart plea deal"](https://www.independent.co.uk/news/world/americas/us-politics/newsmax-epstein-alex-acosta-board-b2794143.html) (Tier 2)
 
-**White House Access & Press Pool Privileges (Tier 2):**
+### White House Access & Press Pool Privileges (Tier 2):
 - [Bloomberg: "White House Limits Newswires In Press Pool Takeover"](https://www.bloomberg.com/news/articles/2025-02-26/white-house-limits-newswires-in-press-pool-takeover) (Tier 2)
 - [Axios: "News outlets broadly reject Pentagon's new press rules"](https://www.axios.com/2025/10/14/pentagon-press-restrictions-trump-journalists-news-outlets) (Tier 2)
 
-**Meme Stock Bubble & Market Dysfunction (Tier 2):**
+### Meme Stock Bubble & Market Dysfunction (Tier 2):
 - [Bloomberg: "Newsmax More Valuable Than Fox News Owner"](https://www.bloomberg.com/news/articles/2025-04-01/newsmax-becomes-a-meme-stock-with-1-160-post-ipo-surge) (Tier 2)
 - [Business Insider: "Why Newsmax Stock Is Going up so Much"](https://www.businessinsider.com/newsmax-stock-price-soars-latest-meme-nmax-post-ipo-boom-2025-4) (Tier 2)
 - [Money Control: "Newsmax soars in meme-stock frenzy"](https://www.moneycontrol.com/world/newsmax-soars-in-meme-stock-frenzy-making-founder-christopher-ruddy-a-multibillionaire-article-12982638.html) (Tier 2)
 
-**Regulatory Controversy (Tier 2):**
+### Regulatory Controversy (Tier 2):
 - [Yahoo Finance: "A First Amendment Lawsuit Challenges FTC Chairman"](https://www.yahoo.com/news/articles/first-amendment-lawsuit-challenges-ftc-210002735.html) (Tier 2)
 - [Newsweek: "Newsmax refuses to sign Trump Admin's new pentagon press policy"](https://www.newsweek.com/newsmax-trump-pete-hegseth-pentagon-press-access-10873785) (Tier 2)
 

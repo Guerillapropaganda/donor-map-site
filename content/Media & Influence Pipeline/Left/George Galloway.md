@@ -88,18 +88,18 @@ Galloway's consistent positions across all platforms and political periods:
 
 ### What Their Funders Got
 
-**What Russia got from nine years of RT/Sputnik:**
+### What Russia got from nine years of RT/Sputnik:
 - A former British MP with parliamentary credibility delivering anti-NATO, anti-Ukraine, anti-Western-hegemony content to English-speaking audiences
 - Legitimacy shield: RT could present itself as a genuine broadcaster of independent left opinion, not merely Kremlin propaganda
 - Anti-establishment disruption: Galloway's genuine critique of British foreign policy served Russian information warfare objectives during the peak interference period (2014–2022)
 - When RT UK was shut down, Galloway blamed British media regulators rather than Russia — a final act of narrative service
 
-**What Iran got from Press TV:**
+### What Iran got from Press TV:
 - A British politician framing the Islamic Republic's foreign policy positions as legitimate resistance to Western imperialism
 - Cover for Iran's media infrastructure in the UK: hosting Galloway gave Press TV a Western-facing legitimacy shield until Ofcom revoked its licence
 - Galloway's pro-Palestine, anti-Israel analysis reinforced Iran's strategic messaging to Western Muslim communities
 
-**What Workers Party supporters got:**
+### What Workers Party supporters got:
 - A British-Muslim-community-adjacent political vehicle that expressed Palestine solidarity at a moment when Labour under Starmer would not
 - A Rochdale by-election win that functioned as a public referendum on Gaza — the first electoral consequence for Labour's position on the conflict
 
@@ -129,7 +129,7 @@ Galloway's consistent positions across all platforms and political periods:
 
 ### Class Analysis
 
-**Who benefits from Galloway's platform existing:**
+### Who benefits from Galloway's platform existing:
 
 1. **Russian and Iranian state information infrastructure (2006–2022):** Galloway's genuine parliamentary credibility and working-class political analysis gave RT and Press TV a legitimacy shield unavailable through any other means. His anti-war content was analytically real — and precisely that authenticity made it valuable as propaganda infrastructure.
 
@@ -149,7 +149,7 @@ Galloway's consistent positions across all platforms and political periods:
 
 **Income dependency:** Foreign state broadcaster salaries → commercial radio (brief) → platform algorithms + audience crowdfunding. Post-RT reach is significantly reduced from peak.
 
-**Editorial red lines (Press TV/RT phases):**
+### Editorial red lines (Press TV/RT phases):
 - Cannot criticize Iranian foreign policy (Hezbollah, Hamas, axis of resistance) with the analytical lens applied to Western powers
 - Cannot criticize Russian foreign policy, Kremlin, or military actions with the same framework applied to NATO
 - Cannot challenge the framing that Western corporate media is uniquely corrupt while RT/Press TV are "independent"

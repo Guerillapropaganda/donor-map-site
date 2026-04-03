@@ -33,23 +33,23 @@ Third Way also operates through two affiliated entities: the Third Way Institute
 
 As a 501(c)(4), Third Way is not required to publicly disclose its donors — the same dark money structure that Democrats frequently criticize when used by conservative organizations. What is known comes from investigative reporting, leaked documents, and traceable grants.
 
-**Wall Street / Finance:**
+### Wall Street / Finance:
 - [[Goldman Sachs]]: $850,000 via Goldman Sachs Gives (2010-2011)
 - Board trustees from: Warburg Pincus, Citadel Securities, BankAmerica, JPMorgan Chase, and numerous private equity and hedge fund firms
 - Peck Madigan Jones (fundraising lobbyist paid by Third Way) lobbies for MasterCard, Deutsche Bank, and the International Swaps and Derivatives Association
 
-**Pharmaceutical / Healthcare:**
+### Pharmaceutical / Healthcare:
 - [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]]: funding documented by The Intercept (2019), used to oppose Medicare for All
 - Amgen, CVS Health, Baxter International: corporate donors documented by CMD/PR Watch
 
-**Energy / Utilities:**
+### Energy / Utilities:
 - Entergy, Pacific Gas & Electric, Public Service Enterprise Group: documented corporate donors — all entities that would be threatened by the Green New Deal
 
-**Dark Money / Pass-Through:**
+### Dark Money / Pass-Through:
 - Arabella Advisors network: North Fund ($10,000) and Sixteen Thirty Fund ($221,135) in 2023
 - Business Roundtable: $25,000 (2023)
 
-**Revenue Trajectory (501(c)(4) entity only):**
+### Revenue Trajectory (501(c)(4) entity only):
 | Fiscal Year | Revenue | Expenses | Net Assets |
 |-------------|---------|----------|------------|
 | 2024 | $31.7M | $24.5M | $58.7M |
@@ -72,7 +72,7 @@ Third Way's output is distinctive: it produces very little original policy resea
 
 **2. "Electability" Framing:** Third Way produces polling and electoral analysis arguing that progressive candidates lose elections. Their recurring "Winning the Middle" conferences convene moderate Democratic officials, pundits, and donors specifically to block progressive nominees in 2028.
 
-**The 2025 "Comeback Retreat" — Post-Election Realignment Operation:**
+### The 2025 "Comeback Retreat" — Post-Election Realignment Operation:
 Within weeks of Trump's January 2025 inauguration, Third Way organized the "Comeback Retreat," a conference that rapidly became the most visible post-election push to move the Democratic Party rightward. The event produced a summary document describing how Democrats can reconnect with working-class voters — but its substance, as documented by multiple left outlets, was almost entirely defined in opposition to the progressive wing of the party, not in opposition to Trump. Executive VP Jim Kessler's address ("The Indispensable Middle") derided progressive activists as "a village of elitists who are out of touch with regular people." The March 2026 Charleston "Winning the Middle" event continued this operation. Critics across the political spectrum — CounterPunch, Daily Kos, Common Dreams — characterized the retreat as "pushing Democrats towards Trumpism" by preemptively conceding the working-class political terrain rather than offering a program to win it back.
 
 > [!contradiction]
@@ -111,31 +111,31 @@ Third Way's pipeline is negative rather than constructive: it doesn't create pol
 
 Third Way's revolving door runs through Clinton and Obama/Biden era Democratic politics:
 
-**Jonathan Cowan (President):**
+### Jonathan Cowan (President):
 - Chief of Staff, HUD under Secretary Andrew Cuomo (Clinton admin)
 - Founded Third Way (2005)
 - *Clinton HUD → permanent think tank president*
 
-**Nancy Hale (Co-Founder, SVP until 2018):**
+### Nancy Hale (Co-Founder, SVP until 2018):
 - Clinton administration official
 - Co-founded Third Way (2005)
 - *Departed 2018 with $516K severance year*
 
-**Mieke Eoyang (VP, National Security):**
+### Mieke Eoyang (VP, National Security):
 - Chief of Staff to Rep. Anna Eshoo (D-CA)
 - Staff Director, House Intelligence Committee
 - Third Way VP for National Security (2014-2021, $190K)
 - Deputy Assistant Secretary of Defense for Cyber Policy, Biden DOD (2021-2025)
 - *Congressional staff → think tank → Pentagon — carrying Third Way's defense policy positions into government*
 
-**William Daley (Trustee):**
+### William Daley (Trustee):
 - Secretary of Commerce (Clinton admin)
 - White House Chief of Staff (Obama admin, 2011-2012)
 - JPMorgan Chase Midwest Chairman
 - Third Way trustee
 - *Cabinet → Wall Street → think tank board — the classic trilateral revolving door*
 
-**Thurgood Marshall Jr. (Trustee):**
+### Thurgood Marshall Jr. (Trustee):
 - Cabinet Secretary and Assistant to President Clinton
 - Third Way trustee
 - *White House staff → think tank board*
@@ -149,7 +149,7 @@ Third Way's revolving door runs through Clinton and Obama/Biden era Democratic p
 
 Third Way's Wall Street funders receive a specific, measurable return: the systematic neutralization of progressive economic proposals within the Democratic Party.
 
-**Specific Returns:**
+### Specific Returns:
 
 1. **Medicare for All Blocked:** PhRMA and healthcare donors funded Third Way's opposition to single-payer healthcare. Medicare for All never received a floor vote despite majority Democratic support in polls. Third Way provided "center-left" cover for Democrats to oppose it without appearing to side with the insurance industry.
 
