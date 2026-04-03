@@ -243,7 +243,7 @@ ProfileWidget.css = `
   padding: 10px 4px;
   border: none;
   background: none;
-  color: #63636e;
+  color: #8a8a96;
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   font-weight: 700;
@@ -360,8 +360,8 @@ a.pw-flow-row:hover {
 
 .pw-reach-label {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
-  color: #6a6a76;
+  font-size: 10px;
+  color: #7a7a86;
   letter-spacing: 0.5px;
 }
 

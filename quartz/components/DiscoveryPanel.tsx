@@ -252,7 +252,7 @@ DiscoveryPanel.css = `
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #63636e;
+  color: #8a8a96;
   margin-bottom: 10px;
 }
 
@@ -303,8 +303,8 @@ DiscoveryPanel.css = `
 
 .dp-also-text {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
-  color: #4a4a54;
+  font-size: 10px;
+  color: #7a7a86;
   letter-spacing: 1px;
   margin: 4px 0;
 }
@@ -340,7 +340,7 @@ DiscoveryPanel.css = `
 
 .dp-fact-label {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
   color: #f59e0b;

@@ -186,7 +186,7 @@ EventTimeline.css = `
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #63636e;
+  color: #8a8a96;
 }
 
 .et-count {
@@ -272,8 +272,8 @@ a.et-link:hover {
 
 .et-source {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
-  color: #4a4a54;
+  font-size: 10px;
+  color: #7a7a86;
   letter-spacing: 0.5px;
 }
 
@@ -286,7 +286,7 @@ a.et-link:hover {
 
 .et-also-name {
   font-size: 9px;
-  color: #63636e;
+  color: #8a8a96;
   background: rgba(99, 99, 110, 0.1);
   padding: 1px 6px;
   border-radius: 3px;
@@ -295,7 +295,7 @@ a.et-link:hover {
 .et-more {
   font-family: 'Space Mono', monospace;
   font-size: 9px;
-  color: #4a4a54;
+  color: #7a7a86;
   text-align: center;
   padding: 8px 0 2px;
   letter-spacing: 0.5px;

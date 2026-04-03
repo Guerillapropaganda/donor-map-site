@@ -23,6 +23,20 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 - Shows co-mentioned profiles as chips
 - First run: 252 items fetched, 106 matched, 60 drafts written, 9 update suggestions, 4 new names detected
 
+### Phase 7 — Open Graph Social Cards
+- Custom OG image template with Donor Map$ branding (green $)
+- Profile type badges: POLITICIAN (blue/red by party), DONOR (green), INVESTIGATION (amber)
+- Shows context line (party, chamber, state, sector) on card
+- Footer shows donor/politician stats + thedonormap.org URL
+- Dark theme matching site design (#0c0c0f background)
+- Left accent bar colored by profile type
+- Every shared link now shows branded preview on Twitter/Facebook/Discord
+
+### Site-Wide Readability Fix
+- Boosted all dark grey text: `#4a4a54` → `#7a7a86`, `#63636e` → `#8a8a96` across 5 components
+- Bumped minimum font sizes from 7-8px to 10px across DiscoveryPanel, EventTimeline, ProfileWidget
+- Components fixed: ProfileWidget, DiscoveryPanel, EventTimeline, EvidencePanel, RelatedProfiles
+
 ### Interactive Tools Removed from Profile Pages
 - Removed `injectProfileTools()` — the 6-tab interactive tools block (Money Flow, ROI, Both Sides, etc.) no longer appears at the bottom of master profile pages
 - Added slug guard to InteractiveGraphs afterDOMLoaded so interactive rendering only runs on `/interactive/*` pages

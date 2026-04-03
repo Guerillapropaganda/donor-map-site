@@ -90,13 +90,13 @@ RelatedProfiles.css = `
   font-size: 11px !important;
   letter-spacing: 2px !important;
   text-transform: uppercase !important;
-  color: #63636e !important;
+  color: #8a8a96 !important;
   margin-bottom: 4px;
 }
 
 .rp-subtitle {
   font-size: 10px;
-  color: #4a4a54;
+  color: #7a7a86;
   margin-bottom: 12px;
 }
 
@@ -133,7 +133,7 @@ RelatedProfiles.css = `
 
 .rp-badge {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
+  font-size: 9px;
   font-weight: 700;
   letter-spacing: 1px;
   padding: 2px 5px;
@@ -173,7 +173,7 @@ RelatedProfiles.css = `
 .rp-shared {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #4a4a54;
+  color: #7a7a86;
   flex-shrink: 0;
 }
 `

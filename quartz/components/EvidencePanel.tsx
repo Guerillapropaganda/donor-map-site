@@ -182,13 +182,13 @@ EvidencePanel.css = `
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 1.5px;
-  color: #63636e;
+  color: #8a8a96;
 }
 
 .ep-updated {
   font-size: 9px;
   letter-spacing: 1px;
-  color: #4a4a54;
+  color: #7a7a86;
 }
 
 .ep-row-bottom {
@@ -236,7 +236,7 @@ EvidencePanel.css = `
 .ep-context {
   font-size: 9px;
   letter-spacing: 1px;
-  color: #63636e;
+  color: #8a8a96;
 }
 
 /* Mobile */

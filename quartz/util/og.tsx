@@ -170,7 +170,10 @@ export type ImageOptions = {
   fileData: QuartzPluginData
 }
 
-// This is the default template for generated social image.
+// ═══════════════════════════════════════════════
+// THE DONOR MAP — Custom OG Image Template
+// Branded social cards for political intelligence
+// ═══════════════════════════════════════════════
 export const defaultImage: SocialImageOptions["imageStructure"] = ({
   cfg,
   userOpts,
@@ -180,23 +183,56 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
   iconBase64,
 }) => {
   const { colorScheme } = userOpts
-  const fontBreakPoint = 32
-  const useSmallerFont = title.length > fontBreakPoint
-
-  // Format date if available
-  const rawDate = getDate(cfg, fileData)
-  const date = rawDate ? formatDate(rawDate, cfg.locale) : null
-
-  // Calculate reading time
-  const { minutes } = readingTime(fileData.text ?? "")
-  const readingTimeText = i18n(cfg.locale).components.contentMeta.readingTime({
-    minutes: Math.ceil(minutes),
-  })
-
-  // Get tags if available
-  const tags = fileData.frontmatter?.tags ?? []
   const bodyFont = getFontSpecificationName(cfg.theme.typography.body)
   const headerFont = getFontSpecificationName(cfg.theme.typography.header)
+
+  // Clean title
+  const cleanTitle = title
+    .replace(/^_/, "")
+    .replace(/\s*Master Profile.*/, "")
+    .replace(/ - Follow the Money$/, "")
+    .trim()
+
+  const fontBreakPoint = 28
+  const useSmallerFont = cleanTitle.length > fontBreakPoint
+
+  // Profile metadata from frontmatter
+  const fm = fileData.frontmatter ?? {}
+  const type = String(fm.type ?? "").toLowerCase()
+  const party = String(fm.party ?? "")
+  const chamber = String(fm.chamber ?? "")
+  const sector = String(fm.sector ?? "")
+  const state = String(fm.state ?? "")
+
+  // Determine badge
+  let badge = ""
+  let badgeColor = "#5b8dce"
+  if (type === "politician") {
+    badge = "POLITICIAN"
+    badgeColor = party === "Democrat" ? "#3b82f6" : party === "Republican" ? "#ef4444" : "#5b8dce"
+  } else if (type === "donor" || type === "corporation") {
+    badge = "DONOR"
+    badgeColor = "#22c55e"
+  } else if (type === "story" || type === "investigation") {
+    badge = "INVESTIGATION"
+    badgeColor = "#f59e0b"
+  } else if (type === "lobbyist") {
+    badge = "LOBBYIST"
+    badgeColor = "#a855f7"
+  }
+
+  // Context line
+  const contextParts: string[] = []
+  if (party) contextParts.push(party)
+  if (chamber && chamber !== "undefined") contextParts.push(chamber)
+  if (state && state !== "undefined") contextParts.push(state)
+  if (sector && sector !== "undefined") contextParts.push(sector)
+  const contextLine = contextParts.join(" · ")
+
+  // Top donors or politicians funded for stats
+  const topDonors = Array.isArray(fm["top-donors"]) ? fm["top-donors"] as string[] : []
+  const polsFunded = Array.isArray(fm["politicians-funded"]) ? fm["politicians-funded"] as string[] : []
+  const statValue = topDonors.length > 0 ? `${topDonors.length} donors tracked` : polsFunded.length > 0 ? `Funds ${polsFunded.length} politicians` : ""
 
   return (
     <div
@@ -205,172 +241,183 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
         flexDirection: "column",
         height: "100%",
         width: "100%",
-        backgroundColor: cfg.theme.colors[colorScheme].light,
-        padding: "2.5rem",
+        backgroundColor: "#0c0c0f",
+        padding: "0",
         fontFamily: bodyFont,
+        position: "relative",
+        overflow: "hidden",
       }}
     >
-      {/* Header Section */}
+      {/* Left accent bar */}
       <div
         style={{
           display: "flex",
-          alignItems: "center",
-          gap: "1rem",
-          marginBottom: "0.5rem",
+          position: "absolute",
+          left: 0,
+          top: 0,
+          bottom: 0,
+          width: "6px",
+          backgroundColor: badgeColor,
         }}
-      >
-        {iconBase64 && (
-          <img
-            src={iconBase64}
-            width={56}
-            height={56}
-            style={{
-              borderRadius: "50%",
-            }}
-          />
-        )}
-        <div
-          style={{
-            display: "flex",
-            fontSize: 32,
-            color: cfg.theme.colors[colorScheme].gray,
-            fontFamily: bodyFont,
-          }}
-        >
-          {cfg.baseUrl}
-        </div>
-      </div>
+      />
 
-      {/* Title Section */}
+      {/* Content area */}
       <div
         style={{
           display: "flex",
-          marginTop: "1rem",
-          marginBottom: "1.5rem",
+          flexDirection: "column",
+          height: "100%",
+          padding: "2.5rem 3rem 2.5rem 3.5rem",
         }}
       >
-        <h1
-          style={{
-            margin: 0,
-            fontSize: useSmallerFont ? 64 : 72,
-            fontFamily: headerFont,
-            fontWeight: 700,
-            color: cfg.theme.colors[colorScheme].dark,
-            lineHeight: 1.2,
-            display: "-webkit-box",
-            WebkitBoxOrient: "vertical",
-            WebkitLineClamp: 2,
-            overflow: "hidden",
-            textOverflow: "ellipsis",
-          }}
-        >
-          {title}
-        </h1>
-      </div>
-
-      {/* Description Section */}
-      <div
-        style={{
-          display: "flex",
-          flex: 1,
-          fontSize: 36,
-          color: cfg.theme.colors[colorScheme].darkgray,
-          lineHeight: 1.4,
-        }}
-      >
-        <p
-          style={{
-            margin: 0,
-            display: "-webkit-box",
-            WebkitBoxOrient: "vertical",
-            WebkitLineClamp: 5,
-            overflow: "hidden",
-            textOverflow: "ellipsis",
-          }}
-        >
-          {description}
-        </p>
-      </div>
-
-      {/* Footer with Metadata */}
-      <div
-        style={{
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "space-between",
-          marginTop: "2rem",
-          paddingTop: "2rem",
-          borderTop: `1px solid ${cfg.theme.colors[colorScheme].lightgray}`,
-        }}
-      >
-        {/* Left side - Date and Reading Time */}
+        {/* Top row: brand + badge */}
         <div
           style={{
             display: "flex",
             alignItems: "center",
-            gap: "2rem",
-            color: cfg.theme.colors[colorScheme].gray,
-            fontSize: 28,
+            justifyContent: "space-between",
+            marginBottom: "1.5rem",
           }}
         >
-          {date && (
-            <div style={{ display: "flex", alignItems: "center" }}>
-              <svg
-                style={{ marginRight: "0.5rem" }}
-                width="28"
-                height="28"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-              >
-                <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
-                <line x1="16" y1="2" x2="16" y2="6"></line>
-                <line x1="8" y1="2" x2="8" y2="6"></line>
-                <line x1="3" y1="10" x2="21" y2="10"></line>
-              </svg>
-              {date}
-            </div>
-          )}
-          <div style={{ display: "flex", alignItems: "center" }}>
-            <svg
-              style={{ marginRight: "0.5rem" }}
-              width="28"
-              height="28"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-            >
-              <circle cx="12" cy="12" r="10"></circle>
-              <polyline points="12 6 12 12 16 14"></polyline>
-            </svg>
-            {readingTimeText}
+          {/* Brand */}
+          <div
+            style={{
+              display: "flex",
+              alignItems: "baseline",
+              gap: "0",
+              fontSize: 28,
+              fontWeight: 700,
+              color: "#e4e4e7",
+              fontFamily: headerFont,
+              letterSpacing: "-0.5px",
+            }}
+          >
+            <span>The Donor Map</span>
+            <span style={{ color: "#22c55e" }}>$</span>
           </div>
-        </div>
 
-        {/* Right side - Tags */}
-        <div
-          style={{
-            display: "flex",
-            gap: "0.5rem",
-            flexWrap: "wrap",
-            justifyContent: "flex-end",
-            maxWidth: "60%",
-          }}
-        >
-          {tags.slice(0, 3).map((tag: string) => (
+          {/* Badge */}
+          {badge && (
             <div
               style={{
                 display: "flex",
-                padding: "0.5rem 1rem",
-                backgroundColor: cfg.theme.colors[colorScheme].highlight,
-                color: cfg.theme.colors[colorScheme].secondary,
-                borderRadius: "10px",
-                fontSize: 24,
+                padding: "0.4rem 1.2rem",
+                backgroundColor: `${badgeColor}22`,
+                border: `1px solid ${badgeColor}66`,
+                borderRadius: "6px",
+                fontSize: 18,
+                fontWeight: 700,
+                color: badgeColor,
+                letterSpacing: "2px",
               }}
             >
-              #{tag}
+              {badge}
             </div>
-          ))}
+          )}
+        </div>
+
+        {/* Title */}
+        <div
+          style={{
+            display: "flex",
+            marginBottom: "1rem",
+          }}
+        >
+          <h1
+            style={{
+              margin: 0,
+              fontSize: useSmallerFont ? 52 : 64,
+              fontFamily: headerFont,
+              fontWeight: 700,
+              color: "#e4e4e7",
+              lineHeight: 1.15,
+              display: "-webkit-box",
+              WebkitBoxOrient: "vertical",
+              WebkitLineClamp: 2,
+              overflow: "hidden",
+              textOverflow: "ellipsis",
+            }}
+          >
+            {cleanTitle}
+          </h1>
+        </div>
+
+        {/* Context line */}
+        {contextLine && (
+          <div
+            style={{
+              display: "flex",
+              fontSize: 24,
+              color: "#8a8a96",
+              marginBottom: "1rem",
+              letterSpacing: "0.5px",
+            }}
+          >
+            {contextLine}
+          </div>
+        )}
+
+        {/* Description */}
+        <div
+          style={{
+            display: "flex",
+            flex: 1,
+            fontSize: 28,
+            color: "#a1a1aa",
+            lineHeight: 1.5,
+          }}
+        >
+          <p
+            style={{
+              margin: 0,
+              display: "-webkit-box",
+              WebkitBoxOrient: "vertical",
+              WebkitLineClamp: 3,
+              overflow: "hidden",
+              textOverflow: "ellipsis",
+            }}
+          >
+            {description}
+          </p>
+        </div>
+
+        {/* Footer */}
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "space-between",
+            marginTop: "1.5rem",
+            paddingTop: "1.5rem",
+            borderTop: "1px solid #1e1e28",
+          }}
+        >
+          {/* Stat */}
+          {statValue && (
+            <div
+              style={{
+                display: "flex",
+                fontSize: 22,
+                color: "#22c55e",
+                fontWeight: 600,
+                letterSpacing: "0.5px",
+              }}
+            >
+              {statValue}
+            </div>
+          )}
+
+          {/* URL */}
+          <div
+            style={{
+              display: "flex",
+              fontSize: 22,
+              color: "#5b8dce",
+              fontWeight: 500,
+            }}
+          >
+            thedonormap.org
+          </div>
         </div>
       </div>
     </div>
