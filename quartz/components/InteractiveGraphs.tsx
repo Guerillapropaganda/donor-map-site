@@ -1089,6 +1089,137 @@ function enhanceContradictions() {
   }
 }
 
+// ─── INLINE: Profile interactive tools ──────
+
+function injectProfileTools() {
+  var slug = (document.body.getAttribute('data-slug') || '').toLowerCase();
+  // Only master profiles
+  if (slug.indexOf('master-profile') === -1 && slug.charAt(slug.lastIndexOf('/') + 1) !== '_') return;
+  var article = document.querySelector('article');
+  if (!article) return;
+  // Don't double-inject
+  if (document.getElementById('dm-profile-tools')) return;
+
+  // Find the politician name from the page title
+  var titleEl = document.querySelector('.article-title');
+  var pageName = (titleEl ? titleEl.textContent : '').replace(/^[_$]/, '').replace(' Master Profile', '').trim().toLowerCase();
+
+  // --- 1. Personalized Say vs Pay card ---
+  var match = null;
+  for (var i = 0; i < CONTRADICTION_DATA.length; i++) {
+    if (pageName.indexOf(CONTRADICTION_DATA[i].name.toLowerCase()) !== -1 ||
+        CONTRADICTION_DATA[i].name.toLowerCase().indexOf(pageName) !== -1) {
+      match = CONTRADICTION_DATA[i];
+      break;
+    }
+  }
+
+  if (match) {
+    // Find the contradiction heading and inject card after its parent container
+    var headings = article.querySelectorAll('h2, h3');
+    for (var j = 0; j < headings.length; j++) {
+      var hText = (headings[j].textContent || '').toLowerCase();
+      if (hText.indexOf('contradiction') !== -1) {
+        var svpCard = document.createElement('div');
+        svpCard.className = 'dm-profile-svp';
+        svpCard.innerHTML =
+          '<div class="dm-profile-svp-header">' +
+            '<span class="dm-contra-marker-dot"></span>' +
+            '<span class="dm-profile-svp-title">SAY VS PAY: ' + match.name.toUpperCase() + '</span>' +
+          '</div>' +
+          '<div class="dm-contra-says">' +
+            '<div class="dm-contra-label">SAYS</div>' +
+            '<div class="dm-contra-text">\u201C' + match.says + '\u201D</div>' +
+          '</div>' +
+          '<div class="dm-contra-pays">' +
+            '<div class="dm-contra-label">PAYS</div>' +
+            '<div class="dm-contra-text">' + match.pays + '</div>' +
+          '</div>' +
+          '<div class="dm-contra-result">' +
+            '<div class="dm-contra-label">RESULT</div>' +
+            '<div class="dm-contra-text">' + match.result + '</div>' +
+          '</div>';
+        // Insert after the heading's closest article-level parent
+        var parent = headings[j];
+        while (parent.parentNode && parent.parentNode !== article) {
+          parent = parent.parentNode;
+        }
+        if (parent.nextSibling) {
+          article.insertBefore(svpCard, parent.nextSibling);
+        } else {
+          article.appendChild(svpCard);
+        }
+        break;
+      }
+    }
+  }
+
+  // --- 2. Tabbed interactive tools at bottom of article ---
+  var toolsWrap = document.createElement('div');
+  toolsWrap.id = 'dm-profile-tools';
+  toolsWrap.className = 'dm-profile-tools';
+
+  var toolsHeader = document.createElement('div');
+  toolsHeader.className = 'dm-profile-tools-header';
+  toolsHeader.innerHTML = '<span class="dm-profile-tools-label">INTERACTIVE TOOLS</span>' +
+    '<span class="dm-profile-tools-sub">Explore the money behind the politics</span>';
+  toolsWrap.appendChild(toolsHeader);
+
+  // Tabs
+  var tabs = document.createElement('div');
+  tabs.className = 'dm-hp-tabs';
+  var tabData = [
+    { id: 'flow', label: 'Money Flow' },
+    { id: 'roi', label: 'ROI Calculator' },
+    { id: 'both', label: 'Both Sides' },
+    { id: 'contra', label: 'Say vs Pay' },
+    { id: 'sector', label: 'Sector ROI' },
+  ];
+  tabData.forEach(function(t, i) {
+    var btn = document.createElement('button');
+    btn.className = 'dm-hp-tab' + (i === 0 ? ' dm-hp-tab-active' : '');
+    btn.setAttribute('data-tab', t.id);
+    btn.textContent = t.label;
+    btn.addEventListener('click', function() {
+      tabs.querySelectorAll('.dm-hp-tab').forEach(function(b) { b.classList.remove('dm-hp-tab-active'); });
+      btn.classList.add('dm-hp-tab-active');
+      toolsWrap.querySelectorAll('.dm-hp-panel').forEach(function(p) { p.classList.remove('dm-hp-panel-active'); });
+      var panel = toolsWrap.querySelector('[data-panel="' + t.id + '"]');
+      if (panel) {
+        panel.classList.add('dm-hp-panel-active');
+        // Lazy render on first show
+        if (!panel.dataset.rendered) {
+          panel.dataset.rendered = 'true';
+          if (t.id === 'flow') renderMoneyFlow(panel);
+          if (t.id === 'roi') renderROICalc(panel);
+          if (t.id === 'both') renderBothSides(panel);
+          if (t.id === 'contra') renderContradictions(panel);
+          if (t.id === 'sector') renderSectorDashboard(panel);
+        }
+      }
+    });
+    tabs.appendChild(btn);
+  });
+  toolsWrap.appendChild(tabs);
+
+  // Panels
+  tabData.forEach(function(t, i) {
+    var panel = document.createElement('div');
+    panel.className = 'dm-hp-panel' + (i === 0 ? ' dm-hp-panel-active' : '');
+    panel.setAttribute('data-panel', t.id);
+    toolsWrap.appendChild(panel);
+  });
+
+  article.appendChild(toolsWrap);
+
+  // Render first tab immediately
+  var firstPanel = toolsWrap.querySelector('[data-panel="flow"]');
+  if (firstPanel) {
+    firstPanel.dataset.rendered = 'true';
+    renderMoneyFlow(firstPanel);
+  }
+}
+
 // ─── INIT ────────────────────────────────────
 
 function initInteractive() {
@@ -1254,8 +1385,9 @@ hideDataviewFields();
 enhanceTables();
 enhanceListings();
 enhanceContradictions();
+injectProfileTools();
 document.addEventListener('nav', function() {
-  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); cleanListingNames(); hideDataviewFields(); enhanceTables(); enhanceListings(); enhanceContradictions(); }, 100);
+  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); cleanListingNames(); hideDataviewFields(); enhanceTables(); enhanceListings(); enhanceContradictions(); injectProfileTools(); }, 100);
 });
 `
 
@@ -2029,6 +2161,61 @@ InteractiveGraphs.css = `
 @keyframes dm-contra-pulse {
   0%, 100% { opacity: 1; box-shadow: 0 0 4px rgba(239, 68, 68, 0.6); }
   50% { opacity: 0.3; box-shadow: 0 0 1px rgba(239, 68, 68, 0.2); }
+}
+
+/* ═══════════════════════════════════════════════
+   PROFILE-EMBEDDED INTERACTIVE TOOLS
+   ═══════════════════════════════════════════════ */
+
+.dm-profile-tools {
+  margin-top: 40px;
+  background: #0e0e14;
+  border: 1px solid #1e1e28;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.dm-profile-tools-header {
+  padding: 20px 24px 12px;
+}
+
+.dm-profile-tools-label {
+  display: block;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #5b8dce;
+  margin-bottom: 4px;
+}
+
+.dm-profile-tools-sub {
+  font-size: 13px;
+  color: #a1a1aa;
+}
+
+.dm-profile-svp {
+  background: #13131a;
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  border-left: 3px solid #ef4444;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 16px 0 24px;
+}
+
+.dm-profile-svp-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.dm-profile-svp-title {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #ef4444;
 }
 
 /* ─── Mobile responsive for new interactives ── */
