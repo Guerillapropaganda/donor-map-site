@@ -119,6 +119,7 @@ const ProfileWidget: QuartzComponent = ({
       {/* Tab: Flow — Top Donors */}
       <div class="pw-panel pw-panel-active" data-panel="flow">
         <div class="pw-section-label">TOP DONORS</div>
+        <div class="pw-explain">Organizations and individuals funding {currentTitle}.</div>
         {flowData.map((d) => (
           <a href={d.slug || "#"} class={`pw-flow-row ${d.slug ? "internal" : ""}`}>
             <div class="pw-flow-info">
@@ -136,6 +137,9 @@ const ProfileWidget: QuartzComponent = ({
         <div class="pw-panel" data-panel="both">
           <div class="pw-section-label">
             {"ALSO FUNDS " + (party === "Democrat" ? "REPUBLICANS" : "DEMOCRATS")}
+          </div>
+          <div class="pw-explain">
+            {"These donors fund " + currentTitle + " and also fund " + (party === "Democrat" ? "Republican" : "Democratic") + " politicians — the same money flows to both sides."}
           </div>
           {bothSidesData.map((b) => (
             <div class="pw-bs-row">
@@ -164,6 +168,7 @@ const ProfileWidget: QuartzComponent = ({
       {hasNetwork && (
         <div class="pw-panel" data-panel="network">
           <div class="pw-section-label">DONOR REACH</div>
+          <div class="pw-explain">How many politicians each donor funds. Higher numbers mean wider influence networks.</div>
           {networkData.map((d) => (
             <a href={d.slug || "#"} class={`pw-flow-row ${d.slug ? "internal" : ""}`}>
               <div class="pw-flow-info">
@@ -282,8 +287,17 @@ ProfileWidget.css = `
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #63636e;
+  color: #8a8a96;
+  margin-bottom: 4px;
+}
+
+.pw-explain {
+  font-size: 11px;
+  line-height: 1.5;
+  color: #8a8a96;
   margin-bottom: 10px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #1a1a22;
 }
 
 /* ─── Flow/Donors tab ───────────────────────────── */
@@ -314,7 +328,7 @@ a.pw-flow-row:hover {
 .pw-flow-donor {
   font-size: 12px;
   font-weight: 600;
-  color: #b4b4bc;
+  color: #d4d4dc;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -323,7 +337,7 @@ a.pw-flow-row:hover {
 .pw-flow-sector {
   font-family: 'Space Mono', monospace;
   font-size: 9px;
-  color: #63636e;
+  color: #8a8a96;
   letter-spacing: 0.5px;
 }
 
@@ -346,8 +360,8 @@ a.pw-flow-row:hover {
 
 .pw-reach-label {
   font-family: 'Space Mono', monospace;
-  font-size: 7px;
-  color: #4a4a54;
+  font-size: 8px;
+  color: #6a6a76;
   letter-spacing: 0.5px;
 }
 
@@ -424,15 +438,15 @@ a.pw-bs-recip:hover {
 }
 
 .pw-bs-name {
-  color: #b4b4bc;
+  color: #d4d4dc;
   font-weight: 500;
   flex: 1;
 }
 
 .pw-bs-chamber {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
-  color: #4a4a54;
+  font-size: 9px;
+  color: #8a8a96;
   flex-shrink: 0;
 }
 

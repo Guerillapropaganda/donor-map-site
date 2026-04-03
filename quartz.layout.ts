@@ -6,13 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.ConditionalRender({
-      component: Component.InteractiveGraphs(),
-      condition: (page) => {
-        const slug = (page.fileData.slug ?? "").toLowerCase()
-        return slug.startsWith("interactive/")
-      },
-    }),
+    Component.InteractiveGraphs(),
     Component.PowerRankings(),
     Component.WhoFundsYourRep(),
     Component.WeeklySpotlight(),

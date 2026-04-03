@@ -1612,7 +1612,7 @@ function enhanceListings() {
   }
 }
 
-initInteractive();
+// Global utilities (run on all pages)
 replaceEmDashes();
 cleanFolderTitle();
 cleanListingNames();
@@ -1620,9 +1620,27 @@ hideDataviewFields();
 enhanceTables();
 enhanceListings();
 enhanceContradictions();
-injectProfileTools();
+
+// Interactive tools only on interactive/* pages — NOT on profile pages
+var dmSlug = (document.body.getAttribute('data-slug') || '').toLowerCase();
+if (dmSlug.indexOf('interactive/') !== -1 || dmSlug === 'index') {
+  initInteractive();
+}
+
 document.addEventListener('nav', function() {
-  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); cleanListingNames(); hideDataviewFields(); enhanceTables(); enhanceListings(); enhanceContradictions(); injectProfileTools(); }, 100);
+  setTimeout(function() {
+    replaceEmDashes();
+    cleanFolderTitle();
+    cleanListingNames();
+    hideDataviewFields();
+    enhanceTables();
+    enhanceListings();
+    enhanceContradictions();
+    var s = (document.body.getAttribute('data-slug') || '').toLowerCase();
+    if (s.indexOf('interactive/') !== -1 || s === 'index') {
+      initInteractive();
+    }
+  }, 100);
 });
 `
 

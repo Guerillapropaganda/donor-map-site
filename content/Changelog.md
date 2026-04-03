@@ -23,6 +23,16 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 - Shows co-mentioned profiles as chips
 - First run: 252 items fetched, 106 matched, 60 drafts written, 9 update suggestions, 4 new names detected
 
+### Interactive Tools Removed from Profile Pages
+- Removed `injectProfileTools()` — the 6-tab interactive tools block (Money Flow, ROI, Both Sides, etc.) no longer appears at the bottom of master profile pages
+- Added slug guard to InteractiveGraphs afterDOMLoaded so interactive rendering only runs on `/interactive/*` pages
+- Root cause: Quartz's ConditionalRender passes `afterDOMLoaded` through unconditionally — the JS ran on every page regardless of the condition
+
+### ProfileWidget Readability Improvements
+- Added explanation text under each tab explaining what the data means
+- Boosted text contrast: donor names `#b4b4bc` → `#d4d4dc`, sectors `#63636e` → `#8a8a96`, chamber labels `#4a4a54` → `#8a8a96`
+- Section labels brightened to `#8a8a96`
+
 ### Table Fix
 - Fixed broken table rendering caused by InteractiveGraphs optimization
 - Added CSS-only scroll fallback with `min-width: 600px`
