@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "California"
+state-abbr: "CA"
+district: "43"
+leadership-roles:
+  - "Ranking Member"
+top-donors:
+  - "Goldman Sachs"
 ---
 
 #maxine-waters #democrat #california #house #financial-services #ranking-member #phase-6-gavel-power

@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Gig Economy"
+entity-type: "Corporation"
+issues:
+  - "Labor & Workers"
 ---
 
 #instacart #gig-economy #delivery #labor #independent-contractor #prop22

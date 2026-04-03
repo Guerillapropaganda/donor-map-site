@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+  - "Barack Obama"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis

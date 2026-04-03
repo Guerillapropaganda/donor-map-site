@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+issues:
+  - "Technology"
+  - "Wall Street & Finance"
 ---
 
 #ross-stevens #stone-ridge #crypto #bitcoin #nydig #mega-donor #wall-street #club-for-growth #ramaswamy #pro-israel

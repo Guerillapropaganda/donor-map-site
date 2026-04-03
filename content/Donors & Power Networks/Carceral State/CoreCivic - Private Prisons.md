@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Carceral State"
+entity-type: "Corporation"
+issues:
+  - "Immigration"
 ---
 
 #corecivic #private-prison #carceral #cca #immigration #detention #lobbying #incarceration #ice #revolving-door #trump

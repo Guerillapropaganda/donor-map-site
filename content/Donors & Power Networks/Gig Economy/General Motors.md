@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Gig Economy"
+entity-type: "Corporation"
+politicians-funded:
+  - "Joe Biden"
+  - "Barack Obama"
 ---
 
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw

@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Hawaii"
+state-abbr: "HI"
+committees:
+  - "Appropriations"
+top-donors:
+  - "Private Equity Industry"
+  - "Real Estate Industry"
 ---
 
 

@@ -5,6 +5,20 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "North Carolina"
+state-abbr: "NC"
+district: "5"
+committees:
+  - "Education & Labor"
+issues:
+  - "Education"
+  - "Labor & Workers"
+top-donors:
+  - "DeVos Family"
+  - "American Federation for Children"
+  - "Walton Family Foundation"
 ---
 
 #virginia-foxx #republican #north-carolina #house #committee-chair #education #for-profit-colleges #labor #student-debt #phase-6-gavel-power

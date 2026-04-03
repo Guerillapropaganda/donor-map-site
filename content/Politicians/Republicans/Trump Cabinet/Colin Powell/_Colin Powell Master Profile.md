@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+top-donors:
+  - "Lockheed Martin"
+  - "Boeing"
+  - "Kleiner Perkins"
+  - "Salesforce"
 ---
 
 #colin-powell #secretary-of-state #chairman-joint-chiefs #iraq-war #wmd-speech #defense-contractor #revolving-door #credibility-weapon #class-analysis

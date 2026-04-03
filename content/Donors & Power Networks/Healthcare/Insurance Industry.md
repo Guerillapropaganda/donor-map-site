@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Healthcare"
+entity-type: "Individual Donor"
 ---
 
 #insurance #health-insurance #lobbying #aca #public-option #bipartisan #medicare-advantage #ahip #revolving-door

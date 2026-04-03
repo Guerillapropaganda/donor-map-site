@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Restaurant & Food"
+entity-type: "Corporation"
+issues:
+  - "Labor & Workers"
 ---
 
 #mcdonalds #fast-food #minimum-wage #franchise #labor #fight-for-15 #lobbying

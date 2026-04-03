@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+sector: "Energy & Utilities"
+entity-type: "Corporation"
+politicians-funded:
+  - "John Barrasso"
+issues:
+  - "Energy & Climate"
+  - "Dark Money & Campaign Finance"
 ---
 
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned

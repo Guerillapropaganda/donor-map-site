@@ -5,6 +5,11 @@ content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+sector: "Defense & Intelligence"
+entity-type: "Corporation"
+issues:
+  - "Defense & Military"
+  - "Technology"
 ---
 
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money

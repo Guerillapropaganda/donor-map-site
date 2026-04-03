@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #cross-reference #donor-analysis #roi-analysis #class-analysis #dark-money #donor-control

@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Agriculture"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+issues:
+  - "Agriculture"
+  - "Environment"
+  - "Trade"
+  - "Labor & Workers"
 ---
 
 

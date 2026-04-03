@@ -5,6 +5,20 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Connecticut"
+state-abbr: "CT"
+committees:
+  - "Foreign Relations"
+  - "Appropriations"
+issues:
+  - "Israel & Foreign Policy"
+top-donors:
+  - "Everytown for Gun Safety"
+  - "Silicon Valley Democratic Donor Network"
+  - "Goldman Sachs"
+  - "Blue Cross Blue Shield Association"
 ---
 
 #chris-murphy #democrat #connecticut #senate #gun-control #foreign-policy #insurance #sandy-hook #HELP-committee #foreign-relations #appropriations

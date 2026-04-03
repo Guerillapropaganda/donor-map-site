@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+issues:
+  - "Wall Street & Finance"
 ---
 
 #investigation #contradiction #goldman-sachs #both-sides #wall-street #revolving-door #class-analysis

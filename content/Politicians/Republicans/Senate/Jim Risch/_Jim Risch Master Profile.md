@@ -5,6 +5,17 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Idaho"
+state-abbr: "ID"
+committees:
+  - "Foreign Relations"
+issues:
+  - "Defense & Military"
+  - "Israel & Foreign Policy"
+top-donors:
+  - "AIPAC"
 ---
 
 

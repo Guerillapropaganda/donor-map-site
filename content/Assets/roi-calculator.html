@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Donor Map — ROI Calculator</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: #0a0a0f;
+  color: #e2e8f0;
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+  padding: 40px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  max-width: 800px;
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  color: #f8fafc;
+  margin-bottom: 6px;
+}
+
+.subtitle {
+  font-size: 14px;
+  color: #f59e0b;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+
+.intro {
+  font-size: 15px;
+  color: #94a3b8;
+  line-height: 1.7;
+  max-width: 650px;
+}
+
+/* Sector selector */
+.sectors {
+  max-width: 800px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+  margin-bottom: 40px;
+}
+
+.sector-card {
+  background: rgba(15,23,42,0.6);
+  border: 1px solid rgba(148,163,184,0.1);
+  border-radius: 12px;
+  padding: 20px;
+  cursor: pointer;
+  transition: all 0.25s;
+  position: relative;
+}
+
+.sector-card:hover {
+  border-color: rgba(148,163,184,0.25);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(0,0,0,0.3);
+}
+
+.sector-card.active {
+  border-color: var(--accent);
+  background: rgba(15,23,42,0.9);
+  box-shadow: 0 0 24px var(--glow);
+}
+
+.sector-icon {
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+.sector-name {
+  font-size: 15px;
+  font-weight: 600;
+  color: #f8fafc;
+  margin-bottom: 4px;
+}
+
+.sector-spent {
+  font-size: 12px;
+  color: #64748b;
+}
+
+/* Result panel */
+.result {
+  max-width: 800px;
+  width: 100%;
+  display: none;
+}
+
+.result.visible { display: block; }
+
+.result-box {
+  background: rgba(15,23,42,0.7);
+  border: 1px solid rgba(148,163,184,0.12);
+  border-radius: 16px;
+  padding: 36px;
+  margin-bottom: 24px;
+}
+
+.result-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #64748b;
+  margin-bottom: 8px;
+}
+
+.result-spent {
+  font-size: 20px;
+  font-weight: 600;
+  color: #94a3b8;
+  margin-bottom: 24px;
+}
+
+.result-got {
+  font-size: 20px;
+  font-weight: 600;
+  color: #e2e8f0;
+  margin-bottom: 24px;
+}
+
+.result-roi-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #64748b;
+  margin-bottom: 8px;
+}
+
+.result-roi {
+  font-size: 72px;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  color: #f59e0b;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+.result-roi-sub {
+  font-size: 14px;
+  color: #94a3b8;
+  margin-bottom: 32px;
+}
+
+/* The pipeline visual */
+.pipeline {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  margin-bottom: 28px;
+  overflow-x: auto;
+  padding-bottom: 8px;
+}
+
+.pipe-step {
+  flex-shrink: 0;
+  text-align: center;
+  padding: 14px 16px;
+  min-width: 140px;
+}
+
+.pipe-step-label {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #475569;
+  margin-bottom: 6px;
+}
+
+.pipe-step-value {
+  font-size: 16px;
+  font-weight: 700;
+  color: #f8fafc;
+}
+
+.pipe-step-name {
+  font-size: 11px;
+  color: #94a3b8;
+  margin-top: 4px;
+}
+
+.pipe-arrow {
+  flex-shrink: 0;
+  color: #334155;
+  font-size: 20px;
+  padding: 0 4px;
+}
+
+/* Breakdown items */
+.breakdown {
+  margin-top: 24px;
+}
+
+.breakdown-title {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #64748b;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(148,163,184,0.1);
+}
+
+.breakdown-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(148,163,184,0.05);
+}
+
+.breakdown-item:last-child { border-bottom: none; }
+
+.breakdown-desc {
+  font-size: 13px;
+  color: #cbd5e1;
+  flex: 1;
+}
+
+.breakdown-val {
+  font-size: 14px;
+  font-weight: 600;
+  color: #f59e0b;
+  text-align: right;
+  min-width: 100px;
+}
+
+/* Bar chart */
+.bar-container {
+  margin-top: 20px;
+}
+
+.bar-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.bar-label {
+  font-size: 11px;
+  color: #94a3b8;
+  width: 60px;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.bar-track {
+  flex: 1;
+  height: 24px;
+  background: rgba(148,163,184,0.06);
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+}
+
+.bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.8s ease;
+  display: flex;
+  align-items: center;
+  padding-left: 8px;
+}
+
+.bar-fill-text {
+  font-size: 11px;
+  font-weight: 600;
+  color: #f8fafc;
+  white-space: nowrap;
+}
+
+.footnote {
+  max-width: 800px;
+  width: 100%;
+  font-size: 11px;
+  color: #3e4c5e;
+  line-height: 1.6;
+  margin-top: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>WHAT'S THE ROI ON BUYING A POLITICIAN?</h1>
+  <div class="subtitle">The Return on Investment Calculator</div>
+  <div class="intro">
+    Pick an industry. See what they spent on politicians. See what they got back. Every number is sourced from FEC filings, lobbying disclosures, and policy outcomes documented in The Donor Map vault.
+  </div>
+</div>
+
+<div class="sectors" id="sectors"></div>
+<div class="result" id="result"></div>
+
+<div class="footnote">
+  ROI calculations compare documented political spending (PAC contributions + lobbying + dark money where traceable) against estimated policy value (tax savings, contract awards, regulatory benefits, subsidy preservation). Policy values are conservative estimates from CBO scoring, OMB data, and independent analyses. Sources cited in individual vault profiles.
+</div>
+
+<script>
+const SECTORS = [
+  {
+    id: 'defense',
+    icon: '🎖️',
+    name: 'Defense Contractors',
+    accent: '#ef4444',
+    glow: 'rgba(239,68,68,0.15)',
+    spent: '$70.8M',
+    spentNum: 70.8,
+    got: '$886B NDAA (2024 alone)',
+    gotNum: 886000,
+    roi: '450,000%',
+    roiNum: 450000,
+    roiExplain: 'For every $1 spent on politicians, defense contractors got $4,500 in contracts.',
+    pipeline: [
+      { label: 'Donated', value: '$70.8M', name: 'PAC + lobbying' },
+      { label: 'To', value: '535', name: 'Members of Congress' },
+      { label: 'Who voted for', value: '$886B', name: 'NDAA FY2024' },
+      { label: 'Plus', value: '$858B', name: 'NDAA FY2023' },
+    ],
+    breakdown: [
+      { desc: 'Lockheed Martin: PAC + lobbying spend', val: '$18.2M' },
+      { desc: 'Lockheed Martin: F-35 program value', val: '$1.7T lifetime' },
+      { desc: 'Boeing: PAC + lobbying spend', val: '$14.8M' },
+      { desc: 'Boeing: KC-46 tanker contract', val: '$55B' },
+      { desc: 'Raytheon: PAC + lobbying spend', val: '$12.5M' },
+      { desc: 'Raytheon: Patriot missile sales (Ukraine alone)', val: '$6B+' },
+      { desc: 'No NDAA has EVER been voted down', val: '—' },
+    ],
+    bars: [
+      { label: 'Spent', val: 70.8, max: 886000, color: '#94a3b8', display: '$70.8M' },
+      { label: 'Got back', val: 886000, max: 886000, color: '#ef4444', display: '$886B' },
+    ]
+  },
+  {
+    id: 'pharma',
+    icon: '💊',
+    name: 'Pharmaceutical Industry',
+    accent: '#22c55e',
+    glow: 'rgba(34,197,94,0.15)',
+    spent: '$60.3M',
+    spentNum: 60.3,
+    got: 'Drug price negotiation blocked for 20+ years',
+    gotNum: 160000,
+    roi: '265,000%',
+    roiNum: 265000,
+    roiExplain: 'For every $1 spent, PhRMA preserved $2,650 in pricing power.',
+    pipeline: [
+      { label: 'Donated', value: '$60.3M', name: 'PAC + lobbying' },
+      { label: 'To', value: 'Both parties', name: 'on key committees' },
+      { label: 'Who blocked', value: '20 years', name: 'of price negotiation' },
+      { label: 'Preserving', value: '$160B/yr', name: 'in pricing power' },
+    ],
+    breakdown: [
+      { desc: 'PhRMA lobbying budget (annual)', val: '$35M+' },
+      { desc: 'US drug prices vs. other nations', val: '2-3x higher' },
+      { desc: 'Annual excess cost to Americans', val: '$160B' },
+      { desc: 'Booker voted AGAINST drug imports (2017) — pharma donations', val: '$468K' },
+      { desc: 'IRA limited negotiation to only 10 drugs (industry win)', val: '—' },
+      { desc: 'Patent evergreening preserved (no reform passed)', val: '—' },
+    ],
+    bars: [
+      { label: 'Spent', val: 60.3, max: 160000, color: '#94a3b8', display: '$60.3M' },
+      { label: 'Got back', val: 160000, max: 160000, color: '#22c55e', display: '$160B/yr' },
+    ]
+  },
+  {
+    id: 'finance',
+    icon: '🏦',
+    name: 'Wall Street / Private Equity',
+    accent: '#3b82f6',
+    glow: 'rgba(59,130,246,0.15)',
+    spent: '$75.5M',
+    spentNum: 75.5,
+    got: 'Carried interest loophole preserved ($18B/yr in tax savings)',
+    gotNum: 18000,
+    roi: '23,800%',
+    roiNum: 23800,
+    roiExplain: 'For every $1 spent, Wall Street saved $238 in taxes annually.',
+    pipeline: [
+      { label: 'Donated', value: '$75.5M', name: 'PAC + individual' },
+      { label: 'To', value: 'Schumer + McConnell', name: 'Senate leaders, both parties' },
+      { label: 'Who preserved', value: '$18B/yr', name: 'carried interest loophole' },
+      { label: 'Surviving', value: '3 presidents', name: 'Obama, Trump, Biden' },
+    ],
+    breakdown: [
+      { desc: 'Goldman Sachs: PAC + employee contributions', val: '$22.5M' },
+      { desc: 'Blackstone (Schwarzman): political + lobbying', val: '$12M' },
+      { desc: 'Carried interest loophole annual tax savings', val: '$18B' },
+      { desc: 'Sinema killed IRA carried interest provision — received', val: '$5M from finance' },
+      { desc: 'Loophole survived Obama, Trump, and Biden', val: '30+ years' },
+      { desc: 'Booker + Scott co-authored Opportunity Zones', val: 'Bipartisan' },
+    ],
+    bars: [
+      { label: 'Spent', val: 75.5, max: 18000, color: '#94a3b8', display: '$75.5M' },
+      { label: 'Got back', val: 18000, max: 18000, color: '#3b82f6', display: '$18B/yr' },
+    ]
+  },
+  {
+    id: 'energy',
+    icon: '🛢️',
+    name: 'Fossil Fuel Industry',
+    accent: '#f97316',
+    glow: 'rgba(249,115,22,0.15)',
+    spent: '$113.3M',
+    spentNum: 113.3,
+    got: '$20B/yr in federal subsidies preserved + IRA fossil fuel provisions',
+    gotNum: 20000,
+    roi: '17,600%',
+    roiNum: 17600,
+    roiExplain: 'For every $1 spent, fossil fuel got $176 in subsidies preserved annually.',
+    pipeline: [
+      { label: 'Donated', value: '$113.3M', name: 'Koch network + PACs' },
+      { label: 'To', value: 'Manchin + GOP', name: 'Energy Committee chairs' },
+      { label: 'Who killed', value: 'BBB', name: '$3.5T climate bill' },
+      { label: 'And preserved', value: '$20B/yr', name: 'in fossil fuel subsidies' },
+    ],
+    breakdown: [
+      { desc: 'Koch Network: annual political spending', val: '$68M' },
+      { desc: 'ExxonMobil: PAC + lobbying', val: '$15M' },
+      { desc: 'Manchin received from fossil fuel (career)', val: '$1.1M' },
+      { desc: 'Manchin killed $3.5T BBB — reduced to IRA with fossil fuel provisions', val: '—' },
+      { desc: 'Federal fossil fuel subsidies preserved annually', val: '$20B' },
+      { desc: 'IRA included $7B+ in fossil fuel provisions', val: '$7B' },
+    ],
+    bars: [
+      { label: 'Spent', val: 113.3, max: 20000, color: '#94a3b8', display: '$113.3M' },
+      { label: 'Got back', val: 20000, max: 20000, color: '#f97316', display: '$20B/yr' },
+    ]
+  },
+  {
+    id: 'crypto',
+    icon: '₿',
+    name: 'Crypto Industry',
+    accent: '#8b5cf6',
+    glow: 'rgba(139,92,246,0.15)',
+    spent: '$134M',
+    spentNum: 134,
+    got: 'SEC enforcement halted + favorable legislation advancing',
+    gotNum: 50000,
+    roi: '37,300%',
+    roiNum: 37300,
+    roiExplain: 'For every $1 Fairshake spent, crypto preserved $373 in market value protection.',
+    pipeline: [
+      { label: 'Donated', value: '$134M', name: 'Fairshake PAC (one cycle)' },
+      { label: 'To', value: 'Both parties', name: '50/50 split' },
+      { label: 'Who delivered', value: 'SEC retreat', name: 'enforcement actions dropped' },
+      { label: 'Protecting', value: '$50B+', name: 'in US crypto market cap' },
+    ],
+    breakdown: [
+      { desc: 'Fairshake PAC: single-cycle spend (2024)', val: '$134M' },
+      { desc: 'Split perfectly between parties', val: '50/50' },
+      { desc: 'Defeated Sherrod Brown (Ohio) — top crypto skeptic', val: '$40M spent' },
+      { desc: 'SEC dropped or paused enforcement actions', val: 'Multiple' },
+      { desc: 'FIT21 crypto framework advancing in Congress', val: '—' },
+      { desc: 'Biggest single-industry PAC spend in 2024', val: '#1' },
+    ],
+    bars: [
+      { label: 'Spent', val: 134, max: 50000, color: '#94a3b8', display: '$134M' },
+      { label: 'Got back', val: 50000, max: 50000, color: '#8b5cf6', display: '$50B+ protected' },
+    ]
+  },
+  {
+    id: 'israel',
+    icon: '🏛️',
+    name: 'Israel Lobby (AIPAC)',
+    accent: '#06b6d4',
+    glow: 'rgba(6,182,212,0.15)',
+    spent: '$100M',
+    spentNum: 100,
+    got: '$14.3B aid package + progressive primary defeats',
+    gotNum: 14300,
+    roi: '14,200%',
+    roiNum: 14200,
+    roiExplain: 'For every $1 spent, AIPAC secured $142 in aid commitments.',
+    pipeline: [
+      { label: 'Donated', value: '$100M+', name: 'AIPAC + UDP (2024)' },
+      { label: 'To', value: 'Both parties', name: 'mostly Dem primaries' },
+      { label: 'Who delivered', value: '$14.3B', name: 'Israel aid package' },
+      { label: 'And defeated', value: 'Bowman + Bush', name: 'progressive critics' },
+    ],
+    breakdown: [
+      { desc: 'AIPAC/UDP total spend (2024 cycle)', val: '$100M+' },
+      { desc: 'Spent to defeat Jamaal Bowman in primary', val: '$14.5M' },
+      { desc: 'Spent to defeat Cori Bush in primary', val: '$8.5M' },
+      { desc: '$14.3B emergency Israel aid passed', val: '$14.3B' },
+      { desc: 'Outspent NRA in 2024 cycle', val: 'Yes' },
+      { desc: 'Both parties voted for aid package', val: 'Bipartisan' },
+    ],
+    bars: [
+      { label: 'Spent', val: 100, max: 14300, color: '#94a3b8', display: '$100M' },
+      { label: 'Got back', val: 14300, max: 14300, color: '#06b6d4', display: '$14.3B' },
+    ]
+  },
+];
+
+// Render sector cards
+const sectorsEl = document.getElementById('sectors');
+SECTORS.forEach(s => {
+  const card = document.createElement('div');
+  card.className = 'sector-card';
+  card.style.setProperty('--accent', s.accent);
+  card.style.setProperty('--glow', s.glow);
+  card.innerHTML = `
+    <div class="sector-icon">${s.icon}</div>
+    <div class="sector-name">${s.name}</div>
+    <div class="sector-spent">Spent: ${s.spent}</div>
+  `;
+  card.addEventListener('click', () => selectSector(s));
+  sectorsEl.appendChild(card);
+});
+
+function selectSector(s) {
+  // Highlight card
+  document.querySelectorAll('.sector-card').forEach(c => c.classList.remove('active'));
+  event.currentTarget.classList.add('active');
+  
+  const resultEl = document.getElementById('result');
+  resultEl.className = 'result visible';
+  
+  // Pipeline steps
+  const pipelineHTML = s.pipeline.map((step, i) => {
+    const arrow = i < s.pipeline.length - 1 ? '<div class="pipe-arrow">→</div>' : '';
+    return `<div class="pipe-step">
+      <div class="pipe-step-label">${step.label}</div>
+      <div class="pipe-step-value">${step.value}</div>
+      <div class="pipe-step-name">${step.name}</div>
+    </div>${arrow}`;
+  }).join('');
+  
+  // Breakdown
+  const breakdownHTML = s.breakdown.map(b =>
+    `<div class="breakdown-item">
+      <div class="breakdown-desc">${b.desc}</div>
+      <div class="breakdown-val">${b.val}</div>
+    </div>`
+  ).join('');
+  
+  resultEl.innerHTML = `
+    <div class="result-box">
+      <div class="result-label">TOTAL POLITICAL SPENDING</div>
+      <div class="result-spent">${s.spent} in PAC contributions + lobbying</div>
+      
+      <div class="result-label">WHAT THEY GOT BACK</div>
+      <div class="result-got">${s.got}</div>
+      
+      <div class="result-roi-label">RETURN ON INVESTMENT</div>
+      <div class="result-roi" style="color:${s.accent}">${s.roi}</div>
+      <div class="result-roi-sub">${s.roiExplain}</div>
+      
+      <div class="pipeline">${pipelineHTML}</div>
+      
+      <div class="bar-container">
+        ${s.bars.map(b => {
+          const pct = Math.max(0.5, (b.val / s.bars[1].val) * 100);
+          return `<div class="bar-row">
+            <div class="bar-label">${b.label}</div>
+            <div class="bar-track">
+              <div class="bar-fill" style="width:${pct}%;background:${b.color}">
+                <span class="bar-fill-text">${b.display}</span>
+              </div>
+            </div>
+          </div>`;
+        }).join('')}
+      </div>
+      
+      <div class="breakdown">
+        <div class="breakdown-title">THE RECEIPTS</div>
+        ${breakdownHTML}
+      </div>
+    </div>
+  `;
+  
+  // Animate bars
+  setTimeout(() => {
+    resultEl.querySelectorAll('.bar-fill').forEach(bar => {
+      const w = bar.style.width;
+      bar.style.width = '0%';
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => { bar.style.width = w; });
+      });
+    });
+  }, 50);
+  
+  // Scroll to result
+  resultEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+</script>
+</body>
+</html>

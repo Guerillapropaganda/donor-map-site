@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Louisiana"
+state-abbr: "LA"
+issues:
+  - "Energy & Climate"
+top-donors:
+  - "Petrochemical Industry Bloc"
+  - "Fossil Fuel Bloc"
+  - "Koch Network - Charles Koch"
 ---
 
 

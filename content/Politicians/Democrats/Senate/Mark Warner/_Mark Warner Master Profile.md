@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Virginia"
+state-abbr: "VA"
+committees:
+  - "Intelligence"
+top-donors:
+  - "Telecom Industry"
+  - "Silicon Valley Donors"
+  - "Defense Contractors"
 ---
 
 #mark-warner #senate #virginia #intelligence #telecom #venture-capital #personal-wealth #class-analysis #democrat

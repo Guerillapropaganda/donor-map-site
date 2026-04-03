@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Real Estate"
+entity-type: "Individual Donor"
 ---
 
 #mega-donors #nyc-real-estate #loews-corporation #bipartisan-donors #hotel-insurance-empire

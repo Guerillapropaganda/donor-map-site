@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
+issues:
+  - "Wall Street & Finance"
 ---
 
 #megabank #wall-street #jamie-dimon #bipartisan #financial-deregulation #revolving-door #too-big-to-fail #both-sides

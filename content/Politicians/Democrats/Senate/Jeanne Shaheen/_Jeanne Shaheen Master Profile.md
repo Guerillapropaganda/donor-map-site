@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "New Hampshire"
+state-abbr: "NH"
+committees:
+  - "Foreign Relations"
+  - "Armed Services"
+top-donors:
+  - "BAE Systems"
+  - "Raytheon"
+  - "Northrop Grumman"
+  - "Honeywell"
+  - "Defense Industry"
 ---
 
 

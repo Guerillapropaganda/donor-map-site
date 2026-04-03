@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "New York"
+state-abbr: "NY"
+district: "7"
+committees:
+  - "Small Business"
+leadership-roles:
+  - "Ranking Member"
 ---
 
 

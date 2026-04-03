@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+party: "Independent"
+chamber: "Senate"
+state: "West Virginia"
+state-abbr: "WV"
+top-donors:
+  - "Fossil Fuel Bloc"
 ---
 
 

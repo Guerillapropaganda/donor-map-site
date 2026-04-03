@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Florida"
+state-abbr: "FL"
+district: "27"
+top-donors:
+  - "AIPAC"
 ---
 
 #politician #republican #house #florida #cuba #exile #class-analysis #follow-the-money #miami #little-havana

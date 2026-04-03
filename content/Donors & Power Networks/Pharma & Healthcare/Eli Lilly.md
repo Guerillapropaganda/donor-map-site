@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Pharma & Healthcare"
+entity-type: "Corporation"
+issues:
+  - "Healthcare"
 ---
 
 #donor-node #lilly #pharma #insulin #drug-pricing #indiana #diabetes #weight-loss #glp1 #lobbying #class-analysis #follow-the-money

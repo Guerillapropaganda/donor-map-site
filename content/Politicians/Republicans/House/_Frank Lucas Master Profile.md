@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Oklahoma"
+state-abbr: "OK"
+district: "3"
+committees:
+  - "Agriculture"
+issues:
+  - "Agriculture"
+  - "Energy & Climate"
+top-donors:
+  - "American Farm Bureau Federation"
+  - "National Cattlemen's Beef Association"
 ---
 
 

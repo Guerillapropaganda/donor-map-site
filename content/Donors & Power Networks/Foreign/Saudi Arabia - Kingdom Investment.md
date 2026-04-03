@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Foreign Influence"
+entity-type: "Individual Donor"
 ---
 
 #saudi-arabia #foreign #oil #arms-sales #mbs #pif #lobbying #khashoggi

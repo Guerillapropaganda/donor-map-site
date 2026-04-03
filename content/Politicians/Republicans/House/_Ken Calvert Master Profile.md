@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+district: "42"
+committees:
+  - "Appropriations"
+issues:
+  - "Defense & Military"
+top-donors:
+  - "Raytheon PAC"
 ---
 
 #politician #republican #house #ken-calvert #donor-pipeline #defense #appropriations

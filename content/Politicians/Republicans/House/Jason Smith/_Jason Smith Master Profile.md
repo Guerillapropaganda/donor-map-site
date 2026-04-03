@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Missouri"
+state-abbr: "MO"
+district: "8"
+committees:
+  - "Ways & Means"
+top-donors:
+  - "Real Estate Roundtable"
 ---
 
 

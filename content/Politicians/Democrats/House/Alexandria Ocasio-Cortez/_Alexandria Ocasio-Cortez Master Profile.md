@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "New York"
+state-abbr: "NY"
+district: "14"
+top-donors:
+  - "Small Dollar Donors - ActBlue"
 ---
 
 

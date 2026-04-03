@@ -5,6 +5,17 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Pennsylvania"
+state-abbr: "PA"
+district: "2"
+committees:
+  - "Budget"
+leadership-roles:
+  - "Ranking Member"
+issues:
+  - "Labor & Workers"
 ---
 
 

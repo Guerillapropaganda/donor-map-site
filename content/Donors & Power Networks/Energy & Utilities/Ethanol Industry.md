@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Energy & Utilities"
+entity-type: "Individual Donor"
+issues:
+  - "Agriculture"
 ---
 
 #ethanol #corn #biofuel #rfs #agriculture #iowa #mandates #subsidies

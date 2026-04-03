@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Texas"
+state-abbr: "TX"
+district: "2"
+issues:
+  - "Defense & Military"
+  - "Israel & Foreign Policy"
+top-donors:
+  - "ExxonMobil"
+  - "ConocoPhillips"
+  - "Koch Industries"
+  - "AIPAC"
 ---
 
 #crenshaw #texas #energy #defense #navy-seal #veteran #media #brand #aipac #stock-trading #primary-loss #class-analysis

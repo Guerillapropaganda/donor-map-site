@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Presidential"
+issues:
+  - "Wall Street & Finance"
 ---
 
 #politician #dlc #third-way #class-realignment #wall-street #deregulation #nafta #crime-bill #telecom #welfare-reform #revolving-door #follow-the-money #class-analysis

@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Corporation"
+politicians-funded:
+  - "David Sacks"
+  - "Josh Gottheimer"
+  - "JD Vance"
+issues:
+  - "Technology"
+  - "Defense & Military"
 ---
 
 #donor-node #tech #surveillance #defense #thiel #data #class-analysis #donor

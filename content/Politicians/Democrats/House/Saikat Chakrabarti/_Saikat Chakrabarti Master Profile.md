@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "California"
+state-abbr: "CA"
+district: "11"
+top-donors:
+  - "Small Dollar Donors - ActBlue"
 ---
 
 #saikat-chakrabarti #house #california #ca-11 #san-francisco #progressive #justice-democrats #stripe #tech-wealth #green-new-deal #class-analysis #follow-the-money

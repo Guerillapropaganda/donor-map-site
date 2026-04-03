@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+  - "Benjamin Netanyahu"
+  - "Kamala Harris"
+  - "JD Vance"
+  - "Marco Rubio"
+  - "Pete Hegseth"
+  - "Elise Stefanik"
+issues:
+  - "Israel & Foreign Policy"
 ---
 
 

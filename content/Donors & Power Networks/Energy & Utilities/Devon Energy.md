@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Energy & Utilities"
+entity-type: "Corporation"
+politicians-funded:
+  - "James Lankford"
+  - "Markwayne Mullin"
+  - "John Fetterman"
+issues:
+  - "Energy & Climate"
 ---
 
 #devon #energy #oklahoma #shale #fracking #permian #oil-gas

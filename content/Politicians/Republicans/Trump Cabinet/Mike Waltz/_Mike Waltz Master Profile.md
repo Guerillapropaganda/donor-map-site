@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+state: "Florida"
+state-abbr: "FL"
+top-donors:
+  - "AIPAC"
 ---
 
 #politician #republican #florida #national-security-advisor #defense-contractor #revolving-door #afghanistan #cuba #china #class-analysis #follow-the-money #metis #green-beret

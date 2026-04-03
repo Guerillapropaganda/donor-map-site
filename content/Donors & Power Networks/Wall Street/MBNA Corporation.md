@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
+politicians-funded:
+  - "Joe Biden"
+issues:
+  - "Wall Street & Finance"
 ---
 
 #mbna #credit-card #delaware #biden #bankruptcy #wall-street #banking

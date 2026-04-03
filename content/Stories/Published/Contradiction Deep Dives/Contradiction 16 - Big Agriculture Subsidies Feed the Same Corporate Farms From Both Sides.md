@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+issues:
+  - "Agriculture"
 ---
 
 #investigation #contradiction #agriculture #farm-subsidies #crop-insurance #snap #bipartisan-consensus #class-analysis

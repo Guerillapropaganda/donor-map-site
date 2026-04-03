@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "JD Vance"
+  - "Donald Trump"
+  - "Katie Porter"
+  - "David Sacks"
+issues:
+  - "Technology"
 ---
 
 

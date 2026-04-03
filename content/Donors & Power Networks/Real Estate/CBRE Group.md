@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Real Estate"
+entity-type: "Corporation"
+issues:
+  - "Housing"
 ---
 
 #cbre #real-estate #commercial #brokerage #lobbying #1031-exchange

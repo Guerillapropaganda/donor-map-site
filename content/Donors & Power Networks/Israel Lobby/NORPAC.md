@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+sector: "Israel Lobby"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Jamaal Bowman"
 ---
 
 #norpac #israel-lobby #pro-israel #pac #bundling #new-jersey #bipartisan #dinner-fundraiser #follow-the-money

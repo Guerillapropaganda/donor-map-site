@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+chamber: "International"
+issues:
+  - "Israel & Foreign Policy"
+top-donors:
+  - "Miriam Adelson"
+  - "Haim Saban"
+  - "AIPAC - American Israel Public Affairs Committee"
 ---
 
 #master-profile #netanyahu #israel #prime-minister #likud #class-analysis #follow-the-money #settlements #adelson #corruption #aipac #surveillance #defense-industry #international

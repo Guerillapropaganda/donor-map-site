@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "North Carolina"
+state-abbr: "NC"
+top-donors:
+  - "Blue Cross Blue Shield Association"
+  - "Anthem PAC"
+  - "Centene Corporation PAC"
+  - "UnitedHealth Group PAC"
 ---
 
 #politician #democrat #senate #north-carolina #2026-candidate

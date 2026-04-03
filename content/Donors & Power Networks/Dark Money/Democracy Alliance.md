@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 2
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Tom Steyer"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor-consortium #dark-money #democrat #secretive-giving #class-analysis #donor

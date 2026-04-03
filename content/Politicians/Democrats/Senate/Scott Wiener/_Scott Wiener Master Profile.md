@@ -5,6 +5,13 @@ content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "California"
+state-abbr: "CA"
+issues:
+  - "Housing"
+  - "Technology"
 ---
 
 #politician #democrat #california #state-senate #housing #yimby #tech #lgbtq #class-analysis #follow-the-money

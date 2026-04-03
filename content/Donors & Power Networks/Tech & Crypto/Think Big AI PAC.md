@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "PAC"
+issues:
+  - "Technology"
 ---
 
 #think-big-ai #super-pac #tech #ai #lobbying #regulation #silicon-valley

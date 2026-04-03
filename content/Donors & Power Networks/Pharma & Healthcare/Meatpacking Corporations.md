@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Pharma & Healthcare"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+issues:
+  - "Labor & Workers"
+  - "Antitrust & Monopoly"
+  - "Immigration"
 ---
 
 #meatpacking #tyson #jbs #cargill #smithfield #labor #osha #antitrust #immigration #child-labor #covid #concentration #class-analysis #follow-the-money

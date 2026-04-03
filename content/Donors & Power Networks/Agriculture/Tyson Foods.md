@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Agriculture"
+entity-type: "Corporation"
+politicians-funded:
+  - "John Boozman"
+issues:
+  - "Agriculture"
+  - "Labor & Workers"
+  - "Immigration"
 ---
 
 #tyson #agriculture #poultry #meatpacking #labor #arkansas #immigration

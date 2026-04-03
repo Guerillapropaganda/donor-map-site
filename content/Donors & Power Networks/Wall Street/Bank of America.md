@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
+politicians-funded:
+  - "French Hill"
+  - "Tim Scott"
+issues:
+  - "Wall Street & Finance"
 ---
 
 #bank-of-america #wall-street #banking #too-big-to-fail #consumer-finance #lobbying #mortgage

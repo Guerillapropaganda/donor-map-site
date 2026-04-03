@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
+politicians-funded:
+  - "Gavin Newsom"
+issues:
+  - "Wall Street & Finance"
 ---
 
 #calpers #pension #california #public-employees #wall-street #private-equity #investment #lobbying #placement-agents #corruption #class-analysis #follow-the-money

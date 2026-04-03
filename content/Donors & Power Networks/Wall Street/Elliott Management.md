@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+  - "Marco Rubio"
+  - "Tom Cotton"
+  - "Ted Cruz"
+  - "Lindsey Graham"
+  - "Samuel Alito"
+issues:
+  - "Energy & Climate"
+  - "Israel & Foreign Policy"
 ---
 
 #hedge-fund #paul-singer #republican #national-security #war-hawk #fossil-fuel #israel #neoconservative #scotus #activist-investor #class-analysis #follow-the-money

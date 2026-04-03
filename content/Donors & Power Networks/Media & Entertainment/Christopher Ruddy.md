@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Media & Entertainment"
+entity-type: "Individual Donor"
 ---
 
 #newsmax #trump-media #right-wing-media #trump-confidant #media-proprietor

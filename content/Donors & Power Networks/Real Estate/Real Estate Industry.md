@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Real Estate"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Jared Kushner"
+issues:
+  - "Housing"
 ---
 
 #real-estate #nar #housing #1031-exchange #rent #zoning #bipartisan

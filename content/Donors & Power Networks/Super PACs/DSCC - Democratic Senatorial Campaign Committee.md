@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+politicians-funded:
+  - "Chuck Schumer"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #dscc #senate #democratic #campaign-committee #fundraising #gatekeeper #dark-money #class-analysis

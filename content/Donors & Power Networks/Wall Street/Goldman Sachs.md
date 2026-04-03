@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+  - "Gavin Newsom"
+issues:
+  - "Wall Street & Finance"
 ---
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor

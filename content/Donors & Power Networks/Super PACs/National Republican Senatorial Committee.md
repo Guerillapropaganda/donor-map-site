@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+politicians-funded:
+  - "Rick Scott"
 ---
 
 #nrsc #senate #republican #campaign #fundraising #party-committee #class-analysis #follow-the-money

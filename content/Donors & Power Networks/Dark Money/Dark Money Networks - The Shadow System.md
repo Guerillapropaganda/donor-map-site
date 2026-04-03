@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Story"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #dark-money #501c4 #shadow-system #citizens-united #anonymous #bipartisan

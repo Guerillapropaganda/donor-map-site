@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Kentucky"
+state-abbr: "KY"
+leadership-roles:
+  - "Minority Leader"
+issues:
+  - "Dark Money & Campaign Finance"
+top-donors:
+  - "Koch Network - Charles Koch"
+  - "Leonard Leo"
+  - "Timothy Mellon"
 ---
 
 

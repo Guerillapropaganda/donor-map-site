@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Bernie Sanders"
+  - "Alexandria Ocasio-Cortez"
+issues:
+  - "Infrastructure"
 ---
 
 #actblue #small-dollar #democratic #grassroots #online #platform #conduit #infrastructure #winred

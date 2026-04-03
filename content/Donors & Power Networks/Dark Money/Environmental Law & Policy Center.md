@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
 ---
 
 #environmental-advocacy #clean-energy #midwest #litigation #nonprofit

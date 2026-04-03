@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Labor Unions"
+entity-type: "Individual Donor"
+issues:
+  - "Labor & Workers"
 ---
 
 #afl-cio #labor #unions #federation #democratic #organizing #wages #pro-act #class-analysis #follow-the-money

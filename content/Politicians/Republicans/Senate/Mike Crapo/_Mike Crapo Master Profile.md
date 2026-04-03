@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Idaho"
+state-abbr: "ID"
+committees:
+  - "Finance"
+top-donors:
+  - "Koch Network - Charles Koch"
 ---
 
 

@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Texas"
+state-abbr: "TX"
+district: "21"
+committees:
+  - "Judiciary"
 ---
 
 #roy #texas #freedom-caucus #spending #border #libertarian #cruz-ally #rules-committee #judiciary #club-for-growth

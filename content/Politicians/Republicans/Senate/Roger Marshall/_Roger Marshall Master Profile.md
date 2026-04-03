@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Kansas"
+state-abbr: "KS"
+committees:
+  - "Agriculture"
+issues:
+  - "Agriculture"
+  - "Healthcare"
 ---
 
 #politician #republican #senate #kansas #agriculture #healthcare #pharma #covid #class-analysis #follow-the-money #gavel-power

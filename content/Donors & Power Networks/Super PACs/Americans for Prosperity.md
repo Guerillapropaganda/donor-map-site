@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+politicians-funded:
+  - "Nikki Haley"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor-node #koch-network #dark-money #super-pac #501c4 #astroturf #state-capture #class-analysis #follow-the-money

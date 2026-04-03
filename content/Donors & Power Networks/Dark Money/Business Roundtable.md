@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+issues:
+  - "Labor & Workers"
 ---
 
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor

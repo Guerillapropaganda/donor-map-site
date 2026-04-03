@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
+politicians-funded:
+  - "Glenn Youngkin"
+issues:
+  - "Wall Street & Finance"
+  - "Defense & Military"
 ---
 
 #carlyle-group #private-equity #wall-street #defense #revolving-door #bipartisan #carried-interest #lobbying

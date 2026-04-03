@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Alabama"
+state-abbr: "AL"
+district: "3"
+committees:
+  - "Armed Services"
+issues:
+  - "Defense & Military"
+top-donors:
+  - "Lockheed Martin"
+  - "Boeing"
 ---
 
 

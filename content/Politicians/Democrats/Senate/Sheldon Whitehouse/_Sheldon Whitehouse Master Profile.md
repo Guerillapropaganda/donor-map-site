@@ -5,6 +5,23 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Rhode Island"
+state-abbr: "RI"
+committees:
+  - "Environment & Public Works"
+issues:
+  - "Dark Money & Campaign Finance"
+  - "Environment"
+top-donors:
+  - "Trial Lawyers Fund"
+  - "Environmental Law & Policy Center"
+  - "Ocean Conservancy"
+  - "Demand Justice"
+  - "Brady Campaign"
+  - "League of Conservation Voters"
+  - "AIPAC - American Israel Public Affairs Committee"
 ---
 
 #master-profile #democrat #senate #rhode-island #dark-money #court-reform #judicial-capture #environment #trial-lawyers #pro-israel

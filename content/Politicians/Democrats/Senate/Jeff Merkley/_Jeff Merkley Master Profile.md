@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Oregon"
+state-abbr: "OR"
+committees:
+  - "Budget"
+  - "Environment & Public Works"
+issues:
+  - "Housing"
+  - "Environment"
+top-donors:
+  - "Labor Unions"
+  - "Small Dollar Donors"
 ---
 
 

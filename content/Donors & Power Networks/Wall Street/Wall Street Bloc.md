@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Individual Donor"
+issues:
+  - "Wall Street & Finance"
 ---
 
 #wall-street #bloc #banking #finance #bipartisan #revolving-door

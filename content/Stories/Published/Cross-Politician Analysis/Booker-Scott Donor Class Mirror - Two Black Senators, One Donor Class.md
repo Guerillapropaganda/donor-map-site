@@ -5,6 +5,11 @@ content-readiness: draft
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
+issues:
+  - "Wall Street & Finance"
+  - "Healthcare"
+  - "Israel & Foreign Policy"
+  - "Criminal Justice"
 ---
 
 

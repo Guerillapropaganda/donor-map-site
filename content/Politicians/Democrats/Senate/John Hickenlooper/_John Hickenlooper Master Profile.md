@@ -5,6 +5,17 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Colorado"
+state-abbr: "CO"
+issues:
+  - "Energy & Climate"
+  - "Technology"
+top-donors:
+  - "Fossil Fuel Bloc"
+  - "American Petroleum Institute"
+  - "Brownstein Hyatt Farber Schreck"
 ---
 
 #politician #democrat #senate #colorado #oil-gas #fracking #tech #brewery #moderate #follow-the-money #class-analysis #2026-election

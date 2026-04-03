@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Jim Jordan"
+  - "Chip Roy"
+  - "Andy Harris"
+  - "Scott Perry"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #freedom-caucus #house #republican #maga #obstruction #koch #tea-party #right-flank #dark-money #small-dollar #club-for-growth #heritage-action

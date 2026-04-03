@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Michigan"
+state-abbr: "MI"
+district: "12"
+committees:
+  - "Oversight & Reform"
 ---
 
 #tlaib #michigan #progressive #squad #palestine #oversight #dearborn #detroit #dsa #small-dollar #censure #environmental-justice

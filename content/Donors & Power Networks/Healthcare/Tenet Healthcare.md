@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+sector: "Healthcare"
+entity-type: "Corporation"
+issues:
+  - "Healthcare"
+  - "Social Safety Net"
 ---
 
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory

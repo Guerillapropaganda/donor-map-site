@@ -5,6 +5,20 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Virginia"
+state-abbr: "VA"
+district: "3"
+committees:
+  - "Education & Labor"
+leadership-roles:
+  - "Ranking Member"
+issues:
+  - "Education"
+  - "Labor & Workers"
+top-donors:
+  - "SEIU"
 ---
 
 

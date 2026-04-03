@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Florida"
+state-abbr: "FL"
+district: "28"
+committees:
+  - "Transportation & Infrastructure"
+issues:
+  - "Housing"
+  - "Defense & Military"
+top-donors:
+  - "MasTec - Mas Canosa Family"
+  - "Fanjul Family - Florida Crystals"
 ---
 
 #politician #republican #house #florida #cuba #miami #real-estate #defense #class-analysis #follow-the-money #crowley #transportation

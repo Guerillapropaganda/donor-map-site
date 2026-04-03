@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #koch #network #dark-money #libertarian #deregulation #afp

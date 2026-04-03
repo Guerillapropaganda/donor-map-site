@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+issues:
+  - "Wall Street & Finance"
+  - "Technology"
+  - "Labor & Workers"
+  - "Dark Money & Campaign Finance"
 ---
 
 #democratic #donor-network #bundling #wall-street #hollywood #tech #labor #dark-money #super-pac #class-analysis #follow-the-money

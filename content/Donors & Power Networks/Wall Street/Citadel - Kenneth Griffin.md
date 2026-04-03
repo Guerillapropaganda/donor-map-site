@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+issues:
+  - "Wall Street & Finance"
 ---
 
 #citadel #kenneth-griffin #hedge-fund #wall-street #mega-donor #market-making #florida #payment-for-order-flow #pfof #deregulation #class-analysis #follow-the-money

@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+district: "8"
+top-donors:
+  - "Think Big AI PAC"
+  - "AIPAC"
 ---
 
 #democrat #politician #house

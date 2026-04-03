@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Defense & Intelligence"
+entity-type: "Individual Donor"
+issues:
+  - "Defense & Military"
 ---
 
 #defense #industry-bloc #lobbying #military-industrial-complex #pentagon #ndaa #contractors

@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Barack Obama"
+  - "Joe Biden"
+  - "Hillary Clinton"
 ---
 
 #hollywood #entertainment #donors #democratic #bundling #cultural-influence #israel-lobby #revolving-door #copyright #mpaa

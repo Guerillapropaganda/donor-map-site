@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Restaurant & Food"
+entity-type: "Individual Donor"
+issues:
+  - "Labor & Workers"
 ---
 
 #nra-restaurants #food #labor #minimum-wage #tipped-workers #lobbying

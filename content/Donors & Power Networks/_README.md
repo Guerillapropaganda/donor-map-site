@@ -5,6 +5,7 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: null
 parent: null
+sector: "_README.md"
 ---
 
 ### Donors & Power Networks/

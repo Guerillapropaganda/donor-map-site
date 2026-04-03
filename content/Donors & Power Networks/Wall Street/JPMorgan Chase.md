@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
+politicians-funded:
+  - "Chuck Schumer"
+  - "French Hill"
+issues:
+  - "Wall Street & Finance"
 ---
 
 #jpmorgan #wall-street #banking #too-big-to-fail #lobbying #derivatives #consumer-finance

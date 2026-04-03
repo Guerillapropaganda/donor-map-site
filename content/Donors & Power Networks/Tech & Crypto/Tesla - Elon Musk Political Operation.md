@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Corporation"
 ---
 
 #tesla #musk #ev #doge #government #twitter #space #deregulation

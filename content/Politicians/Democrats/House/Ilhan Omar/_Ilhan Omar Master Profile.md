@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Minnesota"
+state-abbr: "MN"
+district: "5"
+committees:
+  - "Foreign Affairs"
+  - "Budget"
+  - "Education & Labor"
+issues:
+  - "Israel & Foreign Policy"
+  - "Education"
 ---
 
 #omar #minnesota #progressive #squad #foreign-affairs #israel #somalia #refugee #budget #education

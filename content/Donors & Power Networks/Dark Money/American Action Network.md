@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+issues:
+  - "Dark Money & Campaign Finance"
+  - "Healthcare"
+  - "Tax Policy"
 ---
 
 #aan #dark-money #republican #501c4 #lobbying #healthcare #tax #class-analysis #follow-the-money #house-republicans #pharma #corporate-dark-money

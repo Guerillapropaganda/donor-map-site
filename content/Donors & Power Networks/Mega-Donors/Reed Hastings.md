@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
 ---
 
 #reed-hastings #netflix #charter-school #education-reform #mega-donor #democratic #Hastings Fund

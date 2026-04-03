@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "JD Vance"
+  - "David Sacks"
+issues:
+  - "Technology"
+  - "Defense & Military"
 ---
 
 #narya-capital #jd-vance #venture-capital #thiel #tech #ohio #appalachia #defense #carried-interest #conflict-of-interest

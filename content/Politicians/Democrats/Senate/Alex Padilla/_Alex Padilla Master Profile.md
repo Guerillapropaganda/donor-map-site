@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "California"
+state-abbr: "CA"
+leadership-roles:
+  - "Ranking Member"
+issues:
+  - "Voting Rights"
+  - "Immigration"
 ---
 
 

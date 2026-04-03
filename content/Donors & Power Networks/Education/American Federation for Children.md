@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Education"
+entity-type: "Individual Donor"
+issues:
+  - "Education"
+  - "Dark Money & Campaign Finance"
 ---
 
 

@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+politicians-funded:
+  - "Hakeem Jeffries"
+  - "Nancy Pelosi"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor-node #super-pac #democratic #house #leadership-pac #dark-money #house-majority-forward #donor

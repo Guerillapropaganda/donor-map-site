@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+district: "8"
+committees:
+  - "Finance"
+top-donors:
+  - "Tobacco Industry/Reynolds American"
+  - "Altria - Philip Morris"
+  - "Koch Network"
+  - "Goldman Sachs"
+  - "JPMorgan Chase"
+  - "Real Estate/Commercial Property"
 ---
 
 #john-boehner #speaker-of-house #tobacco #cannabis #revolving-door #koch-network #finance #class-analysis

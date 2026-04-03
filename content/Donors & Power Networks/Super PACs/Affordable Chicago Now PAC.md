@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+issues:
+  - "Israel & Foreign Policy"
+  - "Dark Money & Campaign Finance"
 ---
 
 #affordable-chicago-now-pac #AIPAC #shell-pac #Israel-lobby #2024-Illinois-House #messaging-frame #dark-money

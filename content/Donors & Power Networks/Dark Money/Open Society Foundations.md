@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 2
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Gavin Newsom"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor #donor-node #dark-money #soros #progressive #democracy-infrastructure #international #criminal-justice-reform

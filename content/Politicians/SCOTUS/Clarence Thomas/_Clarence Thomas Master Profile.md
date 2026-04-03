@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+chamber: "SCOTUS"
+top-donors:
+  - "Harlan Crow"
+  - "Koch Network - Charles Koch"
+  - "Leonard Leo"
 ---
 
 

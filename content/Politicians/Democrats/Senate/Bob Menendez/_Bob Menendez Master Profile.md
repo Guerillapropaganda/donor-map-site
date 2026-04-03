@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "New Jersey"
+state-abbr: "NJ"
+committees:
+  - "Foreign Relations"
+top-donors:
+  - "AIPAC"
 ---
 
 #politician #democrat #senate #new-jersey #cuba #corruption #foreign-relations #egypt #class-analysis #follow-the-money #bribery #gold-bars

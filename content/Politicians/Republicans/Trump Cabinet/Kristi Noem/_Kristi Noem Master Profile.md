@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+state: "South Dakota"
+state-abbr: "SD"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #politician #republican #trump-cabinet #dhs #south-dakota #governor #corruption #no-bid-contracts #dark-money #follow-the-money #class-analysis #fired

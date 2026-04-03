@@ -5,6 +5,17 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+district: "1"
+committees:
+  - "Finance"
+top-donors:
+  - "Koch Network"
+  - "Goldman Sachs"
+  - "JPMorgan Chase"
+  - "Northwestern Mutual"
+  - "Fox News"
 ---
 
 #paul-ryan #speaker-of-house #tax-cuts-jobs-act #deficit-hawk #koch-network #fox-corporation #finance #class-analysis

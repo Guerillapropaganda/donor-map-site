@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Governor"
+top-donors:
+  - "PORAC - Peace Officers Research Association of California"
+  - "CCPOA - California Correctional Peace Officers Association"
 ---
 
 

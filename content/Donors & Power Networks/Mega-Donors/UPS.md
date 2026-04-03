@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Corporation"
+issues:
+  - "Labor & Workers"
+  - "Trade"
 ---
 
 #ups #logistics #shipping #teamsters #labor #bipartisan #trade #postal #transportation #revolving-door #class-analysis #follow-the-money

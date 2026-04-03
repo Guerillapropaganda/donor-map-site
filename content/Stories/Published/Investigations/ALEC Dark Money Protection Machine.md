@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #investigation #alec #dark-money #state-legislature #model-legislation #corporate-front-group

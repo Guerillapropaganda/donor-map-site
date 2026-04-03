@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Energy & Utilities"
+entity-type: "Corporation"
+issues:
+  - "Energy & Climate"
+  - "Dark Money & Campaign Finance"
+  - "Environment"
+  - "Labor & Workers"
 ---
 
 #koch-industries #energy #oil-gas #refining #lobbying #dark-money #deregulation #epa #climate #labor #class-analysis #follow-the-money #tcja #clean-power-plan

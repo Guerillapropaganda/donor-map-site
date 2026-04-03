@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Corporation"
+politicians-funded:
+  - "Donald Trump"
+  - "David Sacks"
+  - "JD Vance"
+  - "Jared Kushner"
+  - "Katie Porter"
+  - "Elizabeth Warren"
+  - "Howard Lutnick"
+issues:
+  - "Technology"
 ---
 
 

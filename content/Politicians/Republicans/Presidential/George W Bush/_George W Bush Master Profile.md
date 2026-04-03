@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Presidential"
 ---
 
 #politician #republican #president #2001-2009 #bush-administration #iraq-war #texas-governor

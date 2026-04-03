@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor #dark-money #judicial-capture #leonard-leo #conservative #mega-donation #federalist-society

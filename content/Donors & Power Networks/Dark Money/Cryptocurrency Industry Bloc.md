@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "PAC"
+issues:
+  - "Technology"
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor-node #super-pac #crypto #fairshake #dark-money #policy-purchasing #deregulation

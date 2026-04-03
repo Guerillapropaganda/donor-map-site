@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "New York"
+state-abbr: "NY"
+leadership-roles:
+  - "Majority Leader"
+issues:
+  - "Wall Street & Finance"
+  - "Israel & Foreign Policy"
+  - "Dark Money & Campaign Finance"
+top-donors:
+  - "Goldman Sachs"
+  - "AIPAC - American Israel Public Affairs Committee"
 ---
 
 

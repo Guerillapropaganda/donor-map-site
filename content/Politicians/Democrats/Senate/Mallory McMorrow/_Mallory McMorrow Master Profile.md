@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Michigan"
+state-abbr: "MI"
+top-donors:
+  - "National Progressive Donor Networks"
 ---
 
 

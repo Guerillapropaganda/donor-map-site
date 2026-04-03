@@ -5,6 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+sector: "Real Estate"
+entity-type: "Corporation"
+issues:
+  - "Housing"
 ---
 
 #donor #real-estate #housing #trade-association #multifamily #bipartisan #lobbying #class-analysis #follow-the-money

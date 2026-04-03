@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "North Dakota"
+state-abbr: "ND"
+committees:
+  - "Agriculture"
+  - "Appropriations"
+issues:
+  - "Energy & Climate"
+  - "Agriculture"
 ---
 
 #politician #republican #senate #north-dakota #energy #oil-gas #agriculture #appropriations #pipeline #class-analysis #follow-the-money #gavel-power

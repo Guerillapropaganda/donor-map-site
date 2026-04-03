@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "David Sacks"
+  - "JD Vance"
+  - "Donald Trump"
+issues:
+  - "Technology"
 ---
 
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast

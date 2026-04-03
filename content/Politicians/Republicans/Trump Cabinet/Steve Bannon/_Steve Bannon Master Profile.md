@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+top-donors:
+  - "Robert Mercer"
+  - "Rebekah Mercer"
 ---
 
 

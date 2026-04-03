@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
 ---
 
 #sentinel-action-fund #super-pac #heritage-foundation #republican #mega-donor #judicial #2022-midterms

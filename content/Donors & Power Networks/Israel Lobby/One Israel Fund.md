@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Israel Lobby"
+entity-type: "Individual Donor"
 ---
 
 #one-israel-fund #settlement-funding #us-nonprofit #west-bank #far-right-israel

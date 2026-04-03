@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+issues:
+  - "Labor & Workers"
+  - "Education"
 ---
 
 #ohio #teachers #union #labor #education #democratic #oft #aft #afl-cio #vouchers #public-education #collective-bargaining

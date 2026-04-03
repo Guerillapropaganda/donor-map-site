@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+state: "New York"
+state-abbr: "NY"
+committees:
+  - "Education & Labor"
+issues:
+  - "Education"
+  - "Israel & Foreign Policy"
+  - "Defense & Military"
 ---
 
 #stefanik #new-york #conference-chair #trump #un-ambassador #ideological-transformation #education #antisemitism #aipac #harvard #fort-drum #defense

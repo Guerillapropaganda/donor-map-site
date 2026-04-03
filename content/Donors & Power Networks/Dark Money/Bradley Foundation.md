@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+issues:
+  - "Dark Money & Campaign Finance"
+  - "Energy & Climate"
+  - "Infrastructure"
 ---
 
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure

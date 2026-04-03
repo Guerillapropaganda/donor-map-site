@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Delaware"
+state-abbr: "DE"
+issues:
+  - "Healthcare"
+  - "Israel & Foreign Policy"
+top-donors:
+  - "PhRMA"
 ---
 
 

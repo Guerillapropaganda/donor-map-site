@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Neil Gorsuch"
+  - "Amy Coney Barrett"
+  - "Brett Kavanaugh"
+  - "Sheldon Whitehouse"
+  - "Clarence Thomas"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor #judicial-crisis-network #concord-fund #leonard-leo #scotus #dark-money #judicial-confirmations #class-analysis #follow-the-money #barre-seid #marble-freedom-trust #honest-elections-project #raga

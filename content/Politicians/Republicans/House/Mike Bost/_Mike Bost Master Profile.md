@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Illinois"
+state-abbr: "IL"
+district: "12"
+committees:
+  - "Veterans' Affairs"
 ---
 
 

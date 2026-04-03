@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
 ---
 
 #donor-node #super-pac #republican #primary-enforcement #anti-tax #fiscal-conservative #class-analysis #follow-the-money #mega-donor

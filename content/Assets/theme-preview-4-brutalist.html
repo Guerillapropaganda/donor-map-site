@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Theme Preview — Brutalist Exposé</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Libre+Baskerville:wght@400;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --bg-primary: #111;
+    --bg-secondary: #181818;
+    --bg-sidebar: #0c0c0c;
+    --bg-card: #1a1a1a;
+    --text-primary: #f0f0f0;
+    --text-secondary: #b0b0b0;
+    --text-muted: #666;
+    --red: #ff3333;
+    --red-dim: rgba(255, 51, 51, 0.1);
+    --white: #fff;
+    --green: #00cc66;
+    --yellow: #ffcc00;
+    --border: #2a2a2a;
+    --border-heavy: #444;
+  }
+
+  body {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'DM Sans', -apple-system, sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    display: flex;
+    min-height: 100vh;
+  }
+
+  .theme-label {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+    background: var(--red);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  .sidebar {
+    width: 280px;
+    min-height: 100vh;
+    background: var(--bg-sidebar);
+    border-right: 2px solid var(--red);
+    padding: 56px 0 30px;
+    flex-shrink: 0;
+  }
+  .sidebar-header {
+    padding: 24px 20px;
+    border-bottom: 1px solid var(--border);
+  }
+  .sidebar-title {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--red);
+    letter-spacing: -0.5px;
+  }
+  .sidebar-subtitle {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: var(--text-muted);
+    margin-top: 4px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+  .sidebar-section {
+    padding: 20px 20px 8px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--text-muted);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+  .sidebar-link {
+    display: block;
+    padding: 8px 20px;
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.1s;
+    border-left: 3px solid transparent;
+  }
+  .sidebar-link:hover {
+    color: var(--white);
+    background: rgba(255, 51, 51, 0.05);
+    border-left-color: var(--red);
+  }
+  .sidebar-link.active {
+    color: var(--white);
+    background: var(--red-dim);
+    border-left-color: var(--red);
+    font-weight: 700;
+  }
+  .sidebar-link .amount {
+    float: right;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--green);
+    font-weight: 600;
+  }
+
+  .main {
+    flex: 1;
+    padding: 56px 60px 80px;
+    max-width: 880px;
+  }
+
+  .breadcrumb {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-bottom: 32px;
+    letter-spacing: 1px;
+  }
+  .breadcrumb span { color: var(--red); margin: 0 6px; }
+
+  h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--white);
+    line-height: 1.1;
+    margin-bottom: 8px;
+  }
+
+  .subtitle {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 14px;
+    color: var(--red);
+    font-weight: 600;
+    margin-bottom: 32px;
+    letter-spacing: 1px;
+  }
+
+  .divider {
+    height: 3px;
+    background: var(--red);
+    margin: 0 0 32px;
+    width: 80px;
+  }
+
+  h2 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: var(--white);
+    margin: 48px 0 16px;
+  }
+
+  h3 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--red);
+    margin: 32px 0 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  p { margin-bottom: 20px; color: var(--text-secondary); }
+
+  a { color: var(--red); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .wikilink {
+    color: var(--red);
+    font-weight: 700;
+    border-bottom: 2px solid var(--red);
+    cursor: pointer;
+  }
+
+  /* Pull quote */
+  .pull-quote {
+    border-left: 4px solid var(--red);
+    padding: 24px 32px;
+    margin: 32px 0;
+    background: var(--bg-card);
+  }
+  .pull-quote p {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 20px;
+    color: var(--text-primary);
+    line-height: 1.5;
+    margin: 0;
+  }
+  .pull-quote .attribution {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--text-muted);
+    margin-top: 12px;
+    display: block;
+  }
+
+  .callout {
+    background: var(--bg-card);
+    border: 2px solid var(--border-heavy);
+    border-left: 4px solid var(--yellow);
+    padding: 20px 24px;
+    margin: 24px 0;
+  }
+  .callout.red { border-left-color: var(--red); background: var(--red-dim); }
+  .callout-title {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--yellow);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .callout.red .callout-title { color: var(--red); }
+  .callout p { margin-bottom: 0; font-size: 15px; }
+
+  .money {
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--green);
+    font-weight: 600;
+    font-size: 15px;
+  }
+
+  /* Big number callout */
+  .big-number {
+    text-align: center;
+    padding: 40px;
+    margin: 32px 0;
+    background: var(--bg-card);
+    border: 2px solid var(--border);
+  }
+  .big-number .number {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 64px;
+    font-weight: 600;
+    color: var(--green);
+    line-height: 1;
+  }
+  .big-number .label {
+    font-size: 14px;
+    color: var(--text-muted);
+    margin-top: 12px;
+    letter-spacing: 1px;
+  }
+
+  .tags { margin: 24px 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  .tag-pill {
+    background: transparent;
+    color: var(--text-muted);
+    padding: 4px 14px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    border: 1px solid var(--border);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 24px 0;
+    font-size: 14px;
+    border: 2px solid var(--border);
+  }
+  th {
+    text-align: left;
+    padding: 12px 16px;
+    background: var(--bg-card);
+    color: var(--text-muted);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-bottom: 2px solid var(--red);
+  }
+  td {
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--border);
+    color: var(--text-secondary);
+  }
+  tr:hover td { background: rgba(255, 51, 51, 0.03); }
+
+  .embed-frame {
+    background: var(--bg-card);
+    border: 2px solid var(--border);
+    padding: 36px;
+    margin: 28px 0;
+    text-align: center;
+  }
+  .embed-frame:hover { border-color: var(--red); }
+  .embed-frame .icon { font-size: 32px; margin-bottom: 12px; }
+  .embed-frame .label { font-size: 14px; color: var(--text-muted); margin-bottom: 16px; }
+  .embed-btn {
+    display: inline-block;
+    background: var(--red);
+    color: white;
+    padding: 12px 32px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .embed-btn:hover { background: #ff4d4d; color: white; text-decoration: none; }
+
+  .sources {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 2px solid var(--border);
+  }
+  .sources h3 { color: var(--text-muted); }
+  .source-item {
+    font-size: 12px;
+    color: var(--text-muted);
+    padding: 6px 0;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+  .source-item a { color: var(--red); font-size: 11px; }
+</style>
+</head>
+<body>
+<div class="theme-label">Theme 4 — Brutalist Exposé</div>
+
+<nav class="sidebar">
+  <div class="sidebar-header">
+    <div class="sidebar-title">DONOR MAP_</div>
+    <div class="sidebar-subtitle">Follow the Money</div>
+  </div>
+
+  <div class="sidebar-section">Politicians</div>
+  <a class="sidebar-link active" href="#">Nancy Pelosi <span class="amount">$14.2M</span></a>
+  <a class="sidebar-link" href="#">Mitch McConnell <span class="amount">$11.8M</span></a>
+  <a class="sidebar-link" href="#">Ted Cruz <span class="amount">$9.4M</span></a>
+  <a class="sidebar-link" href="#">Chuck Schumer <span class="amount">$8.7M</span></a>
+  <a class="sidebar-link" href="#">Donald Trump <span class="amount">$7.2M</span></a>
+
+  <div class="sidebar-section">Donors</div>
+  <a class="sidebar-link" href="#">Goldman Sachs</a>
+  <a class="sidebar-link" href="#">AIPAC</a>
+  <a class="sidebar-link" href="#">Koch Network</a>
+  <a class="sidebar-link" href="#">Lockheed Martin</a>
+
+  <div class="sidebar-section">Contradictions</div>
+  <a class="sidebar-link" href="#">Drug Pricing Theater</a>
+  <a class="sidebar-link" href="#">Defense Budget Bloat</a>
+  <a class="sidebar-link" href="#">Carried Interest Scam</a>
+
+  <div class="sidebar-section">Tools</div>
+  <a class="sidebar-link" href="#">Money Flow →</a>
+  <a class="sidebar-link" href="#">ROI Calculator →</a>
+  <a class="sidebar-link" href="#">Both-Sides Machine →</a>
+</nav>
+
+<main class="main">
+  <div class="breadcrumb">POLITICIANS <span>→</span> DEMOCRATS <span>→</span> PELOSI</div>
+
+  <h1>Nancy Pelosi</h1>
+  <div class="subtitle">U.S. REPRESENTATIVE — CALIFORNIA'S 11TH</div>
+  <div class="divider"></div>
+
+  <div class="big-number">
+    <div class="number">$14.2M</div>
+    <div class="label">Total donor money tracked in this profile</div>
+  </div>
+
+  <h2>The Pipeline</h2>
+  <p>Nancy Pelosi represents one of the most documented cases of the donor-to-policy pipeline in the vault. Her financial relationships span defense, pharmaceutical, technology, and financial sectors — each with traceable policy outcomes.</p>
+
+  <div class="pull-quote">
+    <p>She took $740K from pharma while blocking the bill that would have saved Americans billions on prescriptions.</p>
+    <span class="attribution">— Donor Map analysis, based on FEC + policy voting records</span>
+  </div>
+
+  <h3>Top Donor Relationships</h3>
+  <table>
+    <thead>
+      <tr><th>Donor</th><th>Amount</th><th>Sector</th><th>What They Got</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><span class="wikilink">Goldman Sachs</span></td><td class="money">$1.2M</td><td>Finance</td><td>Carried Interest loophole preserved</td></tr>
+      <tr><td><span class="wikilink">AIPAC</span></td><td class="money">$890K</td><td>Israel</td><td>$3.8B annual aid co-sponsored</td></tr>
+      <tr><td><span class="wikilink">PhRMA</span></td><td class="money">$740K</td><td>Pharma</td><td>Medicare negotiation delayed 4 years</td></tr>
+      <tr><td><span class="wikilink">Lockheed Martin</span></td><td class="money">$520K</td><td>Defense</td><td>F-35 program expansion vote</td></tr>
+    </tbody>
+  </table>
+
+  <div class="tags">
+    <span class="tag-pill">#democrat</span>
+    <span class="tag-pill">#california</span>
+    <span class="tag-pill">#finance</span>
+    <span class="tag-pill">#pharma</span>
+    <span class="tag-pill">#defense</span>
+    <span class="tag-pill">#insider-trading</span>
+  </div>
+
+  <div class="callout red">
+    <div class="callout-title">CONTRADICTION</div>
+    <p>Publicly championed the STOCK Act to ban congressional insider trading — then quietly supported amendments that gutted its enforcement. Her husband's trading continued unabated. <span class="money">$1.25M</span> in Nvidia calls, weeks before a semiconductor subsidy vote she was involved in.</p>
+  </div>
+
+  <h2>Explore the Data</h2>
+
+  <div class="embed-frame">
+    <div class="icon">📊</div>
+    <div class="label">See where the money actually flows — donors to PACs to politicians to policy</div>
+    <button class="embed-btn">Open Money Flow →</button>
+  </div>
+
+  <div class="embed-frame">
+    <div class="icon">🔄</div>
+    <div class="label">Same donors funding both sides — the receipts</div>
+    <button class="embed-btn">Open Both-Sides Machine →</button>
+  </div>
+
+  <div class="sources">
+    <h3>SOURCES</h3>
+    <div class="source-item">[1] OpenSecrets — Pelosi fundraising profile → opensecrets.org</div>
+    <div class="source-item">[2] FEC Individual Contributions, 2020–2024 → fec.gov</div>
+    <div class="source-item">[3] House Financial Disclosures → disclosures.house.gov</div>
+    <div class="source-item">[4] Congressional Record — STOCK Act amendments → congress.gov</div>
+  </div>
+</main>
+</body>
+</html>

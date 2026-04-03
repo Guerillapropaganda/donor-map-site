@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Corporation"
+issues:
+  - "Energy & Climate"
+  - "Dark Money & Campaign Finance"
 ---
 
 #hbw-resources #lobbying #energy #fossil-fuel #astroturf #front-group #lng #consumer-energy-alliance #western-states-tribal-nations #oil-gas #influence #dark-money

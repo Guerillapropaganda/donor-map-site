@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Arkansas"
+state-abbr: "AR"
+district: "1"
+committees:
+  - "Intelligence"
+  - "Agriculture"
+leadership-roles:
+  - "Chair"
+issues:
+  - "Agriculture"
 ---
 
 

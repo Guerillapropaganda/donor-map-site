@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
 ---
 
 #insurance #financial-services #pac-donor #house-financial-services

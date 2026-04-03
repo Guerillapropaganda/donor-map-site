@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 2
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Marco Rubio"
+  - "Mario Diaz-Balart"
+issues:
+  - "Infrastructure"
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor #private-equity #infrastructure #latin-america #cuba #revolving-door #dark-money #class-analysis #follow-the-money

@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Energy & Utilities"
+entity-type: "Individual Donor"
+issues:
+  - "Dark Money & Campaign Finance"
+  - "Energy & Climate"
 ---
 
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money

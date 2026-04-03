@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+issues:
+  - "Defense & Military"
 ---
 
 #defense #bipartisan #spending #military-industrial-complex #ndaa #pentagon #lobbying

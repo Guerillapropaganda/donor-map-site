@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Gig Economy"
+entity-type: "Corporation"
+politicians-funded:
+  - "Joe Biden"
+issues:
+  - "Trade"
 ---
 
 #ford #auto #detroit #michigan #manufacturing #ev #uaw #trade

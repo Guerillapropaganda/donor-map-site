@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Florida"
+state-abbr: "FL"
+district: "26"
+committees:
+  - "Appropriations"
+issues:
+  - "Israel & Foreign Policy"
+  - "Defense & Military"
+top-donors:
+  - "Fanjul Family - Florida Crystals"
+  - "AIPAC"
 ---
 
 #politician #republican #house #florida #cuba #sugar #fanjul #appropriations #class-analysis #follow-the-money #aipac #israel #defense

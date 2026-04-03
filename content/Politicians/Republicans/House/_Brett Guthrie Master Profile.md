@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+district: "2"
+issues:
+  - "Healthcare"
+top-donors:
+  - "PhRMA"
+  - "AbbVie"
 ---
 
 #politician #republican #house #brett-guthrie #donor-pipeline #pharma

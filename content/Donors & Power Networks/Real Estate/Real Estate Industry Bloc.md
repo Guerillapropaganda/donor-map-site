@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Real Estate"
+entity-type: "Individual Donor"
+issues:
+  - "Housing"
 ---
 
 #real-estate #industry-bloc #housing #lobbying #1031-exchange #zoning #reit #landlord

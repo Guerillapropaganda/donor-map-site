@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Georgia"
+state-abbr: "GA"
+top-donors:
+  - "Tech and Media Donors"
+  - "Entertainment and Hollywood Donors"
 ---
 
 

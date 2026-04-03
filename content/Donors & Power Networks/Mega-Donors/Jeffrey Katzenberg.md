@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Joe Biden"
+  - "Kamala Harris"
+  - "Barack Obama"
 ---
 
 #donor #mega-donor #hollywood #democratic #bundler #dreamworks #wndrco #entertainment #class-analysis #follow-the-money

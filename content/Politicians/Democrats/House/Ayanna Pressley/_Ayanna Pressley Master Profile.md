@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Massachusetts"
+state-abbr: "MA"
+district: "7"
+issues:
+  - "Criminal Justice"
 ---
 
 #pressley #massachusetts #progressive #squad #financial-services #criminal-justice #boston

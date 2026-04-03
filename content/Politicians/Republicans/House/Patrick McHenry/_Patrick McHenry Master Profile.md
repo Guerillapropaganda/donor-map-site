@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "North Carolina"
+state-abbr: "NC"
+district: "10"
+issues:
+  - "Technology"
+  - "Wall Street & Finance"
+top-donors:
+  - "Securities & Investment Industry"
+  - "Kenneth Griffin"
+  - "Crypto Industry Bloc"
 ---
 
 

@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import DonorMapSidebar from "./DonorMapSidebar"
 import InteractiveGraphs from "./InteractiveGraphs"
 import LandingPage from "./LandingPage"
+import EvidencePanel from "./EvidencePanel"
 import ProfileHeader from "./ProfileHeader"
 import ProfileWidget from "./ProfileWidget"
 import RelatedProfiles from "./RelatedProfiles"
@@ -34,6 +35,7 @@ import ArticleNav from "./ArticleNav"
 
 export {
   ArticleTitle,
+  EvidencePanel,
   Content,
   TagContent,
   FolderContent,

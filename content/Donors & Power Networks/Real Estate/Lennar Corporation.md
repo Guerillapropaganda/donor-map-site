@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
+sector: "Real Estate"
+entity-type: "Corporation"
+politicians-funded:
+  - "Gavin Newsom"
+  - "Ron DeSantis"
+  - "Donald Trump"
+issues:
+  - "Housing"
+  - "Immigration"
+  - "Labor & Workers"
 ---
 
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money

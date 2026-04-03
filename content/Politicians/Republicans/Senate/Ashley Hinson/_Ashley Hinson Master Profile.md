@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Iowa"
+state-abbr: "IA"
+top-donors:
+  - "Senate Leadership Fund"
+  - "Winning for Women PAC"
 ---
 
 #politician #republican #senate #iowa #2026-candidate

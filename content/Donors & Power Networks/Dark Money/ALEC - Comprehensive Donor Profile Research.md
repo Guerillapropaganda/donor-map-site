@@ -5,6 +5,9 @@ content-readiness: draft
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Dark Money"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #alec #research-findings #donor-profile #dark-money #model-legislation

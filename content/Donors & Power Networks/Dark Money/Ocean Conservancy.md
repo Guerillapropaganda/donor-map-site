@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 2
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+issues:
+  - "Environment"
+  - "Dark Money & Campaign Finance"
 ---
 
 #ocean-conservancy #environment #nonprofit #conservation #fishing #plastics #dark-money #corporate-capture #greenwashing

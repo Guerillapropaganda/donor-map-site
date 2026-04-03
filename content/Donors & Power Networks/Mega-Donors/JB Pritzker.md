@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "JB Pritzker"
+  - "Gavin Newsom"
+  - "Gretchen Whitmer"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #jb-pritzker #illinois #hyatt #billionaire #self-funder #democratic #governor #mega-donor #dark-money #2028 #think-big-america #dga #class-analysis

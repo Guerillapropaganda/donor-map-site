@@ -5,6 +5,17 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Presidential"
+top-donors:
+  - "Elon Musk"
+  - "Peter Thiel"
+  - "Miriam Adelson"
+  - "Jeffrey Yass"
+  - "Timothy Mellon"
+  - "Richard Uihlein"
+  - "Kenneth Griffin"
+  - "Crypto Industry Bloc"
 ---
 
 

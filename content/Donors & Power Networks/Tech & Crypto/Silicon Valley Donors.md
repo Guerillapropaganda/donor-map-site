@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+  - "David Sacks"
+issues:
+  - "Technology"
 ---
 
 #silicon-valley #tech #donors #democratic #republican #realignment #deregulation #lobbying #crypto #ai #venture-capital #class-analysis #follow-the-money

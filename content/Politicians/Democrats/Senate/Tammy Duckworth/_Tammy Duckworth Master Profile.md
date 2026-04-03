@@ -5,6 +5,21 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Illinois"
+state-abbr: "IL"
+committees:
+  - "Armed Services"
+issues:
+  - "Defense & Military"
+top-donors:
+  - "Boeing"
+  - "Lockheed Martin"
+  - "General Dynamics"
+  - "Raytheon (RTX)"
+  - "AFSCME"
+  - "SEIU"
 ---
 
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion

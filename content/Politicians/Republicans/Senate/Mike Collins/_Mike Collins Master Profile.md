@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Georgia"
+state-abbr: "GA"
+issues:
+  - "Israel & Foreign Policy"
+  - "Immigration"
+top-donors:
+  - "Fairshake PAC"
+  - "AIPAC - American Israel Public Affairs Committee"
+  - "Winklevoss Twins"
+  - "Elon Musk"
+  - "Club for Growth"
 ---
 
 

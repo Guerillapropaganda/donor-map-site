@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+sector: "Defense & Intelligence"
+entity-type: "Individual Donor"
 ---
 
 #defense-contractors #military-industrial #bipartisan #ndaa #revolving-door #lobbying #class-analysis #follow-the-money

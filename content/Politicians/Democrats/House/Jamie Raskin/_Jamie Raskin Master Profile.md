@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Maryland"
+state-abbr: "MD"
+district: "8"
+committees:
+  - "Judiciary"
+leadership-roles:
+  - "Ranking Member"
 ---
 
 #jamie-raskin #democrat #maryland #house #judiciary #ranking-member #phase-6-gavel-power #january-6th #impeachment

@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
 ---
 
 #walmart #walton #retail #anti-union #minimum-wage #arkansas #bipartisan #corporate-welfare #estate-tax #school-choice #pac

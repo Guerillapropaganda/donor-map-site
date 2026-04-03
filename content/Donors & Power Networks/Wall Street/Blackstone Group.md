@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
+politicians-funded:
+  - "Donald Trump"
+  - "Chuck Schumer"
+  - "Susan Collins"
+issues:
+  - "Wall Street & Finance"
+  - "Housing"
 ---
 
 #blackstone #private-equity #schwarzman #wall-street #carried-interest #real-estate #trump #republican #revolving-door #class-analysis #follow-the-money #housing #rental #tax-avoidance #sovereign-wealth #lobbying

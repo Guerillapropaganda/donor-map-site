@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money

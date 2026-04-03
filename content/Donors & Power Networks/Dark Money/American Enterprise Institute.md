@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+issues:
+  - "Tax Policy"
+  - "Trade"
 ---
 
 #aei #think-tank #conservative #deregulation #tax #trade #neoconservative

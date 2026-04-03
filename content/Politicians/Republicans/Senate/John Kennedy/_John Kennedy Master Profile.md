@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Louisiana"
+state-abbr: "LA"
+committees:
+  - "Judiciary"
+  - "Banking"
+issues:
+  - "Energy & Climate"
+top-donors:
+  - "ExxonMobil"
+  - "Koch Industries"
+  - "ConocoPhillips"
 ---
 
 #kennedy #louisiana #judiciary #energy #petrochemical #populist-brand #folksy #banking #cfpb #cancer-alley

@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Kyrsten Sinema"
+issues:
+  - "Wall Street & Finance"
+  - "Healthcare"
+  - "Housing"
 ---
 
 #private-equity #wall-street #carried-interest #leveraged-buyout #extraction #healthcare #housing

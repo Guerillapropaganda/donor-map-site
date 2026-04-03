@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "South Dakota"
+state-abbr: "SD"
+leadership-roles:
+  - "Majority Leader"
+top-donors:
+  - "NextEra Energy"
+  - "Goldman Sachs"
+  - "Insurance Industry"
 ---
 
 

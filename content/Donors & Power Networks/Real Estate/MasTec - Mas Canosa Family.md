@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 2
 parent: null
+sector: "Real Estate"
+entity-type: "Corporation"
+politicians-funded:
+  - "Marco Rubio"
+  - "Mario Diaz-Balart"
+issues:
+  - "Infrastructure"
+  - "Housing"
 ---
 
 #donor #corporation #infrastructure #construction #cuba #exile #telecom #energy #real-estate #class-analysis #follow-the-money

@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+issues:
+  - "Energy & Climate"
 ---
 
 #investigation #contradiction #kelcy-warren #dapl #fossil-fuel #bipartisan-consensus #class-analysis

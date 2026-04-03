@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Corporation"
 ---
 
 #donor-node #koch #koch-industries #refining #chemicals #conglomerate #libertarian #deregulation #class-analysis #follow-the-money #mega-donor

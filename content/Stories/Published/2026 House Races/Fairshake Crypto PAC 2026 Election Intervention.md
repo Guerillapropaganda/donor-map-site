@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+issues:
+  - "Technology"
 ---
 
 #2026-election #crypto #super-pac #fairshake #donor-analysis

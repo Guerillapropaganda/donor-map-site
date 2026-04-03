@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Story"
+issues:
+  - "Technology"
 ---
 
 #ai #regulation #tech #donors #lobbying #safety #innovation #capture

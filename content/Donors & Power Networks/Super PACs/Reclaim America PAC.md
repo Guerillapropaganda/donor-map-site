@@ -5,6 +5,8 @@ content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
 ---
 
 #pac #leadership-pac #republican #rubio #trump #class-analysis #follow-the-money

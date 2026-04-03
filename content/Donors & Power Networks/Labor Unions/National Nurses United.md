@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Labor Unions"
+entity-type: "Individual Donor"
+issues:
+  - "Labor & Workers"
 ---
 
 #nnu #nurses-union #medicare-for-all #progressive #labor #225k-members

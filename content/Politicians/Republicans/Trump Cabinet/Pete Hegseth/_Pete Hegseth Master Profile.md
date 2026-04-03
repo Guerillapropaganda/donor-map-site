@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+top-donors:
+  - "Defense Contractors Bloc"
+  - "Concerned Veterans for America"
+  - "Koch Network"
 ---
 
 > [!warning] DUPLICATE — DO NOT EDIT

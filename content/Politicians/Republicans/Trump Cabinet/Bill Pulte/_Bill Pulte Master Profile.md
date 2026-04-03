@@ -5,6 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+issues:
+  - "Housing"
 ---
 
 #politician #republican #trump-cabinet #fhfa #housing #fannie-mae #freddie-mac #gao-probe #class-analysis #follow-the-money

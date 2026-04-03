@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Healthcare"
+entity-type: "Corporation"
+issues:
+  - "Social Safety Net"
 ---
 
 #anthem #elevance #insurance #aca #medicaid #managed-care #lobbying

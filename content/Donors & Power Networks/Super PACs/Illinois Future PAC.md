@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+politicians-funded:
+  - "JB Pritzker"
+  - "Juliana Stratton"
 ---
 
 #illinois-future-pac #pritzker #super-pac #illinois #democratic #governor

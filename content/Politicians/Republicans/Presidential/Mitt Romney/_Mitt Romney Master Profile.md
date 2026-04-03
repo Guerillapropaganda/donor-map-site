@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Presidential"
 ---
 
 #politician #republican #senator #presidential2012 #bain-capital #self-funding #private-equity

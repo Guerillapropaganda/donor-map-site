@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Texas"
+state-abbr: "TX"
+district: "12"
+committees:
+  - "Appropriations"
+issues:
+  - "Defense & Military"
+top-donors:
+  - "Lockheed Martin"
+  - "Oil & Gas PACs"
 ---
 
 

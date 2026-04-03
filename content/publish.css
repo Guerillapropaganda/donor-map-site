@@ -1,0 +1,452 @@
+/* ============================================
+   THE DONOR MAP DATABASE — PUBLISH CSS
+   publish.css
+
+   Adapted from gp-base.css + gp-callouts.css
+   for Obsidian Publish rendering.
+   ============================================ */
+
+/* ----- BODY TEXT: HIGH CONTRAST, READABLE ----- */
+.markdown-preview-view,
+.markdown-rendered,
+.publish-article-content {
+  color: #1a1a1a;
+  line-height: 1.75;
+  font-size: 15px;
+}
+
+/* ----- PAGE TITLE ----- */
+.publish-article-heading,
+.page-header {
+  color: #1a1a1a;
+  font-weight: 700;
+}
+
+/* ----- H3: MUTED RED, UPPERCASE, LIGHTWEIGHT -----
+   Section labels — small, functional, not dominant */
+.markdown-preview-view h3,
+.markdown-rendered h3,
+.publish-article-content h3 {
+  color: #b84a4a !important;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 0.12em;
+  margin-top: 2em;
+}
+
+/* ----- HORIZONTAL RULE: SUBTLE RED DIVIDER ----- */
+.markdown-preview-view hr,
+.markdown-rendered hr {
+  border: none;
+  border-top: 1px solid #4a2020;
+  margin: 2em 0;
+}
+
+/* ----- REMOVE ROUNDED CORNERS ----- */
+.callout,
+.markdown-preview-view blockquote,
+button,
+.tag,
+a.tag {
+  border-radius: 0 !important;
+}
+
+/* ----- TAG PILLS: DARK ON LIGHT ----- */
+.tag,
+a.tag {
+  background-color: #f0f0f0 !important;
+  color: #1a1a1a !important;
+  border: 1px solid #cccccc !important;
+  border-radius: 0 !important;
+  padding: 1px 6px;
+  font-size: 12px;
+}
+
+/* ----- BOLD TEXT: FULL BLACK ----- */
+.markdown-preview-view strong,
+.markdown-rendered strong {
+  color: #000000;
+  font-weight: 600;
+}
+
+/* ----- INTERNAL LINKS: WARM GOLD ----- */
+.internal-link,
+a.internal-link {
+  color: #c9a96e;
+  text-decoration: none;
+}
+
+.internal-link:hover,
+a.internal-link:hover {
+  color: #e0c488;
+  text-decoration: underline;
+}
+
+/* ----- UNRESOLVED LINKS: DIM, NOT BROKEN-LOOKING ----- */
+.is-unresolved,
+a.is-unresolved {
+  color: #999999 !important;
+  opacity: 0.7;
+  text-decoration: none !important;
+}
+
+/* ----- EXTERNAL LINKS: DIMMER WARM TONE ----- */
+.external-link,
+a.external-link {
+  color: #8a7a5a;
+}
+
+/* ----- TABLES: CLEAN, READABLE ----- */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 14px;
+}
+
+th {
+  background-color: #f5f0f0;
+  color: #1a1a1a;
+  font-weight: 600;
+  text-align: left;
+  padding: 8px 12px;
+  border-bottom: 2px solid #b84a4a;
+}
+
+td {
+  padding: 6px 12px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+tr:hover {
+  background-color: #faf8f8;
+}
+
+/* ============================================
+   CUSTOM CALLOUTS
+   ============================================ */
+
+/* ----- [!money] FOLLOW THE MONEY ----- */
+.callout[data-callout="money"] {
+  --callout-color: 180, 50, 50;
+  --callout-icon: lucide-banknote;
+  background-color: #fdf2f2;
+  border-left: 3px solid #b83232;
+  border-radius: 0;
+}
+
+.callout[data-callout="money"] .callout-title {
+  color: #b83232;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.callout[data-callout="money"] .callout-content {
+  color: #1a1a1a;
+}
+
+/* ----- [!contradiction] CONTRADICTION ----- */
+.callout[data-callout="contradiction"] {
+  --callout-color: 200, 50, 50;
+  --callout-icon: lucide-alert-triangle;
+  background-color: #fef2f0;
+  border-left: 3px solid #c83c3c;
+  border-radius: 0;
+}
+
+.callout[data-callout="contradiction"] .callout-title {
+  color: #c83c3c;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.callout[data-callout="contradiction"] .callout-content {
+  color: #1a1a1a;
+}
+
+/* ----- [!quote] ON RECORD ----- */
+.callout[data-callout="quote"] {
+  --callout-color: 120, 90, 60;
+  --callout-icon: lucide-quote;
+  background-color: #f9f6f2;
+  border-left: 3px solid #8c6446;
+  border-radius: 0;
+}
+
+.callout[data-callout="quote"] .callout-title {
+  color: #8c6446;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.callout[data-callout="quote"] .callout-content {
+  color: #333333;
+  font-style: italic;
+}
+
+/* ============================================
+   HOMEPAGE HERO BLOCK
+   ============================================ */
+
+/* Hero section — big thesis statement */
+.hero-block,
+div.hero-block {
+  padding: 2em 0 1em 0;
+  margin-bottom: 0.5em;
+}
+
+.hero-block h1,
+div.hero-block h1 {
+  font-size: 2em !important;
+  font-weight: 800 !important;
+  color: #1a1a1a !important;
+  line-height: 1.2 !important;
+  letter-spacing: -0.02em !important;
+  text-transform: none !important;
+  margin-bottom: 0.5em !important;
+}
+
+.hero-block p,
+div.hero-block p {
+  font-size: 1.1em;
+  color: #333333;
+  max-width: 640px;
+}
+
+/* Stats bar — profile count ribbon */
+.stats-bar,
+div.stats-bar {
+  text-align: center;
+  padding: 0.75em 0;
+  font-size: 13px;
+  letter-spacing: 0.05em;
+  color: #666666;
+}
+
+.stats-bar strong,
+div.stats-bar strong {
+  color: #b84a4a;
+  font-weight: 700;
+}
+
+/* ============================================
+   SUPPORT BANNER — Patreon CTA
+   ============================================ */
+
+.support-banner,
+div.support-banner {
+  background-color: #fdf8f0;
+  border: 1px solid #c9a96e;
+  border-left: 3px solid #c9a96e;
+  padding: 1.25em 1.5em;
+  margin: 1em 0;
+  text-align: center;
+}
+
+.support-banner p,
+div.support-banner p {
+  margin: 0.4em 0;
+  color: #333333;
+  font-size: 14px;
+}
+
+.support-banner a,
+div.support-banner a {
+  color: #b84a4a;
+  font-weight: 700;
+  font-size: 16px;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+.support-banner a:hover,
+div.support-banner a:hover {
+  color: #d05858;
+  text-decoration: underline;
+}
+
+/* ============================================
+   ROADMAP PREVIEW — Coming Soon sections
+   ============================================ */
+
+.roadmap-preview,
+div.roadmap-preview {
+  background-color: #fafafa;
+  border-left: 3px solid #b84a4a;
+  padding: 1.25em 1.5em;
+  margin: 1em 0;
+}
+
+.roadmap-preview p,
+div.roadmap-preview p {
+  margin: 0.6em 0;
+  font-size: 14px;
+  color: #333333;
+  line-height: 1.7;
+}
+
+.roadmap-preview em,
+div.roadmap-preview em {
+  color: #888888;
+  font-size: 13px;
+}
+
+/* ============================================
+   GRAPH VIEW STYLING
+   ============================================ */
+
+/* Graph background */
+.graph-view-container {
+  background-color: #ffffff;
+}
+
+/* Make graph panel larger and more prominent */
+.graph-view-outer {
+  min-height: 300px !important;
+}
+
+/* Graph node base — slightly larger for visibility */
+.graph-view circle {
+  r: 4 !important;
+  fill: #c9a96e !important;
+  fill-opacity: 0.85 !important;
+}
+
+/* Graph link lines — subtle warm tone */
+.graph-view .links line,
+.graph-view line {
+  stroke: #e0d8d0 !important;
+  stroke-opacity: 0.4 !important;
+  stroke-width: 0.5px !important;
+}
+
+/* Graph text labels */
+.graph-view text {
+  fill: #1a1a1a !important;
+  font-size: 10px !important;
+}
+
+/* Active/focused node — vault red */
+.graph-view .is-active circle,
+.graph-view circle.is-active {
+  fill: #b84a4a !important;
+  r: 6 !important;
+  fill-opacity: 1 !important;
+}
+
+/* Hovered node highlight */
+.graph-view circle:hover,
+.graph-view .is-focused circle {
+  fill: #b84a4a !important;
+  r: 5 !important;
+}
+
+/* Connected/neighbor nodes on hover — brighter gold */
+.graph-view .is-connected circle {
+  fill: #e0c488 !important;
+  r: 4.5 !important;
+}
+
+/* Unresolved nodes — dimmer */
+.graph-view .is-unresolved circle {
+  fill: #cccccc !important;
+  fill-opacity: 0.5 !important;
+  r: 2.5 !important;
+}
+
+/* ============================================
+   NAVIGATION & SITE CHROME
+   ============================================ */
+
+/* Sidebar styling */
+.site-body-left-column {
+  font-size: 14px;
+}
+
+.nav-folder-title {
+  color: #1a1a1a;
+  font-weight: 500;
+}
+
+/* Site title — clickable, branded */
+.site-body-left-column-site-name {
+  color: #b84a4a;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+}
+
+.site-body-left-column-site-name:hover {
+  color: #d05858;
+}
+
+/* ----- SCROLLBAR: MINIMAL ----- */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333333;
+  border-radius: 0;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555555;
+}
+
+/* ============================================
+   BROWSE / INDEX PAGE STYLES
+   ============================================ */
+
+/* Party label badges for index pages */
+.party-label {
+  display: inline-block;
+  padding: 1px 8px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* Sector headers on index pages */
+.sector-header {
+  border-bottom: 2px solid #c9a96e;
+  padding-bottom: 0.25em;
+  margin-top: 1.5em;
+}
+
+/* ============================================
+   RESPONSIVE / MOBILE
+   ============================================ */
+
+@media (max-width: 768px) {
+  .markdown-preview-view,
+  .markdown-rendered,
+  .publish-article-content {
+    font-size: 14px;
+    line-height: 1.65;
+  }
+
+  .hero-block h1,
+  div.hero-block h1 {
+    font-size: 1.5em !important;
+  }
+
+  table {
+    font-size: 12px;
+  }
+
+  td, th {
+    padding: 4px 8px;
+  }
+}

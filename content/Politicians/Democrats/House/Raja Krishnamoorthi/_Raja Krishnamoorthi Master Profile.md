@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Illinois"
+state-abbr: "IL"
+district: "8"
+committees:
+  - "Oversight & Reform"
+issues:
+  - "Technology"
 ---
 
 #raja-krishnamoorthi #illinois #house #democrat #oversight #tech #tiktok #india #ccp-committee #senate-2026 #maga-donors

@@ -5,6 +5,10 @@ content-readiness: draft
 last-updated: 2026-03-27
 source-tier: 2
 parent: null
+issues:
+  - "Defense & Military"
+  - "Dark Money & Campaign Finance"
+  - "Israel & Foreign Policy"
 ---
 
 #pelosi #mccarthy #both-sides #donor-class #defense #stock-trading #dark-money #israel #class-analysis #follow-the-money #california #house-speakers

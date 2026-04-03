@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+issues:
+  - "Technology"
 ---
 
 #america-pac #elon-musk #trump #2024 #super-pac #tech #voter-data #turnout

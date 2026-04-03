@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+committees:
+  - "Education & Labor"
+issues:
+  - "Education"
+top-donors:
+  - "MAGA Inc"
+  - "America First Policy Institute"
 ---
 
 

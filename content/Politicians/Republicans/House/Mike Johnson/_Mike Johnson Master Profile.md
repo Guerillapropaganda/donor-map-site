@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Louisiana"
+state-abbr: "LA"
+district: "4"
+leadership-roles:
+  - "Speaker"
+issues:
+  - "Israel & Foreign Policy"
+top-donors:
+  - "AIPAC - American Israel Public Affairs Committee"
+  - "Peter Thiel"
+  - "Fossil Fuel Bloc"
 ---
 
 

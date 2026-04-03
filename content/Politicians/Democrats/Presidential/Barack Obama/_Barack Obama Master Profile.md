@@ -5,6 +5,20 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Presidential"
+state: "Illinois"
+state-abbr: "IL"
+issues:
+  - "Wall Street & Finance"
+  - "Technology"
+top-donors:
+  - "Goldman Sachs"
+  - "Insurance Industry"
+  - "Pharmaceutical Industry"
+  - "JPMorgan Chase"
+  - "Google"
+  - "Apple"
 ---
 
 

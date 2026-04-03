@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Individual Donor"
+issues:
+  - "Technology"
 ---
 
 #donor #donor-network #tech #democratic #2024-realignment #silicon-valley #billionaire-coordination #ai-regulation #immigration-policy

@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #gun-owners-of-america #GOA #hardline-gun-rights #NRA-alternative #dark-money #second-amendment #Republican-donor

@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Governor"
+state: "California"
+state-abbr: "CA"
+issues:
+  - "Housing"
+top-donors:
+  - "California Building and Construction Trades Council"
+  - "California Apartment Association"
 ---
 
 

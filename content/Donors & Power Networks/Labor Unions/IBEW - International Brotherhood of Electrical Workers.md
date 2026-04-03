@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 2
 parent: null
+sector: "Labor Unions"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Gavin Newsom"
+  - "Donald Trump"
+issues:
+  - "Labor & Workers"
+  - "Infrastructure"
 ---
 
 

@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "JD Vance"
+issues:
+  - "Technology"
 ---
 
 #ajay-royan #mithril-capital #thiel #tech #venture-capital #defense-tech #biotech #republican #donor #paypal-mafia-adjacent #oak-ridge #hoover-institution

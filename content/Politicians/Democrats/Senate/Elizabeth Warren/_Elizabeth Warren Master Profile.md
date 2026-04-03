@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Massachusetts"
+state-abbr: "MA"
+issues:
+  - "Wall Street & Finance"
+top-donors:
+  - "ActBlue"
+  - "Emily's List"
 ---
 
 

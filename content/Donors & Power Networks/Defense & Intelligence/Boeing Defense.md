@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Defense & Intelligence"
+entity-type: "Corporation"
+politicians-funded:
+  - "Maria Cantwell"
+issues:
+  - "Defense & Military"
 ---
 
 #boeing #defense #aerospace #military #lobbying #government-contracts #safety #revolving-door #too-big-to-fail

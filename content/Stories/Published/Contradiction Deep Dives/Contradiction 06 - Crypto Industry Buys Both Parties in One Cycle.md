@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+issues:
+  - "Technology"
 ---
 
 #investigation #contradiction #crypto #fairshake #both-sides #bipartisan-capture #class-analysis

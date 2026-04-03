@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+sector: "Energy & Utilities"
+entity-type: "Corporation"
+politicians-funded:
+  - "Gavin Newsom"
 ---
 
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund

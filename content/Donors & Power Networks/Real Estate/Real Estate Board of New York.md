@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+sector: "Real Estate"
+entity-type: "Individual Donor"
 ---
 
 #real-estate-lobby #nyc-politics #zoning #housing-policy #developer-power #class-analysis #follow-the-money

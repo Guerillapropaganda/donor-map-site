@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "PAC"
+issues:
+  - "Healthcare"
+  - "Social Safety Net"
 ---
 
 #centene #pac #healthcare #medicaid #managed-care #bipartisan #revolving-door #overbilling

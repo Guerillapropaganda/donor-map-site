@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "South Carolina"
+state-abbr: "SC"
+issues:
+  - "Defense & Military"
+  - "Israel & Foreign Policy"
+top-donors:
+  - "AIPAC"
+  - "Lockheed Martin"
+  - "Boeing"
+  - "Republican Jewish Coalition"
 ---
 
 #lindsey-graham #senate #south-carolina #defense #trump #mccain #aipac #class-analysis #chameleon #follow-the-money

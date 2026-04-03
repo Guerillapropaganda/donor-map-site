@@ -5,6 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+sector: "Energy & Utilities"
+entity-type: "Corporation"
+issues:
+  - "Energy & Climate"
 ---
 
 #donor #energy #fossil-fuel #trade-association #lobbying #republican-lean #climate-obstruction #class-analysis #follow-the-money

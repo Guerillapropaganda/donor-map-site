@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: null
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Individual Donor"
 ---
 
 #redirect

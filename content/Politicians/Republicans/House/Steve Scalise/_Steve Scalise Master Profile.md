@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Louisiana"
+state-abbr: "LA"
+district: "1"
+issues:
+  - "Energy & Climate"
 ---
 
 #politician #republican #house #louisiana #energy #fossil-fuel #climate #leadership #class-analysis #follow-the-money #gavel-power

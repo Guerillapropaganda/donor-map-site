@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Florida"
+state-abbr: "FL"
+district: "25"
+issues:
+  - "Israel & Foreign Policy"
+top-donors:
+  - "Fanjul Family - Florida Crystals"
+  - "AIPAC"
 ---
 
 #politician #democrat #house #florida #sugar #aipac #dnc #both-sides-illusion #class-analysis #follow-the-money

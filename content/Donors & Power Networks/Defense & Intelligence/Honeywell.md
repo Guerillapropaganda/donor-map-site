@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Defense & Intelligence"
+entity-type: "Corporation"
 ---
 
 #defense-contractor #aerospace #pac-donor #defense-committee #bipartisan

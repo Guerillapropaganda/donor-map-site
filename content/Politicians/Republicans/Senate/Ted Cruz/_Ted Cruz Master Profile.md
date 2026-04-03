@@ -5,6 +5,17 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Texas"
+state-abbr: "TX"
+issues:
+  - "Energy & Climate"
+  - "Technology"
+top-donors:
+  - "Robert Mercer"
+  - "Koch Network - Charles Koch"
+  - "Crypto Industry Bloc"
 ---
 
 

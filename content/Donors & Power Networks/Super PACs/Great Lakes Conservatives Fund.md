@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+politicians-funded:
+  - "Mike Rogers"
+  - "Abdul El-Sayed"
+  - "Mallory McMorrow"
 ---
 
 #donor #super-pac #great-lakes #michigan #mike-rogers #single-candidate-pac #defense-aligned

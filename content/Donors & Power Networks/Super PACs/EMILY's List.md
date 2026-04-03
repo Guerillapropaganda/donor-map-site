@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
 ---
 
 #emilys-list #women #pro-choice #democratic #pac #fundraising #bundling

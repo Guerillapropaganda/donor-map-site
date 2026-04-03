@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Energy & Utilities"
+entity-type: "PAC"
+issues:
+  - "Energy & Climate"
 ---
 
 #oil #gas #pacs #fossil-fuel #republican #bipartisan #energy

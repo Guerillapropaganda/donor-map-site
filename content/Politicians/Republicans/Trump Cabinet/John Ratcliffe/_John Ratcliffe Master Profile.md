@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+committees:
+  - "Intelligence"
+top-donors:
+  - "Club for Growth"
+  - "L3 Technologies"
+  - "Northrop Grumman"
+  - "Blackstone"
 ---
 
 

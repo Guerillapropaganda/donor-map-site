@@ -5,6 +5,21 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Oklahoma"
+state-abbr: "OK"
+district: "4"
+committees:
+  - "Appropriations"
+issues:
+  - "Defense & Military"
+  - "Energy & Climate"
+top-donors:
+  - "Boeing"
+  - "Northrop Grumman"
+  - "Raytheon"
+  - "Lockheed Martin"
 ---
 
 #tom-cole #republican #oklahoma #house #committee-chair #appropriations #defense #energy #oil-gas #tribal #chickasaw #phase-6-gavel-power

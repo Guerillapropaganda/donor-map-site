@@ -5,6 +5,17 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Presidential"
+state: "Vermont"
+state-abbr: "VT"
+issues:
+  - "Labor & Workers"
+top-donors:
+  - "SEIU - Service Employees International Union"
+  - "CNA - California Nurses Association"
+  - "Teamsters - International Brotherhood of Teamsters"
+  - "IBEW - International Brotherhood of Electrical Workers"
 ---
 
 

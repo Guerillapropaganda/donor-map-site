@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "JD Vance"
+  - "Donald Trump"
+  - "Barack Obama"
+  - "Kamala Harris"
+  - "Mike Lee"
+issues:
+  - "Technology"
+  - "Defense & Military"
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor-node #tech #google #defense #AI #revolving-door #mega-donor #nscai #schmidt-futures #china #dark-money #class-analysis #follow-the-money

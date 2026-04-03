@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #investigation #gambling #sports-betting #state-legislature #dark-money #regulatory-capture

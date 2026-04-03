@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Healthcare"
+entity-type: "Corporation"
+issues:
+  - "Healthcare"
+  - "Antitrust & Monopoly"
 ---
 
 #bcbs #blue-cross #blue-shield #insurance #healthcare #lobbying #antitrust #bipartisan #aca #medicare-advantage #public-option #class-analysis #follow-the-money

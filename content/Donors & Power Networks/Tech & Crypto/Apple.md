@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Corporation"
+issues:
+  - "Technology"
+  - "Antitrust & Monopoly"
 ---
 
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy

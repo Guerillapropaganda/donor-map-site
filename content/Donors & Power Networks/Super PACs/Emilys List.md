@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 2
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
 ---
 
 #donor-node #super-pac #democratic #women #fundraising-infrastructure #pro-choice #gatekeeper #donor

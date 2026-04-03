@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 2
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+politicians-funded:
+  - "Donald Trump"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor-node #super-pac #trump #mega-donors #dark-money

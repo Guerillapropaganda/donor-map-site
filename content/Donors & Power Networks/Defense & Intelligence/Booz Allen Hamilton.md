@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Defense & Intelligence"
+entity-type: "Corporation"
+politicians-funded:
+  - "Gerry Connolly"
+issues:
+  - "Defense & Military"
 ---
 
 #booz-allen #defense #intelligence #consulting #nsa #snowden #government-contractor

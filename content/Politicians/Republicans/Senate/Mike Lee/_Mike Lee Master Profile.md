@@ -5,6 +5,20 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Utah"
+state-abbr: "UT"
+committees:
+  - "Antitrust (Judiciary)"
+issues:
+  - "Antitrust & Monopoly"
+  - "Energy & Climate"
+top-donors:
+  - "Koch Network"
+  - "Club for Growth"
+  - "Blackstone Group"
+  - "Apollo Global Management"
 ---
 
 #mike-lee #senate #utah #federalist-society #antitrust #tech-deference #oil-gas #public-lands #january-6 #class-analysis

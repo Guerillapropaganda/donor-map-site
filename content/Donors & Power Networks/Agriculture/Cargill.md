@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Agriculture"
+entity-type: "Corporation"
+issues:
+  - "Agriculture"
+  - "Trade"
 ---
 
 #cargill #agriculture #commodities #grain #trade #private #family

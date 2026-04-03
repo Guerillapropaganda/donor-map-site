@@ -42,7 +42,7 @@ interface EntryPoint {
 // ─── Curated hook cards ─────────────────────────────────────────────
 const hookCards: HookCard[] = [
   {
-    label: "BOTH SIDES PAY",
+    label: "IT TRACKS",
     headline: "Same donors. Both parties. Same outcomes.",
     body: "AIPAC funds Pelosi ($3.2M) AND Cruz ($1.9M). Goldman Sachs funds Schumer AND McConnell. PhRMA funds both sides of drug pricing. Different jerseys, identical policy outcomes.",
     stat: "97-3",
@@ -54,9 +54,9 @@ const hookCards: HookCard[] = [
     ],
   },
   {
-    label: "THE ROI",
-    headline: "They're not donations. They're investments.",
-    body: "Koch Network: $2.9M donated to McConnell. Return: $1.9 trillion in tax cuts. That's a 655,172x ROI. PhRMA: $2.1M to kill drug pricing negotiation worth $450 billion. Every dollar has a return.",
+    label: "IT STORES",
+    headline: "Every dollar traced. Every policy outcome logged.",
+    body: "Koch Network: $2.9M donated to McConnell. Return: $1.9 trillion in tax cuts. That is a 655,172x ROI. PhRMA: $2.1M to kill drug pricing negotiation worth $450 billion. Every dollar has a return.",
     stat: "655,172x",
     statLabel: "Koch Network return on McConnell investment",
     color: "green",
@@ -66,9 +66,9 @@ const hookCards: HookCard[] = [
     ],
   },
   {
-    label: "THE MACHINE",
+    label: "IT INVESTIGATES",
     headline: "Donors. Lobbyists. Think tanks. Media. One pipeline.",
-    body: "The same money that buys the politicians funds the think tanks that write the policy, the lobbyists who deliver the ask, and the media personalities who manufacture public consent.",
+    body: "The same money that funds the politicians funds the think tanks that write the policy, the lobbyists who deliver the ask, and the media personalities who manufacture public consent.",
     stat: "1,400+",
     statLabel: "profiles mapping every node in the pipeline",
     color: "amber",
@@ -168,16 +168,21 @@ const LandingPage: QuartzComponent = ({
     },
   ]
 
+  // Count verified profiles
+  const verifiedCount = allFiles.filter((f) => {
+    const r = String(f.frontmatter?.["content-readiness"] ?? "")
+    return r === "ready" || r === "publication-ready"
+  }).length
+
   return (
     <div class={classNames(displayClass, "lp-landing")}>
-      {/* ── Hero ── */}
+      {/* ═══ LAYER 1: ORIENTATION — What is this, can I trust it? ═══ */}
       <section class="lp-hero">
-        <div class="lp-hero-badge">OPEN SOURCE INVESTIGATIVE DATABASE</div>
-        <h1 class="lp-hero-title">Follow the Money.</h1>
+        <div class="lp-hero-badge">DONOR INFLUENCE TRACKING SYSTEM</div>
+        <h1 class="lp-hero-title">Policy outcomes traced through financial influence networks.</h1>
         <p class="lp-hero-sub">
-          A sourced, navigable database tracking how money controls American politics.
-          Every profile starts with one question: <strong>who funds this person, and what
-          did the funders get in return?</strong>
+          An open-source political intelligence database. Every profile starts with one question:
+          {" "}<strong>who funds this person, and what did the funders get in return?</strong>
         </p>
         <div class="lp-hero-stats">
           <div class="lp-stat">
@@ -186,33 +191,35 @@ const LandingPage: QuartzComponent = ({
           </div>
           <div class="lp-stat-divider" />
           <div class="lp-stat">
-            <span class="lp-stat-number">{politicianCount.toLocaleString()}</span>
-            <span class="lp-stat-label">Politicians</span>
+            <span class="lp-stat-number">{verifiedCount.toLocaleString()}</span>
+            <span class="lp-stat-label">Verified</span>
           </div>
           <div class="lp-stat-divider" />
           <div class="lp-stat">
             <span class="lp-stat-number green">{donorCount.toLocaleString()}</span>
-            <span class="lp-stat-label">Donors & Networks</span>
+            <span class="lp-stat-label">Donors Tracked</span>
           </div>
           <div class="lp-stat-divider" />
           <div class="lp-stat">
-            <span class="lp-stat-number amber">$1.9T</span>
-            <span class="lp-stat-label">Largest Policy ROI</span>
+            <span class="lp-stat-number amber">655,172x</span>
+            <span class="lp-stat-label">Highest ROI Exposed</span>
           </div>
         </div>
         <div class="lp-hero-cta">
-          <a href={absHref("Stories/Published/Contradiction-Deep-Dives")} class="lp-cta-primary">
-            See the Contradictions
+          <a href={getHref("follow-the-money---guided-tour")} class="lp-cta-primary">
+            Start Here
           </a>
           <a href={absHref("Politicians")} class="lp-cta-secondary">
-            Browse Politicians
+            Explore the Database
           </a>
         </div>
       </section>
 
-      {/* ── Hook cards ── */}
+      {/* ═══ LAYER 2: PROOF — Show the system works ═══ */}
+
+      {/* How the system works: It tracks → It stores → It investigates */}
       <section class="lp-hooks">
-        <div class="lp-section-label">WHY THIS EXISTS</div>
+        <div class="lp-section-label">HOW THE SYSTEM WORKS</div>
         <div class="lp-hooks-grid">
           {hookCards.map((card) => (
             <div class={`lp-hook-card lp-hook-${card.color}`}>
@@ -235,29 +242,27 @@ const LandingPage: QuartzComponent = ({
         </div>
       </section>
 
-      {/* ── Featured investigations ── */}
+      {/* One featured investigation as proof of capability */}
       <section class="lp-featured">
-        <div class="lp-section-label">FEATURED INVESTIGATIONS</div>
+        <div class="lp-section-label">FEATURED INVESTIGATION</div>
         <div class="lp-featured-grid">
-          {featuredInvestigations.map((inv) => (
-            <div class="lp-featured-card">
-              <div class="lp-featured-content">
-                <h3 class="lp-featured-title">{inv.title}</h3>
-                <p class="lp-featured-hook">{inv.hook}</p>
-                <a href={getHref(inv.search)} class="lp-featured-link">
-                  Read the full investigation →
-                </a>
-              </div>
-              <div class="lp-featured-stat">
-                <span class="lp-featured-stat-number">{inv.stat}</span>
-                <span class="lp-featured-stat-label">{inv.statLabel}</span>
-              </div>
+          <div class="lp-featured-card">
+            <div class="lp-featured-content">
+              <h3 class="lp-featured-title">{featuredInvestigations[0].title}</h3>
+              <p class="lp-featured-hook">{featuredInvestigations[0].hook}</p>
+              <a href={getHref(featuredInvestigations[0].search)} class="lp-featured-link">
+                Read the full investigation →
+              </a>
             </div>
-          ))}
+            <div class="lp-featured-stat">
+              <span class="lp-featured-stat-number">{featuredInvestigations[0].stat}</span>
+              <span class="lp-featured-stat-label">{featuredInvestigations[0].statLabel}</span>
+            </div>
+          </div>
         </div>
       </section>
 
-      {/* ── Browse the database ── */}
+      {/* ═══ LAYER 3: EXPLORATION — Browse the database ═══ */}
       <section class="lp-explore">
         <div class="lp-section-label">EXPLORE THE DATABASE</div>
         <div class="lp-explore-grid">
@@ -278,20 +283,14 @@ const LandingPage: QuartzComponent = ({
         </div>
       </section>
 
-      {/* ── Start here ── */}
+      {/* Quick paths for different user types */}
       <section class="lp-start">
-        <div class="lp-section-label">START HERE</div>
+        <div class="lp-section-label">QUICK PATHS</div>
         <div class="lp-start-grid">
-          <a href={getHref("follow-the-money---guided-tour")} class="lp-start-card lp-start-primary">
-            <div class="lp-start-card-title">Guided Tour</div>
-            <div class="lp-start-card-desc">
-              Nine curated trails — Cuba blockade, Wall Street, defense, pharma, dark money, the Supreme Court, Trump Cabinet, consent machine, Israel Lobby.
-            </div>
-          </a>
           <a href={getHref("the-biggest-findings")} class="lp-start-card lp-start-primary">
             <div class="lp-start-card-title">The Biggest Findings</div>
             <div class="lp-start-card-desc">
-              The 10 most damning contradictions. Same donors, both parties, same outcomes. Start here.
+              The most damning contradictions. Same donors, both parties, same outcomes.
             </div>
           </a>
           <a href={getHref("browse-by-pattern")} class="lp-start-card">
@@ -300,38 +299,22 @@ const LandingPage: QuartzComponent = ({
               Revolving Door, Two-Audience Problem, Donor-Class Override, Dark Money Symmetry.
             </div>
           </a>
-          <a href={getHref("politicians-index")} class="lp-start-card">
-            <div class="lp-start-card-title">Politicians Index</div>
-            <div class="lp-start-card-desc">
-              Every politician, organized by party and chamber.
-            </div>
-          </a>
-          <a href={getHref("donors---power-networks-index")} class="lp-start-card">
-            <div class="lp-start-card-title">Donors Index</div>
-            <div class="lp-start-card-desc">
-              Every donor, PAC, and dark money network by sector.
-            </div>
-          </a>
           <a href={getHref("about-the-donor-map")} class="lp-start-card">
-            <div class="lp-start-card-title">About</div>
+            <div class="lp-start-card-title">About &amp; Methodology</div>
             <div class="lp-start-card-desc">
-              What this project is, who built it, and why it exists.
-            </div>
-          </a>
-          <a href={getHref("methodology")} class="lp-start-card">
-            <div class="lp-start-card-title">Methodology</div>
-            <div class="lp-start-card-desc">
-              How profiles are built, sourced, and verified.
+              What this project is, how profiles are built, sourced, and verified.
             </div>
           </a>
         </div>
       </section>
 
-      {/* ── Beta notice ── */}
+      {/* ── Transparency notice ── */}
       <section class="lp-beta">
         <p>
-          This database is in active development. The methodology is documented and open.
-          Some profiles are deeper than others. If you find a broken link or missing source, report it to <strong>guerillapropaganda@proton.me</strong>.
+          <strong>Transparent by design.</strong> Every profile displays its evidence status, source count,
+          and verification date. This database is in active development — some profiles are deeper than others.
+          That incompleteness is visible, not hidden.
+          Report issues to <strong>guerillapropaganda@proton.me</strong>.
         </p>
       </section>
     </div>

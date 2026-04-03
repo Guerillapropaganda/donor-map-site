@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+sector: "Energy & Utilities"
+entity-type: "Corporation"
+politicians-funded:
+  - "Lisa Murkowski"
+  - "Dan Sullivan"
+issues:
+  - "Energy & Climate"
 ---
 
 #conocophillips #oil-gas #energy #alaska #willow #lobbying #revolving-door #cheney-energy-task-force

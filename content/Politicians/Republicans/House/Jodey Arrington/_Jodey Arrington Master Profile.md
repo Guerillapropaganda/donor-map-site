@@ -5,6 +5,23 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Texas"
+state-abbr: "TX"
+district: "19"
+committees:
+  - "Budget"
+  - "Ways & Means"
+  - "Agriculture"
+issues:
+  - "Energy & Climate"
+  - "Agriculture"
+  - "Tax Policy"
+top-donors:
+  - "Americans for Prosperity"
+  - "American Farm Bureau Federation"
+  - "Heritage Foundation"
 ---
 
 #jodey-arrington #republican #texas #house #committee-chair #budget #ways-and-means #oil-gas #agriculture #tax-cuts #reconciliation #phase-6-gavel-power

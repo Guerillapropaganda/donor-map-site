@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Colorado"
+state-abbr: "CO"
+district: "3"
+issues:
+  - "Energy & Climate"
 ---
 
 #boebert #colorado #freedom-caucus #gun-rights #energy #maga #small-dollar #culture-war #oil-gas #ethics #district-switch

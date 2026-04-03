@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+sector: "Carceral State"
+entity-type: "Corporation"
+politicians-funded:
+  - "Gavin Newsom"
+  - "Donald Trump"
+  - "Chad Bianco"
+  - "Marco Rubio"
+  - "Pam Bondi"
 ---
 
 #donor #private-prison #immigration-detention #GEO-group #ICE #for-profit-detention #republican-donor #trump #class-analysis #follow-the-money #revolving-door #carceral-state #detention-expansion #ankle-monitor #bi-incorporated #electronic-monitoring #e-carceration #pam-bondi #sedition-caucus #forced-labor #racial-disparity

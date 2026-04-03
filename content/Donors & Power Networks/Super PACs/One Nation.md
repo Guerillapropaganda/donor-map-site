@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #one-nation #mcconnell #dark-money #501c4 #senate-races #donor-secrecy

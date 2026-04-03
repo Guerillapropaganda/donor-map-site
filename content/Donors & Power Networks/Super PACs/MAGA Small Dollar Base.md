@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
 ---
 
 #maga #small-dollar #donors #trump #grassroots #winred #fundraising #recurring-donations #indictment-fundraising #class-analysis #follow-the-money

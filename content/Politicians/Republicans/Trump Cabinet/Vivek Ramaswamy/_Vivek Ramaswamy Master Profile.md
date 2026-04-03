@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+state: "Ohio"
+state-abbr: "OH"
+issues:
+  - "Healthcare"
+top-donors:
+  - "Elon Musk"
+  - "Jeffrey Yass"
+  - "Peter Thiel"
 ---
 
 

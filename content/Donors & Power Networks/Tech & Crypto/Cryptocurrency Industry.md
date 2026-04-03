@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Individual Donor"
+issues:
+  - "Technology"
 ---
 
 #crypto #cryptocurrency #bitcoin #blockchain #deregulation #fairshake #sec #class-analysis #follow-the-money

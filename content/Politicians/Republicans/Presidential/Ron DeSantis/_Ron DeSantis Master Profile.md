@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Presidential"
+state: "Florida"
+state-abbr: "FL"
+top-donors:
+  - "Kenneth Griffin"
+  - "Koch Network - Charles Koch"
+  - "Fossil Fuel Bloc"
+  - "Club for Growth"
+  - "Lennar Corporation"
 ---
 
 #desantis #governor #florida #republican #culture-war #anti-woke #class-analysis #follow-the-money #failed-2024 #tax-haven #disney #donor-capture #presidential-2028

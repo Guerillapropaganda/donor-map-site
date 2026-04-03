@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Tom Steyer"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #progressive #donor-network #democracy-alliance #soros #steyer #dark-money

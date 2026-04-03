@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+state: "Florida"
+state-abbr: "FL"
+top-donors:
+  - "Miriam Adelson"
+  - "AIPAC - American Israel Public Affairs Committee"
+  - "Fanjul Family - Florida Crystals"
+  - "MasTec - Mas Canosa Family"
+  - "LARA Fund - Mauricio Claver-Carone"
 ---
 
 

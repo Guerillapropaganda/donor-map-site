@@ -5,6 +5,12 @@ content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Governor"
+state: "New York"
+state-abbr: "NY"
+issues:
+  - "Housing"
 ---
 
 #politician #democrat #moderate #new-york #governor #real-estate #sexual-harassment #nursing-home #class-analysis #follow-the-money

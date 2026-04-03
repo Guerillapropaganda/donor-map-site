@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Wisconsin"
+state-abbr: "WI"
+issues:
+  - "Healthcare"
+  - "Labor & Workers"
+top-donors:
+  - "Blue Cross Blue Shield Association"
+  - "SEIU"
+  - "EMILY's List"
+  - "JStreetPAC"
 ---
 
 #baldwin #wisconsin #healthcare #labor #dairy #manufacturing #lgbtq #swing-state #help-committee #buy-american #class-analysis

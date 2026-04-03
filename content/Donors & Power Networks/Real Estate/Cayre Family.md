@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Real Estate"
+entity-type: "Individual Donor"
 ---
 
 #nyc-real-estate #mega-donors #hochul-donors #midtown-development #real-estate-dynasty

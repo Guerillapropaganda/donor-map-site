@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "PAC"
+politicians-funded:
+  - "Chuck Schumer"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #majority-forward #dark-money #democratic #501c4 #senate #schumer #dark-money-symmetry

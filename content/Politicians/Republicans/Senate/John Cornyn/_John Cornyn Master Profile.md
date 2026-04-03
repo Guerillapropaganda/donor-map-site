@@ -5,6 +5,26 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Texas"
+state-abbr: "TX"
+committees:
+  - "Judiciary"
+  - "Intelligence"
+  - "Finance"
+issues:
+  - "Energy & Climate"
+  - "Defense & Military"
+  - "Gun Policy"
+top-donors:
+  - "ExxonMobil"
+  - "Chevron"
+  - "Koch Network - Charles Koch"
+  - "US Chamber of Commerce"
+  - "Goldman Sachs"
+  - "Blackstone"
+  - "Senate Leadership Fund"
 ---
 
 #master-profile #republican #texas #senate #judiciary #intelligence #oil-gas #defense #border #finance #gun-bill #nra #cornyn-cruz

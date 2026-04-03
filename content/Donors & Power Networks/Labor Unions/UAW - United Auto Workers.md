@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+sector: "Labor Unions"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Debbie Stabenow"
+  - "Sherrod Brown"
+  - "Joe Biden"
+  - "Kamala Harris"
+  - "Donald Trump"
+issues:
+  - "Labor & Workers"
 ---
 
 #donor #labor #union #auto-industry #working-class #fain #stand-up-strike #ev-transition #corruption #consent-decree

@@ -5,6 +5,20 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Washington"
+state-abbr: "WA"
+district: "2"
+committees:
+  - "Transportation & Infrastructure"
+leadership-roles:
+  - "Ranking Member"
+issues:
+  - "Infrastructure"
+  - "Labor & Workers"
+top-donors:
+  - "Boeing"
 ---
 
 

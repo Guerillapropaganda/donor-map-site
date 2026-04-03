@@ -5,6 +5,21 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Arkansas"
+state-abbr: "AR"
+district: "2"
+committees:
+  - "Banking"
+issues:
+  - "Technology"
+  - "Wall Street & Finance"
+top-donors:
+  - "Goldman Sachs"
+  - "Fairshake PAC"
+  - "Crypto Industry Bloc"
+  - "Marc Andreessen & Horowitz"
 ---
 
 #french-hill #republican #arkansas #house #committee-chair #financial-services #banking #crypto #wall-street #phase-6-gavel-power

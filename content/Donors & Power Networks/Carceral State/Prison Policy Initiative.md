@@ -5,6 +5,7 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Carceral State"
 ---
 
 #prison #carceral-state #mass-incarceration #data #research #reform

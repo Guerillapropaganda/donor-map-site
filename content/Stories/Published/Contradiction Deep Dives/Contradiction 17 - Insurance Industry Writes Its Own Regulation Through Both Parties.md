@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+issues:
+  - "Healthcare"
 ---
 
 #investigation #contradiction #insurance #healthcare #public-option #medicare-advantage #aca #bipartisan-consensus #class-analysis #revolving-door

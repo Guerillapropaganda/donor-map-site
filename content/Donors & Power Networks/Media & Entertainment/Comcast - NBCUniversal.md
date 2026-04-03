@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Media & Entertainment"
+entity-type: "Corporation"
+politicians-funded:
+  - "Maria Cantwell"
 ---
 
 #comcast #nbcuniversal #telecom #media #lobbying #net-neutrality #cable #broadband #monopoly #revolving-door #brian-roberts

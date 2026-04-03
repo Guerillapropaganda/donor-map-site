@@ -5,6 +5,11 @@ content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Missouri"
+state-abbr: "MO"
+district: "1"
 ---
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money

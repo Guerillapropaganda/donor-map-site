@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Israel Lobby"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+  - "Gavin Newsom"
+  - "Bernie Sanders"
+  - "Donna Miller"
+  - "Melissa Bean"
+  - "Daniel Biss"
+  - "JB Pritzker"
+issues:
+  - "Israel & Foreign Policy"
 ---
 
 

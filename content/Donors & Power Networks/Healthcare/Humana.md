@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Healthcare"
+entity-type: "Corporation"
 ---
 
 #humana #health-insurance #medicare-advantage #lobbying #kentucky

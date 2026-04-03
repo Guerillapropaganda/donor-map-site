@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Connecticut"
+state-abbr: "CT"
+district: "3"
+committees:
+  - "Appropriations"
+leadership-roles:
+  - "Ranking Member"
+top-donors:
+  - "Lockheed Martin"
+  - "AIPAC"
 ---
 
 #rosa-delauro #democrat #connecticut #house #appropriations #ranking-member #phase-6-gavel-power

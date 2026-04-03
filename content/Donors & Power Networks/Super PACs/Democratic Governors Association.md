@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+issues:
+  - "Healthcare"
 ---
 
 #democratic-governors-association #DGA #super-pac #gubernatorial #party-committee #corporate-donors #pharma

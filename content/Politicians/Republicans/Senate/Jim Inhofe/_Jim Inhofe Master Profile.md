@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Oklahoma"
+state-abbr: "OK"
+committees:
+  - "Armed Services"
+issues:
+  - "Energy & Climate"
+  - "Defense & Military"
 ---
 
 #politician #republican #senate #oklahoma #fossil-fuel #climate-denial #defense #armed-services #koch #oil-gas #follow-the-money #class-analysis #deceased

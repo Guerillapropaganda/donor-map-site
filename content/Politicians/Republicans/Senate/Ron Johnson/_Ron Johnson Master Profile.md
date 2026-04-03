@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Wisconsin"
+state-abbr: "WI"
 ---
 
 #politician #republican #senate #wisconsin #tax-policy #manufacturing #covid #russia #class-analysis #follow-the-money #gavel-power

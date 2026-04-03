@@ -5,6 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+issues:
+  - "Israel & Foreign Policy"
+  - "Dark Money & Campaign Finance"
 ---
 
 #2026-election #house #illinois #aipac #shell-pac #dark-money #class-analysis

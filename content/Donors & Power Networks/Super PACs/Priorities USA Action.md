@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #priorities-usa #super-pac #democratic #obama #clinton #biden #digital #advertising #dark-money

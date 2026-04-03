@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Defense & Intelligence"
+entity-type: "Corporation"
+politicians-funded:
+  - "Jeanne Shaheen"
+issues:
+  - "Defense & Military"
 ---
 
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia

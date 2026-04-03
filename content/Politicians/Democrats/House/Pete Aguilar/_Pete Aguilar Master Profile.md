@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "California"
+state-abbr: "CA"
+district: "6"
+committees:
+  - "Appropriations"
 ---
 
 #aguilar #california #caucus-chair #leadership #inland-empire #january-6 #moderate #appropriations #logistics #dccc

@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+politicians-funded:
+  - "Melissa Bean"
+  - "Donna Miller"
+  - "Daniel Biss"
+  - "Alexandria Ocasio-Cortez"
+issues:
+  - "Israel & Foreign Policy"
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor #aipac #super-pac #israel-lobby #udp #dark-money

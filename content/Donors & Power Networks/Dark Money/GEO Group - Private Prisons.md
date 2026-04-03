@@ -5,6 +5,8 @@ content-readiness: raw
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Corporation"
 ---
 
 #geo-group #redirect #private-prisons #carceral

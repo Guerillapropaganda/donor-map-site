@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+sector: "Gig Economy"
+entity-type: "Individual Donor"
 ---
 
 #gaming #gambling #casino #sports-betting #lobbying #addiction #deregulation #murphyvncaa #revolving-door #bipartisan #class-analysis #follow-the-money

@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+district: "5"
+top-donors:
+  - "Palantir"
+  - "Wall Street Finance PACs"
 ---
 
 #politician #democrat #house #josh-gottheimer #donor-pipeline #corporate-democrat #problem-solvers

@@ -5,6 +5,18 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "New York"
+state-abbr: "NY"
+district: "12"
+committees:
+  - "Judiciary"
+  - "Antitrust (Judiciary)"
+issues:
+  - "Antitrust & Monopoly"
+  - "Housing"
+  - "Israel & Foreign Policy"
 ---
 
 #politician #democrat #house #new-york #judiciary #antitrust #real-estate #israel #class-analysis #follow-the-money #gavel-power

@@ -5,6 +5,21 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "California"
+state-abbr: "CA"
+district: "17"
+committees:
+  - "Antitrust (Judiciary)"
+issues:
+  - "Technology"
+  - "Defense & Military"
+  - "Antitrust & Monopoly"
+top-donors:
+  - "Google - Alphabet"
+  - "Apple"
+  - "Microsoft"
 ---
 
 #ro-khanna #democrat #california #house #silicon-valley #tech #progressive #defense #antitrust #2028

@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #new-venture-fund #arabella #dark-money #liberal #501c3 #fiscal-sponsorship

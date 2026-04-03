@@ -5,6 +5,17 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Massachusetts"
+state-abbr: "MA"
+committees:
+  - "Small Business"
+  - "Commerce"
+leadership-roles:
+  - "Ranking Member"
+issues:
+  - "Energy & Climate"
 ---
 
 

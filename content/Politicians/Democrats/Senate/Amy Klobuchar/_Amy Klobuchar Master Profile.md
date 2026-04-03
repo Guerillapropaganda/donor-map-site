@@ -5,6 +5,24 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Minnesota"
+state-abbr: "MN"
+committees:
+  - "Antitrust (Judiciary)"
+  - "Judiciary"
+  - "Agriculture"
+issues:
+  - "Antitrust & Monopoly"
+  - "Agriculture"
+  - "Technology"
+top-donors:
+  - "Google - Alphabet"
+  - "Amazon"
+  - "Goldman Sachs"
+  - "Apple"
+  - "Meta - Facebook"
 ---
 
 #amy-klobuchar #democrat #minnesota #senate #antitrust #judiciary #agriculture #tech #genuine-win-structural-limit #two-audience-problem #revolving-door

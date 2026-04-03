@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Dark Money"
+entity-type: "Corporation"
 ---
 
 #lobbying #trump #clemency #foreign-agent

@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+sector: "Media & Entertainment"
+entity-type: "Corporation"
 ---
 
 #donor #donor-network #entertainment #hollywood #bundlers #democratic #media-influence #contradiction #anti-labor #copyright-enforcement

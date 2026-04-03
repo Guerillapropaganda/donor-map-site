@@ -26,6 +26,24 @@ say-vs-pay:
     - name: "Lockheed Martin"
       amount: "$900K"
   gap-stat: "$1.6B raised — 90% of BBB killed by donor-class Senate"
+party: "Democrat"
+chamber: "House"
+state: "California"
+state-abbr: "CA"
+district: "12"
+leadership-roles:
+  - "Speaker"
+issues:
+  - "Technology"
+top-donors:
+  - "Michael Bloomberg"
+  - "Haim Saban"
+  - "AIPAC - American Israel Public Affairs Committee"
+  - "SEIU - Service Employees International Union"
+  - "California Labor Federation"
+  - "Blue Shield of California"
+  - "UnitedHealth Group - Optum"
+  - "Kaiser Permanente"
 ---
 
 

@@ -5,6 +5,22 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Corporation"
+politicians-funded:
+  - "Donald Trump"
+  - "Chuck Schumer"
+  - "Nancy Pelosi"
+  - "Ro Khanna"
+  - "Zoe Lofgren"
+  - "Amy Klobuchar"
+  - "Richard Blumenthal"
+  - "Barack Obama"
+  - "Kamala Harris"
+issues:
+  - "Technology"
+  - "Antitrust & Monopoly"
+  - "Dark Money & Campaign Finance"
 ---
 
 #google #alphabet #tech #lobbying #antitrust #surveillance #advertising #data #ai #revolving-door #monopoly #eu-lobbying #california #pac #dark-money #class-analysis #follow-the-money

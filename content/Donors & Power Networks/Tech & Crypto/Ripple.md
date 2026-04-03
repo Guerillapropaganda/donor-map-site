@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Corporation"
+issues:
+  - "Technology"
 ---
 
 #crypto #payments #fairshake #sec-lawsuit #regulatory-capture

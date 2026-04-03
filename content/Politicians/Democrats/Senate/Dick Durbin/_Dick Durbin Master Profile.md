@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Illinois"
+state-abbr: "IL"
+committees:
+  - "Judiciary"
+leadership-roles:
+  - "Whip"
+top-donors:
+  - "Legal Sector Donors"
+  - "Financial Services Donors"
+  - "Pharmaceutical Industry"
+  - "AIPAC"
 ---
 
 #dick-durbin #senate #illinois #judiciary #whip #class-analysis #donor-gatekeeper #democrat #managed-opposition #retirement

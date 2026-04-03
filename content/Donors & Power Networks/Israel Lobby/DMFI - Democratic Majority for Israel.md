@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Israel Lobby"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Gavin Newsom"
+  - "Bernie Sanders"
+  - "Kamala Harris"
+  - "Benjamin Netanyahu"
+  - "Jamaal Bowman"
+issues:
+  - "Israel & Foreign Policy"
 ---
 
 

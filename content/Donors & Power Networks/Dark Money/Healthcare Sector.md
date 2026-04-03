@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Chuck Schumer"
+  - "Mitch McConnell"
+issues:
+  - "Healthcare"
+  - "Social Safety Net"
 ---
 
 #healthcare #sector #lobbying #bipartisan #pharma #insurance #hospitals #aca #medicare #drug-pricing #class-analysis #follow-the-money

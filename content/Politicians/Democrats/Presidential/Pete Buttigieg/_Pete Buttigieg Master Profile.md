@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Presidential"
+state: "Indiana"
+state-abbr: "IN"
+top-donors:
+  - "Finance and Tech Bundler Network"
 ---
 
 

@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Story"
+politicians-funded:
+  - "Pete Hegseth"
+  - "Donald Trump"
 ---
 
 #fox-news #media #pipeline #republican #trump #conservative #revolving-door #propaganda

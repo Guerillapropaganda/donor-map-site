@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
+politicians-funded:
+  - "Donald Trump"
+  - "Jared Kushner"
+issues:
+  - "Housing"
 ---
 
 #trump #organization #real-estate #branding #conflicts-of-interest #emoluments

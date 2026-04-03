@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Presidential"
+state: "South Carolina"
+state-abbr: "SC"
+issues:
+  - "Wall Street & Finance"
+top-donors:
+  - "Koch Network - Charles Koch"
+  - "Kenneth Griffin"
 ---
 
 #nikki-haley #governor #south-carolina #un-ambassador #republican #defense-hawk #class-analysis #follow-the-money #koch-network #wall-street #presidential-2028 #electability-candidate

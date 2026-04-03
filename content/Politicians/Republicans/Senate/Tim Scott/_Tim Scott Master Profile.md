@@ -5,6 +5,20 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "South Carolina"
+state-abbr: "SC"
+issues:
+  - "Technology"
+  - "Wall Street & Finance"
+top-donors:
+  - "Goldman Sachs"
+  - "Blackstone"
+  - "Koch Network - Charles Koch"
+  - "AIPAC"
+  - "Senate Leadership Fund"
+  - "Michael Bloomberg"
 ---
 
 #master-profile #republican #senate #south-carolina #opportunity-zones #corporate-donor #presidential #banking-committee #crypto #wall-street #israel-lobby

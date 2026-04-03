@@ -5,6 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+issues:
+  - "Israel & Foreign Policy"
+  - "Technology"
 ---
 
 #2026-election #house #illinois #race-frame #aipac #crypto #ai-pac #primary

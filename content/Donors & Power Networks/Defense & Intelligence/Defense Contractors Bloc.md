@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Defense & Intelligence"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+issues:
+  - "Defense & Military"
 ---
 
 #defense #contractors #bloc #military-industrial #bipartisan #ndaa #revolving-door #lobbying #pentagon #procurement

@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+issues:
+  - "Housing"
+  - "Technology"
+  - "Israel & Foreign Policy"
 ---
 
 #politician #republican #trump-cabinet #real-estate #crypto #middle-east #envoy #conflict-of-interest #world-liberty-financial #follow-the-money #class-analysis #foreign-policy

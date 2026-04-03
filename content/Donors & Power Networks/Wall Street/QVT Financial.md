@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
 ---
 
 #vivek-ramaswamy #hedge-fund #biotech-investments #roivant-sciences #venture-capital

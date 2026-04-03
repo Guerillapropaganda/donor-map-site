@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Corporation"
+politicians-funded:
+  - "JD Vance"
+  - "David Sacks"
+  - "Donald Trump"
+issues:
+  - "Defense & Military"
+  - "Immigration"
 ---
 
 

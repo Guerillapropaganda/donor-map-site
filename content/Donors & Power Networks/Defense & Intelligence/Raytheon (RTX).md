@@ -5,6 +5,32 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+sector: "Defense & Intelligence"
+entity-type: "Corporation"
+politicians-funded:
+  - "Donald Trump"
+  - "Lloyd Austin"
+  - "Mark Esper"
+  - "Mike Rogers"
+  - "Rob Wittman"
+  - "Adam Smith"
+  - "Salud Carbajal"
+  - "Seth Moulton"
+  - "Rosa DeLauro"
+  - "Hal Rogers"
+  - "Mike Simpson"
+  - "Mike Johnson"
+  - "Steve Scalise"
+  - "Hakeem Jeffries"
+  - "Katherine Clark"
+  - "Rick Scott"
+  - "Martin Heinrich"
+  - "Roger Wicker"
+  - "John Barrasso"
+  - "Mark Meadows"
+  - "Greg Gianforte"
+issues:
+  - "Defense & Military"
 ---
 
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #iran #golden-dome #missiles #saudi-arabia #yemen #ukraine #f-35 #patriot #pac #fraud #stinger #tomahawk

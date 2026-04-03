@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: null
 parent: null
+sector: "Mega-Donors"
+entity-type: "Corporation"
 ---
 
 #redirect

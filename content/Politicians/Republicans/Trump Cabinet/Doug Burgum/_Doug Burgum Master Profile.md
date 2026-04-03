@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+state: "North Dakota"
+state-abbr: "ND"
+top-donors:
+  - "Koch Network - Charles Koch"
+  - "Harold Hamm"
 ---
 
 

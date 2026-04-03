@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Bernie Sanders"
+  - "Elizabeth Warren"
+  - "Alexandria Ocasio-Cortez"
+  - "Kamala Harris"
+  - "Joe Biden"
+  - "Nancy Pelosi"
+  - "Chuck Schumer"
 ---
 
 #small-dollar #actblue #democratic #grassroots #progressive #fundraising #campaign-finance #winred

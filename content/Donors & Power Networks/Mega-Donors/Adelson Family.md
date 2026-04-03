@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+  - "Benjamin Netanyahu"
+  - "Marco Rubio"
+issues:
+  - "Israel & Foreign Policy"
 ---
 
 

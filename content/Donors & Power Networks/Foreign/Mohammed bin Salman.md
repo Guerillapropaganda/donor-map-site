@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+sector: "Foreign Influence"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Jared Kushner"
+  - "Donald Trump"
+  - "Bernie Sanders"
 ---
 
 #donor-node #foreign #saudi-arabia #sovereign-wealth #arms-sales #class-analysis

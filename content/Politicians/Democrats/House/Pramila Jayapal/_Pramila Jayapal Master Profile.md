@@ -5,6 +5,22 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Washington"
+state-abbr: "WA"
+district: "7"
+committees:
+  - "Antitrust (Judiciary)"
+issues:
+  - "Immigration"
+  - "Labor & Workers"
+  - "Technology"
+  - "Antitrust & Monopoly"
+top-donors:
+  - "SEIU"
+  - "CNA"
+  - "ActBlue"
 ---
 
 #pramila-jayapal #democrat #washington #house #progressive-caucus #medicare-for-all #immigration #labor #tech #seattle #antitrust

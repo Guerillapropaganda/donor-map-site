@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Independent"
+chamber: "Senate"
+top-donors:
+  - "Senate Majority PAC"
+  - "ActBlue"
+  - "Labor Unions"
 ---
 
 #politician #independent #senate

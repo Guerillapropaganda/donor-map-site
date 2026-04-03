@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Defense & Intelligence"
+entity-type: "Corporation"
+issues:
+  - "Defense & Military"
 ---
 
 #leidos #defense #intelligence #it #government #contractor #cybersecurity #revolving-door #outsourcing #surveillance

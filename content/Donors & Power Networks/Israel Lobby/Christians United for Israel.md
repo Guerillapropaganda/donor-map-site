@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Israel Lobby"
+entity-type: "Individual Donor"
+issues:
+  - "Israel & Foreign Policy"
 ---
 
 #cufi #christian-zionism #israel #evangelical #hagee #lobbying #republican

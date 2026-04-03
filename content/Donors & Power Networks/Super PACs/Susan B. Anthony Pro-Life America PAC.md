@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
 ---
 
 #anti-abortion #super-pac #republican-kingmaker #reproductive-rights #electoral-power

@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
 ---
 
 #donor #mega-donor #energy #fracking #christian-nationalism #daily-wire #prageru #texas #media-infrastructure #class-analysis

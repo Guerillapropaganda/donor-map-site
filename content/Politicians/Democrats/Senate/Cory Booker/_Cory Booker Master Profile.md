@@ -5,6 +5,22 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "New Jersey"
+state-abbr: "NJ"
+issues:
+  - "Healthcare"
+  - "Wall Street & Finance"
+  - "Criminal Justice"
+top-donors:
+  - "Goldman Sachs"
+  - "JPMorgan Chase"
+  - "PhRMA"
+  - "Pfizer"
+  - "Merck"
+  - "Johnson & Johnson"
+  - "Silicon Valley Democratic Donor Network"
 ---
 
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door

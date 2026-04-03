@@ -5,6 +5,8 @@ content-readiness: raw
 last-updated: 2026-04-01
 source-tier: null
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
 ---
 
 #redirect

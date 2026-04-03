@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
 ---
 
 #politician #nevada-machine #gaming-industry #donor-extraction #senate-power

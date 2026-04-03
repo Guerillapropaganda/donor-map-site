@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+issues:
+  - "Technology"
+  - "Antitrust & Monopoly"
 ---
 
 #zuckerberg #meta #facebook #tech #mega-donor #trump-realignment #lobbying #antitrust #ai #section-230

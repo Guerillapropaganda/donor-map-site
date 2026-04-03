@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Wyoming"
+state-abbr: "WY"
+issues:
+  - "Energy & Climate"
 ---
 
 #politician #republican #senate #wyoming #energy #fossil-fuel #climate #class-analysis #follow-the-money #gavel-power

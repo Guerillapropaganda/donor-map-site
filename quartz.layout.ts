@@ -34,6 +34,15 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ConditionalRender({
+      component: Component.EvidencePanel(),
+      condition: (page) => {
+        const slug = page.fileData.slug ?? ""
+        if (slug === "index" || slug.endsWith("/index")) return false
+        const type = String(page.fileData.frontmatter?.type ?? "")
+        return type !== "" && type !== "undefined" && type !== "unknown"
+      },
+    }),
+    Component.ConditionalRender({
       component: Component.ProfileHeader(),
       condition: (page) => {
         const slug = (page.fileData.slug ?? "").toLowerCase()

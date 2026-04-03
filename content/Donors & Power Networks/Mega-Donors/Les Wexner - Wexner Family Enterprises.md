@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Jon Husted"
+  - "Mike DeWine"
+  - "Donald Trump"
+  - "John Kasich"
+issues:
+  - "Israel & Foreign Policy"
 ---
 
 #les-wexner #abigail-wexner #ohio #mega-donor #republican #limited-brands #l-brands #victoria-secret #epstein #columbus #new-albany #retail #wexner-foundation #israel #osu #jobsohio #data-centers #class-analysis #follow-the-money

@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Individual Donor"
+issues:
+  - "Technology"
+  - "Antitrust & Monopoly"
 ---
 
 #tech #media #donors #section-230 #antitrust #streaming #ip #copyright

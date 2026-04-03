@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Pharma & Healthcare"
+entity-type: "Corporation"
+issues:
+  - "Healthcare"
 ---
 
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark

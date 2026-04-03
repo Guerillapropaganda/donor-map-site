@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Super PACs"
+entity-type: "PAC"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor-node #super-pac #republican #house #leadership-pac #dark-money #american-action-network #class-analysis #follow-the-money

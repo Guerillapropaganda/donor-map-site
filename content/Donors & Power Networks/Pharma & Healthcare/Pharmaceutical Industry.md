@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Pharma & Healthcare"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Bernie Sanders"
+issues:
+  - "Healthcare"
+  - "Social Safety Net"
+  - "Dark Money & Campaign Finance"
 ---
 
 #pharma #pharmaceutical #lobbying #drug-pricing #bipartisan #medicare #negotiation #revolving-door #dark-money #class-analysis

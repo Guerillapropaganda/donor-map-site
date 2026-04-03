@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Real Estate"
+entity-type: "Corporation"
 ---
 
 #nyc-real-estate #developer #hochul-donor #commercial-real-estate #moinian

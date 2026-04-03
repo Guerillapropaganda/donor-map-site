@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+issues:
+  - "Dark Money & Campaign Finance"
+  - "Infrastructure"
 ---
 
 #center-for-american-progress #CAP #dark-money #think-tank #democratic #infrastructure #Neera-Tanden

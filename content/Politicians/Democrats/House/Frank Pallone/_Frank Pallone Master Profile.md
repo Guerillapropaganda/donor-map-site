@@ -5,6 +5,22 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "New Jersey"
+state-abbr: "NJ"
+district: "6"
+committees:
+  - "Energy & Commerce"
+  - "Environment & Public Works"
+leadership-roles:
+  - "Ranking Member"
+issues:
+  - "Healthcare"
+  - "Environment"
+top-donors:
+  - "Pfizer"
+  - "PhRMA"
 ---
 
 #frank-pallone #democrat #new-jersey #house #ranking-member #energy-commerce #pharma #telecom #environment #phase-6-gavel-power

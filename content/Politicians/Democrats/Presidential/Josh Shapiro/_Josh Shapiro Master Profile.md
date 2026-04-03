@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Presidential"
+state: "Pennsylvania"
+state-abbr: "PA"
+issues:
+  - "Israel & Foreign Policy"
+top-donors:
+  - "Michael Bloomberg"
+  - "AIPAC - American Israel Public Affairs Committee"
 ---
 
 

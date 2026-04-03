@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Israel Lobby"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Jerry Nadler"
+  - "Bernie Sanders"
+issues:
+  - "Israel & Foreign Policy"
 ---
 
 #donor #israel #pro-israel #lobbying #pac #progressive #two-state #democratic #follow-the-money #class-analysis #foreign-policy

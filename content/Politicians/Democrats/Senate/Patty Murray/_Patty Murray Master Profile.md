@@ -5,6 +5,20 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Washington"
+state-abbr: "WA"
+committees:
+  - "Appropriations"
+issues:
+  - "Defense & Military"
+  - "Healthcare"
+top-donors:
+  - "Boeing"
+  - "Defense Industry Bloc"
+  - "Pharmaceutical Industry Bloc"
+  - "Microsoft"
 ---
 
 #master-profile #democrat #senate #washington #defense #boeing #pharma #appropriations #follow-the-money #class-analysis

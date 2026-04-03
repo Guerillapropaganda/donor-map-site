@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+sector: "Leonard Leo.md"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Clarence Thomas"
+  - "Samuel Alito"
+  - "Donald Trump"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor #dark-money #judicial-capture #federalist-society #conservative #kingmaker #dark-money-architect #leonard-leo #judicial-pipeline #barre-seid #marble-freedom-trust #scotus #class-analysis

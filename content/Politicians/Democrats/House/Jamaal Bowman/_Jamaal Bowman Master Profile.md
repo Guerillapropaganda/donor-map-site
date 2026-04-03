@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+district: "16"
+issues:
+  - "Israel & Foreign Policy"
 ---
 
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester

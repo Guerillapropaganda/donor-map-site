@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+issues:
+  - "Wall Street & Finance"
+  - "Israel & Foreign Policy"
+  - "Dark Money & Campaign Finance"
+  - "Healthcare"
+  - "Defense & Military"
 ---
 
 #schumer #mcconnell #both-sides #donor-class #wall-street #goldman-sachs #aipac #dark-money #pharma #defense #class-analysis #follow-the-money #senate-leadership

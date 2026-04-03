@@ -5,6 +5,17 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Governor"
+state: "Texas"
+state-abbr: "TX"
+issues:
+  - "Immigration"
+  - "Energy & Climate"
+top-donors:
+  - "Timothy Mellon"
+  - "Koch Network - Charles Koch"
+  - "Kelcy Warren - Energy Transfer Partners"
 ---
 
 

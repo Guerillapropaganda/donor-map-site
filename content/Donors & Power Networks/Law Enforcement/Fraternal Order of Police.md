@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Law Enforcement"
+entity-type: "Individual Donor"
 ---
 
 #fop #police #law-enforcement #union #qualified-immunity #reform-opposition

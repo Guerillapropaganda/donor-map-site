@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+state: "Florida"
+state-abbr: "FL"
+district: "1"
+top-donors:
+  - "MAGA Small Dollar Base"
 ---
 
 

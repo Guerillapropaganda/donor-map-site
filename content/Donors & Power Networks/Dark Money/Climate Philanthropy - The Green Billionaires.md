@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Story"
+politicians-funded:
+  - "Tom Steyer"
+issues:
+  - "Dark Money & Campaign Finance"
+  - "Environment"
 ---
 
 #climate-philanthropy #green-billionaires #tom-steyer #michael-bloomberg #dark-money #environment

@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+issues:
+  - "Technology"
+top-donors:
+  - "Elon Musk"
+  - "Peter Thiel"
+  - "Craft Ventures"
 ---
 
 

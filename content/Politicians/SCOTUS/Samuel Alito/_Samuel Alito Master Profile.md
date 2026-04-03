@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+chamber: "SCOTUS"
+top-donors:
+  - "Leonard Leo"
+  - "Paul Singer"
+  - "Koch Network - Charles Koch"
 ---
 
 

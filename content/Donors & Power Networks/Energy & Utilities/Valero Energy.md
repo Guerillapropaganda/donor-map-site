@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Energy & Utilities"
+entity-type: "Corporation"
+politicians-funded:
+  - "Steve Scalise"
+issues:
+  - "Energy & Climate"
 ---
 
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis

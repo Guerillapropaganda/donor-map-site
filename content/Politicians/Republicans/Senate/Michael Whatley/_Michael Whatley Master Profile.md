@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "North Carolina"
+state-abbr: "NC"
+top-donors:
+  - "Consumer Energy Alliance"
+  - "HBW Resources"
+  - "Susan B. Anthony Pro-Life America PAC"
 ---
 
 #politician #republican #senate #north-carolina #2026-candidate #oil-lobbyist #trump-aligned

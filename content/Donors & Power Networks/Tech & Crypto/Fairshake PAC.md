@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Tech & Crypto"
+entity-type: "PAC"
+politicians-funded:
+  - "Katie Porter"
+  - "Donald Trump"
+  - "Elizabeth Warren"
+issues:
+  - "Technology"
 ---
 
 #donor #fairshake #crypto #super-pac #class-analysis #follow-the-money #deregulation #2024-election #2026-midterms #coinbase #a16z #ripple

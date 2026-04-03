@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Jeffrey Epstein Network.md"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+  - "JD Vance"
+  - "Steve Bannon"
+  - "Robert F. Kennedy Jr."
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 

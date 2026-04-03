@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "Pennsylvania"
+state-abbr: "PA"
+issues:
+  - "Israel & Foreign Policy"
+top-donors:
+  - "AIPAC - American Israel Public Affairs Committee"
 ---
 
 

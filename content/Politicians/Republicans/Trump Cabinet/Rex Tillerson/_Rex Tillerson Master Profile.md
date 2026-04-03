@@ -5,6 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+issues:
+  - "Energy & Climate"
 ---
 
 #politician #republican #trump-cabinet #secretary-of-state #exxon #fossil-fuel #revolving-door #class-analysis #follow-the-money

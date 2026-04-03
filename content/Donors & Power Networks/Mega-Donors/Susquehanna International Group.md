@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Donald Trump"
+issues:
+  - "Technology"
 ---
 
 #donor #mega-donor #sig #susquehanna #jeff-yass #trading #crypto #tiktok #libertarian #school-choice #republican #class-analysis #follow-the-money

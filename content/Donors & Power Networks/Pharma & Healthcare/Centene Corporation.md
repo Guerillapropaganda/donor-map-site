@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Pharma & Healthcare"
+entity-type: "Corporation"
+politicians-funded:
+  - "Joe Manchin"
+issues:
+  - "Social Safety Net"
+  - "Healthcare"
 ---
 
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca

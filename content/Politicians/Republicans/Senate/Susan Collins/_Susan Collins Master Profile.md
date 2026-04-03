@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Senate"
+state: "Maine"
+state-abbr: "ME"
+top-donors:
+  - "Blackstone"
 ---
 
 

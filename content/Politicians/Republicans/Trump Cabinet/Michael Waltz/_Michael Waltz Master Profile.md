@@ -5,6 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+issues:
+  - "Defense & Military"
 ---
 
 #politician #republican #trump-cabinet #un-ambassador #national-security #defense #signalgate #class-analysis #follow-the-money

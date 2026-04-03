@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+issues:
+  - "Antitrust & Monopoly"
 ---
 
 #contradiction #big-tech #antitrust #lobbying #AICOA #revolving-door #class-analysis

@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+issues:
+  - "Infrastructure"
 ---
 
 #contradiction #water #privatization #infrastructure #class-analysis

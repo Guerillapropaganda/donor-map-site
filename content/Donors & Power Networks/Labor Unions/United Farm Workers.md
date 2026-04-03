@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Labor Unions"
+entity-type: "Individual Donor"
+issues:
+  - "Labor & Workers"
+  - "Agriculture"
+  - "Immigration"
 ---
 
 #ufw #farmworkers #labor #cesar-chavez #agriculture #immigration #california

@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Governor"
+state: "Ohio"
+state-abbr: "OH"
+top-donors:
+  - "Ohio Democratic Party"
+  - "Ohio Federation of Teachers"
+  - "UAW"
+  - "AFGE"
+  - "Ohio AFL-CIO"
 ---
 
 #amy-acton #democrat #ohio #governor #public-health #2026-governor-race #grassroots #covid #class-analysis #follow-the-money #master-profile

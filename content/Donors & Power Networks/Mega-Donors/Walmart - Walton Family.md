@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Corporation"
+politicians-funded:
+  - "John Boozman"
+issues:
+  - "Labor & Workers"
+  - "Tax Policy"
 ---
 
 #walmart #walton #retail #labor #anti-union #snap #tax #arkansas

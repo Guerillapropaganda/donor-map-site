@@ -5,6 +5,19 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Massachusetts"
+state-abbr: "MA"
+district: "1"
+committees:
+  - "Ways & Means"
+issues:
+  - "Healthcare"
+top-donors:
+  - "MassMutual"
+  - "Fidelity Investments"
+  - "Blue Cross Blue Shield"
 ---
 
 

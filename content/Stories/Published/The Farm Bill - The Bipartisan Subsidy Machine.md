@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+issues:
+  - "Agriculture"
 ---
 
 #farm-bill #agriculture #snap #subsidies #bipartisan #agribusiness #nutrition

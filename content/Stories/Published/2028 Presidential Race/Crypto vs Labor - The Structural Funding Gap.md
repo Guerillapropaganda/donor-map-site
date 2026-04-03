@@ -5,6 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+issues:
+  - "Technology"
+  - "Labor & Workers"
 ---
 
 #2028-election #crypto #labor #fairshake #funding-gap #class-analysis

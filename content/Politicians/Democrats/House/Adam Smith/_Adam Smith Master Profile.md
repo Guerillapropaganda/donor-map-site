@@ -5,6 +5,22 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "Washington"
+state-abbr: "WA"
+district: "9"
+committees:
+  - "Armed Services"
+leadership-roles:
+  - "Ranking Member"
+issues:
+  - "Defense & Military"
+top-donors:
+  - "Boeing"
+  - "Northrop Grumman"
+  - "Raytheon"
+  - "Lockheed Martin"
 ---
 
 #adam-smith #democrat #washington #house #ranking-member #armed-services #defense #military-industrial-complex #phase-6-gavel-power

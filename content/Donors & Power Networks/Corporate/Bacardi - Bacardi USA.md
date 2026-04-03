@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+sector: "Corporate"
+entity-type: "Corporation"
+politicians-funded:
+  - "Marco Rubio"
+  - "Mario Diaz-Balart"
+  - "Maria Elvira Salazar"
+  - "Carlos Gimenez"
+  - "Debbie Wasserman Schultz"
 ---
 
 #bacardi #cuba #embargo #trademark #rum #lobbying #helms-burton #class-analysis #follow-the-money

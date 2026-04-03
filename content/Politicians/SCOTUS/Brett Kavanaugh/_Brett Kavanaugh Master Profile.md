@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+chamber: "SCOTUS"
+issues:
+  - "Dark Money & Campaign Finance"
+  - "Environment"
+top-donors:
+  - "Leonard Leo"
+  - "Fossil Fuel Bloc"
+  - "Judicial Crisis Network"
 ---
 
 

@@ -5,6 +5,21 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "House"
+state: "New York"
+state-abbr: "NY"
+district: "5"
+committees:
+  - "Foreign Affairs"
+leadership-roles:
+  - "Ranking Member"
+issues:
+  - "Wall Street & Finance"
+top-donors:
+  - "AIPAC"
+  - "DMFI"
+  - "Goldman Sachs"
 ---
 
 #gregory-meeks #democrat #new-york #house #ranking-member #foreign-affairs #financial-services #israel-lobby #wall-street #ethics-violations #phase-6-gavel-power

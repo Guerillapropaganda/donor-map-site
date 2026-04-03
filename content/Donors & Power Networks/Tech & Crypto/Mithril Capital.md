@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 2
 parent: null
+sector: "Tech & Crypto"
+entity-type: "Corporation"
+politicians-funded:
+  - "JD Vance"
 ---
 
 #donor #thiel #venture-capital #defense-tech #biotech #growth-stage

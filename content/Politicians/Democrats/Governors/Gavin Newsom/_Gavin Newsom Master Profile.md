@@ -5,6 +5,24 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+party: "Democrat"
+chamber: "Governor"
+state: "California"
+state-abbr: "CA"
+issues:
+  - "Technology"
+top-donors:
+  - "Elon Musk"
+  - "Michael Bloomberg"
+  - "Haim Saban"
+  - "SEIU - Service Employees International Union"
+  - "CNA - California Nurses Association"
+  - "AIPAC - American Israel Public Affairs Committee"
+  - "Blue Shield of California"
+  - "UnitedHealth Group - Optum"
+  - "Kaiser Permanente"
+  - "Lennar Corporation"
+  - "National Association of Realtors"
 ---
 
 

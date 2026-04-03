@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "PAC"
+politicians-funded:
+  - "Donald Trump"
+  - "David Sacks"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #trump #2024 #campaign #fundraising #super-pac #mega-donor #maga #dark-money #billionaire #transactional

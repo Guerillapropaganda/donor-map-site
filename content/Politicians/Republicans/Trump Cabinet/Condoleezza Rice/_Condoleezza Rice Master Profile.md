@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Cabinet"
+top-donors:
+  - "Chevron"
+  - "Hoover Institution"
+  - "Stanford University"
 ---
 
 #condoleezza-rice #national-security-advisor #secretary-of-state #iraq-war #chevron #stanford #hoover-institution #revolving-door #class-analysis

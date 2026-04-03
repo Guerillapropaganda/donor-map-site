@@ -5,6 +5,15 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+sector: "Pharma & Healthcare"
+entity-type: "Corporation"
+politicians-funded:
+  - "Richard Neal"
+  - "Brett Guthrie"
+  - "Billy Tauzin"
+issues:
+  - "Healthcare"
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor #pharma #healthcare #lobbying #corporation #medicare-part-d #ira #patent-thicket #dark-money #trade-association

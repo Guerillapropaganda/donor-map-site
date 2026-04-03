@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "House"
+district: "97"
+top-donors:
+  - "AIPAC"
+  - "Republican Jewish Coalition"
+  - "America PAC - Elon Musk"
+  - "Congressional Leadership Fund"
 ---
 
 #republican #politician #house

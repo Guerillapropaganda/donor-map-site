@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+party: "Republican"
+chamber: "Presidential"
+top-donors:
+  - "The Thiel Pipeline - From Yale to VP"
+  - "Narya Capital and the Venture Capital Pipeline"
+  - "The 2024 Tech Billionaire Network"
+  - "Hillbilly Elegy and the Class Fraud"
 ---
 
 

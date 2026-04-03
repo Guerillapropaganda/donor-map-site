@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+sector: "Pharma & Healthcare"
+entity-type: "Corporation"
+issues:
+  - "Dark Money & Campaign Finance"
+  - "Healthcare"
 ---
 
 #purdue #sackler #opioid #oxycontin #crisis #bankruptcy #doj #lobbying #accountability #revolving-door #dark-money #pharma #fda

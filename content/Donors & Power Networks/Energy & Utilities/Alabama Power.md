@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+sector: "Energy & Utilities"
+entity-type: "Corporation"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #utility-monopoly #southern-company #alabama-politics #regulatory-capture #dark-money

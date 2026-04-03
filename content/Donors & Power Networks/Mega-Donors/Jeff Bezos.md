@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Mega-Donors"
+entity-type: "Individual Donor"
 ---
 
 #bezos #amazon #blue-origin #washington-post #mega-donor #media #space

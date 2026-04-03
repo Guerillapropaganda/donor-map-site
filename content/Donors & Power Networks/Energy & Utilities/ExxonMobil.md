@@ -5,6 +5,16 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Energy & Utilities"
+entity-type: "Corporation"
+politicians-funded:
+  - "Rex Tillerson"
+  - "Donald Trump"
+  - "Joe Manchin"
+  - "Ted Cruz"
+  - "John Barrasso"
+issues:
+  - "Energy & Climate"
 ---
 
 #donor-node #fossil-fuel #oil-gas #exxonmobil #climate #lobbying #bipartisan #donor #class-analysis #follow-the-money

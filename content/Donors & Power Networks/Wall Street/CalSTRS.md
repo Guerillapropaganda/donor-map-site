@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
+politicians-funded:
+  - "Gavin Newsom"
+issues:
+  - "Wall Street & Finance"
+  - "Education"
 ---
 
 #calstrs #pension #california #teachers #wall-street #investment #education #private-equity #fossil-fuels

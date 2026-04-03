@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
+sector: "Agriculture"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Marco Rubio"
+  - "Donald Trump"
+issues:
+  - "Agriculture"
+  - "Israel & Foreign Policy"
 ---
 
 

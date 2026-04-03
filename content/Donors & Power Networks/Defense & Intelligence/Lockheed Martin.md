@@ -5,6 +5,14 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Defense & Intelligence"
+entity-type: "Corporation"
+politicians-funded:
+  - "Kay Granger"
+  - "Ken Calvert"
+  - "Mike Rogers"
+issues:
+  - "Defense & Military"
 ---
 
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door

@@ -5,6 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+sector: "Real Estate"
+entity-type: "Corporation"
+issues:
+  - "Housing"
+  - "Antitrust & Monopoly"
 ---
 
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door

@@ -5,6 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Individual Donor"
+politicians-funded:
+  - "Thom Tillis"
+  - "Susan Collins"
+issues:
+  - "Dark Money & Campaign Finance"
 ---
 
 #donor-node #dark-money #democrat #arabella #fiscal-sponsorship #class-analysis #donor

@@ -5,6 +5,8 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+issues:
+  - "Housing"
 ---
 
 #investigation #contradiction #real-estate #housing #nar #zoning #rent-control #bipartisan-consensus #class-analysis #tax-policy

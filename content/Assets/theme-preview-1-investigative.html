@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Theme Preview — Investigative Journal</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Sans+3:wght@300;400;600;700&family=Source+Code+Pro:wght@400;500&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --bg-primary: #0a0a0c;
+    --bg-secondary: #111116;
+    --bg-sidebar: #0d0d10;
+    --bg-card: #16161b;
+    --bg-callout: #1a1a22;
+    --text-primary: #e8e6e1;
+    --text-secondary: #9e9a92;
+    --text-muted: #6b6762;
+    --accent: #c5a455;
+    --accent-dim: #8a7339;
+    --accent-glow: rgba(197, 164, 85, 0.15);
+    --red: #c44;
+    --red-dim: rgba(204, 68, 68, 0.15);
+    --blue: #4a7fb5;
+    --border: #222228;
+    --border-accent: #2a2a33;
+  }
+
+  body {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Source Sans 3', -apple-system, sans-serif;
+    font-size: 17px;
+    line-height: 1.7;
+    display: flex;
+    min-height: 100vh;
+  }
+
+  /* Theme label */
+  .theme-label {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+    background: var(--accent);
+    color: #0a0a0c;
+    text-align: center;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  /* Sidebar */
+  .sidebar {
+    width: 280px;
+    min-height: 100vh;
+    background: var(--bg-sidebar);
+    border-right: 1px solid var(--border);
+    padding: 60px 0 30px;
+    flex-shrink: 0;
+  }
+  .sidebar-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 900;
+    color: var(--accent);
+    padding: 20px 24px 8px;
+    letter-spacing: 1px;
+  }
+  .sidebar-subtitle {
+    font-size: 11px;
+    color: var(--text-muted);
+    padding: 0 24px 24px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+  .sidebar-section {
+    padding: 12px 24px 6px;
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--text-muted);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .sidebar-link {
+    display: block;
+    padding: 7px 24px 7px 32px;
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 14px;
+    transition: all 0.2s;
+    border-left: 2px solid transparent;
+  }
+  .sidebar-link:hover {
+    color: var(--text-primary);
+    background: rgba(197, 164, 85, 0.05);
+    border-left-color: var(--accent-dim);
+  }
+  .sidebar-link.active {
+    color: var(--accent);
+    background: var(--accent-glow);
+    border-left-color: var(--accent);
+    font-weight: 600;
+  }
+
+  /* Main content */
+  .main {
+    flex: 1;
+    padding: 60px 60px 80px;
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  /* Breadcrumb */
+  .breadcrumb {
+    font-size: 12px;
+    color: var(--text-muted);
+    margin-bottom: 32px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .breadcrumb span { color: var(--accent-dim); margin: 0 8px; }
+
+  h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 42px;
+    font-weight: 900;
+    color: var(--text-primary);
+    line-height: 1.15;
+    margin-bottom: 16px;
+  }
+
+  .byline {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-bottom: 40px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--border);
+    letter-spacing: 0.5px;
+  }
+  .byline .tag {
+    display: inline-block;
+    background: var(--accent-glow);
+    color: var(--accent);
+    padding: 2px 10px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-left: 12px;
+  }
+
+  h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 48px 0 16px;
+  }
+
+  h3 {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--accent);
+    margin: 32px 0 12px;
+    letter-spacing: 0.5px;
+  }
+
+  p { margin-bottom: 20px; color: var(--text-secondary); }
+
+  a { color: var(--accent); text-decoration: none; border-bottom: 1px solid var(--accent-dim); }
+  a:hover { color: #d4b76a; border-bottom-color: #d4b76a; }
+
+  /* Wikilink style */
+  .wikilink {
+    color: var(--accent);
+    border-bottom: 1px dotted var(--accent-dim);
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  /* Callout boxes */
+  .callout {
+    background: var(--bg-callout);
+    border-left: 3px solid var(--accent);
+    padding: 20px 24px;
+    margin: 24px 0;
+    border-radius: 0 6px 6px 0;
+  }
+  .callout.red {
+    border-left-color: var(--red);
+    background: var(--red-dim);
+  }
+  .callout-title {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .callout.red .callout-title { color: var(--red); }
+  .callout p { margin-bottom: 0; font-size: 15px; }
+
+  /* Money highlight */
+  .money {
+    color: #5cb85c;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 500;
+  }
+
+  /* Tags */
+  .tags { margin: 24px 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  .tag-pill {
+    background: var(--bg-card);
+    color: var(--text-muted);
+    padding: 4px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    border: 1px solid var(--border);
+  }
+
+  /* YAML metadata block */
+  .yaml-block {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 16px 20px;
+    margin: 24px 0;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    line-height: 1.8;
+  }
+  .yaml-key { color: var(--accent-dim); }
+  .yaml-val { color: var(--text-secondary); }
+
+  /* Source list */
+  .sources {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+  }
+  .sources h3 { color: var(--text-muted); font-size: 14px; }
+  .source-item {
+    font-size: 13px;
+    color: var(--text-muted);
+    padding: 6px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .source-item a { color: var(--blue); font-size: 12px; border: none; }
+
+  /* Interactive embed placeholder */
+  .embed-frame {
+    background: var(--bg-card);
+    border: 1px solid var(--border-accent);
+    border-radius: 8px;
+    padding: 40px;
+    margin: 32px 0;
+    text-align: center;
+  }
+  .embed-frame .icon { font-size: 32px; margin-bottom: 12px; }
+  .embed-frame .label {
+    font-size: 14px;
+    color: var(--text-muted);
+    margin-bottom: 16px;
+  }
+  .embed-btn {
+    display: inline-block;
+    background: var(--accent);
+    color: #0a0a0c;
+    padding: 10px 28px;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .embed-btn:hover { background: #d4b76a; border: none; }
+
+  /* Table */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 24px 0;
+    font-size: 14px;
+  }
+  th {
+    text-align: left;
+    padding: 10px 16px;
+    background: var(--bg-card);
+    color: var(--text-muted);
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    border-bottom: 2px solid var(--accent-dim);
+  }
+  td {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+    color: var(--text-secondary);
+  }
+  tr:hover td { background: rgba(197, 164, 85, 0.03); }
+</style>
+</head>
+<body>
+<div class="theme-label">Theme 1 — Investigative Journal</div>
+
+<nav class="sidebar">
+  <div class="sidebar-title">THE DONOR MAP</div>
+  <div class="sidebar-subtitle">Follow the Money</div>
+
+  <div class="sidebar-section">Politicians</div>
+  <a class="sidebar-link active" href="#">Nancy Pelosi</a>
+  <a class="sidebar-link" href="#">Mitch McConnell</a>
+  <a class="sidebar-link" href="#">Ted Cruz</a>
+  <a class="sidebar-link" href="#">Chuck Schumer</a>
+  <a class="sidebar-link" href="#">Donald Trump</a>
+
+  <div class="sidebar-section">Donor Nodes</div>
+  <a class="sidebar-link" href="#">Goldman Sachs</a>
+  <a class="sidebar-link" href="#">AIPAC</a>
+  <a class="sidebar-link" href="#">Koch Network</a>
+  <a class="sidebar-link" href="#">Lockheed Martin</a>
+
+  <div class="sidebar-section">Contradictions</div>
+  <a class="sidebar-link" href="#">Drug Pricing Theater</a>
+  <a class="sidebar-link" href="#">Defense Budget Bloat</a>
+  <a class="sidebar-link" href="#">Carried Interest Scam</a>
+
+  <div class="sidebar-section">Interactive Tools</div>
+  <a class="sidebar-link" href="#">Money Flow Diagram</a>
+  <a class="sidebar-link" href="#">ROI Calculator</a>
+  <a class="sidebar-link" href="#">Both-Sides Machine</a>
+</nav>
+
+<main class="main">
+  <div class="breadcrumb">Politicians <span>›</span> Democrats <span>›</span> Nancy Pelosi</div>
+
+  <h1>Nancy Pelosi</h1>
+  <div class="byline">
+    U.S. Representative — California's 11th District &nbsp;|&nbsp; Last updated March 2026
+    <span class="tag">Ready</span>
+  </div>
+
+  <div class="yaml-block">
+    <span class="yaml-key">status:</span> <span class="yaml-val">ready</span><br>
+    <span class="yaml-key">party:</span> <span class="yaml-val">Democrat</span><br>
+    <span class="yaml-key">state:</span> <span class="yaml-val">California</span><br>
+    <span class="yaml-key">top_donors:</span> <span class="yaml-val">["Goldman Sachs", "AIPAC", "PhRMA"]</span><br>
+    <span class="yaml-key">total_tracked:</span> <span class="yaml-val">$14.2M</span>
+  </div>
+
+  <h2>The Pipeline</h2>
+  <p>Nancy Pelosi represents one of the most documented cases of the donor-to-policy pipeline in the vault. Her financial relationships span defense, pharmaceutical, technology, and financial sectors — each with traceable policy outcomes.</p>
+
+  <div class="callout">
+    <div class="callout-title">Key Finding</div>
+    <p>Pelosi's husband, Paul Pelosi, executed stock trades in companies directly affected by legislation she was involved in — including <span class="money">$1.25M</span> in Nvidia calls weeks before a semiconductor subsidy vote.</p>
+  </div>
+
+  <h3>Top Donor Relationships</h3>
+  <table>
+    <thead>
+      <tr><th>Donor</th><th>Amount</th><th>Sector</th><th>Policy Link</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><span class="wikilink">Goldman Sachs</span></td><td class="money">$1.2M</td><td>Finance</td><td>Carried Interest loophole preserved</td></tr>
+      <tr><td><span class="wikilink">AIPAC</span></td><td class="money">$890K</td><td>Israel Lobby</td><td>$3.8B annual aid co-sponsored</td></tr>
+      <tr><td><span class="wikilink">PhRMA</span></td><td class="money">$740K</td><td>Pharma</td><td>Medicare negotiation delayed 4 years</td></tr>
+      <tr><td><span class="wikilink">Lockheed Martin</span></td><td class="money">$520K</td><td>Defense</td><td>F-35 program expansion vote</td></tr>
+    </tbody>
+  </table>
+
+  <div class="tags">
+    <span class="tag-pill">#democrat</span>
+    <span class="tag-pill">#california</span>
+    <span class="tag-pill">#finance</span>
+    <span class="tag-pill">#pharma</span>
+    <span class="tag-pill">#defense</span>
+    <span class="tag-pill">#insider-trading</span>
+  </div>
+
+  <div class="callout red">
+    <div class="callout-title">Contradiction</div>
+    <p>Publicly championed the STOCK Act to ban congressional insider trading — then quietly supported amendments that gutted its enforcement mechanisms. Her household's trading activity continued unabated.</p>
+  </div>
+
+  <h2>Explore the Data</h2>
+  <p>See how Pelosi's donors connect to both parties and what their money bought:</p>
+
+  <div class="embed-frame">
+    <div class="icon">📊</div>
+    <div class="label">Interactive: See where Pelosi's donor money flows across both parties</div>
+    <button class="embed-btn">Open Money Flow Diagram →</button>
+  </div>
+
+  <div class="embed-frame">
+    <div class="icon">🔄</div>
+    <div class="label">Same donors funding Pelosi AND her Republican counterparts</div>
+    <button class="embed-btn">Open Both-Sides Machine →</button>
+  </div>
+
+  <div class="sources">
+    <h3>SOURCES</h3>
+    <div class="source-item">OpenSecrets — Nancy Pelosi fundraising profile <a href="#">opensecrets.org</a></div>
+    <div class="source-item">FEC Individual Contributions, 2020–2024 <a href="#">fec.gov</a></div>
+    <div class="source-item">House Financial Disclosures — Paul Pelosi trades <a href="#">disclosures.house.gov</a></div>
+    <div class="source-item">Congressional Record — STOCK Act amendments <a href="#">congress.gov</a></div>
+  </div>
+</main>
+</body>
+</html>

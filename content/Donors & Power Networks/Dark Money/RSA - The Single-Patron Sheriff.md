@@ -5,6 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+sector: "Dark Money"
+entity-type: "Story"
+politicians-funded:
+  - "Chad Bianco"
 ---
 
 #rsa #sheriff #single-patron #law-enforcement #local-politics #bianco
