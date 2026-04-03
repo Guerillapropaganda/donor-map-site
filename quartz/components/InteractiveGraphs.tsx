@@ -27,6 +27,9 @@ const InteractiveGraphs: QuartzComponent = ({ fileData }: QuartzComponentProps) 
   if (slug.includes("interactive/sector-spending")) {
     return <div id="dm-sector" class="dm-interactive-container" />
   }
+  if (slug.includes("interactive/policy-costs")) {
+    return <div id="dm-policy-costs" class="dm-interactive-container" />
+  }
 
   return null
 }
@@ -1069,6 +1072,175 @@ function renderSectorDashboard(container) {
   });
 }
 
+// ─── POLICY COST COMPARISON ────────────────
+
+var POLICY_COST_DATA = [
+  { name: 'Medicare for All (10yr)', cost: 32000000000000, category: 'healthcare', note: 'Replaces $45T in current spending; net savings ~$2T', color: '#22c55e', sources: 'Lancet, CBO, PERI' },
+  { name: 'Current US Healthcare (10yr)', cost: 45000000000000, category: 'healthcare', note: 'What we already spend — premiums, copays, deductibles, uninsured', color: '#ef4444', sources: 'CMS National Health Expenditure Data' },
+  { name: 'Iraq War (total)', cost: 3000000000000, category: 'war', note: '2003-2021 including veteran care, interest on borrowing', color: '#f59e0b', sources: 'Watson Institute, Brown University' },
+  { name: 'Afghanistan War (total)', cost: 2300000000000, category: 'war', note: '2001-2021 including reconstruction, veteran care', color: '#f59e0b', sources: 'Watson Institute, Brown University' },
+  { name: '2017 Tax Cuts (10yr)', cost: 1900000000000, category: 'tax', note: 'Exposed $1.9T deficit; top 1% received 83% of benefits by 2027', color: '#a855f7', sources: 'CBO, Tax Policy Center' },
+  { name: 'Defense Budget (1yr)', cost: 886000000000, category: 'war', note: 'FY2024 — more than next 10 countries combined', color: '#f59e0b', sources: 'DoD Budget Request' },
+  { name: 'Student Loan Debt (total)', cost: 1700000000000, category: 'education', note: '43 million borrowers; avg $37,574 per person', color: '#06b6d4', sources: 'Federal Reserve, Dept of Education' },
+  { name: 'Free Public College (10yr)', cost: 800000000000, category: 'education', note: 'Tuition-free public universities for all Americans', color: '#22c55e', sources: 'Dept of Education estimates' },
+  { name: 'PhRMA Lobbying vs Savings', cost: 450000000000, category: 'pharma', note: '$9.8M in donations killed drug pricing reform — saved industry $450B', color: '#ef4444', sources: 'OpenSecrets, CBO' },
+  { name: 'Israel Aid (10yr)', cost: 38000000000, category: 'foreign', note: '$3.8B/year in military aid; bipartisan 97-3 vote', color: '#5b8dce', sources: 'State Dept, CRS' },
+  { name: 'AIPAC Donations (total)', cost: 21200000, category: 'lobbying', note: 'What it cost to secure $38B in aid — 1,792x return', color: '#5b8dce', sources: 'OpenSecrets' },
+  { name: 'Flint Water Fix', cost: 600000000, category: 'infrastructure', note: 'Total cost to replace all lead pipes in Flint, MI', color: '#06b6d4', sources: 'EPA, State of Michigan' },
+  { name: 'Koch Tax Cut Donations', cost: 12300000, category: 'lobbying', note: 'What Koch spent to get $1.9T in tax cuts — 154,472x return', color: '#a855f7', sources: 'OpenSecrets' },
+];
+
+var COST_COMPARISONS = [
+  {
+    title: 'Medicare for All vs. What We Already Pay',
+    left: { name: 'Medicare for All (10yr)', cost: 32000000000000, color: '#22c55e' },
+    right: { name: 'Current System (10yr)', cost: 45000000000000, color: '#ef4444' },
+    verdict: 'Medicare for All would SAVE $13 trillion over 10 years and cover everyone. The "too expensive" argument costs us more.',
+  },
+  {
+    title: 'Medicare for All vs. Wars',
+    left: { name: 'Medicare for All (10yr)', cost: 32000000000000, color: '#22c55e' },
+    right: { name: 'Iraq + Afghanistan Wars', cost: 5300000000000, color: '#f59e0b' },
+    verdict: 'We found $5.3 trillion for two wars with no debate. Healthcare for everyone is "too expensive."',
+  },
+  {
+    title: 'Free College vs. Tax Cuts for the Rich',
+    left: { name: 'Free Public College (10yr)', cost: 800000000000, color: '#06b6d4' },
+    right: { name: '2017 Tax Cuts (10yr)', cost: 1900000000000, color: '#a855f7' },
+    verdict: 'The tax cuts cost 2.4x more than free college for every American — and 83% of the benefits went to the top 1%.',
+  },
+  {
+    title: 'Fixing Flint vs. AIPAC Donations',
+    left: { name: 'Fix Flint Water Crisis', cost: 600000000, color: '#06b6d4' },
+    right: { name: 'AIPAC Political Donations', cost: 21200000, color: '#5b8dce' },
+    verdict: 'AIPAC spent $21.2M to secure $38 BILLION in aid. We could fix Flint 35x over for what AIPAC spends in one cycle.',
+  },
+  {
+    title: 'What Lobbying Buys',
+    left: { name: 'Koch Donations', cost: 12300000, color: '#a855f7' },
+    right: { name: 'Tax Cuts They Got', cost: 1900000000000, color: '#ef4444' },
+    verdict: '$12.3M in donations bought $1.9 TRILLION in tax cuts. Return on investment: 154,472x.',
+  },
+  {
+    title: 'PhRMA: The $9.8M That Cost Americans $450B',
+    left: { name: 'PhRMA Donations', cost: 9800000, color: '#22c55e' },
+    right: { name: 'Drug Pricing Reform Killed', cost: 450000000000, color: '#ef4444' },
+    verdict: '$9.8M in donations to both parties killed drug pricing negotiation — costing Americans $450 billion.',
+  },
+];
+
+function renderPolicyCosts(container) {
+  container.innerHTML = '';
+
+  var header = document.createElement('div');
+  header.className = 'dm-costs-header';
+  header.innerHTML = '<span class="dm-costs-title">WHAT IT ACTUALLY COSTS</span>' +
+    '<span class="dm-costs-sub">Policy price tags vs. what we choose to spend — the numbers they hope you never compare</span>';
+  container.appendChild(header);
+
+  // View toggle
+  var viewToggle = document.createElement('div');
+  viewToggle.className = 'dm-costs-toggle';
+  var currentView = 'compare';
+  ['compare', 'scale'].forEach(function(v) {
+    var btn = document.createElement('button');
+    btn.className = 'dm-costs-toggle-btn' + (v === currentView ? ' active' : '');
+    btn.textContent = v === 'compare' ? 'Side-by-Side' : 'Full Scale';
+    btn.addEventListener('click', function() {
+      currentView = v;
+      viewToggle.querySelectorAll('.dm-costs-toggle-btn').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      renderView();
+    });
+    viewToggle.appendChild(btn);
+  });
+  container.appendChild(viewToggle);
+
+  var viewArea = document.createElement('div');
+  viewArea.className = 'dm-costs-area';
+  container.appendChild(viewArea);
+
+  function renderView() {
+    viewArea.innerHTML = '';
+    if (currentView === 'compare') renderCompare();
+    else renderScale();
+  }
+
+  function renderCompare() {
+    COST_COMPARISONS.forEach(function(comp) {
+      var card = document.createElement('div');
+      card.className = 'dm-costs-compare-card';
+
+      var maxCost = Math.max(comp.left.cost, comp.right.cost);
+      var leftPct = (comp.left.cost / maxCost) * 100;
+      var rightPct = (comp.right.cost / maxCost) * 100;
+
+      card.innerHTML =
+        '<div class="dm-costs-compare-title">' + comp.title + '</div>' +
+        '<div class="dm-costs-compare-bars">' +
+          '<div class="dm-costs-compare-row">' +
+            '<span class="dm-costs-compare-label">' + comp.left.name + '</span>' +
+            '<div class="dm-costs-compare-track">' +
+              '<div class="dm-costs-compare-fill" style="width:' + leftPct + '%;background:' + comp.left.color + '"></div>' +
+            '</div>' +
+            '<span class="dm-costs-compare-val" style="color:' + comp.left.color + '">' + fmt(comp.left.cost) + '</span>' +
+          '</div>' +
+          '<div class="dm-costs-compare-row">' +
+            '<span class="dm-costs-compare-label">' + comp.right.name + '</span>' +
+            '<div class="dm-costs-compare-track">' +
+              '<div class="dm-costs-compare-fill" style="width:' + rightPct + '%;background:' + comp.right.color + '"></div>' +
+            '</div>' +
+            '<span class="dm-costs-compare-val" style="color:' + comp.right.color + '">' + fmt(comp.right.cost) + '</span>' +
+          '</div>' +
+        '</div>' +
+        '<div class="dm-costs-verdict">' + comp.verdict + '</div>';
+      viewArea.appendChild(card);
+    });
+  }
+
+  function renderScale() {
+    // Sort by cost descending
+    var sorted = POLICY_COST_DATA.slice().sort(function(a, b) { return b.cost - a.cost; });
+    var maxCost = sorted[0].cost;
+
+    // Use log scale since values span 6 orders of magnitude
+    var logMax = Math.log10(maxCost);
+    var logMin = Math.log10(Math.max(1, sorted[sorted.length - 1].cost));
+
+    sorted.forEach(function(row) {
+      var card = document.createElement('div');
+      card.className = 'dm-costs-scale-card';
+
+      var logVal = Math.log10(Math.max(1, row.cost));
+      var pct = ((logVal - logMin) / (logMax - logMin)) * 100;
+      pct = Math.max(2, pct);
+
+      var catIcon = row.category === 'healthcare' ? '\u{1F3E5}' :
+                    row.category === 'war' ? '\u{1F4A3}' :
+                    row.category === 'tax' ? '\u{1F4B0}' :
+                    row.category === 'education' ? '\u{1F393}' :
+                    row.category === 'lobbying' ? '\u{1F4B5}' :
+                    row.category === 'pharma' ? '\u{1F48A}' :
+                    row.category === 'infrastructure' ? '\u{1F527}' :
+                    '\u{1F3DB}';
+
+      card.innerHTML =
+        '<div class="dm-costs-scale-top">' +
+          '<span class="dm-costs-scale-icon">' + catIcon + '</span>' +
+          '<span class="dm-costs-scale-name">' + row.name + '</span>' +
+          '<span class="dm-costs-scale-amount" style="color:' + row.color + '">' + fmt(row.cost) + '</span>' +
+        '</div>' +
+        '<div class="dm-costs-scale-bar-track">' +
+          '<div class="dm-costs-scale-bar-fill" style="width:' + pct + '%;background:' + row.color + '"></div>' +
+        '</div>' +
+        '<div class="dm-costs-scale-note">' + row.note + '</div>';
+      viewArea.appendChild(card);
+    });
+  }
+
+  renderView();
+}
+
 // ─── INLINE: Contradiction section markers ──
 
 function enhanceContradictions() {
@@ -1174,6 +1346,7 @@ function injectProfileTools() {
     { id: 'both', label: 'Both Sides' },
     { id: 'contra', label: 'Say vs Pay' },
     { id: 'sector', label: 'Sector ROI' },
+    { id: 'costs', label: 'Policy Costs' },
   ];
   tabData.forEach(function(t, i) {
     var btn = document.createElement('button');
@@ -1195,6 +1368,7 @@ function injectProfileTools() {
           if (t.id === 'both') renderBothSides(panel);
           if (t.id === 'contra') renderContradictions(panel);
           if (t.id === 'sector') renderSectorDashboard(panel);
+          if (t.id === 'costs') renderPolicyCosts(panel);
         }
       }
     });
@@ -1245,6 +1419,9 @@ function initInteractive() {
 
   var sc = document.getElementById('dm-sector');
   if (sc) renderSectorDashboard(sc);
+
+  var pc = document.getElementById('dm-policy-costs');
+  if (pc) renderPolicyCosts(pc);
 }
 
 // Replace em dashes with semicolons in article text
@@ -2218,6 +2395,196 @@ InteractiveGraphs.css = `
   color: #ef4444;
 }
 
+/* ═══════════════════════════════════════════════
+   POLICY COST COMPARISON
+   ═══════════════════════════════════════════════ */
+
+.dm-costs-header {
+  margin-bottom: 20px;
+}
+
+.dm-costs-title {
+  display: block;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #ef4444;
+  margin-bottom: 4px;
+}
+
+.dm-costs-sub {
+  font-size: 13px;
+  color: #a1a1aa;
+}
+
+.dm-costs-toggle {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.dm-costs-toggle-btn {
+  padding: 6px 16px;
+  border: 1px solid #1e1e28;
+  border-radius: 4px;
+  background: #13131a;
+  color: #b4b4bc;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.dm-costs-toggle-btn:hover {
+  border-color: rgba(91, 141, 206, 0.3);
+}
+
+.dm-costs-toggle-btn.active {
+  border-color: #5b8dce;
+  color: #5b8dce;
+  background: rgba(91, 141, 206, 0.08);
+}
+
+/* Side-by-side comparison cards */
+
+.dm-costs-compare-card {
+  background: #13131a;
+  border: 1px solid #1e1e28;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 16px;
+  transition: border-color 0.2s;
+}
+
+.dm-costs-compare-card:hover {
+  border-color: rgba(91, 141, 206, 0.3);
+}
+
+.dm-costs-compare-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: #e4e4e7;
+  margin-bottom: 16px;
+}
+
+.dm-costs-compare-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.dm-costs-compare-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.dm-costs-compare-label {
+  font-size: 12px;
+  color: #b4b4bc;
+  width: 180px;
+  flex-shrink: 0;
+}
+
+.dm-costs-compare-track {
+  flex: 1;
+  height: 14px;
+  background: #1a1a22;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.dm-costs-compare-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.8s ease;
+}
+
+.dm-costs-compare-val {
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  width: 60px;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.dm-costs-verdict {
+  font-size: 13px;
+  color: #e4e4e7;
+  padding: 12px 14px;
+  background: rgba(239, 68, 68, 0.06);
+  border-left: 3px solid #ef4444;
+  border-radius: 0 6px 6px 0;
+  line-height: 1.5;
+  font-weight: 500;
+}
+
+/* Full scale view */
+
+.dm-costs-scale-card {
+  background: #13131a;
+  border: 1px solid #1e1e28;
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 8px;
+  transition: border-color 0.2s;
+}
+
+.dm-costs-scale-card:hover {
+  border-color: rgba(91, 141, 206, 0.3);
+}
+
+.dm-costs-scale-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.dm-costs-scale-icon {
+  font-size: 16px;
+  flex-shrink: 0;
+}
+
+.dm-costs-scale-name {
+  font-size: 14px;
+  font-weight: 600;
+  color: #e4e4e7;
+  flex: 1;
+}
+
+.dm-costs-scale-amount {
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.dm-costs-scale-bar-track {
+  height: 8px;
+  background: #1a1a22;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.dm-costs-scale-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.8s ease;
+}
+
+.dm-costs-scale-note {
+  font-size: 12px;
+  color: #63636e;
+  line-height: 1.4;
+}
+
 /* ─── Mobile responsive for new interactives ── */
 
 @media (max-width: 800px) {
@@ -2237,6 +2604,16 @@ InteractiveGraphs.css = `
   .dm-net-btn {
     padding: 6px 12px;
     font-size: 12px;
+  }
+
+  .dm-costs-compare-label {
+    width: 120px;
+    font-size: 11px;
+  }
+
+  .dm-costs-compare-val {
+    width: 50px;
+    font-size: 11px;
   }
 }
 `

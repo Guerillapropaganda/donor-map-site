@@ -36,6 +36,7 @@ const footerColumns = [
       { text: "Sector ROI", slug: "Interactive/Sector-Spending" },
       { text: "ROI Calculator", slug: "Interactive/ROI-Calculator" },
       { text: "Both Sides", slug: "Interactive/Both-Sides" },
+      { text: "Policy Costs", slug: "Interactive/Policy-Costs" },
     ],
   },
   {
