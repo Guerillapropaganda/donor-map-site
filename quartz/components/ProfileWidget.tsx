@@ -1,251 +1,185 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { simplifySlug } from "../util/path"
 import { classNames } from "../util/lang"
-
-// ─── Per-politician curated data ─────────────
-// Keyed by the politician ID that appears in their master profile slug
-// e.g. slug "politicians/democrats/house/nancy-pelosi/_nancy-pelosi-master-profile"
-// → we match on "pelosi"
-
-interface DonorFlow {
-  donor: string
-  amount: number
-  sector: string
-}
-
-interface ROIEntry {
-  donor: string
-  donated: number
-  policyValue: number
-  policy: string
-  roi: number | null
-}
-
-interface BothSidesEntry {
-  donor: string
-  alsoFunds: { name: string; party: string; amount: number }[]
-  policy: string
-}
-
-interface PoliticianData {
-  name: string
-  party: "D" | "R"
-  donors: DonorFlow[]
-  roi: ROIEntry[]
-  bothSides: BothSidesEntry[]
-}
-
-const POLITICIAN_DATA: Record<string, PoliticianData> = {
-  pelosi: {
-    name: "Nancy Pelosi",
-    party: "D",
-    donors: [
-      { donor: "AIPAC", amount: 3200000, sector: "Israel Lobby" },
-      { donor: "Goldman Sachs", amount: 2100000, sector: "Wall Street" },
-      { donor: "PhRMA", amount: 1900000, sector: "Pharma" },
-      { donor: "Natl Assn of Realtors", amount: 1800000, sector: "Real Estate" },
-      { donor: "Lockheed Martin", amount: 900000, sector: "Defense" },
-    ],
-    roi: [
-      { donor: "Goldman Sachs", donated: 2100000, policyValue: 18000000000, policy: "Carried Interest Loophole Preserved", roi: 8571 },
-      { donor: "AIPAC", donated: 3200000, policyValue: 3800000000, policy: "Israel Aid Package ($3.8B/yr)", roi: 1188 },
-      { donor: "Natl Assn of Realtors", donated: 1800000, policyValue: 12000000000, policy: "Housing Deregulation", roi: 6667 },
-    ],
-    bothSides: [
-      { donor: "AIPAC", alsoFunds: [{ name: "McConnell", party: "R", amount: 2800000 }, { name: "Cruz", party: "R", amount: 1900000 }, { name: "Rubio", party: "R", amount: 2400000 }], policy: "Israel Aid — bipartisan 97-3" },
-      { donor: "Goldman Sachs", alsoFunds: [{ name: "McConnell", party: "R", amount: 1500000 }, { name: "Cruz", party: "R", amount: 1200000 }], policy: "Carried Interest survived 30+ yrs" },
-      { donor: "Lockheed Martin", alsoFunds: [{ name: "Graham", party: "R", amount: 1800000 }, { name: "Cruz", party: "R", amount: 1400000 }], policy: "Defense budget $886B" },
-    ],
-  },
-  mcconnell: {
-    name: "Mitch McConnell",
-    party: "R",
-    donors: [
-      { donor: "Koch Network", amount: 2900000, sector: "Energy/Dark Money" },
-      { donor: "AIPAC", amount: 2800000, sector: "Israel Lobby" },
-      { donor: "PhRMA", amount: 2100000, sector: "Pharma" },
-      { donor: "Goldman Sachs", amount: 1500000, sector: "Wall Street" },
-      { donor: "Natl Assn of Realtors", amount: 1400000, sector: "Real Estate" },
-      { donor: "Lockheed Martin", amount: 1100000, sector: "Defense" },
-      { donor: "NRA", amount: 1100000, sector: "Guns" },
-    ],
-    roi: [
-      { donor: "PhRMA", donated: 2100000, policyValue: 450000000000, policy: "Drug Pricing Negotiation Killed", roi: 214286 },
-      { donor: "Koch Network", donated: 2900000, policyValue: 1900000000000, policy: "2017 Tax Cuts ($1.9T)", roi: 655172 },
-      { donor: "AIPAC", donated: 2800000, policyValue: 3800000000, policy: "Israel Aid Package ($3.8B/yr)", roi: 1357 },
-    ],
-    bothSides: [
-      { donor: "AIPAC", alsoFunds: [{ name: "Pelosi", party: "D", amount: 3200000 }, { name: "Schumer", party: "D", amount: 4100000 }], policy: "Israel Aid — bipartisan 97-3" },
-      { donor: "Goldman Sachs", alsoFunds: [{ name: "Pelosi", party: "D", amount: 2100000 }, { name: "Schumer", party: "D", amount: 1800000 }], policy: "Carried Interest survived 30+ yrs" },
-      { donor: "PhRMA", alsoFunds: [{ name: "Pelosi", party: "D", amount: 1900000 }, { name: "Menendez", party: "D", amount: 1600000 }], policy: "Drug pricing killed from both sides" },
-    ],
-  },
-  cruz: {
-    name: "Ted Cruz",
-    party: "R",
-    donors: [
-      { donor: "Koch Network", amount: 3800000, sector: "Energy/Dark Money" },
-      { donor: "AIPAC", amount: 1900000, sector: "Israel Lobby" },
-      { donor: "NRA", amount: 1800000, sector: "Guns" },
-      { donor: "Lockheed Martin", amount: 1400000, sector: "Defense" },
-      { donor: "PhRMA", amount: 1300000, sector: "Pharma" },
-      { donor: "Goldman Sachs", amount: 1200000, sector: "Wall Street" },
-    ],
-    roi: [
-      { donor: "Koch Network", donated: 3800000, policyValue: 1900000000000, policy: "2017 Tax Cuts ($1.9T)", roi: 50000 },
-      { donor: "NRA", donated: 1800000, policyValue: 0, policy: "Gun Reform Legislation Blocked", roi: null },
-      { donor: "Lockheed Martin", donated: 1400000, policyValue: 886000000000, policy: "Defense Budget Increase to $886B", roi: 632857 },
-    ],
-    bothSides: [
-      { donor: "AIPAC", alsoFunds: [{ name: "Schumer", party: "D", amount: 4100000 }, { name: "Pelosi", party: "D", amount: 3200000 }], policy: "Israel Aid — bipartisan 97-3" },
-      { donor: "Goldman Sachs", alsoFunds: [{ name: "Pelosi", party: "D", amount: 2100000 }, { name: "Schumer", party: "D", amount: 1800000 }], policy: "Carried Interest survived 30+ yrs" },
-      { donor: "PhRMA", alsoFunds: [{ name: "Pelosi", party: "D", amount: 1900000 }, { name: "Menendez", party: "D", amount: 1600000 }], policy: "Drug pricing killed from both sides" },
-    ],
-  },
-  schumer: {
-    name: "Chuck Schumer",
-    party: "D",
-    donors: [
-      { donor: "AIPAC", amount: 4100000, sector: "Israel Lobby" },
-      { donor: "Goldman Sachs", amount: 1800000, sector: "Wall Street" },
-      { donor: "Natl Assn of Realtors", amount: 1600000, sector: "Real Estate" },
-    ],
-    roi: [
-      { donor: "AIPAC", donated: 4100000, policyValue: 3800000000, policy: "Israel Aid Package ($3.8B/yr)", roi: 927 },
-      { donor: "Goldman Sachs", donated: 1800000, policyValue: 18000000000, policy: "Carried Interest Loophole Preserved", roi: 10000 },
-      { donor: "Natl Assn of Realtors", donated: 1600000, policyValue: 12000000000, policy: "Housing Deregulation", roi: 7500 },
-    ],
-    bothSides: [
-      { donor: "AIPAC", alsoFunds: [{ name: "McConnell", party: "R", amount: 2800000 }, { name: "Cruz", party: "R", amount: 1900000 }], policy: "Israel Aid — bipartisan 97-3" },
-      { donor: "Goldman Sachs", alsoFunds: [{ name: "McConnell", party: "R", amount: 1500000 }, { name: "Cruz", party: "R", amount: 1200000 }], policy: "Carried Interest survived 30+ yrs" },
-      { donor: "Natl Assn of Realtors", alsoFunds: [{ name: "McConnell", party: "R", amount: 1400000 }, { name: "Trump", party: "R", amount: 1200000 }], policy: "Housing deregulation — bipartisan" },
-    ],
-  },
-  trump: {
-    name: "Donald Trump",
-    party: "R",
-    donors: [
-      { donor: "Koch Network", amount: 2100000, sector: "Energy/Dark Money" },
-      { donor: "NRA", amount: 1500000, sector: "Guns" },
-      { donor: "Natl Assn of Realtors", amount: 1200000, sector: "Real Estate" },
-      { donor: "Fanjul Family", amount: 950000, sector: "Agriculture" },
-    ],
-    roi: [
-      { donor: "Koch Network", donated: 2100000, policyValue: 1900000000000, policy: "2017 Tax Cuts ($1.9T)", roi: 904762 },
-      { donor: "Fanjul Family", donated: 950000, policyValue: 1500000000, policy: "Cuba Sanctions / Sugar Tariffs", roi: 1579 },
-      { donor: "NRA", donated: 1500000, policyValue: 0, policy: "Gun Reform Blocked", roi: null },
-    ],
-    bothSides: [
-      { donor: "Fanjul Family", alsoFunds: [{ name: "Menendez", party: "D", amount: 400000 }], policy: "Cuba sanctions — cross-party" },
-      { donor: "Natl Assn of Realtors", alsoFunds: [{ name: "Pelosi", party: "D", amount: 1800000 }, { name: "Schumer", party: "D", amount: 1600000 }], policy: "Housing deregulation — bipartisan" },
-    ],
-  },
-}
-
-// Detect politician from slug
-function getPoliticianKey(slug: string): string | null {
-  const lower = slug.toLowerCase()
-  // Match master profile pages: slug ends with _[name]-master-profile
-  if (!lower.includes("master-profile")) return null
-  for (const key of Object.keys(POLITICIAN_DATA)) {
-    if (lower.includes(key)) return key
-  }
-  return null
-}
 
 const ProfileWidget: QuartzComponent = ({
   fileData,
+  allFiles,
+  cfg,
   displayClass,
 }: QuartzComponentProps) => {
-  const slug = String(fileData.slug ?? "")
-  const polKey = getPoliticianKey(slug)
+  const slug = String(fileData.slug ?? "").toLowerCase()
+  if (!slug.includes("master-profile")) return null
 
-  // Only render on politician master profile pages with data
-  if (!polKey) return null
-  const pol = POLITICIAN_DATA[polKey]
+  const fm = fileData.frontmatter
+  if (!fm) return null
+
+  const baseUrl = cfg.baseUrl ?? ""
+  const slashIdx = baseUrl.indexOf("/")
+  const basePath = slashIdx >= 0 ? "/" + baseUrl.substring(slashIdx + 1) : ""
+
+  const currentTitle = String(fm.title ?? "").replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim()
+  const party = String(fm.party ?? "")
+  const topDonors = Array.isArray(fm["top-donors"]) ? fm["top-donors"] as string[] : []
+
+  if (topDonors.length === 0) return null
+
+  // Build donor info map from allFiles
+  const donorInfo = new Map<string, { sector: string; slug: string; politiciansFunded: string[] }>()
+  const polInfo = new Map<string, { party: string; slug: string; chamber: string }>()
+
+  for (const f of allFiles) {
+    const fFm = f.frontmatter
+    if (!fFm) continue
+    const fSlug = (f.slug ?? "").toLowerCase()
+    const fTitle = String(fFm.title ?? "").replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim()
+
+    if (fSlug.startsWith("donors--and--power-networks/")) {
+      const sector = String(fFm.sector ?? "")
+      const pf = Array.isArray(fFm["politicians-funded"]) ? fFm["politicians-funded"] as string[] : []
+      donorInfo.set(fTitle, {
+        sector,
+        slug: `${basePath}/${simplifySlug(f.slug!)}`,
+        politiciansFunded: pf,
+      })
+    }
+
+    if (fSlug.startsWith("politicians/") && fSlug.includes("master-profile")) {
+      polInfo.set(fTitle, {
+        party: String(fFm.party ?? ""),
+        slug: `${basePath}/${simplifySlug(f.slug!)}`,
+        chamber: String(fFm.chamber ?? ""),
+      })
+    }
+  }
+
+  // ── FLOW TAB: Top donors with sector ──
+  const flowData = topDonors.map((donorName) => {
+    const info = donorInfo.get(donorName)
+    return {
+      donor: donorName,
+      sector: info?.sector ?? "",
+      slug: info?.slug ?? "",
+    }
+  })
+
+  // ── BOTH SIDES TAB: Which of my donors also fund the other party? ──
+  const oppositeParty = party === "Democrat" ? "Republican" : party === "Republican" ? "Democrat" : ""
+  const bothSidesData: { donor: string; donorSlug: string; otherPols: { name: string; party: string; slug: string; chamber: string }[] }[] = []
+
+  if (oppositeParty) {
+    for (const donorName of topDonors) {
+      const info = donorInfo.get(donorName)
+      if (!info || info.politiciansFunded.length <= 1) continue
+
+      const otherPols: { name: string; party: string; slug: string; chamber: string }[] = []
+      for (const polName of info.politiciansFunded) {
+        if (polName === currentTitle) continue
+        const pi = polInfo.get(polName)
+        if (pi && pi.party === oppositeParty) {
+          otherPols.push({ name: polName, party: pi.party, slug: pi.slug, chamber: pi.chamber })
+        }
+      }
+      if (otherPols.length > 0) {
+        bothSidesData.push({
+          donor: donorName,
+          donorSlug: info.slug,
+          otherPols: otherPols.slice(0, 5),
+        })
+      }
+    }
+  }
+
+  // ── NETWORK TAB: Which donors fund the MOST politicians? ──
+  const networkData = topDonors
+    .map((donorName) => {
+      const info = donorInfo.get(donorName)
+      return {
+        donor: donorName,
+        slug: info?.slug ?? "",
+        reach: info?.politiciansFunded?.length ?? 0,
+        sector: info?.sector ?? "",
+      }
+    })
+    .filter((d) => d.reach > 0)
+    .sort((a, b) => b.reach - a.reach)
+
+  const hasBothSides = bothSidesData.length > 0
+  const hasNetwork = networkData.length > 0
 
   return (
-    <div class={classNames(displayClass, "pw-widget")} data-politician={polKey}>
+    <div class={classNames(displayClass, "pw-widget")}>
       {/* Tabs */}
       <div class="pw-tabs">
-        <button class="pw-tab pw-tab-active" data-tab="flow">Flow</button>
-        <button class="pw-tab" data-tab="roi">ROI</button>
-        <button class="pw-tab" data-tab="both">Both Sides</button>
+        <button class="pw-tab pw-tab-active" data-tab="flow">Donors</button>
+        {hasBothSides && <button class="pw-tab" data-tab="both">Both Sides</button>}
+        {hasNetwork && <button class="pw-tab" data-tab="network">Reach</button>}
       </div>
 
-      {/* Tab: Flow */}
+      {/* Tab: Flow — Top Donors */}
       <div class="pw-panel pw-panel-active" data-panel="flow">
         <div class="pw-section-label">TOP DONORS</div>
-        {pol.donors.map((d) => (
-          <div class="pw-flow-row">
+        {flowData.map((d) => (
+          <a href={d.slug || "#"} class={`pw-flow-row ${d.slug ? "internal" : ""}`}>
             <div class="pw-flow-info">
               <span class="pw-flow-donor">{d.donor}</span>
-              <span class="pw-flow-sector">{d.sector}</span>
+              {d.sector && d.sector !== "undefined" && (
+                <span class="pw-flow-sector">{d.sector}</span>
+              )}
             </div>
-            <span class="pw-flow-amount">
-              {"$" + (d.amount >= 1000000
-                ? (d.amount / 1000000).toFixed(1) + "M"
-                : (d.amount / 1000).toFixed(0) + "K")}
-            </span>
-          </div>
-        ))}
-      </div>
-
-      {/* Tab: ROI */}
-      <div class="pw-panel" data-panel="roi">
-        <div class="pw-section-label">RETURN ON INVESTMENT</div>
-        {pol.roi.map((r) => (
-          <div class="pw-roi-row">
-            <div class="pw-roi-top-row">
-              <span class="pw-roi-donor">{r.donor}</span>
-              <span class={`pw-roi-multiplier ${r.roi === null ? "pw-roi-na" : ""}`}>
-                {r.roi !== null ? r.roi.toLocaleString() + "x" : "N/A"}
-              </span>
-            </div>
-            <div class="pw-roi-policy">{r.policy}</div>
-            <div class="pw-roi-amounts">
-              <span class="pw-roi-donated">
-                {"$" + (r.donated / 1000000).toFixed(1) + "M donated"}
-              </span>
-              <span class="pw-roi-arrow">→</span>
-              <span class="pw-roi-value">
-                {r.policyValue > 0
-                  ? "$" + (r.policyValue >= 1e12
-                      ? (r.policyValue / 1e12).toFixed(1) + "T"
-                      : r.policyValue >= 1e9
-                        ? (r.policyValue / 1e9).toFixed(1) + "B"
-                        : (r.policyValue / 1e6).toFixed(0) + "M") + " value"
-                  : "Priceless"}
-              </span>
-            </div>
-          </div>
+          </a>
         ))}
       </div>
 
       {/* Tab: Both Sides */}
-      <div class="pw-panel" data-panel="both">
-        <div class="pw-section-label">
-          {"ALSO FUNDS " + (pol.party === "D" ? "REPUBLICANS" : "DEMOCRATS")}
-        </div>
-        {pol.bothSides.map((b) => (
-          <div class="pw-bs-row">
-            <div class="pw-bs-donor">{b.donor}</div>
-            <div class="pw-bs-recipients">
-              {b.alsoFunds.map((r) => (
-                <div class="pw-bs-recip">
-                  <span class={`pw-bs-party ${r.party === "D" ? "pw-dem" : "pw-rep"}`}>
-                    {r.party}
-                  </span>
-                  <span class="pw-bs-name">{r.name}</span>
-                  <span class="pw-bs-amt">
-                    {"$" + (r.amount / 1000000).toFixed(1) + "M"}
-                  </span>
-                </div>
-              ))}
-            </div>
-            <div class="pw-bs-policy">{b.policy}</div>
+      {hasBothSides && (
+        <div class="pw-panel" data-panel="both">
+          <div class="pw-section-label">
+            {"ALSO FUNDS " + (party === "Democrat" ? "REPUBLICANS" : "DEMOCRATS")}
           </div>
-        ))}
-      </div>
+          {bothSidesData.map((b) => (
+            <div class="pw-bs-row">
+              <a href={b.donorSlug || "#"} class={`pw-bs-donor ${b.donorSlug ? "internal" : ""}`}>
+                {b.donor}
+              </a>
+              <div class="pw-bs-recipients">
+                {b.otherPols.map((r) => (
+                  <a href={r.slug} class="pw-bs-recip internal">
+                    <span class={`pw-bs-party ${r.party === "Democrat" ? "pw-dem" : "pw-rep"}`}>
+                      {r.party === "Democrat" ? "D" : "R"}
+                    </span>
+                    <span class="pw-bs-name">{r.name}</span>
+                    {r.chamber && r.chamber !== "undefined" && (
+                      <span class="pw-bs-chamber">{r.chamber}</span>
+                    )}
+                  </a>
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+
+      {/* Tab: Network — Donor Reach */}
+      {hasNetwork && (
+        <div class="pw-panel" data-panel="network">
+          <div class="pw-section-label">DONOR REACH</div>
+          {networkData.map((d) => (
+            <a href={d.slug || "#"} class={`pw-flow-row ${d.slug ? "internal" : ""}`}>
+              <div class="pw-flow-info">
+                <span class="pw-flow-donor">{d.donor}</span>
+                {d.sector && d.sector !== "undefined" && (
+                  <span class="pw-flow-sector">{d.sector}</span>
+                )}
+              </div>
+              <div class="pw-reach-badge">
+                <span class="pw-reach-num">{d.reach}</span>
+                <span class="pw-reach-label">funded</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      )}
     </div>
   )
 }
@@ -338,23 +272,10 @@ ProfileWidget.css = `
   display: block;
 }
 
-/* Scrollbar for panels */
-.pw-panel::-webkit-scrollbar {
-  width: 3px;
-}
-
-.pw-panel::-webkit-scrollbar-track {
-  background: transparent;
-}
-
-.pw-panel::-webkit-scrollbar-thumb {
-  background: #1e1e28;
-  border-radius: 2px;
-}
-
-.pw-panel::-webkit-scrollbar-thumb:hover {
-  background: #2a2a36;
-}
+.pw-panel::-webkit-scrollbar { width: 3px; }
+.pw-panel::-webkit-scrollbar-track { background: transparent; }
+.pw-panel::-webkit-scrollbar-thumb { background: #1e1e28; border-radius: 2px; }
+.pw-panel::-webkit-scrollbar-thumb:hover { background: #2a2a36; }
 
 .pw-section-label {
   font-family: 'Space Mono', monospace;
@@ -365,9 +286,9 @@ ProfileWidget.css = `
   margin-bottom: 10px;
 }
 
-/* ─── Flow tab ───────────────────────────── */
+/* ─── Flow/Donors tab ───────────────────────────── */
 
-.pw-flow-row {
+a.pw-flow-row {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -375,9 +296,11 @@ ProfileWidget.css = `
   border-radius: 4px;
   margin-bottom: 2px;
   transition: background 0.15s;
+  text-decoration: none !important;
+  color: inherit !important;
 }
 
-.pw-flow-row:hover {
+a.pw-flow-row:hover {
   background: rgba(91, 141, 206, 0.06);
 }
 
@@ -404,84 +327,28 @@ ProfileWidget.css = `
   letter-spacing: 0.5px;
 }
 
-.pw-flow-amount {
-  font-family: 'Space Mono', monospace;
-  font-size: 12px;
-  font-weight: 700;
-  color: #22c55e;
+/* ─── Reach badge ────────────────────────────── */
+
+.pw-reach-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   flex-shrink: 0;
   margin-left: 8px;
 }
 
-/* ─── ROI tab ────────────────────────────── */
-
-.pw-roi-row {
-  padding: 10px;
-  background: rgba(255, 255, 255, 0.015);
-  border-radius: 6px;
-  margin-bottom: 8px;
-  border: 1px solid #1e1e28;
-}
-
-.pw-roi-row:hover {
-  border-color: rgba(91, 141, 206, 0.2);
-}
-
-.pw-roi-top-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 4px;
-}
-
-.pw-roi-donor {
-  font-size: 12px;
-  font-weight: 600;
-  color: #5b8dce;
-}
-
-.pw-roi-multiplier {
+.pw-reach-num {
   font-family: 'Space Mono', monospace;
   font-size: 14px;
   font-weight: 700;
   color: #22c55e;
 }
 
-.pw-roi-na {
-  color: #f59e0b !important;
-  font-size: 11px !important;
-}
-
-.pw-roi-policy {
-  font-size: 11px;
-  color: #a1a1aa;
-  margin-bottom: 6px;
-  line-height: 1.4;
-}
-
-.pw-roi-amounts {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  flex-wrap: wrap;
-}
-
-.pw-roi-donated {
+.pw-reach-label {
   font-family: 'Space Mono', monospace;
-  font-size: 10px;
-  color: #5b8dce;
-}
-
-.pw-roi-arrow {
-  color: #63636e;
-  font-size: 10px;
-}
-
-.pw-roi-value {
-  font-family: 'Space Mono', monospace;
-  font-size: 10px;
-  color: #22c55e;
-  font-weight: 700;
+  font-size: 7px;
+  color: #4a4a54;
+  letter-spacing: 0.5px;
 }
 
 /* ─── Both Sides tab ─────────────────────── */
@@ -498,25 +365,39 @@ ProfileWidget.css = `
   border-color: rgba(91, 141, 206, 0.2);
 }
 
-.pw-bs-donor {
+a.pw-bs-donor {
   font-size: 12px;
   font-weight: 700;
-  color: #5b8dce;
+  color: #5b8dce !important;
   margin-bottom: 6px;
+  display: block;
+  text-decoration: none !important;
+}
+
+a.pw-bs-donor:hover {
+  color: #8bb5e8 !important;
 }
 
 .pw-bs-recipients {
   display: flex;
   flex-direction: column;
   gap: 4px;
-  margin-bottom: 6px;
 }
 
-.pw-bs-recip {
+a.pw-bs-recip {
   display: flex;
   align-items: center;
   gap: 6px;
   font-size: 11px;
+  text-decoration: none !important;
+  color: inherit !important;
+  padding: 2px 4px;
+  border-radius: 3px;
+  transition: background 0.1s;
+}
+
+a.pw-bs-recip:hover {
+  background: rgba(91, 141, 206, 0.06);
 }
 
 .pw-bs-party {
@@ -548,22 +429,11 @@ ProfileWidget.css = `
   flex: 1;
 }
 
-.pw-bs-amt {
+.pw-bs-chamber {
   font-family: 'Space Mono', monospace;
-  font-size: 10px;
-  font-weight: 700;
-  color: #22c55e;
+  font-size: 8px;
+  color: #4a4a54;
   flex-shrink: 0;
-}
-
-.pw-bs-policy {
-  font-size: 10px;
-  color: #a1a1aa;
-  padding: 6px 8px;
-  background: rgba(245, 158, 11, 0.06);
-  border-left: 2px solid #f59e0b;
-  border-radius: 0 4px 4px 0;
-  line-height: 1.4;
 }
 
 /* ─── Hide on mobile (right sidebar hides) ─── */

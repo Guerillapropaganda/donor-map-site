@@ -5,7 +5,21 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.InteractiveGraphs(), Component.PowerRankings(), Component.WhoFundsYourRep(), Component.WeeklySpotlight(), Component.IssueExplorer(), Component.ArticleNav(), Component.MobileNav()],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.InteractiveGraphs(),
+      condition: (page) => {
+        const slug = (page.fileData.slug ?? "").toLowerCase()
+        return slug.startsWith("interactive/")
+      },
+    }),
+    Component.PowerRankings(),
+    Component.WhoFundsYourRep(),
+    Component.WeeklySpotlight(),
+    Component.IssueExplorer(),
+    Component.ArticleNav(),
+    Component.MobileNav(),
+  ],
   footer: Component.Footer({
     links: {
       "The Donor Map": "https://guerillapropaganda.github.io/donor-map-site/",
