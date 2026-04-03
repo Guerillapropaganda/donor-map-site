@@ -18,6 +18,15 @@ const InteractiveGraphs: QuartzComponent = ({ fileData }: QuartzComponentProps) 
   if (slug.includes("interactive/both-sides")) {
     return <div id="dm-both-sides" class="dm-interactive-container" />
   }
+  if (slug.includes("interactive/donor-networks")) {
+    return <div id="dm-donor-network" class="dm-interactive-container" />
+  }
+  if (slug.includes("interactive/contradictions")) {
+    return <div id="dm-contradictions" class="dm-interactive-container" />
+  }
+  if (slug.includes("interactive/sector-spending")) {
+    return <div id="dm-sector" class="dm-interactive-container" />
+  }
 
   return null
 }
@@ -653,6 +662,433 @@ function renderHomepageTools(container) {
   if (bothPanel) renderBothSides(bothPanel);
 }
 
+// ─── DONOR NETWORK EXPLORER ────────────────
+
+var NETWORK_DATA = {
+  koch: {
+    name: 'Koch Network',
+    sub: '$578M raised in 2024 cycle',
+    color: '#ef4444',
+    orgs: [
+      { name: 'Americans for Prosperity', tag: 'PAC', amt: 72000000 },
+      { name: 'DonorsTrust', tag: 'DARK MONEY', amt: 124000000 },
+      { name: 'Heritage Foundation', tag: 'THINK TANK', amt: 45000000 },
+      { name: 'Cato Institute', tag: 'THINK TANK', amt: 38000000 },
+      { name: 'Federalist Society', tag: 'LEGAL', amt: 28000000 },
+      { name: 'FreedomWorks', tag: 'PAC', amt: 31000000 },
+    ],
+    pols: [
+      { name: 'Ted Cruz', p: 'R', amt: 3800000 },
+      { name: 'Mitch McConnell', p: 'R', amt: 2900000 },
+      { name: 'Ron Johnson', p: 'R', amt: 2100000 },
+      { name: 'Marco Rubio', p: 'R', amt: 1800000 },
+      { name: 'Lindsey Graham', p: 'R', amt: 1800000 },
+    ],
+    results: [
+      { name: '2017 Tax Cuts', val: '$1.9T over 10yr' },
+      { name: 'EPA Deregulation', val: '100+ rules rolled back' },
+      { name: 'Janus v. AFSCME', val: 'Union dues collapse' },
+      { name: 'Right-to-Work Laws', val: '27 states' },
+    ]
+  },
+  musk: {
+    name: 'Elon Musk',
+    sub: '$292M spent in 2024 cycle',
+    color: '#22c55e',
+    orgs: [
+      { name: 'America PAC', tag: 'SUPER PAC', amt: 118600000 },
+      { name: 'SpaceX', tag: 'CONTRACTOR', amt: 15000000 },
+      { name: 'Tesla', tag: 'LOBBYING', amt: 8000000 },
+      { name: 'Boring Company', tag: 'CONTRACTOR', amt: 3000000 },
+      { name: 'Starlink', tag: 'DEFENSE', amt: 5000000 },
+    ],
+    pols: [
+      { name: 'Donald Trump', p: 'R', amt: 118600000 },
+      { name: 'GOP House Fund', p: 'R', amt: 24000000 },
+      { name: 'Various R Senate', p: 'R', amt: 18000000 },
+    ],
+    results: [
+      { name: 'DOGE Appointment', val: 'Gov efficiency czar' },
+      { name: 'Federal Contracts', val: '$38B+ cumulative' },
+      { name: 'EV Credit Changes', val: 'Tesla advantage' },
+      { name: 'Starshield DoD', val: 'Classified contracts' },
+    ]
+  },
+  fairshake: {
+    name: 'Fairshake PAC',
+    sub: '$358M raised across 3 PACs',
+    color: '#5b8dce',
+    orgs: [
+      { name: 'Coinbase', tag: 'CORPORATE', amt: 131500000 },
+      { name: 'Ripple', tag: 'CORPORATE', amt: 48500000 },
+      { name: 'Andreessen Horowitz', tag: 'VC', amt: 44000000 },
+      { name: 'Jump Crypto', tag: 'TRADING', amt: 18000000 },
+      { name: 'Protect Progress', tag: 'SUB-PAC', amt: 86250000 },
+    ],
+    pols: [
+      { name: 'Ritchie Torres', p: 'D', amt: 1200000 },
+      { name: 'Patrick McHenry', p: 'R', amt: 890000 },
+      { name: 'Josh Gottheimer', p: 'D', amt: 750000 },
+      { name: '55 other races', p: 'B', amt: 289000000 },
+    ],
+    results: [
+      { name: 'FIT21 Act', val: 'Crypto legal framework' },
+      { name: 'SEC Retreat', val: 'Enforcement pullback' },
+      { name: 'Porter Defeated', val: '$10M opposition' },
+      { name: '91% Win Rate', val: '54 of 59 races' },
+    ]
+  }
+};
+
+function renderDonorNetwork(container) {
+  container.innerHTML = '';
+  var currentKey = 'koch';
+  var highlighted = null;
+
+  var sel = document.createElement('div');
+  sel.className = 'dm-net-selector';
+  Object.keys(NETWORK_DATA).forEach(function(key) {
+    var btn = document.createElement('button');
+    btn.className = 'dm-net-btn' + (key === currentKey ? ' active' : '');
+    btn.textContent = NETWORK_DATA[key].name;
+    btn.addEventListener('click', function() {
+      currentKey = key;
+      highlighted = null;
+      sel.querySelectorAll('.dm-net-btn').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      buildNet();
+    });
+    sel.appendChild(btn);
+  });
+  container.appendChild(sel);
+
+  var vizArea = document.createElement('div');
+  vizArea.className = 'dm-net-area';
+  container.appendChild(vizArea);
+
+  function buildNet() {
+    vizArea.innerHTML = '';
+    var net = NETWORK_DATA[currentKey];
+    var w = Math.min(vizArea.clientWidth || 800, 920);
+    var h = Math.max(400, 50 + Math.max(net.orgs.length, net.pols.length, net.results.length) * 75);
+    var svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+    svg.setAttribute('viewBox', '0 0 ' + w + ' ' + h);
+    svg.setAttribute('width', '100%');
+    svg.style.minWidth = '700px';
+
+    var cols = [w * 0.08, w * 0.32, w * 0.58, w * 0.84];
+    var headers = ['FUNDER', 'ORGANIZATIONS', 'RECIPIENTS', 'OUTCOMES'];
+    headers.forEach(function(hd, i) {
+      var t = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      t.setAttribute('x', cols[i]);
+      t.setAttribute('y', 18);
+      t.setAttribute('text-anchor', 'middle');
+      t.setAttribute('fill', DM_COLORS.textMuted);
+      t.setAttribute('font-family', "'Space Mono', monospace");
+      t.setAttribute('font-size', '9');
+      t.setAttribute('letter-spacing', '2');
+      t.textContent = hd;
+      svg.appendChild(t);
+    });
+
+    var topPad = 45;
+    var centerY = h / 2;
+    function yPos(i, count) { return topPad + ((h - topPad - 20) / (count + 1)) * (i + 1); }
+
+    // Connections layer
+    var connG = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+    svg.appendChild(connG);
+
+    function curve(x1, y1, x2, y2, color, w2, op) {
+      var p = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      var mx = (x1 + x2) / 2;
+      p.setAttribute('d', 'M' + x1 + ',' + y1 + ' C' + mx + ',' + y1 + ' ' + mx + ',' + y2 + ' ' + x2 + ',' + y2);
+      p.setAttribute('fill', 'none');
+      p.setAttribute('stroke', color);
+      p.setAttribute('stroke-width', w2);
+      p.setAttribute('opacity', op);
+      connG.appendChild(p);
+    }
+
+    function drawConns() {
+      connG.innerHTML = '';
+      net.orgs.forEach(function(o, oi) {
+        var hl = !highlighted || highlighted === 'center' || highlighted === ('o' + oi);
+        curve(cols[0] + 55, centerY, cols[1] - 65, yPos(oi, net.orgs.length),
+          net.color, Math.max(1, Math.min(4, o.amt / 30000000)), highlighted ? (hl ? 0.5 : 0.04) : 0.2);
+      });
+      net.orgs.forEach(function(o, oi) {
+        net.pols.forEach(function(p, pi) {
+          var hl = !highlighted || highlighted === ('o' + oi) || highlighted === ('p' + pi);
+          curve(cols[1] + 65, yPos(oi, net.orgs.length), cols[2] - 55, yPos(pi, net.pols.length),
+            DM_COLORS.green, 1, highlighted ? (hl ? 0.35 : 0.02) : 0.07);
+        });
+      });
+      net.pols.forEach(function(p, pi) {
+        net.results.forEach(function(r, ri) {
+          var hl = !highlighted || highlighted === ('p' + pi) || highlighted === ('r' + ri);
+          curve(cols[2] + 55, yPos(pi, net.pols.length), cols[3] - 70, yPos(ri, net.results.length),
+            DM_COLORS.amber, 1, highlighted ? (hl ? 0.35 : 0.02) : 0.07);
+        });
+      });
+    }
+    drawConns();
+
+    function mkNode(x, y, nw, nh, label, sub, color, id) {
+      var isHl = !highlighted || highlighted === id;
+      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+      g.style.cursor = 'pointer';
+      g.style.opacity = highlighted ? (isHl ? '1' : '0.2') : '1';
+      var rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      rect.setAttribute('x', x - nw / 2); rect.setAttribute('y', y - nh / 2);
+      rect.setAttribute('width', nw); rect.setAttribute('height', nh);
+      rect.setAttribute('rx', 6);
+      rect.setAttribute('fill', DM_COLORS.surface);
+      rect.setAttribute('stroke', isHl && highlighted ? color : DM_COLORS.border);
+      rect.setAttribute('stroke-width', isHl && highlighted ? 2 : 1);
+      g.appendChild(rect);
+      var t1 = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      t1.setAttribute('x', x); t1.setAttribute('y', y - (sub ? 3 : 2));
+      t1.setAttribute('text-anchor', 'middle');
+      t1.setAttribute('fill', DM_COLORS.textPrimary);
+      t1.setAttribute('font-size', '11'); t1.setAttribute('font-weight', '600');
+      t1.setAttribute('font-family', "'Space Grotesk', sans-serif");
+      var maxC = Math.floor(nw / 7);
+      t1.textContent = label.length > maxC ? label.substring(0, maxC - 2) + '..' : label;
+      g.appendChild(t1);
+      if (sub) {
+        var t2 = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+        t2.setAttribute('x', x); t2.setAttribute('y', y + 12);
+        t2.setAttribute('text-anchor', 'middle');
+        t2.setAttribute('fill', color);
+        t2.setAttribute('font-size', '10'); t2.setAttribute('font-weight', '700');
+        t2.setAttribute('font-family', "'Space Mono', monospace");
+        t2.textContent = sub;
+        g.appendChild(t2);
+      }
+      g.addEventListener('click', function() {
+        highlighted = highlighted === id ? null : id;
+        buildNet();
+      });
+      svg.appendChild(g);
+    }
+
+    mkNode(cols[0], centerY, 110, 50, net.name, net.sub.split(' ')[0], net.color, 'center');
+    net.orgs.forEach(function(o, i) {
+      mkNode(cols[1], yPos(i, net.orgs.length), 130, 42, o.name, fmt(o.amt), net.color, 'o' + i);
+    });
+    net.pols.forEach(function(p, i) {
+      var c = p.p === 'D' ? DM_COLORS.dem : (p.p === 'B' ? DM_COLORS.steel : DM_COLORS.rep);
+      mkNode(cols[2], yPos(i, net.pols.length), 110, 42, p.name, fmt(p.amt), c, 'p' + i);
+    });
+    net.results.forEach(function(r, i) {
+      mkNode(cols[3], yPos(i, net.results.length), 140, 42, r.name, r.val, DM_COLORS.amber, 'r' + i);
+    });
+
+    vizArea.appendChild(svg);
+  }
+
+  buildNet();
+  var hint = document.createElement('div');
+  hint.className = 'dm-graph-hint';
+  hint.textContent = 'Click any node to trace connections. Switch networks above.';
+  container.appendChild(hint);
+}
+
+// ─── CONTRADICTION EXPLORER ────────────────
+
+var CONTRADICTION_DATA = [
+  { name: 'Nancy Pelosi', party: 'D',
+    says: 'Champions affordable healthcare and consumer protection',
+    pays: 'PhRMA: $1.9M | Goldman Sachs: $2.1M | Realtors: $1.8M',
+    result: 'Drug pricing killed. Carried interest loophole preserved.',
+    sector: 'Pharma + Wall Street' },
+  { name: 'Ted Cruz', party: 'R',
+    says: 'Drain the swamp, fight for working families',
+    pays: 'Koch Network: $3.8M | NRA: $1.8M | Lockheed: $1.4M',
+    result: '$1.9T tax cuts for corporations. Gun reform blocked.',
+    sector: 'Dark Money + Defense' },
+  { name: 'Chuck Schumer', party: 'D',
+    says: 'Wall Street accountability and consumer protection',
+    pays: 'AIPAC: $4.1M | Goldman Sachs: $1.8M | Realtors: $1.6M',
+    result: 'Carried interest survived 30+ years of reform.',
+    sector: 'Israel Lobby + Wall Street' },
+  { name: 'Mitch McConnell', party: 'R',
+    says: 'Fiscal conservative, limited government',
+    pays: 'Koch: $2.9M | AIPAC: $2.8M | PhRMA: $2.1M',
+    result: '$886B defense budget. Drug pricing killed. $1.9T tax cuts.',
+    sector: 'Defense + Pharma' },
+  { name: 'Donald Trump', party: 'R',
+    says: 'Working-class champion, drain the swamp',
+    pays: 'Musk: $118.6M | Koch: $2.1M | NRA: $1.5M',
+    result: 'Billionaire cabinet. DOGE led by biggest donor.',
+    sector: 'Mega-Donors + Energy' },
+  { name: 'Marco Rubio', party: 'R',
+    says: 'American families first, strong national defense',
+    pays: 'AIPAC: $2.4M | Koch: $1.8M | Fanjul: $1.2M',
+    result: 'Cuba sanctions protect sugar monopoly. Israel aid $3.8B/yr.',
+    sector: 'Israel Lobby + Agriculture' },
+  { name: 'Lindsey Graham', party: 'R',
+    says: 'National security hawk, military strength',
+    pays: 'Lockheed: $1.8M | Koch: $1.8M | NRA: $1.2M',
+    result: 'Defense budget $886B. Gun reform blocked.',
+    sector: 'Defense + Guns' },
+  { name: 'Bob Menendez', party: 'D',
+    says: 'Community advocate, healthcare access champion',
+    pays: 'AIPAC: $2.1M | PhRMA: $1.6M | Fanjul: $400K',
+    result: 'Drug pricing killed. Cuba sanctions maintained. Indicted.',
+    sector: 'Pharma + Agriculture' },
+];
+
+function renderContradictions(container) {
+  container.innerHTML = '';
+
+  var header = document.createElement('div');
+  header.className = 'dm-contra-header';
+  header.innerHTML = '<span class="dm-contra-title">SAY VS PAY</span>' +
+    '<span class="dm-contra-sub">What they promise vs. who pays them \u2014 and what actually happens</span>';
+  container.appendChild(header);
+
+  var filters = document.createElement('div');
+  filters.className = 'dm-contra-filters';
+  var currentFilter = 'ALL';
+  ['ALL', 'D', 'R'].forEach(function(f) {
+    var btn = document.createElement('button');
+    btn.className = 'dm-contra-filter-btn' + (f === currentFilter ? ' active' : '');
+    btn.textContent = f === 'ALL' ? 'ALL' : (f === 'D' ? 'DEMOCRATS' : 'REPUBLICANS');
+    btn.style.color = f === 'D' ? DM_COLORS.dem : (f === 'R' ? DM_COLORS.rep : DM_COLORS.textSecondary);
+    btn.addEventListener('click', function() {
+      currentFilter = f;
+      filters.querySelectorAll('.dm-contra-filter-btn').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      renderCards();
+    });
+    filters.appendChild(btn);
+  });
+  container.appendChild(filters);
+
+  var grid = document.createElement('div');
+  grid.className = 'dm-contra-grid';
+  container.appendChild(grid);
+
+  function renderCards() {
+    grid.innerHTML = '';
+    CONTRADICTION_DATA.filter(function(d) {
+      return currentFilter === 'ALL' || d.party === currentFilter;
+    }).forEach(function(d) {
+      var card = document.createElement('div');
+      card.className = 'dm-contra-card';
+      card.innerHTML =
+        '<div class="dm-contra-card-top">' +
+          '<span class="dm-contra-party" style="background:' + (d.party === 'D' ? DM_COLORS.dem : DM_COLORS.rep) + '">' + d.party + '</span>' +
+          '<span class="dm-contra-name">' + d.name + '</span>' +
+          '<span class="dm-contra-sector">' + d.sector + '</span>' +
+        '</div>' +
+        '<div class="dm-contra-says">' +
+          '<div class="dm-contra-label">SAYS</div>' +
+          '<div class="dm-contra-text">\u201C' + d.says + '\u201D</div>' +
+        '</div>' +
+        '<div class="dm-contra-pays">' +
+          '<div class="dm-contra-label">PAYS</div>' +
+          '<div class="dm-contra-text">' + d.pays + '</div>' +
+        '</div>' +
+        '<div class="dm-contra-result">' +
+          '<div class="dm-contra-label">RESULT</div>' +
+          '<div class="dm-contra-text">' + d.result + '</div>' +
+        '</div>';
+      grid.appendChild(card);
+    });
+  }
+  renderCards();
+}
+
+// ─── SECTOR SPENDING DASHBOARD ─────────────
+
+var SECTOR_DATA = [
+  { name: 'Energy / Dark Money', org: 'Koch Network', spent: 12300000, returned: 1900000000000, policy: '2017 Tax Cuts ($1.9T)', color: '#ef4444' },
+  { name: 'Defense', org: 'Lockheed Martin', spent: 6400000, returned: 886000000000, policy: 'Defense Budget $886B', color: '#f59e0b' },
+  { name: 'Pharma', org: 'PhRMA', spent: 9800000, returned: 450000000000, policy: 'Drug Pricing Killed', color: '#22c55e' },
+  { name: 'Israel Lobby', org: 'AIPAC', spent: 21200000, returned: 3800000000, policy: 'Israel Aid $3.8B/yr', color: '#5b8dce' },
+  { name: 'Wall Street', org: 'Goldman Sachs', spent: 8700000, returned: 18000000000, policy: 'Carried Interest Kept', color: '#a855f7' },
+  { name: 'Real Estate', org: 'Realtors Assn', spent: 7100000, returned: 12000000000, policy: 'Housing Deregulation', color: '#06b6d4' },
+  { name: 'Agriculture', org: 'Fanjul Family', spent: 2900000, returned: 1500000000, policy: 'Sugar Tariffs + Cuba Sanctions', color: '#84cc16' },
+  { name: 'Guns', org: 'NRA', spent: 5200000, returned: 0, policy: 'Gun Reform Blocked', color: '#78716c' },
+];
+
+function renderSectorDashboard(container) {
+  container.innerHTML = '';
+
+  var header = document.createElement('div');
+  header.className = 'dm-sector-header';
+  header.innerHTML = '<span class="dm-sector-title">SECTOR SPENDING vs POLICY RETURNS</span>' +
+    '<span class="dm-sector-sub">How much each industry spends on politics \u2014 and what they get back</span>';
+  container.appendChild(header);
+
+  var sorted = SECTOR_DATA.slice().sort(function(a, b) {
+    if (a.returned === 0) return 1;
+    if (b.returned === 0) return -1;
+    return (b.returned / b.spent) - (a.returned / a.spent);
+  });
+
+  var maxSpent = Math.max.apply(null, sorted.map(function(d) { return d.spent; }));
+  var maxRet = Math.max.apply(null, sorted.filter(function(d) { return d.returned > 0; }).map(function(d) { return d.returned; }));
+
+  sorted.forEach(function(row) {
+    var card = document.createElement('div');
+    card.className = 'dm-sector-card';
+    card.style.borderLeftColor = row.color;
+    var roi = row.returned > 0 ? Math.round(row.returned / row.spent) : 0;
+    card.innerHTML =
+      '<div class="dm-sector-top">' +
+        '<div class="dm-sector-name">' + row.name + '</div>' +
+        '<div class="dm-sector-org">' + row.org + '</div>' +
+      '</div>' +
+      '<div class="dm-sector-bars">' +
+        '<div class="dm-sector-bar-row">' +
+          '<span class="dm-sector-bar-label">SPENT</span>' +
+          '<div class="dm-sector-bar-track">' +
+            '<div class="dm-sector-bar-fill" style="width:' + ((row.spent / maxSpent) * 100) + '%;background:' + row.color + '"></div>' +
+          '</div>' +
+          '<span class="dm-sector-bar-val">' + fmt(row.spent) + '</span>' +
+        '</div>' +
+        '<div class="dm-sector-bar-row">' +
+          '<span class="dm-sector-bar-label">RETURN</span>' +
+          '<div class="dm-sector-bar-track">' +
+            '<div class="dm-sector-bar-fill" style="width:' + (row.returned > 0 ? ((row.returned / maxRet) * 100) : 0) + '%;background:' + DM_COLORS.green + '"></div>' +
+          '</div>' +
+          '<span class="dm-sector-bar-val" style="color:' + (row.returned > 0 ? DM_COLORS.green : DM_COLORS.textMuted) + '">' + (row.returned > 0 ? fmt(row.returned) : 'N/A') + '</span>' +
+        '</div>' +
+      '</div>' +
+      '<div class="dm-sector-bottom">' +
+        '<span class="dm-sector-policy">' + row.policy + '</span>' +
+        '<span class="dm-sector-roi" style="color:' + (roi > 0 ? DM_COLORS.green : DM_COLORS.amber) + '">' +
+          'ROI: ' + (roi > 0 ? roi.toLocaleString() + 'x' : 'Blocked') +
+        '</span>' +
+      '</div>';
+    container.appendChild(card);
+  });
+}
+
+// ─── INLINE: Contradiction section markers ──
+
+function enhanceContradictions() {
+  var article = document.querySelector('article');
+  if (!article) return;
+  var headings = article.querySelectorAll('h2, h3');
+  for (var i = 0; i < headings.length; i++) {
+    var h = headings[i];
+    if (h.dataset.contraMarked) continue;
+    var text = (h.textContent || '').toLowerCase();
+    if (text.indexOf('contradiction') !== -1) {
+      h.dataset.contraMarked = 'true';
+      var marker = document.createElement('div');
+      marker.className = 'dm-contra-marker';
+      marker.innerHTML = '<span class="dm-contra-marker-dot"></span> CONTRADICTION DETECTED';
+      h.parentNode.insertBefore(marker, h);
+    }
+  }
+}
+
 // ─── INIT ────────────────────────────────────
 
 function initInteractive() {
@@ -669,6 +1105,15 @@ function initInteractive() {
 
   var bs = document.getElementById('dm-both-sides');
   if (bs) renderBothSides(bs);
+
+  var dn = document.getElementById('dm-donor-network');
+  if (dn) renderDonorNetwork(dn);
+
+  var ct = document.getElementById('dm-contradictions');
+  if (ct) renderContradictions(ct);
+
+  var sc = document.getElementById('dm-sector');
+  if (sc) renderSectorDashboard(sc);
 }
 
 // Replace em dashes with semicolons in article text
@@ -808,8 +1253,9 @@ cleanListingNames();
 hideDataviewFields();
 enhanceTables();
 enhanceListings();
+enhanceContradictions();
 document.addEventListener('nav', function() {
-  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); cleanListingNames(); hideDataviewFields(); enhanceTables(); enhanceListings(); }, 100);
+  setTimeout(function() { initInteractive(); replaceEmDashes(); cleanFolderTitle(); cleanListingNames(); hideDataviewFields(); enhanceTables(); enhanceListings(); enhanceContradictions(); }, 100);
 });
 `
 
@@ -1249,6 +1695,361 @@ InteractiveGraphs.css = `
 
   .dm-hp-panel {
     padding: 16px 12px;
+  }
+}
+
+/* ═══════════════════════════════════════════════
+   DONOR NETWORK EXPLORER
+   ═══════════════════════════════════════════════ */
+
+.dm-net-selector {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.dm-net-btn {
+  padding: 8px 18px;
+  border: 1px solid #1e1e28;
+  border-radius: 6px;
+  background: #13131a;
+  color: #b4b4bc;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.dm-net-btn:hover {
+  border-color: rgba(91, 141, 206, 0.3);
+  color: #e4e4e7;
+}
+
+.dm-net-btn.active {
+  border-color: #5b8dce;
+  color: #5b8dce;
+  background: rgba(91, 141, 206, 0.08);
+}
+
+.dm-net-area {
+  width: 100%;
+  overflow-x: auto;
+  margin-bottom: 12px;
+}
+
+.dm-net-area svg {
+  display: block;
+}
+
+/* ═══════════════════════════════════════════════
+   CONTRADICTION EXPLORER
+   ═══════════════════════════════════════════════ */
+
+.dm-contra-header, .dm-sector-header {
+  margin-bottom: 20px;
+}
+
+.dm-contra-title {
+  display: block;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #ef4444;
+  margin-bottom: 4px;
+}
+
+.dm-sector-title {
+  display: block;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #63636e;
+  margin-bottom: 4px;
+}
+
+.dm-contra-sub, .dm-sector-sub {
+  font-size: 13px;
+  color: #a1a1aa;
+}
+
+.dm-contra-filters {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.dm-contra-filter-btn {
+  padding: 6px 16px;
+  border: 1px solid #1e1e28;
+  border-radius: 4px;
+  background: #13131a;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.dm-contra-filter-btn:hover {
+  border-color: rgba(91, 141, 206, 0.3);
+}
+
+.dm-contra-filter-btn.active {
+  border-color: currentColor;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.dm-contra-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 16px;
+}
+
+.dm-contra-card {
+  background: #13131a;
+  border: 1px solid #1e1e28;
+  border-radius: 8px;
+  padding: 20px;
+  transition: border-color 0.2s;
+}
+
+.dm-contra-card:hover {
+  border-color: rgba(239, 68, 68, 0.3);
+}
+
+.dm-contra-card-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.dm-contra-party {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  color: white;
+  flex-shrink: 0;
+}
+
+.dm-contra-name {
+  font-size: 16px;
+  font-weight: 700;
+  color: #e4e4e7;
+}
+
+.dm-contra-sector {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: #63636e;
+  letter-spacing: 0.5px;
+  margin-left: auto;
+}
+
+.dm-contra-says, .dm-contra-pays, .dm-contra-result {
+  padding: 10px 12px;
+  border-radius: 6px;
+  margin-bottom: 8px;
+}
+
+.dm-contra-says {
+  background: rgba(91, 141, 206, 0.06);
+  border-left: 3px solid #5b8dce;
+}
+
+.dm-contra-pays {
+  background: rgba(34, 197, 94, 0.06);
+  border-left: 3px solid #22c55e;
+}
+
+.dm-contra-result {
+  background: rgba(239, 68, 68, 0.06);
+  border-left: 3px solid #ef4444;
+}
+
+.dm-contra-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #63636e;
+  margin-bottom: 4px;
+}
+
+.dm-contra-text {
+  font-size: 13px;
+  color: #b4b4bc;
+  line-height: 1.5;
+}
+
+/* ═══════════════════════════════════════════════
+   SECTOR SPENDING DASHBOARD
+   ═══════════════════════════════════════════════ */
+
+.dm-sector-card {
+  background: #13131a;
+  border: 1px solid #1e1e28;
+  border-left: 3px solid;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 12px;
+  transition: border-color 0.2s;
+}
+
+.dm-sector-card:hover {
+  border-right-color: rgba(91, 141, 206, 0.3);
+}
+
+.dm-sector-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.dm-sector-name {
+  font-size: 16px;
+  font-weight: 700;
+  color: #e4e4e7;
+}
+
+.dm-sector-org {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #63636e;
+}
+
+.dm-sector-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.dm-sector-bar-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.dm-sector-bar-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 1.5px;
+  color: #63636e;
+  width: 60px;
+  flex-shrink: 0;
+}
+
+.dm-sector-bar-track {
+  flex: 1;
+  height: 8px;
+  background: #1a1a22;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.dm-sector-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.8s ease;
+}
+
+.dm-sector-bar-val {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  color: #b4b4bc;
+  width: 70px;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.dm-sector-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.dm-sector-policy {
+  font-size: 12px;
+  color: #a1a1aa;
+}
+
+.dm-sector-roi {
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+/* ═══════════════════════════════════════════════
+   INLINE CONTRADICTION MARKER
+   ═══════════════════════════════════════════════ */
+
+.dm-contra-marker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #ef4444;
+  background: rgba(239, 68, 68, 0.08);
+  border: 1px solid rgba(239, 68, 68, 0.2);
+  border-radius: 4px;
+  padding: 4px 12px;
+  margin-bottom: 8px;
+}
+
+.dm-contra-marker-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #ef4444;
+  animation: dm-contra-pulse 2s ease-in-out infinite;
+}
+
+@keyframes dm-contra-pulse {
+  0%, 100% { opacity: 1; box-shadow: 0 0 4px rgba(239, 68, 68, 0.6); }
+  50% { opacity: 0.3; box-shadow: 0 0 1px rgba(239, 68, 68, 0.2); }
+}
+
+/* ─── Mobile responsive for new interactives ── */
+
+@media (max-width: 800px) {
+  .dm-contra-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .dm-contra-sector {
+    margin-left: 0;
+  }
+
+  .dm-sector-bar-val {
+    width: 55px;
+    font-size: 10px;
+  }
+
+  .dm-net-btn {
+    padding: 6px 12px;
+    font-size: 12px;
   }
 }
 `
