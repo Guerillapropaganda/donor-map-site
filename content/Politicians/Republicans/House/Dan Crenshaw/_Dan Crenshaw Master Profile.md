@@ -80,7 +80,7 @@ In March 2026, Crenshaw lost his Republican primary to Steve Toth by 15 points â
 
 | Contributor | Total | Type |
 |-------------|-------|------|
-| [[AIPAC - American Israel Public Affairs Committee\|AIPAC]] | $54,118 | Individuals + PAC |
+| [[AIPAC - American Israel Public Affairs Committee|AIPAC]] | $54,118 | Individuals + PAC |
 | Camden Property Trust | $33,000 | Individuals (Houston REIT) |
 | David Z Mafrige Interests | $33,000 | Individuals (Texas developer) |
 | Coordinates Operations LLC | $26,400 | Individuals |

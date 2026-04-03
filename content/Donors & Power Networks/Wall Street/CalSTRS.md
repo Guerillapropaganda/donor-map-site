@@ -9,7 +9,7 @@ parent: null
 
 #calstrs #pension #california #teachers #wall-street #investment #education #private-equity #fossil-fuels
 
-related: [[CalPERS]] [[National Education Association]] [[_Gavin Newsom Master Profile|Gavin Newsom]] [[California Teachers Association]] [[Blackstone - Blackstone Group|Blackstone]] [[Koch Network - Charles Koch|Koch Network]]
+related: [[CalPERS]] [[National Education Association]] [[_Gavin Newsom Master Profile|Gavin Newsom]] [[CTA - California Teachers Association]] [[Blackstone - Blackstone Group|Blackstone]] [[Koch Network - Charles Koch|Koch Network]]
 
 ---
 

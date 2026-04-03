@@ -117,7 +117,7 @@ related: [[_Think Tank Framework]] · [[_VAULT_INDEX]]
 | [[Bradley Foundation]] | Heritage, AEI, Manhattan Institute |
 | [[Peter Thiel]] | Manhattan Institute, Cato |
 | [[Goldman Sachs]] | Brookings, CFR, Bipartisan Policy Center, Third Way, Atlantic Council (board chair), Aspen Institute |
-| [[SEIU - Service Employees International Union\|SEIU]] | EPI, CAP |
+| [[SEIU - Service Employees International Union|SEIU]] | EPI, CAP |
 | Northrop Grumman | CNAS (#1 defense donor), Atlantic Council, Hudson Institute |
 | Open Society Foundations (Soros) | Brennan Center ($7.47M), CAP, CBPP |
 

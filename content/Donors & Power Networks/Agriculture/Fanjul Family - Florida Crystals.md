@@ -10,7 +10,7 @@ parent: null
 
 #donor #mega-donor #agriculture #sugar #florida #bipartisan-donor #both-sides-illusion #forced-labor #everglades #lobbying #subsidy #cuba-policy #foreign-policy #defense-industry #regime-change #caribbean #revolving-door #k-street
 
-related: [[_Marco Rubio Master Profile|Rubio]] [[_Donald Trump Master Profile|Trump]] [[American Farm Bureau Federation]] [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] [[Norman Braman]] [[Reclaim America PAC]] [[Lockheed Martin]] [[Lockheed Martin PAC]] [[General Dynamics]] [[Raytheon]] [[Mauricio Claver-Carone]] [[Michael Waltz]] [[LARA Fund]] [[Cubaexport]] [[Pernod Ricard]] [[Bacardi]] [[Nicolás Maduro]] [[Brian Walsh]] [[Victor Cervino]] [[Darrell Issa]] [[Debbie Wasserman Schultz]] [[Chris Dodd]] [[Collin Peterson]] [[Combest, Sell & Associates]] [[The Peterson Group]] [[Jared Moskowitz]]
+related: [[_Marco Rubio Master Profile|Rubio]] [[_Donald Trump Master Profile|Trump]] [[American Farm Bureau Federation]] [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] [[Norman Braman]] [[Reclaim America PAC]] [[Lockheed Martin]] [[Lockheed Martin]] [[General Dynamics]] [[Raytheon]] [[Mauricio Claver-Carone]] [[Michael Waltz]] [[LARA Fund]] [[Cubaexport]] [[Pernod Ricard]] [[Bacardi]] [[Nicolás Maduro]] [[Brian Walsh]] [[Victor Cervino]] [[Darrell Issa]] [[Debbie Wasserman Schultz]] [[Chris Dodd]] [[Collin Peterson]] [[Combest, Sell & Associates]] [[The Peterson Group]] [[Jared Moskowitz]]
 
 ---
 

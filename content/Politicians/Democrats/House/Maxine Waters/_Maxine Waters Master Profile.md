@@ -52,7 +52,7 @@ Waters is the populist gatekeeper of Wall Street regulation. Her Financial Servi
 |-------------|--------|-----------------|
 | American Association for Justice | Legal | Trial lawyers |
 | National Association of Realtors | Real Estate | Housing policy jurisdiction |
-| United Auto Workers | Labor | [[SEIU - Service Employees International Union\|SEIU]] (aligned) |
+| United Auto Workers | Labor | [[SEIU - Service Employees International Union|SEIU]] (aligned) |
 
 ### FIRE Sector (Finance, Insurance, Real Estate):
 - ~$60,000 in 2010 cycle (pre-chairmanship)

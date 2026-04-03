@@ -9,7 +9,7 @@ parent: null
 
 #dscc #senate #democratic #campaign-committee #fundraising #gatekeeper #dark-money #class-analysis
 
-related: [[Democratic Senatorial Campaign Committee]] [[_Chuck Schumer Master Profile|Schumer]] [[Senate Majority PAC]] [[Majority Forward]] [[NRSC - National Republican Senatorial Committee|NRSC]]
+related: [[Democratic Senatorial Campaign Committee]] [[_Chuck Schumer Master Profile|Schumer]] [[Senate Majority PAC]] [[Majority Forward]] [[National Republican Senatorial Committee|NRSC]]
 
 ---
 

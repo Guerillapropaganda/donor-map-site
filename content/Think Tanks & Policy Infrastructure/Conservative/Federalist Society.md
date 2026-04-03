@@ -48,7 +48,7 @@ The Federalist Society's direct budget is modest by Washington standards — $22
 | Donor | Amount | Period | Source |
 |-------|--------|--------|--------|
 | [[DonorsTrust]] | $5.5M (2017), $4.3M (2022) | Ongoing | CMD |
-| [[Bradley Foundation\|Lynde & Harry Bradley Foundation]] | $3M+ | Single year | ProPublica |
+| [[Bradley Foundation|Lynde & Harry Bradley Foundation]] | $3M+ | Single year | ProPublica |
 | Charles G. Koch Charitable Foundation | $768K | 2018 | ProPublica 990 |
 | William & Flora Hewlett Foundation | $543K | 2018 | ProPublica 990 |
 | Sarah Scaife Foundation | Ongoing | 1980s–present | DeSmog |

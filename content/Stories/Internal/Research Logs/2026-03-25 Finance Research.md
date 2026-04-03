@@ -53,7 +53,7 @@ MAGA Inc., the super PAC backing Trump, ended 2025 with $304 million in cash on 
 
 **NBC News finding:** Several MAGA Inc. mega-donors have active pending business before the federal government, raising direct pay-to-play concerns.
 
-**Vault profiles to update:** [[Stephen Schwarzman - Blackstone]], [[MAGA Inc.]] (if exists), [[Donald Trump Master Profile]]
+**Vault profiles to update:** [[Stephen Schwarzman - Blackstone]], [[MAGA Inc]] (if exists), [[_Donald Trump Master Profile]]
 
 **Sources:**
 - [CNN: Trump's super PAC builds $300 million cash stockpile](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2)
@@ -86,7 +86,7 @@ Fairshake, the crypto industry's super PAC, ended 2025 with $193 million — mor
 > [!money]
 > **Both-Sides Illusion in action:** Fairshake funds both Protect Progress (D) and Defend American Jobs (R) simultaneously. Any Democrat who votes pro-crypto gets defended by Fairshake money; any Democrat who votes against gets targeted. The industry has effectively converted its super PAC into a cross-party enforcement mechanism — not an electoral strategy, but a legislative compliance system.
 
-**Vault profiles to update:** [[Fairshake PAC]] (new node needed), [[Coinbase]], [[Andreessen Horowitz]]
+**Vault profiles to update:** [[Fairshake PAC]] (new node needed), [[Coinbase]], [[a16z - Andreessen Horowitz]]
 
 **Sources:**
 - [Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac) (Tier 2)
@@ -185,7 +185,7 @@ Peter Thiel resumed political giving in early 2025 after sitting out the 2024 cy
 > [!money]
 > **$3M to kill California's billionaire wealth tax** is a direct Donor-Class Override at state level. The proposed 5% CA wealth tax would cost Thiel directly. He deployed a $3M lobbying investment to protect personal wealth from taxation — then continued making federal political donations. The ROI calculus: Thiel's net worth ~$15B; a 5% annual wealth tax on assets above a threshold could cost him hundreds of millions. $3M lobbying spend = indefinite protection.
 
-**Vault profiles to update:** [[Peter Thiel]], [[Club for Growth Action]], [[Mike Johnson Master Profile]]
+**Vault profiles to update:** [[Peter Thiel]], [[Club for Growth Action]], [[_Mike Johnson Master Profile]]
 
 **Sources:**
 - [Yahoo Finance: Peter Thiel's political hiatus is over. Here's where his money's flowing now.](https://finance.yahoo.com/news/peter-thiels-political-hiatus-over-112902928.html) (Tier 2)
@@ -211,7 +211,7 @@ AIPAC's federal PAC delivered $28 million to congressional members and candidate
 > [!money]
 > **AIPAC's enforcement architecture is the vault's clearest example of donor-class legislative compliance.** The pattern is now systematic: back incumbents generously → target any member who votes against Israel aid → use UDP super PAC for primary enforcement → documented results in Bowman/Bush defeats. The $28M cycle-to-date PAC money is the carrot; the UDP is the stick.
 
-**Vault profiles to update:** [[AIPAC - American Israel Public Affairs Committee]], [[Jamaal Bowman]], [[Cori Bush]], [[Mike Johnson Master Profile]]
+**Vault profiles to update:** [[AIPAC - American Israel Public Affairs Committee]], [[Jamaal Bowman]], [[Cori Bush]], [[_Mike Johnson Master Profile]]
 
 **Sources:**
 - [Readsludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2)
@@ -298,7 +298,7 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 > [!money]
 > **Donation-to-policy timing:** The crypto industry gave $288M+ to the 2026 midterms — more than double the 2024 cycle — after the Trump administration delivered regulatory rollback. This is the donation-to-outcome sequence in reverse: policy first, then payment. The payment structure ensures continued favorable treatment.
 
-**Vault profiles to update:** [[Crypto.com / Foris DAX]] (new node needed), [[Donald Trump Master Profile]]
+**Vault profiles to update:** [[Crypto.com / Foris DAX]] (new node needed), [[_Donald Trump Master Profile]]
 
 **Sources:**
 - [CNN: Trump's super PAC builds $300 million cash stockpile](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2)
@@ -317,7 +317,7 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 | [[Koch Network - Charles Koch]] / [[Americans for Prosperity]] | ACA subsidy kill campaign; $28.9M raised in 2025 | HIGH |
 | [[Peter Thiel]] | Hiatus ended; $852K Johnson JFC; $3M CA wealth tax lobbying; Club for Growth | HIGH |
 | [[Palantir Technologies]] | Joe Lonsdale (co-founder) founding donor of Leading the Future AI PAC ($125M) | MEDIUM |
-| [[Mike Johnson Master Profile]] | Top AIPAC recipient ($625K); Thiel JFC recipient | MEDIUM |
+| [[_Mike Johnson Master Profile]] | Top AIPAC recipient ($625K); Thiel JFC recipient | MEDIUM |
 | [[Ken Griffin - Citadel]] | SLF/CLF donations ongoing; 2025 data not yet in FEC filing cycle | MEDIUM |
 | [[Elon Musk - Tesla SpaceX]] | DOGE revolving door pattern; 23 DOGE members cutting their former employers | MEDIUM |
 | [[Meta - Facebook]] | Now tops Big Tech lobbying at $26.29M in 2025 | LOW |

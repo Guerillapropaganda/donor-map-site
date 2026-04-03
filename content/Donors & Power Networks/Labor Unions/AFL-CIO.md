@@ -70,7 +70,7 @@ The AFL-CIO is not a union itself — it is a federation of unions. Its members 
 |-----------|--------|------|
 | AFL-CIO (own outside spending arm) | $1,546,157 | Outside group |
 | Campaign for a Family Friendly Economy PAC | $900,000 | Carey committee |
-| [[IBEW - International Brotherhood of Electrical Workers\|IBEW]] | $210,000 | 527 |
+| [[IBEW - International Brotherhood of Electrical Workers|IBEW]] | $210,000 | 527 |
 | Retire Career Politicians | $200,000 | Outside group |
 | House Majority PAC | $142,500 | Carey committee |
 | American Bridge 21st Century | $100,000 | Carey committee |

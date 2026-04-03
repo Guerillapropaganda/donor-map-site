@@ -105,8 +105,8 @@ The pipeline is circular:
 
 | Step | Actor | Action |
 |------|-------|--------|
-| 1 | [[Fanjul Family - Florida Crystals\|Fanjul]], US-Cuba Democracy PAC, CANF | Fund Rubio, Scott, Salazar, Cruz, Wasserman Schultz over decades |
-| 2 | [[_Marco Rubio Master Profile\|Rubio]] (now Secretary of State) | Enforces maximum pressure Cuba policy; engineers oil blockade via OFAC |
+| 1 | [[Fanjul Family - Florida Crystals|Fanjul]], US-Cuba Democracy PAC, CANF | Fund Rubio, Scott, Salazar, Cruz, Wasserman Schultz over decades |
+| 2 | [[_Marco Rubio Master Profile|Rubio]] (now Secretary of State) | Enforces maximum pressure Cuba policy; engineers oil blockade via OFAC |
 | 3 | U.S. policy apparatus | Operation Southern Spear cuts 90% of Cuba's fuel; grid collapses March 16 |
 | 4 | Humanitarian responders | Nuestra America Convoy delivers 20+ tons of aid |
 | 5 | Same politicians who receive embargo money | Salazar spreads disinformation; Rubio's DOJ petitions target Code Pink; Scott co-sponsors anti-Cuba legislation |

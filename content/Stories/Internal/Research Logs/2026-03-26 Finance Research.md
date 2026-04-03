@@ -9,7 +9,7 @@ parent: null
 
 #finance-research #campaign-finance #daily-update #automated
 
-related: [[GEO Group - Private Prisons]] | [[PhRMA - Pharmaceutical Research and Manufacturers of America]] | [[Raytheon Technologies]] | [[United Auto Workers]] | [[David Sacks Political Operation]] | [[Donald Trump Master Profile]]
+related: [[GEO Group - Private Prisons]] | [[PhRMA - Pharmaceutical Research and Manufacturers of America]] | [[Raytheon Technologies]] | [[United Auto Workers]] | [[David Sacks Political Operation]] | [[_Donald Trump Master Profile]]
 
 ---
 
@@ -97,7 +97,7 @@ GEO Group (the largest private prison company, market cap ~$4B) deployed a compr
 > [!contradiction]
 > **The "law enforcement" framing obscures a financial interest.** GEO Group markets itself as a public safety company. Its financial model requires maximum detention capacity — meaning it has a structural incentive to maximize the number of people detained, not to minimize crime or maximize public safety. Every policy that expands immigration detention is, from GEO's perspective, a revenue event.
 
-**Vault profiles to update:** [[GEO Group - Private Prisons]], [[Pam Bondi]], [[Donald Trump Master Profile]]
+**Vault profiles to update:** [[GEO Group - Private Prisons]], [[Pam Bondi]], [[_Donald Trump Master Profile]]
 
 **Sources:**
 - [OpenSecrets: GEO Group Profile Summary](https://www.opensecrets.org/orgs/geo-group/summary?id=D000022003) (Tier 1)

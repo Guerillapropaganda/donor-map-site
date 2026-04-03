@@ -72,7 +72,7 @@ On June 1–2, 2023, the Senate voted 52–46 on H.J. Res. 45 — the Congressio
 | Senator | Vote | Finance/Insurance/Real Estate Career Donations |
 |---------|------|-------------------------------------------------|
 | Joe Manchin (D-WV) | YES (repeal forgiveness) | $5,325,925 |
-| [[_Kyrsten Sinema Master Profile\|Kyrsten Sinema]] (I-AZ) | YES (repeal forgiveness) | $10,320,775 |
+| [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] (I-AZ) | YES (repeal forgiveness) | $10,320,775 |
 | Jon Tester (D-MT) | YES (repeal forgiveness) | $14,002,937 |
 | Michael Bennet (D-CO) | DID NOT VOTE | — |
 | Mark Warner (D-VA) | DID NOT VOTE | Received $3,500 from Navient 2024 |

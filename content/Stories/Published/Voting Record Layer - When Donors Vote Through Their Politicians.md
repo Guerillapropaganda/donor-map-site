@@ -45,7 +45,7 @@ The voter-first thesis: **on issues where donor money is bipartisan, votes are b
 |---|---|---|---|---|
 | Cory Booker | Pharma price negotiation amendment (2017) | Rejected | Pharma industry saved billions in negotiation protections | [[_Cory Booker Master Profile|Booker profile]] |
 | [[_Susan Collins Master Profile|Susan Collins]] | Tax Cuts & Jobs Act (TCJA) private equity carveout (Dec 2017) | Passed | Private equity permanent 20% pass-through deduction; Steve Schwarzman saves tens of millions | Collins profile; Schwarzman donations to Pine Tree Results PAC documented |
-| [[AIPAC - American Israel Public Affairs Committee|AIPAC]] bloc | Iron Dome funding amendment (Sept 2021) | Passed 420-9 | Israel security assistance locked in; bipartisan consensus created | [[AIPAC - American Israel Public Affairs Committee\|AIPAC node]] |
+| [[AIPAC - American Israel Public Affairs Committee|AIPAC]] bloc | Iron Dome funding amendment (Sept 2021) | Passed 420-9 | Israel security assistance locked in; bipartisan consensus created | [[AIPAC - American Israel Public Affairs Committee|AIPAC node]] |
 | Crypto industry | GENIUS Act stablecoin bill (June 2025) | Passed Senate 68-30, House 308-122 | Federal guardrails for private stablecoins; 18 Democrats crossed; regulatory capture documented | Crypto node; 102 House Democrats voted yes |
 | Democratic caucus | FIT21 crypto bill amendments (July 2023) | 71 Democrats voted yes | Weakened SEC authority; 71 defectors in single vote | Senate Banking Committee record |
 

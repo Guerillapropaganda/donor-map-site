@@ -9,7 +9,7 @@ parent: null
 
 #donor-node #fossil-fuel #oil-gas #exxonmobil #climate #lobbying #bipartisan #donor #class-analysis #follow-the-money
 
-related: [[Fossil Fuel Bloc]] [[American Petroleum Institute|API]] [[Chevron]] [[PG&E]] [[_Rex Tillerson Master Profile|Rex Tillerson]] [[_Donald Trump Master Profile|Trump]] [[Joe Manchin Master Profile|Manchin]] [[Carbon Capture & Sequestration Policy]] [[Methane Regulation]] [[Energy Transition]]
+related: [[Fossil Fuel Bloc]] [[American Petroleum Institute|API]] [[Chevron]] [[PG&E]] [[_Rex Tillerson Master Profile|Rex Tillerson]] [[_Donald Trump Master Profile|Trump]] [[_Joe Manchin Master Profile|Manchin]] [[Carbon Capture & Sequestration Policy]] [[Methane Regulation]] [[Energy Transition]]
 
 ---
 
@@ -37,7 +37,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 - Defeat of carbon pricing mechanisms that would cap profits (cap-and-trade, binding carbon tax)
 
 > [!contradiction] **The carbon position paradox:**
-> ExxonMobil publicly supports a carbon tax since 2009 and is a founding member of the Climate Leadership Council (2017). However, leaked 2021 lobbyist Keith McCoy undercover footage revealed the company's carbon tax advocacy was an "advocacy tool" and "great talking point" that "will never actually happen"—cynical framing of external rhetorical positioning designed to block alternative regulations. McCoy explicitly stated Exxon opposed state carbon tax bills while maintaining the national carbon tax talking point. He also admitted "every week" contact with [[Joe Manchin Master Profile|Joe Manchin]]'s office to kill Build Back Better's climate provisions.
+> ExxonMobil publicly supports a carbon tax since 2009 and is a founding member of the Climate Leadership Council (2017). However, leaked 2021 lobbyist Keith McCoy undercover footage revealed the company's carbon tax advocacy was an "advocacy tool" and "great talking point" that "will never actually happen"—cynical framing of external rhetorical positioning designed to block alternative regulations. McCoy explicitly stated Exxon opposed state carbon tax bills while maintaining the national carbon tax talking point. He also admitted "every week" contact with [[_Joe Manchin Master Profile|Joe Manchin]]'s office to kill Build Back Better's climate provisions.
 
 ---
 
@@ -129,10 +129,10 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 **Historical Long-Term Recipients (2000–2024 Combined):**
 
-- **[[Ted Cruz Master Profile|Ted Cruz (R-TX)]]:** Among the top career recipients across multiple cycles; sits on Senate Commerce Committee with jurisdiction over energy policy
+- **[[_Ted Cruz Master Profile|Ted Cruz (R-TX)]]:** Among the top career recipients across multiple cycles; sits on Senate Commerce Committee with jurisdiction over energy policy
 - **John Cornyn (R-TX):** Career Senate recipient; multiple cycles in top-10
 - **Kay Bailey Hutchison (R-TX):** Top recipient through 2012 retirement; sat on Senate Commerce and Appropriations committees
-- **[[John Barrasso Master Profile|John Barrasso (R-WY)]]:** Senate Energy Committee leadership; consistent recipient 2010–2024
+- **[[_John Barrasso Master Profile|John Barrasso (R-WY)]]:** Senate Energy Committee leadership; consistent recipient 2010–2024
 - **Cathy McMorris Rodgers (R-WA):** House Energy & Commerce Committee chair; top PAC recipient in recent cycles
 - **Joe Barton (R-TX):** Former House Energy & Commerce Committee chair; recipient through 2018 retirement
 
@@ -176,7 +176,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 | American Enterprise Institute | $4,490,000+ | 1997–2017+ | 2000–2003 | Ongoing |
 | U.S. Chamber of Commerce Foundation | $4,800,000+ | 2014–2019+ | 2014–2019 | Ongoing; largest recent recipient |
 | Competitive Enterprise Institute | $2,100,000 | 1997–~2006 | 2000–2003 | Dropped c. 2006 |
-| [[ALEC - American Legislative Exchange Council\|ALEC]] | $1,804,200 | 1992–2018 | 2003 ($368K) | Left June 2018 |
+| [[ALEC - American Legislative Exchange Council|ALEC]] | $1,804,200 | 1992–2018 | 2003 ($368K) | Left June 2018 |
 | Frontiers of Freedom | $1,272,000 | 1997–2015 | 2000–2003 | Continuous |
 | George C. Marshall Institute | $865,000 | 1997–2015 | 2000–2003 | Dissolved 2015 |
 | Heritage Foundation | $870,000 | 1997–2015 | 2000–2003 | Ongoing |
@@ -223,7 +223,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 **Translation:** Exxon's 2009 public endorsement of a carbon tax was designed to (1) project corporate climate responsibility, (2) provide "ammunition" against more aggressive regulatory approaches (cap-and-trade, Clean Power Plan, methane rules), and (3) block alternatives that might actually constrain profits.
 
 > **On Build Back Better Climate Provisions:**
-> McCoy admitted speaking to [[Joe Manchin Master Profile|Joe Manchin]]'s office "every week" regarding the bill. He stated Exxon "actively participated in an attempt to negotiate a way to get something done" — a euphemism for ensuring climate provisions were removed or gutted.
+> McCoy admitted speaking to [[_Joe Manchin Master Profile|Joe Manchin]]'s office "every week" regarding the bill. He stated Exxon "actively participated in an attempt to negotiate a way to get something done" — a euphemism for ensuring climate provisions were removed or gutted.
 
 **Timing:** The investigation was conducted in June 2021, weeks before Manchin announced his opposition to Build Back Better's climate spending, which killed the bill's $150B Clean Electricity Performance Program. BBB's remainder became the Inflation Reduction Act with major fossil fuel concessions including mandatory lease sales, Mountain Valley Pipeline approval, and enhanced carbon capture credits.
 

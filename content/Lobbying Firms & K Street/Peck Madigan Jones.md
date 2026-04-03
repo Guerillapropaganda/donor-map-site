@@ -204,7 +204,7 @@ Harold Ickes' presence in the consortium adds a historical layer. Ickes was Bill
 - [OpenSecrets: Tiber Creek Group Lobbyists — Revolving Door Data](https://www.opensecrets.org/federal-lobbying/firms/lobbyists?cycle=2025&id=D000046066) (Tier 1)
 - [OpenSecrets: Tiber Creek Group Issues Lobbied](https://www.opensecrets.org/federal-lobbying/firms/issues?cycle=2025&id=D000046066) (Tier 1)
 - [OpenSecrets: Peck Madigan Jones Lobbying Firm Profile (legacy)](https://www.opensecrets.org/federal-lobbying/firms/summary?cycle=2025&id=D000034920) (Tier 1)
-- [Wikipedia: Tiber Creek Group](https://en.wikipedia.org/wiki/Tiber_Creek_Group) (Tier 3)
+- [Wikipedia: Tiber Creek Group](http://web.archive.org/web/20250825193021/https://en.wikipedia.org/wiki/Tiber_Creek_Group) (Tier 3)
 - [Tiber Creek Group: Official Website — About](https://tibercreekgroup.com/about) (Tier 4)
 - [Tiber Creek Group: Official Website — Team](https://tibercreekgroup.com/team) (Tier 4)
 - [The Hill: Peck Madigan Jones hires Obama, Clinton White House alum](https://thehill.com/business-a-lobbying/business-a-lobbying/301420-peck-madigan-jones-hires-obama-clinton-white-house/) (Tier 2)

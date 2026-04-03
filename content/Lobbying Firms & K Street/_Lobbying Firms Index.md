@@ -72,15 +72,15 @@ related: [[_Lobbying Firms Framework]] · [[_VAULT_INDEX]]
 
 | Donor Node | Expected Firm Connections |
 |------------|-------------------------|
-| [[PhRMA - Pharmaceutical Research and Manufacturers of America\|PhRMA]] | Akin Gump, Capitol Counsel, Holland & Knight, BGR Group, Forbes Tate Partners, Crossroads Strategies |
+| [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] | Akin Gump, Capitol Counsel, Holland & Knight, BGR Group, Forbes Tate Partners, Crossroads Strategies |
 | [[Lockheed Martin]] | Squire Patton Boggs, Akin Gump, Capitol Counsel |
 | [[Goldman Sachs]] | Akin Gump, K&L Gates |
 | [[Koch Network - Charles Koch]] | BGR Group, Cornerstone |
 | [[Fossil Fuel Bloc]] | Brownstein Hyatt, Cornerstone, K&L Gates, Alpine Group |
 | [[Apollo Global Management]] | Brownstein Hyatt, Akin Gump |
 | [[Palantir Technologies]] | Brownstein Hyatt, Akin Gump, Alpine Group, Invariant |
-| [[Meta - Facebook\|Meta]] | Invariant, Squire Patton Boggs |
-| [[Google - Alphabet\|Google]] | Invariant, Akin Gump |
+| [[Meta - Facebook|Meta]] | Invariant, Squire Patton Boggs |
+| [[Google - Alphabet|Google]] | Invariant, Akin Gump |
 | [[Blackstone Group]] | Forbes Tate Partners, Alpine Group |
 | [[Altria Group]] | Forbes Tate Partners |
 | [[RTX Corp]] | Forbes Tate Partners, Thorn Run Partners |

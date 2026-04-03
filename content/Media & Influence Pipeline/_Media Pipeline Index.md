@@ -268,8 +268,8 @@ The FEC record across all media personalities reveals the structural gap between
 | [[Lee Camp]] | $0 | 0 | — | RT America (Russian state TV, 8 yrs) → MintPress News (Iran-adjacent); $0 FEC while employed by foreign state media infrastructure; anti-electoral ideological position |
 | [[Owen Jones]] | N/A | N/A | — | British citizen; U.S. FEC ineligible; Guardian columnist + 809K YouTube subs; left Labour Mar 2024 (Starmer rightward shift) |
 | [[George Galloway]] | N/A | N/A | — | British citizen; U.S. FEC ineligible; RT UK *Sputnik* (2013–2022, Russian state) + Press TV (2006–2012, Iranian state); declared £65K from foreign state broadcasters in one 6-month parliamentary register period; most complete British foreign-state-media left pipeline in vault |
-| [[Chapo Trap House\|Menaker, Biederman, Christman, Frost]] | $0 (all 4) | 0 each | — | All 4 hosts $0 confirmed Chrome API 2026-03-27; anti-electoral ideology is ideologically consistent — DSA socialist hosts who describe electoral politics as structurally insufficient don't cut campaign checks |
-| [[Red Scare\|Nekrasova, Khachiyan]] | $0 (both) | 0 each | — | Both hosts $0 confirmed Chrome API 2026-03-27; Nekrasova endorsed Trump 2024, Khachiyan met Thiel 2022, both $0 — political positioning is aesthetic/nihilist, not financially committed |
+| [[Chapo Trap House|Menaker, Biederman, Christman, Frost]] | $0 (all 4) | 0 each | — | All 4 hosts $0 confirmed Chrome API 2026-03-27; anti-electoral ideology is ideologically consistent — DSA socialist hosts who describe electoral politics as structurally insufficient don't cut campaign checks |
+| [[Red Scare|Nekrasova, Khachiyan]] | $0 (both) | 0 each | — | Both hosts $0 confirmed Chrome API 2026-03-27; Nekrasova endorsed Trump 2024, Khachiyan met Thiel 2022, both $0 — political positioning is aesthetic/nihilist, not financially committed |
 | [[Joy Reid]] | $0 | 0 | — | $0 confirmed FEC API 2026-03-27 (both JOY and JOY-ANN searched); $3M/yr MSNBC host fired Feb 2025; former Obama 2008 campaign press aide who gave $0 as media figure; 14 years institutional service, zero personal giving |
 
 #### Centrist Media (18 profiles)
@@ -278,10 +278,10 @@ The FEC record across all media personalities reveals the structural gap between
 |-------------|-----------|-----------|-------------|-------------|
 | [[Bill Maher]] | $2,000,000 | 2 major | 100% Democratic | $1M Obama SuperPAC (2012) + $1M Dem Senate PAC (2018); <2% of $140M net worth |
 | [[Matt Taibbi]] | $7,089.15 | 7 | 99.7% Dem | Dean→Kerry→Obama arc, then 11-year silence, then $17.68 bipartisan post-transition |
-| [[Breaking Points\|Krystal Ball]] | ~$70,740 | 227 | 100% progressive insurgent | **CORRECTED**: API-verified 227 results (de-duplication pending); all anti-establishment primary candidates |
+| [[Breaking Points|Krystal Ball]] | ~$70,740 | 227 | 100% progressive insurgent | **CORRECTED**: API-verified 227 results (de-duplication pending); all anti-establishment primary candidates |
 | [[Ana Kasparian]] | $1,150 | 3 | 100% Democratic | All 2019-2020 while at TYT; $1,000 to Cenk's Rebellion PAC; zero post-"unaligned" |
 | [[Glenn Greenwald]] | $500 | 2 | Anti-AIPAC libertarian | $250×2 to Thomas Massie (R-KY); maps audience swap left→right perfectly |
-| [[Breaking Points\|Saagar Enjeti]] | $0 | 0 | — | Hudson Institute fellow (neocon); zero personal FEC; right-wing media pattern |
+| [[Breaking Points|Saagar Enjeti]] | $0 | 0 | — | Hudson Institute fellow (neocon); zero personal FEC; right-wing media pattern |
 | [[Chris Cuomo]] | $0 | 0 | — | $6M CNN salary (fired 2021); zero personal political giving |
 | [[Ezra Klein]] | $0 | 0 | — | Biden step-aside call (Feb 2024); most influential Dem media intervention, zero FEC |
 | [[Joe Rogan]] | $0 | 0 | — | $450M+ Spotify; endorsed Bernie (2020) and Trump (2024); zero FEC |
@@ -291,7 +291,7 @@ The FEC record across all media personalities reveals the structural gap between
 | [[Russell Brand]] | N/A | N/A | — | British citizen; U.S. FEC ineligible |
 | [[Jordan Peterson]] | N/A | N/A | — | Canadian citizen; U.S. FEC ineligible |
 | [[Philip DeFranco]] | $0 | 0 | — | YouTube 6M+ subs; "both sides" editorial model; $0 matches zero financial commitment to either side |
-| [[Destiny - Steven Bonnell\|Destiny (Steven Bonnell)]] | $0 | 0 | — | Organized canvassing for Dems but $0 donations; labor not money as political currency |
+| [[Destiny - Steven Bonnell|Destiny (Steven Bonnell)]] | $0 | 0 | — | Organized canvassing for Dems but $0 donations; labor not money as political currency |
 | [[Jillian Michaels]] | $0 | 0 | — | $18M+ net worth fitness celebrity; $0 FEC while hosting political commentary show |
 | [[Piers Morgan]] | N/A | N/A | — | British citizen; U.S. FEC ineligible; Murdoch-funded transatlantic media |
 | [[Abby Phillip]] | $0 | 0 | — | $0 confirmed FEC API 2026-03-27; CNN NewsNight anchor at $200K-$1M+/yr; covers political money every night; $0 is the institutional price of the anchor desk |

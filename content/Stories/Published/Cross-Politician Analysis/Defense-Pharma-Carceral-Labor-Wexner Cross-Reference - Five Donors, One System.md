@@ -10,7 +10,7 @@ parent: null
 #cross-reference #donor-analysis #roi-analysis #class-analysis #dark-money #donor-control
 
 **related:**
-[[Raytheon (RTX)]] | [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] | [[GEO Group]] | [[UAW - United Auto Workers|UAW]] | [[Les Wexner - Wexner Family Enterprises|Wexner]] | [[_Donald Trump Master Profile|Trump]] | [[_Mike Johnson Master Profile|Johnson]] | [[American Action Network (AAN)]] | [[Defense Industry Donor Network]] | [[Immigration Detention Industry]] | [[Private Prison Complex]]
+[[Raytheon (RTX)]] | [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] | [[GEO Group]] | [[UAW - United Auto Workers|UAW]] | [[Les Wexner - Wexner Family Enterprises|Wexner]] | [[_Donald Trump Master Profile|Trump]] | [[_Mike Johnson Master Profile|Johnson]] | [[American Action Network]] | [[Defense Industry Donor Network]] | [[Immigration Detention Industry]] | [[Private Prison Complex]]
 
 ---
 
@@ -29,7 +29,7 @@ The [[Raytheon (RTX)]] and [[PhRMA]] ecosystems represent two of the most well-f
 RTX Corp contributed **$3.87 million** in the 2023–2024 cycle, employing **76 lobbyists**, 72% of whom held previous government positions (revolving door of regulatory capture). The party split is roughly 54% Republican, 46% Democrat — classic defense industry bipartisanship. The RTX PAC maxed out $10,000 contributions to **46 House members** in one cycle, including Speaker [[_Mike Johnson Master Profile|Johnson]] (R-LA), House Minority Leader Hakeem Jeffries (D-NY), and House Minority Whip Katherine Clark (D-MA).
 
 **PhRMA spending profile:**
-PhRMA is the single largest lobbying client in the health/pharma sector, spending **$31.7 million** on federal lobbying in 2024 alone. Direct PAC contributions: $1.09 million to 176 House members and senators. Beyond direct contributions, PhRMA funneled **$17.5 million** in dark money to the [[American Action Network (AAN)]] from 2020–2023, and another **$4 million** in 2024 — which then deployed $55+ million boosting GOP candidates.
+PhRMA is the single largest lobbying client in the health/pharma sector, spending **$31.7 million** on federal lobbying in 2024 alone. Direct PAC contributions: $1.09 million to 176 House members and senators. Beyond direct contributions, PhRMA funneled **$17.5 million** in dark money to the [[American Action Network]] from 2020–2023, and another **$4 million** in 2024 — which then deployed $55+ million boosting GOP candidates.
 
 **Shared recipients table:**
 
@@ -68,7 +68,7 @@ All 13 senators disclosing military stock holdings voted for the FY2024 NDAA ($8
 
 **The $4 million dark money bridge:**
 
-PhRMA's $4 million 2024 donation to [[American Action Network (AAN)]] — which then spent $55+ million on GOP candidates — functions as a force multiplier. When the same politicians receive RTX PAC donations directly and PhRMA dark money indirectly, the convergence is structural. Per The Lever, this $4 million PhRMA investment in dark money helped produce an **$8 billion reduction in projected government savings** from the Inflation Reduction Act's drug pricing negotiation provisions — effectively a $8 billion windfall for drugmakers via One Big Beautiful Bill Act provisions.
+PhRMA's $4 million 2024 donation to [[American Action Network]] — which then spent $55+ million on GOP candidates — functions as a force multiplier. When the same politicians receive RTX PAC donations directly and PhRMA dark money indirectly, the convergence is structural. Per The Lever, this $4 million PhRMA investment in dark money helped produce an **$8 billion reduction in projected government savings** from the Inflation Reduction Act's drug pricing negotiation provisions — effectively a $8 billion windfall for drugmakers via One Big Beautiful Bill Act provisions.
 
 > [!contradiction]
 > **Bipartisan Access = Corporate Control:** RTX donates 54/46 R/D. PhRMA donates direct contributions to Democrats and dark money exclusively to Republicans. Yet both industries achieve policy wins under every administration. The "both-sides illusion" operates at the industry level: when defense and pharma buy access across both parties, neither party can meaningfully regulate them. The system rewards the entity that buys access regardless of election outcome.
