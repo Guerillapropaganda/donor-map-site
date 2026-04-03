@@ -1085,7 +1085,7 @@ var POLICY_COST_DATA = [
   { name: 'Free Public College (10yr)', cost: 800000000000, category: 'education', note: 'Tuition-free public universities for all Americans', color: '#22c55e', sources: 'Dept of Education estimates' },
   { name: 'PhRMA Lobbying vs Savings', cost: 450000000000, category: 'pharma', note: '$9.8M in donations killed drug pricing reform — saved industry $450B', color: '#ef4444', sources: 'OpenSecrets, CBO' },
   { name: 'Israel Aid (10yr)', cost: 38000000000, category: 'foreign', note: '$3.8B/year in military aid; bipartisan 97-3 vote', color: '#5b8dce', sources: 'State Dept, CRS' },
-  { name: 'AIPAC Donations (total)', cost: 21200000, category: 'lobbying', note: 'What it cost to secure $38B in aid — 1,792x return', color: '#5b8dce', sources: 'OpenSecrets' },
+  { name: 'AIPAC + UDP Spending (2024)', cost: 121200000, category: 'lobbying', note: 'AIPAC PAC ($21.2M) + United Democracy Project Super PAC ($100M) in 2024 cycle alone', color: '#5b8dce', sources: 'OpenSecrets, FEC' },
   { name: 'Flint Water Fix', cost: 600000000, category: 'infrastructure', note: 'Total cost to replace all lead pipes in Flint, MI', color: '#06b6d4', sources: 'EPA, State of Michigan' },
   { name: 'Koch Tax Cut Donations', cost: 12300000, category: 'lobbying', note: 'What Koch spent to get $1.9T in tax cuts — 154,472x return', color: '#a855f7', sources: 'OpenSecrets' },
 ];
@@ -1098,10 +1098,10 @@ var COST_COMPARISONS = [
     verdict: 'Medicare for All would SAVE $13 trillion over 10 years and cover everyone. The "too expensive" argument costs us more.',
   },
   {
-    title: 'Medicare for All vs. Wars',
-    left: { name: 'Medicare for All (10yr)', cost: 32000000000000, color: '#22c55e' },
-    right: { name: 'Iraq + Afghanistan Wars', cost: 5300000000000, color: '#f59e0b' },
-    verdict: 'We found $5.3 trillion for two wars with no debate. Healthcare for everyone is "too expensive."',
+    title: 'Wars We Funded vs. Healthcare We Refuse To',
+    left: { name: 'Iraq + Afghanistan Wars', cost: 5300000000000, color: '#f59e0b' },
+    right: { name: 'Medicare for All (10yr)', cost: 32000000000000, color: '#22c55e' },
+    verdict: 'We found $5.3 trillion for two wars with no debate. Healthcare for everyone is "too expensive" — but would replace a $45T system and save $13T.',
   },
   {
     title: 'Free College vs. Tax Cuts for the Rich',
@@ -1110,10 +1110,10 @@ var COST_COMPARISONS = [
     verdict: 'The tax cuts cost 2.4x more than free college for every American — and 83% of the benefits went to the top 1%.',
   },
   {
-    title: 'Fixing Flint vs. AIPAC Donations',
+    title: 'Fixing Flint vs. AIPAC Spending',
     left: { name: 'Fix Flint Water Crisis', cost: 600000000, color: '#06b6d4' },
-    right: { name: 'AIPAC Political Donations', cost: 21200000, color: '#5b8dce' },
-    verdict: 'AIPAC spent $21.2M to secure $38 BILLION in aid. We could fix Flint 35x over for what AIPAC spends in one cycle.',
+    right: { name: 'AIPAC + UDP (2024 cycle)', cost: 121200000, color: '#5b8dce' },
+    verdict: 'AIPAC and its Super PAC spent $121M in one election cycle to secure $38 BILLION in aid. We could fix Flint 5x over for what they spend in one cycle.',
   },
   {
     title: 'What Lobbying Buys',
@@ -1175,8 +1175,30 @@ function renderPolicyCosts(container) {
       var leftPct = (comp.left.cost / maxCost) * 100;
       var rightPct = (comp.right.cost / maxCost) * 100;
 
+      // When ratio is extreme (>50x), use log scale so small bar is still visible
+      var ratio = maxCost / Math.min(comp.left.cost, comp.right.cost);
+      if (ratio > 50) {
+        var logMax = Math.log10(maxCost);
+        var logLeft = Math.log10(comp.left.cost);
+        var logRight = Math.log10(comp.right.cost);
+        var logMin = Math.min(logLeft, logRight) - 0.5;
+        leftPct = ((logLeft - logMin) / (logMax - logMin)) * 100;
+        rightPct = ((logRight - logMin) / (logMax - logMin)) * 100;
+      }
+
+      // Always ensure minimum visible bar
+      leftPct = Math.max(3, leftPct);
+      rightPct = Math.max(3, rightPct);
+
+      // Show ratio badge when difference is significant
+      var ratioLabel = '';
+      if (ratio >= 2) {
+        var ratioStr = ratio >= 1000 ? Math.round(ratio).toLocaleString() + 'x' : ratio.toFixed(1) + 'x';
+        ratioLabel = '<span class="dm-costs-ratio">' + ratioStr + ' difference</span>';
+      }
+
       card.innerHTML =
-        '<div class="dm-costs-compare-title">' + comp.title + '</div>' +
+        '<div class="dm-costs-compare-title">' + comp.title + ratioLabel + '</div>' +
         '<div class="dm-costs-compare-bars">' +
           '<div class="dm-costs-compare-row">' +
             '<span class="dm-costs-compare-label">' + comp.left.name + '</span>' +
@@ -2468,6 +2490,19 @@ InteractiveGraphs.css = `
   font-weight: 700;
   color: #e4e4e7;
   margin-bottom: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dm-costs-ratio {
+  font-size: 11px;
+  font-weight: 600;
+  color: #f59e0b;
+  background: rgba(245, 158, 11, 0.12);
+  padding: 2px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
 }
 
 .dm-costs-compare-bars {
