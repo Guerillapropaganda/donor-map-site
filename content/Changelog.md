@@ -11,6 +11,23 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 
 ## 2026-04-03
 
+### Phase 6 — Current Events Layer
+- Created `scripts/rss-pipeline.cjs` — RSS intelligence pipeline
+- Scans 8 feeds: The Hill, OpenSecrets, ProPublica, The Intercept, Congress.gov
+- Matches stories against all 1,150 profile names in database
+- Generates draft event notes in `content/Events/Drafts/` for Obsidian review
+- Generates daily digest in `content/Events/Digests/` with matched stories, profile update suggestions, new name detection
+- Created `EventTimeline.tsx` — right sidebar component on profile pages
+- Shows recent news events mentioning the current profile with source links, dates, category icons
+- Color-coded by category: money ($), investigation (!), legislation (§), news (→)
+- Shows co-mentioned profiles as chips
+- First run: 252 items fetched, 106 matched, 60 drafts written, 9 update suggestions, 4 new names detected
+
+### Table Fix
+- Fixed broken table rendering caused by InteractiveGraphs optimization
+- Added CSS-only scroll fallback with `min-width: 600px`
+- Moved `enhanceTables()` JS into ProfileHeader's afterDOMLoaded
+
 ### Phase 0 — Frontmatter Enrichment
 - Created `scripts/enrich-frontmatter.cjs` to bulk-enrich all profile YAML
 - Enriched 715 profiles with 2,756 new structured fields

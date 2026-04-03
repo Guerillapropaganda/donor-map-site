@@ -1,0 +1,23 @@
+---
+title: "“Casualty Cover-Up” The Pentagon Is Hiding U.S. Losses Under Trump in the Middle"
+type: event
+date: 2026-04-01
+status: draft
+source: "The Intercept"
+source-url: "https://theintercept.com/2026/04/01/iran-war-us-casualty-numbers-trump-hegseth/"
+profiles:
+  - "The Iran War - Defense Donors and the DOGE Readiness Gap"
+---
+
+#event #draft
+
+## “Casualty Cover-Up”: The Pentagon Is Hiding U.S. Losses Under Trump in the Middle East
+
+**Source:** [The Intercept](https://theintercept.com/2026/04/01/iran-war-us-casualty-numbers-trump-hegseth/)
+**Date:** 2026-04-01
+
+The Pentagon has sent outdated statements on the number of U.S. troops killed or wounded during the Iran war, resulting in undercounts. The post “Casualty Cover-Up”: The Pentagon Is Hiding U.S. Losses Under Trump in the Middle East appeared first on The Intercept.
+
+---
+
+**Linked Profiles:** [[The Iran War - Defense Donors and the DOGE Readiness Gap|The Iran War - Defense Donors and the DOGE Readiness Gap]]

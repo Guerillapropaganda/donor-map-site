@@ -37,6 +37,7 @@ import WeeklySpotlight from "./WeeklySpotlight"
 import WhoFundsYourRep from "./WhoFundsYourRep"
 import MobileNav from "./MobileNav"
 import ArticleNav from "./ArticleNav"
+import EventTimeline from "./EventTimeline"
 
 export {
   ArticleTitle,
@@ -78,4 +79,5 @@ export {
   WhoFundsYourRep,
   MobileNav,
   ArticleNav,
+  EventTimeline,
 }

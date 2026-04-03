@@ -93,6 +93,7 @@ export const defaultContentPageLayout: PageLayout = {
     })),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.ProfileWidget()),
+    Component.EventTimeline(),
     Component.Backlinks(),
     Component.RelatedProfiles(),
     Component.DiscoveryPanel(),
