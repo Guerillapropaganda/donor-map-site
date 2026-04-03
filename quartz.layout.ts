@@ -81,6 +81,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.ProfileWidget()),
     Component.Backlinks(),
     Component.RelatedProfiles(),
+    Component.DiscoveryPanel(),
   ],
 }
 

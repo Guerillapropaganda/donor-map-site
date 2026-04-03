@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import DonorMapSidebar from "./DonorMapSidebar"
 import InteractiveGraphs from "./InteractiveGraphs"
 import LandingPage from "./LandingPage"
+import DiscoveryPanel from "./DiscoveryPanel"
 import EvidencePanel from "./EvidencePanel"
 import IssueExplorer from "./IssueExplorer"
 import PowerRankings from "./PowerRankings"
@@ -39,6 +40,7 @@ import ArticleNav from "./ArticleNav"
 
 export {
   ArticleTitle,
+  DiscoveryPanel,
   EvidencePanel,
   IssueExplorer,
   Content,
