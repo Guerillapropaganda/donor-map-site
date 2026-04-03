@@ -9,7 +9,7 @@ parent: null
 
 #donor #aipac #super-pac #israel-lobby #udp #dark-money
 
-related: [[AIPAC - American Israel Public Affairs Committee]] · [[2026 House Money Map]] · [[AIPAC Illinois Shell PAC Operation]] · [[DMFI - Democratic Majority for Israel|DMFI]]
+related: [[AIPAC - American Israel Public Affairs Committee]] · [[2026 House Money Map]] · [[AIPAC Illinois Shell PAC Operation]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]]
 
 ---
 

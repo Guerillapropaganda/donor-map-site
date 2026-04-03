@@ -9,7 +9,7 @@ parent: null
 
 #republican-jewish-coalition #RJC #israel-lobby #pro-israel #mega-donor #sheldon-adelson #miriam-adelson
 
-related: [[AIPAC - American Israel Public Affairs Committee]] [[Sheldon Adelson]] [[Miriam Adelson]] Adelson Family Networks Pro-Israel Donor Network
+related: [[AIPAC - American Israel Public Affairs Committee]] [[Sheldon Adelson]] [[Miriam Adelson]] [[NORPAC]] Adelson Family Networks Pro-Israel Donor Network
 
 ---
 

@@ -66,7 +66,7 @@ During 2021-2022 cycle, Schmidt wired $227,000 in in-kind contributions to STAC 
 
 - [OpenSecrets: Eric Schmidt Donor Lookup 2020](https://www.opensecrets.org/donor-lookup/results?cand=&cycle=2020&employ=&name=Eric+Schmidt&state=&zip=) (Tier 1) (UNVERIFIED)
 - [FEC Individual Contribution Records — Eric Schmidt](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric+Schmidt) (Tier 1)
-- [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2) (UNVERIFIED)
+- [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2)
 
 ---
 
@@ -125,8 +125,8 @@ Established by Congress through the 2018 NDAA. Rep. Mac Thornberry (R-TX) nomina
 
 - [CNBC: Schmidt helped write AI laws without disclosing AI investments](https://www.cnbc.com/2022/10/24/how-googles-former-ceo-eric-schmidt-helped-write-ai-laws-in-washington-without-publicly-disclosing-investments-in-ai-start-ups.html) (Tier 2)
 - [Tech Transparency Project: Schmidt's Hidden Influence Over US Defense Spending](https://www.techtransparencyproject.org/articles/eric-schmidts-unseen-influence-over-us-defense-spending) (Tier 2)
-- [Campaign for Accountability: Schmidt ties to Chinese AI](https://campaignforaccountability.org/tech-transparency-project-uncovers-new-ties-between-eric-schmidt-and-chinese-ai-industry/) (Tier 2) (UNVERIFIED)
-- [Wired: Schmidt China AI ties](https://www.wired.com/story/eric-schmidt-china-ai-ties/) (Tier 2) (UNVERIFIED)
+- [Campaign for Accountability: Schmidt ties to Chinese AI](https://campaignforaccountability.org/tech-transparency-project-uncovers-new-ties-between-eric-schmidt-and-chinese-ai-industry/) (Tier 2)
+- [Wired: Schmidt China AI ties](https://www.wired.com/story/eric-schmidt-china-ai-ties/) (Tier 2)
 - [EPIC: EPIC v. AI Commission](https://epic.org/documents/epic-v-ai-commission/) (Tier 2) (UNVERIFIED)
 
 ### SCSP — Special Competitive Studies Project (2021-present)
@@ -135,7 +135,7 @@ Founded October 2021, immediately after NSCAI concluded. Explicitly modeled on t
 
 Key policy positions: opposes significant government regulation of AI; advocates industry self-regulation; frames AI competition with China as existential to justify minimal safety guardrails; aligned with Heritage Foundation's Project 2025 approach to AI. In 2025, SCSP welcomed the White House's AI Action Plan (permissionless innovation framework). In June 2025, Joint Chiefs Chairman Dan Caine keynoted an SCSP-sponsored AI+ Expo conference. In March 2026, SCSP announced a new National Commission on Robotics for Advanced Manufacturing.
 
-- [SCSP: Who We Are](https://www.scsp.ai/about/who-we-are/) (Tier 3) (UNVERIFIED)
+- [SCSP: Who We Are](https://www.scsp.ai/about/who-we-are/) (Tier 3)
 - [Project Censored: AI Warlord Eric Schmidt](https://www.projectcensored.org/ai-warlord-eric-schmidt-money-media-maim/) (Tier 2) (UNVERIFIED)
 
 ### America's Frontier Fund (2021-2022)
@@ -191,15 +191,15 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 - [DefenseScoop: Schmidt-led panel pushing for defense AI experimentation unit](https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-ai-experimentation-unit-to-drive-military-adoption-of-generative-ai/) (Tier 2)
 - [Air & Space Forces Magazine: As National AI Panel Shuts Down, New Think Tank Emerges](https://www.airandspaceforces.com/as-national-ai-panel-shuts-down-new-think-tank-emerges-to-continue-its-work/) (Tier 2)
 - [Politico: Ex-Google boss funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160) (Tier 2) (UNVERIFIED)
-- [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2) (UNVERIFIED)
+- [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2)
 
 ### Investigative Journalism — China/NSCAI Conflicts (UNVERIFIED):
-- [Campaign for Accountability: Schmidt ties to Chinese AI](https://campaignforaccountability.org/tech-transparency-project-uncovers-new-ties-between-eric-schmidt-and-chinese-ai-industry/) (Tier 2) (UNVERIFIED)
-- [Wired: Schmidt China AI ties](https://www.wired.com/story/eric-schmidt-china-ai-ties/) (Tier 2) (UNVERIFIED)
+- [Campaign for Accountability: Schmidt ties to Chinese AI](https://campaignforaccountability.org/tech-transparency-project-uncovers-new-ties-between-eric-schmidt-and-chinese-ai-industry/) (Tier 2)
+- [Wired: Schmidt China AI ties](https://www.wired.com/story/eric-schmidt-china-ai-ties/) (Tier 2)
 - [EPIC: EPIC v. AI Commission](https://epic.org/documents/epic-v-ai-commission/) (Tier 2) (UNVERIFIED)
 
 ### SCSP/AFF (UNVERIFIED):
-- [SCSP: Who We Are](https://www.scsp.ai/about/who-we-are/) (Tier 3) (UNVERIFIED)
+- [SCSP: Who We Are](https://www.scsp.ai/about/who-we-are/) (Tier 3)
 - [Project Censored: AI Warlord Eric Schmidt](https://www.projectcensored.org/ai-warlord-eric-schmidt-money-media-maim/) (Tier 2) (UNVERIFIED)
 
 ### FEC Donation Data (UNVERIFIED):

@@ -294,50 +294,50 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 - [OpenSecrets: ExxonMobil PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/C00121368/summary/2024) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: ExxonMobil totals](https://www.opensecrets.org/orgs/exxon-mobil/totals?id=D000000129) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: ExxonMobil recipients](https://www.opensecrets.org/orgs/exxon-mobil/recipients?id=D000000129) (Tier 1) (UNVERIFIED)
-- [FEC: ExxonMobil PAC committee overview](https://www.fec.gov/data/committee/C00121368/) (Tier 1) (UNVERIFIED)
-- [ExxonMobil: 2024 Corporate political contributions disclosure](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/corporate-political-contributions) (Tier 1) (UNVERIFIED)
-- [ExxonMobil: PAC contribution data](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/pac-contribution-data) (Tier 1) (UNVERIFIED)
+- [FEC: ExxonMobil PAC committee overview](https://www.fec.gov/data/committee/C00121368/) (Tier 1)
+- [ExxonMobil: 2024 Corporate political contributions disclosure](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/corporate-political-contributions) (Tier 1)
+- [ExxonMobil: PAC contribution data](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/pac-contribution-data) (Tier 1)
 
 **Lobbying — Tier 1:**
 - [OpenSecrets: ExxonMobil Lobbying Profile](https://www.opensecrets.org/orgs/exxon-mobil/lobbying?id=D000000129) (Tier 1) (UNVERIFIED)
 - [Center for American Progress: 2011 Was Very Good to ExxonMobil](https://www.americanprogress.org/article/2011-was-very-good-to-exxonmobil/) (Tier 2) (UNVERIFIED)
 
 **Climate & Internal Knowledge — Tier 1-2:**
-- [Harvard Gazette: Exxon scientists predicted global warming with 'shocking skill and accuracy'](https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/) (Tier 2) (UNVERIFIED)
-- [Scientific American: Exxon knew about climate change almost 40 years ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (Tier 2) (UNVERIFIED)
+- [Harvard Gazette: Exxon scientists predicted global warming with 'shocking skill and accuracy'](https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/) (Tier 2)
+- [Scientific American: Exxon knew about climate change almost 40 years ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (Tier 2)
 - [Science journal: Assessing ExxonMobil's global warming projections](https://www.science.org/doi/10.1126/science.abk0063) (Tier 1) (UNVERIFIED)
-- [Inside Climate News: The Road Not Taken investigation](https://insideclimatenews.org/project/exxon-the-road-not-taken/) (Tier 2) (UNVERIFIED)
+- [Inside Climate News: The Road Not Taken investigation](https://insideclimatenews.org/project/exxon-the-road-not-taken/) (Tier 2)
 - [Supran & Oreskes: Assessing ExxonMobil's Climate Change Communications (1977–2014)](https://cssn.org/wp-content/uploads/2020/12/Assessing-ExxonMobils-climate-change-communications-1977%E2%80%932014-Geoffrey-Supran-.pdf) (Tier 1 academic) (UNVERIFIED)
-- [Wikipedia: ExxonMobil Climate Change Denial](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_denial) (Tier 3) (UNVERIFIED)
+- [Wikipedia: ExxonMobil Climate Change Denial](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_denial) (Tier 3)
 
 **Climate Denial Funding — Tier 2:**
-- [DeSmog: ExxonMobil Funding Climate Science Denial](https://www.desmog.com/exxonmobil-funding-climate-science-denial/) (Tier 2) (UNVERIFIED)
-- [Union of Concerned Scientists: ExxonMobil Climate Denial Funding 1998–2014 (PDF)](https://www.ucs.org/sites/default/files/attach/2015/07/ExxonMobil-Climate-Denial-Funding-1998-2014.pdf) (Tier 2) (UNVERIFIED)
+- [DeSmog: ExxonMobil Funding Climate Science Denial](https://www.desmog.com/exxonmobil-funding-climate-science-denial/) (Tier 2)
+- [Union of Concerned Scientists: ExxonMobil Climate Denial Funding 1998–2014 (PDF)](https://www.ucs.org/sites/default/files/attach/2015/07/ExxonMobil-Climate-Denial-Funding-1998-2014.pdf) (Tier 2)
 
 **Carbon Tax Contradiction — Tier 2:**
-- [Union of Concerned Scientists: To find out if ExxonMobil really supports a carbon tax, just follow the money](https://blog.ucs.org/elliott-negin/to-find-out-if-exxonmobil-really-supports-a-carbon-tax-just-follow-the-money/) (Tier 2) (UNVERIFIED)
-- [Energy and Policy Institute: ExxonMobil Opposed Carbon Tax Bills](https://energyandpolicy.org/exxonmobil-opposed-carbon-tax-bills/) (Tier 2) (UNVERIFIED)
+- [Union of Concerned Scientists: To find out if ExxonMobil really supports a carbon tax, just follow the money](https://blog.ucs.org/elliott-negin/to-find-out-if-exxonmobil-really-supports-a-carbon-tax-just-follow-the-money/) (Tier 2)
+- [Energy and Policy Institute: ExxonMobil Opposed Carbon Tax Bills](https://energyandpolicy.org/exxonmobil-opposed-carbon-tax-bills/) (Tier 2)
 
 **Policy Outcomes — Tier 2:**
-- [Greenpeace Unearthed: Undercover Investigation — Keith McCoy Admissions](https://unearthed.greenpeace.org/2021/06/30/exxon-climate-change-undercover/) (Tier 2) (UNVERIFIED)
-- [InfluenceMap: ExxonMobil Lobbying Report (PDF)](https://influencemap.org/site/data/000/310/ExxonMobil_Lobbying_May_2018.pdf) (Tier 2) (UNVERIFIED)
-- [ExxonKnews: With Methane Rules on the Chopping Block](https://www.exxonknews.org/p/with-methane-rules-on-the-chopping) (Tier 2) (UNVERIFIED)
+- [Greenpeace Unearthed: Undercover Investigation — Keith McCoy Admissions](https://unearthed.greenpeace.org/2021/06/30/exxon-climate-change-undercover/) (Tier 2)
+- [InfluenceMap: ExxonMobil Lobbying Report (PDF)](https://influencemap.org/site/data/000/310/ExxonMobil_Lobbying_May_2018.pdf) (Tier 2)
+- [ExxonKnews: With Methane Rules on the Chopping Block](https://www.exxonknews.org/p/with-methane-rules-on-the-chopping) (Tier 2)
 
 **Revolving Door — Tier 2:**
-- [Sludge: Exxon Consultant Revolves Back to DOE](https://readsludge.com/2025/03/26/exxon-consultant-revolves-back-to-doe/) (Tier 2) (UNVERIFIED)
-- [Revolving Door Project: Climate and Environment](https://therevolvingdoorproject.org/tag/climate/) (Tier 2) (UNVERIFIED)
-- [Public Citizen: Trump Appointees Tracker](https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/) (Tier 2) (UNVERIFIED)
+- [Sludge: Exxon Consultant Revolves Back to DOE](https://readsludge.com/2025/03/26/exxon-consultant-revolves-back-to-doe/) (Tier 2)
+- [Revolving Door Project: Climate and Environment](https://therevolvingdoorproject.org/tag/climate/) (Tier 2)
+- [Public Citizen: Trump Appointees Tracker](https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/) (Tier 2)
 - [Politico: Exxon, Mobile, Russia Sanctions, Rex Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770) (Tier 2) (UNVERIFIED)
-- [ExxonMobil: Conflict of Interest Agreement — Tillerson](https://corporate.exxonmobil.com/news/news-releases/2017/0103_exxonmobil-and-tillerson-reach-agreement-to-comply-with-conflict-of-interest-requirements) (Tier 1) (UNVERIFIED)
+- [ExxonMobil: Conflict of Interest Agreement — Tillerson](https://corporate.exxonmobil.com/news/news-releases/2017/0103_exxonmobil-and-tillerson-reach-agreement-to-comply-with-conflict-of-interest-requirements) (Tier 1)
 
 **Financial Data — Tier 1:**
-- [ExxonMobil: Full-year 2022 results](https://corporate.exxonmobil.com/news/news-releases/2023/0131_exxonmobil-announces-full-year-2022-results) (Tier 1) (UNVERIFIED)
-- [ExxonMobil: 2023 results announcement](https://corporate.exxonmobil.com/news/news-releases/2024/0202_exxonmobil-announces-2023-results) (Tier 1) (UNVERIFIED)
-- [ExxonMobil: 2024 results announcement](https://corporate.exxonmobil.com/news/news-releases/2025/0131_exxonmobil-announces-2024-results) (Tier 1) (UNVERIFIED)
+- [ExxonMobil: Full-year 2022 results](https://corporate.exxonmobil.com/news/news-releases/2023/0131_exxonmobil-announces-full-year-2022-results) (Tier 1)
+- [ExxonMobil: 2023 results announcement](https://corporate.exxonmobil.com/news/news-releases/2024/0202_exxonmobil-announces-2023-results) (Tier 1)
+- [ExxonMobil: 2024 results announcement](https://corporate.exxonmobil.com/news/news-releases/2025/0131_exxonmobil-announces-2024-results) (Tier 1)
 
 **Pioneer Acquisition — Tier 1:**
-- [ExxonMobil: Press release — Pioneer acquisition completed (May 2024)](https://corporate.exxonmobil.com/news/news-releases/2024/0503_exxonmobil-completes-acquisition-of-pioneer-natural-resources) (Tier 1) (UNVERIFIED)
-- [FTC: Final consent order — Exxon-Pioneer merger (Jan 2025)](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-approves-final-order-exxon-pioneer-deal) (Tier 1) (UNVERIFIED)
+- [ExxonMobil: Press release — Pioneer acquisition completed (May 2024)](https://corporate.exxonmobil.com/news/news-releases/2024/0503_exxonmobil-completes-acquisition-of-pioneer-natural-resources) (Tier 1)
+- [FTC: Final consent order — Exxon-Pioneer merger (Jan 2025)](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-approves-final-order-exxon-pioneer-deal) (Tier 1)
 
 ---
 

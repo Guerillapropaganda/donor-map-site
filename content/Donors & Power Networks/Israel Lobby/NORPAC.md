@@ -1,7 +1,7 @@
 ---
 title: "NORPAC"
 type: donor
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
@@ -135,9 +135,9 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 
 ### Sources
 
-- [NORPAC official website](https://norpac.net) (UNVERIFIED) (Tier 4)
-- [Jewish Standard/Scribd: NORPAC fundraisers](https://www.scribd.com/document/414628497/Jewish-Standard-June-28-2019-including-supplements-About-Our-Children-and-Bar-Bat-Mitzvah) (UNVERIFIED) (Tier 3)
-- [Jewish Standard: NORPAC hosts fundraiser for Huckabee](https://jewishstandard.timesofisrael.com/norpac-hosts-fundraiser-for-huckabee/) (UNVERIFIED) (Tier 3)
+- [NORPAC official website](https://norpac.net) (Tier 4)
+- [Jewish Standard/Scribd: NORPAC fundraisers](https://www.scribd.com/document/414628497/Jewish-Standard-June-28-2019-including-supplements-About-Our-Children-and-Bar-Bat-Mitzvah) (Tier 3)
+- [Jewish Standard: NORPAC hosts fundraiser for Huckabee](https://jewishstandard.timesofisrael.com/norpac-hosts-fundraiser-for-huckabee/) (Tier 3)
 - [Jewish Link: NORPAC's Annual Mission to Washington](https://jewishlink.news/norpacs-annual-mission-to-washington-a-day-of-advocacy-for-israel/) (Tier 3)
 - [Rep. Schweikert: NORPAC sends 1,200 advocates to DC](https://schweikert.house.gov/2024/05/23/norpac-sends-1200-advocates-to-dc/) (Tier 3)
 - [OpenSecrets: NorPAC profile](https://www.opensecrets.org/political-action-committees-pacs/norpac/C00247403/summary/2024) (Tier 1)
@@ -150,4 +150,4 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 
 ---
 
-content-readiness:: developed
+content-readiness:: ready

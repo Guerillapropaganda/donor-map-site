@@ -295,25 +295,25 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 **Lobbying Expenditures & PAC Data:**
 - [OpenSecrets: NAR PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/national-assn-of-realtors/C00030718/candidate-recipients/2024) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: NAR PAC expenditures 2024](https://www.opensecrets.org/political-action-committees-pacs/national-assn-of-realtors/C00030718/expenditures/2024) (Tier 1) (UNVERIFIED)
-- [RealTrends: 25 Years of NAR Lobbying Visualized](https://www.realtrends.com/blog/2023/09/13/datadigest-25-years-of-nar-lobbying-visualized/) (Tier 2) (UNVERIFIED)
-- [Real Estate News: NAR spent more on lobbying than any other group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2) (UNVERIFIED)
-- [Real Estate News: How NAR Spent Its Money in 2024 — 990 filing](https://www.realestatenews.com/2025/12/03/how-nar-spent-its-money-in-2024) (Tier 2) (UNVERIFIED)
+- [RealTrends: 25 Years of NAR Lobbying Visualized](https://www.realtrends.com/blog/2023/09/13/datadigest-25-years-of-nar-lobbying-visualized/) (Tier 2)
+- [Real Estate News: NAR spent more on lobbying than any other group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2)
+- [Real Estate News: How NAR Spent Its Money in 2024 — 990 filing](https://www.realestatenews.com/2025/12/03/how-nar-spent-its-money-in-2024) (Tier 2)
 
 **APOA Dark Money:**
 - [New York Times: Dark Money Investigation — APOA and Republican Super PACs](https://www.nytimes.com/2024/12/09/realestate/nar-real-estate-politics.html) (Tier 2) (UNVERIFIED)
-- [HousingWire: NAR APOA New York Times Expose on Nonprofit Giving to Conservative Groups](https://www.housingwire.com/articles/nar-apoa-new-york-times-expose-nonprofit-giving-conservative-groups/) (Tier 2) (UNVERIFIED)
-- [Real Estate News: NAR Responds to Myths in New York Times Dark Money Story](https://www.realestatenews.com/2024/12/10/nar-responds-to-myths-in-new-york-times-dark-money-story) (Tier 2) (UNVERIFIED)
+- [HousingWire: NAR APOA New York Times Expose on Nonprofit Giving to Conservative Groups](https://www.housingwire.com/articles/nar-apoa-new-york-times-expose-nonprofit-giving-conservative-groups/) (Tier 2)
+- [Real Estate News: NAR Responds to Myths in New York Times Dark Money Story](https://www.realestatenews.com/2024/12/10/nar-responds-to-myths-in-new-york-times-dark-money-story) (Tier 2)
 
 **Policy Outcomes & Rent Control:**
 - [1031 Crowdfunding: Preserve 1031 Exchanges](https://www.1031crowdfunding.com/preserve-1031-exchanges/) (Tier 3) (UNVERIFIED)
-- [1031 Corp: Exchanging Thoughts Blog — Preserve Section 1031](https://www.1031corp.com/exchanging-thoughts-blog/preserve-section-1031) (Tier 3) (UNVERIFIED)
+- [1031 Corp: Exchanging Thoughts Blog — Preserve Section 1031](https://www.1031corp.com/exchanging-thoughts-blog/preserve-section-1031) (Tier 3)
 
 **Revolving Door & Regulatory Capture:**
-- [Cato Institute: Mark Calabria — Staff Profile](https://www.cato.org/people/mark-calabria) (Tier 3) (UNVERIFIED)
-- [PCAOB: Mark A. Calabria — Board Biographies](https://pcaobus.org/about/the-board/board-bios/mark-a.-calabria) (Tier 3) (UNVERIFIED)
-- [Private Equity Stakeholder Project (PESP): Concerns Surround Appointment of PE Insider to Head FHFA](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2) (UNVERIFIED)
+- [Cato Institute: Mark Calabria — Staff Profile](https://www.cato.org/people/mark-calabria) (Tier 3)
+- [PCAOB: Mark A. Calabria — Board Biographies](https://pcaobus.org/about/the-board/board-bios/mark-a.-calabria) (Tier 3)
+- [Private Equity Stakeholder Project (PESP): Concerns Surround Appointment of PE Insider to Head FHFA](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2)
 - [National Mortgage Professional: Housing Shake — HUD and FHFA Slash Staff](https://nationalmortgageprofessional.com/news/housing-shake-hud-and-fhfa-slash-staff-close-offices) (Tier 2) (UNVERIFIED)
-- [Duke University: Predatory Lending — Brian Montgomery History](https://predatorylending.duke.edu/histories/brian-montgomery/) (Tier 3) (UNVERIFIED)
+- [Duke University: Predatory Lending — Brian Montgomery History](https://predatorylending.duke.edu/histories/brian-montgomery/) (Tier 3)
 - [Politico: Brian Montgomery Senate Confirmation](https://www.politico.com/story/2018/05/23/brian-montgomery-hud-senate-confirmation-559178) (Tier 2) (UNVERIFIED)
 
 content-readiness:: developed

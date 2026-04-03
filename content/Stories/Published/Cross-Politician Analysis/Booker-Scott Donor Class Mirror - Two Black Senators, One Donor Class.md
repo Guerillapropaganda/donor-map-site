@@ -125,12 +125,12 @@ Primary databases and reporting:
 - [OpenSecrets: Tim Scott top industries](https://www.opensecrets.org/members-of-congress/tim-scott/industries?cid=N00031782) (Tier 1) (UNVERIFIED)
 - [Senate Roll Call Vote 115-1-00020: Drug Importation Amendment](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm) (Tier 1) (UNVERIFIED)
 - [Congress.gov: First Step Act](https://www.congress.gov/bill/115th-congress/senate-bill/3649) (Tier 1) (UNVERIFIED)
-- [Read Sludge: While Some Democrats Ditch AIPAC, Cory Booker Cashes In](https://readsludge.com/2025/10/16/while-some-democrats-ditch-aipac-cory-booker-cashes-in/) (Tier 2) (UNVERIFIED)
-- [The American Prospect: Sen. Tim Scott's Land of Opportunity Zones](https://prospect.org/economy/2023-04-21-based-tim-scott-opportunity-zones/) (Tier 2) (UNVERIFIED)
-- [NPR: Congressional Negotiators Have Failed to Reach a Deal on Police Reform](https://www.npr.org/2021/09/22/1039718450/congressional-negotiators-have-failed-to-reach-a-deal-on-police-reform) (Tier 2) (UNVERIFIED)
-- [ProPublica: Opportunity Zones Investigation](https://www.propublica.org/article/senate-finance-chair-to-billionaire-developers-explain-how-opportunity-zone-tax-break-is-helping-the-poor) (Tier 2) (UNVERIFIED)
-- [CNN: Tim Scott Republican Response — America Is Not a Racist Country](https://edition.cnn.com/2021/04/28/politics/tim-scott-republican-response-biden-address-congress) (Tier 2) (UNVERIFIED)
-- [CNBC: Booker, McConnell get the most Wall St. campaign cash](https://www.cnbc.com/2014/10/23/cory-booker-mitch-mcconnell-get-the-most-wall-st-campaign-cash.html) (Tier 2) (UNVERIFIED)
+- [Read Sludge: While Some Democrats Ditch AIPAC, Cory Booker Cashes In](https://readsludge.com/2025/10/16/while-some-democrats-ditch-aipac-cory-booker-cashes-in/) (Tier 2)
+- [The American Prospect: Sen. Tim Scott's Land of Opportunity Zones](https://prospect.org/economy/2023-04-21-based-tim-scott-opportunity-zones/) (Tier 2)
+- [NPR: Congressional Negotiators Have Failed to Reach a Deal on Police Reform](https://www.npr.org/2021/09/22/1039718450/congressional-negotiators-have-failed-to-reach-a-deal-on-police-reform) (Tier 2)
+- [ProPublica: Opportunity Zones Investigation](https://www.propublica.org/article/senate-finance-chair-to-billionaire-developers-explain-how-opportunity-zone-tax-break-is-helping-the-poor) (Tier 2)
+- [CNN: Tim Scott Republican Response — America Is Not a Racist Country](https://edition.cnn.com/2021/04/28/politics/tim-scott-republican-response-biden-address-congress) (Tier 2)
+- [CNBC: Booker, McConnell get the most Wall St. campaign cash](https://www.cnbc.com/2014/10/23/cory-booker-mitch-mcconnell-get-the-most-wall-st-campaign-cash.html) (Tier 2)
 
 Cross-contradiction references: [[Contradiction 01 - Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Contradiction 02 - AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides]] · [[Contradiction 12 - AIPAC Buys Progressive Cover for Bipartisan Israel Policy]]
 

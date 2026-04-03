@@ -168,9 +168,9 @@ The PE landlord bloc's success in blocking 15+ major federal/state rent protecti
 
 - [Invitation Homes 10-K and Q4 2025 earnings](https://www.businesswire.com/news/home/20260218809149/en/Invitation-Homes-Reports-Fourth-Quarter-and-Full-Year-2025-Results) (Tier 1) (UNVERIFIED)
 - [Yahoo Finance: Invitation Homes portfolio reports](https://finance.yahoo.com/news/invitation-homes-reports-fourth-quarter-211500088.html) (Tier 1) (UNVERIFIED)
-- [ACCE Institute: Helter Shelter—How Blackstone contributes to and profits from California's housing crisis](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2) (UNVERIFIED)
-- [PESP: National Rental Home Council report—How America's largest single-family landlords put profit over people](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2) (UNVERIFIED)
-- [PESP: Manufactured Housing Tracker—PE-GSE financing disparity analysis](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2) (UNVERIFIED)
+- [ACCE Institute: Helter Shelter—How Blackstone contributes to and profits from California's housing crisis](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2)
+- [PESP: National Rental Home Council report—How America's largest single-family landlords put profit over people](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2)
+- [PESP: Manufactured Housing Tracker—PE-GSE financing disparity analysis](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2)
 - [Politico: Single-family rentals group hires theGROUP D.C.—Sudafi Henry hire](https://www.politico.com/newsletters/politico-influence/2023/12/13/single-family-rentals-group-hires-thegroup-00131647) (Tier 2) (UNVERIFIED)
 - [OpenSecrets: Federal lobbying by real estate industry and trade associations](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000082003) (Tier 1)
 - [OpenSecrets: Real estate industry lobbying ecosystem 2024](https://www.opensecrets.org/industries/lobbying?cycle=All&ind=F10) (Tier 1)

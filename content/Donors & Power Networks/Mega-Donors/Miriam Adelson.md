@@ -10,7 +10,7 @@ parent: null
 
 #donor #adelson #casino #class-analysis #follow-the-money #israel #las-vegas-sands #west-bank #annexation #sheldon-adelson #mega-donor #media-ownership #mavericks #texas-gambling #huckabee
 
-related: [[_Donald Trump Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[UNITE HERE]] · [[_JD Vance Master Profile]] · [[Haim Saban]] · [[Timothy Mellon]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]]
+related: [[_Donald Trump Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[UNITE HERE]] · [[_JD Vance Master Profile]] · [[Haim Saban]] · [[Timothy Mellon]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]] · [[NORPAC]]
 
 ---
 

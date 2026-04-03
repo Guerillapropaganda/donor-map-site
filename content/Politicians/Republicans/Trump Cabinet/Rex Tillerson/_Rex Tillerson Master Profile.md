@@ -1,0 +1,102 @@
+---
+title: "Rex Tillerson"
+type: politician
+content-readiness: draft
+last-updated: 2026-04-02
+source-tier: 1
+parent: null
+---
+
+#politician #republican #trump-cabinet #secretary-of-state #exxon #fossil-fuel #revolving-door #class-analysis #follow-the-money
+
+related: [[Enterprise Products Partners]] · [[ExxonMobil]] · [[Donald Trump]]
+
+---
+
+### Sub-Notes
+
+None yet. Potential sub-notes: Exxon-Russia Arctic venture, Secretary of State tenure, Exxon sanctions violations.
+
+---
+
+### Who They Are
+
+Rex Tillerson (born March 23, 1952, Texas) spent 41 years at ExxonMobil, rising from production engineer to chairman and CEO (2006–2016), overseeing approximately 80,000 employees and $400 billion in annual revenue. Nominated by President Trump, he served as the 69th U.S. Secretary of State from February 2017 until being fired via tweet in March 2018. Estimated net worth: $300–400M, primarily from his Exxon career. His 2016 compensation was $27.4M, and he received a $180M retirement package of deferred stock over 10 years. Currently retired with a low public profile.
+
+---
+
+### The Central Thesis
+
+Tillerson's career is the fossil fuel revolving door in its purest form: 41 years building wealth and relationships inside the world's most powerful oil company, then a brief stint as Secretary of State where his primary qualification was his relationship with Putin (built through Exxon's $300B Arctic venture with Rosneft), followed by a return to private wealth. His nomination was a direct gift from the fossil fuel donor class to itself — installing one of their own at the top of U.S. foreign policy.
+
+---
+
+### The Core Contradiction
+
+> [!contradiction]
+> Tillerson was nominated to lead U.S. foreign policy because of his corporate relationships — particularly with Russia — then fired because those same relationships and corporate instincts clashed with Trump's approach. He reportedly called Trump a "moron," and Trump fired him via tweet. The corporate executive who was supposed to bring CEO discipline to diplomacy was undone by a president who operates on personal loyalty, not institutional competence.
+
+---
+
+### Donor Class Map
+
+> [!money] Follow the Money
+> Tillerson donated $468,970 to Republican candidates and committees from 2000 to 2016, including to George W. Bush, Mitt Romney, and Mitch McConnell — but notably not to Trump's campaign. His political spending was modest relative to his net worth, reflecting Exxon's institutional approach: influence through lobbying and industry associations rather than personal campaign contributions.
+
+- Personal donations: $468,970 to Republicans (2000–2016)
+- Recipients: George W. Bush, Mitt Romney, Mitch McConnell
+- Notable absence: No Trump campaign contributions
+- As Exxon CEO: oversaw corporate lobbying apparatus, not personal political spending
+- Russia connection: $300B Arctic venture with Rosneft; awarded Russia's Order of Friendship by Putin (2013)
+- Exxon sanctions violation: $2M fine in 2017 for conducting business with Russia while sanctions were in effect
+
+---
+
+### Donation-to-Policy Timeline
+
+| Date | Money In | Amount | Policy Out | Time Gap |
+|------|----------|--------|------------|----------|
+| 2000–2016 | Republican donations | $468,970 | Access to Republican political establishment | Ongoing |
+| 2013 | Exxon-Rosneft Arctic venture | $300B deal value | Russia's Order of Friendship from Putin | N/A |
+| Dec 2016 | N/A (corporate relationship) | N/A | Nominated as Secretary of State | Direct |
+
+---
+
+### Policy Area Notes
+
+No sub-notes built yet. Key policy areas for future documentation:
+- Exxon-Russia relationship and sanctions
+- Secretary of State tenure and foreign policy positions (Iran deal, North Korea, Qatar blockade)
+- Post-government philanthropy ($16M to UT Austin, September 2025)
+
+---
+
+### Rhetorical Signature Moves
+
+Tillerson operates with corporate executive framing: measured language, institutional deference, process-oriented thinking. As Secretary of State, he reportedly clashed with Trump by insisting on institutional processes and interagency coordination — the opposite of Trump's instinctive, personality-driven approach. His public statements since leaving office have been minimal, consistent with a corporate executive who views public commentary as unnecessary risk.
+
+---
+
+### Analytical Patterns
+
+- **Revolving Door** — 41 years at Exxon → Secretary of State → retirement. The most direct fossil-fuel-to-government pipeline in modern history.
+- **Donor-Class Override** — Nomination served Exxon's geopolitical interests (Russia sanctions relief, energy diplomacy) rather than foreign policy expertise.
+- **Two-Audience Problem** — Presented as a skilled diplomat and CEO to the Senate; functioned as a fossil fuel industry representative at State.
+
+---
+
+### Sources
+
+- [Wikipedia: Rex Tillerson](https://en.wikipedia.org/wiki/Rex_Tillerson) (Tier 4)
+- [Politico: Exxon Russia sanctions and Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770) (Tier 2)
+- [The Hill: Tillerson discloses assets up to $400M](https://thehill.com/homenews/administration/312928-tillerson-discloses-assets-worth-up-to-400m/) (Tier 2)
+- [Scripps News: Exxon $180M severance package](https://www.scrippsnews.com/business/company-news/exxon-crafts-180m-severance-package-for-ceo-rex-tillerson) (Tier 2)
+- [CBS News: Tillerson Exxon pay $27.2M](https://www.cbsnews.com/news/exxon-ceo-tillersons-pay-rises-to-272-million/) (Tier 2)
+- [UT Austin: Tillerson $16M donation](https://news.utexas.edu/2025/09/17/tillerson-investments-in-civics-engineering-and-longhorn-band-prepare-future-leaders/) (Tier 2)
+- [ExxonMobil: Tillerson retirement announcement](https://corporate.exxonmobil.com/news/news-releases/2016/1214_rex-tillerson-to-retire-darren-woods-elected-chairman-ceo-of-exxon-mobil-corporation) (Tier 1)
+- [KTVZ/CNN: Tillerson fast facts](https://ktvz.com/news/national-world/cnn-national/2024/03/14/rex-tillerson-fast-facts-3/) (Tier 3)
+
+---
+
+profile-status:: draft
+content-readiness:: draft

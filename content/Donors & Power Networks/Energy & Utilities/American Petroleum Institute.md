@@ -74,7 +74,7 @@ API's cumulative federal lobbying spending from 1998–2024 totals approximately
 - Average federal lobbying spend 2013–2015: $9.2M/year
 - **Critical undercounting:** Federal lobbying figures significantly understate API's total political influence spending. A 2016 [[InfluenceMap - American Petroleum Institute|InfluenceMap]] analysis estimated API alone spends approximately **$65 million per year** on "obstructive climate policy lobbying" when including advertising, PR, and trade association coordination — creating a **10:1 public-to-hidden spending ratio**
 
-Sources: [OpenSecrets federal lobbying disclosure (D000031493)](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000031493) (Tier 1) (UNVERIFIED) | [InfluenceMap investor report (2016)](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2) (UNVERIFIED)
+Sources: [OpenSecrets federal lobbying disclosure (D000031493)](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000031493) (Tier 1) (UNVERIFIED) | [InfluenceMap investor report (2016)](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2)
 
 ### Political Spending and Dark Money Operations
 
@@ -105,14 +105,14 @@ Sources: [OpenSecrets federal lobbying disclosure (D000031493)](https://www.open
 
 **"Sedition Caucus" Funding:** API gave $133,500 to members of the "Sedition Caucus" (House members who voted to overturn the 2020 election), per Climate Power (2024).
 
-Sources: [OpenSecrets API Totals (D000031493)](https://www.opensecrets.org/orgs/american-petroleum-institute/totals?cycle=A&id=D000031493) (Tier 1) (UNVERIFIED) | [Climate Power: API Sedition Caucus funding](https://climatepower.us/news/american-petroleum-institutes-blatant-hypocrisy-on-climate-action/) (Tier 2) (UNVERIFIED)
+Sources: [OpenSecrets API Totals (D000031493)](https://www.opensecrets.org/orgs/american-petroleum-institute/totals?cycle=A&id=D000031493) (Tier 1) (UNVERIFIED) | [Climate Power: API Sedition Caucus funding](https://climatepower.us/news/american-petroleum-institutes-blatant-hypocrisy-on-climate-action/) (Tier 2)
 
 #### Dark Money Operations
 
 **Better Jobs Together Campaign (2021–2022 Dark Money Operation):**
 API's 2021 Form 990 tax filing revealed API paid **$3,500,000** to "Better Jobs Together Campaign," an opaque Virginia corporation formed April 2021. Better Jobs Together then ran more than $2,500,000 in TV ads supporting conservative Democratic members of Congress—**Representatives Henry Cuellar (TX) and Kurt Schrader (OR)**—who were actively blocking Biden's climate and infrastructure agenda. This was a classic dark money operation: API funneled money through an anonymous shell corporation to secretly fund Democratic politicians opposing their party's climate platform.
 
-Source: [Sludge: Revealed — Oil Industry Lobbying Group Funded Dark Money Ad Campaign](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2) (UNVERIFIED)
+Source: [Sludge: Revealed — Oil Industry Lobbying Group Funded Dark Money Ad Campaign](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2)
 
 **Additional Dark Money Recipients Funded by API:**
 API has funneled donations to dozens of 501(c)(4) and ideological organizations through its Schedule I charitable contributions:
@@ -160,7 +160,7 @@ API's revenue derives almost entirely from membership dues ($217.9 million, 86.4
 
 API does not publicly disclose individual dues by company. The structure allows fossil fuel companies to coordinate political strategy while maintaining plausible deniability for individual corporate actions.
 
-Sources: [ExxonMobil Advocacy Report: Trade Associations disclosure](https://corporate.exxonmobil.com/who-we-are/policy/exxonmobil-advocacy-report/direct-lobbying-activities-expenditures/trade-associations-think-tanks-and-coalitions) (Tier 1) (UNVERIFIED) | [InfluenceMap 2016 investor report](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2) (UNVERIFIED) | [ProPublica Nonprofit Explorer API profile](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1) (UNVERIFIED)
+Sources: [ExxonMobil Advocacy Report: Trade Associations disclosure](https://corporate.exxonmobil.com/who-we-are/policy/exxonmobil-advocacy-report/direct-lobbying-activities-expenditures/trade-associations-think-tanks-and-coalitions) (Tier 1) | [InfluenceMap 2016 investor report](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2) | [ProPublica Nonprofit Explorer API profile](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
 
 ### The Greenwashing Machine: Advertising vs. Lobbying
 
@@ -204,7 +204,7 @@ Edelman ran API's [[Energy Citizens|Energy Citizens]] astroturf campaign startin
 
 **Additional contractors (2008–2019):** Over $100M combined to other PR, digital, and events firms
 
-Sources: [Climate Investigations Center: Trade Association PR Spending](https://climateinvestigations.org/trade-association-pr-spending/american-petroleum-institute/) (Tier 2) (UNVERIFIED) | [DeSmog: Fossil Fuel PR Campaigns](https://www.desmog.com/2019/03/18/american-petroleum-institute-api-energy-corporate-trade-associations-1-4-billion-pr-campaigns/) (Tier 2) (UNVERIFIED)
+Sources: [Climate Investigations Center: Trade Association PR Spending](https://climateinvestigations.org/trade-association-pr-spending/american-petroleum-institute/) (Tier 2) | [DeSmog: Fossil Fuel PR Campaigns](https://www.desmog.com/2019/03/18/american-petroleum-institute-api-energy-corporate-trade-associations-1-4-billion-pr-campaigns/) (Tier 2)
 
 ### Named Advertising Campaigns
 
@@ -226,7 +226,7 @@ Sources: [Climate Investigations Center: Trade Association PR Spending](https://
 - Focused on dismantling Biden climate policies: methane regulations, EV mandates, offshore leasing restrictions
 - Generated over 8.5 million digital impressions with 100+ ad variants specifically targeting LNG restrictions after Biden's January 2024 LNG permitting pause
 
-Sources: [DeSmog: Oil Lobby Energy Citizens](https://www.desmog.com/2009/08/13/oil-lobbys-energy-citizens-astroturf-campaign-exposed-launch/) (Tier 2) (UNVERIFIED) | [Public Citizen: Energy Citizens Rally Exposed](https://www.citizen.org/news/industry-astroturf-rally-against-climate-change-bill-shows-big-oil-cant-organize-real-grassroots-movement-api-throws-company-picnic-not-town-hall-meeting-on-climate-change/) (Tier 2) (UNVERIFIED) | [Fox Business: Lights On Energy Campaign](https://www.foxbusiness.com/politics/top-energy-lobby-group-unleashes-8-figure-ad-campaign-support-us-production-ahead-2024-election) (Tier 2) (UNVERIFIED)
+Sources: [DeSmog: Oil Lobby Energy Citizens](https://www.desmog.com/2009/08/13/oil-lobbys-energy-citizens-astroturf-campaign-exposed-launch/) (Tier 2) | [Public Citizen: Energy Citizens Rally Exposed](https://www.citizen.org/news/industry-astroturf-rally-against-climate-change-bill-shows-big-oil-cant-organize-real-grassroots-movement-api-throws-company-picnic-not-town-hall-meeting-on-climate-change/) (Tier 2) | [Fox Business: Lights On Energy Campaign](https://www.foxbusiness.com/politics/top-energy-lobby-group-unleashes-8-figure-ad-campaign-support-us-production-ahead-2024-election) (Tier 2)
 
 ### Policy Campaigns
 
@@ -252,7 +252,7 @@ API has opposed every federal methane regulation at every stage:
 
 **Simultaneous Litigation:** API filed **three separate federal lawsuits** in 2024 challenging EPA vehicle emission standards and NHTSA CAFE standards, joined by National Corn Growers Association, American Farm Bureau, auto dealers
 
-Sources: [API press statement: Methane Rule](https://www.api.org/news-policy-and-issues/news/2023/12/02/api-statement-on-epa-methane-rule) (Tier 2) (UNVERIFIED) | [API press release: Methane Fee Opposition](https://www.api.org/news-policy-and-issues/news/2024/03/26/american-energy-groups-unite-against-proposed-methane-fee-rule) (Tier 2) (UNVERIFIED)
+Sources: [API press statement: Methane Rule](https://www.api.org/news-policy-and-issues/news/2023/12/02/api-statement-on-epa-methane-rule) (Tier 2) | [API press release: Methane Fee Opposition](https://www.api.org/news-policy-and-issues/news/2024/03/26/american-energy-groups-unite-against-proposed-methane-fee-rule) (Tier 2)
 
 #### EV Mandates and CAFE Standards Opposition (2023–2024)
 
@@ -287,7 +287,7 @@ Source: [OpenSecrets News: API Recycled Same Arguments](https://www.opensecrets.
 
 **2021 Carbon Pricing "Support" (PR Maneuver):** In March 2021, API announced nominal support for "economy-wide carbon pricing." Analysis from environmental groups and [[InfluenceMap]] concluded this was primarily PR—API simultaneously opposed electric vehicle mandates, methane fees, and renewable energy regulations. France's Total departed API in January 2021 citing climate policy differences; Senator Sheldon Whitehouse stated API's principles "suggest it will only support a price on carbon that is held artificially low." API never endorsed specific carbon pricing legislation.
 
-Source: [Grist: Oil's Biggest Lobbying Group Killed Carbon Pricing](https://grist.org/energy/oils-biggest-lobbying-group-killed-carbon-pricing-now-it-supports-them/) (Tier 2) (UNVERIFIED)
+Source: [Grist: Oil's Biggest Lobbying Group Killed Carbon Pricing](https://grist.org/energy/oils-biggest-lobbying-group-killed-carbon-pricing-now-it-supports-them/) (Tier 2)
 
 #### Inflation Reduction Act (2022): Opposition + Sabotage
 
@@ -301,7 +301,7 @@ Despite opposing full bill, API successfully lobbied to embed fossil fuel conces
 
 After passage, API continued working to roll back IRA provisions—targeting Waste Emissions Charge, Methane Emissions Reduction Program, Greenhouse Gas Reduction Fund. By early 2025, API succeeded in repealing Waste Emissions Charge.
 
-Source: [API press release: IRA Opposition](https://www.api.org/news-policy-and-issues/news/2022/08/11/us-energy-industry-outlines-opposition-to-inflation-reduction-act) (Tier 2) (UNVERIFIED)
+Source: [API press release: IRA Opposition](https://www.api.org/news-policy-and-issues/news/2022/08/11/us-energy-industry-outlines-opposition-to-inflation-reduction-act) (Tier 2)
 
 #### Natural Gas as "Bridge Fuel" Narrative (Delay Tactic)
 
@@ -348,7 +348,7 @@ API coordinates closely and co-funds campaigns with:
 | [[FreedomWorks]] | $130,000 | Co-organized Energy Citizens rallies |
 | American Energy Alliance | ~$900,000 | 501(c)(4) running anti-climate ads; Keystone XL, anti-Obama energy campaigns partner |
 
-Source: [DeSmog API profile: IRS tax filing analysis](https://www.desmog.com/american-petroleum-institute/) (Tier 2) (UNVERIFIED)
+Source: [DeSmog API profile: IRS tax filing analysis](https://www.desmog.com/american-petroleum-institute/) (Tier 2)
 
 ### The 1998 "Victory" Memo: Explicit Climate Denial Strategy
 
@@ -392,7 +392,7 @@ The memo was leaked and reported in New York Times April 26, 1998, and entered C
 
 Per [[SourceWatch]]: Memo also stated that "unless 'climate change' becomes a non-issue, meaning that the Kyoto proposal is defeated and there are no further initiatives to thwart the threat of climate change, there may be no moment when we can declare victory for our efforts."
 
-Sources: [Climate Files: 1998 Communications Plan](https://www.climatefiles.com/trade-group/american-petroleum-institute/1998-global-climate-science-communications-team-action-plan/) (Tier 1) (UNVERIFIED) | [Inside Climate News: Global Climate Science Communications Plan](https://insideclimatenews.org/documents/global-climate-science-communications-plan-1998/) (Tier 1) (UNVERIFIED) | [Congressional Record (1998)](https://www.govinfo.gov/content/pkg/CREC-1998-04-27/html/CREC-1998-04-27-pt1-PgH2323.htm) (Tier 1) (UNVERIFIED)
+Sources: [Climate Files: 1998 Communications Plan](https://www.climatefiles.com/trade-group/american-petroleum-institute/1998-global-climate-science-communications-team-action-plan/) (Tier 1) | [Inside Climate News: Global Climate Science Communications Plan](https://insideclimatenews.org/documents/global-climate-science-communications-plan-1998/) (Tier 1) | [Congressional Record (1998)](https://www.govinfo.gov/content/pkg/CREC-1998-04-27/html/CREC-1998-04-27-pt1-PgH2323.htm) (Tier 1)
 
 ### Climate Denial History
 
@@ -449,7 +449,7 @@ As 1992 Earth Summit approached, API executive VP William O'Keefe published lett
 | 2009–2010 | Energy Citizens astroturf vs. Waxman-Markey | — | Grassroots opposition to cap-and-trade |
 | 2021 | Nominal support for carbon pricing (PR move) | — | Support carbon pricing (no legislation) |
 
-Sources: [Union of Concerned Scientists: Fossil Fuel Deception](https://blog.ucs.org/laura-peterson/fossil-fuel-deception-first-100-days/) (Tier 2) (UNVERIFIED) | [DeSmog: API Climate Denial Campaign](https://www.desmog.com/2021/01/15/api-american-petroleum-institute-oil-industry-public-climate-denial-campaign-1980/) (Tier 2) (UNVERIFIED) | [Taylor & Francis Academic Study (2021)](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1947636) (Tier 3) (UNVERIFIED)
+Sources: [Union of Concerned Scientists: Fossil Fuel Deception](https://blog.ucs.org/laura-peterson/fossil-fuel-deception-first-100-days/) (Tier 2) | [DeSmog: API Climate Denial Campaign](https://www.desmog.com/2021/01/15/api-american-petroleum-institute-oil-industry-public-climate-denial-campaign-1980/) (Tier 2) | [Taylor & Francis Academic Study (2021)](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1947636) (Tier 3)
 
 ### Revolving Door
 
@@ -512,7 +512,7 @@ From OpenSecrets' 2021 API lobbyist roster: **51 total lobbyists; 40 (78.43%) ha
 
 While not API official, exemplifies revolving door. Cooney was Chief of Staff, White House Council on Environmental Quality under President George W. Bush. Forced to resign 2005 after revealed tampering with government climate assessments—editing reports to downplay scientific evidence of global warming. After White House, hired as lobbyist for [[ExxonMobil]] (API's largest member company).
 
-Sources: [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2) (UNVERIFIED) | [OpenSecrets: API Lobbyist Roster (2021)](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2021&id=D000031493) (Tier 1) (UNVERIFIED)
+Sources: [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2) | [OpenSecrets: API Lobbyist Roster (2021)](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2021&id=D000031493) (Tier 1)
 
 ### Donation-to-Policy Timeline
 
@@ -568,45 +568,45 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 ### Sources
 
 - [OpenSecrets: API Federal Lobbying Disclosure (D000031493)](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000031493) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: API PAC Committee Filings (C00483677)](https://www.fec.gov/data/committee/C00483677/) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: API PAC Committee Filings (C00483677)](https://www.fec.gov/data/committee/C00483677/) (Tier 1)
 - [OpenSecrets: API Political Contributions and Outside Spending](https://www.opensecrets.org/orgs/american-petroleum-institute/summary?id=D000031493) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: API Lobbyist Roster (2021–2024)](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2021&id=D000031493) (Tier 1) (UNVERIFIED)
-- [ProPublica Nonprofit Explorer: API Form 990 Filings (2020–2024)](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1) (UNVERIFIED)
-- [FEC: American Petroleum Institute PAC and Super PAC Contributions](https://www.fec.gov/data/committee/C00483677/) (Tier 1) (UNVERIFIED)
-- [ExxonMobil Corporate Disclosure: Trade Association Expenditures](https://corporate.exxonmobil.com/who-we-are/policy/exxonmobil-advocacy-report/direct-lobbying-activities-expenditures/trade-associations-think-tanks-and-coalitions) (Tier 1) (UNVERIFIED)
-- [Senate LD-2 Lobbying Disclosure: API Current Filings](https://lda.senate.gov/filings/public/filing/94aa0f30-7984-4a4e-bb3c-9f50b25355b3/print/) (Tier 1) (UNVERIFIED)
-- [InfluenceMap: API Political Spending Analysis (2016 Report)](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2) (UNVERIFIED)
-- [InfluenceMap: American Petroleum Institute Track Record on Climate Policy](https://influencemap.org/pressrelease/American-Petroleum-Institute-s-track-record-on-climate-policy-221948cb82820ecfc5a65a6f55d931bd) (Tier 2) (UNVERIFIED)
-- [InfluenceMap: US LNG Ads Briefing (2024)](https://influencemap.org/briefing/US-LNG-Ads-Briefing-28574) (Tier 2) (UNVERIFIED)
-- [Climate Investigations Center: API Trade Association PR Spending](https://climateinvestigations.org/trade-association-pr-spending/american-petroleum-institute/) (Tier 2) (UNVERIFIED)
-- [Climate Investigations Center: Global Climate Information Project](https://climateinvestigations.org/global-climate-information-project-climatefacts-org-1997-tv-ads/) (Tier 2) (UNVERIFIED)
-- [DeSmog: American Petroleum Institute Profile](https://www.desmog.com/american-petroleum-institute/) (Tier 2) (UNVERIFIED)
-- [DeSmog: Jack N. Gerard Profile](https://www.desmog.com/jack-n-gerard/) (Tier 2) (UNVERIFIED)
-- [DeSmog: Global Climate Coalition History](https://www.desmog.com/global-climate-coalition/) (Tier 2) (UNVERIFIED)
-- [DeSmog: API Climate Denial Campaign 1980](https://www.desmog.com/2021/01/15/api-american-petroleum-institute-oil-industry-public-climate-denial-campaign-1980/) (Tier 2) (UNVERIFIED)
-- [DeSmog: Energy Citizens Astroturf Campaign Exposed](https://www.desmog.com/2009/08/13/oil-lobbys-energy-citizens-astroturf-campaign-exposed-launch/) (Tier 2) (UNVERIFIED)
-- [DeSmog: Fossil Fuel Trade Associations $1.4 Billion PR Campaigns](https://www.desmog.com/2019/03/18/american-petroleum-institute-api-energy-corporate-trade-associations-1-4-billion-pr-campaigns/) (Tier 2) (UNVERIFIED)
-- [Sludge: Revealed — Oil Industry Dark Money Campaign for Conservative Democrats](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2) (UNVERIFIED)
-- [Sludge: API Climate Denial News Analysis](https://readsludge.com/) (Tier 2) (UNVERIFIED)
-- [Climate Power: American Petroleum Institute Hypocrisy Analysis](https://climatepower.us/news/american-petroleum-institutes-blatant-hypocrisy-on-climate-action/) (Tier 2) (UNVERIFIED)
-- [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2) (UNVERIFIED)
-- [Type Investigations: Dark Money 2012 Election (API/AFP/AAI)](https://www.typeinvestigations.org/investigation/2013/11/19/dark-money-2012-election/) (Tier 2) (UNVERIFIED)
-- [Union of Concerned Scientists: Fossil Fuel Deception First 100 Days](https://blog.ucs.org/laura-peterson/fossil-fuel-deception-first-100-days/) (Tier 2) (UNVERIFIED)
-- [Climate Files: 1998 Global Climate Science Communications Plan](https://www.climatefiles.com/trade-group/american-petroleum-institute/1998-global-climate-science-communications-team-action-plan/) (Tier 1) (UNVERIFIED)
-- [Inside Climate News: Global Climate Science Communications Plan 1998](https://insideclimatenews.org/documents/global-climate-science-communications-plan-1998/) (Tier 1) (UNVERIFIED)
-- [Congressional Record: 1998 Climate Science Communications Plan (April 27, 1998)](https://www.govinfo.gov/content/pkg/CREC-1998-04-27/html/CREC-1998-04-27-pt1-PgH2323.htm) (Tier 1) (UNVERIFIED)
+- [ProPublica Nonprofit Explorer: API Form 990 Filings (2020–2024)](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
+- [FEC: American Petroleum Institute PAC and Super PAC Contributions](https://www.fec.gov/data/committee/C00483677/) (Tier 1)
+- [ExxonMobil Corporate Disclosure: Trade Association Expenditures](https://corporate.exxonmobil.com/who-we-are/policy/exxonmobil-advocacy-report/direct-lobbying-activities-expenditures/trade-associations-think-tanks-and-coalitions) (Tier 1)
+- [Senate LD-2 Lobbying Disclosure: API Current Filings](https://lda.senate.gov/filings/public/filing/94aa0f30-7984-4a4e-bb3c-9f50b25355b3/print/) (Tier 1)
+- [InfluenceMap: API Political Spending Analysis (2016 Report)](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2)
+- [InfluenceMap: American Petroleum Institute Track Record on Climate Policy](https://influencemap.org/pressrelease/American-Petroleum-Institute-s-track-record-on-climate-policy-221948cb82820ecfc5a65a6f55d931bd) (Tier 2)
+- [InfluenceMap: US LNG Ads Briefing (2024)](https://influencemap.org/briefing/US-LNG-Ads-Briefing-28574) (Tier 2)
+- [Climate Investigations Center: API Trade Association PR Spending](https://climateinvestigations.org/trade-association-pr-spending/american-petroleum-institute/) (Tier 2)
+- [Climate Investigations Center: Global Climate Information Project](https://climateinvestigations.org/global-climate-information-project-climatefacts-org-1997-tv-ads/) (Tier 2)
+- [DeSmog: American Petroleum Institute Profile](https://www.desmog.com/american-petroleum-institute/) (Tier 2)
+- [DeSmog: Jack N. Gerard Profile](https://www.desmog.com/jack-n-gerard/) (Tier 2)
+- [DeSmog: Global Climate Coalition History](https://www.desmog.com/global-climate-coalition/) (Tier 2)
+- [DeSmog: API Climate Denial Campaign 1980](https://www.desmog.com/2021/01/15/api-american-petroleum-institute-oil-industry-public-climate-denial-campaign-1980/) (Tier 2)
+- [DeSmog: Energy Citizens Astroturf Campaign Exposed](https://www.desmog.com/2009/08/13/oil-lobbys-energy-citizens-astroturf-campaign-exposed-launch/) (Tier 2)
+- [DeSmog: Fossil Fuel Trade Associations $1.4 Billion PR Campaigns](https://www.desmog.com/2019/03/18/american-petroleum-institute-api-energy-corporate-trade-associations-1-4-billion-pr-campaigns/) (Tier 2)
+- [Sludge: Revealed — Oil Industry Dark Money Campaign for Conservative Democrats](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2)
+- [Sludge: API Climate Denial News Analysis](https://readsludge.com/) (Tier 2)
+- [Climate Power: American Petroleum Institute Hypocrisy Analysis](https://climatepower.us/news/american-petroleum-institutes-blatant-hypocrisy-on-climate-action/) (Tier 2)
+- [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2)
+- [Type Investigations: Dark Money 2012 Election (API/AFP/AAI)](https://www.typeinvestigations.org/investigation/2013/11/19/dark-money-2012-election/) (Tier 2)
+- [Union of Concerned Scientists: Fossil Fuel Deception First 100 Days](https://blog.ucs.org/laura-peterson/fossil-fuel-deception-first-100-days/) (Tier 2)
+- [Climate Files: 1998 Global Climate Science Communications Plan](https://www.climatefiles.com/trade-group/american-petroleum-institute/1998-global-climate-science-communications-team-action-plan/) (Tier 1)
+- [Inside Climate News: Global Climate Science Communications Plan 1998](https://insideclimatenews.org/documents/global-climate-science-communications-plan-1998/) (Tier 1)
+- [Congressional Record: 1998 Climate Science Communications Plan (April 27, 1998)](https://www.govinfo.gov/content/pkg/CREC-1998-04-27/html/CREC-1998-04-27-pt1-PgH2323.htm) (Tier 1)
 - [SourceWatch: 1998 Climate Science Communications Plan](https://www.sourcewatch.org/index.php/Global_Climate_Science_Communications_Plan_(1998)) (Tier 3) (UNVERIFIED)
-- [Grist: Oil's Biggest Lobbying Group Killed Carbon Pricing, Now It Supports Them](https://grist.org/energy/oils-biggest-lobbying-group-killed-carbon-pricing-now-it-supports-them/) (Tier 2) (UNVERIFIED)
-- [Public Citizen: Energy Citizens Rally Exposed](https://www.citizen.org/news/industry-astroturf-rally-against-climate-change-bill-shows-big-oil-cant-organize-real-grassroots-movement-api-throws-company-picnic-not-town-hall-meeting-on-climate-change/) (Tier 2) (UNVERIFIED)
-- [Fox Business: Top Energy Lobby Group Unleashes 8-Figure Ad Campaign (2024)](https://www.foxbusiness.com/politics/top-energy-lobby-group-unleashes-8-figure-ad-campaign-support-us-production-ahead-2024-election) (Tier 2) (UNVERIFIED)
+- [Grist: Oil's Biggest Lobbying Group Killed Carbon Pricing, Now It Supports Them](https://grist.org/energy/oils-biggest-lobbying-group-killed-carbon-pricing-now-it-supports-them/) (Tier 2)
+- [Public Citizen: Energy Citizens Rally Exposed](https://www.citizen.org/news/industry-astroturf-rally-against-climate-change-bill-shows-big-oil-cant-organize-real-grassroots-movement-api-throws-company-picnic-not-town-hall-meeting-on-climate-change/) (Tier 2)
+- [Fox Business: Top Energy Lobby Group Unleashes 8-Figure Ad Campaign (2024)](https://www.foxbusiness.com/politics/top-energy-lobby-group-unleashes-8-figure-ad-campaign-support-us-production-ahead-2024-election) (Tier 2)
 - [OpenSecrets News: American Petroleum Institute Recycled Same Arguments Decades](https://www.opensecrets.org/news/2024/07/american-petroleum-institute-recycled-same-arguments-for-decades-lobbying-on-climate-policy/) (Tier 2) (UNVERIFIED)
 - [Taylor & Francis: Global Climate Coalition and Climate Denial Study (2021)](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1947636) (Tier 3) (UNVERIFIED)
-- [The Cool Down: API Ad Campaign Coverage (2024)](https://www.thecooldown.com/green-business/api-ad-campaign-oil-gas-industry-voters/) (Tier 3) (UNVERIFIED)
-- [The Intercept: Bipartisan Infrastructure Bill Fossil Fuel Subsidies](https://theintercept.com/2021/08/03/bipartisan-infrastructure-bill-climate-subsidies-fossil-fuel/) (Tier 2) (UNVERIFIED)
-- [The Real News Network: Fossil Fuel Trade Associations PR Spending (2019)](https://therealnews.com/fossil-fuel-trade-associations-spent-1-4-billion-on-ads-in-past-decade) (Tier 2) (UNVERIFIED)
-- [Truthout: Oil and Gas Industry Lobbying 2022](https://truthout.org/articles/oil-and-gas-industry-spent-124-4-million-lobbying-amid-record-profits-in-2022/) (Tier 2) (UNVERIFIED)
-- [University of Chicago EPIC: Lessons from Waxman-Markey Lobbying (2019)](https://epic.uchicago.edu/news/lessons-learned-from-the-last-major-u-s-climate-bill-lobbying-takes-its-toll/) (Tier 2) (UNVERIFIED)
-- [API Press Releases and Official Communications (api.org)](https://www.api.org/news-policy-and-issues/news/) (Tier 3) (UNVERIFIED)
+- [The Cool Down: API Ad Campaign Coverage (2024)](https://www.thecooldown.com/green-business/api-ad-campaign-oil-gas-industry-voters/) (Tier 3)
+- [The Intercept: Bipartisan Infrastructure Bill Fossil Fuel Subsidies](https://theintercept.com/2021/08/03/bipartisan-infrastructure-bill-climate-subsidies-fossil-fuel/) (Tier 2)
+- [The Real News Network: Fossil Fuel Trade Associations PR Spending (2019)](https://therealnews.com/fossil-fuel-trade-associations-spent-1-4-billion-on-ads-in-past-decade) (Tier 2)
+- [Truthout: Oil and Gas Industry Lobbying 2022](https://truthout.org/articles/oil-and-gas-industry-spent-124-4-million-lobbying-amid-record-profits-in-2022/) (Tier 2)
+- [University of Chicago EPIC: Lessons from Waxman-Markey Lobbying (2019)](https://epic.uchicago.edu/news/lessons-learned-from-the-last-major-u-s-climate-bill-lobbying-takes-its-toll/) (Tier 2)
+- [API Press Releases and Official Communications (api.org)](https://www.api.org/news-policy-and-issues/news/) (Tier 3)
 
 ---
 

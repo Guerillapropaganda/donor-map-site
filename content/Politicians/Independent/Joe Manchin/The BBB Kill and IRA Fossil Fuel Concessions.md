@@ -75,7 +75,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 - BLM must offer **minimum 2 million acres** (or all nominated areas, whichever is lesser) before granting wind/solar rights-of-way
 - Renewable energy development is **structurally tethered to fossil fuel extraction**
 
-**Source:** [Harvard EELP analysis: IRA Onshore Leasing](https://eelp.law.harvard.edu/ira-onshore-leasing/) (Tier 2) (UNVERIFIED)
+**Source:** [Harvard EELP analysis: IRA Onshore Leasing](https://eelp.law.harvard.edu/ira-onshore-leasing/) (Tier 2)
 
 **3. Mountain Valley Pipeline (MVP) Side Deal**
 
@@ -91,7 +91,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 - **MVP ultimately completed in 2024** via separate legislation
 - **Donors involved:** [[Equitrans Midstream]] (MVP co-owner: $15,800 to Manchin 2017–2022 cycle); combined Manchin + Schumer received $340,000+ from MVP-related companies
 
-**Source:** [American Prospect, September 21, 2022: Permitting Reform Is a Decoy for Ramping Up Gas](https://prospect.org/2022/09/21/permitting-reform-decoy-ramping-up-natural-gas-manchin/) (Tier 2) (UNVERIFIED); [E&E News, December 7, 2022: Manchin's Last Gasp Permitting Effort Fails](https://www.eenews.net/articles/manchins-last-gasp-permitting-effort-fails/) (Tier 2) (UNVERIFIED)
+**Source:** [American Prospect, September 21, 2022: Permitting Reform Is a Decoy for Ramping Up Gas](https://prospect.org/2022/09/21/permitting-reform-decoy-ramping-up-natural-gas-manchin/) (Tier 2); [E&E News, December 7, 2022: Manchin's Last Gasp Permitting Effort Fails](https://www.eenews.net/articles/manchins-last-gasp-permitting-effort-fails/) (Tier 2)
 
 **4. Expanded Carbon Capture (45Q) Tax Credit**
 
@@ -103,7 +103,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
   - Coal-fired power plants (enabled Petra Nova CCS project in Texas to restart after 3-year idle; new projects at plants in New Mexico and North Dakota)
 - **Criticism:** 500+ environmental organizations argued CCS "delays needed transition away from fossil fuels" and uses unproven technology to extend coal and gas plant lifespans
 
-**Source:** [Sludge: Manchin Delivered 'Game Changer' to His Top Donor](https://readsludge.com/2022/08/29/manchin-delivered-game-changer-to-his-top-donor/) (Tier 2) (UNVERIFIED)
+**Source:** [Sludge: Manchin Delivered 'Game Changer' to His Top Donor](https://readsludge.com/2022/08/29/manchin-delivered-game-changer-to-his-top-donor/) (Tier 2)
 
 **5. Methane Emissions Fee (Weakened)**
 
@@ -112,14 +112,14 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 - Includes $850 million in industry grants to monitor/reduce methane (effectively subsidizing compliance)
 - Manchin called original version "punitive"
 
-**Source:** [E&E News, July 28, 2022: Manchin revives climate deal — what's in the $369B bill](https://www.eenews.net/articles/manchin-revives-climate-deal-whats-in-the-369b-bill/) (Tier 2) (UNVERIFIED)
+**Source:** [E&E News, July 28, 2022: Manchin revives climate deal — what's in the $369B bill](https://www.eenews.net/articles/manchin-revives-climate-deal-whats-in-the-369b-bill/) (Tier 2)
 
 **6. Other Fossil Fuel Provisions**
 
 - **Royalty rate increases** for oil and gas on federal land (Manchin framed as "balanced" — accepted higher rates in exchange for guaranteed auctions)
 - **API watermark on draft:** American Petroleum Institute watermark reportedly found on leaked memo of Manchin's permitting reform draft — suggesting API effectively wrote provisions of the legislation
 
-**Source:** [Food & Water Watch: Manchin's Dirty Side Deal Sidelined](https://www.foodandwaterwatch.org/2022/09/27/manchin-side-deal-removed/) (Tier 2) (UNVERIFIED)
+**Source:** [Food & Water Watch: Manchin's Dirty Side Deal Sidelined](https://www.foodandwaterwatch.org/2022/09/27/manchin-side-deal-removed/) (Tier 2)
 
 > [!contradiction]
 > The IRA is celebrated as the largest climate investment in American history ($369 billion). But the fossil fuel concessions Manchin extracted ensure that climate investment is permanently tethered to fossil fuel expansion. The law mandates that the government sell oil and gas leases as a precondition for renewable development. The "climate bill" structurally guarantees continued fossil fuel extraction. Manchin didn't just extract a compromise — he embedded fossil fuel dependency into the architecture of climate legislation itself.
@@ -165,7 +165,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 
 **Summary:** $400,000+ from fossil fuel interests in single quarter while Manchin blocked CEPP.
 
-**Source:** [E&E News, October 20, 2021: Manchin has raked in $400K in fossil fuel donations](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2) (UNVERIFIED)
+**Source:** [E&E News, October 20, 2021: Manchin has raked in $400K in fossil fuel donations](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2)
 
 #### Company PACs — Q3 2021 Maximum Donations
 
@@ -180,7 +180,7 @@ All six of these PACs donated exactly $5,000 (legal maximum) in the same quarter
 
 **Total coordinated PAC donations:** $30,000 in single quarter
 
-**Source:** [E&E News, October 20, 2021](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2) (UNVERIFIED)
+**Source:** [E&E News, October 20, 2021](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2)
 
 #### Electric Utility Companies (CEPP Opponents)
 
@@ -196,7 +196,7 @@ All six of these PACs donated exactly $5,000 (legal maximum) in the same quarter
 
 **2022 status:** Manchin ranked **#2 Senate recipient of utility money** (behind Chuck Schumer) for 2022 cycle. All utilities opposed CEPP because it would have penalized them for slow decarbonization.
 
-**Source:** [OpenSecrets Contributors 2022](https://www.opensecrets.org/members-of-congress/joe-manchin/contributors?cycle=2022&recs=100&type=I) (Tier 1) (UNVERIFIED); [Gizmodo, October 2021: The Dirty Utilities Funding Manchin's Bullshit](https://gizmodo.com/the-dirty-utilities-funding-joe-manchin-s-bullshit-1847792988) (Tier 2) (UNVERIFIED)
+**Source:** [OpenSecrets Contributors 2022](https://www.opensecrets.org/members-of-congress/joe-manchin/contributors?cycle=2022&recs=100&type=I) (Tier 1) (UNVERIFIED); [Gizmodo, October 2021: The Dirty Utilities Funding Manchin's Bullshit](https://gizmodo.com/the-dirty-utilities-funding-joe-manchin-s-bullshit-1847792988) (Tier 2)
 
 #### Coal Company Historical Donors (2010–2012)
 
@@ -258,18 +258,18 @@ Manchin became a member of the Senate Energy and Natural Resources Committee whe
 
 - [Congressional Budget Office: Estimated Budgetary Effects of HR 5376, Inflation Reduction Act](https://www.cbo.gov/publication/58366) (Tier 1)
 - [OpenSecrets: Manchin industry and contributor data](https://www.opensecrets.org/members-of-congress/joe-manchin/contributors?cycle=2022&recs=100&type=I) (Tier 1) (UNVERIFIED)
-- [E&E News: Manchin has raked in $400K in fossil fuel donations](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2) (UNVERIFIED)
-- [E&E News: Manchin revives climate deal - what's in the $369B bill](https://www.eenews.net/articles/manchin-revives-climate-deal-whats-in-the-369b-bill/) (Tier 2) (UNVERIFIED)
-- [E&E News: Manchin pushes DOE to invest in coal that earned him millions](https://www.eenews.net/articles/manchin-pushes-doe-to-invest-in-coal-that-earned-him-millions/) (Tier 2) (UNVERIFIED)
+- [E&E News: Manchin has raked in $400K in fossil fuel donations](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2)
+- [E&E News: Manchin revives climate deal - what's in the $369B bill](https://www.eenews.net/articles/manchin-revives-climate-deal-whats-in-the-369b-bill/) (Tier 2)
+- [E&E News: Manchin pushes DOE to invest in coal that earned him millions](https://www.eenews.net/articles/manchin-pushes-doe-to-invest-in-coal-that-earned-him-millions/) (Tier 2)
 - [Washington Post: Manchin's opposition to BBB undercuts Biden's climate agenda](https://www.washingtonpost.com/climate-environment/2021/12/19/manchin-climate-build-back-better/) (Tier 2) (UNVERIFIED)
 - [New York Times: Biden's clean energy plan faces a test](https://www.nytimes.com/2021/10/15/climate/biden-clean-energy-manchin.html) (Tier 2) (UNVERIFIED)
 - [Politico: Manchin proposed $1.5T topline number to Schumer this summer](https://www.politico.com/news/2021/09/30/manchin-proposed-15t-topline-number-to-schumer-this-summer-514803) (Tier 2) (UNVERIFIED)
-- [NPR: Manchin says BBB climate measures are risky. That's not true.](https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true) (Tier 2) (UNVERIFIED)
-- [American Prospect: Permitting Reform Is a Decoy for Ramping Up Gas](https://prospect.org/2022/09/21/permitting-reform-decoy-ramping-up-natural-gas-manchin/) (Tier 2) (UNVERIFIED)
-- [Food & Water Watch: Manchin's Dirty Side Deal Sidelined](https://www.foodandwaterwatch.org/2022/09/27/manchin-side-deal-removed/) (Tier 2) (UNVERIFIED)
-- [Grist: IRA promises new oil leases](https://grist.org/energy/inflation-reduction-act-oil-gas-leases-federal-land/) (Tier 2) (UNVERIFIED)
-- [Harvard EELP: IRA Onshore Leasing Provisions](https://eelp.law.harvard.edu/ira-onshore-leasing/) (Tier 2) (UNVERIFIED)
+- [NPR: Manchin says BBB climate measures are risky. That's not true.](https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true) (Tier 2)
+- [American Prospect: Permitting Reform Is a Decoy for Ramping Up Gas](https://prospect.org/2022/09/21/permitting-reform-decoy-ramping-up-natural-gas-manchin/) (Tier 2)
+- [Food & Water Watch: Manchin's Dirty Side Deal Sidelined](https://www.foodandwaterwatch.org/2022/09/27/manchin-side-deal-removed/) (Tier 2)
+- [Grist: IRA promises new oil leases](https://grist.org/energy/inflation-reduction-act-oil-gas-leases-federal-land/) (Tier 2)
+- [Harvard EELP: IRA Onshore Leasing Provisions](https://eelp.law.harvard.edu/ira-onshore-leasing/) (Tier 2)
 - [Senate Energy Committee: Manchin on IRA fossil fuel production](https://www.energy.senate.gov/2023/9/manchin-because-of-the-ira-we-are-producing-record-levels-of-fossil-fuels) (Tier 1) (UNVERIFIED)
-- [Sludge: Manchin Delivered 'Game Changer' to His Top Donor](https://readsludge.com/2022/08/29/manchin-delivered-game-changer-to-his-top-donor/) (Tier 2) (UNVERIFIED)
-- [Jacobin: Joe Manchin is a very good friend to fossil fuel donors](https://jacobin.com/2022/08/joe-manchin-ira-fossil-fuel-donors) (Tier 2) (UNVERIFIED)
-- [New Republic: Joe Manchin is a Very Good Friend to His Fossil Fuel Donors](https://newrepublic.com/article/163723/joe-manchin-vote-fossil-fuel) (Tier 2) (UNVERIFIED)
+- [Sludge: Manchin Delivered 'Game Changer' to His Top Donor](https://readsludge.com/2022/08/29/manchin-delivered-game-changer-to-his-top-donor/) (Tier 2)
+- [Jacobin: Joe Manchin is a very good friend to fossil fuel donors](https://jacobin.com/2022/08/joe-manchin-ira-fossil-fuel-donors) (Tier 2)
+- [New Republic: Joe Manchin is a Very Good Friend to His Fossil Fuel Donors](https://newrepublic.com/article/163723/joe-manchin-vote-fossil-fuel) (Tier 2)

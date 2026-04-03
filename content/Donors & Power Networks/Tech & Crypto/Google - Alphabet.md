@@ -92,9 +92,9 @@ California is ground zero for tech regulation, and Google has dramatically escal
 
 **Covert tactics:** Google's California lobbying frequently operates through third-party organizations and industry associations without Google's name appearing on direct lobbying disclosures. It organizes small business owner coalitions, funds astroturf campaigns, and uses the California Chamber of Commerce as a proxy.
 
-- [LA Times: Why Google's California lobbying skyrocketed](https://www.latimes.com/california/story/2023-12-19/why-googles-lobbying-in-california-skyrocketed-this-year) (Tier 2) (UNVERIFIED)
-- [CalMatters: California lobbying Q3 2024](https://calmatters.org/politics/2024/11/california-lobbying-google-big-oil/) (Tier 2) (UNVERIFIED)
-- [The Markup: Google covert privacy bill lobbying](https://themarkup.org/privacy/2025/09/12/google-wasnt-against-this-privacy-bill-officially-behind-the-scenes-it-orchestrated-opposition) (Tier 2) (UNVERIFIED)
+- [LA Times: Why Google's California lobbying skyrocketed](https://www.latimes.com/california/story/2023-12-19/why-googles-lobbying-in-california-skyrocketed-this-year) (Tier 2)
+- [CalMatters: California lobbying Q3 2024](https://calmatters.org/politics/2024/11/california-lobbying-google-big-oil/) (Tier 2)
+- [The Markup: Google covert privacy bill lobbying](https://themarkup.org/privacy/2025/09/12/google-wasnt-against-this-privacy-bill-officially-behind-the-scenes-it-orchestrated-opposition) (Tier 2)
 
 ### European Union
 
@@ -102,7 +102,7 @@ Google is consistently the #1 corporate lobbying spender in Brussels, with decla
 
 Google held 212 total meetings with EU Commission officials during the Juncker and von der Leyen mandates combined — the most of any Brussels lobby group. 54% of Google's declared EU lobbying relates to EU digital policies, making it the most EU-focused of the major tech companies. EU lobbying escalated during Digital Markets Act (DMA) and Digital Services Act (DSA) rulemaking.
 
-- [Transparency International EU: Deep Pockets, Open Doors report](https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf) (Tier 2) (UNVERIFIED)
+- [Transparency International EU: Deep Pockets, Open Doors report](https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf) (Tier 2)
 
 ---
 
@@ -211,7 +211,7 @@ The FTC antitrust investigation ended in a settlement that critics regard as far
 
 The investigation closed just weeks after Obama's re-election, in which [[Eric Schmidt]] had played a key campaign role.
 
-- [Tech Transparency Project: White House FTC Google Probe](https://www.techtransparencyproject.org/articles/white-house-kept-close-tabs-ftc-google-probe) (Tier 2) (UNVERIFIED)
+- [Tech Transparency Project: White House FTC Google Probe](https://www.techtransparencyproject.org/articles/white-house-kept-close-tabs-ftc-google-probe) (Tier 2)
 
 ### DOJ Antitrust — United States v. Google LLC (2020-ongoing)
 
@@ -254,10 +254,10 @@ Google lobbied in favor of a 10-year federal moratorium on state AI regulation i
 - [NPR: Google loses antitrust case](https://www.npr.org/2024/08/05/nx-s1-5064624/google-justice-department-antitrust-search) (Tier 2) (Chrome-verified)
 - [NPR: Judge lets Google keep Chrome (Sept 2025)](https://www.npr.org/2025/09/02/nx-s1-5478625/google-chrome-doj-antitrust-ruling) (Tier 2) (Chrome-verified)
 - [Congress.gov CRS: Federal Court Endorses Behavioral Remedies](https://www.congress.gov/crs-product/LSB11362) (Tier 1) (Chrome-verified)
-- [Mintz: DOJ drops AI divestiture](https://www.mintz.com/insights-center/viewpoints/54731/2025-03-14-doj-scraps-proposal-require-google-sell-ai-investments) (Tier 2) (UNVERIFIED)
+- [Mintz: DOJ drops AI divestiture](https://www.mintz.com/insights-center/viewpoints/54731/2025-03-14-doj-scraps-proposal-require-google-sell-ai-investments) (Tier 2)
 - [Bipartisan Policy Center: Gonzalez v. Google](https://bipartisanpolicy.org/article/gonzalez-v-google/) (Tier 3) (UNVERIFIED)
-- [Nemko Digital: Big Tech AI regulation blocked 2025](https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025) (Tier 2) (UNVERIFIED)
-- [IAPP: Pelosi opposes ADPPA](https://iapp.org/news/a/pelosi-rejects-proposed-american-data-privacy-and-protection-act-seeks-new-compromise/) (Tier 2) (UNVERIFIED)
+- [Nemko Digital: Big Tech AI regulation blocked 2025](https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025) (Tier 2)
+- [IAPP: Pelosi opposes ADPPA](https://iapp.org/news/a/pelosi-rejects-proposed-american-data-privacy-and-protection-act-seeks-new-compromise/) (Tier 2)
 
 ---
 
@@ -311,7 +311,7 @@ Over the decade leading to 2020, at least 80 individuals were identified moving 
 > [!money]
 > The revolving door serves a dual function: it brings institutional knowledge about regulatory processes into Google's lobbying operation, and it sends a signal to current government employees that compliance with Google's interests is a career investment. Robert Mahini moved from the FTC Office of General Counsel to Google as senior policy counsel in late 2012 — at the height of the FTC antitrust probe that would close in January 2013 with no action. Joshua Wright (FTC Commissioner) and Julie Brill (FTC Commissioner) both joined Google-affiliated law firms within weeks of each other in early 2016. The revolving door doesn't just influence current policy — it shapes the incentives of every government employee who might one day want to work in the private sector.
 
-- [Tech Transparency Project: Google's US Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2) (UNVERIFIED)
+- [Tech Transparency Project: Google's US Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2)
 - [OpenSecrets: Alphabet Inc lobbyists — 2024](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2024&id=D000067823) (Tier 1) (Chrome-verified)
 - [Open Markets Institute: Google's 50-state lobbying strategy](https://www.openmarketsinstitute.org/publications/google-refines-50-state-lobby-strategy-austin-ahlman) (Tier 2) (Chrome-verified)
 
@@ -388,18 +388,18 @@ Google represents the most advanced form of monopoly power in the vault — one 
 - [ProPublica: Stanford and Google privacy research](https://www.propublica.org/article/stanford-promises-not-to-use-google-money-for-privacy-research) (Tier 2)
 
 ### Investigative Journalism (UNVERIFIED — need Chrome pass):
-- [Tech Transparency Project: White House FTC Google Probe](https://www.techtransparencyproject.org/articles/white-house-kept-close-tabs-ftc-google-probe) (Tier 2) (UNVERIFIED)
-- [Tech Transparency Project: Google's US Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2) (UNVERIFIED)
+- [Tech Transparency Project: White House FTC Google Probe](https://www.techtransparencyproject.org/articles/white-house-kept-close-tabs-ftc-google-probe) (Tier 2)
+- [Tech Transparency Project: Google's US Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2)
 - [Politico: Google $1M Trump inauguration](https://www.politico.com/live-updates/2025/01/09/congress/google-donation-donald-trump-inauguration-00197233) (Tier 2) (UNVERIFIED)
 - [Politico: Schmidt funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160) (Tier 2) (UNVERIFIED)
-- [LA Times: Google California lobbying skyrocketed](https://www.latimes.com/california/story/2023-12-19/why-googles-lobbying-in-california-skyrocketed-this-year) (Tier 2) (UNVERIFIED)
-- [CalMatters: California lobbying Q3 2024](https://calmatters.org/politics/2024/11/california-lobbying-google-big-oil/) (Tier 2) (UNVERIFIED)
-- [The Markup: Google covert privacy bill lobbying](https://themarkup.org/privacy/2025/09/12/google-wasnt-against-this-privacy-bill-officially-behind-the-scenes-it-orchestrated-opposition) (Tier 2) (UNVERIFIED)
-- [Transparency International EU: Deep Pockets, Open Doors](https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf) (Tier 2) (UNVERIFIED)
+- [LA Times: Google California lobbying skyrocketed](https://www.latimes.com/california/story/2023-12-19/why-googles-lobbying-in-california-skyrocketed-this-year) (Tier 2)
+- [CalMatters: California lobbying Q3 2024](https://calmatters.org/politics/2024/11/california-lobbying-google-big-oil/) (Tier 2)
+- [The Markup: Google covert privacy bill lobbying](https://themarkup.org/privacy/2025/09/12/google-wasnt-against-this-privacy-bill-officially-behind-the-scenes-it-orchestrated-opposition) (Tier 2)
+- [Transparency International EU: Deep Pockets, Open Doors](https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf) (Tier 2)
 - [TIME: Google lobbying 2017](https://time.com/5116226/google-lobbying-2017/) (Tier 2) (UNVERIFIED)
-- [Mintz: DOJ drops AI divestiture](https://www.mintz.com/insights-center/viewpoints/54731/2025-03-14-doj-scraps-proposal-require-google-sell-ai-investments) (Tier 2) (UNVERIFIED)
-- [IAPP: Pelosi opposes ADPPA](https://iapp.org/news/a/pelosi-rejects-proposed-american-data-privacy-and-protection-act-seeks-new-compromise/) (Tier 2) (UNVERIFIED)
-- [Nemko Digital: Big Tech AI regulation blocked 2025](https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025) (Tier 2) (UNVERIFIED)
+- [Mintz: DOJ drops AI divestiture](https://www.mintz.com/insights-center/viewpoints/54731/2025-03-14-doj-scraps-proposal-require-google-sell-ai-investments) (Tier 2)
+- [IAPP: Pelosi opposes ADPPA](https://iapp.org/news/a/pelosi-rejects-proposed-american-data-privacy-and-protection-act-seeks-new-compromise/) (Tier 2)
+- [Nemko Digital: Big Tech AI regulation blocked 2025](https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025) (Tier 2)
 - [Bipartisan Policy Center: Gonzalez v. Google](https://bipartisanpolicy.org/article/gonzalez-v-google/) (Tier 3) (UNVERIFIED)
 
 ### OpenSecrets PAC Data (UNVERIFIED — standard URL patterns):

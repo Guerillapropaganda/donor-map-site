@@ -104,11 +104,11 @@ The $4.3M+ career finance sector haul and $262K+ career pharma haul are the fina
 - [FEC: Thom Tillis candidate overview](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
 - [Congress.gov: S.2155 — Economic Growth, Regulatory Relief, and Consumer Protection Act (115th Congress)](https://www.congress.gov/bill/115th-congress/senate-bill/2155) (Tier 1)
 - [Congress.gov: PREVAIL Act — S.2220 (118th Congress)](https://www.congress.gov/bill/118th-congress/senate-bill/2220) (Tier 1)
-- [Sludge: Bank Lobby's Pro-Tillis Ad Follows Legislative Favors from the Senator](https://readsludge.com/2020/09/19/bank-lobbys-pro-tillis-ad-follows-legislative-favors-from-the-senator/) (Tier 2) (UNVERIFIED)
+- [Sludge: Bank Lobby's Pro-Tillis Ad Follows Legislative Favors from the Senator](https://readsludge.com/2020/09/19/bank-lobbys-pro-tillis-ad-follows-legislative-favors-from-the-senator/) (Tier 2)
 - [Axios: Drug patent debate rekindled by Judiciary markup](https://www.axios.com/pro/health-care-policy/2024/09/18/senate-drug-patent-bills-markup) (Tier 2) (UNVERIFIED)
 - [Axios: Senate Judiciary narrowly approves patent bill (PREVAIL Act, Nov. 2024)](https://www.axios.com/pro/health-care-policy/2024/11/21/senate-judiciary-approves-prevail-act) (Tier 2) (UNVERIFIED)
-- [American Prospect: Senators' Latest Attempt to Enrich Big Pharma Must Not Prevail](https://prospect.org/2024/03/29/2024-03-29-senators-latest-attempt-enrich-big-pharma/) (Tier 2) (UNVERIFIED)
-- [IPWatchdog: PREVAIL Act Narrowly Moves Forward Despite Concerns About Drug Pricing Impact](https://ipwatchdog.com/2024/11/21/prevail-act-narrowly-moves-forward-despite-concerns-drug-pricing-impact/) (Tier 3) (UNVERIFIED)
+- [American Prospect: Senators' Latest Attempt to Enrich Big Pharma Must Not Prevail](https://prospect.org/2024/03/29/2024-03-29-senators-latest-attempt-enrich-big-pharma/) (Tier 2)
+- [IPWatchdog: PREVAIL Act Narrowly Moves Forward Despite Concerns About Drug Pricing Impact](https://ipwatchdog.com/2024/11/21/prevail-act-narrowly-moves-forward-despite-concerns-drug-pricing-impact/) (Tier 3)
 - [Ballotpedia: Thom Tillis](https://ballotpedia.org/Thom_Tillis) (Tier 3)
 
 content-readiness:: developed

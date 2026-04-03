@@ -56,7 +56,7 @@ Joe Manchin. Former U.S. Senator from West Virginia (2010–2025). Former Govern
 - **2022:** Manchin ranked #1 oil & gas recipient in entire Senate for 2021–2022 cycle, receiving $835,209 from oil & gas alone in that cycle
 - **Q3 2021 (CEPP blockade period):** $400,000+ from fossil fuel interests in just July–October 2021 while negotiating BBB
 
-Sources: [OpenSecrets Industries pages, 2010–2022 cycles](https://www.opensecrets.org/members-of-congress/joe-manchin/industries?cid=N00032838) (Tier 1); [E&E News, October 20, 2021](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2) (UNVERIFIED)
+Sources: [OpenSecrets Industries pages, 2010–2022 cycles](https://www.opensecrets.org/members-of-congress/joe-manchin/industries?cid=N00032838) (Tier 1); [E&E News, October 20, 2021](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2)
 
 ---
 

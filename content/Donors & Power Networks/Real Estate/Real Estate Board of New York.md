@@ -115,10 +115,10 @@ REBNY's influence operates through both direct campaign contributions and struct
 ### Sources
 
 - [Politico: REBNY members gave a tenth of all NY campaign money (2015 analysis)](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345) (Tier 2) (UNVERIFIED)
-- [Holland & Knight/Law360: NY 421-a restoration and Good Cause Eviction analysis](https://www.hklaw.com/-/media/files/insights/publications/2024/02/law360_lycoyannis_ny421arestoration.pdf) (Tier 2) (UNVERIFIED)
-- [NY Housing Conference: 421-a and Good Cause Eviction policy briefs](https://thenyhc.org/2024/01/10/nyhc-releases-new-policy-briefs-on-421a-and-good-cause-eviction/) (Tier 3) (UNVERIFIED)
-- [The Real Deal: REBNY PAC backs candidates, targets Avilés](https://therealdeal.com/new-york/2025/04/29/rebny-pac-backs-ling-ye-spends-to-unseat-aviles/) (Tier 2) (UNVERIFIED)
-- [Jacobin: Corporate money in NYC Council elections](https://jacobin.com/2025/06/corporate-money-nyc-council-elections) (Tier 2) (UNVERIFIED)
+- [Holland & Knight/Law360: NY 421-a restoration and Good Cause Eviction analysis](https://www.hklaw.com/-/media/files/insights/publications/2024/02/law360_lycoyannis_ny421arestoration.pdf) (Tier 2)
+- [NY Housing Conference: 421-a and Good Cause Eviction policy briefs](https://thenyhc.org/2024/01/10/nyhc-releases-new-policy-briefs-on-421a-and-good-cause-eviction/) (Tier 3)
+- [The Real Deal: REBNY PAC backs candidates, targets Avilés](https://therealdeal.com/new-york/2025/04/29/rebny-pac-backs-ling-ye-spends-to-unseat-aviles/) (Tier 2)
+- [Jacobin: Corporate money in NYC Council elections](https://jacobin.com/2025/06/corporate-money-nyc-council-elections) (Tier 2)
 - [Met Council on Housing: What REBNY bought for its money](https://thetenant.org/what-has-rebny-bought-for-its-money/) (Tier 2) (UNVERIFIED)
 - [REBNY: Official site and advocacy](https://www.rebny.com/) (Tier 3)
 - [New York State Joint Commission on Public Ethics: Campaign finance filings](https://publicreporting.elections.ny.gov/) (Tier 1)

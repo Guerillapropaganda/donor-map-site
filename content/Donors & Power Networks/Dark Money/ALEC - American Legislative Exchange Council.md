@@ -71,8 +71,8 @@ Task force seats cost $2,500–$10,000/year depending on priority. The Commerce 
 > **Historical milestone:** In 1994, ALEC awarded Charles and David Koch the "Adam Smith Free Enterprise Award." Mike Morgan of Koch Industries has held a permanent seat on ALEC's corporate board/Private Enterprise Advisory Council for over 25 years (since early 1990s).
 
 - [ProPublica Nonprofit Explorer: ALEC Form 990 filings](https://projects.propublica.org/nonprofits/organizations/520140979) (Tier 1)
-- [Center for Media and Democracy: ALEC's Funding Revealed (July 2023)](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/) (Tier 2) (UNVERIFIED)
-- [Center for Public Integrity: Koch Brothers Pour More Cash into Think Tanks](https://publicintegrity.org/politics/koch-brothers-pour-more-cash-into-think-tanks-alec/) (Tier 2) (UNVERIFIED)
+- [Center for Media and Democracy: ALEC's Funding Revealed (July 2023)](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/) (Tier 2)
+- [Center for Public Integrity: Koch Brothers Pour More Cash into Think Tanks](https://publicintegrity.org/politics/koch-brothers-pour-more-cash-into-think-tanks-alec/) (Tier 2)
 - [EXPOSEDbyCMD: Who Funds ALEC?](https://www.exposedbycmd.org/2025/07/18/who-funds-alec/) (Tier 2)
 
 ---
@@ -454,22 +454,22 @@ The pattern that defines ALEC is **Donor-Class Override at industrial scale**: c
 ### Organizational & Financial:
 - [ProPublica Nonprofit Explorer: ALEC Form 990 filings](https://projects.propublica.org/nonprofits/organizations/520140979) (Tier 1)
 - [Common Cause: ALEC Whistleblower Complaint to IRS](https://www.commoncause.org/resources/alec-whistleblower-complaint/) (Tier 1)
-- [Center for Media and Democracy: ALEC's Funding Revealed (July 2023)](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/) (Tier 2) (UNVERIFIED)
+- [Center for Media and Democracy: ALEC's Funding Revealed (July 2023)](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/) (Tier 2)
 - [EXPOSEDbyCMD: Who Funds ALEC?](https://www.exposedbycmd.org/2025/07/18/who-funds-alec/) (Tier 2)
-- [Center for Public Integrity: Koch Brothers Pour More Cash into Think Tanks](https://publicintegrity.org/politics/koch-brothers-pour-more-cash-into-think-tanks-alec/) (Tier 2) (UNVERIFIED)
+- [Center for Public Integrity: Koch Brothers Pour More Cash into Think Tanks](https://publicintegrity.org/politics/koch-brothers-pour-more-cash-into-think-tanks-alec/) (Tier 2)
 - [The Intercept: Charles Koch Doubles Down on ALEC as Others Flee](https://theintercept.com/2018/11/29/alec-corporate-funders-charles-koch/) (Tier 2)
-- [The Nation: ALEC Exposed — Koch Connection](https://www.thenation.com/article/archive/alec-exposed-koch-connection/) (Tier 2) (UNVERIFIED)
+- [The Nation: ALEC Exposed — Koch Connection](https://www.thenation.com/article/archive/alec-exposed-koch-connection/) (Tier 2)
 - [PR Watch: ALEC Funders Flee](https://www.prwatch.org/news/2014/07/12552/alec-funders-flee-but-koch-tobacco-phrma-remain-loyal) (Tier 2) (UNVERIFIED)
 
 ### Model Legislation Pipeline & Statistics:
-- [Brookings Institution: ALEC's Influence over Lawmaking in State Legislatures (December 2013)](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/) (Tier 2) (UNVERIFIED)
+- [Brookings Institution: ALEC's Influence over Lawmaking in State Legislatures (December 2013)](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/) (Tier 2)
 - [ProPublica: Step-by-Step Guide to ALEC's Influence](https://www.propublica.org/article/our-step-by-step-guide-to-understanding-alecs-influence-on-your-state-laws) (Tier 2)
 - [ALEC Exposed: Model Bills Database (CMD)](https://www.alecexposed.org/wiki/ALEC_Bills) (Tier 2)
 - [Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposed) (Tier 2)
-- [Democracy Forward: Peoples Guide (April 2025)](https://democracyforward.org/wp-content/uploads/2025/04/DF-Peoples-Guide-April-2025-8-1.pdf) (Tier 2) (UNVERIFIED)
-- [Public Citizen: ALEC, Chamber of Commerce, and the Kochs](https://www.citizen.org/news/alec-the-chamber-of-commerce-and-the-kochs-inside-the-world-of-secret-money/) (Tier 2) (UNVERIFIED)
-- [NPR Fresh Air: ALEC Task Forces (2011)](https://www.npr.org/transcripts/138537515) (Tier 2) (UNVERIFIED)
-- [American Prospect: ALEC 50 Years Right-Wing Law Factory (2023)](https://prospect.org/2023/10/04/2023-10-04-alec-50-years-right-wing-law-factory/) (Tier 2) (UNVERIFIED)
+- [Democracy Forward: Peoples Guide (April 2025)](https://democracyforward.org/wp-content/uploads/2025/04/DF-Peoples-Guide-April-2025-8-1.pdf) (Tier 2)
+- [Public Citizen: ALEC, Chamber of Commerce, and the Kochs](https://www.citizen.org/news/alec-the-chamber-of-commerce-and-the-kochs-inside-the-world-of-secret-money/) (Tier 2)
+- [NPR Fresh Air: ALEC Task Forces (2011)](https://www.npr.org/transcripts/138537515) (Tier 2)
+- [American Prospect: ALEC 50 Years Right-Wing Law Factory (2023)](https://prospect.org/2023/10/04/2023-10-04-alec-50-years-right-wing-law-factory/) (Tier 2)
 - [SourceWatch: ALEC](https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council) (Tier 3)
 
 ### Corporate Exodus:
@@ -487,34 +487,34 @@ The pattern that defines ALEC is **Donor-Class Override at industrial scale**: c
 - [EXPOSEDbyCMD: Bradley Foundation Bankrolls ALEC Voter Software](https://www.exposedbycmd.org/2021/08/20/bradley-foundation-bankrolls-controversial-alec-voter-software) (Tier 2)
 
 ### Policy Areas — Right-to-Work, Voter ID, Renewable Energy:
-- [Center for Public Integrity: ALEC's Decades of Right-to-Work Effort Pay Off in Michigan](https://publicintegrity.org/politics/alecs-decades-of-right-to-work-effort-pay-off-in-michigan/) (Tier 2) (UNVERIFIED)
+- [Center for Public Integrity: ALEC's Decades of Right-to-Work Effort Pay Off in Michigan](https://publicintegrity.org/politics/alecs-decades-of-right-to-work-effort-pay-off-in-michigan/) (Tier 2)
 - [In These Times: Kentucky Anti-Union Effort Ripped from Koch Playbook](https://inthesetimes.com/article/anti-union-effort-in-kentucky-is-ripped-straight-from-the-koch-playbook) (Tier 2) (UNVERIFIED)
 - [Wikipedia: American Legislative Exchange Council](https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council) (Tier 3)
-- [Center for Public Integrity: ALEC Scraps Task Force Behind Stand Your Ground and Voter ID](https://publicintegrity.org/politics/alec-scraps-task-force-behind-support-for-voter-id-stand-your-ground-laws-nationwide/) (Tier 2) (UNVERIFIED)
-- [Earthjustice: Coming Clean in Ohio — How Fossil Fuel Interests Unraveled the State's Clean Energy Law](https://earthjustice.org/article/coming-clean-in-ohio-how-fossil-fuel-interests-unraveled-the-buckeye-state-s-renewable-energy-progress) (Tier 2) (UNVERIFIED)
-- [Energy and Policy Institute: ALEC Members' Repeated Effort to End Ohio's Clean Energy Law](https://energyandpolicy.org/the-repeated-effort-by-ohio-alec-members-to-end-the-states-clean-energy-law/) (Tier 2) (UNVERIFIED)
-- [Energy and Policy Institute: ALEC's New Tactics to Weaken Renewable Laws (Q&A with John Elsner)](https://energyandpolicy.org/qa-alecs-new-tactics-to-weaken-renewable-laws/) (Tier 2) (UNVERIFIED)
+- [Center for Public Integrity: ALEC Scraps Task Force Behind Stand Your Ground and Voter ID](https://publicintegrity.org/politics/alec-scraps-task-force-behind-support-for-voter-id-stand-your-ground-laws-nationwide/) (Tier 2)
+- [Earthjustice: Coming Clean in Ohio — How Fossil Fuel Interests Unraveled the State's Clean Energy Law](https://earthjustice.org/article/coming-clean-in-ohio-how-fossil-fuel-interests-unraveled-the-buckeye-state-s-renewable-energy-progress) (Tier 2)
+- [Energy and Policy Institute: ALEC Members' Repeated Effort to End Ohio's Clean Energy Law](https://energyandpolicy.org/the-repeated-effort-by-ohio-alec-members-to-end-the-states-clean-energy-law/) (Tier 2)
+- [Energy and Policy Institute: ALEC's New Tactics to Weaken Renewable Laws (Q&A with John Elsner)](https://energyandpolicy.org/qa-alecs-new-tactics-to-weaken-renewable-laws/) (Tier 2)
 - [NRDC: ALEC and Polluters Release New Schemes to Block Climate Action](https://www.nrdc.org/bio/aliya-haq/alec-and-polluters-release-new-uninspired-schemes-block-climate-action) (Tier 2) (UNVERIFIED)
-- [National Employment Law Project: Fighting Labor Policy Preemption](https://www.nelp.org/insights-research/fighting-labor-policy-preemption-that-undermines-local-power-and-the-democratic-process/) (Tier 2) (UNVERIFIED)
+- [National Employment Law Project: Fighting Labor Policy Preemption](https://www.nelp.org/insights-research/fighting-labor-policy-preemption-that-undermines-local-power-and-the-democratic-process/) (Tier 2)
 - [PR Watch: ALEC Local Control (2016)](https://www.prwatch.org/news/2016/02/13029/2016-ALEC-local-control) (Tier 2) (UNVERIFIED)
-- [Local Solutions Support Center: ALEC Model Legislation and Preemption](https://www.supportdemocracy.org/the-latest/alec-model-legislation-and-preemption) (Tier 3) (UNVERIFIED)
+- [Local Solutions Support Center: ALEC Model Legislation and Preemption](https://www.supportdemocracy.org/the-latest/alec-model-legislation-and-preemption) (Tier 3)
 - [PR Watch: Arizona Ground Zero — Koch Attack on Public Education (2018)](https://www.prwatch.org/arizona-%E2%80%9Cground-zero%E2%80%9D-koch-attack-public-education/) (Tier 2) (UNVERIFIED)
 
 ### State Policy Network (SPN):
-- [Center for Public Integrity: Donors Use Charity to Push Free-Market Policies in States (2013)](https://publicintegrity.org/politics/donors-use-charity-to-push-free-market-policies-in-states/) (Tier 2) (UNVERIFIED)
-- [Center for Media and Democracy: SPN Raises $152 Million Annually to Push Right-Wing Policies (September 2022)](https://www.exposedbycmd.org/2022/09/30/state-policy-network-and-affiliates-raises-152-million-annually-to-push-right-wing-policies/) (Tier 2) (UNVERIFIED)
+- [Center for Public Integrity: Donors Use Charity to Push Free-Market Policies in States (2013)](https://publicintegrity.org/politics/donors-use-charity-to-push-free-market-policies-in-states/) (Tier 2)
+- [Center for Media and Democracy: SPN Raises $152 Million Annually to Push Right-Wing Policies (September 2022)](https://www.exposedbycmd.org/2022/09/30/state-policy-network-and-affiliates-raises-152-million-annually-to-push-right-wing-policies/) (Tier 2)
 - [SourceWatch: State Policy Network](https://www.sourcewatch.org/index.php/State_Policy_Network) (Tier 3)
 - [SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php/SPN_Ties_to_ALEC) (Tier 3)
-- [Energy and Policy Institute: State Policy Network](https://energyandpolicy.org/category/front-groups/state-policy-network/) (Tier 2) (UNVERIFIED)
+- [Energy and Policy Institute: State Policy Network](https://energyandpolicy.org/category/front-groups/state-policy-network/) (Tier 2)
 - [EXPOSEDbyCMD: Koch $176M Stand Together Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/) (Tier 2)
-- [Center for Media and Democracy: SPN Right-Wing Think Tanks Pushing ALEC Agenda (2013)](https://www.exposedbycmd.org/2013/11/22/spn-right-wing-stink-tanks-pushing-alec-agenda-states/) (Tier 2) (UNVERIFIED)
+- [Center for Media and Democracy: SPN Right-Wing Think Tanks Pushing ALEC Agenda (2013)](https://www.exposedbycmd.org/2013/11/22/spn-right-wing-stink-tanks-pushing-alec-agenda-states/) (Tier 2)
 - [Texas Observer: Corporations and Billionaires That Fund TPPF (2012)](https://www.texasobserver.org/revealed-the-corporations-and-billionaires-that-fund-the-texas-public-policy-foundation/) (Tier 2) (UNVERIFIED)
-- [Global Energy Monitor: Mackinac Center for Public Policy](https://www.gem.wiki/Mackinac_Center_for_Public_Policy) (Tier 3) (UNVERIFIED)
+- [Global Energy Monitor: Mackinac Center for Public Policy](https://www.gem.wiki/Mackinac_Center_for_Public_Policy) (Tier 3)
 
 ### REDMAP and Redistricting:
-- [ProPublica: How Dark Money Helped Republicans Hold the House (2012)](https://www.propublica.org/article/how-dark-money-helped-republicans-hold-the-house-and-hurt-voters) (Tier 2) (UNVERIFIED)
-- [Bill Moyers: Gerrymandering Republicans and REDMAP (2016)](https://www.wbur.org/hereandnow/2016/07/19/gerrymandering-republicans-redmap) (Tier 2) (UNVERIFIED)
-- [NPR/Jane Mayer: Multimillionaire Helping Republicans Win North Carolina (2011)](https://www.npr.org/2011/10/06/141078608/the-multimillionaire-helping-republicans-win-n-c) (Tier 2) (UNVERIFIED)
+- [ProPublica: How Dark Money Helped Republicans Hold the House (2012)](https://www.propublica.org/article/how-dark-money-helped-republicans-hold-the-house-and-hurt-voters) (Tier 2)
+- [Bill Moyers: Gerrymandering Republicans and REDMAP (2016)](https://www.wbur.org/hereandnow/2016/07/19/gerrymandering-republicans-redmap) (Tier 2)
+- [NPR/Jane Mayer: Multimillionaire Helping Republicans Win North Carolina (2011)](https://www.npr.org/2011/10/06/141078608/the-multimillionaire-helping-republicans-win-n-c) (Tier 2)
 - [Economic Policy Institute: Corporate Power in State Legislatures and Gerrymandered Congress (2017)](https://www.epi.org/blog/corporate-power-in-state-legislatures-produces-a-gerrymandered-congress/) (Tier 2) (UNVERIFIED)
 
 ### Recent Activity:

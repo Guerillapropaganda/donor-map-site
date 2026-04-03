@@ -13,7 +13,7 @@ tags: #democrat
 
 related: [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Fairshake PAC|Fairshake]] · [[Demand Justice]] · Congressional Progressive Caucus · Democratic Party Establishment
 
-donors: [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Fairshake PAC|Fairshake]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[L3Harris Technologies]]
+donors: [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Fairshake PAC|Fairshake]] · [[NORPAC]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[L3Harris Technologies]]
 
 ---
 

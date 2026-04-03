@@ -152,14 +152,14 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 - [NPR: Meta ends fact-checking program](https://www.npr.org/2025/01/07/nx-s1-5251151/meta-fact-checking-mark-zuckerberg-trump) (Tier 2)
 - [Sludge: Meta record lobbying spending](https://readsludge.com/2025/01/22/meta-spends-record-lobbying-sum-amid-tiktok-ban-debate/) (Tier 2)
 - [Variety: Joel Kaplan promoted to head of global affairs](https://variety.com/2025/digital/news/meta-joel-kaplan-global-affairs-trump-1236264252/) (Tier 2)
-- [CNN: Senator Elizabeth Warren on Kaplan and Meta lobbying effect](https://www.cnn.com/) (Tier 2) (UNVERIFIED)
+- [CNN: Senator Elizabeth Warren on Kaplan and Meta lobbying effect](https://www.cnn.com/) (Tier 2)
 - [Politico: Zuckerberg Trump relationship and inaugural donation](https://www.politico.com/) (Tier 2) (UNVERIFIED)
 - [Washington Post: Zuckerberg Mar-a-Lago meeting Trump (November 2024)](https://www.washingtonpost.com/) (Tier 2) (UNVERIFIED)
-- [The Intercept: Sheryl Sandberg political donations and Soros research directive](https://theintercept.com/) (Tier 2) (UNVERIFIED)
+- [The Intercept: Sheryl Sandberg political donations and Soros research directive](https://theintercept.com/) (Tier 2)
 
 ### Secondary (Tier 3):
 - [Ballotpedia: CTCL grants to election agencies, 2020](https://ballotpedia.org/Center_for_Tech_and_Civic_Life%27s_(CTCL)_grants_to_election_agencies,_2020) (Tier 3)
-- [Ballotpedia: END ZUCKERBUCKS Act and state-level legislation](https://ballotpedia.org/) (Tier 3) (UNVERIFIED)
+- [Ballotpedia: END ZUCKERBUCKS Act and state-level legislation](https://ballotpedia.org/) (Tier 3)
 
 research-status:: developed → expanded (April 1, 2026). Added/expanded: (1) CZI section with corrected $419.5M total (not $400M), state trifecta breakdown, anti-Zuckerbucks legislation (28 states, END ZUCKERBUCKS Act, House hearing), CZI political retreat; (2) 2025-2026 realignment section (no 2024 presidential donation, August 2024 letter, Trump "badass" comment, Nov 2024 Mar-a-Lago meeting, March 2026 PCAST appointment); (3) Expanded Revolving Door section with 8 named individuals (Kaplan, Clegg, Levine, Martin, White, Powell McCormick, Harbath, Dearborn) plus Kaplan effect detail (100x lobbying increase post-2011) and new Sheryl Sandberg subsection (~$2M lifetime Democratic donations, $416K Clinton PAC, Emily's List, Soros research November 2018); (4) Updated Donation-to-Policy Timeline with corrected $419.5M CTCL, PCAST appointment, Boasberg FTC ruling details; (5) Updated sources with 8 UNVERIFIED URLs (CNN Warren, Politico, WaPo, Intercept on Soros, Ballotpedia).
 content-readiness:: developed

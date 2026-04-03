@@ -154,7 +154,7 @@ Why Koch cared: Koch's Flint Hills refineries process heavy Canadian crude that 
 - [Center for Public Integrity – Koch Web of Influence](https://publicintegrity.org/politics/kochs-web-of-influence/) (Tier 2)
 - [OpenSecrets – Koch Lobbying Detail 2023-2024](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000186) (Tier 1) (UNVERIFIED)
 - [POLITICO – Former Koch official EPA chemicals](https://www.politico.com/story/2019/02/04/former-koch-official-runs-epa-chemical-research-1136230) (Tier 2) (UNVERIFIED)
-- [Energy and Policy Institute – AFP Leads Fossil Fuel Push](https://energyandpolicy.org/americans-for-prosperity-leads-fossil-fuel-front-group-push-for-crude-oil-exports-anti-renewables-lobbying/) (Tier 2) (UNVERIFIED)
+- [Energy and Policy Institute – AFP Leads Fossil Fuel Push](https://energyandpolicy.org/americans-for-prosperity-leads-fossil-fuel-front-group-push-for-crude-oil-exports-anti-renewables-lobbying/) (Tier 2)
 
 ---
 
@@ -354,8 +354,8 @@ Koch Industries' federal lobbying spending reveals the company's strategic prior
 > Koch's lobbying spending quadrupled from 1998-2005 ($200K to $1.2M annually). After 2005 reorganization, it expanded explosively: 2006-2008 saw a 4.3x spike during the cap-and-trade fight. The 2008 peak ($17.93M) represents Koch's maximum urgency moment — over 1% of annual revenue spent in a single year to defeat climate legislation. After climate bills died (2009-2010), spending stabilized at $8-13M annually, suggesting a sustainable level of regulatory maintenance spending. This is the cost of perpetual deregulation vigilance.
 
 - [OpenSecrets: Koch Industries lobbying expenditures](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000186) (Tier 1) (UNVERIFIED)
-- [DeSmog: Koch Industries federal lobbying 1998-2017 total](https://www.desmog.com/koch-industries-inc-lobbying-activities/) (Tier 2) (UNVERIFIED)
-- [Greenpeace: Koch direct lobbying expenditures](https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/) (Tier 2) (UNVERIFIED)
+- [DeSmog: Koch Industries federal lobbying 1998-2017 total](https://www.desmog.com/koch-industries-inc-lobbying-activities/) (Tier 2)
+- [Greenpeace: Koch direct lobbying expenditures](https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/) (Tier 2)
 
 ---
 
@@ -402,9 +402,9 @@ Core objective: Oppose greenhouse gas regulation under Clean Air Act; block new 
 - West Virginia v. EPA (2022): 5 Koch-funded groups filed amicus briefs arguing EPA lacked authority to regulate greenhouse gases; Supreme Court ruled 6-3 for Koch's position
 - 2025: Lobbying Congressional Review Act resolutions (H.J.Res. 87, 88, 89) to nullify California's emission waivers for Advanced Clean Trucks and Advanced Clean Cars II rules
 
-- [Senate LDA filings: Koch Industries EPA regulation opposition](https://lda.senate.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/) (Tier 1) (UNVERIFIED)
-- [Vice: Koch Industries EPA Supreme Court climate change](https://www.vice.com/en/article/koch-brothers-epa-supreme-court-climate-change/) (Tier 2) (UNVERIFIED)
-- [Jacobin: Charles Koch EPA carbon emissions Supreme Court](https://jacobin.com/2022/02/charles-koch-epa-carbon-emissions-supreme-court) (Tier 2) (UNVERIFIED)
+- [Senate LDA filings: Koch Industries EPA regulation opposition](https://lda.senate.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/) (Tier 1)
+- [Vice: Koch Industries EPA Supreme Court climate change](https://www.vice.com/en/article/koch-brothers-epa-supreme-court-climate-change/) (Tier 2)
+- [Jacobin: Charles Koch EPA carbon emissions Supreme Court](https://jacobin.com/2022/02/charles-koch-epa-carbon-emissions-supreme-court) (Tier 2)
 
 **B. Climate Policy — Cap-and-Trade, Paris Agreement, Green Deal**
 
@@ -516,15 +516,15 @@ While [[Koch Industries|Koch Industries]] publicly maintained that it had no dir
 > [!money] Keystone XL Corporate ROI
 > Koch Industries' interest in Keystone XL was not ideological deregulation or tax policy — it was direct refinery capacity expansion. Flint Hills/Pine Bend could process an additional 250,000+ barrels/day of tar sands crude, expanding refinery revenue by billions annually. The leaked Koch Seminar Network memo taking "credit" for Trump approval demonstrates the direct path from political network spending ($20M TCJA campaign, $400M+ 2016-2017 cycle) to specific corporate outcomes (pipeline permits). Koch doesn't just lobby for abstract libertarian principles; it converts political influence into refinery capacity and crude supply.
 
-- [Inside Climate News: Koch Brothers Positioned to Win from Keystone XL (Feb 2011)](https://insideclimatenews.org/news/10022011/koch-brothers-positioned-be-big-winners-if-keystone-xl-pipeline-approved/) (Tier 2) (UNVERIFIED)
-- [Columbia Journalism Review: The Kochs and Keystone XL](https://www.cjr.org/the_observatory/the_kochs_and_keystone_xl.php) (Tier 2) (UNVERIFIED)
-- [Yale E360: Koch Brothers Biggest Lease Holders in Alberta Tar Sands](https://e360.yale.edu/digest/koch_brothers_biggest_lease_holders_in_alberta_tar_sands_report_finds) (Tier 2) (UNVERIFIED)
-- [DeSmog: Koch Network Took Credit for Keystone XL, DAPL](https://www.desmog.com/2018/02/28/koch-seminar-network-dakota-access-keystone-xl-reins-act/) (Tier 2) (UNVERIFIED)
+- [Inside Climate News: Koch Brothers Positioned to Win from Keystone XL (Feb 2011)](https://insideclimatenews.org/news/10022011/koch-brothers-positioned-be-big-winners-if-keystone-xl-pipeline-approved/) (Tier 2)
+- [Columbia Journalism Review: The Kochs and Keystone XL](https://www.cjr.org/the_observatory/the_kochs_and_keystone_xl.php) (Tier 2)
+- [Yale E360: Koch Brothers Biggest Lease Holders in Alberta Tar Sands](https://e360.yale.edu/digest/koch_brothers_biggest_lease_holders_in_alberta_tar_sands_report_finds) (Tier 2)
+- [DeSmog: Koch Network Took Credit for Keystone XL, DAPL](https://www.desmog.com/2018/02/28/koch-seminar-network-dakota-access-keystone-xl-reins-act/) (Tier 2)
 
 ---
 
 - [Capitol Trades: Koch lobbying agenda 2025](https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/) (Tier 2) (UNVERIFIED)
-- [CMD/EXPOSEDbyCMD: Koch Industries federal lobbying rose 35 percent first quarter 2019](https://www.exposedbycmd.org/2019/05/09/koch-industries-federal-lobbying-rose-35-percent-first-quarter-2019/) (Tier 2) (UNVERIFIED)
+- [CMD/EXPOSEDbyCMD: Koch Industries federal lobbying rose 35 percent first quarter 2019](https://www.exposedbycmd.org/2019/05/09/koch-industries-federal-lobbying-rose-35-percent-first-quarter-2019/) (Tier 2)
 
 ---
 
@@ -626,22 +626,22 @@ What distinguishes Koch Industries from other corporate political actors is the 
 - [EPA: Koch Industries oil spills settlement](https://www.epa.gov/enforcement/koch-industries-inc-oil-spills-settlement) (Tier 1)
 - [EPA: Koch Petroleum Group refinery settlement](https://www.epa.gov/enforcement/koch-petroleum-group-lp-refinery-settlement) (Tier 1)
 - [Bloomberg Billionaires Index: Charles Koch](https://www.bloomberg.com/billionaires/profiles/charles-d-koch/) (Tier 1)
-- [Senate LDA filings: Koch Industries EPA regulation opposition](https://lda.senate.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/) (Tier 1) (UNVERIFIED)
+- [Senate LDA filings: Koch Industries EPA regulation opposition](https://lda.senate.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/) (Tier 1)
 - [OpenSecrets: Supreme Court curbs EPA after Koch-tied groups' push](https://www.opensecrets.org/news/2022/07/supreme-court-curbs-epa-regulatory-power-after-koch-tied-groups-push/) (Tier 2)
 - [OpenSecrets: Koch Industries lobbying expenditures](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000186) (Tier 1) (UNVERIFIED)
-- [DeSmog: Koch Industries federal lobbying 1998-2017 total](https://www.desmog.com/koch-industries-inc-lobbying-activities/) (Tier 2) (UNVERIFIED)
-- [Greenpeace: Koch federal direct lobbying expenditures](https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/) (Tier 2) (UNVERIFIED)
+- [DeSmog: Koch Industries federal lobbying 1998-2017 total](https://www.desmog.com/koch-industries-inc-lobbying-activities/) (Tier 2)
+- [Greenpeace: Koch federal direct lobbying expenditures](https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/) (Tier 2)
 - [Legis1: Koch boosts lobbying to $4.1M against emission rules](https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/) (Tier 2) (UNVERIFIED)
-- [CMD/EXPOSEDbyCMD: Koch Industries federal lobbying rose 35 percent first quarter 2019](https://www.exposedbycmd.org/2019/05/09/koch-industries-federal-lobbying-rose-35-percent-first-quarter-2019/) (Tier 2) (UNVERIFIED)
-- [Vice: Koch Industries EPA Supreme Court climate change](https://www.vice.com/en/article/koch-brothers-epa-supreme-court-climate-change/) (Tier 2) (UNVERIFIED)
-- [Jacobin: Charles Koch EPA carbon emissions Supreme Court](https://jacobin.com/2022/02/charles-koch-epa-carbon-emissions-supreme-court) (Tier 2) (UNVERIFIED)
+- [CMD/EXPOSEDbyCMD: Koch Industries federal lobbying rose 35 percent first quarter 2019](https://www.exposedbycmd.org/2019/05/09/koch-industries-federal-lobbying-rose-35-percent-first-quarter-2019/) (Tier 2)
+- [Vice: Koch Industries EPA Supreme Court climate change](https://www.vice.com/en/article/koch-brothers-epa-supreme-court-climate-change/) (Tier 2)
+- [Jacobin: Charles Koch EPA carbon emissions Supreme Court](https://jacobin.com/2022/02/charles-koch-epa-carbon-emissions-supreme-court) (Tier 2)
 - [Capitol Trades: Koch lobbying agenda 2025](https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/) (Tier 2) (UNVERIFIED)
 - [CMD/EXPOSEDbyCMD: Koch Industries 150 penalties in 20 states](https://www.exposedbycmd.org/2021/03/29/koch-industries-amassed-150-penalties-for-state-environmental-violations-in-20-states/) (Tier 2)
 - [CMD/EXPOSEDbyCMD: Koch-controlled organization assets soar to $8.1B](https://www.exposedbycmd.org/2024/05/08/assets-of-koch-controlled-organizations-soar-to-over-8-1-billion/) (Tier 2)
 - [Good Jobs First Violation Tracker: Koch Industries](https://violationtracker.goodjobsfirst.org/parent/koch-industries) (Tier 2)
 - [Greenpeace: Koch Industries pollution](https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-industries-pollution/) (Tier 2)
 - [Ballotpedia: Koch Industries political spending](https://ballotpedia.org/Koch_Industries) (Tier 3)
-- [Wikipedia: KochPAC](https://en.wikipedia.org/wiki/KochPAC) (Tier 3) (UNVERIFIED)
+- [Wikipedia: KochPAC](https://en.wikipedia.org/wiki/KochPAC) (Tier 3)
 
 ---
 

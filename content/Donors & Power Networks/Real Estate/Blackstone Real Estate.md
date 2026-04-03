@@ -145,19 +145,19 @@ Score: 12 Industry Wins, 2 Tenant Wins, 2 Compromises (with compromises represen
 
 ### Sources
 
-- [ACCE Institute: Helter Shelter — How Blackstone Contributes to and Profits from California's Broken Housing System](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2) (UNVERIFIED)
+- [ACCE Institute: Helter Shelter — How Blackstone Contributes to and Profits from California's Broken Housing System](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2)
 - [OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
 - [Blackstone: Real estate portfolio overview](https://www.blackstone.com/our-businesses/real-estate/) (Tier 2)
 - [Ballotpedia: Blackstone Group](https://ballotpedia.org/Blackstone_Group) (Tier 3)
 - [Invitation Homes 10-K filings](https://www.businesswire.com/news/home/20260218809149/en/Invitation-Homes-Reports-Fourth-Quarter-and-Full-Year-2025-Results) (Tier 1) (UNVERIFIED)
 - [Yahoo Finance: Invitation Homes portfolio overview](https://finance.yahoo.com/news/invitation-homes-reports-fourth-quarter-211500088.html) (Tier 2) (UNVERIFIED)
 - [OpenSecrets: Federal lobbying — Real estate industry 2024](https://www.opensecrets.org/industries/lobbying?cycle=All&ind=F10) (Tier 1)
-- [Elizabeth Warren Senate: Protecting and Empowering Renters — UN Rapporteurs letter](https://elizabethwarren.com/plans/protecting-empowering-renters) (Tier 2) (UNVERIFIED)
-- [PESP: National Rental Home Council Report — PE Landlord Coordination](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2) (UNVERIFIED)
-- [Private Equity Stakeholder Project: Report Exposes Real Estate Industry Housing Crisis](https://pestakeholder.org/news/report-exposes-how-real-estate-industry-private-equity-firms-maintain-housing-crisis/) (Tier 2) (UNVERIFIED)
+- [Elizabeth Warren Senate: Protecting and Empowering Renters — UN Rapporteurs letter](https://elizabethwarren.com/plans/protecting-empowering-renters) (Tier 2)
+- [PESP: National Rental Home Council Report — PE Landlord Coordination](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2)
+- [Private Equity Stakeholder Project: Report Exposes Real Estate Industry Housing Crisis](https://pestakeholder.org/news/report-exposes-how-real-estate-industry-private-equity-firms-maintain-housing-crisis/) (Tier 2)
 - [Politico: Single-family rentals group hires theGROUP D.C.](https://www.politico.com/newsletters/politico-influence/2023/12/13/single-family-rentals-group-hires-thegroup-00131647) (Tier 2) (UNVERIFIED)
-- [Holland & Knight/Law360: NY 421-a restoration and Good Cause Eviction analysis](https://www.hklaw.com/-/media/files/insights/publications/2024/02/law360_lycoyannis_ny421arestoration.pdf) (Tier 2) (UNVERIFIED)
-- [Vox: Opportunity Zones — Sean Parker wealth tax](https://www.vox.com/2018/10/16/17940120/opportunity-zones-sean-parker-silicon-valley-wealth-taxes) (Tier 2) (UNVERIFIED)
+- [Holland & Knight/Law360: NY 421-a restoration and Good Cause Eviction analysis](https://www.hklaw.com/-/media/files/insights/publications/2024/02/law360_lycoyannis_ny421arestoration.pdf) (Tier 2)
+- [Vox: Opportunity Zones — Sean Parker wealth tax](https://www.vox.com/2018/10/16/17940120/opportunity-zones-sean-parker-silicon-valley-wealth-taxes) (Tier 2)
 - [Novoco: Opportunity Zones impact and OZ 2.0 expansion](https://www.novoco.com/notes-from-novogradac/tax-teams-series-highlighting-the-impact-of-the-opportunity-zones-incentive) (Tier 2) (UNVERIFIED)
 
 research-status:: developed — Expanded Invitation Homes (now 94K homes post-2025, $7B profit realized), BREIT re-entry (63.9K SFR homes, AIR acquisition 30K multifamily), San Diego 38-79% rent escalation. Added revolving door detail: Craig Phillips, Brian Deese, Bill Pulte (FHFA capture), Scott Turner (HUD). PE landlord bloc mapping (350K homes across 5 operators). NRHC founding (March 2014) and lobbying growth ($200K→$460K). Opportunity Zones engineering (Parker $8.5M, OZ 2.0 2025). Policy timeline expanded 18 rows (17-2025) with 12 industry wins, 2 tenant wins, 2 compromises. All new URLs marked UNVERIFIED.

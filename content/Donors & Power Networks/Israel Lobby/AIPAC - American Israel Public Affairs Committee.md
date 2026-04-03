@@ -10,7 +10,7 @@ parent: null
 
 #donor #israel #AIPAC #pro-israel #national #lobbying #super-pac #UDP #follow-the-money #class-analysis #foreign-policy #congress #primary-weapon
 
-related: [[_Donald Trump Master Profile]] | [[_Gavin Newsom Master Profile]] | [[Miriam Adelson]] | [[Haim Saban]] | [[Bernard Marcus]] | [[Jan Koum]] | [[Paul Singer]] | [[Pro-Israel Donor Network Deep Dive]] | [[JPAC - Jewish Public Affairs Committee of California]] | [[United Democracy Project - UDP|UDP]] | [[Fairshake PAC]] | [[DMFI - Democratic Majority for Israel|DMFI]]
+related: [[_Donald Trump Master Profile]] | [[_Gavin Newsom Master Profile]] | [[Miriam Adelson]] | [[Haim Saban]] | [[Bernard Marcus]] | [[Jan Koum]] | [[Paul Singer]] | [[Pro-Israel Donor Network Deep Dive]] | [[JPAC - Jewish Public Affairs Committee of California]] | [[United Democracy Project - UDP|UDP]] | [[Fairshake PAC]] | [[DMFI - Democratic Majority for Israel|DMFI]] | [[NORPAC]]
 
 media-pipeline: [[Glenn Greenwald]] · [[Briahna Joy Gray]] · [[David Pakman]] · [[Kyle Kulinski]] · [[Mehdi Hasan]]
 think-tanks: [[Center for American Progress]]

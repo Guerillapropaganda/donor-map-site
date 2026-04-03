@@ -262,8 +262,8 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 ### Government & Legal:
 - [FTC: FTC v. Meta Platforms case documents](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc) (Tier 1) (Chrome-verified — redirected URL)
 - [FTC Press Release: $5 billion fine and 20-year compliance order (July 2019)](https://www.ftc.gov/news-events/press-releases/2019/07/facebook-settles-ftc-charges-it-violated-consumers-privacy) (Tier 1) (UNVERIFIED)
-- [Sullivan & Cromwell: FTC Antitrust Case — Judge Boasberg Ruling Analysis](https://www.sullcrom.com/) (Tier 2) (UNVERIFIED)
-- [TechPolicy.Press: FTC Antitrust Tracker — Meta case status](https://techpolicy.press/) (Tier 2) (UNVERIFIED)
+- [Sullivan & Cromwell: FTC Antitrust Case — Judge Boasberg Ruling Analysis](https://www.sullcrom.com/) (Tier 2)
+- [TechPolicy.Press: FTC Antitrust Tracker — Meta case status](https://techpolicy.press/) (Tier 2)
 
 ### Investigative Journalism:
 - [Yahoo Finance/Bloomberg: Meta's next political bet on AI will be at the state level](https://finance.yahoo.com/news/metas-next-political-bet-ai-144148602.html) (Tier 2)
@@ -273,13 +273,13 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 - [Fox Business: Meta launches California super PAC to support pro-AI policy candidates](https://www.foxbusiness.com/politics/meta-launches-california-super-pac-support-pro-ai-policy-candidates-amid-regulatory-concerns) (Tier 2)
 - [Public Citizen: $1.1 billion in big tech political spending fuels attacks on state AI laws](https://www.citizen.org/news/1-1-billion-in-big-tech-political-spending-fuels-attacks-on-state-ai-laws/) (Tier 2)
 - [Issue One: Big Tech cozies up to new administration after spending record sums on lobbying](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2) (Chrome-verified)
-- [Issue One: Revolving Door Statistics — Government Service in Tech Lobbying](https://issueone.org/) (Tier 2) (UNVERIFIED)
-- [CNN: Senator Elizabeth Warren on Joel Kaplan and Meta lobbying growth](https://www.cnn.com/) (Tier 2) (UNVERIFIED)
+- [Issue One: Revolving Door Statistics — Government Service in Tech Lobbying](https://issueone.org/) (Tier 2)
+- [CNN: Senator Elizabeth Warren on Joel Kaplan and Meta lobbying growth](https://www.cnn.com/) (Tier 2)
 - [Politico: Frances Haugen whistleblower and Meta lobbying response](https://www.politico.com/) (Tier 2) (UNVERIFIED)
-- [CalMatters: Meta California lobbying spending 2025](https://calmatters.org/) (Tier 2) (UNVERIFIED)
-- [Bloomberg Gov: California lobbying records — Meta state spending](https://www.bloomberggov.com/) (Tier 2) (UNVERIFIED)
-- [CNBC: Meta lobbying records and state-level operations](https://www.cnbc.com/) (Tier 2) (UNVERIFIED)
-- [AdExchanger: ADPPA front groups and Meta lobbying infrastructure](https://adexchanger.com/) (Tier 2) (UNVERIFIED)
+- [CalMatters: Meta California lobbying spending 2025](https://calmatters.org/) (Tier 2)
+- [Bloomberg Gov: California lobbying records — Meta state spending](https://www.bloomberggov.com/) (Tier 2)
+- [CNBC: Meta lobbying records and state-level operations](https://www.cnbc.com/) (Tier 2)
+- [AdExchanger: ADPPA front groups and Meta lobbying infrastructure](https://adexchanger.com/) (Tier 2)
 
 ### Secondary:
 - [Ballotpedia: Meta Platforms political spending](https://ballotpedia.org/Meta_Platforms) (Tier 3)

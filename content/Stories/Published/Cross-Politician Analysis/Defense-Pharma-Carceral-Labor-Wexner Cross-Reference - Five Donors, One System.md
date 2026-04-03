@@ -382,14 +382,14 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 - [FEC: PhRMA candidate totals](https://www.fec.gov/data/candidate/) (Tier 1) (UNVERIFIED)
 - [FEC: GEO Group candidate totals](https://www.fec.gov/data/candidate/) (Tier 1) (UNVERIFIED)
 - [FEC: UAW candidate totals](https://www.fec.gov/data/candidate/) (Tier 1) (UNVERIFIED)
-- [Senate LDA: RTX lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
-- [Senate LDA: PhRMA lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
-- [Senate LDA: GEO Group lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
-- [Senate LDA: UAW lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
+- [Senate LDA: RTX lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA: PhRMA lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA: GEO Group lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA: UAW lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 
 #### Tier 1 (Corporate Disclosures & Primary Documents)
 
-- [GEO Group: Political Activity and Lobbying Report 2024](https://www.geogroup.com/media/tufn44mo/geo-political-activity-and-lobbying-report-_2024_.pdf) (Tier 1) (UNVERIFIED)
+- [GEO Group: Political Activity and Lobbying Report 2024](https://www.geogroup.com/media/tufn44mo/geo-political-activity-and-lobbying-report-_2024_.pdf) (Tier 1)
 
 #### Tier 2 (Investigative Journalism & Reporting)
 
@@ -401,21 +401,21 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 - [OpenSecrets: UAW summary](https://www.opensecrets.org/orgs/united-auto-workers/summary?id=d000000070) (Tier 2) (UNVERIFIED)
 - [OpenSecrets: Defense sector military earmarks analysis](https://www.opensecrets.org/news/2023/01/defense-sector-contributed-heavily-to-45-senators-who-secured-1-8-billion-in-military-construction-earmarks) (Tier 2) (UNVERIFIED)
 - [OpenSecrets: Wexner 2022 analysis](https://www.opensecrets.org/news/2022/08/victorias-secret-founder-donates-big-to-gop/) (Tier 2) (UNVERIFIED)
-- [The Lever: PhRMA dark money $8B bonanza](https://www.levernews.com/big-pharmas-dark-money-scores-8-billion-bonanza/) (Tier 2) (UNVERIFIED)
+- [The Lever: PhRMA dark money $8B bonanza](https://www.levernews.com/big-pharmas-dark-money-scores-8-billion-bonanza/) (Tier 2)
 - [Quiver Quantitative: RTX lobbying disclosures](https://www.quiverquant.com/lobbying/stock/RTX/) (Tier 2) (UNVERIFIED)
-- [Quiver Quantitative: Congress trading defense stocks](https://www.quiverquant.com/news/Congress+trading+in+Defense:+What+are+they+buying) (Tier 2) (UNVERIFIED)
-- [Quiver Quantitative: GEO Group Q1 2025 lobbying](https://www.quiverquant.com/news/Lobbying+Update:+$350,000+of+THE+GEO+GROUP+INC.+lobbying+was+just+disclosed) (Tier 2) (UNVERIFIED)
-- [Common Dreams: Congress members holding defense stock](https://www.commondreams.org/news/members-of-congress-who-own-defense-stock) (Tier 2) (UNVERIFIED)
-- [Prison Legal News: GEO Group Trump years](https://www.prisonlegalnews.org/news/2020/apr/1/geo-group-largest-private-prison-contractor-cranks-political-contributions-during-trump-years/) (Tier 2) (UNVERIFIED)
-- [NBC News: Epstein engulfs Wexner](https://www.nbcnews.com/politics/politics-news/epstein-saga-engulfs-les-wexner-ohio-rcna258821) (Tier 2) (UNVERIFIED)
-- [Truthout: Private prisons deportation profits](https://truthout.org/articles/private-prison-companies-are-raking-in-profits-from-increased-deportations/) (Tier 2) (UNVERIFIED)
-- [Brookings: Political donors Israel tensions](https://www.brookings.edu/articles/political-donors-raise-new-tensions-over-israel/) (Tier 2) (UNVERIFIED)
-- [Times of Israel: Wexner GOP break](https://www.timesofisrael.com/two-jewish-billionaires-pull-support-from-gop-candidates-citing-trump/) (Tier 2) (UNVERIFIED)
+- [Quiver Quantitative: Congress trading defense stocks](https://www.quiverquant.com/news/Congress+trading+in+Defense:+What+are+they+buying) (Tier 2)
+- [Quiver Quantitative: GEO Group Q1 2025 lobbying](https://www.quiverquant.com/news/Lobbying+Update:+$350,000+of+THE+GEO+GROUP+INC.+lobbying+was+just+disclosed) (Tier 2)
+- [Common Dreams: Congress members holding defense stock](https://www.commondreams.org/news/members-of-congress-who-own-defense-stock) (Tier 2)
+- [Prison Legal News: GEO Group Trump years](https://www.prisonlegalnews.org/news/2020/apr/1/geo-group-largest-private-prison-contractor-cranks-political-contributions-during-trump-years/) (Tier 2)
+- [NBC News: Epstein engulfs Wexner](https://www.nbcnews.com/politics/politics-news/epstein-saga-engulfs-les-wexner-ohio-rcna258821) (Tier 2)
+- [Truthout: Private prisons deportation profits](https://truthout.org/articles/private-prison-companies-are-raking-in-profits-from-increased-deportations/) (Tier 2)
+- [Brookings: Political donors Israel tensions](https://www.brookings.edu/articles/political-donors-raise-new-tensions-over-israel/) (Tier 2)
+- [Times of Israel: Wexner GOP break](https://www.timesofisrael.com/two-jewish-billionaires-pull-support-from-gop-candidates-citing-trump/) (Tier 2)
 
 #### Tier 2 (Watchdog & Policy Organizations)
 
-- [CREW: Trump budget bill private prison benefits](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2) (UNVERIFIED)
-- [NOTUS: Private prisons lobbying 2025](https://www.notus.org/money/private-prisons-lobbying-corecivic-geo-group-immigration-detention) (Tier 2) (UNVERIFIED)
+- [CREW: Trump budget bill private prison benefits](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2)
+- [NOTUS: Private prisons lobbying 2025](https://www.notus.org/money/private-prisons-lobbying-corecivic-geo-group-immigration-detention) (Tier 2)
 - [POGO: ICE Inc companies profiting 2025](https://www.pogo.org/investigates/ice-inc-the-top-companies-profiting-from-trumps-immigration-crackdown) (Tier 2) (UNVERIFIED)
 - [Center for American Progress: Private prisons Trump administration](https://www.americanprogress.org/article/private-prisons-profiting-trump-administration/) (Tier 2) (UNVERIFIED)
 
@@ -423,30 +423,30 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 
 - [FollowTheMoney: Bail bond industry lobbying](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings) (Tier 3) (UNVERIFIED)
 - [FollowTheMoney: Private prisons reporting](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable) (Tier 3) (UNVERIFIED)
-- [JTA: Wexner Epstein files 2026](https://www.jta.org/2026/02/11/united-states/unredacted-epstein-files-and-planned-deposition-thrust-jewish-philanthropist-leslie-wexner-back-into-spotlight) (Tier 3) (UNVERIFIED)
-- [Equal Justice Initiative: Prison phone companies lobbying](https://eji.org/news/private-companies-lobbied-to-criminalize-cell-phones-in-prisons/) (Tier 3) (UNVERIFIED)
-- [Physicians for Human Rights: Private prisons ALEC SB 1070](https://phr.org/our-work/resources/private-prison-companies-lobby-against-immigration-reform-for-their-own-profit/) (Tier 3) (UNVERIFIED)
-- [American Friends Service Committee: FIRST STEP Act critique](https://afsc.org/news/problem-first-step-act) (Tier 3) (UNVERIFIED)
-- [The Bail Project: ALEC bail reform opposition](https://bailproject.org/policy/bail-bond-industry-chooses-profit-over-people-and-policy/) (Tier 3) (UNVERIFIED)
-- [Deseret News: Pharma funding politicians](https://www.deseret.com/politics/2025/01/31/pharma-funding-politicians/) (Tier 3) (UNVERIFIED)
-- [Forecast International: Top defense contractors 2022](https://21197975.fs1.hubspotusercontent-na1.net/hubfs/21197975/Forecast%20International%20White%20Papers/Top%20100%20Defense%20Contractors%202022%20&%20Top%2010%20Future%20Defense%20Programs.pdf) (Tier 3) (UNVERIFIED)
+- [JTA: Wexner Epstein files 2026](https://www.jta.org/2026/02/11/united-states/unredacted-epstein-files-and-planned-deposition-thrust-jewish-philanthropist-leslie-wexner-back-into-spotlight) (Tier 3)
+- [Equal Justice Initiative: Prison phone companies lobbying](https://eji.org/news/private-companies-lobbied-to-criminalize-cell-phones-in-prisons/) (Tier 3)
+- [Physicians for Human Rights: Private prisons ALEC SB 1070](https://phr.org/our-work/resources/private-prison-companies-lobby-against-immigration-reform-for-their-own-profit/) (Tier 3)
+- [American Friends Service Committee: FIRST STEP Act critique](https://afsc.org/news/problem-first-step-act) (Tier 3)
+- [The Bail Project: ALEC bail reform opposition](https://bailproject.org/policy/bail-bond-industry-chooses-profit-over-people-and-policy/) (Tier 3)
+- [Deseret News: Pharma funding politicians](https://www.deseret.com/politics/2025/01/31/pharma-funding-politicians/) (Tier 3)
+- [Forecast International: Top defense contractors 2022](https://21197975.fs1.hubspotusercontent-na1.net/hubfs/21197975/Forecast%20International%20White%20Papers/Top%20100%20Defense%20Contractors%202022%20&%20Top%2010%20Future%20Defense%20Programs.pdf) (Tier 3)
 
 #### Tier 3 (News/Reporting)
 
 - [Time: Wexner Trump Pittsburgh shooting](https://time.com/5439516/donald-trump-pittsburgh-synagogue-shooting-les-wexner/) (Tier 3) (UNVERIFIED)
-- [Fox News: Adelson Trump 2020 spending](https://www.foxnews.com/politics/sheldon-adelson-republican-politics-megadonor) (Tier 3) (UNVERIFIED)
-- [Spotlight PA: ICE secret contracts 2026](https://www.spotlightpa.org/berks/2026/03/pennsylvania-ice-detention-centers-secret-contracts-trump-federal-government/) (Tier 3) (UNVERIFIED)
+- [Fox News: Adelson Trump 2020 spending](https://www.foxnews.com/politics/sheldon-adelson-republican-politics-megadonor) (Tier 3)
+- [Spotlight PA: ICE secret contracts 2026](https://www.spotlightpa.org/berks/2026/03/pennsylvania-ice-detention-centers-secret-contracts-trump-federal-government/) (Tier 3)
 
 #### Tier 4 (Video/Alternative Sources)
 
-- [YouTube/Washington Post: BI Incorporated ankle monitor monopoly](https://www.youtube.com/watch?v=ftCRPoZcB9I) (Tier 4) (UNVERIFIED)
-- [YouTube/WBNS10TV: Wexner 2025 donations](https://www.youtube.com/watch?v=a2kis7KKp84) (Tier 4) (UNVERIFIED)
+- [YouTube/Washington Post: BI Incorporated ankle monitor monopoly](https://www.youtube.com/watch?v=ftCRPoZcB9I) (Tier 4)
+- [YouTube/WBNS10TV: Wexner 2025 donations](https://www.youtube.com/watch?v=a2kis7KKp84) (Tier 4)
 - [MeidasNews: Wexner recent donations](https://meidasnews.com/news/les-wexner-donated-to-several-republican-candidates-as-recently-as-last-year) (Tier 4) (UNVERIFIED)
 
 #### Tier 3 (Reference/Policy)
 
-- [UAW 2026 Issues Guide](https://uaw.org/wp-content/uploads/2026/01/UAW-2026-Guide-of-Our-Issues-26-01-29.pdf) (Tier 3) (UNVERIFIED)
-- [NAIOP: Columbus Way collaboration](https://blog.naiop.org/2025/11/the-columbus-way-collaboration-in-action/) (Tier 3) (UNVERIFIED)
+- [UAW 2026 Issues Guide](https://uaw.org/wp-content/uploads/2026/01/UAW-2026-Guide-of-Our-Issues-26-01-29.pdf) (Tier 3)
+- [NAIOP: Columbus Way collaboration](https://blog.naiop.org/2025/11/the-columbus-way-collaboration-in-action/) (Tier 3)
 
 ---
 

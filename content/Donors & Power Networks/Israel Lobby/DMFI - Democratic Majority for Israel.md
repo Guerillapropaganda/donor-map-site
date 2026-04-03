@@ -10,7 +10,7 @@ parent: null
 
 #donor #israel #DMFI #pro-israel #national #super-pac #democratic-primary #follow-the-money #class-analysis #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #progressive-opposition
 
-related: [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[United Democracy Project - UDP|UDP]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]]
+related: [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[United Democracy Project - UDP|UDP]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[NORPAC]]
 
 ---
 

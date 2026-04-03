@@ -9,7 +9,7 @@ parent: null
 
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester
 
-related: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[_Ilhan Omar Master Profile|Omar]] [[_Rashida Tlaib Master Profile|Tlaib]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[_Cori Bush Master Profile|Cori Bush]] [[_Bernie Sanders Master Profile|Bernie Sanders]] [[DMFI - Democratic Majority for Israel|DMFI]]
+related: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[_Ilhan Omar Master Profile|Omar]] [[_Rashida Tlaib Master Profile|Tlaib]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[_Cori Bush Master Profile|Cori Bush]] [[_Bernie Sanders Master Profile|Bernie Sanders]] [[DMFI - Democratic Majority for Israel|DMFI]] [[NORPAC]]
 
 ---
 
