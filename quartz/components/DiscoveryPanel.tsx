@@ -111,19 +111,67 @@ const DiscoveryPanel: QuartzComponent = ({
     }
   }
 
-  // ── "Did You Know" facts — curated surprising stats ──
-  const facts = [
-    "AIPAC and its Super PAC spent $121.2M in 2024 — funding candidates in both parties to maintain a 97-3 Senate vote on Israel aid.",
-    "Koch Network donated $2.9M to McConnell. The 2017 tax cuts were worth $1.9 trillion. That is a 655,172x return on investment.",
-    "The same 5 donors fund the top politicians in both parties. Different jerseys, identical policy outcomes on drug pricing, defense, and Wall Street regulation.",
-    "Raytheon funds 22 politicians across both parties. Its board members rotate through Pentagon leadership positions.",
-    "PhRMA spent $2.1M to kill drug pricing negotiation worth $450 billion to the American public.",
-    "Goldman Sachs funds both Pelosi ($2.1M) and McConnell ($1.5M). The carried interest loophole has survived 30+ years.",
-    "The Fanjul sugar dynasty funded both Rubio and Menendez. Cuba sanctions — which eliminate their agricultural competition — are bipartisan.",
-    "National Association of Realtors funds Pelosi ($1.8M), Schumer ($1.6M), McConnell ($1.4M), and Trump ($1.2M). Housing deregulation is bipartisan.",
-  ]
+  // ── "Did You Know" — generate facts specific to THIS profile ──
+  const facts: string[] = []
 
-  // Pick a fact based on the page slug (deterministic but varied)
+  if (slug.startsWith("politicians/") && slug.includes("master-profile")) {
+    // Politician: facts about their donors
+    const myDonors = polToDonors.get(currentTitle) ?? []
+    const party = String(fm.party ?? "")
+
+    if (myDonors.length > 0) {
+      facts.push(`${currentTitle} has ${myDonors.length} top donors tracked in this database.`)
+    }
+    if (sharedDonors.length > 0) {
+      const crossParty = sharedDonors.filter(sd =>
+        sd.alsoPols.some(p => {
+          // Check if any "also funds" politician is from the other party
+          for (const f2 of allFiles) {
+            const n = String(f2.frontmatter?.title ?? "").replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim()
+            if (n === p.name) {
+              const otherParty = String(f2.frontmatter?.party ?? "")
+              return otherParty && otherParty !== party
+            }
+          }
+          return false
+        })
+      )
+      if (crossParty.length > 0) {
+        facts.push(`${crossParty.length} of ${currentTitle}'s donors also fund politicians in the opposing party.`)
+      }
+    }
+    if (sharedDonors.length >= 2) {
+      const names = sharedDonors.slice(0, 2).map(sd => sd.donor.name).join(" and ")
+      facts.push(`${names} both fund ${currentTitle} — and also fund politicians on the other side of the aisle.`)
+    }
+    const issues = Array.isArray(fm.issues) ? fm.issues as string[] : []
+    if (issues.length > 0) {
+      facts.push(`${currentTitle} is tracked across ${issues.length} policy issue${issues.length > 1 ? "s" : ""}: ${issues.slice(0, 3).join(", ")}.`)
+    }
+  } else if (slug.startsWith("donors--and--power-networks/")) {
+    // Donor: facts about their reach
+    if (alsoFunds.length > 0) {
+      facts.push(`${currentTitle} funds ${alsoFunds.length} politician${alsoFunds.length > 1 ? "s" : ""} tracked in this database.`)
+    }
+    if (alsoFunds.length >= 5) {
+      facts.push(`${currentTitle} has a reach score of ${alsoFunds.length} — placing them among the most connected donors in the database.`)
+    }
+    const sector = String(fm.sector ?? "")
+    if (sector && sector !== "undefined") {
+      facts.push(`${currentTitle} operates in the ${sector} sector — one of the most active in political spending.`)
+    }
+    const issues = Array.isArray(fm.issues) ? fm.issues as string[] : []
+    if (issues.length > 0) {
+      facts.push(`${currentTitle} is linked to ${issues.length} policy area${issues.length > 1 ? "s" : ""}: ${issues.join(", ")}.`)
+    }
+  }
+
+  // Fallback if no specific facts generated
+  if (facts.length === 0) {
+    facts.push("This profile is part of a database tracking how political money shapes policy outcomes across both parties.")
+  }
+
+  // Pick a fact deterministically based on slug
   let hash = 0
   for (let i = 0; i < slug.length; i++) {
     hash = ((hash << 5) - hash + slug.charCodeAt(i)) | 0
