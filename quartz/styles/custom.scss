@@ -1150,6 +1150,8 @@ hr {
   font-family: 'Space Mono', monospace;
   font-size: 18px;
   font-weight: 700;
+  white-space: nowrap;
+  flex-shrink: 0;
 
   .lp-hook-steel & { color: #5b8dce; }
   .lp-hook-green &  { color: #22c55e; }
