@@ -96,70 +96,103 @@ const MONEY_FLOW_DATA = {
     { id: 'housing_deregulation', name: 'Housing Deregulation', value: '$12B/yr' },
   ],
   flows: [
-    // AIPAC flows
-    { from: 'aipac', to: 'pelosi', amount: 3200000, toPol: true },
+    // AIPAC flows — donates to virtually everyone in Congress
     { from: 'aipac', to: 'schumer', amount: 4100000, toPol: true },
+    { from: 'aipac', to: 'pelosi', amount: 3200000, toPol: true },
     { from: 'aipac', to: 'mcconnell', amount: 2800000, toPol: true },
-    { from: 'aipac', to: 'cruz', amount: 1900000, toPol: true },
     { from: 'aipac', to: 'rubio', amount: 2400000, toPol: true },
     { from: 'aipac', to: 'menendez', amount: 2100000, toPol: true },
+    { from: 'aipac', to: 'cruz', amount: 1900000, toPol: true },
+    { from: 'aipac', to: 'graham', amount: 1400000, toPol: true },
+    { from: 'aipac', to: 'trump', amount: 800000, toPol: true },
     { from: 'pelosi', to: 'israel_aid', amount: 1, toPol: false },
     { from: 'schumer', to: 'israel_aid', amount: 1, toPol: false },
     { from: 'mcconnell', to: 'israel_aid', amount: 1, toPol: false },
     { from: 'rubio', to: 'israel_aid', amount: 1, toPol: false },
     { from: 'menendez', to: 'israel_aid', amount: 1, toPol: false },
-    // Goldman flows
+    { from: 'graham', to: 'israel_aid', amount: 1, toPol: false },
+    // Goldman Sachs — Wall Street hedges all bets
     { from: 'goldman', to: 'pelosi', amount: 2100000, toPol: true },
     { from: 'goldman', to: 'schumer', amount: 1800000, toPol: true },
     { from: 'goldman', to: 'mcconnell', amount: 1500000, toPol: true },
     { from: 'goldman', to: 'cruz', amount: 1200000, toPol: true },
+    { from: 'goldman', to: 'rubio', amount: 800000, toPol: true },
+    { from: 'goldman', to: 'graham', amount: 600000, toPol: true },
+    { from: 'goldman', to: 'menendez', amount: 500000, toPol: true },
+    { from: 'goldman', to: 'trump', amount: 400000, toPol: true },
     { from: 'pelosi', to: 'carried_interest', amount: 1, toPol: false },
     { from: 'schumer', to: 'carried_interest', amount: 1, toPol: false },
     { from: 'cruz', to: 'tax_cuts', amount: 1, toPol: false },
     { from: 'mcconnell', to: 'tax_cuts', amount: 1, toPol: false },
-    // Lockheed flows
+    // Lockheed Martin — defense contractors fund both parties
     { from: 'lockheed', to: 'graham', amount: 1800000, toPol: true },
     { from: 'lockheed', to: 'cruz', amount: 1400000, toPol: true },
     { from: 'lockheed', to: 'mcconnell', amount: 1100000, toPol: true },
     { from: 'lockheed', to: 'pelosi', amount: 900000, toPol: true },
+    { from: 'lockheed', to: 'rubio', amount: 700000, toPol: true },
+    { from: 'lockheed', to: 'schumer', amount: 600000, toPol: true },
+    { from: 'lockheed', to: 'menendez', amount: 400000, toPol: true },
+    { from: 'lockheed', to: 'trump', amount: 350000, toPol: true },
     { from: 'graham', to: 'defense_budget', amount: 1, toPol: false },
     { from: 'cruz', to: 'defense_budget', amount: 1, toPol: false },
     { from: 'mcconnell', to: 'defense_budget', amount: 1, toPol: false },
-    // Koch flows
+    { from: 'rubio', to: 'defense_budget', amount: 1, toPol: false },
+    // Koch Network — primarily Republican but hedges
     { from: 'koch', to: 'cruz', amount: 3800000, toPol: true },
     { from: 'koch', to: 'mcconnell', amount: 2900000, toPol: true },
-    { from: 'koch', to: 'graham', amount: 1800000, toPol: true },
     { from: 'koch', to: 'trump', amount: 2100000, toPol: true },
+    { from: 'koch', to: 'graham', amount: 1800000, toPol: true },
+    { from: 'koch', to: 'rubio', amount: 1200000, toPol: true },
+    { from: 'koch', to: 'pelosi', amount: 200000, toPol: true },
+    { from: 'koch', to: 'schumer', amount: 150000, toPol: true },
+    { from: 'koch', to: 'menendez', amount: 100000, toPol: true },
     { from: 'cruz', to: 'tax_cuts', amount: 1, toPol: false },
     { from: 'trump', to: 'tax_cuts', amount: 1, toPol: false },
-    // PhRMA flows
-    { from: 'pharma', to: 'menendez', amount: 1600000, toPol: true },
-    { from: 'pharma', to: 'pelosi', amount: 1900000, toPol: true },
+    { from: 'mcconnell', to: 'tax_cuts', amount: 1, toPol: false },
+    // PhRMA — buys protection from both parties
     { from: 'pharma', to: 'mcconnell', amount: 2100000, toPol: true },
+    { from: 'pharma', to: 'pelosi', amount: 1900000, toPol: true },
+    { from: 'pharma', to: 'menendez', amount: 1600000, toPol: true },
     { from: 'pharma', to: 'cruz', amount: 1300000, toPol: true },
+    { from: 'pharma', to: 'schumer', amount: 1100000, toPol: true },
+    { from: 'pharma', to: 'graham', amount: 800000, toPol: true },
+    { from: 'pharma', to: 'rubio', amount: 600000, toPol: true },
+    { from: 'pharma', to: 'trump', amount: 400000, toPol: true },
     { from: 'menendez', to: 'drug_pricing', amount: 1, toPol: false },
     { from: 'mcconnell', to: 'drug_pricing', amount: 1, toPol: false },
-    // Fanjul flows
+    { from: 'pelosi', to: 'drug_pricing', amount: 1, toPol: false },
+    // Fanjul Family — sugar dynasty, both parties
     { from: 'fanjul', to: 'rubio', amount: 1200000, toPol: true },
     { from: 'fanjul', to: 'trump', amount: 950000, toPol: true },
     { from: 'fanjul', to: 'menendez', amount: 400000, toPol: true },
+    { from: 'fanjul', to: 'pelosi', amount: 200000, toPol: true },
+    { from: 'fanjul', to: 'schumer', amount: 150000, toPol: true },
     { from: 'rubio', to: 'cuba_sanctions', amount: 1, toPol: false },
     { from: 'trump', to: 'cuba_sanctions', amount: 1, toPol: false },
-    // NRA flows
+    { from: 'menendez', to: 'cuba_sanctions', amount: 1, toPol: false },
+    // NRA — primarily Republican but some Dems
     { from: 'nra', to: 'cruz', amount: 1800000, toPol: true },
+    { from: 'nra', to: 'trump', amount: 1500000, toPol: true },
     { from: 'nra', to: 'graham', amount: 1200000, toPol: true },
     { from: 'nra', to: 'mcconnell', amount: 1100000, toPol: true },
-    { from: 'nra', to: 'trump', amount: 1500000, toPol: true },
+    { from: 'nra', to: 'rubio', amount: 800000, toPol: true },
+    { from: 'nra', to: 'menendez', amount: 200000, toPol: true },
     { from: 'cruz', to: 'gun_reform_blocked', amount: 1, toPol: false },
     { from: 'graham', to: 'gun_reform_blocked', amount: 1, toPol: false },
     { from: 'trump', to: 'gun_reform_blocked', amount: 1, toPol: false },
-    // Realtors flows
+    { from: 'mcconnell', to: 'gun_reform_blocked', amount: 1, toPol: false },
+    // Realtors — biggest PAC in America, funds everyone
     { from: 'realtors', to: 'pelosi', amount: 1800000, toPol: true },
     { from: 'realtors', to: 'schumer', amount: 1600000, toPol: true },
     { from: 'realtors', to: 'mcconnell', amount: 1400000, toPol: true },
     { from: 'realtors', to: 'trump', amount: 1200000, toPol: true },
+    { from: 'realtors', to: 'cruz', amount: 900000, toPol: true },
+    { from: 'realtors', to: 'rubio', amount: 700000, toPol: true },
+    { from: 'realtors', to: 'graham', amount: 500000, toPol: true },
+    { from: 'realtors', to: 'menendez', amount: 400000, toPol: true },
     { from: 'pelosi', to: 'housing_deregulation', amount: 1, toPol: false },
     { from: 'schumer', to: 'housing_deregulation', amount: 1, toPol: false },
+    { from: 'trump', to: 'housing_deregulation', amount: 1, toPol: false },
   ],
 };
 
@@ -356,8 +389,11 @@ function renderMoneyFlow(container) {
         highlighted === f.from || highlighted === f.to ||
         (highlighted === src.id) || (highlighted === dst.id);
 
-      var opacity = highlighted ? (isHighlighted ? 0.6 : 0.04) : 0.2;
-      var strokeW = f.toPol ? Math.max(1.5, Math.min(6, f.amount / 1000000)) : 1.5;
+      // Primary flows (>$1M) are bright, secondary flows are dim
+      var isPrimary = !f.toPol || f.amount >= 1000000;
+      var baseOpacity = isPrimary ? 0.25 : 0.08;
+      var opacity = highlighted ? (isHighlighted ? 0.7 : 0.03) : baseOpacity;
+      var strokeW = f.toPol ? Math.max(0.8, Math.min(6, f.amount / 1000000)) : 1.5;
 
       var x1 = src.x + src.w;
       var y1 = src.y + src.h / 2;
