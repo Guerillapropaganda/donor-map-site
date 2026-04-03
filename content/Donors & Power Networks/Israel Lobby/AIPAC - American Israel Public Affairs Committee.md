@@ -17,6 +17,9 @@ politicians-funded:
   - "JB Pritzker"
 issues:
   - "Israel & Foreign Policy"
+featured-date: "2026-04-03"
+spotlight-reason: "Largest bipartisan political spender — $121.2M in 2024 including UDP Super PAC. Funds both parties to maintain 97-3 Senate votes on Israel aid."
+shareable-stat: "$121.2M spent in 2024. Both parties. 97-3 vote."
 ---
 
 

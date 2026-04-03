@@ -13,6 +13,9 @@ politicians-funded:
   - "Gavin Newsom"
   - "Nikki Haley"
   - "Mike Rogers"
+featured-date: "2026-04-17"
+spotlight-reason: "Highest ROI in the database — $2.9M to McConnell returned $1.9T in tax cuts (655,172x). Dark money network spanning think tanks, PACs, and media."
+shareable-stat: "$2.9M donated. $1.9T in tax cuts. 655,172x return."
 issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
