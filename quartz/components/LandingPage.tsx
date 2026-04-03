@@ -179,10 +179,11 @@ const LandingPage: QuartzComponent = ({
       {/* ═══ LAYER 1: ORIENTATION — What is this, can I trust it? ═══ */}
       <section class="lp-hero">
         <div class="lp-hero-badge">DONOR INFLUENCE TRACKING SYSTEM</div>
-        <h1 class="lp-hero-title">Policy outcomes traced through financial influence networks.</h1>
+        <h1 class="lp-hero-title">Follow the Money.</h1>
         <p class="lp-hero-sub">
-          An open-source political intelligence database. Every profile starts with one question:
-          {" "}<strong>who funds this person, and what did the funders get in return?</strong>
+          A sourced, navigable database tracking how money controls American politics.
+          Every profile starts with one question: <strong>who funds this person, and what
+          did the funders get in return?</strong>
         </p>
         <div class="lp-hero-stats">
           <div class="lp-stat">

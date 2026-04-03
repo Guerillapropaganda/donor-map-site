@@ -27,6 +27,7 @@ import DonorMapSidebar from "./DonorMapSidebar"
 import InteractiveGraphs from "./InteractiveGraphs"
 import LandingPage from "./LandingPage"
 import EvidencePanel from "./EvidencePanel"
+import PowerRankings from "./PowerRankings"
 import ProfileHeader from "./ProfileHeader"
 import ProfileWidget from "./ProfileWidget"
 import RelatedProfiles from "./RelatedProfiles"
@@ -63,6 +64,7 @@ export {
   DonorMapSidebar,
   InteractiveGraphs,
   LandingPage,
+  PowerRankings,
   ProfileHeader,
   ProfileWidget,
   RelatedProfiles,
