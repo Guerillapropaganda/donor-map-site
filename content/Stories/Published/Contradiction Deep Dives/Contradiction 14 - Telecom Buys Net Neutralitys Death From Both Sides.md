@@ -33,13 +33,13 @@ The industry deliberately hedges its bets. AT&T gave 64.9% to Republicans in 201
 
 | Recipient | Party | Telecom $ | Committee |
 |-----------|-------|-----------|-----------|
-| [[_Maria Cantwell Master Profile\|Maria Cantwell]] | D-WA | $221,642 | Commerce Chair |
+| [[_Maria Cantwell Master Profile|Maria Cantwell]] | D-WA | $221,642 | Commerce Chair |
 | Jon Tester | D-MT | $195,088 | — |
-| [[_Frank Pallone Master Profile\|Frank Pallone]] | D-NJ | $147,800 | E&C Ranking Member |
-| [[_Ted Cruz Master Profile\|Ted Cruz]] | R-TX | $147,602 | Commerce |
-| [[_Steve Scalise Master Profile\|Steve Scalise]] | R-LA | $96,874 | Majority Leader |
-| [[_Cathy McMorris Rodgers Master Profile\|Cathy McMorris Rodgers]] | R-WA | $88,600 | E&C Chair |
-| [[_Hakeem Jeffries Master Profile\|Hakeem Jeffries]] | D-NY | $88,826 | Minority Leader |
+| [[_Frank Pallone Master Profile|Frank Pallone]] | D-NJ | $147,800 | E&C Ranking Member |
+| [[_Ted Cruz Master Profile|Ted Cruz]] | R-TX | $147,602 | Commerce |
+| [[_Steve Scalise Master Profile|Steve Scalise]] | R-LA | $96,874 | Majority Leader |
+| [[_Cathy McMorris Rodgers Master Profile|Cathy McMorris Rodgers]] | R-WA | $88,600 | E&C Chair |
+| [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] | D-NY | $88,826 | Minority Leader |
 
 [OpenSecrets: Telecom Industry](https://www.opensecrets.org/industries/indus?ind=B09) (Tier 1)
 

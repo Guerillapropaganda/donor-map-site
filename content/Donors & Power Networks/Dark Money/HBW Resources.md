@@ -9,7 +9,7 @@ parent: null
 
 #hbw-resources #lobbying #energy #fossil-fuel #astroturf #front-group #lng #consumer-energy-alliance #western-states-tribal-nations #oil-gas #influence #dark-money
 
-related: [[Consumer Energy Alliance]] · [[Western States and Tribal Nations]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[Chevron]] · [[BP]] · [[_Turkey - Erdogan Lobbying Operation|Turkey - Erdogan Lobbying Operation]]
+related: [[Consumer Energy Alliance]] · [[Western States and Tribal Nations]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[Chevron]] · [[BP]] · [[Turkey - Erdogan Lobbying Operation|Turkey - Erdogan Lobbying Operation]]
 
 ---
 

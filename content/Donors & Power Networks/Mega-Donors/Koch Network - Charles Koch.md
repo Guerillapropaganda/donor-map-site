@@ -746,7 +746,7 @@ Separately, the [[Union of Concerned Scientists]] documented that **"Vice Presid
 
 | Official | Position in Trump Administration | Prior Koch Network Role | Policy Significance |
 |---|---|---|---|
-| **Mike Pence** | Vice President | Longstanding Koch ally; promoted [[Americans for Prosperity\|AFP]]'s "No Climate Tax" pledge in House | Key liaison between Koch network and Trump White House; met Charles Koch day before 2017 summit |
+| **Mike Pence** | Vice President | Longstanding Koch ally; promoted [[Americans for Prosperity|AFP]]'s "No Climate Tax" pledge in House | Key liaison between Koch network and Trump White House; met Charles Koch day before 2017 summit |
 | **Marc Short** | White House Director of Legislative Affairs (2017–2018); VP Pence Chief of Staff (2019) | President of [[Freedom Partners|Freedom Partners]] Chamber of Commerce (2011–2015), overseeing $250M+ budget | Led congressional strategy for TCJA passage and Gorsuch confirmation; used CRA to roll back Obama regulations |
 | **Mike Pompeo** | CIA Director (2017–2018); Secretary of State (2018–2021) | [[Koch Industries|Koch Industries]]' largest congressional recipient ($357,300 since 2010 from Koch-affiliated groups); referred to as "the Congressman from Koch"; Trustee of Koch-funded Flint Hills Center for Public Policy | Supported climate skepticism; aligned with Koch foreign policy views |
 | **Scott Pruitt** | EPA Administrator (2017–2018) | Rule of Law Defense Fund chair; received $175,000 from [[Freedom Partners|Freedom Partners]]; sued EPA 14 times with industry co-plaintiffs | Oversaw Clean Power Plan repeal, WOTUS rollback, methane rule reversal |

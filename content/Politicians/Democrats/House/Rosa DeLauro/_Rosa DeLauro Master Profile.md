@@ -49,10 +49,10 @@ DeLauro is the working-class progressive who controls the spending. Her Appropri
 ### Top Donor Sectors:
 | Sector | Amount | Vault Connection |
 |--------|--------|-----------------|
-| Israel Lobby (AIPAC + affiliates) | $172,000+ career | [[AIPAC - American Israel Public Affairs Committee\|AIPAC]] |
+| Israel Lobby (AIPAC + affiliates) | $172,000+ career | [[AIPAC - American Israel Public Affairs Committee|AIPAC]] |
 | Defense (Lockheed Martin/Sikorsky) | $130,000+ career | [[Lockheed Martin]] |
 | Health Professionals | $121,423 (2021-22) | HHS appropriations jurisdiction |
-| Labor Unions (LIUNA, Boilermakers) | $28,500+ | [[SEIU - Service Employees International Union\|SEIU]] |
+| Labor Unions (LIUNA, Boilermakers) | $28,500+ | [[SEIU - Service Employees International Union|SEIU]] |
 
 > [!money]
 > **The Sikorsky Pipeline:** DeLauro has announced and secured hundreds of millions in defense appropriations flowing directly to her district — $185.7M for CH-53K Heavy Lift Aircraft, $507M for Black Hawk production, and a $2.3B Army contract for 120 Black Hawk helicopters. She has stated publicly: "I'll be damned if they're not going to be made in Stratford, Connecticut, at Sikorsky." Lockheed Martin, Sikorsky's parent company, has given her $130,000+. This is the Appropriations-to-district-contractor pipeline operating in plain sight: the same committee member who directs federal spending toward a contractor also receives that contractor's campaign contributions.

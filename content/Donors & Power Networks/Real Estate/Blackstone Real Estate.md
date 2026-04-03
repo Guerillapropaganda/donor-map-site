@@ -89,9 +89,9 @@ Blackstone operates through overlapping membership in multiple trade association
 
 | Trade Association | 2024 Lobbying | Blackstone Role |
 |-------------------|--------------|-----------------|
-| [[National Association of Realtors\|NAR]] | $86.4M | Major institutional member |
+| [[National Association of Realtors|NAR]] | $86.4M | Major institutional member |
 | [[National Multifamily Housing Council\|NMHC]] | $8.8M | Coordinated multifamily lobbying |
-| [[Real Estate Roundtable\|Real Estate Roundtable]] | $5.2M | Key member (Blackstone, Starwood, Related) |
+| [[Real Estate Roundtable|Real Estate Roundtable]] | $5.2M | Key member (Blackstone, Starwood, Related) |
 | [[NAREIT\|NAREIT]] | $4.3M | Invitation Homes, institutional members |
 | [[National Apartment Association\|NAA]] | $2.3M | Multifamily coordination |
 | [[National Rental Home Council\|NRHC]] | $0.46M | PE SFR landlords (Invitation, Progress, AMH, FirstKey, Tricon) |

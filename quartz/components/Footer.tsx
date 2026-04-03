@@ -28,6 +28,18 @@ const footerColumns = [
     ],
   },
   {
+    label: "INTERACTIVE TOOLS",
+    links: [
+      { text: "Money Flow", slug: "Interactive/Money-Flow" },
+      { text: "Donor Networks", slug: "Interactive/Donor-Networks" },
+      { text: "Say vs Pay", slug: "Interactive/Contradictions" },
+      { text: "Sector ROI", slug: "Interactive/Sector-Spending" },
+      { text: "ROI Calculator", slug: "Interactive/ROI-Calculator" },
+      { text: "Both Sides", slug: "Interactive/Both-Sides" },
+      { text: "Policy Costs", slug: "Interactive/Policy-Costs" },
+    ],
+  },
+  {
     label: "ABOUT",
     links: [
       { text: "About The Donor Map", slug: "About-the-Donor-Map" },

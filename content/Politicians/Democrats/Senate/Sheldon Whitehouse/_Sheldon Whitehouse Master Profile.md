@@ -98,7 +98,7 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2019–2024 | [[AIPAC - American Israel Public Affairs Committee\|AIPAC]] network | $147,208 | 2024 cycle | Silence on AIPAC's $127M spending against progressive Democrats |
+| 2019–2024 | [[AIPAC - American Israel Public Affairs Committee|AIPAC]] network | $147,208 | 2024 cycle | Silence on AIPAC's $127M spending against progressive Democrats |
 | 2005–2024 | Pro-Israel (industry total) | $616,721 | Career total | No "scheme" framework applied to Israel lobby's political spending |
 | 2005–2024 | JStreetPAC | $83,459 | Career total | Two-track Israel support: mainstream AIPAC money + progressive J Street cover |
 

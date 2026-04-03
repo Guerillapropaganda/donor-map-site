@@ -126,7 +126,7 @@ API has funneled donations to dozens of 501(c)(4) and ideological organizations 
 | Republican Governors Association (RGA) | $630,000 | State-level GOP support |
 | Republican State Leadership Committee (RSLC) | $200,000 | State legislature GOP support |
 | Republican Attorneys General Association (RAGA) | $150,000 | State AG support for litigation defense |
-| [[ALEC - American Legislative Exchange Council\|ALEC]] | $98,000 | Model state legislation blocking climate action |
+| [[ALEC - American Legislative Exchange Council|ALEC]] | $98,000 | Model state legislation blocking climate action |
 
 > [!money] Dark Money Routing: API's Anonymity Architecture
 > By operating as a 501(c)(6) and funding 501(c)(4)s without public disclosure, API enables member companies to hide their political spending. Better Jobs Together exemplifies this: $3.5M flowed from API's undisclosed budget through an opaque shell to secretly fund politicians blocking climate policy. If ExxonMobil or Chevron had donated directly under their own names, the conflict of interest would be obvious. Through API, it disappears.
@@ -341,10 +341,10 @@ API coordinates closely and co-funds campaigns with:
 | Organization | API Payment | Coordinated Role |
 |-------------|------------|------------------|
 | U.S. Chamber of Commerce | $236,500 | Consistently aligned on fossil fuel positions; Energy Citizens 2009 partner |
-| [[ALEC - American Legislative Exchange Council\|ALEC]] | $98,000 | Drafts model state legislation blocking climate action |
+| [[ALEC - American Legislative Exchange Council|ALEC]] | $98,000 | Drafts model state legislation blocking climate action |
 | National Association of Manufacturers (NAM) | $2,026,150 | Consistently vote-aligned on climate regulation |
 | Independent Petroleum Association of America (IPAA) | $1,387,356 | Runs Energy in Depth, attacks climate accountability advocates |
-| [[Americans for Prosperity\|AFP]] | $139,000–$250,000 | Koch-funded; parallel anti-climate ads/rallies |
+| [[Americans for Prosperity|AFP]] | $139,000–$250,000 | Koch-funded; parallel anti-climate ads/rallies |
 | [[FreedomWorks]] | $130,000 | Co-organized Energy Citizens rallies |
 | American Energy Alliance | ~$900,000 | 501(c)(4) running anti-climate ads; Keystone XL, anti-Obama energy campaigns partner |
 

@@ -58,7 +58,7 @@ NRHC lobbying has grown from **$200,000 (2021) to $460,000 (2024)**, and the gro
 
 | Trade Association | 2024 Lobbying | Key Members | Revolvers % |
 |-------------------|--------------|------------|-----------|
-| [[National Association of Realtors\|NAR]] | $86.4M | Broad membership | 58% |
+| [[National Association of Realtors|NAR]] | $86.4M | Broad membership | 58% |
 | [[National Multifamily Housing Council\|NMHC]] | $8.8M | Starwood, Greystar, Equity Residential | 65% |
 | Real Estate Roundtable | $5.2M | Blackstone, Starwood, Related Companies | 71% |
 | NAREIT | $4.3M | Invitation Homes, AMH, Equity Residential | 62% |

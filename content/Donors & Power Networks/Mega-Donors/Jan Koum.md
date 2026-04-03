@@ -133,7 +133,7 @@ This is the key analytical section for Koum. His pattern exemplifies how tech fo
 - [The Forward — Jewish Megadonors 2024 Republican Primary](https://forward.com/news/558039/revealed-who-the-big-jewish-donors-are-backing-in-the-2024-gop-presidential-primaries/) (Tier 2)
 - [The Forward — RJC and JDCA 2024 Spending](https://forward.com/news/669961/jdca-rjc-fundraising-2024-trump-harris/) (Tier 2)
 - [Times of Israel — Jan Koum AIPAC $2M Donation](https://www.timesofisrael.com/whatsapp-founder-jan-koum-donates-record-2-million-to-aipacs-campaign-efforts/) (Tier 2)
-- [Middle East Eye — Jan Koum AIPAC 2M Pro-Israel Super PAC](https://www.middleeasteye.net/news/whatsapp-co-founder-donates-2m-pro-israel-super-pac) (Tier 2)
+- [Middle East Eye — Jan Koum AIPAC 2M Pro-Israel Super PAC](http://web.archive.org/web/20260203105558/https://www.middleeasteye.net/news/whatsapp-co-founder-donates-2m-pro-israel-super-pac) (Tier 2)
 
 ### Philanthropic Donations (Jewish Causes):
 - [Inside Philanthropy — Jan Koum $1.5B Fund](https://www.insidephilanthropy.com/home/tech-philanthropy-watch-whatsapp-founder-jan-koum-has-a-new-1-5-billion-fund) (Tier 2)

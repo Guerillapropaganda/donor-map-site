@@ -9,7 +9,7 @@ parent: null
 
 #democratic #donor-network #bundling #wall-street #hollywood #tech #labor #dark-money #super-pac #class-analysis #follow-the-money
 
-related: [[Democracy Alliance]] · [[ActBlue]] · [[Jeffrey Katzenberg]] · [[Reid Hoffman]] · [[George Soros]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFL-CIO]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[American Bridge 21st Century]] · [[Future Forward USA]]
+related: [[Democracy Alliance]] · [[ActBlue]] · [[Jeffrey Katzenberg]] · [[Reid Hoffman]] · [[George Soros]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFL-CIO]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[American Bridge 21st Century]] · [[Future Forward USA Action]]
 
 ---
 

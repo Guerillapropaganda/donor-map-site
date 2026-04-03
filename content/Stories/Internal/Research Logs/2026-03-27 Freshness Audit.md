@@ -110,16 +110,16 @@ Ranked by **Score = reference count × number of missing cross-section link type
 
 | Rank | Score | Refs | Type | Missing Sections | File |
 |------|-------|------|------|-----------------|------|
-| 1 | 1,656 | 552 | politician | Media, Think Tanks, Lobbying | [[_Donald Trump Master Profile\|Trump]] |
-| 2 | 726 | 242 | politician | Media, Think Tanks, Lobbying | [[_Gavin Newsom Master Profile\|Newsom]] |
+| 1 | 1,656 | 552 | politician | Media, Think Tanks, Lobbying | [[_Donald Trump Master Profile|Trump]] |
+| 2 | 726 | 242 | politician | Media, Think Tanks, Lobbying | [[_Gavin Newsom Master Profile|Newsom]] |
 | 3 | 714 | 238 | donor | Media, Think Tanks, Lobbying | [[Lockheed Martin]] |
 | 4 | 678 | 226 | donor | Media, Think Tanks, Lobbying | [[Goldman Sachs]] |
 | 5 | 537 | 179 | donor | Media, Think Tanks, Lobbying | [[Elon Musk]] |
 | 6 | 477 | 159 | donor | Media, Think Tanks, Lobbying | [[Peter Thiel]] |
 | 7 | 471 | 157 | donor | Media, Think Tanks, Lobbying | [[Fairshake PAC]] |
 | 8 | 436 | 218 | donor | Media, Lobbying | [[Leonard Leo]] |
-| 9 | 432 | 144 | donor | Media, Think Tanks, Lobbying | [[SEIU - Service Employees International Union\|SEIU]] |
-| 10 | 399 | 133 | politician | Media, Think Tanks, Lobbying | [[_Bernie Sanders Master Profile\|Sanders]] |
+| 9 | 432 | 144 | donor | Media, Think Tanks, Lobbying | [[SEIU - Service Employees International Union|SEIU]] |
+| 10 | 399 | 133 | politician | Media, Think Tanks, Lobbying | [[_Bernie Sanders Master Profile|Sanders]] |
 
 ### What "updating" means for each file
 

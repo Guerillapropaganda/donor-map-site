@@ -191,7 +191,7 @@ Prior to 2012, ALEC model bills mandated state-issued photographic identificatio
 
 ### Stand Your Ground Laws — NRA Co-Authored
 
-Florida's Stand Your Ground law (2005) was drafted with ALEC's involvement and directly co-authored by the NRA. The model bill's language was expanded to 30 states. The [[American Legislative Exchange Council|ALEC]] Castle Doctrine Act was one of the top 5 most-introduced ALEC bills in 2011–2012, introduced in 9 states and enacted in Oklahoma and Pennsylvania. The 2012 shooting death of Trayvon Martin under Florida's Stand Your Ground law catalyzed the corporate exodus from ALEC.
+Florida's Stand Your Ground law (2005) was drafted with ALEC's involvement and directly co-authored by the NRA. The model bill's language was expanded to 30 states. The [[ALEC - American Legislative Exchange Council|ALEC]] Castle Doctrine Act was one of the top 5 most-introduced ALEC bills in 2011–2012, introduced in 9 states and enacted in Oklahoma and Pennsylvania. The 2012 shooting death of Trayvon Martin under Florida's Stand Your Ground law catalyzed the corporate exodus from ALEC.
 
 ---
 

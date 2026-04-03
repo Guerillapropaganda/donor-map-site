@@ -9,7 +9,7 @@ parent: null
 
 #trump #2024 #campaign #fundraising #super-pac #mega-donor #maga #dark-money #billionaire #transactional
 
-related: [[_Donald Trump Master Profile|Trump]] [[Trump Donor Coalition]] [[America PAC - Elon Musk]] [[MAGA Small Dollar Base]] [[Elon Musk]] [[Miriam Adelson]] [[Jeffrey Yass]] [[Andreessen Horowitz]] [[_David Sacks Master Profile|David Sacks]] [[Crypto Industry Bloc]]
+related: [[_Donald Trump Master Profile|Trump]] [[Trump Donor Coalition]] [[America PAC - Elon Musk]] [[MAGA Small Dollar Base]] [[Elon Musk]] [[Miriam Adelson]] [[Jeffrey Yass]] [[a16z - Andreessen Horowitz]] [[_David Sacks Master Profile|David Sacks]] [[Crypto Industry Bloc]]
 
 ---
 
@@ -29,7 +29,7 @@ The Trump 2024 campaign's donor structure reveals its policy commitments more cl
 
 **Israel lobby / Adelson bloc:** Miriam Adelson's $106M+ through Preserve America PAC came with well-documented expectations on Israel policy — full diplomatic support, opposition to Palestinian statehood, and favorable treatment for the Adelson family's business interests (Las Vegas Sands, Dallas Mavericks). In Trump's first term, the Adelsons donated tens of millions and received the U.S. Embassy move to Jerusalem. The 2024 contribution was an escalation of the same transactional model.
 
-**Tech / crypto bloc:** [[Andreessen Horowitz|a16z]] ($7M+), [[_David Sacks Master Profile|David Sacks]], and the broader crypto industry wanted regulatory relief — specifically, the replacement of SEC Chair Gary Gensler, favorable cryptocurrency legislation (the FIT21 Act and stablecoin framework), and AI regulation that favored incumbent tech platforms over open-source alternatives.
+**Tech / crypto bloc:** [[a16z - Andreessen Horowitz|a16z]] ($7M+), [[_David Sacks Master Profile|David Sacks]], and the broader crypto industry wanted regulatory relief — specifically, the replacement of SEC Chair Gary Gensler, favorable cryptocurrency legislation (the FIT21 Act and stablecoin framework), and AI regulation that favored incumbent tech platforms over open-source alternatives.
 
 **Fossil fuel / energy bloc:** Energy Transfer LP ($12.5M), oil and gas interests ($25.8M total) sought pipeline approvals, LNG export expansion, rollback of EPA emissions regulations, and withdrawal from Paris Climate Agreement commitments.
 
