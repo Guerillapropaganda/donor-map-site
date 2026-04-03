@@ -224,14 +224,48 @@ function renderSayVsPay() {
   }
 }
 
+function enhanceTables() {
+  var tables = document.querySelectorAll('article table');
+  for (var t = 0; t < tables.length; t++) {
+    var table = tables[t];
+    if (table.dataset.enhanced) continue;
+    table.dataset.enhanced = 'true';
+
+    // Wrap table in scroll container
+    if (!table.parentElement.classList.contains('table-scroll-wrap')) {
+      var wrap = document.createElement('div');
+      wrap.className = 'table-scroll-wrap';
+      table.parentNode.insertBefore(wrap, table);
+      wrap.appendChild(table);
+    }
+
+    // Scan cells for content-based styling
+    var cells = table.querySelectorAll('td');
+    for (var c = 0; c < cells.length; c++) {
+      var cell = cells[c];
+      var text = (cell.textContent || '').trim();
+      if (text.match(/^\$[\d,.]+[KkMmBbTt]?$/)) {
+        cell.classList.add('cell-money');
+      }
+      if (text.match(/^(19|20)\d{2}/) || text.match(/^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)/i)) {
+        cell.classList.add('cell-date');
+      }
+      if (text.match(/same\s+(day|week|month)/i) || text.match(/^\d+\s+(day|week|hour|month)/i) || text.match(/immediate/i)) {
+        cell.classList.add('cell-gap-fast');
+      }
+    }
+  }
+}
+
 wrapProfileSections();
 hideDataviewFields();
 hideDuplicateNotices();
 renderSayVsPay();
+enhanceTables();
 document.addEventListener('nav', function() {
   var art = document.querySelector('article');
   if (art) art.dataset.sectionsWrapped = '';
-  setTimeout(function() { wrapProfileSections(); hideDataviewFields(); hideDuplicateNotices(); renderSayVsPay(); }, 100);
+  setTimeout(function() { wrapProfileSections(); hideDataviewFields(); hideDuplicateNotices(); renderSayVsPay(); enhanceTables(); }, 100);
 });
 `
 

@@ -256,6 +256,17 @@ article > ul.tags ~ ul.tags {
 
 // --- Tables ---
 // ── Tables — evidence exhibits ──
+
+// CSS-only scroll wrapper for tables not yet JS-wrapped
+article {
+  > table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 16px 0;
+  }
+}
+
 .table-scroll-wrap {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
@@ -266,13 +277,12 @@ article > ul.tags ~ ul.tags {
 
 table {
   width: 100%;
+  min-width: 600px;
   border-collapse: collapse;
   background: #0e0e14;
   border: none;
   font-size: 13px;
   table-layout: auto;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
   margin: 0; // margin handled by scroll wrapper
 }
 
