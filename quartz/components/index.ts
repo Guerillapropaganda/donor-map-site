@@ -31,6 +31,7 @@ import PowerRankings from "./PowerRankings"
 import ProfileHeader from "./ProfileHeader"
 import ProfileWidget from "./ProfileWidget"
 import RelatedProfiles from "./RelatedProfiles"
+import WhoFundsYourRep from "./WhoFundsYourRep"
 import MobileNav from "./MobileNav"
 import ArticleNav from "./ArticleNav"
 
@@ -68,6 +69,7 @@ export {
   ProfileHeader,
   ProfileWidget,
   RelatedProfiles,
+  WhoFundsYourRep,
   MobileNav,
   ArticleNav,
 }
