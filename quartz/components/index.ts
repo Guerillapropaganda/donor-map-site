@@ -39,6 +39,7 @@ import MobileNav from "./MobileNav"
 import ArticleNav from "./ArticleNav"
 import EventTimeline from "./EventTimeline"
 import MobileProfile from "./MobileProfile"
+import AlphabetJump from "./AlphabetJump"
 
 export {
   ArticleTitle,
@@ -82,4 +83,5 @@ export {
   ArticleNav,
   EventTimeline,
   MobileProfile,
+  AlphabetJump,
 }
