@@ -182,14 +182,18 @@ ProfileTabs.afterDOMLoaded = `
 ProfileTabs.css = `
 .profile-tabs-mount { display: none; }
 
-/* Tab navigation bar */
+/* Tab navigation bar — sticky at top of article */
 nav.profile-tabs {
   display: flex;
   flex-wrap: wrap;
   gap: 2px;
   margin: 0 0 1.4rem 0;
-  padding: 0;
+  padding: 2px 0 0 0;
   border-bottom: 1px solid #1a1a22;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: #13131a;
 }
 .profile-tab-btn {
   background: transparent;
