@@ -1,0 +1,76 @@
+name: API Enrichment Pipeline
+
+on:
+  schedule:
+    # Aggressive schedule until backlog cleared — then switch to weekly
+    - cron: '0 8 * * *'   # 8am UTC (1am PT)
+    - cron: '0 14 * * *'  # 2pm UTC (7am PT)
+    - cron: '0 20 * * *'  # 8pm UTC (1pm PT)
+    - cron: '0 2 * * *'   # 2am UTC (7pm PT)
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max profiles to enrich per run'
+        default: '50'
+      pipeline:
+        description: 'Which pipeline (fec, congress, both)'
+        default: 'both'
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: v4
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Create .env from secrets
+        run: |
+          echo "FEC_API_KEY=${{ secrets.FEC_API_KEY }}" >> .env
+          echo "CONGRESS_API_KEY=${{ secrets.CONGRESS_API_KEY }}" >> .env
+          echo "OPENSECRETS_API_KEY=${{ secrets.OPENSECRETS_API_KEY }}" >> .env
+          echo "FOLLOWTHEMONEY_API_KEY=${{ secrets.FOLLOWTHEMONEY_API_KEY }}" >> .env
+
+      - name: Run FEC Enrichment
+        if: ${{ github.event.inputs.pipeline != 'congress' }}
+        run: |
+          node scripts/fec-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '50' }} 2>&1 || true
+
+      - name: Run Congress Enrichment
+        if: ${{ github.event.inputs.pipeline != 'fec' }}
+        run: |
+          node scripts/congress-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '50' }} 2>&1 || true
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -A content/
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No profiles updated"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            CHANGED=$(git diff --staged --name-only | wc -l)
+            echo "updated_count=$CHANGED" >> $GITHUB_OUTPUT
+            echo "$CHANGED files updated:"
+            git diff --staged --name-only | head -20
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "API Enrichment Bot"
+          git config user.email "noreply@thedonormap.org"
+          UPDATED=${{ steps.changes.outputs.updated_count }}
+          git commit -m "API enrichment: ${UPDATED} profiles updated with FEC/Congress data
+
+          Automated enrichment by API Enrichment Pipeline"
+          git push origin v4

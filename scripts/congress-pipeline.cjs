@@ -28,6 +28,7 @@ const VERBOSE = args.verbose
 const PROFILE_FILTER = args.profile || null
 const CACHE_TTL = parseInt(args["cache-ttl"]) || 168
 const CONGRESS_NUM = parseInt(args.congress) || 119 // 119th Congress (2025-2027)
+const LIMIT = args.limit ? parseInt(args.limit) : null
 
 const CGV = apiConfig.congress
 const limiter = new RateLimiter(CGV.rateLimit)
@@ -282,8 +283,12 @@ async function main() {
     targets = politicians.filter(p =>
       extractName(p.title).toLowerCase().includes(filter))
   }
+  if (LIMIT) {
+    targets = targets.slice(0, LIMIT)
+  }
 
   console.log(`  Politicians to scan: ${targets.length}`)
+  if (LIMIT) console.log(`  Limit: ${LIMIT} profiles per run`)
   console.log()
 
   const results = []

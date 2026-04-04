@@ -34,6 +34,7 @@ const TYPE_FILTER = args.type || null
 const CYCLE = args.cycle ? parseInt(args.cycle) : null
 const CACHE_TTL = parseInt(args["cache-ttl"]) || 168 // hours (7 days)
 const SKIP_CACHED = !!args["skip-cached"]
+const LIMIT = args.limit ? parseInt(args.limit) : null // max profiles per run
 
 const FEC = apiConfig.fec
 const limiter = new RateLimiter(FEC.rateLimit)
@@ -545,6 +546,7 @@ async function main() {
   if (PROFILE_FILTER) console.log(`  Filter: "${PROFILE_FILTER}"`)
   if (TYPE_FILTER) console.log(`  Type: ${TYPE_FILTER}`)
   if (CYCLE) console.log(`  Cycle: ${CYCLE}`)
+  if (LIMIT) console.log(`  Limit: ${LIMIT} profiles per run`)
 
   // Load caches
   const idCache = new FileCache("fec-id")
@@ -572,6 +574,13 @@ async function main() {
   // Apply type filter
   if (TYPE_FILTER === "donor") targetPoliticians = []
   if (TYPE_FILTER === "politician") targetDonors = []
+
+  // Apply limit
+  if (LIMIT) {
+    targetPoliticians = targetPoliticians.slice(0, LIMIT)
+    const donorLimit = Math.max(0, LIMIT - targetPoliticians.length)
+    targetDonors = targetDonors.slice(0, donorLimit)
+  }
 
   console.log(`  Politicians to scan: ${targetPoliticians.length}`)
   console.log(`  Donors to scan: ${targetDonors.length}`)
