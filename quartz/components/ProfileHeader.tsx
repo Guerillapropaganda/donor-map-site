@@ -178,10 +178,14 @@ function hideDuplicateNotices() {
 function hideDataviewFields() {
   var article = document.querySelector('article');
   if (!article) return;
+  // Matches dataview inline fields at paragraph start:
+  // - "word:: value" (raw double-colon, Obsidian inline field)
+  // - "related: value" / "donors: value" (Quartz strips one colon on render)
+  var INLINE_FIELDS = /^(related|donors|content-readiness|last-updated|party|office|district|state|profile-status|research-status|type|source-tier|sector|entity-type|issues|politicians-funded|committees|leadership-roles|chamber|state-abbr|parent|aliases):\\s/i;
   var ps = article.querySelectorAll('p');
   for (var i = 0; i < ps.length; i++) {
     var t = (ps[i].textContent || '').trim();
-    if (t.match(/[a-z-]+::\s/)) {
+    if (t.match(/[a-z_-]+::\\s/) || t.match(INLINE_FIELDS)) {
       ps[i].style.display = 'none';
     }
   }
