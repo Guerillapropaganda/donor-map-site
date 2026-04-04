@@ -11,6 +11,11 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Immigration"
+ein: 940357610
+annual-revenue: "$12.9M"
+net-assets: "$73.5M"
+tax-year: "2023"
+last-updated: 2026-04-04
 ---
 
 
@@ -79,6 +84,23 @@ Labor — farmworker rights, AB 2183
 Immigration — H-2A program, undocumented workforce
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $12.9M |
+| Total Contributions | $47K |
+| Program Service Revenue | $3.0M |
+| Investment Income | $1.3M |
+| Total Expenses | $16.3M |
+| Net Assets | $73.5M |
+| Officer Compensation | $1.1M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 940357610](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

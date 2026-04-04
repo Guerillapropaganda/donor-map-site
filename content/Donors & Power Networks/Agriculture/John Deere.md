@@ -10,6 +10,11 @@ entity-type: "Corporation"
 issues:
   - "Agriculture"
   - "Trade"
+ein: 366051024
+annual-revenue: "$17.7M"
+net-assets: "$212.6M"
+tax-year: "2023"
+last-updated: 2026-04-04
 ---
 
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
@@ -44,6 +49,21 @@ The right-to-repair fight is a case study in how intellectual property law conve
 > Deere's right-to-repair monopoly converts equipment ownership into equipment dependence. A farmer who pays $500,000 for a combine cannot repair it independently because Deere's proprietary software locks prevent unauthorized servicing. This lock-in generates ongoing service revenue ($150-250/hour for authorized technicians) and creates data extraction (Deere's equipment collects farm data — planting rates, yield data, soil conditions — that Deere controls). The company's $3-5 million annual lobbying investment in opposing right-to-repair legislation protects a service revenue stream and data monopoly worth billions.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $17.7M |
+| Total Contributions | $0 |
+| Total Expenses | $42.5M |
+| Net Assets | $212.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 366051024](https://projects.propublica.org/nonprofits/organizations/366051024) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F366051024_202310_990PF_2024110422794422.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

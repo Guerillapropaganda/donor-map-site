@@ -13,6 +13,11 @@ issues:
   - "Agriculture"
   - "Labor & Workers"
   - "Immigration"
+ein: 476014039
+annual-revenue: "$1"
+net-assets: "$322K"
+tax-year: "2019"
+last-updated: 2026-04-04
 ---
 
 #tyson #agriculture #poultry #meatpacking #labor #arkansas #immigration
@@ -47,6 +52,21 @@ Opposition to EPA regulation of agricultural waste (poultry litter runoff), favo
 > Tyson's meatpacking workforce — 139,000 workers, disproportionately immigrant, earning $15-18/hour in physically dangerous conditions — processes the nation's meat supply. The company's political spending protects a labor model that depends on immigration policy maintaining a vulnerable workforce: workers fearful of deportation are less likely to report safety violations, organize unions, or demand higher wages. Immigration "enforcement" that targets workers rather than employers is not a failure of policy — it is the policy working as designed for Tyson's benefit.
 
 ---
+
+### Financial Overview (990 Filing — 2019)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1 |
+| Total Contributions | $0 |
+| Total Expenses | $0 |
+| Net Assets | $322K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 476014039](https://projects.propublica.org/nonprofits/organizations/476014039) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_47-52%2F476014039_201912_990PR_2020102017391100.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

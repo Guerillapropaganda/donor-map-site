@@ -7,6 +7,11 @@ source-tier: 1
 parent: null
 sector: "Carceral State"
 entity-type: "Corporation"
+ein: 276727955
+annual-revenue: "$1.8M"
+net-assets: "$1.2M"
+tax-year: "2023"
+last-updated: 2026-04-04
 ---
 
 
@@ -75,6 +80,23 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 **Incarcerated people and families** — the people actually eating the food and paying commissary markups. Represented in litigation by legal aid organizations, ACLU affiliates, and pro bono attorneys.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.8M |
+| Total Contributions | $0 |
+| Program Service Revenue | $1.7M |
+| Investment Income | $98K |
+| Total Expenses | $1.2M |
+| Net Assets | $1.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 276727955](https://projects.propublica.org/nonprofits/organizations/276727955) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F276727955_202312_990O_2024061722529605.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

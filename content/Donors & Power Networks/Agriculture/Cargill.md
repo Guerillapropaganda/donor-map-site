@@ -10,6 +10,11 @@ entity-type: "Corporation"
 issues:
   - "Agriculture"
   - "Trade"
+ein: 416020221
+annual-revenue: "$2.5M"
+net-assets: "$255.2M"
+tax-year: "2023"
+last-updated: 2026-04-04
 ---
 
 #cargill #agriculture #commodities #grain #trade #private #family
@@ -44,6 +49,21 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 > Cargill is the political economy's invisible giant: $177 billion in revenue, family-owned to avoid disclosure, and operating through trade associations rather than direct political contributions. The Cargill/MacMillan families' $50+ billion fortune — built on controlling global food commodity flows — is shielded from public scrutiny by the private company structure. The four ABCD commodity traders' control of 70-90% of global grain trade represents market concentration that would trigger antitrust action in any other industry. In agriculture, it is accepted as structural reality.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2.5M |
+| Total Contributions | $0 |
+| Total Expenses | $25.6M |
+| Net Assets | $255.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 416020221](https://projects.propublica.org/nonprofits/organizations/416020221) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F416020221_202312_990PF_2025010222978691.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

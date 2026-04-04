@@ -14,6 +14,11 @@ issues:
   - "Environment"
   - "Trade"
   - "Labor & Workers"
+ein: 360725160
+annual-revenue: "$37.3M"
+net-assets: "$108.4M"
+tax-year: "2023"
+last-updated: 2026-04-04
 ---
 
 
@@ -166,6 +171,24 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 **Pattern: Genuine Win + Structural Limit.** AFBF delivers real benefits to farmers — commodity price floors, crop insurance, emergency payments. But these benefits are structured to flow disproportionately to the largest operations while leaving the underlying dynamics (corporate consolidation, market concentration, input cost inflation) untouched. The top 4 seed/agrochemical firms control 60-70% of the global pesticide market and 50-60% of seed sales. AFBF doesn't lobby against market concentration. It lobbies for subsidies that compensate farmers for the prices extracted by the concentrated supply chain.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $37.3M |
+| Total Contributions | $124K |
+| Program Service Revenue | $34.7M |
+| Investment Income | $1.5M |
+| Total Expenses | $32.1M |
+| Net Assets | $108.4M |
+| Officer Compensation | $2.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 360725160](https://projects.propublica.org/nonprofits/organizations/360725160) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F360725160_202311_990O_2024121122947525.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

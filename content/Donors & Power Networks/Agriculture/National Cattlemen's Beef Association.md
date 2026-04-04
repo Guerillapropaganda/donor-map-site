@@ -11,6 +11,11 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Agriculture"
+ein: 840738973
+annual-revenue: "$54.9M"
+net-assets: "$37.3M"
+tax-year: "2023"
+last-updated: 2026-04-04
 ---
 
 
@@ -97,6 +102,23 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 **The circular trap:** Ranchers must pay the checkoff → checkoff funds NCBA → NCBA lobbies for packer interests → packers squeeze rancher margins → ranchers can't afford to organize alternatives → cycle continues. The mandatory funding mechanism transforms rancher labor into packer political capital.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $54.9M |
+| Total Contributions | $6.4M |
+| Program Service Revenue | $47.1M |
+| Investment Income | $723K |
+| Total Expenses | $55.1M |
+| Net Assets | $37.3M |
+| Officer Compensation | $1.8M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 840738973](https://projects.propublica.org/nonprofits/organizations/840738973) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 
