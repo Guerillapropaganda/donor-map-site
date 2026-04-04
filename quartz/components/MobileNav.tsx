@@ -10,7 +10,7 @@ const MobileNav: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
     { label: "Politicians", icon: "P", href: `${basePath}/Politicians` },
     { label: "Donors", icon: "D", href: `${basePath}/Donors--and--Power-Networks` },
     { label: "Stories", icon: "S", href: `${basePath}/Stories` },
-    { label: "Findings", icon: "F", href: `${basePath}/Stories/Published/The-Biggest-Findings` },
+    { label: "News", icon: "N", href: `${basePath}/Events` },
   ]
 
   return (
@@ -76,9 +76,9 @@ MobileNav.css = `
 
   .mobile-nav-label {
     font-family: 'Space Mono', monospace;
-    font-size: 9px;
+    font-size: 10px;
     letter-spacing: 0.5px;
-    color: #63636e;
+    color: #8a8a96;
   }
 
   .mobile-nav-item:hover .mobile-nav-icon,

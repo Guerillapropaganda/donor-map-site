@@ -11,6 +11,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.WhoFundsYourRep(),
     Component.WeeklySpotlight(),
     Component.IssueExplorer(),
+    Component.MobileProfile(),
     Component.ArticleNav(),
     Component.MobileNav(),
   ],

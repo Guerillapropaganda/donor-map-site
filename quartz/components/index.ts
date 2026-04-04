@@ -38,6 +38,7 @@ import WhoFundsYourRep from "./WhoFundsYourRep"
 import MobileNav from "./MobileNav"
 import ArticleNav from "./ArticleNav"
 import EventTimeline from "./EventTimeline"
+import MobileProfile from "./MobileProfile"
 
 export {
   ArticleTitle,
@@ -80,4 +81,5 @@ export {
   MobileNav,
   ArticleNav,
   EventTimeline,
+  MobileProfile,
 }

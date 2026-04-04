@@ -23,6 +23,15 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 - Shows co-mentioned profiles as chips
 - First run: 252 items fetched, 106 matched, 60 drafts written, 9 update suggestions, 4 new names detected
 
+### Mobile Profile Experience
+- Created `MobileProfile.tsx` — accordion panel below article content on mobile (≤800px)
+- Collapsible sections: Top Donors, Both Sides, Donor Reach, Recent News
+- Each section has explanation text, count badges, tap-to-expand
+- First section auto-opens on load
+- Mobile-optimized: larger tap targets, readable fonts (14px names, 12-13px meta)
+- Brings all right sidebar intel to mobile users who previously saw none of it
+- Added "News" link to mobile bottom nav (replaces "Findings"), linking to Events section
+
 ### Phase 7 — Open Graph Social Cards
 - Custom OG image template with Donor Map$ branding (green $)
 - Profile type badges: POLITICIAN (blue/red by party), DONOR (green), INVESTIGATION (amber)
