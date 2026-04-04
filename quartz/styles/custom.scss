@@ -89,7 +89,8 @@ article h4 {
 .center {
   min-width: 0;          // allow grid item to shrink below content size
   max-width: 100%;
-  overflow: hidden;      // hard-clip anything that escapes the grid column
+  overflow-x: clip;      // clip text but allow positioned children (tables) to scroll
+  overflow-y: visible;
   overflow-wrap: break-word;
   word-break: break-word;
 }
@@ -97,7 +98,7 @@ article h4 {
 .center > article {
   min-width: 0;
   max-width: 100%;
-  overflow: hidden;
+  overflow: visible;     // allow table scroll wrappers to work
   overflow-wrap: break-word;
   word-break: break-word;
 }
@@ -276,8 +277,8 @@ article {
 }
 
 table {
-  width: 100%;
-  min-width: 600px;
+  width: max-content;
+  min-width: 100%;
   border-collapse: collapse;
   background: #0e0e14;
   border: none;
@@ -293,11 +294,11 @@ thead tr {
 
 th {
   font-family: 'Space Mono', monospace !important;
-  font-size: 9px !important;
+  font-size: 10px !important;
   font-weight: 700 !important;
   letter-spacing: 1.5px !important;
   text-transform: uppercase !important;
-  color: #63636e !important;
+  color: #7a7a86 !important;
   padding: 10px 12px !important;
   text-align: left !important;
   border-bottom: none !important;
@@ -305,6 +306,7 @@ th {
   top: 0;
   z-index: 1;
   background: #0a0a0f !important;
+  white-space: nowrap;
 }
 
 td {
@@ -313,6 +315,7 @@ td {
   color: #b4b4bc !important;
   line-height: 1.5;
   font-size: 13px;
+  min-width: 80px;
 }
 
 // Zebra striping
@@ -873,7 +876,8 @@ hr {
 
   table {
     font-size: 12px;
-    min-width: 500px;  // force scroll rather than crushing columns
+    width: max-content;
+    min-width: 100%;
   }
 
   td, th {
