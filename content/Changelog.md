@@ -11,6 +11,58 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 
 ## 2026-04-03
 
+### SAM.gov Federal Contracts Pipeline
+- Created `scripts/sam-pipeline.cjs` — pulls federal contract award data from SAM.gov
+- Tracks which companies win government contracts after donating to politicians
+- Data: contract counts, dollar amounts, contracting agencies, date ranges, top contracts
+- Tested: Lockheed Martin → 638,842 contracts, $2.9B top single award (Dept of Defense)
+- Updates profile frontmatter (`federal-contracts` field) and inserts Federal Contracts markdown section
+- Auto-update markers: `<!-- auto:sam-contracts start/end -->`
+- Integrated into API Enrichment GitHub Action (runs 4x daily)
+
+### ProPublica Nonprofit 990 Pipeline
+- Created `scripts/propublica-pipeline.cjs` — pulls IRS 990 tax filing data via ProPublica's free API
+- Extracts: revenue, expenses, net assets, contributions, officer compensation, lobbying spend, political expenditures, employee count
+- Tested: Heritage Foundation → $106.3M revenue, $387.7M net assets, EIN 237327730
+- Updates profile frontmatter (`ein`, `annual-revenue`, `net-assets`, `tax-year`, `employee-count`)
+- Inserts Financial Overview markdown section with auto-update markers
+- No API key needed — completely free
+
+### GitHub Actions Automation (6 workflows)
+- **RSS Pipeline** (`.github/workflows/rss-pipeline.yml`) — 3x daily (8am/2pm/8pm ET), scans feeds, auto-commits events
+- **Broken Link Checker** (`.github/workflows/link-checker.yml`) — weekly Sunday, creates GitHub Issues with broken links
+- **Content Stats Dashboard** (`.github/workflows/content-stats.yml`) — daily, generates `content/Interactive/site-status.md`
+- **Frontmatter Validation** (`.github/workflows/frontmatter-check.yml`) — every push, validates YAML fields
+- **Stale Profile Detection** (`.github/workflows/stale-profiles.yml`) — weekly Monday, flags profiles 90+ days old
+- **API Enrichment** (`.github/workflows/api-enrichment.yml`) — 4x daily, runs FEC + Congress + ProPublica + SAM pipelines
+- All free on public GitHub repo — replaced 3 Claude Code scheduled tasks that were burning API credits
+- GitHub Secrets configured: `FECAPI`, `LDAAPI`, `SAMAPI`
+
+### API Research Pipeline Overhaul
+- Updated `scripts/lib/api-config.cjs` — removed dead APIs (OpenSecrets discontinued, FollowTheMoney merged into OpenSecrets)
+- Added active APIs: ProPublica Nonprofit (free, no key), SAM.gov, GovTrack (free, no key)
+- Lowered FARA rate limit to 30/hr (was getting 429s)
+- Added `--limit` flag to FEC and Congress pipelines for batched enrichment
+- Rewrote `.env.example` with current API landscape
+- Strategy: free government APIs cover 80%+ of data needs, saving hundreds vs Chrome browsing / Perplexity
+
+### Homepage Improvements
+- Removed empty Graph component from homepage (was rendering blank in top right)
+- Added BETA badge to left sidebar logo (amber, styled)
+- Added featured items to Media Pipeline, Think Tanks, and K Street nav sections (top 5 each)
+- K Street changed from leaf node to branch with children
+
+### Table Fix (Chuck Schumer + site-wide)
+- Fixed broken table rendering — `overflow: hidden` on `.center` was killing horizontal scroll
+- Changed to `overflow-x: clip; overflow-y: visible` on `.center`, `overflow: visible` on article
+- Tables now use `width: max-content; min-width: 100%` for proper scrolling
+- Table headers: bumped font from 9px→10px, color from `#63636e`→`#7a7a86`, added `white-space: nowrap`
+
+### Event Draft Fix
+- Added slug skip in `contentPage.tsx` emitter — event drafts no longer publish as standalone pages
+- Fixed HTML entity artifacts (&#8217; etc.) in RSS pipeline's `stripHtml()` function
+- Events remain in `allFiles` for EventTimeline and MobileProfile components
+
 ### Two-Claude Governance System
 - Created `CLAUDE.md` in site repo — Site Claude's governance file with full component table, frontmatter schema, build/deploy instructions, cross-references to Research Claude
 - Updated Vault `CLAUDE.md` — added "Working with Site Claude" section, shared data layer docs, Changelog in Quick Start sequence, Handoff doc in Key Reference Documents
