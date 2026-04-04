@@ -1,5 +1,5 @@
 ---
-title: "_Matt Mahan Master Profile"
+title: "Matt Mahan Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

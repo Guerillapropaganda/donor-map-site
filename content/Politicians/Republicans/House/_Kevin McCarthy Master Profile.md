@@ -1,5 +1,5 @@
 ---
-title: "_Kevin McCarthy Master Profile"
+title: "Kevin McCarthy Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

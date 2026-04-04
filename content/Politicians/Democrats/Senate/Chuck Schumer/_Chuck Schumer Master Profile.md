@@ -1,5 +1,5 @@
 ---
-title: "_Chuck Schumer Master Profile"
+title: "Chuck Schumer Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

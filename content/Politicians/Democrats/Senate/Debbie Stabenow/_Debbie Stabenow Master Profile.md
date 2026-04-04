@@ -1,5 +1,5 @@
 ---
-title: "_Debbie Stabenow Master Profile"
+title: "Debbie Stabenow Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

@@ -1,5 +1,5 @@
 ---
-title: "_Greg Abbott Master Profile"
+title: "Greg Abbott Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

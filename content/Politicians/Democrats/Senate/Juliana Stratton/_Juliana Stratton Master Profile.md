@@ -1,5 +1,5 @@
 ---
-title: "_Juliana Stratton Master Profile"
+title: "Juliana Stratton Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

@@ -1,5 +1,5 @@
 ---
-title: "_Abdul El-Sayed Master Profile"
+title: "Abdul El-Sayed Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

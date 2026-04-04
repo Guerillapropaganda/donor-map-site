@@ -1,5 +1,5 @@
 ---
-title: "_JD Vance Master Profile"
+title: "JD Vance Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

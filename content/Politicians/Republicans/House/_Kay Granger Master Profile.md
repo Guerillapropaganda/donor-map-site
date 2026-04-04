@@ -1,5 +1,5 @@
 ---
-title: "_Kay Granger Master Profile"
+title: "Kay Granger Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

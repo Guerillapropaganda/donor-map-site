@@ -1,5 +1,5 @@
 ---
-title: "_Amy Acton Master Profile"
+title: "Amy Acton Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-27

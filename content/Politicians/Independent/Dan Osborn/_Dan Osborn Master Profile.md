@@ -1,5 +1,5 @@
 ---
-title: "_Dan Osborn Master Profile"
+title: "Dan Osborn Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

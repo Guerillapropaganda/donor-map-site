@@ -1,5 +1,5 @@
 ---
-title: "_Stephen Miller Master Profile"
+title: "Stephen Miller Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

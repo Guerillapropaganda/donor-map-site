@@ -1,5 +1,5 @@
 ---
-title: "_Tony Thurmond Master Profile"
+title: "Tony Thurmond Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

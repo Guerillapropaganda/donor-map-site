@@ -1,5 +1,5 @@
 ---
-title: "_Brett Guthrie Master Profile"
+title: "Brett Guthrie Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

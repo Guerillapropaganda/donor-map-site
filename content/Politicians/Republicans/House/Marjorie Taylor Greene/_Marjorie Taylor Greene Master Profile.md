@@ -1,5 +1,5 @@
 ---
-title: "_Marjorie Taylor Greene Master Profile"
+title: "Marjorie Taylor Greene Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

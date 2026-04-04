@@ -1,5 +1,5 @@
 ---
-title: "_Elizabeth Warren Master Profile"
+title: "Elizabeth Warren Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

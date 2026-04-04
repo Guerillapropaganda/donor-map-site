@@ -1,5 +1,5 @@
 ---
-title: "_Melissa Bean Master Profile"
+title: "Melissa Bean Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-27

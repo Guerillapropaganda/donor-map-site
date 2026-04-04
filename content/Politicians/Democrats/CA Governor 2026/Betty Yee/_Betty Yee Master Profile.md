@@ -1,5 +1,5 @@
 ---
-title: "_Betty Yee Master Profile"
+title: "Betty Yee Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

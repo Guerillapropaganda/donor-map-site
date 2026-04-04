@@ -1,5 +1,5 @@
 ---
-title: "_Antonio Villaraigosa Master Profile"
+title: "Antonio Villaraigosa Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-25

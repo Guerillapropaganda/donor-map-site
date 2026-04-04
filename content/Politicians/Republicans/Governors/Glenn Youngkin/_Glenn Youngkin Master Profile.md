@@ -1,5 +1,5 @@
 ---
-title: "_Glenn Youngkin Master Profile"
+title: "Glenn Youngkin Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

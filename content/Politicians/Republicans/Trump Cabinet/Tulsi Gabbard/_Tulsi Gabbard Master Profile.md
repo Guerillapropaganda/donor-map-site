@@ -1,5 +1,5 @@
 ---
-title: "_Tulsi Gabbard Master Profile"
+title: "Tulsi Gabbard Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

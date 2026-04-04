@@ -1,5 +1,5 @@
 ---
-title: "_Josh Shapiro Master Profile"
+title: "Josh Shapiro Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

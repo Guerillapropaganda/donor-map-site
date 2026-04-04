@@ -1,5 +1,5 @@
 ---
-title: "_Xavier Becerra Master Profile"
+title: "Xavier Becerra Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-25

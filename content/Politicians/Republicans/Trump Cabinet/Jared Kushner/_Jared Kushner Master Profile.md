@@ -1,5 +1,5 @@
 ---
-title: "_Jared Kushner Master Profile"
+title: "Jared Kushner Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

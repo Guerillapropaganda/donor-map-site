@@ -1,5 +1,5 @@
 ---
-title: "_Tom Cotton Master Profile"
+title: "Tom Cotton Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

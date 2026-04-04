@@ -1,5 +1,5 @@
 ---
-title: "_Jeanne Shaheen Master Profile"
+title: "Jeanne Shaheen Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

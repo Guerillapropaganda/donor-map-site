@@ -1,5 +1,5 @@
 ---
-title: "_Benjamin Netanyahu Master Profile"
+title: "Benjamin Netanyahu Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

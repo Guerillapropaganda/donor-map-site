@@ -1,5 +1,5 @@
 ---
-title: "_Joni Ernst Master Profile"
+title: "Joni Ernst Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

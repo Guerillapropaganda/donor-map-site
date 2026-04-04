@@ -1,5 +1,5 @@
 ---
-title: "_Martin Heinrich Master Profile"
+title: "Martin Heinrich Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

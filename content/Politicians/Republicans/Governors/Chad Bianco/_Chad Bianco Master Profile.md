@@ -1,5 +1,5 @@
 ---
-title: "_Chad Bianco Master Profile"
+title: "Chad Bianco Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

@@ -1,5 +1,5 @@
 ---
-title: "_Nancy Pelosi Master Profile"
+title: "Nancy Pelosi Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

@@ -1,5 +1,5 @@
 ---
-title: "_Thom Tillis Master Profile"
+title: "Thom Tillis Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

@@ -1,5 +1,5 @@
 ---
-title: "_Doug Burgum Master Profile"
+title: "Doug Burgum Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

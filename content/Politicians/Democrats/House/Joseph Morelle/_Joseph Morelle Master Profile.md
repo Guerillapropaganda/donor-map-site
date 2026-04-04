@@ -1,5 +1,5 @@
 ---
-title: "_Joseph Morelle Master Profile"
+title: "Joseph Morelle Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

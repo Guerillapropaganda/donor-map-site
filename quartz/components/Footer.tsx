@@ -42,8 +42,8 @@ const footerColumns = [
   {
     label: "ABOUT",
     links: [
-      { text: "About The Donor Map", slug: "About-the-Donor-Map" },
-      { text: "Methodology", slug: "Methodology" },
+      { text: "About The Donor Map", slug: "About-The-Donor-Map" },
+      { text: "Methodology Detail", slug: "Even-More-About-This-Website" },
     ],
   },
 ]

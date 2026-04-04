@@ -1,5 +1,5 @@
 ---
-title: "_Ken Calvert Master Profile"
+title: "Ken Calvert Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

@@ -1,5 +1,5 @@
 ---
-title: "_Kamala Harris Master Profile"
+title: "Kamala Harris Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

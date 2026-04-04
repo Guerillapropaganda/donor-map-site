@@ -1,5 +1,5 @@
 ---
-title: "_Scott Bessent Master Profile"
+title: "Scott Bessent Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

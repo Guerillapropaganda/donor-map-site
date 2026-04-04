@@ -1508,11 +1508,6 @@ body:has(.lp-landing) .breadcrumb-container {
   }
 }
 
-// Bump section cards up so they still pop against the new article bg
-.page:has(.ph-header[data-profile-type]) .profile-section-card {
-  background: #1a1a24;
-}
-
 // ── Profile Header Bar ──
 .ph-header {
   display: flex;
@@ -1648,16 +1643,11 @@ body[data-slug*="master-profile" i] {
 
   // Section card container
   .profile-section-card {
-    background: #111118;
-    border: 1px solid #1e1e28;
+    background: #1a1a24;
+    border: none;
     border-radius: 8px;
     padding: 28px;
     margin-bottom: 20px;
-    transition: border-color 0.2s;
-
-    &:hover {
-      border-color: rgba(91, 141, 206, 0.2);
-    }
 
     // Heading inside card — card header
     h2, h3 {
@@ -1689,7 +1679,7 @@ body[data-slug*="master-profile" i] {
 
   .psc-contradiction {
     border-left: 3px solid #ef4444;
-    background: linear-gradient(135deg, rgba(239, 68, 68, 0.03) 0%, #111118 100%);
+    background: linear-gradient(135deg, rgba(239, 68, 68, 0.03) 0%, #1a1a24 100%);
 
     h2 {
       color: #ef4444 !important;
@@ -1699,7 +1689,7 @@ body[data-slug*="master-profile" i] {
 
   .psc-donors {
     border-left: 3px solid #22c55e;
-    background: linear-gradient(135deg, rgba(34, 197, 94, 0.03) 0%, #111118 100%);
+    background: linear-gradient(135deg, rgba(34, 197, 94, 0.03) 0%, #1a1a24 100%);
 
     h2 {
       color: #22c55e !important;
@@ -1709,7 +1699,7 @@ body[data-slug*="master-profile" i] {
 
   .psc-patterns, .psc-timeline {
     border-left: 3px solid #f59e0b;
-    background: linear-gradient(135deg, rgba(245, 158, 11, 0.03) 0%, #111118 100%);
+    background: linear-gradient(135deg, rgba(245, 158, 11, 0.03) 0%, #1a1a24 100%);
 
     h2 {
       color: #f59e0b !important;
@@ -1718,7 +1708,7 @@ body[data-slug*="master-profile" i] {
   }
 
   .psc-sources {
-    background: #0e0e14;
+    background: #14141a;
     border-color: #1a1a22;
 
     h2 {
@@ -1831,7 +1821,7 @@ body[data-slug*="master-profile" i] {
 
   // ── Say vs. Pay contradiction card ──
   .svp-card {
-    background: linear-gradient(135deg, #0e0e14 0%, #111118 100%);
+    background: linear-gradient(135deg, #0e0e14 0%, #1a1a24 100%);
     border: 1px solid rgba(239, 68, 68, 0.25);
     border-radius: 10px;
     padding: 24px;

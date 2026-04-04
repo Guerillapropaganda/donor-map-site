@@ -1,5 +1,5 @@
 ---
-title: "_John Roberts Master Profile"
+title: "John Roberts Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

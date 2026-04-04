@@ -1,5 +1,5 @@
 ---
-title: "_Lee Zeldin Master Profile"
+title: "Lee Zeldin Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

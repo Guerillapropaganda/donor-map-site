@@ -1,5 +1,5 @@
 ---
-title: "_Linda McMahon Master Profile"
+title: "Linda McMahon Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

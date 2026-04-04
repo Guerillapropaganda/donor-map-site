@@ -1,5 +1,5 @@
 ---
-title: "_Amy Coney Barrett Master Profile"
+title: "Amy Coney Barrett Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

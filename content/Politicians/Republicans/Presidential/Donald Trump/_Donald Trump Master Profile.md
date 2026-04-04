@@ -1,5 +1,5 @@
 ---
-title: "_Donald Trump Master Profile"
+title: "Donald Trump Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

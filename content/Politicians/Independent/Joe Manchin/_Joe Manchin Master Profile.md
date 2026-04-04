@@ -1,5 +1,5 @@
 ---
-title: "_Joe Manchin Master Profile"
+title: "Joe Manchin Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-04-01

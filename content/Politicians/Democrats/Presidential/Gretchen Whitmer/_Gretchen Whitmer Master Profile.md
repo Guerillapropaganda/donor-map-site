@@ -1,5 +1,5 @@
 ---
-title: "_Gretchen Whitmer Master Profile"
+title: "Gretchen Whitmer Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

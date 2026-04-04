@@ -1,5 +1,5 @@
 ---
-title: "_Mitch McConnell Master Profile"
+title: "Mitch McConnell Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

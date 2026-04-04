@@ -1,5 +1,5 @@
 ---
-title: "_Eric Swalwell Master Profile"
+title: "Eric Swalwell Master Profile"
 type: politician
 content-readiness: ready
 last-updated: "2026-04-04"

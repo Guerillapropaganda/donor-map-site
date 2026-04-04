@@ -1,5 +1,5 @@
 ---
-title: "_Vivek Ramaswamy Master Profile"
+title: "Vivek Ramaswamy Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

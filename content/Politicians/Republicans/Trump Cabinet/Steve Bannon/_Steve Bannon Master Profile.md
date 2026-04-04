@@ -1,5 +1,5 @@
 ---
-title: "_Steve Bannon Master Profile"
+title: "Steve Bannon Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

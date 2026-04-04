@@ -1,5 +1,5 @@
 ---
-title: "_Lindsey Graham Master Profile"
+title: "Lindsey Graham Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-27

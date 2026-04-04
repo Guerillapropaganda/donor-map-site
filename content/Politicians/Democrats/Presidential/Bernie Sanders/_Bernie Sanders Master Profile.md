@@ -1,5 +1,5 @@
 ---
-title: "_Bernie Sanders Master Profile"
+title: "Bernie Sanders Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-23

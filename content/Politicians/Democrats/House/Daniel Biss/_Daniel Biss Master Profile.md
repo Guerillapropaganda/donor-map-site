@@ -1,5 +1,5 @@
 ---
-title: "_Daniel Biss Master Profile"
+title: "Daniel Biss Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

@@ -1,5 +1,5 @@
 ---
-title: "_Russell Vought Master Profile"
+title: "Russell Vought Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

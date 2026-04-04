@@ -1,5 +1,5 @@
 ---
-title: "_Rand Paul Master Profile"
+title: "Rand Paul Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

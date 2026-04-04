@@ -1,5 +1,5 @@
 ---
-title: "_Saikat Chakrabarti Master Profile"
+title: "Saikat Chakrabarti Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-04-02

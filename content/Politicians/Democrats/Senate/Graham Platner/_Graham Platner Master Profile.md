@@ -1,5 +1,5 @@
 ---
-title: "_Graham Platner Master Profile"
+title: "Graham Platner Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

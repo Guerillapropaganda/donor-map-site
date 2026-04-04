@@ -1,5 +1,5 @@
 ---
-title: "_Wes Moore Master Profile"
+title: "Wes Moore Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-26

@@ -234,6 +234,10 @@ const DonorMapSidebar: QuartzComponent = ({
           const href = getProfileHref(item.search)
           const nameSlug = item.name.toLowerCase().replace(/ /g, "-")
           const isActive = currentSlug.includes(nameSlug)
+          // Prefer career-total from the profile frontmatter when present
+          const page = findPage(allFiles, item.search)
+          const careerTotal = page?.frontmatter?.["career-total"] as string | undefined
+          const detail = careerTotal && careerTotal.trim() ? careerTotal : item.detail
           return (
             <a
               href={href}
@@ -241,7 +245,7 @@ const DonorMapSidebar: QuartzComponent = ({
               data-no-popover
             >
               <span class="dm-featured-name">{item.name}</span>
-              <span class="dm-featured-detail">{item.detail}</span>
+              <span class="dm-featured-detail">{detail}</span>
             </a>
           )
         })}

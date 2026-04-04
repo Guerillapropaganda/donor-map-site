@@ -1,5 +1,5 @@
 ---
-title: "_Zach Wahls Master Profile"
+title: "Zach Wahls Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

@@ -1,5 +1,5 @@
 ---
-title: "_Patrick McHenry Master Profile"
+title: "Patrick McHenry Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

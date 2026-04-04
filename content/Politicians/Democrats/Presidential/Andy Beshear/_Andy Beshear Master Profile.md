@@ -1,5 +1,5 @@
 ---
-title: "_Andy Beshear Master Profile"
+title: "Andy Beshear Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

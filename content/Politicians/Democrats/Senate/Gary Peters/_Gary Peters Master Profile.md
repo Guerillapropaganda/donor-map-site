@@ -1,5 +1,5 @@
 ---
-title: "_Gary Peters Master Profile"
+title: "Gary Peters Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

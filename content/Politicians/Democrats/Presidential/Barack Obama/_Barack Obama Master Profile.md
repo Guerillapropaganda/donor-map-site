@@ -1,5 +1,5 @@
 ---
-title: "_Barack Obama Master Profile"
+title: "Barack Obama Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

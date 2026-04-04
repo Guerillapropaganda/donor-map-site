@@ -1,5 +1,5 @@
 ---
-title: "_Henry Cuellar Master Profile"
+title: "Henry Cuellar Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-24

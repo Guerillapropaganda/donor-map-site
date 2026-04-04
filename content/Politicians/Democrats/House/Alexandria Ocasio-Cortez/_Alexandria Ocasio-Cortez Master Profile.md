@@ -1,5 +1,5 @@
 ---
-title: "_Alexandria Ocasio-Cortez Master Profile"
+title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-04-02

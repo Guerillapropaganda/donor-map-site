@@ -1,5 +1,5 @@
 ---
-title: "_Jon Ossoff Master Profile"
+title: "Jon Ossoff Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-03-25

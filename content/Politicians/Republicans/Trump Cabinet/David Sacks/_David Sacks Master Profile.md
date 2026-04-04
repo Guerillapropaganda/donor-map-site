@@ -1,5 +1,5 @@
 ---
-title: "_David Sacks Master Profile"
+title: "David Sacks Master Profile"
 type: politician
 content-readiness: ready
 last-updated: 2026-04-01
