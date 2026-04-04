@@ -79,7 +79,10 @@ function wrapProfileSections() {
 
       // Assign variant class based on heading text
       var text = (el.textContent || '').toLowerCase();
-      if (text.indexOf('contradiction') !== -1) {
+      // Voting-related checks go first (more specific)
+      if (text.indexOf('vote') !== -1 || text.indexOf('voting record') !== -1 || text.indexOf('bills sponsored') !== -1 || text.indexOf('cosponsor') !== -1 || text.indexOf('legislation') !== -1 || text.indexOf('committee') !== -1 || text.indexOf('floor speech') !== -1) {
+        currentCard.classList.add('psc-voting');
+      } else if (text.indexOf('contradiction') !== -1) {
         currentCard.classList.add('psc-contradiction');
       } else if (text.indexOf('who ') !== -1) {
         currentCard.classList.add('psc-who');
@@ -91,7 +94,7 @@ function wrapProfileSections() {
         currentCard.classList.add('psc-patterns');
       } else if (text.indexOf('timeline') !== -1) {
         currentCard.classList.add('psc-timeline');
-      } else if (text.indexOf('source') !== -1) {
+      } else if (text.indexOf('source') !== -1 || text.indexOf('citation') !== -1 || text.indexOf('reference') !== -1 || text.indexOf('methodology') !== -1) {
         currentCard.classList.add('psc-sources');
       } else if (text.indexOf('roi') !== -1 || text.indexOf('return') !== -1) {
         currentCard.classList.add('psc-donors');
@@ -112,6 +115,15 @@ function wrapProfileSections() {
       } else if (text.indexOf('labor') !== -1 || text.indexOf('anti-') !== -1) {
         currentCard.classList.add('psc-contradiction');
       }
+
+      // Map variant class to tab bucket for ProfileTabs
+      var variant = currentCard.className;
+      var tab = 'overview';
+      if (variant.indexOf('psc-donors') !== -1 || variant.indexOf('psc-timeline') !== -1) tab = 'donors';
+      else if (variant.indexOf('psc-voting') !== -1) tab = 'voting';
+      else if (variant.indexOf('psc-contradiction') !== -1 || variant.indexOf('psc-patterns') !== -1) tab = 'analysis';
+      else if (variant.indexOf('psc-sources') !== -1) tab = 'sources';
+      currentCard.dataset.tab = tab;
 
       currentCard.appendChild(el);
     } else if (currentCard) {

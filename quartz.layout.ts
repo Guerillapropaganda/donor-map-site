@@ -58,6 +58,13 @@ export const defaultContentPageLayout: PageLayout = {
         return slug.includes("master-profile")
       },
     }),
+    Component.ConditionalRender({
+      component: Component.ProfileTabs(),
+      condition: (page) => {
+        const slug = (page.fileData.slug ?? "").toLowerCase()
+        return slug.includes("master-profile")
+      },
+    }),
   ],
   left: [
     Component.DonorMapSidebar(),
@@ -96,7 +103,13 @@ export const defaultContentPageLayout: PageLayout = {
       })),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => {
+        const slug = (page.fileData.slug ?? "").toLowerCase()
+        return !slug.includes("master-profile")
+      },
+    }),
     Component.DesktopOnly(Component.ProfileWidget()),
     Component.EventTimeline(),
     Component.Backlinks(),
