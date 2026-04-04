@@ -13,8 +13,8 @@ on:
         description: 'Max profiles to enrich per run'
         default: '50'
       pipeline:
-        description: 'Which pipeline (fec, congress, both)'
-        default: 'both'
+        description: 'Which pipeline (fec, congress, propublica, all)'
+        default: 'all'
 
 permissions:
   contents: write
@@ -36,18 +36,22 @@ jobs:
         run: |
           echo "FEC_API_KEY=${{ secrets.FEC_API_KEY }}" >> .env
           echo "CONGRESS_API_KEY=${{ secrets.CONGRESS_API_KEY }}" >> .env
-          echo "OPENSECRETS_API_KEY=${{ secrets.OPENSECRETS_API_KEY }}" >> .env
-          echo "FOLLOWTHEMONEY_API_KEY=${{ secrets.FOLLOWTHEMONEY_API_KEY }}" >> .env
+          echo "LDA_API_KEY=${{ secrets.LDA_API_KEY }}" >> .env
 
       - name: Run FEC Enrichment
-        if: ${{ github.event.inputs.pipeline != 'congress' }}
+        if: ${{ github.event.inputs.pipeline != 'congress' && github.event.inputs.pipeline != 'propublica' }}
         run: |
           node scripts/fec-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '50' }} 2>&1 || true
 
       - name: Run Congress Enrichment
-        if: ${{ github.event.inputs.pipeline != 'fec' }}
+        if: ${{ github.event.inputs.pipeline != 'fec' && github.event.inputs.pipeline != 'propublica' }}
         run: |
           node scripts/congress-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '50' }} 2>&1 || true
+
+      - name: Run ProPublica 990 Enrichment
+        if: ${{ github.event.inputs.pipeline != 'fec' && github.event.inputs.pipeline != 'congress' }}
+        run: |
+          node scripts/propublica-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '50' }} 2>&1 || true
 
       - name: Check for changes
         id: changes
@@ -70,7 +74,7 @@ jobs:
           git config user.name "API Enrichment Bot"
           git config user.email "noreply@thedonormap.org"
           UPDATED=${{ steps.changes.outputs.updated_count }}
-          git commit -m "API enrichment: ${UPDATED} profiles updated with FEC/Congress data
+          git commit -m "API enrichment: ${UPDATED} profiles updated with FEC/Congress/ProPublica data
 
           Automated enrichment by API Enrichment Pipeline"
           git push origin v4
