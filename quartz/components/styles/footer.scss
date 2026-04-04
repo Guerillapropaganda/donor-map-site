@@ -1,7 +1,23 @@
 footer {
   text-align: left;
-  margin-bottom: 4rem;
-  opacity: 0.7;
+  margin-bottom: 2rem;
+  margin-top: 3rem;
+  opacity: 1;
+  background: #0f0f15;
+  border: 1px solid #1a1a22;
+  border-radius: 10px;
+  padding: 1.75rem 2rem;
+  position: relative;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: -1px;
+    left: 2rem;
+    right: 2rem;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #2a2a36, transparent);
+  }
 
   & ul {
     list-style: none;
