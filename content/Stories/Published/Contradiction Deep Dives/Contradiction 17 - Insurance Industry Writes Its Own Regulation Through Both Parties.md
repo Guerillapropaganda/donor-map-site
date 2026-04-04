@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 17 - Insurance Industry Writes Its Own Regulation Through Both Parties"
+title: "Insurance Industry Writes Its Own Regulation Through Both Parties"
 type: story
 content-readiness: ready
 last-updated: 2026-04-01

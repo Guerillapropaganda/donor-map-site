@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 16 - Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides"
+title: "Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides"
 type: story
 content-readiness: ready
 last-updated: 2026-04-01

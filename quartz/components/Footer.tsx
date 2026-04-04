@@ -75,7 +75,12 @@ export default ((opts?: Options) => {
             <div class="footer-col-label">SUBSCRIBE</div>
             <ul class="footer-col-links">
               <li>
-                <a href={`${basePath}/index.xml`} class="footer-rss-link">
+                <a
+                  href={`${basePath}/index.xml`}
+                  class="footer-rss-link"
+                  target="_blank"
+                  rel="noopener"
+                >
                   RSS Feed
                 </a>
               </li>

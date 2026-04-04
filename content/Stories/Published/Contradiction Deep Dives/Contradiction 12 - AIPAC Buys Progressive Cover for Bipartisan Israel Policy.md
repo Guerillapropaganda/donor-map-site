@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 12 - AIPAC Buys Progressive Cover for Bipartisan Israel Policy"
+title: "AIPAC Buys Progressive Cover for Bipartisan Israel Policy"
 type: story
 content-readiness: ready
 last-updated: 2026-03-24

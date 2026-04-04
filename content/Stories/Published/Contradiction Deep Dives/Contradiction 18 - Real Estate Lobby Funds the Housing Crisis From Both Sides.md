@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 18 - Real Estate Lobby Funds the Housing Crisis From Both Sides"
+title: "Real Estate Lobby Funds the Housing Crisis From Both Sides"
 type: story
 content-readiness: ready
 last-updated: 2026-04-01

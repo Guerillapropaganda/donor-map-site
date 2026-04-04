@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 07 - Schwarzman and Singer Fund Every Republican Faction"
+title: "Schwarzman and Singer Fund Every Republican Faction"
 type: story
 content-readiness: ready
 last-updated: 2026-03-24

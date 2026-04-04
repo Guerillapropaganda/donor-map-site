@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 11 - Timothy Mellon Funds Trump and RFK Jr Simultaneously"
+title: "Timothy Mellon Funds Trump and RFK Jr Simultaneously"
 type: story
 content-readiness: ready
 last-updated: 2026-03-24

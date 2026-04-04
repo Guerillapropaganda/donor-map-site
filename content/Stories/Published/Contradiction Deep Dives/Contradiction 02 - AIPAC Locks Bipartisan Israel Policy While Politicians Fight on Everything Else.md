@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 02 - AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else"
+title: "AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else"
 type: story
 content-readiness: ready
 last-updated: 2026-03-24

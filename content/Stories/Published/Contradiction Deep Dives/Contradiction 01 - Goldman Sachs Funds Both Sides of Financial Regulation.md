@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 01 - Goldman Sachs Funds Both Sides of Financial Regulation"
+title: "Goldman Sachs Funds Both Sides of Financial Regulation"
 type: story
 content-readiness: ready
 last-updated: 2026-03-24

@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 21 - Water Privatization: Both Parties Sell Public Infrastructure to Donors"
+title: "Water Privatization: Both Parties Sell Public Infrastructure to Donors"
 type: story
 content-readiness: ready
 last-updated: 2026-04-01

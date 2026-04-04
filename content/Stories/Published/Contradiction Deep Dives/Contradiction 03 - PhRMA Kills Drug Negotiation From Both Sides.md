@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides"
+title: "PhRMA Kills Drug Negotiation From Both Sides"
 type: story
 content-readiness: ready
 last-updated: 2026-03-24

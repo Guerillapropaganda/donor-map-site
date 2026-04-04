@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 06 - Crypto Industry Buys Both Parties in One Cycle"
+title: "Crypto Industry Buys Both Parties in One Cycle"
 type: story
 content-readiness: ready
 last-updated: 2026-03-24

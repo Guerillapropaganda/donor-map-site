@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 09 - Tech Billionaires Switch Parties on Regulatory Self-Interest"
+title: "Tech Billionaires Switch Parties on Regulatory Self-Interest"
 type: story
 content-readiness: ready
 last-updated: 2026-03-24

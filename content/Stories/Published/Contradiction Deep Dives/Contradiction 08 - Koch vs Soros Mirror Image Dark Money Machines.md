@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 08 - Koch vs Soros Mirror Image Dark Money Machines"
+title: "Koch vs Soros Mirror Image Dark Money Machines"
 type: story
 content-readiness: ready
 last-updated: 2026-03-24

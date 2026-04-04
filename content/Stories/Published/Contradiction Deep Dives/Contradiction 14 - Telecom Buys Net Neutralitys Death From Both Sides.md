@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 14 - Telecom Buys Net Neutrality's Death From Both Sides"
+title: "Telecom Buys Net Neutrality's Death From Both Sides"
 type: story
 content-readiness: ready
 last-updated: 2026-04-01
