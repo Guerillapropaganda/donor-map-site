@@ -1490,6 +1490,29 @@ body:has(.lp-landing) .breadcrumb-container {
 // Scoped to master profile pages only
 // =============================================
 
+// ── Lifted article surface on profile pages ──
+// Gives the center column a subtle raised surface so it reads as
+// "the document" while sidebars stay pure black.
+.page:has(.ph-header[data-profile-type]) .center {
+  background: #13131a;
+  border: 1px solid #1e1e28;
+  border-radius: 10px;
+  padding: 24px 32px;
+  margin-top: 12px;
+}
+
+@media (max-width: 800px) {
+  .page:has(.ph-header[data-profile-type]) .center {
+    padding: 16px 14px;
+    border-radius: 6px;
+  }
+}
+
+// Bump section cards up so they still pop against the new article bg
+.page:has(.ph-header[data-profile-type]) .profile-section-card {
+  background: #1a1a24;
+}
+
 // ── Profile Header Bar ──
 .ph-header {
   display: flex;
