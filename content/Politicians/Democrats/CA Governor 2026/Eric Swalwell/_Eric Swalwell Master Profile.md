@@ -2,7 +2,7 @@
 title: "_Eric Swalwell Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: "2026-04-04"
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,8 @@ state-abbr: "CA"
 top-donors:
   - "SEIU - Service Employees International Union"
   - "California Nurses Association"
+total-received: "$1,707,218"
+fec-candidate-id: "H2CA15094"
 ---
 
 
