@@ -3,17 +3,17 @@ name: API Enrichment Pipeline
 on:
   schedule:
     # Aggressive schedule until backlog cleared — then switch to weekly
-    - cron: '0 8 * * *'   # 8am UTC (1am PT)
-    - cron: '0 14 * * *'  # 2pm UTC (7am PT)
-    - cron: '0 20 * * *'  # 8pm UTC (1pm PT)
-    - cron: '0 2 * * *'   # 2am UTC (7pm PT)
+    - cron: '0 8 * * *'   # 8am UTC (4am ET)
+    - cron: '0 14 * * *'  # 2pm UTC (10am ET)
+    - cron: '0 20 * * *'  # 8pm UTC (4pm ET)
+    - cron: '0 2 * * *'   # 2am UTC (10pm ET)
   workflow_dispatch:
     inputs:
       limit:
         description: 'Max profiles to enrich per run'
-        default: '50'
+        default: '15'
       pipeline:
-        description: 'Which pipeline (fec, congress, propublica, all)'
+        description: 'Which pipeline (fec, congress, propublica, sam, lda, usaspending, govtrack, all)'
         default: 'all'
 
 permissions:
@@ -22,6 +22,7 @@ permissions:
 jobs:
   enrich:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
         with:
@@ -39,40 +40,47 @@ jobs:
           echo "LDA_API_KEY=${{ secrets.LDAAPI }}" >> .env
           echo "SAM_API_KEY=${{ secrets.SAMAPI }}" >> .env
 
-      - name: Run SAM.gov Contract Enrichment
-        if: ${{ github.event.inputs.pipeline == 'sam' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
-        run: |
-          node scripts/sam-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '25' }} 2>&1 || true
-
       - name: Run FEC Enrichment
-        if: ${{ github.event.inputs.pipeline != 'congress' && github.event.inputs.pipeline != 'propublica' }}
+        if: ${{ github.event.inputs.pipeline == 'fec' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
+        timeout-minutes: 8
         run: |
-          node scripts/fec-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '50' }} 2>&1 || true
+          node scripts/fec-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '15' }} 2>&1 || true
 
       - name: Run Congress Enrichment
-        if: ${{ github.event.inputs.pipeline != 'fec' && github.event.inputs.pipeline != 'propublica' }}
+        if: ${{ github.event.inputs.pipeline == 'congress' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
+        timeout-minutes: 8
         run: |
-          node scripts/congress-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '50' }} 2>&1 || true
+          node scripts/congress-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '15' }} 2>&1 || true
 
       - name: Run ProPublica 990 Enrichment
-        if: ${{ github.event.inputs.pipeline != 'fec' && github.event.inputs.pipeline != 'congress' }}
+        if: ${{ github.event.inputs.pipeline == 'propublica' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
+        timeout-minutes: 5
         run: |
-          node scripts/propublica-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '50' }} 2>&1 || true
-
-      - name: Run LDA Lobbying Enrichment
-        if: ${{ github.event.inputs.pipeline == 'lda' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
-        run: |
-          node scripts/lda-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '25' }} 2>&1 || true
-
-      - name: Run USASpending Enrichment
-        if: ${{ github.event.inputs.pipeline == 'usaspending' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
-        run: |
-          node scripts/usaspending-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '25' }} 2>&1 || true
+          node scripts/propublica-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '15' }} 2>&1 || true
 
       - name: Run GovTrack Enrichment
         if: ${{ github.event.inputs.pipeline == 'govtrack' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
+        timeout-minutes: 5
         run: |
-          node scripts/govtrack-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '25' }} 2>&1 || true
+          node scripts/govtrack-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '15' }} 2>&1 || true
+
+      - name: Run SAM.gov Contract Enrichment
+        if: ${{ github.event.inputs.pipeline == 'sam' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
+        timeout-minutes: 5
+        run: |
+          node scripts/sam-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '10' }} 2>&1 || true
+
+      - name: Run USASpending Enrichment
+        if: ${{ github.event.inputs.pipeline == 'usaspending' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
+        timeout-minutes: 5
+        run: |
+          node scripts/usaspending-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '10' }} 2>&1 || true
+
+      - name: Run LDA Lobbying Enrichment
+        if: ${{ github.event.inputs.pipeline == 'lda' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
+        timeout-minutes: 5
+        run: |
+          node scripts/lda-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '10' }} 2>&1 || true
 
       - name: Check for changes
         id: changes
@@ -95,7 +103,7 @@ jobs:
           git config user.name "API Enrichment Bot"
           git config user.email "noreply@thedonormap.org"
           UPDATED=${{ steps.changes.outputs.updated_count }}
-          git commit -m "API enrichment: ${UPDATED} profiles updated with FEC/Congress/ProPublica data
+          git commit -m "API enrichment: ${UPDATED} profiles updated
 
-          Automated enrichment by API Enrichment Pipeline"
+          Automated by API Enrichment Pipeline"
           git push origin v4
