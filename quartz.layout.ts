@@ -67,25 +67,28 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.Search()),
-    Component.DesktopOnly(Component.Graph({
-      localGraph: {
-        depth: 1,
-        repelForce: 0.5,
-        centerForce: 0.3,
-        linkDistance: 30,
-        fontSize: 0.6,
-        focusOnHover: true,
-        showTags: false,
-      },
-      globalGraph: {
-        depth: 1,
-        repelForce: 0.3,
-        centerForce: 0.4,
-        linkDistance: 30,
-        fontSize: 0.5,
-        showTags: false,
-      },
-    })),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.Graph({
+        localGraph: {
+          depth: 1,
+          repelForce: 0.5,
+          centerForce: 0.3,
+          linkDistance: 30,
+          fontSize: 0.6,
+          focusOnHover: true,
+          showTags: false,
+        },
+        globalGraph: {
+          depth: 1,
+          repelForce: 0.3,
+          centerForce: 0.4,
+          linkDistance: 30,
+          fontSize: 0.5,
+          showTags: false,
+        },
+      })),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.ProfileWidget()),
     Component.EventTimeline(),

@@ -66,6 +66,21 @@ const EvidencePanel: QuartzComponent = ({
   const chamber = String(fm?.chamber ?? "")
   const state = String(fm?.["state-abbr"] ?? "")
 
+  // FEC party split data (written by fec-pipeline --write)
+  const fecPartySplit = String(fm?.["fec-party-split"] ?? "")
+  const totalPoliticalSpend = String(fm?.["total-political-spend"] ?? "")
+  const isOrgDonor = entityType === "Corporation" || entityType === "PAC"
+
+  // Parse "68% Dem / 32% Rep" → { demPct: 68, repPct: 32 }
+  let demPct: number | null = null
+  let repPct: number | null = null
+  if (fecPartySplit) {
+    const demMatch = fecPartySplit.match(/(\d+)%\s*Dem/i)
+    const repMatch = fecPartySplit.match(/(\d+)%\s*Rep/i)
+    if (demMatch) demPct = parseInt(demMatch[1])
+    if (repMatch) repPct = parseInt(repMatch[1])
+  }
+
   // Build context line
   const contextParts: string[] = []
   if (party && party !== "undefined") contextParts.push(party)
@@ -109,6 +124,29 @@ const EvidencePanel: QuartzComponent = ({
           <div class="ep-context">{contextParts.join(" · ")}</div>
         )}
       </div>
+
+      {isOrgDonor && (demPct !== null || totalPoliticalSpend) && (
+        <div class="ep-fec-row">
+          {totalPoliticalSpend && totalPoliticalSpend !== "undefined" && (
+            <span class="ep-spend-label">
+              <span class="ep-spend-amount">{totalPoliticalSpend}</span> federal spend
+            </span>
+          )}
+          {demPct !== null && repPct !== null && (
+            <div class="ep-party-split">
+              <span class="ep-split-label">PARTY SPLIT</span>
+              <div class="ep-split-bar">
+                <div class="ep-split-dem" style={`width: ${demPct}%`}>
+                  {demPct >= 15 && <span class="ep-split-pct">{demPct}% D</span>}
+                </div>
+                <div class="ep-split-rep" style={`width: ${repPct}%`}>
+                  {repPct >= 15 && <span class="ep-split-pct">{repPct}% R</span>}
+                </div>
+              </div>
+            </div>
+          )}
+        </div>
+      )}
     </div>
   )
 }
@@ -239,6 +277,81 @@ EvidencePanel.css = `
   color: #8a8a96;
 }
 
+/* FEC Party Split Row */
+.ep-fec-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #1e1e28;
+  flex-wrap: wrap;
+}
+
+.ep-spend-label {
+  font-size: 10px;
+  color: #7a7a86;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+
+.ep-spend-amount {
+  color: #f59e0b;
+  font-weight: 700;
+}
+
+.ep-party-split {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+  min-width: 160px;
+}
+
+.ep-split-label {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: #8a8a96;
+  white-space: nowrap;
+}
+
+.ep-split-bar {
+  display: flex;
+  flex: 1;
+  height: 16px;
+  border-radius: 3px;
+  overflow: hidden;
+  background: #1e1e28;
+}
+
+.ep-split-dem {
+  background: #3b72b8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2px;
+  transition: width 0.3s ease;
+}
+
+.ep-split-rep {
+  background: #b83b3b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2px;
+  transition: width 0.3s ease;
+}
+
+.ep-split-pct {
+  font-size: 9px;
+  font-weight: 700;
+  color: rgba(255,255,255,0.9);
+  letter-spacing: 0.5px;
+  padding: 0 4px;
+}
+
 /* Mobile */
 @media (max-width: 800px) {
   .ep-panel {
@@ -249,6 +362,15 @@ EvidencePanel.css = `
     flex-direction: column;
     align-items: flex-start;
     gap: 6px;
+  }
+
+  .ep-fec-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .ep-party-split {
+    width: 100%;
   }
 }
 `

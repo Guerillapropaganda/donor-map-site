@@ -48,6 +48,30 @@ const featuredStories: FeaturedItem[] = [
   { name: "Carried Interest Scam", detail: "\u{1F4B0}", search: "the-carried-interest-loophole---30-years-of-survival" },
 ]
 
+const featuredMedia: FeaturedItem[] = [
+  { name: "Fox News", detail: "\u{1F4FA}", search: "fox-news" },
+  { name: "MSNBC", detail: "\u{1F4E1}", search: "msnbc" },
+  { name: "Ben Shapiro", detail: "\u{1F399}", search: "ben-shapiro" },
+  { name: "Pod Save America", detail: "\u{1F3A7}", search: "pod-save-america" },
+  { name: "Joe Rogan", detail: "\u{1F3A4}", search: "joe-rogan" },
+]
+
+const featuredThinkTanks: FeaturedItem[] = [
+  { name: "Heritage Foundation", detail: "\u{1F3DB}", search: "heritage-foundation" },
+  { name: "Brookings Institution", detail: "\u{1F4DA}", search: "brookings-institution" },
+  { name: "ALEC", detail: "\u{2696}", search: "alec" },
+  { name: "Cato Institute", detail: "\u{1F5FD}", search: "cato-institute" },
+  { name: "Center for American Progress", detail: "\u{1F4CB}", search: "center-for-american-progress" },
+]
+
+const featuredKStreet: FeaturedItem[] = [
+  { name: "Akin Gump", detail: "\u{1F4BC}", search: "akin-gump" },
+  { name: "Squire Patton Boggs", detail: "\u{1F4BC}", search: "squire-patton-boggs" },
+  { name: "Brownstein Hyatt", detail: "\u{1F4BC}", search: "brownstein-hyatt" },
+  { name: "BGR Group", detail: "\u{1F4BC}", search: "bgr-group" },
+  { name: "Holland & Knight", detail: "\u{1F4BC}", search: "holland--and--knight" },
+]
+
 // ─── Navigation tree structure ──────────────────────────────────────
 // slugPrefix must match Quartz's slug encoding:
 //   spaces → hyphens, & → --and--, _ prefix preserved
@@ -130,6 +154,7 @@ const navTree: NavNode[] = [
   {
     name: "Media Pipeline",
     slugPrefix: "Media--and--Influence-Pipeline",
+    featured: featuredMedia,
     children: [
       { name: "Right", slugPrefix: "Media--and--Influence-Pipeline/Right" },
       { name: "Left", slugPrefix: "Media--and--Influence-Pipeline/Left" },
@@ -139,6 +164,7 @@ const navTree: NavNode[] = [
   {
     name: "Think Tanks",
     slugPrefix: "Think-Tanks--and--Policy-Infrastructure",
+    featured: featuredThinkTanks,
     children: [
       { name: "Conservative", slugPrefix: "Think-Tanks--and--Policy-Infrastructure/Conservative" },
       { name: "Liberal", slugPrefix: "Think-Tanks--and--Policy-Infrastructure/Liberal" },
@@ -148,6 +174,10 @@ const navTree: NavNode[] = [
   {
     name: "K Street",
     slugPrefix: "Lobbying-Firms--and--K-Street",
+    featured: featuredKStreet,
+    children: [
+      { name: "Top Firms", slugPrefix: "Lobbying-Firms--and--K-Street" },
+    ],
   },
 ]
 
@@ -283,6 +313,7 @@ const DonorMapSidebar: QuartzComponent = ({
         <a href={absHref("")}>
           <span class="dm-logo-dm">DM</span>
           <span class="dm-logo-text"> The Donor Map<span class="dm-cursor">$</span></span>
+          <span class="dm-beta">BETA</span>
         </a>
         <div class="dm-subtitle">v2.0 — {allFiles.length.toLocaleString()} nodes tracked</div>
       </div>
@@ -345,6 +376,22 @@ DonorMapSidebar.css = `
   color: #22c55e;
   text-shadow: 0 0 8px rgba(34, 197, 94, 0.6);
   animation: pulse-glow 2.5s ease-in-out infinite;
+}
+
+.dm-beta {
+  font-family: 'Space Mono', monospace;
+  font-size: 8px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: #f59e0b;
+  background: rgba(245, 158, 11, 0.12);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  padding: 1px 5px;
+  border-radius: 3px;
+  margin-left: 8px;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
 }
 
 @keyframes pulse-glow {
