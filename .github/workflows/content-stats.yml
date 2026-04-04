@@ -1,0 +1,234 @@
+name: Content Stats
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate site status page
+        run: |
+          node << 'SCRIPT'
+          const fs = require('fs');
+          const path = require('path');
+
+          const CONTENT_DIR = path.join(process.cwd(), 'content');
+          const OUTPUT_FILE = path.join(CONTENT_DIR, 'Interactive', 'site-status.md');
+
+          // Collect all .md files recursively
+          function walkDir(dir) {
+            let results = [];
+            for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+              const full = path.join(dir, entry.name);
+              if (entry.isDirectory()) {
+                results = results.concat(walkDir(full));
+              } else if (entry.isFile() && entry.name.endsWith('.md')) {
+                results.push(full);
+              }
+            }
+            return results;
+          }
+
+          // Parse YAML frontmatter (simple key-value + arrays, no external deps)
+          function parseFrontmatter(content) {
+            const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+            if (!match) return {};
+            const fm = {};
+            const lines = match[1].split(/\r?\n/);
+            let currentKey = null;
+            for (const line of lines) {
+              const kvMatch = line.match(/^(\S[\w-]*)\s*:\s*(.*)/);
+              if (kvMatch) {
+                const key = kvMatch[1];
+                const val = kvMatch[2].trim();
+                if (val === '' || val === '[]') {
+                  fm[key] = [];
+                  currentKey = key;
+                } else if (val.startsWith('[') && val.endsWith(']')) {
+                  fm[key] = val.slice(1, -1).split(',').map(s => s.trim().replace(/^["']|["']$/g, '')).filter(Boolean);
+                  currentKey = null;
+                } else if (val.startsWith('"') && val.endsWith('"')) {
+                  fm[key] = val.slice(1, -1);
+                  currentKey = null;
+                } else {
+                  fm[key] = val;
+                  currentKey = null;
+                }
+              } else if (line.match(/^\s+-\s+(.*)/) && currentKey) {
+                const item = line.match(/^\s+-\s+(.*)/)[1].trim().replace(/^["']|["']$/g, '');
+                if (!Array.isArray(fm[currentKey])) fm[currentKey] = [];
+                fm[currentKey].push(item);
+              }
+            }
+            return fm;
+          }
+
+          const files = walkDir(CONTENT_DIR);
+          const profiles = [];
+          let unverifiedCount = 0;
+          let urlNeededCount = 0;
+
+          for (const file of files) {
+            const content = fs.readFileSync(file, 'utf8');
+            const fm = parseFrontmatter(content);
+            const rel = path.relative(CONTENT_DIR, file).replace(/\\/g, '/');
+
+            // Count verification tags in body
+            const hasUnverified = content.includes('(UNVERIFIED)');
+            const hasUrlNeeded = content.includes('(URL NEEDED)');
+            if (hasUnverified) unverifiedCount++;
+            if (hasUrlNeeded) urlNeededCount++;
+
+            // Check if this has events linked
+            const hasEvents = fm.type === 'event';
+
+            profiles.push({
+              file: rel,
+              title: fm.title || path.basename(file, '.md'),
+              type: fm.type || 'unknown',
+              party: fm.party || '',
+              chamber: fm.chamber || '',
+              contentReadiness: fm['content-readiness'] || 'unknown',
+              sourceTier: fm['source-tier'] || '',
+              lastUpdated: fm['last-updated'] || '',
+              topDonors: fm['top-donors'] || [],
+              politiciansFunded: fm['politicians-funded'] || [],
+              issues: fm.issues || [],
+              hasUnverified,
+              hasUrlNeeded,
+            });
+          }
+
+          // --- Counts ---
+          const politicians = profiles.filter(p => p.type === 'politician');
+          const donors = profiles.filter(p => p.type === 'donor' || p.type === 'corporation');
+          const stories = profiles.filter(p => p.type === 'story');
+          const events = profiles.filter(p => p.type === 'event');
+          const totalProfiles = politicians.length + donors.length;
+
+          // --- Readiness ---
+          const readinessLevels = ['raw', 'draft', 'developed', 'ready'];
+          const readiness = {};
+          for (const level of readinessLevels) {
+            readiness[level] = profiles.filter(p => p.contentReadiness === level).length;
+          }
+          const unknownReadiness = profiles.filter(p => !readinessLevels.includes(p.contentReadiness)).length;
+
+          // --- Coverage ---
+          const politiciansWithDonors = politicians.filter(p => Array.isArray(p.topDonors) && p.topDonors.length > 0).length;
+          const politiciansWithoutDonors = politicians.length - politiciansWithDonors;
+          const donorsWithPoliticians = donors.filter(p => Array.isArray(p.politiciansFunded) && p.politiciansFunded.length > 0).length;
+
+          // --- Recent Activity (by last-updated) ---
+          const withDates = profiles
+            .filter(p => p.lastUpdated && p.lastUpdated !== '')
+            .sort((a, b) => {
+              const da = new Date(a.lastUpdated);
+              const db = new Date(b.lastUpdated);
+              return db - da;
+            });
+          const recent10 = withDates.slice(0, 10);
+
+          // --- Stale profiles (90+ days) ---
+          const now = new Date();
+          const staleThreshold = 90 * 24 * 60 * 60 * 1000;
+          const staleProfiles = withDates.filter(p => {
+            const d = new Date(p.lastUpdated);
+            return (now - d) > staleThreshold;
+          });
+
+          // --- Build output ---
+          const timestamp = now.toISOString().replace('T', ' ').replace(/\.\d+Z/, ' UTC');
+          let md = `---
+          title: "Site Status"
+          type: reference
+          ---
+
+          ## Profile Counts
+
+          | Category | Count |
+          |----------|-------|
+          | **Total Profiles** (politicians + donors) | ${totalProfiles} |
+          | Politicians | ${politicians.length} |
+          | Donors / Corporations | ${donors.length} |
+          | Stories | ${stories.length} |
+          | Events | ${events.length} |
+          | All .md files scanned | ${files.length} |
+
+          ## Readiness Breakdown
+
+          | Level | Count |
+          |-------|-------|
+          | Raw | ${readiness.raw} |
+          | Draft | ${readiness.draft} |
+          | Developed | ${readiness.developed} |
+          | Ready | ${readiness.ready} |
+          | Unknown / Not Set | ${unknownReadiness} |
+
+          ## Verification Status
+
+          | Tag | Files |
+          |-----|-------|
+          | Files with (UNVERIFIED) | ${unverifiedCount} |
+          | Files with (URL NEEDED) | ${urlNeededCount} |
+
+          ## Coverage
+
+          | Metric | Count |
+          |--------|-------|
+          | Politicians with top-donors populated | ${politiciansWithDonors} |
+          | Politicians missing top-donors | ${politiciansWithoutDonors} |
+          | Donors with politicians-funded populated | ${donorsWithPoliticians} |
+
+          ## Recent Activity
+
+          Last 10 profiles updated (by \`last-updated\` frontmatter):
+
+          | Profile | Type | Last Updated |
+          |---------|------|--------------|
+          `.replace(/^          /gm, '');
+
+          for (const p of recent10) {
+            md += `| ${p.title} | ${p.type} | ${p.lastUpdated} |\n`;
+          }
+
+          md += `\n## Stale Profiles\n\n`;
+          md += `Profiles where \`last-updated\` is 90+ days ago: **${staleProfiles.length}**\n`;
+
+          md += `\n---\n\n*Generated: ${timestamp}*\n`;
+
+          // Ensure output directory exists
+          const outDir = path.dirname(OUTPUT_FILE);
+          if (!fs.existsSync(outDir)) {
+            fs.mkdirSync(outDir, { recursive: true });
+          }
+
+          fs.writeFileSync(OUTPUT_FILE, md, 'utf8');
+          console.log(`Wrote ${OUTPUT_FILE}`);
+          console.log(`Scanned ${files.length} files, ${totalProfiles} profiles`);
+          SCRIPT
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Stats Bot"
+          git config user.email "noreply@thedonormap.org"
+          git add content/Interactive/site-status.md
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update site status page [automated]"
+          git push origin v4

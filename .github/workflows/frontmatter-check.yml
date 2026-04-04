@@ -1,0 +1,181 @@
+name: Frontmatter Validation
+
+on:
+  push:
+    branches: [v4]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-frontmatter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Validate frontmatter
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            const VALID_TYPES = [
+              'politician', 'donor', 'pac', 'corporation', 'story',
+              'methodology', 'reference', 'index', 'daily-update',
+              'sub-note', 'event', 'media-profile', 'think-tank',
+              'lobbying-firm', 'meta'
+            ];
+            const VALID_READINESS = ['raw', 'draft', 'developed', 'ready'];
+            const VALID_SOURCE_TIERS = [1, 2, 3, 4, null];
+            const VALID_PARTIES = ['Democrat', 'Republican', 'Independent'];
+
+            const EXCLUDE_DIRS = ['content/Assets', 'content/.obsidian'];
+
+            // Collect all .md files under content/, excluding certain dirs
+            function collectFiles(dir) {
+              let results = [];
+              if (!fs.existsSync(dir)) return results;
+              for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+                const full = path.join(dir, entry.name);
+                const rel = path.relative('.', full).replace(/\\/g, '/');
+                if (EXCLUDE_DIRS.some(ex => rel.startsWith(ex))) continue;
+                if (entry.isDirectory()) {
+                  results = results.concat(collectFiles(full));
+                } else if (entry.isFile() && entry.name.endsWith('.md')) {
+                  results.push(full);
+                }
+              }
+              return results;
+            }
+
+            // Parse YAML frontmatter between --- delimiters (simple key: value parser)
+            function parseFrontmatter(content) {
+              const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+              if (!match) return null;
+              const block = match[1];
+              const data = {};
+              for (const line of block.split(/\r?\n/)) {
+                // Skip comments, blank lines, array items (- value)
+                if (!line.trim() || line.trim().startsWith('#') || line.trim().startsWith('-')) continue;
+                const colonIdx = line.indexOf(':');
+                if (colonIdx === -1) continue;
+                const key = line.slice(0, colonIdx).trim();
+                let val = line.slice(colonIdx + 1).trim();
+                // Remove surrounding quotes
+                if ((val.startsWith('"') && val.endsWith('"')) || (val.startsWith("'") && val.endsWith("'"))) {
+                  val = val.slice(1, -1);
+                }
+                // Parse numbers
+                if (/^\d+$/.test(val)) {
+                  data[key] = parseInt(val, 10);
+                } else if (val === 'null' || val === '') {
+                  data[key] = null;
+                } else if (val === 'true') {
+                  data[key] = true;
+                } else if (val === 'false') {
+                  data[key] = false;
+                } else {
+                  data[key] = val;
+                }
+              }
+              return data;
+            }
+
+            const files = collectFiles('content');
+            const failures = [];
+            let passCount = 0;
+
+            for (const file of files) {
+              const relPath = path.relative('.', file).replace(/\\/g, '/');
+              const content = fs.readFileSync(file, 'utf8');
+              const lineCount = content.split(/\r?\n/).length;
+              const errors = [];
+
+              const fm = parseFrontmatter(content);
+
+              if (!fm) {
+                errors.push('Missing frontmatter (no --- block)');
+              } else {
+                // Required fields
+                if (!fm.title) errors.push('Missing required field: title');
+                if (!fm.type) errors.push('Missing required field: type');
+
+                // Type validation
+                if (fm.type && !VALID_TYPES.includes(fm.type)) {
+                  errors.push(`Invalid type: "${fm.type}" (expected one of: ${VALID_TYPES.join(', ')})`);
+                }
+
+                // Content-readiness validation (optional field)
+                if (fm['content-readiness'] !== undefined && fm['content-readiness'] !== null) {
+                  if (!VALID_READINESS.includes(fm['content-readiness'])) {
+                    errors.push(`Invalid content-readiness: "${fm['content-readiness']}" (expected one of: ${VALID_READINESS.join(', ')})`);
+                  }
+                }
+
+                // Source-tier validation (optional field)
+                if (fm['source-tier'] !== undefined) {
+                  if (!VALID_SOURCE_TIERS.includes(fm['source-tier'])) {
+                    errors.push(`Invalid source-tier: "${fm['source-tier']}" (expected one of: 1, 2, 3, 4, null)`);
+                  }
+                }
+
+                // Premature ready check
+                if (fm['content-readiness'] === 'ready' && lineCount < 50) {
+                  errors.push(`Premature ready: file has only ${lineCount} lines (minimum 50 expected for "ready" status)`);
+                }
+
+                // Party validation for politician type
+                if (fm.type === 'politician' && fm.party !== undefined && fm.party !== null) {
+                  if (!VALID_PARTIES.includes(fm.party)) {
+                    errors.push(`Invalid party: "${fm.party}" (expected one of: ${VALID_PARTIES.join(', ')})`);
+                  }
+                }
+              }
+
+              if (errors.length > 0) {
+                failures.push({ file: relPath, errors });
+                for (const err of errors) {
+                  core.warning(`${err}`, { file: relPath });
+                }
+              } else {
+                passCount++;
+              }
+            }
+
+            // Build summary
+            const total = files.length;
+            const failCount = failures.length;
+
+            let summary = `## Frontmatter Validation Results\n\n`;
+            summary += `| Metric | Count |\n|---|---|\n`;
+            summary += `| Total files checked | ${total} |\n`;
+            summary += `| Passed | ${passCount} |\n`;
+            summary += `| Failed | ${failCount} |\n\n`;
+
+            if (failures.length > 0) {
+              summary += `### Failures\n\n`;
+              summary += `| File | Reason |\n|---|---|\n`;
+              for (const f of failures) {
+                for (const err of f.errors) {
+                  summary += `| \`${f.file}\` | ${err} |\n`;
+                }
+              }
+            } else {
+              summary += `All files passed validation.\n`;
+            }
+
+            await core.summary.addRaw(summary).write();
+
+            if (failCount > 0) {
+              core.info(`Frontmatter validation: ${failCount} file(s) with issues out of ${total} checked.`);
+            } else {
+              core.info(`Frontmatter validation: all ${total} files passed.`);
+            }
