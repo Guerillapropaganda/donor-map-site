@@ -85,6 +85,8 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
 
         // only process home page, non-tag pages, and non-index pages
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
+        // Event drafts are data-only (feed sidebar widgets) — don't emit standalone pages
+        if (slug.startsWith("Events/Drafts/") || slug.startsWith("events/Drafts/")) continue
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)
       }
 
@@ -113,6 +115,7 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         const slug = file.data.slug!
         if (!changedSlugs.has(slug)) continue
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
+        if (slug.startsWith("Events/Drafts/") || slug.startsWith("events/Drafts/")) continue
 
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)
       }
