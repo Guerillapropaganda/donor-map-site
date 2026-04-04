@@ -125,8 +125,20 @@ const LandingPage: QuartzComponent = ({
     return "#"
   }
 
-  // Dynamic counts
-  const totalProfiles = allFiles.length
+  // Dynamic counts — only count actual entity profiles, not sub-notes/stories/events
+  const ENTITY_TYPES = [
+    "politician",
+    "donor",
+    "corporation",
+    "pac",
+    "think-tank",
+    "lobbying-firm",
+    "media-profile",
+  ]
+  const isEntityProfile = (f: typeof allFiles[0]) =>
+    ENTITY_TYPES.includes(String(f.frontmatter?.type ?? ""))
+
+  const totalProfiles = allFiles.filter(isEntityProfile).length
   const politicianCount = allFiles.filter((f) =>
     (f.slug ?? "").toLowerCase().startsWith("politicians/"),
   ).length
@@ -168,8 +180,9 @@ const LandingPage: QuartzComponent = ({
     },
   ]
 
-  // Count verified profiles
+  // Count verified entity profiles (same filter as totalProfiles)
   const verifiedCount = allFiles.filter((f) => {
+    if (!isEntityProfile(f)) return false
     const r = String(f.frontmatter?.["content-readiness"] ?? "")
     return r === "ready" || r === "publication-ready"
   }).length
