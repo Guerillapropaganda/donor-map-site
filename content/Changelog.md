@@ -11,6 +11,13 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 
 ## 2026-04-03
 
+### Two-Claude Governance System
+- Created `CLAUDE.md` in site repo — Site Claude's governance file with full component table, frontmatter schema, build/deploy instructions, cross-references to Research Claude
+- Updated Vault `CLAUDE.md` — added "Working with Site Claude" section, shared data layer docs, Changelog in Quick Start sequence, Handoff doc in Key Reference Documents
+- Renamed Handoff doc from session-specific to standing communication channel (Research Claude → Site Claude)
+- Communication flow: Research Claude updates Handoff doc → Site Claude reads it. Site Claude updates Changelog → Research Claude reads it.
+- Stale governance files (DONOR-MAP-SITE-STATUS, DESIGNER-PROMPT, QUARTZ-SETUP-GUIDE) confirmed already cleaned up
+
 ### Phase 6 — Current Events Layer
 - Created `scripts/rss-pipeline.cjs` — RSS intelligence pipeline
 - Scans 8 feeds: The Hill, OpenSecrets, ProPublica, The Intercept, Congress.gov
