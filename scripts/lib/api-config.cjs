@@ -82,47 +82,18 @@ module.exports = {
     //   /organizations/{ein}/{year}.json — specific year 990 data
   },
 
-  // ── Donor Intelligence APIs ──────────────────────────
-  opensecrets: {
-    // OpenSecrets / Center for Responsive Politics
-    // Donor summaries, industry totals, PAC data, revolving door
-    // FREE API key: https://www.opensecrets.org/api/admin/index.php?function=signup
-    baseUrl: "https://www.opensecrets.org/api",
-    apiKey: env.OPENSECRETS_API_KEY || process.env.OPENSECRETS_API_KEY || null,
-    rateLimit: 200, // per day (not per hour)
-    // Key endpoints:
-    //   ?method=candContrib&cid={opensecrets_id} — top contributors to candidate
-    //   ?method=candIndustry&cid={opensecrets_id} — top industries funding candidate
-    //   ?method=candSummary&cid={opensecrets_id} — candidate financial summary
-  },
-
   // ── Foreign Lobbying ─────────────────────────────────
   fara: {
     // FARA — Foreign Agents Registration Act (DOJ)
     // Who lobbies for which foreign government/entity
-    // FREE, no key needed
+    // FREE, no key — but aggressive rate limiting (429s)
     // Docs: https://efile.fara.gov/ords/fara/production/f?p=API
     baseUrl: "https://efile.fara.gov/api/v1",
     apiKey: null,
-    rateLimit: 300, // conservative
+    rateLimit: 30, // very conservative — 429s are common
     // Key endpoints:
     //   /ActiveForeignPrincipals — current foreign clients
     //   /ActiveRegistrants — current registered agents
-    //   /ShortFormRegistrants — lobbying activity reports
-  },
-
-  // ── State-Level Campaign Finance ─────────────────────
-  followTheMoney: {
-    // FollowTheMoney (National Institute on Money in Politics)
-    // State-level campaign finance for all 50 states
-    // FREE API key: https://www.followthemoney.org/our-data/api
-    baseUrl: "https://api.followthemoney.org",
-    apiKey: env.FOLLOWTHEMONEY_API_KEY || process.env.FOLLOWTHEMONEY_API_KEY || null,
-    rateLimit: 500,
-    // Key endpoints:
-    //   /candidates?key={key}&s={state} — state candidates
-    //   /contributions?key={key}&c-t-id={candidate_id} — contributions to candidate
-    //   Especially useful for: CA Governor 2026, state races
   },
 
   // ── Bill Tracking & Vote Analysis ────────────────────
@@ -139,6 +110,24 @@ module.exports = {
     //   /bill?sponsor={id} — sponsored bills
   },
 
+  // ── Federal Contracts ────────────────────────────────
+  sam: {
+    // SAM.gov — federal contract awards, entity registrations
+    // FREE API key: https://sam.gov/content/home
+    // Shows which companies get government contracts after donating
+    baseUrl: "https://api.sam.gov",
+    apiKey: env.SAM_API_KEY || process.env.SAM_API_KEY || null,
+    rateLimit: 1000,
+    // Key endpoints:
+    //   /opportunities/v2/search — contract opportunities
+    //   /entity-information/v3/entities — registered entities
+  },
+
+  // ── DEPRECATED / DISCONTINUED ────────────────────────
+  // OpenSecrets API — discontinued public API access (2025)
+  // FollowTheMoney — merged into OpenSecrets, API dead
+  // ProPublica Congress API — deprecated, use Congress.gov instead
+
   // Helper: print config status
   printStatus() {
     console.log("\n  API Configuration:")
@@ -147,10 +136,9 @@ module.exports = {
     console.log(`    Senate LDA:       ${this.lda.apiKey ? "Token configured" : "Missing — set LDA_API_KEY"}`)
     console.log(`    USASpending:      No auth required`)
     console.log(`    ProPublica 990s:  No auth required`)
-    console.log(`    OpenSecrets:      ${this.opensecrets.apiKey ? "Key configured" : "Missing — set OPENSECRETS_API_KEY"}`)
-    console.log(`    FARA:             No auth required`)
-    console.log(`    FollowTheMoney:   ${this.followTheMoney.apiKey ? "Key configured" : "Missing — set FOLLOWTHEMONEY_API_KEY"}`)
     console.log(`    GovTrack:         No auth required`)
+    console.log(`    FARA:             No auth required (rate limited)`)
+    console.log(`    SAM.gov:          ${this.sam.apiKey ? "Key configured" : "Missing — set SAM_API_KEY"}`)
     console.log()
   },
 }
