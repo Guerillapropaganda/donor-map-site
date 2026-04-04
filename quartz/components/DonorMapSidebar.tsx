@@ -380,7 +380,7 @@ DonorMapSidebar.css = `
 
 .dm-beta {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
   color: #f59e0b;
@@ -403,7 +403,7 @@ DonorMapSidebar.css = `
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   letter-spacing: 0.5px;
-  color: #63636e;
+  color: #7a7a86;
   margin-top: 4px;
   margin-left: 2px;
 }
@@ -649,9 +649,24 @@ details[open] > summary > .dm-nav-chevron {
   flex-shrink: 0;
 }
 
-/* ── Hide on mobile ── */
+/* ── Mobile: show logo only, hide nav ── */
 @media (max-width: 800px) {
   .donor-map-sidebar {
+    display: flex;
+    width: 100%;
+    max-height: none;
+    position: static;
+  }
+
+  .donor-map-sidebar .dm-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    width: 100%;
+  }
+
+  .donor-map-sidebar .dm-nav {
     display: none;
   }
 }

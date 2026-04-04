@@ -63,7 +63,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DonorMapSidebar(),
     Component.MobileOnly(Component.Spacer()),
     Component.MobileOnly(Component.Search()),
-    Component.MobileOnly(Component.Explorer()),
+    Component.MobileOnly(Component.Explorer({
+      filterFn: (node) => {
+        const seg = (node.slugSegment ?? "").toLowerCase()
+        return seg !== "tags" && seg !== "events" && seg !== "changelog" &&
+          seg !== "vault-maintenance" && seg !== "interactive" &&
+          seg !== "site-status"
+      },
+    })),
   ],
   right: [
     Component.DesktopOnly(Component.Search()),
@@ -105,7 +112,14 @@ export const defaultListPageLayout: PageLayout = {
     Component.DonorMapSidebar(),
     Component.MobileOnly(Component.Spacer()),
     Component.MobileOnly(Component.Search()),
-    Component.MobileOnly(Component.Explorer()),
+    Component.MobileOnly(Component.Explorer({
+      filterFn: (node) => {
+        const seg = (node.slugSegment ?? "").toLowerCase()
+        return seg !== "tags" && seg !== "events" && seg !== "changelog" &&
+          seg !== "vault-maintenance" && seg !== "interactive" &&
+          seg !== "site-status"
+      },
+    })),
   ],
   right: [],
 }
