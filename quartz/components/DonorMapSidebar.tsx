@@ -26,14 +26,63 @@ interface NavNode {
   featured?: FeaturedItem[]
 }
 
-// ─── Featured items (curated) ───────────────────────────────────────
-const featuredPoliticians: FeaturedItem[] = [
-  { name: "Nancy Pelosi", detail: "$14.2M", search: "_nancy-pelosi-master-profile" },
-  { name: "Mitch McConnell", detail: "$11.8M", search: "_mitch-mcconnell-master-profile" },
-  { name: "Ted Cruz", detail: "$9.4M", search: "_ted-cruz-master-profile" },
-  { name: "Chuck Schumer", detail: "$8.7M", search: "_chuck-schumer-master-profile" },
-  { name: "Donald Trump", detail: "$7.2M", search: "_donald-trump-master-profile" },
-]
+// ─── Featured items ─────────────────────────────────────────────────
+// Politicians featured list is built dynamically from frontmatter at
+// render time (see buildFeaturedPoliticians). #1 is pinned to whoever
+// has `current-office: "President"`, #2-5 are top career-total values.
+
+// Parse "$1.6B" / "$100M+" / "$47M" into a comparable number
+function parseCareerTotal(str: string): number {
+  if (!str) return 0
+  const m = str.match(/\$?\s*([\d.]+)\s*([BMK])?/i)
+  if (!m) return 0
+  const n = parseFloat(m[1])
+  const unit = (m[2] || "").toUpperCase()
+  const mult = unit === "B" ? 1e9 : unit === "M" ? 1e6 : unit === "K" ? 1e3 : 1
+  return n * mult
+}
+
+function cleanProfileName(title: string): string {
+  return String(title || "")
+    .replace(/^_/, "")
+    .replace(/\s+Master\s+Profile\s*$/i, "")
+    .trim()
+}
+
+function buildFeaturedPoliticians(allFiles: QuartzPluginData[]): FeaturedItem[] {
+  // Pin current president at #1 (regardless of career-total presence)
+  const president = allFiles.find((f) => {
+    const fm = f.frontmatter as any
+    return (
+      fm?.type === "politician" &&
+      String(fm?.["current-office"] ?? "").toLowerCase() === "president"
+    )
+  })
+
+  // Politicians with a career-total, sorted descending
+  const withTotals = allFiles
+    .filter((f) => {
+      const fm = f.frontmatter as any
+      return (
+        fm?.type === "politician" &&
+        fm?.["career-total"] &&
+        f !== president
+      )
+    })
+    .sort((a, b) => {
+      const av = parseCareerTotal(String((a.frontmatter as any)["career-total"]))
+      const bv = parseCareerTotal(String((b.frontmatter as any)["career-total"]))
+      return bv - av
+    })
+
+  const list = president ? [president, ...withTotals.slice(0, 4)] : withTotals.slice(0, 5)
+
+  return list.map((f) => ({
+    name: cleanProfileName((f.frontmatter as any)?.title ?? ""),
+    detail: String((f.frontmatter as any)?.["career-total"] ?? ""),
+    search: f.slug ?? "",
+  }))
+}
 
 const featuredDonors: FeaturedItem[] = [
   { name: "Goldman Sachs", detail: "\u{1F3E6}", search: "wall-street/goldman-sachs" },
@@ -79,7 +128,7 @@ const navTree: NavNode[] = [
   {
     name: "Politicians",
     slugPrefix: "Politicians",
-    featured: featuredPoliticians,
+    // featured set dynamically at render time via buildFeaturedPoliticians()
     children: [
       {
         name: "Democrats",
@@ -189,6 +238,9 @@ const DonorMapSidebar: QuartzComponent = ({
   allFiles,
 }: QuartzComponentProps) => {
   const currentSlug = (fileData.slug ?? "").toLowerCase()
+
+  // Build dynamic featured list for Politicians node from frontmatter
+  const dynamicFeaturedPoliticians = buildFeaturedPoliticians(allFiles)
 
   // Extract the base path from cfg.baseUrl for absolute URL construction.
   // Relative URLs are unreliable on subdirectory deployments (GitHub Pages)
@@ -300,7 +352,11 @@ const DonorMapSidebar: QuartzComponent = ({
             {count > 0 && <span class="dm-nav-count">{count}</span>}
           </summary>
           <div class="dm-nav-children">
-            {node.featured && node.featured.length > 0 && renderFeatured(node.featured)}
+            {(() => {
+              const featured =
+                node.name === "Politicians" ? dynamicFeaturedPoliticians : node.featured
+              return featured && featured.length > 0 ? renderFeatured(featured) : null
+            })()}
             <ul class="dm-nav-list">
               {node.children.map((child) => renderNode(child, depth + 1))}
             </ul>

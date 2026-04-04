@@ -7,6 +7,8 @@ source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Presidential"
+current-office: "President"
+career-total: "$2B+"
 top-donors:
   - "Elon Musk"
   - "Peter Thiel"
