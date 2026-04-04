@@ -34,9 +34,9 @@ jobs:
 
       - name: Create .env from secrets
         run: |
-          echo "FEC_API_KEY=${{ secrets.FEC_API_KEY }}" >> .env
+          echo "FEC_API_KEY=${{ secrets.FECAPI }}" >> .env
           echo "CONGRESS_API_KEY=${{ secrets.CONGRESS_API_KEY }}" >> .env
-          echo "LDA_API_KEY=${{ secrets.LDA_API_KEY }}" >> .env
+          echo "LDA_API_KEY=${{ secrets.LDAAPI }}" >> .env
 
       - name: Run FEC Enrichment
         if: ${{ github.event.inputs.pipeline != 'congress' && github.event.inputs.pipeline != 'propublica' }}
