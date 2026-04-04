@@ -6,17 +6,34 @@ const ProfileTabs: QuartzComponent = () => {
 
 ProfileTabs.afterDOMLoaded = `
 (function() {
-  var TABS = [
+  var POLITICIAN_TABS = [
     { id: 'overview', label: 'Overview' },
     { id: 'donors', label: 'Donors' },
     { id: 'voting', label: 'Voting' },
     { id: 'analysis', label: 'Analysis' },
     { id: 'sources', label: 'Sources' }
   ];
+  var DONOR_TABS = [
+    { id: 'overview', label: 'Overview' },
+    { id: 'recipients', label: 'Recipients' },
+    { id: 'wins', label: 'Policy Wins' },
+    { id: 'analysis', label: 'Analysis' },
+    { id: 'sources', label: 'Sources' }
+  ];
+
+  function getProfileType() {
+    var article = document.querySelector('article');
+    if (article && article.dataset.profileType) return article.dataset.profileType;
+    var ph = document.querySelector('.ph-header[data-profile-type]');
+    return ph ? ph.getAttribute('data-profile-type') : null;
+  }
 
   function isProfilePage() {
-    var slug = (document.body.dataset.slug || '').toLowerCase();
-    return slug.indexOf('master-profile') !== -1;
+    return getProfileType() !== null;
+  }
+
+  function getTabs() {
+    return getProfileType() === 'donor' ? DONOR_TABS : POLITICIAN_TABS;
   }
 
   function isMobileViewport() {
@@ -39,9 +56,11 @@ ProfileTabs.afterDOMLoaded = `
     var cards = article.querySelectorAll('.profile-section-card');
     if (cards.length === 0) return;
 
+    var tabs = getTabs();
+
     // Count cards per tab
     var cardsByTab = {};
-    TABS.forEach(function(t) { cardsByTab[t.id] = []; });
+    tabs.forEach(function(t) { cardsByTab[t.id] = []; });
     cards.forEach(function(card) {
       var tab = card.dataset.tab || 'overview';
       if (!cardsByTab[tab]) cardsByTab[tab] = [];
@@ -53,7 +72,7 @@ ProfileTabs.afterDOMLoaded = `
     nav.className = 'profile-tabs';
     nav.setAttribute('role', 'tablist');
 
-    TABS.forEach(function(tabDef, idx) {
+    tabs.forEach(function(tabDef, idx) {
       var btn = document.createElement('button');
       btn.type = 'button';
       btn.className = 'profile-tab-btn';
@@ -61,24 +80,17 @@ ProfileTabs.afterDOMLoaded = `
       btn.setAttribute('role', 'tab');
       btn.textContent = tabDef.label;
       var count = (cardsByTab[tabDef.id] || []).length;
-      if (count === 0) {
+      var isEmpty = count === 0;
+      if (isEmpty) {
         btn.classList.add('profile-tab-empty');
         btn.setAttribute('aria-disabled', 'true');
+        btn.title = 'No ' + tabDef.label.toLowerCase() + ' data yet for this profile';
       }
-      btn.addEventListener('click', function() { activateTab(tabDef.id); });
+      btn.addEventListener('click', function() {
+        if (isEmpty) return;
+        activateTab(tabDef.id);
+      });
       nav.appendChild(btn);
-    });
-
-    // Empty state placeholder for tabs without content
-    TABS.forEach(function(tabDef) {
-      if ((cardsByTab[tabDef.id] || []).length === 0) {
-        var placeholder = document.createElement('div');
-        placeholder.className = 'profile-section-card profile-tab-placeholder';
-        placeholder.dataset.tab = tabDef.id;
-        placeholder.dataset.placeholder = 'true';
-        placeholder.innerHTML = '<h2>' + tabDef.label + '</h2><p class="profile-tab-empty-msg">No data yet for this section.</p>';
-        article.appendChild(placeholder);
-      }
     });
 
     // Insert nav before the first card (after any preamble)
@@ -91,10 +103,18 @@ ProfileTabs.afterDOMLoaded = `
 
     article.dataset.profileTabsBuilt = 'true';
 
-    // Restore last active tab from sessionStorage
+    // Restore last active tab from sessionStorage (skip empty tabs)
     var savedTab = null;
     try { savedTab = sessionStorage.getItem('dm-profile-tab'); } catch(e) {}
-    var initialTab = savedTab && cardsByTab[savedTab] ? savedTab : 'overview';
+    var initialTab = 'overview';
+    if (savedTab && cardsByTab[savedTab] && cardsByTab[savedTab].length > 0) {
+      initialTab = savedTab;
+    } else if ((cardsByTab['overview'] || []).length === 0) {
+      // fall through to first populated tab
+      for (var ti = 0; ti < tabs.length; ti++) {
+        if ((cardsByTab[tabs[ti].id] || []).length > 0) { initialTab = tabs[ti].id; break; }
+      }
+    }
     activateTab(initialTab);
 
     // Toggle between tabs and accordion based on viewport
@@ -195,21 +215,16 @@ nav.profile-tabs {
 }
 .profile-tab-btn.profile-tab-empty {
   color: #4a4a54;
+  cursor: not-allowed;
 }
 .profile-tab-btn.profile-tab-empty:hover {
-  color: #7a7a86;
+  color: #4a4a54;
+  background: transparent;
 }
 
 /* Hidden section cards */
 .profile-section-card.profile-tab-hidden {
   display: none;
-}
-
-/* Empty tab placeholder */
-.profile-tab-placeholder .profile-tab-empty-msg {
-  color: #7a7a86;
-  font-style: italic;
-  font-size: 14px;
 }
 
 /* Accordion mode on mobile: show everything, hide tab nav */
@@ -219,9 +234,6 @@ article.profile-mode-accordion nav.profile-tabs {
 article.profile-mode-accordion .profile-section-card.profile-tab-hidden {
   display: block;
 }
-article.profile-mode-accordion .profile-section-card.profile-tab-placeholder {
-  display: none;
-}
 
 @media (max-width: 800px) {
   nav.profile-tabs {
@@ -229,9 +241,6 @@ article.profile-mode-accordion .profile-section-card.profile-tab-placeholder {
   }
   .profile-section-card.profile-tab-hidden {
     display: block;
-  }
-  .profile-tab-placeholder {
-    display: none;
   }
 }
 `

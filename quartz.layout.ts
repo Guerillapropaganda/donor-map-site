@@ -1,6 +1,12 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// Treat politician/donor master profiles as "profile pages" (get ProfileHeader + ProfileTabs)
+const isProfilePage = (page: any): boolean => {
+  const type = String(page.fileData.frontmatter?.type ?? "")
+  return type === "politician" || type === "donor"
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -53,17 +59,11 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.ProfileHeader(),
-      condition: (page) => {
-        const slug = (page.fileData.slug ?? "").toLowerCase()
-        return slug.includes("master-profile")
-      },
+      condition: isProfilePage,
     }),
     Component.ConditionalRender({
       component: Component.ProfileTabs(),
-      condition: (page) => {
-        const slug = (page.fileData.slug ?? "").toLowerCase()
-        return slug.includes("master-profile")
-      },
+      condition: isProfilePage,
     }),
   ],
   left: [
@@ -105,10 +105,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.DesktopOnly(Component.TableOfContents()),
-      condition: (page) => {
-        const slug = (page.fileData.slug ?? "").toLowerCase()
-        return !slug.includes("master-profile")
-      },
+      condition: (page) => !isProfilePage(page),
     }),
     Component.DesktopOnly(Component.ProfileWidget()),
     Component.EventTimeline(),

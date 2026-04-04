@@ -5,11 +5,9 @@ const ProfileHeader: QuartzComponent = ({
   fileData,
   displayClass,
 }: QuartzComponentProps) => {
-  const slug = String(fileData.slug ?? "")
-  if (!slug.toLowerCase().includes("master-profile")) return null
-
   const fm = fileData.frontmatter
   const type = String(fm?.type ?? "unknown")
+  if (type !== "politician" && type !== "donor") return null
   const readiness = String(fm?.["content-readiness"] ?? "draft")
   const lastUpdated = String(fm?.["last-updated"] ?? "")
   const sourceTier = String(fm?.["source-tier"] ?? "")
@@ -30,7 +28,7 @@ const ProfileHeader: QuartzComponent = ({
   const svpJson = svp ? JSON.stringify(svp) : ""
 
   return (
-    <div class={classNames(displayClass, "ph-header")}>
+    <div class={classNames(displayClass, "ph-header")} data-profile-type={type}>
       <div class="ph-badges">
         <span class={`ph-badge ${typeClass}`}>{typeLabel.toUpperCase()}</span>
         {tierLabel && <span class="ph-badge ph-tier">{tierLabel}</span>}
@@ -55,9 +53,11 @@ function wrapProfileSections() {
   if (!article) return;
   if (article.dataset.sectionsWrapped === 'true') return;
 
-  // Only run on master profile pages
-  var slug = (document.body.dataset.slug || '').toLowerCase();
-  if (slug.indexOf('master-profile') === -1) return;
+  // Only run on profile pages (identified by data-profile-type on ph-header)
+  var phEl = document.querySelector('.ph-header[data-profile-type]');
+  if (!phEl) return;
+  var profileType = phEl.getAttribute('data-profile-type') || 'politician';
+  article.dataset.profileType = profileType;
 
   var children = Array.from(article.children);
   var currentCard = null;
@@ -79,8 +79,10 @@ function wrapProfileSections() {
 
       // Assign variant class based on heading text
       var text = (el.textContent || '').toLowerCase();
-      // Voting-related checks go first (more specific)
-      if (text.indexOf('vote') !== -1 || text.indexOf('voting record') !== -1 || text.indexOf('bills sponsored') !== -1 || text.indexOf('cosponsor') !== -1 || text.indexOf('legislation') !== -1 || text.indexOf('committee') !== -1 || text.indexOf('floor speech') !== -1) {
+      // Wins / policy outcomes (donors: "What They've Gotten"; check before contradiction)
+      if (text.indexOf('gotten') !== -1 || text.indexOf("what they've") !== -1 || text.indexOf('victor') !== -1 || text.indexOf('policy win') !== -1 || text.indexOf('what they got') !== -1) {
+        currentCard.classList.add('psc-wins');
+      } else if (text.indexOf('vote') !== -1 || text.indexOf('voting record') !== -1 || text.indexOf('bills sponsored') !== -1 || text.indexOf('cosponsor') !== -1 || text.indexOf('legislation') !== -1 || text.indexOf('committee') !== -1 || text.indexOf('floor speech') !== -1) {
         currentCard.classList.add('psc-voting');
       } else if (text.indexOf('contradiction') !== -1) {
         currentCard.classList.add('psc-contradiction');
@@ -116,13 +118,20 @@ function wrapProfileSections() {
         currentCard.classList.add('psc-contradiction');
       }
 
-      // Map variant class to tab bucket for ProfileTabs
+      // Map variant class to tab bucket for ProfileTabs (type-aware)
       var variant = currentCard.className;
       var tab = 'overview';
-      if (variant.indexOf('psc-donors') !== -1 || variant.indexOf('psc-timeline') !== -1) tab = 'donors';
-      else if (variant.indexOf('psc-voting') !== -1) tab = 'voting';
-      else if (variant.indexOf('psc-contradiction') !== -1 || variant.indexOf('psc-patterns') !== -1) tab = 'analysis';
-      else if (variant.indexOf('psc-sources') !== -1) tab = 'sources';
+      if (profileType === 'donor') {
+        if (variant.indexOf('psc-donors') !== -1 || variant.indexOf('psc-timeline') !== -1) tab = 'recipients';
+        else if (variant.indexOf('psc-wins') !== -1 || variant.indexOf('psc-voting') !== -1) tab = 'wins';
+        else if (variant.indexOf('psc-contradiction') !== -1 || variant.indexOf('psc-patterns') !== -1) tab = 'analysis';
+        else if (variant.indexOf('psc-sources') !== -1) tab = 'sources';
+      } else {
+        if (variant.indexOf('psc-donors') !== -1 || variant.indexOf('psc-timeline') !== -1) tab = 'donors';
+        else if (variant.indexOf('psc-voting') !== -1 || variant.indexOf('psc-wins') !== -1) tab = 'voting';
+        else if (variant.indexOf('psc-contradiction') !== -1 || variant.indexOf('psc-patterns') !== -1) tab = 'analysis';
+        else if (variant.indexOf('psc-sources') !== -1) tab = 'sources';
+      }
       currentCard.dataset.tab = tab;
 
       currentCard.appendChild(el);
