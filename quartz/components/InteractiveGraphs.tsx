@@ -1618,7 +1618,7 @@ cleanFolderTitle();
 cleanListingNames();
 hideDataviewFields();
 enhanceTables();
-enhanceListings();
+// enhanceListings() replaced by server-side rendering in PageList.tsx
 enhanceContradictions();
 
 // Interactive tools only on interactive/* pages — NOT on profile pages
@@ -1634,7 +1634,6 @@ document.addEventListener('nav', function() {
     cleanListingNames();
     hideDataviewFields();
     enhanceTables();
-    enhanceListings();
     enhanceContradictions();
     var s = (document.body.getAttribute('data-slug') || '').toLowerCase();
     if (s.indexOf('interactive/') !== -1 || s === 'index') {

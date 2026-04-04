@@ -67,34 +67,97 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   return (
     <ul class="section-ul">
       {list.map((page) => {
-        const title = page.frontmatter?.title
-        const tags = page.frontmatter?.tags ?? []
+        const fm: any = page.frontmatter ?? {}
+        const rawTitle = String(fm.title ?? "")
+        const title = rawTitle.replace(/^_/, "").replace(/\s+Master\s+Profile\s*$/i, "").trim()
+        const tags = fm.tags ?? []
+
+        // Enrichment fields (present on ~most profiles via enrich-frontmatter)
+        const type = String(fm.type ?? "").toLowerCase()
+        const party = String(fm.party ?? "")
+        const chamber = String(fm.chamber ?? "")
+        const state = String(fm["state-abbr"] ?? fm.state ?? "")
+        const currentOffice = String(fm["current-office"] ?? "")
+        const sector = String(fm.sector ?? "")
+        const sourceTier = fm["source-tier"]
+        const readiness = String(fm["content-readiness"] ?? "").toLowerCase()
+
+        const partyKey = party.toLowerCase().startsWith("democrat")
+          ? "D"
+          : party.toLowerCase().startsWith("republican")
+          ? "R"
+          : party
+          ? "I"
+          : ""
+
+        // Build the inline meta line (skip if nothing to say)
+        const metaBits: string[] = []
+        if (currentOffice) metaBits.push(currentOffice)
+        if (chamber && chamber !== currentOffice) metaBits.push(chamber)
+        if (state) metaBits.push(state)
+        if (type === "donor" || type === "corporation") {
+          if (sector) metaBits.push(sector)
+        }
 
         return (
-          <li class="section-li">
+          <li class="section-li" data-profile-type={type || undefined}>
             <div class="section">
-              <p class="meta">
-                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-              </p>
+              {partyKey && (
+                <span
+                  class={`listing-party-dot listing-party-${partyKey.toLowerCase()}`}
+                  title={party}
+                  aria-label={party}
+                ></span>
+              )}
+              {(type === "donor" || type === "corporation") && (
+                <span class="listing-party-dot listing-party-donor" title="Donor" aria-label="Donor"></span>
+              )}
               <div class="desc">
                 <h3>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                     {title}
                   </a>
                 </h3>
+                {metaBits.length > 0 && (
+                  <p class="listing-meta-line">{metaBits.join(" · ")}</p>
+                )}
               </div>
-              <ul class="tags">
-                {tags.map((tag) => (
-                  <li>
-                    <a
-                      class="internal tag-link"
-                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                    >
-                      {tag}
-                    </a>
-                  </li>
-                ))}
-              </ul>
+              <div class="listing-chips">
+                {readiness && (
+                  <span
+                    class={`listing-ready listing-ready-${readiness}`}
+                    title={`Content readiness: ${readiness}`}
+                    aria-label={`Content readiness: ${readiness}`}
+                  ></span>
+                )}
+                {sourceTier && (
+                  <span
+                    class={`listing-tier listing-tier-${sourceTier}`}
+                    title={`Source tier ${sourceTier}`}
+                  >
+                    T{sourceTier}
+                  </span>
+                )}
+                {page.dates && (
+                  <span class="listing-date">
+                    <Date date={getDate(cfg, page)!} locale={cfg.locale} />
+                  </span>
+                )}
+              </div>
+              {tags.length > 0 && (
+                <ul class="tags">
+                  {tags.slice(0, 3).map((tag) => (
+                    <li>
+                      <a
+                        class="internal tag-link"
+                        href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                      >
+                        {tag}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              )}
             </div>
           </li>
         )
