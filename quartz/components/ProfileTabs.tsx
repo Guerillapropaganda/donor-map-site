@@ -30,6 +30,12 @@ ProfileTabs.afterDOMLoaded = `
     if (!article) return;
     if (article.dataset.profileTabsBuilt === 'true') return;
 
+    // Clear previously built tabs/placeholders
+    var oldNav = article.querySelector('nav.profile-tabs');
+    if (oldNav) oldNav.remove();
+    var oldPlaceholders = article.querySelectorAll('.profile-tab-placeholder');
+    oldPlaceholders.forEach(function(el) { el.remove(); });
+
     var cards = article.querySelectorAll('.profile-section-card');
     if (cards.length === 0) return;
 
@@ -213,7 +219,7 @@ article.profile-mode-accordion nav.profile-tabs {
 article.profile-mode-accordion .profile-section-card.profile-tab-hidden {
   display: block;
 }
-article.profile-mode-accordion .profile-tab-placeholder {
+article.profile-mode-accordion .profile-section-card.profile-tab-placeholder {
   display: none;
 }
 
