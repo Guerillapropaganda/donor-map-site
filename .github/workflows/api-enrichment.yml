@@ -59,6 +59,21 @@ jobs:
         run: |
           node scripts/propublica-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '50' }} 2>&1 || true
 
+      - name: Run LDA Lobbying Enrichment
+        if: ${{ github.event.inputs.pipeline == 'lda' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
+        run: |
+          node scripts/lda-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '25' }} 2>&1 || true
+
+      - name: Run USASpending Enrichment
+        if: ${{ github.event.inputs.pipeline == 'usaspending' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
+        run: |
+          node scripts/usaspending-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '25' }} 2>&1 || true
+
+      - name: Run GovTrack Enrichment
+        if: ${{ github.event.inputs.pipeline == 'govtrack' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
+        run: |
+          node scripts/govtrack-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '25' }} 2>&1 || true
+
       - name: Check for changes
         id: changes
         run: |
