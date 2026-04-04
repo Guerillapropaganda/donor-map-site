@@ -35,8 +35,14 @@ jobs:
       - name: Create .env from secrets
         run: |
           echo "FEC_API_KEY=${{ secrets.FECAPI }}" >> .env
-          echo "CONGRESS_API_KEY=${{ secrets.CONGRESS_API_KEY }}" >> .env
+          echo "CONGRESS_API_KEY=${{ secrets.CONGRESSAPI }}" >> .env
           echo "LDA_API_KEY=${{ secrets.LDAAPI }}" >> .env
+          echo "SAM_API_KEY=${{ secrets.SAMAPI }}" >> .env
+
+      - name: Run SAM.gov Contract Enrichment
+        if: ${{ github.event.inputs.pipeline == 'sam' || github.event.inputs.pipeline == 'all' || github.event.inputs.pipeline == '' }}
+        run: |
+          node scripts/sam-pipeline.cjs --write --limit=${{ github.event.inputs.limit || '25' }} 2>&1 || true
 
       - name: Run FEC Enrichment
         if: ${{ github.event.inputs.pipeline != 'congress' && github.event.inputs.pipeline != 'propublica' }}
