@@ -1519,15 +1519,54 @@ function cleanListingNames() {
   }
 }
 
-// Hide dataview inline fields (key:: value) on all pages
+// Hide dataview fields, tag hashtag lines, and inline wikilink refs
+// at the top of profile pages (preamble cleanup).
 function hideDataviewFields() {
   var article = document.querySelector('article');
   if (!article) return;
+  var slug = (document.body.getAttribute('data-slug') || '').toLowerCase();
+  var isProfile = slug.indexOf('master-profile') !== -1 ||
+                  slug.indexOf('politicians/') !== -1 ||
+                  slug.indexOf('donors--and--power-networks/') !== -1;
+
   var ps = article.querySelectorAll('p');
+  var wikilinkKeys = /^(related|donors?|politicians|party|state|chamber|sector|tags|aliases|issues|committees|top-donors|politicians-funded|entity-type):\s/i;
+
   for (var i = 0; i < ps.length; i++) {
-    var t = (ps[i].textContent || '').trim();
+    var p = ps[i];
+    var t = (p.textContent || '').trim();
+    // Double-colon dataview fields (key:: value)
     if (t.match(/[a-z-]+::\s/)) {
-      ps[i].style.display = 'none';
+      p.style.display = 'none';
+      continue;
+    }
+    // Only apply rest of cleanup to profile pages
+    if (!isProfile) continue;
+    // Hashtag clutter: paragraph is mostly tag-link anchors
+    // (quartz strips # and renders them as <a class="tag-link">)
+    var tagLinks = p.querySelectorAll('a.tag-link');
+    if (tagLinks.length >= 4) {
+      var allLinks = p.querySelectorAll('a');
+      if (tagLinks.length >= allLinks.length * 0.8) {
+        p.style.display = 'none';
+        continue;
+      }
+    }
+    // Inline wikilink refs (related: [[...]], donors: [[...]])
+    if (wikilinkKeys.test(t) && p.querySelectorAll('a').length >= 2) {
+      p.style.display = 'none';
+      continue;
+    }
+  }
+
+  // Also hide the adjacent --- separators that were around these blocks
+  var hrs = article.querySelectorAll('hr');
+  for (var j = 0; j < hrs.length - 1; j++) {
+    var hr = hrs[j];
+    var next = hr.nextElementSibling;
+    if (next && next.tagName === 'HR') {
+      hr.style.display = 'none';
+      next.style.display = 'none';
     }
   }
 }
