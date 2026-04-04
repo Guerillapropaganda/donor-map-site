@@ -8902,3 +8902,12 @@ New URLs verified via Chrome browser navigation during media-profile-builder run
 
 - VALID: https://en.wikipedia.org/wiki/All-In_(podcast) (200)
 - BROKEN: https://www.sourcewatch.org/index.php/Global_Climate_Science_Communications_Plan_(1998) (403)
+
+## DMFI URL Verification — 2026-04-03
+
+- VALID: https://en.wikipedia.org/wiki/Democratic_Majority_for_Israel (200) — Found in: DMFI - Democratic Majority for Israel.md
+- VALID: https://demmajorityforisrael.org/media/press-release/leading-democrats-launch-new-organization-to-promote-u-s-israel-relationship/ (200) — Found in: DMFI - Democratic Majority for Israel.md
+- VALID: https://dmfipac.org/news-updates/press-release/dmfi-pac-celebrates-pro-israel-democrats-primary-victories/ (200) — Found in: DMFI - Democratic Majority for Israel.md
+- VALID: https://readsludge.com/2024/04/16/aipac-tied-dmfi-raises-more-from-private-equity-execs/ (200) — Found in: DMFI - Democratic Majority for Israel.md
+- VALID: https://ryangrim.substack.com/p/the-story-of-how-aipac-and-dmfi-are (200) — Found in: DMFI - Democratic Majority for Israel.md
+- VALID: https://www.timesofisrael.com/pro-israel-groups-see-mixed-results-after-pouring-millions-into-democratic-primaries/ (200) — Found in: DMFI - Democratic Majority for Israel.md

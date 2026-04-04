@@ -2,7 +2,7 @@
 title: "Diff Log"
 type: reference
 content-readiness: ready
-last-updated: 2026-04-02
+last-updated: 2026-04-03
 source-tier: null
 parent: null
 ---
@@ -90,6 +90,15 @@ Rolling log of vault file changes. Maximum 50 entries — oldest entries archive
 | 2026-04-02 | CONNECTION MAPPING | _Jamaal Bowman Master Profile.md | Added `[[NORPAC]]` to `related:` — NORPAC bundled $53.4K to Latimer in Bowman primary defeat | 1 line | ready (no change) |
 | 2026-04-02 | CONNECTION MAPPING | Ritchie Torres.md | Added `[[NORPAC]]` to `donors:` — top NORPAC recipient $136K 2024 cycle | 1 line | ready (no change) |
 | 2026-04-02 | VALIDATION | NORPAC.md | FULL VALIDATION — 12/12 source URLs Chrome-verified VALID. Content gates pass (153 lines, 12 sources, 8 sections, class analysis present, timeline Format 2 w/ 8 rows, 2 [!money] callouts). All wikilinks resolve. YAML/footer match. **Promoted developed → ready.** | 2 lines | developed → ready |
+| 2026-04-03 | STRUCTURING | (9 files scanned) | Scanned all files modified since last STRUCTURING (2026-04-01): NORPAC.md, 2026-04-02 Story Discovery.md, DMFI.md, + 6 CONNECTION MAPPING single-line edits. **1 error found:** DMFI YAML `content-readiness: ready` mismatched footer `content-readiness:: developed` — corrected YAML to `developed`. All other files clean: zero YAML errors, zero header violations, zero wikilink issues. | 1 line | DMFI: ready → developed (YAML correction to match footer) |
+| 2026-04-03 | STORY | 2026-04-03 Story Discovery.md | CREATED — 6 items (2 Gold new: AIPAC Illinois $22M reckoning + counter-PAC emergence, Fago pardon-donation pipeline $1M→20 days; 2 Gold updates: AI super PAC LTF $125M, tariff exemptions ProPublica; 1 Silver update: crypto $271M midterm; 1 Silver new: SCOTUS contribution limits case). 1 Crossover flag: a16z dual-PAC kingmaker (Fairshake + LTF). Chrome unavailable — all URLs UNVERIFIED. Sub-Op 2 skipped (no adapt queue). | new file ~250 lines | new file |
+| 2026-04-03 | STORY | 2026-04-03 Follow the Money Weekly.md | CREATED — Weekly roundup compiling March 31–April 3 findings. 5 sections: AIPAC Illinois losses, pardon-donation pipeline, tariff exemptions, dual AI/crypto super PACs, week-in-numbers table. Output to Guerilla Propaganda/Substack Ready/. All URLs UNVERIFIED. | new file ~200 lines | new file |
+| 2026-04-03 | NODE BUILD | Wall Street Finance Networks.md | EXPANDED — raw stub (24 lines) to full donor node. Added: Who They Are (industry totals $1.88B 2024 cycle, 4-channel infrastructure), What They Want (deregulation, tax preservation, bailout, personnel), Who They Fund (top recipients table), Donation-to-Policy Timeline (Format 2, 7 rows 1998–2024), Class Analysis (Both-Sides Illusion, revolving door, too-big-to-fail leverage), 2 [!money] callouts, 1 [!contradiction] callout. 3 sources (2 Tier 1 OpenSecrets Chrome-verified, 2 URL NEEDED). FEC API rate-limited on DEMO_KEY — PAC-level queries failed, used OpenSecrets aggregates instead. ~95 lines added. | 24 → ~120 | raw → draft |
+| 2026-04-03 | VALIDATION | DMFI - Democratic Majority for Israel.md | URL REPAIR — Chrome-verified 6 (UNVERIFIED) URLs: Wikipedia DMFI, demmajorityforisrael.org founding press release, dmfipac.org 2024 victories, Sludge AIPAC-tied DMFI, Ryan Grim Substack, Times of Israel mixed results. All VALID. Removed (UNVERIFIED) tags. Logged to Source URL Audit Log. | 6 lines | developed (unblocked for promotion) |
+| 2026-04-03 | CONNECTION MAPPING | _Cori Bush Master Profile.md | Added reciprocal `[[DMFI - Democratic Majority for Israel\|DMFI]]` to `related:` — DMFI spent ~$500K against Bush 2024 primary | 1 line | draft (no change) |
+| 2026-04-03 | CONNECTION MAPPING | Reid Hoffman.md | Added reciprocal `[[DMFI - Democratic Majority for Israel\|DMFI]]` to `related:` — Hoffman funded Mainstream Democrats PAC (DMFI pipeline) | 1 line | ready (no change) |
+| 2026-04-03 | CONNECTION MAPPING | DMFI - Democratic Majority for Israel.md | Added `[[_Cori Bush Master Profile\|Cori Bush]]` + `[[Reid Hoffman]]` to `related:` | 1 line | developed (no change) |
+| 2026-04-03 | VALIDATION | DMFI - Democratic Majority for Israel.md | FULL VALIDATION — 10/10 source URLs Chrome-verified VALID. Content gates pass (191 lines, 10 sources, 10 sections, class analysis present, timeline Format 2 w/ 8 rows, 2 [!money] callouts, 1 [!contradiction] callout). Fixed malformed wikilink-in-tag (line 21: `#[[AIPAC...]]` → `#aipac`). All wikilinks resolve. YAML/footer match. **Promoted developed → ready.** | 4 lines | developed → ready |
 
 ---
 

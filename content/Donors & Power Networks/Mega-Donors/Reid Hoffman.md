@@ -15,7 +15,7 @@ issues:
 
 #donor #billionaire #democratic #tech #linkedin #wisconsin
 
-related: [[_Gavin Newsom Master Profile]] [[Democratic Party Infrastructure]] Wisconsin Democratic Party Tech Industry Donors Greylock Partners LinkedIn 2026 Senate Elections
+related: [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[DMFI - Democratic Majority for Israel|DMFI]] · Wisconsin Democratic Party · Tech Industry Donors · Greylock Partners · LinkedIn · 2026 Senate Elections
 
 ---
 

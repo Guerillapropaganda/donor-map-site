@@ -14,7 +14,7 @@ district: "1"
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money
 
-related: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Justice Democrats]]
+related: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Justice Democrats]] · [[DMFI - Democratic Majority for Israel|DMFI]]
 
 ---
 

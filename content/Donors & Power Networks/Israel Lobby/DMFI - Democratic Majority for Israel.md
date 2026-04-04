@@ -2,7 +2,7 @@
 title: "DMFI - Democratic Majority for Israel"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-03
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -18,9 +18,9 @@ issues:
 ---
 
 
-#donor #israel #DMFI #pro-israel #national #super-pac #democratic-primary #follow-the-money #class-analysis #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #progressive-opposition
+#donor #israel #DMFI #pro-israel #national #super-pac #democratic-primary #follow-the-money #class-analysis #aipac #progressive-opposition
 
-related: [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[United Democracy Project - UDP|UDP]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[NORPAC]]
+related: [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[United Democracy Project - UDP|UDP]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[NORPAC]] · [[_Cori Bush Master Profile|Cori Bush]] · [[Reid Hoffman]]
 
 ---
 
@@ -176,16 +176,16 @@ For the vault's framework: DMFI is the Israel lobby's version of what the Koch n
 
 ### Sources
 
-- [Wikipedia: Democratic Majority for Israel](https://en.wikipedia.org/wiki/Democratic_Majority_for_Israel) (UNVERIFIED) (Tier 3)
-- [DMFI: Press Release - Founding](https://demmajorityforisrael.org/media/press-release/leading-democrats-launch-new-organization-to-promote-u-s-israel-relationship/) (UNVERIFIED) (Tier 3)
-- [DMFI: Press Release - 2024 Primary Victories](https://dmfipac.org/news-updates/press-release/dmfi-pac-celebrates-pro-israel-democrats-primary-victories/) (UNVERIFIED) (Tier 3)
-- [Sludge: AIPAC-tied DMFI raises from private equity execs](https://readsludge.com/2024/04/16/aipac-tied-dmfi-raises-more-from-private-equity-execs/) (UNVERIFIED) (Tier 2)
-- [Ryan Grim: How AIPAC and DMFI reshape Democratic primaries](https://ryangrim.substack.com/p/the-story-of-how-aipac-and-dmfi-are) (UNVERIFIED) (Tier 2)
-- [Times of Israel: Pro-Israel groups mixed results in Democratic primaries](https://www.timesofisrael.com/pro-israel-groups-see-mixed-results-after-pouring-millions-into-democratic-primaries/) (UNVERIFIED) (Tier 2)
+- [Wikipedia: Democratic Majority for Israel](https://en.wikipedia.org/wiki/Democratic_Majority_for_Israel) (Tier 3)
+- [DMFI: Press Release - Founding](https://demmajorityforisrael.org/media/press-release/leading-democrats-launch-new-organization-to-promote-u-s-israel-relationship/) (Tier 3)
+- [DMFI: Press Release - 2024 Primary Victories](https://dmfipac.org/news-updates/press-release/dmfi-pac-celebrates-pro-israel-democrats-primary-victories/) (Tier 3)
+- [Sludge: AIPAC-tied DMFI raises from private equity execs](https://readsludge.com/2024/04/16/aipac-tied-dmfi-raises-more-from-private-equity-execs/) (Tier 2)
+- [Ryan Grim: How AIPAC and DMFI reshape Democratic primaries](https://ryangrim.substack.com/p/the-story-of-how-aipac-and-dmfi-are) (Tier 2)
+- [Times of Israel: Pro-Israel groups mixed results in Democratic primaries](https://www.timesofisrael.com/pro-israel-groups-see-mixed-results-after-pouring-millions-into-democratic-primaries/) (Tier 2)
 - [OpenSecrets: DMFI PAC (2024 cycle)](https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00710848/summary/2024) (Tier 1)
 - [OpenSecrets: United Democracy Project spending (2024)](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 1)
 - [OpenSecrets: Pro-Israel PACs 2024 primary spending analysis](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle) (Tier 2)
 - [Sludge: Here is all the money AIPAC spent on the 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
 
 research-status:: developed — Added founding details (Jan 29 2019, Mark Mellman, Ann Lewis, Todd Richman), leadership transitions (Brian Romick/Kathy Manning May 2025), key funders table ($995K Schusterman, $500K Lauder, Americans for Tomorrow's Future, private equity donors), 2020 Sanders attack ($1.4M), 2021 OH-11 Brown/Turner ($2M), 2022 spending table (7 races, 85% win rate), 2024 spending ($5M+, 98% win rate), AIPAC coordination section with contradiction callout on messaging vs. motivation. 10 sources, Tier 1-3. New URLs marked UNVERIFIED. All ### headers. April 1 2026: Added ### What They Want (5 policy goals) + ### Donation-to-Policy Timeline (Format 2, 8 rows, [!money] callout). No new sources — timeline constructed from data already cited in file. Chrome unavailable; no API calls executed.
-content-readiness:: developed
+content-readiness:: ready

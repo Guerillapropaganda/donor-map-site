@@ -403,6 +403,28 @@ Next priorities:
 
 ---
 
+### 2026-04-03 — Daily Summary
+
+| State | Files Modified | Key Changes |
+|-------|---------------|-------------|
+| STRUCTURING | DMFI.md (+ 8 others scanned) | 1 error found: DMFI YAML `ready` mismatched footer `developed` — corrected YAML to `developed`. All other files clean. |
+| NODE BUILD | Wall Street Finance Networks.md | Expanded raw stub (24 lines) to full donor node (~120 lines). Added Who They Are, What They Want, Who They Fund, Timeline (Format 2, 7 rows), Class Analysis. 3 sources (2 Tier 1 OpenSecrets). FEC API rate-limited — used OpenSecrets aggregates. raw → draft. |
+| STORY | 2026-04-03 Story Discovery.md, 2026-04-03 Follow the Money Weekly.md | Discovery: 6 items (2 Gold new: AIPAC IL $22M reckoning + Fago pardon-donation $1M→20 days; 2 Gold updates; 1 Silver update; 1 Silver new). Weekly roundup compiled (Friday). Chrome unavailable at story run — all URLs UNVERIFIED. |
+| CONNECTION MAPPING | 3 files | DMFI reciprocal links: Cori Bush Master Profile (related:), Reid Hoffman (related:), DMFI outgoing (added Bush + Hoffman). 4 reciprocal links added. |
+| VALIDATION | DMFI - Democratic Majority for Israel.md | URL REPAIR: 6 UNVERIFIED → VALID (Wikipedia, demmajorityforisrael.org, dmfipac.org, Sludge, Ryan Grim, Times of Israel). FULL VALIDATION: 10/10 URLs Chrome-verified. All gates pass (191 lines, 10 sources, 10 sections, class analysis, Format 2 timeline). Fixed malformed wikilink-in-tag. **Promoted developed → ready.** |
+
+**Chrome status:** Available for 3 PM VALIDATION run. NODE BUILD and STORY ran without Chrome (9 AM / 12 PM).
+
+Next priorities:
+- NAR type field review (flagged 2026-03-31: `corporation` may be incorrect → `donor`)
+- Wall Street Finance Networks.md — 2 URL NEEDED tags, unblocking draft → developed
+- Mercatus Center 35+ UNVERIFIED URLs (large batch — multi-session)
+- 2026-04-01 / 2026-04-02 / 2026-04-03 Story Discovery UNVERIFIED URL clearance
+- Eric Schmidt 11 UNVERIFIED URLs
+- Google - Alphabet 17 UNVERIFIED URLs
+
+---
+
 ### 2026-04-02 — Daily Summary
 
 | State | Files Modified | Key Changes |

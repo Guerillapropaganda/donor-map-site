@@ -1,5 +1,5 @@
 ---
-title: "Handoff — Cowork Vault Audit to Code Claude"
+title: "Handoff — Research Claude to Site Claude"
 type: reference
 content-readiness: ready
 last-updated: 2026-04-02
@@ -7,9 +7,13 @@ source-tier: null
 parent: null
 ---
 
-# Handoff: Cowork Session → Code Claude (April 2, 2026)
+# Handoff: Research Claude → Site Claude
 
-You (Code Claude) are working on the Quartz website at `C:\Users\third\donor-map-site`. The Obsidian vault that feeds it lives at `C:\Users\third\Documents\The Donor Map`. A separate Cowork session just completed a major vault maintenance pass on that same vault. This document tells you what changed so the site build stays in sync.
+This is the standing communication channel from **Research Claude** (vault/Obsidian) to **Site Claude** (Quartz website). Research Claude updates this file at the end of sessions that affect the site build. Site Claude reads it at the start of every session.
+
+- **Site repo:** `C:\Users\third\donor-map-site` (branch `v4`)
+- **Vault root:** `C:\Users\third\Documents\Obsidian Vaults\topics` (symlinked to `content/`)
+- **Reverse channel:** Site Claude writes to `content/Changelog.md` — Research Claude reads that to see what was built
 
 ---
 
