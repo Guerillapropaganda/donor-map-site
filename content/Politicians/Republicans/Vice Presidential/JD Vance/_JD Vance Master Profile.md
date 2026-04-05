@@ -6,7 +6,7 @@ last-updated: 2026-03-23
 source-tier: 1
 parent: null
 party: "Republican"
-chamber: "Presidential"
+chamber: "Vice Presidential"
 top-donors:
   - "The Thiel Pipeline - From Yale to VP"
   - "Narya Capital and the Venture Capital Pipeline"
