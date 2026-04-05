@@ -168,6 +168,18 @@ node scripts/research-report.cjs        # 5. Generate unified report
 - `research-report.json/.md` — unified intelligence report with action items
 - `*-cache.json` — persistent cache (candidate IDs, URL status, data freshness)
 
+### Vault-synced reports (for Research Claude)
+Every pipeline markdown report is auto-copied into the vault at
+`content/Vault Maintenance/Pipeline Reports/` with a timestamp header,
+so Research Claude can read the latest pipeline output during cowork
+sessions without needing access to the engine. This folder is gitignored.
+
+The sync happens automatically inside `shared.cjs > writeMarkdown()`.
+To backfill or manually refresh from an existing reports dir:
+```bash
+node scripts/sync-reports-to-vault.cjs --reports-dir=C:/Users/third/donor-map-site/reports
+```
+
 ## Build & Deploy
 ```bash
 cd /c/Users/third/donor-map-site
