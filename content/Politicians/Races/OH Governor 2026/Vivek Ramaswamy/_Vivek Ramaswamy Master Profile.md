@@ -6,7 +6,8 @@ last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Republican"
-chamber: "Cabinet"
+chamber: "Candidate"
+running-for: "OH Governor 2026"
 state: "Ohio"
 state-abbr: "OH"
 issues:
