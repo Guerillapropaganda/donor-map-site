@@ -6,7 +6,7 @@ last-updated: 2026-03-23
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "Presidential"
+chamber: "Vice Presidential"
 state: "California"
 state-abbr: "CA"
 issues:

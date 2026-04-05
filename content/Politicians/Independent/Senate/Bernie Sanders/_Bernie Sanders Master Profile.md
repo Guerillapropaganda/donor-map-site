@@ -6,7 +6,7 @@ last-updated: 2026-03-23
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "Presidential"
+chamber: "Senate"
 state: "Vermont"
 state-abbr: "VT"
 issues:

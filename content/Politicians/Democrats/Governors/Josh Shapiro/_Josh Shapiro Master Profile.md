@@ -6,7 +6,7 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "Presidential"
+chamber: "Governor"
 state: "Pennsylvania"
 state-abbr: "PA"
 issues:

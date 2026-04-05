@@ -6,7 +6,7 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Republican"
-chamber: "Presidential"
+chamber: "Governor"
 state: "South Carolina"
 state-abbr: "SC"
 issues:
