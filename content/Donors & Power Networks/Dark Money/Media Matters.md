@@ -2,7 +2,7 @@
 title: "Media Matters"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -14,7 +14,6 @@ ein: 844239468
 annual-revenue: "$2K"
 net-assets: "$1K"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #media-matters #dark-money #progressive #media-watchdog #democracy-alliance #Elon-Musk-lawsuit #infrastructure

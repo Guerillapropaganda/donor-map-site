@@ -2,7 +2,7 @@
 title: "Lockheed Martin"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -17,7 +17,6 @@ ein: 946107683
 annual-revenue: "$137K"
 net-assets: "$74K"
 tax-year: "2014"
-last-updated: 2026-04-05
 ---
 
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door

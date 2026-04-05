@@ -2,7 +2,7 @@
 title: "California Charter Schools Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Education"
@@ -15,7 +15,6 @@ ein: 510465703
 annual-revenue: "$12.9M"
 net-assets: "$34.1M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 

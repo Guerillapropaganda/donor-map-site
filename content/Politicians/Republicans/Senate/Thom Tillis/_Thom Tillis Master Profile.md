@@ -2,7 +2,7 @@
 title: "Thom Tillis Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 party: "Republican"
@@ -20,7 +20,6 @@ bills-sponsored: 53
 bills-cosponsored: 318
 website: "https://www.tillis.senate.gov"
 phone: "202-224-6342"
-last-updated: 2026-04-05
 ---
 
 

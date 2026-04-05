@@ -2,7 +2,7 @@
 title: "Aramark"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-04
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -11,7 +11,6 @@ ein: 276727955
 annual-revenue: "$1.8M"
 net-assets: "$1.2M"
 tax-year: "2023"
-last-updated: 2026-04-04
 ---
 
 

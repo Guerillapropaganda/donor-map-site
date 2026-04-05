@@ -2,7 +2,7 @@
 title: "National Rental Home Council"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -13,7 +13,6 @@ ein: 474822520
 annual-revenue: "$3.3M"
 net-assets: "$977K"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #donor #real-estate #housing #trade-association #institutional-landlords #revolving-door #class-analysis #follow-the-money

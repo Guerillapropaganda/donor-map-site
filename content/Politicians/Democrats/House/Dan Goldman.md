@@ -2,7 +2,7 @@
 title: "Dan Goldman"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 govtrack-id: 456923
@@ -10,7 +10,6 @@ bills-sponsored: 32
 bills-cosponsored: 568
 website: "https://goldman.house.gov"
 phone: "202-225-7944"
-last-updated: 2026-04-05
 ---
 
 #dan-goldman #house #new-york #levi-strauss-heir #impeachment-lawyer #israel-hawk #class-analysis #inherited-wealth #democrat

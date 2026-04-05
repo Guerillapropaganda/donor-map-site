@@ -2,7 +2,7 @@
 title: "Barack Obama Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -24,7 +24,7 @@ top-donors:
 
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 
-related: [[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Google]] · [[Apple]] · [[Tim Geithner]] · [[Larry Summers]] · Gene Sperling · [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth Group - Optum]] · [[Democracy Alliance]] · [[Organizing for Action]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]]
+related: [[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Google]] · [[Apple]] · [[Tim Geithner]] · [[Larry Summers]] · Gene Sperling · [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth Group - Optum]] · [[Democracy Alliance]] · [[Organizing for Action]] · [[Barack Obama Donor Network - The Full Map]] · [[Barack Obama Executive Orders Timeline]] · [[Term 1 vs Term 2 - Obama Comparison]] · [[The Deportation Machine - Obama to Biden and the Apparatus Trump Inherited]] · [[DACA and the Limits of Executive Action]] · [[Dodd-Frank and the Wall Street Bailout]] · [[ACA and the Insurance Industry Negotiation]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]]
 
 donors: [[Goldman Sachs]], Silicon Valley Tech Sector, [[Insurance Industry]], [[Pharmaceutical Industry]], [[JPMorgan Chase]], [[Google]], [[Apple]]
 
@@ -237,3 +237,4 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 
 profile-status:: ready
 content-readiness:: ready
+ 

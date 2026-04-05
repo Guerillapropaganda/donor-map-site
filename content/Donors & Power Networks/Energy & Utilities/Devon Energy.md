@@ -2,7 +2,7 @@
 title: "Devon Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -17,10 +17,8 @@ ein: 365040938
 annual-revenue: "$1"
 net-assets: "$1"
 tax-year: "2023"
-last-updated: 2026-04-05
 lobbying-spend: 810000
 lobbying-filings: 18
-last-updated: 2026-04-05
 ---
 
 #devon #energy #oklahoma #shale #fracking #permian #oil-gas

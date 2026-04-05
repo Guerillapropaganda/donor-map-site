@@ -2,7 +2,7 @@
 title: "Northrop Grumman"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -12,12 +12,10 @@ politicians-funded:
 issues:
   - "Defense & Military"
 federal-contracts: "94260"
-last-updated: 2026-04-05
 ein: 956095343
 annual-revenue: "$15.1M"
 net-assets: "$31.0M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 

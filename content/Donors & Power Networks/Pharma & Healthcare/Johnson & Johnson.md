@@ -2,7 +2,7 @@
 title: "Johnson & Johnson"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -13,7 +13,6 @@ ein: 760552018
 annual-revenue: "$477K"
 net-assets: "$1.3M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing

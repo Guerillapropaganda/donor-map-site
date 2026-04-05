@@ -2,7 +2,7 @@
 title: "PG&E"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -13,7 +13,6 @@ ein: 943358729
 annual-revenue: "$23.4M"
 net-assets: "$99.5M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 

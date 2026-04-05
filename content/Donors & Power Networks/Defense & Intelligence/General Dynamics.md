@@ -2,7 +2,7 @@
 title: "General Dynamics"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -16,7 +16,6 @@ ein: 382421395
 annual-revenue: "$207K"
 net-assets: "$11K"
 tax-year: "2019"
-last-updated: 2026-04-05
 ---
 
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial

@@ -2,7 +2,7 @@
 title: "American Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-04
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -18,7 +18,6 @@ ein: 360725160
 annual-revenue: "$37.3M"
 net-assets: "$108.4M"
 tax-year: "2023"
-last-updated: 2026-04-04
 ---
 
 

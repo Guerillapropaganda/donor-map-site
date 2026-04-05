@@ -28,6 +28,21 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 - `continue-on-error: true` on each pipeline step so one timeout doesn't block the commit step
 - Recent runs: 37/43/37 profiles enriched across scheduled runs
 
+### Enrichment Integration — Log + Conflict Handling (engine commit `c9e94d2`)
+Fixes the "bot writes surprise Research Claude" problem. Two new engine lib helpers wired into all 7 pipelines (fec, lda, congress, propublica, sam, usaspending, govtrack):
+
+- **`scripts/lib/enrichment-log.cjs`** — every run appends a dated section to `Vault Maintenance/Auto-Enrichment Log.md`, grouped by pipeline, listing each profile touched with a one-line summary ("2024 raised $5M", "$1.9M spend, 51 filings", etc.). 30-day rolling window, auto-pruned on every write.
+- **`scripts/lib/enrichment-markers.cjs`** — hashes the body of every `<!-- auto:* -->` block when written. On the next run:
+  - Block unchanged from stored hash → overwrite with fresh data (status: `updated`)
+  - Block edited by a human → leave it alone, park fresh data in a `<!-- auto:* pending-merge -->` block directly below with an `[!attention]` callout (status: `parked`, conflict: true)
+- **Richer commit messages** — the GitHub Action now writes commits like `API enrichment: 37 files (fec:12 lda:8 sam:5 …)` with a body listing per-pipeline counts, any parked-merge count, and the file list. This makes `git log` on the vault a scannable activity feed.
+
+**Research Claude — new workflow:**
+1. Skim `Vault Maintenance/Auto-Enrichment Log.md` at the top of each session to see what fresh data landed.
+2. When you edit a bot-written auto-block (rewording, adding analysis), the bot will detect your edit next run and park fresh data in a `pending-merge` block below instead of clobbering you. Your job: fold in whatever's useful from the parked block, then delete the `<!-- auto:* pending-merge ... -->` block. Once removed, the bot treats the current version as the new baseline on its next run.
+3. Prompt to kick this off (paste into a fresh Research Claude session):
+   > New enrichment integration landed in the engine (commit `c9e94d2`). Two things are now live: (1) `Vault Maintenance/Auto-Enrichment Log.md` — bot-written, rolling 30 days, grouped by pipeline, read this at session start to see what API data just landed. (2) Auto-blocks (`<!-- auto:lda-lobbying start -->`, `<!-- auto:propublica-990 start -->`, etc.) are now hash-guarded. When you rewrite one, the next bot run parks fresh data in a `pending-merge` block below your version. Fold in what's useful, then delete the `pending-merge` block to accept your version as the new baseline. Read `content/Vault Maintenance/Auto-Enrichment Log.md` (once the first bot run populates it) and confirm you understand the new flow.
+
 ---
 
 ## 2026-04-04

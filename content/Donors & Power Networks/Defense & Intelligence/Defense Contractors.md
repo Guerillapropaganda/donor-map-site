@@ -2,7 +2,7 @@
 title: "Defense Contractors"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -11,7 +11,6 @@ ein: 20654518
 annual-revenue: "$1.3M"
 net-assets: "$2.2M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #defense-contractors #military-industrial #bipartisan #ndaa #revolving-door #lobbying #class-analysis #follow-the-money

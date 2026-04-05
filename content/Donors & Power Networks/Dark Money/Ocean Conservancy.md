@@ -2,7 +2,7 @@
 title: "Ocean Conservancy"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-05
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -12,7 +12,6 @@ issues:
   - "Dark Money & Campaign Finance"
 lobbying-spend: 5725200
 lobbying-filings: 86
-last-updated: 2026-04-05
 ---
 
 #ocean-conservancy #environment #nonprofit #conservation #fishing #plastics #dark-money #corporate-capture #greenwashing

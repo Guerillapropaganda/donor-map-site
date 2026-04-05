@@ -2,7 +2,7 @@
 title: "UnitedHealth Group - Optum"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -11,7 +11,6 @@ politicians-funded:
   - "Gavin Newsom"
 lobbying-spend: 25055000
 lobbying-filings: 55
-last-updated: 2026-04-05
 ---
 
 

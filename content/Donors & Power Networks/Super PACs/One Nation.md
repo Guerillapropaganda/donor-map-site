@@ -2,7 +2,7 @@
 title: "One Nation"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -13,7 +13,6 @@ ein: 271937961
 annual-revenue: "$66.8M"
 net-assets: "$60.8M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #one-nation #mcconnell #dark-money #501c4 #senate-races #donor-secrecy

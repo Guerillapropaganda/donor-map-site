@@ -2,7 +2,7 @@
 title: "Carlyle Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -16,7 +16,6 @@ ein: 850703768
 annual-revenue: "$62.1M"
 net-assets: "$8.9M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #carlyle-group #private-equity #wall-street #defense #revolving-door #bipartisan #carried-interest #lobbying

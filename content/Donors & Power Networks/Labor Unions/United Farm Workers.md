@@ -2,7 +2,7 @@
 title: "United Farm Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -15,7 +15,6 @@ ein: 941448579
 annual-revenue: "$7.6M"
 net-assets: "$5.7M"
 tax-year: "2020"
-last-updated: 2026-04-05
 ---
 
 #ufw #farmworkers #labor #cesar-chavez #agriculture #immigration #california

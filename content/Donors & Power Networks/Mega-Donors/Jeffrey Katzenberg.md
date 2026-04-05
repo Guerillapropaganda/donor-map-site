@@ -2,7 +2,7 @@
 title: "Jeffrey Katzenberg"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -15,7 +15,6 @@ ein: 954513461
 annual-revenue: "$922K"
 net-assets: "$10.7M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #donor #mega-donor #hollywood #democratic #bundler #dreamworks #wndrco #entertainment #class-analysis #follow-the-money

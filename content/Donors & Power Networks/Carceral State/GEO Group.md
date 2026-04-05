@@ -2,7 +2,7 @@
 title: "GEO Group - Private Prison Industrial Complex"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-05
 source-tier: 2
 parent: null
 sector: "Carceral State"
@@ -14,7 +14,6 @@ politicians-funded:
   - "Marco Rubio"
   - "Pam Bondi"
 federal-contracts: "959292"
-last-updated: 2026-04-05
 ---
 
 #donor #private-prison #immigration-detention #GEO-group #ICE #for-profit-detention #republican-donor #trump #class-analysis #follow-the-money #revolving-door #carceral-state #detention-expansion #ankle-monitor #bi-incorporated #electronic-monitoring #e-carceration #pam-bondi #sedition-caucus #forced-labor #racial-disparity

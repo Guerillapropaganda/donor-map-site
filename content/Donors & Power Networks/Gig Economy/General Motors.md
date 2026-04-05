@@ -2,7 +2,7 @@
 title: "General Motors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -13,7 +13,6 @@ politicians-funded:
 federal-awards-total: 615175233
 federal-contracts-count: 25
 federal-grants-count: 20
-last-updated: 2026-04-05
 ---
 
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw

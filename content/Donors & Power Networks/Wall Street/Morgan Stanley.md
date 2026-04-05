@@ -2,7 +2,7 @@
 title: "Morgan Stanley"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -15,7 +15,6 @@ ein: 136155650
 annual-revenue: "$1.0M"
 net-assets: "$18.6M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying

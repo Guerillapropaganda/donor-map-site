@@ -2,7 +2,7 @@
 title: "Bradley Impact Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,7 +13,6 @@ ein: 454678325
 annual-revenue: "$90.7M"
 net-assets: "$159.3M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #bradley #impact-fund #dark-money #conservative #donor-advised #philanthropy

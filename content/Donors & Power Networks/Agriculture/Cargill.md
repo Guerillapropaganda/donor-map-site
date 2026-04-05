@@ -2,7 +2,7 @@
 title: "Cargill"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-04
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -14,7 +14,6 @@ ein: 416020221
 annual-revenue: "$2.5M"
 net-assets: "$255.2M"
 tax-year: "2023"
-last-updated: 2026-04-04
 ---
 
 #cargill #agriculture #commodities #grain #trade #private #family

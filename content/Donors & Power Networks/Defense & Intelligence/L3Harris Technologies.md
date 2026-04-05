@@ -2,7 +2,7 @@
 title: "L3Harris Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -14,7 +14,6 @@ issues:
 federal-awards-total: 5907320427
 federal-contracts-count: 25
 federal-grants-count: 2
-last-updated: 2026-04-05
 ---
 
 

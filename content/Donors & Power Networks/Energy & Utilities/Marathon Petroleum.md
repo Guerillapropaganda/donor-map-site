@@ -2,7 +2,7 @@
 title: "Marathon Petroleum"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-05
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -16,7 +16,6 @@ ein: 464439930
 annual-revenue: "$5.1M"
 net-assets: "$13.4M"
 tax-year: "2020"
-last-updated: 2026-04-05
 ---
 
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned

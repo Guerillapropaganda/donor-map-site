@@ -2,14 +2,13 @@
 title: "InfluenceMap"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-05
 source-tier: 2
 parent: null
 ein: 852619691
 annual-revenue: "$596K"
 net-assets: "$90K"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #think-tank #climate #accountability #non-partisan #data-driven #corporate-influence #class-analysis #follow-the-money

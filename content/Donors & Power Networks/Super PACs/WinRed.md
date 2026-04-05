@@ -2,7 +2,7 @@
 title: "WinRed"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -13,7 +13,6 @@ ein: 451839927
 annual-revenue: "$44K"
 net-assets: "$41K"
 tax-year: "2016"
-last-updated: 2026-04-05
 ---
 
 #winred #republican #fundraising #small-dollar #dark-patterns #online

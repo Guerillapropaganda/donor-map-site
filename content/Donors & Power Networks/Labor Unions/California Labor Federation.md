@@ -2,7 +2,7 @@
 title: "California Labor Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -16,7 +16,6 @@ ein: 940362030
 annual-revenue: "$10.3M"
 net-assets: "$19.5M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 

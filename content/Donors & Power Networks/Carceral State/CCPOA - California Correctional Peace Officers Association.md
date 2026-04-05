@@ -2,7 +2,7 @@
 title: "CCPOA - California Correctional Peace Officers Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -10,7 +10,6 @@ entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
 federal-contracts: "172495"
-last-updated: 2026-04-05
 ---
 
 

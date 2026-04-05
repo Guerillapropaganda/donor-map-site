@@ -62,6 +62,13 @@ export const defaultContentPageLayout: PageLayout = {
       condition: isProfilePage,
     }),
     Component.ConditionalRender({
+      component: Component.PartySplitMeter(),
+      condition: (page) => {
+        const type = String(page.fileData.frontmatter?.type ?? "")
+        return type === "donor" || type === "corporation"
+      },
+    }),
+    Component.ConditionalRender({
       component: Component.ProfileTabs(),
       condition: isProfilePage,
     }),

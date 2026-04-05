@@ -2,7 +2,7 @@
 title: "California Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-04
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -15,7 +15,6 @@ ein: 940357610
 annual-revenue: "$12.9M"
 net-assets: "$73.5M"
 tax-year: "2023"
-last-updated: 2026-04-04
 ---
 
 

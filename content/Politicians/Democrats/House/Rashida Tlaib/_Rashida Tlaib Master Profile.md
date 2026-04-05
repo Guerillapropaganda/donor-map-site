@@ -2,7 +2,7 @@
 title: "Rashida Tlaib"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -17,7 +17,6 @@ bills-sponsored: 32
 bills-cosponsored: 871
 website: "https://tlaib.house.gov"
 phone: "202-225-5126"
-last-updated: 2026-04-05
 ---
 
 #tlaib #michigan #progressive #squad #palestine #oversight #dearborn #detroit #dsa #small-dollar #censure #environmental-justice

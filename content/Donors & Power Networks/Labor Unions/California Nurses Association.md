@@ -2,7 +2,7 @@
 title: "California Nurses Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -16,7 +16,6 @@ ein: 940362060
 annual-revenue: "$157.8M"
 net-assets: "$464.3M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #cna #nurses #union #california #single-payer #healthcare #progressive #labor

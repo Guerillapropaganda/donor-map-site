@@ -2,7 +2,7 @@
 title: "Western Growers Association"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -15,7 +15,6 @@ ein: 751972150
 annual-revenue: "$236K"
 net-assets: "$849K"
 tax-year: "2023"
-last-updated: 2026-04-04
 total-political-spend: "$481,034"
 ---
 

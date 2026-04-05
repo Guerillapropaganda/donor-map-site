@@ -2,7 +2,7 @@
 title: "Tech Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -14,7 +14,6 @@ ein: 954538000
 annual-revenue: "$249K"
 net-assets: "$131K"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #tech #industry #lobbying #section-230 #antitrust #ai #privacy #bipartisan

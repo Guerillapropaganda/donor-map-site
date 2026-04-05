@@ -2,7 +2,7 @@
 title: "Business Roundtable"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,7 +13,6 @@ issues:
   - "Labor & Workers"
 lobbying-spend: 4861010
 lobbying-filings: 104
-last-updated: 2026-04-05
 ---
 
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor

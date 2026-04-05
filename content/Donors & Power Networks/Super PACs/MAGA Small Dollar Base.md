@@ -2,7 +2,7 @@
 title: "MAGA Small Dollar Base"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -10,7 +10,6 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
 federal-contracts: "19626"
-last-updated: 2026-04-05
 ---
 
 #maga #small-dollar #donors #trump #grassroots #winred #fundraising #recurring-donations #indictment-fundraising #class-analysis #follow-the-money

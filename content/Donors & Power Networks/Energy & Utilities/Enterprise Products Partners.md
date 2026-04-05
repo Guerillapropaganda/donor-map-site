@@ -2,7 +2,7 @@
 title: "Enterprise Products Partners"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -12,7 +12,6 @@ issues:
 federal-awards-total: 0
 federal-contracts-count: 0
 federal-grants-count: 2
-last-updated: 2026-04-05
 ---
 
 #donor #energy #midstream #fossil-fuel #pipeline #republican-lean #class-analysis #follow-the-money

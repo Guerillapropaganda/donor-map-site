@@ -2,13 +2,12 @@
 title: "Saudi Arabia - Kingdom Investment"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
 federal-contracts: "8213"
-last-updated: 2026-04-05
 ---
 
 #saudi-arabia #foreign #oil #arms-sales #mbs #pif #lobbying #khashoggi

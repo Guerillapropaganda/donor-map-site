@@ -2,7 +2,7 @@
 title: "Tyson Foods"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-04
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -17,7 +17,6 @@ ein: 476014039
 annual-revenue: "$1"
 net-assets: "$322K"
 tax-year: "2019"
-last-updated: 2026-04-04
 ---
 
 #tyson #agriculture #poultry #meatpacking #labor #arkansas #immigration

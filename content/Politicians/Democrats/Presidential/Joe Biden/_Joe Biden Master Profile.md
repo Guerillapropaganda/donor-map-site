@@ -2,7 +2,7 @@
 title: "Joe Biden Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -25,7 +25,7 @@ top-donors:
 
 #biden #master-profile #president #delaware #senate #class-analysis #follow-the-money #mbna #credit-card-industry #pharmaceutical-industry #wall-street #genuine-win-structural-limit
 
-related: [[_Barack Obama Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[MBNA Corporation]] · [[Pfizer]] · [[Moderna]] · [[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · Hunter Biden · [[Tim Geithner]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[The Defense Budget Pipeline - Record Peacetime Spending and Contractor Profits]] · [[The Student Loan Gambit - Promise Block and Political Credit]]
+related: [[_Barack Obama Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[MBNA Corporation]] · [[Pfizer]] · [[Moderna]] · [[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · Hunter Biden · [[Tim Geithner]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Joe Biden Donor Network - The Full Map]] · [[Joe Biden Executive Orders Timeline]] · [[IRA and Climate Donor Alignment]] · [[CHIPS Act and Silicon Valley]] · [[Student Loan Cancellation Theater]] · [[Afghanistan Withdrawal and the Military-Industrial Base]] · [[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[The Defense Budget Pipeline - Record Peacetime Spending and Contractor Profits]] · [[The Student Loan Gambit - Promise Block and Political Credit]]
 
 donors: [[MBNA Corporation]], [[Pharmaceutical Industry]], [[Goldman Sachs]], [[JPMorgan Chase]], [[Citigroup]], [[UnitedHealth Group - Optum]], [[Pfizer]], [[Moderna]]
 
@@ -226,3 +226,4 @@ Notably, Biden did not use the defense industry's record profits as a fulcrum to
 
 profile-status:: ready
 content-readiness:: ready
+ 

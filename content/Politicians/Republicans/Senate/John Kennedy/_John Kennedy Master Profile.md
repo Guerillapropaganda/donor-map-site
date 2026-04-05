@@ -2,7 +2,7 @@
 title: "John Kennedy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 party: "Republican"
@@ -21,7 +21,6 @@ top-donors:
 govtrack-id: 406274
 bills-sponsored: 0
 bills-cosponsored: 0
-last-updated: 2026-04-05
 ---
 
 #kennedy #louisiana #judiciary #energy #petrochemical #populist-brand #folksy #banking #cfpb #cancer-alley

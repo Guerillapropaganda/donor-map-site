@@ -2,7 +2,7 @@
 title: "New Venture Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,7 +13,6 @@ ein: 205806345
 annual-revenue: "$669.1M"
 net-assets: "$768.5M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #new-venture-fund #arabella #dark-money #liberal #501c3 #fiscal-sponsorship

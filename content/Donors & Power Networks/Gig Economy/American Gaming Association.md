@@ -2,7 +2,7 @@
 title: "American Gaming Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -11,7 +11,6 @@ ein: 931169142
 annual-revenue: "$17.4M"
 net-assets: "$30.6M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #gaming #gambling #casino #sports-betting #lobbying #addiction #deregulation #murphyvncaa #revolving-door #bipartisan #class-analysis #follow-the-money

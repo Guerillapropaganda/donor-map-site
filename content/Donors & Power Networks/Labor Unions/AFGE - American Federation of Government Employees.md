@@ -2,7 +2,7 @@
 title: "AFGE - American Federation of Government Employees"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -11,7 +11,6 @@ ein: 756085578
 annual-revenue: "$253K"
 net-assets: "$112K"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #AFGE #labor-union #federal-employees #government-workers #DOGE #Trump-layoffs #union-resistance

@@ -2,7 +2,7 @@
 title: "National Nurses United"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -13,7 +13,6 @@ ein: 271450491
 annual-revenue: "$18.1M"
 net-assets: "$52.0M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #nnu #nurses-union #medicare-for-all #progressive #labor #225k-members

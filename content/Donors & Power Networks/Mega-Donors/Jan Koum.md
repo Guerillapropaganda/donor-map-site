@@ -2,7 +2,7 @@
 title: "Jan Koum"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,7 +11,6 @@ politicians-funded:
   - "Donald Trump"
   - "Nikki Haley"
 federal-contracts: "489"
-last-updated: 2026-04-05
 ---
 
 tags:

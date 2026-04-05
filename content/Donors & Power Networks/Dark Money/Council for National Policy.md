@@ -2,7 +2,7 @@
 title: "Council for National Policy"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,7 +13,6 @@ ein: 720921017
 annual-revenue: "$3.8M"
 net-assets: "$3.5M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #cnp #dark-money #conservative #christian-right #networking #secretive #strategy

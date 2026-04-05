@@ -2,7 +2,7 @@
 title: "National Association of Realtors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -11,7 +11,6 @@ issues:
   - "Housing"
   - "Antitrust & Monopoly"
 federal-contracts: "2616134"
-last-updated: 2026-04-05
 ---
 
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door

@@ -30,6 +30,7 @@ import DiscoveryPanel from "./DiscoveryPanel"
 import EvidencePanel from "./EvidencePanel"
 import IssueExplorer from "./IssueExplorer"
 import PowerRankings from "./PowerRankings"
+import PartySplitMeter from "./PartySplitMeter"
 import ProfileHeader from "./ProfileHeader"
 import ProfileWidget from "./ProfileWidget"
 import RelatedProfiles from "./RelatedProfiles"
@@ -74,6 +75,7 @@ export {
   DonorMapSidebar,
   InteractiveGraphs,
   LandingPage,
+  PartySplitMeter,
   PowerRankings,
   ProfileHeader,
   ProfileWidget,

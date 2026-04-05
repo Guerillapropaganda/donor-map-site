@@ -2,7 +2,7 @@
 title: "Merck"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -12,7 +12,6 @@ issues:
 federal-awards-total: 2223209028
 federal-contracts-count: 25
 federal-grants-count: 1
-last-updated: 2026-04-05
 ---
 
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation

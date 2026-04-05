@@ -2,7 +2,7 @@
 title: "Labor Unions"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,7 +13,6 @@ ein: 936032678
 annual-revenue: "$18.3M"
 net-assets: "$57.0M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #labor #unions #democratic #organizing #collective-bargaining #pac #decline

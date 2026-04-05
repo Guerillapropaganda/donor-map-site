@@ -2,7 +2,7 @@
 title: "National Cattlemen's Beef Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-04
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -15,7 +15,6 @@ ein: 840738973
 annual-revenue: "$54.9M"
 net-assets: "$37.3M"
 tax-year: "2023"
-last-updated: 2026-04-04
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Gary Peters Master Profile"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -24,7 +24,6 @@ bills-sponsored: 70
 bills-cosponsored: 228
 website: "https://www.peters.senate.gov"
 phone: "202-224-6221"
-last-updated: 2026-04-05
 ---
 
 

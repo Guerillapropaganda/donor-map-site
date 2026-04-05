@@ -2,7 +2,7 @@
 title: "UFCW - United Food and Commercial Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -15,7 +15,6 @@ politicians-funded:
 issues:
   - "Labor & Workers"
 federal-contracts: "1444229"
-last-updated: 2026-04-05
 ---
 
 

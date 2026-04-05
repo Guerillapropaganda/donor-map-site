@@ -2,7 +2,7 @@
 title: "Williams Companies"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -13,7 +13,6 @@ ein: 237413843
 annual-revenue: "$14.9M"
 net-assets: "$65.4M"
 tax-year: "2023"
-last-updated: 2026-04-05
 ---
 
 #donor #energy #natural-gas #pipeline #fossil-fuel #republican-lean #class-analysis #follow-the-money
