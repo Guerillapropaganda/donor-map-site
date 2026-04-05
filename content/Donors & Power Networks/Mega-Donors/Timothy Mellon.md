@@ -2,7 +2,7 @@
 title: "Timothy Mellon"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-04
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -15,7 +15,6 @@ issues:
   - "Immigration"
 lobbying-spend: 1860000
 lobbying-filings: 51
-last-updated: 2026-04-05
 ---
 
 
