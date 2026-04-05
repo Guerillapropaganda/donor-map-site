@@ -13,6 +13,11 @@ issues:
   - "Defense & Military"
 federal-contracts: "94260"
 last-updated: 2026-04-05
+ein: 956095343
+annual-revenue: "$15.1M"
+net-assets: "$31.0M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 
@@ -203,6 +208,20 @@ Northrop Grumman represents the defense sector's most refined form of structural
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Northrop%20Grumman&page=1&index=opp) (Tier 1)
 
 <!-- auto:sam-contracts end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $15.1M |
+| Total Contributions | $0 |
+| Total Expenses | $14.1M |
+| Net Assets | $31.0M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 956095343](https://projects.propublica.org/nonprofits/organizations/956095343) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

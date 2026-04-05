@@ -2,7 +2,7 @@
 title: "Condoleezza Rice"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,6 +11,7 @@ top-donors:
   - "Chevron"
   - "Hoover Institution"
   - "Stanford University"
+fec-candidate-id: "P80002868"
 ---
 
 #condoleezza-rice #national-security-advisor #secretary-of-state #iraq-war #chevron #stanford #hoover-institution #revolving-door #class-analysis

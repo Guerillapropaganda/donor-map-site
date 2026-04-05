@@ -11,6 +11,9 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Labor & Workers"
+lobbying-spend: 4861010
+lobbying-filings: 104
+last-updated: 2026-04-05
 ---
 
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor
@@ -117,6 +120,27 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 > The BRT spent $33.5 million on lobbying in 2025 to make the TCJA permanent. Its member companies — representing $10 trillion in combined revenue — save $320+ billion annually from the corporate rate cut alone. The 2025 permanent extension eliminates the scheduled 2025 expirations, locking in the CEO class's preferred tax architecture indefinitely. The lobbying spend represents 0.01% of the annual tax savings it protects. No other political expenditure in the vault achieves this efficiency.
 
 ---
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $4.9M |
+| Quarterly Filings | 104 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 57 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Animals, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Computer Industry, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Insurance, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Natural Resources, Real Estate/Land Use/Conservation, Roads/Highway, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Trucking/Shipping, Unemployment, Utilities
+
+**Lobbying firms:** ACCELERATE STRATEGIES, ALAN PASETSKY, ATRIO CONSULTING GROUP, LLC, BALLARD PARTNERS, BARNES & THORNBURG, LLP, BURKE CONSULTING LLC, BUSINESS ALLIANCE FOR A SOUND ECONOMY, BUSINESS COUNCIL FOR SUSTAINABLE ENERGY, BUSINESS GOVERNMENT SOLUTIONS, CHW ADVISORS, CORNERSTONE GOVERNMENT AFFAIRS, INC., CORRIGAN & USSERY LLC, CRESTVIEW STRATEGY US LLC, CROSSROADS STRATEGIES, LLC, DAIRY BUSINESS ASSOCIATION, DENTONS US LLP, DUE SOUTH ADVOCACY, LLC, EAGLE POINT STRATEGIES LLC, FBB FEDERAL RELATIONS, FEDERAL BUSINESS GROUP, FORBES-TATE, GLOBAL BUSINESS ALLIANCE, GLOBAL BUSINESS POLICY-DC, HANCE SCARBOROUGH, HB STRATEGIES, HOGAN LOVELLS US LLP, HOLLAND & KNIGHT LLP, INVARIANT LLC, JERE GLOVER, JON THOMAS CONSULTING, JUCUNDUS BUSINESS SERVICES LLC, MCBRIDE CONSULTING & BUSINESS DEVELOPMENT GROUP, MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP), MCKINNON GROUP, LLC, FORMERLY DOING BUSINESS AS RR&G, LLC, MEHLMAN CONSULTING, INC., MICHAEL BEST STRATEGIES LLC, MILLER STRATEGIES, LLC, NATIONAL BUSINESS AVIATION ASSOCIATION, INC., NELSON MULLINS RILEY & SCARBOROUGH, NFIB (NATIONAL FEDERATION OF INDEPENDENT BUSINESS), NIPPON KEIZAI DANTAI RENGOKAI (JAPAN BUSINESS FEDERATION), OMEGA STRATEGIES, LLC., PATEL PARTNERS LLC, RICH FEUER ANDERSON, RYBERG AND SMITH, L.L.C., SCHOENING STRATEGIES, SMALL BUSINESS INVESTOR ALLIANCE, SMALL BUSINESS MAJORITY FOUNDATION, INC., SQUIRE PATTON BOGGS, STEPTOE LLP, T A BUSINESS DEVELOPMENT, LLC, TEXAS ASSOCIATION OF BUSINESS, THE BUSINESS COUNCILS 90A, LLC, THE SOCCI LAW FIRM, PLLC (FKA INFLUENCE STRATEGIES), THE VOGEL GROUP, TIBER CREEK GROUP, VAN SCOYOC ASSOCIATES
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Bureau of Industry and Security (BIS), Commerce, Dept of (DOC), Council on Environmental Quality (CEQ), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA) +26 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Business%20Roundtable) (Tier 1)
+
+<!-- auto:lda-lobbying end -->
 
 ### Sources
 

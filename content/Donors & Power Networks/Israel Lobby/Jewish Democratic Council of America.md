@@ -7,6 +7,11 @@ source-tier: 2
 parent: null
 sector: "Israel Lobby"
 entity-type: "Individual Donor"
+ein: 821919054
+annual-revenue: "$2.3M"
+net-assets: "$525K"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #jdca #jewish-democratic-council #israel-lobby #democratic-party #pro-israel
@@ -32,6 +37,22 @@ JDCA has successfully maintained Democratic Party consensus on pro-Israel positi
 ### Class Analysis
 
 The Jewish Democratic Council of America exemplifies how identity-based advocacy organizations can function as ethnic lobbies pursuing interests that diverge from democratic deliberation. JDCA's claim to represent "Jewish Democrats" obscures the reality that the organization represents wealthy pro-Israel Jewish donors who use their financial power to constrain Democratic Party choices on Israel policy. The organization's bundling function allows it to enforce donor preferences on Democratic candidates regardless of those candidates' districts or constituencies. JDCA's opposition to Palestinian rights advocates like Jamaal Bowman reveals that the organization prioritizes Israeli government interests over Democratic Party internal diversity or Palestinian rights.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2.3M |
+| Total Contributions | $2.3M |
+| Investment Income | $27 |
+| Total Expenses | $2.2M |
+| Net Assets | $525K |
+| Officer Compensation | $209K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 821919054](https://projects.propublica.org/nonprofits/organizations/821919054) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

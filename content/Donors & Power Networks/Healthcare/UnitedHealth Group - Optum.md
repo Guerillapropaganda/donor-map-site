@@ -9,6 +9,9 @@ sector: "Healthcare"
 entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
+lobbying-spend: 25055000
+lobbying-filings: 55
+last-updated: 2026-04-05
 ---
 
 
@@ -113,6 +116,27 @@ Healthcare — COVID contracts, PBM regulation, single-payer
 [Source: [CapRadio: no-bid contracts investigation](https://www.capradio.org/articles/2021/02/16/investigation-big-newsom-donors-including-blue-shield-received-no-bid-contracts-during-covid-19-response/) (Tier 2); [OpenSecrets: UnitedHealth Group PAC profile](https://www.opensecrets.org/orgs/unitedhealth-group/summary?id=D000000348) (Tier 1); [CA Secretary of State: Power Search](https://powersearch.sos.ca.gov/advanced.php) (Tier 1)]
 
 ---
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $25.1M |
+| Quarterly Filings | 55 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 13 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Banking, Budget/Appropriations, Defense, Health Issues, Medicare/Medicaid, Pharmacy, Taxation/Internal Revenue Code, Veterans
+
+**Lobbying firms:** ALSTON & BIRD LLP, AVENUE SOLUTIONS, AVOQ, LLC, AXADVOCACY GOVERNMENT RELATIONS, CASSIDY & ASSOCIATES, INC., FIERCE GOVERNMENT RELATIONS, GUIDEPOSTSTRATEGIES, LLC, MWR CONSULTING, PENN AVENUE PARTNERS, SPLITOAK STRATEGIES LLC, STERNHELL GROUP, THEGROUP DC, LLC, UNITEDHEALTH GROUP, INC.
+
+**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Labor, Dept of (DOL), Office of Management & Budget (OMB), SENATE, Veterans Affairs, Dept of (VA), White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=UnitedHealth%20Group%20-%20Optum) (Tier 1)
+
+<!-- auto:lda-lobbying end -->
 
 ### Sources
 

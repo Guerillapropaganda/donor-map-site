@@ -14,6 +14,11 @@ politicians-funded:
 issues:
   - "Healthcare"
   - "Labor & Workers"
+ein: 361760052
+annual-revenue: "$14.9M"
+net-assets: "$8.2M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 
@@ -143,6 +148,23 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 - [California Governor's Office: AB 1228 Fast Food Worker Wage](https://www.gov.ca.gov/2023/09/28/california-increases-minimum-wage-protections-for-fast-food-workers/) (Tier 1)
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $14.9M |
+| Total Contributions | $0 |
+| Program Service Revenue | $14.8M |
+| Investment Income | $10K |
+| Total Expenses | $15.0M |
+| Net Assets | $8.2M |
+| Officer Compensation | $917K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 361760052](https://projects.propublica.org/nonprofits/organizations/361760052) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

@@ -2,7 +2,7 @@
 title: "Roy Cooper Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,6 +14,8 @@ top-donors:
   - "Anthem PAC"
   - "Centene Corporation PAC"
   - "UnitedHealth Group PAC"
+total-received: "$21,070,824"
+fec-candidate-id: "S6NC00407"
 ---
 
 #politician #democrat #senate #north-carolina #2026-candidate

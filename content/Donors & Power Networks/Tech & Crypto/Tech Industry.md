@@ -10,6 +10,11 @@ entity-type: "Individual Donor"
 issues:
   - "Technology"
   - "Antitrust & Monopoly"
+ein: 954538000
+annual-revenue: "$249K"
+net-assets: "$131K"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #tech #industry #lobbying #section-230 #antitrust #ai #privacy #bipartisan
@@ -28,6 +33,22 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 > The tech industry's $100-200M annual lobbying expenditure protects a combined market capitalization exceeding $15 trillion. The political investment is extraordinarily efficient — every dollar spent on lobbying protects thousands of dollars in market value. The industry's structural political power goes beyond spending: tech companies control the communication platforms that politicians depend on for campaigning, the data infrastructure that government operations depend on, and the employment base that congressional districts depend on for economic growth. This structural dependency makes aggressive tech regulation nearly impossible — regulating tech means regulating the companies that provide the tools politicians use to govern, campaign, and communicate with constituents.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $249K |
+| Total Contributions | $218K |
+| Program Service Revenue | $31K |
+| Total Expenses | $246K |
+| Net Assets | $131K |
+| Officer Compensation | $125K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 954538000](https://projects.propublica.org/nonprofits/organizations/954538000) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

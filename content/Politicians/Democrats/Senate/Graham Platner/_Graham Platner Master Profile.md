@@ -2,13 +2,15 @@
 title: "Graham Platner Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Senate"
 state: "Maine"
 state-abbr: "ME"
+total-received: "$7,867,908"
+fec-candidate-id: "S6ME00373"
 ---
 
 

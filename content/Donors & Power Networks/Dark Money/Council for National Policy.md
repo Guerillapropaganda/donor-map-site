@@ -9,6 +9,11 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+ein: 720921017
+annual-revenue: "$3.8M"
+net-assets: "$3.5M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #cnp #dark-money #conservative #christian-right #networking #secretive #strategy
@@ -41,6 +46,23 @@ Conservative judicial appointments (the Federalist Society pipeline feeds direct
 > CNP represents the conservative donor class's governance structure: a private body where 400 of the wealthiest and most powerful conservatives coordinate the allocation of billions in political spending across think tanks, PACs, media organizations, and judicial campaigns. CNP does not spend money — it coordinates the spending of others, making it the most efficient influence organization in American politics. The meetings synchronize the efforts of organizations that collectively spend $2+ billion per cycle, ensuring that conservative resources are deployed strategically rather than redundantly. CNP is the answer to the question: who decides what the conservative movement does?
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $3.8M |
+| Total Contributions | $2.5M |
+| Program Service Revenue | $1.2M |
+| Investment Income | $63K |
+| Total Expenses | $3.8M |
+| Net Assets | $3.5M |
+| Officer Compensation | $612K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 720921017](https://projects.propublica.org/nonprofits/organizations/720921017) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

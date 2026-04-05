@@ -9,6 +9,11 @@ sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Dark Money & Campaign Finance"
+ein: 271937961
+annual-revenue: "$66.8M"
+net-assets: "$60.8M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #one-nation #mcconnell #dark-money #501c4 #senate-races #donor-secrecy
@@ -38,6 +43,22 @@ One Nation's massive spending has successfully protected McConnell-aligned Repub
 ### Class Analysis
 
 One Nation exemplifies how dark money enables wealthy donors to exert political power while remaining completely anonymous: the organization spends tens of millions of dollars annually without disclosing a single donor's identity. The 501(c)(4) structure — ostensibly for "social welfare" — is entirely a legal fiction; One Nation operates as a Super PAC but avoids the donor disclosure requirements that Super PACs must follow. The organization's function is to prevent the Democratic process from working as intended: Republican voters prefer Trump and populist candidates, but One Nation's massive, anonymous spending allows billionaire donors to overrule grassroots preference and install their preferred moderate Republicans. One Nation's existence and success reveals that the restriction on campaign spending is not a financial limit but a donor anonymity structure.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $66.8M |
+| Total Contributions | $65.7M |
+| Investment Income | $947K |
+| Total Expenses | $14.1M |
+| Net Assets | $60.8M |
+| Officer Compensation | $963K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 271937961](https://projects.propublica.org/nonprofits/organizations/271937961) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

@@ -2,7 +2,7 @@
 title: "Elizabeth Warren Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,6 +14,8 @@ issues:
 top-donors:
   - "ActBlue"
   - "Emily's List"
+total-received: "$131,368,112"
+fec-candidate-id: "P00009621"
 ---
 
 

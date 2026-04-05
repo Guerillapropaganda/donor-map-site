@@ -9,6 +9,11 @@ sector: "Defense & Intelligence"
 entity-type: "Individual Donor"
 issues:
   - "Defense & Military"
+ein: 42982768
+annual-revenue: "$82K"
+net-assets: "$202K"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #defense #industry #military #ndaa #pentagon #bipartisan
@@ -27,6 +32,20 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 > The defense industry's political power is self-reinforcing: defense spending creates jobs in congressional districts; those jobs create political constituencies for continued spending; that spending generates the revenue that funds the industry's political operation; and the political operation ensures spending never decreases. This virtuous cycle (from the industry's perspective) has produced 80 consecutive years of defense spending above Depression-era levels and an NDAA that passes with bipartisan supermajorities every year.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $82K |
+| Total Contributions | $0 |
+| Total Expenses | $65K |
+| Net Assets | $202K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 42982768](https://projects.propublica.org/nonprofits/organizations/42982768) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

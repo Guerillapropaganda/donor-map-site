@@ -12,6 +12,11 @@ politicians-funded:
 issues:
   - "Healthcare"
   - "Labor & Workers"
+ein: 940362060
+annual-revenue: "$157.8M"
+net-assets: "$464.3M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #cna #nurses #union #california #single-payer #healthcare #progressive #labor
@@ -30,6 +35,24 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 > CNA is the institutional force that keeps single-payer on the political agenda despite the insurance industry's overwhelming financial advantage. The union's $10-20M per cycle cannot match the insurance industry's $175-200M annual lobbying budget, but CNA's organizing model (nurse-led advocacy, hospital-by-hospital campaigns, ballot measure drives) creates political pressure that money alone cannot replicate. CNA's significance in the donor map is as the counter-donor: the institution whose political investment opposes the insurance and pharmaceutical industries' agenda. The single-payer debate in American politics exists because CNA keeps it alive against the financial interests that would prefer it disappeared.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $157.8M |
+| Total Contributions | $0 |
+| Program Service Revenue | $144.9M |
+| Investment Income | $5.5M |
+| Total Expenses | $112.6M |
+| Net Assets | $464.3M |
+| Officer Compensation | $6.1M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 940362060](https://projects.propublica.org/nonprofits/organizations/940362060) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940362060_202306_990O_2024061822539914.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

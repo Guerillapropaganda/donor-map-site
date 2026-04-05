@@ -12,6 +12,11 @@ politicians-funded:
   - "Kamala Harris"
 issues:
   - "Labor & Workers"
+ein: 940362030
+annual-revenue: "$10.3M"
+net-assets: "$19.5M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 
@@ -85,6 +90,23 @@ The California Labor Federation is the most important institutional node in the 
 For IBEW members: the Federation is the body through which IBEW's California political strategy gets coordinated with other building trades and other unions. When the Federation endorses Newsom despite the SB 984 veto, IBEW's PLA fight gets subordinated to the coalition's consensus. The alternative — breaking with the Federation, running independent labor candidates, building third-party infrastructure — is high-risk and has no precedent in modern California politics. But the current model keeps producing the same result: labor endorses, capital governs.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $10.3M |
+| Total Contributions | $3.5M |
+| Program Service Revenue | $6.3M |
+| Investment Income | $276K |
+| Total Expenses | $8.1M |
+| Net Assets | $19.5M |
+| Officer Compensation | $336K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 940362030](https://projects.propublica.org/nonprofits/organizations/940362030) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

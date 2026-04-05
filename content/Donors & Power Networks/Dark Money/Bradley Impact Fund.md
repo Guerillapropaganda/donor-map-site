@@ -9,6 +9,11 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+ein: 454678325
+annual-revenue: "$90.7M"
+net-assets: "$159.3M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #bradley #impact-fund #dark-money #conservative #donor-advised #philanthropy
@@ -29,6 +34,22 @@ The Bradley Impact Fund is part of a broader conservative DAF network that inclu
 > Bradley Impact Fund demonstrates how donor-advised funds convert charitable tax deductions into political influence: donors receive tax benefits for contributions that fund conservative advocacy organizations, and the DAF structure ensures their identities remain hidden from public disclosure. The tax subsidy for charitable giving — designed to encourage philanthropy — is repurposed to fund political infrastructure. The American taxpayer subsidizes the conservative movement through the charitable deduction, while the DAF structure ensures they never know which specific donors are being subsidized.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $90.7M |
+| Total Contributions | $87.6M |
+| Investment Income | $4.1M |
+| Total Expenses | $49.2M |
+| Net Assets | $159.3M |
+| Officer Compensation | $459K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 454678325](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

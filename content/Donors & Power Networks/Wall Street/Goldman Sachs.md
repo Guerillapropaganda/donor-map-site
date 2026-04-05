@@ -2,7 +2,7 @@
 title: "Goldman Sachs"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -12,6 +12,7 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Wall Street & Finance"
+total-political-spend: "$2,326,690"
 ---
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor

@@ -2,13 +2,14 @@
 title: "Ken Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Ron DeSantis"
+total-political-spend: "$34,008,251"
 ---
 
 #ken-griffin #citadel #hedge-fund #mega-donor #republican #Trump #DeSantis #libertarian

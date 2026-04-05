@@ -2,7 +2,7 @@
 title: "Kristi Noem"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,6 +11,8 @@ state: "South Dakota"
 state-abbr: "SD"
 issues:
   - "Dark Money & Campaign Finance"
+total-received: "$20,992"
+fec-candidate-id: "H0SD00054"
 ---
 
 #politician #republican #trump-cabinet #dhs #south-dakota #governor #corruption #no-bid-contracts #dark-money #follow-the-money #class-analysis #fired

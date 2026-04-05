@@ -2,7 +2,7 @@
 title: "Patrick Soon-Shiong"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -10,6 +10,7 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
   - "Kamala Harris"
+total-political-spend: "$735,621"
 ---
 
 #donor #mega-donor #la-times #biotech #billionaire #media-owner #republican #trump #editorial-capture #pharma-influence #class-analysis #follow-the-money

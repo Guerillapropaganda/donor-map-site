@@ -2,12 +2,24 @@
 title: "Daniel Biss Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "House"
 district: "17"
+bioguide-id: "B001296"
+issues:
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Families"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Immigration"
 ---
 
 #democrat #politician #house

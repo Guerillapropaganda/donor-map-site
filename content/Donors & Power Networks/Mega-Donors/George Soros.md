@@ -2,7 +2,7 @@
 title: "George Soros"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Dark Money & Campaign Finance"
+total-political-spend: "$188,381,113"
 ---
 
 #donor #billionaire #democratic #progressive #dark-money #open-society

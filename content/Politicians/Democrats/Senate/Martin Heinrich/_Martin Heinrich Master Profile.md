@@ -16,6 +16,12 @@ issues:
 top-donors:
   - "Defense Industry"
   - "Tech Industry"
+govtrack-id: 412281
+bills-sponsored: 39
+bills-cosponsored: 329
+website: "https://www.heinrich.senate.gov"
+phone: "202-224-5521"
+last-updated: 2026-04-05
 ---
 
 
@@ -111,6 +117,27 @@ Heinrich is the nuclear weapons complex's senator — an engineer who started hi
 5. **Bipartisan Security:** Working with Mike Rounds (R-SD) on the American Science Acceleration Project, Thom Tillis on defense. The bipartisan framing makes nuclear weapons modernization look like consensus national interest rather than a specific industry's revenue stream.
 
 ---
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 329 |
+| Total Votes Cast | 8,112 |
+
+**Recent bills sponsored:**
+
+- S. 4252: A bill to amend the Waste Isolation Pilot Plant Land Withdrawal Act to ensure that economic assistance payments under th — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4258: A bill to authorize the Secretary of Education to award grants to revitalize schoolyards. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4183: Veteran Education Assistance Adjustment Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4091: Habitat Connectivity on Working Lands Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4093: Tariff Refunds for Working Families Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412281) (Tier 1)
+
+<!-- auto:govtrack end -->
 
 ### Sources
 

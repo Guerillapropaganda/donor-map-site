@@ -12,6 +12,12 @@ state-abbr: "MI"
 district: "12"
 committees:
   - "Oversight & Reform"
+govtrack-id: 412787
+bills-sponsored: 32
+bills-cosponsored: 871
+website: "https://tlaib.house.gov"
+phone: "202-225-5126"
+last-updated: 2026-04-05
 ---
 
 #tlaib #michigan #progressive #squad #palestine #oversight #dearborn #detroit #dsa #small-dollar #censure #environmental-justice
@@ -127,6 +133,27 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 **AIPAC Immunity Pattern:** Unlike Bowman (defeated) or other Squad targets, Tlaib's district demographics make her functionally immune to AIPAC's primary-challenge strategy. Her survival while other progressives fall documents the specific conditions under which the Israel lobby's spending fails: district ethnic composition, grassroots fundraising capacity, and the absence of a credible challenger.
 
 ---
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 871 |
+| Total Votes Cast | 3,663 |
+
+**Recent bills sponsored:**
+
+- H.Res. 1146: Standing with the people of Lebanon against the illegal invasion, war crimes, and ethnic cleansing perpetrated by the St — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Con.Res. 83: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7930: To amend title 18, United States Code, to increase the mens rea requirements for offenses under the Espionage Act. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7854: Medicines for the People Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7637: Head Start for America’s Children Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412787) (Tier 1)
+
+<!-- auto:govtrack end -->
 
 ### Sources
 

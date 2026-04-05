@@ -9,6 +9,11 @@ sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+ein: 760552018
+annual-revenue: "$477K"
+net-assets: "$1.3M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
@@ -49,6 +54,21 @@ Bipartisan distribution targeting Finance Committee (Medicare drug pricing), Jud
 > J&J's single drug Stelara generated $21.4 billion in revenue in 2023. Medicare negotiation could reduce prices on drugs like Stelara by 25-60%. J&J's $10 million annual lobbying spend protects billions in drug revenue. The lobbying ROI is measured in thousands of percent.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $477K |
+| Total Contributions | $477K |
+| Total Expenses | $349K |
+| Net Assets | $1.3M |
+| Officer Compensation | $19K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 760552018](https://projects.propublica.org/nonprofits/organizations/760552018) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

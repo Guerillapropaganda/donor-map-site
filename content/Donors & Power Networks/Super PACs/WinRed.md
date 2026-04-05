@@ -9,6 +9,11 @@ sector: "Super PACs"
 entity-type: "PAC"
 politicians-funded:
   - "Donald Trump"
+ein: 451839927
+annual-revenue: "$44K"
+net-assets: "$41K"
+tax-year: "2016"
+last-updated: 2026-04-05
 ---
 
 #winred #republican #fundraising #small-dollar #dark-patterns #online
@@ -37,6 +42,21 @@ The Trump campaign's $122 million in refunds represents only the donors who succ
 > WinRed's dark pattern mechanism extracted $122 million in disputed recurring donations from Trump supporters alone. The donors targeted were overwhelmingly elderly, low-income, and digitally unsophisticated — the same working-class supporters Trump claims to champion. The platform designed to fund the populist movement was extracting money from the populists through deceptive design.
 
 ---
+
+### Financial Overview (990 Filing — 2016)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $44K |
+| Total Contributions | $0 |
+| Total Expenses | $67K |
+| Net Assets | $41K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 451839927](https://projects.propublica.org/nonprofits/organizations/451839927) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_45-45%2F451839927_201612_990EZ_2018011115116268.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

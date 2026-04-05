@@ -9,6 +9,10 @@ sector: "Gig Economy"
 entity-type: "Corporation"
 issues:
   - "Housing"
+federal-awards-total: 16865
+federal-contracts-count: 0
+federal-grants-count: 0
+last-updated: 2026-04-05
 ---
 
 #airbnb #gig-economy #housing #short-term-rental #lobbying #zoning #tourism
@@ -41,6 +45,20 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 > Airbnb's business model externalizes its costs onto housing markets: the platform generates $11 billion in revenue by enabling property owners to convert rental housing into tourist accommodation, reducing housing supply and increasing rents for non-Airbnb residents. The $5-10 million annual lobbying investment prevents cities from regulating this housing conversion — an investment that protects billions in platform revenue by maintaining the regulatory vacuum. The structural pattern: a tech platform extracts value from a physical resource (housing) while lobbying to prevent the regulation that would account for the social cost (reduced housing supply, increased rents). The residents who pay higher rents are subsidizing Airbnb's business model without using the platform.
 
 ---
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $17K |
+| Contracts (recent 3yr) | 0 ($0 sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 0 |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Airbnb) (Tier 1)
+
+<!-- auto:usaspending end -->
 
 ### Sources
 

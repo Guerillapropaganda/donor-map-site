@@ -13,6 +13,14 @@ politicians-funded:
   - "John Fetterman"
 issues:
   - "Energy & Climate"
+ein: 365040938
+annual-revenue: "$1"
+net-assets: "$1"
+tax-year: "2023"
+last-updated: 2026-04-05
+lobbying-spend: 810000
+lobbying-filings: 18
+last-updated: 2026-04-05
 ---
 
 #devon #energy #oklahoma #shale #fracking #permian #oil-gas
@@ -47,6 +55,41 @@ Favorable federal land leasing policies (expedited permitting, reduced royalty r
 > Devon's Oklahoma-centric political operation illustrates how energy companies capture state governments. Oklahoma's economy depends on oil and gas revenue; the industry's tax contributions fund state services; and the industry's political contributions ensure the tax rates remain low. The circular dependency — the state needs the industry, the industry shapes the state — creates a political environment where regulation of oil and gas is structurally impossible regardless of which party holds power.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1 |
+| Total Contributions | $0 |
+| Total Expenses | $0 |
+| Net Assets | $1 |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 365040938](https://projects.propublica.org/nonprofits/organizations/365040938) (Tier 1)
+
+<!-- auto:propublica-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $810K |
+| Quarterly Filings | 18 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 3 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Energy/Nuclear
+
+**Lobbying firms:** BROWNSTEIN HYATT FARBER SCHRECK, LLP, CROSSROADS STRATEGIES, LLC, THE BERNHARDT GROUP LLC
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Devon%20Energy) (Tier 1)
+
+<!-- auto:lda-lobbying end -->
 
 ### Sources
 

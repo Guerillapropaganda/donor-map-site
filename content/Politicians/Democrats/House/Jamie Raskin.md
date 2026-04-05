@@ -7,6 +7,7 @@ source-tier: 1
 parent: null
 total-received: "$4,396,225"
 fec-candidate-id: "H6MD08457"
+bioguide-id: "A000383"
 ---
 
 #master-profile #democrat #house #maryland #january-6 #constitutional-law #class-contradiction

@@ -11,6 +11,11 @@ issues:
   - "Labor & Workers"
   - "Agriculture"
   - "Immigration"
+ein: 941448579
+annual-revenue: "$7.6M"
+net-assets: "$5.7M"
+tax-year: "2020"
+last-updated: 2026-04-05
 ---
 
 #ufw #farmworkers #labor #cesar-chavez #agriculture #immigration #california
@@ -37,6 +42,24 @@ The immigration dimension: agribusiness depends on immigrant farmworker labor (A
 > The UFW's declining membership illustrates the structural impossibility of organizing the most exploited workforce in America: undocumented workers cannot safely join unions, agricultural exemptions reduce legal protections, and agribusiness lobbying blocks legislative reforms. The same agricultural industry that depends on immigrant labor lobbies against immigration reform that would give farmworkers legal status and the ability to organize. The structural design: maintain worker vulnerability through immigration enforcement, maintain labor supply through unenforced border policy, and maintain political protection through agricultural lobbying. The farmworker is the system's essential participant and its most disposable component.
 
 ---
+
+### Financial Overview (990 Filing — 2020)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $7.6M |
+| Total Contributions | $6.8M |
+| Program Service Revenue | $572K |
+| Investment Income | $50K |
+| Total Expenses | $6.3M |
+| Net Assets | $5.7M |
+| Officer Compensation | $579K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 941448579](https://projects.propublica.org/nonprofits/organizations/941448579) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_10_2022_prefixes_91-95%2F941448579_202012_990O_2022102720612081.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

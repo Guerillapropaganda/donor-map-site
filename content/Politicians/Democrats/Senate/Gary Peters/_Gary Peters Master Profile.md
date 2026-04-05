@@ -19,6 +19,12 @@ top-donors:
   - "UAW - United Auto Workers"
   - "Real Estate Industry"
 fec-candidate-id: "H8MI09068"
+govtrack-id: 412305
+bills-sponsored: 70
+bills-cosponsored: 228
+website: "https://www.peters.senate.gov"
+phone: "202-224-6221"
+last-updated: 2026-04-05
 ---
 
 
@@ -113,6 +119,27 @@ Peters is the Democratic Party's quiet operator — a former Wall Street investm
 5. **DSCC Results Framing:** "Best midterm since 1934." Peters frames the DSCC chairmanship as proof of strategic competence. The results are real. The framing obscures the structural question: who does the fundraising gatekeeper answer to, and what industries fund the campaigns he greenlit?
 
 ---
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 70 |
+| Bills Cosponsored | 228 |
+| Total Votes Cast | 8,659 |
+
+**Recent bills sponsored:**
+
+- S. 4264: A bill to provide NASA the authority to detect, identify, monitor, and track unmanned aircraft systems, and for other pu — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4074: Fund CISA Personnel Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 623: A resolution commemorating the accomplishments of Team USA in ice hockey. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3913: Self-Initiation Trade Enforcement Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3870: Lifelong Learning Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412305) (Tier 1)
+
+<!-- auto:govtrack end -->
 
 ### Sources
 

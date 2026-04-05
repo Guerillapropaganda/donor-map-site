@@ -2,7 +2,7 @@
 title: "Mark Takano"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,6 +14,8 @@ committees:
   - "Veterans' Affairs"
 leadership-roles:
   - "Ranking Member"
+total-received: "$524,547"
+fec-candidate-id: "H2CA43245"
 ---
 
 
