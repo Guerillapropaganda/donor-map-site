@@ -123,6 +123,8 @@ const EvidencePanel: QuartzComponent = ({
         {contextParts.length > 0 && (
           <div class="ep-context">{contextParts.join(" · ")}</div>
         )}
+
+        <a href="/About-The-Donor-Map" class="ep-methodology-link">HOW WE VERIFY →</a>
       </div>
 
       {isOrgDonor && (demPct !== null || totalPoliticalSpend) && (
@@ -275,6 +277,27 @@ EvidencePanel.css = `
   font-size: 9px;
   letter-spacing: 1px;
   color: #8a8a96;
+}
+
+.ep-methodology-link {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  color: #5b8dce;
+  text-decoration: none;
+  padding: 2px 8px;
+  border: 1px solid rgba(91, 141, 206, 0.25);
+  border-radius: 3px;
+  background: rgba(91, 141, 206, 0.06);
+  white-space: nowrap;
+  transition: all 0.15s ease;
+  margin-left: auto;
+}
+
+.ep-methodology-link:hover {
+  background: rgba(91, 141, 206, 0.15);
+  border-color: rgba(91, 141, 206, 0.5);
+  color: #7ba4de;
 }
 
 /* FEC Party Split Row */
