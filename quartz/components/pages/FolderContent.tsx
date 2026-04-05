@@ -122,5 +122,6 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   }
 
   FolderContent.css = concatenateResources(style, PageList.css)
+  FolderContent.afterDOMLoaded = PageList.afterDOMLoaded
   return FolderContent
 }) satisfies QuartzComponentConstructor

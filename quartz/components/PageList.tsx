@@ -64,7 +64,60 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     list = list.slice(0, limit)
   }
 
+  // Build filter controls based on what variety exists in this listing.
+  const tiersPresent = new Set<string>()
+  let profileCount = 0
+  let noteCount = 0
+  for (const page of list) {
+    const fm: any = page.frontmatter ?? {}
+    const t = fm["source-tier"]
+    if (t != null) tiersPresent.add(String(t))
+    const type = String(fm.type ?? "").toLowerCase()
+    if (type === "politician" || type === "donor" || type === "corporation") {
+      profileCount++
+    } else {
+      noteCount++
+    }
+  }
+  const tierOrder = ["1", "2", "3", "4"].filter((t) => tiersPresent.has(t))
+  const hasTierFilter = tierOrder.length > 1
+  const hasTypeFilter = profileCount > 0 && noteCount > 0
+  const showFilterBar = hasTierFilter || hasTypeFilter
+
   return (
+    <>
+      {showFilterBar && (
+        <nav class="listing-filter-bar" aria-label="Filter listing">
+          {hasTypeFilter && (
+            <>
+              <button type="button" class="listing-filter-btn active" data-type="all">
+                All ({list.length})
+              </button>
+              <button type="button" class="listing-filter-btn" data-type="profile">
+                Profiles ({profileCount})
+              </button>
+              <button type="button" class="listing-filter-btn" data-type="note">
+                Notes ({noteCount})
+              </button>
+              {hasTierFilter && <span class="listing-filter-sep"></span>}
+            </>
+          )}
+          {hasTierFilter && (
+            <>
+              {!hasTypeFilter && (
+                <button type="button" class="listing-filter-btn active" data-tier="all">
+                  All
+                </button>
+              )}
+              {tierOrder.map((t) => (
+                <button type="button" class="listing-filter-btn" data-tier={t}>
+                  T{t}
+                </button>
+              ))}
+            </>
+          )}
+        </nav>
+      )}
     <ul class="section-ul">
       {list.map((page) => {
         const fm: any = page.frontmatter ?? {}
@@ -100,7 +153,12 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         }
 
         return (
-          <li class="section-li" data-profile-type={type || undefined}>
+          <li
+            class="section-li"
+            data-profile-type={type || undefined}
+            data-tier={sourceTier != null ? String(sourceTier) : "none"}
+            data-kind={type === "politician" || type === "donor" || type === "corporation" ? "profile" : "note"}
+          >
             <div class="section">
               {partyKey && (
                 <span
@@ -128,7 +186,14 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                     class={`listing-ready listing-ready-${readiness}`}
                     title={`Content readiness: ${readiness}`}
                     aria-label={`Content readiness: ${readiness}`}
-                  ></span>
+                  >
+                    <span class="listing-ready-dot"></span>
+                    {readiness !== "ready" && readiness !== "publication-ready" && (
+                      <span class="listing-ready-label">
+                        {readiness === "developed" ? "DEV" : readiness === "draft" ? "DRAFT" : "RAW"}
+                      </span>
+                    )}
+                  </span>
                 )}
                 {sourceTier && (
                   <span
@@ -163,8 +228,51 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         )
       })}
     </ul>
+    </>
   )
 }
+
+PageList.afterDOMLoaded = `
+(function() {
+  function wireFilterBar(bar) {
+    if (bar._wired) return
+    bar._wired = true
+    var list = bar.nextElementSibling
+    while (list && list.tagName !== 'UL') list = list.nextElementSibling
+    if (!list) return
+    var state = { type: 'all', tier: 'all' }
+    function apply() {
+      var items = list.querySelectorAll('.section-li')
+      items.forEach(function(item) {
+        var itemKind = item.getAttribute('data-kind')
+        var itemTier = item.getAttribute('data-tier')
+        var typeOk = state.type === 'all' || itemKind === state.type
+        var tierOk = state.tier === 'all' || itemTier === state.tier
+        item.style.display = (typeOk && tierOk) ? '' : 'none'
+      })
+    }
+    bar.querySelectorAll('.listing-filter-btn').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        var tier = btn.getAttribute('data-tier')
+        var type = btn.getAttribute('data-type')
+        var selector = tier != null ? '[data-tier]' : '[data-type]'
+        bar.querySelectorAll('.listing-filter-btn' + selector).forEach(function(b) {
+          b.classList.remove('active')
+        })
+        btn.classList.add('active')
+        if (tier != null) state.tier = tier
+        if (type != null) state.type = type
+        apply()
+      })
+    })
+  }
+  function init() {
+    document.querySelectorAll('.listing-filter-bar').forEach(wireFilterBar)
+  }
+  init()
+  document.addEventListener('nav', init)
+})()
+`
 
 PageList.css = `
 .section h3 {
