@@ -74,6 +74,47 @@ Advanced Canvas · Advanced Tables · Commander · Dataview · Excalidraw · Hov
 
 ## Session Log
 
+### 2026-04-04 — API Pipeline Fix + Site Polish (David + Site Claude, manual session)
+
+**State:** SYSTEM MAINTENANCE + SITE POLISH
+
+**What was done:**
+
+*Enrichment pipeline selection bug (critical fix):*
+1. All 7 pipelines (fec, congress, propublica, sam, lda, usaspending, govtrack) were using `targets.slice(0, LIMIT)` which took the first N profiles alphabetically — same ~15 profiles forever, rest of 740-profile vault never touched.
+2. Built `selectTargets()` helper in `scripts/lib/shared.cjs`: filters out already-enriched profiles (checks a per-pipeline yaml key), skips profiles in a 30-day not-found cache, shuffles remaining pool (Fisher-Yates), takes first N. Pipelines now rotate coverage across scheduled runs.
+3. Fixed two follow-on bugs: `if (limit)` treating 0 as falsy (let 435 donors through when politicians exhausted budget); FEC budget needed 50/50 split between politicians and donors.
+4. Added `continue-on-error: true` to workflow steps so a slow step (GovTrack) can't block the final commit step.
+5. Parallelized all 7 pipelines into a single workflow step using background processes + `wait`. Wall time: 26min sequential → ~6-8min parallel. Bumped limits on fast pipelines (FEC/Congress/ProPublica: 15→30, LDA: 10→20). SAM/USASpending/GovTrack kept low (slow APIs).
+6. Added `actions/cache@v4` persistence for `reports/` dir so not-found caches survive across workflow runs.
+7. Full vault saturation projected in ~1 week (was ~2 weeks).
+
+*Site polish:*
+8. Listing pages got a filter bar: Profiles/Notes toggle (splits master profiles from story sub-notes with counts), plus T1-T4 source-tier chips when multiple tiers are present. Client-side, persists across nav.
+9. Content-readiness indicator extended with text label (RAW/DRAFT/DEV) next to the dot for non-ready profiles. Green "ready" dots stay small and unlabeled.
+
+**Files modified:**
+- `donor-map-engine/scripts/lib/shared.cjs` (added selectTargets helper)
+- `donor-map-engine/scripts/{fec,congress,propublica,sam,lda,usaspending,govtrack}-pipeline.cjs`
+- `donor-map-engine/.github/workflows/api-enrichment.yml`
+- `donor-map-site/quartz/components/PageList.tsx`
+- `donor-map-site/quartz/components/pages/{FolderContent,TagContent}.tsx`
+- `donor-map-site/quartz/styles/custom.scss`
+
+**Commits:**
+- engine: `ccd1585` (selectTargets helper + 7 pipelines)
+- engine: `8c98762` (limit=0 falsy fix + FEC budget split)
+- engine: `47f1948` (continue-on-error)
+- engine: `3b97d60` (parallelize + bump limits)
+- site: `c1da0bf6` (listing filter + readiness labels)
+
+**Next priorities:**
+1. Check next automated enrichment run hits the expected diverse set of profiles (not the same 15 as before)
+2. Continue site audit/polish pass — check issues.md pages, individual profile pages for visual consistency
+3. Consider building a public "Vault Dashboard" view showing readiness/tier distributions across the whole vault
+
+---
+
 ### 2026-03-31 — State Engine Refactor (David, manual session)
 
 **State:** SYSTEM REFACTOR
@@ -403,6 +444,29 @@ Next priorities:
 
 ---
 
+### 2026-04-04 — Daily Summary
+
+| State | Files Modified | Key Changes |
+|-------|---------------|-------------|
+| STRUCTURING | (6 files scanned) | Clean pass on all files modified since 2026-04-03. Zero YAML errors, zero header violations, zero wikilink issues. Flagged: DMFI + Wall Street Finance Networks `entity-type: "Individual Donor"` likely incorrect (PAC/org + network node). No change per stop rule. |
+| NODE BUILD | Wall Street Finance Networks.md | Added Top Individual Contributors 2024 Cycle table (5 donors, $495M: Mellon $197M, Griffin $108.5M, Yass $101.5M, Schwarzman $46.8M, Hoffman $41.5M) + [!money] callout on post-Citizens United concentration. Added Revolving Door table (7 Goldman/Wall Street → Treasury/WH/SEC: Rubin, Paulson, Geithner, Cohn, Mnuchin, Clayton, Bessent). Fixed entity-type flag → "Network". 120 → 180 lines. draft → developed. |
+| STORY | 2026-04-04 Story Discovery.md | 6 items + 1 crossover flag (2 Gold new: Herrera Velutini $3.5M straw-donor → Jan 2026 pardon, Musk $10M KY Senate; 2 Gold updates: Trump PACs $400M 2025, Walczak pardon pipeline $2B; 2 Silver). Chrome unavailable — all URLs UNVERIFIED. Sub-Op 3 skipped (Saturday). |
+| CONNECTION MAPPING | Goldman Sachs, JPMorgan Chase | Added reciprocal `[[Wall Street Finance Networks]]` to both (`related:` fields). 2 reciprocal links added. |
+| VALIDATION | Wall Street Finance Networks.md | YAML/footer MISMATCH fix: YAML `draft` → `developed` (NODE BUILD left YAML stale). Content gates pass for developed (180 lines, 4 sources, 7 sections, class analysis, Format 2 timeline, 2 [!money] + 1 [!contradiction]). **Ready promotion BLOCKED:** 1 UNVERIFIED + 2 URL NEEDED remain. Chrome unavailable — no URL verification attempted. |
+
+**Chrome status:** Unavailable (tab grouping error) — VALIDATION URL verification aborted per stop rule. All URL fixes deferred to next Chrome-available run.
+
+Next priorities:
+- Wall Street Finance Networks — 1 UNVERIFIED + 2 URL NEEDED (unblock developed → ready when Chrome available)
+- DMFI + Wall Street Finance Networks entity-type review (both flagged 2026-04-04)
+- NAR type field review (flagged 2026-03-31)
+- Mercatus Center 35+ UNVERIFIED URLs
+- 2026-04-01 / 04-02 / 04-03 / 04-04 Story Discovery UNVERIFIED URL clearance
+- Eric Schmidt 11 UNVERIFIED URLs
+- Google - Alphabet 17 UNVERIFIED URLs
+
+---
+
 ### 2026-04-03 — Daily Summary
 
 | State | Files Modified | Key Changes |
@@ -443,5 +507,100 @@ Next priorities:
 - DMFI line 11 malformed tag fix (wikilink embedded in hashtag)
 - Mercatus Center 35+ UNVERIFIED URLs
 - 2026-04-01 + 2026-04-02 Story Discovery UNVERIFIED URL clearance
+
+---
+
+### 2026-04-04 — Code Claude Session (David, manual)
+
+**Context:** Working in donor-map-site repo with Code Claude. Built research automation pipeline, cleaned up duplicates, fixed homepage counter, generated build queues, received first Perplexity dossiers.
+
+**What was done:**
+
+*Research automation pipeline (in donor-map-engine private repo):*
+1. Built `scripts/lib/shared.cjs` + `scripts/lib/api-config.cjs` — shared utilities, API config loader
+2. Built `scripts/url-checker.cjs` — native Node HEAD request URL checker (replaces SEO tools / Chrome)
+3. Built `scripts/fec-pipeline.cjs` — FEC campaign finance data via registered API key (1000 req/hr)
+4. Built `scripts/congress-pipeline.cjs` — Congress.gov bills / committees / policy areas
+5. Built `scripts/research-report.cjs` — unified report aggregator
+6. Built `scripts/target-gap-analysis.cjs` — compares target lists vs vault profiles
+7. Built `scripts/merge-duplicates.cjs` — auto-merges wikilinks + deletes stub duplicates
+8. Tested end-to-end: Elizabeth Warren $131.3M FEC lookup confirmed working
+
+*Editorial voice work:*
+9. Replaced `content/Methodology.md` and `content/About The Donor Map.md` with first-person voice essay ("Behind The Methodology"). David wrote opening. 6 editorial sections follow: Why Tier 1 Sources, Why I Flag Contradictions, Why I Publish My Standards, Why I Use AI, Why This Matters Now. No em-dashes, first-person singular throughout.
+10. Created Strategy, Manifesto Draft, and Methodology Draft files in `content/Assets/` (excluded from build)
+
+*Homepage counter fix:*
+11. Fixed `quartz/components/LandingPage.tsx` to count only entity profiles (politician, donor, corporation, pac, think-tank, lobbying-firm, media-profile) instead of all files. Homepage now shows 859 instead of 1,514.
+12. Pushed to v4 (commit 8a7c7c87)
+
+*Target gap analysis + build queues:*
+13. Received 5 Perplexity target lists: politicians (1,002 targets), donors (294), think tanks (138), K Street (186 after expansion), media (191). Total 1,811 targets.
+14. Saved to `content/Vault Maintenance/Targets/` (excluded from Quartz build)
+15. Generated priority build queues. Gave David Top 100 (Tier A hub donors, think tanks, congressional leaders, media, lobbyists) and 101-200.
+
+*Duplicate cleanup (30 files deleted):*
+16. Deleted 3 DRAFT stubs (DRAFT-About.md, DRAFT-Guided-Tour.md, DRAFT-Homepage.md)
+17. Merged 27 duplicate profiles — wikilinks preserved in keepers, short stubs deleted. Examples: Koch Industries (Mega-Donors dupe → Energy & Utilities 657L), Palantir (Tech dupe → Mega-Donors 215L), JPMorgan, EMILY's List, 23 politician "Name.md" stubs replaced by "_Name Master Profile.md" versions (Ro Khanna, Dick Durbin, Cory Booker, Jon Ossoff, Kevin McCarthy, etc.)
+
+*First Perplexity dossiers received:*
+18. Saved Tier A research dossiers to `content/Vault Maintenance/Targets/Dossiers/`: Elon Musk (544L), Timothy Mellon (573L), combined Tier A entries 1-5 (2,883L — includes Koch, Adelson, Uihlein). Fact-only, Tier 1/2 sourced, no editorial interpretation. Ready for Claude editorial synthesis pass.
+
+**Vault stats (end of session):**
+- Total files: 1,588 (down 30 from 1,618 after duplicate cleanup)
+- Entity profiles: 859 (homepage counter reflects this)
+- Ready: 1,416 · Developed: 3 · Draft: 48 · Raw: 36 · No status: 85
+
+**Target coverage vs Perplexity lists:**
+| Category | Targets | In Vault | Missing | Coverage |
+|---|---|---|---|---|
+| Politicians | 1,002 | 191 | 811 | 19% |
+| Donors | 294 | 104 | 183 | 35% |
+| Think Tanks | 138 | 29 | 109 | 21% |
+| K Street | 186 | 21 | 165 | 11% |
+| Media | 191 | 48 | 143 | 25% |
+| **TOTAL** | **1,811** | **393** | **1,411** | **22%** |
+
+**~1,411 profiles to build** to hit full coverage of target lists.
+
+**Priority build queue:**
+- Priority 1 missing: 140 profiles (hub donors, congressional leaders, policy factories, Fox/MSNBC hosts, lobbying kingmakers)
+- Priority 2 missing: 290 profiles (state AGs, federal judges, second-tier mega-donors, PACs, trade associations)
+- Priority 3+ missing: 981 profiles (state legislators, backbenchers, smaller outlets)
+
+**Workflow established:**
+1. Perplexity → data dossier only (no class analysis, no interpretation)
+2. Claude (research mode) → editorial synthesis, pattern naming, cross-linking
+3. David → voice correction, callout placement, final readiness gate
+
+**Files created/updated:**
+- `content/Methodology.md` (replaced with voice essay)
+- `content/About The Donor Map.md` (replaced with voice essay)
+- `content/Assets/Draft - About The Donor Map Manifesto.md`
+- `content/Assets/Draft - Behind The Methodology.md`
+- `content/Assets/Strategy - Competitive Position and AI Defense.md`
+- `content/Vault Maintenance/Targets/politicians.md` (1,002 targets)
+- `content/Vault Maintenance/Targets/donors.md` (294 targets)
+- `content/Vault Maintenance/Targets/think-tanks.md` (138 targets)
+- `content/Vault Maintenance/Targets/k-street.md` (186 targets)
+- `content/Vault Maintenance/Targets/media.md` (191 targets)
+- `content/Vault Maintenance/Targets/Dossiers/dossier-01-elon-musk.md`
+- `content/Vault Maintenance/Targets/Dossiers/dossier-02-timothy-mellon.md`
+- `content/Vault Maintenance/Targets/Dossiers/research-dossier-tier-a-entries-1-5.md`
+- `quartz/components/LandingPage.tsx` (counter fix)
+- `CLAUDE.md` (research automation pipeline section added)
+- `.env` (FEC API key added)
+- `.env.example` (template)
+- `.gitignore` (reports/, .env added)
+
+**Files deleted (30):**
+- 3 DRAFT stubs at repo root
+- 27 duplicate profiles (smaller versions merged into larger)
+
+**Next priorities:**
+1. Editorial synthesis pass on Tier A dossiers (Musk, Mellon, Koch, Adelson, Uihlein) — merge into existing profiles using class analysis lens
+2. Priority 1 build queue (140 remaining profiles) — feed to Perplexity, then Claude editorial, then David voice pass
+3. thedonormap.org DNS TXT verification — GitHub waiting on Namecheap TXT record propagation
+4. Commit + push target files and cleanup work to v4
 
 ---
