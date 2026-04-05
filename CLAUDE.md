@@ -87,26 +87,36 @@ Content goes through: `raw → draft → developed → ready`
 - **Tier 3**: Credible secondary sources
 - **Tier 4**: Partisan sources (flagged, used for context only)
 
-## Working with Research Claude
-Research Claude operates from `C:\Users\third\Documents\Obsidian Vaults\` and manages:
-- Profile writing and research
-- API lookups (FEC, USASpending, Congress.gov)
-- Source verification and URL repair (~483 UNVERIFIED tags remaining)
-- Content readiness progression
-- Daily automated state engine (STRUCTURING → NODE BUILD → STORY → VALIDATION)
+## Scope Boundary (Code Claude vs Research Claude)
 
-**Communication happens via:**
-- `content/Vault Maintenance/HANDOFF - Cowork Session to Code Claude.md` — Research Claude → Site Claude
-- `content/Changelog.md` — Site Claude → Research Claude (and permanent record)
-- Frontmatter changes — Research Claude enriches, Site Claude renders
+Two Claudes, two domains. Violating these causes contradictions like the 2026-04-05 dossier-folder incident.
 
-**Do NOT modify:** Research methodology docs in `content/Vault Maintenance/` (Quality Standards, API Pipeline, State Engine Architecture, etc.) — those belong to Research Claude.
+**Code Claude (you) owns the machinery:**
+- Site build, components, styles, deploy (Quartz, SCSS, TSX)
+- Scripts that read the vault (enrichment, URL checks, RSS, API pipelines)
+- Git — all commits, pushes, rebases, conflict resolution
+- Frontmatter schema (which fields exist, how they're typed)
+- Three communication files: `content/Changelog.md`, `content/Vault Maintenance/HANDOFF - Cowork Session to Code Claude.md`, `content/Vault Maintenance/Session Timeline.md`
 
-## Scripts
-| Script | Purpose |
-|---|---|
-| `scripts/enrich-frontmatter.cjs` | Bulk adds YAML fields from folder paths, hashtags, content. `--write` to apply. |
-| `scripts/rss-pipeline.cjs` | Scans political RSS feeds, matches against profiles, generates event drafts + daily digest. `--write` to save. |
+**Research Claude owns the editorial product:**
+- All profile content (voice, framing, analytical patterns, sources)
+- Content-readiness progression (raw → draft → developed → ready)
+- Source-tier judgments, URL verification, em-dash rules, callouts
+- `Vault Maintenance/` methodology docs (Quality Standards, API Pipeline, Research Methodology, State Engine Architecture)
+- Dossiers, Targets/, scratch folders, bulk bold-to-header conversions
+
+**Never touch (Research Claude's lane):**
+- Profile body content — only touch frontmatter when a site feature needs a new field, and note it in HANDOFF
+- Methodology docs in `content/Vault Maintenance/` (Quality Standards, API Pipeline, State Engine, Research Methodology, etc.)
+- Source tier assignments, voice calibration, readiness promotions
+
+**Edge case — "write dossiers into vault":**
+- **Transcription** (complete file, David's voice, just needs correct frontmatter + git commit) → Code Claude does it
+- **Editorial merge** (combining sources, deciding structure, calibrating voice) → Research Claude does it
+
+**Handoff rule:** Handoff files are one-way — Research Claude writes, you read and act. You only take mechanical tasks from a handoff (git, file moves, frontmatter, site work). Content-writing tasks in a handoff get kicked back with a note in Changelog.md.
+
+**User-request rule:** When David asks you to do something outside your scope (writing profile content, making editorial decisions, touching Research Claude's methodology docs, voice calibration), **flag it explicitly** before acting: "This is outside my scope — Research Claude's lane. Do you want me to proceed anyway, hand it to Research Claude, or something else?" David decides from there. Do not silently do cross-scope work.
 
 ## Research Automation Pipeline
 

@@ -9,6 +9,27 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 
 ---
 
+## 2026-04-05
+
+### Site Polish
+- **Listing filter bar** — added Profiles/Notes toggle + per-source-tier filter chips to folder + tag listings, auto-hides when listing has no variety
+- **Folder entries enriched** — master-profile folders now inherit their master's frontmatter (party, state, sector, tier, readiness) so they render with dots + meta line + chips like regular profile entries
+- **ProfileHeader fixes** — tier badge now reads `TIER 1` (was bare `1`); section-card wrapping falls back to h3 when a profile uses h3 as its top-level heading
+
+### Scope Rules (Code Claude ↔ Research Claude)
+- Added scope-boundary sections to both CLAUDE.md files (site + vault) defining who owns what. Triggered by the dossier-folder incident earlier today.
+- New rules: handoff files are one-way + only mechanical tasks; Code Claude flags cross-scope user requests instead of silently doing them; Research Claude does the same in reverse.
+- Deleted stale April 2 handoff (all items confirmed complete and shipped).
+- **Research Claude please note:** `HANDOFF-to-Code-Claude.md` (Session 38n, 2026-04-05) currently lists editorial tasks (dossier merges, profile expansions, backlink passes, voice calibration) that are in your lane, not Code Claude's. Restructure it into your own session task list, keeping only mechanical items (git-commit dossier files after David provides them) in the handoff itself.
+
+### Enrichment Pipeline (engine repo)
+- Pipelines now run in parallel — workflow runtime dropped from ~26min to ~15min
+- Fixed selection bug that processed the same 15 profiles every run — coverage now rotates via Fisher-Yates shuffle + 30-day miss cache
+- `continue-on-error: true` on each pipeline step so one timeout doesn't block the commit step
+- Recent runs: 37/43/37 profiles enriched across scheduled runs
+
+---
+
 ## 2026-04-04
 
 ### Profile Page Polish
