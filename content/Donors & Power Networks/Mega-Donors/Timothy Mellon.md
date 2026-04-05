@@ -13,6 +13,9 @@ politicians-funded:
   - "JD Vance"
 issues:
   - "Immigration"
+lobbying-spend: 1860000
+lobbying-filings: 51
+last-updated: 2026-04-05
 ---
 
 
@@ -165,6 +168,27 @@ Total: $504M+ — every dollar serving a single ideological project: immigration
 For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: Mellon's immigration enforcement funding directly affects IBEW-adjacent construction markets. ICE raids in construction suppress wages for both undocumented and unionized workers — fear economy benefits non-union contractors who underbid union shops. The $53.1M border wall didn't use prevailing wage. The detention facilities his pipeline fills are built and staffed non-union. Every dollar Mellon spends on immigration enforcement weakens the labor market IBEW members work in.
 
 ---
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.9M |
+| Quarterly Filings | 51 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 4 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Banking, Energy/Nuclear, Financial Institutions/Investments/Securities, Health Issues, Housing, Immigration, Marine/Maritime/Boating/Fisheries, Natural Resources, Roads/Highway, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** MR. TIMOTHY MCGUIRE, TIMOTHY A. GLASSCO CONSULTING LLC, TIMOTHY LOVAIN, TIMOTHY R. RUPLI & ASSOCIATES, INC.
+
+**Agencies contacted:** Consumer Financial Protection Bureau (CFPB), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Deposit Insurance Corporation (FDIC), Federal Maritime Commission, HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Office of Management & Budget (OMB), SENATE +3 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Timothy%20Mellon) (Tier 1)
+
+<!-- auto:lda-lobbying end -->
 
 ### Sources
 

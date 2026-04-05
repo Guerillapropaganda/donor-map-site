@@ -2,7 +2,7 @@
 title: "Tim Walberg"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Republican"
@@ -16,6 +16,8 @@ issues:
   - "Education"
 top-donors:
   - "AIPAC"
+total-received: "$1,208,808"
+fec-candidate-id: "H4MI07103"
 ---
 
 

@@ -9,6 +9,11 @@ sector: "Energy & Utilities"
 entity-type: "Corporation"
 issues:
   - "Energy & Climate"
+ein: 237413843
+annual-revenue: "$14.9M"
+net-assets: "$65.4M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #donor #energy #natural-gas #pipeline #fossil-fuel #republican-lean #class-analysis #follow-the-money
@@ -69,6 +74,20 @@ Williams wants to maintain and expand natural gas pipeline infrastructure, posit
 Williams Companies represents the "moderate face" of fossil fuel political spending — more bipartisan than Enterprise Products at the state level, positioned around the "transition fuel" narrative rather than outright climate denial. But the structural function is identical: lock in fossil fuel infrastructure for decades, ensure regulatory environments that protect pipeline investments, and capture the political class in pipeline-dependent states (Oklahoma, Louisiana, Virginia). The $7.3B Power Innovation investment is the tell — it's designed to make natural gas indispensable to the power grid, creating a structural dependency that outlasts any individual election cycle.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $14.9M |
+| Total Contributions | $0 |
+| Total Expenses | $10.7M |
+| Net Assets | $65.4M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 237413843](https://projects.propublica.org/nonprofits/organizations/237413843) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

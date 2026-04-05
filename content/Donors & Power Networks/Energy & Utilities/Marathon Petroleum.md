@@ -12,6 +12,11 @@ politicians-funded:
 issues:
   - "Energy & Climate"
   - "Dark Money & Campaign Finance"
+ein: 464439930
+annual-revenue: "$5.1M"
+net-assets: "$13.4M"
+tax-year: "2020"
+last-updated: 2026-04-05
 ---
 
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned
@@ -152,6 +157,21 @@ When confronted by E&E News about the covert campaign, Marathon spokesman Chuck 
 | 2020 | Illegal campaign contribution | $1M | FEC fine (no political consequence) | <1 year |
 
 ---
+
+### Financial Overview (990 Filing — 2020)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $5.1M |
+| Total Contributions | $0 |
+| Total Expenses | $3.8M |
+| Net Assets | $13.4M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 464439930](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2021_prefixes_45-52%2F464439930_202012_990PF_2021090318810669.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

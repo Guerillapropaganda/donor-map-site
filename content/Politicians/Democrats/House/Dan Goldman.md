@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+govtrack-id: 456923
+bills-sponsored: 32
+bills-cosponsored: 568
+website: "https://goldman.house.gov"
+phone: "202-225-7944"
+last-updated: 2026-04-05
 ---
 
 #dan-goldman #house #new-york #levi-strauss-heir #impeachment-lawyer #israel-hawk #class-analysis #inherited-wealth #democrat
@@ -80,6 +86,27 @@ Goldman's House votes align precisely with inherited wealth interests and AIPAC 
 ### Political Function Summary
 
 Goldman represents the final stage of Democratic realignment: dynastic wealth in legislative power. His presence in Congress normalizes that inherited wealth buys political power, and that this is consistent with "defending democracy." His primary victory ($4M self-funded crushing grassroots opponents) proves that the Democratic Party is now organized to accept wealthy heirs if they reference the right values. Goldman's impeccable defense-of-democracy credentials provide cover for wealth dominance. AIPAC alignment shows that his inherited wealth power serves specific capital interests. He is not unique; he is exemplary. Future wealthy Democrats will replicate his model: purchase a House seat through superior fundraising, establish legislative credentials through controversy engagement (impeachment, Israel advocacy), and leverage that position for long-term power. Goldman proved the model works.
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 568 |
+| Total Votes Cast | 1,711 |
+
+**Recent bills sponsored:**
+
+- H.R. 7869: RAD Conversion Continuity Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7692: Supreme Court Ethics and Investigations Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7658: Enhanced Cybersecurity for SNAP Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7659: To designate the Pride flag as an authorized flag eligible for display at units of the National Park System, to express  — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7591: Secure Firearm Storage and Suicide Prevention Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456923) (Tier 1)
+
+<!-- auto:govtrack end -->
 
 ### Sources
 

@@ -2,7 +2,7 @@
 title: "Gary Peters Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,6 +18,7 @@ top-donors:
   - "Defense Industry"
   - "UAW - United Auto Workers"
   - "Real Estate Industry"
+fec-candidate-id: "H8MI09068"
 ---
 
 

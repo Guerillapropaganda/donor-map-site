@@ -9,6 +9,9 @@ sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+lobbying-spend: 17065000
+lobbying-filings: 70
+last-updated: 2026-04-05
 ---
 
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark
@@ -43,6 +46,27 @@ Opposition to drug price negotiation expansion (particularly for GLP-1 drugs), f
 > The insulin pricing scandal is the pharmaceutical industry's most damning case study. Insulin — discovered in 1921, patent sold for $1 because the inventors believed it should be universally accessible — costs $2-4 to manufacture per vial. Novo Nordisk, Lilly, and Sanofi charge $200-300 per vial in the US (versus $20-30 in most other countries). The pricing difference is entirely attributable to the US regulatory and patent framework that these three companies spend $20+ million annually lobbying to maintain. 8.4 million Americans depend on insulin; the three-company oligopoly extracts approximately $30 billion annually from this captive market.
 
 ---
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $17.1M |
+| Quarterly Filings | 70 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 22 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Animals, Budget/Appropriations, Clean Air and Water (quality), Copyright/Patent/Trademark, Economics/Economic Development, Energy/Nuclear, Environment/Superfund, Food Industry (safety, labeling, etc.), Health Issues, Homeland Security, Manufacturing, Medicare/Medicaid, Pharmacy, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Transportation, Veterans
+
+**Lobbying firms:** AEROSPACE INTELLIGENCE, LLC, ARNOLD & PORTER KAYE SCHOLER LLP, AVOQ, LLC, BALLARD PARTNERS, BGR GOVERNMENT AFFAIRS, BRIDGE PUBLIC AFFAIRS, LLC, CHECKMATE GOVERNMENT RELATIONS, DUNHAM LAW & POLICY PLLC, HOLLAND & KNIGHT LLP, NELSON MULLINS RILEY & SCARBOROUGH, NOVO NORDISK INC., NOVOCURE INC., NOVOZYMES NORTH AMERICA, INC., NVG, LLC, PUBLIC STRATEGIES WASHINGTON, INC., TARPLIN, DOWNS & YOUNG, LLC, THE MADISON GROUP, THE NICKLES GROUP, LLC, THE RUSSELL GROUP, INC., TODD STRATEGY GROUP, WILLIAMS AND JENSEN, PLLC, XLA ADVISORS, LLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Council of Economic Advisers (CEA), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES +8 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Novo%20Nordisk) (Tier 1)
+
+<!-- auto:lda-lobbying end -->
 
 ### Sources
 

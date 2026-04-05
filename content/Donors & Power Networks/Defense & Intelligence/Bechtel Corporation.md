@@ -9,6 +9,9 @@ sector: "Defense & Intelligence"
 entity-type: "Corporation"
 issues:
   - "Infrastructure"
+lobbying-spend: 2980000
+lobbying-filings: 51
+last-updated: 2026-04-05
 ---
 
 #defense-contractor #infrastructure #private-construction #iraq-war #revolving-door
@@ -43,6 +46,27 @@ Bechtel secured major contracts including: Iraq War infrastructure and base cons
 ### Class Analysis
 
 Bechtel exemplifies military-industrial complex dynamics: a major defense contractor with sustained lobbying influence over military spending, revolving-door access to Pentagon decision-making, and direct financial interest in military intervention. The company's business model depends on high military spending and infrastructure projects—profit incentives align with sustained militarism and military presence. Bechtel's revolving-door relationships reveal structural alignment between corporate interests and military leadership, making clear separation between military strategy and corporate profit impossible. The company's sustained success in securing contracts despite questionable performance records and cost overruns demonstrates that defense contractors operate with minimal accountability—once inside the military-industrial system, performance metrics matter less than relationships and access.
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $3.0M |
+| Quarterly Filings | 51 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Banking, Budget/Appropriations, Defense, Energy/Nuclear, Foreign Relations, Labor Issues/Antitrust/Workplace, Real Estate/Land Use/Conservation, Science/Technology, Taxation/Internal Revenue Code, Transportation, Waste (hazardous/solid/interstate/nuclear)
+
+**Lobbying firms:** BECHTEL GROUP, INC., BECHTEL NATIONAL, INC, ERNST & YOUNG LLP (WASHINGTON COUNCIL ERNST & YOUNG), MILLER & CHEVALIER CHARTERED, OWEN EVANS INGOLS, PHILIP BECHTEL, TONIO BURGOS & ASSOCIATES, INC.
+
+**Agencies contacted:** Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Executive Office of the President (EOP), Federal Energy Regulatory Commission (FERC), Federal Housing Finance Agency (FHFA), Federal Railroad Administration, Federal Transit Administration (FTA), HOUSE OF REPRESENTATIVES, Natl Aeronautics & Space Administration (NASA) +4 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Bechtel%20Corporation) (Tier 1)
+
+<!-- auto:lda-lobbying end -->
 
 ### Sources
 

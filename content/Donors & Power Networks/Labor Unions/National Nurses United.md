@@ -9,6 +9,11 @@ sector: "Labor Unions"
 entity-type: "Individual Donor"
 issues:
   - "Labor & Workers"
+ein: 271450491
+annual-revenue: "$18.1M"
+net-assets: "$52.0M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #nnu #nurses-union #medicare-for-all #progressive #labor #225k-members
@@ -34,6 +39,22 @@ NNU has been the most consistent institutional voice for Medicare for All in Ame
 ### Class Analysis
 
 National Nurses United represents class analysis embedded within labor organizing: the union consistently connects healthcare worker exploitation to patient harm, arguing that understaffing that maximizes corporate profit directly harms patients. This analysis rejects the false choice between worker interests and patient interests, instead arguing that they are aligned against corporate management. NNU's aggressive pursuit of Medicare for All represents a fundamental challenge to healthcare corporations' profit extraction: universal healthcare would eliminate the ability of hospital corporations to charge whatever the market will bear. The union's militancy — its willingness to strike and disrupt healthcare operations — demonstrates that fundamental healthcare reform requires confrontation with corporate power, not compromise with it.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $18.1M |
+| Total Contributions | $0 |
+| Program Service Revenue | $17.2M |
+| Investment Income | $870K |
+| Total Expenses | $13.5M |
+| Net Assets | $52.0M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 271450491](https://projects.propublica.org/nonprofits/organizations/271450491) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

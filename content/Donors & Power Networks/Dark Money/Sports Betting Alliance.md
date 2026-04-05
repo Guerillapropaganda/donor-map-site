@@ -2,13 +2,14 @@
 title: "Sports Betting Alliance"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+total-political-spend: "$766,000"
 ---
 
 #sports-betting #dark-money #draftkings-fanduel #gambling-expansion #lobbying

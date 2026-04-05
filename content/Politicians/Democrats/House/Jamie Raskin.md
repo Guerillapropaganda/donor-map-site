@@ -2,9 +2,11 @@
 title: "Jamie Raskin"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
+total-received: "$4,396,225"
+fec-candidate-id: "H6MD08457"
 ---
 
 #master-profile #democrat #house #maryland #january-6 #constitutional-law #class-contradiction

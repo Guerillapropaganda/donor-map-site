@@ -13,6 +13,11 @@ politicians-funded:
   - "Mike Rogers"
 issues:
   - "Defense & Military"
+ein: 946107683
+annual-revenue: "$137K"
+net-assets: "$74K"
+tax-year: "2014"
+last-updated: 2026-04-05
 ---
 
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door
@@ -181,6 +186,21 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 | 2024 | LMEPAC contributions continue | $1.57M | FY2025 Defense authorization requests $6.8B F-35 sole-source contract | Pending | Anticipated approval with no competitive challenge |
 
 ---
+
+### Financial Overview (990 Filing — 2014)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $137K |
+| Total Contributions | $0 |
+| Total Expenses | $140K |
+| Net Assets | $74K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 946107683](https://projects.propublica.org/nonprofits/organizations/946107683) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2014_09_EO%2F94-6107683_990EO_201406.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

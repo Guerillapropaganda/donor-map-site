@@ -2,7 +2,7 @@
 title: "Tulsi Gabbard Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,6 +11,8 @@ state: "Hawaii"
 state-abbr: "HI"
 top-donors:
   - "MAGA Inc"
+total-received: "$737,137"
+fec-candidate-id: "H2HI02508"
 ---
 
 

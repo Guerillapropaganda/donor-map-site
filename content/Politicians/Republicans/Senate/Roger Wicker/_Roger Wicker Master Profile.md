@@ -16,6 +16,12 @@ issues:
 top-donors:
   - "Lockheed Martin"
   - "Northrop Grumman"
+govtrack-id: 400432
+bills-sponsored: 39
+bills-cosponsored: 237
+website: "https://www.wicker.senate.gov"
+phone: "202-224-6253"
+last-updated: 2026-04-05
 ---
 
 
@@ -121,6 +127,27 @@ Wicker's signature is the national security frame that never mentions money. Eve
 On foreign policy, Wicker positions as a reliable hawk — pro-Ukraine, pro-Taiwan, anti-China — which aligns defense contractor interests (more weapons production) with bipartisan foreign policy consensus. His advocacy for a $1.5 billion Taiwan weapons replenishment fund and dedicated Taiwan weapons stockpile creates specific procurement mandates that translate directly to contractor orders.
 
 ---
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 237 |
+| Total Votes Cast | 14,606 |
+
+**Recent bills sponsored:**
+
+- S. 4164: A bill to make technical corrections to the National Defense Authorization Act for Fiscal Year 2026. — *This bill passed in the Senate on March 23, 2026 and goes to the House next for consideration.*
+- S. 4138: A bill to waive the 60-day notice requirement for the posthumous honorary promotion of Captain Cody Khork, United States — *This bill was enacted after being signed by the President on March 20, 2026.*
+- S. 4154: Research and Oversight of AI in Courts Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3266: USMMA Athletics Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
+- S.Con.Res. 27: A concurrent resolution celebrating the 125th Anniversary of the Army Nurse Corps. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400432) (Tier 1)
+
+<!-- auto:govtrack end -->
 
 ### Sources
 

@@ -2,7 +2,7 @@
 title: "Susquehanna International Group"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Technology"
+total-political-spend: "$500"
 ---
 
 #donor #mega-donor #sig #susquehanna #jeff-yass #trading #crypto #tiktok #libertarian #school-choice #republican #class-analysis #follow-the-money

@@ -12,6 +12,11 @@ politicians-funded:
 issues:
   - "Housing"
   - "Dark Money & Campaign Finance"
+ein: 521128863
+annual-revenue: "$8.0M"
+net-assets: "$7.1M"
+tax-year: "2024"
+last-updated: 2026-04-05
 ---
 
 
@@ -115,6 +120,23 @@ Opportunity Zones were marketed as anti-poverty policy. The reality: $48 billion
 **The structural function:** RER exists to ensure that real estate remains the most tax-advantaged asset class in America. Every threat to this status — from TCJA negotiations to the IRA to annual budget proposals — is met with targeted lobbying and strategic campaign spending. The $2-4M annual investment preserves $90B+ in annual benefits. No other lobbying operation in the vault achieves this ROI.
 
 ---
+
+### Financial Overview (990 Filing — 2024)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $8.0M |
+| Total Contributions | $0 |
+| Program Service Revenue | $7.9M |
+| Investment Income | $159K |
+| Total Expenses | $8.2M |
+| Net Assets | $7.1M |
+| Officer Compensation | $2.4M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 521128863](https://projects.propublica.org/nonprofits/organizations/521128863) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

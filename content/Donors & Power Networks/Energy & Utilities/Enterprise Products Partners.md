@@ -9,6 +9,10 @@ sector: "Energy & Utilities"
 entity-type: "Corporation"
 issues:
   - "Energy & Climate"
+federal-awards-total: 0
+federal-contracts-count: 0
+federal-grants-count: 2
+last-updated: 2026-04-05
 ---
 
 #donor #energy #midstream #fossil-fuel #pipeline #republican-lean #class-analysis #follow-the-money
@@ -68,6 +72,26 @@ Enterprise Products wants to preserve and expand fossil fuel infrastructure — 
 Enterprise Products Partners represents the structural core of fossil fuel political influence — not through ideological crusading but through business-model defense. The $768K in political contributions is a rounding error against $52.6B in revenue, but it buys access to the legislators who control pipeline permitting, emissions standards, and MLP tax treatment. The company's 80% Republican contribution ratio reflects a straightforward calculation: Republicans are more reliably aligned with the fossil fuel policy agenda. The MLP structure itself is a class benefit — it allows the company to distribute nearly all income to unitholders (mostly wealthy investors) while paying minimal corporate tax. Every dollar spent on political access protects this structural advantage.
 
 ---
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 0 ($0 sampled) |
+| Grants (recent 3yr) | 2 ($2.4M sampled) |
+| Federal Agencies | 1 |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $2.0M | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
+| $460K | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Enterprise%20Products%20Partners) (Tier 1)
+
+<!-- auto:usaspending end -->
 
 ### Sources
 

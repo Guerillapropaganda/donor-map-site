@@ -5,6 +5,11 @@ content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 2
 parent: null
+ein: 852619691
+annual-revenue: "$596K"
+net-assets: "$90K"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #think-tank #climate #accountability #non-partisan #data-driven #corporate-influence #class-analysis #follow-the-money
@@ -61,6 +66,22 @@ InfluenceMap's Carbon Majors database update attributed 57% of global CO2 emissi
 InfluenceMap occupies a specific structural position in the political economy of climate: it produces the data that makes corporate climate hypocrisy legible. The A+ to F scoring system and the Carbon Majors database convert abstract lobbying activity into concrete, citable metrics that investors, regulators, and journalists can act on. Its effectiveness depends on maintaining methodological independence — which depends on philanthropic funding that doesn't come with conditions. The organization faces ongoing criticism from industry groups that characterize its methodology as biased, which is itself a data point about its effectiveness as an accountability mechanism.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $596K |
+| Total Contributions | $498K |
+| Program Service Revenue | $98K |
+| Total Expenses | $601K |
+| Net Assets | $90K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 852619691](https://projects.propublica.org/nonprofits/organizations/852619691) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_84-93%2F852619691_202303_990_2024022022297382.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

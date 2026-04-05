@@ -15,6 +15,10 @@ annual-revenue: "$17.7M"
 net-assets: "$212.6M"
 tax-year: "2023"
 last-updated: 2026-04-04
+federal-awards-total: 13881681
+federal-contracts-count: 25
+federal-grants-count: 0
+last-updated: 2026-04-05
 ---
 
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
@@ -64,6 +68,30 @@ The right-to-repair fight is a case study in how intellectual property law conve
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F366051024_202310_990PF_2024110422794422.pdf) (Tier 1)
 
 <!-- auto:propublica-990 end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $13.9M |
+| Contracts (recent 3yr) | 25 ($41.4M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 4 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $7.6M | Department of Defense | 8511618895!WHEEL LOADER |
+| $7.0M | Department of Defense | 8508745369!WHEEL LOADER |
+| $6.7M | Department of Defense | 8510172333!TRACK LOADER |
+| $6.4M | Department of Defense | 8511246304!MTR GRADER |
+| $1.9M | Department of Defense | 8511345881!MOTOR GRADER |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-John%20Deere) (Tier 1)
+
+<!-- auto:usaspending end -->
 
 ### Sources
 

@@ -9,6 +9,11 @@ sector: "Real Estate"
 entity-type: "Corporation"
 issues:
   - "Housing"
+ein: 474822520
+annual-revenue: "$3.3M"
+net-assets: "$977K"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #donor #real-estate #housing #trade-association #institutional-landlords #revolving-door #class-analysis #follow-the-money
@@ -65,6 +70,23 @@ NRHC represents the corporate landlord class — private equity-backed firms tha
 > NRHC promotes "Resident-First principles" and "community investment" while its member companies — Invitation Homes, American Homes 4 Rent, Progress Residential — face widespread tenant complaints about maintenance neglect, rent increases, and excessive fees. The organization exists to protect the financial returns of institutional investors, not to serve residents.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $3.3M |
+| Total Contributions | $265K |
+| Program Service Revenue | $3.0M |
+| Investment Income | $179 |
+| Total Expenses | $3.6M |
+| Net Assets | $977K |
+| Officer Compensation | $515K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 474822520](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

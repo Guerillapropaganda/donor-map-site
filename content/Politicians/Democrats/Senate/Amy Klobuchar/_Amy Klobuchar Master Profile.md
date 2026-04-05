@@ -2,7 +2,7 @@
 title: "Amy Klobuchar"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,6 +23,8 @@ top-donors:
   - "Goldman Sachs"
   - "Apple"
   - "Meta - Facebook"
+total-received: "$2,401,862"
+fec-candidate-id: "S6MN00267"
 ---
 
 #amy-klobuchar #democrat #minnesota #senate #antitrust #judiciary #agriculture #tech #genuine-win-structural-limit #two-audience-problem #revolving-door

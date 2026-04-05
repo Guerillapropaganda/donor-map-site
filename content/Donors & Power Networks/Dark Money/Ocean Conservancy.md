@@ -10,6 +10,9 @@ entity-type: "Individual Donor"
 issues:
   - "Environment"
   - "Dark Money & Campaign Finance"
+lobbying-spend: 5725200
+lobbying-filings: 86
+last-updated: 2026-04-05
 ---
 
 #ocean-conservancy #environment #nonprofit #conservation #fishing #plastics #dark-money #corporate-capture #greenwashing
@@ -149,6 +152,27 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 - Magnuson-Stevens Act (fisheries management), Bipartisan Infrastructure Law (marine debris), Inflation Reduction Act (NOAA climate investment), UN Global Plastics Treaty — key legislative and regulatory arenas
 
 ---
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $5.7M |
+| Quarterly Filings | 86 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 31 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Animals, Arts/Entertainment, Budget/Appropriations, Clean Air and Water (quality), Defense, Education, Energy/Nuclear, Environment/Superfund, Food Industry (safety, labeling, etc.), Fuel/Gas/Oil, Government Issues, Health Issues, Intelligence, Labor Issues/Antitrust/Workplace, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Natural Resources, Science/Technology, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Veterans
+
+**Lobbying firms:** ARDEIDAE GROUP LLC, ARENTFOX SCHIFF LLP, BALLARD PARTNERS, BIOHARBOR STRATEGIES FKA DANA O'BRIEN, CAPITOL COUNSEL LLC, CAPITOL INTEGRATION, CAPITOLINE CONSULTING, LLC, CASSIDY & ASSOCIATES, INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., EARL STOCKDALE, HIGH STREET STRATEGIES LLC, INNOVATIVE FEDERAL STRATEGIES, LLC, JONES WALKER, LLP, KELLEY DRYE & WARREN LLP, NATIONAL OCEAN INDUSTRIES ASSOCIATION, NORTH SHORE CONSULTANTS, OCEAN CONSERVANCY, OCEAN SPRAY CRANBERRIES, INC, OCEANA, INC., OCEANTIC NETWORK, ROBERTSON, MONAGLE & EASTAUGH LLC, STATE STREET STRATEGIES DBA ONE+ STRATEGIES, STRATEGIC MARKETING INNOVATIONS, STRATEGIES 360, STROGEN LLC, THE MCSWANE GROUP, THE PICARD GROUP, LLC, THE RUSSELL GROUP, INC., THORN RUN PARTNERS, VAN BUSKIRK AND ASSOCIATES LLC, VELOCITY GOVERNMENT RELATIONS
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Council on Environmental Quality (CEQ), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), HOUSE OF REPRESENTATIVES +12 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ocean%20Conservancy) (Tier 1)
+
+<!-- auto:lda-lobbying end -->
 
 ### Sources
 

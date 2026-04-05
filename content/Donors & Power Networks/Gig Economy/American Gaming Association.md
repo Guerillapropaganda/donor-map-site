@@ -7,6 +7,11 @@ source-tier: 1
 parent: null
 sector: "Gig Economy"
 entity-type: "Individual Donor"
+ein: 931169142
+annual-revenue: "$17.4M"
+net-assets: "$30.6M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #gaming #gambling #casino #sports-betting #lobbying #addiction #deregulation #murphyvncaa #revolving-door #bipartisan #class-analysis #follow-the-money
@@ -153,6 +158,23 @@ The prediction market schism reveals the limits of trade association governance 
 - GRIT Act (Gambling Addiction Recovery, Investment, and Treatment) — opposed by AGA; would mandate addiction treatment funding
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $17.4M |
+| Total Contributions | $100K |
+| Program Service Revenue | $16.4M |
+| Investment Income | $593K |
+| Total Expenses | $14.6M |
+| Net Assets | $30.6M |
+| Officer Compensation | $5.3M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 931169142](https://projects.propublica.org/nonprofits/organizations/931169142) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

@@ -2,7 +2,7 @@
 title: "Stephen Schwarzman"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Wall Street & Finance"
+total-political-spend: "$36,566,410"
 ---
 
 #donor #billionaire #republican #private-equity #blackstone #wall-street

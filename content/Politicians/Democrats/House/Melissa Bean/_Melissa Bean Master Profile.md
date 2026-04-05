@@ -2,7 +2,7 @@
 title: "Melissa Bean Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,6 +11,18 @@ district: "8"
 top-donors:
   - "Think Big AI PAC"
   - "AIPAC"
+bioguide-id: "B001296"
+issues:
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Families"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Immigration"
 ---
 
 #democrat #politician #house

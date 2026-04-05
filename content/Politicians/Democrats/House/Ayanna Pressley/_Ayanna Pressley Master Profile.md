@@ -2,7 +2,7 @@
 title: "Ayanna Pressley Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,8 @@ state-abbr: "MA"
 district: "7"
 issues:
   - "Criminal Justice"
+total-received: "$687,535"
+fec-candidate-id: "H8MA07032"
 ---
 
 #pressley #massachusetts #progressive #squad #financial-services #criminal-justice #boston

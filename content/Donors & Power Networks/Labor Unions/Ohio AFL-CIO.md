@@ -2,11 +2,12 @@
 title: "Ohio AFL-CIO"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 2
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
+total-political-spend: "$1,478,057"
 ---
 
 #labor-union #ohio-politics #democratic-donor #working-class #labor-federation

@@ -2,7 +2,7 @@
 title: "Brian Babin"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,8 @@ issues:
   - "Energy & Climate"
   - "Environment"
   - "Immigration"
+total-received: "$749,136"
+fec-candidate-id: "H6TX02079"
 ---
 
 

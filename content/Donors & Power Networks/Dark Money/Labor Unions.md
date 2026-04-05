@@ -9,6 +9,11 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Labor & Workers"
+ein: 936032678
+annual-revenue: "$18.3M"
+net-assets: "$57.0M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #labor #unions #democratic #organizing #collective-bargaining #pac #decline
@@ -27,6 +32,22 @@ Labor unions are the largest institutional donor bloc in the Democratic coalitio
 > Labor unions are the only institutional donor bloc in American politics whose political agenda is structurally aligned with working-class interests — but the $500M+ per cycle in political spending has produced diminishing returns as union membership declines and corporate political spending escalates. Unions' political investment in Democrats has not prevented trade liberalization (NAFTA, PNTR with China), weakening of labor law (no card check, no PRO Act), or the erosion of the right to organize. The structural paradox: unions are the Democratic Party's largest institutional donor, but the policies most important to unions (labor law reform, trade protection) are the policies Democrats most frequently sacrifice to appease corporate donors. Unions fund the party; the party serves the donors who oppose unions.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $18.3M |
+| Total Contributions | $0 |
+| Program Service Revenue | $4.7M |
+| Investment Income | $19K |
+| Total Expenses | $3.1M |
+| Net Assets | $57.0M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 936032678](https://projects.propublica.org/nonprofits/organizations/936032678) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

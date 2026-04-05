@@ -2,13 +2,14 @@
 title: "American Iron and Steel Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
+total-political-spend: "$542,903"
 ---
 
 

@@ -10,6 +10,11 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
+ein: 844239468
+annual-revenue: "$2K"
+net-assets: "$1K"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #media-matters #dark-money #progressive #media-watchdog #democracy-alliance #Elon-Musk-lawsuit #infrastructure
@@ -103,6 +108,20 @@ Media Matters also illustrates **asymmetry in progressive vs. conservative media
 The Musk lawsuit reveals that this billionaire-funded model is strategically vulnerable to billionaire counter-attack.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2K |
+| Total Contributions | $0 |
+| Total Expenses | $1K |
+| Net Assets | $1K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 844239468](https://projects.propublica.org/nonprofits/organizations/844239468) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

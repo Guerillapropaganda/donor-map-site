@@ -9,6 +9,11 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+ein: 202466871
+annual-revenue: "$143.1M"
+net-assets: "$3.9M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #85-fund #dark-money #judicial #Leonard-Leo #judicial-education-project #SCOTUS #nomination-campaigns
@@ -75,6 +80,21 @@ The 85 Fund also illustrates the **asymmetry in progressive dark money**: Democr
 The Fund's rebranding from "Judicial Education Project" to "The 85 Fund" reveals self-awareness about opacity: the new name conveys numbers and victory framing ("we have 85 judges") while obscuring the organization's explicit political function.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $143.1M |
+| Total Contributions | $143.1M |
+| Total Expenses | $145.4M |
+| Net Assets | $3.9M |
+| Officer Compensation | $246K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 202466871](https://projects.propublica.org/nonprofits/organizations/202466871) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

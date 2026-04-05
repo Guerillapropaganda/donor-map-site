@@ -11,6 +11,11 @@ politicians-funded:
   - "Chuck Schumer"
 issues:
   - "Wall Street & Finance"
+ein: 136155650
+annual-revenue: "$1.0M"
+net-assets: "$18.6M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying
@@ -62,6 +67,20 @@ Heavily weighted toward New York delegation and Senate Finance/House Ways and Me
 Morgan Stanley is the donor class's bank. Its wealth management division serves the same ultra-wealthy individuals who fund political campaigns, endow think tanks, and sit on corporate boards. When Morgan Stanley lobbies to reduce capital gains taxes, it is simultaneously serving its clients' financial interests and its own business model — lower taxes on wealth mean more wealth flowing into Morgan Stanley's management. The bank operates as a feedback loop: the donor class deposits wealth, Morgan Stanley manages it, the bank lobbies for policies that grow that wealth, and the growing wealth generates more management fees. The political operation is not separate from the business — it is the business.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.0M |
+| Total Contributions | $0 |
+| Total Expenses | $147K |
+| Net Assets | $18.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 136155650](https://projects.propublica.org/nonprofits/organizations/136155650) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 
