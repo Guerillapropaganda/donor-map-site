@@ -108,6 +108,54 @@ Research Claude operates from `C:\Users\third\Documents\Obsidian Vaults\` and ma
 | `scripts/enrich-frontmatter.cjs` | Bulk adds YAML fields from folder paths, hashtags, content. `--write` to apply. |
 | `scripts/rss-pipeline.cjs` | Scans political RSS feeds, matches against profiles, generates event drafts + daily digest. `--write` to save. |
 
+## Research Automation Pipeline
+
+Node.js scripts that pull data from government APIs and check URLs locally. **These run for free** — no Claude tokens. Claude tokens are only spent when reading reports and updating vault files.
+
+### Setup
+- API keys live in `.env` (gitignored). See `.env.example` for template.
+- FEC registered key: 1,000 req/hr. Congress.gov: 5,000 req/hr. Senate LDA: token auth.
+- Reports output to `reports/` (gitignored). Cache persists across runs.
+
+### Scripts
+
+| Script | What It Does | Typical Command |
+|---|---|---|
+| `scripts/url-checker.cjs` | Checks every URL in the vault via HEAD requests. Replaces SEO tools. | `node scripts/url-checker.cjs --verbose` |
+| `scripts/fec-pipeline.cjs` | Pulls FEC donation data (totals, contributions, independent expenditures) for all tracked politicians and donors. | `node scripts/fec-pipeline.cjs --verbose` |
+| `scripts/congress-pipeline.cjs` | Pulls Congress.gov data (sponsored bills, committees, policy areas) for politicians. | `node scripts/congress-pipeline.cjs --verbose` |
+| `scripts/research-report.cjs` | Reads all pipeline outputs, generates one unified actionable report. | `node scripts/research-report.cjs` |
+| `scripts/rss-pipeline.cjs` | Scans political RSS feeds, matches against profiles, generates event drafts. | `node scripts/rss-pipeline.cjs --verbose` |
+| `scripts/enrich-frontmatter.cjs` | Bulk-adds YAML fields from folder paths, hashtags, content. | `node scripts/enrich-frontmatter.cjs --write` |
+
+### All scripts follow the same pattern:
+- **Dry-run by default** — preview only, no files changed
+- **`--write`** flag to apply changes to vault files
+- **`--verbose`** flag for detailed output
+- **`--profile="Name"`** to target a single profile (fec/congress pipelines)
+- **Cache** prevents re-fetching recent data. Override with `--cache-ttl=0`
+
+### Shared infrastructure: `scripts/lib/`
+- `shared.cjs` — file walking, frontmatter parsing, HTTP utilities, rate limiter, cache, report writer
+- `api-config.cjs` — reads `.env`, centralizes API endpoints/keys/rate limits
+
+### Pipeline workflow (manual or automated):
+```bash
+node scripts/url-checker.cjs            # 1. Check URLs (free, no API keys)
+node scripts/fec-pipeline.cjs           # 2. Pull FEC data
+node scripts/congress-pipeline.cjs      # 3. Pull Congress data
+node scripts/rss-pipeline.cjs           # 4. Scan RSS feeds
+node scripts/research-report.cjs        # 5. Generate unified report
+# Then: Claude reads reports/research-report.md and updates vault
+```
+
+### Reports directory (`reports/` — gitignored)
+- `url-check.json/.md` — dead links, bot-blocked, (URL NEEDED) inventory
+- `fec-pipeline.json/.md` — fundraising totals, contribution data, IE spending
+- `congress-pipeline.json/.md` — bills sponsored, committees, policy areas
+- `research-report.json/.md` — unified intelligence report with action items
+- `*-cache.json` — persistent cache (candidate IDs, URL status, data freshness)
+
 ## Build & Deploy
 ```bash
 cd /c/Users/third/donor-map-site
