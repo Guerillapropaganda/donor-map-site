@@ -7,6 +7,11 @@ source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Individual Donor"
+ein: 20654518
+annual-revenue: "$1.3M"
+net-assets: "$2.2M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #defense-contractors #military-industrial #bipartisan #ndaa #revolving-door #lobbying #class-analysis #follow-the-money
@@ -112,6 +117,23 @@ The defense sector's bipartisan strategy is the most sophisticated form of polit
 The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans publicly disagree on defense priorities, strategy, and rhetoric while reliably voting together to increase the defense budget every single year. The disagreement is performance; the spending is structural.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.3M |
+| Total Contributions | $0 |
+| Program Service Revenue | $1.3M |
+| Investment Income | $1K |
+| Total Expenses | $1.3M |
+| Net Assets | $2.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 20654518](https://projects.propublica.org/nonprofits/organizations/20654518) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F020654518_202312_990O_2024061722535487.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

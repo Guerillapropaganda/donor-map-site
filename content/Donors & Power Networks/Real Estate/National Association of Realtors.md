@@ -10,6 +10,8 @@ entity-type: "Corporation"
 issues:
   - "Housing"
   - "Antitrust & Monopoly"
+federal-contracts: "2616134"
+last-updated: 2026-04-05
 ---
 
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door
@@ -284,6 +286,32 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 > **Structural function:** NAR ensures the real estate industry does not face meaningful regulation. The industry does not need the government to build housing. It needs the government to not constrain housing prices, not regulate commissions, not enforce fair housing, and not interfere with the extraction of maximum value. NAR's bipartisan model — splitting money equally while deploying dark money asymmetrically — guarantees that no political coalition can form with sufficient durability to challenge real estate capital. As long as both parties depend on NAR's money and fear NAR's independent expenditure power, housing reform at scale is structurally impossible.
 
 ---
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 2616134 |
+| Sample Value (top 25) | $29K |
+| Year Range | 2005-2018 |
+| Federal Agencies | 4 |
+
+**Contracting agencies:** AGRICULTURE, DEPARTMENT OF, HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF, SMALL BUSINESS ADMINISTRATION, TREASURY, DEPARTMENT OF THE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $5K | AGRICULTURE, DEPARTMENT OF | 2017-09-07 |
+| $4K | HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF | 2011-08-23 |
+| $3K | SMALL BUSINESS ADMINISTRATION | 2011-11-03 |
+| $0 | AGRICULTURE, DEPARTMENT OF | 2014-02-19 |
+| $0 | AGRICULTURE, DEPARTMENT OF | 2009-09-04 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=National%20Association%20of%20Realtors&page=1&index=opp) (Tier 1)
+
+<!-- auto:sam-contracts end -->
 
 ### Sources
 

@@ -14,6 +14,8 @@ politicians-funded:
   - "Katie Porter"
 issues:
   - "Labor & Workers"
+federal-contracts: "1444229"
+last-updated: 2026-04-05
 ---
 
 
@@ -142,6 +144,32 @@ The Walmart problem is the UFCW's existential crisis and a microcosm of the enti
 For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFCW Locals 1167 and 1428 cover the same Inland Empire territory as IBEW Locals 477 and 440. The grocery workers and the electricians are in the same communities, shopping at the same stores, sending their kids to the same schools. When grocery wages decline, it affects the entire working-class ecosystem of the IE. And the structural threat — non-union competition undercutting union standards — is identical across both industries. Walmart did to UFCW what non-union electrical contractors do to IBEW: compete on price by suppressing labor costs.
 
 ---
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 1444229 |
+| Sample Value (top 25) | $314K |
+| Year Range | 2004-2009 |
+| Federal Agencies | 1 |
+
+**Contracting agencies:** GENERAL SERVICES ADMINISTRATION
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $15K | GENERAL SERVICES ADMINISTRATION | 2005-07-01 |
+| $15K | GENERAL SERVICES ADMINISTRATION | 2005-01-01 |
+| $15K | GENERAL SERVICES ADMINISTRATION | 2006-01-01 |
+| $15K | GENERAL SERVICES ADMINISTRATION | 2004-10-01 |
+| $8K | GENERAL SERVICES ADMINISTRATION | 2007-01-01 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=UFCW%20-%20United%20Food%20and%20Commercial%20Workers&page=1&index=opp) (Tier 1)
+
+<!-- auto:sam-contracts end -->
 
 ### Sources
 

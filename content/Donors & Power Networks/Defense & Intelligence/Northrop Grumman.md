@@ -11,6 +11,8 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Defense & Military"
+federal-contracts: "94260"
+last-updated: 2026-04-05
 ---
 
 
@@ -175,6 +177,32 @@ Northrop Grumman represents the defense sector's most refined form of structural
 **War as revenue validation.** Northrop's stock surged 46% from June 2025 to March 2026 as the Iran conflict escalated. Peace talks triggered pullbacks. The company's shareholder value is structurally aligned with conflict escalation — not because Northrop causes wars, but because its valuation model prices in the demand that wars generate. When stock price rewards conflict and punishes peace, shareholder pressure becomes a structural lobby for military engagement without anyone filing a lobbying disclosure.
 
 ---
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 94260 |
+| Sample Value (top 25) | $4.1B |
+| Year Range | 2008-2018 |
+| Federal Agencies | 1 |
+
+**Contracting agencies:** DEPT OF DEFENSE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $0 | DEPT OF DEFENSE | 2011-09-07 |
+| $0 | DEPT OF DEFENSE | 2008-04-04 |
+| $0 | DEPT OF DEFENSE | 2008-03-11 |
+| $0 | DEPT OF DEFENSE | 2010-09-10 |
+| $0 | DEPT OF DEFENSE | 2009-11-24 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Northrop%20Grumman&page=1&index=opp) (Tier 1)
+
+<!-- auto:sam-contracts end -->
 
 ### Sources
 

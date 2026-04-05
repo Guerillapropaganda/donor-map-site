@@ -7,6 +7,8 @@ source-tier: 1
 parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
+federal-contracts: "8213"
+last-updated: 2026-04-05
 ---
 
 #saudi-arabia #foreign #oil #arms-sales #mbs #pif #lobbying #khashoggi
@@ -39,6 +41,32 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 > Saudi Arabia's U.S. influence operation illustrates how foreign powers purchase American policy without campaign contributions: $100+ billion in arms purchases create defense industry dependencies in dozens of congressional districts, $20-30 million in annual lobbying employs former senior officials who provide access to current policymakers, and $930 billion in sovereign wealth fund investments create corporate advocates for the Saudi relationship. The arms sales are the critical mechanism: every Raytheon missile, Lockheed fighter jet, and Boeing helicopter sold to Saudi Arabia creates American jobs that make those weapons sales politically untouchable. Congressional opposition to Saudi arms sales — even after the Khashoggi murder — fails because the economic dependencies are distributed across enough districts to prevent a veto-proof majority.
 
 ---
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 8213 |
+| Sample Value (top 25) | $9.0M |
+| Year Range | 1989-2024 |
+| Federal Agencies | 3 |
+
+**Contracting agencies:** DEPT OF DEFENSE, ENERGY, DEPARTMENT OF, STATE, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $154K | STATE, DEPARTMENT OF | 2023-02-01 |
+| $77K | DEPT OF DEFENSE | 2021-01-27 |
+| $72K | STATE, DEPARTMENT OF | 2020-08-12 |
+| $72K | STATE, DEPARTMENT OF | 2021-06-29 |
+| $34K | STATE, DEPARTMENT OF | 2019-09-29 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Saudi%20Arabia%20-%20Kingdom%20Investment&page=1&index=opp) (Tier 1)
+
+<!-- auto:sam-contracts end -->
 
 ### Sources
 

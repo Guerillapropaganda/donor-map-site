@@ -7,6 +7,11 @@ source-tier: 2
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
+ein: 756085578
+annual-revenue: "$253K"
+net-assets: "$112K"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #AFGE #labor-union #federal-employees #government-workers #DOGE #Trump-layoffs #union-resistance
@@ -123,6 +128,22 @@ AFGE's position also reveals **bifurcation of labor movement:**
 This means AFGE's defense of federal jobs is simultaneously defense of privileged union position and resistance to labor's overall decline.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $253K |
+| Total Contributions | $253K |
+| Total Expenses | $256K |
+| Net Assets | $112K |
+| Officer Compensation | $9K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 756085578](https://projects.propublica.org/nonprofits/organizations/756085578) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F756085578_202312_990O_2024061722533963.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

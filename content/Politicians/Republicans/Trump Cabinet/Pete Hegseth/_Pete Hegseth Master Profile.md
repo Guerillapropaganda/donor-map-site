@@ -2,7 +2,7 @@
 title: "Pete Hegseth Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 2
 parent: null
 party: "Republican"
@@ -11,6 +11,8 @@ top-donors:
   - "Defense Contractors Bloc"
   - "Concerned Veterans for America"
   - "Koch Network"
+total-received: "$202,554"
+fec-candidate-id: "S2MN00258"
 ---
 
 > [!warning] DUPLICATE — DO NOT EDIT

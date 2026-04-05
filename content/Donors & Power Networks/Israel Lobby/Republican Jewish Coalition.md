@@ -7,6 +7,11 @@ source-tier: 2
 parent: null
 sector: "Israel Lobby"
 entity-type: "Individual Donor"
+ein: 521386172
+annual-revenue: "$6.4M"
+net-assets: "$3.4M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #republican-jewish-coalition #RJC #israel-lobby #pro-israel #mega-donor #sheldon-adelson #miriam-adelson
@@ -102,6 +107,23 @@ The post-Adelson transition reveals **billionaire-driven political continuity:**
 The RJC also demonstrates **asymmetry in pro-Israel vs. pro-Palestinian funding:** Pro-Israel funding ($500M+ annually through RJC, AIPAC, and affiliated networks) vastly exceeds pro-Palestinian funding (roughly $50M+ annually through smaller organizations). This funding disparity directly translates to political disparity: pro-Israel positions dominate Congress not because they represent democratic majorities, but because they command superior financial resources.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $6.4M |
+| Total Contributions | $4.1M |
+| Program Service Revenue | $2.3M |
+| Investment Income | $19K |
+| Total Expenses | $6.4M |
+| Net Assets | $3.4M |
+| Officer Compensation | $711K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 521386172](https://projects.propublica.org/nonprofits/organizations/521386172) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

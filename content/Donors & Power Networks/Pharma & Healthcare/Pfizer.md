@@ -9,6 +9,10 @@ sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+federal-awards-total: 0
+federal-contracts-count: 25
+federal-grants-count: 1
+last-updated: 2026-04-05
 ---
 
 
@@ -136,6 +140,35 @@ The COVID windfall revealed the mechanism at industrial scale. Taxpayers funded 
 The RFK Jr. disruption is structurally interesting because it represents the one scenario Pfizer's political machine couldn't hedge against: an ideological opponent placed inside the regulatory apparatus by the very president Pfizer's PAC also funded. Bipartisan giving protects against policy shifts. It doesn't protect against institutional nihilism.
 
 ---
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 25 ($31.9B sampled) |
+| Grants (recent 3yr) | 1 ($1.5M sampled) |
+| Federal Agencies | 4 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $12.5B | Department of Defense | AWARD OF 10M TREATMENT COURSES OF ORAL PROTEASE INHIBITOR PF-07321332 |
+| $11.1B | Department of Defense | COVID-19 VACCINE PRODUCTION |
+| $4.2B | Agency for International Development | COVID-19 VACCINES FOR INTERNATIONAL DONATION |
+| $4.0B | Department of Defense | COVID-19 ADULT MDV VACCINE |
+| $69.7M | Department of Health and Human Services | IGF::OT::IGF |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $1.5M | Department of Health and Human Services | DEVELOPING A NOVEL ANTIFUNGAL TARGETING GWT1 FOR THE TREATMENT OF INVASIVE ASPERGILLOSIS AND RARE MO |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Pfizer%20Inc.) (Tier 1)
+
+<!-- auto:usaspending end -->
 
 ### Sources
 

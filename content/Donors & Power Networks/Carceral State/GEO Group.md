@@ -13,6 +13,8 @@ politicians-funded:
   - "Chad Bianco"
   - "Marco Rubio"
   - "Pam Bondi"
+federal-contracts: "959292"
+last-updated: 2026-04-05
 ---
 
 #donor #private-prison #immigration-detention #GEO-group #ICE #for-profit-detention #republican-donor #trump #class-analysis #follow-the-money #revolving-door #carceral-state #detention-expansion #ankle-monitor #bi-incorporated #electronic-monitoring #e-carceration #pam-bondi #sedition-caucus #forced-labor #racial-disparity
@@ -453,6 +455,32 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - [[Day 1 Alliance|Day 1 Alliance (trade association)]]
 
 ---
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 959292 |
+| Sample Value (top 25) | $11.9M |
+| Year Range | 2004-2010 |
+| Federal Agencies | 2 |
+
+**Contracting agencies:** DEPT OF DEFENSE, VETERANS AFFAIRS, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $892K | DEPT OF DEFENSE | 2010-02-11 |
+| $258K | DEPT OF DEFENSE | 2008-04-22 |
+| $36K | VETERANS AFFAIRS, DEPARTMENT OF | 2003-10-01 |
+| $0 | DEPT OF DEFENSE | 2008-08-01 |
+| $0 | DEPT OF DEFENSE | 2008-07-10 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex&page=1&index=opp) (Tier 1)
+
+<!-- auto:sam-contracts end -->
 
 ### Sources
 

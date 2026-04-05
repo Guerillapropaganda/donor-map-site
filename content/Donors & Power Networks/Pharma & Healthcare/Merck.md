@@ -9,6 +9,10 @@ sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+federal-awards-total: 2223209028
+federal-contracts-count: 25
+federal-grants-count: 1
+last-updated: 2026-04-05
 ---
 
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation
@@ -43,6 +47,36 @@ Opposition to Medicare drug price negotiation expansion (particularly before Key
 > Merck's $11-14 million annual lobbying investment protects Keytruda's $25 billion annual revenue — a drug that received significant development support from NIH-funded research. The company's IRA lawsuit attempted to block the government from negotiating the price of a drug partially developed with taxpayer money. Merck's 160+ Keytruda patents are designed to extend monopoly pricing beyond the original exclusivity period — potentially preserving $25 billion/year in revenue for additional years. The lobbying and litigation costs: approximately $15-20 million annually. The protected revenue: $25 billion annually. The investment-to-return ratio: approximately 1:1,250.
 
 ---
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $2.2B |
+| Contracts (recent 3yr) | 25 ($4.4B sampled) |
+| Grants (recent 3yr) | 1 ($250K sampled) |
+| Federal Agencies | 5 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $2.2B | Department of Defense | COVID-19 ORAL ANTIVIRAL  MK-4482 (MOLNUPIRAVIR) |
+| $1.5B | Department of Health and Human Services | IGF::OT::IGF 2017 VACCINES FOR CHILDREN |
+| $236.3M | Department of Health and Human Services | IGF::OT::IGF |
+| $155.8M | Department of Health and Human Services | ERVEBO PROCUREMENT |
+| $102.3M | Department of Health and Human Services | ADDRESSING THE COVID-19 PANDEMIC: URGENT PRIORITIES |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $250K | Department of Health and Human Services | ENVIROMENTAL ASSESSMENT FOR SLICE? (EMAMECTIN BENZOATE) TYPE A MEDICATED ARTICLE FOR FRESHWATER-REAR |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Merck) (Tier 1)
+
+<!-- auto:usaspending end -->
 
 ### Sources
 

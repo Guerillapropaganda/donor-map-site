@@ -11,6 +11,10 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Defense & Military"
+federal-awards-total: 5907320427
+federal-contracts-count: 25
+federal-grants-count: 2
+last-updated: 2026-04-05
 ---
 
 
@@ -160,6 +164,37 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 **Congressional stock trading as structural capture.** Members of Congress who hold L3Harris stock have a personal financial interest in the company's success — which depends on increased defense spending, continued conflict, and expanded programs like Golden Dome. When armed services committee members who vote on defense budgets simultaneously profit from defense stocks, the accountability mechanism is structurally compromised. The company doesn't need to lobby those members. Their portfolios do the lobbying.
 
 ---
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $5.9B |
+| Contracts (recent 3yr) | 25 ($14.6B sampled) |
+| Grants (recent 3yr) | 2 ($160K sampled) |
+| Federal Agencies | 4 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $2.2B | Department of Defense | 200204!000024!5700!GV59 !ESC/NDK !F1962802C0010 !A!N! !N! !20020130!20020930!052819732!052819732!001 |
+| $1.8B | Department of Commerce | THE PURPOSE OF THIS CONTRACT IS TO DEVELOP THE GROUND SYSTEM THAT WILL SUPPORT NOAA S NEXT GENERATIO |
+| $1.2B | Department of Defense | AWARD OF MAINTENANCE OF SPACE SURVEILLENCE AND INTEGRATED CAPABILITIES CONTRACT |
+| $1.0B | National Aeronautics and Space Administration | TAS::80 0122::TAS DEVELOPMENT, MANUFACTURING AND SUPPORT TO WEATHER OBSERVING INSTRUMENT |
+| $814.4M | National Aeronautics and Space Administration | ENGINEERING SERVICES AND DEVELOPMENT LEADING TO THE DELIVERY OF THE CROSS TRACK INFRARED SOUNDER (CR |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $151K | National Aeronautics and Space Administration | L3HARRIS WILL PROVIDE TRAINING ON THE SOFTWARE DEVELOPMENT PROCESS FOR THE APPSTAR MICRO SDR PLATFOR |
+| $9K | Department of Commerce | GREENHOUSE GAS LASER IMAGING TOMOGRAPHY EXPERIMENT-URBAN (GREENLITE-U) VALIDATION OF MEASUREMENTS OV |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-L3Harris%20Technologies) (Tier 1)
+
+<!-- auto:usaspending end -->
 
 ### Sources
 

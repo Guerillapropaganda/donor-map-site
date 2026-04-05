@@ -10,6 +10,8 @@ entity-type: "Individual Donor"
 issues:
   - "Education"
   - "Dark Money & Campaign Finance"
+federal-contracts: "1905678"
+last-updated: 2026-04-05
 ---
 
 
@@ -137,6 +139,32 @@ The American Federation for Children represents the school privatization movemen
 **Pattern: Genuine Win + Structural Limit.** AFC's programs genuinely expand options for some families — particularly families who would have chosen private school anyway and now receive a taxpayer subsidy. But the structural limit is the same one the ballot box reveals: when voters decide, they choose public schools. The policy survives only where donor money controls the legislature. The "choice" in school choice is exercised by donors choosing legislators, not by the democratic public choosing policy.
 
 ---
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 1905678 |
+| Sample Value (top 25) | $250.4M |
+| Year Range | 2009-2025 |
+| Federal Agencies | 1 |
+
+**Contracting agencies:** AGENCY FOR INTERNATIONAL DEVELOPMENT
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $17.6M | AGENCY FOR INTERNATIONAL DEVELOPMENT | 2010-03-12 |
+| $17.6M | AGENCY FOR INTERNATIONAL DEVELOPMENT | 2014-05-08 |
+| $15.2M | AGENCY FOR INTERNATIONAL DEVELOPMENT | 2008-12-16 |
+| $15.2M | AGENCY FOR INTERNATIONAL DEVELOPMENT | 2009-03-18 |
+| $2.5M | AGENCY FOR INTERNATIONAL DEVELOPMENT | 2025-03-31 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=American%20Federation%20for%20Children&page=1&index=opp) (Tier 1)
+
+<!-- auto:sam-contracts end -->
 
 ### Sources
 

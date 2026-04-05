@@ -9,6 +9,9 @@ sector: "Energy & Utilities"
 entity-type: "Individual Donor"
 issues:
   - "Agriculture"
+lobbying-spend: 2340000
+lobbying-filings: 33
+last-updated: 2026-04-05
 ---
 
 #ethanol #corn #biofuel #rfs #agriculture #iowa #mandates #subsidies
@@ -42,6 +45,27 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 > The ethanol mandate is the most efficient agricultural subsidy in American history: a government requirement that 40% of the corn crop become fuel, guaranteeing $35+ billion in annual industry revenue through regulatory fiat rather than appropriations. The $5-10 million annual lobbying investment protects a mandate worth hundreds of times more. The Iowa caucus provides the structural enforcement mechanism: any politician who opposes ethanol cannot win the presidency. The mandate's costs — higher food prices, marginal environmental benefits, water pollution from corn agriculture — are distributed across all consumers, while the benefits are concentrated in the corn belt states that control the presidential primary calendar.
 
 ---
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.3M |
+| Quarterly Filings | 33 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 4 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Copyright/Patent/Trademark, Energy/Nuclear, Fuel/Gas/Oil, Science/Technology
+
+**Lobbying firms:** AMERICAN COALITION FOR ETHANOL, CULTIVATING CONSERVATION, ERVIN GRAVES STRATEGY GROUP, LLC, MR. AMIR GOULART SCHARIF
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Energy, Dept of, Environmental Protection Agency (EPA), Federal Aviation Administration (FAA), Government Accountability Office (GAO), HOUSE OF REPRESENTATIVES, Internal Revenue Service (IRS), SENATE, Treasury, Dept of, White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ethanol%20Industry) (Tier 1)
+
+<!-- auto:lda-lobbying end -->
 
 ### Sources
 

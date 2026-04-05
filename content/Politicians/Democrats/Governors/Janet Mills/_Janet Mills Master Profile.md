@@ -2,7 +2,7 @@
 title: "Janet Mills Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,6 +11,7 @@ state: "Maine"
 state-abbr: "ME"
 top-donors:
   - "Democratic Senatorial Campaign Committee"
+bioguide-id: "A000383"
 ---
 
 #politician #democrat #governor #maine #2026-senate-candidate

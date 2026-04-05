@@ -7,6 +7,11 @@ source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Corporation"
+ein: 800487553
+annual-revenue: "$10K"
+net-assets: "$26K"
+tax-year: "2019"
+last-updated: 2026-04-05
 ---
 
 #humana #health-insurance #medicare-advantage #lobbying #kentucky
@@ -41,6 +46,21 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 > Medicare Advantage plans receive 4-6% more per beneficiary than traditional Medicare costs for equivalent patients. Applied to Humana's 5.5 million MA members, this premium generates approximately $4-6 billion annually in excess payments — funded by taxpayers. Humana's lobbying operation exists to protect this premium.
 
 ---
+
+### Financial Overview (990 Filing — 2019)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $10K |
+| Total Contributions | $0 |
+| Total Expenses | $8K |
+| Net Assets | $26K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 800487553](https://projects.propublica.org/nonprofits/organizations/800487553) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=08_2020_prefixes_74-81%2F800487553_201912_990EZ_2020083117270894.pdf) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

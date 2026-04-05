@@ -9,6 +9,8 @@ sector: "Carceral State"
 entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
+federal-contracts: "172495"
+last-updated: 2026-04-05
 ---
 
 
@@ -164,6 +166,32 @@ Criminal Justice — prison budget, parole, accountability, San Quentin, policin
 Ballot measures — Prop 36 (supported, $300K), Prop 1 (supported via Newsom, $1M)
 
 ---
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 172495 |
+| Sample Value (top 25) | $2.2M |
+| Year Range | 2005-2025 |
+| Federal Agencies | 3 |
+
+**Contracting agencies:** HOMELAND SECURITY, DEPARTMENT OF, JUSTICE, DEPARTMENT OF, TRANSPORTATION, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $495K | TRANSPORTATION, DEPARTMENT OF | 2022-08-22 |
+| $396K | TRANSPORTATION, DEPARTMENT OF | 2021-07-19 |
+| $297K | TRANSPORTATION, DEPARTMENT OF | 2020-09-03 |
+| $198K | TRANSPORTATION, DEPARTMENT OF | 2018-09-06 |
+| $198K | TRANSPORTATION, DEPARTMENT OF | 2019-05-14 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=CCPOA%20-%20California%20Correctional%20Peace%20Officers%20Association&page=1&index=opp) (Tier 1)
+
+<!-- auto:sam-contracts end -->
 
 ### Sources
 

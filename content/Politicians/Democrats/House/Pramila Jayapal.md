@@ -5,6 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+govtrack-id: 412730
+bills-sponsored: 32
+bills-cosponsored: 439
+website: "https://jayapal.house.gov"
+phone: "202-225-3106"
+last-updated: 2026-04-05
 ---
 
 #pramila-jayapal #house #washington #progressive-caucus #healthcare #labor #class-analysis #democrat
@@ -72,6 +78,27 @@ Her 2024 Progressive Caucus chair efforts focused on campaign finance transparen
 **The Two-Audience Problem** — Jayapal frames herself as the powerful left voice within the Democratic establishment to progressives hungry for representation. Simultaneously, she positions herself as a responsible institutionalist to party leadership and donors who need confidence that her advocacy won't threaten system stability. One message: "I'm fighting for you inside"; the other: "I work within the system." Each audience believes she's really on their side. The contradiction surfaces when you ask which demand she actually fights for versus negotiates away.
 
 **The Villain Framing** — Jayapal frames Senate Republicans and the filibuster as the villains preventing progressive policy, rather than examining her own party's donor-class constraints on what she's permitted to demand. This converts a structural Democratic problem (donor gatekeeping of policy) into an external Republican problem (filibuster obstruction). The villain framing obscures that some Democratic senators opposed progressive policy because their donors opposed it.
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 439 |
+| Total Votes Cast | 4,873 |
+
+**Recent bills sponsored:**
+
+- H.R. 8103: To prohibit the use of funds to use military force in or against Cuba, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8085: Ultra-Millionaire Tax Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7541: U.S. Farmworker Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 1058: Recognizing that it is the duty of the Federal Government to develop and implement a Transgender Bill of Rights to prote — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7363: ICE Out of Our Faces Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412730) (Tier 1)
+
+<!-- auto:govtrack end -->
 
 ### Sources
 

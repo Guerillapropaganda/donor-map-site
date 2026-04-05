@@ -2,7 +2,7 @@
 title: "Tammy Duckworth"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,7 @@ top-donors:
   - "Raytheon (RTX)"
   - "AFSCME"
   - "SEIU"
+bioguide-id: "A000383"
 ---
 
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion

@@ -2,7 +2,7 @@
 title: "Mitch McConnell Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: "2026-04-05"
 source-tier: 1
 career-total: "$47M"
 parent: null
@@ -18,6 +18,7 @@ top-donors:
   - "Koch Network - Charles Koch"
   - "Leonard Leo"
   - "Timothy Mellon"
+bioguide-id: "A000383"
 ---
 
 

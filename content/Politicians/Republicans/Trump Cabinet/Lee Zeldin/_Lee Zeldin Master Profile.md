@@ -13,6 +13,10 @@ issues:
 top-donors:
   - "Leonard Leo"
   - "Koch Network - Charles Koch"
+govtrack-id: 412646
+bills-sponsored: 0
+bills-cosponsored: 0
+last-updated: 2026-04-05
 ---
 
 
@@ -108,6 +112,19 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 **The Villain Framing** — Zeldin positions environmental regulation as "climate change religion" rather than analyzing the donor-class interest driving deregulation. His framing obscures that the 31 rollbacks serve the specific industries that funded his consulting payments and congressional career.
 
 ---
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 4,487 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412646) (Tier 1)
+
+<!-- auto:govtrack end -->
 
 ### Sources
 

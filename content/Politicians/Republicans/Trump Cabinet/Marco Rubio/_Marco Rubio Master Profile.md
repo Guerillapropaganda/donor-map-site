@@ -2,7 +2,7 @@
 title: "Marco Rubio Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-31
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Republican"
@@ -15,6 +15,8 @@ top-donors:
   - "Fanjul Family - Florida Crystals"
   - "MasTec - Mas Canosa Family"
   - "LARA Fund - Mauricio Claver-Carone"
+total-received: "$48,331,862"
+fec-candidate-id: "P60006723"
 ---
 
 

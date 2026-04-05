@@ -18,6 +18,10 @@ top-donors:
   - "ExxonMobil"
   - "Koch Industries"
   - "ConocoPhillips"
+govtrack-id: 406274
+bills-sponsored: 0
+bills-cosponsored: 0
+last-updated: 2026-04-05
 ---
 
 #kennedy #louisiana #judiciary #energy #petrochemical #populist-brand #folksy #banking #cfpb #cancer-alley
@@ -152,6 +156,19 @@ See sub-note: [[The Folksy Populist Brand and Petrochemical Reality]]
 **"Woke" as regulatory cover** — Kennedy's 2025 CFPB repeal bill was titled to "repeal woke CFPB rule forcing banks to collect data on sex, ethnicity from small businesses." The framing converts a consumer protection and equity rule (small business lending data to identify discriminatory patterns) into a culture war target. This obscures the rule's actual purpose — detecting racial discrimination in lending — and reframes bank deregulation as resistance to identity politics. The tactic is replicable across any regulatory domain: attach "woke" to any enforcement mechanism targeting the financial sector, and opposition becomes populist rather than pro-bank.
 
 ---
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 1,836 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/406274) (Tier 1)
+
+<!-- auto:govtrack end -->
 
 ### Sources
 

@@ -11,6 +11,11 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Education"
+ein: 510465703
+annual-revenue: "$12.9M"
+net-assets: "$34.1M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 
@@ -83,6 +88,23 @@ CCSA operates PACs that fund California legislators on education committees, sch
 Education — charter school expansion, school funding formula, district accountability, billionaire philanthropy in public education
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $12.9M |
+| Total Contributions | $10.2M |
+| Program Service Revenue | $2.2M |
+| Investment Income | $413K |
+| Total Expenses | $12.6M |
+| Net Assets | $34.1M |
+| Officer Compensation | $1.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 510465703](https://projects.propublica.org/nonprofits/organizations/510465703) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 

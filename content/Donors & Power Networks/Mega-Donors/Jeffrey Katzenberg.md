@@ -11,6 +11,11 @@ politicians-funded:
   - "Joe Biden"
   - "Kamala Harris"
   - "Barack Obama"
+ein: 954513461
+annual-revenue: "$922K"
+net-assets: "$10.7M"
+tax-year: "2023"
+last-updated: 2026-04-05
 ---
 
 #donor #mega-donor #hollywood #democratic #bundler #dreamworks #wndrco #entertainment #class-analysis #follow-the-money
@@ -129,6 +134,20 @@ The Quibi failure ($1.75B burned in 8 months) revealed the limits of Katzenberg'
 **Pipeline:** Disney Studios → DreamWorks → WndrCo venture capital → Democratic Party national co-chair (Obama 2012, Biden/Harris 2024). **Income dependency:** WndrCo venture portfolio + DreamWorks residual interests. **Editorial red line:** IP protection — any Democratic policy that threatens copyright monopolies, streaming regulation, or entertainment industry tax credits crosses the line that Katzenberg's entire donor network exists to defend. The TYT investment was the hedge: ensuring even progressive media operates within donor infrastructure.
 
 ---
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $922K |
+| Total Contributions | $0 |
+| Total Expenses | $3.0M |
+| Net Assets | $10.7M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 954513461](https://projects.propublica.org/nonprofits/organizations/954513461) (Tier 1)
+
+<!-- auto:propublica-990 end -->
 
 ### Sources
 
