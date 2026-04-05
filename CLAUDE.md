@@ -110,6 +110,8 @@ Two Claudes, two domains. Violating these causes contradictions like the 2026-04
 - Methodology docs in `content/Vault Maintenance/` (Quality Standards, API Pipeline, State Engine, Research Methodology, etc.)
 - Source tier assignments, voice calibration, readiness promotions
 
+**Exception — mechanical file hygiene:** Code Claude may fix non-editorial file corruption in vault content without handing off to Research Claude. This covers: stray NUL bytes, BOM artifacts, encoding fixes (CRLF/LF normalization on request), and duplicate YAML keys. These are character-level repairs that don't touch voice, framing, or editorial decisions. Flag significant sweeps in HANDOFF.
+
 **Edge case — "write dossiers into vault":**
 - **Transcription** (complete file, David's voice, just needs correct frontmatter + git commit) → Code Claude does it
 - **Editorial merge** (combining sources, deciding structure, calibrating voice) → Research Claude does it
