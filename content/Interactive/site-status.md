@@ -11,8 +11,8 @@ type: reference
 | Politicians | 305 |
 | Donors / Corporations | 391 |
 | Stories | 106 |
-| Events | 65 |
-| All .md files scanned | 1622 |
+| Events | 68 |
+| All .md files scanned | 1626 |
 
 ## Readiness Breakdown
 
@@ -21,15 +21,15 @@ type: reference
 | Raw | 31 |
 | Draft | 48 |
 | Developed | 2 |
-| Ready | 1441 |
-| Unknown / Not Set | 100 |
+| Ready | 1442 |
+| Unknown / Not Set | 103 |
 
 ## Verification Status
 
 | Tag | Files |
 |-----|-------|
-| Files with (UNVERIFIED) | 50 |
-| Files with (URL NEEDED) | 19 |
+| Files with (UNVERIFIED) | 52 |
+| Files with (URL NEEDED) | 20 |
 
 ## Coverage
 
@@ -45,16 +45,16 @@ Last 10 profiles updated (by `last-updated` frontmatter):
 
 | Profile | Type | Last Updated |
 |---------|------|--------------|
-| DMFI - Democratic Majority for Israel | donor | 2026-04-03 |
-| Wall Street Finance Networks | donor | 2026-04-03 |
-| 2026-04-03 Story Discovery | daily-update | 2026-04-03 |
-| Diff Log | reference | 2026-04-03 |
-| Bacardi - Bacardi USA | corporation | 2026-04-02 |
-| Donors Capital Fund | donor | 2026-04-02 |
-| Freedom Partners Chamber of Commerce | donor | 2026-04-02 |
-| Anduril Industries | corporation | 2026-04-02 |
-| American Fuel and Petrochemical Manufacturers | corporation | 2026-04-02 |
-| Enterprise Products Partners | corporation | 2026-04-02 |
+| John Deere | corporation | 2026-04-05 |
+| CCPOA - California Correctional Peace Officers Association | corporation | 2026-04-05 |
+| GEO Group - Private Prison Industrial Complex | corporation | 2026-04-05 |
+| Labor Unions | donor | 2026-04-05 |
+| Media Matters | donor | 2026-04-05 |
+| New Venture Fund | donor | 2026-04-05 |
+| Ocean Conservancy | donor | 2026-04-05 |
+| Sports Betting Alliance | donor | 2026-04-05 |
+| The 85 Fund | donor | 2026-04-05 |
+| American Iron and Steel Institute | donor | 2026-04-05 |
 
 ## Stale Profiles
 
@@ -62,4 +62,4 @@ Profiles where `last-updated` is 90+ days ago: **0**
 
 ---
 
-*Generated: 2026-04-04 05:07:28 UTC*
+*Generated: 2026-04-05 08:00:14 UTC*
