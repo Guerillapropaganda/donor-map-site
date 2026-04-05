@@ -14,7 +14,11 @@ const ProfileHeader: QuartzComponent = ({
 
   // Normalize display values
   const typeLabel = type.charAt(0).toUpperCase() + type.slice(1)
-  const tierLabel = sourceTier ? sourceTier.replace(/-/g, " ").replace("tier ", "TIER ").toUpperCase() : ""
+  const tierLabel = sourceTier
+    ? /^\d+$/.test(sourceTier)
+      ? `TIER ${sourceTier}`
+      : sourceTier.replace(/-/g, " ").replace(/^tier /i, "TIER ").toUpperCase()
+    : ""
   const readinessLabel = readiness.replace(/-/g, " ").toUpperCase()
   const isReady = readiness === "publication-ready" || readiness === "ready"
 
@@ -60,6 +64,9 @@ function wrapProfileSections() {
   article.dataset.profileType = profileType;
 
   var children = Array.from(article.children);
+  // Prefer h2 as the section boundary, but fall back to h3 when a profile
+  // authored in Obsidian uses h3 as its top-level section heading.
+  var sectionTag = article.querySelector('h2') ? 'H2' : 'H3';
   var currentCard = null;
   var fragment = document.createDocumentFragment();
   var preContent = [];
@@ -67,7 +74,7 @@ function wrapProfileSections() {
   for (var i = 0; i < children.length; i++) {
     var el = children[i];
 
-    if (el.tagName === 'H2' || el.tagName === 'H3') {
+    if (el.tagName === sectionTag) {
       // Close previous card
       if (currentCard) {
         fragment.appendChild(currentCard);
