@@ -89,10 +89,18 @@ article h4 {
 .center {
   min-width: 0;          // allow grid item to shrink below content size
   max-width: 100%;
+  box-sizing: border-box; // include padding in width so grid cell isn't overflowed
   overflow-x: clip;      // clip text but allow positioned children (tables) to scroll
   overflow-y: visible;
   overflow-wrap: break-word;
   word-break: break-word;
+}
+
+// --- Footer: share the same box-sizing fix so it doesn't overlap right sidebar ---
+#quartz-body > footer {
+  box-sizing: border-box;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .center > article {
