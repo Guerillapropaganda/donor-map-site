@@ -77,12 +77,25 @@ export default ((opts?: Partial<FolderContentOptions>) => {
               )
             }
 
+            // If this folder contains a master profile file, hoist its
+            // frontmatter so listing enrichment (type, party, tier, readiness)
+            // works on folder entries too.
+            let masterFrontmatter: Record<string, any> | undefined
+            for (const child of node.children) {
+              const slug = child.data?.slug ?? ""
+              if (slug.toLowerCase().includes("master-profile") || slug.toLowerCase().includes("master_profile")) {
+                masterFrontmatter = child.data?.frontmatter as Record<string, any> | undefined
+                break
+              }
+            }
+
             return {
               slug: node.slug,
               dates: getMostRecentDates(),
               frontmatter: {
+                ...(masterFrontmatter ?? {}),
                 title: node.displayName,
-                tags: [],
+                tags: masterFrontmatter?.tags ?? [],
               },
             }
           }
