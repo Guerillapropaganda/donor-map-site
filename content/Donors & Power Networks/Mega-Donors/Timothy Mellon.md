@@ -2,7 +2,7 @@
 title: "Timothy Mellon"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-04
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -189,6 +189,36 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: Mellon's im
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Timothy%20Mellon) (Tier 1)
 
 <!-- auto:lda-lobbying end -->
+
+### The Long Arc — Full Cycle Totals
+
+The $504M didn't arrive in 2024. It arrived over seven cycles of escalating giving as Mellon's politics hardened and his net worth compounded.
+
+| Cycle | Amount | Rank / Note |
+|---|---|---|
+| 1996–2017 | ~$350,000 | GOP establishment: Bush, McCain, Romney, one early Ted Kennedy donation |
+| 2018 | ~$10 million | First major PAC gift to Congressional Leadership Fund |
+| 2020 | ~$60 million | 6th most prolific U.S. donor; $10M to America First Action (pro-Trump) |
+| 2021 | $53.1 million | Abbott border wall stock donation (non-cycle) |
+| 2022 | ~$47 million | 5th most prolific U.S. donor; $5M to Brian Kemp, $5M to Sentinel, $5M to Wisconsin Truth PAC |
+| 2024 | ~$165 million | Second-largest individual donor behind Musk; $150M to MAGA Inc |
+| 2025 (non-cycle) | $132 million | $130M to Pentagon (shutdown), $2M to MAGA Inc |
+
+Source: [Forbes, Oct. 28, 2025 — Mellon likely donated more than half his fortune](https://www.forbes.com/sites/phoebeliu/2025/10/28/timothy-mellon-has-likely-donated-more-than-half-his-fortune-to-trump-politics/) (Tier 2); [OpenSecrets: Timothy Mellon donor profile](https://www.opensecrets.org/donor-lookup/results?cand=&cycle=&employ=&name=Timothy+Mellon&order=desc&sort=D&state=WY&zip=) (Tier 1).
+
+Between 2018 and 2024 Mellon's giving grew 16x. That's not a political awakening. That's a dynasty deploying assets as Trump's coalition hardened into an immigration-and-tax-cuts vehicle.
+
+### The Guilford Strike and the Labor Record
+
+Mellon's labor philosophy isn't new. In 1987-88 his Guilford Transportation Industries triggered a labor strike lasting roughly November 1987 through June 1988, requiring congressional intervention in at least one earlier instance. His Pan Am Systems airline subsidiary, Boston-Maine Airways, was shuttered by the U.S. Department of Transportation in 2008 for falsifying financial records and lack of financial fitness. This is the character profile: anti-union rail operator, airline accused of falsifying financials by federal regulators, now bankrolling the coalition that dismantles labor protections and regulatory capacity. The $504M isn't ideology appearing late in life. It's the consolidation of a forty-year operational pattern into political expenditure. Source: [Wikipedia: Pan Am Systems](https://en.wikipedia.org/wiki/Pan_Am_Systems) (Tier 3); [Wikipedia: Timothy Mellon](https://en.wikipedia.org/wiki/Timothy_Mellon) (Tier 3).
+
+### The Family Split
+
+Mellon family members reportedly told Vanity Fair they are "shocked and appalled" at Timothy's Trump support. His wife Patricia gave $2,000 to Sen. Joe Manchin (D-WV) in 2021 and $1,015 to Liz Cheney's PAC in 2021-2022. The Mellon Foundation (a separate entity Timothy stepped off the board of in 2002) gave $15 million to humanities organizations in May 2025 to offset NEH cancellations caused by the administration Timothy funded. When AOC received his $2,700 donation in 2018, she tried to return it; he reportedly refused to cash the check. The Mellon family is now publicly divided over the use of its inherited wealth, and Timothy is the outlier making that split politically consequential.
+
+Sources: [NOTUS: Mellon-RFK-Trump donor](https://www.notus.org/2024-election/timothy-mellon-rfk-trump-donor) (Tier 2); [Fortune: Mellon net worth](https://fortune.com/2024/11/09/timothy-mellon-net-worth-top-donor-trump-campaign-elon-musk/) (Tier 2).
+
+---
 
 ### Sources
 

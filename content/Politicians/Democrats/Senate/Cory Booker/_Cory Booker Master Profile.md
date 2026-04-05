@@ -25,7 +25,7 @@ top-donors:
 
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door
 
-related: [[_Chuck Schumer Master Profile|Schumer]] [[Goldman Sachs]] [[JPMorgan Chase]] [[PhRMA]] [[Pfizer]] [[Merck]] [[Johnson & Johnson]] [[Silicon Valley Democratic Donor Network]]
+related: [[_Chuck Schumer Master Profile|Schumer]] [[Goldman Sachs]] [[JPMorgan Chase]] [[PhRMA]] [[Pfizer]] [[Merck]] [[Johnson & Johnson]] [[Silicon Valley Democratic Donor Network]] · [[Mark Zuckerberg]] · [[Pharmaceutical Industry Bloc]] · [[Wall Street Finance Networks]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Elizabeth Warren Master Profile]]
 
 donors: [[Goldman Sachs]] [[JPMorgan Chase]] [[PhRMA]] [[Pfizer]] [[Merck]] [[Johnson & Johnson]] [[Silicon Valley Democratic Donor Network]]
 

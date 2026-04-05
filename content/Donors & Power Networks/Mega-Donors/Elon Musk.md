@@ -2,7 +2,7 @@
 title: "Elon Musk"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-04
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -236,6 +236,67 @@ For IBEW: Tesla and SpaceX are non-union competitors in IBEW-adjacent work (EV e
 > Musk spent $292 million electing Trump in 2024. His companies hold $38 billion+ in cumulative government contracts and support. He was given authority over the agencies that regulate those companies. SpaceX received $5.9 billion in new contracts while Musk was cutting other agencies' budgets. The $292 million political investment purchased direct access to the regulatory and procurement apparatus. ROI: approximately 130-to-1 measured in government contract value alone — and that's before counting the regulatory relief (NLRB gutting, Davis-Bacon enforcement reduction, SEC settlement positioning) that protects his commercial operations.
 
 [Source: [OpenSecrets — Elon Musk 2024 donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003708&name=Musk,+Elon&super_only=N&type=I) (Tier 1); [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)]
+
+---
+
+### Legislative and Regulatory Wins (Beyond DOGE)
+
+Musk's $292M didn't just elect Trump. It bought him a seat inside four structural fights over the regulatory architecture his companies depend on.
+
+### AI Regulation Moratorium (Lost in Senate, Won Later)
+
+The One Big Beautiful Bill as passed by the House (May 2025) included a 10-year moratorium on state AI regulation, introduced by Rep. Brett Guthrie (R-KY). The Senate struck the provision 99-1 on July 1, 2025 on a bipartisan amendment sponsored by Markey, Cantwell, and Blackburn. xAI (Grok) and every other AI-dependent business Musk owns would have had state laws preempted. The moratorium died in that vote, but Trump's March 2026 AI executive order revived the preemption fight through administrative channels. Sources: [CNN: Senate strikes AI moratorium](https://www.cnn.com/2025/07/01/tech/senate-strikes-ai-regulation-moratorium-agenda-bill) (Tier 2); [The Markup: Congress moves to cut off states' AI regulations](https://themarkup.org/artificial-intelligence/2025/05/16/congress-moves-to-cut-off-states-ai-regulations) (Tier 2).
+
+### FAA Part 450 Consolidation (SpaceX's Regulatory Holy Grail)
+
+FAA Part 450 consolidated commercial space launch/reentry licensing from four separate regulations (Parts 415, 417, 431, 435) into a single performance-based framework, allowing one license to cover multiple launches, vehicles, and sites. The rule was finalized in 2021 but became fully effective March 2026, accelerated by a 2025 Trump executive order directing agencies to eliminate redundant commercial space requirements. FAA licensed 148 commercial space operations in FY2024, up 30% from the prior year, and projects 2,000-4,000 launches over the next decade. This is SpaceX's regulatory moat: bottleneck relief that lets it outpace every competitor while the FAA's capacity to police environmental and safety review shrinks. Sources: [FAA: New Record Commercial Space Operations](https://www.faa.gov/newsroom/new-record-faa-licensed-commercial-space-operations-aerospace-rulemaking-committee) (Tier 1); [FLYING Magazine: FAA Part 450](https://www.flyingmag.com/faa-launch-regulations-commercial-space-part-450/) (Tier 2).
+
+### EV Tax Credits (Tesla's Double Game)
+
+OBBBA terminated IRA §30D (New Clean Vehicle Credit, $7,500), §25E (Used Clean Vehicle Credit, $4,000), and §45W (Commercial Clean Vehicle Credit) effective September 30, 2025. Tesla publicly opposed termination (Tesla Energy X post, May 29, 2025; Musk amplification). This is the contradiction: Musk built his career on federal EV subsidies, then funded the party that killed them, then complained when they died. Sources: [Taxpayers for Common Sense: OBBBA energy credits](https://www.taxpayer.net/budget-appropriations-tax/how-would-the-one-big-beautiful-bill-change-energy-tax-credits/) (Tier 2); [Politico: Musk/Tesla vs GOP](https://www.politico.com/news/2025/05/29/musk-tesla-blast-gop-end-clean-energy-tax-credits-00374074) (Tier 2).
+
+> [!contradiction]
+> Musk's companies took billions in EV tax credits and regulatory credits since 2010. Tesla's 2024 regulatory credit revenue alone was $2.8 billion. Then Musk spent $292 million electing the coalition that campaigned on killing those credits. When the coalition delivered on its promise in July 2025, Tesla cried foul. This is the Donor-Class Override pattern: the political coalition you bought will always prioritize its anti-climate base over your personal margin. Musk assumed he could buy protection from the base he mobilized. He couldn't.
+
+### America First Legal — The Secret $43 Million
+
+In 2022, Musk secretly donated at least $43 million to an America First Legal (AFL) subsidiary. AFL is Stephen Miller's organization. Its Treasurer at the time was Russell Vought, who then became Trump's OMB Director. DeSmog documents Musk ties to Project 2025 architects through this donation chain. The money was dark money until disclosure, and it paid for the legal infrastructure that now runs immigration enforcement and the dismantling of DEI. Source: [DeSmog: Musk tied to Project 2025](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/) (Tier 2).
+
+---
+
+### The America PAC Co-Donor Network
+
+Musk wasn't alone. America PAC received contributions from a who's who of tech-oligarch and carbon-economy donors who flipped from mixed-party giving to full MAGA alignment in 2024:
+
+- **Joe Lonsdale** (Lonsdale Enterprises, [[Palantir]] co-founder)
+- **Ken Howery** (PayPal co-founder, Founders Fund)
+- **Antonio Gracias** (Valor Equity, former Tesla board director, later assisted DOGE's Social Security Administration review)
+- **James John Liautaud** (Jimmy John's founder)
+- **Joe Craft** (Alliance Resource Partners, coal)
+- **Douglas M. Leone** (Sequoia Capital)
+
+Source: [InfluenceWatch: America PAC donor roster](https://www.influencewatch.org/political-party/america-pac/) (Tier 3).
+
+Musk provided 91% of declared contributions as of December 2024. The other 9% is the co-donor signal: the PayPal Mafia ([[Peter Thiel]], Lonsdale, Howery) and the coal/carbon-economy donors (Craft) aligned behind the same vehicle. This is the Donor-Class Override made visible: separate sectors with separate policy interests, unified by shared hostility to labor, regulation, and civil service.
+
+---
+
+### The Co-Donor Tier: Who Else Broke $100M in 2024
+
+All six donors who exceeded $100M in 2024 election spending gave exclusively to Republican candidates and causes:
+
+| Donor | Amount | Source of Wealth |
+|---|---|---|
+| [[Elon Musk]] | $291M+ | Tech (Tesla, SpaceX) |
+| [[Timothy Mellon]] | $200M+ | Banking heir (Mellon family) |
+| [[Miriam Adelson]] | $100M+ | Casino (Las Vegas Sands) |
+| [[Richard and Elizabeth Uihlein]] | $100M+ | Shipping supplies (Uline) |
+| [[Kenneth Griffin]] | $100M+ | Hedge fund (Citadel) |
+| [[Jeffrey Yass]] | $100M+ | Trading firm (Susquehanna) |
+
+Source: [OpenSecrets: 2024 mega-donor analysis](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1).
+
+Six individuals accounted for over $900 million in 2024 election spending. That's roughly the combined political expenditure of the entire American labor movement, multiplied by five, concentrated in six donors, directed at one party.
 
 ---
 

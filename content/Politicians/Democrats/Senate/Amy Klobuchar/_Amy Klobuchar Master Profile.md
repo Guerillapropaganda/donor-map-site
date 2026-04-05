@@ -29,7 +29,7 @@ fec-candidate-id: "S6MN00267"
 
 #amy-klobuchar #democrat #minnesota #senate #antitrust #judiciary #agriculture #tech #genuine-win-structural-limit #two-audience-problem #revolving-door
 
-related: [[_Chuck Grassley Master Profile|Grassley]] [[_Chuck Schumer Master Profile|Schumer]] [[Google - Alphabet]] [[Amazon]] [[Meta - Facebook]] [[Apple]] [[Microsoft]] [[Goldman Sachs]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
+related: [[_Chuck Grassley Master Profile|Grassley]] [[_Chuck Schumer Master Profile|Schumer]] [[Google - Alphabet]] [[Amazon]] [[Meta - Facebook]] [[Apple]] [[Microsoft]] [[Goldman Sachs]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Google]] · [[Meta]] · [[Michael Bloomberg]]
 
 donors: [[Google - Alphabet]] [[Amazon]] [[Goldman Sachs]] [[Apple]] [[Meta - Facebook]]
 

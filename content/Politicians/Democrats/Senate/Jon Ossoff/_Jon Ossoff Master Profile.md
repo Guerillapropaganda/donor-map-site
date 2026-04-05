@@ -17,7 +17,7 @@ top-donors:
 
 #jon-ossoff #senate #georgia #documentary-filmmaker #tech-donors #entertainment #young-democrat #centrist #class-analysis
 
-related: [[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]]
+related: [[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Silicon Valley Donors]] · [[Tech Industry]]
 
 donors: [[Tech and Media Donors]] · Tech and Crypto · [[Entertainment and Hollywood Donors]]
 

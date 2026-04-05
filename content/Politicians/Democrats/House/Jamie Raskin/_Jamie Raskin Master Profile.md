@@ -20,7 +20,7 @@ fec-candidate-id: "H6MD08457"
 
 #jamie-raskin #democrat #maryland #house #judiciary #ranking-member #phase-6-gavel-power #january-6th #impeachment
 
-related: [[_Donald Trump Master Profile|Trump]] [[Federalist Society]]
+related: [[_Donald Trump Master Profile|Trump]] [[Federalist Society]] · [[Demand Justice]]
 
 donors:
 

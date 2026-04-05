@@ -19,7 +19,7 @@ issues:
 
 #palantir #thiel #surveillance #defense #ai #military #ice #immigration #data #revolving-door #class-analysis #follow-the-money
 
-related: [[Founders Fund]] · [[Peter Thiel]] · [[_JD Vance Master Profile|JD Vance]] · [[_David Sacks Master Profile|David Sacks]] · [[Anduril Industries]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Koch Industries]] · [[Raytheon Technologies]]
+related: [[Founders Fund]] · [[Peter Thiel]] · [[_JD Vance Master Profile|JD Vance]] · [[_David Sacks Master Profile|David Sacks]] · [[Anduril Industries]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Koch Industries]] · [[Raytheon Technologies]] · [[_Josh Gottheimer Master Profile]] · [[Eric Schmidt]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]]
 
 ---
 

@@ -9,6 +9,33 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 
 ---
 
+## 2026-04-04
+
+### Profile Page Polish
+- **Lifted article surface** — center column now reads as a raised `#13131a` document with border/radius/padding; sidebars stay pure black for chrome/content separation
+- **Section cards cleaned** — removed top/bottom borders so cards separate by margin + color-coded left edge only, eliminating faint horizontal lines between cards
+- **Card bg bumped** to `#1a1a24` so variants pop against the new lifted article surface
+- **Stripped leading underscore** from 119 master-profile title frontmatter fields — filenames keep `_` for Obsidian sort, displayed titles now read clean everywhere (article title, backlinks, related profiles)
+- **Footer links fixed** — corrected About slug capitalization (was 404), replaced dead Methodology link with `Even-More-About-This-Website`
+- **Sidebar dollar amounts wired to frontmatter** — featured items now read `career-total` from each profile's frontmatter, falling back to hardcoded values when absent. Infrastructure ready for per-profile population.
+
+### Methodology / About Consolidation
+- Merged duplicate first-person essay content between About and Methodology pages
+- Created `Even More About This Website.md` with the detailed evidentiary standards, source tiers, unit definitions, ROI methodology, limitations
+- About now links to the detail page; Methodology.md deleted (alias added to About for legacy URL)
+
+### Profile Tabs — Type-Aware
+- Tabs now render differently for politician vs donor profiles (Overview/Donors/Voting/Analysis/Sources for politicians; Overview/Recipients/Policy Wins/Analysis/Sources for donors)
+- Empty tabs become non-interactive with hover tooltip ("No X data yet for this profile")
+- Duplicate tab-nav bug fixed (old nav now cleared before each rebuild)
+- Active tab persisted across SPA navigation via sessionStorage
+
+### Dataview Field Hiding
+- Inline dataview paragraphs (`related:`, `donors:`, `party:`, etc.) at the start of paragraphs are now hidden on profile pages — bloat removed without touching the markdown
+- Fixed template-string escape bug (`\s` → `\\s`) that was silently stripping the regex and preventing any matches
+
+---
+
 ## 2026-04-03
 
 ### SAM.gov Federal Contracts Pipeline

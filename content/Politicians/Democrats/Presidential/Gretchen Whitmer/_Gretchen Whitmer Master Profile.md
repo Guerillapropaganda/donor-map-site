@@ -14,7 +14,7 @@ state-abbr: "MI"
 
 #gretchen-whitmer #michigan #governor #democrat #auto-industry #ev-subsidies #2028-presidential #class-analysis
 
-related: [[_Pete Buttigieg Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_JB Pritzker Master Profile|JB Pritzker]]
+related: [[_Pete Buttigieg Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Gavin Newsom Master Profile]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[United Auto Workers]] · [[Koch Network - Charles Koch]] · [[General Motors]] · [[Ford Motor Company]]
 
 donors: Auto Industry Donors · SOAR Fund Corporate Beneficiaries
 

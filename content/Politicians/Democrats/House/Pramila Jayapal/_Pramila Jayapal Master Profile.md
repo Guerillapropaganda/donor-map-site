@@ -25,7 +25,7 @@ top-donors:
 
 #pramila-jayapal #democrat #washington #house #progressive-caucus #medicare-for-all #immigration #labor #tech #seattle #antitrust
 
-related: [[_Bernie Sanders Master Profile|Bernie Sanders]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[_Nancy Pelosi Master Profile|Pelosi]] [[_Ilhan Omar Master Profile|Omar]] [[SEIU - Service Employees International Union|SEIU]] [[CNA - California Nurses Association|CNA]]
+related: [[_Bernie Sanders Master Profile|Bernie Sanders]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[_Nancy Pelosi Master Profile|Pelosi]] [[_Ilhan Omar Master Profile|Omar]] [[SEIU - Service Employees International Union|SEIU]] [[CNA - California Nurses Association|CNA]] · [[National Nurses United]]
 
 donors: [[SEIU - Service Employees International Union|SEIU]] [[CNA - California Nurses Association|CNA]] [[ActBlue]]
 

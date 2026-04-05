@@ -23,7 +23,7 @@ top-donors:
 
 #chris-murphy #democrat #connecticut #senate #gun-control #foreign-policy #insurance #sandy-hook #HELP-committee #foreign-relations #appropriations
 
-related: [[_Jim Himes Master Profile|Jim Himes]] [[Everytown for Gun Safety]] [[_Elizabeth Warren Master Profile|Warren]] [[_Richard Blumenthal Master Profile|Blumenthal]] [[_Chuck Schumer Master Profile|Schumer]] [[Blue Cross Blue Shield Association]]
+related: [[_Jim Himes Master Profile|Jim Himes]] [[Everytown for Gun Safety]] [[_Elizabeth Warren Master Profile|Warren]] [[_Richard Blumenthal Master Profile|Blumenthal]] [[_Chuck Schumer Master Profile|Schumer]] [[Blue Cross Blue Shield Association]] · [[Michael Bloomberg]] · [[Insurance Industry]] · [[Defense Contractors]] · [[_Joe Biden Master Profile]]
 
 donors: [[Everytown for Gun Safety]] [[Silicon Valley Democratic Donor Network]] [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] [[Blue Cross Blue Shield Association]]
 

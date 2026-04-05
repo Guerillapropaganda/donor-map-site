@@ -25,7 +25,7 @@ bioguide-id: "A000383"
 
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion
 
-related: [[_Dick Durbin Master Profile|Durbin]] [[Boeing]] [[Lockheed Martin]] [[General Dynamics]] [[Raytheon (RTX)]] [[L3Harris Technologies]] [[Defense Contractors Bloc]]
+related: [[_Dick Durbin Master Profile|Durbin]] [[Boeing]] [[Lockheed Martin]] [[General Dynamics]] [[Raytheon (RTX)]] [[L3Harris Technologies]] [[Defense Contractors Bloc]] · [[Dick Durbin]] · [[_Kamala Harris Master Profile]] · [[Northrop Grumman]]
 
 donors: [[Boeing]] [[Lockheed Martin]] [[General Dynamics]] [[Raytheon (RTX)]] [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] [[SEIU - Service Employees International Union|SEIU]]
 

@@ -22,7 +22,7 @@ last-updated: 2026-04-05
 
 #tlaib #michigan #progressive #squad #palestine #oversight #dearborn #detroit #dsa #small-dollar #censure #environmental-justice
 
-related: [[_Ilhan Omar Master Profile|Omar]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[United Democracy Project - UDP|UDP]] [[DMFI - Democratic Majority for Israel|DMFI]] [[J Street]] [[_Jamaal Bowman Master Profile|Bowman]] [[Marathon Petroleum]]
+related: [[_Ilhan Omar Master Profile|Omar]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[United Democracy Project - UDP|UDP]] [[DMFI - Democratic Majority for Israel|DMFI]] [[J Street]] [[_Jamaal Bowman Master Profile|Bowman]] [[Marathon Petroleum]] · [[Haim Saban]]
 
 ---
 

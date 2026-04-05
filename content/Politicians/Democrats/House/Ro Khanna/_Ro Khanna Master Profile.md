@@ -24,7 +24,7 @@ top-donors:
 
 #ro-khanna #democrat #california #house #silicon-valley #tech #progressive #defense #antitrust #2028
 
-related: [[_Bernie Sanders Master Profile|Bernie Sanders]] [[_Pramila Jayapal Master Profile|Jayapal]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[Google - Alphabet]] [[Apple]] [[Marc Andreessen & Horowitz]]
+related: [[_Bernie Sanders Master Profile|Bernie Sanders]] [[_Pramila Jayapal Master Profile|Jayapal]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[Google - Alphabet]] [[Apple]] [[Marc Andreessen & Horowitz]] · [[Google]] · [[Meta]] · [[Eric Schmidt]] · [[_Matt Mahan Master Profile]] · [[_Eric Swalwell Master Profile]]
 
 donors: [[Google - Alphabet]] [[Apple]] [[Microsoft]]
 

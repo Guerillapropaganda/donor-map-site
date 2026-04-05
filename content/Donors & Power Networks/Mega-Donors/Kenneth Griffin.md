@@ -2,7 +2,7 @@
 title: "Kenneth Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-04
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -81,6 +81,68 @@ The GameStop episode (January 2021) is the class analysis in miniature: when ret
 January 2021: Retail investors on Reddit (r/WallStreetBets) collectively drove GameStop stock from $20 to $483, threatening hedge fund short positions. On January 28, Robinhood and other brokers disabled the "buy" button — users could only sell, not buy. The price collapsed. Citadel Securities, as Robinhood's primary market maker (and a significant source of Robinhood's revenue through payment for order flow), was at the center of the controversy. Griffin denied under oath that Citadel pressured Robinhood. A federal judge dismissed lawsuits. The SEC found no evidence of collusion.
 
 The structural point: the firms that execute retail trades profit from the order flow of those trades and simultaneously trade against those positions in their own accounts. This is legal. Whether it should be is the question Griffin's political donations ensure is never seriously asked. [Source: Fortune — Tier 2; Chicago Tribune — Tier 2]
+
+---
+
+### Career Arc — $248M and the Illinois War
+
+Griffin's 2024 giving is half the story. His career federal + state political spending exceeds $248 million, and the Illinois fight tells you why he left.
+
+| Cycle | Approximate Total | Key Expenditure |
+|---|---|---|
+| 2019–2020 | ~$100M | $54M to defeat IL progressive income tax amendment; $64.9M federal super PACs |
+| 2021–2022 | ~$110–120M | $50M on Richard Irvin (IL gubernatorial primary, lost); $60M federal |
+| 2023–2024 | ~$108M | $30M Senate Leadership Fund, $16M CLF, $12M Keep Florida Clean (anti-marijuana) |
+
+Sources: [InfluenceWatch: Ken Griffin](https://www.influencewatch.org/person/ken-griffin/) (Tier 3); [Bloomberg: Griffin super PAC giving](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections) (Tier 2); [OpenSecrets: Griffin donor detail 2024](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003655&name=Griffin%2C+Kenneth+C&super_only=N&type=I) (Tier 1).
+
+### The Illinois Ballot Wars
+
+Griffin spent an estimated $53.75 million in 2020 to defeat Illinois's "Fair Tax" amendment, a ballot measure that would have replaced the state's flat income tax with a graduated rate structure. He won. Illinois voters rejected the amendment 53-47. He then spent roughly $50 million in 2022 trying to install Richard Irvin, mayor of Aurora, as the Republican gubernatorial nominee. Irvin finished third. Griffin left for Miami weeks later. The sequence: spend $54M to prevent your state from taxing you progressively, then spend $50M to install a governor aligned with your interests, then move when both efforts fail or become structurally impossible. The tax move saved him an estimated $51M annually in state income tax plus roughly $4.8 billion on his estate. The $100M+ in Illinois political spending bought him a decade of delay on a progressive tax regime. That's the ROI on defeating democracy at the state level.
+
+Source: [Chicago Magazine: Griffin and the Fair Tax](https://www.chicagomag.com/chicago-magazine/december-2020/ken-griffin-fair-tax/) (Tier 2); [WGLT/Chicago Sun-Times: Irvin primary](https://www.wglt.org/politics-and-government/2022-06-29/what-did-50-million-buy-ken-griffin-in-illinois-primary-not-much) (Tier 2).
+
+### The Haley Bet and the Trump Holdout
+
+Griffin gave $5 million to the SFA Fund (Nikki Haley's super PAC) between December 2023 and January 2024, making him her top donor. Quote from January 2024: "Governor Haley possesses an impressive record of leadership, and America would greatly benefit from her foreign policy experience and priorities in the White House." Haley lost. Griffin didn't pivot to Trump. He gave $0 directly to Trump's 2024 campaign and $1 million to Trump's inaugural (the minimum buy-in for access). Lifetime Trump direct contributions: zero since 2015. Instead, he funded the institutional vehicles: $30M to Senate Leadership Fund, $16M to Congressional Leadership Fund. This is the Donor-Class Override pattern in its cleanest form: Griffin doesn't need Trump. He needs Republican Senate control for judicial appointments and regulatory appointees who will protect market structure. Whoever delivers that gets funded.
+
+Source: [CNBC: Griffin $5M to Haley PAC](https://www.cnbc.com/2024/01/30/ken-griffin-donated-5-million-to-nikki-haley-super-pac.html) (Tier 2); [CBS News: Trump megadonors](https://www.cbsnews.com/news/trump-megadonors-2024-election/) (Tier 2).
+
+### The Citadel Securities Regulatory Record
+
+Griffin's market-making machine has paid over $43 million in regulatory fines and settlements. A partial chronology:
+
+| Date | Regulator | Violation | Fine |
+|---|---|---|---|
+| 2009 | SEC | Trading practices distorting security prices | $3,000,000 |
+| 2014–2015 | SEC | Market Access Rule violations | $1,600,000 (two actions) |
+| 2016 | SEC | Breach of National Market System Plan | $3,500,000 |
+| Jan 2017 | SEC | Misleading retail broker clients about pricing ("FastFill" and "SmartProvide" algorithms, 2007-2010) | $22,600,000 |
+| 2018 | SEC | Incorrectly reporting ~80M trades 2012-2016; admitted findings | $3,500,000 |
+| Sep 2023 | SEC | Reg SHO violations; millions of orders mismarked short/long due to coding error (2015-2020) | $7,000,000 |
+| Oct 2024 | FINRA | Failing to accurately report 42.2B equity/option order events to CAT (2020-2024) | $1,000,000 |
+
+All fines paid without admitting or denying findings unless otherwise noted. This is the cost of doing business for the firm executing 35% of U.S. retail equity volume. The fines are a rounding error against $9.7 billion in 2024 Citadel Securities trading revenue. The regulatory state doesn't stop the practice. It prices it.
+
+Source: [SEC Press Release 2017-11: Citadel Securities](https://www.sec.gov/newsroom/press-releases/2017-11) (Tier 1); [SEC Press Release 2023-192: Reg SHO violations](https://www.sec.gov/newsroom/press-releases/2023-192) (Tier 1).
+
+### The Crypto Pivot
+
+October 2021: Griffin called cryptocurrency a "jihadist call against the dollar" and said Citadel wouldn't trade it "because of the regulatory uncertainty." March 2025: Citadel Securities announced plans to offer cryptocurrency trading services after Trump's SEC eased crypto constraints. The regulatory environment Griffin spent $248M helping to shape is the same environment that unlocked a new revenue stream for Citadel Securities. He argued crypto was dangerous under Gensler. He's launching crypto services under Atkins. The position wasn't about crypto. It was about who controls the regulatory apparatus.
+
+Sources: [Business Insider: Griffin "jihadist call" quote](https://markets.businessinsider.com/news/currencies/ken-griffin-crypto-jihadist-call-against-dollar-regulation-citadel-securities-2021-10) (Tier 2); [Business Journals: Citadel crypto plans](https://www.bizjournals.com/southflorida/news/2025/03/03/ken-griffin-citadel-securities-crypto-trump.html) (Tier 2).
+
+### The ProPublica IRS Leak and Revenge
+
+December 2022: Griffin sued the IRS and Treasury over the unlawful disclosure of his confidential tax returns to ProPublica (the "Secret IRS Files" investigation that revealed how little billionaires pay). June 2024: IRS issued a formal apology. Griffin dropped the lawsuit. The aftermath: the IRS employee responsible (Charles Littlejohn) received a five-year federal prison sentence. Meanwhile, the DOGE coalition Griffin funded through SLF/CLF helped gut IRS enforcement capacity on high-wealth taxpayers. The revenge arc is structural: leak exposed Griffin, DOGE weakened the enforcement agency.
+
+Source: [ProPublica: Griffin IRS lawsuit](https://www.propublica.org/article/ken-griffin-citadel-irs-propublica-lawsuit-taxes) (Tier 2).
+
+### Florida Non-Compete Legislation (2025)
+
+Citadel lobbied the Florida legislature in 2025 to allow 4-year non-compete clauses for employees earning at least double average local wages (~$140K+). The bill passed. This locks in Citadel's quant and trading talent against competitors for half a decade after departure. It's the same pattern: move to Florida for tax relief, then lobby Florida for employer-side labor regulation that would never have passed in Illinois.
+
+Source: [Insurance Journal: Florida non-compete expansion](https://www.insurancejournal.com/news/southeast/2025/05/09/823164.htm) (Tier 2).
 
 ---
 

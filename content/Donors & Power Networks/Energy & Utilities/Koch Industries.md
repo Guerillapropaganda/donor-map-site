@@ -16,7 +16,7 @@ issues:
 
 #koch-industries #energy #oil-gas #refining #lobbying #dark-money #deregulation #epa #climate #labor #class-analysis #follow-the-money #tcja #clean-power-plan
 
-related: [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[Fossil Fuel Bloc]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[US Chamber of Commerce]] · [[Federalist Society]]
+related: [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[Fossil Fuel Bloc]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[US Chamber of Commerce]] · [[Federalist Society]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[Freedom Caucus]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 

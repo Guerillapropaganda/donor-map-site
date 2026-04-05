@@ -24,7 +24,7 @@ top-donors:
 
 #kevin-mccarthy #master-profile #house #california #speaker #fossil-fuel #oil-gas #ousted #energy-industry
 
-related: [[Chevron]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Koch Network - Charles Koch|Koch Industries]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]]
+related: [[Chevron]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Koch Network - Charles Koch|Koch Industries]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[_Matt Gaetz Master Profile]] · [[Fossil Fuel Bloc]] · [[Real Estate Industry]] · [[Defense Contractors]]
 
 donors: [[Chevron]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Koch Network - Charles Koch|Koch Industries]]
 

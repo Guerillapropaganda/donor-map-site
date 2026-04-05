@@ -13,7 +13,7 @@ issues:
 
 #megabank #wall-street #jamie-dimon #bipartisan #financial-deregulation #revolving-door #too-big-to-fail #both-sides
 
-related: [[Goldman Sachs - Wall Street Titan]] · [[BlackRock]] · [[Blackstone Group]] · [[Wall Street Finance PACs]] · [[Morgan Stanley]] · [[Bank of America]] · [[Wells Fargo]]
+related: [[Goldman Sachs - Wall Street Titan]] · [[BlackRock]] · [[Blackstone Group]] · [[Wall Street Finance PACs]] · [[Morgan Stanley]] · [[Bank of America]] · [[Wells Fargo]] · [[Goldman Sachs]] · [[Citigroup]] · [[Wall Street Finance Networks]] · [[_Chuck Schumer Master Profile]] · [[_French Hill Master Profile]] · [[PhRMA]]
 
 ---
 

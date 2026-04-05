@@ -24,7 +24,7 @@ top-donors:
 #mike-lee #senate #utah #federalist-society #antitrust #tech-deference #oil-gas #public-lands #january-6 #class-analysis
 tags: #republican
 
-related: [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[Club for Growth]] · [[Blackstone Group]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[_Chuck Grassley Master Profile|Chuck Grassley]]
+related: [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[Club for Growth]] · [[Blackstone Group]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[_Chuck Grassley Master Profile|Chuck Grassley]] · [[Federalist Society]]
 
 donors: [[Koch Network - Charles Koch|Koch Network]] · [[Club for Growth]] · [[Blackstone Group]] · [[Apollo Global Management]]
 

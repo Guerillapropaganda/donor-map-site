@@ -1,12 +1,12 @@
 ---
 title: "Wall Street Finance Networks"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-03
+content-readiness: developed
+last-updated: 2026-04-04
 source-tier: 1
 parent: null
 sector: "Wall Street"
-entity-type: "Individual Donor"
+entity-type: "Network"
 issues:
   - "Wall Street & Finance"
   - "Dark Money & Campaign Finance"
@@ -105,6 +105,41 @@ Wall Street Finance Networks represent the most successful donor-class operation
 
 ---
 
+### Top Individual Contributors — 2024 Cycle (Securities & Investment)
+
+The post-Citizens United shift is most visible at the top: a handful of individual donors and their aligned super PACs now outspend entire firm-level PAC structures. Each of the names below gave primarily through super PAC vehicles, not direct campaign contributions.
+
+| Donor | 2024 Cycle Total | Primary Vehicle | Party Lean |
+|-------|------------------|-----------------|------------|
+| Timothy Mellon | $197M | MAGA Inc, Make America Great Again Inc | R |
+| Kenneth Griffin ([[Citadel - Kenneth Griffin\|Citadel]]) | $108.5M | Citadel super PAC commitments, Congressional Leadership Fund | R |
+| Jeffrey Yass (Susquehanna International) | $101.5M | School Freedom Fund, Club for Growth Action | R |
+| Stephen Schwarzman ([[Blackstone Group\|Blackstone]]) | $46.8M | MAGA Inc, Senate Leadership Fund | R |
+| Reid Hoffman | $41.5M | Future Forward PAC, Democracy PAC | D |
+
+> [!money] Five Donors, $495 Million
+> Five individuals accounted for roughly a quarter of the entire Securities & Investment industry's 2024 cycle total. The top three (Mellon, Griffin, Yass) alone exceeded $407M — more than the combined direct contributions of every securities PAC and every individual donor giving under $50,000 in the cycle. This is the structural consequence of Citizens United: a single billionaire's outside spending now dwarfs the collective participation of the industry's workforce.
+
+---
+
+### Revolving Door — Treasury, White House, SEC
+
+The Wall Street → government personnel pipeline is the industry's most durable form of regulatory capture. Notable documented transitions:
+
+| Name | Wall Street Role | Government Role | Administration |
+|------|-----------------|-----------------|----------------|
+| Robert Rubin | Goldman Sachs Co-Chairman | Treasury Secretary | Clinton (1995–99) |
+| Hank Paulson | Goldman Sachs CEO | Treasury Secretary | Bush 43 (2006–09) |
+| Tim Geithner | NY Fed President (Wall Street-adjacent) | Treasury Secretary | Obama (2009–13) |
+| Gary Cohn | Goldman Sachs President/COO | NEC Director | Trump 1 (2017–18) |
+| Steven Mnuchin | Goldman Sachs partner, OneWest Bank | Treasury Secretary | Trump 1 (2017–21) |
+| Jay Clayton | Sullivan & Cromwell (Wall Street counsel) | SEC Chair | Trump 1 (2017–21) |
+| Scott Bessent | Soros Fund Mgmt, Key Square Group | Treasury Secretary | Trump 2 (2025–) |
+
+The reverse flow — regulators joining Wall Street firms at multiples of their government compensation — is equally documented. Former SEC commissioners, Treasury officials, and Fed economists routinely join firms whose enforcement posture they shaped in office. The transition is normalized as "private sector experience."
+
+---
+
 ### Sources
 
 ### Industry Data & Contribution Totals:
@@ -114,8 +149,11 @@ Wall Street Finance Networks represent the most successful donor-class operation
 ### Lobbying:
 - [OpenSecrets: Securities & Investment Top Lobbying Clients, 2024](https://www.opensecrets.org/industries/indus?ind=F07) (Tier 1)
 
+### Top Individual Contributors:
+- [OpenSecrets: Top Individual Contributors, 2024 Cycle](https://www.opensecrets.org/elections-overview/biggest-donors?cycle=2024) (Tier 1) (UNVERIFIED)
+
 ### Historical:
 - (URL NEEDED) Glass-Steagall repeal and financial industry lobbying documentation
 - (URL NEEDED) 2008 bailout and Wall Street prosecution record documentation
 
-content-readiness:: draft
+content-readiness:: developed
