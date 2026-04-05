@@ -189,6 +189,15 @@ const LandingPage: QuartzComponent = ({
 
   return (
     <div class={classNames(displayClass, "lp-landing")}>
+      {/* Mobile-only desktop preference notice */}
+      <div class="lp-mobile-notice" aria-label="Viewing tip">
+        <span class="lp-mobile-notice-icon" aria-hidden="true">⌨</span>
+        <span class="lp-mobile-notice-text">
+          <strong>Desktop is preferred.</strong> Mobile layout is still being polished —
+          you'll see the full data tables, sidebars, and interactive views best on a larger screen.
+        </span>
+      </div>
+
       {/* ═══ LAYER 1: ORIENTATION — What is this, can I trust it? ═══ */}
       <section class="lp-hero">
         <div class="lp-hero-badge">DONOR INFLUENCE TRACKING SYSTEM</div>

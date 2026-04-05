@@ -74,7 +74,18 @@ function wrapProfileSections() {
   for (var i = 0; i < children.length; i++) {
     var el = children[i];
 
-    if (el.tagName === sectionTag) {
+    // Detect "paragraph-as-heading" misuse: long h3s or ones with → arrows
+    // are not real section boundaries — they're narrative content authored
+    // as a heading by mistake. Keep them inside the current card.
+    var isSection = el.tagName === sectionTag;
+    if (isSection) {
+      var rawText = (el.textContent || '').trim();
+      if (rawText.length > 120 || rawText.indexOf('→') !== -1) {
+        isSection = false;
+      }
+    }
+
+    if (isSection) {
       // Close previous card
       if (currentCard) {
         fragment.appendChild(currentCard);
@@ -89,7 +100,7 @@ function wrapProfileSections() {
       // Wins / policy outcomes (donors: "What They've Gotten"; check before contradiction)
       if (text.indexOf('gotten') !== -1 || text.indexOf("what they've") !== -1 || text.indexOf('victor') !== -1 || text.indexOf('policy win') !== -1 || text.indexOf('what they got') !== -1) {
         currentCard.classList.add('psc-wins');
-      } else if (text.indexOf('vote') !== -1 || text.indexOf('voting record') !== -1 || text.indexOf('bills sponsored') !== -1 || text.indexOf('cosponsor') !== -1 || text.indexOf('legislation') !== -1 || text.indexOf('committee') !== -1 || text.indexOf('floor speech') !== -1) {
+      } else if (text.indexOf('vote') !== -1 || text.indexOf('voting record') !== -1 || text.indexOf('bills sponsored') !== -1 || text.indexOf('cosponsor') !== -1 || text.indexOf('legislation') !== -1 || text.indexOf('legislative') !== -1 || text.indexOf('committee') !== -1 || text.indexOf('floor speech') !== -1) {
         currentCard.classList.add('psc-voting');
       } else if (text.indexOf('contradiction') !== -1) {
         currentCard.classList.add('psc-contradiction');
@@ -97,7 +108,9 @@ function wrapProfileSections() {
         currentCard.classList.add('psc-who');
       } else if (text.indexOf('thesis') !== -1) {
         currentCard.classList.add('psc-thesis');
-      } else if (text.indexOf('donor') !== -1 || text.indexOf('fund') !== -1) {
+      } else if (text.indexOf('donor') !== -1 || text.indexOf('fund') !== -1 || text.indexOf('grassroots') !== -1 || text.indexOf('small-dollar') !== -1 || text.indexOf('small dollar') !== -1) {
+        currentCard.classList.add('psc-donors');
+      } else if (text.indexOf('industry') !== -1 || text.indexOf('pharma') !== -1 || text.indexOf('insurance') !== -1 || text.indexOf('wall street') !== -1 || text.indexOf('silicon valley') !== -1 || text.indexOf('healthcare deal') !== -1 || text.indexOf('fossil fuel') !== -1 || text.indexOf('oil ') !== -1 || text.indexOf('sector') !== -1) {
         currentCard.classList.add('psc-donors');
       } else if (text.indexOf('pattern') !== -1 || text.indexOf('analytical') !== -1) {
         currentCard.classList.add('psc-patterns');
