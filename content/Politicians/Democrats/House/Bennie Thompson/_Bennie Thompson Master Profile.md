@@ -2,7 +2,7 @@
 title: "Bennie Thompson"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,6 +14,8 @@ committees:
   - "Homeland Security"
 leadership-roles:
   - "Ranking Member"
+total-received: "$497,950"
+fec-candidate-id: "H4MS02068"
 ---
 
 
@@ -146,3 +148,38 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 - [Wikipedia: Bennie Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $497,950 |
+| Individual Contributions | $119,332 |
+| PAC Contributions | $370,598 |
+| Cash on Hand | 1544559.15 |
+| IE Support (Super PAC) | $83,665 |
+| IE Opposition (Super PAC) | $184 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $497,950 | $119,332 | $370,598 |
+| 2024 | $1,245,201 | $410,855 | $809,372 |
+| 2022 | $1,515,666 | $580,777 | $900,903 |
+| 2020 | $1,379,892 | $366,160 | $998,263 |
+| 2018 | $1,020,602 | $194,947 | $814,474 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| UNITE HERE TIP CAMPAIGN COMMITTEE | $49,126 | $0 |
+| AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES - P E O P L E, QUALIFIED | $10,000 | $0 |
+| LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A. | $10,000 | $0 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $9,514 | $0 |
+| NARAL PRO-CHOICE AMERICA | $3,380 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
+<!-- auto:fec-politician end -->

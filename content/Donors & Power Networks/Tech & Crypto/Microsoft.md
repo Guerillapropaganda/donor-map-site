@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -11,6 +11,8 @@ issues:
   - "Technology"
   - "Antitrust & Monopoly"
   - "Defense & Military"
+lobbying-spend: 20724000
+lobbying-filings: 56
 ---
 
 #microsoft #tech #lobbying #ai #cloud #antitrust #government-contracts #defense
@@ -76,3 +78,22 @@ Microsoft represents the corporate capture of government technology infrastructu
 - [Ballotpedia: Microsoft political spending](https://ballotpedia.org/Microsoft) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $20.7M |
+| Quarterly Filings | 56 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 26 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Education, Energy/Nuclear, Environment/Superfund, Homeland Security, Immigration, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Postal, Science/Technology, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, CGCN GROUP, LLC, CORY CROWLEY & COMPANY, LLC, D&P CREATIVE STRATEGIES, LLC, ELEVATE GOVERNMENT AFFAIRS, LLC, ERNST & YOUNG LLP (WASHINGTON COUNCIL ERNST & YOUNG), FEDERAL POLICY GROUP, LLC, FIFESTRATEGIES, LLC, FORZA DC, LLC, HARBINGER STRATEGIES, LLC, HILLTOP ADVOCACY, HOLLIER & ASSOCIATES, LOT SIXTEEN LLC, MICHAEL BEST STRATEGIES LLC, MICROSOFT CORPORATION, MONUMENT ADVOCACY, PENN HILL GROUP, POLARIS GOVERNMENT RELATIONS, LLC, POLARIS-HUTTON GROUP, LLC, STEWART STRATEGIES AND SOLUTIONS, LLC, THE GIBSON GROUP, LLC, TIBER CREEK GROUP, TRACTION STRATEGIC, VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC), WEST FRONT STRATEGIES LLC, WILMER CUTLER PICKERING HALE AND DORR LLP
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), Federal Railroad Administration +26 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Microsoft) (Tier 1)
+<!-- auto:lda-lobbying end -->

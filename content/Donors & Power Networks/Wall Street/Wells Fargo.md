@@ -2,13 +2,16 @@
 title: "Wells Fargo"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
 issues:
   - "Wall Street & Finance"
+federal-awards-total: 3800000
+federal-contracts-count: 1
+federal-grants-count: 0
 ---
 
 #wells-fargo #wall-street #consumer #fraud #fake-accounts #banking #charlotte
@@ -52,3 +55,21 @@ Removal of the Federal Reserve asset cap (which limits Wells Fargo's growth), re
 - [Ballotpedia: Wells Fargo](https://ballotpedia.org/Wells_Fargo) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $3.8M |
+| Contracts (recent 3yr) | 1 ($247K sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 1 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $247K | Department of the Interior | OFFICE, WAREHOUSE AND WAREYARD SPACE |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Wells%20Fargo) (Tier 1)
+<!-- auto:usaspending end -->

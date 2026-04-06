@@ -2,7 +2,7 @@
 title: "HBW Resources"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,6 +10,8 @@ entity-type: "Corporation"
 issues:
   - "Energy & Climate"
   - "Dark Money & Campaign Finance"
+lobbying-spend: 1100000
+lobbying-filings: 42
 ---
 
 #hbw-resources #lobbying #energy #fossil-fuel #astroturf #front-group #lng #consumer-energy-alliance #western-states-tribal-nations #oil-gas #influence #dark-money
@@ -136,3 +138,22 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 **Editorial note:** The prior version of this file incorrectly described HBW Resources as a FARA-registered foreign agent for Turkey and Qatar, and included related links to the Turkey-Erdogan Lobbying Operation. This was an error — HBW Resources is a domestic energy lobbying firm with no documented Turkey or Qatar FARA registrations in the OpenSecrets or Senate LDA databases. The Turkey FARA related tag has been removed and the classification corrected to reflect HBW's actual practice areas: fossil fuel front groups, tribal gaming, defense aerostats, and carbon capture.
 
 content-readiness:: developed
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.1M |
+| Quarterly Filings | 42 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Clean Air and Water (quality), Energy/Nuclear, Fuel/Gas/Oil, Indian/Native American Affairs, Natural Resources
+
+**Lobbying firms:** HBW RESOURCES
+
+**Agencies contacted:** Energy, Dept of, Environmental Protection Agency (EPA), Federal Energy Regulatory Commission (FERC), HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=HBW%20Resources) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -2,7 +2,7 @@
 title: "Tammy Duckworth"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,8 @@ top-donors:
   - "AFSCME"
   - "SEIU"
 bioguide-id: "A000383"
+total-received: "$385,884"
+fec-candidate-id: "H6IL06141"
 ---
 
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion
@@ -158,3 +160,38 @@ This is the Genuine Win track. The veteran care outcomes are real and meaningful
 
 profile-status:: developed
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2016 |
+| Total Raised | $385,884 |
+| Individual Contributions | $126,085 |
+| PAC Contributions | $196,500 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $889,395 |
+| IE Opposition (Super PAC) | $14,977,804 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2016 | $385,884 | $126,085 | $196,500 |
+| 2014 | $3,241,321 | $1,062,640 | $966,439 |
+| 2012 | $5,309,495 | $2,525,920 | $727,991 |
+| 2008 | $878 | $0 | $0 |
+| 2006 | $4,563,412 | $2,438,236 | $748,803 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $0 | $6,878,709 |
+| NOW OR NEVER PAC | $0 | $3,892,413 |
+| FREEDOMWORKS FOR AMERICA | $30,511 | $3,649,440 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $858,884 | $0 |
+| NEW PROSPERITY FOUNDATION; THE | $0 | $517,710 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1)
+<!-- auto:fec-politician end -->

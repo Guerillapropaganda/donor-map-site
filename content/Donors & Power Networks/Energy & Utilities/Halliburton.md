@@ -2,11 +2,14 @@
 title: "Halliburton"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
+federal-awards-total: 4000000
+federal-contracts-count: 0
+federal-grants-count: 1
 ---
 
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
@@ -51,3 +54,24 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 - [Ballotpedia: Halliburton](https://ballotpedia.org/Halliburton) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $4.0M |
+| Contracts (recent 3yr) | 0 ($0 sampled) |
+| Grants (recent 3yr) | 1 ($4.0M sampled) |
+| Federal Agencies | 1 |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $4.0M | Department of Energy | HALLIBURTON TECHNOLOGY PARTNERS LLC
+CONTROL NUMBER 3387-2463
+VISION OPEN 2024
+TITLE: QUANTUM-ENHANCE |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Halliburton) (Tier 1)
+<!-- auto:usaspending end -->

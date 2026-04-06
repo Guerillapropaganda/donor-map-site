@@ -2,9 +2,10 @@
 title: "Dianne Feinstein"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
+bioguide-id: "A000383"
 ---
 
 #feinstein #democrat #senate #california #intelligence #defense-contractors #richard-blum #surveillance-champion #class-analysis
@@ -108,3 +109,16 @@ The class analysis: when a wealthy senator becomes incapacitated, do the institu
 
 profile-status:: ready
 content-readiness:: ready
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

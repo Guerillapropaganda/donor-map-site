@@ -2,7 +2,7 @@
 title: "Richard Blumenthal"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -15,6 +15,13 @@ committees:
   - "Armed Services"
 leadership-roles:
   - "Ranking Member"
+total-received: "$619,810"
+fec-candidate-id: "S0CT00177"
+govtrack-id: 412490
+bills-sponsored: 102
+bills-cosponsored: 625
+website: "https://www.blumenthal.senate.gov"
+phone: "202-224-2823"
 ---
 
 
@@ -144,3 +151,56 @@ The analytical interest is the personal wealth dimension. Blumenthal is a $100M+
 - [Wikipedia: Richard Blumenthal](https://en.wikipedia.org/wiki/Richard_Blumenthal) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $619,810 |
+| Individual Contributions | $179,969 |
+| PAC Contributions | $110,054 |
+| Cash on Hand | 1232414.55 |
+| IE Support (Super PAC) | $126,571 |
+| IE Opposition (Super PAC) | $6,801,718 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $619,810 | $179,969 | $110,054 |
+| 2022 | $9,358,057 | $4,409,385 | $1,607,583 |
+| 2016 | $9,002,024 | $5,817,128 | $2,275,938 |
+| 2010 | $8,737,377 | $4,439,439 | $886,009 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CONNECTICUT PATRIOTS PAC | $0 | $5,702,166 |
+| RESTORATION PAC | $0 | $450,000 |
+| LEADERSHIP NOW | $0 | $446,250 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $3,294 | $158,505 |
+| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC | $102,121 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CT00177/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 102 |
+| Bills Cosponsored | 625 |
+| Total Votes Cast | 5,337 |
+
+**Recent bills sponsored:**
+
+- S. 4269: A bill to repeal certain student loan provisions, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4237: A bill to amend title 38, United States Code, to modify the eligibility requirements for transfer of unused entitlement  — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.J.Res. 150: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4149: Social Determinants for Moms Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4140: Carlton H. Ingram Veterans’ Benefits Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412490) (Tier 1)
+<!-- auto:govtrack end -->

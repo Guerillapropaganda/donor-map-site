@@ -2,7 +2,7 @@
 title: "Pete Aguilar"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,8 @@ state-abbr: "CA"
 district: "6"
 committees:
   - "Appropriations"
+total-received: "$3,026,029"
+fec-candidate-id: "H2CA31125"
 ---
 
 #aguilar #california #caucus-chair #leadership #inland-empire #january-6 #moderate #appropriations #logistics #dccc
@@ -147,3 +149,38 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 
 profile-status:: developed
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $3,026,029 |
+| Individual Contributions | $1,076,693 |
+| PAC Contributions | $1,300,351 |
+| Cash on Hand | 3212144.78 |
+| IE Support (Super PAC) | $1,055,865 |
+| IE Opposition (Super PAC) | $87,812 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $3,026,029 | $1,076,693 | $1,300,351 |
+| 2024 | $5,866,372 | $2,215,334 | $2,514,458 |
+| 2022 | $3,255,093 | $1,274,762 | $1,410,801 |
+| 2020 | $2,529,488 | $825,039 | $1,090,525 |
+| 2018 | $2,768,325 | $1,164,988 | $1,006,043 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CULAC THE PAC OF CREDIT UNION NATIONAL ASSOCIATION | $346,842 | $0 |
+| LEAGUE OF CONSERVATION VOTERS VICTORY FUND | $319,383 | $0 |
+| RESTORING OUR COMMUNITY | $264,208 | $0 |
+| WOMEN VOTE! | $0 | $87,812 |
+| COOPERATIVE OF AMERICAN PHYSICIANS INDEPENDENT EXPENDITURE COMMITTEE | $45,992 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
+<!-- auto:fec-politician end -->

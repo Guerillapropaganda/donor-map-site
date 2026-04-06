@@ -2,13 +2,16 @@
 title: "Gilead Sciences"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+federal-awards-total: 0
+federal-contracts-count: 13
+federal-grants-count: 0
 ---
 
 #gilead #pharma #hiv #hepatitis #pricing #sovaldi #truvada #prep #lobbying
@@ -48,3 +51,24 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 - [Ballotpedia: Gilead Sciences](https://ballotpedia.org/Gilead_Sciences) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 13 ($2.0M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $1.4M | Department of Health and Human Services | OFFICE OF INFECTIOUS DISEASE AND HIV/AIDS POLICY (OIDP): ENDING THE HIV EPIDEMIC - PRE-EXPOSURE PROP |
+| $308K | Department of Veterans Affairs | YESCARTA |
+| $82K | Department of Veterans Affairs | COVID-19 EMERGENCY VEKLURY REMDESIVIR - CI |
+| $48K | Department of Veterans Affairs | LENACAPAVIR |
+| $48K | Department of Veterans Affairs | LENACAPAVIR TABS & INJECTIONS |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Gilead%20Sciences) (Tier 1)
+<!-- auto:usaspending end -->

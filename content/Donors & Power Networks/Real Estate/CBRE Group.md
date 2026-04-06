@@ -2,13 +2,17 @@
 title: "CBRE Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Real Estate"
 entity-type: "Corporation"
 issues:
   - "Housing"
+ein: 541871872
+annual-revenue: "$84K"
+net-assets: "$11K"
+tax-year: "2024"
 ---
 
 #cbre #real-estate #commercial #brokerage #lobbying #1031-exchange
@@ -49,3 +53,15 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 - [Ballotpedia: CBRE Group](https://ballotpedia.org/CBRE_Group) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2024)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $84K |
+| Total Contributions | $0 |
+| Total Expenses | $84K |
+| Net Assets | $11K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 541871872](https://projects.propublica.org/nonprofits/organizations/541871872) (Tier 1)
+<!-- auto:propublica-990 end -->

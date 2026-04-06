@@ -2,7 +2,7 @@
 title: "John Hoeven"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -15,6 +15,8 @@ committees:
 issues:
   - "Energy & Climate"
   - "Agriculture"
+total-received: "$824,977"
+fec-candidate-id: "S0ND00093"
 ---
 
 #politician #republican #senate #north-dakota #energy #oil-gas #agriculture #appropriations #pipeline #class-analysis #follow-the-money #gavel-power
@@ -132,3 +134,37 @@ Hoeven's donor-class function is to serve as the intersection point where North 
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $824,977 |
+| Individual Contributions | $335,990 |
+| PAC Contributions | $323,150 |
+| Cash on Hand | 648049.66 |
+| IE Support (Super PAC) | $799,500 |
+| IE Opposition (Super PAC) | $3,814 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $824,977 | $335,990 | $323,150 |
+| 2022 | $4,438,837 | $1,518,270 | $1,977,212 |
+| 2016 | $3,612,489 | $1,440,576 | $1,645,206 |
+| 2010 | $3,801,481 | $2,042,198 | $1,237,603 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NORTH DAKOTA STRONG INC | $320,600 | $0 |
+| AMERICAN ENERGY ACTION FUND | $204,000 | $0 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $108,164 | $0 |
+| NATIONAL WILDLIFE FEDERATION ACTION FUND | $100,000 | $0 |
+| CLEARPATH ACTION FUND, INC. | $50,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1)
+<!-- auto:fec-politician end -->

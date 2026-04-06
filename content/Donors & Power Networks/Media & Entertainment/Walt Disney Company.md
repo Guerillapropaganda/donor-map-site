@@ -11,6 +11,10 @@ politicians-funded:
   - "Ron DeSantis"
 lobbying-spend: 2629000
 lobbying-filings: 97
+ein: 956037079
+annual-revenue: "$2.3M"
+net-assets: "$681K"
+tax-year: "2023"
 ---
 
 #disney #media #entertainment #lobbying #copyright #florida #desantis
@@ -74,3 +78,15 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Walt%20Disney%20Company) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2.3M |
+| Total Contributions | $0 |
+| Total Expenses | $2.3M |
+| Net Assets | $681K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 956037079](https://projects.propublica.org/nonprofits/organizations/956037079) (Tier 1)
+<!-- auto:propublica-990 end -->

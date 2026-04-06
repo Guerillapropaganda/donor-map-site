@@ -2,7 +2,7 @@
 title: "David Sacks"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -13,6 +13,10 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Technology"
+ein: 746417564
+annual-revenue: "$22K"
+net-assets: "$634K"
+tax-year: "2023"
 ---
 
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast
@@ -363,3 +367,15 @@ By March 2026, $500M+ in personal portfolio wealth appreciation from policies Sa
 - [DefenseScoop: Army Awards Anduril $20B Contract](https://defensescoop.com/2026/03/14/anduril-20-billion-dollar-army-contract/) (Tier 2)
 
 content-readiness:: developed
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $22K |
+| Total Contributions | $0 |
+| Total Expenses | $39K |
+| Net Assets | $634K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 746417564](https://projects.propublica.org/nonprofits/organizations/746417564) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,7 +2,7 @@
 title: "Mark Warner"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -15,6 +15,7 @@ top-donors:
   - "Telecom Industry"
   - "Silicon Valley Donors"
   - "Defense Contractors"
+fec-candidate-id: "P80003023"
 ---
 
 #mark-warner #senate #virginia #intelligence #telecom #venture-capital #personal-wealth #class-analysis #democrat
@@ -131,3 +132,20 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2008 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $2,417 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| HEALTH JUSTICE FOR ALL | $2,417 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003023/) (Tier 1)
+<!-- auto:fec-politician end -->

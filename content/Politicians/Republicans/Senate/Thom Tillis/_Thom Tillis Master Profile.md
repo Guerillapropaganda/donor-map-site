@@ -2,7 +2,7 @@
 title: "Thom Tillis Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -20,6 +20,7 @@ bills-sponsored: 53
 bills-cosponsored: 318
 website: "https://www.tillis.senate.gov"
 phone: "202-224-6342"
+bioguide-id: "A000383"
 ---
 
 
@@ -180,3 +181,15 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 - [Spectrum Local News: Why Tillis changed his position on immigration compromise](https://spectrumlocalnews.com/nc/charlotte/news/2024/02/08/why-tillis-changed-his-position-on-immigration-compromise) (Tier 2)
 - [WUNC News: Senate race in NC expected to be most expensive ever](https://www.wunc.org/term/news/2025-12-02/most-expensive-senate-race-ever) (Tier 2)
 content-readiness:: ready
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

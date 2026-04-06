@@ -2,11 +2,15 @@
 title: "Environmental Law & Policy Center"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
+ein: 363866530
+annual-revenue: "$10.9M"
+net-assets: "$38.0M"
+tax-year: "2023"
 ---
 
 #environmental-advocacy #clean-energy #midwest #litigation #nonprofit
@@ -49,3 +53,19 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 - [Inside Philanthropy: Environmental foundation funding](https://www.insidephilanthropy.com/environmental-nonprofits/) (Tier 2)
 
 `content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $10.9M |
+| Total Contributions | $9.6M |
+| Program Service Revenue | $241K |
+| Investment Income | $544K |
+| Total Expenses | $8.2M |
+| Net Assets | $38.0M |
+| Officer Compensation | $914K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 363866530](https://projects.propublica.org/nonprofits/organizations/363866530) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F363866530_202306_990_2024061122523505.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

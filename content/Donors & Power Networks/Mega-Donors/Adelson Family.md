@@ -2,7 +2,7 @@
 title: "Adelson Family"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -13,6 +13,10 @@ politicians-funded:
   - "Marco Rubio"
 issues:
   - "Israel & Foreign Policy"
+ein: 223769645
+annual-revenue: "$706K"
+net-assets: "$5.9M"
+tax-year: "2023"
 ---
 
 
@@ -245,3 +249,15 @@ content-readiness:: developed
 | NIKKI HALEY FOR PRESIDENT INC. | $500 |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $706K |
+| Total Contributions | $0 |
+| Total Expenses | $1.2M |
+| Net Assets | $5.9M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 223769645](https://projects.propublica.org/nonprofits/organizations/223769645) (Tier 1)
+<!-- auto:propublica-990 end -->

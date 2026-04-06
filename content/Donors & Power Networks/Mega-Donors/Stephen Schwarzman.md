@@ -2,7 +2,7 @@
 title: "Stephen Schwarzman"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -150,3 +150,28 @@ The deeper pattern: Schwarzman positions himself as a statesman (Yale scholar, m
 research-status:: developed — Merged 2024 cycle data ($40M personal + $48.6M Blackstone-affiliated). Added temporal mapping (1985-2025): Invitation Homes $8.3B acquisition (2012), anti-rent-control campaigns ($14.1M, Props 10/21/CBRE), TCJA and Opportunity Zones (OZ 2.0 2025), September 2022 Trump criticism reversal (May 2024). Expanded revolving door (Wayne Berman 84.85%), corporate spending breakdown (PAC, NAR, Real Estate Roundtable, NRHC). Added net worth ($40B), 2020 cycle context ($33.5M top 10 donor), 2025 MAGA Inc ($5M), FHFA capture (Bill Pulte PE insider). 12 sources (Tier 1-2), all marked UNVERIFIED except FEC/OpenSecrets. All ### headers. Ready for Chrome verification pass.
 
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $36,566,410 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SENATE LEADERSHIP FUND | $9,000,000 | — |
+| SLF PAC | $5,000,000 | — |
+| MAGA INC. | $5,000,000 | — |
+| MORE JOBS, LESS GOVERNMENT | $3,000,600 | — |
+| GLCF, INC. | $2,500,000 | — |
+| PINE TREE RESULTS PAC | $2,000,000 | — |
+| KEYSTONE RENEWAL PAC | $2,000,000 | — |
+| BUCKEYE VALUES PAC | $2,000,000 | — |
+| MARYLAND'S FUTURE | $1,500,000 | — |
+| CONGRESSIONAL LEADERSHIP FUND | $1,000,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stephen%20Schwarzman) (Tier 1)
+<!-- auto:fec-donor end -->

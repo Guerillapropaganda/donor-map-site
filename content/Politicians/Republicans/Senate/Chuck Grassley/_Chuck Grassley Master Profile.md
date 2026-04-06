@@ -2,7 +2,7 @@
 title: "Chuck Grassley"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -15,6 +15,11 @@ committees:
 issues:
   - "Agriculture"
   - "Healthcare"
+govtrack-id: 300048
+bills-sponsored: 73
+bills-cosponsored: 202
+website: "https://www.grassley.senate.gov"
+phone: "202-224-3744"
 ---
 
 
@@ -164,3 +169,23 @@ Grassley's son Robin has received over $1.4 million in USDA farm subsidies. Gras
 - [Environmental Working Group: Grassley Farm Subsidies](https://farm.ewg.org/search.php?search=Chuck%20Grassley) (Tier 1)
 
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 73 |
+| Bills Cosponsored | 202 |
+| Total Votes Cast | 20,014 |
+| Leadership | President Pro Tempore of the Senate |
+
+**Recent bills sponsored:**
+
+- S. 4100: A bill to amend title 5, United States Code, to clarify whistleblower protections for duty speech disclosures, and for o — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 16, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4099: Whistleblower Anti-Gag Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 16, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 626: A resolution designating March 6, 2026, as “National Speech and Debate Education Day”. — *This simple resolution was agreed to on March 4, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 3977: Bankruptcy Threshold Adjustment Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3826: Litigation Funding Transparency Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300048) (Tier 1)
+<!-- auto:govtrack end -->

@@ -2,7 +2,7 @@
 title: "American Enterprise Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,6 +10,10 @@ entity-type: "Individual Donor"
 issues:
   - "Tax Policy"
   - "Trade"
+ein: 530218495
+annual-revenue: "$53.8M"
+net-assets: "$348.4M"
+tax-year: "2023"
 ---
 
 #aei #think-tank #conservative #deregulation #tax #trade #neoconservative
@@ -50,3 +54,19 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 - [Ballotpedia: American Enterprise Institute](https://ballotpedia.org/American_Enterprise_Institute) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $53.8M |
+| Total Contributions | $48.1M |
+| Program Service Revenue | $1.5M |
+| Investment Income | $1.3M |
+| Total Expenses | $66.8M |
+| Net Assets | $348.4M |
+| Officer Compensation | $4.1M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 530218495](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F530218495_202306_990_2024040522345299.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

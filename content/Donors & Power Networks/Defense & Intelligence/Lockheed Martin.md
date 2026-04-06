@@ -16,6 +16,10 @@ issues:
 federal-awards-total: 51259703736
 federal-contracts-count: 25
 federal-grants-count: 25
+ein: 946107683
+annual-revenue: "$137K"
+net-assets: "$74K"
+tax-year: "2014"
 ---
 
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door
@@ -277,3 +281,16 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Lockheed%20Martin) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Financial Overview (990 Filing — 2014)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $137K |
+| Total Contributions | $0 |
+| Total Expenses | $140K |
+| Net Assets | $74K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 946107683](https://projects.propublica.org/nonprofits/organizations/946107683) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2014_09_EO%2F94-6107683_990EO_201406.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

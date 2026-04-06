@@ -2,7 +2,7 @@
 title: "Shelley Moore Capito"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -16,6 +16,8 @@ issues:
   - "Infrastructure"
 top-donors:
   - "Koch Network"
+total-received: "$4,455,752"
+fec-candidate-id: "S4WV00159"
 ---
 
 
@@ -155,3 +157,36 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 - [WV Encyclopedia: Shelley Moore Capito](https://www.wvencyclopedia.org/entries/903) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $4,455,752 |
+| Individual Contributions | $1,776,680 |
+| PAC Contributions | $2,155,667 |
+| Cash on Hand | 4355004.75 |
+| IE Support (Super PAC) | $1,063,799 |
+| IE Opposition (Super PAC) | $469,325 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $4,455,752 | $1,776,680 | $2,155,667 |
+| 2020 | $5,756,398 | $2,261,128 | $2,719,600 |
+| 2014 | $9,485,468 | $4,601,456 | $2,366,594 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SENATE MAJORITY PAC | $0 | $468,063 |
+| TAKE ME HOME WV ACTION | $460,720 | $0 |
+| US CHAMBER OF COMMERCE | $400,000 | $0 |
+| DEFENDING MAIN STREET SUPERPAC INC | $98,000 | $0 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $48,061 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
+<!-- auto:fec-politician end -->

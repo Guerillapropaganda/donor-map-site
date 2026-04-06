@@ -2,7 +2,7 @@
 title: "Ford Motor Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -11,6 +11,8 @@ politicians-funded:
   - "Joe Biden"
 issues:
   - "Trade"
+lobbying-spend: 8734639
+lobbying-filings: 56
 ---
 
 #ford #auto #detroit #michigan #manufacturing #ev #uaw #trade
@@ -43,3 +45,22 @@ Ford's refusal of TARP funds in 2009 gave the company a unique political asset: 
 - [Ballotpedia: Auto industry political spending](https://ballotpedia.org/Ford_Motor_Company) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $8.7M |
+| Quarterly Filings | 56 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 17 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Advertising, Agriculture, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Communications/Broadcasting/Radio/TV, Consumer Issues/Safety/Products, Defense, Education, Energy/Nuclear, Environment/Superfund, Fuel/Gas/Oil, Labor Issues/Antitrust/Workplace, Manufacturing, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Science/Technology, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Veterans
+
+**Lobbying firms:** ALPINE GROUP PARTNERS, LLC., AVOQ, LLC, CAPITOL TAX PARTNERS, LLP, CORNERSTONE GOVERNMENT AFFAIRS, INC., DAVID TURCH & ASSOC., DENNIS M. HERTEL & ASSOCIATES, FORD MOTOR COMPANY, MARCUS G. FAUST, PC, MARSHALL & POPP, LLC, MICHAEL BEST STRATEGIES LLC, O'KEEFFE SHAHMORADI STRATEGIES, LLC, POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC, PRIMACY STRATEGY GROUP, RYAN COSTELLO STRATEGIES, STRATEGIC HEALTH CARE, THE HOBBS GROUP, LLC, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI) +10 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ford%20Motor%20Company) (Tier 1)
+<!-- auto:lda-lobbying end -->

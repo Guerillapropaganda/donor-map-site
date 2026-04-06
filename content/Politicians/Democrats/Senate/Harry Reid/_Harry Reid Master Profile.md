@@ -10,6 +10,8 @@ chamber: "Senate"
 govtrack-id: 300082
 bills-sponsored: 0
 bills-cosponsored: 0
+total-received: "$4,692,846"
+fec-candidate-id: "S6NV00028"
 ---
 
 #politician #nevada-machine #gaming-industry #donor-extraction #senate-power
@@ -95,3 +97,38 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/300082) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2016 |
+| Total Raised | $4,692,846 |
+| Individual Contributions | $1,978,410 |
+| PAC Contributions | $1,584,783 |
+| Cash on Hand | 372777.00 |
+| IE Support (Super PAC) | $1,464,574 |
+| IE Opposition (Super PAC) | $14,076,213 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2016 | $4,692,846 | $1,978,410 | $1,584,783 |
+| 2010 | $24,829,211 | $15,039,012 | $5,173,578 |
+| 2004 | $8,908,846 | $0 | $2,697,109 |
+| 1998 | $5,241,673 | $0 | $1,428,005 |
+| 1992 | $3,371,146 | $0 | $1,136,538 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CROSSROADS GRASSROOTS POLICY STRATEGIES | $0 | $4,478,084 |
+| AMERICAN CROSSROADS | $0 | $2,312,078 |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $0 | $2,150,022 |
+| ENDING SPENDING FUND | $0 | $1,724,864 |
+| FIRST AMENDMENT ALLIANCE | $0 | $820,690 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6NV00028/) (Tier 1)
+<!-- auto:fec-politician end -->

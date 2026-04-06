@@ -2,7 +2,7 @@
 title: "Sports Betting Alliance"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -10,6 +10,10 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$766,000"
+ein: 874117395
+annual-revenue: "$13.4M"
+net-assets: "$5.8M"
+tax-year: "2023"
 ---
 
 #sports-betting #dark-money #draftkings-fanduel #gambling-expansion #lobbying
@@ -53,3 +57,15 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 - [NPR: The Story Behind the Sports Betting Boom — DraftKings, FanDuel, and state lobbying](https://www.npr.org/2023/04/06/1168349259/the-story-behind-the-sports-betting-boom) (Tier 2)
 
 `content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $13.4M |
+| Total Contributions | $13.4M |
+| Total Expenses | $13.3M |
+| Net Assets | $5.8M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 874117395](https://projects.propublica.org/nonprofits/organizations/874117395) (Tier 1)
+<!-- auto:propublica-990 end -->

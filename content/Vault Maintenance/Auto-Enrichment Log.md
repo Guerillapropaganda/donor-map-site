@@ -28,6 +28,67 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+
+
+
+
+## 2026-04-06 16:20 UTC — 4 profiles
+
+**USAspending — 4 profiles:**
+- Halliburton — 0 contracts, 1 grants
+- Wells Fargo — 1 contracts, 0 grants
+- CoreCivic — 25 contracts, 0 grants
+- Gilead Sciences — 13 contracts, 0 grants
+
+---
+## 2026-04-06 16:17 UTC — 3 profiles
+
+**GovTrack — 3 profiles:**
+- Richard Blumenthal — 102 sponsored, 625 cosponsored
+- Chuck Grassley — 73 sponsored, 202 cosponsored
+- Bobby Scott — 17 sponsored, 154 cosponsored
+
+---
+## 2026-04-06 16:15 UTC — 8 profiles
+
+**ProPublica — 8 profiles:**
+- American Enterprise Institute — $53.8M revenue, 2023 990
+- Lockheed Martin — $137K revenue, 2014 990
+- David Sacks — $22K revenue, 2023 990
+- Adelson Family — $706K revenue, 2023 990
+- Environmental Law & Policy Center — $10.9M revenue, 2023 990
+- Sports Betting Alliance — $13.4M revenue, 2023 990
+- CBRE Group — $84K revenue, 2024 990
+- Walt Disney Company — $2.3M revenue, 2023 990
+
+---
+## 2026-04-06 16:14 UTC — 12 profiles
+
+**FEC — 12 profiles:**
+- Bennie Thompson — 2026 raised $497,950
+- Harry Reid — 2016 raised $4,692,846
+- Chris Wright — 2024 raised $10,625
+- Tammy Duckworth — 2016 raised $385,884
+- Richard Blumenthal — 2028 raised $619,810
+- Mark Warner — 2008 raised $0
+- Pete Aguilar — 2026 raised $3,026,029
+- Shelley Moore Capito — 2026 raised $4,455,752
+- John Hoeven — 2028 raised $824,977
+- National Association of Manufacturers — total political spend $2,129,676
+- PhRMA - Pharmaceutical Research and Manufacturers of America — total political spend $1,878,043
+- Stephen Schwarzman — total political spend $36,566,410
+
+---
+## 2026-04-06 16:12 UTC — 4 profiles
+
+**Congress.gov — 4 profiles:**
+- Russell Vought — 0 policy areas, bioguide A000383
+- Patrick McHenry — 0 policy areas, bioguide A000383
+- Dianne Feinstein — 0 policy areas, bioguide A000383
+- Thom Tillis — 0 policy areas, bioguide A000383
+
+---
 ## 2026-04-06 15:04 UTC — 4 profiles
 
 **USAspending — 4 profiles:**

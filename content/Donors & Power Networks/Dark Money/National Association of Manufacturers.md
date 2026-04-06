@@ -2,7 +2,7 @@
 title: "National Association of Manufacturers"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,7 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
   - "Trade"
+total-political-spend: "$2,129,676"
 ---
 
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money
@@ -163,3 +164,28 @@ NAM is the permanent institutional voice of manufacturing capital — the organi
 
 content-readiness:: developed
 research-status:: developed — Expanded from 64 to 175+ lines. Key additions: 501(c)(6) structure and dark money function, year-by-year lobbying table (2017-2024, $150M+ cumulative), Global Climate Coalition founding history and 2009 endangerment finding opposition, 2017 deregulation list (158 items, 90%+ implemented), PRO Act block (97% member opposition), TCJA win, April 2025 methane fee repeal support, 7-entry temporal mapping table, 2 callout blocks ([!contradiction] on worker framing, [!money] ROI calc), class analysis expanded. Gaps: Individual member contribution amounts (shielded by 501(c)(6) structure); full year-by-year NAM PAC recipient breakdown; 2023-2024 990 data for MCLA.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $2,129,676 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $1,000,000 | — |
+| HUDSON FOR CONGRESS | $25,000 | REP |
+| HALEY STEVENS FOR CONGRESS | $25,000 | DEM |
+| RUDY FOR INDIANA | $23,000 | REP |
+| NEW DEMOCRAT COALITION ACTION FUND | $20,000 | — |
+| EMMER FOR CONGRESS | $17,500 | REP |
+| FREEDOM FUND | $17,000 | — |
+| BRIAN FITZPATRICK FOR ALL OF US | $16,500 | REP |
+| ALAMO PAC | $16,000 | — |
+| ADRIAN SMITH FOR CONGRESS | $15,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Association%20of%20Manufacturers) (Tier 1)
+<!-- auto:fec-donor end -->
