@@ -12,6 +12,10 @@ issues:
   - "Antitrust & Monopoly"
 lobbying-spend: 29220000
 lobbying-filings: 62
+ein: 870911755
+annual-revenue: "$8.9M"
+net-assets: "$61.9M"
+tax-year: "2023"
 ---
 
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy
@@ -107,3 +111,16 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Apple) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $8.9M |
+| Total Contributions | $7.5M |
+| Investment Income | $1.4M |
+| Total Expenses | $693 |
+| Net Assets | $61.9M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 870911755](https://projects.propublica.org/nonprofits/organizations/870911755) (Tier 1)
+<!-- auto:propublica-990 end -->

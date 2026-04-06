@@ -2,7 +2,7 @@
 title: "BAE Systems"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Jeanne Shaheen"
 issues:
   - "Defense & Military"
+ein: 742624710
+annual-revenue: "$418.7M"
+net-assets: "$54.6M"
+tax-year: "2022"
 ---
 
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia
@@ -68,3 +72,19 @@ content-readiness:: ready
 | DSCC | $30.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2022)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $418.7M |
+| Total Contributions | $0 |
+| Program Service Revenue | $384.6M |
+| Investment Income | $493K |
+| Total Expenses | $421.0M |
+| Net Assets | $54.6M |
+| Officer Compensation | $6K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 742624710](https://projects.propublica.org/nonprofits/organizations/742624710) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_72-74%2F742624710_202212_990O_2023120722085244.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -13,6 +13,13 @@ issues:
   - "Housing"
 lobbying-spend: 10419974
 lobbying-filings: 105
+court-cases: 123
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, C.D. California"
+  - "District Court, N.D. California"
 ---
 
 
@@ -133,3 +140,22 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Apartment%20Association) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 123 |
+| Courts | Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, N.D. California |
+| Case Types | 190 Contract: Other, 440 Civil Rights: Other, 890 Other Statutory Actions, Civil Rights: Accommodations |
+
+**Notable cases:**
+- Smith, et al. v. California Apartment Association, et al. (2026) — Court of Appeals for the Ninth Circuit
+- California Apartment Association, et al. v. County of Alameda, et al. (2025) — Court of Appeals for the Ninth Circuit
+- United States of America Chamber of Commerce, et al. v. Sanchez, et al. (2025) — Court of Appeals for the Ninth Circuit
+- Rinnai America Corporation, et al. v. South Coast Air Quality Management District, et al. (2025) — Court of Appeals for the Ninth Circuit
+- Woodfall-Jones v. City of San Mateo (2025) — District Court, N.D. California
+- Marya v. Board of Regents of University of California (2025) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Apartment%20Association%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

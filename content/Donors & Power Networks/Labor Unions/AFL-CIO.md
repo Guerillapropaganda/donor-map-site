@@ -2,13 +2,17 @@
 title: "AFL-CIO"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 issues:
   - "Labor & Workers"
+ein: 746062811
+annual-revenue: "$70K"
+net-assets: "$47K"
+tax-year: "2023"
 ---
 
 #afl-cio #labor #unions #federation #democratic #organizing #wages #pro-act #class-analysis #follow-the-money
@@ -200,3 +204,15 @@ content-readiness:: developed
 | WORKERS VOTE | $325.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $70K |
+| Total Contributions | $0 |
+| Total Expenses | $78K |
+| Net Assets | $47K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 746062811](https://projects.propublica.org/nonprofits/organizations/746062811) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,7 +2,7 @@
 title: "John Ratcliffe Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,9 @@ top-donors:
   - "L3 Technologies"
   - "Northrop Grumman"
   - "Blackstone"
+govtrack-id: 412653
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 
@@ -117,3 +120,14 @@ John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Direc
 - [FEC: John Ratcliffe contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=ratcliffe,+john) (Tier 1)
 content-readiness:: ready
  
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 3,345 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412653) (Tier 1)
+<!-- auto:govtrack end -->

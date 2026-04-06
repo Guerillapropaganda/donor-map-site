@@ -2,7 +2,7 @@
 title: "American Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-04
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -18,6 +18,7 @@ ein: 360725160
 annual-revenue: "$37.3M"
 net-assets: "$108.4M"
 tax-year: "2023"
+total-political-spend: "$44,294"
 ---
 
 
@@ -211,3 +212,22 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 ---
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $44,294 |
+| Contributions | 15 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| AG AMERICA | $21,094 | — |
+| DNC-NONFEDERAL-CORPORATE | $20,000 | — |
+| NRCCC - NON FED ACT | $3,000 | — |
+| REPUBLICAN NATIONAL COMMITTEE - CONTRIBUTIONS (AKA REPUBLICAN NATIONAL FINANCE COMMITTEE | $200 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Farm%20Bureau%20Federation) (Tier 1)
+<!-- auto:fec-donor end -->

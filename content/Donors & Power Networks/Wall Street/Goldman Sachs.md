@@ -2,7 +2,7 @@
 title: "Goldman Sachs"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -13,6 +13,10 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
 total-political-spend: "$2,326,690"
+ein: 311678646
+annual-revenue: "$-1,397,309"
+net-assets: "$648.2M"
+tax-year: "2023"
 ---
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor
@@ -186,3 +190,16 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 - [THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE — FEC.gov](https://www.fec.gov/data/committee/C00350744/?tab=summary) (Tier 1)
 
 research-status:: ready — Full citation pass complete. $39M career political contributions, revolving door (Paulson, Cohn, Mnuchin, Rubin), bipartisan regulatory capture model, derivatives deregulation pipeline, TARP bailout, carried interest protection. 9 sources, Tier 1-2 verified. All ### headers. Promoted S
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $-1,397,309 |
+| Total Contributions | $0 |
+| Total Expenses | $57.9M |
+| Net Assets | $648.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 311678646](https://projects.propublica.org/nonprofits/organizations/311678646) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F311678646_202312_990PF_2025010222971038.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

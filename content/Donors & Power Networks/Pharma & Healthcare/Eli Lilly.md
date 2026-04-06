@@ -2,13 +2,19 @@
 title: "Eli Lilly"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+court-cases: 31551
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, E.D. Pennsylvania"
+lobbying-spend: 7030293
+lobbying-filings: 104
 ---
 
 #donor-node #lilly #pharma #insulin #drug-pricing #indiana #diabetes #weight-loss #glp1 #lobbying #class-analysis #follow-the-money
@@ -189,3 +195,41 @@ content-readiness:: developed
 | BLUE DOG POLITICAL ACTION COMMITTEE | $10.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 31,551 |
+| Courts | District Court, E.D. Pennsylvania |
+| Case Types | 365 P.I.: Personal Inj. Prod. Liability, 367 P.I.: Health Care/Pharmaceutical Personal Injury Product Liability |
+
+**Notable cases:**
+- TAHERI v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
+- MARKS v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
+- MERCHANT v. ELI LILLY AND COMPANY INC. (2026) — District Court, E.D. Pennsylvania
+- PIANO v. NOVO NORIDSK INC. (2026) — District Court, E.D. Pennsylvania
+- RAFFURTY v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
+- WAKE v. NOVO NORDISK INC. (2026) — District Court, E.D. Pennsylvania
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Eli%20Lilly%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $7.0M |
+| Quarterly Filings | 104 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 34 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Banking, Budget/Appropriations, Clean Air and Water (quality), Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Education, Energy/Nuclear, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Pharmacy, Real Estate/Land Use/Conservation, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Urban Development/Municipalities
+
+**Lobbying firms:** ACTUM I, LLC, CAPGOV, LLC, CAPITALEDGE STRATEGIES, LLC, CARDINAL POINT PARTNERS, CHECKMATE GOVERNMENT RELATIONS, DLA PIPER LLP (US), ELI LILLY AND COMPANY, ELIAS WALKER, INC., ELITE REAL ESTATE & FINANCE LLC, ELITE STRATEGIC SERVICES, FARRAGUT PARTNERS LLP, FEROX STRATEGIES, GRV STRATEGIES LLC, HAIR OF THE DOG OUTFITTERS, LLC, LEAVITT PARTNERS, LLC, MARSHALL & POPP, LLC, MONUMENT ADVOCACY, MS. ELIZABETH LAVACH, MS. ELIZABETH STEIN, MS. ELIZABETH WALKER, NATIONAL AUTOMATIC MERCHANDISING ASSOCIATION, PETRA STRATEGIES LLC, POBLETE TAMARGO, LLP, ROBERTSON, MONAGLE & EASTAUGH LLC, SMITH GARSON, TARPLIN, DOWNS & YOUNG, LLC, TERRAPIN STRATEGY, INC, THE HARPLE GROUP, LLC, THE SIMMONS & RUSSELL GROUP, LLC, TIBER CREEK GROUP, TIBER CREEK HEALTH STRATEGIES, INC., TODD STRATEGY GROUP, VENN STRATEGIES, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP) +22 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Eli%20Lilly) (Tier 1)
+<!-- auto:lda-lobbying end -->

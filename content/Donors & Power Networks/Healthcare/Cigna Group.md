@@ -2,13 +2,17 @@
 title: "Cigna Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+federal-register-mentions: 1
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Federal Trade Commission"
 ---
 
 #cigna #health-insurance #lobbying #pbm #express-scripts #healthcare
@@ -83,3 +87,17 @@ content-readiness:: ready
 | ERIC BURLISON FOR CONGRESS | $17.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Notice | 1 |
+| Agencies | Federal Trade Commission |
+
+**Recent regulatory activity:**
+- [Express Scripts, Inc., et al.; Analysis of Agreement Containing Consent Order To Aid Public Comment](https://www.federalregister.gov/documents/2026/02/12/2026-02844/express-scripts-inc-et-al-analysis-of-agreement-containing-consent-order-to-aid-public-comment) (2026-02-12) — Federal Trade Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cigna%20Group%22) (Tier 1)
+<!-- auto:federal-register end -->

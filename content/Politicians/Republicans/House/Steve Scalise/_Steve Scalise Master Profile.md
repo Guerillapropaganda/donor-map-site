@@ -2,7 +2,7 @@
 title: "Steve Scalise"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,8 @@ state-abbr: "LA"
 district: "1"
 issues:
   - "Energy & Climate"
+total-received: "$7,843,280"
+fec-candidate-id: "H0LA01087"
 ---
 
 #politician #republican #house #louisiana #energy #fossil-fuel #climate #leadership #class-analysis #follow-the-money #gavel-power
@@ -141,3 +143,38 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $7,843,280 |
+| Individual Contributions | $646,818 |
+| PAC Contributions | $89,500 |
+| Cash on Hand | 5528286.40 |
+| IE Support (Super PAC) | $13,877 |
+| IE Opposition (Super PAC) | $109,612 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $7,843,280 | $646,818 | $89,500 |
+| 2024 | $14,732,239 | $1,692,066 | $187,000 |
+| 2022 | $18,570,245 | $2,610,912 | $279,900 |
+| 2020 | $38,160,642 | $14,583,199 | $60,950 |
+| 2018 | $13,571,267 | $4,716,012 | $140,530 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| THE LINCOLN PROJECT | $0 | $99,683 |
+| MAD DOG PAC | $0 | $7,527 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $6,820 | $0 |
+| CLUB FOR GROWTH PAC | $4,035 | $0 |
+| HUNTER ACTION FUND (HAF) | $1,857 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1)
+<!-- auto:fec-politician end -->

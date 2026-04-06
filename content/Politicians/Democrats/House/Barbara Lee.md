@@ -6,6 +6,8 @@ last-updated: 2026-04-06
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
+total-received: "$375,046"
+fec-candidate-id: "H8CA09060"
 ---
 
 #barbara-lee #house #california #progressive #anti-war #oakland #class-analysis #democrat
@@ -103,3 +105,37 @@ content-readiness:: ready
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $375,046 |
+| Individual Contributions | $308,954 |
+| PAC Contributions | $11,800 |
+| Cash on Hand | 144.39 |
+| IE Support (Super PAC) | $21,066 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $375,046 | $308,954 | $11,800 |
+| 2022 | $2,183,373 | $1,281,697 | $474,500 |
+| 2020 | $1,888,202 | $957,363 | $481,349 |
+| 2018 | $1,875,867 | $1,042,536 | $439,817 |
+| 2016 | $1,328,822 | $821,484 | $330,440 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CARE ACTION | $8,769 | $0 |
+| KUCINICH ACTION PAC | $5,523 | $0 |
+| COURAGE CALIFORNIA SUPER PAC | $2,188 | $0 |
+| SANDRE SWANSON FOR ASSEMBLY 2010 | $1,244 | $0 |
+| TOGETHER WE THRIVE | $750 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1)
+<!-- auto:fec-politician end -->

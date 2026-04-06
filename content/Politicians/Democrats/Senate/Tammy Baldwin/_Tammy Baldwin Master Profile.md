@@ -2,7 +2,7 @@
 title: "Tammy Baldwin Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -17,6 +17,7 @@ top-donors:
   - "SEIU"
   - "EMILY's List"
   - "JStreetPAC"
+fec-candidate-id: "H8WI00018"
 ---
 
 #baldwin #wisconsin #healthcare #labor #dairy #manufacturing #lgbtq #swing-state #help-committee #buy-american #class-analysis
@@ -170,3 +171,35 @@ The key electoral mechanism: Baldwin didn't run as a national progressive — sh
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2012 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $988,087 |
+| IE Opposition (Super PAC) | $205,750 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2012 | $0 | $0 | $0 |
+| 2010 | $1,197,114 | $827,111 | $352,081 |
+| 2008 | $1,471,571 | $1,017,391 | $418,909 |
+| 2006 | $1,565,239 | $1,217,572 | $331,899 |
+| 2004 | $1,709,076 | $1,419,991 | $281,228 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| VOTEVETS | $548,176 | $0 |
+| HUMAN RIGHTS CAMPAIGN EQUALITY VOTES | $412,621 | $0 |
+| AMERICAN PRINCIPLES PROJECT PAC | $0 | $205,000 |
+| LET AMERICA VOTE PAC | $8,884 | $0 |
+| PROTECT THE VOTE | $5,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
+<!-- auto:fec-politician end -->

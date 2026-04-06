@@ -2,7 +2,7 @@
 title: "Kenneth Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-04
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,23 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Wall Street & Finance"
+court-cases: 168
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the Eleventh Circuit"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. New Jersey"
+  - "District Court, D. South Carolina"
+  - "District Court, E.D. Louisiana"
+  - "District Court, E.D. New York"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Illinois"
+  - "District Court, S.D. New York"
+ein: 581607989
+annual-revenue: "$86K"
+net-assets: "$83K"
+tax-year: "2023"
 ---
 
 
@@ -173,3 +190,34 @@ content-readiness:: ready
 | KEYSTONE RENEWAL PAC | $16.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 168 |
+| Courts | Court of Appeals for the Eleventh Circuit, District Court, D. Massachusetts, District Court, D. New Jersey, District Court, D. South Carolina, District Court, E.D. Louisiana, District Court, E.D. New York, District Court, M.D. Florida, District Court, N.D. California +7 more |
+| Case Types | 190 Contract: Other, 365 Personal Inj. Prod. Liability, 410 Anti-Trust, 4160 Stockholders Suits, 820 Copyright |
+
+**Notable cases:**
+- Davis v. 3M Company (2025) — District Court, D. South Carolina
+- Graham v. DuPont de Nemours, Inc. (2025) — District Court, N.D. California
+- 382 Channel Drive LLC (2025) — United States Bankruptcy Court, S.D. New York
+- Edward Kenneth Griffin (2025) — United States Bankruptcy Court, N.D. New York
+- Kenneth Griffin (2025) — United States Bankruptcy Court, E.D. Pennsylvania
+- Donnahue George v. Ken Griffin (2024) — Court of Appeals for the Eleventh Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Kenneth%20Griffin%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $86K |
+| Total Contributions | $0 |
+| Total Expenses | $102K |
+| Net Assets | $83K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 581607989](https://projects.propublica.org/nonprofits/organizations/581607989) (Tier 1)
+<!-- auto:propublica-990 end -->

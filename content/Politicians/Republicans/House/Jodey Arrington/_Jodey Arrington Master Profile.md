@@ -2,7 +2,7 @@
 title: "Jodey Arrington"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -24,6 +24,7 @@ top-donors:
   - "Heritage Foundation"
 total-received: "$1,678,317"
 fec-candidate-id: "H6TX19099"
+bioguide-id: "A000383"
 ---
 
 #jodey-arrington #republican #texas #house #committee-chair #budget #ways-and-means #oil-gas #agriculture #tax-cuts #reconciliation #phase-6-gavel-power
@@ -188,3 +189,16 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 
 profile-status:: ready
 content-readiness:: ready
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

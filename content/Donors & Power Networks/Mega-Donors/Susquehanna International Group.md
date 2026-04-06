@@ -2,7 +2,7 @@
 title: "Susquehanna International Group"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,6 +12,10 @@ politicians-funded:
 issues:
   - "Technology"
 total-political-spend: "$500"
+federal-register-mentions: 179
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Securities and Exchange Commission"
 ---
 
 #donor #mega-donor #sig #susquehanna #jeff-yass #trading #crypto #tiktok #libertarian #school-choice #republican #class-analysis #follow-the-money
@@ -162,3 +166,25 @@ content-readiness:: ready
 | JOE TORSELLA FOR CONGRESS | $500 |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 179 |
+| Final Rules | 5 |
+| Proposed Rules | 2 |
+| Notices | 172 |
+| Agencies | Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Disapproving Proposed Rule Change To Increase Fees for Certain Market Data and Connectivity Products and To Maintain the Current Fees for Such Products if Members Meet a Minimum Average Daily Displayed Volume Threshold](https://www.federalregister.gov/documents/2024/12/03/2024-28258/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-disapproving-proposed-rule-change-to) (2024-12-03) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fee Schedule](https://www.federalregister.gov/documents/2024/11/13/2024-26193/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (2024-11-13) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21173/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (2024-09-18) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21172/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (2024-09-18) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21171/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (2024-09-18) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Cboe C2 Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21170/self-regulatory-organizations-cboe-c2-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a) (2024-09-18) — Securities and Exchange Commission
+- ... and 173 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Susquehanna%20International%20Group%22) (Tier 1)
+<!-- auto:federal-register end -->

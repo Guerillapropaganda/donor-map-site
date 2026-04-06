@@ -2,12 +2,24 @@
 title: "Mercury Public Affairs"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 annual-revenue: "$25.4M (2025)"
 lobbyist-count: 24
 revolving-door-pct: "45.8%"
+court-cases: 145
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Nevada"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Virginia"
+  - "United States Bankruptcy Court, C.D. California"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #lobbying #k-street #fara #foreign-government #china #ukraine #manafort #revolving-door #bipartisan
@@ -193,3 +205,22 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 - [OC Media: US lobbying firm that cut ties with Turkey amid pressure hired by Armenia](https://oc-media.org/us-lobbying-firm-that-cut-ties-with-turkey-amid-pressure-hired-by-armenia/) (Tier 2)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 145 |
+| Courts | Court of Appeals for the Second Circuit, District Court, D. Massachusetts, District Court, D. Nevada, District Court, N.D. California, District Court, S.D. New York, District Court, W.D. Virginia, United States Bankruptcy Court, C.D. California, United States Bankruptcy Court, D. Delaware +1 more |
+| Case Types | 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions, Contract: Recovery/Enforcement |
+
+**Notable cases:**
+- ModivCare Inc. and VRI Intermediate Holdings, LLC (2025) — United States Bankruptcy Court, S.D. Texas
+- Wolfspeed, Inc., Debtor (2025) — United States Bankruptcy Court, S.D. Texas
+- A.A. v. Omnicom Group, Inc. (2025) — District Court, S.D. New York
+- Utherverse, Inc. v. Quinn (2025) — District Court, D. Nevada
+- CarePoint Health Systems, Inc. and Connecticut General Life Insurance Company (2024) — United States Bankruptcy Court, D. Delaware
+- The University of the Arts (2024) — United States Bankruptcy Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercury%20Public%20Affairs%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

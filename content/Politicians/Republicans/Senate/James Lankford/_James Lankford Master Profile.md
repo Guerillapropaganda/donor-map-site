@@ -2,7 +2,7 @@
 title: "James Lankford"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -15,6 +15,8 @@ committees:
 issues:
   - "Energy & Climate"
   - "Immigration"
+total-received: "$1,589,488"
+fec-candidate-id: "S4OK00232"
 ---
 
 
@@ -143,3 +145,37 @@ The border deal collapse is the defining event of Lankford's career and the clea
 - [Wikipedia: James Lankford](https://en.wikipedia.org/wiki/James_Lankford) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $1,589,488 |
+| Individual Contributions | $602,674 |
+| PAC Contributions | $567,050 |
+| Cash on Hand | 2653483.67 |
+| IE Support (Super PAC) | $572,156 |
+| IE Opposition (Super PAC) | $932,559 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $1,589,488 | $602,674 | $567,050 |
+| 2022 | $7,319,930 | $3,617,332 | $2,560,752 |
+| 2016 | $3,041,818 | $1,564,961 | $1,119,146 |
+| 2014 | $4,277,787 | $2,861,064 | $1,022,690 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| OKLAHOMANS FOR A CONSERVATIVE FUTURE INC | $0 | $766,330 |
+| DEFEND OKLAHOMA VALUES | $246,000 | $0 |
+| FOUNDATION FOR ECONOMIC PROSPERITY INC. | $216,623 | $0 |
+| AMERICAN ENERGY ACTION FUND | $104,000 | $0 |
+| NOW OR NEVER PAC | $0 | $100,000 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1)
+<!-- auto:fec-politician end -->

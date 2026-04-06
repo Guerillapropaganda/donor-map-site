@@ -2,7 +2,7 @@
 title: "IBEW - International Brotherhood of Electrical Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -13,6 +13,14 @@ politicians-funded:
 issues:
   - "Labor & Workers"
   - "Infrastructure"
+federal-register-mentions: 6
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Federal Railroad Administration"
+  - "Labor Department"
+  - "Nuclear Regulatory Commission"
+  - "Occupational Safety and Health Administration"
+  - "Transportation Department"
 ---
 
 
@@ -109,3 +117,23 @@ content-readiness:: ready
 | BUILDING A BETTER PA | $242.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 6 |
+| Rule | 4 |
+| Proposed Rule | 2 |
+| Agencies | Federal Railroad Administration, Labor Department, Nuclear Regulatory Commission, Occupational Safety and Health Administration, Transportation Department |
+
+**Recent regulatory activity:**
+- [Certification of Signal Employees](https://www.federalregister.gov/documents/2024/05/21/2024-09958/certification-of-signal-employees) (2024-05-21) — Transportation Department
+- [July 22, 2024 Certification of Dispatchers](https://www.federalregister.gov/documents/2024/05/21/2024-09957/july-22-2024-certification-of-dispatchers) (2024-05-21) — Transportation Department
+- [Electric Power Generation, Transmission, and Distribution; Electrical Protective Equipment](https://www.federalregister.gov/documents/2014/04/11/2013-29579/electric-power-generation-transmission-and-distribution-electrical-protective-equipment) (2014-04-11) — Labor Department ★
+- [Fitness for Duty Programs](https://www.federalregister.gov/documents/2008/03/31/E8-4998/fitness-for-duty-programs) (2008-03-31) — Nuclear Regulatory Commission
+- [Fitness for Duty Programs](https://www.federalregister.gov/documents/2005/08/26/05-15576/fitness-for-duty-programs) (2005-08-26) — Nuclear Regulatory Commission
+- [Electric Power Generation, Transmission, and Distribution; Electrical Protective Equipment](https://www.federalregister.gov/documents/2005/06/15/05-11585/electric-power-generation-transmission-and-distribution-electrical-protective-equipment) (2005-06-15) — Labor Department ★
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22IBEW%20-%20International%20Brotherhood%20of%20Electrical%20Workers%22) (Tier 1)
+<!-- auto:federal-register end -->

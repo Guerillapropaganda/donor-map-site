@@ -23,6 +23,9 @@ court-jurisdictions:
   - "United States Bankruptcy Court, W.D. Louisiana"
   - "United States Bankruptcy Court, W.D. North Carolina"
 total-political-spend: "$3,161,279"
+federal-register-mentions: 3
+regulatory-agencies:
+  - "Federal Trade Commission"
 ---
 
 #donor-node #mega-donor #fossil-fuel #fracking #oklahoma #republican #class-analysis #continental-resources #bakken #energy-policy #trump-advisor #donor
@@ -256,3 +259,19 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harold%20Hamm) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 3 |
+| Notice | 3 |
+| Agencies | Federal Trade Commission |
+
+**Recent regulatory activity:**
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2015/03/19/2015-05919/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2015-03-19) — Federal Trade Commission
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2011/01/12/2011-324/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2011-01-12) — Federal Trade Commission
+- [Granting of Request For Early Terminiation of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2004/10/13/04-22930/granting-of-request-for-early-terminiation-of-the-waiting-period-under-the-premerger-notification) (2004-10-13) — Federal Trade Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Harold%20Hamm%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,7 +2,7 @@
 title: "Judicial Crisis Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,6 +15,8 @@ politicians-funded:
   - "Clarence Thomas"
 issues:
   - "Dark Money & Campaign Finance"
+lobbying-spend: 248300
+lobbying-filings: 23
 ---
 
 #donor #judicial-crisis-network #concord-fund #leonard-leo #scotus #dark-money #judicial-confirmations #class-analysis #follow-the-money #barre-seid #marble-freedom-trust #honest-elections-project #raga
@@ -171,3 +173,22 @@ research-status:: developed — $65M FY2024 revenue, $100M+ SCOTUS confirmation 
 | LIBERTY 2.0 | $75.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $248K |
+| Quarterly Filings | 23 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 3 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Constitution, Government Issues
+
+**Lobbying firms:** CENTER FOR JUDICIAL EXCELLENCE, JUDICIAL ACTION GROUP, MELTSNER STRATEGIES, LLC
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE, White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Judicial%20Crisis%20Network) (Tier 1)
+<!-- auto:lda-lobbying end -->

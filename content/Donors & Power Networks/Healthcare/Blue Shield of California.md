@@ -2,13 +2,21 @@
 title: "Blue Shield of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Gavin Newsom"
+  - "Nancy Pelosi"
+  - "Bobby Scott"
+  - "Rick Scott"
+  - "Tim Scott"
+  - "Gary Peters"
+  - "Bennie Thompson"
+  - "Glenn Thompson"
+  - "Pete Aguilar"
+total-political-spend: "$1,646,997"
 ---
 
 
@@ -97,3 +105,28 @@ content-readiness:: ready
 | DCCC | $45.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,646,997 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC | $180,000 | — |
+| DSCC | $68,500 | DEM |
+| DCCC | $45,000 | DEM |
+| JIMMY PANETTA FOR CONGRESS | $37,500 | DEM |
+| JIMMY GOMEZ FOR CONGRESS | $35,000 | DEM |
+| MATSUI FOR CONGRESS | $34,000 | DEM |
+| DR. RAUL RUIZ FOR CONGRESS | $32,500 | DEM |
+| NANCY PELOSI FOR CONGRESS | $31,000 | DEM |
+| SCOTT PETERS FOR CONGRESS | $29,000 | DEM |
+| MIKE THOMPSON FOR CONGRESS | $29,000 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Blue%20Shield%20of%20California) (Tier 1)
+<!-- auto:fec-donor end -->

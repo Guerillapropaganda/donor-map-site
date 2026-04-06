@@ -2,7 +2,7 @@
 title: "Senate Leadership Fund"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -11,6 +11,14 @@ politicians-funded:
   - "Mitch McConnell"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 31
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, D. Maine"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
+  - "United States Bankruptcy Court, D. Delaware"
 ---
 
 #donor-node #super-pac #republican #senate #mcconnell #thune #dark-money #leadership-pac #class-analysis #follow-the-money
@@ -196,3 +204,22 @@ content-readiness:: ready
 | WINRED | $372 |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 31 |
+| Courts | District Court, D. Maine, District Court, S.D. Florida, District Court, S.D. New York, District Court, W.D. Texas, United States Bankruptcy Court, D. Delaware |
+| Case Types | 11 Recovery of money/property - 542 turnover of property, 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other, 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 160 Stockholders Suits, 370 Other Fraud |
+
+**Notable cases:**
+- Yates v. NextEra Energy, Inc. (2026) — District Court, S.D. Florida
+- Advance Local Media LLC v. Cohere Inc. (2025) — District Court, S.D. New York
+- DINNER TABLE ACTION v. SCHNEIDER (2024) — District Court, D. Maine
+- FTX Recovery Trust v. Manifold Markets, Inc. (2024) — United States Bankruptcy Court, D. Delaware
+- FTX Recovery Trust v. Matthew Nass (2024) — United States Bankruptcy Court, D. Delaware
+- FTX Recovery Trust v. Prosperity Alliance, Inc. (2024) — United States Bankruptcy Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Leadership%20Fund%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

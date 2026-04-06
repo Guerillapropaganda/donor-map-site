@@ -2,7 +2,7 @@
 title: "US Chamber of Commerce"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,6 +12,20 @@ politicians-funded:
   - "Barack Obama"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 149
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, D. Massachusetts"
+  - "District Court, E.D. Michigan"
+  - "District Court, M.D. Tennessee"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, D. New Jersey"
+  - "United States Bankruptcy Court, W.D. Pennsylvania"
+lobbying-spend: 790000
+lobbying-filings: 140
 ---
 
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis
@@ -260,3 +274,41 @@ content-readiness:: developed
 | SAVE MISSOURI VALUES | $100.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 149 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, D. Massachusetts, District Court, E.D. Michigan, District Court, M.D. Tennessee, District Court, N.D. California, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware, United States Bankruptcy Court, D. New Jersey +1 more |
+| Case Types | 196 Contract: Franchise, 410 Anti-Trust, 840 Trademark, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute |
+
+**Notable cases:**
+- Kretschmer v. Curb Mobility LLC (2026) — District Court, N.D. California
+- DoorDash, Inc. v. The City of New York (2025) — District Court, S.D. New York
+- Sheresky v. United States of America (2025) — District Court, S.D. New York
+- Corporate Air, LLC (2025) — United States Bankruptcy Court, W.D. Pennsylvania
+- Life Without Laundry, LLC v. Rinse, Inc. (2025) — District Court, D. Massachusetts
+- Zen JV, LLC (2025) — United States Bankruptcy Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22US%20Chamber%20of%20Commerce%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $790K |
+| Quarterly Filings | 140 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 78 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Alcohol and Drug Abuse, Animals, Arts/Entertainment, Aviation/Airlines/Airports, Banking, Beverage Industry, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Commodities (big ticket), Communications/Broadcasting/Radio/TV, Computer Industry, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, District of Columbia, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Media (information/publishing), Medicare/Medicaid, Minting/Money/Gold Standard, Natural Resources, Pharmacy, Science/Technology, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Tobacco, Trade (domestic/foreign), Transportation, Travel/Tourism, Unemployment, Utilities, Veterans, Welfare
+
+**Lobbying firms:** 262 STRATEGY LLC, ALLEVAN-US ADVOCATE CORP, ALLIANCE FOR NATURAL HEALTH USA, ALVA ELLIOTT PARTNERS, LLC, AMERICAN DEFENSE INTERNATIONAL, INC., APOLLO GOVERNMENT RELATIONS, ARNOLD & PORTER KAYE SCHOLER LLP, ATS COMMUNICATIONS, INC. (DBA SILBEY STRATEGIES), BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BALLARD PARTNERS, BBT STRATEGIES LLC, BGR GOVERNMENT AFFAIRS, BLANK ROME GOVERNMENT RELATIONS, BRAMER GROUP LLC, BRICK STREET STRATEGY, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL CORE GROUP, INC., CAPITOL COUNSEL LLC, CAPITOL STRATEGIES US, LLC, CIBC BANCORP USA, CORNERSTONE GOVERNMENT AFFAIRS, INC., CORRIGAN & USSERY LLC, CROSSROADS STRATEGIES, LLC, DAVIS & HARMAN LLP, DB USA CORPORATION, DB3, LLC (FKA THE DASCHLE GROUP), DENTONS US LLP, DLA PIPER LLP (US), FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FORBES-TATE, FRONTLINE GOVERNMENT RELATIONS, GLENMARK PHARMACEUTICALS USA, GLOBAL SOUTH LOBBY GROUP USA, HARO SOLUTIONS LLC, HB STRATEGIES, HOGAN LOVELLS US LLP, HOLLAND & KNIGHT LLP, HOMESERVE USA CORP, INSTITUTE FOR STRATEGIC DIALOGUE-US, JEFFREY J. KIMBELL & ASSOCIATES, INC., JPC STRATEGIES, LLC, K&L GATES, LLP, KASOWITZ LLP, KLEIN/JOHNSON GROUP, LUCAS | COMPTON, MAVEN ADVOCACY PARTNERS LLC, MEDITERRANEAN SHIPPING COMPANY (USA) INC., MEHLMAN CONSULTING, INC., MOLNLYCKE HEALTH CARE US, LLC, MORRISON PUBLIC AFFAIRS GROUP, MWMURRAY CONSULTING LLC, NORSK HYDRO USA, LLC, NORTHERN COMPASS GROUP LLC, NVG, LLC, OWEN EVANS INGOLS, RIDGE POLICY GROUP, S-3 GROUP, SALINAS STRATEGIES LLC, SIC GROUP USA LLC, SPLITOAK STRATEGIES LLC, SQUIRE PATTON BOGGS, STEPTOE LLP, STINSON LLP, SUEZ WTS USA, INC., TECHMET USA INC., THE BUSINESS COUNCILS 90A, LLC, THE PICARD GROUP, LLC, THE RESERVE COMPONENT, THE VOGEL GROUP, THEGROUP DC, LLC, THORN RUN PARTNERS, TIKTOK USDS JOINT VENTURE LLC, TOWER 19, US POLICY STRATEGIES, VANTIVE US HEALTHCARE LLC, WGC USA, INC., WOMBLE BOND DICKINSON US LLP, YMCA OF THE USA
+
+**Agencies contacted:** Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Centers For Disease Control & Prevention (CDC), Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Export-Import Bank of the United States (EXIM Bank) +12 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=US%20Chamber%20of%20Commerce) (Tier 1)
+<!-- auto:lda-lobbying end -->

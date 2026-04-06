@@ -2,12 +2,25 @@
 title: "BGR Group"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-31
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 annual-revenue: "$71.5M"
 lobbyist-count: 36
 revolving-door-pct: "86.1%"
+court-cases: 20
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, D. Maryland"
+  - "District Court, D. Nevada"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Texas"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. Mississippi"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, S.D. Indiana"
 ---
 
 #lobbying #k-street #revolving-door #republican #foreign-governments #pharma #defense #finance #bipartisan #trump-aligned
@@ -270,3 +283,22 @@ BGR's 58% revenue surge in Trump's first year of his second term is the monetary
 - [BGR Group: Charlie Chapman Joins BGR Health and Life Sciences Practice as VP — former Trump HHS Policy Advisor, CMS counsel, March 30 2026](https://bgrdc.com/charlie-chapman-joins-bgr-health-and-life-sciences-practice-as-vp/) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 20 |
+| Courts | District Court, D. Maryland, District Court, D. Nevada, District Court, District of Columbia, District Court, E.D. Texas, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. Texas, District Court, S.D. Mississippi +3 more |
+| Case Types | 12 Recovery of money/property - 547 preference; 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other, 190 Contract: Other, 320 Assault Libel & Slander, 470 Racketeer/Corrupt Organization, 895 Freedom of Information Act |
+
+**Notable cases:**
+- Yellow Corporation (2023) — United States Bankruptcy Court, D. Delaware
+- Redmond v. United States (2022) — District Court, N.D. California
+- OneWeb Global Limited (2020) — United States Bankruptcy Court, S.D. New York
+- AMERICAN OVERSIGHT v. U.S. DEPARTMENT OF STATE (2019) — District Court, District of Columbia
+- FRIDMAN v. BEAN LLC (2017) — District Court, District of Columbia
+- Mayfield v. Butler Snow, LLP (2017) — District Court, S.D. Mississippi
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BGR%20Group%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

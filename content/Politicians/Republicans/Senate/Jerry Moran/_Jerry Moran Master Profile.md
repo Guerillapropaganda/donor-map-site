@@ -21,6 +21,8 @@ bills-sponsored: 71
 bills-cosponsored: 171
 website: "https://www.moran.senate.gov"
 phone: "202-224-6521"
+total-received: "$1,586,154"
+fec-candidate-id: "H6KS01096"
 ---
 
 
@@ -174,3 +176,37 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400284) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2008 |
+| Total Raised | $1,586,154 |
+| Individual Contributions | $681,514 |
+| PAC Contributions | $608,042 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $207 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2008 | $1,586,154 | $681,514 | $608,042 |
+| 2006 | $970,217 | $324,284 | $486,687 |
+| 2004 | $724,494 | $199,531 | $438,352 |
+| 2002 | $489,429 | $71,252 | $251,461 |
+| 2000 | $540,976 | $0 | $231,479 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| KANSANS FOR LIFE POLITICAL ACTION COMMITTEE | $0 | $223 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $207 | $0 |
+| PLANNED PARENTHOOD ADVOCATES OF KANSAS | $0 | $120 |
+| PLANNED PARENTHOOD OF KS & MID-MO | $0 | $7 |
+| PLANNED PARENTHOOD ACTION FUND INC | $0 | $2 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1)
+<!-- auto:fec-politician end -->

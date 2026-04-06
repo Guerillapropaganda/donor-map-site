@@ -2,13 +2,15 @@
 title: "Western States Petroleum Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Gavin Newsom"
+lobbying-spend: 5300420
+lobbying-filings: 105
 ---
 
 
@@ -96,3 +98,22 @@ Environment — oil drilling permits, SB 1137, fracking, refinery communities
 
 research-status:: ready — primary CA oil/gas lobby, Chevron/Valero/Marathon/Phillips 66/Exxon members, SB 1137 referendum tactic, refinery community environmental justice, cap-and-trade protection. 3 sources, Tier 1-2. All ### headers. Promoted Session 38m.
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $5.3M |
+| Quarterly Filings | 105 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 45 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Food Industry (safety, labeling, etc.), Foreign Relations, Gaming/Gambling/Casino, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Postal, Real Estate/Land Use/Conservation, Retirement, Science/Technology, Sports/Athletics, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Travel/Tourism, Trucking/Shipping, Utilities, Veterans, Welfare
+
+**Lobbying firms:** AMERICAN CAPITOL GROUP, BROWNSTEIN HYATT FARBER SCHRECK, LLP, C2 STRATEGIES, CAPITOL HILL PARTNERS, CARPI & CLAY, INC, CASE WESTERN RESERVE UNIVERSITY, DUTKO WORLDWIDE, LLC, ERIS GROUP, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FREEMYER & ASSOCIATES P.C., GWC PUBLIC AFFAIRS LLC, HOGAN LOVELLS US LLP, HOLLAND & KNIGHT LLP, J.A. GREEN AND COMPANY (FORMERLY LLC), LAURA WOOD PETERSON CONSULTING, INC., MANATT, PHELPS, AND PHILLIPS, MICHAEL BEST STRATEGIES LLC, MINDSET ADVOCACY, LLC, MR. MARK REY, NATURAL RESOURCE RESULTS LLC, NORTH STAR STRATEGIES, LLC, OLSSON, FRANK, WEEDA, TERMAN & MATZ, PC, PATTERSON REAL BIRD & RASMUSSEN LLP, PENN AVENUE PARTNERS, POLARIS GOVERNMENT RELATIONS, LLC, PREST PUBLIC STRATEGIES, LLC, R&R PARTNERS, INC., SCARINCI & HOLLENBECK, LLC, SCHRAMM, WILLIAMS & ASSOCIATES, INC., THE BAGLEY GROUP, LLC, THE CJR GROUP, INC., THE FERGUSON GROUP, THE ROOSEVELT GROUP, THORN RUN PARTNERS, TRUCKER HUSS APC, WESTERN ALLIANCE BANCORPORATION, WESTERN DIGITAL CORPORATION, WESTERN GROWERS, WESTERN HEMISPHERE STRATEGIES, LLC, WESTERN NATIVE VOICE, WESTERN ORGANIZATION OF RESOURCE COUNCILS, WESTERN SKIES STRATEGIES, INC., WESTERN UNION, WINSLOW & CO PUBLIC AFFAIRS LLC, YELLOWSTONE STRATEGIES
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Indian Affairs (BIA), Bureau of Land Management (BLM), Bureau of Reclamation, Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Environmental Protection Agency (EPA) +22 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Western%20States%20Petroleum%20Association) (Tier 1)
+<!-- auto:lda-lobbying end -->

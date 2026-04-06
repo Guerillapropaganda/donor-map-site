@@ -2,7 +2,7 @@
 title: "Pfizer Inc."
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"

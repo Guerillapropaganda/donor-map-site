@@ -2,7 +2,7 @@
 title: "MBNA Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Joe Biden"
 issues:
   - "Wall Street & Finance"
+ein: 842588790
+annual-revenue: "$0"
+net-assets: "$344"
+tax-year: "2020"
 ---
 
 #mbna #credit-card #delaware #biden #bankruptcy #wall-street #banking
@@ -43,3 +47,16 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 - [Ballotpedia: 2005 Bankruptcy Act](https://ballotpedia.org/MBNA_Corporation) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2020)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $0 |
+| Total Contributions | $0 |
+| Total Expenses | $0 |
+| Net Assets | $344 |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 842588790](https://projects.propublica.org/nonprofits/organizations/842588790) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2022_prefixes_81-99%2F842588790_202012_990EZ_2022052420133297.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->
