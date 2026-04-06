@@ -2,9 +2,14 @@
 title: "Bill Hagerty"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
+govtrack-id: 456798
+bills-sponsored: 22
+bills-cosponsored: 158
+website: "https://www.hagerty.senate.gov"
+phone: "202-224-4944"
 ---
 
 #bill-hagerty #senate #tennessee #private-equity #trump-ambassador #corporate-republican #class-analysis
@@ -81,3 +86,22 @@ Hagerty's career path reveals the private equity class conversion mechanism: acc
 
 profile-status:: ready
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 158 |
+| Total Votes Cast | 2,373 |
+
+**Recent bills sponsored:**
+
+- S. 4265: A bill to require the Secretary of Housing and Urban Development to establish a Freedom to Build designation for certain — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4198: Main Street Depositor Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 652: A resolution recognizing the importance of the United States-Japan Alliance and welcoming the visit of Prime Minister Ta — *This simple resolution was agreed to on March 19, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 3290: Financial Services and General Government Appropriations Act, 2026 — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
+- S. 3129: Preventing Foreign Interference in American Elections Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 6, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456798) (Tier 1)
+<!-- auto:govtrack end -->

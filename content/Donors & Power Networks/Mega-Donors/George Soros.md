@@ -2,7 +2,7 @@
 title: "George Soros"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,6 +12,10 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$188,381,113"
+ein: 830650656
+annual-revenue: "$1"
+net-assets: "$1K"
+tax-year: "2023"
 ---
 
 #donor #billionaire #democratic #progressive #dark-money #open-society
@@ -112,3 +116,15 @@ A secondary contradiction emerged sharply during the 2022-2024 period: Soros's [
 
 research-status:: ready — Full citation pass complete. $32B Open Society Foundations, $125M+ Arabella network, $60M Harris 2024, progressive prosecutor funding, Democracy PAC, state court elections ($2M Wisconsin 2025), Alex Soros succession. 8 sources, Tier 1-3. All ### headers. Promoted Session 38k.
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1 |
+| Total Contributions | $0 |
+| Total Expenses | $906 |
+| Net Assets | $1K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 830650656](https://projects.propublica.org/nonprofits/organizations/830650656) (Tier 1)
+<!-- auto:propublica-990 end -->

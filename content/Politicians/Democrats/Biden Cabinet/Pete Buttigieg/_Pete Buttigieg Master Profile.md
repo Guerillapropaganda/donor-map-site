@@ -2,7 +2,7 @@
 title: "Pete Buttigieg Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,6 +11,7 @@ state: "Indiana"
 state-abbr: "IN"
 top-donors:
   - "Finance and Tech Bundler Network"
+fec-candidate-id: "P00010298"
 ---
 
 
@@ -148,3 +149,25 @@ South Bend is Buttigieg's biography — "Mayor Pete" is the entire brand. But So
 - [CNN: Pete Buttigieg starts to rethink role after East Palestine](https://www.cnn.com/2023/03/05/politics/pete-buttigieg-ohio-train-derailment/index.html) (Tier 2)
 - [Wikipedia: Pete Buttigieg](https://en.wikipedia.org/wiki/Pete_Buttigieg) (Tier 3)
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2020 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $9,987,054 |
+| IE Opposition (Super PAC) | $61,876 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| VOTEVETS | $9,939,935 | $0 |
+| DRAIN THE DC SWAMP PAC | $0 | $48,200 |
+| EQUALITY CALIFORNIA VOTES | $43,609 | $0 |
+| WOMEN SPEAK OUT PAC | $0 | $9,200 |
+| DREAM DEFENDERS FIGHT PAC | $0 | $3,516 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00010298/) (Tier 1)
+<!-- auto:fec-politician end -->

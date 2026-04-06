@@ -33,6 +33,61 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+
+
+
+
+## 2026-04-06 16:40 UTC — 1 profile
+
+**USAspending — 1 profile:**
+- Southern Company — 25 contracts, 11 grants
+
+---
+## 2026-04-06 16:40 UTC — 5 profiles
+
+**GovTrack — 5 profiles:**
+- Josh Gottheimer — 65 sponsored, 720 cosponsored
+- Bill Hagerty — 22 sponsored, 158 cosponsored
+- Barack Obama — 0 sponsored, 0 cosponsored
+- Jerry Moran — 71 sponsored, 171 cosponsored
+- Tommy Tuberville — 35 sponsored, 194 cosponsored
+
+---
+## 2026-04-06 16:34 UTC — 9 profiles
+
+**FEC — 9 profiles:**
+- Brett Guthrie — 2026 raised $3,143,679
+- Pete Buttigieg — 2020 raised $0
+- Michael Whatley — 2026 raised $6,273,539
+- Hillary Clinton — 2012 raised $7,102,485
+- Xavier Becerra — 2018 raised $50,779
+- Kenneth Griffin — total political spend $109,321,251
+- Jan Koum — total political spend $31,584,790
+- Peter Thiel — total political spend $52,259,953
+- Eric Schmidt — total political spend $62,651
+
+---
+## 2026-04-06 16:34 UTC — 6 profiles
+
+**ProPublica — 6 profiles:**
+- Emilys List — $2.2M revenue, 2023 990
+- George Soros — $1 revenue, 2023 990
+- One Israel Fund — $7.0M revenue, 2023 990
+- Blue Shield of California — $21.9M revenue, 2023 990
+- Aramark — $1.8M revenue, 2023 990
+- SpaceX — $57K revenue, 2023 990
+
+---
+## 2026-04-06 16:32 UTC — 4 profiles
+
+**Congress.gov — 4 profiles:**
+- Josh Hawley — 0 policy areas, bioguide A000383
+- The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared — 0 policy areas, bioguide A000383
+- Tim Scott — 0 policy areas, bioguide A000383
+- Chip Roy — 0 policy areas, bioguide A000383
+
+---
 ## 2026-04-06 16:20 UTC — 4 profiles
 
 **USAspending — 4 profiles:**

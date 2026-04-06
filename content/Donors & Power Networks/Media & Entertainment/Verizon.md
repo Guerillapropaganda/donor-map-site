@@ -11,6 +11,8 @@ ein: 133319048
 annual-revenue: "$7.5M"
 net-assets: "$26.0M"
 tax-year: "2023"
+lobbying-spend: 25630000
+lobbying-filings: 56
 ---
 
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying
@@ -64,3 +66,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 133319048](https://projects.propublica.org/nonprofits/organizations/133319048) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $25.6M |
+| Quarterly Filings | 56 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 27 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Government Issues, Law Enforcement/Crime/Criminal Justice, Media (information/publishing), Science/Technology, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Veterans
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ALPINE ADVISORS, ALPINE GROUP PARTNERS, LLC., AVOQ, LLC, BGR GOVERNMENT AFFAIRS, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL CONSULTING GROUP LLC (DC), CAPITOL COUNSEL LLC, CAPITOL IMPACT, LLC, CAPITOL TAX PARTNERS, LLP, CASSIDY & ASSOCIATES, INC., DCI GROUP, L.L.C., EMPIRE CONSULTING GROUP, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FORBES-TATE, HILLNORTH LLC, KELSAY STRATEGIES LLC, MARSHALL & POPP, LLC, MAYER BROWN LLP, MINDSET ADVOCACY, LLC, NEALE CREEK, LLC, OGR, POLARIS GOVERNMENT RELATIONS, LLC, RESOLUTION PUBLIC AFFAIRS, LLC, THE LIVINGSTON GROUP, LLC, THE RABEN GROUP, VERIZON COMMUNICATIONS INC. AND VARIOUS SUBSIDIARIES
+
+**Agencies contacted:** Commerce, Dept of (DOC), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), Federal Reserve System, HOUSE OF REPRESENTATIVES, Internal Revenue Service (IRS), Natl Economic Council (NEC), Natl Security Council (NSC), Natl Telecommunications & Information Administration (NTIA) +6 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Verizon) (Tier 1)
+<!-- auto:lda-lobbying end -->

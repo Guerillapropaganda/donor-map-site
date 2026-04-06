@@ -2,7 +2,7 @@
 title: "Chip Roy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,7 @@ state-abbr: "TX"
 district: "21"
 committees:
   - "Judiciary"
+bioguide-id: "A000383"
 ---
 
 #roy #texas #freedom-caucus #spending #border #libertarian #cruz-ally #rules-committee #judiciary #club-for-growth
@@ -155,3 +156,15 @@ Roy and three other fiscal conservatives ultimately changed their votes to "pres
 
 profile-status:: developed
 content-readiness:: developed
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

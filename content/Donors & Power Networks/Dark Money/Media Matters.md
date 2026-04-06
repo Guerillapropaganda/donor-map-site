@@ -2,7 +2,7 @@
 title: "Media Matters"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -14,6 +14,8 @@ ein: 844239468
 annual-revenue: "$2K"
 net-assets: "$1K"
 tax-year: "2023"
+lobbying-spend: 9397596
+lobbying-filings: 94
 ---
 
 #media-matters #dark-money #progressive #media-watchdog #democracy-alliance #Elon-Musk-lawsuit #infrastructure
@@ -131,3 +133,22 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 - [Media Matters: About Us and Research](https://www.mediamatters.org/about-us) (Tier 2)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $9.4M |
+| Quarterly Filings | 94 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 37 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Advertising, Arts/Entertainment, Aviation/Airlines/Airports, Budget/Appropriations, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Computer Industry, Constitution, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Education, Energy/Nuclear, Foreign Relations, Government Issues, Health Issues, Homeland Security, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Media (information/publishing), Medicare/Medicaid, Postal, Roads/Highway, Science/Technology, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Travel/Tourism, Veterans
+
+**Lobbying firms:** ACG ADVOCACY, ARGUS MEDIA, INC., BRACEWELL LLP, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL VENTURE LLC, CAPSTONE NATIONAL PARTNERS, CHARTWELL STRATEGY GROUP LLC, COGENT STRATEGIES LLC, COMMON SENSE MEDIA, CONVERGENCE STRATEGIES, LLC, DESALES MEDIA GROUP, INC., DIGITAL MEDIA ASSN, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FIERCE GOVERNMENT RELATIONS, HOGAN LOVELLS US LLP, HSA STRATEGIES, I STREET ADVOCATES, INVARIANT LLC, K&L GATES, LLP, LEDYARD GROUP, MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP), MEDIATEK USA INC., MERCURY PUBLIC AFFAIRS, LLC, MILLER STRATEGIES, LLC, MILLS BLACK LLP, NEW CENTURY GOVERNMENT AFFAIRS (F/K/A TERRENCE C. WOLFE), NEWS MEDIA ALLIANCE, NEXSTAR MEDIA GROUP, INC. AND AFFILIATES F/K/A NEXSTAR MEDIA GROUP, INC., PAT WILLIAMS AND ASSOCIATES, PLURUS STRATEGIES, LLC, RIVER PUBLIC AFFAIRS GROUP, SALEM MEDIA GROUP, SIDLEY AUSTIN LLP, TELEMEDIA POLICY CORP., THE JOSEPH GROUP, LLC, TIBER CREEK GROUP, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Bureau of Industry and Security (BIS), Commerce, Dept of (DOC), Defense Advanced Research Projects Agency (DARPA), Defense, Dept of (DOD), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Energy Regulatory Commission (FERC), Federal Highway Administration (FHA), Federal Reserve System, Federal Trade Commission (FTC) +15 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Media%20Matters) (Tier 1)
+<!-- auto:lda-lobbying end -->

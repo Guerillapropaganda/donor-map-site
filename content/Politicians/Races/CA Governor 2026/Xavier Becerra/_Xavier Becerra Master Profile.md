@@ -2,13 +2,15 @@
 title: "Xavier Becerra Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Governor"
 state: "California"
 state-abbr: "CA"
+total-received: "$50,779"
+fec-candidate-id: "H2CA30143"
 ---
 
 
@@ -136,3 +138,35 @@ Becerra had $1.4 million remaining from an abandoned 2022 re-election bid for at
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2018 |
+| Total Raised | $50,779 |
+| Cash on Hand | 1417059.60 |
+| IE Support (Super PAC) | $126 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2018 | $50,779 | $0 | $0 |
+| 2016 | $1,867,773 | $581,897 | $1,137,093 |
+| 2014 | $1,852,782 | $629,218 | $1,174,697 |
+| 2012 | $1,850,000 | $587,975 | $1,238,129 |
+| 2010 | $1,716,196 | $562,364 | $1,105,550 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CALIFORNIA DEMOCRATIC VOTER CHECKLIST | $0 | $750 |
+| VOTER INFORMATION GUIDE | $0 | $615 |
+| YOUR DEMOCRATIC VOTER GUIDE | $0 | $500 |
+| YOUR PRO-CHOICE VOTER GUIDE | $0 | $500 |
+| VOTER GUIDE | $0 | $288 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA30143/) (Tier 1)
+<!-- auto:fec-politician end -->

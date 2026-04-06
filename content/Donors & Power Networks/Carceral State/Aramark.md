@@ -2,11 +2,15 @@
 title: "Aramark"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-04
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Carceral State"
 entity-type: "Corporation"
+ein: 276727955
+annual-revenue: "$1.8M"
+net-assets: "$1.2M"
+tax-year: "2023"
 ---
 
 
@@ -87,3 +91,18 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 
 content-readiness:: ready
 research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6B corrections revenue, Union Supply acquisition, commissary trap analysis, SF County $19.7M contract, 300 CA employees banned, 130+ federal lawsuits. 5 sources, Tier 1-3. All ### headers. Promoted Session 38l.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.8M |
+| Total Contributions | $0 |
+| Program Service Revenue | $1.7M |
+| Investment Income | $98K |
+| Total Expenses | $1.2M |
+| Net Assets | $1.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 276727955](https://projects.propublica.org/nonprofits/organizations/276727955) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F276727955_202312_990O_2024061722529605.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

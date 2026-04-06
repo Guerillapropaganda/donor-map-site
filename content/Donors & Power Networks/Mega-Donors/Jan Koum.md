@@ -2,7 +2,7 @@
 title: "Jan Koum"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Donald Trump"
   - "Nikki Haley"
 federal-contracts: "489"
+total-political-spend: "$31,584,790"
 ---
 
 tags:
@@ -179,3 +180,28 @@ This is the key analytical section for Koum. His pattern exemplifies how tech fo
 
 content-readiness:: ready
 research-status:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $31,584,790 |
+| Contributions | 90 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SFA FUND, INC | $10,000,000 | REP |
+| MAKE AMERICA GREAT AGAIN INC. | $5,070,415 | — |
+| UNITED DEMOCRACY PROJECT ('UDP') | $5,000,000 | — |
+| RJC VICTORY FUND | $3,782,880 | — |
+| UNITED DEMOCRACY PROJECT (UDP) | $2,000,000 | — |
+| KEYSTONE RENEWAL PAC | $1,505,892 | — |
+| MAGA INC. | $1,035,105 | — |
+| MARYLAND'S FUTURE | $1,005,896 | — |
+| NRSC VICTORY | $661,454 | — |
+| SECURITY IS STRENGTH PAC | $501,049 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jan%20Koum) (Tier 1)
+<!-- auto:fec-donor end -->

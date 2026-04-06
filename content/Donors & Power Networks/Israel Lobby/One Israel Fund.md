@@ -2,11 +2,15 @@
 title: "One Israel Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
 entity-type: "Individual Donor"
+ein: 113195338
+annual-revenue: "$7.0M"
+net-assets: "$3.2M"
+tax-year: "2023"
 ---
 
 #one-israel-fund #settlement-funding #us-nonprofit #west-bank #far-right-israel
@@ -41,3 +45,16 @@ One Israel Fund exemplifies how U.S. tax law is weaponized to support foreign oc
 ---
 
 `content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $7.0M |
+| Total Contributions | $6.8M |
+| Investment Income | $61K |
+| Total Expenses | $5.2M |
+| Net Assets | $3.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 113195338](https://projects.propublica.org/nonprofits/organizations/113195338) (Tier 1)
+<!-- auto:propublica-990 end -->

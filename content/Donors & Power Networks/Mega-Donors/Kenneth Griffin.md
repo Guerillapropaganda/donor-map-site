@@ -2,7 +2,7 @@
 title: "Kenneth Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-04
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,9 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Wall Street & Finance"
+total-political-spend: "$109,321,251"
+lobbying-spend: 425000
+lobbying-filings: 17
 ---
 
 
@@ -158,3 +161,47 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 
 research-status:: ready — $44-51B net worth, $100M 2024 cycle, $30M Senate Leadership Fund, DeSantis→Trump trajectory, GameStop/Citadel Securities, FL tax move. 7 sources, Tier 1-2. All ### headers. Promoted Session 38m.
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $109,321,251 |
+| Contributions | 346 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SENATE LEADERSHIP FUND | $30,000,000 | — |
+| CONGRESSIONAL LEADERSHIP FUND | $17,005,000 | — |
+| KEYSTONE RENEWAL PAC | $16,000,000 | — |
+| MARYLAND'S FUTURE | $10,000,000 | — |
+| AMERICAN PATRIOTS PAC | $6,000,000 | — |
+| THE SENTINEL ACTION FUND | $5,000,000 | — |
+| SFA FUND, INC | $5,000,000 | REP |
+| MORE JOBS, LESS GOVERNMENT | $5,000,000 | — |
+| CONSERVATIVES FOR AMERICAN EXCELLENCE INC. | $3,000,000 | — |
+| FIX WASHINGTON PAC | $2,500,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Kenneth%20Griffin) (Tier 1)
+<!-- auto:fec-donor end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $425K |
+| Quarterly Filings | 17 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Environment/Superfund, Transportation, Urban Development/Municipalities
+
+**Lobbying firms:** KENNETH BROWN
+
+**Agencies contacted:** Army, Dept of (Corps of Engineers), Economic Development Administration, Energy, Dept of, Environmental Protection Agency (EPA), Federal Emergency Management Agency (FEMA), HOUSE OF REPRESENTATIVES, Housing & Urban Development, Dept of (HUD), Justice, Dept of (DOJ), Labor, Dept of (DOL), Natl Oceanic & Atmospheric Administration (NOAA) +2 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Kenneth%20Griffin) (Tier 1)
+<!-- auto:lda-lobbying end -->

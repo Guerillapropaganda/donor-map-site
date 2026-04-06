@@ -2,11 +2,15 @@
 title: "Emilys List"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
+ein: 461067490
+annual-revenue: "$2.2M"
+net-assets: "$173K"
+tax-year: "2023"
 ---
 
 #donor-node #super-pac #democratic #women #fundraising-infrastructure #pro-choice #gatekeeper #donor
@@ -176,3 +180,17 @@ EMILY's List operates within a broader ecosystem of women's-focused Democratic g
 content-readiness:: ready
 
 research-status:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2.2M |
+| Total Contributions | $2.2M |
+| Total Expenses | $2.1M |
+| Net Assets | $173K |
+| Officer Compensation | $3K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 461067490](https://projects.propublica.org/nonprofits/organizations/461067490) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F461067490_202306_990O_2024040422334157.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

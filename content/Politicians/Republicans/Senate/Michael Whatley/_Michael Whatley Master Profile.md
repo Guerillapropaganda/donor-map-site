@@ -2,7 +2,7 @@
 title: "Michael Whatley Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 party: "Republican"
@@ -13,6 +13,8 @@ top-donors:
   - "Consumer Energy Alliance"
   - "HBW Resources"
   - "Susan B. Anthony Pro-Life America PAC"
+total-received: "$6,273,539"
+fec-candidate-id: "S6NC00415"
 ---
 
 #politician #republican #senate #north-carolina #2026-candidate #oil-lobbyist #trump-aligned
@@ -142,3 +144,24 @@ Whatley employs Trump-aligned populist anti-establishment rhetoric combined with
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $6,273,539 |
+| Individual Contributions | $1,844,637 |
+| PAC Contributions | $560,500 |
+| Cash on Hand | 2528197.14 |
+| IE Support (Super PAC) | $5,100,566 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $4,189,244 | $0 |
+| SLF PAC | $911,323 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6NC00415/) (Tier 1)
+<!-- auto:fec-politician end -->

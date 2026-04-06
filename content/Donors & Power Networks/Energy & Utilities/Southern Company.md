@@ -2,11 +2,14 @@
 title: "Southern Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
+federal-awards-total: 9522558
+federal-contracts-count: 25
+federal-grants-count: 11
 ---
 
 #southern-company #utility #georgia #nuclear #coal #monopoly #rate-base
@@ -49,3 +52,37 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 - [Ballotpedia: Southern Company](https://ballotpedia.org/Southern_Company) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $9.5M |
+| Contracts (recent 3yr) | 25 ($372.3M sampled) |
+| Grants (recent 3yr) | 11 ($526.5M sampled) |
+| Federal Agencies | 8 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $89.3M | Department of Defense | 200612!009621!97AS!SP0600!DEFENSE ENERGY SUPPORT CENTER   !SP060006C8250  !A!N! !N!             !    |
+| $75.2M | Department of Defense | 200309!009606!97AS!0600  !DEFENSE ENERGY SUPPORT CENTER   !SP060003C8262  !A!N! !N!                  |
+| $30.6M | Department of Defense | IGF::OT::IGF  ANALYSIS (COMPRESSED AIR) |
+| $20.8M | Department of Defense | IGF::OT::IGF MCLB ALBANY TORNADO RECOVERY REPAIRS |
+| $20.5M | Department of Defense | IGF::OT::IGF  ECMS FOR BUILDING  229 |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $251.0M | Department of Energy | NATIONAL CARBON CAPTURE CENTER |
+| $160.3M | Department of Energy | BIPARTISAN INFRASTRUCTURE LAW - EXPANDING TRANSMISSION CAPACITY AND REDUCING COMMUNITY DISRUPTIONS T |
+| $65.3M | Department of Energy | MCRE – WORLD’S FIRST CRITICAL MCFR
+TO CONFIRM KEY PHYSICS PHENOMENA RELEVANT TO MCFR-D, MCRE SOW WIL |
+| $37.1M | Department of Energy | INTEGRATED EFFECTS TESTING & MOLTEN CHLORIDE FAST REACTOR DEVELOPMENT |
+| $4.9M | Department of Energy | NEW AWARD DE-FE0031847 TO SOUTHERN COMPANY SERVICES, TITLED 
+''FRONT-END ENGINEERING DESIGN STUDIES  |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Southern%20Company) (Tier 1)
+<!-- auto:usaspending end -->

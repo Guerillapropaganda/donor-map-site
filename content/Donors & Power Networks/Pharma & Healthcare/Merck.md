@@ -2,7 +2,7 @@
 title: "Merck"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -12,6 +12,8 @@ issues:
 federal-awards-total: 2223209028
 federal-contracts-count: 25
 federal-grants-count: 1
+lobbying-spend: 28690000
+lobbying-filings: 57
 ---
 
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation
@@ -84,3 +86,22 @@ Opposition to Medicare drug price negotiation expansion (particularly before Key
 - [Ballotpedia: Merck](https://ballotpedia.org/Merck_%26_Co.) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $28.7M |
+| Quarterly Filings | 57 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 16 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Animals, Budget/Appropriations, Chemicals/Chemical Industry, Copyright/Patent/Trademark, Health Issues, Homeland Security, Manufacturing, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Natural Resources, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** AVENUE SOLUTIONS, B HALL STRATEGIES, LLC, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL COUNSEL LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., CROSSROADS STRATEGIES, LLC, FORBES-TATE, HARBINGER STRATEGIES, LLC, MERCK & CO, INC., TARPLIN, DOWNS & YOUNG, LLC, THE NICKLES GROUP, LLC, TIBER CREEK GROUP, TIBER CREEK HEALTH STRATEGIES, INC., TODD STRATEGY GROUP, W STRATEGIES, LLC, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Bureau of Industry and Security (BIS), Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Office of Management & Budget (OMB), SENATE, U.S. Trade Representative (USTR) +1 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Merck) (Tier 1)
+<!-- auto:lda-lobbying end -->

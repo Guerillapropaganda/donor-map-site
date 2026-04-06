@@ -2,7 +2,7 @@
 title: "Peter Thiel"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Donald Trump"
   - "JD Vance"
   - "David Sacks"
+total-political-spend: "$52,259,953"
 ---
 
 
@@ -196,3 +197,28 @@ content-readiness:: ready
 
 - [Bloomberg: Billionaires Thiel and Uihlein pump millions into Republican PAC](https://www.bloomberg.com/news/articles/2026-03-19/billionaires-thiel-and-uihlein-pump-millions-into-republican-pac) (Tier 2)
 - [Crain's Chicago Business: Thiel and Uihlein pump millions into GOP PAC](https://www.chicagobusiness.com/politics-policy/ccb-thiel-and-uihlein-pump-millions-into-gop-pac-20260319/) (Tier 2)
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $52,259,953 |
+| Contributions | 475 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SAVING ARIZONA PAC | $20,000,000 | — |
+| PROTECT OHIO VALUES PAC (POV PAC) | $15,000,000 | — |
+| CLUB FOR GROWTH ACTION | $4,500,000 | — |
+| ENDORSE LIBERTY, INC | $2,600,000 | — |
+| FREE FOREVER POLITICAL ACTION COMMITTEE | $2,100,000 | — |
+| CONSERVATIVE, AUTHENTIC, RESPONSIVE LEADERSHIP FOR YOU AND FOR AMERICA | $2,000,000 | — |
+| MAKE AMERICA NUMBER 1 | $1,000,000 | — |
+| FIGHTING FOR OHIO FUND | $1,000,000 | — |
+| GROW THE MAJORITY | $852,200 | — |
+| REPUBLICAN NATIONAL COMMITTEE | $585,923 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Peter%20Thiel) (Tier 1)
+<!-- auto:fec-donor end -->

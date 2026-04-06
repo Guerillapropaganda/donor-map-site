@@ -2,13 +2,17 @@
 title: "SpaceX"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Corporation"
 issues:
   - "Defense & Military"
+ein: 873059688
+annual-revenue: "$57K"
+net-assets: "$13K"
+tax-year: "2023"
 ---
 
 #spacex #musk #defense #nasa #faa #starlink #military #launch
@@ -50,3 +54,16 @@ Favorable FAA launch licensing (SpaceX has clashed repeatedly with the FAA over 
 - [Ballotpedia: SpaceX](https://ballotpedia.org/SpaceX) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $57K |
+| Total Contributions | $0 |
+| Total Expenses | $46K |
+| Net Assets | $13K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 873059688](https://projects.propublica.org/nonprofits/organizations/873059688) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_86-88%2F873059688_202312_990EZ_2024052322427085.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

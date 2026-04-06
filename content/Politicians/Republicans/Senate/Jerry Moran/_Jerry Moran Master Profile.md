@@ -2,7 +2,7 @@
 title: "Jerry Moran"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -16,6 +16,11 @@ issues:
   - "Agriculture"
 top-donors:
   - "Koch Network"
+govtrack-id: 400284
+bills-sponsored: 71
+bills-cosponsored: 171
+website: "https://www.moran.senate.gov"
+phone: "202-224-6521"
 ---
 
 
@@ -150,3 +155,22 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 - [Wikipedia: Jerry Moran](https://en.wikipedia.org/wiki/Jerry_Moran) (Tier 3)
 
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 71 |
+| Bills Cosponsored | 171 |
+| Total Votes Cast | 14,700 |
+
+**Recent bills sponsored:**
+
+- S. 4211: A bill to protect the privacy of consumers. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 372: A resolution honoring the life of Kansas City, Kansas police officer Hunter Simoncic. — *This simple resolution was agreed to on March 21, 2026. That is the end of the legislative process for a simple resolution.*
+- S.Res. 425: A resolution honoring the life of Hays, Kansas police sergeant Scott Heimann. — *This simple resolution was agreed to on March 21, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 2981: Veterans Prosthetics Advancement and Reform Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
+- S. 410: Love Lives On Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400284) (Tier 1)
+<!-- auto:govtrack end -->

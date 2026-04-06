@@ -2,7 +2,7 @@
 title: "Tommy Tuberville Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,6 +13,11 @@ issues:
   - "Defense & Military"
 top-donors:
   - "Defense Industry Bloc"
+govtrack-id: 456796
+bills-sponsored: 35
+bills-cosponsored: 194
+website: "https://www.tuberville.senate.gov"
+phone: "202-224-4124"
 ---
 
 
@@ -141,3 +146,22 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 - [Slate: Tuberville D-Day/WWII confusion](https://slate.com/news-and-politics/2020/11/alabama-senator-tommy-tuberville-blockhead-interview-wwii-socialism-american-government.html) (Tier 2)
 - [Wikipedia: Tommy Tuberville](https://en.wikipedia.org/wiki/Tommy_Tuberville) (Tier 3)
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 35 |
+| Bills Cosponsored | 194 |
+| Total Votes Cast | 2,373 |
+
+**Recent bills sponsored:**
+
+- S. 4177: Student Athlete Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 1726: ASSIST Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
+- S. 3936: USDA Loan Modernization Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 524: A resolution recognizing the 90th anniversary of the Alabama Highway Patrol and commemorating its history of excellence. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on December 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3121: UBER Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 6, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456796) (Tier 1)
+<!-- auto:govtrack end -->

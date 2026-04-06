@@ -2,7 +2,7 @@
 title: "Eric Schmidt"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -17,6 +17,7 @@ issues:
   - "Technology"
   - "Defense & Military"
   - "Dark Money & Campaign Finance"
+total-political-spend: "$62,651"
 ---
 
 #donor-node #tech #google #defense #AI #revolving-door #mega-donor #nscai #schmidt-futures #china #dark-money #class-analysis #follow-the-money
@@ -230,3 +231,28 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 
 research-status:: developed — Comprehensive merge of existing ready profile with deep research expansion. Expanded from 151 to 350+ lines. Fixed type: corporation → donor. New data: Schmidt Futures mechanism (IPA-funded personnel in 10+ Biden agencies including FTC, "Schmidt fellows"), STAC Labs ($227K in-kind to 18 state Democratic parties), China/Hillhouse Capital conflict ($17M in Chinese AI fund while chairing NSCAI, Yitu blacklisted portfolio company), SCSP post-NSCAI succession (same personnel, less oversight, Project 2025 alignment), America's Frontier Fund (public-private vehicle built from NSCAI recommendation), specific FEC donations by cycle and recipient ($8.5M in 2020 including $775K Future Forward, $142K DNC), Biden agency placement list, institutional succession pattern analysis. Downgraded from ready to developed: 8 new UNVERIFIED URLs need Chrome pass. 20+ sources total (2 Tier 1, 12 Tier 2, 3 Tier 3, remainder UNVERIFIED). Gaps: Innovation Endeavors full portfolio mapping, Rebellion Defense contract amounts, Schmidt's role in Google's PRISM/NSA partnership details, 2024-2026 Trump advisory specifics.
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $62,651 |
+| Contributions | 320 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| WINRED | $11,714 | — |
+| GEORGIA FEDERAL ELECTIONS COMMITTEE | $10,000 | DEM |
+| TROY DOWNING FOR CONGRESS | $7,000 | REP |
+| RO FOR CONGRESS INC | $6,600 | DEM |
+| RELATIVITY SPACE POLITICAL ACTION COMMITTEE (RELATIVITY PAC) | $5,000 | — |
+| KEVIN LINCOLN FOR CONGRESS | $3,500 | REP |
+| MONDAIRE FOR CONGRESS | $3,300 | DEM |
+| DSCC | $2,100 | DEM |
+| GUTHRIE FOR CONGRESS | $2,000 | REP |
+| NEXTERA ENERGY, INC. POLITICAL ACTION COMMITTEE | $1,350 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1)
+<!-- auto:fec-donor end -->

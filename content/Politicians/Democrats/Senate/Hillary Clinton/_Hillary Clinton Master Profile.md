@@ -2,13 +2,15 @@
 title: "Hillary Clinton"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Senate"
 issues:
   - "Wall Street & Finance"
+total-received: "$7,102,485"
+fec-candidate-id: "S0NY00188"
 ---
 
 #politician #donor-captured #wall-street #two-audience-problem
@@ -83,3 +85,36 @@ The Goldman Sachs speeches were not anomalous; they were the clearest articulati
 ---
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2012 |
+| Total Raised | $7,102,485 |
+| Individual Contributions | $105,456 |
+| PAC Contributions | $52,000 |
+| Cash on Hand | 271318.00 |
+| IE Support (Super PAC) | $603,120 |
+| IE Opposition (Super PAC) | $947,211 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2012 | $7,102,485 | $105,456 | $52,000 |
+| 2006 | $51,630,068 | $20,875,864 | $2,081,687 |
+| 2000 | $41,752,247 | $0 | $930,192 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| KENTUCKIANS FOR STRONG LEADERSHIP | $0 | $740,554 |
+| UNITED ASSOCIATION POLITICAL EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA) | $313,693 | $0 |
+| FAIR SHARE ACTION | $280,231 | $0 |
+| STOP UNION POLITICAL ABUSE (SUPA) | $0 | $202,500 |
+| CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE | $0 | $163,990 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0NY00188/) (Tier 1)
+<!-- auto:fec-politician end -->
