@@ -64,8 +64,8 @@ function getNodeColor(node: GraphNode): string {
 }
 
 function getNodeSize(node: GraphNode): number {
-  const base = node.type === "politician" ? 6 : 5
-  return base + Math.min(Math.sqrt(node.degree) * 1.5, 8)
+  const base = node.type === "politician" ? 7 : 6
+  return base + Math.min(Math.sqrt(node.degree) * 2.2, 14)
 }
 
 // Hexagon path for politicians
@@ -211,6 +211,19 @@ function initNetworkGraph() {
     // Create groups
     const g = svg.append("g").attr("class", "dm-ng-graph-group")
 
+    // SVG defs — glow filters
+    const defs = svg.append("defs")
+
+    // Glow filter for highlighted edges
+    const edgeGlow = defs.append("filter").attr("id", "dm-edge-glow")
+    edgeGlow.append("feGaussianBlur").attr("stdDeviation", "2").attr("result", "blur")
+    edgeGlow.append("feMerge").html('<feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/>')
+
+    // Glow filter for hovered nodes
+    const nodeGlow = defs.append("filter").attr("id", "dm-node-glow")
+    nodeGlow.append("feGaussianBlur").attr("stdDeviation", "4").attr("result", "blur")
+    nodeGlow.append("feMerge").html('<feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/>')
+
     // Zoom behavior
     const zoomBehavior = zoom<SVGSVGElement, unknown>()
       .scaleExtent([0.1, 5])
@@ -223,15 +236,17 @@ function initNetworkGraph() {
 
     svg.call(zoomBehavior)
 
-    // Draw edges
+    // Draw edges — curved paths instead of straight lines
     const linkGroup = g.append("g").attr("class", "dm-ng-links")
     const linkEls = linkGroup
-      .selectAll("line")
+      .selectAll("path")
       .data(simLinks)
-      .join("line")
-      .attr("stroke", "#2a2a3a")
-      .attr("stroke-opacity", 0.5)
-      .attr("stroke-width", 0.6)
+      .join("path")
+      .attr("class", "dm-ng-edge")
+      .attr("fill", "none")
+      .attr("stroke", "#1e1e2e")
+      .attr("stroke-opacity", 0.35)
+      .attr("stroke-width", 0.7)
 
     // Draw nodes
     const nodeGroup = g.append("g").attr("class", "dm-ng-nodes")
@@ -242,6 +257,19 @@ function initNetworkGraph() {
       .attr("class", "dm-ng-node")
       .attr("cursor", "pointer")
 
+    // Outer glow ring (behind the shape)
+    nodeEls
+      .append("path")
+      .attr("class", "dm-ng-glow-ring")
+      .attr("d", (d) => {
+        const r = getNodeSize(d) + 3
+        return d.type === "politician" ? hexPath(0, 0, r) : rectPath(0, 0, r)
+      })
+      .attr("fill", "none")
+      .attr("stroke", (d) => getNodeColor(d))
+      .attr("stroke-width", 1.5)
+      .attr("stroke-opacity", 0.15)
+
     // Node shapes
     nodeEls
       .append("path")
@@ -251,10 +279,10 @@ function initNetworkGraph() {
         return d.type === "politician" ? hexPath(0, 0, r) : rectPath(0, 0, r)
       })
       .attr("fill", (d) => getNodeColor(d))
-      .attr("fill-opacity", 0.85)
+      .attr("fill-opacity", 0.8)
       .attr("stroke", (d) => getNodeColor(d))
-      .attr("stroke-width", 1)
-      .attr("stroke-opacity", 0.5)
+      .attr("stroke-width", 1.5)
+      .attr("stroke-opacity", 0.4)
 
     // Labels — hidden by default, shown on hover or zoom > 1.2
     nodeEls
@@ -307,7 +335,11 @@ function initNetworkGraph() {
         })
 
         // Dim non-connected, show labels for connected nodes
-        nodeEls.select(".dm-ng-shape").attr("fill-opacity", (n: any) => (connected.has(n.id) ? 0.95 : 0.1))
+        nodeEls.select(".dm-ng-shape")
+          .attr("fill-opacity", (n: any) => (connected.has(n.id) ? 0.95 : 0.06))
+          .attr("filter", (n: any) => (n.id === d.id ? "url(#dm-node-glow)" : "none"))
+        nodeEls.select(".dm-ng-glow-ring")
+          .attr("stroke-opacity", (n: any) => (connected.has(n.id) ? 0.4 : 0))
         nodeEls.select(".dm-ng-label")
           .attr("display", (n: any) => (connected.has(n.id) ? "block" : "none"))
           .attr("fill-opacity", (n: any) => (connected.has(n.id) ? 1 : 0.1))
@@ -315,17 +347,22 @@ function initNetworkGraph() {
           .attr("stroke", (l: any) => {
             const s = (l.source as GraphNode).id
             const t = (l.target as GraphNode).id
-            return s === d.id || t === d.id ? COLORS.edgeHighlight : COLORS.edgeDefault
+            return s === d.id || t === d.id ? COLORS.edgeHighlight : "#1e1e2e"
           })
           .attr("stroke-opacity", (l: any) => {
             const s = (l.source as GraphNode).id
             const t = (l.target as GraphNode).id
-            return s === d.id || t === d.id ? 0.8 : 0.05
+            return s === d.id || t === d.id ? 0.7 : 0.04
           })
           .attr("stroke-width", (l: any) => {
             const s = (l.source as GraphNode).id
             const t = (l.target as GraphNode).id
-            return s === d.id || t === d.id ? 1.5 : 0.5
+            return s === d.id || t === d.id ? 1.8 : 0.5
+          })
+          .attr("filter", (l: any) => {
+            const s = (l.source as GraphNode).id
+            const t = (l.target as GraphNode).id
+            return s === d.id || t === d.id ? "url(#dm-edge-glow)" : "none"
           })
 
         // Tooltip
@@ -357,9 +394,10 @@ function initNetworkGraph() {
       })
       .on("mouseleave", () => {
         highlightedNode = null
-        nodeEls.select(".dm-ng-shape").attr("fill-opacity", 0.85)
+        nodeEls.select(".dm-ng-shape").attr("fill-opacity", 0.8).attr("filter", "none")
+        nodeEls.select(".dm-ng-glow-ring").attr("stroke-opacity", 0.15)
         nodeEls.select(".dm-ng-label").attr("display", "none").attr("fill-opacity", 1)
-        linkEls.attr("stroke", "#2a2a3a").attr("stroke-opacity", 0.5).attr("stroke-width", 0.6)
+        linkEls.attr("stroke", "#1e1e2e").attr("stroke-opacity", 0.35).attr("stroke-width", 0.7).attr("filter", "none")
         tooltip.style.display = "none"
       })
 
@@ -391,11 +429,17 @@ function initNetworkGraph() {
 
     // Apply positions
     function ticked() {
-      linkEls
-        .attr("x1", (d: any) => (d.source as GraphNode).x!)
-        .attr("y1", (d: any) => (d.source as GraphNode).y!)
-        .attr("x2", (d: any) => (d.target as GraphNode).x!)
-        .attr("y2", (d: any) => (d.target as GraphNode).y!)
+      // Curved edges — slight arc via quadratic bezier
+      linkEls.attr("d", (d: any) => {
+        const sx = (d.source as GraphNode).x!
+        const sy = (d.source as GraphNode).y!
+        const tx = (d.target as GraphNode).x!
+        const ty = (d.target as GraphNode).y!
+        const dx = tx - sx
+        const dy = ty - sy
+        const dr = Math.sqrt(dx * dx + dy * dy) * 0.8
+        return `M${sx},${sy}A${dr},${dr} 0 0,1 ${tx},${ty}`
+      })
 
       nodeEls.attr("transform", (d: any) => `translate(${d.x},${d.y})`)
     }

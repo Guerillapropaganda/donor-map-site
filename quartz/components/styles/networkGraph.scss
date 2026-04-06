@@ -114,6 +114,7 @@
   width: 100%;
   height: calc(100% - 50px);
   overflow: hidden;
+  background: radial-gradient(ellipse at center, #111118 0%, #0c0c0f 70%);
 }
 
 .dm-ng-svg {
@@ -125,17 +126,18 @@
 /* ─── Tooltip ──────────────────────────────── */
 .dm-ng-tooltip {
   position: fixed;
-  background: #13131a;
-  border: 1px solid #1e1e28;
-  border-radius: 6px;
-  padding: 10px 12px;
+  background: rgba(13, 13, 20, 0.95);
+  border: 1px solid rgba(91, 141, 206, 0.25);
+  border-radius: 8px;
+  padding: 12px 14px;
   font-family: 'Space Mono', monospace;
   font-size: 11px;
   color: #b4b4bc;
   pointer-events: none;
   z-index: 1000;
-  max-width: 240px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+  max-width: 260px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.6), 0 0 12px rgba(91, 141, 206, 0.08);
+  backdrop-filter: blur(8px);
 }
 
 /* ─── Legend ────────────────────────────────── */
