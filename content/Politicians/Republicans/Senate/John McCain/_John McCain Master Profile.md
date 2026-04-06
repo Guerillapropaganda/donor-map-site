@@ -2,11 +2,14 @@
 title: "John McCain"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Senate"
+govtrack-id: 300071
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 #politician #republican #senator #presidential2008 #maverick-brand #keating-five
@@ -68,3 +71,14 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 ---
 
 `content-readiness:: ready`
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 12,179 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300071) (Tier 1)
+<!-- auto:govtrack end -->

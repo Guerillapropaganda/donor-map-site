@@ -2,13 +2,15 @@
 title: "Wall Street Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
+lobbying-spend: 1048100
+lobbying-filings: 87
 ---
 
 #wall-street #bloc #banking #finance #bipartisan #revolving-door
@@ -34,3 +36,22 @@ See [[Financial Services Donors]], [[Securities & Investment Industry]], and [[G
 - [Ballotpedia: Wall Street political spending](https://ballotpedia.org/Wall_Street_Bloc) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.0M |
+| Quarterly Filings | 87 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 15 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aviation/Airlines/Airports, Budget/Appropriations, Defense, Education, Financial Institutions/Investments/Securities, Government Issues, Health Issues, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Natural Resources, Retirement, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** BALLARD SPAHR LLP, BARNES & THORNBURG, LLP, BROYDRICK & ASSOCIATES, CAPITOL PATH CONSULTING LLC FKA CULTON CONSULTING LLC, DESIMONE CONSULTING, LLC, HOLLAND & KNIGHT LLP, LONGBOW PUBLIC POLICY GROUP, LLC, LSN PARTNERS, LLC, MR. KEITH WALLINGTON, ROB WALLACE GROUP, LLC, STRATEGIC CAPITOL GROUP, LLC, SUMMIT STRATEGIES GOVERNMENT AFFAIRS LLC, TUSK STRATEGIES, LLC, WALLER CONSULTING LLC, WHEAT SHROYER GOVERNMENT RELATIONS LLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Commerce, Dept of (DOC), Federal Aviation Administration (FAA), Federal Trade Commission (FTC), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Housing & Urban Development, Dept of (HUD), Interior, Dept of (DOI), Justice, Dept of (DOJ) +11 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Wall%20Street%20Bloc) (Tier 1)
+<!-- auto:lda-lobbying end -->

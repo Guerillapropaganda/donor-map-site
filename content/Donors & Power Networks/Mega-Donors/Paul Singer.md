@@ -2,7 +2,7 @@
 title: "Paul Singer"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 aliases: ["Paul Singer", "Elliott Management"]
 source-tier: 1
 parent: null
@@ -12,6 +12,10 @@ politicians-funded:
   - "Samuel Alito"
   - "Tom Cotton"
   - "Marco Rubio"
+ein: 272009342
+annual-revenue: "$53.9M"
+net-assets: "$276.4M"
+tax-year: "2023"
 ---
 
 
@@ -115,3 +119,15 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 - [OpenSecrets: Paul Singer donor profile](https://www.opensecrets.org/donor-lookup/results?name=paul+singer) (Tier 1)
 - [Ballotpedia: Paul Singer](https://ballotpedia.org/Paul_Singer) (Tier 3)
 - [InfluenceWatch: Paul Singer](https://www.influencewatch.org/person/paul-singer/) (Tier 3)
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $53.9M |
+| Total Contributions | $0 |
+| Total Expenses | $135.4M |
+| Net Assets | $276.4M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 272009342](https://projects.propublica.org/nonprofits/organizations/272009342) (Tier 1)
+<!-- auto:propublica-990 end -->

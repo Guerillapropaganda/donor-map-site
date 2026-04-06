@@ -16,6 +16,10 @@ issues:
   - "Defense & Military"
   - "Dark Money & Campaign Finance"
 federal-contracts: "2662"
+ein: 863992946
+annual-revenue: "$1.2M"
+net-assets: "$421K"
+tax-year: "2023"
 ---
 
 #founders-fund #peter-thiel #venture-capital #tech #libertarian #palantir #republican #defense #paypal-mafia #dark-money #class-analysis #follow-the-money
@@ -179,3 +183,16 @@ content-readiness:: developed
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Founders%20Fund&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.2M |
+| Total Contributions | $1.2M |
+| Investment Income | $3K |
+| Total Expenses | $1.1M |
+| Net Assets | $421K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 863992946](https://projects.propublica.org/nonprofits/organizations/863992946) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,7 +2,7 @@
 title: "Private Equity Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -13,6 +13,8 @@ issues:
   - "Wall Street & Finance"
   - "Healthcare"
   - "Housing"
+lobbying-spend: 2239378
+lobbying-filings: 64
 ---
 
 #private-equity #wall-street #carried-interest #leveraged-buyout #extraction #healthcare #housing
@@ -59,3 +61,22 @@ Additional priorities: favorable SEC regulation of fund disclosures, opposition 
 - [Ballotpedia: Private equity political spending](https://ballotpedia.org/Private_equity) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.2M |
+| Quarterly Filings | 64 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 28 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Agriculture, Aviation/Airlines/Airports, Budget/Appropriations, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Education, Energy/Nuclear, Foreign Relations, Government Issues, Health Issues, Homeland Security, Labor Issues/Antitrust/Workplace, Manufacturing, Medicare/Medicaid, Natural Resources, Railroads, Retirement, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Veterans
+
+**Lobbying firms:** ANN WARNER LLC, BOSE PUBLIC AFFAIRS GROUP, BRIAN GLACKIN & ASSOCIATES LLC, CAREER EDUCATION COLLEGES & UNIVERSITIES (FKA ASS'N OF PRIVATE SECTOR COLLEGES A, CORNERSTONE GOVERNMENT AFFAIRS, INC., CROSSROADS STRATEGIES, LLC, DEBRUNNER & ASSOCIATES, INC., DUANE MORRIS LLP, HALCYON STRATEGY LLC, HOLLRAH LLC, HOOPER, LUNDY & BOOKMAN, P.C., INVARIANT LLC, MR. BRIAN WALSH, MZ ADVISING, LLC, MZLS LLC, PENN HILL GROUP, PRIME POLICY GROUP, PROFECTUS INVESTMENTS LLC, PUBLIC PRIVATE STRATEGIES, REARDON CONSULTING, LLC, ROSEMONT GROUP, TAX LEGISLATIVE SOLUTIONS, LLC, THE LIVINGSTON GROUP, LLC, THE VOGEL GROUP, TONIO BURGOS & ASSOCIATES, INC., VALENTINE STRATEGIES, VENABLE LLP, WINNING STRATEGIES WASHINGTON
+
+**Agencies contacted:** Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Trade Commission (FTC), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS) +15 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Private%20Equity%20Industry%20Bloc) (Tier 1)
+<!-- auto:lda-lobbying end -->

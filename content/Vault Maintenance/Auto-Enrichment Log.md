@@ -23,6 +23,57 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+
+
+
+
+## 2026-04-06 15:04 UTC — 4 profiles
+
+**USAspending — 4 profiles:**
+- Amazon — 25 contracts, 10 grants
+- Marathon Petroleum — 25 contracts, 2 grants
+- Raytheon Technologies — 25 contracts, 25 grants
+- Ocean Conservancy — 0 contracts, 7 grants
+
+---
+## 2026-04-06 15:01 UTC — 3 profiles
+
+**GovTrack — 3 profiles:**
+- John McCain — 0 sponsored, 0 cosponsored
+- Raja Krishnamoorthi — 34 sponsored, 578 cosponsored
+- James Comer — 7 sponsored, 67 cosponsored
+
+---
+## 2026-04-06 14:56 UTC — 6 profiles
+
+**FEC — 6 profiles:**
+- Frank Pallone — 2026 raised $1,311,209
+- Ron DeSantis — 2024 raised $375,129
+- Chris Coons — 2026 raised $5,285,973
+- Alexandria Ocasio-Cortez — 2026 raised $23,658,045
+- Bill Gates — total political spend $652,713
+- Fraternal Order of Police — total political spend $454,168
+
+---
+## 2026-04-06 14:56 UTC — 4 profiles
+
+**ProPublica — 4 profiles:**
+- National Multifamily Housing Council — $26.6M revenue, 2023 990
+- Paul Singer — $53.9M revenue, 2023 990
+- Founders Fund — $1.2M revenue, 2023 990
+- Johnson & Johnson — $477K revenue, 2023 990
+
+---
+## 2026-04-06 14:55 UTC — 4 profiles
+
+**Congress.gov — 4 profiles:**
+- Alexander Acosta — 0 policy areas, bioguide A000383
+- Brian Schatz — 0 policy areas, bioguide A000383
+- Maxine Waters — 0 policy areas, bioguide A000383
+- John Boozman — 0 policy areas, bioguide A000383
+
+---
 ## 2026-04-06 14:50 UTC — 1 profile
 
 **FEC — 1 profile:**

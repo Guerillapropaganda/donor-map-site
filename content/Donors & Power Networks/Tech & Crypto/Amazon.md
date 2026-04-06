@@ -2,7 +2,7 @@
 title: "Amazon"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -12,6 +12,9 @@ politicians-funded:
 issues:
   - "Technology"
   - "Labor & Workers"
+federal-awards-total: 320825731
+federal-contracts-count: 25
+federal-grants-count: 10
 ---
 
 
@@ -206,3 +209,35 @@ Amazon is the most complete case study in the vault of how a single corporation 
 ---
 
 content-readiness:: ready
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $320.8M |
+| Contracts (recent 3yr) | 25 ($637.1M sampled) |
+| Grants (recent 3yr) | 10 ($2.7M sampled) |
+| Federal Agencies | 8 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $94.8M | Department of Defense | AWS CLOUD SERVICES |
+| $93.2M | General Services Administration | AWS CLOUD SERVICE AND VAR SUPPORT SERVICES |
+| $59.7M | Department of Defense | TASK ORDER AWARD AGAINST JWCC MULTIPLE-AWARD IDIQ CONTRACT HC105023D0005 TO AMAZON WEB SERVICES, INC |
+| $48.1M | Department of Defense | AWS CLOUD SERVICES |
+| $38.2M | Department of Defense | AMAZON WEB SERVICES CLOUD REQUIREMENT |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $528K | Inter-American Foundation | THE POST CONFLICT ERA HAS BROUGHT WITH IT NEW TYPES OF THREATS TO THE AMAZONIAN REGION IN COLOMBIA.  |
+| $503K | Inter-American Foundation | THE AMAZON IS ONE OF THE MOST BIODIVERSE PLACES ON EARTH, BUT DEFORESTATION IS THREATENING LOCAL ECO |
+| $479K | Inter-American Foundation | SMALL-SCALE PRODUCERS LIVING IN THE SAN MARTÍN REGION OF THE PERUVIAN RAINFOREST FACE HIGH LEVELS OF |
+| $456K | Department of Agriculture | BRAZIL STRENGTHEN TERRITORIAL MANAGEMENT IN THE AMAZON AND MATO GROSSO |
+| $257K | Inter-American Foundation | INDIGENOUS PEOPLES IN BRAZIL AND ESPECIALLY IN THE BRAZILIAN AMAZON HAVE FRAGILE LIVELIHOODS. THEIR  |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Amazon) (Tier 1)
+<!-- auto:usaspending end -->

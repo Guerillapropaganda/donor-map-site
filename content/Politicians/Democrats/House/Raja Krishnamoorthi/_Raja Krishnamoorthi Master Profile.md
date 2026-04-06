@@ -16,6 +16,11 @@ issues:
   - "Technology"
 total-received: "$3,915,957"
 fec-candidate-id: "H6IL08147"
+govtrack-id: 412701
+bills-sponsored: 34
+bills-cosponsored: 578
+website: "https://krishnamoorthi.house.gov"
+phone: "202-225-3711"
 ---
 
 #raja-krishnamoorthi #illinois #house #democrat #oversight #tech #tiktok #india #ccp-committee #senate-2026 #maga-donors
@@ -167,3 +172,22 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 34 |
+| Bills Cosponsored | 578 |
+| Total Votes Cast | 4,873 |
+
+**Recent bills sponsored:**
+
+- H.R. 7909: To amend title XVIII of the Social Security Act to provide for an option for individuals who are ages 50 to 64 to buy in — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7833: Puerto Rican People’s Power Restoration Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7542: Kids Need Lunch Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7160: First Home Affordability Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7161: No Private Bounty Hunters for Immigration Enforcement Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412701) (Tier 1)
+<!-- auto:govtrack end -->

@@ -2,7 +2,7 @@
 title: "John Boozman"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,7 @@ committees:
   - "Appropriations"
 issues:
   - "Agriculture"
+bioguide-id: "A000383"
 ---
 
 
@@ -143,3 +144,15 @@ This is the Arkansas agricultural-industrial complex made senator. Boozman doesn
 - [Wikipedia: John Boozman](https://en.wikipedia.org/wiki/John_Boozman) (Tier 3)
 
 content-readiness:: ready
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

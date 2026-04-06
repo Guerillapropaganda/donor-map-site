@@ -2,7 +2,7 @@
 title: "Frank Pallone"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,8 @@ issues:
 top-donors:
   - "Pfizer"
   - "PhRMA"
+total-received: "$1,311,209"
+fec-candidate-id: "H8NJ03073"
 ---
 
 #frank-pallone #democrat #new-jersey #house #ranking-member #energy-commerce #pharma #telecom #environment #phase-6-gavel-power
@@ -133,3 +135,38 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,311,209 |
+| Individual Contributions | $404,090 |
+| PAC Contributions | $878,107 |
+| Cash on Hand | 3125718.74 |
+| IE Support (Super PAC) | $15,898 |
+| IE Opposition (Super PAC) | $190,330 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,311,209 | $404,090 | $878,107 |
+| 2024 | $3,462,887 | $1,274,858 | $2,058,500 |
+| 2022 | $3,144,740 | $1,097,827 | $2,020,455 |
+| 2020 | $3,240,051 | $1,002,268 | $2,215,700 |
+| 2018 | $2,810,635 | $893,771 | $1,885,555 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| FREEDOM'S DEFENSE FUND | $0 | $119,500 |
+| FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE | $0 | $54,500 |
+| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $11,590 | $0 |
+| NEW JERSEY FAMILY FIRST INC | $0 | $7,681 |
+| FOCUS ON THE FAMILY ACTION | $0 | $7,681 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
+<!-- auto:fec-politician end -->

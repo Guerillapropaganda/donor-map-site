@@ -2,13 +2,17 @@
 title: "Johnson & Johnson"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+ein: 760552018
+annual-revenue: "$477K"
+net-assets: "$1.3M"
+tax-year: "2023"
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
@@ -59,3 +63,16 @@ Bipartisan distribution targeting Finance Committee (Medicare drug pricing), Jud
 - [Ballotpedia: Johnson & Johnson political spending](https://ballotpedia.org/Johnson_&_Johnson) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $477K |
+| Total Contributions | $477K |
+| Total Expenses | $349K |
+| Net Assets | $1.3M |
+| Officer Compensation | $19K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 760552018](https://projects.propublica.org/nonprofits/organizations/760552018) (Tier 1)
+<!-- auto:propublica-990 end -->

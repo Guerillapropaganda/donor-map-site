@@ -2,7 +2,7 @@
 title: "James Comer"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,11 @@ state-abbr: "KY"
 district: "1"
 committees:
   - "Oversight & Reform"
+govtrack-id: 412676
+bills-sponsored: 7
+bills-cosponsored: 67
+website: "https://comer.house.gov"
+phone: "202-225-3115"
 ---
 
 
@@ -156,3 +161,22 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale �
 
 profile-status:: ready
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 7 |
+| Bills Cosponsored | 67 |
+| Total Votes Cast | 4,920 |
+
+**Recent bills sponsored:**
+
+- H.R. 7248: MARINA Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 1276: To remove restrictions from a parcel of land in Paducah, Kentucky. — *This bill passed in the House on December 9, 2025 and goes to the Senate next for consideration.*
+- H.R. 4366: Save Local Business Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on July 23, 2025.*
+- H.R. 1295: Reorganizing Government Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 25, 2025.*
+- H.R. 1515: GOOD Act — *This bill passed in the House on March 3, 2025 and goes to the Senate next for consideration.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412676) (Tier 1)
+<!-- auto:govtrack end -->

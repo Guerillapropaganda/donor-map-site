@@ -2,7 +2,7 @@
 title: "Marathon Petroleum"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -12,6 +12,9 @@ politicians-funded:
 issues:
   - "Energy & Climate"
   - "Dark Money & Campaign Finance"
+federal-awards-total: 437282470
+federal-contracts-count: 25
+federal-grants-count: 2
 ---
 
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned
@@ -188,3 +191,32 @@ research-status:: developed — added 7-cycle PAC table (2012–2024, ~$8.2M PAC
 | THUNE VICTORY COMMITTEE | $60.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $437.3M |
+| Contracts (recent 3yr) | 25 ($337.4M sampled) |
+| Grants (recent 3yr) | 2 ($36K sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $31.9M | Department of Defense | 8511258088!DISTILLATE,NAVAL |
+| $21.8M | Department of Defense | 8511343326!DISTILLATE,NAVAL |
+| $21.0M | Department of Defense | 8510075507!DISTILLATE,NAVAL |
+| $18.5M | Department of Defense | 8511577581!DISTILLATE,NAVAL |
+| $16.4M | Department of Defense | 8511113444!DISTILLATE,NAVAL |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $36K | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
+| $0 | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Marathon%20Petroleum) (Tier 1)
+<!-- auto:usaspending end -->

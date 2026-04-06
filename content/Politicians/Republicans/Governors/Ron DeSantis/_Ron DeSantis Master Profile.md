@@ -2,7 +2,7 @@
 title: "Ron DeSantis Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -15,6 +15,8 @@ top-donors:
   - "Fossil Fuel Bloc"
   - "Club for Growth"
   - "Lennar Corporation"
+total-received: "$375,129"
+fec-candidate-id: "P40013039"
 ---
 
 #desantis #governor #florida #republican #culture-war #anti-woke #class-analysis #follow-the-money #failed-2024 #tax-haven #disney #donor-capture #presidential-2028
@@ -148,3 +150,27 @@ DeSantis's second gubernatorial term ends in January 2027. He is term-limited an
 - [NBC News: Club for Growth post-Trump positioning](https://www.nbcnews.com/meet-the-press/meetthepressblog/eyes-2024-club-post-trump-growth-rcna69468) (Tier 2)
 - [FactCheck.org: Never Back Down Inc.](https://www.factcheck.org/2024/01/never-back-down-inc/) (Tier 2)
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $375,129 |
+| Individual Contributions | $181,105 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $32,688,599 |
+| IE Opposition (Super PAC) | $80,216,894 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SFA FUND, INC | $0 | $46,974,966 |
+| MAKE AMERICA GREAT AGAIN INC. | $0 | $33,241,929 |
+| NEVER BACK DOWN INC. | $26,139,099 | $0 |
+| GOOD FIGHT | $5,549,500 | $0 |
+| READY TO WIN | $1,000,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40013039/) (Tier 1)
+<!-- auto:fec-politician end -->

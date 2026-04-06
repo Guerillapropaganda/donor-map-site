@@ -2,11 +2,12 @@
 title: "Alexander Acosta Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Cabinet"
+bioguide-id: "A000383"
 ---
 
 
@@ -155,3 +156,16 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 
 content-readiness:: ready
 profile-status:: developed — Epstein NPA documented (53-page indictment abandoned, 13-month sentence, immunity for co-conspirators, CVRA violation), defense team mapped (Starr, Dershowitz, Lefkowitz), Labor Secretary tenure and resignation timeline, DOJ OPR review, "intelligence" claim noted, class analysis. All ### headers, Tier 1-2 sources. Session 38i.
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

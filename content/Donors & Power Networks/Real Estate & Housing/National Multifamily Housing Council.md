@@ -2,13 +2,17 @@
 title: "National Multifamily Housing Council"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Real Estate"
 entity-type: "Corporation"
 issues:
   - "Housing"
+ein: 521127504
+annual-revenue: "$26.6M"
+net-assets: "$20.2M"
+tax-year: "2023"
 ---
 
 #donor #real-estate #housing #trade-association #multifamily #bipartisan #lobbying #class-analysis #follow-the-money
@@ -86,3 +90,19 @@ NMHC represents the apartment industry's ownership class — the developers, REI
 
 research-status:: draft — Financial profile, PAC contributions, lobbying data, and RealPage litigation position documented. Gaps: detailed PAC recipient list by candidate, specific policy outcomes tied to lobbying, historical contribution trends, RealPage amicus brief content, member company list with financial profiles. OpenSecrets PAC data and NMHC newsroom available for deeper analysis.
 content-readiness:: draft
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $26.6M |
+| Total Contributions | $0 |
+| Program Service Revenue | $26.2M |
+| Investment Income | $528K |
+| Total Expenses | $22.8M |
+| Net Assets | $20.2M |
+| Officer Compensation | $3.0M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 521127504](https://projects.propublica.org/nonprofits/organizations/521127504) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F521127504_202306_990O_2024061722535196.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

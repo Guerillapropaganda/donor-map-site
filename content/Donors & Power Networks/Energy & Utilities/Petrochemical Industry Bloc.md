@@ -2,13 +2,15 @@
 title: "Petrochemical Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Individual Donor"
 issues:
   - "Energy & Climate"
+lobbying-spend: 36374000
+lobbying-filings: 51
 ---
 
 #petrochemical #plastics #refining #cancer-alley #louisiana #texas #environmental-justice
@@ -41,3 +43,22 @@ The petrochemical industry's geographic concentration along the Mississippi Rive
 - [Ballotpedia: Petrochemical industry regulation](https://ballotpedia.org/Petrochemical_Industry_Bloc) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $36.4M |
+| Quarterly Filings | 51 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Chemicals/Chemical Industry, Energy/Nuclear, Environment/Superfund, Fuel/Gas/Oil, Homeland Security, Railroads, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** AMERICAN FUEL & PETROCHEMICAL MANUFACTURERS, CAPITOL COUNSEL LLC, CAPITOL TAX PARTNERS, LLP, CGCN GROUP, LLC, FEDERAL STREET STRATEGIES, LLC, K&L GATES, LLP, TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP)
+
+**Agencies contacted:** Environmental Protection Agency (EPA), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), SENATE, Surface Transportation Board (STB), White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Petrochemical%20Industry%20Bloc) (Tier 1)
+<!-- auto:lda-lobbying end -->
