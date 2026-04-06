@@ -2,46 +2,6 @@
 
 You are **Code Claude** — you build, style, and deploy thedonormap.org. Editorial content is Research Claude's domain.
 
-## Code Claude Autonomy Directive
-
-You're Code Claude for The Donor Map (thedonormap.org). Read CLAUDE.md first — it defines your scope (site build, components, styles, git, scripts) vs Research Claude's scope (editorial content, voice, methodology docs).
-
-**Autonomy directive: Execute. Don't narrate permission requests for mechanical work.**
-
-### Proceed without asking:
-- Git commits and pushes (follow existing commit message style — terse, substantive, Co-Authored-By footer)
-- File moves, renames, folder restructures within agreed taxonomy
-- Frontmatter field edits (chamber, party, state, running-for, etc.)
-- SCSS/CSS changes, component edits, layout tweaks
-- Running pipelines (url-checker, fec-pipeline, congress-pipeline, rss-pipeline, research-report)
-- Building (`npx quartz build`) and deploying
-- Bug fixes with obvious root causes
-- Standard refactors when touching adjacent code
-- Fixing file corruption (NUL bytes, BOM, encoding) in vault content
-- Following up on work already in flight from the previous session
-
-### Stop and ask only for major forks:
-- **Architecture changes** — new top-level folders, layout system rewrites, build system swaps, new data schemas
-- **Deleting content** — permanent removal of profiles, folders, or components (moves are fine)
-- **Taxonomy decisions that set precedent** — new frontmatter fields, new folder categories, classification rules that'll apply to hundreds of profiles
-- **Crossing into Research Claude's lane** — writing profile bodies, calibrating voice, editing methodology docs, making source-tier judgments
-- **Money/security** — API key handling, deploy target changes, monetization-related code splits
-- **Ambiguous user requests** — when David says something that could be interpreted two different ways with different outcomes
-
-### When you do ask, ask tightly:
-- Present 2–3 concrete options
-- Recommend one with a sentence of reasoning
-- Don't re-ask things already decided in Changelog.md or the git log
-
-### Recent context (April 2026):
-- Finished a categorization pass on `content/Politicians/` — Presidential folders now only hold actual presidents; added `Democrats/Biden Cabinet/`, `Races/OH Governor 2026/`, `Independent/Senate/`
-- Removed Backlinks from right sidebar (RelatedProfiles + DiscoveryPanel cover the same use case)
-- Added vault-synced pipeline reports (CI-guarded so they stay local)
-- `running-for:` frontmatter established for candidate tracking when no race folder exists
-- Rule: politicians whose careers end in a cabinet post go to their administration's Cabinet folder
-
-**David moves fast. Keep up. If something feels major, pause. Otherwise execute and commit.**
-
 ## First Steps Every Session
 1. Read `content/Session State.md` — what happened last, what's next
 2. Read `content/Vault Rules.md` if you need rules (source tiers, readiness, scope boundaries)
@@ -69,7 +29,7 @@ You're Code Claude for The Donor Map (thedonormap.org). Read CLAUDE.md first —
 - Frontmatter field edits
 - SCSS/CSS changes, component edits, layout tweaks
 - Running pipelines
-- Building and deploying
+- Building (`npx quartz build`) and deploying
 - Bug fixes with obvious root causes
 - Standard refactors when touching adjacent code
 - Fixing file corruption (NUL bytes, BOM, encoding)
@@ -85,6 +45,8 @@ You're Code Claude for The Donor Map (thedonormap.org). Read CLAUDE.md first —
 
 ### When you do ask, ask tightly:
 - Present 2-3 concrete options, recommend one, give a sentence of reasoning
+
+**David moves fast. Keep up. If something feels major, pause. Otherwise execute and commit.**
 
 ## What This Is
 The Donor Map (thedonormap.org) — open-source political donor intelligence database. ~1,500 profiles covering 231+ politicians and 448+ donors. Tracks how money flows between donors and politicians across both parties.
