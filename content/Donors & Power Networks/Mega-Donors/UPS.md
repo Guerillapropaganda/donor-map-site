@@ -45,7 +45,7 @@ UPS's lobbying agenda is driven by five core priorities, each directly tied to r
 
 **5. Labor and Workplace Policy.** Despite (or because of) its unionized workforce, UPS lobbies on independent contractor classification, overtime rules, and workplace safety regulations. The company's interest in gig economy labor classification rules is defensive — preventing reclassification that could increase costs for competitors like Amazon who rely on independent contractor delivery drivers.
 
-- [OpenSecrets: UPS lobbying issues 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000081) (Tier 1)
+- [OpenSecrets: UPS lobbying issues 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 
 ---
 
@@ -95,8 +95,8 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 > Over 60% of UPS lobbyists previously held government jobs — former congressional staffers, DOT officials, FAA regulators, and trade negotiators who now sell their institutional knowledge back to UPS. The revolving door is particularly active on transportation and aviation committees, where former staff who wrote the regulations now lobby to reshape them. UPS ranked 85th among all lobbying clients in 2024 — putting it in the top 1% of all organizations that lobby the federal government.
 
 - [OpenSecrets: UPS PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/united-parcel-service/C00064766/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: UPS lobbying profile 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000081&cycle=2024) (Tier 1)
-- [OpenSecrets: UPS lobbyists — revolving door data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000081) (Tier 1)
+- [OpenSecrets: UPS lobbying profile 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: UPS lobbyists — revolving door data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 
 ---
 
@@ -145,9 +145,9 @@ The class analysis conclusion: corporate political spending is effective against
 
 - [OpenSecrets: UPS summary](https://www.opensecrets.org/orgs/united-parcel-service/summary?id=D000000081) (Tier 1)
 - [OpenSecrets: UPS PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/united-parcel-service/C00064766/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: UPS lobbying profile 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000081&cycle=2024) (Tier 1)
-- [OpenSecrets: UPS lobbying issues 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000081) (Tier 1)
-- [OpenSecrets: UPS lobbyists — revolving door data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000081) (Tier 1)
+- [OpenSecrets: UPS lobbying profile 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: UPS lobbying issues 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: UPS lobbyists — revolving door data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [UPS Political Engagement Policy](https://investors.ups.com/corporategovernance/political-engagement-policy) (Tier 1)
 - [FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710) (Tier 1)
 - [Teamsters: Ratify Historic UPS Contract](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2)

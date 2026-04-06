@@ -178,7 +178,7 @@ The prediction market schism reveals the limits of trade association governance 
 ### Sources
 
 - [OpenSecrets: American Gaming Association org summary](https://www.opensecrets.org/orgs/american-gaming-assn/summary?id=D000023966) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: AGA lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000023966) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: AGA lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: AGA PAC profile C00309146](https://www.opensecrets.org/political-action-committees-pacs/american-gaming-assn/C00309146/summary/2024) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Casinos/Gambling industry totals](https://www.opensecrets.org/industries?cycle=2024&ind=N07) (Tier 1) (UNVERIFIED)
 - [FEC: AGA PAC committee C00309146](https://www.fec.gov/data/committee/C00309146/) (Tier 1)

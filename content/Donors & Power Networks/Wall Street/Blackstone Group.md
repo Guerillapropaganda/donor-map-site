@@ -111,7 +111,7 @@ Blackstone PAC maintains a roughly 55/45 Republican-Democrat split, ensuring acc
 > 83-84% of Blackstone's lobbyists are former government employees — the highest revolving door percentage of any major financial institution. These are former Treasury officials, congressional tax staffers, and SEC regulators who now lobby their former colleagues on behalf of the firm they regulate. The revolving door isn't a side effect of Blackstone's business — it's a core competitive advantage.
 
 - [OpenSecrets: Blackstone Group summary — 2024 cycle](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
-- [OpenSecrets: Blackstone Group lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000021873) (Tier 1)
+- [OpenSecrets: Blackstone Group lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Stephen Schwarzman donor lookup](https://www.opensecrets.org/donor-lookup/results?name=Stephen+Schwarzman&order=desc&sort=A) (Tier 1)
 - [OpenSecrets: Blackstone Group top recipients](https://www.opensecrets.org/orgs/blackstone-group/recipients?id=D000021873) (Tier 1)
 - [FEC: Blackstone PAC disbursements](https://www.fec.gov/data/disbursements/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?committee_id=C00428052) (Tier 1)
@@ -234,7 +234,7 @@ Blackstone is the vault's purest case study of how financial capital converts po
 
 ### FEC & OpenSecrets (Chrome-verified):
 - [OpenSecrets: Blackstone Group summary](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
-- [OpenSecrets: Blackstone Group lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000021873) (Tier 1)
+- [OpenSecrets: Blackstone Group lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Stephen Schwarzman donor lookup](https://www.opensecrets.org/donor-lookup/results?name=Stephen+Schwarzman&order=desc&sort=A) (Tier 1)
 - [OpenSecrets: Blackstone Group top recipients](https://www.opensecrets.org/orgs/blackstone-group/recipients?id=D000021873) (Tier 1)
 - [FEC: Blackstone PAC filings](https://www.fec.gov/data/committee/C00428052/) (Tier 1)

@@ -79,7 +79,7 @@ API's cumulative federal lobbying spending from 1998–2024 totals approximately
 - Average federal lobbying spend 2013–2015: $9.2M/year
 - **Critical undercounting:** Federal lobbying figures significantly understate API's total political influence spending. A 2016 [[InfluenceMap - American Petroleum Institute|InfluenceMap]] analysis estimated API alone spends approximately **$65 million per year** on "obstructive climate policy lobbying" when including advertising, PR, and trade association coordination — creating a **10:1 public-to-hidden spending ratio**
 
-Sources: [OpenSecrets federal lobbying disclosure (D000031493)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000031493) (Tier 1) (UNVERIFIED) | [InfluenceMap investor report (2016)](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2)
+Sources: [OpenSecrets federal lobbying disclosure (D000031493)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED) | [InfluenceMap investor report (2016)](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2)
 
 ### Political Spending and Dark Money Operations
 
@@ -517,7 +517,7 @@ From OpenSecrets' 2021 API lobbyist roster: **51 total lobbyists; 40 (78.43%) ha
 
 While not API official, exemplifies revolving door. Cooney was Chief of Staff, White House Council on Environmental Quality under President George W. Bush. Forced to resign 2005 after revealed tampering with government climate assessments—editing reports to downplay scientific evidence of global warming. After White House, hired as lobbyist for [[ExxonMobil]] (API's largest member company).
 
-Sources: [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2) | [OpenSecrets: API Lobbyist Roster (2021)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2021&id=D000031493) (Tier 1)
+Sources: [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2) | [OpenSecrets: API Lobbyist Roster (2021)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 
 ### Donation-to-Policy Timeline
 
@@ -572,10 +572,10 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 
 ### Sources
 
-- [OpenSecrets: API Federal Lobbying Disclosure (D000031493)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000031493) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: API Federal Lobbying Disclosure (D000031493)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: API PAC Committee Filings (C00483677)](https://www.fec.gov/data/committee/C00483677/) (Tier 1)
 - [OpenSecrets: API Political Contributions and Outside Spending](https://www.opensecrets.org/orgs/american-petroleum-institute/summary?id=D000031493) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: API Lobbyist Roster (2021–2024)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2021&id=D000031493) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: API Lobbyist Roster (2021–2024)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
 - [ProPublica Nonprofit Explorer: API Form 990 Filings (2020–2024)](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
 - [FEC: American Petroleum Institute PAC and Super PAC Contributions](https://www.fec.gov/data/committee/C00483677/) (Tier 1)
 - [ExxonMobil Corporate Disclosure: Trade Association Expenditures](https://corporate.exxonmobil.com/who-we-are/policy/exxonmobil-advocacy-report/direct-lobbying-activities-expenditures/trade-associations-think-tanks-and-coalitions) (Tier 1)

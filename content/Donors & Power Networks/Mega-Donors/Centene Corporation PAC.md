@@ -148,7 +148,7 @@ Medicaid funding and managed care policy, ACA marketplace rules, Medicare Advant
 
 - [OpenSecrets: Centene Corp profile — summary](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024670) (Tier 1)
 - [OpenSecrets: Centene Corp — recipients](https://www.opensecrets.org/orgs/centene-corp/recipients?id=D000024670) (Tier 1)
-- [OpenSecrets: Centene Corp — lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000024670) (Tier 1)
+- [OpenSecrets: Centene Corp — lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [FollowTheMoney: Centene Corp state contributions](https://www.followthemoney.org/tools/election-overview?eid=528) (Tier 1)
 - [KFF Health News: Centene showers politicians with millions as it courts contracts](https://kffhealthnews.org/news/article/centene-political-donations-medicaid-contracts-overbilling-allegations/) (Tier 2)
 - [KFF Health News: Centene settlements with states still unfinished](https://kffhealthnews.org/news/article/centene-settlements-pbms-medicaid-silence-holdouts-georgia-florida/) (Tier 2)

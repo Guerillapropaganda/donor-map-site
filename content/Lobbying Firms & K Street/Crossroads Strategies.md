@@ -193,9 +193,9 @@ The 76.9% revolving door rate is the business model expressed as a statistic. Mo
 
 ### Sources
 
-- [OpenSecrets: Crossroads Strategies Lobbying Firm Profile — 2025](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000060861) (Tier 1)
-- [OpenSecrets: Crossroads Strategies Lobbyists — Revolving Door Data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000060861&year=2024) (Tier 1)
-- [OpenSecrets: Crossroads Strategies Bills Lobbied — 2025](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2025&id=D000060861) (Tier 1)
+- [OpenSecrets: Crossroads Strategies Lobbying Firm Profile — 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Crossroads Strategies Lobbyists — Revolving Door Data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Crossroads Strategies Bills Lobbied — 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [The Hill: Lott, Breaux Join Lobbying Shop Crossroads Strategies](https://thehill.com/business-a-lobbying/business-a-lobbying/502725-lott-breaux-join-lobbying-shop-crossroads-strategies/) (Tier 2)
 - [Roll Call: Ex-Sens. Lott, Breaux Announce Move to Crossroads Strategies](https://rollcall.com/2020/06/15/ex-sens-lott-breaux-announce-move-to-crossroads-strategies/) (Tier 2)
 - [The Hill: Lobbying World — Schumer, Amazon Alum to Join Crossroads Strategies](https://thehill.com/business/4411828-lobbying-world-schumer-amazon-alum-to-join-crossroads-strategies/) (Tier 2)

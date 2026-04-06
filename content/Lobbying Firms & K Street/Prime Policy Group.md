@@ -218,9 +218,9 @@ The WPP ownership structure serves a specific function: it insulates the firm fr
 
 ### Sources
 
-- [OpenSecrets: Prime Policy Group Lobbying Firm Profile — Summary](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000045879) (Tier 1)
-- [OpenSecrets: Prime Policy Group Lobbyists — Revolving Door Data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000045879) (Tier 1)
-- [OpenSecrets: Prime Policy Group Issues Lobbied](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2025&id=D000045879) (Tier 1)
+- [OpenSecrets: Prime Policy Group Lobbying Firm Profile — Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Prime Policy Group Lobbyists — Revolving Door Data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Prime Policy Group Issues Lobbied](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Wikipedia: Charles R. Black Jr.](https://en.wikipedia.org/wiki/All-In_(podcast).) (Tier 3)
 - [Wikipedia: BKSH & Associates Worldwide](https://en.wikipedia.org/wiki/BKSH_&_Associates_Worldwide) (Tier 3)
 - [Wikipedia: Timmons & Company](https://en.wikipedia.org/wiki/Timmons_%26_Company) (Tier 3)

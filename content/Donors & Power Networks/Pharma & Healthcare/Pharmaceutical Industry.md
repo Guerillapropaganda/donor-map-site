@@ -167,7 +167,7 @@ The pharmaceutical industry's political operation reveals the most complete exam
 ### Sources
 
 - [OpenSecrets: Pharmaceuticals/Health Products industry summary](https://www.opensecrets.org/industries?ind=H04) (Tier 1)
-- [OpenSecrets: Pharmaceuticals/Health Products lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=H04) (Tier 1)
+- [OpenSecrets: Pharmaceuticals/Health Products lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Congress.gov CRS: Medicare Drug Price Negotiation Under the IRA — Industry Responses](https://www.congress.gov/crs-product/R47872) (Tier 1)
 - [Fierce Pharma: Big Pharma greets hundreds of ex-federal workers at the revolving door](https://www.fiercepharma.com/pharma/big-pharma-greets-hundreds-ex-federal-workers-at-revolving-door) (Tier 2)
 - [The Hill: For Big Pharma, the revolving door keeps spinning](https://thehill.com/blogs/congress-blog/politics/452654-for-big-pharma-the-revolving-door-keeps-spinning/) (Tier 2)

@@ -216,9 +216,9 @@ The firm's representation of authoritarian governments — Equatorial Guinea's O
 
 ### Sources
 
-- [OpenSecrets: Cassidy & Assoc Lobbying Firm Profile — Summary](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000000208) (Tier 1)
-- [OpenSecrets: Cassidy & Assoc Lobbyists — Revolving Door Data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000000208) (Tier 1)
-- [OpenSecrets: Cassidy & Assoc Issues Lobbied](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2025&id=D000000208) (Tier 1)
+- [OpenSecrets: Cassidy & Assoc Lobbying Firm Profile — Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Cassidy & Assoc Lobbyists — Revolving Door Data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Cassidy & Assoc Issues Lobbied](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Wikipedia: Cassidy & Associates](https://en.wikipedia.org/wiki/Cassidy_&_Associates) (Tier 3)
 - [Wikipedia: Gerald Cassidy (lobbyist)](https://en.wikipedia.org/wiki/Gerald_Cassidy_(lobbyist)) (Tier 3)
 - [Cassidy & Associates: Official Website](https://cassidy.com/) (Tier 4)

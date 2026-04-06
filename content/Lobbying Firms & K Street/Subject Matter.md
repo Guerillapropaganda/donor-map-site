@@ -196,10 +196,10 @@ The Amazon contradiction is equally revealing. Elmendorf lobbied against worker 
 
 ### Sources
 
-- [OpenSecrets: Avoq LLC Lobbying Firm Profile — Summary](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000110465) (Tier 1)
-- [OpenSecrets: Avoq LLC Lobbyists — Revolving Door Data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000110465) (Tier 1)
-- [OpenSecrets: Avoq LLC Issues Lobbied](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2025&id=D000110465) (Tier 1)
-- [OpenSecrets: Steven Elmendorf Lobbying Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433159?cycle=2025&id=Y0000046504L) (Tier 1)
+- [OpenSecrets: Avoq LLC Lobbying Firm Profile — Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Avoq LLC Lobbyists — Revolving Door Data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Avoq LLC Issues Lobbied](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Steven Elmendorf Lobbying Profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Wikipedia: Steve Elmendorf](https://en.wikipedia.org/wiki/Steve_Elmendorf) (Tier 3)
 - [Avoq: Official Website](https://teamavoq.com/) (Tier 4)
 - [Avoq: Subject Matter and Kivvit Combine to Create National Powerhouse](https://teamavoq.com/news/subject-matter-and-kivvit-combine-to-create-national-communications-and-advocacy-powerhouse/) (Tier 4)

@@ -45,7 +45,7 @@ The Flex Association was created to prevent the need for another $205 million de
 
 ### Sources
 
-- [OpenSecrets. Uber, Lyft, DoorDash Political Contributions](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2023&id=F325488) (Tier 1)
+- [OpenSecrets. Uber, Lyft, DoorDash Political Contributions](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 
 research-status:: ready — permanent gig lobby est. 2021, Uber/Lyft/DoorDash/Instacart/Grubhub/Shipt founders, $205M Prop 22 pipeline, contractor classification defense, cross-party spending strategy. 2 sources, Tier 1-3. All ### headers. Promoted Session 38m.
 content-readiness:: ready

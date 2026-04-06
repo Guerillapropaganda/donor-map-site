@@ -123,7 +123,7 @@ These don't fit neatly into the tier system — they're tools for specific resea
 | Tool | URL | What It Does | When to Use |
 |------|-----|-------------|-------------|
 | **OpenSecrets Revolving Door** | [opensecrets.org/revolving](https://www.opensecrets.org/revolving/) | Tracks staff movement between government, lobbying, and private sector. | Revolving Door analytical pattern — when documenting staff movement between offices, agencies, and donor industries. |
-| **OpenSecrets Lobbying** | [opensecrets.org/federal-lobbying](https://www.opensecrets.org/federal-lobbying/) | Federal lobbying expenditures and registrations. | Connecting lobbying spending to policy outcomes. Which industries lobby which committees. |
+| **OpenSecrets Lobbying** | [opensecrets.org/federal-lobbying](https://lda.senate.gov/filings/public/filing/search/) | Federal lobbying expenditures and registrations. | Connecting lobbying spending to policy outcomes. Which industries lobby which committees. |
 | **MapLight** | [maplight.org](https://www.maplight.org/) | Money and politics data connections. | Donation-to-vote correlations, industry influence mapping. |
 | **Sunlight Foundation (archived)** | [sunlightfoundation.com](https://sunlightfoundation.com/) | Government transparency tools and data (now archived). | Historical reference for transparency methodology. Some tools still accessible. |
 | **LittleSis** | [littlesis.org](https://littlesis.org/) | Power network mapping — relationships between people, organizations, and institutions. | Mapping donor networks, corporate board interlocks, organizational relationships. Useful for visualizing connections documented in the vault. |

@@ -263,10 +263,10 @@ The PPHC holding company structure adds the final layer: FTP's political access,
 
 ### Sources
 
-- [OpenSecrets: Forbes Tate Partners Lobbying Firm Profile — 2025](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000066687) (Tier 1)
-- [OpenSecrets: Forbes Tate Partners Lobbying Firm Profile — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2024&id=D000066687) (Tier 1)
-- [OpenSecrets: Forbes Tate Partners Lobbyists — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2024&id=D000066687) (Tier 1)
-- [OpenSecrets: Forbes Tate Partners Issues Lobbied — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000066687) (Tier 1)
+- [OpenSecrets: Forbes Tate Partners Lobbying Firm Profile — 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Forbes Tate Partners Lobbying Firm Profile — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Forbes Tate Partners Lobbyists — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Forbes Tate Partners Issues Lobbied — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Forbes Tate Partners: Who We Are](https://forbes-tate.com/who-we-are/) (Tier 3)
 - [Forbes Tate Partners: Jeffrey Forbes Bio](https://forbes-tate.com/member/jeffrey-forbes/) (Tier 3)
 - [Forbes Tate Partners: Dan Tate Bio](https://forbes-tate.com/member/dan-tate/) (Tier 3)

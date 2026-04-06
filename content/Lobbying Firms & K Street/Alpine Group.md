@@ -280,10 +280,10 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 
 ### Sources
 
-- [OpenSecrets: Alpine Group Lobbying Firm Profile — 2025](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000021816) (Tier 1)
-- [OpenSecrets: Alpine Group Lobbying Firm Profile — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2024&id=D000021816) (Tier 1)
-- [OpenSecrets: Alpine Group Lobbyists — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2024&id=D000021816) (Tier 1)
-- [OpenSecrets: Alpine Group Issues Lobbied — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000021816) (Tier 1)
+- [OpenSecrets: Alpine Group Lobbying Firm Profile — 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Alpine Group Lobbying Firm Profile — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Alpine Group Lobbyists — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Alpine Group Issues Lobbied — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Alpine Group Organization Lobbying Profile](https://www.opensecrets.org/orgs/alpine-group/lobbying?id=D000021816) (Tier 1)
 - [The Hill: Lobbying World — Alpine Group Names New CEO](https://thehill.com/lobbying/4898825-lobbying-world-alpine-group-ceo/) (Tier 2)
 - [PPHC: Alpine Group Strengthens Defense and National Security Team with Abbey Overland](https://pphcompany.com/alpine-group-strengthens-defense-and-national-security-team-with-abbey-overland/) (Tier 3)

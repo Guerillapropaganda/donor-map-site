@@ -86,7 +86,7 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 - [OpenSecrets: LCV summary](https://www.opensecrets.org/orgs/league-of-conservation-voters/summary?id=d000000288) (Tier 1)
 - [OpenSecrets: LCV totals](https://www.opensecrets.org/orgs/league-of-conservation-voters/totals?id=d000000288) (Tier 1)
 - [OpenLobby: LCV lobbying](https://www.openlobby.us/clients/league-of-conservation-voters) (Tier 2)
-- [OpenSecrets: LCV lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000480&cycle=2025) (Tier 1)
+- [OpenSecrets: LCV lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Center for Public Integrity: LCV nonprofit profile](https://publicintegrity.org/politics/nonprofit-profile-league-of-conservation-voters-inc/) (Tier 2)
 - [Fox News: LCV dark money funding](https://www.foxnews.com/politics/major-eco-group-saw-large-funding-uptick-fueled-liberal-dark-money-network-best-year-ever) (Tier 3)
 

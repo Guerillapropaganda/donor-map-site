@@ -74,7 +74,7 @@ The pattern: support for reproductive rights (does not threaten financial intere
 ### Sources
 
 - [OpenSecrets: Jeffries campaign finance summary](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
-- [OpenSecrets: Jeffries lobbying contributions](https://www.opensecrets.org/federal-lobbying/top-recipients-details?cycle=2024&id=N00033640) (Tier 1)
+- [OpenSecrets: Jeffries lobbying contributions](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Sludge: House Democrats' anti-progressive PAC funded by corporate lobbyists](https://readsludge.com/2022/02/01/house-democrats-new-anti-progressive-pac-is-funded-by-corporate-lobbyists-and-pacs/) (Tier 2)
 - [Sludge: Jeffries misleads on AIPAC PAC money](https://readsludge.com/2025/11/25/jeffries-misleads-on-aipac-pac-money/) (Tier 2)
 - [OpenSecrets: Party-aligned dark money groups and 2024 super PACs](https://www.opensecrets.org/news/2023/08/party-aligned-groups-funnel-millions-in-dark-money-to-closely-tied-super-pacs-ahead-of-2024-election/) (Tier 1)

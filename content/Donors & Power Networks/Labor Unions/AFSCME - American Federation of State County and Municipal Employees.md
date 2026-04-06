@@ -94,7 +94,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 ### Sources
 
 - [OpenSecrets: Service Employees International Union profile](https://www.opensecrets.org/orgs/american-fedn-of-st-cnty-munic-employees/summary?id=D000000061) (Tier 1)
-- [OpenSecrets: AFSCME organizational profile](https://www.opensecrets.org/federal-lobbying/) (Tier 1)
+- [OpenSecrets: AFSCME organizational profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Supreme Court: Janus v. AFSCME (2018)](https://supreme.justia.com/cases/federal/us/585/16-1466/) (Tier 1)
 
 research-status:: ready — 1.3M members, $21.8M PAC (2024), $145.7M lifetime 98.6% Democratic, Janus v. AFSCME defendant, DOGE threat, CCPOA contrast, Koch two-pronged attack analysis. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.

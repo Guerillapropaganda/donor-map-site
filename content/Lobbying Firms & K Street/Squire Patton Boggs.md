@@ -184,9 +184,9 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 
 ### Sources
 
-- [OpenSecrets: Squire Patton Boggs Lobbying Profile — Summary](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000067299) (Tier 1)
-- [OpenSecrets: Squire Patton Boggs Lobbyists 2023 — Revolving Door Data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2023&id=D000067299) (Tier 1)
-- [OpenSecrets: Squire Patton Boggs Issues Lobbied 2023](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2023&id=D000067299) (Tier 1)
+- [OpenSecrets: Squire Patton Boggs Lobbying Profile — Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Squire Patton Boggs Lobbyists 2023 — Revolving Door Data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Squire Patton Boggs Issues Lobbied 2023](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Bloomberg Law: Trump Defense Secretary Esper Joins Squire Patton Boggs](https://news.bloomberglaw.com/business-and-practice/trump-defense-secretary-esper-joins-squire-patton-boggs) (Tier 2)
 - [The Hill: Lobbying World — DHS assistant secretary jumps to Squire Patton Boggs](https://thehill.com/homenews/4465281-lobbying-world-dhs-assistant-secretary-jumps-to-squire-patton-boggs/) (Tier 2)
 - [Bloomberg Law: Assange Allies Turn to Squire Patton Boggs to Help Lobby DOJ](https://news.bloomberglaw.com/us-law-week/assange-allies-turn-to-squire-patton-boggs-to-help-lobby-doj) (Tier 2)
@@ -199,7 +199,7 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 - [Washington Examiner: Chinese drone maker ramped up lobbying against ban](https://www.washingtonexaminer.com/policy/foreign/chinese-drone-maker-ramped-up-lobbying-ban-drones) (Tier 2)
 - [Bloomberg Law: Trump Defense Secretary Esper Joins Squire Patton Boggs (part-time)](https://news.bloomberglaw.com/business-and-practice/trump-defense-secretary-esper-joins-squire-patton-boggs) (Tier 2)
 - [Canadian Lawyer: Former US Defense Secretary Mark Esper joins Squire Patton Boggs as senior advisor](https://www.canadianlawyermag.com/news/international/former-us-defense-secretary-mark-esper-joins-squire-patton-boggs-as-senior-advisor/388839) (Tier 2)
-- [OpenSecrets: Squire Patton Boggs Lobbying Profile — 2025](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000067299) (Tier 1)
+- [OpenSecrets: Squire Patton Boggs Lobbying Profile — 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Prism Reports: RSS hires U.S. lobbyists for congressional influence campaign (December 2025)](https://prismreports.org/2025/11/12/rss-squire-patton-boggs-lobbying-congress/) (Tier 2)
 - [Prism Reports: RSS ends congressional lobbying campaign in U.S. (January 2026)](https://prismreports.org/2026/01/29/rss-lobbying-terminated/) (Tier 2)
 - [The Washington Post: FCC bans new DJI Chinese drones, citing national security (December 2025)](https://www.washingtonpost.com/national-security/2025/12/23/dji-drone-fcc-ban-national-security/) (Tier 2)

@@ -38,7 +38,7 @@ WSPA's primary political function is fighting California's climate regulations: 
 
 - [Cal-Access: WSPA lobbying filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1)
 - [FPPC: WSPA political expenditures](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [OpenSecrets: Petroleum industry lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2016&id=D000058567) (Tier 1)
+- [OpenSecrets: Petroleum industry lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Ballotpedia: California oil industry politics](https://ballotpedia.org/WSPA_-_Western_States_Petroleum_Association) (Tier 3)
 
 content-readiness:: ready

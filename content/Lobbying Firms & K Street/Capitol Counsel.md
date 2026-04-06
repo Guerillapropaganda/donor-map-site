@@ -220,9 +220,9 @@ The Kott case is the most explicit example of the ideological infrastructure the
 
 ### Sources
 
-- [OpenSecrets: Capitol Counsel Lobbying Profile — $25.4M revenue (2025), 185 clients, firm history](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000032306) (Tier 1)
-- [OpenSecrets: Capitol Counsel Lobbyists 2024 — 38 lobbyists, 28 (73.7%) revolving door, 1 former MoC](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000032306&year=2024) (Tier 1)
-- [OpenSecrets: Capitol Counsel Issues Lobbied 2024 — Health Issues #1 (50 clients), Taxes #2 (46 clients), Fed Budget #3 (41 clients)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000032306) (Tier 1)
+- [OpenSecrets: Capitol Counsel Lobbying Profile — $25.4M revenue (2025), 185 clients, firm history](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Capitol Counsel Lobbyists 2024 — 38 lobbyists, 28 (73.7%) revolving door, 1 former MoC](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Capitol Counsel Issues Lobbied 2024 — Health Issues #1 (50 clients), Taxes #2 (46 clients), Fed Budget #3 (41 clients)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [The Lever: The Manchin Aide Turned Corporate Shill — Kott's path from Manchin staff to pharma/fossil fuel/Fox lobbyist; Big Tent Project Fund dark money detail](https://www.levernews.com/the-manchin-aide-turned-corporate-shill/) (Tier 2)
 - [The Hill: Inside a K Street success story — Raffaelli/McCrery profile; firm founding, growth to $14.7M, bipartisan expansion strategy](https://thehill.com/business-a-lobbying/business-a-lobbying/200517-inside-a-k-street-success-story/) (Tier 2)
 - [Washington Post: Capitol Counsel has shot to top of K Street — firm growth profile, November 2013](https://www.washingtonpost.com/business/capitalbusiness/capitol-counsel-has-shot-to-top-of-k-street/2013/11/22/6fe6dadc-507b-11e3-a7f0-b790929232e1_story.html) (Tier 2)

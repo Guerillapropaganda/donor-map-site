@@ -42,7 +42,7 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 
 ### Sources
 
-- [OpenSecrets: Anthropic lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2025&id=D000106114) (Tier 1)
+- [OpenSecrets: Anthropic lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Anthropic: Responsible scaling policy](https://www.anthropic.com/research) (Tier 2)
 - [Ballotpedia: AI regulation](https://ballotpedia.org/Artificial_intelligence_policy) (Tier 3)
 

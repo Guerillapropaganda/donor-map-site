@@ -122,7 +122,7 @@ Trump administration — deregulatory alignment, inauguration donations
 - [CalMatters: 2026 Uber ballot initiative](https://calmatters.org/category/economy/2026/02/uber-california-ballot-initiatives/) (Tier 2)
 - [ABC7: 2025 unionization bill](https://abc7news.com/post/governor-gavin-newsom-signs-bill-giving-800000-uber-lyft-drivers-california-unionize/17938887/) (Tier 2)
 - [The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/) (Tier 2)
-- [OpenSecrets: Uber federal lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000067336) (Tier 1)
+- [OpenSecrets: Uber federal lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [FPPC: contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 
 research-status:: ready — Full citation pass complete. Prop 22 $59.5M, Innovation PAC $7M+ 2024, Trump inauguration $2M, 2025 unionization bill, 2026 ballot initiative, Flex Association lobby group. 12 sources, Tier 1-2. Sources reformatted from dash to bracket format. Promoted Session 38k.

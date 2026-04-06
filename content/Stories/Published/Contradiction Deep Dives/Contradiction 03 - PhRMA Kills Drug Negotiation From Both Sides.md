@@ -196,7 +196,7 @@ Americans pay 3–4x what Germans, Canadians, Australians pay for identical drug
 ### Sources
 
 ### Tier 1 — Government Records & Official Data
-- [OpenSecrets: PhRMA Lobbying Profile, 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000000504) (Tier 1)
+- [OpenSecrets: PhRMA Lobbying Profile, 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Cory Booker Donor Profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
 - [OpenSecrets: Richard Neal Donor Profile](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
 - [OpenSecrets: Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1)
