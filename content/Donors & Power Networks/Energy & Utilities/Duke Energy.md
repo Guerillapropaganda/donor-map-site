@@ -2,15 +2,11 @@
 title: "Duke Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
-ein: 581586283
-annual-revenue: "$1.1M"
-net-assets: "$6.2M"
-tax-year: "2023"
 ---
 
 #duke-energy #utility #coal-ash #north-carolina #monopoly #rate-base #renewables
@@ -54,15 +50,16 @@ Favorable rate increases from state utility commissions, coal ash cleanup cost r
 
 content-readiness:: ready
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $1.1M |
-| Total Contributions | $0 |
-| Total Expenses | $29.7M |
-| Net Assets | $6.2M |
+---
 
-- [Source: ProPublica Nonprofit Explorer — EIN 581586283](https://projects.propublica.org/nonprofits/organizations/581586283) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F581586283_202312_990PF_2024112522929234.pdf) (Tier 1)
-<!-- auto:propublica-990 end -->
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.3M
+
+| Top Recipient | Amount |
+|---|---|
+| NRCC | $70.0K |
+| NEW DEMOCRAT COALITION ACTION FUND | $52.5K |
+| DCCC | $45.7K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

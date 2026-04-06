@@ -2,7 +2,7 @@
 title: "Eric Schmidt"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-01
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -17,7 +17,6 @@ issues:
   - "Technology"
   - "Defense & Military"
   - "Dark Money & Campaign Finance"
-total-political-spend: "$62,651"
 ---
 
 #donor-node #tech #google #defense #AI #revolving-door #mega-donor #nscai #schmidt-futures #china #dark-money #class-analysis #follow-the-money
@@ -78,7 +77,7 @@ Schmidt is the class function personified: take a government advisory position, 
 During 2021-2022 cycle, Schmidt wired $227,000 in in-kind contributions to STAC Labs — a tech startup he bankrolled through a nonprofit — which provided voter data analysis services to 18 state Democratic parties. This disguises direct donations as "tech infrastructure support."
 
 - [OpenSecrets: Eric Schmidt Donor Lookup 2020](https://www.opensecrets.org/donor-lookup/results?cand=&cycle=2020&employ=&name=Eric+Schmidt&state=&zip=) (Tier 1) (UNVERIFIED)
-- [FEC Individual Contribution Records — Eric Schmidt](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric+Schmidt) (Tier 1)
+- [FEC Individual Contribution Records — Eric Schmidt](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Eric+Schmidt) (Tier 1)
 - [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2)
 
 ---
@@ -195,13 +194,13 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 ### Sources
 
 ### Primary Documents — Tier 1:
-- [FEC Individual Contribution Records — Eric Schmidt](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric+Schmidt) (Tier 1)
+- [FEC Individual Contribution Records — Eric Schmidt](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Eric+Schmidt) (Tier 1)
 - [OpenSecrets Donor Profile — Eric Schmidt](https://www.opensecrets.org/donor-lookup/results?name=eric+schmidt) (Tier 1)
 
 ### Investigative Journalism — Tier 2:
 - [CNBC: Schmidt helped write AI laws without disclosing investments](https://www.cnbc.com/2022/10/24/how-googles-former-ceo-eric-schmidt-helped-write-ai-laws-in-washington-without-publicly-disclosing-investments-in-ai-start-ups.html) (Tier 2)
 - [Tech Transparency Project: Schmidt's Hidden Influence Over US Defense Spending](https://www.techtransparencyproject.org/articles/eric-schmidts-unseen-influence-over-us-defense-spending) (Tier 2)
-- [DefenseScoop: Schmidt-led panel pushing for defense AI experimentation unit](https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-ai-experimentation-unit-to-drive-military-adoption-of-generative-ai/) (Tier 2)
+- [DefenseScoop: Schmidt-led panel pushing for defense AI experimentation unit](https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/) (Tier 2)
 - [Air & Space Forces Magazine: As National AI Panel Shuts Down, New Think Tank Emerges](https://www.airandspaceforces.com/as-national-ai-panel-shuts-down-new-think-tank-emerges-to-continue-its-work/) (Tier 2)
 - [Politico: Ex-Google boss funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160) (Tier 2) (UNVERIFIED)
 - [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2)
@@ -221,7 +220,7 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 ### Revolving Door / Regulatory Capture — Tier 2:
 - [Public Citizen: 75% of FTC Officials Have Revolving Door Conflicts](https://www.citizen.org/news/a-whopping-75-of-ftc-officials-have-revolving-door-conflicts-with-tech-corporations-and-other-industries/) (Tier 2)
 - [The Revolving Door Project: Big Tech](https://therevolvingdoorproject.org/the-industry-agenda-big-tech/) (Tier 2)
-- [The American Prospect: As the Revolving Door Swings](https://prospect.org/power/as-the-revolving-door-swings-big-tech-regulation/) (Tier 2)
+- [The American Prospect: As the Revolving Door Swings](https://prospect.org/2020/07/17/as-the-revolving-door-swings-big-tech-regulation/) (Tier 2)
 
 ### Reference — Tier 3:
 - [Wikipedia: National Security Commission on Artificial Intelligence](https://en.wikipedia.org/wiki/National_Security_Commission_on_Artificial_Intelligence) (Tier 3)
@@ -231,28 +230,18 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 
 research-status:: developed — Comprehensive merge of existing ready profile with deep research expansion. Expanded from 151 to 350+ lines. Fixed type: corporation → donor. New data: Schmidt Futures mechanism (IPA-funded personnel in 10+ Biden agencies including FTC, "Schmidt fellows"), STAC Labs ($227K in-kind to 18 state Democratic parties), China/Hillhouse Capital conflict ($17M in Chinese AI fund while chairing NSCAI, Yitu blacklisted portfolio company), SCSP post-NSCAI succession (same personnel, less oversight, Project 2025 alignment), America's Frontier Fund (public-private vehicle built from NSCAI recommendation), specific FEC donations by cycle and recipient ($8.5M in 2020 including $775K Future Forward, $142K DNC), Biden agency placement list, institutional succession pattern analysis. Downgraded from ready to developed: 8 new UNVERIFIED URLs need Chrome pass. 20+ sources total (2 Tier 1, 12 Tier 2, 3 Tier 3, remainder UNVERIFIED). Gaps: Innovation Endeavors full portfolio mapping, Rebellion Defense contract amounts, Schmidt's role in Google's PRISM/NSA partnership details, 2024-2026 Trump advisory specifics.
 content-readiness:: developed
+---
 
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $62,651 |
-| Contributions | 320 |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Top recipients:**
+**FEC contribution record:** 320 contributions totaling $62.7K
 
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| WINRED | $11,714 | — |
-| GEORGIA FEDERAL ELECTIONS COMMITTEE | $10,000 | DEM |
-| TROY DOWNING FOR CONGRESS | $7,000 | REP |
-| RO FOR CONGRESS INC | $6,600 | DEM |
-| RELATIVITY SPACE POLITICAL ACTION COMMITTEE (RELATIVITY PAC) | $5,000 | — |
-| KEVIN LINCOLN FOR CONGRESS | $3,500 | REP |
-| MONDAIRE FOR CONGRESS | $3,300 | DEM |
-| DSCC | $2,100 | DEM |
-| GUTHRIE FOR CONGRESS | $2,000 | REP |
-| NEXTERA ENERGY, INC. POLITICAL ACTION COMMITTEE | $1,350 | — |
+**ActBlue/WinRed conduit duplicates filtered:** 180
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1)
-<!-- auto:fec-donor end -->
+| Top Recipient | Amount |
+|---|---|
+| WINRED | $11.7K |
+| GEORGIA FEDERAL ELECTIONS COMMITTEE | $10.0K |
+| TROY DOWNING FOR CONGRESS | $7.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

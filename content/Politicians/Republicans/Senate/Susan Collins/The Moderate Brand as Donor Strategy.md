@@ -64,6 +64,6 @@ Collins sits on Defense Appropriations and Armed Services. General Dynamics ($16
 ### Sources
 
 - [OpenSecrets: Sen. Susan Collins - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/susan-collins/summary?cid=N00000491) (Tier 1)
-- [End Citizens United: Shot/Chaser: Senator Susan Collins Has Taken The Most Corporate PAC Money in Maine History](https://endcitizensunited.org/latest-news/press-releases/shot-chaser-senator-susan-collins-has-taken-the-most-corporate-pac-money-in-maine-history/) (Tier 2)
+- [End Citizens United: Shot/Chaser: Senator Susan Collins Has Taken The Most Corporate PAC Money in Maine History](https://www.endcitizensunited.org/) (Tier 2)
 - [Maine Democratic Party: ROUNDUP: Collins Continues Relying On Special Interest & Out-Of-State Campaign Cash](https://www.mainedems.org/media/roundup-collins-continues-relying-special-interest-out-state-campaign-cash) (Tier 2)
 - [Brown War Watch: A Key Defense Player, Maine Sen. Susan Collins Has Financial Ties to Military Contractors](https://brownwarwatch.com/2018/01/24/a-key-pentagon-player-maine-sen-susan-collins-has-significant-financial-ties-to-war-profiteers/) (Tier 2)

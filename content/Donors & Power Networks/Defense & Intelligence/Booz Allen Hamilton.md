@@ -54,3 +54,17 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 - [Ballotpedia: Booz Allen Hamilton](https://ballotpedia.org/Booz_Allen_Hamilton) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 488 contributions totaling $777.3K
+
+| Top Recipient | Amount |
+|---|---|
+| KEN CALVERT FOR CONGRESS COMMITTEE | $28.0K |
+| MIKE ROGERS FOR CONGRESS | $24.5K |
+| FRIENDS OF MARK WARNER | $20.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

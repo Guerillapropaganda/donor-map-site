@@ -126,8 +126,22 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNI
 ### Sources
 
 - [OpenSecrets: UNITE HERE 2024 cycle data](https://www.opensecrets.org/orgs/unite-here/summary?id=D000022292) (Tier 1)
-- [UNITE HERE Local 2: SF hotel strike outcomes](https://unitehere.org/affiliates/local-2-san-francisco-oakland/) (Tier 2)
-- [UNITE HERE Local 11: Wage campaigns and Disney bargaining](https://unitehere.org/affiliates/local-11-los-angeles-long-beach/) (Tier 2)
+- [UNITE HERE Local 2: SF hotel strike outcomes](https://unitehere.org/affiliates/local-2-san-francisco-and-bay-area/) (Tier 2)
+- [UNITE HERE Local 11: Wage campaigns and Disney bargaining](https://unitehere.org/affiliates/local-11-los-angeles-orange-county-arizona2/) (Tier 2)
 
 research-status:: ready — Full citation pass complete. 300K+ members, $5.2M PAC, $11.4M outside spending, Las Vegas Culinary Union model, SF/LA hotel strikes, Disney bargaining, immigrant workforce class analysis, organizing-over-donations model. 6 sources, Tier 1-2. All ### headers. Promoted Session 38k.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $51.7M
+
+| Top Recipient | Amount |
+|---|---|
+| UNITE HERE PAC | $20.9M |
+| WORKERS VOTE | $20.3M |
+| WORKER POWER PAC | $8.6M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

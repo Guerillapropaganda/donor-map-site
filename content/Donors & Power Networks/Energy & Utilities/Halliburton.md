@@ -2,14 +2,11 @@
 title: "Halliburton"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
-federal-awards-total: 4000000
-federal-contracts-count: 0
-federal-grants-count: 1
 ---
 
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
@@ -50,28 +47,23 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 ### Sources
 
 - [OpenSecrets: Halliburton organizational profile](https://www.opensecrets.org/orgs/halliburton-co/summary?id=D000000281) (Tier 1)
-- [EPA: Hydraulic fracturing Safe Drinking Water Act exemption](https://www.epa.gov/uic/hydraulic-fracturing) (Tier 1)
+- [EPA: Hydraulic fracturing Safe Drinking Water Act exemption](https://www.epa.gov/uic/class-ii-oil-and-gas-related-injection-wells) (Tier 1)
 - [Ballotpedia: Halliburton](https://ballotpedia.org/Halliburton) (Tier 3)
 
 content-readiness:: ready
 
-### Federal Spending (USASpending)
-<!-- auto:usaspending start -->
-| Metric | Value |
-|--------|-------|
-| All-Time Federal Awards | $4.0M |
-| Contracts (recent 3yr) | 0 ($0 sampled) |
-| Grants (recent 3yr) | 1 ($4.0M sampled) |
-| Federal Agencies | 1 |
+---
 
-**Top grants:**
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $4.0M | Department of Energy | HALLIBURTON TECHNOLOGY PARTNERS LLC
-CONTROL NUMBER 3387-2463
-VISION OPEN 2024
-TITLE: QUANTUM-ENHANCE |
+**FEC contribution record:** 139 contributions totaling $24.9K
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Halliburton) (Tier 1)
-<!-- auto:usaspending end -->
+**ActBlue/WinRed conduit duplicates filtered:** 161
+
+| Top Recipient | Amount |
+|---|---|
+| COTTON FOR SENATE, INC. | $5.0K |
+| JOHN CURTIS FOR UTAH | $5.0K |
+| WHATLEY FOR SENATE | $5.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -85,4 +85,4 @@ Patel's tax-exempt foundation reveals the political function of "charity" in the
 
 - ABC News: Patel $2.6M consulting income (Tier 2)
 - ABC News: Kash Foundation tax-exempt charity questions (Tier 2)
-- [Senate Judiciary Committee: Patel financial conflicts](https://www.judiciary.senate.gov/hearings) (Tier 1)
+- [Senate Judiciary Committee: Patel financial conflicts](https://www.judiciary.senate.gov/committee-activity/hearings) (Tier 1)

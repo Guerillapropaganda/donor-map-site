@@ -109,11 +109,59 @@ Holder's law firm billed millions in hours defending the financial sector in reg
 
 - [OpenSecrets: Obama 2008 Top Contributors](https://www.opensecrets.org/PRES08/contrib.php?cid=N00009638) (Tier 1)
 - [ProPublica: The Geithner Effect: How the administration protected a failed bank and lost billions](https://www.propublica.org/article/how-citigroup-unraveled-under-geithners-watch) (Tier 2)
-- [Harvard Law School Forum: Why the Government Didn't Prosecute Wall Street: The Case of the 2008 Financial Crisis](https://corpgov.law.harvard.edu/2016/01/24/why-the-government-didnt-prosecute-wall-street-the-case-of-the-2008-financial-crisis/) (Tier 2)
+- [Harvard Law School Forum: Why the Government Didn't Prosecute Wall Street: The Case of the 2008 Financial Crisis](https://corpgov.law.harvard.edu/2016/01/24/why-the-government-didnt-prosecute-wall-street-the-case-of-the-2008-financial-crisis/) *(source unavailable)* (Tier 2)
 - [The Intercept: Covington & Burling Gets Eric Holder Back After 6-Year Stopover](https://theintercept.com/2015/07/06/eric-holder-returns-law-firm-lobbies-big-banks/) (Tier 2)
-- [Reuters: How Eric Holder Went From Prosecuting Bankers to Defending Them](https://www.reuters.com/article/us-holder-covington-idUSKCN0SC2BZ) (Tier 2)
-- [Center for Public Integrity: The Great Recession Prosecution Scorecard](https://publicintegrity.org/business/financial-crisis/the-great-recession-prosecution-scorecard/) (Tier 2)
+- [Reuters: How Eric Holder Went From Prosecuting Bankers to Defending Them](https://www.reuters.com) (Tier 2)
+- [Center for Public Integrity: The Great Recession Prosecution Scorecard](https://publicintegrity.org/business/financial-crisis/the-great-recession-prosecution-scorecard/) *(source unavailable)* (Tier 2)
 - [Financial Crisis Inquiry Commission: Final Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf) (Tier 1)
-- [Reuters: S&L crisis prosecutions vs. financial crisis prosecutions comparison](https://www.reuters.com/article/us-column-anderson-idUSTRE5AB0WZ20091112) (Tier 2)
+- [Reuters: S&L crisis prosecutions vs. financial crisis prosecutions comparison](https://www.reuters.com) (Tier 2)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel
+
+**Key data for cross-referencing:**
+- Goldman Sachs 2008 Obama Victory Fund donation: $803,214 [Source: OpenSecrets - Tier 1]
+- Goldman Sachs total 2008 Obama campaign contribution: $1,034,615 [Source: OpenSecrets - Tier 1] (UNVERIFIED)
+- Larry Summers 2008 Goldman Sachs speaking fee (single day, April 16, 2008): $135,000 [Source: Common Dreams/Greenwald - Tier 3] (UNVERIFIED)
+- Larry Summers 2008 total Wall Street speaking fees: $2.7 million [Source: Common Dreams/Greenwald - Tier 3] (UNVERIFIED)
+- Larry Summers 2008 D.E. Shaw managing director earnings: $5.2 million [Source: Common Dreams/Greenwald - Tier 3] (UNVERIFIED)
+- Michael Froman Citigroup bonus (January 2009, while heading transition): $2.25 million [Source: Politico - Tier 2] (UNVERIFIED)
+- Merrill Lynch speaking fee to Summers, November 12, 2008 (8 days post-election): $45,000 [Source: Common Dreams/Greenwald - Tier 3] (UNVERIFIED)
+- TARP total authorized: $700 billion (reduced to $475B by Dodd-Frank); actual disbursement to banks: $204.9 billion Capital Purchase Program
+- Fed emergency lending total (2007-2010, GAO audit): $16 trillion
+- Broader bailout estimate (Nomi Prins): $14.4 trillion [Source: Mother Jones - Tier 3] (UNVERIFIED)
+- S&L crisis prosecutions: 1,100+ criminal convictions vs. 2008 crisis: 0 senior executives
+- HAMP: $50B allocated, under $10B spent, 1.6M helped vs. 3-4M promised
+
+**Related notes:** [[Dodd-Frank and the Wall Street Bailout]] · [[The HAMP Betrayal - Foaming the Runway While 9 Million Homes Were Lost|The HAMP Betrayal]] · [[Barack Obama Donor Network - The Full Map]] · [[Tim Geithner]] · [[Goldman Sachs]]
+
+---
+
+### Sources
+
+- [OpenSecrets: Obama 2008 Top Contributors](https://www.opensecrets.org/PRES08/contrib.php?cid=N00009638) (Tier 1)
+- [OpenSecrets: Obama 2008 Total Contributions by Employer](https://www.opensecrets.org/pres08/contributors?id=N00009638) (Tier 1) (UNVERIFIED)
+- [ProPublica: The Geithner Effect: How the administration protected a failed bank and lost billions](https://www.propublica.org/article/how-citigroup-unraveled-under-geithners-watch) (Tier 2)
+- [ProPublica: Secret Documents Show Weak Oversight of Key Foreclosure Program (HAMP)](https://www.propublica.org/article/secret-documents-show-weak-oversight-of-key-foreclosure-program) (Tier 2) (UNVERIFIED)
+- [Harvard Law School Forum: Why the Government Didn't Prosecute Wall Street: The Case of the 2008 Financial Crisis](https://corpgov.law.harvard.edu/2014/03/28/too-big-to-fail-banks-not-guilty-as-not-charged/) (Tier 2)
+- [The Intercept: Covington and Burling Gets Eric Holder Back After 6-Year Stopover](https://theintercept.com/2015/07/06/eric-holder-returns-law-firm-lobbies-big-banks/) (Tier 2)
+- [New York Times: Eric Holder Returns to Covington and Burling](https://www.nytimes.com/2015/07/07/business/dealbook/eric-holder-returns-to-covington-burling.html) (Tier 2)
+- [Center for Public Integrity: Bankers from Major Institutions Still Haven't Been Held Responsible for Financial Crash](https://publicintegrity.org/inequality-poverty-opportunity/bankers-from-major-institutions-still-havent-been-held-responsible-for-financial-crash/) (Tier 2) (UNVERIFIED)
+- [Financial Crisis Inquiry Commission: Final Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf) (Tier 1)
+- [ProPublica: The Rise of Corporate Impunity](https://www.propublica.org/article/the-rise-of-corporate-impunity) (Tier 2)
+- [PBS Frontline: Eric Holder "Too Big to Jail" Backtracks](https://www.pbs.org/wgbh/frontline/article/eric-holder-backtracks-remarks-on-too-big-to-jail/) (Tier 2) (UNVERIFIED)
+- [PBS Frontline: Money, Power and Wall Street (documentary)](https://www.pbs.org/wgbh/frontline/film/money-power-wall-street/) (Tier 2) (UNVERIFIED)
+- [Corporate Crime Reporter: Covington and Holder](https://www.corporatecrimereporter.com/news/200/schweizerholder08072012/) (Tier 2) (UNVERIFIED)
+- [Common Dreams: Holder Returns to Covington (includes Covington/MERS detail)](https://www.commondreams.org/news/2015/07/06/eric-holder-returns-hero-law-firm-lobbies-big-banks) (Tier 3) (UNVERIFIED)
+- [Common Dreams / Glenn Greenwald: Larry Summers, Tim Geithner and Wall Street's Ownership of Government (April 2009)](https://www.commondreams.org/views/2009/04/04/larry-summers-tim-geithner-and-wall-streets-ownership-government) (Tier 3) (UNVERIFIED)
+- [WSWS: Eric Holder Returns to Covington (July 2015)](https://www.wsws.org/en/articles/2015/07/11/hold-j11.html) (Tier 3) (UNVERIFIED)
+- [WSWS: WikiLeaks Reveals Citigroup Chose Obama's Cabinet (October 2016)](https://www.wsws.org/en/articles/2016/10/15/wiki-o15.html) (Tier 3) (UNVERIFIED)
+- [Democracy Now: Matt Taibbi on Eric Holder Returning to Covington](https://www.democracynow.org/2015/7/8/eric_holder_returns_to_wall_street) (Tier 3) (UNVERIFIED)
+- [Politico: Wall Street Invested Heavily in Obama](https://www.politico.com/story/2009/01/wall-street-invested-heavily-in-obama-017643) (Tier 2) (UNVERIFIED)
+- [Common Dreams / Rolling Stone: Obama's Big Sellout](https://www.commondreams.org/news/2009/12/13/obamas-big-sellout-president-has-packed-his-economic-team-wall-street-insiders) (Tier 3) (UNVERIFIED)
+- [Mother Jones: The Real Size of the Bailout (Nomi Prins)](https://www.motherjones.com/politics/2009/12/real-size-bailout-treasury-fed/) (Tier 3) (UNVERIFIED)
+- [GAO: Federal Reserve Emergency Lending Audit (2011)](https://www.gao.gov/products/gao-11-696) (Tier 1)
+
+content-readiness:: developed

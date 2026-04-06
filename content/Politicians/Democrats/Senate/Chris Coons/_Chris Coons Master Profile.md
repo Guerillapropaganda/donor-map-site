@@ -2,7 +2,7 @@
 title: "Chris Coons Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,8 +14,6 @@ issues:
   - "Israel & Foreign Policy"
 top-donors:
   - "PhRMA"
-total-received: "$5,285,973"
-fec-candidate-id: "S0DE00092"
 ---
 
 
@@ -121,7 +119,7 @@ Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence i
 - [Jacobin: Sen. Chris Coons's Defense of Vaccine Apartheid Is Obscene](https://jacobin.com/2021/05/senator-chris-coons-vaccine-patent-remarks-csis-cold-war-red-scare) (Tier 2)
 - [OpenSecrets: Coons holds massive financial advantage over progressive challenger](https://www.opensecrets.org/news/2020/09/chris-coons-2020-progressive-challenger/) (Tier 1)
 - [Revolving Door Project: Revolver Spotlight — Chris Coons](https://therevolvingdoorproject.org/revolver-spotlight-chris-coons/) (Tier 2)
-- [The American Prospect: Where's the Congressional Champion on Pharma Patent Abuses?](https://prospect.org/health/wheres-congressional-champion-on-pharma-patent-abuses/) (Tier 2)
+- [The American Prospect: Where's the Congressional Champion on Pharma Patent Abuses?](https://prospect.org/2022/04/25/wheres-congressional-champion-on-pharma-patent-abuses/) (Tier 2)
 - [Techdirt: Senator Chris Coons Says No One Who Has Ever Criticized IP Can Head the Patent Office](https://www.techdirt.com/2021/05/27/senator-chris-coons-says-no-one-who-has-ever-criticized-intellectual-property-can-head-patent-office/) (Tier 2)
 - [ProPublica: Biden's Cozy Relations With Bank Industry](https://www.propublica.org/article/bidens-cozy-relations-with-bank-industry-825) (Tier 2)
 - [TrackAIPAC: Chris Coons — $258,166 from pro-Israel groups](https://www.trackaipac.com/congress) (Tier 2)
@@ -138,37 +136,4 @@ party:: Democrat
 profile-status:: ready
 research-status:: ready
 content-readiness:: ready
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $5,285,973 |
-| Individual Contributions | $2,904,540 |
-| PAC Contributions | $1,697,150 |
-| Cash on Hand | 3878180.56 |
-| IE Support (Super PAC) | $38,300 |
-| IE Opposition (Super PAC) | $315,116 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $5,285,973 | $2,904,540 | $1,697,150 |
-| 2020 | $7,217,773 | $4,402,529 | $2,377,637 |
-| 2014 | $5,829,014 | $3,099,495 | $2,203,797 |
-| 2010 | $4,215,136 | $2,203,886 | $943,322 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $26,000 | $211,184 |
-| FIRST AMENDMENT ALLIANCE | $0 | $82,000 |
-| LET FREEDOM RING INC | $0 | $14,018 |
-| AMERICAN WORKER INC, THE | $7,540 | $0 |
-| THE NATIONAL REPUBLICAN TRUST PAC | $0 | $6,615 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1)
-<!-- auto:fec-politician end -->
+ 

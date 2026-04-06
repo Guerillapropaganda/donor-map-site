@@ -151,7 +151,7 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 ### Sources
 
 - [OpenSecrets: ConocoPhillips PAC contributions by cycle](https://www.opensecrets.org/orgs/conocophillips/totals?id=D000000303) (Tier 1)
-- [OpenSecrets: ConocoPhillips federal lobbying 2002–2024](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000000303) (Tier 1)
+- [OpenSecrets: ConocoPhillips federal lobbying 2002–2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000000303) (Tier 1)
 - [OpenSecrets: ConocoPhillips 2024 recipients](https://www.opensecrets.org/orgs/conocophillips/recipients?id=D000000303) (Tier 1)
 - [OpenSecrets: ConocoPhillips Willow Project lobbying blitz (Q1 2022: $4.6M, FY 2022: $8.68M)](https://www.opensecrets.org/news/2022/05/conocophillips-lobbying-fight-alaskan-oil-project/) (Tier 2)
 - [OpenSecrets: Oil and gas industry $124.4M lobbying 2022](https://www.opensecrets.org/news/2023/02/oil-and-gas-industry-spent-124-4-million-on-federal-lobbying-amid-record-profits-in-2022/) (Tier 2)
@@ -166,3 +166,17 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 
 research-status:: developed — added 13-cycle PAC table (2000–2024, ~$3.74M PAC, ~$19.8M all sources, 82–92% Republican), 15-year federal lobbying table (peak $19.6M 2010 cap-and-trade fight, $8.68M 2022 Willow surge), 2024 top recipients (SLF $2.5M, CLF $2.5M, Alaska delegation $26K-$45K), expanded Willow timeline (discovery 2017, Trump approval/court halt 2020, Q1 2022 $4.6M lobbying push, March 2023 Biden approval, Nov 2023 Phase 1 drilling, Dec 2023 FID, Q4 2025 $2.63M ongoing), Andrew Lundquist full revolving door (Cheney task force director, energy policy director, energy task force architect, $200K/yr starting 2009, $7M+ stock options 2013–2016 as SVP Government Affairs), Arctic/LNG lobbying (NEPA reforms, BLM NPR-A, permitting reform), Marathon Petroleum $22.5B acquisition 2024. 13 sources, Tier 1-2 (3 UNVERIFIED). Format 2 temporal mapping table added (Willow timeline). All ### headers.
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $14.3M
+
+| Top Recipient | Amount |
+|---|---|
+| SENATE LEADERSHIP FUND | $6.0M |
+| CONGRESSIONAL LEADERSHIP FUND | $5.2M |
+| SLF PAC | $1.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

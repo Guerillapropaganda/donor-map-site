@@ -164,7 +164,7 @@ Rachel Maddow represents **the corporate progressive media model** — the highe
 
 ### Sources
 
-- [FEC Individual Contributions: Rachel Maddow (0 results, 2015-2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=rachel+maddow&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Rachel Maddow (0 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=rachel+maddow&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Wikipedia: The Rachel Maddow Show](https://en.wikipedia.org/wiki/The_Rachel_Maddow_Show) (Tier 3)
 - [The Daily Beast: "Inside the Massive MSNBC Deal Paying Rachel Maddow to Work Less"](https://www.thedailybeast.com/inside-the-massive-msnbc-deal-paying-rachel-maddow-to-work-less/) (Tier 2)
 - [TheWrap: "Rachel Maddow Nets $30 Million Annually in New MSNBC Deal" (2024)](https://www.thewrap.com/maddow-deal-30-million-2024/) (Tier 2)

@@ -144,3 +144,19 @@ This is class analysis applied to Democratic power: SMP exists to serve the dono
 content-readiness:: ready
 
 research-status:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 31 contributions totaling $22.7M
+
+**ActBlue/WinRed conduit duplicates filtered:** 469
+
+| Top Recipient | Amount |
+|---|---|
+| WOMEN VOTE! | $12.1M |
+| WOMEN VOTE | $5.9M |
+| RETIRE CAREER POLITICIANS | $3.9M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

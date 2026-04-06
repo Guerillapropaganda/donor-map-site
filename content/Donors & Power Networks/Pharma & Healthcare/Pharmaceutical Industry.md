@@ -166,8 +166,8 @@ The pharmaceutical industry's political operation reveals the most complete exam
 
 ### Sources
 
-- [OpenSecrets: Pharmaceuticals/Health Products industry summary](https://www.opensecrets.org/industries/indus?ind=H04) (Tier 1)
-- [OpenSecrets: Pharmaceuticals/Health Products lobbying profile](https://www.opensecrets.org/federal-lobbying/industries/summary?id=H04) (Tier 1)
+- [OpenSecrets: Pharmaceuticals/Health Products industry summary](https://www.opensecrets.org/industries?ind=H04) (Tier 1)
+- [OpenSecrets: Pharmaceuticals/Health Products lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=H04) (Tier 1)
 - [Congress.gov CRS: Medicare Drug Price Negotiation Under the IRA — Industry Responses](https://www.congress.gov/crs-product/R47872) (Tier 1)
 - [Fierce Pharma: Big Pharma greets hundreds of ex-federal workers at the revolving door](https://www.fiercepharma.com/pharma/big-pharma-greets-hundreds-ex-federal-workers-at-revolving-door) (Tier 2)
 - [The Hill: For Big Pharma, the revolving door keeps spinning](https://thehill.com/blogs/congress-blog/politics/452654-for-big-pharma-the-revolving-door-keeps-spinning/) (Tier 2)
@@ -176,3 +176,17 @@ The pharmaceutical industry's political operation reveals the most complete exam
 - [Wikipedia: Pharmaceutical lobby](https://en.wikipedia.org/wiki/Pharmaceutical_lobby) (Tier 3)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 4 contributions totaling $11.0K
+
+| Top Recipient | Amount |
+|---|---|
+| NRCCC - NON FED ACT | $10.2K |
+| COMMITTEE TO RE-ELECT NYDIA M. VELAZQUEZ TO CONGRESS | $500 |
+| NRSC - NONFEDERAL | $250 |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

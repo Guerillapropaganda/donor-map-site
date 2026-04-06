@@ -99,14 +99,14 @@ The political contributions ($39,000 PAC annually, $550,000 in lobbying) are inv
 
 ### Tier 1 (Primary Data)
 - OpenSecrets Bacardi USA PAC (C00160838) 2024 recipient data: https://www.opensecrets.org/political-action-committees-pacs/bacardi-usa/C00160838/candidate-recipients/2024
-- OpenSecrets Bacardi lobbying expenditure history: https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000042218
-- OpenSecrets Bacardi lobbyist registry 2023: https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2023&id=D000042218
+- OpenSecrets Bacardi lobbying expenditure history: https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000042218
+- OpenSecrets Bacardi lobbyist registry 2023: https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2023&id=D000042218
 
 ### Tier 2 (Secondary Analysis)
 - Progreso Weekly: "The True Origin of the Helms-Burton Act" (CPI documentation of 1998 Section 211 insertion): https://progresoweekly.us/the-true-origin-of-the-helms-burton-act/
 - Council on Hemispheric Affairs: "Otto Reich: A Career in Disservice" (biographical analysis): https://coha.org/otto-reich-a-career-in-disservice/
 - Latin American Studies Association (CRP data): "Exile Lawmakers and Bacardi Contributions": https://latinamericanstudies.org/us-cuba/exile-lawmakers.htm
-- Miami New Times: "Inside the Campaign to Crush Investment in Cuba Under Helms-Burton Act" (Title III activation documentation): https://www.miaminewtimes.com/uncategorized/inside-the-campaign-to-crush-investment-in-cuba-under-helms-burton-act-17727091/
+- Miami New Times: "Inside the Campaign to Crush Investment in Cuba Under Helms-Burton Act" (Title III activation documentation): https://www.miaminewtimes.com/news/inside-the-campaign-to-crush-investment-in-cuba-under-helms-burton-act-17727091/
 - Reuters: "Biden Signs US Law Barring Stolen Cuba-Owned Trademarks" (No Stolen Trademarks Act): https://www.reuters.com/legal/government/biden-signs-us-law-barring-stolen-cuba-owned-trademarks-2024-12-03/
 
 ### Tier 3 (Industry/Tertiary)
@@ -118,3 +118,17 @@ The political contributions ($39,000 PAC annually, $550,000 in lobbying) are inv
 research-status:: completed
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 200 contributions totaling $394.1K
+
+| Top Recipient | Amount |
+|---|---|
+| 2012 TAMPA BAY HOST COMMITTEE INC | $179.3K |
+| MARIO DIAZ-BALART FOR CONGRESS | $20.8K |
+| MENENDEZ FOR SENATE | $15.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

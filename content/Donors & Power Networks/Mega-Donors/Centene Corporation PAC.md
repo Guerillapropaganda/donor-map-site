@@ -148,8 +148,8 @@ Medicaid funding and managed care policy, ACA marketplace rules, Medicare Advant
 
 - [OpenSecrets: Centene Corp profile — summary](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024670) (Tier 1)
 - [OpenSecrets: Centene Corp — recipients](https://www.opensecrets.org/orgs/centene-corp/recipients?id=D000024670) (Tier 1)
-- [OpenSecrets: Centene Corp — lobbying profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000024670) (Tier 1)
-- [FollowTheMoney: Centene Corp state contributions](https://www.followthemoney.org/entity-details?eid=528) (Tier 1)
+- [OpenSecrets: Centene Corp — lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000024670) (Tier 1)
+- [FollowTheMoney: Centene Corp state contributions](https://www.followthemoney.org/tools/election-overview?eid=528) (Tier 1)
 - [KFF Health News: Centene showers politicians with millions as it courts contracts](https://kffhealthnews.org/news/article/centene-political-donations-medicaid-contracts-overbilling-allegations/) (Tier 2)
 - [KFF Health News: Centene settlements with states still unfinished](https://kffhealthnews.org/news/article/centene-settlements-pbms-medicaid-silence-holdouts-georgia-florida/) (Tier 2)
 - [Missouri Independent: Centene showers politicians with millions](https://missouriindependent.com/2022/11/04/centene-showers-politicians-with-millions-as-it-courts-contracts-settles-overbilling-allegations/) (Tier 2)
@@ -157,3 +157,17 @@ Medicaid funding and managed care policy, ACA marketplace rules, Medicare Advant
 - [Fierce Healthcare: Elevance Health, Centene donated to Trump inaugural fund](https://www.fiercehealthcare.com/payers/elevance-health-centene-donated-trump-inaugural-fund) (Tier 2)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.3M
+
+| Top Recipient | Amount |
+|---|---|
+| NRSC | $47.5K |
+| DSCC | $45.0K |
+| NRCC | $45.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

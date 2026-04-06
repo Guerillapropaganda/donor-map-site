@@ -62,7 +62,7 @@ Pelosi's 2020 DCCC rule: "Vendors and consultants who work on behalf of primary 
 
 ### Sources:
 - [CNN: AOC, Omar, Tlaib and Pressley launch joint fundraising committee 'Squad Victory Fund'](https://www.cnn.com/2020/07/01/politics/squad-ocasio-cortez-tlaib-omar-pressley/index.html) (Tier 2)
-- [American Prospect: Democratic Leaders Rake In Corporate Cash as "the Squad" Sticks With Small Donors](https://prospect.org/power/democratic-leaders-rake-corporate-cash-the-squad-sticks-small-donors/) (Tier 2)
+- [American Prospect: Democratic Leaders Rake In Corporate Cash as "the Squad" Sticks With Small Donors](https://prospect.org/2019/07/19/democratic-leaders-rake-corporate-cash-the-squad-sticks-small-donors/) (Tier 2)
 
 ---
 

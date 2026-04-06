@@ -89,3 +89,17 @@ Freedom Partners was the Koch network's central bank — a mechanism for the bil
 
 research-status:: draft — Core financial profile and grant distribution documented from Perplexity research dossier. Gaps: individual donor identities (shielded by 501(c)(6) status), complete grant recipient list, detailed policy-outcome temporal mapping. FEC API data available for super PAC spending; IRS 990 data available via ProPublica for revenue figures.
 content-readiness:: draft
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 29 contributions totaling $807.3K
+
+| Top Recipient | Amount |
+|---|---|
+| FREEDOM PARTNERS ACTION FUND INC | $693.3K |
+| FREEDOM PARTNERS ACTION FUND, INC. | $112.9K |
+| FISCAL LEADERSHIP AND KNOWING ECONOMICS PAC | $1.1K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -152,7 +152,7 @@ El-Sayed's 2018 campaign is instructive for understanding his 2026 strategy and 
 ### Sources
 
 - [Abdul El-Sayed - FEC Candidate Page](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1)
-- [ABDUL EL-SAYED FOR MICHIGAN - FollowTheMoney.org](https://www.followthemoney.org/entity-details?eid=44060467) (Tier 1)
+- [ABDUL EL-SAYED FOR MICHIGAN - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44060467) (Tier 1)
 - [Ready to 'Fight for the Working Class': Sanders Endorses Abdul El-Sayed for US Senate](https://www.commondreams.org/news/abdul-el-sayed) (Tier 2)
 - [Abdul El-Sayed joins race for Michigan's U.S. Senate seat with Bernie Sanders endorsement](https://www.metrotimes.com/news/abdul-el-sayed-joins-race-for-michigans-us-senate-seat-with-bernie-sanders-endorsement-39147339/) (Tier 2)
 - [Washington Post: Ocasio-Cortez adds Michigan to campaign schedule to help Democrat Abdul El-Sayed](https://www.washingtonpost.com/news/powerpost/wp/2018/07/16/ocasio-cortez-adds-michigan-to-campaign-schedule-to-help-democrat-abdul-el-sayed/) (Tier 2)
@@ -163,3 +163,4 @@ El-Sayed's 2018 campaign is instructive for understanding his 2026 strategy and 
 - [Abdul El-Sayed, MD, DPhil - Paul & Daisy Soros Fellowships for New Americans](https://pdsoros.org/fellows/abdul-el-sayed/) (Tier 1)
 
 content-readiness:: ready
+ 

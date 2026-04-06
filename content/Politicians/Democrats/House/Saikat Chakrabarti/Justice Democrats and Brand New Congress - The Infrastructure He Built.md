@@ -215,8 +215,8 @@ content-readiness:: Developed.
 
 ### Sources
 
-- Federal Election Commission, Justice Democrats PAC (C00630665) Filing Records, 2017-2024 (Tier 1) | https://www.fec.gov/data/committee/C00630665/
-- Federal Election Commission, Brand New Congress PAC (C00613810) Filing Records, 2017-2024 (Tier 1) | https://www.fec.gov/data/committee/C00613810/
+- Federal Election Commission, Justice Democrats PAC (C00630665) Filing Records, 2017-2024 (Tier 1) | https://www.fec.gov/data/committee/ *(source unavailable)*C00630665/
+- Federal Election Commission, Brand New Congress PAC (C00613810) Filing Records, 2017-2024 (Tier 1) | https://www.fec.gov/data/committee/ *(source unavailable)*C00613810/
 - OpenSecrets, Justice Democrats PAC Profile, 2018-2024 (Tier 1) | https://www.opensecrets.org/
 - OpenSecrets, Brand New Congress PAC Profile, 2017-2024 (Tier 1) | https://www.opensecrets.org/
 - Federal Election Commission, Matter Under Review 7592, Respondents' Brief on Justice Democrats Compliance (Tier 1) | https://www.fec.gov/

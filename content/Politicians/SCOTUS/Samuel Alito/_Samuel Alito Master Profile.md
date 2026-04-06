@@ -119,8 +119,8 @@ content-readiness:: ready
 
 ### Sources
 
-- [Senate Judiciary Committee: Samuel Alito Confirmation Hearings (2006)](https://www.judiciary.senate.gov/meetings/hearing-on-the-nomination-of-samuel-a-alito-jr) (Tier 1)
-- [Supreme Court: Justice Alito Official Financial Disclosure](https://www.supremecourt.gov/about/justices-associate-justices.aspx) (Tier 1)
+- [Senate Judiciary Committee: Samuel Alito Confirmation Hearings (2006)](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1)
+- [Supreme Court: Justice Alito Official Financial Disclosure](https://www.supremecourt.gov/errors/PageNotFound.aspx?aspxerrorpath=/about/justices-associate-justices.aspx) (Tier 1)
 - [ProPublica: Alito Took Unreported Luxury Trip With GOP Donor Paul Singer](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court) (Tier 2)
 - [PBS News: Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip from GOP donor](https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor) (Tier 2)
 - [The Nation: Matchmaker Leonard Leo Helps Unite Billionaires With Supreme Court Justices](https://www.thenation.com/article/politics/leo-alito-court-curruption/) (Tier 2)
@@ -128,3 +128,4 @@ content-readiness:: ready
 - [True North Research: Five Facts about Rob Arkley, Funder of Luxury Travel for Supreme Court Justices](https://truenorthresearch.org/2023/11/five-facts-about-rob-arkley-funder-of-luxury-travel-for-supreme-court-justices-and-groups-packing-the-court/) (Tier 2)
 - [E&E News/Politico: Supreme Court steps up recusal checks after Alito near-miss in Louisiana oil case](https://www.eenews.net/articles/supreme-court-steps-up-recusal-checks-after-alito-near-miss-in-louisiana-oil-case/) (Tier 2)
 - [Washington Post: Martha-Ann Alito told The Post in 2021 that flag was 'signal of distress'](https://www.washingtonpost.com/politics/2024/05/25/alito-flag-martha-ann-washington-post/) (Tier 2)
+ 

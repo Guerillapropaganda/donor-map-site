@@ -135,7 +135,7 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 - [Congress.gov: Zoe Lofgren](https://www.congress.gov/member/zoe-lofgren/L000397) (Tier 1)
 - [House.gov: Lofgren biography](https://lofgren.house.gov/about) (Tier 1)
 - [House Science Committee Democrats: RM Lofgren](https://democrats-science.house.gov/news/press-releases/ranking-member-lofgrens-statement-on-being-selected-to-continue-leading-science-committee-democrats) (Tier 1)
-- [American Prospect: Zoe Lofgren — The Democratic Holdout on Big Tech Legislation](https://prospect.org/power/zoe-lofgren-democratic-holdout-big-tech-legislation/) (Tier 2)
+- [American Prospect: Zoe Lofgren — The Democratic Holdout on Big Tech Legislation](https://prospect.org/2021/07/01/zoe-lofgren-democratic-holdout-big-tech-legislation/) (Tier 2)
 - [KQED: Silicon Valley lawmaker seeks to shorten path to citizenship for immigrant tech workers](https://www.kqed.org/news/11885260/silicon-valley-lawmaker-seeks-to-shorten-path-to-citizenship-for-immigrant-tech-workers) (Tier 2)
 - [CNN: Silicon Valley lawmaker introduces H-1B reform bill](https://money.cnn.com/2017/01/25/technology/h1b-visa-reform-bill-zoe-lofgren/index.html) (Tier 2)
 - [San Francisco Inquirer: Big Tech backs Lofgren to protect its monopoly](https://sfinquirer.com/2023/12/29/will-big-techs-backing-of-zoe-lofgren-secure-the-18th-district-or-will-latinos-turnout/) (Tier 2)

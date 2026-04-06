@@ -111,6 +111,6 @@ The revolving door between CAP and Democratic administrations reveals **structur
 - [IRS Form 990: Center for American Progress (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Center%20for%20American%20Progress&city=&state=All+States&country=US) (Tier 1)
 - [The Nation: The Secret Donors Behind the Center for American Progress](https://www.thenation.com/article/archive/secret-donors-behind-center-american-progress-and-other-think-tanks-updated-524/) (Tier 2)
 - [Salon: Center for American Progress and revolving door politics](https://www.salon.com/2017/12/05/how-center-for-american-progress-became-a-corporate-think-tank/) (Tier 3)
-- [The American Prospect: CAP's role in Democratic strategy](https://prospect.org/power/center-for-american-progress-corporate-influence/) (Tier 3)
+- [The American Prospect: CAP's role in Democratic strategy](https://prospect.org/2023/07/11/2023-07-11-gunning-for-more-va-privatization/) (Tier 3)
 
 content-readiness:: ready

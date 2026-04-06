@@ -2,7 +2,7 @@
 title: "Apple"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -10,10 +10,6 @@ entity-type: "Corporation"
 issues:
   - "Technology"
   - "Antitrust & Monopoly"
-ein: 870911755
-annual-revenue: "$8.9M"
-net-assets: "$61.9M"
-tax-year: "2023"
 ---
 
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy
@@ -69,7 +65,7 @@ Apple occupies a unique position: a corporation that extracts value through cons
 
 - [OpenSecrets: Apple Inc organizational profile](https://www.opensecrets.org/orgs/apple-inc/summary?id=D000021754) (Tier 1)
 - [OpenSecrets: Apple Inc lobbying expenditures](https://www.opensecrets.org/orgs/apple-inc/lobbying?id=D000021754) (Tier 1)
-- [DOJ: United States v. Apple Inc. antitrust complaint (2024)](https://www.justice.gov/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets) (Tier 1)
+- [DOJ: United States v. Apple Inc. antitrust complaint (2024)](https://www.justice.gov/archives/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets) (Tier 1)
 - [SEC: Apple 10-K filing — offshore cash and repatriation](https://www.sec.gov/cgi-bin/browse-edgar?company=apple&CIK=&type=10-K) (Tier 1)
 - [Washington Post: Senators want to rein in Apple and Google's app store dominance](https://www.washingtonpost.com/technology/2021/08/11/apple-google-senators-app-store-conflict/) (Tier 2)
 - [The Verge: Apple right-to-repair reversal and self-service repair pricing](https://www.theverge.com/apple-self-service-repair-pricing/) (Tier 2)
@@ -77,15 +73,16 @@ Apple occupies a unique position: a corporation that extracts value through cons
 
 content-readiness:: ready
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $8.9M |
-| Total Contributions | $7.5M |
-| Investment Income | $1.4M |
-| Total Expenses | $693 |
-| Net Assets | $61.9M |
+---
 
-- [Source: ProPublica Nonprofit Explorer — EIN 870911755](https://projects.propublica.org/nonprofits/organizations/870911755) (Tier 1)
-<!-- auto:propublica-990 end -->
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 100 contributions totaling $4.6K
+
+| Top Recipient | Amount |
+|---|---|
+| FEDERAL EXPRESS POLITICAL ACTION COMMITTEE | $935 |
+| FPL PAC FLORIDA POWER & LIGHT CO EMPLOYEES POLITICAL ACTION COMMITTEE | $898 |
+| CONVERGYS CORPORATION POLITICAL ACTION COMMITTEE | $592 |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

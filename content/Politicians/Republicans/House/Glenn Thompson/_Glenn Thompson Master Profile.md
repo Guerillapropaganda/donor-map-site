@@ -151,7 +151,7 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 - [CNN: GOP congressman attends gay son's wedding after opposing marriage protections](https://www.cnn.com/2022/07/25/politics/glenn-thompson-attends-gay-sons-wedding-after-opposing-protections/index.html) (Tier 2)
 - [Common Dreams: GOP Farm Bill Full of Industry-Backed Poison Pills](https://www.commondreams.org/news/farm-bill-2026) (Tier 2)
 - [Food and Environment Reporting Network: Glenn Thompson](https://thefern.org/ag_tag/glenn-thompson/) (Tier 2)
-- [Ballotpedia: Glenn Thompson](https://ballotpedia.org/Glenn_Thompson_%28Pennsylvania%29) (Tier 3)
+- [Ballotpedia: Glenn Thompson](https://ballotpedia.org/Glenn_Thompson_(Pennsylvania)) (Tier 3)
 - [Wikipedia: Glenn Thompson](https://en.wikipedia.org/wiki/Glenn_Thompson_%28politician%29) (Tier 3)
 
 content-readiness:: ready

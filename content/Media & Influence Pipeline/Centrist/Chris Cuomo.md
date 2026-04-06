@@ -148,7 +148,7 @@ Chris Cuomo represents the **corporate media carousel** — the mechanism by whi
 
 ### Sources
 
-- [FEC Individual Contributions: Christopher Cuomo, NY (2 results — likely different person, Westchester County employee)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=cuomo%2C+christopher&contributor_state=NY&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Christopher Cuomo, NY (2 results — likely different person, Westchester County employee)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=cuomo%2C+christopher&contributor_state=NY&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Wikipedia: Chris Cuomo](https://en.wikipedia.org/wiki/Chris_Cuomo) (Tier 3)
 - [CNN: "CNN Fires Chris Cuomo" (Dec 4, 2021)](https://www.cnn.com/2021/12/04/media/cnn-fires-chris-cuomo) (Tier 2)
 - [NPR: "Chris Cuomo, Newly Fired from CNN, Faces an Allegation of Sexual Misconduct" (Dec 5, 2021)](https://www.npr.org/2021/12/05/1061639233/chris-cuomo-newly-fired-from-cnn-faces-an-allegation-of-sexual-misconduct) (Tier 2)

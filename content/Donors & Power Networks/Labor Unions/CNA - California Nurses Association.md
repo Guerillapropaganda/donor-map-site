@@ -137,7 +137,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: CNA
 - [National Nurses United: CalCare campaign page](https://www.nationalnursesunited.org/term/campaigns/calcare) (Tier 2)
 - [National Nurses United: Official endorsements](https://www.nationalnursesunited.org/nnu-endorsements) (Tier 2)
 - [National Nurses United: Kaiser strike coverage](https://www.nationalnursesunited.org/state/california) (Tier 2)
-- [California Legislature: AB 1400 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202120220AB1400) (Tier 2)
+- [California Legislature: AB 1400 bill history](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202120220AB1400) (Tier 2)
 - [Physicians for a National Health Program: AB 1400 analysis](https://pnhp.org/news/california-single-payer-legislation-ab-1400/) (Tier 2)
 - [National Nurses United: Healthcare research and advocacy](https://www.nationalnursesunited.org/) (Tier 2)
 

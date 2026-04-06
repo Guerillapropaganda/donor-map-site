@@ -107,9 +107,9 @@ Education — charter school expansion, school funding formula, district account
 
 ### Sources
 
-- [CalMatters: What 'Governor Dad' did this year for CA kids — charter school legislation](https://calmatters.org/education/k-12-education/2019/10/charter-schools-california-legislation-newsom-start-time-teacher-maternity-leave-bonds/) (Tier 2)
+- [CalMatters: What 'Governor Dad' did this year for CA kids — charter school legislation](https://calmatters.org/category/education/k-12-education/2019/10/charter-schools-california-legislation-newsom-start-time-teacher-maternity-leave-bonds/) (Tier 2)
 - [Network for Public Education: Charter funding impact](https://networkforpubliceducation.org/?s=California%20Charter%20Schools%20Association) (Tier 2)
-- [LA Times: AB 1507 veto and CCSA position](https://www.latimes.com/california/story/2019-10-13/newsom-vetoes-charter-school-geographic-restriction-bill) (Tier 2)
+- [LA Times: AB 1507 veto and CCSA position](https://www.latimes.com/california/story/2019-10-13/newsom-vetoes-charter-school-geographic-restriction-bill) *(source unavailable)* (Tier 2)
 
 research-status:: ready — 1,300 charter schools, 650K students, Walton/Broad/Hastings/Gates funders, AB 1505/AB 1507 legislative outcomes, class analysis of privatization mechanism. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready

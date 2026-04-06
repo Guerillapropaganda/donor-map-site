@@ -73,10 +73,10 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 
 - [OpenSecrets: Bank of America organizational profile](https://www.opensecrets.org/orgs/bank-of-america/summary?id=D000000090) (Tier 1)
 - [FEC: Bank of America PAC filings](https://www.fec.gov/data/committee/C00040998/) (Tier 1)
-- [Department of Justice: Bank of America $16.65 billion settlement](https://www.justice.gov/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement) (Tier 1)
-- [TARP: Bank of America bailout records](https://www.treasury.gov/initiatives/financial-stability/TARP-Programs/bank-investment-programs/Pages/default.aspx) (Tier 1)
+- [Department of Justice: Bank of America $16.65 billion settlement](https://www.justice.gov/archives/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading) (Tier 1)
+- [TARP: Bank of America bailout records](https://home.treasury.gov/data/troubled-asset-relief-program) (Tier 1)
 - [OpenSecrets: Bank of America lobbying expenditures](https://www.opensecrets.org/orgs/bank-of-america/lobbying?id=D000000090) (Tier 1)
-- [Reuters: Bank of America reduces overdraft fees ahead of CFPB action](https://www.reuters.com/business/finance/bank-america-overdraft-fees-2022/) (Tier 2)
+- [Reuters: Bank of America reduces overdraft fees ahead of CFPB action](https://www.reuters.com/business/finance/bank-america-reduce-overdraft-fees-this-spring-2022-01-11/) (Tier 2)
 - [Ballotpedia: Bank of America political spending](https://ballotpedia.org/Bank_of_America) (Tier 3)
 
 content-readiness:: ready

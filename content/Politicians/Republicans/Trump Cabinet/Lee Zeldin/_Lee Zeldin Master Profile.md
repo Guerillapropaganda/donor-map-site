@@ -2,7 +2,7 @@
 title: "Lee Zeldin Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 party: "Republican"
@@ -16,8 +16,6 @@ top-donors:
 govtrack-id: 412646
 bills-sponsored: 0
 bills-cosponsored: 0
-total-received: "$781,455"
-fec-candidate-id: "H8NY01148"
 ---
 
 
@@ -123,7 +121,7 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 4,487 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412646) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/lee_zeldin/412646) (Tier 1)
 
 <!-- auto:govtrack end -->
 
@@ -135,40 +133,5 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 - [Rolling Stone: Zeldin paid op-eds and secret clients](https://www.rollingstone.com/politics/politics-news/lee-zeldin-trump-epa-op-eds-1235233073/) (Tier 2)
 - [CREW: Energy interests supporting Zeldin](https://www.citizensforethics.org/reports-investigations/crew-investigations/report-suggests-energy-interests-sought-to-secretly-support-epa-administrators-campaign/) (Tier 2)
 - [DeSmog: Tim Dunn fracking billionaire backing Zeldin](https://www.desmog.com/2024/11/13/trump-epa-pick-lee-zeldin-backed-by-texas-fracking-billionaire-tim-dunn/) (Tier 2)
-- [FEC: Lee Zeldin contribution records](https://www.fec.gov/data/receipts/?_contributors=zeldin,+lee) (Tier 1)
+- [FEC: Lee Zeldin contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=zeldin,+lee) (Tier 1)
 content-readiness:: ready
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2022 |
-| Total Raised | $781,455 |
-| Individual Contributions | $339,961 |
-| PAC Contributions | $73,000 |
-| Cash on Hand | 13214.39 |
-| IE Support (Super PAC) | $734,100 |
-| IE Opposition (Super PAC) | $19,233,116 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2022 | $781,455 | $339,961 | $73,000 |
-| 2020 | $8,429,429 | $3,628,540 | $1,542,119 |
-| 2018 | $4,485,879 | $2,083,375 | $1,172,689 |
-| 2016 | $4,412,495 | $2,419,651 | $1,302,267 |
-| 2014 | $1,861,022 | $1,301,206 | $364,683 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| HOUSE MAJORITY PAC | $0 | $5,683,910 |
-| 314 ACTION FUND | $0 | $4,263,616 |
-| AMERICANS FOR COMMON SENSE (AFCS) | $0 | $3,160,436 |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $0 | $3,039,289 |
-| DCCC | $0 | $2,185,865 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY01148/) (Tier 1)
-<!-- auto:fec-politician end -->

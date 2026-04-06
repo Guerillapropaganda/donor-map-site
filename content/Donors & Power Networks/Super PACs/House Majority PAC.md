@@ -149,7 +149,7 @@ This is the structural problem of Democratic House politics: labor provides cons
 - [FEC: House Majority PAC Filings](https://www.fec.gov/data/committee/C00495028/) (Tier 1)
 - [FactCheck.org: House Majority PAC](https://www.factcheck.org/2024/04/house-majority-pac-7/) (Tier 2)
 - [Axios: Jeffries Super PAC 2026 Strategy](https://www.axios.com/2024/12/13/jeffries-2026-elections-republican-seats) (Tier 2)
-- [Roll Call: House Democratic Super PAC California Investment](https://rollcall.com/2023/04/11/house-democrats-main-super-pac-putting-35-million-into-california/) (Tier 2)
+- [Roll Call: House Democratic Super PAC California Investment](https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/) (Tier 2)
 - [National Review: House Majority PAC Working Class Outreach 2026](https://www.nationalreview.com/corner/house-democrats-main-super-pac-dedicates-50-million-to-working-class-voter-outreach-in-2026/) (Tier 3)
 - [NOTUS: Super PAC Encroaching on DCCC Territory](https://www.notus.org/2026-election/dccc-super-pac-campaigns) (Tier 2)
 
@@ -158,3 +158,19 @@ This is the structural problem of Democratic House politics: labor provides cons
 content-readiness:: ready
 
 research-status:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 110 contributions totaling $10.0M
+
+**ActBlue/WinRed conduit duplicates filtered:** 390
+
+| Top Recipient | Amount |
+|---|---|
+| VOTE ALASKA BEFORE PARTY | $8.5M |
+| EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND) | $569.3K |
+| LCV VICTORY FUND | $435.2K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

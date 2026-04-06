@@ -30,9 +30,9 @@ WLFI is not a business in any conventional sense — it has no revenue model ind
 
 Co-founded with Steve Witkoff, who simultaneously serves as Trump's top Middle East envoy — creating a structural conflict where the man negotiating with foreign governments on behalf of the United States has a direct financial stake in a venture those same governments are investing in.
 
-- [ABC News: Trump family profits from launch of World Liberty Financial crypto token](https://abcnews.go.com/US/trump-family-profits-launch-world-liberty-financial-crypto/story?id=125179318) (Tier 2)
+- [ABC News: Trump family profits from launch of World Liberty Financial crypto token](https://abcnews.com/US/trump-family-profits-launch-world-liberty-financial-crypto/story?id=125179318?id=125179318) (Tier 2)
 - [CBS News: Trump family's net worth has increased by $2.9 billion thanks to crypto](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/) (Tier 2)
-- [Wikipedia: World Liberty Financial](https://en.m.wikipedia.org/wiki/World_Liberty_Financial) (Tier 3)
+- [Wikipedia: World Liberty Financial](https://en.wikipedia.org/wiki/World_Liberty_Financial) (Tier 3)
 
 ---
 
@@ -96,7 +96,7 @@ The regulatory environment that benefits WLFI was not purchased through donation
 
 **Emoluments challenge:** Legal experts have described the UAE deal as a potential violation of the Emoluments Clause, which prohibits foreign government payments to U.S. officials without congressional consent. No consent was sought. No enforcement action has occurred.
 
-- [CoinDesk: House probe targets WLFI after report of $500M UAE stake](https://www.coindesk.com/policy/2026/02/05/house-probe-targets-wlfi-after-report-of-usd500-million-uae-stake) (Tier 2)
+- [CoinDesk: House probe targets WLFI after report of $500M UAE stake](https://www.coindesk.com/policy2026/02/05/house-probe-targets-wlfi-after-report-of-usd500-million-uae-stake) (Tier 2)
 - [ABC News: White House faces questions over UAE royal's investment in Trump crypto firm](https://abcnews.com/Politics/white-house-faces-questions-uae-royals-investment-trump/story?id=129774262) (Tier 2)
 
 ---
@@ -147,14 +147,14 @@ Pattern flags: **Donor-Class Override** (foreign government payment directly pur
 - [Common Dreams: 'Corruption on a Breathtaking Level'](https://www.commondreams.org/news/trump-uae-crypto-investment) (Tier 2)
 
 ### Investigations:
-- [CoinDesk: House probe targets WLFI after report of $500M UAE stake](https://www.coindesk.com/policy/2026/02/05/house-probe-targets-wlfi-after-report-of-usd500-million-uae-stake) (Tier 2)
+- [CoinDesk: House probe targets WLFI after report of $500M UAE stake](https://www.coindesk.com/policy2026/02/05/house-probe-targets-wlfi-after-report-of-usd500-million-uae-stake) (Tier 2)
 - [ABC News: White House faces questions over UAE royal's investment](https://abcnews.com/Politics/white-house-faces-questions-uae-royals-investment-trump/story?id=129774262) (Tier 2)
 
 ### Company Profile:
-- [ABC News: Trump family profits from World Liberty Financial crypto token](https://abcnews.go.com/US/trump-family-profits-launch-world-liberty-financial-crypto/story?id=125179318) (Tier 2)
+- [ABC News: Trump family profits from World Liberty Financial crypto token](https://abcnews.com/US/trump-family-profits-launch-world-liberty-financial-crypto/story?id=125179318?id=125179318) (Tier 2)
 - [CBS News: Trump family's net worth has increased by $2.9 billion thanks to crypto](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/) (Tier 2)
 - [Washington Post: Trump promotes meme coin, raising ethics issues as value soars](https://www.washingtonpost.com/politics/2025/01/19/trump-meme-coin-crypto/) (Tier 2)
-- [Wikipedia: World Liberty Financial](https://en.m.wikipedia.org/wiki/World_Liberty_Financial) (Tier 3)
+- [Wikipedia: World Liberty Financial](https://en.wikipedia.org/wiki/World_Liberty_Financial) (Tier 3)
 
 ---
 

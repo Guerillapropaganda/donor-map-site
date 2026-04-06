@@ -49,3 +49,19 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 - [Ballotpedia: Starbucks labor practices](https://ballotpedia.org/Starbucks) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 15 contributions totaling $70.5K
+
+**ActBlue/WinRed conduit duplicates filtered:** 5
+
+| Top Recipient | Amount |
+|---|---|
+| 170 FREEDOM MILWAUKEE 2024 HOST COMMITTEE INC | $38.0K |
+| DEVELOPMENT NOW FOR CHICAGO | $26.9K |
+| FRIENDS OF JOE LIEBERMAN | $3.8K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

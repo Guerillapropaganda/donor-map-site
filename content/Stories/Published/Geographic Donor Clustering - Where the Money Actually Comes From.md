@@ -177,13 +177,13 @@ The politicians who violate this pattern are revealing:
 - [The Hill: Why a Few Dozen Zip Codes Dominate Political Giving](https://thehill.com/opinion/campaign/592517-why-a-few-dozen-zip-codes-dominate-political-giving/) (Tier 2)
 
 ### Zip Code Concentration Studies:
-- [OpenSecrets: Top Zip Codes Contributing Money](https://www.opensecrets.org/elections-overview/totals-by-zip-code) (Tier 1)
+- [OpenSecrets: Top Zip Codes Contributing Money](https://www.opensecrets.org/elections-overview) (Tier 1)
 - [Issue One: Outsized Influence - 12 Political Megadonors Responsible for $3.4 Billion](https://issueone.org/articles/outsized-influence-12-political-megadonors-are-responsible-for-1-of-every-13-in-federal-elections-since-citizens-united-and-25-of-all-giving-from-the-top-100-zip-codes-a-total-of-3-4-bil/) (Tier 2)
 - [Public Citizen: Study - One-Fourth of Maxed-Out Campaign Contributions Come from the Richest 1% of Zip Codes](https://www.citizen.org/news/study-one-fourth-of-maxed-out-campaign-contributions-come-from-the-richest-1-of-zip-codes/) (Tier 2)
 - [Common Dreams: Just 12 Super-Rich Donors Spent $3.4 Billion to Sway US Elections Since 2009](https://www.commondreams.org/news/2021/04/20/just-12-super-rich-donors-spent-34-billion-sway-us-elections-2009-study) (Tier 3)
 
 ### Demographic Analysis of Donor Geography:
-- [Democracy NC: Color of Money - Charlotte Named North Carolina's Political Money Center](https://democracync.org/research/charlotte-named-north-carolinas-political-money-center-shows-need-campaign-reform) (Tier 2)
+- [Democracy NC: Color of Money - Charlotte Named North Carolina's Political Money Center](https://democracync.org/research/charlotte-named-north-carolinas-political-money-center-color-money-shows-need-campaign-reform/-center-color-money-shows-need-campaign-reform/) (Tier 2)
 
 ---
 

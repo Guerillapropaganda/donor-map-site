@@ -222,7 +222,7 @@ Warren is the vault's case study in the limits of individual resistance within a
 - [Consumer Financial Protection Bureau: CFPB History and Impact](https://www.consumerfinance.gov/about-us/) (Tier 1)
 - [Consumer Financial Protection Bureau: Consumer Relief Data](https://www.consumerfinance.gov/about-us/newsroom/cfpb-ordered-return-about-21-billion-in-relief-to-consumers/) (Tier 1)
 - [Boston Globe: CFPB Shutdown — Elizabeth Warren Fights to Save Agency She Conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2)
-- [CoinDesk: Crypto PAC Fairshake Claims Another Win Against Elizabeth Warren Ally](https://www.coindesk.com/policy/2024/08/07/crypto-pac-fairshake-claims-another-win-against-elizabeth-warren-ally-with-bush-loss) (Tier 2)
+- [CoinDesk: Crypto PAC Fairshake Claims Another Win Against Elizabeth Warren Ally](https://www.coindesk.com/policy2024/08/07/crypto-pac-fairshake-claims-another-win-against-elizabeth-warren-ally-with-bush-loss) (Tier 2)
 - [Boston Globe: As Crypto Industry Looks to Widen Influence, Elizabeth Warren Emerges as Target](https://www.bostonglobe.com/2024/03/15/metro/elizabeth-warren-reelection-crypto-industry/) (Tier 2)
 
 ---
@@ -312,5 +312,4 @@ Warren's small-dollar base has remained remarkably consistent in profile and siz
 office:: U.S. Senator
 state:: Massachusetts
 party:: Democrat
-profile-status:: ready — CFPB creation and destruction arc documented, small-dollar funding model analyzed ($9.04M/96% individual), Fairshake opposition ($195M+, Porter destroyed), M4A retreat, four analytical patterns applied, donor base consistency table (2012-2024), class analysis as "exception that proves the rule." All ### headers, Tier 1 sources (OpenSecrets, FEC, CFPB, Congress.gov). Promoted to ready Session 38h.
-content-readiness:: ready
+profile-status:: ready — CFPB creation and destruction arc documented, small-dollar funding model analyzed ($9.04M/96% individual), Fairshake opposition ($195M+, Porter destroyed), M4A retreat, four analytical patterns applied, donor base consistency table (2012-2024), class analysis as "exception that proves the rule." All ### headers, Tier 1 sources (OpenSecrets, FEC, CFPB, Congress.g

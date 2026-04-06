@@ -82,3 +82,16 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 - [Ballotpedia: Auto industry political spending](https://ballotpedia.org/General_Motors) (Tier 3)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $3.1M
+
+| Top Recipient | Amount |
+|---|---|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $1.5M |
+| HMP | $100.0K |
+| DSCC | $60.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -38,7 +38,7 @@ The petrochemical industry's geographic concentration along the Mississippi Rive
 
 ### Sources
 
-- [OpenSecrets: Chemical industry lobbying](https://www.opensecrets.org/industries/indus?ind=E1500) (Tier 1)
+- [OpenSecrets: Chemical industry lobbying](https://www.opensecrets.org/industries?ind=E1500) (Tier 1)
 - [EPA: Toxics Release Inventory - Louisiana](https://www.epa.gov/toxics-release-inventory-tri-program) (Tier 1)
 - [Ballotpedia: Petrochemical industry regulation](https://ballotpedia.org/Petrochemical_Industry_Bloc) (Tier 3)
 

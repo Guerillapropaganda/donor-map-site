@@ -2,7 +2,7 @@
 title: "Goldman Sachs"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -13,7 +13,6 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
 total-political-spend: "$2,326,690"
-federal-contracts: "716"
 ---
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor
@@ -38,7 +37,7 @@ In 2024, Goldman gave $451,000 to federal candidates directly through its PAC, p
 
 [Goldman Sachs PAC Donors — OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/c00350744/donors/2024) (Tier 1)
 
-[Goldman Sachs Lobbying Profile — OpenSecrets](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000085) (Tier 1)
+[Goldman Sachs Lobbying Profile — OpenSecrets](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000085) (Tier 1)
 
 ### What They Want
 
@@ -180,35 +179,10 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 - [Goldman Sachs Profile: Summary — OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085) (Tier 1)
 - [Goldman Sachs Profile: Totals — OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085) (Tier 1)
 - [Goldman Sachs PAC Donors — OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/c00350744/donors/2024) (Tier 1)
-- [Goldman Sachs Lobbying Profile — OpenSecrets](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000085) (Tier 1)
+- [Goldman Sachs Lobbying Profile — OpenSecrets](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000085) (Tier 1)
 - [Goldman Sachs PAC Finance Summary 2025–2026 — BeautifyData](https://beautifydata.com/us-campaign-donations/2025-2026/pac-summary/the-goldman-sachs-group-inc-political-action-committee) (Tier 3)
 - [U.S. banks' IPOs and political money contributions — ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1572308922000808) (Tier 2)
 - [Goldman Sachs Keeps Its Wallet Closed to Politicians, Parties — Bloomberg](https://www.bloomberg.com/news/articles/2021-07-08/goldman-sachs-keeps-its-wallet-closed-to-politicians-parties) (Tier 2)
 - [THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE — FEC.gov](https://www.fec.gov/data/committee/C00350744/?tab=summary) (Tier 1)
 
-research-status:: ready — Full citation pass complete. $39M career political contributions, revolving door (Paulson, Cohn, Mnuchin, Rubin), bipartisan regulatory capture model, derivatives deregulation pipeline, TARP bailout, carried interest protection. 9 sources, Tier 1-2 verified. All ### headers. Promoted Session 38j.
-content-readiness:: ready
-
-### Federal Contracts
-<!-- auto:sam-contracts start -->
-| Metric | Value |
-|--------|-------|
-| Total Contracts Found | 716 |
-| Sample Value (top 25) | $278K |
-| Year Range | 2008-2020 |
-| Federal Agencies | 3 |
-
-**Contracting agencies:** INTERIOR, DEPARTMENT OF THE, PENSION BENEFIT GUARANTY CORPORATION, SOCIAL SECURITY ADMINISTRATION
-
-**Recent contracts:**
-
-| Amount | Agency | Date |
-|--------|--------|------|
-| $51K | SOCIAL SECURITY ADMINISTRATION | 2014-09-30 |
-| $11K | SOCIAL SECURITY ADMINISTRATION | 2017-06-30 |
-| $0 | PENSION BENEFIT GUARANTY CORPORATION | 2008-10-31 |
-| $0 | PENSION BENEFIT GUARANTY CORPORATION | 2011-04-08 |
-| $0 | PENSION BENEFIT GUARANTY CORPORATION | 2009-09-10 |
-
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Goldman%20Sachs&page=1&index=opp) (Tier 1)
-<!-- auto:sam-contracts end -->
+research-status:: ready — Full citation pass complete. $39M career political contributions, revolving door (Paulson, Cohn, Mnuchin, Rubin), bipartisan regulatory capture model, derivatives deregulation pipeline, TARP bailout, carried interest protection. 9 sources, Tier 1-2 verified. All ### headers. Promoted S

@@ -177,7 +177,7 @@ The two policies are ideologically compatible (strong state power against immigr
 
 - [Texas Tribune: Texas has spent $11 billion on border security. Is it working?](https://www.texastribune.org/2024/04/22/texas-border-migrant-apprehensions-abbott-operation-lone-star/) (Tier 2)
 - [Wikipedia: Operation Lone Star overview](https://en.wikipedia.org/wiki/Operation_Lone_Star) (Tier 3)
-- [Al Jazeera: Operation Lone Star all you need to know](https://www.aljazeera.com/news/2023/8/9/operation-lone-star-all-you-need-to-know-about-operation-lone-star) (Tier 2)
+- [Al Jazeera: Operation Lone Star all you need to know](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint) (Tier 2)
 - [National Immigration Forum: Operation Lone Star as logistical and political operation](https://forumtogether.org/article/operation-lone-star-texass-logistical-and-political-fireball/) (Tier 2)
 - [Texas Tribune: Migrant apprehensions down at Texas border - effectiveness analysis](https://www.texastribune.org/2024/04/22/texas-border-migrant-apprehensions-abbott-operation-lone-star/) (Tier 2)
 - [Texas Tribune: Timothy Mellon Texas border wall funding](https://www.texastribune.org/2021/10/06/timothy-mellon-texas-border-wall/) (Tier 2)

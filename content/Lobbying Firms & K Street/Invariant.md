@@ -194,9 +194,9 @@ Invariant's Palantir portfolio crystallizes this. As progressive constituents de
 
 ### Sources
 
-- [OpenSecrets: Invariant LLC Lobbying Profile 2024](https://www.opensecrets.org/federal-lobbying/firms/summary?cycle=2024&id=D000034396) (Tier 1)
-- [OpenSecrets: Invariant LLC Lobbying Profile 2025](https://www.opensecrets.org/federal-lobbying/firms/summary?cycle=2025&id=D000034396) (Tier 1)
-- [OpenSecrets: Invariant LLC Lobbyists 2024 — Revolving Door data](https://www.opensecrets.org/federal-lobbying/firms/lobbyists?cycle=2024&id=D000034396) (Tier 1)
+- [OpenSecrets: Invariant LLC Lobbying Profile 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2024&id=D000034396) (Tier 1)
+- [OpenSecrets: Invariant LLC Lobbying Profile 2025](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000034396) (Tier 1)
+- [OpenSecrets: Invariant LLC Lobbyists 2024 — Revolving Door data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2024&id=D000034396) (Tier 1)
 - [OpenSecrets: Paul Arcangeli Revolving Door Profile](https://www.opensecrets.org/revolving-door/summary?id=84071) (Tier 1)
 - [OpenSecrets: Revolving Door Lobbyists Help Defense Contractors in 2023](https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/) (Tier 1)
 - [Sludge: DCCC Rakes in Millions From Palantir Lobbyists as Protests Target ICE Surveillance Tools](https://readsludge.com/2026/02/25/dccc-rakes-in-millions-from-palantir-lobbyists-as-protests-target-the-companys-ice-surveillance-tools/) (Tier 2)

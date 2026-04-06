@@ -142,9 +142,9 @@ This is the structural choice point: Biden could have pushed back against Sinema
 
 ### Sources
 
-- [OpenSecrets: Biden 2020 campaign top contributors by industry](https://www.opensecrets.org/2020-presidential-race/joe-biden/contributors?id=N00001669) (Tier 1)
-- [KFF: Explaining the Prescription Drug Provisions in the Inflation Reduction Act](https://www.kff.org/medicare/issue-brief/explaining-the-prescription-drug-provisions-in-the-inflation-reduction-act/) (Tier 2)
-- [Centers for Medicare & Medicaid: Initial Drugs Selected for Negotiation](https://www.cms.gov/newsroom/fact-sheets/historic-medicare-drug-price-negotiation) (Tier 1)
+- [OpenSecrets: Biden 2020 campaign top contributors by industry](https://www.opensecrets.org/2020-presidential-race?id=N00001669) (Tier 1)
+- [KFF: Explaining the Prescription Drug Provisions in the Inflation Reduction Act](https://www.kff.org/medicare/explaining-the-prescription-drug-provisions-in-the-inflation-reduction-act/) (Tier 2)
+- [Centers for Medicare & Medicaid: Initial Drugs Selected for Negotiation](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program/selected-drugs-negotiated-prices) (Tier 1)
 - [The Intercept: Biden Administration Adds Insulin to Drug Price Negotiation List](https://theintercept.com/2023/08/29/insulin-medicare-drug-price-negotiation/) (Tier 2)
 - [Sanders proposal: Medicare for All drug pricing framework](https://www.sanders.senate.gov/healthcare) (Tier 2)
 - [Bloomberg: Sinema demands watered-down drug pricing language](https://www.bloomberg.com/news/articles/2022-08-01/sinema-demands-weaker-drug-pricing-in-inflation-reduction-act) (Tier 2)

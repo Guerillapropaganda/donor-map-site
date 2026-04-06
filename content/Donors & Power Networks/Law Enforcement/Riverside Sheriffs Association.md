@@ -2,17 +2,13 @@
 title: "Riverside Sheriffs Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-23
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Chad Bianco"
-ein: 956203844
-annual-revenue: "$4.8M"
-net-assets: "$5.8M"
-tax-year: "2023"
 ---
 
 
@@ -133,7 +129,7 @@ Criminal Justice — structural parallel to CCPOA as law enforcement union block
 - [Press Enterprise: 95% RSA funding of Bianco 2018](https://www.pressenterprise.com/2018/05/01/95-of-chad-biancos-campaign-donations-come-from-a-single-public-sector-union/) (Tier 2)
 - [Press Enterprise: RSA $554,000 to Bianco](https://www.pressenterprise.com/2018/02/19/riverside-county-sheriff-candidate-chad-bianco-gets-554000-from-union/) (Tier 2)
 - [Press Enterprise: RSA rips into Sniff](https://www.pressenterprise.com/2015/08/14/riverside-county-union-rips-into-sheriff/) (Tier 2)
-- [Press Enterprise: RSA body camera lawsuit](https://www.pe.com/2015/01/28/riverside-county-sheriff8217s-union-sues-to-stop-body-camera-use/) (Tier 2)
+- [Press Enterprise: RSA body camera lawsuit](https://web.archive.org/web/2015/https:/www.pe.com/2015/01/28/riverside-county-sheriff8217s-union-sues-to-stop-body-camera-use/) (Tier 2)
 - [Press Enterprise: supervisor donor data](https://www.pressenterprise.com/2024/02/21/whos-giving-the-most-money-to-riverside-county-supervisor-candidates/) (Tier 2)
 - [Press Enterprise: RSA supervisor donations 2016–2024](https://www.pressenterprise.com/2025/09/05/how-much-is-this-union-giving-to-riverside-county-supervisors/) (Tier 2)
 - [RSA official site: civilian oversight opposition](https://www.rcdsa.org/about/rcdsa-news/response-to-call-for-riverside-county-police-review-commission) (Tier 4 — union's own statement) (Tier 2)
@@ -148,18 +144,3 @@ Criminal Justice — structural parallel to CCPOA as law enforcement union block
 
 research-status:: ready — Full citation pass complete. RSA $850K+/95% of Bianco 2018 funding, $600K+ supervisor donations, body camera lawsuit, $100M+ misconduct settlements, jail death trends (101→63), Bianco governor race $1.64M, civilian oversight opposition. 15 sources, Tier 1-2. Sources reformatted to bracket format. Promoted Session 38k.
 content-readiness:: ready
-
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $4.8M |
-| Total Contributions | $0 |
-| Program Service Revenue | $3.1M |
-| Investment Income | $31K |
-| Total Expenses | $5.0M |
-| Net Assets | $5.8M |
-| Officer Compensation | $565K |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 956203844](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1)
-<!-- auto:propublica-990 end -->

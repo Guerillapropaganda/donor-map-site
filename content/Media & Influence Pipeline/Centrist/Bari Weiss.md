@@ -153,7 +153,7 @@ Bari Weiss represents the most structurally complete case of Independence Theate
 
 ### Sources
 
-- [FEC Individual Contributions: Bari Weiss (0 results for CA and NY)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=bari+weiss&contributor_state=CA&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Bari Weiss (0 results for CA and NY)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=bari+weiss&contributor_state=CA&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Wikipedia: Bari Weiss](https://en.wikipedia.org/wiki/Bari_Weiss) (Tier 3)
 - [Wikipedia: The Free Press (Paramount Skydance)](https://en.wikipedia.org/wiki/The_Free_Press_(Paramount_Skydance)) (Tier 3)
 - [Bari Weiss: NYT Resignation Letter (July 14, 2020)](https://www.bariweiss.com/resignation-letter) (Tier 1)

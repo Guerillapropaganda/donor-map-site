@@ -169,7 +169,7 @@ Dan Bongino represents **the media-to-government revolving door as content strat
 ### Sources
 
 - [SEC: Schedule 13G — Daniel John Bongino, Rumble Inc. Beneficial Ownership (Sep 16, 2022)](https://www.sec.gov/Archives/edgar/data/1830081/000121390022059250/ea166367-13gbongino_rumble.htm) (Tier 1)
-- [FEC Individual Contributions: Dan Bongino (15 results, 2015-2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=dan+bongino&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Dan Bongino (15 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dan+bongino&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Rumble Corp Blog: "Rumble Secures Exclusive Video and Live Streaming Rights for The Dan Bongino Show" (Jan 12, 2026)](https://corp.rumble.com/blog/rumble-secures-exclusive-video-and-live-streaming-rights-for-the-dan-bongino-show/) (Tier 1)
 - [NBC News: "FBI Deputy Director Dan Bongino Says He Will Step Down in January" (Dec 17, 2025)](https://www.nbcnews.com/politics/trump-administration/fbi-deputy-director-dan-bongino-leave-post-january-rcna249789) (Tier 2)
 - [Axios: "Trump on Bongino FBI Exit: He 'Wants to Go Back to His Show'" (Dec 17, 2025)](https://www.axios.com/2025/12/17/dan-bongino-tenure-fbi-trump-show) (Tier 2)

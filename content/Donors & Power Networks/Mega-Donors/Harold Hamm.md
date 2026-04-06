@@ -161,7 +161,7 @@ Hamm's wealth and power illustrate how extraction industries structure themselve
 - [CNBC — Trump Would Get US to Energy Independence in About 6 Years: Advisor Harold Hamm](https://www.cnbc.com/2016/10/21/trump-would-get-us-to-energy-independence-in-about-6-years-advisor-harold-hamm.html) (Tier 2)
 
 ### Oil Export Ban & Energy Policy:
-- [StateImpact Oklahoma — The Oklahoma Oil Billionaire Shaping Donald Trump's Bid to Win on Energy Issues](https://stateimpact.npr.org/oklahoma/2016/08/25/the-oklahoma-oil-billionaire-shaping-donald-trump-bid-to-win-on-energy-issues/) (Tier 2)
+- [StateImpact Oklahoma — The Oklahoma Oil Billionaire Shaping Donald Trump's Bid to Win on Energy Issues](https://www.kgou.org/energy/2016-08-25/the-oklahoma-oil-billionaire-shaping-donald-trumps-bid-to-win-on-energy-issues) (Tier 2)
 - [E&E News/POLITICO — Export Ban Supports Foreign Interests, Hamm Says](https://www.eenews.net/articles/export-ban-supports-foreign-interests-hamm-says/) (Tier 2)
 - [EcoWatch — Meet the Oil Billionaire Shaping Donald Trump's Energy Policy](https://www.ecowatch.com/harold-hamm-oil-billionaire-shaping-donald-trump-energy-policy-1935709726.html) (Tier 2)
 
@@ -170,7 +170,7 @@ Hamm's wealth and power illustrate how extraction industries structure themselve
 - [Climate Criminals — Harold Hamm](https://www.climatecriminals.org/harold-hamm/) (Tier 2)
 
 ### Divorce Settlement:
-- [ABC News — Oil Tycoon Harold Hamm's Ex-Wife Sue Ann Arnall Cashes $975M Check](https://abcnews.go.com/Business/wife-spurned-975-million-settlement-check-change-heart/story?id=28109894) (Tier 2)
+- [ABC News — Oil Tycoon Harold Hamm's Ex-Wife Sue Ann Arnall Cashes $975M Check](https://abcnews.com/Business/wife-spurned-975-million-settlement-check-change-heart/story?id=28109894?id=28109894) (Tier 2)
 - [Fortune — Court Dismisses Appeal in $1 Billion Divorce of Oil Executive Harold Hamm](https://fortune.com/2015/04/28/oil-exec-harold-hamm-1-billion-divorce-appeal/) (Tier 2)
 
 ### Trump Advisor Role & Energy Secretary Consideration:
@@ -184,3 +184,19 @@ Hamm's wealth and power illustrate how extraction industries structure themselve
 
 research-status:: ready — Full citation pass complete. $18.5B net worth, 68% Continental ownership, $1.6M+ 2024 Trump donations, DEPA export ban victory (2015), $500M+ compliance savings, Mar-a-Lago fundraiser, Oklahoma Senate appointment request (March 2026). 18 sources, Tier 1-2. All ### headers, callout block fixed. Promoted Session 38j.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 392 contributions totaling $3.2M
+
+**ActBlue/WinRed conduit duplicates filtered:** 108
+
+| Top Recipient | Amount |
+|---|---|
+| MAKE AMERICA GREAT AGAIN INC. | $1.2M |
+| TRUMP 47 COMMITTEE, INC. | $664.0K |
+| REPUBLICAN NATIONAL COMMITTEE | $413.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

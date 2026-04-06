@@ -2,7 +2,7 @@
 title: "Barack Obama Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,22 @@ state-abbr: "IL"
 issues:
   - "Wall Street & Finance"
   - "Technology"
+  - "Silicon Valley"
+  - "Surveillance"
+  - "Housing"
+  - "Foreign Policy"
+  - "Defense"
+  - "Climate"
+  - "Education"
+  - "Pharmaceutical"
+  - "Infrastructure"
+  - "Civil Rights"
+  - "Post-Presidency Monetization"
+  - "Labor"
+  - "Trade"
+  - "Immigration"
+  - "DACA"
+  - "Deportation"
 top-donors:
   - "Goldman Sachs"
   - "Insurance Industry"
@@ -19,15 +35,12 @@ top-donors:
   - "JPMorgan Chase"
   - "Google"
   - "Apple"
-govtrack-id: 400629
-bills-sponsored: 0
-bills-cosponsored: 0
 ---
 
 
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 
-related: [[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Google]] · [[Apple]] · [[Tim Geithner]] · [[Larry Summers]] · Gene Sperling · [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth Group - Optum]] · [[Democracy Alliance]] · [[Organizing for Action]] · [[Barack Obama Donor Network - The Full Map]] · [[Barack Obama Executive Orders Timeline]] · [[Term 1 vs Term 2 - Obama Comparison]] · [[The Deportation Machine - Obama to Biden and the Apparatus Trump Inherited]] · [[DACA and the Limits of Executive Action]] · [[Dodd-Frank and the Wall Street Bailout]] · [[ACA and the Insurance Industry Negotiation]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]]
+related: [[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Google]] · [[Apple]] · [[Tim Geithner]] · [[Larry Summers]] · Gene Sperling · [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth Group - Optum]] · [[Democracy Alliance]] · [[Organizing for Action]] · [[Barack Obama Donor Network - The Full Map]] · [[Barack Obama Executive Orders Timeline]] · [[Term 1 vs Term 2 - Obama Comparison]] · [[The Deportation Machine - Obama to Biden and the Apparatus Trump Inherited]] · [[DACA and the Limits of Executive Action]] · [[Dodd-Frank and the Wall Street Bailout]] · [[ACA and the Insurance Industry Negotiation]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The HAMP Betrayal - Foaming the Runway While 9 Million Homes Were Lost]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[The Drone Presidency - Seven Countries Bombed and the Peace Prize Paradox]] · [[The All of the Above Betrayal - Climate Rhetoric, Record Oil Production, and Who Funded Both|Climate: All of the Above Betrayal]] · [[Race to the Top - Charter Mandates, Hedge Fund Reformers, and the Union Coalition Obama Broke|Education: Race to the Top]] · [[The PhRMA Deal - Obama Ran Against Billy Tauzin Then Governed With Him|Pharmaceutical: The PhRMA Deal]] · [[The Shovel-Ready Betrayal - ARRA Infrastructure, the Solyndra Donor Scandal, and Eight Years at D+|Infrastructure: The Shovel-Ready Betrayal]] · [[The Civil Rights Ceiling - Marriage Equality, Mass Incarceration, and the First Step Act Obama Never Took|Civil Rights: The Ceiling]]
 
 donors: [[Goldman Sachs]], Silicon Valley Tech Sector, [[Insurance Industry]], [[Pharmaceutical Industry]], [[JPMorgan Chase]], [[Google]], [[Apple]]
 
@@ -228,7 +241,7 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 - [CNN: Goldman Sachs was top Obama donor](https://www.cnn.com/2010/POLITICS/04/20/obama.goldman.donations/index.html) (Tier 2)
 - [Common Dreams: Obama's Big Sellout — The President has Packed His Economic Team with Wall Street Insiders](https://www.commondreams.org/news/2009/12/13/obamas-big-sellout-president-has-packed-his-economic-team-wall-street-insiders) (Tier 3)
 - [PolitiFact: Barack Obama got many campaign contributions from Goldman Sachs](https://www.politifact.com/factchecks/2009/sep/25/michael-moore/barack-obama-goldman-sachs-campaign-contributions/) (Tier 2)
-- [The Intercept: Google's Remarkably Close Relationship With the Obama White House](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house/) (Tier 2)
+- [The Intercept: Google's Remarkably Close Relationship With the Obama White House](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/) (Tier 2)
 - [Campaign for Accountability: Google's Extraordinary Access to Obama](https://campaignforaccountability.org/googles-extraordinary-access-to-obama-revealed-as-white-house-visitor-logs-show-427-meetings-between-company-and-administration-officials/) (Tier 2)
 - [Sunlight Foundation: The Legacy of Billy Tauzin: The White House-PhRMA Deal](https://sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin-the-white-house-phrma-deal/) (Tier 2)
 - [PBS Frontline: Obama's Deal Chronology](https://www.pbs.org/wgbh/pages/frontline/obamasdeal/etc/cron.html) (Tier 2)
@@ -240,14 +253,4 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 
 profile-status:: ready
 content-readiness:: ready
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 1,300 |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400629) (Tier 1)
-<!-- auto:govtrack end -->
+ 

@@ -34,3 +34,17 @@ Anthem PAC's contribution pattern is aggressively bipartisan: the PAC funds comm
 - [Ballotpedia: Health insurance PACs](https://ballotpedia.org/Anthem_PAC) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.3M
+
+| Top Recipient | Amount |
+|---|---|
+| NEW DEMOCRAT COALITION ACTION FUND | $262.5K |
+| NRCC | $30.0K |
+| NEW YORK STATE DEMOCRATIC COMMITTEE | $25.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -2,7 +2,7 @@
 title: "Raphael Warnock Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,8 +12,6 @@ state-abbr: "GA"
 top-donors:
   - "Tech and Media Donors"
   - "Healthcare Sector"
-total-received: "$6,047,785"
-fec-candidate-id: "S0GA00559"
 ---
 
 
@@ -214,36 +212,3 @@ This is the corporate-democrat template: use moral authority language ("everyone
 - [Ebenezer Baptist Church: Our Pastor - Raphael Warnock](https://www.ebenezeratl.org/our-pastor/) (Tier 1)
 - [Senator Warnock Official Website: About The Senator](https://www.warnock.senate.gov/about/) (Tier 1)
 content-readiness:: ready
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2028 |
-| Total Raised | $6,047,785 |
-| Individual Contributions | $2,739,191 |
-| PAC Contributions | $129,317 |
-| Cash on Hand | 3766043.86 |
-| IE Support (Super PAC) | $26,428,956 |
-| IE Opposition (Super PAC) | $226,876,185 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2028 | $6,047,785 | $2,739,191 | $129,317 |
-| 2022 | $206,593,948 | $98,860,194 | $2,128,484 |
-| 2020 | $125,359,128 | $57,386,035 | $714,327 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| AMERICAN CROSSROADS | $0 | $77,735,210 |
-| SENATE LEADERSHIP FUND | $0 | $77,261,714 |
-| PEACHTREE PAC | $0 | $28,361,919 |
-| NRSC | $0 | $23,545,584 |
-| WORKER POWER PAC FOR GEORGIA | $8,030,000 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
-<!-- auto:fec-politician end -->

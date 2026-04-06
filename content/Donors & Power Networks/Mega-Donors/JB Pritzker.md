@@ -2,7 +2,7 @@
 title: "JB Pritzker"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-26
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -13,10 +13,6 @@ politicians-funded:
   - "Gretchen Whitmer"
 issues:
   - "Dark Money & Campaign Finance"
-ein: 300039820
-annual-revenue: "$4.2M"
-net-assets: "$148.4M"
-tax-year: "2023"
 ---
 
 #jb-pritzker #illinois #hyatt #billionaire #self-funder #democratic #governor #mega-donor #dark-money #2028 #think-big-america #dga #class-analysis
@@ -150,15 +146,18 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 research-status:: developed — Full self-funding history across 2018/2022/2026 campaigns. DGA $24M maneuver documented. Think Big America dark money operation sourced. Toilet tax scandal sourced. Class analysis complete with Self-Funding as Independence, Dark Money Symmetry, and Genuine Win + Structural Limit patterns flagged. Gaps: individual Pritzker family trust/offshore structure documentation needs primary source (IRS/court records); Hyatt heat lamp incident needs primary source citation; Pritzker Organization and Pritzker Group PAC breakdown from OpenSecrets not yet incorporated; 2022 campaign finance totals need FEC primary source citation.
 content-readiness:: developed
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $4.2M |
-| Total Contributions | $0 |
-| Total Expenses | $56.9M |
-| Net Assets | $148.4M |
+---
 
-- [Source: ProPublica Nonprofit Explorer — EIN 300039820](https://projects.propublica.org/nonprofits/organizations/300039820) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F300039820_202312_990PF_2024112522929848.pdf) (Tier 1)
-<!-- auto:propublica-990 end -->
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 47 contributions totaling $4.6M
+
+**ActBlue/WinRed conduit duplicates filtered:** 5
+
+| Top Recipient | Amount |
+|---|---|
+| DEVELOPMENT NOW FOR CHICAGO | $2.7M |
+| HOUSE MAJORITY PAC | $1.8M |
+| AMERICANS UNITED IN SUPPORT OF DEMOCRACY | $35.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

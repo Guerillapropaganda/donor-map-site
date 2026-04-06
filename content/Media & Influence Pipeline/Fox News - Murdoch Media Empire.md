@@ -130,7 +130,7 @@ The fundamental difference between Fox News and traditional political spending: 
 ### Sources
 
 - [OpenSecrets: News Corp/Fox political spending](https://www.opensecrets.org/orgs/news-corp/summary?id=D000000227) (Tier 1)
-- [FEC: Fox Corporation political contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_employer=Fox+Corporation) (Tier 1)
+- [FEC: Fox Corporation political contributions](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_employer=Fox+Corporation) (Tier 1)
 - [Ballotpedia: Fox News](https://ballotpedia.org/Fox_News) (Tier 3)
 - [Wikipedia: Fox News](https://en.wikipedia.org/wiki/Fox_News) (Tier 3)
 - [Wikipedia: Dominion Voting Systems v. Fox News Network](https://en.wikipedia.org/wiki/Dominion_Voting_Systems_v._Fox_News_Network) (Tier 3)
@@ -139,7 +139,7 @@ The fundamental difference between Fox News and traditional political spending: 
 - [CNN Business: Smartmatic accuses Fox, Rupert Murdoch of destroying evidence](https://www.cnn.com/2025/05/14/media/smartmatic-accuses-fox-news-rupert-murdoch-destroying-evidence) (Tier 2)
 - [Rolling Stone: How Roger Ailes Built the Fox News Fear Factory](https://www.rollingstone.com/politics/politics-news/how-roger-ailes-built-the-fox-news-fear-factory-244652/) (Tier 2)
 - [Fortune: As Rupert Murdoch retires, a look into succession drama](https://fortune.com/2023/09/22/rupert-murdoch-retiring-lachlan-james-fox-news-corp-succession-drama/) (Tier 2)
-- [Harvard Shorenstein Center: News Coverage of the 2016 General Election](https://shorensteincenter.org/news-coverage-2016-general-election/) (Tier 2)
+- [Harvard Shorenstein Center: News Coverage of the 2016 General Election](https://shorensteincenter.org/resource/news-coverage-2016-general-election/) (Tier 2)
 
 ---
 

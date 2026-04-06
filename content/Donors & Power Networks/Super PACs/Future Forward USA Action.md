@@ -86,3 +86,17 @@ This isn't whataboutism. It's the donor-first thesis applied consistently: both 
 content-readiness:: ready
 
 research-status:: ready — Promoted Session 39.
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 79 contributions totaling $347.6M
+
+| Top Recipient | Amount |
+|---|---|
+| FF PAC | $344.4M |
+| DEVELOPMENT NOW FOR CHICAGO | $3.0M |
+| FUTURE FORWARD USA PAC | $96.3K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -112,3 +112,17 @@ Preserve America does not operate in isolation. It coordinates with:
 
 research-status:: ready — Miriam Adelson personal super PAC, $106M 2024 Trump, $215M+ lifetime, Israel policy conditioning, casino deregulation, $92M battleground ads, billionaire veto analysis. 8 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 10 contributions totaling $1.2M
+
+| Top Recipient | Amount |
+|---|---|
+| MAGA KY | $750.0K |
+| VETS4VETS INC. | $204.8K |
+| NEW REPUBLICAN PAC | $200.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

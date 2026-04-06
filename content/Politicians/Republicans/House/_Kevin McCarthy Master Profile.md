@@ -212,18 +212,18 @@ McCarthy was the answer to the question: what does a successful donor-servant lo
 ### Sources
 
 - [OpenSecrets: Kevin McCarthy donor profile](https://www.opensecrets.org/members-of-congress/kevin-mccarthy/summary?cid=N00004185) (Tier 1)
-- [OpenSecrets: Oil and gas contributions to McCarthy by cycle](https://www.opensecrets.org/industries/indus.php?ind=E01&recipdetail=Y&mem=Y&sort=A&cycle=2022) (Tier 1)
+- [OpenSecrets: Oil and gas contributions to McCarthy by cycle](https://www.opensecrets.org/industries?ind=E01&recipdetail=Y&mem=Y&sort=A&cycle=2022) (Tier 1)
 - [FEC: McCarthy for Congress Committee filings](https://www.fec.gov/data/committee/C00420935/) (Tier 1)
 - [FEC: Congressional Leadership Fund SuperPAC filings](https://www.fec.gov/data/committee/C00573519/) (Tier 1)
 - [Politico: McCarthy's debt ceiling deal includes fossil fuel giveaways](https://www.politico.com/news/2023/05/26/how-kevin-mccarthy-got-fossil-fuel-provisions-into-debt-deal) (Tier 2)
-- [E&E News: McCarthy's oil industry backing documented](https://www.eenews.net/articles/mccarthy-gets-most-oil-gas-money-of-any-house-member/) (Tier 2)
-- [The Guardian: McCarthy's energy industry connections](https://www.theguardian.com/us-news/2023/jun/15/kevin-mccarthy-fossil-fuel-speaker-debt-deal) (Tier 2)
-- [Environmental Working Group: Debt ceiling fossil fuel provisions breakdown](https://www.ewg.org/news-insights/news/2023/05/debt-ceiling-deal-bails-out-fossil-fuels) (Tier 2)
-- [CNN: McCarthy ousted as Speaker after 269 days](https://www.cnn.com/politics/news/kevin-mccarty-motion-vacate) (Tier 2)
+- [E&E News: McCarthy's oil industry backing documented](https://www.eenews.net/articles/mccarthy-gets-most-oil-gas-money-of-any-house-member/) *(source unavailable)* (Tier 2)
+- [The Guardian: McCarthy's energy industry connections](https://www.theguardian.com/us-news/2023/jun/15/kevin-mccarthy-fossil-fuel-speaker-debt-deal) *(source unavailable)* (Tier 2)
+- [Environmental Working Group: Debt ceiling fossil fuel provisions breakdown](https://www.ewg.org/news-insights/news/2023/05/debt-ceiling-deal-bails-out-fossil-fuels) *(source unavailable)* (Tier 2)
+- [CNN: McCarthy ousted as Speaker after 269 days](https://web.archive.org/web/2023/https:/www.cnn.com/politics/news/kevin-mccarty-motion-vacate) (Tier 2)
 - [Washington Post: McCarthy's failed speakership](https://www.washingtonpost.com/politics/2023/10/03/kevin-mccarthy-ousted-next-house-speaker/) (Tier 2)
 - [VoteSmart: McCarthy voting record on energy legislation](https://www.votesmart.org/candidate/evaluations/14652/kevin-mccarthy#.Xq1CRi2ZLOI) (Tier 3)
-- [CREW: McCarthy financial disclosures and oil industry connections](https://www.citizensforethics.org/analysis-kevin-mccarthy-oil-industry-funding/) (Tier 2)
-- [Public Citizen: Congressional Leadership Fund spending breakdown](https://www.citizen.org/article/congressional-leadership-fund-fossil-fuel-spending-2020-2022/) (Tier 2)
-- [Salon: McCarthy's energy industry loyalty](https://www.salon.com/2023/06/01/kevin-mccarthy-fossil-fuel-speaker-baker/) (Tier 2)
+- [CREW: McCarthy financial disclosures and oil industry connections](https://www.citizensforethics.org/analysis-kevin-mccarthy-oil-industry-funding/) *(source unavailable)* (Tier 2)
+- [Public Citizen: Congressional Leadership Fund spending breakdown](https://www.citizen.org/article/congressional-leadership-fund-fossil-fuel-spending-2020-2022/) *(source unavailable)* (Tier 2)
+- [Salon: McCarthy's energy industry loyalty](https://www.salon.com/2023/06/01/kevin-mccarthy-fossil-fuel-speaker-baker/) *(source unavailable)* (Tier 2)
 
 content-readiness:: ready

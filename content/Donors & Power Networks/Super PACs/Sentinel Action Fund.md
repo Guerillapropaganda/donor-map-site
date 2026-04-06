@@ -109,8 +109,21 @@ Sentinel also illustrates **speculative mega-donor spending:** Barre Seid and Ke
 
 - [OpenSecrets: Sentinel Action Fund organizational profile](https://www.opensecrets.org/orgs/sentinel-action-fund/summary) (Tier 1)
 - [FEC: Sentinel Action Fund filings](https://www.fec.gov/data/committee/C00811166/) (Tier 1)
-- [Heritage Foundation: About and Policy Priorities](https://www.heritage.org/about) (Tier 2)
+- [Heritage Foundation: About and Policy Priorities](https://www.heritage.org/about-heritage/impact) (Tier 2)
 - [OpenSecrets: Sentinel Action Fund PAC Profile 2022](https://www.opensecrets.org/political-action-committees-pacs/sentinel-action-fund/c00811166/summary/2022) (Tier 1)
 - [Campaign Finance Institute: Super PAC effectiveness research](https://www.cfinst.org/research/super-pacs) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 14 contributions totaling $1.5M
+
+| Top Recipient | Amount |
+|---|---|
+| MOMS FOR SAFE NEIGHBORHOODS, INC. | $1.1M |
+| KEYSTONE RENEWAL PAC | $400.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

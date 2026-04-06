@@ -2,17 +2,13 @@
 title: "California Restaurant Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-23
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
 entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
-ein: 951241045
-annual-revenue: "$5.4M"
-net-assets: "$20.8M"
-tax-year: "2023"
 ---
 
 
@@ -99,10 +95,10 @@ Labor — FAST Act, AB 1228, fast food minimum wage, joint liability
 
 ### Sources
 
-- [CalMatters: California fast food deal — wage hike, no referendum](https://calmatters.org/politics/2023/09/california-fast-food-deal/) (Tier 2)
-- [Ballotpedia: Fast food minimum wage referendum](https://ballotpedia.org/California_Fast_Food_Restaurant_Minimum_Wage_and_Labor_Regulations_Referendum_%282024%29) (Tier 1)
+- [CalMatters: California fast food deal — wage hike, no referendum](https://calmatters.org/category/politics/2023/09/california-fast-food-deal/) (Tier 2)
+- [Ballotpedia: Fast food minimum wage referendum](https://ballotpedia.org/California_Fast_Food_Restaurant_Minimum_Wage_and_Labor_Regulations_Referendum_(2024)) (Tier 1)
 - [Transparency USA: CRA Issues PAC](https://www.transparencyusa.org/ca/committee/california-restaurant-association-issues-pac-901032-rcp) (Tier 1)
-- [FollowTheMoney.org: CRA contributions](https://www.followthemoney.org/entity-details?eid=4463) (Tier 1)
+- [FollowTheMoney.org: CRA contributions](https://www.followthemoney.org/tools/election-overview?eid=4463) (Tier 1)
 - [Governing: Fast food spent $4M to stop accountability bill](https://www.governing.com/policy/fast-food-spent-4m-to-stop-california-accountability-bill) (Tier 2)
 - [OpenSecrets: National Restaurant Association](https://www.opensecrets.org/orgs/national-restaurant-assn/summary?id=D000000150) (Tier 1)
 - [FPPC: CRA-PAC contribution records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
@@ -110,17 +106,15 @@ Labor — FAST Act, AB 1228, fast food minimum wage, joint liability
 research-status:: ready — $71.7M referendum war chest, CRA Issues PAC $167K, AB 1228 deal mechanism, joint liability removal, referendum tactic template. 7 sources, Tier 1-2. All ### headers. Promoted Session 38m.
 content-readiness:: ready
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $5.4M |
-| Total Contributions | $488K |
-| Program Service Revenue | $3.1M |
-| Investment Income | $356K |
-| Total Expenses | $6.7M |
-| Net Assets | $20.8M |
-| Officer Compensation | $464K |
+---
 
-- [Source: ProPublica Nonprofit Explorer — EIN 951241045](https://projects.propublica.org/nonprofits/organizations/951241045) (Tier 1)
-<!-- auto:propublica-990 end -->
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 5 contributions totaling $27.5K
+
+| Top Recipient | Amount |
+|---|---|
+| NEWSOM FOR CALIFORNIA GOVERNOR 2022 | $20.0K |
+| REPUBLICAN PARTY OF SAN DIEGO COUNTY | $7.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

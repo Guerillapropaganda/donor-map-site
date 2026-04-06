@@ -91,7 +91,7 @@ Environment — oil drilling permits, SB 1137, fracking, refinery communities
 
 ### Sources
 
-- [CalMatters: Oil industry withdraws controversial oil well ballot measure](https://calmatters.org/environment/2024/06/oil-ballot-california/) (Tier 2)
+- [CalMatters: Oil industry withdraws controversial oil well ballot measure](https://calmatters.org/category/environment/2024/06/oil-ballot-california/) (Tier 2)
 - [FPPC: WSPA lobbying filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 
 research-status:: ready — primary CA oil/gas lobby, Chevron/Valero/Marathon/Phillips 66/Exxon members, SB 1137 referendum tactic, refinery community environmental justice, cap-and-trade protection. 3 sources, Tier 1-2. All ### headers. Promoted Session 38m.

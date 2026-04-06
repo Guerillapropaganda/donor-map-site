@@ -168,7 +168,7 @@ Greenwald's trajectory — corporate law → progressive blogging → Guardian �
 
 ### Sources
 
-- [FEC Individual Contributions: Glenn Greenwald (2 results, 2015-2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=glenn+greenwald&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Glenn Greenwald (2 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=glenn+greenwald&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Wikipedia: Glenn Greenwald](https://en.wikipedia.org/wiki/Glenn_Greenwald) (Tier 3)
 - [Glenn Greenwald: "My Resignation From The Intercept" (Oct 29, 2020)](https://greenwald.substack.com/p/my-resignation-from-the-intercept) (Tier 1)
 - [Glenn Greenwald: "Welcome Back to Substack!" (Feb 9, 2026)](https://greenwald.substack.com/p/welcome-back-to-substack) (Tier 1)

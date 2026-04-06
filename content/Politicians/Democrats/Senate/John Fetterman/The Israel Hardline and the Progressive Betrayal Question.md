@@ -50,7 +50,7 @@ Fetterman's October 2023 statements went beyond Democratic consensus positioning
 - Public statement: "I'm a really strong, unapologetic supporter of Israel and it's really not going to change for me when [Trump] becomes [president]. My vote and voice is going to follow Israel" - [New Republic: [[_John Fetterman Master Profile|John Fetterman]] Speaks: I Haven't Changed a Lick](https://newrepublic.com/article/177976/john-fetterman-interview-israel-progressive) (Tier 2)
 
 ### February 2026:
-- Fetterman hosts [[AIPAC - American Israel Public Affairs Committee|AIPAC]] representatives in Senate office, declares commitment to "Jewish community and our special ally" - [Algemeiner: Fetterman Hosts [[AIPAC - American Israel Public Affairs Committee|AIPAC]], Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-office/) (Tier 2)
+- Fetterman hosts [[AIPAC - American Israel Public Affairs Committee|AIPAC]] representatives in Senate office, declares commitment to "Jewish community and our special ally" - [Algemeiner: Fetterman Hosts [[AIPAC - American Israel Public Affairs Committee|AIPAC]], Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-survivor-dc-office/) (Tier 2)
 
 ---
 
@@ -135,5 +135,5 @@ Yet this framing obscures the actual political dynamic: AIPAC donors want hardli
 - [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure—and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2)
 - [New Republic: John Fetterman Speaks: I Haven't Changed a Lick](https://newrepublic.com/article/177976/john-fetterman-interview-israel-progressive) (Tier 2)
 - [Pittsburgh Jewish Chronicle: Fetterman says he'll 'lean in' on U.S.-Israel relationship as senator](https://jewishchronicle.timesofisrael.com/john-fetterman-says-hell-lean-in-on-u-s-israel-relationship-as-senator/) (Tier 2)
-- [Algemeiner: Fetterman Hosts AIPAC, Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-office/) (Tier 2)
+- [Algemeiner: Fetterman Hosts AIPAC, Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-survivor-dc-office/) (Tier 2)
 - [AIPAC Tracker on X: Fetterman received nearly $250,000 from pro-Israel lobby](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3)

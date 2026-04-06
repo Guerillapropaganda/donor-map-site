@@ -216,10 +216,11 @@ Both networks are funded by billionaires using identical mechanisms. Both billio
 
 ### Citizens United & Campaign Finance Reform
 - [Durbin Condemns Dark Money In Politics — Senate Judiciary Committee](https://www.judiciary.senate.gov/press/dem/releases/durbin-condemns-dark-money-in-politics-on-anniversary-of-citizens-united-supreme-court-decision) (Tier 1)
-- [Dark Money — Brennan Center for Justice](https://www.brennancenter.org/issues/reform-money-politics/influence-big-money/dark-money) (Tier 2)
+- [Dark Money — Brennan Center for Justice](https://www.brennancenter.org/topics/money-politics/influence-big-money/dark-money) (Tier 2)
 - [Citizens United, Explained — Brennan Center for Justice](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained) (Tier 2)
 
 ---
 
 research-status:: ready — Full citation pass complete. Koch $548M vs Soros/Arabella $1.55B, identical 501(c)(4) structures, AFP vs S30 Fund comparison table, LLC opacity layers, pop-up group model (40+ per cycle), Democratic dark money hypocrisy (outspent GOP in dark money while campaigning against Citizens United). 30 sources Tier 1-3 with URLs. All ### headers. Bold title→### converted. Promoted Session 39.
 content-readiness:: ready
+                   

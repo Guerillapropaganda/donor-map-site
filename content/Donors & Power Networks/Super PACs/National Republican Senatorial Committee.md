@@ -127,3 +127,17 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 - [Ballotpedia: National Republican Senatorial Committee](https://ballotpedia.org/National_Republican_Senatorial_Committee) (Tier 3)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $84.9M
+
+| Top Recipient | Amount |
+|---|---|
+| MONTANA REPUBLICAN STATE CENTRAL COMMITTEE | $22.1M |
+| GEORGIA REPUBLICAN PARTY INC. | $17.9M |
+| MASSACHUSETTS REPUBLICAN PARTY | $6.8M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

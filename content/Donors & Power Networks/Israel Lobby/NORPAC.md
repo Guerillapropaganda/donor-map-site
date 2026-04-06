@@ -155,3 +155,17 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 ---
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.9M
+
+| Top Recipient | Amount |
+|---|---|
+| BRAD COHEN FOR CONGRESS | $341.3K |
+| TEAM MORENO | $165.6K |
+| WHATLEY VICTORY COMMITTEE | $116.8K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

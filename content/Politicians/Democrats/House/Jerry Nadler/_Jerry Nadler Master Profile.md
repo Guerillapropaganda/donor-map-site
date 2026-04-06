@@ -132,7 +132,7 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 - [GovTrack: Jerrold Nadler](https://www.govtrack.us/congress/members/jerrold_nadler/400289) (Tier 1)
 - [Congress.gov: Jerrold Nadler](https://www.congress.gov/member/jerrold-nadler/N000002) (Tier 1)
 - [Nadler.house.gov: Named Ranking Member of Antitrust Subcommittee](https://nadler.house.gov/news/documentsingle.aspx?DocumentID=396256) (Tier 1)
-- [Crain's New York: Nadler-Maloney primary battle reveals donor networks](https://www.crainsnewyork.com/politics/carolyn-maloney-and-jerry-nadler-locked-primary-battle-congress) (Tier 2)
+- [Crain's New York: Nadler-Maloney primary battle reveals donor networks](https://www.crainsnewyork.com/politics/carolyn-maloney-and-jerry-nadler-locked-primary-battle-congress/) (Tier 2)
 - [Jewish Insider: From impeachment lead to Israel critic, Nadler ends storied career](https://jewishinsider.com/2025/09/jerry-nadler-retirement-announcement-manhattan-district-israel/) (Tier 2)
 - [NBC News: Nadler drops bid for Judiciary ranking member](https://www.nbcnews.com/politics/congress/longtime-rep-nadler-drops-bid-remain-top-democrat-judiciary-panel-chal-rcna182908) (Tier 2)
 - [NBC News: House Judiciary to investigate Big Tech market dominance](https://www.nbcnews.com/tech/tech-news/house-judiciary-investigate-market-dominance-big-tech-companies-n1013426) (Tier 2)

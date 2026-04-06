@@ -98,3 +98,17 @@ Housing — rent control, supply-side framework, tenant rights
 
 research-status:: ready — largest CA landlord trade org, Props 10/21/33 defeated, Costa-Hawkins preserved, supply-side framework alignment. 2 sources, Tier 1. All ### headers. Promoted Session 38m.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 10 contributions totaling $530.7K
+
+| Top Recipient | Amount |
+|---|---|
+| GOLDEN STATE LEADERSHIP FUND PAC | $250.0K |
+| PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA VOTES PAC | $170.0K |
+| NEWSOM FOR CALIFORNIA GOVERNOR 2022 | $64.8K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

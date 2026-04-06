@@ -192,3 +192,17 @@ Every competitive district with energy-sector employers receives CLF ad spending
 - [OpenSecrets: Congressional Leadership Fund donors](https://www.opensecrets.org/political-action-committees-pacs/congressional-leadership-fund/C00504530/donors/2024) (Tier 1)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $366.8K
+
+| Top Recipient | Amount |
+|---|---|
+| RJC VICTORY FUND | $350.0K |
+| GROW THE MAJORITY | $8.4K |
+| WINRED | $8.3K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

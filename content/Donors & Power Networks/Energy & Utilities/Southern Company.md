@@ -2,14 +2,11 @@
 title: "Southern Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
-federal-awards-total: 9522558
-federal-contracts-count: 25
-federal-grants-count: 11
 ---
 
 #southern-company #utility #georgia #nuclear #coal #monopoly #rate-base
@@ -48,41 +45,23 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 ### Sources
 
 - [OpenSecrets: Southern Company organizational profile](https://www.opensecrets.org/orgs/southern-co/summary?id=D000000180) (Tier 1)
-- [NRC: Plant Vogtle construction and licensing](https://www.nrc.gov/reactors/new-reactors/large-lwr/col/vogtle.html) (Tier 1)
+- [NRC: Plant Vogtle construction and licensing](https://www.nrc.gov/reactors/new-reactors/large-lwr/col/vogtle) (Tier 1)
 - [Ballotpedia: Southern Company](https://ballotpedia.org/Southern_Company) (Tier 3)
 
 content-readiness:: ready
 
-### Federal Spending (USASpending)
-<!-- auto:usaspending start -->
-| Metric | Value |
-|--------|-------|
-| All-Time Federal Awards | $9.5M |
-| Contracts (recent 3yr) | 25 ($372.3M sampled) |
-| Grants (recent 3yr) | 11 ($526.5M sampled) |
-| Federal Agencies | 8 |
+---
 
-**Top contracts:**
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $89.3M | Department of Defense | 200612!009621!97AS!SP0600!DEFENSE ENERGY SUPPORT CENTER   !SP060006C8250  !A!N! !N!             !    |
-| $75.2M | Department of Defense | 200309!009606!97AS!0600  !DEFENSE ENERGY SUPPORT CENTER   !SP060003C8262  !A!N! !N!                  |
-| $30.6M | Department of Defense | IGF::OT::IGF  ANALYSIS (COMPRESSED AIR) |
-| $20.8M | Department of Defense | IGF::OT::IGF MCLB ALBANY TORNADO RECOVERY REPAIRS |
-| $20.5M | Department of Defense | IGF::OT::IGF  ECMS FOR BUILDING  229 |
+**FEC contribution record:** 499 contributions totaling $1.7M
 
-**Top grants:**
+**ActBlue/WinRed conduit duplicates filtered:** 1
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $251.0M | Department of Energy | NATIONAL CARBON CAPTURE CENTER |
-| $160.3M | Department of Energy | BIPARTISAN INFRASTRUCTURE LAW - EXPANDING TRANSMISSION CAPACITY AND REDUCING COMMUNITY DISRUPTIONS T |
-| $65.3M | Department of Energy | MCRE – WORLD’S FIRST CRITICAL MCFR
-TO CONFIRM KEY PHYSICS PHENOMENA RELEVANT TO MCFR-D, MCRE SOW WIL |
-| $37.1M | Department of Energy | INTEGRATED EFFECTS TESTING & MOLTEN CHLORIDE FAST REACTOR DEVELOPMENT |
-| $4.9M | Department of Energy | NEW AWARD DE-FE0031847 TO SOUTHERN COMPANY SERVICES, TITLED 
-''FRONT-END ENGINEERING DESIGN STUDIES  |
+| Top Recipient | Amount |
+|---|---|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $100.0K |
+| DSCC | $65.0K |
+| JOHNSON LEADERSHIP FUND | $55.0K |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Southern%20Company) (Tier 1)
-<!-- auto:usaspending end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

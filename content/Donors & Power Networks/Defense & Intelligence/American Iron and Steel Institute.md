@@ -108,7 +108,7 @@ The "national security" frame is the mechanism that makes the transfer invisible
 - [FEC: Nucor Corporation PAC (C00379628)](https://www.fec.gov/data/committee/C00379628/) (Tier 1)
 - [USITC: Tariff Effects on U.S. Industries](https://www.usitc.gov/press_room/news_release/2023/er0315_63679.htm) (Tier 1)
 - [Tax Foundation: Section 232 Tariffs Harmed the Economy](https://taxfoundation.org/research/all/federal/section-232-tariffs-steel-aluminum-2024/) (Tier 2)
-- [PBS News: Steel Tariffs Hurt Manufacturers Downstream](https://www.pbs.org/newshour/economy/steel-tariffs-hurt-manufacturers-downstream-data-shows) (Tier 2)
+- [PBS News: Steel Tariffs Hurt Manufacturers Downstream](https://www.pbs.org/newshour/economy/making-sense/steel-tariffs-hurt-manufacturers-downstream-data-shows) (Tier 2)
 - [The Intercept: Before Pushing Tariffs, Wilbur Ross Had Messy History With U.S. Steel Industry](https://theintercept.com/2018/03/05/steel-tariffs-wilbur-ross-pollution/) (Tier 2)
 - [American Oversight: Insider Access for Steel Lobbyists Tied to Lighthizer](https://americanoversight.org/emails-show-insider-access-for-steel-industry-lobbyists-tied-to-lighthizer/) (Tier 2)
 - [CNN: Commerce IG Probe Requested for Wilbur Ross Conflicts](https://www.cnn.com/2018/08/13/politics/wilbur-ross-clc-ig-probe-commerce) (Tier 2)
@@ -116,8 +116,18 @@ The "national security" frame is the mechanism that makes the transfer invisible
 - [Econofact: Steel Tariffs and U.S. Jobs Revisited](https://econofact.org/steel-tariffs-and-u-s-jobs-revisited) (Tier 2)
 - [PolitiFact: How Much Steel Does the U.S. Import from China?](https://www.politifact.com/factchecks/2018/mar/08/angus-king/does-much-steel-does-us-import-china/) (Tier 2)
 - [AISI: Five Reasons to Continue Section 232 Tariffs](https://www.steel.org/2025/07/five-reasons-to-continue-the-section-232-tariffs/) (Tier 3)
-- [Seven Pillars Institute: Wilbur Ross Conflicts of Interest](https://sevenpillarsinstitute.org/conflicts-of-interest-wilbur-ross/) (Tier 3)
+- [Seven Pillars Institute: Wilbur Ross Conflicts of Interest](https://sevenpillarsinstitute.org/conflicts-of-interest-wilbur-ross/) (Tier
 
 ---
 
-content-readiness:: ready
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $542.9K
+
+| Top Recipient | Amount |
+|---|---|
+| AMERICAN IRON AND STEEL INSTITUTE POLITICAL ACTION COMMITTEE (STEEL PAC) | $77.3K |
+| LEVIN FOR CONGRESS | $24.0K |
+| CRAWFORD FOR CONGRESS | $16.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

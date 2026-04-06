@@ -137,7 +137,7 @@ The industry's structural function for the donor class: maintain Democratic cult
 
 ### Sources
 
-- [OpenSecrets: TV / Movies / Music industry summary](https://www.opensecrets.org/industries/indus?ind=B02) (Tier 1)
+- [OpenSecrets: TV / Movies / Music industry summary](https://www.opensecrets.org/industries?ind=B02) (Tier 1)
 - [OpenSecrets: Katzenberg, Jeffrey — donor detail (2020 cycle)](https://www.opensecrets.org/outside-spending/donor_detail?cycle=2020&id=U0000000007&name=Katzenberg,+Jeffrey&super=s&type=I) (Tier 1)
 - [OpenSecrets: Saban, Haim — donor detail (2024 cycle)](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000380&name=Saban,+Haim&super_only=N&type=I) (Tier 1)
 - [OpenSecrets: Motion Picture Association lobbying profile](https://www.opensecrets.org/orgs/motion-picture-assn/summary?id=D000027729) (Tier 1)
@@ -152,7 +152,7 @@ The industry's structural function for the donor class: maintain Democratic cult
 - [The Intercept: Pro-Israel Megadonor Haim Saban Attacks Democratic Senators' Gaza Letter](https://theintercept.com/2018/06/20/haim-saban-bernie-sanders-israel-gaza-letter/) (Tier 2)
 - [CNBC: Haim Saban throws money behind Biden, Democrats in Senate races (2020)](https://www.cnbc.com/2020/09/22/2020-election-haim-saban-throws-money-behind-biden-democrats-in-senate-races.html) (Tier 2)
 - [NPR: Celebrities sign letter to Biden urging cease-fire in Gaza](https://www.npr.org/2023/10/21/1207783685/celebrities-letter-ceasefire-israel-gaza-biden) (Tier 2)
-- [SourceWatch: Saban Center for Middle East Policy](https://www.sourcewatch.org/index.php/Saban_Center_for_Middle_East_Policy) (Tier 3)
+- [SourceWatch: Saban Center for Middle East Policy](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Saban_Center_for_Middle_East_Policy) (Tier 3)
 - [Wikipedia: Haim Saban](https://en.wikipedia.org/wiki/Haim_Saban) (Tier 3)
 
 content-readiness:: developed

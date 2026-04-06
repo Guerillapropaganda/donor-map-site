@@ -2,15 +2,11 @@
 title: "Emilys List"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-23
 source-tier: 2
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
-ein: 461067490
-annual-revenue: "$2.2M"
-net-assets: "$173K"
-tax-year: "2023"
 ---
 
 #donor-node #super-pac #democratic #women #fundraising-infrastructure #pro-choice #gatekeeper #donor
@@ -23,7 +19,7 @@ related: Women Vote! PAC Democratic Party Power Structure Reproductive Rights - 
 
 EMILY's List (Early Money Is Like Yeast — a fundraising metaphor) is the nation's largest bundling operation for Democratic pro-choice women candidates, founded in 1985. It operates both as a 501(c)(4) advocacy group and through Women Vote!, its affiliated super PAC.
 
-[EMILY's List — Wikipedia](https://en.wikipedia.org/wiki/EMILY's_List) (Tier 2)
+[EMILY's List — Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast)'s_List) (Tier 2)
 
 [EMILY's List — InfluenceWatch](https://www.influencewatch.org/organization/emilys-list/) (Tier 2)
 
@@ -169,7 +165,7 @@ EMILY's List operates within a broader ecosystem of women's-focused Democratic g
 
 ### Sources
 
-- [EMILY's List — Wikipedia](https://en.wikipedia.org/wiki/EMILY's_List) (Tier 2)
+- [EMILY's List — Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast)'s_List) (Tier 2)
 - [EMILY's List — InfluenceWatch](https://www.influencewatch.org/organization/emilys-list/) (Tier 2)
 - [EMILY's List — Ballotpedia](https://ballotpedia.org/EMILY's_List) (Tier 3)
 - [This super PAC for pro-choice women is spending big to help get Karen Carter Peterson elected — EMILY's List](https://emilyslist.org/in-the-press/this-super-pac-for-pro-choice-women-is-spending-big-to-help-get-karen-carte/) (Tier 2)
@@ -180,17 +176,18 @@ EMILY's List operates within a broader ecosystem of women's-focused Democratic g
 content-readiness:: ready
 
 research-status:: ready
+---
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $2.2M |
-| Total Contributions | $2.2M |
-| Total Expenses | $2.1M |
-| Net Assets | $173K |
-| Officer Compensation | $3K |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-- [Source: ProPublica Nonprofit Explorer — EIN 461067490](https://projects.propublica.org/nonprofits/organizations/461067490) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F461067490_202306_990O_2024040422334157.pdf) (Tier 1)
-<!-- auto:propublica-990 end -->
+**FEC contribution record:** 122 contributions totaling $236.8K
+
+**ActBlue/WinRed conduit duplicates filtered:** 378
+
+| Top Recipient | Amount |
+|---|---|
+| HOUSTON WOMEN WIN | $114.1K |
+| MENDOZA FOR CONGRESS | $34.0K |
+| JULIANA FOR ILLINOIS | $18.1K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

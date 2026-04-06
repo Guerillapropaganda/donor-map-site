@@ -44,9 +44,25 @@ Favorable crypto regulation (specifically, regulation that would have required o
 
 ### Sources
 
-- [DOJ: United States v. Sam Bankman-Fried indictment](https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried) (Tier 1)
+- [DOJ: United States v. Sam Bankman-Fried indictment](https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak) (Tier 1)
 - [OpenSecrets: Sam Bankman-Fried political contributions](https://www.opensecrets.org/donor-lookup/results?name=sam+bankman-fried) (Tier 1)
 - [SEC: FTX enforcement action](https://www.sec.gov/litigation/complaints/2022/comp-pr2022-219.pdf) (Tier 1)
 - [Ballotpedia: Sam Bankman-Fried](https://ballotpedia.org/Sam_Bankman-Fried) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 276 contributions totaling $45.9M
+
+**ActBlue/WinRed conduit duplicates filtered:** 103
+
+| Top Recipient | Amount |
+|---|---|
+| PROTECT OUR FUTURE PAC | $27.0M |
+| HOUSE MAJORITY PAC | $6.0M |
+| FF PAC | $5.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

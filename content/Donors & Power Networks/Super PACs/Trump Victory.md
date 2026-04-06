@@ -175,9 +175,23 @@ Trump Victory is the structural mechanism through which Trump converted the Repu
 - [CREW: Political Spending Tops $1.8 Million at Trump Properties](https://www.citizensforethics.org/reports-investigations/crew-investigations/political-spending-tops-1-8-million-at-trump-properties-this-cycle/) (Tier 2)
 - [ProPublica: Trump Spawned a New Group of Mega-Donors Who Now Hold Sway Over the GOP's Future](https://www.propublica.org/article/trump-spawned-a-new-group-of-mega-donors-who-now-hold-sway-over-gops-future) (Tier 2)
 - [Brennan Center: Pro-Trump Super PAC Raises Record-Breaking $305 Million](https://www.brennancenter.org/our-work/analysis-opinion/pro-trump-super-pac-raises-record-breaking-305-million) (Tier 2)
-- [Slate: Trump Campaign Refunded $135 Million After Aggressive Tactics](https://www.slate.com/news-and-politics/2021/08/trump-campaign-republican-refunds-donations-fundraising.html) (Tier 2)
+- [Slate: Trump Campaign Refunded $135 Million After Aggressive Tactics](https://slate.com/news-and-politics/2021/08/trump-campaign-republican-refunds-donations-fundraising.html) (Tier 2)
 - [TIME: Inside the GOP Fight Over Trump's Legal Costs](https://time.com/6836021/trump-legal-costs-rnc-gop/) (Tier 2)
 
 ---
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $113.1M
+
+| Top Recipient | Amount |
+|---|---|
+| REPUBLICAN NATIONAL COMMITTEE | $64.1M |
+| DONALD J. TRUMP FOR PRESIDENT, INC. | $9.0M |
+| ALASKA REPUBLICAN PARTY | $4.1M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

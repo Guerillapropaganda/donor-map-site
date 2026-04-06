@@ -321,26 +321,26 @@ content-readiness:: Developed story file with full donor-to-policy chain, litiga
 
 ### Tier 1 (Primary Documents and Authoritative Government Records):
 
-- DOJ Foreign Claims Settlement Commission Claims Database: https://www.justice.gov/fcsc/claims-against-cuba (Tier 1)
-- FCSC Certified Claims List (PDF): https://www.justice.gov/sites/default/files/fcsc/pages/attachments/2014/12/18/cuban_basic_claimant_info_value.pdf (Tier 1)
+- DOJ Foreign Claims Settlement Commission Claims Database: https://www.just *(source unavailable)*ice.gov/fcsc/claims-against-cuba (Tier 1)
+- FCSC Certified Claims List (PDF): https://www.just *(source unavailable)*ice.gov/sites/default/files/fcsc/pages/attachments/2014/12/18/cuban_basic_claimant_info_value.pdf (Tier 1)
 - U.S. Supreme Court Amicus Brief (Daniel W. Fisk Confirmation): https://www.supremecourt.gov/DocketPDF/24/24-983/385821/20251125231351031_24-983_Amicus%20Brief.pdf (Tier 1)
 - Federal Election Commission / OpenSecrets — Bacardi USA PAC (C00160838): https://www.opensecrets.org/political-action-committees-pacs/bacardi-usa/C00160838/candidate-recipients/2024 (Tier 1)
-- OpenSecrets Bacardi Federal Lobbying Disclosure: https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000042218 (Tier 1)
-- U.S. State Department Title III Provisions (1999): https://1997-2001.state.dept/regions/wha/fs_990716_cuba_titleIII.html (Tier 1)
+- OpenSecrets Bacardi Federal Lobbying Disclosure: https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000042218 (Tier 1)
+- U.S. State Department Title III Provisions (1999): https://1997-2001.state.gov/regions/wha/fs_990716_cuba_titleIII.html (Tier 1)
 - USTR WTO Dispute Settlement — Section 211 Dispute: https://ustr.gov/issue-areas/enforcement/dispute-settlement-proceedings/united-states-%E2%80%93-section-211-omnibus-appropri (Tier 1)
 
 ### Tier 2 (Academic and Investigative Journalism):
 
-- Miami New Times — Title III Donor Investigation: https://www.miaminewtimes.com/uncategorized/inside-the-campaign-to-crush-investment-in-cuba-under-helms-burton-act-17727091/ (Tier 2)
+- Miami New Times — Title III Donor Investigation: https://www.miaminewtimes.com/news/inside-the-campaign-to-crush-investment-in-cuba-under-helms-burton-act-17727091/ (Tier 2)
 - Center for Public Integrity (via Progreso Weekly): https://progresoweekly.us/the-true-origin-of-the-helms-burton-act/ (Tier 2)
 - Council on Hemispheric Affairs — Otto Reich Profile: https://coha.org/otto-reich-a-career-in-disservice/ (Tier 2)
 - Arnold & Porter LLP — Two-Year Title III Litigation Review: https://www.arnoldporter.com/en/perspectives/advisories/2021/05/two-years-of-title-iii-helmsburton-lawsuits (Tier 2)
 - NPR Investigation — U.S.-Cuba PAC and Vote-Flipping: https://www.npr.org/2009/11/19/120562894/u-s-cuba-pac-money-may-have-changed-votes (Tier 2)
 - Latin American Studies Association — CRP Exile Lawmakers Data: https://latinamericanstudies.org/us-cuba/exile-lawmakers.htm (Tier 2)
 - Semantic Scholar — Interest Groups and Helms-Burton (Peer-Reviewed): https://pdfs.semanticscholar.org/9fb0/49d37a7e0c6253badac2f113730f891e1c2f.pdf (Tier 2)
-- Cambridge Core — American Journal of International Law (Helms-Burton Enforcement): https://www.cambridge.org/core/journals/american-journal-of-international-law/article/congress-and-cuba-the-helmsburton-act/B7716DDDB08C99DB316890C09AAFBF25 (Tier 2)
-- Northwestern Journal of International Law & Business (Helms-Burton Analysis): https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1470&context=njilb (Tier 2)
-- Northwestern Journal of International Law & Business (Section 211 Analysis): https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1578&context=njilb (Tier 2)
+- Cambridge Core — American Journal of International Law (Helms-Burton Enforcement): https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/congress-and-cuba-the-helmsburton-act/B7716DDDB08C99DB316890C09AAFBF25 (Tier 2)
+- Northwestern Journal of International Law & Business (Helms-Burton Analysis): https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi *(source unavailable)*?article=1470&context=njilb (Tier 2)
+- Northwestern Journal of International Law & Business (Section 211 Analysis): https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi *(source unavailable)*?article=1578&context=njilb (Tier 2)
 - Cleary Gottlieb — Title III Memorandum (2019 Activation): https://www.clearygottlieb.com/-/media/files/alert-memos-2019/2019_04_19-end-of-suspension-of-title-iii-of-the-helms-burton-act-pdf.pdf (Tier 2)
 - Reuters — Exxon SCOTUS Case (Feb 2026): https://www.reuters.com/business/energy/us-supreme-court-hear-exxon-bid-compensation-cuba-2026-02-23/ (Tier 2)
 - Reuters — Biden Signs No Stolen Trademarks Act (Dec 2024): https://www.reuters.com/legal/government/biden-signs-us-law-barring-stolen-cuba-owned-trademarks-2024-12-03/ (Tier 2)

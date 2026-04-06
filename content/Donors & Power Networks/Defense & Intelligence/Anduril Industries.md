@@ -94,7 +94,7 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 - [Aviation Outlook: Anduril analysis](https://aviationoutlook.substack.com/p/anduril-company-analysis-outlook-report) (Tier 3)
 - [NYT: Pentagon and Anduril/Palmer Luckey](https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html) (Tier 2)
 - [OpenLobby: Anduril lobbying](https://www.openlobby.us/clients/anduril-industries-inc) (Tier 2)
-- [OpenSecrets: Anduril lobbying](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000082003) (Tier 1)
+- [OpenSecrets: Anduril lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000082003) (Tier 1)
 - [Reuters: Anduril pre-IPO fraud charges](https://www.reuters.com/legal/government/us-investment-manager-charged-with-anduril-pre-ipo-fraud-2025-12-18/) (Tier 2)
 - [Wikipedia: Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey) (Tier 4)
 - [JPost: Anduril defense tech](https://www.jpost.com/defense-and-tech/article-876647) (Tier 3)
@@ -103,3 +103,17 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 
 research-status:: draft — Financial profile, valuation history, contract awards, lobbying data, and political connections documented. Gaps: detailed lobbying issue breakdown, Palmer Luckey individual donation records (FEC API needed), Thiel network mapping, complete contract list, Arsenal-1 factory details, revenue projections by contract. FEC API available for Luckey donation records.
 content-readiness:: draft
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 259 contributions totaling $320.0K
+
+| Top Recipient | Amount |
+|---|---|
+| KEN CALVERT FOR CONGRESS COMMITTEE | $10.0K |
+| MIKE ROGERS FOR CONGRESS | $10.0K |
+| ADAM SMITH FOR CONGRESS COMMITTEE | $10.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

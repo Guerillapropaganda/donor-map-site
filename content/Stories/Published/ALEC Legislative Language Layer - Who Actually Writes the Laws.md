@@ -112,8 +112,8 @@ For the donor class, ALEC solves the scaling problem of traditional lobbying. In
 ### Sources
 
 ### Primary Documents & Databases (Tier 1):
-- [ALEC Exposed: The Model Bills Database](https://www.alecexposed.org/wiki/ALEC_Bills) (Tier 1 — leaked 850 ALEC model bills, 2011-present archive) (Tier 2)
-- [Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposed) (Tier 1 — primary research database on ALEC) (Tier 2)
+- [ALEC Exposed: The Model Bills Database](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Bills) (Tier 1 — leaked 850 ALEC model bills, 2011-present archive) (Tier 2)
+- [Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Exposed) (Tier 1 — primary research database on ALEC) (Tier 2)
 - [Wikipedia: List of Members of the American Legislative Exchange Council](https://en.wikipedia.org/wiki/List_of_members_of_the_American_Legislative_Exchange_Council) (Tier 2 — compiled corporate member list) (Tier 3)
 
 ### Research & Analysis (Tier 2):
@@ -134,7 +134,7 @@ For the donor class, ALEC solves the scaling problem of traditional lobbying. In
 - [Sierra Club: "States Criminalizing Environmental Activists"](https://www.sierraclub.org/sierra/2023-3-fall/notes-here-there/states-are-criminalizing-environmental-activist) (Tier 2 — ALEC critical infrastructure adoption) (Tier 2)
 - [Exposed by CMD: "ALEC Pushes Power Grid Stability Bills"](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables) (Tier 2 — 15+ grid stability bills 2024-2025) (Tier 2)
 - [CleanTechnica: "ALEC Anti-Renewable Legislation Ohio"](https://cleantechnica.com/2026/02/24/alec-pushes-idiotic-anti-renewable-legislation-in-ohio/amp) (Tier 2 — HB 1286 and model energy bills) (Tier 2)
-- [Energy & Policy Institute: "ALEC Attacks on Renewable Energy"](https://energyandpolicy.org/attacks-on-renewable-energy-policy-by-fossil-fuel-interests-2013-2014/american-legislative-exchange-council/) (Tier 2 — task force composition, fossil fuel dominance) (Tier 2)
+- [Energy & Policy Institute: "ALEC Attacks on Renewable Energy"](https://energyandpolicy.org/american-legislative-exchange-council/) (Tier 2 — task force composition, fossil fuel dominance) (Tier 2)
 
 ### Politician Connections (Tier 2–3):
 - [ALEC: "Policy Champions" Feature on Glenn Youngkin](https://alec.org/article/alec-policy-champions-governor-glenn-youngkin-secretary-travis-voyles-senator-richard-stuart-senator-ryan-mcdougle-and-delegate-tony-wilt-remove-virginia-from-california-ev-mandate/) (Tier 2 — Youngkin's formal ALEC Policy Champion designation) (Tier 2)
@@ -143,7 +143,7 @@ For the donor class, ALEC solves the scaling problem of traditional lobbying. In
 
 ### Think Tank Pipeline (Tier 2–3):
 - [Heritage Foundation: Project 2025 Documentation](https://www.aclu.org/project-2025-explained) (Tier 2 — federal model legislation, Trump administration implementation) (Tier 2)
-- [PBS: "Tracking Project 2025 Trump Administration Achievement"](https://www.pbs.newshour.politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year) (Tier 2 — federal policy model bill adoption rate) (Tier 2)
+- [PBS: "Tracking Project 2025 Trump Administration Achievement"](https://www.pbs.org/newshour/politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year) (Tier 2 — federal policy model bill adoption rate) (Tier 2)
 
 [!money]
 > **The Money Trail:** ALEC dues ($25K corporate membership) translate into 600+ laws passed per decade. Cost per law: ~$42. The donor class's ROI on legislative authorship is incalculable.

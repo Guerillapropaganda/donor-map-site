@@ -72,7 +72,7 @@ The split illustrates the donor class's internal tensions: both Simons and Merce
 
 ### Sources
 
-- [Senate Permanent Subcommittee on Investigations: Renaissance Technologies tax avoidance report, 2014](https://www.hsgac.senate.gov/subcommittees/investigations/home) (Tier 1)
+- [Senate Permanent Subcommittee on Investigations: Renaissance Technologies tax avoidance report, 2014](https://www.hsgac.senate.gov/subcommittees/investigations/) (Tier 1)
 - [Wikipedia: Renaissance Technologies](https://en.wikipedia.org/wiki/Renaissance_Technologies) (Tier 3)
 - [NPR: Robert Mercer steps down from Renaissance](https://www.npr.org/2017/05/26/530181660/robert-mercer-is-a-force-to-be-reckoned-with-in-finance-and-conservative-politic) (Tier 2)
 

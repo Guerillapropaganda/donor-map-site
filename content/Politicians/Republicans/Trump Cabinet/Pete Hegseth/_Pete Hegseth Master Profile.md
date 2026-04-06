@@ -223,7 +223,7 @@ No ethics filing shows Hegseth divested defense contractor stocks before taking 
 - [The Hill: Hegseth Defends $200B Iran War Funding](https://www.thehill.com/policy/defense/5791278-heggeth-defends-pentagon-budget/) (Tier 2)
 - [CNBC: Pentagon $200 Billion Supplemental Request](https://www.cnbc.com/2026/03/19/hegseth-iran-war-budget.html) (Tier 2)
 - [The Intercept: Pentagon Claims $200 Billion for Iran War](https://theintercept.com/2026/03/19/pentagon-budget-iran-war-hegseth/) (Tier 2)
-- [SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php/Concerned_Veterans_for_America) (Tier 2)
+- [SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Concerned_Veterans_for_America) (Tier 2)
 - [American Oversight: Koch-Funded VA Privatization Group](https://americanoversight.org/documents-reveal-extent-of-koch-funded-va-privatization-groups-influence/) (Tier 2)
 - [Military.com: "We Welcome DOGE" Pentagon Cuts](https://www.military.com/daily-news/2025/02/11/we-welcome-doge-hegseth-says-musk-can-find-billions-of-dollars-pentagon-cuts.html) (Tier 2)
 - [Air and Space Forces: Hegseth $50B Pentagon Budget Cuts](https://www.airandspaceforces.com/hegseth-reviewing-shift-8-percent-pentagon-budget/) (Tier 2)

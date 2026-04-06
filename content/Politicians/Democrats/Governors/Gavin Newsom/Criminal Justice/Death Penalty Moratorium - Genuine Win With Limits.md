@@ -117,6 +117,6 @@ This is a genuine win with real limits. Credit the moratorium and the transfer p
 ### Tier 3 — Secondary & Analysis
 - [Death Penalty Information Center: DPIC California death row demographics and overview](https://deathpenaltyinfo.org/state-and-federal-info/state-by-state/california) (Tier 3)
 - [Death Penalty FOCUS: California death penalty facts and Newsom transformation of San Quentin](https://deathpenalty.org/ca_factsheet/) (Tier 3)
-- [Zócalo Public Square: "The Dark Side of Gavin Newsom's Moratorium on the Death Penalty" (2019)](https://www.zocalopublicsquare.org/2019/03/25/dark-side-gavin-newsoms-moratorium-death-penalty/ideas/connecting-california/) (Tier 3)
+- [Zócalo Public Square: "The Dark Side of Gavin Newsom's Moratorium on the Death Penalty" (2019)](https://www.zocalopublicsquare.org/dark-side-gavin-newsoms-moratorium-death-penalty/) (Tier 3)
 
 content-readiness:: ready

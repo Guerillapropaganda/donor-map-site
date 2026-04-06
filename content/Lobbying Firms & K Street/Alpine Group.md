@@ -280,10 +280,10 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 
 ### Sources
 
-- [OpenSecrets: Alpine Group Lobbying Firm Profile — 2025](https://www.opensecrets.org/federal-lobbying/firms/summary?cycle=2025&id=D000021816) (Tier 1)
-- [OpenSecrets: Alpine Group Lobbying Firm Profile — 2024](https://www.opensecrets.org/federal-lobbying/firms/summary?cycle=2024&id=D000021816) (Tier 1)
-- [OpenSecrets: Alpine Group Lobbyists — 2024](https://www.opensecrets.org/federal-lobbying/firms/lobbyists?cycle=2024&id=D000021816) (Tier 1)
-- [OpenSecrets: Alpine Group Issues Lobbied — 2024](https://www.opensecrets.org/federal-lobbying/firms/issues?cycle=2024&id=D000021816) (Tier 1)
+- [OpenSecrets: Alpine Group Lobbying Firm Profile — 2025](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000021816) (Tier 1)
+- [OpenSecrets: Alpine Group Lobbying Firm Profile — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2024&id=D000021816) (Tier 1)
+- [OpenSecrets: Alpine Group Lobbyists — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2024&id=D000021816) (Tier 1)
+- [OpenSecrets: Alpine Group Issues Lobbied — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000021816) (Tier 1)
 - [OpenSecrets: Alpine Group Organization Lobbying Profile](https://www.opensecrets.org/orgs/alpine-group/lobbying?id=D000021816) (Tier 1)
 - [The Hill: Lobbying World — Alpine Group Names New CEO](https://thehill.com/lobbying/4898825-lobbying-world-alpine-group-ceo/) (Tier 2)
 - [PPHC: Alpine Group Strengthens Defense and National Security Team with Abbey Overland](https://pphcompany.com/alpine-group-strengthens-defense-and-national-security-team-with-abbey-overland/) (Tier 3)
@@ -292,7 +292,7 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 - [Alpine Group: The Firm — Team and Overview](https://www.alpinegroup.com/thefirm) (Tier 3)
 - [O'Dwyer's: Walmart Alum Brainard Joins Alpine Group (Jan 13, 2025)](https://www.odwyerpr.com/story/public/22389/2025-01-13/walmart-alum-brainard-joins-alpine-group.html) (Tier 3)
 - [Dallas Innovates: D.C. Strategy Firm Alpine Group Expands to Texas](https://dallasinnovates.com/d-c-strategy-firm-alpine-group-expands-to-texas-cites-dfws-powerhouse-role-in-business-and-policy/) (Tier 3)
-- [LegiStorm: Les Spivey Biography](https://www.legistorm.com/person/bio/78/Lawrence_E_Spivey.html) (Tier 3)
+- [LegiStorm: Les Spivey Biography](https://www.legistorm.com/register.html) (Tier 3)
 - [LegiStorm: Colin Brainard Biography](https://www.legistorm.com/person/bio/51052/Colin_C_Brainard.html) (Tier 3)
 - [Journal of Accountancy: Ways and Means approves proposed TCJA extensions and tax changes (May 2025)](https://www.journalofaccountancy.com/news/2025/may/ways-and-means-releases-proposed-tcja-extensions-and-tax-changes/) (Tier 2)
 - [Tax Notes: Lobbying Swells for TCJA Rewrite; High Tide Forecast for 2025 (Aug 2024)](https://www.taxnotes.com/featured-news/lobbying-swells-tcja-rewrite-high-tide-forecast-2025/2024/08/21/7l4xw) (Tier 2)

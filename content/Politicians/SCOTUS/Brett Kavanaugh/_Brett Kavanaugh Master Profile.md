@@ -110,9 +110,10 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 
 ### Sources
 
-- [OpenSecrets: Brett Kavanaugh — Supreme Court Justice](https://www.opensecrets.org/members-of-congress/nominees/supreme-court-justices) (Tier 1)
+- [OpenSecrets: Brett Kavanaugh — Supreme Court Justice](https://www.opensecrets.org/news/) (Tier 1)
 - [OpenSecrets: Web of secret money hides one mega-donor funding conservative court](https://www.opensecrets.org/news/2017/11/web-of-secret-money-hides-one-mega-donor-funding-conservative-court/) (Tier 1)
 - [ProPublica: We Don't Talk About Leonard - The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 - [Brennan Center: Courting Disaster - The Trouble with Brett Kavanaugh's Views of Executive Power](https://www.brennancenter.org/our-work/analysis-opinion/courting-disaster-trouble-brett-kavanaughs-views-executive-power-age) (Tier 2)
 - [CBS News: Brett Kavanaugh Confirmed To Supreme Court With 50-48 Vote](https://www.cbsnews.com/news/brett-kavanaugh-confirmed-to-supreme-court-by-smallest-margin-in-modern-history/) (Tier 2)
 content-readiness:: ready
+ 

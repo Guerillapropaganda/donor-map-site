@@ -120,7 +120,7 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 
 ### Sources
 
-- [OpenSecrets: Clarence Thomas — Supreme Court Justice](https://www.opensecrets.org/members-of-congress/nominees/supreme-court-justices) (Tier 1)
+- [OpenSecrets: Clarence Thomas — Supreme Court Justice](https://www.opensecrets.org/news/) (Tier 1)
 - [ProPublica: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2)
 - [ProPublica: Clarence Thomas Secretly Participated in Koch Network Donor Events](https://www.propublica.org/article/clarence-thomas-secretly-attended-koch-brothers-donor-events-scotus) (Tier 2)
 - [ProPublica: Clarence Thomas Didn't Disclose Harlan Crow Real Estate Deal](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus) (Tier 2)
@@ -130,3 +130,4 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 - [NPR: Ginni Thomas texted Mark Meadows to try to overturn the 2020 election](https://www.npr.org/2022/03/25/1088720571/ginni-thomas-tex-messages-mark-meadows-2020-election) (Tier 2)
 - [Washington Post: Ginni Thomas's group Crowdsourcers got nearly $600,000 in anonymous donations](https://www.washingtonpost.com/investigations/2023/03/28/ginni-thomas-crowdsourcers-anonymous-donations/) (Tier 2)
 content-readiness:: ready
+ 

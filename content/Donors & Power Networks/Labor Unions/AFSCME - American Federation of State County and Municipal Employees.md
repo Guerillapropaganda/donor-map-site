@@ -99,3 +99,17 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 
 research-status:: ready — 1.3M members, $21.8M PAC (2024), $145.7M lifetime 98.6% Democratic, Janus v. AFSCME defendant, DOGE threat, CCPOA contrast, Koch two-pronged attack analysis. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 317 contributions totaling $4.9M
+
+| Top Recipient | Amount |
+|---|---|
+| PRIORITIES USA ACTION | $4.0M |
+| BATTLEGROUND TEXAS | $100.0K |
+| PETE AGUILAR FOR CONGRESS | $57.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

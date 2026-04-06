@@ -165,7 +165,7 @@ These are the rhetorical patterns Newsom uses to manage the contradiction betwee
 
 ### The 2028 Positioning
 
-No longer speculation — it's infrastructure. Campaign for Democracy PAC ($7.7M cash on hand). Book tour through New Hampshire, Nevada, South Carolina. 100,000+ new out-of-state donors. Hollywood writing big checks. Litigation portfolio against Trump worth $168 billion in preserved federal funding. October 2025: "Yeah, I'd be lying otherwise." [Source: [CalMatters: California News and Politics](https://calmatters.org/politics/) (Tier 2); [FPPC: California Campaign Finance Records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)]
+No longer speculation — it's infrastructure. Campaign for Democracy PAC ($7.7M cash on hand). Book tour through New Hampshire, Nevada, South Carolina. 100,000+ new out-of-state donors. Hollywood writing big checks. Litigation portfolio against Trump worth $168 billion in preserved federal funding. October 2025: "Yeah, I'd be lying otherwise." [Source: [CalMatters: California News and Politics](https://calmatters.org/category/politics/) (Tier 2); [FPPC: California Campaign Finance Records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)]
 
 [See: [[Newsom 2028 - The Donor Class Presidential Campaign]]]
 
@@ -202,3 +202,4 @@ The new fault line: AI. Labor unions publicly conditioned 2028 support on AI reg
 
 profile-status:: ready — all policy areas have individual notes (healthcare, Israel, housing, labor, immigration, environment, criminal justice, education, economic policy). All bold headers converted to ### format. Donor class map with 10 sector links. Donation-to-policy timeline with temporal mapping. Rhetorical signature moves documented. 2028 positioning tracked. Analytical patterns applied. All major claims inline-cited with Tier 1-2 sources (FPPC, OpenSecrets, CalMatters). Promoted to ready Session 38h (March 23, 2026).
 content-readiness:: ready
+ 

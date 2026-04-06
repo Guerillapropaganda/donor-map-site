@@ -87,7 +87,7 @@ AFL sits within broader U.S.-Israel political finance ecosystem. Mega-donors (Ad
 
 - [American Friends of Likud Inc. | Charity Navigator Profile](https://www.charitynavigator.org/ein/133935945) (Tier 2)
 - [American Friends of Likud Inc - Nonprofit Explorer - ProPublica](https://projects.propublica.org/nonprofits/organizations/133935945) (Tier 2)
-- [American Friends of Likud - JNS.org](https://www.jns.org/organization/aflikud-org/) (Tier 3)
+- [American Friends of Likud - JNS.org](https://www.jns.org/organization/aflikud-org) (Tier 3)
 - [American Friends Of Likud Inc - GuideStar Profile](https://www.guidestar.org/profile/13-3935945) (Tier 3)
 - [American Friends of Likud Inc in New York, New York - GreatNonprofits](https://greatnonprofits.org/org/american-friends-of-likud-inc) (Tier 3)
 - [AFL- American Friends of Likud - Facebook](https://www.facebook.com/AmericanFriendsOfLikud/) (Tier 3)

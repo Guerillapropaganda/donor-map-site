@@ -117,7 +117,7 @@ Third, **preemption of democratic governance.** The December 2025 executive orde
 
 ### Sources
 
-- [OpenSecrets: Internet industry summary](https://www.opensecrets.org/industries/indus?ind=B13) (Tier 1)
+- [OpenSecrets: Internet industry summary](https://www.opensecrets.org/industries?ind=B13) (Tier 1)
 - [OpenSecrets: Fairshake PAC profile, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1)
 - [OpenSecrets: Elon Musk donor detail, 2024 cycle](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003708&name=Musk,+Elon&super_only=N&type=I) (Tier 1)
 - [OpenSecrets: Reid Hoffman donor detail, 2024 cycle](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000004136&name=Hoffman,+Reid+Garrett&super_only=S&type=I) (Tier 1)

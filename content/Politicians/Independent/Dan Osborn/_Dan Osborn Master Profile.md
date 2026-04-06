@@ -146,7 +146,7 @@ Osborn campaigns as an "independent" outsider fighting against corporate-backed 
 - [Ballotpedia: Dan Osborn](https://ballotpedia.org/Dan_Osborn) (Tier 3)
 - [Semafor: 'There's no one like me in the Senate': Union leader Dan Osborn looks for a Nebraska upset](https://www.semafor.com/article/09/06/2024/theres-no-one-like-me-in-the-senate-union-leader-dan-osborn-looks-for-a-nebraska-upset) (Tier 2)
 - [In These Times: This Labor Leader Who Nearly Unseated a GOP Senator Wants More Working-Class Candidates to Run](https://inthesetimes.com/article/labor-union-working-class-dan-osborn-nebraska) (Tier 2)
-- [ABC News: Nebraska independent Dan Osborn launches group for working-class candidates, reflects on Senate run](https://abcnews.go.com/Politics/nebraska-independent-dan-osborn-launches-group-working-class/story?id=115973838) (Tier 3)
+- [ABC News: Nebraska independent Dan Osborn launches group for working-class candidates, reflects on Senate run](https://abcnews.com/Politics/nebraska-independent-dan-osborn-launches-group-working-class/story?id=115973838?id=115973838) (Tier 3)
 - [Labor Notes: Interview: Can a Labor-Backed Candidate in Nebraska Inspire More Working-Class Independents?](https://www.labornotes.org/blogs/2025/01/interview-can-labor-backed-candidate-nebraska-inspire-more-working-class-independents) (Tier 2)
 - [UAW Endorsement Statement](https://uaw.org/uaw-endorses-independent-dan-osborn-in-nebraska-u-s-senate-race/) (Tier 1)
 
@@ -158,3 +158,4 @@ party:: Independent
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
+ 

@@ -95,13 +95,13 @@ His withdrawal in January 2024 was unremarkable — another failed presidential 
 
 ### Sources
 
-- [OpenSecrets: Chris Christie 2024 Campaign Finance](https://www.opensecrets.org/2024-presidential-race/chris-christie/contributors?id=N00037008) (Tier 1)
+- [OpenSecrets: Chris Christie 2024 Campaign Finance](https://www.opensecrets.org/2024-presidential-race?id=N00037008) (Tier 1)
 - [Ballotpedia: Chris Christie 2024 Presidential Campaign](https://ballotpedia.org/Chris_Christie_presidential_campaign,_2024) (Tier 2)
 - [CNBC: Christie Lures Big Donors as He Takes On Trump](https://www.cnbc.com/2023/06/20/chris-christie-big-donors-trump-fight.html) (Tier 2)
 - [The Hill: Christie's Charles Kushner Prosecution Remarks](https://thehill.com/blogs/blog-briefing-room/news/427594-chris-christie-calls-kushners-dad-one-of-the-most-loathsome/) (Tier 2)
 - [U.S. Department of Justice: Charles Kushner Guilty Plea (2005)](https://www.justice.gov/archive/tax/usaopress/2005/txdv05kush0304_r.htm) (Tier 1)
 - [Washington Examiner: Kushner Prosecution and Christie Vendetta Analysis](https://www.washingtonexaminer.com/opinion/1174099/byron-york-the-sordid-case-behind-jared-kushners-grudge-against-chris-christie) (Tier 2)
-- [In These Times: Christie and Pension Fund Politics](https://www.inthesetimes.com/article/two-ways-chris-christie-screwed-over-pensioners-for-donors) (Tier 3)
+- [In These Times: Christie and Pension Fund Politics](https://inthesetimes.com/article/two-ways-chris-christie-screwed-over-pensioners-for-donors) (Tier 3)
 
 profile-status:: ready
-content-readiness:: ready
+c

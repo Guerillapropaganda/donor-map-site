@@ -131,7 +131,7 @@ The analytical pattern: **Revolving Door** (complete cycle: regulator → crisis
 
 ### Sources
 
-- [FEC: Individual contributions — Geithner, Timothy (2000–2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=geithner%2C+timothy&min_date=01%2F01%2F2000&max_date=12%2F31%2F2026) (Tier 1) — 31 contributions, $450K+, 100% Democratic, all from Warburg Pincus
+- [FEC: Individual contributions — Geithner, Timothy (2000–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=geithner%2C+timothy&min_date=01%2F01%2F2000&max_date=12%2F31%2F2026) (Tier 1) — 31 contributions, $450K+, 100% Democratic, all from Warburg Pincus
 - [ProPublica: Bailout Tracker — Tracking Every Dollar and Every Recipient](https://projects.propublica.org/bailout/) (Tier 1) — $634.8B outflows, $109B government profit
 - [Warburg Pincus: Timothy F. Geithner — Team page](https://warburgpincus.com/team/timothy-f-geithner/) (Tier 1) — Chairman biography, $83B AUM
 - [Wikipedia: Timothy Geithner](https://en.wikipedia.org/wiki/Timothy_Geithner) (Tier 3) — Biographical overview, career timeline, HAMP controversy
@@ -143,3 +143,16 @@ The analytical pattern: **Revolving Door** (complete cycle: regulator → crisis
 
 research-status:: ready — Full expansion from 39 to 160+ lines. FEC data Chrome-verified (31 contributions, $450K+, 100% Democratic). ProPublica Bailout Tracker verified ($634.8B). Warburg Pincus bio verified. Ballotpedia link removed (no page exists — Geithner was appointed, never elected). OpenSecrets revolving door URL format valid but site 502 at verification time. Complete donor node anatomy: Who They Are → What They Want → Who They Fund → What They've Gotten (Format 2 timeline, 8 rows) → The Revolving Door → Class Analysis → Capture Architecture → Sources. 7 sources (Tier 1–3).
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 32 contributions totaling $469.4K
+
+| Top Recipient | Amount |
+|---|---|
+| BIDEN ACTION FUND | $150.0K |
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $147.2K |
+| HOUSE VICTORY PROJECT 2024 | $85.8K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

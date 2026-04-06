@@ -180,7 +180,7 @@ The Halperin partnership and Hicks hiring are not anomalies — they are the pat
 - [Hollywood Reporter: Megyn Kelly Podcast Network — Host Launches MK Media With Mark Halperin](https://www.hollywoodreporter.com/business/digital/megyn-kelly-launches-mk-media-podcast-network-1236171445/) (Tier 2)
 - [Variety: Megyn Kelly to Lead Her Own Sirius XM Channel in New Multi-Year Deal](https://variety.com/2025/tv/news/megyn-kelly-sirius-xm-channel-multi-year-deal-1236543962/) (Tier 2)
 - [Semafor: Inside Megyn Kelly's YouTube success](https://www.semafor.com/article/08/25/2024/inside-megyn-kellys-youtube-success) (Tier 2)
-- [ABC News: Megyn Kelly endorses Trump, calling him 'protector of women'](https://abcnews.go.com/Politics/megyn-kelly-endorses-trump-calling-protector-women/story?id=115508795) (Tier 2)
+- [ABC News: Megyn Kelly endorses Trump, calling him 'protector of women'](https://abcnews.com/Politics/megyn-kelly-endorses-trump-calling-protector-women/story?id=115508795?id=115508795) (Tier 2)
 - [Hollywood Reporter: Megyn Kelly Insists She's a Journalist While Explaining Trump Endorsement](https://www.hollywoodreporter.com/news/general-news/megyn-kelly-podcast-still-a-journalist-endorsement-donald-trump-1236177299/) (Tier 2)
 - [PBS Frontline: How Megyn Kelly Went from Fox News Star to Alt-Right Target](https://www.pbs.org/wgbh/frontline/article/cull-her-out-how-megyn-kelly-went-from-fox-news-star-to-alt-right-target/) (Tier 2)
 - [Wikipedia: Megyn Kelly](https://en.wikipedia.org/wiki/Megyn_Kelly) (Tier 3)

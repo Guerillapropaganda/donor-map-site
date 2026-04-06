@@ -2,7 +2,7 @@
 title: "Josh Gottheimer Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,11 +11,6 @@ district: "5"
 top-donors:
   - "Palantir"
   - "Wall Street Finance PACs"
-govtrack-id: 412714
-bills-sponsored: 65
-bills-cosponsored: 720
-website: "https://gottheimer.house.gov"
-phone: "202-225-4465"
 ---
 
 #politician #democrat #house #josh-gottheimer #donor-pipeline #corporate-democrat #problem-solvers
@@ -160,31 +155,12 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 ### Sources
 
 - [OpenSecrets: Rep Josh Gottheimer Donor Profile](https://www.opensecrets.org/members-of-congress/josh-gottheimer/summary) (Tier 1)
-- [Wall Street PAC Contributions, 2020-2024 Cycle](https://www.opensecrets.org/industries/finance_summary.php) (Tier 1)
+- [Wall Street PAC Contributions, 2020-2024 Cycle](https://www.opensecrets.org/industries?Ind=F) (Tier 1)
 - [OpenSecrets: Palantir Technologies political donations profile](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1)
-- [Problem Solvers Caucus Member Positions on IRA](https://www.democrats.org/problem-solvers-caucus) (Tier 1)
-- [Pharmaceutical PAC Contributions to House Democrats, 2020-2024](https://www.opensecrets.org/industries/indus_details.php?ind=H04) (Tier 1)
+- [Problem Solvers Caucus Member Positions on IRA](https://www.democrats.org/problem-solvers-caucus) *(source unavailable)* (Tier 1)
+- [Pharmaceutical PAC Contributions to House Democrats, 2020-2024](https://www.opensecrets.org/industries?ind=H04) (Tier 1)
 - [CNN: How allies of AI are ramping up their political donations for the midterms](https://www.cnn.com/2026/02/11/politics/palantir-midterms-artificial-intelligence-ai) (Tier 2)
-- [Tech PAC Contributions to Congress, 2020-2024](https://www.opensecrets.org/industries/tech_summary.php) (Tier 1)
+- [Tech PAC Contributions to Congress, 2020-2024](https://www.opensecrets.org/industries?Ind=B) (Tier 1)
 
 profile-status:: ready
 content-readiness:: ready
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 65 |
-| Bills Cosponsored | 720 |
-| Total Votes Cast | 4,873 |
-
-**Recent bills sponsored:**
-
-- H.R. 8138: DPA Specialized Staffing Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7870: ICE Standards Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Con.Res. 75: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Res. 1079: Recognizing the significance of Charcot-Marie-Tooth disease and the need for robust funding of the National Institute of — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7694: To direct the Secretary of Health and Human Services to carry out a public awareness campaign to increase participation  — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412714) (Tier 1)
-<!-- auto:govtrack end -->

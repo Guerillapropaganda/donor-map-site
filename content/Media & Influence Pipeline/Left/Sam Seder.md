@@ -154,7 +154,7 @@ Sam Seder represents **the progressive independent media model** — the audienc
 
 ### Sources
 
-- [FEC Individual Contributions: Sam Seder (2 results, NY, self-employed, 2018)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sam+seder&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Sam Seder (2 results, NY, self-employed, 2018)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=sam+seder&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Wikipedia: Sam Seder](https://en.wikipedia.org/wiki/Sam_Seder) (Tier 3)
 - [The Intercept: "MSNBC Reverses Decision to Fire Contributor Sam Seder" (Dec 2017)](https://theintercept.com/2017/12/07/sam-seder-msnbc-reverses-decision-to-fire-contributor-sam-seder/) (Tier 2)
 - [CJR: "MSNBC, Cernovich, and journalism's struggle with new-media antagonists" (Dec 2017)](https://www.cjr.org/analysis/msnbc-mike-cernovich.php) (Tier 2)
@@ -162,7 +162,7 @@ Sam Seder represents **the progressive independent media model** — the audienc
 - [Washington Post: "The odd episode of Sam Seder's firing — and rehiring — by MSNBC" (Dec 2017)](https://www.washingtonpost.com/lifestyle/style/the-odd-episode-of-sam-seders-firing--and-rehiring--by-msnbc/2017/12/07/4608ce02-db5d-11e7-a841-2066faf731ef_story.html) (Tier 2)
 - [The Majority Report — Official Support Page](https://majorityreportradio.com/support) (Tier 1)
 - [Patreon: The Majority Report with Sam Seder](https://www.patreon.com/MajorityReport) (Tier 1)
-- [Wikipedia: Air America (radio network)](https://en.wikipedia.org/wiki/Air_America_(radio_network)) (Tier 3)
+- [Wikipedia: Air America (radio network)](https://en.wikipedia.org/wiki/Air_America_(radio_network))) (Tier 3)
 - [Salon: "MSNBC backtracks, rehires Sam Seder" (Dec 2017)](https://www.salon.com/2017/12/07/msnbc-backtracks-rehires-sam-seder-after-firing-him-in-response-to-mike-cernovich-led-campaign/) (Tier 2)
 ---
 

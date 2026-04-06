@@ -112,7 +112,21 @@ The asymmetry between DGA's stated goal (elect Democratic governors) and its act
 - [OpenSecrets: Democratic Governors Association profile](https://www.opensecrets.org/orgs/democratic-governors-association/summary) (Tier 1)
 - [ProPublica 527 Explorer: Democratic Governors Association — $884M contributions, IRS Form 8872 filings](https://projects.propublica.org/527-explorer/orgs/521304889) (Tier 1)
 - [Center for Public Integrity: How Democrats use dark money and win elections](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2)
-- [Center for Responsive Politics: State-level mega-donor spending](https://www.opensecrets.org/news/2022/11/state-elections-mega-donor-spending/) (Tier 2)
+- [Center for Responsive Politics: State-level mega-donor spending](https://www.opensecrets.org/news/) (Tier 2)
 - [Ballotpedia: 2022 Gubernatorial Elections](https://ballotpedia.org/2022_United_States_gubernatorial_elections) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 326 contributions totaling $92.9M
+
+| Top Recipient | Amount |
+|---|---|
+| DGA ACTION | $51.2M |
+| PUT NEW HAMPSHIRE FIRST | $24.0M |
+| A STRONGER OHIO | $7.6M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

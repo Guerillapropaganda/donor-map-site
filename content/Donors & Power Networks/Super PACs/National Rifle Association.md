@@ -169,7 +169,7 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 - [New York Attorney General: NRA Trial Victory — LaPierre Corruption Verdict](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-trial-against-nra-and-wayne-lapierre) (Tier 1)
 - [NRA-PVF: Grades and Endorsements](https://www.nrapvf.org/grades/) (Tier 1)
 - [NPR: NRA Wayne LaPierre Corruption Trial Verdict](https://www.npr.org/2024/02/23/1232229060/nra-wayne-lapierre-corruption-trial-verdict-new-york) (Tier 2)
-- [NPR: NRA Was 'Foreign Asset' to Russia Ahead of 2016](https://www.npr.org/2019/09/27/764879242/nra-was-foreign-asset-to-russia-new-report-reveals) (Tier 2)
+- [NPR: NRA Was 'Foreign Asset' to Russia Ahead of 2016](https://www.npr.org/2019/09/27/764879242/nra-was-foreign-asset-to-russia-ahead-of-2016-new-senate-report-reveals) (Tier 2)
 - [CNN: NRA Officials Knew Russians Were Using Ties](https://www.cnn.com/2019/09/27/politics/nra-russians-ties-president-2016-election/index.html) (Tier 2)
 - [NRA Watch: Broken & Bankrupt — The Continued Decline of the NRA](https://nrawatch.org/report/the-continued-decline-of-the-nra/) (Tier 2)
 - [The Reload: NRA Membership Fell to 3.8 Million in 2023](https://thereload.com/nra-membership-fell-to-3-8-million-in-2023/) (Tier 2)
@@ -182,3 +182,17 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 ---
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $2.8M
+
+| Top Recipient | Amount |
+|---|---|
+| NRA VICTORY FUND, INC. | $1.5M |
+| REPUBLICAN NATIONAL COMMITTEE | $305.0K |
+| NRSC | $130.2K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

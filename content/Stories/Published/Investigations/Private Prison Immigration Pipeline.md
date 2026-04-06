@@ -114,11 +114,11 @@ This is the human cost of the pipeline. The financial incentive to maximize dete
 
 ### Sources
 
-- [OpenSecrets: Private Prison Industry Donations 2024](https://www.opensecrets.org/industries/indus.php?ind=G6100) (Tier 1)
+- [OpenSecrets: Private Prison Industry Donations 2024](https://www.opensecrets.org/industries?ind=G6100) (Tier 1)
 - [ProPublica: GEO Group Is Fighting to Pay ICE Detainees as Little as $1 a Day to Work](https://www.propublica.org/article/geo-group-ice-detainees-wage) (Tier 2)
 - [The Intercept: Private Prison Companies Pursue Creative Workarounds to Biden Executive Order](https://theintercept.com/2021/10/22/private-prisons-jails-geo-group-biden/) (Tier 2)
 - [Government Accountability Office: Private Prison Performance Report](https://gao.gov/private-prisons) (Tier 1)
 - [The Nation: Immigration Detention Industry Profits](https://thenation.com/article/detention-profits/) (Tier 2)
-- [American Civil Liberties Union: Private Prison Conditions Report](https://aclu.org/private-detention) (Tier 2)
+- [American Civil Liberties Union: Private Prison Conditions Report](https://www.aclu.org/issues/immigrants-rights/immigrants-rights-and-detention/privatized-immigration-detention) (Tier 2)
 
 content-readiness:: ready

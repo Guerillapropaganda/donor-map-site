@@ -168,16 +168,16 @@ The funding model is structurally captured without any single donor or patron. T
 
 ### Sources
 
-- [FEC Individual Contributions Search: Lex Fridman (0 results, 2015-2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=lex+fridman&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions Search: Lex Fridman (0 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=lex+fridman&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [CJR: "The Idiot" — Lex Fridman's Expansive, Anti-Journalistic Podcast Style](https://www.cjr.org/feature/the-idiot-lex-fridman-podcast-musk-trump-modi-tesla.php) (Tier 2)
 - [Wikipedia: Lex Fridman](https://en.wikipedia.org/wiki/Lex_Fridman) (Tier 3)
 - [Boston Globe: How Podcaster Lex Fridman Became MIT's Highest-Profile Science Ambassador (Feb 2024)](https://www.bostonglobe.com/2024/02/14/business/lex-fridman-mit-science-ambassador-podcast/) (Tier 2)
 - [Lex Fridman Podcast — Official Sponsors Page](https://lexfridman.com/sponsors/) (Tier 1)
 - [MIT LIDS Research Staff](https://lids.mit.edu/people/research-staff) (Tier 1)
-- [Lex Fridman — MIT CCES Team Page](https://cces.mit.edu/team/lex-fridman/) (Tier 1)
+- [Lex Fridman — MIT CCES Team Page](https://cces.mit.edu/team/lex-fridman/) *(source unavailable)* (Tier 1)
 - [Washington Post: Zelensky Seeks New Republican Audience in Lex Fridman Interview (Jan 2025)](https://www.washingtonpost.com/world/2025/01/10/ukraine-zelensky-lex-fridman-podcasts/) (Tier 2)
-- [Helen Lewis, The Atlantic: Trump's Red-Pill Podcast Tour (Sep 2024)](https://www.theatlantic.com/politics/archive/2024/09/trump-podcast-tour-lex-fridman/679775/) (Tier 2)
-- [Nathan J. Robinson, Current Affairs: "The Guy Who Just Loves Everyone" (Jan 2023)](https://www.currentaffairs.org/posts/the-guy-who-just-loves-everyone) (Tier 2)
+- [Helen Lewis, The Atlantic: Trump's Red-Pill Podcast Tour (Sep 2024)](https://www.theatlantic.com/technology/archive/2024/09/donald-trump-cat-memes/679775/) (Tier 2)
+- [Nathan J. Robinson, Current Affairs: "The Guy Who Just Loves Everyone" (Jan 2023)](https://www.currentaffairs.org/posts/the-guy-who-just-loves-everyone) *(source unavailable)* (Tier 2)
 - [Business Insider: Julia Black, "Safe Space for Anti-Woke Tech Elite" (Apr 2023)](https://www.businessinsider.com/lex-fridman-podcast-anti-woke-elon-musk-ai) (Tier 2)
 - [Sponsorable: Lex Fridman Podcast Sponsor Data (402/494 episodes sponsored, 119 companies)](https://sponsorable.com/podcasts/lex-fridman-podcast) (Tier 3)
 - [Lex Fridman on X: "I'm not right-wing or left-wing..."](https://x.com/lexfridman/status/1600669648185446403) (Tier 1)

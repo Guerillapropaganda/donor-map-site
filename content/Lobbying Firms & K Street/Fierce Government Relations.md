@@ -193,15 +193,15 @@ The structural function this serves for the donor class is risk management. A co
 
 ### Sources
 
-- [OpenSecrets: Fierce Government Relations Lobbying Firm Profile — Summary](https://www.opensecrets.org/federal-lobbying/firms/summary?cycle=2025&id=D000021982) (Tier 1)
-- [OpenSecrets: Fierce Government Relations Lobbyists — Revolving Door Data](https://www.opensecrets.org/federal-lobbying/firms/lobbyists?cycle=2025&id=D000021982) (Tier 1)
-- [OpenSecrets: Fierce Government Relations Issues Lobbied](https://www.opensecrets.org/federal-lobbying/firms/issues?cycle=2025&id=D000021982) (Tier 1)
+- [OpenSecrets: Fierce Government Relations Lobbying Firm Profile — Summary](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000021982) (Tier 1)
+- [OpenSecrets: Fierce Government Relations Lobbyists — Revolving Door Data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000021982) (Tier 1)
+- [OpenSecrets: Fierce Government Relations Issues Lobbied](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2025&id=D000021982) (Tier 1)
 - [Wikipedia: Fierce, Isakowitz and Blalock](https://en.wikipedia.org/wiki/Fierce,_Isakowitz_and_Blalock) (Tier 3)
 - [FierceGR: Official Website — Our Story](https://www.fiercegr.com/our-story/) (Tier 4)
 - [FierceGR: Official Website — Our Team](https://www.fiercegr.com/our-team/) (Tier 4)
 - [WAVE3 News: McConnell Announces Departure of Chief of Staff Billy Piper](https://www.wave3.com/story/13598174/mcconnell-announces-departure-of-chief-of-staff-billy-piper/) (Tier 3)
 - [Roll Call: Second Top McConnell Aide to Step Down This Year (Billy Piper)](https://rollcall.com/2010/12/01/second-top-mcconnell-aide-to-step-down-this-year/) (Tier 2)
-- [OpenSecrets: Fierce Government Relations Revolving Door Profile](https://www.opensecrets.org/revolving-door/firm-profile?id=D000021982) (Tier 1)
+- [OpenSecrets: Fierce Government Relations Revolving Door Profile](https://www.opensecrets.org/revolving-door?id=D000021982) (Tier 1)
 - [Senate LDA: Fierce Government Relations Lobbying Disclosure Filings](https://lda.senate.gov/filings/public/filing/search/?registrant=Fierce+Government+Relations) (Tier 1)
 - [Holland & Knight / Bloomberg Government: AI Lobbying Soars in Washington, Among Big Firms and Upstarts](https://www.hklaw.com/en/news/intheheadlines/2025/12/ai-lobbying-soars-in-washington-among-big-firms-and-upstarts) (Tier 2) — Q1-Q3 2025 AI lobbying revenue; Fierce listed among Republican boutiques handling AI regulatory work
 - [Bloomberg Law: AI Influence Spending Booms, Signaling Monumental Clashes Ahead](https://news.bloomberglaw.com/artificial-intelligence/ai-influence-spending-booms-signaling-monumental-clashes-ahead) (Tier 2) — Q4 2025 AI lobbying record $37.2M (+38% YoY); full year ~$130M across all firms

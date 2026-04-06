@@ -2,7 +2,7 @@
 title: "Jeff Merkley Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,8 +18,6 @@ issues:
 top-donors:
   - "Labor Unions"
   - "Small Dollar Donors"
-total-received: "$6,114,210"
-fec-candidate-id: "S8OR00207"
 ---
 
 
@@ -123,7 +121,7 @@ Merkley is the vault's control case — the senator who most consistently operat
 - [Senator Merkley: Statement on Financial Reform Legislation](https://www.merkley.senate.gov/merkley-statement-on-financial-reform-legislation/) (Tier 1)
 - [Jeff Merkley Campaign: End Hedge Fund Control of American Homes Act](https://www.jeffmerkley.com/2024/02/02/end-hedge-fund-control-american-homes-act/) (Tier 1)
 - [Jeff Merkley Campaign: Billionaire Money Is Flooding Our Elections](https://www.jeffmerkley.com/2026/03/18/billionaire-money-flooding-our-elections/) (Tier 1)
-- [Bend Bulletin: Merkley Has Focused on Health, Energy and Consumer Protection](https://www.bendbulletin.com/home/2286306-151/merkley-has-focused-on-health-energy-and-consumer) (Tier 2)
+- [Bend Bulletin: Merkley Has Focused on Health, Energy and Consumer Protection](https://web.archive.org/web/2023/https:/www.bendbulletin.com/home/2286306-151/merkley-has-focused-on-health-energy-and-consumer) (Tier 2)
 - [GovTrack: Senator Jeff Merkley](https://www.govtrack.us/congress/members/jeff_merkley/412325) (Tier 3)
 - [Wikipedia: Jeff Merkley](https://en.wikipedia.org/wiki/Jeff_Merkley) (Tier 3)
 - [Ballotpedia: Jeff Merkley](https://ballotpedia.org/Jeff_Merkley) (Tier 3)
@@ -136,37 +134,3 @@ party:: Democrat
 profile-status:: ready
 research-status:: ready
 content-readiness:: ready
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $6,114,210 |
-| Individual Contributions | $2,859,515 |
-| PAC Contributions | $360,725 |
-| Cash on Hand | 5951698.96 |
-| IE Support (Super PAC) | $1,836,784 |
-| IE Opposition (Super PAC) | $8,101,626 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $6,114,210 | $2,859,515 | $360,725 |
-| 2020 | $11,451,041 | $5,004,768 | $755,251 |
-| 2014 | $12,022,202 | $5,410,134 | $2,270,237 |
-| 2008 | $6,512,231 | $3,802,026 | $708,040 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $0 | $5,166,418 |
-| FREEDOM PARTNERS ACTION FUND INC | $0 | $2,028,031 |
-| SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (SEIU COPE) | $861,651 | $0 |
-| League of Conservation Voters Inc | $591,357 | $0 |
-| AMERICAN FUTURE FUND POLITICAL ACTION | $0 | $330,000 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1)
-<!-- auto:fec-politician end -->

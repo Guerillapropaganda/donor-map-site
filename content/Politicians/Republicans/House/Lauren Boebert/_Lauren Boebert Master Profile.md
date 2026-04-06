@@ -161,7 +161,7 @@ The restaurant was never a successful business — it was a brand-building exerc
 - [FEC: MUR 7876 — mileage reimbursement complaint](https://www.fec.gov/files/legal/murs/7876/7876_12.pdf) (Tier 1)
 - [Congress.gov: Lauren Boebert member profile](https://www.congress.gov/member/lauren-boebert/B000825) (Tier 1)
 - [Colorado Sun: Business records tie Boebert to husband's gas firm](https://coloradosun.com/2021/08/20/lauren-boebert-husband-jayson-oil-gas-consulting-terra-energy/) (Tier 2)
-- [Salon: Boebert's gas problem — concealed conflict of interest](https://www.salon.com/2021/08/24/lauren-boeberts-gas-problem-lawmaker-concealed-blatant-conflict-of-interest) (Tier 2)
+- [Salon: Boebert's gas problem — concealed conflict of interest](https://www.salon.com/2021/08/24/lauren-boeberts-gas-problem-lawmaker-concealed-blatant-conflict-of-interest/) (Tier 2)
 - [CPR: 38,000 miles mileage claim](https://www.cpr.org/2021/02/07/what-we-know-about-lauren-boeberts-campaign-payments-to-herself-for-driving-38000-miles/) (Tier 2)
 - [NBC News: Boebert improperly used campaign funds for rent/utilities](https://www.nbcnews.com/politics/congress/rep-lauren-boebert-improperly-used-campaign-funds-rent-utilities-n1279976) (Tier 2)
 - [Colorado Newsline: 2024 grassroots and Super PAC funding](https://coloradonewsline.com/2024/10/16/grassroots-super-pac-funding-colorado-2024-congressional/) (Tier 2)

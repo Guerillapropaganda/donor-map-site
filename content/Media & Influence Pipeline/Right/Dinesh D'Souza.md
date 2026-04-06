@@ -163,11 +163,11 @@ D'Souza represents the **propagandist-for-hire** model within the conservative d
 
 ### Sources
 
-- [Wikipedia: Dinesh D'Souza](https://en.wikipedia.org/wiki/Dinesh_D%27Souza) (Tier 3)
+- [Wikipedia: Dinesh D'Souza](https://en.wikipedia.org/wiki/Dinesh_D'Souza) (Tier 3)
 - [Business Wire: Salem Media Group Announces Landmark Deal with Donald Trump Jr. and Lara Trump](https://www.businesswire.com/news/home/20250403021482/en/Salem-Media-Group-Announces-Landmark-Deal-with-Donald-Trump-Jr.-and-Lara-Trump-Signaling-a-Bold-New-Era-in-Conservative-Media) (Tier 3)
 - [Bloomberg: Trump Family Backs Christian Radio Network in Buyer Beware Penny Stock World](https://www.bloomberg.com/news/articles/2025-04-15/trump-family-backs-christian-radio-network-in-buyer-beware-penny-stock-world) (Tier 2)
 - [FEC API: D'Souza Media LLC contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=D%27Souza%20Media&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
-- [U.S. District Court: 2000 Mules Defamation Ruling](https://www.documentcloud.org/documents/13508066-2000-mules-defamation) (Tier 1)
+- [U.S. District Court: 2000 Mules Defamation Ruling](https://www.documentcloud.org/documents/13508066-2000-mules-defamation/) (Tier 1)
 - [ProPublica Nonprofit Explorer: John M. Olin Foundation](https://projects.propublica.org/nonprofits/organizations/136181096) (Tier 1)
 - [Council for National Policy Membership Directory](https://www.cnpaction.org/) (Tier 3)
 

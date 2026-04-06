@@ -143,7 +143,7 @@ The temporary individual provisions (set to expire 2025, then extended to 2028 u
 - [ScienceDirect / Journal of Economic Dynamics and Control: "Share buybacks and corporate tax cuts" — empirical analysis of 2018 buyback wave](https://www.sciencedirect.com/science/article/abs/pii/S0165188923000283) (Tier 2)
 - [CNN Business: Stock buyback records ($437B explosion in 2018 post-TCJA)](https://money.cnn.com/2018/07/10/investing/stock-buybacks-record-tax-cuts/) (Tier 2)
 - [Tax Foundation: OBBBA — Trump Tax Cuts 2025 budget reconciliation](https://taxfoundation.org/research/all/federal/trump-tax-cuts-2025-budget-reconciliation/) (Tier 2)
-- [Medicare Rights Center: OBBBA triggers $536B in Medicare cuts](https://democrats-budget.house.gov/resources/fact-sheet/house-passed-fy25-reconciliation-bill-triggers-535-billion-medicare-cuts) (Tier 2)
+- [Medicare Rights Center: OBBBA triggers $536B in Medicare cuts](https://democrats-budget.house.gov/resources/fact-sheet/trumps-big-ugly-law-triggers-536-billion-medicare-cuts) (Tier 2)
 
 content-readiness:: ready
 

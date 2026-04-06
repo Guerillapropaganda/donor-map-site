@@ -324,14 +324,14 @@ The revolving door completes the circuit: research produced → personnel traine
 
 ### Policy Analysis and Publications:
 
-- [Cato Institute: Cato Handbook for Policymakers (9th Edition, 2022)](https://www.cato.org/cato-handbook-policymakers) (Tier 3 — institutional source)
+- [Cato Institute: Cato Handbook for Policymakers (9th Edition, 2022)](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022) (Tier 3 — institutional source)
 - [Cato Institute: Policy on Social Security Choice](https://www.cato.org/policy-report/september/october-1995/cato-launches-social-security-privatization-effort) (Tier 3)
-- [Cato Institute: Repealing Obamacare (Handbook chapter)](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policy-makers-8th-edition-2017/4-repealing-obamacare) (Tier 3)
+- [Cato Institute: Repealing Obamacare (Handbook chapter)](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022/cato-handbook-policy-makers-8th-edition-2017/4-repealing-obamacare) (Tier 3)
 - [Cato Institute: King v. Burwell scholarship by Michael Cannon](https://www.cato-unbound.org/) (Tier 3)
 - [Cato Institute: Medicare for All Opposition Commentary](https://www.cato.org/commentary/medicare-all-would-mean-worse-care-all) (Tier 3)
 - [Cato Institute: TrumpRx Criticism (February 2026)](https://www.cato.org/blog/trumprx-when-government-tries-build-market) (Tier 3)
 - [Cato Institute: Climate and Energy Policy Analysis - Travis Fisher](https://www.cato.org/blog/how-inflation-reduction-act-bankrolls-epa-overreach) (Tier 3)
-- [Cato Institute: Minimum Wage Policy](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022/minimum-wage) (Tier 3)
+- [Cato Institute: Minimum Wage Policy](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022/cato-handbook-policymakers-9th-edition-2022/minimum-wage) (Tier 3)
 - [Cato Institute: Taxing Wealth and Capital Income (August 2019)](https://www.cato.org/tax-budget-bulletin/taxing-wealth-capital-income) (Tier 3)
 - [Cato Institute: Wealth and Taxes (February 2020)](https://www.cato.org/publications/tax-budget-bulletin/wealth-taxes) (Tier 3)
 - [Cato Institute: Fossil Fuel Subsidies Commentary (June 2025)](https://www.cato.org/blog/fossil-fuel-subsidies-are-mostly-fiction-real-energy-subsidies-should-go) (Tier 3)
@@ -353,10 +353,10 @@ The revolving door completes the circuit: research produced → personnel traine
 
 - [DeSmog: Cato Institute profile](https://www.desmog.com/cato-institute/) (Tier 2)
 - [Climate Investigations Center: Patrick Michaels fossil fuel funding timeline](https://climateinvestigations.org/patrick-michaels-climate-denial/) (Tier 2)
-- [SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php/Cato_Institute) (Tier 2)
+- [SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Cato_Institute) (Tier 2)
 - [InfluenceWatch: Cato Institute](https://www.influencewatch.org/non-profit/cato-institute/) (Tier 2)
 - [Think Tank Funding Tracker: Cato Institute](https://thinktankfundingtracker.org/think-tank/cato-institute/) (Tier 2)
-- [Greenpeace USA: Koch network funding to Cato (1986–2015 data)](https://www.greenpeace.org/) (Tier 2)
+- [Greenpeace USA: Koch network funding to Cato (1986–2015 data)](https://www.greenpeace.org/global/) (Tier 2)
 - [Niskanen Center: Examining Cato's Case Against a Carbon Tax](https://www.niskanencenter.org/examining-catos-case-against-a-carbon-tax/) (Tier 2)
 - [Climate Investigations Center: Information Council for the Environment (ICE) campaign documentation](https://climateinvestigations.org/) (Tier 2)
 

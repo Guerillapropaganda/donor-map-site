@@ -116,8 +116,8 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 - [American Prospect: Bondi protected foreclosure fraudsters](https://prospect.org/2024/11/22/2024-11-22-when-pam-bondi-protected-foreclosure-fraudsters/) (Tier 2)
 - [Read Sludge: Bondi lobbied for Amazon, Uber, Qatar](https://readsludge.com/2024/11/22/pam-bondi-trumps-attorney-general-pick-lobbied-for-amazon-uber-and-qatar/) (Tier 2)
 - [NPR: Senate confirms Bondi as AG](https://www.npr.org/2025/02/04/nx-s1-5287011/pam-bondi-attorney-general-confirmation) (Tier 2)
-- [FEC: Pam Bondi contribution records](https://www.fec.gov/data/receipts/?_contributors=bondi,+pam) (Tier 1)
-- [OpenSecrets: Pam Bondi campaign finance](https://www.opensecrets.org/members-of-congress/pam-bondi) (Tier 1)
+- [FEC: Pam Bondi contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=bondi,+pam) (Tier 1)
+- [OpenSecrets: Pam Bondi campaign finance](https://www.opensecrets.org/revolving-door/bondi-pam/summary?id=82269) (Tier 1)
 
 ---
 
@@ -133,3 +133,4 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 **March 2026 — NJ US Attorney Appointment Ruled Illegal:** A federal judge ruled Bondi violated federal law when she replaced the interim NJ US attorney with a "triumvirate" of attorneys — calling it an illegal attempt to circumvent the constitutional appointment process. Ongoing pattern of Bondi treating the DOJ's structural rules as obstacles to executive control.
 - [Democracy Docket: Judge disqualifies 'triumvirate' leading NJ US attorney's office](https://www.democracydocket.com/news-alerts/judge-disqualifies-new-jersey-us-attorneys-office-trio/) (Tier 2)
 content-readiness:: ready
+ 

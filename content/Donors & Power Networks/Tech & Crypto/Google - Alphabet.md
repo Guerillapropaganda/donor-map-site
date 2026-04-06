@@ -40,7 +40,7 @@ Google's political strategy has undergone a notable shift since 2024. Historical
 Google's lobbying spans multiple subsidiaries: Google Inc ($12.3M in 2024), Waymo ($1.74M), Wing Aviation ($420K), Google Cloud ($390K), Mandiant ($144K in 2022), and DeepMind ($130K in 2022).
 
 - [OpenSecrets: Alphabet Inc organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/alphabet-inc/summary?id=D000067823) (Tier 1) (Chrome-verified)
-- [OpenSecrets: Alphabet Inc lobbying profile — 2025](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2025&id=D000067823) (Tier 1) (Chrome-verified)
+- [OpenSecrets: Alphabet Inc lobbying profile — 2025](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2025&id=D000067823) (Tier 1) (Chrome-verified)
 
 ---
 
@@ -88,7 +88,7 @@ Google's core legislative and regulatory priorities, in order of financial signi
 
 Google consistently lobbies on: antitrust legislation (American Innovation and Choice Online Act, Open App Markets Act, AMERICA Act), Section 230, copyright/DMCA, autonomous vehicle regulation (Waymo), H-1B immigration, AI regulation, drone/commercial aviation (Wing), data privacy (ADPPA, APRA), and cybersecurity.
 
-- [OpenSecrets: Alphabet 2024 lobbying](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000067823) (Tier 1) (Chrome-verified)
+- [OpenSecrets: Alphabet 2024 lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000067823) (Tier 1) (Chrome-verified)
 - [TIME: Google lobbying 2017](https://time.com/5116226/google-lobbying-2017/) (Tier 2) (UNVERIFIED)
 - [OpenSecrets: Google ramped up lobbying ahead of antitrust](https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/) (Tier 1) (Chrome-verified)
 
@@ -109,7 +109,7 @@ California is ground zero for tech regulation, and Google has dramatically escal
 **Covert tactics:** Google's California lobbying frequently operates through third-party organizations and industry associations without Google's name appearing on direct lobbying disclosures. It organizes small business owner coalitions, funds astroturf campaigns, and uses the California Chamber of Commerce as a proxy.
 
 - [LA Times: Why Google's California lobbying skyrocketed](https://www.latimes.com/california/story/2023-12-19/why-googles-lobbying-in-california-skyrocketed-this-year) (Tier 2)
-- [CalMatters: California lobbying Q3 2024](https://calmatters.org/politics/2024/11/california-lobbying-google-big-oil/) (Tier 2)
+- [CalMatters: California lobbying Q3 2024](https://calmatters.org/category/politics/2024/11/california-lobbying-google-big-oil/) (Tier 2)
 - [The Markup: Google covert privacy bill lobbying](https://themarkup.org/privacy/2025/09/12/google-wasnt-against-this-privacy-bill-officially-behind-the-scenes-it-orchestrated-opposition) (Tier 2)
 
 ### European Union
@@ -273,7 +273,7 @@ Google lobbied in favor of a 10-year federal moratorium on state AI regulation i
 - [Mintz: DOJ drops AI divestiture](https://www.mintz.com/insights-center/viewpoints/54731/2025-03-14-doj-scraps-proposal-require-google-sell-ai-investments) (Tier 2)
 - [Bipartisan Policy Center: Gonzalez v. Google](https://bipartisanpolicy.org/article/gonzalez-v-google/) (Tier 3) (UNVERIFIED)
 - [Nemko Digital: Big Tech AI regulation blocked 2025](https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025) (Tier 2)
-- [IAPP: Pelosi opposes ADPPA](https://iapp.org/news/a/pelosi-rejects-proposed-american-data-privacy-and-protection-act-seeks-new-compromise/) (Tier 2)
+- [IAPP: Pelosi opposes ADPPA](https://iapp.org/news/a/pelosi-rejects-proposed-american-data-privacy-and-protection-act-seeks-new-compromise) (Tier 2)
 
 ---
 
@@ -328,7 +328,7 @@ Over the decade leading to 2020, at least 80 individuals were identified moving 
 > The revolving door serves a dual function: it brings institutional knowledge about regulatory processes into Google's lobbying operation, and it sends a signal to current government employees that compliance with Google's interests is a career investment. Robert Mahini moved from the FTC Office of General Counsel to Google as senior policy counsel in late 2012 — at the height of the FTC antitrust probe that would close in January 2013 with no action. Joshua Wright (FTC Commissioner) and Julie Brill (FTC Commissioner) both joined Google-affiliated law firms within weeks of each other in early 2016. The revolving door doesn't just influence current policy — it shapes the incentives of every government employee who might one day want to work in the private sector.
 
 - [Tech Transparency Project: Google's US Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2)
-- [OpenSecrets: Alphabet Inc lobbyists — 2024](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2024&id=D000067823) (Tier 1) (Chrome-verified)
+- [OpenSecrets: Alphabet Inc lobbyists — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000067823) (Tier 1) (Chrome-verified)
 - [Open Markets Institute: Google's 50-state lobbying strategy](https://www.openmarketsinstitute.org/publications/google-refines-50-state-lobby-strategy-austin-ahlman) (Tier 2) (Chrome-verified)
 
 ---
@@ -386,8 +386,8 @@ Google represents the most advanced form of monopoly power in the vault — one 
 ### FEC & OpenSecrets (Chrome-verified):
 - [OpenSecrets: Alphabet Inc organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/alphabet-inc/summary?id=D000067823) (Tier 1)
 - [OpenSecrets: Alphabet Inc top recipients — 2024](https://www.opensecrets.org/orgs/alphabet-inc/recipients?id=D000067823) (Tier 1)
-- [OpenSecrets: Alphabet Inc lobbying profile — 2025](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2025&id=D000067823) (Tier 1)
-- [OpenSecrets: Alphabet Inc lobbyists — 2024](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2024&id=D000067823) (Tier 1)
+- [OpenSecrets: Alphabet Inc lobbying profile — 2025](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2025&id=D000067823) (Tier 1)
+- [OpenSecrets: Alphabet Inc lobbyists — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000067823) (Tier 1)
 - [OpenSecrets: Google ramped up lobbying ahead of antitrust](https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/) (Tier 1)
 
 ### Government & Court Documents (Chrome-verified):
@@ -409,12 +409,12 @@ Google represents the most advanced form of monopoly power in the vault — one 
 - [Politico: Google $1M Trump inauguration](https://www.politico.com/live-updates/2025/01/09/congress/google-donation-donald-trump-inauguration-00197233) (Tier 2) (UNVERIFIED)
 - [Politico: Schmidt funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160) (Tier 2) (UNVERIFIED)
 - [LA Times: Google California lobbying skyrocketed](https://www.latimes.com/california/story/2023-12-19/why-googles-lobbying-in-california-skyrocketed-this-year) (Tier 2)
-- [CalMatters: California lobbying Q3 2024](https://calmatters.org/politics/2024/11/california-lobbying-google-big-oil/) (Tier 2)
+- [CalMatters: California lobbying Q3 2024](https://calmatters.org/category/politics/2024/11/california-lobbying-google-big-oil/) (Tier 2)
 - [The Markup: Google covert privacy bill lobbying](https://themarkup.org/privacy/2025/09/12/google-wasnt-against-this-privacy-bill-officially-behind-the-scenes-it-orchestrated-opposition) (Tier 2)
 - [Transparency International EU: Deep Pockets, Open Doors](https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf) (Tier 2)
 - [TIME: Google lobbying 2017](https://time.com/5116226/google-lobbying-2017/) (Tier 2) (UNVERIFIED)
 - [Mintz: DOJ drops AI divestiture](https://www.mintz.com/insights-center/viewpoints/54731/2025-03-14-doj-scraps-proposal-require-google-sell-ai-investments) (Tier 2)
-- [IAPP: Pelosi opposes ADPPA](https://iapp.org/news/a/pelosi-rejects-proposed-american-data-privacy-and-protection-act-seeks-new-compromise/) (Tier 2)
+- [IAPP: Pelosi opposes ADPPA](https://iapp.org/news/a/pelosi-rejects-proposed-american-data-privacy-and-protection-act-seeks-new-compromise) (Tier 2)
 - [Nemko Digital: Big Tech AI regulation blocked 2025](https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025) (Tier 2)
 - [Bipartisan Policy Center: Gonzalez v. Google](https://bipartisanpolicy.org/article/gonzalez-v-google/) (Tier 3) (UNVERIFIED)
 

@@ -106,7 +106,7 @@ Waltz uses military credentialing as his primary rhetorical frame — "Green Ber
 - [Press UN: Waltz bio](https://press.un.org/en/2025/bio5611.doc.htm) (Tier 1)
 - [ABC News: Waltz Signal controversy](https://abcnews.com/Politics/mike-waltz-national-security-adviser-added-journalist-signal/story?id=120131357) (Tier 2)
 - [Al Jazeera: Waltz ouster as NSA](https://www.aljazeera.com/news/2025/5/4/what-led-to-mike-waltzs-ouster-as-trumps-national-security-adviser) (Tier 2)
-- [American Bridge: Waltz dossier](https://www.americanbridgepac.org/trumps-orbit/trumps-potential-administration-officials/mike-waltz/) (Tier 3)
+- [American Bridge: Waltz dossier](https://americanbridgepac.org/trumps-orbit/trumps-potential-administration-officials/mike-waltz/) (Tier 3)
 - [TheStreet: Waltz net worth](https://www.thestreet.com/personalities/mike-waltz-net-worth) (Tier 3)
 
 ---

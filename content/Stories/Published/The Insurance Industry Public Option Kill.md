@@ -47,7 +47,7 @@ The sequence:
 
 ### Sources
 
-- [OpenSecrets: Health insurance industry lobbying](https://www.opensecrets.org/industries/indus?ind=F09) (Tier 1)
+- [OpenSecrets: Health insurance industry lobbying](https://www.opensecrets.org/industries?ind=F09) (Tier 1)
 - [Congress.gov: ACA legislative history](https://www.congress.gov/bill/111th-congress/house-bill/3590) (Tier 1)
 - [CBO: Public option cost estimates](https://www.cbo.gov/topics/health) (Tier 1)
 

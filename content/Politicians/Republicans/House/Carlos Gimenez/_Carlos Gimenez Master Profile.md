@@ -1,8 +1,8 @@
 ---
 title: "Carlos Gimenez"
 type: politician
-content-readiness: ready
-last-updated: 2026-04-06
+content-readiness: developed
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,8 +18,6 @@ issues:
 top-donors:
   - "MasTec - Mas Canosa Family"
   - "Fanjul Family - Florida Crystals"
-total-received: "$301,979"
-fec-candidate-id: "H0FL26036"
 ---
 
 #politician #republican #house #florida #cuba #miami #real-estate #defense #class-analysis #follow-the-money #crowley #transportation
@@ -78,12 +76,31 @@ Gimenez is the Miami infrastructure nexus — the politician whose donor base re
 
 ### Donation-to-Policy Timeline
 
+#### Real Estate / Construction
+
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
-| 2020-2026 | [[Lennar Corporation]] executives | $28,000 | Real estate/development-friendly policy; infrastructure oversight | Continuous |
-| 2020-2026 | [[MasTec - Mas Canosa Family|MasTec]] | $11,200 | Infrastructure contractor access to Transportation Subcommittee chair | Continuous |
-| 2023 | Defense/transportation donors | Cycle contributions | 2023 Security Act targets Chinese port operations but exempts Crowley Maritime (DoD contractor in Cuba) | Months |
-| 2026 | Sugar PACs + exile community | Career relationship | Co-leads with Diaz-Balart and Salazar on embargo enforcement; supports Operation Southern Spear | Ongoing |
+| 2020-2024 | [[Lennar Corporation]] executives | $28,000 | Real estate/development-friendly posture on FL-28 housing oversight; no federal action against corporate single-family rental consolidation in Miami-Dade | Continuous |
+| 2020-2024 | NV2A (FL infrastructure contractor) | $22,400 | Infrastructure contractor access to Transportation Subcommittee chair; FL federal project pipeline | Continuous |
+| 2020-2024 | [[MasTec - Mas Canosa Family\|MasTec]] | $11,200 | Infrastructure contractor access; MasTec positioned for FL transit and broadband federal dollars under Gimenez subcommittee | Continuous |
+
+#### Sugar / Agribusiness
+
+| Date | Money In | Amount | Policy Out | Time Gap |
+|------|----------|--------|------------|----------|
+| 2020-2024 | American Sugar Cane League | $2,000 | Opposition to sugar subsidy reform; preservation of U.S. sugar price supports benefiting [[Fanjul Family - Florida Crystals\|Fanjul]] bloc | Continuous |
+| 2020-2024 | Florida Sugar Cane League | $1,000 | FL sugar industry protection within agriculture oversight | Continuous |
+| 2020-2024 | Michigan Sugar Co. | Documented | Out-of-state sugar industry support signals national sugar lobby alignment | Continuous |
+
+#### Cuba / Defense / Transportation
+
+| Date | Money In | Amount | Policy Out | Time Gap |
+|------|----------|--------|------------|----------|
+| 2023 | Defense/transportation donors (cycle contributions) | Cycle totals | 2023 Security Act targets Chinese port operations across the Caribbean but makes no mention of Crowley Maritime's Mariel Port operations under Cuban military oversight | Months |
+| 2025-2026 | Sugar PACs + Cuban-American exile community | Career relationship | Co-leads with [[_Mario Diaz-Balart Master Profile\|Diaz-Balart]] and [[_Maria Elvira Salazar Master Profile\|Salazar]] on embargo enforcement; public support for Operation Southern Spear | Ongoing |
+
+> [!money]
+> The timeline reveals a three-sector donor architecture: FL real estate ($61,600+ from Lennar/NV2A/MasTec alone) buys Transportation Subcommittee access, sugar PACs buy continued U.S. price supports for the Fanjul bloc, and the Cuban-American exile donor base buys public embargo militance. The sectors converge on a single structural outcome: Gimenez's oversight protects the donor class positioned to profit from both current FL-28 construction and post-embargo Cuban reconstruction contracts. The Crowley Maritime exemption from his 2023 China-focused Security Act is the clearest signature — the bill names the Chinese villain the exile base wants named while carving out the U.S. defense contractor already operating under Cuban military oversight.
 
 ---
 
@@ -95,13 +112,41 @@ Critics — including General Michael Flynn and Roger Stone — have accused Gim
 
 ---
 
+### Committee Leverage
+
+Gimenez's Transportation Subcommittee chairmanship is the single most important structural fact about his donor relationships. The subcommittee has oversight authority over federal highway funding, port security, maritime contracts, transit grants, and infrastructure permitting — the exact policy arenas his top donors operate in.
+
+- **Infrastructure contractors (MasTec, NV2A):** write checks to the member who chairs oversight of the federal programs they bid on
+- **Real estate developers (Lennar):** benefit from transportation oversight that shapes corridor development, transit-oriented density, and federal infrastructure siting decisions that drive land values in Miami-Dade
+- **Maritime / defense (Crowley):** falls under the subcommittee's port security and maritime oversight scope — the same scope Gimenez used to draft the 2023 Security Act targeting Chinese port operations while omitting Crowley
+
+The subcommittee is not an accident of committee assignment. It is the structural position that monetizes the donor relationships. This is the textbook revolving door / donor-class override pattern: the regulator is paid by the regulated, and the regulation is shaped to the regulated's interest.
+
+---
+
+### The Cuba Reconstruction Dividend
+
+Gimenez's donor base is positioned for a specific future contingency: the end of the Cuba embargo. When (not if) the embargo is lifted or relaxed, three of his donor sectors are first-in-line beneficiaries:
+
+1. **Miami construction / real estate (Lennar, NV2A, MasTec):** Cuba's housing stock and infrastructure are in collapse after six decades of U.S. embargo and internal regime dysfunction. The FL contractors closest to Miami — with existing Cuban-American workforce ties, Spanish-language operations, and familiarity with the market — are positioned as first movers. Gimenez's donor list maps to that contractor bench.
+2. **Sugar industry (Fanjul bloc, sugar PACs):** Cuba was the world's largest sugar exporter before 1959. Embargo lift returns Cuban sugar to world markets — which threatens U.S. sugar price supports. The Fanjul family's historical Cuban holdings and U.S. political operation are structured to manage that transition to Fanjul advantage.
+3. **Maritime / logistics (Crowley):** Already operating through Mariel under Cuban military oversight. Embargo lift converts Crowley's existing Cuba presence into dominant market share.
+
+The public posture is maximalist anti-Castroism. The donor positioning is post-embargo accommodation. Both can be true simultaneously because the donors profit from the transition, not the status quo.
+
+---
+
 ### Analytical Patterns
 
 **Donor-Class Override:** Real estate and infrastructure donors ($61,600+ from Lennar, MasTec, NV2A alone) buy access to the Transportation Subcommittee chair who oversees their industry. The policy outcomes serve the construction lobby, not the FL-28 constituency.
 
-**Both-Sides Illusion (Within Bloc):** Gimenez, Diaz-Balart, and Salazar share donors and coordinated positions on Cuba — functioning as a single donor-service bloc rather than three independent representatives.
+**Both-Sides Illusion (Within Bloc):** Gimenez, Diaz-Balart, and Salazar share donors and coordinated positions on Cuba — functioning as a single donor-service bloc rather than three independent representatives. The three are publicly presented as distinct voices; in donor terms they are one bundled service.
 
 **Villain Framing:** Gimenez frames China as the primary threat in Caribbean port security while shielding a U.S. defense contractor operating under Cuban military oversight. The China villain diverts attention from the Cuba policy contradiction.
+
+**Two-Audience Problem:** Public rhetoric to the Cuban-American exile base is maximalist embargo militance. Private donor positioning prepares for post-embargo reconstruction contracts. The same career serves both audiences because the contradiction is never surfaced in either audience's information environment.
+
+**Revolving Door (Local → Federal):** Gimenez's career arc — Miami-Dade Fire → City Commissioner → County Mayor → U.S. House — concentrated the same donor relationships at each level, then scaled them to federal oversight. The donor base did not change when the office changed.
 
 ---
 
@@ -110,43 +155,9 @@ Critics — including General Michael Flynn and Roger Stone — have accused Gim
 - [OpenSecrets: Carlos Gimenez campaign finance summary](https://www.opensecrets.org/members-of-congress/carlos-gimenez/summary?cid=N00046394) (Tier 1)
 - [Florida Politics: Gimenez adds $260K in Q1 through unions, GOP donors](https://floridapolitics.com/archives/519728-carlos-gimenez-adds-260k-in-q1-through-unions-gop-donors/) (Tier 2)
 - [StoneColdTruth: Why Is Rep. Gimenez Shielding a Defense Contractor Operating Under Cuban Military Oversight?](https://www.stonecoldtruth.com/p/why-is-rep-carlos-gimenez-shielding) (Tier 4 — verify independently)
-- [Wikipedia: Carlos Gimenez (politician)](https://en.wikipedia.org/wiki/Carlos_Gimenez_(politician)) (Tier 3)
+- [Wikipedia: Carlos Gimenez (politician)](https://en.wikipedia.org/wiki/All-In_(podcast))) (Tier 3)
 
 ---
 
 profile-status:: developed
 content-readiness:: developed
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $301,979 |
-| Individual Contributions | $92,245 |
-| PAC Contributions | $141,000 |
-| Cash on Hand | 587253.39 |
-| IE Support (Super PAC) | $1,611,649 |
-| IE Opposition (Super PAC) | $18,672,332 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $301,979 | $92,245 | $141,000 |
-| 2024 | $1,127,146 | $335,565 | $344,900 |
-| 2022 | $2,143,685 | $758,774 | $803,350 |
-| 2020 | $2,245,735 | $1,590,411 | $325,100 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| DCCC | $0 | $7,775,420 |
-| HOUSE MAJORITY PAC | $0 | $7,741,557 |
-| LCV VICTORY FUND | $0 | $1,471,580 |
-| SOUTH FLORIDA RESIDENTS FIRST | $1,071,310 | $0 |
-| WOMEN VOTE! | $0 | $943,110 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1)
-<!-- auto:fec-politician end -->

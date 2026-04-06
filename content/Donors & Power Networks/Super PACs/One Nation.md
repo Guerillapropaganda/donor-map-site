@@ -61,10 +61,23 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 
 ### Sources
 
-- [ProPublica: One Nation's Dark Money Network](https://projects.propublica.org/nonprofits/organizations/474943695) (Tier 2)
+- [ProPublica: One Nation's Dark Money Network](https://projects.propublica.org/nonprofits/organizations/474943695) *(source unavailable)* (Tier 2)
 - [OpenSecrets: One Nation Spending Tracker](https://www.opensecrets.org/orgs/one-nation-pac/summary?id=D000046014) (Tier 1)
 - [Center for Responsive Politics: Dark Money in 2024](https://www.opensecrets.org/orgs/one-nation-pac/summary?id=D000046014) (Tier 1)
 
 ---
 
 `content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $263.8M
+
+| Top Recipient | Amount |
+|---|---|
+| SENATE LEADERSHIP FUND | $223.6M |
+| SLF PAC | $35.3M |
+| CLT HOST 2020 INC | $1.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

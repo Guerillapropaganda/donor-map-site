@@ -148,9 +148,25 @@ This is not quid pro quo corruption in the legal sense. It is structural politic
 - [Texas Tribune: Alex Fairly Texas GOP donor](https://www.texastribune.org/2025/05/08/alex-fairly-texas-republican-donor-tim-dunn-texas-house/) (Tier 2)
 - [Rolling Stone: Tim Dunn Texas oil billionaire backing Trump](https://www.rollingstone.com/politics/politics-features/tim-dunn-texas-oil-billionaire-trump-donor-1235033143/) (Tier 2)
 - [Climate Criminals: Timothy Dunn oil executive profile](https://www.climatecriminals.org/timothy-dunn) (Tier 3)
-- [Ballotpedia: Tim Dunn Texas donor](https://ballotpedia.org/Tim_Dunn_%28Texas%29) (Tier 3)
+- [Ballotpedia: Tim Dunn Texas donor](https://ballotpedia.org/Tim_Dunn_(Texas)) (Tier 3)
 
 ---
 
 research-status:: ready — CrownQuest $1.5B net worth, $100M+ political giving, $5M Rogers/GLCF, $5M Trump, America First Policy Institute co-founder, Christian Nationalist agenda, Texas GOP reshaping, class analysis. 9 sources, Tier 1-3. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 331 contributions totaling $9.9M
+
+**ActBlue/WinRed conduit duplicates filtered:** 169
+
+| Top Recipient | Amount |
+|---|---|
+| GLCF, INC. | $5.0M |
+| JEFFERSON RISING | $2.0M |
+| GROW THE MAJORITY | $1.1M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

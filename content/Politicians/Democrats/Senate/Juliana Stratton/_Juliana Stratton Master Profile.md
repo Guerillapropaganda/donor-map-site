@@ -2,15 +2,13 @@
 title: "Juliana Stratton Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Senate"
 top-donors:
   - "JB Pritzker"
-total-received: "$4,058,200"
-fec-candidate-id: "S6IL00458"
 ---
 
 #politician #democrat #senate
@@ -132,7 +130,7 @@ In July 2025, Stratton pledged publicly that her Senate campaign would reject co
 - [NBC News: Illinois Gov. JB Pritzker spends $5 million to boost his pick for Senate](https://www.nbcnews.com/politics/2026-election/illinois-gov-jb-pritzker-spends-5-million-boost-pick-senate-state-rcna257067) (Tier 3)
 - [Capitol News Illinois: Pro-Stratton super PAC touts Pritzker endorsement](https://capitolnewsillinois.com/news/pro-stratton-super-pac-touts-pritzker-endorsement/) (Tier 2)
 - [WBEZ: Super PAC scorecard—how outside spending groups fared in efforts to influence Illinois primary voters](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2)
-- [CoinDesk: Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi](https://www.coindesk.com/policy/2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi/) (Tier 2)
+- [CoinDesk: Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi](https://www.coindesk.com/policy2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi) (Tier 2)
 - [Chicago Sun-Times: Stratton vows to not take corporate PAC money in Senate bid but has history of getting corporate backing](https://chicago.suntimes.com/the-watchdogs/2025/11/21/juliana-stratton-us-senate-bid-march-primary-corporate-pac-money) (Tier 2)
 - [Chicago Tribune: Rejecting corporate PAC money earns Juliana Stratton endorsement from End Citizens United](https://www.chicagotribune.com/2025/11/06/end-citizens-united-endorses-stratton-senate/) (Tier 3)
 - [The Intercept: AIPAC Is Staying Out of Illinois Senate Race — But Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2)
@@ -149,28 +147,3 @@ party:: Democrat
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $4,058,200 |
-| Individual Contributions | $3,069,107 |
-| PAC Contributions | $108,584 |
-| Cash on Hand | 1258744.49 |
-| IE Support (Super PAC) | $16,182,137 |
-| IE Opposition (Super PAC) | $16,395,514 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| ILLINOIS FUTURE PAC | $15,825,270 | $0 |
-| FAIRSHAKE | $0 | $15,406,382 |
-| THE IMPACT FUND | $0 | $579,744 |
-| DLGA | $356,857 | $0 |
-| PROTECT PROGRESS | $0 | $211,662 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IL00458/) (Tier 1)
-<!-- auto:fec-politician end -->

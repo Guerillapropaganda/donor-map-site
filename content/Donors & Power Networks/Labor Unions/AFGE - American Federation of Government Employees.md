@@ -148,8 +148,21 @@ This means AFGE's defense of federal jobs is simultaneously defense of privilege
 
 - [OpenSecrets: AFGE political spending](https://www.opensecrets.org/orgs/american-federation-of-government-employees/summary) (Tier 1)
 - [AFGE: About Us and Federal Workforce Advocacy](https://www.afge.org/about-afge/) (Tier 2)
-- [Federal Times: AFGE federal workforce policy positions](https://www.federaltimes.com/management/2024/01/15/afge-federal-workforce/) (Tier 2)
+- [Federal Times: AFGE federal workforce policy positions](https://www.federaltimes.com/management/2024/01/15/afge-federal-workforce/) *(source unavailable)* (Tier 2)
 - [ProPublica: Federal workforce reductions and union resistance](https://www.propublica.org/article/doge-elon-musk-trump-staffers-tracker-update) (Tier 2)
 - [Union membership statistics: Bureau of Labor Statistics](https://www.bls.gov/news.release/union2.nr0.htm) (Tier 1)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 347 contributions totaling $664.4K
+
+| Top Recipient | Amount |
+|---|---|
+| MCKINLEY FOR CONGRESS | $34.5K |
+| COLORADO DEMOCRATIC PARTY | $33.0K |
+| TAMMY BALDWIN FOR SENATE | $27.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

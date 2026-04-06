@@ -32,8 +32,20 @@ The industry's political priorities are bipartisan by structural necessity: mort
 
 ### Sources
 
-- [OpenSecrets: Real estate industry contributions](https://www.opensecrets.org/industries/indus?ind=F10) (Tier 1)
+- [OpenSecrets: Real estate industry contributions](https://www.opensecrets.org/industries?ind=F10) (Tier 1)
 - [JCT: Tax expenditure estimates for real estate provisions](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry) (Tier 1)
 - [Ballotpedia: Real estate industry lobbying](https://ballotpedia.org/Real_Estate_Industry) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 1 contributions totaling $15.0K
+
+| Top Recipient | Amount |
+|---|---|
+| DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $15.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

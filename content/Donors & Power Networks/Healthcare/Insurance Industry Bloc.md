@@ -23,7 +23,7 @@ The Health Insurance Industry Bloc. The combined political operation of America'
 
 The industry's trade association, America's Health Insurance Plans (AHIP), coordinates lobbying strategy and messaging. The insurance lobby's greatest victory: killing the public option in 2009-2010 and shaping the ACA's architecture to mandate private insurance coverage — converting a healthcare reform into an insurance industry business plan.
 
-- [OpenSecrets: Health insurance industry lobbying](https://www.opensecrets.org/industries/indus?ind=F09) (Tier 1)
+- [OpenSecrets: Health insurance industry lobbying](https://www.opensecrets.org/industries?ind=F09) (Tier 1)
 
 ---
 
@@ -46,7 +46,7 @@ Post-ACA insurance industry revenue growth: UnitedHealth grew from $110 billion 
 
 ### Sources
 
-- [OpenSecrets: Health insurance industry lobbying](https://www.opensecrets.org/industries/indus?ind=F09) (Tier 1)
+- [OpenSecrets: Health insurance industry lobbying](https://www.opensecrets.org/industries?ind=F09) (Tier 1)
 - [SEC: UnitedHealth Group, Elevance, Cigna 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Insurance%20Industry%20Bloc&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Health insurance industry](https://ballotpedia.org/Insurance_Industry_Bloc) (Tier 3)
 

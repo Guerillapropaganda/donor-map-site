@@ -118,10 +118,10 @@ The supply-side strategy itself is a delay mechanism. Instead of rent control (i
 
 ### Sources
 
-- [CalMatters: Prop 33 rent control fails](https://calmatters.org/politics/2024/11/california-election-results-prop-33-rent-control/) (Tier 2)
+- [CalMatters: Prop 33 rent control fails](https://calmatters.org/category/politics/2024/11/california-election-results-prop-33-rent-control/) (Tier 2)
 - [LA Times: Prop 21 and Newsom](https://www.latimes.com/california/story/2020-10-01/newsom-prop-21-rent-control) (Tier 2)
 - [Tenants Together: California rent control history](https://www.tenantstogether.org/) (Tier 2)
 - [California Secretary of State: Ballot measure campaign finance](https://cal-access.sos.ca.gov/Campaign/Measures/) (Tier 1)
-- [UCLA Luskin: housing affordability research](https://www.luskin.ucla.edu/housing) (Tier 2)
+- [UCLA Luskin: housing affordability research](https://luskin.ucla.edu/housing) (Tier 2)
 
 content-readiness:: ready

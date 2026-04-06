@@ -66,3 +66,14 @@ The immigration dimension: agribusiness depends on immigrant farmworker labor (A
 - [Ballotpedia: United Farm Workers](https://ballotpedia.org/United_Farm_Workers) (Tier 3)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 1 contributions totaling $1.0K
+
+| Top Recipient | Amount |
+|---|---|
+| CIRO D. RODRIGUEZ FOR CONGRESS | $1.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

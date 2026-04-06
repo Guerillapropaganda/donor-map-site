@@ -177,7 +177,7 @@ The current phase — independent Patreon-funded podcasting — is the least cap
 
 ### Sources
 
-- [FEC Individual Contributions: Briahna Gray (22 results, 2015-2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=briahna+gray&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Briahna Gray (22 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=briahna+gray&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Wikipedia: Briahna Joy Gray](https://en.wikipedia.org/wiki/Briahna_Joy_Gray) (Tier 3)
 - [Democracy Now: The Hill Fires Briahna Joy Gray, Critic of Israel's War on Gaza (Jun 2024)](https://www.democracynow.org/2024/6/7/headlines/the_hill_fires_briahna_joy_gray_critic_of_israels_war_on_gaza) (Tier 2)
 - [Jacobin: "Briahna Joy Gray Is Not Backing Down" (May 2020)](https://jacobin.com/2020/05/briahna-joy-gray-bernie-sanders-press-secretary) (Tier 2)

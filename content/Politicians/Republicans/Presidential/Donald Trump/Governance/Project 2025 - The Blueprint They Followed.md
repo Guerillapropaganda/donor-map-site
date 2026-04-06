@@ -136,7 +136,7 @@ Not directly applicable. However, the DOGE efficiency campaign served as the mec
 ### Sources
 
 - [Heritage Foundation: Mandate for Leadership 2025](https://static.heritage.org/project2025/2025_MandateForLeadership_FULL.pdf) (Tier 1)
-- [Democracy Forward: Project 2025 tracker](https://democracyforward.org/the-peoples-guide-to-project-2025/) (Tier 2)
+- [Democracy Forward: Project 2025 tracker](https://democracyforward.org/work/research/the-peoples-guide-to-project-2025/) (Tier 2)
 - [Heritage Foundation - Nonprofit Explorer (ProPublica): 990 tax filings and donor information](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1)
 - [NBC News: Leonard Leo, Koch Networks Pour Millions into Groups Prepping for Potential Second Trump Administration](https://www.nbcnews.com/politics/2024-election/leonard-leo-koch-networks-pour-millions-prep-potential-second-trump-ad-rcna144360) (Tier 2)
 - [Federal Register: Energy Dominance Financing Amendments](https://www.federalregister.gov/documents/2025/10/28/2025-19675/energy-dominance-financing-amendments) (Tier 1)

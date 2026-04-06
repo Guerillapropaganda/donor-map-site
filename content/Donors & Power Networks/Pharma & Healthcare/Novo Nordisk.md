@@ -2,7 +2,7 @@
 title: "Novo Nordisk"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -11,9 +11,6 @@ issues:
   - "Healthcare"
 lobbying-spend: 17065000
 lobbying-filings: 70
-federal-awards-total: 2137722
-federal-contracts-count: 0
-federal-grants-count: 1
 ---
 
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark
@@ -73,26 +70,21 @@ Opposition to drug price negotiation expansion (particularly for GLP-1 drugs), f
 ### Sources
 
 - [OpenSecrets: Novo Nordisk organizational profile](https://www.opensecrets.org/orgs/novo-nordisk/summary?id=D000042338) (Tier 1)
-- [Senate Finance Committee: Insulin pricing investigation](https://www.finance.senate.gov/chairmans-news/grassley-wyden-release-insulin-investigation) (Tier 1)
-- [FDA: Insulin product approvals and biosimilars](https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin) (Tier 1)
+- [Senate Finance Committee: Insulin pricing investigation](https://www.finance.senate.gov/chairmans-news/grassley-wyden-release-insulin-investigation) *(source unavailable)* (Tier 1)
+- [FDA: Insulin product approvals and biosimilars](https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin) *(source unavailable)* (Tier 1)
 - [Ballotpedia: Novo Nordisk](https://ballotpedia.org/Novo_Nordisk) (Tier 3)
 
 content-readiness:: ready
+---
 
-### Federal Spending (USASpending)
-<!-- auto:usaspending start -->
-| Metric | Value |
-|--------|-------|
-| All-Time Federal Awards | $2.1M |
-| Contracts (recent 3yr) | 0 ($0 sampled) |
-| Grants (recent 3yr) | 1 ($2.1M sampled) |
-| Federal Agencies | 1 |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Top grants:**
+**FEC contribution record:** 500 contributions totaling $1.6M
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $2.1M | National Science Foundation | IDEAS LAB: USPRD: ENABLING CELL-FREE SYNTHESIS OF LONGER HUMAN MILK OLIOGOSACCHARIDES -ENABLING CELL |
+| Top Recipient | Amount |
+|---|---|
+| DLGA PAC | $122.5K |
+| NEW DEMOCRAT COALITION ACTION FUND | $88.5K |
+| NRSC | $35.0K |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Novo%20Nordisk) (Tier 1)
-<!-- auto:usaspending end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

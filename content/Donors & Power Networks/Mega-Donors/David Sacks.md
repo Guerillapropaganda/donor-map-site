@@ -2,7 +2,7 @@
 title: "David Sacks"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-01
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -13,10 +13,6 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Technology"
-ein: 746417564
-annual-revenue: "$22K"
-net-assets: "$634K"
-tax-year: "2023"
 ---
 
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast
@@ -355,7 +351,7 @@ By March 2026, $500M+ in personal portfolio wealth appreciation from policies Sa
 - [The Verge: David Sacks Out AI Crypto Czar](https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar) (Tier 2)
 - [Fox Business: Trump Names David Sacks Co-Chair Tech Advisory Council](https://www.foxbusiness.com/politics/trump-names-david-sacks-co-chair-tech-advisory-council-expanding-ai-crypto-role) (Tier 2)
 - [AIP.org: White House Announces PCAST Members](https://www.aip.org/fyi/white-house-announces-pcast-members) (Tier 1)
-- [Wikipedia: All-In Podcast](https://en.wikipedia.org/wiki/All-In_(podcast)) (Tier 3)
+- [Wikipedia: All-In Podcast](https://en.wikipedia.org/wiki/All-In_(podcast))) (Tier 3)
 - [Rephonic: All In Podcast Data](https://rephonic.com/podcasts/all-in-with-chamath-palihapitiya-jason-calacanis) (Tier 3)
 - [Seattle Times: How a Network of Tech Billionaires Helped JD Vance Leap Into Power](https://www.seattletimes.com/business/how-a-network-of-tech-billionaires-helped-jd-vance-leap-into-power/) (Tier 2) (UNVERIFIED)
 - [Business Insider: Donald Trump JD Vance Elon Musk Tucker Carlson David Sacks](https://www.businessinsider.com/donald-trump-jd-vance-elon-musk-tucker-carlson-david-sacks-2024-7) (Tier 2)
@@ -368,14 +364,18 @@ By March 2026, $500M+ in personal portfolio wealth appreciation from policies Sa
 
 content-readiness:: developed
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $22K |
-| Total Contributions | $0 |
-| Total Expenses | $39K |
-| Net Assets | $634K |
+---
 
-- [Source: ProPublica Nonprofit Explorer — EIN 746417564](https://projects.propublica.org/nonprofits/organizations/746417564) (Tier 1)
-<!-- auto:propublica-990 end -->
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 162 contributions totaling $458.3K
+
+**ActBlue/WinRed conduit duplicates filtered:** 338
+
+| Top Recipient | Amount |
+|---|---|
+| TRUMP 47 COMMITTEE, INC. | $150.0K |
+| REPUBLICAN NATIONAL COMMITTEE | $146.7K |
+| TEAM MORENO | $75.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -2,7 +2,7 @@
 title: "Donald Trump Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 party: "Republican"
@@ -23,7 +23,7 @@ top-donors:
 
 #trump #master-profile #president #republican #class-analysis #follow-the-money #fascist #grifter #billionaire-populism #donor-class #oligarch
 
-related: [[_Gavin Newsom Master Profile]] · [[_Chad Bianco Master Profile]] · [[Elon Musk]] · [[Peter Thiel]] · [[Miriam Adelson]] · [[Jeff Yass]] · [[Timothy Mellon]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Ken Griffin]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[Rupert Murdoch]] · [[Crypto Industry Bloc]] · [[GEO Group]] · [[CoreCivic]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Trump Crypto - The President as Personal Profiteer]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir State - Surveillance as Policy]] · [[Immigration Enforcement - The Detention Economy]] · [[Project 2025 - The Blueprint They Followed]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]
+related: [[_Gavin Newsom Master Profile]] · [[_Chad Bianco Master Profile]] · [[Elon Musk]] · [[Peter Thiel]] · [[Miriam Adelson]] · [[Jeff Yass]] · [[Timothy Mellon]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Ken Griffin]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[Rupert Murdoch]] · [[Crypto Industry Bloc]] · [[GEO Group]] · [[CoreCivic]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Trump Donor Network - The Full Map]] · [[Term 1 vs Term 2 - Trump Comparison]] · [[Trump Crypto - The President as Personal Profiteer]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir State - Surveillance as Policy]] · [[Immigration Enforcement - The Detention Economy]] · [[Project 2025 - The Blueprint They Followed]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]
 
 donors: [[Elon Musk]], [[Peter Thiel]], [[Miriam Adelson]], [[Jeffrey Yass]], [[Timothy Mellon]], [[Richard and Elizabeth Uihlein|Richard Uihlein]], [[Kenneth Griffin]], [[Crypto Industry Bloc]]
 
@@ -170,7 +170,7 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 
 ### Sources
 
-- [OpenSecrets: Trump 2024 summary](https://www.opensecrets.org/2024-presidential-race/donald-trump/candidate?id=N00023864) (Tier 1)
+- [OpenSecrets: Trump 2024 summary](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1)
 - [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
 - [Brennan Center: Megadonor analysis](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2)
 - [FEC: Trump candidate page](https://www.fec.gov/data/candidate/P80001571/) (Tier 1)
@@ -286,5 +286,4 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 - [Federal Register: 2026 Executive Orders](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026) (Tier 1)
 - [CNBC: Trump threatens ICE at airports](https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html) (Tier 2)
 
-profile-status:: ready — master profile fully built with inline citations. All bold headers converted to ### format. Mega-donors individually sourced (OpenSecrets Tier 1, Brennan Center Tier 2). Industry sectors (fossil fuel, crypto, tech, private prisons, defense) documented with source tier labels. Donation-to-policy timeline with temporal mapping. MAGA Inc 2026 war chest ($300M) documented. March 2026 updates (Iran war, executive orders, DHS shutdown). 17 policy sub-notes linked. Promoted to ready Session 38h (March 23, 2026).
-content-readiness:: ready
+profile-status:: ready — master profile fully built with inline citations. All bold headers converted to ### format. Mega-donors individually sourced (OpenSecrets Tier 1, Brennan Center Tier 2). Industry sectors (fossil fuel, crypto, tech, private prisons, defense) documented with source tier labels. Donation-to-policy timeline with temporal mapping. MAGA Inc 2026 war chest ($300M) documented. March 2026 updates (Iran war, executive orders, DHS shutdown). 17 policy sub-notes linked. Promoted to ready Session 

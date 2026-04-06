@@ -78,7 +78,21 @@ This asymmetry means conservative jurisprudence is more directly purchased by in
 - [ProPublica: Barre Seid and the $1.6B donation](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
 - [OpenSecrets: Marble Freedom Trust](https://www.opensecrets.org/orgs/marble-freedom-trust/summary) (Tier 1)
 - [IRS Form 990: Judicial Education Project / The 85 Fund (2021-2022)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Barre%20Seid&city=&state=All+States&country=US) (Tier 1)
-- [Leonard Leo Marble Freedom Trust network map](https://www.documentcloud.org/documents/21144404-marble-trust-recipients) (Tier 2)
-- [SCOTUSblog: Dobbs v. Jackson and Federalist Society judicial campaign](https://www.scotusblog.com/2022/06/opinion-analysis-dobbs-and-the-judiciary/) (Tier 3)
+- [Leonard Leo Marble Freedom Trust network map](https://www.documentcloud.org/documents/21144404-marble-trust-recipients/) (Tier 2)
+- [SCOTUSblog: Dobbs v. Jackson and Federalist Society judicial campaign](https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 114 contributions totaling $266.5K
+
+| Top Recipient | Amount |
+|---|---|
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE CONTRIBUTIONS | $75.0K |
+| UNITED REPUBLICAN FUND OF IL INC FED ELECTION COMMITTEE | $25.0K |
+| REPUBLICAN NATIONAL COMMITTEE - CONTRIBUTIONS (AKA REPUBLICAN NATIONAL FINANCE COMMITTEE | $16.2K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

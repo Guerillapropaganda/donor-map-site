@@ -97,7 +97,7 @@ parent: null
 - [Warren Senate: Trust for the National Mall Reveals New Details About Trump Ballroom Payments](https://www.warren.senate.gov/newsroom/press-releases/in-response-to-warren-and-democratic-senators-trust-for-the-national-mall-reveals-new-details-about-trump-ballroom-payments-potential-for-corruption-and-secret-quid-pro-quo-deals) (Tier 1)
 - [CREW: 20 White House cabinet members have directed at least $30 million to benefit Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/20-white-house-cabinet-members-have-directed-at-least-30-million-to-benefit-trump/) (Tier 2)
 - [Campaign Legal Center: Exposing President Trump's Pay-to-Play Administration](https://campaignlegal.org/exposing-president-trumps-pay-to-play-administration) (Tier 2)
-- [Senate EPW Minority: Senate Democrats Probe "Pay-to-Play Corruption" Behind Trump's Privately Funded White House Ballroom](https://www.epw.senate.gov/public/index.cfm/press-releases-democratic?ID=0645B6F7-8B1A-4831-8E23-ABF90E0A57A2) (Tier 1)
+- [Senate EPW Minority: Senate Democrats Probe "Pay-to-Play Corruption" Behind Trump's Privately Funded White House Ballroom](https://www.epw.senate.gov/public/public/index.cfm/press-releases-democratic?ID=0645B6F7-8B1A-4831-8E23-ABF90E0A57A2) (Tier 1)
 
 ### Story angles:
 1. Cross-map each confirmed donor against their active regulatory/contract need before the administration — the explicit quid-pro-quo matrix

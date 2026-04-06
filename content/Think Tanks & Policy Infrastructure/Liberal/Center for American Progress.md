@@ -177,7 +177,7 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 - [Center for American Progress: Our Supporters (self-reported donor list)](https://www.americanprogress.org/c3-our-supporters/) (Tier 3)
 - [Wikipedia: Center for American Progress](https://en.wikipedia.org/wiki/Center_for_American_Progress) (Tier 3)
 - [Ballotpedia: Center for American Progress](https://ballotpedia.org/Center_for_American_Progress) (Tier 3)
-- [SourceWatch: Center for American Progress](https://www.sourcewatch.org/index.php/Center_for_American_Progress) (Tier 3)
+- [SourceWatch: Center for American Progress](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Center_for_American_Progress) (Tier 3)
 - [Politico: The Most Influential Think Tank of the Biden Era Has a New Leader](https://www.politico.com/news/2021/06/30/center-for-american-progress-new-leader-497167) (Tier 2)
 - [The Hill: Liberal News Site ThinkProgress Shutting Down](https://thehill.com/homenews/media/460268-liberal-news-site-thinkprogress-shutting-down/) (Tier 3)
 - [The Intercept: Leaked Emails From Pro-Clinton Group Reveal Censorship of Staff on Israel, AIPAC Pandering](https://theintercept.com/2015/11/05/leaked-emails-from-pro-clinton-group-reveal-censorship-of-staff-on-israel-aipac-pandering-warped-militarism/) (Tier 2)

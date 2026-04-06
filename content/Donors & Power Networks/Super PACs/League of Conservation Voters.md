@@ -86,7 +86,7 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 - [OpenSecrets: LCV summary](https://www.opensecrets.org/orgs/league-of-conservation-voters/summary?id=d000000288) (Tier 1)
 - [OpenSecrets: LCV totals](https://www.opensecrets.org/orgs/league-of-conservation-voters/totals?id=d000000288) (Tier 1)
 - [OpenLobby: LCV lobbying](https://www.openlobby.us/clients/league-of-conservation-voters) (Tier 2)
-- [OpenSecrets: LCV lobbying](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000480&cycle=2025) (Tier 1)
+- [OpenSecrets: LCV lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000480&cycle=2025) (Tier 1)
 - [Center for Public Integrity: LCV nonprofit profile](https://publicintegrity.org/politics/nonprofit-profile-league-of-conservation-voters-inc/) (Tier 2)
 - [Fox News: LCV dark money funding](https://www.foxnews.com/politics/major-eco-group-saw-large-funding-uptick-fueled-liberal-dark-money-network-best-year-ever) (Tier 3)
 
@@ -94,3 +94,17 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 
 research-status:: draft — Revenue growth, electoral spending, Scorecard function, dark money inflows, and lobbying data documented. Gaps: detailed 2024 candidate spending by race, LCV Victory Fund complete disbursements, Sixteen Thirty Fund relationship details, state affiliate financial data, historical Scorecard impact analysis. OpenSecrets and FEC data available for deeper analysis.
 content-readiness:: draft
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $25.0M
+
+| Top Recipient | Amount |
+|---|---|
+| LCV VICTORY FUND | $24.0M |
+| GIVEGREEN UNITED ACTION | $587.8K |
+| GALLEGO FOR ARIZONA | $14.1K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

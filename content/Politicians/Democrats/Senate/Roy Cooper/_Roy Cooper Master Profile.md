@@ -125,7 +125,7 @@ Cooper employs classic progressive populism coupled with executive pragmatism. W
 ### Sources
 
 - [FEC: Roy Cooper Candidate Profile](https://www.fec.gov/data/candidate/S6NC00407/) (Tier 1)
-- [FollowTheMoney.org: Roy Cooper North Carolina Senate 2026](https://www.followthemoney.org/entity-details?eid=46064532) (Tier 1)
+- [FollowTheMoney.org: Roy Cooper North Carolina Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46064532) (Tier 1)
 - [NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2)
 - [WRAL: Cooper raises $3.4M in first 24 hours of Senate bid](https://www.wral.com/news/state/politics-us-senate-roy-cooper-fundraising-24-hours-bid-2026-election-july-2025/) (Tier 2)
 - [CBS 17: Cooper raises $14.5 million, Whatley raises $5.8 million in North Carolina Senate race](https://www.cbs17.com/news/north-carolina-news/roy-cooper-raises-14-5-million-in-north-carolina-senate-race-campaign-says/) (Tier 2)
@@ -135,9 +135,4 @@ Cooper employs classic progressive populism coupled with executive pragmatism. W
 - [The Assembly NC: What Roy Cooper Did — And Didn't — Accomplish As NC Governor](https://www.theassemblync.com/news/politics/roy-cooper-legacy-governor-north-carolina/) (Tier 2)
 - [Roy Cooper official website: About page](https://www.govroycooper.org/about-roy) (Tier 1 - primary source) (Tier 2)
 - [NC Governor official site: Environment initiatives](https://governor.nc.gov/issues/environment) (Tier 1 - government primary source) (Tier 2)
-- [CNN: Roy Cooper and Michael Whatley will advance to marquee North Carolina matchup for US Senate](https://www.cnn.com/2026/03/03/politics/roy-cooper-michael-whatley-north-carolina-matchup-senate) (Tier 2)
-
----
-
-profile-status:: ready
-content-readiness:: ready
+- [CNN: Roy Cooper and Michael Whatley will advance to marquee North Carolina matchup for US Senate](https://www.cnn.com/2026/03/03/politics/roy-cooper-michael-whatley-north-carolina-matchup-senate) (Ti

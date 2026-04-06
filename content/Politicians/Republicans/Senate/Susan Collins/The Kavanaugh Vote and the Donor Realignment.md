@@ -75,7 +75,7 @@ By 2020, Collins relied almost entirely on out-of-state donors and dark money ne
 - [The Hill: Collins boasts best fundraising quarter after Kavanaugh vote](https://thehill.com/homenews/senate/428278-collins-boasts-best-fundraising-quarter-after-kavanaugh-vote/) (Tier 2)
 - [Bangor Daily News: Collins brings in most money of her career after Kavanaugh vote](https://www.bangordailynews.com/2019/02/01/mainefocus/collins-brings-in-most-money-of-her-career-after-kavanaugh-vote/) (Tier 2)
 - [Maine Public: Collins Brings In Most Money Of Her Career After Kavanaugh Vote](https://www.mainepublic.org/politics/2019-02-04/collins-brings-in-most-money-of-her-career-after-kavanaugh-vote) (Tier 2)
-- [TIME: Activists Raise Over $1 Million to Pressure Sen. Susan Collins to Oppose Brett Kavanaugh](https://time.com/5393329/susan-collins-brett-kavanaugh-fundraiser-supreme-court/) (Tier 2)
+- [TIME: Activists Raise Over $1 Million to Pressure Sen. Susan Collins to Oppose Brett Kavanaugh](https://time.com/5393329/susan-collins-brett-kavanaugh-fundraiser-supreme-court/eme-court/) (Tier 2)
 - [HuffPost: Susan Collins Raised More Money From Brett Kavanaugh Supporters Than Mainers](https://www.huffpost.com/entry/susan-collins-brett-kavanaugh-money_n_5c59d656e4b00187b5558da0) (Tier 2)
 - [OpenSecrets News: Big bucks ready to flow into Maine as Susan Collins aims to keep her seat](https://www.opensecrets.org/news/2019/06/big-bucks-to-maine-susan-collins-reelect2020/) (Tier 2)
 - [Maine Democratic Party: How Senator Collins Cashed In On Her Vote For Kavanaugh With Right Wing Donors](https://www.mainedems.org/media/new-how-senator-collins-cashed-her-vote-kavanaugh-right-wing-donors) (Tier 3)

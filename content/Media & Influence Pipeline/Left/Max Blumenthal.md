@@ -99,9 +99,9 @@ The structural problem: Blumenthal's funding is opaque. Patreon revenue is publi
 
 - [Max Blumenthal — Wikipedia](https://en.wikipedia.org/wiki/Max_Blumenthal) (Tier 2)
 - [The Grayzone — Wikipedia](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 2)
-- [The Grayzone — SourceWatch](https://www.sourcewatch.org/index.php/The_Grayzone) (Tier 2)
+- [The Grayzone — SourceWatch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_Grayzone) (Tier 2)
 - [Public Mistrust of Gaza Coverage Is Opening Space for Russia-Linked Media on the Left — New Lines Magazine](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2)
-- [*Goliath: Life and Loathing in Greater Israel* — Nation Books Publishing](https://www.nationbooks.com/books/goliath/) (Tier 2)
+- [*Goliath: Life and Loathing in Greater Israel* — Nation Books Publishing](https://typemediacenter.org/books/goliath/) (Tier 2)
 - [Institute for Strategic Dialogue — Grayzone Analysis](https://www.isdglobal.org/) (Tier 2)
 
 content-readiness:: developed

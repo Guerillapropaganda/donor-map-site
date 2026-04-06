@@ -88,6 +88,6 @@ A state can be both the world's fifth-largest economy and a place where millions
 - [US Census Bureau: Supplemental Poverty Measure](https://www.census.gov/topics/income-poverty/supplemental-poverty-measure.html) (Tier 1)
 - [HUD: Annual Homeless Assessment Report](https://www.huduser.gov/portal/datasets/ahar.html) (Tier 1)
 - [National Low Income Housing Coalition: Out of Reach report (minimum wage vs. rent)](https://nlihc.org/oor) (Tier 2)
-- [CalMatters: California poverty analysis](https://calmatters.org/economy/) (Tier 2)
+- [CalMatters: California poverty analysis](https://calmatters.org/category/economy/) (Tier 2)
 
 content-readiness:: ready

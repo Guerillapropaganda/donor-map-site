@@ -212,7 +212,7 @@ Patterns present: **Audience Capture** (psychological, financial, identity, and 
 - [New York Magazine: How Does Alex Jones Make Money?](https://nymag.com/intelligencer/2017/05/how-does-alex-jones-make-money.html) (Tier 2)
 - [Business Insider: InfoWars Granted White House Press Credentials](https://www.businessinsider.com/infowars-granted-white-house-press-credentials-2017-5) (Tier 2)
 - [WHYY: Alex Jones ordered to pay $49.3M total over Sandy Hook lies](https://whyy.org/articles/alex-jones-to-pay-49-million-over-sandy-hook-lies/) (Tier 2)
-- [PBS NewsHour: Alex Jones ordered to pay $49.3M](https://www.pbs.newshour.org/nation/alex-jones-ordered-to-pay-49-3m-in-total-damages-over-false-sandy-hook-conspiracy-theories) (Tier 2)
+- [PBS NewsHour: Alex Jones ordered to pay $49.3M](https://www.pbs.org/newshour/nation/alex-jones-ordered-to-pay-49-3m-in-total-damages-over-false-sandy-hook-conspiracy-theories) (Tier 2)
 - [AP: Connecticut court upholds $965 million verdict against Alex Jones](https://apnews.com/article/alex-jones-infowars-sandy-hook-024c8397c26e7b504436cb4b761db3fa) (Tier 2)
 - [Texas Tribune: Alex Jones ordered to pay nearly $1 billion to Sandy Hook families](https://www.texastribune.org/2022/10/12/alex-jones-sandy-hook-shooting/) (Tier 2)
 - [New York Times: Alex Jones Said Bans Would Strengthen Him. He Was Wrong.](https://www.nytimes.com/2018/09/04/technology/alex-jones-infowars-bans-traffic.html) (Tier 2)

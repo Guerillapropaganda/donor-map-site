@@ -4,7 +4,7 @@ type: event
 date: 2026-03-11
 status: draft
 source: "OpenSecrets Blog"
-source-url: "http://opensecrets.org/news/2026/03/trump-administration-profile-markwayne-mullin"
+source-url: "https://www.opensecrets.org/news/2026/03/trump-administration-profile-markwayne-mullin"
 profiles:
   - "Donald Trump"
   - "Markwayne Mullin"
@@ -15,7 +15,7 @@ profiles:
 
 ## Trump administration profile: Markwayne Mullin
 
-**Source:** [OpenSecrets Blog](http://opensecrets.org/news/2026/03/trump-administration-profile-markwayne-mullin)
+**Source:** [OpenSecrets Blog](https://www.opensecrets.org/news/2026/03/trump-administration-profile-markwayne-mullin)
 **Date:** 2026-03-11
 
 <p>Shortly after firing Homeland Security Secretary Kristi Noem amid mounting criticism over her leadership, President Donald Trump announced on March&amp;hellip;</p>

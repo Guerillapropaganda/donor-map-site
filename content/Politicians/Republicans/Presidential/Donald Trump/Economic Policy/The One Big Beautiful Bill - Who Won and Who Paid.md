@@ -96,7 +96,7 @@ OBBBA included $18 billion in new fossil fuel tax incentives. Rolling lease sale
 - [Joint Committee on Taxation. JCX-67-17 TCJA official estimate ($1.5T revenue cost)](https://www.jct.gov/publications/2017/jcx-67-17/) (Tier 1)
 - [Congressional Budget Office. Economic Effects of TCJA (Publication 53312)](https://www.cbo.gov/publication/53312) (Tier 1)
 - [Tax Foundation. OBBBA Trump Tax Cuts 2025 budget reconciliation](https://taxfoundation.org/research/all/federal/trump-tax-cuts-2025-budget-reconciliation/) (Tier 2)
-- [Medicare Rights Center. OBBBA triggers $536B in Medicare cuts](https://democrats-budget.house.gov/resources/fact-sheet/house-passed-fy25-reconciliation-bill-triggers-535-billion-medicare-cuts) (Tier 2)
+- [Medicare Rights Center. OBBBA triggers $536B in Medicare cuts](https://democrats-budget.house.gov/resources/fact-sheet/trumps-big-ugly-law-triggers-536-billion-medicare-cuts) (Tier 2)
 - [Center on Budget and Policy Priorities. Republican SNAP Proposals](https://www.cbpp.org/research/food-assistance/republican-snap-proposals-could-take-food-away-from-millions-of-low-income) (Tier 2)
 - [Congressional Research Service. TCJA Expiring Provisions (IF12641)](https://www.congress.gov/crs-product/IF12641) (Tier 1)
 

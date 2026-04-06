@@ -79,13 +79,13 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 
 ### Sources
 
-- [CalMatters: Ro Khanna: If Barbara Lee Had Campaign Cash, She'd Be in Top Two for U.S. Senate](https://calmatters.org/politics/elections/2024/02/us-senate-race-ro-khanna-barbara-lee/) (Tier 2)
+- [CalMatters: Ro Khanna: If Barbara Lee Had Campaign Cash, She'd Be in Top Two for U.S. Senate](https://calmatters.org/category/politics/elections/2024/02/us-senate-race-ro-khanna-barbara-lee/) (Tier 2)
 - [CalMatters: 2024 California U.S. Senate Candidate: Barbara Lee](https://calmatters.org/california-voter-guide-2024/us-senate/barbara-lee/) (Tier 2)
 - [Annenberg Media: Rep. Barbara Lee Faces Fundraising Titans in the Race for CA Senate Seat](https://www.uscannenbergmedia.com/2023/05/17/rep-barbara-lee-faces-fundraising-titans-in-the-race-for-ca-senate-seat/) (Tier 2)
-- [CalMatters: Katie Porter, Adam Schiff and Barbara Lee Swore Off Corporate PAC Money. What Does That Mean?](https://calmatters.org/politics/elections/2024/02/california-senate-race-corporate-pacs/) (Tier 2)
+- [CalMatters: Katie Porter, Adam Schiff and Barbara Lee Swore Off Corporate PAC Money. What Does That Mean?](https://calmatters.org/category/politics/elections/2024/02/california-senate-race-corporate-pacs/) (Tier 2)
 - [Slate: California Senate Primary — A Way Weirder Race Than Voters Imagined](https://slate.com/news-and-politics/2024/03/california-primary-senate-schiff-garvey-porter-lee-pelosi.html) (Tier 3)
 - [Wikipedia: Barbara Lee](https://en.wikipedia.org/wiki/Barbara_Lee) (Tier 3)
-- [Ballotpedia: Barbara Lee (California)](https://ballotpedia.org/Barbara_Lee_%28California%29) (Tier 3)
+- [Ballotpedia: Barbara Lee (California)](https://ballotpedia.org/Barbara_Lee_(California)) (Tier 3)
 - [Congresswoman Barbara Lee Official: Global Peace & Security Issues Page](https://lee.house.gov/issues/global-peace-and-security?latest=169) (Tier 1)
 
 profile-status:: ready

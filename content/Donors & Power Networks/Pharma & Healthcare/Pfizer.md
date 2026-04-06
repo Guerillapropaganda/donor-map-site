@@ -174,7 +174,7 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 - [OpenSecrets: Pfizer Inc Summary](https://www.opensecrets.org/orgs/pfizer-inc/summary?id=D000000138) (Tier 1)
 - [OpenSecrets: Pfizer Inc PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/pfizer-inc/C00016683/summary/2024) (Tier 1)
 - [OpenSecrets: Pfizer Inc PAC Candidate Recipients](https://www.opensecrets.org/political-action-committees-pacs/pfizer-inc/C00016683/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Pfizer Inc Lobbying Profile](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000000138) (Tier 1)
+- [OpenSecrets: Pfizer Inc Lobbying Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000000138) (Tier 1)
 - [HHS: Pfizer COVID-19 Vaccine Contract (PDF)](https://www.hhs.gov/sites/default/files/pfizer-inc-covid-19-vaccine-contract.pdf) (Tier 1)
 - [HHS: BARDA mRNA Development Wind-Down](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html) (Tier 1)
 - [KFF: Key Facts About Medicare Drug Price Negotiation](https://www.kff.org/medicare/key-facts-about-medicare-drug-price-negotiation/) (Tier 1)
@@ -183,7 +183,7 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 - [The Intercept: Pfizer CEO Complains About Lower Drug Prices Under IRA](https://theintercept.com/2022/08/03/pfizer-investors-drug-pricing/) (Tier 2)
 - [OpenSecrets: Despite Record Lobbying, Pharma Lost Biggest Legislative Bet](https://www.opensecrets.org/news/2023/02/despite-record-federal-lobbying-spending-the-pharmaceutical-and-health-product-industry-lost-their-biggest-legislative-bet-in-2022/) (Tier 2)
 - [STAT News: HHS Shuts Door on mRNA Vaccine Research](https://www.statnews.com/2025/08/05/mrna-vaccine-development-canceled-by-kennedy-hhs/) (Tier 2)
-- [Fortune: Germany Funded Pfizer's COVID Vaccine Development](https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/) (Tier 2)
+- [Fortune: Germany Funded Pfizer's COVID Vaccine Development](https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/) *(source unavailable)* (Tier 2)
 - [The Hill: Pfizer Doubles Paxlovid Price](https://thehill.com/homenews/4264609-pfizer-plans-to-more-than-double-price-of-covid-medication-paxlovid/) (Tier 2)
 - [Stanford Law: FDA's Revolving Door — Reckoning and Reform](https://law.stanford.edu/publications/fdas-revolving-door-reckoning-and-reform/) (Tier 2)
 - [Science: FDA's Revolving Door — Companies Often Hire Staffers Who Managed Reviews](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful) (Tier 2)
@@ -195,3 +195,16 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 ---
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $2.3M
+
+| Top Recipient | Amount |
+|---|---|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $1.0M |
+| DSCC | $79.4K |
+| NRSC | $60.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

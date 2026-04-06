@@ -147,7 +147,7 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 - [OpenSecrets: Jim Risch industry donors](https://www.opensecrets.org/members-of-congress/james-e-risch/industries?cid=N00029441&cycle=CAREER) (Tier 1)
 - [OpenSecrets: Jim Risch personal finances](https://www.opensecrets.org/personal-finances/james-risch/net-worth?cid=N00029441) (Tier 1)
 - [Senate Foreign Relations Committee: About the Chairman](https://www.foreign.senate.gov/about/chairman) (Tier 1)
-- [Senate.gov: Jim Risch biography](https://www.risch.senate.gov/public/index.cfm/biography) (Tier 1)
+- [Senate.gov: Jim Risch biography](https://www.risch.senate.gov/about/about-jim/) (Tier 1)
 - [Senate.gov: Risch assumes SFRC chairmanship](https://www.foreign.senate.gov/press/rep/release/risch-assumes-chairmanship-of-senate-foreign-relations-committee) (Tier 1)
 - [Senate.gov: Risch statement on military sales executive order](https://www.foreign.senate.gov/press/rep/release/chairman-risch-statement-on-military-sales-executive-order4-10) (Tier 1)
 - [Senate.gov: Risch International Nuclear Energy Act](https://www.risch.senate.gov/public/index.cfm/2025/5/risch-leads-legislation-to-counter-adversary-nuclear-energy-programs) (Tier 1)

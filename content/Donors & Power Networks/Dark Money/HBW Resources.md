@@ -2,7 +2,7 @@
 title: "HBW Resources"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-27
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,8 +10,6 @@ entity-type: "Corporation"
 issues:
   - "Energy & Climate"
   - "Dark Money & Campaign Finance"
-lobbying-spend: 1100000
-lobbying-filings: 42
 ---
 
 #hbw-resources #lobbying #energy #fossil-fuel #astroturf #front-group #lng #consumer-energy-alliance #western-states-tribal-nations #oil-gas #influence #dark-money
@@ -30,9 +28,9 @@ HBW's business model is the K Street front-group factory at its most efficient: 
 
 The firm's Denver office is led by Andrew Browning, who is simultaneously a managing partner of HBW Resources, an executive of Consumer Energy Alliance, and president of Western States and Tribal Nations. One person, three job titles, three organizations — all serving the same upstream oil and gas clients.
 
-- [OpenSecrets: HBW Resources lobbying firm profile](https://www.opensecrets.org/federal-lobbying/firms/summary?id=D000073431) (Tier 1)
+- [OpenSecrets: HBW Resources lobbying firm profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000073431) (Tier 1)
 - [DeSmog: Consumer Energy Alliance (CEA)](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2)
-- [SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php/HBW_Resources) (Tier 3)
+- [SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/HBW_Resources) (Tier 3)
 
 ---
 
@@ -123,37 +121,18 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 
 ### Sources
 
-- [OpenSecrets: HBW Resources lobbying firm profile](https://www.opensecrets.org/federal-lobbying/firms/summary?id=D000073431) (Tier 1)
+- [OpenSecrets: HBW Resources lobbying firm profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000073431) (Tier 1)
 - [OpenSecrets: HBW Resources org summary — contributions 2024](https://www.opensecrets.org/orgs/hbw-resources/summary?id=D000073431) (Tier 1)
-- [OpenSecrets: HBW Resources lobbyists 2024](https://www.opensecrets.org/federal-lobbying/firms/lobbyists?id=D000073431&cycle=2024) (Tier 1)
+- [OpenSecrets: HBW Resources lobbyists 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000073431&cycle=2024) (Tier 1)
 - [DeSmog: Consumer Energy Alliance (CEA)](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2)
 - [Energy and Policy Institute: Consumer Energy Alliance investigative archive](https://energyandpolicy.org/category/front-groups/consumer-energy-alliance/) (Tier 2)
 - [Facing South: Drive to Drill — Energy Lobbyists Behind Governors' Crusade for Atlantic Oil (2015)](https://www.facingsouth.org/2015/04/drive-to-drill-energy-lobbyists-behind-governors-c) (Tier 2)
 - [Facing South: Big Energy front group launches push for troubled Atlantic Coast Pipeline (2019)](https://www.facingsouth.org/2019/12/big-energy-front-group-launches-push-troubled-atlantic-coast-pipeline) (Tier 2)
 - [Street Roots: Energy lobbyists pose as Tribal Nations to promote Jordan Cove LNG pipeline (2020)](https://www.streetroots.org/environment/2020/06/30/energy-lobbyists-pose-tribal-nations-promote-jordan-cove-lng-pipeline/) (Tier 2)
-- [SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php/HBW_Resources) (Tier 3)
+- [SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/HBW_Resources) (Tier 3)
 
 ---
 
 **Editorial note:** The prior version of this file incorrectly described HBW Resources as a FARA-registered foreign agent for Turkey and Qatar, and included related links to the Turkey-Erdogan Lobbying Operation. This was an error — HBW Resources is a domestic energy lobbying firm with no documented Turkey or Qatar FARA registrations in the OpenSecrets or Senate LDA databases. The Turkey FARA related tag has been removed and the classification corrected to reflect HBW's actual practice areas: fossil fuel front groups, tribal gaming, defense aerostats, and carbon capture.
 
 content-readiness:: developed
-
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $1.1M |
-| Quarterly Filings | 42 |
-| Year Range | 2024-2025 |
-| Lobbying Firms | 1 |
-| Individual Lobbyists | 0 |
-
-**Issues lobbied:** Clean Air and Water (quality), Energy/Nuclear, Fuel/Gas/Oil, Indian/Native American Affairs, Natural Resources
-
-**Lobbying firms:** HBW RESOURCES
-
-**Agencies contacted:** Energy, Dept of, Environmental Protection Agency (EPA), Federal Energy Regulatory Commission (FERC), HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), SENATE
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=HBW%20Resources) (Tier 1)
-<!-- auto:lda-lobbying end -->

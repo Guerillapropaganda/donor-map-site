@@ -2,19 +2,13 @@
 title: "Walt Disney Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
 politicians-funded:
   - "Ron DeSantis"
-lobbying-spend: 2629000
-lobbying-filings: 97
-ein: 956037079
-annual-revenue: "$2.3M"
-net-assets: "$681K"
-tax-year: "2023"
 ---
 
 #disney #media #entertainment #lobbying #copyright #florida #desantis
@@ -60,33 +54,16 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 
 content-readiness:: ready
 
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $2.6M |
-| Quarterly Filings | 97 |
-| Year Range | 2024-2026 |
-| Lobbying Firms | 11 |
-| Individual Lobbyists | 0 |
+---
 
-**Issues lobbied:** Arts/Entertainment, Budget/Appropriations, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Government Issues, Health Issues, Labor Issues/Antitrust/Workplace, Medicare/Medicaid, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Travel/Tourism
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Lobbying firms:** ALPINE ADVISORS, ARMORY HILL ADVOCATES (FORMERLY KNOWN AS RAWLSON POLICY GROUP), BALLARD PARTNERS, BECKER & POLIAKOFF, P.A., CGCN GROUP, LLC, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), GOODLATTE GROUP, LLC F.K.A. ROBERT GOODLATTE, GRANT CONSULTING GROUP, SQUIRE PATTON BOGGS, THE WALTER GROUP, THOMAS WALTERS & ASSOCIATES, INC.
+**FEC contribution record:** 500 contributions totaling $984.9K
 
-**Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Energy, Dept of, Executive Office of the President (EOP), Federal Emergency Management Agency (FEMA), Federal Transit Administration (FTA), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS) +7 more
+| Top Recipient | Amount |
+|---|---|
+| MCCARTHY VICTORY FUND | $47.5K |
+| PALLONE FOR CONGRESS | $41.5K |
+| SCHIFF FOR CONGRESS | $33.0K |
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Walt%20Disney%20Company) (Tier 1)
-<!-- auto:lda-lobbying end -->
-
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $2.3M |
-| Total Contributions | $0 |
-| Total Expenses | $2.3M |
-| Net Assets | $681K |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 956037079](https://projects.propublica.org/nonprofits/organizations/956037079) (Tier 1)
-<!-- auto:propublica-990 end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

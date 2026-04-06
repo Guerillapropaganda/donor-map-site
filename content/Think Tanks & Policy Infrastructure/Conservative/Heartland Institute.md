@@ -200,7 +200,7 @@ The Heartland Institute is the most transparent case study in the vault of how t
 - [Media Bias/Fact Check: Heartland Institute](https://mediabiasfactcheck.com/heartland-institute/) (Tier 3)
 - [The Guardian: Leak exposes how Heartland Institute works to undermine climate science (2012)](https://www.theguardian.com/environment/2012/feb/15/leak-exposes-heartland-institute-climate) (Tier 2)
 - [Heartland Institute: About Us](https://heartland.org/about-us/) (Tier 3)
-- [SourceWatch: Heartland Institute](https://www.sourcewatch.org/index.php/Heartland_Institute) (Tier 3)
+- [SourceWatch: Heartland Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Heartland_Institute) (Tier 3)
 - [Inside Climate News: How Big Oil Lost Control of Its Climate Misinformation Machine (2017)](https://insideclimatenews.org/news/22122017/big-oil-heartland-climate-science-misinformation-campaign-koch-api-trump-infographic/) (Tier 2)
 - [Climate Investigations Center: CIC Briefing — Craig Idso, Heartland Institute, NIPCC Climate Denial](https://climateinvestigations.org/cic_briefing_craig_idso_heartland_institute_nipcc_climate_denial/) (Tier 2)
 - [PBS Frontline: In Shift, Key Climate Denialist Group Heartland Institute Pivots to Policy](https://www.pbs.org/wgbh/frontline/article/in-shift-key-climate-denialist-group-heartland-institute-pivots-to-policy/) (Tier 2)

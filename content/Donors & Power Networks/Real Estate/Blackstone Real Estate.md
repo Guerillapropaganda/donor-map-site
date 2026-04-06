@@ -155,7 +155,7 @@ Score: 12 Industry Wins, 2 Tenant Wins, 2 Compromises (with compromises represen
 - [Ballotpedia: Blackstone Group](https://ballotpedia.org/Blackstone_Group) (Tier 3)
 - [Invitation Homes 10-K filings](https://www.businesswire.com/news/home/20260218809149/en/Invitation-Homes-Reports-Fourth-Quarter-and-Full-Year-2025-Results) (Tier 1) (UNVERIFIED)
 - [Yahoo Finance: Invitation Homes portfolio overview](https://finance.yahoo.com/news/invitation-homes-reports-fourth-quarter-211500088.html) (Tier 2) (UNVERIFIED)
-- [OpenSecrets: Federal lobbying — Real estate industry 2024](https://www.opensecrets.org/industries/lobbying?cycle=All&ind=F10) (Tier 1)
+- [OpenSecrets: Federal lobbying — Real estate industry 2024](https://www.opensecrets.org/industries?cycle=All&ind=F10) (Tier 1)
 - [Elizabeth Warren Senate: Protecting and Empowering Renters — UN Rapporteurs letter](https://elizabethwarren.com/plans/protecting-empowering-renters) (Tier 2)
 - [PESP: National Rental Home Council Report — PE Landlord Coordination](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2)
 - [Private Equity Stakeholder Project: Report Exposes Real Estate Industry Housing Crisis](https://pestakeholder.org/news/report-exposes-how-real-estate-industry-private-equity-firms-maintain-housing-crisis/) (Tier 2)

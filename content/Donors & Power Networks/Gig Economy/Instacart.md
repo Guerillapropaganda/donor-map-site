@@ -49,3 +49,19 @@ Independent contractor classification for gig workers (nationally and in every s
 - [Ballotpedia: Proposition 22](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_(2020)) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 4 contributions totaling $165.3K
+
+**ActBlue/WinRed conduit duplicates filtered:** 1
+
+| Top Recipient | Amount |
+|---|---|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $100.0K |
+| NEWSOM FOR CALIFORNIA GOVERNOR 2022 | $64.8K |
+| KATIE PORTER FOR CONGRESS | $542 |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

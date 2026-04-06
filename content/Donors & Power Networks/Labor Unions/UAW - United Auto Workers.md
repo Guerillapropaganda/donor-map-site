@@ -121,7 +121,7 @@ The UAW's $672,000 in federal lobbying is modest compared to auto companies: GM 
 > The asymmetry defines labor's structural disadvantage. GM, Ford, and Stellantis combined spent $23 million on federal lobbying in 2024. The UAW spent $672,000 — a 34:1 ratio. The UAW's real political power isn't lobbying volume; it's the ability to deliver 400,000 members' votes in Michigan, Wisconsin, Pennsylvania, and Ohio. The union trades money for bodies. The 2024 election demonstrated both power and limits: the UAW endorsed Harris, mobilized aggressively in swing states, and Harris won 57% of union households — yet Harris lost Michigan overall and the presidency.
 
 - [OpenSecrets: UAW organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/united-auto-workers/summary?id=D000000070) (Tier 1) (Chrome-verified)
-- [OpenSecrets: UAW lobbying profile — 2024](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000000070) (Tier 1) (Chrome-verified)
+- [OpenSecrets: UAW lobbying profile — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000000070) (Tier 1) (Chrome-verified)
 
 ---
 
@@ -334,10 +334,10 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 - [OpenSecrets: UAW V-CAP PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2024) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: UAW V-CAP PAC profile 2020](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2020) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: UAW V-CAP PAC profile 2016](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2016) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: UAW lobbying profile — 2024](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000000070) (Tier 1) (Chrome-verified)
+- [OpenSecrets: UAW lobbying profile — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000000070) (Tier 1) (Chrome-verified)
 - [OpenSecrets: 2024 Outside Spending by Group](https://www.opensecrets.org/outside-spending/by_group) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Labor Sector Totals 2024](https://www.opensecrets.org/industries/totals?cycle=2024&ind=P) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: FIRE Sector Totals 2024](https://www.opensecrets.org/industries/totals?cycle=2024&ind=F) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Labor Sector Totals 2024](https://www.opensecrets.org/industries?cycle=2024&ind=P) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: FIRE Sector Totals 2024](https://www.opensecrets.org/industries?cycle=2024&ind=F) (Tier 1) (UNVERIFIED)
 - [FEC: PAC Table 4b 2024](https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/pac/PAC4b_2024_24m.xlsx) (Tier 1)
 
 ### DOJ & Law Enforcement (Tier 1):
@@ -392,3 +392,17 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 ---
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 491 contributions totaling $3.3M
+
+| Top Recipient | Amount |
+|---|---|
+| DEVELOPMENT NOW FOR CHICAGO | $1.5M |
+| DSCC | $210.0K |
+| DCCC | $105.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

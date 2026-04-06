@@ -106,7 +106,7 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 - [OpenSecrets: Democratic Party of Ohio PAC summary 2024](https://www.opensecrets.org/political-action-committees-pacs/democratic-party-of-ohio/C00016899/summary/2024) (Tier 1)
 - [FEC: Ohio Democratic Party — Federal, committee overview](https://www.fec.gov/data/committee/C00016899/) (Tier 1)
 - [OpenSecrets: Ohio Senate 2024 Race — Brown vs. Moreno](https://www.opensecrets.org/races/summary?cycle=2024&id=OHS1) (Tier 1)
-- [FollowTheMoney: Ohio Democratic Party entity profile](https://www.followthemoney.org/entity-details?eid=4909) (Tier 1)
+- [FollowTheMoney: Ohio Democratic Party entity profile](https://www.followthemoney.org/tools/election-overview?eid=4909) (Tier 1)
 - [CNN: What Sherrod Brown says went wrong in his Senate race](https://edition.cnn.com/2024/11/24/politics/sherrod-brown-democrats-workers-ohio) (Tier 2)
 - [NBC News: Sherrod Brown talks of rescuing a 'corporate' Democratic Party](https://www.nbcnews.com/politics/congress/sen-sherrod-brown-talks-rescuing-corporate-democratic-party-rcna183486) (Tier 2)
 - [Brennan Center: Ohio Congressional Races Illustrate 2024 Campaign Finance Trends](https://www.brennancenter.org/our-work/analysis-opinion/ohio-congressional-races-illustrate-2024-campaign-finance-trends) (Tier 2)
@@ -117,3 +117,19 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 ---
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 88 contributions totaling $9.2M
+
+**ActBlue/WinRed conduit duplicates filtered:** 412
+
+| Top Recipient | Amount |
+|---|---|
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $5.8M |
+| MICHIGAN DEMOCRATIC STATE CENTRAL COMMITTEE | $885.0K |
+| MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY | $600.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

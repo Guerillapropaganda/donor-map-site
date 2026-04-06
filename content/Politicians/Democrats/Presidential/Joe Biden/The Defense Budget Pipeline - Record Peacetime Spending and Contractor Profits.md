@@ -178,11 +178,11 @@ The comparison is instructive: $370B for climate spending (legitimate) vs. $999B
 
 - [Department of Defense: Defense Budget Justification materials, FY2024](https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2024/FY2024_1.2.4_PB_Exhibits.pdf) (Tier 1)
 - [Congressional Budget Office: Defense spending trends](https://www.cbo.gov/publication/58519) (Tier 1)
-- [OpenSecrets: Defense sector campaign spending 2022](https://www.opensecrets.org/industries/defense.php) (Tier 1)
-- [ProPublica Congress: House defense budget voting records](https://projects.propublica.org/represent/committees/H.AS) (Tier 1)
+- [OpenSecrets: Defense sector campaign spending 2022](https://www.opensecrets.org/industries?Ind=D) (Tier 1)
+- [ProPublica Congress: House defense budget voting records](https://projects.propublica.org/represent/) (Tier 1)
 - [Lockheed Martin annual reports, 2020–2023](https://www.lockheedmartin.com/en-us/news/investor-information.html) (Tier 1)
 - [Raytheon Technologies annual reports, 2020–2023](https://investors.rtx.com/financials/sec-filings) (Tier 1)
-- [Northrop Grumman annual reports, 2020–2023](https://www.northropgrumman.com/investors/) (Tier 1)
+- [Northrop Grumman annual reports, 2020–2023](https://www.northropgrumman.com/who-we-are/annual-reports) (Tier 1)
 - [USA Today: Ukraine aid reaches $113 billion](https://www.usatoday.com/story/news/politics/2024/01/15/biden-administration-ukraine-aid-package/66988220/) (Tier 2)
 - [Congressional Research Service: FY2024 Defense Budget Request — Context and Selected Issues](https://www.congress.gov/crs-product/R47582) (Tier 1)
 

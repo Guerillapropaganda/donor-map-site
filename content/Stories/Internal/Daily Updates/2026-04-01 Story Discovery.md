@@ -136,8 +136,8 @@ The AI industry is building the same bipartisan donor infrastructure that crypto
 
 ### Sources (UNVERIFIED — Chrome unavailable):
 - [Citation Needed: Crypto super PACs have hundreds of millions ready for midterms](https://www.citationneeded.news/crypto-super-pacs-2026-midterms/) (Tier 2)
-- [CoinDesk: Crypto PAC Fairshake marks first wins in 2026 primaries](https://www.coindesk.com/policy/2026/03/04/crypto-election-pac-fairshake-marks-first-wins-in-2026-u-s-congressional-primaries/) (Tier 3)
-- [CoinDesk: Fairshake leaps into first midterm Senate race with $5M in Alabama](https://www.coindesk.com/policy/2026/02/10/crypto-pac-fairshake-leaps-into-first-midterm-senate-race-with-usd5-million-in-alabama/) (Tier 3)
+- [CoinDesk: Crypto PAC Fairshake marks first wins in 2026 primaries](https://www.coindesk.com/policy2026/03/04/crypto-election-pac-fairshake-marks-first-wins-in-2026-u-s-congressional-primaries) (Tier 3)
+- [CoinDesk: Fairshake leaps into first midterm Senate race with $5M in Alabama](https://www.coindesk.com/policy2026/02/10/crypto-pac-fairshake-leaps-into-first-midterm-senate-race-with-usd5-million-in-alabama) (Tier 3)
 - [Cointelegraph: Crypto-backed PAC spends $8.6M in Illinois](https://cointelegraph.com/news/crypto-pac-spending-illinois-races-us-midterms) (Tier 3)
 
 ---

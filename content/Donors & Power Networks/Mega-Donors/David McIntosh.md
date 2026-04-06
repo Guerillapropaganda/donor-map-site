@@ -50,3 +50,19 @@ David McIntosh is a structural representative of the mega-donor class using ideo
 - [Politico: How Club for Growth shapes Republican primaries](https://www.politico.com/news/2024/01/15/club-for-growth-republican-primary-influence) (Tier 2)
 
 `content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 345 contributions totaling $53.4K
+
+**ActBlue/WinRed conduit duplicates filtered:** 155
+
+| Top Recipient | Amount |
+|---|---|
+| WINRED | $9.6K |
+| DCCC | $8.0K |
+| HARRIS FOR PRESIDENT | $4.7K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

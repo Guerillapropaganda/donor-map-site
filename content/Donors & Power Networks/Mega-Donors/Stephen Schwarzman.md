@@ -2,7 +2,7 @@
 title: "Stephen Schwarzman"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -132,17 +132,17 @@ The deeper pattern: Schwarzman positions himself as a statesman (Yale scholar, m
 
 ### Sources
 
-- [FEC: Stephen Schwarzman individual contributions 2022-2024](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=schwarzman) (Tier 1)
+- [FEC: Stephen Schwarzman individual contributions 2022-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=schwarzman) (Tier 1)
 - [OpenSecrets: Stephen Schwarzman donor detail (2024 cycle)](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000361&name=Schwarzman%2C+Stephen+A.&super_only=S&type=I) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
 - [OpenSecrets: Blackstone PAC and leadership bundling 2024](https://www.opensecrets.org/orgs/blackstone-inc/summary?id=D000117815) (Tier 1)
 - [Forbes: "Billionaire Blackstone CEO Schwarzman will back Trump after donating millions in 2020"](https://www.forbes.com/sites/mollybohannon/2024/05/24/billionaire-blackstone-ceo-schwarzman-will-back-trump-after-donating-millions-in-2020/) (Tier 2) (UNVERIFIED)
 - [Bloomberg via Alternative Credit Investor: "Blackstone's Steve Schwarzman among major donors to Trump's super PAC"](https://alternativecreditinvestor.com/2026/01/02/blackstones-steve-schwarzman-among-major-donors-to-trumps-super-pac/) (Tier 2)
-- [Federal Lobbying Disclosure Database: Blackstone lobbying 2022-2024](https://soprweb.senate.gov/index.cfm) (Tier 1)
-- [Tax Foundation: "The Carried Interest Tax Debate"](https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/) (Tier 2) (UNVERIFIED)
-- [Institute on Taxation and Economic Policy: "Private Equity Taxation Estimates"](https://itep.org/private-equity-tax-loophole/) (Tier 2) (UNVERIFIED)
+- [Federal Lobbying Disclosure Database: Blackstone lobbying 2022-2024](https://soprweb.senate.gov/index.cfm) *(source unavailable)* (Tier 1)
+- [Tax Foundation: "The Carried Interest Tax Debate"](https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/) *(source unavailable)* (Tier 2) (UNVERIFIED)
+- [Institute on Taxation and Economic Policy: "Private Equity Taxation Estimates"](https://itep.org/private-equity-tax-loophole/) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [ACCE Institute: Helter Shelter — Housing system analysis](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2)
-- [OpenSecrets: Federal lobbying — Real estate industry 2024](https://www.opensecrets.org/industries/lobbying?cycle=All&ind=F10) (Tier 1)
+- [OpenSecrets: Federal lobbying — Real estate industry 2024](https://www.opensecrets.org/industries?cycle=All&ind=F10) (Tier 1)
 - [Politico: "Opportunity Zones — Tim Scott and Cory Booker bipartisan push"](https://www.politico.com/agenda/story/2018/11/20/tim-scott-opportunity-zones-000793) (Tier 2) (UNVERIFIED)
 
 ---
@@ -150,28 +150,16 @@ The deeper pattern: Schwarzman positions himself as a statesman (Yale scholar, m
 research-status:: developed — Merged 2024 cycle data ($40M personal + $48.6M Blackstone-affiliated). Added temporal mapping (1985-2025): Invitation Homes $8.3B acquisition (2012), anti-rent-control campaigns ($14.1M, Props 10/21/CBRE), TCJA and Opportunity Zones (OZ 2.0 2025), September 2022 Trump criticism reversal (May 2024). Expanded revolving door (Wayne Berman 84.85%), corporate spending breakdown (PAC, NAR, Real Estate Roundtable, NRHC). Added net worth ($40B), 2020 cycle context ($33.5M top 10 donor), 2025 MAGA Inc ($5M), FHFA capture (Bill Pulte PE insider). 12 sources (Tier 1-2), all marked UNVERIFIED except FEC/OpenSecrets. All ### headers. Ready for Chrome verification pass.
 
 content-readiness:: developed
+---
 
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $36,566,410 |
-| Contributions | 500 |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Top recipients:**
+**FEC contribution record:** 500 contributions totaling $36.6M
 
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| SENATE LEADERSHIP FUND | $9,000,000 | — |
-| SLF PAC | $5,000,000 | — |
-| MAGA INC. | $5,000,000 | — |
-| MORE JOBS, LESS GOVERNMENT | $3,000,600 | — |
-| GLCF, INC. | $2,500,000 | — |
-| PINE TREE RESULTS PAC | $2,000,000 | — |
-| KEYSTONE RENEWAL PAC | $2,000,000 | — |
-| BUCKEYE VALUES PAC | $2,000,000 | — |
-| MARYLAND'S FUTURE | $1,500,000 | — |
-| CONGRESSIONAL LEADERSHIP FUND | $1,000,000 | — |
+| Top Recipient | Amount |
+|---|---|
+| SENATE LEADERSHIP FUND | $9.0M |
+| SLF PAC | $5.0M |
+| MAGA INC. | $5.0M |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stephen%20Schwarzman) (Tier 1)
-<!-- auto:fec-donor end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

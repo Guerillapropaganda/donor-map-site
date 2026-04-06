@@ -60,3 +60,16 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 - [Ballotpedia: California Nurses Association](https://ballotpedia.org/California_Nurses_Association) (Tier 3)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 62 contributions totaling $19.9M
+
+| Top Recipient | Amount |
+|---|---|
+| VOTE NURSES VALUES POLITICAL ACTION COMMITTEE: CALIFORNIA NURSES ASSOCIATION | $13.9M |
+| BE A HERO PAC | $5.2M |
+| TEXAS ORGANIZING PROJECT POLITICAL ACTION COMMITTEE | $250.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

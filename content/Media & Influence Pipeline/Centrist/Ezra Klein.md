@@ -160,7 +160,7 @@ Ezra Klein represents **technocratic centrism as class function** — the mechan
 
 ### Sources
 
-- [FEC Individual Contributions: Ezra Klein (0 results)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ezra+klein&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Ezra Klein (0 results)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ezra+klein&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Wikipedia: Ezra Klein](https://en.wikipedia.org/wiki/Ezra_Klein) (Tier 3)
 - [Variety: "NBCUniversal Buys $200 Million Stake in Vox Media" (Aug 12, 2015)](https://variety.com/2015/digital/news/nbcuniversal-vox-media-1201568784/) (Tier 2)
 - [Comcast: "NBCUniversal Announces Strategic Investment in Vox Media" (2015)](https://corporate.comcast.com/news-information/news-feed/nbcuniversal-announces-strategic-investment-in-vox-media) (Tier 1)

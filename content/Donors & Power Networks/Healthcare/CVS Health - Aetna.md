@@ -63,8 +63,20 @@ CVS Health represents the complete vertical capture of the prescription drug sup
 - [OpenSecrets: CVS Health organizational profile](https://www.opensecrets.org/orgs/cvs-health/summary?id=D000024650) (Tier 1)
 - [OpenSecrets: CVS Health lobbying expenditures](https://www.opensecrets.org/orgs/cvs-health/lobbying?id=D000024650) (Tier 1)
 - [FTC: PBM market concentration study](https://www.ftc.gov/reports/pharmacy-benefit-managers-report) (Tier 1)
-- [DOJ: CVS-Aetna merger review](https://www.justice.gov/opa/pr/justice-department-requires-cvs-and-aetna-divest-aetnas-medicare-individual-part-d) (Tier 1)
-- [STAT News: CVS vertical integration and healthcare pricing](https://www.statnews.com/cvs-vertical-integration/) (Tier 2)
+- [DOJ: CVS-Aetna merger review](https://www.justice.gov/archives/opa/pr/justice-department-requires-cvs-and-aetna-divest-aetna-s-medicare-individual-part-d) (Tier 1)
+- [STAT News: CVS vertical integration and healthcare pricing](https://www.statnews.com/cvs-vertical-integration/) *(source unavailable)* (Tier 2)
 - [Ballotpedia: CVS Health political spending](https://ballotpedia.org/CVS_Health) (Tier 3)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 2 contributions totaling $7.0K
+
+| Top Recipient | Amount |
+|---|---|
+| VICTORY BY INVESTING BUILDING AND EMPOWERING (VIBE) PAC | $4.5K |
+| TONY CARDENAS FOR CONGRESS | $2.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -120,8 +120,8 @@ FEC processed filings document 65 independent expenditure transactions opposing 
 > [!money]
 > **The multi-industry coalition against one House member:** Bowman faced opposition from three distinct donor-class sectors simultaneously: the Israel lobby (UDP $10.2M + DMFI $95K), the crypto industry (FAIRSHAKE $2.08M), and pro-Israel grassroots organizations (Stand With Us, 2020). The crypto angle is underreported: Bowman opposed cryptocurrency industry deregulation, making him a target for both AIPAC and the crypto lobby. FAIRSHAKE's $2.08M buy — a single media placement on June 12, 2024 — represented the crypto industry purchasing a seat in Congress alongside the Israel lobby. Two industries, one primary, one outcome.
 
-- [FEC: Independent expenditures opposing Bowman (all spenders)](https://www.fec.gov/data/independent-expenditures/?data_type=processed&is_notice=false&candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1)
-- [FEC: United Democracy Project independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?data_type=processed&q_spender=united+democracy+project&is_notice=false&candidate_id=H0NY16143) (Tier 1)
+- [FEC: Independent expenditures opposing Bowman (all spenders)](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&is_notice=false&candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1)
+- [FEC: United Democracy Project independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&q_spender=united+democracy+project&is_notice=false&candidate_id=H0NY16143) (Tier 1)
 
 ---
 
@@ -246,8 +246,8 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 ### Sources
 
 - [FEC: Bowman candidate financial summary 2024](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
-- [FEC: Independent expenditures opposing Bowman — all spenders](https://www.fec.gov/data/independent-expenditures/?data_type=processed&is_notice=false&candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1)
-- [FEC: United Democracy Project independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?data_type=processed&q_spender=united+democracy+project&is_notice=false&candidate_id=H0NY16143) (Tier 1)
+- [FEC: Independent expenditures opposing Bowman — all spenders](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&is_notice=false&candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1)
+- [FEC: United Democracy Project independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&q_spender=united+democracy+project&is_notice=false&candidate_id=H0NY16143) (Tier 1)
 - [OpenSecrets: Jamaal Bowman campaign finance summary](https://www.opensecrets.org/members-of-congress/jamaal-bowman/summary?cid=N00044790) (Tier 1)
 - [Congress.gov: Jamaal Bowman member profile](https://www.congress.gov/member/jamaal-bowman/B001223) (Tier 1)
 - [The Intercept: George Latimer rakes in AIPAC cash to primary Bowman](https://theintercept.com/2024/02/01/george-latimer-aipac-donors-jamaal-bowman/) (Tier 2)

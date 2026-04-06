@@ -2,14 +2,11 @@
 title: "Sinclair Broadcasting Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 2
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
-federal-contracts: "626372"
-lobbying-spend: 4000000
-lobbying-filings: 52
 ---
 
 #sinclair-broadcasting #media #television #local-news #conservative #propaganda #media-consolidation
@@ -124,51 +121,22 @@ Sinclair's success also reveals **regulatory capture in media:** FCC nominally r
 
 - [OpenSecrets: Sinclair Broadcasting company profile](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary) (Tier 1)
 - [NPR: Sinclair Broadcast Group Forces Nearly 200 Station Anchors To Read Same Script](https://www.npr.org/2018/04/02/598916366/sinclair-broadcast-group-forces-nearly-200-station-anchors-to-read-same-script) (Tier 2)
-- [NPR: Sinclair Broadcasting and local news consolidation](https://www.npr.org/2018/04/02/598916366/sinclair-broadcast-group-demands-editorial-control) (Tier 2)
+- [NPR: Sinclair Broadcasting and local news consolidation](https://www.npr.org/2018/04/02/598916366/sinclair-broadcast-group-forces-nearly-200-station-anchors-to-read-same-script) (Tier 2)
 - [FCC: Broadcast station ownership limits and Sinclair compliance](https://www.fcc.gov/document/sinclair-broadcast-group-approval) (Tier 1)
 - [Pew Research: Local news trust and Sinclair's market penetration](https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/) (Tier 2)
 
 content-readiness:: ready
 
-### Federal Contracts
-<!-- auto:sam-contracts start -->
-| Metric | Value |
-|--------|-------|
-| Total Contracts Found | 626372 |
-| Sample Value (top 25) | $336K |
-| Year Range | 2004-2014 |
-| Federal Agencies | 4 |
+---
 
-**Contracting agencies:** HOMELAND SECURITY, DEPARTMENT OF, JUSTICE, DEPARTMENT OF, TREASURY, DEPARTMENT OF THE, VETERANS AFFAIRS, DEPARTMENT OF
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Recent contracts:**
+**FEC contribution record:** 8 contributions totaling $10.9K
 
-| Amount | Agency | Date |
-|--------|--------|------|
-| $16K | TREASURY, DEPARTMENT OF THE | 2004-12-21 |
-| $5K | JUSTICE, DEPARTMENT OF | 2006-12-13 |
-| $5K | HOMELAND SECURITY, DEPARTMENT OF | 2005-12-01 |
-| $5K | HOMELAND SECURITY, DEPARTMENT OF | 2005-01-05 |
-| $600 | VETERANS AFFAIRS, DEPARTMENT OF | 2008-06-19 |
+| Top Recipient | Amount |
+|---|---|
+| FRIENDS OF ROY BLUNT | $8.5K |
+| LEAHY FOR U.S. SENATOR COMMITTEE | $2.0K |
+| COMMITTEE TO ELECT MARK A. HUNT FOR CONGRESS 2016 | $421 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Sinclair%20Broadcasting%20Group&page=1&index=opp) (Tier 1)
-<!-- auto:sam-contracts end -->
-
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $4.0M |
-| Quarterly Filings | 52 |
-| Year Range | 2024-2025 |
-| Lobbying Firms | 8 |
-| Individual Lobbyists | 0 |
-
-**Issues lobbied:** Accounting, Animals, Communications/Broadcasting/Radio/TV, Energy/Nuclear, Fuel/Gas/Oil, Government Issues, Taxation/Internal Revenue Code, Trade (domestic/foreign)
-
-**Lobbying firms:** CROSSROADS STRATEGIES, LLC, GORSHEIN PUBLIC POLICY LLC, HF SINCLAIR CORPORATION, MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP), RAGNAR GROUP LLC, REH COMPANY (FORMERLY THE SINCLAIR COMPANIES), SINCLAIR BROADCAST GROUP, WILMER CUTLER PICKERING HALE AND DORR LLP
-
-**Agencies contacted:** Army, Dept of (Corps of Engineers), Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, SENATE, Treasury, Dept of, U.S. Trade Representative (USTR)
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Sinclair%20Broadcasting%20Group) (Tier 1)
-<!-- auto:lda-lobbying end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

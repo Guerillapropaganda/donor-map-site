@@ -2,7 +2,7 @@
 title: "Sports Betting Alliance"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: "2026-04-05"
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -10,10 +10,6 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$766,000"
-ein: 874117395
-annual-revenue: "$13.4M"
-net-assets: "$5.8M"
-tax-year: "2023"
 ---
 
 #sports-betting #dark-money #draftkings-fanduel #gambling-expansion #lobbying
@@ -53,44 +49,19 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 
 - [OpenSecrets: Sports betting dark money spending](https://www.opensecrets.org/groups/sports-betting-alliance) (Tier 1)
 - [ProPublica: Sports betting industry influence on states](https://www.propublica.org/article/illinois-gambling-expansion-bill-sports-betting-video-gambling) (Tier 2)
-- [Center for Responsive Politics: Gambling industry contributions](https://www.opensecrets.org/industries/gambling) (Tier 1)
-- [NPR: The Story Behind the Sports Betting Boom — DraftKings, FanDuel, and state lobbying](https://www.npr.org/2023/04/06/1168349259/the-story-behind-the-sports-betting-boom) (Tier 2)
+- [Center for Responsive Politics: Gambling industry contributions](https://www.opensecrets.org/industries?Ind=N07) (Tier 1)
+- [NPR: The Story Behind the Sports Betting Boom — DraftKings, FanDuel, and state lobbying](https://www.npr.org/2023/04/06/1168349259/the-story-behind-the-sports-betting-boom) (
 
-`content-readiness:: ready
+---
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $13.4M |
-| Total Contributions | $13.4M |
-| Total Expenses | $13.3M |
-| Net Assets | $5.8M |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-- [Source: ProPublica Nonprofit Explorer — EIN 874117395](https://projects.propublica.org/nonprofits/organizations/874117395) (Tier 1)
-<!-- auto:propublica-990 end -->
+**FEC contribution record:** 13 contributions totaling $766.0K
 
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $766,000 |
-| Contributions | 13 |
+| Top Recipient | Amount |
+|---|---|
+| V-PAC: VICTORS, NOT VICTIMS | $500.0K |
+| ONE GIANT LEAP PAC | $145.0K |
+| BLACK BEAR PAC, INC. | $30.0K |
 
-**Top recipients:**
-
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| V-PAC: VICTORS, NOT VICTIMS | $500,000 | — |
-| ONE GIANT LEAP PAC | $145,000 | — |
-| BLACK BEAR PAC, INC. | $30,000 | — |
-| HEAL AMERICA PAC | $25,000 | — |
-| COPPER STATE VALUES | $25,000 | — |
-| TEAM MORRISEY | $20,000 | — |
-| KENTUCKY PATRIOT PAC | $10,000 | — |
-| DEMOCRATIC EXECUTIVE COMMITTEE OF FLORIDA | $5,000 | DEM |
-| OLD DRUM CONSERVATIVE PAC | $4,000 | — |
-| TRAVIS COUNTY REPUBLICAN PARTY FEDERAL COMMITTEE | $2,000 | REP |
-
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sports%20Betting%20Alliance) (Tier 1)
-<!-- auto:fec-donor end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

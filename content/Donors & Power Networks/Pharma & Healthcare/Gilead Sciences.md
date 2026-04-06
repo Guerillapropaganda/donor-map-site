@@ -2,16 +2,13 @@
 title: "Gilead Sciences"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-federal-awards-total: 0
-federal-contracts-count: 13
-federal-grants-count: 0
 ---
 
 #gilead #pharma #hiv #hepatitis #pricing #sovaldi #truvada #prep #lobbying
@@ -52,23 +49,16 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 
 content-readiness:: ready
 
-### Federal Spending (USASpending)
-<!-- auto:usaspending start -->
-| Metric | Value |
-|--------|-------|
-| Contracts (recent 3yr) | 13 ($2.0M sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 2 |
+---
 
-**Top contracts:**
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $1.4M | Department of Health and Human Services | OFFICE OF INFECTIOUS DISEASE AND HIV/AIDS POLICY (OIDP): ENDING THE HIV EPIDEMIC - PRE-EXPOSURE PROP |
-| $308K | Department of Veterans Affairs | YESCARTA |
-| $82K | Department of Veterans Affairs | COVID-19 EMERGENCY VEKLURY REMDESIVIR - CI |
-| $48K | Department of Veterans Affairs | LENACAPAVIR |
-| $48K | Department of Veterans Affairs | LENACAPAVIR TABS & INJECTIONS |
+**FEC contribution record:** 500 contributions totaling $2.1M
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Gilead%20Sciences) (Tier 1)
-<!-- auto:usaspending end -->
+| Top Recipient | Amount |
+|---|---|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $1.0M |
+| GUTHRIE FOR CONGRESS | $20.0K |
+| SCALISE LEADERSHIP FUND | $17.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -118,10 +118,10 @@ On healthcare, she leads with children and families — the child tax credit, sc
 - [FEC: Rosa DeLauro candidate profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
 - [House Appropriations Committee: Ranking Member DeLauro](https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro) (Tier 1)
 - [Track AIPAC: Rosa DeLauro Israel lobby contributions](https://www.trackaipac.com/congress) (Tier 2)
-- [Hartford Courant: Wall Street, lawyers, insurance and defense top donors to CT lawmakers](https://www.courant.com/politics/hc-pol-connecticut-congress-donations-20190528-mjpqiifhq5dnplonu4wr5oz4le-story.html) (Tier 2)
+- [Hartford Courant: Wall Street, lawyers, insurance and defense top donors to CT lawmakers](https://www.courant.com/2019/05/28/wall-street-lawyers-insurance-and-defense-top-donors-to-connecticut-lawmakers/) (Tier 2)
 - [CT Mirror: Rosa DeLauro child tax credit advocacy](https://ctmirror.org/2024/01/15/child-tax-credit-rosa-delauro/) (Tier 2)
 - [Science/AAAS: FDA revolving door analysis](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful) (Tier 2)
 - [OpenSecrets: Rosa DeLauro net worth disclosures](https://www.opensecrets.org/personal-finances/rosa-delauro/net-worth?cid=N00000615) (Tier 1)
 
 profile-status:: ready
-content-readiness:: ready
+c

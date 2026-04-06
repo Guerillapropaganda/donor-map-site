@@ -59,3 +59,15 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 - [Ballotpedia: Arabella Advisors](https://ballotpedia.org/New_Venture_Fund) (Tier 3)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 2 contributions totaling $40.8K
+
+| Top Recipient | Amount |
+|---|---|
+| AMERICAN BRIDGE 21ST CENTURY | $40.0K |
+| PEOPLE FOR PATTY MURRAY | $821 |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

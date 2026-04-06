@@ -46,6 +46,20 @@ Opposition to federal minimum wage increases, favorable franchise regulation (av
 
 - [OpenSecrets: McDonald's organizational profile](https://www.opensecrets.org/orgs/mcdonalds-corp/summary?id=D000000373) (Tier 1)
 - [SEC: McDonald's 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=McDonalds%20Corporation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: McDonald's](https://ballotpedia.org/McDonald%27s) (Tier 3)
+- [Ballotpedia: McDonald's](https://ballotpedia.org/McDonald's) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.1M
+
+| Top Recipient | Amount |
+|---|---|
+| DSCC | $75.0K |
+| NRSC | $60.0K |
+| CHC BOLD PAC | $35.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

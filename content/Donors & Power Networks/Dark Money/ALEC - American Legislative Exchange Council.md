@@ -262,8 +262,8 @@ In 1995, Governor George W. Bush signed an ALEC model bill in Texas giving corpo
 > ALEC's $10–15 million annual budget generates legislative output that would cost corporations billions to achieve through traditional lobbying in 50 state capitals. A single model bill — drafted by corporate lobbyists in a task force meeting, distributed to 2,000+ state legislators, introduced in dozens of states simultaneously — can reshape national policy without any federal legislation or public debate. Corporate members pay $7,000–$25,000 in dues and receive pre-drafted legislation, talking points, a legislator network, and anonymity. Right-to-work laws alone have reduced union membership and worker bargaining power across 27 states. Mandatory sentencing laws filled private prisons for two decades. The Critical Infrastructure Protection Act criminalized pipeline protest in 8+ states within two years of drafting. No other organization in American politics achieves this efficiency: corporate policy preferences converted to state law at industrial scale, with the corporate authorship invisible to the public.
 
 - [ProPublica: Step-by-Step Guide to Understanding ALEC's Influence on Your State Laws](https://www.propublica.org/article/our-step-by-step-guide-to-understanding-alecs-influence-on-your-state-laws) (Tier 2)
-- [ALEC Exposed: Model Bills Database](https://www.alecexposed.org/wiki/ALEC_Bills) (Tier 2)
-- [Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposed) (Tier 2)
+- [ALEC Exposed: Model Bills Database](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Bills) (Tier 2)
+- [Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Exposed) (Tier 2)
 
 ---
 
@@ -469,13 +469,13 @@ The pattern that defines ALEC is **Donor-Class Override at industrial scale**: c
 ### Model Legislation Pipeline & Statistics:
 - [Brookings Institution: ALEC's Influence over Lawmaking in State Legislatures (December 2013)](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/) (Tier 2)
 - [ProPublica: Step-by-Step Guide to ALEC's Influence](https://www.propublica.org/article/our-step-by-step-guide-to-understanding-alecs-influence-on-your-state-laws) (Tier 2)
-- [ALEC Exposed: Model Bills Database (CMD)](https://www.alecexposed.org/wiki/ALEC_Bills) (Tier 2)
-- [Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposed) (Tier 2)
+- [ALEC Exposed: Model Bills Database (CMD)](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Bills) (Tier 2)
+- [Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Exposed) (Tier 2)
 - [Democracy Forward: Peoples Guide (April 2025)](https://democracyforward.org/wp-content/uploads/2025/04/DF-Peoples-Guide-April-2025-8-1.pdf) (Tier 2)
 - [Public Citizen: ALEC, Chamber of Commerce, and the Kochs](https://www.citizen.org/news/alec-the-chamber-of-commerce-and-the-kochs-inside-the-world-of-secret-money/) (Tier 2)
 - [NPR Fresh Air: ALEC Task Forces (2011)](https://www.npr.org/transcripts/138537515) (Tier 2)
 - [American Prospect: ALEC 50 Years Right-Wing Law Factory (2023)](https://prospect.org/2023/10/04/2023-10-04-alec-50-years-right-wing-law-factory/) (Tier 2)
-- [SourceWatch: ALEC](https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council) (Tier 3)
+- [SourceWatch: ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Legislative_Exchange_Council) (Tier 3)
 
 ### Corporate Exodus:
 - [NPR: Walmart Pulls Out of ALEC](https://www.npr.org/sections/thetwo-way/2012/05/31/154077536/wal-mart-pulls-out-of-group-that-advocates-stand-your-ground-laws) (Tier 2)
@@ -487,7 +487,7 @@ The pattern that defines ALEC is **Donor-Class Override at industrial scale**: c
 
 ### Dark Money Network:
 - [EXPOSEDbyCMD: Koch $176M Stand Together Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/) (Tier 2)
-- [SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php/SPN_Ties_to_ALEC) (Tier 3)
+- [SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC) (Tier 3)
 - [EXPOSEDbyCMD: ALEC's Funding Revealed — $41.7M breakdown 2017-2021](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/) (Tier 2)
 - [EXPOSEDbyCMD: Bradley Foundation Bankrolls ALEC Voter Software](https://www.exposedbycmd.org/2021/08/20/bradley-foundation-bankrolls-controversial-alec-voter-software) (Tier 2)
 
@@ -503,13 +503,13 @@ The pattern that defines ALEC is **Donor-Class Override at industrial scale**: c
 - [National Employment Law Project: Fighting Labor Policy Preemption](https://www.nelp.org/insights-research/fighting-labor-policy-preemption-that-undermines-local-power-and-the-democratic-process/) (Tier 2)
 - [PR Watch: ALEC Local Control (2016)](https://www.prwatch.org/news/2016/02/13029/2016-ALEC-local-control) (Tier 2) (UNVERIFIED)
 - [Local Solutions Support Center: ALEC Model Legislation and Preemption](https://www.supportdemocracy.org/the-latest/alec-model-legislation-and-preemption) (Tier 3)
-- [PR Watch: Arizona Ground Zero — Koch Attack on Public Education (2018)](https://www.prwatch.org/arizona-%E2%80%9Cground-zero%E2%80%9D-koch-attack-public-education/) (Tier 2) (UNVERIFIED)
+- [PR Watch: Arizona Ground Zero — Koch Attack on Public Education (2018)](https://www.prwatch.org/arizona-%E2%80%9Cground-zero%E2%80%9D-koch-attack-public-education/) *(source unavailable)* (Tier 2) (UNVERIFIED)
 
 ### State Policy Network (SPN):
 - [Center for Public Integrity: Donors Use Charity to Push Free-Market Policies in States (2013)](https://publicintegrity.org/politics/donors-use-charity-to-push-free-market-policies-in-states/) (Tier 2)
 - [Center for Media and Democracy: SPN Raises $152 Million Annually to Push Right-Wing Policies (September 2022)](https://www.exposedbycmd.org/2022/09/30/state-policy-network-and-affiliates-raises-152-million-annually-to-push-right-wing-policies/) (Tier 2)
-- [SourceWatch: State Policy Network](https://www.sourcewatch.org/index.php/State_Policy_Network) (Tier 3)
-- [SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php/SPN_Ties_to_ALEC) (Tier 3)
+- [SourceWatch: State Policy Network](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/State_Policy_Network) (Tier 3)
+- [SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC) (Tier 3)
 - [Energy and Policy Institute: State Policy Network](https://energyandpolicy.org/category/front-groups/state-policy-network/) (Tier 2)
 - [EXPOSEDbyCMD: Koch $176M Stand Together Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/) (Tier 2)
 - [Center for Media and Democracy: SPN Right-Wing Think Tanks Pushing ALEC Agenda (2013)](https://www.exposedbycmd.org/2013/11/22/spn-right-wing-stink-tanks-pushing-alec-agenda-states/) (Tier 2)

@@ -207,7 +207,7 @@ The Bezos endowment marks a new phase: institutional capture by a single mega-do
 - [Aspen Daily News: Aspen Institute crafts conflict of interest policy](https://www.aspendailynews.com/aspen-institute-crafts-conflict-of-interest-policy/article_684f8195-d8aa-51c1-b61b-8dba98aef0e0.html) (Tier 2)
 - [CPR News: When Congress Members Travel the World on Private Dime, Their Families Do Too](https://www.cpr.org/2024/09/24/congress-members-and-family-travel-paid-by-private-interest-groups/) (Tier 2)
 - [Aspen Institute: Aspen Institute and Bezos Family Foundation Announce Center for Rising Generations](https://www.aspeninstitute.org/news/aspen-institute-announces-center-for-rising-generations/) (Tier 3)
-- [SourceWatch: Aspen Institute / Aspen Strategy Group](https://www.sourcewatch.org/index.php?title=Aspen_Institute_/_Aspen_Strategy_Group) (Tier 3)
+- [SourceWatch: Aspen Institute / Aspen Strategy Group](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch?title=Aspen_Institute_/_Aspen_Strategy_Group) (Tier 3)
 - [New Republic: The Atlantic Is Better Off Without the Aspen Ideas Festival — criticism of corporate sponsorship inhibiting subversive ideas (2021)](https://newrepublic.com/article/164189/atlantic-nbc-aspen-ideas-festival) (Tier 2)
 - [Aspen Journalism: The Aspen 50 — Forbes billionaires in Pitkin County (2024)](https://aspenjournalism.org/the-aspen-50-forbes-billionaires-in-pitkin-county/) (Tier 3)
 - [Aspen Times: 'Globalism' prompts Pentagon to withdraw senior military officials from Aspen Security Forum (Jul 2025)](https://www.aspentimes.com/news/globalism-prompts-pentagon-to-withdraw-senior-military-officials-from-aspen-security-forum/) (Tier 2)

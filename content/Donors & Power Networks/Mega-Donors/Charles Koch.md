@@ -49,3 +49,19 @@ Reduced government regulation (across every sector), lower taxes (particularly c
 - [Ballotpedia: Charles Koch](https://ballotpedia.org/Charles_Koch) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 400 contributions totaling $361.0K
+
+**ActBlue/WinRed conduit duplicates filtered:** 100
+
+| Top Recipient | Amount |
+|---|---|
+| CASEY KEYSTONE VICTORY FUND | $31.4K |
+| KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC) | $25.2K |
+| HICKENLOOPER VICTORY FUND | $22.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

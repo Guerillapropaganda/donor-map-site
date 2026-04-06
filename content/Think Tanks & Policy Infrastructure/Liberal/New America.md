@@ -216,7 +216,7 @@ New America is the most important case study in the vault of how Silicon Valley 
 - [Wikipedia: New America (organization)](https://en.wikipedia.org/wiki/New_America_(organization)) (Tier 3)
 - [The Intercept: New America Emails Show How Google Wields Power in Washington (2017)](https://theintercept.com/2017/08/31/new-america-google-open-markets-barry-lynn-anne-marie-slaughter/) (Tier 2)
 - [Media Bias/Fact Check: New America](https://mediabiasfactcheck.com/new-america/) (Tier 3)
-- [New America: About Us](https://www.newamerica.org/our-story/) (Tier 3)
+- [New America: About Us](https://www.newamerica.org/about/) (Tier 3)
 - [Washingtonian: Has the New America Foundation Lost Its Way? (2018)](https://washingtonian.com/2018/06/24/has-new-america-foundation-lost-its-way-anne-marie-slaughter/) (Tier 2)
 - [Fortune: Google-Funded Think Tank New America Boots Antitrust Crusader (2017)](https://fortune.com/2017/08/30/google-new-america-antitrust/) (Tier 2)
 - [Capital Research Center: Compromised — Google, New America, and the Trouble With Corporate Funding for Think Tanks](https://capitalresearch.org/article/compromised-google-new-america-and-the-trouble-with-corporate-funding-for-think-tanks/) (Tier 3)
@@ -225,6 +225,6 @@ New America is the most important case study in the vault of how Silicon Valley 
 - [The New Republic: The Credible Think Tank Is Dead — Google, New America, and the corporate capture of policy research (2017)](https://newrepublic.com/article/144818/credible-think-tank-dead) (Tier 2)
 - [New America: Funding disclosure page — donor list and transparency](https://www.newamerica.org/about/funding/) (Tier 3)
 - [NPR: Google-Funded Think Tank Fires Scholar Who Criticized Tech Giant (2017)](https://www.npr.org/2017/08/31/547491063/google-funded-think-tank-fires-scholar-who-criticized-tech-giant) (Tier 2)
-- [SourceWatch: New America Foundation — funding, board, and policy influence documentation](https://www.sourcewatch.org/index.php/New_America_Foundation) (Tier 3)
+- [SourceWatch: New America Foundation — funding, board, and policy influence documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/New_America_Foundation) (Tier 3)
 
 content-readiness:: ready

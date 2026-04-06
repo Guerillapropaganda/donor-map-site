@@ -123,7 +123,7 @@ Miller's political identity and the donor base that propelled her to Congress re
 
 **Professional Background:** Healthcare consultant specializing in pharmaceutical and biotech sales, training, development
 
-**Website:** [donnaforcongress.com](https://www.donnaforcongress.com/?q=Donna%20Miller) (URL pending confirmation)
+**Website:** [donnaforcongress.com](https://donnaforcongress.com/?q=Donna%20Miller) (URL pending confirmation)
 
 ### Sources
 
@@ -132,7 +132,7 @@ Miller's political identity and the donor base that propelled her to Congress re
 - [Cook County Commissioner Donna Miller wins Illinois' 2nd District over comeback effort by former Rep. Jesse Jackson Jr.: Chicago Tribune](https://www.chicagotribune.com/2026/03/17/illinois-2nd-democratic-primary/) (Tier 2)
 - [A voter's guide to the confusing world of super PACs influencing 2026 Illinois primary races: WBEZ](https://www.wbez.org/government-politics/elections/2026/03/13/super-pacs-influence-2026-illinois-primary-races-glossary) (Tier 2)
 - [AIPAC Coordinates Donors in Illinois House Primaries: The American Prospect](https://prospect.org/2026/02/06/aipac-coordinates-donors-in-illinois-house-primaries/) (Tier 2)
-- [Donna Miller projected to win Illinois 2nd District seat after campaign maimed by AIPAC spending: Heartland Signal](https://heartlandsignal.com/2026/03/18/donna-miller-projected-to-win-illinois-2nd-district-seat-after-campaign-maimed-by-aipac-spending) (Tier 2)
+- [Donna Miller projected to win Illinois 2nd District seat after campaign maimed by AIPAC spending: Heartland Signal](https://heartlandsignal.com/2026/03/18/donna-miller-projected-to-win-illinois-2nd-district-seat-after-campaign-maimed-by-aipac-spending/) (Tier 2)
 - [AIPAC Flops in Illinois, But Record Election Spending Called a 'Full-Spectrum Disaster for Democracy': Common Dreams](https://www.commondreams.org/news/aipac-spending-illinois) (Tier 3)
 - [Donna Miller - Wikipedia](https://en.wikipedia.org/wiki/Donna_Miller) (Tier 3)
 
@@ -144,3 +144,4 @@ party:: Democrat
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
+ 

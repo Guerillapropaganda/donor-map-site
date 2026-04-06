@@ -149,7 +149,7 @@ This is the Self-Funding as Independence pattern in its purest form, inverted: W
 - [Texas Tribune: Roger Williams cleared in ethics investigation](https://www.texastribune.org/2017/08/01/us-office-congressional-ethics-drops-roger-williams-investigation/) (Tier 2)
 - [Roll Call: Roger Williams Cleared in Auto Dealership Ethics Probe](https://rollcall.com/2017/08/01/roger-williams-cleared-in-auto-dealership-ethics-probe/) (Tier 2)
 - [CBT News: Texas congressman promotes LIFO accounting method benefiting his car dealerships](https://www.cbtnews.com/roger-williams-last-in-first-out/) (Tier 2)
-- [Ballotpedia: Roger Williams](https://ballotpedia.org/Roger_Williams_%28Texas%29) (Tier 3)
+- [Ballotpedia: Roger Williams](https://ballotpedia.org/Roger_Williams_(Texas)) (Tier 3)
 - [Wikipedia: Roger Williams (Texas politician)](https://en.wikipedia.org/wiki/Roger_Williams_%28Texas_politician%29) (Tier 3)
 
 content-readiness:: ready

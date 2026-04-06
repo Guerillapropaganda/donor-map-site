@@ -624,7 +624,7 @@ Sources: Financial Times (Tier 2), Gate.com (Tier 3, UNVERIFIED), Observer (Tier
 - [White House: GENIUS Act signing fact sheet](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/) (UNVERIFIED)
 - [White House: Strategic Bitcoin Reserve fact sheet](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/) (UNVERIFIED)
 - [House Financial Services Committee Democrats: Letter to SEC on crypto dismissals (Jan 2026)](https://democrats-financialservices.house.gov/uploadedfiles/01.14.2026_ltr_sec_rfcryptoe.pdf) (UNVERIFIED)
-- [House Rules Committee: FIT21 amendments](http://rules.house.gov/bill/118/hr-4763) (UNVERIFIED)
+- [House Rules Committee: FIT21 amendments](https://rules.house.gov/bill/118/hr-4763) (UNVERIFIED)
 
 ### Tier 2 (Investigative Journalism / Major Outlets):
 - [Public Citizen: Big Crypto, Big Spending (August 2024)](https://www.citizen.org/article/big-crypto-big-spending-2024/)
@@ -641,14 +641,14 @@ Sources: Financial Times (Tier 2), Gate.com (Tier 3, UNVERIFIED), Observer (Tier
 - [Fortune: AI and Crypto spent nearly $20 million in Illinois, mostly lost (March 2026)](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (UNVERIFIED)
 - [Fortune: $18M crypto donations to Trump inauguration](https://fortune.com/crypto/2025/04/21/donald-trump-inauguration-fund-crypto-coinbase-ripple-circle-18-million/) (UNVERIFIED)
 - [Fortune: AI super PAC Leading the Future (Aug 2025)](https://fortune.com/2025/08/26/openai-president-greg-brockman-andreessen-horowitz-super-pac-ai-pro-innovation/) (UNVERIFIED)
-- [CoinDesk: Crypto's political power supercharged with $193 million in Fairshake](https://www.coindesk.com/policy/2026/01/28/crypto-s-political-power-supercharged-with-usd193-million-in-fairshake-thanks-to-new-cash) (UNVERIFIED)
-- [CoinDesk: Paul Atkins confirmed as SEC chair (April 2025)](https://www.coindesk.com/policy/2025/04/22/crypto-ally-paul-atkins-sworn-in-to-replace-gary-gensler-atop-u-s-sec/) (UNVERIFIED)
+- [CoinDesk: Crypto's political power supercharged with $193 million in Fairshake](https://www.coindesk.com/policy2026/01/28/crypto-s-political-power-supercharged-with-usd193-million-in-fairshake-thanks-to-new-cash) (UNVERIFIED)
+- [CoinDesk: Paul Atkins confirmed as SEC chair (April 2025)](https://www.coindesk.com/policy2025/04/22/crypto-ally-paul-atkins-sworn-in-to-replace-gary-gensler-atop-u-s-sec) (UNVERIFIED)
 - [Reuters: Coinbase SEC lawsuit dropped (Feb 2025)](https://www.reuters.com/technology/us-securities-regulator-drop-lawsuit-against-coinbase-exchange-says-2025-02-21/) (UNVERIFIED)
 - [Reuters: Ripple settlement with SEC (March 2025)](https://www.reuters.com/legal/ripple-labs-says-it-settles-with-us-sec-will-pay-reduced-50-million-fine-2025-03-25/) (UNVERIFIED)
 - [Reuters: Trump signs order establish Bitcoin reserve (March 2025)](https://www.reuters.com/technology/trump-signs-order-establish-strategic-bitcoin-reserve-white-house-crypto-czar-2025-03-07/) (UNVERIFIED)
-- [Reuters: Binance case dismissed May 2025](https://www.reuters.com/legal/binance-ceo-zhou-criminal-charges-dropped-trump-administration-decision-2025-05-29/) (UNVERIFIED)
+- [Reuters: Binance case dismissed May 2025](https://www.reuters.com/legal/binance-ceo-zhou-criminal-charges-dropped-trump-administration-decision-2025-05-29/) *(source unavailable)* (UNVERIFIED)
 - [CNN: Trump family World Liberty Financial UAE investment deal](https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae) (UNVERIFIED)
-- [CNN: Crypto regulatory framework explained](https://www.cnn.com/2025/01/25/politics/crypto-regulation-gensler-replacement/) (UNVERIFIED)
+- [CNN: Crypto regulatory framework explained](https://www.cnn.com/2025/01/25/politics/crypto-regulation-gensler-replacement/) *(source unavailable)* (UNVERIFIED)
 - [Washington Post: World Liberty Financial UAE investment](https://www.washingtonpost.com/politics/2026/02/01/trump-uae-crypto-world-liberty-financial/) (UNVERIFIED)
 - [Washington Post: Super PAC spending surges in midterms](https://www.washingtonpost.com/politics/2026/03/21/israel-midterms-spending-pacs/) (UNVERIFIED)
 - [PBS NewsHour: Crypto.com/Trump conflict of interest](https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest) (UNVERIFIED)
@@ -690,7 +690,7 @@ Sources: Financial Times (Tier 2), Gate.com (Tier 3, UNVERIFIED), Observer (Tier
 - [Financial Times: David Sacks PayPal Mafia (via Readwise)](https://readwise.io/reader/shared/01jfa9qec116d5d3es2vk4zv9n/) (UNVERIFIED)
 - [Binance Square: Andreessen Horowitz Trump PAC donations](https://www.binance.com/en/square/post/14963805124394) (UNVERIFIED)
 - [FinTech Weekly: CLARITY Act status](https://www.fintechweekly.com/news/what-is-the-clarity-act-digital-asset-market-structure-explained-2026) (UNVERIFIED)
-- [Investment Law Watch: Trump EO crypto policy](https://www.investmentlawwatch.com/2025/01/24/president-trump-executive-order-steering-digital-assets-policy/) (UNVERIFIED)
+- [Investment Law Watch: Trump EO crypto policy](https://www.investmentlawwatch.com/2025/01/24/president-trump-executive-order-steering-digital-assets-policy/) *(source unavailable)* (UNVERIFIED)
 - [Follow the Crypto 2024: Race outcomes tracking](https://www.followthecrypto.org/2024/) (UNVERIFIED)
 - [Nasdaq: Trump nominates Paul Atkins](https://www.nasdaq.com/articles/trump-nominates-paul-atkins-replace-gensler-sec-chair) (UNVERIFIED)
 
@@ -708,7 +708,7 @@ Sources: Financial Times (Tier 2), Gate.com (Tier 3, UNVERIFIED), Observer (Tier
 - [Latham & Watkins: US Crypto Policy Tracker](https://www.lw.com/en/us-crypto-policy-tracker/legislative-developments) (UNVERIFIED)
 - [Latham & Watkins: Bitcoin Reserve EO](https://www.lathamreg.com/2025/03/president-trump-issues-executive-order-establishing-a-strategic-bitcoin-reserve/) (UNVERIFIED)
 - [ABA Banking Journal: SAB 121 veto override](https://bankingjournal.aba.com/2024/07/aba-associations-uphold-congressional-vote-to-overturn-sec-treatment-of-crypto-custody-assets/) (UNVERIFIED)
-- [OpenExo: Ripple vs SEC outcomes](https://openexo.com/l/16b191ca) (UNVERIFIED)
+- [OpenExo: Ripple vs SEC outcomes](https://letstalkbitco.in/ripple-vs-sec-case-ends-in-2025-key-outcomes-for-xrp-and-crypto-regulation/) (UNVERIFIED)
 - [Ballotpedia: Fairshake PAC](https://ballotpedia.org/Fairshake) (UNVERIFIED)
 
 ---

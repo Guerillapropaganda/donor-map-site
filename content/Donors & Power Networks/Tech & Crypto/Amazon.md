@@ -2,7 +2,7 @@
 title: "Amazon"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -12,9 +12,6 @@ politicians-funded:
 issues:
   - "Technology"
   - "Labor & Workers"
-federal-awards-total: 320825731
-federal-contracts-count: 25
-federal-grants-count: 10
 ---
 
 
@@ -186,11 +183,11 @@ Amazon is the most complete case study in the vault of how a single corporation 
 - [OpenSecrets: Amazon.com Summary](https://www.opensecrets.org/orgs/amazon-com/summary?id=D000023883) (Tier 1)
 - [OpenSecrets: Amazon.com PAC Contributions 2024](https://www.opensecrets.org/political-action-committees-pacs/amazon-com/C00360354/summary/2024) (Tier 1)
 - [OpenSecrets: Amazon.com PAC Candidate Recipients](https://www.opensecrets.org/political-action-committees-pacs/amazon-com/C00360354/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Amazon.com Lobbying Profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000023883) (Tier 1)
+- [OpenSecrets: Amazon.com Lobbying Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000023883) (Tier 1)
 - [NLRB: Joint Employer Final Rule](https://www.nlrb.gov/news-outreach/news-story/nlrb-issues-joint-employer-final-rule) (Tier 1)
 - [Senate HELP Committee: Amazon Warehouse Investigation (PDF)](https://www.help.senate.gov/imo/media/doc/help_committee_amazon_interim_report.pdf) (Tier 1)
 - [Nextgov: NSA Awards Secret $10B Contract to Amazon](https://www.nextgov.com/modernization/2021/08/nsa-awards-secret-10-billion-contract-amazon/184390/) (Tier 2)
-- [Nextgov: Pentagon Awards $9B JWCC Cloud Contract](https://www.nextgov.com/digital-government/2022/12/pentagon-awards-9b-cloud-contract-to-amazon-google-microsoft-oracle/) (Tier 2)
+- [Nextgov: Pentagon Awards $9B JWCC Cloud Contract](https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596/) (Tier 2)
 - [NPR: Amazon Union — Third Election Ordered at Bessemer](https://www.npr.org/2021/04/09/982139494/its-a-no-amazon-warehouse-workers-vote-against-unionizing-in-historic-election) (Tier 2)
 - [NPR: Washington Post Non-Endorsement and Bezos](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations) (Tier 2)
 - [Labor Notes: Amazon Workers at Staten Island Clinch Historic Victory](https://labornotes.org/2022/04/amazon-workers-staten-island-clinch-historic-victory) (Tier 2)
@@ -210,34 +207,18 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 content-readiness:: ready
 
-### Federal Spending (USASpending)
-<!-- auto:usaspending start -->
-| Metric | Value |
-|--------|-------|
-| All-Time Federal Awards | $320.8M |
-| Contracts (recent 3yr) | 25 ($637.1M sampled) |
-| Grants (recent 3yr) | 10 ($2.7M sampled) |
-| Federal Agencies | 8 |
+---
 
-**Top contracts:**
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $94.8M | Department of Defense | AWS CLOUD SERVICES |
-| $93.2M | General Services Administration | AWS CLOUD SERVICE AND VAR SUPPORT SERVICES |
-| $59.7M | Department of Defense | TASK ORDER AWARD AGAINST JWCC MULTIPLE-AWARD IDIQ CONTRACT HC105023D0005 TO AMAZON WEB SERVICES, INC |
-| $48.1M | Department of Defense | AWS CLOUD SERVICES |
-| $38.2M | Department of Defense | AMAZON WEB SERVICES CLOUD REQUIREMENT |
+**FEC contribution record:** 410 contributions totaling $778.9K
 
-**Top grants:**
+**ActBlue/WinRed conduit duplicates filtered:** 90
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $528K | Inter-American Foundation | THE POST CONFLICT ERA HAS BROUGHT WITH IT NEW TYPES OF THREATS TO THE AMAZONIAN REGION IN COLOMBIA.  |
-| $503K | Inter-American Foundation | THE AMAZON IS ONE OF THE MOST BIODIVERSE PLACES ON EARTH, BUT DEFORESTATION IS THREATENING LOCAL ECO |
-| $479K | Inter-American Foundation | SMALL-SCALE PRODUCERS LIVING IN THE SAN MARTÍN REGION OF THE PERUVIAN RAINFOREST FACE HIGH LEVELS OF |
-| $456K | Department of Agriculture | BRAZIL STRENGTHEN TERRITORIAL MANAGEMENT IN THE AMAZON AND MATO GROSSO |
-| $257K | Inter-American Foundation | INDIGENOUS PEOPLES IN BRAZIL AND ESPECIALLY IN THE BRAZILIAN AMAZON HAVE FRAGILE LIVELIHOODS. THEIR  |
+| Top Recipient | Amount |
+|---|---|
+| DLGA | $55.0K |
+| NRSC | $25.0K |
+| DSCC | $25.0K |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Amazon) (Tier 1)
-<!-- auto:usaspending end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -126,7 +126,7 @@ Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His A
 ### Sources
 
 - [OpenSecrets: Mario Diaz-Balart campaign finance summary](https://www.opensecrets.org/members-of-congress/mario-diaz-balart/summary?cid=N00025337) (Tier 1)
-- [Miami New Times: Florida Algae Bloom — Rep. Diaz-Balart Took $27,200 From Big Sugar](https://www.miaminewtimes.com/news/florida-algae-bloom-miami-rep-mario-diaz-balart-took-27200-from-big-sugar-10605348) (Tier 2)
+- [Miami New Times: Florida Algae Bloom — Rep. Diaz-Balart Took $27,200 From Big Sugar](https://www.miaminewtimes.com/news/florida-algae-bloom-miami-rep-mario-diaz-balart-took-27200-from-big-sugar-10605348/) (Tier 2)
 - [Florida Daily: Diaz-Balart Plans to Use Appropriations to Help Israel, Take Aim at Cuban Regimes](https://www.floridadaily.com/mario-diaz-balart-plans-to-use-appropriations-assignments-to-help-israel-take-aim-at-cuban-venezuelan-regimes/) (Tier 2)
 - [Diaz-Balart.house.gov: FY26 Appropriations passage press release](https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-delivers-stronger-national-security-less-waste-passage-fy26) (Tier 1)
 - [Roll Call: Diaz-Balart puts stamp on Latin America programs in spending bill](https://rollcall.com/2023/07/05/diaz-balart-puts-stamp-on-latin-america-programs-in-spending-bill/) (Tier 2)

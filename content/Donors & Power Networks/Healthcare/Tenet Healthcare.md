@@ -135,3 +135,17 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 - [Tenet Healthcare: Disclosure of Political Expenditures](https://investor.tenethealth.com/governance/disclosure-of-political-expenditures/default.aspx) (Tier 1)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.4M
+
+| Top Recipient | Amount |
+|---|---|
+| FEDERATION OF AMERICAN HOSPITALS PAC | $60.0K |
+| HMP | $40.0K |
+| AMERICAN HOSPITAL ASSOCIATION PAC | $40.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

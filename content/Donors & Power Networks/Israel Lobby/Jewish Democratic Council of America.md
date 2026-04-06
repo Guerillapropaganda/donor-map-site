@@ -2,7 +2,7 @@
 title: "Jewish Democratic Council of America"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
@@ -11,10 +11,6 @@ ein: 821919054
 annual-revenue: "$2.3M"
 net-assets: "$525K"
 tax-year: "2023"
-total-political-spend: "$112,605"
-politicians-funded:
-  - "Amy Klobuchar"
-  - "Paul Ryan"
 ---
 
 #jdca #jewish-democratic-council #israel-lobby #democratic-party #pro-israel
@@ -59,34 +55,22 @@ The Jewish Democratic Council of America exemplifies how identity-based advocacy
 
 ### Sources
 
-- [Jewish Democratic Council of America Official Website](https://www.jewishdems.org/) (Tier 3)
+- [Jewish Democratic Council of America Official Website](https://jewishdems.org/) (Tier 3)
 - [OpenSecrets: JDCA Contributions and Bundling](https://www.opensecrets.org/orgs/jewish-democratic-council-of-america/summary?id=D000071271) (Tier 1)
 
 ---
 
 `content-readiness:: ready
+---
 
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $112,605 |
-| Contributions | 38 |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Top recipients:**
+**FEC contribution record:** 38 contributions totaling $112.6K
 
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| ADAM GRAY FOR CONGRESS | $29,200 | DEM |
-| JDCA PAC | $26,305 | — |
-| MANNION FOR NEW YORK | $13,200 | DEM |
-| MARLINGA FOR CONGRESS | $8,600 | DEM |
-| KAPTUR FOR CONGRESS | $6,600 | DEM |
-| BACCAM FOR IOWA | $6,600 | DEM |
-| JOSH RILEY FOR CONGRESS | $5,500 | DEM |
-| ENGEL FOR ARIZONA | $4,500 | DEM |
-| JEWS DEFENDING AMERICAN VALUES | $4,000 | — |
-| KLOBUCHAR FOR MINNESOTA | $3,300 | DFL |
+| Top Recipient | Amount |
+|---|---|
+| ADAM GRAY FOR CONGRESS | $29.2K |
+| JDCA PAC | $26.3K |
+| MANNION FOR NEW YORK | $13.2K |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jewish%20Democratic%20Council%20of%20America) (Tier 1)
-<!-- auto:fec-donor end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

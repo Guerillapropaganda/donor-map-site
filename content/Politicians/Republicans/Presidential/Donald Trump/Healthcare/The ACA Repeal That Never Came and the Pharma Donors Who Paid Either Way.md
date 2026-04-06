@@ -98,7 +98,7 @@ The beneficiaries are state budgets (reduced Medicaid spending), the insurance i
 - [Congressional Budget Office. American Health Care Act Cost Estimate (May 2017)](https://www.cbo.gov/publication/52752) (Tier 1)
 - [Senate.gov. Roll Call Vote on Health Care Freedom Act, July 28, 2017](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00179.htm) (Tier 1)
 - [Government Accountability Office. Operation Warp Speed Spending Review](https://www.gao.gov/products/gao-21-319) (Tier 1)
-- [KFF. ACA Marketplace Enrollment Trends 2014 to 2025](https://www.kff.org/health-reform/state-indicator/marketplace-enrollment/) (Tier 2)
+- [KFF. ACA Marketplace Enrollment Trends 2014 to 2025](https://www.kff.org/affordable-care-act/state-indicator/open-enrollment-marketplace-plan-selections/) (Tier 2)
 - [Congressional Budget Office. Medicaid Work Requirements Impact Estimate (2025)](https://www.cbo.gov/topics/health) (Tier 1)
 - [New England Journal of Medicine. Arkansas Medicaid Work Requirement Outcomes](https://www.nejm.org/doi/full/10.1056/NEJMsr1901772) (Tier 2)
 - [OpenSecrets. Robert F. Kennedy Jr. Donor Profile](https://www.opensecrets.org/members-of-congress/summary?name=ACA%20Repeal%20That%20Never%20Came%20and%20the%20Pharma%20Donors%20Who%20Paid%20Either%20Way) (Tier 2)

@@ -163,10 +163,11 @@ The scandal reveals the personal enrichment pattern: Sanders' office engages in 
 - [KARK: Sarah Huckabee Sanders raises $12.8M for governor race](https://www.kark.com/news/your-local-election-hq/arkansas-governor-candidate-sarah-huckabee-sanders-raises-over-12-8-million-total-for-campaign-66-from-out-of-state-donations/) (Tier 2)
 - [CNN: Sarah Huckabee Sanders signs bill rolling back child labor protections](https://www.cnn.com/2023/03/08/politics/sarah-huckabee-sanders-arkansas-child-labor/index.html) (Tier 2)
 - [NPR: Arkansas Gov. Sarah Huckabee Sanders office under fire for buying $19,000 lectern](https://www.cnn.com/2023/01/10/politics/sarah-huckabee-sanders-inauguration/index.html) (Tier 2)
-- [ABC News: Sarah Sanders office potentially violated state law in $19K lectern controversy](https://abcnews.go.com/Politics/sarah-sanders-office-potentially-violated-law-lectern-controversy/story?id=109308721) (Tier 2)
+- [ABC News: Sarah Sanders office potentially violated state law in $19K lectern controversy](https://abcnews.com/Politics/sarah-sanders-office-potentially-violated-law-lectern-controversy/story?id=109308721?id=109308721) (Tier 2)
 - [Encyclopedia of Arkansas: LEARNS Act overview](https://encyclopediaofarkansas.net/entries/learns-act-18586/) (Tier 2)
-- [Arkansas Advocate: Private school participation grows in voucher program's second year](https://arkansasadvocate.com/2024/07/03/private-school-participation-grows-in-arkansas-vouchers-program-second-year) (Tier 2)
+- [Arkansas Advocate: Private school participation grows in voucher program's second year](https://www.yahoo.com/news/private-school-participation-grows-arkansas-133000528.html) (Tier 2)
 - [Arkansas Times: Jim Walton gives $500K to defend Arkansas school vouchers](https://arktimes.com/arkansas-blog/2024/05/16/jim-walton-gives-500k-to-defend-arkansas-school-vouchers-from-ballot-measure) (Tier 2)
 - [In These Times: Arkansas Teachers Strike against corporate school privatizers](https://inthesetimes.com/article/little-rock-arkansas-strike-teachers-waltons-walmart) (Tier 2)
 - [NEA Arkansas: Inside the web of Arkansas school privatization empire](https://www.aeaonline.org/resource-library/inside-web-arkansass-school-privatization-empire) (Tier 2)
 content-readiness:: ready
+ 

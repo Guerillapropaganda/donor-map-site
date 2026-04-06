@@ -68,7 +68,7 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 
 ### Sources
 
-- [EPA: Renewable Fuel Standard data](https://www.epa.gov/renewable-fuel-standard-program) (Tier 1)
+- [EPA: Renewable Fuel Standard data](https://www.epa.gov/renewable-fuel-standard) (Tier 1)
 - [Ballotpedia: Renewable Fuel Standard](https://ballotpedia.org/Ethanol_Industry) (Tier 3)
 
 content-readiness:: ready

@@ -151,3 +151,17 @@ The pattern this reveals: **Self-Funding as Independence** inverted. WFW doesn't
 ---
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 415 contributions totaling $1.7M
+
+| Top Recipient | Amount |
+|---|---|
+| JAIME FOR CONGRESS | $140.7K |
+| MICHELLE STEEL FOR CONGRESS | $89.0K |
+| MCSALLY FOR SENATE INC | $86.2K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

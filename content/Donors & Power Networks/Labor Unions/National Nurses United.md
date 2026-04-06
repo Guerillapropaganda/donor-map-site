@@ -63,3 +63,18 @@ National Nurses United represents class analysis embedded within labor organizin
 ---
 
 `content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 472 contributions totaling $25.0M
+
+**ActBlue/WinRed conduit duplicates filtered:** 28
+
+| Top Recipient | Amount |
+|---|---|
+| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $19.8M |
+| PROGRESSIVE KICK INDEPENDENT EXPENDITURES | $2.1M |
+| SENATE MAJORITY PAC | $1.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

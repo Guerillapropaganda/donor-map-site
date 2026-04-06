@@ -136,9 +136,9 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 - [OpenSecrets: John Boehner donor profile](https://www.opensecrets.org/members-of-congress/john-boehner/summary?cid=N00003675) (Tier 1)
 - [FEC: John Boehner campaign finance (CID: N00003675)](https://www.fec.gov/data/candidate/H2OH08055/) (Tier 1)
 - [Mother Jones: John Boehner tobacco check distribution - House floor photograph](https://www.motherjones.com/politics/2011/06/boehner-tobacco-checks) (Tier 2)
-- [The Atlantic: John Boehner's tobacco industry career](https://www.theatlantic.com/politics/archive/2011/11/boehner-tobacco-checks/247837/) (Tier 2)
+- [The Atlantic: John Boehner's tobacco industry career](https://www.theatlantic.com/politics/archive/2011/11/video-of-the-day-sen-vitters-honey-badger-analogy-for-lsu-bama/247837/) (Tier 2)
 - ProPublica: John Boehner tobacco lobby protection record (Tier 2) (URL NEEDED — fabricated slug; original ProPublica article not found; tobacco record covered by Mother Jones and Atlantic citations above)
-- [Reuters: John Boehner joins cannabis company board](https://www.reuters.com/article/john-boehner-cannabis-legalization-idUSKBN1YA1X5) (Tier 2)
+- [Reuters: John Boehner joins cannabis company board](https://www.reuters.com/article/john-boehner-cannabis-legalization-idUSKBN1YA1X5/) (Tier 2)
 - [Congress.gov: John Boehner voting record](https://www.congress.gov/member/john-boehner/B000589) (Tier 1)
 - [Wikipedia: John Boehner - tobacco industry and post-House career](https://en.wikipedia.org/wiki/John_Boehner) (Tier 3)
 

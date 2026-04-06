@@ -137,7 +137,7 @@ Homekey is genuinely designed and implemented as a program. But it is presented 
 
 ### Sources
 - [HUD: Annual Homeless Assessment Report](https://www.huduser.gov/portal/datasets/ahar.html) (Tier 1)
-- [California State Auditor: homelessness spending accountability](https://www.auditor.ca.gov/reports/2021-112/) (Tier 1)
+- [California State Auditor: homelessness spending accountability](https://information.auditor.ca.gov/reports/2021-112/index.html) (Tier 1)
 - [CalMatters: Homekey outcomes](https://calmatters.org/housing/homelessness/) (Tier 2)
 - [LA Times: Grants Pass and Newsom executive order](https://www.latimes.com/california/story/2024-07-25/newsom-orders-state-agencies-to-clear-homeless-encampments) (Tier 2)
 - [Supreme Court: *City of Grants Pass v. Johnson* (2024)](https://www.supremecourt.gov/search.aspx?Search=Homelessness%20Spending%20and%20Encampments) (Tier 1)

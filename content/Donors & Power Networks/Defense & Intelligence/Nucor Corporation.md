@@ -99,11 +99,25 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 - [CNBC: Nucor CEO — Trump Tariffs Treating Countries How They Treat Us](https://www.cnbc.com/2018/03/05/nucor-ceo-trump-tariffs-are-treating-countries-how-they-treat-us.html) (Tier 2)
 - [CNBC: Nucor CEO — Tariffs Enabled Billion-Dollar New Plant](https://www.cnbc.com/2019/01/29/nucor-ceo-trump-tariffs-enabled-us-to-build-new-billion-dollar-plant.html) (Tier 2)
 - [OpenSecrets: Steel Producers Spend Big on Lobbying for Infrastructure](https://www.opensecrets.org/news/2021/11/steel-producers-eyeing-new-infrastructure-investment-spend-big-on-lobbying/) (Tier 2)
-- [American Democracy Scorecard: Nucor Political Spending](https://www.americandemocracyscorecard.org/nucor/) (Tier 2)
+- [American Democracy Scorecard: Nucor Political Spending](https://accountable.us/) (Tier 2)
 - [Violation Tracker: Nucor Corporation — $148.5M in Penalties Since 2000](https://violationtracker.goodjobsfirst.org/parent/nucor) (Tier 2)
 - [24/7 Wall St: If Trump Lowers Steel Tariffs, Is Nucor Still a Buy?](https://247wallst.com/investing/2026/02/13/if-trump-lowers-steel-tariffs-is-nucor-still-a-buy/) (Tier 3)
-- [Workforce.com: Nucor's 100% Bonuses — High Pay Plus Low Labor Costs](https://workforce.com/news/100-percent-bonuses-mean-high-pay-plus-low-labor-costs) (Tier 3)
+- [Workforce.com: Nucor's 100% Bonuses — High Pay Plus Low Labor Costs](https://www.workforce.com/news/100-percent-bonuses-mean-high-pay-plus-low-labor-costs) (Tier 3)
 
 ---
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.3M
+
+| Top Recipient | Amount |
+|---|---|
+| NRSC | $75.0K |
+| DLGA PAC | $30.0K |
+| DCCC | $26.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

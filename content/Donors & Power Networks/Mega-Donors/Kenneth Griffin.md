@@ -2,7 +2,7 @@
 title: "Kenneth Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-04
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,9 +11,6 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Wall Street & Finance"
-total-political-spend: "$109,321,251"
-lobbying-spend: 425000
-lobbying-filings: 17
 ---
 
 
@@ -152,56 +149,27 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 ### Sources
 
 - [OpenSecrets: Kenneth Griffin donations](https://www.opensecrets.org/donor-lookup/results?name=kenneth+griffin) (Tier 1)
-- [ArtNews: $100M 2024 giving](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-m-for-2024-election-senate-leadership-fund-1234724065/) (Tier 2)
+- [ArtNews: $100M 2024 giving](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2)
 - [Fortune: DeSantis to Trump trajectory](https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/) (Tier 2)
 - [CNBC: Tariff criticism](https://www.cnbc.com/2025/05/07/griffin-calls-tariffs-a-painfully-regressive-tax-hitting-working-class-the-hardest.html) (Tier 2)
-- [Pensions & Investments: Deregulation praise](https://www.pionline.com/hedge-funds/citadels-ken-griffin-criticizes-trump-tariff-and-tax-policies-calls-deregulation-a-godsend) (Tier 2)
+- [Pensions & Investments: Deregulation praise](https://www.pionline.com/hedge-funds/citadels-ken-griffin-criticizes-trump-tariff-and-tax-policies-calls-deregulation-a-godsend) *(source unavailable)* (Tier 2)
 - [ProPublica: Illinois tax move](https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax) (Tier 2)
 - [Fortune: GameStop](https://fortune.com/2021/11/10/citadel-ceo-ken-griffin-meme-stocks-gamestop/) (Tier 2)
 
 research-status:: ready — $44-51B net worth, $100M 2024 cycle, $30M Senate Leadership Fund, DeSantis→Trump trajectory, GameStop/Citadel Securities, FL tax move. 7 sources, Tier 1-2. All ### headers. Promoted Session 38m.
 content-readiness:: ready
+---
 
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $109,321,251 |
-| Contributions | 346 |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Top recipients:**
+**FEC contribution record:** 346 contributions totaling $109.3M
 
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| SENATE LEADERSHIP FUND | $30,000,000 | — |
-| CONGRESSIONAL LEADERSHIP FUND | $17,005,000 | — |
-| KEYSTONE RENEWAL PAC | $16,000,000 | — |
-| MARYLAND'S FUTURE | $10,000,000 | — |
-| AMERICAN PATRIOTS PAC | $6,000,000 | — |
-| THE SENTINEL ACTION FUND | $5,000,000 | — |
-| SFA FUND, INC | $5,000,000 | REP |
-| MORE JOBS, LESS GOVERNMENT | $5,000,000 | — |
-| CONSERVATIVES FOR AMERICAN EXCELLENCE INC. | $3,000,000 | — |
-| FIX WASHINGTON PAC | $2,500,000 | — |
+**ActBlue/WinRed conduit duplicates filtered:** 154
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Kenneth%20Griffin) (Tier 1)
-<!-- auto:fec-donor end -->
+| Top Recipient | Amount |
+|---|---|
+| SENATE LEADERSHIP FUND | $30.0M |
+| CONGRESSIONAL LEADERSHIP FUND | $17.0M |
+| KEYSTONE RENEWAL PAC | $16.0M |
 
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $425K |
-| Quarterly Filings | 17 |
-| Year Range | 2024-2025 |
-| Lobbying Firms | 1 |
-| Individual Lobbyists | 0 |
-
-**Issues lobbied:** Environment/Superfund, Transportation, Urban Development/Municipalities
-
-**Lobbying firms:** KENNETH BROWN
-
-**Agencies contacted:** Army, Dept of (Corps of Engineers), Economic Development Administration, Energy, Dept of, Environmental Protection Agency (EPA), Federal Emergency Management Agency (FEMA), HOUSE OF REPRESENTATIVES, Housing & Urban Development, Dept of (HUD), Justice, Dept of (DOJ), Labor, Dept of (DOL), Natl Oceanic & Atmospheric Administration (NOAA) +2 more
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Kenneth%20Griffin) (Tier 1)
-<!-- auto:lda-lobbying end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

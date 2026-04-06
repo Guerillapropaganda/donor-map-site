@@ -36,7 +36,7 @@ The structural irony: the man who built his fortune on Medicare fraud proposed e
 
 ### Sources
 
-- [DOJ: Columbia/HCA settlement](https://www.justice.gov/opa/pr/largest-health-care-fraud-case-us-history-settled-hca-investigation-nets-record-total-over-1) (Tier 1)
+- [DOJ: Columbia/HCA settlement](https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm) (Tier 1)
 - [OpenSecrets: Rick Scott donor profile](https://www.opensecrets.org/members-of-congress/rick-scott/summary?cid=N00043290) (Tier 1)
 - [Ballotpedia: Rick Scott](https://ballotpedia.org/Rick_Scott) (Tier 3)
 

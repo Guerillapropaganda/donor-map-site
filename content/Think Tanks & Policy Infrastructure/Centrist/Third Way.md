@@ -194,7 +194,7 @@ The March 2026 "Winning the Middle" conference in Charleston makes the function 
 - [DOD Biography: Mieke Eoyang, Deputy Assistant Secretary of Defense for Cyber Policy](https://www.defense.gov/About/Biographies/Biography/article/2505290/mieke-eoyang/) (Tier 1)
 - [Washington Post: Think Tank's Criticism of Elizabeth Warren's Populist Policies Leads to Democratic Feud](https://www.washingtonpost.com/politics/think-tanks-criticism-of-elizabeth-warrens-populist-policies-leads-to-democratic-feud/2013/12/05/945d1298-5de4-11e3-95c2-13623eb2b0e1_story.html) (Tier 2)
 - [Politico: Warren Takes Sides in Dem Feud](https://www.politico.com/story/2013/12/elizabeth-warren-democrats-feud-100678) (Tier 2)
-- [SourceWatch: Third Way](https://www.sourcewatch.org/index.php/Third_Way) (Tier 3)
+- [SourceWatch: Third Way](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Third_Way) (Tier 3)
 - [Jacobin: The Centrist Think Tank Third Way Just Can't Quit Austerity — COVID relief checks opposition (2021)](https://jacobin.com/2021/02/third-way-think-tank-covid-relief-checks) (Tier 2)
 - [New Republic: ThinkProgress Was Always Doomed — structural analysis of CAP/Third Way donor-class dynamics (2019)](https://newrepublic.com/article/155011/thinkprogress-always-doomed) (Tier 2)
 - [Daily Kos: Meet the anti-progressive think tank pushing Democrats towards Trumpism — Comeback Retreat analysis (March 2025)](https://www.dailykos.com/stories/2025/3/8/2308767/-Meet-the-anti-progressive-think-tank-pushing-Democrats-towards-Trumpism) (Tier 2)

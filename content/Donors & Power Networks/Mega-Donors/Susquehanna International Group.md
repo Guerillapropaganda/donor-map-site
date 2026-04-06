@@ -2,7 +2,7 @@
 title: "Susquehanna International Group"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,7 +12,6 @@ politicians-funded:
 issues:
   - "Technology"
 total-political-spend: "$500"
-federal-contracts: "1938464"
 ---
 
 #donor #mega-donor #sig #susquehanna #jeff-yass #trading #crypto #tiktok #libertarian #school-choice #republican #class-analysis #follow-the-money
@@ -141,7 +140,7 @@ The analytical patterns:
 
 ### Sources
 
-- [FEC: Individual contributions — Yass, Jeff (2010–2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=yass%2C+jeff&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 774 contributions, virtually 100% Republican, SIG/Susquehanna Partners employer
+- [FEC: Individual contributions — Yass, Jeff (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=yass%2C+jeff&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 774 contributions, virtually 100% Republican, SIG/Susquehanna Partners employer
 - [Wikipedia: Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) (Tier 3) — Political activities section: $100M 2024 cycle, TikTok/ByteDance, Club for Growth, school choice, ProPublica tax investigation, MAGA Inc. $16M, Kohelet Policy Forum
 - [OpenSecrets: Jeff Yass donor lookup](https://www.opensecrets.org/donor-lookup/results?name=jeff+yass) (Tier 1) — Donor contribution aggregation (monthly search limit; URL format verified)
 - [ProPublica: Jeff Yass — The Billionaire GOP Mega-Donor Gaming the Tax System (2022)](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 1) — SIG tax avoidance strategies, $1B estimated tax savings 2013–2018
@@ -152,27 +151,14 @@ The analytical patterns:
 
 research-status:: ready — Full expansion from 39 to 175+ lines. FEC data Chrome-verified (774 contributions, virtually 100% Republican). Wikipedia Chrome-verified (political activities, TikTok, school choice, tax avoidance). Ballotpedia URL removed (404 — page does not exist). Complete donor node anatomy: Who They Are → What They Want → Who They Fund (contributions table) → What They've Gotten (Format 2 timeline, 8 rows) → TikTok Connection → Class Analysis → Capture Architecture → Sources. 5 sources (Tier 1–3). Key data: $100M 2024 cycle, $16M MAGA Inc., $10M Club for Growth Action, 774 FEC contributions, $30–50B ByteDance stake, Trump TikTok reversal, $1B tax avoidance (ProPublica).
 content-readiness:: ready
+---
 
-### Federal Contracts
-<!-- auto:sam-contracts start -->
-| Metric | Value |
-|--------|-------|
-| Total Contracts Found | 1938464 |
-| Sample Value (top 25) | $890K |
-| Year Range | 2005-2017 |
-| Federal Agencies | 3 |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Contracting agencies:** DEPT OF DEFENSE, JUSTICE, DEPARTMENT OF, VETERANS AFFAIRS, DEPARTMENT OF
+**FEC contribution record:** 1 contributions totaling $500
 
-**Recent contracts:**
+| Top Recipient | Amount |
+|---|---|
+| JOE TORSELLA FOR CONGRESS | $500 |
 
-| Amount | Agency | Date |
-|--------|--------|------|
-| $24K | JUSTICE, DEPARTMENT OF | 2005-12-28 |
-| $20K | JUSTICE, DEPARTMENT OF | 2007-09-27 |
-| $20K | JUSTICE, DEPARTMENT OF | 2007-09-06 |
-| $11K | JUSTICE, DEPARTMENT OF | 2005-10-14 |
-| $415 | VETERANS AFFAIRS, DEPARTMENT OF | 2008-02-04 |
-
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Susquehanna%20International%20Group&page=1&index=opp) (Tier 1)
-<!-- auto:sam-contracts end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

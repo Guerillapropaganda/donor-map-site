@@ -96,7 +96,7 @@ The Grant Town Power Plant — Enersystems' primary and sole customer (2008–20
 
 ### Sources
 
-- [Senate Financial Disclosures: Joe Manchin Enersystems income](https://www.senate.gov/senators/senators-financial-disclosures) (Tier 1)
+- [Senate Financial Disclosures: Joe Manchin Enersystems income](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm) (Tier 1)
 - [Type Investigations: Joe Manchin's Coal, Fossil Fuels and Pollution](https://www.typeinvestigations.org/investigation/2021/09/03/joe-manchins-coal-fossil-fuels-pollution/) (Tier 2)
 - [American Prospect: Manchin Profits From Coal Sales to Utility Lobbying Group Members](https://prospect.org/2021/07/02/manchin-profits-from-coal-sales-to-utility-lobbying-group-me/) (Tier 2)
 - [E&E News: Manchin pushes DOE to invest in coal that earned him millions](https://www.eenews.net/articles/manchin-pushes-doe-to-invest-in-coal-that-earned-him-millions/) (Tier 2)

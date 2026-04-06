@@ -142,9 +142,9 @@ The structural arrangement: Fuentes operates at the margin, normalizes extremism
 
 - [Anti-Defamation League: Nicholas J. Fuentes—Five Things to Know](https://www.adl.org/resources/article/nicholas-j-fuentes-five-things-know) (Tier 2)
 - [ProPublica Nonprofit Explorer: America First Foundation 990s](https://projects.propublica.org/nonprofits/organizations/851088352) (Tier 1)
-- [Chainalysis: Cryptocurrency Funding to Far-Right Figures](https://blog.chainalysis.com) (Tier 2)
+- [Chainalysis: Cryptocurrency Funding to Far-Right Figures](https://www.chainalysis.com/blog/) (Tier 2)
 - [Federal Election Commission: Ye 2024 Campaign Expenditures](https://www.fec.gov) (Tier 1)
-- [House Select Committee to Investigate the January 6th Attack on the U.S. Capitol: Final Report and Records](https://january6th.house.gov) (Tier 1)
+- [House Select Committee to Investigate the January 6th Attack on the U.S. Capitol: Final Report and Records](https://www.house.gov/committees/committees-no-longer-standing) (Tier 1)
 - [Defend Texas Liberty PAC Controversy, October 2023](https://www.opensecrets.org) (Tier 2)
 
 ---

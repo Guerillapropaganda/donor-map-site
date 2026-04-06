@@ -136,7 +136,7 @@ Peters is the Democratic Party's quiet operator — a former Wall Street investm
 - S. 3913: Self-Initiation Trade Enforcement Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 3870: Lifelong Learning Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412305) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/gary_peters/412305) (Tier 1)
 
 <!-- auto:govtrack end -->
 
@@ -149,7 +149,7 @@ Peters is the Democratic Party's quiet operator — a former Wall Street investm
 - [Washington Post: Senator Gary Peters Is Overseeing a Boom in Cyber Bills](https://www.hsgac.senate.gov/media/dems/washington-post-senator-gary-peters-is-overseeing-a-boom-in-cyber-bills/) (Tier 2)
 - [DSCC: Peters to Return as DSCC Chair for 2024 Cycle](https://www.dscc.org/article/following-historic-victories-sen-gary-peters-to-return-as-dscc-chair-for-2024-cycle/) (Tier 1)
 - [Roll Call: DSCC Chair Peters Tapped for Plum Senate Appropriations Seat](https://rollcall.com/2023/01/26/dscc-chair-peters-tapped-for-plum-senate-appropriations-seat/) (Tier 2)
-- [Detroit News: Michigan's Peters-James Senate Race Heads Toward Record Spending](https://www.detroitnews.com/story/news/politics/2020/10/09/michigan-u-s-senate-races-turns-into-total-air-war-covid-19-era/3578413001/) (Tier 2)
+- [Detroit News: Michigan's Peters-James Senate Race Heads Toward Record Spending](https://www.detroitnews.com/story/news/politics/2020/10/09/michigan-u-s-senate-races-turns-into-total-air-war-covid-19-era/3578413001/) *(source unavailable)* (Tier 2)
 - [Jacobin: Senate Democrats' Machine Spent $15 Million to Destroy Progressive Candidates](https://jacobin.com/2020/07/senate-democrats-majority-pac-dscc) (Tier 2)
 - [Wikipedia: Gary Peters](https://en.wikipedia.org/wiki/Gary_Peters) (Tier 3)
 - [Ballotpedia: Gary Peters](https://ballotpedia.org/Gary_Peters) (Tier 3)

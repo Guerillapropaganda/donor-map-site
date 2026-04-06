@@ -114,3 +114,17 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 
 research-status:: ready — Promoted Session 39. — Expanded from draft with federal PAC data ($3.17M raised, $1.15M to candidates), federal lobbying ($10.6M/year), CEO compensation ($20.5M), Medicare Advantage growth projections, insurance bloc comparison table, class analysis. 7 sources, Tier 1-2. All ### headers. Needs FPPC primary verification for California figures and revolving door documentation before ready promotion.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 91 contributions totaling $219.5K
+
+| Top Recipient | Amount |
+|---|---|
+| NEW DEMOCRAT COALITION ACTION FUND | $211.0K |
+| ADRIAN SMITH FOR CONGRESS | $7.5K |
+| FRIENDS OF DON BEYER | $1.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

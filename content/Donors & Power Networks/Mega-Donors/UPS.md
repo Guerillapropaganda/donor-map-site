@@ -2,7 +2,7 @@
 title: "UPS"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-26
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -10,8 +10,6 @@ entity-type: "Corporation"
 issues:
   - "Labor & Workers"
   - "Trade"
-lobbying-spend: 13916198
-lobbying-filings: 87
 ---
 
 #ups #logistics #shipping #teamsters #labor #bipartisan #trade #postal #transportation #revolving-door #class-analysis #follow-the-money
@@ -47,7 +45,7 @@ UPS's lobbying agenda is driven by five core priorities, each directly tied to r
 
 **5. Labor and Workplace Policy.** Despite (or because of) its unionized workforce, UPS lobbies on independent contractor classification, overtime rules, and workplace safety regulations. The company's interest in gig economy labor classification rules is defensive — preventing reclassification that could increase costs for competitors like Amazon who rely on independent contractor delivery drivers.
 
-- [OpenSecrets: UPS lobbying issues 2024](https://www.opensecrets.org/federal-lobbying/clients/issues?cycle=2024&id=D000000081) (Tier 1)
+- [OpenSecrets: UPS lobbying issues 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000081) (Tier 1)
 
 ---
 
@@ -97,8 +95,8 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 > Over 60% of UPS lobbyists previously held government jobs — former congressional staffers, DOT officials, FAA regulators, and trade negotiators who now sell their institutional knowledge back to UPS. The revolving door is particularly active on transportation and aviation committees, where former staff who wrote the regulations now lobby to reshape them. UPS ranked 85th among all lobbying clients in 2024 — putting it in the top 1% of all organizations that lobby the federal government.
 
 - [OpenSecrets: UPS PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/united-parcel-service/C00064766/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: UPS lobbying profile 2024](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000081&cycle=2024) (Tier 1)
-- [OpenSecrets: UPS lobbyists — revolving door data](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2024&id=D000000081) (Tier 1)
+- [OpenSecrets: UPS lobbying profile 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000081&cycle=2024) (Tier 1)
+- [OpenSecrets: UPS lobbyists — revolving door data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000081) (Tier 1)
 
 ---
 
@@ -123,7 +121,7 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 > The 2023 Teamsters contract reveals UPS's core contradiction: the company spent $14.7M lobbying Congress in 2023-2024 to reduce taxes and regulatory costs, while simultaneously absorbing $30 billion in labor cost increases because its unionized workforce had the leverage to demand it. UPS lobbies for a business-friendly regulatory environment while operating within the most labor-friendly private-sector contract in America. The company's political operation works to reduce costs everywhere except where organized labor has structural power — demonstrating that corporate political spending is effective against diffuse public interests (tax policy, regulation) but cannot overcome concentrated labor power when workers are organized and essential.
 
 - [Teamsters: Ratify Historic UPS Contract](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2)
-- [FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/entity-details?eid=2710) (Tier 1)
+- [FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710) (Tier 1)
 
 ---
 
@@ -147,11 +145,11 @@ The class analysis conclusion: corporate political spending is effective against
 
 - [OpenSecrets: UPS summary](https://www.opensecrets.org/orgs/united-parcel-service/summary?id=D000000081) (Tier 1)
 - [OpenSecrets: UPS PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/united-parcel-service/C00064766/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: UPS lobbying profile 2024](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000081&cycle=2024) (Tier 1)
-- [OpenSecrets: UPS lobbying issues 2024](https://www.opensecrets.org/federal-lobbying/clients/issues?cycle=2024&id=D000000081) (Tier 1)
-- [OpenSecrets: UPS lobbyists — revolving door data](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2024&id=D000000081) (Tier 1)
+- [OpenSecrets: UPS lobbying profile 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000081&cycle=2024) (Tier 1)
+- [OpenSecrets: UPS lobbying issues 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000081) (Tier 1)
+- [OpenSecrets: UPS lobbyists — revolving door data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000081) (Tier 1)
 - [UPS Political Engagement Policy](https://investors.ups.com/corporategovernance/political-engagement-policy) (Tier 1)
-- [FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/entity-details?eid=2710) (Tier 1)
+- [FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710) (Tier 1)
 - [Teamsters: Ratify Historic UPS Contract](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2)
 - [Ballotpedia: UPS](https://ballotpedia.org/UPS) (Tier 3)
 
@@ -159,21 +157,18 @@ The class analysis conclusion: corporate political spending is effective against
 
 content-readiness:: developed
 
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $13.9M |
-| Quarterly Filings | 87 |
-| Year Range | 2024-2026 |
-| Lobbying Firms | 9 |
-| Individual Lobbyists | 0 |
+---
 
-**Issues lobbied:** Agriculture, Aviation/Airlines/Airports, Budget/Appropriations, Consumer Issues/Safety/Products, Defense, Environment/Superfund, Food Industry (safety, labeling, etc.), Government Issues, Health Issues, Homeland Security, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Medicare/Medicaid, Postal, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Trucking/Shipping
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Lobbying firms:** DUANE MORRIS GOVERNMENT STRATEGIES, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FIERCE GOVERNMENT RELATIONS, GROUNDSWELL STRATEGY LLC, OSCAR POLICY GROUP, LLC, THE RUSSELL GROUP, INC., UPS (UNITED PARCEL SERVICE), UPSTREAM CONSULTING, INC., UPSTREAM USA
+**FEC contribution record:** 187 contributions totaling $74.3K
 
-**Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Health Resources & Services Administration (HRSA) +15 more
+**ActBlue/WinRed conduit duplicates filtered:** 313
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=UPS) (Tier 1)
-<!-- auto:lda-lobbying end -->
+| Top Recipient | Amount |
+|---|---|
+| DLGA | $25.0K |
+| DSCC | $15.0K |
+| PROJECT 218 | $15.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

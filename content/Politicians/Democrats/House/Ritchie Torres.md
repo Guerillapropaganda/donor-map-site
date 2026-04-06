@@ -93,7 +93,7 @@ Example 4: District Abandonment. Torres's stated priority is addressing Bronx ho
 - [Fortune: Ritchie Torres went from crypto newbie to key ally in Washington](https://fortune.com/crypto/2023/01/26/ritchie-torres-cryptocurrency-blockchain-web3-financial-inclusion/) (Tier 2)
 - [Data Commons: Congressional District 15, NY median household income](https://datacommons.org/place/geoId/36061) (Tier 1)
 - [Data USA: Congressional District 15, NY demographics](https://datausa.io/profile/geo/congressional-district-15-ny) (Tier 1)
-- [Census Bureau QuickFacts: Bronx County poverty](https://www.census.bureau.gov/quickfacts/fact/table/bronxcountynewyork/PST045223) (Tier 1)
+- [Census Bureau QuickFacts: Bronx County poverty](https://www.census.gov/quickfacts/fact/table/bronxcountynewyork/PST045223) (Tier 1)
 - [Wikipedia: Ritchie Torres](https://en.wikipedia.org/wiki/Ritchie_Torres) (Tier 3)
 
 ---

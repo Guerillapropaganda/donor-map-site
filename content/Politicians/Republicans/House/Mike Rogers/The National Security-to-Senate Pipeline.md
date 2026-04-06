@@ -101,7 +101,7 @@ Megadonors funding Rogers expect him on at least Armed Services and Intelligence
 
 ### Sources
 
-- [House Permanent Select Committee on Intelligence: Rogers biography](https://intelligence.house.gov/about/history) (Tier 1)
+- [House Permanent Select Committee on Intelligence: Rogers biography](https://intelligence.house.gov/history-jurisdiction/) (Tier 1)
 - [CNN: Mike Rogers national security commentary](https://www.cnn.com/profiles/mike-rogers-profile) (Tier 2)
 - [OpenSecrets: Rogers intelligence/defense industry donations](https://www.opensecrets.org/members-of-congress/mike-rogers/industries?cid=N00009668) (Tier 1)
 - [National Security Institute: Mike Rogers background](https://nationalsecurity.gmu.edu/mike-rogers/) (Tier 3)

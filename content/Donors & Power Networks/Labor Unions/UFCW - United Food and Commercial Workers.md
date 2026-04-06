@@ -179,3 +179,16 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 
 research-status:: ready — Full citation pass complete. UFCW 1.2M members, $5.6M 2024 PAC, Kroger-Albertsons merger block, 2003-04 Southern CA strike, two-tier wage system, Walmart existential threat, Prop 22 gig economy impact, Inland Empire IBEW parallel. 6 sources, Tier 1-2. All ### headers. Promoted Session 38k.
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 58 contributions totaling $182.1K
+
+| Top Recipient | Amount |
+|---|---|
+| DWIGHT EVANS FOR CONGRESS | $30.0K |
+| NEW HAMPSHIRE DEMOCRATIC PARTY | $18.5K |
+| BLOCK BY BLOCK PAC | $17.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -270,13 +270,13 @@ The pipeline's durability is its most important feature. It does not depend on a
 - [19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/) (Tier 2)
 - [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2)
 - [Revolving Door Project: Former Trump Officials Wrote 25 of 30 Project 2025 Chapters](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2)
-- [The Conversation: Heritage Foundation's 50-Year History of Steering GOP Lawmaking](https://theconversation.com/heritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2)
+- [The Conversation: Heritage Foundation's 50-Year History of Steering GOP Lawmaking](https://theconversation.com/usheritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2)
 - [Wikipedia: Project 2025](https://en.wikipedia.org/wiki/Project_2025) (Tier 3)
 
 ### Mercatus Center (previously verified):
 - [ProPublica Nonprofit Explorer: Mercatus Center Inc](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1)
 - [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2)
-- [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php/Mercatus_Center) (Tier 3)
+- [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center) (Tier 3)
 
 ### Federalist Society (previously verified):
 - [ProPublica: We Don't Talk About Leonard — Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)

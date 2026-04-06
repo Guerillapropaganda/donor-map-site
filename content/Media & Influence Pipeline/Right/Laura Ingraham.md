@@ -174,7 +174,7 @@ Laura Ingraham represents **the legacy cable television advertising model** — 
 
 ### Sources
 
-- [FEC Individual Contributions: Laura Ingraham (70 results, 2019-2024)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=laura+ingraham&two_year_transaction_period=2024&two_year_transaction_period=2022&two_year_transaction_period=2020) (Tier 1)
+- [FEC Individual Contributions: Laura Ingraham (70 results, 2019-2024)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=laura+ingraham&two_year_transaction_period=2024&two_year_transaction_period=2022&two_year_transaction_period=2020) (Tier 1)
 - [Wikipedia: Laura Ingraham](https://en.wikipedia.org/wiki/Laura_Ingraham) (Tier 3)
 - [Wikipedia: LifeZette](https://en.wikipedia.org/wiki/LifeZette) (Tier 3)
 - [Wikipedia: Boycott of The Ingraham Angle](https://en.wikipedia.org/wiki/Boycott_of_The_Ingraham_Angle) (Tier 3)
@@ -188,7 +188,7 @@ Laura Ingraham represents **the legacy cable television advertising model** — 
 - [CBS News: "Laura Ingraham's advertisers distance themselves after David Hogg comments"](https://www.cbsnews.com/news/laura-ingraham-advertisers-distance-after-david-hogg-college-mocking/) (Tier 2)
 - [The Daily Beast: "Fox News Host Laura Ingraham Joins Board of Donald Trump Jr's Latest MAGA Business Venture"](https://www.thedailybeast.com/fox-news-host-laura-ingraham-joins-board-of-donald-trump-jrs-latest-maga-business-venture/) (Tier 2)
 - [Fortune: "Why Fox News's Laura Ingraham Is Facing an Advertiser Boycott — Again"](https://fortune.com/2018/06/22/laura-ingraham-david-hogg-advertising-boycott-migrant-families/) (Tier 2)
-- [Federalist Society: Laura Ingraham Contributor Profile](https://fedsoc.org/contributors/laura-ingraham) (Tier 1)
+- [Federalist Society: Laura Ingraham Contributor Profile](https://fedsoc.org/bio/laura-ingraham) (Tier 1)
 
 ---
 

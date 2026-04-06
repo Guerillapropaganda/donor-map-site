@@ -135,8 +135,8 @@ Cruz's relationship with Trump reveals the donor-class hierarchy:
 
 - [OpenSecrets: Cruz career donors, oil/gas totals, 2024 race spending](https://www.opensecrets.org/members-of-congress/ted-cruz/summary?cid=N00033085) (Tier 1)
 - [FEC: undisclosed loan violations, Bitcoin Freedom PAC](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1)
-- [New York Times: Goldman Sachs loans investigation](https://qz.com/594425/wall-street-critic-ted-cruz-funded-his-senate-campaign-with-a-loan-from-goldman-sachs/) (Tier 2)
+- [New York Times: Goldman Sachs loans investigation](https://qz.com/594425/wall-street-critic-ted-cruz-funded-his-senate-campaign-with-a-loan-from-goldman-sachs) (Tier 2)
 - [Texas Tribune: 2024 race coverage, grid failure reporting](https://www.texastribune.org/2024/07/18/ted-cruz-colin-allred-fundraising-2024/) (Tier 2)
 - [Wall Street Journal: Mercer-Cruz financial relationship](https://www.opensecrets.org/news/2018/03/before-trump-cambridge-analytica-was-on-team-cruz/) (Tier 2)
 - [CNBC: leaked 2026 tariff recordings](https://www.axios.com/2026/01/25/cruz-trump-vance-secret-tapes) (Tier 2)
-content-readiness:: ready
+conte

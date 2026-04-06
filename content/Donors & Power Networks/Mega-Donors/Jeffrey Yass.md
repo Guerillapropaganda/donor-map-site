@@ -2,7 +2,7 @@
 title: "Jeffrey Yass"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -378,7 +378,7 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 
 ### Government & Institutional (Tier 1):
 - [Whitehouse.gov: President Trump's One Big Beautiful Bill Is Now the Law](https://www.whitehouse.gov/releases/2025/07/president-trumps-one-big-beautiful-bill-is-now-the-law/) (Tier 1)
-- [Pennsylvania Department of State: Voter Registration Records](https://www.dos.pa.gov/Pages/default.aspx) (Tier 1)
+- [Pennsylvania Department of State: Voter Registration Records](https://www.pa.gov/agencies/dos) (Tier 1)
 
 ### Investigative Journalism (Tier 2):
 - [ProPublica: Meet the Billionaire and Rising GOP Mega-Donor Who's Gaming the Tax System](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 2) (WebFetch verified ✓)
@@ -434,3 +434,19 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 ---
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 222 contributions totaling $7.9M
+
+**ActBlue/WinRed conduit duplicates filtered:** 94
+
+| Top Recipient | Amount |
+|---|---|
+| PURPLE PAC INC | $2.8M |
+| THE MODERATE PAC, INC. | $1.8M |
+| TERM LIMITS ACTION | $1.2M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

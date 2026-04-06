@@ -181,9 +181,9 @@ John Fetterman's post-election transformation raises a fundamental question abou
 - [The Intercept: Since October, Sen. John Fetterman Has Been Building a Roster of Republican Donors](https://theintercept.com/2024/04/19/john-fetterman-israel-gop-donors/) (Tier 2)
 - [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure—and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2)
 - [Pittsburgh Post-Gazette: Sen. John Fetterman sparks a backlash with staunch support for Israel](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2)
-- [Algemeiner: Fetterman Hosts AIPAC, Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-office/) (Tier 2)
+- [Algemeiner: Fetterman Hosts AIPAC, Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-survivor-dc-office/) (Tier 2)
 - [AIPAC Tracker on X: Fetterman AIPAC donations ($250,000)](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3)
-- [Pennsylvania Capital-Star: What we say when we talk about Fetterman's hoodie](https://penncapital-star.com/commentary/what-we-say-and-what-we-mean-when-we-talk-about-fettermans-hoodie-heather-macdonald-pennsylvania-capital-star/) (Tier 2)
+- [Pennsylvania Capital-Star: What we say when we talk about Fetterman's hoodie](https://penncapital-star.com/commentary/what-we-say-and-what-we-mean-when-we-talk-about-fettermans-hoodie-heather-macdonald-pennsylvania-capital-star/) *(source unavailable)* (Tier 2)
 - [Common Dreams: Pennsylvania's Fetterman Brings in Bernie-esque Grassroots Fundraising Haul](https://www.commondreams.org/news/2022/01/05/pennsylvanias-fetterman-brings-bernie-esque-grassroots-fundraising-haul-us-senate) (Tier 2)
 content-readiness:: ready
 last-updated:: 2026-03-24

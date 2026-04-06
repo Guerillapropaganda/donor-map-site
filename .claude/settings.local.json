@@ -64,7 +64,25 @@
       "Bash(__NEW_LINE_04deda78aeee4597__ find:*)",
       "Bash(__NEW_LINE_4b5cd4e9c9d2a824__ grep:*)",
       "Bash(__NEW_LINE_cd965d168c0aa7e6__ grep:*)",
-      "Bash(__NEW_LINE_f8f217d27ccdff8e__ grep:*)"
+      "Bash(__NEW_LINE_f8f217d27ccdff8e__ grep:*)",
+      "Bash(node scripts/fec-pipeline.cjs)",
+      "Read(//tmp/**)",
+      "Bash(OUTFILE=\"C:\\\\Users\\\\third\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-third-donor-map-site\\\\6dde1880-62e7-41da-b6df-8106bf2d4a78\\\\tasks\\\\bi4u3qrnk.output\")",
+      "Read(//c/Users/third/donor-map-site/**)",
+      "Bash(node scripts/fec-pipeline.cjs --type=donor --verbose)",
+      "Bash(node -e \"const fs=require\\(''fs''\\);const d=JSON.parse\\(fs.readFileSync\\(''reports/url-check.json'',''utf8''\\)\\);console.log\\(JSON.stringify\\(Object.keys\\(d\\),null,2\\)\\);\")",
+      "Bash(node -e \":*)",
+      "Bash(ls -la reports/*.md reports/*.json)",
+      "Bash(node scripts/rss-pipeline.cjs)",
+      "Bash(node scripts/research-report.cjs)",
+      "Bash(OUTFILE=\"C:\\\\Users\\\\third\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-third-donor-map-site\\\\6dde1880-62e7-41da-b6df-8106bf2d4a78\\\\tasks\\\\b9p5xj30j.output\")",
+      "Bash(node scripts/build-url-log.cjs)",
+      "Bash(node scripts/url-list-export.cjs)",
+      "mcp__scheduled-tasks__list_scheduled_tasks",
+      "Bash(node --check scripts/fec-pipeline.cjs)",
+      "Skill(schedule)",
+      "Skill(schedule:*)",
+      "Bash(npx quartz:*)"
     ]
   }
 }

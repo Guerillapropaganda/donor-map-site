@@ -53,7 +53,7 @@ The fund targets companies where the U.S. government — particularly the Depart
 
 ### Political Contributions — The Invisible Donor
 
-Royan's direct political contributions are remarkably difficult to trace. An FEC individual contributions search for "Ajay Royan" returns zero results across all cycles and all minimum amounts. An OpenSecrets donor lookup similarly shows no disclosed federal contributions. [FEC: Individual contributions search — Ajay Royan](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ajay+royan) (Tier 1)
+Royan's direct political contributions are remarkably difficult to trace. An FEC individual contributions search for "Ajay Royan" returns zero results across all cycles and all minimum amounts. An OpenSecrets donor lookup similarly shows no disclosed federal contributions. [FEC: Individual contributions search — Ajay Royan](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ajay+royan) (Tier 1)
 
 This absence is itself analytically significant. Royan sits at the center of one of the most politically active venture capital networks in America — the Thiel-Vance-Sacks ecosystem that has funneled tens of millions into Republican politics — yet maintains zero personal FEC disclosure. This pattern suggests one or more of the following: contributions routed through corporate vehicles or LLCs not bearing his name, contributions to 501(c)(4) dark money organizations that don't require donor disclosure, bundling activity that doesn't appear in his personal name, or a deliberate strategy of influence through capital allocation rather than direct political spending.
 
@@ -138,7 +138,7 @@ His structural function is threefold:
 
 ### Sources
 
-- [FEC: Individual contributions — Ajay Royan (0 results)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ajay+royan) (Tier 1)
+- [FEC: Individual contributions — Ajay Royan (0 results)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ajay+royan) (Tier 1)
 - [Mithril Capital: Ajay Royan biography](https://www.mithril.com/our-founders/ajay-royan/) (Tier 3)
 - [TechCrunch: Mithril closes on roughly $850 million (Jan 2017)](https://techcrunch.com/2017/01/19/exclusive-mithril-led-by-peter-thiel-and-ajay-royan-closes-on-roughly-850-million/) (Tier 2)
 - [Fortune: Mithril Capital's Ajay Royan talks Auris, Peter Thiel and the VC Space (Feb 2019)](https://fortune.com/2019/02/28/mithril-capital-ajay-royan-auris-health-peter-thiel/) (Tier 2)

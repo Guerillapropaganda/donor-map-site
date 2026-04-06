@@ -146,7 +146,7 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 
 ### Sources
 
-- [Greenpeace: A Brief History of Kelcy Warren and Donald Trump](https://www.greenpeace.org/usa/a-brief-history-of-kelcy-warren-and-donald-trump/) (Tier 2)
+- [Greenpeace: A Brief History of Kelcy Warren and Donald Trump](https://www.greenpeace.org/global/usa/a-brief-history-of-kelcy-warren-and-donald-trump/) (Tier 2)
 - [E&E News: Dakota Access CEO Gives $10M to Boost Trump](https://www.eenews.net/articles/dakota-access-ceo-gives-10m-to-boost-trump/) (Tier 2)
 - [Truthout: Dakota Access Pipeline Company Is Top Fossil Fuel Donor to Trump's War Chest](https://truthout.org/articles/dakota-access-pipeline-company-is-top-fossil-fuel-donor-to-trumps-war-chest/) (Tier 2)
 - [Wikipedia: Kelcy Warren](https://en.wikipedia.org/wiki/Kelcy_Warren) (Tier 3)
@@ -163,3 +163,17 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 content-readiness:: ready
 
 research-status:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $46.1M
+
+| Top Recipient | Amount |
+|---|---|
+| MAGA INC. | $12.5M |
+| AMERICA FIRST ACTION, INC. | $10.0M |
+| TURNOUT FOR AMERICA | $7.5M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

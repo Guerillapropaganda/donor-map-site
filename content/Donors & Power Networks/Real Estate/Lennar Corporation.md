@@ -1,7 +1,7 @@
 ---
 title: "Lennar Corporation"
 type: corporation
-content-readiness: ready
+content-readiness: developed
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
@@ -19,7 +19,7 @@ issues:
 
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
 
-related: [[National Association of Realtors]] [[Blackstone Real Estate]] [[Invitation Homes - Institutional Landlords]] [[Real Estate Industry Bloc]] [[Real Estate Development Industry Bloc]] [[_Gavin Newsom Master Profile|Gavin Newsom]] [[_Ron DeSantis Master Profile|Ron DeSantis]] [[_Donald Trump Master Profile|Donald Trump]] [[Bipartisan Policy Center]]
+related: [[National Association of Realtors]] [[Blackstone Real Estate]] [[Invitation Homes - Institutional Landlords]] [[Real Estate Industry Bloc]] [[Real Estate Development Industry Bloc]] [[_Gavin Newsom Master Profile|Gavin Newsom]] [[_Ron DeSantis Master Profile|Ron DeSantis]] [[_Donald Trump Master Profile|Donald Trump]] [[_Carlos Gimenez Master Profile|Carlos Gimenez]] [[Bipartisan Policy Center]]
 
 ---
 
@@ -152,3 +152,17 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 - [Ballotpedia: Lennar Corporation](https://ballotpedia.org/Lennar_Corporation) (Tier 3)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 15 contributions totaling $113.1K
+
+| Top Recipient | Amount |
+|---|---|
+| STRONGER SAFER NATION | $50.0K |
+| FLORIDA FIRST PROJECT | $50.0K |
+| CALIFORNIA DEMOCRATIC PARTY | $10.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

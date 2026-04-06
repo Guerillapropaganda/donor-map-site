@@ -50,7 +50,7 @@ TPUSA represents a new oligarchic model: dark money youth mobilization disguised
 - [OpenSecrets: Turning Point USA spending 2024](https://www.opensecrets.org/groups/turning-point-usa/516850) (Tier 1)
 - [ProPublica: Turning Point USA funding and structure](https://www.propublica.org/article/at-this-trump-favored-charity-financial-reporting-is-questionable-and-insiders-are-cashing-in) (Tier 2)
 - [Washington Post: January 6 funding and TPUSA buses — Publix heiress Julie Fancelli spent $3M on Jan. 6 rally, Kirk groups received $1.25M for buses](https://www.washingtonpost.com/politics/2022/12/22/publix-heiress-jan-6-financing/) (Tier 2)
-- [Rolling Stone: Charlie Kirk TPUSA investigation](https://www.rollingstone.com/politics/political-commentary/charlie-kirk-turning-point-1294652/) (Tier 2)
-- [SourceWatch: Turning Point USA — dark money funding, donors, and organizational profile](https://www.sourcewatch.org/index.php/Turning_Point_USA) (Tier 3)
+- [Rolling Stone: Charlie Kirk TPUSA investigation](https://www.rollingstone.com/politics/politics-news/charlie-kirk-turning-point-usa-founder-dead-1235424931/) (Tier 2)
+- [SourceWatch: Turning Point USA — dark money funding, donors, and organizational profile](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA) (Tier 3)
 
 `content-readiness:: ready

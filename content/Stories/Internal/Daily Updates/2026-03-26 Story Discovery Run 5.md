@@ -69,7 +69,7 @@ parent: null
 
 ### Sources:
 - [CNBC: Crypto PAC Fairshake touts $193 million war chest as regulatory bill faces first vote](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2)
-- [CoinDesk: Crypto election PAC Fairshake marks first wins in 2026 U.S. congressional primaries](https://www.coindesk.com/policy/2026/03/04/crypto-election-pac-fairshake-marks-first-wins-in-2026-u-s-congressional-primaries) (Tier 2)
+- [CoinDesk: Crypto election PAC Fairshake marks first wins in 2026 U.S. congressional primaries](https://www.coindesk.com/policy2026/03/04/crypto-election-pac-fairshake-marks-first-wins-in-2026-u-s-congressional-primaries) (Tier 2)
 - [Axios: Al Green and Christian Menefee headed to a runoff](https://www.axios.com/local/houston/2026/03/04/al-green-christian-menefee-primary-election-results-2026) (Tier 2)
 
 ---

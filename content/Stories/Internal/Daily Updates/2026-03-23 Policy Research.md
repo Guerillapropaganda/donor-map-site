@@ -30,7 +30,7 @@ The most consequential policy event of the day: Trump's 48-hour ultimatum for Ir
 > The $200B supplemental + $450B reconciliation 2.0 defense ask totals $650B in new military spending. This directly contradicts DOGE's stated mission of cutting federal spending. [[Lockheed Martin]], [[Boeing]], and defense PAC donors win either way — the war creates its own funding mechanism regardless of fiscal conservative objections.
 
 - [Al Jazeera: Day 24 of US-Israel attacks on Iran](https://www.aljazeera.com/economy/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks) (Tier 2)
-- [CNBC: Oil prices rise as Trump's Hormuz ultimatum keeps markets on edge](https://www.cnbc.com/amp/2026/03/23/oil-prices-trump-iran-strait-of-hormuz-wti-crude-middle-east-lng-gas.html) (Tier 2)
+- [CNBC: Oil prices rise as Trump's Hormuz ultimatum keeps markets on edge](https://www.cnbc.com/2026/03/23/oil-prices-trump-iran-strait-of-hormuz-wti-crude-middle-east-lng-gas.html) (Tier 2)
 - [IBTimes: World Oil Prices Surge to Near $113](https://www.ibtimes.com.au/world-oil-prices-surge-near-113-us-iran-conflict-disrupts-strait-hormuz-flows-march-23-2026-1864087) (Tier 2)
 - [Axios: House GOP welcomes $200B Pentagon request to jump-start reconciliation 2.0](https://www.axios.com/2026/03/19/pentagon-200-billion-reconciliation-house-republicans) (Tier 2)
 - [IEA: Oil Market Report March 2026](https://www.iea.org/reports/oil-market-report-march-2026) (Tier 1)
@@ -56,7 +56,7 @@ On March 17, SEC Chair Paul Atkins announced "Regulation Crypto Assets" — a sw
 - [SEC: Regulation Crypto Assets — A Token Safe Harbor (Atkins remarks)](https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-regulation-crypto-assets-031726) (Tier 1)
 - [SEC: Press Release — SEC Clarifies Application of Federal Securities Laws to Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) (Tier 1)
 - [National Law Review: SEC Clarifies Status of Crypto Assets, Signals Safe Harbor Framework](https://natlawreview.com/article/sec-clarifies-status-crypto-assets-under-federal-securities-laws-signals-potential) (Tier 2)
-- [CoinDesk: SEC Issues First-Ever Definitions for Crypto Asset Securities](https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities) (Tier 2)
+- [CoinDesk: SEC Issues First-Ever Definitions for Crypto Asset Securities](https://www.coindesk.com/policy2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities) (Tier 2)
 
 ---
 

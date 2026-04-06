@@ -111,10 +111,10 @@ Blackstone PAC maintains a roughly 55/45 Republican-Democrat split, ensuring acc
 > 83-84% of Blackstone's lobbyists are former government employees — the highest revolving door percentage of any major financial institution. These are former Treasury officials, congressional tax staffers, and SEC regulators who now lobby their former colleagues on behalf of the firm they regulate. The revolving door isn't a side effect of Blackstone's business — it's a core competitive advantage.
 
 - [OpenSecrets: Blackstone Group summary — 2024 cycle](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
-- [OpenSecrets: Blackstone Group lobbying profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000021873) (Tier 1)
+- [OpenSecrets: Blackstone Group lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000021873) (Tier 1)
 - [OpenSecrets: Stephen Schwarzman donor lookup](https://www.opensecrets.org/donor-lookup/results?name=Stephen+Schwarzman&order=desc&sort=A) (Tier 1)
 - [OpenSecrets: Blackstone Group top recipients](https://www.opensecrets.org/orgs/blackstone-group/recipients?id=D000021873) (Tier 1)
-- [FEC: Blackstone PAC disbursements](https://www.fec.gov/data/disbursements/?committee_id=C00428052) (Tier 1)
+- [FEC: Blackstone PAC disbursements](https://www.fec.gov/data/disbursements/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?committee_id=C00428052) (Tier 1)
 
 ---
 
@@ -234,11 +234,11 @@ Blackstone is the vault's purest case study of how financial capital converts po
 
 ### FEC & OpenSecrets (Chrome-verified):
 - [OpenSecrets: Blackstone Group summary](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
-- [OpenSecrets: Blackstone Group lobbying profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000021873) (Tier 1)
+- [OpenSecrets: Blackstone Group lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000021873) (Tier 1)
 - [OpenSecrets: Stephen Schwarzman donor lookup](https://www.opensecrets.org/donor-lookup/results?name=Stephen+Schwarzman&order=desc&sort=A) (Tier 1)
 - [OpenSecrets: Blackstone Group top recipients](https://www.opensecrets.org/orgs/blackstone-group/recipients?id=D000021873) (Tier 1)
 - [FEC: Blackstone PAC filings](https://www.fec.gov/data/committee/C00428052/) (Tier 1)
-- [FEC: Blackstone PAC disbursements](https://www.fec.gov/data/disbursements/?committee_id=C00428052) (Tier 1)
+- [FEC: Blackstone PAC disbursements](https://www.fec.gov/data/disbursements/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?committee_id=C00428052) (Tier 1)
 
 ### Government & Regulatory:
 - [SEC: Blackstone Inc. annual filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001393818&type=10-K) (Tier 1)
@@ -252,7 +252,7 @@ Blackstone is the vault's purest case study of how financial capital converts po
 - [The New Republic: How the Trump oligarchy works — Stephen Schwarzman](https://newrepublic.com/article/201833/trump-oligarchy-stephen-schwarzman-economy) (Tier 2) (Chrome-verified)
 - [IBTimes: Tax bill adds new deduction for Blackstone CEO Schwarzman](https://www.ibtimes.com/political-capital/tax-bill-adds-new-deduction-blackstone-ceo-gop-donor-schwarzman-2622738) (Tier 2) (Chrome-verified)
 - [ProPublica: Billionaires Keep Benefiting From a Tax Break to Help the Poor. Now, Congress Wants to Investigate.](https://www.propublica.org/article/billionaires-keep-benefiting-from-a-tax-break-to-help-the-poor-now-congress-wants-to-investigate) (Tier 2)
-- [Capital & Main: Invitation Homes rent increases in San Diego](https://capitalandmain.com/invitation-homes-rent-increases) (Tier 2)
+- [Capital & Main: Invitation Homes rent increases in San Diego](https://capitalandmain.com/affordable-housing-tenants-protest-rent-increases-0920) (Tier 2)
 - [Financial Times: Saudi PIF Blackstone relationship](https://www.ft.com/content/blackstone-saudi-pif) (Tier 2)
 - [Wall Street Journal: Blackstone single-family home acquisitions](https://www.wsj.com/articles/blackstone-invitation-homes-single-family) (Tier 2)
 - [Americans for Tax Fairness: Carried interest loophole cost analysis](https://americansfortaxfairness.org/issue/carried-interest/) (Tier 2)

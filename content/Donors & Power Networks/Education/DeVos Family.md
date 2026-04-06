@@ -164,7 +164,7 @@ The DeVos family represents the clearest case in the vault of a donor openly ack
 
 - [OpenSecrets: DeVos Family Profile Summary](https://www.opensecrets.org/orgs/devos-family/summary?id=D000085658) (Tier 1)
 - [OpenSecrets: Betsy DeVos and Her Big-Giving Relatives](https://www.opensecrets.org/news/2016/12/betsy-devos-big-giving-relatives-family-qualifies-gop-royalty/) (Tier 1)
-- [FollowTheMoney: Michigan's DeVos Family](https://followthemoney.org/research/institute-reports/names-in-news-michigans-devos-family) (Tier 1)
+- [FollowTheMoney: Michigan's DeVos Family](https://followthemoney.org/research/institute-reports/names-in-news-michigans-devos-family) *(source unavailable)* (Tier 1)
 - [FTC: In re Amway Corporation Decision (PDF)](https://www.ftc.gov/sites/default/files/documents/commission_decision_volumes/volume-93/ftc_volume_decision_93_january_-_june_1979pages_618-738.pdf) (Tier 1)
 - [Sen. Whitehouse: Senators Renew Calls for DeVos to Disclose Dark Money Ties](https://www.whitehouse.senate.gov/news/release/senators-renew-calls-for-devos-to-come-clean-on-dark-money-ties/) (Tier 1)
 - [Sen. Peters: DeVos Pressed on $500M Wasted on Failed Charter Schools](https://www.peters.senate.gov/newsroom/press-releases/peters-presses-devos-for-answers-on-program-that-wasted-over-500-million-in-taxpayer-money-on-failed-charter-schools/) (Tier 1)
@@ -173,11 +173,11 @@ The DeVos family represents the clearest case in the vault of a donor openly ack
 - [NPR: DeVos Overruled Education Dept. Findings on Defrauded Student Borrowers](https://www.npr.org/2019/12/11/786367598/betsy-devos-overruled-education-dept-findings-on-defrauded-student-borrowers) (Tier 2)
 - [Bridge Michigan: Betsy DeVos's Michigan Legacy](https://bridgemi.com/talent-education/betsy-devoss-michigan-legacy/) (Tier 2)
 - [NBC News: Betsy DeVos Put Millions Behind School Choice Candidates](https://www.nbcnews.com/politics/politics-news/betsy-devos-american-federation-children-private-school-rcna76307) (Tier 2)
-- [Rolling Stone: Betsy DeVos's Holy War](https://rollingstone.com/politics/politics-features/betsy-devos-holy-war-126026/amp) (Tier 2)
+- [Rolling Stone: Betsy DeVos's Holy War](https://www.rollingstone.com/politics/politics-features/betsy-devos-holy-war-126026/) (Tier 2)
 - [Rolling Stone: Betsy DeVos Just Bought Herself a Trump Cabinet Position](https://www.rollingstone.com/politics/politics-features/betsy-devos-just-bought-herself-a-trump-cabinet-position-193072/) (Tier 2)
-- [The Intercept: Erik Prince's Persistent Influence on Trump](https://www.intercept.com/2019/11/05/erik-prince-trump-ukraine-china/) (Tier 2)
+- [The Intercept: Erik Prince's Persistent Influence on Trump](https://theintercept.com/2019/11/05/erik-prince-trump-ukraine-china/) (Tier 2)
 - [InfluenceWatch: Richard and Helen DeVos Foundation](https://www.influencewatch.org/non-profit/richard-and-helen-devos-foundation/) (Tier 2)
-- [SourceWatch: American Federation for Children](https://www.sourcewatch.org/index.php/The_American_Federation_for_Children) (Tier 2)
+- [SourceWatch: American Federation for Children](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_American_Federation_for_Children) (Tier 2)
 - [GRIID: DeVos Family 2024 Political Contributions](https://griid.org/2024/09/16/the-devos-family-has-already-contributed-over-2-million-in-2024-to-gop-committees-and-and-conservative-pacs-outside-of-michigan/) (Tier 2)
 - [Snopes: DeVos Family Campaign Contributions Fact Check](https://www.snopes.com/fact-check/devos-family-campaign-contributions/) (Tier 2)
 

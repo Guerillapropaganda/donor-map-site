@@ -155,7 +155,7 @@ His #1 career donor is Lockheed Martin — the company competing for the Next Ge
 - [Truthout: Top Recipient of War Industry Money to Head House Armed Services](https://truthout.org/articles/top-recipient-of-war-industry-money-to-head-gop-house-armed-services-committee/) (Tier 2)
 - [Project on Government Oversight: Representatives Too Invested in Defense Contractors](https://www.pogo.org/analyses/representatives-are-too-invested-in-defense-contractors) (Tier 2)
 - [Axios Huntsville: Why Redstone Arsenal was chosen for Space Command HQ](https://www.axios.com/local/huntsville/2025/09/02/redstone-arsenal-space-command-huntsville-alabama-colorado-air-force) (Tier 2)
-- [Ballotpedia: Mike Rogers](https://ballotpedia.org/Mike_Rogers_%28Alabama%29) (Tier 3)
+- [Ballotpedia: Mike Rogers](https://ballotpedia.org/Mike_Rogers_(Alabama)) (Tier 3)
 - [Wikipedia: Mike Rogers (Alabama politician)](https://en.wikipedia.org/wiki/Mike_Rogers_%28Alabama_politician%29) (Tier 3)
 - [Encyclopedia of Alabama: Mike Rogers](https://encyclopediaofalabama.org/article/mike-rogers/) (Tier 3)
 

@@ -474,4 +474,3 @@ Run 1 captured the AIPAC Illinois spending story pre-results. Final March 18 res
 - `schrier.house.gov/media/in-the-news/house-lawmakers-rip-middlemen-over-high-drug-prices-despite-welcoming-donations` ✓ VALID
 - `pbs.org/newshour/politics/watch-live-house-expected-to-vote-iran-on-war-powers-resolution` ✓ VALID
 - `democrats-armedservices.house.gov/2026/2/dem-leadership-smith-meeks-himes-khanna-announce-iran-wpr-vote-next-week` ✓ VALID
-

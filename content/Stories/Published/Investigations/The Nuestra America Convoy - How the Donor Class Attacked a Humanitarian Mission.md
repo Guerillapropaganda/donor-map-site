@@ -208,7 +208,7 @@ This investigation surfaces entities that need their own vault nodes:
 - [EBSCO: Cuban American National Foundation](https://www.ebsco.com/research-starters/social-sciences-and-humanities/cuban-american-national-foundation-canf) (Tier 3)
 - [Republic Report: Cuba Lobby Paralyzes US Policy](https://www.republicreport.org/2012/ozzie-guillen-cuba-lobby-paralyzes-us-policy/) (Tier 3)
 - [LAWG: Cuba Policy and Campaign Contributions](https://www.lawg.org/cuba-policy-and-campaign-contributions-ever-wonder-why/) (Tier 3)
-- [USF Digital Commons: CANF Political Network](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1016&context=las_hhfc) (Tier 3)
+- [USF Digital Commons: CANF Political Network](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1104&context=mca?article=1016&context=las_hhfc) (Tier 3)
 - [UN Press: 2024 Embargo Vote](https://press.un.org/en/2024/ga12650.doc.htm) (Tier 1)
 - [WOLA: Understanding Failure of US Cuba Embargo](https://www.wola.org/analysis/understanding-failure-of-us-cuba-embargo/) (Tier 2)
 - [NYT: Hasan Piker Humanitarian Mission Cuba](https://www.nytimes.com/2026/03/23/world/americas/hasan-piker-humanitarian-mission-cuba.html) (Tier 1)
@@ -217,8 +217,8 @@ This investigation surfaces entities that need their own vault nodes:
 - [International Affairs Australia: Economic Warfare in the Caribbean](https://www.internationalaffairs.org.au/australianoutlook/economic-warfare-in-the-caribbean-cubas-fuel-crisis-and-the-unravelling-rules-based-order/) (Tier 2)
 - [Fox News: Far-Left Activists 5-Star Cuban Hotel](https://www.foxnews.com/politics/far-left-activists-stay-5-star-cuban-hotel-island-suffers-total-blackout) (Tier 3)
 - [Washington Post Editorial Board via Latin Times](https://www.latintimes.com/washington-post-editorial-board-calls-left-wing-figures-who-traveled-cuba-protest-us-blockade-596013) (Tier 2)
-- [Newsmax: Rob Schmitt Challenges Ryan Grim](https://www.youtube.com/watch?v=jdeZh0SPT6I) (Tier 3)
-- [Current Affairs: Cuba Convoy Video Analysis](https://www.youtube.com/watch?v=fzYcT6xt2j4) (Tier 3)
+- [Newsmax: Rob Schmitt Challenges Ryan Grim](https://www.youtube.com?v=jdeZh0SPT6I) (Tier 3)
+- [Current Affairs: Cuba Convoy Video Analysis](https://www.youtube.com?v=fzYcT6xt2j4) (Tier 3)
 - [AP News: Cuba Embargo US UN General Assembly 2025](https://apnews.com/article/cuba-embargo-us-un-general-assembly-9c48b48775f0089ba7c0156590c3a86e) (Tier 1)
 
 ---

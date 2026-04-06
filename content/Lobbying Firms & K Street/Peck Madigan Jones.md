@@ -200,13 +200,13 @@ Harold Ickes' presence in the consortium adds a historical layer. Ickes was Bill
 
 ### Sources
 
-- [OpenSecrets: Tiber Creek Group Lobbying Firm Profile — Summary](https://www.opensecrets.org/federal-lobbying/firms/summary?cycle=2025&id=D000046066) (Tier 1)
-- [OpenSecrets: Tiber Creek Group Lobbyists — Revolving Door Data](https://www.opensecrets.org/federal-lobbying/firms/lobbyists?cycle=2025&id=D000046066) (Tier 1)
-- [OpenSecrets: Tiber Creek Group Issues Lobbied](https://www.opensecrets.org/federal-lobbying/firms/issues?cycle=2025&id=D000046066) (Tier 1)
-- [OpenSecrets: Peck Madigan Jones Lobbying Firm Profile (legacy)](https://www.opensecrets.org/federal-lobbying/firms/summary?cycle=2025&id=D000034920) (Tier 1)
-- [Wikipedia: Tiber Creek Group](http://web.archive.org/web/20250825193021/https://en.wikipedia.org/wiki/Tiber_Creek_Group) (Tier 3)
-- [Tiber Creek Group: Official Website — About](https://tibercreekgroup.com/about) (Tier 4)
-- [Tiber Creek Group: Official Website — Team](https://tibercreekgroup.com/team) (Tier 4)
+- [OpenSecrets: Tiber Creek Group Lobbying Firm Profile — Summary](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000046066) (Tier 1)
+- [OpenSecrets: Tiber Creek Group Lobbyists — Revolving Door Data](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000046066) (Tier 1)
+- [OpenSecrets: Tiber Creek Group Issues Lobbied](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2025&id=D000046066) (Tier 1)
+- [OpenSecrets: Peck Madigan Jones Lobbying Firm Profile (legacy)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000034920) (Tier 1)
+- [Wikipedia: Tiber Creek Group](http://web.archive.org/web/20250825193021/https:/en.wikipedia.org/wiki/Tiber_Creek_Group) (Tier 3)
+- [Tiber Creek Group: Official Website — About](https://www.tibercreekgroup.com/about) (Tier 4)
+- [Tiber Creek Group: Official Website — Team](https://www.tibercreekgroup.com/team) (Tier 4)
 - [The Hill: Peck Madigan Jones hires Obama, Clinton White House alum](https://thehill.com/business-a-lobbying/business-a-lobbying/301420-peck-madigan-jones-hires-obama-clinton-white-house/) (Tier 2)
 - [Roll Call: Jones-ing for Partner](https://rollcall.com/2009/03/27/jones-ing-for-partner/) (Tier 2)
 - [Fox News: Biden-linked lobbyists see sharp increase in cash streams](https://www.foxnews.com/politics/joe-biden-linked-lobbyists-increase-cash) (Tier 4)
@@ -214,6 +214,6 @@ Harold Ickes' presence in the consortium adds a historical layer. Ickes was Bill
 - [O'Dwyer's PR: World Bank's Heimbach to PMJ in DC](https://www.odwyerpr.com/story/public/7734/2016-10-18/world-banks-heimbach-pmj-dc.html) (Tier 3)
 - [Tiber Creek Group: Welcomes Senior Administration Official Nikole Burroughs (2023–2025)](https://www.tibercreekgroup.com/archives/insights/tiber-creek-group-welcomes-senior-administration-official-nikole-burroughs-to-bolster-bipartisan-appropriations-practice) (Tier 3)
 - [Tiber Creek Group: Jan Beukelman — Partner Biography (January 2024)](https://www.tibercreekgroup.com/archives/team/jan-beukelman) (Tier 3)
-- [OpenSecrets: Tiber Creek Group Lobbying Profile — 2025](https://www.opensecrets.org/federal-lobbying/firms/summary?cycle=2025&id=D000046066) (Tier 1)
+- [OpenSecrets: Tiber Creek Group Lobbying Profile — 2025](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2025&id=D000046066) (Tier 1)
 
 content-readiness:: ready

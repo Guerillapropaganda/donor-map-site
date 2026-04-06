@@ -77,9 +77,9 @@ Hochul represents the exhaustion of Democratic executive authority when confront
 - [OpenSecrets: Kathy Hochul Money Profile](https://www.opensecrets.org/officeholders/kathy-hochul/summary?cycle=2024&id=4758179) (Tier 1)
 - [OpenSecrets: Hochul Top Contributors](https://www.opensecrets.org/officeholders/kathy-hochul/contributors?cycle=2023&id=4758179&recs=100) (Tier 1)
 - [Bisnow: Hochul Slams Brake On Congestion Pricing, Rejecting Real Estate-Backed Policy](https://www.bisnow.com/new-york/news/economy/congestion-pricing-largely-supported-by-real-estate-industry-halted-by-hochul-124565) (Tier 2)
-- [Commercial Observer: Hochul's Congestion Pricing Pause Raises Real Estate Industry Concerns](https://commercialobserver.com/2024/06/real-estate-joins-chorus-of-criticism-toward-hochuls-congestion-pricing-pause) (Tier 2)
+- [Commercial Observer: Hochul's Congestion Pricing Pause Raises Real Estate Industry Concerns](https://commercialobserver.com/2024/06/real-estate-joins-chorus-of-criticism-toward-hochuls-congestion-pricing-pause/) (Tier 2)
 - [City & State New York: Who are Kathy Hochul's Big Donors?](https://www.cityandstateny.com/politics/2022/01/who-are-kathy-hochuls-big-donors/360900/) (Tier 2)
-- [Crain's New York Business: Governor Hochul is Raising Most of Her Money From Wealthy Donors](https://www.crainsnewyork.com/politics/kathy-hochul-big-donors-raising-most-her-money-wealthy-donors) (Tier 2)
+- [Crain's New York Business: Governor Hochul is Raising Most of Her Money From Wealthy Donors](https://www.crainsnewyork.com/politics/kathy-hochul-big-donors-raising-most-her-money-wealthy-donors/) (Tier 2)
 - [NY1: Hochul Donors Include Executives Seeking State Business](https://ny1.com/nyc/all-boroughs/politics/2022/10/14/as-companies-look-for-state-business--executives-contribute-to-hochul) (Tier 2)
 - [Grist: Caving on Climate: Kathy Hochul Axes Congestion Pricing in New York](https://grist.org/transportation/kathy-hochul-congestion-pricing-new-york/) (Tier 3)
 

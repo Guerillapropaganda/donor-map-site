@@ -169,14 +169,14 @@ CalRx generic drug program is the exemplar: visible, measurable, addressing a sp
 
 ### Sources
 
-- [Jacobin: Newsom's Single-Payer Choice](https://jacobinmag.com/2022/01/gavin-newsom-single-payer-insurance-donors-health-care-system-california) (Tier 3)
+- [Jacobin: Newsom's Single-Payer Choice](https://jacobin.com/2022/01/gavin-newsom-single-payer-insurance-donors-health-care-system-california) (Tier 3)
 - [Consumer Watchdog: Newsom's Big Choice](https://consumerwatchdog.org/in-the-news/newsoms-big-choice-single-payer-or-his-insurance-donors/) (Tier 2)
 - [CapRadio: Big Newsom Donors Received No-Bid Contracts During COVID](https://www.capradio.org/articles/2021/02/16/investigation-big-newsom-donors-including-blue-shield-received-no-bid-contracts-during-covid-19-response/) (Tier 2)
 - [The Lever: Newsom's Big Choice](https://www.levernews.com/newsoms-big-choice-single-payer-or-his-insurance-donors/) (Tier 2)
 - [KQED: Newsom Awarded No-Bid Vaccine Contract to Blue Shield](https://www.kqed.org/science/1973320/newsom-awarded-the-no-bid-vaccine-contract-to-blue-shield-a-trusted-and-generous-supporter) (Tier 2)
-- [Deadline: California Governor Newsom Chooses Big Political Donors To Run State's Vaccination Program](https://deadline.com/2021/02/california-governor-newsom-big-political-donors-vaccination-program-1234694674/amp/) (Tier 2)
+- [Deadline: California Governor Newsom Chooses Big Political Donors To Run State's Vaccination Program](https://deadline.com/2021/02/california-governor-gavin-newsom-big-political-donors-vaccination-program-1234694674/) (Tier 2)
 - [Capital and Main: California Often Leads Change, But Not for Single-Payer Health Care](https://capitalandmain.com/california-often-leads-change-but-not-for-single-payer-health-care) (Tier 2)
-- [CalMatters: Single-Payer Healthcare Still Dead in California](https://calmatters.org/politics/2026/03/california-governor-single-payer-health-care/) (Tier 2)
+- [CalMatters: Single-Payer Healthcare Still Dead in California](https://calmatters.org/category/politics/2026/03/california-governor-single-payer-health-care/) (Tier 2)
 - [Fierce Healthcare: Newsom Vetoes PBM Private Equity Bills](https://www.fiercehealthcare.com/payers/payer-roundup-minnesota-providers-drops-humana-ma-plans-new-no-surprises-act-bill-introduced) (Tier 3)
 
 ---

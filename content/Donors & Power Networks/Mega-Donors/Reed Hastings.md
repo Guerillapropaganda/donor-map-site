@@ -103,7 +103,23 @@ The Hastings funding also shows **donor-class override of constituency interests
 
 - [OpenSecrets: Reed Hastings donor profile](https://www.opensecrets.org/individuals/reed-hastings/summary) (Tier 1)
 - [Capital & Main: Reed Hastings — Netflix CEO Goes Nuclear on Public Schools](https://capitalandmain.com/reed-hastings-the-disrupter-1101) (Tier 2)
-- [CalMatters: Education foes fight to a draw in Sacramento](https://calmatters.org/education/2017/09/education-foes-fight-draw-sacramento/) (Tier 2)
+- [CalMatters: Education foes fight to a draw in Sacramento](https://calmatters.org/category/education/2017/09/education-foes-fight-draw-sacramento/) (Tier 2)
 - [Ballotpedia: Charter school funding by mega-donors](https://ballotpedia.org/School_choice) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 461 contributions totaling $28.5M
+
+**ActBlue/WinRed conduit duplicates filtered:** 13
+
+| Top Recipient | Amount |
+|---|---|
+| SMP | $11.0M |
+| REPUBLICAN ACCOUNTABILITY PAC | $6.9M |
+| HMP | $3.5M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

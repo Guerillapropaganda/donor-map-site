@@ -179,6 +179,6 @@ This does not make Hasan Piker a villain or a fraud. It makes the platform the s
 - [Newsweek: Hasan Piker on Kamala Harris Loss: 'You Can't Podcast Your Way Out of This'](https://www.newsweek.com/hasan-piker-kamala-harris-loss-failures-podcast-twitch-streamer-progressive-politics-1983001) (Tier 3)
 - [Dazed: Hasan Piker: 'I think the Overton window is shifting on Palestine'](https://www.dazeddigital.com/life-culture/article/65723/1/hasan-piker-i-think-the-overton-window-is-shifting-on-palestine-interview) (Tier 3)
 - [Michigan Advance: Michigan's El-Sayed unfazed by backlash against upcoming campaign event with Hasan Piker](https://michiganadvance.com/2026/03/25/michigans-el-sayed-unfazed-by-backlash-against-upcoming-campaign-event-with-hasan-piker/) (Tier 3)
-- [FEC Individual Contributions Search: "Hasan Piker" / "Hasan Dogan Piker" — zero records across all cycles](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=hasan+piker) (Tier 1)
+- [FEC Individual Contributions Search: "Hasan Piker" / "Hasan Dogan Piker" — zero records across all cycles](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=hasan+piker) (Tier 1)
 
 content-readiness:: ready

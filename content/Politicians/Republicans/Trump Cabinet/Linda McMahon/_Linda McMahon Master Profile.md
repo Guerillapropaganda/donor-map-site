@@ -114,5 +114,6 @@ Linda McMahon. Secretary of Education (2025–present). Co-founder of WWE (World
 - [The Nation: AFPI and McMahon's education agenda](https://www.thenation.com/article/society/the-maga-think-tank-behind-linda-mcmahons-education-agenda/) (Tier 2)
 - [Inside Philanthropy: AFPI funding and Trump administration ties](https://www.insidephilanthropy.com/home/the-501c3-america-first-policy-institutes-deep-ties-to-the-new-trump-administration) (Tier 2)
 - [19th News: McMahon confirmed Education Secretary](https://19thnews.org/2025/03/linda-mcmahon-confirmed-education-secretary/) (Tier 2)
-- [FEC: Linda McMahon contribution records](https://www.fec.gov/data/receipts/?_contributors=mcmahon,+linda) (Tier 1)
+- [FEC: Linda McMahon contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=mcmahon,+linda) (Tier 1)
 content-readiness:: ready
+ 

@@ -63,7 +63,7 @@ Bush's use of faith-based rhetoric, patriotic framing post-9/11, and "compassion
 
 - [FEC presidential campaign finance records: 2000, 2004](https://www.fec.gov) (Tier 1)
 - [OpenSecrets: George W. Bush presidential profile](https://www.opensecrets.org/presidential-races/candidate?id=N00008072) (Tier 1)
-- [Iraq War cost estimate: $2 trillion](https://watson.brown.edu/costsofwar) (Tier 2)
+- [Iraq War cost estimate: $2 trillion](https://costsofwar.watson.brown.edu/) (Tier 2)
 - [Halliburton Iraq contracts: $39.5 billion](https://www.publicintegrity.org/defense-contractors-profiting-iraq) (Tier 2)
 - [Gramm-Leach-Bliley Act and Glass-Steagall repeal](https://www.congress.gov) (Tier 1)
 - [2008 Financial Crisis: TARP bailout and deregulation timeline](https://www.gao.gov) (Tier 1)

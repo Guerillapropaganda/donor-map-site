@@ -2,7 +2,7 @@
 title: "Business Roundtable"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,7 +13,6 @@ issues:
   - "Labor & Workers"
 lobbying-spend: 4861010
 lobbying-filings: 104
-total-political-spend: "$110,825"
 ---
 
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor
@@ -161,27 +160,3 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 
 research-status:: developed — Expanded from 65-line thin stub to full donor node. Added: 2025 lobbying surge data ($33.5M, +43% YoY), TCJA permanent extension campaign, Q1 2025 spending detail ($6.86M single quarter), 2025 board leadership (Robbins chair, Dimon past chair), lobbying spend history table (2019-2025), stakeholder capitalism fraud analysis with Harvard Law/Roosevelt Institute documentation, TCJA ROI calculation ($82M → $320B+/year), PRO Act defeat, temporal mapping table (8 entries), 3 callout blocks, 12 sources (4 Tier 1, 7 Tier 2, 1 Tier 3). Gaps: individual CEO bundling totals (not publicly tracked), full list of TCJA lobbying coalition members, specific proxy reform bill numbers for 2025. Cannot reach ready without verification of $82M coalition lobbying estimate and specific PRO Act lobbying expenditures.
 content-readiness:: developed
-
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $110,825 |
-| Contributions | 11 |
-
-**Top recipients:**
-
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| CLEVELAND 2016 HOST COMMITTEE INC | $100,000 | REP |
-| TONY CARDENAS FOR CONGRESS | $3,000 | DEM |
-| LORETTA SANCHEZ FOR SENATE | $2,700 | DEM |
-| BY THE PEOPLE ACTION PROJECT | $1,750 | — |
-| LUCILLE ROYBAL-ALLARD FOR CONGRESS | $1,000 | DEM |
-| LOU CORREA FOR CONGRESS | $1,000 | DEM |
-| TARKANIAN FOR CONGRESS | $500 | REP |
-| FRIENDS OF JOE BACA 2016 | $500 | REP |
-| RICH POLITICAL ACTION COMMITTEE | $375 | — |
-
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Business%20Roundtable) (Tier 1)
-<!-- auto:fec-donor end -->

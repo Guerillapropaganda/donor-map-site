@@ -364,7 +364,7 @@ RTX represents the defense sector's structural capture of the American state. Th
 - [DOJ Press Release: $950M Raytheon Settlement](https://www.justice.gov/archives/opa/pr/raytheon-company-pay-over-950m-connection-defective-pricing-foreign-bribery-and-export)
 - [OpenSecrets: RTX Corp Profile](https://www.opensecrets.org/orgs/rtx-corp/summary?id=D000072615) (Tier 1)
 - [OpenSecrets: RTX PAC Candidate Recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/rtx-corp/C00097568/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: RTX Lobbying Profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000072615) (Tier 1)
+- [OpenSecrets: RTX Lobbying Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000072615) (Tier 1)
 - [OpenSecrets: Mark Esper Revolving Door Profile](https://www.opensecrets.org/revolving-door/esper-mark/summary?id=70733) (Tier 1)
 - [OpenSecrets: Lloyd Austin Revolving Door Profile](https://www.opensecrets.org/revolving-door/lloyd-austin/summary?id=82688) (Tier 1)
 - [RTX 2025 Annual Results](https://www.rtx.com/news/news-center/2026/01/27/rtx-reports-2025-results-and-announces-2026-outlook/)

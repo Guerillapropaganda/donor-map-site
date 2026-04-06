@@ -38,7 +38,7 @@ The Minnesota connection: Minnesota is home to Target, UnitedHealth Group, 3M, a
 
 - [OpenSecrets: Amy Klobuchar donor profile](https://www.opensecrets.org/members-of-congress/amy-klobuchar/summary?cid=N00027500) (Tier 1)
 - [Congress.gov: American Innovation and Choice Online Act](https://www.congress.gov/bill/117th-congress/senate-bill/2992) (Tier 1)
-- [Senate Judiciary Subcommittee on Competition hearings](https://www.judiciary.senate.gov/subcommittees/competition-policy-antitrust-and-consumer-rights) (Tier 1)
+- [Senate Judiciary Subcommittee on Competition hearings](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1)
 - [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3)
 
 content-readiness:: ready

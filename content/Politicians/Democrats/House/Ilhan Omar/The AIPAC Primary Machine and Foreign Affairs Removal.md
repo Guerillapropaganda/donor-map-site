@@ -96,7 +96,7 @@ The precedent is structural: if a party controls the House, it can remove any me
 - [NPR: House GOP removes Ilhan Omar from Foreign Affairs Committee](https://www.npr.org/2023/02/02/1153472237/ilhan-omar-foreign-affairs-committee-vote-republicans-remove) (Tier 2)
 - [NPR: Pro-Israel group sits out Ilhan Omar's 2024 primary](https://www.npr.org/2024/08/14/nx-s1-5073957/democratic-rep-ilhan-omar-wins-primary-despite-spending-from-pro-israel-group) (Tier 2)
 - [Sludge: Here is all the money AIPAC spent on the 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
-- [Ballotpedia: Minnesota's 5th Congressional District election, 2022](https://ballotpedia.org/Minnesota%27s_5th_Congressional_District_election,_2022) (Tier 3)
+- [Ballotpedia: Minnesota's 5th Congressional District election, 2022](https://ballotpedia.org/Minnesota's_5th_Congressional_District_election,_2022) (Tier 3)
 - [Ballotpedia: Ilhan Omar](https://ballotpedia.org/Ilhan_Omar) (Tier 3)
 
 content-readiness:: ready

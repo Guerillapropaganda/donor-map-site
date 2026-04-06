@@ -126,7 +126,7 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 - [SF Standard: $12M Trump fundraiser at Sacks home](https://sfstandard.com/2024/06/05/donald-trump-san-francisco-campaign-fundraiser-tech-david-sacks/) (Tier 2)
 - [OpenSecrets: David Sacks donor lookup](https://www.opensecrets.org/donor-lookup/results?name=david+sacks) (Tier 1)
 - [TechCrunch: Sacks RNC speech](https://techcrunch.com/2024/07/16/vc-david-sacks-delivers-a-fire-and-brimstone-speech-at-the-republican-national-convention/) (Tier 2)
-- [FEC: David Sacks contribution records](https://www.fec.gov/data/receipts/?_contributors=sacks,+david) (Tier 1)
+- [FEC: David Sacks contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=sacks,+david) (Tier 1)
 - [Fortune: Peter Thiel Network Trump White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 2)
 - [KQED: PayPal Mafia South Africa Investigation](https://www.kqed.org/news/12041022) (Tier 2)
 - [Reuters: Bitcoin Reserve Trump Crypto Sacks](https://www.reuters.com/technology/trump-signs-order-establish-strategic-bitcoin-reserve-white-house-crypto-czar-2025-03-07/) (Tier 2) (UNVERIFIED)
@@ -137,3 +137,4 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 - [Seattle Times: Tech Billionaires Helped Vance Leap Into Power](https://www.seattletimes.com/business/how-a-network-of-tech-billionaires-helped-jd-vance-leap-into-power/) (Tier 2) (UNVERIFIED)
 research-status:: developed — Research expansion added April 2026. New data: PayPal Mafia biographical details (South Africa origins, Stanford timeline), Craft Ventures portfolio metrics ($350M fund, 326 investments, 40 exits), PCAST appointments (Huang, Zuckerberg, Friedberg, Ehrsam), detailed ethics waivers ($200M+ divestments, Palantir/Nvidia/defense conflicts), 130-day SGE exhaustion, March 26, 2026 transition to PCAST co-chair. Added 8 new sources — all marked UNVERIFIED pending Chrome verification.
 content-readiness:: developed
+ 

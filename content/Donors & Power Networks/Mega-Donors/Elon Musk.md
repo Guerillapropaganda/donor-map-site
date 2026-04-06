@@ -131,7 +131,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: DOGE target
 
 ### The SpaceX-xAI Merger — $1.25 Trillion
 
-February 2, 2026: SpaceX and xAI merged into the most valuable private company in history. SpaceX valued at $1 trillion, xAI at $250 billion. Combined entity: $1.25 trillion. Musk holds ~43% ownership stake. [Source: [CNBC: SpaceX-xAI merger](https://www.cnbc.com/2026/02/02/spacex-xai-merger.html) (Tier 2)]
+February 2, 2026: SpaceX and xAI merged into the most valuable private company in history. SpaceX valued at $1 trillion, xAI at $250 billion. Combined entity: $1.25 trillion. Musk holds ~43% ownership stake. [Source: [CNBC: SpaceX-xAI merger](https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html) (Tier 2)]
 
 **xAI infrastructure:** Colossus supercomputer in Memphis (former Electrolux factory, Boxtown district). Colossus 2 online January 2026. $659 million expansion for 312,000 sq ft building. 2GW compute target. Southaven, Mississippi facility: 1 million GPU target by 2026. Uses wastewater for cooling.
 
@@ -143,9 +143,9 @@ The merger creates a vertically integrated empire: rockets (SpaceX), satellite i
 
 ### The X/Twitter Political Machine
 
-October 2022: $44 billion acquisition. Eliminated content moderation. Fired 75% of workforce. Deployed as MAGA megaphone. [Source: [CNN: Breakup analysis](https://www.cnn.com/2025/06/15/politics/musk-trump-breakup/) (Tier 2)]
+October 2022: $44 billion acquisition. Eliminated content moderation. Fired 75% of workforce. Deployed as MAGA megaphone. [Source: [CNN: Breakup analysis](https://www.cnn.com/2025/06/15/politics/musk-trump-breakup/) *(source unavailable)* (Tier 2)]
 
-**Valuation recovery:** Low point: $5.3 billion (late 2023). March 2025: rebounded to $44 billion (same purchase price). Revenue: $2.26B in 2025 (up 16.5% YoY, first increase since acquisition) but still down from $4.4B pre-Musk peak. xAI merger provides additional financial support. [Source: [CNBC: SpaceX-xAI merger](https://www.cnbc.com/2026/02/02/spacex-xai-merger.html) (Tier 2)]
+**Valuation recovery:** Low point: $5.3 billion (late 2023). March 2025: rebounded to $44 billion (same purchase price). Revenue: $2.26B in 2025 (up 16.5% YoY, first increase since acquisition) but still down from $4.4B pre-Musk peak. xAI merger provides additional financial support. [Source: [CNBC: SpaceX-xAI merger](https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html) (Tier 2)]
 
 X is a $44 billion political instrument: 250+ million users, algorithmic amplification of Musk's political content, direct pipeline to the MAGA base, and now a tool for interfering in foreign elections (Germany, UK).
 
@@ -186,7 +186,7 @@ Current status: "distrustful alliance of convenience." Both understand mutual da
 
 ### The $55 Billion Pay Package
 
-Tesla compensation: 2018 package tied to market cap milestones. January 2024: Delaware court rescinded the $55B package ("unfathomable"). December 2025: Delaware Supreme Court restored it. 2025: new ~$1 trillion potential 10-year package proposed. 2026: minimum compensation $26 billion for "showing up" two years. [Source: [Morningstar: Tesla compensation analysis](https://www.morningstar.com/stocks/xnas/tsla/analysis) (Tier 2)]
+Tesla compensation: 2018 package tied to market cap milestones. January 2024: Delaware court rescinded the $55B package ("unfathomable"). December 2025: Delaware Supreme Court restored it. 2025: new ~$1 trillion potential 10-year package proposed. 2026: minimum compensation $26 billion for "showing up" two years. [Source: [Morningstar: Tesla compensation analysis](https://www.morningstar.com/company-reports/1422117-tesla-should-see-long-term-profit-growth-from-ai-robotaxis-and-humanoid-robots?listing=0P0000OQN8) (Tier 2)]
 
 His personal pay exceeds the entire political spending budget of the American labor movement.
 
@@ -260,7 +260,7 @@ OBBBA terminated IRA §30D (New Clean Vehicle Credit, $7,500), §25E (Used Clean
 
 ### America First Legal — The Secret $43 Million
 
-In 2022, Musk secretly donated at least $43 million to an America First Legal (AFL) subsidiary. AFL is Stephen Miller's organization. Its Treasurer at the time was Russell Vought, who then became Trump's OMB Director. DeSmog documents Musk ties to Project 2025 architects through this donation chain. The money was dark money until disclosure, and it paid for the legal infrastructure that now runs immigration enforcement and the dismantling of DEI. Source: [DeSmog: Musk tied to Project 2025](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/) (Tier 2).
+In 2022, Musk secretly donated at least $43 million to an America First Legal (AFL) subsidiary. AFL is Stephen Miller's organization. Its Treasurer at the time was Russell Vought, who then became Trump's OMB Director. DeSmog documents Musk ties to Project 2025 architects through this donation chain. The money was dark money until disclosure, and it paid for the legal infrastructure that now runs immigration enforcement and the dismantling of DEI. Source: [DeSmog: Musk tied to Project 2025](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/) (Tier 2).
 
 ---
 
@@ -396,3 +396,18 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 research-status:: ready — fully documented: political spending ($340M+), federal contracts ($38B+), DOGE aftermath, SpaceX-xAI merger ($1.25T), labor record, Trump relationship arc, foreign election interference, legal exposure, March 2026 updates (DOGE deposition blocked, Terafab, TSA offer, xAI rebuild, appeals court shield). All major claims inline-cited with Tier 1-2 sources. Updated Session 38-auto (March 24, 2026).
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 400 contributions totaling $367.3M
+
+**ActBlue/WinRed conduit duplicates filtered:** 8
+
+| Top Recipient | Amount |
+|---|---|
+| AMERICA PAC | $298.0M |
+| RBG PAC | $20.5M |
+| SLF PAC | $10.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

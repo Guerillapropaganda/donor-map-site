@@ -49,8 +49,8 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 ### Sources
 
 - [OpenSecrets: ADM organizational profile](https://www.opensecrets.org/orgs/archer-daniels-midland/summary?id=D000000132) (Tier 1)
-- [EPA: Renewable Fuel Standard program](https://www.epa.gov/renewable-fuel-standard-program) (Tier 1)
-- [DOJ: ADM price-fixing prosecution](https://www.justice.gov/atr/case/united-states-v-archer-daniels-midland-co) (Tier 1)
+- [EPA: Renewable Fuel Standard program](https://www.epa.gov/renewable-fuel-standard) (Tier 1)
+- [DOJ: ADM price-fixing prosecution](https://www.justice.gov/archive/opa/pr/1996/Oct96/508at.htm) (Tier 1)
 - [Ballotpedia: ADM](https://ballotpedia.org/Archer_Daniels_Midland) (Tier 3)
 
 content-readiness:: ready

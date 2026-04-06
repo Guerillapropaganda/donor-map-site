@@ -183,3 +183,16 @@ McConnell built SLF as his personal power machine from 2015 to 2024. The organiz
 - [Ballotpedia: One Nation (One Mission) 501(c)(4)](https://ballotpedia.org/One_Mission) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $20.4K
+
+| Top Recipient | Amount |
+|---|---|
+| DEMOCRATIC PARTY OF OREGON | $20.0K |
+| WINRED | $372 |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

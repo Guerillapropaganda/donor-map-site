@@ -2,7 +2,7 @@
 title: "Josh Hawley Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,7 +14,6 @@ issues:
 top-donors:
   - "Koch Network - Charles Koch"
   - "Leonard Leo"
-bioguide-id: "A000383"
 ---
 
 
@@ -115,20 +114,8 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 
 - [OpenSecrets: Hawley career donors, 2018 outside spending, 2024 cycle](https://www.opensecrets.org/members-of-congress/josh-hawley/summary?cid=N00041620) (Tier 1)
 - [Salon/Detroit News: post-J6 fundraising boom](https://www.salon.com/2021/03/18/josh-hawley-marjorie-taylor-greene-report-record-donations-as-gop-sees-post-riot-financial-boom/) (Tier 2)
-- [STLPR: 2018 outside money analysis](https://news.stlpublicradio.org/2019-04-17/dark-money-groups-spent-millions-to-influence-missouri-voters-report-finds) (Tier 2)
+- [STLPR: 2018 outside money analysis](https://www.stlpr.org/2019-04-17/dark-money-groups-spent-millions-to-influence-missouri-voters-report-finds) (Tier 2)
 - [Missouri Independent: out-of-state donor analysis](https://missouriindependent.com/2023/10/23/hawley-kunce-draw-heavily-on-donors-outside-missouri-to-fuel-u-s-senate-campaigns/) (Tier 2)
 - [The Hill/CNN: corporate PAC pledge analysis](https://thehill.com/homenews/senate/4288563-hawley-mcconnell-battle-gut-citizens-united-ruling/) (Tier 2)
 content-readiness:: ready
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->
+ 

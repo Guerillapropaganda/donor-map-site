@@ -130,7 +130,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 - [Brownstein Hyatt: Ways & Means Chair Jason Smith's Potential Legislative Agenda](https://www.bhfs.com/insight/ways-and-means-chair-jason-smith-s-potential-legislative-agenda/) (Tier 2)
 - [Tax Foundation: Section 199A Permanence in the Big Beautiful Bill](https://taxfoundation.org/blog/199a-deduction-pass-through-business-big-beautiful-bill/) (Tier 2)
 - [Data USA: Congressional District 8, MO Demographics](https://datausa.io/profile/geo/congressional-district-8-mo/) (Tier 3)
-- [Ballotpedia: Jason Smith (Missouri)](https://ballotpedia.org/Jason_Smith_%28Missouri_representative%29) (Tier 3)
+- [Ballotpedia: Jason Smith (Missouri)](https://ballotpedia.org/Jason_Smith_(Missouri_representative)) (Tier 3)
 
 ---
 

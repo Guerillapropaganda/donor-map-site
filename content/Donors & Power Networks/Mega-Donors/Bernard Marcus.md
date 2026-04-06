@@ -87,8 +87,8 @@ Labor unions (particularly construction trades unions and retail workers' organi
 - [Bernie Marcus, Home Depot cofounder who gave to Republicans and Israel, dies at 95 - The Times of Israel](https://www.timesofisrael.com/bernie-marcus-home-depot-cofounder-who-gave-to-republicans-and-israel-dies-at-95/) (Tier 2)
 - [Bernard Marcus Family Foundation Profile - OpenSecrets](https://www.opensecrets.org/orgs/bernard-marcus-family-foundation/summary?id=D000035605) (Tier 1)
 - [Bernie Marcus - InfluenceWatch](https://www.influencewatch.org/person/bernie-marcus/) (Tier 2)
-- [Marcus Foundation - InfluenceWatch](https://www.influencewatch.org/non-profit/marcus-foundation-inc/) (Tier 2)
-- [A GOP megadonor says he's not 'happy' Trump is leading the 2024 race. Here's why he's still trying to get him elected - ABC News](https://abcnews.go.com/US/gop-megadonor-happy-trump-leading-2024-race-elected/story?id=105193130) (Tier 2)
+- [Marcus Foundation - InfluenceWatch](https://www.influencewatch.org/non-profit/marcus-foundation/) (Tier 2)
+- [A GOP megadonor says he's not 'happy' Trump is leading the 2024 race. Here's why he's still trying to get him elected - ABC News](https://abcnews.com/US/gop-megadonor-happy-trump-leading-2024-race-elected/story?id=105193130?id=105193130) (Tier 2)
 - [He didn't do anything small: Remembering Bernard Marcus - eJewishPhilanthropy](https://ejewishphilanthropy.com/he-didnt-do-anything-small-remembering-bernard-marcus-larger-than-life-businessman-and-philanthropist/) (Tier 2)
 - [Marcus Foundation provides $60 million to RootOne - eJewishPhilanthropy](https://ejewishphilanthropy.com/marcus-foundation-provides-60-million-to-rootone-in-one-of-bernie-marcus-final-major-acts/) (Tier 2)
 - [Looking Back at Bernie Marcus' Giving — and What's Next - Inside Philanthropy](https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next) (Tier 2)
@@ -100,3 +100,19 @@ Labor unions (particularly construction trades unions and retail workers' organi
 
 research-status:: ready — Home Depot co-founder, $10.3B net worth, $10.7M Trump 2020, $5M+ Trump 2024, $1M AIPAC/UDP, $2.7B Marcus Foundation, FDD $30M, Federalist Society, Heritage, RootOne $140M+. 14 sources, Tier 1-3. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 479 contributions totaling $31.9M
+
+**ActBlue/WinRed conduit duplicates filtered:** 21
+
+| Top Recipient | Amount |
+|---|---|
+| SENATE LEADERSHIP FUND | $5.8M |
+| PRESERVE AMERICA PAC | $5.0M |
+| UNITED DEMOCRACY PROJECT ('UDP') | $3.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -156,7 +156,7 @@ The PAC splits tell the story: Google PAC 48.5% Democratic/50.5% Republican. Ama
 - [Tech Transparency Project: Google Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2)
 - [Axios: 2023 Tech Lobbying Review](https://www.axios.com/pro/tech-policy/2024/01/23/2023-tech-lobbying-in-review) (Tier 2)
 - [NY Post: Schumer Daughters at Amazon/Meta](https://nypost.com/2022/01/18/schumers-daughters-work-for-amazon-facebook-as-he-holds-power-over-antitrust-bill/) (Tier 3)
-- [FollowTheMoney: AGs vs Big Tech](https://www.followthemoney.org/research/blog/attorneys-general-take-on-big-tech/) (Tier 2)
+- [FollowTheMoney: AGs vs Big Tech](https://www.followthemoney.org/research/blog/attorneys-general-take-on-big-tech) (Tier 2)
 
 ---
 

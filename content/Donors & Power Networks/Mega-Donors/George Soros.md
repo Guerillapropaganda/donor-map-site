@@ -2,7 +2,7 @@
 title: "George Soros"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,10 +12,6 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$188,381,113"
-ein: 830650656
-annual-revenue: "$1"
-net-assets: "$1K"
-tax-year: "2023"
 ---
 
 #donor #billionaire #democratic #progressive #dark-money #open-society
@@ -103,7 +99,7 @@ A secondary contradiction emerged sharply during the 2022-2024 period: Soros's [
 
 ### Sources
 
-- [FEC: George Soros individual contributions 2004-2024](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=soros) (Tier 1)
+- [FEC: George Soros individual contributions 2004-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=soros) (Tier 1)
 - [OpenSecrets: Senate Majority PAC spending 2024](https://www.opensecrets.org/groups/240364) (Tier 1)
 - [OpenSecrets: George Soros donor profile](https://www.opensecrets.org/donor/top/soros-george) (Tier 2)
 - [ProPublica: "George Soros's Quiet Influence on U.S. Criminal Justice"](https://www.propublica.org/article/police-politicians-undermined-reform-prosecutors-chicago-philadelphia) (Tier 2)
@@ -116,15 +112,16 @@ A secondary contradiction emerged sharply during the 2022-2024 period: Soros's [
 
 research-status:: ready — Full citation pass complete. $32B Open Society Foundations, $125M+ Arabella network, $60M Harris 2024, progressive prosecutor funding, Democracy PAC, state court elections ($2M Wisconsin 2025), Alex Soros succession. 8 sources, Tier 1-3. All ### headers. Promoted Session 38k.
 content-readiness:: ready
+---
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $1 |
-| Total Contributions | $0 |
-| Total Expenses | $906 |
-| Net Assets | $1K |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-- [Source: ProPublica Nonprofit Explorer — EIN 830650656](https://projects.propublica.org/nonprofits/organizations/830650656) (Tier 1)
-<!-- auto:propublica-990 end -->
+**FEC contribution record:** 500 contributions totaling $188.4M
+
+| Top Recipient | Amount |
+|---|---|
+| DEMOCRACY PAC II | $175.0M |
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $2.0M |
+| HARRIS VICTORY FUND | $1.8M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -48,3 +48,17 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 - [Ballotpedia: NextEra Energy](https://ballotpedia.org/NextEra_Energy) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $3.1M
+
+| Top Recipient | Amount |
+|---|---|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $1.0M |
+| RESTORE OUR NATION (RON PAC) | $250.0K |
+| NRSC | $195.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

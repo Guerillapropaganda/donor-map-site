@@ -110,7 +110,7 @@ The 2024 fundraising collapse reveals another structural truth: mega-donors don'
 - [FEC: Priorities USA Action, 2015–2016 cycle financials](https://www.fec.gov/data/committee/C00495861/?cycle=2016) (Tier 1) (Chrome verified 2026-03-27)
 - [FEC: Priorities USA Action, 2019–2020 cycle financials](https://www.fec.gov/data/committee/C00495861/?cycle=2020) (Tier 1) (Chrome verified 2026-03-27)
 - [FEC: Priorities USA Action, 2023–2024 cycle financials](https://www.fec.gov/data/committee/C00495861/?cycle=2024) (Tier 1) (Chrome verified 2026-03-27)
-- [FEC: Priorities USA Action independent expenditures, 2024 (146 transactions)](https://www.fec.gov/data/independent-expenditures/?q_spender=C00495861&cycle=2024) (Tier 1) (Chrome verified 2026-03-27)
+- [FEC: Priorities USA Action independent expenditures, 2024 (146 transactions)](https://www.fec.gov/data/independent-expenditures/?most_recent=true?q_spender=C00495861&cycle=2024) (Tier 1) (Chrome verified 2026-03-27)
 
 ### OpenSecrets (Tier 1):
 - [OpenSecrets: Priorities USA Action PAC profile](https://www.opensecrets.org/political-action-committees-pacs/C00495861/summary/2024) (Tier 1) (Chrome verified 2026-03-26)
@@ -125,3 +125,19 @@ The 2024 fundraising collapse reveals another structural truth: mega-donors don'
 - [Ballotpedia: Priorities USA Action](https://ballotpedia.org/Priorities_USA_Action) (Tier 3) (Chrome verified 2026-03-26)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 126 contributions totaling $24.1M
+
+**ActBlue/WinRed conduit duplicates filtered:** 18
+
+| Top Recipient | Amount |
+|---|---|
+| BLACK PAC | $5.5M |
+| IMMIGRANT VOTERS WIN PAC | $4.0M |
+| VOTEVETS | $3.1M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -124,10 +124,24 @@ REBNY's influence operates through both direct campaign contributions and struct
 - [Met Council on Housing: What REBNY bought for its money](https://thetenant.org/what-has-rebny-bought-for-its-money/) (Tier 2) (UNVERIFIED)
 - [REBNY: Official site and advocacy](https://www.rebny.com/) (Tier 3)
 - [New York State Joint Commission on Public Ethics: Campaign finance filings](https://publicreporting.elections.ny.gov/) (Tier 1)
-- [OpenSecrets: Real Estate industry political spending profile](https://www.opensecrets.org/industries/indus?ind=F10) (Tier 1)
+- [OpenSecrets: Real Estate industry political spending profile](https://www.opensecrets.org/industries?ind=F10) (Tier 1)
 
 ---
 
 research-status:: developed — expanded with additional research on REBNY's state-level dominance, LLC loophole exploitation, Good Cause Eviction weakening, 421-a economics, Jobs for New York PAC targeting, Moreland Commission shutdown, and national replication model. Gaps: detailed donor-to-policy tracking for individual NYC mayoral and gubernatorial races; Hochul's specific REBNY funding flows; current (2026) NYC/state lobbying spending figures.
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 39 contributions totaling $84.4K
+
+| Top Recipient | Amount |
+|---|---|
+| MEEKS VICTORY FUND 2024 | $7.6K |
+| FRIENDS OF MARK WARNER | $7.0K |
+| BUILD AMERICA PAC | $6.8K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

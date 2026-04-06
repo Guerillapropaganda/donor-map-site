@@ -75,7 +75,7 @@ Ben-Gvir's demands for settlement expansion aren't abstract territorial claims. 
 
 - [Times of Israel: Otzma Yehudit Has Financial Ties to Body Considered Terror Group by US](https://www.timesofisrael.com/report-otzma-yehudit-has-financial-ties-to-body-considered-a-terror-group-by-us/) (Tier 2)
 - [Britannica: Itamar Ben-Gvir Biography](https://www.britannica.com/biography/Itamar-Ben-Gvir) (Tier 2)
-- [New Lines Institute: U.S.-Based Charities Funding Israeli Settlements](https://newlinesinstitute.org/political-systems/u-s-based-charities-are-funding-israeli-settlements-podcast/) (Tier 2)
+- [New Lines Institute: U.S.-Based Charities Funding Israeli Settlements](https://newlinesinstitute.org/middle-east-center/u-s-based-charities-are-funding-israeli-settlements-podcast/) (Tier 2)
 - [J Street: Fact Sheet on Ben-Gvir and Smotrich](https://jstreet.org/wp-content/uploads/2024/09/Fact-Sheet-What-You-Need-to-Know-Bezalel-Smotrich-and-Itamar-Ben-1-2.pdf) (Tier 2)
 - [Wikipedia: Itamar Ben-Gvir](https://en.wikipedia.org/wiki/Itamar_Ben-Gvir) (Tier 2)
 - [Foundation for Middle East Peace: Settlement & Annexation Report](https://fmep.org/resource/settlement-annexation-report-august-8-2025/) (Tier 1)

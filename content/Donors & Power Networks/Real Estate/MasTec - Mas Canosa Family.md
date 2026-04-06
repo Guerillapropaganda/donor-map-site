@@ -1,7 +1,7 @@
 ---
 title: "MasTec - Mas Canosa Family"
 type: corporation
-content-readiness: ready
+content-readiness: developed
 last-updated: 2026-03-31
 source-tier: 2
 parent: null
@@ -17,7 +17,7 @@ issues:
 
 #donor #corporation #infrastructure #construction #cuba #exile #telecom #energy #real-estate #class-analysis #follow-the-money
 
-related: [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]]
+related: [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Carlos Gimenez Master Profile|Carlos Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]]
 
 ---
 

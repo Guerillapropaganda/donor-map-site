@@ -2,7 +2,7 @@
 title: "Teamsters - International Brotherhood of Teamsters"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-23
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -14,10 +14,6 @@ politicians-funded:
   - "JD Vance"
 issues:
   - "Labor & Workers"
-ein: 940963930
-annual-revenue: "$12.2M"
-net-assets: "$13.2M"
-tax-year: "2023"
 ---
 
 
@@ -146,7 +142,7 @@ For IBEW members: The Teamsters' rank-and-file politics mirror the building trad
 
 - [OpenSecrets: Teamsters Union 2024 cycle data](https://www.opensecrets.org/orgs/teamsters-union/summary?id=D000000066) (Tier 1)
 - [International Brotherhood of Teamsters: UPS contract 2023](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2)
-- [International Brotherhood of Teamsters: ALU-IBT affiliation](https://teamster.org/amazon-labor-union/) (Tier 2)
+- [International Brotherhood of Teamsters: ALU-IBT affiliation](https://teamster.org/2024/06/amazon-labor-union-formally-affiliates-with-teamsters/) (Tier 2)
 - [NPR: 2024 Teamsters non-endorsement](https://www.npr.org/2024/11/06/nx-s1-5182290/2024-election-results-where-things-stand) (Tier 2)
 - [Ballotpedia: Proposition 22 spending data](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1)
 
@@ -175,18 +171,16 @@ DHL Express Teamsters voted **96% to authorize a strike** if no contract is reac
 - [FreightWaves: DHL Strike Threat, March 2026](https://www.freightwaves.com/news/dhl-express-workers-threaten-to-strike-if-no-contract-by-march-31) (Tier 2)
 - [TDU: First Student Strike Vote Preparation](https://www.tdu.org/first-student-teamsters-prepare-strike-vote) (Tier 2)
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $12.2M |
-| Total Contributions | $0 |
-| Program Service Revenue | $11.5M |
-| Investment Income | $269K |
-| Total Expenses | $11.5M |
-| Net Assets | $13.2M |
-| Officer Compensation | $1.1M |
+---
 
-- [Source: ProPublica Nonprofit Explorer — EIN 940963930](https://projects.propublica.org/nonprofits/organizations/940963930) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940963930_202312_990O_2024071222684155.pdf) (Tier 1)
-<!-- auto:propublica-990 end -->
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $3.2M
+
+| Top Recipient | Amount |
+|---|---|
+| DCCC | $392.5K |
+| DSCC | $375.0K |
+| IN UNION USA | $250.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -98,7 +98,7 @@ Universal Pre-K / Transitional Kindergarten ($50M+ budget lines) are marketed as
 - [FPPC: CTA and CFT contribution filings to Newsom campaigns](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 - [FPPC: CCSA PAC contributions to California legislators](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 - [FPPC: Reed Hastings direct contributions (Netflix related](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1)) (Tier 1)
-- [CalMatters: Education funding and charter school politics](https://calmatters.org/education/) (Tier 2)
+- [CalMatters: Education funding and charter school politics](https://calmatters.org/category/education/) (Tier 2)
 - [PR Watch: Billionaire Eli Broad Takes Public Education Private](https://www.prwatch.org/news/2018/12/13434/billionaire-eli-broad-takes-public-education-private) (Tier 3)
 
 content-readiness:: ready

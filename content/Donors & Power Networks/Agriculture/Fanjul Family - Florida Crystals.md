@@ -18,7 +18,7 @@ issues:
 
 #donor #mega-donor #agriculture #sugar #florida #bipartisan-donor #both-sides-illusion #forced-labor #everglades #lobbying #subsidy #cuba-policy #foreign-policy #defense-industry #regime-change #caribbean #revolving-door #k-street
 
-related: [[_Marco Rubio Master Profile|Rubio]] [[_Donald Trump Master Profile|Trump]] [[American Farm Bureau Federation]] [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] [[Norman Braman]] [[Reclaim America PAC]] [[Lockheed Martin]] [[Lockheed Martin]] [[General Dynamics]] [[Raytheon]] [[Mauricio Claver-Carone]] [[Michael Waltz]] [[LARA Fund]] [[Cubaexport]] [[Pernod Ricard]] [[Bacardi]] [[Nicolás Maduro]] [[Brian Walsh]] [[Victor Cervino]] [[Darrell Issa]] [[Debbie Wasserman Schultz]] [[Chris Dodd]] [[Collin Peterson]] [[Combest, Sell & Associates]] [[The Peterson Group]] [[Jared Moskowitz]]
+related: [[_Marco Rubio Master Profile|Rubio]] [[_Donald Trump Master Profile|Trump]] [[_Carlos Gimenez Master Profile|Carlos Gimenez]] [[American Farm Bureau Federation]] [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] [[Norman Braman]] [[Reclaim America PAC]] [[Lockheed Martin]] [[Lockheed Martin]] [[General Dynamics]] [[Raytheon]] [[Mauricio Claver-Carone]] [[Michael Waltz]] [[LARA Fund]] [[Cubaexport]] [[Pernod Ricard]] [[Bacardi]] [[Nicolás Maduro]] [[Brian Walsh]] [[Victor Cervino]] [[Darrell Issa]] [[Debbie Wasserman Schultz]] [[Chris Dodd]] [[Collin Peterson]] [[Combest, Sell & Associates]] [[The Peterson Group]] [[Jared Moskowitz]]
 
 ---
 
@@ -212,10 +212,10 @@ The Fanjul family is the vault's purest example of the Both-Sides Illusion — t
 
 - [OpenSecrets: Fanjul Corp Summary](https://www.opensecrets.org/orgs/fanjul-corp/summary?id=D000066714) (Tier 1)
 - [OpenSecrets: Fanjul Corp Recipients](https://www.opensecrets.org/orgs/fanjul-corp/recipients?id=D000066714) (Tier 1)
-- [OpenSecrets: Fanjul Corp Lobbying](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000066714) (Tier 1)
+- [OpenSecrets: Fanjul Corp Lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000066714) (Tier 1)
 - [OpenSecrets: Florida Sugar Cane League PAC](https://www.opensecrets.org/political-action-committees-pacs/florida-sugar-cane-league/C00012328/summary/2024) (Tier 1)
 - [GAO: Sugar Program Report (GAO-24-106144)](https://www.gao.gov/products/gao-24-106144) (Tier 1)
-- [USDA ERS: Sugar and Sweeteners Policy](https://www.ers.usda.gov/topics/crops/sugar-and-sweeteners/policy/) (Tier 1)
+- [USDA ERS: Sugar and Sweeteners Policy](https://www.ers.usda.gov/topics/crops/sugar-and-sweeteners/policy) (Tier 1)
 - [Congress.gov: Everglades Restoration Developments (IF11336)](https://www.congress.gov/crs-product/IF11336) (Tier 1)
 - [Bloomberg: Sugar Barons Amass $8 Billion Fortune by Mastering US Politics](https://www.bloomberg.com/news/articles/2017-08-09/sugar-barons-amass-8-billion-fortune-by-mastering-u-s-politics) (Tier 2)
 - [WLRN: Trump Quietly Lifted Ban on Dominican Sugar Company Over Forced Labor](https://www.wlrn.org/business/2025-03-20/trump-administration-quietly-lifted-ban-on-dominican-sugar-company-over-forced-labor) (Tier 2)
@@ -226,7 +226,7 @@ The Fanjul family is the vault's purest example of the Both-Sides Illusion — t
 - [NPR: Whatever Happened to the Deal to Save the Everglades?](https://www.npr.org/2013/10/10/230952946/what-ever-happened-to-the-deal-to-save-the-everglades) (Tier 2)
 - [Corporate Accountability Lab: Funds from Forced Labor](https://corpaccountabilitylab.org/calblog/2025/11/12/funds-from-forced-labor-what-the-daily-missed-about-the-fanjuls-donation-to-the-white-house-ballroom/) (Tier 2)
 - [Friends of the Everglades: Sugar Reform](https://www.everglades.org/sugar-reform-now/) (Tier 2)
-- [Sun-Sentinel: Starr Report Mentions Fanjul](https://www.sun-sentinel.com/news/fl-xpm-1998-09-15-9809140315-story.html) (Tier 2)
+- [Sun-Sentinel: Starr Report Mentions Fanjul](https://www.sun-sentinel.com/1998/09/15/starrs-report-mentions-fanjul/) (Tier 2)
 - [National Taxpayers Union: Sugar Import Program Costs](https://www.ntu.org/foundation/detail/the-sugar-import-program-costs-americans-billions) (Tier 2)
 - [Miami New Times: Big Sugar's Fanjul Family Hosting Both Clinton and Trump Fundraisers](https://www.miaminewtimes.com/news/big-sugars-fanjul-family-hosting-miami-fundraisers-for-both-clinton-and-trump-this-year-8670593/) (Tier 2)
 - [FEC: Marco Rubio candidate overview (S0FL00338)](https://www.fec.gov/data/candidate/S0FL00338/) (Tier 1) (Chrome verified 2026-03-31)
@@ -246,7 +246,7 @@ The Fanjul family is the vault's purest example of the Both-Sides Illusion — t
 - [LegiStorm: Brian Walsh — NSC Senior Director (Jan–Apr 2025)](https://www.legistorm.com/person/bio/5594/Brian_William_Walsh.html) (Tier 2) (Chrome verified 2026-03-31)
 - [LegiStorm: Victor Cervino — NSC Senior Director, Western Hemisphere Affairs (2025–)](https://www.legistorm.com/person/bio/5638/Victor_M_Cervino.html) (Tier 2) (Chrome verified 2026-03-31)
 - [The New York Times: Norman Braman, Marco Rubio's Wealthy Patron](https://www.nytimes.com/2015/05/10/us/politics/norman-braman-marco-rubios-wealthy-patron.html) (Tier 2) (URL confirmed, Chrome blocked by safety restrictions)
-- [I-On Defense Podcast: Lockheed Martin PrSM Increment 2 Caribbean Deployment](https://feeds.buzzsprout.com/1968463.rss) (Tier 3) (Chrome verified 2026-03-31 — RSS feed)
+- [I-On Defense Podcast: Lockheed Martin PrSM Increment 2 Caribbean Deployment](https://rss.buzzsprout.com/1968463.rss) (Tier 3) (Chrome verified 2026-03-31 — RSS feed)
 - [eScholarship: Ignorance Is Strength — Rubio received millions from Lockheed Martin, General Dynamics (2017–2022)](https://escholarship.org/content/qt3q86m244/qt3q86m244_noSplash_0d439f824d981bd526a33194a4039007.pdf) (Tier 2) (Chrome verified 2026-03-31)
 - [GovInfo: No Stolen Trademarks Honored in America Act (Public Law 118-137)](https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ137.xml) (Tier 1) (Chrome verified 2026-03-31)
 - [Newsweek: China Sanctions Boeing Over Taiwan Arms Sales — General Dynamics Land Systems on Unreliable Entities List](https://www.newsweek.com/china-sanctions-boeing-taiwan-arms-sales-1902818) (Tier 2) (Chrome verified 2026-03-31)

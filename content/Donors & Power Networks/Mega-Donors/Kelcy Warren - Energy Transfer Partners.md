@@ -134,7 +134,7 @@ Warren's $1M Abbott donation after the 2021 Texas freeze is the most cynical tra
 
 ### Sources
 
-- [FEC: Individual contributions — Warren, Kelcy (2010–2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=warren%2C+kelcy&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 984 contributions, 100% Republican, Energy Transfer Partners employer
+- [FEC: Individual contributions — Warren, Kelcy (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=warren%2C+kelcy&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 984 contributions, 100% Republican, Energy Transfer Partners employer
 - [Wikipedia: Kelcy Warren](https://en.wikipedia.org/wiki/Kelcy_Warren) (Tier 3) — Political activity section: $6M Perry, $103K Trump 2016, $10M America First Action, $20M+ total Trump, $1M Abbott, "removed from the gene pool" quote
 - [Wikipedia: Dakota Access Pipeline](https://en.wikipedia.org/wiki/Dakota_Access_Pipeline) (Tier 3) — DAPL construction timeline, Standing Rock protests, Trump executive order
 - [Energy Transfer LP: Investor Relations](https://www.energytransfer.com/investors/) (Tier 1) — Company financials, pipeline network scope, revenue data

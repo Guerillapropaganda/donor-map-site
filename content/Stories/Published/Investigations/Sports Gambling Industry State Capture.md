@@ -49,7 +49,7 @@ Alabama provides the clearest case study of sports betting industry capture at t
 
 This is direct purchase of legislation. SV&B paid $1.25M. Legal gambling market is projected to generate $200M+ in first-year revenue for operators (DraftKings, FanDuel, BetMGM). ROI: 16,000%.
 
-[Tier 2 - ProPublica](https://propublica.org/alabama-sports-betting) [Tier 1 - Alabama State Legislature Records](https://legislature.alabama.gov/?q=Sports%20Gambling%20Industry%20State%20Capture)
+[Tier 2 - ProPublica](https://propublica.org/alabama-sports-betting) [Tier 1 - Alabama State Legislature Records](https://alison.legislature.state.al.us?q=Sports%20Gambling%20Industry%20State%20Capture)
 
 ### Illinois: The $398.2K iGaming Expansion (2025)
 
@@ -64,7 +64,7 @@ Illinois legalized online gaming (iGaming) in 2025 after three years of legislat
 
 Illinois had rejected iGaming in 2021 and 2023 due to "consumer protection concerns." Those concerns evaporated when gambling industry dark money showed up.
 
-[Tier 2 - Better Government Association](https://bettergov.org/illinois-igaming) [Tier 1 - Illinois General Assembly Records](https://ilga.gov/?q=Sports%20Gambling%20Industry%20State%20Capture)
+[Tier 2 - Better Government Association](https://www.bettergov.org/illinois-igaming) [Tier 1 - Illinois General Assembly Records](https://ilga.gov/?q=Sports%20Gambling%20Industry%20State%20Capture)
 
 ### The Post-2018 Legalization Explosion
 

@@ -169,7 +169,8 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 
 ### Sources
 
-- [OpenSecrets: Richard Neal Campaign Finance](https://www.opensecrets.org/members-of-congress/cid=N00007222) (Tier 1)
+- [OpenSecrets: Richard Neal Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00007222) (Tier 1)
 
 profile-status:: ready
 content-readiness:: ready
+ 

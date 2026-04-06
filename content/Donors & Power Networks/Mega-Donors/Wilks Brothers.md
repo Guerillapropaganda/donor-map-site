@@ -2,12 +2,11 @@
 title: "Wilks Brothers — Dan and Farris Wilks"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-26
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
-federal-contracts: "1022969"
 ---
 
 #donor #mega-donor #energy #fracking #christian-nationalism #daily-wire #prageru #texas #media-infrastructure #class-analysis
@@ -146,13 +145,13 @@ The Wilks brothers represent **theocratic fossil fuel capital** — the intersec
 
 ### Sources
 
-- [FEC Individual Contributions: Farris Wilks (93 results, TX, 2010-2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=wilks%2C+farris&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Farris Wilks (93 results, TX, 2010-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=wilks%2C+farris&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1)
 - [Wikipedia: Dan and Farris Wilks](https://en.wikipedia.org/wiki/Dan_and_Farris_Wilks) (Tier 3)
 - [Vice: "How Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Crisis–Denial Empire" (Geoff Dembicki, Aug 2022)](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2)
 - [CNN: "How Two Texas Megadonors Have Turbocharged the State's Far-Right Shift" (Casey Tolan et al., Jul 2022)](https://www.cnn.com/2022/07/24/politics/texas-far-right-politics-invs) (Tier 2)
 - [ProPublica: "A Pair of Billionaire Preachers Built the Most Powerful Political Machine in Texas" (Ava Kofman, Oct 2024)](https://www.propublica.org/article/tim-dunn-farris-wilks-texas-christian-nationalism-dominionism-elections-voting) (Tier 2)
 - [Forbes: "The Forbes 400's Newest Undercover Billionaires: The Wilks Brothers" (Sep 2011)](https://www.forbes.com/sites/edwindurgy/2011/09/26/the-forbes-400s-newest-undercover-billionaires-the-wilks-brothers/) (Tier 2)
-- [The Daily Beast: "Big Money: Billionaire Brothers Give Ted Cruz $15M" (Jul 2015)](https://www.thedailybeast.com/big-money-billionaire-brothers-give-ted-cruz-dollar15m) (Tier 2)
+- [The Daily Beast: "Big Money: Billionaire Brothers Give Ted Cruz $15M" (Jul 2015)](https://www.thedailybeast.com/big-money-billionaire-brothers-give-ted-cruz-dollar15m) *(source unavailable)* (Tier 2)
 - [Wall Street Journal: "Frac Tech Got $3.5 Billion" (Dinny McMahon, May 2011)](https://www.wsj.com/articles/SB10001424052748704816604576333721284477312) (Tier 2)
 - [Rewire News Group: "Local Control? Texas Fracking Billionaires Say 'Not So Fast'" (Jun 2015)](https://rewirenewsgroup.com/2015/06/02/local-control-texas-fracking-billionaires-say-fast/) (Tier 2)
 - [The Daily Wire: About Us — founding history](https://www.dailywire.com/about) (Tier 1)
@@ -160,27 +159,3 @@ The Wilks brothers represent **theocratic fossil fuel capital** — the intersec
 ---
 
 content-readiness:: ready
-
-### Federal Contracts
-<!-- auto:sam-contracts start -->
-| Metric | Value |
-|--------|-------|
-| Total Contracts Found | 1022969 |
-| Sample Value (top 25) | $587K |
-| Year Range | 2003-2014 |
-| Federal Agencies | 8 |
-
-**Contracting agencies:** COMMERCE, DEPARTMENT OF, DEPT OF DEFENSE, EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, GENERAL SERVICES ADMINISTRATION, INTERIOR, DEPARTMENT OF THE, MILLENNIUM CHALLENGE CORPORATION, TRANSPORTATION, DEPARTMENT OF, TREASURY, DEPARTMENT OF THE
-
-**Recent contracts:**
-
-| Amount | Agency | Date |
-|--------|--------|------|
-| $13K | COMMERCE, DEPARTMENT OF | 2004-06-17 |
-| $3K | TREASURY, DEPARTMENT OF THE | 2013-08-08 |
-| $3K | TREASURY, DEPARTMENT OF THE | 2014-08-26 |
-| $3K | TREASURY, DEPARTMENT OF THE | 2012-08-16 |
-| $0 | TREASURY, DEPARTMENT OF THE | 2012-08-16 |
-
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Wilks%20Brothers%20%E2%80%94%20Dan%20and%20Farris%20Wilks&page=1&index=opp) (Tier 1)
-<!-- auto:sam-contracts end -->

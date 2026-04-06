@@ -133,7 +133,7 @@ The institutional continuity is the point. Jeffries was selected because he woul
 - [OpenSecrets: Democratic leadership profile — Hakeem Jeffries](https://www.opensecrets.org/news/2025/04/democratic-leadership-profile-hakeem-jeffries) (Tier 1)
 - [Sludge: Jeffries misleads on AIPAC PAC money](https://readsludge.com/2025/11/25/jeffries-misleads-on-aipac-pac-money/) (Tier 2)
 - [Sludge: House Democrats' anti-progressive PAC funded by corporate lobbyists](https://readsludge.com/2022/02/01/house-democrats-new-anti-progressive-pac-is-funded-by-corporate-lobbyists-and-pacs/) (Tier 2)
-- [The Real Deal: Jeffries on real estate and gentrification](https://therealdeal.com/issues_articles/the-closing-hakeem-jeffries/) (Tier 2)
+- [The Real Deal: Jeffries on real estate and gentrification](https://therealdeal.com/magazine/national-july-2020/the-closing-hakeem-jeffries/) (Tier 2)
 - [Britannica: Hakeem Jeffries biography](https://www.britannica.com/biography/Hakeem-Jeffries) (Tier 3)
 - [Ballotpedia: Hakeem Jeffries](https://ballotpedia.org/Hakeem_Jeffries) (Tier 3)
 
@@ -213,3 +213,4 @@ The transition is the most visible evidence that Democratic leadership is a dono
 
 --- (Tier 3)
 content-readiness:: ready
+ 

@@ -45,3 +45,19 @@ DSCC fundraising relies on three channels:
 - [Ballotpedia: DSCC](https://ballotpedia.org/Democratic_Senatorial_Campaign_Committee) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 491 contributions totaling $40.1M
+
+**ActBlue/WinRed conduit duplicates filtered:** 9
+
+| Top Recipient | Amount |
+|---|---|
+| ARIZONA DEMOCRATIC PARTY | $8.2M |
+| GEORGIA FEDERAL ELECTIONS COMMITTEE | $7.9M |
+| PENNSYLVANIA DEMOCRATIC PARTY | $6.4M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

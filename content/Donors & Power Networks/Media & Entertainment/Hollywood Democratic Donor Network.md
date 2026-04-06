@@ -139,7 +139,7 @@ Netflix has produced sympathetic biographical documentaries on Democratic politi
 - [OpenSecrets: Jeffrey Katzenberg donor profile](https://www.opensecrets.org/donor-lookup/results?name=Jeffrey+Katzenberg) (Tier 1)
 - [OpenSecrets: David Geffen donor profile](https://www.opensecrets.org/donor-lookup/results?name=David+Geffen) (Tier 1)
 - [OpenSecrets: Haim Saban donor profile](https://www.opensecrets.org/donor-lookup/results?name=Haim+Saban) (Tier 1)
-- [Variety: "Hollywood Donors Feel 'Tremendous Enthusiasm' for Kamala Harris"](https://variety.com/2024/politics/news/hollywood-donors-kamala-harris-support-joe-biden-1236080773/) (Tier 2)
+- [Variety: "Hollywood Donors Feel 'Tremendous Enthusiasm' for Kamala Harris"](https://variety.com/2024/politics/news/hollywood-donors-kamala-harris-support-joe-biden-jeffrey-katzenberg-1236080773/) (Tier 2)
 - [Hollywood Reporter: "Jeffrey Katzenberg rescues Democratic fundraising in Hollywood"](https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/) (Tier 2)
 - [The Ankler: "After Katzenberg: Hollywood Democrats Come Back To Life"](https://theankler.com/p/after-katzenberg-hollywood-democrats) (Tier 2)
 - [Writers Guild of America: 2023 Strike documentation and contract analysis](https://www.wga.org/news-events-press/news/archives-2023) (Tier 1)

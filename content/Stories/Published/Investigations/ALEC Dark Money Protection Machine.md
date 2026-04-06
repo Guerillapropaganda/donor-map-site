@@ -96,7 +96,7 @@ The difference between "1/4 of all state legislators" and actual 500 paid member
 
 But the actual paid membership of 500 represents something more troubling: a committed network of legislators who prioritize ALEC's corporate agenda. These 500 legislators are the core conduit for model legislation into state capitals.
 
-[Tier 1 - ALEC Form 990 (ProPublica Nonprofit Explorer)](https://projects.propublica.org/nonprofits/organizations/351663067) [Tier 2 - Center for Media and Democracy](https://alecexposed.org/?q=ALEC%20Dark%20Money%20Protection%20Machine)
+[Tier 1 - ALEC Form 990 (ProPublica Nonprofit Explorer)](https://projects.propublica.org/nonprofits/organizations/351663067) [Tier 2 - Center for Media and Democracy](https://www.alecexposed.org/wiki/ALEC_Exposed?q=ALEC%20Dark%20Money%20Protection%20Machine)
 
 ### Coordination Timing: When Laws Pass
 
@@ -129,7 +129,7 @@ The divide is stark: ALEC states are creating legal infrastructure for unaccount
 
 - [ProPublica: A Discreet Nonprofit Brings Together Politicians and Corporations to Write 'Model Bills'](https://www.propublica.org/article/a-discreet-nonprofit-brings-together-politicians-and-corporations-to-write-) (Tier 2)
 - [EXPOSEDbyCMD: ALEC State Lawmakers Lead Campaign to Conceal Conservative Donors](https://www.exposedbycmd.org/2023/07/13/alec-state-lawmakers-lead-campaign-to-conceal-conservative-donors/) (Tier 2)
-- [OpenSecrets: ALEC Funding and Members](https://www.opensecrets.org/dark-money/groups/american-legislative-exchange-council) (Tier 1)
+- [OpenSecrets: ALEC Funding and Members](https://www.opensecrets.org/orgs/all-profiles?cache=1775442294) (Tier 1)
 - [IRS Form 990: ALEC (ProPublica Nonprofit Explorer)](https://projects.propublica.org/nonprofits/organizations/351663067) (Tier 1)
 - [State Legislative Records: Personal Privacy Protection Act Tracking](https://ballotpedia.org/ALEC_Dark_Money_Protection_Machine) (Tier 2)
 

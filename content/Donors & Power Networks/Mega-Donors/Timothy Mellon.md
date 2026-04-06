@@ -225,27 +225,40 @@ Sources: [NOTUS: Mellon-RFK-Trump donor](https://www.notus.org/2024-election/tim
 - [OpenSecrets: Timothy Mellon 2024 donor profile](https://www.opensecrets.org/donor-lookup/results?name=timothy+mellon) (Tier 1)
 - [OpenSecrets News: Mellon as major donor](https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/) (Tier 1)
 - [Yahoo Finance: Mellon all-time political spending](https://finance.yahoo.com/news/reclusive-billionaire-timothy-mellon-has-spent-504-million-on-trump-and-gop-causes-113025926.html) (Tier 2)
-- [CNBC: Mellon political spending](https://www.cnbc.com/2024/11/07/timothy-mellon-quietly-spent-165-million-on-2024-election-making-him-second-largest-donor.html) (Tier 2)
+- [CNBC: Mellon political spending](https://www.cnbc.com/2024/11/07/timothy-mellon-quietly-spent-165-million-on-2024-election-making-him-second-largest-donor.html) *(source unavailable)* (Tier 2)
 
 ### $130M Military Payment:
-- [Fortune: Mellon donates $130M for military pay](https://fortune.com/2025/10/15/timothy-mellon-donates-130-million-to-military-pay-during-shutdown/) (Tier 2)
+- [Fortune: Mellon donates $130M for military pay](https://fortune.com/2025/10/15/timothy-mellon-donates-130-million-to-military-pay-during-shutdown/) *(source unavailable)* (Tier 2)
 - [The Hill: Military pay during shutdown](https://thehill.com/defense/military-operations-personnel/4926374-mellon-donates-military-pay-pentagon-shutdown/) (Tier 2)
 
 ### Immigration/Border Wall:
-- [Texas Tribune: Border wall defunded June 2025](https://www.texastribune.org/2025/06/02/texas-border-wall-funding/) (Tier 2)
+- [Texas Tribune: Border wall defunded June 2025](https://www.texastribune.org/2025/06/02/texas-border-wall-funding/) *(source unavailable)* (Tier 2)
 
 ### [[MAGA Inc]]:
-- [CNN Politics: MAGA Inc fundraising](https://www.cnn.com/politics/live-news/maga-super-pac-spending) (Tier 2)
+- [CNN Politics: MAGA Inc fundraising](https://web.archive.org/web/2024/https:/www.cnn.com/politics/live-news/maga-super-pac-spending) (Tier 2)
 - [U.S. News: MAGA Inc 2026 midterms](https://www.usnews.com/news/elections/articles/2026/01/15/maga-inc-enters-2026-with-300-million-war-chest) (Tier 2)
 
 ### Heritage/Project 2025:
 - [OpenSecrets: Sentinel Action Fund](https://www.opensecrets.org/orgs/sentinel-action-fund/summary) (Tier 1)
 
 ### Net Worth:
-- [Fortune: Mellon net worth estimates](https://fortune.com/person/timothy-mellon/) (Tier 2)
-- [Vanity Fair: Mellon family profile](https://www.vanityfair.com/news/2024/11/timothy-mellon-biography) (Tier 2)
+- [Fortune: Mellon net worth estimates](https://fortune.com/person/timothy-mellon/) *(source unavailable)* (Tier 2)
+- [Vanity Fair: Mellon family profile](https://archive.vanityfair.com/article/2024/10/a-house-divided) (Tier 2)
 
 ### Business:
 
 content-readiness:: ready
 research-status:: ready — $504M total spending documented with full breakdown by function, $130M military payment analyzed, MAGA Inc war chest tracked ($300M entering 2026), Abbott border wall failure ($53.1M for 8%), Heritage/Project 2025 connection, class analysis complete (old money dynastic preservation). All ### headers, Tier 1-2 sources verified. Promoted to ready Session 38k.
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 400 contributions totaling $322.5M
+
+| Top Recipient | Amount |
+|---|---|
+| MAKE AMERICA GREAT AGAIN INC. | $151.5M |
+| CONGRESSIONAL LEADERSHIP FUND | $61.0M |
+| SENATE LEADERSHIP FUND | $30.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

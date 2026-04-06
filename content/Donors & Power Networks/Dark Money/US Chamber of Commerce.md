@@ -234,9 +234,9 @@ The Chamber does not represent "business." It represents the capital class's int
 - [The Intercept: Nancy Pelosi Is Sitting on a Bill That Would Strengthen Unions — Chamber opposition to PRO Act](https://theintercept.com/2019/12/02/nancy-pelosi-usmca-pro-act-unions/) (Tier 2)
 
 ### Supreme Court Cases:
-- [SCOTUSblog: Citizens United v. FEC](https://www.scotusblog.com/case-files/cases/citizens-united-v-federal-election-commission/) (Tier 1)
-- [SCOTUSblog: Janus v. AFSCME](https://www.scotusblog.com/case-files/cases/janus-v-american-federation-state-county-municipal-employees-council-31/) (Tier 1)
-- [SCOTUSblog: Epic Systems Corp. v. Lewis](https://www.scotusblog.com/case-files/cases/epic-systems-corp-v-lewis/) (Tier 1)
+- [SCOTUSblog: Citizens United v. FEC](https://www.scotusblog.com/cases/case-files/citizens-united-v-federal-election-commission/) (Tier 1)
+- [SCOTUSblog: Janus v. AFSCME](https://www.scotusblog.com/cases/case-files/janus-v-american-federation-state-county-municipal-employees-council-31/) (Tier 1)
+- [SCOTUSblog: Epic Systems Corp. v. Lewis](https://www.scotusblog.com/cases/case-files/epic-systems-corp-v-lewis/) (Tier 1)
 
 ### Trump Relationship:
 - [Bloomberg: Chamber of Commerce congratulates Trump on 2024 victory](https://www.bloomberg.com/news/articles/2024-11-06/us-chamber-congratulates-trump-on-election-win) (Tier 2)
@@ -246,3 +246,17 @@ The Chamber does not represent "business." It represents the capital class's int
 - [Ballotpedia: US Chamber of Commerce political spending](https://ballotpedia.org/United_States_Chamber_of_Commerce) (Tier 3)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $5.5M
+
+| Top Recipient | Amount |
+|---|---|
+| BUCKEYE LEADERSHIP FUND, INC. | $4.1M |
+| FIRST FOR AMERICA | $250.0K |
+| SAVE MISSOURI VALUES | $100.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

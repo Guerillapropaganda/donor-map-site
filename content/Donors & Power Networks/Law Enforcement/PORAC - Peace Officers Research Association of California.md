@@ -91,7 +91,7 @@ Clean-Record Agreements — the most underreported mechanism of police union pow
 
 ### Sources
 
-- [CalMatters: Cop cash — law enforcement campaign contributions](https://calmatters.org/politics/2022/03/california-law-enforcement-campaign-contributions/) (Tier 2)
+- [CalMatters: Cop cash — law enforcement campaign contributions](https://calmatters.org/category/politics/2022/03/california-law-enforcement-campaign-contributions/) (Tier 2)
 - [UC Berkeley Journalism: PORAC clean-record agreements](https://journalism.berkeley.edu/projects/this-is-the-secret-system-that-covers-up-police-misconduct-and-ensures-problem-officers-can-get-hired-again/) (Tier 2)
 - [Courage California Institute: Police union spending](https://couragecaliforniainstitute.org/investing-in-public-safety-the-influence-of-police-unions-and-associations/) (Tier 2)
 - [FollowTheMoney.org: PORAC political spending](https://followthemoney.org/?q=PORAC) (Tier 1)

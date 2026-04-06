@@ -98,3 +98,17 @@ The fines don't change the behavior because the behavior is profitable. Denying 
 
 research-status:: ready — 12.6M members, $35.5M behested payments to Newsom, no-bid Medi-Cal contract AB 2724, $250M mental health fines, $50M record fine 2023, NUHW strike March 2026, nonprofit shield analysis. 8 sources, Tier 2-4. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 7 contributions totaling $9.7K
+
+| Top Recipient | Amount |
+|---|---|
+| ROMANOFF FOR COLORADO | $4.0K |
+| COMMITTEE TO RE-ELECT LORETTA SANCHEZ | $2.7K |
+| ALAMEDA COUNTY DEMOCRATIC CENTRAL COMMITTEE | $1.7K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

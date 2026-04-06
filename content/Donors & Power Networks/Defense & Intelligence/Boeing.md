@@ -2,7 +2,7 @@
 title: "Boeing"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-25
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -13,13 +13,6 @@ politicians-funded:
   - "Elizabeth Warren"
 issues:
   - "Defense & Military"
-federal-awards-total: 21221024559
-federal-contracts-count: 25
-federal-grants-count: 23
-ein: 916056255
-annual-revenue: "$914K"
-net-assets: "$468K"
-tax-year: "2023"
 ---
 
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor
@@ -130,7 +123,7 @@ Boeing hired 85 government officials in 2022 alone—more than any other defense
 - [OpenSecrets: Boeing Co Profile Summary](https://www.opensecrets.org/orgs/boeing-co/summary?id=D000000100) (Tier 1)
 
 ### 737 MAX Investigation & Deaths (Tier 2)
-- [NPR: Whistleblower Joshua Dean, who raised concerns about Boeing jets, dies at 45](https://www.npr.org/2024/05/02/1248929411/boeing-whistleblower-josh-dean-dead) (Tier 2)
+- [NPR: Whistleblower Joshua Dean, who raised concerns about Boeing jets, dies at 45](https://www.npr.org/2024/05/02/1248693512/boeing-whistleblower-josh-dean-dead) (Tier 2)
 - [NPR: Whistleblower John Barnett's family files wrongful death suit against Boeing](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead) (Tier 2)
 - [CBS News: Boeing whistleblower John Barnett died by suicide, police investigation concludes](https://www.cbsnews.com/news/boeing-whistleblower-john-barnett-suicide-police-investigation/) (Tier 2)
 - [Chicago Sun-Times: Boeing 737 MAX jetliner crashes and political donations](https://chicago.suntimes.com/2023/2/17/23599700/boeing-political-contributions-lion-air-indonesia-ethiopia-airliner-crashes-air-safety-faa) (Tier 2)
@@ -191,48 +184,18 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 research-status:: ready — Full citation pass complete. 737 MAX safety-profit contradiction, $43.4B buyback trap, 85-hire revolving door, Starliner failure, $206M lifetime lobbying. March 2026: Fischer earmark ROI ($34K → $60M MH-139A Grey Wolf), Iran war production scaling, $12.8B January 2026 contracts. 25+ sources (Tier 1-2), all ### headers, class analysis present. Updated gp-donor-node-builder Run 5 (March 25, 2026).
 content-readiness:: ready
 
-### Federal Spending (USASpending)
-<!-- auto:usaspending start -->
-| Metric | Value |
-|--------|-------|
-| All-Time Federal Awards | $21.2B |
-| Contracts (recent 3yr) | 25 ($229.5B sampled) |
-| Grants (recent 3yr) | 23 ($117.5M sampled) |
-| Federal Agencies | 5 |
+---
 
-**Top contracts:**
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $32.0B | Department of Defense | KC-X MODERNIZATION PROGRAM |
-| $22.4B | National Aeronautics and Space Administration | INTERNATIONAL SPACE STATION |
-| $18.8B | Department of Defense | 200112!000108!9700!ZD60 !BALLISTIC MISSILE DEFENSE ORG. !HQ000601C0001 !A!N!*!N! !20001222!20080930! |
-| $18.1B | Department of Defense | USN P-8A FRP II LONG LEAD MATERIAL |
-| $11.2B | Department of Defense | RSAF F-15 FLEET MODERNIZATION PROGRAM |
+**FEC contribution record:** 479 contributions totaling $822.4K
 
-**Top grants:**
+**ActBlue/WinRed conduit duplicates filtered:** 21
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $45.9M | National Aeronautics and Space Administration | 1. P1.TPC.IMP: THERMOPLASTICS - INTEGRATED MASTER SCHEDULE & PLAN DEVELOPMENT  2. RESIN INFUSION - I |
-| $11.5M | Department of Defense | GRANT |
-| $10.8M | Department of Defense | NEXT GENERATION ROTORCRAFT TRANSMISSION |
-| $10.0M | National Aeronautics and Space Administration | SINGLE SOURCE: TRANSONIC TRUSS BRACED WING VISION VEHICLE TECHNOLOGY DEVELOPMENT (5 JULY 2023) |
-| $6.0M | Department of Defense | RESILIENT, VERSATILE SPACE PHOTOVOLTAIC FACTORY FOR CONTESTED SPACE ENVIRONMENTS AND AN EVOLVING MAR |
+| Top Recipient | Amount |
+|---|---|
+| NRSC | $61.0K |
+| DCCC | $60.0K |
+| DSCC | $60.0K |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Boeing) (Tier 1)
-<!-- auto:usaspending end -->
-
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $914K |
-| Total Contributions | $0 |
-| Program Service Revenue | $908K |
-| Investment Income | $6K |
-| Total Expenses | $956K |
-| Net Assets | $468K |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 916056255](https://projects.propublica.org/nonprofits/organizations/916056255) (Tier 1)
-<!-- auto:propublica-990 end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

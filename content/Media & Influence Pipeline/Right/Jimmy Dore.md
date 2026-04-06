@@ -132,7 +132,7 @@ Jimmy Dore is the audience capture pipeline in its rawest form. Unlike Taibbi (w
 
 ### Sources
 
-- [FEC: Jimmy Dore individual contributions (1 result, $500 to Pete for Iowa)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=dore%2C+jimmy&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC: Jimmy Dore individual contributions (1 result, $500 to Pete for Iowa)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dore%2C+jimmy&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1)
 - [Bellingcat: Pro-Assad Lobby Group Rewards Bloggers On Both The Left And The Right](https://www.bellingcat.com/news/2019/09/30/pro-assad-lobby-group-rewards-bloggers-on-both-the-left-and-the-right/) (Tier 2)
 - [Newsweek: Jimmy Dore Boogaloo Boys Interview Sparks Outrage Among Critics](https://www.newsweek.com/jimmy-dore-boogaloo-bois-podcast-1564089) (Tier 2)
 - [Jacobin: Jimmy Dore Is Right About the Urgency of Medicare for All. But AOC Isn't the Problem.](https://jacobin.com/2020/12/jimmy-dore-aoc-medicare-for-all-pelosi-house-floor-vote-speaker) (Tier 2)
@@ -141,6 +141,6 @@ Jimmy Dore is the audience capture pipeline in its rawest form. Unlike Taibbi (w
 - [Wikipedia: Jimmy Dore](https://en.wikipedia.org/wiki/Jimmy_Dore) (Tier 3)
 - [Socialist Alternative: Jimmy Dore is Right — AOC Should Force a Floor Vote on Medicare for All](https://www.socialistalternative.org/2020/12/23/jimmy-dore-is-right-aoc-should-force-a-floor-vote-on-medicare-for-all/) (Tier 4)
 - [MEAWW: Jimmy Dore praises Boogaloo Boys — Internet slams 'politically confused' comedian](https://meaww.com/comedian-jimmy-dore-politically-confused-praises-boogaloo-boys-far-right-movement-black-lives-matter) (Tier 3)
-- [Laughfactory: Jimmy Dore biography](https://www.laughfactory.com/comedians/JimmyDore) (Tier 3)
+- [Laughfactory: Jimmy Dore biography](https://www.laughfactory.com/comedians/JimmyDore) *(source unavailable)* (Tier 3)
 
 content-readiness:: ready

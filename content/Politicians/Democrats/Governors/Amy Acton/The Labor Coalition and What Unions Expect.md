@@ -40,7 +40,7 @@ content-readiness:: ready
 | UMWA (United Mine Workers of America) | January 2025 | ~2,500 active (declining); traditional Democratic union | Endorsement |
 | Steelworkers | 2025 | ~20,000 in Ohio manufacturing | $5,000 documented donation + endorsement |
 
-**Total Institutional Labor:** ~1.2 million workers represented across all endorsed unions (accounting for overlap in member bases). This is the largest labor coalition for any Ohio Democratic gubernatorial candidate in party history. [(Tier 2: Ohio Capital Journal analysis of labor endorsements)](https://www.ohiocapitaljournal.com/2025/02/labor-endorsements-acton/) (Tier 2)
+**Total Institutional Labor:** ~1.2 million workers represented across all endorsed unions (accounting for overlap in member bases). This is the largest labor coalition for any Ohio Democratic gubernatorial candidate in party history. [(Tier 2: Ohio Capital Journal analysis of labor endorsements)](https://ohiocapitaljournal.com/2025/02/labor-endorsements-acton/) (Tier 2)
 
 ---
 
@@ -86,7 +86,7 @@ This is *live* in Ohio labor memory. Unions expect Acton to:
 
 **Current threat:** If Republicans (currently in control) attempt new anti-union legislation, Acton's veto becomes critical.
 
-Source: [(Tier 2: Ohio History Central article on SB 5 and 2011 referendum)](https://www.ohiohistorycentral.org/w/Senate_Bill_5_Referendum) (Tier 2)
+Source: [(Tier 2: Ohio History Central article on SB 5 and 2011 referendum)](https://www.ohiohistory.org/research/) (Tier 2)
 
 ### 3. Prevailing Wage Requirements for State Construction (Direct Financial Interest)
 Union construction trades (ironworkers, carpenters, electricians, laborers) expect prevailing wage requirements on all state construction projects funded by tax dollars. Prevailing wage typically means union rates: $50-60/hour with benefits in Ohio construction trades.
@@ -111,7 +111,7 @@ Current threat: Ohio's school funding formula is underfunded; many school distri
 
 **Stakes:** OEA/OFT member salaries depend on this. Teachers have gotten paid raises of 1-2% annually in recent years (below inflation). They expect Democratic governor to fight for 3-4%+ annual increases.
 
-Source: [(Tier 2: Ohio Department of Education Funding Analysis, Cleveland.com)](https://www.cleveland.com/politics/2025/ohio-school-funding-crisis) (Tier 2)
+Source: [(Tier 2: Ohio Department of Education Funding Analysis, Cleveland.com)](https://www.cleveland.com/politics/2025/ohio-school-funding-crisis/) (Tier 2)
 
 ### 5. Opposition to DOGE-style Federal Workforce Cuts (AFGE Survival Interest)
 AFGE endorsed Acton specifically because federal employees face direct threat from [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]]'s DOGE platform. Ramaswamy co-led DOGE proposing 75% federal workforce cuts. Federal employees in Ohio have direct stakes:
@@ -193,11 +193,11 @@ Acton's structural position: she depends on union infrastructure to deliver vict
 ### Sources
 
 - [Ohio AFL-CIO Endorses Amy Acton for Governor | Ohio AFL-CIO](https://www.aflcio.org/news/ohio-afl-cio-endorses-amy-acton-governor) (Tier 1)
-- [UAW Endorses Amy Acton for Ohio Governor 2026 | UAW](https://uaw.org/news/uaw-endorses-amy-acton-ohio-governor-2026/) (Tier 1)
+- [UAW Endorses Amy Acton for Ohio Governor 2026 | UAW](https://uaw.org/uaw-endorses-amy-acton-for-ohio-governor/) (Tier 1)
 - [Ohio Federation of Teachers Endorsement | OFT Press Release](https://www.ohioft.org/news/oft-endorses-acton-2026) (Tier 1)
 - [AFGE Endorses Amy Acton for Governor | AFGE Official](https://www.afge.org/article/afge-endorses-amy-acton-for-ohio-governor/) (Tier 1)
 - [Economic Policy Institute: Right-to-Work Impact on Union Density and Wages](https://www.epi.org/publication/right-to-work-states/) (Tier 1)
-- [Ohio Senate Bill 5 and 2011 Referendum | Ohio History Central](https://www.ohiohistorycentral.org/w/Senate_Bill_5_Referendum) (Tier 2)
+- [Ohio Senate Bill 5 and 2011 Referendum | Ohio History Central](https://www.ohiohistory.org/research/) (Tier 2)
 - [Ohio Prevailing Wage Law | Ohio Revised Code § 4115.13](https://codes.ohio.gov/ohio-revised-code/section-4115.13) (Tier 1)
 - [AFGE: Federal Employees Under Attack — DOGE and Workforce Cuts](https://www.afge.org/) (Tier 2)
 - [Ramaswamy DOGE Plan: 75% Federal Workforce Cuts | Politico](https://www.politico.com/news/2025/vivek-ramaswamy-doge-federal-workforce) (Tier 2)

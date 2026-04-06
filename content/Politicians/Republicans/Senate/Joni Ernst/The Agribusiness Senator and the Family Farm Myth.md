@@ -185,7 +185,7 @@ Retirement before the 2026 cycle avoided forcing a defense of the contradiction 
 - [USDA NASS: Iowa Farm Statistics 2020](https://www.nass.usda.gov/Statistics_by_State/Iowa/Publications/index.php) (Tier 1)
 - [Wikipedia: Concentrated Animal Feeding Operations](https://en.wikipedia.org/wiki/Concentrated_animal_feeding_operation) (Tier 3)
 - [National Resources Defense Council: Factory Farming Impacts](https://www.nrdc.org/stories/factory-farming-air-pollution) (Tier 2)
-- [Environmental Protection Agency: CAFOs Overview](https://www.epa.gov/agriculture/animal-feeding-operations-afos) (Tier 1)
+- [Environmental Protection Agency: CAFOs Overview](https://www.epa.gov/npdes/animal-feeding-operations-afos) (Tier 1)
 - [U.S. Senator Joni Ernst: Agriculture Priorities](https://www.ernst.senate.gov/priorities/agriculture) (Tier 1)
 - [NBC News: Republican Sen. Joni Ernst won't seek re-election in Iowa in 2026](https://www.nbcnews.com/politics/2026-election/republican-sen-joni-ernst-wont-seek-re-election-iowa-2026-rcna228053) (Tier 2)
 

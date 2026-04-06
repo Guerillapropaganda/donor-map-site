@@ -94,7 +94,7 @@ The absence of identified donor-to-policy conflicts in a race this safe reflects
 ## Sources
 
 - Wikipedia, "2026 Idaho Senate election" (Tier 3)
-- Federal Election Commission, "Jim Risch — Candidate Profile," https://www.fec.gov/data/candidate/S8ID00092/ (Tier 1)
+- Federal Election Commission, "Jim Risch — Candidate Profile," https://www.fec.gov/data/candidate/ *(source unavailable)*S8ID00092/ (Tier 1)
 - OpenSecrets, "James E. Risch — Industries," https://www.opensecrets.org/members-of-congress/james-e-risch/industries?cycle=CAREER (Tier 1)
 - Office of Jim Risch, Official Announcement (Tier 3)
 - Ballotpedia, "2026 Idaho Senate election" (Tier 3)

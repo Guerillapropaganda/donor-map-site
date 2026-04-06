@@ -162,7 +162,7 @@ The class function of Project Veritas was to provide opposition research infrast
 
 - [ProPublica Nonprofit Explorer: Project Veritas 990 filings (2012-2020)](https://projects.propublica.org/nonprofits/organizations/272894856) (Tier 1)
 - [International Business Times: Who's Behind Project Veritas](https://www.ibtimes.com/political-capital/whos-behind-project-veritas-sting-operation-against-washington-post-2620949) (Tier 2)
-- [SourceWatch: Bradley Impact Fund](https://www.sourcewatch.org/index.php/Bradley_Impact_Fund) (Tier 2)
+- [SourceWatch: Bradley Impact Fund](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Bradley_Impact_Fund) (Tier 2)
 - [Mother Jones: Bradley Foundation $86M to right-wing litigation and media (2022)](https://www.motherjones.com/politics/2024/04/bradly-impact-fund-michael-flynn-stephen-miller-culture-war-project-veritas-american-first-legal-cpi/) (Tier 2)
 - [Center for Media & Democracy: Bradley Funneled $86 Million to Right-Wing Infrastructure (2023)](https://www.exposedbycmd.org/2023/12/13/bradley-funneled-86-million-to-right-wing-litigation-policy-media-youth-groups-and-higher-education-in-2022/) (Tier 2)
 

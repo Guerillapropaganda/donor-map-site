@@ -186,7 +186,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 
 **Total Corporate PAC Donations:** $1.8 million across Ernst's career
 - **Note:** Specific company breakdowns (Tyson, Cargill, Monsanto, John Deere) not available in accessible search results; require direct FEC database queries
-- **Sources:** [End Citizens United: Reminder [[_Joni Ernst Master Profile|Joni Ernst]] Has Taken $1.8 Million From Corporate PACs](https://endcitizensunited.org/latest-news/press-releases/reminder-joni-ernst-has-taken-1-8-million-from-corporate-pacs/) (Tier 3)
+- **Sources:** [End Citizens United: Reminder [[_Joni Ernst Master Profile|Joni Ernst]] Has Taken $1.8 Million From Corporate PACs](https://www.endcitizensunited.org/) (Tier 3)
 
 ---
 

@@ -119,11 +119,27 @@ Trump administration — deregulatory alignment, inauguration donations
 - [Transparency USA: Uber Innovation PAC filings](https://www.transparencyusa.org/ca/committee/uber-innovation-pac-1439102-rcp) (Tier 2)
 - [Northern California Record: $30M PAC commitment](https://norcalrecord.com/stories/665656819-uber-invested-30-million-in-pac-aims-to-reshape-california-s-political-landscape/) (Tier 2)
 - [Yahoo Finance: Khosrowshahi/Uber Trump inauguration](https://finance.yahoo.com/news/uber-ceo-donate-1-million-213832942.html) (Tier 2)
-- [CalMatters: 2026 Uber ballot initiative](https://calmatters.org/economy/2026/02/uber-california-ballot-initiatives/) (Tier 2)
-- [ABC7: 2025 unionization bill](https://abc7news.com/post/governor-gavin-newsom-signs-bill-giving-800000-uber-and-lyft-drivers-in-california-the-right-to-unionize/17938887/) (Tier 2)
+- [CalMatters: 2026 Uber ballot initiative](https://calmatters.org/category/economy/2026/02/uber-california-ballot-initiatives/) (Tier 2)
+- [ABC7: 2025 unionization bill](https://abc7news.com/post/governor-gavin-newsom-signs-bill-giving-800000-uber-lyft-drivers-california-unionize/17938887/) (Tier 2)
 - [The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/) (Tier 2)
-- [OpenSecrets: Uber federal lobbying](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000067336) (Tier 1)
+- [OpenSecrets: Uber federal lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000067336) (Tier 1)
 - [FPPC: contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 
 research-status:: ready — Full citation pass complete. Prop 22 $59.5M, Innovation PAC $7M+ 2024, Trump inauguration $2M, 2025 unionization bill, 2026 ballot initiative, Flex Association lobby group. 12 sources, Tier 1-2. Sources reformatted from dash to bracket format. Promoted Session 38k.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 197 contributions totaling $23.4K
+
+**ActBlue/WinRed conduit duplicates filtered:** 303
+
+| Top Recipient | Amount |
+|---|---|
+| DAVID ROUZER FOR CONGRESS | $3.5K |
+| GRAVES FOR CONGRESS | $3.5K |
+| CITIZENS TO ELECT RICK LARSEN | $3.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -26,7 +26,7 @@ The [[Sixteen Thirty Fund|Sixteen Thirty Fund]] is the flagship vehicle of [[Ara
 
 ### What They Want
 
-The Fund prioritizes ballot measures over direct political giving. Its spending targets abortion access, voting rights expansion, climate policy, and judicial confirmation battles. In 2020 alone, Sixteen Thirty invested $410M across 200+ grant recipients. [Capital Research Center: Carpet-Bombed 2020](https://capitalresearch.org/article/sixteen-thirty-fund-carpet-bombed-2020-election-in-leftist-dark-money/) (Tier 3) The strategy is donor-class governance: deliver wins on cultural flashpoints (abortion, climate) that don't threaten wealth concentration or corporate power, while maintaining Democratic electoral dominance. Unlike single-donor networks (Soros, Bloomberg), Sixteen Thirty pools anonymous capital—the point is structural anonymity itself.
+The Fund prioritizes ballot measures over direct political giving. Its spending targets abortion access, voting rights expansion, climate policy, and judicial confirmation battles. In 2020 alone, Sixteen Thirty invested $410M across 200+ grant recipients. [Capital Research Center: Carpet-Bombed 2020](https://capitalresearch.org/article/sixteen-thirty-fund-carpet-bombed-the-2020-election-in-leftist-dark-money/) (Tier 3) The strategy is donor-class governance: deliver wins on cultural flashpoints (abortion, climate) that don't threaten wealth concentration or corporate power, while maintaining Democratic electoral dominance. Unlike single-donor networks (Soros, Bloomberg), Sixteen Thirty pools anonymous capital—the point is structural anonymity itself.
 
 ### Who They Fund (Temporal Mapping)
 
@@ -130,7 +130,7 @@ Talarico won 53.1% to 45.6%. Crockett, a Black congresswoman and national Democr
 
 - [Texas Tribune: Dark money floods Texas Senate primary races](https://www.texastribune.org/2026/02/20/texas-senate-dark-money-superpacs-talarico-hunt-crockett-paxton-cornyn/) (Tier 2)
 - [Texas Tribune: Talarico defeats Crockett in Democratic primary](https://www.texastribune.org/2026/03/03/texas-jasmine-crockett-james-talarico-us-senate-democratic-primary/) (Tier 2)
-- [Houston Public Media: Dark money fuels attack ads in Texas Senate primaries](https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/02/20/544003/dark-money-fuels-attack-ads-in-final-stretch-of-texas-us-senate-primaries/) (Tier 2)
+- [Houston Public Media: Dark money fuels attack ads in Texas Senate primaries](https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/02/20/544003/texas-senate-dark-money-superpacs-talarico-hunt-crockett-paxton-cornyn/) (Tier 2)
 - [House Oversight: Comer Continues to Investigate Dark Money Group's Efforts to Evade Campaign Finance Laws](https://oversight.house.gov/release/comer-continues-to-investigate-dark-money-groups-efforts-to-evade-campaign-finance-laws/) (Tier 1)
 
 ---
@@ -152,7 +152,7 @@ Republicans have launched formal investigations (James Comer Oversight Committee
 
 - [OpenSecrets: Sixteen Thirty Fund Profile](https://www.opensecrets.org/orgs/sixteen-thirty-fund/summary?id=D000070975) (Tier 1)
 - [Wikipedia: Sixteen Thirty Fund](https://en.wikipedia.org/wiki/Sixteen_Thirty_Fund) (Tier 3)
-- [Capital Research Center: Carpet-Bombed the 2020 Election with Dark Money](https://capitalresearch.org/article/sixteen-thirty-fund-carpet-bombed-2020-election-in-leftist-dark-money/) (Tier 3)
+- [Capital Research Center: Carpet-Bombed the 2020 Election with Dark Money](https://capitalresearch.org/article/sixteen-thirty-fund-carpet-bombed-the-2020-election-in-leftist-dark-money/) (Tier 3)
 - [Capital Research Center: Out of Darkness, Cash Part 1](https://capitalresearch.org/article/out-of-darkness-cash-part-1/) (Tier 3)
 - [House Oversight Committee: Comer Investigation into Chorus Program](https://oversight.house.gov/release/comer-launches-investigation-into-sixteen-thirty-funds-reported-secretive-chorus-program-effort-to-evade-campaign-finance-laws/) (Tier 1)
 - [Arabella Advisors - InfluenceWatch](https://www.influencewatch.org/for-profit/arabella-advisors/) (Tier 3)
@@ -164,3 +164,17 @@ Republicans have launched formal investigations (James Comer Oversight Committee
 
 research-status:: ready — Full citation pass complete. $410M 2020 cycle, $311M 2024 cycle, $1.5B Arabella total. Pop-up model documented (6 examples), DonorsTrust comparison, Demand Justice $50M+, temporal spending cycles (2018-2024), Texas 2026 primary dark money trail, Chorus program collapse. 10+ sources, Tier 1-3. All ### headers, callout blocks fixed. Promoted Session 38j.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 209 contributions totaling $101.4M
+
+| Top Recipient | Amount |
+|---|---|
+| FF PAC | $11.9M |
+| CHANGE NOW | $9.5M |
+| VICTORY 2020 | $7.7M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

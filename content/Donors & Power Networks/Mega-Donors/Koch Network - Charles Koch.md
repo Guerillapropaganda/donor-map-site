@@ -34,7 +34,7 @@ lobbying: [[Brownstein Hyatt Farber Schreck]] · [[Prime Policy Group]]
 
 ### Who They Are
 
-The Koch Network — the largest sustained political spending operation in American history, built by Charles Koch (net worth: $71.4 billion, 22nd richest globally) and his late brother David Koch (died August 2019). The network is not a single organization but an interconnected web of PACs, dark money groups, think tanks, legal organizations, and grassroots operations — sometimes called "the Kochtopus." [Source: [SourceWatch: Charles G. Koch](https://www.sourcewatch.org/index.php/Charles_G._Koch) (Tier 3)]
+The Koch Network — the largest sustained political spending operation in American history, built by Charles Koch (net worth: $71.4 billion, 22nd richest globally) and his late brother David Koch (died August 2019). The network is not a single organization but an interconnected web of PACs, dark money groups, think tanks, legal organizations, and grassroots operations — sometimes called "the Kochtopus." [Source: [SourceWatch: Charles G. Koch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Charles_G._Koch) (Tier 3)]
 
 **Koch Industries (rebranded Koch, Inc. in 2024):** $140 billion annual revenue. Divisions include Flint Hills Resources (oil refining), Georgia-Pacific (paper/building materials), Molex (electronics), INVISTA (chemicals), Koch Pipeline Company (4,000 miles). Privately held — no public shareholders, no quarterly earnings pressure, no disclosure requirements. This is the economic base that funds the political network. [Source: [OpenSecrets: Koch Industries profile](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1)]
 
@@ -75,8 +75,8 @@ The Koch network's political project is not a list of policy preferences — it 
 **[[Americans for Prosperity|Americans for Prosperity]] (AFP):** The grassroots arm. 37 state chapters. 35 states with permanent field staff. Claims 4 million+ advocates. 14 million doors knocked in 2024. 300+ legislative victories. Federal lobbying: $1.15 million (2024). As a 501(c)(4), AFP does not disclose its funders. This is the organization that shows up at your state capitol to lobby against prevailing wage, project labor agreements, and union rights. [Source: [OpenSecrets: Americans for Prosperity organizational profile](https://www.opensecrets.org/orgs/americans-for-prosperity/summary?id=D000024046) (Tier 2)]
 
 ### The Think Tank Pipeline:
-- **[[Cato Institute]]** (co-founded by Charles Koch, 1977): Libertarian policy research. Koch gave $30M+ in early years. [Source: [SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php/Cato_Institute) (Tier 3)]
-- **[[Mercatus Center]]** (George Mason University): Koch family donated $48 million to GMU (2011–2014 alone). Charles Koch is emeritus board member. [Source: [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php/Mercatus_Center) (Tier 3)]
+- **[[Cato Institute]]** (co-founded by Charles Koch, 1977): Libertarian policy research. Koch gave $30M+ in early years. [Source: [SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Cato_Institute) (Tier 3)]
+- **[[Mercatus Center]]** (George Mason University): Koch family donated $48 million to GMU (2011–2014 alone). Charles Koch is emeritus board member. [Source: [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center) (Tier 3)]
 - **Reason Foundation** (David Koch sat on board): Libertarian media — Reason Magazine, ReasonTV. Koch foundations gave $1.5M+/year at peak. [Source: [DeSmog: Reason Foundation](https://www.desmog.com/reason-foundation/) (Tier 2)]
 - **[[Heritage Foundation]]:** Koch vehicle (Claude R. Lambe Foundation) gave $4.8M total (1998–2012). Koch-linked nonprofits gave $845K+ since 2020. Heritage runs **Project 2025** — Koch network funneled $4.4M+ to Project 2025 advisory board members via [[Stand Together|Stand Together]] Trust (2022). [Source: [DeSmog: Koch Family Foundations & Entities](https://www.desmog.com/koch-family-foundations/) (Tier 2)]
 - **Pacific Research Institute** (California-based): $2.08M in Koch funding (1986–2018). On the Project 2025 advisory board. California's primary Koch-funded free-market think tank. [Source: [DeSmog: Koch Family Foundations & Entities](https://www.desmog.com/koch-family-foundations/) (Tier 2)]
@@ -91,7 +91,7 @@ The think tank pipeline is Koch's primary mechanism for converting donor dollars
 
 ### The Dark Money Pipeline:
 - **[[DonorsTrust|DonorsTrust]]:** Founded 1999. Distributed $195.3 million to 300+ right-wing groups in 2024 alone. Koch's Knowledge and Progress Fund gave $2.725M. Donors remain anonymous. [Source: [DeSmog: Koch Industries climate denial funding](https://www.desmog.com/koch-industries-inc/) (Tier 2)]
-- **Donors Capital Fund:** Parallel dark money conduit. Distributes hundreds of millions annually. [Source: [SourceWatch: Charles G. Koch](https://www.sourcewatch.org/index.php/Charles_G._Koch) (Tier 3)]
+- **Donors Capital Fund:** Parallel dark money conduit. Distributes hundreds of millions annually. [Source: [SourceWatch: Charles G. Koch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Charles_G._Koch) (Tier 3)]
 - **Stand Together Chamber of Commerce:** $25M to AFP Action (2024). Dark money nonprofit providing anonymity. [Source: [EXPOSEDbyCMD: Koch Super PAC shatters election spending record](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/) (Tier 2)]
 
 ---
@@ -294,7 +294,7 @@ Additionally, billionaire **Barre Seid** (Heartland Payment Systems) separately 
 > [!money] Dark Money Mathematics
 > A donor gives $1.6 billion to DonorsTrust. The donor gets a tax deduction immediately (roughly $560M in federal tax savings at 35% marginal rate). DonorsTrust distributes that capital over 20+ years to right-wing organizations, but no voter ever knows who funded the campaign against them. This is the mathematical advantage that conservative dark money has over transparent political giving: the deduction is permanent, the anonymity is permanent, and the political impact is permanent. The donor is never named. The organizations that receive the funding (State Policy Network, Federalist Society, ALEC, CEI) become the public faces of the agenda — while their funding sources remain hidden. This is the architecture that Charles Koch and Whitney Ball built.
 
-[Source: [ProPublica Nonprofit Explorer: DonorsTrust EIN 52-2166327](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1); [ProPublica Nonprofit Explorer: Donors Capital Fund EIN 54-1934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1); [Politico: Dark money donation conservative organizations](https://www.politico.com/news/2022/08/22/dark-money-donation-conservative-00052809) (Tier 2); [Mother Jones: DonorsTrust, the dark money donor-advised fund](https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/) (Tier 2) (UNVERIFIED); [The Guardian: DonorsTrust funding climate denial](https://www.theguardian.com/environment/2013/feb/14/donors-trust-funding-climate-denial-networks) (Tier 2)]
+[Source: [ProPublica Nonprofit Explorer: DonorsTrust EIN 52-2166327](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1); [ProPublica Nonprofit Explorer: Donors Capital Fund EIN 54-1934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1); [Politico: Dark money donation conservative organizations](https://www.politico.com/news/2022/08/22/dark-money-donation-conservative-00052809) (Tier 2); [Mother Jones: DonorsTrust, the dark money donor-advised fund](https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/) *(source unavailable)* (Tier 2) (UNVERIFIED); [The Guardian: DonorsTrust funding climate denial](https://www.theguardian.com/environment/2013/feb/14/donors-trust-funding-climate-denial-networks) (Tier 2)]
 
 ---
 
@@ -437,7 +437,7 @@ The Koch Network has systematically funded climate denial and obstruction for fo
 > [!contradiction] The Scientific Denial Model
 > Between 1986 and 2018, Koch network foundations donated $168.4 million to 90 organizations spreading climate denial. This is not a rounding error — it is the deliberate construction of an anti-scientific consensus infrastructure. The organizations that received Koch money (Heartland, Mercatus, CEI) employ similar tactics that tobacco companies used in the 1990s to deny secondhand smoke health effects: manufacture scientific doubt, publish "research" claiming regulation is unnecessary, and pressure politicians to oppose emissions controls. Koch's Heartland Institute explicitly worked with tobacco companies on these denial tactics in the 1990s. The climate denial operation is the same playbook, applied to carbon. The $168 million was the cost of manufacturing enough political obstruction to prevent U.S. carbon pricing for four decades — a regulatory protection worth billions annually to Koch Industries' fossil fuel operations.
 
-[Source: [Greenpeace – Koch Secretly Funding Climate Denial Machine](https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/) (Tier 2); [DeSmog – Koch Funding Unmasked](https://www.desmog.com/2010/03/29/koch-industries-extensive-funding-climate-denial-industry-unmasked/) (Tier 2); [EXPOSEDbyCMD – Dirty Dozen Funders](https://www.exposedbycmd.org/2022/03/21/the-dirty-dozen-the-biggest-nonprofit-funders-of-climate-denial/) (Tier 2); [NYT – What Charles Koch Donors Got at GMU](https://www.nytimes.com/2018/05/05/us/koch-donors-george-mason.html) (Tier 2)]
+[Source: [Greenpeace – Koch Secretly Funding Climate Denial Machine](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/) (Tier 2); [DeSmog – Koch Funding Unmasked](https://www.desmog.com/2010/03/29/koch-industries-extensive-funding-climate-denial-industry-unmasked/) (Tier 2); [EXPOSEDbyCMD – Dirty Dozen Funders](https://www.exposedbycmd.org/2022/03/21/the-dirty-dozen-the-biggest-nonprofit-funders-of-climate-denial/) (Tier 2); [NYT – What Charles Koch Donors Got at GMU](https://www.nytimes.com/2018/05/05/us/koch-donors-george-mason.html) (Tier 2)]
 
 ---
 
@@ -486,7 +486,7 @@ Each affiliate operates in its state with the same model: produce "research" pap
 
 **REDMAP — Redistricting Investment:** In 2010, the Koch Network invested $30M in state legislative races specifically to flip control of state houses in swing states (Pennsylvania, Ohio, Michigan, Wisconsin, North Carolina). The goal was to control redistricting after the 2010 Census. The campaign succeeded: Koch-aligned Republicans flipped 12 state legislatures and won 675 state seats. The resulting gerrymandered maps locked in a decade of Republican House majority, despite Democrats winning the popular vote in 2012, 2016, and 2018.
 
-[Source: [SourceWatch: ALEC Exposed](https://www.sourcewatch.org/index.php/ALEC_Exposed) (Tier 3) (UNVERIFIED); [Brookings: ALEC model bills more likely to become law](https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/) (Tier 2) (UNVERIFIED); [NELP: Workers lose billions from local minimum wage blocks](https://www.nelp.org/report-workers-lose-billions-wages-thanks-corporate-campaign-block-local-minimum-wage-increases/) (Tier 2); [SourceWatch: REDMAP](https://www.sourcewatch.org/index.php/REDMAP) (Tier 3) (UNVERIFIED)]
+[Source: [SourceWatch: ALEC Exposed](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/ALEC_Exposed) (Tier 3) (UNVERIFIED); [Brookings: ALEC model bills more likely to become law](https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/) *(source unavailable)* (Tier 2) (UNVERIFIED); [NELP: Workers lose billions from local minimum wage blocks](https://www.nelp.org/report-workers-lose-billions-wages-thanks-corporate-campaign-block-local-minimum-wage-increases/) (Tier 2); [SourceWatch: REDMAP](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/REDMAP) (Tier 3) (UNVERIFIED)]
 
 ---
 
@@ -827,7 +827,7 @@ The relationship between Charles Koch and Donald Trump is one of the most instru
 > [!contradiction] The Koch Network Paradox
 > The Koch Network both opposed and supported Trump simultaneously — a contradiction that reveals the deeper relationship between oligarchs and politicians. Charles Koch didn't need Trump to like him. He needed Trump to implement deregulation, tax cuts, and judicial appointments. Trump delivered on all three, and the Koch Network reaped $10–14 billion in tax savings and regulatory relief. The public positioning as "independent" maintained the Koch Network's intellectual credibility while the private calculation was purely transactional: "What did Trump give us?" Not the nomination, not personal loyalty — but policy outcomes worth billions. The 2024 cycle repeated the pattern: spend against Trump in the primary (maintain credibility with libertarian-leaning donors), then spend for Republican Congress (get the policy outcomes that matter). This is how donor-class politics works when multiple billionaires compete for influence: alliances form and dissolve based on policy returns, not personal relationships.
 
-[Source: [CNBC: Koch network warns donors closing wallets](https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html) (Tier 2) (UNVERIFIED); [CNBC: Koch network won't help Trump 2020](https://www.cnbc.com/2020/09/29/2020-presidential-election-why-koch-network-wont-help-trumps-bid.html) (Tier 2); [EXPOSEDbyCMD: The Koch Coup (2021)](https://www.exposedbycmd.org/2021/01/05/the-koch-coup-/) (Tier 2); [Forbes: Charles Koch shares his secret plan](https://www.forbes.com/sites/mattdurot/2023/10/10/billionaire-charles-koch-shares-his-secret-plan/) (Tier 2)]
+[Source: [CNBC: Koch network warns donors closing wallets](https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html) *(source unavailable)* (Tier 2) (UNVERIFIED); [CNBC: Koch network won't help Trump 2020](https://www.cnbc.com/2020/09/29/2020-presidential-election-why-koch-network-wont-help-trumps-bid.html) (Tier 2); [EXPOSEDbyCMD: The Koch Coup (2021)](https://www.exposedbycmd.org/2021/01/05/the-koch-coup-charles-kochs-political-machine-bankrolled-senators-who-will-attempt-to-steal-election-for-trump-tomorrow/) (Tier 2); [Forbes: Charles Koch shares his secret plan](https://www.forbes.com/sites/mattdurot/2023/10/10/billionaire-charles-koch-shares-his-secret-plan/) *(source unavailable)* (Tier 2)]
 
 ---
 
@@ -928,9 +928,9 @@ This architecture allows the Koch Network to:
 ### Existing Sources (Verified):
 - [OpenSecrets: Americans for Prosperity organizational profile](https://www.opensecrets.org/orgs/americans-for-prosperity/summary?id=D000024046) (Tier 2)
 - [EXPOSEDbyCMD: Koch Super PAC shatters election spending record](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/) (Tier 2)
-- [SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php/Cato_Institute) (Tier 3)
-- [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php/Mercatus_Center) (Tier 3)
-- [SourceWatch: Charles G. Koch](https://www.sourcewatch.org/index.php/Charles_G._Koch) (Tier 3)
+- [SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Cato_Institute) (Tier 3)
+- [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center) (Tier 3)
+- [SourceWatch: Charles G. Koch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Charles_G._Koch) (Tier 3)
 - [DeSmog: Reason Foundation](https://www.desmog.com/reason-foundation/) (Tier 2)
 - [DeSmog: Koch Industries climate denial funding](https://www.desmog.com/koch-industries-inc/) (Tier 2)
 - [DeSmog: Koch Family Foundations & Entities](https://www.desmog.com/koch-family-foundations/) (Tier 2)
@@ -943,23 +943,23 @@ This architecture allows the Koch Network to:
 - [ProPublica Nonprofit Explorer: Donors Capital Fund EIN 54-1934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
 - [ProPublica Nonprofit Explorer: Believe in People EIN 753148958](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1)
 - [ProPublica Nonprofit Explorer: Key Change EIN 521527294](https://projects.propublica.org/nonprofits/organizations/521527294) (Tier 1)
-- [Mother Jones: DonorsTrust, the dark money donor-advised fund](https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/) (Tier 2) (UNVERIFIED)
+- [Mother Jones: DonorsTrust, the dark money donor-advised fund](https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [The Guardian: DonorsTrust funding climate denial](https://www.theguardian.com/environment/2013/feb/14/donors-trust-funding-climate-denial-networks) (Tier 2)
 - [Politico: Dark money donation conservative organizations](https://www.politico.com/news/2022/08/22/dark-money-donation-conservative-00052809) (Tier 2) (UNVERIFIED)
 - [CREW: Americans for Prosperity tripled state lobbyists](https://www.citizensforethics.org/reports-investigations/crew-investigations/americans-prosperity-tripled-state-lobbyists-past-four-years/) (Tier 2)
 - [OpenSecrets: AFP Action Super PAC spending 2024](https://www.opensecrets.org/outside-spending/detail/2024?cmte=Americans+for+Prosperity) (Tier 1) (UNVERIFIED)
-- [SourceWatch: ALEC Exposed](https://www.sourcewatch.org/index.php/ALEC_Exposed) (Tier 3) (UNVERIFIED)
-- [Brookings: ALEC model bills more likely to become law](https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/) (Tier 2) (UNVERIFIED)
+- [SourceWatch: ALEC Exposed](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/ALEC_Exposed) (Tier 3) (UNVERIFIED)
+- [Brookings: ALEC model bills more likely to become law](https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [NELP: Workers lose billions from local minimum wage blocks](https://www.nelp.org/report-workers-lose-billions-wages-thanks-corporate-campaign-block-local-minimum-wage-increases/) (Tier 2)
-- [SourceWatch: REDMAP](https://www.sourcewatch.org/index.php/REDMAP) (Tier 3) (UNVERIFIED)
-- [CNBC: Koch network warns donors closing wallets](https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html) (Tier 2) (UNVERIFIED)
-- [Americans for Tax Fairness: Koch Brothers exposed](https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/) (Tier 2) (UNVERIFIED)
+- [SourceWatch: REDMAP](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/REDMAP) (Tier 3) (UNVERIFIED)
+- [CNBC: Koch network warns donors closing wallets](https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html) *(source unavailable)* (Tier 2) (UNVERIFIED)
+- [Americans for Tax Fairness: Koch Brothers exposed](https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [New Yorker: Koch pledge tied to congressional climate inaction](https://www.newyorker.com/news/news-desk/koch-pledge-tied-to-congressional-climate-inaction) (Tier 2)
 - [CNBC: Koch network won't help Trump 2020](https://www.cnbc.com/2020/09/29/2020-presidential-election-why-koch-network-wont-help-trumps-bid.html) (Tier 2)
 - [Politico States: Koch network pledges to shun lawmakers](https://www.politico.com/states/california/story/2021/01/13/koch-network-pledges-to-shun-lawmakers/) (Tier 2) (UNVERIFIED)
-- [EXPOSEDbyCMD: The Koch Coup (2021)](https://www.exposedbycmd.org/2021/01/05/the-koch-coup-/) (Tier 2)
+- [EXPOSEDbyCMD: The Koch Coup (2021)](https://www.exposedbycmd.org/2021/01/05/the-koch-coup-charles-kochs-political-machine-bankrolled-senators-who-will-attempt-to-steal-election-for-trump-tomorrow/) (Tier 2)
 - [Politico: Koch Nikki Haley 2024](https://www.politico.com/news/2024/02/25/koch-afp-nikki-haley-00143212) (Tier 2) (UNVERIFIED)
-- [Forbes: Charles Koch shares his secret plan](https://www.forbes.com/sites/mattdurot/2023/10/10/billionaire-charles-koch-shares-his-secret-plan/) (Tier 2) (UNVERIFIED)
+- [Forbes: Charles Koch shares his secret plan](https://www.forbes.com/sites/mattdurot/2023/10/10/billionaire-charles-koch-shares-his-secret-plan/) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [Politico Magazine: Koch brothers Chase Koch next generation](https://www.politico.com/magazine/story/2018/12/14/koch-brothers-chase-koch-next-generation-223099) (Tier 2) (UNVERIFIED)
 - [EXPOSEDbyCMD: Charles Koch's Stand Together donor conduits](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/) (Tier 2)
 
@@ -980,4 +980,3 @@ This architecture allows the Koch Network to:
 
 research-status:: developed — major expansion (April 1, 2026). Added 12 new sections: Donor Summit Machine, Key Network Donors, Freedom Partners financials, DonorsTrust architecture ($1.36B assets, $425M anonymous donation, top recipients list), expanded AFP (state infrastructure, win/loss record), AFP Action super PAC cycle breakdown, ALEC/State Policy Network ($70.5M Koch funding via DonorsTrust, 2,900 bills, 600+ enacted), Federal Policy ROI (TCJA, EPA deregulation, Paris withdrawal, Keystone XL, Federalist Society/judicial), Revolving Door table (44-50+ alumni in Trump admin), Koch-Trump relationship (2016 estrangement → 2017 tax cooperation → 2018 break → 2020 retreat → 2024-25 tactical alignment), Stand Together rebrand ($833M 2023 budget), Succession ($5.3B transfer, Chase Koch, Brian Hooks, Emily Seidel), and Complete Organization Architecture table (20 entities mapped). Donation-to-Policy Timeline expanded with 8 new rows. All new data (21 data points) merged. 50+ new source URLs added with (UNVERIFIED) tags. Ready for Chrome URL verification pass before promotion to ready.
 content-readiness:: developed
-

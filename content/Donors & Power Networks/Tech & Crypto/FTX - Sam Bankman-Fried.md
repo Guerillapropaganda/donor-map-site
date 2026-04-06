@@ -116,18 +116,18 @@ SBF represents the purest case study in the vault of money-as-political-infrastr
 
 ### Sources
 
-- [DOJ: United States v. Samuel Bankman-Fried — Indictment and Sentencing](https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried) (Tier 1)
+- [DOJ: United States v. Samuel Bankman-Fried — Indictment and Sentencing](https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak) (Tier 1)
 - [FEC: Protect Our Future PAC Committee Overview (C00801514)](https://www.fec.gov/data/committee/C00801514/) (Tier 1)
 - [Congress.gov: Digital Commodities Consumer Protection Act (S.4760)](https://www.congress.gov/bill/117th-congress/senate-bill/4760) (Tier 1)
 - [OpenSecrets: Protect Our Future PAC 2022](https://www.opensecrets.org/political-action-committees-pacs/protect-our-future-pac/C00801514/summary/2022) (Tier 1)
-- [OpenSecrets: FTX.US Lobbying Profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000073694) (Tier 1)
+- [OpenSecrets: FTX.US Lobbying Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000073694) (Tier 1)
 - [CNBC: SBF Convicted on All Seven Criminal Fraud Counts](https://www.cnbc.com/2023/11/02/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts.html) (Tier 2)
 - [NBC News: SBF Sentenced to 25 Years](https://www.nbcnews.com/business/business-news/sam-bankman-fried-sentenced-25-years-prison-orchestrating-ftx-fraud-rcna145286) (Tier 2)
 - [CBS News: SBF Political Donations — Where Did They Go?](https://www.cbsnews.com/news/ftx-sam-bankman-fried-political-donations-2022/) (Tier 2)
 - [Washington Post: SBF Donated Almost $40M — Here's Who Benefited](https://www.washingtonpost.com/business/2022/12/14/sbf-ftx-political-donations/) (Tier 2)
 - [Fortune: SBF Donated Just as Many Millions to Republicans via Dark Money](https://fortune.com/crypto/2022/11/29/sam-bankman-fried-political-donations-democrats-republicans-dark-money/) (Tier 2)
 - [TIME: SBF Political Donations — What We Know](https://time.com/6241262/sam-bankman-fried-political-donations/) (Tier 2)
-- [CoinDesk: Congress' FTX Problem — 1 in 3 Members Got Cash](https://www.coindesk.com/policy/2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses/) (Tier 2)
+- [CoinDesk: Congress' FTX Problem — 1 in 3 Members Got Cash](https://www.coindesk.com/policy2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses) (Tier 2)
 - [Gizmodo: Emails Show Ex-Regulators Helped SBF Get Access to CFTC](https://gizmodo.com/sbf-sam-bankman-fried-crypto-regulators-1849930890) (Tier 2)
 - [CNN: FTX to Politicians — Give Us Back Our Donations or We'll Sue](https://www.cnn.com/2023/02/06/investing/ftx-political-funds-bankruptcy/index.html) (Tier 2)
 - [CNBC: SBF Considered Paying Trump $5 Billion Not to Run](https://www.cnbc.com/2023/10/02/sam-bankman-fried-considered-paying-trump-5-billion-not-to-run-lewis.html) (Tier 2)

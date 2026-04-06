@@ -136,7 +136,7 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 - [Boston Globe: Lawmakers call for halt to Saudi arms sales — impact on Raytheon](https://www.bostonglobe.com/metro/2018/10/23/lawmakers-are-calling-for-halt-saudi-arms-sales-that-could-mean-big-hit-for-raytheon/) (Tier 2)
 - [Middle East Eye: McGovern leads bill to halt Saudi arms sales](https://www.middleeasteye.net/news/bill-halt-arms-sales-saudi-arabia-over-khashoggi-killing-introduced-us-congress) (Tier 2)
 - [GovTrack: Jim McGovern voting record](https://www.govtrack.us/congress/members/james_mcgovern/400263) (Tier 3)
-- [Ballotpedia: Jim McGovern](https://ballotpedia.org/Jim_McGovern_%28Massachusetts%29) (Tier 3)
+- [Ballotpedia: Jim McGovern](https://ballotpedia.org/Jim_McGovern_(Massachusetts)) (Tier 3)
 - [Wikipedia: Jim McGovern](https://en.wikipedia.org/wiki/Jim_McGovern_%28American_politician%29) (Tier 3)
 
 content-readiness:: ready

@@ -157,7 +157,7 @@ Nate Silver represents **quantitative centrism as class function** — the mecha
 
 ### Sources
 
-- [FEC Individual Contributions: Nate Silver (9 results — none confirmed as the statistician)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=nate+silver&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Nate Silver (9 results — none confirmed as the statistician)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=nate+silver&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Variety: "FiveThirtyEight Founder Nate Silver Leaving ABC News as Disney Layoffs Continue" (Apr 25, 2023)](https://variety.com/2023/digital/news/fivethirtyeight-nate-silver-leaves-abc-news-disney-layoffs-1235594060/) (Tier 2)
 - [Deadline: "Nate Silver To Depart ABC News As Disney Layoffs Continue" (Apr 25, 2023)](https://deadline.com/2023/04/abc-news-nate-silver-disney-layoffs-1235336747/) (Tier 2)
 - [Semafor: "FiveThirtyEight's Nate Silver Says He's Leaving ABC News Amid Disney Layoffs" (Apr 25, 2023)](https://www.semafor.com/article/04/25/2023/fivethirtyeights-nate-silver-says-hes-leaving-abc-news-amid-disney-layoffs) (Tier 2)

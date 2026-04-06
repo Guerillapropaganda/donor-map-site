@@ -104,3 +104,19 @@ Climate/EV — Prop 30 ($8M spent, Newsom opposed)
 
 research-status:: ready — $49M Prop 22, $930K/$760K lobbying, $8M Prop 30, 2025 insurance bill win, a16z investor connection, Flex Association co-founder. 6 sources, Tier 1-2. All ### headers. Promoted Session 38m.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 253 contributions totaling $484.4K
+
+**ActBlue/WinRed conduit duplicates filtered:** 226
+
+| Top Recipient | Amount |
+|---|---|
+| DEVELOPMENT NOW FOR CHICAGO | $300.8K |
+| THE GOOD LAND COMMITTEE, INC. | $50.0K |
+| DEMOCRATIC EXECUTIVE COMMITTEE OF FLORIDA | $40.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

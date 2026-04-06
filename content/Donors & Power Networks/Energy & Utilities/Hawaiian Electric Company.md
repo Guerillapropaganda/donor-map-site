@@ -2,14 +2,11 @@
 title: "Hawaiian Electric Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
-federal-awards-total: 11688026
-federal-contracts-count: 15
-federal-grants-count: 1
 ---
 
 #hawaiian-electric #heco #hawaii #maui #wildfire #utility #energy #monopoly
@@ -42,32 +39,16 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 
 content-readiness:: ready
 
-### Federal Spending (USASpending)
-<!-- auto:usaspending start -->
-| Metric | Value |
-|--------|-------|
-| All-Time Federal Awards | $11.7M |
-| Contracts (recent 3yr) | 15 ($187.8M sampled) |
-| Grants (recent 3yr) | 1 ($95.3M sampled) |
-| Federal Agencies | 5 |
+---
 
-**Top contracts:**
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $128.1M | Department of Defense | 200112!000326!5700!CA12  !30 CONS/LGC                     !N6274268C0001  !A!N!*!N!QW02              |
-| $22.5M | Department of Defense | IGF::OT::IGF  ELECTRIC UTILITY SERVICES |
-| $21.2M | Department of Defense | THIS CONTRACT IS AWARDED FOR THE OWNERSHIP, OPERATION AND MAINTENANCE OF THE ELECTRIC SYSTEMS LOCATE |
-| $4.9M | Department of Homeland Security | UTILITY SERVICES TO EXTEND THE 12KV UNDERGROUND LINE AND RENOVATE ELECTRICAL UTILITIES AT US COAST G |
-| $2.2M | Department of Justice | ELECTRIC UTILITY SERVICE PERIOD OF PERFORMANCE OCTOBER 1, 2022 - DECEMBER 31, 2023 CONTRACT #GS-00P- |
+**FEC contribution record:** 6 contributions totaling $4.5K
 
-**Top grants:**
+| Top Recipient | Amount |
+|---|---|
+| LINDA LINGLE SENATE COMMITTEE | $1.9K |
+| HANABUSA FOR HAWAII | $1.3K |
+| SCHATZ FOR SENATE | $775 |
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $95.3M | Department of Energy | BIPARTISAN INFRASTRUCTURE LAW - BIL - CLIMATE ADAPTATION RESILIENCE PROGRAM
-
-CLIMATE ADAPTATION RESI |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Hawaiian%20Electric%20Company) (Tier 1)
-<!-- auto:usaspending end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

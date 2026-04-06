@@ -496,7 +496,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - [OpenSecrets: GEO Group PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/C00382150/summary/2024) (Tier 1)
 - [OpenSecrets: GEO Group Donation Recipients](https://www.opensecrets.org/orgs/geo-group/recipients?id=D000022003) (Tier 1)
 - [OpenSecrets: GEO Group Totals by Cycle](https://www.opensecrets.org/orgs/geo-group/totals?id=D000022003) (Tier 1)
-- [OpenSecrets: For-Profit Prison Industry All-Time Recipients](https://www.opensecrets.org/industries/summary?cycle=All&ind=G7000&recipdetail=H&sortorder=N) (Tier 1)
+- [OpenSecrets: For-Profit Prison Industry All-Time Recipients](https://www.opensecrets.org/industries?cycle=All&ind=G7000&recipdetail=H&sortorder=N) (Tier 1)
 - [OpenSecrets: private prison political spending 2025](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 1)
 - [CREW: Private prison companies first to max out to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/private-prison-behemoth-is-first-corporation-to-max-out-to-trump/) (Tier 2)
 - [Sludge: GEO inaugural donation](https://readsludge.com/2025/01/29/prison-company-banking-on-ice-raids-donated-to-trump-inauguration/) (Tier 2)
@@ -505,7 +505,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 #### Lobbying & Revolving Door:
 - [OpenSecrets: GEO Group Lobbying](https://www.opensecrets.org/orgs/geo-group/lobbying?id=D000022003) (Tier 1)
-- [OpenSecrets: Federal Lobbying Summary](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000022003) (Tier 1)
+- [OpenSecrets: Federal Lobbying Summary](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000022003) (Tier 1)
 - [Project on Government Oversight (POGO): Private Prison Giant Hired ICE Detention Chief](https://www.pogo.org/investigates/private-prison-giant-hired-ice-detention-chief) (Tier 2)
 - [POGO: Locking In Profits — Top ICE Officials to GEO](https://www.pogo.org/investigates/locking-in-profits-top-ice-officials-leave-agency-to-serve-its-top-contractor) (Tier 2)
 - [Public Citizen: Pam Bondi Conflict of Interest](https://www.citizen.org/article/conflicted-justice/) (Tier 2)
@@ -515,12 +515,12 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 #### ICE Detention Expansion:
 - [Brennan Center: How ICE's Budget Boom Is Changing Immigration Detention](https://www.brennancenter.org/our-work/research-reports/how-ices-budget-boom-changing-immigration-detention) (Tier 2)
-- [Brennan Center: Trump reverses Biden private prison order](https://www.brennancenter.org/our-work/analysis-opinion/trump-reverses-biden-order-eliminated-doj-contracts-private-prisons/) (Tier 2)
+- [Brennan Center: Trump reverses Biden private prison order](https://www.brennancenter.org/our-work/analysis-opinion/trump-reverses-biden-order-eliminated-doj-contracts-private-prisons) (Tier 2)
 - [Brennan Center: Private prison windfall and eliminated oversight](https://www.brennancenter.org/our-work/analysis-opinion/private-prison-companies-enormous-windfall-who-stands-gain-ice-expands) (Tier 2)
 - [Brennan Center: Breaking down Biden's 2021 EO](https://www.brennancenter.org/our-work/research-reports/breaking-down-bidens-order-eliminate-doj-private-prison-contracts) (Tier 2)
 - [CREW: Trump budget benefits private detention companies](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2)
 - [NOTUS: private prison lobbying and contracts](https://www.notus.org/money/private-prisons-lobbying-corecivic-geo-group-immigration-detention) (Tier 2)
-- [TIME: ICE's Largest Prison Contractors Post Record Revenue](https://time.com/7378284/ice-immigration-detention-contractors-record-revenue/) (Tier 2)
+- [TIME: ICE's Largest Prison Contractors Post Record Revenue](https://time.com/7378284/ice-immigration-detention-contractors-record-revenue/revenue/) (Tier 2)
 - [Center for American Progress: One Big Beautiful Bill Act](https://www.americanprogress.org/article/congressional-republicans-one-big-beautiful-bill-act-creates-an-unaccountable-slush-fund-for-the-trump-administrations-deportation-force/) (Tier 2)
 
 #### Conditions & Deaths:
@@ -559,6 +559,4 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 ---
 
-research-status:: developed — Complete 2025 financials ($2.63B revenue, $254.4M profit, $520M new contracts), detailed ROI analysis ($2M political investment → $520M annual contracts = 260:1 return), comprehensive PAC history (2004–2024) with partisan shift documentation, donor-to-policy timeline with 12+ major correlation points, revolving door documentation (5 ICE officials to GEO leadership), state-level lobbying breakdown (Florida home state advantage, AB 32 federal override), Pam Bondi conflict of interest detail ($60K lobbying as FL AG + current role as U.S. Attorney General), BI Incorporated e-carceration expansion (ISAP V $1B IDIQ + skip-tracing $121M), racial disparity analysis (89% POC in CA private vs 75% public detention), CEO stock purchase detail ($3M bet that doubled), 25+ sources (Tier 1-3), 4 callout blocks (contradiction + money analysis), full temporal mapping with flags for 6-18 month correlation windows.
-
-content-readiness:: developed
+research-status:: developed — Complete 2025 financials ($2.63B revenue, $254.4M profit, $520M new contracts), detailed ROI analysis ($2M political investment → $520M annual cont

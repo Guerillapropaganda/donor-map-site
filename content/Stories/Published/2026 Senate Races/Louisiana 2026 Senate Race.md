@@ -92,7 +92,7 @@ This race represents a collision between Trump's personal vendetta against estab
 - Federal Election Commission Candidate Finance Data: Bill Cassidy (https://www.fec.gov/data/candidate/S6LA00182/) (Tier 1)
 - Federal Election Commission Candidate Finance Data: John Fleming (https://www.fec.gov/data/candidate/S6LA00318/) (Tier 1)
 - Federal Election Commission Candidate Finance Data: Julia Letlow (https://www.fec.gov/data/candidate/S6LA00334/) (Tier 1)
-- OpenSecrets Oil & Gas Industry Recipients (https://www.opensecrets.org/industries/summary?cycle=all&ind=E01&mem=Y&recipdetail=S) (Tier 1)
+- OpenSecrets Oil & Gas Industry Recipients (https://www.opensecrets.org/industries?cycle=all&ind=E01&mem=Y&recipdetail=S) (Tier 1)
 - Ballotpedia 2026 United States Senate Elections in Louisiana (https://ballotpedia.org/2026_United_States_Senate_elections) (Tier 3)
 - Louisiana Policy Review: Fleming Carbon Capture Vote Analysis (Tier 2)
 - AP News: Cassidy-Trump Primary Conflict Coverage (Tier 2)

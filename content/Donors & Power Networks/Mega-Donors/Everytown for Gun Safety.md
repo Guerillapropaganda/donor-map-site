@@ -2,7 +2,7 @@
 title: "Everytown for Gun Safety"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-23
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -10,10 +10,6 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Gavin Newsom"
   - "Kamala Harris"
-ein: 208802884
-annual-revenue: "$60.7M"
-net-assets: "$23.2M"
-tax-year: "2023"
 ---
 
 
@@ -81,22 +77,23 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 - [OpenSecrets — Michael Bloomberg donor profile](https://www.opensecrets.org/donor-lookup/results?name=michael+bloomberg) (Tier 1)
 - [FactCheck.org — Everytown vs. NRA spending comparison](https://www.factcheck.org/2024/01/americans-for-prosperity-7/) (Tier 2)
-- [Giffords Law Center — state gun law tracker](https://giffords.org/lawcenter/) (Tier 2)
+- [Giffords Law Center — state gun law tracker](https://giffords.org/lawcenter/gun-laws/) (Tier 2)
 
 research-status:: ready — Bloomberg $270M+ lifetime, $45M 2024 cycle, NRA outspent, Bipartisan Safer Communities Act, "good billionaire" class analysis. 4 sources, Tier 1-2. All ### headers. Promoted Session 38m.
 content-readiness:: ready
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $60.7M |
-| Total Contributions | $58.8M |
-| Program Service Revenue | $598K |
-| Investment Income | $749K |
-| Total Expenses | $55.3M |
-| Net Assets | $23.2M |
-| Officer Compensation | $262K |
+---
 
-- [Source: ProPublica Nonprofit Explorer — EIN 208802884](https://projects.propublica.org/nonprofits/organizations/208802884) (Tier 1)
-<!-- auto:propublica-990 end -->
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 443 contributions totaling $39.1M
+
+**ActBlue/WinRed conduit duplicates filtered:** 57
+
+| Top Recipient | Amount |
+|---|---|
+| EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND) | $35.3M |
+| SMP | $1.7M |
+| DEVELOPMENT NOW FOR CHICAGO | $250.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

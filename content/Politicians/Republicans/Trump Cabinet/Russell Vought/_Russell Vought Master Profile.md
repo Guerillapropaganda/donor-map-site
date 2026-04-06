@@ -2,14 +2,13 @@
 title: "Russell Vought Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Cabinet"
 top-donors:
   - "Leonard Leo"
-bioguide-id: "A000383"
 ---
 
 
@@ -108,20 +107,7 @@ Russell Vought. OMB Director (second term, confirmed February 2025, 53-47 party-
 - [PBS NewsHour: Russell Vought OMB influence](https://www.pbs.org/newshour/show/a-look-at-russell-voughts-influence-and-his-push-to-reshape-the-government) (Tier 2)
 - [Government Executive: Vought confirmation and Schedule F](https://www.govexec.com/management/2025/02/russ-vought-champion-schedule-f-and-slashing-agency-budgets-wins-confirmation-omb/402823/) (Tier 2)
 - [Heritage Foundation: Project 2025 Mandate for Leadership](https://www.heritage.org/press/project-2025-publishes-comprehensive-policy-guide-mandate-leadership-the-conservative-promise) (Tier 2)
-- [SourceWatch: Center for Renewing America](https://www.sourcewatch.org/index.php/Center_for_Renewing_America) (Tier 3)
+- [SourceWatch: Center for Renewing America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Center_for_Renewing_America) (Tier 3)
 - [Baptist News Global: Vought Christian nationalist statements](https://baptistnews.com/article/russell-vought-the-gung-ho-christian-nationalist-who-helps-trump-be-trump/) (Tier 2)
 - [OpenSecrets: Russell Vought fundraising and contributions](https://www.opensecrets.org/members-of-congress/search?name=vought) (Tier 1)
 content-readiness:: ready
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->

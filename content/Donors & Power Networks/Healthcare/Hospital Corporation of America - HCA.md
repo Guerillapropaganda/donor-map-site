@@ -51,3 +51,17 @@ Favorable Medicare/Medicaid reimbursement rates, preservation of certificate-of-
 - [Ballotpedia: HCA Healthcare](https://ballotpedia.org/HCA_Healthcare) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 18 contributions totaling $137.5K
+
+| Top Recipient | Amount |
+|---|---|
+| NRSC | $105.0K |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $15.0K |
+| COMMON SENSE COLORADO | $12.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

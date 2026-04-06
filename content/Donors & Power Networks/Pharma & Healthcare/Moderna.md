@@ -49,3 +49,15 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 - [Ballotpedia: Moderna](https://ballotpedia.org/Moderna) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 1 contributions totaling $450
+
+| Top Recipient | Amount |
+|---|---|
+| DEMOCRATIC PARTY OF NEW MEXICO | $450 |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

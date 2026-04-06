@@ -74,13 +74,13 @@ Florida's special election for a two-year Senate term (versus six-year terms for
 - [Cory Mills campaign finances and defense contractor ties | FEC](https://www.fec.gov/data/candidate/H2FL07156/) (Tier 1)
 - [Kat Cammack 2024-2026 political action committee activity | FEC](https://www.fec.gov/data/candidate/H2FL03015/) (Tier 1)
 - [Cory Mills and Republican primary challengers in Florida race | Politico](https://www.politico.com/news/florida-senate-special-election-2026) (Tier 2)
-- [Sugar industry political spending in Florida | FollowTheMoney](https://www.followthemoney.org/entity/c/1087342) (Tier 1)
-- [U.S. Sugar federal subsidies and lobbying 2000-2026 | Environmental Working Group](https://www.ewg.org/news-insights/news/sugar-subsidies-analysis) (Tier 2)
-- [Real estate developer contributions to Florida politicians | OpenSecrets](https://www.opensecrets.org/industries/real-estate) (Tier 1)
-- [DeSantis donor network coordination through official channels | Tampa Bay Times](https://www.tampabay.com/news/florida-politics/2026/03/desantis-donor-network-moody-campaign) (Tier 2)
-- [Florida homeowners insurance crisis and rate increases 2023-2025 | Florida Office of Insurance Regulation Reports](https://www.floir.com/reports) (Tier 1)
-- [Insurance industry political spending during hurricane season | CAP Watch](https://www.capwatch.org/florida-insurance-spending) (Tier 3)
-- [Homeowners Insurance PAC contributions to Florida politicians | FollowTheMoney Insurance PAC Data](https://www.followthemoney.org/entity/c/florida-homeowners-insurance) (Tier 1)
+- [Sugar industry political spending in Florida | FollowTheMoney](https://www.followthemoney.org/Security/login?BackURL=/entity/c/1087342) (Tier 1)
+- [U.S. Sugar federal subsidies and lobbying 2000-2026 | Environmental Working Group](https://www.ewg.org/news-insights/news/sugar-subsidies-analysis) *(source unavailable)* (Tier 2)
+- [Real estate developer contributions to Florida politicians | OpenSecrets](https://www.opensecrets.org/industries?Ind=F10) (Tier 1)
+- [DeSantis donor network coordination through official channels | Tampa Bay Times](https://www.tampabay.com/news/florida-politics/2026/03/desantis-donor-network-moody-campaign) *(source unavailable)* (Tier 2)
+- [Florida homeowners insurance crisis and rate increases 2023-2025 | Florida Office of Insurance Regulation Reports](https://www.floir.com/reports) *(source unavailable)* (Tier 1)
+- [Insurance industry political spending during hurricane season | CAP Watch](https://web.archive.org/web/2023/https:/www.capwatch.org/florida-insurance-spending) (Tier 3)
+- [Homeowners Insurance PAC contributions to Florida politicians | FollowTheMoney Insurance PAC Data](https://www.followthemoney.org/Security/login?BackURL=/entity/c/florida-homeowners-insurance) (Tier 1)
 
 ---
 

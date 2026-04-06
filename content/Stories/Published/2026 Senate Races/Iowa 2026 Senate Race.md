@@ -52,7 +52,7 @@ Sector-specific donor networks:
 ### Sources
 
 - [U.S. Senate candidates Ashley Hinson, Zach Wahls submit petitions for Iowa primary ballot | Iowa Capital Dispatch](https://iowacapitaldispatch.com/2026/03/11/u-s-senate-candidates-ashley-hinson-zach-wahls-submit-petitions-for-iowa-primary-ballot/) (Tier 2)
-- [Ashley Hinson takes massive fundraising edge in Iowa's open-seat U.S. Senate campaign | The Gazette](https://www.thegazette.com/campaigns-elections/ashley-hinson-takes-massive-fundraising-edge-in-iowas-open-seat-u-s-senate-campaign/) (Tier 2)
+- [Ashley Hinson takes massive fundraising edge in Iowa's open-seat U.S. Senate campaign | The Gazette](https://www.thegazette.com/news/elections/ashley-hinson-takes-massive-fundraising-edge-in-iowa-s-open-seat-u-s-senate-campaign/article_220dafe1-f9b3-5451-9cbe-6bf8a25bf0a0.html) (Tier 2)
 - [Democratic U.S. Senate candidates Zach Wahls, Josh Turek tout new endorsements | Iowa Capital Dispatch](https://iowacapitaldispatch.com/2025/11/18/democratic-u-s-senate-candidates-zach-wahls-josh-turek-tout-new-endorsements/) (Tier 2)
 - [2026 United States Senate election in Iowa | Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa) (Tier 3)
 

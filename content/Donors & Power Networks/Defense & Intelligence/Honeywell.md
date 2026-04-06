@@ -40,3 +40,17 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 ---
 
 `content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.2M
+
+| Top Recipient | Amount |
+|---|---|
+| NEW DEMOCRAT COALITION ACTION FUND | $126.0K |
+| SOLSTICE ADVANCED MATERIALS INC. POLITICAL ACTION COMMITTEE | $115.0K |
+| DCCC | $15.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

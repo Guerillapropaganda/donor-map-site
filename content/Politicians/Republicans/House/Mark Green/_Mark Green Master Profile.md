@@ -150,7 +150,7 @@ Then he left for the private sector, where the real money is.
 - [CNBC: Rep. Mark Green resigns from Congress](https://www.cnbc.com/2025/07/05/rep-mark-green-announces-resignation.html) (Tier 2)
 - [Nashville Banner: Uncertainty Surrounds Mark Green's Departure](https://nashvillebanner.com/2025/07/08/congressman-mark-green-resigns-special-election/) (Tier 2)
 - [We Are The Mighty: Congressman was Special Forces doctor who interrogated Saddam](https://www.wearethemighty.com/mighty-moments/badass-congressman-interrogated-saddam-hussein/) (Tier 3)
-- [Ballotpedia: Mark Green](https://ballotpedia.org/Mark_Green_%28Tennessee%29) (Tier 3)
+- [Ballotpedia: Mark Green](https://ballotpedia.org/Mark_Green_(Tennessee)) (Tier 3)
 - [Wikipedia: Mark Green (Tennessee politician)](https://en.wikipedia.org/wiki/Mark_Green_%28Tennessee_politician%29) (Tier 3)
 - [TriStar Daily: Former Tennessee Congressman Green Launches New Company](https://tristardaily.com/former-tennessee-congressman-mark-green-launches-new-company/) (Tier 3)
 

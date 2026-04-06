@@ -131,14 +131,14 @@ This is not corruption in the traditional sense—it's *class function*. The don
 - [Washington Post: Democratic donor Reid Hoffman gives $250,000 to Nikki Haley super PAC](https://www.washingtonpost.com/politics/2023/12/05/haley-superpac-donation-reid-hoffman/) (Tier 2)
 - [Badger Project: Silicon Valley billionaire giving millions to Wisconsin Democrats](https://thebadgerproject.org/2024/09/18/the-silicon-valley-billionaire-giving-millions-to-wisconsin-democrats/) (Tier 3)
 - [Microsoft News: Reid Hoffman Board Member](https://news.microsoft.com/source/exec/reid-hoffman/) (Tier 1)
-- [Fortune: LinkedIn co-founder Reid Hoffman joins Microsoft's board](https://fortune.com/2017/03/14/linkedin-cofounder-reid-hoffman-joins-microsoft-board/) (Tier 2)
+- [Fortune: LinkedIn co-founder Reid Hoffman joins Microsoft's board](https://fortune.com/2017/03/14/linkedin-reid-hoffman-microsoft/) (Tier 2)
 - [OpenSecrets: Dustin Moskovitz donor lookup](https://www.opensecrets.org/donor-lookup/results?name=Dustin+Moskovitz) (Tier 1)
 - [Factually: Top 10 Democratic donors 2024](https://factually.co/fact-checks/politics/top-10-democratic-donors-2024-amounts-6e8b40) (Tier 3)
 - [CNBC: Facebook co-founder Dustin Moskovitz tells why he donated $20 million to defeat Donald Trump](https://www.cnbc.com/2016/10/21/facebook-co-founder-dustin-moskovitz-tells-why-he-donated-20-million-to-defeat-donald-trump.html) (Tier 2)
 - [ProPublica: How Amazon and Silicon Valley Seduced the Pentagon](https://www.propublica.org/article/how-amazon-and-silicon-valley-seduced-the-pentagon) (Tier 2)
 - [Eric Schmidt Wikipedia: Political activities](https://en.wikipedia.org/wiki/Eric_Schmidt) (Tier 3)
 - [Tech Transparency Project: Eric Schmidt's Hidden Influence Over US Defense Spending](https://www.techtransparencyproject.org/articles/eric-schmidts-unseen-influence-over-us-defense-spending) (Tier 2)
-- [DefenseScoop: Eric Schmidt-led panel pushing for new defense experimentation unit](https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/) (Tier 2)
+- [DefenseScoop: Eric Schmidt-led panel pushing for new defense experimentation unit](https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/) (Tier 2)
 - [CBS News: Silicon shift - Major tech titans throw financial, political support to Trump](https://www.cbsnews.com/news/trump-jd-vance-silicon-valley-support/) (Tier 2)
 - [Fortune: How the 2024 election broke Silicon Valley](https://fortune.com/2024/09/25/paypal-silicon-valley-elon-musk-politics-kamala-trump-campaign/) (Tier 2)
 - [NPR: There's a presidential campaign donor battle going on in Silicon Valley](https://www.npr.org/2019/03/11/702102576/democratic-candidates-target-tech-giants-who-are-major-party-donors) (Tier 2)
@@ -148,3 +148,4 @@ This is not corruption in the traditional sense—it's *class function*. The don
 
 research-status:: ready — Full citation pass complete. Andreessen $3.3M→Trump (SEC crypto enforcement trigger), Musk $288M (CFPB/content mod trigger), Sacks $12M+ (crypto/AI trigger), Hoffman $7M stayed Dem (no regulatory conflict), Moskovitz $51M stayed Dem (SaaS aligned), Schmidt bipartisan (Pentagon contracts). 30 sources Tier 1-3 with URLs. All ### headers. Bold title→### converted. Promoted Session 39.
 content-readiness:: ready
+                   

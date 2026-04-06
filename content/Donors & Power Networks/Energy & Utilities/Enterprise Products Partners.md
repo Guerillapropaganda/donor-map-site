@@ -102,9 +102,22 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 - [Simply Wall St: EPD 2026 FCF guidance](https://simplywall.st/stocks/us/energy/nyse-epd/enterprise-products-partners/news/record-ebitda-and-robust-2026-fcf-guidance-might-change-the) (Tier 3)
 - [OpenSecrets: Enterprise Products Partners contributions](https://www.opensecrets.org/orgs/enterprise-products-partners/summary?id=D000033463) (Tier 1)
 - [OpenSecrets: Enterprise Products PAC](https://www.opensecrets.org/political-action-committees-pacs/enterprise-products-partners/C00496752/summary/2024) (Tier 1)
-- [OpenSecrets: Enterprise Products lobbying](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000033463) (Tier 1)
+- [OpenSecrets: Enterprise Products lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000033463) (Tier 1)
 
 ---
 
 research-status:: draft — Financial profile and political contribution data documented from research dossier and OpenSecrets. Gaps: detailed lobbying issue analysis, specific policy outcomes linked to contributions, historical contribution trends, connections to specific legislation (pipeline permitting bills, MLP tax provisions). FEC API available for deeper contribution analysis.
 content-readiness:: draft
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 333 contributions totaling $1.0M
+
+| Top Recipient | Amount |
+|---|---|
+| ENTERPRISE PRODUCTS PARTNERS L.P. POLITICAL ACTION COMMITTEE | $80.0K |
+| CAMPAIGN FOR CHANGE | $43.7K |
+| BRADY FOR CONGRESS | $36.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

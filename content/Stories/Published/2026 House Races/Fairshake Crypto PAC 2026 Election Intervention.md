@@ -244,9 +244,9 @@ Either interpretation suggests that stated legislative objectives mask narrower 
 
 ## Sources
 
-- Federal Election Commission, Fairshake Committee (C00835959): https://www.fec.gov/data/committee/C00835959/ (Tier 1)
-- Federal Election Commission, Defend American Jobs (C00836221): https://www.fec.gov/data/committee/C00836221/ (Tier 1)
-- Federal Election Commission, Protect Progress (C00848440): https://www.fec.gov/data/committee/C00848440/ (Tier 1)
+- Federal Election Commission, Fairshake Committee (C00835959): https://www.fec.gov/data/committee/ *(source unavailable)*C00835959/ (Tier 1)
+- Federal Election Commission, Defend American Jobs (C00836221): https://www.fec.gov/data/committee/ *(source unavailable)*C00836221/ (Tier 1)
+- Federal Election Commission, Protect Progress (C00848440): https://www.fec.gov/data/committee/ *(source unavailable)*C00848440/ (Tier 1)
 - Public Citizen, FEC Complaint Against Coinbase (Aug 1, 2024) (Tier 2)
 - Molly White, Citation Needed, "Crypto PAC Spending in 2026" (Feb 20, 2026) (Tier 2)
 - Politico, "Coinbase CEO Opposes CLARITY Act Draft" (Jan 28, 2026) (Tier 2)

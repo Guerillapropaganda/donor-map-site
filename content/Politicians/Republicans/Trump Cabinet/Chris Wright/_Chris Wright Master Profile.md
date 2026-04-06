@@ -2,7 +2,7 @@
 title: "Chris Wright Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,8 +11,6 @@ issues:
   - "Energy & Climate"
 top-donors:
   - "Koch Network - Charles Koch"
-total-received: "$10,625"
-fec-candidate-id: "H4NY16095"
 ---
 
 
@@ -112,18 +110,7 @@ Chris Wright. Secretary of Energy (2025–present). Founder and CEO of Liberty E
 - [ProPublica: Doublespeak of Energy Secretary Chris Wright](https://www.propublica.org/article/energy-secretary-chris-wright-climate-change-double-speak-oil-gas-trump) (Tier 2)
 - [Brennan Center: Fossil fuel donors see major returns](https://www.brennancenter.org/our-work/analysis-opinion/fossil-fuel-industry-donors-see-major-returns-trumps-policies) (Tier 2)
 - [Common Dreams: Big oil's $445M investment in Trump](https://www.commondreams.org/news/big-oil-donations-trump) (Tier 2)
-- [FEC: Chris Wright contribution records](https://www.fec.gov/data/receipts/?_contributors=wright,+chris) (Tier 1)
+- [FEC: Chris Wright contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=wright,+chris) (Tier 1)
 - [OpenSecrets.org: Chris Wright donation profile](https://www.opensecrets.org/individuals/chris-wright) (Tier 1)
 content-readiness:: ready
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2024 |
-| Total Raised | $10,625 |
-| Individual Contributions | $312 |
-| Cash on Hand | 0.00 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY16095/) (Tier 1)
-<!-- auto:fec-politician end -->
+ 

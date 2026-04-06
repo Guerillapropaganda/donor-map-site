@@ -163,7 +163,7 @@ Meta's 82-85% revolving door rate is among the highest in corporate America. The
 > Meta spent $24.4 million on federal lobbying in 2024 plus $65 million on state-level super PACs = $89.4 million total political deployment. This protects a business that generates $134 billion in annual revenue. The lobbying-to-revenue ratio (0.067%) means Meta spends less than one-tenth of one percent of its revenue on political protection. The FTC case threatening Instagram divestiture alone threatens $100+ billion in asset value. The $89.4M is insurance on a $100B+ asset — a premium of less than 0.1%.
 
 - [OpenSecrets: Meta Platforms organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1) (Chrome-verified)
-- [OpenSecrets: Meta Platforms lobbying profile](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000033563) (Tier 1) (Chrome-verified)
+- [OpenSecrets: Meta Platforms lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000033563) (Tier 1) (Chrome-verified)
 
 ---
 
@@ -262,15 +262,15 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 
 ### FEC & OpenSecrets (Chrome-verified):
 - [OpenSecrets: Meta Platforms organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1)
-- [OpenSecrets: Meta Platforms lobbying profile — 2024](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000033563) (Tier 1)
+- [OpenSecrets: Meta Platforms lobbying profile — 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000033563) (Tier 1)
 - [OpenSecrets: Meta PAC profile — C00502906](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Section 230 lobbying breakdown — $59M Meta spend (2020-2023)](https://www.opensecrets.org/federal-lobbying/issues?id=D000033563) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Section 230 lobbying breakdown — $59M Meta spend (2020-2023)](https://www.opensecrets.org/federal-lobbying/industries?id=D000033563) (Tier 1) (UNVERIFIED)
 
 ### Government & Legal:
-- [FTC: FTC v. Meta Platforms case documents](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc) (Tier 1) (Chrome-verified — redirected URL)
-- [FTC Press Release: $5 billion fine and 20-year compliance order (July 2019)](https://www.ftc.gov/news-events/press-releases/2019/07/facebook-settles-ftc-charges-it-violated-consumers-privacy) (Tier 1) (UNVERIFIED)
+- [FTC: FTC v. Meta Platforms case documents](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc-ftc-v-meta-platforms-inc) (Tier 1) (Chrome-verified — redirected URL)
+- [FTC Press Release: $5 billion fine and 20-year compliance order (July 2019)](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook) (Tier 1) (UNVERIFIED)
 - [Sullivan & Cromwell: FTC Antitrust Case — Judge Boasberg Ruling Analysis](https://www.sullcrom.com/) (Tier 2)
-- [TechPolicy.Press: FTC Antitrust Tracker — Meta case status](https://techpolicy.press/) (Tier 2)
+- [TechPolicy.Press: FTC Antitrust Tracker — Meta case status](https://www.techpolicy.press/) (Tier 2)
 
 ### Investigative Journalism:
 - [Yahoo Finance/Bloomberg: Meta's next political bet on AI will be at the state level](https://finance.yahoo.com/news/metas-next-political-bet-ai-144148602.html) (Tier 2)
@@ -286,7 +286,7 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 - [CalMatters: Meta California lobbying spending 2025](https://calmatters.org/) (Tier 2)
 - [Bloomberg Gov: California lobbying records — Meta state spending](https://www.bloomberggov.com/) (Tier 2)
 - [CNBC: Meta lobbying records and state-level operations](https://www.cnbc.com/) (Tier 2)
-- [AdExchanger: ADPPA front groups and Meta lobbying infrastructure](https://adexchanger.com/) (Tier 2)
+- [AdExchanger: ADPPA front groups and Meta lobbying infrastructure](https://www.adexchanger.com/) (Tier 2)
 
 ### Secondary:
 - [Ballotpedia: Meta Platforms political spending](https://ballotpedia.org/Meta_Platforms) (Tier 3)
@@ -295,3 +295,15 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 
 research-status:: developed → expanded (April 1, 2026). Added 9 new major sections: (1) Federal Lobbying by Year (2009-2025, $200M+ cumulative, Kaplan effect analysis); (2) Meta PAC detail (FEC C00502906: $341,607 raised, $197,300 to candidates, 40% D / 57% R, top recipients); (3) Section 230 & privacy regulation detail ($59M lobbying 2020-2023, ADPPA front-group strategy, APRA stripped of private right of action); (4) Revolving door table (7 named individuals: Kaplan, Clegg, Levine, Martin, Jordan, Dearborn, Harbath; 89% government service rate); (5) State-level lobbying (California: $4.6M direct, $1.245M behested, $30M total footprint; New York $823K coalition); (6) FTC settlements expanded (Cambridge Analytica $725M, SEC $100M, 2019 FTC $5B fine detail). 25 total sources (7 Tier 1: 2 OpenSecrets, FTC, 4 new UNVERIFIED sources; 12 Tier 2; 1 Tier 3; 5 UNVERIFIED journalist outlets). Maintained all existing Chrome-verified sources exactly. Identified key Kaplan effect: 100x post-2011 lobbying increase, nearly $100x pre-Kaplan rate per Sen. Warren.
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 6 contributions totaling $7.0K
+
+| Top Recipient | Amount |
+|---|---|
+| NEVADANS FOR STEVEN HORSFORD | $7.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

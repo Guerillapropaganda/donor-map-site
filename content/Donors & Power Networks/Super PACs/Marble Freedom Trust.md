@@ -107,7 +107,7 @@ The contradiction is explicit: the organization claims to defend constitutional 
 ### Sources
 
 - [ProPublica: Marble Freedom Trust tax filings](https://projects.propublica.org/nonprofits/organizations/854970843) (Tier 1)
-- [Leonard Leo biography and Federalist Society ties](https://www.federalsociety.org/about-us) (Tier 3)
+- [Leonard Leo biography and Federalist Society ties](https://fedsoc.org/about-us) (Tier 3)
 - [ProPublica: How a Secretive Billionaire Handed His Fortune to the Architect of the Right-Wing Takeover of the Courts](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
 - [North Carolina Supreme Court 2022 election results and downstream policy](https://ballotpedia.org/North_Carolina_Supreme_Court) (Tier 3)
 

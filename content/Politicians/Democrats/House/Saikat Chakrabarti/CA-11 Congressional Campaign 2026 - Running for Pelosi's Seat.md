@@ -168,10 +168,10 @@ content-readiness:: Developed
 
 ### Sources
 
-- FEC SAIKAT FOR CONGRESS (C00897314): https://www.fec.gov/data/committee/C00897314/ (Tier 1)
-- FEC Candidate H6CA11219: https://www.fec.gov/data/candidate/H6CA11219/ (Tier 1)
-- FEC Scott Wiener Committee (C00909283): https://www.fec.gov/data/committee/C00909283/ (Tier 1)
-- FEC Connie Chan Committee (C00927558): https://www.fec.gov/data/committee/C00927558/ (Tier 1)
+- FEC SAIKAT FOR CONGRESS (C00897314): https://www.fec.gov/data/committee/ *(source unavailable)*C00897314/ (Tier 1)
+- FEC Candidate H6CA11219: https://www.fec.gov/data/candidate/ *(source unavailable)*H6CA11219/ (Tier 1)
+- FEC Scott Wiener Committee (C00909283): https://www.fec.gov/data/committee/ *(source unavailable)*C00909283/ (Tier 1)
+- FEC Connie Chan Committee (C00927558): https://www.fec.gov/data/committee/ *(source unavailable)*C00927558/ (Tier 1)
 - OpenSecrets Patrick Collison: https://www.opensecrets.org/donor-lookup/results?name=patrick+collison&state=CA (Tier 1)
 - OpenSecrets Stripe Inc: https://www.opensecrets.org/orgs/stripe-inc/totals?id=D000069820 (Tier 1)
 - Politico "San Francisco's Establishment Moves to Sink a Progressive House Candidate" (March 27, 2026): https://www.politico.com/news/2026/03/27/san-franciscos-establishment-moves-to-sink-a-progressive-house-candidate-00847914 (Tier 2)

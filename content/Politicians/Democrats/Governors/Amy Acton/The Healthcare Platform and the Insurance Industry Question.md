@@ -164,7 +164,7 @@ Acton can win the first category; she cannot address the second without dismantl
 - [CBS News: The billionaire who fueled JD Vance's rapid rise — Peter Thiel and biotech connections](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/) (Tier 2)
 - [DOGE Federal Workforce Cuts: 75% Reduction Plan | Politico](https://www.politico.com/news/2024/11/doge-federal-workforce-cuts) (Tier 2)
 - [FDA Deregulation as Pharma Industry Benefit | STAT News](https://www.statnews.com/article/fda-deregulation-pharma/) (Tier 2)
-- [Health Insurance Industry Lobbying Spending (2020-2026) | OpenSecrets](https://www.opensecrets.org/industries/lobbying.php?ind=H04) (Tier 1)
+- [Health Insurance Industry Lobbying Spending (2020-2026) | OpenSecrets](https://www.opensecrets.org/federal-lobbying/industries?ind=H04) (Tier 1)
 - [NPR: As Sanders Calls for Medicare for All, a Twist on That Plan Gains Traction](https://www.npr.org/sections/health-shots/2019/04/11/711902886/as-sanders-calls-for-medicare-for-all-a-twist-on-that-plan-gains-traction) (Tier 2)
 
 ---

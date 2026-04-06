@@ -140,8 +140,8 @@ Trump's expansion of detention from 46,000 to 66,000 beds during 2025 served as 
 
 ### Sources
 
-- [OpenSecrets: Private prison industry political spending](https://www.opensecrets.org/industries/indus.php?ind=G4900) (Tier 1)
-- [The Sentencing Project: Private prison industry analysis](https://www.sentencingproject.org/publications/private-prisons-united-states-2023-brief/) (Tier 2)
+- [OpenSecrets: Private prison industry political spending](https://www.opensecrets.org/industries?ind=G4900) (Tier 1)
+- [The Sentencing Project: Private prison industry analysis](https://www.sentencingproject.org/reports/private-prisons-in-the-united-states/) (Tier 2)
 - [DHS: ICE budget and detention statistics](https://www.dhs.gov/publication/budget-overview) (Tier 1)
 - [Brennan Center: Private Prison Companies' Enormous Windfall](https://www.brennancenter.org/our-work/analysis-opinion/private-prison-companies-enormous-windfall-who-stands-gain-ice-expands) (Tier 2)
 - [Common Dreams: GEO Group record $254M profit after new ICE contracts](https://www.commondreams.org/news/geo-group-ice-profits) (Tier 2)

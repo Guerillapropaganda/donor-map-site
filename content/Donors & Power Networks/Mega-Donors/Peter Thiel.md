@@ -2,7 +2,7 @@
 title: "Peter Thiel"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,7 +11,6 @@ politicians-funded:
   - "Donald Trump"
   - "JD Vance"
   - "David Sacks"
-total-political-spend: "$52,259,953"
 ---
 
 
@@ -102,17 +101,20 @@ This is not a donor buying influence. This is an architect building a system.
 
 ### Palantir contract explosion:
 — Federal contracts: $4.4M (2009) → $541M (2024) → $970.5M (2025). Nearly doubled in one year of the second Trump term.
-— $10 billion 10-year Army contract (2025).
-— $1.3 billion DoD Project Maven contract.
-— ICE ImmigrationOS contract ($30M 2024 + $90M renewal) — AI tracking of undocumented immigrants.
-— $1 billion+ Navy contracts.
-— NSA XKEYSCORE support (classified).
+— $10 billion 10-year Army contract (July 31, 2025) — consolidates 75 prior contracts into a single ceiling.
+— $1 billion 5-year DHS purchasing agreement (February 2026) — covers ICE, FEMA, TSA, CISA.
+— $795 million Maven Smart System expansion (Pentagon AI battlefield targeting).
+— $876M 10-year DCGS-A contract (Army intelligence analysis, March 2019, won after Palantir sued the Army to force competition).
+— ICE ImmigrationOS ($30M April 2025, contract 70CTD022FR0000170) + cumulative $200M+ ICE Investigative Case Management — "near real-time visibility" on deportation targets, travel data, visa records, biometrics, social media.
+— Palantir market cap: $16B IPO (September 2020) → $475B peak (October 2025) → $355B (April 2026).
 — Thiel's Palantir stock rose 140% after Trump's election.
 [Source: CNBC — Tier 2; The Intercept — Tier 2; The Hill — Tier 2]
 
 ### Founders Fund portfolio government contracts:
 — Anduril Industries (Palmer Luckey): expanded Army contract valued at $20 billion+ for autonomous military drones and AI defense systems.
 — Scale AI: Department of Defense partnership.
+— SpaceX: Founders Fund was first institutional investor; sitting on a >$19.5 billion unrealized gain.
+— Founders Fund Growth IV nearing $6 billion close (March 2026); total AUM ~$17 billion.
 — The portfolio is increasingly dependent on government spending. Thiel's political investments produce government contracts for his financial investments. The loop closes.
 
 ### A vice president:
@@ -179,7 +181,7 @@ Media/free press — Gawker precedent as billionaire weapon against journalism
 - [Cato Institute: "I no longer believe freedom and democracy are compatible"](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/) (Tier 1)
 - [Jacobin: Thiel as philosopher king](https://jacobin.com/2025/10/peter-thiel-would-be-philosopher-king-takes-on-democracy) (Tier 2)
 - [Bloomberg: Thiel allies in Trump government](https://www.bloomberg.com/features/2025-peter-thiel-trump-administration-connections/) (Tier 2)
-- [NPR: Gawker settlement](https://www.npr.org/sections/thetwo-way/2016/11/02/500389355/hulk-hogan-reaches-settlement-with-gawker) (Tier 2)
+- [NPR: Gawker settlement](https://www.npr.org/sections/thetwo-way/2016/11/02/500389355/hulk-hogan-reaches-settlement-with-gawker-worth-over-31-million) (Tier 2)
 - [NBC News: PayPal Mafia Trump connections](https://www.nbcnews.com/tech/tech-news/mapping-trumps-connections-techs-right-wing-brotherhood-rcna180693) (Tier 2)
 - [CNBC: Thiel steps down from Meta board](https://www.cnbc.com/2022/02/07/peter-thiel-to-step-down-from-facebook-board.html) (Tier 2)
 - [NZ Herald: citizenship details](https://www.nzherald.co.nz/indepth/national/how-peter-thiel-got-new-zealand-citizenship/) (Tier 2)
@@ -198,27 +200,18 @@ content-readiness:: ready
 - [Bloomberg: Billionaires Thiel and Uihlein pump millions into Republican PAC](https://www.bloomberg.com/news/articles/2026-03-19/billionaires-thiel-and-uihlein-pump-millions-into-republican-pac) (Tier 2)
 - [Crain's Chicago Business: Thiel and Uihlein pump millions into GOP PAC](https://www.chicagobusiness.com/politics-policy/ccb-thiel-and-uihlein-pump-millions-into-gop-pac-20260319/) (Tier 2)
 
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $52,259,953 |
-| Contributions | 475 |
+---
 
-**Top recipients:**
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| SAVING ARIZONA PAC | $20,000,000 | — |
-| PROTECT OHIO VALUES PAC (POV PAC) | $15,000,000 | — |
-| CLUB FOR GROWTH ACTION | $4,500,000 | — |
-| ENDORSE LIBERTY, INC | $2,600,000 | — |
-| FREE FOREVER POLITICAL ACTION COMMITTEE | $2,100,000 | — |
-| CONSERVATIVE, AUTHENTIC, RESPONSIVE LEADERSHIP FOR YOU AND FOR AMERICA | $2,000,000 | — |
-| MAKE AMERICA NUMBER 1 | $1,000,000 | — |
-| FIGHTING FOR OHIO FUND | $1,000,000 | — |
-| GROW THE MAJORITY | $852,200 | — |
-| REPUBLICAN NATIONAL COMMITTEE | $585,923 | REP |
+**FEC contribution record:** 475 contributions totaling $52.3M
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Peter%20Thiel) (Tier 1)
-<!-- auto:fec-donor end -->
+**ActBlue/WinRed conduit duplicates filtered:** 25
+
+| Top Recipient | Amount |
+|---|---|
+| SAVING ARIZONA PAC | $20.0M |
+| PROTECT OHIO VALUES PAC (POV PAC) | $15.0M |
+| CLUB FOR GROWTH ACTION | $4.5M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

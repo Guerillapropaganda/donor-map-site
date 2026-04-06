@@ -125,7 +125,7 @@ John G. Roberts Jr. Chief Justice of the United States (2005–present). Nominat
 - [Brennan Center: Shelby County v. Holder Turns 10](https://www.brennancenter.org/our-work/research-reports/shelby-county-v-holder-turns-10-and-voting-rights-continue-suffer-it) (Tier 2)
 - [NAACP LDF: Impact of Shelby County v. Holder](https://www.naacpldf.org/shelby-county-v-holder-impact/) (Tier 2)
 - [Supreme Court: Loper Bright Enterprises v. Raimondo (Official Opinion)](https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf) (Tier 1)
-- [SCOTUSblog: Loper Bright Enterprises v. Raimondo](https://www.scotusblog.com/cases/case-files/loper-light-enterprises-v-raimondo/) (Tier 2)
+- [SCOTUSblog: Loper Bright Enterprises v. Raimondo](https://www.scotusblog.com/cases/case-files/loper-bright-enterprises-v-raimondo/) (Tier 2)
 - [ProPublica: We Don't Talk About Leonard — The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 - [NPR: How One Man Brought Justices Roberts, Alito and Gorsuch to the Supreme Court](https://www.npr.org/2017/04/12/523495201/how-one-man-brought-justices-roberts-alito-and-gorsuch-to-the-supreme-court) (Tier 2)
 - [SCOTUSblog: NFIB v. Sebelius](https://www.scotusblog.com/cases/case-files/national-federation-of-independent-business-v-sebelius/) (Tier 2)
@@ -133,3 +133,4 @@ John G. Roberts Jr. Chief Justice of the United States (2005–present). Nominat
 - [NPR: Supreme Court Justices' Disclosures Reveal Details of Their Wealth](https://www.npr.org/2023/06/28/1183337280/supreme-court-ethics-financial-disclosures-possible-conflicts-of-interest) (Tier 2)
 - [Congress.gov: Loper Bright and the Future of Agency Interpretations](https://www.congress.gov/crs-product/R48320) (Tier 1)
 content-readiness:: ready
+ 

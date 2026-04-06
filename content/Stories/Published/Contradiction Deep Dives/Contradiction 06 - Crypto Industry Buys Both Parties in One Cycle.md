@@ -160,17 +160,17 @@ The both-sides framing — "crypto has Democrats and Republicans" — obscures t
 - [CNBC: "How tech bros bought 'America's most pro-crypto Congress ever'"](https://www.cnbc.com/2024/11/23/how-tech-bros-bought-americas-most-pro-crypto-congress-ever.html) (Tier 2)
 
 ### Sherrod Brown / Ohio Race (Tier 2)
-- [CoinDesk: "Crypto PACs Dominate Ohio Senate Race, Spending $40M on Sherrod Brown's Foe"](https://www.coindesk.com/policy/2024/09/26/crypto-pacs-dominate-ohio-senate-race-spending-40m-on-sherrod-browns-foe) (Tier 2)
+- [CoinDesk: "Crypto PACs Dominate Ohio Senate Race, Spending $40M on Sherrod Brown's Foe"](https://www.coindesk.com/policy2024/09/26/crypto-pacs-dominate-ohio-senate-race-spending-40m-on-sherrod-browns-foe) (Tier 2)
 - [Bloomberg: "Crypto Spenders Get Big Win With Ohio's Bernie Moreno Defeating Sherrod Brown"](https://www.bloomberg.com/news/articles/2024-11-06/crypto-spenders-get-big-win-with-ohio-s-bernie-moreno-defeating-sherrod-brown) (Tier 2)
 - [Washington Post: "In Critical Ohio Senate Race, Crypto Cash Looks to Tip the Scales"](https://www.washingtonpost.com/business/2024/09/20/ohio-senate-race-crypto-cash/) (Tier 2)
 
 ### [[_Katie Porter Master Profile|Katie Porter]] (Tier 2)
-- [CoinDesk: "Crypto Political Group Fairshake Targets California Senate Candidate Katie Porter"](https://www.coindesk.com/policy/2024/02/13/crypto-political-group-fairshake-targets-california-democrat-sen-katie-porter) (Tier 2)
+- [CoinDesk: "Crypto Political Group Fairshake Targets California Senate Candidate Katie Porter"](https://www.coindesk.com/policy2024/02/13/crypto-political-group-fairshake-targets-california-democrat-sen-katie-porter) (Tier 2)
 - [Axios: "Crypto super PAC unloads on Katie Porter in California Senate race"](https://www.axios.com/2024/02/28/fairshake-crypto-pac-katie-porter-ads-california-senate) (Tier 2)
 
 ### FIT21 Vote & Democratic Defection (Tier 2)
-- [CoinDesk: "U.S. House Approves Crypto FIT21 Bill With Wave of Democratic Support"](https://www.coindesk.com/policy/2024/05/22/us-house-approves-crypto-fit21-bill-with-wave-of-democratic-support) (Tier 2)
-- [The American Prospect: "The Democrats' Crypto Dam Finally Broke. Now What?"](https://prospect.org/politics/2024-07-31-crypto-cash-affecting-democratic-races/) (Tier 2)
+- [CoinDesk: "U.S. House Approves Crypto FIT21 Bill With Wave of Democratic Support"](https://www.coindesk.com/policy2024/05/22/us-house-approves-crypto-fit21-bill-with-wave-of-democratic-support) (Tier 2)
+- [The American Prospect: "The Democrats' Crypto Dam Finally Broke. Now What?"](https://prospect.org/2024/07/31/2024-07-31-crypto-cash-affecting-democratic-races/) (Tier 2)
 - [Fortune: "The Democrats' crypto dam finally broke"](https://fortune.com/crypto/2024/05/23/fit21-vote-democrats-crypto-dam-finally-broke-now-what/) (Tier 2)
 
 ### GENIUS Act (Tier 1/2)
@@ -189,9 +189,10 @@ The both-sides framing — "crypto has Democrats and Republicans" — obscures t
 
 ### Major Crypto Contributions (Tier 2)
 - [CNBC: "Coinbase, a16z Contribute $78 Million to Pro-Crypto PAC for 2026"](https://www.cnbc.com/2024/11/04/coinbase-a16z-contribute-78-million-to-pro-crypto-pac-for-2026-election.html) (Tier 2)
-- [CoinDesk: "Ripple Drops Another $25M Into Crypto PAC to Sway 2026 Congressional Races"](https://www.coindesk.com/policy/2024/11/26/ripple-drops-another-usd25m-into-crypto-pac-to-sway-2026-congressional-races) (Tier 2)
+- [CoinDesk: "Ripple Drops Another $25M Into Crypto PAC to Sway 2026 Congressional Races"](https://www.coindesk.com/policy2024/11/26/ripple-drops-another-usd25m-into-crypto-pac-to-sway-2026-congressional-races) (Tier 2)
 
 ---
 
 research-status:: ready — Full citation pass complete. Fairshake $155M (94% from 4 companies), $238-290M total crypto spending (48% of ALL corporate election spending), FIT21 279-136 (71 Democratic defectors), GENIUS Act 68-30, Sherrod Brown $40M destruction, Katie Porter $10M primary, Gensler→Atkins SEC capture, Strategic Bitcoin Reserve, 91% win rate across 58 races, class analysis. 37 sources Tier 1-2 with URLs. All ### headers. Promoted Session 38n.
 content-readiness:: ready
+                   

@@ -189,3 +189,17 @@ For the vault's framework: DMFI is the Israel lobby's version of what the Koch n
 
 research-status:: developed — Added founding details (Jan 29 2019, Mark Mellman, Ann Lewis, Todd Richman), leadership transitions (Brian Romick/Kathy Manning May 2025), key funders table ($995K Schusterman, $500K Lauder, Americans for Tomorrow's Future, private equity donors), 2020 Sanders attack ($1.4M), 2021 OH-11 Brown/Turner ($2M), 2022 spending table (7 races, 85% win rate), 2024 spending ($5M+, 98% win rate), AIPAC coordination section with contradiction callout on messaging vs. motivation. 10 sources, Tier 1-3. New URLs marked UNVERIFIED. All ### headers. April 1 2026: Added ### What They Want (5 policy goals) + ### Donation-to-Policy Timeline (Format 2, 8 rows, [!money] callout). No new sources — timeline constructed from data already cited in file. Chrome unavailable; no API calls executed.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 6 contributions totaling $13.0K
+
+| Top Recipient | Amount |
+|---|---|
+| TJ COX FOR CONGRESS | $5.0K |
+| VARGAS FOR CONGRESS | $4.0K |
+| COLIN ALLRED FOR CONGRESS | $4.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

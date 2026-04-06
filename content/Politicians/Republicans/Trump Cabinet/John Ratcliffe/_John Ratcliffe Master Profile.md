@@ -114,5 +114,6 @@ John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Direc
 - [Rolling Stone: Ratcliffe defense contractor consulting](https://www.rollingstone.com/politics/politics-features/john-ratcliffe-trump-cia-clients-ai-defense-contractors-1235238009/) (Tier 2)
 - [CNN: Resume inflation and terrorism claims](https://edition.cnn.com/2019/08/01/politics/john-ratcliffe-democratic-strategy/index.html) (Tier 2)
 - [NPR: CIA Director confirmation](https://www.npr.org/2025/01/23/g-s1-44389/john-ratcliffe-cia-director) (Tier 2)
-- [FEC: John Ratcliffe contribution records](https://www.fec.gov/data/receipts/?_contributors=ratcliffe,+john) (Tier 1)
+- [FEC: John Ratcliffe contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=ratcliffe,+john) (Tier 1)
 content-readiness:: ready
+ 

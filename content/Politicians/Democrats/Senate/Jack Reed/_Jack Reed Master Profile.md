@@ -159,7 +159,7 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 - [OpenSecrets: Armed Services Committee members received $5.8M from defense sector during 2022 cycle](https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle/) (Tier 1)
 - [Washington Post: What's in and out of the $1.7 trillion omnibus spending bill — defense provisions](https://www.washingtonpost.com/us-policy/2022/12/22/spending-bill-omnibus-congress/) (Tier 2)
 - [NPR: Rhode Island's Defense Economy](NOTFOUND_NPR) (Tier 2)
-- [Ballotpedia: Jack Reed](https://ballotpedia.org/Jack_Reed_%28Rhode_Island%29) (Tier 3)
+- [Ballotpedia: Jack Reed](https://ballotpedia.org/Jack_Reed_(Rhode_Island)) (Tier 3)
 - [Wikipedia: Jack Reed (politician)](https://en.wikipedia.org/wiki/Jack_Reed_%28politician%29) (Tier 3)
 
 content-readiness:: ready

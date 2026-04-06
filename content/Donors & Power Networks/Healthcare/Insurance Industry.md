@@ -136,16 +136,16 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 
 ### Sources
 
-- [OpenSecrets: Insurance industry summary — contributions and lobbying](https://www.opensecrets.org/industries/indus?ind=F09) (Tier 1)
-- [OpenSecrets: Insurance industry background](https://www.opensecrets.org/industries/background?cycle=2024&ind=F09) (Tier 1)
-- [OpenSecrets: Insurance lobbying profile](https://www.opensecrets.org/federal-lobbying/industries/summary?id=F09) (Tier 1)
+- [OpenSecrets: Insurance industry summary — contributions and lobbying](https://www.opensecrets.org/industries?ind=F09) (Tier 1)
+- [OpenSecrets: Insurance industry background](https://www.opensecrets.org/industries?cycle=2024&ind=F09) (Tier 1)
+- [OpenSecrets: Insurance lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=F09) (Tier 1)
 - [OpenSecrets: AHIP organizational profile](https://www.opensecrets.org/orgs/america-s-health-insurance-plans/summary?id=D000021819) (Tier 1)
 - [OpenSecrets: UnitedHealth Group organizational profile](https://www.opensecrets.org/orgs/unitedhealth-group/summary?id=D000000348) (Tier 1)
 - [OpenSecrets: The long, costly battle over Obamacare](https://www.opensecrets.org/news/2021/06/costly-battle-obamacare-over/) (Tier 1)
 - [Center for Public Integrity: Elimination of public option threw consumers to the insurance wolves](https://publicintegrity.org/health/elimination-of-public-option-threw-consumers-to-the-insurance-wolves/) (Tier 2)
 - [The Intercept: Lobbyist documents reveal health care industry battle plan against Medicare for All](https://theintercept.com/2018/11/20/medicare-for-all-healthcare-industry/) (Tier 2)
 - [The American Prospect: UnitedHealth's K Street Army](https://prospect.org/2025/01/16/2025-01-16-unitedhealths-k-street-army/) (Tier 2)
-- [The American Prospect: Insurance lobbyists force government to heel on Medicare Advantage](https://prospect.org/health/2023-04-11-insurance-lobbyists-medicare-advantage/) (Tier 2)
+- [The American Prospect: Insurance lobbyists force government to heel on Medicare Advantage](https://prospect.org/2023/04/11/2023-04-11-insurance-lobbyists-medicare-advantage/) (Tier 2)
 - [CBS News: Feds killed plan to curb Medicare Advantage overbilling after industry opposition](https://www.cbsnews.com/news/medicare-advantage-overbilling-feds-kill-bill-after-industry-opposition/) (Tier 2)
 - [NPR: Medicare Advantage plans overcharged taxpayers, dodged auditors](https://www.npr.org/sections/health-shots/2022/12/12/1141926550/medicare-advantage-plans-overcharged-taxpayers-dodged-auditors) (Tier 2)
 - [KFF Health News: UnitedHealth wins ruling over $2B in alleged Medicare Advantage overpayments](https://kffhealthnews.org/news/article/unitedhealth-special-master-ruling-medicare-advantage-overpayments/) (Tier 2)
@@ -154,3 +154,17 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 - [FollowTheMoney: Health insurance companies give healthy donations to political campaigns](https://www.followthemoney.org/research/institute-reports/health-insurance-companies-give-healthy-donations-to-political-campaigns) (Tier 1)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 118 contributions totaling $156.5K
+
+| Top Recipient | Amount |
+|---|---|
+| THOM TILLIS COMMITTEE | $8.0K |
+| FISCHER VICTORY FUND | $7.5K |
+| MOORE FOR CONGRESS | $7.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

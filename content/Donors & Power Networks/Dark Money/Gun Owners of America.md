@@ -129,7 +129,21 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 - [OpenSecrets: Gun Owners of America organizational profile](https://www.opensecrets.org/orgs/gun-owners-of-america/summary) (Tier 1)
 - [IRS Form 990: Gun Owners of America (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Gun%20Owners%20of%20America&city=&state=All+States&country=US) (Tier 1)
 - [OpenSecrets: Gun Owners of America lobbying profile](https://www.opensecrets.org/orgs/gun-owners-of-america/lobbying?id=D000026353) (Tier 1)
-- [SCOTUSblog: New York Rifle v. Bruen and Second Amendment doctrine](https://www.scotusblog.com/2022/06/opinion-analysis-bruen/) (Tier 3)
+- [SCOTUSblog: New York Rifle v. Bruen and Second Amendment doctrine](https://www.scotusblog.com/2022/06/a-minor-impact-on-gun-laws-but-a-potentially-momentous-shift-in-constitutional-method/) (Tier 3)
 - [Ballotpedia: Constitutional carry state list](https://ballotpedia.org/Constitutional_carry) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $4.9M
+
+| Top Recipient | Amount |
+|---|---|
+| GOA VICTORY FUND | $4.1M |
+| MATT ROSENDALE FOR MONTANA | $40.0K |
+| STEVE DAINES FOR MONTANA | $25.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

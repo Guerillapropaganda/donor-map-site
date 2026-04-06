@@ -103,7 +103,7 @@ Goldman represents the final stage of Democratic realignment: dynastic wealth in
 - H.R. 7659: To designate the Pride flag as an authorized flag eligible for display at units of the National Park System, to express  — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 7591: Secure Firearm Storage and Suicide Prevention Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456923) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/dan_goldman/456923) (Tier 1)
 
 <!-- auto:govtrack end -->
 

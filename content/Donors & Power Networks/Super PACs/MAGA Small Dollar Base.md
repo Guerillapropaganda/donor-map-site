@@ -2,7 +2,7 @@
 title: "MAGA Small Dollar Base"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -10,8 +10,6 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
 federal-contracts: "19626"
-lobbying-spend: 0
-lobbying-filings: 5
 ---
 
 #maga #small-dollar #donors #trump #grassroots #winred #fundraising #recurring-donations #indictment-fundraising #class-analysis #follow-the-money
@@ -28,7 +26,7 @@ Trump's small-dollar fundraising represents a structural shift in Republican fin
 
 The 2024 cycle revealed a significant shift, however: Trump's small-dollar percentage dropped to under 30% of total campaign funds (~$109.3M from sub-$200 donors), down from nearly 50% in 2020. This decline reflects both donor fatigue and the campaign's pivot toward mega-donor reliance (Miriam Adelson $100M+, Timothy Mellon $150M+, Elon Musk $277M through America PAC). The small-dollar base remains structurally important — it provides a floor of support independent of elite donors — but its relative share of total Trump fundraising has shrunk as the operation scaled into billion-dollar territory.
 
-- [OpenSecrets: Trump 2024 candidate summary](https://www.opensecrets.org/2024-presidential-race/donald-trump/candidate?id=N00023864) (Tier 1)
+- [OpenSecrets: Trump 2024 candidate summary](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1)
 - [OpenSecrets: 2024 presidential race small donors](https://www.opensecrets.org/2024-presidential-race/small-donors) (Tier 1)
 - [OpenSecrets: WinRed PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/winred/C00694323/summary/2024) (Tier 1)
 
@@ -68,7 +66,7 @@ The MAGA small-dollar base funds Trump's political operation through a complex w
 
 - [FEC: Trump Save America Joint Fundraising Committee](https://www.fec.gov/data/committee/C00770941/) (Tier 1)
 - [OpenSecrets: Trump steers $130M in donor money to legal fees](https://www.opensecrets.org/news/2023/08/trump-political-operation-steers-130-million-in-donor-money-to-cover-legal-fees/) (Tier 1)
-- [ABC News: Trump spent $50M+ of PAC money on legal bills in 2023](https://abcnews.go.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612) (Tier 2)
+- [ABC News: Trump spent $50M+ of PAC money on legal bills in 2023](https://abcnews.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612?id=106843612) (Tier 2)
 - [CBS News: Trump raised $52.8M after guilty verdict](https://www.cbsnews.com/news/trump-fundraising-guilty-verdict-new-york-conviction/) (Tier 2)
 - [CNBC: Trump campaign nets $34.8M after verdict](https://www.cnbc.com/2024/05/31/trump-campaign-donations-record.html) (Tier 2)
 
@@ -134,13 +132,13 @@ The WinRed predatory extraction dimension adds a final layer: the very infrastru
 
 ### Sources
 
-- [OpenSecrets: Trump 2024 candidate summary](https://www.opensecrets.org/2024-presidential-race/donald-trump/candidate?id=N00023864) (Tier 1)
+- [OpenSecrets: Trump 2024 candidate summary](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1)
 - [OpenSecrets: 2024 presidential race small donors](https://www.opensecrets.org/2024-presidential-race/small-donors) (Tier 1)
 - [OpenSecrets: WinRed PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/winred/C00694323/summary/2024) (Tier 1)
 - [FEC: Trump Save America Joint Fundraising Committee](https://www.fec.gov/data/committee/C00770941/) (Tier 1)
 - [OpenSecrets: Trump steers $130M in donor money to legal fees](https://www.opensecrets.org/news/2023/08/trump-political-operation-steers-130-million-in-donor-money-to-cover-legal-fees/) (Tier 1)
 - [OpenSecrets: 5 things about money in 2024 elections](https://www.opensecrets.org/news/2024/11/big-money-big-stakes-5-things-everyone-should-know-about-money-in-2024-election/) (Tier 1)
-- [ABC News: Trump spent $50M+ of PAC money on legal bills in 2023](https://abcnews.go.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612) (Tier 2)
+- [ABC News: Trump spent $50M+ of PAC money on legal bills in 2023](https://abcnews.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612?id=106843612) (Tier 2)
 - [CBS News: Trump raised $52.8M after guilty verdict](https://www.cbsnews.com/news/trump-fundraising-guilty-verdict-new-york-conviction/) (Tier 2)
 - [CNBC: Trump campaign nets $34.8M after verdict in small-dollar surge](https://www.cnbc.com/2024/05/31/trump-campaign-donations-record.html) (Tier 2)
 - [Al Jazeera: WinRed misleads consumers into recurring donations](https://www.aljazeera.com/economy/2024/7/31/republican-pac-winred-misleads-us-consumers-into-recurring-donations) (Tier 2)
@@ -149,22 +147,3 @@ The WinRed predatory extraction dimension adds a final layer: the very infrastru
 ---
 
 content-readiness:: developed
-
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $0 |
-| Quarterly Filings | 5 |
-| Year Range | 2025-2025 |
-| Lobbying Firms | 1 |
-| Individual Lobbyists | 0 |
-
-**Issues lobbied:** Government Issues
-
-**Lobbying firms:** J M BURKMAN & ASSOCIATES
-
-**Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=MAGA%20Small%20Dollar%20Base) (Tier 1)
-<!-- auto:lda-lobbying end -->

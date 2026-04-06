@@ -104,8 +104,20 @@ Education — charter schools, superintendent appointments, teacher accountabili
 ### Sources
 
 - [PR Watch: Billionaire Eli Broad Takes Public Education Private](https://www.prwatch.org/news/2018/12/13434/billionaire-eli-broad-takes-public-education-private) (Tier 3)
-- [LA Times: Broad Foundation and LAUSD](https://www.latimes.com/local/education) (Tier 2)
+- [LA Times: Broad Foundation and LAUSD](https://www.latimes.com/topic/education) (Tier 2)
 - Diane Ravitch, *Reign of Error* (2013) — Broad model analysis (Tier 2)
 
 research-status:: ready — $600M education spending, Broad Academy superintendent pipeline, LAUSD/Oakland/SD placements, charter network funding, KIPP/Green Dot/Alliance grants, Democratic mega-donor, corporate model education reform. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 1 contributions totaling $100.0K
+
+| Top Recipient | Amount |
+|---|---|
+| BOSTON HOST COMMITTEE | $100.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

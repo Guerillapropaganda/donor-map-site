@@ -42,7 +42,7 @@ Colorado's 2026 Senate seat is a **Democratic defense** — incumbent John Hicke
 - Donor profile: ~80% of donations are $25 or less — grassroots small-dollar model dominant.
 - Nearly all donations in Q4 2025 were $25 or less.
 - Party support: $100K+ donated to Colorado Democratic Party for organizing.
-- [Source: Colorado Politics: Hickenlooper raises $1.7M in Q3](https://www.coloradopolitics.com/elections/2026/colorado-democrat-john-hickenloopers-us-senate-campaign-raises-over-1-5-million-in-latest-quarter/) (Tier 2)
+- [Source: Colorado Politics: Hickenlooper raises $1.7M in Q3](https://www.coloradopolitics.com/2025/07/14/colorado-democrat-john-hickenloopers-us-senate-campaign-raises-over-1-5-million-in-latest-quarter-c3b279a9-f27f-4308-8ebd-dc6bb6b87523/) (Tier 2)
 - [Source: Hickenlooper for U.S. Senate: Q3 2025 fundraising announcement](https://hickenlooper.com/hickenlooper-reports-strongest-fundraising-quarter-of-2025-raises-1-7-million-in-q3/) (Tier 2)
 - [Source: Hickenlooper announces Q4 2025 fundraising and year-end totals](https://hickenlooper.com/hickenlooper-raises-1-1-million-in-q4-2025-finishes-year-with-3-8-million-on-hand/) (Tier 2)
 
@@ -88,8 +88,8 @@ Hickenlooper's small-dollar base ($25 or less = ~80% of donations) is extraordin
 
 - [Wikipedia: 2026 United States Senate election in Colorado](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado) (Tier 3)
 - [Ballotpedia: 2026 Colorado Senate election](https://ballotpedia.org/United_States_Senate_election_in_Colorado,_2026) (Tier 3)
-- [Colorado Politics: Hickenlooper tops $1M in Q1 2026](https://www.coloradopolitics.com/elections/2026/colorado-democrat-john-hickenlooper-tops-1-million-in-1st-quarter-for-reelection-bid-to-us-senate/) (Tier 2)
-- [Colorado Politics: Hickenlooper raises $1.5M+ in Q2](https://www.coloradopolitics.com/elections/2026/colorado-democrat-john-hickenloopers-us-senate-campaign-raises-over-1-5-million-in-latest-quarter/) (Tier 2)
+- [Colorado Politics: Hickenlooper tops $1M in Q1 2026](https://www.coloradopolitics.com/2025/04/15/colorado-democrat-john-hickenlooper-tops-1-million-in-1st-quarter-for-reelection-bid-to-us-senate-bd99a961-5018-4148-975b-a2f9db099286/) (Tier 2)
+- [Colorado Politics: Hickenlooper raises $1.5M+ in Q2](https://www.coloradopolitics.com/2025/07/14/colorado-democrat-john-hickenloopers-us-senate-campaign-raises-over-1-5-million-in-latest-quarter-c3b279a9-f27f-4308-8ebd-dc6bb6b87523/) (Tier 2)
 - [Hickenlooper for U.S. Senate: Q3 fundraising report](https://hickenlooper.com/hickenlooper-reports-strongest-fundraising-quarter-of-2025-raises-1-7-million-in-q3/) (Tier 2)
 - [Hickenlooper for U.S. Senate: Q4 fundraising and year-end report](https://hickenlooper.com/hickenlooper-raises-1-1-million-in-q4-2025-finishes-year-with-3-8-million-on-hand/) (Tier 2)
 - [FEC: John Hickenlooper candidate page](https://www.fec.gov/data/candidate/S0CO00575/) (Tier 1)

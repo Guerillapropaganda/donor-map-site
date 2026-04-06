@@ -92,7 +92,7 @@ The CARE Court pattern is classic pilot program dynamics: launch with fanfare, a
 
 ### Sources
 
-- [California Senate Bill 43: Conservatorship expansion legislation text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320243SB43) (Tier 1)
+- [California Senate Bill 43: Conservatorship expansion legislation text](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202320243SB43) (Tier 1)
 - [CalMatters: CARE Court what actually became law](https://calmatters.org/health/mental-health/2025/12/care-court-what-happened-in-legislature/) (Tier 2)
 - [KQED: SB 43 conservatorship expansion signed](https://www.kqed.org/news/11963961/newsom-signs-law-expanding-conservatorships-for-those-experiencing-severe-mental-illness-substance-abuse) (Tier 2)
 - [IJPR / CalMatters: CARE Court numbers (fewer than 550 served)](https://www.ijpr.org/poverty-and-homelessness/2025-12-21/newsom-promised-real-progress-on-mental-health-with-care-court-heres-what-the-numbers-show) (Tier 2)

@@ -144,7 +144,7 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 - [Larsen.house.gov: Serves as Ranking Member statement](https://larsen.house.gov/news/documentsingle.aspx?DocumentID=2714) (Tier 1)
 - [Larsen.house.gov: Boeing Machinists union letter](https://larsen.house.gov/news/documentsingle.aspx?DocumentID=1447) (Tier 1)
 - [Seattle Times: Rep. Larsen loses backing of Machinists over Boeing offer](https://www.seattletimes.com/seattle-news/rep-larsen-loses-backing-of-machinists-over-boeing-offer/) (Tier 2)
-- [Everett Herald: State labor council spurns Larsen with no endorsement](https://www.heraldnet.com/news/state-labor-council-spurns-larsen-with-no-endorsement/) (Tier 2)
+- [Everett Herald: State labor council spurns Larsen with no endorsement](https://www.heraldnet.com/2014/05/13/state-labor-council-spurns-larsen-with-no-endorsement/) (Tier 2)
 - [My Everett News: Machinists vote to accept Boeing contract extension](https://myeverettnews.com/2011/12/07/machinists-vote-to-accept-boeing-contract-extension-by-74-reaction-from-iam-751-boeing-and-congressman-larsen/) (Tier 2)
 - [ACEC 2025 Convention: Congressman Rick Larsen](https://convention.acec.org/speakers/congressman-rick-larsen/) (Tier 3)
 - [Ballotpedia: Rick Larsen](https://ballotpedia.org/Rick_Larsen) (Tier 3)

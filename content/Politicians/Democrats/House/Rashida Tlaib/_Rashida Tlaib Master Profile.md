@@ -150,7 +150,7 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 - H.R. 7854: Medicines for the People Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 7637: Head Start for America’s Children Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412787) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/rashida_tlaib/412787) (Tier 1)
 
 <!-- auto:govtrack end -->
 
@@ -160,7 +160,7 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 - [FEC: Rashida Tlaib committee filings](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
 - [Congress.gov: Rashida Tlaib member profile](https://www.congress.gov/member/rashida-tlaib/T000481) (Tier 1)
 - [NPR: House votes to censure Rep. Rashida Tlaib](https://www.npr.org/2023/11/07/1211315549/tlaib-censure-house-israel-gaza) (Tier 2)
-- [Detroit News: Tlaib raises $3.7M after censure](https://www.detroitnews.com/story/news/politics/2024/02/01/tlaib-raises-3-7m-for-reelection-after-house/72430690007/) (Tier 2)
+- [Detroit News: Tlaib raises $3.7M after censure](https://www.detroitnews.com/story/news/politics/2024/02/01/tlaib-raises-3-7m-for-reelection-after-censure-by-house/72430690007/) (Tier 2)
 - [CBS News: Hill Harper offered $20M to challenge Tlaib](https://www.cbsnews.com/detroit/news/hill-harper-said-he-was-offered-20-million-to-mount-a-primary-challenge-against-rep-rashida-tlaib/) (Tier 2)
 - [Newsweek: Democrat confirms $20M offer to challenge Tlaib](https://www.newsweek.com/democrat-confirms-offer-challenge-rashida-tlaib-1846257) (Tier 2)
 - [House Oversight Democrats: Marathon Petroleum investigation](https://oversightdemocrats.house.gov/news/press-releases/environment-subcommittee-chair-and-vice-chair-request-investigation-into) (Tier 1)

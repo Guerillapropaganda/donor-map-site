@@ -47,6 +47,18 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 ### Sources
 
 - [OpenSecrets: Ohio AFL-CIO spending 2024](https://www.opensecrets.org/organizations/ohio-afl-cio) (Tier 1)
-- [OpenSecrets: AFL-CIO political spending profile](https://www.opensecrets.org/orgs/afl-cio/summary?id=D000000088) (Tier 1)
+- [OpenSecrets: AFL-CIO political spending profile](https://www.opensecrets.org/orgs/afl-cio/summary?id=D000000088)
 
-`content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 59 contributions totaling $1.5M
+
+| Top Recipient | Amount |
+|---|---|
+| OHIOANS FOR JUSTICE AND INTEGRITY | $335.0K |
+| WORKERS' VOICE | $244.7K |
+| SAVE AMERICA FUND | $200.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

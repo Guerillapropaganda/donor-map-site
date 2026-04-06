@@ -140,7 +140,7 @@ The reality: Voters and established power structures still privilege machine pol
 - Illinois Future PAC FEC records
 
 ### Tier 2: Major Journalism
-- [Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi](https://www.coindesk.com/policy/2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi) (CoinDesk, March 17, 2026) (Tier 2)
+- [Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi](https://www.coindesk.com/policy2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi) (CoinDesk, March 17, 2026) (Tier 2)
 - [Fairshake's $10 million Illinois misfire marks first big hitch in crypto political surge](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge) (CoinDesk, March 18, 2026) (Tier 2)
 - [AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries. They mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Fortune, March 18, 2026) (Tier 2)
 - [Cryptocurrency and AI industries tested their influence in Illinois. It didn't go well](https://www.pbs.org/newshour/politics/cryptocurrency-and-ai-industries-tested-their-influence-in-illinois-it-didnt-go-well) (PBS News, March 18, 2026) (Tier 2)

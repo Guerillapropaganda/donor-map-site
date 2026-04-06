@@ -2,21 +2,13 @@
 title: "Real Estate Roundtable"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Real Estate"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
-  - "JD Vance"
-  - "John Kennedy"
-  - "Paul Ryan"
-  - "French Hill"
-  - "Adam Smith"
-  - "Jason Smith"
-  - "Hakeem Jeffries"
-  - "Bill Hagerty"
 issues:
   - "Housing"
   - "Dark Money & Campaign Finance"
@@ -24,7 +16,6 @@ ein: 521128863
 annual-revenue: "$8.0M"
 net-assets: "$7.1M"
 tax-year: "2024"
-total-political-spend: "$813,000"
 ---
 
 
@@ -150,42 +141,30 @@ Opportunity Zones were marketed as anti-poverty policy. The reality: $48 billion
 
 - [OpenSecrets: Real Estate Roundtable Lobbying Profile](https://www.opensecrets.org/orgs/real-estate-roundtable/summary?id=D000054983) (Tier 1)
 - [Joint Committee on Taxation: Revenue Estimates for Section 199A Extension](https://www.jct.gov/publications/?search_term=Real%20Estate%20Roundtable) (Tier 1)
-- [IRS: Opportunity Zone Reporting and Statistics](https://www.irs.gov/credits-and-deductions-for-businesses/opportunity-zones) (Tier 1)
+- [IRS: Opportunity Zone Reporting and Statistics](https://www.irs.gov/credits-and-deductions-for-businesses/opportunity-zones) *(source unavailable)* (Tier 1)
 - [Congress.gov: Tax Cuts and Jobs Act — Section 199A and 1031 Provisions](https://www.congress.gov/bill/115th-congress/house-bill/1) (Tier 1)
-- [CNBC: Sinema Demands Carried Interest Provision Removed from IRA](https://www.cnbc.com/2022/08/04/kyrsten-sinema-demands-carried-interest-change-removed-from-manchin-schumer-climate-deal.html) (Tier 2)
+- [CNBC: Sinema Demands Carried Interest Provision Removed from IRA](https://www.cnbc.com/2022/08/04/kyrsten-sinema-demands-carried-interest-change-removed-from-manchin-schumer-climate-deal.html) *(source unavailable)* (Tier 2)
 - [NPR: Opportunity Zones Touted By White House May Benefit Investors Most](https://www.npr.org/2019/07/08/736546264/white-house-touts-help-for-poor-areas-but-questions-endure-over-wholl-benefit) (Tier 2)
-- [Brookings: Opportunity Zones — Early Evidence of Outcomes](https://www.brookings.edu/articles/opportunity-zones-what-we-know-and-what-we-dont/) (Tier 2)
+- [Brookings: Opportunity Zones — Early Evidence of Outcomes](https://www.brookings.edu/articles/opportunity-zones-what-we-know-and-what-we-dont/) *(source unavailable)* (Tier 2)
 - [ProPublica: How a Tax Break to Help the Poor Went to Luxury Apartments](https://www.propublica.org/article/superyacht-marina-west-palm-beach-opportunity-zone-trump-tax-break-to-help-the-poor-went-to-a-rich-gop-donor) (Tier 2)
-- [CNBC: Stephen Schwarzman and the Trump Policy Forum](https://www.cnbc.com/2017/02/03/blackstones-schwarzman-on-trump-business-advisory-council.html) (Tier 2)
+- [CNBC: Stephen Schwarzman and the Trump Policy Forum](https://www.cnbc.com/2017/02/03/blackstones-schwarzman-on-trump-business-advisory-council.html) *(source unavailable)* (Tier 2)
 - [Washington Post: Thomas Barrack, Trump ally, indicted over UAE lobbying](https://www.washingtonpost.com/politics/thomas-barrack-indictment-trump/2021/07/20/d40b64f0-e985-11eb-84a2-d93bc0b50294_story.html) (Tier 2)
-- [Tax Policy Center: Like-Kind Exchanges — Revenue and Distribution Effects](https://www.taxpolicycenter.org/taxvox/repealing-kind-exchanges-raises-revenue-mostly-high-income-taxpayers) (Tier 2)
-- [Real Estate Roundtable: Policy Positions](https://www.rer.org/policy-issues) (Tier 3)
+- [Tax Policy Center: Like-Kind Exchanges — Revenue and Distribution Effects](https://taxpolicycenter.org/taxvox/repealing-kind-exchanges-raises-revenue-mostly-high-income-taxpayers) (Tier 2)
+- [Real Estate Roundtable: Policy Positions](https://www.rer.org/policy-issues/) (Tier 3)
 
 ---
 
 content-readiness:: ready
+---
 
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $813,000 |
-| Contributions | 200 |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Top recipients:**
+**FEC contribution record:** 500 contributions totaling $1.8M
 
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $150,000 | — |
-| DSCC | $30,000 | DEM |
-| NRSC | $30,000 | REP |
-| NRCC | $30,000 | REP |
-| DCCC | $20,000 | DEM |
-| KENNEDY FOR CONGRESS | $15,000 | DEM |
-| PAT RYAN FOR CONGRESS | $13,500 | DEM |
-| GALLEGO FOR ARIZONA | $12,500 | DEM |
-| IN THE ARENA PAC | $10,000 | — |
-| JUNTOS PAC | $10,000 | — |
+| Top Recipient | Amount |
+|---|---|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $150.0K |
+| DSCC | $90.0K |
+| NRSC | $75.0K |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Real%20Estate%20Roundtable) (Tier 1)
-<!-- auto:fec-donor end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

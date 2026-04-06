@@ -175,10 +175,10 @@ Her campaigns expose Democratic Party gatekeeping: not through censorship (Willi
 - [Marianne Williamson — Wikipedia](https://en.wikipedia.org/wiki/Marianne_Williamson) (Tier 2) (Chrome verified 2026-03-27)
 - [Marianne Williamson 2024 presidential campaign — Ballotpedia](https://ballotpedia.org/Marianne_Williamson_presidential_campaign,_2024) (Tier 1) (Chrome verified 2026-03-27)
 - [Marianne Williamson — FEC.gov candidate profile](https://www.fec.gov/data/candidate/P00009910/) (Tier 1) (Chrome verified 2026-03-27)
-- [Marianne Williamson brought in $1.5 million in the second quarter — CNN Politics](https://edition.cnn.com/politics/live-news/2020-election-campaign-fundraising/h_cd35f472bf4a5407753d4072b4e44e0e) (Tier 2) (Chrome verified 2026-03-27)
+- [Marianne Williamson brought in $1.5 million in the second quarter — CNN Politics](https://edition.cnn.com/politics/live-news/2020-election-campaign-fundraising) (Tier 2) (Chrome verified 2026-03-27)
 - [2024 hopeful Marianne Williamson blasts Biden, DNC for not holding debates — Fox News](https://www.foxnews.com/media/2024-hopeful-marianne-williamson-blasts-biden-dnc-not-holding-debates-candidate-suppression) (Tier 2) (Chrome verified 2026-03-27)
 - [Marianne Williamson knocks DNC over lack of debates as Biden campaign launch nears — Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/bidens-primary-foes-try-not-ignored) (Tier 2) (Chrome verified 2026-03-27)
 - [Marianne Williamson: A Return to Love](https://marianne.com/a-return-to-love/) (Tier 2) (Chrome verified 2026-03-27)
-- [OpenSecrets: Marianne Williamson 2024 candidate data](https://www.opensecrets.org/2024-presidential-race/marianne-williamson/candidate?id=N00035565) (Tier 2) (Chrome verified 2026-03-27)
+- [OpenSecrets: Marianne Williamson 2024 candidate data](https://www.opensecrets.org/2024-presidential-race?id=N00035565) (Tier 2) (Chrome verified 2026-03-27)
 
 content-readiness:: ready

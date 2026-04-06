@@ -48,3 +48,17 @@ Continued relaxed radio ownership limits, favorable music licensing rates (iHear
 - [Ballotpedia: Telecommunications Act of 1996](https://ballotpedia.org/Telecommunications_Act_of_1996) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.1M
+
+| Top Recipient | Amount |
+|---|---|
+| NRCC | $52.5K |
+| DSCC | $45.0K |
+| DCCC | $38.8K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -123,7 +123,7 @@ Newsom's economic policy favors targeted programs over structural change: EITC e
 ### Sources
 
 - [FPPC: Newsom campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [CalMatters: Newsom donor profiles](https://calmatters.org/politics/) (Tier 2)
+- [CalMatters: Newsom donor profiles](https://calmatters.org/category/politics/) (Tier 2)
 - [Open Secrets: California campaign finance](https://www.opensecrets.org/members-of-congress/summary?name=Economic%20Policy) (Tier 2)
 
 content-readiness:: ready

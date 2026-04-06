@@ -104,7 +104,22 @@ Griffin's personal pro-choice stance (unusual among mega-donors) while funding a
 - [OpenSecrets: Ken Griffin donor profile](https://www.opensecrets.org/individuals/kenneth-griffin/summary?cid=N00029020) (Tier 1)
 - [ProPublica: Why Citadel's Ken Griffin Spent $54 Million To Defeat an Illinois Tax Increase](https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax) (Tier 2)
 - [Bloomberg: Ken Griffin's hedge fund and political spending](https://www.bloomberg.com/news/articles/2022-02-07/billionaire-kenneth-griffin-plans-100-million-spending-in-2022) (Tier 2)
-- [The Guardian: Ken Griffin Illinois politics](https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin) (Tier 3)
+- [The Guardian: Ken Griffin Illinois politics](https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin) *(source unavailable)* (Tier 3)
 - [Ballotpedia: Citadel CEO Kenneth Griffin](https://ballotpedia.org/Kenneth_Griffin) (Tier 3)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 308 contributions totaling $34.0M
+
+**ActBlue/WinRed conduit duplicates filtered:** 192
+
+| Top Recipient | Amount |
+|---|---|
+| SENATE LEADERSHIP FUND | $20.0M |
+| KEYSTONE RENEWAL PAC | $6.0M |
+| THE SENTINEL ACTION FUND | $4.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

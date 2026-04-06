@@ -148,9 +148,9 @@ The 15.57% self-financing rate and low small-dollar percentage undercut the "blu
 - [The Oklahoma Post: Johnson called Mullin a stranger, campaign finance record says otherwise](https://theokpost.com/news/nationalnews/johnson-called-mullin-a-stranger-the-campaign-finance-record-tells-a-different-story/2026/03/18/) (Tier 3)
 - [CNBC: Senate confirms Markwayne Mullin as next DHS secretary](https://www.cnbc.com/2026/03/23/markwayne-mullin-trump-dhs-senate-confirmation.html) (Tier 2)
 - [Washington Post: Senate confirms Mullin as homeland security secretary](https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/) (Tier 2)
-- [TIME: Markwayne Mullin confirmed as Homeland Security Secretary](https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/) (Tier 2)
+- [TIME: Markwayne Mullin confirmed as Homeland Security Secretary](https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/wn-noem-tsa-ice/) (Tier 2)
 - [DHS: U.S. Senate Confirms Markwayne Mullin as Secretary](https://www.dhs.gov/news/2026/03/24/us-senate-confirms-markwayne-mullin-secretary-department-homeland-security) (Tier 1)
-- [FollowTheMoney: Markwayne Mullin](https://www.followthemoney.org/entity-details?eid=12013169&default=candidate) (Tier 1)
+- [FollowTheMoney: Markwayne Mullin](https://www.followthemoney.org/tools/election-overview?eid=12013169&default=candidate) (Tier 1)
 
 ---
 

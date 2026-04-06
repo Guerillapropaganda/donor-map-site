@@ -165,8 +165,8 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 
 ### Sources
 
-- [OpenSecrets: Brownstein, Hyatt et al Lobbying Profile](https://www.opensecrets.org/federal-lobbying/firms/summary?id=D000000724) (Tier 1)
-- [OpenSecrets: Brownstein, Hyatt et al Lobbyists 2024](https://www.opensecrets.org/federal-lobbying/firms/lobbyists?cycle=2024&id=D000000724) (Tier 1)
+- [OpenSecrets: Brownstein, Hyatt et al Lobbying Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000000724) (Tier 1)
+- [OpenSecrets: Brownstein, Hyatt et al Lobbyists 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?cycle=2024&id=D000000724) (Tier 1)
 - [OpenSecrets: Brownstein, Hyatt et al FARA Foreign Lobbying](https://www.opensecrets.org/fara/registrants/D000000724) (Tier 1)
 - [FEC: BHFS-E, PC PAC committee overview](https://www.fec.gov/data/committee/C00390583/) (Tier 1)
 - [Washington Post: The firm that once employed Trump's pick to run Interior is making millions lobbying it](https://www.washingtonpost.com/climate-environment/2019/04/03/firm-that-once-employed-trumps-pick-run-interior-is-making-millions-lobbying-it/) (Tier 2)
@@ -175,13 +175,13 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 - [OpenSecrets: As lobbying revenue grows at record pace, Trump-aligned firms reap biggest rewards](https://www.opensecrets.org/news/2025/11/as-lobbying-revenue-grows-at-record-pace-trump-aligned-firms-reap-the-biggest-rewards) (Tier 1)
 - [OpenSecrets: Top firms rake in millions lobbying for foreign nations on US defense budget](https://www.opensecrets.org/news/2023/12/top-firms-rake-in-millions-lobbying-for-foreign-nations-on-us-defense-budget/) (Tier 1)
 - [Common Dreams: Oil Lobbyist Turned Interior Chief Proposes Giving Contract to Ex-Client](https://www.commondreams.org/news/2019/11/08/corrupt-it-gets-oil-lobbyist-turned-interior-chief-proposes-giving-coveted-contract) (Tier 3)
-- [SourceWatch: Brownstein Hyatt Farber Schreck](https://www.sourcewatch.org/index.php/Brownstein_Hyatt_Farber_Schreck) (Tier 3)
-- [SourceWatch: ALEC Energy, Environment and Agriculture Task Force — BHFS co-chair Martin Shultz](https://www.sourcewatch.org/index.php?title=Energy,_Environment_and_Agriculture_Task_Force) (Tier 3)
+- [SourceWatch: Brownstein Hyatt Farber Schreck](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Brownstein_Hyatt_Farber_Schreck) (Tier 3)
+- [SourceWatch: ALEC Energy, Environment and Agriculture Task Force — BHFS co-chair Martin Shultz](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch?title=Energy,_Environment_and_Agriculture_Task_Force) (Tier 3)
 - [Wikipedia: Brownstein Hyatt Farber Schreck](https://en.wikipedia.org/wiki/Brownstein_Hyatt_Farber_Schreck) (Tier 3)
 - [Colorado Sun: Denver-based Brownstein Hyatt Farber Schreck won't cut ties with Saudi Arabia following Jamal Khashoggi's killing](https://coloradosun.com/2018/10/26/brownstein-hyatt-farber-schreck-saudi-arabia-khashoggi/) (Tier 2)
 - [Colorado Sun: A Denver-based lobbying firm working for Saudi Arabia met with the White House amid the fallout from a journalist's killing](https://coloradosun.com/2019/02/12/a-denver-based-lobbying-firm-working-for-saudi-arabia-met-with-the-white-house-amid-the-fallout-from-a-journalists-killing/) (Tier 2)
 - [9news: Denver law firm still lobbying for Saudi Arabia after journalist's killing](https://www.9news.com/article/news/local/next/denver-law-firm-still-lobbying-for-saudi-arabia-after-journalists-killing/73-608494164) (Tier 2)
-- [Law.com International: US Firm Brownstein Takes on Saudi Arabia NEOM Lobbying Effort](https://www.law.com/international-edition/2024/03/12/us-firm-brownstein-takes-on-saudi-arabia-neom-lobbying-effort/) (Tier 2)
+- [Law.com International: US Firm Brownstein Takes on Saudi Arabia NEOM Lobbying Effort](https://www.law.com/international-edition/2024/03/12/us-firm-brownstein-takes-on-saudi-arabia-neom-lobbying-effort/?slreturn=20260405194126) (Tier 2)
 - [CNBC: Trump's new Interior Secretary David Bernhardt is now under investigation](https://www.cnbc.com/2019/04/16/trumps-new-interior-secretary-is-now-under-investigation.html) (Tier 2)
 - [Bloomberg Law: Interior Watchdog Opens Ethics Probe Into Secretary Bernhardt](https://news.bloomberglaw.com/environment-and-energy/interior-watchdog-opens-ethics-probe-into-secretary-bernhardt) (Tier 2)
 - [Center for Western Priorities: David Bernhardt ethics violation investigation findings released](https://westernpriorities.org/2023/01/david-bernhardt-ethics-violation-investigation-findings-released/) (Tier 2)

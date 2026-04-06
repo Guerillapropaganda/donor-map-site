@@ -46,7 +46,7 @@ When unflattering stories broke about Patel's management — allegations of jet 
 
 Patel operates within a larger framework of loyalty institutionalization. Schedule F — the Trump administration's civil service reform — converts "policy-influencing positions" from merit-based employment to at-will positions explicitly requiring "loyalty" to the President. The Office of Personnel Management hiring rule includes essay questions: "How would you help advance the president's executive orders and policy priorities in this role?" and "Identify one or two relevant executive orders or policy initiatives that are significant to you."
 
-These are not job qualifications. They are loyalty tests. Patel's FBI purges are the proof of concept. [Democracy Forward: Schedule F Challenge](https://democracyforward.org/updates/schedule-f-042225/) (Tier 2)
+These are not job qualifications. They are loyalty tests. Patel's FBI purges are the proof of concept. [Democracy Forward: Schedule F Challenge](https://democracyforward.org/news/press-releases/schedule-f-042225/) (Tier 2)
 
 > [!money]
 > Schedule F conversion removes civil service protections from employees who refuse political loyalty. This is not an accident in administrative structure. It is the mechanism that allows Patel to terminate career agents without cause, without merit review, without any obligation to justify the removal. The institutional protection that Hoover's FBI had against outside pressure becomes the mechanism for inside pressure.
@@ -96,8 +96,8 @@ Three metrics to watch: (1) January 6th case closure rate (will pending cases be
 - [CBS News: Agents Fired Had Iran Counterintelligence Expertise](https://www.cbsnews.com/news/fbi-agents-patel-fired-counterintelligence-including-iran/) (Tier 2)
 - [Amazon: Government Gangsters Book](https://www.amazon.com/Government-Gangsters-State-Battle-Democracy/dp/1637588240) (Tier 3)
 - [Senate Judiciary: Coons Questions Patel on January 6 Firings](https://www.coons.senate.gov/news/press-releases/senator-coons-grills-fbi-director-kash-patel-over-firing-of-fbi-officers-for-investigations-of-january-6-rioters/) (Tier 2)
-- [Democracy Forward: Schedule F Challenge](https://democracyforward.org/updates/schedule-f-042225/) (Tier 2)
-- [Government Executive: Lynch Demands Loyalty Test Dropped](https://www.govexec.com/workforce/2025/06/lynch-opm-hiring-plan-includes-blatant-loyalty-test/405740/) (Tier 2)
+- [Democracy Forward: Schedule F Challenge](https://democracyforward.org/news/press-releases/schedule-f-042225/) (Tier 2)
+- [Government Executive: Lynch Demands Loyalty Test Dropped](https://www.govexec.com/workforce/2025/06/lynch-opms-hiring-plan-includes-blatant-loyalty-test/405740/) (Tier 2)
 - [Senate Judiciary: Coons Questions FBI Independence](https://www.coons.senate.gov/news/press-releases/under-questioning-from-senator-coons-fbi-director-nominee-patel-refuses-to-assert-fbis-independence-or-demonstrate-willingness-to-resign-over-illegal-directives/) (Tier 2)
 
 ---

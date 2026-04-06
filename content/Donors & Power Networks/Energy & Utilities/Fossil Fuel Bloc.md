@@ -108,7 +108,7 @@ Full California analysis in [[Chevron]] and [[Fracking and Oil Permits - Green B
 - [NPR: Trump Alaska wildlife refuge oil gas drilling](https://www.npr.org/2025/10/24/nx-s1-5584883/trump-alaska-wildlife-refuge-oil-gas-drilling) (Tier 2)
 - [NPR: Trump Paris Agreement withdrawal](https://www.npr.org/2025/01/21/nx-s1-5266207/trump-paris-agreement-biden-climate-change) (Tier 2)
 - [OpenSecrets: Chevron recipient profile](https://www.opensecrets.org/orgs/chevron/recipients?id=D000000015) (Tier 1)
-- [KQED: Chevron gave $1M+ to election objectors](https://www.kqed.edu/news/11856920/chevron-gave-more-than-a-million-dollars-to-lawmakers-who-voted-to-overturn-the-presidential-election) (Tier 2)
+- [KQED: Chevron gave $1M+ to election objectors](https://www.kqed.org/news/11856920/chevron-gave-more-than-a-million-dollars-to-lawmakers-who-voted-to-overturn-the-presidential-election) (Tier 2)
 
 ---
 

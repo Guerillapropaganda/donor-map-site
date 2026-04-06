@@ -53,5 +53,5 @@ By 2022, the "pariah" narrative had collapsed:
 
 - [OpenSecrets: A look at the companies freezing PAC contributions after Capitol riot](https://www.opensecrets.org/news/2021/01/corporate-pac-contibutions-paused-to-josh-hawley-and-others/) (Tier 1)
 - [Salon: Josh Hawley, Marjorie Taylor Greene report record donations as GOP sees post-riot financial boom](https://www.salon.com/2021/03/18/josh-hawley-marjorie-taylor-greene-report-record-donations-as-gop-sees-post-riot-financial-boom/) (Tier 2)
-- [Detroit News: Josh Hawley looked like a pariah immediately after Jan. 6. What a difference a year makes](https://eu.detroitnews.com/story/news/politics/2022/01/06/one-year-later-one-time-pariah-josh-hawley-reaps-contributions/9121895002/) (Tier 2)
+- [Detroit News: Josh Hawley looked like a pariah immediately after Jan. 6. What a difference a year makes](https://www.detroitnews.com/story/news/politics/2022/01/06/one-year-later-one-time-pariah-josh-hawley-reaps-contributions/9121895002/) (Tier 2)
 - [Spokesman-Review: More companies pause contributions to Hawley, others](https://www.spokesman.com/stories/2021/jan/13/more-companies-pause-contributions-to-hawley-other/) (Tier 2)

@@ -136,7 +136,7 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 - [House VA Democrats: Takano slams VA effort to take away veteran autonomy](https://democrats-veterans.house.gov/news/press-releases/ranking-member-takano-slams-va-effort-to-take-away-veteran-autonomy) (Tier 1)
 - [House VA Democrats: Takano applauds judge restoring VA collective bargaining](https://democrats-veterans.house.gov/news/press-releases/ranking-member-takano-applauds-judges-decision-to-restore-collective-bargaining-agreements-for-va-employees) (Tier 1)
 - [House VA Democrats: Takano denounces Washington Post series scapegoating veterans](https://democrats-veterans.house.gov/news/press-releases/ranking-member-takano-denounces-washington-post-series-scapegoating-veterans-collecting-long-overdue-benefits) (Tier 1)
-- [Stars and Stripes: PACT Act signed into law](https://www.stripes.com/veterans/2022-08-10/biden-signs-pact-act-burn-pits-veterans-6921619.html) (Tier 2)
+- [Stars and Stripes: PACT Act signed into law](https://www.stripes.com/veterans/2022-08-10/biden-signs-pact-act-burn-pits-veterans-6921619.html) *(source unavailable)* (Tier 2)
 - [NPR: Mark Takano and the four-day work week](https://www.npr.org/2022/06/07/1103591879/a-big-32-hour-workweek-test-is-underway-supporters-think-it-could-help-productiv) (Tier 2)
 - [Ballotpedia: Mark Takano](https://ballotpedia.org/Mark_Takano) (Tier 3)
 - [Wikipedia: Mark Takano](https://en.wikipedia.org/wiki/Mark_Takano) (Tier 3)

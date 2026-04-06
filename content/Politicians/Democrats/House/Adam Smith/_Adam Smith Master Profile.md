@@ -121,7 +121,7 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 - [Seattle Times: Rep. Adam Smith's campaign leans heavily on PAC money](https://www.seattletimes.com/seattle-news/rep-adam-smiths-campaign-leans-heavily-on-pac-money/) (Tier 2)
 - [Breaking Defense: Who's Who in Defense — Adam Smith, Ranking Member HASC](https://breakingdefense.com/2025/03/whos-who-in-defense-adam-smith-ranking-member-house-armed-services-committee-hasc/) (Tier 2)
 - [CSIS: Representative Adam Smith on the FY2020 NDAA](https://www.csis.org/analysis/representative-adam-smith-fy2020-national-defense-authorization-act) (Tier 2)
-- [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_%28Washington%29) (Tier 3)
+- [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington)) (Tier 3)
 - [Washington State military & defense sector overview](https://choosewashingtonstate.com/why-washington/our-key-sectors/military-defense/) (Tier 3)
 
 profile-status:: ready

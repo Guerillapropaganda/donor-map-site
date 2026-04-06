@@ -109,10 +109,26 @@ IPO/corporate finance — Prop 22 as pre-IPO regulatory investment
 - [California Secretary of State / Cal-Access: Prop 22 committee filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1)
 - [LA Times: Prop 22 spending totals](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending) (Tier 2)
 - [CNBC: Prop 22 and DoorDash IPO](https://www.cnbc.com/2020/11/05/california-prop-22-win-improves-doordash-instacart-ipo-prospects.html) (Tier 2)
-- [CalMatters: Newsom recall donors](https://calmatters.org/politics/2021/10/newsom-recall-big-donors/) (Tier 2)
+- [CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/) (Tier 2)
 - [OpenSecrets: DoorDash PAC and lobbying](https://www.opensecrets.org/orgs/doordash-inc/summary?id=D000072628) (Tier 1)
 - [The Hill: DashPAC formation](https://thehill.com/lobbying/3550101-doordash-expands-political-footprint-with-new-pac/) (Tier 2)
 - [The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/) (Tier 2)
 
 research-status:: ready — $52.1M Prop 22, $500K recall executives, DashPAC $163K, IPO 5 weeks post-Prop 22, $1.64-2.38M federal lobbying, Flex Association co-founder. 8 sources, Tier 1-2. All ### headers. Promoted Session 38m.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 183 contributions totaling $1.8M
+
+**ActBlue/WinRed conduit duplicates filtered:** 3
+
+| Top Recipient | Amount |
+|---|---|
+| ONE GIANT LEAP PAC | $250.0K |
+| PIC 2021, INC. | $250.0K |
+| SMP | $175.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

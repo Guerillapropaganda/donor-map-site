@@ -46,7 +46,21 @@ AbbVie filed 132 patents on Humira — covering the drug itself, the delivery de
 
 - [OpenSecrets: AbbVie organizational profile](https://www.opensecrets.org/orgs/abbvie-inc/summary?id=D000067068) (Tier 1)
 - [I-MAK: Overpatented, Overpriced — Humira patent analysis](https://www.i-mak.org/humira/) (Tier 2)
-- [STAT News: AbbVie's Humira patent thicket strategy](https://www.statnews.com/abbvie-humira-patent/) (Tier 2)
+- [STAT News: AbbVie's Humira patent thicket strategy](https://www.statnews.com/pharmalot/2022/03/08/abbvie-humira-patent-biosimilar/) (Tier 2)
 - [Ballotpedia: AbbVie political spending](https://ballotpedia.org/AbbVie) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.3M
+
+| Top Recipient | Amount |
+|---|---|
+| DSCC | $30.0K |
+| NRSC | $30.0K |
+| NRCC | $30.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

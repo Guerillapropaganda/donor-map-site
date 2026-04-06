@@ -221,7 +221,7 @@ The critical question for class analysis is not whether EPI's research is accura
 - [NPR: Longtime AFL-CIO official takes up key labor post in Biden administration (Thea Lee)](https://www.npr.org/2021/05/10/995542715/longtime-afl-cio-official-takes-up-key-labor-post-in-biden-administration) (Tier 2)
 - [Ballotpedia: Economic Policy Institute](https://ballotpedia.org/Economic_Policy_Institute) (Tier 3)
 - [OpenSecrets: Economic Policy Institute profile](https://www.opensecrets.org/orgs/economic-policy-institute/summary?id=D000077354) (Tier 1)
-- [SourceWatch: Economic Policy Institute — tobacco funding history, Tobacco Institute relationship documentation](https://www.sourcewatch.org/index.php/Economic_Policy_Institute) (Tier 3)
+- [SourceWatch: Economic Policy Institute — tobacco funding history, Tobacco Institute relationship documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Economic_Policy_Institute) (Tier 3)
 - [EPI: Unprecedented — The Trump NLRB's attack on workers' rights (5 simultaneous rulemakings, quorum loss, constitutional challenge)](https://www.epi.org/publication/unprecedented-the-trump-nlrbs-attack-on-workers-rights/) (Tier 2)
 - [EPI: Trump is the biggest union-buster in U.S. history — 1 million federal workers' collective bargaining rights at risk](https://www.epi.org/blog/trump-is-the-biggest-union-buster-in-u-s-history-more-than-1-million-federal-workers-collective-bargaining-rights-are-at-risk/) (Tier 2)
 - [EPI: Federal Policy Watch — real-time tracker of Trump administration changes to worker protections](https://www.epi.org/policywatch/) (Tier 3)

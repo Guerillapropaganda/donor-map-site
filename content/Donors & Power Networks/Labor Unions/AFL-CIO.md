@@ -172,7 +172,7 @@ AFL-CIO President Shuler's framing: tariffs "can be an effective tool" but must 
 ### Sources
 
 - [OpenSecrets: AFL-CIO organizational profile — $2.9M contributions, $12.2M outside spending (2024)](https://www.opensecrets.org/orgs/afl-cio/summary?id=d000000088) (Tier 1)
-- [OpenSecrets: AFL-CIO lobbying profile — $5.2M (2024), $6.3M (2025)](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000088) (Tier 1)
+- [OpenSecrets: AFL-CIO lobbying profile — $5.2M (2024), $6.3M (2025)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000088) (Tier 1)
 - [OpenSecrets: AFL-CIO outside spending detail (2024 cycle)](https://www.opensecrets.org/outside-spending/detail/2024?cmte=AFL-CIO&tab=summary) (Tier 1)
 - [FEC: AFL-CIO COPE Political Contributions Committee (C00003806)](https://www.fec.gov/data/committee/C00003806/) (Tier 1)
 - [Congress.gov: H.R. 20 — Richard L. Trumka PRO Act of 2023 (118th Congress)](https://www.congress.gov/bill/118th-congress/house-bill/20) (Tier 1)
@@ -184,3 +184,19 @@ AFL-CIO President Shuler's framing: tariffs "can be an effective tool" but must 
 - [Ballotpedia: AFL-CIO](https://ballotpedia.org/AFL-CIO) (Tier 3)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 499 contributions totaling $5.6M
+
+**ActBlue/WinRed conduit duplicates filtered:** 1
+
+| Top Recipient | Amount |
+|---|---|
+| HMP | $1.4M |
+| SMP | $1.0M |
+| WORKERS VOTE | $325.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

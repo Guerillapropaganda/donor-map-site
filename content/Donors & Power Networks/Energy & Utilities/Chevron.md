@@ -2,14 +2,13 @@
 title: "Chevron"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-01
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
-federal-contracts: "3492"
 ---
 
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund
@@ -185,7 +184,7 @@ Environment — oil production, refinery regulation, environmental justice, frac
 ### Sources
 
 - [OpenSecrets: Chevron PAC contributions by cycle](https://www.opensecrets.org/orgs/chevron/totals?id=D000000015) (Tier 1)
-- [OpenSecrets: Chevron federal lobbying 2000–2024](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000000015) (Tier 1)
+- [OpenSecrets: Chevron federal lobbying 2000–2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000000015) (Tier 1)
 - [OpenSecrets: Chevron 2024 recipients](https://www.opensecrets.org/orgs/chevron/recipients?id=D000000015) (Tier 1)
 - [East Bay Times: 2012 Richmond refinery fire and settlement](https://www.eastbaytimes.com/2013/02/14/chevron-agrees-to-pay-90-million-to-settle-richmond-refinery-fire-claims/) (Tier 2)
 - [ProPublica: Chevron California cap-and-trade lobbying and union quid pro quo](https://www.propublica.org/article/cap-and-trade-is-supposed-to-solve-climate-change-but-oil-and-gas-company-emissions-are-up) (Tier 2)
@@ -201,26 +200,18 @@ Environment — oil production, refinery regulation, environmental justice, frac
 research-status:: developed — added 13-cycle PAC table (2000–2024, $8.47M total PAC, $58.2M all sources), 15-year federal lobbying table with key 2008-2010 peaks ($13M+ cap-and-trade fight), 2024 top recipients breakdown (SLF $4.5M, CLF $2.75M, Trump $59K, Harris $170K), Richmond refinery detail (2012 fire 15K hospitalized, 2014 $3M city election spend, 2017 AB 378 union quid pro quo, 2025 $12.9M state lobbying record), California climate policy (cap-and-trade extension language matching WSPA wish list, Monterey Z defeat, CARE $9M 2017), international operations (Myanmar MOGE lobbying 2021, Cardin-Lugar decade kill campaign, multi-country lobbying Angola/Kazakhstan/Nigeria/Venezuela), cultural sponsorship as lobbying tool (2024 investigation), 2026 Newsom cap-and-invest letter ($1/gallon gas warning). 13 sources, Tier 1-2 (5 UNVERIFIED). All ### headers. Format 2 temporal mapping ready for expansion.
 content-readiness:: developed
 
-### Federal Contracts
-<!-- auto:sam-contracts start -->
-| Metric | Value |
-|--------|-------|
-| Total Contracts Found | 3492 |
-| Sample Value (top 25) | $174.3M |
-| Year Range | 2004-2018 |
-| Federal Agencies | 4 |
+---
 
-**Contracting agencies:** DEPT OF DEFENSE, ENVIRONMENTAL PROTECTION AGENCY, HOMELAND SECURITY, DEPARTMENT OF, INTERIOR, DEPARTMENT OF THE
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Recent contracts:**
+**FEC contribution record:** 434 contributions totaling $7.8M
 
-| Amount | Agency | Date |
-|--------|--------|------|
-| $0 | DEPT OF DEFENSE | 2011-03-31 |
-| $0 | DEPT OF DEFENSE | 2010-12-08 |
-| $0 | DEPT OF DEFENSE | 2011-06-17 |
-| $0 | DEPT OF DEFENSE | 2013-11-21 |
-| $0 | DEPT OF DEFENSE | 2014-10-25 |
+**ActBlue/WinRed conduit duplicates filtered:** 66
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Chevron&page=1&index=opp) (Tier 1)
-<!-- auto:sam-contracts end -->
+| Top Recipient | Amount |
+|---|---|
+| CONGRESSIONAL LEADERSHIP FUND | $2.0M |
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $2.0M |
+| SLF PAC | $1.5M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

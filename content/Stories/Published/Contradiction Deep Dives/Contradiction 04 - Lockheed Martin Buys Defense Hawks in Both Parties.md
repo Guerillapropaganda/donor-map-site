@@ -139,7 +139,7 @@ Rosa DeLauro can fight Kay Granger on healthcare spending and mean it. They genu
 - [Readsludge: Lockheed-Funded Granger Vows to Protect Defense Spending](https://readsludge.com/2023/01/13/lockheed-funded-granger-vows-to-protect-defense-spending/) (Tier 2)
 - [OpenSecrets: Kay Granger Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cycle=Career&type=I&cid=N00008799&newMem=N) (Tier 1)
 - [Defense News: F-35 Inventory Soars in Pentagon Spending Bill](https://www.defensenews.com/congress/2018/09/14/f-35-inventory-soars-in-new-pentagon-spending-bill/) (Tier 2)
-- [Aviation Pros: Biden Budget Cuts F-35 Order but Fort Worth Reps. Push Back](https://www.aviationpros.com/aircraft/defense/news/21262233/biden-budget-cuts-pentagons-f-35-order-but-fort-worth-reps-kay-granger-and-marc-veasey-push-back/) (Tier 2)
+- [Aviation Pros: Biden Budget Cuts F-35 Order but Fort Worth Reps. Push Back](https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology/defense/news/21262233/biden-budget-cuts-pentagons-f-35-order-but-fort-worth-reps-kay-granger-and-marc-veasey-push-back) (Tier 2)
 - [Taxpayers for Common Sense: How Much Is That F-35 in the Window?](https://www.taxpayer.net/national-security/how-much-is-that-f-35-in-the-window/) (Tier 2)
 - [U.S. GAO: F-35 Will Now Exceed $2 Trillion](https://www.gao.gov/blog/f-35-will-now-exceed-2-trillion-military-plans-fly-it-less) (Tier 1)
 - [Responsible Statecraft: The F-35 Fighter Will Now Cost More Than $2 Trillion](https://responsiblestatecraft.org/f35-cost/) (Tier 2)
@@ -156,3 +156,4 @@ Rosa DeLauro can fight Kay Granger on healthcare spending and mean it. They genu
 
 research-status:: ready — Promoted Session 39.
 content-readiness:: ready
+                   

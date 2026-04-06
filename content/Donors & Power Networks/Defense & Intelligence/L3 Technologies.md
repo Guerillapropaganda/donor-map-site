@@ -45,7 +45,21 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 ### Sources
 
 - [OpenSecrets: L3 Technologies lobbying and contributions](https://www.opensecrets.org/orgs/l3-technologies) (Tier 1)
-- [OpenSecrets: Defense sector political spending overview](https://www.opensecrets.org/industries/indus?ind=D) (Tier 1)
+- [OpenSecrets: Defense sector political spending overview](https://www.opensecrets.org/industries?ind=D) (Tier 1)
 - [The Intercept: Surveillance and Border Security Contractors See Big Money in Donald Trump's Immigration Agenda](https://theintercept.com/2016/12/06/defense-companies-trump/) (Tier 2)
 
 `content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.8M
+
+| Top Recipient | Amount |
+|---|---|
+| DCCC | $105.0K |
+| NRCC | $105.0K |
+| NRSC | $105.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

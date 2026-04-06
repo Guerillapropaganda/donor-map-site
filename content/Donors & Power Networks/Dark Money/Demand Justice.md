@@ -2,7 +2,7 @@
 title: "Demand Justice"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-23
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,8 +15,6 @@ politicians-funded:
   - "Barack Obama"
 issues:
   - "Dark Money & Campaign Finance"
-lobbying-spend: 650000
-lobbying-filings: 45
 ---
 
 #donor-node #dark-money #democrat #judicial-appointments #court-capture #class-analysis #donor
@@ -160,33 +158,30 @@ Republicans frame judicial appointments as "restoring constitutional integrity."
 
 - [Demand Justice - InfluenceWatch](https://www.influencewatch.org/organization/demand-justice/) (Tier 3)
 - [CNBC: Democratic bill would require dark money judicial groups to reveal donors](https://www.cnbc.com/2020/07/02/democratic-bill-would-require-dark-money-judicial-groups-to-reveal-donors.html) (Tier 2)
-- [Capital Research Center: Demand Justice Profile](https://capitalresearch.org/article/demand-justice/) (Tier 3)
+- [Capital Research Center: Demand Justice Profile](https://capitalresearch.org/article/demand-justice-how/) (Tier 3)
 - [NPR: Leonard Leo and The Federalist Society](https://www.npr.org/2024/11/24/nx-s1-5199049/federalist-society-conservative-supreme-court) (Tier 2)
 - [Sixteen Thirty Fund - OpenSecrets](https://www.opensecrets.org/orgs/sixteen-thirty-fund/summary?id=D000070975) (Tier 1)
 - [Biden Judicial Appointments Record](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-president-biden-announces-federal-judicial-appointments/) (Tier 1)
-- [Kavanaugh Confirmation Vote Record](https://www.senate.gov/legislative/LIS/roll_call_votes/sv115_2_ks0288.xml) (Tier 1)
-- [Ketanji Brown Jackson Confirmation Record](https://www.senate.gov/legislative/LIS/roll_call_votes/sv117_2_ks0243.xml) (Tier 1)
+- [Kavanaugh Confirmation Vote Record](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1)
+- [Ketanji Brown Jackson Confirmation Record](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1)
 
 ---
 
 research-status:: ready - Comprehensive dark money donor node mapping Demand Justice's judicial warfare infrastructure, $50M+ deployment timeline, judge vetting parallels to Federalist Society, core contradictions in Democratic dark money usage. 164 lines, 9 sources (Tier 1-3). Promoted Session 38k.
 content-readiness:: ready
 
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $650K |
-| Quarterly Filings | 45 |
-| Year Range | 2024-2026 |
-| Lobbying Firms | 7 |
-| Individual Lobbyists | 0 |
+---
 
-**Issues lobbied:** Aerospace, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Constitution, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Financial Institutions/Investments/Securities, Foreign Relations, Government Issues, Health Issues, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Medicare/Medicaid, Pharmacy, Science/Technology, Taxation/Internal Revenue Code, Telecommunications
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Lobbying firms:** BLACK DIAMOND STRATEGIES LLC, CONTINENTAL STRATEGY, LLC, DEMAND PROGRESS ACTION, INC, KATHERINE OH, MARBLE ARCH, OMEGA STRATEGIES LLC (DC), TARPLIN, DOWNS & YOUNG, LLC
+**FEC contribution record:** 4 contributions totaling $20.0K
 
-**Agencies contacted:** Consumer Financial Protection Bureau (CFPB), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Trade Commission (FTC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Justice, Dept of (DOJ), Natl Economic Council (NEC), Office of Management & Budget (OMB) +2 more
+**ActBlue/WinRed conduit duplicates filtered:** 496
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Demand%20Justice) (Tier 1)
-<!-- auto:lda-lobbying end -->
+| Top Recipient | Amount |
+|---|---|
+| MAXWELL ALEJANDRO FROST FOR CONGRESS | $5.0K |
+| JAMIE RASKIN FOR CONGRESS | $5.0K |
+| PRAMILA FOR CONGRESS | $5.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

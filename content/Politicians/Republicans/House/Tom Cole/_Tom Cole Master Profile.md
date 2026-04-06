@@ -142,7 +142,7 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 - [FEC: Tom Cole candidate filings](https://www.fec.gov/data/candidate/H2OK04055/) (Tier 1)
 - [Congress.gov: Tom Cole member profile](https://www.congress.gov/member/tom-cole/C001053) (Tier 1)
 - [House Appropriations Committee: Chairman Tom Cole](https://appropriations.house.gov/about/chairman-tom-cole) (Tier 1)
-- [Cole.house.gov: FY2026 Defense Appropriations vote statement](https://cole.house.gov/media/press-releases/cole-votes-favor-fiscal-year-2026-defense-appropriations-bill) (Tier 1)
+- [Cole.house.gov: FY2026 Defense Appropriations vote statement](https://cole.house.gov/media/press-releases/cole-votes-favor-defense-labor-health-and-human-services-educationfense-appropriations-bill) (Tier 1)
 - [Cole.house.gov: FY2026 Energy and Water Appropriations vote statement](https://cole.house.gov/media/press-releases/cole-votes-favor-fiscal-year-2026-energy-and-water-appropriations-bill) (Tier 1)
 - [Cole.house.gov: Tribal relations issues page](https://cole.house.gov/issues/tribal-relations) (Tier 1)
 - [Nebraska Examiner: Cole tapped as Appropriations Chairman](https://nebraskaexaminer.com/2024/04/09/u-rep-tom-cole-of-oklahoma-tapped-by-gop-as-house-appropriations-chairman) (Tier 2)
@@ -150,7 +150,4 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 - [Notus: Cole's Appropriations seat motivates stay in Congress](https://www.notus.org/congress/tom-cole-appropriations-committee-reelection-congress-retire) (Tier 2)
 - [Native News Online: Cole becomes longest-serving Native American in the House](https://nativenewsonline.net/currents/rep-cole-becomes-longest-serving-native-american-in-the-house/) (Tier 2)
 - [Indianz.com: Cole on tribal sovereignty and self-determination](https://indianz.com/News/2023/11/27/tom-cole-promoting-tribal-sovereignty-and-self-determination-in-congress/) (Tier 2)
-- [Ballotpedia: Tom Cole (Oklahoma)](https://ballotpedia.org/Tom_Cole_%28Oklahoma%29) (Tier 3)
-
-profile-status:: ready
-content-readiness:: ready
+- [Ballotpedia: Tom Cole (Oklahoma)](https://ballotpedia.org/Tom_Cole_(Oklahoma)) 

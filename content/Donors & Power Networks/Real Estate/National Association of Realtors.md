@@ -2,7 +2,7 @@
 title: "National Association of Realtors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -11,8 +11,6 @@ issues:
   - "Housing"
   - "Antitrust & Monopoly"
 federal-contracts: "2616134"
-lobbying-spend: 2580222
-lobbying-filings: 137
 ---
 
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door
@@ -351,22 +349,16 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 - [Politico: Brian Montgomery Senate Confirmation](https://www.politico.com/story/2018/05/23/brian-montgomery-hud-senate-confirmation-559178) (Tier 2) (UNVERIFIED)
 
 content-readiness:: developed
+---
 
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $2.6M |
-| Quarterly Filings | 137 |
-| Year Range | 2024-2026 |
-| Lobbying Firms | 94 |
-| Individual Lobbyists | 0 |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Issues lobbied:** Advertising, Agriculture, Animals, Arts/Entertainment, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Media (information/publishing), Medicare/Medicaid, Natural Resources, Postal, Retirement, Roads/Highway, Science/Technology, Small Business, Sports/Athletics, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Tobacco, Trade (domestic/foreign), Transportation, Trucking/Shipping, Utilities, Veterans, Waste (hazardous/solid/interstate/nuclear), Welfare
+**FEC contribution record:** 500 contributions totaling $3.3M
 
-**Lobbying firms:** A STREET STRATEGIES, ACG ADVOCACY, ACTIVE POLICY SOLUTIONS, LLC, ADAMS AND REESE, LLP, ADAPTIVE GOVERNMENT RELATIONS, ALSTON & BIRD LLP, AMERICAN DEFENSE INTERNATIONAL, INC., APCO WORLDWIDE LLC, ASCEND CONSULTING, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BAYARD RIDGE GROUP, LLC, BECKER & POLIAKOFF, P.A., BGR GOVERNMENT AFFAIRS, CAPSTONE NATIONAL PARTNERS, CARLOUGH SOLUTIONS, LLC, CJ LAKE, LLC, CONLON PUBLIC STRATEGIES, CONTINENTAL STRATEGY, LLC, CORCORAN STRATEGIES GROUP, CUMBERLAND GAP CONSULTING, LLC, DUTKO GOVERNMENT RELATIONS, EB CONSULTING, FIDELITY NATIONAL INFORMATION SYSTEMS, INC. AND SUBSIDIARIES, FRANZ CONSULTING, LLC, GRAYROBINSON PA, HB STRATEGIES, HOLLAND & KNIGHT LLP, HOLLIER & ASSOCIATES, I STREET ADVOCATES, KLEIN/JOHNSON GROUP, LOBBYIT.COM, LUCAS | COMPTON, MCDERMOTT+ LLC, MEHLMAN CONSULTING, INC., MERCURY PUBLIC AFFAIRS, LLC, MILLER STRATEGIES, LLC, MINDSET ADVOCACY, LLC, MONUMENT ADVOCACY, MORGAN, LEWIS & BOCKIUS, LLP, NATIONAL ACCREDITING COMMISSION OF CAREER ARTS & SCIENCES, NATIONAL AGRICULTURAL AVIATION ASSOCIATION, NATIONAL ASSOCIATION OF CONSUMER ADVOCATES, INC., NATIONAL ASSOCIATION OF GOVERNMENT GUARANTEED LENDERS, INC., NATIONAL ASSOCIATION OF HOUSING COOPERATIVES, NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS, NATIONAL ASSOCIATION OF POSTAL SUPERVISORS, NATIONAL ASSOCIATION OF SOCIAL WORKERS, NATIONAL ASSOCIATION OF TELECOMMUNICATIONS OFFICERS AND ADVISORS, NATIONAL CANNABIS INDUSTRY ASSOCIATION, NATIONAL CLUB ASSOCIATION, NATIONAL COMMUNITY STABILIZATION TRUST, NATIONAL COOPERATIVE SERVICES CORPORATION, NATIONAL COUNCIL OF HIGHER EDUCATION LOAN PROGRAMS, INC, NATIONAL COUNCIL ON COMPENSATION INSURANCE, INC., NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION, INC., NATIONAL EMERGENCY NUMBER ASSOCIATION, NATIONAL ENVIRONMENTAL STRATEGIES, NATIONAL FIRE PROTECTION ASSOCIATION, NATIONAL FLIGHT TRAINING ALLIANCE, NATIONAL GROUP, LLP, NATIONAL GUILD FOR COMMUNITY ARTS EDUCATION, NATIONAL INDEPENDENT AUTOMOBILE DEALERS ASSOCIATION, NATIONAL INSURANCE CRIME BUREAU, NATIONAL MAIN STREET CENTER, INC., NATIONAL OILHEAT RESEARCH ALLIANCE, NATIONAL ORGANIZATION FOR THE REFORM OF MARIJUANA LAWS, NATIONAL POTATO COUNCIL, NATIONAL RIGHT TO LIFE COMMITTEE, NATIONAL STAR ROUTE MAIL CONTRACTORS ASSOCIATION, NATIONAL TRUCK EQUIPMENT ASSOCIATION, NATIONAL TRUST FOR HISTORIC PRESERVATION, NATIONAL TURKEY FEDERATION, NATIONAL WASTE & RECYCLING ASSOCIATION, NATURAL RESOURCE RESULTS LLC, NELSON MULLINS RILEY & SCARBOROUGH, OCULUS STRATEGIES, LLC, PHRONESISDC, LLC, POLISPECTIVES, LLC, POTOMAC STRATEGIC CONSULTING LLC, RAGNAR GROUP LLC, REVERE FEDERAL STRATEGIES, RIVER PUBLIC AFFAIRS GROUP, S-3 GROUP, SHUMAKER ADVISORS, LLC, SLEEP, INC., SORINI, SAMET & ASSOCIATES, LLC, THE INGRAM GROUP LLC, THE NICKLES GROUP, LLC, THE RESERVE COMPONENT, THE VOGEL GROUP, THE WAYFINDER GROUP, THEGROUP DC, LLC, VAN SCOYOC ASSOCIATES, VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)
+| Top Recipient | Amount |
+|---|---|
+| NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $500.0K |
+| TEXANS FOR A CONSERVATIVE MAJORITY | $250.0K |
+| NRCC | $150.0K |
 
-**Agencies contacted:** Advisory Council on Historic Preservation (ACHP), Agriculture, Dept of (USDA), American Battle Monuments Commission, Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Congressional Budget Office (CBO), Consumer Financial Protection Bureau (CFPB) +56 more
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=National%20Association%20of%20Realtors) (Tier 1)
-<!-- auto:lda-lobbying end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

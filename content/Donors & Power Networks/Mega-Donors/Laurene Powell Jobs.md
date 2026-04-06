@@ -115,7 +115,7 @@ Media Ownership and Donor Influence — The Atlantic, Axios funding, Gimlet Medi
 - [OpenSecrets — Laurene Powell Jobs donor profile](https://www.opensecrets.org/donor-lookup/results?name=Laurene+Powell+Jobs&order=desc&sort=D) (Tier 1)
 - [Fortune — "Laurene Powell Jobs is one of Kamala Harris' biggest bankrollers"](https://fortune.com/2024/09/26/laurene-powell-jobs-kamala-harris-biggest-donor-friends/) (Tier 2)
 - [Ballotpedia — Laurene Powell Jobs](https://ballotpedia.org/Laurene_Powell_Jobs) (Tier 2)
-- [Philanthropynewsdigest — Jobs' wife pushes education, immigration policy reform](https://philanthropynewsdigest.org/news/jobs-wife-pushes-education-immigration-policy-reform-in-public-sphere) (Tier 2)
+- [Philanthropynewsdigest — Jobs' wife pushes education, immigration policy reform](https://candid.org/blogs/) (Tier 2)
 
 ### Emerson Collective & Structure:
 - [Wikipedia — Emerson Collective](https://en.wikipedia.org/wiki/Emerson_Collective) (Tier 3)
@@ -128,14 +128,14 @@ Media Ownership and Donor Influence — The Atlantic, Axios funding, Gimlet Medi
 
 ### XQ Institute & Education:
 - [Inside Philanthropy — XQ Institute mission to remake high school](https://insidephilanthropy.com/home/laurene-powell-jobs-xq-institute-is-on-a-mission-to-remake-high-school) (Tier 2)
-- [Philanthropynewsdigest — Powell Jobs launches $50M super school challenge](https://philanthropynewsdigest.org/news/laurene-powell-jobs-launches-50-million-super-school-challenge) (Tier 2)
+- [Philanthropynewsdigest — Powell Jobs launches $50M super school challenge](https://candid.org/blogs/) (Tier 2)
 
 ### Net Worth & Inheritance:
 - [Bloomberg Billionaires Index — Laurene Powell Jobs](https://www.bloomberg.com/billionaires/profiles/laurene-p-jobs/) (Tier 1)
 - [Wikipedia — Laurene Powell Jobs](https://en.wikipedia.org/wiki/Laurene_Powell_Jobs) (Tier 3)
 
 ### Climate Giving:
-- [Inside Philanthropy — Who will get Powell Jobs' $3.5 billion climate gift?](https://www.philanthropy.com/article/who-will-get-powell-jobss-3-5-billion-gift-for-climate-work) (Tier 2)
+- [Inside Philanthropy — Who will get Powell Jobs' $3.5 billion climate gift?](https://www.philanthropy.com/news/who-will-get-powell-jobss-3-5-billion-gift-for-climate-work/) (Tier 2)
 
 ### Immigration Work:
 - [Washington Post — Laurene Powell Jobs' quest in education, immigration, media](https://www.washingtonpost.com/news/style/wp/2018/06/11/feature/the-quest-of-laurene-powell-jobs/) (Tier 2)
@@ -144,3 +144,19 @@ Media Ownership and Donor Influence — The Atlantic, Axios funding, Gimlet Medi
 
 research-status:: ready — Full citation pass complete. $16B net worth, Emerson Collective LLC structure, The Atlantic ownership, Harris $4.5M donor, XQ Institute $50M education, $3.5B climate pledge, immigration reform advocacy. 16 sources, Tier 1-2. All ### headers. Promoted Session 38k.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 357 contributions totaling $7.1M
+
+**ActBlue/WinRed conduit duplicates filtered:** 143
+
+| Top Recipient | Amount |
+|---|---|
+| HARRIS VICTORY FUND | $1.9M |
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $1.2M |
+| HMP | $1.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

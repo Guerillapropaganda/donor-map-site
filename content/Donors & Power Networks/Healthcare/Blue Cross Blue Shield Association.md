@@ -170,7 +170,7 @@ The public option was included in the original House ACA bill (2009) but strippe
 ### Sources
 
 - [OpenSecrets: Blue Cross Blue Shield organizational profile — $10.4M contributions, lobbying rank #5 (2024)](https://www.opensecrets.org/orgs/blue-cross-blue-shield/summary?id=D000000109) (Tier 1)
-- [OpenSecrets: BCBS lobbying profile — $27.1M (2024), $27.9M (2025), subsidiary breakdown](https://www.opensecrets.org/federal-lobbying/clients/summary?id=d000000109) (Tier 1)
+- [OpenSecrets: BCBS lobbying profile — $27.1M (2024), $27.9M (2025), subsidiary breakdown](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=d000000109) (Tier 1)
 - [AHA News: BCBS antitrust lawsuit provider settlement platform goes live (December 2024)](https://www.aha.org/news/headline/2024-12-20-bcbs-antitrust-lawsuit-provider-settlement-platform-goes-live) (Tier 2)
 - [BCBS Antitrust Settlement: Official settlement site — $2.8B cash, final approval August 2025](https://www.bcbssettlement.com/) (Tier 1)
 - [Healthcare Dive: Biden administration finalizes modest cut to 2025 Medicare Advantage rates](https://www.healthcaredive.com/news/medicare-advantage-final-rates-2025-modest-cut/711927/) (Tier 2)
@@ -179,3 +179,17 @@ The public option was included in the original House ACA bill (2009) but strippe
 - [Ballotpedia: Blue Cross Blue Shield Association](https://ballotpedia.org/Blue_Cross_Blue_Shield_Association) (Tier 3)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.4M
+
+| Top Recipient | Amount |
+|---|---|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $100.0K |
+| DSCC | $80.8K |
+| DCCC | $77.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

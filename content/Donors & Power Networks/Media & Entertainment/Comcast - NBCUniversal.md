@@ -110,7 +110,7 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 ### Sources
 
 - [OpenSecrets: Comcast Corp organizational profile](https://www.opensecrets.org/orgs/comcast-corp/summary?id=D000000461) (Tier 1)
-- [OpenSecrets: Comcast Corp lobbying profile](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000000461) (Tier 1)
+- [OpenSecrets: Comcast Corp lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000000461) (Tier 1)
 - [FEC: Comcast Corporation & NBCUniversal PAC — Federal (C00248716)](https://www.fec.gov/data/committee/C00248716/) (Tier 1)
 - [Roll Call: FCC move to restore net neutrality sets stage for familiar fight](https://rollcall.com/2024/04/09/fcc-move-to-restore-net-neutrality-sets-stage-for-familiar-fight/) (Tier 2)
 - [Revolving Door Project: Unmasking FCC's revolving door with telecom giants](https://therevolvingdoorproject.org/unmasking-fccs-revolving-door-with-telecom-giants/) (Tier 2)
@@ -120,3 +120,17 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 
 content-readiness:: developed
 research-status:: developed — $13.9M lobbying (2024), $2.02M PAC (2025-2026 cycle), 32M broadband subscribers, $121B revenue, net neutrality permanently killed 2025, 16-state municipal broadband ban, $42.5B BEAD subsidy capture, FCC revolving door (Pai/Baker/Cohen), dual-class share structure. 8 sources, Tier 1-3. 2 broken URLs from original file replaced (FCC page disabled, WaPo 404). Promoted from ready (thin) to developed (substantive). Session: Automated Donor Node Build March 25, 2026 Run 12.
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.7M
+
+| Top Recipient | Amount |
+|---|---|
+| DEFEND OUR MAJORITY | $67.0K |
+| VERSANT MEDIA GROUP, INC. POLITICAL ACTION COMMITTEE | $50.0K |
+| NRCC | $45.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

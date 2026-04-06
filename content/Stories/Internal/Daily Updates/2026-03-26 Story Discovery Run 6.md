@@ -107,7 +107,7 @@ parent: null
 
 ### Sources:
 - [Responsible Statecraft: Pols loaded with industry cash vote up military budget](https://responsiblestatecraft.org/congress-ndaa-vote/) (Tier 2)
-- [OpenSecrets: Defense Sector Summary](https://www.opensecrets.org/industries/indus?Ind=D) (Tier 1)
+- [OpenSecrets: Defense Sector Summary](https://www.opensecrets.org/industries?Ind=D) (Tier 1)
 
 ---
 

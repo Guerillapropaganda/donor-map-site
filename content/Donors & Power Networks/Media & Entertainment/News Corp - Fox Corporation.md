@@ -47,3 +47,17 @@ Media deregulation (relaxed ownership limits allowing greater consolidation), fa
 - [Ballotpedia: Fox News](https://ballotpedia.org/Fox_News) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 3 contributions totaling $103.5K
+
+| Top Recipient | Amount |
+|---|---|
+| 1996 REP S/H DINNER TRUST AND BLDG FUND-NON FED | $100.0K |
+| DREIER FOR CONGRESS COMMITTEE | $2.5K |
+| PETE SESSIONS FOR CONGRESS 2006 | $1.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

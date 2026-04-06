@@ -46,3 +46,17 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 - [Ballotpedia: Occidental Petroleum](https://ballotpedia.org/Occidental_Petroleum) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $19.2M
+
+| Top Recipient | Amount |
+|---|---|
+| SENATE LEADERSHIP FUND | $9.5M |
+| CONGRESSIONAL LEADERSHIP FUND | $5.0M |
+| SLF PAC | $1.2M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

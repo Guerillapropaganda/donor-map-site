@@ -27,7 +27,7 @@ content-readiness:: ready
 
 ### Who They Are
 
-[[Robert Mercer]]. Billionaire hedge fund manager. Co-CEO of Renaissance Technologies (1993–2017). Architect of the Medallion Fund — the most profitable quantitative trading fund in history ($66B+ cumulative profits, 62% annualized returns 1988–2021). Net worth: ~$1 billion. IRS dispute: $7 billion settlement in 2021 over "basket options" tax avoidance — the largest tax settlement in U.S. history [Source: [Senate Permanent Subcommittee on Investigations: Renaissance Technologies tax avoidance](https://www.hsgac.senate.gov/subcommittees/investigations/home) (Tier 1)]. Total political donations: $34.9M+ to Republican candidates and PACs since 2006 ($22.5M in the 2016 cycle alone) [Source: [OpenSecrets: Robert Mercer donor profile](https://www.opensecrets.org/donor-lookup/results?name=robert+mercer&order=desc&sort=D) (Tier 1)]. Funded the trifecta that put Trump in the White House: Breitbart News ($10M — the messaging platform), Cambridge Analytica ($15-20M — the data weapon), and Make America Number 1 super PAC ($15.5M — the money). Resigned as Renaissance co-CEO in November 2017 after Jim Simons pressured him over Breitbart's toxicity. Transferred political operations to daughter Rebekah. The man who turned algorithmic trading profits into algorithmic political manipulation — using the same data-driven logic to trade elections that he used to trade markets.
+[[Robert Mercer]]. Billionaire hedge fund manager. Co-CEO of Renaissance Technologies (1993–2017). Architect of the Medallion Fund — the most profitable quantitative trading fund in history ($66B+ cumulative profits, 62% annualized returns 1988–2021). Net worth: ~$1 billion. IRS dispute: $7 billion settlement in 2021 over "basket options" tax avoidance — the largest tax settlement in U.S. history [Source: [Senate Permanent Subcommittee on Investigations: Renaissance Technologies tax avoidance](https://www.hsgac.senate.gov/subcommittees/investigations/) (Tier 1)]. Total political donations: $34.9M+ to Republican candidates and PACs since 2006 ($22.5M in the 2016 cycle alone) [Source: [OpenSecrets: Robert Mercer donor profile](https://www.opensecrets.org/donor-lookup/results?name=robert+mercer&order=desc&sort=D) (Tier 1)]. Funded the trifecta that put Trump in the White House: Breitbart News ($10M — the messaging platform), Cambridge Analytica ($15-20M — the data weapon), and Make America Number 1 super PAC ($15.5M — the money). Resigned as Renaissance co-CEO in November 2017 after Jim Simons pressured him over Breitbart's toxicity. Transferred political operations to daughter Rebekah. The man who turned algorithmic trading profits into algorithmic political manipulation — using the same data-driven logic to trade elections that he used to trade markets.
 
 ---
 
@@ -116,5 +116,20 @@ Political infrastructure that operates independently of politicians. The Mercer 
 - [NPR: Inside the family funding Bannon's plan](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years) (Tier 2)
 - [Wikipedia: Robert Mercer](https://en.wikipedia.org/wiki/Robert_Mercer) (Tier 3)
 - [CNBC: Robert Mercer political spending](https://www.cnbc.com/2020/04/15/robert-mercer-starts-big-money-effort-for-trump-campaign.html) (Tier 2)
-- [Senate Permanent Subcommittee on Investigations: Renaissance Technologies tax avoidance, 2014](https://www.hsgac.senate.gov/subcommittees/investigations/home) (Tier 1)
-- [SourceWatch: Robert Mercer](https://www.sourcewatch.org/index.php/Robert_Mercer) (Tier 3)
+- [Senate Permanent Subcommittee on Investigations: Renaissance Technologies tax avoidance, 2014](https://www.hsgac.senate.gov/subcommittees/investigations/) (Tier 1)
+- [SourceWatch: Robert Mercer](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Robert_Mercer) (Tier 3)
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 341 contributions totaling $2.5M
+
+**ActBlue/WinRed conduit duplicates filtered:** 159
+
+| Top Recipient | Amount |
+|---|---|
+| TRUMP 47 COMMITTEE, INC. | $927.9K |
+| REPUBLICAN NATIONAL COMMITTEE | $615.5K |
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $500.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

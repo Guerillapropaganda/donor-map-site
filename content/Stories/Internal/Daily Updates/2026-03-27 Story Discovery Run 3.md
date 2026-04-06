@@ -103,7 +103,7 @@ Five stories surfaced in this scan, focusing on new angles NOT covered in Runs 1
 **Significance:** Silver. Published today, directly relevant to existing vault profiles, well-sourced. The behested payment figure is the most actionable new data point.
 
 ### Sources (all Chrome-verified VALID 2026-03-27):
-- [CalMatters: Tech giants are spending more than ever to shape California politics](https://calmatters.org/politics/2026/03/meta-google-ai-regulation-elections/) (Tier 2)
+- [CalMatters: Tech giants are spending more than ever to shape California politics](https://calmatters.org/category/politics/2026/03/meta-google-ai-regulation-elections/) (Tier 2)
 - [Issue One: As Big Tech Gears Up for the 2026 Midterms, Its Lobbying Operations Continue Unabated](https://issueone.org/articles/big-tech-lobbying-2025-q3/) (Tier 2)
 
 ---

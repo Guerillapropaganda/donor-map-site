@@ -145,7 +145,7 @@ Bonnell's format trains audiences to see political engagement as entertainment, 
 
 ### Sources
 
-- [Destiny (streamer) - Wikipedia](https://en.wikipedia.org/wiki/Destiny_(streamer)) (Tier 3) (Chrome verified 2026-03-27)
+- [Destiny (streamer) - Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast))) (Tier 3) (Chrome verified 2026-03-27)
 - [Steven Bonnell Net Worth: The Rise of a Controversial Streamer — SayWhatMagazine](https://saywhatmagazine.co.uk/steven-bonnell-net-worth/) (Tier 3) (Chrome verified 2026-03-27)
 - [How Much Is Destiny's Total Net Worth? — Sportskeeda](https://www.sportskeeda.com/esports/destiny-net-worth) (Tier 3) (Chrome verified 2026-03-27)
 - [Destiny Streamer Profile: Net Worth, Wife, Ban History — Spilled.gg](https://spilled.gg/streamer/destiny/) (Tier 3) (Chrome verified 2026-03-27)

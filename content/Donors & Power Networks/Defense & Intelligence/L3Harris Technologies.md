@@ -200,7 +200,7 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 ### FEC & OpenSecrets:
 - [FEC: L3Harris Technologies Inc PAC Committee Overview](https://www.fec.gov/data/committee/C00100321/) (Tier 1)
 - [OpenSecrets: L3Harris Technologies PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/l3harris-technologies/C00100321/summary/2024) (Tier 1)
-- [OpenSecrets: L3Harris Technologies Lobbying Profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000071910) (Tier 1)
+- [OpenSecrets: L3Harris Technologies Lobbying Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000071910) (Tier 1)
 - [L3Harris: 2024 Cycle Political Contributions (PDF)](https://www.l3harris.com/sites/default/files/2025-03/L3Harris-2024-cycle-contributions.pdf) (Tier 1)
 - [L3Harris: Political Activities Statement](https://www.l3harris.com/political-activities) (Tier 1)
 
@@ -223,7 +223,7 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 
 ### Congressional Stock Trading:
 - [Capitol Trades: Congress Defense Stock Plays](https://www.capitoltrades.com/articles/congress-s-defense-stock-plays-profiting-from-the-us-israel-iran-war-2026-02-03) (Tier 2)
-- [Quiver Quantitative: Congress Trading in Defense](https://www.quiverquant.com/news/Congress+trading+in+Defense%3A+What+are+they+buying%3F) (Tier 2)
+- [Quiver Quantitative: Congress Trading in Defense](https://www.quiverquant.com/news/Congress+trading+in+Defense:+What+are+they+buying%3F) (Tier 2)
 
 ### Revolving Door & Compliance:
 - [POGO: Brass Parachutes — Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
@@ -237,3 +237,16 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 ---
 
 content-readiness:: developed
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.7M
+
+| Top Recipient | Amount |
+|---|---|
+| DCCC | $105.0K |
+| NRCC | $105.0K |
+| DSCC | $105.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

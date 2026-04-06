@@ -127,7 +127,7 @@ The Texas race was also notable for its progressive vs. establishment dynamics: 
 
 ### Sources
 
-- [FEC: Reid Hoffman individual contributions 2019-2024](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=hoffman) (Tier 1)
+- [FEC: Reid Hoffman individual contributions 2019-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=hoffman) (Tier 1)
 - [OpenSecrets: Reid Hoffman donor profile](https://www.opensecrets.org/donor/top/hoffman-reid) (Tier 2)
 - [Wisconsin Democratic Party financial disclosures 2019-2024](https://elections.wi.gov/state-candidates-and-committees) (Tier 1)
 - [OpenSecrets: Reid Hoffman Outside Spending Donor Detail — 2024 Cycle](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000004136&name=Hoffman,+Reid+Garrett&super_only=S&type=I) (Tier 1)
@@ -144,3 +144,18 @@ The Texas race was also notable for its progressive vs. establishment dynamics: 
 
 content-readiness:: ready
 research-status:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 453 contributions totaling $34.9M
+
+**ActBlue/WinRed conduit duplicates filtered:** 47
+
+| Top Recipient | Amount |
+|---|---|
+| FF PAC | $10.2M |
+| REPUBLICAN ACCOUNTABILITY PAC | $4.1M |
+| ONE FOR ALL COMMITTEE | $2.6M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -116,3 +116,17 @@ The legal framework that enables this — *Citizens United* allowing unlimited s
 
 content-readiness:: ready
 research-status:: ready — $304M war chest documented, top donor breakdown (Mellon $165M+, Adelson $100M+, Yass $45M+), 2026 midterm war chest ($294-304M), new donor class (Foris Dax $30M, Brockman $25M, Energy Transfer $25M), donor-to-policy returns mapped, concentration analysis (3 donors = 80%). All ### headers, Tier 1-2 sources. Promoted to ready Session 38h.
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 21 contributions totaling $97.6K
+
+| Top Recipient | Amount |
+|---|---|
+| DSCC-NON-FEDERAL MIXED | $40.0K |
+| PRES DINNER - 93 (NON-FEDERAL TRUST AND BUILDING FUND) | $20.0K |
+| DNC-NONFEDERAL-CORPORATE | $12.2K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

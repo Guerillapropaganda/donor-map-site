@@ -154,7 +154,7 @@ AB 1228's fast food council is the exemplar: a visible, measurable program that 
 
 ### Sources
 - [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1)
-- [CalMatters: Newsom recall donors](https://calmatters.org/politics/2021/10/newsom-recall-big-donors/) (Tier 2)
+- [CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/) (Tier 2)
 - [Mercury News: Uber Innovation PAC 2024](https://www.mercurynews.com/2024/11/05/big-spenders-these-companies-are-giving-the-most-to-california-legislative-candidates/) (Tier 2)
 - [OpenSecrets: Uber, Lyft, DoorDash profiles](https://www.opensecrets.org/members-of-congress/summary?name=Labor) (Tier 1)
 - [The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/) (Tier 2)

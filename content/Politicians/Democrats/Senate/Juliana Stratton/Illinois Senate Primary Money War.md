@@ -41,11 +41,11 @@ What did Pritzker get in return? Political succession. [Stratton is positioned a
 
 ### Fairshake's Crypto Gamble: The Industry PAC Counter-Bet
 
-On the opposite side, Fairshake—the Democratic arm of the bipartisan crypto industry PAC backed by Coinbase, Ripple Labs, and venture capitalists Marc Andreessen and Ben Horowitz—spent approximately $10 million opposing Stratton and implicitly supporting Krishnamoorthi. [Fairshake's television commercials in late February attacked Stratton directly, representing "the largest single expenditure in any Illinois race this election cycle" at that point.](https://www.coindesk.com/policy/2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi/)
+On the opposite side, Fairshake—the Democratic arm of the bipartisan crypto industry PAC backed by Coinbase, Ripple Labs, and venture capitalists Marc Andreessen and Ben Horowitz—spent approximately $10 million opposing Stratton and implicitly supporting Krishnamoorthi. [Fairshake's television commercials in late February attacked Stratton directly, representing "the largest single expenditure in any Illinois race this election cycle" at that point.](https://www.coindesk.com/policy2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi)
 
 Why did the crypto industry target Stratton? The answer lies in her implicit alignment with anti-crypto Democratic positions and her public statements skeptical of cryptocurrency industry influence in politics. Krishnamoorthi, by contrast, had been more measured in his stance on crypto regulation, making him a more palatable choice for the industry. [Fairshake's strategic bet was that Krishnamoorthi's massive personal fundraising ($29 million in direct campaign spending), combined with Fairshake's outside spending, could overwhelm both Stratton and Kelly.](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/)
 
-The crypto PAC also faced competition from another industry PAC: Progressive Values Illinois, financed by crypto executive Don Wilson and Thoma Bravo private equity executives, [which spent over $300,000 on mailers supporting Krishnamoorthi.](https://www.coindesk.com/policy/2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi/)
+The crypto PAC also faced competition from another industry PAC: Progressive Values Illinois, financed by crypto executive Don Wilson and Thoma Bravo private equity executives, [which spent over $300,000 on mailers supporting Krishnamoorthi.](https://www.coindesk.com/policy2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi)
 
 > [!money]
 > Fairshake spent $10 million opposing Stratton; Progressive Values Illinois spent $300,000+ supporting Krishnamoorthi; combined crypto industry spending was roughly $10.3 million. Yet Stratton's Pritzker-backed outside spending ($10-12 million) was larger, more concentrated, and more effectively deployed. The billionaire's PAC outspent the venture-capital-backed industry PAC.
@@ -62,7 +62,7 @@ Three factors explain why Pritzker's billionaire spending proved more effective 
 
 ### The Cost of Losing: What Fairshake Got Wrong
 
-Fairshake's loss in Illinois is significant because it reveals the limits of industry PAC power against concentrated billionaire patronage. [Fairshake had a $221 million war chest heading into the 2026 midterms, yet it could not defeat a candidate backed by a single billionaire with $5 million.](https://www.dlnews.com/articles/markets/crypto-loses-illinois-vote-but-fairshake-vows-to-fight-on/) This suggests several structural limitations:
+Fairshake's loss in Illinois is significant because it reveals the limits of industry PAC power against concentrated billionaire patronage. [Fairshake had a $221 million war chest heading into the 2026 midterms, yet it could not defeat a candidate backed by a single billionaire with $5 million.](https://www.dlnews.com/articles/markets/crypto-loses-illinois-vote-but-fairshake-vows-to-fight-on/) *(source unavailable)* This suggests several structural limitations:
 
 1. **Billionaires Trump Industries in Primary Contests** — When a single billionaire commits personal capital and political capital to a primary race, industry PACs struggle to compete. The billionaire has reputation, local connection, and organizational assets that an out-of-state industry PAC cannot replicate.
 
@@ -85,7 +85,7 @@ This primary reveals an important pattern about outside spending's actual impact
 - [Chicago Sun-Times: Juliana Stratton defeats Raja Krishnamoorthi in Senate Democratic primary battle for Dick Durbin's seat](https://chicago.suntimes.com/elections/2026/03/17/us-senate-illinois-primary-results) (Tier 2)
 - [NBC News: Illinois Gov. JB Pritzker spends $5 million to boost his pick for Senate](https://www.nbcnews.com/politics/2026-election/illinois-gov-jb-pritzker-spends-5-million-boost-pick-senate-state-rcna257067) (Tier 3)
 - [Capitol News Illinois: Pro-Stratton super PAC touts Pritzker endorsement](https://capitolnewsillinois.com/news/pro-stratton-super-pac-touts-pritzker-endorsement/) (Tier 2)
-- [CoinDesk: Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi](https://www.coindesk.com/policy/2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi/) (Tier 2)
+- [CoinDesk: Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi](https://www.coindesk.com/policy2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi) (Tier 2)
 - [Fortune: AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries. They mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2)
 - [DL News: Crypto loses Illinois Senate vote but Fairshake Super PAC vows to fight on with $221m war chest](https://www.dlnews.com/articles/markets/crypto-loses-illinois-vote-but-fairshake-vows-to-fight/) (Tier 2)
 - [WBEZ: Super PAC scorecard—how outside spending groups fared in efforts to influence Illinois primary voters](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2)

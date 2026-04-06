@@ -20,7 +20,7 @@ related: [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile
 Both parties claim to fight for student borrowers. The receipts show a $1.7 trillion debt complex that purchased protection across party lines for decades. Navient/Sallie Mae spent tens of millions on lobbying and contributions to both parties simultaneously. For-profit colleges deployed $40M+ in lobbying from 2007–2012. Democrats received hundreds of thousands from financial services and then voted to kill Biden's forgiveness plan. The 2005 Bankruptcy Act stripped private student loans of discharge protection with bipartisan support — including then-Sen. Biden's key role as the bill's most prominent Democratic champion. The CFPB spent seven years fighting Navient before extracting a $120M settlement — while legislators who took the industry's money simultaneously sought to gut the agency.
 
 > [!money]
-> The student loan industry gave Biden's 2020 campaign more money than any other candidate. Biden was the #1 recipient of student loan company contributions in the 2020 cycle. He then waited 18 months to act on forgiveness — during which Democrats held both chambers — before announcing a modest $10K/$20K plan via executive action. [OpenSecrets](https://www.opensecrets.org/industries/background?cycle=2024&ind=F1410) (Tier 1)
+> The student loan industry gave Biden's 2020 campaign more money than any other candidate. Biden was the #1 recipient of student loan company contributions in the 2020 cycle. He then waited 18 months to act on forgiveness — during which Democrats held both chambers — before announcing a modest $10K/$20K plan via executive action. [OpenSecrets](https://www.opensecrets.org/industries?cycle=2024&ind=F1410) (Tier 1)
 
 ---
 
@@ -135,7 +135,7 @@ Navient made no admission of wrongdoing. [CFPB](https://www.consumerfinance.gov/
 > [!money]
 > Republicans voted to slash CFPB funding by ~46% in the 2025 "One Big Beautiful Bill." Sen. Tim Scott (R-SC) attempted to zero out the agency's funding entirely. Sen. John Cornyn (R-TX) routed more than 800 constituent complaints to the CFPB — the most of any current lawmaker — while voting to gut it. Consumer Reports estimated dropped enforcement cases "had the potential to return more than $3 billion in refunds and restitution to consumers." [ProPublica](https://www.propublica.org/article/cfpb-budget-cuts-gop-darrell-issa-john-cornyn) (Tier 2)
 
-56.1% of student loan company lobbyists in 2024 were "revolvers" — former government officials. [OpenSecrets](https://www.opensecrets.org/industries/lobbying?cycle=2024&ind=F1410) (Tier 1)
+56.1% of student loan company lobbyists in 2024 were "revolvers" — former government officials. [OpenSecrets](https://www.opensecrets.org/industries?cycle=2024&ind=F1410) (Tier 1)
 
 ---
 
@@ -158,9 +158,9 @@ The for-profit college lobby purchased a three-cycle regulatory carousel: implem
 
 - [OpenSecrets: Navient Corp Totals](https://www.opensecrets.org/orgs/navient-corp/totals?id=D000068171) (Tier 1)
 - [OpenSecrets: SLM Corp Totals](https://www.opensecrets.org/orgs/slm-corp/totals?id=D000022253) (Tier 1)
-- [OpenSecrets: Student Loan Industry Background](https://www.opensecrets.org/industries/background?cycle=2024&ind=F1410) (Tier 1)
+- [OpenSecrets: Student Loan Industry Background](https://www.opensecrets.org/industries?cycle=2024&ind=F1410) (Tier 1)
 - [OpenSecrets: Navient PAC 2024 Recipients](https://www.opensecrets.org/political-action-committees-pacs/navient-corp/C00331835/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Navient Lobbying](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000068171) (Tier 1)
+- [OpenSecrets: Navient Lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000068171) (Tier 1)
 - [CFPB: Navient Enforcement Action](https://www.consumerfinance.gov/enforcement/actions/navient-corporation-navient-solutions-inc-and-pioneer-credit-recovery-inc/) (Tier 1)
 - [CFPB: Navient Settlement Press Release](https://www.consumerfinance.gov/about-us/newsroom/cfpb-bans-navient-from-federal-student-loan-servicing-and-orders-the-company-to-pay-120-million-for-wide-ranging-student-lending-failures/) (Tier 1)
 - [FRED: Total Student Loans](https://fred.stlouisfed.org/series/SLOAS) (Tier 1)

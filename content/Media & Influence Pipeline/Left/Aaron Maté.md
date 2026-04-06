@@ -163,10 +163,10 @@ Patreon revenue (60-70%), freelance journalism (20-30%), speaking engagements (1
 
 - [Aaron Maté - Wikipedia](https://en.wikipedia.org/wiki/Aaron_Mat%C3%A9) (Tier 2) (Chrome verified 2026-03-27)
 - [The Grayzone - Wikipedia](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 2) (Chrome verified 2026-03-27)
-- [The Grayzone — SourceWatch](https://www.sourcewatch.org/index.php/The_Grayzone) (Tier 2) (Chrome verified 2026-03-27)
+- [The Grayzone — SourceWatch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_Grayzone) (Tier 2) (Chrome verified 2026-03-27)
 - [Public Mistrust of Gaza Coverage Is Opening Space for Russia-Linked Media on the Left — New Lines Magazine](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2) (Chrome verified 2026-03-27)
 - [The Grayzone's Aaron Maté testifies at UN on OPCW Syria cover-up — The Grayzone](https://thegrayzone.com/2020/09/29/grayzones-aaron-mate-testifies-at-un-on-opcw-syria-cover-up/) (Tier 2) (Chrome verified 2026-03-27)
-- [Aaron Maté wins Izzy Award for Russiagate coverage — Various sources](https://www.izzieaward.org/) (Tier 2) (Chrome verified 2026-03-27)
+- [Aaron Maté wins Izzy Award for Russiagate coverage — Various sources](https://www.izzieaward.org/) *(source unavailable)* (Tier 2) (Chrome verified 2026-03-27)
 - [Useful Idiots with Aaron Maté and Katie Halper — Podcast](https://www.usefulidiotspodcast.com/) (Tier 2) (Chrome verified 2026-03-27)
 - [Aaron Maté — The Grayzone](https://thegrayzone.com/author/aaron-mate/) (Tier 2) (Chrome verified 2026-03-27)
 

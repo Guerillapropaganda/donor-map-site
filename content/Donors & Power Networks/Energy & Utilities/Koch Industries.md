@@ -159,7 +159,7 @@ Koch Industries actively lobbied Congress to lift the 1975 crude oil export ban.
 Why Koch cared: Koch's Flint Hills refineries process heavy Canadian crude that would have been "stranded" domestically if the ban remained. More importantly, Koch's commodity trading arm (Koch Supply & Trading) positioned itself to profit from crude export arbitrage once the ban lifted. The network opposed renewable subsidies because they compete with fossil fuels for investor capital and create political constituencies opposing Koch's core business.
 
 - [Center for Public Integrity – Koch Web of Influence](https://publicintegrity.org/politics/kochs-web-of-influence/) (Tier 2)
-- [OpenSecrets – Koch Lobbying Detail 2023-2024](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000186) (Tier 1) (UNVERIFIED)
+- [OpenSecrets – Koch Lobbying Detail 2023-2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000186) (Tier 1) (UNVERIFIED)
 - [POLITICO – Former Koch official EPA chemicals](https://www.politico.com/story/2019/02/04/former-koch-official-runs-epa-chemical-research-1136230) (Tier 2) (UNVERIFIED)
 - [Energy and Policy Institute – AFP Leads Fossil Fuel Push](https://energyandpolicy.org/americans-for-prosperity-leads-fossil-fuel-front-group-push-for-crude-oil-exports-anti-renewables-lobbying/) (Tier 2)
 
@@ -360,9 +360,9 @@ Koch Industries' federal lobbying spending reveals the company's strategic prior
 > [!money] The Escalation Pattern
 > Koch's lobbying spending quadrupled from 1998-2005 ($200K to $1.2M annually). After 2005 reorganization, it expanded explosively: 2006-2008 saw a 4.3x spike during the cap-and-trade fight. The 2008 peak ($17.93M) represents Koch's maximum urgency moment — over 1% of annual revenue spent in a single year to defeat climate legislation. After climate bills died (2009-2010), spending stabilized at $8-13M annually, suggesting a sustainable level of regulatory maintenance spending. This is the cost of perpetual deregulation vigilance.
 
-- [OpenSecrets: Koch Industries lobbying expenditures](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000186) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Koch Industries lobbying expenditures](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000186) (Tier 1) (UNVERIFIED)
 - [DeSmog: Koch Industries federal lobbying 1998-2017 total](https://www.desmog.com/koch-industries-inc-lobbying-activities/) (Tier 2)
-- [Greenpeace: Koch direct lobbying expenditures](https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/) (Tier 2)
+- [Greenpeace: Koch direct lobbying expenditures](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/) (Tier 2)
 
 ---
 
@@ -392,7 +392,7 @@ Koch Industries' lobbying is concentrated in oil & gas (96% of 1998-2017 spendin
 
 **Subsidiary Consolidation Strategy:** In 2005, Koch reorganized subsidiary lobbying under Koch Companies Public Sector LLC, a single shell entity. This allowed the company to maintain the appearance of decentralized operations while consolidating reporting and coordination.
 
-- [OpenSecrets: Koch Industries lobbying by subsidiary](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000186) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Koch Industries lobbying by subsidiary](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000186) (Tier 1) (UNVERIFIED)
 
 ---
 
@@ -563,7 +563,7 @@ Koch Industries' lobbying operation combines in-house government affairs (Koch C
 > [!money] The Lobbying-Firm Ecosystem
 > Koch retains 8-10 firms simultaneously, each with distinct specialization and revolving-door access. Nickles Group provides ex-legislator credibility and social networks. Crossroads Strategies supplies broad federal relationships. Capitol Tax Partners focused exclusively on Section 199 and LIFO — issues worth $14+ billion to Koch. This distributed structure allows Koch to maintain continuous coverage across EPA, Treasury, CFTC, Congress, and the White House without exposing all relationships through a single firm. The retention pattern also serves as a hedge: if one firm loses access, three others maintain continuity.
 
-- [OpenSecrets: Koch Industries federal lobbying by firm 2024](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2024&id=D000000186) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Koch Industries federal lobbying by firm 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000186) (Tier 1) (UNVERIFIED)
 
 ---
 
@@ -599,7 +599,7 @@ Koch Industries' lobbying operation relies heavily on rotating ex-government off
 > [!contradiction] Institutional Access Over Expertise
 > Koch's lobbyist roster is 83-87% revolving-door appointments — meaning the company prioritizes ex-government relationships over policy specialists. This strategy makes sense economically: a former House Financial Services staffer has standing to call the current committee staff director; a retired Senator can meet with sitting Senators without appointment. But it also reflects Koch's primary lobbying strategy: not building policy arguments, but maintaining networks and trading on personal relationships. The high turnover (2005: 55 lobbyists → 2010: 30 lobbyists) suggests aggressive consolidation around the highest-return relationships.
 
-- [OpenSecrets: Koch Industries federal lobbying by lobbyist 2024](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2024&id=D000000186) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Koch Industries federal lobbying by lobbyist 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000186) (Tier 1) (UNVERIFIED)
 
 ---
 
@@ -624,9 +624,9 @@ What distinguishes Koch Industries from other corporate political actors is the 
 - [OpenSecrets: Koch Industries PAC recipient breakdown 2024](https://www.opensecrets.org/political-action-committees-pacs/C00236489/candidate-recipients/2024) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Koch Industries PAC recipients 2014](https://www.opensecrets.org/orgs/summary?id=d000000186&cycle=2014) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Koch network super PAC spending 2024](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1)
-- [OpenSecrets: Koch Industries lobbying by subsidiary](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000186) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Koch Industries federal lobbying by firm 2024](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2024&id=D000000186) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Koch Industries federal lobbying by lobbyist 2024](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2024&id=D000000186) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Koch Industries lobbying by subsidiary](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000186) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Koch Industries federal lobbying by firm 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000186) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Koch Industries federal lobbying by lobbyist 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2024&id=D000000186) (Tier 1) (UNVERIFIED)
 - [DOJ: Koch Industries indicted for environmental crimes (2000)](https://www.justice.gov/archive/opa/pr/2000/September/573enrd.htm) (Tier 1)
 - [DOJ: Koch pleads guilty to benzene cover-up (2001)](https://www.justice.gov/archive/opa/pr/2001/April/153enrd.htm) (Tier 1)
 - [DOJ: Koch pays record fine for oil spills (2000)](https://www.justice.gov/archive/opa/pr/2000/January/019enrd.htm) (Tier 1)
@@ -635,9 +635,9 @@ What distinguishes Koch Industries from other corporate political actors is the 
 - [Bloomberg Billionaires Index: Charles Koch](https://www.bloomberg.com/billionaires/profiles/charles-d-koch/) (Tier 1)
 - [Senate LDA filings: Koch Industries EPA regulation opposition](https://lda.senate.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/) (Tier 1)
 - [OpenSecrets: Supreme Court curbs EPA after Koch-tied groups' push](https://www.opensecrets.org/news/2022/07/supreme-court-curbs-epa-regulatory-power-after-koch-tied-groups-push/) (Tier 2)
-- [OpenSecrets: Koch Industries lobbying expenditures](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000186) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Koch Industries lobbying expenditures](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000186) (Tier 1) (UNVERIFIED)
 - [DeSmog: Koch Industries federal lobbying 1998-2017 total](https://www.desmog.com/koch-industries-inc-lobbying-activities/) (Tier 2)
-- [Greenpeace: Koch federal direct lobbying expenditures](https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/) (Tier 2)
+- [Greenpeace: Koch federal direct lobbying expenditures](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/) (Tier 2)
 - [Legis1: Koch boosts lobbying to $4.1M against emission rules](https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/) (Tier 2) (UNVERIFIED)
 - [CMD/EXPOSEDbyCMD: Koch Industries federal lobbying rose 35 percent first quarter 2019](https://www.exposedbycmd.org/2019/05/09/koch-industries-federal-lobbying-rose-35-percent-first-quarter-2019/) (Tier 2)
 - [Vice: Koch Industries EPA Supreme Court climate change](https://www.vice.com/en/article/koch-brothers-epa-supreme-court-climate-change/) (Tier 2)
@@ -646,11 +646,24 @@ What distinguishes Koch Industries from other corporate political actors is the 
 - [CMD/EXPOSEDbyCMD: Koch Industries 150 penalties in 20 states](https://www.exposedbycmd.org/2021/03/29/koch-industries-amassed-150-penalties-for-state-environmental-violations-in-20-states/) (Tier 2)
 - [CMD/EXPOSEDbyCMD: Koch-controlled organization assets soar to $8.1B](https://www.exposedbycmd.org/2024/05/08/assets-of-koch-controlled-organizations-soar-to-over-8-1-billion/) (Tier 2)
 - [Good Jobs First Violation Tracker: Koch Industries](https://violationtracker.goodjobsfirst.org/parent/koch-industries) (Tier 2)
-- [Greenpeace: Koch Industries pollution](https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-industries-pollution/) (Tier 2)
+- [Greenpeace: Koch Industries pollution](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/koch-industries-pollution/) (Tier 2)
 - [Ballotpedia: Koch Industries political spending](https://ballotpedia.org/Koch_Industries) (Tier 3)
 - [Wikipedia: KochPAC](https://en.wikipedia.org/wiki/KochPAC) (Tier 3)
 
 ---
 
-research-status:: developed → ready (2026-04-01) — Merged: KochPAC complete cycle-by-cycle history (1999-2024, 13 cycles), partisan collapse tracking (24% D in 2000 → 0% D in 2024), top recipient tables with historical context (Pompeo, Sullivan, Cassidy, others), complete lobbying year-by-year (1998-2025 Q1, 27 years), peak analysis (2008 cap-and-trade peak $17.93M), subsidy-specific spending breakdown (Koch Industries direct $26.5M peak, Koch Cos Public Sector $27.5M, Georgia-Pacific $2.6M, Flint Hills $4.1M), six core lobbying domains with specific bills/filings (EPA regulation, climate policy, energy deregulation, tax policy, labor law, financial regulation), Senate LDA-2 citations, lobbying firm retention table (10 active firms, cap-and-trade partners), lobbyist headcount and revolving door analysis (58-87% over 20 years), named current lobbyists (Haggett 20y, Henneberry 19y, Lawrence 3y), revolving door hires table (Nickles, Zerzan, Schlapp, Tiahrt). Sources: 20 new URLs (10 Tier 1 API/government, 9 Tier 2 investigations, 1 Tier 3 Wikipedia) all marked UNVERIFIED. Temporal mapping expanded (11→11 entries, consistent). Added 7 callout blocks (> [!money], > [!contradiction]). File now 1450+ lines. Promotion to ready blocked only on Chrome URL verification of UNVERIFIED sources — this is a compliance gate, not a content quality issue.
-content-readiness:: developed
+research-status:: developed → ready (2026-04-01) — Merged: KochPAC complete cycle-by-cycle history (1999-2024, 13 cycles), partisan collapse tracking (24% D in 2000 → 0% D in 2024), top recipient tables with historical context (Pompeo, Sullivan, Cassidy, others), complete lobbying year-by-year (1998-2025 Q1, 27 years), peak analysis (2008 cap-and-trade peak $17.93M), subsidy-specific spending breakdown (Koch Industries direct $26.5M peak, Koch Cos Public Sector $27.5M, Georgia-Pacific $2.6M, Flint Hills $4.1M), six core lobbying domains with specific bills/filings (EPA regulation, climate policy, energy deregulation, tax policy, labor law, financial regulation), Senate LDA-2 citations, lobbying firm retention table (10 active firms, cap-and-trade partners), lobbyist headcount and revolving door analysis (58-87% over 20 years), named current lobbyists (Haggett 20y, Henneberry 19y, Lawrence 3y), revolving door hires table (Nickles, Zerzan, Schlapp, Tiahrt). Sources: 20 new URLs (10 Tier 1 API/government, 9 Tier 2 investigations, 1 Tier 3 Wikipedia) all marked UNVERIFIED. Temporal mapping expanded (11→11 entries, consistent). Added 7 callout blocks (> [!money], > [!contradiction]). File now 1450+
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $18.2M
+
+| Top Recipient | Amount |
+|---|---|
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $15.0M |
+| CONGRESSIONAL LEADERSHIP FUND | $500.0K |
+| SENATE LEADERSHIP FUND | $500.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

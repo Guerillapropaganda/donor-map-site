@@ -156,7 +156,7 @@ Russell Brand represents **algorithmic audience capture as political radicalizat
 - [New Statesman: "Russell Brand's Weird Christian Comeback" (Oct 2024)](https://www.newstatesman.com/politics/religion/2024/10/russell-brands-weird-christian-comeback) (Tier 2)
 - [Christian Post: "Russell Brand Announces Baptism After Months-Long Spiritual Journey" (Apr 2024)](https://www.christianpost.com/news/russell-brand-announces-he-is-getting-baptized-as-christian.html) (Tier 3)
 - [Deseret News: "Russell Brand Prays During Tour with Tucker Carlson" (Sep 2024)](https://www.deseret.com/faith/2024/09/09/russell-brand-religion/) (Tier 3)
-- [TIME: "YouTube Demonetizes Russell Brand's Videos Amid Abuse Allegations" (Sep 2023)](https://time.com/6315556/youtube-demonetize-russell-brand-sexual-assault-allegations/) (Tier 2)
+- [TIME: "YouTube Demonetizes Russell Brand's Videos Amid Abuse Allegations" (Sep 2023)](https://time.com/6315556/youtube-demonetize-russell-brand-sexual-assault-allegations/lt-allegations/) (Tier 2)
 - [CBS News: "YouTube CEO Defends Decision to Demonetize Russell Brand's Channel" (Oct 2023)](https://www.cbsnews.com/news/youtube-ceo-neal-mohan-defends-decision-demonetize-russell-brand-channel-sexual-assault-allegations/) (Tier 2)
 
 ---

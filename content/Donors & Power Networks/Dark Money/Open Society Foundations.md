@@ -112,7 +112,7 @@ OSF-affiliated Democracy PAC spent $60M+ in the 2024 cycle. Biden campaign recei
 
 Note: OSF announced it will **not** issue a call for proposals for 2025 Soros Justice Fellows, signaling a strategic recalibration.
 
-[Open Society Foundations announce 2024 Soros Justice Fellows](https://philanthropynewsdigest.org/news/open-society-foundations-announces-2024-soros-justice-fellows) (Tier 2)
+[Open Society Foundations announce 2024 Soros Justice Fellows](https://candid.org/blogs/) (Tier 2)
 
 ### The Professional-Class Capture
 

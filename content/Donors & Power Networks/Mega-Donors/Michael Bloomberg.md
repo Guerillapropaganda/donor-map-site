@@ -105,10 +105,25 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Blo
 
 - [OpenSecrets — Michael Bloomberg donor profile](https://www.opensecrets.org/donor-lookup/results?name=michael+bloomberg) (Tier 2)
 - [ABC News — Bloomberg 2020 campaign spending](https://abcnews.go.com/Politics/bloomberg-2020-campaign-spending/story?id=68818880) (Tier 2)
-- [CNN — Bloomberg 2018 midterm spending and 2018 House flip](https://www.cnn.com/politics/news/2018-midterms-bloomberg-spending) (Tier 2)
-- [InfluenceWatch — Independence USA PAC](https://www.influencewatch.org/non-profit/independence-usa-pac/) (Tier 3)
+- [CNN — Bloomberg 2018 midterm spending and 2018 House flip](https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending) (Tier 2)
+- [InfluenceWatch — Independence USA PAC](https://www.influencewatch.org/non-profit/independence-usa-pac/) *(source unavailable)* (Tier 3)
 - [PBS Frontline — Everytown for Gun Safety](https://www.pbs.org/wgbh/frontline/documentary/gunned-down/) (Tier 2)
 - [Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/) (Tier 1)
 
 research-status:: ready — Full citation pass complete. $936M 2020 campaign, $115M 2024, $270M+ Everytown lifetime, $1B Beyond Carbon, $750M charter schools. Class analysis (good billionaire problem). Koch mirror image documented. 7 sources, Tier 1-2. All ### headers, source format standardized. Promoted Session 38j.
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 471 contributions totaling $988.6M
+
+**ActBlue/WinRed conduit duplicates filtered:** 29
+
+| Top Recipient | Amount |
+|---|---|
+| MIKE BLOOMBERG 2020, INC. | $750.9M |
+| INDEPENDENCE USA PAC | $69.7M |
+| HOUSE MAJORITY PAC | $37.5M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

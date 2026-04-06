@@ -187,7 +187,7 @@ Patterns present: **Dark Money Laundering** (the canonical case — foreign stat
 - [CNN: DOJ alleges Russia funded company linked to Tim Pool and Benny Johnson](https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars/index.html) (Tier 2)
 - [The Daily Beast: DOJ Bombshell Alleges MAGA Media Group Is Backed by Russian Money](https://www.thedailybeast.com/doj-bombshell-alleges-maga-media-group-is-backed-by-russian-money/) (Tier 2)
 - [NBC News: Russian money was funneled to right-wing creators through a pro-Trump media outlet](https://www.nbcnews.com/politics/justice-department/russian-money-was-funneled-right-wing-creators-trump-media-outlet-pros-rcna169611) (Tier 2)
-- [TIME: Right-Wing Influencers React to Being Tied to Russian Disinfo Campaign](https://time.com/7018028/conservative-influencers-react-russia-disinformation-indictment-tenet-victims/) (Tier 2)
+- [TIME: Right-Wing Influencers React to Being Tied to Russian Disinfo Campaign](https://time.com/7018028/conservative-influencers-react-russia-disinformation-indictment-tenet-victims/rmation-indictment-tenet-victims/) (Tier 2)
 - [The Hill: DOJ shines a light on Russian use of conservative influencers](https://thehill.com/regulation/court-battles/4879602-doj-shines-a-light-on-russian-use-of-conservative-influencers/) (Tier 2)
 - [Columbia Journalism Review: The Tenet Media Incident](https://www.cjr.org/the_media_today/tenet_media_indictment_russia.php) (Tier 2)
 - [Lawfare: The U.S. Government's Busy Week Combating Russian Operatives](https://www.lawfaremedia.org/article/the-u.s.-government's-busy-week-combating-russian-operatives) (Tier 2)

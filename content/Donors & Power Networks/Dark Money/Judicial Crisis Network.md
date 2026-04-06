@@ -159,3 +159,15 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 
 content-readiness:: developed
 research-status:: developed — $65M FY2024 revenue, $100M+ SCOTUS confirmation spending, $1.6B Barre Seid/Marble Freedom Trust pipeline, $20.3M to RAGA, Honest Elections Project voter suppression arm, full IRS 990 financial history, Leo network architecture mapped. 11 sources, Tier 1-3. Broken WaPo URL replaced. Promoted from ready (thin) to developed (substantive). Session: Automated Donor Node Build March 25, 2026 Run 12.
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 1 contributions totaling $75.0K
+
+| Top Recipient | Amount |
+|---|---|
+| LIBERTY 2.0 | $75.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -44,7 +44,21 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 
 - [OpenSecrets: Sinclair Broadcast Group](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary?id=D000029897) (Tier 1)
 - [FCC: Station ownership filings](https://www.fcc.gov/media/television/tv-station-profiles) (Tier 1)
-- [Deadspin: Sinclair script compilation](https://www.youtube.com/watch?v=_fHfgU8oMSo) (Tier 2)
+- [Deadspin: Sinclair script compilation](https://www.youtube.com?v=_fHfgU8oMSo) (Tier 2)
 - [Ballotpedia: Sinclair Broadcast Group](https://ballotpedia.org/Sinclair_Broadcast_Group) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 168 contributions totaling $345.6K
+
+| Top Recipient | Amount |
+|---|---|
+| REPUBLICAN ACCOUNTABILITY PAC | $44.8K |
+| RNC REPUBLICAN NATIONAL STATE ELECTIONS COMMITTEE | $14.4K |
+| FRIENDS OF JOHN THUNE | $13.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

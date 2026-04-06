@@ -144,7 +144,7 @@ On foreign policy, Wicker positions as a reliable hawk — pro-Ukraine, pro-Taiw
 - S. 3266: USMMA Athletics Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
 - S.Con.Res. 27: A concurrent resolution celebrating the 125th Anniversary of the Army Nurse Corps. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400432) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/roger_wicker/400432) (Tier 1)
 
 <!-- auto:govtrack end -->
 

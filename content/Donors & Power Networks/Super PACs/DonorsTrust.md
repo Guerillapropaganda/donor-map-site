@@ -499,19 +499,19 @@ DonorsTrust is not a unique outlier or loophole. It is the operating infrastruct
 #### Mother Jones: "The Dark-Money ATM of the Conservative Movement" (2013)
 - **Reporter:** Andy Kroll
 - **Published:** February 5, 2013
-- [https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) (Tier 2, UNVERIFIED)
+- [https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/](https:/www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) (Tier 2, UNVERIFIED)
 - **Key findings:** First coined "dark-money ATM" characterization; obtained DonorsTrust 2011 990; identified KPF, DeVos, and Bradley family as donors; documented board of prominent conservatives; $400M+ identified as distributed.
 
 #### The Guardian: "Secret Funding Built Vast Network of Climate Denial Think Tanks" (2013)
 - **Reporter:** Suzanne Goldenberg
 - **Published:** February 14, 2013
-- [https://www.theguardian.com/environment/2013/feb/14/funding-climate-change-denial-thinktanks-network](https://www.theguardian.com/environment/2013/feb/14/funding-climate-change-denial-thinktanks-network) (Tier 2, UNVERIFIED)
+- [https://www.theguardian.com/environment/2013/feb/14/funding-climate-change-denial-thinktanks-network](https:/www.theguardian.com/environment/2013/feb/14/funding-climate-change-denial-thinktanks-network) (Tier 2, UNVERIFIED)
 - **Key findings:** $120 million to 102+ climate denial orgs 2002–2010; DonorsTrust outspent traceable Koch funding by 6:1; DCF caters to $1M+ donors.
 
 #### Greenpeace USA: "Donors Trust: Laundering Climate Denial Funding" (2013)
 - **Published:** 2013
-- [https://www.greenpeace.org/usa/donors-trust-laundering-climate-denial-funding/](https://www.greenpeace.org/usa/donors-trust-laundering-climate-denial-funding/) (Tier 2, UNVERIFIED)
-- [PDF: https://www.greenpeace.org/static/planet4-usa-stateless/2024/12/1806a83b-donors-trust-laundering-climate-denial-funding.pdf](https://www.greenpeace.org/static/planet4-usa-stateless/2024/12/1806a83b-donors-trust-laundering-climate-denial-funding.pdf) (Tier 2, UNVERIFIED)
+- [https://www.greenpeace.org/global/usa/donors-trust-laundering-climate-denial-funding/](https:/www.greenpeace.org/global/usa/donors-trust-laundering-climate-denial-funding/) (Tier 2, UNVERIFIED)
+- [PDF: https://www.greenpeace.org/global/static/planet4-usa-stateless/2024/12/1806a83b-donors-trust-laundering-climate-denial-funding.pdf](https:/www.greenpeace.org/global/static/planet4-usa-stateless/2024/12/1806a83b-donors-trust-laundering-climate-denial-funding.pdf) (Tier 2, UNVERIFIED)
 - **Key findings:** Documented shift from traceable Big Oil funding (ExxonMobil, Koch) to anonymous DonorsTrust funding circa 2007–2008; DonorsTrust funded 102 climate denial orgs; 30–70% of individual denier group revenue from DonorsTrust in 2010; Heartland's "Anonymous Donor" traced to DonorsTrust.
 
 #### Robert Brulle / Drexel University: Peer-Reviewed Climate Denial Study (2013)
@@ -528,12 +528,12 @@ DonorsTrust is not a unique outlier or loophole. It is the operating infrastruct
 
 #### Politico: "Two Anonymous $425 Million Donations" (2022)
 - **Published:** November 16, 2022
-- [https://www.politico.com/news/2022/11/16/two-anonymous-425-million-donations-gives-dark-money-conservative-group-a-massive-haul-00067493](https://www.politico.com/news/2022/11/16/two-anonymous-425-million-donations-gives-dark-money-conservative-group-a-massive-haul-00067493) (Tier 2, UNVERIFIED)
+- [https://www.politico.com/news/2022/11/16/two-anonymous-425-million-donations-gives-dark-money-conservative-group-a-massive-haul-00067493](https:/www.politico.com/news/2022/11/16/two-anonymous-425-million-donations-gives-dark-money-conservative-group-a-massive-haul-00067493) (Tier 2, UNVERIFIED)
 - **Key findings:** $1+ billion intake in 2021; three gifts: $427M cash, ~$77M, ~$426M in closely held stock; "closely held stock" mechanism explained; Michael Beckel: "an ATM for dark money groups."
 
 #### ProPublica: Barre Seid / Marble Freedom Trust (2022)
 - **Published:** August 2022
-- [https://www.propublica.org/article/dark-money-leonard-leo-barre-seid](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2, UNVERIFIED)
+- [https://www.propublica.org/article/dark-money-leonard-leo-barre-seid](https:/www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2, UNVERIFIED)
 - **Key findings:** Barre Seid gave $1.6 billion to [[Marble Freedom Trust]] (Leonard Leo); Seid routing donations through DonorsTrust/DCF to George Mason University; Marble Freedom Trust sent $41.1M to DonorsTrust on 2020 filing.
 
 ---
@@ -565,12 +565,12 @@ In November 2023, the IRS proposed new regulations for donor-advised funds, but 
 #### Tier 1 (Government Records/API Data):
 - [ProPublica Nonprofit Explorer — DonorsTrust Inc (EIN 52-2166327)](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1)
 - [ProPublica Nonprofit Explorer — Donors Capital Fund Inc (EIN 54-1934032)](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
-- [SourceWatch — DonorsTrust and Donors Capital Fund Grant Recipients](https://www.sourcewatch.org/index.php/DonorsTrust_and_Donors_Capital_Fund_Grant_Recipients) (Tier 3) (UNVERIFIED)
+- [SourceWatch — DonorsTrust and Donors Capital Fund Grant Recipients](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/DonorsTrust_and_Donors_Capital_Fund_Grant_Recipients) (Tier 3) (UNVERIFIED)
 
 #### Tier 2 (Major Investigative Journalism):
 - [Mother Jones: "The Dark-Money ATM of the Conservative Movement"](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) — Andy Kroll, Feb. 5, 2013 (Tier 2)
 - [The Guardian: "Secret Funding Built Vast Network of Climate Denial Think Tanks"](https://www.theguardian.com/environment/2013/feb/14/funding-climate-change-denial-thinktanks-network) — Suzanne Goldenberg, Feb. 14, 2013 (Tier 2)
-- [Greenpeace USA: "Donors Trust: Laundering Climate Denial Funding"](https://www.greenpeace.org/usa/donors-trust-laundering-climate-denial-funding/) (Tier 2)
+- [Greenpeace USA: "Donors Trust: Laundering Climate Denial Funding"](https://www.greenpeace.org/global/usa/donors-trust-laundering-climate-denial-funding/) (Tier 2)
 - [Scientific American: Robert Brulle peer-reviewed study](https://www.scientificamerican.com/article/dark-money-funds-climate-change-denial-effort/) — Dec. 2013 (Tier 2)
 - [Center for Media and Democracy: 2024 Analysis](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/) (Tier 2)
 - [Center for Media and Democracy: 2022 Analysis](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/) (Tier 2)

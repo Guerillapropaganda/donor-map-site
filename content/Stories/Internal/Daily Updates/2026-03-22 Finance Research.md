@@ -101,7 +101,7 @@ California's Fair Political Practices Commission launched a new Public Official 
 - [Rolling Stone: Leonard Leo pumping money into midterms](https://www.rollingstone.com/politics/politics-features/leonard-leo-pumping-money-midterms-1235414674/) (Tier 2)
 - [City & State NY: Fairshake eyes NY House races](https://www.cityandstateny.com/politics/2026/03/deep-pocketed-crypto-super-pac-eyes-new-york-house-races-2026/412198/) (Tier 2)
 - [Inman: NAR political spending targets Texas](https://www.inman.com/2026/03/20/nar-political-spending-targets-texas-as-2026-midterm-races-heat-up/) (Tier 2)
-- [CalMatters: Governor race fundraising reports](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
+- [CalMatters: Governor race fundraising reports](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
 - [Mercury News: Steyer outspends field](https://www.mercurynews.com/2026/02/03/california-governors-race-tom-steyer/) (Tier 2)
 - [Read Sludge: AIPAC funneled to every member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2)
 - [Axios: AIPAC Illinois primary wins](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean) (Tier 2)

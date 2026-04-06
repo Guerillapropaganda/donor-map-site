@@ -127,3 +127,17 @@ The losses flipped Senate control to Republicans. The $600+ million investment f
 - [Ballotpedia: Democratic Senatorial Campaign Committee](https://ballotpedia.org/Democratic_Senatorial_Campaign_Committee) (Tier 3)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 129 contributions totaling $12.1M
+
+| Top Recipient | Amount |
+|---|---|
+| ARIZONA DEMOCRATIC PARTY | $10.5M |
+| TEXAS DEMOCRATIC PARTY | $1.5M |
+| HEIDI FOR SENATE | $43.1K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

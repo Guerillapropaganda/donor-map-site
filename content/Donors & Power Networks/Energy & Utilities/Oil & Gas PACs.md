@@ -30,7 +30,7 @@ Oil and gas PACs are targeted with precision: the largest contributions go to me
 
 ### Sources
 
-- [OpenSecrets: Oil and gas industry PAC contributions](https://www.opensecrets.org/industries/indus?ind=E01) (Tier 1)
+- [OpenSecrets: Oil and gas industry PAC contributions](https://www.opensecrets.org/industries?ind=E01) (Tier 1)
 - [Ballotpedia: Oil and gas political spending](https://ballotpedia.org/Oil_&_Gas_PACs) (Tier 3)
 
 content-readiness:: ready

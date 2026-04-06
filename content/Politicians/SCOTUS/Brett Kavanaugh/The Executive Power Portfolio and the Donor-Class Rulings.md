@@ -95,7 +95,7 @@ Kavanaugh's career demonstrates the refinement of the executive power pipeline: 
 
 ### Tier 1 (Primary Documents)
 - [Supreme Court Opinion PDF: West Virginia v. EPA, 579 U.S. ___ (2022)](https://www.supremecourt.gov/opinions/21pdf/20-1530_new6o1f.pdf) (Tier 1)
-- [Senate Judiciary Committee: Kavanaugh Confirmation Hearing Transcript](https://www.judiciary.senate.gov/hearings/confirmation-hearing-on-the-nomination-of-brett-m-kavanaugh-to-be-an-associate-justice-of-the-supreme-court-of-the-united-states) (Tier 1)
+- [Senate Judiciary Committee: Kavanaugh Confirmation Hearing Transcript](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1)
 
 ### Tier 2 (Investigative Journalism)
 - [Brennan Center: Courting Disaster - The Trouble with Brett Kavanaugh's Views of Executive Power](https://www.brennancenter.org/our-work/analysis-opinion/courting-disaster-trouble-brett-kavanaughs-views-executive-power-age) (Tier 2)

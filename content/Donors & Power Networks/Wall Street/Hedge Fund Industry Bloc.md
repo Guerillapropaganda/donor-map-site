@@ -45,7 +45,7 @@ Preservation of carried interest tax treatment (taxing fund manager profits at 2
 
 ### Sources
 
-- [OpenSecrets: Hedge fund industry spending](https://www.opensecrets.org/industries/indus?ind=F2700) (Tier 1)
+- [OpenSecrets: Hedge fund industry spending](https://www.opensecrets.org/industries?ind=F2700) (Tier 1)
 - [SEC: Investment adviser registration statistics](https://www.sec.gov/divisions/investment/ia-registration-stats.shtml) (Tier 1)
 - [Ballotpedia: Hedge fund political spending](https://ballotpedia.org/Hedge_Fund_Industry_Bloc) (Tier 3)
 

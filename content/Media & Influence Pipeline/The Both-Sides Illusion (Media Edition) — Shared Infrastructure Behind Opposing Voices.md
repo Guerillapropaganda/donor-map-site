@@ -321,10 +321,10 @@ Both left and right media face identical economic pressures. The "debate" is the
 
 ### Platform & Distribution:
 - [Media Matters: right-leaning 185.5M YouTube subscribers, 65B views](https://www.mediamatters.org/google/right-dominates-online-media-ecosystem-seeping-sports-comedy-and-other-supposedly) (Tier 3)
-- [YouTube: July 2025 monetization update, "originality and visible human effort"](https://www.youtube.com/watch?v=Xm6p0WMk3Zg) (Tier 3)
+- [YouTube: July 2025 monetization update, "originality and visible human effort"](https://www.youtube.com?v=Xm6p0WMk3Zg) (Tier 3)
 - [Dexerto via X: YouTube algorithm pushes users toward "happy" content](https://x.com/Dexerto/status/1946656060791513319) (Tier 4)
 - [Edison Research: top conservative and liberal podcasts, same charts](https://www.edisonresearch.com/top-podcasts-with-conservative-or-liberal-content/) (Tier 3)
-- [YouTube interview: Breaking Points economics, "95 to 98% lower" costs](https://www.youtube.com/watch?v=ZKFeNpFtu-c) (Tier 3)
+- [YouTube interview: Breaking Points economics, "95 to 98% lower" costs](https://www.youtube.com?v=ZKFeNpFtu-c) (Tier 3)
 
 ### Academic & Analytical Frameworks:
 - [Chomsky.info: Manufacturing Consent propaganda model](https://chomsky.info/consent01/) (Tier 3)

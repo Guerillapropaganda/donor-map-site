@@ -122,9 +122,9 @@ The billionaire cabinet is presented as a temporary experiment in "business-styl
 ### Tier 1 (Primary Government Data):
 - [OpenSecrets: 2024 Mega-Donors — Elon Musk and others](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
 - [FEC: Trump 2024 Presidential Campaign — Contributions and Finance Data](https://www.fec.gov/data/candidate/P80001571/) (Tier 1)
-- [U.S. Senate: Committee Confirmation Hearing Records and Financial Disclosures](https://www.senate.gov/committees/index.cfm) (Tier 1)
-- [Senate Financial Disclosure Forms: Cabinet-level nominees (SFDF)](https://www.senate.gov/about/ethics-conflict-of-interest/index.cfm) (Tier 1)
-- [Office of Government Ethics: Executive Branch Financial Disclosures](https://www.oge.gov/web/278e.nsf/Home) (Tier 1)
+- [U.S. Senate: Committee Confirmation Hearing Records and Financial Disclosures](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm) (Tier 1)
+- [Senate Financial Disclosure Forms: Cabinet-level nominees (SFDF)](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm) (Tier 1)
+- [Office of Government Ethics: Executive Branch Financial Disclosures](https://www.oge.gov/web/278eGuide.nsf/Overview) (Tier 1)
 
 ### Tier 2 (Major Journalism):
 - [Washington Post: Meet the Trump administration's 12 billionaires (Interactive)](https://www.washingtonpost.com/politics/interactive/2025/trump-white-house-billionaires-musk/) (Tier 2)

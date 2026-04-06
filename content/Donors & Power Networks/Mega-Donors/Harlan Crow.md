@@ -26,7 +26,7 @@ content-readiness:: ready
 
 ### Who They Are
 
-[[Harlan Crow]]. Billionaire real estate developer (Crow Holdings). Heir to Trammell Crow Company fortune. Provider of the most extensively documented pattern of gifts to a sitting Supreme Court justice in modern American history: $4.75 million+ to [[_Clarence Thomas Master Profile|Clarence Thomas]] over 30+ years [Source: [Senate Judiciary Committee: Ethical Crisis at the Supreme Court](https://www.judiciary.senate.gov/supreme-court-ethics) (Tier 1)]. Gifts include: superyacht cruises, private jet flights on Bombardier Global 5000, luxury resort access (Bohemian Grove, Adirondacks Camp Topridge, East Texas ranch), real estate purchases ($133K for Thomas's mother's home), boarding school tuition for Thomas's grand-nephew, a $19K Bible, a $15K Lincoln bust. Collector of Nazi memorabilia (signed "Mein Kampf," Hitler paintings, Nazi insignia linens). Seed funder of Liberty Central ($500K — Ginni Thomas/[[Leonard Leo|Leonard Leo]] organization). $100K+ to Leo's Teneo Network. Refused to comply with Senate Judiciary Committee subpoena [Source: [ProPublica: Senate investigation of Crow and Leo gifts](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2)].
+[[Harlan Crow]]. Billionaire real estate developer (Crow Holdings). Heir to Trammell Crow Company fortune. Provider of the most extensively documented pattern of gifts to a sitting Supreme Court justice in modern American history: $4.75 million+ to [[_Clarence Thomas Master Profile|Clarence Thomas]] over 30+ years [Source: [Senate Judiciary Committee: Ethical Crisis at the Supreme Court](https://www.judiciary.senate.gov/supreme-court-ethics) *(source unavailable)* (Tier 1)]. Gifts include: superyacht cruises, private jet flights on Bombardier Global 5000, luxury resort access (Bohemian Grove, Adirondacks Camp Topridge, East Texas ranch), real estate purchases ($133K for Thomas's mother's home), boarding school tuition for Thomas's grand-nephew, a $19K Bible, a $15K Lincoln bust. Collector of Nazi memorabilia (signed "Mein Kampf," Hitler paintings, Nazi insignia linens). Seed funder of Liberty Central ($500K — Ginni Thomas/[[Leonard Leo|Leonard Leo]] organization). $100K+ to Leo's Teneo Network. Refused to comply with Senate Judiciary Committee subpoena [Source: [ProPublica: Senate investigation of Crow and Leo gifts](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2)].
 
 ---
 
@@ -144,3 +144,18 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 - [ProPublica: Clarence Thomas luxury travel investigation](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2)
 - [ProPublica: Billionaire Harlan Crow Bought Property From Clarence Thomas. The Justice Didn't Disclose the Deal.](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus) (Tier 2)
 - [ProPublica: Senate investigation of Crow and Leo gifts](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2)
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 497 contributions totaling $4.6M
+
+**ActBlue/WinRed conduit duplicates filtered:** 3
+
+| Top Recipient | Amount |
+|---|---|
+| SENATE LEADERSHIP FUND | $500.0K |
+| NRSC | $290.5K |
+| HONOR PENNSYLVANIA, INC. | $225.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -104,7 +104,7 @@ The organization's spending does not target specific policy outcomes — it targ
 - [OpenSecrets: Outside spending on 2024 elections shatters records](https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/) (Tier 1)
 - [OpenSecrets: Party-aligned groups funnel millions in dark money to super PACs](https://www.opensecrets.org/news/2023/08/party-aligned-groups-funnel-millions-in-dark-money-to-closely-tied-super-pacs-ahead-of-2024-election/) (Tier 1)
 - [IRS: Majority Forward 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Majority%20Forward&city=&state=All+States&country=US) (Tier 1)
-- [FEC: Majority Forward contribution records](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Majority+Forward&two_year_transaction_period=2020) (Tier 1)
+- [FEC: Majority Forward contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Majority+Forward&two_year_transaction_period=2020) (Tier 1)
 - [Brennan Center: Dark money hit record $1.9B in 2024 federal races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races) (Tier 2)
 - [Center for Public Integrity: Democratic super PAC aided by secret money](https://publicintegrity.org/politics/democratic-super-pac-aided-by-secret-money/) (Tier 2)
 - [NBC News: How Democrats use dark money — and win elections](https://www.nbcnews.com/politics/congress/how-democrats-use-dark-money-win-elections-n849391) (Tier 2)
@@ -112,3 +112,18 @@ The organization's spending does not target specific policy outcomes — it targ
 - [Ballotpedia: Majority Forward](https://ballotpedia.org/Majority_Forward) (Tier 3)
 
 content-readiness:: developed
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 162 contributions totaling $335.9M
+
+**ActBlue/WinRed conduit duplicates filtered:** 338
+
+| Top Recipient | Amount |
+|---|---|
+| SMP | $206.7M |
+| HMP | $58.3M |
+| LAST BEST PLACE PAC | $41.4M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

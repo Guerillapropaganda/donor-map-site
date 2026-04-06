@@ -2,17 +2,13 @@
 title: "Stand Together"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-25
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-total-political-spend: "$84,259,968"
-politicians-funded:
-  - "Bryan Steil"
-
 ---
 
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money
@@ -125,32 +121,20 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy 
 - [InfluenceWatch: Stand Together — organizational profile](https://www.influencewatch.org/non-profit/stand-together/) (Tier 2)
 - [Wikipedia: Stand Together](https://en.wikipedia.org/wiki/Stand_Together) (Tier 3)
 - [Wikipedia: Koch network](https://en.wikipedia.org/wiki/Koch_network) (Tier 3)
-- [SourceWatch: Stand Together Foundation](https://www.sourcewatch.org/index.php/Stand_Together_Foundation) (Tier 3)
+- [SourceWatch: Stand Together Foundation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Stand_Together_Foundation) (Tier 3)
 - [Charles Koch Foundation — Learn & Work Ecosystem Library](https://learnworkecosystemlibrary.com/organizations/charles-koch-foundation/) (Tier 3)
 
 content-readiness:: developed
+---
 
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $84,259,968 |
-| Contributions | 24 |
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-**Top recipients:**
+**FEC contribution record:** 24 contributions totaling $84.3M
 
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $82,869,138 | — |
-| ONE GIANT LEAP PAC | $1,001,500 | — |
-| AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $383,929 | — |
-| TEXAS DEMOCRATIC PARTY | $1,400 | DEM |
-| WILLIAM TIMMONS FOR CONGRESS | $651 | REP |
-| STEIL FOR WISCONSIN, INC. | $651 | REP |
-| JOHN ROSE FOR TENNESSEE | $651 | REP |
-| ANTHONY GONZALEZ FOR CONGRESS | $651 | REP |
-| LANCE GOODEN FOR CONGRESS COMMITTEE | $651 | REP |
-| DR JEAN L ENRIGHT FOR CONGRESS | $500 | DEM |
+| Top Recipient | Amount |
+|---|---|
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $82.9M |
+| ONE GIANT LEAP PAC | $1.0M |
+| AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $383.9K |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stand%20Together) (Tier 1)
-<!-- auto:fec-donor end -->
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

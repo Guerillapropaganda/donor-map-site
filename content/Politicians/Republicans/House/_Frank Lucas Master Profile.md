@@ -292,10 +292,10 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 ### Sources
 
 - [OpenSecrets: Frank Lucas donor profile and campaign finance](https://www.opensecrets.org/members-of-congress/frank-d-lucas/summary?cid=N00005559) (Tier 1)
-- [OpenSecrets: Congressional members receiving farm subsidies](https://www.opensecrets.org/news/2023/03/congressional-farm-subsidy-recipients-2023) (Tier 1)
+- [OpenSecrets: Congressional members receiving farm subsidies](https://www.opensecrets.org/news/) (Tier 1)
 - [Environmental Working Group: Farm Subsidy Database — Frank Lucas](https://farm.ewg.org/persondetail.php?custnumber=13000178668) (Tier 1)
 - [FEC: Frank Lucas for Congress Committee filings](https://www.fec.gov/data/committee/C00287912/) (Tier 1)
-- [GovTrack: Frank Lucas voting record on Farm Bills](https://www.govtrack.us/congress/members/frank_lucas/400245) (Tier 1)
+- [GovTrack: Frank Lucas voting record on Farm Bills](https://www.govtrack.us/congress/members/zoe_lofgren/400245) (Tier 1)
 - [Congressional Research Service: Farm Bill Overview and History](https://crsreports.congress.gov/product/pdf/R/R47667) (Tier 1)
 - [USDA: Commodity subsidy distribution data](https://www.usda.gov/farmbill/) (Tier 1)
 - [The Guardian: Congressional self-dealing in farm subsidies](https://www.theguardian.com/us-news/2019/nov/15/farm-subsidies-agriculture-committee-members/) (Tier 2)
@@ -305,3 +305,4 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 - [EWG: Farm subsidy database — Frank Lucas district data](https://farm.ewg.org/) (Tier 2)
 
 content-readiness:: ready
+ 

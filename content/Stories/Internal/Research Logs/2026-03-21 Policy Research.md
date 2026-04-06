@@ -34,7 +34,7 @@ tags: #analysis #story
 - **What:** Congress passed the 2025 reconciliation package; Trump signed July 4, 2025. TCJA individual provisions now permanent. Pass-through deduction permanent. Estate tax exemption permanent. Business depreciation/R&D permanent. Funded by: $911B in Medicaid cuts over 10 years; $536B in Medicare cuts over 2026-2034. Medicaid work requirements effective December 31, 2026. Semi-annual Medicaid eligibility redeterminations begin October 1, 2026.
 - **Donor connection:** [[Koch Network - Charles Koch]] · [[Kenneth Griffin]] — the TCJA permanence campaign was the Koch network's primary 2025 legislative objective; the Medicaid/Medicare cuts fund the donor class's tax permanence.
 - **Politician connection:** [[2017 Tax Cuts - The $1.5 Trillion Receipt]] — updated with full OBBBA analysis, Medicare trigger, and class analysis of the permanent-temporary architecture.
-- **Source:** [Tax Foundation: OBBBA analysis](https://taxfoundation.org/research/all/federal/trump-tax-cuts-2025-budget-reconciliation/) (Tier 2); [Medicare Rights Center](https://democrats-budget.house.gov/resources/fact-sheet/house-passed-fy25-reconciliation-bill-triggers-535-billion-medicare-cuts) (Tier 2)
+- **Source:** [Tax Foundation: OBBBA analysis](https://taxfoundation.org/research/all/federal/trump-tax-cuts-2025-budget-reconciliation/) (Tier 2); [Medicare Rights Center](https://democrats-budget.house.gov/resources/fact-sheet/trumps-big-ugly-law-triggers-536-billion-medicare-cuts) (Tier 2)
 
 ### 4. ICE Detention Escalation — 540K Deported, 66K Detained (Through January 2026)
 - **What:** ICE deportations exceeded **540,000 by January 2026** (up from ~340,000 in FY2025 noted in vault). Detention peaked at **66,000+** in December 2025 — all-time record. Arrests of people with no criminal record surged 2,450%. 47,964 currently detained with zero criminal convictions. 31 deaths in ICE custody in 2025 — highest since 2004. Thousands of children deported under 18.
@@ -64,7 +64,7 @@ tags: #analysis #story
 - **What:** GENIUS Act (stablecoin regulation) passed Senate 68-30 on June 17, 2025 and House 308-122 on July 17, 2025 — already law. March 2026: Senator Scott at DC Blockchain Summit pushing for crypto market structure legislation; Senator Lummis expects market structure bill from committee by April, Senate passage by end of 2026. Stablecoin yield debate ongoing.
 - **Donor connection:** [[Crypto Industry Bloc]] — Trump crypto donor network got the regulatory framework they wanted (legitimization without hard oversight). Next step: market structure bill.
 - **Politician connection:** [[Trump Crypto - The President as Personal Profiteer]] — vault note covers GENIUS Act passage. No new update needed; market structure bill is next development to watch.
-- **Source:** [CoinDesk, March 18, 2026](https://www.coindesk.com/policy/2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it) (Tier 2)
+- **Source:** [CoinDesk, March 18, 2026](https://www.coindesk.com/policy2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it) (Tier 2)
 
 ---
 
@@ -74,7 +74,7 @@ tags: #analysis #story
 - **What:** Newsom's January 9, 2026 final budget proposes $2.9B deficit (down from feared $18B). LAO projects $18–22B structural deficit by 2027-28 if tech/AI stocks correct. Key cut: **beginning October 2026**, ~200,000 undocumented immigrants (refugees, asylees, trafficking survivors) lose full Medi-Cal coverage and move to emergency-only — reversing Newsom's signature Medi-Cal expansion. Housing/homelessness spending down $1.4B. New populist framing: plans to restrict corporate bulk-purchasing of single-family homes.
 - **Donor connection:** [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] — Medi-Cal cut is federal-forced but also consistent with insurer donor preferences (reduces public payer competition). Corporate landlord restriction proposal is notable anti-real-estate-donor positioning for 2028 messaging.
 - **Politician connection:** [[Budget Priorities - What California Actually Funds]] — updated with full 2026-27 analysis; [[Newsom 2028 - The Donor Class Presidential Campaign]] — Medi-Cal reversal already noted in attack file section; [[Single-Payer Broken Promise]] — single-payer note already updated with March 2026 CalMatters reference.
-- **Source:** [CalMatters: Newsom's last budget, January 2026](https://calmatters.org/politics/2026/01/gavin-newsom-politics-budget-deficit/) (Tier 2); [NBC Los Angeles: $3B deficit](https://www.nbclosangeles.com/news/local/california-budget-proposal-2026-newsom/3829461/) (Tier 2)
+- **Source:** [CalMatters: Newsom's last budget, January 2026](https://calmatters.org/category/politics/2026/01/gavin-newsom-politics-budget-deficit/) (Tier 2); [NBC Los Angeles: $3B deficit](https://www.nbclosangeles.com/news/local/california-budget-proposal-2026-newsom/3829461/) (Tier 2)
 
 ### 10. California Housing — AB 1157 Fails, SB 417 Advances
 - **What:** AB 1157 (rent control expansion — would have lowered annual rent increase cap from 10% to 5% and removed the 2030 sunset on AB 1482) failed to get enough votes in the Assembly committee. SB 417 — The Affordable Housing Bond Act of 2026 — proposes $10B in housing bonds, proceeds for affordable rental and homeownership programs.

@@ -6,6 +6,12 @@
       "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
       "runtimeArgs": ["quartz/bootstrap-cli.mjs", "build", "--serve", "--port", "8080"],
       "port": 8080
+    },
+    {
+      "name": "static-preview",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [".claude/static-server.cjs", "8091"],
+      "port": 8091
     }
   ]
 }

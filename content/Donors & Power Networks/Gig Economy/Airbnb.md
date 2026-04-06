@@ -65,3 +65,18 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 - [Ballotpedia: Short-term rental regulations](https://ballotpedia.org/Airbnb) (Tier 3)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 251 contributions totaling $882.8K
+
+**ActBlue/WinRed conduit duplicates filtered:** 13
+
+| Top Recipient | Amount |
+|---|---|
+| PIC 2021, INC. | $250.0K |
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $100.0K |
+| DEVELOPMENT NOW FOR CHICAGO | $100.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

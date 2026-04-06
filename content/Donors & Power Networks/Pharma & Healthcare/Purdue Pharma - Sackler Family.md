@@ -27,7 +27,7 @@ The Sackler family fortune was built on pharmaceutical marketing innovation. Art
 Purdue's political operation was smaller than its industry peers in direct contributions but strategically targeted: the company focused lobbying on the FDA (which approved OxyContin with a misleading label), state medical boards (which set prescribing guidelines), pain management professional organizations (which Purdue funded to promote opioid prescribing), and attorneys general (who held enforcement power over pharmaceutical marketing). OpenSecrets data shows Purdue spent $860K on lobbying in 2020, peaked at $1.12M in 2018, and continued spending $400K annually through 2024 — even in bankruptcy. The revolving door rate is extraordinary: 87.5% of Purdue's lobbyists in 2023 (7 of 8) previously held government jobs.
 
 - [OpenSecrets: Purdue Pharma organizational profile](https://www.opensecrets.org/orgs/purdue-pharma/summary?id=D000022208) (Tier 1)
-- [OpenSecrets: Purdue Pharma lobbying profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000022208&cycle=2020) (Tier 1)
+- [OpenSecrets: Purdue Pharma lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000022208&cycle=2020) (Tier 1)
 
 ---
 
@@ -139,7 +139,7 @@ Drug pricing and FDA regulation, opioid prescribing guidelines, prescription dru
 ### Sources
 
 - [OpenSecrets: Purdue Pharma organizational profile](https://www.opensecrets.org/orgs/purdue-pharma/summary?id=D000022208) (Tier 1)
-- [OpenSecrets: Purdue Pharma lobbying profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000022208&cycle=2020) (Tier 1)
+- [OpenSecrets: Purdue Pharma lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000022208&cycle=2020) (Tier 1)
 - [HHS OIG: Purdue Pharma pleads guilty to fraud and kickback conspiracies](https://oig.hhs.gov/fraud/enforcement/opioid-manufacturer-purdue-pharma-pleads-guilty-to-fraud-and-kickback-conspiracies/) (Tier 1)
 - [Supreme Court: Harrington v. Purdue Pharma L.P., 23-124 (2024)](https://www.supremecourt.gov/opinions/23pdf/23-124_8nk0.pdf) (Tier 1)
 - [GovInfo: House hearing — The Role of Purdue Pharma and the Sackler Family in the Opioid Epidemic](https://www.govinfo.gov/content/pkg/CHRG-116hhrg43010/html/CHRG-116hhrg43010.htm) (Tier 1)

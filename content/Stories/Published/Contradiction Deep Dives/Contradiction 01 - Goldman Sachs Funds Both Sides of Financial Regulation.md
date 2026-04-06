@@ -294,7 +294,7 @@ Across three decades, four presidents, and multiple Congress-control shifts, Gol
 - [OpenSecrets: The Revolving Door Always Spins for Goldman Sachs](https://www.opensecrets.org/news/2017/03/revolving-door-goldman-sachs/) (Tier 2)
 - [CNN: Goldman Sachs Alums in Trumpworld](https://money.cnn.com/2018/03/07/investing/gary-cohn-trump-goldman-sachs/index.html) (Tier 2)
 - [ProPublica: The Surreal Politics of a Billionaire's Tax Loophole](https://www.propublica.org/article/the-surreal-politics-of-a-billionaires-tax-loophole) (Tier 2)
-- [American Prospect: How Chuck Schumer Deep-Sixed the Tech Antitrust Bills](https://prospect.org/power/2023-01-26-chuck-schumer-tech-antitrust-bills/) (Tier 2)
+- [American Prospect: How Chuck Schumer Deep-Sixed the Tech Antitrust Bills](https://prospect.org/2023/01/26/2023-01-26-chuck-schumer-tech-antitrust-bills/) (Tier 2)
 - [Washington Examiner: Dodd-Frank Regulations Help Goldman Sachs Gain Market Share](https://www.washingtonexaminer.com/dodd-frank-regulations-help-goldman-sachs-gain-market-share) (Tier 2)
 - [Wikipedia: Glass-Steagall Legislation](https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation) (Tier 3)
 - [CNN: Goldman Sachs' Top 1% Employees Can't Donate to Trump](https://money.cnn.com/2016/09/06/investing/goldman-sachs-political-donations/index.html) (Tier 2)
@@ -304,3 +304,4 @@ Across three decades, four presidents, and multiple Congress-control shifts, Gol
 
 research-status:: ready — Full citation pass complete. Goldman $39M since 1989 (50/50 split), Schumer $707K, Cruz wife $1-5M/yr Goldman MD, Treasury revolving door (Rubin/Paulson/Cohn/Mnuchin), temporal mapping tables, class analysis. 21 sources Tier 1-3 with URLs. All ### headers. Promoted Session 39.
 content-readiness:: ready
+                   

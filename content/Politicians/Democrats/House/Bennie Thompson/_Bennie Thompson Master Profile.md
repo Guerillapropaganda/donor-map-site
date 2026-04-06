@@ -139,7 +139,7 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 - [House.gov: Bennie Thompson official biography](https://benniethompson.house.gov/about) (Tier 1)
 - [Congress.gov: January 6th Select Committee Final Report](https://www.congress.gov/committee/house-select-committee-to-investigate-the-january-6th-attack/hlij00) (Tier 1)
 - [DHS.gov: Budget-in-Brief FY2024](https://www.dhs.gov/sites/default/files/2023-03/DHS%20BIB%20-%20web%20version.pdf) (Tier 1)
-- [OpenSecrets: Defense & Homeland Security lobbying](https://www.opensecrets.org/industries/lobbying?ind=D) (Tier 1)
+- [OpenSecrets: Defense & Homeland Security lobbying](https://www.opensecrets.org/industries?ind=D) (Tier 1)
 - [Washington Post: 6 questions the Jan. 6 committee aims to answer about the attack](https://www.washingtonpost.com/politics/2022/06/09/jan6-committee-questions-hearings/) (Tier 2)
 - [NPR: Bennie Thompson — From Civil Rights to January 6th](https://www.npr.org/2022/06/08/1102909009/jan-6-committee-members-capitol-attack-thompson) (Tier 2)
 - [The Intercept: How Post-9/11 Visions of an Imperiled Homeland Supercharged U.S. Immigration Enforcement](https://theintercept.com/2021/09/10/immigration-enforcement-homeland-security-911/) (Tier 2)

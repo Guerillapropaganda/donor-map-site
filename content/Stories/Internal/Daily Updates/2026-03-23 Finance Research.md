@@ -74,7 +74,7 @@ Political strategists warn most candidates aren't raising money quickly enough t
 
 *Updated:* [[_Katie Porter Master Profile]], [[Steve Hilton]]
 
-- [CalMatters: Republican Steve Hilton is winning the California governor fundraising race](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
+- [CalMatters: Republican Steve Hilton is winning the California governor fundraising race](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
 
 ---
 

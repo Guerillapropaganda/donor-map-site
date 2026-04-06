@@ -150,13 +150,26 @@ The Quibi failure ($1.75B burned in 8 months) revealed the limits of Katzenberg'
 
 ### Sources
 
-- [FEC: Individual contributions — Katzenberg, Jeffrey (2010–2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=katzenberg%2C+jeffrey&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 809 contributions, 100% Democratic, DreamWorks/WndrCo employer
+- [FEC: Individual contributions — Katzenberg, Jeffrey (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=katzenberg%2C+jeffrey&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 809 contributions, 100% Democratic, DreamWorks/WndrCo employer
 - [Wikipedia: Jeffrey Katzenberg](https://en.wikipedia.org/wiki/Jeffrey_Katzenberg) (Tier 3) — Career overview, political activities section with sourced donation figures, SOPA/PIPA involvement, Biden/Harris 2024 co-chair
-- [Warburg Pincus / WndrCo: Jeffrey Katzenberg](https://wndrco.com/) (Tier 3) — WndrCo venture firm overview
-- [ProPublica Nonprofit Explorer: Priorities USA Action](https://projects.propublica.org/nonprofits/organizations/273725506) (Tier 1) — Super PAC filings showing Katzenberg contributions
+- [Warburg Pincus / WndrCo: Jeffrey Katzenberg](https://www.wndrco.com/) (Tier 3) — WndrCo venture firm overview
+- [ProPublica Nonprofit Explorer: Priorities USA Action](https://projects.propublica.org/nonprofits/organizations/273725506) *(source unavailable)* (Tier 1) — Super PAC filings showing Katzenberg contributions
 - [Cenk Uygur media profile — Donor Map Media Pipeline](https://en.wikipedia.org/wiki/The_Young_Turks) (Tier 3) — TYT $20M WndrCo investment context
 
 ---
 
 research-status:: ready — Full expansion from 38 to 170+ lines. FEC data Chrome-verified (809 contributions, 100% Democratic). Wikipedia Chrome-verified (political activities section). Complete donor node anatomy: Who They Are → What They Want → Who They Fund (timeline table) → What They've Gotten (Format 2, 8 rows) → WndrCo-TYT Connection → Class Analysis → Capture Architecture → Sources. 5 sources (Tier 1–3). Key data: $3M+ Priorities USA, 809 FEC contributions, $20M TYT investment, $15M Clooney fundraiser, Biden/Harris 2024 co-chair.
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 400 contributions totaling $12.4M
+
+| Top Recipient | Amount |
+|---|---|
+| SMP | $3.7M |
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $1.1M |
+| FF PAC | $1.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

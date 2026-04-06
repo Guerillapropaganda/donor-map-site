@@ -140,7 +140,7 @@ Candace Owens represents **the escape velocity problem** — what happens when a
 
 ### Sources
 
-- [FEC Individual Contributions: Candace Owens (63 results, 2015-2026, none match media personality)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=candace+owens&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Candace Owens (63 results, 2015-2026, none match media personality)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=candace+owens&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Variety: "Candace Owens Is Out at Daily Wire, CEO Says" (Mar 22, 2024)](https://variety.com/2024/digital/news/candace-owens-daily-wire-out-1235949509/) (Tier 2)
 - [CNN: "Candace Owen out at the Daily Wire" (Mar 22, 2024)](https://edition.cnn.com/2024/03/22/media/candace-owen-out-ben-shapiro-daily-wire-anti-semitism) (Tier 2)
 - [Deadline: "Candace Owens, Right Wing Firebrand, Parts Ways With The Daily Wire" (Mar 2024)](https://deadline.com/2024/03/candace-owens-daily-wire-1235865687/) (Tier 2)

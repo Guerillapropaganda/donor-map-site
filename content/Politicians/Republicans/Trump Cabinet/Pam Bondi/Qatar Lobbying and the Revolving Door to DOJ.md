@@ -71,5 +71,5 @@ The former lobbyist for private prisons now controls the enforcement apparatus t
 
 ### Sources
 
-- [Senate Judiciary Committee: Bondi lobbying conflicts](https://www.judiciary.senate.gov/hearings) (Tier 1)
+- [Senate Judiciary Committee: Bondi lobbying conflicts](https://www.judiciary.senate.gov/committee-activity/hearings) (Tier 1)
 - Senator Durbin: Demand Bondi recuse from GEO Group (Tier 1)

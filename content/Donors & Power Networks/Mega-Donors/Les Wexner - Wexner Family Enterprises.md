@@ -479,7 +479,7 @@ Whether Wexner was a victim, an enabler, or something more complicit remains a m
 
 - [FEC Individual Contributions Database: Leslie Wexner](https://www.opensecrets.org/donor-lookup/results?cand=&cycle=&employ=&name=Leslie+Wexner&order=asc&sort=D&state=&zip=) (Tier 1)
 - [FEC Donor Lookup: Wexner to Mike DeWine](https://www.opensecrets.org/donor-lookup/results?cand=Mike+DeWine&cycle=&employ=&name=Leslie+Wexner&order=asc&sort=D&state=&zip=) (Tier 1)
-- [House Oversight Committee: Wexner Deposition Video (February 18, 2026)](https://www.youtube.com/watch?v=QFZQxsZFZoo) (Tier 1)
+- [House Oversight Committee: Wexner Deposition Video (February 18, 2026)](https://www.youtube.com?v=QFZQxsZFZoo) (Tier 1)
 - [ProPublica Nonprofit Explorer: Wexner Foundation Form 990-PF Filings](https://projects.propublica.org/nonprofits/organizations/237320631) (Tier 1)
 
 #### Tier 2 (Major Investigative Journalism)

@@ -55,7 +55,7 @@ Dark money serves identical structural functions for both parties: it allows wea
 ### Sources
 
 - [OpenSecrets: Dark money spending data](https://www.opensecrets.org/dark-money) (Tier 1)
-- [FEC: Independent expenditure data](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
+- [FEC: Independent expenditure data](https://www.fec.gov/data/independent-expenditures/?most_recent=true) (Tier 1)
 - [IRS: 501(c)(4) tax-exempt organization rules](https://www.irs.gov/charities-non-profits/other-non-profits/social-welfare-organizations) (Tier 1)
 
 content-readiness:: ready

@@ -134,8 +134,9 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 
 ### Sources
 
-- [DOJ Indictment: United States v. Henry Cuéllar](https://www.justice.gov/opa/pr/congressman-henry-cuellar-charged-bribery-money-laundering-and-fara-violations) (Tier 1)
-- [OpenSecrets: Henry Cuéllar Campaign Finance](https://www.opensecrets.org/members-of-congress/cid=N00000840) (Tier 1)
+- [DOJ Indictment: United States v. Henry Cuéllar](https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and) (Tier 1)
+- [OpenSecrets: Henry Cuéllar Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00000840) (Tier 1)
 
 profile-status:: ready
 content-readiness:: ready
+ 

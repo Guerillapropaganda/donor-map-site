@@ -62,7 +62,7 @@ Three distinct revenue models capture VA spending.
 
 2018-2021 federal government paid insurers estimated $44 billion to cover dual-enrollees through CMS while VA spent additional $46 billion on same population. Total duplicate spending: $90 billion for three-year overlap for the same medical services delivered to the same population. Private insurance corporations captured payment for services they did not deliver. This is not "choice." This is structural double-billing made possible by Veterans' dual eligibility.
 
-Current Trump administration policy fails to address dual-enrollment overcharge. Instead, accelerates community care expansion using same dual-enrollment framework. New profit tier emerges: community care networks bill both VA and Medicare Advantage for same service. Structural extraction expands. - [Medicare Advocacy: VA MA payment loophole](https://medicareadvacy.org/wp-content/uploads/2025/08/CMA-Issue-Brief-VA-MA-Payment-Loophole.pdf) (Tier 2)
+Current Trump administration policy fails to address dual-enrollment overcharge. Instead, accelerates community care expansion using same dual-enrollment framework. New profit tier emerges: community care networks bill both VA and Medicare Advantage for same service. Structural extraction expands. - [Medicare Advocacy: VA MA payment loophole](https://medicareadvocacy.org/wp-content/uploads/2025/08/CMA-Issue-Brief-VA-MA-Payment-Loophole.pdf) (Tier 2)
 
 > [!money]
 > **Three-Layer Profit Extraction:** (1) TriWest/Optum extract administrative overhead (8-12%) from $28.5 billion annual community care spending = $2.28 billion to $3.42 billion annually. (2) Regional healthcare networks receive referral volume (profit margin typically 15-25% higher than VA direct care costs). (3) CVS/Aetna and UnitedHealth capture dual-enrollment reimbursement (government pays for same service twice). Total working class veteran healthcare investment converted to healthcare shareholder profit across three tiers.
@@ -73,9 +73,9 @@ Current Trump administration policy fails to address dual-enrollment overcharge.
 
 **Concerned Veterans for America (CVA):** Established as Koch network project 2011-2012. Positioned as "conservative veterans advocacy" separate from Americans for Prosperity (AFP). CVA funds: 2015 nearly $16 million in contributions, $14 million directly from Freedom Partners Chamber of Commerce (Koch ATM). After 2016 restructuring, AFP became CVA's umbrella organization. Funding flows through Freedom Partners and Koch network. - [American Oversight: Koch-funded VA group influence](https://americanoversight.org/documents-reveal-extent-of-koch-funded-va-privatization-groups-influence/) (Tier 2)
 
-**CVA messaging strategy:** Frames privatization as "veteran choice" and rural access expansion. Denies seeking VA dismantling. But ultimate goal documented: transform VA into separate nonprofit government corporation, consolidate 40 percent of patients currently in community care into permanent privatized networks, eliminate VA as integrated federal health system. - [SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php/Concerned_Veterans_for_America) (Tier 2) - [Newsweek: Koch veterans group VA privatization](https://www.newsweek.com/koch-brothers-backed-group-could-determine-future-va-870693) (Tier 2)
+**CVA messaging strategy:** Frames privatization as "veteran choice" and rural access expansion. Denies seeking VA dismantling. But ultimate goal documented: transform VA into separate nonprofit government corporation, consolidate 40 percent of patients currently in community care into permanent privatized networks, eliminate VA as integrated federal health system. - [SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Concerned_Veterans_for_America) (Tier 2) - [Newsweek: Koch veterans group VA privatization](https://www.newsweek.com/koch-brothers-backed-group-could-determine-future-va-870693) (Tier 2)
 
-**Current institutional control:** VA Secretary Doug Collins appointed February 2025. Strong support from CVA. Under Collins, VA "has overseen unprecedented staff reductions in VA health centers across the nation and worked to expand use of private providers." The Koch network pipeline is complete: outside advocacy (CVA) → inside government (Collins appointment) → budget implementation (community care expansion) → privatization acceleration. - [Chicago Tribune: Koch veterans group Trump administration](https://www.chicagotribune.com/nation-world/ct-koch-veterans-group-va-privatization-20180407-story.html) (Tier 2)
+**Current institutional control:** VA Secretary Doug Collins appointed February 2025. Strong support from CVA. Under Collins, VA "has overseen unprecedented staff reductions in VA health centers across the nation and worked to expand use of private providers." The Koch network pipeline is complete: outside advocacy (CVA) → inside government (Collins appointment) → budget implementation (community care expansion) → privatization acceleration. - [Chicago Tribune: Koch veterans group Trump administration](https://www.chicagotribune.com/2018/04/07/how-a-koch-backed-veterans-group-gained-influence-in-trumps-washington/) (Tier 2)
 
 ### Budget Dynamics: Community Care Growth While VA Direct Care Shrinks
 
@@ -83,7 +83,7 @@ Current fiscal reality demonstrates the privatization mechanism.
 
 **Community care baseline (FY 2023):** $28.5 billion. **Proposed increase (Trump 2026 budget):** $14.4 billion. **Total new community care allocation:** $42.9 billion annually. **VA direct care funding:** Flat or reduced. **Percentage of new VA medical funding to private providers:** Approximately 75 percent. This is not balanced expansion. This is systematic defunding of VA direct care disguised as "access expansion."
 
-VA advisory panel warned in writing: "increasing number of veterans referred to community providers threatens to materially erode the VA's direct care system. Without course correction, mass closures of VA clinics or certain services could ensue." - [American Prospect: VA privatization warning](https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/) (Tier 2)
+VA advisory panel warned in writing: "increasing number of veterans referred to community providers threatens to materially erode the VA's direct care system. Without course correction, mass closures of VA clinics or certain services could ensue." - [American Prospect: VA privatization warning](https://prospect.org/2024/04/11/2024-04-11-privatization-warning-veterans-affairs/) (Tier 2)
 
 The "wait time" crisis within VA is being engineered by this budget allocation. Funding flows to private networks. VA direct care loses capacity. Wait times increase. Increased wait times justify additional privatization. The cycle accelerates.
 
@@ -139,14 +139,14 @@ The solution is straightforward: fund VA benefits processing, hire additional ad
 - [Congress.gov: VA MISSION Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2372) (Tier 1)
 - [VA News: Community Care latest](https://news.va.gov/57722/va-mission-act-what-is-the-latest-on-community-care/) (Tier 1)
 - [VA Community Care Network information](https://www.va.gov/COMMUNITYCARE/providers/Community-Care-Network.asp) (Tier 1)
-- [American Prospect: VA privatization warning](https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/) (Tier 2)
-- [American Prospect: gunning for more VA privatization](https://prospect.org/health/2023-07-11-gunning-more-va-privatization/) (Tier 2)
+- [American Prospect: VA privatization warning](https://prospect.org/2024/04/11/2024-04-11-privatization-warning-veterans-affairs/) (Tier 2)
+- [American Prospect: gunning for more VA privatization](https://prospect.org/2023/07/11/2023-07-11-gunning-for-more-va-privatization/) (Tier 2)
 - [Military.com: VA budget privatization risks](https://www.military.com/daily-news/opinions/2025/07/17/new-va-budget-pushes-privatize-care-risking-veterans-health-system.html) (Tier 2)
-- [Medicare Advocacy: VA MA payment loophole](https://medicareadvacy.org/wp-content/uploads/2025/08/CMA-Issue-Brief-VA-MA-Payment-Loophole.pdf) (Tier 2)
+- [Medicare Advocacy: VA MA payment loophole](https://medicareadvocacy.org/wp-content/uploads/2025/08/CMA-Issue-Brief-VA-MA-Payment-Loophole.pdf) (Tier 2)
 - [American Oversight: Koch-funded VA group influence](https://americanoversight.org/documents-reveal-extent-of-koch-funded-va-privatization-groups-influence/) (Tier 2)
-- [SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php/Concerned_Veterans_for_America) (Tier 2)
+- [SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Concerned_Veterans_for_America) (Tier 2)
 - [Newsweek: Koch veterans group VA privatization](https://www.newsweek.com/koch-brothers-backed-group-could-determine-future-va-870693) (Tier 2)
-- [Chicago Tribune: Koch veterans group Trump administration](https://www.chicagotribune.com/nation-world/ct-koch-veterans-group-va-privatization-20180407-story.html) (Tier 2)
+- [Chicago Tribune: Koch veterans group Trump administration](https://www.chicagotribune.com/2018/04/07/how-a-koch-backed-veterans-group-gained-influence-in-trumps-washington/) (Tier 2)
 - [The Intercept: DOGE cuts at Pentagon IT](https://theintercept.com/2026/01/19/doge-cuts-pentagon-it-military/) (Tier 2)
 - [Veterans for Peace: Stop privatization VA](https://www.veteransforpeace.org/take-action/stop-privatization-veterans-health-administration) (Tier 3)
 - [American Postal Workers Union: VA healthcare](https://apwu.org/news/homefront-veterans-magazine-whats-really-happening-veterans-va-healthcare/) (Tier 3)

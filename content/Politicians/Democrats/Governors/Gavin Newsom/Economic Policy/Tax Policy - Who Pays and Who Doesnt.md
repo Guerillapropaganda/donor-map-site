@@ -100,7 +100,7 @@ Newsom has made a deliberate choice to govern within California's wealth-protect
 
 ### Tier 1 — Primary Documents
 - [California State Board of Equalization: Proposition 13 property tax information](https://boe.ca.gov/pdf/pub800-10.pdf) (Tier 1)
-- [California Legislative Information: AB 2289 wealth tax text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB2289) (Tier 1)
+- [California Legislative Information: AB 2289 wealth tax text](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202120220AB2289) (Tier 1)
 
 ### Tier 2 — Major Journalism & Analysis
 - [California Budget and Policy Center: tax incidence analysis and inequality data](https://calbudgetcenter.org/resources/inequality-is-already-extreme-in-california-republican-cuts-could-worsen-it/) (Tier 2)
@@ -109,7 +109,7 @@ Newsom has made a deliberate choice to govern within California's wealth-protect
 - [Fox News: Capital flight concerns tied to billionaire tax](https://www.foxnews.com/politics/california-capital-flight-mirrors-new-york-hands-red-states-windfall) (Tier 2)
 
 ### Tier 3 — Secondary & Analysis
-- [ITEP (Institute on Taxation and Economic Policy): Expert report on 2026 billionaire wealth tax](https://itep.org/expert-report-on-the-california-2026-billionaire-wealth-tax-revenue-economic-and-constitutional-analysis/) (Tier 3)
+- [ITEP (Institute on Taxation and Economic Policy): Expert report on 2026 billionaire wealth tax](https://itep.org/expert-report-on-the-california-2026-billionaire-tax-revenue-economic-and-constitutional-analysis/) (Tier 3)
 - [Kiplinger: California tax burden on high earners analysis](https://www.kiplinger.com/taxes/california-just-became-more-expensive-for-high-earners) (Tier 3)
 - [Inside SALT: California wealth tax policy history 2024-2025](https://www.insidesalt.com/2025/11/biting-the-hand-that-feeds-california-faces-new-proposed-wealth-tax/) (Tier 3)
 - [Santa Barbara News-Press: Capital flight claims vs. historical evidence](https://www.newspress.com/2026/02/08/ultra-rich-california-wealth-tax/) (Tier 3)

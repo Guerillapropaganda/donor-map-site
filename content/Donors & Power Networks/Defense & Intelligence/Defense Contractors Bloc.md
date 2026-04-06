@@ -147,8 +147,8 @@ The Both-Sides Illusion operates at sector scale. Lockheed Martin gave $2.47M to
 
 ### Sources
 
-- [OpenSecrets: Defense Sector Summary, 2024 cycle](https://www.opensecrets.org/industries/indus?ind=D) (Tier 1)
-- [OpenSecrets: Defense Top Contributors, 2024 cycle](https://www.opensecrets.org/industries/contrib?cycle=2024&ind=D) (Tier 1)
+- [OpenSecrets: Defense Sector Summary, 2024 cycle](https://www.opensecrets.org/industries?ind=D) (Tier 1)
+- [OpenSecrets: Defense Top Contributors, 2024 cycle](https://www.opensecrets.org/industries?cycle=2024&ind=D) (Tier 1)
 - [OpenSecrets: Capitalizing on Conflict — defense contractors and arms sales lobbying](https://www.opensecrets.org/news/reports/capitalizing-on-conflict/defense-contractors) (Tier 1)
 - [OpenSecrets: Defense contractors spent $70 million lobbying ahead of NDAA](https://www.opensecrets.org/news/2023/10/defense-contractors-spent-70-million-lobbying-ahead-of-annual-defense-budget-bill-ndaa/) (Tier 1)
 - [OpenSecrets: Revolving door lobbyists help defense contractors in 2023](https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/) (Tier 1)

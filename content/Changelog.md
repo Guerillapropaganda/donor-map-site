@@ -9,6 +9,47 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 
 ---
 
+## 2026-04-06
+
+### Vault Methodology Rewrite
+- **Replaced 10 contradictory methodology docs with 3 unified files:** `Vault Rules.md` (single source of truth), `Pipeline Guide.md` (API infrastructure), `Session State.md` (cross-session continuity)
+- **New readiness tier: `verified`** — sits between `developed` and `ready`, means Tier 1 pipeline data backs the factual claims. Existing `ready` files stay published; pipeline promotes through `verified` organically
+- **Tier 1 First mandate** — every factual claim needs a government source (FEC, Congress.gov, Senate LDA, USASpending). Articles provide context, not evidence
+- **Two-section source layout** — profiles now use Verified (working Tier 1 first) and Archived (broken/paywalled links struck through, preserved as research trail)
+- **OpenSecrets demoted** — site unreliable (blocks, rate limits). Existing URLs move to Archived. 4,075 URLs across 968 files being replaced by FEC/Congress.gov equivalents
+- **Archived 19 old docs** to `Vault Maintenance/Archive/` and `Assets/Archive/` — Quality Standards, State Engine, Research Methodology, Vault Standards, API Pipeline, Sources Master Node, etc.
+- **CLAUDE.md slimmed** from 197 to ~107 lines — no more duplicated rules, points to Vault Rules.md
+- **Updated all 7 Obsidian templates** — new frontmatter fields (`last-enriched`, `lobbyview-bills`, `naics-code`, etc.), two-section source layout, removed deprecated `research-status::` inline fields
+- **Decisions log** started in Vault Rules.md — permanent record of architectural decisions
+
+### New Pipelines (engine repo)
+- **LobbyView pipeline** (`lobbyview-pipeline.cjs`) — pulls client-bill lobbying networks, NAICS codes, issue areas. 100 req/day limit, default 5 profiles per run. Writes `auto:lobbyview-networks` blocks + `lobbyview-bills` and `naics-code` frontmatter
+- **OpenSecrets URL replacement script** (`opensecrets-replace.cjs`) — scans vault for opensecrets.org URLs, maps to FEC/Congress.gov/Senate LDA equivalents. Handles 14 URL categories (members, orgs, PACs, lobbying, outside spending, donor lookup, races, FARA, etc.)
+- **LobbyView added to GitHub Actions** — runs alongside other 7 pipelines, `LOBBYVIEWAPI` secret configured
+- **Fixed LobbyView CI timeout** — burst rate 60/hr instead of 4/hr (daily cap is the real limit, not hourly)
+
+### Site Polish (carried from previous session)
+- **Party dots on profiles** — blue for D, red for R, grey for I on badge bar
+- **ProfileWidget widened** — now shows on all profile types, not just master-profile slugs
+- **Empty states** for EventTimeline and ProfileWidget when no data available
+- **Fixed sidebar nav** — Fox News, Daily Wire paths, added Races/Biden Cabinet/Bush Cabinet/Corporate nodes
+
+### Pipeline Infrastructure
+- **FEC + Congress pipelines now write body sections** via `applyAutoBlock` (were frontmatter-only before)
+- **Auto-populate `politicians-funded`** from FEC recipient data on donor profiles
+- **Array support in `updateFrontmatter()`** — YAML array serialization for `politicians-funded`, `committees`, etc.
+- **Pipeline timeout bumped** 18→22min step, 25→30min job
+- **Pipeline push conflict resolution** — fetch→rebase→merge fallback pattern
+
+### Vault Health Snapshot (end of session)
+- **698** ready / **0** verified / **4** developed / **21** draft / **5** raw
+- **80** files with pipeline auto-blocks
+- **43** files with UNVERIFIED tags
+- **5** files with URL NEEDED tags
+- **532** files still referencing opensecrets.org
+
+---
+
 ## 2026-04-05
 
 ### Pipeline Fixes (engine repo)

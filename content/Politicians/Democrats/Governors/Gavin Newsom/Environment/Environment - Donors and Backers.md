@@ -117,6 +117,6 @@ California's 100% clean energy mandate (2045) and EV adoption targets are positi
 - [FPPC: Clean tech PAC contributions (Sunrun, Bloom, NextEra, Lucid, etc.)](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 - [CalGEM: oil and gas permit database by year](https://www.conservation.ca.gov/calgem) (Tier 1)
 - [The Intercept: PG&E contributions and regulatory capture](https://theintercept.com/2019/11/04/pge-bailout-bankruptcy-lobbying/) (Tier 2)
-- [CalMatters: California environmental policy and fossil fuel industry spending](https://calmatters.org/environment/) (Tier 2)
+- [CalMatters: California environmental policy and fossil fuel industry spending](https://calmatters.org/category/environment/) (Tier 2)
 
 content-readiness:: ready

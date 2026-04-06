@@ -2,7 +2,7 @@
 title: "Howard Lutnick Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,7 +13,6 @@ issues:
   - "Technology"
 top-donors:
   - "Elon Musk"
-bioguide-id: "A000383"
 ---
 
 
@@ -113,18 +112,6 @@ Howard Lutnick. Secretary of Commerce (2025–present). CEO and 60% owner of Can
 - [NOTUS: White House conflicts of interest waiver](https://www.notus.org/trump-white-house/howard-lutnick-white-house-conflicts-of-interest-waiver) (Tier 2)
 - [Newsweek: Lutnick sons tariff profits investigation](https://www.newsweek.com/howard-lutnicks-son-under-investigation-over-alleged-tariff-ruling-profits-11595677) (Tier 2)
 - [Salon: "Five-star rating for conflicts of interest"](https://www.salon.com/2025/04/24/a-5-star-rating-for-conflicts-of-interest-commerce-sec-howard-lutnicks-finances-raise-red-flags/) (Tier 2)
-- [FEC: Howard Lutnick contribution records](https://www.fec.gov/data/receipts/?_contributors=lutnick,+howard) (Tier 1)
+- [FEC: Howard Lutnick contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=lutnick,+howard) (Tier 1)
 content-readiness:: ready
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->
+ 

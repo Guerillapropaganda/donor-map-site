@@ -129,7 +129,20 @@ The RJC also demonstrates **asymmetry in pro-Israel vs. pro-Palestinian funding:
 - [OpenSecrets: Republican Jewish Coalition organizational profile](https://www.opensecrets.org/orgs/republican-jewish-coalition/summary?id=D000028612) (Tier 1)
 - [IRS Form 990: Republican Jewish Coalition (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Republican%20Jewish%20Coalition&city=&state=All+States&country=US) (Tier 1)
 - [ProPublica: Inside the Investigation of Leading Republican Money Man Sheldon Adelson](https://www.propublica.org/article/inside-the-investigation-of-leading-republican-money-man-sheldon-adelson) (Tier 2)
-- [The Guardian: Adelson death and political succession](https://www.theguardian.com/us-news/2021/jan/11/sheldon-adelson-dead-pro-israel-mega-donor) (Tier 3)
+- [The Guardian: Adelson death and political succession](https://www.theguardian.com/us-news/2021/jan/11/sheldon-adelson-dead-pro-israel-mega-donor) *(source unavailable)* (Tier 3)
 - [Ballotpedia: Pro-Israel political giving and RJC](https://ballotpedia.org/Pro-Israel_political_spending) (Tier 3)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $3.6M
+
+| Top Recipient | Amount |
+|---|---|
+| RJC VICTORY FUND | $2.0M |
+| GRAHAM MAJORITY FUND | $178.8K |
+| GROW THE MAJORITY | $167.9K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

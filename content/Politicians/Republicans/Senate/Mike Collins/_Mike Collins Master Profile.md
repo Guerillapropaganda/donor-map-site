@@ -127,10 +127,11 @@ Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (
 - [Georgia Recorder: Ossoff fundraising $12M Q3 2025](https://georgiarecorder.com/briefs/ossoff-raises-another-12-million-as-he-fights-for-reelection-in-closely-watched-2026-senate-race/) (Tier 2)
 - [OpenSecrets: Mike Collins campaign finance summary](https://www.opensecrets.org/members-of-congress/mike-collins/summary?cid=N00035370) (Tier 1)
 - [OpenSecrets: Mike Collins expenditure records](https://www.opensecrets.org/members-of-congress/mike-collins/expenditures?cid=N00035370&cycle=2024) (Tier 1)
-- [Ballotpedia: Mike Collins Georgia politician profile](https://ballotpedia.org/Mike_Collins_%28Georgia%29) (Tier 3)
+- [Ballotpedia: Mike Collins Georgia politician profile](https://ballotpedia.org/Mike_Collins_(Georgia)) (Tier 3)
 - [Wikipedia: Mike Collins Georgia politician](https://en.wikipedia.org/wiki/Mike_Collins_%28politician%29) (Tier 3)
 - [Georgia Recorder: Mike Collins ethics investigation](https://georgiarecorder.com/briefs/more-details-released-about-ethics-investigation-into-congressman-mike-collins-and-former-top-aide/) (Tier 2)
 - [CNBC: Fairshake PAC $193M+ cash on hand 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
 - [Track AIPAC: Georgia congressional delegation AIPAC tracking](https://www.trackaipac.com/states/georgia) (Tier 3)
 
 content-readiness:: ready
+ 

@@ -249,7 +249,7 @@ Schumer's role is not to vote yes or no. His role is to determine what the Senat
 - [CREW: Majority Forward investigation](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2)
 - [Politico: Tech antitrust bill killed without floor vote, $277M tech lobbying](https://www.politico.com/story/2022/03/28/tech-companies-kill-antitrust-bills-1231482) (Tier 2)
 - [ProPublica: How Philanthropist David Rubenstein Helped Save a Tax Break Billionaires Love](https://www.propublica.org/article/how-david-rubenstein-helped-save-the-carried-interest-tax-loophole) (Tier 2)
-- [CoinDesk: Crypto PAC Fairshake and Schumer crypto pivot](https://www.coindesk.com/policy/) (Tier 2)
+- [CoinDesk: Crypto PAC Fairshake and Schumer crypto pivot](https://www.coindesk.com/policy) (Tier 2)
 - New York Times: Schumer-Wall Street relationship, Israel speech analysis (Tier 2)
 research-status:: ready — Full citation pass complete. $10.4M Wall Street career (Goldman $543K, Citi $484K, JPMorgan $365K), $1.73M pro-Israel, dark money mirror ($74M Majority Forward, $230M+ Senate Majority PAC), crypto pivot timeline, floor control analysis, donation-to-policy timeline (9 entries), four analytical patterns. 6 sources, Tier 1-2. All ### headers. Promoted Session 38j.
-content-readiness:: ready
+conte

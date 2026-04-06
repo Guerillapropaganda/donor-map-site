@@ -179,9 +179,21 @@ The dark money symmetry is complete. Leo's network operates with the same opacit
 - [Inside Philanthropy: Wealthy Donors Behind the Assault on Affirmative Action](https://www.insidephilanthropy.com/home/2023-8-10-the-wealthy-donors-behind-the-assault-on-affirmative-action) (Tier 2)
 - [CNN: Senate Democrats Subpoena Leonard Leo in SCOTUS Ethics Probe](https://www.cnn.com/2024/04/11/politics/leonard-leo-subpoena-supreme-court-ethics-probe/index.html) (Tier 2)
 - [Senator Whitehouse: The Scheme Speech 5 — The Federalist Society](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-5-the-federalist-society/) (Tier 2)
-- [Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/) (Tier 2)
+- [Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/) (Tier 2)
 - [NPR: Heritage Foundation Staff Walkout](https://www.npr.org/2025/12/22/nx-s1-5651990/heritage-foundation-mike-pence) (Tier 2)
 
 ---
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 1 contributions totaling $1.3K
+
+| Top Recipient | Amount |
+|---|---|
+| LIBERTY 2.0 | $1.3K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

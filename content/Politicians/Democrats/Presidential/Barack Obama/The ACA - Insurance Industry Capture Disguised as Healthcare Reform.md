@@ -155,6 +155,19 @@ Baucus, with Fowler as his chief counsel, designed a bill that preserved insuran
 - [OpenSecrets: Max Baucus donor profile](https://www.opensecrets.org/members-of-congress/max-baucus/summary?cid=N00007528) (Tier 1)
 - [ProPublica: Insurance Lobby That Fought Hillarycare and Obamacare Now Has Sturdy Bridges to Democrats](https://www.propublica.org/article/insurance-lobby-has-sturdy-bridges-to-democrats) (Tier 2)
 - [Financial Times: Elizabeth Fowler and the architecture of Obamacare](https://www.ft.com/content/a0f98984-c1d3-11e0-8f16-00144feabdc0) (Tier 2)
-- [Kaiser Family Foundation: Insurance Premium and Cost Trends Over the Obama Presidency](https://www.kff.org/report-section/health-insurance-coverage-of-the-nonelderly-state-level-estimates-of-coverage-estimates-by-age/) (Tier 1)
+- [Kaiser Family Foundation: Insurance Premium and Cost Trends Over the Obama Presidency](https://www.kff.org/report-section/health-insurance-coverage-of-the-nonelderly-state-level-estimates-of-coverage-estimates-by-age/) *(source unavailable)* (Tier 1)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel
+
+**URL verification needed (UNVERIFIED tags):** All new sources added in the 2026-04-05 refresh are marked (UNVERIFIED) because Chrome was unavailable for load testing during the automated refresh run. A url-fixer skill pass is required to confirm these before restoring `content-readiness: ready`. Priority targets: Sunlight Foundation (domain inactive since org wound down, archive.org copy may be needed), OpenSecrets URLs (documented 403 bot-blocking in url-check.md), PolitiFact URLs.
+
+**Sunlight Foundation primary source:** The key PhRMA deal source (sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin...) is referenced across multiple vault files. Verify archive.org has a working copy if the live URL is dead. Add to url-fixer skill queue.
+
+**FEC data upgrade available:** Obama 2008 healthcare donations are currently cited via Raw Story/CRP (Tier 2). Direct FEC API query for 2008 healthcare sector totals would upgrade to Tier 1. Obama's FEC candidate ID: P80003338. Run `fecCandidateTotals('P80003338', 2008)` and filter by sector code `H`.
+
+**OpenSecrets note:** OpenSecrets URLs throughout this note are likely 403 bot-blocked (consistent with url-check.md patterns). The underlying data (Baucus donation figures, Obama 2008 healthcare totals) is independently confirmed by Democracy Now and Raw Story reporting on the same CRP database. Tier downgrade not required for the data itself, only URL verification needed.
+
+**Baucus $3.4M figure sourcing:** The $3.4M/23% figure for Baucus's 2003-2008 healthcare fundraising comes from Democracy Now (June 16, 2009) citing PNHP/Montana Standard and the Center for Responsive Politics. Cross-reference against the OpenSecrets Baucus contributor page (contributors?cid=N00004643&cycle=2008) when verified.

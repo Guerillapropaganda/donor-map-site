@@ -221,8 +221,8 @@ The structural function: Ballard Partners is the firm that converts political pr
 
 ### Sources
 
-- [OpenSecrets: Ballard Partners Lobbying Profile](https://www.opensecrets.org/federal-lobbying/firms/summary?id=D000037635) (Tier 1)
-- [OpenSecrets: Ballard Partners Lobbyists 2025](https://www.opensecrets.org/federal-lobbying/firms/lobbyists?id=D000037635&cycle=2025) (Tier 1)
+- [OpenSecrets: Ballard Partners Lobbying Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000037635) (Tier 1)
+- [OpenSecrets: Ballard Partners Lobbyists 2025](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433158?id=D000037635&cycle=2025) (Tier 1)
 - [OpenSecrets Foreign Lobby Watch: Ballard Partners FARA registrations](https://www.opensecrets.org/fara/results?foreign-principal=&location=&order=desc&page=1&query=&registrant=Ballard+Partners&sort=stamped) (Tier 1)
 - [OpenSecrets News: Revolving door brings Trump-tied lobbying firm even closer to the White House (2019)](https://www.opensecrets.org/news/2019/01/ballard-partners-revolving-door-white-house/) (Tier 2)
 - [OpenSecrets News: The rise of Ballard Partners, now the top lobbying firm in the country (Aug 2025)](https://www.opensecrets.org/news/2025/08/the-rise-of-ballard-partners-now-the-top-lobbying-firm-in-the-country) (Tier 2)
@@ -239,6 +239,6 @@ The structural function: Ballard Partners is the firm that converts political pr
 - [STAT News: Pharma companies turn to Trump-connected firms for FDA lobbying (Feb 23, 2026)](https://www.statnews.com/2026/02/23/fda-lobbying-trump-connected-firms-cash-in/) (Tier 2)
 - [OpenSecrets News: Pharma industry and Ballard Partners dominate the lobbying space in second quarter of 2025](https://www.opensecrets.org/news/2025/07/pharma-industry-and-ballard-partners-dominate-the-lobbying-space-in-second-quarter-of-2025/) (Tier 1)
 - [Florida Politics: Rich Haselwood joins Ballard Partners' Washington office (Mar 2026)](https://floridapolitics.com/archives/785587-rich-haselwood-joins-ballard-partners-washington-office/) (Tier 3)
-- [OpenSecrets: Rich L. Haselwood Lobbyist Profile](https://www.opensecrets.org/federal-lobbying/lobbyists/summary?cycle=2019&id=Y0000041642L) (Tier 1)
+- [OpenSecrets: Rich L. Haselwood Lobbyist Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433159?cycle=2019&id=Y0000041642L) (Tier 1)
 
 content-readiness:: ready

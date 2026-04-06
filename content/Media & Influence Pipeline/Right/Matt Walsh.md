@@ -156,7 +156,7 @@ Matt Walsh represents **the culture war content factory** — the industrializat
 
 ### Sources
 
-- [FEC Individual Contributions: Matt Walsh (0 results in Tennessee, 2015-2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=matt+walsh&contributor_state=TN&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: Matt Walsh (0 results in Tennessee, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=matt+walsh&contributor_state=TN&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Washington Examiner: "Matt Walsh's Am I Racist? Becomes Highest Grossing Documentary of 2024"](https://www.washingtonexaminer.com/news/3162937/matt-walsh-highest-grossing-documentary-2024/) (Tier 2)
 - [Fordham Political Review: "How Is Right-Wing Media So Well Funded?"](https://fordhampoliticalreview.org/how-is-right-wing-media-so-well-funded/) (Tier 2)
 - [Media Matters: "The Daily Wire Is a Cesspool of Hatred and Bigotry"](https://www.mediamatters.org/daily-wire/daily-wire-cesspool-hatred-and-bigotry) (Tier 2)

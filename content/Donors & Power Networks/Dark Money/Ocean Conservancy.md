@@ -2,7 +2,7 @@
 title: "Ocean Conservancy"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -12,9 +12,6 @@ issues:
   - "Dark Money & Campaign Finance"
 lobbying-spend: 5725200
 lobbying-filings: 86
-federal-awards-total: 0
-federal-contracts-count: 0
-federal-grants-count: 7
 ---
 
 #ocean-conservancy #environment #nonprofit #conservation #fishing #plastics #dark-money #corporate-capture #greenwashing
@@ -182,7 +179,7 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 - [OpenSecrets: Ocean Conservancy org summary](https://www.opensecrets.org/orgs/ocean-conservancy/summary?id=D000064969) (Tier 1)
 - [ProPublica Nonprofit Explorer: Ocean Conservancy](https://projects.propublica.org/nonprofits/organizations/237245152) (Tier 1)
 - [Ocean Conservancy: Stemming the Tide Statement of Accountability](https://oceanconservancy.org/work/plastics/plastics-deep-dive/stemming-the-tide-statement-of-accountability/) (Tier 1)
-- [Plastics News: Ocean Conservancy apologizes for landmark ocean plastic study](https://www.plasticsnews.com/news/ocean-conservancy-apologizes-landmark-ocean-plastic-study) (Tier 2)
+- [Plastics News: Ocean Conservancy apologizes for landmark ocean plastic study](https://www.plasticsnews.com/news/ocean-conservancy-apologizes-landmark-ocean-plastic-study/) (Tier 2)
 - [Waste Dive: Ocean Conservancy rescinds 2015 ocean plastics report](https://www.wastedive.com/news/ocean-conservancy-rescinds-ocean-plastic-report-asia/627368/) (Tier 2)
 - [Trellis: Dow, Coca-Cola, Ocean Conservancy seeks to cap plastic pollution](https://trellis.net/article/dow-coca-cola-ocean-conservancy-seeks-cap-plastic-pollution/) (Tier 3)
 - [IPEN: Open letter to Ocean Conservancy regarding "Stemming the Tide" — signed by 200+ organizations](https://ipen.org/news/open-letter-ocean-conservancy-regarding-report-%E2%80%9Cstemming-tide%E2%80%9D) (Tier 3)
@@ -190,24 +187,3 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 - [Packard Foundation: Ocean Conservancy grantee](https://www.packard.org/grantee/ocean-conservancy/) (Tier 2)
 
 content-readiness:: ready
-
-### Federal Spending (USASpending)
-<!-- auto:usaspending start -->
-| Metric | Value |
-|--------|-------|
-| Contracts (recent 3yr) | 0 ($0 sampled) |
-| Grants (recent 3yr) | 7 ($9.2M sampled) |
-| Federal Agencies | 3 |
-
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $5.2M | Department of Commerce | PURPOSE: OCEAN CONSERVANCY AND PARTNERS WILL IMPLEMENT A MULTIFACETED PROJECT TO REMOVE, PREVENT AND |
-| $1.7M | Environmental Protection Agency | DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING TO THE OCEAN CONSERVANCY TO PERFORM MARI |
-| $641K | Department of Commerce | PARTNERING WITH LOCAL FISHERS TO REMOVE DERELICT FISHING GEAR IN THE GULF OF MAINE |
-| $632K | Department of Commerce | THIS TRANSBOUNDARY INITIATIVE WILL INVOLVE ACTIVITIES ALONG NORTH AMERICA'S PACIFIC COAST FROM CANAD |
-| $600K | Department of Commerce | THROUGH THIS AWARD, THE OCEAN CONSERVANCY (OC) WILL EXPAND THE INTERNATIONAL COASTAL CLEANUP (ICC) A |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Ocean%20Conservancy) (Tier 1)
-<!-- auto:usaspending end -->

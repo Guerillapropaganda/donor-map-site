@@ -149,7 +149,7 @@ These are not predictions based on speculative analysis; they are documented pos
 - [Climate Power: Big Oil's Favorite Lobbyist Wants to Represent North Carolina](https://climatepower.us/news/big-oils-favorite-lobbyist-wants-to-represent-north-carolina/) (Tier 2)
 - [Wikipedia: Michael Whatley (Oil and Gas Lobbying section)](https://en.wikipedia.org/wiki/Michael_Whatley) (Tier 3)
 - [OpenSecrets: Michael D Whatley Revolving Door Profile](https://www.opensecrets.org/revolving-door/whatley-michael-d/summary?id=71168) (Tier 1 - government database) (Tier 1)
-- [SourceWatch: Michael Whatley](https://www.sourcewatch.org/index.php/Michael_Whatley) (Tier 3)
+- [SourceWatch: Michael Whatley](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Michael_Whatley) (Tier 3)
 - [HBW Resources official website: Federal Affairs](https://hbwlawllp.com/federal-affairs/) (Tier 1 - primary source) (Tier 2)
 - [Ballotpedia: Michael Whatley](https://ballotpedia.org/Michael_Whatley) (Tier 3)
 

@@ -79,7 +79,7 @@ Shoffner's path to victory is narrow given the state's Republican lean and her f
 - Ballotpedia Arkansas 2026 Senate Race (Tier 3)
 - Fox News: Cotton Re-Election Announcement (Tier 2)
 - OpenSecrets Arkansas Top Donors 2024 Cycle (Tier 1) https://www.opensecrets.org/states/AR/donors/2024
-- FEC Hallie Shoffner Committee Records (Tier 1) https://www.fec.gov/data/committee/C00905471/
+- FEC Hallie Shoffner Committee Records (Tier 1) https://www.fec.gov/data/committee/ *(source unavailable)*C00905471/
 - KUAF: Out-of-State Dark Money in Arkansas Primary (Tier 2)
 - UALR Public Radio: Shoffner Farm Bill Attack Ad Analysis (Tier 2)
 - American Prospect: Company Towns of Arkansas (Tier 2)

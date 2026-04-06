@@ -154,7 +154,7 @@ Mace's flip on transgender rights is the clearest possible case study of donor-d
 ### Sources
 
 - [NBC News: Nancy Mace stays close to Trump ahead of tough primary fight](https://www.nbcnews.com/politics/2024-election/nancy-mace-stays-close-trump-ahead-tough-primary-fight-rcna139897) (Tier 2)
-- [CNN: Analysis: One Republican's desperate attempt to get back in Trump's good graces](https://amp.cnn.com/cnn/2022/02/10/politics/donald-trump-nancy-mace-republican-2022/index.html) (Tier 2)
+- [CNN: Analysis: One Republican's desperate attempt to get back in Trump's good graces](https://www.cnn.com/2022/02/10/politics/donald-trump-nancy-mace-republican-2022/index.html) (Tier 2)
 - [CNN Politics: Nancy Mace, now targeting transgender lawmaker, called herself 'pro-transgender rights' in 2023](https://www.cnn.com/2024/11/25/politics/nancy-mace-transgender-rights-comments/index.html) (Tier 2)
 - [ABC News: Rep. Nancy Mace's position on LGBTQ community appears to have changed](https://abcnews.com/Politics/rep-nancy-mace-position-lgbtq-community-appears-changed/story?id=116718775) (Tier 2)
 - [NPR: Nancy Mace launches Capitol bathroom rule before trans colleague's arrival](https://www.npr.org/2024/11/19/nx-s1-5196116/capitol-transgender-bathroom-ban-nancy-mace-sarah-mcbride) (Tier 2)

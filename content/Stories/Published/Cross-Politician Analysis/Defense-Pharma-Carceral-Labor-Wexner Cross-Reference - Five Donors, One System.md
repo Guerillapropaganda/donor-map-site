@@ -441,8 +441,8 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 
 #### Tier 4 (Video/Alternative Sources)
 
-- [YouTube/Washington Post: BI Incorporated ankle monitor monopoly](https://www.youtube.com/watch?v=ftCRPoZcB9I) (Tier 4)
-- [YouTube/WBNS10TV: Wexner 2025 donations](https://www.youtube.com/watch?v=a2kis7KKp84) (Tier 4)
+- [YouTube/Washington Post: BI Incorporated ankle monitor monopoly](https://www.youtube.com?v=ftCRPoZcB9I) (Tier 4)
+- [YouTube/WBNS10TV: Wexner 2025 donations](https://www.youtube.com?v=a2kis7KKp84) (Tier 4)
 - [MeidasNews: Wexner recent donations](https://meidasnews.com/news/les-wexner-donated-to-several-republican-candidates-as-recently-as-last-year) (Tier 4) (UNVERIFIED)
 
 #### Tier 3 (Reference/Policy)

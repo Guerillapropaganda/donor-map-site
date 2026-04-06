@@ -151,7 +151,7 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 - [NPR: FBI Informant Smirnov Charged with Lying About Bidens](https://www.npr.org/2024/02/20/1232789953/alexander-smirnov-fbi-informant-biden-hunter-ukraine) (Tier 2)
 - [PBS: Smirnov Guilty Plea](https://www.pbs.org/newshour/politics/former-fbi-informant-to-plead-guilty-to-lying-about-fake-bribery-scheme-involving-the-bidens) (Tier 2)
 - [CNN: House GOP Biden Impeachment Effort Collapses](https://www.cnn.com/2024/04/24/politics/house-gop-biden-impeachment-effort/index.html) (Tier 2)
-- [Congressional Integrity Project: Comer Family Financial Benefits](https://congressionalintegrity.org/fact-sheet-all-the-ways-james-comer-benefited-his-family-financially-while-holding-public-office/) (Tier 2)
+- [Congressional Integrity Project: Comer Family Financial Benefits](https://congressionalintegrity.org/) (Tier 2)
 - [Daily Beast: Comer Also Paid His Brother $200K](https://www.thedailybeast.com/james-comer-like-joe-biden-also-paid-his-brother-dollar200k/) (Tier 2)
 - [GovTrack: James Comer Legislative Statistics](https://www.govtrack.us/congress/members/james_comer/412676) (Tier 3)
 - [Ballotpedia: James Comer](https://ballotpedia.org/James_Comer_Jr.) (Tier 3)

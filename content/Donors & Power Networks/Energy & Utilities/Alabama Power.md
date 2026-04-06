@@ -50,3 +50,17 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 - [OpenSecrets: Alabama Power lobbying spending](https://www.opensecrets.org/orgs/southern-company) (Tier 1)
 
 `content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.8M
+
+| Top Recipient | Amount |
+|---|---|
+| MIKE ROGERS FOR CONGRESS | $105.0K |
+| TERRI SEWELL FOR CONGRESS | $89.0K |
+| ALABAMA REPUBLICAN PARTY | $88.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

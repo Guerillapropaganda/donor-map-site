@@ -2,12 +2,11 @@
 title: "Jeff Bezos"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
-total-political-spend: "$10,358,971"
 ---
 
 #bezos #amazon #blue-origin #washington-post #mega-donor #media #space
@@ -51,27 +50,18 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 
 content-readiness:: ready
 
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $10,358,971 |
-| Contributions | 63 |
+---
 
-**Top recipients:**
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| WITH HONOR FUND, INC. | $10,129,170 | — |
-| BLUE ORIGIN LLC POLITICAL ACTION COMMITTEE (BLUE ORIGIN PAC) | $55,000 | — |
-| AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC) | $35,000 | — |
-| AMAZON.COM HOLDINGS INC. SEPARATE SEGREGATED FUND | $30,000 | — |
-| AMAZON CORPORATE LLC SEPARATE SEGREGATED FUND (AMAZON.COM PAC) | $20,000 | — |
-| AMAZON.COM SERVICES, INC. SEPARATE SEGREGATED FUND (AMAZON PAC) | $10,000 | — |
-| AMAZON CORPORATE LLC SEPARATE SEGREGATED FUND (AMAZON PAC) | $10,000 | — |
-| AMAZON CORPORATE LLC SEPARATED SEGREGATED FUND | $10,000 | — |
-| PEOPLE FOR PATTY MURRAY | $10,000 | — |
-| AMAZON CORPORATE LLC SEPARATED SEGREGATED FUND (AMAZON.COM PAC) | $10,000 | — |
+**FEC contribution record:** 63 contributions totaling $10.4M
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Bezos) (Tier 1)
-<!-- auto:fec-donor end -->
+**ActBlue/WinRed conduit duplicates filtered:** 1
+
+| Top Recipient | Amount |
+|---|---|
+| WITH HONOR FUND, INC. | $10.1M |
+| BLUE ORIGIN LLC POLITICAL ACTION COMMITTEE (BLUE ORIGIN PAC) | $55.0K |
+| AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC) | $35.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

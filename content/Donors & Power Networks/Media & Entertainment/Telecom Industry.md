@@ -28,8 +28,22 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 
 ### Sources
 
-- [OpenSecrets: Telecom industry lobbying](https://www.opensecrets.org/industries/indus?ind=B09) (Tier 1)
+- [OpenSecrets: Telecom industry lobbying](https://www.opensecrets.org/industries?ind=B09) (Tier 1)
 - [FCC: Spectrum auction records](https://www.fcc.gov/auction) (Tier 1)
 - [Ballotpedia: Telecommunications regulation](https://ballotpedia.org/Telecom_Industry) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 92 contributions totaling $270.2K
+
+| Top Recipient | Amount |
+|---|---|
+| NRCCC - NON FED ACT | $39.2K |
+| DSCC NON-FEDERAL CORPORATE | $35.0K |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $25.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

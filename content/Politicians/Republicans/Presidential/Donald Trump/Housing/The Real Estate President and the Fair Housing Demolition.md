@@ -114,6 +114,6 @@ The public housing operating fund would be cut $500 million. The capital fund cu
 - [NPR. Trump Budget Housing Rental Aid Cuts (May 2025)](https://www.npr.org/2019/04/03/709529287/bipartisan-disapproval-over-trump-administrations-housing-program-cuts) (Tier 2)
 - [OpenSecrets. NAR Lobbying Profile 2024](https://www.opensecrets.org/orgs/national-assn-of-realtors/lobbying?id=D000000062) (Tier 1)
 - [Treasury Department. Use of Opportunity Zone Tax Incentive](https://home.treasury.gov/system/files/131/WP-123.pdf) (Tier 1)
-- [California Department of Justice. AG Bonta Lawsuit Against Trump HUD (September 2025)](https://oag.ca.gov/news/press-releases/) (Tier 1)
+- [California Department of Justice. AG Bonta Lawsuit Against Trump HUD (September 2025)](https://oag.ca.gov/media/news) (Tier 1)
 
 research-status:: Opportunity Zone investment data from Treasury. Fair housing case data from ProPublica. NAR lobbying from OpenSecrets. Kushner OZ investments from NBC News and AP. Homelessness EO from Bipartisan Policy Center. Section 8 impact from CBPP. Budget cuts from NPR. Remaining. Individual real estate developer donors to Trump campaigns need FEC drill down.

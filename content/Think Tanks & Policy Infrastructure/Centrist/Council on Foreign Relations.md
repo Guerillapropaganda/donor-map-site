@@ -213,8 +213,8 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 - [Bellingcat: Money Talks — Len Blavatnik and the Council on Foreign Relations (Oct 2019)](https://www.bellingcat.com/news/2019/10/10/money-talks-len-blavatnik-and-the-council-on-foreign-relations/) (Tier 2)
 - [Mother Jones: A Soviet-Born Billionaire Is Buying Influence at US Institutions — Blavatnik $12M CFR controversy](https://www.motherjones.com/politics/2019/10/council-on-foreign-relations-leonard-blavatnik-russia/) (Tier 2)
 - [DOJ: Former Government Official (Sue Mi Terry) Arrested for Acting as Unregistered Agent of South Korean Government (July 2024)](https://www.justice.gov/archives/opa/pr/former-cia-and-white-house-official-sue-mi-terry-arrested-acting-unregistered-agent-south) (Tier 1)
-- [SourceWatch: Council on Foreign Relations — funding documentation, leadership history, Wall Street connections](https://www.sourcewatch.org/index.php/Council_on_Foreign_Relations) (Tier 3)
-- [CFR: Former Secretary of Commerce Gina Raimondo Joins CFR as Distinguished Fellow (January 2025)](https://www.cfr.org/news-releases/former-secretary-commerce-gina-raimondo-joins-cfr-distinguished-fellow) (Tier 3)
+- [SourceWatch: Council on Foreign Relations — funding documentation, leadership history, Wall Street connections](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Council_on_Foreign_Relations) (Tier 3)
+- [CFR: Former Secretary of Commerce Gina Raimondo Joins CFR as Distinguished Fellow (January 2025)](https://www.cfr.org/articles/former-secretary-commerce-gina-raimondo-joins-cfr-distinguished-fellow) (Tier 3)
 - [CFR: Council on Foreign Relations Announces Michael Froman Will Serve as New President (March 2023)](https://www.cfr.org/articles/council-foreign-relations-announces-michael-froman-will-serve-new-president) (Tier 3)
 - [UPI: Hegseth Cuts Military Ties with Ivy League Schools, Multiple Think Tanks (March 2026)](https://www.upi.com/Top_News/US/2026/03/01/dod-ends-relationships-ivy-league/5671772385928/) (Tier 2)
 

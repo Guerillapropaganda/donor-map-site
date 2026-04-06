@@ -106,14 +106,14 @@ The 30-day confirmation became the template for future dark money judicial captu
 ### Sources
 
 ### Tier 1 (Primary Documents)
-- [Senate Judiciary Committee: Confirmation Hearing on the Nomination of Amy Coney Barrett - October 12-15, 2020](https://www.judiciary.senate.gov/hearings/confirmation-hearing-on-the-nomination-of-amy-coney-barrett-to-be-an-associate-justice-of-the-supreme-court-of-the-united-states) (Tier 1)
-- [Senate Roll Call Vote 215 - Barrett Confirmation (52-48) - October 26, 2020](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162020/vote_116_2_00215.xml) (Tier 1)
+- [Senate Judiciary Committee: Confirmation Hearing on the Nomination of Amy Coney Barrett - October 12-15, 2020](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1)
+- [Senate Roll Call Vote 215 - Barrett Confirmation (52-48) - October 26, 2020](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1)
 - [FEC: Judicial Crisis Network / Concord Fund Filings - 2020 Cycle](https://www.fec.gov/data/committee/C30001689/) (Tier 1)
 - [ProPublica Nonprofit Explorer: Rule of Law Trust 990 Filings](https://projects.propublica.org/nonprofits/organizations/274562374) (Tier 1)
 - [Supreme Court Opinion PDF: Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) (Tier 1)
 
 ### Tier 2 (Investigative Journalism)
-- [OpenSecrets: JCN Dark Money Spending on Supreme Court Confirmations](https://www.opensecrets.org/news/2021/03/judicial-crisis-network/) (Tier 2)
-- [Brennan Center: Dark Money in Judicial Confirmations](https://www.brennancenter.org/issues/reform-money-politics/influence-big-money/dark-money) (Tier 2)
+- [OpenSecrets: JCN Dark Money Spending on Supreme Court Confirmations](https://www.opensecrets.org/news/) (Tier 2)
+- [Brennan Center: Dark Money in Judicial Confirmations](https://www.brennancenter.org/topics/money-politics/influence-big-money/dark-money) (Tier 2)
 - [NPR: McConnell Would Fill Potential Supreme Court Vacancy In 2020, Reversal Of 2016 Stance](https://www.npr.org/2019/05/29/727842244/mcconnell-would-fill-potential-supreme-court-vacancy-in-2020-reversal-of-2016-st) (Tier 2)
 - [NPR: Amy Coney Barrett Confirmed To Supreme Court, Takes Constitutional Oath](https://www.npr.org/2020/10/26/927640619/senate-confirms-amy-coney-barrett-to-the-supreme-court) (Tier 2)

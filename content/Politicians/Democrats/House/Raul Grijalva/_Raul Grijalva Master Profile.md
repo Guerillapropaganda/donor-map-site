@@ -132,11 +132,11 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 - [OpenSecrets: Raul Grijalva donor profile](https://www.opensecrets.org/members-of-congress/raul-grijalva/summary?cid=N00025284) (Tier 1)
 - [Congress.gov: Raul M. Grijalva](https://www.congress.gov/member/raul-grijalva/G000551) (Tier 1)
 - [House Natural Resources Democrats: Ranking Member Grijalva](https://democrats-naturalresources.house.gov/about/ranking-member-grijalva) (Tier 1)
-- [Grijalva.house.gov: Biography](https://grijalva.house.gov/about/) (Tier 1)
+- [Grijalva.house.gov: Biography](https://grijalva.house.gov/about/about) (Tier 1)
 - [House Natural Resources Democrats: Save Oak Flat From Foreign Mining Act](https://democrats-naturalresources.house.gov/media/press-releases/ranking-democrat-grijalva-introduces-save-oak-flat-from-foreign-mining-act-to-protect-sacred-site-in-central-arizona) (Tier 1)
 - [House Natural Resources Democrats: Foreign-controlled companies mining public lands inquiry](https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-ccp-select-committee-ranking-members-request-inquiry-into-foreign-controlled-companies-mining-our-public-lands) (Tier 1)
 - [Environment America: Endorses Grijalva re-election](https://environmentamerica.org/articles/environment-america-action-fund-endorses-re-election-of-u-s-rep-raul-grijalva-in-az-07/) (Tier 2)
-- [Arizona Republic: Grijalva obituary](https://www.azcentral.com/story/news/politics/arizona/2025/11/29/rep-raul-grijalva-dies-at-78/) (Tier 2)
+- [Arizona Republic: Grijalva obituary](https://www.azcentral.com/story/news/politics/arizona/2025/03/13/raul-grijalva-arizona-congressman-dies/82378457007/) (Tier 2)
 - [Ballotpedia: Raul Grijalva](https://ballotpedia.org/Ra%C3%BAl_Grijalva) (Tier 3)
 - [Wikipedia: Raul Grijalva](https://en.wikipedia.org/wiki/Ra%C3%BAl_Grijalva) (Tier 3)
 

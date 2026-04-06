@@ -139,7 +139,7 @@ The analytical patterns:
 
 ### Sources
 
-- [FEC: Individual contributions — Soon-Shiong, Patrick (2010–2026)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=soon-shiong%2C+patrick&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 75 contributions; Clinton/DNC (2016) → Republican (2017–2026) party switch documented
+- [FEC: Individual contributions — Soon-Shiong, Patrick (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=soon-shiong%2C+patrick&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 75 contributions; Clinton/DNC (2016) → Republican (2017–2026) party switch documented
 - [Wikipedia: Patrick Soon-Shiong](https://en.wikipedia.org/wiki/Patrick_Soon-Shiong) (Tier 3) — LA Times purchase, endorsement controversies, editorial board firing, RFK Jr. endorsement, Pence/Trump political activity, NantHealth Utah contract
 - [CNN: LA Times owner says Harris' stance on Gaza war contributed to non-endorsement](https://www.cnn.com/2024/11/13/media/la-times-harris-endorsement-gaza-war-editorial-board/index.html) (Tier 2) — Harris endorsement controversy, editorial board resignations
 - [Hollywood Reporter: Patrick Soon-Shiong's daughter says Harris endorsement axed over Gaza](https://www.hollywoodreporter.com/business/business-news/la-times-presidential-endorsement-decision-owners-daughter-weighs-in-1236045376/) (Tier 2) — Nika Soon-Shiong role in endorsement decision
@@ -148,3 +148,16 @@ The analytical patterns:
 
 research-status:: ready — Full expansion from 42 to 185+ lines. FEC data Chrome-verified (75 contributions; Clinton/DNC 2016 → Republican 2017–2026 party switch). Wikipedia Chrome-verified (LA Times, editorial controversies, politics section). CNN/Hollywood Reporter sources retained from prior version. Complete donor node anatomy: Who They Are → What They Want → Who They Fund (contributions table) → What They've Gotten (Format 2 timeline, 9 rows) → LA Times Capture Sequence (6 stages) → Class Analysis → Capture Architecture → Sources. 4 sources (Tier 1–3). Key data: 75 FEC contributions, $80.7K Democratic (2016 only) → $400K+ Republican (2017–2026), $590M LA Times purchase, Harris endorsement killed, editorial board fired, "fair and balanced" pivot, RFK Jr. HHS endorsement, $250K RNC (Apr 2025).
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 83 contributions totaling $735.6K
+
+| Top Recipient | Amount |
+|---|---|
+| REPUBLICAN NATIONAL COMMITTEE | $250.0K |
+| NRCC | $77.6K |
+| ARIZONA GRASSROOTS ACTION PAC | $60.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

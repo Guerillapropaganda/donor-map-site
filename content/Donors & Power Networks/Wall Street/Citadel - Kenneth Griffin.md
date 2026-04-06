@@ -147,7 +147,7 @@ Griffin's political investment protects this arrangement from regulation. His $1
 
 - [OpenSecrets: Griffin, Kenneth C. — Donor Detail 2024](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003655&name=Griffin,+Kenneth+C&super_only=N&type=I) (Tier 1)
 - [OpenSecrets: Kenneth Griffin donor lookup](https://www.opensecrets.org/donor-lookup/results?name=kenneth+griffin) (Tier 1)
-- [FEC: Kenneth Griffin individual contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kenneth+griffin) (Tier 1)
+- [FEC: Kenneth Griffin individual contributions](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=kenneth+griffin) (Tier 1)
 - [ArtNews: Kenneth Griffin Donated $100M for 2024 Election (Fifth-Most)](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2)
 - [CNBC: Citadel's CEO Ken Griffin becomes GOP $100 million midterm megadonor (2022)](https://www.cnbc.com/2022/10/07/citadels-ceo-ken-griffin-becomes-gop-100-million-midterm-megadonor.html) (Tier 2)
 - [Bloomberg: Ken Griffin's Political Donations Clash With Trump Sometimes (July 2024)](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections) (Tier 2)

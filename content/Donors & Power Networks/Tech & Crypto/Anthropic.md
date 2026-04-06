@@ -42,8 +42,20 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 
 ### Sources
 
-- [OpenSecrets: Anthropic lobbying](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2025&id=D000106114) (Tier 1)
+- [OpenSecrets: Anthropic lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2025&id=D000106114) (Tier 1)
 - [Anthropic: Responsible scaling policy](https://www.anthropic.com/research) (Tier 2)
 - [Ballotpedia: AI regulation](https://ballotpedia.org/Artificial_intelligence_policy) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 1 contributions totaling $50.0K
+
+| Top Recipient | Amount |
+|---|---|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $50.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

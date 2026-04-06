@@ -2,15 +2,11 @@
 title: "Club for Growth"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-25
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
-ein: 204681603
-annual-revenue: "$12.3M"
-net-assets: "$9.3M"
-tax-year: "2023"
 ---
 
 #donor-node #super-pac #republican #primary-enforcement #anti-tax #fiscal-conservative #class-analysis #follow-the-money #mega-donor
@@ -211,16 +207,16 @@ The 2024-2025 cycle demonstrated this perfectly: Yass gave $19M to Club for Grow
 
 content-readiness:: developed
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $12.3M |
-| Total Contributions | $10.8M |
-| Investment Income | $52K |
-| Total Expenses | $17.1M |
-| Net Assets | $9.3M |
-| Officer Compensation | $1.9M |
+---
 
-- [Source: ProPublica Nonprofit Explorer — EIN 204681603](https://projects.propublica.org/nonprofits/organizations/204681603) (Tier 1)
-<!-- auto:propublica-990 end -->
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $6.1M
+
+| Top Recipient | Amount |
+|---|---|
+| WIN IT BACK PAC | $2.5M |
+| STRONG PAC | $1.7M |
+| TIM SHEEHY FOR MONTANA | $902.8K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

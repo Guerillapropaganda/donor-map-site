@@ -156,10 +156,10 @@ The timing and substance suggest editorial capitulation. Trump had threatened Am
 Unlike Murdoch (who actively promotes Trump through Fox) or Soon-Shiong (who blocked anti-Trump coverage), Bezos's strategy is retreat. He is not providing active propaganda. He is abandoning the critical editorial function that would normally scrutinize the president. Non-endorsement is editorial abdication. It is not neutrality. It is a form of submission.
 
 Sources:
-- [Washington Post: Jeff Bezos overhauls opinion section](https://www.pbs.newshour.org/politics/washington-post-owner-bezos-says-opinion-pages-shift-from-broad-focus-to-will-defend-free-market-and-personal-liberties) (Tier 2)
+- [Washington Post: Jeff Bezos overhauls opinion section](https://www.pbs.org/newshour/politics/washington-post-owner-bezos-says-opinion-pages-shift-from-broad-focus-to-will-defend-free-market-and-personal-liberties) (Tier 2)
 - [NPR: Jeff Bezos revamps Washington Post](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations) (Tier 2)
 - [NBC News: Washington Post opinion section overhaul](https://www.nbcnews.com/media/jeff-bezos-washington-post-op-ed-david-shipley-rcna193817) (Tier 2)
-- [Al Jazeera: Washington Post context and timing](https://www.aljazeera.com/economy/2025/2/26/washington-post-editorials-personal-liberties-free-markets/) (Tier 2)
+- [Al Jazeera: Washington Post context and timing](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper) (Tier 2)
 
 ---
 

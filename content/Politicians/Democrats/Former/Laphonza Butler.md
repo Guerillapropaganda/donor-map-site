@@ -76,12 +76,12 @@ Butler represents the structural barrier labor faces in capitalist democracy: un
 
 - [Governor Newsom Official: Appoints Laphonza Butler to U.S. Senate](https://www.gov.ca.gov/2023/10/01/governor-newsom-appoints-laphonza-butler-senate/) (Tier 1)
 - [NPR: Feinstein's Successor Laphonza Butler Takes Office as California's New Senator](https://www.npr.org/2022/02/25/1083180736/biden-picks-ketanji-brown-jackson-as-supreme-court-nominee) (Tier 2)
-- [CalMatters: How Laphonza Butler Could Reshape California's U.S. Senate Race](https://calmatters.org/politics/2023/10/laphonza-butler-senate-election/) (Tier 2)
+- [CalMatters: How Laphonza Butler Could Reshape California's U.S. Senate Race](https://calmatters.org/category/politics/2023/10/laphonza-butler-senate-election/) (Tier 2)
 - [CNN Politics: Who is Laphonza Butler, California's Next Senator?](https://www.cnn.com/2023/10/02/politics/laphonza-butler-california-senator-newsom/cnn-politics) (Tier 3)
 - [NBC News: Gov. Gavin Newsom Chooses Laphonza Butler to Fill Dianne Feinstein's Senate Seat](https://www.nbcnews.com/politics/2024-election/gavin-newsom-laphonza-butler-fill-dianne-feinstein-senate-seat-rcna118052) (Tier 2)
 - [CBS News: Who is Laphonza Butler, the Newest Senator from California?](https://www.cbsnews.com/news/laphonza-butler-senate-california-gavin-newsom-dianne-feinstein-seat-rcna118052) (Tier 3)
 - [Wikipedia: Laphonza Butler](https://en.wikipedia.org/wiki/Laphonza_Butler) (Tier 3)
-- [CalMatters: Newsom Picks Laphonza Butler, Political Ally and Power Player](https://calmatters.org/politics/2023/10/laphonza-butler-senate-newsom/) (Tier 2)
+- [CalMatters: Newsom Picks Laphonza Butler, Political Ally and Power Player](https://calmatters.org/category/politics/2023/10/laphonza-butler-senate-newsom/) (Tier 2)
 
 profile-status:: ready
 content-readiness:: ready

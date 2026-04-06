@@ -216,9 +216,9 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 ### Sources
 
 #### Tier 1 (Primary government documents):
-- [PhRMA Lobbying Profile • OpenSecrets](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000504) (Tier 1)
-- [OpenSecrets 2015–2024 Annual Cycle Profiles](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000504) (Tier 1)
-- [Medicare Drug Price Negotiation Program • CMS.gov](https://www.cms.gov/newsroom/fact-sheets/medicare-drug-price-negotiation-program) (Tier 1)
+- [PhRMA Lobbying Profile • OpenSecrets](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000504) (Tier 1)
+- [OpenSecrets 2015–2024 Annual Cycle Profiles](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000504) (Tier 1)
+- [Medicare Drug Price Negotiation Program • CMS.gov](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1)
 - [Inflation Reduction Act Drug Negotiation Provision • Congressional Research Service](https://sgp.fas.org/crs/health/IF12447.pdf) (Tier 1)
 - [FEC PhRMA PAC Filings](https://www.fec.gov/data/committee/C00021972/) (Tier 1)
 - [PhRMA 2025 Annual Membership Survey](https://cdn.aglty.io/phrma/Report%20-%20PhRMA%202025%20Annual%20Membership%20Survey%20-%20July%202025.pdf) (Tier 1)
@@ -243,7 +243,7 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 #### Tier 3 (Secondary reporting and specialist press):
 - [InfluenceWatch: Pharmaceutical Research and Manufacturers of America (PhRMA)](https://www.influencewatch.org/non-profit/pharmaceutical-research-and-manufacturers-of-america-phrma/) (Tier 3)
 - [Commonwealth Fund: The Lower Drug Costs Now Act (HR 3) — How It Would Work](https://www.commonwealthfund.org/publications/issue-briefs/2020/apr/lower-drug-costs-now-act-hr3-how-it-would-work) (Tier 3)
-- [KFF Health News: Non-Profit Linked to PhRMA Rolls Out Campaign to Block Drug Imports](https://kffhealthnews.org/news/article/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/) (Tier 3)
+- [KFF Health News: Non-Profit Linked to PhRMA Rolls Out Campaign to Block Drug Imports](https://kffhealthnews.org/news/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/) (Tier 3)
 - [DrugPatentWatch: Evergreening by Lawsuit — Strategic Patent Actions and Generic Entry Stagnation](https://www.drugpatentwatch.com/blog/evergreening-by-lawsuit-strategic-patent-actions-and-generic-entry-stagnation/) (Tier 3)
 - [I-MAK: After a Pharma Lobbying Blitz, Congress Softens Legislation on Drug Patents](https://www.i-mak.org/2019/07/09/after-a-pharma-lobbying-blitz-congress-softens-legislation-on-drug-patents/) (Tier 3)
 - [RAND Health Quarterly: Drug Price Comparison Study (2022 Data)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11147645/) (Tier 3)

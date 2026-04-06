@@ -101,6 +101,6 @@ The Fund's rebranding from "Judicial Education Project" to "The 85 Fund" reveals
 - [OpenSecrets: The 85 Fund organizational profile](https://www.opensecrets.org/orgs/the-85-fund/summary) (Tier 1)
 - [IRS Form 990: The 85 Fund (Judicial Education Project)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=The%2085%20Fund&city=&state=All+States&country=US) (Tier 1)
 - [Axios: The 85 Fund spending in 2020-2024](https://www.axios.com/2024/07/12/the-85-fund-spending-supreme-court) (Tier 2)
-- [Center for Responsive Politics: Dark money and judicial nominations](https://www.opensecrets.org/news/2020/10/dark-money-fuels-court-battle/) (Tier 2)
+- [Center for Responsive Politics: Dark money and judicial nominations](https://www.opensecrets.org/news/) (Tier 2)
 
 content-readiness:: ready

@@ -132,9 +132,9 @@ The broader structural pattern: billionaires contributed nearly 20% of all donat
 
 ### Sources
 
-- [OpenSecrets: Donald Trump 2024 summary — campaign and outside group fundraising totals](https://www.opensecrets.org/2024-presidential-race/donald-trump/candidate?id=N00023864) (Tier 1)
-- [OpenSecrets: Donald Trump 2024 top contributors](https://www.opensecrets.org/2024-presidential-race/donald-trump/contributors?id=N00023864) (Tier 1)
-- [OpenSecrets: Donald Trump 2024 top industries](https://www.opensecrets.org/2024-presidential-race/donald-trump/industries?id=N00023864) (Tier 1)
+- [OpenSecrets: Donald Trump 2024 summary — campaign and outside group fundraising totals](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1)
+- [OpenSecrets: Donald Trump 2024 top contributors](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1)
+- [OpenSecrets: Donald Trump 2024 top industries](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1)
 - [Brennan Center: Unprecedented Big Money Surge for Super PAC Tied to Trump](https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump) (Tier 2)
 - [Brennan Center: Megadonors Playing Larger Role in Presidential Race, FEC Data Shows](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2)
 - [Sludge: The Final Pre-Election Reports Are In — Here Are Trump's 20 Largest Donors](https://readsludge.com/2024/10/25/the-final-pre-election-reports-are-in-here-are-trumps-20-largest-donors/) (Tier 2)

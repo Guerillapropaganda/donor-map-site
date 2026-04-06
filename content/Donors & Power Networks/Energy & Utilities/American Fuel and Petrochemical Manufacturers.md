@@ -84,8 +84,8 @@ AFPM is the fossil fuel industry's collective action vehicle — a $61.4M trade 
 - [ProPublica: AFPM 990 filings](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
 - [OpenSecrets: AFPM contributions](https://www.opensecrets.org/orgs/american-fuel-petrochemical-manufacturers/summary?id=D000000481) (Tier 1)
 - [OpenSecrets: AFPM summary (alt ID)](https://www.opensecrets.org/orgs/american-fuel-petrochem-manufacturers/summary?id=D000027874) (Tier 1)
-- [OpenSecrets: AFPM lobbying](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000481) (Tier 1)
-- [OpenSecrets: AFPM lobbying (alt ID)](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000027874) (Tier 1)
+- [OpenSecrets: AFPM lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000481) (Tier 1)
+- [OpenSecrets: AFPM lobbying (alt ID)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000027874) (Tier 1)
 - [DeSmog: AFPM profile](https://www.desmog.com/american-fuel-petrochemical-manufacturers-afpm/) (Tier 2)
 - [LinkedIn: AFPM](https://www.linkedin.com/company/american-fuel-&-petrochemical-manufacturers-afpm-) (Tier 4)
 
@@ -93,3 +93,17 @@ AFPM is the fossil fuel industry's collective action vehicle — a $61.4M trade 
 
 research-status:: draft — Financial profile, lobbying expenditures, and PAC contributions documented. One URL flagged as broken (AFPM exec orders statement — 404). Gaps: complete member company list, detailed lobbying issue breakdown by bill, specific policy outcomes tied to lobbying expenditures, historical lobbying spend trend. OpenSecrets and ProPublica 990 data provide strongest sourcing.
 content-readiness:: draft
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 490 contributions totaling $3.7M
+
+| Top Recipient | Amount |
+|---|---|
+| SENATE LEADERSHIP FUND | $1.4M |
+| CONGRESSIONAL LEADERSHIP FUND | $1.1M |
+| SCALISE FOR CONGRESS | $53.5K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

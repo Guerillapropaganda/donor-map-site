@@ -66,7 +66,7 @@ The 2024 Bowman-Latimer race demonstrated this clearly: UDP spent $14.9 million 
 
 ### What They've Gotten
 
-**2024 Bowman-Latimer Race:** UDP's $14.9 million investment produced a clear win: incumbent Jamaal Bowman (a Black pro-Palestinian activist) was defeated in a primary, replaced by George Latimer (a centrist pro-Israel Democrat). The outcome sent a message to other progressive Democrats: AIPAC has $80+ million to deploy against primary challengers. [NY-16 2024: Bowman vs. Latimer - Ballotpedia](https://ballotpedia.org/New_York%27s_16th_Congressional_District_election,_2024) (Tier 3)
+**2024 Bowman-Latimer Race:** UDP's $14.9 million investment produced a clear win: incumbent Jamaal Bowman (a Black pro-Palestinian activist) was defeated in a primary, replaced by George Latimer (a centrist pro-Israel Democrat). The outcome sent a message to other progressive Democrats: AIPAC has $80+ million to deploy against primary challengers. [NY-16 2024: Bowman vs. Latimer - Ballotpedia](https://ballotpedia.org/New_York's_16th_Congressional_District_election,_2024) (Tier 3)
 
 **2026 Illinois Primaries:** UDP's new shell PAC model produced mixed but meaningful results: 2 out of 3 AIPAC-backed candidates won (Bean, Miller). This suggests the shell PAC strategy is effective enough to be replicated nationally. [Pro-Israel group AIPAC notches its first real 2026 Democratic primary wins in Illinois - Axios](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean) (Tier 2)
 
@@ -205,3 +205,17 @@ The fundamental pattern: donor → UDP → shell PACs → primary outcomes. Vote
 
 research-status:: ready — Full citation pass complete. $87.2M raised 2024, $96M cash on hand 2025, Bowman-Latimer $14.9M case study, 2026 Illinois shell PAC innovation, American Priorities counter-PAC documented. Session 38n addition: 2022 cycle record table (5/7 UDP-opposed Democrats lost), 2024 full targeted candidates table, top donor breakdown with party-history column (26% Republican donors), sub-PAC network ($8.55M to Standing Strong/314 Action/Blue Wave), spending architecture (54% media, $26.2M to Targeted Platform Media). All ### headers, Tier 1-2 sources verified, class analysis present. Promoted Session 38j, augmented Session 38n.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 12 contributions totaling $14.4M
+
+| Top Recipient | Amount |
+|---|---|
+| STANDING STRONG PAC | $5.0M |
+| ELECT CHICAGO WOMEN AKA ECW | $4.0M |
+| AFFORDABLE CHICAGO NOW! (ACN) | $1.3M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

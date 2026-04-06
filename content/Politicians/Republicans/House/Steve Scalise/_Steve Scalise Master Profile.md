@@ -133,7 +133,7 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 - [NPR: Scalise says he's a unifier — the state of the GOP will test that](https://www.npr.org/2023/10/12/1205346289/scalise-says-hes-a-unifier-the-current-state-of-the-gop-will-test-that-skill) (Tier 2)
 - [Washington Post: The story behind Steve Scalise and David Duke](https://www.washingtonpost.com/politics/2023/10/12/steve-scalise-white-supremacy-david-duke-louisiana/) (Tier 2)
 - [OpenSecrets News: McCarthy's ouster spurs big money race for House leadership](https://www.opensecrets.org/news/2023/10/kevin-mccarthys-historic-ouster-spurs-big-money-race-for-house-leadership/) (Tier 2)
-- [Scalise.house.gov: Lower Energy Costs Act](https://scalise.house.gov/press-releases/Scalise-Makes-American-Energy-a-Priority,-Introduces-the-Lower-Energy-Costs-Act) (Tier 1)
+- [Scalise.house.gov: Lower Energy Costs Act](https://scalise.house.gov/press-releases/Scalise-Makes-American-Energy-a-Priority,-Introduces-the-Lower-Energy-Costs-Acty,-Introduces-the-Lower-Energy-Costs-Act,-Introduces-the-Lower-Energy-Costs-Act) (Tier 1)
 - [Ballotpedia: Steve Scalise](https://ballotpedia.org/Steve_Scalise) (Tier 3)
 - [On the Issues: Steve Scalise on Energy & Oil](https://ontheissues.org/House/Steve_Scalise_Energy_+_Oil.htm) (Tier 3)
 

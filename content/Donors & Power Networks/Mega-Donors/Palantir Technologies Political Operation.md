@@ -124,7 +124,7 @@ The Thiel network's political architecture — from Palantir's founding with CIA
 ### Sources
 
 - [OpenSecrets: Palantir Technologies summary — contributions and lobbying](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1) (Chrome)
-- [OpenSecrets: Palantir Technologies lobbying profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000055177) (Tier 1) (Chrome)
+- [OpenSecrets: Palantir Technologies lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000055177) (Tier 1) (Chrome)
 - [USASpending: Palantir Technologies Inc. federal award recipient profile](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/all) (Tier 1) (Chrome)
 - [Tech Transparency Project: Inside Palantir's Expanding Influence Operation](https://www.techtransparencyproject.org/articles/inside-palantirs-expanding-influence-operation) (Tier 2) (Chrome)
 - [The Hill: Palantir courts major federal contracts — and controversy — in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2) (Chrome)
@@ -133,3 +133,17 @@ The Thiel network's political architecture — from Palantir's founding with CIA
 - [Ballotpedia: Peter Thiel](https://ballotpedia.org/Peter_Thiel) (Tier 3)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 54 contributions totaling $147.4K
+
+| Top Recipient | Amount |
+|---|---|
+| KEN CALVERT FOR CONGRESS COMMITTEE | $10.0K |
+| TEXANS FOR SENATOR JOHN CORNYN INC. | $10.0K |
+| DCCC | $10.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

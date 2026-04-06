@@ -49,6 +49,6 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 - [OpenSecrets: AT&T organizational profile](https://www.opensecrets.org/orgs/at-t-inc/summary?id=D000000076) (Tier 1)
 - [FCC: Net neutrality rulemaking docket](https://www.fcc.gov/restoring-internet-freedom) (Tier 1)
 - [SEC: AT&T 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=AT%26T%20-%20WarnerMedia&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: AT&T](https://ballotpedia.org/AT%26T) (Tier 3)
+- [Ballotpedia: AT&T](https://ballotpedia.org/AT&T) (Tier 3)
 
 content-readiness:: ready

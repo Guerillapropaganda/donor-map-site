@@ -111,7 +111,7 @@ The contradiction: she claims to reject corporate influence while accepting bill
 - [Illinois results solidify JB Pritzker's 'powerhouse' role — and set up a White House run](https://www.nbcnews.com/politics/2028-election/illinois-results-solidify-jb-pritzkers-powerhouse-role-set-white-house-rcna263890) (NBC News, March 18, 2026) (Tier 2)
 - [Stratton vows to not take corporate PAC money in Senate bid but has history of getting corporate backing](https://chicago.suntimes.com/the-watchdogs/2025/11/21/juliana-stratton-us-senate-bid-march-primary-corporate-pac-money) (Chicago Sun-Times, November 21, 2025) (Tier 2)
 - [Wealthy elites bankroll Dem Senate candidate who has repeatedly touted 'grassroots' campaign](https://www.foxnews.com/politics/wealthy-elites-bankroll-dem-senate-candidate-who-has-repeatedly-touted-grassroots-campaign) (Fox News) (Tier 2)
-- [Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi](https://www.coindesk.com/policy/2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi) (CoinDesk, March 17, 2026) (Tier 2)
+- [Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi](https://www.coindesk.com/policy2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi) (CoinDesk, March 17, 2026) (Tier 2)
 - [Fairshake's $10 million Illinois misfire marks first big hitch in crypto political surge](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge) (CoinDesk, March 18, 2026) (Tier 2)
 - [AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries. They mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Fortune, March 18, 2026) (Tier 2)
 - [AIPAC Is Staying Out of Illinois Senate Race — But Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (The Intercept, March 12, 2026) (Tier 2)
@@ -127,7 +127,7 @@ The contradiction: she claims to reject corporate influence while accepting bill
 - [Juliana W Stratton - OpenSecrets](https://www.opensecrets.org/officeholders/juliana-w-stratton/) (OpenSecrets) (Tier 1)
 
 ### Tier 4: Partisan/Opinion
-- [Wealthy elites bankroll Dem Senate candidate who has repeatedly touted 'grassroots' campaign](https://www.yahoo.com/news/articles/wealthy-elites-bankroll-dem-senate-203635284.html) (Fox News opinion) (Tier 2)
+- [Wealthy elites bankroll Dem Senate candidate who has repeatedly touted 'grassroots' campaign](https://www.yahoo.com/news/articles/wealthy-elites-bankroll-dem-senate-203635284.html) *(source unavailable)* (Fox News opinion) (Tier 2)
 - [Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (American Prospect, March 18, 2026) (Tier 2)
 
 profile-status:: ready

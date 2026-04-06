@@ -73,3 +73,16 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 - [ProPublica: Iraq War contracting and Bechtel](https://www.propublica.org/article/100-billion-to-contractors-in-iraq-812) (Tier 2)
 
 `content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 32 contributions totaling $161.4K
+
+| Top Recipient | Amount |
+|---|---|
+| RNC REPUBLICAN NATIONAL STATE ELECTIONS COMMITTEE | $66.2K |
+| DCCC NON FEDERAL ACCOUNT #1 | $32.3K |
+| DNC-NONFEDERAL-CORPORATE | $20.4K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -100,7 +100,7 @@ The class analysis: when a wealthy senator becomes incapacitated, do the institu
 ### Sources
 
 - [CBS News: Dianne Feinstein Net Worth at Death](https://www.cbsnews.com/news/dianne-feinstein-net-worth-richard-blum-children/) (Tier 2)
-- [FoundSF: Richard C. Blum and Dianne Feinstein — The Power Couple of California](https://www.foundsf.org/index.php?title=Richard_C._Blum_and_Dianne_Feinstein:_The_Power_Couple_of_California) (Tier 3)
+- [FoundSF: Richard C. Blum and Dianne Feinstein — The Power Couple of California](https://www.foundsf.org/Main_Page?title=Richard_C._Blum_and_Dianne_Feinstein:_The_Power_Couple_of_California) (Tier 3)
 - [Mercury News: Feinstein Under Fire Over Defense Ties](https://www.mercurynews.com/2007/04/14/feinstein-under-fire-over-defense-ties/) (Tier 2)
 - [Wikipedia: Richard C. Blum](https://en.wikipedia.org/wiki/Richard_C._Blum) (Tier 3)
 - [RootsAction.org: Senator Profits from Wars and Post Office](https://act.rootsaction.org/p/dia/action/public/?action_KEY=7309) (Tier 4)

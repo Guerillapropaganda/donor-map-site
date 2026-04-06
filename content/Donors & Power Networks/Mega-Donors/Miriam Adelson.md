@@ -218,3 +218,17 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 - [CasinoBeats — Miriam Adelson net worth](https://casinobeats.com/features/miriam-adelson-net-worth/) (Tier 2)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $357.3M
+
+| Top Recipient | Amount |
+|---|---|
+| PRESERVE AMERICA PAC | $151.0M |
+| SENATE LEADERSHIP FUND | $95.0M |
+| CONGRESSIONAL LEADERSHIP FUND | $75.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -151,7 +151,7 @@ David Pakman represents **the institutionally connected left** — progressive m
 
 ### Sources
 
-- [FEC Individual Contributions: David Pakman (8 results, CT — all belong to David B. Pakman, venture capitalist at CoinFund/Venrock, NOT the show host)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=david+pakman&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC Individual Contributions: David Pakman (8 results, CT — all belong to David B. Pakman, venture capitalist at CoinFund/Venrock, NOT the show host)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=david+pakman&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
 - [Wikipedia: David Pakman](https://en.wikipedia.org/wiki/David_Pakman) (Tier 3)
 - [Wikipedia: The David Pakman Show](https://en.wikipedia.org/wiki/The_David_Pakman_Show) (Tier 3)
 - [Wikipedia: Sixteen Thirty Fund](https://en.wikipedia.org/wiki/Sixteen_Thirty_Fund) (Tier 3)

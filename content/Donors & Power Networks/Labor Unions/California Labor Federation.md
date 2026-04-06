@@ -113,3 +113,16 @@ For IBEW members: the Federation is the body through which IBEW's California pol
 
 research-status:: ready — 1,300+ locals, 2.3M members, endorsement machine, AFL-CIO COPE $152K, containment function analysis, endorsement paradox, Culinary Union contrast. 3 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 25 contributions totaling $1.7M
+
+| Top Recipient | Amount |
+|---|---|
+| COMMITTEE FOR WORKING FAMILIES, SPONSORED BY THE CALIFORNIA LABOR FEDERATION, AFL-CIO | $797.0K |
+| MILLION MORE VOTERS, SPONSORED BY THE CALIFORNIA LABOR FEDERATION, AFL-CIO | $380.4K |
+| FLIP THE 49TH! NEIGHBORS IN ACTION | $200.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

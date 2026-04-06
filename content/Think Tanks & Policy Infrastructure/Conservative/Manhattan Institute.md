@@ -191,7 +191,7 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 - [The Intercept: As Paul Singer Donated Millions to Republican Governors Association, Public Funds Flowed Into His Hedge Funds](https://theintercept.com/2020/10/15/paul-singer-hedge-fund-republican-governors-association-rga/) (Tier 2)
 - [Inside Philanthropy: Why Wall Streeters Love The Manhattan Institute](https://www.insidephilanthropy.com/home/economic-policy-research-2015-6-1-why-wall-streeters-love-the-manhattan-institute-html) (Tier 2)
 - [DeSmog: Manhattan Institute for Policy Research — climate and energy research profile](https://www.desmog.com/manhattan-institute-policy-research/) (Tier 2)
-- [SourceWatch: Manhattan Institute for Policy Research — funding documentation](https://www.sourcewatch.org/index.php/Manhattan_Institute_for_Policy_Research) (Tier 3)
+- [SourceWatch: Manhattan Institute for Policy Research — funding documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Manhattan_Institute_for_Policy_Research) (Tier 3)
 - [InfluenceWatch: Manhattan Institute for Policy Research](https://www.influencewatch.org/non-profit/manhattan-institute-for-policy-research/) (Tier 3)
 - [Wikipedia: Manhattan Institute for Policy Research](https://en.wikipedia.org/wiki/Manhattan_Institute_for_Policy_Research) (Tier 3)
 - [Charity Navigator: Rating for Manhattan Institute for Policy Research (0/100 accountability)](https://www.charitynavigator.org/ein/132912529) (Tier 3)

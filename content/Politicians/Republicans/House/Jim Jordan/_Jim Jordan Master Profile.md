@@ -117,8 +117,9 @@ Career funding: Koch Industries $60,000+. [[Club for Growth|Club for Growth]] li
 ### Sources
 
 - [NBC News: Former Ohio State University wrestlers say Jim Jordan betrayed them](https://www.nbcnews.com/politics/politics-news/former-osu-wrestlers-say-jim-jordan-betrayed-shouldnt-house-speaker-rcna119116) (Tier 2)
-- [House Select Committee on January 6th: Select Committee Subpoenas Five Members of Congress](https://january6th.house.gov/news/press-releases/select-committee-subpoenas-five-members-congress) (Tier 1)
+- [House Select Committee on January 6th: Select Committee Subpoenas Five Members of Congress](https://www.house.gov/committees/committees-no-longer-standing) (Tier 1)
 - [OpenSecrets: Rep. Jim Jordan - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00027894) (Tier 1)
 - [Club for Growth: Jim Jordan Scorecard](https://www.clubforgrowth.org/scorecards/legislator/J000289/Jim-Jordan/) (Tier 3)
 - [CNN: Jim Jordan's speakership bid ends after third lost vote](https://www.cnn.com/politics/live-news/house-speaker-vote-10-20-23/index.html) (Tier 2)
 content-readiness:: ready
+ 

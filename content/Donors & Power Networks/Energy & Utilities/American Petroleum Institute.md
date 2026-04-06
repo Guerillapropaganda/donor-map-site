@@ -79,7 +79,7 @@ API's cumulative federal lobbying spending from 1998–2024 totals approximately
 - Average federal lobbying spend 2013–2015: $9.2M/year
 - **Critical undercounting:** Federal lobbying figures significantly understate API's total political influence spending. A 2016 [[InfluenceMap - American Petroleum Institute|InfluenceMap]] analysis estimated API alone spends approximately **$65 million per year** on "obstructive climate policy lobbying" when including advertising, PR, and trade association coordination — creating a **10:1 public-to-hidden spending ratio**
 
-Sources: [OpenSecrets federal lobbying disclosure (D000031493)](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000031493) (Tier 1) (UNVERIFIED) | [InfluenceMap investor report (2016)](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2)
+Sources: [OpenSecrets federal lobbying disclosure (D000031493)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000031493) (Tier 1) (UNVERIFIED) | [InfluenceMap investor report (2016)](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2)
 
 ### Political Spending and Dark Money Operations
 
@@ -117,7 +117,7 @@ Sources: [OpenSecrets API Totals (D000031493)](https://www.opensecrets.org/orgs/
 ### Better Jobs Together Campaign (2021–2022 Dark Money Operation):
 API's 2021 Form 990 tax filing revealed API paid **$3,500,000** to "Better Jobs Together Campaign," an opaque Virginia corporation formed April 2021. Better Jobs Together then ran more than $2,500,000 in TV ads supporting conservative Democratic members of Congress—**Representatives Henry Cuellar (TX) and Kurt Schrader (OR)**—who were actively blocking Biden's climate and infrastructure agenda. This was a classic dark money operation: API funneled money through an anonymous shell corporation to secretly fund Democratic politicians opposing their party's climate platform.
 
-Source: [Sludge: Revealed — Oil Industry Lobbying Group Funded Dark Money Ad Campaign](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2)
+Source: [Sludge: Revealed — Oil Industry Lobbying Group Funded Dark Money Ad Campaign](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2)
 
 ### Additional Dark Money Recipients Funded by API:
 API has funneled donations to dozens of 501(c)(4) and ideological organizations through its Schedule I charitable contributions:
@@ -517,7 +517,7 @@ From OpenSecrets' 2021 API lobbyist roster: **51 total lobbyists; 40 (78.43%) ha
 
 While not API official, exemplifies revolving door. Cooney was Chief of Staff, White House Council on Environmental Quality under President George W. Bush. Forced to resign 2005 after revealed tampering with government climate assessments—editing reports to downplay scientific evidence of global warming. After White House, hired as lobbyist for [[ExxonMobil]] (API's largest member company).
 
-Sources: [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2) | [OpenSecrets: API Lobbyist Roster (2021)](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2021&id=D000031493) (Tier 1)
+Sources: [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2) | [OpenSecrets: API Lobbyist Roster (2021)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2021&id=D000031493) (Tier 1)
 
 ### Donation-to-Policy Timeline
 
@@ -572,10 +572,10 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 
 ### Sources
 
-- [OpenSecrets: API Federal Lobbying Disclosure (D000031493)](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000031493) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: API Federal Lobbying Disclosure (D000031493)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000031493) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: API PAC Committee Filings (C00483677)](https://www.fec.gov/data/committee/C00483677/) (Tier 1)
 - [OpenSecrets: API Political Contributions and Outside Spending](https://www.opensecrets.org/orgs/american-petroleum-institute/summary?id=D000031493) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: API Lobbyist Roster (2021–2024)](https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2021&id=D000031493) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: API Lobbyist Roster (2021–2024)](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433156?cycle=2021&id=D000031493) (Tier 1) (UNVERIFIED)
 - [ProPublica Nonprofit Explorer: API Form 990 Filings (2020–2024)](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
 - [FEC: American Petroleum Institute PAC and Super PAC Contributions](https://www.fec.gov/data/committee/C00483677/) (Tier 1)
 - [ExxonMobil Corporate Disclosure: Trade Association Expenditures](https://corporate.exxonmobil.com/who-we-are/policy/exxonmobil-advocacy-report/direct-lobbying-activities-expenditures/trade-associations-think-tanks-and-coalitions) (Tier 1)
@@ -591,7 +591,7 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 - [DeSmog: API Climate Denial Campaign 1980](https://www.desmog.com/2021/01/15/api-american-petroleum-institute-oil-industry-public-climate-denial-campaign-1980/) (Tier 2)
 - [DeSmog: Energy Citizens Astroturf Campaign Exposed](https://www.desmog.com/2009/08/13/oil-lobbys-energy-citizens-astroturf-campaign-exposed-launch/) (Tier 2)
 - [DeSmog: Fossil Fuel Trade Associations $1.4 Billion PR Campaigns](https://www.desmog.com/2019/03/18/american-petroleum-institute-api-energy-corporate-trade-associations-1-4-billion-pr-campaigns/) (Tier 2)
-- [Sludge: Revealed — Oil Industry Dark Money Campaign for Conservative Democrats](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2)
+- [Sludge: Revealed — Oil Industry Dark Money Campaign for Conservative Democrats](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2)
 - [Sludge: API Climate Denial News Analysis](https://readsludge.com/) (Tier 2)
 - [Climate Power: American Petroleum Institute Hypocrisy Analysis](https://climatepower.us/news/american-petroleum-institutes-blatant-hypocrisy-on-climate-action/) (Tier 2)
 - [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2)
@@ -600,7 +600,7 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 - [Climate Files: 1998 Global Climate Science Communications Plan](https://www.climatefiles.com/trade-group/american-petroleum-institute/1998-global-climate-science-communications-team-action-plan/) (Tier 1)
 - [Inside Climate News: Global Climate Science Communications Plan 1998](https://insideclimatenews.org/documents/global-climate-science-communications-plan-1998/) (Tier 1)
 - [Congressional Record: 1998 Climate Science Communications Plan (April 27, 1998)](https://www.govinfo.gov/content/pkg/CREC-1998-04-27/html/CREC-1998-04-27-pt1-PgH2323.htm) (Tier 1)
-- [SourceWatch: 1998 Climate Science Communications Plan](https://www.sourcewatch.org/index.php/Global_Climate_Science_Communications_Plan_(1998)) (Tier 3) (UNVERIFIED)
+- [SourceWatch: 1998 Climate Science Communications Plan](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Global_Climate_Science_Communications_Plan_(1998))) (Tier 3) (UNVERIFIED)
 - [Grist: Oil's Biggest Lobbying Group Killed Carbon Pricing, Now It Supports Them](https://grist.org/energy/oils-biggest-lobbying-group-killed-carbon-pricing-now-it-supports-them/) (Tier 2)
 - [Public Citizen: Energy Citizens Rally Exposed](https://www.citizen.org/news/industry-astroturf-rally-against-climate-change-bill-shows-big-oil-cant-organize-real-grassroots-movement-api-throws-company-picnic-not-town-hall-meeting-on-climate-change/) (Tier 2)
 - [Fox Business: Top Energy Lobby Group Unleashes 8-Figure Ad Campaign (2024)](https://www.foxbusiness.com/politics/top-energy-lobby-group-unleashes-8-figure-ad-campaign-support-us-production-ahead-2024-election) (Tier 2)
@@ -616,3 +616,16 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 ---
 
 content-readiness:: developed
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $25.4M
+
+| Top Recipient | Amount |
+|---|---|
+| SENATE LEADERSHIP FUND | $12.5M |
+| CONGRESSIONAL LEADERSHIP FUND | $8.0M |
+| SLF PAC | $2.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

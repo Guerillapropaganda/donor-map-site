@@ -141,7 +141,7 @@ The T&I Committee jurisdiction-to-donor overlap is near-total. Aviation donors â
 - [OpenSecrets: Sam Graves net worth](https://www.opensecrets.org/personal-finances/sam-graves/net-worth?cid=N00013323) (Tier 1)
 - [Congress.gov: Sam Graves](https://www.congress.gov/member/sam-graves/G000546) (Tier 1)
 - [House Transportation Committee: Chairman Sam Graves](https://transportation.house.gov/about/ranking-member-sam-graves/) (Tier 1)
-- [OCE: Referral regarding Rep. Sam Graves](https://oce.house.gov/reports/investigations/oce-referral-regarding-representative-graves) (Tier 1)
+- [OCE: Referral regarding Rep. Sam Graves](https://conduct.house.gov/reports/investigations/oce-referral-regarding-representative-graves) (Tier 1)
 - [House Ethics Committee: Report on Sam Graves (111th Congress)](https://www.govinfo.gov/content/pkg/CRPT-111hrpt320/html/CRPT-111hrpt320.htm) (Tier 1)
 - [Roll Call: Graves plans aggressive oversight as transportation panel chairman](https://rollcall.com/2022/11/28/graves-plans-aggressive-oversight-as-transportation-panel-chairman/) (Tier 2)
 - [Transport Topics: Sam Graves Tapped Again for Key Infrastructure Role](https://www.ttnews.com/articles/sam-graves-tapped-again) (Tier 2)

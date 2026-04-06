@@ -139,3 +139,19 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 
 research-status:: ready — Full citation pass complete. $393B peak net worth, Oracle CIA origins, $9B JWCC Pentagon cloud contract, $173M Mar-a-Lago estate, TikTok deal structure, $450M Florida real estate, Opportunity Matters Fund donations. 10 sources, Tier 1-2. All ### headers. Promoted Session 38k.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 348 contributions totaling $10.2K
+
+**ActBlue/WinRed conduit duplicates filtered:** 152
+
+| Top Recipient | Amount |
+|---|---|
+| WINRED | $3.5K |
+| TEAM SCALISE | $1.7K |
+| SCALISE FOR CONGRESS | $1.7K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

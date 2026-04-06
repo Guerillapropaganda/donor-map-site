@@ -2,7 +2,7 @@
 title: "Deb Fischer"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: "2026-04-05"
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,8 +18,6 @@ issues:
 top-donors:
   - "AIPAC"
 bioguide-id: "A000383"
-total-received: "$572,417"
-fec-candidate-id: "S2NE00094"
 ---
 
 
@@ -151,7 +149,7 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 - [Senate.gov: Fischer biography](https://www.fischer.senate.gov/public/index.cfm/biography) (Tier 1)
 - [Senate.gov: Fischer Strategic Forces Subcommittee appointments](https://www.fischer.senate.gov/public/index.cfm/2025/1/fischer-announces-appointment-to-key-senate-armed-services-subcommittees) (Tier 1)
 - [Senate.gov: Fischer FY2026 NDAA nuclear deterrence provisions](https://www.fischer.senate.gov/public/index.cfm/news?ID=EBE1A750-DDB9-4729-9C72-E1C8B6001AB2) (Tier 1)
-- [American Prospect: How Deb Fischer Delivered for Big Ag](https://prospect.org/power/2024-10-30/how-deb-fischer-delivered-for-big-ag/) (Tier 2)
+- [American Prospect: How Deb Fischer Delivered for Big Ag](https://prospect.org/2024/10/30/2024-10-30-how-deb-fischer-delivered-for-big-ag/) (Tier 2)
 - [Nebraska Independent: Fischer's Senate record — putting corporate donors over Nebraskans](https://nebraskaindependentnews.com/politics/deb-fischers-senate-2024-election-dan-osborn-campaign-donations/) (Tier 2)
 - [Nebraska Independent: Fischer accepts pharma cash while opposing lower drug prices](https://nebraskaindependentnews.com/politics/deb-fischer-senate-election-2024-dan-osborn-pharma-campaign-money-drug-prices/) (Tier 2)
 - [American Journal News: Major donor to Fischer linked to downfall of Nebraska town](https://americanjournalnews.com/major-donor-to-sen-deb-fischer-linked-to-the-downfall-of-a-nebraska-town/) (Tier 2)
@@ -159,38 +157,3 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 - [Ballotpedia: Deb Fischer](https://ballotpedia.org/Deb_Fischer) (Tier 3)
 - [Wikipedia: Deb Fischer](https://en.wikipedia.org/wiki/Deb_Fischer) (Tier 3)
 
-content-readiness:: ready
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2030 |
-| Total Raised | $572,417 |
-| Individual Contributions | $249,187 |
-| PAC Contributions | $233,654 |
-| Cash on Hand | 242964.14 |
-| IE Support (Super PAC) | $3,087,253 |
-| IE Opposition (Super PAC) | $17,433,261 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2030 | $572,417 | $249,187 | $233,654 |
-| 2024 | $8,687,977 | $3,121,239 | $3,313,980 |
-| 2018 | $6,449,173 | $2,793,766 | $2,926,837 |
-| 2012 | $5,283,975 | $2,854,087 | $1,149,600 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| RETIRE CAREER POLITICIANS | $0 | $13,725,456 |
-| END THE GRIDLOCK | $0 | $3,197,722 |
-| ENDING SPENDING ACTION FUND | $1,651,703 | $0 |
-| ESAFUND | $881,915 | $0 |
-| COMMON SENSE FOR AMERICA PAC | $303,194 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1)
-<!-- auto:fec-politician end -->

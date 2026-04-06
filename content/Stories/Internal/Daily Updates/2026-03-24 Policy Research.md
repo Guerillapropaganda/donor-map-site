@@ -30,7 +30,7 @@ The military context remains severe: CENTCOM reports over 9,000 Iranian targets 
 > Trump framing this as diplomatic progress while CENTCOM simultaneously reports the largest sustained air campaign since Iraq 2003 is a textbook Two-Audience Problem. One message for markets and war-weary voters (talks are happening), another reality on the ground (military operations continue unabated). Defense contractor revenue streams ([[Lockheed Martin]], [[Boeing]], [[Raytheon (RTX)]]) are unaffected by the pause — munitions expenditure continues.
 
 - [CBS News: Trump calls off Hormuz ultimatum, Iran receives message through mediators](https://www.cbsnews.com/live-updates/iran-war-us-israel-trump-ultimatum-strait-of-hormuz/) (Tier 2)
-- [PBS: U.S. won't strike Iran's power plants for 5 days](https://www.pbs.org/newshour/world/u-s-wont-strike-irans-power-plants-for-5-days-trump-says) (Tier 2)
+- [PBS: U.S. won't strike Iran's power plants for 5 days](https://www.pbs.org/newshour/world/u-s-wont-strike-irans-power-plants-for-5-days-trump-says-in-turnaround-on-strait-of-hormuz-deadline) (Tier 2)
 - [NBC News: Trump postpones attacks, citing productive talks](https://www.nbcnews.com/world/middle-east/live-blog/live-updates-iran-war-trump-hormuz-deadline-energy-crisis-gulf-power-rcna264685) (Tier 2)
 - [CNN: Oil drops, stocks soar after Trump postpones Iran strikes](https://www.cnn.com/2026/03/23/business/stocks-dow-market) (Tier 2)
 - [CNBC: Oil prices slide after Trump postpones strikes](https://www.cnbc.com/2026/03/23/trump-iran-war-power-plants-energy-infrastructure-middle-east.html) (Tier 2)

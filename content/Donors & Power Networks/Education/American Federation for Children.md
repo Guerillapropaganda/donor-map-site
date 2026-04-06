@@ -184,9 +184,22 @@ The American Federation for Children represents the school privatization movemen
 - [WHYY: Jeff Yass Single-Handedly Keeping School Choice PACs Flush](https://whyy.org/articles/jeff-yass-the-richest-man-in-pa-is-single-handedly-keeping-school-choice-pacs-flush/) (Tier 2)
 - [CBPP: State Policymakers Should Reject School Voucher Plans](https://www.cbpp.org/research/state-budget-and-tax/state-policymakers-should-reject-k-12-school-voucher-plans) (Tier 2)
 - [Washington Post: High court opens the door to more public funding of religious schools](https://www.washingtonpost.com/education/2022/06/21/religious-school-supreme-court-carson/) (Tier 2)
-- [SourceWatch: American Federation for Children](https://www.sourcewatch.org/index.php/The_American_Federation_for_Children) (Tier 3)
+- [SourceWatch: American Federation for Children](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_American_Federation_for_Children) (Tier 3)
 - [Ballotpedia: American Federation for Children](https://ballotpedia.org/American_Federation_for_Children) (Tier 3)
 
 ---
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 40 contributions totaling $1.5M
+
+| Top Recipient | Amount |
+|---|---|
+| OHIOANS FOR PARENTAL CHOICE | $850.0K |
+| AFC VICTORY FUND | $540.3K |
+| AMERICAN FED FOR CHILDREN ACTION FUND-GA LEG IE CMTE | $75.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

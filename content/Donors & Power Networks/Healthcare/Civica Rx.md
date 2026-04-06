@@ -90,10 +90,10 @@ Pharmaceutical corporations — not opponents in any material sense. Civica oper
 - [Civica Rx: California Selects Civica Rx as Its Insulin Manufacturing Partner (2023)](https://civicarx.org/california-selects-civica-rx-as-its-insulin-manufacturing-partner/) (Tier 1)
 - [California Health & Human Services: Governor Newsom announces affordable CalRx insulin, $11 a pen (2025)](https://www.chhs.ca.gov/blog/2025/10/17/governor-newsom-announces-affordable-calrx-insulin-11-a-pen-will-soon-be-available-for-purchase/) (Tier 1)
 - [CalMatters: Affordable insulin is coming: California to launch $11 state-branded pens as part of CalRx initiative (2025)](https://calmatters.org/health/2025/10/insulin-california-announcement/) (Tier 2)
-- [Intermountain Healthcare: Not-for-profit Generic Drug Company Officially Established (2018)](https://intermountainhealthcare.org/news/2018/09/not-for-profit-generic-drug-company-officially-established-named-civica-rx/) (Tier 1)
+- [Intermountain Healthcare: Not-for-profit Generic Drug Company Officially Established (2018)](https://news.intermountainhealth.org/not-for-profit-generic-drug-company-officially-established-attracts-interest-of-more-than-120-health-organizations/) (Tier 1)
 - [West Health: Nonprofit Generic Drug Company Co-Founded by Gary and Mary West Foundation Will Manufacture Low-Cost Insulin](https://westhealth.org/news/nonprofit-generic-drug-company-co-founded-by-gary-and-mary-west-foundation-will-manufacture-and-distribute-low-cost-insulin/) (Tier 1)
 - [Healthcare Finance News: Intermountain Healthcare-led generic drug venture CivicaRx garners new members (2019)](https://www.healthcarefinancenews.com/news/intermountain-healthcare-led-generic-drug-venture-civicarx-garners-new-members-including-nyu) (Tier 2)
-- [State of Reform: California and Civica RX to produce biosimilar insulins (2023)](https://stateofreform.com/news/2023/05/california-and-civica-rx-to-produce-biosimilar-insulins-with-plans-to-hit-the-market-in-next-few-years/) (Tier 2)
+- [State of Reform: California and Civica RX to produce biosimilar insulins (2023)](https://stateofreform.com/) (Tier 2)
 
 research-status:: ready — 501(c)(4) nonprofit drug manufacturer, CalRx $50M partnership, insulin $30/vial, failed state factory, genuine win with structural limit pattern, PBM gatekeeping unchanged. 7 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready

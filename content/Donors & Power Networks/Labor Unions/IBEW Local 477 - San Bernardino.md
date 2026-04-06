@@ -74,8 +74,8 @@ This is the building trades class position at the local level: aligned with capi
 
 ### Sources
 
-- [IBEW Local 477: Official website — San Bernardino/Inyo/Mono jurisdiction](https://www.ibew477.org/) (Tier 3)
-- [IBEW: Electric Vehicle Infrastructure Training Program (EVITP)](https://www.ibew.org/articles/23ElectricalWorker/EW2310/EVITP.html) (Tier 3)
+- [IBEW Local 477: Official website — San Bernardino/Inyo/Mono jurisdiction](https://ibew477.org/) (Tier 3)
+- [IBEW: Electric Vehicle Infrastructure Training Program (EVITP)](https://ibew.org/articles/23ElectricalWorker/EW2310/EVITP.html) (Tier 3)
 - [Bureau of Labor Statistics: Union membership data — California](https://www.bls.gov/regions/west/news-release/unionmembership_california.htm) (Tier 1)
 
 research-status:: ready — 1,200 members, San Bernardino/Inyo/Mono jurisdiction, IEETC training, IE political environment, Bianco contrast, logistics/solar/data center/EV project mapping, prevailing wage frontline analysis. 4 sources, Tier 2-4. All ### headers. Promoted Session 38l.

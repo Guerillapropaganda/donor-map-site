@@ -352,3 +352,17 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 ---
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $2.4M
+
+| Top Recipient | Amount |
+|---|---|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $1.0M |
+| DSCC | $60.0K |
+| SCALISE LEADERSHIP FUND | $46.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

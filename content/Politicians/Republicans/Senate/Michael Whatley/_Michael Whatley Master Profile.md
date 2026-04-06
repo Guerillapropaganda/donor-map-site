@@ -2,7 +2,7 @@
 title: "Michael Whatley Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 2
 parent: null
 party: "Republican"
@@ -13,8 +13,6 @@ top-donors:
   - "Consumer Energy Alliance"
   - "HBW Resources"
   - "Susan B. Anthony Pro-Life America PAC"
-total-received: "$6,273,539"
-fec-candidate-id: "S6NC00415"
 ---
 
 #politician #republican #senate #north-carolina #2026-candidate #oil-lobbyist #trump-aligned
@@ -135,7 +133,7 @@ Whatley employs Trump-aligned populist anti-establishment rhetoric combined with
 - [Wikipedia: Michael Whatley](https://en.wikipedia.org/wiki/Michael_Whatley) (Tier 3)
 - [Ballotpedia: Michael Whatley](https://ballotpedia.org/Michael_Whatley) (Tier 3)
 - [OpenSecrets: Michael D Whatley Revolving Door Profile](https://www.opensecrets.org/revolving-door/whatley-michael-d/summary?id=71168) (Tier 1 - government/lobbying database) (Tier 1)
-- [SourceWatch: Michael Whatley](https://www.sourcewatch.org/index.php/Michael_Whatley) (Tier 3)
+- [SourceWatch: Michael Whatley](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Michael_Whatley) (Tier 3)
 - [NBC News: RNC moves to give early backing to former chair running in key Senate race](https://www.nbcnews.com/politics/2026-election/rnc-moves-give-early-backing-former-chair-running-key-senate-race-rcna229160) (Tier 2)
 - [The Hill: Trump-backed GOP leader Michael Whatley launches North Carolina Senate bid](https://thehill.com/homenews/senate/5426353-rnc-chair-michael-whatley-nc-senate/) (Tier 2)
 - [CNN: Roy Cooper and Michael Whatley will advance to a marquee North Carolina matchup for US Senate](https://www.cnn.com/2026/03/03/politics/roy-cooper-michael-whatley-north-carolina-matchup-senate) (Tier 2)
@@ -144,24 +142,3 @@ Whatley employs Trump-aligned populist anti-establishment rhetoric combined with
 
 profile-status:: ready
 content-readiness:: ready
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $6,273,539 |
-| Individual Contributions | $1,844,637 |
-| PAC Contributions | $560,500 |
-| Cash on Hand | 2528197.14 |
-| IE Support (Super PAC) | $5,100,566 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $4,189,244 | $0 |
-| SLF PAC | $911,323 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6NC00415/) (Tier 1)
-<!-- auto:fec-politician end -->

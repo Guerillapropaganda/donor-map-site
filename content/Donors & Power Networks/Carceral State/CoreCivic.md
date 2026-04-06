@@ -93,7 +93,7 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 
 - [CalMatters: Gov. Newsom can protect Californians by closing private prisons](https://calmatters.org/commentary/2019/09/gov-newsom-can-protect-californians-by-closing-private-prisons/) (Tier 2)
 - [The Marshall Project: CoreCivic political giving](https://www.themarshallproject.org/2019/08/22/private-prison-companies-are-spending-millions-to-elect-tough-on-crime-candidates) (Tier 2)
-- [ABC News: $500K inaugural donation](https://abcnews.go.com/US/private-prison-firm-corecivic-gave-500k-trumps-inauguration/story?id=118218707) (Tier 2)
+- [ABC News: $500K inaugural donation](https://abcnews.com/US/private-prison-firm-corecivic-gave-500k-trumps-inauguration/story?id=118218707?id=118218707) (Tier 2)
 - [OpenSecrets: private prison company donations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 1)
 - [The Intercept: Trump budget and private prisons](https://theintercept.com/2025/07/10/corecivic-trump-big-beautiful-bill/) (Tier 2)
 - [NOTUS: private prison lobbying](https://www.notus.org/money/private-prisons-lobbying-corecivic-geo-group-immigration-detention) (Tier 2)

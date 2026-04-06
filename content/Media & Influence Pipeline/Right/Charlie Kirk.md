@@ -200,7 +200,7 @@ The audience captured by Kirk's content will vote against labor protections, aga
 - [Brennan Center for Justice: The Money Behind January 6 Is Flowing into the 2022 Elections](https://www.brennancenter.org/our-work/analysis-opinion/money-behind-january-6-flowing-2022-elections) (Tier 2)
 - [The Chronicle of Higher Education: As Turning Point USA Grows, So Does Charlie Kirk's Salary](https://www.chronicle.com/article/as-turning-point-usa-grows-so-does-charlie-kirks-salary) (Tier 2)
 - [InfluenceWatch: Turning Point USA](https://www.influencewatch.org/non-profit/turning-point-usa/) (Tier 3)
-- [SourceWatch: Turning Point USA](https://www.sourcewatch.org/index.php/Turning_Point_USA) (Tier 3)
+- [SourceWatch: Turning Point USA](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA) (Tier 3)
 - [Education Week: How Charlie Kirk's Turning Point USA Is Expanding Its Reach to K-12 Schools](https://www.edweek.org/policy-politics/how-charlie-kirks-turning-point-usa-is-expanding-its-reach-to-k-12-schools/2025/09) (Tier 2)
 - [Newsweek: Turning Point USA Sees Huge Donations, Chapters Spread After Charlie Kirk Killing](https://www.newsweek.com/turning-point-usa-donations-chapters-spread-charlie-kirk-2133816) (Tier 3)
 - [Al Jazeera: How Charlie Kirk and Turning Point USA helped Trump and MAGA win](https://www.aljazeera.com/news/2025/9/11/how-charlie-kirk-and-turning-point-usa-helped-trump-and-maga-win) (Tier 2)

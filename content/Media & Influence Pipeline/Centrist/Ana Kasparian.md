@@ -127,7 +127,7 @@ Ana Kasparian's profile is the most human story in the pipeline. A genuine sexua
 
 ### Sources
 
-- [FEC: Ana Kasparian individual contributions (3 results, $1,150 total)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kasparian%2C+ana&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1)
+- [FEC: Ana Kasparian individual contributions (3 results, $1,150 total)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=kasparian%2C+ana&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1)
 - [The Hill: Ana Kasparian explains her beef with the Left — details horrific assault by homeless man](https://thehill.com/video/ana-kasparian-explains-her-beef-with-the-left-details-horrific-assault-by-homeless-man/10132153/) (Tier 2)
 - [Fox News: Progressive journalist unleashes on liberal intolerance that drove her away from Democratic Party](https://www.foxnews.com/media/progressive-journalist-unleashes-liberal-intolerance-drove-her-away-from-democratic-party) (Tier 2)
 - [Yahoo Finance/PR Newswire: Her Take launches on Valuetainment — Kasparian, Michaels, Li](https://finance.yahoo.com/news/bold-podcast-talk-show-her-190000209.html) (Tier 2)

@@ -122,12 +122,13 @@ When progressive members of Congress proposed redirecting small portions of the 
 ### Sources
 
 - [OpenSecrets: Rep Ken Calvert Donor Profile](https://www.opensecrets.org/members-of-congress/ken-calvert/summary) (Tier 1)
-- [Defense PAC Contributions, 2024-2025 Cycle](https://www.opensecrets.org/industries/indus_details.php?ind=D&cycle=2024) (Tier 1)
-- [House Appropriations Committee: Defense Subcommittee Composition](https://appropriations.house.gov/subcommittees/defense-subcommittee) (Tier 1)
-- [House Appropriations Committee Defense Markup, 2025](https://appropriations.house.gov/news/press-releases/2025) (Tier 1)
+- [Defense PAC Contributions, 2024-2025 Cycle](https://www.opensecrets.org/industries?ind=D&cycle=2024) (Tier 1)
+- [House Appropriations Committee: Defense Subcommittee Composition](https://appropriations.house.gov/subcommittees/defense-0) (Tier 1)
+- [House Appropriations Committee Defense Markup, 2025](https://appropriations.house.gov/news/press-releases) (Tier 1)
 - [CSIS Analysis: F-35 Production and Cost](https://www.csis.org/analysis/f-35-fighter-jet-program-and-future-military-readiness) (Tier 2)
 - [Congressional Budget Office: Defense Budget Analysis](https://www.cbo.gov/publication/59251) (Tier 1)
 - [Lockheed Martin Political Spending Analysis](https://www.opensecrets.org/orgs/lockheed-martin/summary) (Tier 1)
 
 profile-status:: ready
 content-readiness:: ready
+ 

@@ -21,7 +21,7 @@ related: [[George Soros]] [[_Tom Steyer Master Profile|Tom Steyer]] Rob McKay Pa
 
 ### Who They Are
 
-The [[Democracy Alliance|Democracy Alliance]] is a secretive donor consortium founded in 2005 by philanthropists alarmed at conservative dominance in policy infrastructure—particularly think tanks, media, and litigation networks. Operating as a 501(c)(6) nonprofit (trade association / membership organization), it functions as a coordination mechanism for ultra-wealthy Democrats to pool resources into strategic giving. Membership requires a minimum $200,000/year commitment, and the organization explicitly restricts public access to member names, donor allocations, and decision-making meetings. [InfluenceWatch: Democracy Alliance](https://www.influencewatch.org/organization/democracy-alliance/) (Tier 3) The Alliance manages approximately $1B+ in deployed capital since founding (2005-2026), distributed through a deliberate grantmaking strategy coordinated at private convenings only accessible to members and approved grantee organizations. Unlike dark money 501(c)(4)s, Democracy Alliance's structure allows tax-deductibility of donations (members claim them as charitable contributions), but the secrecy of member names and internal deliberations creates functional opacity equivalent to dark money infrastructure.
+The [[Democracy Alliance|Democracy Alliance]] is a secretive donor consortium founded in 2005 by philanthropists alarmed at conservative dominance in policy infrastructure—particularly think tanks, media, and litigation networks. Operating as a 501(c)(6) nonprofit (trade association / membership organization), it functions as a coordination mechanism for ultra-wealthy Democrats to pool resources into strategic giving. Membership requires a minimum $200,000/year commitment, and the organization explicitly restricts public access to member names, donor allocations, and decision-making meetings. [InfluenceWatch: Democracy Alliance](https://www.influencewatch.org/organization/democracy-alliance-conferences/) (Tier 3) The Alliance manages approximately $1B+ in deployed capital since founding (2005-2026), distributed through a deliberate grantmaking strategy coordinated at private convenings only accessible to members and approved grantee organizations. Unlike dark money 501(c)(4)s, Democracy Alliance's structure allows tax-deductibility of donations (members claim them as charitable contributions), but the secrecy of member names and internal deliberations creates functional opacity equivalent to dark money infrastructure.
 
 ### What They Want
 
@@ -149,9 +149,9 @@ The result: Democratic Party doesn't set its own strategy. Wealthy donor consens
 
 ### Sources
 
-- [InfluenceWatch: Democracy Alliance](https://www.influencewatch.org/organization/democracy-alliance/) (Tier 3)
+- [InfluenceWatch: Democracy Alliance](https://www.influencewatch.org/organization/democracy-alliance-conferences/) (Tier 3)
 - [Center for Public Integrity: Mystery donors pumped millions into liberal dark money group](https://publicintegrity.org/politics/mystery-donors-pumped-millions-into-liberal-dark-money-group/) (Tier 2)
-- [The American Prospect: The Democratic Dilemma on Dark Money](https://prospect.org/power/democratic-dilemma-on-dark-money/) (Tier 2)
+- [The American Prospect: The Democratic Dilemma on Dark Money](https://prospect.org/2021/12/02/democratic-dilemma-on-dark-money/) (Tier 2)
 - [Carnegie Corporation: The Democracy Alliance](https://carnegieendowment.org/articles/democracy-alliance-progressives-koch-network) (Tier 3)
 - [NPR: How Liberal Donors Are Organizing](https://www.npr.org/2019/05/07/720050070/democrats-want-to-end-dark-money-but-first-they-want-to-use-it) (Tier 2)
 - [Center for American Progress — History and Democracy Alliance Funding](https://www.americanprogress.org/?s=Democracy%20Alliance) (Tier 3)
@@ -160,3 +160,17 @@ The result: Democratic Party doesn't set its own strategy. Wealthy donor consens
 
 research-status:: ready — Full citation pass complete. $1.2-1.5B deployed since 2005, ~110 members ($200K minimum), Soros $125M+ anchor, CAP/Media Matters/America Votes flagship grantees, Koch Network comparison, Obama-era party coordination function. 7 sources, Tier 2-3. All ### headers. Promoted Session 38k.
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 78 contributions totaling $116.7K
+
+| Top Recipient | Amount |
+|---|---|
+| UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB | $50.0K |
+| MOVEON.ORG POLITICAL ACTION | $7.0K |
+| TULSI FOR HAWAII | $5.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

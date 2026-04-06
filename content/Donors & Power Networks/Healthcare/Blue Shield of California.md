@@ -2,17 +2,13 @@
 title: "Blue Shield of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-23
 source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Gavin Newsom"
-ein: 942822302
-annual-revenue: "$21.9M"
-net-assets: "$77.4M"
-tax-year: "2023"
 ---
 
 
@@ -88,14 +84,16 @@ Healthcare — Single-payer, COVID contracts, PBM regulation
 research-status:: ready — Newsom contributions confirmed ($299K+), party contributions ($2.7M since 2006, $1M recall), COVID vaccine no-bid contract ($15M), Project Homekey behested payment ($45M with Kaiser), relationship cultivation pattern documented. All ### headers, Tier 1-2 sources verified. Promoted to ready Session 38h.
 content-readiness:: ready
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $21.9M |
-| Total Contributions | $0 |
-| Total Expenses | $23.7M |
-| Net Assets | $77.4M |
+---
 
-- [Source: ProPublica Nonprofit Explorer — EIN 942822302](https://projects.propublica.org/nonprofits/organizations/942822302) (Tier 1)
-<!-- auto:propublica-990 end -->
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.6M
+
+| Top Recipient | Amount |
+|---|---|
+| BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC | $180.0K |
+| DSCC | $68.5K |
+| DCCC | $45.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -2,7 +2,7 @@
 title: "SEIU - Service Employees International Union"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -18,8 +18,6 @@ ein: 361760052
 annual-revenue: "$14.9M"
 net-assets: "$8.2M"
 tax-year: "2023"
-lobbying-spend: 159000
-lobbying-filings: 7
 ---
 
 
@@ -188,22 +186,3 @@ content-readiness:: ready
 
 - [SEIU Local 721 March 2026 President's Report](https://www.seiu721.org/presidents-report/presidents-report-march-2026.php) (Tier 2)
 - [Amsterdam News: 32BJ SEIU building workers enter contract talks](https://amsterdamnews.com/news/2026/03/12/32bj-seiu-building-workers-enter-contract-talks/) (Tier 2)
-
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $159K |
-| Quarterly Filings | 7 |
-| Year Range | 2024-2025 |
-| Lobbying Firms | 2 |
-| Individual Lobbyists | 0 |
-
-**Issues lobbied:** Aviation/Airlines/Airports, Labor Issues/Antitrust/Workplace, Travel/Tourism
-
-**Lobbying firms:** ACTUM I, LLC, THE VOGEL GROUP
-
-**Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=SEIU%20-%20Service%20Employees%20International%20Union) (Tier 1)
-<!-- auto:lda-lobbying end -->

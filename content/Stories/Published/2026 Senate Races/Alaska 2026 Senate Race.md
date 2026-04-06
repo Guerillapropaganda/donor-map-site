@@ -78,7 +78,7 @@ Alaska's commercial fishing industry (salmon, halibut, pollock: $1.8B annual exp
 - [Oil industry keeps funding Republicans despite climate crisis | Alaska Dispatch News](https://www.adn.com/politics/2025/11/14/oil-industry-keeps-funding-republicans-despite-climate-crisis/) (Tier 2)
 - [OpenSecrets: Dan Sullivan vs. challengers — Alaska 2026 outside spending](https://www.opensecrets.org/races/outside-spending?cycle=2026&id=AKS1) (Tier 1)
 - [Alaska Native voters shape 2026 race: polling shows Indigenous turnout surge | Alaska Public Media](https://www.alaskapublic.org/2026/03/alaska-native-voting-power-2026) (Tier 2)
-- [ConocoPhillips lobbying and political spending in Alaska | FollowTheMoney](https://www.followthemoney.org/entity/c/1087342) (Tier 1)
+- [ConocoPhillips lobbying and political spending in Alaska | FollowTheMoney](https://www.followthemoney.org/Security/login?BackURL=/entity/c/1087342) (Tier 1)
 - [ExxonMobil Alaska operations and political contributions | Center for Responsive Politics](https://www.opensecrets.org/orgs/exxon-mobil-corp/summary) (Tier 1)
 - [Commercial Fishing Coalition fundraising for Peltola | FEC Itemized Contributions Search](https://www.fec.gov/data/candidate/S6AK00276/) (Tier 1)
 - [Alaska state budget oil revenue dependency analysis | Institute of the North](https://www.institutenorth.org/alaska-budget-oil-revenue) (Tier 3)

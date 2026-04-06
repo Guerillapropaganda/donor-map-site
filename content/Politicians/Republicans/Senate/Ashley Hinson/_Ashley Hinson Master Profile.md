@@ -2,7 +2,7 @@
 title: "Ashley Hinson Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,7 +12,6 @@ state-abbr: "IA"
 top-donors:
   - "Senate Leadership Fund"
   - "Winning for Women PAC"
-fec-candidate-id: "H0IA01174"
 ---
 
 #politician #republican #senate #iowa #2026-candidate
@@ -121,7 +120,7 @@ Hinson campaigns as a fresh face bringing "communication skills" and "outsider p
 - [About | Representative Ashley Hinson](https://hinson.house.gov/about) (Tier 1 - primary) (Tier 1)
 - [Iowa Republican U.S. Rep. Ashley Hinson is running for Senate in 2026 | Iowa Public Radio](https://www.iowapublicradio.org/political-news/2025-09-02/iowa-republican-ashley-hinson-running-for-senate-2026) (Tier 2)
 - [GOP Rallies Behind Hinson in Iowa Senate Race | WJBC AM 1230](https://www.wjbc.com/2025/09/05/gop-rallies-behind-hinson-in-iowa-senate-race/) (Tier 3 - regional broadcast) (Tier 2)
-- [Ashley Hinson takes massive fundraising edge in Iowa's open-seat U.S. Senate campaign | The Gazette](https://www.thegazette.com/campaigns-elections/ashley-hinson-takes-massive-fundraising-edge-in-iowas-open-seat-u-s-senate-campaign/) (Tier 2)
+- [Ashley Hinson takes massive fundraising edge in Iowa's open-seat U.S. Senate campaign | The Gazette](https://www.thegazette.com/news/elections/ashley-hinson-takes-massive-fundraising-edge-in-iowa-s-open-seat-u-s-senate-campaign/article_220dafe1-f9b3-5451-9cbe-6bf8a25bf0a0.html) (Tier 2)
 - [Ashley Hinson secures key endorsement from super PAC supporting GOP women | Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/3796883/ashley-hinson-senate-endorsement-winning-for-women-pac/) (Tier 2)
 - [Rep. Ashley Hinson - Campaign Finance Summary | OpenSecrets](https://www.opensecrets.org/members-of-congress/ashley-hinson/summary?cid=N00044521) (Tier 1)
 - [Hinson introduces E15 bill in House | Southeast Iowa Union](https://www.southeastiowaunion.com/se-iowa-union-hometown-current/hinson-introduces-e15-bill-in-house/) (Tier 3)
@@ -137,34 +136,4 @@ party:: Republican
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Cash on Hand | 0.00 |
-| IE Support (Super PAC) | $2,419,609 |
-| IE Opposition (Super PAC) | $9,112,503 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $0 | $0 | $0 |
-| 2024 | $5,600,532 | $2,364,391 | $1,522,307 |
-| 2022 | $7,191,931 | $3,330,564 | $1,672,850 |
-| 2020 | $5,178,803 | $2,952,526 | $393,316 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| HOUSE MAJORITY PAC | $0 | $4,202,527 |
-| DCCC | $0 | $3,461,924 |
-| OPPORTUNITY MATTERS FUND, INC. | $1,027,921 | $0 |
-| UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA) | $0 | $912,900 |
-| AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $368,348 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0IA01174/) (Tier 1)
-<!-- auto:fec-politician end -->
+ 

@@ -184,14 +184,14 @@ Leo also co-created Liberty Central with Ginni Thomas, seeded with $500,000 from
 ### Sources
 
 - [ProPublica: Leonard Leo Gave Millions Trying to Influence Supreme Court on Elections, Discrimination](https://www.propublica.org/article/leonard-leo-scotus-elections-nonprofits-discrimination) (Tier 2)
-- [OpenSecrets: Leo's Dark Money Architecture](https://www.opensecrets.org/dark-money/donor-lookup/leonard-leo) (Tier 1)
+- [OpenSecrets: Leo's Dark Money Architecture](https://www.opensecrets.org/donor-lookup/results?name=leonard+leo&order=desc&sort=A) (Tier 1)
 - [IRS Form 990: Marble Freedom Trust Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Leonard%20Leo&city=&state=All+States&country=US) (Tier 1)
 - [ProPublica: We Don't Talk About Leonard](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 - [ProPublica: Barre Seid $1.6B donation to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [OpenSecrets: Kavanaugh confirmation spending](https://www.opensecrets.org/news/2023/06/kavanaugh-confirmation-campaign-cost-more-than-any-other-supreme-court-battle/) (Tier 2)
-- [Center for American Progress: Federalist Society Judicial Dominance](https://americanprogress.org/article/federalist-society-judges) (Tier 2)
+- [OpenSecrets: Kavanaugh confirmation spending](https://www.opensecrets.org/news/) (Tier 2)
+- [Center for American Progress: Federalist Society Judicial Dominance](https://www.americanprogress.org/article/pipelines-power-encouraging-professional-diversity-federal-appellate-bench/) (Tier 2)
 - [Politico: Leonard Leo and Trump's Judicial Appointments](https://politico.com/leonard-leo-judges) (Tier 2)
-- [The New York Times: Trump's Rift with Leo (May 2025)](https://nytimes.com/trump-leo-judges) (Tier 2, paywalled) (Tier 2)
+- [The New York Times: Trump's Rift with Leo (May 2025)](https://www.nytimes.com/2025/05/30/us/politics/trump-judges-nominations.html) (Tier 2, paywalled) (Tier 2)
 
 research-status:: ready — $1.6B Barre Seid donation, Marble Freedom Trust, Supreme Court capture (Gorsuch/Kavanaugh/Barrett), state court pivot, CRC Advisors $33M, Lexington Fund/First Principles PACs 2026, Trump-Leo tension, Wisconsin loss. 9 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready

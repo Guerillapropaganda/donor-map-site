@@ -36,8 +36,22 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 ### Sources
 
 - [ProPublica: Inside the Investigation of Leading Republican Money Man Sheldon Adelson](https://www.propublica.org/article/inside-the-investigation-of-leading-republican-money-man-sheldon-adelson) (Tier 2)
-- [OpenSecrets: Sheldon & Miriam Adelson Political Giving](https://www.opensecrets.org/donor-lookup/sheldon-adelson) (Tier 1)
+- [OpenSecrets: Sheldon & Miriam Adelson Political Giving](https://www.opensecrets.org/donor-lookup/results?name=sheldon+adelson) (Tier 1)
 
 ---
 
 `content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 209 contributions totaling $680.4K
+
+| Top Recipient | Amount |
+|---|---|
+| AMODEI FOR NEVADA | $38.5K |
+| FRIENDS OF JOE HECK | $35.0K |
+| SLF PAC | $32.8K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

@@ -330,7 +330,7 @@ Patterns present: **Donor-Class Override** (Qatar editorial suppression override
 - [Wendy Siegelman Substack: "A look at businessman Vadim Shulman"](https://wendysiegelman.substack.com/p/a-look-at-newsmax-investor-vadim-shulman) (Tier 2)
 - [Wikipedia: Thomas Peterffy](https://en.wikipedia.org/wiki/Thomas_Peterffy) (Tier 3)
 - [Wikipedia: Christopher Ruddy](https://en.wikipedia.org/wiki/Christopher_Ruddy) (Tier 3)
-- [SourceWatch: "Richard Mellon Scaife"](https://www.sourcewatch.org/index.php/Richard_Mellon_Scaife) (Tier 3)
+- [SourceWatch: "Richard Mellon Scaife"](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Richard_Mellon_Scaife) (Tier 3)
 
 ### Editorial Suppression & Content Deletion (Tier 2):
 - [Semafor: "Newsmax deletes interview criticizing FCC"](https://www.semafor.com/article/03/12/2025/newsmax-deletes-interview-criticizing-fcc) (Tier 2)

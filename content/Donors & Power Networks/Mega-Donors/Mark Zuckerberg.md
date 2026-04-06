@@ -145,12 +145,12 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 ### FEC & OpenSecrets (Tier 1):
 - [OpenSecrets: Meta organization profile](https://www.opensecrets.org/orgs/meta/summary?id=D000033563) (Tier 1)
 - [OpenSecrets: Meta PAC profile](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024) (Tier 1)
-- [OpenSecrets: Meta lobbying profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000033563) (Tier 1)
+- [OpenSecrets: Meta lobbying profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000033563) (Tier 1)
 - [OpenSecrets: Mark Zuckerberg donor lookup](https://www.opensecrets.org/donor-lookup/results?name=mark+zuckerberg) (Tier 1)
 
 ### Government & Legal (Tier 1):
-- [FTC: FTC v. Meta Platforms case page](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v) (Tier 1)
-- [FTC Press Release: FTC Antitrust Settlement and 20-year compliance order](https://www.ftc.gov/news-events/press-releases/2019/07/facebook-settles-ftc-charges-it-violated-consumers-privacy) (Tier 1) (UNVERIFIED)
+- [FTC: FTC v. Meta Platforms case page](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc) (Tier 1)
+- [FTC Press Release: FTC Antitrust Settlement and 20-year compliance order](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook) (Tier 1) (UNVERIFIED)
 
 ### Investigative Journalism (Tier 2):
 - [CNBC: Meta wins FTC antitrust trial](https://www.cnbc.com/2025/11/18/meta-wins-ftc-antitrust-trial-that-focused-on-whatsapp-instagram.html) (Tier 2)
@@ -163,8 +163,24 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 - [The Intercept: Sheryl Sandberg political donations and Soros research directive](https://theintercept.com/) (Tier 2)
 
 ### Secondary (Tier 3):
-- [Ballotpedia: CTCL grants to election agencies, 2020](https://ballotpedia.org/Center_for_Tech_and_Civic_Life%27s_(CTCL)_grants_to_election_agencies,_2020) (Tier 3)
+- [Ballotpedia: CTCL grants to election agencies, 2020](https://ballotpedia.org/Center_for_Tech_and_Civic_Life's_(CTCL)_grants_to_election_agencies,_2020) (Tier 3)
 - [Ballotpedia: END ZUCKERBUCKS Act and state-level legislation](https://ballotpedia.org/) (Tier 3)
 
 research-status:: developed → expanded (April 1, 2026). Added/expanded: (1) CZI section with corrected $419.5M total (not $400M), state trifecta breakdown, anti-Zuckerbucks legislation (28 states, END ZUCKERBUCKS Act, House hearing), CZI political retreat; (2) 2025-2026 realignment section (no 2024 presidential donation, August 2024 letter, Trump "badass" comment, Nov 2024 Mar-a-Lago meeting, March 2026 PCAST appointment); (3) Expanded Revolving Door section with 8 named individuals (Kaplan, Clegg, Levine, Martin, White, Powell McCormick, Harbath, Dearborn) plus Kaplan effect detail (100x lobbying increase post-2011) and new Sheryl Sandberg subsection (~$2M lifetime Democratic donations, $416K Clinton PAC, Emily's List, Soros research November 2018); (4) Updated Donation-to-Policy Timeline with corrected $419.5M CTCL, PCAST appointment, Boasberg FTC ruling details; (5) Updated sources with 8 UNVERIFIED URLs (CNN Warren, Politico, WaPo, Intercept on Soros, Ballotpedia).
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 37 contributions totaling $114.7K
+
+**ActBlue/WinRed conduit duplicates filtered:** 3
+
+| Top Recipient | Amount |
+|---|---|
+| FACEBOOK INC. PAC | $40.0K |
+| META PLATFORMS, INC. PAC | $20.0K |
+| SAN FRANCISCO DEMOCRATIC COUNTY CENTRAL COMMITTEE | $10.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

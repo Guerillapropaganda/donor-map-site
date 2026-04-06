@@ -133,3 +133,17 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 - [Defense News: Leidos taps Rolls-Royce executive Bell as next CEO](https://www.defensenews.com/industry/2023/02/27/leidos-taps-rolls-royce-executive-bell-as-next-ceo/) (Tier 2)
 
 content-readiness:: developed
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.1M
+
+| Top Recipient | Amount |
+|---|---|
+| NRSC | $60.0K |
+| DSCC | $60.0K |
+| DCCC | $30.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

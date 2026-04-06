@@ -101,3 +101,17 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 ---
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $3.3M
+
+| Top Recipient | Amount |
+|---|---|
+| NRCC | $375.0K |
+| AMERICANS 4 SECURITY PAC | $250.0K |
+| THUNE VICTORY COMMITTEE | $235.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

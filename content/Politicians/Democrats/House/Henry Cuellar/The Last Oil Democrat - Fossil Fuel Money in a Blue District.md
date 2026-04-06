@@ -44,7 +44,7 @@ Cuellar survived a 2022 primary challenge from progressive Jessica Cisneros by 2
 
 - [Congress.gov: Henry Cuellar member profile](https://www.congress.gov/member/henry-cuellar/C001063) (Tier 1)
 - [OpenSecrets: Henry Cuellar campaign finance summary](https://www.opensecrets.org/members-of-congress/henry-cuellar/summary?cid=N00024978) (Tier 1)
-- [DOJ: United States v. Henry Cuellar indictment](https://www.justice.gov/usao-sdtx/pr/us-congressman-and-wife-indicted) (Tier 1)
+- [DOJ: United States v. Henry Cuellar indictment](https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and) (Tier 1)
 - [Washington Post: Cuellar indictment and Azerbaijan connections](https://www.washingtonpost.com/national-security/2024/05/03/henry-cuellar-indicted-bribery-azerbaijan-mexico/) (Tier 2)
 - [Texas Tribune: Cuellar-Cisneros primary and oil industry spending](https://www.texastribune.org/cuellar-cisneros-primary/) (Tier 2)
 - [Ballotpedia: Henry Cuellar](https://ballotpedia.org/Henry_Cuellar) (Tier 3)

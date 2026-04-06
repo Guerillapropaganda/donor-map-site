@@ -2,7 +2,7 @@
 title: "Cory Booker"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-25
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,7 +21,6 @@ top-donors:
   - "Merck"
   - "Johnson & Johnson"
   - "Silicon Valley Democratic Donor Network"
-bioguide-id: "A000383"
 ---
 
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door
@@ -172,22 +171,10 @@ The development was real. The question is who benefited: corporate headquarters 
 - [KFF Health News: Booker haunted by Big Pharma relationship](https://kffhealthnews.org/morning-breakout/in-era-of-public-rage-over-drug-prices-cory-booker-is-haunted-by-his-past-relationship-with-big-pharma/) (Tier 2)
 - [The Hill: Booker puts pause on pharma fundraising](https://thehill.com/policy/healthcare/340303-cory-booker-to-pause-fundraising-from-pharma-companies/) (Tier 2)
 - [Center for Public Integrity: 9 things to know about Cory Booker](https://publicintegrity.org/politics/elections/presidential-profiles-2020/9-things-to-know-about-cory-booker/) (Tier 2)
-- [The Real Deal: NJ development group allegedly swapped jobs for Booker donations](https://therealdeal.com/2013/10/14/nj-development-group-allegedly-swapped-construction-jobs-for-booker-donations/) (Tier 2)
+- [The Real Deal: NJ development group allegedly swapped jobs for Booker donations](https://therealdeal.com/new-york/2013/10/14/nj-development-group-allegedly-swapped-construction-jobs-for-booker-donations/) (Tier 2)
 - [Sentencing Project: The First Step Act](https://www.sentencingproject.org/policy-brief/the-first-step-act-ending-mass-incarceration-in-federal-prisons/) (Tier 2)
 - [PolitiFact: Cory Booker and drug maker campaign cash](https://www.politifact.com/factchecks/2019/jul/02/donald-trump/cory-booker-and-drug-maker-campaign-cash-numbers/) (Tier 3)
 - [Ballotpedia: Cory Booker](https://ballotpedia.org/Cory_Booker) (Tier 3)
 
 profile-status:: ready
 content-readiness:: ready
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->

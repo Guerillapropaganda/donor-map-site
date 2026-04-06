@@ -176,7 +176,7 @@ A separate California lawmaker introduced legislation to restore Medi-Cal to und
 > [!money] Single-payer and healthcare donor positioning
 > Vault-tracked healthcare industry donors [[UnitedHealth Group - Optum]], [[Anthem - Elevance Health]], [[Kaiser Permanente]], and [[Blue Shield of California]] are existentially threatened by single-payer. A Porter or progressive governor win in California would trigger massive industry spending against single-payer legislation. Track which CA governor candidates receive healthcare industry PAC money — this is the donor litmus test for 2026 CA race.
 
-- [CalMatters: Single-payer health care returns to California governor's race](https://calmatters.org/politics/2026/03/california-governor-single-payer-health-care/) (Tier 2)
+- [CalMatters: Single-payer health care returns to California governor's race](https://calmatters.org/category/politics/2026/03/california-governor-single-payer-health-care/) (Tier 2)
 - [Times of San Diego: California cut health care for undocumented immigrants](https://timesofsandiego.com/health/2026/03/11/california-cut-health-care-undocumented-immigrants-lawmaker-wants-back/) (Tier 2)
 - [CalMatters: What 2026 CA governor candidates would do about health care](https://calmatters.org/health/2025/11/gubernatorial-health-care-california-2026/) (Tier 2)
 

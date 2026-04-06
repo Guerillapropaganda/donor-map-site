@@ -267,11 +267,11 @@ The new variable: AI. If labor's 2028 endorsement condition holds — regulate A
 - [Silicon Valley Business Journal: Newsom tech relationship](https://www.bizjournals.com/sanjose/) (Tier 2)
 
 ### Polling:
-- [UNH Survey Center: Polling research](https://cola.unh.edu/survey-center) (Tier 2)
+- [UNH Survey Center: Polling research](https://cola.unh.edu/unh-survey-center) (Tier 2)
 
 ### Litigation:
 - [Governor of California: Official announcements](https://www.gov.ca.gov/) (Tier 1)
-- [Governor of California: News releases](https://www.gov.ca.gov/news/) (Tier 1)
+- [Governor of California: News releases](https://www.gov.ca.gov/2024/04/26/news-template/) (Tier 1)
 
 ### Labor/AI:
 

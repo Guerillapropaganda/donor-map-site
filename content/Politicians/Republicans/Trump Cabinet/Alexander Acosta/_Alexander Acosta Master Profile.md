@@ -2,12 +2,11 @@
 title: "Alexander Acosta Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Cabinet"
-bioguide-id: "A000383"
 ---
 
 
@@ -146,26 +145,13 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 - [ABC News: Acosta before House Oversight Committee](https://abcnews.com/Politics/alex-acosta-former-us-attorney-negotiated-epsteins-plea/story?id=125731737) (Tier 2)
 - [Wikipedia: Alexander Acosta](https://en.wikipedia.org/wiki/Alexander_Acosta) (Tier 3)
 - [Al Jazeera: US Labor Secretary Acosta resigns amid Epstein plea deal scrutiny](https://www.aljazeera.com/economy/2019/7/12/us-labor-secretary-acosta-resigns-amid-epstein-plea-deal-scrutiny) (Tier 2)
-- [Office of the Secretary: Secretary of Labor Alexander Acosta bio](https://www.dol.gov/sites/dolgov/files/OSEC/official-bio-acosta.pdf) (Tier 1)
+- [Office of the Secretary: Secretary of Labor Alexander Acosta bio](https://web.archive.org/web/2021/https:/www.dol.gov/sites/dolgov/files/OSEC/official-bio-acosta.pdf) (Tier 1)
 - [Miller Center: R. Alexander Acosta (2017-2019)](https://millercenter.org/r-alexander-acosta-2017-2019) (Tier 2)
 - [PBS NewsHour: The 'completely unprecedented' plea deal](https://www.pbs.org/newshour/show/the-completely-unprecedented-plea-deal-jeffrey-epstein-made-with-alex-acosta) (Tier 2)
-- [SHRM: Labor Secretary Acosta Talks About Deregulation, Gig Economy](https://www.shrm.org/resourcesandtools/legal-and-compliance/employment-law/pages/labor-secretary-acosta-talks-about-deregulation-gig-economy.aspx) (Tier 2)
+- [SHRM: Labor Secretary Acosta Talks About Deregulation, Gig Economy](https://web.archive.org/web/2018/https:/www.shrm.org/topics-tools/employment-law-compliance/labor-secretary-acosta-talks-about-deregulation-gig-economy.aspx) (Tier 2)
 - [FIU News: FIU Law Dean Acosta nominated for U.S. labor secretary post](https://newsarchives.fiu.edu/2017/02/fiu-law-dean-acosta-nominated-for-u-s-labor-secretary-post) (Tier 3)
 - [House Oversight Committee: Epstein Prosecutor Acosta Interview Transcript](https://oversightdemocrats.house.gov/news/press-releases/oversight-democrats-statement-public-release-epstein-prosecutor-and-former) (Tier 2)
-- [NELP: On the Confirmation of Alexander Acosta as Labor Secretary](https://nelp.org/on-the-confirmation-of-alexander-acosta-as-labor-secretary/) (Tier 2)
+- [NELP: On the Confirmation of Alexander Acosta as Labor Secretary](https://www.nelp.org/on-the-confirmation-of-alexander-acosta-as-labor-secretary/) (Tier 2)
 
 content-readiness:: ready
 profile-status:: developed — Epstein NPA documented (53-page indictment abandoned, 13-month sentence, immunity for co-conspirators, CVRA violation), defense team mapped (Starr, Dershowitz, Lefkowitz), Labor Secretary tenure and resignation timeline, DOJ OPR review, "intelligence" claim noted, class analysis. All ### headers, Tier 1-2 sources. Session 38i.
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->

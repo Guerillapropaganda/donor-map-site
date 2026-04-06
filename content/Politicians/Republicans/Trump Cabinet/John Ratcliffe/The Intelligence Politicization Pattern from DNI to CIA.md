@@ -85,7 +85,7 @@ The resume inflation was documented by CNN, ABC News, and Newsweek. His first DN
 
 ### Sources
 
-- [ABC News: Trump's pick for intelligence director misrepresented role in anti-terror case](https://abcnews.go.com/Politics/trumps-pick-inteligence-director-misrepresented-role-anti-terror/story?id=64646682) (Tier 2)
+- [ABC News: Trump's pick for intelligence director misrepresented role in anti-terror case](https://abcnews.com/Politics/trumps-pick-inteligence-director-misrepresented-role-anti-terror/story?id=64646682?id=64646682) (Tier 2)
 - [Yahoo News: CIA director John Ratcliffe defends involvement in botched Signal chat](https://www.yahoo.com/news/cia-director-john-ratcliffe-defends-180306328.html) (Tier 2)
 - [Texas Tribune: CIA Director John Ratcliffe defends secret group chat](https://www.texastribune.org/2025/03/25/texas-cia-director-group-chat/) (Tier 2)
 - [Defense One: DNI's threat assessment omits foreign election interference](https://www.defenseone.com/policy/2026/03/annual-threat-assessment-election-security/412217/) (Tier 2)

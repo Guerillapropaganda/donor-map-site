@@ -213,7 +213,7 @@ The structural function: the Federalist Society converts donor money into judici
 - [Bloomberg Law: Trump's First Judicial Nominees Have Federalist Society Ties](https://news.bloomberglaw.com/us-law-week/trumps-first-judicial-nominees-have-federalist-society-ties) (Tier 2)
 - [Roll Call: Trump's 2025 Saw 26 Lifetime Judicial Nominees Approved](https://rollcall.com/2025/12/30/trumps-2025-saw-26-lifetime-judicial-nominees-approved/) (Tier 2)
 - [Senator Whitehouse: The Third Federalist Society (Scheme Speech)](https://www.whitehouse.senate.gov/news/speeches/the-third-federalist-society/) (Tier 2)
-- [Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/) (Tier 2)
+- [Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/) (Tier 2)
 - [CNN: Massive Dark Money Donation — $1.6 Billion to Conservative Group](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs) (Tier 2)
 - [The Leadership Conference: Project 2025 and the Project to Take Over Our Courts](https://civilrights.org/blog/project-2025-and-the-project-to-take-over-our-courts-and-our-rights/) (Tier 3)
 - [The Intercept: Leonard Leo Is Funneling Dark Money Into Law Schools](https://theintercept.com/2024/05/29/leonard-leo-donor-law-schools/) (Tier 2)

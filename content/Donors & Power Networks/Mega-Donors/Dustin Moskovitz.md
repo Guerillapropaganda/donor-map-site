@@ -79,8 +79,8 @@ The deeper contradiction is ideological. Effective altruism promises data-driven
 ### Sources
 
 - [OpenSecrets: Future Forward USA Action 2024 spending](https://www.opensecrets.org/groups/240400) (Tier 2)
-- [FEC: Dustin Moskovitz individual contributions 2024](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=dustin+moskovitz) (Tier 1)
-- [Open Philanthropy: Annual reports and strategic documents](https://www.openphilanthropy.org/research/) (Tier 1)
+- [FEC: Dustin Moskovitz individual contributions 2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dustin+moskovitz) (Tier 1)
+- [Open Philanthropy: Annual reports and strategic documents](https://coefficientgiving.org/research-and-news/) (Tier 1)
 - [Good Ventures Foundation: IRS Form 990 filings](https://www.guidestar.org/profile/26-1493236) (Tier 1)
 - [Fortune: Meet the millennial Meta cofounder and his wife who are giving away $20 billion](https://fortune.com/2025/11/10/meet-the-millennial-meta-cofounder-and-his-wife-who-are-giving-away-20-billion/) (Tier 2)
 - [Wall Street Journal: "Facebook's Dustin Moskovitz on Why He Gives Away His Billions"](https://www.wsj.com/articles/facebooks-dustin-moskovitz-on-why-he-gives-away-his-billions-11576079206) (Tier 2)
@@ -91,3 +91,18 @@ The deeper contradiction is ideological. Effective altruism promises data-driven
 
 research-status:: ready — $19B net worth, $51M+ Future Forward dark money, Open Philanthropy $41B, Good Ventures $2.8B, effective altruism ideology, FTX connection, dark money contradiction. 8 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 281 contributions totaling $135.0M
+
+**ActBlue/WinRed conduit duplicates filtered:** 1
+
+| Top Recipient | Amount |
+|---|---|
+| FF PAC | $100.2M |
+| PRIORITIES USA ACTION | $6.0M |
+| SMP | $5.5M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

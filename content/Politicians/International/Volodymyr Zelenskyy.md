@@ -76,7 +76,7 @@ Of $175 billion in approved U.S. aid, a significant portion is military equipmen
 - [Newsweek: Zelensky's Meeting With US Defense Contractors Sparks Backlash](https://www.newsweek.com/ukraine-aid-volodymyr-zelensky-defense-contractors-joe-biden-congress-1851911) (Tier 2)
 - [Congress.gov: Defense Production for Ukraine: Background and Issues for Congress](https://www.congress.gov/crs-product/R48182) (Tier 1)
 - [Quincy Institute: How Pentagon Contractors Are Cashing In on the Ukraine Crisis](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/) (Tier 2)
-- [Conversation: Ukraine and Defense Giants Quietly Making Billions from War](https://theconversation.com/ukraine-the-worlds-defence-giants-are-quietly-making-billions-from-the-war-178806) (Tier 2)
+- [Conversation: Ukraine and Defense Giants Quietly Making Billions from War](https://theconversation.com/usukraine-the-worlds-defence-giants-are-quietly-making-billions-from-the-war-178806) (Tier 2)
 - [President of Ukraine Official: Zelenskyy Meets U.S. Defense Company Leaders](https://www.president.gov.ua/en/news/prezident-ukrayini-zustrivsya-z-kerivnikami-oboronnih-kompan-87685) (Tier 1)
 - [Army Recognition: U.S. Approves Support Package for Ukraine's F-16s](https://www.armyrecognition.com/focus-analysis-conflicts/army/conflicts-in-the-world/ukraine-russia-conflict/united-states-approves-new-support-package-for-ukraines-f-16s-multirole-fighter) (Tier 2)
 

@@ -2,12 +2,11 @@
 title: "Fraternal Order of Police"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-03-24
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
 entity-type: "Individual Donor"
-total-political-spend: "$454,168"
 ---
 
 #fop #police #law-enforcement #union #qualified-immunity #reform-opposition
@@ -44,32 +43,21 @@ Preservation of qualified immunity (which shields officers from personal liabili
 ### Sources
 
 - [OpenSecrets: FOP political spending](https://www.opensecrets.org/orgs/fraternal-order-of-police/summary?id=D000031728) (Tier 1)
-- [FOP: Legislative priorities](https://fop.net/legislative-issues/) (Tier 2)
+- [FOP: Legislative priorities](https://fop.net/government-and-media-affairs/legislation-we-support/) (Tier 2)
 - [Ballotpedia: Fraternal Order of Police](https://ballotpedia.org/Fraternal_Order_of_Police) (Tier 3)
 
 content-readiness:: ready
 
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $454,168 |
-| Contributions | 212 |
+---
 
-**Top recipients:**
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
 
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| GREEN MOUNTAIN PAC | $72,250 | — |
-| AMERIPAC: THE FUND FOR A GREATER AMERICA | $32,500 | — |
-| HOYER FOR CONGRESS | $32,000 | DEM |
-| LEAHY FOR U.S. SENATOR COMMITTEE | $25,000 | — |
-| TRUMP VICTORY | $25,000 | — |
-| FOLLOW THE NORTH STAR FUND | $15,000 | — |
-| TEXANS FOR SENATOR JOHN CORNYN INC. | $14,000 | REP |
-| ALAN LOWENTHAL FOR CONGRESS | $11,000 | DEM |
-| DEMOCRATIC PARTY OF ILLINOIS | $10,000 | DEM |
-| MIDDLE CLASS PAC | $10,000 | — |
+**FEC contribution record:** 212 contributions totaling $454.2K
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Fraternal%20Order%20of%20Police) (Tier 1)
-<!-- auto:fec-donor end -->
+| Top Recipient | Amount |
+|---|---|
+| GREEN MOUNTAIN PAC | $72.2K |
+| AMERIPAC: THE FUND FOR A GREATER AMERICA | $32.5K |
+| HOYER FOR CONGRESS | $32.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

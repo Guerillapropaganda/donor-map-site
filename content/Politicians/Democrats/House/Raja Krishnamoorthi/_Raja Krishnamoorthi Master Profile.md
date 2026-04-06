@@ -127,11 +127,11 @@ The Stratton victory showed that institutional Democratic support (governor's ba
 - [FEC: Krishnamoorthi campaign finance](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
 - [Chicago Sun-Times: Krishnamoorthi rails against Trump but takes money from MAGA donors](https://chicago.suntimes.com/the-watchdogs/2025/12/08/raja-krishnamoorthi-senate-campaign-donors-trump-allies-maga-money) (Tier 2)
 - [Chicago Tribune: Krishnamoorthi raises millions for Senate bid as fundraising draws scrutiny](https://www.chicagotribune.com/2026/03/10/raja-krishnamoorthi-fundraising-illinois-senate/) (Tier 2)
-- [Crain's Chicago Business: How Krishnamoorthi became the money leader in the Senate sweepstakes](https://www.chicagobusiness.com/politics/krishnamoorthi-has-19m-senate-bid-more-rivals-combined) (Tier 2)
+- [Crain's Chicago Business: How Krishnamoorthi became the money leader in the Senate sweepstakes](https://www.chicagobusiness.com/politics/krishnamoorthi-has-19m-senate-bid-more-rivals-combined/) (Tier 2)
 - [Chicago Sun-Times: Stratton defeats Krishnamoorthi in Senate primary](https://chicago.suntimes.com/elections/2026/03/17/us-senate-illinois-primary-results) (Tier 2)
 - [American Prospect: Illinois Senate primary features millions in outside spending](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (Tier 2)
 - [Ballotpedia: Raja Krishnamoorthi](https://ballotpedia.org/Raja_Krishnamoorthi) (Tier 3)
-- [FollowTheMoney: Raja Krishnamoorthi](https://www.followthemoney.org/entity-details?eid=6265333&default=candidate) (Tier 1)
+- [FollowTheMoney: Raja Krishnamoorthi](https://www.followthemoney.org/tools/election-overview?eid=6265333&default=candidate) (Tier 1)
 
 ---
 

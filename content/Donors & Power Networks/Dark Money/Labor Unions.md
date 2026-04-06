@@ -50,7 +50,18 @@ Labor unions are the largest institutional donor bloc in the Democratic coalitio
 
 ### Sources
 
-- [OpenSecrets: Labor sector contributions](https://www.opensecrets.org/industries/indus?ind=P) (Tier 1)
+- [OpenSecrets: Labor sector contributions](https://www.opensecrets.org/industries?ind=P) (Tier 1)
 - [Ballotpedia: Labor union political spending](https://ballotpedia.org/Labor_Unions) (Tier 3)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 1 contributions totaling $500
+
+| Top Recipient | Amount |
+|---|---|
+| FRANK KRATOVIL FOR CONGRESS | $500 |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

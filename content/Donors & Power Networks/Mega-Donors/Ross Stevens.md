@@ -111,9 +111,9 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 
 ### Sources
 
-- [FEC: Ross Stevens individual contributions, 2025-2026 cycle](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ross+stevens&two_year_transaction_period=2026&min_amount=1000) (Tier 1)
-- [FEC: Ross Stevens individual contributions, 2023-2024 cycle](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ross+stevens&two_year_transaction_period=2024&min_amount=1000) (Tier 1)
-- [FEC: Ross Stevens individual contributions, 2021-2022 cycle](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ross+stevens&two_year_transaction_period=2022&min_amount=1000) (Tier 1)
+- [FEC: Ross Stevens individual contributions, 2025-2026 cycle](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ross+stevens&two_year_transaction_period=2026&min_amount=1000) (Tier 1)
+- [FEC: Ross Stevens individual contributions, 2023-2024 cycle](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ross+stevens&two_year_transaction_period=2024&min_amount=1000) (Tier 1)
+- [FEC: Ross Stevens individual contributions, 2021-2022 cycle](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ross+stevens&two_year_transaction_period=2022&min_amount=1000) (Tier 1)
 - [FEC: V-PAC Victors Not Victims committee overview](https://www.fec.gov/data/committee/C00892919/) (Tier 1)
 - [FEC: Bitcoin Freedom PAC committee overview](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1)
 - [NBC News: Vivek Ramaswamy's allies tout Trump endorsement in $3 million Ohio ad blitz](https://www.nbcnews.com/politics/2026-election/vivek-ramaswamys-allies-tout-trump-endorsement-3-million-ohio-ad-blitz-rcna195681) (Tier 2)
@@ -124,3 +124,18 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 - [CoinLineup: U.S. Bank resumes cryptocurrency custody with NYDIG](https://coinlineup.com/us-bank-resumes-crypto-custody-with-nydig/) (Tier 3)
 
 content-readiness:: developed
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 207 contributions totaling $5.6M
+
+**ActBlue/WinRed conduit duplicates filtered:** 293
+
+| Top Recipient | Amount |
+|---|---|
+| V-PAC: VICTORS, NOT VICTIMS | $5.0M |
+| CLUB FOR GROWTH ACTION | $500.0K |
+| BITCOIN FREEDOM PAC | $100.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

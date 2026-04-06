@@ -44,3 +44,17 @@ Centene's structural function in American healthcare is converting public health
 - [Ballotpedia: Healthcare industry lobbying](https://ballotpedia.org/Centene_Corporation) (Tier 3)
 
 content-readiness:: ready
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.5M
+
+| Top Recipient | Amount |
+|---|---|
+| SAVE MISSOURI VALUES | $100.0K |
+| MAGELLAN HEALTH, INC. EMPLOYEE COMMITTEE FOR GOOD GOVERNMENT | $80.0K |
+| NRCC | $75.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
