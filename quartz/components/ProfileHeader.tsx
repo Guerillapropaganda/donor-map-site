@@ -22,6 +22,17 @@ const ProfileHeader: QuartzComponent = ({
   const readinessLabel = readiness.replace(/-/g, " ").toUpperCase()
   const isReady = readiness === "publication-ready" || readiness === "ready"
 
+  // Party for politicians
+  const party = String(fm?.party ?? "")
+  const partyKey = party.toLowerCase().startsWith("democrat")
+    ? "D"
+    : party.toLowerCase().startsWith("republican")
+    ? "R"
+    : party.toLowerCase().startsWith("independent")
+    ? "I"
+    : ""
+  const partyLabel = partyKey === "D" ? "Democrat" : partyKey === "R" ? "Republican" : partyKey === "I" ? "Independent" : ""
+
   // Type determines color
   const typeClass = type === "politician" ? "ph-type-politician"
     : type === "donor" ? "ph-type-donor"
@@ -34,6 +45,9 @@ const ProfileHeader: QuartzComponent = ({
   return (
     <div class={classNames(displayClass, "ph-header")} data-profile-type={type}>
       <div class="ph-badges">
+        {partyKey && (
+          <span class={`ph-party-dot ph-party-${partyKey.toLowerCase()}`} title={partyLabel}></span>
+        )}
         <span class={`ph-badge ${typeClass}`}>{typeLabel.toUpperCase()}</span>
         {tierLabel && <span class="ph-badge ph-tier">{tierLabel}</span>}
         <span class={`ph-badge ph-readiness ${isReady ? "ph-ready" : "ph-draft"}`}>

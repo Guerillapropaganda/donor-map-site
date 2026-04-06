@@ -85,40 +85,40 @@ function buildFeaturedPoliticians(allFiles: QuartzPluginData[]): FeaturedItem[] 
 }
 
 const featuredDonors: FeaturedItem[] = [
-  { name: "Goldman Sachs", detail: "\u{1F3E6}", search: "wall-street/goldman-sachs" },
-  { name: "AIPAC", detail: "\u{1F54E}", search: "aipac---american-israel-public-affairs-committee" },
-  { name: "Koch Network", detail: "\u{1F3ED}", search: "koch-network---charles-koch" },
-  { name: "Lockheed Martin", detail: "\u{2708}", search: "defense--and--intelligence/lockheed-martin" },
+  { name: "Goldman Sachs", detail: "\u{1F3E6}", search: "Wall-Street/Goldman-Sachs" },
+  { name: "AIPAC", detail: "\u{1F54E}", search: "Israel-Lobby/AIPAC---American-Israel-Public-Affairs-Committee" },
+  { name: "Koch Network", detail: "\u{1F3ED}", search: "Mega-Donors/Koch-Network---Charles-Koch" },
+  { name: "Lockheed Martin", detail: "\u{2708}", search: "Defense--and--Intelligence/Lockheed-Martin" },
 ]
 
 const featuredStories: FeaturedItem[] = [
-  { name: "Drug Pricing Theater", detail: "\u{1F48A}", search: "contradiction-03---pharma-kills-drug-negotiation-from-both-sides" },
-  { name: "Defense Budget Bloat", detail: "\u{1F4A3}", search: "contradiction-04---lockheed-martin-buys-defense-hawks-in-both-parties" },
-  { name: "Carried Interest Scam", detail: "\u{1F4B0}", search: "the-carried-interest-loophole---30-years-of-survival" },
+  { name: "Drug Pricing Theater", detail: "\u{1F48A}", search: "Contradiction-Deep-Dives/Contradiction-03---PhRMA-Kills-Drug-Negotiation-From-Both-Sides" },
+  { name: "Defense Budget Bloat", detail: "\u{1F4A3}", search: "Contradiction-Deep-Dives/Contradiction-04---Lockheed-Martin-Buys-Defense-Hawks-in-Both-Parties" },
+  { name: "Carried Interest Scam", detail: "\u{1F4B0}", search: "The-Carried-Interest-Loophole---30-Years-of-Survival" },
 ]
 
 const featuredMedia: FeaturedItem[] = [
-  { name: "Fox News", detail: "\u{1F4FA}", search: "fox-news" },
-  { name: "MSNBC", detail: "\u{1F4E1}", search: "msnbc" },
-  { name: "Ben Shapiro", detail: "\u{1F399}", search: "ben-shapiro" },
-  { name: "Pod Save America", detail: "\u{1F3A7}", search: "pod-save-america" },
-  { name: "Joe Rogan", detail: "\u{1F3A4}", search: "joe-rogan" },
+  { name: "Fox News", detail: "\u{1F4FA}", search: "Fox-News---Murdoch-Media-Empire" },
+  { name: "Ben Shapiro", detail: "\u{1F399}", search: "Right/Ben-Shapiro" },
+  { name: "Pod Save America", detail: "\u{1F3A7}", search: "Left/Pod-Save-America" },
+  { name: "Joe Rogan", detail: "\u{1F3A4}", search: "Centrist/Joe-Rogan" },
+  { name: "Daily Wire", detail: "\u{1F4F0}", search: "Right/Daily-Wire" },
 ]
 
 const featuredThinkTanks: FeaturedItem[] = [
-  { name: "Heritage Foundation", detail: "\u{1F3DB}", search: "heritage-foundation" },
-  { name: "Brookings Institution", detail: "\u{1F4DA}", search: "brookings-institution" },
-  { name: "ALEC", detail: "\u{2696}", search: "alec" },
-  { name: "Cato Institute", detail: "\u{1F5FD}", search: "cato-institute" },
-  { name: "Center for American Progress", detail: "\u{1F4CB}", search: "center-for-american-progress" },
+  { name: "Heritage Foundation", detail: "\u{1F3DB}", search: "Conservative/Heritage-Foundation" },
+  { name: "Brookings Institution", detail: "\u{1F4DA}", search: "Centrist/Brookings-Institution" },
+  { name: "ALEC", detail: "\u{2696}", search: "ALEC---American-Legislative-Exchange-Council" },
+  { name: "Cato Institute", detail: "\u{1F5FD}", search: "Conservative/Cato-Institute" },
+  { name: "Center for American Progress", detail: "\u{1F4CB}", search: "Liberal/Center-for-American-Progress" },
 ]
 
 const featuredKStreet: FeaturedItem[] = [
-  { name: "Akin Gump", detail: "\u{1F4BC}", search: "akin-gump" },
-  { name: "Squire Patton Boggs", detail: "\u{1F4BC}", search: "squire-patton-boggs" },
-  { name: "Brownstein Hyatt", detail: "\u{1F4BC}", search: "brownstein-hyatt" },
-  { name: "BGR Group", detail: "\u{1F4BC}", search: "bgr-group" },
-  { name: "Holland & Knight", detail: "\u{1F4BC}", search: "holland--and--knight" },
+  { name: "Akin Gump", detail: "\u{1F4BC}", search: "Akin-Gump-Strauss-Hauer--and--Feld" },
+  { name: "Squire Patton Boggs", detail: "\u{1F4BC}", search: "Squire-Patton-Boggs" },
+  { name: "Brownstein Hyatt", detail: "\u{1F4BC}", search: "Brownstein-Hyatt-Farber-Schreck" },
+  { name: "BGR Group", detail: "\u{1F4BC}", search: "BGR-Group" },
+  { name: "Holland & Knight", detail: "\u{1F4BC}", search: "Holland--and--Knight" },
 ]
 
 // ─── Navigation tree structure ──────────────────────────────────────

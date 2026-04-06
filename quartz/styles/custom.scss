@@ -1706,6 +1706,16 @@ body:has(.lp-landing) .breadcrumb-container {
   flex-wrap: wrap;
 }
 
+.ph-party-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.ph-party-d { background: #5b8dce; box-shadow: 0 0 8px rgba(91, 141, 206, 0.5); }
+.ph-party-r { background: #ef4444; box-shadow: 0 0 8px rgba(239, 68, 68, 0.5); }
+.ph-party-i { background: #8a8a96; box-shadow: 0 0 8px rgba(138, 138, 150, 0.4); }
+
 .ph-badge {
   font-family: 'Space Mono', monospace;
   font-size: 9px;

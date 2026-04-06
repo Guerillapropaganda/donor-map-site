@@ -9,10 +9,12 @@ const ProfileWidget: QuartzComponent = ({
   displayClass,
 }: QuartzComponentProps) => {
   const slug = String(fileData.slug ?? "").toLowerCase()
-  if (!slug.includes("master-profile")) return null
-
   const fm = fileData.frontmatter
   if (!fm) return null
+
+  const fmType = String(fm.type ?? "").toLowerCase()
+  const isProfile = slug.includes("master-profile") || fmType === "politician" || fmType === "donor" || fmType === "corporation"
+  if (!isProfile) return null
 
   const baseUrl = cfg.baseUrl ?? ""
   const slashIdx = baseUrl.indexOf("/")
