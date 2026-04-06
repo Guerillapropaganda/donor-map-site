@@ -173,7 +173,7 @@ The higher education industry gave Biden campaign contributions (university trus
 
 - [Federal Reserve: Report on Household Debt including student loans](https://www.federalreserve.gov/releases/g19/default.htm) (Tier 1)
 - [CNBC: Biden v. Nebraska Supreme Court decision analysis](https://www.cnbc.com/2023/06/30/supreme-court-blocks-biden-student-loan-forgiveness-plan.html) (Tier 2)
-- [OpenSecrets: Higher education contributions to Biden 2020](https://www.opensecrets.org/industries?Ind=W) (Tier 1)
+- [OpenSecrets: Higher education contributions to Biden 2020](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Department of Education: SAVE Plan enrollment and impact](https://studentaid.gov/manage-loans/repayment/plans/income-driven/save) (Tier 1)
 - [Education Trust: Analysis of student debt by income and race](https://edtrust.org/event/student-debt-crisis-and-its-impact-on-black-women/) (Tier 2)
 - [ProPublica: After Years of Troubles, Largest Student-Loan Servicers Get Stepped-up Oversight](https://www.propublica.org/article/after-years-of-troubles-largest-student-loan-servicers-get-stepped-up-overs) (Tier 2)

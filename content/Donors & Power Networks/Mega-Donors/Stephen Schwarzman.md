@@ -142,7 +142,7 @@ The deeper pattern: Schwarzman positions himself as a statesman (Yale scholar, m
 - [Tax Foundation: "The Carried Interest Tax Debate"](https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [Institute on Taxation and Economic Policy: "Private Equity Taxation Estimates"](https://itep.org/private-equity-tax-loophole/) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [ACCE Institute: Helter Shelter — Housing system analysis](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2)
-- [OpenSecrets: Federal lobbying — Real estate industry 2024](https://www.opensecrets.org/industries?cycle=All&ind=F10) (Tier 1)
+- [OpenSecrets: Federal lobbying — Real estate industry 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Politico: "Opportunity Zones — Tim Scott and Cory Booker bipartisan push"](https://www.politico.com/agenda/story/2018/11/20/tim-scott-opportunity-zones-000793) (Tier 2) (UNVERIFIED)
 
 ---

@@ -64,7 +64,7 @@ A pro-Israel senator is valuable. A pro-Israel Majority Leader is irreplaceable.
 
 ### Sources
 
-- [OpenSecrets: Pro-Israel Recipients](https://www.opensecrets.org/industries?cycle=All&ind=Q05&mem=Y&recipdetail=S) (Tier 1)
+- [OpenSecrets: Pro-Israel Recipients](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Track AIPAC: New York's Congressional Delegation](https://www.trackaipac.com/states/newyork) (Tier 1)
 - [Factually: What total contributions has AIPAC PAC given to Chuck Schumer](https://factually.co/fact-checks/politics/aipac-pac-contributions-chuck-schumer-by-year-7106d4) (Tier 2)
 - [Read Sludge: AIPAC-Funded Dems Propose Keeping Congress in the Dark on Israel Aid](https://readsludge.com/2024/02/05/aipac-funded-dems-propose-keeping-congress-in-the-dark-on-israel-aid/) (Tier 2)

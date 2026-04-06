@@ -76,7 +76,7 @@ Florida's special election for a two-year Senate term (versus six-year terms for
 - [Cory Mills and Republican primary challengers in Florida race | Politico](https://www.politico.com/news/florida-senate-special-election-2026) (Tier 2)
 - [Sugar industry political spending in Florida | FollowTheMoney](https://www.followthemoney.org/Security/login?BackURL=/entity/c/1087342) (Tier 1)
 - [U.S. Sugar federal subsidies and lobbying 2000-2026 | Environmental Working Group](https://www.ewg.org/news-insights/news/sugar-subsidies-analysis) *(source unavailable)* (Tier 2)
-- [Real estate developer contributions to Florida politicians | OpenSecrets](https://www.opensecrets.org/industries?Ind=F10) (Tier 1)
+- [Real estate developer contributions to Florida politicians | OpenSecrets](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [DeSantis donor network coordination through official channels | Tampa Bay Times](https://www.tampabay.com/news/florida-politics/2026/03/desantis-donor-network-moody-campaign) *(source unavailable)* (Tier 2)
 - [Florida homeowners insurance crisis and rate increases 2023-2025 | Florida Office of Insurance Regulation Reports](https://www.floir.com/reports) *(source unavailable)* (Tier 1)
 - [Insurance industry political spending during hurricane season | CAP Watch](https://web.archive.org/web/2023/https:/www.capwatch.org/florida-insurance-spending) (Tier 3)

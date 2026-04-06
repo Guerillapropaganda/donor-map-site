@@ -30,6 +30,6 @@ See [[Financial Services Donors]] and [[Securities & Investment Industry]] for c
 
 ### Sources
 
-- [OpenSecrets: Finance sector PAC contributions](https://www.opensecrets.org/industries?ind=F) (Tier 1)
+- [OpenSecrets: Finance sector PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 content-readiness:: ready

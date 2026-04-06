@@ -336,8 +336,8 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 - [OpenSecrets: UAW V-CAP PAC profile 2016](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2016) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: UAW lobbying profile — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
 - [OpenSecrets: 2024 Outside Spending by Group](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Labor Sector Totals 2024](https://www.opensecrets.org/industries?cycle=2024&ind=P) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: FIRE Sector Totals 2024](https://www.opensecrets.org/industries?cycle=2024&ind=F) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Labor Sector Totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: FIRE Sector Totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED)
 - [FEC: PAC Table 4b 2024](https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/pac/PAC4b_2024_24m.xlsx) (Tier 1)
 
 ### DOJ & Law Enforcement (Tier 1):

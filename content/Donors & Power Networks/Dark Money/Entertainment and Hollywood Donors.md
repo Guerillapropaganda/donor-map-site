@@ -137,7 +137,7 @@ The industry's structural function for the donor class: maintain Democratic cult
 
 ### Sources
 
-- [OpenSecrets: TV / Movies / Music industry summary](https://www.opensecrets.org/industries?ind=B02) (Tier 1)
+- [OpenSecrets: TV / Movies / Music industry summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [OpenSecrets: Katzenberg, Jeffrey — donor detail (2020 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20Katzenberg) (Tier 1)
 - [OpenSecrets: Saban, Haim — donor detail (2024 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Haim%20Saban) (Tier 1)
 - [OpenSecrets: Motion Picture Association lobbying profile](https://www.opensecrets.org/orgs/motion-picture-assn/summary?id=D000027729) (Tier 1)

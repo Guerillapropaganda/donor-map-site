@@ -122,9 +122,9 @@ The PMC study (1999-2018) documented that $4.7 billion in pharmaceutical lobbyin
 
 ### Sources
 
-- [OpenSecrets: Health Sector Summary](https://www.opensecrets.org/industries?ind=H) (Tier 1)
-- [OpenSecrets: Health Sector Total — 2024 contributions](https://www.opensecrets.org/industries?cycle=2024&ind=H) (Tier 1)
-- [OpenSecrets: Health Lobbying — 2024](https://www.opensecrets.org/industries?cycle=2024&ind=H) (Tier 1)
+- [OpenSecrets: Health Sector Summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [OpenSecrets: Health Sector Total — 2024 contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [OpenSecrets: Health Lobbying — 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [OpenSecrets: Pharmaceuticals/Health Products Lobbying Profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Big Pharma, insurers, hospitals team up to kill Medicare for All](https://www.opensecrets.org/news/2019/03/big-pharma-insurers-hospitals-team-up-to-kill-medicare-for-all/) (Tier 1)
 - [OpenSecrets: Federal lobbying set new record in 2024](https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/) (Tier 1)

@@ -71,7 +71,7 @@ OFT's endorsement pattern reveals the structural limitation: the union endorses 
 
 - [DOL: OFT LM-2 Annual Report — Statement B (Receipts and Disbursements)](https://olmsapps.dol.gov/query/orgReport.do?rptId=898218&rptForm=LM2Form) (Tier 1)
 - [OFT: 2022 Endorsements](https://www.oft-aft.org/user/login?destination=/news/oft-votes-endorsements-and-voter-information-2022-election) (Tier 3)
-- [OpenSecrets: Teachers Unions industry summary 2024](https://www.opensecrets.org/industries?ind=L1300) (Tier 1)
+- [OpenSecrets: Teachers Unions industry summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 
@@ -120,7 +120,7 @@ The deeper pattern: OFT represents workers who serve the public. The donor class
 ### Sources
 
 - [DOL: OFT LM-2 Annual Report (File 513-310), fiscal year ending 06/30/2024](https://olmsapps.dol.gov/query/orgReport.do?rptId=898218&rptForm=LM2Form) (Tier 1)
-- [OpenSecrets: Teachers Unions industry summary 2024](https://www.opensecrets.org/industries?ind=L1300) (Tier 1)
+- [OpenSecrets: Teachers Unions industry summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [OpenSecrets: American Federation of Teachers organizational profile](https://www.opensecrets.org/orgs/american-federation-of-teachers/summary?id=d000000083) (Tier 1)
 - [Ohio Capital Journal: Ohio spent more than a billion dollars on private school vouchers in fiscal year 2025](https://ohiocapitaljournal.com/2025/10/20/ohio-spent-more-than-a-billion-dollars-on-private-school-vouchers-in-fiscal-year-2025/) (Tier 2)
 - [Ohio Capital Journal: Education advocates say Ohio Issue 1 could significantly impact state lawmakers' priorities](https://ohiocapitaljournal.com/2024/10/10/education-advocates-say-ohio-issue-1-could-significantly-impact-state-lawmakers-priorities/) (Tier 2)

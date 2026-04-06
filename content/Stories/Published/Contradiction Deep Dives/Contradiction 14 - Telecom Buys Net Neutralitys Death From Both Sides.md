@@ -23,7 +23,7 @@ Net neutrality was not killed by ideology. It was killed by money flowing to bot
 The industry deliberately hedges its bets. AT&T gave 64.9% to Republicans in 2014 but 70.2% to Democrats in 2020. Comcast's PAC tilted Republican until 2022, when it flipped to 52.4% Democratic. In the 2016 cycle, Comcast gave to 360 House members (83%) and 52 senators; AT&T gave to 381 House members (88%) and all 91 senators who ran. At least 31 members of Congress owned Comcast shares and 50 owned Verizon shares in 2015. [OpenSecrets: AT&T Profile](https://www.opensecrets.org/orgs/at-t-inc/totals?id=d000000076) (Tier 1)
 
 > [!money]
-> Total telecom industry lobbying hit $94.8 million in 2018 — the year net neutrality was repealed — and rose to $117.6 million in 2023. [OpenSecrets: Telecom Industry Lobbying](https://www.opensecrets.org/industries?cycle=2024&ind=B09) (Tier 1)
+> Total telecom industry lobbying hit $94.8 million in 2018 — the year net neutrality was repealed — and rose to $117.6 million in 2023. [OpenSecrets: Telecom Industry Lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 
@@ -41,7 +41,7 @@ The industry deliberately hedges its bets. AT&T gave 64.9% to Republicans in 201
 | [[_Cathy McMorris Rodgers Master Profile|Cathy McMorris Rodgers]] | R-WA | $88,600 | E&C Chair |
 | [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] | D-NY | $88,826 | Minority Leader |
 
-[OpenSecrets: Telecom Industry](https://www.opensecrets.org/industries?ind=B09) (Tier 1)
+[OpenSecrets: Telecom Industry](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 
@@ -91,7 +91,7 @@ Democrats failed to confirm an FCC third commissioner for 29 months, leaving the
 
 The FCC voted 3-2 on party lines on December 14, 2017 to repeal net neutrality — led by Chairman Ajit Pai, former Verizon associate general counsel. [Ars Technica: FCC Votes to Allow Blocking and Throttling](https://arstechnica.com/tech-policy/2017/12/goodbye-net-neutrality-ajit-pais-fcc-votes-to-allow-blocking-and-throttling/) (Tier 2)
 
-[[_Mitch McConnell Master Profile|Mitch McConnell]] declared the Save the Internet Act "dead on arrival" in April 2019. [[_Roger Wicker Master Profile|Roger Wicker]] (R-MS, $93,700 from telecom in 2024) blocked Senate hearings as Commerce Chair. [[_Ted Cruz Master Profile|Ted Cruz]] ($147,602) called net neutrality "Obamacare for the Internet." [[_Cathy McMorris Rodgers Master Profile|Cathy McMorris Rodgers]] ($88,600 in 2024) led House Republican efforts opposing the Biden FCC's 2024 restoration. [OpenSecrets: Telecom Industry](https://www.opensecrets.org/industries?ind=B09) (Tier 1)
+[[_Mitch McConnell Master Profile|Mitch McConnell]] declared the Save the Internet Act "dead on arrival" in April 2019. [[_Roger Wicker Master Profile|Roger Wicker]] (R-MS, $93,700 from telecom in 2024) blocked Senate hearings as Commerce Chair. [[_Ted Cruz Master Profile|Ted Cruz]] ($147,602) called net neutrality "Obamacare for the Internet." [[_Cathy McMorris Rodgers Master Profile|Cathy McMorris Rodgers]] ($88,600 in 2024) led House Republican efforts opposing the Biden FCC's 2024 restoration. [OpenSecrets: Telecom Industry](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 On January 2, 2025, the 6th Circuit struck down Biden's restored net neutrality order, citing the Loper Bright decision. Trump's new FCC Chairman Brendan Carr — who co-authored Project 2025's FCC chapter — called it "a win." [CBS News: Trump FCC Brendan Carr](https://www.cbsnews.com/news/trump-fcc-brendan-carr-project-2025-what-to-know/) (Tier 2)
 
@@ -170,7 +170,7 @@ The telecom industry does not need Republicans to kill regulation and Democrats 
 
 ---
 
-- [OpenSecrets: Telecom Industry Lobbying](https://www.opensecrets.org/industries?cycle=2024&ind=B09) (Tier 1)
+- [OpenSecrets: Telecom Industry Lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [OpenSecrets: AT&T Profile](https://www.opensecrets.org/orgs/at-t-inc/totals?id=d000000076) (Tier 1)
 - [OpenSecrets: Comcast Profile](https://www.opensecrets.org/orgs/comcast-corp/totals?id=D000000461) (Tier 1)
 - [OpenSecrets: Verizon Profile](https://www.opensecrets.org/orgs/verizon-communications/totals?id=D000000079) (Tier 1)

@@ -155,12 +155,12 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 ### Sources
 
 - [OpenSecrets: Rep Josh Gottheimer Donor Profile](https://www.fec.gov/data/candidate/H6NJ05171/) (Tier 1)
-- [Wall Street PAC Contributions, 2020-2024 Cycle](https://www.opensecrets.org/industries?Ind=F) (Tier 1)
+- [Wall Street PAC Contributions, 2020-2024 Cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [OpenSecrets: Palantir Technologies political donations profile](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1)
 - [Problem Solvers Caucus Member Positions on IRA](https://www.democrats.org/problem-solvers-caucus) *(source unavailable)* (Tier 1)
-- [Pharmaceutical PAC Contributions to House Democrats, 2020-2024](https://www.opensecrets.org/industries?ind=H04) (Tier 1)
+- [Pharmaceutical PAC Contributions to House Democrats, 2020-2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [CNN: How allies of AI are ramping up their political donations for the midterms](https://www.cnn.com/2026/02/11/politics/palantir-midterms-artificial-intelligence-ai) (Tier 2)
-- [Tech PAC Contributions to Congress, 2020-2024](https://www.opensecrets.org/industries?Ind=B) (Tier 1)
+- [Tech PAC Contributions to Congress, 2020-2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 profile-status:: ready
 content-readiness:: ready

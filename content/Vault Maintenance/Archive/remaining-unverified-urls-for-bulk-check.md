@@ -328,11 +328,11 @@ https://lda.senate.gov/filings/public/filing/search/
 https://lda.senate.gov/filings/public/filing/search/
 https://lda.senate.gov/filings/public/filing/search/
 https://lda.senate.gov/filings/public/filing/search/
-https://www.opensecrets.org/industries/indus?cycle=2010&ind=E1210
-https://www.opensecrets.org/industries/indus?cycle=2012&ind=E1210
-https://www.opensecrets.org/industries/totals?cycle=2024&ind=F
-https://www.opensecrets.org/industries/totals?cycle=2024&ind=N07
-https://www.opensecrets.org/industries/totals?cycle=2024&ind=P
+https://www.fec.gov/data/receipts/?data_type=processed
+https://www.fec.gov/data/receipts/?data_type=processed
+https://www.fec.gov/data/receipts/?data_type=processed
+https://www.fec.gov/data/receipts/?data_type=processed
+https://www.fec.gov/data/receipts/?data_type=processed
 https://www.fec.gov/data/candidate/P00009795/
 https://www.fec.gov/data/candidate/P00009795/
 https://www.fec.gov/data/candidate/S0WV00090/

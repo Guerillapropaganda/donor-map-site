@@ -50,7 +50,7 @@ Labor unions are the largest institutional donor bloc in the Democratic coalitio
 
 ### Sources
 
-- [OpenSecrets: Labor sector contributions](https://www.opensecrets.org/industries?ind=P) (Tier 1)
+- [OpenSecrets: Labor sector contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Labor union political spending](https://ballotpedia.org/Labor_Unions) (Tier 3)
 
 content-readiness:: ready

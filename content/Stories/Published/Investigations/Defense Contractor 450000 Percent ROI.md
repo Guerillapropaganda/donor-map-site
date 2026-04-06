@@ -22,7 +22,7 @@ Over the past decade, military contractors gave $184 million in campaign contrib
 
 ### What We Know
 
-- **Donation totals:** Over 2014-2024, the five largest defense contractors (Northrop Grumman, [[Lockheed Martin|Lockheed Martin]], Raytheon, General Dynamics, [[Boeing|Boeing]]) gave $184 million combined in campaign contributions and PAC spending. [OpenSecrets: Defense Contractor Spending Tracker](https://www.opensecrets.org/industries/contrib?cycle=2024&ind=D) (Tier 1) documents all FEC filings.
+- **Donation totals:** Over 2014-2024, the five largest defense contractors (Northrop Grumman, [[Lockheed Martin|Lockheed Martin]], Raytheon, General Dynamics, [[Boeing|Boeing]]) gave $184 million combined in campaign contributions and PAC spending. [OpenSecrets: Defense Contractor Spending Tracker](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) documents all FEC filings.
 - **NDAA authorization:** Congress approved cumulative NDAA authorizations totaling $900 billion+ over the same period. [Congressional Budget Office: National Defense Authorizations 2014-2024](https://www.cbo.gov/topics/defense-and-national-security) (Tier 1) provides the breakdown.
 - **[[_Ken Calvert Master Profile|Ken Calvert]] case:** Rep. [[_Ken Calvert Master Profile|Ken Calvert]] (R-CA-42), chair of the House Appropriations Subcommittee on Defense (which writes the NDAA), received $1.7 million from defense PACs and contractors between 2014-2024 while chairing the subcommittee that determines their budgets. [Public Citizen: "Defense Contractor Money and Congressional Power"](https://www.citizen.org/article/military-industrial-complex-contributions-report/) (Tier 2) analyzed the conflict.
 - **[[_Mike Rogers Master Profile|Mike Rogers]] example:** Rep. [[_Mike Rogers Master Profile|Mike Rogers]] (R-AL-3), chair of the House Armed Services Committee, was the top House recipient of defense PAC money ($2.1M+ career), voting consistently for contractor interests while shaping military policy. [Responsible Statecraft: "The Rogers Rule: How Defense Chairs Are Paid to Vote"](https://responsiblestatecraft.org/?q=Defense%20Contractor%20450000%20Percent%20ROI) (Tier 2) documented the pattern.
@@ -84,7 +84,7 @@ The class dynamic: Contractor executives use access wealth (direct donations, re
 
 ### Sources
 
-- [OpenSecrets: Defense Contractor Campaign Spending 2014-2024](https://www.opensecrets.org/industries/contrib?cycle=2024&ind=D) (Tier 1)
+- [OpenSecrets: Defense Contractor Campaign Spending 2014-2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Congressional Budget Office: National Defense Authorization Appropriations](https://www.cbo.gov/publication/57950) (Tier 1)
 - [Public Citizen: "Defense Contractor Donations and Congressional Power"](https://www.citizen.org/article/military-industrial-complex-contributions-report/) (Tier 2)
 - [Responsible Statecraft: "The Defense Committee Chair and Contractor Capture"](https://responsiblestatecraft.org/military-industrial-complex/) (Tier 2)

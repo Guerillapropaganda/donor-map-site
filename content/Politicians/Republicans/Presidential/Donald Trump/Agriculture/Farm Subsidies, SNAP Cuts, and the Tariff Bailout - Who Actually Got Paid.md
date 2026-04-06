@@ -132,7 +132,7 @@ Iowa farmers received approximately $893 million in Farm Bureau Association prog
 - [EWG. USDA Bailout Goes to Biggest Richest Farmers](https://www.ewg.org/news-insights/news/usda-bailout-impact-trumps-tariffs-goes-biggest-richest-farmers) (Tier 2)
 - [Center on Budget and Policy Priorities. Republican SNAP Proposals](https://www.cbpp.org/research/food-assistance/republican-snap-proposals-could-take-food-away-from-millions-of-low-income) (Tier 2)
 - [NPR Illinois. How Meatpacking Industry Skirted COVID Safety with White House Help (August 2022)](https://www.nprillinois.org/2022-08-11/how-the-meatpacking-industry-skirted-covid-safety-regulations-with-the-help-of-the-white-house/) (Tier 2)
-- [OpenSecrets. Agribusiness Sector Summary 2024](https://www.opensecrets.org/industries?cycle=2024&ind=A) (Tier 1)
+- [OpenSecrets. Agribusiness Sector Summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [USDA. Farm Bill Overview](https://www.usda.gov/farming-and-ranching/farm-bill) (Tier 1)
 - [Food Safety News. Trump Aided by RFK Jr. Dismantling Food Safety Network (September 2025)](https://www.foodsafetynews.com/2025/09/trump-aided-by-rfk-jr-is-dismantling-the-u-s-food-safety-network/) (Tier 2)
 

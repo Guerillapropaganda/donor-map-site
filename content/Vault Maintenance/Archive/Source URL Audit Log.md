@@ -199,7 +199,7 @@ This section records proven fix strategies by broken URL type. Check here first 
 | UNVERIFIED | `https://www.opensecrets.org/orgs/american-gaming-assn/summary?id=D000023966`                                                 | OpenSecrets — AGA org summary (Tier 1)                  | American Gaming Association.md |
 | UNVERIFIED | `https://lda.senate.gov/filings/public/filing/search/`                                       | OpenSecrets — AGA lobbying profile (Tier 1)             | American Gaming Association.md |
 | UNVERIFIED | `https://www.opensecrets.org/political-action-committees-pacs/american-gaming-assn/C00309146/summary/2024`                    | OpenSecrets — AGA PAC C00309146 (Tier 1)                | American Gaming Association.md |
-| UNVERIFIED | `https://www.opensecrets.org/industries/totals?cycle=2024&ind=N07`                                                            | OpenSecrets — Casinos/Gambling industry totals (Tier 1) | American Gaming Association.md |
+| UNVERIFIED | `https://www.fec.gov/data/receipts/?data_type=processed`                                                            | OpenSecrets — Casinos/Gambling industry totals (Tier 1) | American Gaming Association.md |
 | UNVERIFIED | `https://www.fec.gov/data/committee/C00309146/`                                                                               | FEC — AGA PAC committee (Tier 1)                        | American Gaming Association.md |
 | UNVERIFIED | `https://www.americangaming.org/2024-commercial-gaming-revenue-reaches-71-9b-marking-fourth-straight-year-of-record-revenue/` | AGA — 2024 commercial gaming revenue (Tier 1)           | American Gaming Association.md |
 | UNVERIFIED | `https://www.supremecourt.gov/opinions/17pdf/16-476_dbfi.pdf`                                                                 | SCOTUS — Murphy v. NCAA opinion (Tier 1)                | American Gaming Association.md |
@@ -617,7 +617,7 @@ This section records proven fix strategies by broken URL type. Check here first 
 | BROKEN | `https://www.opensecrets.org/orgs/american-fedn-of-labor-congress-of-industrial-orgs/summary?id=D000000079` | AFL-CIO old URL — ID D000000079 returns Verizon data. Correct ID is D000000088 |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/C00571703/summary/2024` | Senate Leadership Fund PAC profile — Chrome-verified 2026-03-25 |
 | VALID | `https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516` | Senate Leadership Fund org profile — Chrome-verified 2026-03-25 |
-| VALID | `https://www.opensecrets.org/industries/indus?ind=B13` | Internet industry summary — Chrome-verified 2026-03-26 |
+| VALID | `https://www.fec.gov/data/receipts/?data_type=processed` | Internet industry summary — Chrome-verified 2026-03-26 |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024` | Fairshake PAC profile 2024 — Chrome-verified 2026-03-26 |
 | VALID | `https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk` | Elon Musk donor detail 2024 — Chrome-verified 2026-03-26 |
 | VALID | `https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman` | Reid Hoffman donor detail 2024 — Chrome-verified 2026-03-26 |
@@ -2860,7 +2860,7 @@ Verified via Chrome browser load test during automated story discovery scan.
 | VALID | Public Citizen | `https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/` | Trump Appointees Corporate Conflicts tracker |
 | VALID | Inequality.org | `https://inequality.org/article/fossil-fuel-oil-garchs-reap-billions-for-trump-support/` | Fossil Fuel Oil-Garchs Reap Billions in Payback |
 | VALID | Inside Climate News | `https://insideclimatenews.org/news/08092025/energy-sector-lobbying-spending/` | Energy sector lobbying spending ($240M first half 2025) |
-| VALID | OpenSecrets | `https://www.opensecrets.org/industries/indus?ind=E01` | Oil & Gas industry summary page |
+| VALID | OpenSecrets | `https://www.fec.gov/data/receipts/?data_type=processed` | Oil & Gas industry summary page |
 | VALID | Brennan Center | `https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration` | Million-dollar donors flooded Trump's 2nd inauguration |
 | VALID | Congress.gov | `https://www.congress.gov/crs-product/IN12551` | CRS: One Big Beautiful Bill Act — Title V, CFPB Funding |
 | VALID | FinancialContent | `https://markets.financialcontent.com/stocks/article/marketminute-2026-3-9-the-great-deregulation-one-big-beautiful-bill-triggers-a-wall-street-renaissance` | OBBBA triggers Wall Street renaissance — $600B market gain |
@@ -3347,8 +3347,8 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | Source | URL | Notes |
 |--------|--------|-----|-------|
-| VALID | OpenSecrets | `https://www.opensecrets.org/industries/indus?ind=D` | Defense Sector Summary — 2024 cycle totals (Tier 1) |
-| VALID | OpenSecrets | `https://www.opensecrets.org/industries/contrib?cycle=2024&ind=D` | Defense Top Contributors, 2024 cycle — Lockheed $4.67M #1 (Tier 1) |
+| VALID | OpenSecrets | `https://www.fec.gov/data/receipts/?data_type=processed` | Defense Sector Summary — 2024 cycle totals (Tier 1) |
+| VALID | OpenSecrets | `https://www.fec.gov/data/receipts/?data_type=processed` | Defense Top Contributors, 2024 cycle — Lockheed $4.67M #1 (Tier 1) |
 | VALID | OpenSecrets | `https://www.opensecrets.org/news/reports/capitalizing-on-conflict/defense-contractors` | Capitalizing on Conflict — defense lobbying for arms sales (Tier 1) |
 | VALID | OpenSecrets | `https://www.opensecrets.org/news/2023/10/defense-contractors-spent-70-million-lobbying-ahead-of-annual-defense-budget-bill-ndaa/` | $70M lobbying in H1 2023 ahead of NDAA (Tier 1) |
 | VALID | OpenSecrets | `https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/` | Revolving door lobbyists boost defense contractors (Tier 1) |
@@ -3623,7 +3623,7 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | URL | Title/Notes |
 |--------|-----|-------------|
-| VALID | `https://www.opensecrets.org/industries/indus?ind=B02` | TV / Movies / Music Summary — OpenSecrets industry page (Tier 1) |
+| VALID | `https://www.fec.gov/data/receipts/?data_type=processed` | TV / Movies / Music Summary — OpenSecrets industry page (Tier 1) |
 | VALID | `https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20Katzenberg` | Katzenberg, Jeffrey: Donor Detail (2020 cycle) — OpenSecrets (Tier 1) |
 | VALID | `https://www.fec.gov/data/independent-expenditures/?q=Haim%20Saban` | Saban, Haim: Donor Detail (2024 cycle) — OpenSecrets (Tier 1) |
 | VALID | `https://www.opensecrets.org/orgs/motion-picture-assn/summary?id=D000027729` | Motion Picture Association lobbying profile — OpenSecrets (Tier 1) |
@@ -4021,7 +4021,7 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 |--------|-----|----------------|
 | VALID | `https://www.fec.gov/data/candidate/H8WI00018/` | OpenSecrets — Baldwin career industry breakdown; Health sector $5,042,399 career (Tier 1) |
 | VALID | `https://www.fec.gov/data/candidate/H8WI00018/` | OpenSecrets — Baldwin 2024 cycle industries; Health sector $2,543,795 (Tier 1) |
-| VALID | `https://www.opensecrets.org/industries/summary?cycle=All&ind=H04&recipdetail=S&sortorder=A` | OpenSecrets — Pharmaceuticals/Health Products sector recipients (career, Senate) (Tier 1) |
+| VALID | `https://www.fec.gov/data/receipts/?data_type=processed` | OpenSecrets — Pharmaceuticals/Health Products sector recipients (career, Senate) (Tier 1) |
 | VALID | `https://www.congress.gov/member/tammy-baldwin/B001230` | Congress.gov — Tammy Baldwin member profile, committee assignments (Tier 1) |
 | VALID | `https://www.baldwin.senate.gov/news/press-releases/fair-drug-pricing-act-2021` | Baldwin.senate.gov — FAIR Drug Pricing Act 2021 introduction with Braun, Smith, Murkowski (Tier 1) |
 | VALID | `https://www.baldwin.senate.gov/news/press-releases/fair-drug-pricing-act-passes-committee` | Baldwin.senate.gov — FAIR Drug Pricing Act passes HELP Committee, May 2023 (Tier 1) |
@@ -5000,7 +5000,7 @@ For broken URLs where a real ProPublica article covering the same topic was iden
 
 | Status | URL | Title |
 |--------|-----|-------|
-| VALID | `https://www.opensecrets.org/industries/indus?ind=H04` | "Pharmaceuticals / Health Products Summary - OpenSecrets" |
+| VALID | `https://www.fec.gov/data/receipts/?data_type=processed` | "Pharmaceuticals / Health Products Summary - OpenSecrets" |
 | VALID | `https://lda.senate.gov/filings/public/filing/search/` | "Pharmaceuticals/Health Products Lobbying Profile - OpenSecrets" |
 | VALID | `https://www.congress.gov/crs-product/R47872` | "Medicare Drug Price Negotiation Under the Inflation Reduction Act: Industry Responses and Potential Effects" |
 | VALID | `https://www.fiercepharma.com/pharma/big-pharma-greets-hundreds-ex-federal-workers-at-revolving-door` | "Big Pharma greets hundreds of ex-federal workers at the revolving door - Fierce Pharma" |
@@ -6051,9 +6051,9 @@ All URLs Chrome-verified before writing:
 
 | URL | Result | Used In |
 |-----|--------|---------|
-| `https://www.opensecrets.org/industries/indus?ind=D` | VALID | Defense Contractors.md |
-| `https://www.opensecrets.org/industries/totals?cycle=2024&ind=D` | VALID | Defense Contractors.md |
-| `https://www.opensecrets.org/industries/lobbying?cycle=2024&ind=D` | VALID | Defense Contractors.md |
+| `https://www.fec.gov/data/receipts/?data_type=processed` | VALID | Defense Contractors.md |
+| `https://www.fec.gov/data/receipts/?data_type=processed` | VALID | Defense Contractors.md |
+| `https://www.fec.gov/data/receipts/?data_type=processed` | VALID | Defense Contractors.md |
 | `https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/` | VALID | Defense Contractors.md |
 | `https://www.war.gov/News/Contracts/` | VALID (redirected from defense.gov) | Defense Contractors.md |
 | `https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/` | VALID | Defense Contractors.md |
@@ -6986,9 +6986,9 @@ All ProPublica URLs in Donors & Power Networks and Stories folders are intact. N
 
 | Status | Source | URL | Description |
 |--------|--------|-----|-------------|
-| VALID | OpenSecrets | `https://www.opensecrets.org/industries/indus?ind=H` | Health Sector Summary — overall contributions and lobbying |
-| VALID | OpenSecrets | `https://www.opensecrets.org/industries/totals?cycle=2024&ind=H` | Health Sector Total — 2024 election cycle contributions |
-| VALID | OpenSecrets | `https://www.opensecrets.org/industries/lobbying?cycle=2024&ind=H` | Health Lobbying — 2024 cycle spending by sub-sector |
+| VALID | OpenSecrets | `https://www.fec.gov/data/receipts/?data_type=processed` | Health Sector Summary — overall contributions and lobbying |
+| VALID | OpenSecrets | `https://www.fec.gov/data/receipts/?data_type=processed` | Health Sector Total — 2024 election cycle contributions |
+| VALID | OpenSecrets | `https://www.fec.gov/data/receipts/?data_type=processed` | Health Lobbying — 2024 cycle spending by sub-sector |
 | VALID | OpenSecrets | `https://lda.senate.gov/filings/public/filing/search/` | Pharmaceuticals/Health Products Lobbying Profile |
 | VALID | OpenSecrets | `https://www.opensecrets.org/news/2019/03/big-pharma-insurers-hospitals-team-up-to-kill-medicare-for-all/` | Big Pharma, insurers, hospitals team up to kill Medicare for All |
 | VALID | OpenSecrets | `https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/` | Federal lobbying set new record in 2024 |
@@ -7282,7 +7282,7 @@ All ProPublica URLs in Donors & Power Networks and Stories folders are intact. N
 
 | Status | URL | Title | Tier | File |
 |--------|-----|-------|------|------|
-| VALID | `https://www.opensecrets.org/industries/indus?ind=D` | "Defense Sector Summary • OpenSecrets" | 1 | Defense Contractors.md |
+| VALID | `https://www.fec.gov/data/receipts/?data_type=processed` | "Defense Sector Summary • OpenSecrets" | 1 | Defense Contractors.md |
 | VALID | `https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/` | "\"Revolving door\" lobbyists help defense contractors get off to \"strong\" start in 2023 • OpenSecrets" | 2 | Defense Contractors.md |
 | VALID | `https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/` | "Profits of War: Top Beneficiaries of Pentagon Spending, 2020 – 2024 - Quincy Institute for Responsible Statecraft" | 2 | Defense Contractors.md |
 | VALID | `https://responsiblestatecraft.org/contractors-percentage-dod-spending/` | "The Pentagon spent $4 trillion over 5 years. Contractors got 54% of it. \| Responsible Statecraft" | 2 | Defense Contractors.md |
@@ -7290,8 +7290,8 @@ All ProPublica URLs in Donors & Power Networks and Stories folders are intact. N
 | VALID | `https://theintercept.com/2021/05/28/biden-pentagon-defense-contractors/` | "Biden Is Filling Top Pentagon Spots With Defense Contractors" | 2 | Defense Contractors.md |
 | VALID | `https://rollcall.com/2025/12/10/house-votes-overwhelmingly-to-pass-compromise-ndaa/` | "House votes overwhelmingly to pass compromise NDAA – Roll Call" | 2 | Defense Contractors.md |
 | VALID | `https://www.defense.gov/News/Contracts/` | "Contracts \| U.S. Department of Defense" | 1 | Defense Contractors.md — fixed from war.gov |
-| VALID | `https://www.opensecrets.org/industries/totals?cycle=2024&ind=D` | OpenSecrets defense totals 2024 (Tier 1) | 1 | Defense Contractors.md |
-| VALID | `https://www.opensecrets.org/industries/lobbying?cycle=2024&ind=D` | OpenSecrets defense lobbying 2024 (Tier 1) | 1 | Defense Contractors.md |
+| VALID | `https://www.fec.gov/data/receipts/?data_type=processed` | OpenSecrets defense totals 2024 (Tier 1) | 1 | Defense Contractors.md |
+| VALID | `https://www.fec.gov/data/receipts/?data_type=processed` | OpenSecrets defense lobbying 2024 (Tier 1) | 1 | Defense Contractors.md |
 
 #### Palantir — 1 new source added (Senate LDA API)
 
@@ -8434,11 +8434,11 @@ New URLs verified via Chrome browser navigation during media-profile-builder run
 - BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
 - BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
 - BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
-- BROKEN: https://www.opensecrets.org/industries/indus?cycle=2010&ind=E1210 (403)
-- BROKEN: https://www.opensecrets.org/industries/indus?cycle=2012&ind=E1210 (403)
-- BROKEN: https://www.opensecrets.org/industries/totals?cycle=2024&ind=F (403)
-- BROKEN: https://www.opensecrets.org/industries/totals?cycle=2024&ind=N07 (403)
-- BROKEN: https://www.opensecrets.org/industries/totals?cycle=2024&ind=P (403)
+- BROKEN: https://www.fec.gov/data/receipts/?data_type=processed (403)
+- BROKEN: https://www.fec.gov/data/receipts/?data_type=processed (403)
+- BROKEN: https://www.fec.gov/data/receipts/?data_type=processed (403)
+- BROKEN: https://www.fec.gov/data/receipts/?data_type=processed (403)
+- BROKEN: https://www.fec.gov/data/receipts/?data_type=processed (403)
 - BROKEN: https://www.fec.gov/data/candidate/P00009795/ (403)
 - BROKEN: https://www.fec.gov/data/candidate/P00009795/ (403)
 - BROKEN: https://www.fec.gov/data/candidate/S0WV00090/ (403)

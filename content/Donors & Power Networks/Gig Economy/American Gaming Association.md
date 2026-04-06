@@ -180,7 +180,7 @@ The prediction market schism reveals the limits of trade association governance 
 - [OpenSecrets: American Gaming Association org summary](https://www.opensecrets.org/orgs/american-gaming-assn/summary?id=D000023966) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: AGA lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: AGA PAC profile C00309146](https://www.opensecrets.org/political-action-committees-pacs/american-gaming-assn/C00309146/summary/2024) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Casinos/Gambling industry totals](https://www.opensecrets.org/industries?cycle=2024&ind=N07) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Casinos/Gambling industry totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED)
 - [FEC: AGA PAC committee C00309146](https://www.fec.gov/data/committee/C00309146/) (Tier 1)
 - [AGA: 2024 Commercial Gaming Revenue press release](https://www.americangaming.org/2024-commercial-gaming-revenue-reaches-71-9b-marking-fourth-straight-year-of-record-revenue/) (Tier 1) (UNVERIFIED)
 - [Supreme Court: Murphy v. NCAA opinion (584 U.S. 453, 2018)](https://www.supremecourt.gov/opinions/17pdf/16-476_dbfi.pdf) (Tier 1)

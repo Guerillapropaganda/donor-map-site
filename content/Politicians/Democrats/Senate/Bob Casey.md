@@ -81,6 +81,6 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 - [Broad & Liberty: Sen. Bob Casey raises more money from PACs than from PA](https://broadandliberty.com/2023/04/27/sen-bob-casey-raises-more-money-from-pacs-than-from-pa/) (Tier 3)
 - [Deseret News: Should we be concerned with politicians receiving pharma money?](https://www.deseret.com/politics/2025/01/31/pharma-funding-politicians/) (Tier 3)
 - [PolitiFact: Viral image about Democratic senators and 'big pharma' is misleading](https://www.politifact.com/factchecks/2017/jan/18/other-98/viral-image-about-democratic-senators-and-big-pharma/) (Tier 2)
-- [OpenSecrets: Pharmaceuticals/Health Products PAC contributions](https://www.opensecrets.org/industries?cycle=2024&ind=H04) (Tier 1)
+- [OpenSecrets: Pharmaceuticals/Health Products PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 profile-status:: ready ready

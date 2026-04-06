@@ -655,7 +655,7 @@ Scanned **1473** markdown files
 - **DEAD LINK (404)**: https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
 - **DEAD LINK (404)**: https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html — in Donors & Power Networks\Mega-Donors\Larry Ellison.md
 - **DEAD LINK (404)**: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo — in Donors & Power Networks\Leonard Leo.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/industries?Ind=N07 — in Donors & Power Networks\Dark Money\Sports Betting Alliance.md
+- **DEAD LINK (404, no archive)**: https://www.fec.gov/data/receipts/?data_type=processed — in Donors & Power Networks\Dark Money\Sports Betting Alliance.md
 - **DEAD LINK (404)**: https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/ — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
 - **DEAD LINK (404)**: https://www.wga.org/news-events-press/news/archives-2023 — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
 - **DEAD LINK (404)**: https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/ — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md

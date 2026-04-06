@@ -39,7 +39,7 @@ This is regulatory capture at its clearest: donations → deregulation → billi
 - Rep. Al Green (D-TX): $156,000 (lifetime)
 - Rep. Bill Posey (R-FL): $134,000 (lifetime)
 
-[Tier 1 - OpenSecrets](https://www.opensecrets.org/industries?ind=F1700)
+[Tier 1 - OpenSecrets](https://www.fec.gov/data/receipts/?data_type=processed)
 
 ### The Regulatory Gutting: CFPB Enforcement (March 2025)
 
@@ -98,7 +98,7 @@ This is predatory lending targeting the poor. The regulatory capture ensures it 
 
 ### Sources
 
-- [OpenSecrets: Payday Lending Industry Donations](https://www.opensecrets.org/industries?ind=F1700) (Tier 1)
+- [OpenSecrets: Payday Lending Industry Donations](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [ProPublica: CFPB Payday Lending Enforcement Rollback](https://www.propublica.org/article/consumer-financial-protection-bureau-drops-investigation-of-high-cost-lender) (Tier 2)
 - [OpenSecrets: Members of Congress overseeing payday lending have taken over $3.4 million from the industry](https://www.opensecrets.org/news/2022/02/members-of-congress-overseeing-payday-lending-have-taken-over-3-4-million-from-the-industry/) (Tier 1)
 - [CFPB Public Database: Payday Lending Enforcement Actions](https://www.consumerfinance.gov/data/) (Tier 1)

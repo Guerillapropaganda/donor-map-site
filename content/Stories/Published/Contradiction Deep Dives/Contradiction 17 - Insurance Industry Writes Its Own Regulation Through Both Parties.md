@@ -20,7 +20,7 @@ related: [[_Nancy Pelosi Master Profile|Nancy Pelosi]] [[_Joe Biden Master Profi
 
 ---
 
-The insurance industry has contributed over $853 million to federal politicians from 1998–2024, favoring Republicans in every cycle but maintaining a 30–44% Democratic floor. 93% of Congressional incumbents running in 2024 received insurance contributions, including 100% of Senate incumbents. [OpenSecrets: Insurance Industry Totals](https://www.opensecrets.org/industries?cycle=2024&ind=F09) (Tier 1), [Health Care un-covered: Private Health Insurance Spends Big](https://healthcareuncovered.substack.com/p/private-health-insurance-spends-big) (Tier 2)
+The insurance industry has contributed over $853 million to federal politicians from 1998–2024, favoring Republicans in every cycle but maintaining a 30–44% Democratic floor. 93% of Congressional incumbents running in 2024 received insurance contributions, including 100% of Senate incumbents. [OpenSecrets: Insurance Industry Totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1), [Health Care un-covered: Private Health Insurance Spends Big](https://healthcareuncovered.substack.com/p/private-health-insurance-spends-big) (Tier 2)
 
 AHIP (the insurance trade group) spent $96.4 million on lobbying from 2018–2024. Blue Cross Blue Shield spent $22.7 million lobbying in 2009 alone — the 6th largest lobbying spender in America that year. [OpenSecrets: Federal Lobbying 2009](https://www.opensecrets.org/news/2010/02/federal-lobbying-soars-in-2009/) (Tier 1)
 
@@ -112,7 +112,7 @@ The contradiction is not that the system fails. The contradiction is that both p
 
 ---
 
-- [OpenSecrets: Insurance Industry Totals](https://www.opensecrets.org/industries?cycle=2024&ind=F09) (Tier 1)
+- [OpenSecrets: Insurance Industry Totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [OpenSecrets: Joe Lieberman Industries 2006](https://www.congress.gov/search?q=Joe%20Lieberman&searchResultViewType=expanded) (Tier 1)
 - [OpenSecrets: Ben Nelson Summary](https://www.fec.gov/data/candidate/S6NE00095/) (Tier 1)
 - [OpenSecrets: Big Pharma Insurers Hospitals Team Up to Kill Medicare for All](https://www.opensecrets.org/news/2019/03/big-pharma-insurers-hospitals-team-up-to-kill-medicare-for-all/) (Tier 1)

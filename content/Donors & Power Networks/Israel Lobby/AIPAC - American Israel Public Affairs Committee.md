@@ -287,7 +287,7 @@ AIPAC called for "crippling" sanctions on Iran in a 2012 letter to every member 
 
 — [OpenSecrets: AIPAC PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/aipac/C00797670/summary/2024) (Tier 1)
 — [OpenSecrets: United Democracy Project 2024](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 1)
-— [OpenSecrets: Pro-Israel industry totals 2024](https://www.opensecrets.org/industries?cycle=2024&ind=Q05) (Tier 1)
+— [OpenSecrets: Pro-Israel industry totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 — [FactCheck.org: United Democracy Project spending analysis](https://www.factcheck.org/2024/09/united-democracy-project-2/) (Tier 2)
 — [The Intercept: AIPAC primary spending and Bowman race](https://theintercept.com/2024/06/26/jamaal-bowman-primary-aipac-latimer/) (Tier 2)
 — [Read Sludge: Here is all the money AIPAC spent on 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)

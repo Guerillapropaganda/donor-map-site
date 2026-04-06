@@ -48,7 +48,7 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 
 ### Sources
 
-- [OpenSecrets: Defense sector](https://www.opensecrets.org/industries?ind=D) (Tier 1)
+- [OpenSecrets: Defense sector](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [DOD: Budget data](https://comptroller.defense.gov/Budget-Materials/) (Tier 1)
 - [Ballotpedia: Defense industry](https://ballotpedia.org/Defense_Industry) (Tier 3)
 

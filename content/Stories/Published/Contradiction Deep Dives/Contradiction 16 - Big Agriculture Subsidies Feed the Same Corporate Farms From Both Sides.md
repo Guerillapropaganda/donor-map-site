@@ -41,7 +41,7 @@ During Trump's trade-war bailout (MFP, 2018–2019), the top 1% averaged $524,29
 | [[_Deb Fischer Master Profile|Deb Fischer]] | R-NE | $461,155 |
 | [[_Amy Klobuchar Master Profile|Amy Klobuchar]] | D-MN | $423,190 |
 
-[OpenSecrets: Agribusiness Industry Summary 2024](https://www.opensecrets.org/industries?code=A&cycle=2024&ind=A&mem=Y&recipdetail=S) (Tier 1)
+[OpenSecrets: Agribusiness Industry Summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 Senate Agriculture Committee Chair [[_John Boozman Master Profile|John Boozman]] (R-AR) received $120,000+ from Tyson Foods employees. Ranking Member [[_Amy Klobuchar Master Profile|Amy Klobuchar]] (D-MN) counts Cargill as her 5th-largest donor. [Investigate Midwest: New Senate Agriculture Committee Leadership](https://investigatemidwest.org/2025/01/15/new-senate-agriculture-committee-leadership-has-extensive-ties-to-industry-heavyweights/) (Tier 2)
 
@@ -101,9 +101,9 @@ The top 10% of subsidy recipients collect 60–66% of all payments. The bottom 8
 ---
 
 - [OpenSecrets: Agribusiness PACs 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/A/2024) (Tier 1)
-- [OpenSecrets: Agribusiness Industry Summary 2024](https://www.opensecrets.org/industries?code=A&cycle=2024&ind=A&mem=Y&recipdetail=S) (Tier 1)
+- [OpenSecrets: Agribusiness Industry Summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [OpenSecrets: Agribusiness Lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Agribusiness Contributions](https://www.opensecrets.org/industries?ind=A) (Tier 1)
+- [OpenSecrets: Agribusiness Contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [GAO: Cap Crop Insurers Profits](https://www.dtnpf.com/agriculture/web/ag/news/article/2023/12/04/gao-cap-crop-insurers-profits-large) (Tier 1)
 - [Rep. Gwen Moore: Farm Bill Analysis](https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=1907) (Tier 1)
 - [Heritage Foundation/EWG: Farm Subsidies Corporate Welfare](https://www.heritage.org/budget-and-spending/report/how-farm-subsidies-became-americas-largest-corporate-welfare-program) (Tier 2)

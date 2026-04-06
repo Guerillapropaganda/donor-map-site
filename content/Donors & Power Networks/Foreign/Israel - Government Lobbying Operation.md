@@ -47,7 +47,7 @@ Continued $3.8 billion annual military aid, diplomatic cover at the United Natio
 ### Sources
 
 - [FARA: Israel-related foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1) (Tier 1)
-- [OpenSecrets: Pro-Israel lobbying](https://www.opensecrets.org/industries?ind=Q05) (Tier 1)
+- [OpenSecrets: Pro-Israel lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Israel-US relations](https://ballotpedia.org/Israel_-_Government_Lobbying_Operation) (Tier 3)
 
 content-readiness:: ready

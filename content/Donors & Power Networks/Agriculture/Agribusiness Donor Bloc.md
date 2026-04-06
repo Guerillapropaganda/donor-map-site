@@ -23,7 +23,7 @@ The Agribusiness Donor Bloc. The combined political operation of America's agric
 
 The bloc's political operation: $30-50 million per cycle in PAC and campaign contributions, $80-120 million annually in lobbying (across all agricultural sub-sectors), and the most powerful state-level political networks in rural America. The Farm Bureau's 6 million member families provide the grassroots base; corporate agribusiness provides the funding.
 
-- [OpenSecrets: Agribusiness industry spending](https://www.opensecrets.org/industries?ind=A) (Tier 1)
+- [OpenSecrets: Agribusiness industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 
@@ -45,7 +45,7 @@ The four pillars:
 
 ### Sources
 
-- [OpenSecrets: Agribusiness industry spending](https://www.opensecrets.org/industries?ind=A) (Tier 1)
+- [OpenSecrets: Agribusiness industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [EWG: Farm subsidy database](https://farm.ewg.org/search.php?search=Agribusiness%20Donor%20Bloc) (Tier 2)
 - [Ballotpedia: Agricultural policy](https://ballotpedia.org/Agribusiness_Donor_Bloc) (Tier 3)
 

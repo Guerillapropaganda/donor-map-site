@@ -23,7 +23,7 @@ The Defense Industry Bloc. The five largest defense contractors — Lockheed Mar
 
 The defense industry's political strategy is built on geographic dependency: every major weapons system distributes production across the maximum number of congressional districts. The F-35 has suppliers in 45 states. The Virginia-class submarine involves contractors in 48 states. This distribution is not incidental — it is the industry's primary political strategy, ensuring that cutting any weapons program threatens jobs in hundreds of districts.
 
-- [OpenSecrets: Defense industry spending](https://www.opensecrets.org/industries?ind=D) (Tier 1)
+- [OpenSecrets: Defense industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 
@@ -51,7 +51,7 @@ The Pentagon has failed its financial audit every year since audits began in 201
 
 ### Sources
 
-- [OpenSecrets: Defense industry spending totals](https://www.opensecrets.org/industries?ind=D) (Tier 1)
+- [OpenSecrets: Defense industry spending totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Congress.gov: National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670) (Tier 1)
 
 content-readiness:: ready

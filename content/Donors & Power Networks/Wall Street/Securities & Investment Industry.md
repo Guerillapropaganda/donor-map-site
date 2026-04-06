@@ -30,7 +30,7 @@ The industry's political priorities are bipartisan by design: carried interest t
 
 ### Sources
 
-- [OpenSecrets: Securities & Investment industry contributions](https://www.opensecrets.org/industries?ind=F07) (Tier 1)
+- [OpenSecrets: Securities & Investment industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [SEC: Regulatory proceedings](https://www.sec.gov/cgi-bin/browse-edgar?company=Securities%20%26%20Investment%20Industry&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Wall Street political spending](https://ballotpedia.org/Securities_&_Investment_Industry) (Tier 3)
 

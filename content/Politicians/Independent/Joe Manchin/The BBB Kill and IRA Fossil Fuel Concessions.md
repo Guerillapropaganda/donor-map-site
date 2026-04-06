@@ -210,7 +210,7 @@ All six of these PACs donated exactly $5,000 (legal maximum) in the same quarter
 
 **Manchin's status:** Designated **#1 coal mining industry recipient in the Senate** in both 2010 and 2012 cycles.
 
-**Source:** [OpenSecrets Coal Mining Summary 2010](https://www.opensecrets.org/industries?cycle=2010&ind=E1210) (Tier 1) (UNVERIFIED); [OpenSecrets Coal Mining Summary 2012](https://www.opensecrets.org/industries?cycle=2012&ind=E1210) (Tier 1) (UNVERIFIED)
+**Source:** [OpenSecrets Coal Mining Summary 2010](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED); [OpenSecrets Coal Mining Summary 2012](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED)
 
 ---
 

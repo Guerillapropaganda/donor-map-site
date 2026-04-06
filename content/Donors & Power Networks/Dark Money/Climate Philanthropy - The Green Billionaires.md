@@ -39,7 +39,7 @@ Climate philanthropy contains a class contradiction: billionaires whose fortunes
 
 ### Sources
 
-- [OpenSecrets: Environmental group spending](https://www.opensecrets.org/industries?ind=Q11) (Tier 1)
+- [OpenSecrets: Environmental group spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [IRS: Climate philanthropy 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Climate%20Philanthropy%20-%20The%20Green%20Billionaires&city=&state=All+States&country=US) (Tier 1)
 - [Ballotpedia: Climate philanthropy](https://ballotpedia.org/Climate_Philanthropy_-_The_Green_Billionaires) (Tier 3)
 

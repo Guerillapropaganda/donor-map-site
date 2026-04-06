@@ -96,7 +96,7 @@ Reduced enforcement capacity makes private management appear more necessary. Thi
 ---
 
 - [OpenSecrets: American Water Works PAC](https://www.opensecrets.org/political-action-committees-pacs/american-water-works-co/C00377846/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Chemical Manufacturing Lobbying](https://www.opensecrets.org/industries?cycle=2024&ind=N13) (Tier 1)
+- [OpenSecrets: Chemical Manufacturing Lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [EPA: Office of Water Budget](https://www.epa.gov/planandbudget) (Tier 1)
 - [The Guardian: PFAS Lobbying $114M Investigation](https://www.theguardian.com/environment/2023/feb/08/pfas-forever-chemicals-lobbying-congress) (Tier 2)
 - [Food & Water Watch: Water Privatization Costs](https://www.foodandwaterwatch.org/2015/08/02/water-privatization-facts-and-figures/) (Tier 2)
