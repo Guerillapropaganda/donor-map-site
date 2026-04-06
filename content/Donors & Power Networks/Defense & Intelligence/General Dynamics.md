@@ -12,10 +12,6 @@ politicians-funded:
   - "Roger Wicker"
 issues:
   - "Defense & Military"
-ein: 382421395
-annual-revenue: "$207K"
-net-assets: "$11K"
-tax-year: "2019"
 ---
 
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial
@@ -57,28 +53,13 @@ General Dynamics PAC targets Armed Services Committee members (both chambers), A
 
 ---
 
-### Financial Overview (990 Filing — 2019)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $207K |
-| Total Contributions | $207K |
-| Investment Income | $70 |
-| Total Expenses | $209K |
-| Net Assets | $11K |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 382421395](https://projects.propublica.org/nonprofits/organizations/382421395) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=03_2021_prefixes_37-42%2F382421395_201912_990O_2021031217796032.pdf) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 
 - [OpenSecrets: General Dynamics organizational profile](https://www.opensecrets.org/orgs/general-dynamics/summary?id=D000000165) (Tier 1)
 - [OpenSecrets: General Dynamics lobbying expenditures](https://www.opensecrets.org/orgs/general-dynamics/lobbying?id=D000000165) (Tier 1)
 - [Department of Defense: Columbia-class submarine program](https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169795/columbia-class-submarine/) (Tier 1)
-- [Defense News: General Dynamics submarine production and Navy budgets](https://www.defensenews.com/general-dynamics/) (Tier 2)
+- [Defense News: General Dynamics submarine production and Navy budgets](https://www.defensenews.com/general-dynamics/) *(source unavailable)* (Tier 2)
 - [Ballotpedia: General Dynamics political spending](https://ballotpedia.org/General_Dynamics) (Tier 3)
 
 ---
@@ -107,3 +88,16 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 
 research-status:: ready — Columbia-class $131B + Virginia-class documented, submarine revenue pipeline, $200B+ program value, revolving door context. March 2026: Britt earmark ROI ($59K → $220M), FY2027 $1.5T base budget context, Iran supplemental $200B. Updated gp-donor-node-builder Run 5 (March 25, 2026).
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.1M
+
+| Top Recipient | Amount |
+|---|---|
+| NRSC | $30.0K |
+| NRCC | $30.0K |
+| DCCC | $20.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

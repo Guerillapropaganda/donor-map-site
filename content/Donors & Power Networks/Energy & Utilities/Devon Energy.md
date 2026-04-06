@@ -13,10 +13,6 @@ politicians-funded:
   - "John Fetterman"
 issues:
   - "Energy & Climate"
-ein: 365040938
-annual-revenue: "$1"
-net-assets: "$1"
-tax-year: "2023"
 lobbying-spend: 810000
 lobbying-filings: 18
 ---
@@ -54,19 +50,6 @@ Favorable federal land leasing policies (expedited permitting, reduced royalty r
 
 ---
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $1 |
-| Total Contributions | $0 |
-| Total Expenses | $0 |
-| Net Assets | $1 |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 365040938](https://projects.propublica.org/nonprofits/organizations/365040938) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -117,3 +100,16 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 - [CISA: Pipeline Cybersecurity](https://www.cisa.gov/resources-tools/programs/pipeline-cybersecurity) (Tier 1)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $11.6M
+
+| Top Recipient | Amount |
+|---|---|
+| SENATE LEADERSHIP FUND | $4.6M |
+| CONGRESSIONAL LEADERSHIP FUND | $4.2M |
+| SLF PAC | $1.0M |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

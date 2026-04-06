@@ -12,10 +12,6 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
   - "Defense & Military"
-ein: 850703768
-annual-revenue: "$62.1M"
-net-assets: "$8.9M"
-tax-year: "2023"
 ---
 
 #carlyle-group #private-equity #wall-street #defense #revolving-door #bipartisan #carried-interest #lobbying
@@ -134,21 +130,6 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 
 ---
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $62.1M |
-| Total Contributions | $956K |
-| Program Service Revenue | $60.4M |
-| Total Expenses | $115.1M |
-| Net Assets | $8.9M |
-| Officer Compensation | $4.4M |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 850703768](https://projects.propublica.org/nonprofits/organizations/850703768) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 

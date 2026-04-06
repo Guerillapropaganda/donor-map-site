@@ -9,10 +9,6 @@ sector: "Energy & Utilities"
 entity-type: "Corporation"
 issues:
   - "Energy & Climate"
-ein: 237413843
-annual-revenue: "$14.9M"
-net-assets: "$65.4M"
-tax-year: "2023"
 ---
 
 #donor #energy #natural-gas #pipeline #fossil-fuel #republican-lean #class-analysis #follow-the-money
@@ -74,19 +70,6 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 
 ---
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $14.9M |
-| Total Contributions | $0 |
-| Total Expenses | $10.7M |
-| Net Assets | $65.4M |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 237413843](https://projects.propublica.org/nonprofits/organizations/237413843) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 
@@ -106,3 +89,16 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 
 research-status:: draft — Financial profile, PAC contributions, and lobbying data documented. Gaps: detailed lobbying issue breakdown, specific policy outcomes tied to contributions, historical contribution trends, pipeline safety/environmental record, connections to specific permitting legislation. FEC API and Senate LDA available for deeper analysis.
 content-readiness:: draft
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 400 contributions totaling $887.8K
+
+| Top Recipient | Amount |
+|---|---|
+| NRCC | $40.0K |
+| REPUBLICAN NATIONAL COMMITTEE | $25.0K |
+| NRSC | $15.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

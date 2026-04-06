@@ -12,10 +12,6 @@ politicians-funded:
 issues:
   - "Energy & Climate"
   - "Dark Money & Campaign Finance"
-ein: 464439930
-annual-revenue: "$5.1M"
-net-assets: "$13.4M"
-tax-year: "2020"
 ---
 
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned
@@ -157,25 +153,11 @@ When confronted by E&E News about the covert campaign, Marathon spokesman Chuck 
 
 ---
 
-### Financial Overview (990 Filing — 2020)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $5.1M |
-| Total Contributions | $0 |
-| Total Expenses | $3.8M |
-| Net Assets | $13.4M |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 464439930](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2021_prefixes_45-52%2F464439930_202012_990PF_2021090318810669.pdf) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 
 - [OpenSecrets: Marathon Petroleum PAC contributions by cycle](https://www.opensecrets.org/orgs/marathon-petroleum/totals?id=D000023121) (Tier 1)
-- [OpenSecrets: Marathon Petroleum federal lobbying 2012–2024](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000023121) (Tier 1)
+- [OpenSecrets: Marathon Petroleum federal lobbying 2012–2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000023121) (Tier 1)
 - [OpenSecrets: Marathon Petroleum 2024 recipients](https://www.opensecrets.org/orgs/marathon-petroleum/recipients?id=D000023121) (Tier 1)
 - [OpenSecrets: Marathon PAC (C00496307) details](https://www.opensecrets.org/political-action-committees-pacs/marathon-petroleum/C00496307/summary/2024) (Tier 1)
 - [Business Insider: Marathon Petroleum FEC $85K fine for illegal $1M contribution](https://www.businessinsider.com/fec-marathon-oil-85000-fine-campaign-finance-violation-2022-3) (Tier 2)
@@ -191,5 +173,18 @@ When confronted by E&E News about the covert campaign, Marathon spokesman Chuck 
 - [The Intercept: Marathon petroleum and oil industry anti-EV campaign](https://theintercept.com/) (Tier 2)
 - [Michigan EGLE: 48217 air quality data](https://www.michigan.gov/egle) (Tier 1)
 
-research-status:: developed — added 7-cycle PAC table (2012–2024, ~$8.2M PAC, ~$18.7M all sources, 91–98% Republican, 2016 extreme: 98%), 13-year federal lobbying table (peak $4.96M 2018 CAFE/Andeavor), 2024 top recipients (NRSC $686K, Trump $24K, Harris $31K), FEC $85K fine detail (illegal $1M contribution, SLF/CLF $500K each, largest federal contractor violation), expanded covert anti-EV campaign (Transportation Energy Partners front group detail, 7 specific tactics: congressional letter drafting with 19 verbatim copies, ALEC model bills Asphalt/gas tax, Facebook dark money generating 25% DOT comments, New Orleans 1500 legislator event, Heminger/Pruitt EPA access with FOIA coordination emails, Barrasso $15K + $910K lobbying 2018 Q4, AFPM record $7M lobbying 2023 with swing-state "car ban" ads OH/PA/MI/WI/AZ/NV/GA), Chuck Rice official response downplaying lobbying, company acquisitions (Andeavor $23B 2018, Speedway $21B divestiture 2021). 16 sources, Tier 1-2 (7 UNVERIFIED). All ### headers. Format 2 temporal mapping table present.
-content-readiness:: developed
+research-status:: developed — added 7-cycle PAC table (2012–2024, ~$8.2M PAC, ~$18.7M all sources, 91–98% Republican, 2016 extreme: 98%), 13-year federal lobbying table (peak $4.96M 2018 CAFE/Andeavor), 2024 top recipients (NRSC $686K, Trump $24K, Harris $31K), FEC $85K fine detail (illegal $1M contribution, SLF/CLF $500K each, largest federal contractor violation), expanded covert anti-EV campaign (Transportation
+
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $2.0M
+
+| Top Recipient | Amount |
+|---|---|
+| NRSC | $135.0K |
+| SCALISE LEADERSHIP FUND | $82.5K |
+| THUNE VICTORY COMMITTEE | $60.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

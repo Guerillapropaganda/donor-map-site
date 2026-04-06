@@ -9,10 +9,6 @@ sector: "Energy & Utilities"
 entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
-ein: 943358729
-annual-revenue: "$23.4M"
-net-assets: "$99.5M"
-tax-year: "2023"
 ---
 
 
@@ -99,19 +95,6 @@ Environment — wildfires, utility regulation, clean energy, NEM 3.0, Diablo Can
 
 ---
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $23.4M |
-| Total Contributions | $0 |
-| Total Expenses | $17.9M |
-| Net Assets | $99.5M |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 943358729](https://projects.propublica.org/nonprofits/organizations/943358729) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 

@@ -10,10 +10,6 @@ entity-type: "Corporation"
 issues:
   - "Agriculture"
   - "Trade"
-ein: 416020221
-annual-revenue: "$2.5M"
-net-assets: "$255.2M"
-tax-year: "2023"
 ---
 
 #cargill #agriculture #commodities #grain #trade #private #family
@@ -49,20 +45,6 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 
 ---
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $2.5M |
-| Total Contributions | $0 |
-| Total Expenses | $25.6M |
-| Net Assets | $255.2M |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 416020221](https://projects.propublica.org/nonprofits/organizations/416020221) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F416020221_202312_990PF_2025010222978691.pdf) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 

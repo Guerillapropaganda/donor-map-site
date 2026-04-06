@@ -12,10 +12,6 @@ politicians-funded:
 issues:
   - "Defense & Military"
 federal-contracts: "94260"
-ein: 956095343
-annual-revenue: "$15.1M"
-net-assets: "$31.0M"
-tax-year: "2023"
 ---
 
 
@@ -207,26 +203,13 @@ Northrop Grumman represents the defense sector's most refined form of structural
 
 <!-- auto:sam-contracts end -->
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $15.1M |
-| Total Contributions | $0 |
-| Total Expenses | $14.1M |
-| Net Assets | $31.0M |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 956095343](https://projects.propublica.org/nonprofits/organizations/956095343) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 
 - [OpenSecrets: Northrop Grumman Profile Summary](https://www.opensecrets.org/orgs/northrop-grumman/summary?id=D000000170) (Tier 1)
 - [OpenSecrets: Northrop Grumman PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/northrop-grumman/C00088591/summary/2024) (Tier 1)
 - [OpenSecrets: Northrop Grumman PAC Candidate Recipients](https://www.opensecrets.org/political-action-committees-pacs/northrop-grumman/C00088591/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Northrop Grumman Lobbying Profile](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000170) (Tier 1)
+- [OpenSecrets: Northrop Grumman Lobbying Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000170) (Tier 1)
 - [USAspending.gov: Northrop Grumman Federal Award Profile](https://www.usaspending.gov/recipient/fbe19298-837a-c0c2-9e1d-ff4c0a5ad25a-P/latest) (Tier 1)
 - [Northrop Grumman: Political Contributions Statement](https://www.northropgrumman.com/investor-relations/political-contributions) (Tier 1)
 - [Pentagon OIG: Report of Investigation Concerning Dr. James G. Roche (PDF)](https://media.defense.gov/2018/Aug/29/2001959973/-1/-1/1/H04L94024201-ROCHE.PDF) (Tier 1)
@@ -267,3 +250,16 @@ Northrop Grumman represents the defense sector's most refined form of structural
 ---
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.9M
+
+| Top Recipient | Amount |
+|---|---|
+| DCCC | $110.0K |
+| NRSC | $105.0K |
+| DSCC | $105.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

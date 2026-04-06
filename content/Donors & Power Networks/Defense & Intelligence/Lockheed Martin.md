@@ -13,10 +13,6 @@ politicians-funded:
   - "Mike Rogers"
 issues:
   - "Defense & Military"
-ein: 946107683
-annual-revenue: "$137K"
-net-assets: "$74K"
-tax-year: "2014"
 ---
 
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door
@@ -186,35 +182,21 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 
 ---
 
-### Financial Overview (990 Filing — 2014)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $137K |
-| Total Contributions | $0 |
-| Total Expenses | $140K |
-| Net Assets | $74K |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 946107683](https://projects.propublica.org/nonprofits/organizations/946107683) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2014_09_EO%2F94-6107683_990EO_201406.pdf) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 
 - [Lockheed Martin Official Summary • OpenSecrets](https://www.opensecrets.org/orgs/lockheed-martin/summary?id=D000000104) (Tier 1)
 - [Lockheed Martin PAC Profile • OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/lockheed-martin/C00303024/summary/2024) (Tier 1)
-- [Lockheed Martin Lobbying Profile • OpenSecrets](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000104) (Tier 1)
+- [Lockheed Martin Lobbying Profile • OpenSecrets](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000104) (Tier 1)
 - [Lockheed Martin 2024 PAC Disbursements (Official)](https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/documents/governance/2024/LMEPAC-disbursements-2024.pdf) (Tier 1)
-- [F-35 Program Cost Estimates - Congressional Research Service](https://fas.org/publication/f-35-program-cost/) (Tier 1)
+- [F-35 Program Cost Estimates - Congressional Research Service](https://fas.org/publication/f-35-program-cost/) *(source unavailable)* (Tier 1)
 - [F-35 Lightning II: Background and Issues for Congress - CRS](https://sgp.fas.org/crs/weapons/RL33745.pdf) (Tier 1)
 
 ### Revolving Door — Tier 2:
 - [Project on Government Oversight: Brass Parachutes - The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
 - [Responsible Statecraft: When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/) (Tier 2)
 - [Defense News: Lockheed adds Dunford, former top US military officer, to board](https://www.defensenews.com/industry/2020/01/25/lockheed-adds-dunford-former-top-us-military-officer-to-board/) (Tier 2)
-- [Costs of War: Profits of War - Top Beneficiaries of Pentagon Spending, 2020-2024](https://costsofwar.watson.brown.edu/papers/2025/MilitaryContractors) (Tier 2)
+- [Costs of War: Profits of War - Top Beneficiaries of Pentagon Spending, 2020-2024](https://costsofwar.watson.brown.edu/papers/2025/MilitaryContractors) *(source unavailable)* (Tier 2)
 
 ---
 
@@ -247,3 +229,16 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 
 research-status:: ready — F-35 $2.3T lifetime program documented, 45-state geographic lock-in strategy, $15.1B in unbudgeted Congressional additions (FY2021-24), revolving door (Dunford timeline), PAC geographic distribution, Granger $634K career temporal mapping, Iran war windfall (THAAD quadrupled, $200B supplemental, 3.4% stock jump). All ### headers, Tier 1 sources (OpenSecrets, CRS, FEC). Promoted to ready Session 38h.
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.1M
+
+| Top Recipient | Amount |
+|---|---|
+| NRSC | $60.0K |
+| DCCC | $60.0K |
+| DSCC | $60.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

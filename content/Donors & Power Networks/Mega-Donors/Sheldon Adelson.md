@@ -168,4 +168,3 @@ The Adelson model's most dangerous innovation is its transparency. Most donor-to
 ---
 
 content-readiness:: developed
-last-updated: 2026-04-01

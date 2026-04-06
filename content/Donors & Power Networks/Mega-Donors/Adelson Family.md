@@ -117,7 +117,7 @@ Trump withdrew from the JCPOA on May 8, 2018 — 11 months after receiving Adels
 >
 > **The lobbying pipeline:** Sheldon funded the Coalition to Stop Internet Gambling (est. 2014). He leveraged $13.2 million in 2014 donations to build political relationships necessary for the broader DOJ pressure campaign. Three former elected officials served as bipartisan cover: Wellington Webb (D-Denver mayor), Blanche Lincoln (D-Ark. senator), George Pataki (R-NY governor). He met House Speaker John Boehner in January 2015 to push RAWA directly. When Congress refused to pass RAWA legislation, Adelson's lobbyists pressured AG Jeff Sessions to use the DOJ administrative process instead (UNVERIFIED).
 >
-> **The memo:** A lobbyist for Adelson drafted the memo opposing online gambling that was sent to the Justice Department in April 2017 — the administrative infrastructure for policy reversal was constructed through proxy authorship ([USA Today](https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/) (Tier 2)).
+> **The memo:** A lobbyist for Adelson drafted the memo opposing online gambling that was sent to the Justice Department in April 2017 — the administrative infrastructure for policy reversal was constructed through proxy authorship ([USA Today](https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/) *(source unavailable)* (Tier 2)).
 >
 > **The outcome:** On November 2, 2018, Sessions' DOJ delivered the opinion Adelson's lobbyists requested. The reversal was strategically timed 4 years after the initial 2014 donations and 3.5 years into the Trump administration. The "educational nonprofit" argument — protecting children and the poor from online gambling — was the cover for a business decision worth billions to Las Vegas Sands.
 >
@@ -215,7 +215,7 @@ This concentration of funding created structural dependency: Republican leadersh
 ### Israel Policy:
 - [Responsible Statecraft: Trump tell-all cites Adelson's bankrolled Israel embassy move](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2)
 - [Newsweek: How Miriam Adelson shaped Trump's Israel strategy](https://www.newsweek.com/how-miriam-adelson-shaped-donald-trumps-israel-strategy-10875990) (Tier 2)
-- [Al Jazeera: Who is Miriam Adelson — pro-Israel donor Trump lauded at Knesset](https://www.aljazeera.com/news/2025/10/13/who-is-miriam-adelson-pro-israel-donor-trump-lauded-at-the-knesset) (Tier 2)
+- [Al Jazeera: Who is Miriam Adelson — pro-Israel donor Trump lauded at Knesset](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint) (Tier 2)
 
 ### Las Vegas Sands / Texas:
 - [OpenSecrets: Las Vegas Sands profile](https://www.opensecrets.org/orgs/las-vegas-sands/summary?id=D000020980) (Tier 1)
@@ -233,4 +233,15 @@ This concentration of funding created structural dependency: Republican leadersh
 ---
 
 content-readiness:: developed
-last-updated: 2026-04-01
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 2 contributions totaling $1.0K
+
+| Top Recipient | Amount |
+|---|---|
+| WINRED | $500 |
+| NIKKI HALEY FOR PRESIDENT INC. | $500 |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

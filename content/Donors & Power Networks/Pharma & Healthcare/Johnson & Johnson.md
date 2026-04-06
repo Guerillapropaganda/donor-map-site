@@ -9,10 +9,6 @@ sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-ein: 760552018
-annual-revenue: "$477K"
-net-assets: "$1.3M"
-tax-year: "2023"
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
@@ -54,26 +50,12 @@ Bipartisan distribution targeting Finance Committee (Medicare drug pricing), Jud
 
 ---
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $477K |
-| Total Contributions | $477K |
-| Total Expenses | $349K |
-| Net Assets | $1.3M |
-| Officer Compensation | $19K |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 760552018](https://projects.propublica.org/nonprofits/organizations/760552018) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 
 - [OpenSecrets: Johnson & Johnson organizational profile](https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385) (Tier 1)
 - [OpenSecrets: J&J lobbying expenditures](https://www.opensecrets.org/orgs/johnson-johnson/lobbying?id=D000000385) (Tier 1)
-- [Reuters: J&J talc settlement and bankruptcy strategy](https://www.reuters.com/business/healthcare-pharmaceuticals/jnj-talc-settlement/) (Tier 2)
-- [Ballotpedia: Johnson & Johnson political spending](https://ballotpedia.org/Johnson_%26_Johnson) (Tier 3)
+- [Reuters: J&J talc settlement and bankruptcy strategy](https://www.reuters.com/business/healthcare-pharmaceuticals/jnj-talc-settlement/) *(source unavailable)* (Tier 2)
+- [Ballotpedia: Johnson & Johnson political spending](https://ballotpedia.org/Johnson_&_Johnson) (Tier 3)
 
 content-readiness:: ready

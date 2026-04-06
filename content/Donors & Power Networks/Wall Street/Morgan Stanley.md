@@ -11,10 +11,6 @@ politicians-funded:
   - "Chuck Schumer"
 issues:
   - "Wall Street & Finance"
-ein: 136155650
-annual-revenue: "$1.0M"
-net-assets: "$18.6M"
-tax-year: "2023"
 ---
 
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying
@@ -67,19 +63,6 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 ---
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $1.0M |
-| Total Contributions | $0 |
-| Total Expenses | $147K |
-| Net Assets | $18.6M |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 136155650](https://projects.propublica.org/nonprofits/organizations/136155650) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 

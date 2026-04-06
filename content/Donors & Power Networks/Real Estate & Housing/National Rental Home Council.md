@@ -9,10 +9,6 @@ sector: "Real Estate"
 entity-type: "Corporation"
 issues:
   - "Housing"
-ein: 474822520
-annual-revenue: "$3.3M"
-net-assets: "$977K"
-tax-year: "2023"
 ---
 
 #donor #real-estate #housing #trade-association #institutional-landlords #revolving-door #class-analysis #follow-the-money
@@ -70,29 +66,13 @@ NRHC represents the corporate landlord class — private equity-backed firms tha
 
 ---
 
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $3.3M |
-| Total Contributions | $265K |
-| Program Service Revenue | $3.0M |
-| Investment Income | $179 |
-| Total Expenses | $3.6M |
-| Net Assets | $977K |
-| Officer Compensation | $515K |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 474822520](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 
 - [NRHC: Homepage](https://rentalhomecouncil.org) (Tier 3)
 - [REI INK: NRHC welcomes Todman and Suit](https://rei-ink.com/nrhc-welcomes-new-ceo-adrianne-todman-and-coo-terrie-suit/) (Tier 3)
 - [ProPublica: NRHC 990 filings](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1)
-- [OpenSecrets: NRHC lobbying](https://www.opensecrets.org/federal-lobbying/clients/summary?id=F292993) (Tier 1)
+- [OpenSecrets: NRHC lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=F292993) (Tier 1)
 - [OpenSecrets: NRHC PAC summary](https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/summary/2022) (Tier 1)
 - [OpenSecrets: NRHC PAC donors](https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/donors/2022) (Tier 1)
 - [OpenSecrets: NRHC PAC expenditures](https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/expenditures/2022) (Tier 1)
@@ -104,3 +84,16 @@ NRHC represents the corporate landlord class — private equity-backed firms tha
 
 research-status:: draft — Core profile, lobbying data, and revolving-door analysis documented. Gaps: complete member company list with financial data, detailed PAC contribution recipients, specific policy outcomes tied to lobbying (GSE reform details), tenant complaint data from member companies, FHFA relationship under Pulte directorship. OpenSecrets PAC data available for deeper analysis.
 content-readiness:: draft
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 37 contributions totaling $75.8K
+
+| Top Recipient | Amount |
+|---|---|
+| TIM SCOTT FOR SENATE | $5.8K |
+| SINEMA FOR ARIZONA | $5.8K |
+| SENATE GEORGIA BATTLEGROUND FUND | $5.6K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.

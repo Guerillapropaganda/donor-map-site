@@ -7,10 +7,6 @@ source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Corporation"
-ein: 800487553
-annual-revenue: "$10K"
-net-assets: "$26K"
-tax-year: "2019"
 ---
 
 #humana #health-insurance #medicare-advantage #lobbying #kentucky
@@ -46,26 +42,25 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 
 ---
 
-### Financial Overview (990 Filing — 2019)
-<!-- auto:propublica-990 start -->
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $10K |
-| Total Contributions | $0 |
-| Total Expenses | $8K |
-| Net Assets | $26K |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 800487553](https://projects.propublica.org/nonprofits/organizations/800487553) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=08_2020_prefixes_74-81%2F800487553_201912_990EZ_2020083117270894.pdf) (Tier 1)
-
-<!-- auto:propublica-990 end -->
 
 ### Sources
 
 - [OpenSecrets: Humana organizational profile](https://www.opensecrets.org/orgs/humana-inc/summary?id=D000000652) (Tier 1)
-- [CMS: Medicare Advantage payment data](https://www.cms.gov/medicare/health-plans/medicareadvtgspecratestats) (Tier 1)
-- [STAT News: Medicare Advantage upcoding and overpayment](https://www.statnews.com/medicare-advantage-upcoding/) (Tier 2)
+- [CMS: Medicare Advantage payment data](https://www.cms.gov/medicare/payment/medicare-advantage-rates-statistics) (Tier 1)
+- [STAT News: Medicare Advantage upcoding and overpayment](https://www.statnews.com/medicare-advantage-upcoding/) *(source unavailable)* (Tier 2)
 - [Ballotpedia: Humana political spending](https://ballotpedia.org/Humana) (Tier 3)
 
 content-readiness:: ready
+---
+
+### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
+
+**FEC contribution record:** 500 contributions totaling $1.5M
+
+| Top Recipient | Amount |
+|---|---|
+| NEW DEMOCRAT COALITION ACTION FUND | $50.0K |
+| DSCC | $45.0K |
+| NRSC | $30.0K |
+
+> This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
