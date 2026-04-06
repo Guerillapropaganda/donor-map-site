@@ -2,7 +2,7 @@
 title: "Sixteen Thirty Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,6 +12,17 @@ politicians-funded:
   - "Susan Collins"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 18
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Federal Circuit"
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, D. Kansas"
+  - "District Court, D. New Jersey"
+  - "District Court, District of Columbia"
+  - "District Court, M.D. Florida"
+  - "District Court, S.D. Ohio"
 ---
 
 #donor-node #dark-money #democrat #arabella #fiscal-sponsorship #class-analysis #donor
@@ -178,3 +189,22 @@ content-readiness:: ready
 | VICTORY 2020 | $7.7M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 18 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Federal Circuit, Court of Appeals for the Sixth Circuit, District Court, D. Kansas, District Court, D. New Jersey, District Court, District of Columbia, District Court, M.D. Florida, District Court, S.D. Ohio |
+| Case Types | 2890 Other Statutory Actions, 3440 Civil Rights: Other, 360 P.I.: Other, 440 Civil Rights: Other, 830 Patent Infringement (Fed. Qst.) |
+
+**Notable cases:**
+- Kansans for Constitutional Freedom v. Kobach (2025) — District Court, D. Kansas
+- ZAID v. EXECUTIVE OFFICE OF THE PRESIDENT (2025) — District Court, District of Columbia
+- Hampton Dellinger v. Scott Bessent (2025) — Court of Appeals for the D.C. Circuit
+- DELLINGER v. BESSENT (2025) — District Court, District of Columbia
+- Loomer v. Maher (2024) — District Court, M.D. Florida
+- OPAWL - Building AAPI Feminist Leadership v. Dave Yost (2024) — Court of Appeals for the Sixth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sixteen%20Thirty%20Fund%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

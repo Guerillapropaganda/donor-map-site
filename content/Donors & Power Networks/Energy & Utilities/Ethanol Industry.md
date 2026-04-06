@@ -2,7 +2,7 @@
 title: "Ethanol Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -11,6 +11,21 @@ issues:
   - "Agriculture"
 lobbying-spend: 2340000
 lobbying-filings: 33
+sec-filings: 4713
+sec-form-types:
+  - "10-K"
+  - "10-KT"
+  - "10-Q"
+  - "8-K"
+  - "CORRESP"
+  - "DEFA14A"
+  - "EX-99"
+  - "EX-99.(C)(2)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "FWP"
+  - "XML"
 ---
 
 #ethanol #corn #biofuel #rfs #agriculture #iowa #mandates #subsidies
@@ -72,3 +87,40 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 - [Ballotpedia: Renewable Fuel Standard](https://ballotpedia.org/Ethanol_Industry) (Tier 3)
 
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Agriculture** → Funds **Joni Ernst** → Sits on **Agriculture**
+
+**Funded politicians:**
+
+- [[Joni Ernst]] (Agriculture) — lobbying: $2.3M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 4,713 |
+| Form Types | 10-K, 10-KT, 10-Q, 8-K, CORRESP, DEFA14A, EX-99, EX-99.(C)(2) +5 more |
+
+**Notable filings:**
+
+- 2010-04-02 — **EX-99.1**: EXHIBIT 99.1
+- 2013-08-07 — **XML**: IDEA: Uncertainties Impacting the Ethanol Industry and Our Future Operations
+- 2011-02-08 — **EX-99**: EX-99
+- 2010-03-24 — **EX-99.1**: EX-99.1
+- 2011-02-08 — **EX-99.1**: PDF FILE
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ethanol%20Industry%22) (Tier 1)
+<!-- auto:sec-edgar end -->

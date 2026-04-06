@@ -159,3 +159,18 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 | HONOR PENNSYLVANIA, INC. | $225.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Clarence Thomas]] — contracts: $6K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

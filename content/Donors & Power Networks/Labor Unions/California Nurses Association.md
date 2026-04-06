@@ -24,6 +24,10 @@ tax-year: "2023"
 lobbying-spend: 10419974
 lobbying-filings: 105
 total-political-spend: "$19,855,072"
+federal-register-mentions: 2
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "National Labor Relations Board"
 ---
 
 #cna #nurses #union #california #single-payer #healthcare #progressive #labor
@@ -125,3 +129,46 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Nurses%20Association) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 7 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 2 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Budget/Appropriations** → Funds **Jeff Merkley** → Sits on **Budget**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Immigration** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
+
+**Funded politicians:**
+
+- [[Gavin Newsom]] — lobbying: $10.4M
+- [[Jeff Merkley]] (Budget, Environment & Public Works) — lobbying: $10.4M
+- [[Sherrod Brown]] — lobbying: $10.4M
+- [[Barbara Lee]] — lobbying: $10.4M
+- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $10.4M
+- [[Maxine Waters]] — lobbying: $10.4M
+- [[Eric Swalwell]] — lobbying: $10.4M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Proposed Rule | 1 |
+| Rule | 1 |
+| Agencies | National Labor Relations Board |
+
+**Recent regulatory activity:**
+- [Representation-Case Procedures: Voter List Contact Information; Absentee Ballots for Employees on Military Leave](https://www.federalregister.gov/documents/2020/07/29/2020-15596/representation-case-procedures-voter-list-contact-information-absentee-ballots-for-employees-on) (2020-07-29) — National Labor Relations Board ★
+- [Representation-Case Procedures](https://www.federalregister.gov/documents/2014/12/15/2014-28777/representation-case-procedures) (2014-12-15) — National Labor Relations Board ★
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Nurses%20Association%22) (Tier 1)
+<!-- auto:federal-register end -->

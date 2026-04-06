@@ -26,6 +26,8 @@ court-jurisdictions:
   - "United States Bankruptcy Court, W.D. Pennsylvania"
 lobbying-spend: 790000
 lobbying-filings: 140
+lei: "558600L19F2GCYX6QZ15"
+lei-jurisdiction: "SA"
 ---
 
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis
@@ -312,3 +314,44 @@ content-readiness:: developed
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=US%20Chamber%20of%20Commerce) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Banking** → Funds **John Cornyn** → Sits on **Finance**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **John Cornyn** → Sits on **Judiciary**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Cornyn** → Sits on **Finance**
+- Lobbies on **Immigration** → Funds **John Cornyn** → Sits on **Judiciary**
+- Lobbies on **Intelligence** → Funds **John Cornyn** → Sits on **Intelligence**
+- Lobbies on **Medicare/Medicaid** → Funds **John Cornyn** → Sits on **Finance**
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $790K
+- [[Barack Obama]] — lobbying: $790K
+- [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $790K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [558600L19F2GCYX6QZ15](https://search.gleif.org/#/record/558600L19F2GCYX6QZ15) |
+| Legal Name | My First Choice Contracting Company |
+| Jurisdiction | SA |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2024-06-14T12:14:46Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

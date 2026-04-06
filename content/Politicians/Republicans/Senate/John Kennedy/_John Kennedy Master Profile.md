@@ -2,7 +2,7 @@
 title: "John Kennedy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -21,6 +21,9 @@ top-donors:
 govtrack-id: 406274
 bills-sponsored: 0
 bills-cosponsored: 0
+stock-trades: 2
+stock-trade-tickers:
+  - "MTUM"
 ---
 
 #kennedy #louisiana #judiciary #energy #petrochemical #populist-brand #folksy #banking #cfpb #cancer-alley
@@ -188,3 +191,25 @@ See sub-note: [[The Folksy Populist Brand and Petrochemical Reality]]
 
 profile-status:: developed
 content-readiness:: developed
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 2 |
+| Purchases | 1 |
+| Sales | 0 |
+| Exchanges | 1 |
+| Est. Value Range | $2,002 – $30,000 |
+
+**Top tickers traded:** MTUM
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 10/11/2018 | MTUM | Purchase | $1,001 - $15,000 | Self |
+| 10/09/2018 | -- | exchange | $1,001 - $15,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

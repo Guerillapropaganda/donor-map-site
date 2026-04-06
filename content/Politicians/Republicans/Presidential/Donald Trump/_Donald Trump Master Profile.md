@@ -287,3 +287,17 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 - [CNBC: Trump threatens ICE at airports](https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html) (Tier 2)
 
 profile-status:: ready — master profile fully built with inline citations. All bold headers converted to ### format. Mega-donors individually sourced (OpenSecrets Tier 1, Brennan Center Tier 2). Industry sectors (fossil fuel, crypto, tech, private prisons, defense) documented with source tier labels. Donation-to-policy timeline with temporal mapping. MAGA Inc 2026 war chest ($300M) documented. March 2026 updates (Iran war, executive orders, DHS shutdown). 17 policy sub-notes linked. Promoted to ready Session 
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Timothy Mellon]] — $1.9M lobbying spend (Banking, Energy/Nuclear, Financial Institutions/Investments/Securities)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

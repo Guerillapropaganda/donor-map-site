@@ -190,3 +190,21 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 - [CBS News: Sen. Ernst officially announces she won't seek reelection in 2026, opening Iowa Senate seat](https://www.cbsnews.com/news/joni-ernst-retiring-2026-iowa-senate/) (Tier 2)
 - [Wikipedia: 2026 United States Senate election in Iowa](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa) (Tier 3)
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Ethanol Industry** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
+
+**Donors who lobby (by spend):**
+
+- [[Ethanol Industry]] — $2.3M lobbying spend (Agriculture, Copyright/Patent/Trademark, Energy/Nuclear)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

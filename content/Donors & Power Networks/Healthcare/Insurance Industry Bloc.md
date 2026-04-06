@@ -2,13 +2,17 @@
 title: "Insurance Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Individual Donor"
 issues:
   - "Healthcare"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "UKRAINE-EO13662] [RUSSIA-EO14024"
 ---
 
 #insurance #industry-bloc #healthcare #aca #public-option #lobbying #managed-care
@@ -51,3 +55,20 @@ Post-ACA insurance industry revenue growth: UnitedHealth grew from $110 billion 
 - [Ballotpedia: Health insurance industry](https://ballotpedia.org/Insurance_Industry_Bloc) (Tier 3)
 
 content-readiness:: ready
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | UKRAINE-EO13662] [RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- GAS INDUSTRY INSURANCE COMPANY SOGAZ (-0-) [UKRAINE-EO13662] [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; alt. Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; Tax ID No. 7736035485 (...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

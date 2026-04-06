@@ -24,6 +24,18 @@ top-donors:
   - "AIPAC - American Israel Public Affairs Committee"
 total-received: "$365,144"
 fec-candidate-id: "S6RI00221"
+stock-trades: 687
+stock-trade-tickers:
+  - "GILD"
+  - "FB"
+  - "IBM"
+  - "T"
+  - "BIIB"
+  - "NVDA"
+  - "BMY"
+  - "C"
+  - "AAPL"
+  - "AMGN"
 ---
 
 #master-profile #democrat #senate #rhode-island #dark-money #court-reform #judicial-capture #environment #trial-lawyers #pro-israel
@@ -233,3 +245,45 @@ content-readiness:: developed
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Ocean Conservancy]] — $5.7M lobbying spend (Aerospace, Agriculture, Animals)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 687 |
+| Purchases | 384 |
+| Sales | 272 |
+| Exchanges | 13 |
+| Est. Value Range | $2,993,669 – $15,770,000 |
+
+**Top tickers traded:** GILD, FB, IBM, T, BIIB, NVDA, BMY, C
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/28/2018 | AMZN | Purchase | $1,001 - $15,000 | Joint |
+| 12/28/2018 | F | Sale | $1,001 - $15,000 | Joint |
+| 12/28/2018 | NVDA | Purchase | $1,001 - $15,000 | Joint |
+| 12/28/2018 | T | Sale | $1,001 - $15,000 | Joint |
+| 12/28/2018 | TSLA | Purchase | $1,001 - $15,000 | Joint |
+| 12/28/2018 | BMY | Sale | $15,001 - $50,000 | Joint |
+| 12/28/2018 | ILMN | Purchase | $1,001 - $15,000 | Self |
+| 12/28/2018 | F | Sale | $1,001 - $15,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

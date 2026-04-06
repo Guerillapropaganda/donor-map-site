@@ -2,7 +2,7 @@
 title: "Rupert Murdoch"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -10,6 +10,19 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
   - "Mitch McConnell"
+court-cases: 415
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Colorado"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Virginia"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. California"
+  - "District Court, S.D. Florida"
 ---
 
 #donor #murdoch #oligarch #media #fox-news #uk #australia #us
@@ -192,3 +205,22 @@ content-readiness:: ready
 | UNITED TOGETHER | $500.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 415 |
+| Courts | District Court, C.D. California, District Court, D. Colorado, District Court, E.D. New York, District Court, E.D. Virginia, District Court, M.D. Florida, District Court, N.D. California, District Court, N.D. Illinois, District Court, N.D. Texas +5 more |
+| Case Types | 320 Assault Libel & Slander, 410 Anti-Trust, 440 Civil Rights: Other, 820 Copyright, 890 Other Statutory Actions |
+
+**Notable cases:**
+- v. Presidential Candidate Number P60005535 (2026) — District Court, W.D. New York
+- Presidential Candidate Number P60005535 v. Gates (2025) — District Court, S.D. California
+- Martino v. Internet Archive (2025) — District Court, N.D. California
+- Emrit v. Erin Burnett Outfront of Cable News Network (CNN) Perhaps "Madame President," The Hypothetical Erin Burnett for President 2028 Campaign (2025) — District Court, E.D. New York
+- Halpern v. Powell (2025) — District Court, N.D. Illinois
+- United States v. Comey (2025) — District Court, E.D. Virginia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Rupert%20Murdoch%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

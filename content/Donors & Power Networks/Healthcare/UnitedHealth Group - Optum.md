@@ -147,3 +147,20 @@ Healthcare — COVID contracts, PBM regulation, single-payer
 
 research-status:: ready — Newsom contributions confirmed ($231K+), COVID no-bid contracts ($544.2M total), federal PAC ($3.14M raised, $7.52M lobbying), PBM veto documented, CEO Thompson killing contextualized. All ### headers, Tier 1-2 sources verified. Promoted to ready Session 38h.
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]] — lobbying: $25.1M
+- [[Nancy Pelosi]] — lobbying: $25.1M
+- [[Joe Biden]] — lobbying: $25.1M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

@@ -76,3 +76,25 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Defense%20Industry%20Bloc) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Budget/Appropriations** → Funds **Patty Murray** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **Patty Murray** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Patty Murray** → Sits on **Appropriations**
+
+**Funded politicians:**
+
+- [[Patty Murray]] (Appropriations) — lobbying: $2.0M
+- [[Tommy Tuberville]] — lobbying: $2.0M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

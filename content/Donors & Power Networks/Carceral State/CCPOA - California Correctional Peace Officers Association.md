@@ -212,3 +212,18 @@ Ballot measures — Prop 36 (supported, $300K), Prop 1 (supported via Newsom, $1
 
 research-status:: ready — core role fully documented. CCPOA power mapped across funding ($2.9M to Newsom, $1.6B in contracts), prison closures (5 facilities, $928M+ savings), overtime structure ($600M+ annually), and policy outcomes. 9 major section headers with class analysis framework. 23 sources (Tier 1-2). File length: 188 lines. Complete contradiction callout on Newsom dynamic. All wikilinks verified. Promoted Session 38k.
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]] — contracts: $172K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

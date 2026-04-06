@@ -2,7 +2,7 @@
 title: "Roger Wicker"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -21,6 +21,10 @@ bills-sponsored: 39
 bills-cosponsored: 237
 website: "https://www.wicker.senate.gov"
 phone: "202-224-6253"
+stock-trades: 8
+stock-trade-tickers:
+  - "GDV"
+  - "BIF"
 ---
 
 
@@ -167,3 +171,30 @@ On foreign policy, Wicker positions as a reliable hawk — pro-Ukraine, pro-Taiw
 
 profile-status:: ready
 content-readiness:: ready
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 8 |
+| Purchases | 2 |
+| Sales | 6 |
+| Est. Value Range | $50,008 – $225,000 |
+
+**Top tickers traded:** GDV, BIF
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 11/17/2014 | -- | Sale | $1,001 - $15,000 | Spouse |
+| 08/24/2018 | GDV | Sale | $1,001 - $15,000 | Spouse |
+| 05/17/2019 | BIF | Purchase | $1,001 - $15,000 | Spouse |
+| 05/17/2019 | GDV | Sale | $1,001 - $15,000 | Spouse |
+| 04/29/2014 | -- | Sale | $15,001 - $50,000 | Spouse |
+| 04/23/2018 | GDV | Purchase | $1,001 - $15,000 | Spouse |
+| 04/23/2018 | -- | Sale | $15,001 - $50,000 | Spouse |
+| 01/02/2014 | -- | Sale | $15,001 - $50,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

@@ -2,7 +2,7 @@
 title: "Palantir Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -14,6 +14,21 @@ politicians-funded:
 issues:
   - "Defense & Military"
   - "Immigration"
+court-cases: 252
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Tenth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, E.D. New York"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Mississippi"
+  - "District Court, S.D. New York"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 
@@ -212,3 +227,40 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 ---
 
 research-status:: developed — Full OpenSecrets political spending, lobbying, and revolving door data. Complete LDA lobbying history 2006–2025 via Senate LDA API (489 filings). Contract timeline from Maven inception through $10B Army agreement. ICE surveillance documentation. Israel/IDF strategic partnership (Jan 2024) documented with Tier 2 sources. Local police surveillance (LAPD, NYPD) documented with Tier 2 sources. Class analysis complete. Remaining gaps: individual executive political contributions (FEC
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 252 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, District of Columbia, District Court, E.D. California, District Court, E.D. New York, District Court, M.D. Florida, District Court, N.D. California +4 more |
+| Case Types | 830 Patent, 880 Defend Trade Secrets Act (of 2016), 890 Other Statutory Actions, 899 Administrative Procedure Act/Review or Appeal of Agency Decision, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+- Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
+- Haviland v. Alen Corporation (2026) — District Court, W.D. Texas
+- Haviland v. State and Liberty Clothing Co., LLC (2026) — District Court, E.D. California
+- Williams v. Anthropic PBC (2026) — District Court, S.D. New York
+- Danielle Lynne Garfinkel v. RealClearHoldings, LLC (2026) — District Court, C.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Palantir%20Technologies%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Palantir%20Technologies) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

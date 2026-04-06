@@ -2,11 +2,13 @@
 title: "Heritage Foundation"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
+lei: "5493006YU7R03XUJSX56"
+lei-jurisdiction: "US-DC"
 ---
 
 #think-tank #conservative #project-2025 #dark-money #revolving-door #idea-laundering #regulatory-capture #judicial-pipeline #501c3
@@ -471,3 +473,18 @@ The December 2025 staff exodus — 12+ senior Heritage employees leaving over an
 ---
 
 content-readiness:: developed
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [5493006YU7R03XUJSX56](https://search.gleif.org/#/record/5493006YU7R03XUJSX56) |
+| Legal Name | Heritage Foundation (The) |
+| Jurisdiction | US-DC |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-08-04T15:54:36Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

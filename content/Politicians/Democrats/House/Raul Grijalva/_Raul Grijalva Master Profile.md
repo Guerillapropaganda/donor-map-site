@@ -18,6 +18,7 @@ issues:
   - "Environment"
 total-received: "$17,388"
 fec-candidate-id: "H2AZ07070"
+bioguide-id: "A000383"
 ---
 
 
@@ -176,3 +177,16 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ07070/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

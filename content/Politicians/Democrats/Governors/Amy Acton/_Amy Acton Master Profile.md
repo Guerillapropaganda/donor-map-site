@@ -181,3 +181,17 @@ party:: Democrat
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Ohio AFL-CIO]] — $2.8M lobbying spend (Aerospace, Agriculture, Aviation/Airlines/Airports)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

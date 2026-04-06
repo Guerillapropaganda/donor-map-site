@@ -2,7 +2,7 @@
 title: "Jack Reed"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,6 +18,7 @@ issues:
 top-donors:
   - "Lockheed Martin"
   - "Boeing"
+stock-trades: 1
 ---
 
 
@@ -163,3 +164,21 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 - [Wikipedia: Jack Reed (politician)](https://en.wikipedia.org/wiki/Jack_Reed_%28politician%29) (Tier 3)
 
 content-readiness:: ready
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 1 |
+| Purchases | 0 |
+| Sales | 0 |
+| Est. Value Range | $0 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 01/06/2014 | N/A | other | Unknown | N/A |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

@@ -24,6 +24,9 @@ bills-sponsored: 21
 bills-cosponsored: 188
 website: "https://www.cantwell.senate.gov"
 phone: "202-224-3441"
+stock-trades: 6
+stock-trade-tickers:
+  - "RNWK"
 ---
 
 
@@ -205,3 +208,28 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/300018) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 6 |
+| Purchases | 0 |
+| Sales | 5 |
+| Est. Value Range | $5,005 – $75,000 |
+
+**Top tickers traded:** RNWK
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
+| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
+| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
+| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
+| 04/28/2016 | RNWK | Sale | $1,001 - $15,000 | Self |
+| 01/16/2014 | N/A | other | Unknown | N/A |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

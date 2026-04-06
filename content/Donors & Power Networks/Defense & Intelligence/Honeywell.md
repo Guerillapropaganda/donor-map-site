@@ -20,6 +20,18 @@ regulatory-agencies:
   - "National Highway Traffic Safety Administration"
   - "Nuclear Regulatory Commission"
   - "Transportation Department"
+court-cases: 5233
+court-jurisdictions:
+  - "Court of Appeals for the Federal Circuit"
+  - "Court of Appeals for the Tenth Circuit"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. New Jersey"
+  - "District Court, D. South Carolina"
+  - "District Court, E.D. Texas"
+  - "District Court, N.D. Illinois"
+  - "District Court, W.D. North Carolina"
+  - "United States Bankruptcy Court, D. Puerto Rico"
+  - "United States Court of International Trade"
 ---
 
 #defense-contractor #aerospace #pac-donor #defense-committee #bipartisan
@@ -89,3 +101,22 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Honeywell%20International%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 5,233 |
+| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Tenth Circuit, District Court, D. Massachusetts, District Court, D. New Jersey, District Court, D. South Carolina, District Court, E.D. Texas, District Court, N.D. Illinois, District Court, W.D. North Carolina +2 more |
+| Case Types | 3360 Other Personal Injury, 830 Patent, 893 Environmental Matters |
+
+**Notable cases:**
+- MISA v. HONEYWELL INTERNATIONAL, INC. (2026) — District Court, D. New Jersey
+- Rockford Pipe Trades Industry Pension Fund v. Honeywell International Inc. (2026) — District Court, N.D. Illinois
+- ST. CLAIR WATER AND SEWER AUTHORITY v. AGC Chemicals Americas Inc (2026) — District Court, D. South Carolina
+- DataCloud Technologies, LLC v. Honeywell International Inc. (2026) — District Court, E.D. Texas
+- Atmus Filtration, Inc. v. United States (2026) — United States Court of International Trade
+- Funderburk v. Honeywell International, Inc. Benefit Plan (2026) — District Court, W.D. North Carolina
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Honeywell%20International%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

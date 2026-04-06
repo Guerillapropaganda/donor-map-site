@@ -2,7 +2,7 @@
 title: "Defense Contractors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -11,6 +11,19 @@ ein: 20654518
 annual-revenue: "$1.3M"
 net-assets: "$2.2M"
 tax-year: "2023"
+federal-register-mentions: 327
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Defense Acquisition Regulations System"
+  - "Defense Department"
+  - "Executive Office of the President"
+  - "Federal Aviation Administration"
+  - "Federal Communications Commission"
+  - "Federal Procurement Policy Office"
+  - "General Services Administration"
+  - "Management and Budget Office"
+  - "National Aeronautics and Space Administration"
+  - "Small Business Administration"
 ---
 
 #defense-contractors #military-industrial #bipartisan #ndaa #revolving-door #lobbying #class-analysis #follow-the-money
@@ -150,3 +163,26 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 ---
 
 content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 327 |
+| Final Rules | 100 |
+| Proposed Rules | 86 |
+| Notices | 140 |
+| Presidential Documents | 1 |
+| Agencies | Defense Acquisition Regulations System, Defense Department, Executive Office of the President, Federal Aviation Administration, Federal Communications Commission, Federal Procurement Policy Office, General Services Administration, Management and Budget Office +3 more |
+
+**Recent regulatory activity:**
+- [Conformance of Cost Accounting Standards to Generally Accepted Accounting Principles for CAS 407 Use of Standard Costs for Direct Material and Direct Labor](https://www.federalregister.gov/documents/2026/03/20/2026-05512/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-cas-407-use) (2026-03-20) — Management and Budget Office
+- [Increase of Monetary Thresholds and Other Matters Related to Cost Accounting Standards Program Requirements](https://www.federalregister.gov/documents/2026/03/20/2026-05511/increase-of-monetary-thresholds-and-other-matters-related-to-cost-accounting-standards-program) (2026-03-20) — Management and Budget Office
+- [Prioritizing the Warfighter in Defense Contracting](https://www.federalregister.gov/documents/2026/01/13/2026-00554/prioritizing-the-warfighter-in-defense-contracting) (2026-01-13) — Executive Office of the President
+- [Information Collection Requirements; Defense Federal Acquisition Regulation Supplement; Contractors Performing Private Security Functions Outside the United States](https://www.federalregister.gov/documents/2026/01/05/2025-24266/information-collection-requirements-defense-federal-acquisition-regulation-supplement-contractors) (2026-01-05) — Defense Department
+- [Promoting Technological Solutions To Combat Contraband Wireless Device Use in Correctional Facilities](https://www.federalregister.gov/documents/2025/11/26/2025-21325/promoting-technological-solutions-to-combat-contraband-wireless-device-use-in-correctional) (2025-11-26) — Federal Communications Commission
+- [Conformance of Cost Accounting Standards to Generally Accepted Accounting Principles for Operating Revenue and Lease Accounting](https://www.federalregister.gov/documents/2025/09/11/2025-17480/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-operating) (2025-09-11) — Management and Budget Office
+- ... and 321 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Defense%20Contractors%22) (Tier 1)
+<!-- auto:federal-register end -->

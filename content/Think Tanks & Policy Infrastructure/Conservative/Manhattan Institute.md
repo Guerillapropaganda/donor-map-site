@@ -12,6 +12,17 @@ last-enriched: "2026-04-06"
 regulatory-agencies:
   - "Commerce Department"
   - "Securities and Exchange Commission"
+ofac-sdn-match: "true"
+ofac-programs:
+  - "UKRAINE-EO13661"
+  - "CYBER2] [CAATSA - RUSSIA"
+  - "IRAN] [NPWMD] [IFSR"
+  - "NPWMD] [IFSR"
+  - "CAATSA - RUSSIA"
+  - "NPWMD"
+  - "NPWMD] [RUSSIA-EO14024"
+  - "RUSSIA-EO14024"
+  - "UKRAINE-EO13662] [RUSSIA-EO14024"
 ---
 
 #think-tank #conservative #policing #housing #education #criminal-justice #anti-dei #urban-policy #class-analysis
@@ -231,3 +242,28 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Manhattan%20Institute%20for%20Policy%20Research%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 94 |
+| Sanctions Programs | UKRAINE-EO13661, CYBER2] [CAATSA - RUSSIA, IRAN] [NPWMD] [IFSR, NPWMD] [IFSR, CAATSA - RUSSIA, NPWMD, NPWMD] [RUSSIA-EO14024, RUSSIA-EO14024, UKRAINE-EO13662] [RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- JSC V. TIKHOMIROV SCIENTIFIC RESEARCH INSTITUTE OF INSTRUMENT DESIGN (-0-) [UKRAINE-EO13661]
+  - Remarks: Website http://www.niip.ru; Email Address niip@niip.ru; Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; Registration ID 1025001627859; Governmen...
+- KVANT SCIENTIFIC RESEARCH INSTITUTE (-0-) [CYBER2] [CAATSA - RUSSIA]
+  - Remarks: Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201; Linked To: FEDERAL SECURITY SERVICE.
+- NUCLEAR SCIENCE AND TECHNOLOGY RESEARCH INSTITUTE (-0-) [IRAN] [NPWMD] [IFSR]
+  - Remarks: Website https://nstri.aeoi.org.ir/; alt. Website https://nstri.ir/; Additional Sanctions Information - Subject to Secondary Sanctions; a.k.a. 'NSTRI'; Linked To: ATOMIC ENERGY ORGANIZATION OF IRAN.
+- ASTRONAUTICS RESEARCH INSTITUTE (-0-) [NPWMD] [IFSR]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions.
+- STATE RESEARCH CENTER OF THE RUSSIAN FEDERATION FGUP CENTRAL SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND MECHANICS (-0-) [CAATSA - RUSSIA]
+  - Remarks: Website http://cniihm.ru; Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201; Tax ID No. 7724073013 (Russia); Government Gazette Number 07521506 (Russia); Registra...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

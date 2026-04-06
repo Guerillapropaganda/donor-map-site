@@ -10,6 +10,7 @@ chamber: "Senate"
 state: "Wisconsin"
 state-abbr: "WI"
 fec-candidate-id: "S2PA00513"
+stock-trades: 2
 ---
 
 #politician #republican #senate #wisconsin #tax-policy #manufacturing #covid #russia #class-analysis #follow-the-money #gavel-power
@@ -158,3 +159,22 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 2 |
+| Purchases | 0 |
+| Sales | 2 |
+| Est. Value Range | $5,100,002 – $25,250,000 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/20/2019 | -- | Sale | $100,001 - $250,000 | Self |
+| 03/02/2020 | -- | Sale | $5,000,001 - $25,000,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

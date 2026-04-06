@@ -148,3 +148,25 @@ Klobuchar's office has 18 documented revolving door staff movements since 2000 �
 
 profile-status:: ready
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Apple** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
+- **Apple** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
+- **Apple** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
+- **Apple** donates → Lobbies on **Immigration** → This member sits on **Antitrust (Judiciary)**
+- **Apple** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
+
+**Donors who lobby (by spend):**
+
+- [[Apple]] — $29.2M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

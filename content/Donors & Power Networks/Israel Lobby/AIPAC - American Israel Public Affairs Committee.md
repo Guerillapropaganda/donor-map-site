@@ -2,7 +2,7 @@
 title: "AIPAC - American Israel Public Affairs Committee"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -20,6 +20,11 @@ issues:
 featured-date: "2026-04-03"
 spotlight-reason: "Largest bipartisan political spender — $121.2M in 2024 including UDP Super PAC. Funds both parties to maintain 97-3 Senate votes on Israel aid."
 shareable-stat: "$121.2M spent in 2024. Both parties. 97-3 vote."
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "BELARUS"
+  - "GLOMAG"
 ---
 
 
@@ -452,3 +457,26 @@ content-readiness:: developed — April 2026 merge. Added UNVERIFIED sections: l
 | LANDSMAN FOR CONGRESS | $143.1K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 4 |
+| Sanctions Programs | BELARUS, GLOMAG |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- MAIN INTERNAL AFFAIRS DIRECTORATE OF THE MINSK CITY EXECUTIVE COMMITTEE (-0-) [BELARUS]
+  - Remarks: Tax ID No. 100582346 (Belarus).
+- DIRECTORATE OF INTERNAL AFFAIRS OF THE BREST OBLAST EXECUTIVE COMMITTEE (-0-) [BELARUS]
+  - Remarks: Target Type Government Entity; Registration Number 200127206 (Belarus).
+- DEPARTMENT OF INTERNAL AFFAIRS OF THE GOMEL REGIONAL EXECUTIVE COMMITTEE (-0-) [BELARUS]
+  - Remarks: Target Type Government Entity.
+- HOUTHI NATIONAL COMMITTEE FOR PRISONERS AFFAIRS (-0-) [GLOMAG]
+  - Remarks: a.k.a. 'NCPA'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

@@ -13,6 +13,10 @@ district: "27"
 top-donors:
   - "AIPAC"
 bioguide-id: "A000383"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "SDNTK"
 ---
 
 #politician #republican #house #florida #cuba #exile #class-analysis #follow-the-money #miami #little-havana
@@ -118,3 +122,20 @@ content-readiness:: developed
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | SDNTK |
+| Entity Types | individual |
+
+**Matched SDN entries:**
+- SALAZAR HERNANDEZ, Maria Alejandrina (individual) [SDNTK]
+  - Remarks: DOB 17 Jul 1958; POB Culiacan, Sinaloa, Mexico; Passport 140302262 (Mexico); R.F.C. SAHA580717AP6 (Mexico); C.U.R.P. SAHA580717MSLLRL07 (Mexico).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

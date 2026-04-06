@@ -2,7 +2,7 @@
 title: "Gary Peters Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -24,6 +24,18 @@ bills-sponsored: 70
 bills-cosponsored: 228
 website: "https://www.peters.senate.gov"
 phone: "202-224-6221"
+stock-trades: 133
+stock-trade-tickers:
+  - "CVS"
+  - "SHW"
+  - "T"
+  - "DWDP"
+  - "ARCC"
+  - "SPG"
+  - "IVZ"
+  - "TFC"
+  - "TOT"
+  - "GIS"
 ---
 
 
@@ -163,3 +175,31 @@ party:: Democrat
 profile-status:: ready
 research-status:: ready
 content-readiness:: ready
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 133 |
+| Purchases | 112 |
+| Sales | 11 |
+| Exchanges | 10 |
+| Est. Value Range | $469,133 – $2,835,000 |
+
+**Top tickers traded:** CVS, SHW, T, DWDP, ARCC, SPG, IVZ, TFC
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/31/2019 | -- | exchange | $1,001 - $15,000 | Self |
+| 12/31/2019 | -- | exchange | $1,001 - $15,000 | Self |
+| 12/30/2016 | SPG | Purchase | $1,001 - $15,000 | Self |
+| 12/19/2019 | -- | Purchase | $15,001 - $50,000 | Self |
+| 12/19/2019 | -- | Purchase | $15,001 - $50,000 | Self |
+| 12/06/2019 | TFC | exchange | $15,001 - $50,000 | Self |
+| 11/30/2016 | CVS | Purchase | $1,001 - $15,000 | Self |
+| 11/25/2015 | -- | Purchase | $1,001 - $15,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

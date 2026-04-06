@@ -192,3 +192,22 @@ research-status:: developed — $65M FY2024 revenue, $100M+ SCOTUS confirmation 
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Judicial%20Crisis%20Network) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 5 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Neil Gorsuch]] — lobbying: $248K
+- [[Amy Coney Barrett]] — lobbying: $248K
+- [[Brett Kavanaugh]] — lobbying: $248K
+- [[Sheldon Whitehouse]] (Environment & Public Works) — lobbying: $248K
+- [[Clarence Thomas]] — lobbying: $248K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

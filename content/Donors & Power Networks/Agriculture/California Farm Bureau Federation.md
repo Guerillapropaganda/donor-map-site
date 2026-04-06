@@ -2,7 +2,7 @@
 title: "California Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-04
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -15,6 +15,19 @@ ein: 940357610
 annual-revenue: "$12.9M"
 net-assets: "$73.5M"
 tax-year: "2023"
+federal-register-mentions: 23
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Alcohol and Tobacco Tax and Trade Bureau"
+  - "Commerce Department"
+  - "Environmental Protection Agency"
+  - "Federal Motor Carrier Safety Administration"
+  - "Fish and Wildlife Service"
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
+  - "Homeland Security Department"
+  - "Interior Department"
+  - "Labor Department"
 ---
 
 
@@ -108,3 +121,25 @@ Immigration — H-2A program, undocumented workforce
 
 research-status:: ready — 30K member families, FarmPAC $29K-$64K/cycle, AFBF $1.3-1.5M federal lobbying, anti-unionization radio spending, H-2A/AB 2183 positions, small farmer tension. 3 sources, Tier 1. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 23 |
+| Final Rules | 10 |
+| Proposed Rules | 7 |
+| Notices | 6 |
+| Agencies | Alcohol and Tobacco Tax and Trade Bureau, Commerce Department, Environmental Protection Agency, Federal Motor Carrier Safety Administration, Fish and Wildlife Service, Food and Drug Administration, Health and Human Services Department, Homeland Security Department +7 more |
+
+**Recent regulatory activity:**
+- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption Relating to Agricultural Water](https://www.federalregister.gov/documents/2021/12/06/2021-26127/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption-relating) (2021-12-06) — Health and Human Services Department ★
+- [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/11/10/2021-24365/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (2021-11-10) — Interior Department ★
+- [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/01/15/2021-00484/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (2021-01-15) — Interior Department ★
+- [Hours of Service of Drivers](https://www.federalregister.gov/documents/2019/08/22/2019-17810/hours-of-service-of-drivers) (2019-08-22) — Transportation Department ★
+- [Amendments To Implement Certain Provisions of the Fixing America's Surface Transportation Act or “FAST Act”](https://www.federalregister.gov/documents/2016/07/22/2016-17114/amendments-to-implement-certain-provisions-of-the-fixing-americas-surface-transportation-act-or-fast) (2016-07-22) — Transportation Department
+- [Improve Tracking of Workplace Injuries and Illnesses](https://www.federalregister.gov/documents/2016/05/12/2016-10443/improve-tracking-of-workplace-injuries-and-illnesses) (2016-05-12) — Labor Department ★
+- ... and 17 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Farm%20Bureau%20Federation%22) (Tier 1)
+<!-- auto:federal-register end -->

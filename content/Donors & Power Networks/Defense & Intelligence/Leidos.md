@@ -2,13 +2,50 @@
 title: "Leidos"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Corporation"
 issues:
   - "Defense & Military"
+sec-filings: 10000
+sec-form-types:
+  - "10-KT"
+  - "10-Q"
+  - "10-Q/A"
+  - "4"
+  - "424B3"
+  - "425"
+  - "8-K"
+  - "8-K/A"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.1"
+  - "EX-10.16"
+  - "EX-10.18"
+  - "EX-10.19"
+  - "EX-10.2"
+  - "EX-10.20"
+  - "EX-10.21"
+  - "EX-10.5"
+  - "EX-2.1"
+  - "EX-21"
+  - "EX-99.1"
+  - "EX-99.11"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "PRER14A"
+  - "S-4"
+  - "S-4/A"
+  - "SCHEDULE 13G/A"
+ein: "203922378"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-06"
+total-revenue: 186389
+total-assets: 730985
+cpsc-recalls: 2
 ---
 
 #leidos #defense #intelligence #it #government #contractor #cybersecurity #revolving-door #outsourcing #surveillance
@@ -147,3 +184,65 @@ content-readiness:: developed
 | DCCC | $30.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-KT, 10-Q, 10-Q/A, 4, 424B3, 425, 8-K, 8-K/A +21 more |
+| CIK | 1336920 |
+| Ticker | LDOS |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000155/0001336920-26-000155-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000152/0001336920-26-000152-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000149/0001336920-26-000149-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000146/0001336920-26-000146-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000143/0001336920-26-000143-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Leidos%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 203922378 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $186K |
+| Total Assets | $731K |
+| NTEE Code | M20 |
+| IRS Ruling Date | 2007-02-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/203922378) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 2 |
+| Most Recent Recall | 2015-04-30 |
+| Earliest Recall | 1992-02-11 |
+| Hazard Types | The end caps of the kaleidoscope can be removed and expose small parts that can come loose and pose a choking hazard to small children and internal components that pose a risk of laceration., Choking |
+
+**Recent recalls:**
+
+- [Branded LLC Recalls Kaleidoscope Toy Due to Choking, Laceration Hazards; Offered Exclusively at H-E-B Stores in Texas](https://www.cpsc.gov/Recalls/15126) (2015-04-30) — The end caps of the kaleidoscope can be removed and expose small parts that can come loose and pose a choking hazard to small children and internal components that pose a risk of laceration.
+- [Kaleidoscope Necklaces Recalled As Choking Hazard](https://www.cpsc.gov/Recalls/92053) (1992-02-11) — Choking
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Leidos) (Tier 1)
+<!-- auto:cpsc-recalls end -->

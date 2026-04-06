@@ -22,6 +22,7 @@ bills-sponsored: 102
 bills-cosponsored: 625
 website: "https://www.blumenthal.senate.gov"
 phone: "202-224-2823"
+stock-trades: 50
 ---
 
 
@@ -204,3 +205,28 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412490) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 50 |
+| Purchases | 0 |
+| Sales | 0 |
+| Est. Value Range | $0 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/22/2015 | N/A | other | Unknown | N/A |
+| 12/18/2018 | N/A | other | Unknown | N/A |
+| 12/18/2017 | N/A | other | Unknown | N/A |
+| 12/16/2019 | N/A | other | Unknown | N/A |
+| 12/06/2016 | N/A | other | Unknown | N/A |
+| 12/04/2018 | N/A | other | Unknown | N/A |
+| 12/02/2020 | N/A | other | Unknown | N/A |
+| 11/28/2018 | N/A | other | Unknown | N/A |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

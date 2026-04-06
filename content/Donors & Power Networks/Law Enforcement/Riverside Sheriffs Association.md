@@ -2,13 +2,15 @@
 title: "Riverside Sheriffs Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Chad Bianco"
+lobbying-spend: 1806000
+lobbying-filings: 73
 ---
 
 
@@ -144,3 +146,22 @@ Criminal Justice — structural parallel to CCPOA as law enforcement union block
 
 research-status:: ready — Full citation pass complete. RSA $850K+/95% of Bianco 2018 funding, $600K+ supervisor donations, body camera lawsuit, $100M+ misconduct settlements, jail death trends (101→63), Bianco governor race $1.64M, civilian oversight opposition. 15 sources, Tier 1-2. Sources reformatted to bracket format. Promoted Session 38k.
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.8M |
+| Quarterly Filings | 73 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 12 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Agriculture, Aviation/Airlines/Airports, Budget/Appropriations, Disaster Planning/Emergencies, Education, Energy/Nuclear, Environment/Superfund, Health Issues, Labor Issues/Antitrust/Workplace, Natural Resources, Roads/Highway, Taxation/Internal Revenue Code, Transportation, Urban Development/Municipalities, Veterans
+
+**Lobbying firms:** BALLARD PARTNERS, CARDINAL INFRASTRUCTURE LLC, CLARK HILL PUBLIC STRATEGIES LLC, HOGAN LOVELLS US LLP, KADESH & ASSOCIATES, LLC, MAVERICK HILL PARTNERS, MR. CLIFF MADISON, O'CONNELL & DEMPSEY, LLC, RIVERSIDE STRATEGIC SOLUTIONS, LLC, RUFFALO AND ASSOCIATES, LLC, THORN RUN PARTNERS, VAN SCOYOC ASSOCIATES
+
+**Agencies contacted:** Advisory Council on Historic Preservation (ACHP), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Federal Aviation Administration (FAA), Federal Railroad Administration, HOUSE OF REPRESENTATIVES +7 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Riverside%20Sheriffs%20Association) (Tier 1)
+<!-- auto:lda-lobbying end -->

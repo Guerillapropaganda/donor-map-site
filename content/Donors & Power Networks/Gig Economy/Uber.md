@@ -2,7 +2,7 @@
 title: "Uber"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -12,6 +12,52 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Technology"
+sec-filings: 10000
+sec-form-types:
+  - "144"
+  - "4"
+  - "424B3"
+  - "425"
+  - "497K"
+  - "6-K"
+  - "8-K"
+  - "ARS"
+  - "D"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DRS/A"
+  - "EX-10.1"
+  - "EX-10.11"
+  - "EX-10.12"
+  - "EX-10.13"
+  - "EX-10.14"
+  - "EX-10.2"
+  - "EX-10.21"
+  - "EX-10.23"
+  - "EX-10.24"
+  - "EX-10.25"
+  - "EX-10.3"
+  - "EX-10.8"
+  - "EX-10.9"
+  - "EX-4.2"
+  - "EX-4.3"
+  - "EX-4.6"
+  - "EX-5.1"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "EX-99.5"
+  - "EX-99.6"
+  - "FWP"
+  - "LETTER"
+  - "NPORT-EX"
+  - "PRE 14A"
+  - "PX14A6G"
+  - "S-4"
+  - "S-4/A"
+  - "SCHEDULE 13G"
+  - "SCHEDULE 13G/A"
+  - "TEXT-EXTRACT"
 ---
 
 
@@ -143,3 +189,23 @@ content-readiness:: ready
 | CITIZENS TO ELECT RICK LARSEN | $3.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 144, 4, 424B3, 425, 497K, 6-K, 8-K, ARS +36 more |
+| CIK | 1543151 |
+| Ticker | UBER |
+
+**Notable filings:**
+
+- 2026-03-30 — **SCHEDULE 13G**: [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000171/0001552781-26-000171-index.htm)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1543151/000010290926002412/0000102909-26-002412-index.htm)
+- 2026-03-23 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000148/0001552781-26-000148-index.htm)
+- 2026-03-23 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000147/0001552781-26-000147-index.htm)
+- 2026-03-23 — **DEF 14A**: [DEFINITIVE PROXY STATEMENT](https://www.sec.gov/Archives/edgar/data/1543151/000130817926000125/0001308179-26-000125-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Uber%22) (Tier 1)
+<!-- auto:sec-edgar end -->

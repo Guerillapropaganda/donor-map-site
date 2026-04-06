@@ -2,13 +2,21 @@
 title: "Instacart"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Gig Economy"
 entity-type: "Corporation"
 issues:
   - "Labor & Workers"
+federal-register-mentions: 3
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Federal Trade Commission"
+  - "Food and Nutrition Service"
+  - "Labor Department"
+  - "Wage and Hour Division"
 ---
 
 #instacart #gig-economy #delivery #labor #independent-contractor #prop22
@@ -65,3 +73,20 @@ content-readiness:: ready
 | KATIE PORTER FOR CONGRESS | $542 |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 3 |
+| Proposed Rule | 2 |
+| Rule | 1 |
+| Agencies | Agriculture Department, Federal Trade Commission, Food and Nutrition Service, Labor Department, Wage and Hour Division |
+
+**Recent regulatory activity:**
+- [Rule Concerning the Use of Prenotification Negative Option Plans](https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans) (2026-03-13) — Federal Trade Commission
+- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (2024-01-10) — Labor Department
+- [Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Online Ordering and Transactions and Food Delivery Revisions To Meet the Needs of a Modern, Data-Driven Program](https://www.federalregister.gov/documents/2023/02/23/2023-02484/special-supplemental-nutrition-program-for-women-infants-and-children-wic-online-ordering-and) (2023-02-23) — Agriculture Department ★
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Instacart%22) (Tier 1)
+<!-- auto:federal-register end -->

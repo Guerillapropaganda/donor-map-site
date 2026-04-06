@@ -2,7 +2,7 @@
 title: "General Motors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -13,6 +13,8 @@ politicians-funded:
 federal-awards-total: 615175233
 federal-contracts-count: 25
 federal-grants-count: 20
+lobbying-spend: 61183910
+lobbying-filings: 104
 ---
 
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw
@@ -95,3 +97,22 @@ content-readiness:: ready
 | DSCC | $60.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $61.2M |
+| Quarterly Filings | 104 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 50 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Animals, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Government Issues, Health Issues, Homeland Security, Immigration, Indian/Native American Affairs, Intelligence, Labor Issues/Antitrust/Workplace, Manufacturing, Marine/Maritime/Boating/Fisheries, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Railroads, Roads/Highway, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** A1.9 STRATEGIES LLC, ACCELERATE STRATEGIES, AM GENERAL, LLC, AQUIA GROUP, LLC, ASSOCIATED GENERAL CONTRACTORS OF AMERICA, ATLANTIC STRATEGIES GROUP LLC, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BRIAN GLACKIN & ASSOCIATES LLC, C. BAKER CONSULTING, INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., CROSSROADS STRATEGIES, LLC, FBB FEDERAL RELATIONS, FIFESTRATEGIES, LLC, FORBES-TATE, GENERAL ATOMICS, GENERAL AVIATION MANUFACTURERS ASSOCIATION, GENERAL CATALYST GROUP MANAGEMENT, LLC, GENERAL DYNAMICS CORP, GENERAL ELECTRIC COMPANY (INCLUDING SUBSIDIARIES), GENERAL MILLS SERVICES INC. (FKA GENERAL MILLS), GENERAL MOTORS COMPANY, GUIDEPOSTSTRATEGIES, LLC, HALL, RENDER, KILLIAN, HEATH & LYMAN, P.C., KELLER PARTNERS & COMPANY, MASS GENERAL BRIGHAM (FORMERLY KNOWN AS PARTNERS HEALTHCARE), MCALLISTER & QUINN, LLC, MELTSNER STRATEGIES, LLC, MORAN GLOBAL STRATEGIES, INC., OLSSON, FRANK, WEEDA, TERMAN & MATZ, PC, OMEGA STRATEGIES, LLC., PARRY, ROMANI, DECONCINI & SYMMS, PENN AVENUE PARTNERS, PORTLAND GENERAL ELECTRIC, PRASAM, PUTALASTRATEGIES, REVERE FEDERAL STRATEGIES, RIDGE PATH STRATEGIES, SALT POINT STRATEGIES, SB STRATEGIC CONSULTING, INC., TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP), THE DIONNE COMPANY, THE GENERAL CONTRACTORS ASSOCIATION OF NEW YORK, THE NICKLES GROUP, LLC, THE VM GROUP, THE WILLIAMS GROUP, TIDAL STRATEGIES, LLC, TIDES GROUP, LLC, VELOS (FORMERLY PINNACLE ENGINEERING AND MANAGEMENT SOLUTIONS), WESTMORELAND160, LLC, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Bureau of Citizenship & Immigration Services (BCIS), Bureau of Indian Affairs (BIA), Centers For Medicare and Medicaid Services (CMS), Central Intelligence Agency (CIA), Commerce, Dept of (DOC) +60 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=General%20Motors) (Tier 1)
+<!-- auto:lda-lobbying end -->

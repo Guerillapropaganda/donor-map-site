@@ -2,7 +2,7 @@
 title: "Kelcy Warren - Energy Transfer Partners"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,6 +12,17 @@ politicians-funded:
   - "Greg Abbott"
 issues:
   - "Energy & Climate"
+sec-filings: 15
+sec-form-types:
+  - "10-K"
+  - "144"
+  - "4"
+  - "424B2"
+  - "424B5"
+  - "425"
+  - "8-K"
+  - "EX-99.1"
+  - "FWP"
 ---
 
 #donor #mega-donor #fossil-fuel #pipeline #dapl #texas #republican #energy-transfer #trump #class-analysis #follow-the-money
@@ -144,3 +155,23 @@ Warren's $1M Abbott donation after the 2021 Texas freeze is the most cynical tra
 
 research-status:: ready — Full expansion from 38 to 175+ lines. FEC data Chrome-verified (984 contributions, 100% Republican). Wikipedia Chrome-verified (political activity, DAPL). Complete donor node anatomy: Who They Are → What They Want → Who They Fund (contributions table) → What They've Gotten (Format 2 timeline, 9 rows) → Standing Rock Connection → Class Analysis → Capture Architecture → Sources. 5 sources (Tier 1–3). Key data: $20M+ Trump, $10M America First Action, $6M Perry, $1M Abbott, 984 FEC contributions, DAPL executive order 4 days after inauguration.
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 15 |
+| Form Types | 10-K, 144, 4, 424B2, 424B5, 425, 8-K, EX-99.1 +1 more |
+| CIK | 1276187 |
+| Ticker | ET |
+
+**Notable filings:**
+
+- 2026-03-13 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1276187/000195917326002267/0001959173-26-002267-index.htm)
+- 2026-02-19 — **10-K**: [10-K](https://www.sec.gov/Archives/edgar/data/1276187/000127618726000013/0001276187-26-000013-index.htm)
+- 2026-02-17 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1276187/000127618726000004/0001276187-26-000004-index.htm)
+- 2026-01-27 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1276187/000119312526024378/0001193125-26-024378-index.htm)
+- 2026-01-14 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/1276187/000119312526012871/0001193125-26-012871-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kelcy%20Warren%20-%20Energy%20Transfer%20Partners%22) (Tier 1)
+<!-- auto:sec-edgar end -->

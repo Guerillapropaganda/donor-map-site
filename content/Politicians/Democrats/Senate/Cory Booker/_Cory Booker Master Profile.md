@@ -2,7 +2,7 @@
 title: "Cory Booker"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,18 @@ top-donors:
   - "Merck"
   - "Johnson & Johnson"
   - "Silicon Valley Democratic Donor Network"
+stock-trades: 13
+stock-trade-tickers:
+  - "IRM"
+  - "AMT"
+  - "NFLX"
+  - "NKE"
+  - "IBM"
+  - "FB"
+  - "AMZN"
+  - "AAPL"
+  - "DISH"
+  - "EBAY"
 ---
 
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door
@@ -178,3 +190,44 @@ The development was real. The question is who benefited: corporate headquarters 
 
 profile-status:: ready
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 13 |
+| Purchases | 0 |
+| Sales | 13 |
+| Est. Value Range | $104,013 – $385,000 |
+
+**Top tickers traded:** IRM, AMT, NFLX, NKE, IBM, FB, AMZN, AAPL
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 08/08/2014 | NKE | Sale | $1,001 - $15,000 | Self |
+| 08/08/2014 | IRM | Sale | $1,001 - $15,000 | Self |
+| 08/08/2014 | IBM | Sale | $1,001 - $15,000 | Self |
+| 08/08/2014 | FB | Sale | $1,001 - $15,000 | Self |
+| 08/08/2014 | AMZN | Sale | $1,001 - $15,000 | Self |
+| 08/08/2014 | AAPL | Sale | $1,001 - $15,000 | Self |
+| 08/08/2014 | DISH | Sale | $1,001 - $15,000 | Self |
+| 08/08/2014 | AMT | Sale | $50,001 - $100,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

@@ -2,7 +2,7 @@
 title: "Coinbase"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -11,6 +11,19 @@ politicians-funded:
   - "French Hill"
 issues:
   - "Technology"
+court-cases: 3698
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, D. Nevada"
+  - "District Court, D. New Jersey"
+  - "District Court, D. South Carolina"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Tennessee"
+  - "District Court, E.D. Virginia"
+  - "District Court, M.D. Alabama"
+  - "District Court, M.D. Tennessee"
+  - "District Court, N.D. California"
 ---
 
 #coinbase #crypto #lobbying #sec #deregulation #fairshake
@@ -98,3 +111,22 @@ content-readiness:: ready
 | PROTECT PROGRESS | $2.5M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 3,698 |
+| Courts | District Court, D. Nevada, District Court, D. New Jersey, District Court, D. South Carolina, District Court, E.D. Michigan, District Court, E.D. New York, District Court, E.D. Tennessee, District Court, E.D. Virginia, District Court, M.D. Alabama +6 more |
+| Case Types | 370 Other Fraud, 380 Personal Property: Other, 690 Forfeit/Penalty: Other, 840 Trademark, Racketeer/Corrupt Organization |
+
+**Notable cases:**
+- United States v. 6.03910214 BTC From Coinbase Account xxxxxxxxxxxxxxxxxxx5668e In The Name Of Linda Winder (2026) — District Court, E.D. Tennessee
+- Richard Dang (2026) — United States Bankruptcy Court, E.D. Pennsylvania
+- Matthew Thomas Lewellyn (2026) — United States Bankruptcy Court, S.D. Mississippi
+- MS2 Capital LLC v. Suthar (2026) — District Court, D. South Carolina
+- United States v. Approximately 1,070,013.93441 Tether (USDT) Cryptocurrency (2026) — District Court, M.D. Alabama
+- United States v. Daghita (2026) — District Court, E.D. Virginia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Coinbase%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

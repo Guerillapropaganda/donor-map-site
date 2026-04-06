@@ -2,7 +2,7 @@
 title: "UAW - United Auto Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -15,6 +15,13 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Labor & Workers"
+sec-filings: 15
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "ARS"
+  - "EX-99.1"
+  - "N-CSR"
 ---
 
 #donor #labor #union #auto-industry #working-class #fain #stand-up-strike #ev-transition #corruption #consent-decree
@@ -406,3 +413,21 @@ content-readiness:: developed
 | DCCC | $105.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 15 |
+| Form Types | 10-K, 10-Q, ARS, EX-99.1, N-CSR |
+
+**Notable filings:**
+
+- 2023-11-06 — **EX-99.1**: EX-99.1
+- 2025-05-08 — **10-Q**: 10-Q
+- 2023-10-25 — **10-Q**: 10-Q
+- 2025-07-23 — **10-Q**: 10-Q
+- 2025-10-22 — **10-Q**: 10-Q
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UAW%20-%20United%20Auto%20Workers%22) (Tier 1)
+<!-- auto:sec-edgar end -->

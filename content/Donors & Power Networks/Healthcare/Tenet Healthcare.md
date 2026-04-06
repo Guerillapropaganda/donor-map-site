@@ -2,7 +2,7 @@
 title: "Tenet Healthcare"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -10,6 +10,9 @@ entity-type: "Corporation"
 issues:
   - "Healthcare"
   - "Social Safety Net"
+federal-awards-total: 439929
+federal-contracts-count: 5
+federal-grants-count: 0
 ---
 
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory
@@ -149,3 +152,25 @@ content-readiness:: developed
 | AMERICAN HOSPITAL ASSOCIATION PAC | $40.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $440K |
+| Contracts (recent 3yr) | 5 ($1.1M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $675K | Department of Veterans Affairs | STERILE PROCESSING SERVICES |
+| $208K | Department of Veterans Affairs | SPS SERVICE |
+| $135K | Department of Veterans Affairs | STERILE PROCESSING SERVICES |
+| $69K | Department of Defense | STEAM STERILIZATION |
+| $9K | Department of Defense | INSTRUMENT STERILIZATION |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Tenet%20Healthcare) (Tier 1)
+<!-- auto:usaspending end -->

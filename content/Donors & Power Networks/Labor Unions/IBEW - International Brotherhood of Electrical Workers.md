@@ -21,6 +21,8 @@ regulatory-agencies:
   - "Nuclear Regulatory Commission"
   - "Occupational Safety and Health Administration"
   - "Transportation Department"
+ein: "611602482"
+nonprofit-status: "501(c)(5)"
 ---
 
 
@@ -137,3 +139,15 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22IBEW%20-%20International%20Brotherhood%20of%20Electrical%20Workers%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 611602482 |
+| Tax-Exempt Status | 501(c)(5) |
+| IRS Ruling Date | 1940-08-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/611602482) (Tier 1)
+<!-- auto:nonprofit-990 end -->

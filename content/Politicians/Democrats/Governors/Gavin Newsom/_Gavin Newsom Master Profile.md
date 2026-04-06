@@ -203,3 +203,18 @@ The new fault line: AI. Labor unions publicly conditioned 2028 support on AI reg
 profile-status:: ready — all policy areas have individual notes (healthcare, Israel, housing, labor, immigration, environment, criminal justice, education, economic policy). All bold headers converted to ### format. Donor class map with 10 sector links. Donation-to-policy timeline with temporal mapping. Rhetorical signature moves documented. 2028 positioning tracked. Analytical patterns applied. All major claims inline-cited with Tier 1-2 sources (FPPC, OpenSecrets, CalMatters). Promoted to ready Session 38h (March 23, 2026).
 content-readiness:: ready
  
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 2 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[UnitedHealth Group - Optum]] — $25.1M lobbying spend (Banking, Budget/Appropriations, Defense)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

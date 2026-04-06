@@ -2,7 +2,7 @@
 title: "Chris Coons Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,6 +14,11 @@ issues:
   - "Israel & Foreign Policy"
 top-donors:
   - "PhRMA"
+stock-trades: 24
+stock-trade-tickers:
+  - "NFLX"
+  - "AAPL"
+  - "MSFT"
 ---
 
 
@@ -137,3 +142,30 @@ profile-status:: ready
 research-status:: ready
 content-readiness:: ready
  
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 24 |
+| Purchases | 2 |
+| Sales | 21 |
+| Est. Value Range | $2,310,023 – $4,950,000 |
+
+**Top tickers traded:** NFLX, AAPL, MSFT
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/27/2018 | -- | Sale | $100,001 - $250,000 | Spouse |
+| 12/27/2018 | -- | Sale | $100,001 - $250,000 | Spouse |
+| 11/05/2018 | AAPL | Sale | $1,001 - $15,000 | Child |
+| 10/24/2018 | NFLX | Sale | $1,001 - $15,000 | Child |
+| 10/24/2018 | AAPL | Purchase | $1,001 - $15,000 | Child |
+| 09/12/2017 | -- | Sale | $250,001 - $500,000 | Self |
+| 08/23/2018 | NFLX | Purchase | $1,001 - $15,000 | Child |
+| 07/31/2020 | -- | Sale | $50,001 - $100,000 | Child |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

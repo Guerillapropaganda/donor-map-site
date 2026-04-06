@@ -2,13 +2,17 @@
 title: "American Fuel and Petrochemical Manufacturers"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
 issues:
   - "Energy & Climate"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "IRAN-EO13846"
 ---
 
 #donor #energy #fossil-fuel #trade-association #lobbying #republican-lean #climate-obstruction #class-analysis #follow-the-money
@@ -107,3 +111,20 @@ content-readiness:: draft
 | SCALISE FOR CONGRESS | $53.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | IRAN-EO13846 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- FUTURE GATE FUEL AND PETROCHEMICAL TRADING L.L.C. (-0-) [IRAN-EO13846]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions; Organization Established Date 17 Mar 2020; Commercial Registry Number 11510153 (United Arab Emirates); License 885714 (United Arab Em...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

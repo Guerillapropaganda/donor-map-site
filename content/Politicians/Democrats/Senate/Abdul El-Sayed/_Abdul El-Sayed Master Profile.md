@@ -11,6 +11,11 @@ state: "Michigan"
 state-abbr: "MI"
 total-received: "$5,350,824"
 fec-candidate-id: "S6MI00418"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "SDGT"
+  - "SDNT"
 ---
 
 
@@ -186,3 +191,22 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 2 |
+| Sanctions Programs | SDGT, SDNT |
+| Entity Types | individual |
+
+**Matched SDN entries:**
+- EL HADI, Mustapha Nasri Ben Abdul Kader Ait (individual) [SDGT]
+  - Remarks: DOB 05 Mar 1962; POB Tunis, Tunisia; nationality Algeria; alt. nationality Germany; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886.
+- DIB EL MALT, Abdul Naser (individual) [SDNT]
+  - Remarks: DOB 20 Aug 1967; nationality Lebanon; citizen Colombia; Cedula No. 276392 (Colombia); Passport 0218186 (Lebanon).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

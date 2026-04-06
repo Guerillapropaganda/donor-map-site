@@ -22,6 +22,9 @@ court-jurisdictions:
   - "District Court, M.D. Florida"
   - "District Court, N.D. Ohio"
   - "District Court, S.D. Ohio"
+ofac-sdn-match: "true"
+ofac-programs:
+  - "BALKANS"
 ---
 
 #ohio #democratic-party #state-party #rust-belt #labor #decline #donor-class #working-class
@@ -165,3 +168,20 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20Democratic%20Party%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | BALKANS |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- SERB DEMOCRATIC PARTY (-0-) [BALKANS]
+  - Remarks: a.k.a. 'SDS'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

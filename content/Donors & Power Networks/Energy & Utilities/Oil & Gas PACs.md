@@ -2,13 +2,25 @@
 title: "Oil & Gas PACs"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "PAC"
 issues:
   - "Energy & Climate"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "SDGT] [NPWMD] [IRGC] [IFSR"
+  - "IRAN"
+  - "IRAN] [IRAN-EO13876"
+  - "LIBYA3"
+  - "IRAN-EO13876"
+  - "IRAN-EO13846"
+  - "RUSSIA-EO14024"
+  - "UKRAINE-EO13662] [RUSSIA-EO14024"
+  - "IRAN-EO13902"
 ---
 
 #oil #gas #pacs #fossil-fuel #republican #bipartisan #energy
@@ -34,3 +46,28 @@ Oil and gas PACs are targeted with precision: the largest contributions go to me
 - [Ballotpedia: Oil and gas political spending](https://ballotpedia.org/Oil_&_Gas_PACs) (Tier 3)
 
 content-readiness:: ready
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 16 |
+| Sanctions Programs | SDGT] [NPWMD] [IRGC] [IFSR, IRAN, IRAN] [IRAN-EO13876, LIBYA3, IRAN-EO13876, IRAN-EO13846, RUSSIA-EO14024, UKRAINE-EO13662] [RUSSIA-EO14024, IRAN-EO13902 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- SEPANIR OIL AND GAS ENGINEERING COMPANY (-0-) [SDGT] [NPWMD] [IRGC] [IFSR]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886.
+- PARS OIL AND GAS COMPANY (-0-) [IRAN]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions.
+- PERSIA OIL & GAS INDUSTRY DEVELOPMENT CO. (-0-) [IRAN] [IRAN-EO13876]
+  - Remarks: Website http://www.pogidc.com; Additional Sanctions Information - Subject to Secondary Sanctions; National ID No. 10102933619 (Iran); Registration Number 252925 (Iran); Linked To: TADBIR ENERGY DEVELO...
+- TIUBODA OIL AND GAS SERVICES (-0-) [LIBYA3]
+  - Remarks: Tax ID No. 18571; Trade License No. 41992 (Libya); License 4541992.
+- PARSIAN OIL AND GAS DEVELOPMENT (-0-) [IRAN]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions; Linked To: GHADIR INVESTMENT COMPANY.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

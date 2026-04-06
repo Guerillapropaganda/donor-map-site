@@ -17,6 +17,18 @@ issues:
   - "Agriculture"
 total-received: "$824,977"
 fec-candidate-id: "S0ND00093"
+stock-trades: 225
+stock-trade-tickers:
+  - "WTW"
+  - "IBM"
+  - "IVZ"
+  - "ABBV"
+  - "T"
+  - "CAT"
+  - "MCD"
+  - "PRU"
+  - "UPS"
+  - "DWDP"
 ---
 
 #politician #republican #senate #north-dakota #energy #oil-gas #agriculture #appropriations #pipeline #class-analysis #follow-the-money #gavel-power
@@ -168,3 +180,31 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 225 |
+| Purchases | 142 |
+| Sales | 65 |
+| Exchanges | 6 |
+| Est. Value Range | $19,179,213 – $57,335,000 |
+
+**Top tickers traded:** WTW, IBM, IVZ, ABBV, T, CAT, MCD, PRU
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/31/2019 | BIV | Purchase | $100,001 - $250,000 | Self |
+| 12/31/2019 | VFIJX | Purchase | $50,001 - $100,000 | Self |
+| 12/31/2019 | SLB | Purchase | $50,001 - $100,000 | Self |
+| 12/31/2019 | MPC | Purchase | $50,001 - $100,000 | Self |
+| 12/29/2017 | AMZN | Purchase | $50,001 - $100,000 | Self |
+| 12/29/2017 | AVGO | Purchase | $100,001 - $250,000 | Self |
+| 12/29/2015 | -- | Sale | $100,001 - $250,000 | Self |
+| 12/28/2016 | CSX | Sale | $50,001 - $100,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

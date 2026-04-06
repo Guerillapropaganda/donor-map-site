@@ -18,6 +18,23 @@ top-donors:
   - "Koch Network"
 total-received: "$4,455,752"
 fec-candidate-id: "S4WV00159"
+stock-trades: 347
+stock-trade-tickers:
+  - "MSFT"
+  - "JPM"
+  - "WFC"
+  - "C"
+  - "JNJ"
+  - "ABT"
+  - "INTC"
+  - "ENB"
+  - "CSCO"
+  - "XOM"
+govtrack-id: 400061
+bills-sponsored: 24
+bills-cosponsored: 278
+website: "https://www.capito.senate.gov"
+phone: "202-224-6472"
 ---
 
 
@@ -190,3 +207,51 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 347 |
+| Purchases | 211 |
+| Sales | 125 |
+| Exchanges | 11 |
+| Est. Value Range | $628,347 – $5,895,000 |
+
+**Top tickers traded:** MSFT, JPM, WFC, C, JNJ, ABT, INTC, ENB
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/31/2018 | -- | Sale | $1,001 - $15,000 | Spouse |
+| 12/20/2017 | GDDY | Purchase | $1,001 - $15,000 | Spouse |
+| 12/20/2017 | CSX | Purchase | $1,001 - $15,000 | Spouse |
+| 12/19/2017 | ENB | Purchase | $1,001 - $15,000 | Spouse |
+| 12/19/2017 | SGAPY | Sale | $1,001 - $15,000 | Spouse |
+| 12/19/2017 | SSDOY | Sale | $1,001 - $15,000 | Spouse |
+| 12/16/2019 | CMCSA | Purchase | $1,001 - $15,000 | Spouse |
+| 12/13/2018 | PG | Purchase | $1,001 - $15,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 278 |
+| Total Votes Cast | 13,966 |
+| Leadership | Senate Republican Policy Committee Chair |
+
+**Recent bills sponsored:**
+
+- S. 4221: Ensuring Better Interest Treatment and Deductibility Act (EBITDA) — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4036: AADAPT Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 10, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3472: National Strategy for School Security Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 15, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 537: A resolution honoring the service and sacrifice of United States Army Specialist Sarah Beckstrom and United States Air F — *This simple resolution was agreed to on December 9, 2025. That is the end of the legislative process for a simple resolution.*
+- S. 351: STEWARD Act of 2025 — *This bill passed in the Senate on November 20, 2025 and goes to the House next for consideration.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400061) (Tier 1)
+<!-- auto:govtrack end -->

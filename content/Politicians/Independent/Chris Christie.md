@@ -2,7 +2,7 @@
 title: "Chris Christie"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
@@ -105,3 +105,10 @@ His withdrawal in January 2024 was unremarkable — another failed presidential 
 
 profile-status:: ready
 c
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

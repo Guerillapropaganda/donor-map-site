@@ -2,9 +2,10 @@
 title: "Kathy Hochul"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
+bioguide-id: "A000383"
 ---
 
 #kathy-hochul #governor #new-york #real-estate #wall-street #class-analysis #democrat
@@ -85,3 +86,14 @@ Hochul represents the exhaustion of Democratic executive authority when confront
 
 profile-status:: ready
 content-readiness:: ready
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

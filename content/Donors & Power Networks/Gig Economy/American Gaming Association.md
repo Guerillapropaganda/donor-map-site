@@ -21,6 +21,7 @@ politicians-funded:
   - "Mike Collins"
   - "Susan Collins"
   - "Kevin McCarthy"
+
 ---
 
 #gaming #gambling #casino #sports-betting #lobbying #addiction #deregulation #murphyvncaa #revolving-door #bipartisan #class-analysis #follow-the-money

@@ -18,6 +18,7 @@ bills-sponsored: 49
 bills-cosponsored: 196
 website: "https://www.barrasso.senate.gov"
 phone: "202-224-6441"
+stock-trades: 1
 ---
 
 #politician #republican #senate #wyoming #energy #fossil-fuel #climate #class-analysis #follow-the-money #gavel-power
@@ -186,3 +187,21 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412251) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 1 |
+| Purchases | 0 |
+| Sales | 1 |
+| Est. Value Range | $50,001 – $100,000 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 05/01/2018 | -- | Sale | $50,001 - $100,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

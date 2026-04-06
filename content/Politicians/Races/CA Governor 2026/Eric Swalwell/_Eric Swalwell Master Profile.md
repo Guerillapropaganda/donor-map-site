@@ -156,3 +156,17 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 
 profile-status:: ready
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[California Nurses Association]] — $10.4M lobbying spend (Accounting, Agriculture, Banking)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

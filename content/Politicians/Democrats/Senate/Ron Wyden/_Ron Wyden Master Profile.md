@@ -17,6 +17,7 @@ issues:
   - "Technology"
 total-received: "$133,281"
 fec-candidate-id: "H0OR03026"
+stock-trades: 10
 ---
 
 
@@ -179,3 +180,28 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 10 |
+| Purchases | 10 |
+| Sales | 0 |
+| Est. Value Range | $375,010 – $900,000 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 09/30/2013 | -- | Purchase | $15,001 - $50,000 | Spouse |
+| 09/30/2013 | -- | Purchase | $50,001 - $100,000 | Spouse |
+| 08/07/2013 | -- | Purchase | $100,001 - $250,000 | Spouse |
+| 01/03/2014 | -- | Purchase | $15,001 - $50,000 | Spouse |
+| 01/03/2014 | -- | Purchase | $50,001 - $100,000 | Spouse |
+| 01/03/2014 | -- | Purchase | $50,001 - $100,000 | Spouse |
+| 01/03/2014 | -- | Purchase | $50,001 - $100,000 | Spouse |
+| 01/03/2014 | -- | Purchase | $15,001 - $50,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

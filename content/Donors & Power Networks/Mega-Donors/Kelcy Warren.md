@@ -2,7 +2,7 @@
 title: "Kelcy Warren"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -13,6 +13,19 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Energy & Climate"
+court-cases: 33
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, D. Maryland"
+  - "District Court, D. North Dakota"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. Iowa"
 ---
 
 #donor-node #mega-donor #fossil-fuel #pipeline #texas #republican #class-analysis #donor
@@ -177,3 +190,22 @@ research-status:: ready
 | TURNOUT FOR AMERICA | $7.5M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 33 |
+| Courts | Court of Appeals for the Sixth Circuit, District Court, D. Delaware, District Court, D. Maryland, District Court, D. North Dakota, District Court, District of Columbia, District Court, E.D. Michigan, District Court, E.D. Pennsylvania, District Court, N.D. California +4 more |
+| Case Types | 320 Assault Libel & Slander, 440 Civil Rights: Other, 442 Civil Rights: Jobs, 820 Copyright, 850 Other Statutes: Securities/Commodities |
+
+**Notable cases:**
+- Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
+- Heilrayne v. University of Texas at Austin (2025) — District Court, W.D. Texas
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- Warren v. Booz Allen Hamilton, Inc. (2024) — District Court, D. Maryland
+- Bruce Smith v. University of Texas At San Antonio (2023) — District Court, W.D. Texas
+- D'Augusta v. American Petroleum Institute (2022) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Kelcy%20Warren%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

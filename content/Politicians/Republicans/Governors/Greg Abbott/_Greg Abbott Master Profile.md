@@ -133,3 +133,17 @@ The immigration enforcement apparatus (Operation Lone Star, border wall fund) is
 - [Wikipedia: 2021 Texas power crisis](https://en.wikipedia.org/wiki/2021_Texas_power_crisis) (Tier 3)
 - [Al Jazeera: Operation Lone Star border enforcement](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint) (Tier 2)
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Timothy Mellon]] — $1.9M lobbying spend (Banking, Energy/Nuclear, Financial Institutions/Investments/Securities)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

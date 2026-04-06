@@ -13,6 +13,15 @@ ein: 912166417
 annual-revenue: "$1.9M"
 net-assets: "$291K"
 tax-year: "2021"
+federal-register-mentions: 35
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+  - "Education Department"
+  - "Executive Office of the President"
+  - "Justice Department"
+  - "Labor Department"
+  - "Veterans Employment and Training Service"
 ---
 
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money
@@ -158,3 +167,26 @@ content-readiness:: developed
 - [Source: ProPublica Nonprofit Explorer — EIN 912166417](https://projects.propublica.org/nonprofits/organizations/912166417) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F912166417_202112_990_2023051221218708.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 35 |
+| Final Rules | 4 |
+| Proposed Rules | 1 |
+| Notices | 4 |
+| Presidential Documents | 26 |
+| Agencies | Alcohol, Tobacco, Firearms, and Explosives Bureau, Education Department, Executive Office of the President, Justice Department, Labor Department, Veterans Employment and Training Service |
+
+**Recent regulatory activity:**
+- [National Advisory Committee on Institutional Quality and Integrity](https://www.federalregister.gov/documents/2025/12/30/2025-24013/national-advisory-committee-on-institutional-quality-and-integrity) (2025-12-30) — Education Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2024/12/20/2024-30419/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2024-12-20) — Labor Department
+- [German-American Day, 2024](https://www.federalregister.gov/documents/2024/10/09/2024-23457/german-american-day-2024) (2024-10-09) — Executive Office of the President
+- [Overdose Awareness Week, 2024](https://www.federalregister.gov/documents/2024/08/28/2024-19441/overdose-awareness-week-2024) (2024-08-28) — Executive Office of the President
+- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (2024-04-19) — Justice Department ★
+- [National Child Abuse Prevention Month, 2024](https://www.federalregister.gov/documents/2024/04/03/2024-07189/national-child-abuse-prevention-month-2024) (2024-04-03) — Executive Office of the President
+- ... and 29 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Stand%20Together%22) (Tier 1)
+<!-- auto:federal-register end -->

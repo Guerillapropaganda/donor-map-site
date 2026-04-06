@@ -16,6 +16,30 @@ politicians-funded:
   - "Bob Casey"
   - "Sherrod Brown"
 total-political-spend: "$542,903"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "IRAN-EO13871"
+sec-filings: 984
+sec-form-types:
+  - "10-K"
+  - "10-K405"
+  - "10-Q"
+  - "425"
+  - "6-K"
+  - "6-K/A"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-10.10"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.1."
+  - "EX-99.2"
+  - "EX-99.B"
+  - "S-1"
 ---
 
 
@@ -162,3 +186,40 @@ The "national security" frame is the mechanism that makes the transfer invisible
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Iron%20and%20Steel%20Institute) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 2 |
+| Sanctions Programs | IRAN-EO13871 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- ARFA IRON AND STEEL COMPANY (-0-) [IRAN-EO13871]
+  - Remarks: Website www.arfasteel.com; Additional Sanctions Information - Subject to Secondary Sanctions; Registration Number 242295 (Iran).
+- IRANIAN GHADIR IRON & STEEL CO. (-0-) [IRAN-EO13871]
+  - Remarks: Website www.igisco.com; Additional Sanctions Information - Subject to Secondary Sanctions; a.k.a. 'IGISCO'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 984 |
+| Form Types | 10-K, 10-K405, 10-Q, 425, 6-K, 6-K/A, 8-K, CORRESP +10 more |
+
+**Notable filings:**
+
+- 2002-06-17 — **8-K**: COURTESY COPY
+- 2002-06-17 — **8-K**: CLEVELAND-CLIFFS INC. FORM 8-K/REPORT DATE 6-14-02
+- 2005-02-02 — **EX-99**: PRESS RELEASE
+- 2001-12-13 — **EX-99.2**: EX-99.2
+- 2015-10-27 — **EX-99.1**: EXHIBIT 99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Iron%20and%20Steel%20Institute%22) (Tier 1)
+<!-- auto:sec-edgar end -->

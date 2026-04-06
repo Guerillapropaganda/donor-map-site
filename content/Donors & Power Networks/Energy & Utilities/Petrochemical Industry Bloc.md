@@ -11,6 +11,10 @@ issues:
   - "Energy & Climate"
 lobbying-spend: 36374000
 lobbying-filings: 51
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "NPWMD] [IFSR"
 ---
 
 #petrochemical #plastics #refining #cancer-alley #louisiana #texas #environmental-justice
@@ -62,3 +66,37 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Petrochemical%20Industry%20Bloc) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Bill Cassidy]] — lobbying: $36.4M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 2 |
+| Sanctions Programs | NPWMD] [IFSR |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- PERSIAN GULF PETROCHEMICAL INDUSTRY CO. (-0-) [NPWMD] [IFSR]
+  - Remarks: Website www.pgpic.ir; Additional Sanctions Information - Subject to Secondary Sanctions; Business Registration Number 89243 (Iran); Linked To: KHATAM OL ANBIA GHARARGAH SAZANDEGI NOOH.
+- PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL CO. (-0-) [NPWMD] [IFSR]
+  - Remarks: Website www.pgpicc.com; Additional Sanctions Information - Subject to Secondary Sanctions; Registration Number 476760 (Iran); Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

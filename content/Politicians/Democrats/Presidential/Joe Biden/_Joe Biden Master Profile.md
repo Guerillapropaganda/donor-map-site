@@ -250,3 +250,18 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P60012143/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 2 of 2 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[UnitedHealth Group - Optum]] — $25.1M lobbying spend (Banking, Budget/Appropriations, Defense)
+- [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

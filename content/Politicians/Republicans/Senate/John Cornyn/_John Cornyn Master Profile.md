@@ -27,6 +27,9 @@ top-donors:
   - "Senate Leadership Fund"
 total-received: "$11,155,399"
 fec-candidate-id: "S2TX00106"
+stock-trades: 2
+stock-trade-tickers:
+  - "AAPL"
 ---
 
 #master-profile #republican #texas #senate #judiciary #intelligence #oil-gas #defense #border #finance #gun-bill #nra #cornyn-cruz
@@ -204,3 +207,47 @@ content-readiness:: developed
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **US Chamber of Commerce** donates → Lobbies on **Banking** → This member sits on **Finance**
+- **US Chamber of Commerce** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
+- **US Chamber of Commerce** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Finance**
+- **US Chamber of Commerce** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
+- **US Chamber of Commerce** donates → Lobbies on **Intelligence** → This member sits on **Intelligence**
+- **US Chamber of Commerce** donates → Lobbies on **Medicare/Medicaid** → This member sits on **Finance**
+
+**Donors who lobby (by spend):**
+
+- [[US Chamber of Commerce]] — $790K lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 2 |
+| Purchases | 1 |
+| Sales | 1 |
+| Est. Value Range | $30,002 – $100,000 |
+
+**Top tickers traded:** AAPL
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 08/21/2015 | AAPL | Purchase | $15,001 - $50,000 | Self |
+| 02/01/2017 | AAPL | Sale | $15,001 - $50,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

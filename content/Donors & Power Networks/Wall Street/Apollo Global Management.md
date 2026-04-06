@@ -2,7 +2,7 @@
 title: "Apollo Global Management"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -12,6 +12,14 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
   - "Healthcare"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "IRAN-EO13846"
+ein: "815163032"
+nonprofit-status: "501(c)(3)"
+total-revenue: 1096673
+total-assets: 82650
 ---
 
 #apollo #private-equity #wall-street #university-of-phoenix #for-profit-education #healthcare #insurance
@@ -56,3 +64,45 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 - [Ballotpedia: Apollo Global Management](https://ballotpedia.org/Apollo_Global_Management) (Tier 3)
 
 content-readiness:: ready
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | IRAN-EO13846 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- GLOBAL MARINE SHIP MANAGEMENT CO., LTD. (-0-) [IRAN-EO13846]
+  - Remarks: Website www.GMSHIPS.com; Executive Order 13846 information: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv); Identification Number IMO 5528362; Commercial Registry Number 1427788 (China).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 815163032 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $1.1M |
+| Total Assets | $83K |
+| NTEE Code | Q33 |
+| IRS Ruling Date | 2017-09-01 |
+| Filings on Record | 7 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2019)
+- ... and 2 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815163032) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -11,6 +11,9 @@ ein: 262383244
 annual-revenue: "$3.0M"
 net-assets: "$806K"
 tax-year: "2022"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-06"
 ---
 
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
@@ -85,3 +88,21 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 262383244](https://projects.propublica.org/nonprofits/organizations/262383244) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_26-26%2F262383244_202212_990_2024010522189481.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Halliburton) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

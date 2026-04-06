@@ -231,3 +231,23 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Farm%20Bureau%20Federation) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Committee Overlap Detected | 2 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Agriculture** → Funds **Jodey Arrington** → Sits on **Agriculture**
+- Lobbies on **Agriculture** → Funds **Frank Lucas** → Sits on **Agriculture**
+
+**Funded politicians:**
+
+- [[Jodey Arrington]] (Budget, Ways & Means, Agriculture)
+- [[Frank Lucas]] (Agriculture)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

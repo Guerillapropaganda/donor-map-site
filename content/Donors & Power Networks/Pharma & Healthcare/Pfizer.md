@@ -12,6 +12,8 @@ issues:
 federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 1
+cpsc-recalls: 1
+last-enriched: "2026-04-06"
 ---
 
 
@@ -208,3 +210,18 @@ content-readiness:: ready
 | NRSC | $60.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 1 |
+| Most Recent Recall | 2023-03-16 |
+| Hazard Types | The recalled prescription drugs must be in child resistant packaging as required by the Poison Prevention Packaging Act (PPPA). The packaging of the products is not child resistant, posing a risk of poisoning if the contents are swallowed by young children. |
+
+**Recent recalls:**
+
+- [Pfizer Recalls Nurtec ODT Prescription Drugs Due to Failure to Meet Child Resistant Packaging Requirement; Risk of Poisoning](https://www.cpsc.gov/Recalls/23154) (2023-03-16) — The recalled prescription drugs must be in child resistant packaging as required by the Poison Prevention Packaging Act (PPPA). The packaging of the products is not child resistant, posing a risk of poisoning if the contents are swallowed by young children.
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Pfizer%20Inc.) (Tier 1)
+<!-- auto:cpsc-recalls end -->

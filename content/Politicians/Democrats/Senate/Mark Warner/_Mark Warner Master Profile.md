@@ -16,6 +16,18 @@ top-donors:
   - "Silicon Valley Donors"
   - "Defense Contractors"
 fec-candidate-id: "P80003023"
+stock-trades: 88
+stock-trade-tickers:
+  - "ZAYO"
+  - "CHTR"
+  - "HALO"
+  - "XON"
+  - "ZIOP"
+govtrack-id: 412321
+bills-sponsored: 35
+bills-cosponsored: 248
+website: "https://www.warner.senate.gov"
+phone: "202-224-2023"
 ---
 
 #mark-warner #senate #virginia #intelligence #telecom #venture-capital #personal-wealth #class-analysis #democrat
@@ -149,3 +161,50 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003023/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 88 |
+| Purchases | 12 |
+| Sales | 27 |
+| Est. Value Range | $8,991,039 – $30,365,000 |
+
+**Top tickers traded:** ZAYO, CHTR, HALO, XON, ZIOP
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/24/2018 | -- | Sale | $1,001 - $15,000 | Spouse |
+| 12/24/2018 | -- | Sale | $1,001 - $15,000 | Self |
+| 12/19/2018 | -- | Sale | $250,001 - $500,000 | Self |
+| 12/15/2016 | N/A | other | Unknown | N/A |
+| 12/15/2015 | N/A | other | Unknown | N/A |
+| 12/13/2012 | N/A | other | Unknown | N/A |
+| 12/12/2014 | N/A | other | Unknown | N/A |
+| 12/07/2018 | -- | Purchase | $50,001 - $100,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 35 |
+| Bills Cosponsored | 248 |
+| Total Votes Cast | 6,033 |
+| Leadership | Senate Democratic Conference Vice Chair |
+
+**Recent bills sponsored:**
+
+- S. 4233: A bill to amend title XVIII of the Social Security Act to codify the Medicare low-wage index hospital policy. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.J.Res. 135: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4118: Hospice CARE Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4046: Economy of the Future Commission Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 815: A bill to designate the outdoor amphitheater at the Blue Ridge Music Center in Galax, Virginia, as the “Rick Boucher Amp — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412321) (Tier 1)
+<!-- auto:govtrack end -->

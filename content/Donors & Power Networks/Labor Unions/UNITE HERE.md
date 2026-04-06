@@ -14,6 +14,9 @@ politicians-funded:
 issues:
   - "Labor & Workers"
 total-political-spend: "$51,678,221"
+ein: "352455960"
+nonprofit-status: "501(c)(5)"
+last-enriched: "2026-04-06"
 ---
 
 
@@ -172,3 +175,15 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=UNITE%20HERE) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 352455960 |
+| Tax-Exempt Status | 501(c)(5) |
+| IRS Ruling Date | 1998-02-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352455960) (Tier 1)
+<!-- auto:nonprofit-990 end -->

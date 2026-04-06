@@ -2,13 +2,19 @@
 title: "National Republican Senatorial Committee"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 politicians-funded:
   - "Rick Scott"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "BALKANS"
+  - "BELARUS"
+  - "GLOMAG"
 ---
 
 #nrsc #senate #republican #campaign #fundraising #party-committee #class-analysis #follow-the-money
@@ -141,3 +147,24 @@ content-readiness:: developed
 | MASSACHUSETTS REPUBLICAN PARTY | $6.8M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 3 |
+| Sanctions Programs | BALKANS, BELARUS, GLOMAG |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- NATIONAL COMMITTEE FOR THE LIBERATION AND PROTECTION OF ALBANIAN LANDS (-0-) [BALKANS]
+  - Remarks: -0-
+- NATIONAL OLYMPIC COMMITTEE OF THE REPUBLIC OF BELARUS (-0-) [BELARUS]
+  - Remarks: Organization Established Date 01 Jul 1991; Registration Number 100265118 (Belarus).
+- HOUTHI NATIONAL COMMITTEE FOR PRISONERS AFFAIRS (-0-) [GLOMAG]
+  - Remarks: a.k.a. 'NCPA'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

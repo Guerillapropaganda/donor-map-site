@@ -10,6 +10,8 @@ entity-type: "Corporation"
 federal-awards-total: 22823613
 federal-contracts-count: 25
 federal-grants-count: 2
+lei: "I1BZKREC126H0VB1BL91"
+lei-jurisdiction: "US-DE"
 ---
 
 #duke-energy #utility #coal-ash #north-carolina #monopoly #rate-base #renewables
@@ -97,3 +99,18 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Duke%20Energy) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [I1BZKREC126H0VB1BL91](https://search.gleif.org/#/record/I1BZKREC126H0VB1BL91) |
+| Legal Name | DUKE ENERGY CORPORATION |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-13T17:32:48Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

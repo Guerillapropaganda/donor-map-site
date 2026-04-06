@@ -11,6 +11,29 @@ issues:
   - "Wall Street & Finance"
 lobbying-spend: 9800000
 lobbying-filings: 56
+sec-filings: 10000
+sec-form-types:
+  - "13F-HR"
+  - "424B2"
+  - "424B3"
+  - "ARS"
+  - "EX-10.17"
+  - "EX-10.2"
+  - "EX-2.1"
+  - "EX-4.3"
+  - "EX-5.35"
+  - "EX-99.1"
+  - "EX-99.13"
+  - "N-CEN"
+  - "N-CEN/A"
+  - "N-CSRS"
+  - "N-Q"
+  - "NPORT-EX"
+  - "NPORT-P"
+  - "NPORT-P/A"
+  - "POSASR"
+  - "S-4"
+  - "SC 13D/A"
 ---
 
 #megabank #wall-street #jamie-dimon #bipartisan #financial-deregulation #revolving-door #too-big-to-fail #both-sides
@@ -170,3 +193,51 @@ content-readiness:: developed
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=JPMorgan%20Chase) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 5 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 2 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Banking** → Funds **John Boehner** → Sits on **Finance**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Boehner** → Sits on **Finance**
+- Lobbies on **Wall Street & Finance** → Funds **John Boehner** → Sits on **Finance**
+- Lobbies on **Banking** → Funds **Paul Ryan** → Sits on **Finance**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **Paul Ryan** → Sits on **Finance**
+- Lobbies on **Wall Street & Finance** → Funds **Paul Ryan** → Sits on **Finance**
+
+**Funded politicians:**
+
+- [[Barack Obama]] — lobbying: $9.8M
+- [[Joe Biden]] — lobbying: $9.8M
+- [[Cory Booker]] — lobbying: $9.8M
+- [[John Boehner]] (Finance) — lobbying: $9.8M
+- [[Paul Ryan]] (Finance) — lobbying: $9.8M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 13F-HR, 424B2, 424B3, ARS, EX-10.17, EX-10.2, EX-2.1, EX-4.3 +13 more |
+| CIK | 19617 |
+| Ticker | JPM |
+
+**Notable filings:**
+
+- 2026-04-06 — **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040551/0001213900-26-040551-index.htm)
+- 2026-04-06 — **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040550/0001213900-26-040550-index.htm)
+- 2026-04-06 — **424B2**: [AMENDED & RESTATED PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040539/0001213900-26-040539-index.htm)
+- 2026-04-06 — **424B3**: [FORM 424B3](https://www.sec.gov/Archives/edgar/data/19617/000121390026040538/0001213900-26-040538-index.htm)
+- 2026-04-06 — **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040529/0001213900-26-040529-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22JPMorgan%20Chase%22) (Tier 1)
+<!-- auto:sec-edgar end -->

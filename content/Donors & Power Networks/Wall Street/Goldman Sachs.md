@@ -17,6 +17,18 @@ ein: 311678646
 annual-revenue: "$-1,397,309"
 net-assets: "$648.2M"
 tax-year: "2023"
+federal-register-mentions: 800
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Comptroller of the Currency"
+  - "Employee Benefits Security Administration"
+  - "Energy Department"
+  - "Federal Deposit Insurance Corporation"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Reserve System"
+  - "Labor Department"
+  - "Securities and Exchange Commission"
+  - "Treasury Department"
 ---
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor
@@ -203,3 +215,49 @@ research-status:: ready — Full citation pass complete. $39M career political c
 - [Source: ProPublica Nonprofit Explorer — EIN 311678646](https://projects.propublica.org/nonprofits/organizations/311678646) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F311678646_202312_990PF_2025010222971038.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 4 |
+| Committee Overlap Detected | 4 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Wall Street & Finance** → Funds **French Hill** → Sits on **Banking**
+- Lobbies on **Wall Street & Finance** → Funds **John Boehner** → Sits on **Finance**
+- Lobbies on **Wall Street & Finance** → Funds **Paul Ryan** → Sits on **Finance**
+- Lobbies on **Wall Street & Finance** → Funds **John Cornyn** → Sits on **Finance**
+
+**Funded politicians:**
+
+- [[French Hill]] (Banking)
+- [[John Boehner]] (Finance)
+- [[Paul Ryan]] (Finance)
+- [[John Cornyn]] (Judiciary, Intelligence, Finance)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 800 |
+| Final Rules | 122 |
+| Proposed Rules | 87 |
+| Notices | 591 |
+| Agencies | Comptroller of the Currency, Employee Benefits Security Administration, Energy Department, Federal Deposit Insurance Corporation, Federal Energy Regulatory Commission, Federal Reserve System, Labor Department, Securities and Exchange Commission +1 more |
+
+**Recent regulatory activity:**
+- [Proposed Exemption for The Goldman Sachs Group, Inc. (Goldman) Located in New York, New York](https://www.federalregister.gov/documents/2026/04/02/2026-06408/proposed-exemption-for-the-goldman-sachs-group-inc-goldman-located-in-new-york-new-york) (2026-04-02) — Labor Department
+- [Fiduciary Duties in Selecting Designated Investment Alternatives](https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives) (2026-03-31) — Labor Department
+- [Multi-Class ETF Fund Exemptive Relief Under the Investment Company Act of 1940](https://www.federalregister.gov/documents/2026/03/30/2026-06021/multi-class-etf-fund-exemptive-relief-under-the-investment-company-act-of-1940) (2026-03-30) — Securities and Exchange Commission
+- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (2026-03-27) — Treasury Department ★
+- [Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, Regarding Implementation of a Revised Funding Model](https://www.federalregister.gov/documents/2026/03/19/2026-05350/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the) (2026-03-19) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rule 19.3 To Permit the Listing and Trading of Options on Commodity-Based Trust Shares](https://www.federalregister.gov/documents/2026/01/16/2026-00805/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed) (2026-01-16) — Securities and Exchange Commission
+- ... and 794 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Goldman%20Sachs%22) (Tier 1)
+<!-- auto:federal-register end -->

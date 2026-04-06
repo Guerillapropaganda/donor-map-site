@@ -12,6 +12,18 @@ state-abbr: "ME"
 top-donors:
   - "Blackstone"
 bioguide-id: "A000383"
+stock-trades: 441
+stock-trade-tickers:
+  - "FB"
+  - "RHT"
+  - "AXP"
+  - "DAL"
+  - "CELG"
+  - "CRM"
+  - "MSFT"
+  - "HON"
+  - "SRCL"
+  - "COP"
 ---
 
 
@@ -139,3 +151,31 @@ content-readiness:: ready
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 441 |
+| Purchases | 163 |
+| Sales | 219 |
+| Exchanges | 4 |
+| Est. Value Range | $51,966,386 – $109,340,000 |
+
+**Top tickers traded:** FB, RHT, AXP, DAL, CELG, CRM, MSFT, HON
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/30/2016 | PRGO | Purchase | $15,001 - $50,000 | Spouse |
+| 12/30/2016 | COP | Purchase | $15,001 - $50,000 | Spouse |
+| 12/22/2015 | -- | Purchase | $1,001 - $15,000 | Spouse |
+| 12/22/2015 | -- | Purchase | $1,001 - $15,000 | Spouse |
+| 12/22/2015 | -- | Purchase | $1,001 - $15,000 | Spouse |
+| 12/22/2015 | -- | Purchase | $1,001 - $15,000 | Spouse |
+| 12/22/2015 | -- | Purchase | $1,001 - $15,000 | Spouse |
+| 12/22/2015 | -- | Purchase | $1,001 - $15,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

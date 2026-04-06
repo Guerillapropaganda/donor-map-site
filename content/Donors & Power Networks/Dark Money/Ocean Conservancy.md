@@ -187,3 +187,18 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 - [Packard Foundation: Ocean Conservancy grantee](https://www.packard.org/grantee/ocean-conservancy/) (Tier 2)
 
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Sheldon Whitehouse]] (Environment & Public Works) — lobbying: $5.7M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

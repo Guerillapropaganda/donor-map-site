@@ -2,7 +2,7 @@
 title: "Google - Alphabet"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -21,6 +21,10 @@ issues:
   - "Technology"
   - "Antitrust & Monopoly"
   - "Dark Money & Campaign Finance"
+court-cases: 1
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, N.D. California"
 ---
 
 #google #alphabet #tech #lobbying #antitrust #surveillance #advertising #data #ai #revolving-door #monopoly #eu-lobbying #california #pac #dark-money #class-analysis #follow-the-money
@@ -434,3 +438,17 @@ Google represents the most advanced form of monopoly power in the vault — one 
 
 research-status:: developed — Comprehensive merge of existing Chrome-verified profile with deep research expansion. 450+ lines, 40+ sources (7 Chrome-verified Tier 1, 7 Chrome-verified Tier 2, 26 UNVERIFIED). New data: year-by-year federal lobbying table ($148M cumulative 2015-2024), PAC cycle splits with partisan balance analysis, top PAC recipients by name and committee jurisdiction, Sundar Pichai individual donations showing bipartisan hedging, inaugural committee donations (3 cycles including $1M 2025), FTC 2011-2013 named revolving door individuals (Bye, Edelman, Shelton, Ramirez), 258 Obama-era revolving door instances with named individual tables (Google→Gov and Gov→Google), California state lobbying ($257K avg → $10.7M quarter), EU lobbying (€6M/year, #1 in Brussels, 212 meetings), trade association dark money (368 orgs, undisclosed amounts), AI regulation lobbying ($52.3M, 10-year moratorium attempt), Gonzalez v. Google Section 230, covert AB 566 privacy lobbying. Gaps remaining: EU antitrust fines ($8B+ total not detailed), Google defense/intelligence contracts (Project Maven), YouTube content moderation lobbying, Waymo regulatory capture, PRISM/NSA history. 26 UNVERIFIED URLs need Chrome pass before promotion to ready.
 content-readiness:: developed
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1 |
+| Courts | District Court, N.D. California |
+| Case Types | 470 Racketeer/Corrupt Organization |
+
+**Notable cases:**
+- Redmond v. United States (2022) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Google%20-%20Alphabet%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -2,7 +2,7 @@
 title: "Nancy Pelosi Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 career-total: "$1.6B"
 parent: null
@@ -45,6 +45,8 @@ top-donors:
   - "Blue Shield of California"
   - "UnitedHealth Group - Optum"
   - "Kaiser Permanente"
+total-received: "$2,408,010"
+fec-candidate-id: "H8CA05035"
 ---
 
 
@@ -200,3 +202,52 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 profile-status:: ready
 research-status:: ready — Full citation pass complete. $1.6B fundraising machine, DCCC blacklist/dues system, stock trading record (Visa IPO, NVDA CHIPS), Biden exit orchestration, AIPAC $618K+, donation-to-policy timeline (10 entries). All ### headers, source format standardized, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[UnitedHealth Group - Optum]] — $25.1M lobbying spend (Banking, Budget/Appropriations, Defense)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $2,408,010 |
+| Individual Contributions | $808,796 |
+| PAC Contributions | $33,000 |
+| Cash on Hand | 1179149.96 |
+| IE Support (Super PAC) | $9,090 |
+| IE Opposition (Super PAC) | $3,390,218 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $2,408,010 | $808,796 | $33,000 |
+| 2024 | $10,223,364 | $4,213,520 | $251,519 |
+| 2022 | $25,577,528 | $9,999,649 | $1,454,400 |
+| 2020 | $27,976,365 | $8,841,636 | $1,874,066 |
+| 2018 | $4,622,035 | $1,510,275 | $1,179,508 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| FUTURE45 | $0 | $1,910,481 |
+| VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY) | $9,090 | $889,623 |
+| ARIZONANS FOR AFFORDABLE ELECTRICITY | $0 | $241,764 |
+| POLICE OFFICERS DEFENSE ALLIANCE LLC | $0 | $100,000 |
+| CONGRESSIONAL LEADERSHIP FUND | $0 | $75,000 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -14,6 +14,10 @@ ein: 130433430
 annual-revenue: "$267.6M"
 net-assets: "$122.9M"
 tax-year: "2023"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "RUSSIA-EO14024"
 ---
 
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money
@@ -648,3 +652,22 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 130433430](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 2 |
+| Sanctions Programs | RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- ALL RUSSIA PETROLEUM RESEARCH EXPLORATION INSTITUTE JOINT STOCK COMPANY (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 01 Aug 2016; Target Type State-Owned Enterprise; Tax ID No. 7816334628 (Russia); Government Gazette Nu...
+- INSTITUTE OF PETROLEUM CHEMISTRY SIBERIAN BRANCH OF THE RUSSIAN ACADEMY OF SCIENCES (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 05 Aug 1968; Tax ID No. 7021001022 (Russia); Government Gazette Number 03534067 (Russia); Registration...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

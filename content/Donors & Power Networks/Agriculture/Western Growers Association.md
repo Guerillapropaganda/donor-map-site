@@ -2,7 +2,7 @@
 title: "Western Growers Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -16,6 +16,15 @@ annual-revenue: "$236K"
 net-assets: "$849K"
 tax-year: "2023"
 total-political-spend: "$481,034"
+court-cases: 44
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, C.D. California"
+  - "District Court, E.D. California"
+  - "District Court, S.D. California"
+  - "District Court, W.D. New York"
 ---
 
 
@@ -116,3 +125,22 @@ Immigration — H-2A program, undocumented workforce, sanctuary policy
 
 research-status:: ready — large commercial growers CA/AZ/CO/NM, PAC $49K-$80K/cycle, $700K CA lobbying, dual opposition pattern (anti-enforcement + anti-union), PAGA reform $9.5M coalition, AB 2183 opposition. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 44 |
+| Courts | Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, E.D. California, District Court, S.D. California, District Court, W.D. New York |
+| Case Types | 890 Other Statutory Actions, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute, Constitutional - State Statute |
+
+**Notable cases:**
+- California League of Food Producers v. Bonta (2026) — District Court, S.D. California
+- California Chamber of Commerce, et al. v. Bonta, et al. (2025) — Court of Appeals for the Ninth Circuit
+- United States of America Chamber of Commerce, et al. v. Sanchez, et al. (2025) — Court of Appeals for the Ninth Circuit
+- Daimler Truck North America LLC v. CA Air Resources Board (2025) — District Court, E.D. California
+- Western Growers Association v. Agricultural Labor Relations Board (2025) — District Court, E.D. California
+- California Chamber of Commerce v. Bonta (2024) — District Court, E.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Western%20Growers%20Association%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

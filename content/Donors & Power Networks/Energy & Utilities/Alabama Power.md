@@ -2,13 +2,16 @@
 title: "Alabama Power"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
 issues:
   - "Dark Money & Campaign Finance"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-06"
 ---
 
 #utility-monopoly #southern-company #alabama-politics #regulatory-capture #dark-money
@@ -64,3 +67,21 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 | ALABAMA REPUBLICAN PARTY | $88.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Alabama%20Power) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

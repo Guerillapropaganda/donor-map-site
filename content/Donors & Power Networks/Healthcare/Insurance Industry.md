@@ -11,6 +11,10 @@ ein: 201240972
 annual-revenue: "$6.4M"
 net-assets: "$4.3M"
 tax-year: "2023"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "UKRAINE-EO13662] [RUSSIA-EO14024"
 ---
 
 #insurance #health-insurance #lobbying #aca #public-option #bipartisan #medicare-advantage #ahip #revolving-door
@@ -186,3 +190,20 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 201240972](https://projects.propublica.org/nonprofits/organizations/201240972) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | UKRAINE-EO13662] [RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- GAS INDUSTRY INSURANCE COMPANY SOGAZ (-0-) [UKRAINE-EO13662] [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; alt. Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; Tax ID No. 7736035485 (...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

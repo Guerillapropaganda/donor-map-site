@@ -193,3 +193,14 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | None |
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

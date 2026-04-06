@@ -2,12 +2,23 @@
 title: "Mehlman Consulting"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 annual-revenue: "$28.3M"
 lobbyist-count: 25
 revolving-door-pct: "64.0%"
+sec-filings: 21
+sec-form-types:
+  - "10-K"
+  - "424B3"
+  - "424B4"
+  - "425"
+  - "DRS"
+  - "S-1"
+  - "S-1/A"
+  - "S-4"
+  - "S-4/A"
 ---
 
 #lobbying #k-street #tech #healthcare #taxes #trade #bipartisan #big-tech
@@ -213,3 +224,21 @@ The bipartisan structure serves a specific commercial function: it makes the fir
 - [PR Newswire: Federal Lobbying Spending Reached New High in 2024 — Bloomberg Government 10th Annual Top-Performing Lobbying Firms Report](https://www.prnewswire.com/news-releases/federal-lobbying-spending-reached-new-high-in-2024-bloomberg-governments-10th-annual-top-performing-lobbying-firms-report-finds-302429060.html) (Tier 2)
 
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 21 |
+| Form Types | 10-K, 424B3, 424B4, 425, DRS, S-1, S-1/A, S-4 +1 more |
+
+**Notable filings:**
+
+- 2024-01-23 — **425**: FORM 425
+- 2024-03-28 — **424B3**: PROSPECTUS
+- 2026-03-31 — **10-K**: 10-K
+- 2025-06-06 — **DRS**: DRS
+- 2024-06-03 — **S-1**: REGISTRATION STATEMENT
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mehlman%20Consulting%22) (Tier 1)
+<!-- auto:sec-edgar end -->

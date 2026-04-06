@@ -2,13 +2,16 @@
 title: "InfluenceMap"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 ein: 852619691
 annual-revenue: "$596K"
 net-assets: "$90K"
 tax-year: "2023"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-06"
 ---
 
 #think-tank #climate #accountability #non-partisan #data-driven #corporate-influence #class-analysis #follow-the-money
@@ -101,3 +104,21 @@ InfluenceMap occupies a specific structural position in the political economy of
 
 research-status:: draft — Organizational profile, platform descriptions, and funder list documented. Gaps: detailed financial breakdown (UK entity financials not fully extracted), complete funder list with amounts, specific report findings on individual companies tracked in this vault, historical revenue trend. UK Companies House filings available for deeper financial analysis.
 content-readiness:: draft
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=InfluenceMap) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

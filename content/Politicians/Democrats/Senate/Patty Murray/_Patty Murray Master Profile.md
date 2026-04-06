@@ -20,6 +20,18 @@ top-donors:
   - "Pharmaceutical Industry Bloc"
   - "Microsoft"
 bioguide-id: "A000383"
+stock-trades: 161
+stock-trade-tickers:
+  - "WMB"
+  - "WRK"
+  - "WFC"
+  - "WBA"
+  - "WMT"
+  - "VZ"
+  - "UTX"
+  - "UPS"
+  - "UN"
+  - "USB"
 ---
 
 #master-profile #democrat #senate #washington #defense #boeing #pharma #appropriations #follow-the-money #class-analysis
@@ -143,3 +155,50 @@ content-readiness:: ready
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Defense Industry Bloc** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
+- **Defense Industry Bloc** donates → Lobbies on **Defense** → This member sits on **Appropriations**
+- **Defense Industry Bloc** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
+
+**Donors who lobby (by spend):**
+
+- [[Defense Industry Bloc]] — $2.0M lobbying spend (Aerospace, Animals, Aviation/Airlines/Airports)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 161 |
+| Purchases | 78 |
+| Sales | 83 |
+| Est. Value Range | $161,161 – $2,415,000 |
+
+**Top tickers traded:** WMB, WRK, WFC, WBA, WMT, VZ, UTX, UPS
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 06/15/2017 | WMB | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WRK | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WFC | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WBA | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WMT | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | VZ | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | VTR | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | UTX | Sale | $1,001 - $15,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

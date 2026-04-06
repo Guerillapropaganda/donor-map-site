@@ -17,6 +17,19 @@ net-assets: "$18.1M"
 tax-year: "2023"
 lobbying-spend: 6500000
 lobbying-filings: 51
+federal-register-mentions: 79
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Commerce Department"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Foreign-Trade Zones Board"
+  - "Justice Department"
+  - "National Highway Traffic Safety Administration"
+  - "Pipeline and Hazardous Materials Safety Administration"
 ---
 
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis
@@ -153,3 +166,40 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Valero%20Energy) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Steve Scalise]] — lobbying: $6.5M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 79 |
+| Final Rules | 11 |
+| Proposed Rules | 7 |
+| Notices | 61 |
+| Agencies | Antitrust Division, Commerce Department, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Foreign-Trade Zones Board, Justice Department +4 more |
+
+**Recent regulatory activity:**
+- [Foreign-Trade Zone (FTZ) 116, Notification of Proposed Production Activity; The Premcor Refining Group; (Renewable Fuels); Port Arthur, Texas](https://www.federalregister.gov/documents/2026/03/13/2026-04950/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-the-premcor-refining-group) (2026-03-13) — Commerce Department
+- [Foreign-Trade Zone (FTZ) 116; Authorization of Production Activity; The Premcor Refining Group, Inc.; (Sustainable Aviation Fuel); Port Arthur, Texas](https://www.federalregister.gov/documents/2026/03/10/2026-04671/foreign-trade-zone-ftz-116-authorization-of-production-activity-the-premcor-refining-group-inc) (2026-03-10) — Commerce Department
+- [Clean Air Act Operating Permit Program; Petition for Objection to State Operating Permit for Valero Energy Partners, L.P., Harris County, Texas](https://www.federalregister.gov/documents/2025/08/14/2025-15494/clean-air-act-operating-permit-program-petition-for-objection-to-state-operating-permit-for-valero) (2025-08-14) — Environmental Protection Agency
+- [Foreign-Trade Zone (FTZ) 116, Notification of Proposed Production Activity; The Premcor Refining Group, Inc.; (Sustainable Aviation Fuel); Port Arthur, Texas](https://www.federalregister.gov/documents/2025/07/01/2025-12253/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-the-premcor-refining-group) (2025-07-01) — Commerce Department
+- [Combined Notice of Filings](https://www.federalregister.gov/documents/2025/04/09/2025-06083/combined-notice-of-filings) (2025-04-09) — Energy Department
+- [Corporate Average Fuel Economy Standards for Model Years 2024-2026 Passenger Cars and Light Trucks](https://www.federalregister.gov/documents/2022/05/02/2022-07200/corporate-average-fuel-economy-standards-for-model-years-2024-2026-passenger-cars-and-light-trucks) (2022-05-02) — Transportation Department ★
+- ... and 73 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Valero%20Energy%22) (Tier 1)
+<!-- auto:federal-register end -->

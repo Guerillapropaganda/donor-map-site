@@ -160,3 +160,18 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 
 research-status:: developed — Expanded from 65-line thin stub to full donor node. Added: 2025 lobbying surge data ($33.5M, +43% YoY), TCJA permanent extension campaign, Q1 2025 spending detail ($6.86M single quarter), 2025 board leadership (Robbins chair, Dimon past chair), lobbying spend history table (2019-2025), stakeholder capitalism fraud analysis with Harvard Law/Roosevelt Institute documentation, TCJA ROI calculation ($82M → $320B+/year), PRO Act defeat, temporal mapping table (8 entries), 3 callout blocks, 12 sources (4 Tier 1, 7 Tier 2, 1 Tier 3). Gaps: individual CEO bundling totals (not publicly tracked), full list of TCJA lobbying coalition members, specific proxy reform bill numbers for 2025. Cannot reach ready without verification of $82M coalition lobbying estimate and specific PRO Act lobbying expenditures.
 content-readiness:: developed
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $4.9M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

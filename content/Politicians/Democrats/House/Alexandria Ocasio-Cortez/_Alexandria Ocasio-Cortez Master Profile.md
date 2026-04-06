@@ -2,7 +2,7 @@
 title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-02
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,7 @@ state-abbr: "NY"
 district: "14"
 top-donors:
   - "Small Dollar Donors - ActBlue"
+bioguide-id: "A000383"
 ---
 
 
@@ -225,3 +226,10 @@ Sources: [FEC: Ocasio-Cortez](https://www.fec.gov/data/candidate/H8NY15148/) (Ti
 ---
 content-readiness:: ready
  
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

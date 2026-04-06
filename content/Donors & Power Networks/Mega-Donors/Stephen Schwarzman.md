@@ -16,6 +16,11 @@ ein: 474634539
 annual-revenue: "$127.1M"
 net-assets: "$105.5M"
 tax-year: "2023"
+federal-register-mentions: 2
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Energy Department"
+  - "Federal Energy Regulatory Commission"
 ---
 
 #donor #billionaire #republican #private-equity #blackstone #wall-street
@@ -179,3 +184,18 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 474634539](https://projects.propublica.org/nonprofits/organizations/474634539) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Proposed Rule | 2 |
+| Agencies | Energy Department, Federal Energy Regulatory Commission |
+
+**Recent regulatory activity:**
+- [One-Time Informational Reports on Extreme Weather Vulnerability Assessments; Climate Change, Extreme Weather, and Electric System Reliability](https://www.federalregister.gov/documents/2022/07/01/2022-13469/one-time-informational-reports-on-extreme-weather-vulnerability-assessments-climate-change-extreme) (2022-07-01) — Energy Department
+- [Transmission System Planning Performance Requirements for Extreme Weather](https://www.federalregister.gov/documents/2022/06/27/2022-13471/transmission-system-planning-performance-requirements-for-extreme-weather) (2022-06-27) — Energy Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Stephen%20Schwarzman%22) (Tier 1)
+<!-- auto:federal-register end -->

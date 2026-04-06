@@ -2,7 +2,7 @@
 title: "Elizabeth Warren Master Profile"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,6 +16,7 @@ top-donors:
   - "Emily's List"
 total-received: "$131,368,112"
 fec-candidate-id: "P00009621"
+stock-trades: 1
 ---
 
 
@@ -313,3 +314,21 @@ office:: U.S. Senator
 state:: Massachusetts
 party:: Democrat
 profile-status:: ready — CFPB creation and destruction arc documented, small-dollar funding model analyzed ($9.04M/96% individual), Fairshake opposition ($195M+, Porter destroyed), M4A retreat, four analytical patterns applied, donor base consistency table (2012-2024), class analysis as "exception that proves the rule." All ### headers, Tier 1 sources (OpenSecrets, FEC, CFPB, Congress.g
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 1 |
+| Purchases | 0 |
+| Sales | 0 |
+| Est. Value Range | $0 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 01/30/2013 | N/A | other | Unknown | N/A |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

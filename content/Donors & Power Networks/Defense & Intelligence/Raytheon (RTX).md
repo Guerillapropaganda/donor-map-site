@@ -403,3 +403,27 @@ RTX represents the defense sector's structural capture of the American state. Th
 ---
 
 content-readiness:: developed
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 4 |
+| Committee Overlap Detected | 4 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
+
+**Funded politicians:**
+
+- [[Mike Rogers]] (Armed Services)
+- [[Adam Smith]] (Armed Services)
+- [[Rosa DeLauro]] (Appropriations)
+- [[Roger Wicker]] (Armed Services)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

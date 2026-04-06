@@ -2,7 +2,7 @@
 title: "Thom Tillis Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -20,6 +20,18 @@ bills-sponsored: 53
 bills-cosponsored: 318
 website: "https://www.tillis.senate.gov"
 phone: "202-224-6342"
+stock-trades: 99
+stock-trade-tickers:
+  - "AQFH"
+  - "NICE"
+  - "CVS"
+  - "JCOM"
+  - "WST"
+  - "WAL"
+  - "WAGE"
+  - "VSI"
+  - "TYPE"
+  - "TXRH"
 ---
 
 
@@ -180,3 +192,30 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 - [Spectrum Local News: Why Tillis changed his position on immigration compromise](https://spectrumlocalnews.com/nc/charlotte/news/2024/02/08/why-tillis-changed-his-position-on-immigration-compromise) (Tier 2)
 - [WUNC News: Senate race in NC expected to be most expensive ever](https://www.wunc.org/term/news/2025-12-02/most-expensive-senate-race-ever) (Tier 2)
 content-readiness:: ready
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 99 |
+| Purchases | 0 |
+| Sales | 99 |
+| Est. Value Range | $127,099 – $1,555,000 |
+
+**Top tickers traded:** AQFH, NICE, CVS, JCOM, WST, WAL, WAGE, VSI
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/20/2018 | CVS | Sale | $1,001 - $15,000 | Joint |
+| 12/20/2018 | -- | Sale | $1,001 - $15,000 | Joint |
+| 02/13/2015 | JCOM | Sale | $1,001 - $15,000 | Joint |
+| 02/13/2015 | WST | Sale | $1,001 - $15,000 | Joint |
+| 02/13/2015 | WAL | Sale | $1,001 - $15,000 | Joint |
+| 02/13/2015 | WAGE | Sale | $1,001 - $15,000 | Joint |
+| 02/13/2015 | VSI | Sale | $1,001 - $15,000 | Joint |
+| 02/13/2015 | TYPE | Sale | $1,001 - $15,000 | Joint |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

@@ -150,3 +150,17 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 - [CNN: Sinema censured by Arizona Democratic Party over filibuster stance](https://www.cnn.com/2022/01/22/politics/sinema-censured-arizona-democratic-party/index.html) (Tier 2)
 - [Truthout: Private equity gave Sinema $500K, she exempted it from corporate minimum tax](https://truthout.org/articles/private-equity-gave-sinema-500k-so-she-exempted-it-from-corporate-minimum-tax/) (Tier 2)
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Wall Street Bloc]] — $1.0M lobbying spend (Aviation/Airlines/Airports, Budget/Appropriations, Defense)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

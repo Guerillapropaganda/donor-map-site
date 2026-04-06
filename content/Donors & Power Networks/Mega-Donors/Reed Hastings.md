@@ -19,6 +19,22 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
   - "District Court, W.D. Virginia"
+sec-filings: 10000
+sec-form-types:
+  - "144"
+  - "144/A"
+  - "4"
+  - "8-K"
+  - "DEF 14A"
+  - "EX-10.10"
+  - "EX-10.9"
+  - "EX-31.1"
+  - "EX-32.1"
+  - "EX-99.1"
+  - "S-1/A"
+  - "S-8"
+  - "SC 13G"
+  - "SC 13G/A"
 ---
 
 #reed-hastings #netflix #charter-school #education-reform #mega-donor #democratic #Hastings Fund
@@ -154,3 +170,21 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Reed%20Hastings%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 144, 144/A, 4, 8-K, DEF 14A, EX-10.10, EX-10.9, EX-31.1 +6 more |
+
+**Notable filings:**
+
+- 2019-04-23 — **DEF 14A**: DEF 14A
+- 2017-04-24 — **DEF 14A**: DEF 14A
+- 2016-04-27 — **DEF 14A**: DEF 14A
+- 2018-04-23 — **DEF 14A**: DEF 14A
+- 2007-03-27 — **DEF 14A**: DEFINITIVE PROXY STATEMENT
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Reed%20Hastings%22) (Tier 1)
+<!-- auto:sec-edgar end -->

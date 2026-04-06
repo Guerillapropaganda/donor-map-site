@@ -2,11 +2,17 @@
 title: "American Enterprise Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "UKRAINE-EO13685"
+  - "RUSSIA-EO14024"
+  - "UKRAINE-EO13662] [RUSSIA-EO14024"
 ---
 
 #think-tank #conservative #neoconservative #defense-policy #climate-denial #revolving-door #dark-money #deregulation #tax-policy
@@ -364,3 +370,28 @@ AEI's role is to make that system invisible by making it look like scholarship.
 - [Carly Fiorina / AEI: Quote on corporate political organization (2016)](https://www.aei.org/articles/fiorinas-anti-cronyist-message-was-morally-and-politically-perfect/) (Tier 3)
 
 content-readiness:: developed
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 12 |
+| Sanctions Programs | UKRAINE-EO13685, RUSSIA-EO14024, UKRAINE-EO13662] [RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- STATE ENTERPRISE MAGARACH OF THE NATIONAL INSTITUTE OF WINE (-0-) [UKRAINE-EO13685]
+  - Remarks: Website http://magarach-institut.ru/; Email Address magar@ukr.net; Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; Registration ID 1123107000600...
+- FEDERAL STATE UNITARY ENTERPRISE CENTRAL SCIENTIFIC RESEARCH INSTITUTE OF ECONOMICS INFORMATICS AND MANAGEMENT SYSTEMS (-0-) [RUSSIA-EO14024]
+  - Remarks: Website cniieisu.ru; Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 11 Nov 1991; Organization Type: Other information technology and computer service...
+- FEDERAL STATE UNITARY ENTERPRISE CENTRAL RESEARCH INSTITUTE OF STRUCTURAL MATERIALS PROMETEY NAMED BY I.V. GORYNIN OF NATIONAL RESEARCH CENTER KURCHATOV INSTITUTE (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 7815021340 (Russia).
+- FEDERAL STATE UNITARY ENTERPRISE DUKHOV AUTOMATICS RESEARCH INSTITUTE (-0-) [UKRAINE-EO13662] [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; alt. Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; Organization Establishe...
+- THE FEDERAL STATE UNITARY ENTERPRISE V.A. KARGIN SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND TECHNOLOGY OF POLYMERS WITH A PILOT PRODUCTION PLANT (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 5249164736 (Russia); Government Gazette Number 33947252 (Russia); Registration Number 1185275058044 (Russia).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

@@ -2,13 +2,26 @@
 title: "NORPAC"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-02
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Jamaal Bowman"
+federal-register-mentions: 42
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Commerce Department"
+  - "Employment and Training Administration"
+  - "Federal Election Commission"
+  - "Federal Trade Commission"
+  - "International Trade Administration"
+  - "International Trade Commission"
+  - "Labor Department"
+  - "National Oceanic and Atmospheric Administration"
+lei: "9845000814B4D365EG29"
+lei-jurisdiction: "IN"
 ---
 
 #norpac #israel-lobby #pro-israel #pac #bundling #new-jersey #bipartisan #dinner-fundraiser #follow-the-money
@@ -169,3 +182,40 @@ content-readiness:: ready
 | WHATLEY VICTORY COMMITTEE | $116.8K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 42 |
+| Final Rules | 9 |
+| Proposed Rules | 5 |
+| Notices | 28 |
+| Agencies | Commerce Department, Employment and Training Administration, Federal Election Commission, Federal Trade Commission, International Trade Administration, International Trade Commission, Labor Department, National Oceanic and Atmospheric Administration |
+
+**Recent regulatory activity:**
+- [Draft 2022 Marine Mammal Stock Assessment Reports](https://www.federalregister.gov/documents/2023/01/24/2023-01242/draft-2022-marine-mammal-stock-assessment-reports) (2023-01-24) — Commerce Department
+- [Certain Uncoated Paper From the People's Republic of China: Final Results of the Expedited Five-Year Sunset Review of the Countervailing Duty Order](https://www.federalregister.gov/documents/2021/06/07/2021-11854/certain-uncoated-paper-from-the-peoples-republic-of-china-final-results-of-the-expedited-five-year) (2021-06-07) — Commerce Department
+- [Certain Uncoated Paper From Indonesia: Final Results of the Expedited First Five-Year Sunset Review of the Countervailing Duty Order](https://www.federalregister.gov/documents/2021/06/01/2021-11461/certain-uncoated-paper-from-indonesia-final-results-of-the-expedited-first-five-year-sunset-review) (2021-06-01) — Commerce Department
+- [Uncoated Paper From Australia, Brazil, the People's Republic of China, Indonesia, and Portugal: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders](https://www.federalregister.gov/documents/2021/06/01/2021-11460/uncoated-paper-from-australia-brazil-the-peoples-republic-of-china-indonesia-and-portugal-final) (2021-06-01) — Commerce Department
+- [Notice of Determinations Regarding Eligibility To Apply for Trade Adjustment Assistance](https://www.federalregister.gov/documents/2020/12/22/2020-28207/notice-of-determinations-regarding-eligibility-to-apply-for-trade-adjustment-assistance) (2020-12-22) — Labor Department
+- [Sunshine Act Meeting](https://www.federalregister.gov/documents/2020/06/15/2020-12971/sunshine-act-meeting) (2020-06-15) — Federal Election Commission
+- ... and 36 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22NORPAC%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [9845000814B4D365EG29](https://search.gleif.org/#/record/9845000814B4D365EG29) |
+| Legal Name | NORPAC AGRO PRIVATE LIMITED |
+| Jurisdiction | IN |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-07-15T05:23:04Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

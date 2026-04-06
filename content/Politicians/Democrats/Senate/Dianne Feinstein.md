@@ -6,6 +6,7 @@ last-updated: 2026-04-06
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
+stock-trades: 29
 ---
 
 #feinstein #democrat #senate #california #intelligence #defense-contractors #richard-blum #surveillance-champion #class-analysis
@@ -122,3 +123,28 @@ content-readiness:: ready
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 29 |
+| Purchases | 0 |
+| Sales | 0 |
+| Est. Value Range | $0 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/18/2018 | N/A | other | Unknown | N/A |
+| 11/15/2018 | N/A | other | Unknown | N/A |
+| 10/19/2017 | N/A | other | Unknown | N/A |
+| 10/15/2018 | N/A | other | Unknown | N/A |
+| 09/13/2018 | N/A | other | Unknown | N/A |
+| 08/19/2019 | N/A | other | Unknown | N/A |
+| 08/15/2018 | N/A | other | Unknown | N/A |
+| 07/17/2019 | N/A | other | Unknown | N/A |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

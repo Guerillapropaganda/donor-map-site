@@ -2,7 +2,7 @@
 title: "Melissa Bean Master Profile"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -161,3 +161,10 @@ party:: Democrat
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
+<!-- auto:committee-assignments end -->

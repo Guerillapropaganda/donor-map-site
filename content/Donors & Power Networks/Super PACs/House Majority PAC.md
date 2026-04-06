@@ -2,7 +2,7 @@
 title: "House Majority PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -12,6 +12,15 @@ politicians-funded:
   - "Nancy Pelosi"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 23
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. Indiana"
+  - "District Court, S.D. New York"
 ---
 
 #donor-node #super-pac #democratic #house #leadership-pac #dark-money #house-majority-forward #donor
@@ -174,3 +183,22 @@ research-status:: ready
 | LCV VICTORY FUND | $435.2K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 23 |
+| Courts | District Court, C.D. California, District Court, District of Columbia, District Court, N.D. California, District Court, S.D. Florida, District Court, S.D. Indiana, District Court, S.D. New York |
+| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 442 Civil Rights: Jobs, 540 Mandamus & Other, 840 Trademark |
+
+**Notable cases:**
+- Khanna v. Instacart (2025) — District Court, N.D. California
+- David Tangipa v. Gavin Newsom (2025) — District Court, C.D. California
+- VOTE.ORG v. CLEAVER (2025) — District Court, S.D. Indiana
+- SGCI HOLDINGS III LLC v. FEDERAL COMMUNICATIONS COMMISSION (2024) — District Court, District of Columbia
+- Jastram v. Nextera Energy, Inc. (2023) — District Court, S.D. Florida
+- People of The State of New York v. Trump (2023) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22House%20Majority%20PAC%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

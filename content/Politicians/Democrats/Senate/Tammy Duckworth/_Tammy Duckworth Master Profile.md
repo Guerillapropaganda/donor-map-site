@@ -2,7 +2,7 @@
 title: "Tammy Duckworth"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,18 @@ top-donors:
   - "AFSCME"
   - "SEIU"
 bioguide-id: "A000383"
+stock-trades: 15
+stock-trade-tickers:
+  - "CAT"
+  - "BBL"
+  - "GS"
+  - "SOUHY"
+  - "DWDP"
+  - "ABT"
+  - "JNJ"
+  - "CC"
+  - "INTC"
+  - "DVMT"
 ---
 
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion
@@ -158,3 +170,30 @@ This is the Genuine Win track. The veteran care outcomes are real and meaningful
 
 profile-status:: developed
 content-readiness:: developed
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 15 |
+| Purchases | 1 |
+| Sales | 14 |
+| Est. Value Range | $29,015 – $260,000 |
+
+**Top tickers traded:** CAT, BBL, GS, SOUHY, DWDP, ABT, JNJ, CC
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/21/2017 | BBL | Purchase | $1,001 - $15,000 | Joint |
+| 11/30/2017 | GS | Sale | $1,001 - $15,000 | Joint |
+| 11/01/2017 | SOUHY | Sale | $1,001 - $15,000 | Joint |
+| 10/23/2017 | DWDP | Sale | $1,001 - $15,000 | Joint |
+| 10/18/2017 | ABT | Sale | $1,001 - $15,000 | Joint |
+| 10/17/2017 | JNJ | Sale | $1,001 - $15,000 | Joint |
+| 10/10/2017 | CC | Sale | $1,001 - $15,000 | Joint |
+| 09/15/2017 | INTC | Sale | $1,001 - $15,000 | Joint |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

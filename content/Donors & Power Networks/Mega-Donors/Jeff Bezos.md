@@ -2,11 +2,31 @@
 title: "Jeff Bezos"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
+sec-filings: 530
+sec-form-types:
+  - "425"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14C"
+  - "DEFA14A"
+  - "EX-10.11"
+  - "EX-10.15"
+  - "EX-10.16"
+  - "EX-10.8"
+  - "EX-10.9"
+  - "EX-24"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "PRE 14C"
+  - "PX14A6G"
+  - "S-8"
 ---
 
 #bezos #amazon #blue-origin #washington-post #mega-donor #media #space
@@ -65,3 +85,21 @@ content-readiness:: ready
 | AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC) | $35.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 530 |
+| Form Types | 425, 8-K, CORRESP, DEF 14C, DEFA14A, EX-10.11, EX-10.15, EX-10.16 +10 more |
+
+**Notable filings:**
+
+- 2001-03-23 — **EX-10.16**: COMPENSATION LETTER TO DIEGO PIACENTINI
+- 2009-07-22 — **EX-99.2**: EMAIL REGARDING THE PROPOSED MERGER
+- 2001-03-23 — **EX-10.15**: COMPENSATION LETTER TO MARK BRITTO DATED 7/27/2000
+- 2009-07-22 — **EX-99.2**: EMAIL REGARDING THE PROPOSED MERGER
+- 2001-04-03 — **EX-24**: EX-24
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jeff%20Bezos%22) (Tier 1)
+<!-- auto:sec-edgar end -->

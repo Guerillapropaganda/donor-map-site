@@ -53,3 +53,21 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 - [Ballotpedia: Defense industry](https://ballotpedia.org/Defense_Industry) (Tier 3)
 
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Defense & Military** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
+
+**Funded politicians:**
+
+- [[Jeanne Shaheen]] (Foreign Relations, Armed Services)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

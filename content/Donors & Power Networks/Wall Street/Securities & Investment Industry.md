@@ -2,13 +2,19 @@
 title: "Securities & Investment Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "IRAN"
+  - "SDGT] [IFSR"
+  - "SDGT"
 ---
 
 #securities #investment #wall-street #hedge-fund #private-equity #carried-interest #bipartisan
@@ -35,3 +41,26 @@ The industry's political priorities are bipartisan by design: carried interest t
 - [Ballotpedia: Wall Street political spending](https://ballotpedia.org/Securities_&_Investment_Industry) (Tier 3)
 
 content-readiness:: ready
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 4 |
+| Sanctions Programs | IRAN, SDGT] [IFSR, SDGT |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- OIL INDUSTRY INVESTMENT COMPANY (-0-) [IRAN]
+  - Remarks: Website http://www.oiic-ir.com; Additional Sanctions Information - Subject to Secondary Sanctions; a.k.a. 'O.I.I.C.'.
+- CEMENT INDUSTRY INVESTMENT AND DEVELOPMENT COMPANY (-0-) [SDGT] [IFSR]
+  - Remarks: Website www.cidco.ir; Additional Sanctions Information - Subject to Secondary Sanctions; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Registrat...
+- GHADIR INVESTMENT AND INDUSTRY DEVELOPMENT (-0-) [IRAN]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions; Linked To: GHADIR INVESTMENT COMPANY.
+- KAMARAN INDUSTRY AND INVESTMENT COMPANY (-0-) [SDGT]
+  - Remarks: Website www.kamaran.com; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Organization Established Date 1963; Organization Type: Wholesale of food,...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

@@ -2,7 +2,7 @@
 title: "National Association of Realtors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -11,6 +11,34 @@ issues:
   - "Housing"
   - "Antitrust & Monopoly"
 federal-contracts: "2616134"
+sec-filings: 7570
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "144"
+  - "4"
+  - "40-24B2"
+  - "425"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.1"
+  - "EX-10.28"
+  - "EX-99"
+  - "EX-99.(A)(1)(H)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "EX-99.4"
+  - "EX-99.5"
+  - "PRE 14A"
+  - "SC TO-C"
+  - "SC TO-T"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-06"
+lei: "549300HH1QGPI9FI1510"
+lei-jurisdiction: "US-IL"
 ---
 
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door
@@ -362,3 +390,71 @@ content-readiness:: developed
 | NRCC | $150.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]] — contracts: $2.6M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 7,570 |
+| Form Types | 10-K, 10-K/A, 144, 4, 40-24B2, 425, 8-K, DEF 14A +13 more |
+| CIK | 109380 |
+| Ticker | ZION |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Association%20of%20Realtors%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=National%20Association%20of%20Realtors) (Tier 1)
+<!-- auto:nhtsa-recalls end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300HH1QGPI9FI1510](https://search.gleif.org/#/record/549300HH1QGPI9FI1510) |
+| Legal Name | National Association of Realtors |
+| Jurisdiction | US-IL |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-08-04T16:32:13Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

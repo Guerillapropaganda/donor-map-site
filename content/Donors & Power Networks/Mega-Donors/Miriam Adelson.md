@@ -2,7 +2,7 @@
 title: "Miriam Adelson"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -17,6 +17,10 @@ politicians-funded:
   - "Elise Stefanik"
 issues:
   - "Israel & Foreign Policy"
+ein: 886063073
+annual-revenue: "$13K"
+net-assets: "$90K"
+tax-year: "2023"
 ---
 
 
@@ -232,3 +236,15 @@ content-readiness:: developed
 | CONGRESSIONAL LEADERSHIP FUND | $75.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $13K |
+| Total Contributions | $0 |
+| Total Expenses | $756 |
+| Net Assets | $90K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 886063073](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1)
+<!-- auto:propublica-990 end -->

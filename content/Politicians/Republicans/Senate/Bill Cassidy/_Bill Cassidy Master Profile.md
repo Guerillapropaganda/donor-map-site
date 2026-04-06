@@ -145,3 +145,17 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 - [U.S. Senator Bill Cassidy: Bipartisan group introduces nation's first comprehensive CO2 infrastructure bill](https://www.cassidy.senate.gov/newsroom/press-releases/bipartisan-group-introduces-nations-first-comprehensive-co2-infrastructure-bill/) (Tier 1)
 content-readiness:: ready
  
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Petrochemical Industry Bloc]] — $36.4M lobbying spend (Budget/Appropriations, Chemicals/Chemical Industry, Energy/Nuclear)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

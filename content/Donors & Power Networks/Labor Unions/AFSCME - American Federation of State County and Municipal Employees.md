@@ -2,7 +2,7 @@
 title: "AFSCME - American Federation of State County and Municipal Employees"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -12,6 +12,15 @@ politicians-funded:
   - "Kamala Harris"
 issues:
   - "Labor & Workers"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "CAATSA - RUSSIA"
+  - "RUSSIA-EO14024"
+court-cases: 2
+court-jurisdictions:
+  - "District Court, D. Arizona"
+  - "District Court, S.D. Florida"
 ---
 
 
@@ -113,3 +122,43 @@ content-readiness:: ready
 | PETE AGUILAR FOR CONGRESS | $57.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 14 |
+| Sanctions Programs | CAATSA - RUSSIA, RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- STATE RESEARCH CENTER OF THE RUSSIAN FEDERATION FGUP CENTRAL SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND MECHANICS (-0-) [CAATSA - RUSSIA]
+  - Remarks: Website http://cniihm.ru; Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201; Tax ID No. 7724073013 (Russia); Government Gazette Number 07521506 (Russia); Registra...
+- STATE DUMA OF THE FEDERAL ASSEMBLY OF THE RUSSIAN FEDERATION (-0-) [RUSSIA-EO14024]
+  - Remarks: Website http://www.duma.gov.ru/; Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Type: General public administration activities; Target Type Government Entity.
+- STATE RESEARCH INSTITUTE OF AVIATION SYSTEMS STATE RESEARCH CENTER OF THE RUSSIAN FEDERATION (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 17 Jan 1992; Tax ID No. 7714037739 (Russia); Registration Number 1027700227720 (Russia).
+- FEDERAL STATE FINANCED INSTITUTION OF SCIENCE PHYSICAL HIGHER EDUCATION INSTITUTION NAMED AFTER P. N. LEBEDEVA OF THE RUSSIAN FEDERATION ACADEMY SCIENCES (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 03 Oct 2001; Tax ID No. 7736037394 (Russia); Registration Number 1027739617960 (Russia); a.k.a. 'LPI R...
+- FEDERAL STATE FINANCED INSTITUTION OF SCIENCE HIGHER EDUCATION INSTITUTION SPECTROSCOPY OF THE RUSSIAN FEDERATION ACADEMY OF SCIENCES (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 07 Jul 1992; Tax ID No. 5046005427 (Russia); Registration Number 1035009350100 (Russia); a.k.a. 'ISAN'...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2 |
+| Courts | District Court, D. Arizona, District Court, S.D. Florida |
+| Case Types | 442 Civil Rights: Jobs, Contract: Insurance |
+
+**Notable cases:**
+- Franklin v. Hartford Life and Accident Insurance Company (2022) — District Court, D. Arizona
+- Guasto v. The City of Miami Beach, Florida (2022) — District Court, S.D. Florida
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

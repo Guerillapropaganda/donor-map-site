@@ -95,3 +95,21 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 - [Ballotpedia: Citigroup political spending](https://ballotpedia.org/Citigroup) (Tier 3)
 
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Wall Street & Finance** → Funds **French Hill** → Sits on **Banking**
+
+**Funded politicians:**
+
+- [[French Hill]] (Banking)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

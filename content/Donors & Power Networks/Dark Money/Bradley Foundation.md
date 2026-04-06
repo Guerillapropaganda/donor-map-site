@@ -2,7 +2,7 @@
 title: "Bradley Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,8 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
   - "Infrastructure"
+lobbying-spend: 3489500
+lobbying-filings: 75
 ---
 
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure
@@ -223,3 +225,22 @@ The 2022 grant of $27.1 million to America First Legal — 61% of AFL's budget �
 
 content-readiness:: developed
 research-status:: developed — Expanded from 47 to 190+ lines. CMD $86.4M grant breakdown documented (AFL $27.1M, TPUSA $7.8M, Project Veritas $1.8M), Project 2025 $52.9M funding mapped, Milwaukee voucher history with dollar amounts, temporal mapping 10 entries, class analysis with 2 callout blocks, 12 sourced citations Tier 1-3. Gaps: 2023 and 2024 annual 990 data not yet available on ProPublica; full donor list of Bradley Impact Fund (501(c)(4) structure shields contributors beyond Diane Hendricks). Promoted from ready→developed due to substantial content addition. Needs URL verification pass for full ready promotion.
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $3.5M |
+| Quarterly Filings | 75 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 8 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Defense, Economics/Economic Development, Education, Energy/Nuclear, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Government Issues, Health Issues, Homeland Security, Immigration, Insurance, Intelligence, Law Enforcement/Crime/Criminal Justice, Manufacturing, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Railroads, Science/Technology, Telecommunications, Trade (domestic/foreign)
+
+**Lobbying firms:** BRADLEY ARANT BOULT CUMMINGS LLP, CASSIDY & ASSOCIATES, INC., COZEN O'CONNOR PUBLIC STRATEGIES, DAVID A. BRADLEY, NORTHERN COMPASS GROUP LLC, O'NEIL BRADLEY CONSULTING LLC, TOM BRADLEY HEALTH POLICY LLC, TROUTMAN STATEGIES
+
+**Agencies contacted:** Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Congressional Budget Office (CBO), Defense, Dept of (DOD), Energy, Dept of, Executive Office of the President (EOP), Federal Emergency Management Agency (FEMA), HOUSE OF REPRESENTATIVES, Health Resources & Services Administration (HRSA), SENATE +4 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Bradley%20Foundation) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 sector: "Israel Lobby"
 entity-type: "Individual Donor"
-ein: 821919054
+ein: "821919054"
 annual-revenue: "$2.3M"
 net-assets: "$525K"
 tax-year: "2023"
@@ -15,6 +15,10 @@ total-political-spend: "$112,605"
 politicians-funded:
   - "Amy Klobuchar"
   - "Paul Ryan"
+nonprofit-status: "501(c)(4)"
+last-enriched: "2026-04-06"
+total-revenue: 2588140
+total-assets: 470240
 ---
 
 #jdca #jewish-democratic-council #israel-lobby #democratic-party #pro-israel
@@ -103,3 +107,28 @@ The Jewish Democratic Council of America exemplifies how identity-based advocacy
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jewish%20Democratic%20Council%20of%20America) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 821919054 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $2.6M |
+| Total Assets | $470K |
+| NTEE Code | R01 |
+| IRS Ruling Date | 2019-10-01 |
+| Filings on Record | 7 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2019)
+- ... and 2 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/821919054) (Tier 1)
+<!-- auto:nonprofit-990 end -->

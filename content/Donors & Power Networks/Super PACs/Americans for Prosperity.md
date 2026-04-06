@@ -2,7 +2,7 @@
 title: "Americans for Prosperity"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -11,6 +11,19 @@ politicians-funded:
   - "Nikki Haley"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 780
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, D. Maine"
+  - "District Court, D. New Jersey"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
 ---
 
 #donor-node #koch-network #dark-money #super-pac #501c4 #astroturf #state-capture #class-analysis #follow-the-money
@@ -170,3 +183,22 @@ content-readiness:: developed
 | AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $70.2K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 780 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eighth Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Sixth Circuit, District Court, D. Maine, District Court, D. New Jersey +5 more |
+| Case Types | 190 Contract: Other, 360 P.I.: Other, 440 Civil Rights: Other, 441 Civil Rights: Voting, 442 Civil Rights: Employment |
+
+**Notable cases:**
+- HILTON v. NOEM (2026) — District Court, D. Maine
+- American Public Health Association v. EPA (2026) — Court of Appeals for the D.C. Circuit
+- ENDOCRINE SOCIETY v. FEDERAL TRADE COMMISSION (2026) — District Court, District of Columbia
+- Right to Life of Michigan v. Nessel (2026) — District Court, W.D. Michigan
+- United States v. Raffensperger (2026) — District Court, N.D. Georgia
+- Zuffa LLC, et al. v. United States District Court for the District of Nevada, Las Vegas (2026) — Court of Appeals for the Ninth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Americans%20for%20Prosperity%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

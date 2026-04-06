@@ -131,3 +131,14 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 - [Washington Post: Ginni Thomas's group Crowdsourcers got nearly $600,000 in anonymous donations](https://www.washingtonpost.com/investigations/2023/03/28/ginni-thomas-crowdsourcers-anonymous-donations/) (Tier 2)
 content-readiness:: ready
  
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | None |
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

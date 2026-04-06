@@ -15,6 +15,8 @@ ein: 842588790
 annual-revenue: "$0"
 net-assets: "$344"
 tax-year: "2020"
+lei: "9SRTZ2L9ZJUILAT91D80"
+lei-jurisdiction: "US"
 ---
 
 #mbna #credit-card #delaware #biden #bankruptcy #wall-street #banking
@@ -60,3 +62,18 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 842588790](https://projects.propublica.org/nonprofits/organizations/842588790) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2022_prefixes_81-99%2F842588790_202012_990EZ_2022052420133297.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [9SRTZ2L9ZJUILAT91D80](https://search.gleif.org/#/record/9SRTZ2L9ZJUILAT91D80) |
+| Legal Name | MBNA Corporation Pension Plan |
+| Jurisdiction | US |
+| Entity Status | INACTIVE |
+| Category | GENERAL |
+| Registration | RETIRED |
+| Last Updated | 2024-12-13T18:56:58Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

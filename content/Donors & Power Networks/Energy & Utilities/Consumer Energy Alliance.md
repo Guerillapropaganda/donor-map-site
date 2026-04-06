@@ -2,13 +2,25 @@
 title: "Consumer Energy Alliance"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "IRAN-EO13846"
+court-cases: 44
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, D. Oregon"
+  - "District Court, District of Columbia"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #fossil-fuel-astroturf #energy-lobby #dark-money #greenwashing #regulatory-capture
@@ -62,3 +74,38 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 | AG AMERICA | $17.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | IRAN-EO13846 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- ALLIANCE ENERGY PVT. LIMITED (-0-) [IRAN-EO13846]
+  - Remarks: Website allianceenergy.pk/; Organization Established Date 19 Dec 2016; Registration Number 0104304 (Pakistan); a.k.a. 'ALLIANCE ENERGY CO.'; Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL C...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 44 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Sixth Circuit, District Court, D. Oregon, District Court, District of Columbia, United States Bankruptcy Court, S.D. Texas |
+
+**Notable cases:**
+- Sunnova Energy International Inc. and Rebecca Nelson (2025) — United States Bankruptcy Court, S.D. Texas
+- AFPM v. NHTSA (2024) — Court of Appeals for the Sixth Circuit
+- American Fuel & Petrochemical Manufacturers v. NHTSA (2024) — Court of Appeals for the D.C. Circuit
+- In re: MCP No. 189 Corp Avg Fuel Econ (NHTSA-2023-0022) (2024) — Court of Appeals for the Sixth Circuit
+- The Transport Project v. EPA (2024) — Court of Appeals for the D.C. Circuit
+- Clean Fuels Alliance America v. EPA (2024) — Court of Appeals for the D.C. Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Consumer%20Energy%20Alliance%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

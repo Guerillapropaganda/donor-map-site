@@ -10,6 +10,11 @@ entity-type: "Corporation"
 federal-awards-total: 19305761
 federal-contracts-count: 25
 federal-grants-count: 2
+ein: "650031452"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-06"
+total-revenue: 23163816
+total-assets: 78162606
 ---
 
 #nextera #energy #renewables #solar #wind #florida #utility #fpl
@@ -94,3 +99,27 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-NextEra%20Energy) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 650031452 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $23.2M |
+| Total Assets | $78.2M |
+| IRS Ruling Date | 1989-03-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/650031452) (Tier 1)
+<!-- auto:nonprofit-990 end -->

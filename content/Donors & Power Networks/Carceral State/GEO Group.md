@@ -2,7 +2,7 @@
 title: "GEO Group - Private Prison Industrial Complex"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Carceral State"
@@ -14,6 +14,14 @@ politicians-funded:
   - "Marco Rubio"
   - "Pam Bondi"
 federal-contracts: "959292"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "NPWMD] [IFSR"
+  - "IRAN-EO13871"
+  - "BELARUS-EO14038"
+  - "RUSSIA-EO14024"
+  - "IRAN-EO13902"
 ---
 
 #donor #private-prison #immigration-detention #GEO-group #ICE #for-profit-detention #republican-donor #trump #class-analysis #follow-the-money #revolving-door #carceral-state #detention-expansion #ankle-monitor #bi-incorporated #electronic-monitoring #e-carceration #pam-bondi #sedition-caucus #forced-labor #racial-disparity
@@ -560,3 +568,47 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 ---
 
 research-status:: developed — Complete 2025 financials ($2.63B revenue, $254.4M profit, $520M new contracts), detailed ROI analysis ($2M political investment → $520M annual cont
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 5 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]] — contracts: $959K
+- [[Donald Trump]] — contracts: $959K
+- [[Chad Bianco]] — contracts: $959K
+- [[Marco Rubio]] — contracts: $959K
+- [[Pam Bondi]] — contracts: $959K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 6 |
+| Sanctions Programs | NPWMD] [IFSR, IRAN-EO13871, BELARUS-EO14038, RUSSIA-EO14024, IRAN-EO13902 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- AMIN INDUSTRIAL COMPLEX (-0-) [NPWMD] [IFSR]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions.
+- ESFARAYEN INDUSTRIAL COMPLEX (-0-) [IRAN-EO13871]
+  - Remarks: Website www.esfst.com; Additional Sanctions Information - Subject to Secondary Sanctions; Organization Established Date 1990; National ID No. 89046 (Iran) issued 1990; a.k.a. 'EICO'.
+- INDUSTRIAL-COMMERCIAL PRIVATE UNITARY ENTERPRISE MINOTOR-SERVICE (-0-) [BELARUS-EO14038]
+  - Remarks: Organization Established Date 1991; Registration Number 100665069 (Belarus).
+- SCIENTIFIC INDUSTRIAL COMPANY DIPAUL PRIVATE JOINT STOCK COMPANY (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 7804137537 (Russia); Registration Number 1027802497656 (Russia).
+- LIMITED LIABILITY COMPANY TRADE INDUSTRIAL COMPLEX RZM (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 5038106044 (Russia); Registration Number 1145038003142 (Russia).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

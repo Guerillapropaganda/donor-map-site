@@ -2,7 +2,7 @@
 title: "Blue Cross Blue Shield Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -10,6 +10,19 @@ entity-type: "Corporation"
 issues:
   - "Healthcare"
   - "Antitrust & Monopoly"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "SDNTK"
+  - "IRAN"
+  - "SDGT"
+  - "SDGT] [IFSR"
+  - "BELARUS-EO14038"
+  - "GLOMAG"
+  - "IRAN-EO13846"
+  - "NPWMD] [IFSR"
+  - "IRAN-EO13902"
+  - "SDGT] [ILLICIT-DRUGS-EO14059"
 ---
 
 #bcbs #blue-cross #blue-shield #insurance #healthcare #lobbying #antitrust #bipartisan #aca #medicare-advantage #public-option #class-analysis #follow-the-money
@@ -193,3 +206,28 @@ content-readiness:: developed
 | DCCC | $77.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 17 |
+| Sanctions Programs | SDNTK, IRAN, SDGT, SDGT] [IFSR, BELARUS-EO14038, GLOMAG, IRAN-EO13846, NPWMD] [IFSR, IRAN-EO13902, SDGT] [ILLICIT-DRUGS-EO14059 |
+| Entity Types | -0-, vessel |
+
+**Matched SDN entries:**
+- BLUE-STAR SECCION HOSTELERIA S.L. (-0-) [SDNTK]
+  - Remarks: C.I.F. B84214477 (Spain).
+- BLUE TANKER SHIPPING SA (-0-) [IRAN]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions.
+- BLUE SKY AVIATION CO FZE (-0-) [SDGT]
+  - Remarks: Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886.
+- SKY BLUE BIRD AVIATION (-0-) [SDGT] [IFSR]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Linked To: MAHAN AIR.
+- BLUE LAGOON GROUP LTD. (-0-) [SDGT]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions Pursuant to the Hizballah Financial Sanctions Regulations; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

@@ -2,9 +2,13 @@
 title: "Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "RUSSIA-EO14024"
 ---
 
 
@@ -120,3 +124,22 @@ content-readiness:: ready
 - [Senator Whitehouse: Collapse in IRS Investigations of Wealthy Tax Cheats Under Trump](https://www.whitehouse.senate.gov/news/release/whitehouse-wyden-colleagues-probe-collapse-in-irs-investigations-of-wealthy-tax-cheats-under-trump/) (Tier 2)
 - [ICIJ: IRS Criminal Referrals Against Corporations and Ultrawealthy Plummeted](https://www.icij.org/news/2026/03/irs-criminal-referrals-against-big-corporations-and-ultrawealthy-plummeted-during-trumps-first-year/s-and-ultrawealthy-plummeted-during-trump-s-first-year/) (Tier 2)
 - [Oxfam America: Trump's IRS Cuts Allow Ultra Rich Tax Cheats to Steal $30 Million Per Day](https://www.oxfamamerica.org/press/trump-and-musks-proposed-irs-cuts-would-allow-ultra-rich-tax-cheats-to-steal-30-million-per-day-through-unlawful-tax-evasion/) (Tier 2)
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 2 |
+| Sanctions Programs | RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- THE FEDERAL STATE UNITARY ENTERPRISE V.A. KARGIN SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND TECHNOLOGY OF POLYMERS WITH A PILOT PRODUCTION PLANT (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 5249164736 (Russia); Government Gazette Number 33947252 (Russia); Registration Number 1185275058044 (Russia).
+- STATE UNITARY ENTERPRISE CENTER FOR TECHNICAL DEVELOPMENT AND SERVICES NAMED AFTER P A SUDOPLATOV OF THE MILITARY AND CIVIL ADMINISTRATION OF THE ZAPORIZHZHIA REGION (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 22 Dec 2022; Tax ID No. 9001013922 (Russia); Registration Number 1229000023603 (Russia).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

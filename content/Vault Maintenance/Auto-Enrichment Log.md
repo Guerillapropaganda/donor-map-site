@@ -25,6 +25,262 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 2026-04-06 23:35 UTC — 13 profiles
+
+**usaspending-subawards — 13 profiles:**
+- Blackstone Group — 50 issued, 50 received, 0 agencies
+- DeVos Family — 50 issued, 50 received, 0 agencies
+- Ross Stevens — 50 issued, 50 received, 0 agencies
+- Concerned Veterans for America — 50 issued, 50 received, 0 agencies
+- Labor Unions — 50 issued, 50 received, 0 agencies
+- Comcast - NBCUniversal — 50 issued, 50 received, 0 agencies
+- Fossil Fuel Bloc — 50 issued, 50 received, 0 agencies
+- Las Vegas Sands — 50 issued, 50 received, 0 agencies
+- Anthem - Elevance Health — 50 issued, 50 received, 0 agencies
+- Freedom Partners Chamber of Commerce — 50 issued, 50 received, 0 agencies
+- Rebekah Mercer — 50 issued, 50 received, 0 agencies
+- United Farm Workers — 50 issued, 50 received, 0 agencies
+- Starbucks — 50 issued, 50 received, 1 agencies
+
+---
+## 2026-04-06 23:29 UTC — 1 profile
+
+**USAspending — 1 profile:**
+- Tenet Healthcare — 5 contracts, 0 grants
+
+---
+## 2026-04-06 23:27 UTC — 3 profiles
+
+**GovTrack — 3 profiles:**
+- Shelley Moore Capito — 24 sponsored, 278 cosponsored
+- Mark Warner — 35 sponsored, 248 cosponsored
+- JD Vance — 0 sponsored, 2 cosponsored
+
+---
+## 2026-04-06 23:23 UTC — 7 profiles
+
+**nonprofit-990 — 7 profiles:**
+- UNITE HERE — EIN 352455960, 501(c)(5), rev N/A
+- IBEW - International Brotherhood of Electrical Workers — EIN 611602482, 501(c)(5), rev N/A
+- Jewish Democratic Council of America — EIN 821919054, 501(c)(4), rev $2.6M
+- Apollo Global Management — EIN 815163032, 501(c)(3), rev $1.1M
+- Sinclair Broadcasting Group — EIN 465691580, 501(c)(3), rev N/A
+- Leidos — EIN 203922378, 501(c)(3), rev $186K
+- NextEra Energy — EIN 650031452, 501(c)(3), rev $23.2M
+
+---
+## 2026-04-06 23:22 UTC — 12 profiles
+
+**sec-edgar — 12 profiles:**
+- Reed Hastings — 10000 filings, 14 form types
+- UAW - United Auto Workers — 15 filings, 5 form types
+- Leidos — 10000 filings, 29 form types
+- American Iron and Steel Institute — 984 filings, 18 form types
+- JPMorgan Chase — 10000 filings, 21 form types
+- Kelcy Warren - Energy Transfer Partners — 15 filings, 9 form types
+- Mehlman Consulting — 21 filings, 9 form types
+- Jeff Bezos — 530 filings, 18 form types
+- Bernard Marcus — 104 filings, 45 form types
+- Ethanol Industry — 4713 filings, 13 form types
+- Uber — 10000 filings, 44 form types
+- National Association of Realtors — 7570 filings, 21 form types
+
+---
+## 2026-04-06 23:22 UTC — 5 profiles
+
+**committee — 5 profiles:**
+- Buffy Wicks — 0 committees, 0 subcommittees
+- Alexandria Ocasio-Cortez — 0 committees, 0 subcommittees
+- Tim Scott — 0 committees, 0 subcommittees
+- Chris Christie — 0 committees, 0 subcommittees
+- Melissa Bean — 0 committees, 0 subcommittees
+
+---
+## 2026-04-06 23:21 UTC — 29 profiles
+
+**ofac-sdn — 29 profiles:**
+- Consumer Energy Alliance — fuzzy match, 1 records, programs: IRAN-EO13846
+- UFCW - United Food and Commercial Workers — fuzzy match, 1 records, programs: RUSSIA-EO14024
+- AFSCME - American Federation of State County and Municipal Employees — fuzzy match, 14 records, programs: CAATSA - RUSSIA,RUSSIA-EO14024
+- Manhattan Institute for Policy Research — fuzzy match, 94 records, programs: UKRAINE-EO13661,CYBER2] [CAATSA - RUSSIA,IRAN] [NPWMD] [IFSR,NPWMD] [IFSR,CAATSA - RUSSIA,NPWMD,NPWMD] [RUSSIA-EO14024,RUSSIA-EO14024,UKRAINE-EO13662] [RUSSIA-EO14024
+- GEO Group - Private Prison Industrial Complex — fuzzy match, 6 records, programs: NPWMD] [IFSR,IRAN-EO13871,BELARUS-EO14038,RUSSIA-EO14024,IRAN-EO13902
+- Saudi Arabia - Kingdom Investment — fuzzy match, 1 records, programs: SDGT
+- Abdul El-Sayed — fuzzy match, 2 records, programs: SDGT,SDNT
+- Insurance Industry Bloc — fuzzy match, 1 records, programs: UKRAINE-EO13662] [RUSSIA-EO14024
+- Apollo Global Management — fuzzy match, 1 records, programs: IRAN-EO13846
+- Securities & Investment Industry — fuzzy match, 4 records, programs: IRAN,SDGT] [IFSR,SDGT
+- Blackstone Real Estate — fuzzy match, 26 records, programs: SDNTK,UKRAINE-EO13662] [RUSSIA-EO14024,SDGT,PAARSSR-EO13894,RUSSIA-EO14024,IRAN-EO13846,GLOMAG,DPRK2,ILLICIT-DRUGS-EO14059,TCO
+- American Fuel and Petrochemical Manufacturers — fuzzy match, 1 records, programs: IRAN-EO13846
+- Insurance Industry — fuzzy match, 1 records, programs: UKRAINE-EO13662] [RUSSIA-EO14024
+- Real Estate Roundtable — fuzzy match, 26 records, programs: SDNTK,UKRAINE-EO13662] [RUSSIA-EO14024,SDGT,PAARSSR-EO13894,RUSSIA-EO14024,IRAN-EO13846,GLOMAG,DPRK2,ILLICIT-DRUGS-EO14059,TCO
+- Real Estate Industry — fuzzy match, 26 records, programs: SDNTK,UKRAINE-EO13662] [RUSSIA-EO14024,SDGT,PAARSSR-EO13894,RUSSIA-EO14024,IRAN-EO13846,GLOMAG,DPRK2,ILLICIT-DRUGS-EO14059,TCO
+- Maria Elvira Salazar — fuzzy match, 1 records, programs: SDNTK
+- Oil & Gas PACs — fuzzy match, 16 records, programs: SDGT] [NPWMD] [IRGC] [IFSR,IRAN,IRAN] [IRAN-EO13876,LIBYA3,IRAN-EO13876,IRAN-EO13846,RUSSIA-EO14024,UKRAINE-EO13662] [RUSSIA-EO14024,IRAN-EO13902
+- American Enterprise Institute — fuzzy match, 12 records, programs: UKRAINE-EO13685,RUSSIA-EO14024,UKRAINE-EO13662] [RUSSIA-EO14024
+- Real Estate Board of New York — fuzzy match, 30 records, programs: SDNTK,UKRAINE-EO13662] [RUSSIA-EO14024,VENEZUELA-EO13850,SDGT,PAARSSR-EO13894,RUSSIA-EO14024,IRAN-EO13846,GLOMAG,DPRK2,ILLICIT-DRUGS-EO14059,TCO
+- American Iron and Steel Institute — fuzzy match, 2 records, programs: IRAN-EO13871
+- National Republican Senatorial Committee — fuzzy match, 3 records, programs: BALKANS,BELARUS,GLOMAG
+- Real Estate Industry Bloc — fuzzy match, 26 records, programs: SDNTK,UKRAINE-EO13662] [RUSSIA-EO14024,SDGT,PAARSSR-EO13894,RUSSIA-EO14024,IRAN-EO13846,GLOMAG,DPRK2,ILLICIT-DRUGS-EO14059,TCO
+- Petrochemical Industry Bloc — fuzzy match, 2 records, programs: NPWMD] [IFSR
+- Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists — fuzzy match, 2 records, programs: RUSSIA-EO14024
+- AIPAC - American Israel Public Affairs Committee — fuzzy match, 4 records, programs: BELARUS,GLOMAG
+- Financial Services Donors — fuzzy match, 5 records, programs: UKRAINE-EO13662] [RUSSIA-EO14024,GLOMAG,SDGT] [IFSR,RUSSIA-EO14024
+- Blue Cross Blue Shield Association — fuzzy match, 17 records, programs: SDNTK,IRAN,SDGT,SDGT] [IFSR,BELARUS-EO14038,GLOMAG,IRAN-EO13846,NPWMD] [IFSR,IRAN-EO13902,SDGT] [ILLICIT-DRUGS-EO14059
+- Ohio Democratic Party — fuzzy match, 1 records, programs: BALKANS
+- American Petroleum Institute — fuzzy match, 2 records, programs: RUSSIA-EO14024
+
+---
+## 2026-04-06 23:21 UTC — 13 profiles
+
+**courtlistener — 13 profiles:**
+- Palantir Technologies — 252 cases, 12 courts
+- Freedom Partners Chamber of Commerce — 4 cases, 4 courts
+- Rupert Murdoch — 415 cases, 13 courts
+- AFSCME - American Federation of State County and Municipal Employees — 2 cases, 2 courts
+- Americans for Prosperity — 780 cases, 13 courts
+- House Majority PAC — 23 cases, 6 courts
+- Google - Alphabet — 1 cases, 1 courts
+- Sixteen Thirty Fund — 18 cases, 8 courts
+- Coinbase — 3698 cases, 14 courts
+- Kelcy Warren — 33 cases, 12 courts
+- Honeywell International — 5233 cases, 10 courts
+- Consumer Energy Alliance — 44 cases, 6 courts
+- Western Growers Association — 44 cases, 6 courts
+
+---
+## 2026-04-06 23:21 UTC — 2 profiles
+
+**FEC — 2 profiles:**
+- Nancy Pelosi — 2026 raised $2,408,010
+- American Gaming Association — total political spend $695,569
+
+---
+## 2026-04-06 23:20 UTC — 2 profiles
+
+**ProPublica — 2 profiles:**
+- Miriam Adelson — $13K revenue, 2023 990
+- Bank of America — $220.2M revenue, 2023 990
+
+---
+## 2026-04-06 23:20 UTC — 3 profiles
+
+**Congress.gov — 3 profiles:**
+- Raul Grijalva — 0 policy areas, bioguide A000383
+- Mike Johnson — 0 policy areas, bioguide A000383
+- Kathy Hochul — 0 policy areas, bioguide A000383
+
+---
+## 2026-04-06 23:20 UTC — 26 profiles
+
+**stock-watcher — 26 profiles:**
+- Roger Wicker — 8 trades (2 buys, 6 sells), top: GDV, BIF
+- Maria Cantwell — 6 trades (0 buys, 5 sells), top: RNWK
+- Ron Wyden — 10 trades (10 buys, 0 sells), top: 
+- John Boozman — 43 trades (0 buys, 0 sells), top: 
+- Ron Johnson — 2 trades (0 buys, 2 sells), top: 
+- Elizabeth Warren — 1 trades (0 buys, 0 sells), top: 
+- Jack Reed — 1 trades (0 buys, 0 sells), top: 
+- Rick Scott — 142 trades (119 buys, 19 sells), top: 
+- Dianne Feinstein — 29 trades (0 buys, 0 sells), top: 
+- John Cornyn — 2 trades (1 buys, 1 sells), top: AAPL
+- Cory Booker — 13 trades (0 buys, 13 sells), top: IRM, AMT, NFLX
+- Richard Blumenthal — 50 trades (0 buys, 0 sells), top: 
+- Jeanne Shaheen — 3 trades (3 buys, 0 sells), top: 
+- John Barrasso — 1 trades (0 buys, 1 sells), top: 
+- Susan Collins — 441 trades (163 buys, 219 sells), top: FB, RHT, AXP
+- Sheldon Whitehouse — 687 trades (384 buys, 272 sells), top: GILD, FB, IBM
+- Thom Tillis — 99 trades (0 buys, 99 sells), top: AQFH, NICE, CVS
+- Gary Peters — 133 trades (112 buys, 11 sells), top: CVS, SHW, T
+- Shelley Moore Capito — 347 trades (211 buys, 125 sells), top: MSFT, JPM, WFC
+- Tammy Duckworth — 15 trades (1 buys, 14 sells), top: CAT, BBL, GS
+- John Kennedy — 2 trades (1 buys, 0 sells), top: MTUM
+- John Hoeven — 225 trades (142 buys, 65 sells), top: WTW, IBM, IVZ
+- Michael Bennet — 7 trades (4 buys, 2 sells), top: RGC, LVLT
+- Patty Murray — 161 trades (78 buys, 83 sells), top: WMB, WRK, WFC
+- Chris Coons — 24 trades (2 buys, 21 sells), top: NFLX, AAPL, MSFT
+- Mark Warner — 88 trades (12 buys, 27 sells), top: ZAYO, CHTR, HALO
+
+---
+## 2026-04-06 23:20 UTC — 62 profiles
+
+**influence-xref — 62 profiles:**
+- Amy Klobuchar — 1 connections, 5 committee overlaps
+- Raytheon (RTX Corporation) — 4 connections, 4 committee overlaps
+- Kyrsten Sinema — 1 connections, 0 committee overlaps
+- Tommy Tuberville — 1 connections, 0 committee overlaps
+- Amy Coney Barrett — 1 connections, 0 committee overlaps
+- Marjorie Taylor Greene — 1 connections, 0 committee overlaps
+- Greg Abbott — 1 connections, 0 committee overlaps
+- Judicial Crisis Network — 5 connections, 0 committee overlaps
+- Donald Trump — 1 connections, 0 committee overlaps
+- Jan Koum — 2 connections, 0 committee overlaps
+- Business Roundtable — 1 connections, 0 committee overlaps
+- Barack Obama — 2 connections, 0 committee overlaps
+- Sheldon Whitehouse — 1 connections, 0 committee overlaps
+- Gavin Newsom — 2 connections, 0 committee overlaps
+- Defense Industry Bloc — 2 connections, 3 committee overlaps
+- Western States Petroleum Association — 1 connections, 0 committee overlaps
+- UnitedHealth Group - Optum — 3 connections, 0 committee overlaps
+- UFCW - United Food and Commercial Workers — 4 connections, 0 committee overlaps
+- Joe Biden — 2 connections, 0 committee overlaps
+- John Boehner — 1 connections, 3 committee overlaps
+- Wall Street Bloc — 1 connections, 0 committee overlaps
+- US Chamber of Commerce — 3 connections, 6 committee overlaps
+- Agribusiness Donor Bloc — 1 connections, 1 committee overlaps
+- Ethanol Industry — 1 connections, 1 committee overlaps
+- Boeing — 7 connections, 7 committee overlaps
+- GEO Group - Private Prison Industrial Complex — 5 connections, 0 committee overlaps
+- MAGA Small Dollar Base — 2 connections, 0 committee overlaps
+- Amy Acton — 1 connections, 0 committee overlaps
+- Clarence Thomas — 1 connections, 0 committee overlaps
+- Patty Murray — 1 connections, 3 committee overlaps
+- Joni Ernst — 1 connections, 1 committee overlaps
+- Ohio AFL-CIO — 1 connections, 0 committee overlaps
+- Defense Industry — 1 connections, 1 committee overlaps
+- American Federation for Children — 1 connections, 0 committee overlaps
+- Goldman Sachs — 4 connections, 4 committee overlaps
+- Antonio Villaraigosa — 1 connections, 0 committee overlaps
+- National Association of Realtors — 1 connections, 0 committee overlaps
+- Cory Booker — 1 connections, 0 committee overlaps
+- Ro Khanna — 1 connections, 2 committee overlaps
+- Brett Kavanaugh — 1 connections, 0 committee overlaps
+- JPMorgan Chase — 5 connections, 6 committee overlaps
+- Valero Energy — 1 connections, 0 committee overlaps
+- Harlan Crow — 1 connections, 0 committee overlaps
+- Virginia Foxx — 1 connections, 0 committee overlaps
+- Bill Cassidy — 1 connections, 0 committee overlaps
+- National Cattlemen's Beef Association — 1 connections, 1 committee overlaps
+- Mitch McConnell — 1 connections, 0 committee overlaps
+- Paul Ryan — 1 connections, 3 committee overlaps
+- Nancy Pelosi — 1 connections, 0 committee overlaps
+- Eric Swalwell — 1 connections, 0 committee overlaps
+- Petrochemical Industry Bloc — 1 connections, 0 committee overlaps
+- Bank of America — 1 connections, 1 committee overlaps
+- American Farm Bureau Federation — 2 connections, 2 committee overlaps
+- CCPOA - California Correctional Peace Officers Association — 1 connections, 0 committee overlaps
+- Ocean Conservancy — 1 connections, 0 committee overlaps
+- California Nurses Association — 7 connections, 3 committee overlaps
+- Timothy Mellon — 4 connections, 0 committee overlaps
+- BAE Systems — 1 connections, 1 committee overlaps
+- California Apartment Association — 2 connections, 0 committee overlaps
+- John Cornyn — 1 connections, 6 committee overlaps
+- Apple — 3 connections, 7 committee overlaps
+- Citigroup — 1 connections, 1 committee overlaps
+
+---
 ## 2026-04-06 22:10 UTC — 9 profiles
 
 **federal-register — 9 profiles:**

@@ -222,3 +222,19 @@ research-status:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jan%20Koum%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Donald Trump]] — contracts: $489
+- [[Nikki Haley]] — contracts: $489
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

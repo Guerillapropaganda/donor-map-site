@@ -13,6 +13,8 @@ federal-register-mentions: 1
 last-enriched: "2026-04-06"
 regulatory-agencies:
   - "Federal Trade Commission"
+lei: "549300VIWYMSIGT1U456"
+lei-jurisdiction: "US-DE"
 ---
 
 #cigna #health-insurance #lobbying #pbm #express-scripts #healthcare
@@ -101,3 +103,18 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cigna%20Group%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300VIWYMSIGT1U456](https://search.gleif.org/#/record/549300VIWYMSIGT1U456) |
+| Legal Name | THE CIGNA GROUP |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-10-08T18:43:17Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

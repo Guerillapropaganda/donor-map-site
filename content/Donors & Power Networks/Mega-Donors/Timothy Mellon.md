@@ -262,3 +262,21 @@ research-status:: ready — $504M total spending documented with full breakdown 
 | SENATE LEADERSHIP FUND | $30.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 4 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $1.9M
+- [[Greg Abbott]] — lobbying: $1.9M
+- [[JD Vance]] — lobbying: $1.9M
+- [[Mitch McConnell]] — lobbying: $1.9M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+<!-- auto:influence-cross-ref end -->

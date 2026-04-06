@@ -2,11 +2,25 @@
 title: "Real Estate Board of New York"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Real Estate"
 entity-type: "Individual Donor"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-06"
+ofac-programs:
+  - "SDNTK"
+  - "UKRAINE-EO13662] [RUSSIA-EO14024"
+  - "VENEZUELA-EO13850"
+  - "SDGT"
+  - "PAARSSR-EO13894"
+  - "RUSSIA-EO14024"
+  - "IRAN-EO13846"
+  - "GLOMAG"
+  - "DPRK2"
+  - "ILLICIT-DRUGS-EO14059"
+  - "TCO"
 ---
 
 #real-estate-lobby #nyc-politics #zoning #housing-policy #developer-power #class-analysis #follow-the-money
@@ -145,3 +159,28 @@ content-readiness:: developed
 | BUILD AMERICA PAC | $6.8K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 30 |
+| Sanctions Programs | SDNTK, UKRAINE-EO13662] [RUSSIA-EO14024, VENEZUELA-EO13850, SDGT, PAARSSR-EO13894, RUSSIA-EO14024, IRAN-EO13846, GLOMAG, DPRK2, ILLICIT-DRUGS-EO14059, TCO |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- AHOME REAL ESTATE, S.A. DE C.V. (-0-) [SDNTK]
+  - Remarks: R.F.C. ARE0906295S0 (Mexico).
+- VTB REAL ESTATE LIMITED LIABILITY COMPANY (-0-) [UKRAINE-EO13662] [RUSSIA-EO14024]
+  - Remarks: Executive Order 13662 Directive Determination - Subject to Directive 1; Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; alt. Secondary sanctions...
+- RIM GROUP PROPERTIES OF NEW YORK, CORP. (-0-) [VENEZUELA-EO13850]
+  - Remarks: Linked To: GORRIN BELISARIO, Raul.
+- RIM GROUP PROPERTIES OF NEW YORK II CORP. (-0-) [VENEZUELA-EO13850]
+  - Remarks: Linked To: GORRIN BELISARIO, Raul.
+- TINDAYA PROPERTIES OF NEW YORK CORP. (-0-) [VENEZUELA-EO13850]
+  - Remarks: Linked To: PERDOMO ROSALES, Gustavo Adolfo.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

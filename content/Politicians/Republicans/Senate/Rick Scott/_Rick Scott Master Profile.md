@@ -2,7 +2,7 @@
 title: "Rick Scott Master Profile"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,6 +13,7 @@ top-donors:
   - "Fanjul Family - Florida Crystals"
 total-received: "$1,289,827"
 fec-candidate-id: "S8FL00273"
+stock-trades: 142
 ---
 
 
@@ -133,3 +134,29 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 - [CNN: NRSC spending failure, McConnell feud](https://www.cnn.com/2022/09/06/politics/rick-scott-mitch-mcconnell-republican-senate-fundraising) (Tier 2)
 - [Florida Politics: Big Sugar donors, healthcare votes](https://www.wlrn.org/politics/2013-09-27/seminole-tribe-u-s-sugar-among-big-donors-to-gov-scott-re-election-committee) (Tier 2)
 content-readiness:: ready
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 142 |
+| Purchases | 119 |
+| Sales | 19 |
+| Exchanges | 4 |
+| Est. Value Range | $55,002,142 – $141,530,000 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/19/2019 | -- | Purchase | $100,001 - $250,000 | Self |
+| 12/19/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
+| 12/19/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
+| 12/19/2019 | -- | Purchase | $250,001 - $500,000 | Spouse |
+| 12/17/2019 | -- | Purchase | $100,001 - $250,000 | Self |
+| 12/17/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
+| 12/17/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
+| 12/17/2019 | -- | Purchase | $250,001 - $500,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->
