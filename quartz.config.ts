@@ -89,6 +89,7 @@ const config: QuartzConfig = {
       Plugin.CustomOgImages({
         colorScheme: "darkMode",
       }),
+      Plugin.NetworkGraphIndex(),
     ],
   },
 }

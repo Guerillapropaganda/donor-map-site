@@ -42,6 +42,7 @@ import EventTimeline from "./EventTimeline"
 import MobileProfile from "./MobileProfile"
 import AlphabetJump from "./AlphabetJump"
 import ProfileTabs from "./ProfileTabs"
+import NetworkGraph from "./NetworkGraph"
 
 export {
   ArticleTitle,
@@ -88,4 +89,5 @@ export {
   MobileProfile,
   AlphabetJump,
   ProfileTabs,
+  NetworkGraph,
 }
