@@ -39,6 +39,22 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-06 17:02 UTC — 10 profiles
+
+**FEC — 10 profiles:**
+- Sam Graves — 2026 raised $1,448,379
+- Ron Wyden — 1996 raised $133,281
+- Martin Heinrich — 2012 raised $0
+- Dan Crenshaw — 2026 raised $2,138,124
+- Bernie Sanders — 2006 raised $4,189
+- Gregory Meeks — 2026 raised $1,032,781
+- Daniel Biss — 2026 raised $2,539,961
+- Sports Betting Alliance — total political spend $766,000
+- Stand Together — total political spend $84,259,968
+- Real Estate Roundtable — total political spend $813,000
+
+---
 ## 2026-04-06 16:56 UTC — 10 profiles
 
 **FEC — 10 profiles:**

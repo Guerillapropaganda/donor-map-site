@@ -2,7 +2,7 @@
 title: "Sam Graves"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,8 @@ committees:
   - "Transportation & Infrastructure"
 issues:
   - "Infrastructure"
+total-received: "$1,448,379"
+fec-candidate-id: "H0MO06073"
 ---
 
 
@@ -148,3 +150,38 @@ The T&I Committee jurisdiction-to-donor overlap is near-total. Aviation donors â
 - [Wikipedia: Sam Graves](https://en.wikipedia.org/wiki/Sam_Graves) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,448,379 |
+| Individual Contributions | $315,311 |
+| PAC Contributions | $985,925 |
+| Cash on Hand | 3152813.92 |
+| IE Support (Super PAC) | $238,624 |
+| IE Opposition (Super PAC) | $402,726 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,448,379 | $315,311 | $985,925 |
+| 2024 | $2,787,184 | $817,221 | $1,761,740 |
+| 2022 | $2,383,369 | $670,166 | $1,503,187 |
+| 2020 | $1,960,690 | $371,121 | $1,547,215 |
+| 2018 | $1,715,578 | $272,025 | $1,385,250 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $0 | $398,649 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $83,102 | $0 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $77,056 | $5,890 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $41,300 | $0 |
+| ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE | $21,628 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1)
+<!-- auto:fec-politician end -->

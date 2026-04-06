@@ -2,7 +2,7 @@
 title: "Gregory Meeks"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,8 @@ top-donors:
   - "AIPAC"
   - "DMFI"
   - "Goldman Sachs"
+total-received: "$1,032,781"
+fec-candidate-id: "H8NY06048"
 ---
 
 #gregory-meeks #democrat #new-york #house #ranking-member #foreign-affairs #financial-services #israel-lobby #wall-street #ethics-violations #phase-6-gavel-power
@@ -179,3 +181,37 @@ Ponzi schemer Allen Stanford asked Meeks to meet with Hugo Chávez on his behalf
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,032,781 |
+| Individual Contributions | $292,117 |
+| PAC Contributions | $564,000 |
+| Cash on Hand | 1972160.57 |
+| IE Support (Super PAC) | $116,469 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,032,781 | $292,117 | $564,000 |
+| 2024 | $3,048,027 | $1,081,999 | $1,264,819 |
+| 2022 | $2,704,713 | $727,490 | $1,065,400 |
+| 2020 | $2,126,017 | $469,082 | $1,207,765 |
+| 2018 | $1,030,879 | $241,878 | $776,850 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| FAIRSHAKE | $92,320 | $0 |
+| DIRECT SELLING EMPOWERS AMERICANS | $18,941 | $0 |
+| CARE ACTION NOW INC. | $4,884 | $0 |
+| SIERRA CLUB POLITICAL COMMITTEE | $180 | $0 |
+| PLANNED PARENTHOOD VOTES | $124 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -69,3 +69,28 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 
 - [Source: ProPublica Nonprofit Explorer — EIN 874117395](https://projects.propublica.org/nonprofits/organizations/874117395) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $766,000 |
+| Contributions | 13 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| V-PAC: VICTORS, NOT VICTIMS | $500,000 | — |
+| ONE GIANT LEAP PAC | $145,000 | — |
+| BLACK BEAR PAC, INC. | $30,000 | — |
+| HEAL AMERICA PAC | $25,000 | — |
+| COPPER STATE VALUES | $25,000 | — |
+| TEAM MORRISEY | $20,000 | — |
+| KENTUCKY PATRIOT PAC | $10,000 | — |
+| DEMOCRATIC EXECUTIVE COMMITTEE OF FLORIDA | $5,000 | DEM |
+| OLD DRUM CONSERVATIVE PAC | $4,000 | — |
+| TRAVIS COUNTY REPUBLICAN PARTY FEDERAL COMMITTEE | $2,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sports%20Betting%20Alliance) (Tier 1)
+<!-- auto:fec-donor end -->

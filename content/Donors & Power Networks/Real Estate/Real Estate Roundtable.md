@@ -9,6 +9,14 @@ sector: "Real Estate"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
+  - "JD Vance"
+  - "John Kennedy"
+  - "Paul Ryan"
+  - "French Hill"
+  - "Adam Smith"
+  - "Jason Smith"
+  - "Hakeem Jeffries"
+  - "Bill Hagerty"
 issues:
   - "Housing"
   - "Dark Money & Campaign Finance"
@@ -16,7 +24,7 @@ ein: 521128863
 annual-revenue: "$8.0M"
 net-assets: "$7.1M"
 tax-year: "2024"
-total-political-spend: "$1,840,500"
+total-political-spend: "$813,000"
 ---
 
 
@@ -161,23 +169,23 @@ content-readiness:: ready
 <!-- auto:fec-donor start -->
 | Metric | Value |
 |--------|-------|
-| Total Political Spend | $1,840,500 |
-| Contributions | 500 |
+| Total Political Spend | $813,000 |
+| Contributions | 200 |
 
 **Top recipients:**
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
 | TRUMP VANCE INAUGURAL COMMITTEE, INC. | $150,000 | — |
-| DSCC | $90,000 | DEM |
-| NRSC | $75,000 | REP |
-| NRCC | $70,000 | REP |
-| DCCC | $65,000 | DEM |
-| FRENCH HILL FOR ARKANSAS | $30,000 | REP |
-| IN THE ARENA PAC | $27,500 | — |
-| MAGGIE FOR NH | $25,000 | DEM |
-| COMMON GROUND PAC | $25,000 | DEM |
-| JASON SMITH FOR CONGRESS | $20,000 | REP |
+| DSCC | $30,000 | DEM |
+| NRSC | $30,000 | REP |
+| NRCC | $30,000 | REP |
+| DCCC | $20,000 | DEM |
+| KENNEDY FOR CONGRESS | $15,000 | DEM |
+| PAT RYAN FOR CONGRESS | $13,500 | DEM |
+| GALLEGO FOR ARIZONA | $12,500 | DEM |
+| IN THE ARENA PAC | $10,000 | — |
+| JUNTOS PAC | $10,000 | — |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Real%20Estate%20Roundtable) (Tier 1)
 <!-- auto:fec-donor end -->

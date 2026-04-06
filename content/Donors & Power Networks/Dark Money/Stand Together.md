@@ -12,6 +12,7 @@ issues:
 total-political-spend: "$84,259,968"
 politicians-funded:
   - "Bryan Steil"
+
 ---
 
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money

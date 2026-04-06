@@ -2,7 +2,7 @@
 title: "Ron Wyden"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -15,6 +15,8 @@ leadership-roles:
   - "Ranking Member"
 issues:
   - "Technology"
+total-received: "$133,281"
+fec-candidate-id: "H0OR03026"
 ---
 
 
@@ -145,3 +147,35 @@ On tax policy, he frames himself as the counterweight to Crapo — the progressi
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 1996 |
+| Total Raised | $133,281 |
+| PAC Contributions | $67,230 |
+| Cash on Hand | 5335.00 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 1996 | $133,281 | $0 | $67,230 |
+| 1994 | $585,256 | $0 | $241,146 |
+| 1992 | $233,749 | $0 | $123,675 |
+| 1990 | $708,598 | $0 | $341,242 |
+| 1988 | $596,224 | $0 | $316,772 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SIERRA CLUB POLITICAL COMMITTEE | $0 | $64,524 |
+| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC | $0 | $13,477 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $0 | $1,239 |
+| SENIOR POLITICAL ACTION COMMITTEE  (WASH D.C.) | $0 | $679 |
+| POLITICAL ACTION FOR LASTING SECURITY | $0 | $80 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1)
+<!-- auto:fec-politician end -->

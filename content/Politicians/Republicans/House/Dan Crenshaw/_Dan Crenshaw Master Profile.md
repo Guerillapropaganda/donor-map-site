@@ -2,7 +2,7 @@
 title: "Dan Crenshaw Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,8 @@ top-donors:
   - "ConocoPhillips"
   - "Koch Industries"
   - "AIPAC"
+total-received: "$2,138,124"
+fec-candidate-id: "H8TX02166"
 ---
 
 #crenshaw #texas #energy #defense #navy-seal #veteran #media #brand #aipac #stock-trading #primary-loss #class-analysis
@@ -190,3 +192,38 @@ party:: Republican
 profile-status:: developed
 research-status:: active
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $2,138,124 |
+| Individual Contributions | $849,896 |
+| PAC Contributions | $470,899 |
+| Cash on Hand | 556151.29 |
+| IE Support (Super PAC) | $4,284,693 |
+| IE Opposition (Super PAC) | $2,429,274 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $2,138,124 | $849,896 | $470,899 |
+| 2024 | $4,138,445 | $1,540,266 | $840,947 |
+| 2022 | $15,916,739 | $5,982,593 | $894,816 |
+| 2020 | $19,485,632 | $7,959,169 | $868,780 |
+| 2018 | $1,865,424 | $1,293,131 | $347,472 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| WITH HONOR FUND, INC. | $1,582,919 | $0 |
+| FIGHT TO WIN AMERICA, INC. | $1,312,795 | $0 |
+| CONSERVATIVE RESULTS MATTER | $0 | $1,237,000 |
+| ALAMO FREEDOM FIGHTERS PAC | $0 | $684,078 |
+| AMERICAN PATRIOTS PAC | $535,502 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
+<!-- auto:fec-politician end -->

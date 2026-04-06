@@ -2,7 +2,7 @@
 title: "Bernie Sanders Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,6 +16,8 @@ top-donors:
   - "CNA - California Nurses Association"
   - "Teamsters - International Brotherhood of Teamsters"
   - "IBEW - International Brotherhood of Electrical Workers"
+total-received: "$4,189"
+fec-candidate-id: "H8VT01016"
 ---
 
 
@@ -260,3 +262,36 @@ For IBEW members specifically: Sanders' Raise the Wage Act, PRO Act, and prevail
 ---
 research-status:: ready — Full citation pass complete. Anti-donor model ($487M from small donors), 2020 consolidation analysis, AIPAC progressive purge, Medicare for All policy break, ActBlue dependency, analytical patterns (4 patterns). All ### headers, source format standardized, Tier 1-2 sources verified. Promoted Session 38j.
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2006 |
+| Total Raised | $4,189 |
+| PAC Contributions | $100 |
+| Cash on Hand | 644059.75 |
+| IE Support (Super PAC) | $2,850 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2006 | $4,189 | $0 | $100 |
+| 2004 | $836,312 | $379,085 | $125,150 |
+| 2002 | $656,171 | $51,339 | $85,640 |
+| 2000 | $656,270 | $0 | $137,744 |
+| 1998 | $699,659 | $0 | $138,968 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NRA POLITICAL VICTORY FUND | $0 | $22,848 |
+| INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND | $2,850 | $0 |
+| TRANSPORTATION POLITICAL EDUCATION LEAGUE | $0 | $52 |
+| INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC | $0 | $21 |
+| PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE | $0 | $5 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8VT01016/) (Tier 1)
+<!-- auto:fec-politician end -->

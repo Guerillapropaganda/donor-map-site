@@ -2,7 +2,7 @@
 title: "Daniel Biss Master Profile"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,8 @@ issues:
   - "Government Operations and Politics"
   - "Health"
   - "Immigration"
+total-received: "$2,539,961"
+fec-candidate-id: "H6IL09228"
 ---
 
 #democrat #politician #house
@@ -154,3 +156,28 @@ party:: Democrat
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $2,539,961 |
+| Individual Contributions | $2,298,568 |
+| PAC Contributions | $108,809 |
+| Cash on Hand | 645919.35 |
+| IE Support (Super PAC) | $2,068,497 |
+| IE Opposition (Super PAC) | $2,741,117 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| ELECT CHICAGO WOMEN AKA ECW | $0 | $2,741,117 |
+| CONGRESSIONAL PROGRESSIVE CAUCUS PAC | $936,054 | $0 |
+| 314 ACTION FUND | $819,621 | $0 |
+| J STREET ACTION FUND | $149,773 | $0 |
+| MEDICARE FOR ALL | $148,040 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL09228/) (Tier 1)
+<!-- auto:fec-politician end -->
