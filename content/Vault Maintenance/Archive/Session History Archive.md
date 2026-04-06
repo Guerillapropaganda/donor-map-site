@@ -7884,8 +7884,8 @@ Seven-point audit found 4 failures and 1 content fix needed.
 Two fabricated URLs in `topics/Donors & Power Networks/Mega-Donors/Reid Hoffman.md` were identified and replaced.
 
 Fabricated URLs removed.
-- `https://www.nytimes.com/investigations/hoffman-epstein-contact (does not exist)
-- `https://theintercept.com/2026/03 (does not exist)
+- `https://web.archive.org/web/2020/https:/www.nytimes.com/investigations/hoffman-epstein-contact (does not exist)
+- `https://theintercept.com/2026/03/ (does not exist)
 
 Replaced with verified sources.
 - Bloomberg. "How Jeffrey Epstein Used Reid Hoffman to Court Silicon Valley's Elite" (March 4, 2026)
@@ -12055,9 +12055,9 @@ Upgraded **ALEC - American Legislative Exchange Council** (`topics/Donors & Powe
 2. **URL verification results:** 16 verified via WebFetch (returned article titles matching expected content), 3 marked (UNVERIFIED)
 
 3. **URLs marked (UNVERIFIED)** — need Chrome verification before ready promotion:
-   - `https://www.alecexposed.org/wiki/ALEC_Bills` (Tier 2) — site blocks automated access; confirmed exists via WebSearch
-   - `https://www.alecexposed.org/wiki/ALEC_Exposed` (Tier 2) — same
-   - `https://www.sourcewatch.org/index.php/SPN_Ties_to_ALEC` (Tier 3) — same
+   - `https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Bills` (Tier 2) — site blocks automated access; confirmed exists via WebSearch
+   - `https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Exposed` (Tier 2) — same
+   - `https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC` (Tier 3) — same
 
 4. **Citations added:** 2 new EXPOSEDbyCMD sources verified via WebFetch:
    - [EXPOSEDbyCMD: ALEC's Funding Revealed — $41.7M breakdown 2017-2021](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/) (Tier 2)
@@ -19279,7 +19279,7 @@ All 31 had `content-readiness: ready` in YAML (correct). The inline footer had e
 
 - **Formatting issue fixed in Bowman:** Original profile had backtick-wrapped `related:` and `content-readiness::` fields (rendering as code blocks), non-standard bold headers, and only 1 genuine source citation (an OpenSecrets URL with no CID). Correct OpenSecrets CID (N00044790), FEC ID (H0NY16143), and Congress.gov ID (B001223) all verified via Chrome.
 
-- **Broken NYT URL replaced in Khanna:** Original profile had `https://www.nytimes.com/khanna-silicon-valley/` — no real slug, unfindable. Replaced with 3 verified Tier 2 sources (Local News Matters, NBC News, Silicon Valley/Bay Area News Group).
+- **Broken NYT URL replaced in Khanna:** Original profile had `https://web.archive.org/web/2020/https:/www.nytimes.com/khanna-silicon-valley/` — no real slug, unfindable. Replaced with 3 verified Tier 2 sources (Local News Matters, NBC News, Silicon Valley/Bay Area News Group).
 
 #### URL verification summary
 
@@ -21766,7 +21766,7 @@ Created `topics/Think Tanks & Policy Infrastructure/Conservative/American Enterp
 
 **VALID (15):** ProPublica 990 (FY2024 — confirmed Harlan Crow, Dick Cheney, D'Aniello, Kimberly Dennis, Clifford Asness on board; $68M revenue, $353M assets), OpenSecrets AEI profile, ProPublica Trump Town AEI, ProPublica Supreme Connections AEI, ProPublica Clarence Thomas luxury trips (Crow), ProPublica Clarence Thomas tuition (Crow), AEI press release $20M D'Aniello gift, WaPo D'Aniello $20M, DeSmog AEI climate denial, EWG AEI climate/suitcase of cash, Think Tank Funding Tracker (0/5 transparency), SourceWatch AEI, InfluenceWatch AEI, Militarist Monitor AEI, Ballotpedia AEI, Wikipedia AEI.
 
-**BROKEN (1):** `https://www.monitoringinfluence.org/org/american-enterprise-institute-2/` — redirects to accountable.us homepage; AEI-specific page no longer accessible. Not used in profile.
+**BROKEN (1):** `https://accountable.us/` — redirects to accountable.us homepage; AEI-specific page no longer accessible. Not used in profile.
 
 #### Files created/modified
 
@@ -26173,7 +26173,7 @@ All 25 think tank profiles are already at `ready` status. This run focused on cr
 | `https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/` | WebFetch | VALID |
 | `https://therevolvingdoorproject.org/heritage-lays-the-foundation-for-schedule-f/` | (already in Idea Laundering file — confirmed valid title content) | VALID |
 | `https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/` | WebFetch | VALID |
-| `https://www.cfr.org/about/` | WebFetch | VALID |
+| `https://www.cfr.org/about` | WebFetch | VALID |
 
 **Status changes:**
 
@@ -28013,4 +28013,3 @@ Deepened 3 profiles with March 2026 revolving door hires and advisory board addi
 1. Chrome-verify all 8 UNVERIFIED URLs across 3 files (Akin Gump 3, BGR 3, Cornerstone 2)
 2. Continue deepening with 2026 developments: search for Holland & Knight, Brownstein Hyatt, Capitol Counsel, Squire Patton Boggs March 2026 news
 3. Cross-firm analysis: map which firms are competing for the same university panic clients (BGR, Cassidy, Brownstein all documented)
-

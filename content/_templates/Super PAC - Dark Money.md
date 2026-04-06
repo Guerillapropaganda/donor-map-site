@@ -18,6 +18,8 @@ content-readiness: raw
 last-updated: <% today %>
 source-tier: null
 parent: null
+politicians-funded: null
+last-enriched: null
 ---
 
 #<% entityType %> #<% sectorTag %> #dark-money #class-analysis #follow-the-money
@@ -77,9 +79,8 @@ related:
 
 ### Sources
 
+#### Verified
 - [Source](url) (Tier X)
 
----
-
-research-status:: raw — Initial template
-content-readiness:: raw
+#### Archived
+<!-- Broken or paywalled links preserved as research trail -->

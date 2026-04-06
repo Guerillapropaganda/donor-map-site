@@ -2,7 +2,7 @@
 title: "Quality Standards — The Donor Map Database"
 type: reference
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-05
 source-tier: null
 parent: null
 ---
@@ -60,6 +60,10 @@ When the FEC web interface shows fewer results than the API, add a technical dis
 
 **Important:** All API calls must be executed via Chrome browser JavaScript context (`fetch()` through `javascript_tool`). The VM proxy blocks direct HTTP requests (curl, Python requests). See [[API Pipeline]] for implementation details.
 
+**Step 1b: Dead-URL pre-check (before drafting citations)**
+
+Before citing any URL in a new note, check it against the Perplexity dead URL audit data. On April 5, 2026, a full external scan of 11,544 vault URLs was completed by Perplexity, which identified 1,090 dead URLs and applied 1,080 verified fixes (redirects + replacements) directly to the vault source files. The remaining 404 dead source URLs are cataloged in `Vault Maintenance/dead-source-urls-for-perplexity.csv`. If a candidate URL appears in that dead list, do not cite it. Find a replacement before writing.
+
 **Step 2: Chrome browser load test (for non-API sources)**
 
 For investigative journalism, news articles, and other non-API sources:
@@ -67,7 +71,7 @@ For investigative journalism, news articles, and other non-API sources:
 2. Check `document.title` after the page loads
 3. If the title contains the article headline → **VALID**
 4. If the title contains "Page Not Found", "404", or the site's generic homepage title → **BROKEN**
-5. Log the result in the [[Source URL Audit Log]]
+5. If the URL fails, check `dead-source-urls-for-perplexity.csv` to confirm it is a known dead link before spending time searching for replacements
 
 **If Chrome is unavailable:** Mark the citation with `(UNVERIFIED)` inline:
 ```
@@ -108,9 +112,9 @@ When a source URL is broken or missing, follow this repair sequence. The `url-fi
 
 **Step 3 — Chrome verification gate (mandatory):** Every candidate URL must pass a Chrome load test before being written to the vault. Navigate to the URL, check `document.title`, confirm it matches the article headline. If the title matches a known 404 pattern (see 404 Detection Patterns above), the URL is broken — try the next candidate.
 
-**Step 4 — Write and log:** Update the citation in the vault file, update `last-updated` in YAML, and log the verified URL in the [[Source URL Audit Log]].
+**Step 4 — Write:** Update the citation in the vault file and update `last-updated` in YAML.
 
-**If repair fails after 3 search attempts:** Leave the `(URL NEEDED)` tag in place. Log the failed attempt in the Source URL Audit Log so future sessions don't repeat the same dead ends. A missing URL is better than a fabricated one.
+**If repair fails after 3 search attempts:** Leave the `(URL NEEDED)` tag in place. A missing URL is better than a fabricated one.
 
 **Single-pass rule:** Process one URL per invocation. Batch URL repair is prohibited — it caused the original 300+ broken link problem.
 
@@ -118,10 +122,10 @@ When a source URL is broken or missing, follow this repair sequence. The `url-fi
 
 ### Trusted Source Registry
 
-Before constructing any URL, check the [[Source URL Audit Log]] for:
-1. **Known URL patterns** — each outlet has a specific URL structure. Use it.
-2. **Previously verified URLs** — if the URL is already in the audit log as VALID, use it directly.
-3. **Known broken URLs** — if the URL is flagged as BROKEN, do not reuse it.
+Before constructing any URL:
+1. **Check known dead URLs** — grep against `Vault Maintenance/dead-source-urls-for-perplexity.csv` (404 confirmed-dead URLs from April 2026 Perplexity scan). Do not cite anything in this list without finding a replacement first.
+2. **Known URL patterns** — each outlet has a specific URL structure. Use it.
+3. **Chrome verify** — non-API URLs must pass Chrome load test before being written to vault.
 
 ### URL patterns by outlet:
 
@@ -159,7 +163,7 @@ No file may be promoted to a higher `content-readiness` status unless it passes 
 
 **developed → ready:**
 - Full citation pass — every claim has a sourced URL
-- All URLs verified via Chrome load test and logged in [[Source URL Audit Log]]
+- All URLs verified via Chrome load test or confirmed not in dead URL inventory
 - Source tier label on every citation
 - All wikilinks resolve (no broken `[[links]]`)
 - `###` header formatting on all sections (no `**bold headers**`)
@@ -178,14 +182,13 @@ No file may be promoted to a higher `content-readiness` status unless it passes 
 
 Every session must:
 
-1. **Read mandatory docs first:** CLAUDE.md → Quality Standards (this file) → Session Timeline → Publish Roadmap → [[API Pipeline]]
-2. **Check the Source URL Audit Log** before writing any source citations
+1. **Read mandatory docs first:** CLAUDE.md → Quality Standards (this file) → Publish Roadmap → [[API Pipeline]]
+2. **Check the dead URL inventory** (`Vault Maintenance/dead-source-urls-for-perplexity.csv`) before writing any source citations
 3. **Use API sources first** for all data available via API (FEC, USASpending, Congress.gov, Senate LDA) — see [[API Pipeline]] and `api-toolkit.js`
 4. **Verify every non-API URL via Chrome** before writing it to a vault file
-5. **Log verified URLs** in the Source URL Audit Log
-6. **Update the Session Timeline** at end of session with work completed
-7. **Update the Publish Roadmap** if any milestones were hit
-8. **Flag tool limitations immediately** — if a better tool or approach exists for a task, raise it before defaulting to a slower method
+5. **Log work in the Diff Log** at end of session with work completed
+6. **Update the Publish Roadmap** if any milestones were hit
+7. **Flag tool limitations immediately** — if a better tool or approach exists for a task, raise it before defaulting to a slower method
 
 ---
 
@@ -216,7 +219,7 @@ Chrome browser automation is the primary tool for URL verification of non-API so
 
 ### When NOT to use Chrome for manual browsing:
 - The data is available via API (use API instead — faster, more accurate, Tier 1)
-- The URL is already in the Source URL Audit Log as VALID
+- The URL was already verified in a prior session or by the Perplexity scan
 
 **404 detection patterns by site:**
 
@@ -235,7 +238,7 @@ Chrome browser automation is the primary tool for URL verification of non-API so
 
 **Session Timeline:** Keep only the last 2-3 weeks of active sessions. Move older entries to `Archive/Session History Archive.md` when the timeline exceeds ~100 recent entries.
 
-**Audit logs:** Completed one-time audits (like vault audits, formatting scans) move to `Archive/` once their action items are resolved. The Source URL Audit Log is permanent and never archived.
+**Audit logs:** Completed one-time audits (like vault audits, formatting scans) move to `Archive/` once their action items are resolved. The dead URL inventory (`dead-source-urls-for-perplexity.csv`) is the canonical source for known-broken URLs and is updated when Perplexity rescans.
 
 **Vault Maintenance folder:** Keep only active, living documents in the top level. Reference material and completed audits go to `Archive/`.
 

@@ -69,7 +69,7 @@ Major investigative outlets with editorial standards, fact-checking processes, a
 | Source | URL | What It Provides | Best For |
 |--------|-----|------------------|----------|
 | **ProPublica** | [propublica.org](https://projects.propublica.org/nonprofits) | Deep investigative reporting on government, finance, healthcare, criminal justice. | Long-form donor investigations, dark money tracking, institutional corruption. Dollars for Docs, Represent, Nonprofit Explorer. |
-| **The Intercept** | [theintercept.com](https://theintercept.com/search) | National security, surveillance, criminal justice, political influence reporting. | FISA/surveillance, intelligence community, defense contractor relationships, AIPAC/foreign lobbying. |
+| **The Intercept** | [theintercept.com](https://theintercept.com) | National security, surveillance, criminal justice, political influence reporting. | FISA/surveillance, intelligence community, defense contractor relationships, AIPAC/foreign lobbying. |
 | **Capital & Main** | [capitalandmain.com](https://capitalandmain.com/) | California-focused labor, economy, and political power reporting. | California politicians, labor unions, CA Governor 2026 race, real estate and development politics. |
 | **CalMatters** | [calmatters.org](https://calmatters.org/search) | Nonpartisan California policy journalism. | California state policy, budget, elections, legislative analysis. Note: frequently restructures URLs — verify before publication. |
 | **LA Times** | [latimes.com](https://www.latimes.com/) | California's paper of record. Investigations, politics, state government. | California political coverage, investigations, editorial context. (Paywalled — note when citing.) |
@@ -82,7 +82,7 @@ Major investigative outlets with editorial standards, fact-checking processes, a
 | **CREW** | [citizensforethics.org](https://www.citizensforethics.org/) | Government ethics investigations, corruption tracking. | Ethics violations, emoluments, conflicts of interest, financial disclosures. |
 | **Center for American Progress** | [americanprogress.org](https://www.americanprogress.org/) | Progressive policy research and analysis. | Climate policy, healthcare, economic policy analysis. Note: progressive orientation — cross-reference claims. |
 | **Brennan Center** | [brennancenter.org](https://www.brennancenter.org/) | Democracy, voting rights, criminal justice reform research. | Voter suppression, dark money, judicial selection, campaign finance analysis. |
-| **Documented** | [documented.net](https://www.documented.net/) | Corporate influence on politics investigation. | ALEC model legislation, corporate lobbying networks, industry influence campaigns. |
+| **Documented** | [documented.net](https://documented.net/) | Corporate influence on politics investigation. | ALEC model legislation, corporate lobbying networks, industry influence campaigns. |
 
 ---
 
@@ -94,9 +94,9 @@ Reliable secondary sources with editorial standards but less original investigat
 |--------|-----|------------------|----------|
 | **Ballotpedia** | [ballotpedia.org](https://ballotpedia.org/) | Encyclopedia of American politics. Elections, officeholders, ballot measures. | Quick biographical facts, election history, committee assignments, district information. |
 | **Wikipedia** | [wikipedia.org](https://www.wikipedia.org/) | General reference encyclopedia. | Background context, biographical overview. Always cross-reference claims with primary sources — never cite Wikipedia alone for contested facts. |
-| **VoteSmart** | [votesmart.org](https://votesmart.org/) | Voting records, interest group ratings, biographical information. | Interest group scorecards (NRA, LCV, AFL-CIO ratings), voting record summaries. |
+| **VoteSmart** | [votesmart.org](https://justfacts.votesmart.org) | Voting records, interest group ratings, biographical information. | Interest group scorecards (NRA, LCV, AFL-CIO ratings), voting record summaries. |
 | **Almanac of American Politics** | (print/subscription) | Comprehensive district and member profiles. | District demographics, political context, electoral history. |
-| **CQ Roll Call** | [cq.com](https://www.cq.com/) | Congressional Quarterly — legislative tracking, member profiles. | Legislative process detail, vote analysis, committee activity. (Subscription.) |
+| **CQ Roll Call** | [cq.com](https://plus.cq.com/login?jumpto=https:/plus.cq.com/) | Congressional Quarterly — legislative tracking, member profiles. | Legislative process detail, vote analysis, committee activity. (Subscription.) |
 | **Ground News** | [ground.news](https://ground.news/) | Media bias analysis, source comparison, story coverage tracking. | Assessing media coverage bias on specific stories. Cross-checking how different outlets cover the same event. Source reliability comparison. |
 
 ---
@@ -108,7 +108,7 @@ Use with extreme caution. Always flag explicitly in citation. These sources may 
 | Source | URL | What It Provides | When to Use |
 |--------|-----|------------------|-------------|
 | **Campaign websites** | Varies | Candidate self-description, policy positions, fundraising appeals. | Understanding how politicians present themselves — compare against donor data for Two-Audience Problem analysis. Never cite as factual authority. |
-| **America First Legal** | [aflegal.org](https://www.aflegal.org/) | Conservative legal activism, FOIA requests, government records. | FOIA documents they've obtained may be valuable primary evidence — but their framing and analysis is partisan. Cite the documents, not the analysis. |
+| **America First Legal** | [aflegal.org](https://aflegal.org/) | Conservative legal activism, FOIA requests, government records. | FOIA documents they've obtained may be valuable primary evidence — but their framing and analysis is partisan. Cite the documents, not the analysis. |
 | **Heritage Foundation** | [heritage.org](https://www.heritage.org/) | Conservative policy research, Project 2025. | Understanding conservative policy framework and donor-class priorities. Document their influence, not their conclusions. |
 | **Cato Institute** | [cato.org](https://www.cato.org/) | Libertarian/Koch-aligned policy research. | Koch network policy positions, deregulation frameworks. Document as donor-class ideology. |
 | **Breitbart / Daily Caller** | Various | Right-wing news with strong editorial slant. | Only when they break original reporting with named sources that can be independently verified. Always flag tier. |
@@ -124,7 +124,7 @@ These don't fit neatly into the tier system — they're tools for specific resea
 |------|-----|-------------|-------------|
 | **OpenSecrets Revolving Door** | [opensecrets.org/revolving](https://www.opensecrets.org/revolving/) | Tracks staff movement between government, lobbying, and private sector. | Revolving Door analytical pattern — when documenting staff movement between offices, agencies, and donor industries. |
 | **OpenSecrets Lobbying** | [opensecrets.org/federal-lobbying](https://www.opensecrets.org/federal-lobbying/) | Federal lobbying expenditures and registrations. | Connecting lobbying spending to policy outcomes. Which industries lobby which committees. |
-| **MapLight** | [maplight.org](https://maplight.org/) | Money and politics data connections. | Donation-to-vote correlations, industry influence mapping. |
+| **MapLight** | [maplight.org](https://www.maplight.org/) | Money and politics data connections. | Donation-to-vote correlations, industry influence mapping. |
 | **Sunlight Foundation (archived)** | [sunlightfoundation.com](https://sunlightfoundation.com/) | Government transparency tools and data (now archived). | Historical reference for transparency methodology. Some tools still accessible. |
 | **LittleSis** | [littlesis.org](https://littlesis.org/) | Power network mapping — relationships between people, organizations, and institutions. | Mapping donor networks, corporate board interlocks, organizational relationships. Useful for visualizing connections documented in the vault. |
 | **Influence Explorer** | (Sunlight Foundation — archived) | Cross-referenced lobbying, contributions, earmarks. | Historical data. Some data migrated to OpenSecrets. |

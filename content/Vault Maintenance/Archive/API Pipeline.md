@@ -2,7 +2,7 @@
 title: "API Pipeline — Data Collection Layer"
 type: infrastructure
 content-readiness: developed
-last-updated: 2026-03-31
+last-updated: 2026-04-05
 source-tier: null
 parent: null
 ---
@@ -55,7 +55,7 @@ This document defines the API-first data collection layer for The Donor Map Data
 **All other FEC data — link to web interface:**
 ```
 - [FEC: [Name] candidate totals](https://www.fec.gov/data/candidate/[CANDIDATE_ID]/) (Tier 1)
-- [FEC: [Name] independent expenditures](https://www.fec.gov/data/independent-expenditures/?q_spender=[committee_name]) (Tier 1)
+- [FEC: [Name] independent expenditures](https://www.fec.gov/data/independent-expenditures/?most_recent=true?q_spender=[committee_name]) (Tier 1)
 ```
 
 **Do not use raw API endpoint URLs for candidate totals, independent expenditures, or committee data.** These web interfaces display the same underlying data in a browser-friendly format. Only FEC individual contributions use the direct API endpoint — because no other browsable URL returns the complete fuzzy-matched record. The canonical citation rules live in [[Quality Standards]].
@@ -105,7 +105,7 @@ This document defines the API-first data collection layer for The Donor Map Data
 **Endpoint:** `https://lda.senate.gov/api/`
 **Auth:** API key required — pass as `Authorization: Token <key>` header
 **Registered key:** `b3e00f77b9db54cd753ca43bb8773f9e8b0ec5c4`
-**Documentation:** `https://lda.senate.gov/api/docs/`
+**Documentation:** `https://lda.senate.gov/api/redoc/v1/`
 **Note:** The legacy site at `lda.senate.gov` is moving to `lda.gov` by 06/30/2026. API endpoints may migrate — check docs if calls fail.
 
 **Key endpoints:**
@@ -226,7 +226,7 @@ fetch('https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=NAME&a
 | API Used for Query | Citation URL |
 |--------------------|------------------------------|
 | FEC API (candidate totals) | `https://www.fec.gov/data/candidate/[CANDIDATE_ID]/` |
-| FEC API (indep. exp.) | `https://www.fec.gov/data/independent-expenditures/?q_spender=[name]` |
+| FEC API (indep. exp.) | `https://www.fec.gov/data/independent-expenditures/?most_recent=true?q_spender=[name]` |
 | USASpending API | `https://www.usaspending.gov/search/?hash=[search_hash]` |
 | Congress.gov API | `https://www.congress.gov/member/[name]/[bioguide_id]` |
 | Senate LDA API | `https://lda.senate.gov/filings/public/filing/search/?registrant=[name]` |
@@ -266,6 +266,45 @@ fetch('https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=NAME&a
 **Phase 1 (DONE):** FEC API tested and working. Reusable query patterns built in `api-toolkit.js`.
 **Phase 2 (DONE):** USASpending, Congress.gov, Senate LDA tested and working. CORS requirements documented.
 **Phase 3 (DONE):** Scheduled tasks updated (donor-node-builder, profile-builder, media-profile-builder, finance-research). All vault maintenance docs updated with API-first protocols.
-**Phase 4 (next):** Build daily briefing system — automated API pulls for tracked donors, new filings, new votes. Test FollowTheMoney and ProPublica Congress APIs. Register proper FEC API key for higher rate limits.
+**Phase 4 (next):** Build daily briefing system. Automated API pulls for tracked donors, new filings, new votes. Test FollowTheMoney and ProPublica Congress APIs. Register proper FEC API key for higher rate limits.
+
+---
+
+### Pipeline Reports Integration Protocol
+
+The API pipelines run on a scheduled GitHub Actions job and auto-sync their markdown reports into the vault at `content/Vault Maintenance/Pipeline Reports/`. This folder is gitignored (local-only) and overwritten on each pipeline run. The reports are the canonical source for FEC totals, dead URLs, and Congress enrichment status between refreshes.
+
+**Reports present:**
+
+- `fec-pipeline.md`: donor and politician FEC totals, top recipients, ActBlue/WinRed de-duplicated counts
+- `congress-pipeline.md`: committee assignments, bill sponsorship, voting records
+- `research-report.md`: unified executive summary across all pipelines, plus top-fundraiser leaderboard
+- `rss-pipeline.md`: if present, RSS-scraped event drafts (those land in `content/Events/Drafts/`)
+
+**Note:** The old `url-check.md` pipeline report has been retired (archived April 5, 2026). URL health is now tracked via `Vault Maintenance/dead-source-urls-for-perplexity.csv`, generated from an external Perplexity scan of all 11,544 vault URLs. Bulk URL repair is handled by Perplexity batch scans, not by pipeline-generated reports.
+
+Each report carries a `last-run` ISO timestamp in frontmatter and a pretty `_Last run: MM/DD/YYYY, HH:MM PT_` header line for freshness checks.
+
+**Drafting-agent workflow. Every new sub-note, donor node, or master profile build must follow these steps:**
+
+1. **Pre-draft scan.** Before drafting, open `research-report.md` for the cross-cutting summary, then scan `fec-pipeline.md` for any donors, politicians, or PACs the note will cover. Pull fresh totals rather than relying on dossier numbers alone.
+2. **Citation sanity-check.** Before committing a note, grep every URL being cited against `Vault Maintenance/dead-source-urls-for-perplexity.csv` to confirm it is not a known dead link. If a URL is dead, replace before shipping.
+3. **Pipeline Intel appendix.** When fresh FEC, Congress, or LDA data materially strengthens a note's argument, add a `### Pipeline Intel (auto-synced from [report], [timestamp])` section at the end of the note. Include a regeneration disclaimer: "This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing."
+4. **Dead-link triage.** When touching any existing note, check if the note appears in `dead-source-urls-for-perplexity.csv` (the "files" column lists affected notes). Fix or flag any dead URLs found (route to `url-fixer` skill if Chrome is available).
+
+**Editing-agent workflow. Every vault audit or cleanup pass must:**
+
+1. Check `dead-source-urls-for-perplexity.csv` for any dead URLs in files being audited.
+2. Prioritize dead-URL repair by analytical weight: notes with Tier 1 or 2 citations dying get fixed before notes with Tier 3 or 4.
+3. Do not hand-edit any file in `Pipeline Reports/`. It is regenerated on each pipeline run.
+
+**Freshness rules:**
+
+- If a report's `last-run` timestamp is more than 7 days old, flag the drafting session and request a pipeline refresh before relying on its numbers.
+- If `research-report.md` shows `URL report age` or `FEC report age` over 48 hours, note that age in any Pipeline Intel appendix written during that session.
+
+**Why this is not optional.** The pipelines exist to keep donor totals, dead links, and committee assignments fresh without burning Claude tokens on repetitive API fetches. If the drafting agent does not read the synced reports, the vault drifts into stale numbers and dead citations while fresh data sits one directory away.
+
+---
 
 content-readiness:: developed

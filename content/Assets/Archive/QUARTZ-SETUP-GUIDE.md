@@ -13,7 +13,7 @@ Your Quartz site is pre-configured and ready to go. Here's everything you need t
 
 ## Step 1: Install Node.js on Your Computer
 
-Download and install Node.js v22+ from: https://nodejs.org/
+Download and install Node.js v22+ from: https://nodejs.org/en
 
 Verify it works by opening a terminal and running:
 ```

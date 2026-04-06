@@ -477,6 +477,28 @@ Next priorities:
 
 ---
 
+### 2026-04-05 — Daily Summary
+
+| State | Files Modified | Key Changes |
+|-------|---------------|-------------|
+| STRUCTURING | Goldman Sachs - Wall Street Titan.md (+ 3 files scanned) | 1 fix: Goldman Sachs footer `developed` → `ready` to match canonical YAML. 2 flagged: JPMorgan.md file truncated mid-citation at line 146 (no footer, needs manual restore); Diff Log line 107 filename error (`JPMorgan Chase.md` referenced but actual file is `JPMorgan.md`). |
+| NODE BUILD | _Carlos Gimenez Master Profile.md | Timeline expanded 4→8 rows with sector sub-headers (Real Estate/Construction, Sugar/Agribusiness, Cuba/Defense/Transportation) + [!money] callout on 3-sector donor architecture. Added Committee Leverage section, Cuba Reconstruction Dividend section. Analytical Patterns expanded 3→5 (added Two-Audience Problem, Revolving Door Local→Federal). YAML ready→developed corrected to match footer. Tier 4 StoneColdTruth source blocks promotion. 116→163 lines. |
+| STORY | 2026-04-05 Story Discovery.md | 6 items + 2 crossover flags (2 Gold new: Trump donors → ICE contracts $2.6B GEO + $2.2B CoreCivic, Pilgrim's Pride/JBS $5M inaugural → doubled lobbying → worker-safety rollback; 2 Silver new: Blockchain Leadership Fund (Fairshake competitor), POLITICO/Invariant lobbying client [Tier 4 flag]; 2 Silver updates). Crossover flags: Brockman $25M MAGA Inc (Tech/AI convergence), GEO/CoreCivic Carceral donation→contract loop. Chrome unavailable. |
+| CONNECTION MAPPING | Lennar Corporation.md, MasTec - Mas Canosa Family.md, Fanjul Family - Florida Crystals.md | Added reciprocal `[[_Carlos Gimenez Master Profile\|Carlos Gimenez]]` to `related:` fields of 3 donor nodes that are cited as Gimenez donors. 3 reciprocal links added. |
+| VALIDATION | _Carlos Gimenez Master Profile.md | Content gates pass for developed (163 lines, 4 sources, 9+ sections, class analysis present, Format 1 timeline w/ sector sub-headers, [!money] + [!contradiction] callouts). **Ready promotion BLOCKED:** Tier 4 StoneColdTruth source on Crowley Maritime claim needs independent Tier 2-3 replacement. Chrome unavailable — no URL verification attempted. YAML/footer match (developed). |
+
+**Chrome status:** Unavailable (no tab group) — Phase 0 url-fixer aborted per stop rule. All URL verification deferred.
+
+Next priorities:
+- JPMorgan.md file truncation — requires manual restore or rewrite of terminal section (flagged 2026-04-05)
+- _Carlos Gimenez — replace Tier 4 StoneColdTruth source with Tier 2-3 on Crowley Maritime/Cuba claim to unblock ready promotion
+- Diff Log filename correction (line 107: JPMorgan Chase.md → JPMorgan.md)
+- Wall Street Finance Networks — 1 UNVERIFIED + 2 URL NEEDED (still blocks ready)
+- DMFI + Wall Street Finance Networks entity-type review
+- Mercatus Center 35+ UNVERIFIED URLs; Eric Schmidt 11 UNVERIFIED; Google 17 UNVERIFIED
+
+---
+
 ### 2026-04-04 — Daily Summary
 
 | State | Files Modified | Key Changes |
@@ -506,134 +528,4 @@ Next priorities:
 |-------|---------------|-------------|
 | STRUCTURING | DMFI.md (+ 8 others scanned) | 1 error found: DMFI YAML `ready` mismatched footer `developed` — corrected YAML to `developed`. All other files clean. |
 | NODE BUILD | Wall Street Finance Networks.md | Expanded raw stub (24 lines) to full donor node (~120 lines). Added Who They Are, What They Want, Who They Fund, Timeline (Format 2, 7 rows), Class Analysis. 3 sources (2 Tier 1 OpenSecrets). FEC API rate-limited — used OpenSecrets aggregates. raw → draft. |
-| STORY | 2026-04-03 Story Discovery.md, 2026-04-03 Follow the Money Weekly.md | Discovery: 6 items (2 Gold new: AIPAC IL $22M reckoning + Fago pardon-donation $1M→20 days; 2 Gold updates; 1 Silver update; 1 Silver new). Weekly roundup compiled (Friday). Chrome unavailable at story run — all URLs UNVERIFIED. |
-| CONNECTION MAPPING | 3 files | DMFI reciprocal links: Cori Bush Master Profile (related:), Reid Hoffman (related:), DMFI outgoing (added Bush + Hoffman). 4 reciprocal links added. |
-| VALIDATION | DMFI - Democratic Majority for Israel.md | URL REPAIR: 6 UNVERIFIED → VALID (Wikipedia, demmajorityforisrael.org, dmfipac.org, Sludge, Ryan Grim, Times of Israel). FULL VALIDATION: 10/10 URLs Chrome-verified. All gates pass (191 lines, 10 sources, 10 sections, class analysis, Format 2 timeline). Fixed malformed wikilink-in-tag. **Promoted developed → ready.** |
-
-**Chrome status:** Available for 3 PM VALIDATION run. NODE BUILD and STORY ran without Chrome (9 AM / 12 PM).
-
-Next priorities:
-- NAR type field review (flagged 2026-03-31: `corporation` may be incorrect → `donor`)
-- Wall Street Finance Networks.md — 2 URL NEEDED tags, unblocking draft → developed
-- Mercatus Center 35+ UNVERIFIED URLs (large batch — multi-session)
-- 2026-04-01 / 2026-04-02 / 2026-04-03 Story Discovery UNVERIFIED URL clearance
-- Eric Schmidt 11 UNVERIFIED URLs
-- Google - Alphabet 17 UNVERIFIED URLs
-
----
-
-### 2026-04-02 — Daily Summary
-
-| State | Files Modified | Key Changes |
-|-------|---------------|-------------|
-| STRUCTURING | (not scheduled today) | — |
-| NODE BUILD | NORPAC.md | Added Donation-to-Policy Timeline (Format 2, 8 rows), expanded What They Want (6 priorities), expanded Who They Are (founding details, Chouake leadership), added Historical Growth table (7 cycles FEC API), added Operational Model section, [!money] callout. 5 new sources. 103→153 lines. |
-| STORY | 2026-04-02 Story Discovery.md | 8 items classified (3 Gold new: MAGA Inc $305M pipeline, tariff exemptions as payback, anti-AIPAC counter-PAC; 2 Gold updates: AIPAC shell PAC dark money, Public Citizen $3.1B; 2 Silver; 1 Crossover flag). Chrome unavailable at story run — all URLs UNVERIFIED. |
-| CONNECTION MAPPING | 7 files | NORPAC reciprocal links: AIPAC, DMFI, Republican Jewish Coalition, UDP, Miriam Adelson, Jamaal Bowman (related:), Ritchie Torres (donors:). 7 reciprocal links added. |
-| VALIDATION | NORPAC.md | URL REPAIR: 3 UNVERIFIED → VALID (norpac.net, Scribd Jewish Standard, Jewish Standard Huckabee). FULL VALIDATION: 12/12 URLs Chrome-verified. All gates pass. **Promoted developed → ready.** |
-
-**Chrome status:** Available for 3 PM VALIDATION run. NODE BUILD and STORY ran without Chrome (9 AM / 12 PM).
-
-Next priorities:
-- DMFI 6 UNVERIFIED URLs — Chrome clear pass (highest-impact: unblocks developed → ready promotion)
-- NAR type field review (flagged 2026-03-31: `corporation` may be incorrect → `donor`)
-- DMFI line 11 malformed tag fix (wikilink embedded in hashtag)
-- Mercatus Center 35+ UNVERIFIED URLs
-- 2026-04-01 + 2026-04-02 Story Discovery UNVERIFIED URL clearance
-
----
-
-### 2026-04-04 — Code Claude Session (David, manual)
-
-**Context:** Working in donor-map-site repo with Code Claude. Built research automation pipeline, cleaned up duplicates, fixed homepage counter, generated build queues, received first Perplexity dossiers.
-
-**What was done:**
-
-*Research automation pipeline (in donor-map-engine private repo):*
-1. Built `scripts/lib/shared.cjs` + `scripts/lib/api-config.cjs` — shared utilities, API config loader
-2. Built `scripts/url-checker.cjs` — native Node HEAD request URL checker (replaces SEO tools / Chrome)
-3. Built `scripts/fec-pipeline.cjs` — FEC campaign finance data via registered API key (1000 req/hr)
-4. Built `scripts/congress-pipeline.cjs` — Congress.gov bills / committees / policy areas
-5. Built `scripts/research-report.cjs` — unified report aggregator
-6. Built `scripts/target-gap-analysis.cjs` — compares target lists vs vault profiles
-7. Built `scripts/merge-duplicates.cjs` — auto-merges wikilinks + deletes stub duplicates
-8. Tested end-to-end: Elizabeth Warren $131.3M FEC lookup confirmed working
-
-*Editorial voice work:*
-9. Replaced `content/Methodology.md` and `content/About The Donor Map.md` with first-person voice essay ("Behind The Methodology"). David wrote opening. 6 editorial sections follow: Why Tier 1 Sources, Why I Flag Contradictions, Why I Publish My Standards, Why I Use AI, Why This Matters Now. No em-dashes, first-person singular throughout.
-10. Created Strategy, Manifesto Draft, and Methodology Draft files in `content/Assets/` (excluded from build)
-
-*Homepage counter fix:*
-11. Fixed `quartz/components/LandingPage.tsx` to count only entity profiles (politician, donor, corporation, pac, think-tank, lobbying-firm, media-profile) instead of all files. Homepage now shows 859 instead of 1,514.
-12. Pushed to v4 (commit 8a7c7c87)
-
-*Target gap analysis + build queues:*
-13. Received 5 Perplexity target lists: politicians (1,002 targets), donors (294), think tanks (138), K Street (186 after expansion), media (191). Total 1,811 targets.
-14. Saved to `content/Vault Maintenance/Targets/` (excluded from Quartz build)
-15. Generated priority build queues. Gave David Top 100 (Tier A hub donors, think tanks, congressional leaders, media, lobbyists) and 101-200.
-
-*Duplicate cleanup (30 files deleted):*
-16. Deleted 3 DRAFT stubs (DRAFT-About.md, DRAFT-Guided-Tour.md, DRAFT-Homepage.md)
-17. Merged 27 duplicate profiles — wikilinks preserved in keepers, short stubs deleted. Examples: Koch Industries (Mega-Donors dupe → Energy & Utilities 657L), Palantir (Tech dupe → Mega-Donors 215L), JPMorgan, EMILY's List, 23 politician "Name.md" stubs replaced by "_Name Master Profile.md" versions (Ro Khanna, Dick Durbin, Cory Booker, Jon Ossoff, Kevin McCarthy, etc.)
-
-*First Perplexity dossiers received:*
-18. Saved Tier A research dossiers to `content/Vault Maintenance/Targets/Dossiers/`: Elon Musk (544L), Timothy Mellon (573L), combined Tier A entries 1-5 (2,883L — includes Koch, Adelson, Uihlein). Fact-only, Tier 1/2 sourced, no editorial interpretation. Ready for Claude editorial synthesis pass.
-
-**Vault stats (end of session):**
-- Total files: 1,588 (down 30 from 1,618 after duplicate cleanup)
-- Entity profiles: 859 (homepage counter reflects this)
-- Ready: 1,416 · Developed: 3 · Draft: 48 · Raw: 36 · No status: 85
-
-**Target coverage vs Perplexity lists:**
-| Category | Targets | In Vault | Missing | Coverage |
-|---|---|---|---|---|
-| Politicians | 1,002 | 191 | 811 | 19% |
-| Donors | 294 | 104 | 183 | 35% |
-| Think Tanks | 138 | 29 | 109 | 21% |
-| K Street | 186 | 21 | 165 | 11% |
-| Media | 191 | 48 | 143 | 25% |
-| **TOTAL** | **1,811** | **393** | **1,411** | **22%** |
-
-**~1,411 profiles to build** to hit full coverage of target lists.
-
-**Priority build queue:**
-- Priority 1 missing: 140 profiles (hub donors, congressional leaders, policy factories, Fox/MSNBC hosts, lobbying kingmakers)
-- Priority 2 missing: 290 profiles (state AGs, federal judges, second-tier mega-donors, PACs, trade associations)
-- Priority 3+ missing: 981 profiles (state legislators, backbenchers, smaller outlets)
-
-**Workflow established:**
-1. Perplexity → data dossier only (no class analysis, no interpretation)
-2. Claude (research mode) → editorial synthesis, pattern naming, cross-linking
-3. David → voice correction, callout placement, final readiness gate
-
-**Files created/updated:**
-- `content/Methodology.md` (replaced with voice essay)
-- `content/About The Donor Map.md` (replaced with voice essay)
-- `content/Assets/Draft - About The Donor Map Manifesto.md`
-- `content/Assets/Draft - Behind The Methodology.md`
-- `content/Assets/Strategy - Competitive Position and AI Defense.md`
-- `content/Vault Maintenance/Targets/politicians.md` (1,002 targets)
-- `content/Vault Maintenance/Targets/donors.md` (294 targets)
-- `content/Vault Maintenance/Targets/think-tanks.md` (138 targets)
-- `content/Vault Maintenance/Targets/k-street.md` (186 targets)
-- `content/Vault Maintenance/Targets/media.md` (191 targets)
-- `content/Vault Maintenance/Targets/Dossiers/dossier-01-elon-musk.md`
-- `content/Vault Maintenance/Targets/Dossiers/dossier-02-timothy-mellon.md`
-- `content/Vault Maintenance/Targets/Dossiers/research-dossier-tier-a-entries-1-5.md`
-- `quartz/components/LandingPage.tsx` (counter fix)
-- `CLAUDE.md` (research automation pipeline section added)
-- `.env` (FEC API key added)
-- `.env.example` (template)
-- `.gitignore` (reports/, .env added)
-
-**Files deleted (30):**
-- 3 DRAFT stubs at repo root
-- 27 duplicate profiles (smaller versions merged into larger)
-
-**Next priorities:**
-1. Editorial synthesis pass on Tier A dossiers (Musk, Mellon, Koch, Adelson, Uihlein) — merge into existing profiles using class analysis lens
-2. Priority 1 build queue (140 remaining profiles) — feed to Perplexity, then Claude editorial, then David voice pass
-3. thedonormap.org DNS TXT verification — GitHub waiting on Namecheap TXT record propagation
-4. Commit + push target files and cleanup work to v4
-
----
+| STORY | 2026-04-03 Story Discovery.md, 2026-04-03 Follow the Money Weekly.md | Discovery: 6 items (2 Gold new: AIPAC IL $22M reckoning + Fago pardon-donation $1M→20 days; 2 Gold updates; 1 Silver update; 1 Silv

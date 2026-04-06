@@ -55,9 +55,8 @@ donors:
 
 ### Sources
 
+#### Verified
 - [Source](url) (Tier X)
 
----
-
-research-status:: raw — Initial template
-content-readiness:: raw
+#### Archived
+<!-- Broken or paywalled links preserved as research trail -->

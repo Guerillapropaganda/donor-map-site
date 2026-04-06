@@ -2,7 +2,7 @@
 title: "State Engine Architecture — The Donor Map Database"
 type: methodology
 content-readiness: developed
-last-updated: 2026-03-31
+last-updated: 2026-04-05
 source-tier: null
 parent: null
 ---
@@ -89,7 +89,7 @@ The current system has 20 scheduled tasks. 14 are enabled and running hourly or 
 
 #### STATE: STRUCTURING
 
-**Purpose:** Fix structural problems. Format compliance, YAML errors, wikilink syntax, header formatting. Does NOT process URLs — that is VALIDATION's job via the Source URL Audit Log queue.
+**Purpose:** Fix structural problems. Format compliance, YAML errors, wikilink syntax, header formatting. Does NOT process URLs, that is VALIDATION's job.
 
 **When to enter:**
 - Vault audit detects structural errors
@@ -104,7 +104,7 @@ The current system has 20 scheduled tasks. 14 are enabled and running hourly or 
 - Reconcile YAML `content-readiness` with inline footer tags
 
 **Scope boundaries:**
-- Does NOT read or process the Source URL Audit Log (owned by VALIDATION)
+- Does NOT process URLs or dead link inventory (owned by VALIDATION)
 - Does NOT Chrome-verify URLs (owned by VALIDATION)
 - Does NOT promote content-readiness status (owned by VALIDATION)
 
@@ -222,44 +222,31 @@ The current system has 20 scheduled tasks. 14 are enabled and running hourly or 
 - David commands `STATE: VALIDATION`
 - A `*Broken Links*` file exists in `topics/Vault Maintenance/`
 
-**Phase 0 — Source URL Repair + Verification (url-fixer skill):**
+**Phase 0 — Source URL Repair + Verification:**
 
-VALIDATION uses the `url-fixer` skill for all source URL work. The skill processes one URL per invocation using a single-pass pipeline that prevents hallucination. The full pipeline and rules are documented in the skill — VALIDATION invokes it, not reimplements it.
+**URL health baseline (April 5, 2026):** A full external scan of 11,544 vault URLs was completed by Perplexity. 1,080 verified fixes (redirects + researched replacements) were applied directly to vault source files. 404 dead source URLs remain cataloged in `Vault Maintenance/dead-source-urls-for-perplexity.csv`. This CSV is the canonical dead-URL inventory, replacing the retired Source URL Audit Log.
 
-**Pipeline summary:** Select target → API triage (can the claim be sourced via API instead?) → WebSearch for article URL → Chrome verification gate → write to vault file → log in Source URL Audit Log.
+**Current workflow for VALIDATION URL repair:**
+
+VALIDATION can still use the `url-fixer` skill for individual URL repairs when Chrome is available. The skill processes one URL per invocation using a single-pass pipeline that prevents hallucination. The full pipeline and rules are documented in the skill.
 
 **Integration rules:**
 - Process 1-3 URLs per automated VALIDATION run. Token budget matters.
 - Priority order: `(UNVERIFIED)` tags in files closest to `ready` → `(URL NEEDED)` in hub nodes → `(URL NEEDED)` in `developed` files → everything else.
 - API triage first: if the citation's underlying claim is API-resolvable (donations, votes, contracts, lobbying), replace with an API citation (Tier 1). This skips the search+verify cycle entirely.
-- Non-API citations: WebSearch for the article, Chrome-verify the candidate URL loads, then write. Three search attempts max — if not found, leave the `(URL NEEDED)` tag.
+- Non-API citations: WebSearch for the article, Chrome-verify the candidate URL loads, then write. Three search attempts max.
+- Before searching, check `dead-source-urls-for-perplexity.csv` to see if the URL is a known dead link (saves wasted search cycles).
 - Never fabricate URLs. Never guess article slugs or IDs.
-- Log every fix and every failed attempt in the Source URL Audit Log.
 
-**For the full Audit Log queue (BROKEN entries):**
-- Scan the audit log for entries marked `BROKEN` or `UNVERIFIED`. Skip entries already marked `FIXED`, `VALID`, `REMOVE`, or `SOURCE REQUIRED`.
-- Check the audit log's "URL Fix Patterns" section for known domain-specific fixes before searching from scratch.
-- Do NOT rescan the vault. The audit log's "Found In" column identifies which vault file to fix.
-- Historical entries noting "vault file already fixed" → update audit log status to `FIXED`, do not re-open the vault file.
-
-Status marks written directly to the audit log entry:
-
-| Mark | Meaning | Action Taken |
-|------|---------|-------------|
-| `VALID` | Link verified working | None — entry resolved |
-| `REMOVE` | Dead link, no replacement found | Removed from vault file |
-| `FIXED` | Corrected URL found and written | Updated in vault file + audit log |
-| `SOURCE REQUIRED` | Source should exist but URL not recoverable | Flagged for manual research |
-
-Current queue size (as of 2026-03-31): ~579 BROKEN + ~249 UNVERIFIED + 48 `(URL NEEDED)` + 7 `(UNVERIFIED)` in content files.
+**Bulk URL repair:** Handled externally by Perplexity batch scans, not by Claude session-by-session. When David provides a new Perplexity scan, fixes are applied in bulk via Python script. This replaced the old Claude-based URL checker which was heavy on token consumption.
 
 **Phase 1 — Standard Validation Operations:**
-- Chrome-verify all source URLs in targeted files
+- Chrome-verify source URLs in targeted files (prioritize `(UNVERIFIED)` tags)
 - Check content-readiness gates (line count, source count, section count, class analysis)
 - Verify all wikilinks resolve
 - Check YAML/footer status match
-- Log results to Source URL Audit Log
 - Flag files that fail validation with specific failure reasons
+- Log changes to Diff Log
 
 **Exit condition:** Queue batch processed (if queue exists). All targeted files pass or have documented failure reasons. No file promoted to `ready` without passing VALIDATION.
 

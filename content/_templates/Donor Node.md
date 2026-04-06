@@ -14,10 +14,15 @@ await tp.file.move(`${folderPath}/${entityName}`);
 ---
 title: "<% entityName %>"
 type: <% entityType %>
+sector: "<% sector %>"
 content-readiness: raw
-last-updated: <% today %>
 source-tier: null
-parent: null
+last-updated: <% today %>
+last-enriched: null
+lobbying-spend: null
+lobbyview-bills: null
+naics-code: null
+politicians-funded: null
 ---
 
 #<% entityType %> #<% sectorTag %> #class-analysis #follow-the-money
@@ -69,9 +74,8 @@ related:
 
 ### Sources
 
+#### Verified
 - [Source](url) (Tier X)
 
----
-
-research-status:: raw — Initial template
-content-readiness:: raw
+#### Archived
+<!-- Broken or paywalled links preserved as research trail -->

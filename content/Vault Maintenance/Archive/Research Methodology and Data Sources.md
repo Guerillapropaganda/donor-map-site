@@ -19,6 +19,7 @@ This document defines the analytical framework, research layers, and external da
 
 **For source verification and citation format:** See [[Quality Standards]]
 **For API endpoints and query patterns:** See [[API Pipeline]]
+**For pipeline report integration (FEC, Congress, URL check auto-sync):** See [[API Pipeline]] → "Pipeline Reports Integration Protocol"
 **For vault structure, YAML schema, and note formatting:** See CLAUDE.md
 **For source tier definitions:** See CLAUDE.md (Source Tier System section)
 

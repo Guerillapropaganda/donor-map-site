@@ -15,6 +15,9 @@ source-tier: null
 parent: null
 category: <% category %>
 tax-status: <% taxStatus %>
+ein: null
+total-revenue: null
+last-enriched: null
 ---
 
 #think-tank #<% category %> #class-analysis #follow-the-money
@@ -90,9 +93,8 @@ related:
 
 ### Sources
 
+#### Verified
 - [Source](url) (Tier X)
 
----
-
-research-status:: raw — Initial template
-content-readiness:: raw
+#### Archived
+<!-- Broken or paywalled links preserved as research trail -->

@@ -18,7 +18,7 @@ When I ask you to make changes, **do the work** — edit files directly, don't j
 
 ## Project Details
 
-- **Live Site:** https://guerillapropaganda.github.io/donor-map-site/
+- **Live Site:** http://thedonormap.org/
 - **GitHub Repo:** https://github.com/Guerillapropaganda/donor-map-site
 - **Branch:** `v4` (Quartz convention — all pushes go to `v4`, NOT `main`)
 - **Repo on my machine:** `C:\Users\third\donor-map-site` (request mount access with this exact path)

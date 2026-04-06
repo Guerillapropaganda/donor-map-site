@@ -423,7 +423,7 @@ Every source must be a working URL. This vault is built for public web publicati
 
 **API source format — link to web interface, NOT raw API endpoint:**
 ```
-- [FEC: [Name] individual contributions ([N] results, $[total])](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=[name]) (Tier 1)
+- [FEC: [Name] individual contributions ([N] results, $[total])](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=[name]) (Tier 1)
 ```
 
 **CRITICAL:** Never use raw API endpoint URLs (e.g., `api.open.fec.gov/v1/schedules/...`) as citation links. They return JSON, not a readable web page. Always link to the corresponding web interface (fec.gov, usaspending.gov, congress.gov, lda.senate.gov).
@@ -435,7 +435,7 @@ Every source must be a working URL. This vault is built for public web publicati
 
 Examples:
 ```
-- [FEC: Matt Taibbi individual contributions (7 results, $7,089.15 total)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=taibbi%2C+matt) (Tier 1)
+- [FEC: Matt Taibbi individual contributions (7 results, $7,089.15 total)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=taibbi%2C+matt) (Tier 1)
 - [OpenSecrets: Elizabeth Warren donor summary](https://www.opensecrets.org/members-of-congress/elizabeth-warren/summary?cid=N00033492) (Tier 1)
 - [ProPublica: How Koch Industries profits from California's water crisis]((URL NEEDED)) (Tier 2)
 ```

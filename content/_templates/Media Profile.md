@@ -16,6 +16,7 @@ source-tier: null
 parent: null
 category: <% category %>
 platform: <% platform %>
+last-enriched: null
 ---
 
 #media-pipeline #<% category %> #class-analysis #follow-the-money
@@ -100,9 +101,8 @@ related:
 
 ### Sources
 
+#### Verified
 - [Source](url) (Tier X)
 
----
-
-research-status:: raw — Initial template
-content-readiness:: raw
+#### Archived
+<!-- Broken or paywalled links preserved as research trail -->

@@ -1,7 +1,7 @@
 # The Donor Map — Quartz Site Project Status
 
 **Last Updated:** April 1, 2026
-**Live Site:** https://guerillapropaganda.github.io/donor-map-site/
+**Live Site:** http://thedonormap.org/
 **Repo:** https://github.com/Guerillapropaganda/donor-map-site
 **Branch:** `v4` (Quartz convention — NOT main)
 **Repo Location on Machine:** `C:\Users\third\donor-map-site`

@@ -15,10 +15,17 @@ await tp.file.move(`${folderPath}/_${name} Master Profile`);
 ---
 title: "<% name %>"
 type: politician
+party: <% party %>
+chamber: <% chamber %>
+state: "<% state %>"
+state-abbr: "<% stateLower %>"
 content-readiness: raw
-last-updated: <% today %>
 source-tier: null
-parent: null
+last-updated: <% today %>
+last-enriched: null
+total-raised: null
+total-spent: null
+bills-sponsored: null
 ---
 
 #politician #<% partyTag %> #<% chamberTag %> #<% stateLower %> #class-analysis #follow-the-money
@@ -104,9 +111,8 @@ Flag every case where a policy decision follows a donation within 6-18 months.
 
 ### Sources
 
+#### Verified
 - [Source](url) (Tier X)
 
----
-
-profile-status:: raw
-content-readiness:: raw
+#### Archived
+<!-- Broken or paywalled links preserved as research trail -->

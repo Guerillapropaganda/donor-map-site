@@ -611,7 +611,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
   - URL: `https://www.nbcnews.com/politics/2024-election/harris-political-operation-crosses-1-billion-raised-2024-election-rcna174696`
 - [ ] **Politicians/Democrats/Presidential/Kamala Harris/The Billion-Dollar Campaign - 2024 Finance.md** (line 190)
   - Label: NBC News: How Kamala Harris' campaign spent $277 million in the final weeks
-  - URL: `https://www.nbcnews.com/news/amp/rcna182923`
+  - URL: `https://www.nbcnews.com/politics/2024-election/kamala-harris-campaign-spent-277-million-final-weeks-rcna182923`
 - [ ] **Politicians/Democrats/Presidential/Kamala Harris/The Billion-Dollar Campaign - 2024 Finance.md** (line 191)
   - Label: NBC News: Clashes, confusion and secrecy consume the Harris campaign's finances
   - URL: `https://www.nbcnews.com/politics/kamala-harris/clashes-confusion-secrecy-consume-harris-campaign-finances-rcna179654`
@@ -725,7 +725,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
   - URL: `https://www.nbcnews.com/politics/politics-news/betsy-devos-american-federation-children-private-school-rcna76307`
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/Emoluments & Self-Dealing/Emoluments and Self Dealing - Donors and Backers.md** (line 111)
   - Label: NBC News: Trump D.C. hotel receipts reveal $10,500-a-night rooms for foreign off
-  - URL: `https://www.nbcnews.com/news/amp/rcna57027`
+  - URL: `https://www.nbcnews.com/politics/donald-trump/trump-dc-hotel-10500-night-rooms-foreign-officials-rcna57027`
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/Environment/Fossil Fuel Deregulation - The Climate Donors.md** (line 143)
   - Label: NBC News: EPA reverses long-standing climate change finding
   - URL: `https://www.nbcnews.com/science/climate-change/epa-reverses-endangerment-climate-change-finding-rcna258452`
@@ -1616,88 +1616,88 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Dark Money/Ballard Partners.md** (line 38)
   - Label: The Intercept: The Clemency Industrial Complex
-  - URL: `https://theintercept.com/search?q=Ballard%20Partners`
+  - URL: `https://theintercept.com?q=Ballard%20Partners`
 - [ ] **Donors & Power Networks/Dark Money/Council for National Policy.md** (line 44)
   - Label: The Intercept: CNP leaked membership lists
-  - URL: `https://theintercept.com/search?q=Council%20for%20National%20Policy`
+  - URL: `https://theintercept.com?q=Council%20for%20National%20Policy`
 - [ ] **Donors & Power Networks/Dark Money/Organizing for Action.md** (line 37)
   - Label: The Intercept: Obama's Permanent Campaign
-  - URL: `https://theintercept.com/search?q=Organizing%20for%20Action`
+  - URL: `https://theintercept.com?q=Organizing%20for%20Action`
 - [ ] **Donors & Power Networks/Israel Lobby/Jewish Democratic Council of America.md** (line 38)
   - Label: The Intercept: Democratic Party Israel Lobby
-  - URL: `https://theintercept.com/search?q=Jewish%20Democratic%20Council%20of%20America`
+  - URL: `https://theintercept.com?q=Jewish%20Democratic%20Council%20of%20America`
 - [ ] **Donors & Power Networks/Israel Lobby/One Israel Fund.md** (line 40)
   - Label: The Intercept: Settlement Funding Networks
-  - URL: `https://theintercept.com/search?q=One%20Israel%20Fund`
+  - URL: `https://theintercept.com?q=One%20Israel%20Fund`
 - [ ] **Donors & Power Networks/Labor Unions/National Nurses United.md** (line 40)
   - Label: The Intercept: Healthcare Labor Organizing
-  - URL: `https://theintercept.com/search?q=National%20Nurses%20United`
+  - URL: `https://theintercept.com?q=National%20Nurses%20United`
 - [ ] **Donors & Power Networks/Media & Entertainment/Christopher Ruddy.md** (line 39)
   - Label: The Intercept: Right-Wing Media Infrastructure
-  - URL: `https://theintercept.com/search?q=Christopher%20Ruddy`
+  - URL: `https://theintercept.com?q=Christopher%20Ruddy`
 - [ ] **Donors & Power Networks/Super PACs/One Nation.md** (line 41)
   - Label: The Intercept: McConnell's Dark Money Machine
-  - URL: `https://theintercept.com/search?q=One%20Nation`
+  - URL: `https://theintercept.com?q=One%20Nation`
 - [ ] **Donors & Power Networks/Tech & Crypto/Ripple.md** (line 37)
   - Label: The Intercept: Cryptocurrency Industry Political Spending
-  - URL: `https://theintercept.com/search?q=Ripple`
+  - URL: `https://theintercept.com?q=Ripple`
 - [ ] **Donors & Power Networks/Tech & Crypto/Silicon Valley Democratic Donor Network.md** (line 135)
   - Label: The Intercept: "Tech Billionaires and the 2024 Democratic Strategy"
-  - URL: `https://theintercept.com/search?q=Silicon%20Valley%20Democratic%20Donor%20Network`
+  - URL: `https://theintercept.com?q=Silicon%20Valley%20Democratic%20Donor%20Network`
 - [ ] **Donors & Power Networks/Wall Street/Fidelity Investments.md** (line 37)
   - Label: The Intercept: Wall Street's War on the Fiduciary Rule
-  - URL: `https://theintercept.com/search?q=Fidelity%20Investments`
+  - URL: `https://theintercept.com?q=Fidelity%20Investments`
 - [ ] **Donors & Power Networks/Wall Street/JPMorgan.md** (line 39)
   - Label: The Intercept: Wall Street's Regulatory Capture
-  - URL: `https://theintercept.com/search?q=JPMorgan`
+  - URL: `https://theintercept.com?q=JPMorgan`
 - [ ] **Donors & Power Networks/Wall Street/Larry Summers.md** (line 38)
   - Label: The Intercept: Obama's Economic Team and Wall Street Alignment
-  - URL: `https://theintercept.com/search?q=Larry%20Summers`
+  - URL: `https://theintercept.com?q=Larry%20Summers`
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Immigration/Immigration - Donors and Backers.md** (line 106)
   - Label: The Intercept: Sanctuary state and agricultural labor
-  - URL: `https://theintercept.com/search?q=Immigration`
+  - URL: `https://theintercept.com?q=Immigration`
 - [ ] **Politicians/Democrats/House/Jamaal Bowman/_Jamaal Bowman Master Profile.md** (line 69)
   - Label: The Intercept: Israel Lobby's Primary Challenge to Bowman
-  - URL: `https://theintercept.com/search?q=Jamaal%20Bowman`
+  - URL: `https://theintercept.com?q=Jamaal%20Bowman`
 - [ ] **Politicians/Democrats/House/Nancy Pelosi/The $1.6 Billion Fundraising Machine.md** (line 82)
   - Label: The Intercept: DCCC committee dues system coverage
-  - URL: `https://theintercept.com/search?q=%241.6%20Billion%20Fundraising%20Machine`
+  - URL: `https://theintercept.com?q=%241.6%20Billion%20Fundraising%20Machine`
 - [ ] **Politicians/Democrats/House/Nancy Pelosi/The $1.6 Billion Fundraising Machine.md** (line 83)
   - Label: The Intercept: DCCC blacklist policy announcement
-  - URL: `https://theintercept.com/search?q=%241.6%20Billion%20Fundraising%20Machine`
+  - URL: `https://theintercept.com?q=%241.6%20Billion%20Fundraising%20Machine`
 - [ ] **Politicians/Democrats/House/Richard Neal/_Richard Neal Master Profile.md** (line 160)
   - Label: The Intercept: Richard Neal Blocks Surprise Medical Billing Reform
-  - URL: `https://theintercept.com/search?q=Richard%20Neal`
+  - URL: `https://theintercept.com?q=Richard%20Neal`
 - [ ] **Politicians/Democrats/Presidential/Bernie Sanders/AIPAC and the Progressive Purge.md** (line 91)
   - Label: The Intercept: AIPAC spending in primary races
-  - URL: `https://theintercept.com/search?q=AIPAC%20and%20the%20Progressive%20Purge`
+  - URL: `https://theintercept.com?q=AIPAC%20and%20the%20Progressive%20Purge`
 - [ ] **Politicians/Democrats/Presidential/Bernie Sanders/Medicare for All - The Policy That Broke the Party.md** (line 112)
   - Label: The Intercept: Healthcare industry lobbying investigations
-  - URL: `https://theintercept.com/search?q=Medicare%20for%20All`
+  - URL: `https://theintercept.com?q=Medicare%20for%20All`
 - [ ] **Politicians/Democrats/Presidential/Bernie Sanders/Senate Labor Record and Anti-DOGE Resistance.md** (line 116)
   - Label: The Intercept: Minimum wage parliamentarian ruling, 8 Democrats who voted no
-  - URL: `https://theintercept.com/search?q=Senate%20Labor%20Record%20and%20Anti-DOGE%20Resistance`
+  - URL: `https://theintercept.com?q=Senate%20Labor%20Record%20and%20Anti-DOGE%20Resistance`
 - [ ] **Politicians/Democrats/Presidential/Bernie Sanders/The Anti-Donor Model - Two Presidential Campaigns.md** (line 108)
   - Label: The Intercept: Bloomberg's $500M spending and transfer to Biden
-  - URL: `https://theintercept.com/search?q=The%20Anti-Donor%20Model`
+  - URL: `https://theintercept.com?q=The%20Anti-Donor%20Model`
 - [ ] **Politicians/Democrats/Presidential/Joe Biden/The Defense Budget Pipeline - Record Peacetime Spending and Contractor Profits.md** (line 187)
   - Label: The Intercept: Biden increases defense spending despite ending "endless wars"
-  - URL: `https://theintercept.com/search?q=The%20Defense%20Budget%20Pipeline`
+  - URL: `https://theintercept.com?q=The%20Defense%20Budget%20Pipeline`
 - [ ] **Politicians/Democrats/Senate/Chuck Schumer/AIPAC and the Israel Donor Network.md** (line 71)
   - Label: Intercept: AIPAC Democratic primary spending
-  - URL: `https://theintercept.com/search?q=AIPAC%20and%20the%20Israel%20Donor%20Network`
+  - URL: `https://theintercept.com?q=AIPAC%20and%20the%20Israel%20Donor%20Network`
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/January 6th & Election Denial/The Insurrection Investment - Who Funded January 6th and What They Got.md** (line 153)
   - Label: The Intercept: How Billionaires Funded the Election Denial Machine
-  - URL: `https://theintercept.com/search?q=The%20Insurrection%20Investment`
+  - URL: `https://theintercept.com?q=The%20Insurrection%20Investment`
 - [ ] **Politicians/Republicans/Trump Cabinet/John Ratcliffe/The Defense Contractor Revolving Door and the Consulting Pipeline.md** (line 75)
   - Label: The Intercept: Ratcliffe AI advisory positions
-  - URL: `https://theintercept.com/search?q=Defense%20Contractor%20Revolving%20Door%20and%20the%20Consulting%20Pipeline`
+  - URL: `https://theintercept.com?q=Defense%20Contractor%20Revolving%20Door%20and%20the%20Consulting%20Pipeline`
 - [ ] **Stories/Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion.md** (line 338)
   - Label: The Intercept
-  - URL: `https://theintercept.com/search?q=Intra-Democratic%20Contradiction%20Map`
+  - URL: `https://theintercept.com?q=Intra-Democratic%20Contradiction%20Map`
 - [ ] **Stories/Vault Maintenance/Sources Master Node.md** (line 62)
   - Label: theintercept.com
-  - URL: `https://theintercept.com/search?q=Sources%20Master%20Node`
+  - URL: `https://theintercept.com?q=Sources%20Master%20Node`
 
 ## www.npr.org (18 URLs)
 
@@ -1904,28 +1904,28 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Dark Money/Healthcare Sector.md** (line 31)
   - Label: CMS: National health expenditure data
-  - URL: `https://www.cms.gov/search?q=Healthcare%20Sector`
+  - URL: `https://www.cms.gov/search/cms?q=Healthcare%20Sector`
 - [ ] **Donors & Power Networks/Healthcare/Hospital Corporation of America - HCA.md** (line 46)
   - Label: CMS: Hospital reimbursement data
-  - URL: `https://www.cms.gov/search?q=Hospital%20Corporation%20of%20America`
+  - URL: `https://www.cms.gov/search/cms?q=Hospital%20Corporation%20of%20America`
 - [ ] **Donors & Power Networks/Healthcare/Insurance Industry Bloc.md** (line 46)
   - Label: CMS: Health insurance market data
-  - URL: `https://www.cms.gov/search?q=Insurance%20Industry%20Bloc`
+  - URL: `https://www.cms.gov/search/cms?q=Insurance%20Industry%20Bloc`
 - [ ] **Donors & Power Networks/Healthcare/Insurance Industry.md** (line 31)
   - Label: CMS: Insurance marketplace data
-  - URL: `https://www.cms.gov/search?q=Insurance%20Industry`
+  - URL: `https://www.cms.gov/search/cms?q=Insurance%20Industry`
 - [ ] **Donors & Power Networks/Healthcare/Tenet Healthcare.md** (line 31)
   - Label: CMS: Hospital reimbursement data
-  - URL: `https://www.cms.gov/search?q=Tenet%20Healthcare`
+  - URL: `https://www.cms.gov/search/cms?q=Tenet%20Healthcare`
 - [ ] **Donors & Power Networks/Pharma & Healthcare/Centene Corporation.md** (line 36)
   - Label: CMS: Medicaid managed care enrollment data
-  - URL: `https://www.cms.gov/search?q=Centene%20Corporation`
+  - URL: `https://www.cms.gov/search/cms?q=Centene%20Corporation`
 - [ ] **Donors & Power Networks/Pharma & Healthcare/Pharmaceutical Industry Bloc.md** (line 63)
   - Label: CMS: Medicare drug spending data
-  - URL: `https://www.cms.gov/search?q=Pharmaceutical%20Industry%20Bloc`
+  - URL: `https://www.cms.gov/search/cms?q=Pharmaceutical%20Industry%20Bloc`
 - [ ] **Donors & Power Networks/Pharma & Healthcare/Pharmaceutical Industry.md** (line 31)
   - Label: CMS: Medicare drug spending data
-  - URL: `https://www.cms.gov/search?q=Pharmaceutical%20Industry`
+  - URL: `https://www.cms.gov/search/cms?q=Pharmaceutical%20Industry`
 
 ## www.usaspending.gov (8 URLs)
 
@@ -1958,28 +1958,28 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Energy & Utilities/Fossil Fuel Bloc.md** (line 119)
   - Label: Fortune
-  - URL: `https://fortune.com/search/?q=Fossil%20Fuel%20Bloc`
+  - URL: `https://fortune.com/advanced-search/?query=?q=Fossil%20Fuel%20Bloc`
 - [ ] **Donors & Power Networks/Energy & Utilities/Fossil Fuel Bloc.md** (line 129)
   - Label: Fortune: Oil company stocks at all-time highs
-  - URL: `https://fortune.com/search/?q=Fossil%20Fuel%20Bloc`
+  - URL: `https://fortune.com/advanced-search/?query=?q=Fossil%20Fuel%20Bloc`
 - [ ] **Donors & Power Networks/Tech & Crypto/Jump Crypto.md** (line 40)
   - Label: Fortune: High-Frequency Trading in Crypto
-  - URL: `https://fortune.com/search/?q=Jump%20Crypto`
+  - URL: `https://fortune.com/advanced-search/?query=?q=Jump%20Crypto`
 - [ ] **Politicians/Republicans/Trump Cabinet/Doug Burgum/The Interior Department as Fossil Fuel Policy Vehicle.md** (line 81)
   - Label: Fortune: Interior confirmation and energy agenda
-  - URL: `https://fortune.com/search/?q=Interior%20Department%20as%20Fossil%20Fuel%20Policy%20Vehicle`
+  - URL: `https://fortune.com/advanced-search/?query=?q=Interior%20Department%20as%20Fossil%20Fuel%20Policy%20Vehicle`
 - [ ] **Politicians/Republicans/Trump Cabinet/Howard Lutnick/The Transition Pipeline and the 21 Million Dollar Buy-In.md** (line 50)
   - Label: Fortune: Musk backs Lutnick over Bessent
-  - URL: `https://fortune.com/search/?q=Transition%20Pipeline%20and%20the%2021%20Million%20Dollar%20Buy-In`
+  - URL: `https://fortune.com/advanced-search/?query=?q=Transition%20Pipeline%20and%20the%2021%20Million%20Dollar%20Buy-In`
 - [ ] **Politicians/Republicans/Trump Cabinet/Scott Bessent/From Soros CIO to Trump Treasury - The Class Defection.md** (line 64)
   - Label: Fortune: Trump picked Bessent despite Soros ties
-  - URL: `https://fortune.com/search/?q=From%20Soros%20CIO%20to%20Trump%20Treasury`
+  - URL: `https://fortune.com/advanced-search/?query=?q=From%20Soros%20CIO%20to%20Trump%20Treasury`
 - [ ] **Politicians/Republicans/Trump Cabinet/Scott Bessent/Wall Street Deregulation and the 3-3-3 Agenda.md** (line 78)
   - Label: Fortune: Bessent net worth and financial disclosure
-  - URL: `https://fortune.com/search/?q=Wall%20Street%20Deregulation%20and%20the%203-3-3%20Agenda`
+  - URL: `https://fortune.com/advanced-search/?query=?q=Wall%20Street%20Deregulation%20and%20the%203-3-3%20Agenda`
 - [ ] **Stories/Investigations/AI Deregulation Super PAC - Leading the Future.md** (line 26)
   - Label: Fortune: "OpenAI's Power Play in Sacramento"
-  - URL: `https://fortune.com/search/?q=AI%20Deregulation%20Super%20PAC`
+  - URL: `https://fortune.com/advanced-search/?query=?q=AI%20Deregulation%20Super%20PAC`
 
 ## www.cnbc.com (6 URLs)
 
@@ -2168,16 +2168,16 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Gig Economy/General Motors.md** (line 36)
   - Label: Treasury.gov: TARP automotive industry financing
-  - URL: `https://www.treasury.gov/search?q=General%20Motors`
+  - URL: `https://home.treasury.gov/?q=General%20Motors`
 - [ ] **Donors & Power Networks/Mega-Donors/Tim Geithner.md** (line 36)
   - Label: Treasury.gov: Geithner tenure records
-  - URL: `https://www.treasury.gov/search?q=Tim%20Geithner`
+  - URL: `https://home.treasury.gov/?q=Tim%20Geithner`
 - [ ] **Donors & Power Networks/Wall Street/Goldman Sachs - Wall Street Titan.md** (line 30)
   - Label: Treasury.gov: Goldman alumni in government
-  - URL: `https://www.treasury.gov/search?q=Goldman%20Sachs`
+  - URL: `https://home.treasury.gov/?q=Goldman%20Sachs`
 - [ ] **Donors & Power Networks/Wall Street/Larry Summers.md** (line 40)
   - Label: Department of Treasury: Historical Records
-  - URL: `https://www.treasury.gov/search?q=Larry%20Summers`
+  - URL: `https://home.treasury.gov/?q=Larry%20Summers`
 
 ## www.theguardian.com (4 URLs)
 
@@ -2378,16 +2378,16 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/Judicial/Judicial - Donors and Backers.md** (line 111)
   - Label: SourceWatch: Judicial Crisis Network
-  - URL: `https://www.sourcewatch.org/?q=Judicial`
+  - URL: `https://www.sourcewatch.org/index.php?title=SourceWatch?q=Judicial`
 - [ ] **Politicians/Republicans/Trump Cabinet/Pete Hegseth/The Koch Network and Concerned Veterans for America.md** (line 73)
   - Label: SourceWatch: Concerned Veterans for America funding records
-  - URL: `https://www.sourcewatch.org/?q=Koch%20Network%20and%20Concerned%20Veterans%20for%20America`
+  - URL: `https://www.sourcewatch.org/index.php?title=SourceWatch?q=Koch%20Network%20and%20Concerned%20Veterans%20for%20America`
 - [ ] **Politicians/Republicans/Trump Cabinet/Russell Vought/The Project 2025 Pipeline and the Center for Renewing America.md** (line 84)
   - Label: SourceWatch: Center for Renewing America funding
-  - URL: `https://www.sourcewatch.org/?q=Project%202025%20Pipeline%20and%20the%20Center%20for%20Renewing%20America`
+  - URL: `https://www.sourcewatch.org/index.php?title=SourceWatch?q=Project%202025%20Pipeline%20and%20the%20Center%20for%20Renewing%20America`
 - [ ] **Politicians/Republicans/Trump Cabinet/Stephen Miller/America First Legal and the Dark Money Architecture.md** (line 91)
   - Label: SourceWatch: America First Legal
-  - URL: `https://www.sourcewatch.org/?q=America%20First%20Legal%20and%20the%20Dark%20Money%20Architecture`
+  - URL: `https://www.sourcewatch.org/index.php?title=SourceWatch?q=America%20First%20Legal%20and%20the%20Dark%20Money%20Architecture`
 
 ## www.wikipedia.org (4 URLs)
 
@@ -2711,13 +2711,13 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Trump Cabinet/Howard Lutnick/The Tariff Machine and the Lutnick Family Bet.md** (line 63)
   - Label: NOTUS: Jamie Raskin investigation
-  - URL: `https://notus.org/?q=Tariff%20Machine%20and%20the%20Lutnick%20Family%20Bet`
+  - URL: `https://www.notus.org/?q=Tariff%20Machine%20and%20the%20Lutnick%20Family%20Bet`
 - [ ] **Politicians/Republicans/Trump Cabinet/Pete Hegseth/Defense Contractor Conflicts and Stock Holdings.md** (line 62)
   - Label: NOTUS: Hegseth stock trades and Liberation Day reporting
-  - URL: `https://notus.org/?q=Defense%20Contractor%20Conflicts%20and%20Stock%20Holdings`
+  - URL: `https://www.notus.org/?q=Defense%20Contractor%20Conflicts%20and%20Stock%20Holdings`
 - [ ] **Politicians/Republicans/Trump Cabinet/Stephen Miller/America First Legal and the Dark Money Architecture.md** (line 90)
   - Label: NOTUS: DonorsTrust and AFL funding
-  - URL: `https://notus.org/?q=America%20First%20Legal%20and%20the%20Dark%20Money%20Architecture`
+  - URL: `https://www.notus.org/?q=America%20First%20Legal%20and%20the%20Dark%20Money%20Architecture`
 
 ## crew.org (3 URLs)
 
@@ -2888,10 +2888,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Labor Unions/IBEW Local 440 - Riverside.md** (line 84)
   - Label: Inland Empire Electrical Training Center (IEETC)
-  - URL: `https://www.ieetc.org/?q=IBEW%20Local%20440`
+  - URL: `https://www.ieetc.org/en-US?q=IBEW%20Local%20440`
 - [ ] **Donors & Power Networks/Labor Unions/IBEW Local 477 - San Bernardino.md** (line 74)
   - Label: Inland Empire Electrical Training Center (IEETC)
-  - URL: `https://www.ieetc.org/?q=IBEW%20Local%20477`
+  - URL: `https://www.ieetc.org/en-US?q=IBEW%20Local%20477`
 
 ## www.nationalnursesunited.org (2 URLs)
 
@@ -2987,10 +2987,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Super PACs/EMILY's List.md** (line 47)
   - Label: EMILY's List: Candidate endorsements
-  - URL: `https://www.emilyslist.org/?q=EMILY%27s%20List`
+  - URL: `https://emilyslist.org/?q=EMILY%27s%20List`
 - [ ] **Stories/Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy.md** (line 168)
   - Label: EMILY's List endorsement and fundraising infrastructure
-  - URL: `https://www.emilyslist.org/?q=Ohio%202026`
+  - URL: `https://emilyslist.org/?q=Ohio%202026`
 
 ## www.commerce.gov (2 URLs)
 
@@ -3032,10 +3032,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Newsom 2028 - The Donor Class Presidential Campaign.md** (line 298)
   - Label: Consumer Watchdog: Government accountability
-  - URL: `https://www.consumerwatchdog.org/?q=Newsom%202028`
+  - URL: `https://consumerwatchdog.org/?q=Newsom%202028`
 - [ ] **Politicians/Democrats/House/Ash Kalra.md** (line 151)
   - Label: Consumer Watchdog: Government accountability organization
-  - URL: `https://www.consumerwatchdog.org/?q=Ash%20Kalra`
+  - URL: `https://consumerwatchdog.org/?q=Ash%20Kalra`
 
 ## www.sfchronicle.com (2 URLs)
 
@@ -3068,10 +3068,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Housing/Supply-Side Framework - Who It Helps.md** (line 127)
   - Label: California Housing Partnership: affordability gap analysis
-  - URL: `https://chpc.net/?q=Supply-Side%20Framework`
+  - URL: `https://calhousingpartnership.org/?q=Supply-Side%20Framework`
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Housing/Supply-Side Framework - Who It Helps.md** (line 134)
   - Label: California Housing Partnership: affordability gap analysis
-  - URL: `https://chpc.net/?q=Supply-Side%20Framework`
+  - URL: `https://calhousingpartnership.org/?q=Supply-Side%20Framework`
 
 ## shelterforce.org (2 URLs)
 
@@ -3086,10 +3086,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Labor/Farmworker Union Rights - AB 2183 Veto and Reversal.md** (line 117)
   - Label: SEIU California: farmworker union rights advocacy
-  - URL: `https://www.seiuca.org/?q=Farmworker%20Union%20Rights`
+  - URL: `https://seiuca.org/?q=Farmworker%20Union%20Rights`
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Labor/FAST Act and the AB 1228 Deal.md** (line 118)
   - Label: SEIU California: FAST Act and joint liability analysis
-  - URL: `https://www.seiuca.org/?q=FAST%20Act%20and%20the%20AB%201228%20Deal`
+  - URL: `https://seiuca.org/?q=FAST%20Act%20and%20the%20AB%201228%20Deal`
 
 ## leginfo.legislature.ca.gov (2 URLs)
 
@@ -3167,10 +3167,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/House/Richard Neal/_Richard Neal Master Profile.md** (line 162)
   - Label: Jacobin: The Democratic Healthcare Gatekeepers
-  - URL: `https://jacobinmag.com/?q=Richard%20Neal`
+  - URL: `https://jacobin.com/?q=Richard%20Neal`
 - [ ] **Politicians/Democrats/Presidential/Bernie Sanders/Senate Labor Record and Anti-DOGE Resistance.md** (line 114)
   - Label: Jacobin: Stop WALMART Act ($6.2B taxpayer subsidy analysis)
-  - URL: `https://jacobinmag.com/?q=Senate%20Labor%20Record%20and%20Anti-DOGE%20Resistance`
+  - URL: `https://jacobin.com/?q=Senate%20Labor%20Record%20and%20Anti-DOGE%20Resistance`
 
 ## thehill.com (2 URLs)
 
@@ -3185,10 +3185,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Presidential/Bernie Sanders/The Anti-Donor Model - Two Presidential Campaigns.md** (line 105)
   - Label: New York Times: Obama phone calls to Buttigieg
-  - URL: `https://nytimes.com/?q=The%20Anti-Donor%20Model`
+  - URL: `https://www.nytimes.com/?q=The%20Anti-Donor%20Model`
 - [ ] **Politicians/Democrats/Presidential/Kamala Harris/Senate Record and 2020 Primary.md** (line 165)
   - Label: New York Times: Harris drops out before Iowa caucuses
-  - URL: `https://nytimes.com/?q=Senate%20Record%20and%202020%20Primary`
+  - URL: `https://www.nytimes.com/?q=Senate%20Record%20and%202020%20Primary`
 
 ## studentaid.gov (2 URLs)
 
@@ -3203,10 +3203,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Presidential/Josh Shapiro/School Choice and the Catholic Church Prosecution as Brand Architecture.md** (line 84)
   - Label: Philadelphia Inquirer: Shapiro AG record
-  - URL: `https://inquirer.com/?q=School%20Choice%20and%20the%20Catholic%20Church%20Prosecution%20as%20Brand%20Architecture`
+  - URL: `https://www.inquirer.com/?q=School%20Choice%20and%20the%20Catholic%20Church%20Prosecution%20as%20Brand%20Architecture`
 - [ ] **Politicians/Democrats/Presidential/Josh Shapiro/The Corporate-Democratic Donor Coalition and AIPAC Connection.md** (line 66)
   - Label: Philadelphia Inquirer: Top Shapiro donors
-  - URL: `https://inquirer.com/?q=Corporate-Democratic%20Donor%20Coalition%20and%20AIPAC%20Connection`
+  - URL: `https://www.inquirer.com/?q=Corporate-Democratic%20Donor%20Coalition%20and%20AIPAC%20Connection`
 
 ## rollcall.com (2 URLs)
 
@@ -3221,10 +3221,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Presidential/Kamala Harris/Senate Record and 2020 Primary.md** (line 149)
   - Label: Vox: FOSTA-SESTA explained: impact on sex workers vs. trafficking
-  - URL: `https://vox.com/?q=Senate%20Record%20and%202020%20Primary`
+  - URL: `https://www.vox.com/?q=Senate%20Record%20and%202020%20Primary`
 - [ ] **Politicians/Democrats/Presidential/Kamala Harris/Senate Record and 2020 Primary.md** (line 155)
   - Label: Vox: Harris healthcare plan walkback (July 2019)
-  - URL: `https://vox.com/?q=Senate%20Record%20and%202020%20Primary`
+  - URL: `https://www.vox.com/?q=Senate%20Record%20and%202020%20Primary`
 
 ## politico.com (2 URLs)
 
@@ -3356,10 +3356,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Trump Cabinet/Doug Burgum/The Harold Hamm Pipeline and the Continental Resources Conflict.md** (line 70)
   - Label: Interior Department: Secretarial orders
-  - URL: `https://www.interior.gov/?q=Harold%20Hamm%20Pipeline%20and%20the%20Continental%20Resources%20Conflict`
+  - URL: `https://www.doi.gov?q=Harold%20Hamm%20Pipeline%20and%20the%20Continental%20Resources%20Conflict`
 - [ ] **Politicians/Republicans/Trump Cabinet/Doug Burgum/The Interior Department as Fossil Fuel Policy Vehicle.md** (line 79)
   - Label: Interior Department: Secretarial orders and ANWR actions
-  - URL: `https://www.interior.gov/?q=Interior%20Department%20as%20Fossil%20Fuel%20Policy%20Vehicle`
+  - URL: `https://www.doi.gov?q=Interior%20Department%20as%20Fossil%20Fuel%20Policy%20Vehicle`
 
 ## www.cbsnews.com (2 URLs)
 
@@ -3374,10 +3374,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Trump Cabinet/Kash Patel/Foreign Clients and the Qatar-China Conflicts.md** (line 67)
   - Label: Lawfare: Patel Dossier
-  - URL: `https://www.lawfareblog.com/?q=Foreign%20Clients%20and%20the%20Qatar-China%20Conflicts`
+  - URL: `https://www.lawfaremedia.org?q=Foreign%20Clients%20and%20the%20Qatar-China%20Conflicts`
 - [ ] **Politicians/Republicans/Trump Cabinet/Kash Patel/The Nunes Pipeline and the Loyalty Promotion System.md** (line 78)
   - Label: Lawfare: The Patel Dossier
-  - URL: `https://www.lawfareblog.com/?q=Nunes%20Pipeline%20and%20the%20Loyalty%20Promotion%20System`
+  - URL: `https://www.lawfaremedia.org?q=Nunes%20Pipeline%20and%20the%20Loyalty%20Promotion%20System`
 
 ## www.thenation.com (2 URLs)
 
@@ -3392,10 +3392,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Trump Cabinet/Pete Hegseth/The Koch Network and Concerned Veterans for America.md** (line 74)
   - Label: American Oversight: Koch-funded CVA influence documents
-  - URL: `https://www.americanoversight.org/?q=Koch%20Network%20and%20Concerned%20Veterans%20for%20America`
+  - URL: `https://americanoversight.org/?q=Koch%20Network%20and%20Concerned%20Veterans%20for%20America`
 - [ ] **Politicians/Republicans/Trump Cabinet/Stephen Miller/The Immigration Policy Architecture from Sessions to Mass Deportation.md** (line 76)
   - Label: American Oversight: Miller public charge rule involvement
-  - URL: `https://www.americanoversight.org/?q=Immigration%20Policy%20Architecture%20from%20Sessions%20to%20Mass%20Deportation`
+  - URL: `https://americanoversight.org/?q=Immigration%20Policy%20Architecture%20from%20Sessions%20to%20Mass%20Deportation`
 
 ## www.cato.org (2 URLs)
 
@@ -3437,10 +3437,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Stories/Investigations/ALEC Dark Money Protection Machine.md** (line 97)
   - Label: Tier 2 - Center for Media and Democracy
-  - URL: `https://alecexposed.org/?q=ALEC%20Dark%20Money%20Protection%20Machine`
+  - URL: `https://www.alecexposed.org/wiki/ALEC_Exposed?q=ALEC%20Dark%20Money%20Protection%20Machine`
 - [ ] **Stories/Investigations/ALEC Dark Money Protection Machine.md** (line 129)
   - Label: Center for Media and Democracy: ALEC Exposed
-  - URL: `https://alecexposed.org/?q=ALEC%20Dark%20Money%20Protection%20Machine`
+  - URL: `https://www.alecexposed.org/wiki/ALEC_Exposed?q=ALEC%20Dark%20Money%20Protection%20Machine`
 
 ## www.gmfus.org (2 URLs)
 
@@ -3467,31 +3467,31 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Jeff Yass.md** (line 83)
   - Label: Tier 1
-  - URL: `https://whitehouse.gov/?q=Jeff%20Yass`
+  - URL: `https://www.whitehouse.gov/?q=Jeff%20Yass`
 
 ## bytedance.com (1 URLs)
 
 - [ ] **Donors & Power Networks/Jeff Yass.md** (line 85)
   - Label: Tier 1
-  - URL: `https://bytedance.com/?q=Jeff%20Yass`
+  - URL: `https://www.bytedance.com/?q=Jeff%20Yass`
 
 ## fairshakepac.com (1 URLs)
 
 - [ ] **Donors & Power Networks/Jeff Yass.md** (line 86)
   - Label: Tier 2
-  - URL: `https://fairshakepac.com/?q=Jeff%20Yass`
+  - URL: `https://www.fairshakepac.com/?q=Jeff%20Yass`
 
 ## state.gov (1 URLs)
 
 - [ ] **Donors & Power Networks/Miriam Adelson.md** (line 89)
   - Label: Tier 1
-  - URL: `https://state.gov/?q=Miriam%20Adelson`
+  - URL: `https://www.state.gov/?q=Miriam%20Adelson`
 
 ## un.org (1 URLs)
 
 - [ ] **Donors & Power Networks/Miriam Adelson.md** (line 91)
   - Label: Tier 1
-  - URL: `https://un.org/?q=Miriam%20Adelson`
+  - URL: `https://www.un.org/?q=Miriam%20Adelson`
 
 ## election.gov (1 URLs)
 
@@ -3557,13 +3557,13 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Dark Money/ActBlue.md** (line 99)
   - Label: ActBlue Official: Platform Overview
-  - URL: `https://secure.actblue.com/?q=ActBlue`
+  - URL: `https://www.actblue.com/?q=ActBlue`
 
 ## www.alecexposed.org (1 URLs)
 
 - [ ] **Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md** (line 43)
   - Label: ALEC Exposed (Center for Media and Democracy)
-  - URL: `https://www.alecexposed.org/?q=ALEC`
+  - URL: `https://www.alecexposed.org/wiki/ALEC_Exposed?q=ALEC`
 
 ## www.aei.org (1 URLs)
 
@@ -3581,7 +3581,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Dark Money/Brady Campaign.md** (line 45)
   - Label: Brady Campaign: Official site and mission
-  - URL: `https://www.bradycampaign.org/?q=Brady%20Campaign`
+  - URL: `https://www.bradyunited.org/?q=Brady%20Campaign`
 
 ## www.bcatoday.org (1 URLs)
 
@@ -3599,13 +3599,13 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Dark Money/Democracy Alliance.md** (line 152)
   - Label: America Votes — Coalition Structure and Member Organizations
-  - URL: `https://www.americavotes.org/?q=Democracy%20Alliance`
+  - URL: `https://americavotes.org/?q=Democracy%20Alliance`
 
 ## www.elpc.org (1 URLs)
 
 - [ ] **Donors & Power Networks/Dark Money/Environmental Law & Policy Center.md** (line 46)
   - Label: ELPC: Official site and programs
-  - URL: `https://www.elpc.org/?q=Environmental%20Law%20%26%20Policy%20Center`
+  - URL: `https://elpc.org/?q=Environmental%20Law%20%26%20Policy%20Center`
 
 ## midwestenergynews.com (1 URLs)
 
@@ -3629,7 +3629,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Dark Money/Sports Betting Alliance.md** (line 45)
   - Label: Sports Betting Alliance: Official operations
-  - URL: `https://www.sportsbettingalliance.com/?q=Sports%20Betting%20Alliance`
+  - URL: `https://sportsbettingalliance.org/?q=Sports%20Betting%20Alliance`
 
 ## www.bechtel.com (1 URLs)
 
@@ -3641,7 +3641,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Defense & Intelligence/Bechtel Corporation.md** (line 49)
   - Label: CorpWatch: Bechtel military contracts investigation
-  - URL: `https://corpwatch.org/?q=Bechtel%20Corporation`
+  - URL: `https://www.corpwatch.org/?q=Bechtel%20Corporation`
 
 ## comptroller.defense.gov (1 URLs)
 
@@ -3653,7 +3653,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Defense & Intelligence/Honeywell.md** (line 39)
   - Label: Center for Investigative Reporting: Military-Industrial Complex Analysis
-  - URL: `https://www.revealnews.org/?q=Honeywell`
+  - URL: `https://revealnews.org/?q=Honeywell`
 
 ## www.fpds.gov (1 URLs)
 
@@ -3677,7 +3677,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Education/Eli Broad Foundation.md** (line 105)
   - Label: Broad Academy: Official site (archived)
-  - URL: `https://www.broadeducation.org/?q=Eli%20Broad%20Foundation`
+  - URL: `https://broadfoundation.org?q=Eli%20Broad%20Foundation`
 
 ## dianeravitch.net (1 URLs)
 
@@ -3713,7 +3713,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Energy & Utilities/Consumer Energy Alliance.md** (line 45)
   - Label: Consumer Energy Alliance: Official site
-  - URL: `https://www.consumerenergyalliance.org/?q=Consumer%20Energy%20Alliance`
+  - URL: `https://consumerenergyalliance.org/?q=Consumer%20Energy%20Alliance`
 
 ## influencemap.org (1 URLs)
 
@@ -3725,7 +3725,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Energy & Utilities/Drummond Co.md** (line 45)
   - Label: Drummond Company: Official operations
-  - URL: `https://www.drummondco.com/?q=Drummond%20Co`
+  - URL: `https://drummondco.com/?q=Drummond%20Co`
 
 ## environmentalintegrity.org (1 URLs)
 
@@ -3809,7 +3809,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Gig Economy/Instacart.md** (line 45)
   - Label: California Supreme Court: Prop 22 ruling
-  - URL: `https://www.courts.ca.gov/?q=Instacart`
+  - URL: `https://courts.ca.gov/?q=Instacart`
 
 ## www.medpac.gov (1 URLs)
 
@@ -3821,7 +3821,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Israel Lobby/Christians United for Israel.md** (line 43)
   - Label: CUFI: Organizational membership data
-  - URL: `https://www.cufi.org/?q=Christians%20United%20for%20Israel`
+  - URL: `https://cufi.org/?q=Christians%20United%20for%20Israel`
 
 ## dmfipac.org (1 URLs)
 
@@ -3833,7 +3833,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Israel Lobby/JCRC Bay Area.md** (line 75)
   - Label: JCRC Bay Area: Official website
-  - URL: `https://www.jcrc.org/?q=JCRC%20Bay%20Area`
+  - URL: `https://jcrc.org/?q=JCRC%20Bay%20Area`
 
 ## www.jpacca.org (1 URLs)
 
@@ -3857,7 +3857,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Labor Unions/California Labor Federation.md** (line 84)
   - Label: California Labor Federation: Endorsement process and 2024 positions
-  - URL: `https://www.laborcouncil.org/?q=California%20Labor%20Federation`
+  - URL: `https://laborcouncil.org/?q=California%20Labor%20Federation`
 
 ## www.laclaborfed.org (1 URLs)
 
@@ -3869,7 +3869,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Labor Unions/IBEW - International Brotherhood of Electrical Workers.md** (line 85)
   - Label: IBEW: Government Affairs and advocacy
-  - URL: `https://www.ibew.org/?q=IBEW`
+  - URL: `https://ibew.org/?q=IBEW`
 
 ## cabuildingtrades.org (1 URLs)
 
@@ -3887,13 +3887,13 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Labor Unions/IBEW Local 477 - San Bernardino.md** (line 73)
   - Label: IBEW Local 477: Official website
-  - URL: `https://www.ibew477.org/?q=IBEW%20Local%20477`
+  - URL: `https://ibew477.org/?q=IBEW%20Local%20477`
 
 ## www.neca.org (1 URLs)
 
 - [ ] **Donors & Power Networks/Labor Unions/IBEW Local 477 - San Bernardino.md** (line 75)
   - Label: Southern Sierras Chapter NECA: Labor-management programs
-  - URL: `https://www.neca.org/?q=IBEW%20Local%20477`
+  - URL: `http://validate.perfdrive.com/4823edfd9e6420a4ca55f08bdc392c0a/?ssa=61b10d92-2354-49d2-aaba-9e8a3556dcef&ssb=52594250497&ssc=https:/www.neca.org/&ssi=093c261a-bnvn-4e19-92b2-1f4ae0679647&ssk=support@shieldsquare.com&ssm=55719098320522476100889721712908&ssn=1ca1346a43a02c520117eeb494b80475df7b811eba80-4970-44fe-b5b325&sso=ae7539ec-52d505dae6fdc75f569c0b2871a3b5d1ce7f38e465fa38fe&ssp=65953197581775476315177547092236135&ssq=22027663312089463703733120863604361897768&ssr=MzUuMTk3LjMuNjc=&sst=Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/131.0.0.0+Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwZGU2M2MyNDctZjVmMS00ZDk4LWExODAtZjU3YjUyOTc4OTRjMS0xNzc1NDMzMTIwOTc2MC1mMjk1NGQ1Y2RjNTc1NGYxMTAiLCJfX3V6bWYiOiI3ZjkwMDA4MTFlYmE4MC00OTcwLTQ0ZmUtYjllYy01MmQ1MDVkYWU2ZmQxLTE3NzU0MzMxMjA5NzYwLTAwM2I2M2YxODA4YTdjYTcwMTUxMCIsInJkIjoibmVjYS5vcmcifQ==?q=IBEW%20Local%20477`
 
 ## www.labornotes.org (1 URLs)
 
@@ -4007,7 +4007,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Mega-Donors/Miriam Adelson.md** (line 192)
   - Label: Las Vegas Sands investor relations
-  - URL: `https://investor.sands.com/?q=Miriam%20Adelson`
+  - URL: `https://investor.sands.com/home/default.aspx?q=Miriam%20Adelson`
 
 ## www.dhs.gov (1 URLs)
 
@@ -4091,13 +4091,13 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Super PACs/Susan B. Anthony Pro-Life America PAC.md** (line 45)
   - Label: Susan B. Anthony Pro-Life America: Official site
-  - URL: `https://www.sba-list.org/?q=Susan%20B.%20Anthony%20Pro-Life%20America%20PAC`
+  - URL: `https://sbaprolife.org/?q=Susan%20B.%20Anthony%20Pro-Life%20America%20PAC`
 
 ## www.svbpac.com (1 URLs)
 
 - [ ] **Donors & Power Networks/Super PACs/SV&B PAC.md** (line 44)
   - Label: SV&B PAC: Official operations
-  - URL: `https://www.svbpac.com/?q=SV%26B%20PAC`
+  - URL: `https://web.archive.org/web/2023/https:/www.svbpac.com/?q=SV%26B%20PAC`
 
 ## www.nist.gov (1 URLs)
 
@@ -4115,13 +4115,13 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Donors & Power Networks/Tech & Crypto/Eric Schmidt.md** (line 105)
   - Label: National Security Commission on Artificial Intelligence — Final Report (March 20
-  - URL: `https://www.nscai.gov/?q=Eric%20Schmidt`
+  - URL: `https://cybercemetery.unt.edu/nscai/20211005220330/http:/nscai.gov/?q=Eric%20Schmidt`
 
 ## www.theblockresearch.com (1 URLs)
 
 - [ ] **Donors & Power Networks/Tech & Crypto/Jump Crypto.md** (line 37)
   - Label: The Block: Jump Crypto and Fairshake Spending
-  - URL: `https://www.theblockresearch.com/?q=Jump%20Crypto`
+  - URL: `https://www.theblock.pro/?q=Jump%20Crypto`
 
 ## www.waverleystreetfoundation.org (1 URLs)
 
@@ -4235,7 +4235,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Governors/Amy Acton/The Labor Coalition and What Unions Expect.md** (line 199)
   - Label: Steelworkers Union Supports Amy Acton | Steelworkers Official
-  - URL: `https://www.usw.org/?q=Labor%20Coalition%20and%20What%20Unions%20Expect`
+  - URL: `https://usw.org/?q=Labor%20Coalition%20and%20What%20Unions%20Expect`
 
 ## deadline.com (1 URLs)
 
@@ -4295,7 +4295,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Economic Policy/Budget Priorities - What California Actually Funds.md** (line 81)
   - Label: California Department of Finance: Governor's budget
-  - URL: `https://www.dof.ca.gov/?q=Budget%20Priorities`
+  - URL: `https://dof.ca.gov/?q=Budget%20Priorities`
 
 ## www.cdcr.ca.gov (1 URLs)
 
@@ -4349,7 +4349,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Education/Education - Donors and Backers.md** (line 101)
   - Label: California Charter Schools Association: opposition filings to AB 1505
-  - URL: `https://ccsa.org/?q=Education`
+  - URL: `https://www.ccsa.org/?q=Education`
 
 ## jpac.org (1 URLs)
 
@@ -4373,7 +4373,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Healthcare/COVID No-Bid Contracts - Blue Shield and UnitedHealth.md** (line 94)
   - Label: California state contracts database: Blue Shield and UnitedHealth COVID contract
-  - URL: `https://cacontractregistry.ca.gov/?q=COVID%20No-Bid%20Contracts`
+  - URL: `https://caleprocure.ca.gov/?q=COVID%20No-Bid%20Contracts`
 
 ## www.chcoc.ca.gov (1 URLs)
 
@@ -4397,25 +4397,25 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Housing/Supply-Side Framework - Who It Helps.md** (line 130)
   - Label: Center for Neighborhood Technology: housing costs and feasibility
-  - URL: `https://www.cnt.org/?q=Supply-Side%20Framework`
+  - URL: `https://cnt.org/?q=Supply-Side%20Framework`
 
 ## www.ufwfoundation.org (1 URLs)
 
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Immigration/H-2A Guest Worker Pipeline and Farmworker Vulnerability.md** (line 102)
   - Label: UFW Foundation: undocumented farmworker vulnerability data
-  - URL: `https://www.ufwfoundation.org/?q=H-2A%20Guest%20Worker%20Pipeline%20and%20Farmworker%20Vulnerability`
+  - URL: `https://ufwfoundation.org/?q=H-2A%20Guest%20Worker%20Pipeline%20and%20Farmworker%20Vulnerability`
 
 ## www.farmworkerjustice.org (1 URLs)
 
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Immigration/Immigration - Donors and Backers.md** (line 107)
   - Label: Farmworker Justice: H-2A employer accountability
-  - URL: `https://www.farmworkerjustice.org/?q=Immigration`
+  - URL: `https://www.farmworkerjustice.org/en?q=Immigration`
 
 ## www.ufw.org (1 URLs)
 
 - [ ] **Politicians/Democrats/Governors/Gavin Newsom/Labor/Farmworker Union Rights - AB 2183 Veto and Reversal.md** (line 115)
   - Label: United Farm Workers: AB 2183 campaign and analysis
-  - URL: `https://www.ufw.org/?q=Farmworker%20Union%20Rights`
+  - URL: `https://ufw.org/?q=Farmworker%20Union%20Rights`
 
 ## www.appliedsurveyresearch.org (1 URLs)
 
@@ -4433,7 +4433,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/House/Anthony Rendon.md** (line 86)
   - Label: California State Assembly: Speaker Rendon Official Record
-  - URL: `https://assembly.ca.gov/?q=Anthony%20Rendon`
+  - URL: `https://www.assembly.ca.gov/?q=Anthony%20Rendon`
 
 ## laborcenter.berkeley.edu (1 URLs)
 
@@ -4451,19 +4451,19 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/House/Ash Kalra.md** (line 155)
   - Label: Richmond Confidential: Community news coverage
-  - URL: `https://www.richmondconfidential.org/?q=Ash%20Kalra`
+  - URL: `https://richmondconfidential.org/?q=Ash%20Kalra`
 
 ## www.californiahealthline.org (1 URLs)
 
 - [ ] **Politicians/Democrats/House/Ash Kalra.md** (line 159)
   - Label: California Healthline: Healthcare news coverage
-  - URL: `https://www.californiahealthline.org/?q=Ash%20Kalra`
+  - URL: `https://californiahealthline.org/?q=Ash%20Kalra`
 
 ## www.kaiserpermanente.org (1 URLs)
 
 - [ ] **Politicians/Democrats/House/Ash Kalra.md** (line 160)
   - Label: Kaiser Permanente: Official website and statements
-  - URL: `https://www.kaiserpermanente.org/?q=Ash%20Kalra`
+  - URL: `https://healthy.kaiserpermanente.org/oregon-washington/front-door?q=Ash%20Kalra`
 
 ## kalra.asmdc.org (1 URLs)
 
@@ -4487,7 +4487,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/House/Donna Miller/_Donna Miller Master Profile.md** (line 111)
   - Label: donnaforcongress.com
-  - URL: `https://www.donnaforcongress.com/?q=Donna%20Miller`
+  - URL: `https://donnaforcongress.com/?q=Donna%20Miller`
 
 ## www.fbi.gov (1 URLs)
 
@@ -4499,7 +4499,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/House/Henry Cuellar/_Henry Cuellar Master Profile.md** (line 135)
   - Label: League of Conservation Voters: Cuéllar Environmental Voting Record
-  - URL: `https://scorecard.lcv.org/?q=Henry%20Cuellar`
+  - URL: `https://www.lcv.org/congressional-scorecard/?q=Henry%20Cuellar`
 
 ## oversightdemocrats.house.gov (1 URLs)
 
@@ -4631,7 +4631,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Presidential/Bernie Sanders/The Anti-Donor Model - Two Presidential Campaigns.md** (line 103)
   - Label: PBS: Super Tuesday consolidation timeline
-  - URL: `https://pbs.org/?q=The%20Anti-Donor%20Model`
+  - URL: `https://www.pbs.org/?q=The%20Anti-Donor%20Model`
 
 ## brilliantmaps.com (1 URLs)
 
@@ -4643,7 +4643,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Presidential/JB Pritzker/The 323 Million Dollar Self-Funded Governor.md** (line 66)
   - Label: NBC News: Pritzker DGA spending
-  - URL: `https://nbcnews.com/?q=323%20Million%20Dollar%20Self-Funded%20Governor`
+  - URL: `https://www.nbcnews.com?q=323%20Million%20Dollar%20Self-Funded%20Governor`
 
 ## scholar.google.com (1 URLs)
 
@@ -4667,7 +4667,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Presidential/Joe Biden/The Student Loan Gambit - Promise Block and Political Credit.md** (line 180)
   - Label: Navient investor relations: Loan servicing revenue 2020–2024
-  - URL: `https://investors.navient.com/?q=The%20Student%20Loan%20Gambit`
+  - URL: `https://www.navient.com/investors/?q=The%20Student%20Loan%20Gambit`
 
 ## jewishinsider.com (1 URLs)
 
@@ -4685,7 +4685,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Presidential/Kamala Harris/Senate Record and 2020 Primary.md** (line 150)
   - Label: DOJ: FOSTA-SESTA impact assessment
-  - URL: `https://justice.gov/?q=Senate%20Record%20and%202020%20Primary`
+  - URL: `https://www.justice.gov/?q=Senate%20Record%20and%202020%20Primary`
 
 ## hackinghustling.org (1 URLs)
 
@@ -4697,7 +4697,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Presidential/Kamala Harris/Senate Record and 2020 Primary.md** (line 154)
   - Label: CNN: Harris "eliminate all of that" on private insurance (January 2019)
-  - URL: `https://cnn.com/?q=Senate%20Record%20and%202020%20Primary`
+  - URL: `https://www.cnn.com/?q=Senate%20Record%20and%202020%20Primary`
 
 ## beckershospitalreview.com (1 URLs)
 
@@ -4709,13 +4709,13 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Democrats/Presidential/Kamala Harris/Senate Record and 2020 Primary.md** (line 163)
   - Label: The Atlantic: Why Kamala Harris's campaign unraveled
-  - URL: `https://theatlantic.com/?q=Senate%20Record%20and%202020%20Primary`
+  - URL: `https://www.theatlantic.com/?q=Senate%20Record%20and%202020%20Primary`
 
 ## www.davisvanguard.org (1 URLs)
 
 - [ ] **Politicians/Democrats/Presidential/Kamala Harris/The Prosecutor Record - DA and AG.md** (line 192)
   - Label: Davis Vanguard: Gage and Cooper case analysis
-  - URL: `https://www.davisvanguard.org/?q=The%20Prosecutor%20Record`
+  - URL: `https://davisvanguard.org/?q=The%20Prosecutor%20Record`
 
 ## www.huffpost.com (1 URLs)
 
@@ -4841,7 +4841,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/International/Benjamin Netanyahu/Israel Hayom and the Corruption Cases.md** (line 87)
   - Label: Ynetnews — Pardon request and Herzog's response
-  - URL: `https://www.ynetnews.com/?q=Israel%20Hayom%20and%20the%20Corruption%20Cases`
+  - URL: `https://www.ynetnews.com/category/3083?q=Israel%20Hayom%20and%20the%20Corruption%20Cases`
 
 ## www.adelson.org (1 URLs)
 
@@ -4871,7 +4871,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/International/Benjamin Netanyahu/West Bank Annexation and Settlement Expansion.md** (line 99)
   - Label: Amnesty International — NSO Pegasus deployment
-  - URL: `https://www.amnesty.org/?q=West%20Bank%20Annexation%20and%20Settlement%20Expansion`
+  - URL: `https://www.amnesty.org/en/?q=West%20Bank%20Annexation%20and%20Settlement%20Expansion`
 
 ## www.timesofisrael.com (1 URLs)
 
@@ -4889,13 +4889,13 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/International/Benjamin Netanyahu/_Benjamin Netanyahu Master Profile.md** (line 153)
   - Label: Israeli Central Bureau of Statistics: Government spending data
-  - URL: `https://www.cbs.gov.il/?q=Benjamin%20Netanyahu`
+  - URL: `https://www.cbs.gov.il/he/cbsnewbrand/Pages/default.aspx?q=Benjamin%20Netanyahu`
 
 ## www.rivco.org (1 URLs)
 
 - [ ] **Politicians/Republicans/Governors/Chad Bianco/The Sheriff-to-Governor Pipeline and Law Enforcement Politics.md** (line 51)
   - Label: Riverside County: Sheriff's department budget
-  - URL: `https://www.rivco.org/?q=Sheriff-to-Governor%20Pipeline%20and%20Law%20Enforcement%20Politics`
+  - URL: `https://rivco.gov/?q=Sheriff-to-Governor%20Pipeline%20and%20Law%20Enforcement%20Politics`
 
 ## www.sos.arkansas.gov (1 URLs)
 
@@ -4931,7 +4931,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/House/Jason Smith/The Ways and Means Chair and TCJA Extension.md** (line 42)
   - Label: Tax Policy Center: TCJA extension distributional analysis
-  - URL: `https://www.taxpolicycenter.org/?q=Ways%20and%20Means%20Chair%20and%20TCJA%20Extension`
+  - URL: `https://taxpolicycenter.org/?q=Ways%20and%20Means%20Chair%20and%20TCJA%20Extension`
 
 ## conduct.house.gov (1 URLs)
 
@@ -5027,7 +5027,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/Guns/Guns - Donors and Backers.md** (line 82)
   - Label: GOA Public Reporting
-  - URL: `https://gunownersofamerica.com/?q=Guns`
+  - URL: `https://www.gunowners.org/?q=Guns`
 
 ## www.pfizer.com (1 URLs)
 
@@ -5045,7 +5045,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/Labor/Labor - Donors and Backers.md** (line 76)
   - Label: International Franchise Association Public Reporting
-  - URL: `https://franchise.org/?q=Labor`
+  - URL: `https://www.franchise.org/?q=Labor`
 
 ## www.opm.gov (1 URLs)
 
@@ -5063,7 +5063,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/Trade & Tariffs/Trade and Tariffs - Donors and Backers.md** (line 68)
   - Label: Steel Industry Earnings Data
-  - URL: `https://www.nucor.com/?q=Trade%20and%20Tariffs`
+  - URL: `https://nucor.com/?q=Trade%20and%20Tariffs`
 
 ## www.newyorkfed.org (1 URLs)
 
@@ -5099,7 +5099,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Senate/Shelley Moore Capito/The EPW Committee and West Virginia Energy Transition.md** (line 39)
   - Label: EPW Committee: About the committee
-  - URL: `https://www.epw.senate.gov/?q=EPW%20Committee%20and%20West%20Virginia%20Energy%20Transition`
+  - URL: `https://www.epw.senate.gov/public/?q=EPW%20Committee%20and%20West%20Virginia%20Energy%20Transition`
 
 ## www.ncbiotech.org (1 URLs)
 
@@ -5165,7 +5165,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Trump Cabinet/Kash Patel/Foreign Clients and the Qatar-China Conflicts.md** (line 65)
   - Label: Jewish Insider: Patel-Qatar security deals
-  - URL: `https://www.jewishinsider.com/?q=Foreign%20Clients%20and%20the%20Qatar-China%20Conflicts`
+  - URL: `https://jewishinsider.com/?q=Foreign%20Clients%20and%20the%20Qatar-China%20Conflicts`
 
 ## commercialobserver.com (1 URLs)
 
@@ -5183,7 +5183,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Trump Cabinet/Linda McMahon/School Choice and the Education Privatization Agenda.md** (line 68)
   - Label: Project 2025: Department of Education chapter
-  - URL: `https://www.project2025.org/?q=School%20Choice%20and%20the%20Education%20Privatization%20Agenda`
+  - URL: `https://www.mandateforleadership.org/?q=School%20Choice%20and%20the%20Education%20Privatization%20Agenda`
 
 ## www.tampabay.com (1 URLs)
 
@@ -5213,7 +5213,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Trump Cabinet/Russell Vought/Christian Nationalism and the Theological Budget.md** (line 91)
   - Label: The Conversation: Vought influence on Trump
-  - URL: `https://theconversation.com/?q=Christian%20Nationalism%20and%20the%20Theological%20Budget`
+  - URL: `https://theconversation.com/us?q=Christian%20Nationalism%20and%20the%20Theological%20Budget`
 
 ## www.aifonline.org (1 URLs)
 
@@ -5249,13 +5249,13 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Politicians/Republicans/Trump Cabinet/Vivek Ramaswamy/The Ohio Governor Race and the Billionaire Super PAC.md** (line 180)
   - Label: Signal Ohio: Ramaswamy fundraising analysis and Yass contribution
-  - URL: `https://www.signalohio.org/?q=Ohio%20Governor%20Race%20and%20the%20Billionaire%20Super%20PAC`
+  - URL: `https://signalohio.org/?q=Ohio%20Governor%20Race%20and%20the%20Billionaire%20Super%20PAC`
 
 ## www.ohiocapitaljournal.com (1 URLs)
 
 - [ ] **Politicians/Republicans/Trump Cabinet/Vivek Ramaswamy/The Ohio Governor Race and the Billionaire Super PAC.md** (line 181)
   - Label: Ohio Capital Journal: State record campaign fundraising and donor breakdown
-  - URL: `https://www.ohiocapitaljournal.com/?q=Ohio%20Governor%20Race%20and%20the%20Billionaire%20Super%20PAC`
+  - URL: `https://ohiocapitaljournal.com/?q=Ohio%20Governor%20Race%20and%20the%20Billionaire%20Super%20PAC`
 
 ## www.keystone-newsroom.org (1 URLs)
 
@@ -5309,7 +5309,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Stories/Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy.md** (line 171)
   - Label: Emerson College poll December 2025 (45-45 tie)
-  - URL: `https://www.emersonpollingsociety.org/?q=Ohio%202026`
+  - URL: `http://emersoncollegepolling.com/?q=Ohio%202026`
 
 ## emersonpolling.org (1 URLs)
 
@@ -5333,13 +5333,13 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Stories/Ohio 2026 Governor Race - The Structural Landscape.md** (line 145)
   - Label: Ohio Democratic Party: Candidate Finance Reports
-  - URL: `https://www.ohiodems.org/?q=Ohio%202026%20Governor%20Race`
+  - URL: `https://ohiodems.org/?q=Ohio%202026%20Governor%20Race`
 
 ## dos.elections.myflorida.com (1 URLs)
 
 - [ ] **Stories/2026 Senate Races/Florida 2026 Special Senate Election.md** (line 76)
   - Label: Laurel Lee state campaign finance records | Florida Elections Division
-  - URL: `https://dos.elections.myflorida.com/?q=Florida%202026%20Special%20Senate%20Election`
+  - URL: `https://dos.fl.gov/elections/?q=Florida%202026%20Special%20Senate%20Election`
 
 ## fossulfuelbloc.md (1 URLs)
 
@@ -5369,7 +5369,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Stories/Investigations/Crypto PAC Regulatory Capture - Fairshake 2026.md** (line 28)
   - Label: Center for Responsive Politics memo: "The Crypto Dark Money Ecosystem"
-  - URL: `https://www.responsivepolitics.org/?q=Crypto%20PAC%20Regulatory%20Capture`
+  - URL: `https://responsivepolitics.org?q=Crypto%20PAC%20Regulatory%20Capture`
 
 ## washingtonpost.com (1 URLs)
 
@@ -5393,25 +5393,25 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Stories/Investigations/Foreign Money in State Ballot Initiatives.md** (line 27)
   - Label: Campaign Legal Center: "The 501(c)(4) Loophole and Foreign Election Interference
-  - URL: `https://campaignlegalcenter.org/?q=Foreign%20Money%20in%20State%20Ballot%20Initiatives`
+  - URL: `https://campaignlegal.org/?q=Foreign%20Money%20in%20State%20Ballot%20Initiatives`
 
 ## cfpb.gov (1 URLs)
 
 - [ ] **Stories/Investigations/Payday Lending Regulatory Capture.md** (line 63)
   - Label: Tier 1 - CFPB Statement
-  - URL: `https://cfpb.gov/?q=Payday%20Lending%20Regulatory%20Capture`
+  - URL: `https://www.consumerfinance.gov/complaint/?q=Payday%20Lending%20Regulatory%20Capture`
 
 ## responsiblelending.org (1 URLs)
 
 - [ ] **Stories/Investigations/Payday Lending Regulatory Capture.md** (line 104)
   - Label: Center for Responsible Lending: Interest Rate Cap Analysis
-  - URL: `https://responsiblelending.org/?q=Payday%20Lending%20Regulatory%20Capture`
+  - URL: `https://www.responsiblelending.org/?q=Payday%20Lending%20Regulatory%20Capture`
 
 ## legislature.alabama.gov (1 URLs)
 
 - [ ] **Stories/Investigations/Sports Gambling Industry State Capture.md** (line 50)
   - Label: Tier 1 - Alabama State Legislature Records
-  - URL: `https://legislature.alabama.gov/?q=Sports%20Gambling%20Industry%20State%20Capture`
+  - URL: `https://alison.legislature.state.al.us?q=Sports%20Gambling%20Industry%20State%20Capture`
 
 ## ilga.gov (1 URLs)
 
@@ -5423,13 +5423,13 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Stories/Investigations/Sports Gambling Industry State Capture.md** (line 141)
   - Label: SAMHSA: Gambling Disorder Statistics
-  - URL: `https://samhsa.gov/?q=Sports%20Gambling%20Industry%20State%20Capture`
+  - URL: `https://www.samhsa.gov/?q=Sports%20Gambling%20Industry%20State%20Capture`
 
 ## bettergov.org (1 URLs)
 
 - [ ] **Stories/Investigations/Sports Gambling Industry State Capture.md** (line 142)
   - Label: Better Government Association: Illinois iGaming Report
-  - URL: `https://bettergov.org/?q=Sports%20Gambling%20Industry%20State%20Capture`
+  - URL: `https://www.bettergov.org/?q=Sports%20Gambling%20Industry%20State%20Capture`
 
 ## www.aljazeera.com (1 URLs)
 
@@ -5447,7 +5447,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Stories/Research Logs/2026-03-18 Finance Research.md** (line 63)
   - Label: netfile.fppc.ca.gov
-  - URL: `https://netfile.fppc.ca.gov/?q=2026-03-18%20Finance%20Research`
+  - URL: `https://form700.fppc.ca.gov?q=2026-03-18%20Finance%20Research`
 
 ## actual-url (1 URLs)
 
@@ -5483,19 +5483,19 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Stories/Vault Maintenance/Sources Master Node.md** (line 75)
   - Label: documented.net
-  - URL: `https://www.documented.net/?q=Sources%20Master%20Node`
+  - URL: `https://documented.net/?q=Sources%20Master%20Node`
 
 ## votesmart.org (1 URLs)
 
 - [ ] **Stories/Vault Maintenance/Sources Master Node.md** (line 87)
   - Label: votesmart.org
-  - URL: `https://votesmart.org/?q=Sources%20Master%20Node`
+  - URL: `https://justfacts.votesmart.org?q=Sources%20Master%20Node`
 
 ## www.cq.com (1 URLs)
 
 - [ ] **Stories/Vault Maintenance/Sources Master Node.md** (line 89)
   - Label: cq.com
-  - URL: `https://www.cq.com/?q=Sources%20Master%20Node`
+  - URL: `https://plus.cq.com/login?jumpto=https:/plus.cq.com/?q=Sources%20Master%20Node`
 
 ## ground.news (1 URLs)
 
@@ -5507,7 +5507,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Stories/Vault Maintenance/Sources Master Node.md** (line 101)
   - Label: aflegal.org
-  - URL: `https://www.aflegal.org/?q=Sources%20Master%20Node`
+  - URL: `https://aflegal.org/?q=Sources%20Master%20Node`
 
 ## www.heritage.org (1 URLs)
 
@@ -5519,7 +5519,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 - [ ] **Stories/Vault Maintenance/Sources Master Node.md** (line 117)
   - Label: maplight.org
-  - URL: `https://maplight.org/?q=Sources%20Master%20Node`
+  - URL: `https://www.maplight.org/?q=Sources%20Master%20Node`
 
 ## sunlightfoundation.com (1 URLs)
 

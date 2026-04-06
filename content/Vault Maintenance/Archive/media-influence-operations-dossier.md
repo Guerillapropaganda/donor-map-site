@@ -47,7 +47,7 @@ Newsmax Inc. went public on March 31, 2025 on the New York Stock Exchange under 
 
 - **1998 founding**: Ruddy launched Newsmax as a digital news site with **$300,000 in investments**, including a **$25,000 seed contribution** from Richard Mellon Scaife, the billionaire heir to the Mellon banking fortune and primary financial backer of the conservative movement. [Forbes: "Conservative News Outlet Newsmax Mints New Billionaire"](https://www.forbes.com/sites/giacomotognini/2025/03/31/newsmax-founder-chris-ruddy-is-a-billionaire-thanks-to-stock-surge/)
 - **$15 million from 200 investors**: The company subsequently raised $15 million from approximately 200 private investors. These early investors were later bought out — by approximately 2009, Ruddy held a **60% stake** and Scaife held approximately **40% as a silent partner**. Scaife died in 2014. [Wikipedia: "Richard Mellon Scaife"](https://en.wikipedia.org/wiki/Richard_Mellon_Scaife) | [Christopher Ruddy Wikipedia](https://en.wikipedia.org/wiki/Christopher_Ruddy)
-- **Richard Mellon Scaife's significance**: Scaife was the leading private financier of American conservative infrastructure — funding think tanks, legal foundations, campus newspapers, and publications including *The American Spectator*. He had previously paid Ruddy to pursue Clinton conspiracy stories at the Pittsburgh Tribune-Review. [SourceWatch: "Richard Mellon Scaife"](https://www.sourcewatch.org/index.php/Richard_Mellon_Scaife)
+- **Richard Mellon Scaife's significance**: Scaife was the leading private financier of American conservative infrastructure — funding think tanks, legal foundations, campus newspapers, and publications including *The American Spectator*. He had previously paid Ruddy to pursue Clinton conspiracy stories at the Pittsburgh Tribune-Review. [SourceWatch: "Richard Mellon Scaife"](https://www.sourcewatch.org/index.php?title=SourceWatch?title=SourceWatchindex.php/Richard_Mellon_Scaife)
 
 ### 1.3 Revenue Model
 
@@ -441,7 +441,7 @@ Beyond Narya Capital's institutional investment, JD Vance took a **personal equi
 Narya Capital's investment thesis was explicitly ideological. Colin Greenspon later described it: *"Narya invested in Rumble with a thesis around free-speech before Twitter was acquired by Elon."* [We The Builders: VP JD Vance, Peter Thiel & Thesis Driven Investing](https://wethebuilders.us/p/ep10-working-w-vp-jd-vance-peter)
 
 ### Vivek Ramaswamy's Stake
-New York Times reporting from July 2023 disclosed that **Vivek Ramaswamy** held up to **$25 million** in Rumble, making him one of the platform's larger investors. This was revealed through his presidential campaign financial disclosures and had not been publicly known prior. Pavlovski confirmed Ramaswamy invested in the "first public round prior to going public" alongside Narya Capital and Peter Thiel. Multiple sources confirm the investment was approximately $25 million. [YouTube: PBD Podcast — Vivek Ramaswamy Rumble investment](https://www.youtube.com/watch?v=WtcM3UE6JxY); [New York Post: Vivek Ramaswamy net worth](https://nypost.com/2023/08/24/vivek-ramaswamy-is-worth-950-million-heres-how-he-became-rich/)
+New York Times reporting from July 2023 disclosed that **Vivek Ramaswamy** held up to **$25 million** in Rumble, making him one of the platform's larger investors. This was revealed through his presidential campaign financial disclosures and had not been publicly known prior. Pavlovski confirmed Ramaswamy invested in the "first public round prior to going public" alongside Narya Capital and Peter Thiel. Multiple sources confirm the investment was approximately $25 million. [YouTube: PBD Podcast — Vivek Ramaswamy Rumble investment](https://www.youtube.com?v=WtcM3UE6JxY); [New York Post: Vivek Ramaswamy net worth](https://nypost.com/2023/08/24/vivek-ramaswamy-is-worth-950-million-heres-how-he-became-rich/)
 
 ### David McCormick (Pennsylvania Senator)
 Republican Senator David McCormick holds between **$1 million and $5 million** in Rumble stock, per his FEC financial disclosures. He made at least $100,000 on his investment. Pennsylvania Democrats and the Anti-Defamation League criticized the investment given Rumble's hosting of Holocaust denial and antisemitic content; McCormick refused to divest. [CBS Pittsburgh: McCormick meets with Jewish community over Rumble investments](https://www.cbsnews.com/pittsburgh/news/dave-mccormick-jewish-community-antisemitism-website-investments/)
@@ -826,7 +826,7 @@ Russian bots **promoted Trump via InfoWars** during the 2016 presidential electi
 
 The effective "advertising" on InfoWars was Jones himself promoting his own supplements. However:
 - Major brands had ads appear via Google/YouTube ad networks adjacent to Jones content prior to 2018 — all withdrew when this was publicized
-- The gun control group **Everytown for Gun Safety** committed to a "multi-year advertising partnership" with the planned Onion-relaunched InfoWars after the November 2024 auction win [Al Jazeera: "Not a parody: The Onion acquires Alex Jones's InfoWars in auction"](https://www.aljazeera.com/news/2024/11/14/not-a-parody-the-onion-acquires-alex-joness-infowars-in-auction)
+- The gun control group **Everytown for Gun Safety** committed to a "multi-year advertising partnership" with the planned Onion-relaunched InfoWars after the November 2024 auction win [Al Jazeera: "Not a parody: The Onion acquires Alex Jones's InfoWars in auction"](https://www.aljazeera.com/news/2024/11/14/not-a-parody-the-onion-acquires-alex-joness-infowars)
 - The Revcontent network placed paid content recommendation widgets at the bottom of InfoWars articles
 
 ---
@@ -1492,7 +1492,7 @@ No public FEC complaints specifically naming Jones for these activities have bee
 
 ### Free Speech Systems / InfoWars as Political Operation
 
-Jones's various entities operated in a gray area between media organization and political operation. [ABC News/YouTube investigation (November 2024)](https://www.youtube.com/watch?v=5nziiH-lbT8) documented that Jones explicitly told his audience: *"I have invested hundreds of thousands of dollars in making sure this happened,"* referring to the January 6 rallies, and that InfoWars supplement sales revenue directly funded political activities.
+Jones's various entities operated in a gray area between media organization and political operation. [ABC News/YouTube investigation (November 2024)](https://www.youtube.com?v=5nziiH-lbT8) documented that Jones explicitly told his audience: *"I have invested hundreds of thousands of dollars in making sure this happened,"* referring to the January 6 rallies, and that InfoWars supplement sales revenue directly funded political activities.
 
 This model — commercial revenues from supplement sales funding political rally operations — has not been formally adjudicated as a campaign finance violation.
 
@@ -1506,7 +1506,7 @@ In **August 2022**, immediately after being ordered to pay $49.3 million in puni
 
 ### Return to Trump Support (2024)
 
-By the **2024 election cycle**, Jones had returned to Trump's orbit. Per [ABC News (November 2024)](https://www.youtube.com/watch?v=5nziiH-lbT8), Jones and other conservative media figures amplified Trump's narrative that he had been transformed "from perpetrator to victim" — consistent with Trump's comeback story. Jones was described as *"some of the strongest and loudest supporters"* of Trump.
+By the **2024 election cycle**, Jones had returned to Trump's orbit. Per [ABC News (November 2024)](https://www.youtube.com?v=5nziiH-lbT8), Jones and other conservative media figures amplified Trump's narrative that he had been transformed "from perpetrator to victim" — consistent with Trump's comeback story. Jones was described as *"some of the strongest and loudest supporters"* of Trump.
 
 ### InfoWars Bankruptcy and Receivership (2024–2025)
 
@@ -1773,7 +1773,7 @@ All six creators claimed ignorance of the Russian funding:
 - **Tayler Hansen:** Announced on September 5 that the company had shut down. [Wikipedia](https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation)
 - **Lauren Southern:** Did not respond to requests for comment initially. [CBC investigation](https://www.cbc.ca/news/investigates/russian-influence-election-tenet-media-chen-southern-1.7314976)
 
-The DOJ itself stated that the influencers were **"unwitting" participants** — the government did not allege the creators knew about the Russian funding. [PBS](https://www.pbs.org/newshour/politics/well-known-right-wing-influencers-duped-to-work-for-covert-russian-operation-u-s-prosecutors-say/)
+The DOJ itself stated that the influencers were **"unwitting" participants** — the government did not allege the creators knew about the Russian funding. [PBS](https://www.pbs.org/newshour/politics/well-known-right-wing-influencers-duped-to-work-for-covert-russian-operation-u-s-prosecutors-say)
 
 ---
 
@@ -1910,7 +1910,7 @@ Tenet's platforms featured prominently political guests aligned with the Trump w
 - **Donald Trump Jr.** — Interviewed by Benny Johnson on the Tenet platform
 - **Tim Pool** had also interviewed **Donald Trump** himself on his podcast in May 2024
 
-[Wikipedia / PBS](https://www.pbs.org/newshour/politics/well-known-right-wing-influencers-duped-to-work-for-covert-russian-operation-u-s-prosecutors-say/)
+[Wikipedia / PBS](https://www.pbs.org/newshour/politics/well-known-right-wing-influencers-duped-to-work-for-covert-russian-operation-u-s-prosecutors-say)
 
 ### Russian Strategic Goals Served
 
@@ -1966,7 +1966,7 @@ As of available reporting through late 2025:
 - Both **Kostiantyn Kalashnikov** and **Elena Afanasyeva** remain **at large in Russia**.
 - The case filed in the Southern District of New York remains **nominally open** — as confirmed by court records reviewed by The Bulwark (December 2025).
 - However, extradition from Russia is considered **effectively impossible**; Russia does not extradite its nationals.
-- A Substack analysis noted: "As of October 2025, the DOJ case against Kalashnikov and Afanasyeva remains open. Both are in Russia, making extradition improbable and the charges largely symbolic." [The Tenet Media Scandal, Substack](https://open.substack.com/pub/davidfasgold/p/the-tenet-media-scandal-when-independent)
+- A Substack analysis noted: "As of October 2025, the DOJ case against Kalashnikov and Afanasyeva remains open. Both are in Russia, making extradition improbable and the charges largely symbolic." [The Tenet Media Scandal, Substack](https://davidfasgold.substack.com/p/the-tenet-media-scandal-when-independent?triedRedirect=true)
 
 ### Investigation into Founders — Closed Without Charges (April 2025)
 
