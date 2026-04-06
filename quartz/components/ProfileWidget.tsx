@@ -115,6 +115,42 @@ const ProfileWidget: QuartzComponent = ({
   const hasBothSides = bothSidesData.length > 0
   const hasNetwork = networkData.length > 0
 
+  // ── GRAPH TAB: Build 1-hop neighborhood for mini force graph ──
+  const miniGraphNodes: { id: string; name: string; type: string; party?: string; sector?: string; slug: string }[] = []
+  const miniGraphEdges: { source: string; target: string }[] = []
+  const miniNodeIds = new Set<string>()
+
+  // Center node (current profile)
+  const centerId = slug
+  miniGraphNodes.push({
+    id: centerId,
+    name: currentTitle,
+    type: fmType === "politician" ? "politician" : "donor",
+    party: party || undefined,
+    slug: `${basePath}/${simplifySlug(fileData.slug!)}`,
+  })
+  miniNodeIds.add(centerId)
+
+  // Add connected donors
+  for (const donorName of topDonors.slice(0, 15)) {
+    const info = donorInfo.get(donorName)
+    const donorId = info?.slug ?? donorName
+    if (!miniNodeIds.has(donorId)) {
+      miniGraphNodes.push({
+        id: donorId,
+        name: donorName,
+        type: "donor",
+        sector: info?.sector,
+        slug: info?.slug ?? "",
+      })
+      miniNodeIds.add(donorId)
+    }
+    miniGraphEdges.push({ source: centerId, target: donorId })
+  }
+
+  const miniGraphData = JSON.stringify({ nodes: miniGraphNodes, edges: miniGraphEdges })
+  const hasMiniGraph = topDonors.length > 0
+
   return (
     <div class={classNames(displayClass, "pw-widget")}>
       {/* Tabs */}
@@ -122,6 +158,7 @@ const ProfileWidget: QuartzComponent = ({
         <button class="pw-tab pw-tab-active" data-tab="flow">Donors</button>
         {hasBothSides && <button class="pw-tab" data-tab="both">Both Sides</button>}
         {hasNetwork && <button class="pw-tab" data-tab="network">Reach</button>}
+        {hasMiniGraph && <button class="pw-tab" data-tab="graph">Graph</button>}
       </div>
 
       {/* Tab: Flow — Top Donors */}
@@ -193,6 +230,13 @@ const ProfileWidget: QuartzComponent = ({
           ))}
         </div>
       )}
+
+      {/* Tab: Graph — Mini force-directed graph */}
+      {hasMiniGraph && (
+        <div class="pw-panel" data-panel="graph">
+          <div class="pw-mini-graph" data-graph={miniGraphData}></div>
+        </div>
+      )}
     </div>
   )
 }
@@ -215,6 +259,11 @@ function initProfileWidget() {
       tab.classList.add('pw-tab-active');
       var panel = widget.querySelector('[data-panel="' + target + '"]');
       if (panel) panel.classList.add('pw-panel-active');
+
+      // Trigger mini-graph render when graph tab is shown
+      if (target === 'graph' && typeof window.initMiniGraph === 'function') {
+        setTimeout(window.initMiniGraph, 50);
+      }
     });
   });
 }
@@ -463,6 +512,22 @@ a.pw-bs-recip:hover {
   font-size: 10px;
   color: #8a8a96;
   flex-shrink: 0;
+}
+
+/* ─── Mini Graph tab ────────────────────────── */
+
+.pw-mini-graph {
+  width: 100%;
+  height: 260px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0c0c0f;
+  border-radius: 6px;
+}
+
+.pw-mini-graph svg {
+  border-radius: 6px;
 }
 
 /* ─── Hide on mobile (right sidebar hides) ─── */

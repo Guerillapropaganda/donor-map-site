@@ -1,0 +1,195 @@
+/* ═══════════════════════════════════════════════
+   NETWORK GRAPH — Force-directed donor-politician graph
+   ═══════════════════════════════════════════════ */
+
+.dm-ng-container {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 120px);
+  min-height: 500px;
+  background: #0c0c0f;
+  border: 1px solid #1e1e28;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-top: 16px;
+}
+
+/* ─── Controls bar ─────────────────────────── */
+.dm-ng-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 16px;
+  background: #13131a;
+  border-bottom: 1px solid #1e1e28;
+  flex-wrap: wrap;
+}
+
+.dm-ng-search-wrap {
+  flex: 1;
+  min-width: 160px;
+  max-width: 280px;
+}
+
+.dm-ng-search {
+  width: 100%;
+  padding: 6px 10px;
+  background: #0c0c0f;
+  border: 1px solid #1e1e28;
+  border-radius: 4px;
+  color: #e4e4e7;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  outline: none;
+  transition: border-color 0.15s;
+
+  &:focus {
+    border-color: #5b8dce;
+  }
+
+  &::placeholder {
+    color: #7a7a86;
+  }
+}
+
+.dm-ng-filters {
+  display: flex;
+  gap: 4px;
+}
+
+.dm-ng-filter {
+  padding: 5px 10px;
+  background: none;
+  border: 1px solid #1e1e28;
+  border-radius: 4px;
+  color: #8a8a96;
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  transition: all 0.15s;
+
+  &:hover {
+    color: #b4b4bc;
+    border-color: #2a2a36;
+  }
+}
+
+.dm-ng-filter-active {
+  color: #5b8dce !important;
+  border-color: #5b8dce !important;
+  background: rgba(91, 141, 206, 0.08) !important;
+}
+
+.dm-ng-node-count {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: auto;
+}
+
+.dm-ng-count-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: #7a7a86;
+}
+
+.dm-ng-count-slider {
+  width: 80px;
+  accent-color: #5b8dce;
+  cursor: pointer;
+}
+
+.dm-ng-count-value {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #b4b4bc;
+  min-width: 28px;
+  text-align: right;
+}
+
+/* ─── Viewport ─────────────────────────────── */
+.dm-ng-viewport {
+  width: 100%;
+  height: calc(100% - 50px);
+  overflow: hidden;
+}
+
+.dm-ng-svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* ─── Tooltip ──────────────────────────────── */
+.dm-ng-tooltip {
+  position: fixed;
+  background: #13131a;
+  border: 1px solid #1e1e28;
+  border-radius: 6px;
+  padding: 10px 12px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #b4b4bc;
+  pointer-events: none;
+  z-index: 1000;
+  max-width: 240px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+}
+
+/* ─── Legend ────────────────────────────────── */
+.dm-ng-legend {
+  position: absolute;
+  bottom: 12px;
+  left: 12px;
+  display: flex;
+  gap: 12px;
+  background: rgba(19, 19, 26, 0.9);
+  border: 1px solid #1e1e28;
+  border-radius: 6px;
+  padding: 8px 12px;
+}
+
+.dm-ng-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: #8a8a96;
+}
+
+/* ─── Node hover glow ──────────────────────── */
+.dm-ng-node:hover .dm-ng-shape {
+  filter: drop-shadow(0 0 6px currentColor);
+}
+
+/* ─── Mobile ───────────────────────────────── */
+@media (max-width: 800px) {
+  .dm-ng-container {
+    height: calc(100vh - 160px);
+    min-height: 400px;
+  }
+
+  .dm-ng-controls {
+    padding: 8px 10px;
+    gap: 8px;
+  }
+
+  .dm-ng-search-wrap {
+    max-width: none;
+    order: -1;
+    flex-basis: 100%;
+  }
+
+  .dm-ng-node-count {
+    margin-left: 0;
+  }
+
+  .dm-ng-legend {
+    gap: 8px;
+    padding: 6px 8px;
+    font-size: 9px;
+  }
+}
