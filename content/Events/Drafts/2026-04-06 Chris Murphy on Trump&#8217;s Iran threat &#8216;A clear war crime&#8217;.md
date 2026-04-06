@@ -1,5 +1,5 @@
 ---
-title: "Chris Murphy on Trump&#8217;s Iran threat &#8216;A clear war crime&#8217;"
+title: "Chris Murphy on Trump’s Iran threat ‘A clear war crime’"
 type: event
 date: 2026-04-06
 status: draft
@@ -11,7 +11,7 @@ profiles:
 
 #event #draft
 
-## Chris Murphy on Trump&#8217;s Iran threat: &#8216;A clear war crime&#8217;
+## Chris Murphy on Trump’s Iran threat: ‘A clear war crime’
 
 **Source:** [The Hill](https://thehill.com/homenews/senate/5817456-murphy-slams-trump-iran-threats/)
 **Date:** 2026-04-06

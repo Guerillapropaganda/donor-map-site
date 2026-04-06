@@ -1,5 +1,5 @@
 ---
-title: "Kaine Bondi firing &#8216;should be a lesson&#8217; for next attorney general no"
+title: "Kaine Bondi firing ‘should be a lesson’ for next attorney general no"
 type: event
 date: 2026-04-05
 status: draft
@@ -11,7 +11,7 @@ profiles:
 
 #event #draft
 
-## Kaine: Bondi firing &#8216;should be a lesson&#8217; for next attorney general nominee
+## Kaine: Bondi firing ‘should be a lesson’ for next attorney general nominee
 
 **Source:** [The Hill](https://thehill.com/homenews/senate/5816960-kaine-bondi-firing-lesson/)
 **Date:** 2026-04-05

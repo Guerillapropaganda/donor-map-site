@@ -1,5 +1,5 @@
 ---
-title: "House Republican &#8216;Only purpose&#8217; for US boots on the ground in Iran i"
+title: "House Republican ‘Only purpose’ for US boots on the ground in Iran i"
 type: event
 date: 2026-04-05
 status: draft
@@ -11,7 +11,7 @@ profiles:
 
 #event #draft
 
-## House Republican: &#8216;Only purpose&#8217; for US boots on the ground in Iran is &#8216;to get the enriched uranium&#8217;
+## House Republican: ‘Only purpose’ for US boots on the ground in Iran is ‘to get the enriched uranium’
 
 **Source:** [The Hill](https://thehill.com/homenews/house/5816999-lawler-iran-us-troops-uranium/)
 **Date:** 2026-04-05

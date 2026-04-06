@@ -1,5 +1,5 @@
 ---
-title: "Top Armed Services Democrat says Iran war &#8216;mistake in large part because o"
+title: "Top Armed Services Democrat says Iran war ‘mistake in large part because o"
 type: event
 date: 2026-04-05
 status: draft
@@ -11,7 +11,7 @@ profiles:
 
 #event #draft
 
-## Top Armed Services Democrat says Iran war &#8216;mistake in large part because of the cost&#8217;
+## Top Armed Services Democrat says Iran war ‘mistake in large part because of the cost’
 
 **Source:** [The Hill](https://thehill.com/homenews/house/5817053-adam-smith-slams-iran-war-cost/)
 **Date:** 2026-04-05

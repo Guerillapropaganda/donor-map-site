@@ -1,5 +1,5 @@
 ---
-title: "Live updates Trump warns all of Iran &#8216;could be taken out in one night&#821"
+title: "Live updates Trump warns all of Iran ‘could be taken out in one night&#821"
 type: event
 date: 2026-04-06
 status: draft
@@ -12,7 +12,7 @@ profiles:
 
 #event #draft
 
-## Live updates: Trump warns all of Iran &#8216;could be taken out in one night&#8217; as he sticks to deadline
+## Live updates: Trump warns all of Iran ‘could be taken out in one night’ as he sticks to deadline
 
 **Source:** [The Hill](https://thehill.com/homenews/administration/5816939-trump-iran-press-conference/)
 **Date:** 2026-04-06

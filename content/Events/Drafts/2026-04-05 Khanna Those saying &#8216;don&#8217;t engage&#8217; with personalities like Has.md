@@ -1,5 +1,5 @@
 ---
-title: "Khanna Those saying &#8216;don&#8217;t engage&#8217; with personalities like Has"
+title: "Khanna Those saying ‘don’t engage’ with personalities like Has"
 type: event
 date: 2026-04-05
 status: draft
@@ -11,7 +11,7 @@ profiles:
 
 #event #draft
 
-## Khanna: Those saying &#8216;don&#8217;t engage&#8217; with personalities like Hasan Piker &#8216;will cost us future elections&#8217;
+## Khanna: Those saying ‘don’t engage’ with personalities like Hasan Piker ‘will cost us future elections’
 
 **Source:** [The Hill](https://thehill.com/homenews/campaign/5817164-khanna-defends-engagement-hasan-piker/)
 **Date:** 2026-04-05

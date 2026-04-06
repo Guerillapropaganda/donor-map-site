@@ -1,5 +1,5 @@
 ---
-title: "Senate Democrat says Trump &#8216;needs a lot of prayer&#8217;"
+title: "Senate Democrat says Trump ‘needs a lot of prayer’"
 type: event
 date: 2026-04-05
 status: draft
@@ -11,7 +11,7 @@ profiles:
 
 #event #draft
 
-## Senate Democrat says Trump &#8216;needs a lot of prayer&#8217;
+## Senate Democrat says Trump ‘needs a lot of prayer’
 
 **Source:** [The Hill](https://thehill.com/homenews/senate/5816985-warock-trump-accountability-prayer-easter/)
 **Date:** 2026-04-05

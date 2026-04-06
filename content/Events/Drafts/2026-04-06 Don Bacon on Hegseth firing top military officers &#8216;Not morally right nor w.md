@@ -1,5 +1,5 @@
 ---
-title: "Don Bacon on Hegseth firing top military officers &#8216;Not morally right nor w"
+title: "Don Bacon on Hegseth firing top military officers ‘Not morally right nor w"
 type: event
 date: 2026-04-06
 status: draft
@@ -11,7 +11,7 @@ profiles:
 
 #event #draft
 
-## Don Bacon on Hegseth firing top military officers: &#8216;Not morally right nor wise&#8217;
+## Don Bacon on Hegseth firing top military officers: ‘Not morally right nor wise’
 
 **Source:** [The Hill](https://thehill.com/policy/defense/5817959-don-bacon-calls-out-hegseth/)
 **Date:** 2026-04-06

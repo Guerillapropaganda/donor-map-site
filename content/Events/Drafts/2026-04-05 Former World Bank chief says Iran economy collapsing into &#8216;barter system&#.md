@@ -1,5 +1,5 @@
 ---
-title: "Former World Bank chief says Iran economy collapsing into &#8216;barter system&#"
+title: "Former World Bank chief says Iran economy collapsing into ‘barter system&#"
 type: event
 date: 2026-04-05
 status: draft
@@ -11,7 +11,7 @@ profiles:
 
 #event #draft
 
-## Former World Bank chief says Iran economy collapsing into &#8216;barter system&#8217; amid conflict
+## Former World Bank chief says Iran economy collapsing into ‘barter system’ amid conflict
 
 **Source:** [The Hill](https://thehill.com/policy/international/5816733-iran-economy-collapse-predicted/)
 **Date:** 2026-04-05

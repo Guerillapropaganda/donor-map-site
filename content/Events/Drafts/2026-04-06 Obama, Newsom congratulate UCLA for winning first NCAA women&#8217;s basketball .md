@@ -1,5 +1,5 @@
 ---
-title: "Obama, Newsom congratulate UCLA for winning first NCAA women&#8217;s basketball "
+title: "Obama, Newsom congratulate UCLA for winning first NCAA women’s basketball "
 type: event
 date: 2026-04-06
 status: draft
@@ -11,7 +11,7 @@ profiles:
 
 #event #draft
 
-## Obama, Newsom congratulate UCLA for winning first NCAA women&#8217;s basketball championship
+## Obama, Newsom congratulate UCLA for winning first NCAA women’s basketball championship
 
 **Source:** [The Hill](https://thehill.com/blogs/in-the-know/5817416-ucla-bruins-win-first-ncaa-title/)
 **Date:** 2026-04-06
