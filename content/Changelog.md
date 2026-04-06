@@ -11,6 +11,12 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 
 ## 2026-04-05
 
+### Pipeline Fixes (engine repo)
+- **ProPublica 990 pipeline was hitting corporations** — the pipeline queried the ProPublica Nonprofit Explorer for ALL donor-type profiles including public corporations. Lockheed Martin matched a tiny foundation ($137K revenue), Devon Energy matched a $1 shell entity. Now skips `entity-type: "Corporation"` and `"Individual Donor"` — 990 data only goes to nonprofits, PACs, and think tanks.
+- **Stripped bogus 990 data from 16 corporation profiles** — removed `ein`, `annual-revenue`, `net-assets`, `tax-year`, `employee-count` frontmatter and `Financial Overview` auto-blocks from: Cargill, John Deere, Tyson Foods, Aramark, General Dynamics, Lockheed Martin, Northrop Grumman, Devon Energy, Marathon Petroleum, PG&E, Williams Companies, Humana, Johnson & Johnson, National Rental Home Council, Carlyle Group, Morgan Stanley. **Research Claude: if you built analysis on any of these Financial Overview sections, that data was wrong — it came from unrelated nonprofit EINs, not the actual corporations.**
+- **Fixed duplicate `last-updated` frontmatter keys** — consolidated 7 copy-pasted `updateFrontmatter()` functions into `shared.cjs` with key deduplication. Fixed existing duplicates in Adelson Family + Sheldon Adelson.
+- **Fixed enrichment pipeline timeout** — step timeout 15→18min, job 20→25min. Replaced heredoc in `$GITHUB_OUTPUT` with temp file so timeouts can't corrupt the output stream and kill the commit step. Every scheduled run was hitting the 15min ceiling; 2 of 4 daily runs were failing.
+
 ### Site Polish
 - **Listing filter bar** — added Profiles/Notes toggle + per-source-tier filter chips to folder + tag listings, auto-hides when listing has no variety
 - **Folder entries enriched** — master-profile folders now inherit their master's frontmatter (party, state, sector, tier, readiness) so they render with dots + meta line + chips like regular profile entries
