@@ -2,11 +2,14 @@
 title: "Harry Reid"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Senate"
+govtrack-id: 300082
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 #politician #nevada-machine #gaming-industry #donor-extraction #senate-power
@@ -81,3 +84,14 @@ The Nevada machine illustrates how a regional power can balance labor alliance w
 ---
 
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 11,661 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300082) (Tier 1)
+<!-- auto:govtrack end -->

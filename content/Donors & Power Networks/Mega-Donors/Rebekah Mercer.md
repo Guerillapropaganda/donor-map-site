@@ -2,7 +2,7 @@
 title: "Rebekah Mercer"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -10,6 +10,7 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
   - "Steve Bannon"
+total-political-spend: "$1,838,065"
 ---
 
 
@@ -68,3 +69,28 @@ Long-term institutional control over the conservative movement's infrastructure.
 
 research-status:: ready — Heritage board, Project 2025 $1.6M, DonorsTrust $31M, transition committee, Tucker Carlson $15M, GAI chairwoman, institutional capture strategy. 5 sources, Tier 2. All ### headers. Promoted Session 38m.
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,838,065 |
+| Contributions | 252 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| TRUMP VICTORY | $449,400 | — |
+| REPUBLICAN NATIONAL COMMITTEE | $364,800 | REP |
+| ROMNEY VICTORY INC | $65,800 | — |
+| CLUB FOR GROWTH PAC | $64,400 | — |
+| PROTECT OHIO VALUES PAC (POV PAC) | $50,000 | — |
+| COALITION FOR AMERICAN VALUES PAC | $50,000 | — |
+| THE FOUNDERS COMMITTEE | $38,000 | — |
+| FOUNDERS COMMITTEE; THE | $29,700 | — |
+| WINRED | $28,200 | — |
+| FOUNDERS SENATE CANDIDATE COMMITTEE | $25,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Rebekah%20Mercer) (Tier 1)
+<!-- auto:fec-donor end -->

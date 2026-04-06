@@ -2,7 +2,7 @@
 title: "Morgan Stanley"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Chuck Schumer"
 issues:
   - "Wall Street & Finance"
+federal-contracts: "22671"
 ---
 
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying
@@ -73,3 +74,27 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 - [Ballotpedia: Morgan Stanley political spending](https://ballotpedia.org/Morgan_Stanley) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 22671 |
+| Sample Value (top 25) | $160.7M |
+| Year Range | 2006-2024 |
+| Federal Agencies | 5 |
+
+**Contracting agencies:** AGRICULTURE, DEPARTMENT OF, DEPT OF DEFENSE, ENERGY, DEPARTMENT OF, SOCIAL SECURITY ADMINISTRATION, VETERANS AFFAIRS, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $12.1M | ENERGY, DEPARTMENT OF | 2007-08-15 |
+| $12.1M | ENERGY, DEPARTMENT OF | 2007-08-30 |
+| $12.1M | ENERGY, DEPARTMENT OF | 2011-03-16 |
+| $12.1M | ENERGY, DEPARTMENT OF | 2007-10-16 |
+| $12.1M | ENERGY, DEPARTMENT OF | 2008-09-16 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Morgan%20Stanley&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

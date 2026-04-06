@@ -2,7 +2,7 @@
 title: "Founders Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -15,6 +15,7 @@ issues:
   - "Technology"
   - "Defense & Military"
   - "Dark Money & Campaign Finance"
+federal-contracts: "2662"
 ---
 
 #founders-fund #peter-thiel #venture-capital #tech #libertarian #palantir #republican #defense #paypal-mafia #dark-money #class-analysis #follow-the-money
@@ -154,3 +155,27 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 
 research-status:: developed — Full donor spending data from FEC/OpenSecrets, donation-to-policy timeline with 8 entries, Palantir and Anduril contract documentation, PayPal Mafia personnel placement documented. Gaps: Founders Fund LP disclosure (private — may not be obtainable), Thiel's pre-2020 contribution history needs deeper FEC pull, Narya Capital (Vance's fund) relationship to Founders Fund needs more documentation.
 content-readiness:: developed
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 2662 |
+| Sample Value (top 25) | $921K |
+| Year Range | 2008-2024 |
+| Federal Agencies | 4 |
+
+**Contracting agencies:** COMMERCE, DEPARTMENT OF, DEPT OF DEFENSE, ENVIRONMENTAL PROTECTION AGENCY, HOMELAND SECURITY, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $67K | HOMELAND SECURITY, DEPARTMENT OF | 2017-12-27 |
+| $14K | DEPT OF DEFENSE | 2008-05-06 |
+| $10K | DEPT OF DEFENSE | 2008-06-05 |
+| $6K | COMMERCE, DEPARTMENT OF | 2008-03-18 |
+| $1K | ENVIRONMENTAL PROTECTION AGENCY | 2008-11-25 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Founders%20Fund&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

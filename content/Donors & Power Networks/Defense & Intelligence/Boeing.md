@@ -2,7 +2,7 @@
 title: "Boeing"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -13,6 +13,9 @@ politicians-funded:
   - "Elizabeth Warren"
 issues:
   - "Defense & Military"
+federal-awards-total: 21221024559
+federal-contracts-count: 25
+federal-grants-count: 23
 ---
 
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor
@@ -183,3 +186,35 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 
 research-status:: ready — Full citation pass complete. 737 MAX safety-profit contradiction, $43.4B buyback trap, 85-hire revolving door, Starliner failure, $206M lifetime lobbying. March 2026: Fischer earmark ROI ($34K → $60M MH-139A Grey Wolf), Iran war production scaling, $12.8B January 2026 contracts. 25+ sources (Tier 1-2), all ### headers, class analysis present. Updated gp-donor-node-builder Run 5 (March 25, 2026).
 content-readiness:: ready
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $21.2B |
+| Contracts (recent 3yr) | 25 ($229.5B sampled) |
+| Grants (recent 3yr) | 23 ($117.5M sampled) |
+| Federal Agencies | 5 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $32.0B | Department of Defense | KC-X MODERNIZATION PROGRAM |
+| $22.4B | National Aeronautics and Space Administration | INTERNATIONAL SPACE STATION |
+| $18.8B | Department of Defense | 200112!000108!9700!ZD60 !BALLISTIC MISSILE DEFENSE ORG. !HQ000601C0001 !A!N!*!N! !20001222!20080930! |
+| $18.1B | Department of Defense | USN P-8A FRP II LONG LEAD MATERIAL |
+| $11.2B | Department of Defense | RSAF F-15 FLEET MODERNIZATION PROGRAM |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $45.9M | National Aeronautics and Space Administration | 1. P1.TPC.IMP: THERMOPLASTICS - INTEGRATED MASTER SCHEDULE & PLAN DEVELOPMENT  2. RESIN INFUSION - I |
+| $11.5M | Department of Defense | GRANT |
+| $10.8M | Department of Defense | NEXT GENERATION ROTORCRAFT TRANSMISSION |
+| $10.0M | National Aeronautics and Space Administration | SINGLE SOURCE: TRANSONIC TRUSS BRACED WING VISION VEHICLE TECHNOLOGY DEVELOPMENT (5 JULY 2023) |
+| $6.0M | Department of Defense | RESILIENT, VERSATILE SPACE PHOTOVOLTAIC FACTORY FOR CONTESTED SPACE ENVIRONMENTS AND AN EVOLVING MAR |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Boeing) (Tier 1)
+<!-- auto:usaspending end -->

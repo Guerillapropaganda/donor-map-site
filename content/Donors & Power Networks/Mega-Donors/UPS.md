@@ -2,7 +2,7 @@
 title: "UPS"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -10,6 +10,8 @@ entity-type: "Corporation"
 issues:
   - "Labor & Workers"
   - "Trade"
+lobbying-spend: 13916198
+lobbying-filings: 87
 ---
 
 #ups #logistics #shipping #teamsters #labor #bipartisan #trade #postal #transportation #revolving-door #class-analysis #follow-the-money
@@ -156,3 +158,22 @@ The class analysis conclusion: corporate political spending is effective against
 ---
 
 content-readiness:: developed
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $13.9M |
+| Quarterly Filings | 87 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 9 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Aviation/Airlines/Airports, Budget/Appropriations, Consumer Issues/Safety/Products, Defense, Environment/Superfund, Food Industry (safety, labeling, etc.), Government Issues, Health Issues, Homeland Security, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Medicare/Medicaid, Postal, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Trucking/Shipping
+
+**Lobbying firms:** DUANE MORRIS GOVERNMENT STRATEGIES, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FIERCE GOVERNMENT RELATIONS, GROUNDSWELL STRATEGY LLC, OSCAR POLICY GROUP, LLC, THE RUSSELL GROUP, INC., UPS (UNITED PARCEL SERVICE), UPSTREAM CONSULTING, INC., UPSTREAM USA
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Health Resources & Services Administration (HRSA) +15 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=UPS) (Tier 1)
+<!-- auto:lda-lobbying end -->

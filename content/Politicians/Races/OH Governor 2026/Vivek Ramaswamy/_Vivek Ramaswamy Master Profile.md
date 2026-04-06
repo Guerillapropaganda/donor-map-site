@@ -2,7 +2,7 @@
 title: "Vivek Ramaswamy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,7 @@ top-donors:
   - "Peter Thiel"
 total-received: "$66,197,196"
 fec-candidate-id: "P40011082"
+bioguide-id: "A000383"
 ---
 
 
@@ -121,3 +122,15 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 - [NBC News: Ohio governor race](https://www.nbcnews.com/politics/elections/doge-ohio-vivek-ramaswamy-enters-governors-race-pushing-cuts-merit-pay-rcna188980) (Tier 2)
 - [FEC: Vivek Ramaswamy contribution records](https://www.fec.gov/data/receipts/?_contributors=ramaswamy,+vivek) (Tier 1)
 content-readiness:: ready
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

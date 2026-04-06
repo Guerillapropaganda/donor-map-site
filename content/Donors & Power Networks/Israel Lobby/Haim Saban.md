@@ -2,7 +2,7 @@
 title: "Haim Saban"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -13,6 +13,8 @@ politicians-funded:
   - "Benjamin Netanyahu"
 issues:
   - "Israel & Foreign Policy"
+lobbying-spend: 30000
+lobbying-filings: 3
 ---
 
 
@@ -109,3 +111,22 @@ National Democratic politics — Clinton network, AIPAC connection, UDP funding
 
 research-status:: ready — Full citation pass complete. Saban-Adelson bracket analysis, $16M Clinton cycle, UDP $1M, single-issue donor model documented. All ### headers, Tier 1-2 sources verified, class analysis present. Remaining research note: FPPC Cal-Access search for direct Newsom contributions not yet completed. Promoted Session 38j.
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $30K |
+| Quarterly Filings | 3 |
+| Year Range | 2024-2024 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Health Issues
+
+**Lobbying firms:** MILLER STRATEGIES, LLC
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Haim%20Saban) (Tier 1)
+<!-- auto:lda-lobbying end -->

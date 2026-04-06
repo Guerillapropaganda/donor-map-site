@@ -2,13 +2,14 @@
 title: "Cigna Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+federal-contracts: "622335"
 ---
 
 #cigna #health-insurance #lobbying #pbm #express-scripts #healthcare
@@ -69,3 +70,27 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 - [Ballotpedia: Cigna political spending](https://ballotpedia.org/The_Cigna_Group) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 622335 |
+| Sample Value (top 25) | $215K |
+| Year Range | 2000-2025 |
+| Federal Agencies | 7 |
+
+**Contracting agencies:** AGRICULTURE, DEPARTMENT OF, COMMERCE, DEPARTMENT OF, DEPT OF DEFENSE, FEDERAL COMMUNICATIONS COMMISSION, GENERAL SERVICES ADMINISTRATION, HEALTH AND HUMAN SERVICES, DEPARTMENT OF, LABOR, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $61K | DEPT OF DEFENSE | 2024-06-21 |
+| $16K | GENERAL SERVICES ADMINISTRATION | 2005-01-16 |
+| $0 | GENERAL SERVICES ADMINISTRATION | 1999-10-01 |
+| $0 | COMMERCE, DEPARTMENT OF | 2013-12-09 |
+| $0 | DEPT OF DEFENSE | 2008-09-02 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Cigna%20Group&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

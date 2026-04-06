@@ -2,7 +2,7 @@
 title: "Deb Fischer"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,8 @@ issues:
 top-donors:
   - "AIPAC"
 bioguide-id: "A000383"
+total-received: "$572,417"
+fec-candidate-id: "S2NE00094"
 ---
 
 
@@ -158,3 +160,37 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 - [Wikipedia: Deb Fischer](https://en.wikipedia.org/wiki/Deb_Fischer) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2030 |
+| Total Raised | $572,417 |
+| Individual Contributions | $249,187 |
+| PAC Contributions | $233,654 |
+| Cash on Hand | 242964.14 |
+| IE Support (Super PAC) | $3,087,253 |
+| IE Opposition (Super PAC) | $17,433,261 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2030 | $572,417 | $249,187 | $233,654 |
+| 2024 | $8,687,977 | $3,121,239 | $3,313,980 |
+| 2018 | $6,449,173 | $2,793,766 | $2,926,837 |
+| 2012 | $5,283,975 | $2,854,087 | $1,149,600 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| RETIRE CAREER POLITICIANS | $0 | $13,725,456 |
+| END THE GRIDLOCK | $0 | $3,197,722 |
+| ENDING SPENDING ACTION FUND | $1,651,703 | $0 |
+| ESAFUND | $881,915 | $0 |
+| COMMON SENSE FOR AMERICA PAC | $303,194 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -2,13 +2,17 @@
 title: "California Restaurant Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
 entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
+ein: 951241045
+annual-revenue: "$5.4M"
+net-assets: "$20.8M"
+tax-year: "2023"
 ---
 
 
@@ -105,3 +109,18 @@ Labor — FAST Act, AB 1228, fast food minimum wage, joint liability
 
 research-status:: ready — $71.7M referendum war chest, CRA Issues PAC $167K, AB 1228 deal mechanism, joint liability removal, referendum tactic template. 7 sources, Tier 1-2. All ### headers. Promoted Session 38m.
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $5.4M |
+| Total Contributions | $488K |
+| Program Service Revenue | $3.1M |
+| Investment Income | $356K |
+| Total Expenses | $6.7M |
+| Net Assets | $20.8M |
+| Officer Compensation | $464K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 951241045](https://projects.propublica.org/nonprofits/organizations/951241045) (Tier 1)
+<!-- auto:propublica-990 end -->

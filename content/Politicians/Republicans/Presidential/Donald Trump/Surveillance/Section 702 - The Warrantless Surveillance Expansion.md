@@ -2,9 +2,10 @@
 title: "Section 702 - The Warrantless Surveillance Expansion"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-22
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
+bioguide-id: "A000383"
 ---
 
 
@@ -80,3 +81,16 @@ The surveillance expansion serves the defense contractor and tech donor class di
 - [CBS News. House approves bill renewing FISA spy program (April 2024)](https://www.cbsnews.com/news/fisa-reauthorization-house-vote-section-702/) (Tier 3)
 
 research-status:: Vote counts from congressional records and NPR. Trump position shifts from social media posts and NPR. Tech company compliance from transparency reports. FISA Court violations from declassified opinions. Palantir connection from USASpending.gov. Remaining. Specific intelligence agency budget allocations for 702 collection, defense contractor lobbying specifically for surveillance authority, complete list of warrant amendment vote.
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

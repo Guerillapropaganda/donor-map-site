@@ -2,7 +2,7 @@
 title: "Northrop Grumman"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -12,6 +12,10 @@ politicians-funded:
 issues:
   - "Defense & Military"
 federal-contracts: "94260"
+ein: 956095343
+annual-revenue: "$15.1M"
+net-assets: "$31.0M"
+tax-year: "2023"
 ---
 
 
@@ -263,3 +267,15 @@ content-readiness:: ready
 | DSCC | $105.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $15.1M |
+| Total Contributions | $0 |
+| Total Expenses | $14.1M |
+| Net Assets | $31.0M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 956095343](https://projects.propublica.org/nonprofits/organizations/956095343) (Tier 1)
+<!-- auto:propublica-990 end -->

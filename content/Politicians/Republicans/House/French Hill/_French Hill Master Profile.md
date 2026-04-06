@@ -2,7 +2,7 @@
 title: "French Hill"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -21,6 +21,8 @@ top-donors:
   - "Crypto Industry Bloc"
   - "Marc Andreessen & Horowitz"
 bioguide-id: "A000383"
+total-received: "$3,232,609"
+fec-candidate-id: "H4AR02141"
 ---
 
 #french-hill #republican #arkansas #house #committee-chair #financial-services #banking #crypto #wall-street #phase-6-gavel-power
@@ -179,3 +181,38 @@ French Hill serves the financial donor class with unusual structural completenes
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $3,232,609 |
+| Individual Contributions | $1,359,595 |
+| PAC Contributions | $1,002,340 |
+| Cash on Hand | 2453498.96 |
+| IE Support (Super PAC) | $2,521,125 |
+| IE Opposition (Super PAC) | $10,171,994 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $3,232,609 | $1,359,595 | $1,002,340 |
+| 2024 | $3,802,051 | $1,710,343 | $1,690,250 |
+| 2022 | $3,396,282 | $1,524,920 | $1,279,750 |
+| 2020 | $3,423,234 | $1,598,588 | $1,531,282 |
+| 2018 | $2,934,565 | $1,579,210 | $1,261,081 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $0 | $3,277,086 |
+| HOUSE MAJORITY PAC | $0 | $2,770,089 |
+| DCCC | $0 | $2,177,334 |
+| WOMEN VOTE! | $0 | $1,150,306 |
+| DEFEND AMERICAN JOBS | $1,013,508 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
+<!-- auto:fec-politician end -->

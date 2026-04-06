@@ -2,13 +2,17 @@
 title: "Charles Schwab"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
 issues:
   - "Wall Street & Finance"
+ein: 943192615
+annual-revenue: "$19.2M"
+net-assets: "$34.9M"
+tax-year: "2023"
 ---
 
 #schwab #wall-street #brokerage #retirement #fiduciary #401k #retail-investing
@@ -51,3 +55,15 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 - [Ballotpedia: Charles Schwab](https://ballotpedia.org/Charles_Schwab_Corporation) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $19.2M |
+| Total Contributions | $0 |
+| Total Expenses | $16.3M |
+| Net Assets | $34.9M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 943192615](https://projects.propublica.org/nonprofits/organizations/943192615) (Tier 1)
+<!-- auto:propublica-990 end -->

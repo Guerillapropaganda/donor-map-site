@@ -2,11 +2,15 @@
 title: "MassMutual"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
+ein: 474967720
+annual-revenue: "$820K"
+net-assets: "$8.6M"
+tax-year: "2023"
 ---
 
 #insurance #financial-services #pac-donor #house-financial-services
@@ -41,3 +45,15 @@ MassMutual represents the regulatory capture of an industry built on information
 ---
 
 `content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $820K |
+| Total Contributions | $0 |
+| Total Expenses | $27.6M |
+| Net Assets | $8.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 474967720](https://projects.propublica.org/nonprofits/organizations/474967720) (Tier 1)
+<!-- auto:propublica-990 end -->

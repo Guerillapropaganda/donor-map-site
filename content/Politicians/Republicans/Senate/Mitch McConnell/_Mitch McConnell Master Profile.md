@@ -2,7 +2,7 @@
 title: "Mitch McConnell Master Profile"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 career-total: "$47M"
 parent: null
@@ -19,6 +19,11 @@ top-donors:
   - "Leonard Leo"
   - "Timothy Mellon"
 bioguide-id: "A000383"
+govtrack-id: 300072
+bills-sponsored: 12
+bills-cosponsored: 52
+website: "https://www.mcconnell.senate.gov"
+phone: "202-224-2541"
 ---
 
 
@@ -184,3 +189,22 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 - [Kentucky Lantern: fundraising decline reporting](https://kentuckylantern.com/2024/10/24/mcconnells-fundraising-total-the-lowest-in-years/) (Tier 2)
 content-readiness:: ready
 profile-status:: ready — Dark money gatekeeper role documented ($3B+ coordinated infrastructure: SLF/One Nation $800M+, Koch $578M, Leo $1.6B). Three-network convergence mapped. Donation-to-policy timeline (7 entries), Citizens United arc, Chao fortune, Kentucky donor streams (coal $350K+, tobacco $650K+, pharma $1M+). All ### headers, Tier 1-2 sources verified. Promoted to ready Session 38i.
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 12 |
+| Bills Cosponsored | 52 |
+| Total Votes Cast | 14,297 |
+
+**Recent bills sponsored:**
+
+- S.Res. 388: A resolution recognizing September 16, 2025, as “National Voter Registration Day”. — *This simple resolution was agreed to on September 15, 2025. That is the end of the legislative process for a simple resolution.*
+- S.Res. 362: A resolution to provide for the printing of the Senate Manual for the One Hundred Nineteenth Congress. — *This simple resolution was agreed to on July 31, 2025. That is the end of the legislative process for a simple resolution.*
+- S. 2572: Department of Defense Appropriations Act, 2026 — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
+- S.Con.Res. 12: A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present — *This concurrent resolution was agreed to by both chambers of Congress on May 8, 2025. That is the end of the legislative process for concurrent resolutions. They do not have the force of law.*
+- S. 1674: Mammoth Cave National Park Boundary Adjustment Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 8, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300072) (Tier 1)
+<!-- auto:govtrack end -->

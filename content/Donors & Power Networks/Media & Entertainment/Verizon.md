@@ -2,11 +2,15 @@
 title: "Verizon"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
+ein: 133319048
+annual-revenue: "$7.5M"
+net-assets: "$26.0M"
+tax-year: "2023"
 ---
 
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying
@@ -48,3 +52,15 @@ Net neutrality repeal (achieved 2017), favorable spectrum auction rules, 5G infr
 - [Ballotpedia: Verizon](https://ballotpedia.org/Verizon_Communications) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $7.5M |
+| Total Contributions | $0 |
+| Total Expenses | $7.4M |
+| Net Assets | $26.0M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 133319048](https://projects.propublica.org/nonprofits/organizations/133319048) (Tier 1)
+<!-- auto:propublica-990 end -->

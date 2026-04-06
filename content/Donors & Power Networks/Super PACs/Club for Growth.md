@@ -2,11 +2,15 @@
 title: "Club for Growth"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
+ein: 204681603
+annual-revenue: "$12.3M"
+net-assets: "$9.3M"
+tax-year: "2023"
 ---
 
 #donor-node #super-pac #republican #primary-enforcement #anti-tax #fiscal-conservative #class-analysis #follow-the-money #mega-donor
@@ -206,3 +210,17 @@ The 2024-2025 cycle demonstrated this perfectly: Yass gave $19M to Club for Grow
 - [The Nation: Jeff Yass TikTok forced sale analysis](https://www.thenation.com/article/society/how-tiktok-funder-jeffrey-yass-can-clean-up-on-the-apps-forced-sale/) (Tier 2)
 
 content-readiness:: developed
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $12.3M |
+| Total Contributions | $10.8M |
+| Investment Income | $52K |
+| Total Expenses | $17.1M |
+| Net Assets | $9.3M |
+| Officer Compensation | $1.9M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 204681603](https://projects.propublica.org/nonprofits/organizations/204681603) (Tier 1)
+<!-- auto:propublica-990 end -->

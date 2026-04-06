@@ -2,7 +2,7 @@
 title: "Teamsters - International Brotherhood of Teamsters"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -14,6 +14,10 @@ politicians-funded:
   - "JD Vance"
 issues:
   - "Labor & Workers"
+ein: 940963930
+annual-revenue: "$12.2M"
+net-assets: "$13.2M"
+tax-year: "2023"
 ---
 
 
@@ -170,3 +174,19 @@ DHL Express Teamsters voted **96% to authorize a strike** if no contract is reac
 - [Teamsters.org: DHL Strike Authorization, March 2026](https://teamster.org/2026/03/dhl-express-teamsters-authorize-strike/) (Tier 1)
 - [FreightWaves: DHL Strike Threat, March 2026](https://www.freightwaves.com/news/dhl-express-workers-threaten-to-strike-if-no-contract-by-march-31) (Tier 2)
 - [TDU: First Student Strike Vote Preparation](https://www.tdu.org/first-student-teamsters-prepare-strike-vote) (Tier 2)
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $12.2M |
+| Total Contributions | $0 |
+| Program Service Revenue | $11.5M |
+| Investment Income | $269K |
+| Total Expenses | $11.5M |
+| Net Assets | $13.2M |
+| Officer Compensation | $1.1M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 940963930](https://projects.propublica.org/nonprofits/organizations/940963930) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940963930_202312_990O_2024071222684155.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

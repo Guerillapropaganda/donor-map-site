@@ -2,7 +2,7 @@
 title: "Angie Craig Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,6 +14,8 @@ committees:
   - "Agriculture"
 issues:
   - "Agriculture"
+total-received: "$6,788,377"
+fec-candidate-id: "S6MN00499"
 ---
 
 
@@ -128,3 +130,28 @@ party:: Democrat
 profile-status:: ready
 research-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $6,788,377 |
+| Individual Contributions | $4,221,209 |
+| PAC Contributions | $474,835 |
+| Cash on Hand | 3786723.70 |
+| IE Support (Super PAC) | $1,353,533 |
+| IE Opposition (Super PAC) | $96,000 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CENTER FORWARD COMMITTEE | $1,259,500 | $0 |
+| CLEAR VOICE MINNESOTA | $0 | $96,000 |
+| BLUE MAJORITY PROJECT | $50,853 | $0 |
+| NORTH STAR DAWN PAC | $37,500 | $0 |
+| DMFI PAC | $2,649 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1)
+<!-- auto:fec-politician end -->

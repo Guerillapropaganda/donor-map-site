@@ -2,11 +2,12 @@
 title: "Jeff Bezos"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
+total-political-spend: "$10,358,971"
 ---
 
 #bezos #amazon #blue-origin #washington-post #mega-donor #media #space
@@ -49,3 +50,28 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 - [Ballotpedia: Jeff Bezos](https://ballotpedia.org/Jeff_Bezos) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $10,358,971 |
+| Contributions | 63 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| WITH HONOR FUND, INC. | $10,129,170 | — |
+| BLUE ORIGIN LLC POLITICAL ACTION COMMITTEE (BLUE ORIGIN PAC) | $55,000 | — |
+| AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC) | $35,000 | — |
+| AMAZON.COM HOLDINGS INC. SEPARATE SEGREGATED FUND | $30,000 | — |
+| AMAZON CORPORATE LLC SEPARATE SEGREGATED FUND (AMAZON.COM PAC) | $20,000 | — |
+| AMAZON.COM SERVICES, INC. SEPARATE SEGREGATED FUND (AMAZON PAC) | $10,000 | — |
+| AMAZON CORPORATE LLC SEPARATE SEGREGATED FUND (AMAZON PAC) | $10,000 | — |
+| AMAZON CORPORATE LLC SEPARATED SEGREGATED FUND | $10,000 | — |
+| PEOPLE FOR PATTY MURRAY | $10,000 | — |
+| AMAZON CORPORATE LLC SEPARATED SEGREGATED FUND (AMAZON.COM PAC) | $10,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Bezos) (Tier 1)
+<!-- auto:fec-donor end -->

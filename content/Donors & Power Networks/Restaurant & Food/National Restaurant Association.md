@@ -2,13 +2,17 @@
 title: "National Restaurant Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
 entity-type: "Individual Donor"
 issues:
   - "Labor & Workers"
+ein: 361525480
+annual-revenue: "$112.6M"
+net-assets: "$206.9M"
+tax-year: "2023"
 ---
 
 #nra-restaurants #food #labor #minimum-wage #tipped-workers #lobbying
@@ -52,3 +56,18 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 - [Ballotpedia: National Restaurant Association](https://ballotpedia.org/National_Restaurant_Association) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $112.6M |
+| Total Contributions | $5.0M |
+| Program Service Revenue | $4.5M |
+| Investment Income | $4.4M |
+| Total Expenses | $116.7M |
+| Net Assets | $206.9M |
+| Officer Compensation | $12.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 361525480](https://projects.propublica.org/nonprofits/organizations/361525480) (Tier 1)
+<!-- auto:propublica-990 end -->

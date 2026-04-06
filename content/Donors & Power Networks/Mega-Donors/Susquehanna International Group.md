@@ -2,7 +2,7 @@
 title: "Susquehanna International Group"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,6 +12,7 @@ politicians-funded:
 issues:
   - "Technology"
 total-political-spend: "$500"
+federal-contracts: "1938464"
 ---
 
 #donor #mega-donor #sig #susquehanna #jeff-yass #trading #crypto #tiktok #libertarian #school-choice #republican #class-analysis #follow-the-money
@@ -151,3 +152,27 @@ The analytical patterns:
 
 research-status:: ready — Full expansion from 39 to 175+ lines. FEC data Chrome-verified (774 contributions, virtually 100% Republican). Wikipedia Chrome-verified (political activities, TikTok, school choice, tax avoidance). Ballotpedia URL removed (404 — page does not exist). Complete donor node anatomy: Who They Are → What They Want → Who They Fund (contributions table) → What They've Gotten (Format 2 timeline, 8 rows) → TikTok Connection → Class Analysis → Capture Architecture → Sources. 5 sources (Tier 1–3). Key data: $100M 2024 cycle, $16M MAGA Inc., $10M Club for Growth Action, 774 FEC contributions, $30–50B ByteDance stake, Trump TikTok reversal, $1B tax avoidance (ProPublica).
 content-readiness:: ready
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 1938464 |
+| Sample Value (top 25) | $890K |
+| Year Range | 2005-2017 |
+| Federal Agencies | 3 |
+
+**Contracting agencies:** DEPT OF DEFENSE, JUSTICE, DEPARTMENT OF, VETERANS AFFAIRS, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $24K | JUSTICE, DEPARTMENT OF | 2005-12-28 |
+| $20K | JUSTICE, DEPARTMENT OF | 2007-09-27 |
+| $20K | JUSTICE, DEPARTMENT OF | 2007-09-06 |
+| $11K | JUSTICE, DEPARTMENT OF | 2005-10-14 |
+| $415 | VETERANS AFFAIRS, DEPARTMENT OF | 2008-02-04 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Susquehanna%20International%20Group&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

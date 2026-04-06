@@ -2,13 +2,14 @@
 title: "Trump Media & Technology Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
 politicians-funded:
   - "Donald Trump"
+federal-contracts: "960966"
 ---
 
 #trump-media #truth-social #djt #stock #spac #media
@@ -34,3 +35,27 @@ TMTG's political significance is structural: the company gives Trump personal fi
 - [Ballotpedia: Trump Media](https://ballotpedia.org/Trump_Media_&_Technology_Group) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 960966 |
+| Sample Value (top 25) | $293K |
+| Year Range | 2004-2021 |
+| Federal Agencies | 8 |
+
+**Contracting agencies:** COMMERCE, DEPARTMENT OF, DEPT OF DEFENSE, GENERAL SERVICES ADMINISTRATION, HEALTH AND HUMAN SERVICES, DEPARTMENT OF, HOMELAND SECURITY, DEPARTMENT OF, INTERIOR, DEPARTMENT OF THE, STATE, DEPARTMENT OF, TREASURY, DEPARTMENT OF THE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $29K | COMMERCE, DEPARTMENT OF | 2003-12-23 |
+| $29K | COMMERCE, DEPARTMENT OF | 2003-12-01 |
+| $12K | DEPT OF DEFENSE | 2007-12-21 |
+| $12K | DEPT OF DEFENSE | 2008-08-09 |
+| $4K | DEPT OF DEFENSE | 2006-09-01 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Trump%20Media%20%26%20Technology%20Group&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

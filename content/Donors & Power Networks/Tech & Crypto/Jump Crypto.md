@@ -2,13 +2,14 @@
 title: "Jump Crypto"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Corporation"
 issues:
   - "Technology"
+federal-contracts: "42"
 ---
 
 #crypto #trading #jump-trading #fairshake #political-spending
@@ -42,3 +43,27 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 ---
 
 `content-readiness:: ready
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 42 |
+| Sample Value (top 25) | $661K |
+| Year Range | 2005-2026 |
+| Federal Agencies | 7 |
+
+**Contracting agencies:** AGRICULTURE, DEPARTMENT OF, DEPT OF DEFENSE, EDUCATION, DEPARTMENT OF, HOMELAND SECURITY, DEPARTMENT OF, JUSTICE, DEPARTMENT OF, OFFICE OF PERSONNEL MANAGEMENT, SOCIAL SECURITY ADMINISTRATION
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $94K | AGRICULTURE, DEPARTMENT OF | 2012-06-15 |
+| $28K | DEPT OF DEFENSE | 2009-08-11 |
+| $7K | SOCIAL SECURITY ADMINISTRATION | 2014-04-17 |
+| $6K | SOCIAL SECURITY ADMINISTRATION | 2016-02-18 |
+| $3K | EDUCATION, DEPARTMENT OF | 2014-09-23 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Jump%20Crypto&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

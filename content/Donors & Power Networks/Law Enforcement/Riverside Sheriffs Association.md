@@ -2,13 +2,17 @@
 title: "Riverside Sheriffs Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Chad Bianco"
+ein: 956203844
+annual-revenue: "$4.8M"
+net-assets: "$5.8M"
+tax-year: "2023"
 ---
 
 
@@ -144,3 +148,18 @@ Criminal Justice — structural parallel to CCPOA as law enforcement union block
 
 research-status:: ready — Full citation pass complete. RSA $850K+/95% of Bianco 2018 funding, $600K+ supervisor donations, body camera lawsuit, $100M+ misconduct settlements, jail death trends (101→63), Bianco governor race $1.64M, civilian oversight opposition. 15 sources, Tier 1-2. Sources reformatted to bracket format. Promoted Session 38k.
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $4.8M |
+| Total Contributions | $0 |
+| Program Service Revenue | $3.1M |
+| Investment Income | $31K |
+| Total Expenses | $5.0M |
+| Net Assets | $5.8M |
+| Officer Compensation | $565K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 956203844](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1)
+<!-- auto:propublica-990 end -->

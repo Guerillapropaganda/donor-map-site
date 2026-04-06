@@ -2,7 +2,7 @@
 title: "Mark Green"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,8 @@ committees:
   - "Homeland Security"
 issues:
   - "Healthcare"
+total-received: "$2,049,040"
+fec-candidate-id: "H0CT05150"
 ---
 
 
@@ -153,3 +155,35 @@ Then he left for the private sector, where the real money is.
 - [TriStar Daily: Former Tennessee Congressman Green Launches New Company](https://tristardaily.com/former-tennessee-congressman-mark-green-launches-new-company/) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2014 |
+| Total Raised | $2,049,040 |
+| Individual Contributions | $268,631 |
+| PAC Contributions | $26,500 |
+| Cash on Hand | 606.68 |
+| IE Support (Super PAC) | $7,333 |
+| IE Opposition (Super PAC) | $1,255,157 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2014 | $2,049,040 | $268,631 | $26,500 |
+| 2012 | $2,057,789 | $277,162 | $0 |
+| 2010 | $1,774,510 | $249,675 | $0 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| HOUSE MAJORITY PAC | $0 | $705,828 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $0 | $549,329 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $4,882 | $0 |
+| NATIONAL RIGHT TO LIFE VICTORY FUND | $2,451 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CT05150/) (Tier 1)
+<!-- auto:fec-politician end -->

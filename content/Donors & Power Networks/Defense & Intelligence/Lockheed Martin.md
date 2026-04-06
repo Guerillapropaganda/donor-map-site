@@ -2,7 +2,7 @@
 title: "Lockheed Martin"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -13,6 +13,9 @@ politicians-funded:
   - "Mike Rogers"
 issues:
   - "Defense & Military"
+federal-awards-total: 51259703736
+federal-contracts-count: 25
+federal-grants-count: 25
 ---
 
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door
@@ -242,3 +245,35 @@ content-readiness:: ready
 | DSCC | $60.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $51.3B |
+| Contracts (recent 3yr) | 25 ($353.8B sampled) |
+| Grants (recent 3yr) | 25 ($75.0M sampled) |
+| Federal Agencies | 3 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $48.1B | Department of Energy | — |
+| $35.1B | Department of Defense | LRIP LOT 12 ADVANCE ACQUISITION CONTRACT |
+| $34.2B | Department of Defense | 200204!008532!1700!AF600 !NAVAL AIR SYSTEMS COMMAND       !N0001902C3002  !A!N! !N!                  |
+| $30.1B | Department of Defense | THE PURPOSE OF THIS MODIFICATION IS TO AWARD F-35A LRIP 15 USAF  AIRCRAFT* LONG LEAD FUNDING |
+| $24.5B | Department of Defense | THE PURPOSE OF THIS CONTRACT IS TO AWARD LONG LEAD FUNDING FOR F-35A, F-35B, AND F-35C AIRCRAFT FOR  |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $14.4M | Department of Defense | CAPABILITY-BASED OPERATIONS SUSTAINMENT TECHNOLOGY AVIATION |
+| $11.2M | Department of Defense | AIRCRAFT AND AIRCREW PROTECTION - PHASE I |
+| $9.1M | Department of Defense | AUTONOMOUS SUSTAINMENT TECHNOLOGIES FOR ROTORCRAFT OPERATIONS TECHNICAL AREA: PROPULSION |
+| $8.9M | Department of Defense | FUTURE ADVANCED ROTORCRAFT DRIVE SYSTEM |
+| $7.7M | Department of Defense | HIGH SPEED, HIGHLY EFFICIENT ROTOR PROGRAM |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Lockheed%20Martin) (Tier 1)
+<!-- auto:usaspending end -->

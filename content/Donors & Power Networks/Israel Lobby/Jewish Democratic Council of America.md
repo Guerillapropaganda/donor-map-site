@@ -2,7 +2,7 @@
 title: "Jewish Democratic Council of America"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
@@ -11,6 +11,7 @@ ein: 821919054
 annual-revenue: "$2.3M"
 net-assets: "$525K"
 tax-year: "2023"
+total-political-spend: "$112,605"
 ---
 
 #jdca #jewish-democratic-council #israel-lobby #democratic-party #pro-israel
@@ -61,3 +62,28 @@ The Jewish Democratic Council of America exemplifies how identity-based advocacy
 ---
 
 `content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $112,605 |
+| Contributions | 38 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| ADAM GRAY FOR CONGRESS | $29,200 | DEM |
+| JDCA PAC | $26,305 | — |
+| MANNION FOR NEW YORK | $13,200 | DEM |
+| MARLINGA FOR CONGRESS | $8,600 | DEM |
+| KAPTUR FOR CONGRESS | $6,600 | DEM |
+| BACCAM FOR IOWA | $6,600 | DEM |
+| JOSH RILEY FOR CONGRESS | $5,500 | DEM |
+| ENGEL FOR ARIZONA | $4,500 | DEM |
+| JEWS DEFENDING AMERICAN VALUES | $4,000 | — |
+| KLOBUCHAR FOR MINNESOTA | $3,300 | DFL |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jewish%20Democratic%20Council%20of%20America) (Tier 1)
+<!-- auto:fec-donor end -->

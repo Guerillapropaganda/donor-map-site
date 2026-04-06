@@ -2,11 +2,12 @@
 title: "Sinclair Broadcasting Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
+federal-contracts: "626372"
 ---
 
 #sinclair-broadcasting #media #television #local-news #conservative #propaganda #media-consolidation
@@ -126,3 +127,27 @@ Sinclair's success also reveals **regulatory capture in media:** FCC nominally r
 - [Pew Research: Local news trust and Sinclair's market penetration](https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/) (Tier 2)
 
 content-readiness:: ready
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 626372 |
+| Sample Value (top 25) | $336K |
+| Year Range | 2004-2014 |
+| Federal Agencies | 4 |
+
+**Contracting agencies:** HOMELAND SECURITY, DEPARTMENT OF, JUSTICE, DEPARTMENT OF, TREASURY, DEPARTMENT OF THE, VETERANS AFFAIRS, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $16K | TREASURY, DEPARTMENT OF THE | 2004-12-21 |
+| $5K | JUSTICE, DEPARTMENT OF | 2006-12-13 |
+| $5K | HOMELAND SECURITY, DEPARTMENT OF | 2005-12-01 |
+| $5K | HOMELAND SECURITY, DEPARTMENT OF | 2005-01-05 |
+| $600 | VETERANS AFFAIRS, DEPARTMENT OF | 2008-06-19 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Sinclair%20Broadcasting%20Group&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

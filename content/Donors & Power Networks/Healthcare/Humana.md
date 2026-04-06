@@ -2,11 +2,17 @@
 title: "Humana"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Corporation"
+ein: 800487553
+annual-revenue: "$10K"
+net-assets: "$26K"
+tax-year: "2019"
+lobbying-spend: 11740000
+lobbying-filings: 52
 ---
 
 #humana #health-insurance #medicare-advantage #lobbying #kentucky
@@ -64,3 +70,35 @@ content-readiness:: ready
 | NRSC | $30.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2019)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $10K |
+| Total Contributions | $0 |
+| Total Expenses | $8K |
+| Net Assets | $26K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 800487553](https://projects.propublica.org/nonprofits/organizations/800487553) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=08_2020_prefixes_74-81%2F800487553_201912_990EZ_2020083117270894.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $11.7M |
+| Quarterly Filings | 52 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 8 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Defense, Health Issues, Medicare/Medicaid, Pharmacy, Taxation/Internal Revenue Code, Veterans
+
+**Lobbying firms:** ALB SOLUTIONS, BROWNSTEIN HYATT FARBER SCHRECK, LLP, HUMANA, INC., MEHLMAN CONSULTING, INC., RESOLUTION PUBLIC AFFAIRS, LLC, S-3 GROUP, TARPLIN, DOWNS & YOUNG, LLC, TIBER CREEK GROUP
+
+**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Defense, Dept of (DOD), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Office of Management & Budget (OMB), SENATE, Treasury, Dept of, Veterans Affairs, Dept of (VA), White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Humana) (Tier 1)
+<!-- auto:lda-lobbying end -->

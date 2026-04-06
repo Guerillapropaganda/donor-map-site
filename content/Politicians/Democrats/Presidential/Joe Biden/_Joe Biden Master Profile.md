@@ -2,7 +2,7 @@
 title: "Joe Biden Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,7 @@ top-donors:
   - "UnitedHealth Group - Optum"
   - "Pfizer"
   - "Moderna"
+fec-candidate-id: "P60012143"
 ---
 
 
@@ -227,3 +228,25 @@ Notably, Biden did not use the defense industry's record profits as a fulcrum to
 profile-status:: ready
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2016 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $5,816,793 |
+| IE Opposition (Super PAC) | $23,101,417 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CLUB FOR GROWTH ACTION | $0 | $14,572,648 |
+| MAKE AMERICA GREAT AGAIN INC. | $0 | $6,851,694 |
+| SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION) | $2,130,903 | $0 |
+| AMERICAS PAC | $0 | $1,573,351 |
+| LIVING UNITED FOR CHANGE IN ARIZONA | $1,214,021 | $135,590 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60012143/) (Tier 1)
+<!-- auto:fec-politician end -->

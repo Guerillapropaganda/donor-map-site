@@ -2,11 +2,13 @@
 title: "Mitt Romney"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Senate"
+total-received: "$483,642,897"
+fec-candidate-id: "P80003353"
 ---
 
 #politician #republican #senator #presidential2012 #bain-capital #self-funding #private-equity
@@ -67,3 +69,35 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 ---
 
 `content-readiness:: ready`
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2012 |
+| Total Raised | $483,642,897 |
+| Individual Contributions | $223,798,653 |
+| PAC Contributions | $1,126,220 |
+| Cash on Hand | 383275.27 |
+| IE Support (Super PAC) | $73,710,124 |
+| IE Opposition (Super PAC) | $138,979,027 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2012 | $483,642,897 | $223,798,653 | $1,126,220 |
+| 2008 | $113,659,805 | $0 | $379,002 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| PRIORITIES USA ACTION | $0 | $112,336,878 |
+| RESTORE OUR FUTURE, INC. | $23,749,265 | $0 |
+| WINNING OUR FUTURE | $2,172,271 | $15,418,720 |
+| AMERICAN CROSSROADS | $11,481,126 | $0 |
+| AMERICANS FOR RESPONSIBLE LEADERSHIP | $9,633,565 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003353/) (Tier 1)
+<!-- auto:fec-politician end -->

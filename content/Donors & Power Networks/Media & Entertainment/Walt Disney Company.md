@@ -2,13 +2,15 @@
 title: "Walt Disney Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
 politicians-funded:
   - "Ron DeSantis"
+lobbying-spend: 2629000
+lobbying-filings: 97
 ---
 
 #disney #media #entertainment #lobbying #copyright #florida #desantis
@@ -53,3 +55,22 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 - [Ballotpedia: Walt Disney Company political spending](https://ballotpedia.org/The_Walt_Disney_Company) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.6M |
+| Quarterly Filings | 97 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 11 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Arts/Entertainment, Budget/Appropriations, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Government Issues, Health Issues, Labor Issues/Antitrust/Workplace, Medicare/Medicaid, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Travel/Tourism
+
+**Lobbying firms:** ALPINE ADVISORS, ARMORY HILL ADVOCATES (FORMERLY KNOWN AS RAWLSON POLICY GROUP), BALLARD PARTNERS, BECKER & POLIAKOFF, P.A., CGCN GROUP, LLC, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), GOODLATTE GROUP, LLC F.K.A. ROBERT GOODLATTE, GRANT CONSULTING GROUP, SQUIRE PATTON BOGGS, THE WALTER GROUP, THOMAS WALTERS & ASSOCIATES, INC.
+
+**Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Energy, Dept of, Executive Office of the President (EOP), Federal Emergency Management Agency (FEMA), Federal Transit Administration (FTA), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS) +7 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Walt%20Disney%20Company) (Tier 1)
+<!-- auto:lda-lobbying end -->

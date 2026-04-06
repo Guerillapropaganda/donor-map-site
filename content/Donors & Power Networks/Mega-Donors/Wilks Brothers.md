@@ -2,11 +2,12 @@
 title: "Wilks Brothers — Dan and Farris Wilks"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
+federal-contracts: "1022969"
 ---
 
 #donor #mega-donor #energy #fracking #christian-nationalism #daily-wire #prageru #texas #media-infrastructure #class-analysis
@@ -159,3 +160,27 @@ The Wilks brothers represent **theocratic fossil fuel capital** — the intersec
 ---
 
 content-readiness:: ready
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 1022969 |
+| Sample Value (top 25) | $587K |
+| Year Range | 2003-2014 |
+| Federal Agencies | 8 |
+
+**Contracting agencies:** COMMERCE, DEPARTMENT OF, DEPT OF DEFENSE, EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, GENERAL SERVICES ADMINISTRATION, INTERIOR, DEPARTMENT OF THE, MILLENNIUM CHALLENGE CORPORATION, TRANSPORTATION, DEPARTMENT OF, TREASURY, DEPARTMENT OF THE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $13K | COMMERCE, DEPARTMENT OF | 2004-06-17 |
+| $3K | TREASURY, DEPARTMENT OF THE | 2013-08-08 |
+| $3K | TREASURY, DEPARTMENT OF THE | 2014-08-26 |
+| $3K | TREASURY, DEPARTMENT OF THE | 2012-08-16 |
+| $0 | TREASURY, DEPARTMENT OF THE | 2012-08-16 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Wilks%20Brothers%20%E2%80%94%20Dan%20and%20Farris%20Wilks&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

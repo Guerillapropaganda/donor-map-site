@@ -2,7 +2,7 @@
 title: "Matt Gaetz Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,8 @@ state-abbr: "FL"
 district: "1"
 top-donors:
   - "MAGA Small Dollar Base"
+total-received: "$6,772,979"
+fec-candidate-id: "H6FL01119"
 ---
 
 
@@ -159,3 +161,38 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 - [IBTimes: Matt Gaetz net worth and family wealth](https://www.ibtimes.com/matt-gaetz-net-worth-lawmakers-parents-among-americas-ultra-rich-1-3255577) (Tier 2)
 - [Government Executive: What we know about investigations into Matt Gaetz](https://www.govexec.com/management/2024/11/heres-what-we-know-about-investigations-matt-gaetz/401143/) (Tier 2)
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $6,772,979 |
+| Individual Contributions | $3,066,260 |
+| PAC Contributions | $12,240 |
+| Cash on Hand | 518152.81 |
+| IE Support (Super PAC) | $1,390,648 |
+| IE Opposition (Super PAC) | $4,325,960 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $6,772,979 | $3,066,260 | $12,240 |
+| 2022 | $6,727,002 | $2,581,944 | $10,000 |
+| 2020 | $6,066,373 | $2,114,598 | $63,050 |
+| 2018 | $1,347,178 | $770,729 | $339,450 |
+| 2016 | $1,172,646 | $668,426 | $230,250 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| FLORIDA PATRIOTS PAC | $0 | $4,243,279 |
+| NORTH FLORIDA NEIGHBORS | $869,566 | $0 |
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $380,000 | $0 |
+| FLORIDA CONSERVATIVE FUND | $121,542 | $0 |
+| CITIZEN SUPER PAC | $0 | $44,721 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6FL01119/) (Tier 1)
+<!-- auto:fec-politician end -->

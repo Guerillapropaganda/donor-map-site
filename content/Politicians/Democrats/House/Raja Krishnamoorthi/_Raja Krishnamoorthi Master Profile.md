@@ -2,7 +2,7 @@
 title: "Raja Krishnamoorthi"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,6 +14,8 @@ committees:
   - "Oversight & Reform"
 issues:
   - "Technology"
+total-received: "$3,915,957"
+fec-candidate-id: "H6IL08147"
 ---
 
 #raja-krishnamoorthi #illinois #house #democrat #oversight #tech #tiktok #india #ccp-committee #senate-2026 #maga-donors
@@ -130,3 +132,38 @@ The Stratton victory showed that institutional Democratic support (governor's ba
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $3,915,957 |
+| Individual Contributions | $2,945,095 |
+| PAC Contributions | $366,600 |
+| Cash on Hand | 273149.11 |
+| IE Support (Super PAC) | $3,164 |
+| IE Opposition (Super PAC) | $6,171 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $3,915,957 | $2,945,095 | $366,600 |
+| 2024 | $10,897,838 | $7,694,794 | $1,159,253 |
+| 2022 | $8,498,368 | $6,600,271 | $1,077,055 |
+| 2020 | $6,411,078 | $4,811,472 | $991,009 |
+| 2018 | $5,315,280 | $4,080,300 | $1,017,810 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| VICTORY FOR SCHAUMBURG | $0 | $6,171 |
+| SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION) | $2,092 | $0 |
+| TOGETHER WE THRIVE | $750 | $0 |
+| PLANNED PARENTHOOD VOTES | $195 | $0 |
+| NEA ADVOCACY FUND | $67 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
+<!-- auto:fec-politician end -->

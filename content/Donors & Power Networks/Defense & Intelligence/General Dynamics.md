@@ -2,7 +2,7 @@
 title: "General Dynamics"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -12,6 +12,10 @@ politicians-funded:
   - "Roger Wicker"
 issues:
   - "Defense & Military"
+ein: 382421395
+annual-revenue: "$207K"
+net-assets: "$11K"
+tax-year: "2019"
 ---
 
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial
@@ -101,3 +105,17 @@ content-readiness:: ready
 | DCCC | $20.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2019)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $207K |
+| Total Contributions | $207K |
+| Investment Income | $70 |
+| Total Expenses | $209K |
+| Net Assets | $11K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 382421395](https://projects.propublica.org/nonprofits/organizations/382421395) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=03_2021_prefixes_37-42%2F382421395_201912_990O_2021031217796032.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

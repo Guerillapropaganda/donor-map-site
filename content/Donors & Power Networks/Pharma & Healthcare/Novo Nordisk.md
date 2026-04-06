@@ -2,7 +2,7 @@
 title: "Novo Nordisk"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -11,6 +11,9 @@ issues:
   - "Healthcare"
 lobbying-spend: 17065000
 lobbying-filings: 70
+federal-awards-total: 2137722
+federal-contracts-count: 0
+federal-grants-count: 1
 ---
 
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark
@@ -75,3 +78,21 @@ Opposition to drug price negotiation expansion (particularly for GLP-1 drugs), f
 - [Ballotpedia: Novo Nordisk](https://ballotpedia.org/Novo_Nordisk) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $2.1M |
+| Contracts (recent 3yr) | 0 ($0 sampled) |
+| Grants (recent 3yr) | 1 ($2.1M sampled) |
+| Federal Agencies | 1 |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $2.1M | National Science Foundation | IDEAS LAB: USPRD: ENABLING CELL-FREE SYNTHESIS OF LONGER HUMAN MILK OLIOGOSACCHARIDES -ENABLING CELL |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Novo%20Nordisk) (Tier 1)
+<!-- auto:usaspending end -->

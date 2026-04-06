@@ -2,7 +2,7 @@
 title: "Goldman Sachs"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -13,6 +13,7 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
 total-political-spend: "$2,326,690"
+federal-contracts: "716"
 ---
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor
@@ -187,3 +188,27 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 
 research-status:: ready — Full citation pass complete. $39M career political contributions, revolving door (Paulson, Cohn, Mnuchin, Rubin), bipartisan regulatory capture model, derivatives deregulation pipeline, TARP bailout, carried interest protection. 9 sources, Tier 1-2 verified. All ### headers. Promoted Session 38j.
 content-readiness:: ready
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 716 |
+| Sample Value (top 25) | $278K |
+| Year Range | 2008-2020 |
+| Federal Agencies | 3 |
+
+**Contracting agencies:** INTERIOR, DEPARTMENT OF THE, PENSION BENEFIT GUARANTY CORPORATION, SOCIAL SECURITY ADMINISTRATION
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $51K | SOCIAL SECURITY ADMINISTRATION | 2014-09-30 |
+| $11K | SOCIAL SECURITY ADMINISTRATION | 2017-06-30 |
+| $0 | PENSION BENEFIT GUARANTY CORPORATION | 2008-10-31 |
+| $0 | PENSION BENEFIT GUARANTY CORPORATION | 2011-04-08 |
+| $0 | PENSION BENEFIT GUARANTY CORPORATION | 2009-09-10 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Goldman%20Sachs&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

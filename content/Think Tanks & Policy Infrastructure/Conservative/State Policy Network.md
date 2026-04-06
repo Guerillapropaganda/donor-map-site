@@ -2,9 +2,13 @@
 title: "State Policy Network"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
+ein: 570952531
+annual-revenue: "$27.1M"
+net-assets: "$20.7M"
+tax-year: "2023"
 ---
 
 #think-tank #conservative #state-level #deregulation #koch-network #dark-money #class-analysis #follow-the-money
@@ -86,3 +90,19 @@ SPN is the state-level arm of the conservative donor class's policy apparatus. T
 
 research-status:: draft — Core financial profile, network structure, and funding sources documented. Gaps: complete affiliate list with individual financials, specific policy outcomes by state, detailed ALEC model bill adoption tracking, lobbying expenditure data for 501(c)(4) affiliates. ProPublica 990 data provides strongest financial sourcing.
 content-readiness:: draft
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $27.1M |
+| Total Contributions | $25.9M |
+| Program Service Revenue | $512K |
+| Investment Income | $739K |
+| Total Expenses | $25.8M |
+| Net Assets | $20.7M |
+| Officer Compensation | $1.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 570952531](https://projects.propublica.org/nonprofits/organizations/570952531) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F570952531_202312_990_2024070522665761.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,7 +2,7 @@
 title: "John Barrasso"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,6 +11,13 @@ state: "Wyoming"
 state-abbr: "WY"
 issues:
   - "Energy & Climate"
+total-received: "$1,139,745"
+fec-candidate-id: "S6WY00068"
+govtrack-id: 412251
+bills-sponsored: 49
+bills-cosponsored: 196
+website: "https://www.barrasso.senate.gov"
+phone: "202-224-6441"
 ---
 
 #politician #republican #senate #wyoming #energy #fossil-fuel #climate #class-analysis #follow-the-money #gavel-power
@@ -124,3 +131,58 @@ Barrasso's donor-class function is to serve as the fossil fuel industry's highes
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2030 |
+| Total Raised | $1,139,745 |
+| Individual Contributions | $257,290 |
+| PAC Contributions | $254,749 |
+| Cash on Hand | 8289307.91 |
+| IE Support (Super PAC) | $2,368,334 |
+| IE Opposition (Super PAC) | $1,049 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2030 | $1,139,745 | $257,290 | $254,749 |
+| 2024 | $10,650,613 | $4,352,242 | $3,755,695 |
+| 2018 | $7,396,569 | $3,461,559 | $3,379,665 |
+| 2012 | $4,537,696 | $1,997,209 | $2,021,719 |
+| 2008 | $2,585,977 | $922,806 | $1,340,567 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| HIGH PLAINS PAC | $1,894,880 | $0 |
+| NATIONAL VICTORY ACTION FUND | $200,000 | $0 |
+| AMERICAN CHEMISTRY COUNCIL, INC | $133,204 | $0 |
+| CLEARPATH ACTION FUND, INC. | $50,375 | $0 |
+| POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS | $39,800 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 49 |
+| Bills Cosponsored | 196 |
+| Total Votes Cast | 6,464 |
+| Leadership | Senate Majority Whip |
+
+**Recent bills sponsored:**
+
+- S. 4255: A bill to provide for phased-in payment of Social Security Disability Insurance payments during the waiting period for i — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4202: A bill to amend title XVIII of the Social Security Act to improve access to mental health services under the Medicare pr — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4173: Dollar-for-Dollar Deficit Reduction Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 2787: Grasslands Grazing Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+- S. 3965: EDA Short Form Application Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412251) (Tier 1)
+<!-- auto:govtrack end -->

@@ -2,7 +2,7 @@
 title: "Joe Manchin Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Independent"
@@ -11,6 +11,8 @@ state: "West Virginia"
 state-abbr: "WV"
 top-donors:
   - "Fossil Fuel Bloc"
+total-received: "$11,923,091"
+fec-candidate-id: "S0WV00090"
 ---
 
 
@@ -154,3 +156,37 @@ Manchin attended No Labels events, publicly considered the bid, and ultimately d
 - [OpenSecrets: Manchin career donors, fossil fuel totals](https://www.opensecrets.org/members-of-congress/summary?displayname=Joe%20Manchin) (Tier 1)
 - [Mylan SEC filings: Bresch compensation](https://www.sec.gov/cgi-bin/browse-edgar?company=Joe%20Manchin&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $11,923,091 |
+| Individual Contributions | $7,445,297 |
+| PAC Contributions | $2,044,265 |
+| Cash on Hand | 8472361.26 |
+| IE Support (Super PAC) | $11,845,645 |
+| IE Opposition (Super PAC) | $26,120,345 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $11,923,091 | $7,445,297 | $2,044,265 |
+| 2018 | $9,501,429 | $5,632,673 | $2,936,629 |
+| 2012 | $5,071,896 | $2,589,767 | $2,034,918 |
+| 2010 | $4,395,107 | $3,105,340 | $1,144,835 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SENATE LEADERSHIP FUND | $0 | $11,682,282 |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $0 | $7,213,530 |
+| SMP | $6,953,860 | $0 |
+| NRSC | $0 | $4,805,962 |
+| MAJORITY FORWARD | $2,278,848 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1)
+<!-- auto:fec-politician end -->

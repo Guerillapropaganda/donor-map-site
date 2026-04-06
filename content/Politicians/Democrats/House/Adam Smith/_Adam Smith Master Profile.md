@@ -2,7 +2,7 @@
 title: "Adam Smith"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,7 @@ top-donors:
   - "Northrop Grumman"
   - "Raytheon"
   - "Lockheed Martin"
+fec-candidate-id: "S0KS00216"
 ---
 
 #adam-smith #democrat #washington #house #ranking-member #armed-services #defense #military-industrial-complex #phase-6-gavel-power
@@ -125,3 +126,13 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2020 |
+| Cash on Hand | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0KS00216/) (Tier 1)
+<!-- auto:fec-politician end -->
