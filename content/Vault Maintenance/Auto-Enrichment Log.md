@@ -38,6 +38,22 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-06 16:56 UTC — 10 profiles
+
+**FEC — 10 profiles:**
+- Jason Smith — 2032 raised $0
+- Markwayne Mullin — 2026 raised $4,666,234
+- Sherrod Brown — 2006 raised $0
+- Carlos Gimenez — 2026 raised $301,979
+- Bobby Scott — 2016 raised $135,250
+- Maria Cantwell — 1994 raised $896,096
+- Ashley Hinson — 2026 raised $0
+- Stand Together — total political spend $84,259,968
+- Jewish Democratic Council of America — total political spend $112,605
+- AIPAC - American Israel Public Affairs Committee — total political spend $790,700
+
+---
 ## 2026-04-06 16:40 UTC — 1 profile
 
 **USAspending — 1 profile:**

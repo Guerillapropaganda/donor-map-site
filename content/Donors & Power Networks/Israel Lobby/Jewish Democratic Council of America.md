@@ -12,6 +12,9 @@ annual-revenue: "$2.3M"
 net-assets: "$525K"
 tax-year: "2023"
 total-political-spend: "$112,605"
+politicians-funded:
+  - "Amy Klobuchar"
+  - "Paul Ryan"
 ---
 
 #jdca #jewish-democratic-council #israel-lobby #democratic-party #pro-israel

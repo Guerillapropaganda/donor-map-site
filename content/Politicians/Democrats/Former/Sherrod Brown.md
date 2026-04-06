@@ -2,9 +2,10 @@
 title: "Sherrod Brown"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
+fec-candidate-id: "H2OH13033"
 ---
 
 #sherrod-brown #senate #ohio #labor #populist #class-analysis #2024-defeat
@@ -82,3 +83,35 @@ Brown's response was muted. He had no equivalent funding mechanism. Labor unions
 - [OpenSecrets: Sherrod Brown industries](https://www.opensecrets.org/members-of-congress/sherrod-brown/industries?cid=N00003535&cycle=CAREER) (Tier 1)
 
 profile-status:: ready ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2006 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $75,116 |
+| IE Opposition (Super PAC) | $62,094 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2006 | $0 | $0 | $0 |
+| 2004 | $1,047,905 | $442,802 | $456,375 |
+| 2002 | $1,157,750 | $81,985 | $508,275 |
+| 2000 | $1,125,871 | $0 | $545,956 |
+| 1998 | $1,060,079 | $0 | $535,925 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $0 | $53,998 |
+| RURALVOTE.ORG | $36,907 | $0 |
+| CONSERVATION OHIO | $18,062 | $0 |
+| GOOD JOBS AND STRONG COMMUNITIES PAC | $10,000 | $0 |
+| STARS AND STRIPES FOREVER PAC | $0 | $7,341 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
+<!-- auto:fec-politician end -->

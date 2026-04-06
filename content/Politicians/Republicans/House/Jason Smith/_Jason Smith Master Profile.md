@@ -2,7 +2,7 @@
 title: "Jason Smith"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,7 @@ committees:
   - "Ways & Means"
 top-donors:
   - "Real Estate Roundtable"
+fec-candidate-id: "P20005559"
 ---
 
 
@@ -135,3 +136,13 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2032 |
+| Cash on Hand | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P20005559/) (Tier 1)
+<!-- auto:fec-politician end -->

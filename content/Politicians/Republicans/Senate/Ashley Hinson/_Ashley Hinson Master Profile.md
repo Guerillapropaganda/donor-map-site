@@ -2,7 +2,7 @@
 title: "Ashley Hinson Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,7 @@ state-abbr: "IA"
 top-donors:
   - "Senate Leadership Fund"
   - "Winning for Women PAC"
+fec-candidate-id: "H0IA01174"
 ---
 
 #politician #republican #senate #iowa #2026-candidate
@@ -136,3 +137,34 @@ party:: Republican
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $2,419,609 |
+| IE Opposition (Super PAC) | $9,112,503 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $0 | $0 | $0 |
+| 2024 | $5,600,532 | $2,364,391 | $1,522,307 |
+| 2022 | $7,191,931 | $3,330,564 | $1,672,850 |
+| 2020 | $5,178,803 | $2,952,526 | $393,316 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| HOUSE MAJORITY PAC | $0 | $4,202,527 |
+| DCCC | $0 | $3,461,924 |
+| OPPORTUNITY MATTERS FUND, INC. | $1,027,921 | $0 |
+| UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA) | $0 | $912,900 |
+| AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $368,348 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0IA01174/) (Tier 1)
+<!-- auto:fec-politician end -->

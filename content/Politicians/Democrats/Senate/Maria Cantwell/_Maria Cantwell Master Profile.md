@@ -2,7 +2,7 @@
 title: "Maria Cantwell"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -17,6 +17,8 @@ issues:
   - "Technology"
 top-donors:
   - "Boeing"
+total-received: "$896,096"
+fec-candidate-id: "H2WA01054"
 ---
 
 
@@ -149,3 +151,33 @@ Cantwell made her wealth as VP of Marketing at RealNetworks in the late 1990s. S
 - [Washington Insider: Maria Cantwell net worth 2025](https://washingtoninsider.us/united-states/politics/senate/maria-cantwell-net-worth-2025-insight-into-the-senators-wealth-and-career/) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 1994 |
+| Total Raised | $896,096 |
+| PAC Contributions | $491,939 |
+| Cash on Hand | 23550.00 |
+| IE Support (Super PAC) | $3,191 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 1994 | $896,096 | $0 | $491,939 |
+| 1992 | $657,454 | $0 | $287,103 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| HUMANEUSA POLITICAL ACTION COMMITTEE | $0 | $2,799 |
+| PLANNED PARENTHOOD NW ACTION PAC | $2,799 | $0 |
+| KNIGHT, MARILYN | $0 | $1,232 |
+| TOGETHER FOR PROGRESS PAC | $383 | $0 |
+| TRANSPORTATION POLITICAL EDUCATION LEAGUE | $0 | $25 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1)
+<!-- auto:fec-politician end -->

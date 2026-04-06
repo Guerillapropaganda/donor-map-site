@@ -2,24 +2,22 @@
 title: "AIPAC - American Israel Public Affairs Committee"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Donald Trump"
-  - "Gavin Newsom"
-  - "Bernie Sanders"
-  - "Donna Miller"
-  - "Melissa Bean"
-  - "Daniel Biss"
-  - "JB Pritzker"
+  - "Ritchie Torres"
+  - "Jim Risch"
+  - "Frank Pallone"
+  - "Virginia Foxx"
 issues:
   - "Israel & Foreign Policy"
 featured-date: "2026-04-03"
 spotlight-reason: "Largest bipartisan political spender — $121.2M in 2024 including UDP Super PAC. Funds both parties to maintain 97-3 Senate votes on Israel aid."
 shareable-stat: "$121.2M spent in 2024. Both parties. 97-3 vote."
+total-political-spend: "$790,700"
 ---
 
 
@@ -439,3 +437,28 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 ---
 
 content-readiness:: developed — April 2026 merge. Added UNVERIFIED sections: lobbying expenditures 2018-2025 (65-70% of pro-Israel sector), Republican-to-Democratic donor pipeline (46% cross-party donors), AIEF Congressional Travel Program ($10M+ 2012-2023, 75% AIEF-sponsored, 156 invitations 2025), bundling operation history, ad messaging disconnect (Bowman fire alarm, Lee policing ads), historical primary challenges table (Findley 1982-Omar 2024), detailed policy outcomes (military aid $251.2B cumulative/$17.9B FY2024, 49 UN Security Council vetoes, anti-BDS 38 states, Iran JCPOA). All new sources marked (UNVERIFIED) pending Chrome verification. Downgraded from ready to developed due to UNVERIFIED additions. Preserves all Chrome-verified 2026 Illinois/NC-4 sources and existing structural analysis. All new tables follow vault temporal mapping formats.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $790,700 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| TORRES FOR CONGRESS | $245,418 | DEM |
+| JIM RISCH FOR U.S. SENATE COMMITTEE | $175,208 | REP |
+| LANDSMAN FOR CONGRESS | $143,120 | DEM |
+| RUDY FOR INDIANA | $64,327 | REP |
+| PALLONE FOR CONGRESS | $32,470 | DEM |
+| MARIE FOR CONGRESS | $30,750 | DEM |
+| LANGWORTHY FOR CONGRESS | $30,500 | REP |
+| KUSTOFF FOR CONGRESS | $20,400 | REP |
+| BILIRAKIS FOR CONGRESS | $13,250 | REP |
+| JOSH BRECHEEN FOR CONGRESS | $13,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AIPAC%20-%20American%20Israel%20Public%20Affairs%20Committee) (Tier 1)
+<!-- auto:fec-donor end -->

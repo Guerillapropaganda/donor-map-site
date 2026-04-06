@@ -2,7 +2,7 @@
 title: "Markwayne Mullin"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,6 +11,8 @@ state: "Oklahoma"
 state-abbr: "OK"
 committees:
   - "Armed Services"
+total-received: "$4,666,234"
+fec-candidate-id: "S2OK00186"
 ---
 
 #markwayne-mullin #oklahoma #senate #republican #energy #cherokee #indigenous #armed-services #dhs-secretary #trump-cabinet #plumber #stock-trading
@@ -154,3 +156,33 @@ The 15.57% self-financing rate and low small-dollar percentage undercut the "blu
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $4,666,234 |
+| Individual Contributions | $1,190,004 |
+| PAC Contributions | $1,605,304 |
+| Cash on Hand | 2248620.20 |
+| IE Support (Super PAC) | $2,906,557 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $4,666,234 | $1,190,004 | $1,605,304 |
+| 2022 | $5,569,955 | $2,524,839 | $1,334,696 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEFEND US PAC | $2,054,348 | $0 |
+| CRYPTO INNOVATION | $850,235 | $0 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $1,474 | $0 |
+| PERFORMANCE RACING INC. | $500 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1)
+<!-- auto:fec-politician end -->

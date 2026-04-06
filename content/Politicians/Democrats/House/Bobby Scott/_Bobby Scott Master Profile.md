@@ -25,6 +25,8 @@ bills-sponsored: 17
 bills-cosponsored: 154
 website: "https://bobbyscott.house.gov"
 phone: "202-225-8351"
+total-received: "$135,250"
+fec-candidate-id: "H6GA02115"
 ---
 
 
@@ -173,3 +175,22 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400364) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2016 |
+| Total Raised | $135,250 |
+| Individual Contributions | $250 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $10 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SIERRA CLUB INDEPENDENT ACTION | $10 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
+<!-- auto:fec-politician end -->
