@@ -44,7 +44,7 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 
 ### Sources
 
-- [OpenSecrets: Jeff Bezos political contributions](https://www.opensecrets.org/donor-lookup/results?name=jeff+bezos) (Tier 1)
+- [OpenSecrets: Jeff Bezos political contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=jeff%20bezos) (Tier 1)
 - [NASA: Blue Origin Artemis contract](https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander) (Tier 1)
 - [Ballotpedia: Jeff Bezos](https://ballotpedia.org/Jeff_Bezos) (Tier 3)
 

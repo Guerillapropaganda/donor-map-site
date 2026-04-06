@@ -177,7 +177,7 @@ Media/free press — Gawker precedent as billionaire weapon against journalism
 - [CNBC: Palantir $10B Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)
 - [American Immigration Council: ImmigrationOS](https://www.americanimmigrationcouncil.org/blog/ice-immigrationos-palantir-ai-track-immigrants/) (Tier 2)
 - [The Hill: Palantir contracts](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2)
-- [OpenSecrets: Thiel donations](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel) (Tier 1)
+- [OpenSecrets: Thiel donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel) (Tier 1)
 - [Cato Institute: "I no longer believe freedom and democracy are compatible"](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/) (Tier 1)
 - [Jacobin: Thiel as philosopher king](https://jacobin.com/2025/10/peter-thiel-would-be-philosopher-king-takes-on-democracy) (Tier 2)
 - [Bloomberg: Thiel allies in Trump government](https://www.bloomberg.com/features/2025-peter-thiel-trump-administration-connections/) (Tier 2)

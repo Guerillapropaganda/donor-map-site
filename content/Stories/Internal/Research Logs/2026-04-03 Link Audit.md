@@ -654,7 +654,7 @@ Scanned **1473** markdown files
 - **DEAD LINK (404, no archive)**: https://capitalresearch.org/article/sixteen-thirty-fund-carpet-bombed-the-2020-election-in-leftist-dark-money/ — in Donors & Power Networks\Dark Money\Sixteen Thirty Fund.md, Donors & Power Networks\Dark Money\Sixteen Thirty Fund.md
 - **DEAD LINK (404)**: https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
 - **DEAD LINK (404)**: https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html — in Donors & Power Networks\Mega-Donors\Larry Ellison.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/donor-lookup/results?name=leonard+leo&order=desc&sort=A — in Donors & Power Networks\Leonard Leo.md
+- **DEAD LINK (404)**: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo — in Donors & Power Networks\Leonard Leo.md
 - **DEAD LINK (404, no archive)**: https://www.opensecrets.org/industries?Ind=N07 — in Donors & Power Networks\Dark Money\Sports Betting Alliance.md
 - **DEAD LINK (404)**: https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/ — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
 - **DEAD LINK (404)**: https://www.wga.org/news-events-press/news/archives-2023 — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
@@ -784,7 +784,7 @@ Scanned **1473** markdown files
 - **DEAD LINK (404, no archive)**: https://www.theiacp.org/resources/policy-center — in Donors & Power Networks\Law Enforcement\International Association of Chiefs of Police.md
 - **DEAD LINK (404)**: https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald — in Donors & Power Networks\Super PACs\Save America PAC.md, Donors & Power Networks\Super PACs\Save America PAC.md
 - **DEAD LINK (404)**: https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald — in Donors & Power Networks\Super PACs\Save America PAC.md, Donors & Power Networks\Super PACs\Save America PAC.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/donor-lookup/results?name=leonard+leo&order=desc&sort=A — in Donors & Power Networks\Leonard Leo.md
+- **DEAD LINK (404, no archive)**: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo — in Donors & Power Networks\Leonard Leo.md
 - **DEAD LINK (404, no archive)**: https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/ — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
 - **DEAD LINK (404, no archive)**: https://www.wga.org/news-events-press/news/archives-2023 — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
 - **DEAD LINK (404, no archive)**: https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/ — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
@@ -873,7 +873,7 @@ Scanned **1473** markdown files
 - **DEAD LINK (404, no archive)**: https://kffhealthnews.org/news/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/ — in Donors & Power Networks\Pharma & Healthcare\PhRMA.md
 - **DEAD LINK (404)**: https://lda.senate.gov/filings/public/filing/search/ — in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
 - **DEAD LINK (404, no archive)**: https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html — in Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/donor-lookup/results?name=sheldon+adelson — in Donors & Power Networks\Real Estate\Las Vegas Sands.md
+- **DEAD LINK (404, no archive)**: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sheldon%20adelson — in Donors & Power Networks\Real Estate\Las Vegas Sands.md
 - **DEAD LINK (404)**: https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image — in Lobbying Firms & K Street\Ballard Partners.md
 - **DEAD LINK (404)**: https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image — in Lobbying Firms & K Street\Ballard Partners.md
 - **DEAD LINK (404, no archive)**: https://www.irs.gov/credits-and-deductions-for-businesses/opportunity-zones — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md

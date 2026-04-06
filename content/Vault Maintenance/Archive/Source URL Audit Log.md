@@ -594,7 +594,7 @@ This section records proven fix strategies by broken URL type. Check here first 
 | Status | URL |
 |--------|-----|
 | PENDING | *Chrome verification task will populate this section* |
-| VALID | `https://www.opensecrets.org/donor-lookup/results?name=peter+thiel&order=desc&sort=D` |
+| VALID | `https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel` |
 | VALID | `https://www.fec.gov/data/independent-expenditures/?q=Peter%20Thiel` |
 | VALID | `https://www.opensecrets.org/news/2022/02/peter-thiel-tied-dark-money-group-helping-bankroll-super-pac-spending-on-2022-election/` |
 | VALID | `https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177` |
@@ -603,7 +603,7 @@ This section records proven fix strategies by broken URL type. Check here first 
 | VALID | `https://lda.senate.gov/filings/public/filing/search/` |
 | VALID | `https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873` |
 | VALID | `https://lda.senate.gov/filings/public/filing/search/` |
-| VALID | `https://www.opensecrets.org/donor-lookup/results?name=Stephen+Schwarzman&order=desc&sort=A` |
+| VALID | `https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stephen%20Schwarzman` |
 | VALID | `https://www.opensecrets.org/orgs/jpmorgan-chase-co/summary?id=d000000103` |
 | VALID | `https://www.opensecrets.org/orgs/jpmorgan-chase-co/lobbying?id=D000000103` |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/jpmorgan-chase-co/C00104299/summary/2024` |
@@ -3811,7 +3811,7 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 |--------|-----|----------------|
 | VALID | `https://en.wikipedia.org/wiki/H3h3Productions` | Wikipedia — h3h3Productions overview, history, controversies (Tier 3) |
 | VALID | `https://en.wikipedia.org/wiki/H3_Podcast` | Wikipedia — H3 Podcast overview, spin-offs, controversies (Tier 3) |
-| VALID | `https://www.opensecrets.org/donor-lookup/results?name=ethan+klein&cycle=&state=&zip=&employ=&cand=` | OpenSecrets — Ethan Klein FEC donor lookup; 4 records found including $1,000 to Sanders (2020, Encino CA) and $500 to Biden (2020, Agoura Hills CA) (Tier 1) |
+| VALID | `https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ethan%20klein` | OpenSecrets — Ethan Klein FEC donor lookup; 4 records found including $1,000 to Sanders (2020, Encino CA) and $500 to Biden (2020, Agoura Hills CA) (Tier 1) |
 | VALID | `https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ethan+klein&contributor_state=CA` | FEC — Browse Individual Contributions, Ethan Klein, California (Tier 1) |
 | VALID | `https://www.tubefilter.com/2023/04/11/h3h3-productions-bbtv-broadband-tv-network-revenue-dispute-ethan-klein/` | Tubefilter — BBTV court battle brewing with h3h3productions (April 2023) (Tier 3) |
 | VALID | `https://betakit.com/bbtv-resolves-dispute-with-ethan-klein-as-youtube-creators-raise-concerns-over-revenue-payouts/` | BetaKit — BBTV resolves $620K dispute with Ethan Klein (Tier 3) |
@@ -5276,7 +5276,7 @@ Remaining FEC broken URLs not yet addressed (from original 34):
 | VALID | `https://www.opensecrets.org/orgs/meta/summary?id=D000033563` | Mark Zuckerberg |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024` | Mark Zuckerberg |
 | VALID | `https://lda.senate.gov/filings/public/filing/search/` | Mark Zuckerberg |
-| VALID | `https://www.opensecrets.org/donor-lookup/results?name=mark+zuckerberg` | Mark Zuckerberg |
+| VALID | `https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=mark%20zuckerberg` | Mark Zuckerberg |
 | VALID | `https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v` | Mark Zuckerberg |
 | VALID | `https://ballotpedia.org/Center_for_Tech_and_Civic_Life%27s_(CTCL)_grants_to_election_agencies,_2020` | Mark Zuckerberg |
 | VALID | `https://www.cnbc.com/2025/11/18/meta-wins-ftc-antitrust-trial-that-focused-on-whatsapp-instagram.html` | Mark Zuckerberg |
@@ -8425,8 +8425,8 @@ New URLs verified via Chrome browser navigation during media-profile-builder run
 - BROKEN: https://www.nytimes.com/2024/07/31/us/politics/uaw-kamala-harris.html (403)
 - BROKEN: https://www.nytimes.com/2024/12/09/realestate/nar-real-estate-politics.html (403)
 - BROKEN: https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html (403)
-- BROKEN: https://www.opensecrets.org/donor-lookup/results?cand=&cycle=2020&employ=&name=Eric+Schmidt&state=&zip= (403)
-- BROKEN: https://www.opensecrets.org/donor-lookup/results?name=Sundar+Pichai&order=asc&sort=D (403)
+- BROKEN: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt (403)
+- BROKEN: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sundar%20Pichai (403)
 - BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
 - BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
 - BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)

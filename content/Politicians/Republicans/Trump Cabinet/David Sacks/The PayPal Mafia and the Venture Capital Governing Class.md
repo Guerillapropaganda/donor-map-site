@@ -71,7 +71,7 @@ The PayPal Mafia represents the vault's clearest case study of how a private cap
 - [The Diversity Myth (1995) — Thiel and Sacks at Stanford](https://www.goodreads.com/book/show/647476.The_Diversity_Myth) (Tier 3)
 - [Politico: Peter Thiel's long game — PayPal to political power](https://www.politico.com/news/magazine/2021/10/15/peter-thiel-trump-maga-silicon-valley-515367) (Tier 2)
 - [The Atlantic: The PayPal Mafia in the Trump administration](https://www.theatlantic.com/international/archive/2025/01/venezuelans-tps-trump/681537/) (Tier 2)
-- [OpenSecrets: Peter Thiel political donations](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel) (Tier 1)
+- [OpenSecrets: Peter Thiel political donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel) (Tier 1)
 - [OpenSecrets: JD Vance 2022 Senate race donors](https://www.opensecrets.org/races/summary?cycle=2022&id=OHS2) (Tier 1)
 - [TechCrunch: Sacks RNC speech full transcript](https://techcrunch.com/2024/07/16/vc-david-sacks-delivers-a-fire-and-brimstone-speech-at-the-republican-national-convention/) (Tier 2)
 

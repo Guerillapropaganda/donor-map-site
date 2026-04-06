@@ -112,7 +112,7 @@ Media Ownership and Donor Influence — The Atlantic, Axios funding, Gimlet Medi
 ### Sources
 
 ### Political Donations & Timeline:
-- [OpenSecrets — Laurene Powell Jobs donor profile](https://www.opensecrets.org/donor-lookup/results?name=Laurene+Powell+Jobs&order=desc&sort=D) (Tier 1)
+- [OpenSecrets — Laurene Powell Jobs donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Laurene%20Powell%20Jobs) (Tier 1)
 - [Fortune — "Laurene Powell Jobs is one of Kamala Harris' biggest bankrollers"](https://fortune.com/2024/09/26/laurene-powell-jobs-kamala-harris-biggest-donor-friends/) (Tier 2)
 - [Ballotpedia — Laurene Powell Jobs](https://ballotpedia.org/Laurene_Powell_Jobs) (Tier 2)
 - [Philanthropynewsdigest — Jobs' wife pushes education, immigration policy reform](https://candid.org/blogs/) (Tier 2)

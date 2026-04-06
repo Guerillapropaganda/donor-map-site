@@ -320,7 +320,7 @@ By March 2026, $500M+ in personal portfolio wealth appreciation from policies Sa
 - [Wikipedia: PayPal Mafia](https://en.wikipedia.org/wiki/PayPal_Mafia) (Tier 3)
 - [KQED: The South Africa Connection](https://www.kqed.org/news/12041022) (Tier 2)
 - [Wikipedia: David Sacks](https://en.wikipedia.org/wiki/David_Sacks) (Tier 3)
-- [OpenSecrets: David Sacks Donor Lookup](https://www.opensecrets.org/donor-lookup/results?name=david+sacks) (Tier 1)
+- [OpenSecrets: David Sacks Donor Lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=david%20sacks) (Tier 1)
 - [Bloomberg: Venture Capitalist David Sacks Is All In on Donald Trump](https://www.bloomberg.com/news/articles/2024-06-05/venture-capitalist-david-sacks-is-all-in-on-donald-trump) (Tier 2) (UNVERIFIED)
 - [LA Times: Early Donations Archive](https://enewspaper.latimes.com/infinity/article_share.aspx?guid=7d571eb8-2efa-4ebd-ae9b-ee59f68191a2) (Tier 2)
 - [OpenSecrets News: Tech Billionaires Signal Support for Trump Vice President JD Vance](https://www.opensecrets.org/news/2024/07/tech-billionaires-signal-support-for-trump-vice-president-jd-vance/) (Tier 1) (UNVERIFIED)

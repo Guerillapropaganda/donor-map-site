@@ -104,7 +104,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 > [!money] The Alaska-to-Argentina Pipeline
 > One fishing trip. $100,000 in private jet travel. Zero recusals. One Supreme Court ruling. $2.4 billion in settlement proceeds. The Alaska fishing trip (2008) → SCOTUS ruling (2014) → Argentina settlement (2016) is the most precisely documented donor-access-to-profit pipeline in the vault. Singer spent $100K on a fishing trip and made $2.3 billion on the resulting Supreme Court case. His 2024 spending ($42M+ to SLF/CLF/MAGA Inc.) follows the same logic at larger scale: purchase access to institutional power, profit from the policy outcomes that access produces. The social liberalism is real ($1.8M to gay marriage). The economic brutality is also real ($2.4B extracted from Argentina). Both serve Singer's interests. Neither serves the public's.
 
-[Source: [Read Sludge: Singer donates $10M to GOP amid Alito scrutiny](https://readsludge.com/2024/07/19/facing-dem-scrutiny-alito-benefactor-paul-singer-donates-10-million-to-gop/) (Tier 2); [OpenSecrets: Paul Singer donor profile](https://www.opensecrets.org/donor-lookup/results?name=paul+singer) (Tier 1)]
+[Source: [Read Sludge: Singer donates $10M to GOP amid Alito scrutiny](https://readsludge.com/2024/07/19/facing-dem-scrutiny-alito-benefactor-paul-singer-donates-10-million-to-gop/) (Tier 2); [OpenSecrets: Paul Singer donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=paul%20singer) (Tier 1)]
 
 ---
 
@@ -112,7 +112,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 - [ProPublica: Alito luxury fishing trip with Singer](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2)
 - [Washington Post: How one hedge fund made $2 billion from Argentina's economic collapse](https://www.washingtonpost.com/news/business/wp/2016/03/29/how-one-hedge-fund-made-2-billion-from-argentinas-economic-collapse/) (Tier 2)
-- [OpenSecrets: Paul Singer donor profile](https://www.opensecrets.org/donor-lookup/results?name=paul+singer) (Tier 1)
+- [OpenSecrets: Paul Singer donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=paul%20singer) (Tier 1)
 - [Ballotpedia: Paul Singer](https://ballotpedia.org/Paul_Singer) (Tier 3)
 - [InfluenceWatch: Paul Singer](https://www.influencewatch.org/person/paul-singer/) (Tier 3)
 

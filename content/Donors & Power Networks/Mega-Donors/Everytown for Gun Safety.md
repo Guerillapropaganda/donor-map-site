@@ -75,7 +75,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 ### Sources
 
-- [OpenSecrets — Michael Bloomberg donor profile](https://www.opensecrets.org/donor-lookup/results?name=michael+bloomberg) (Tier 1)
+- [OpenSecrets — Michael Bloomberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=michael%20bloomberg) (Tier 1)
 - [FactCheck.org — Everytown vs. NRA spending comparison](https://www.factcheck.org/2024/01/americans-for-prosperity-7/) (Tier 2)
 - [Giffords Law Center — state gun law tracker](https://giffords.org/lawcenter/gun-laws/) (Tier 2)
 

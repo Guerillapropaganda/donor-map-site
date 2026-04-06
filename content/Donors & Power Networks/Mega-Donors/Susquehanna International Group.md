@@ -142,7 +142,7 @@ The analytical patterns:
 
 - [FEC: Individual contributions — Yass, Jeff (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=yass%2C+jeff&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 774 contributions, virtually 100% Republican, SIG/Susquehanna Partners employer
 - [Wikipedia: Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) (Tier 3) — Political activities section: $100M 2024 cycle, TikTok/ByteDance, Club for Growth, school choice, ProPublica tax investigation, MAGA Inc. $16M, Kohelet Policy Forum
-- [OpenSecrets: Jeff Yass donor lookup](https://www.opensecrets.org/donor-lookup/results?name=jeff+yass) (Tier 1) — Donor contribution aggregation (monthly search limit; URL format verified)
+- [OpenSecrets: Jeff Yass donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=jeff%20yass) (Tier 1) — Donor contribution aggregation (monthly search limit; URL format verified)
 - [ProPublica: Jeff Yass — The Billionaire GOP Mega-Donor Gaming the Tax System (2022)](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 1) — SIG tax avoidance strategies, $1B estimated tax savings 2013–2018
 - [ProPublica: How Susquehanna's Jeff Yass Avoided $1 Billion in Taxes (2022)](https://www.propublica.org/article/how-susquehanna-yass-avoided-billion-taxes) (Tier 1) — Detailed breakdown of SIG tax strategies
 - [Susquehanna International Group](https://sig.com/) (Tier 1) — Company overview, market making operations

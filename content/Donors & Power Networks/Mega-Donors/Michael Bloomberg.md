@@ -103,7 +103,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Blo
 
 ### Sources
 
-- [OpenSecrets — Michael Bloomberg donor profile](https://www.opensecrets.org/donor-lookup/results?name=michael+bloomberg) (Tier 2)
+- [OpenSecrets — Michael Bloomberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=michael%20bloomberg) (Tier 2)
 - [ABC News — Bloomberg 2020 campaign spending](https://abcnews.go.com/Politics/bloomberg-2020-campaign-spending/story?id=68818880) (Tier 2)
 - [CNN — Bloomberg 2018 midterm spending and 2018 House flip](https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending) (Tier 2)
 - [InfluenceWatch — Independence USA PAC](https://www.influencewatch.org/non-profit/independence-usa-pac/) *(source unavailable)* (Tier 3)

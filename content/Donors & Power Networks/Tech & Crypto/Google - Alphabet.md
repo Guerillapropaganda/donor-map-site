@@ -213,7 +213,7 @@ The April 2017 bipartisan maxing out — $33,900 to both the NRSC and DSCC in th
 - [OpenSecrets: Google PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2024) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Google PAC recipients 2022](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/candidate-recipients/2022) (Tier 1) (UNVERIFIED)
 - [Politico: Google $1M Trump inauguration](https://www.politico.com/live-updates/2025/01/09/congress/google-donation-donald-trump-inauguration-00197233) (Tier 2) (UNVERIFIED)
-- [OpenSecrets: Sundar Pichai donor lookup](https://www.opensecrets.org/donor-lookup/results?name=Sundar+Pichai&order=asc&sort=D) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Sundar Pichai donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sundar%20Pichai) (Tier 1) (UNVERIFIED)
 
 ---
 
@@ -424,7 +424,7 @@ Google represents the most advanced form of monopoly power in the vault — one 
 - [OpenSecrets: Google PAC 2020](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2020) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Google PAC 2018](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2018) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Google PAC 2016](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2016) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Sundar Pichai donor lookup](https://www.opensecrets.org/donor-lookup/results?name=Sundar+Pichai&order=asc&sort=D) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Sundar Pichai donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sundar%20Pichai) (Tier 1) (UNVERIFIED)
 
 ### Secondary:
 - [Ballotpedia: Alphabet Inc political spending](https://ballotpedia.org/Alphabet_Inc.) (Tier 3) (Chrome-verified)

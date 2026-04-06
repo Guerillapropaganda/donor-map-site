@@ -45,7 +45,7 @@ Favorable crypto regulation (specifically, regulation that would have required o
 ### Sources
 
 - [DOJ: United States v. Sam Bankman-Fried indictment](https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak) (Tier 1)
-- [OpenSecrets: Sam Bankman-Fried political contributions](https://www.opensecrets.org/donor-lookup/results?name=sam+bankman-fried) (Tier 1)
+- [OpenSecrets: Sam Bankman-Fried political contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sam%20bankman-fried) (Tier 1)
 - [SEC: FTX enforcement action](https://www.sec.gov/litigation/complaints/2022/comp-pr2022-219.pdf) (Tier 1)
 - [Ballotpedia: Sam Bankman-Fried](https://ballotpedia.org/Sam_Bankman-Fried) (Tier 3)
 

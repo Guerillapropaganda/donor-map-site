@@ -168,7 +168,7 @@ The vault's central insight applies directly: **Vance is not a politician with d
 ### Tier 3 (Aggregators):
 - [OpenSecrets.org: Sen. J D Vance - Campaign Finance Summary](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 3)
 - [Ballotpedia: J.D. Vance voting record and biography](https://ballotpedia.org/J.D._Vance) (Tier 3)
-- [ProPublica: Peter Thiel donor lookup and contributions](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel&order=desc&sort=D) (Tier 3)
+- [ProPublica: Peter Thiel donor lookup and contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel) (Tier 3)
 
 ### Tier 4 (Analysis/Media):
 - [The New Republic: J.D. Vance, the False Prophet of Blue America](https://newrepublic.com/article/138717/jd-vance-false-prophet-blue-america) (Tier 4)

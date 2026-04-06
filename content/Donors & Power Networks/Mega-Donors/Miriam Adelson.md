@@ -204,7 +204,7 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 ### Sources
 
 ### Political Spending:
-- [OpenSecrets — Adelson family giving](https://www.opensecrets.org/donor-lookup/results?cand=&cycle=&employ=&name=Adelson&order=desc&sort=D&state=NV&zip=) (Tier 1)
+- [OpenSecrets — Adelson family giving](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Adelson) (Tier 1)
 - [OpenSecrets News — Adelsons set new donation record](https://www.opensecrets.org/news/2020/10/adelsons-set-new-donation-record/) (Tier 1)
 - [OpenSecrets — Miriam Adelson 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Miriam%20O.%20Adelson) (Tier 1)
 - [Times of Israel — Miriam Adelson $100M Trump donation](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)

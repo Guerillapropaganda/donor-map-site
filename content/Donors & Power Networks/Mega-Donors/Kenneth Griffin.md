@@ -148,7 +148,7 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 
 ### Sources
 
-- [OpenSecrets: Kenneth Griffin donations](https://www.opensecrets.org/donor-lookup/results?name=kenneth+griffin) (Tier 1)
+- [OpenSecrets: Kenneth Griffin donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kenneth%20griffin) (Tier 1)
 - [ArtNews: $100M 2024 giving](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2)
 - [Fortune: DeSantis to Trump trajectory](https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/) (Tier 2)
 - [CNBC: Tariff criticism](https://www.cnbc.com/2025/05/07/griffin-calls-tariffs-a-painfully-regressive-tax-hitting-working-class-the-hardest.html) (Tier 2)

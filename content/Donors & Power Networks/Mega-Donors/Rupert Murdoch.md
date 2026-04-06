@@ -165,7 +165,7 @@ Lachlan's stewardship will test whether the Fox News dominance persists across a
 - [Fortune: As Rupert Murdoch retires, a look into succession drama](https://fortune.com/2023/09/22/rupert-murdoch-retiring-lachlan-james-fox-news-corp-succession-drama/) (Tier 2)
 - [CNN Business: Murdoch family resolves succession dispute with Lachlan remaining in control](https://www.cnn.com/2025/09/08/media/murdoch-lachlan-rupert-succession-court) (Tier 2)
 - [Deadline: Who's Giving To Who In 2024 Election: Rupert Murdoch donations](https://deadline.com/2024/01/biden-trump-donors-jeffrey-katzenberg-rupert-murdoch-1235810650/) (Tier 2)
-- [OpenSecrets: Murdoch donor profile](https://www.opensecrets.org/donor-lookup/results?name=rupert+murdoch&order=desc&sort=D) (Tier 1)
+- [OpenSecrets: Murdoch donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=rupert%20murdoch) (Tier 1)
 - [FEC: Individual contributions from Rupert Murdoch](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Rupert+Murdoch) (Tier 1)
 - [OpenSecrets: Senate Leadership Fund profile](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1)
 

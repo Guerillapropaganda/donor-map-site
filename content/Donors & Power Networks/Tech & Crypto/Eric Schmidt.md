@@ -76,7 +76,7 @@ Schmidt is the class function personified: take a government advisory position, 
 
 During 2021-2022 cycle, Schmidt wired $227,000 in in-kind contributions to STAC Labs — a tech startup he bankrolled through a nonprofit — which provided voter data analysis services to 18 state Democratic parties. This disguises direct donations as "tech infrastructure support."
 
-- [OpenSecrets: Eric Schmidt Donor Lookup 2020](https://www.opensecrets.org/donor-lookup/results?cand=&cycle=2020&employ=&name=Eric+Schmidt&state=&zip=) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Eric Schmidt Donor Lookup 2020](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1) (UNVERIFIED)
 - [FEC Individual Contribution Records — Eric Schmidt](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Eric+Schmidt) (Tier 1)
 - [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2)
 
@@ -195,7 +195,7 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 
 ### Primary Documents — Tier 1:
 - [FEC Individual Contribution Records — Eric Schmidt](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Eric+Schmidt) (Tier 1)
-- [OpenSecrets Donor Profile — Eric Schmidt](https://www.opensecrets.org/donor-lookup/results?name=eric+schmidt) (Tier 1)
+- [OpenSecrets Donor Profile — Eric Schmidt](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=eric%20schmidt) (Tier 1)
 
 ### Investigative Journalism — Tier 2:
 - [CNBC: Schmidt helped write AI laws without disclosing investments](https://www.cnbc.com/2022/10/24/how-googles-former-ceo-eric-schmidt-helped-write-ai-laws-in-washington-without-publicly-disclosing-investments-in-ai-start-ups.html) (Tier 2)
@@ -215,7 +215,7 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 - [Project Censored: AI Warlord Eric Schmidt](https://www.projectcensored.org/ai-warlord-eric-schmidt-money-media-maim/) (Tier 2) (UNVERIFIED)
 
 ### FEC Donation Data (UNVERIFIED):
-- [OpenSecrets: Eric Schmidt 2020 donations](https://www.opensecrets.org/donor-lookup/results?cand=&cycle=2020&employ=&name=Eric+Schmidt&state=&zip=) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Eric Schmidt 2020 donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1) (UNVERIFIED)
 
 ### Revolving Door / Regulatory Capture — Tier 2:
 - [Public Citizen: 75% of FTC Officials Have Revolving Door Conflicts](https://www.citizen.org/news/a-whopping-75-of-ftc-officials-have-revolving-door-conflicts-with-tech-corporations-and-other-industries/) (Tier 2)

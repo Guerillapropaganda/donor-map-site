@@ -155,7 +155,7 @@ Hamm's wealth and power illustrate how extraction industries structure themselve
 - [Continental Resources — Official Company Site](https://www.clr.com/operations/bakken/) (Tier 1)
 
 ### Political Donations & Campaign Role:
-- [OpenSecrets — Harold Hamm Donor Profile](https://www.opensecrets.org/donor-lookup/results?name=Harold+Hamm&page=1) (Tier 1)
+- [OpenSecrets — Harold Hamm Donor Profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harold%20Hamm) (Tier 1)
 - [Sierra Club — Oil Tycoons Open Money Floodgates for Trump](https://www.sierraclub.org/sierra/oil-tycoons-open-money-floodgates-trump) (Tier 2)
 - [DeSmog — Harold Hamm Profile](https://www.desmog.com/harold-hamm/) (Tier 2)
 - [CNBC — Trump Would Get US to Energy Independence in About 6 Years: Advisor Harold Hamm](https://www.cnbc.com/2016/10/21/trump-would-get-us-to-energy-independence-in-about-6-years-advisor-harold-hamm.html) (Tier 2)

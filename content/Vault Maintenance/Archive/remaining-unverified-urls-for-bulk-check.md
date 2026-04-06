@@ -319,8 +319,8 @@ https://www.nytimes.com/2024/07/31/us/politics/uaw-kamala-harris.html
 https://www.nytimes.com/2024/12/09/realestate/nar-real-estate-politics.html
 https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html
 https://www.opb.org/article/2026/02/04/tariff-break-trump-companies/
-https://www.opensecrets.org/donor-lookup/results?cand=&cycle=2020&employ=&name=Eric+Schmidt&state=&zip=
-https://www.opensecrets.org/donor-lookup/results?name=Sundar+Pichai&order=asc&sort=D
+https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt
+https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sundar%20Pichai
 https://lda.senate.gov/filings/public/filing/search/
 https://lda.senate.gov/filings/public/filing/search/
 https://lda.senate.gov/filings/public/filing/search/
