@@ -15,50 +15,51 @@ Claude: Code
 Date: 2026-04-06
 
 Done:
-- Slimmed CLAUDE.md from 171→107 lines (removed duplicate Autonomy Directive, moved Recent Context here)
-- Archived last straggler doc: Publish Settings Guide.md → Vault Maintenance/Archive/
-- Created opensecrets-replace.yml GitHub Actions workflow (dry-run + write modes, category filtering)
-- Fixed opensecrets-replace.cjs: skip generic sub-page slugs (summary, contributors, industries, etc.)
-- Ran opensecrets-replace --write for `members-of-congress`: **997 URLs replaced across 346 files**
-- 127 URLs skipped (generic sub-pages with CRP IDs but no name slug — need CRP-to-FEC mapping or manual review)
-- 3,011 OpenSecrets URLs remain in other categories (orgs, pacs, outside-spending, etc.)
+- **Network Graph**: Built force-directed network graph at `/interactive/network-graph`
+  - New emitter (`networkGraphIndex.ts`) generates 711 nodes + 717 edges at build time
+  - D3 force simulation with hexagonal politician nodes (party-colored) + donor rectangles
+  - Search, party/donor filters, node count slider (50-500), zoom/pan, hover tooltips
+  - ProfileWidget mini-graph tab: 1-hop neighborhood as small force graph in sidebar
+- **OpenSecrets URL migration continued**: ran 4 more categories via GitHub Actions
+  - federal-lobbying: 374 URLs → Senate LDA (84 files)
+  - outside-spending: 117 URLs → FEC (38 files)
+  - donor-lookup: 108 URLs → FEC (42 files)
+  - industries: 205 URLs → FEC (77 files)
+  - `orgs` category run triggered (820 URLs, needs FEC lookups — may have timed out)
+- Verified LobbyView API key works (LOBBYVIEWAPI secret confirmed in repo)
+- Slimmed CLAUDE.md, archived Publish Settings Guide
 
 In flight:
-- Nothing — all commits pushed to v4
+- `orgs` opensecrets run may need retry (FEC lookups are slow)
+- `political-action-committees-pacs` (387 URLs) not yet run
 
 Next:
-- Run opensecrets-replace --write for remaining categories: orgs, pacs, outside-spending, donor-lookup, federal-lobbying
-- After all categories done, review the 127 skipped member URLs (add CRP ID lookup to script?)
-- Check LobbyView API key — couldn't find the earlier pipeline run
+- Check `orgs` run result, retry if timed out
+- Run `political-action-committees-pacs` category
+- Run remaining small categories: races, officeholders, fara, dark-money, JFCs
+- Polish network graph: edge visibility, label overlap in dense areas, mobile layout
 - Run full pipeline enrichment cycle to populate `verified` tier
-- Consider adding `orgs` category to the workflow's scheduled runs
 
 ---
 
 ## Previous Sessions
 
 ### Code Claude — 2026-04-06 (earlier)
-- Built LobbyView pipeline (lobbyview-pipeline.cjs) — client-bill lobbying networks, 100 req/day
-- Built OpenSecrets URL replacement script (opensecrets-replace.cjs) — maps 4,075 URLs to FEC/Congress.gov/LDA equivalents
-- Added LobbyView to api-config.cjs and GitHub Actions workflow
-- Rewrote vault methodology: Vault Rules.md + Pipeline Guide.md + Session State.md replace 10 old docs
-- New readiness tier: `verified` (has Tier 1 pipeline data). Existing `ready` files stay published.
+- Ran opensecrets-replace --write for members-of-congress: 997 URLs across 346 files
+- Built opensecrets-replace.yml workflow + fixed generic slug bug
+- Slimmed CLAUDE.md from 171→107 lines
 
 ### Code Claude — 2026-04-06 (earlier)
-- Party dots on profiles (blue D, red R, grey I)
-- Fixed sidebar nav links (Fox News, Daily Wire, pod paths)
-- Widened ProfileWidget scope to all profile types
-- Empty states for EventTimeline and ProfileWidget
-- Categorization audit: Bush Cabinet folder, Former folders
-- Wired FEC + Congress pipelines into auto-block body section writes
-- Pipeline timeout fixes and push conflict resolution
+- Built LobbyView pipeline, OpenSecrets URL replacement script
+- Rewrote vault methodology: Vault Rules.md + Pipeline Guide.md + Session State.md
+
+### Code Claude — 2026-04-06 (earlier)
+- Party dots, sidebar nav fixes, ProfileWidget scope widening
+- FEC + Congress pipeline auto-blocks, pipeline timeout/push fixes
 
 ### Code Claude — 2026-04-05
-- API enrichment runs: 122 files updated across 4 pipeline runs
-- Fixed ProPublica hitting corporations + deduplicated frontmatter keys
-- GovTrack, SAM, USASpending pipelines running in parallel
+- API enrichment: 122 files across 4 runs
+- GovTrack, SAM, USASpending pipelines
 
 ### Research Claude — 2026-04-05
-- Vault audit and roadmap (identified ~1,350 total files, 1,204 ready)
-- Source integrity pass on 55 files
-- URL fix log started
+- Vault audit, source integrity pass on 55 files
