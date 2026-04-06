@@ -138,7 +138,7 @@ const navTree: NavNode[] = [
           { name: "House", slugPrefix: "Politicians/Democrats/House" },
           { name: "Governors", slugPrefix: "Politicians/Democrats/Governors" },
           { name: "Presidential", slugPrefix: "Politicians/Democrats/Presidential" },
-          { name: "CA Governor 2026", slugPrefix: "Politicians/Democrats/CA-Governor-2026" },
+          { name: "Biden Cabinet", slugPrefix: "Politicians/Democrats/Biden-Cabinet" },
         ],
       },
       {
@@ -150,7 +150,14 @@ const navTree: NavNode[] = [
           { name: "Governors", slugPrefix: "Politicians/Republicans/Governors" },
           { name: "Presidential", slugPrefix: "Politicians/Republicans/Presidential" },
           { name: "Trump Cabinet", slugPrefix: "Politicians/Republicans/Trump-Cabinet" },
-          { name: "CA Governor 2026", slugPrefix: "Politicians/Republicans/CA-Governor-2026" },
+        ],
+      },
+      {
+        name: "Races",
+        slugPrefix: "Politicians/Races",
+        children: [
+          { name: "CA Governor 2026", slugPrefix: "Politicians/Races/CA-Governor-2026" },
+          { name: "OH Governor 2026", slugPrefix: "Politicians/Races/OH-Governor-2026" },
         ],
       },
       { name: "SCOTUS", slugPrefix: "Politicians/SCOTUS" },
@@ -165,6 +172,7 @@ const navTree: NavNode[] = [
     children: [
       { name: "Agriculture", slugPrefix: "Donors--and--Power-Networks/Agriculture" },
       { name: "Carceral State", slugPrefix: "Donors--and--Power-Networks/Carceral-State" },
+      { name: "Corporate", slugPrefix: "Donors--and--Power-Networks/Corporate" },
       { name: "Dark Money", slugPrefix: "Donors--and--Power-Networks/Dark-Money" },
       { name: "Defense & Intelligence", slugPrefix: "Donors--and--Power-Networks/Defense--and--Intelligence" },
       { name: "Education", slugPrefix: "Donors--and--Power-Networks/Education" },
