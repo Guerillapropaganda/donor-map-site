@@ -15,29 +15,32 @@ Claude: Code
 Date: 2026-04-06
 
 Done:
+- Slimmed CLAUDE.md from 171→107 lines (removed duplicate Autonomy Directive, moved Recent Context to Session State)
+- Archived last straggler doc: Publish Settings Guide.md → Vault Maintenance/Archive/
+- Created opensecrets-replace.yml GitHub Actions workflow (dry-run + write modes, category filtering)
+- Pushed workflow to donor-map-engine, triggered dry run for members-of-congress category
+
+In flight:
+- OpenSecrets dry run (GitHub Actions run 24046018866) — waiting on results
+- After dry run confirms mappings look right, trigger --write run for members-of-congress
+- Then run remaining categories: orgs, pacs, outside-spending, donor-lookup, etc.
+
+Next:
+- Review opensecrets dry run results and trigger --write if clean
+- Run opensecrets-replace for remaining categories (orgs, pacs, outside-spending, etc.)
+- Run full pipeline enrichment cycle to start populating `verified` tier
+- Check LobbyView API key is working (couldn't find the pipeline run from last session)
+
+---
+
+## Previous Sessions
+
+### Code Claude — 2026-04-06 (earlier)
 - Built LobbyView pipeline (lobbyview-pipeline.cjs) — client-bill lobbying networks, 100 req/day
 - Built OpenSecrets URL replacement script (opensecrets-replace.cjs) — maps 4,075 URLs to FEC/Congress.gov/LDA equivalents
 - Added LobbyView to api-config.cjs and GitHub Actions workflow
 - Rewrote vault methodology: Vault Rules.md + Pipeline Guide.md + Session State.md replace 10 old docs
 - New readiness tier: `verified` (has Tier 1 pipeline data). Existing `ready` files stay published.
-
-In flight:
-- LobbyView pipeline test run triggered on GitHub Actions (run 24042278226) — waiting on results
-- FEC pipeline run from earlier session enriched 11 files with `politicians-funded` arrays
-- OpenSecrets replacement script tested (dry run works), not yet applied with --write
-- Old Vault Maintenance docs need to be archived
-- CLAUDE.md needs slimming to reference new Vault Rules system
-
-Next:
-- Check LobbyView pipeline results, verify API key is working
-- Run opensecrets-replace.cjs --write on a single category first (members-of-congress)
-- Archive old methodology docs to Vault Maintenance/Archive/
-- Slim CLAUDE.md down — point at Vault Rules.md for shared rules
-- Run full pipeline enrichment cycle to start populating `verified` tier
-
----
-
-## Previous Sessions
 
 ### Code Claude — 2026-04-06 (earlier)
 - Party dots on profiles (blue D, red R, grey I)
