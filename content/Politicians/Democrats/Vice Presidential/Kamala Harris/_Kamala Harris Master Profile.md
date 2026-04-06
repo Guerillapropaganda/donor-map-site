@@ -2,7 +2,7 @@
 title: "Kamala Harris Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,8 @@ top-donors:
   - "AIPAC - American Israel Public Affairs Committee"
   - "Blue Shield of California"
   - "UnitedHealth Group - Optum"
+total-received: "$1,175,903,792"
+fec-candidate-id: "P00009423"
 ---
 
 
@@ -194,3 +196,35 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 profile-status:: ready
 research-status:: ready — Full citation pass complete. $2.3B campaign finance, Teamsters split (60% Trump), OneWest non-prosecution, Medicare for All walk-back, AIPAC $500K+, donor-to-policy timeline (10 entries). All ### headers, source format standardized, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $1,175,903,792 |
+| Individual Contributions | $401,731,729 |
+| PAC Contributions | $152,322 |
+| Cash on Hand | 1762056.63 |
+| IE Support (Super PAC) | $1,580,805,214 |
+| IE Opposition (Super PAC) | $387,180,891 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $1,175,903,792 | $401,731,729 | $152,322 |
+| 2020 | $43,088,972 | $23,715,867 | $103,545 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| FOOD AND WATER ACTION | $1,026,511,866 | $0 |
+| FF PAC | $542,693,348 | $0 |
+| MAKE AMERICA GREAT AGAIN INC. | $0 | $203,744,984 |
+| PRESERVE AMERICA PAC | $0 | $130,341,113 |
+| RESTORATION PAC | $0 | $47,398,182 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00009423/) (Tier 1)
+<!-- auto:fec-politician end -->

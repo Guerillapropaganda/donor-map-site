@@ -22,6 +22,13 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-06 14:50 UTC — 1 profile
+
+**FEC — 1 profile:**
+- Kamala Harris — 2024 raised $1,175,903,792
+
+---
 ## 2026-04-06 11:24 UTC — 2 profiles
 
 **USAspending — 2 profiles:**
