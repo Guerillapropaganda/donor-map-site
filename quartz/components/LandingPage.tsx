@@ -148,6 +148,10 @@ const LandingPage: QuartzComponent = ({
   const storyCount = allFiles.filter((f) =>
     (f.slug ?? "").toLowerCase().startsWith("stories/"),
   ).length
+  const kStreetCount = allFiles.filter((f) => {
+    const s = (f.slug ?? "").toLowerCase()
+    return s.startsWith("lobbying-firms--and--k-street/") || s.startsWith("think-tanks/")
+  }).length
 
   // Entry points with dynamic counts
   const entryPoints: EntryPoint[] = [
@@ -175,6 +179,7 @@ const LandingPage: QuartzComponent = ({
     {
       icon: "K STREET",
       title: "Lobbyists & Think Tanks",
+      count: kStreetCount,
       desc: "The intermediaries who deliver the ask and the organizations that manufacture the talking points.",
       slugPrefix: "Lobbying-Firms--and--K-Street",
     },
