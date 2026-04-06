@@ -139,6 +139,7 @@ const navTree: NavNode[] = [
           { name: "Governors", slugPrefix: "Politicians/Democrats/Governors" },
           { name: "Presidential", slugPrefix: "Politicians/Democrats/Presidential" },
           { name: "Biden Cabinet", slugPrefix: "Politicians/Democrats/Biden-Cabinet" },
+          { name: "Former", slugPrefix: "Politicians/Democrats/Former" },
         ],
       },
       {
@@ -150,6 +151,8 @@ const navTree: NavNode[] = [
           { name: "Governors", slugPrefix: "Politicians/Republicans/Governors" },
           { name: "Presidential", slugPrefix: "Politicians/Republicans/Presidential" },
           { name: "Trump Cabinet", slugPrefix: "Politicians/Republicans/Trump-Cabinet" },
+          { name: "Bush Cabinet", slugPrefix: "Politicians/Republicans/Bush-Cabinet" },
+          { name: "Former", slugPrefix: "Politicians/Republicans/Former" },
         ],
       },
       {

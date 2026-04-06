@@ -87,7 +87,16 @@ const EventTimeline: QuartzComponent = ({
   // Limit to most recent 8
   const recentEvents = events.slice(0, 8)
 
-  if (recentEvents.length === 0) return null
+  if (recentEvents.length === 0) {
+    return (
+      <div class={classNames(displayClass, "et-panel")}>
+        <div class="et-header">
+          <div class="et-title">RECENT EVENTS</div>
+        </div>
+        <div class="et-empty">No recent events tracked for this profile.</div>
+      </div>
+    )
+  }
 
   const categoryIcons: Record<string, string> = {
     money: "$",
@@ -187,6 +196,13 @@ EventTimeline.css = `
   font-weight: 700;
   letter-spacing: 2px;
   color: #8a8a96;
+}
+
+.et-empty {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #5a5a66;
+  padding: 12px 0;
 }
 
 .et-count {

@@ -22,7 +22,13 @@ const ProfileWidget: QuartzComponent = ({
   const party = String(fm.party ?? "")
   const topDonors = Array.isArray(fm["top-donors"]) ? fm["top-donors"] as string[] : []
 
-  if (topDonors.length === 0) return null
+  if (topDonors.length === 0) {
+    return (
+      <div class={classNames(displayClass, "pw-widget")}>
+        <div class="pw-empty">No donor data tracked yet for {currentTitle}.</div>
+      </div>
+    )
+  }
 
   // Build donor info map from allFiles
   const donorInfo = new Map<string, { sector: string; slug: string; politiciansFunded: string[] }>()
@@ -229,6 +235,13 @@ ProfileWidget.css = `
   padding: 0;
   margin-top: 16px;
   overflow: visible;
+}
+
+.pw-empty {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #5a5a66;
+  padding: 16px;
 }
 
 /* Tabs */

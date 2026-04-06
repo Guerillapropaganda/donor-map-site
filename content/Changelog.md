@@ -17,6 +17,13 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 - **Fixed duplicate `last-updated` frontmatter keys** — consolidated 7 copy-pasted `updateFrontmatter()` functions into `shared.cjs` with key deduplication. Fixed existing duplicates in Adelson Family + Sheldon Adelson.
 - **Fixed enrichment pipeline timeout** — step timeout 15→18min, job 20→25min. Replaced heredoc in `$GITHUB_OUTPUT` with temp file so timeouts can't corrupt the output stream and kill the commit step. Every scheduled run was hitting the 15min ceiling; 2 of 4 daily runs were failing.
 
+### Sidebar Navigation Audit
+- **Fixed all featured item search terms** — Fox News, AIPAC, Koch Network, Lockheed Martin, Drug Pricing Theater, Defense Budget Bloat, Carried Interest, Heritage Foundation, Brookings, ALEC, Cato, CAP, all K Street firms — updated from broken lowercase slugs to correct Quartz-encoded paths
+- **Removed MSNBC** from featured media (no profile exists), replaced with Daily Wire
+- **Fixed CA Governor 2026 nav paths** — removed stale entries under Democrats/ and Republicans/ (folders don't exist there), added new Races node with CA Governor 2026 + OH Governor 2026
+- **Added Biden Cabinet** node under Democrats
+- **Added Corporate sector** to Donors & Power Networks nav tree (folder existed but wasn't navigable)
+
 ### Site Polish
 - **Listing filter bar** — added Profiles/Notes toggle + per-source-tier filter chips to folder + tag listings, auto-hides when listing has no variety
 - **Folder entries enriched** — master-profile folders now inherit their master's frontmatter (party, state, sector, tier, readiness) so they render with dots + meta line + chips like regular profile entries

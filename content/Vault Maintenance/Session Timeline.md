@@ -74,6 +74,39 @@ Advanced Canvas · Advanced Tables · Commander · Dataview · Excalidraw · Hov
 
 ## Session Log
 
+### 2026-04-05 — Pipeline Fixes + Sidebar Nav Audit (David + Site Claude, manual session)
+
+**State:** SITE + ENGINE FIXES
+
+**What was done:**
+
+*Engine repo fixes:*
+1. Fixed ProPublica 990 pipeline targeting corporations — now skips entity-type "Corporation" and "Individual Donor"
+2. Stripped bogus 990 data from 16 corporation profiles (Lockheed Martin, Devon Energy, etc.)
+3. Consolidated 7 copy-pasted `updateFrontmatter()` into shared.cjs with key deduplication
+4. Fixed duplicate `last-updated` keys in Adelson profiles
+5. Bumped enrichment pipeline timeouts (step 15→18min, job 20→25min), replaced heredoc with temp file
+
+*Sidebar navigation audit:*
+6. Fixed all featured item search terms — Fox News, AIPAC, Koch, Lockheed, all K Street firms, all think tanks, all stories. Updated from broken lowercase slugs to correct Quartz-encoded paths.
+7. Removed MSNBC from featured media (no profile), replaced with Daily Wire
+8. Fixed CA Governor 2026 nav — removed stale entries under Democrats/ and Republicans/, added Races node with CA Governor 2026 + OH Governor 2026
+9. Added Biden Cabinet node under Democrats, Corporate sector to Donors nav tree
+
+**Files modified:**
+- `quartz/components/DonorMapSidebar.tsx` — featured items + nav tree
+- `content/Changelog.md` — pipeline fixes + sidebar audit sections
+- Engine: `scripts/propublica-pipeline.cjs`, `scripts/lib/shared.cjs`, all 7 pipeline scripts, `.github/workflows/api-enrichment.yml`
+- 16 corporation profile files (frontmatter cleanup)
+- 2 Adelson profile files (duplicate key fix)
+
+**Next priorities:**
+1. Categorization audit (#2) — Former/ folder convention, governor/house/senate seat-loss audit
+2. EventTimeline empty state + RSS pipeline run (#3)
+3. Empty-state audit sweep for sidebar components (#4)
+
+---
+
 ### 2026-04-04 — API Pipeline Fix + Site Polish (David + Site Claude, manual session)
 
 **State:** SYSTEM MAINTENANCE + SITE POLISH
