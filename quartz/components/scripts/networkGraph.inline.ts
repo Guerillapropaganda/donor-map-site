@@ -457,8 +457,131 @@ function initNetworkGraph() {
   })
 }
 
+// ── Mini-graph for ProfileWidget ──
+function initMiniGraph() {
+  const miniEls = document.querySelectorAll(".pw-mini-graph")
+  miniEls.forEach((el) => {
+    const container = el as HTMLElement
+    if (container.querySelector("svg")) return // already rendered
+
+    const raw = container.dataset.graph
+    if (!raw) return
+
+    let data: { nodes: any[]; edges: any[] }
+    try {
+      data = JSON.parse(raw)
+    } catch {
+      return
+    }
+
+    if (data.nodes.length === 0) return
+
+    const width = 280
+    const height = 240
+
+    const svgNs = "http://www.w3.org/2000/svg"
+    const svgEl = document.createElementNS(svgNs, "svg")
+    svgEl.setAttribute("width", String(width))
+    svgEl.setAttribute("height", String(height))
+    svgEl.style.display = "block"
+    svgEl.style.margin = "0 auto"
+    container.appendChild(svgEl)
+
+    const svg = select(svgEl)
+    const g = svg.append("g")
+
+    const simNodes: GraphNode[] = data.nodes.map((n: any, i: number) => ({
+      ...n,
+      degree: i === 0 ? data.edges.length : 1,
+    }))
+    const nodeMap = new Map(simNodes.map((n) => [n.id, n]))
+
+    const simLinks: GraphLink[] = data.edges
+      .map((e: any) => ({
+        source: nodeMap.get(e.source)!,
+        target: nodeMap.get(e.target)!,
+      }))
+      .filter((l: any) => l.source && l.target)
+
+    // Edges
+    const linkEls = g
+      .append("g")
+      .selectAll("line")
+      .data(simLinks)
+      .join("line")
+      .attr("stroke", "#2a2a3a")
+      .attr("stroke-opacity", 0.5)
+      .attr("stroke-width", 0.6)
+
+    // Nodes
+    const nodeEls = g
+      .selectAll("g.mini-node")
+      .data(simNodes)
+      .join("g")
+      .attr("class", "mini-node")
+      .attr("cursor", "pointer")
+
+    nodeEls
+      .append("path")
+      .attr("d", (d) => {
+        const r = d.degree > 1 ? 8 : 5
+        return d.type === "politician" ? hexPath(0, 0, r) : rectPath(0, 0, r)
+      })
+      .attr("fill", (d) => getNodeColor(d))
+      .attr("fill-opacity", 0.85)
+
+    nodeEls
+      .append("text")
+      .attr("y", (d) => (d.degree > 1 ? 14 : 11))
+      .attr("text-anchor", "middle")
+      .attr("fill", COLORS.text)
+      .attr("font-family", "'Space Mono', monospace")
+      .attr("font-size", "8px")
+      .text((d) => (d.name.length > 16 ? d.name.slice(0, 14) + ".." : d.name))
+
+    // Click to navigate
+    nodeEls.on("click", (_event, d) => {
+      if (d.slug) window.location.href = d.slug
+    })
+
+    // Force
+    const sim = forceSimulation<GraphNode>(simNodes)
+      .force(
+        "link",
+        forceLink<GraphNode, GraphLink>(simLinks)
+          .id((d) => d.id)
+          .distance(40),
+      )
+      .force("charge", forceManyBody().strength(-80))
+      .force("center", forceCenter(width / 2, height / 2))
+      .force("collision", forceCollide<GraphNode>().radius(12))
+
+    for (let i = 0; i < 150; i++) sim.tick()
+
+    function ticked() {
+      linkEls
+        .attr("x1", (d: any) => (d.source as GraphNode).x!)
+        .attr("y1", (d: any) => (d.source as GraphNode).y!)
+        .attr("x2", (d: any) => (d.target as GraphNode).x!)
+        .attr("y2", (d: any) => (d.target as GraphNode).y!)
+      nodeEls.attr("transform", (d: any) => `translate(${d.x},${d.y})`)
+    }
+
+    ticked()
+    sim.on("tick", ticked)
+    sim.alphaDecay(0.1).restart()
+  })
+}
+
+// Expose for ProfileWidget tab activation
+;(window as any).initMiniGraph = initMiniGraph
+
 // Init
 initNetworkGraph()
+initMiniGraph()
 document.addEventListener("nav", () => {
-  setTimeout(initNetworkGraph, 150)
+  setTimeout(() => {
+    initNetworkGraph()
+    initMiniGraph()
+  }, 150)
 })
