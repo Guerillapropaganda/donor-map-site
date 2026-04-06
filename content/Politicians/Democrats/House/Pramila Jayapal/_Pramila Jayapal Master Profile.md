@@ -2,7 +2,7 @@
 title: "Pramila Jayapal"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,8 @@ top-donors:
   - "SEIU"
   - "CNA"
   - "ActBlue"
+total-received: "$1,548,482"
+fec-candidate-id: "H6WA07458"
 ---
 
 #pramila-jayapal #democrat #washington #house #progressive-caucus #medicare-for-all #immigration #labor #tech #seattle #antitrust
@@ -170,3 +172,37 @@ This is the clearest donor-class tension in her record: genuine antitrust aggres
 
 profile-status:: developed
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,548,482 |
+| Individual Contributions | $657,224 |
+| PAC Contributions | $210,500 |
+| Cash on Hand | 1979902.12 |
+| IE Support (Super PAC) | $736,164 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,548,482 | $657,224 | $210,500 |
+| 2024 | $2,824,206 | $1,655,181 | $420,800 |
+| 2022 | $2,772,436 | $1,605,786 | $335,000 |
+| 2020 | $2,655,143 | $1,656,376 | $358,320 |
+| 2018 | $2,212,623 | $1,416,172 | $347,460 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| WOMEN VOTE! | $564,061 | $0 |
+| UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB | $94,608 | $0 |
+| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $25,017 | $0 |
+| PLANNED PARENTHOOD VOTES NORTHWEST | $19,132 | $0 |
+| ONEAMERICA VOTES | $9,956 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1)
+<!-- auto:fec-politician end -->

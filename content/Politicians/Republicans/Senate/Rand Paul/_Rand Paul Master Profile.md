@@ -2,7 +2,7 @@
 title: "Rand Paul Master Profile"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,6 +13,11 @@ top-donors:
   - "Koch Network - Charles Koch"
   - "Cryptocurrency Industry"
 bioguide-id: "A000383"
+govtrack-id: 412492
+bills-sponsored: 48
+bills-cosponsored: 59
+website: "https://www.paul.senate.gov"
+phone: "202-224-4343"
 ---
 
 
@@ -153,3 +158,22 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 - [CNN Money: Rand Paul first presidential candidate to accept Bitcoin](https://money.cnn.com/2015/04/07/technology/rand-paul-bitcoin/index.html) (Tier 2)
 - [Wikipedia: Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) (Tier 3)
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 48 |
+| Bills Cosponsored | 59 |
+| Total Votes Cast | 5,337 |
+
+**Recent bills sponsored:**
+
+- S. 601: A bill to remove restrictions from a parcel of land in Paducah, Kentucky. — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+- S.J.Res. 108: A joint resolution providing for congressional disapproval of the proposed foreign military sales to the Government of U — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3853: End the Vaccine Carveout Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3670: End Welfare for Noncitizens Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3638: Antitrust Freedom Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 14, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412492) (Tier 1)
+<!-- auto:govtrack end -->

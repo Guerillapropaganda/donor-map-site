@@ -2,13 +2,14 @@
 title: "Ron Johnson"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Senate"
 state: "Wisconsin"
 state-abbr: "WI"
+fec-candidate-id: "S2PA00513"
 ---
 
 #politician #republican #senate #wisconsin #tax-policy #manufacturing #covid #russia #class-analysis #follow-the-money #gavel-power
@@ -140,3 +141,20 @@ Johnson's donor-class function is to serve as the billionaire manufacturing and 
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2022 |
+| Cash on Hand | 0.00 |
+| IE Opposition (Super PAC) | $5,000 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| REALLY AMERICAN PAC | $0 | $5,000 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1)
+<!-- auto:fec-politician end -->

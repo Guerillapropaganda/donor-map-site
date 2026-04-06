@@ -2,7 +2,7 @@
 title: "Jeffrey Epstein Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Jeffrey Epstein Network.md"
@@ -14,6 +14,8 @@ politicians-funded:
   - "Robert F. Kennedy Jr."
 issues:
   - "Dark Money & Campaign Finance"
+lobbying-spend: 1699750
+lobbying-filings: 70
 ---
 
 
@@ -134,3 +136,22 @@ This section documents categories of Epstein-related claims that exist in public
 - [OpenSecrets: Dark money reporting](https://www.opensecrets.org/dark-money) (Tier 1)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.7M |
+| Quarterly Filings | 70 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 3 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Budget/Appropriations, Financial Institutions/Investments/Securities, Health Issues, Housing, Medicare/Medicaid, Pharmacy, Trade (domestic/foreign)
+
+**Lobbying firms:** CAVAROCCHI RUSCIO DENNIS ASSOCIATES, L.L.C., JEFFREY J. KIMBELL & ASSOCIATES, INC., MR. JEFFREY SCHERMERHORN
+
+**Agencies contacted:** Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), HOUSE OF REPRESENTATIVES, SENATE, U.S. Trade Representative (USTR)
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Jeffrey%20Epstein%20Network) (Tier 1)
+<!-- auto:lda-lobbying end -->

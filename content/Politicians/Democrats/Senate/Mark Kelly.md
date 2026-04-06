@@ -6,6 +6,8 @@ last-updated: 2026-04-06
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
+total-received: "$33,067,827"
+fec-candidate-id: "S0AZ00350"
 ---
 
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control
@@ -85,3 +87,36 @@ content-readiness:: ready
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $33,067,827 |
+| Individual Contributions | $11,200,940 |
+| PAC Contributions | $70,597 |
+| Cash on Hand | 14884220.08 |
+| IE Support (Super PAC) | $14,524,703 |
+| IE Opposition (Super PAC) | $112,622,651 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $33,067,827 | $11,200,940 | $70,597 |
+| 2022 | $92,771,344 | $47,574,805 | $1,477,485 |
+| 2020 | $101,106,584 | $50,903,150 | $837,391 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NRSC | $0 | $26,243,168 |
+| SENATE LEADERSHIP FUND | $0 | $24,345,799 |
+| DEFENDARIZONA | $0 | $22,369,897 |
+| CLUB FOR GROWTH ACTION | $0 | $12,643,765 |
+| THE SENTINEL ACTION FUND | $0 | $10,655,338 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0AZ00350/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -2,7 +2,7 @@
 title: "Heritage Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,6 +11,13 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
+ein: 237327730
+annual-revenue: "$106.3M"
+net-assets: "$387.7M"
+tax-year: "2022"
+federal-awards-total: 3837817
+federal-contracts-count: 9
+federal-grants-count: 25
 ---
 
 
@@ -171,3 +178,51 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 ---
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2022)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $106.3M |
+| Total Contributions | $95.1M |
+| Program Service Revenue | $34K |
+| Investment Income | $2.1M |
+| Total Expenses | $93.7M |
+| Net Assets | $387.7M |
+| Officer Compensation | $5.9M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 237327730](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2023_prefixes_22-25%2F237327730_202212_990_2023091121660578.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $3.8M |
+| Contracts (recent 3yr) | 9 ($935K sampled) |
+| Grants (recent 3yr) | 25 ($56.6M sampled) |
+| Federal Agencies | 8 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $163K | Department of Defense | AH-1 FLIGHT HOURS (TPS) |
+| $149K | Department of Defense | AH-1F FERRY FLIGHTS (TPS), AH-1F FLIGHT HOURS (TPS), AH-1F MAINTAINER DAYS (TPS), AH-1F TRAVEL COSTS |
+| $131K | Department of Defense | A250P FLY-OVER OF 2XUH1 AND 1XAH1 - AIRSHOW ISO WASHINGTON DC PARADE |
+| $116K | Department of Defense | AH-1F FLIGHT HOURS (TPS) |
+| $107K | Department of Defense | TPS RW AH-1F FLIGHT HOURS |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $25.3M | Department of the Interior | WO WILD HORSE AND BURRO TRAINING, PLACEMENT AND MARKETING PROJECT |
+| $3.9M | Department of Commerce | THIS EDA INVESTMENT SUPPORTS THE TRANSFORMATIONAL RENOVATION OF BISMARCK'S KEELBOAT PARK INTO THE BI |
+| $3.6M | Department of the Interior | FURTHER NORTHERN PLAINS NATIONAL HERITAGE AREA EFFORTS |
+| $2.7M | Department of the Interior | P20AC00173 AVIA NATIONAL AVIATION HERITAGE AREA FY20 $336,388.00 |
+| $2.5M | Department of Housing and Urban Development | ECONOMIC DEVELOPMENT INITIATIVE, COMMUNITY PROJECT FUNDING, AND MISCELLANEOUS GRANTS |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Heritage%20Foundation) (Tier 1)
+<!-- auto:usaspending end -->

@@ -12,6 +12,10 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
 federal-contracts: "22671"
+ein: 136155650
+annual-revenue: "$1.0M"
+net-assets: "$18.6M"
+tax-year: "2023"
 ---
 
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying
@@ -98,3 +102,15 @@ content-readiness:: ready
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Morgan%20Stanley&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.0M |
+| Total Contributions | $0 |
+| Total Expenses | $147K |
+| Net Assets | $18.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 136155650](https://projects.propublica.org/nonprofits/organizations/136155650) (Tier 1)
+<!-- auto:propublica-990 end -->

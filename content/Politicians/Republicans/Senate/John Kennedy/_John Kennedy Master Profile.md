@@ -2,7 +2,7 @@
 title: "John Kennedy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -21,6 +21,7 @@ top-donors:
 govtrack-id: 406274
 bills-sponsored: 0
 bills-cosponsored: 0
+fec-candidate-id: "S0MD00069"
 ---
 
 #kennedy #louisiana #judiciary #energy #petrochemical #populist-brand #folksy #banking #cfpb #cancer-alley
@@ -188,3 +189,13 @@ See sub-note: [[The Folksy Populist Brand and Petrochemical Reality]]
 
 profile-status:: developed
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 1980 |
+| Cash on Hand | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
+<!-- auto:fec-politician end -->

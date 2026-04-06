@@ -2,13 +2,15 @@
 title: "Michael Waltz"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Cabinet"
 issues:
   - "Defense & Military"
+total-received: "$3,109"
+fec-candidate-id: "H8FL06148"
 ---
 
 #politician #republican #trump-cabinet #un-ambassador #national-security #defense #signalgate #class-analysis #follow-the-money
@@ -111,3 +113,36 @@ Waltz uses military credentialing as his primary rhetorical frame — "Green Ber
 
 profile-status:: draft
 content-readiness:: draft
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $3,109 |
+| Cash on Hand | 659554.15 |
+| IE Support (Super PAC) | $4,698,061 |
+| IE Opposition (Super PAC) | $1,240,571 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $3,109 | $0 | $0 |
+| 2024 | $2,820,256 | $1,153,651 | $538,966 |
+| 2022 | $3,165,364 | $1,373,100 | $544,080 |
+| 2020 | $2,869,733 | $1,433,578 | $494,506 |
+| 2018 | $2,197,940 | $1,192,230 | $309,275 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| WITH HONOR FUND, INC. | $3,847,465 | $0 |
+| HOUSE MAJORITY PAC | $0 | $999,863 |
+| AMERICAN PATRIOTS PAC | $733,000 | $0 |
+| AMERICAN JOBS AND GROWTH PAC | $0 | $176,702 |
+| SPECIAL OPERATIONS FOR AMERICA | $110,004 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8FL06148/) (Tier 1)
+<!-- auto:fec-politician end -->

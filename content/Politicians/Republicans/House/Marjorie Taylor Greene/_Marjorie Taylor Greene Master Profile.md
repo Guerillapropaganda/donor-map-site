@@ -2,7 +2,7 @@
 title: "Marjorie Taylor Greene Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,7 @@ state-abbr: "GA"
 district: "14"
 top-donors:
   - "MAGA Small Dollar Base"
+fec-candidate-id: "H0GA06192"
 ---
 
 
@@ -161,3 +162,34 @@ Greene aligned with the Department of Government Efficiency (DOGE) framework and
 - [NOTUS: MTG fundraising cash](https://www.notus.org/georgia/marjorie-taylor-greene-fundraising) (Tier 2)
 - [Capitol Beat: MTG Georgia's top congressional fundraiser](https://capitol-beat.org/2024/04/marjorie-taylor-greene-georgias-top-congressional-fundraiser/) (Tier 2)
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $194,656 |
+| IE Opposition (Super PAC) | $701,245 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $0 | $0 | $0 |
+| 2024 | $8,960,242 | $3,066,641 | $35,250 |
+| 2022 | $12,588,124 | $3,734,992 | $48,950 |
+| 2020 | $2,631,427 | $664,146 | $59,750 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| GEORGIANS FOR STRONG FAMILIES, INC. | $0 | $150,000 |
+| THE LINCOLN PROJECT | $0 | $131,892 |
+| VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE | $0 | $121,570 |
+| A GREAT AMERICA PAC | $0 | $109,304 |
+| DRAIN THE DC SWAMP PAC | $73,333 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1)
+<!-- auto:fec-politician end -->

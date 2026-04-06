@@ -2,11 +2,12 @@
 title: "Christopher Ruddy"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Individual Donor"
+total-political-spend: "$2,273,803"
 ---
 
 #newsmax #trump-media #right-wing-media #trump-confidant #media-proprietor
@@ -41,3 +42,28 @@ Christopher Ruddy exemplifies how media proprietorship can be weaponized as a di
 ---
 
 `content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $2,273,803 |
+| Contributions | 346 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| REPUBLICAN NATIONAL COMMITTEE | $393,900 | REP |
+| TRUMP VICTORY | $275,000 | — |
+| LEAN FORWARD AMERICA | $200,000 | — |
+| TRUTH AND COURAGE PAC | $100,000 | — |
+| NRSC | $76,300 | REP |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $65,800 | REP |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $60,200 | REP |
+| TED CRUZ VICTORY FUND | $56,300 | — |
+| NRCC | $54,090 | REP |
+| SENATE LEADERSHIP FUND | $50,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Christopher%20Ruddy) (Tier 1)
+<!-- auto:fec-donor end -->

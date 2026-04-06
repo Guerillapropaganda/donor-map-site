@@ -16,6 +16,10 @@ issues:
 federal-awards-total: 21221024559
 federal-contracts-count: 25
 federal-grants-count: 23
+ein: 916056255
+annual-revenue: "$914K"
+net-assets: "$468K"
+tax-year: "2023"
 ---
 
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor
@@ -218,3 +222,17 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Boeing) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $914K |
+| Total Contributions | $0 |
+| Program Service Revenue | $908K |
+| Investment Income | $6K |
+| Total Expenses | $956K |
+| Net Assets | $468K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 916056255](https://projects.propublica.org/nonprofits/organizations/916056255) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,7 +2,7 @@
 title: "IBEW - International Brotherhood of Electrical Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -13,6 +13,7 @@ politicians-funded:
 issues:
   - "Labor & Workers"
   - "Infrastructure"
+total-political-spend: "$4,861,275"
 ---
 
 
@@ -95,3 +96,28 @@ The 95% Democratic PAC split tells one story. The fact that IBEW members in many
 
 research-status:: ready — federal PAC spending ($20.77M 2024 cycle) confirmed via FEC/OpenSecrets. Policy wins (IIJA, IRA, Davis-Bacon) documented with Tier 1 sources. Class analysis complete — building trades structural position, clean energy transition, rank-and-file tension. All ### headers in place, sources tier-labeled. Promoted to ready Session 38h (March 23, 2026).
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $4,861,275 |
+| Contributions | 411 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| THE GOOD LAND COMMITTEE, INC. | $2,000,000 | DEM |
+| PIC 2021, INC.  | $1,000,000 | — |
+| BUILDING A BETTER PA | $242,000 | — |
+| FRIENDS OF CONGRESSMAN GEORGE MILLER | $60,000 | DEM |
+| CARTWRIGHT FOR CONGRESS | $55,000 | DEM |
+| MCKINLEY FOR CONGRESS | $50,000 | REP |
+| COMMITTEE TO ELECT ALAN GRAYSON | $50,000 | DEM |
+| DARREN SOTO FOR CONGRESS | $48,000 | DEM |
+| ALL FOR OUR COUNTRY LEADERSHIP PAC | $45,000 | — |
+| PAUL COOK FOR CONGRESS | $45,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=IBEW%20-%20International%20Brotherhood%20of%20Electrical%20Workers) (Tier 1)
+<!-- auto:fec-donor end -->

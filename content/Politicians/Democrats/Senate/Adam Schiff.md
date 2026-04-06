@@ -2,9 +2,10 @@
 title: "Adam Schiff"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
+fec-candidate-id: "H0CA27085"
 ---
 
 #master-profile #democrat #senate #california #intelligence #hollywood #aipac #follow-the-money #class-analysis
@@ -91,3 +92,35 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $7,025 |
+| IE Opposition (Super PAC) | $1,327 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $0 | $0 | $0 |
+| 2022 | $25,328,093 | $9,044,019 | $504,150 |
+| 2020 | $19,598,363 | $6,153,196 | $509,394 |
+| 2018 | $6,268,995 | $2,955,743 | $566,750 |
+| 2016 | $975,256 | $459,599 | $444,170 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| 27TH CONGRESSIONAL DISTRICT DEMOCRATIC CLUB | $0 | $44,171 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE - EXPENDITURES | $0 | $23,481 |
+| NARAL | $0 | $21,893 |
+| PLANNED PARENTHOOD LA ADVOCACY PROJECT | $0 | $10,023 |
+| ALHAMBRA DEMOCRATIC CLUB | $0 | $3,577 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CA27085/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -2,11 +2,12 @@
 title: "Fraternal Order of Police"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
 entity-type: "Individual Donor"
+total-political-spend: "$454,168"
 ---
 
 #fop #police #law-enforcement #union #qualified-immunity #reform-opposition
@@ -47,3 +48,28 @@ Preservation of qualified immunity (which shields officers from personal liabili
 - [Ballotpedia: Fraternal Order of Police](https://ballotpedia.org/Fraternal_Order_of_Police) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $454,168 |
+| Contributions | 212 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| GREEN MOUNTAIN PAC | $72,250 | — |
+| AMERIPAC: THE FUND FOR A GREATER AMERICA | $32,500 | — |
+| HOYER FOR CONGRESS | $32,000 | DEM |
+| LEAHY FOR U.S. SENATOR COMMITTEE | $25,000 | — |
+| TRUMP VICTORY | $25,000 | — |
+| FOLLOW THE NORTH STAR FUND | $15,000 | — |
+| TEXANS FOR SENATOR JOHN CORNYN INC. | $14,000 | REP |
+| ALAN LOWENTHAL FOR CONGRESS | $11,000 | DEM |
+| DEMOCRATIC PARTY OF ILLINOIS | $10,000 | DEM |
+| MIDDLE CLASS PAC | $10,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Fraternal%20Order%20of%20Police) (Tier 1)
+<!-- auto:fec-donor end -->

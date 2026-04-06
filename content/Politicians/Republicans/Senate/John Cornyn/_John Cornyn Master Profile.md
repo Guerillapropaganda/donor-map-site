@@ -2,7 +2,7 @@
 title: "John Cornyn"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -25,6 +25,8 @@ top-donors:
   - "Goldman Sachs"
   - "Blackstone"
   - "Senate Leadership Fund"
+total-received: "$11,155,399"
+fec-candidate-id: "S2TX00106"
 ---
 
 #master-profile #republican #texas #senate #judiciary #intelligence #oil-gas #defense #border #finance #gun-bill #nra #cornyn-cruz
@@ -167,3 +169,38 @@ In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned
 
 profile-status:: developed
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $11,155,399 |
+| Individual Contributions | $4,202,597 |
+| PAC Contributions | $1,644,266 |
+| Cash on Hand | 4972817.72 |
+| IE Support (Super PAC) | $18,540,062 |
+| IE Opposition (Super PAC) | $33,701,003 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $11,155,399 | $4,202,597 | $1,644,266 |
+| 2020 | $34,375,761 | $13,757,022 | $3,862,699 |
+| 2014 | $15,738,354 | $9,096,428 | $3,552,742 |
+| 2008 | $19,326,337 | $10,639,734 | $3,294,732 |
+| 2002 | $9,798,366 | $0 | $1,673,281 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SMP | $0 | $17,074,337 |
+| FF PAC | $0 | $13,200,960 |
+| TEXANS FOR A CONSERVATIVE MAJORITY | $9,787,637 | $0 |
+| AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $6,910,561 | $0 |
+| WOMEN VOTE! | $0 | $1,977,955 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
+<!-- auto:fec-politician end -->

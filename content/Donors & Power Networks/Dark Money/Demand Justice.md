@@ -2,7 +2,7 @@
 title: "Demand Justice"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,6 +15,8 @@ politicians-funded:
   - "Barack Obama"
 issues:
   - "Dark Money & Campaign Finance"
+lobbying-spend: 650000
+lobbying-filings: 45
 ---
 
 #donor-node #dark-money #democrat #judicial-appointments #court-capture #class-analysis #donor
@@ -169,3 +171,22 @@ Republicans frame judicial appointments as "restoring constitutional integrity."
 
 research-status:: ready - Comprehensive dark money donor node mapping Demand Justice's judicial warfare infrastructure, $50M+ deployment timeline, judge vetting parallels to Federalist Society, core contradictions in Democratic dark money usage. 164 lines, 9 sources (Tier 1-3). Promoted Session 38k.
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $650K |
+| Quarterly Filings | 45 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Constitution, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Financial Institutions/Investments/Securities, Foreign Relations, Government Issues, Health Issues, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Medicare/Medicaid, Pharmacy, Science/Technology, Taxation/Internal Revenue Code, Telecommunications
+
+**Lobbying firms:** BLACK DIAMOND STRATEGIES LLC, CONTINENTAL STRATEGY, LLC, DEMAND PROGRESS ACTION, INC, KATHERINE OH, MARBLE ARCH, OMEGA STRATEGIES LLC (DC), TARPLIN, DOWNS & YOUNG, LLC
+
+**Agencies contacted:** Consumer Financial Protection Bureau (CFPB), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Trade Commission (FTC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Justice, Dept of (DOJ), Natl Economic Council (NEC), Office of Management & Budget (OMB) +2 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Demand%20Justice) (Tier 1)
+<!-- auto:lda-lobbying end -->

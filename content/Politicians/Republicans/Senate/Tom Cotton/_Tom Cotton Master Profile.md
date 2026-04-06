@@ -2,7 +2,7 @@
 title: "Tom Cotton Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -16,6 +16,11 @@ top-donors:
   - "AIPAC - American Israel Public Affairs Committee"
   - "Paul Singer"
   - "Defense Industry"
+govtrack-id: 412508
+bills-sponsored: 78
+bills-cosponsored: 149
+website: "https://www.cotton.senate.gov"
+phone: "202-224-2353"
 ---
 
 
@@ -118,3 +123,23 @@ Tom Cotton. Republican senator from Arkansas (2015–present). The neoconservati
 - [Washington Post: NYT editorial page editor resigns after uproar over Cotton op-ed](https://www.washingtonpost.com/lifestyle/media/new-york-times-editorial-page-editor-resigns-after-uproar-over-cotton-op-ed/2020/06/07/bca09606-a8fd-11ea-9063-e69bd6520940_story.html) (Tier 2)
 - [Daily Beast: Cotton as neocon darling](https://www.thedailybeast.com/cruz-trashed-trump-and-vance-in-secret-recordings-f-you-ted/) (Tier 2)
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 78 |
+| Bills Cosponsored | 149 |
+| Total Votes Cast | 5,398 |
+| Leadership | Senate Republican Conference Chair |
+
+**Recent bills sponsored:**
+
+- S. 4235: A bill to prohibit executive agencies from procuring or operating certain unmanned ground vehicle systems, and for other — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4206: A bill to amend title 31, United States Code, to require certain financial institutions to verify the citizenship and le — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4165: Educational Visa Transparency Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4158: A bill to temporarily suspend the clean electricity production credit to support the Strategic Petroleum Reserve. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4106: Rx ACCESS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412508) (Tier 1)
+<!-- auto:govtrack end -->

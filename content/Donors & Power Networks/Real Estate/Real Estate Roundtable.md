@@ -2,7 +2,7 @@
 title: "Real Estate Roundtable"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -16,6 +16,7 @@ ein: 521128863
 annual-revenue: "$8.0M"
 net-assets: "$7.1M"
 tax-year: "2024"
+total-political-spend: "$1,840,500"
 ---
 
 
@@ -155,3 +156,28 @@ Opportunity Zones were marketed as anti-poverty policy. The reality: $48 billion
 ---
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,840,500 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $150,000 | — |
+| DSCC | $90,000 | DEM |
+| NRSC | $75,000 | REP |
+| NRCC | $70,000 | REP |
+| DCCC | $65,000 | DEM |
+| FRENCH HILL FOR ARKANSAS | $30,000 | REP |
+| IN THE ARENA PAC | $27,500 | — |
+| MAGGIE FOR NH | $25,000 | DEM |
+| COMMON GROUND PAC | $25,000 | DEM |
+| JASON SMITH FOR CONGRESS | $20,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Real%20Estate%20Roundtable) (Tier 1)
+<!-- auto:fec-donor end -->

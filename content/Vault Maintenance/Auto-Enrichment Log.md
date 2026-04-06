@@ -17,6 +17,73 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+
+
+
+
+## 2026-04-06 11:24 UTC — 2 profiles
+
+**USAspending — 2 profiles:**
+- Hawaiian Electric Company — 15 contracts, 1 grants
+- Heritage Foundation — 9 contracts, 25 grants
+
+---
+## 2026-04-06 11:21 UTC — 2 profiles
+
+**GovTrack — 2 profiles:**
+- Tom Cotton — 78 sponsored, 149 cosponsored
+- Rand Paul — 48 sponsored, 59 cosponsored
+
+---
+## 2026-04-06 11:19 UTC — 19 profiles
+
+**FEC — 19 profiles:**
+- Ritchie Torres — 2026 raised $5,052,480
+- John Cornyn — 2026 raised $11,155,399
+- Ron Johnson — 2022 raised $0
+- John Kennedy — 1980 raised $0
+- Michael Waltz — 2026 raised $3,109
+- Lee Zeldin — 2022 raised $781,455
+- Juliana Stratton — 2026 raised $4,058,200
+- Mark Kelly — 2028 raised $33,067,827
+- Marjorie Taylor Greene — 2026 raised $0
+- Raphael Warnock — 2028 raised $6,047,785
+- Pramila Jayapal — 2026 raised $1,548,482
+- Adam Schiff — 2024 raised $0
+- Doug Burgum — 2024 raised $18,007,929
+- Business Roundtable — total political spend $110,825
+- Christopher Ruddy — total political spend $2,273,803
+- Fraternal Order of Police — total political spend $454,168
+- Real Estate Roundtable — total political spend $1,840,500
+- IBEW - International Brotherhood of Electrical Workers — total political spend $4,861,275
+- Bradley Foundation — total political spend $150,500
+
+---
+## 2026-04-06 11:19 UTC — 10 profiles
+
+**ProPublica — 10 profiles:**
+- Boeing — $914K revenue, 2023 990
+- Apple — $8.9M revenue, 2023 990
+- Alliance Defending Freedom — $101.8M revenue, 2023 990
+- Morgan Stanley — $1.0M revenue, 2023 990
+- Heritage Foundation — $106.3M revenue, 2022 990
+- BAE Systems — $418.7M revenue, 2022 990
+- John Deere — $17.7M revenue, 2023 990
+- JB Pritzker — $4.2M revenue, 2023 990
+- Everytown for Gun Safety — $60.7M revenue, 2023 990
+- Duke Energy — $1.1M revenue, 2023 990
+
+---
+## 2026-04-06 11:16 UTC — 4 profiles
+
+**Congress.gov — 4 profiles:**
+- Patty Murray — 0 policy areas, bioguide A000383
+- Barbara Lee — 0 policy areas, bioguide A000383
+- Susan Collins — 0 policy areas, bioguide A000383
+- Cory Booker — 0 policy areas, bioguide A000383
+
+---
 ## 2026-04-06 07:22 UTC — 3 profiles
 
 **USAspending — 3 profiles:**

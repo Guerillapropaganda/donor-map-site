@@ -2,7 +2,7 @@
 title: "John Deere"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -13,6 +13,10 @@ issues:
 federal-awards-total: 13881681
 federal-contracts-count: 25
 federal-grants-count: 0
+ein: 366051024
+annual-revenue: "$17.7M"
+net-assets: "$212.6M"
+tax-year: "2023"
 ---
 
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
@@ -80,3 +84,16 @@ The right-to-repair fight is a case study in how intellectual property law conve
 - [Ballotpedia: Deere & Company](https://ballotpedia.org/Deere_&_Company) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $17.7M |
+| Total Contributions | $0 |
+| Total Expenses | $42.5M |
+| Net Assets | $212.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 366051024](https://projects.propublica.org/nonprofits/organizations/366051024) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F366051024_202310_990PF_2024110422794422.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,13 +2,15 @@
 title: "Cryptocurrency Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-31
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Individual Donor"
 issues:
   - "Technology"
+lobbying-spend: 90000
+lobbying-filings: 5
 ---
 
 #crypto #cryptocurrency #bitcoin #blockchain #deregulation #fairshake #sec #class-analysis #follow-the-money
@@ -155,3 +157,22 @@ The crypto industry's $245M+ 2024 election investment produced four concrete pol
 - [Ballotpedia: Cryptocurrency regulation](https://ballotpedia.org/Cryptocurrency_Industry) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $90K |
+| Quarterly Filings | 5 |
+| Year Range | 2024-2024 |
+| Lobbying Firms | 2 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Financial Institutions/Investments/Securities
+
+**Lobbying firms:** ATLAS CROSSING LLC, HILL EAST GROUP, LLC
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cryptocurrency%20Industry) (Tier 1)
+<!-- auto:lda-lobbying end -->

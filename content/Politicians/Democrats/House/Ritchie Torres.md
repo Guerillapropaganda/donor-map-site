@@ -2,9 +2,11 @@
 title: "Ritchie Torres"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
+total-received: "$5,052,480"
+fec-candidate-id: "H0NY15160"
 ---
 
 #master-profile #democrat #house #bronx #new-york #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #crypto #class-contradiction
@@ -98,3 +100,36 @@ Example 4: District Abandonment. Torres's stated priority is addressing Bronx ho
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $5,052,480 |
+| Individual Contributions | $1,616,453 |
+| PAC Contributions | $368,000 |
+| Cash on Hand | 14935105.41 |
+| IE Support (Super PAC) | $1,909,191 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $5,052,480 | $1,616,453 | $368,000 |
+| 2024 | $9,208,382 | $5,785,637 | $842,073 |
+| 2022 | $4,442,337 | $3,204,934 | $474,202 |
+| 2020 | $2,220,924 | $1,805,354 | $299,980 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| EQUALITY PROJECT PAC | $454,268 | $0 |
+| VOTER PROTECTION PROJECT | $414,621 | $0 |
+| CHC BOLD PAC | $336,876 | $0 |
+| PROTECT PROGRESS | $220,295 | $0 |
+| FAIRSHAKE | $126,168 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1)
+<!-- auto:fec-politician end -->

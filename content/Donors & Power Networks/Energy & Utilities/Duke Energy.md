@@ -2,11 +2,15 @@
 title: "Duke Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
+ein: 581586283
+annual-revenue: "$1.1M"
+net-assets: "$6.2M"
+tax-year: "2023"
 ---
 
 #duke-energy #utility #coal-ash #north-carolina #monopoly #rate-base #renewables
@@ -49,3 +53,16 @@ Favorable rate increases from state utility commissions, coal ash cleanup cost r
 - [Ballotpedia: Duke Energy](https://ballotpedia.org/Duke_Energy) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.1M |
+| Total Contributions | $0 |
+| Total Expenses | $29.7M |
+| Net Assets | $6.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 581586283](https://projects.propublica.org/nonprofits/organizations/581586283) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F581586283_202312_990PF_2024112522929234.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,7 +2,7 @@
 title: "Bradley Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,7 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
   - "Infrastructure"
+total-political-spend: "$150,500"
 ---
 
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure
@@ -223,3 +224,20 @@ The 2022 grant of $27.1 million to America First Legal — 61% of AFL's budget �
 
 content-readiness:: developed
 research-status:: developed — Expanded from 47 to 190+ lines. CMD $86.4M grant breakdown documented (AFL $27.1M, TPUSA $7.8M, Project Veritas $1.8M), Project 2025 $52.9M funding mapped, Milwaukee voucher history with dollar amounts, temporal mapping 10 entries, class analysis with 2 callout blocks, 12 sourced citations Tier 1-3. Gaps: 2023 and 2024 annual 990 data not yet available on ProPublica; full donor list of Bradley Impact Fund (501(c)(4) structure shields contributors beyond Diane Hendricks). Promoted from ready→developed due to substantial content addition. Needs URL verification pass for full ready promotion.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $150,500 |
+| Contributions | 2 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| 170 FREEDOM MILWAUKEE 2024 HOST COMMITTEE INC | $150,000 | REP |
+| BOB CORKER FOR SENATE 2012 | $500 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bradley%20Foundation) (Tier 1)
+<!-- auto:fec-donor end -->

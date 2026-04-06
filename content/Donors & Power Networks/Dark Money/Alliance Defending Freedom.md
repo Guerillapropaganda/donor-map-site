@@ -2,13 +2,17 @@
 title: "Alliance Defending Freedom"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+ein: 541660459
+annual-revenue: "$101.8M"
+net-assets: "$97.6M"
+tax-year: "2023"
 ---
 
 #adf #religious-liberty #anti-lgbtq #scotus #litigation #dark-money #christian-right
@@ -57,3 +61,18 @@ Each victory expands the legal territory in which religious objections override 
 - [Ballotpedia: Alliance Defending Freedom](https://ballotpedia.org/Alliance_Defending_Freedom) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $101.8M |
+| Total Contributions | $95.4M |
+| Program Service Revenue | $3.0M |
+| Investment Income | $949K |
+| Total Expenses | $97.1M |
+| Net Assets | $97.6M |
+| Officer Compensation | $3.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 541660459](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1)
+<!-- auto:propublica-990 end -->

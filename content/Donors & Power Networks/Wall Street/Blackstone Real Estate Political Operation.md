@@ -2,13 +2,15 @@
 title: "Blackstone Real Estate Political Operation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
 issues:
   - "Housing"
+lobbying-spend: 4450000
+lobbying-filings: 51
 ---
 
 #blackstone #real-estate #private-equity #schwarzman #housing #rent #carried-interest
@@ -35,3 +37,22 @@ Blackstone Real Estate's political significance: the firm's massive housing port
 - [Ballotpedia: Private equity political spending](https://ballotpedia.org/Blackstone_Real_Estate_Political_Operation) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $4.5M |
+| Quarterly Filings | 51 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 13 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aviation/Airlines/Airports, Banking, Budget/Appropriations, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Economics/Economic Development, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Government Issues, Health Issues, Housing, Labor Issues/Antitrust/Workplace, Marine/Maritime/Boating/Fisheries, Real Estate/Land Use/Conservation, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** 9TH STREET STRATEGIES, ALPINE GROUP PARTNERS, LLC., AVOQ, LLC, CHECKMATE GOVERNMENT RELATIONS, COLTON STREET GROUP, FORBES-TATE, HARBINGER STRATEGIES, LLC, HOGAN POLICY ADVISORS, MILLER STRATEGIES, LLC, MINDSET ADVOCACY, LLC, NATIONAL GROUP, LLP, S2R, LLC, WASHINGTON ADVOCACY GROUP
+
+**Agencies contacted:** Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Homeland Security, Dept of (DHS), Labor, Dept of (DOL), SENATE, Transportation, Dept of (DOT), Treasury, Dept of, U.S. Mint, White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Blackstone%20Real%20Estate%20Political%20Operation) (Tier 1)
+<!-- auto:lda-lobbying end -->

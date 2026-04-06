@@ -2,7 +2,7 @@
 title: "MAGA Small Dollar Base"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -10,6 +10,8 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
 federal-contracts: "19626"
+lobbying-spend: 0
+lobbying-filings: 5
 ---
 
 #maga #small-dollar #donors #trump #grassroots #winred #fundraising #recurring-donations #indictment-fundraising #class-analysis #follow-the-money
@@ -147,3 +149,22 @@ The WinRed predatory extraction dimension adds a final layer: the very infrastru
 ---
 
 content-readiness:: developed
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $0 |
+| Quarterly Filings | 5 |
+| Year Range | 2025-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Government Issues
+
+**Lobbying firms:** J M BURKMAN & ASSOCIATES
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=MAGA%20Small%20Dollar%20Base) (Tier 1)
+<!-- auto:lda-lobbying end -->
