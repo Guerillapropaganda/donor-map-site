@@ -2,11 +2,24 @@
 title: "Honeywell International"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Corporation"
+federal-register-mentions: 720
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Commerce Department"
+  - "Environmental Protection Agency"
+  - "Federal Aviation Administration"
+  - "Industry and Security Bureau"
+  - "International Trade Administration"
+  - "Justice Department"
+  - "National Highway Traffic Safety Administration"
+  - "Nuclear Regulatory Commission"
+  - "Transportation Department"
 ---
 
 #defense-contractor #aerospace #pac-donor #defense-committee #bipartisan
@@ -54,3 +67,25 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 | DCCC | $15.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 720 |
+| Final Rules | 125 |
+| Proposed Rules | 110 |
+| Notices | 485 |
+| Agencies | Antitrust Division, Commerce Department, Environmental Protection Agency, Federal Aviation Administration, Industry and Security Bureau, International Trade Administration, Justice Department, National Highway Traffic Safety Administration +2 more |
+
+**Recent regulatory activity:**
+- [Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression; Supplemental Notice of Proposed Rulemaking](https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives) (2026-04-06) — Environmental Protection Agency
+- [Notice of Availability of Revision C to FAA Order 8100.15 Regarding Organization Designation Authorization (ODA) Procedures](https://www.federalregister.gov/documents/2025/11/21/2025-20520/notice-of-availability-of-revision-c-to-faa-order-810015-regarding-organization-designation) (2025-11-21) — Transportation Department
+- [Phasedown of Hydrofluorocarbons: Notice of 2026 Allowance Allocations for Production and Consumption of Regulated Substances Under the American Innovation and Manufacturing Act of 2020, and Notice of Final Actions Establishing Administrative Consequences](https://www.federalregister.gov/documents/2025/11/20/2025-20439/phasedown-of-hydrofluorocarbons-notice-of-2026-allowance-allocations-for-production-and-consumption) (2025-11-20) — Environmental Protection Agency
+- [Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression](https://www.federalregister.gov/documents/2025/11/10/2025-19812/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives) (2025-11-10) — Environmental Protection Agency
+- [In the Matter of Honeywell International, Inc.; Direct and Indirect Transfers of License](https://www.federalregister.gov/documents/2025/06/23/2025-11486/in-the-matter-of-honeywell-international-inc-direct-and-indirect-transfers-of-license) (2025-06-23) — Nuclear Regulatory Commission
+- [Honeywell International Inc.; Consideration of Approval of Transfer of Control of Licenses](https://www.federalregister.gov/documents/2025/04/01/2025-05565/honeywell-international-inc-consideration-of-approval-of-transfer-of-control-of-licenses) (2025-04-01) — Nuclear Regulatory Commission
+- ... and 714 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Honeywell%20International%22) (Tier 1)
+<!-- auto:federal-register end -->

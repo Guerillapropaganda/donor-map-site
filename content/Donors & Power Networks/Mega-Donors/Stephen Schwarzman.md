@@ -2,7 +2,7 @@
 title: "Stephen Schwarzman"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,6 +12,10 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
 total-political-spend: "$36,566,410"
+ein: 474634539
+annual-revenue: "$127.1M"
+net-assets: "$105.5M"
+tax-year: "2023"
 ---
 
 #donor #billionaire #republican #private-equity #blackstone #wall-street
@@ -163,3 +167,15 @@ content-readiness:: developed
 | MAGA INC. | $5.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $127.1M |
+| Total Contributions | $0 |
+| Total Expenses | $73.2M |
+| Net Assets | $105.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 474634539](https://projects.propublica.org/nonprofits/organizations/474634539) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,12 +2,24 @@
 title: "Invariant"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 annual-revenue: "$47.2M (2025) / $42.3M (2024)"
 lobbyist-count: 59
 revolving-door-pct: "54.2%"
+court-cases: 793
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the Tenth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. New Mexico"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Georgia"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
 ---
 
 #lobbying #k-street #tech #defense #pharma-healthcare #finance #crypto #bipartisan-access
@@ -213,3 +225,22 @@ Invariant's Palantir portfolio crystallizes this. As progressive constituents de
 ---
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 793 |
+| Courts | Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, D. New Mexico, District Court, District of Columbia, District Court, E.D. California, District Court, N.D. California, District Court, N.D. Georgia, District Court, S.D. New York +1 more |
+| Case Types | 3840 Trademark, 450 Commerce ICC Rates, Etc., 820 Copyright, 830 Patent, 890 Other Statutory Actions |
+
+**Notable cases:**
+- SANDSTONE INNOVATION, LLC v. Apple Inc. (2026) — District Court, W.D. Texas
+- Bayer Healthcare LLC v. Johnson & Johnson (2026) — District Court, S.D. New York
+- K.Mizra LLC v. Amazon.com, Inc. (2026) — District Court, W.D. Texas
+- MATTHEWS v. UNITED STATES PATENT AND TRADEMARK OFFICE (2026) — District Court, District of Columbia
+- United States v. State of California (2026) — District Court, E.D. California
+- Uyte v. Mammoth Hockey (2025) — Court of Appeals for the Tenth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Invariant%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

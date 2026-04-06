@@ -2,16 +2,18 @@
 title: "UNITE HERE"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Gavin Newsom"
-  - "Kamala Harris"
+  - "Brendan Boyle"
+  - "Debbie Wasserman Schultz"
+  - "Jamie Raskin"
 issues:
   - "Labor & Workers"
+total-political-spend: "$51,678,221"
 ---
 
 
@@ -145,3 +147,28 @@ content-readiness:: ready
 | WORKER POWER PAC | $8.6M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $51,678,221 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| UNITE HERE PAC | $20,900,000 | — |
+| WORKERS VOTE | $20,294,051 | — |
+| WORKER POWER PAC | $8,621,143 | — |
+| DSCC | $260,000 | DEM |
+| HMP | $160,000 | — |
+| DEMOCRATIC GRASSROOTS VICTORY FUND | $35,000 | — |
+| THE TURNOUT PROJECT | $30,000 | — |
+| HARRIS VICTORY FUND | $26,000 | — |
+| BLUE MAJORITY PAC | $20,000 | — |
+| CITIZENS FOR BOYLE | $20,000 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=UNITE%20HERE) (Tier 1)
+<!-- auto:fec-donor end -->

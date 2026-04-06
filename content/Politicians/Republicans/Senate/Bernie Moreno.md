@@ -2,9 +2,15 @@
 title: "Bernie Moreno"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
+bioguide-id: "A000383"
+govtrack-id: 456967
+bills-sponsored: 23
+bills-cosponsored: 159
+website: "https://www.moreno.senate.gov"
+phone: "202-224-2315"
 ---
 
 #bernie-moreno #senate #ohio #crypto-industry #trump-backed #auto-dealer #class-analysis
@@ -89,3 +95,34 @@ Sherrod Brown represented labor. Bernie Moreno represents crypto capital. The 20
 
 profile-status:: ready
 content-readiness:: ready
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 159 |
+| Total Votes Cast | 733 |
+
+**Recent bills sponsored:**
+
+- S.Res. 663: A resolution honoring the service and sacrifice of the Ohio Air National Guard airmen who were killed in the Boeing KC-1 — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3889: American Lending Fairness Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3746: Stopping Transfers of Public Funds Abroad Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 29, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3283: Exclusive Citizenship Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3089: STOP Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 30, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456967) (Tier 1)
+<!-- auto:govtrack end -->

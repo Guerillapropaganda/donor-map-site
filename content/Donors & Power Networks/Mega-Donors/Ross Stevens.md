@@ -2,7 +2,7 @@
 title: "Ross Stevens"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -10,6 +10,19 @@ entity-type: "Individual Donor"
 issues:
   - "Technology"
   - "Wall Street & Finance"
+court-cases: 24
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, D. Connecticut"
+  - "District Court, D. Delaware"
+  - "District Court, D. New Hampshire"
+  - "District Court, D. South Carolina"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Wisconsin"
+  - "United States Bankruptcy Court, C.D. California"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, D. Oregon"
 ---
 
 #ross-stevens #stone-ridge #crypto #bitcoin #nydig #mega-donor #wall-street #club-for-growth #ramaswamy #pro-israel
@@ -139,3 +152,22 @@ content-readiness:: developed
 | BITCOIN FREEDOM PAC | $100.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 24 |
+| Courts | District Court, D. Connecticut, District Court, D. Delaware, District Court, D. New Hampshire, District Court, D. South Carolina, District Court, N.D. California, District Court, S.D. New York, District Court, W.D. Wisconsin, United States Bankruptcy Court, C.D. California +6 more |
+| Case Types | 110 Insurance, 365 Personal Inj. Prod. Liability, 710 Labor: Fair Standards, 820 Copyright, 840 Trademark |
+
+**Notable cases:**
+- Sottile v. 3M Company, f/k/a Minnesota Mining and Manufacturing Company (2025) — District Court, D. South Carolina
+- Tari Labs, LLC v. Lightning Labs, Inc. (2022) — District Court, N.D. California
+- Friends Of Animals, Inc. v. Ross (2020) — District Court, D. Connecticut
+- Thomson Reuters Enterprise Centre GmbH v. ROSS Intelligence Inc. (2020) — District Court, D. Delaware
+- Johnson v. L.B.O. Holding, Inc. (2017) — District Court, D. New Hampshire
+- Last Call Guarantor, LLC, for itself and on behalf of each of its series (2016) — United States Bankruptcy Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ross%20Stevens%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

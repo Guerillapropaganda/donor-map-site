@@ -2,7 +2,7 @@
 title: "Sheldon Whitehouse"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -22,6 +22,8 @@ top-donors:
   - "Brady Campaign"
   - "League of Conservation Voters"
   - "AIPAC - American Israel Public Affairs Committee"
+total-received: "$365,144"
+fec-candidate-id: "S6RI00221"
 ---
 
 #master-profile #democrat #senate #rhode-island #dark-money #court-reform #judicial-capture #environment #trial-lawyers #pro-israel
@@ -196,3 +198,38 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 profile-status:: developed
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2030 |
+| Total Raised | $365,144 |
+| Individual Contributions | $326,706 |
+| PAC Contributions | $37,440 |
+| Cash on Hand | 1148675.43 |
+| IE Support (Super PAC) | $43,440 |
+| IE Opposition (Super PAC) | $1,420,472 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2030 | $365,144 | $326,706 | $37,440 |
+| 2024 | $6,826,217 | $4,459,687 | $942,755 |
+| 2018 | $6,734,750 | $4,727,728 | $1,477,223 |
+| 2012 | $4,883,464 | $2,690,960 | $1,487,652 |
+| 2006 | $6,587,257 | $4,111,538 | $753,535 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $0 | $716,449 |
+| PEOPLE'S MAJORITY | $0 | $366,331 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $36,861 | $177,910 |
+| ROOSEVELT SOCIETY ACTION | $0 | $159,783 |
+| MOVEON.ORG POLITICAL ACTION | $5,751 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
+<!-- auto:fec-politician end -->

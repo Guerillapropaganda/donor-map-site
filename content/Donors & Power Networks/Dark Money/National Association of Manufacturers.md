@@ -2,7 +2,7 @@
 title: "National Association of Manufacturers"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,10 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
   - "Trade"
+ein: 131084330
+annual-revenue: "$62.0M"
+net-assets: "$69.6M"
+tax-year: "2023"
 ---
 
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money
@@ -177,3 +181,18 @@ research-status:: developed — Expanded from 64 to 175+ lines. Key additions: 5
 | HALEY STEVENS FOR CONGRESS | $25.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $62.0M |
+| Total Contributions | $0 |
+| Program Service Revenue | $61.3M |
+| Investment Income | $621K |
+| Total Expenses | $61.8M |
+| Net Assets | $69.6M |
+| Officer Compensation | $8.0M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 131084330](https://projects.propublica.org/nonprofits/organizations/131084330) (Tier 1)
+<!-- auto:propublica-990 end -->

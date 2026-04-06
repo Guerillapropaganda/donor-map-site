@@ -2,7 +2,7 @@
 title: "Charles Koch"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -10,6 +10,10 @@ entity-type: "Individual Donor"
 issues:
   - "Energy & Climate"
   - "Dark Money & Campaign Finance"
+ein: 480918408
+annual-revenue: "$1.3M"
+net-assets: "$748.2M"
+tax-year: "2023"
 ---
 
 #koch #mega-donor #libertarian #deregulation #climate-denial #network #dark-money
@@ -65,3 +69,16 @@ content-readiness:: ready
 | HICKENLOOPER VICTORY FUND | $22.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.3M |
+| Total Contributions | $0 |
+| Total Expenses | $83.0M |
+| Net Assets | $748.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 480918408](https://projects.propublica.org/nonprofits/organizations/480918408) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480918408_202312_990PF_2025011022984232.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

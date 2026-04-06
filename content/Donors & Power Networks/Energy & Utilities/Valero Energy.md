@@ -15,6 +15,8 @@ ein: 742904514
 annual-revenue: "$10.3M"
 net-assets: "$18.1M"
 tax-year: "2023"
+lobbying-spend: 6500000
+lobbying-filings: 51
 ---
 
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis
@@ -132,3 +134,22 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 742904514](https://projects.propublica.org/nonprofits/organizations/742904514) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F742904514_202309_990_2024120622937805.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $6.5M |
+| Quarterly Filings | 51 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 8 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Chemicals/Chemical Industry, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Fuel/Gas/Oil, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** BGR GOVERNMENT AFFAIRS, BRACEWELL LLP, ERNST & YOUNG LLP (WASHINGTON COUNCIL ERNST & YOUNG), MILLER STRATEGIES, LLC, OWEN EVANS INGOLS, ROBERTI GLOBAL (F/K/A ROBERTI WHITE, LLC), THE NICKLES GROUP, LLC, VALERO ENERGY CORPORATION
+
+**Agencies contacted:** Commerce, Dept of (DOC), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE, State, Dept of (DOS), Treasury, Dept of, U.S. Trade Representative (USTR), Vice President of the U.S. +1 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Valero%20Energy) (Tier 1)
+<!-- auto:lda-lobbying end -->

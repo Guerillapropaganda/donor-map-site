@@ -2,7 +2,7 @@
 title: "Centene Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -12,6 +12,15 @@ politicians-funded:
 issues:
   - "Social Safety Net"
   - "Healthcare"
+federal-awards-total: 38306385
+federal-contracts-count: 12
+federal-grants-count: 0
+federal-register-mentions: 13
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Employee Benefits Security Administration"
+  - "Federal Trade Commission"
+  - "Labor Department"
 ---
 
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca
@@ -58,3 +67,46 @@ content-readiness:: ready
 | NRCC | $75.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $38.3M |
+| Contracts (recent 3yr) | 12 ($481K sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $85K | Department of Veterans Affairs | RUZURGI 10MG |
+| $84K | Department of Veterans Affairs | ICLUSIG 15 MG TAB |
+| $51K | Department of Justice | CHEMOTHERAPY MEDICATION |
+| $44K | Department of Justice | B1 - PANTHERX JOENJA MEDICATION  SEE JOFOC FOR PANTHERX SPECIALTY PHARMACY THE CCM PROVIDING FUNDS F |
+| $44K | Department of Justice | B1 - PANTHERX - JOENJA - RP0377 |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Centene%20Corporation) (Tier 1)
+<!-- auto:usaspending end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 13 |
+| Proposed Rule | 1 |
+| Notice | 12 |
+| Agencies | Employee Benefits Security Administration, Federal Trade Commission, Labor Department |
+
+**Recent regulatory activity:**
+- [Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.federalregister.gov/documents/2026/01/30/2026-01907/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure) (2026-01-30) — Labor Department ★
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/18/2021-03183/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2021-02-18) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/02/21/2020-03445/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2020-02-21) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/04/18/2019-07735/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2019-04-18) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2018/04/13/2018-07697/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2018-04-13) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2017/11/14/2017-24589/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2017-11-14) — Federal Trade Commission
+- ... and 7 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Centene%20Corporation%22) (Tier 1)
+<!-- auto:federal-register end -->

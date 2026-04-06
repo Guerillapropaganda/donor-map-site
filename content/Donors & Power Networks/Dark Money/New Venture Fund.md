@@ -15,6 +15,18 @@ net-assets: "$768.5M"
 tax-year: "2023"
 lobbying-spend: 976282
 lobbying-filings: 109
+court-cases: 83
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, C.D. California"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Texas"
+  - "District Court, S.D. New York"
 ---
 
 #new-venture-fund #arabella #dark-money #liberal #501c3 #fiscal-sponsorship
@@ -92,3 +104,22 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=New%20Venture%20Fund) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 83 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Second Circuit, Court of Appeals for the Third Circuit, District Court, C.D. California, District Court, District of Columbia, District Court, E.D. Texas +1 more |
+| Case Types | 2440 Other Civil Rights, 2899 APA Review/Appeal, 3440 Other Civil Rights, 3950 Constitutionality of State Statutes, 410 Anti-Trust |
+
+**Notable cases:**
+- Mobile Force Investments, LLC v. Brian Newberry (2026) — District Court, C.D. California
+- Granata v. Campbell (2025) — Court of Appeals for the First Circuit
+- PROTECT THE PUBLIC'S TRUST v. OFFICE OF MANAGEMENT AND BUDGET (2025) — District Court, District of Columbia
+- Media Matters for America v. FTC (2025) — Court of Appeals for the D.C. Circuit
+- Natl Infusion Center v. Kennedy (2025) — Court of Appeals for the Fifth Circuit
+- TEVA PHARMACEUTICALS USA, INC. v. BECERRA (2025) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22New%20Venture%20Fund%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -2,11 +2,15 @@
 title: "Insurance Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Individual Donor"
+ein: 201240972
+annual-revenue: "$6.4M"
+net-assets: "$4.3M"
+tax-year: "2023"
 ---
 
 #insurance #health-insurance #lobbying #aca #public-option #bipartisan #medicare-advantage #ahip #revolving-door
@@ -168,3 +172,17 @@ content-readiness:: developed
 | MOORE FOR CONGRESS | $7.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $6.4M |
+| Total Contributions | $6.4M |
+| Investment Income | $38K |
+| Total Expenses | $6.5M |
+| Net Assets | $4.3M |
+| Officer Compensation | $1.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 201240972](https://projects.propublica.org/nonprofits/organizations/201240972) (Tier 1)
+<!-- auto:propublica-990 end -->

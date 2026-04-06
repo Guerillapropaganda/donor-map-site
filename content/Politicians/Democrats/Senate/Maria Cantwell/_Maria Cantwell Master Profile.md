@@ -19,6 +19,11 @@ top-donors:
   - "Boeing"
 total-received: "$896,096"
 fec-candidate-id: "H2WA01054"
+govtrack-id: 300018
+bills-sponsored: 21
+bills-cosponsored: 188
+website: "https://www.cantwell.senate.gov"
+phone: "202-224-3441"
 ---
 
 
@@ -181,3 +186,22 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 188 |
+| Total Votes Cast | 9,765 |
+
+**Recent bills sponsored:**
+
+- S. 4014: A bill to direct the Secretary of the Interior to convey to the Nisqually Indian Tribe the Clear Creek Hatchery infrastr — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3881: Tsunami Warning, Research, and Education Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3700: FAA SMS Compliance Review Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
+- S. 3795: Radar Next Program Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3769: Helping Our People Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300018) (Tier 1)
+<!-- auto:govtrack end -->

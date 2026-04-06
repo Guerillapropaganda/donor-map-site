@@ -9,6 +9,11 @@ sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Gavin Newsom"
+  - "Jeff Merkley"
+  - "Sherrod Brown"
+  - "Barbara Lee"
+  - "Mike Lee"
+  - "Maxine Waters"
 issues:
   - "Healthcare"
   - "Labor & Workers"
@@ -18,6 +23,7 @@ net-assets: "$464.3M"
 tax-year: "2023"
 lobbying-spend: 10419974
 lobbying-filings: 105
+total-political-spend: "$19,855,072"
 ---
 
 #cna #nurses #union #california #single-payer #healthcare #progressive #labor
@@ -94,3 +100,28 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Nurses%20Association) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $19,855,072 |
+| Contributions | 62 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| VOTE NURSES VALUES POLITICAL ACTION COMMITTEE: CALIFORNIA NURSES ASSOCIATION | $13,870,000 | — |
+| BE A HERO PAC | $5,202,500 | — |
+| TEXAS ORGANIZING PROJECT POLITICAL ACTION COMMITTEE | $250,000 | — |
+| NEWSOM FOR CALIFORNIA GOVERNOR 2022 | $129,600 | — |
+| PROGRESSIVE KICK INDEPENDENT EXPENDITURES | $125,000 | — |
+| POPULAR DEMOCRACY PAC | $100,000 | — |
+| GRASSROOTS ORGANIZING WINS (GROWPAC) | $100,000 | — |
+| CHANGE CALIFORNIA NOW | $25,000 | — |
+| CALIFORNIA DEMOCRATIC PARTY | $10,130 | DEM |
+| JEFF MERKLEY FOR OREGON | $7,500 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Nurses%20Association) (Tier 1)
+<!-- auto:fec-donor end -->

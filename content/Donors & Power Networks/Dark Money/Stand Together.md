@@ -2,13 +2,17 @@
 title: "Stand Together"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+ein: 912166417
+annual-revenue: "$1.9M"
+net-assets: "$291K"
+tax-year: "2021"
 ---
 
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money
@@ -138,3 +142,19 @@ content-readiness:: developed
 | AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $383.9K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2021)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.9M |
+| Total Contributions | $0 |
+| Program Service Revenue | $1.9M |
+| Investment Income | $156 |
+| Total Expenses | $1.9M |
+| Net Assets | $291K |
+| Officer Compensation | $178K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 912166417](https://projects.propublica.org/nonprofits/organizations/912166417) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F912166417_202112_990_2023051221218708.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

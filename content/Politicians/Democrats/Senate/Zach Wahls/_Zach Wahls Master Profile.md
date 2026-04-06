@@ -2,7 +2,7 @@
 title: "Zach Wahls Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,6 +11,8 @@ state: "Iowa"
 state-abbr: "IA"
 top-donors:
   - "National Progressive Donor Networks"
+total-received: "$2,045,589"
+fec-candidate-id: "S6IA00272"
 ---
 
 
@@ -259,3 +261,16 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $2,045,589 |
+| Individual Contributions | $1,384,914 |
+| PAC Contributions | $26,055 |
+| Cash on Hand | 733480.88 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IA00272/) (Tier 1)
+<!-- auto:fec-politician end -->

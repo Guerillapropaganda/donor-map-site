@@ -2,7 +2,7 @@
 title: "California Labor Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -16,6 +16,7 @@ ein: 940362030
 annual-revenue: "$10.3M"
 net-assets: "$19.5M"
 tax-year: "2023"
+total-political-spend: "$1,740,356"
 ---
 
 
@@ -126,3 +127,26 @@ content-readiness:: ready
 | FLIP THE 49TH! NEIGHBORS IN ACTION | $200.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,740,356 |
+| Contributions | 25 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| COMMITTEE FOR WORKING FAMILIES, SPONSORED BY THE CALIFORNIA LABOR FEDERATION, AFL-CIO | $797,000 | — |
+| MILLION MORE VOTERS, SPONSORED BY THE CALIFORNIA LABOR FEDERATION, AFL-CIO | $380,390 | — |
+| FLIP THE 49TH! NEIGHBORS IN ACTION | $200,000 | — |
+| COMMITTEE FOR A BETTER TOMORROW SPONSORED BY LOS ANGELES COUNTY FEDERATION OF LABOR | $190,000 | — |
+| WORKING AMERICA COALITION | $92,967 | — |
+| HOUSE MAJORITY PAC | $60,000 | — |
+| CALIFORNIA DEMOCRATIC PARTY | $10,000 | DEM |
+| DEMOCRATIC STATE CENTRAL COMMITTEE OF CA - FEDERAL | $10,000 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Labor%20Federation) (Tier 1)
+<!-- auto:fec-donor end -->

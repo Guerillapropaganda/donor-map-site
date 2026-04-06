@@ -2,11 +2,14 @@
 title: "NextEra Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
+federal-awards-total: 19305761
+federal-contracts-count: 25
+federal-grants-count: 2
 ---
 
 #nextera #energy #renewables #solar #wind #florida #utility #fpl
@@ -62,3 +65,32 @@ content-readiness:: ready
 | NRSC | $195.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $19.3M |
+| Contracts (recent 3yr) | 25 ($101.9M sampled) |
+| Grants (recent 3yr) | 2 ($79.5M sampled) |
+| Federal Agencies | 5 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $14.6M | National Aeronautics and Space Administration | ELECTRICITY SUPPLY & ANCILLARY SERVICES FOR JSC (JSC, EF, SCTF) |
+| $13.7M | National Aeronautics and Space Administration | ELECTRICITY |
+| $8.1M | Department of Defense | SHEPPARD AFB RETAIL ELECTRIC |
+| $7.2M | Department of Defense | SHEPPARD AFB RETAIL ELECTRIC |
+| $6.6M | Department of Defense | FY25 - RETAIL ELECTRIC CONTRACT (1 OCT 2024 - 30 SEP 2025) - GEXA ENERGY, LP |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $49.1M | Department of Energy | DEMONSTRATE THE VIABILITY OF A ZINC-BROMIDE BATTERY FOR 10+ HOUR ENERGY STORAGE. DEMONSTRATE THE COM |
+| $30.4M | Department of Energy | FLORIDA POWER LIGHT IS PROPOSING A SMART GRID MANHOLE AND VAULT MONITORING PROJECT (MVMP) TO ENHANCE |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-NextEra%20Energy) (Tier 1)
+<!-- auto:usaspending end -->

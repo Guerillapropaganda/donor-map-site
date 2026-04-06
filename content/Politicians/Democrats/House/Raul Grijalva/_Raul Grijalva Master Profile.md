@@ -2,7 +2,7 @@
 title: "Raul Grijalva"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,6 +16,8 @@ leadership-roles:
   - "Ranking Member"
 issues:
   - "Environment"
+total-received: "$17,388"
+fec-candidate-id: "H2AZ07070"
 ---
 
 
@@ -141,3 +143,36 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 - [Wikipedia: Raul Grijalva](https://en.wikipedia.org/wiki/Ra%C3%BAl_Grijalva) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $17,388 |
+| Cash on Hand | 130079.47 |
+| IE Support (Super PAC) | $964,961 |
+| IE Opposition (Super PAC) | $579,951 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $17,388 | $0 | $0 |
+| 2024 | $643,863 | $283,266 | $164,500 |
+| 2022 | $660,514 | $292,736 | $199,497 |
+| 2020 | $879,341 | $395,667 | $264,095 |
+| 2018 | $713,306 | $239,943 | $283,500 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| AMERICANS FOR TAX REFORM | $0 | $460,368 |
+| MOVEON.ORG POLITICAL ACTION | $291,211 | $0 |
+| CAMPAIGN FOR COMMUNITY CHANGE | $219,993 | $0 |
+| SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU) | $121,000 | $0 |
+| WORKING FAMILIES PARTY PAC | $92,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ07070/) (Tier 1)
+<!-- auto:fec-politician end -->

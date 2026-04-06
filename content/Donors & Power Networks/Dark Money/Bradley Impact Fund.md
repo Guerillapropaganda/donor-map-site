@@ -2,7 +2,7 @@
 title: "Bradley Impact Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,7 @@ ein: 454678325
 annual-revenue: "$90.7M"
 net-assets: "$159.3M"
 tax-year: "2023"
+total-political-spend: "$100,000"
 ---
 
 #bradley #impact-fund #dark-money #conservative #donor-advised #philanthropy
@@ -57,3 +58,19 @@ The Bradley Impact Fund is part of a broader conservative DAF network that inclu
 - [Ballotpedia: Donor-advised funds](https://ballotpedia.org/Bradley_Impact_Fund) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $100,000 |
+| Contributions | 1 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| 170 FREEDOM MILWAUKEE 2024 HOST COMMITTEE INC | $100,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bradley%20Impact%20Fund) (Tier 1)
+<!-- auto:fec-donor end -->

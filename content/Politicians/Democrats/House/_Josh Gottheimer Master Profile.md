@@ -2,7 +2,7 @@
 title: "Josh Gottheimer Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,6 +11,8 @@ district: "5"
 top-donors:
   - "Palantir"
   - "Wall Street Finance PACs"
+total-received: "$1,892,291"
+fec-candidate-id: "H6NJ05171"
 ---
 
 #politician #democrat #house #josh-gottheimer #donor-pipeline #corporate-democrat #problem-solvers
@@ -164,3 +166,38 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,892,291 |
+| Individual Contributions | $1,104,838 |
+| PAC Contributions | $417,050 |
+| Cash on Hand | 10295485.93 |
+| IE Support (Super PAC) | $6,059,929 |
+| IE Opposition (Super PAC) | $100,000 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,892,291 | $1,104,838 | $417,050 |
+| 2024 | $10,246,424 | $6,569,539 | $1,785,140 |
+| 2022 | $8,856,162 | $5,950,000 | $1,952,511 |
+| 2020 | $7,799,294 | $5,260,259 | $1,812,949 |
+| 2018 | $7,000,276 | $4,913,446 | $1,649,870 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $3,752,524 | $0 |
+| NO LABELS ACTION, INC. | $773,284 | $0 |
+| PATRIOT MAJORITY PAC | $350,184 | $0 |
+| CENTER FORWARD COMMITTEE | $305,000 | $0 |
+| FAIRSHAKE | $245,376 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6NJ05171/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -2,7 +2,7 @@
 title: "Virginia Foxx"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -19,6 +19,7 @@ top-donors:
   - "DeVos Family"
   - "American Federation for Children"
   - "Walton Family Foundation"
+bioguide-id: "A000383"
 ---
 
 #virginia-foxx #republican #north-carolina #house #committee-chair #education #for-profit-colleges #labor #student-debt #phase-6-gavel-power
@@ -184,3 +185,16 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 
 profile-status:: ready
 content-readiness:: ready
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

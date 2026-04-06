@@ -2,11 +2,23 @@
 title: "Reed Hastings"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
+court-cases: 218
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the Tenth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Delaware"
+  - "District Court, D. Utah"
+  - "District Court, E.D. California"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Virginia"
 ---
 
 #reed-hastings #netflix #charter-school #education-reform #mega-donor #democratic #Hastings Fund
@@ -123,3 +135,22 @@ content-readiness:: ready
 | HMP | $3.5M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 218 |
+| Courts | Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, D. Delaware, District Court, D. Utah, District Court, E.D. California, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. New York +1 more |
+| Case Types | 320 Assault Libel & Slander, 410 Anti-Trust, 440 Civil Rights: Other, 465 Other Immigration Actions, 820 Copyright |
+
+**Notable cases:**
+- Dunaway v. Netflix, Inc. (2026) — District Court, E.D. California
+- Fendelander v. Netflix, Inc. (2025) — District Court, N.D. California
+- Global Nurse Force v. Trump (2025) — District Court, N.D. California
+- Getty Images (US), Inc. v. Stability AI, Ltd. (2025) — District Court, N.D. California
+- Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
+- In re: Kotevski (2025) — Court of Appeals for the Tenth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Reed%20Hastings%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

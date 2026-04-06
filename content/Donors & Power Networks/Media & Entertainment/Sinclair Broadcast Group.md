@@ -20,6 +20,9 @@ court-jurisdictions:
   - "District Court, E.D. Tennessee"
   - "District Court, N.D. California"
   - "District Court, S.D. Florida"
+federal-awards-total: 0
+federal-contracts-count: 25
+federal-grants-count: 0
 ---
 
 #sinclair #local-news #media #conservative #must-run #propaganda #consolidation
@@ -94,3 +97,24 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sinclair%20Broadcast%20Group%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 25 ($5.0M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 12 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $1.1M | Department of the Interior | USPP RECRUITMENT CAMPAIGN - TELEVISION |
+| $612K | Government Accountability Office | THE PURPOSE OF THIS DELIVERY ORDER IS TO PROCURE A SUBSCRIPTION TO POLITICOPRO IN ACCORDANCE WITH TH |
+| $533K | Department of the Interior | RECLAMATION-WIDE E&E NEWS |
+| $409K | Department of the Treasury | POLITICO PRO PLUS ENTERPRISE ELECTRONIC SUBSCRIPTION |
+| $287K | Department of Energy | POLITICO PRO RENEWAL 2023 |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Sinclair%20Broadcast%20Group) (Tier 1)
+<!-- auto:usaspending end -->

@@ -2,7 +2,7 @@
 title: "American Petroleum Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -10,6 +10,10 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
+ein: 130433430
+annual-revenue: "$267.6M"
+net-assets: "$122.9M"
+tax-year: "2023"
 ---
 
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money
@@ -629,3 +633,18 @@ content-readiness:: developed
 | SLF PAC | $2.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $267.6M |
+| Total Contributions | $0 |
+| Program Service Revenue | $235.1M |
+| Investment Income | $2.2M |
+| Total Expenses | $258.3M |
+| Net Assets | $122.9M |
+| Officer Compensation | $17.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 130433430](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
+<!-- auto:propublica-990 end -->

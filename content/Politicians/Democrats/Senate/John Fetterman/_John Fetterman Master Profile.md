@@ -15,6 +15,11 @@ top-donors:
   - "AIPAC - American Israel Public Affairs Committee"
 total-received: "$9,034,481"
 fec-candidate-id: "S6PA00274"
+govtrack-id: 456877
+bills-sponsored: 24
+bills-cosponsored: 296
+website: "https://www.fetterman.senate.gov"
+phone: "202-224-4254"
 ---
 
 
@@ -222,3 +227,22 @@ last-updated:: 2026-03-24
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 296 |
+| Total Votes Cast | 1,424 |
+
+**Recent bills sponsored:**
+
+- S. 4045: Food and Nutrition Delivery Safety Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 10, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3468: National Programmable Cloud Laboratories Network Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
+- S. 3796: Ohio River Restoration Program Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3733: A bill to amend the Passport Act of June 4, 1920, to authorize certain public libraries to collect and retain a fee for  — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 29, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3660: Credit Card Fairness Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456877) (Tier 1)
+<!-- auto:govtrack end -->

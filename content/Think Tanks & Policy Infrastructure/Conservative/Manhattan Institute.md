@@ -2,11 +2,16 @@
 title: "Manhattan Institute for Policy Research"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
+federal-register-mentions: 5
+last-enriched: "2026-04-06"
+regulatory-agencies:
+  - "Commerce Department"
+  - "Securities and Exchange Commission"
 ---
 
 #think-tank #conservative #policing #housing #education #criminal-justice #anti-dei #urban-policy #class-analysis
@@ -206,3 +211,23 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 ---
 
 content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 5 |
+| Rule | 2 |
+| Proposed Rule | 1 |
+| Notice | 2 |
+| Agencies | Commerce Department, Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Procedural Requirements and Resubmission Thresholds Under Exchange Act Rule 14a-8](https://www.federalregister.gov/documents/2020/11/04/2020-21580/procedural-requirements-and-resubmission-thresholds-under-exchange-act-rule-14a-8) (2020-11-04) — Securities and Exchange Commission
+- [Exemptions From the Proxy Rules for Proxy Voting Advice](https://www.federalregister.gov/documents/2020/09/03/2020-16337/exemptions-from-the-proxy-rules-for-proxy-voting-advice) (2020-09-03) — Securities and Exchange Commission
+- [Procedural Requirements and Resubmission Thresholds Under Exchange Act Rule 14a-8](https://www.federalregister.gov/documents/2019/12/04/2019-24476/procedural-requirements-and-resubmission-thresholds-under-exchange-act-rule-14a-8) (2019-12-04) — Securities and Exchange Commission
+- [Submission for OMB Review; Comment Request](https://www.federalregister.gov/documents/2012/01/13/2012-514/submission-for-omb-review-comment-request) (2012-01-13) — Commerce Department
+- [Submission for OMB Review; Comment Request](https://www.federalregister.gov/documents/2010/02/08/2010-2658/submission-for-omb-review-comment-request) (2010-02-08) — Commerce Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Manhattan%20Institute%20for%20Policy%20Research%22) (Tier 1)
+<!-- auto:federal-register end -->

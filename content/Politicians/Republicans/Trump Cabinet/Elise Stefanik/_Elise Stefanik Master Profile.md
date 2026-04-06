@@ -2,7 +2,7 @@
 title: "Elise Stefanik"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -15,6 +15,8 @@ issues:
   - "Education"
   - "Israel & Foreign Policy"
   - "Defense & Military"
+total-received: "$4,955,682"
+fec-candidate-id: "H4NY21079"
 ---
 
 #stefanik #new-york #conference-chair #trump #un-ambassador #ideological-transformation #education #antisemitism #aipac #harvard #fort-drum #defense
@@ -147,3 +149,38 @@ The nomination cycle revealed Stefanik's structural vulnerability: her value to 
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $4,955,682 |
+| Individual Contributions | $979,521 |
+| PAC Contributions | $289,593 |
+| Cash on Hand | 11348021.68 |
+| IE Support (Super PAC) | $1,810,809 |
+| IE Opposition (Super PAC) | $322,263 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $4,955,682 | $979,521 | $289,593 |
+| 2024 | $15,467,578 | $2,895,131 | $1,076,226 |
+| 2022 | $9,489,981 | $3,695,706 | $930,100 |
+| 2020 | $13,349,929 | $4,697,347 | $1,667,056 |
+| 2018 | $2,808,067 | $938,968 | $1,452,447 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NEW YORK 2014 | $744,532 | $0 |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $397,847 | $0 |
+| CLEARPATH ACTION, INC. | $322,299 | $0 |
+| THE LINCOLN PROJECT | $0 | $252,550 |
+| NATIONAL VICTORY ACTION FUND | $180,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1)
+<!-- auto:fec-politician end -->
