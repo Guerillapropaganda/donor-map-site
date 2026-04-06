@@ -15,21 +15,23 @@ Claude: Code
 Date: 2026-04-06
 
 Done:
-- Slimmed CLAUDE.md from 171→107 lines (removed duplicate Autonomy Directive, moved Recent Context to Session State)
+- Slimmed CLAUDE.md from 171→107 lines (removed duplicate Autonomy Directive, moved Recent Context here)
 - Archived last straggler doc: Publish Settings Guide.md → Vault Maintenance/Archive/
 - Created opensecrets-replace.yml GitHub Actions workflow (dry-run + write modes, category filtering)
-- Pushed workflow to donor-map-engine, triggered dry run for members-of-congress category
+- Fixed opensecrets-replace.cjs: skip generic sub-page slugs (summary, contributors, industries, etc.)
+- Ran opensecrets-replace --write for `members-of-congress`: **997 URLs replaced across 346 files**
+- 127 URLs skipped (generic sub-pages with CRP IDs but no name slug — need CRP-to-FEC mapping or manual review)
+- 3,011 OpenSecrets URLs remain in other categories (orgs, pacs, outside-spending, etc.)
 
 In flight:
-- OpenSecrets dry run (GitHub Actions run 24046018866) — waiting on results
-- After dry run confirms mappings look right, trigger --write run for members-of-congress
-- Then run remaining categories: orgs, pacs, outside-spending, donor-lookup, etc.
+- Nothing — all commits pushed to v4
 
 Next:
-- Review opensecrets dry run results and trigger --write if clean
-- Run opensecrets-replace for remaining categories (orgs, pacs, outside-spending, etc.)
-- Run full pipeline enrichment cycle to start populating `verified` tier
-- Check LobbyView API key is working (couldn't find the pipeline run from last session)
+- Run opensecrets-replace --write for remaining categories: orgs, pacs, outside-spending, donor-lookup, federal-lobbying
+- After all categories done, review the 127 skipped member URLs (add CRP ID lookup to script?)
+- Check LobbyView API key — couldn't find the earlier pipeline run
+- Run full pipeline enrichment cycle to populate `verified` tier
+- Consider adding `orgs` category to the workflow's scheduled runs
 
 ---
 
@@ -45,13 +47,11 @@ Next:
 ### Code Claude — 2026-04-06 (earlier)
 - Party dots on profiles (blue D, red R, grey I)
 - Fixed sidebar nav links (Fox News, Daily Wire, pod paths)
-- Widened ProfileWidget scope to all profile types (not just master-profile slug)
+- Widened ProfileWidget scope to all profile types
 - Empty states for EventTimeline and ProfileWidget
-- Categorization audit: Bush Cabinet folder, Former folders for both parties
+- Categorization audit: Bush Cabinet folder, Former folders
 - Wired FEC + Congress pipelines into auto-block body section writes
-- Auto-populate politicians-funded from FEC recipient data
-- Pipeline timeout fixes (18→22min step, 25→30min job)
-- Pipeline push conflict resolution (fetch→rebase→merge fallback)
+- Pipeline timeout fixes and push conflict resolution
 
 ### Code Claude — 2026-04-05
 - API enrichment runs: 122 files updated across 4 pipeline runs
