@@ -161,7 +161,7 @@ This is the key analytical section for Koum. His pattern exemplifies how tech fo
 - [JTA — Jan Koum: Tale of Two Cities](https://www.jta.org/2014/02/21/culture/whatsapp-ceo-jan-koums-tale-of-two-cities) (Tier 2)
 
 ### 2022–2024 Political Donations:
-- [OpenSecrets — Jan Koum donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000004937&name=Koum,+Jan&super_only=N&type=I) (Tier 1)
+- [OpenSecrets — Jan Koum donor profile](https://www.fec.gov/data/independent-expenditures/?q=Jan%20Koum) (Tier 1)
 - [The Forward — Jewish Megadonors 2024 Republican Primary](https://forward.com/news/558039/revealed-who-the-big-jewish-donors-are-backing-in-the-2024-gop-presidential-primaries/) (Tier 2)
 - [The Forward — RJC and JDCA 2024 Spending](https://forward.com/news/669961/jdca-rjc-fundraising-2024-trump-harris/) (Tier 2)
 - [Times of Israel — Jan Koum AIPAC $2M Donation](https://www.timesofisrael.com/whatsapp-founder-jan-koum-donates-record-2-million-to-aipacs-campaign-efforts/) (Tier 2)

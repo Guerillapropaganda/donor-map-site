@@ -150,7 +150,7 @@ The both-sides framing — "crypto has Democrats and Republicans" — obscures t
 ### Primary Election Spending Data (Tier 1 — Government)
 - [OpenSecrets: Fairshake PAC Expenditures 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/expenditures/2024) (Tier 1)
 - [OpenSecrets: Fairshake PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1)
-- [OpenSecrets: Outside Spending Detail 2024](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00835959&tab=summary) (Tier 1)
+- [OpenSecrets: Outside Spending Detail 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 
 ### Aggregate Crypto Spending & Win Rate (Tier 2 — Major Journalism)
 - [CoinDesk: "More than 50 Members of the Next U.S. Congress Backed by Crypto Spending"](https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress) (Tier 2)

@@ -267,7 +267,7 @@ Marc Andreessen and a16z represent **venture capital as political infrastructure
 - [White House: President Trump Announces Appointments to PCAST (Mar 25, 2026)](https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/) (Tier 1)
 - [a16z: The Techno-Optimist Manifesto (Oct 2023)](https://a16z.com/the-techno-optimist-manifesto/) (Tier 1)
 - [OpenSecrets: Fairshake PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1)
-- [OpenSecrets: Marc Andreessen Donor Detail 2024](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000016) (Tier 1)
+- [OpenSecrets: Marc Andreessen Donor Detail 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 - [OpenSecrets: Andreessen Horowitz Organization Summary](https://www.opensecrets.org/orgs/andreessen-horowitz/summary?id=D000047147) (Tier 1)
 - [Bloomberg: Trump's AI Policy Shaped by VC Tech Giant Andreessen Horowitz (Feb 2026)](https://www.bloomberg.com/news/features/2026-02-10/trump-s-ai-policy-shaped-by-vc-tech-giant-andreessen-horowitz) (Tier 2)
 - [ProPublica: Marc Andreessen Trump CFPB Impact](https://www.propublica.org/article/trump-cfpb-marc-andreessen-silicon-valley) (Tier 2)

@@ -235,7 +235,7 @@ For IBEW: Tesla and SpaceX are non-union competitors in IBEW-adjacent work (EV e
 > [!money] The $292M → $38B Pipeline
 > Musk spent $292 million electing Trump in 2024. His companies hold $38 billion+ in cumulative government contracts and support. He was given authority over the agencies that regulate those companies. SpaceX received $5.9 billion in new contracts while Musk was cutting other agencies' budgets. The $292 million political investment purchased direct access to the regulatory and procurement apparatus. ROI: approximately 130-to-1 measured in government contract value alone — and that's before counting the regulatory relief (NLRB gutting, Davis-Bacon enforcement reduction, SEC settlement positioning) that protects his commercial operations.
 
-[Source: [OpenSecrets — Elon Musk 2024 donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003708&name=Musk,+Elon&super_only=N&type=I) (Tier 1); [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)]
+[Source: [OpenSecrets — Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1); [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)]
 
 ---
 
@@ -303,7 +303,7 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 ### Sources
 
 ### Political Spending:
-- [OpenSecrets — Elon Musk 2024 donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003708&name=Musk,+Elon&super_only=N&type=I) (Tier 1)
+- [OpenSecrets — Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1)
 - [OpenSecrets News — 2024 political donors ranking](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
 - [The Hill — Musk contributes to Trump super PAC](https://www.thehill.com/homenews/campaign/4953444-elon-musk-contributes-trump-super-pac/) (Tier 2)
 - [NBC News — Elon Musk's quarter-billion-dollar 2024 spending](https://www.nbcnews.com/politics/2024-election/elon-musk-spent-quarter-billion-dollars-electing-trump-financing-myste-rcna182922) (Tier 2)

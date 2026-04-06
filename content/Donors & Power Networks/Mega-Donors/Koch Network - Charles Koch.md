@@ -363,7 +363,7 @@ Additionally, billionaire **Barre Seid** (Heartland Payment Systems) separately 
 
 The 2024 cycle shows a network operating with internal constraints: even while opposing Trump's nomination, the Koch Network reserved the largest share ($92.8M) for electing Republican congressional candidates who would implement the network's agenda. The $10M anti-Trump primary spend was a minority position within a majority-Republican electoral strategy.
 
-[Source: [OpenSecrets: AFP Action Super PAC](https://www.opensecrets.org/outside-spending/detail/2024?cmte=Americans+for+Prosperity) (Tier 1) (UNVERIFIED)]
+[Source: [OpenSecrets: AFP Action Super PAC](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (UNVERIFIED)]
 
 ---
 
@@ -947,7 +947,7 @@ This architecture allows the Koch Network to:
 - [The Guardian: DonorsTrust funding climate denial](https://www.theguardian.com/environment/2013/feb/14/donors-trust-funding-climate-denial-networks) (Tier 2)
 - [Politico: Dark money donation conservative organizations](https://www.politico.com/news/2022/08/22/dark-money-donation-conservative-00052809) (Tier 2) (UNVERIFIED)
 - [CREW: Americans for Prosperity tripled state lobbyists](https://www.citizensforethics.org/reports-investigations/crew-investigations/americans-prosperity-tripled-state-lobbyists-past-four-years/) (Tier 2)
-- [OpenSecrets: AFP Action Super PAC spending 2024](https://www.opensecrets.org/outside-spending/detail/2024?cmte=Americans+for+Prosperity) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: AFP Action Super PAC spending 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (UNVERIFIED)
 - [SourceWatch: ALEC Exposed](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/ALEC_Exposed) (Tier 3) (UNVERIFIED)
 - [Brookings: ALEC model bills more likely to become law](https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [NELP: Workers lose billions from local minimum wage blocks](https://www.nelp.org/report-workers-lose-billions-wages-thanks-corporate-campaign-block-local-minimum-wage-increases/) (Tier 2)

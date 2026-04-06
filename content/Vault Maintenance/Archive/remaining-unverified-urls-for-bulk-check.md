@@ -359,9 +359,9 @@ https://www.opensecrets.org/orgs/rtx-corp/summary?id=D000072615
 https://www.opensecrets.org/orgs/summary?id=d000000186&cycle=2014
 https://www.opensecrets.org/orgs/united-auto-workers/summary?id=d000000070
 https://www.opensecrets.org/orgs/united-auto-workers/totals?cycle=A&id=d000000070
-https://www.opensecrets.org/outside-spending/by_group
-https://www.opensecrets.org/outside-spending/detail/2024?cmte=Americans+for+Prosperity
-https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000361&name=Schwarzman%2C+Stephen+A.&super_only=S&type=I
+https://www.fec.gov/data/independent-expenditures/
+https://www.fec.gov/data/independent-expenditures/
+https://www.fec.gov/data/independent-expenditures/?q=Stephen%20A.%20Schwarzman
 https://www.opensecrets.org/political-action-committees-pacs/C00121368/summary/2024
 https://www.opensecrets.org/political-action-committees-pacs/C00236489/candidate-recipients/2024
 https://www.opensecrets.org/political-action-committees-pacs/american-gaming-assn/C00309146/summary/2024

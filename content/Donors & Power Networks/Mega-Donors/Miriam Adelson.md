@@ -37,7 +37,7 @@ Net worth: $34.6B (October 2025) to $45.1B (February 2026). Forbes estimates ~$4
 ### The Political Spending
 
 > [!money] Follow the Money — The Adelson Dynasty
-> **Miriam 2024:** $106–140 million federal contributions ([OpenSecrets](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000310&name=Adelson,+Miriam+O.&super_only=N&type=I), Tier 1; [Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/), Tier 2)
+> **Miriam 2024:** $106–140 million federal contributions ([OpenSecrets](https://www.fec.gov/data/independent-expenditures/?q=Miriam%20O.%20Adelson), Tier 1; [Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/), Tier 2)
 > - **Preserve America PAC:** $106,000,000 (Pro-Trump super PAC; $25M/month July-Sept, plus $20M and $6M adds)
 > - **Senate Leadership Fund:** $15,000,000 ($10M May, $5M Sept)
 > - **Congressional Leadership Fund:** $10,000,000 ($5M May, $4M Sept, $1M Nov)
@@ -206,7 +206,7 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 ### Political Spending:
 - [OpenSecrets — Adelson family giving](https://www.opensecrets.org/donor-lookup/results?cand=&cycle=&employ=&name=Adelson&order=desc&sort=D&state=NV&zip=) (Tier 1)
 - [OpenSecrets News — Adelsons set new donation record](https://www.opensecrets.org/news/2020/10/adelsons-set-new-donation-record/) (Tier 1)
-- [OpenSecrets — Miriam Adelson 2024 donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000310&name=Adelson,+Miriam+O.&super_only=N&type=I) (Tier 1)
+- [OpenSecrets — Miriam Adelson 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Miriam%20O.%20Adelson) (Tier 1)
 - [Times of Israel — Miriam Adelson $100M Trump donation](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)
 - [CNBC — Miriam Adelson PAC funding](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2)
 

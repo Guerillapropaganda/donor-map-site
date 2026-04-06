@@ -615,7 +615,7 @@ Sources: Financial Times (Tier 2), Gate.com (Tier 3, UNVERIFIED), Observer (Tier
 ### Tier 1 (Government/FEC):
 - [OpenSecrets: Fairshake PAC FEC summary 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (UNVERIFIED)
 - [OpenSecrets: Fairshake PAC expenditures 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/expenditures/2024) (UNVERIFIED)
-- [OpenSecrets: Fairshake targeted candidates 2024](https://www.opensecrets.org/outside-spending/detail/2024?cmte=Fairshake+PAC&tab=targeted_candidates) (UNVERIFIED)
+- [OpenSecrets: Fairshake targeted candidates 2024](https://www.fec.gov/data/independent-expenditures/) (UNVERIFIED)
 - [OpenSecrets: Defend American Jobs summary 2024](https://www.opensecrets.org/political-action-committees-pacs/defend-american-jobs/C00836221/summary/2024) (UNVERIFIED)
 - [OpenSecrets: Protect Progress summary 2024](https://www.opensecrets.org/political-action-committees-pacs/protect-progress/C00848440/summary/2024) (UNVERIFIED)
 - [OpenSecrets: Ohio Senate 2024 outside spending](https://www.opensecrets.org/races/outside-spending?cycle=2024&id=OHS1) (UNVERIFIED)

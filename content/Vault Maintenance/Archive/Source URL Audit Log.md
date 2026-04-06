@@ -408,7 +408,7 @@ This section records proven fix strategies by broken URL type. Check here first 
 | VALID | `https://en.wikipedia.org/wiki/Turning_Point_USA` | Wikipedia — Turning Point USA (Tier 3) |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/turning-point-pac/C00814152/summary/2024` | OpenSecrets — Turning Point PAC Profile 2024 (Tier 1) |
 | VALID | `https://www.fec.gov/data/committee/C00814152/` | FEC — TURNING POINT PAC INC. committee overview (Tier 1) |
-| VALID | `https://www.opensecrets.org/outside-spending/detail/2022?cmte=Turning+Point+USA` | OpenSecrets — Turning Point USA Outside Spending 2022 (Tier 1) |
+| VALID | `https://www.fec.gov/data/independent-expenditures/` | OpenSecrets — Turning Point USA Outside Spending 2022 (Tier 1) |
 | VALID | `https://www.brennancenter.org/our-work/analysis-opinion/money-behind-january-6-flowing-2022-elections` | Brennan Center — The Money Behind January 6 Is Flowing into the 2022 Elections (Tier 2) |
 | VALID | `https://www.chronicle.com/article/as-turning-point-usa-grows-so-does-charlie-kirks-salary` | Chronicle of Higher Education — As Turning Point USA Grows, So Does Charlie Kirk's Salary (Tier 2) |
 | VALID | `https://www.influencewatch.org/non-profit/turning-point-usa/` | InfluenceWatch — Turning Point USA (Tier 3) |
@@ -428,7 +428,7 @@ This section records proven fix strategies by broken URL type. Check here first 
 
 | Status | URL | Source |
 |--------|-----|--------|
-| VALID | `https://www.opensecrets.org/outside-spending/detail?cmte=American+Action+Network&cycle=2024` | OpenSecrets — AAN outside spending profile (Tier 1) |
+| VALID | `https://www.fec.gov/data/independent-expenditures/` | OpenSecrets — AAN outside spending profile (Tier 1) |
 | VALID | `https://www.opensecrets.org/orgs/american-action-network/totals?id=D000060058` | OpenSecrets — AAN organizational totals (Tier 1) |
 | VALID | `https://www.opensecrets.org/news/2023/08/party-aligned-groups-funnel-millions-in-dark-money-to-closely-tied-super-pacs-ahead-of-2024-election/` | OpenSecrets News — Dark money to super PACs 2024 (Tier 1) |
 | VALID | `https://www.opensecrets.org/news/2021/03/one-billion-dark-money-2020-electioncycle/` | OpenSecrets News — Dark money topped $1B in 2020 (Tier 1) |
@@ -595,7 +595,7 @@ This section records proven fix strategies by broken URL type. Check here first 
 |--------|-----|
 | PENDING | *Chrome verification task will populate this section* |
 | VALID | `https://www.opensecrets.org/donor-lookup/results?name=peter+thiel&order=desc&sort=D` |
-| VALID | `https://www.opensecrets.org/outside-spending/donor_detail/2022?id=U0000004022&name=Thiel,+Peter&super=N&type=I` |
+| VALID | `https://www.fec.gov/data/independent-expenditures/?q=Peter%20Thiel` |
 | VALID | `https://www.opensecrets.org/news/2022/02/peter-thiel-tied-dark-money-group-helping-bankroll-super-pac-spending-on-2022-election/` |
 | VALID | `https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177` |
 | VALID | `https://lda.senate.gov/filings/public/filing/search/` |
@@ -611,7 +611,7 @@ This section records proven fix strategies by broken URL type. Check here first 
 | VALID | `https://lda.senate.gov/filings/public/filing/search/` |
 | VALID | `https://www.opensecrets.org/orgs/afl-cio/summary?id=d000000088` | AFL-CIO org profile — Chrome-verified 2026-03-25 |
 | VALID | `https://lda.senate.gov/filings/public/filing/search/` | AFL-CIO lobbying profile — Chrome-verified 2026-03-25 |
-| VALID | `https://www.opensecrets.org/outside-spending/detail/2024?cmte=AFL-CIO&tab=summary` | AFL-CIO outside spending — Chrome-verified 2026-03-25 |
+| VALID | `https://www.fec.gov/data/independent-expenditures/` | AFL-CIO outside spending — Chrome-verified 2026-03-25 |
 | VALID | `https://www.opensecrets.org/orgs/blue-cross-blue-shield/summary?id=D000000109` | BCBS org profile — Chrome-verified 2026-03-25 |
 | VALID | `https://lda.senate.gov/filings/public/filing/search/` | BCBS lobbying profile — Chrome-verified 2026-03-25 |
 | BROKEN | `https://www.opensecrets.org/orgs/american-fedn-of-labor-congress-of-industrial-orgs/summary?id=D000000079` | AFL-CIO old URL — ID D000000079 returns Verizon data. Correct ID is D000000088 |
@@ -619,8 +619,8 @@ This section records proven fix strategies by broken URL type. Check here first 
 | VALID | `https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516` | Senate Leadership Fund org profile — Chrome-verified 2026-03-25 |
 | VALID | `https://www.opensecrets.org/industries/indus?ind=B13` | Internet industry summary — Chrome-verified 2026-03-26 |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024` | Fairshake PAC profile 2024 — Chrome-verified 2026-03-26 |
-| VALID | `https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003708&name=Musk,+Elon&super_only=N&type=I` | Elon Musk donor detail 2024 — Chrome-verified 2026-03-26 |
-| VALID | `https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000004136&name=Hoffman,+Reid+Garrett&super_only=S&type=I` | Reid Hoffman donor detail 2024 — Chrome-verified 2026-03-26 |
+| VALID | `https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk` | Elon Musk donor detail 2024 — Chrome-verified 2026-03-26 |
+| VALID | `https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman` | Reid Hoffman donor detail 2024 — Chrome-verified 2026-03-26 |
 | VALID | `https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million` | Musk tops 2024 donor list — Chrome-verified 2026-03-26 |
 | VALID | `https://www.opensecrets.org/news/2024/07/pro-crypto-super-pacs-pouring-tens-of-millions-into-2024-elections/` | Pro-crypto PACs 2024 — Chrome-verified 2026-03-26 |
 | VALID | `https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/` | Federal lobbying record 2024 — Chrome-verified 2026-03-26 |
@@ -631,10 +631,10 @@ This section records proven fix strategies by broken URL type. Check here first 
 | VALID | `https://www.opensecrets.org/news/2024/11/big-money-big-stakes-5-things-everyone-should-know-about-money-in-2024-election/` | 5 things about money in 2024 elections — Chrome-verified 2026-03-26 |
 | VALID | `https://www.opensecrets.org/orgs/winning-for-women/summary?id=D000070512` | Winning for Women org summary — Chrome-verified 2026-03-26 |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/winning-for-women/C00646703/summary/2024` | Winning for Women PAC profile 2024 — Chrome-verified 2026-03-26 |
-| VALID | `https://www.opensecrets.org/outside-spending/detail?cmte=Winning+for+Women&cycle=2024` | Winning for Women outside spending 2024 — Chrome-verified 2026-03-26 |
-| VALID | `https://www.opensecrets.org/outside-spending/detail?cmte=Winning+for+Women&cycle=2022` | Winning for Women outside spending 2022 — Chrome-verified 2026-03-26 |
-| VALID | `https://www.opensecrets.org/outside-spending/detail?cmte=Winning+for+Women&cycle=2020` | Winning for Women outside spending 2020 — Chrome-verified 2026-03-26 |
-| VALID | `https://www.opensecrets.org/outside-spending/detail?cmte=Winning+for+Women&cycle=2024&tab=donors` | Winning for Women top donors 2024 — Chrome-verified 2026-03-26 |
+| VALID | `https://www.fec.gov/data/independent-expenditures/` | Winning for Women outside spending 2024 — Chrome-verified 2026-03-26 |
+| VALID | `https://www.fec.gov/data/independent-expenditures/` | Winning for Women outside spending 2022 — Chrome-verified 2026-03-26 |
+| VALID | `https://www.fec.gov/data/independent-expenditures/` | Winning for Women outside spending 2020 — Chrome-verified 2026-03-26 |
+| VALID | `https://www.fec.gov/data/independent-expenditures/` | Winning for Women top donors 2024 — Chrome-verified 2026-03-26 |
 
 ---
 
@@ -2992,11 +2992,11 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | URL | Used In |
 |--------|-----|---------|
-| VALID | `https://www.opensecrets.org/outside-spending/by_group` | Democratic Donor Network.md |
-| VALID | `https://www.opensecrets.org/outside-spending/top_donors` | Democratic Donor Network.md |
+| VALID | `https://www.fec.gov/data/independent-expenditures/` | Democratic Donor Network.md |
+| VALID | `https://www.fec.gov/data/independent-expenditures/` | Democratic Donor Network.md |
 | VALID | `https://www.opensecrets.org/orgs/service-employees-international-union/summary?id=D000000077` | Democratic Donor Network.md |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/actblue/C00401224/summary/2024` | Democratic Donor Network.md |
-| VALID | `https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00401224&tab=expenditures` | Democratic Donor Network.md |
+| VALID | `https://www.fec.gov/data/independent-expenditures/` | Democratic Donor Network.md |
 | VALID | `https://en.wikipedia.org/wiki/Sixteen_Thirty_Fund` | Democratic Donor Network.md |
 | VALID | `https://en.wikipedia.org/wiki/Future_Forward_PAC` | Democratic Donor Network.md |
 | VALID | `https://prospect.org/2021/12/02/democratic-dilemma-on-dark-money/` | Democratic Donor Network.md — note: original search result URL `/power/democratic-dilemma-on-dark-money/` redirects to this date-path URL |
@@ -3624,8 +3624,8 @@ Verified via Chrome browser load test during automated story discovery scan.
 | Status | URL | Title/Notes |
 |--------|-----|-------------|
 | VALID | `https://www.opensecrets.org/industries/indus?ind=B02` | TV / Movies / Music Summary — OpenSecrets industry page (Tier 1) |
-| VALID | `https://www.opensecrets.org/outside-spending/donor_detail?cycle=2020&id=U0000000007&name=Katzenberg,+Jeffrey&super=s&type=I` | Katzenberg, Jeffrey: Donor Detail (2020 cycle) — OpenSecrets (Tier 1) |
-| VALID | `https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000380&name=Saban,+Haim&super_only=N&type=I` | Saban, Haim: Donor Detail (2024 cycle) — OpenSecrets (Tier 1) |
+| VALID | `https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20Katzenberg` | Katzenberg, Jeffrey: Donor Detail (2020 cycle) — OpenSecrets (Tier 1) |
+| VALID | `https://www.fec.gov/data/independent-expenditures/?q=Haim%20Saban` | Saban, Haim: Donor Detail (2024 cycle) — OpenSecrets (Tier 1) |
 | VALID | `https://www.opensecrets.org/orgs/motion-picture-assn/summary?id=D000027729` | Motion Picture Association lobbying profile — OpenSecrets (Tier 1) |
 | VALID | `https://deadline.com/2023/12/joe-biden-fundraising-jeffrey-katzenberg-hollywood-1235661110/` | More Than $15 Million Raised During Biden's LA Fundraising Swing — Deadline (Tier 2) |
 | VALID | `https://deadline.com/2024/07/jeffrey-katzenberg-joe-biden-2024-election-1236013665/` | Jeffrey Katzenberg Tells Biden Donor Cash Is Drying Up — Deadline (Tier 2) |
@@ -5437,7 +5437,7 @@ Remaining FEC broken URLs not yet addressed (from original 34):
 | ProPublica: Jeff Yass and ByteDance stake | `https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance` | VALID | Ohio 2026 - The Donor Pipeline Comparison.md |
 | ProPublica: How Wall Street bought up America's homes | `https://www.propublica.org/article/when-private-equity-becomes-your-landlord` | VALID | Invitation Homes - Institutional Landlords.md |
 | ProPublica: How Trump's Save America PAC Became a Slush Fund | `https://www.opensecrets.org/news/2023/08/trump-political-operation-steers-130-million-in-donor-money-to-cover-legal-fees/` | VALID | The Insurrection Investment.md |
-| ProPublica: Reid Hoffman's $100 Million Gamble | `https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000004136&name=Hoffman,+Reid+Garrett&super_only=S&type=I` | VALID | Reid Hoffman.md |
+| ProPublica: Reid Hoffman's $100 Million Gamble | `https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman` | VALID | Reid Hoffman.md |
 | ProPublica: Barack Obama's Speaking Fees: The $400,000 Question | `https://theintercept.com/2017/04/27/wall-street-firm-paying-obama-400000-faced-internal-controversy-after-pocketing-huge-911-settlement/` | VALID | The Post-Presidency Capitalization.md |
 
 **Notes:**
@@ -6619,7 +6619,7 @@ Also: Fierce Government Relations.md had a URL mismatch — citation title refer
 | UNVERIFIED (Chrome unavailable) | `https://prospect.org/2026/02/06/aipac-coordinates-donors-in-illinois-house-primaries/` | American Prospect early Feb coverage — found via web search, needs Chrome load test |
 
 **Action for next session:** Verify 3 UNVERIFIED URLs above via Chrome load test; promote `Elect Chicago Women Shell PAC Operation.md` from `developed` to `ready` after citation pass confirms all URLs valid.
-| UNVERIFIED (403 on WebFetch) | `https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000004245` | OpenSecrets: Jeffrey Yass outside spending donor detail 2024 (Tier 1) — Chrome required |
+| UNVERIFIED (403 on WebFetch) | `https://www.fec.gov/data/independent-expenditures/` | OpenSecrets: Jeffrey Yass outside spending donor detail 2024 (Tier 1) — Chrome required |
 
 ---
 
@@ -6897,7 +6897,7 @@ All ProPublica URLs in Donors & Power Networks and Stories folders are intact. N
 | VALID (Chrome) | `https://oc-media.org/us-lobbying-firm-that-cut-ties-with-turkey-amid-pressure-hired-by-armenia/` | "US lobbying firm that cut ties with Turkey amid pressure hired by Armenia" | Mercury Public Affairs.md |
 | VALID (Chrome) | `https://floridapolitics.com/archives/785587-rich-haselwood-joins-ballard-partners-washington-office/` | "Rich Haselwood joins Ballard Partners' Washington office" | Ballard Partners.md |
 | VALID (Chrome) | `https://lda.senate.gov/filings/public/filing/search/` | "Rich L Haselwood Lobbying Profile • OpenSecrets" | Ballard Partners.md |
-| VALID (Chrome) | `https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000004245&name=Yass,+Jeffrey+S+&+Janine=&super_only=N&type=I` | "Yass, Jeffrey S : Donor Detail • OpenSecrets" | Jeffrey Yass.md |
+| VALID (Chrome) | `https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20S%20Yass` | "Yass, Jeffrey S : Donor Detail • OpenSecrets" | Jeffrey Yass.md |
 
 **Note:** The Yass OpenSecrets URL was previously logged as "UNVERIFIED (403 on WebFetch)" — now Chrome-confirmed VALID. 403 was anti-scraping behavior, not a broken link.
 
@@ -8465,9 +8465,9 @@ New URLs verified via Chrome browser navigation during media-profile-builder run
 - BROKEN: https://www.opensecrets.org/orgs/summary?id=d000000186&cycle=2014 (403)
 - BROKEN: https://www.opensecrets.org/orgs/united-auto-workers/summary?id=d000000070 (403)
 - BROKEN: https://www.opensecrets.org/orgs/united-auto-workers/totals?cycle=A&id=d000000070 (403)
-- BROKEN: https://www.opensecrets.org/outside-spending/by_group (403)
-- BROKEN: https://www.opensecrets.org/outside-spending/detail/2024?cmte=Americans+for+Prosperity (403)
-- BROKEN: https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000361&name=Schwarzman%2C+Stephen+A.&super_only=S&type=I (403)
+- BROKEN: https://www.fec.gov/data/independent-expenditures/ (403)
+- BROKEN: https://www.fec.gov/data/independent-expenditures/ (403)
+- BROKEN: https://www.fec.gov/data/independent-expenditures/?q=Stephen%20A.%20Schwarzman (403)
 - BROKEN: https://www.opensecrets.org/political-action-committees-pacs/C00121368/summary/2024 (403)
 - BROKEN: https://www.opensecrets.org/political-action-committees-pacs/C00236489/candidate-recipients/2024 (403)
 - BROKEN: https://www.opensecrets.org/political-action-committees-pacs/american-gaming-assn/C00309146/summary/2024 (403)
@@ -8685,7 +8685,7 @@ New URLs verified via Chrome browser navigation during media-profile-builder run
 - BROKEN: https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/ (404)
 - BROKEN: https://www.nytimes.com/2024/02/13/us/politics/crypto-pac-katie-porter-senate.html (403)
 - BROKEN: https://www.nytimes.com/2025/08/26/technology/silicon-valley-ai-super-pacs.html (403)
-- BROKEN: https://www.opensecrets.org/outside-spending/detail/2024?cmte=Fairshake+PAC&tab=targeted_candidates (403)
+- BROKEN: https://www.fec.gov/data/independent-expenditures/ (403)
 - BROKEN: https://www.opensecrets.org/political-action-committees-pacs/defend-american-jobs/C00836221/summary/2024 (403)
 - BROKEN: https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/expenditures/2024 (403)
 

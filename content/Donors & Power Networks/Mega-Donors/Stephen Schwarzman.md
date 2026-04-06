@@ -133,7 +133,7 @@ The deeper pattern: Schwarzman positions himself as a statesman (Yale scholar, m
 ### Sources
 
 - [FEC: Stephen Schwarzman individual contributions 2022-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=schwarzman) (Tier 1)
-- [OpenSecrets: Stephen Schwarzman donor detail (2024 cycle)](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000361&name=Schwarzman%2C+Stephen+A.&super_only=S&type=I) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Stephen Schwarzman donor detail (2024 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Stephen%20A.%20Schwarzman) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
 - [OpenSecrets: Blackstone PAC and leadership bundling 2024](https://www.opensecrets.org/orgs/blackstone-inc/summary?id=D000117815) (Tier 1)
 - [Forbes: "Billionaire Blackstone CEO Schwarzman will back Trump after donating millions in 2020"](https://www.forbes.com/sites/mollybohannon/2024/05/24/billionaire-blackstone-ceo-schwarzman-will-back-trump-after-donating-millions-in-2020/) (Tier 2) (UNVERIFIED)

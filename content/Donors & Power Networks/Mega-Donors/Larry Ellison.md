@@ -124,7 +124,7 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 
 ### Sources
 
-- [OpenSecrets: Larry Ellison donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2022?id=U0000003787&name=Ellison,+Lawrence&super=N&type=I) (Tier 1)
+- [OpenSecrets: Larry Ellison donor profile](https://www.fec.gov/data/independent-expenditures/?q=Lawrence%20Ellison) (Tier 1)
 - [CNN Business: Larry and David Ellison wealth and political power](https://www.cnn.com/2025/09/26/media/larry-ellison-david-ellison-trump) (Tier 2)
 - [CNBC: Pentagon JWCC cloud contract award to Oracle, Amazon, Google, Microsoft](https://www.cnbc.com/2022/12/07/google-oracle-amazon-and-microsoft-awarded-9-billion-pentagon-cloud-deals.html) (Tier 1)
 - [Nextgov/FCW: Oracle, the CIA and government's role in picking winners](https://www.nextgov.com/digital-government/2014/09/oracle-the-cia-and-governments-role-in-picking-winners/240320/) (Tier 2)

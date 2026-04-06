@@ -147,7 +147,7 @@ The contradiction dissolves when you stop thinking about parties and start think
 ### Sources
 
 ### Tier 1 (Government documents & primary sources):
-- [OpenSecrets: Jeff Yass donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000004245&name=Yass,+Jeffrey+S+&+Janine=&super_only=N&type=I) (Tier 1)
+- [OpenSecrets: Jeff Yass donor profile](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20S%20Yass) (Tier 1)
 - [Congressional Record: H.R. 7521 PAFACA text](https://www.congress.gov/bill/118th-congress/house-bill/7521/text) (Tier 1)
 - [Supreme Court TikTok ban affirmation, January 2025](https://www.supremecourt.gov/search.aspx?Search=Contradiction%2010%20-%20Jeff%20Yass%20Follows%20TikTok%20Money%20Across%20Every%20Candidate) (Tier 1)
 

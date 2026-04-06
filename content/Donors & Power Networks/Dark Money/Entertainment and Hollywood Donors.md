@@ -138,8 +138,8 @@ The industry's structural function for the donor class: maintain Democratic cult
 ### Sources
 
 - [OpenSecrets: TV / Movies / Music industry summary](https://www.opensecrets.org/industries?ind=B02) (Tier 1)
-- [OpenSecrets: Katzenberg, Jeffrey — donor detail (2020 cycle)](https://www.opensecrets.org/outside-spending/donor_detail?cycle=2020&id=U0000000007&name=Katzenberg,+Jeffrey&super=s&type=I) (Tier 1)
-- [OpenSecrets: Saban, Haim — donor detail (2024 cycle)](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000380&name=Saban,+Haim&super_only=N&type=I) (Tier 1)
+- [OpenSecrets: Katzenberg, Jeffrey — donor detail (2020 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20Katzenberg) (Tier 1)
+- [OpenSecrets: Saban, Haim — donor detail (2024 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Haim%20Saban) (Tier 1)
 - [OpenSecrets: Motion Picture Association lobbying profile](https://www.opensecrets.org/orgs/motion-picture-assn/summary?id=D000027729) (Tier 1)
 - [Deadline: More Than $15 Million Raised During Biden's LA Fundraising Swing, Katzenberg Says](https://deadline.com/2023/12/joe-biden-fundraising-jeffrey-katzenberg-hollywood-1235661110/) (Tier 2)
 - [Deadline: Jeffrey Katzenberg Tells Biden Donor Cash Is Drying Up](https://deadline.com/2024/07/jeffrey-katzenberg-joe-biden-2024-election-1236013665/) (Tier 2)

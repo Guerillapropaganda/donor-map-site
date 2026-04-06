@@ -77,7 +77,7 @@ This isn't whataboutism. It's the donor-first thesis applied consistently: both 
 ### Sources
 
 - [FEC: Future Forward USA Action committee filings](https://www.fec.gov/data/committee/C00784868/) (Tier 1)
-- [OpenSecrets: Future Forward USA Action outside spending](https://www.opensecrets.org/outside-spending/detail?cmte=C00784868) (Tier 1)
+- [OpenSecrets: Future Forward USA Action outside spending](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 - [OpenSecrets: Outside spending on 2024 elections shatters records, fueled by dark money](https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/) (Tier 1)
 - [Campaign Legal Center: 501(c)(4) political spending analysis](https://campaignlegal.org/issues/campaign-finance) (Tier 2)
 

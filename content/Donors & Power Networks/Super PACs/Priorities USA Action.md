@@ -114,7 +114,7 @@ The 2024 fundraising collapse reveals another structural truth: mega-donors don'
 
 ### OpenSecrets (Tier 1):
 - [OpenSecrets: Priorities USA Action PAC profile](https://www.opensecrets.org/political-action-committees-pacs/C00495861/summary/2024) (Tier 1) (Chrome verified 2026-03-26)
-- [OpenSecrets: Priorities USA Action donors, 2024](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00495861&tab=donors_all) (Tier 1) (Chrome verified 2026-03-26)
+- [OpenSecrets: Priorities USA Action donors, 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (Chrome verified 2026-03-26)
 - [OpenSecrets: Priorities USA Action independent expenditures, 2020](https://www.opensecrets.org/political-action-committees-pacs/priorities-usa-action/C00495861/independent-expenditures/2020) (Tier 1) (Chrome verified 2026-03-26)
 - [OpenSecrets: Priorities USA / Priorities USA Action org profile](https://www.opensecrets.org/orgs/priorities-usa-priorities-usa-action/summary?id=D000065503) (Tier 1) (Chrome verified 2026-03-26)
 

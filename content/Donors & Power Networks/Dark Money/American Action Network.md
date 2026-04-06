@@ -157,7 +157,7 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 
 ### Sources
 
-- [OpenSecrets: American Action Network — outside spending profile](https://www.opensecrets.org/outside-spending/detail?cmte=American+Action+Network&cycle=2024) (Tier 1)
+- [OpenSecrets: American Action Network — outside spending profile](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 - [OpenSecrets: American Action Network — organizational totals](https://www.opensecrets.org/orgs/american-action-network/totals?id=D000060058) (Tier 1)
 - [OpenSecrets News: Party-aligned groups funnel millions in dark money to super PACs ahead of 2024](https://www.opensecrets.org/news/2023/08/party-aligned-groups-funnel-millions-in-dark-money-to-closely-tied-super-pacs-ahead-of-2024-election/) (Tier 1)
 - [OpenSecrets News: Dark money topped $1 billion in 2020](https://www.opensecrets.org/news/2021/03/one-billion-dark-money-2020-electioncycle/) (Tier 1)

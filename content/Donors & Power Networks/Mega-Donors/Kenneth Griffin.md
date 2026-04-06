@@ -94,7 +94,7 @@ Griffin's 2024 giving is half the story. His career federal + state political sp
 | 2021–2022 | ~$110–120M | $50M on Richard Irvin (IL gubernatorial primary, lost); $60M federal |
 | 2023–2024 | ~$108M | $30M Senate Leadership Fund, $16M CLF, $12M Keep Florida Clean (anti-marijuana) |
 
-Sources: [InfluenceWatch: Ken Griffin](https://www.influencewatch.org/person/ken-griffin/) (Tier 3); [Bloomberg: Griffin super PAC giving](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections) (Tier 2); [OpenSecrets: Griffin donor detail 2024](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003655&name=Griffin%2C+Kenneth+C&super_only=N&type=I) (Tier 1).
+Sources: [InfluenceWatch: Ken Griffin](https://www.influencewatch.org/person/ken-griffin/) (Tier 3); [Bloomberg: Griffin super PAC giving](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections) (Tier 2); [OpenSecrets: Griffin donor detail 2024](https://www.fec.gov/data/independent-expenditures/?q=Kenneth%20C%20Griffin) (Tier 1).
 
 ### The Illinois Ballot Wars
 

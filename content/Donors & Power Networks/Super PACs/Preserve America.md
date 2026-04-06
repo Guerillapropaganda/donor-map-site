@@ -108,7 +108,7 @@ Preserve America does not operate in isolation. It coordinates with:
 - [The Trump Administration — Track AIPAC](https://www.trackaipac.com/trump) (Tier 2)
 - [GOP donors pour hundreds of millions into pro-Trump super PACs before Election Day — NBC News](https://www.nbcnews.com/politics/2024-election/gop-donors-pour-hundreds-millions-trump-super-pacs-election-day-rcna175705) (Tier 2)
 - [The Final Pre-Election Reports Are In: Here Are Trump's 20 Largest Donors — Sludge](https://readsludge.com/2024/10/25/the-final-pre-election-reports-are-in-here-are-trumps-20-largest-donors/) (Tier 2)
-- [Adelson, Miriam O.: Donor Detail — OpenSecrets](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000310&name=Adelson,+Miriam+O.&super_only=N&type=I) (Tier 1)
+- [Adelson, Miriam O.: Donor Detail — OpenSecrets](https://www.fec.gov/data/independent-expenditures/?q=Miriam%20O.%20Adelson) (Tier 1)
 
 research-status:: ready — Miriam Adelson personal super PAC, $106M 2024 Trump, $215M+ lifetime, Israel policy conditioning, casino deregulation, $92M battleground ads, billionaire veto analysis. 8 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready

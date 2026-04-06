@@ -59,7 +59,7 @@ The 2024 Bowman-Latimer race demonstrated this clearly: UDP spent $14.9 million 
 | [[_Donna Miller Master Profile|Donna Miller]] (IL-2 Dem) | $4.4M (support, via Affordable Chicago Now) | Won 2026 primary | Via shell PAC |
 | Laura Fine (IL-9 Dem) | $5.8M (support, via Elect Chicago Women) | Lost 2026 primary | Opposition to [[_Daniel Biss Master Profile|Daniel Biss]] failed |
 
-[United Democracy Project Recipients, 2024 • OpenSecrets](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00799031&tab=targeted_candidates) (Tier 2)
+[United Democracy Project Recipients, 2024 • OpenSecrets](https://www.fec.gov/data/independent-expenditures/) (Tier 2)
 
 > [!money]
 > UDP spending in 2024: $37.9M in House independent expenditures ($12.4M supporting Democrats, $20M+ opposing Democrats). This pattern shows UDP uses the bulk of its House spending to eliminate progressive candidates, not elect new ones.

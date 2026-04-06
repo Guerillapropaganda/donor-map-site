@@ -113,7 +113,7 @@ This is not corruption in the traditional sense—it's *class function*. The don
 
 ### Sources
 
-- [Marc Andreessen - OpenSecrets donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000016&name=Andreessen,+Marc&super_only=N&type=I) (Tier 1)
+- [Marc Andreessen - OpenSecrets donor profile](https://www.fec.gov/data/independent-expenditures/?q=Marc%20Andreessen) (Tier 1)
 - [ProPublica: Tech Billionaire Marc Andreessen Bet Big on Trump](https://www.propublica.org/article/trump-cfpb-marc-andreessen-silicon-valley) (Tier 2)
 - [Bloomberg: Silicon Valley's Andreessen, Horowitz Give Millions to Trump PAC](https://www.bloomberg.com/news/articles/2024-10-16/silicon-valley-s-andreessen-horowitz-give-millions-to-trump-pac) (Tier 2)
 - [CNBC: Andreessen Horowitz founders plan to donate to pro-Trump super PAC](https://www.cnbc.com/2024/07/16/andreessen-horowitz-founders-plan-to-donate-to-pro-trump-pacs.html) (Tier 2)
