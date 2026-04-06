@@ -47,7 +47,7 @@ Tammy Duckworth. Democrat, Illinois. Senator since 2017. Purple Heart recipient 
 Duckworth's military sacrifice gives her unassailable credentials on defense and veterans' issues — a biographical shield that makes her defense spending positions essentially unquestionable. She is one of the few Democratic senators who can advocate for defense spending increases without facing progressive backlash. Illinois's defense economy — Boeing headquarters in Chicago, Rock Island Arsenal, Collins Aerospace in Rockford, 8,713 defense contractors across 102 counties holding $116.1 billion in government contracts — creates constituency alignment with her committee jurisdiction.
 
 - [Congress.gov: Tammy Duckworth member profile](https://www.congress.gov/member/tammy-duckworth/D000622) (Tier 1)
-- [OpenSecrets: Tammy Duckworth campaign finance summary](https://www.opensecrets.org/members-of-congress/tammy-duckworth/summary?cid=N00027860) (Tier 1)
+- [OpenSecrets: Tammy Duckworth campaign finance summary](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1)
 
 ---
 
@@ -144,7 +144,7 @@ This is the Genuine Win track. The veteran care outcomes are real and meaningful
 ### Sources
 
 - [Congress.gov: Tammy Duckworth member profile](https://www.congress.gov/member/tammy-duckworth/D000622) (Tier 1)
-- [OpenSecrets: Tammy Duckworth campaign finance summary](https://www.opensecrets.org/members-of-congress/tammy-duckworth/summary?cid=N00027860) (Tier 1)
+- [OpenSecrets: Tammy Duckworth campaign finance summary](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1)
 - [FEC: Tammy Duckworth candidate profile](https://www.fec.gov/data/candidate/S6IL00292/) (Tier 1)
 - [Duckworth Senate: FY 2026 NDAA vote statement](https://www.duckworth.senate.gov/news/press-releases/amid-trumps-escalating-misuse-of-our-military-against-americans-duckworth-votes-to-block-final-passage-of-defense-authorization-bill-for-the-first-time-in-her-career) (Tier 1)
 - [Duckworth Senate: Rock Island Arsenal FY 2026 provisions](https://www.duckworth.senate.gov/news/press-releases/duckworth-secures-key-ndaa-provisions-to-strengthen-rock-island-arsenal-support-families-and-farmers-in-illinois-and-beyond) (Tier 1)

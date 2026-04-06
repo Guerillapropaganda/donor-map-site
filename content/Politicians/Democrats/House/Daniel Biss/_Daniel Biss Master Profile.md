@@ -137,7 +137,7 @@ Biss's core contradiction is between his anti-AIPAC rhetoric and his integration
 
 ### Sources
 
-- [OpenSecrets: Daniel Biss 2026 Campaign Finance](https://www.opensecrets.org/members-of-congress/daniel-biss/summary) (Tier 1)
+- [OpenSecrets: Daniel Biss 2026 Campaign Finance](https://www.fec.gov/data/candidate/H6IL09228/) (Tier 1)
 - [FEC: 2026 Primary Results - Illinois 9th District](https://www.fec.gov/data/elections/house/IL/09/2026/) (Tier 1)
 - [Illinois Results: Daniel Biss Beats Kat Abughazaleh in Blow to Left and AIPAC Alike: The Intercept](https://theintercept.com/2026/03/17/illinois-house-senate-primary-results-biss-abughazaleh/) (Tier 2)
 - [What to know about the Illinois primaries, where AIPAC backs a fierce Israel critic: Times of Israel](https://www.timesofisrael.com/what-to-know-about-the-illinois-primaries-where-aipac-backs-a-fierce-israel-critic/) (Tier 2)

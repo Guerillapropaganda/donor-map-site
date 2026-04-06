@@ -35,7 +35,7 @@ Scott's signature legislative effort — the Raise the Wage Act, proposing a $15
 ### Sources
 
 - [Congress.gov: Bobby Scott member profile](https://www.congress.gov/member/robert-scott/S000185) (Tier 1)
-- [OpenSecrets: Bobby Scott campaign finance summary](https://www.opensecrets.org/members-of-congress/bobby-scott/summary?cid=N00002147) (Tier 1)
+- [OpenSecrets: Bobby Scott campaign finance summary](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
 - [Ballotpedia: Bobby Scott](https://ballotpedia.org/Bobby_Scott) (Tier 3)
 
 content-readiness:: ready

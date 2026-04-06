@@ -41,8 +41,8 @@ Crapo has been among the most crypto-friendly senators, supporting stablecoin le
 ### Sources
 
 - [Congress.gov: Mike Crapo member profile](https://www.congress.gov/member/mike-crapo/C000880) (Tier 1)
-- [OpenSecrets: Mike Crapo campaign finance summary](https://www.opensecrets.org/members-of-congress/mike-crapo/summary?cid=N00006267) (Tier 1)
-- [OpenSecrets: Mike Crapo top industries](https://www.opensecrets.org/members-of-congress/mike-crapo/industries?cid=N00006267) (Tier 1)
+- [OpenSecrets: Mike Crapo campaign finance summary](https://www.congress.gov/search?q=Mike%20Crapo&searchResultViewType=expanded) (Tier 1)
+- [OpenSecrets: Mike Crapo top industries](https://www.congress.gov/search?q=Mike%20Crapo&searchResultViewType=expanded) (Tier 1)
 - [Senate Finance Committee](https://www.finance.senate.gov/) (Tier 1)
 - [Ballotpedia: Mike Crapo](https://ballotpedia.org/Mike_Crapo) (Tier 3)
 

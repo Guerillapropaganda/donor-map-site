@@ -40,7 +40,7 @@ French Hill. Republican, Arkansas's 2nd District (Little Rock). Chair of the Hou
 
 Career total raised: approximately $6.7 million in the 2024 cycle alone, with the finance, insurance, and real estate sector as his dominant funding base.
 
-- [OpenSecrets: French Hill campaign finance summary](https://www.opensecrets.org/members-of-congress/french-hill/summary?cid=N00035792) (Tier 1)
+- [OpenSecrets: French Hill campaign finance summary](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
 - [FEC: James French Hill candidate overview](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
 
 ---
@@ -63,7 +63,7 @@ French Hill exists to translate Wall Street's regulatory wish list into committe
 ### Top Contributing Industries (Career):
 Finance, insurance, and real estate dominate Hill's fundraising. Securities and investment firms are his single largest industry source, followed by commercial banking and real estate.
 
-- [OpenSecrets: French Hill industries](https://www.opensecrets.org/members-of-congress/french-hill/industries?cid=N00035792&cycle=2024) (Tier 1)
+- [OpenSecrets: French Hill industries](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
 
 ### Crypto Industry Surge (2024 Cycle):
 | Donor | Amount | Notes |
@@ -167,7 +167,7 @@ French Hill serves the financial donor class with unusual structural completenes
 
 ### Sources
 
-- [OpenSecrets: French Hill campaign finance summary](https://www.opensecrets.org/members-of-congress/french-hill/summary?cid=N00035792) (Tier 1)
+- [OpenSecrets: French Hill campaign finance summary](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
 - [FEC: James French Hill candidate overview](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
 - [House Financial Services Committee: Chairman French Hill](https://financialservices.house.gov/about/chairman-french-hill.htm) (Tier 1)
 - [House.gov: Rep. Hill's FIT21 legislation passes the House](https://hill.house.gov/news/documentsingle.aspx?DocumentID=9315) (Tier 1)

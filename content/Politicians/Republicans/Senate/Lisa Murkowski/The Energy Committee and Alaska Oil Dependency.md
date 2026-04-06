@@ -41,8 +41,8 @@ Murkowski's moderate Republican brand — she voted to convict Trump in his seco
 ### Sources
 
 - [Congress.gov: Lisa Murkowski member profile](https://www.congress.gov/member/lisa-murkowski/M001153) (Tier 1)
-- [OpenSecrets: Lisa Murkowski campaign finance summary](https://www.opensecrets.org/members-of-congress/lisa-murkowski/summary?cid=N00026prior) (Tier 1)
-- [OpenSecrets: Lisa Murkowski top industries](https://www.opensecrets.org/members-of-congress/lisa-murkowski/industries?cid=N00026prior) (Tier 1)
+- [OpenSecrets: Lisa Murkowski campaign finance summary](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1)
+- [OpenSecrets: Lisa Murkowski top industries](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1)
 - [Bureau of Land Management: Willow Project environmental impact statement](https://web.archive.org/web/2023/https:/www.blm.gov/programs/planning-and-nepa/plans-in-development/alaska/willow-master-development-plan) (Tier 1)
 - [Ballotpedia: Lisa Murkowski](https://ballotpedia.org/Lisa_Murkowski) (Tier 3)
 

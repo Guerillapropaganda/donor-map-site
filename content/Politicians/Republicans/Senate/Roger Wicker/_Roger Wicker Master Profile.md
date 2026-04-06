@@ -150,7 +150,7 @@ On foreign policy, Wicker positions as a reliable hawk — pro-Ukraine, pro-Taiw
 
 ### Sources
 
-- [OpenSecrets: Sen. Roger Wicker Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/roger-wicker/summary?cid=N00003280) (Tier 1)
+- [OpenSecrets: Sen. Roger Wicker Campaign Finance Summary](https://www.fec.gov/data/candidate/H4MS01078/) (Tier 1)
 - [FEC: Roger Wicker Candidate Profile (S8MS00196)](https://www.fec.gov/data/candidate/S8MS00196/) (Tier 1)
 - [Wicker.senate.gov: FY26 NDAA Recognizes Mississippi Defense Contributions](https://www.wicker.senate.gov/2025/12/chairman-wicker-fy26-ndaa-recognizes-full-range-of-mississippi-defense-contributions) (Tier 1)
 - [Wicker.senate.gov: Peace Through Strength Defense Investment Plan](https://www.wicker.senate.gov/2024/5/senator-wicker-unveils-major-defense-investment-plan) (Tier 1)

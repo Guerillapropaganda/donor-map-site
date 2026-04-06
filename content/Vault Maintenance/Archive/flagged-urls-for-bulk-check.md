@@ -416,11 +416,11 @@ https://www.opensecrets.org/industries/indus?cycle=2012&ind=E1210
 https://www.opensecrets.org/industries/totals?cycle=2024&ind=F
 https://www.opensecrets.org/industries/totals?cycle=2024&ind=N07
 https://www.opensecrets.org/industries/totals?cycle=2024&ind=P
-https://www.opensecrets.org/members-of-congress/cory-booker/industries?cid=N00035267&cycle=CAREER
-https://www.opensecrets.org/members-of-congress/cory-booker/summary?cid=N00035267
-https://www.opensecrets.org/members-of-congress/joe-manchin/contributors?cycle=2022&recs=100&type=I
-https://www.opensecrets.org/members-of-congress/tim-scott/industries?cid=N00031782
-https://www.opensecrets.org/members-of-congress/tim-scott/summary?cid=N00031782
+https://www.fec.gov/data/candidate/P00009795/
+https://www.fec.gov/data/candidate/P00009795/
+https://www.fec.gov/data/candidate/S0WV00090/
+https://www.fec.gov/data/candidate/P80008063/
+https://www.fec.gov/data/candidate/P80008063/
 https://www.opensecrets.org/news/2021/10/joe-manchins-net-worth-spurs-questions-energy-policy-position/
 https://www.opensecrets.org/news/2021/12/conservative-dark-money-group-raised-record-50m-in-2020-after-election-rebranding/
 https://www.opensecrets.org/news/2022/08/victorias-secret-founder-donates-big-to-gop/

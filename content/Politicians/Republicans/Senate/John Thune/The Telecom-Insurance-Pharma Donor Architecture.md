@@ -56,6 +56,6 @@ In February 2022, Thune received $35,000+ from pharmaceutical company CEOs in a 
 
 ### Sources
 
-- [OpenSecrets: Sen. John Thune - South Dakota Industry Donors](https://www.opensecrets.org/members-of-congress/john-thune/industries?cid=N00004572&cycle=2022) (Tier 1)
+- [OpenSecrets: Sen. John Thune - South Dakota Industry Donors](https://www.fec.gov/data/candidate/H6SD00085/) (Tier 1)
 - [STAT News: Pharma showers John Thune with campaign cash](https://www.statnews.com/2022/05/10/pharma-showers-john-thune-with-campaign-cash/) (Tier 2)
 - [The National Pulse: John Thune is The New Senate Leader — Here Are His Biggest Corporate Donors](https://thenationalpulse.com/2024/11/13/john-thune-is-the-new-senate-leader-here-are-his-biggest-corporate-donors/) (Tier 3)

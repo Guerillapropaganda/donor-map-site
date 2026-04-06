@@ -61,7 +61,7 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 
 ### Sources
 
-- [OpenSecrets: John McCain donor profile](https://www.opensecrets.org/members-of-congress/john-mccain/summary?cid=N00006424) (Tier 1)
+- [OpenSecrets: John McCain donor profile](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1)
 - [FEC campaign finance records: McCain presidential 2008](https://www.fec.gov) (Tier 1)
 - [Defense Industry Donations to John McCain](https://publicintegrity.org) (Tier 2)
 - [Keating Five scandal: Senate Ethics Committee investigation](https://www.senate.gov) (Tier 1)

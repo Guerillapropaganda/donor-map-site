@@ -36,7 +36,7 @@ As Secretary of State, Rubio's diplomatic positions directly affect defense proc
 
 ### Sources
 
-- [OpenSecrets: Marco Rubio donor profile](https://www.opensecrets.org/members-of-congress/marco-rubio/summary?cid=N00030612) (Tier 1)
+- [OpenSecrets: Marco Rubio donor profile](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
 - [Congress.gov: Uyghur Human Rights Policy Act of 2020 (S.3744)](https://www.congress.gov/bill/116th-congress/senate-bill/3744) (Tier 1)
 - [Ballotpedia: Marco Rubio](https://ballotpedia.org/Marco_Rubio) (Tier 3)
 

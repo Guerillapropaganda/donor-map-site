@@ -70,7 +70,7 @@ By 2020, Collins relied almost entirely on out-of-state donors and dark money ne
 ### Sources
 
 - [FEC.gov: Susan M. Collins - Candidate Overview](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1)
-- [OpenSecrets: Sen. Susan Collins - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/susan-collins/summary?cid=N00000491) (Tier 1)
+- [OpenSecrets: Sen. Susan Collins - Campaign Finance Summary](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1)
 - [Roll Call: Only 13 Mainers gave $200 or more to Susan Collins in latest quarter](https://rollcall.com/2019/04/08/only-13-mainers-gave-200-or-more-to-susan-collins-in-latest-quarter/) (Tier 2)
 - [The Hill: Collins boasts best fundraising quarter after Kavanaugh vote](https://thehill.com/homenews/senate/428278-collins-boasts-best-fundraising-quarter-after-kavanaugh-vote/) (Tier 2)
 - [Bangor Daily News: Collins brings in most money of her career after Kavanaugh vote](https://www.bangordailynews.com/2019/02/01/mainefocus/collins-brings-in-most-money-of-her-career-after-kavanaugh-vote/) (Tier 2)

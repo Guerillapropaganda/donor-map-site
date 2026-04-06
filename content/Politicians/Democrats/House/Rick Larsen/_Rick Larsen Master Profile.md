@@ -138,7 +138,7 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 
 ### Sources
 
-- [OpenSecrets: Rick Larsen donor profile](https://www.opensecrets.org/members-of-congress/rick-larsen/summary?cid=N00009759) (Tier 1)
+- [OpenSecrets: Rick Larsen donor profile](https://www.fec.gov/data/candidate/H0WA02080/) (Tier 1)
 - [Congress.gov: Rick Larsen](https://www.congress.gov/member/rick-larsen/L000560) (Tier 1)
 - [House T&I Committee: Ranking Member Larsen](https://democrats-transportation.house.gov/ranking-member-larsen) (Tier 1)
 - [Larsen.house.gov: Serves as Ranking Member statement](https://larsen.house.gov/news/documentsingle.aspx?DocumentID=2714) (Tier 1)

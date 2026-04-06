@@ -164,8 +164,8 @@ Her committee position turned her funded-by relationship into actual regulatory 
 
 ### Sources
 
-- [OpenSecrets: Cathy McMorris Rodgers donor profile, 2020 cycle](https://www.opensecrets.org/members-of-congress/mcmorris-rodgers-cathy/summary?cid=N00008158) (Tier 1)
-- [OpenSecrets: Cathy McMorris Rodgers PAC receipts](https://www.opensecrets.org/members-of-congress/mcmorris-rodgers-cathy/pacs?cid=N00008158) (Tier 1)
+- [OpenSecrets: Cathy McMorris Rodgers donor profile, 2020 cycle](https://www.fec.gov/data/candidate/H4WA05077/) (Tier 1)
+- [OpenSecrets: Cathy McMorris Rodgers PAC receipts](https://www.fec.gov/data/candidate/H4WA05077/) (Tier 1)
 - [House Energy & Commerce Committee roster](https://energycommerce.house.gov/subcommittees) (Tier 1)
 - [Fight for the Future: Net Neutrality opposition record](https://fightforthefuture.org/tracking-net-neutrality-opposition/) (Tier 2)
 - [Seattle Times: What a WA rep's No. 1 ranking in corporate cash means for the climate](https://www.seattletimes.com/seattle-news/politics/what-a-wa-reps-no-1-ranking-in-corporate-cash-means-for-the-climate/) (Tier 2)

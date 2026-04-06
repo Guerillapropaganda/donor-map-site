@@ -91,7 +91,7 @@ The Harvard degree is the original investment. The Harvard attack was the return
 ### Sources
 
 - [CNN: Stefanik's fierce questioning at Harvard antisemitism hearing](https://edition.cnn.com/2023/12/11/politics/elise-stefanik-antisemitism-hearing/index.html) (Tier 2)
-- [OpenSecrets: Stefanik campaign finance — pro-Israel donor surge](https://www.opensecrets.org/members-of-congress/elise-stefanik/summary?cid=N00035523) (Tier 1)
+- [OpenSecrets: Stefanik campaign finance — pro-Israel donor surge](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1)
 - [OpenSecrets: Trump administration profile — Stefanik](https://www.opensecrets.org/news/2025/01/trump-administration-profile-elise-stefanik/) (Tier 1)
 - [Harvard Crimson: Trump nominates Stefanik '06 as UN Ambassador](https://www.thecrimson.com/article/2024/11/11/trump-nominates-elise-stefanik-un-ambassador/) (Tier 2)
 - [Newsweek: Elise Stefanik — Trump's UN enforcer and gift to Netanyahu](https://www.newsweek.com/elise-stefanik-un-ambassador-israel-netanyahu-trump-1984103) (Tier 2)

@@ -163,7 +163,7 @@ The FEC opened an inquiry into Omar's small-dollar fundraising patterns — the 
 ### Sources
 
 - [Congress.gov: Ilhan Omar member profile](https://www.congress.gov/member/ilhan-omar/O000173) (Tier 1)
-- [OpenSecrets: Ilhan Omar campaign finance summary](https://www.opensecrets.org/members-of-congress/ilhan-omar/summary?cid=N00043581) (Tier 1)
+- [OpenSecrets: Ilhan Omar campaign finance summary](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
 - [FEC: Omar candidate profile](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
 - [NPR: House Republicans vote to remove Omar from Foreign Affairs Committee](https://www.npr.org/2023/02/02/1153472237/ilhan-omar-foreign-affairs-committee-vote-republicans-remove) (Tier 2)
 - [CNN: House passes resolution to remove Omar from committees](https://www.cnn.com/2023/02/02/politics/house-vote-ilhan-omar-committees) (Tier 2)

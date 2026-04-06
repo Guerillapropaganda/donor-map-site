@@ -158,7 +158,7 @@ This is the clearest donor-class tension in her record: genuine antitrust aggres
 
 ### Sources
 
-- [OpenSecrets: Pramila Jayapal campaign finance summary](https://www.opensecrets.org/members-of-congress/pramila-jayapal/summary?cid=N00038858) (Tier 1)
+- [OpenSecrets: Pramila Jayapal campaign finance summary](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1)
 - [Congress.gov: Pramila Jayapal member profile](https://www.congress.gov/member/pramila-jayapal/J000298) (Tier 1)
 - [Congress.gov: Medicare for All Act H.R. 3421 (118th)](https://www.congress.gov/bill/118th-congress/house-bill/3421) (Tier 1)
 - [FEC: Jayapal candidate overview](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1)

@@ -110,7 +110,7 @@ Inhofe represented one of America's poorest states while serving its wealthiest 
 
 ### Sources
 
-- [OpenSecrets: Jim Inhofe career industry contributions](https://www.opensecrets.org/members-of-congress/james-m-inhofe/industries?cid=N00005582&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Jim Inhofe career industry contributions](https://www.fec.gov/data/candidate/H6OK01102/) (Tier 1)
 - [OpenSecrets: Jim Inhofe campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00005582) (Tier 1)
 - [PBS: Oklahoma Sen. Jim Inhofe dies at 89](https://www.pbs.org/newshour/politics/oklahomas-sen-jim-inhofe-republican-known-for-denying-human-caused-climate-change-dies-at-89) (Tier 2)
 - [Military Times: Former Sen. Jim Inhofe, top Republican defense voice, dies at 89](https://www.militarytimes.com/news/pentagon-congress/2024/07/09/former-us-sen-jim-inhofe-top-republican-defense-voice-dies-at-89/) (Tier 2)

@@ -64,4 +64,4 @@ Graham's on-air fundraising plea during the 2020 campaign — begging viewers fo
 
 - [CNBC: South Carolina Senate race: Jaime Harrison gains bundlers in race against Lindsey Graham](https://www.cnbc.com/2020/04/20/south-carolina-senate-race-jaime-harrison-gains-bundlers-in-race-against-lindsey-graham.html) (Tier 2)
 - [CNN: South Carolina Senate race: How Jaime Harrison's campaign could spend $57 million before Election Day](https://www.cnn.com/2020/10/12/politics/south-carolina-senate-race-jaime-harrison-money-lindsey-graham/index.html) (Tier 2)
-- [OpenSecrets: Sen. Lindsey Graham - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/lindsey-graham/summary?cid=N00009975) (Tier 1)
+- [OpenSecrets: Sen. Lindsey Graham - Campaign Finance Summary](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)

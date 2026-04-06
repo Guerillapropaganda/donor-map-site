@@ -136,8 +136,8 @@ See: [[Operation Southern Spear and the Cuba Fuel Blockade]] for the full timeli
 
 ### Sources
 
-- [OpenSecrets: Marco Rubio career donor industries](https://www.opensecrets.org/members-of-congress/marco-rubio/industries?cid=N00030612&cycle=CAREER) (Tier 1)
-- [OpenSecrets: Marco Rubio campaign finance summary](https://www.opensecrets.org/members-of-congress/marco-rubio/summary?cid=N00030612) (Tier 1)
+- [OpenSecrets: Marco Rubio career donor industries](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
+- [OpenSecrets: Marco Rubio campaign finance summary](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
 - [The Intercept: Rubio follows donor dollars, veers from limited-government dogma](https://theintercept.com/2016/01/31/rubio-donor-dollars/) (Tier 2)
 - [National Review: Marco Rubio's billion-dollar sugar addiction](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2)
 - [Bloomberg: Sugar Barons Amass $8 Billion Fortune](https://www.bloomberg.com/news/articles/2017-08-09/sugar-barons-amass-8-billion-fortune-by-mastering-u-s-politics) (Tier 2)

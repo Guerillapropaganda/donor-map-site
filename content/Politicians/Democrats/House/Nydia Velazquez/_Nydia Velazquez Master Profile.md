@@ -126,8 +126,8 @@ During the pandemic, Velazquez led the Democratic response on PPP loans — and 
 
 ### Sources
 
-- [OpenSecrets: Nydia Velazquez donor profile](https://www.opensecrets.org/members-of-congress/nydia-velazquez/summary?cid=N00001102) (Tier 1)
-- [OpenSecrets: Nydia Velazquez industry donors](https://www.opensecrets.org/members-of-congress/nydia-velazquez/industries?cid=N00001102&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Nydia Velazquez donor profile](https://www.fec.gov/data/candidate/H2NY00010/) (Tier 1)
+- [OpenSecrets: Nydia Velazquez industry donors](https://www.fec.gov/data/candidate/H2NY00010/) (Tier 1)
 - [Congress.gov: Nydia Velazquez](https://www.congress.gov/member/nydia-velazquez/V000081) (Tier 1)
 - [House Small Business Committee: Ranking Member Velazquez](https://democrats-smallbusiness.house.gov/about/ranking-member-velazquez.htm) (Tier 1)
 - [House.gov: Velazquez small business policy page](https://velazquez.house.gov/issues/small-business) (Tier 1)

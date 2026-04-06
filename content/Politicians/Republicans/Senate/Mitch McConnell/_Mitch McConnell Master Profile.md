@@ -180,7 +180,7 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 
 ### Sources
 
-- [OpenSecrets: McConnell career finance](https://www.opensecrets.org/members-of-congress/mitch-mcconnell/summary?cid=N00003389) (Tier 1)
+- [OpenSecrets: McConnell career finance](https://www.fec.gov/data/candidate/S2KY00012/) (Tier 1)
 - [CREW: dark money investigations — SLF, One Nation, FTX connections](https://www.citizensforethics.org/reports-investigations/crew-investigations/mitch-mcconnell-tied-dark-money-group-bolstered-by-millions-from-ftx-fraudsters/) (Tier 2)
 - [NPR: tobacco documents investigation](https://www.npr.org/2019/06/17/730496066/tobaccos-special-friend-what-internal-documents-say-about-mitch-mcconnell) (Tier 2)
 - [Center for Public Integrity: Kentucky donor mapping](https://publicintegrity.org/politics/mitch-mcconnell-fueled-by-tobacco-and-whiskey/) (Tier 2)

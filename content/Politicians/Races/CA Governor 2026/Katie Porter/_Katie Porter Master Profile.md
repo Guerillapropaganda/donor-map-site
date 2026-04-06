@@ -147,7 +147,7 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 ### Sources
 
 - [CalMatters: California Governor Race Fundraising Reports](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
-- [OpenSecrets: Katie Porter Campaign Finance](https://www.opensecrets.org/members-of-congress/katie-porter/summary?cid=N00040865) (Tier 1)
+- [OpenSecrets: Katie Porter Campaign Finance](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded) (Tier 1)
 - Emerson College polling, March 2026 (Tier 2)
 - Axios / CoinDesk [[Fairshake PAC|Fairshake PAC]] coverage (Tier 2)
 - Daily Beast campaign finance investigation (Tier 2)

@@ -35,7 +35,7 @@ The Fanjul family — Alfonso and Jose "Pepe" Fanjul — controls Florida Crysta
 ### Sources
 
 - [Congress.gov: Marco Rubio member profile](https://www.congress.gov/member/marco-rubio/R000595) (Tier 1)
-- [OpenSecrets: Marco Rubio campaign finance summary](https://www.opensecrets.org/members-of-congress/marco-rubio/summary?cid=N00030612) (Tier 1)
+- [OpenSecrets: Marco Rubio campaign finance summary](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
 - [State.gov: Secretary of State biography](https://www.state.gov/biographies/secretary-of-state/) (Tier 1)
 - [Ballotpedia: Marco Rubio](https://ballotpedia.org/Marco_Rubio) (Tier 3)
 

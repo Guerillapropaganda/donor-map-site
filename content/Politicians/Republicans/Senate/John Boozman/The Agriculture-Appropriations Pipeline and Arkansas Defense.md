@@ -35,7 +35,7 @@ Walmart's headquarters in Bentonville, Arkansas makes the company a structural p
 ### Sources
 
 - [Congress.gov: John Boozman member profile](https://www.congress.gov/member/john-boozman/B001236) (Tier 1)
-- [OpenSecrets: John Boozman campaign finance summary](https://www.opensecrets.org/members-of-congress/john-boozman/summary?cid=N00013873) (Tier 1)
+- [OpenSecrets: John Boozman campaign finance summary](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1)
 - [Ballotpedia: John Boozman](https://ballotpedia.org/John_Boozman) (Tier 3)
 
 content-readiness:: ready

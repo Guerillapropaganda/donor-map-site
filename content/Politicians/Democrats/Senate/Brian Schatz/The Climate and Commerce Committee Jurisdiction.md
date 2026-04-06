@@ -35,7 +35,7 @@ Schatz's fundraising is notable for its small-dollar composition. His ActBlue re
 ### Sources
 
 - [Congress.gov: Brian Schatz member profile](https://www.congress.gov/member/brian-schatz/S001194) (Tier 1)
-- [OpenSecrets: Brian Schatz campaign finance summary](https://www.opensecrets.org/members-of-congress/brian-schatz/summary?cid=N00028138) (Tier 1)
+- [OpenSecrets: Brian Schatz campaign finance summary](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1)
 - [Ballotpedia: Brian Schatz](https://ballotpedia.org/Brian_Schatz) (Tier 3)
 
 content-readiness:: ready

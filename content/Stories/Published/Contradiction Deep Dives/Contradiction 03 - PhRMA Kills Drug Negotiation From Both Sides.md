@@ -197,9 +197,9 @@ Americans pay 3–4x what Germans, Canadians, Australians pay for identical drug
 
 ### Tier 1 — Government Records & Official Data
 - [OpenSecrets: PhRMA Lobbying Profile, 2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000000504) (Tier 1)
-- [OpenSecrets: Cory Booker Donor Profile](https://www.opensecrets.org/members-of-congress/cory-booker/industries?cid=N00035267&cycle=CAREER) (Tier 1)
-- [OpenSecrets: Richard Neal Donor Profile](https://www.opensecrets.org/members-of-congress/richard-e-neal/summary?cid=N00000153) (Tier 1)
-- [OpenSecrets: Brett Guthrie Donor Profile](https://www.opensecrets.org/members-of-congress/brett-guthrie/summary?cid=N00029675) (Tier 1)
+- [OpenSecrets: Cory Booker Donor Profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
+- [OpenSecrets: Richard Neal Donor Profile](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
+- [OpenSecrets: Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1)
 - [RAND: U.S. Prescription Drug Prices 2.78x International Average](https://www.rand.org/news/press/2024/02/01.html) (Tier 1)
 - [HHS ASPE: Comparing Prescription Drugs in U.S. and Other Countries](https://aspe.hhs.gov/reports/comparing-prescription-drugs) (Tier 1)
 - [Medicare Drug Price Negotiation Program • CMS.gov](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1)

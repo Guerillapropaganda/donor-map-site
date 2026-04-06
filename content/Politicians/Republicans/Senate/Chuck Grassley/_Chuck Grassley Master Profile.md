@@ -154,9 +154,9 @@ Grassley's son Robin has received over $1.4 million in USDA farm subsidies. Gras
 
 ### Sources
 
-- [OpenSecrets: Chuck Grassley donor profile](https://www.opensecrets.org/members-of-congress/chuck-grassley/summary?cid=N00001758) (Tier 1)
-- [OpenSecrets: Chuck Grassley industry donors](https://www.opensecrets.org/members-of-congress/chuck-grassley/industries?cid=N00001758) (Tier 1)
-- [OpenSecrets: Chuck Grassley contributors](https://www.opensecrets.org/members-of-congress/chuck-grassley/contributors?cid=N00001758) (Tier 1)
+- [OpenSecrets: Chuck Grassley donor profile](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded) (Tier 1)
+- [OpenSecrets: Chuck Grassley industry donors](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded) (Tier 1)
+- [OpenSecrets: Chuck Grassley contributors](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded) (Tier 1)
 - [Senate.gov: Chuck Grassley official biography](https://www.grassley.senate.gov/about/biography) (Tier 1)
 - [Congress.gov: Grassley-Wyden Prescription Drug Pricing Reduction Act](https://www.congress.gov/bill/116th-congress/senate-bill/2543) (Tier 1)
 - [USDA Farm Subsidy Database: Robin Grassley](https://farm.ewg.org/persondetail.php?custnumber=A10474835) (Tier 1)

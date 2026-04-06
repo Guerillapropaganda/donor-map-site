@@ -121,8 +121,8 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 
 ### Sources
 
-- [OpenSecrets: Mark Warner campaign finance summary](https://www.opensecrets.org/members-of-congress/mark-warner/summary?cid=N00002097) (Tier 1)
-- [OpenSecrets: Mark Warner industries (career)](https://www.opensecrets.org/members-of-congress/mark-warner/industries?cid=N00002097&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Mark Warner campaign finance summary](https://www.fec.gov/data/candidate/P80003023/) (Tier 1)
+- [OpenSecrets: Mark Warner industries (career)](https://www.fec.gov/data/candidate/P80003023/) (Tier 1)
 - [Wikipedia: Mark Warner biography and Nextel wealth](https://en.wikipedia.org/wiki/Mark_Warner) (Tier 3)
 - [Ballotpedia: Mark Warner net worth and telecom background](https://ballotpedia.org/Mark_Warner) (Tier 3)
 - [Fox News: Mark Warner Intelligence Committee background](https://www.foxnews.com/politics/mark-warner-senate-intel-committees-top-democrat-what-to-know) (Tier 2)

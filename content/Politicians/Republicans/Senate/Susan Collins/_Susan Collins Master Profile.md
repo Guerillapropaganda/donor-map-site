@@ -120,7 +120,7 @@ $200 million total spending — the most expensive in Maine history:
 
 ### Sources
 
-- [OpenSecrets: Collins career donors, industry totals, 2020 race](https://www.opensecrets.org/members-of-congress/susan-collins/summary?cid=N00000491) (Tier 1)
+- [OpenSecrets: Collins career donors, industry totals, 2020 race](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1)
 - [ProPublica: private equity and carried interest](https://www.propublica.org/article/susan-collins-backed-down-from-a-fight-with-private-equity-now-theyre-underwriting-her-reelection) (Tier 2)
 - [Common Dreams/Rolling Stone: Schwarzman-tax bill timeline](https://www.commondreams.org/news/collins-private-equity-donation-tax-bill) (Tier 2)
 - [Maine Public: post-Kavanaugh fundraising](https://www.mainepublic.org/politics/2019-02-04/collins-brings-in-most-money-of-her-career-after-kavanaugh-vote) (Tier 2)

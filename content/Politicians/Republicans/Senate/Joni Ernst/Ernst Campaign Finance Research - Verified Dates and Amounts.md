@@ -180,7 +180,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 **Total Agriculture PAC Donations:** $130,000 (2020 cycle)
 - **Ranking:** Agriculture was one of the two top PAC donor industries to Ernst
 - **Comparison:** Insurance PACs gave $145,000 (slightly higher)
-- **Sources:** [Senate Ernst OpenSecrets contributor profile, 2020 cycle data](https://www.opensecrets.org/members-of-congress/joni-ernst/contributors?cid=N00035483&cycle=2020) (Tier 1)
+- **Sources:** [Senate Ernst OpenSecrets contributor profile, 2020 cycle data](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1)
 
 ### Overall PAC Funding Profile (Career)
 

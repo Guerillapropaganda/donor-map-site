@@ -35,7 +35,7 @@ Boyle's donor profile reflects Philadelphia's union economy: building trades, pu
 ### Sources
 
 - [Congress.gov: Brendan Boyle member profile](https://www.congress.gov/member/brendan-boyle/B001296) (Tier 1)
-- [OpenSecrets: Brendan Boyle campaign finance summary](https://www.opensecrets.org/members-of-congress/brendan-boyle/summary?cid=N00035307) (Tier 1)
+- [OpenSecrets: Brendan Boyle campaign finance summary](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
 - [Ballotpedia: Brendan Boyle](https://ballotpedia.org/Brendan_Boyle) (Tier 3)
 
 content-readiness:: ready

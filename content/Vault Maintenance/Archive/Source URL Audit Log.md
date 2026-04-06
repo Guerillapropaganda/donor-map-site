@@ -152,7 +152,7 @@ This section records proven fix strategies by broken URL type. Check here first 
 
 | Status | URL | Source | File |
 |--------|-----|--------|------|
-| VALID | `https://www.opensecrets.org/members-of-congress/j-d-vance/summary?cid=N00048832` | OpenSecrets (Tier 1) | Narya Capital.md |
+| VALID | `https://www.fec.gov/data/candidate/S2OH00436/` | OpenSecrets (Tier 1) | Narya Capital.md |
 | VALID | `https://www.axios.com/2020/01/09/jd-vance-venture-capital-fund-ohio-silicon-valley-peter-thiel` | Axios (Tier 2) | Narya Capital.md |
 | VALID | `https://techcrunch.com/2020/01/09/hillbilly-elegy-author-j-d-vance-has-raised-93-million-for-his-own-midwestern-venture-fund/` | TechCrunch (Tier 2) | Narya Capital.md |
 | VALID | `https://www.axios.com/2024/07/16/jd-vance-venture-capital-career` | Axios (Tier 2) | Narya Capital.md |
@@ -278,8 +278,8 @@ This section records proven fix strategies by broken URL type. Check here first 
 
 | Status | URL | Source | File |
 |--------|-----|--------|------|
-| VALID | `https://www.opensecrets.org/members-of-congress/brian-babin/summary?cid=N00005736` | OpenSecrets — Babin summary (Tier 1) | Brian Babin/The Science Committee.md |
-| VALID | `https://www.opensecrets.org/members-of-congress/brian-babin/industries?cid=N00005736&cycle=career` | OpenSecrets — Babin career industries (Tier 1) | Brian Babin/The Science Committee.md |
+| VALID | `https://www.fec.gov/data/candidate/H6TX02079/` | OpenSecrets — Babin summary (Tier 1) | Brian Babin/The Science Committee.md |
+| VALID | `https://www.fec.gov/data/candidate/H6TX02079/` | OpenSecrets — Babin career industries (Tier 1) | Brian Babin/The Science Committee.md |
 | VALID | `https://www.congress.gov/member/brian-babin/B001291` | Congress.gov — Babin member profile (Tier 1) | Brian Babin/The Science Committee.md |
 | VALID | `https://republicans-science.house.gov/2025/5/chairman-babin-applauds-noaa-decision-to-cancel-controversial-billion-dollar-disaster-dataset` | House Science Committee — NOAA BDD cancellation (Tier 1) | Brian Babin/The Science Committee.md |
 | VALID | `https://republicans-science.house.gov/2025/6/babin-mccormick-probe-27-billion-biden-era-epa-climate-fund-amid-oversight-favoritism-concerns` | House Science Committee — EPA GGRF probe (Tier 1) | Brian Babin/The Science Committee.md |
@@ -2619,8 +2619,8 @@ Verified via Chrome browser load test — document.title method. Integrate into 
 
 | Status | Domain | URL | Verified Title |
 |--------|--------|-----|----------------|
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/jamaal-bowman/summary?cid=N00044790` | Rep. Jamaal Bowman - Campaign Finance Summary |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/ro-khanna/summary?cid=N00026427` | Rep. Ro Khanna - Campaign Finance Summary |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H0NY16143/` | Rep. Jamaal Bowman - Campaign Finance Summary |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H4CA12055/` | Rep. Ro Khanna - Campaign Finance Summary |
 | VALID | FEC | `https://www.fec.gov/data/candidate/H0NY16143/` | BOWMAN, JAMAAL - Candidate overview |
 | VALID | FEC | `https://www.fec.gov/data/candidate/H4CA12055/` | KHANNA, ROHIT - Candidate overview |
 | VALID | Congress.gov | `https://www.congress.gov/member/jamaal-bowman/B001223` | Jamaal Bowman \| Congress.gov |
@@ -2655,8 +2655,8 @@ Verified via Chrome browser load test — document.title method. Integrate into 
 | VALID | Cleveland Jewish News | `https://www.clevelandjewishnews.com/news/local_news/protesters-gather-outside-of-dr-amy-acton-s-home/article_fc0a516c-8d7b-11ea-b3ef-fbbfcd2244ef.html` | Protesters gather outside of Dr. Amy Acton's home |
 | VALID | Acton for Governor | `https://actonforgovernor.com/dr-amy-acton-announces-record-breaking-5-3-million-raised-to-date/` | Dr. Amy Acton Announces Record-Breaking $5.3 Million Raised To Date |
 | VALID | Ohio SOS | `https://www.ohiosos.gov/elections/campaign-finance` | Campaign Finance - Filing, Compliance & Reports |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/dan-crenshaw/summary?cid=N00042224` | Rep. Dan Crenshaw - Campaign Finance Summary |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/dan-crenshaw/industries?cid=N00042224&cycle=CAREER` | Rep. Dan Crenshaw - Texas District 02 (industries career) |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H8TX02166/` | Rep. Dan Crenshaw - Campaign Finance Summary |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H8TX02166/` | Rep. Dan Crenshaw - Texas District 02 (industries career) |
 | VALID | Congress.gov | `https://www.congress.gov/member/dan-crenshaw/C001120` | Dan Crenshaw - Congress.gov |
 | VALID | Texas Tribune | `https://www.texastribune.org/2026/03/03/texas-dan-crenshaw-steve-toth-republican-primary/` | Steve Toth unseats Dan Crenshaw in GOP primary |
 | VALID | Daily Beast | `https://www.thedailybeast.com/texas-rep-dan-crenshaw-decided-the-covid-19-pandemic-was-the-perfect-time-to-buy-and-not-disclose-stocks/` | Texas Rep. Dan Crenshaw Decided the COVID-19 Pandemic Was the Perfect Time to Buy and Not Disclose Stocks |
@@ -2665,7 +2665,7 @@ Verified via Chrome browser load test — document.title method. Integrate into 
 | BROKEN | WKYC | `https://www.wkyc.com/article/news/politics/armed-protesters-gather-at-home-of-ohio-health-director-amy-acton/95-578654340` | 404 Not Found |
 | BROKEN | Columbus Dispatch | `https://www.dispatch.com/story/news/politics/2025/01/07/amy-acton-announces-2026-ohio-gubernatorial-candidacy/36385847007/` | Redirects to unrelated 2014 article |
 | BROKEN | Ohio Capital Journal | `https://www.ohiocapitaljournal.com/2026/02/01/amy-acton-raises-5-3-million-for-ohio-governors-race/` | Page not found — wrong date slug |
-| BROKEN | OpenSecrets | `https://www.opensecrets.org/members-of-congress/dan-crenshaw/summary?cid=N00042647` | No Data Found — wrong CID (correct CID is N00042224) |
+| BROKEN | OpenSecrets | `https://www.fec.gov/data/candidate/H8TX02166/` | No Data Found — wrong CID (correct CID is N00042224) |
 
 ### Story Discovery URLs — March 25, 2026
 
@@ -2731,8 +2731,8 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | Source | URL | Description |
 |--------|--------|-----|-------------|
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/tammy-baldwin/summary?cid=N00004367` | Tammy Baldwin campaign finance summary (2024 cycle) |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/tammy-baldwin/industries?cid=N00004367&cycle=CAREER` | Tammy Baldwin career industry breakdown |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H8WI00018/` | Tammy Baldwin campaign finance summary (2024 cycle) |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H8WI00018/` | Tammy Baldwin career industry breakdown |
 | VALID | OpenSecrets | `https://www.opensecrets.org/races/summary?cycle=2024&id=WIS1&special=N` | Wisconsin Senate 2024 race summary |
 | VALID | Congress.gov | `https://www.congress.gov/member/tammy-baldwin/B001230` | Tammy Baldwin member profile |
 | VALID | Baldwin.senate.gov | `https://www.baldwin.senate.gov/news/press-releases/made-in-america-act` | Made in America Act announcement |
@@ -2745,8 +2745,8 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | Source | URL | Description |
 |--------|--------|-----|-------------|
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/john-kennedy/summary?cid=N00026823` | John Kennedy campaign finance summary (correct CID) |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/john-kennedy/industries?cid=N00026823&cycle=2024` | John Kennedy industry breakdown 2024 cycle |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/S0MD00069/` | John Kennedy campaign finance summary (correct CID) |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/S0MD00069/` | John Kennedy industry breakdown 2024 cycle |
 | VALID | Congress.gov | `https://www.congress.gov/member/john-kennedy/K000393` | John Kennedy member profile |
 | VALID | Kennedy.senate.gov | `https://www.kennedy.senate.gov/public/2023/5/kennedy-introduces-bill-to-protect-taxpayers-from-cfpb-bureaucracy` | CFPB Cost-Benefit Analysis Act |
 | VALID | Human Rights Watch | `https://www.hrw.org/news/2024/01/25/us-louisianas-cancer-alley` | Louisiana Cancer Alley investigation (2024) |
@@ -2759,8 +2759,8 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | Source | URL | Description |
 |--------|--------|-----|-------------|
-| BROKEN | OpenSecrets | `https://www.opensecrets.org/members-of-congress/john-kennedy/industries?cid=N00026202` | Wrong CID — N00026202 returns "No Data Found". Replaced with N00026823. |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/john-kennedy/industries?cid=N00026823&cycle=2024` | Correct CID for John Kennedy (Louisiana) |
+| BROKEN | OpenSecrets | `https://www.fec.gov/data/candidate/S0MD00069/` | Wrong CID — N00026202 returns "No Data Found". Replaced with N00026823. |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/S0MD00069/` | Correct CID for John Kennedy (Louisiana) |
 
 ---
 
@@ -2869,8 +2869,8 @@ Verified via Chrome browser load test during automated story discovery scan.
 | VALID | Quincy Institute | `https://quincyinst.org/2025/07/08/new-research-military-contractors-received-over-half-of-pentagon-spending-since-2020/` | Military contractors received 50%+ of Pentagon spending |
 | VALID | The Intercept | `https://theintercept.com/2025/12/12/pentagon-defense-contractors-budget-interest-payments/` | Lawmakers pave way for contractor interest payment subsidies |
 | VALID | PESP | `https://pestakeholder.org/news/private-equity-health-care-acquisitions-january-2026/` | Private Equity Health Care Acquisitions — January 2026 |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/chip-roy/summary?cid=N00042268` | Chip Roy campaign finance summary |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/chip-roy/industries?cid=N00042268&cycle=CAREER` | Chip Roy career industries |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H8TX21307/` | Chip Roy campaign finance summary |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H8TX21307/` | Chip Roy career industries |
 | VALID | Congress.gov | `https://www.congress.gov/member/chip-roy/R000614` | Chip Roy member profile |
 | VALID | Roy.house.gov | `https://roy.house.gov/media/press-releases/rep-roy-issues-statement-advancement-one-big-beautiful-bill-house-budget` | Roy statement on OBBBA advancement |
 | VALID | CNN | `https://www.cnn.com/2025/05/21/politics/chip-roy-house-budget-bill` | Trump pushing Republicans — Chip Roy could stand in the way |
@@ -2880,8 +2880,8 @@ Verified via Chrome browser load test during automated story discovery scan.
 | VALID | E&E News/Politico | `https://www.eenews.net/articles/solar-group-takes-revenge-on-chip-roy-over-tax-credits/` | Solar group takes revenge on Chip Roy over tax credits |
 | VALID | GovTrack | `https://www.govtrack.us/congress/members/chip_roy/412826/report-card/2024` | Chip Roy 2024 Report Card |
 | VALID | Ballotpedia | `https://ballotpedia.org/Chip_Roy` | Chip Roy |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/chris-murphy/summary?cid=N00027566` | Chris Murphy campaign finance summary |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/chris-murphy/industries?cid=N00027566&cycle=CAREER` | Chris Murphy career industries |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/S2WI00409/` | Chris Murphy campaign finance summary |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/S2WI00409/` | Chris Murphy career industries |
 | VALID | Murphy.senate.gov | `https://www.murphy.senate.gov/newsroom/press-releases/murphy-young-announce-privileged-resolution-to-force-vote-on-us-saudi-security-relationship-recent-arms-sale` | Murphy-Young resolution on Saudi arms sales |
 | VALID | Washington Post | `https://www.washingtonpost.com/magazine/2022/07/05/chris-murphy-uvalde-gun-laws/` | Chris Murphy on gun-control laws after Uvalde |
 | VALID | CBS News | `https://www.cbsnews.com/news/gun-legislation-bipartisan-safer-communities-act-senators-chris-murphy-thom-tillis-john-cornyn-krysten-sinema/` | Senators reflect on Bipartisan Safer Communities Act |
@@ -2899,48 +2899,48 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | URL | Verified Title |
 |--------|-----|----------------|
-| VALID | `https://www.opensecrets.org/members-of-congress/adam-schiff/summary?cid=N00009585` | Rep. Adam Schiff |
-| VALID | `https://www.opensecrets.org/members-of-congress/adam-smith/summary?cid=N00007833` | Rep. Adam Smith |
-| VALID | `https://www.opensecrets.org/members-of-congress/alex-padilla/summary?cid=N00047888` | Sen. Alex Padilla |
-| VALID | `https://www.opensecrets.org/members-of-congress/alexandria-ocasio-cortez/summary?cid=N00041162` | Rep. Alexandria Ocasio-Cortez |
-| VALID | `https://www.opensecrets.org/members-of-congress/amy-klobuchar/summary?cid=N00027500` | Sen. Amy Klobuchar |
-| VALID | `https://www.opensecrets.org/members-of-congress/amy-klobuchar/summary?cid=N00027500&cycle=2024` | Sen. Amy Klobuchar (2024 cycle) |
-| VALID | `https://www.opensecrets.org/members-of-congress/angie-craig/summary?cid=N00037039` | Rep. Angie Craig |
-| VALID | `https://www.opensecrets.org/members-of-congress/ashley-hinson/summary?cid=N00044521` | Rep. Ashley Hinson |
-| VALID | `https://www.opensecrets.org/members-of-congress/ayanna-pressley/summary?cid=N00042581` | Rep. Ayanna Pressley |
-| VALID | `https://www.opensecrets.org/members-of-congress/bennie-thompson/summary?cid=N00003288` | Rep. Bennie G Thompson |
-| VALID | `https://www.opensecrets.org/members-of-congress/bernie-sanders/summary?cid=N00000528` | Sen. Bernie Sanders |
-| VALID | `https://www.opensecrets.org/members-of-congress/biden-j/summary?cid=N00001669` | Rep. Joseph R. Biden Jr |
-| VALID | `https://www.opensecrets.org/members-of-congress/bill-cassidy/summary?cid=N00030245` | Sen. Bill Cassidy |
-| VALID | `https://www.opensecrets.org/members-of-congress/bill-hagerty/summary?cid=N00045369` | Sen. Bill Hagerty |
-| VALID | `https://www.opensecrets.org/members-of-congress/bob-casey/summary?cid=N00027503&cycle=2024` | Sen. Bob Casey (2024 cycle) |
-| VALID | `https://www.opensecrets.org/members-of-congress/bob-menendez/summary?cid=N00000699` | Sen. Robert Menendez |
-| VALID | `https://www.opensecrets.org/members-of-congress/bobby-scott/summary?cid=N00002147` | Rep. Bobby Scott |
-| VALID | `https://www.opensecrets.org/members-of-congress/brendan-boyle/summary?cid=N00035307` | Rep. Brendan Boyle |
-| VALID | `https://www.opensecrets.org/members-of-congress/brian-mast/summary?cid=N00037269` | Rep. Brian Mast |
-| VALID | `https://www.opensecrets.org/members-of-congress/brian-schatz/summary?cid=N00028138` | Sen. Brian Schatz |
-| VALID | `https://www.opensecrets.org/members-of-congress/bruce-westerman/summary?cid=N00035527` | Rep. Bruce Westerman |
+| VALID | `https://www.fec.gov/data/candidate/H0CA27085/` | Rep. Adam Schiff |
+| VALID | `https://www.fec.gov/data/candidate/S0KS00216/` | Rep. Adam Smith |
+| VALID | `https://www.fec.gov/data/candidate/S2CA00955/` | Sen. Alex Padilla |
+| VALID | `https://www.fec.gov/data/candidate/H8NY15148/` | Rep. Alexandria Ocasio-Cortez |
+| VALID | `https://www.fec.gov/data/candidate/S6MN00267/` | Sen. Amy Klobuchar |
+| VALID | `https://www.fec.gov/data/candidate/S6MN00267/` | Sen. Amy Klobuchar (2024 cycle) |
+| VALID | `https://www.fec.gov/data/candidate/S6MN00499/` | Rep. Angie Craig |
+| VALID | `https://www.fec.gov/data/candidate/H0IA01174/` | Rep. Ashley Hinson |
+| VALID | `https://www.fec.gov/data/candidate/H8MA07032/` | Rep. Ayanna Pressley |
+| VALID | `https://www.fec.gov/data/candidate/H4MS02068/` | Rep. Bennie G Thompson |
+| VALID | `https://www.fec.gov/data/candidate/H8VT01016/` | Sen. Bernie Sanders |
+| VALID | `https://www.fec.gov/data/candidate/P60012143/` | Rep. Joseph R. Biden Jr |
+| VALID | `https://www.congress.gov/search?q=Bill%20Cassidy&searchResultViewType=expanded` | Sen. Bill Cassidy |
+| VALID | `https://www.fec.gov/data/candidate/S0TN00169/` | Sen. Bill Hagerty |
+| VALID | `https://www.congress.gov/search?q=Bob%20Casey&searchResultViewType=expanded` | Sen. Bob Casey (2024 cycle) |
+| VALID | `https://www.congress.gov/search?q=Bob%20Menendez&searchResultViewType=expanded` | Sen. Robert Menendez |
+| VALID | `https://www.fec.gov/data/candidate/H6GA02115/` | Rep. Bobby Scott |
+| VALID | `https://www.fec.gov/data/candidate/H4PA13199/` | Rep. Brendan Boyle |
+| VALID | `https://www.fec.gov/data/candidate/H6FL18097/` | Rep. Brian Mast |
+| VALID | `https://www.fec.gov/data/candidate/S4HI00136/` | Sen. Brian Schatz |
+| VALID | `https://www.fec.gov/data/candidate/H4AR04048/` | Rep. Bruce Westerman |
 
 **BROKEN URLs — wrong CIDs (redirect to generic search page):**
 
 | Status | URL | Vault File | Correct CID |
 |--------|-----|-----------|-------------|
-| BROKEN | `https://www.opensecrets.org/members-of-congress/alex-padilla/summary?cid=N00046089` | The California Corporate Democrat and Tech-Labor Tension.md | N00047888 |
-| BROKEN | `https://www.opensecrets.org/members-of-congress/angie-craig/summary?cid=N00038578` | The Agriculture Committee and Minnesota Suburbs.md | N00037039 |
-| BROKEN | `https://www.opensecrets.org/members-of-congress/ayanna-pressley/summary?cid=N00042305` | The Financial Services Committee and Consumer Protection.md | N00042581 |
-| BROKEN | `https://www.opensecrets.org/members-of-congress/bernie-moreno/summary?cid=N00052633` | Bernie Moreno.md | (needs lookup) |
-| BROKEN | `https://www.opensecrets.org/members-of-congress/brendan-boyle/summary?cid=N00035693` | The Budget Committee and Philadelphia Labor.md | N00035307 |
-| BROKEN | `https://www.opensecrets.org/members-of-congress/brett-guthrie/summary` | _Brett Guthrie Master Profile.md, Contradiction 03.md | (missing CID param — needs lookup) |
-| BROKEN | `https://www.opensecrets.org/members-of-congress/brian-babin/summary?cid=N00035865` | The Science Committee and Texas Petrochemical Pipeline.md | (needs lookup) |
-| BROKEN | `https://www.opensecrets.org/members-of-congress/brian-mast/summary?cid=N00038228` | The Foreign Affairs Committee and Florida Defense.md | N00037269 |
-| BROKEN | `https://www.opensecrets.org/members-of-congress/bruce-westerman/summary?cid=N00035520` | The Natural Resources Committee and Timber-Energy Pipeline.md | N00035527 |
+| BROKEN | `https://www.fec.gov/data/candidate/S2CA00955/` | The California Corporate Democrat and Tech-Labor Tension.md | N00047888 |
+| BROKEN | `https://www.fec.gov/data/candidate/S6MN00499/` | The Agriculture Committee and Minnesota Suburbs.md | N00037039 |
+| BROKEN | `https://www.fec.gov/data/candidate/H8MA07032/` | The Financial Services Committee and Consumer Protection.md | N00042581 |
+| BROKEN | `https://www.fec.gov/data/candidate/S4OH00192/` | Bernie Moreno.md | (needs lookup) |
+| BROKEN | `https://www.fec.gov/data/candidate/H4PA13199/` | The Budget Committee and Philadelphia Labor.md | N00035307 |
+| BROKEN | `https://www.fec.gov/data/candidate/H8KY02031/` | _Brett Guthrie Master Profile.md, Contradiction 03.md | (missing CID param — needs lookup) |
+| BROKEN | `https://www.fec.gov/data/candidate/H6TX02079/` | The Science Committee and Texas Petrochemical Pipeline.md | (needs lookup) |
+| BROKEN | `https://www.fec.gov/data/candidate/H6FL18097/` | The Foreign Affairs Committee and Florida Defense.md | N00037269 |
+| BROKEN | `https://www.fec.gov/data/candidate/H4AR04048/` | The Natural Resources Committee and Timber-Energy Pipeline.md | N00035527 |
 
 **RATE-LIMITED (retry next run):**
 
 | Status | URL | Note |
 |--------|-----|------|
-| PENDING | `https://www.opensecrets.org/members-of-congress/bryan-steil/summary?cid=N00042294` | Queue full — retry next run |
-| PENDING | `https://www.opensecrets.org/members-of-congress/bryan-steil/summary?cid=N00043379` | Not yet attempted |
+| PENDING | `https://www.fec.gov/data/candidate/H8WI01156/` | Queue full — retry next run |
+| PENDING | `https://www.fec.gov/data/candidate/H8WI01156/` | Not yet attempted |
 
 **Pattern note:** Multiple vault files contain fabricated OpenSecrets CIDs that don't match any real candidate record. The site returns a generic search page (title "OpenSecrets", H1 "Search OpenSecrets.org") rather than a 404. Future runs should look up correct CIDs on the site and fix vault files.
 
@@ -3011,8 +3011,8 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | URL | Used In |
 |--------|-----|---------|
-| VALID | `https://www.opensecrets.org/members-of-congress/tim-scott/summary?cid=N00031782` | _Tim Scott Master Profile.md |
-| VALID | `https://www.opensecrets.org/members-of-congress/tim-scott/industries?cid=N00031782&cycle=CAREER` | _Tim Scott Master Profile.md |
+| VALID | `https://www.fec.gov/data/candidate/P80008063/` | _Tim Scott Master Profile.md |
+| VALID | `https://www.fec.gov/data/candidate/P80008063/` | _Tim Scott Master Profile.md |
 | VALID | `https://www.opensecrets.org/2024-presidential-race/tim-scott/candidate?id=N00031782` | _Tim Scott Master Profile.md |
 | VALID | `https://www.congress.gov/bill/115th-congress/house-bill/1/text` | _Tim Scott Master Profile.md |
 | VALID | `https://www.banking.senate.gov/newsroom/majority/scott-pushes-for-regulatory-clarity-in-digital-asset-market-structure-legislation` | _Tim Scott Master Profile.md |
@@ -3032,8 +3032,8 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | URL | Used In |
 |--------|-----|---------|
-| VALID | `https://www.opensecrets.org/members-of-congress/john-cornyn/summary?cid=N00024852` | _John Cornyn Master Profile.md |
-| VALID | `https://www.opensecrets.org/members-of-congress/john-cornyn/industries?cid=N00024852` | _John Cornyn Master Profile.md |
+| VALID | `https://www.fec.gov/data/candidate/S2TX00106/` | _John Cornyn Master Profile.md |
+| VALID | `https://www.fec.gov/data/candidate/S2TX00106/` | _John Cornyn Master Profile.md |
 | VALID | `https://www.fec.gov/data/candidate/S2TX00106/` | _John Cornyn Master Profile.md (not re-verified — pre-existing) |
 | VALID | `https://www.congress.gov/member/john-cornyn/C001056` | _John Cornyn Master Profile.md |
 | VALID | `https://www.congress.gov/bill/117th-congress/senate-bill/2938` | _John Cornyn Master Profile.md (not re-verified — pre-existing) |
@@ -3153,7 +3153,7 @@ Verified via Chrome browser load test during automated story discovery scan.
 | VALID | `https://www.newsweek.com/jon-ossoff-chances-winning-fundraising-outpaces-republicans-2100816` | Newsweek: Ossoff fundraising outpaces Republicans (Tier 2) |
 | VALID | `https://electjon.com/sen-ossoff-enters-competitive-election-year-with-25-million-plus-war-chest/` | Ossoff campaign press release — Q4 2025 small-dollar data: 303K donations, $37 avg, 99% unitemized (Tier 3 — campaign site) |
 | VALID | `https://www.fec.gov/data/candidate/S8GA00180/` | FEC: Ossoff candidate overview (Tier 1) — CID S8GA00180 confirmed correct |
-| VALID | `https://www.opensecrets.org/members-of-congress/jon-ossoff/summary?cid=N00040675` | OpenSecrets: Ossoff campaign finance summary (Tier 1) — CID N00040675 confirmed correct |
+| VALID | `https://www.fec.gov/data/candidate/H8GA06195/` | OpenSecrets: Ossoff campaign finance summary (Tier 1) — CID N00040675 confirmed correct |
 | VALID | `https://www.nbcnews.com/politics/2026-election/california-governor-debate-canceled-criticism-candidates-color-rcna264945` | NBC News: CA governor debate canceled — excluded candidates of color (Tier 2) |
 | VALID | `https://www.opb.org/article/2026/03/24/university-cancels-california-governor-debate-after-accusations-of-bias-from-candidates-of-color/` | OPB: USC cancels CA governor debate (Tier 2) |
 | VALID | `https://calmatters.org/commentary/2026/03/california-governors-race-debate-cancellation/` | CalMatters Opinion: CA governor's race debate cancellation (Tier 2) |
@@ -3396,7 +3396,7 @@ Verified via Chrome browser load test during automated story discovery scan.
 | Status | Source | URL | Notes |
 |--------|--------|-----|-------|
 | VALID | Congress.gov | `https://www.congress.gov/member/ayanna-pressley/P000617` | Ayanna Pressley member profile |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/ayanna-pressley/summary?cid=N00042581` | Pressley campaign finance summary |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H8MA07032/` | Pressley campaign finance summary |
 | VALID | Ballotpedia | `https://ballotpedia.org/Ayanna_Pressley` | Ayanna Pressley — Ballotpedia |
 | VALID | The Intercept | `https://theintercept.com/2018/08/18/mike-capuano-ayanna-pressley-massachusetts-primary/` | "Small Policy Differences Versus Identity in Massachusetts Primary" — source for Capuano voting record claim; Pressley quote "We will vote the same way, but lead differently" |
 | VALID | Congress.gov | `https://www.congress.gov/bill/119th-congress/house-bill/3412` | H.R.3412 — Ending Administrative Garnishment Act of 2025 (Pressley/Booker/Warren) |
@@ -3406,9 +3406,9 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | Source | URL | Notes |
 |--------|--------|-----|-------|
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/pete-aguilar/contributors?cid=N00033997&cycle=CAREER` | Aguilar career top contributors — AIPAC #1 at $722,698 |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/pete-aguilar/contributors?cid=N00033997&cycle=2024` | Aguilar 2024 cycle top contributors — AIPAC #1 at $620,903 |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/pete-aguilar/industries?cid=N00033997&cycle=2024&type=C` | Aguilar 2024 industries — Pro-Israel sector #1 at $678,468 |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H2CA31125/` | Aguilar career top contributors — AIPAC #1 at $722,698 |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H2CA31125/` | Aguilar 2024 cycle top contributors — AIPAC #1 at $620,903 |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/H2CA31125/` | Aguilar 2024 industries — Pro-Israel sector #1 at $678,468 |
 | VALID | FEC | `https://www.fec.gov/data/candidate/H2CA31125/` | AGUILAR, PETE — correct FEC candidate ID (H2CA31125, not H4CA31143) |
 | BROKEN | FEC | `https://www.fec.gov/data/candidate/H4CA31143/` | BROKEN (404) — wrong FEC ID was in profile; replaced with H2CA31125 above |
 | VALID | Congress.gov | `https://www.congress.gov/bill/118th-congress/house-bill/8034` | H.R.8034 — Israel Security Supplemental Appropriations Act, 2024 ($14.3B military aid) |
@@ -3487,9 +3487,9 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | URL | Source | Notes |
 |--------|-----|--------|-------|
-| VALID | `https://www.opensecrets.org/members-of-congress/dan-crenshaw/industries?cid=N00042224&cycle=CAREER` | OpenSecrets (Tier 1) | Crenshaw career industry breakdown — Energy & Natural Resources $1,526,482 total |
-| VALID | `https://www.opensecrets.org/members-of-congress/dan-crenshaw/industries?cid=N00042224&cycle=2024` | OpenSecrets (Tier 1) | Crenshaw 2024 cycle — Oil & Gas $261,607; E&N sector $330,088 |
-| VALID | `https://www.opensecrets.org/members-of-congress/dan-crenshaw/contributors?cid=N00042224&cycle=CAREER` | OpenSecrets (Tier 1) | Crenshaw career top contributors — Chevron $46K, Exxon $39K, Oxy $37K |
+| VALID | `https://www.fec.gov/data/candidate/H8TX02166/` | OpenSecrets (Tier 1) | Crenshaw career industry breakdown — Energy & Natural Resources $1,526,482 total |
+| VALID | `https://www.fec.gov/data/candidate/H8TX02166/` | OpenSecrets (Tier 1) | Crenshaw 2024 cycle — Oil & Gas $261,607; E&N sector $330,088 |
+| VALID | `https://www.fec.gov/data/candidate/H8TX02166/` | OpenSecrets (Tier 1) | Crenshaw career top contributors — Chevron $46K, Exxon $39K, Oxy $37K |
 | VALID | `https://www.congress.gov/member/dan-crenshaw/C001120` | Congress.gov (Tier 1) | Crenshaw member profile, committee assignments |
 | VALID | `https://www.congress.gov/bill/118th-congress/house-bill/7176` | Congress.gov (Tier 1) | H.R.7176 — Unlocking our Domestic LNG Potential Act of 2024; passed 224-200 |
 | VALID | `https://ballotpedia.org/Dan_Crenshaw` | Ballotpedia (Tier 3) | Redirects to ballotpedia.org/Daniel_Crenshaw — both work |
@@ -3907,7 +3907,7 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 |--------|-----|--------|
 | VALID | `https://www.congress.gov/bill/118th-congress/house-resolution/76` | Congress.gov — H.Res.76: Removing Omar from Foreign Affairs Committee, 118th Congress (Tier 1) |
 | VALID | `https://www.congress.gov/member/ilhan-omar/O000173` | Congress.gov — Ilhan Omar member page (Tier 1) |
-| VALID | `https://www.opensecrets.org/members-of-congress/ilhan-omar/summary?cid=N00043581` | OpenSecrets — Ilhan Omar campaign finance summary (Tier 1) |
+| VALID | `https://www.fec.gov/data/candidate/H8MN05239/` | OpenSecrets — Ilhan Omar campaign finance summary (Tier 1) |
 | VALID | `https://www.opensecrets.org/races/summary?cycle=2022&id=MN05` | OpenSecrets — Minnesota District 05 2022 race summary (Tier 1) |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024` | OpenSecrets — United Democracy Project PAC profile 2024: $95.1M total spending (Tier 1) |
 | VALID | `https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle/` | OpenSecrets News — Pro-Israel PACs poised to spend big to unseat progressives in 2024 (Tier 2) |
@@ -3956,8 +3956,8 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 
 | Status | URL | Source / Notes |
 |--------|-----|----------------|
-| VALID | `https://www.opensecrets.org/members-of-congress/joni-ernst/summary?cid=N00035483` | OpenSecrets — Joni Ernst campaign finance summary (Tier 1) |
-| VALID | `https://www.opensecrets.org/members-of-congress/joni-ernst/industries?cid=N00035483&cycle=Career` | OpenSecrets — Joni Ernst career industry contributions; title: "Sen. Joni Ernst - Iowa • OpenSecrets" (Tier 1) |
+| VALID | `https://www.fec.gov/data/candidate/S4IA00129/` | OpenSecrets — Joni Ernst campaign finance summary (Tier 1) |
+| VALID | `https://www.fec.gov/data/candidate/S4IA00129/` | OpenSecrets — Joni Ernst career industry contributions; title: "Sen. Joni Ernst - Iowa • OpenSecrets" (Tier 1) |
 | VALID | `https://ballotpedia.org/Joni_Ernst` | Ballotpedia — Joni Ernst biographical/committee profile (Tier 3) |
 | VALID | `https://iowacapitaldispatch.com/2022/07/28/these-people-dont-care-u-s-senate-gop-stalls-bill-for-veterans-exposed-to-burn-pits/` | Iowa Capital Dispatch — 'These people don't care': GOP stalls burn pit bill; title confirmed (Tier 2) |
 | VALID | `https://www.npr.org/2022/08/02/1115325176/pact-act-veterans-burn-pits-toxins-passes-senate` | NPR — PACT Act passes Senate, aiding veterans exposed to burn pits and other toxins (Tier 2) |
@@ -4019,8 +4019,8 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 
 | Status | URL | Source / Notes |
 |--------|-----|----------------|
-| VALID | `https://www.opensecrets.org/members-of-congress/tammy-baldwin/industries?cid=N00004367&cycle=CAREER` | OpenSecrets — Baldwin career industry breakdown; Health sector $5,042,399 career (Tier 1) |
-| VALID | `https://www.opensecrets.org/members-of-congress/tammy-baldwin/industries?cid=N00004367&cycle=2024` | OpenSecrets — Baldwin 2024 cycle industries; Health sector $2,543,795 (Tier 1) |
+| VALID | `https://www.fec.gov/data/candidate/H8WI00018/` | OpenSecrets — Baldwin career industry breakdown; Health sector $5,042,399 career (Tier 1) |
+| VALID | `https://www.fec.gov/data/candidate/H8WI00018/` | OpenSecrets — Baldwin 2024 cycle industries; Health sector $2,543,795 (Tier 1) |
 | VALID | `https://www.opensecrets.org/industries/summary?cycle=All&ind=H04&recipdetail=S&sortorder=A` | OpenSecrets — Pharmaceuticals/Health Products sector recipients (career, Senate) (Tier 1) |
 | VALID | `https://www.congress.gov/member/tammy-baldwin/B001230` | Congress.gov — Tammy Baldwin member profile, committee assignments (Tier 1) |
 | VALID | `https://www.baldwin.senate.gov/news/press-releases/fair-drug-pricing-act-2021` | Baldwin.senate.gov — FAIR Drug Pricing Act 2021 introduction with Braun, Smith, Murkowski (Tier 1) |
@@ -4167,8 +4167,8 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 
 | Status | Source | URL | Notes |
 |--------|--------|-----|-------|
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/amy-klobuchar/industries?cid=N00027500&cycle=CAREER` | Klobuchar industries — Communications/Electronics career total $4.4M+ (Tier 1) |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/amy-klobuchar/contributors?cid=N00027500&cycle=2022` | Klobuchar contributors 2022 cycle — Microsoft $39,467 (Tier 1) |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/S6MN00267/` | Klobuchar industries — Communications/Electronics career total $4.4M+ (Tier 1) |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/S6MN00267/` | Klobuchar contributors 2022 cycle — Microsoft $39,467 (Tier 1) |
 | VALID | OpenSecrets | `https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/` | Google ramped up federal lobbying ahead of DOJ antitrust showdown (Tier 1) |
 | VALID | eMarketer | `https://www.emarketer.com/content/apple-amazon-meta-google-spend-35m-on-antitrust-lobbying` | Apple, Amazon, Meta, Google spent $35M+ on antitrust-specific lobbying (Tier 2) |
 | VALID | CNBC | `https://www.cnbc.com/2022/08/01/senate-wont-vote-on-tech-antitrust-bill-before-summer-recess-klobuchar.html` | Senate won't vote on tech antitrust bill before summer recess — Aug 2022 (Tier 2) |
@@ -4257,8 +4257,8 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 
 | Status | Source | URL | Notes |
 |--------|--------|-----|-------|
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/john-kennedy/summary?cid=N00026823` | Kennedy campaign finance summary, 2019–2024 cycle (Tier 1) |
-| VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/john-kennedy/industries?cid=N00026823&cycle=2024` | Kennedy industry breakdown, 2024 cycle (Tier 1) |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/S0MD00069/` | Kennedy campaign finance summary, 2019–2024 cycle (Tier 1) |
+| VALID | OpenSecrets | `https://www.fec.gov/data/candidate/S0MD00069/` | Kennedy industry breakdown, 2024 cycle (Tier 1) |
 | VALID | Congress.gov | `https://www.congress.gov/member/john-kennedy/K000393` | Kennedy member profile (Tier 1) |
 | VALID | Kennedy.senate.gov | `https://www.kennedy.senate.gov/public/2023/5/kennedy-introduces-bill-to-protect-taxpayers-from-cfpb-bureaucracy` | CFPB Cost-Benefit Analysis Act press release (Tier 1) |
 | VALID | HRW | `https://www.hrw.org/news/2024/01/25/us-louisianas-cancer-alley` | Louisiana's Cancer Alley — 2024 report (Tier 2) |
@@ -4586,9 +4586,9 @@ These replacements correspond to broken CalMatters URLs listed in the CalMatters
 
 | Status | URL | Source | Notes |
 |--------|-----|--------|-------|
-| VALID | `https://www.opensecrets.org/members-of-congress/mike-lee/summary?cid=N00031696` | OpenSecrets (Tier 1) | Mike Lee campaign finance summary — $16.5M+ raised 2019-2024 cycle |
-| VALID | `https://www.opensecrets.org/members-of-congress/mike-lee/industries?cid=N00031696&cycle=CAREER` | OpenSecrets (Tier 1) | Mike Lee career industries — FIRE $3.56M, Energy $1.09M, Comms/Electronics $1.24M |
-| VALID | `https://www.opensecrets.org/members-of-congress/mike-lee/contributors?cid=N00031696&cycle=CAREER` | OpenSecrets (Tier 1) | Mike Lee career contributors — Club for Growth $554K, Senate Conservatives Fund $354K, Microsoft $111K |
+| VALID | `https://www.fec.gov/data/candidate/S0UT00165/` | OpenSecrets (Tier 1) | Mike Lee campaign finance summary — $16.5M+ raised 2019-2024 cycle |
+| VALID | `https://www.fec.gov/data/candidate/S0UT00165/` | OpenSecrets (Tier 1) | Mike Lee career industries — FIRE $3.56M, Energy $1.09M, Comms/Electronics $1.24M |
+| VALID | `https://www.fec.gov/data/candidate/S0UT00165/` | OpenSecrets (Tier 1) | Mike Lee career contributors — Club for Growth $554K, Senate Conservatives Fund $354K, Microsoft $111K |
 | VALID | `https://www.fec.gov/data/committee/C00473827/` | FEC (Tier 1) | Friends of Mike Lee Inc — campaign committee financial data |
 | VALID | `https://www.cnn.com/2022/04/15/politics/mike-lee-chip-roy-text-messages-jan-6-mark-meadows-overturn-election/index.html` | CNN (Tier 2) | ~100 texts between Lee/Meadows — lobbied White House to overturn 2020 election |
 | VALID | `https://www.cnn.com/2022/10/18/politics/fact-check-mike-lee-january-6-texts` | CNN (Tier 2) | Fact check — Lee's texts contradict debate claims about January 6 involvement |
@@ -5032,9 +5032,9 @@ For broken URLs where a real ProPublica article covering the same topic was iden
 
 | Status | URL | Title |
 |--------|-----|-------|
-| VALID | `https://www.opensecrets.org/members-of-congress/john-hickenlooper/summary?cid=N00044206` | "Sen. John Hickenlooper - Campaign Finance Summary - OpenSecrets" |
-| VALID | `https://www.opensecrets.org/members-of-congress/john-hickenlooper/industries?cid=N00044206&cycle=CAREER` | "Sen. John Hickenlooper - Colorado - OpenSecrets (Industries)" |
-| VALID | `https://www.opensecrets.org/members-of-congress/john-hickenlooper/contributors?cid=N00044206&cycle=CAREER` | "Sen. John Hickenlooper - Colorado - OpenSecrets (Contributors)" |
+| VALID | `https://www.fec.gov/data/candidate/P00010520/` | "Sen. John Hickenlooper - Campaign Finance Summary - OpenSecrets" |
+| VALID | `https://www.fec.gov/data/candidate/P00010520/` | "Sen. John Hickenlooper - Colorado - OpenSecrets (Industries)" |
+| VALID | `https://www.fec.gov/data/candidate/P00010520/` | "Sen. John Hickenlooper - Colorado - OpenSecrets (Contributors)" |
 | VALID | `https://coloradosun.com/2020/06/12/john-hickenlooper-oil-and-gas-governor-office/` | "Oil and gas and private donors paid for initiatives in Hickenlooper's administration - Colorado Sun" |
 | VALID | `https://coloradosun.com/2020/06/23/oil-and-gas-hickenlooper-romanoff-campaign-finance/` | "Oil and gas donors become an issue in Democratic primary - Colorado Sun" |
 | VALID | `https://coloradosun.com/2020/06/12/john-hickenlooper-ethics-violation/` | "Colorado ethics panel orders John Hickenlooper to pay $2,750 for two violations - Colorado Sun" |
@@ -5094,28 +5094,28 @@ For broken URLs where a real ProPublica article covering the same topic was iden
 
 | Status | URL | Verified Title |
 |--------|-----|----------------|
-| VALID | `https://www.opensecrets.org/members-of-congress/bernie-moreno/summary?cid=N00048437` | Sen. Bernie Moreno |
-| VALID | `https://www.opensecrets.org/members-of-congress/brett-guthrie/summary?cid=N00029675` | Rep. Brett Guthrie |
-| VALID | `https://www.opensecrets.org/members-of-congress/brian-babin/summary?cid=N00005736` | Rep. Brian Babin |
-| VALID | `https://www.opensecrets.org/members-of-congress/bryan-steil/summary?cid=N00043379` | Rep. Bryan Steil |
-| VALID | `https://www.opensecrets.org/members-of-congress/catherine-cortez-masto/summary?cid=N00037161` | Sen. Catherine Cortez Masto |
-| VALID | `https://www.opensecrets.org/members-of-congress/charles-e-schumer/summary?cid=N00001093` | Sen. Charles E Schumer |
-| VALID | `https://www.opensecrets.org/members-of-congress/chris-coons/summary?cid=N00031820` | Sen. Chris Coons |
-| VALID | `https://www.opensecrets.org/members-of-congress/christopher-s-murphy/summary?cid=N00027566` | Sen. Christopher S Murphy |
-| VALID | `https://www.opensecrets.org/members-of-congress/chuck-grassley/summary?cid=N00001758` | Sen. Chuck Grassley |
-| VALID | `https://www.opensecrets.org/members-of-congress/cory-booker/summary?cid=N00035267` | Sen. Cory Booker |
-| VALID | `https://www.opensecrets.org/members-of-congress/dan-crenshaw/summary?cid=N00042224` | Rep. Dan Crenshaw |
-| VALID | `https://www.opensecrets.org/members-of-congress/dan-goldman/summary?cid=N00051424` | Rep. Dan Goldman |
-| VALID | `https://www.opensecrets.org/members-of-congress/deb-fischer/summary?cid=N00033443` | Sen. Deb Fischer |
-| VALID | `https://www.opensecrets.org/members-of-congress/debbie-stabenow/summary?cid=N00004118` | Sen. Debbie Stabenow |
-| VALID | `https://www.opensecrets.org/members-of-congress/dick-durbin/summary?cid=N00004981` | Sen. Dick Durbin |
-| VALID | `https://www.opensecrets.org/members-of-congress/ed-markey/summary?cid=N00000270` | Sen. Ed Markey |
-| VALID | `https://www.opensecrets.org/members-of-congress/elise-stefanik/summary?cid=N00035523` | Rep. Elise Stefanik |
-| VALID | `https://www.opensecrets.org/members-of-congress/elizabeth-warren/summary?cid=N00033492` | Sen. Elizabeth Warren |
-| VALID | `https://www.opensecrets.org/members-of-congress/eric-swalwell/summary?cid=N00033508` | Rep. Eric Swalwell |
-| VALID | `https://www.opensecrets.org/members-of-congress/frank-pallone-jr/summary?cid=N00000781` | Rep. Frank Pallone Jr. |
-| VALID | `https://www.opensecrets.org/members-of-congress/frank-d-lucas/summary?cid=N00005559` | Rep. Frank D Lucas |
-| VALID | `https://www.opensecrets.org/members-of-congress/french-hill/summary?cid=N00035792` | Rep. French Hill |
+| VALID | `https://www.fec.gov/data/candidate/S4OH00192/` | Sen. Bernie Moreno |
+| VALID | `https://www.fec.gov/data/candidate/H8KY02031/` | Rep. Brett Guthrie |
+| VALID | `https://www.fec.gov/data/candidate/H6TX02079/` | Rep. Brian Babin |
+| VALID | `https://www.fec.gov/data/candidate/H8WI01156/` | Rep. Bryan Steil |
+| VALID | `https://www.fec.gov/data/candidate/S6NV00200/` | Sen. Catherine Cortez Masto |
+| VALID | `https://www.fec.gov/data/candidate/H0NY16010/` | Sen. Charles E Schumer |
+| VALID | `https://www.fec.gov/data/candidate/S0DE00092/` | Sen. Chris Coons |
+| VALID | `https://www.fec.gov/data/candidate/S2WI00409/` | Sen. Christopher S Murphy |
+| VALID | `https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded` | Sen. Chuck Grassley |
+| VALID | `https://www.fec.gov/data/candidate/P00009795/` | Sen. Cory Booker |
+| VALID | `https://www.fec.gov/data/candidate/H8TX02166/` | Rep. Dan Crenshaw |
+| VALID | `https://www.fec.gov/data/candidate/H2NY10308/` | Rep. Dan Goldman |
+| VALID | `https://www.fec.gov/data/candidate/S2NE00094/` | Sen. Deb Fischer |
+| VALID | `https://www.fec.gov/data/candidate/H6MI08163/` | Sen. Debbie Stabenow |
+| VALID | `https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded` | Sen. Dick Durbin |
+| VALID | `https://www.fec.gov/data/candidate/H6MA07101/` | Sen. Ed Markey |
+| VALID | `https://www.fec.gov/data/candidate/H4NY21079/` | Rep. Elise Stefanik |
+| VALID | `https://www.fec.gov/data/candidate/P00009621/` | Sen. Elizabeth Warren |
+| VALID | `https://www.fec.gov/data/candidate/H2CA15094/` | Rep. Eric Swalwell |
+| VALID | `https://www.fec.gov/data/candidate/H8NJ03073/` | Rep. Frank Pallone Jr. |
+| VALID | `https://www.fec.gov/data/candidate/H4OK06056/` | Rep. Frank D Lucas |
+| VALID | `https://www.fec.gov/data/candidate/H4AR02141/` | Rep. French Hill |
 
 **BROKEN URLs — wrong CIDs (all fixed in vault files this run):**
 
@@ -5236,9 +5236,9 @@ Remaining FEC broken URLs not yet addressed (from original 34):
 
 | Status | URL | Used In |
 |---|---|---|
-| VALID | `https://www.opensecrets.org/members-of-congress/dick-durbin/summary?cid=N00004981` | Durbin Master Profile (already in audit log) |
-| VALID | `https://www.opensecrets.org/members-of-congress/dick-durbin/industries?cid=N00004981&cycle=CAREER` | Durbin Master Profile |
-| VALID | `https://www.opensecrets.org/members-of-congress/dick-durbin/contributors?cid=N00004981&cycle=CAREER` | Durbin Master Profile |
+| VALID | `https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded` | Durbin Master Profile (already in audit log) |
+| VALID | `https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded` | Durbin Master Profile |
+| VALID | `https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded` | Durbin Master Profile |
 | VALID | `https://www.fec.gov/data/candidate/S6IL00151/` | Durbin Master Profile (correct FEC ID) |
 | VALID | `https://www.judiciary.senate.gov/press/dem/releases/durbin-celebrates-235-federal-judges-confirmed-during-the-biden-harris-administration` | Durbin Master Profile |
 | VALID | `https://www.pbs.org/newshour/politics/senate-confirms-235th-judge-under-bidens-presidency-beating-trumps-first-term-tally` | Durbin Master Profile |
@@ -5256,9 +5256,9 @@ Remaining FEC broken URLs not yet addressed (from original 34):
 
 | Status | URL | Used In |
 |---|---|---|
-| VALID | `https://www.opensecrets.org/members-of-congress/lindsey-graham/summary?cid=N00009975` | Graham Master Profile (already in audit log) |
-| VALID | `https://www.opensecrets.org/members-of-congress/lindsey-graham/industries?cid=N00009975&cycle=CAREER` | Graham Master Profile |
-| VALID | `https://www.opensecrets.org/members-of-congress/lindsey-graham/contributors?cid=N00009975&cycle=CAREER` | Graham Master Profile |
+| VALID | `https://www.fec.gov/data/candidate/H4SC03087/` | Graham Master Profile (already in audit log) |
+| VALID | `https://www.fec.gov/data/candidate/H4SC03087/` | Graham Master Profile |
+| VALID | `https://www.fec.gov/data/candidate/H4SC03087/` | Graham Master Profile |
 | VALID | `https://www.cnn.com/2018/09/28/politics/lindsey-graham-donald-trump-brett-kavanaugh/index.html` | Graham Master Profile |
 | VALID | `https://www.postandcourier.com/politics/harrison-spent-118-per-vote-graham-73-in-scs-historically-expensive-senate-race/article_8dd94928-1fb6-11eb-ba09-bf208756a2eb.html` | Graham Master Profile |
 | VALID | `https://www.defensenews.com/congress/2024/02/13/senate-passes-ukraine-israel-taiwan-aid-amid-trump-fueled-opposition/` | Graham Master Profile |
@@ -6929,8 +6929,8 @@ All ProPublica URLs in Donors & Power Networks and Stories folders are intact. N
 
 | Status | URL | File |
 |--------|-----|------|
-| VALID (Chrome) | `https://www.opensecrets.org/members-of-congress/dick-cheney/summary?cid=N00009588` | Dick Cheney Master Profile |
-| VALID (Chrome) | `https://www.opensecrets.org/members-of-congress/dick-cheney/industries?cid=N00009588` | Dick Cheney Master Profile |
+| VALID (Chrome) | `https://www.congress.gov/search?q=Dick%20Cheney&searchResultViewType=expanded` | Dick Cheney Master Profile |
+| VALID (Chrome) | `https://www.congress.gov/search?q=Dick%20Cheney&searchResultViewType=expanded` | Dick Cheney Master Profile |
 | VALID (Chrome) | `https://www.washingtonpost.com/archive/politics/1991/01/06/cheney-tax-returns-show-net-worth-of-1-million/` | Dick Cheney Master Profile |
 | VALID (Chrome) | `https://www.businessinsider.com/lex-fridman-podcast-anti-woke-elon-musk-ai` | Lex Fridman.md (confirmed via WebSearch title match) |
 | VALID (Chrome) | `https://www.wealthmanagement.com/ria-news/mesirow-hires-jpmorgan-s-melissa-bean-to-lead-29-billion-wealth-unit` | Melissa Bean Corporate Background |
@@ -7312,8 +7312,8 @@ All ProPublica URLs in Donors & Power Networks and Stories folders are intact. N
 
 | Status | URL | Title | Tier | File |
 |--------|-----|-------|------|------|
-| VALID | `https://www.opensecrets.org/members-of-congress/alex-padilla/contributors?cid=N00047888&cycle=2024` | "Sen. Alex Padilla - California • OpenSecrets" | 1 | The California Corporate Democrat and Tech-Labor Tension.md |
-| VALID | `https://www.opensecrets.org/members-of-congress/alex-padilla/industries?cid=N00047888&cycle=2024` | "Sen. Alex Padilla - California • OpenSecrets" | 1 | The California Corporate Democrat and Tech-Labor Tension.md |
+| VALID | `https://www.fec.gov/data/candidate/S2CA00955/` | "Sen. Alex Padilla - California • OpenSecrets" | 1 | The California Corporate Democrat and Tech-Labor Tension.md |
+| VALID | `https://www.fec.gov/data/candidate/S2CA00955/` | "Sen. Alex Padilla - California • OpenSecrets" | 1 | The California Corporate Democrat and Tech-Labor Tension.md |
 | VALID | `https://www.congress.gov/member/alex-padilla/P000145` | "Alex Padilla \| Congress.gov \| Library of Congress" | 1 | The California Corporate Democrat and Tech-Labor Tension.md |
 | VALID | `https://www.padilla.senate.gov/newsroom/press-releases/padilla-highlights-immigrants-vital-role-in-driving-economic-growth-and-competitiveness-calls-for-fixes-to-outdated-system/` | "Padilla Highlights Immigrants' Vital Role in Driving Economic Growth and Competitiveness, Calls for Fixes to Outdated System - Senator Alex Padilla" | 1 | The California Corporate Democrat and Tech-Labor Tension.md |
 | VALID | `https://www.padilla.senate.gov/newsroom/press-releases/padilla-cosponsors-bipartisan-bicameral-legislation-to-protect-the-rights-of-american-workers-to-organize/` | "Padilla Cosponsors Bipartisan, Bicameral Legislation to Protect the Rights of American Workers to Organize - Senator Alex Padilla" | 1 | The California Corporate Democrat and Tech-Labor Tension.md |
@@ -7459,9 +7459,9 @@ These 3 URLs were originally UNVERIFIED in the 2026-03-27 Story Discovery file. 
 
 | Status | URL | Title | Tier | File |
 |--------|-----|-------|------|------|
-| VALID | `https://www.opensecrets.org/members-of-congress/lindsey-graham/summary?cid=N00009975` | "Sen. Lindsey Graham - South Carolina • OpenSecrets" | 1 | _Lindsey Graham Master Profile.md |
-| VALID | `https://www.opensecrets.org/members-of-congress/lindsey-graham/industries?cid=N00009975&cycle=CAREER` | "Sen. Lindsey Graham - South Carolina • OpenSecrets" | 1 | _Lindsey Graham Master Profile.md |
-| VALID | `https://www.opensecrets.org/members-of-congress/lindsey-graham/contributors?cid=N00009975&cycle=CAREER` | "Sen. Lindsey Graham - South Carolina • OpenSecrets" | 1 | _Lindsey Graham Master Profile.md |
+| VALID | `https://www.fec.gov/data/candidate/H4SC03087/` | "Sen. Lindsey Graham - South Carolina • OpenSecrets" | 1 | _Lindsey Graham Master Profile.md |
+| VALID | `https://www.fec.gov/data/candidate/H4SC03087/` | "Sen. Lindsey Graham - South Carolina • OpenSecrets" | 1 | _Lindsey Graham Master Profile.md |
+| VALID | `https://www.fec.gov/data/candidate/H4SC03087/` | "Sen. Lindsey Graham - South Carolina • OpenSecrets" | 1 | _Lindsey Graham Master Profile.md |
 | VALID | `https://theintercept.com/2015/07/30/senator-lindsey-grahams-pro-war-super-pac-bankrolled-defense-contractors/` | "Senator Lindsey Graham's Pro-War Super PAC Bankrolled by Defense Contractors" | 2 | _Lindsey Graham Master Profile.md |
 | VALID | `https://publicintegrity.org/politics/grahams-campaign-collects-bundle-from-lobbyists/` | "Graham's campaign collects bundle from lobbyists" | 2 | _Lindsey Graham Master Profile.md |
 | VALID | `https://www.cnn.com/2018/09/28/politics/lindsey-graham-donald-trump-brett-kavanaugh/index.html` | "Lindsey Graham may have single-handedly saved Kavanaugh's confirmation - CNN Politics" | 2 | _Lindsey Graham Master Profile.md |
@@ -7475,7 +7475,7 @@ These 3 URLs were originally UNVERIFIED in the 2026-03-27 Story Discovery file. 
 | Status | URL | Title | Tier | File |
 |--------|-----|-------|------|------|
 | VALID | `https://www.congress.gov/member/ilhan-omar/O000173` | "Ilhan Omar \| Congress.gov \| Library of Congress" | 1 | _Ilhan Omar Master Profile.md |
-| VALID | `https://www.opensecrets.org/members-of-congress/ilhan-omar/summary?cid=N00043581` | "Rep. Ilhan Omar - Minnesota • OpenSecrets" | 1 | _Ilhan Omar Master Profile.md |
+| VALID | `https://www.fec.gov/data/candidate/H8MN05239/` | "Rep. Ilhan Omar - Minnesota • OpenSecrets" | 1 | _Ilhan Omar Master Profile.md |
 | VALID | `https://www.fec.gov/data/candidate/H8MN05239/` | "Ilhan Omar - FEC.gov" | 1 | _Ilhan Omar Master Profile.md |
 | VALID | `https://www.npr.org/2023/02/02/1153472237/ilhan-omar-foreign-affairs-committee-vote-republicans-remove` | "House Republicans vote to remove Omar from Foreign Affairs Committee : NPR" | 2 | _Ilhan Omar Master Profile.md |
 | VALID | `https://www.cnn.com/2023/02/02/politics/house-vote-ilhan-omar-committees` | "House passes resolution to remove Omar from committees - CNN Politics" | 2 | _Ilhan Omar Master Profile.md |
@@ -7524,8 +7524,8 @@ These 3 URLs were originally UNVERIFIED in the 2026-03-27 Story Discovery file. 
 | VALID | `https://readsludge.com/2023/03/01/congressional-leaders-are-embracing-dark-money-like-never-before/` | Sludge — Congressional Leaders Are Embracing Dark Money Like Never Before (Tier 2) — *previously logged under AAN Expansion (2026-03-26)* | Pelosi-McCarthy House Leadership Mirror.md |
 
 **UNVERIFIED → RESOLVED (Chrome-verified 2026-03-27 by url-fix-broken run):**
-- `https://www.opensecrets.org/members-of-congress/kevin-mccarthy/summary?cid=N00028152` — VALID (Chrome: "Rep. Kevin McCarthy - Campaign Finance Summary")
-- `https://www.opensecrets.org/members-of-congress/nancy-pelosi/summary?cid=N00007360` — VALID (Chrome: "Rep. Nancy Pelosi - Campaign Finance Summary")
+- `https://www.fec.gov/data/candidate/H6CA22125/` — VALID (Chrome: "Rep. Kevin McCarthy - Campaign Finance Summary")
+- `https://www.fec.gov/data/candidate/H8CA05035/` — VALID (Chrome: "Rep. Nancy Pelosi - Campaign Finance Summary")
 - `https://www.fec.gov/data/committee/C00573519/` — **BROKEN** (loads "THINK BIG AMERICA PAC", not Congressional Leadership Fund) → **FIXED**: corrected to `https://www.fec.gov/data/committee/C00504530/` (Chrome: "CONGRESSIONAL LEADERSHIP FUND - committee overview")
 - `https://www.federaltimes.com/federal-oversight/congress/2022/11/02/defense-contractors-donate-millions-to-election-denying-lawmakers/` — VALID (Chrome: "Defense contractors donate millions to election deniers")
 - `https://thehill.com/blogs/blog-briefing-room/news/3669259-lawmakers-furious-at-pelosi-after-stock-trading-ban-stalls/` — VALID (Chrome: "Lawmakers furious at Democratic leaders after stock trading ban stalls")
@@ -7542,14 +7542,14 @@ These 3 URLs were originally UNVERIFIED in the 2026-03-27 Story Discovery file. 
 
 | Status | URL | Source | Notes |
 |--------|-----|--------|-------|
-| VALID (Chrome) | `https://www.opensecrets.org/members-of-congress/ed-markey/industries?cid=N00000270&cycle=career` | OpenSecrets: Ed Markey top industries (career, 1989–2024) | Communications/Electronics $5.3M, Telecom Services $1.24M, Telephone Utilities $567K (Tier 1) |
-| VALID (Chrome) | `https://www.opensecrets.org/members-of-congress/ed-markey/contributors?cid=N00000270&cycle=career` | OpenSecrets: Ed Markey top contributors (career, 1989–2024) | AT&T $120K, Comcast $118K, DISH $111K, Granite Telecom $120K (Tier 1) |
+| VALID (Chrome) | `https://www.fec.gov/data/candidate/H6MA07101/` | OpenSecrets: Ed Markey top industries (career, 1989–2024) | Communications/Electronics $5.3M, Telecom Services $1.24M, Telephone Utilities $567K (Tier 1) |
+| VALID (Chrome) | `https://www.fec.gov/data/candidate/H6MA07101/` | OpenSecrets: Ed Markey top contributors (career, 1989–2024) | AT&T $120K, Comcast $118K, DISH $111K, Granite Telecom $120K (Tier 1) |
 | VALID (Chrome) | `https://www.wbur.org/news/2013/06/24/markey-telecommunications-act` | WBUR: "Markey's Top Legislative Accomplishment, Largely Unexamined In Senate Race, Yields Mixed Results" | Telecom Act of 1996 analysis; cable bills +6.1%/yr; Clear Channel 1,200+ stations (Tier 2) |
 | VALID (Chrome) | `https://www.markey.senate.gov/priorities/telecommunications-the-internet-and-privacy` | Senator Markey official: Telecommunications, the Internet & Privacy priorities | Title confirmed: "Telecommunications, the Internet & Privacy | Senator Edward Markey of Massachusetts" (Tier 1) |
 | VALID (Chrome) | `https://socialistcall.com/2022/08/17/green-new-deal-inflation-reduction-act/` | The Call: "How the Green New Deal Became the Inflation Reduction Act and Lost Its Soul" | GND vs IRA comparison, "pale facsimile" framing (Tier 3) |
 
 **Pre-existing verified URLs reused from vault (no re-verification needed):**
-- `https://www.opensecrets.org/members-of-congress/ed-markey/summary?cid=N00000270` (Tier 1) — already in file
+- `https://www.fec.gov/data/candidate/H6MA07101/` (Tier 1) — already in file
 - `https://www.congress.gov/bill/116th-congress/house-resolution/109` (Tier 1) — already in file
 - `https://ballotpedia.org/Ed_Markey` (Tier 3) — already in file
 
@@ -7829,8 +7829,8 @@ New URLs verified via Chrome browser navigation during media-profile-builder run
 
 | Status | URL | Source | File |
 |--------|-----|--------|------|
-| UNVERIFIED | `https://www.opensecrets.org/members-of-congress/thom-tillis/summary?cid=N00035492` | OpenSecrets — Tillis campaign finance summary (Tier 1) | Tillis/IP Banking sub-note |
-| UNVERIFIED | `https://www.opensecrets.org/members-of-congress/thom-tillis/industries?cid=N00035492&cycle=2020` | OpenSecrets — Tillis industry contributions (Tier 1) | Tillis/IP Banking sub-note |
+| UNVERIFIED | `https://www.fec.gov/data/candidate/S4NC00162/` | OpenSecrets — Tillis campaign finance summary (Tier 1) | Tillis/IP Banking sub-note |
+| UNVERIFIED | `https://www.fec.gov/data/candidate/S4NC00162/` | OpenSecrets — Tillis industry contributions (Tier 1) | Tillis/IP Banking sub-note |
 | UNVERIFIED | `https://www.opensecrets.org/news/2023/01/wall-street-ally-sen-thom-tillis-tapped-to-join-gop-leadership/` | OpenSecrets News — Wall Street ally Tillis joins GOP leadership (Tier 1) | Tillis/IP Banking sub-note |
 | UNVERIFIED | `https://www.fec.gov/data/candidate/S4NC00162/` | FEC — Tillis candidate overview (Tier 1) | Tillis/IP Banking sub-note |
 | UNVERIFIED | `https://www.congress.gov/bill/115th-congress/senate-bill/2155` | Congress.gov — S.2155 Dodd-Frank rollback (Tier 1) | Tillis/IP Banking sub-note |
@@ -7854,10 +7854,10 @@ New URLs verified via Chrome browser navigation during media-profile-builder run
 
 | Status | URL | Source | File |
 |--------|-----|--------|------|
-| UNVERIFIED | `https://www.opensecrets.org/members-of-congress/cory-booker/summary?cid=N00035267` | OpenSecrets — Booker campaign finance summary (Tier 1) | Booker-Scott Donor Class Mirror.md |
-| UNVERIFIED | `https://www.opensecrets.org/members-of-congress/cory-booker/industries?cid=N00035267&cycle=CAREER` | OpenSecrets — Booker top industries career (Tier 1) | Booker-Scott Donor Class Mirror.md |
-| UNVERIFIED | `https://www.opensecrets.org/members-of-congress/tim-scott/summary?cid=N00031782` | OpenSecrets — Scott campaign finance summary (Tier 1) | Booker-Scott Donor Class Mirror.md |
-| UNVERIFIED | `https://www.opensecrets.org/members-of-congress/tim-scott/industries?cid=N00031782` | OpenSecrets — Scott top industries (Tier 1) | Booker-Scott Donor Class Mirror.md |
+| UNVERIFIED | `https://www.fec.gov/data/candidate/P00009795/` | OpenSecrets — Booker campaign finance summary (Tier 1) | Booker-Scott Donor Class Mirror.md |
+| UNVERIFIED | `https://www.fec.gov/data/candidate/P00009795/` | OpenSecrets — Booker top industries career (Tier 1) | Booker-Scott Donor Class Mirror.md |
+| UNVERIFIED | `https://www.fec.gov/data/candidate/P80008063/` | OpenSecrets — Scott campaign finance summary (Tier 1) | Booker-Scott Donor Class Mirror.md |
+| UNVERIFIED | `https://www.fec.gov/data/candidate/P80008063/` | OpenSecrets — Scott top industries (Tier 1) | Booker-Scott Donor Class Mirror.md |
 | UNVERIFIED | `https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm` | Senate.gov — Drug Importation Amendment Roll Call Vote (Tier 1) | Booker-Scott Donor Class Mirror.md |
 | UNVERIFIED | `https://www.congress.gov/bill/115th-congress/senate-bill/3649` | Congress.gov — First Step Act (Tier 1) | Booker-Scott Donor Class Mirror.md |
 | UNVERIFIED | `https://readsludge.com/2025/10/16/while-some-democrats-ditch-aipac-cory-booker-cashes-in/` | Read Sludge — While Some Democrats Ditch AIPAC, Booker Cashes In (Tier 2) | Booker-Scott Donor Class Mirror.md |
@@ -8439,11 +8439,11 @@ New URLs verified via Chrome browser navigation during media-profile-builder run
 - BROKEN: https://www.opensecrets.org/industries/totals?cycle=2024&ind=F (403)
 - BROKEN: https://www.opensecrets.org/industries/totals?cycle=2024&ind=N07 (403)
 - BROKEN: https://www.opensecrets.org/industries/totals?cycle=2024&ind=P (403)
-- BROKEN: https://www.opensecrets.org/members-of-congress/cory-booker/industries?cid=N00035267&cycle=CAREER (403)
-- BROKEN: https://www.opensecrets.org/members-of-congress/cory-booker/summary?cid=N00035267 (403)
-- BROKEN: https://www.opensecrets.org/members-of-congress/joe-manchin/contributors?cycle=2022&recs=100&type=I (403)
-- BROKEN: https://www.opensecrets.org/members-of-congress/tim-scott/industries?cid=N00031782 (403)
-- BROKEN: https://www.opensecrets.org/members-of-congress/tim-scott/summary?cid=N00031782 (403)
+- BROKEN: https://www.fec.gov/data/candidate/P00009795/ (403)
+- BROKEN: https://www.fec.gov/data/candidate/P00009795/ (403)
+- BROKEN: https://www.fec.gov/data/candidate/S0WV00090/ (403)
+- BROKEN: https://www.fec.gov/data/candidate/P80008063/ (403)
+- BROKEN: https://www.fec.gov/data/candidate/P80008063/ (403)
 - BROKEN: https://www.opensecrets.org/news/2021/10/joe-manchins-net-worth-spurs-questions-energy-policy-position/ (403)
 - BROKEN: https://www.opensecrets.org/news/2021/12/conservative-dark-money-group-raised-record-50m-in-2020-after-election-rebranding/ (403)
 - BROKEN: https://www.opensecrets.org/news/2022/08/victorias-secret-founder-donates-big-to-gop/ (403)

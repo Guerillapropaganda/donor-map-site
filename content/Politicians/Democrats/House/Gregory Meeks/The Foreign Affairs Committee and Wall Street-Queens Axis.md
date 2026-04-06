@@ -35,8 +35,8 @@ Meeks is one of the most pro-trade Democrats in the House — supporting TPP, US
 ### Sources
 
 - [Congress.gov: Gregory Meeks member profile](https://www.congress.gov/member/gregory-meeks/M001137) (Tier 1)
-- [OpenSecrets: Gregory Meeks campaign finance summary](https://www.opensecrets.org/members-of-congress/gregory-meeks/summary?cid=N00001171) (Tier 1)
-- [OpenSecrets: Gregory Meeks top industries](https://www.opensecrets.org/members-of-congress/gregory-meeks/industries?cid=N00001171) (Tier 1)
+- [OpenSecrets: Gregory Meeks campaign finance summary](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)
+- [OpenSecrets: Gregory Meeks top industries](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)
 - [Ballotpedia: Gregory Meeks](https://ballotpedia.org/Gregory_Meeks) (Tier 3)
 
 content-readiness:: ready

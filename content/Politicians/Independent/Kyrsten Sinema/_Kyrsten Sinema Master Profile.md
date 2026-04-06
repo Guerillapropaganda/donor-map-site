@@ -137,7 +137,7 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 
 ### Sources
 
-- [OpenSecrets: Kyrsten Sinema Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/kyrsten-sinema/summary?cid=N00033983) (Tier 1)
+- [OpenSecrets: Kyrsten Sinema Campaign Finance Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1)
 - [PBS: Sinema received nearly $1 million from Wall Street while killing tax hike on investors](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2)
 - [CNBC: How Wall Street wooed Sinema and preserved carried interest](https://www.cnbc.com/2022/08/09/how-wall-street-wooed-sen-kyrsten-sinema-and-preserved-its-multi-billion-dollar-carried-interest-tax-break.html) (Tier 2)
 - [NBC News: Sinema delivers a 'gift to private equity'](https://www.nbcnews.com/politics/congress/kyrsten-sinema-delivers-gift-private-equity-democrats-big-agenda-bill-rcna42394) (Tier 2)

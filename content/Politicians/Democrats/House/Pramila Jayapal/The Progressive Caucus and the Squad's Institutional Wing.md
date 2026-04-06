@@ -55,7 +55,7 @@ The structural limit: small-dollar fundraising works for individual members in s
 
 ### Sources
 
-- [OpenSecrets: Pramila Jayapal donor profile](https://www.opensecrets.org/members-of-congress/pramila-jayapal/summary?cid=N00039074) (Tier 1)
+- [OpenSecrets: Pramila Jayapal donor profile](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1)
 - [Congress.gov: Medicare for All Act co-sponsors](https://www.congress.gov/bill/118th-congress/house-bill/3421/cosponsors) (Tier 1)
 - [Ballotpedia: Pramila Jayapal](https://ballotpedia.org/Pramila_Jayapal) (Tier 3)
 

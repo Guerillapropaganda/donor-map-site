@@ -133,7 +133,7 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 
 ### Sources
 
-- [OpenSecrets: John Boehner donor profile](https://www.opensecrets.org/members-of-congress/john-boehner/summary?cid=N00003675) (Tier 1)
+- [OpenSecrets: John Boehner donor profile](https://www.fec.gov/data/candidate/H0OH08029/) (Tier 1)
 - [FEC: John Boehner campaign finance (CID: N00003675)](https://www.fec.gov/data/candidate/H2OH08055/) (Tier 1)
 - [Mother Jones: John Boehner tobacco check distribution - House floor photograph](https://www.motherjones.com/politics/2011/06/boehner-tobacco-checks) (Tier 2)
 - [The Atlantic: John Boehner's tobacco industry career](https://www.theatlantic.com/politics/archive/2011/11/video-of-the-day-sen-vitters-honey-badger-analogy-for-lsu-bama/247837/) (Tier 2)

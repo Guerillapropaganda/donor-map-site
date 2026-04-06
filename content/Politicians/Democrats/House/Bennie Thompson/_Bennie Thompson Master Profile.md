@@ -133,9 +133,9 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 
 ### Sources
 
-- [OpenSecrets: Bennie Thompson donor profile](https://www.opensecrets.org/members-of-congress/bennie-thompson/summary?cid=N00003288) (Tier 1)
-- [OpenSecrets: Bennie Thompson industry donors](https://www.opensecrets.org/members-of-congress/bennie-thompson/industries?cid=N00003288) (Tier 1)
-- [OpenSecrets: Bennie Thompson contributors](https://www.opensecrets.org/members-of-congress/bennie-thompson/contributors?cid=N00003288) (Tier 1)
+- [OpenSecrets: Bennie Thompson donor profile](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
+- [OpenSecrets: Bennie Thompson industry donors](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
+- [OpenSecrets: Bennie Thompson contributors](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
 - [House.gov: Bennie Thompson official biography](https://benniethompson.house.gov/about) (Tier 1)
 - [Congress.gov: January 6th Select Committee Final Report](https://www.congress.gov/committee/house-select-committee-to-investigate-the-january-6th-attack/hlij00) (Tier 1)
 - [DHS.gov: Budget-in-Brief FY2024](https://www.dhs.gov/sites/default/files/2023-03/DHS%20BIB%20-%20web%20version.pdf) (Tier 1)

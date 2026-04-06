@@ -104,7 +104,7 @@ Bush uses personal testimony and lived experience as her primary rhetorical tool
 - [Wikipedia: Cori Bush](https://en.wikipedia.org/wiki/Cori_Bush) (Tier 4)
 - [Cori Bush: Campaign site](https://www.coribush.org/about) (Tier 3)
 - [bush.house.gov: About](https://bush.house.gov/about) (Tier 1) (URL NEEDED)
-- [OpenSecrets: Cori Bush summary](https://www.opensecrets.org/members-of-congress/cori-bush/summary) (Tier 1)
+- [OpenSecrets: Cori Bush summary](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
 - [FEC: Bush campaign committee](https://www.fec.gov/data/committee/C00638767/) (Tier 1)
 - [NBC News: Bush loses primary to Bell](https://www.nbcnews.com/politics/2024-election/rep-cori-bush-loses-democratic-primary-campaign-onslaught-israel-group-rcna165306) (Tier 2)
 - [Time: Cori Bush DOJ investigation](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/) (Tier 2)

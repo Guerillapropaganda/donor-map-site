@@ -35,7 +35,7 @@ Northern Virginia's economy runs on government contracting. Booz Allen Hamilton,
 ### Sources
 
 - [Congress.gov: Gerry Connolly member profile](https://www.congress.gov/member/gerald-connolly/C001078) (Tier 1)
-- [OpenSecrets: Gerry Connolly campaign finance summary](https://www.opensecrets.org/members-of-congress/gerry-connolly/summary?cid=N00029891) (Tier 1)
+- [OpenSecrets: Gerry Connolly campaign finance summary](https://www.congress.gov/search?q=Gerry%20Connolly&searchResultViewType=expanded) (Tier 1)
 - [Ballotpedia: Gerry Connolly](https://ballotpedia.org/Gerry_Connolly) (Tier 3)
 
 content-readiness:: ready

@@ -135,7 +135,7 @@ The analytical interest is the personal wealth dimension. Blumenthal is a $100M+
 
 ### Sources
 
-- [OpenSecrets: Richard Blumenthal donor profile](https://www.opensecrets.org/members-of-congress/richard-blumenthal/summary?cid=N00031685) (Tier 1)
+- [OpenSecrets: Richard Blumenthal donor profile](https://www.fec.gov/data/candidate/S0CT00177/) (Tier 1)
 - [OpenSecrets: Richard Blumenthal personal finances](https://www.opensecrets.org/personal-finances/richard-blumenthal/net-worth?cid=N00031685) (Tier 1)
 - [Congress.gov: Richard Blumenthal](https://www.congress.gov/member/richard-blumenthal/B001277) (Tier 1)
 - [Senate Veterans' Affairs Committee: About the Ranking Member](https://www.veterans.senate.gov/ranking-member-about) (Tier 1)

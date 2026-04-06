@@ -21062,9 +21062,9 @@ Scanned 23 raw files — all redirect stubs (functioning as intended, skipped pe
 
 | Status | URL | Notes |
 |--------|-----|-------|
-| VALID | `https://www.opensecrets.org/members-of-congress/dan-crenshaw/industries?cid=N00042224&cycle=CAREER` | Career industry breakdown |
-| VALID | `https://www.opensecrets.org/members-of-congress/dan-crenshaw/industries?cid=N00042224&cycle=2024` | 2024 cycle industry breakdown |
-| VALID | `https://www.opensecrets.org/members-of-congress/dan-crenshaw/contributors?cid=N00042224&cycle=CAREER` | Career top contributors |
+| VALID | `https://www.fec.gov/data/candidate/H8TX02166/` | Career industry breakdown |
+| VALID | `https://www.fec.gov/data/candidate/H8TX02166/` | 2024 cycle industry breakdown |
+| VALID | `https://www.fec.gov/data/candidate/H8TX02166/` | Career top contributors |
 | VALID | `https://www.congress.gov/member/dan-crenshaw/C001120` | Congress.gov member profile |
 | VALID | `https://www.congress.gov/bill/118th-congress/house-bill/7176` | H.R.7176 LNG Potential Act |
 | VALID | `https://ballotpedia.org/Dan_Crenshaw` | Redirects to Daniel_Crenshaw — both resolve |

@@ -64,7 +64,7 @@ Joe Manchin. Former U.S. Senator from West Virginia (2010–2025). Former Govern
 - **2022:** Manchin ranked #1 oil & gas recipient in entire Senate for 2021–2022 cycle, receiving $835,209 from oil & gas alone in that cycle
 - **Q3 2021 (CEPP blockade period):** $400,000+ from fossil fuel interests in just July–October 2021 while negotiating BBB
 
-Sources: [OpenSecrets Industries pages, 2010–2022 cycles](https://www.opensecrets.org/members-of-congress/joe-manchin/industries?cid=N00032838) (Tier 1); [E&E News, October 20, 2021](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2)
+Sources: [OpenSecrets Industries pages, 2010–2022 cycles](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1); [E&E News, October 20, 2021](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2)
 
 ---
 
@@ -151,7 +151,7 @@ Manchin attended No Labels events, publicly considered the bid, and ultimately d
 
 ### Sources
 
-- [OpenSecrets: Joe Manchin Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/joe-manchin/summary?cid=N00000784) (Tier 1)
+- [OpenSecrets: Joe Manchin Campaign Finance Summary](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1)
 - [Senate financial disclosures: Enersystems dividends](https://www.senate.gov/senators/senators-contact.htm) (Tier 1)
 - [OpenSecrets: Manchin career donors, fossil fuel totals](https://www.opensecrets.org/members-of-congress/summary?displayname=Joe%20Manchin) (Tier 1)
 - [Mylan SEC filings: Bresch compensation](https://www.sec.gov/cgi-bin/browse-edgar?company=Joe%20Manchin&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)

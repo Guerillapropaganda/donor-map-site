@@ -97,6 +97,6 @@ The Fanjul family still grows sugar in Florida. Their agricultural labor force s
 - [CBS News: Rubio answers for his failed 2013 immigration plans](https://www.cbsnews.com/news/marco-rubio-answers-for-his-failed-2013-immigration-plans-again/) (Tier 2)
 - [National Review: Marco Rubio's billion-dollar sugar addiction — Fanjul relationship](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2)
 - [The Hill: Rubio defends Gang of Eight immigration bill](https://thehill.com/blogs/ballot-box/gop-primaries/268525-rubio-defends-gang-of-eight-immigration-bill/) (Tier 2)
-- [OpenSecrets: Marco Rubio donor history](https://www.opensecrets.org/members-of-congress/marco-rubio/summary?cid=N00030612) (Tier 1)
+- [OpenSecrets: Marco Rubio donor history](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
 
 content-readiness:: ready

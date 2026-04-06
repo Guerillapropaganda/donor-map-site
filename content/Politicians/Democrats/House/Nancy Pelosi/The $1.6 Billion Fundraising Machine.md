@@ -76,7 +76,7 @@ Pelosi's relationship with the progressive caucus follows the vault's containmen
 
 ### Sources
 
-- [OpenSecrets: Rep. Nancy Pelosi Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/nancy-pelosi/summary?cid=N00007360) (Tier 1)
+- [OpenSecrets: Rep. Nancy Pelosi Campaign Finance Summary](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1)
 - [Fox News: Pelosi has raised more than $1 billion since entering leadership in 2002](https://www.foxnews.com/politics/pelosi-raised-more-than-1-billion-since-leadership-2002) (Tier 2)
 - [Washington Post: Fact-checking Nancy Pelosi's fundraising numbers](https://www.washingtonpost.com/news/fact-checker/wp/2018/02/14/fact-checking-nancy-pelosis-fundraising-numbers/) (Tier 2)
 - [Newsweek: AOC Loses Battle With Pelosi Over Oversight Committee Post](https://www.newsweek.com/alexandria-ocasio-cortez-loses-oversight-gerry-connolly-2002263) (Tier 2)

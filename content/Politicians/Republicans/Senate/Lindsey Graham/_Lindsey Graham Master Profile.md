@@ -172,9 +172,9 @@ South Carolina's population: 5.1 million. Graham's national donor base: millions
 
 ### Sources
 
-- [OpenSecrets: Lindsey Graham campaign finance summary](https://www.opensecrets.org/members-of-congress/lindsey-graham/summary?cid=N00009975) (Tier 1)
-- [OpenSecrets: Lindsey Graham career industries](https://www.opensecrets.org/members-of-congress/lindsey-graham/industries?cid=N00009975&cycle=CAREER) (Tier 1)
-- [OpenSecrets: Lindsey Graham career contributors](https://www.opensecrets.org/members-of-congress/lindsey-graham/contributors?cid=N00009975&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Lindsey Graham campaign finance summary](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
+- [OpenSecrets: Lindsey Graham career industries](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
+- [OpenSecrets: Lindsey Graham career contributors](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
 - [The Intercept: Defense contractors bankrolled Graham's pro-war super PAC](https://theintercept.com/2015/07/30/senator-lindsey-grahams-pro-war-super-pac-bankrolled-defense-contractors/) (Tier 2)
 - [Center for Public Integrity: Graham's campaign collects bundle from lobbyists](https://publicintegrity.org/politics/grahams-campaign-collects-bundle-from-lobbyists/) (Tier 2)
 - [CNN: Lindsey Graham may have single-handedly saved Kavanaugh's confirmation](https://www.cnn.com/2018/09/28/politics/lindsey-graham-donald-trump-brett-kavanaugh/index.html) (Tier 2)

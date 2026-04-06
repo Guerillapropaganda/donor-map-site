@@ -211,7 +211,7 @@ McCarthy was the answer to the question: what does a successful donor-servant lo
 
 ### Sources
 
-- [OpenSecrets: Kevin McCarthy donor profile](https://www.opensecrets.org/members-of-congress/kevin-mccarthy/summary?cid=N00004185) (Tier 1)
+- [OpenSecrets: Kevin McCarthy donor profile](https://www.fec.gov/data/candidate/H6CA22125/) (Tier 1)
 - [OpenSecrets: Oil and gas contributions to McCarthy by cycle](https://www.opensecrets.org/industries?ind=E01&recipdetail=Y&mem=Y&sort=A&cycle=2022) (Tier 1)
 - [FEC: McCarthy for Congress Committee filings](https://www.fec.gov/data/committee/C00420935/) (Tier 1)
 - [FEC: Congressional Leadership Fund SuperPAC filings](https://www.fec.gov/data/committee/C00573519/) (Tier 1)

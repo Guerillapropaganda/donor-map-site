@@ -115,7 +115,7 @@ Tom Cotton. Republican senator from Arkansas (2015–present). The neoconservati
 
 ### Sources
 
-- [OpenSecrets: Cotton 2014 Senate fundraising](https://www.opensecrets.org/members-of-congress/tom-cotton/summary?cid=N00033363) (Tier 1)
+- [OpenSecrets: Cotton 2014 Senate fundraising](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded) (Tier 1)
 - [FEC.gov: Cotton campaign filings](https://www.fec.gov/data/candidate/S4AR00103/) (Tier 1)
 - [LobeLog: Emergency Committee for Israel spending](https://lobelog.com/exclusive-emergency-committee-for-israel-spends-big-on-rep-tom-cotton/) (Tier 2)
 - [NPR: Freshman senator behind Iran letter](https://www.npr.org/2015/03/13/392845709/tom-cotton-the-freshman-senator-behind-the-iran-letter) (Tier 2)

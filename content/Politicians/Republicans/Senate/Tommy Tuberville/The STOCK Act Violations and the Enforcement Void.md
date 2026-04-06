@@ -82,5 +82,5 @@ The pattern is consistent: transparency rules pass when politically convenient; 
 - [Alabama Reporter: Tuberville stock trading raises conflict-of-interest questions](https://www.alreporter.com/2023/08/21/tubervilles-stock-trading-raises-questions-about-potential-insider-trading/) (Tier 2)
 - [Campaign Legal Center: Tuberville infrastructure trades conflict of interest](https://campaignlegal.org/media-mentions/tommy-tubervilles-stock-trades-during-infrastructure-talks-raise-questions-about) (Tier 2)
 - [Alabama Reporter: Watchdog files ethics complaint against Tuberville](https://www.alreporter.com/2021/08/02/watchdog-group-files-ethics-complaint-against-sen-tuberville/) (Tier 2)
-- [OpenSecrets: Tuberville campaign finance and personal finances](https://www.opensecrets.org/members-of-congress/tommy-tuberville/summary?cid=N00044434) (Tier 1)
+- [OpenSecrets: Tuberville campaign finance and personal finances](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded) (Tier 1)
 - [Washington Post: Members of Congress face tests on stock trading and staff unionization](https://www.washingtonpost.com/opinions/2022/02/09/congress-ethical-test/) (Tier 2)

@@ -36,7 +36,7 @@ Cantwell's tech positions are industry-friendly: she supports immigration reform
 
 ### Sources
 
-- [OpenSecrets: Maria Cantwell donor profile](https://www.opensecrets.org/members-of-congress/maria-cantwell/summary?cid=N00007836) (Tier 1)
+- [OpenSecrets: Maria Cantwell donor profile](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1)
 - [Congress.gov: Maria Cantwell](https://www.congress.gov/member/maria-cantwell/C000127) (Tier 1)
 - [Ballotpedia: Maria Cantwell](https://ballotpedia.org/Maria_Cantwell) (Tier 3)
 

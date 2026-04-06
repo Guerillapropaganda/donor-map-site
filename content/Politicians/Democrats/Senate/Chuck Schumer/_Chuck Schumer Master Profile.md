@@ -245,7 +245,7 @@ Schumer's role is not to vote yes or no. His role is to determine what the Senat
 
 ### Sources
 
-- [OpenSecrets: Chuck Schumer Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/charles-e-schumer/summary?cid=N00001093) (Tier 1)
+- [OpenSecrets: Chuck Schumer Campaign Finance Summary](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1)
 - [CREW: Majority Forward investigation](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2)
 - [Politico: Tech antitrust bill killed without floor vote, $277M tech lobbying](https://www.politico.com/story/2022/03/28/tech-companies-kill-antitrust-bills-1231482) (Tier 2)
 - [ProPublica: How Philanthropist David Rubenstein Helped Save a Tax Break Billionaires Love](https://www.propublica.org/article/how-david-rubenstein-helped-save-the-carried-interest-tax-loophole) (Tier 2)

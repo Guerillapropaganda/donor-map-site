@@ -43,8 +43,8 @@ Himes' district is the financial services industry. Greenwich, Stamford, and Wes
 ### Sources
 
 - [Congress.gov: Jim Himes member profile](https://www.congress.gov/member/jim-himes/H001047) (Tier 1)
-- [OpenSecrets: Jim Himes campaign finance summary](https://www.opensecrets.org/members-of-congress/jim-himes/summary?cid=N00029070) (Tier 1)
-- [OpenSecrets: Jim Himes top industries](https://www.opensecrets.org/members-of-congress/jim-himes/industries?cid=N00029070) (Tier 1)
+- [OpenSecrets: Jim Himes campaign finance summary](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1)
+- [OpenSecrets: Jim Himes top industries](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1)
 - [New York Times: Himes' Goldman Sachs background and congressional career](https://archive.nytimes.com/dealbook.nytimes.com/2011/09/26/wall-street-ties-bring-peril-for-democratic-lawmaker/) (Tier 2)
 - [ProPublica: The New Democrats — The Coalition Pharma and Wall Street Love](https://www.propublica.org/article/new-democrat-coalition) (Tier 2)
 - [Ballotpedia: Jim Himes](https://ballotpedia.org/Jim_Himes) (Tier 3)

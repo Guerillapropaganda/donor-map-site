@@ -144,7 +144,7 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 ### Sources
 
 - [OpenSecrets: Jim Risch donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00029441) (Tier 1)
-- [OpenSecrets: Jim Risch industry donors](https://www.opensecrets.org/members-of-congress/james-e-risch/industries?cid=N00029441&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Jim Risch industry donors](https://www.fec.gov/data/candidate/S8ID00092/) (Tier 1)
 - [OpenSecrets: Jim Risch personal finances](https://www.opensecrets.org/personal-finances/james-risch/net-worth?cid=N00029441) (Tier 1)
 - [Senate Foreign Relations Committee: About the Chairman](https://www.foreign.senate.gov/about/chairman) (Tier 1)
 - [Senate.gov: Jim Risch biography](https://www.risch.senate.gov/about/about-jim/) (Tier 1)

@@ -104,8 +104,8 @@ The HELP Committee jurisdiction is not incidental to this analysis — it is the
 
 ### Sources
 
-- [OpenSecrets: Tammy Baldwin career industries](https://www.opensecrets.org/members-of-congress/tammy-baldwin/industries?cid=N00004367&cycle=CAREER) (Tier 1)
-- [OpenSecrets: Tammy Baldwin 2024 cycle industries](https://www.opensecrets.org/members-of-congress/tammy-baldwin/industries?cid=N00004367&cycle=2024) (Tier 1)
+- [OpenSecrets: Tammy Baldwin career industries](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
+- [OpenSecrets: Tammy Baldwin 2024 cycle industries](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
 - [OpenSecrets: Pharmaceuticals/Health Products sector recipients (career)](https://www.opensecrets.org/industries?cycle=All&ind=H04&recipdetail=S&sortorder=A) (Tier 1)
 - [Congress.gov: Tammy Baldwin member profile](https://www.congress.gov/member/tammy-baldwin/B001230) (Tier 1)
 - [Baldwin.senate.gov: FAIR Drug Pricing Act 2021 introduction](https://www.baldwin.senate.gov/news/press-releases/fair-drug-pricing-act-2021) (Tier 1)

@@ -41,8 +41,8 @@ Coons served as Biden's closest Senate ally — his vote was reliable on every B
 ### Sources
 
 - [Congress.gov: Chris Coons member profile](https://www.congress.gov/member/chris-coons/C001088) (Tier 1)
-- [OpenSecrets: Chris Coons campaign finance summary](https://www.opensecrets.org/members-of-congress/chris-coons/summary?cid=N00031820) (Tier 1)
-- [OpenSecrets: Chris Coons top industries](https://www.opensecrets.org/members-of-congress/chris-coons/industries?cid=N00031820) (Tier 1)
+- [OpenSecrets: Chris Coons campaign finance summary](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1)
+- [OpenSecrets: Chris Coons top industries](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1)
 - [Washington Post: How Delaware is trying to reshape corporate law after Elon Musk exit](https://www.washingtonpost.com/technology/2025/03/04/delaware-corporate-law-elon-musk/) (Tier 2)
 - [Ballotpedia: Chris Coons](https://ballotpedia.org/Chris_Coons) (Tier 3)
 

@@ -107,7 +107,7 @@ JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family 
 
 ### Sources
 
-- [OpenSecrets: JB Pritzker Campaign Finance](https://www.opensecrets.org/members-of-congress/jb-pritzker/summary) (Tier 1)
+- [OpenSecrets: JB Pritzker Campaign Finance](https://www.congress.gov/search?q=Jb%20Pritzker&searchResultViewType=expanded) (Tier 1)
 - [FEC: 2022 Illinois Governor Campaign Finance Filings](https://www.fec.gov/data/filings/) (Tier 1)
 - [Illinois Policy: Pritzker campaign spending $323M analysis](https://www.illinoispolicy.org/pritzker-calls-for-campaign-finance-reform-after-spending-323m-on-campaigns/) (Tier 2)
 - NPR: Pritzker breaks campaign finance record (Tier 2)

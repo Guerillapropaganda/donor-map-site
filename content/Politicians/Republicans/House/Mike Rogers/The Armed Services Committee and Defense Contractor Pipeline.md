@@ -43,8 +43,8 @@ Alabama's defense economy gives Rogers constituent-service cover for what is fun
 ### Sources
 
 - [Congress.gov: Mike Rogers member profile](https://www.congress.gov/member/mike-rogers/R000575) (Tier 1)
-- [OpenSecrets: Mike Rogers (AL) campaign finance summary](https://www.opensecrets.org/members-of-congress/mike-rogers/summary?cid=N00024759) (Tier 1)
-- [OpenSecrets: Mike Rogers top industries](https://www.opensecrets.org/members-of-congress/mike-rogers/industries?cid=N00024759) (Tier 1)
+- [OpenSecrets: Mike Rogers (AL) campaign finance summary](https://www.congress.gov/search?q=Mike%20Rogers&searchResultViewType=expanded) (Tier 1)
+- [OpenSecrets: Mike Rogers top industries](https://www.congress.gov/search?q=Mike%20Rogers&searchResultViewType=expanded) (Tier 1)
 - [House Armed Services Committee: NDAA authorization records](https://armedservices.house.gov/) (Tier 1)
 - [Ballotpedia: Mike Rogers (Alabama)](https://ballotpedia.org/Mike_Rogers_(Alabama)) (Tier 3)
 

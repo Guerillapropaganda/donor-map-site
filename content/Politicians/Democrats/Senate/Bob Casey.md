@@ -75,8 +75,8 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 
 ### Sources
 
-- [OpenSecrets: Sen. Bob Casey campaign finance summary](https://www.opensecrets.org/members-of-congress/bob-casey/summary?cid=N00027503&cycle=2024) (Tier 1)
-- [OpenSecrets: Sen. Bob Casey industries](https://www.opensecrets.org/members-of-congress/bob-casey/industries?cid=N00027503&cycle=2024) (Tier 1)
+- [OpenSecrets: Sen. Bob Casey campaign finance summary](https://www.congress.gov/search?q=Bob%20Casey&searchResultViewType=expanded) (Tier 1)
+- [OpenSecrets: Sen. Bob Casey industries](https://www.congress.gov/search?q=Bob%20Casey&searchResultViewType=expanded) (Tier 1)
 - [Free Beacon: Bob Casey, the Senate's Top Recipient of Pharma Cash, Says He's 'Standing Up to Big Pharma'](https://freebeacon.com/democrats/bob-casey-the-senates-top-recipient-of-pharma-cash-says-hes-standing-up-to-big-pharma/) (Tier 3)
 - [Broad & Liberty: Sen. Bob Casey raises more money from PACs than from PA](https://broadandliberty.com/2023/04/27/sen-bob-casey-raises-more-money-from-pacs-than-from-pa/) (Tier 3)
 - [Deseret News: Should we be concerned with politicians receiving pharma money?](https://www.deseret.com/politics/2025/01/31/pharma-funding-politicians/) (Tier 3)

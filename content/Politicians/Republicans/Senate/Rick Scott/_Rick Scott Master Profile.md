@@ -127,7 +127,7 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 
 - [PolitiFact: Columbia/HCA fraud](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2)
 - [DOJ: Settlement records](https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm) (Tier 1)
-- [OpenSecrets: Scott campaign finance, net worth](https://www.opensecrets.org/members-of-congress/rick-scott/summary?cid=N00043290) (Tier 1)
+- [OpenSecrets: Scott campaign finance, net worth](https://www.fec.gov/data/candidate/S8FL00273/) (Tier 1)
 - [Roll Call: $64M self-funding](https://rollcall.com/2018/12/10/rick-scott-spent-record-64-million-of-his-own-money-in-florida-senate-race/) (Tier 2)
 - [New York Times: "blind in name only" trust](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2)
 - [CNN: NRSC spending failure, McConnell feud](https://www.cnn.com/2022/09/06/politics/rick-scott-mitch-mcconnell-republican-senate-fundraising) (Tier 2)

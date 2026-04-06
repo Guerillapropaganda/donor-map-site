@@ -129,7 +129,7 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 
 ### Sources
 
-- [OpenSecrets: Mark Takano donor profile](https://www.opensecrets.org/members-of-congress/mark-takano/summary?cid=N00033510) (Tier 1)
+- [OpenSecrets: Mark Takano donor profile](https://www.fec.gov/data/candidate/H2CA43245/) (Tier 1)
 - [Congress.gov: Mark Takano](https://www.congress.gov/member/mark-takano/T000472) (Tier 1)
 - [House Veterans' Affairs Democrats: Ranking Member Takano](https://democrats-veterans.house.gov/about/ranking-member) (Tier 1)
 - [House.gov: Takano biography](https://takano.house.gov/about) (Tier 1)

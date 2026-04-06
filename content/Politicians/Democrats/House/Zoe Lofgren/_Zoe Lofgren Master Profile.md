@@ -131,7 +131,7 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 
 ### Sources
 
-- [OpenSecrets: Zoe Lofgren donor profile](https://www.opensecrets.org/members-of-congress/zoe-lofgren/summary?cid=N00007479) (Tier 1)
+- [OpenSecrets: Zoe Lofgren donor profile](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1)
 - [Congress.gov: Zoe Lofgren](https://www.congress.gov/member/zoe-lofgren/L000397) (Tier 1)
 - [House.gov: Lofgren biography](https://lofgren.house.gov/about) (Tier 1)
 - [House Science Committee Democrats: RM Lofgren](https://democrats-science.house.gov/news/press-releases/ranking-member-lofgrens-statement-on-being-selected-to-continue-leading-science-committee-democrats) (Tier 1)

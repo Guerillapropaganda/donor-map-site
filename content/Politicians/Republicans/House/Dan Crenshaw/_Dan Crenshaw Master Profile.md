@@ -174,8 +174,8 @@ Crenshaw was the only House Republican on the Texas ballot without a Trump endor
 
 ### Sources
 
-- [OpenSecrets: Dan Crenshaw campaign finance summary](https://www.opensecrets.org/members-of-congress/dan-crenshaw/summary?cid=N00042224) (Tier 1)
-- [OpenSecrets: Dan Crenshaw career industry totals](https://www.opensecrets.org/members-of-congress/dan-crenshaw/industries?cid=N00042224&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Dan Crenshaw campaign finance summary](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
+- [OpenSecrets: Dan Crenshaw career industry totals](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
 - [Congress.gov: Dan Crenshaw member profile](https://www.congress.gov/member/dan-crenshaw/C001120) (Tier 1)
 - [Ballotpedia: Dan Crenshaw](https://ballotpedia.org/Daniel_Crenshaw) (Tier 3)
 - [Texas Tribune: Steve Toth unseats Dan Crenshaw in GOP primary](https://www.texastribune.org/2026/03/03/texas-dan-crenshaw-steve-toth-republican-primary/) (Tier 2)

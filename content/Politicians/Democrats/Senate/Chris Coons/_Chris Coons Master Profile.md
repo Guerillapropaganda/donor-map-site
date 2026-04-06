@@ -113,7 +113,7 @@ Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence i
 
 ### Sources
 
-- [OpenSecrets: Chris Coons Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/chris-coons/summary?cid=N00031820) (Tier 1)
+- [OpenSecrets: Chris Coons Campaign Finance Summary](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1)
 - [FEC: Chris Coons for Delaware (C00475392)](https://www.fec.gov/data/committee/C00475392/) (Tier 1)
 - [Jacobin: Chris Coons Is Big Pharma's Man in Washington](https://jacobin.com/2020/09/chris-coons-big-pharma-joe-biden) (Tier 2)
 - [Jacobin: Sen. Chris Coons's Defense of Vaccine Apartheid Is Obscene](https://jacobin.com/2021/05/senator-chris-coons-vaccine-patent-remarks-csis-cold-war-red-scare) (Tier 2)

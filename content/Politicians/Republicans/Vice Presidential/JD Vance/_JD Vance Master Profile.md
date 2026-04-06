@@ -166,7 +166,7 @@ The vault's central insight applies directly: **Vance is not a politician with d
 - [The Conversation: Peter Thiel helped make JD Vance. The Republican kingmaker's influence is growing](https://theconversation.com/friday-essay-libertarian-tech-titan-peter-thiel-helped-make-jd-vance-the-republican-kingmakers-influence-is-growing-261856) (Tier 2)
 
 ### Tier 3 (Aggregators):
-- [OpenSecrets.org: Sen. J D Vance - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/j-d-vance/summary?cid=N00048832) (Tier 3)
+- [OpenSecrets.org: Sen. J D Vance - Campaign Finance Summary](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 3)
 - [Ballotpedia: J.D. Vance voting record and biography](https://ballotpedia.org/J.D._Vance) (Tier 3)
 - [ProPublica: Peter Thiel donor lookup and contributions](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel&order=desc&sort=D) (Tier 3)
 

@@ -140,8 +140,8 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 
 ### Sources
 
-- [OpenSecrets: Glenn Thompson donor profile](https://www.opensecrets.org/members-of-congress/glenn-thompson/summary?cid=N00029736) (Tier 1)
-- [OpenSecrets: Glenn Thompson industry donors](https://www.opensecrets.org/members-of-congress/glenn-thompson/industries?cid=N00029736) (Tier 1)
+- [OpenSecrets: Glenn Thompson donor profile](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)
+- [OpenSecrets: Glenn Thompson industry donors](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)
 - [Congress.gov: Glenn Thompson](https://www.congress.gov/member/glenn-thompson/T000467) (Tier 1)
 - [House Agriculture Committee: Chairman Thompson](https://agriculture.house.gov/about/chairman-thompson.htm) (Tier 1)
 - [CBPP: House Agriculture Committee Chairman Proposes Cut in SNAP Benefits](https://www.cbpp.org/blog/house-agriculture-committee-chairman-proposes-cut-in-snap-benefits-reversing-bipartisan) (Tier 2)

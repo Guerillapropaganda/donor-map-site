@@ -35,7 +35,7 @@ The Permian Basin produces over 6 million barrels of oil per day — approximate
 ### Sources
 
 - [Congress.gov: Jodey Arrington member profile](https://www.congress.gov/member/jodey-arrington/A000375) (Tier 1)
-- [OpenSecrets: Jodey Arrington campaign finance summary](https://www.opensecrets.org/members-of-congress/jodey-arrington/summary?cid=N00038797) (Tier 1)
+- [OpenSecrets: Jodey Arrington campaign finance summary](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1)
 - [EIA: Permian Basin production data](https://www.eia.gov/petroleum/drilling/) (Tier 1)
 - [Ballotpedia: Jodey Arrington](https://ballotpedia.org/Jodey_Arrington) (Tier 3)
 

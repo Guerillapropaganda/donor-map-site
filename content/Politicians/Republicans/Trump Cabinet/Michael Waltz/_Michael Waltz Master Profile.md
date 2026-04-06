@@ -100,8 +100,8 @@ Waltz uses military credentialing as his primary rhetorical frame — "Green Ber
 ### Sources
 
 - [Wikipedia: Mike Waltz](https://en.wikipedia.org/wiki/Mike_Waltz) (Tier 4)
-- [OpenSecrets: Michael Waltz summary](https://www.opensecrets.org/members-of-congress/michael-waltz/summary) (Tier 1)
-- [OpenSecrets: Waltz industry donors](https://www.opensecrets.org/members-of-congress/michael-waltz/industries?cycle=CAREER) (Tier 1)
+- [OpenSecrets: Michael Waltz summary](https://www.fec.gov/data/candidate/H8FL06148/) (Tier 1)
+- [OpenSecrets: Waltz industry donors](https://www.fec.gov/data/candidate/H8FL06148/) (Tier 1)
 - [Clerk of the House: Waltz](https://clerk.house.gov/members/W000823) (Tier 1)
 - [Press UN: Waltz bio](https://press.un.org/en/2025/bio5611.doc.htm) (Tier 1)
 - [ABC News: Waltz Signal controversy](https://abcnews.com/Politics/mike-waltz-national-security-adviser-added-journalist-signal/story?id=120131357) (Tier 2)

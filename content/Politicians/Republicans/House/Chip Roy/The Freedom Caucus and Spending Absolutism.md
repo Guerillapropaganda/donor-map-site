@@ -35,7 +35,7 @@ Roy's primary institutional donor is the Club for Growth — the anti-tax, anti-
 ### Sources
 
 - [Congress.gov: Chip Roy member profile](https://www.congress.gov/member/chip-roy/R000614) (Tier 1)
-- [OpenSecrets: Chip Roy campaign finance summary](https://www.opensecrets.org/members-of-congress/chip-roy/summary?cid=N00042268) (Tier 1)
+- [OpenSecrets: Chip Roy campaign finance summary](https://www.fec.gov/data/candidate/H8TX21307/) (Tier 1)
 - [Ballotpedia: Chip Roy](https://ballotpedia.org/Chip_Roy) (Tier 3)
 
 content-readiness:: ready

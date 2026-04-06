@@ -46,7 +46,7 @@ Georgia's 2026 Senate race is a **Democratic defense** — incumbent [[_Jon Osso
   - Facebook/Meta: $100K+
 - **[[AIPAC - American Israel Public Affairs Committee|AIPAC]] Position:** Ossoff receives substantial pro-Israel PAC money despite his voting record on Israel. He is the first Jewish U.S. Senator from Georgia and voted against conditioning aid to Israel — yet AIPAC is spending against him, signaling pure partisan realignment not policy-driven
 - **2020 Special Election Base:** Ossoff's original 2021 victory was built on small-dollar Democratic base ($4.3M individual donations in 2020-21 special), plus Hollywood money ($2M+ from entertainment industry), plus pro-Israel bundlers ($1.5M+). 2026 repeats this coalition: grassroots + entertainment + pro-Israel donors
-- [Source: OpenSecrets: Jon Ossoff campaign finance summary](https://www.opensecrets.org/members-of-congress/jon-ossoff/summary?cid=N00040675) (Tier 1)
+- [Source: OpenSecrets: Jon Ossoff campaign finance summary](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1)
 
 ### [[_Mike Collins Master Profile|Mike Collins]] (Republican Primary Leader) — Crypto-Billionaire Money:
 - **Total raised (through Q1 2026):** $2.0M+ (far behind Ossoff but accelerating)
@@ -104,8 +104,8 @@ This race reveals three competing donor-class strategies consolidating Republica
 
 ### Sources
 
-- [Sen. Jon Ossoff - Campaign Finance Summary | OpenSecrets](https://www.opensecrets.org/members-of-congress/jon-ossoff/summary?cid=N00040675) (Tier 1)
-- [Rep. Mike Collins - Campaign Finance Summary | OpenSecrets](https://www.opensecrets.org/members-of-congress/mike-collins/summary?cid=N00035370&cycle=2024) (Tier 1)
+- [Sen. Jon Ossoff - Campaign Finance Summary | OpenSecrets](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1)
+- [Rep. Mike Collins - Campaign Finance Summary | OpenSecrets](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded) (Tier 1)
 - [Crypto Money and Israel Lobby Target Georgia Senate Seat | BeInCrypto](https://beincrypto.com/crypto-lobby-and-aipac-targets-georgia-senate/) (Tier 3)
 - [CNBC: Crypto super PAC Fairshake has $116 million on hand to grow industry's influence in 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
 - [Crypto Industry and AIPAC Back Pro-Trump Candidate for Georgia Senate Seat | CryptoNews](https://cryptonews.net/news/legal/31673812/) (Tier 3)

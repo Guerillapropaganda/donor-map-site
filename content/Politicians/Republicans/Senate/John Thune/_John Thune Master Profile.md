@@ -110,7 +110,7 @@ John Thune. Senate Majority Leader (2025–present). Republican senator from Sou
 
 ### Sources
 
-- [OpenSecrets: Thune career fundraising and industry donors](https://www.opensecrets.org/members-of-congress/john-thune/summary?cid=N00004572) (Tier 1)
+- [OpenSecrets: Thune career fundraising and industry donors](https://www.fec.gov/data/candidate/H6SD00085/) (Tier 1)
 - [FEC.gov: Thune campaign filings](https://www.fec.gov/data/candidate/S2SD00068/) (Tier 1)
 - [STAT News: Pharma CEO donations February 2022](https://www.statnews.com/2022/05/10/pharma-showers-john-thune-with-campaign-cash/) (Tier 2)
 - [National Pulse: Corporate donor analysis](https://thenationalpulse.com/2024/11/13/john-thune-is-the-new-senate-leader-here-are-his-biggest-corporate-donors/) (Tier 3)

@@ -140,7 +140,7 @@ Heinrich is the nuclear weapons complex's senator — an engineer who started hi
 
 ### Sources
 
-- [OpenSecrets: Martin Heinrich Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/martin-heinrich/summary?cid=N00029835) (Tier 1)
+- [OpenSecrets: Martin Heinrich Campaign Finance Summary](https://www.fec.gov/data/candidate/H8NM01224/) (Tier 1)
 - [FEC: Martin Heinrich for Senate (S2NM00088)](https://www.fec.gov/data/candidate/S2NM00088/) (Tier 1)
 - [Senator Heinrich: Secures Wins for NM Military Installations, National Labs in FY2025 NDAA](https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-secures-wins-for-nm-military-installations-national-labs-in-fy2025-national-defense-bill) (Tier 1)
 - [Senator Heinrich: Secures Wins for NM in FY2026 NDAA](https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-secures-wins-for-nm-service-members-military-installations-and-national-labs-in-fy2026-national-defense-bill) (Tier 1)

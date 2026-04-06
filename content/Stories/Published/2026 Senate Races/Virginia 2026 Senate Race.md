@@ -84,7 +84,7 @@ This is the clearest example in the vault of a politician whose funding is direc
 ### Which donor forces are shaping this race?
 - **Defense contractors (primary money):** Virginia is the only Senate district in America where the primary industry is federal defense contracting. Warner's defense contractor relationships are not incidental — they are central. His voting record on defense spending, weapons procurement, and military policy is directly shaped by his donor base. This is a politician where defense contractor interests are *visible and explicit* in his fundraising.
   - OpenSecrets data shows Warner receiving $500K+ from defense contractor executives in 2024 cycle alone
-  - [Source: OpenSecrets: Mark Warner campaign finance summary](https://www.opensecrets.org/members-of-congress/mark-warner/summary?cid=N00002097) (Tier 1)
+  - [Source: OpenSecrets: Mark Warner campaign finance summary](https://www.fec.gov/data/candidate/P80003023/) (Tier 1)
   - [Source: VPAP: Top donors to Mark Warner](https://www.vpap.org/candidates/5301/top_donors/) (Tier 1 Virginia-specific) (Tier 2)
 
 - **Tech industry money:** Virginia's Northern Neck and Arlington are major tech hubs (AOL legacy, Amazon HQ2 recruitment, Palantir operations). Tech PACs and venture capital support Warner as a centrist Democrat friendly to corporate interests.
@@ -121,7 +121,7 @@ This is the clearest example in the vault of a politician whose funding is direc
 - [Virginia Independent: Key elections coming up in Virginia in 2026](https://virginiaindependentnews.com/elections/2026-constitution-amendments-referendums-primary-general-senate-house/) (Tier 2)
 - [Cook Political Report: VA Senate 2026](https://www.cookpolitical.com/senate/race/488691) (Tier 2)
 - [WDBJ7: Mark Warner banks record $13.36 million for 2026 Senate race](https://www.wdbj7.com/2026/01/13/mark-warner-banks-record-1336-million-as-he-gears-up-critical-2026-senate-race/) (Tier 2)
-- [OpenSecrets: Sen. Mark Warner campaign finance summary](https://www.opensecrets.org/members-of-congress/mark-warner/summary?cid=N00002097) (Tier 1)
+- [OpenSecrets: Sen. Mark Warner campaign finance summary](https://www.fec.gov/data/candidate/P80003023/) (Tier 1)
 - [VPAP: Top donors to Mark Warner](https://www.vpap.org/candidates/5301/top_donors/) (Tier 1)
 - [VPAP: Donors to Mark Warner by occupation](https://www.vpap.org/candidates/5301/donors_sector_totals/) (Tier 1)
 

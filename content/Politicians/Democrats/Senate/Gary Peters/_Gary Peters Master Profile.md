@@ -142,7 +142,7 @@ Peters is the Democratic Party's quiet operator — a former Wall Street investm
 
 ### Sources
 
-- [OpenSecrets: Gary Peters Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/gary-peters/summary?cid=N00029277) (Tier 1)
+- [OpenSecrets: Gary Peters Campaign Finance Summary](https://www.fec.gov/data/candidate/H8MI09068/) (Tier 1)
 - [FEC: Gary Peters for Michigan (S4MI00355)](https://www.fec.gov/data/candidate/S4MI00355/) (Tier 1)
 - [POGO: Representatives Are Too Invested in Defense Contractors](https://www.pogo.org/analyses/representatives-are-too-invested-in-defense-contractors) (Tier 2)
 - [Common Dreams: Report Reveals 50+ US Lawmakers Hold Military Stocks](https://www.commondreams.org/news/members-of-congress-who-own-defense-stock) (Tier 2)

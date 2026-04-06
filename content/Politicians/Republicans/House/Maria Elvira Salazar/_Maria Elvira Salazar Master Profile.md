@@ -94,7 +94,7 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 ### Sources
 
-- [OpenSecrets: Maria Elvira Salazar campaign finance summary](https://www.opensecrets.org/members-of-congress/maria-salazar/summary?cid=N00042810) (Tier 1)
+- [OpenSecrets: Maria Elvira Salazar campaign finance summary](https://www.fec.gov/data/candidate/H0WA03203/) (Tier 1)
 - [WLRN: Rep. Salazar to return campaign cash from suspected Cuba spy](https://www.wlrn.org/government-politics/2023-12-06/rep-maria-elvira-salazar-to-return-campaign-cash-from-suspected-cuba-spy-politico-manuel-rocha) (Tier 2)
 - [Florida Politics: Salazar to return donations from ex-Ambassador accused of spying for Cuba](https://floridapolitics.com/archives/647659-maria-salazar-to-return-donations-from-ex-ambassador-accused-of-spying-for-cuba/) (Tier 2)
 - [Florida Politics: Dems bash Salazar for gift from lawyer linked to Maduro](https://floridapolitics.com/archives/455158-dems-bash-hypocritical-maria-elvira-salazar-for-gift-from-lawyer-linked-to-nicolas-maduro/) (Tier 2)

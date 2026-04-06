@@ -57,7 +57,7 @@ content-readiness:: ready
 
 ### Sources
 
-- [OpenSecrets: Ted Cruz oil and gas contributions](https://www.opensecrets.org/members-of-congress/ted-cruz/industries?cid=N00033085&cycle=2024) (Tier 1)
+- [OpenSecrets: Ted Cruz oil and gas contributions](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1)
 - [CNN Politics: Wilks brothers $15 million donation to Cruz super PAC](https://edition.cnn.com/2015/07/25/politics/ted-cruz-wilks-brothers/index.html) (Tier 2)
 - [The Intercept: Ted Cruz pressure on EPA created Valero Energy windfall](https://theintercept.com/2018/10/16/ted-cruz-campaign-donor-valero-energy-rins/) (Tier 2)
 - [Texas Tribune: Texas power grid failure and deregulation](https://www.texastribune.org/2022/02/15/texas-power-grid-winter-storm-2021/) (Tier 2)

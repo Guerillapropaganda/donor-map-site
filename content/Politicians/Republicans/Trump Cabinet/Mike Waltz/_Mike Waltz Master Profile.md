@@ -119,7 +119,7 @@ As National Security Advisor during the early months of Operation Southern Spear
 
 ### Sources
 
-- [OpenSecrets: Mike Waltz campaign finance summary](https://www.opensecrets.org/members-of-congress/michael-waltz/summary?cid=N00042403) (Tier 1)
+- [OpenSecrets: Mike Waltz campaign finance summary](https://www.fec.gov/data/candidate/H8FL06148/) (Tier 1)
 - [OpenSecrets News: Trump administration profile — Mike Waltz](https://www.opensecrets.org/news/2025/03/trump-administration-profile-mike-waltz) (Tier 1)
 - [The Intercept: Mike Waltz Made Millions from Afghanistan Defense Contractor](https://theintercept.com/2021/08/20/mike-waltz-afghanistan/) (Tier 2)
 - [Jewish Insider: Trump picks Iran critic, hawkish Israel supporter Mike Waltz as NSA](https://jewishinsider.com/2024/11/trump-picks-iran-israel-hawk-mike-waltz-as-his-national-security-adviser/) (Tier 2)

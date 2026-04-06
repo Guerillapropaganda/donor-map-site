@@ -130,7 +130,7 @@ The nomination cycle revealed Stefanik's structural vulnerability: her value to 
 
 ### Sources
 
-- [OpenSecrets: Elise Stefanik donor profile](https://www.opensecrets.org/members-of-congress/elise-stefanik/summary?cid=N00035523) (Tier 1)
+- [OpenSecrets: Elise Stefanik donor profile](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1)
 - [OpenSecrets: Trump administration profile — Elise Stefanik](https://www.opensecrets.org/news/2025/01/trump-administration-profile-elise-stefanik/) (Tier 1)
 - [FEC: Stefanik campaign finance filings](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1)
 - [TIME: How Elise Stefanik went from moderate to MAGA](https://time.com/6046674/elise-stefanik-liz-cheney-republican/) (Tier 2)

@@ -183,9 +183,9 @@ Durbin's retirement confirms the managed opposition model's sustainability: 44 y
 
 ### Sources
 
-- [OpenSecrets: Dick Durbin campaign finance summary](https://www.opensecrets.org/members-of-congress/dick-durbin/summary?cid=N00004981) (Tier 1)
-- [OpenSecrets: Dick Durbin career industries](https://www.opensecrets.org/members-of-congress/dick-durbin/industries?cid=N00004981&cycle=CAREER) (Tier 1)
-- [OpenSecrets: Dick Durbin career contributors](https://www.opensecrets.org/members-of-congress/dick-durbin/contributors?cid=N00004981&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Dick Durbin campaign finance summary](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded) (Tier 1)
+- [OpenSecrets: Dick Durbin career industries](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded) (Tier 1)
+- [OpenSecrets: Dick Durbin career contributors](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded) (Tier 1)
 - [FEC: Richard J. Durbin candidate overview](https://www.fec.gov/data/candidate/S6IL00151/) (Tier 1)
 - [Senate Judiciary Committee: Durbin celebrates 235 federal judges confirmed during Biden administration](https://www.judiciary.senate.gov/press/dem/releases/durbin-celebrates-235-federal-judges-confirmed-during-the-biden-harris-administration) (Tier 1)
 - [PBS NewsHour: Senate confirms 235th federal judge under Biden](https://www.pbs.org/newshour/politics/senate-confirms-235th-judge-under-bidens-presidency-beating-trumps-first-term-tally) (Tier 2)

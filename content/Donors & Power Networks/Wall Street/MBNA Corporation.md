@@ -38,7 +38,7 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 
 ### Sources
 
-- [OpenSecrets: Joe Biden career donors - MBNA](https://www.opensecrets.org/members-of-congress/joe-biden/contributors?cid=N00001669) (Tier 1)
+- [OpenSecrets: Joe Biden career donors - MBNA](https://www.fec.gov/data/candidate/P60012143/) (Tier 1)
 - [Congress.gov: Bankruptcy Abuse Prevention Act S. 256](https://www.congress.gov/bill/109th-congress/senate-bill/256) (Tier 1)
 - [Ballotpedia: 2005 Bankruptcy Act](https://ballotpedia.org/MBNA_Corporation) (Tier 3)
 

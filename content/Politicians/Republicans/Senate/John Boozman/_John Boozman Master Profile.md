@@ -132,8 +132,8 @@ This is the Arkansas agricultural-industrial complex made senator. Boozman doesn
 
 ### Sources
 
-- [OpenSecrets: John Boozman donor profile](https://www.opensecrets.org/members-of-congress/john-boozman/summary?cid=N00013873) (Tier 1)
-- [OpenSecrets: John Boozman contributors](https://www.opensecrets.org/members-of-congress/john-boozman/contributors?cid=N00013873) (Tier 1)
+- [OpenSecrets: John Boozman donor profile](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1)
+- [OpenSecrets: John Boozman contributors](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1)
 - [Senate.gov: John Boozman biography](https://www.boozman.senate.gov/public/index.cfm/biography) (Tier 1)
 - [Senate.gov: Boozman agriculture page](https://www.boozman.senate.gov/public/index.cfm/agriculture_1) (Tier 1)
 - [Congress.gov: John Boozman](https://www.congress.gov/member/john-boozman/B001236) (Tier 1)

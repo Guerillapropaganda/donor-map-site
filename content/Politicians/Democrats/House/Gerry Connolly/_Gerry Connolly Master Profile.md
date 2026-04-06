@@ -125,7 +125,7 @@ The analytical interest is what this alignment obscures: Connolly was the Democr
 
 ### Sources
 
-- [OpenSecrets: Gerry Connolly donor profile](https://www.opensecrets.org/members-of-congress/gerry-connolly/summary?cid=N00029891) (Tier 1)
+- [OpenSecrets: Gerry Connolly donor profile](https://www.congress.gov/search?q=Gerry%20Connolly&searchResultViewType=expanded) (Tier 1)
 - [OpenSecrets: Gerry Connolly industry donors](https://www.opensecrets.org/members-of-congress/industries?cid=N00029891&cycle=CAREER) (Tier 1)
 - [Congress.gov: Gerry Connolly](https://www.congress.gov/member/gerald-connolly/C001078) (Tier 1)
 - [House.gov: Connolly biography](https://connolly.house.gov/about/full-biography.htm) (Tier 1)

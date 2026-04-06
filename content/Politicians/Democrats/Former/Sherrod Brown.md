@@ -74,13 +74,13 @@ Brown's response was muted. He had no equivalent funding mechanism. Labor unions
 
 ### Sources
 
-- [OpenSecrets: Sherrod Brown campaign finance summary](https://www.opensecrets.org/members-of-congress/sherrod-brown/summary?cid=N00003535) (Tier 1)
+- [OpenSecrets: Sherrod Brown campaign finance summary](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
 - [OpenSecrets: Victory Now for Sherrod Brown donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/victory-now-for-sherrod-brown/C00846196/2024/donors) (Tier 1)
 - [WOSU Public Media: Crypto spent millions to defeat Sherrod Brown and elect allies](https://www.wosu.org/politics-government/2025-10-13/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026) (Tier 2)
 - [CNBC: Bitcoiners celebrate as Bernie Moreno ousts Sherrod Brown](https://www.cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html) (Tier 2)
 - [Common Dreams: Crypto Industry's $40 Million Defeat of Pro-Worker Sherrod Brown](https://www.commondreams.org/news/sherrod-brown-crypto) (Tier 3)
 - [AFL-CIO Scorecard: Sherrod Brown labor voting record](https://aflcio.org/scorecard/legislators/sherrod-brown) (Tier 1)
-- [OpenSecrets: Sherrod Brown industries](https://www.opensecrets.org/members-of-congress/sherrod-brown/industries?cid=N00003535&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Sherrod Brown industries](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
 
 profile-status:: ready ready
 

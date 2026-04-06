@@ -36,7 +36,7 @@ Virginia Foxx. Republican, North Carolina's 5th District. Chair of the House Edu
 
 Net worth: $3.4–$10.5 million (2023 financial disclosure). Age 82 (born 1943). Ph.D. from UNC Greensboro. Now in her 11th term.
 
-- [OpenSecrets: Virginia Foxx campaign finance summary](https://www.opensecrets.org/members-of-congress/virginia-foxx/summary?cid=N00026166) (Tier 1)
+- [OpenSecrets: Virginia Foxx campaign finance summary](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
 - [FEC: Virginia Ann Foxx candidate overview](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
 
 ---
@@ -85,7 +85,7 @@ McDonald's, Lowe's, Deere & Company, Discover Financial Services, Caterpillar, A
 - 36.72% PAC contributions
 - 2.23% small individual contributions
 
-- [OpenSecrets: Virginia Foxx contributors](https://www.opensecrets.org/members-of-congress/virginia-foxx/contributors?cid=N00026166&cycle=2020&recs=100) (Tier 1)
+- [OpenSecrets: Virginia Foxx contributors](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
 
 ---
 
@@ -164,7 +164,7 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 
 ### Sources
 
-- [OpenSecrets: Virginia Foxx campaign finance summary](https://www.opensecrets.org/members-of-congress/virginia-foxx/summary?cid=N00026166) (Tier 1)
+- [OpenSecrets: Virginia Foxx campaign finance summary](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
 - [FEC: Virginia Ann Foxx candidate overview](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
 - [House Education and Workforce Committee: Full committee membership](https://edworkforce.house.gov/committee/fullcommittee.htm) (Tier 1)
 - [EdWorkforce Committee: Chair Foxx releases new report on student debt](https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=412129) (Tier 1)

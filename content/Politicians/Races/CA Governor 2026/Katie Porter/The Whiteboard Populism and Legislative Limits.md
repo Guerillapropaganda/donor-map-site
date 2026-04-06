@@ -43,7 +43,7 @@ The pattern is consistent: viral moment → media coverage → small-dollar fund
 
 ### Sources
 
-- [OpenSecrets: Katie Porter donor profile](https://www.opensecrets.org/members-of-congress/katie-porter/summary?cid=N00042308) (Tier 1)
+- [OpenSecrets: Katie Porter donor profile](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded) (Tier 1)
 - [Congress.gov: Katie Porter member page](https://www.congress.gov/member/katie-porter/P000618) (Tier 1)
 - [Ballotpedia: Katie Porter](https://ballotpedia.org/Katie_Porter) (Tier 3)
 

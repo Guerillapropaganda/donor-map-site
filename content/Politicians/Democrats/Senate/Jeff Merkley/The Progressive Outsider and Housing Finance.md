@@ -34,7 +34,7 @@ Merkley's housing advocacy includes the most aggressive affordable housing propo
 
 ### Sources
 
-- [OpenSecrets: Jeff Merkley donor profile](https://www.opensecrets.org/members-of-congress/jeff-merkley/summary?cid=N00029303) (Tier 1)
+- [OpenSecrets: Jeff Merkley donor profile](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1)
 - [Congress.gov: Financial Reform — Overview of the Volcker Rule (CRS Report)](https://www.congress.gov/crs-product/IF10923) (Tier 1)
 - [Ballotpedia: Jeff Merkley](https://ballotpedia.org/Jeff_Merkley) (Tier 3)
 

@@ -62,7 +62,7 @@ California alone ($13.4M) contributed 73% more than Georgia ($8.7M). This invers
 ### The Industry Breakdown: Tech, Entertainment, Healthcare, Finance
 
 ### Leading Donor Industries (2022):
-- TV/Movies/Music: ~$1 million (led all candidates in this category) - [OpenSecrets: Warnock 2022 Industries](https://www.opensecrets.org/members-of-congress/raphael-warnock/industries?cid=N00046489&cycle=2022) (Tier 1)
+- TV/Movies/Music: ~$1 million (led all candidates in this category) - [OpenSecrets: Warnock 2022 Industries](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
 - Healthcare/Pharma: Significant (specific figure in FEC database)
 - Tech: Significant via California and Massachusetts donors
 - Finance: Significant from New York and Texas donors
@@ -91,7 +91,7 @@ The 2020 special election began with grassroots small-dollar donors dominant, th
 ### Small-Dollar Donors: The Narrative vs. The Reality
 
 **2020:** Grassroots small-dollar donors dominated early cycle before mega-donor surge
-**2022:** Small-dollar donors: 48% of total - [OpenSecrets: Warnock 2022 Summary](https://www.opensecrets.org/members-of-congress/raphael-warnock/summary?cid=N00046489) (Tier 1)
+**2022:** Small-dollar donors: 48% of total - [OpenSecrets: Warnock 2022 Summary](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
 
 A 48% small-dollar share looks substantial. In context, it's a declining share. Warnock's campaign narrative (particularly in 2020) emphasized grassroots "everyday people" funding. By 2022, the framing persisted while the composition shifted. This is not fraud—the data is in FEC filings for anyone to read. It's a simple gap between narrative and substance.
 
@@ -164,8 +164,8 @@ The $170 million combined 2020–2022 fundraising, with 95% coming from outside 
 
 ### Sources
 
-- [OpenSecrets: Raphael Warnock Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/raphael-warnock/summary?cid=N00046489) (Tier 1)
+- [OpenSecrets: Raphael Warnock Campaign Finance Summary](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
 - [FEC: Raphael Warnock Candidate Profile](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
-- [OpenSecrets: Raphael Warnock 2022 Industries](https://www.opensecrets.org/members-of-congress/raphael-warnock/industries?cid=N00046489&cycle=2022) (Tier 1)
+- [OpenSecrets: Raphael Warnock 2022 Industries](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
 - [Newsweek: Raphael Warnock's Campaign Cash Is Coming From Everywhere But Georgia](https://www.newsweek.com/raphael-warnocks-campaign-cash-coming-everywhere-georgia-1752452) (Tier 2)
 - [Yahoo: Sen. Raphael Warnock Gets 73% More Campaign Contributions From California Donors Than Georgia](https://www.yahoo.com/entertainment/sen-raphael-warnock-gets-73-225439165.html) (Tier 2)

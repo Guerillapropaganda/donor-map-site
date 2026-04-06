@@ -127,7 +127,7 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 
 ### Sources
 
-- [OpenSecrets: Zeldin congressional fundraising](https://www.opensecrets.org/members-of-congress/lee-zeldin/summary?cid=N00029404) (Tier 1)
+- [OpenSecrets: Zeldin congressional fundraising](https://www.fec.gov/data/candidate/H8NY01148/) (Tier 1)
 - [E&E News: EPA deregulatory actions and Zeldin consulting fees](https://www.eenews.net/articles/epas-zeldin-emerges-as-project-2025-frontman/) (Tier 2)
 - [CBS News: EPA rollbacks health effects analysis](https://www.cbsnews.com/news/epa-rollback-3-ways-affect-americans-health/) (Tier 2)
 - [Rolling Stone: Zeldin paid op-eds and secret clients](https://www.rollingstone.com/politics/politics-news/lee-zeldin-trump-epa-op-eds-1235233073/) (Tier 2)

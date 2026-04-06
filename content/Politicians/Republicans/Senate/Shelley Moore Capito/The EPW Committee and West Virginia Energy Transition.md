@@ -35,7 +35,7 @@ Capito's most significant legislative engagement was the 2021 infrastructure neg
 ### Sources
 
 - [Congress.gov: Shelley Moore Capito member profile](https://www.congress.gov/member/shelley-moore-capito/C001047) (Tier 1)
-- [OpenSecrets: Shelley Moore Capito campaign finance summary](https://www.opensecrets.org/members-of-congress/shelley-moore-capito/summary?cid=N00009771) (Tier 1)
+- [OpenSecrets: Shelley Moore Capito campaign finance summary](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
 - [Ballotpedia: Shelley Moore Capito](https://ballotpedia.org/Shelley_Moore_Capito) (Tier 3)
 
 content-readiness:: ready

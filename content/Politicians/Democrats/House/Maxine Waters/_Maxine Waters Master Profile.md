@@ -133,7 +133,7 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 
 ### Sources
 
-- [OpenSecrets: Maxine Waters donor profile](https://www.opensecrets.org/members-of-congress/maxine-waters/summary?cid=N00006690) (Tier 1)
+- [OpenSecrets: Maxine Waters donor profile](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1)
 - [FEC: Maxine Waters candidate profile](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1)
 - [House Ethics Committee Report 112-690: Waters investigation](https://www.congress.gov/committee-report/112th-congress/house-report/690/1) (Tier 1)
 - [ProPublica: Read the Ethics Findings for Rep. Maxine Waters](https://www.propublica.org/article/read-the-ethics-findings-for-rep-maxine-waters) (Tier 2)

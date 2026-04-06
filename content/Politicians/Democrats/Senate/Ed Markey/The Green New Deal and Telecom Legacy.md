@@ -110,9 +110,9 @@ The class function Markey performs: legitimize achievable progressive policy (IR
 
 ### Sources
 
-- [OpenSecrets: Ed Markey donor profile summary](https://www.opensecrets.org/members-of-congress/ed-markey/summary?cid=N00000270) (Tier 1)
-- [OpenSecrets: Ed Markey top industries (career)](https://www.opensecrets.org/members-of-congress/ed-markey/industries?cid=N00000270&cycle=career) (Tier 1)
-- [OpenSecrets: Ed Markey top contributors (career)](https://www.opensecrets.org/members-of-congress/ed-markey/contributors?cid=N00000270&cycle=career) (Tier 1)
+- [OpenSecrets: Ed Markey donor profile summary](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1)
+- [OpenSecrets: Ed Markey top industries (career)](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1)
+- [OpenSecrets: Ed Markey top contributors (career)](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1)
 - [Congress.gov: Green New Deal resolution (H.Res. 109, 116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/109) (Tier 1)
 - [Senator Markey official: Telecommunications, the Internet & Privacy priorities](https://www.markey.senate.gov/priorities/telecommunications-the-internet-and-privacy) (Tier 1)
 - [WBUR: Markey's Top Legislative Accomplishment, Largely Unexamined In Senate Race, Yields Mixed Results](https://www.wbur.org/news/2013/06/24/markey-telecommunications-act) (Tier 2)

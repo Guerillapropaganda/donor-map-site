@@ -37,7 +37,7 @@ The pattern revealed how elite university governance actually works: when congre
 ### Sources
 
 - [Congress.gov: Antisemitism on College Campuses hearing, 118th Congress](https://www.congress.gov/event/118th-congress/house-event/117305) (Tier 1)
-- [OpenSecrets: Elise Stefanik donor profile](https://www.opensecrets.org/members-of-congress/elise-stefanik/summary?cid=N00035523) (Tier 1)
+- [OpenSecrets: Elise Stefanik donor profile](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1)
 - [Ballotpedia: Elise Stefanik](https://ballotpedia.org/Elise_Stefanik) (Tier 3)
 
 content-readiness:: ready

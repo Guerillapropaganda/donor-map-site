@@ -41,7 +41,7 @@ Before his climate rebrand, Markey was primarily known as a telecom expert — h
 ### Sources
 
 - [Congress.gov: Ed Markey member profile](https://www.congress.gov/member/edward-markey/M000133) (Tier 1)
-- [OpenSecrets: Ed Markey campaign finance summary](https://www.opensecrets.org/members-of-congress/ed-markey/summary?cid=N00000270) (Tier 1)
+- [OpenSecrets: Ed Markey campaign finance summary](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1)
 - [Congress.gov: Green New Deal Resolution](https://www.congress.gov/bill/116th-congress/senate-resolution/59) (Tier 1)
 - [Washington Post: Green New Deal unveiling sparks immediate Democratic divisions](https://www.washingtonpost.com/climate-environment/2019/02/07/green-new-deal-sparks-immediate-democratic-divisions/) (Tier 2)
 - [Ballotpedia: Ed Markey](https://ballotpedia.org/Ed_Markey) (Tier 3)

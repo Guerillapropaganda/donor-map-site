@@ -156,7 +156,7 @@ The restaurant was never a successful business — it was a brand-building exerc
 
 ### Sources
 
-- [OpenSecrets: Lauren Boebert campaign finance summary](https://www.opensecrets.org/members-of-congress/lauren-boebert/summary?cid=N00045983) (Tier 1)
+- [OpenSecrets: Lauren Boebert campaign finance summary](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1)
 - [FEC: Lauren Boebert committee filings](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1)
 - [FEC: MUR 7876 — mileage reimbursement complaint](https://www.fec.gov/files/legal/murs/7876/7876_12.pdf) (Tier 1)
 - [Congress.gov: Lauren Boebert member profile](https://www.congress.gov/member/lauren-boebert/B000825) (Tier 1)

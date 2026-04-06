@@ -133,7 +133,7 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 
 ### Sources
 
-- [OpenSecrets: Bill Cassidy campaign finance summary](https://www.opensecrets.org/members-of-congress/bill-cassidy/summary?cid=N00030245) (Tier 1)
+- [OpenSecrets: Bill Cassidy campaign finance summary](https://www.congress.gov/search?q=Bill%20Cassidy&searchResultViewType=expanded) (Tier 1)
 - [FEC: Bill Cassidy candidate profile](https://www.fec.gov/data/candidate/S4LA00107/) (Tier 1)
 - [U.S. Senator Bill Cassidy official statement on impeachment conviction vote](https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-votes-to-convict-president-donald-trump/) (Tier 1)
 - [Rolling Stone: Louisiana GOP Censures Sen. Cassidy Who 'Voted to Convict President Trump Because He Is Guilty'](https://www.rollingstone.com/politics/politics-news/louisiana-gop-censures-cassidy-trump-impeachment-vote-1128332/) (Tier 2)

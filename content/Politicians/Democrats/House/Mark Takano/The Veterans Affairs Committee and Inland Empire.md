@@ -35,7 +35,7 @@ The Inland Empire — Riverside and San Bernardino counties — is one of Califo
 ### Sources
 
 - [Congress.gov: Mark Takano member profile](https://www.congress.gov/member/mark-takano/T000472) (Tier 1)
-- [OpenSecrets: Mark Takano campaign finance summary](https://www.opensecrets.org/members-of-congress/mark-takano/summary?cid=N00033510) (Tier 1)
+- [OpenSecrets: Mark Takano campaign finance summary](https://www.fec.gov/data/candidate/H2CA43245/) (Tier 1)
 - [Ballotpedia: Mark Takano](https://ballotpedia.org/Mark_Takano) (Tier 3)
 
 content-readiness:: ready

@@ -164,6 +164,6 @@ The strategy worked until it didn't. By 2022, Arizona Democrats understood the e
 - [CNN: Sinema censured by Arizona Democratic Party over filibuster stance](https://www.cnn.com/2022/01/22/politics/sinema-censured-arizona-democratic-party/index.html) (Tier 2)
 - [Washington Post: Arizona Democratic Party votes to censure Sinema](https://www.washingtonpost.com/politics/2022/01/22/arizona-democrats-censure-sinema/) (Tier 2)
 - [NBC News: Arizona Democratic Party board votes to censure Sinema](https://www.nbcnews.com/politics/congress/arizona-democratic-party-board-votes-censure-sinema-after-pro-filibuster-n1287890) (Tier 2)
-- [OpenSecrets: Kyrsten Sinema Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/kyrsten-sinema/summary?cid=N00033983) (Tier 1)
-- [OpenSecrets: Kyrsten Sinema PAC Contributions](https://www.opensecrets.org/members-of-congress/kyrsten-sinema/industries?cid=N00033983&cycle=2022) (Tier 1)
+- [OpenSecrets: Kyrsten Sinema Campaign Finance Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1)
+- [OpenSecrets: Kyrsten Sinema PAC Contributions](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1)
 - [VoteSmart: Kyrsten Sinema Key Votes](https://justfacts.votesmart.org/candidate/key-votes/28338/kyrsten-sinema) (Tier 2)

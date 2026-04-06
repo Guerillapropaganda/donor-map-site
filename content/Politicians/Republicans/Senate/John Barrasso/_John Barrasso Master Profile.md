@@ -115,9 +115,9 @@ Barrasso's donor-class function is to serve as the fossil fuel industry's highes
 
 ### Sources
 
-- [OpenSecrets: John Barrasso campaign finance summary](https://www.opensecrets.org/members-of-congress/john-a-barrasso/summary?cid=N00006236) (Tier 1)
-- [OpenSecrets: Barrasso career industry contributions](https://www.opensecrets.org/members-of-congress/john-barrasso/industries?cid=N00006236&cycle=CAREER) (Tier 1)
-- [OpenSecrets: Barrasso oil & gas PAC contributions](https://www.opensecrets.org/members-of-congress/john-a-barrasso/pacs?cat=E01&cid=N00006236&cycle=2018&seclong=Energy+%26+Natural+Resources&sector=E) (Tier 1)
+- [OpenSecrets: John Barrasso campaign finance summary](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1)
+- [OpenSecrets: Barrasso career industry contributions](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1)
+- [OpenSecrets: Barrasso oil & gas PAC contributions](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1)
 - [Ballotpedia: John Barrasso](https://ballotpedia.org/John_Barrasso) (Tier 3)
 - [Senate Republican Conference: Barrasso Elected Majority Whip for 119th Congress](https://www.republican.senate.gov/2024/11/13/barrasso-elected-as-majority-whip-for-the-119th-congress/) (Tier 1)
 - [Accountable.us: $8.8M in Oil Contributions Fueling GOP Climate Opposition](https://accountable.us/new-research-highlights-the-nearly-8-8m-in-oil-contributions-fueling-gop-smears-of-climate-champion-haaland/) (Tier 2)

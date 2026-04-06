@@ -142,8 +142,8 @@ Roy and three other fiscal conservatives ultimately changed their votes to "pres
 
 ### Sources
 
-- [OpenSecrets: Chip Roy campaign finance summary](https://www.opensecrets.org/members-of-congress/chip-roy/summary?cid=N00042268) (Tier 1)
-- [OpenSecrets: Chip Roy career industries](https://www.opensecrets.org/members-of-congress/chip-roy/industries?cid=N00042268&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Chip Roy campaign finance summary](https://www.fec.gov/data/candidate/H8TX21307/) (Tier 1)
+- [OpenSecrets: Chip Roy career industries](https://www.fec.gov/data/candidate/H8TX21307/) (Tier 1)
 - [Congress.gov: Chip Roy member profile](https://www.congress.gov/member/chip-roy/R000614) (Tier 1)
 - [Roy.house.gov: Statement on OBBBA advancement](https://roy.house.gov/media/press-releases/rep-roy-issues-statement-advancement-one-big-beautiful-bill-house-budget) (Tier 1)
 - [CNN: Trump pushing Republicans to fall in line — Chip Roy could stand in the way](https://www.cnn.com/2025/05/21/politics/chip-roy-house-budget-bill) (Tier 2)

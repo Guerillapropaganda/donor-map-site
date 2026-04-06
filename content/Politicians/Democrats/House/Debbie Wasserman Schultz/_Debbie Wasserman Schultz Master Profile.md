@@ -117,7 +117,7 @@ The sugar program survives because both parties are funded by the same donors. W
 
 ### Sources
 
-- [OpenSecrets: Debbie Wasserman Schultz campaign finance summary](https://www.opensecrets.org/members-of-congress/debbie-wasserman-schultz/summary?cid=N00026106) (Tier 1)
+- [OpenSecrets: Debbie Wasserman Schultz campaign finance summary](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
 - [NBC News: DNC Chief Wasserman Schultz stepping aside in wake of scandal](https://www.nbcnews.com/storyline/2016-conventions/democratic-national-committee-chief-stepping-aside-after-convention-n615826) (Tier 2)
 - [Wikipedia: Debbie Wasserman Schultz](https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz) (Tier 3)
 

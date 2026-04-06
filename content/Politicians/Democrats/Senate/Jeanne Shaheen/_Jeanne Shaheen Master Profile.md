@@ -116,7 +116,7 @@ Shaheen is the defense industry's ideal Democratic senator — a three-committee
 
 ### Sources
 
-- [OpenSecrets: Jeanne Shaheen Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/jeanne-shaheen/summary?cid=N00024790) (Tier 1)
+- [OpenSecrets: Jeanne Shaheen Campaign Finance Summary](https://www.fec.gov/data/candidate/S0NH00219/) (Tier 1)
 - [FEC: Jeanne Shaheen for Senate (S0NH00219)](https://www.fec.gov/data/candidate/S0NH00219/) (Tier 1)
 - [The American Prospect: Jeanne Shaheen, Defense Contractors, and the Afghanistan Withdrawal](https://prospect.org/2021/05/12/jeanne-shaheen-defense-contractors-afghanistan-withdrawal/) (Tier 2)
 - [Senate Foreign Relations Committee: About the Ranking Member](https://www.foreign.senate.gov/about/ranking) (Tier 1)

@@ -35,7 +35,7 @@ Lofgren's district contains both Silicon Valley tech campuses and large Latino i
 ### Sources
 
 - [Congress.gov: Zoe Lofgren member profile](https://www.congress.gov/member/zoe-lofgren/L000397) (Tier 1)
-- [OpenSecrets: Zoe Lofgren campaign finance summary](https://www.opensecrets.org/members-of-congress/zoe-lofgren/summary?cid=N00007479) (Tier 1)
+- [OpenSecrets: Zoe Lofgren campaign finance summary](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1)
 - [Ballotpedia: Zoe Lofgren](https://ballotpedia.org/Zoe_Lofgren) (Tier 3)
 
 content-readiness:: ready

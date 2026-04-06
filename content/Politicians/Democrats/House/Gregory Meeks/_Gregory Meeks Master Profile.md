@@ -159,7 +159,7 @@ Ponzi schemer Allen Stanford asked Meeks to meet with Hugo Chávez on his behalf
 
 ### Sources
 
-- [OpenSecrets: Gregory Meeks campaign finance summary](https://www.opensecrets.org/members-of-congress/gregory-meeks/summary?cid=N00001171) (Tier 1)
+- [OpenSecrets: Gregory Meeks campaign finance summary](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)
 - [FEC: Gregory Meeks candidate filings](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)
 - [OpenSecrets: Meeks Victory Fund 2024 joint fundraising committee](https://www.opensecrets.org/joint-fundraising-committees-jfcs/meeks-victory-fund-2024/C00833319/2024/summary) (Tier 1)
 - [House Ethics Committee: Statement regarding Rep. Gregory Meeks](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-regarding-representative-gregory-meeks/) (Tier 1)

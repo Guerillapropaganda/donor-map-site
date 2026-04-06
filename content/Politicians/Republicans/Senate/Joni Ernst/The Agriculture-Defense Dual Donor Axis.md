@@ -41,8 +41,8 @@ Ernst's "Squeal Award" — a monthly press release highlighting wasteful governm
 ### Sources
 
 - [Congress.gov: Joni Ernst member profile](https://www.congress.gov/member/joni-ernst/E000295) (Tier 1)
-- [OpenSecrets: Joni Ernst campaign finance summary](https://www.opensecrets.org/members-of-congress/joni-ernst/summary?cid=N00035483) (Tier 1)
-- [OpenSecrets: Joni Ernst top industries](https://www.opensecrets.org/members-of-congress/joni-ernst/industries?cid=N00035483) (Tier 1)
+- [OpenSecrets: Joni Ernst campaign finance summary](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1)
+- [OpenSecrets: Joni Ernst top industries](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1)
 - [Des Moines Register: Ernst ethanol advocacy and Koch tensions](https://web.archive.org/web/2023/https:/www.desmoinesregister.com/ernst-ethanol-koch/) (Tier 2)
 - [Ballotpedia: Joni Ernst](https://ballotpedia.org/Joni_Ernst) (Tier 3)
 

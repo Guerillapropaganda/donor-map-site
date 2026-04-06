@@ -112,7 +112,7 @@ Schatz is the Democratic Party's next power broker — Schumer's chosen successo
 
 ### Sources
 
-- [OpenSecrets: Brian Schatz Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/brian-schatz/summary?cid=N00028138) (Tier 1)
+- [OpenSecrets: Brian Schatz Campaign Finance Summary](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1)
 - [FEC: Candidate Brian Schatz (S4HI00136)](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1)
 - [The American Prospect: Brian Schatz's Signals of Comfort With Big Money](https://prospect.org/2026/03/13/brian-schatz-comfort-with-big-money/) (Tier 2)
 - [The New Republic: One Democrat Votes Against Landmark Housing Bill Even Republicans Back](https://newrepublic.com/post/207700/one-democrat-senate-votes-no-housing-bill) (Tier 2)

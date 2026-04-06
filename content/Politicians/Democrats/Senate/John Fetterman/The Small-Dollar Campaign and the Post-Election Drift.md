@@ -31,11 +31,11 @@ Fetterman's 2022 Senate campaign raised $48.5 million—a record-breaking amount
 ### The Fundraising Breakdown
 
 ### Small-Dollar Dominance (2022):
-- Donations under $200: 53% of total ($25.5M of $48.5M) - [OpenSecrets: [[_John Fetterman Master Profile|John Fetterman]] Campaign Finance](https://www.opensecrets.org/members-of-congress/john-fetterman/summary?cid=N00038201) (Tier 1)
+- Donations under $200: 53% of total ($25.5M of $48.5M) - [OpenSecrets: [[_John Fetterman Master Profile|John Fetterman]] Campaign Finance](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
 - Average donation: $27 - [Common Dreams: Bernie-esque Grassroots Fundraising](https://www.commondreams.org/news/2022/01/05/pennsylvanias-fetterman-brings-bernie-esque-grassroots-fundraising-haul-us-senate) (Tier 2)
 - Individual donors: 140,251 - [Pennsylvania Inquirer: Fetterman vs. Oz Fundraising](https://www.inquirer.com/politics/election/john-fetterman-mehmet-oz-campaign-fundraising-pennsylvania-senate-20221024.html) (Tier 2)
-- Large individual contributions ($200+): 41.20% - [OpenSecrets: Fetterman Industries](https://www.opensecrets.org/members-of-congress/john-fetterman/industries?cid=N00038201&cycle=2024) (Tier 1)
-- PAC contributions: 1.03% (minimal) - [OpenSecrets](https://www.opensecrets.org/members-of-congress/john-fetterman/summary?cid=N00038201) (Tier 1)
+- Large individual contributions ($200+): 41.20% - [OpenSecrets: Fetterman Industries](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
+- PAC contributions: 1.03% (minimal) - [OpenSecrets](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
 
 ### Merchandise & Direct Mail:
 - Online merchandise store: ~$400,000 (2021-2022)
@@ -120,7 +120,7 @@ Fetterman's trajectory reveals how working-class authenticity can function as co
 
 ### Sources
 
-- [OpenSecrets: John Fetterman Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/john-fetterman/summary?cid=N00038201) (Tier 1)
+- [OpenSecrets: John Fetterman Campaign Finance Summary](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
 - [FEC: John Fetterman Candidate Profile](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
 - [Pennsylvania Inquirer: Pa. Senate race - Fetterman, Oz campaign money sources](https://www.inquirer.com/politics/election/john-fetterman-mehmet-oz-campaign-fundraising-pennsylvania-senate-20221024.html) (Tier 2)
 - [Common Dreams: Fetterman Brings in Bernie-esque Grassroots Fundraising Haul](https://www.commondreams.org/news/2022/01/05/pennsylvanias-fetterman-brings-bernie-esque-grassroots-fundraising-haul-us-senate) (Tier 2)

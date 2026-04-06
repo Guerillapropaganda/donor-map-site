@@ -43,7 +43,7 @@ Durbin did not use his Judiciary chairmanship to pursue follow-up legislation â€
 ### Sources
 
 - [Congress.gov: Dick Durbin member profile](https://www.congress.gov/member/dick-durbin/D000563) (Tier 1)
-- [OpenSecrets: Dick Durbin campaign finance summary](https://www.opensecrets.org/members-of-congress/dick-durbin/summary?cid=N00004981) (Tier 1)
+- [OpenSecrets: Dick Durbin campaign finance summary](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded) (Tier 1)
 - [Senate Judiciary Committee: Biden judicial confirmations](https://www.judiciary.senate.gov/judicial-nominations/) (Tier 1)
 - [Congress.gov: First Step Act](https://www.congress.gov/bill/115th-congress/house-bill/5682) (Tier 1)
 - [ProPublica: Durbin and the Supreme Court ethics investigation](https://www.propublica.org/article/senate-judiciary-harlan-crow-leonard-leo-subpoenas-scotus-thomas-alito) (Tier 2)

@@ -121,7 +121,7 @@ Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015�
 
 ### Sources
 
-- [OpenSecrets: Paul Ryan donor profile](https://www.opensecrets.org/members-of-congress/paul-ryan/summary?cid=N00004357) (Tier 1)
+- [OpenSecrets: Paul Ryan donor profile](https://www.fec.gov/data/candidate/P80003353/) (Tier 1)
 - [FEC: Paul Ryan campaign finance (CID: N00004357)](https://www.fec.gov/data/candidate/H2WI01055/) (Tier 1)
 - [Center on Budget and Policy Priorities: Tax Cuts and Jobs Act deficit impact analysis](https://www.cbpp.org/sites/default/files/atoms/files/2020-10-14_tcja_deficit_impact_brief.pdf) (Tier 2)
 - [ProPublica: Paul Ryan Reading Guide — Koch network, budget policy, donor relationships](https://www.propublica.org/article/paul-ryan-reading-guide-the-best-reporting-on-the-vp-candidate) (Tier 2)

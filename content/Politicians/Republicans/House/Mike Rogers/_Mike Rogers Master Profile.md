@@ -145,8 +145,8 @@ His #1 career donor is Lockheed Martin — the company competing for the Next Ge
 
 ### Sources
 
-- [OpenSecrets: Mike Rogers donor profile](https://www.opensecrets.org/members-of-congress/mike-d-rogers/summary?cid=N00024759) (Tier 1)
-- [OpenSecrets: Mike Rogers top contributors](https://www.opensecrets.org/members-of-congress/mike-d-rogers/contributors?cid=N00024759) (Tier 1)
+- [OpenSecrets: Mike Rogers donor profile](https://www.congress.gov/search?q=Mike%20D%20Rogers&searchResultViewType=expanded) (Tier 1)
+- [OpenSecrets: Mike Rogers top contributors](https://www.congress.gov/search?q=Mike%20D%20Rogers&searchResultViewType=expanded) (Tier 1)
 - [OpenSecrets: Incoming GOP Armed Services chair top recipient of defense sector contributions](https://www.opensecrets.org/news/2022/12/incoming-gop-house-armed-services-and-defense-appropriations-chairs-top-recipients-of-defense-sector-contributions) (Tier 1)
 - [OpenSecrets: Defense sector $3.4M to HASC members (2022)](https://www.opensecrets.org/news/2022/07/defense-sector-donors-contributed-3-4-million-to-house-armed-services-committee-members-in-the-2022-election-cycle/) (Tier 1)
 - [House Armed Services Committee: Chairman Mike Rogers](https://armedservices.house.gov/about/chairman-mike-rogers.htm) (Tier 1)

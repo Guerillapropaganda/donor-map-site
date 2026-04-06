@@ -70,12 +70,12 @@ Graham's 2020 victory over Jaime Harrison by only 3.4 points (in a state Trump w
 ### Sources
 
 - [South Carolina 2026 Senate Race | Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_South_Carolina,_2026) (Tier 3)
-- [Lindsey Graham campaign finances lifetime | OpenSecrets](https://www.opensecrets.org/members-of-congress/lindsey-graham/summary?cid=N00009084) (Tier 1)
+- [Lindsey Graham campaign finances lifetime | OpenSecrets](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
 - [Lindsey Graham 2026 campaign fundraising | FEC Candidate Summary](https://www.fec.gov/data/candidate/S0SC00149/) (Tier 1)
 - [Lockheed Martin contributions to Graham | OpenSecrets Recipient Search](https://www.opensecrets.org/orgs/lockheed-martin-corp/recipients?cand=G000359) (Tier 1)
 - [Raytheon Technologies political contributions to Graham | OpenSecrets](https://www.opensecrets.org/orgs/raytheon-technologies-corp/recipients?cand=G000359) (Tier 1)
 - [Boeing Defense political spending on Graham | OpenSecrets](https://www.opensecrets.org/orgs/boeing-co/recipients?cand=G000359) (Tier 1)
-- [OpenSecrets: Lindsey Graham top industries and defense sector donors](https://www.opensecrets.org/members-of-congress/lindsey-graham/industries?cid=N00009975) (Tier 1)
+- [OpenSecrets: Lindsey Graham top industries and defense sector donors](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
 - [Graham's voting record on military spending | ProPublica Congress](https://projects.propublica.org/congress/members/S001184-lindsey-graham) *(source unavailable)* (Tier 1)
 - [Graham Senate Armed Services Committee votes analysis | Center for Responsive Politics](https://www.opensecrets.org/members-of-congress/summary?cid=N00009975) (Tier 1)
 - [Annie Andrews 2026 campaign launch and funding | South Carolina Democratic Party](https://www.scdemocrats.org/annie-andrews-2026) *(source unavailable)* (Tier 3)

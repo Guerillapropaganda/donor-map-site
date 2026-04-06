@@ -156,7 +156,7 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 
 ### Sources
 
-- [OpenSecrets: Rashida Tlaib campaign finance summary](https://www.opensecrets.org/members-of-congress/rashida-tlaib/summary?cid=N00042649) (Tier 1)
+- [OpenSecrets: Rashida Tlaib campaign finance summary](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
 - [FEC: Rashida Tlaib committee filings](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
 - [Congress.gov: Rashida Tlaib member profile](https://www.congress.gov/member/rashida-tlaib/T000481) (Tier 1)
 - [NPR: House votes to censure Rep. Rashida Tlaib](https://www.npr.org/2023/11/07/1211315549/tlaib-censure-house-israel-gaza) (Tier 2)

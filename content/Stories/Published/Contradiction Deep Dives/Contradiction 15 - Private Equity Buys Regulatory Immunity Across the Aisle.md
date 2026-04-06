@@ -66,7 +66,7 @@ Her receipts:
 | PE donations after killing the provision | $526,000+ | Post-Aug 2022 |
 | Welsh, Carson, Anderson & Stowe (two-week burst) | $47,100 | Sept 2021 |
 
-[OpenSecrets: Sinema Summary](https://www.opensecrets.org/members-of-congress/kyrsten-sinema/summary) (Tier 1), [PBS News: Sinema Received Nearly $1 Million from Wall Street](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2), [More Perfect Union: Sinema PE Donations Keep Flowing](https://perfectunion.us/sinemas-private-equity-donations-keep-flowing-after-saving-tax-loophole/) (Tier 2)
+[OpenSecrets: Sinema Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1), [PBS News: Sinema Received Nearly $1 Million from Wall Street](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2), [More Perfect Union: Sinema PE Donations Keep Flowing](https://perfectunion.us/sinemas-private-equity-donations-keep-flowing-after-saving-tax-loophole/) (Tier 2)
 
 > [!money]
 > Two days after the IRA deal was announced, Blackstone hired Michael Shapiro — [[_Chuck Schumer Master Profile|Schumer's]] son-in-law — as Managing Director of Government Affairs. [Washington Free Beacon: PE Giant Taps Schumer's Son-in-Law as Lobbyist](https://freebeacon.com/democrats/private-equity-giant-taps-schumers-son-in-law-as-lobbyist/) (Tier 2)
@@ -83,7 +83,7 @@ Apollo gave $1,398,000 and Blackstone gave $1,277,327 to Senate Finance Committe
 
 [[_Mike Crapo Master Profile|Mike Crapo]] (R-ID), Finance ranking member (now chair), runs a documented pay-for-access scheme: $15,000 "Gold Benefits Package," $10,000 "Silver," $5,000 "Bronze" — each tier offering specific numbers of one-on-one meetings with the gatekeeper of Senate tax policy. [Business Insider: Mike Crapo Senate Contribution Donation Lobbyists](https://www.businessinsider.com/mike-crapo-senate-contribution-donation-lobbyists-election-campaign-money-2021-6) (Tier 2)
 
-[[_Ron Wyden Master Profile|Ron Wyden]] (D-OR), Finance Committee chair (2021–2025), publicly championed closing carried interest — his bill with Whitehouse would have raised $63 billion. Despite chairing the committee with the power to move the bill, it never advanced to a floor vote. He received $1,487,239 from securities and investment (2019–2024). [Senate Finance Committee: Wyden Whitehouse Bill](https://www.finance.senate.gov/chairmans-news/wyden-whitehouse-bill-ensures-private-equity-moguls-pay-fair-share-in-taxes) (Tier 1), [OpenSecrets: Wyden Summary](https://www.opensecrets.org/members-of-congress/ron-wyden/summary) (Tier 1)
+[[_Ron Wyden Master Profile|Ron Wyden]] (D-OR), Finance Committee chair (2021–2025), publicly championed closing carried interest — his bill with Whitehouse would have raised $63 billion. Despite chairing the committee with the power to move the bill, it never advanced to a floor vote. He received $1,487,239 from securities and investment (2019–2024). [Senate Finance Committee: Wyden Whitehouse Bill](https://www.finance.senate.gov/chairmans-news/wyden-whitehouse-bill-ensures-private-equity-moguls-pay-fair-share-in-taxes) (Tier 1), [OpenSecrets: Wyden Summary](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1)
 
 [[_Jason Smith Master Profile|Jason Smith]] (R-MO), Ways and Means Chair, received $81,245 from KKR in 2024 — his largest individual outside donor. [OpenSecrets: KKR Recipients](https://www.opensecrets.org/orgs/kkr-co/recipients?id=D000000358) (Tier 1)
 

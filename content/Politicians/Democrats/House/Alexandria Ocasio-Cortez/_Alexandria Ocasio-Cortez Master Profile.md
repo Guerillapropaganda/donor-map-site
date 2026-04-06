@@ -56,7 +56,7 @@ Alexandria Ocasio-Cortez. Born October 13, 1989, Bronx, New York. Democrat. U.S.
 ### The Professional-Class Tension:
 
 > [!contradiction]
-> AOC's no-corporate-PAC pledge is structurally real. But the industry breakdown of her individual contributions reveals a professional-class donor base, not a working-class one. Finance, Insurance & Real Estate: $5,287,892 across all cycles — the second-largest sector. Securities & Investment: $2,668,832 (campaign + leadership PAC combined). Lawyers/Law Firms: $2,591,518. Communications/Electronics (tech): $3,659,097. TV/Movies/Music: $984,728. Education: $2,640,836. Her top contributing employers are Google ($161K), NYC Dept of Education ($67K), Amazon ($63K), Apple ($62K), NYU ($47K). These are individual employees giving $20–$200 — not PAC money — but they are overwhelmingly educated professionals in coastal metros. 99%+ of individual contributions come from outside NY-14. Only 6% of 2018 itemized donations came from within her district. The small-dollar model is clean. The donor class it draws from is professional, not working-class. [OpenSecrets Industries 2024](https://www.opensecrets.org/members-of-congress/alexandria-ocasio-cortez/industries?cycle=2024) (Tier 1), [New York Post: Celebrity Donors](https://nypost.com/2025/11/15/us-news/aoc-trumpets-small-donors-but-celebs-like-jane-fonda-ben-affleck-wanda-sykes-and-melanie-griffith-give-big/) (Tier 2)
+> AOC's no-corporate-PAC pledge is structurally real. But the industry breakdown of her individual contributions reveals a professional-class donor base, not a working-class one. Finance, Insurance & Real Estate: $5,287,892 across all cycles — the second-largest sector. Securities & Investment: $2,668,832 (campaign + leadership PAC combined). Lawyers/Law Firms: $2,591,518. Communications/Electronics (tech): $3,659,097. TV/Movies/Music: $984,728. Education: $2,640,836. Her top contributing employers are Google ($161K), NYC Dept of Education ($67K), Amazon ($63K), Apple ($62K), NYU ($47K). These are individual employees giving $20–$200 — not PAC money — but they are overwhelmingly educated professionals in coastal metros. 99%+ of individual contributions come from outside NY-14. Only 6% of 2018 itemized donations came from within her district. The small-dollar model is clean. The donor class it draws from is professional, not working-class. [OpenSecrets Industries 2024](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1), [New York Post: Celebrity Donors](https://nypost.com/2025/11/15/us-news/aoc-trumpets-small-donors-but-celebs-like-jane-fonda-ben-affleck-wanda-sykes-and-melanie-griffith-give-big/) (Tier 2)
 
 ### What She Refuses:
 - Corporate PAC money — explicitly and consistently
@@ -142,9 +142,9 @@ Without corporate donor dependency, AOC's policy positions are structurally unco
 ### Sources
 
 - [FEC: Alexandria Ocasio-Cortez campaign finance filings](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
-- [OpenSecrets: Alexandria Ocasio-Cortez donor profile](https://www.opensecrets.org/members-of-congress/alexandria-ocasio-cortez/summary?cid=N00041162) (Tier 1)
-- [OpenSecrets: AOC Industries 2024](https://www.opensecrets.org/members-of-congress/alexandria-ocasio-cortez/industries?cycle=2024) (Tier 1)
-- [OpenSecrets: AOC Industries 2020](https://www.opensecrets.org/members-of-congress/alexandria-ocasio-cortez/industries?cycle=2020) (Tier 1)
+- [OpenSecrets: Alexandria Ocasio-Cortez donor profile](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
+- [OpenSecrets: AOC Industries 2024](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
+- [OpenSecrets: AOC Industries 2020](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
 - [OpenSecrets: AOC Industries Combined (All Cycles)](https://www.opensecrets.org/members-of-congress/industries?cycle=2024&type=C) (Tier 1)
 - [OpenSecrets: Courage to Change PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/courage-to-change/C00692202/summary/2024) (Tier 1)
 - [FEC: Courage to Change PAC C00692202](https://www.fec.gov/data/committee/C00692202/) (Tier 1)
@@ -217,7 +217,7 @@ The villain framing is genuine (she does oppose AIPAC and corporate money) and f
 | 2023–2024 | $15,160,100 | 69.93% ($10.6M) | 28.13% ($4.3M) | 0.29% ($45K) | $3,734,646 |
 | 2025–2026 (partial) | $23,658,045 | ~71% est. | ~28% est. | <0.1% | $13,400,000 |
 
-Sources: [FEC: Ocasio-Cortez](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1), [OpenSecrets 2024](https://www.opensecrets.org/members-of-congress/alexandria-ocasio-cortez/summary) (Tier 1), [Quiver Quantitative Q4 2025](https://www.quiverquant.com/news/Fundraising+Update:+Representative+Alexandria+Ocasio-Cortez+just+disclosed+$3.7M+of+new+fundraising) (Tier 2)
+Sources: [FEC: Ocasio-Cortez](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1), [OpenSecrets 2024](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1), [Quiver Quantitative Q4 2025](https://www.quiverquant.com/news/Fundraising+Update:+Representative+Alexandria+Ocasio-Cortez+just+disclosed+$3.7M+of+new+fundraising) (Tier 2)
 
 > [!money]
 > The pattern is institutional not financial: AOC's funding model has remained consistent (small-dollar, no corporate PAC money). Her institutional position has shifted (insurgent → party player → leadership track). The small-dollar base hasn't abandoned her; it has moved with her. This is the vault's central question inverted: where typical politicians' rhetoric changes as donor funding shifts, AOC's rhetoric has stayed consistent while her institutional role changed. The small-dollar donors have bankrolled her journey from insurgent to institutionalist.

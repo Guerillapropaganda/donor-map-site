@@ -35,7 +35,7 @@ Duckworth reliably votes for National Defense Authorization Act (NDAA) packages 
 ### Sources
 
 - [Congress.gov: Tammy Duckworth Armed Services Committee](https://www.congress.gov/member/tammy-duckworth/D000622) (Tier 1)
-- [OpenSecrets: Tammy Duckworth defense sector contributions](https://www.opensecrets.org/members-of-congress/tammy-duckworth/industries?cid=N00027860) (Tier 1)
+- [OpenSecrets: Tammy Duckworth defense sector contributions](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1)
 - [Ballotpedia: Tammy Duckworth](https://ballotpedia.org/Tammy_Duckworth) (Tier 3)
 
 content-readiness:: ready

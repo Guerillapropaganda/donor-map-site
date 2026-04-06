@@ -112,7 +112,7 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 
 ### Sources
 
-- [OpenSecrets: Hawley career donors, 2018 outside spending, 2024 cycle](https://www.opensecrets.org/members-of-congress/josh-hawley/summary?cid=N00041620) (Tier 1)
+- [OpenSecrets: Hawley career donors, 2018 outside spending, 2024 cycle](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1)
 - [Salon/Detroit News: post-J6 fundraising boom](https://www.salon.com/2021/03/18/josh-hawley-marjorie-taylor-greene-report-record-donations-as-gop-sees-post-riot-financial-boom/) (Tier 2)
 - [STLPR: 2018 outside money analysis](https://www.stlpr.org/2019-04-17/dark-money-groups-spent-millions-to-influence-missouri-voters-report-finds) (Tier 2)
 - [Missouri Independent: out-of-state donor analysis](https://missouriindependent.com/2023/10/23/hawley-kunce-draw-heavily-on-donors-outside-missouri-to-fuel-u-s-senate-campaigns/) (Tier 2)

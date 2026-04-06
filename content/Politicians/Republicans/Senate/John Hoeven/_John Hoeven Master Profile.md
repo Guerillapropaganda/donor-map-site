@@ -119,7 +119,7 @@ Hoeven's donor-class function is to serve as the intersection point where North 
 
 ### Sources
 
-- [OpenSecrets: John Hoeven campaign finance summary](https://www.opensecrets.org/members-of-congress/john-hoeven/summary?cid=N00031688) (Tier 1)
+- [OpenSecrets: John Hoeven campaign finance summary](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1)
 - [FEC: John Hoeven candidate overview](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1)
 - [Congress.gov: John Hoeven committee assignments](https://www.congress.gov/member/john-hoeven/H001061/committees) (Tier 1)
 - [Hoeven.senate.gov: Keystone XL pipeline legislation](https://www.hoeven.senate.gov/news/news-releases/hoeven-baucus-bipartisan-group-of-senators-introduce-legislation-to-approve-the-keystone-xl-pipeline) (Tier 1)

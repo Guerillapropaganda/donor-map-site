@@ -96,7 +96,7 @@ The donor class controls the policy (Gaza escalation) *and* the opposition (prog
 
 ---
 
-- [OpenSecrets: Ritchie Torres campaign finance summary](https://www.opensecrets.org/members-of-congress/ritchie-torres/summary?cid=N00044346) (Tier 1)
+- [OpenSecrets: Ritchie Torres campaign finance summary](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1)
 - [AIPAC Tracker: Torres AIPAC donations $683,006 + Israel Lobby Total $1,528,002](https://x.com/TrackAIPAC/status/1892365341709279628?lang=en) (Tier 2)
 - [AIPAC Tracker: Torres cumulative Israel lobby $1.57M](https://x.com/TrackAIPAC/status/1786972327953285503?lang=en) (Tier 2)
 - [Factually: AIPAC funding congressional candidates 2024](https://factually.co/fact-checks/politics/largest-aipac-udp-donations-congressional-candidates-2024-by-state-c64777) (Tier 2)

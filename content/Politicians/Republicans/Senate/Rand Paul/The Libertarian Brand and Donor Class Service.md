@@ -36,7 +36,7 @@ The pattern: Paul's libertarianism is deployed against government functions that
 
 ### Sources
 
-- [OpenSecrets: Rand Paul donor profile](https://www.opensecrets.org/members-of-congress/rand-paul/summary?cid=N00030836) (Tier 1)
+- [OpenSecrets: Rand Paul donor profile](https://www.fec.gov/data/candidate/H4OH19044/) (Tier 1)
 - [Congress.gov: Rand Paul voting record](https://www.congress.gov/member/rand-paul/P000603) (Tier 1)
 - [Senate.gov: Paul filibuster records](https://www.senate.gov/senators/senators-contact.htm) (Tier 1)
 - [Ballotpedia: Rand Paul](https://ballotpedia.org/Rand_Paul) (Tier 3)

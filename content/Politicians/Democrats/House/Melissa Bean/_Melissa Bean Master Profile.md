@@ -142,7 +142,7 @@ Bean's central contradiction is between her identity as a former congresswoman m
 
 ### Sources
 
-- [OpenSecrets: Melissa Bean 2026 Campaign Finance](https://www.opensecrets.org/members-of-congress/melissa-bean/summary) (Tier 1)
+- [OpenSecrets: Melissa Bean 2026 Campaign Finance](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1)
 - [FEC: Illinois 8th District 2026 Primary Results](https://www.fec.gov/data/elections/house/IL/08/2026/) (Tier 1)
 - [In Illinois's Eighth District, AIPAC and AI Try to Buy a Seat: The American Prospect](https://prospect.org/2026/03/12/illinois-eighth-congressional-district-aipac-ai-bean-ahmed/) (Tier 2)
 - [Melissa Bean wins 8th Congressional District primary, moves to reclaim seat she lost 16 years ago: Chicago Sun-Times](https://chicago.suntimes.com/elections/2026/03/17/us-house-illinois-8th-congressional-district-primary-results) (Tier 2)

@@ -35,7 +35,7 @@ Heinrich advocates for clean energy transition while supporting nuclear weapons 
 ### Sources
 
 - [Congress.gov: Martin Heinrich member profile](https://www.congress.gov/member/martin-heinrich/H001046) (Tier 1)
-- [OpenSecrets: Martin Heinrich campaign finance summary](https://www.opensecrets.org/members-of-congress/martin-heinrich/summary?cid=N00031169) (Tier 1)
+- [OpenSecrets: Martin Heinrich campaign finance summary](https://www.fec.gov/data/candidate/H8NM01224/) (Tier 1)
 - [NNSA: Los Alamos and Sandia National Laboratories](https://www.energy.gov/nnsa/national-nuclear-security-administration) (Tier 1)
 - [Ballotpedia: Martin Heinrich](https://ballotpedia.org/Martin_Heinrich) (Tier 3)
 

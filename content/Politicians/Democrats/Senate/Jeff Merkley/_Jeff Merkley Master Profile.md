@@ -115,7 +115,7 @@ Merkley is the vault's control case — the senator who most consistently operat
 
 ### Sources
 
-- [OpenSecrets: Jeff Merkley Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/jeff-merkley/summary?cid=N00029303) (Tier 1)
+- [OpenSecrets: Jeff Merkley Campaign Finance Summary](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1)
 - [FEC: Jeff Merkley for Oregon (C00437277)](https://www.fec.gov/data/committee/C00437277/) (Tier 1)
 - [OPB: Oregon Sen. Jeff Merkley Has Stopped Taking Corporate PAC Cash](https://www.opb.org/news/article/jeff-merkley-pac-cash-stop/) (Tier 2)
 - [Senator Merkley: Statement on Financial Reform Legislation](https://www.merkley.senate.gov/merkley-statement-on-financial-reform-legislation/) (Tier 1)

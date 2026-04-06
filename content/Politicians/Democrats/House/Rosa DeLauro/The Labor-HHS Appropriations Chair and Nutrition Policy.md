@@ -34,7 +34,7 @@ The structural limit: DeLauro's nutrition advocacy does not extend to structural
 ### Sources
 
 - [Congress.gov: Rosa DeLauro member profile](https://www.congress.gov/member/rosa-delauro/D000216) (Tier 1)
-- [OpenSecrets: Rosa DeLauro campaign finance summary](https://www.opensecrets.org/members-of-congress/rosa-delauro/summary?cid=N00000615) (Tier 1)
+- [OpenSecrets: Rosa DeLauro campaign finance summary](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
 - [Ballotpedia: Rosa DeLauro](https://ballotpedia.org/Rosa_DeLauro) (Tier 3)
 
 content-readiness:: ready

@@ -189,8 +189,8 @@ The Democratic base disagrees with Israel policy at significantly higher rates t
 
 ### Campaign Finance Data (Tier 1):
 - [OpenSecrets: AIPAC PAC profile and contributions](https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963) (Tier 1)
-- [OpenSecrets: Chuck Schumer pro-Israel donations summary](https://www.opensecrets.org/members-of-congress/charles-schumer/summary) (Tier 1)
-- [OpenSecrets: Ted Cruz pro-Israel donations summary](https://www.opensecrets.org/members-of-congress/ted-cruz/summary?cid=N00033085) (Tier 1)
+- [OpenSecrets: Chuck Schumer pro-Israel donations summary](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1)
+- [OpenSecrets: Ted Cruz pro-Israel donations summary](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1)
 - [United Democracy Project recipients and expenditures 2024](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00799031&tab=targeted_candidates) (Tier 1)
 - [FEC: United Democracy Project committee overview](https://www.fec.gov/data/committee/C00799031/) (Tier 1)
 

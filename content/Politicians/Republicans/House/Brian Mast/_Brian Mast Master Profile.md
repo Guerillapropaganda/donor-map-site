@@ -133,8 +133,8 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 
 ### Sources
 
-- [OpenSecrets: Brian Mast donor profile](https://www.opensecrets.org/members-of-congress/brian-mast/summary?cid=N00037269) (Tier 1)
-- [OpenSecrets: Brian Mast contributors](https://www.opensecrets.org/members-of-congress/brian-mast/contributors?cid=N00037269) (Tier 1)
+- [OpenSecrets: Brian Mast donor profile](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1)
+- [OpenSecrets: Brian Mast contributors](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1)
 - [Congress.gov: Brian Mast](https://www.congress.gov/member/brian-mast/M001199) (Tier 1)
 - [House Foreign Affairs Committee: Chairman Mast](https://mast.house.gov/biography) (Tier 1)
 - [Jewish Insider: Pro-Israel firebrand Rep. Brian Mast to be next Foreign Affairs chair](https://jewishinsider.com/2024/12/brian-mast-foreign-affairs-chair-pro-israel-gop-florida-legislator/) (Tier 2)

@@ -149,7 +149,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 | [[Marathon Oil]] | Donated 2022 | — |
 | [[Ovintiv Inc]] | Donated 2022 | — |
 
-**Source:** [OpenSecrets Contributors 2022 Cycle](https://www.opensecrets.org/members-of-congress/joe-manchin/contributors?cycle=2022&recs=100&type=I) (Tier 1) (UNVERIFIED)
+**Source:** [OpenSecrets Contributors 2022 Cycle](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (UNVERIFIED)
 
 #### Oil & Gas Executives — Q3 2021 Peak Donations (During BBB Negotiations)
 
@@ -196,7 +196,7 @@ All six of these PACs donated exactly $5,000 (legal maximum) in the same quarter
 
 **2022 status:** Manchin ranked **#2 Senate recipient of utility money** (behind Chuck Schumer) for 2022 cycle. All utilities opposed CEPP because it would have penalized them for slow decarbonization.
 
-**Source:** [OpenSecrets Contributors 2022](https://www.opensecrets.org/members-of-congress/joe-manchin/contributors?cycle=2022&recs=100&type=I) (Tier 1) (UNVERIFIED); [Gizmodo, October 2021: The Dirty Utilities Funding Manchin's Bullshit](https://gizmodo.com/the-dirty-utilities-funding-joe-manchin-s-bullshit-1847792988) (Tier 2)
+**Source:** [OpenSecrets Contributors 2022](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (UNVERIFIED); [Gizmodo, October 2021: The Dirty Utilities Funding Manchin's Bullshit](https://gizmodo.com/the-dirty-utilities-funding-joe-manchin-s-bullshit-1847792988) (Tier 2)
 
 #### Coal Company Historical Donors (2010–2012)
 
@@ -257,7 +257,7 @@ Manchin became a member of the Senate Energy and Natural Resources Committee whe
 ### Sources
 
 - [Congressional Budget Office: Estimated Budgetary Effects of HR 5376, Inflation Reduction Act](https://www.cbo.gov/publication/58366) (Tier 1)
-- [OpenSecrets: Manchin industry and contributor data](https://www.opensecrets.org/members-of-congress/joe-manchin/contributors?cycle=2022&recs=100&type=I) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Manchin industry and contributor data](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (UNVERIFIED)
 - [E&E News: Manchin has raked in $400K in fossil fuel donations](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2)
 - [E&E News: Manchin revives climate deal - what's in the $369B bill](https://www.eenews.net/articles/manchin-revives-climate-deal-whats-in-the-369b-bill/) (Tier 2)
 - [E&E News: Manchin pushes DOE to invest in coal that earned him millions](https://www.eenews.net/articles/manchin-pushes-doe-to-invest-in-coal-that-earned-him-millions/) (Tier 2)

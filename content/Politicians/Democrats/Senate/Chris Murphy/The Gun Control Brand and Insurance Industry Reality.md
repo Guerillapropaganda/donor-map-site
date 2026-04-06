@@ -37,7 +37,7 @@ Murphy's insurance industry donors receive no comparable scrutiny to his gun con
 ### Sources
 
 - [Congress.gov: Bipartisan Safer Communities Act](https://www.congress.gov/bill/117th-congress/senate-bill/2938) (Tier 1)
-- [OpenSecrets: Chris Murphy campaign finance summary](https://www.opensecrets.org/members-of-congress/chris-murphy/summary?cid=N00027566) (Tier 1)
+- [OpenSecrets: Chris Murphy campaign finance summary](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
 - [Ballotpedia: Chris Murphy](https://ballotpedia.org/Chris_Murphy_(Connecticut)) (Tier 3)
 
 content-readiness:: ready

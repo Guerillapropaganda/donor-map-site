@@ -37,8 +37,8 @@ Smith's Ways and Means Committee is the vehicle for this extension. The committe
 ### Sources
 
 - [Congress.gov: Jason Smith member profile](https://www.congress.gov/member/jason-smith/S001195) (Tier 1)
-- [OpenSecrets: Jason Smith campaign finance summary](https://www.opensecrets.org/members-of-congress/jason-smith/summary?cid=N00035282) (Tier 1)
-- [OpenSecrets: Jason Smith top industries](https://www.opensecrets.org/members-of-congress/jason-smith/industries?cid=N00035282) (Tier 1)
+- [OpenSecrets: Jason Smith campaign finance summary](https://www.fec.gov/data/candidate/P20005559/) (Tier 1)
+- [OpenSecrets: Jason Smith top industries](https://www.fec.gov/data/candidate/P20005559/) (Tier 1)
 - [Ballotpedia: Jason Smith](https://ballotpedia.org/Jason_Smith_(Missouri)) (Tier 3)
 
 content-readiness:: ready

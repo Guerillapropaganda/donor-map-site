@@ -149,9 +149,9 @@ The January 6 episode reveals the structural limit of Lee's constitutional liber
 
 ### Sources
 
-- [OpenSecrets: Mike Lee campaign finance summary](https://www.opensecrets.org/members-of-congress/mike-lee/summary?cid=N00031696) (Tier 1)
-- [OpenSecrets: Mike Lee career industries](https://www.opensecrets.org/members-of-congress/mike-lee/industries?cid=N00031696&cycle=CAREER) (Tier 1)
-- [OpenSecrets: Mike Lee career contributors](https://www.opensecrets.org/members-of-congress/mike-lee/contributors?cid=N00031696&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Mike Lee campaign finance summary](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
+- [OpenSecrets: Mike Lee career industries](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
+- [OpenSecrets: Mike Lee career contributors](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
 - [FEC: Friends of Mike Lee Inc campaign committee](https://www.fec.gov/data/committee/C00473827/) (Tier 1)
 - [CNN: Meadows texts reveal Lee and Chip Roy lobbied White House to overturn election](https://www.cnn.com/2022/04/15/politics/mike-lee-chip-roy-text-messages-jan-6-mark-meadows-overturn-election/index.html) (Tier 2)
 - [CNN: Fact check — Mike Lee's texts contradict his debate claims about January 6](https://www.cnn.com/2022/10/18/politics/fact-check-mike-lee-january-6-texts) (Tier 2)

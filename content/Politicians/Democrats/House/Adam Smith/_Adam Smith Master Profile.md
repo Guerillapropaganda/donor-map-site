@@ -112,7 +112,7 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 
 ### Sources
 
-- [OpenSecrets: Adam Smith campaign finance summary](https://www.opensecrets.org/members-of-congress/adam-smith/summary?cid=N00007833) (Tier 1)
+- [OpenSecrets: Adam Smith campaign finance summary](https://www.fec.gov/data/candidate/S0KS00216/) (Tier 1)
 - [FEC: Adam Smith candidate filings](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
 - [House Armed Services Committee Democrats: Ranking Member Adam Smith](https://democrats-armedservices.house.gov/ranking-member) (Tier 1)
 - [Congress.gov: Adam Smith voting record](https://www.congress.gov/member/adam-smith/S000510) (Tier 1)

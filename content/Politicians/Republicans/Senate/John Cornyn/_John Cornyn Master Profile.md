@@ -155,8 +155,8 @@ In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned
 
 ### Sources
 
-- [OpenSecrets: John Cornyn campaign finance summary](https://www.opensecrets.org/members-of-congress/john-cornyn/summary?cid=N00024852) (Tier 1)
-- [OpenSecrets: John Cornyn top industries (2019–2024)](https://www.opensecrets.org/members-of-congress/john-cornyn/industries?cid=N00024852) (Tier 1)
+- [OpenSecrets: John Cornyn campaign finance summary](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
+- [OpenSecrets: John Cornyn top industries (2019–2024)](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
 - [FEC: John Cornyn candidate filings](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
 - [Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056) (Tier 1)
 - [Congress.gov: Bipartisan Safer Communities Act (S.2938, 117th Congress)](https://www.congress.gov/bill/117th-congress/senate-bill/2938) (Tier 1)

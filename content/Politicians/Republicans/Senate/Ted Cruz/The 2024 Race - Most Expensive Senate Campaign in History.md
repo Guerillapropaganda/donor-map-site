@@ -79,7 +79,7 @@ In early 2026, leaked recordings captured Cruz privately criticizing Trump's tar
 
 ### Sources
 
-- [OpenSecrets: Ted Cruz 2024 campaign finance](https://www.opensecrets.org/members-of-congress/ted-cruz/summary?cid=N00033085) (Tier 1)
+- [OpenSecrets: Ted Cruz 2024 campaign finance](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1)
 - [FEC: Bitcoin Freedom PAC filings](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1)
 - [Texas Tribune: Cruz-Allred most expensive Senate race 2024](https://www.texastribune.org/2024/07/18/ted-cruz-colin-allred-fundraising-2024/) (Tier 2)
 - [Axios: Ted Cruz leaked recordings on Trump tariffs](https://www.axios.com/2026/01/25/cruz-trump-vance-secret-tapes) (Tier 2)

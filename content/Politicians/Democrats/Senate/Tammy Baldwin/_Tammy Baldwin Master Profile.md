@@ -156,8 +156,8 @@ The key electoral mechanism: Baldwin didn't run as a national progressive — sh
 
 ### Sources
 
-- [OpenSecrets: Tammy Baldwin campaign finance summary](https://www.opensecrets.org/members-of-congress/tammy-baldwin/summary?cid=N00004367) (Tier 1)
-- [OpenSecrets: Tammy Baldwin career industry breakdown](https://www.opensecrets.org/members-of-congress/tammy-baldwin/industries?cid=N00004367&cycle=CAREER) (Tier 1)
+- [OpenSecrets: Tammy Baldwin campaign finance summary](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
+- [OpenSecrets: Tammy Baldwin career industry breakdown](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
 - [OpenSecrets: Wisconsin Senate 2024 race summary](https://www.opensecrets.org/races/summary?cycle=2024&id=WIS1&special=N) (Tier 1)
 - [Congress.gov: Tammy Baldwin member profile](https://www.congress.gov/member/tammy-baldwin/B001230) (Tier 1)
 - [Baldwin.senate.gov: Made in America Act announcement](https://www.baldwin.senate.gov/news/press-releases/made-in-america-act) (Tier 1)

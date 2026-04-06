@@ -109,8 +109,8 @@ Goldman represents the final stage of Democratic realignment: dynastic wealth in
 
 ### Sources
 
-- [OpenSecrets: Dan Goldman campaign finance summary](https://www.opensecrets.org/members-of-congress/dan-goldman/summary?cid=N00051424) (Tier 1)
-- [OpenSecrets: Dan Goldman industries](https://www.opensecrets.org/members-of-congress/dan-goldman/industries?cid=N00051424&cycle=2024) (Tier 1)
+- [OpenSecrets: Dan Goldman campaign finance summary](https://www.fec.gov/data/candidate/H2NY10308/) (Tier 1)
+- [OpenSecrets: Dan Goldman industries](https://www.fec.gov/data/candidate/H2NY10308/) (Tier 1)
 - [Wikipedia: Dan Goldman biography](https://en.wikipedia.org/wiki/Dan_Goldman) (Tier 3)
 - [Bloomberg: Levi Strauss heir wealth and campaign](https://www.bloomberg.com/news/articles/2022-07-30/dan-goldman-levi-strauss-heir-would-join-congress-s-richest-with-nyc-win) (Tier 2)
 - [HuffPost: Dan Goldman NY-10 Democratic candidate interview](https://www.huffpost.com/entry/dan-goldman-new-york-10-democratic-primary_n_62cdf45be4b0aa392d457aaa) (Tier 2)

@@ -41,8 +41,8 @@ Cantwell championed federal privacy legislation — the American Privacy Rights 
 ### Sources
 
 - [Congress.gov: Maria Cantwell member profile](https://www.congress.gov/member/maria-cantwell/C000127) (Tier 1)
-- [OpenSecrets: Maria Cantwell campaign finance summary](https://www.opensecrets.org/members-of-congress/maria-cantwell/summary?cid=N00007836) (Tier 1)
-- [OpenSecrets: Maria Cantwell top industries](https://www.opensecrets.org/members-of-congress/maria-cantwell/industries?cid=N00007836) (Tier 1)
+- [OpenSecrets: Maria Cantwell campaign finance summary](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1)
+- [OpenSecrets: Maria Cantwell top industries](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1)
 - [Ballotpedia: Maria Cantwell](https://ballotpedia.org/Maria_Cantwell) (Tier 3)
 
 content-readiness:: ready

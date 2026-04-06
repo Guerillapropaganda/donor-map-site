@@ -154,7 +154,7 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 
 ### Sources
 
-- [OpenSecrets: Rep Josh Gottheimer Donor Profile](https://www.opensecrets.org/members-of-congress/josh-gottheimer/summary) (Tier 1)
+- [OpenSecrets: Rep Josh Gottheimer Donor Profile](https://www.fec.gov/data/candidate/H6NJ05171/) (Tier 1)
 - [Wall Street PAC Contributions, 2020-2024 Cycle](https://www.opensecrets.org/industries?Ind=F) (Tier 1)
 - [OpenSecrets: Palantir Technologies political donations profile](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1)
 - [Problem Solvers Caucus Member Positions on IRA](https://www.democrats.org/problem-solvers-caucus) *(source unavailable)* (Tier 1)

@@ -152,7 +152,7 @@ The public posture is maximalist anti-Castroism. The donor positioning is post-e
 
 ### Sources
 
-- [OpenSecrets: Carlos Gimenez campaign finance summary](https://www.opensecrets.org/members-of-congress/carlos-gimenez/summary?cid=N00046394) (Tier 1)
+- [OpenSecrets: Carlos Gimenez campaign finance summary](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1)
 - [Florida Politics: Gimenez adds $260K in Q1 through unions, GOP donors](https://floridapolitics.com/archives/519728-carlos-gimenez-adds-260k-in-q1-through-unions-gop-donors/) (Tier 2)
 - [StoneColdTruth: Why Is Rep. Gimenez Shielding a Defense Contractor Operating Under Cuban Military Oversight?](https://www.stonecoldtruth.com/p/why-is-rep-carlos-gimenez-shielding) (Tier 4 — verify independently)
 - [Wikipedia: Carlos Gimenez (politician)](https://en.wikipedia.org/wiki/All-In_(podcast))) (Tier 3)

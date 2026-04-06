@@ -118,7 +118,7 @@ The analytical pattern is **Revolving Door** plus **Donor-Class Override** in co
 ### Sources
 
 - [SEC: Narya Capital fund filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Narya%20Capital&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [OpenSecrets: Sen. J.D. Vance — Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/j-d-vance/summary?cid=N00048832) (Tier 1)
+- [OpenSecrets: Sen. J.D. Vance — Campaign Finance Summary](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1)
 - [Axios: J.D. Vance launches venture capital fund outside of Silicon Valley (Jan. 9, 2020)](https://www.axios.com/2020/01/09/jd-vance-venture-capital-fund-ohio-silicon-valley-peter-thiel) (Tier 2)
 - [TechCrunch: 'Hillbilly Elegy' author J.D. Vance has raised $93 million for his own Midwestern venture fund (Jan. 9, 2020)](https://techcrunch.com/2020/01/09/hillbilly-elegy-author-j-d-vance-has-raised-93-million-for-his-own-midwestern-venture-fund/) (Tier 2)
 - [Axios: J.D. Vance's short career in venture capital (July 16, 2024)](https://www.axios.com/2024/07/16/jd-vance-venture-capital-career) (Tier 2)

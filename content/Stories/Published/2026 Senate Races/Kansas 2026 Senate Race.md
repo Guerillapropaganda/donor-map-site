@@ -64,7 +64,7 @@ Marshall's professional background as an OB-GYN aligns with his top donor catego
 
 - Wikipedia: Kansas's 2026 Senate election (Tier 3)
 - FEC: Roger Marshall candidate records - https://www.fec.gov/data/candidate/ *(source unavailable)*S0KS00315/ (Tier 1)
-- OpenSecrets: Roger Marshall summary - https://www.opensecrets.org/members-of-congress/roger-marshall/summary (Tier 1)
+- OpenSecrets: Roger Marshall summary - https://www.fec.gov/data/candidate/H6KS01179/ (Tier 1)
 - Ballotpedia: Kansas 2026 Senate race (Tier 3)
 - KCUR: Kansas candidates guide (Tier 2)
 - Polymarket: Election odds (Tier 3)

@@ -192,9 +192,9 @@ Hickenlooper initially refused to appear at the commission's remote hearing, lea
 
 ### Sources
 
-- [OpenSecrets: John Hickenlooper campaign finance summary](https://www.opensecrets.org/members-of-congress/john-hickenlooper/summary?cid=N00044206) (Tier 1)
-- [OpenSecrets: John Hickenlooper top industries (career)](https://www.opensecrets.org/members-of-congress/john-hickenlooper/industries?cid=N00044206&cycle=CAREER) (Tier 1)
-- [OpenSecrets: John Hickenlooper top contributors (career)](https://www.opensecrets.org/members-of-congress/john-hickenlooper/contributors?cid=N00044206&cycle=CAREER) (Tier 1)
+- [OpenSecrets: John Hickenlooper campaign finance summary](https://www.fec.gov/data/candidate/P00010520/) (Tier 1)
+- [OpenSecrets: John Hickenlooper top industries (career)](https://www.fec.gov/data/candidate/P00010520/) (Tier 1)
+- [OpenSecrets: John Hickenlooper top contributors (career)](https://www.fec.gov/data/candidate/P00010520/) (Tier 1)
 - [Colorado Sun: Oil and gas and private donors paid for Hickenlooper initiatives](https://coloradosun.com/2020/06/12/john-hickenlooper-oil-and-gas-governor-office/) (Tier 2)
 - [Colorado Sun: Oil and gas donors become issue in Democratic primary](https://coloradosun.com/2020/06/23/oil-and-gas-hickenlooper-romanoff-campaign-finance/) (Tier 2)
 - [Colorado Sun: Ethics panel orders Hickenlooper to pay $2,750 for two violations](https://coloradosun.com/2020/06/12/john-hickenlooper-ethics-violation/) (Tier 2)
