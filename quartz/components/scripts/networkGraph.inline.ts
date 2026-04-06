@@ -216,9 +216,9 @@ function initNetworkGraph() {
       .scaleExtent([0.1, 5])
       .on("zoom", (event) => {
         g.attr("transform", event.transform)
-        // Show/hide labels based on zoom
+        // Show labels only when zoomed in enough to read them
         const k = event.transform.k
-        g.selectAll(".dm-ng-label").attr("display", k > 0.6 ? "block" : "none")
+        g.selectAll(".dm-ng-label").attr("display", k > 1.2 ? "block" : "none")
       })
 
     svg.call(zoomBehavior)
@@ -256,7 +256,7 @@ function initNetworkGraph() {
       .attr("stroke-width", 1)
       .attr("stroke-opacity", 0.5)
 
-    // Labels
+    // Labels — hidden by default, shown on hover or zoom > 1.2
     nodeEls
       .append("text")
       .attr("class", "dm-ng-label")
@@ -266,6 +266,7 @@ function initNetworkGraph() {
       .attr("fill", COLORS.text)
       .attr("font-family", "'Space Mono', monospace")
       .attr("font-size", "10px")
+      .attr("display", "none")
       .text((d) => {
         const name = d.name
         return name.length > 20 ? name.slice(0, 18) + ".." : name
@@ -305,9 +306,11 @@ function initNetworkGraph() {
           if (t === d.id) connected.add(s)
         })
 
-        // Dim non-connected
+        // Dim non-connected, show labels for connected nodes
         nodeEls.select(".dm-ng-shape").attr("fill-opacity", (n: any) => (connected.has(n.id) ? 0.95 : 0.1))
-        nodeEls.select(".dm-ng-label").attr("fill-opacity", (n: any) => (connected.has(n.id) ? 1 : 0.1))
+        nodeEls.select(".dm-ng-label")
+          .attr("display", (n: any) => (connected.has(n.id) ? "block" : "none"))
+          .attr("fill-opacity", (n: any) => (connected.has(n.id) ? 1 : 0.1))
         linkEls
           .attr("stroke", (l: any) => {
             const s = (l.source as GraphNode).id
@@ -355,8 +358,8 @@ function initNetworkGraph() {
       .on("mouseleave", () => {
         highlightedNode = null
         nodeEls.select(".dm-ng-shape").attr("fill-opacity", 0.85)
-        nodeEls.select(".dm-ng-label").attr("fill-opacity", 1)
-        linkEls.attr("stroke", COLORS.edgeDefault).attr("stroke-opacity", 0.4).attr("stroke-width", 0.5)
+        nodeEls.select(".dm-ng-label").attr("display", "none").attr("fill-opacity", 1)
+        linkEls.attr("stroke", "#2a2a3a").attr("stroke-opacity", 0.5).attr("stroke-width", 0.6)
         tooltip.style.display = "none"
       })
 
@@ -369,19 +372,19 @@ function initNetworkGraph() {
       window.location.href = href
     })
 
-    // Force simulation
+    // Force simulation — spread nodes apart
     simulation = forceSimulation<GraphNode>(simNodes)
       .force(
         "link",
         forceLink<GraphNode, GraphLink>(simLinks)
           .id((d) => d.id)
-          .distance(60),
+          .distance(120),
       )
-      .force("charge", forceManyBody().strength(-120))
+      .force("charge", forceManyBody().strength(-300))
       .force("center", forceCenter(width / 2, height / 2))
-      .force("collision", forceCollide<GraphNode>().radius((d) => getNodeSize(d) + 4))
-      .force("x", forceX(width / 2).strength(0.05))
-      .force("y", forceY(height / 2).strength(0.05))
+      .force("collision", forceCollide<GraphNode>().radius((d) => getNodeSize(d) + 12))
+      .force("x", forceX(width / 2).strength(0.03))
+      .force("y", forceY(height / 2).strength(0.03))
 
     // Warm up — pre-compute layout
     for (let i = 0; i < 200; i++) simulation.tick()
