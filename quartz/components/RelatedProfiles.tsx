@@ -133,7 +133,7 @@ RelatedProfiles.css = `
 
 .rp-badge {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1px;
   padding: 2px 5px;

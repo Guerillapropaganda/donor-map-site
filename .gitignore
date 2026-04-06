@@ -12,4 +12,5 @@ replit.nix
 link-report.md
 reports/
 content/Vault Maintenance/Pipeline Reports/
+.claude/worktrees/
 .env

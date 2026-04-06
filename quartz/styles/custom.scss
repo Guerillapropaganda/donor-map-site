@@ -70,7 +70,7 @@ article h3 {
   font-weight: 700 !important;
   letter-spacing: 2px !important;
   text-transform: uppercase !important;
-  color: #63636e !important;
+  color: #7a7a86 !important;
   margin-top: 32px;
   margin-bottom: 10px;
 }
@@ -145,7 +145,7 @@ article em {
 .content-meta {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
-  color: #63636e !important;
+  color: #7a7a86 !important;
   letter-spacing: 0.5px;
 }
 
@@ -177,7 +177,7 @@ a.external {
 // --- Tags ---
 a.tag-link {
   background: #13131a !important;
-  color: #63636e !important;
+  color: #7a7a86 !important;
   border: 1px solid #1e1e28 !important;
   border-radius: 4px !important;
   font-family: 'Space Mono', monospace !important;
@@ -424,13 +424,13 @@ strong > code, b > code {
 }
 
 #search-icon {
-  color: #63636e;
+  color: #7a7a86;
 }
 
 // Search result badges
 .search-badge {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1px;
   padding: 2px 6px;
@@ -481,7 +481,7 @@ strong > code, b > code {
   font-size: 11px !important;
   letter-spacing: 2px !important;
   text-transform: uppercase !important;
-  color: #63636e !important;
+  color: #7a7a86 !important;
   margin-bottom: 12px;
 }
 
@@ -497,12 +497,12 @@ strong > code, b > code {
 .breadcrumb-container {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
-  color: #63636e;
+  color: #7a7a86;
   letter-spacing: 0.5px;
 }
 
 .breadcrumb-container a {
-  color: #63636e !important;
+  color: #7a7a86 !important;
 }
 
 .breadcrumb-container a:hover {
@@ -520,7 +520,7 @@ strong > code, b > code {
 // --- Footer ---
 footer {
   border-top: 1px solid #1e1e28;
-  color: #3a3a44;
+  color: #7a7a86;
   font-size: 11px;
 }
 
@@ -535,10 +535,10 @@ footer {
 
 .footer-col-label {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #63636e;
+  color: #7a7a86;
   margin-bottom: 10px;
 }
 
@@ -582,7 +582,7 @@ footer {
 }
 
 footer a {
-  color: #63636e !important;
+  color: #7a7a86 !important;
 }
 
 .footer-col-links a {
@@ -598,7 +598,7 @@ footer a {
 
 // --- Folder listing pages ---
 .page-listing > p {
-  color: #63636e;
+  color: #7a7a86;
   font-size: 0.82rem;
   font-family: "Space Mono", monospace;
   text-transform: uppercase;
@@ -681,7 +681,7 @@ ul.section-ul {
 // Folder listing type badges (injected by DOM script)
 .listing-badge {
   font-family: 'Space Mono', monospace;
-  font-size: 7px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1px;
   padding: 3px 6px;
@@ -794,7 +794,7 @@ ul.section-ul {
 }
 .listing-ready-label {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.5px;
   color: #8a8a96;
@@ -805,7 +805,7 @@ ul.section-ul {
 
 .listing-tier {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.5px;
   padding: 2px 5px;
@@ -821,8 +821,8 @@ ul.section-ul {
 
 .listing-date {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
-  color: #63636e;
+  font-size: 10px;
+  color: #7a7a86;
   white-space: nowrap;
 }
 
@@ -854,7 +854,7 @@ hr {
 
 // --- Graph view ---
 .graph > h3 {
-  color: #63636e;
+  color: #7a7a86;
   font-family: "Space Mono", monospace;
   font-size: 10px !important;
   text-transform: uppercase;
@@ -903,7 +903,7 @@ hr {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 10px !important;
-  color: #63636e !important;
+  color: #7a7a86 !important;
   font-weight: 700 !important;
 }
 
@@ -1031,7 +1031,7 @@ hr {
   }
 
   th {
-    font-size: 8px !important;
+    font-size: 10px !important;
     letter-spacing: 1px !important;
   }
 
@@ -1129,7 +1129,7 @@ hr {
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2.5px;
-  color: #63636e;
+  color: #7a7a86;
   margin-bottom: 16px;
 }
 
@@ -1206,10 +1206,10 @@ hr {
 
 .lp-stat-label {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
-  color: #63636e;
+  color: #7a7a86;
   text-transform: uppercase;
 }
 
@@ -1294,7 +1294,7 @@ hr {
 
 .lp-hook-label {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
   margin-bottom: 12px;
@@ -1456,7 +1456,7 @@ hr {
 
 .lp-featured-stat-label {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   letter-spacing: 0.5px;
   color: #a1a1aa;
   line-height: 1.4;
@@ -1493,7 +1493,7 @@ hr {
 
 .lp-explore-icon {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1px;
   color: #5b8dce;
@@ -1592,7 +1592,7 @@ hr {
 
   p {
     font-size: 12px !important;
-    color: #63636e !important;
+    color: #7a7a86 !important;
     line-height: 1.6 !important;
     margin: 0 !important;
   }
@@ -1718,7 +1718,7 @@ body:has(.lp-landing) .breadcrumb-container {
 
 .ph-badge {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
   padding: 4px 10px;
@@ -1757,7 +1757,7 @@ body:has(.lp-landing) .breadcrumb-container {
     background: rgba(34, 197, 94, 0.08);
   }
   &.ph-draft {
-    color: #63636e;
+    color: #7a7a86;
     border-color: #1e1e28;
     background: rgba(99, 99, 110, 0.06);
   }
@@ -1767,7 +1767,7 @@ body:has(.lp-landing) .breadcrumb-container {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   letter-spacing: 0.5px;
-  color: #63636e;
+  color: #7a7a86;
 }
 
 // ── Section Cards (created by JS) ──
@@ -1900,7 +1900,7 @@ body[data-slug*="master-profile" i] {
 
     h2 {
       font-size: 16px !important;
-      color: #63636e !important;
+      color: #7a7a86 !important;
       border-bottom-color: #1a1a22;
     }
 
@@ -1977,7 +1977,7 @@ body[data-slug*="master-profile" i] {
 
   th {
     color: #5b8dce !important;
-    font-size: 9px !important;
+    font-size: 10px !important;
     padding: 12px !important;
   }
 
@@ -1995,14 +1995,14 @@ body[data-slug*="master-profile" i] {
     white-space: nowrap;
     font-family: 'Space Mono', monospace;
     font-size: 11px;
-    color: #63636e !important;
+    color: #7a7a86 !important;
   }
 
   // ── Preamble content (before first h2) ──
   article > p:first-of-type,
   article > ul.tags {
     font-size: 13px;
-    color: #63636e;
+    color: #7a7a86;
     margin-bottom: 8px;
   }
 
@@ -2033,7 +2033,7 @@ body[data-slug*="master-profile" i] {
 
   .svp-col-label {
     font-family: "Space Mono", monospace;
-    font-size: 9px;
+    font-size: 10px;
     letter-spacing: 2px;
     margin-bottom: 12px;
     padding-bottom: 6px;

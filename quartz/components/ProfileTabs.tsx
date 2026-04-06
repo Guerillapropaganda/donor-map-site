@@ -218,11 +218,11 @@ nav.profile-tabs {
   border-bottom-color: #5b8dce;
 }
 .profile-tab-btn.profile-tab-empty {
-  color: #4a4a54;
+  color: #7a7a86;
   cursor: not-allowed;
 }
 .profile-tab-btn.profile-tab-empty:hover {
-  color: #4a4a54;
+  color: #7a7a86;
   background: transparent;
 }
 

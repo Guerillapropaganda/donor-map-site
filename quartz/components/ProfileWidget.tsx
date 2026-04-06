@@ -242,7 +242,7 @@ ProfileWidget.css = `
 .pw-empty {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
-  color: #5a5a66;
+  color: #7a7a86;
   padding: 16px;
 }
 
@@ -299,7 +299,7 @@ ProfileWidget.css = `
 
 .pw-section-label {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
   color: #8a8a96;
@@ -351,7 +351,7 @@ a.pw-flow-row:hover {
 
 .pw-flow-sector {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   color: #8a8a96;
   letter-spacing: 0.5px;
 }
@@ -431,7 +431,7 @@ a.pw-bs-recip:hover {
 
 .pw-bs-party {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   width: 16px;
   height: 16px;
@@ -460,7 +460,7 @@ a.pw-bs-recip:hover {
 
 .pw-bs-chamber {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   color: #8a8a96;
   flex-shrink: 0;
 }

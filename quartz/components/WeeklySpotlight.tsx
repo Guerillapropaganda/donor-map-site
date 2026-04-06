@@ -247,9 +247,9 @@ WeeklySpotlight.css = `
 
 .ws-date-label {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
+  font-size: 10px;
   letter-spacing: 2px;
-  color: #4a4a54;
+  color: #7a7a86;
 }
 
 .ws-date-value {
@@ -328,7 +328,7 @@ WeeklySpotlight.css = `
 
 .ws-issue-tag {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   color: #a1a1aa;
   background: rgba(161, 161, 170, 0.06);
   padding: 3px 8px;
@@ -377,8 +377,8 @@ WeeklySpotlight.css = `
 
 .ws-upcoming-date {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
-  color: #4a4a54;
+  font-size: 10px;
+  color: #7a7a86;
   letter-spacing: 1px;
   margin-bottom: 6px;
 }
@@ -392,7 +392,7 @@ WeeklySpotlight.css = `
 
 .ws-upcoming-sector {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   color: #5b8dce;
 }
 
@@ -421,7 +421,7 @@ WeeklySpotlight.css = `
 .ws-archive-date {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
-  color: #4a4a54;
+  color: #7a7a86;
   flex-shrink: 0;
   width: 90px;
 }
@@ -435,7 +435,7 @@ WeeklySpotlight.css = `
 
 .ws-archive-sector {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   color: #5b8dce;
   background: rgba(91, 141, 206, 0.06);
   padding: 2px 8px;

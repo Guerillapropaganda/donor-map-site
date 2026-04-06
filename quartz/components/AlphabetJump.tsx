@@ -89,7 +89,7 @@ AlphabetJump.css = `
   color: #5b8dce;
 }
 .alphabet-jump-btn:disabled {
-  color: #3a3a44;
+  color: #7a7a86;
   cursor: default;
 }
 @media (max-width: 800px) {

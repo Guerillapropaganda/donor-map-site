@@ -219,14 +219,14 @@ EvidencePanel.css = `
 }
 
 .ep-tier {
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
   color: #8a8a96;
 }
 
 .ep-updated {
-  font-size: 9px;
+  font-size: 10px;
   letter-spacing: 1px;
   color: #7a7a86;
 }
@@ -246,7 +246,7 @@ EvidencePanel.css = `
 }
 
 .ep-source-badge {
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 600;
   letter-spacing: 0.5px;
   padding: 2px 8px;
@@ -274,13 +274,13 @@ EvidencePanel.css = `
 }
 
 .ep-context {
-  font-size: 9px;
+  font-size: 10px;
   letter-spacing: 1px;
   color: #8a8a96;
 }
 
 .ep-methodology-link {
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.2px;
   color: #5b8dce;
@@ -333,7 +333,7 @@ EvidencePanel.css = `
 }
 
 .ep-split-label {
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
   color: #8a8a96;
@@ -368,7 +368,7 @@ EvidencePanel.css = `
 }
 
 .ep-split-pct {
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   color: rgba(255,255,255,0.9);
   letter-spacing: 0.5px;

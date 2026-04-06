@@ -249,7 +249,7 @@ DiscoveryPanel.css = `
 
 .dp-section-label {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
   color: #8a8a96;

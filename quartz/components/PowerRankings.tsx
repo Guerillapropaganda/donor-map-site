@@ -272,7 +272,7 @@ PowerRankings.css = `
 }
 
 .pr-search::placeholder {
-  color: #4a4a54;
+  color: #7a7a86;
 }
 
 .pr-select {
@@ -318,7 +318,7 @@ PowerRankings.css = `
 
 .pr-table th {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
   color: #5b8dce;
@@ -375,8 +375,8 @@ PowerRankings.css = `
 .pr-entity-type {
   display: block;
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
-  color: #4a4a54;
+  font-size: 10px;
+  color: #7a7a86;
   letter-spacing: 0.5px;
   margin-top: 2px;
 }
@@ -385,7 +385,7 @@ PowerRankings.css = `
 .pr-sector-badge {
   display: inline-block;
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.5px;
   padding: 3px 8px;
@@ -424,8 +424,8 @@ PowerRankings.css = `
 .pr-reach-label {
   display: block;
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
-  color: #4a4a54;
+  font-size: 10px;
+  color: #7a7a86;
   letter-spacing: 0.5px;
   margin-top: 1px;
 }
@@ -438,7 +438,7 @@ PowerRankings.css = `
 }
 
 .pr-issue-tag {
-  font-size: 9px;
+  font-size: 10px;
   font-family: 'Space Mono', monospace;
   color: #a1a1aa;
   background: rgba(161, 161, 170, 0.06);
@@ -454,7 +454,7 @@ PowerRankings.css = `
 
 .pr-status-badge {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1px;
   padding: 3px 8px;

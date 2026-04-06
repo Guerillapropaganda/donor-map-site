@@ -1787,7 +1787,7 @@ InteractiveGraphs.css = `
 
 .dm-roi-bar-label {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   letter-spacing: 1.5px;
   color: #63636e;
   width: 90px;
@@ -2031,7 +2031,7 @@ InteractiveGraphs.css = `
 
   .dm-roi-bar-label {
     width: 70px;
-    font-size: 8px;
+    font-size: 10px;
   }
 
   .dm-roi-bar-value {
@@ -2304,7 +2304,7 @@ InteractiveGraphs.css = `
 
 .dm-contra-label {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
   color: #63636e;
@@ -2371,7 +2371,7 @@ InteractiveGraphs.css = `
 
 .dm-sector-bar-label {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   letter-spacing: 1.5px;
   color: #63636e;
   width: 60px;

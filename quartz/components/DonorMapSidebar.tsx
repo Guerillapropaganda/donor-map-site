@@ -552,7 +552,7 @@ DonorMapSidebar.css = `
 /* ── Chevron icon ── */
 .dm-nav-chevron {
   flex-shrink: 0;
-  color: #4a4a54;
+  color: #7a7a86;
   transition: transform 0.15s ease;
 }
 
@@ -655,8 +655,8 @@ details[open] > summary > .dm-nav-chevron {
 /* ── Count badges ── */
 .dm-nav-count {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
-  color: #3a3a44;
+  font-size: 10px;
+  color: #7a7a86;
   margin-left: auto;
   padding-left: 8px;
   flex-shrink: 0;

@@ -287,8 +287,8 @@ WhoFundsYourRep.css = `
 
 .wf-state-count {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
-  color: #4a4a54;
+  font-size: 10px;
+  color: #7a7a86;
   margin-top: 2px;
 }
 
@@ -425,7 +425,7 @@ WhoFundsYourRep.css = `
 
 .wf-status {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1px;
   padding: 3px 8px;
@@ -450,7 +450,7 @@ WhoFundsYourRep.css = `
 
 .wf-donors-label {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
   color: #22c55e;
@@ -490,7 +490,7 @@ WhoFundsYourRep.css = `
 
 .wf-committee-tag {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   color: #5b8dce;
   background: rgba(91, 141, 206, 0.06);
   padding: 2px 8px;
@@ -506,7 +506,7 @@ WhoFundsYourRep.css = `
 
 .wf-issue-tag {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   color: #a1a1aa;
   background: rgba(161, 161, 170, 0.06);
   padding: 2px 6px;

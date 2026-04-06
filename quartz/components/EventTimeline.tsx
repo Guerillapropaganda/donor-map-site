@@ -192,7 +192,7 @@ EventTimeline.css = `
 
 .et-title {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
   color: #8a8a96;
@@ -201,7 +201,7 @@ EventTimeline.css = `
 .et-empty {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
-  color: #5a5a66;
+  color: #7a7a86;
   padding: 12px 0;
 }
 
@@ -281,7 +281,7 @@ a.et-link:hover {
 
 .et-date {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   color: #5b8dce;
   font-weight: 600;
 }
@@ -301,7 +301,7 @@ a.et-link:hover {
 }
 
 .et-also-name {
-  font-size: 9px;
+  font-size: 10px;
   color: #8a8a96;
   background: rgba(99, 99, 110, 0.1);
   padding: 1px 6px;
@@ -310,7 +310,7 @@ a.et-link:hover {
 
 .et-more {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   color: #7a7a86;
   text-align: center;
   padding: 8px 0 2px;

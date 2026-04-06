@@ -365,7 +365,7 @@ IssueExplorer.css = `
 
 .ie-tile-count {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   letter-spacing: 0.5px;
   padding: 2px 8px;
   border-radius: 3px;
@@ -389,7 +389,7 @@ IssueExplorer.css = `
 .ie-tile-total {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #4a4a54;
+  color: #7a7a86;
 }
 
 /* Detail view */
@@ -446,7 +446,7 @@ IssueExplorer.css = `
 }
 
 .ie-summary-divider {
-  color: #2a2a36;
+  color: #7a7a86;
 }
 
 /* Sections */
@@ -523,14 +523,14 @@ IssueExplorer.css = `
 
 .ie-profile-sector {
   font-family: 'Space Mono', monospace;
-  font-size: 9px;
+  font-size: 10px;
   color: #63636e;
   letter-spacing: 0.5px;
 }
 
 .ie-profile-status {
   font-family: 'Space Mono', monospace;
-  font-size: 8px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 1px;
   align-self: flex-start;
