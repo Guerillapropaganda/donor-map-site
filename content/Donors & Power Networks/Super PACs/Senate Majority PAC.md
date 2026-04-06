@@ -2,7 +2,7 @@
 title: "Senate Majority PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -13,6 +13,17 @@ politicians-funded:
   - "Mitch McConnell"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 38
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the Eleventh Circuit"
+  - "District Court, C.D. California"
+  - "District Court, District of Columbia"
+  - "District Court, M.D. Alabama"
+  - "District Court, N.D. Alabama"
+  - "District Court, N.D. Florida"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, D. Delaware"
 ---
 
 #donor-node #super-pac #democratic #senate #schumer #dark-money #leadership-pac #donor
@@ -160,3 +171,22 @@ research-status:: ready
 | RETIRE CAREER POLITICIANS | $3.9M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 38 |
+| Courts | Court of Appeals for the Eleventh Circuit, District Court, C.D. California, District Court, District of Columbia, District Court, M.D. Alabama, District Court, N.D. Alabama, District Court, N.D. Florida, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware |
+| Case Types | 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 320 Assault Libel & Slander, 4320 Assault, Libel, and Slander, 4360 Other Personal Injury, 440 Civil Rights: Other |
+
+**Notable cases:**
+- SENATE MAJORITY PAC v. FEDERAL ELECTION COMMISSION (2026) — District Court, District of Columbia
+- Niels Troost v. Gaurav Srivastava (2026) — District Court, C.D. California
+- Advance Local Media LLC v. Cohere Inc. (2025) — District Court, S.D. New York
+- KLAYMAN v. DISTRICT OF COLUMBIA COURT OF APPEALS (2024) — District Court, District of Columbia
+- SGCI HOLDINGS III LLC v. FEDERAL COMMUNICATIONS COMMISSION (2024) — District Court, District of Columbia
+- HALES v. PRESTON (2024) — District Court, N.D. Florida
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Majority%20PAC%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

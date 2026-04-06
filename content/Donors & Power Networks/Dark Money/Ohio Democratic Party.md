@@ -2,13 +2,26 @@
 title: "Ohio Democratic Party"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Labor & Workers"
+court-cases: 268
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Sixth Circuit"
+  - "Court of Appeals for the Tenth Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Wyoming"
+  - "District Court, District of Columbia"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. Ohio"
+  - "District Court, S.D. Ohio"
 ---
 
 #ohio #democratic-party #state-party #rust-belt #labor #decline #donor-class #working-class
@@ -133,3 +146,22 @@ content-readiness:: ready
 | MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY | $600.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 268 |
+| Courts | Court of Appeals for the First Circuit, Court of Appeals for the Sixth Circuit, Court of Appeals for the Tenth Circuit, Court of Appeals for the Third Circuit, District Court, C.D. California, District Court, D. Wyoming, District Court, District of Columbia, District Court, M.D. Florida +5 more |
+| Case Types | 320 Assault Libel & Slander, 3440 Other Civil Rights, 3441 Civil Rights Voting, 440 Civil Rights: Other, 441 Civil Rights: Voting |
+
+**Notable cases:**
+- Rice v. Schell (2026) — District Court, S.D. Ohio
+- David Tangipa v. Gavin Newsom (2025) — District Court, C.D. California
+- VOTE! v. City of Daytona Beach (2025) — District Court, M.D. Florida
+- United States v. Benson (2025) — District Court, W.D. Michigan
+- VoteAmerica v. Schwab (2025) — Court of Appeals for the Tenth Circuit
+- de la Fuente Diaz v. Gonzalez Colon (2025) — Court of Appeals for the First Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20Democratic%20Party%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

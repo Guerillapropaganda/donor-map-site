@@ -2,7 +2,7 @@
 title: "Laurene Powell Jobs"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,17 @@ politicians-funded:
   - "Kamala Harris"
 issues:
   - "Immigration"
+court-cases: 22
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, D. Maryland"
+  - "District Court, D. South Carolina"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. New York"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
 ---
 
 #donor-node #mega-donor #media #democrat #philanthropy #class-analysis #emerson-collective #the-atlantic #education-reform #immigration
@@ -160,3 +171,22 @@ content-readiness:: ready
 | HMP | $1.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 22 |
+| Courts | Court of Appeals for the Second Circuit, District Court, D. Maryland, District Court, D. South Carolina, District Court, District of Columbia, District Court, E.D. Michigan, District Court, E.D. New York, District Court, N.D. California, District Court, S.D. New York |
+| Case Types | 470 Racketeer/Corrupt Organization, 820 Copyright, 840 Trademark, 880 Defend Trade Secrets Act (of 2016), 893 Environmental Matters |
+
+**Notable cases:**
+- Gjovik v. Apple Inc (2025) — District Court, N.D. California
+- IYO, Inc. v. IO Products, Inc. (2025) — District Court, N.D. California
+- The Sustainability Institute v. Trump (2025) — District Court, D. South Carolina
+- CLIMATE UNITED FUND v. CITIBANK, N.A. (2025) — District Court, District of Columbia
+- Keene v. Comcast Cable Communications Management, LLC (2024) — District Court, D. Maryland
+- Weatherill v. United Wholesale Mortgage, LLC (2024) — District Court, E.D. Michigan
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Laurene%20Powell%20Jobs%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -2,7 +2,7 @@
 title: "Valero Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Steve Scalise"
 issues:
   - "Energy & Climate"
+ein: 742904514
+annual-revenue: "$10.3M"
+net-assets: "$18.1M"
+tax-year: "2023"
 ---
 
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis
@@ -115,3 +119,16 @@ content-readiness:: ready
 | THUNE VICTORY COMMITTEE | $235.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $10.3M |
+| Total Contributions | $22.7M |
+| Total Expenses | $11.0M |
+| Net Assets | $18.1M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 742904514](https://projects.propublica.org/nonprofits/organizations/742904514) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F742904514_202309_990_2024120622937805.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

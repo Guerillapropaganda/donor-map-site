@@ -2,11 +2,14 @@
 title: "Duke Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
+federal-awards-total: 22823613
+federal-contracts-count: 25
+federal-grants-count: 2
 ---
 
 #duke-energy #utility #coal-ash #north-carolina #monopoly #rate-base #renewables
@@ -63,3 +66,34 @@ content-readiness:: ready
 | DCCC | $45.7K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $22.8M |
+| Contracts (recent 3yr) | 25 ($460.7M sampled) |
+| Grants (recent 3yr) | 2 ($9.2M sampled) |
+| Federal Agencies | 6 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $101.0M | Department of Defense | CAMP LEJEUNE UESC TO 3 |
+| $65.7M | Department of Defense | UTILITY ENERGY SERVICE CONTRACT (UESC) CAMP LEJEUNE, NC |
+| $51.8M | Department of Defense | UESC ECM IMPLEMENTATION AND FINANCING COST |
+| $47.7M | Department of Defense | CAMP LEJEUNE UESC TO II |
+| $46.3M | Environmental Protection Agency | IGF::OT::IGF  ELECTRIC UTILITIES FOR THE EPA AND NIEHS MAIN CAMPUS IN RTP, NC |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $8.2M | Department of Energy | FEED STUDY FOR EDWARDSPORT FLEX FUEL INTEGRATED CAPTURE FOR INDIANA’S ENERGY TRANSITION (EFFICIENT)
+ |
+| $972K | Department of Energy | INTEGRATED METHANE MONITORING PLATFORM EXTENSION (IMMPE)
+THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Duke%20Energy) (Tier 1)
+<!-- auto:usaspending end -->

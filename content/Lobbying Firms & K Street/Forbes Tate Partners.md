@@ -2,12 +2,16 @@
 title: "Forbes Tate Partners"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 annual-revenue: "$26.4M"
 lobbyist-count: 33
 revolving-door-pct: "63.6%"
+fara-status: "registrant"
+fara-records: 2
+fara-countries:
+  - "JAPAN"
 ---
 
 #lobbying #k-street #pharma #healthcare #tobacco #grassroots #tax-policy #telecom #defense #bipartisan-access #clinton-orbit
@@ -278,3 +282,19 @@ The PPHC holding company structure adds the final layer: FTP's political access,
 - [Forbes Tate Partners/Politico Influence: Former PhRMA lobbyist Scott Olsen lands at Forbes Tate](https://forbes-tate.com/politico-influence-former-phrma-lobbyist-lands-at-forbes-tate/) (Tier 2)
 
 content-readiness:: ready
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 2 |
+| Countries | JAPAN |
+| Foreign Principal Records | 1 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Embassy of Japan (JAPAN)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Forbes%20Tate%20Partners,) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

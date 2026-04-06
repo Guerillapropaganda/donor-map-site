@@ -2,7 +2,7 @@
 title: "Jan Koum"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,15 @@ politicians-funded:
   - "Donald Trump"
   - "Nikki Haley"
 federal-contracts: "489"
+court-cases: 50
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, D. Delaware"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Georgia"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
 ---
 
 tags:
@@ -194,3 +203,22 @@ research-status:: ready
 | UNITED DEMOCRACY PROJECT ('UDP') | $5.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 50 |
+| Courts | District Court, D. Delaware, District Court, N.D. California, District Court, N.D. Georgia, District Court, S.D. Florida, District Court, S.D. New York, District Court, W.D. Texas |
+| Case Types | 320 Assault Libel & Slander, 360 P.I.: Other, 370 Other Fraud, 440 Civil Rights: Other, 442 Civil Rights: Jobs |
+
+**Notable cases:**
+- Dawson v. Meta Platforms, Inc. (2026) — District Court, N.D. California
+- In Re: JAN KOUM Application of JAN KOUM for an Order Pursuant to 28 U.S.C. 1782 to Conduct Discovery for Use in a Foreign Criminal Proceeding Against Remi Tessier and Dernier Etage SARL. (2025) — District Court, S.D. New York
+- Baig v. Meta Platforms, Inc. (2025) — District Court, N.D. California
+- Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
+- AbouYabis v. Emory University (2025) — District Court, N.D. Georgia
+- Yeyille v. Greenberg Traurig, P.A. (2025) — District Court, S.D. Florida
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jan%20Koum%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

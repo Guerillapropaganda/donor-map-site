@@ -2,11 +2,15 @@
 title: "Halliburton"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
+ein: 262383244
+annual-revenue: "$3.0M"
+net-assets: "$806K"
+tax-year: "2022"
 ---
 
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
@@ -67,3 +71,17 @@ content-readiness:: ready
 | WHATLEY FOR SENATE | $5.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2022)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $3.0M |
+| Total Contributions | $3.5M |
+| Investment Income | $429 |
+| Total Expenses | $3.3M |
+| Net Assets | $806K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 262383244](https://projects.propublica.org/nonprofits/organizations/262383244) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_26-26%2F262383244_202212_990_2024010522189481.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

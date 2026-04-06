@@ -2,9 +2,11 @@
 title: "Katie Britt"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
+total-received: "$5,988,486"
+fec-candidate-id: "S2AL00145"
 ---
 
 #katie-britt #senate #alabama #rising-star #business-council #donor-class-project #manufactured
@@ -124,3 +126,35 @@ When Britt moved from BCA to the Senate, she carried that donor list and alignme
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $5,988,486 |
+| Individual Contributions | $2,989,691 |
+| PAC Contributions | $1,173,650 |
+| Cash on Hand | 5167402.04 |
+| IE Support (Super PAC) | $18,744,555 |
+| IE Opposition (Super PAC) | $7,754,614 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $5,988,486 | $2,989,691 | $1,173,650 |
+| 2022 | $11,452,929 | $8,388,238 | $1,605,560 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| ALABAMA CHRISTIAN CONSERVATIVES | $7,601,554 | $0 |
+| ALABAMA CONSERVATIVES FUND | $6,460,099 | $0 |
+| CLUB FOR GROWTH ACTION | $0 | $5,162,085 |
+| AMERICAN DREAM FEDERAL ACTION | $3,310,471 | $0 |
+| CONSERVATIVE OUTSIDER PAC INC | $0 | $2,272,673 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2AL00145/) (Tier 1)
+<!-- auto:fec-politician end -->

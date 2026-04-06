@@ -2,7 +2,7 @@
 title: "L3Harris Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -14,6 +14,17 @@ issues:
 federal-awards-total: 5907320427
 federal-contracts-count: 25
 federal-grants-count: 2
+court-cases: 166
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Maryland"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. Georgia"
+  - "District Court, N.D. Indiana"
+  - "District Court, S.D. New York"
+  - "District Court, S.D. Ohio"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 
@@ -250,3 +261,22 @@ content-readiness:: developed
 | DSCC | $105.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 166 |
+| Courts | District Court, C.D. California, District Court, D. Maryland, District Court, M.D. Florida, District Court, N.D. Georgia, District Court, N.D. Indiana, District Court, S.D. New York, District Court, S.D. Ohio, United States Bankruptcy Court, S.D. Texas |
+| Case Types | 442 Civil Rights: Jobs, 445 Civil Rights: Americans with Disabilities - Employment, 850 Securities/Commodities, 880 Defend Trade Secrets Act (of 2016) |
+
+**Notable cases:**
+- Rodriguez v. L3Harris Technologies, Inc. (2026) — District Court, M.D. Florida
+- Cesar v. L3Harris Technologies, Inc. (2025) — District Court, M.D. Florida
+- Bice-Bey v. L3Harris Technologies, Inc. (2025) — District Court, N.D. Georgia
+- Cynthia Dent v. L3Harris Technologies, Inc (2025) — District Court, C.D. California
+- Dow v. L3Harris Technologies, Inc. (2025) — District Court, M.D. Florida
+- Blair v. L3Harris Technologies Inc. (2025) — District Court, N.D. Indiana
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3Harris%20Technologies%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

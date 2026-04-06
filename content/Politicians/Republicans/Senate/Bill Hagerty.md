@@ -10,6 +10,7 @@ bills-sponsored: 22
 bills-cosponsored: 158
 website: "https://www.hagerty.senate.gov"
 phone: "202-224-4944"
+bioguide-id: "A000383"
 ---
 
 #bill-hagerty #senate #tennessee #private-equity #trump-ambassador #corporate-republican #class-analysis
@@ -105,3 +106,15 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456798) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

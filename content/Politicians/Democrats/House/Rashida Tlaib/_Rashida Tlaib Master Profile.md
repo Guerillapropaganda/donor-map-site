@@ -2,7 +2,7 @@
 title: "Rashida Tlaib"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -17,6 +17,8 @@ bills-sponsored: 32
 bills-cosponsored: 871
 website: "https://tlaib.house.gov"
 phone: "202-225-5126"
+total-received: "$1,896,063"
+fec-candidate-id: "H8MI13250"
 ---
 
 #tlaib #michigan #progressive #squad #palestine #oversight #dearborn #detroit #dsa #small-dollar #censure #environmental-justice
@@ -172,3 +174,38 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 
 profile-status:: developed
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,896,063 |
+| Individual Contributions | $1,017,837 |
+| PAC Contributions | $25,100 |
+| Cash on Hand | 4908945.01 |
+| IE Support (Super PAC) | $386,687 |
+| IE Opposition (Super PAC) | $338,729 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,896,063 | $1,017,837 | $25,100 |
+| 2024 | $8,473,097 | $5,436,327 | $93,490 |
+| 2022 | $3,337,996 | $2,103,743 | $124,465 |
+| 2020 | $4,093,645 | $1,993,317 | $137,922 |
+| 2018 | $1,666,003 | $1,248,296 | $139,521 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| HONORING AMERICAN LAW ENFORCEMENT PAC | $0 | $127,500 |
+| LAW ENFORCEMENT FOR A SAFER AMERICA PAC | $0 | $127,500 |
+| WFP IE COMMITTEE | $110,550 | $0 |
+| MOVEON.ORG POLITICAL ACTION | $89,795 | $0 |
+| FRIENDS OF THE EARTH (ACTION) INC | $40,939 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
+<!-- auto:fec-politician end -->

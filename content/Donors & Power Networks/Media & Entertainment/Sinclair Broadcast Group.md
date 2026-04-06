@@ -2,11 +2,24 @@
 title: "Sinclair Broadcast Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
+court-cases: 605
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Eighth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Maryland"
+  - "District Court, D. Oregon"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Tennessee"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Florida"
 ---
 
 #sinclair #local-news #media #conservative #must-run #propaganda #consolidation
@@ -62,3 +75,22 @@ content-readiness:: ready
 | FRIENDS OF JOHN THUNE | $13.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 605 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eighth Circuit, District Court, C.D. California, District Court, D. Maryland, District Court, D. Oregon, District Court, District of Columbia, District Court, E.D. New York, District Court, E.D. Tennessee +6 more |
+| Case Types | 3440 Other Civil Rights, 440 Civil Rights: Other, 820 Copyright, 896 Other Statutes: Arbitration, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Global Weather Productions LLC v. Sinclair Broadcast Group, LLC (2026) — District Court, D. Maryland
+- Broadband Communications Association of Pennsylvan v. FCC (2026) — Court of Appeals for the D.C. Circuit
+- Mobile Force Investments, LLC v. Brian Newberry (2026) — District Court, C.D. California
+- Ricketts, Dana v. Scripps Media (2026) — District Court, S.D. Florida
+- American Signature, Inc. (2025) — United States Bankruptcy Court, D. Delaware
+- COBB v. ADVANCED TELEVISION SYSTEMS COMMITTEE (2025) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sinclair%20Broadcast%20Group%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

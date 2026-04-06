@@ -2,7 +2,7 @@
 title: "Jim Himes"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,11 @@ top-donors:
   - "Goldman Sachs"
 total-received: "$803,939"
 fec-candidate-id: "H8CT04172"
+govtrack-id: 412282
+bills-sponsored: 3
+bills-cosponsored: 157
+website: "https://himes.house.gov"
+phone: "202-225-5541"
 ---
 
 
@@ -154,3 +159,20 @@ The district-donor-committee triangle is nearly perfect. CT-04 is the hedge fund
 - [Forbes: Himes net worth estimate](https://www.forbes.com/profile/jim-himes/) *(source unavailable)* (Tier 3)
 
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 3 |
+| Bills Cosponsored | 157 |
+| Total Votes Cast | 10,663 |
+
+**Recent bills sponsored:**
+
+- H.R. 7792: Property Improvement and Manufactured Housing Loan Modernization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3395: Middle Market IPO Cost Act — *This bill passed in the House on July 21, 2025 and goes to the Senate next for consideration.*
+- H.R. 3542: CLEAR (Committee Leadership and Enhanced Accountability for Resilience) Defense Production Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412282) (Tier 1)
+<!-- auto:govtrack end -->

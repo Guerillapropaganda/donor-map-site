@@ -2,7 +2,7 @@
 title: "Apple"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -10,6 +10,8 @@ entity-type: "Corporation"
 issues:
   - "Technology"
   - "Antitrust & Monopoly"
+lobbying-spend: 29220000
+lobbying-filings: 62
 ---
 
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy
@@ -86,3 +88,22 @@ content-readiness:: ready
 | CONVERGYS CORPORATION POLITICAL ACTION COMMITTEE | $592 |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $29.2M |
+| Quarterly Filings | 62 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 14 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Economics/Economic Development, Education, Environment/Superfund, Financial Institutions/Investments/Securities, Health Issues, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Science/Technology, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** ALIGNMENT GOVERNMENT STRATEGIES, APPLE INC., CAPITOL TAX PARTNERS, LLP, FEDERAL STREET STRATEGIES, LLC, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FIERCE GOVERNMENT RELATIONS, INVARIANT LLC, LILETTE ADVISORS, MARLA GROSSMAN LLC, MILLER STRATEGIES, LLC, OLSSON, FRANK, WEEDA, TERMAN & MATZ, PC, SALT POINT STRATEGIES, THOLOS GOVERNMENT RELATIONS, U.S. APPLE ASSOCIATION
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Communications Commission (FCC) +15 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Apple) (Tier 1)
+<!-- auto:lda-lobbying end -->

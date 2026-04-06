@@ -2,7 +2,7 @@
 title: "Jamie Raskin"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,6 +16,11 @@ leadership-roles:
   - "Ranking Member"
 total-received: "$4,396,225"
 fec-candidate-id: "H6MD08457"
+govtrack-id: 412708
+bills-sponsored: 18
+bills-cosponsored: 265
+website: "https://raskin.house.gov"
+phone: "202-225-5341"
 ---
 
 #jamie-raskin #democrat #maryland #house #judiciary #ranking-member #phase-6-gavel-power #january-6th #impeachment
@@ -151,3 +156,22 @@ On campaign finance reform, he leads with the structural argument — corporatio
 
 profile-status:: ready
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 265 |
+| Total Votes Cast | 4,873 |
+
+**Recent bills sponsored:**
+
+- H.R. 8122: To amend the Public Health Service Act to award grants to eligible crisis centers to provide follow-up services to indiv — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8124: To amend the Public Health Service Act to establish a grant program to support models for providing stabilization servic — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8123: To amend the Commodity Exchange Act to prohibit certain event contracts on prediction markets, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6761: People’s White House Historic Preservation Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 16, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6589: Ranked Choice Voting Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412708) (Tier 1)
+<!-- auto:govtrack end -->

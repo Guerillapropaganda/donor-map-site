@@ -2,7 +2,7 @@
 title: "Patrick McHenry Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,8 @@ top-donors:
   - "Securities & Investment Industry"
   - "Kenneth Griffin"
   - "Crypto Industry Bloc"
+total-received: "$2,203,814"
+fec-candidate-id: "H4NC10047"
 ---
 
 
@@ -173,3 +175,38 @@ When questioned about consumer harm or fraud risk, McHenry invoked "free market 
 profile-status:: ready
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $2,203,814 |
+| Individual Contributions | $678,925 |
+| PAC Contributions | $900,300 |
+| Cash on Hand | 1807358.89 |
+| IE Support (Super PAC) | $975,328 |
+| IE Opposition (Super PAC) | $1,021 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $2,203,814 | $678,925 | $900,300 |
+| 2022 | $3,911,761 | $1,253,518 | $1,946,900 |
+| 2020 | $2,792,232 | $479,215 | $1,679,650 |
+| 2018 | $3,768,165 | $859,975 | $1,918,300 |
+| 2016 | $3,226,167 | $1,085,302 | $1,703,710 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CLUB FOR GROWTH INC PAC | $364,180 | $0 |
+| CRYPTO INNOVATION | $334,000 | $0 |
+| FAIRSHAKE | $253,252 | $0 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $11,632 | $0 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $8,130 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NC10047/) (Tier 1)
+<!-- auto:fec-politician end -->

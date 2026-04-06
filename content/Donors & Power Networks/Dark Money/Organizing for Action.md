@@ -2,13 +2,17 @@
 title: "Organizing for Action"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+ein: 461827418
+annual-revenue: "$4.7M"
+net-assets: "$2.3M"
+tax-year: "2018"
 ---
 
 #ofa #organizing-for-action #obama #501c4 #dark-money #campaign-infrastructure
@@ -57,3 +61,17 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 | OBAMA FOR AMERICA | $3.6M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2018)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $4.7M |
+| Total Contributions | $4.8M |
+| Total Expenses | $5.1M |
+| Net Assets | $2.3M |
+| Officer Compensation | $470K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 461827418](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2020_prefixes_45-46%2F461827418_201812_990O_2020010316992777.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

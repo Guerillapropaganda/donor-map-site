@@ -2,7 +2,7 @@
 title: "Harold Hamm"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,18 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Energy & Climate"
+court-cases: 75
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, D. Delaware"
+  - "District Court, D. New Mexico"
+  - "District Court, N.D. Illinois"
+  - "District Court, W.D. Oklahoma"
+  - "United States Bankruptcy Court, D. Wyoming"
+  - "United States Bankruptcy Court, E.D. Texas"
+  - "United States Bankruptcy Court, W.D. Louisiana"
+  - "United States Bankruptcy Court, W.D. North Carolina"
+total-political-spend: "$3,161,279"
 ---
 
 #donor-node #mega-donor #fossil-fuel #fracking #oklahoma #republican #class-analysis #continental-resources #bakken #energy-policy #trump-advisor #donor
@@ -200,3 +212,47 @@ content-readiness:: ready
 | REPUBLICAN NATIONAL COMMITTEE | $413.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 75 |
+| Courts | District Court, D. Delaware, District Court, D. New Mexico, District Court, N.D. Illinois, District Court, W.D. Oklahoma, United States Bankruptcy Court, D. Wyoming, United States Bankruptcy Court, E.D. Texas, United States Bankruptcy Court, W.D. Louisiana, United States Bankruptcy Court, W.D. North Carolina |
+| Case Types | 320 Assault Libel & Slander, 410 Antitrust, 850 Securities/Commodities |
+
+**Notable cases:**
+- Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
+- Basinski v. Permian Resources Corp. (2025) — District Court, D. New Mexico
+- In re: Shale Oil/WTI Crude Oil Futures & Derivatives Litigation (2025) — District Court, D. New Mexico
+- 3Red Partners LLC v. Expand Energy Corporation (2025) — District Court, N.D. Illinois
+- Anderson v. Permian Resources Corp. (2025) — District Court, D. New Mexico
+- Hayday Farms, LLP v. Permian Resources Corp. (2025) — District Court, D. New Mexico
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Harold%20Hamm%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $3,161,279 |
+| Contributions | 392 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| MAKE AMERICA GREAT AGAIN INC. | $1,200,000 | — |
+| TRUMP 47 COMMITTEE, INC. | $664,000 | — |
+| REPUBLICAN NATIONAL COMMITTEE | $413,000 | REP |
+| 170 FREEDOM MILWAUKEE 2024 HOST COMMITTEE INC | $154,000 | REP |
+| SFA FUND, INC | $105,000 | REP |
+| AMERICAN LEADERSHIP ACTION | $50,000 | — |
+| NRSC | $36,500 | REP |
+| TEAM STAND FOR AMERICA | $16,600 | — |
+| CONTINENTAL RESOURCES, INC. POLITICAL ACTION COMMITTEE | $10,000 | — |
+| THE PETROLEUM ALLIANCE OF OKLAHOMA, INC. PAC (PETROLEUM ALLIANCE PAC) | $10,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harold%20Hamm) (Tier 1)
+<!-- auto:fec-donor end -->

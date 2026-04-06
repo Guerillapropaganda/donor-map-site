@@ -2,11 +2,15 @@
 title: "AT&T"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
+ein: 593397155
+annual-revenue: "$82K"
+net-assets: "$253K"
+tax-year: "2023"
 ---
 
 #att #telecom #media #net-neutrality #lobbying #merger #surveillance #broadband
@@ -52,3 +56,16 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 - [Ballotpedia: AT&T](https://ballotpedia.org/AT&T) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $82K |
+| Total Contributions | $0 |
+| Total Expenses | $87K |
+| Net Assets | $253K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 593397155](https://projects.propublica.org/nonprofits/organizations/593397155) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_58-62%2F593397155_202312_990EZ_2024052822438682.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

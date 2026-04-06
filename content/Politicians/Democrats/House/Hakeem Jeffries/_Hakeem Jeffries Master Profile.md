@@ -2,7 +2,7 @@
 title: "Hakeem Jeffries Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,6 +16,8 @@ issues:
 top-donors:
   - "AIPAC - American Israel Public Affairs Committee"
   - "Real Estate Industry"
+total-received: "$10,327,241"
+fec-candidate-id: "H2NY10092"
 ---
 
 
@@ -214,3 +216,37 @@ The transition is the most visible evidence that Democratic leadership is a dono
 --- (Tier 3)
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $10,327,241 |
+| Individual Contributions | $2,259,645 |
+| PAC Contributions | $1,224,500 |
+| Cash on Hand | 5864742.02 |
+| IE Support (Super PAC) | $46,398 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $10,327,241 | $2,259,645 | $1,224,500 |
+| 2024 | $22,977,197 | $7,242,168 | $2,639,351 |
+| 2022 | $6,037,500 | $2,506,901 | $2,054,097 |
+| 2020 | $4,201,480 | $2,383,236 | $1,669,549 |
+| 2018 | $1,744,153 | $855,829 | $844,300 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| STUDENTSFIRST | $20,778 | $0 |
+| BLUEWAVEAMERICA LLC | $11,300 | $0 |
+| PROGRESSIVE CHANGE CAMPAIGN COMMITTEE | $7,612 | $0 |
+| HEROES UNITED PAC, DBA VOLUNTEER FIREFIGHTERS ASSOCIATION, DBA ASSOCIATION OF POLICE & FIRST RESPONDERS | $6,400 | $0 |
+| PLANNED PARENTHOOD VOTES | $195 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
+<!-- auto:fec-politician end -->

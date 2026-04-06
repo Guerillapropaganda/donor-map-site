@@ -2,7 +2,7 @@
 title: "New Venture Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,8 @@ ein: 205806345
 annual-revenue: "$669.1M"
 net-assets: "$768.5M"
 tax-year: "2023"
+lobbying-spend: 976282
+lobbying-filings: 109
 ---
 
 #new-venture-fund #arabella #dark-money #liberal #501c3 #fiscal-sponsorship
@@ -71,3 +73,22 @@ content-readiness:: ready
 | PEOPLE FOR PATTY MURRAY | $821 |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $976K |
+| Quarterly Filings | 109 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 51 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Alcohol and Drug Abuse, Banking, Beverage Industry, Budget/Appropriations, Chemicals/Chemical Industry, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Foreign Relations, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Natural Resources, Postal, Railroads, Religion, Roads/Highway, Science/Technology, Small Business, Taxation/Internal Revenue Code, Telecommunications, Tobacco, Trade (domestic/foreign), Transportation, Urban Development/Municipalities, Utilities, Veterans, Waste (hazardous/solid/interstate/nuclear), Welfare
+
+**Lobbying firms:** ADAMS AND REESE, LLP, ARNOLD & PORTER KAYE SCHOLER LLP, BGR GOVERNMENT AFFAIRS, CARD & ASSOCIATES, LLC, CARE NEW ENGLAND, CHARTWELL STRATEGY GROUP LLC, CONTINENTAL STRATEGY, LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., DAVIDOFF HUTCHER & CITRON, LLP, DENTONS US LLP, DOWNS GOVERNMENT AFFAIRS, EASTERSEALS NEW JERSEY, FORBES-TATE, GOTHAM GOVERNMENT RELATIONS, HEALTHCARE INSTITUTE OF NEW JERSEY, HOLLAND & KNIGHT LLP, JD LISS ASSOCIATES FORMERLY KNOWN AS JONATHAN DAVID LISS, K&L GATES, LLP, KRL INTERNATIONAL LLC, LIVE OAK STRATEGIES, LOBBYIT.COM, LONGBOW PUBLIC POLICY GROUP, LLC, MADISON GOVERNMENT AFFAIRS, MAYFORTH GROUP, LLC., MCBRIDE CONSULTING & BUSINESS DEVELOPMENT GROUP, MERCHANT MCINTYRE & ASSOCIATES, LLC, MERCURY PUBLIC AFFAIRS, LLC, MINDSET ADVOCACY, LLC, MITCHELL LAW PLLC, NATIONAL GROUP, LLP, NEW ADVOCATE INC, NEW AMERICAN INDUSTRIAL ALLIANCE, NEW CENTURY GOVERNMENT AFFAIRS (F/K/A TERRENCE C. WOLFE), NEW FRONT STRATEGIES GROUP, LLC, NEW HILL CONSULTING LLC, NEW JEWISH NARRATIVE (FKA AMERICANS FOR PEACE NOW), NEW LANTERN, LLC, NEXUS GOVERNMENT RELATIONS, NVG, LLC, PARK&K PUBLIC AFFAIRS LLC, PIRRO GROUP, LLC, R A RAPOZA ASSOCIATES INC, RED+BLUE STRATEGIES, RESOLUTION PUBLIC AFFAIRS, LLC, RIDGE PATH STRATEGIES, STALLMER CONSULTING LLC, STEPTOE LLP, STRATEGIES 360, THE ROYER LAW FIRM (FORMERLY ROYER & BROOKS), VAN SCOYOC ASSOCIATES, WASHINGTON NAVIGATORS
+
+**Agencies contacted:** Administration for Children & Families (ACF), Army, Dept of (Corps of Engineers), Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Defense, Dept of (DOD), Economic Development Administration, Education, Dept of, Energy, Dept of, Executive Office of the President (EOP), Federal Aviation Administration (FAA) +12 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=New%20Venture%20Fund) (Tier 1)
+<!-- auto:lda-lobbying end -->

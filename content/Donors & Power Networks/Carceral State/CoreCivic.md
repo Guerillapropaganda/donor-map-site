@@ -14,6 +14,21 @@ politicians-funded:
 federal-awards-total: 559918230
 federal-contracts-count: 25
 federal-grants-count: 0
+court-cases: 3032
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, D. Arizona"
+  - "District Court, D. Montana"
+  - "District Court, D. Nevada"
+  - "District Court, D. New Jersey"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, N.D. Ohio"
+  - "District Court, S.D. California"
+ein: 823851866
+annual-revenue: "$511K"
+net-assets: "$52K"
+tax-year: "2024"
 ---
 
 
@@ -122,3 +137,34 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-CoreCivic) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 3,032 |
+| Courts | District Court, D. Arizona, District Court, D. Montana, District Court, D. Nevada, District Court, D. New Jersey, District Court, District of Columbia, District Court, E.D. California, District Court, N.D. Ohio, District Court, S.D. California |
+| Case Types | 440 Civil Rights: Other, 463 Habeas Corpus - Alien Detainee, 895 Freedom of Information Act |
+
+**Notable cases:**
+- Ruiz v. U.S. Immigration & Customs Enforcement (2026) — District Court, E.D. California
+- DAVIS v. CORECIVIC OF TENNESSEE, LLC (2026) — District Court, D. New Jersey
+- Newell v. CoreCivic, Inc. (2026) — District Court, N.D. Ohio
+- (HC) Romero-Rubido v. Chestnut (2026) — District Court, E.D. California
+- (HC) Perez Reyes v. Chestnut (2026) — District Court, E.D. California
+- DEMOCRACY DEFENDERS FUND v. DEPARTMENT OF HOMELAND SECURITY (2026) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CoreCivic%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2024)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $511K |
+| Total Contributions | $683K |
+| Total Expenses | $583K |
+| Net Assets | $52K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 823851866](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1)
+<!-- auto:propublica-990 end -->

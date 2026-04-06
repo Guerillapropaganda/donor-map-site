@@ -2,13 +2,15 @@
 title: "JPMorgan Chase"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
 issues:
   - "Wall Street & Finance"
+lobbying-spend: 9800000
+lobbying-filings: 56
 ---
 
 #megabank #wall-street #jamie-dimon #bipartisan #financial-deregulation #revolving-door #too-big-to-fail #both-sides
@@ -149,3 +151,22 @@ The "too big to fail" designation is the vault's clearest example of **Donor-Cla
 ---
 
 content-readiness:: developed
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $9.8M |
+| Quarterly Filings | 56 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 14 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Banking, Budget/Appropriations, Consumer Issues/Safety/Products, Financial Institutions/Investments/Securities, Health Issues, Homeland Security, Small Business, Taxation/Internal Revenue Code, Travel/Tourism
+
+**Lobbying firms:** AVENUE SOLUTIONS, BALLARD PARTNERS, CAPITOL TAX PARTNERS, LLP, DENTONS US LLP, FULCRUM PUBLIC AFFAIRS LLC, GEOFFREY P. GRAY, JPMORGAN CHASE HOLDINGS LLC, MONUMENT ADVOCACY, PHRONESISDC, LLC, POLARIS GOVERNMENT RELATIONS, LLC, RICH FEUER ANDERSON, S-3 GROUP, VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC), WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, Natl Economic Council (NEC), SENATE, Treasury, Dept of, White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=JPMorgan%20Chase) (Tier 1)
+<!-- auto:lda-lobbying end -->

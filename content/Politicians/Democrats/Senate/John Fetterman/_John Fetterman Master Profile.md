@@ -2,7 +2,7 @@
 title: "John Fetterman Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,6 +13,8 @@ issues:
   - "Israel & Foreign Policy"
 top-donors:
   - "AIPAC - American Israel Public Affairs Committee"
+total-received: "$9,034,481"
+fec-candidate-id: "S6PA00274"
 ---
 
 
@@ -187,3 +189,36 @@ John Fetterman's post-election transformation raises a fundamental question abou
 - [Common Dreams: Pennsylvania's Fetterman Brings in Bernie-esque Grassroots Fundraising Haul](https://www.commondreams.org/news/2022/01/05/pennsylvanias-fetterman-brings-bernie-esque-grassroots-fundraising-haul-us-senate) (Tier 2)
 content-readiness:: ready
 last-updated:: 2026-03-24
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $9,034,481 |
+| Individual Contributions | $3,630,312 |
+| PAC Contributions | $53,588 |
+| Cash on Hand | 1948497.84 |
+| IE Support (Super PAC) | $27,586,237 |
+| IE Opposition (Super PAC) | $107,956,101 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $9,034,481 | $3,630,312 | $53,588 |
+| 2022 | $76,336,561 | $31,062,527 | $810,235 |
+| 2016 | $759,764 | $288,520 | $6,750 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SENATE LEADERSHIP FUND | $0 | $68,244,427 |
+| PRIORITIES USA ACTION | $13,092,688 | $0 |
+| AMERICAN CROSSROADS | $0 | $11,038,199 |
+| NRSC | $0 | $6,691,948 |
+| MAKE AMERICA GREAT AGAIN INC. | $0 | $6,652,742 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
+<!-- auto:fec-politician end -->

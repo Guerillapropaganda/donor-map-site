@@ -2,7 +2,7 @@
 title: "American Gaming Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -11,6 +11,16 @@ ein: 931169142
 annual-revenue: "$17.4M"
 net-assets: "$30.6M"
 tax-year: "2023"
+total-political-spend: "$695,569"
+politicians-funded:
+  - "Adam Smith"
+  - "Jason Smith"
+  - "Steve Scalise"
+  - "Bennie Thompson"
+  - "Glenn Thompson"
+  - "Mike Collins"
+  - "Susan Collins"
+  - "Kevin McCarthy"
 ---
 
 #gaming #gambling #casino #sports-betting #lobbying #addiction #deregulation #murphyvncaa #revolving-door #bipartisan #class-analysis #follow-the-money
@@ -211,3 +221,28 @@ content-readiness:: developed
 | CHC BOLD PAC | $18.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $695,569 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| CONGRESSIONAL BLACK CAUCUS PAC | $26,000 | — |
+| SMITH VICTORY | $20,000 | — |
+| CHC BOLD PAC | $18,000 | — |
+| JASON SMITH FOR CONGRESS | $13,500 | REP |
+| GUY FOR CONGRESS | $13,500 | REP |
+| HEARTLAND VALUES PAC | $13,300 | — |
+| NRCC | $13,000 | REP |
+| SCALISE FOR CONGRESS | $11,000 | REP |
+| SCALISE LEADERSHIP FUND | $11,000 | — |
+| RESCHENTHALER VICTORY FUND | $10,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Gaming%20Association) (Tier 1)
+<!-- auto:fec-donor end -->

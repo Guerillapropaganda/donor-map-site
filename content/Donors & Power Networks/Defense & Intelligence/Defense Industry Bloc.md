@@ -2,13 +2,15 @@
 title: "Defense Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Individual Donor"
 issues:
   - "Defense & Military"
+lobbying-spend: 2047000
+lobbying-filings: 123
 ---
 
 #defense #industry-bloc #lobbying #military-industrial-complex #pentagon #ndaa #contractors
@@ -55,3 +57,22 @@ The Pentagon has failed its financial audit every year since audits began in 201
 - [Congress.gov: National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670) (Tier 1)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.0M |
+| Quarterly Filings | 123 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 40 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Animals, Aviation/Airlines/Airports, Budget/Appropriations, Defense, Energy/Nuclear, Environment/Superfund, Health Issues, Homeland Security, Law Enforcement/Crime/Criminal Justice, Natural Resources, Science/Technology, Taxation/Internal Revenue Code, Telecommunications
+
+**Lobbying firms:** 1607 STRATEGIES, LLC, ALTA CREST LLC, AMERICAN DEFENSE INTERNATIONAL, INC., ANIMAL LEGAL DEFENSE FUND, ARK STRATEGY, ATS COMMUNICATIONS, INC. (DBA SILBEY STRATEGIES), AXADVOCACY GOVERNMENT RELATIONS, BURTON STRATEGY GROUP, C. BAKER CONSULTING, INC., C6 STRATEGIES, LLC (FKA MS. DANA W. HUDSON), CAPITOL PRECISION STRATEGIES, COGENT STRATEGIES LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., DEFENSE CONSULTING GROUP, LLC, E2 STRATEGIES, LLC, ELITE STRATEGIC SERVICES, GOODWIN STRATEGIES, LLC, HOLLAND & KNIGHT LLP, ICEBREAKER STRATEGIES, LLC, JAMES EDWARDS, LEWIS-BURKE ASSOCIATES, LLC, LOBBYIT.COM, MAVEN ADVOCACY PARTNERS LLC, MAVERICK HILL PARTNERS, MERCHANT STRATEGIES LLC, MR. PHILIP MAGGI, MS. ELIZABETH LAVACH, NATIONAL ASSOCIATION OF CRIMINAL DEFENSE LAWYERS (NACDL), PACIFIC DEFENSE LLC, PRASAM, PRIME TRANSATLANTIC, LLC, REPUBLIC CONSULTING, LLC, REVERE FEDERAL STRATEGIES, ROSEMONT ASSOCIATES, LLC, SKYLINE CAPITOL LLC, TIBER CREEK GROUP, TIDES GROUP, LLC, ULTRA MARITIME LLC (FORMERLY REPORTED AS ULTRA ELECTRONICS DEFENSE INC), VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC), WILLIAM BALL
+
+**Agencies contacted:** Air Force, Dept of, Army, Dept of (Other), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Export-Import Bank of the United States (EXIM Bank), Federal Aviation Administration (FAA), HOUSE OF REPRESENTATIVES, Justice, Dept of (DOJ) +5 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Defense%20Industry%20Bloc) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -2,9 +2,10 @@
 title: "Tariff Wars - The Working Class Tax Disguised as Trade Policy"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-22
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
+bioguide-id: "A000383"
 ---
 
 
@@ -101,3 +102,16 @@ The January 2020 Phase One trade deal with China was framed as the payoff for th
 - [Chad Bown, Peterson Institute. US China Phase One Tracker](https://www.piie.com/research/piie-charts/us-china-phase-one-tracker) (Tier 2)
 
 research-status:: Temporal mapping complete. Consumer cost data sourced from CBO and Tax Foundation. Farm bailout data from USDA. Liberation Day tariffs and Supreme Court ruling documented through March 2026. Nucor and steel industry donor connections need deeper FEC documentation.
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

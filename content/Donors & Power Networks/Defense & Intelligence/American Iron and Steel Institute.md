@@ -2,13 +2,19 @@
 title: "American Iron and Steel Institute"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Individual Donor"
 politicians-funded:
+  - "Mike Bost"
+  - "Paul Ryan"
   - "Donald Trump"
+  - "Mike Johnson"
+  - "Ron Johnson"
+  - "Bob Casey"
+  - "Sherrod Brown"
 total-political-spend: "$542,903"
 ---
 
@@ -131,3 +137,28 @@ The "national security" frame is the mechanism that makes the transfer invisible
 | CRAWFORD FOR CONGRESS | $16.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $542,903 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| AMERICAN IRON AND STEEL INSTITUTE POLITICAL ACTION COMMITTEE (STEEL PAC) | $77,253 | — |
+| LEVIN FOR CONGRESS | $24,000 | DEM |
+| CRAWFORD FOR CONGRESS | $16,000 | REP |
+| MIKE BOST FOR CONGRESS COMMITTEE | $15,000 | REP |
+| PORTMAN FOR SENATE COMMITTEE | $13,500 | — |
+| TERRI SEWELL FOR CONGRESS | $13,000 | DEM |
+| BILL SHUSTER FOR CONGRESS | $12,500 | REP |
+| FRIENDS OF JIM CLYBURN | $11,000 | DEM |
+| TIM RYAN FOR CONGRESS | $10,000 | DEM |
+| DONALD J. TRUMP FOR PRESIDENT, INC. | $10,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Iron%20and%20Steel%20Institute) (Tier 1)
+<!-- auto:fec-donor end -->

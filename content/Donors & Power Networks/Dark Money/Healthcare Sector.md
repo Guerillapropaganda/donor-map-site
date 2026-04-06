@@ -2,7 +2,7 @@
 title: "Healthcare Sector"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,18 @@ politicians-funded:
 issues:
   - "Healthcare"
   - "Social Safety Net"
+court-cases: 1439
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Delaware"
+  - "District Court, D. Kansas"
+  - "District Court, E.D. Michigan"
+  - "District Court, M.D. Florida"
+  - "District Court, M.D. Tennessee"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. Iowa"
+  - "District Court, W.D. Michigan"
 ---
 
 #healthcare #sector #lobbying #bipartisan #pharma #insurance #hospitals #aca #medicare #drug-pricing #class-analysis #follow-the-money
@@ -138,3 +150,22 @@ The PMC study (1999-2018) documented that $4.7 billion in pharmaceutical lobbyin
 ---
 
 content-readiness:: developed
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,439 |
+| Courts | District Court, C.D. California, District Court, D. Delaware, District Court, D. Kansas, District Court, E.D. Michigan, District Court, M.D. Florida, District Court, M.D. Tennessee, District Court, S.D. Florida, District Court, S.D. Iowa +1 more |
+| Case Types | 190 Contract: Other, 360 P.I.: Other, 370 Other Fraud, 380 Personal Property: Other |
+
+**Notable cases:**
+- Southeast Kansas Eye Care Associates, P.A., on behalf of itself and all others similarly situated v. UnitedHealth Group Incorporated (2026) — District Court, D. Kansas
+- Anesthesia Services, P.A. v. Change Healthcare Inc. (2026) — District Court, D. Delaware
+- Hawkins v. Health Gorilla, Inc. (2026) — District Court, S.D. Florida
+- Appleman v. Openloop Health, Inc. (2026) — District Court, S.D. Iowa
+- Jackson v. Trinity Health Corporation (2026) — District Court, E.D. Michigan
+- Mangold v. Stryker Corporation (2026) — District Court, W.D. Michigan
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Healthcare%20Sector%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

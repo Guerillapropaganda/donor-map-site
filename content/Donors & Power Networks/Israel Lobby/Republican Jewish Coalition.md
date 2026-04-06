@@ -2,7 +2,7 @@
 title: "Republican Jewish Coalition"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-06
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
@@ -11,6 +11,17 @@ ein: 521386172
 annual-revenue: "$6.4M"
 net-assets: "$3.4M"
 tax-year: "2023"
+court-cases: 15
+last-enriched: "2026-04-06"
+court-jurisdictions:
+  - "District Court, D. Massachusetts"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. New York"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Pennsylvania"
 ---
 
 #republican-jewish-coalition #RJC #israel-lobby #pro-israel #mega-donor #sheldon-adelson #miriam-adelson
@@ -146,3 +157,22 @@ content-readiness:: ready
 | GROW THE MAJORITY | $167.9K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 15 |
+| Courts | District Court, D. Massachusetts, District Court, District of Columbia, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. New York, District Court, N.D. Texas, District Court, S.D. New York, District Court, W.D. Pennsylvania |
+| Case Types | 440 Civil Rights: Other, 463 Prisoner Pet/Habeas Corpus: Alien Detainee, 470 Racketeer/Corrupt Organization, 820 Copyright, 840 Trademark |
+
+**Notable cases:**
+- International Union, United Automobile, Aerospace and Agricultural Implement Workers of America v. United States Department of State (2025) — District Court, S.D. New York
+- Stanford Daily Publishing Corporation v. Rubio (2025) — District Court, N.D. California
+- Kordia v. Noem (2025) — District Court, N.D. Texas
+- SULTAN v. TRUMP (2025) — District Court, District of Columbia
+- American Association of University Professors v. Rubio (2025) — District Court, D. Massachusetts
+- Taal v. Trump (2025) — District Court, N.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Republican%20Jewish%20Coalition%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

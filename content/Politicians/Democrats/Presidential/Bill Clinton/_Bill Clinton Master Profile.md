@@ -2,13 +2,14 @@
 title: "Bill Clinton"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Presidential"
 issues:
   - "Wall Street & Finance"
+fec-candidate-id: "P60012333"
 ---
 
 #politician #dlc #third-way #class-realignment #wall-street #deregulation #nafta #crime-bill #telecom #welfare-reform #revolving-door #follow-the-money #class-analysis
@@ -222,3 +223,21 @@ The long-term class consequence: Clinton's realignment of the Democratic Party t
 ---
 
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2016 |
+| Cash on Hand | 0.00 |
+| IE Opposition (Super PAC) | $1,876 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| REPUBLICAN NATIONAL COMMITTEE | $0 | $1,278 |
+| MICHIGAN REPUBLICAN PARTY | $0 | $597 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60012333/) (Tier 1)
+<!-- auto:fec-politician end -->

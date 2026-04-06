@@ -2,7 +2,7 @@
 title: "Maria Elvira Salazar"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-31
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,7 @@ state-abbr: "FL"
 district: "27"
 top-donors:
   - "AIPAC"
+bioguide-id: "A000383"
 ---
 
 #politician #republican #house #florida #cuba #exile #class-analysis #follow-the-money #miami #little-havana
@@ -104,3 +105,16 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 profile-status:: developed
 content-readiness:: developed
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->
