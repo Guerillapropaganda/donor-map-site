@@ -29,6 +29,8 @@ export function pageResources(
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
   const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const networkGraphPath = joinSegments(baseDir, "static/networkGraph.json")
+  const networkGraphScript = `const fetchGraphData = fetch("${networkGraphPath}").then(data => data.json())`
 
   const resources: StaticResources = {
     css: [
@@ -48,6 +50,12 @@ export function pageResources(
         contentType: "inline",
         spaPreserve: true,
         script: contentIndexScript,
+      },
+      {
+        loadTime: "beforeDOMReady",
+        contentType: "inline",
+        spaPreserve: true,
+        script: networkGraphScript,
       },
       ...staticResources.js,
     ],

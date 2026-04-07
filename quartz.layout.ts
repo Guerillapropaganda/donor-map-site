@@ -13,6 +13,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.InteractiveGraphs(),
+    Component.NetworkGraph(),
     Component.PowerRankings(),
     Component.WhoFundsYourRep(),
     Component.WeeklySpotlight(),
@@ -88,28 +89,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.Search()),
-    Component.ConditionalRender({
-      component: Component.DesktopOnly(Component.Graph({
-        localGraph: {
-          depth: 1,
-          repelForce: 0.5,
-          centerForce: 0.3,
-          linkDistance: 30,
-          fontSize: 0.6,
-          focusOnHover: true,
-          showTags: false,
-        },
-        globalGraph: {
-          depth: 1,
-          repelForce: 0.3,
-          centerForce: 0.4,
-          linkDistance: 30,
-          fontSize: 0.5,
-          showTags: false,
-        },
-      })),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
     Component.ConditionalRender({
       component: Component.DesktopOnly(Component.TableOfContents()),
       condition: (page) => !isProfilePage(page),
