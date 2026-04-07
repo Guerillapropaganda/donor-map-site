@@ -2,7 +2,7 @@
 title: "Wells Fargo"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -12,6 +12,21 @@ issues:
 federal-awards-total: 3800000
 federal-contracts-count: 1
 federal-grants-count: 0
+court-cases: 268613
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Maryland"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, E.D. North Carolina"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Kentucky"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #wells-fargo #wall-street #consumer #fraud #fake-accounts #banking #charlotte
@@ -73,3 +88,40 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Wells%20Fargo) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 268,613 |
+| Courts | District Court, C.D. California, District Court, D. Maryland, District Court, District of Columbia, District Court, E.D. California, District Court, E.D. North Carolina, District Court, M.D. Florida, District Court, N.D. California, District Court, N.D. Illinois +7 more |
+| Case Types | 160 Stockholders Suits, 480 Consumer Credit, 890 Other Statutory Actions |
+
+**Notable cases:**
+- Erakat v. Wells Fargo & Company (2026) — District Court, E.D. California
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- Jordan R Benavides (2026) — United States Bankruptcy Court, S.D. New York
+- Curti v. Winfrey (2026) — District Court, S.D. New York
+- Weiss v. Early Warning Services, LLC (2026) — District Court, M.D. Florida
+- Celia M. Pew and Alexander E. Metcalf (2026) — United States Bankruptcy Court, D. Maryland
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Wells%20Fargo%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Wells%20Fargo) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

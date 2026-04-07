@@ -2,7 +2,7 @@
 title: "Maria Elvira Salazar"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,8 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
 ofac-programs:
   - "SDNTK"
+total-received: "$922,124"
+fec-candidate-id: "H8FL27185"
 ---
 
 #politician #republican #house #florida #cuba #exile #class-analysis #follow-the-money #miami #little-havana
@@ -139,3 +141,38 @@ content-readiness:: developed
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $922,124 |
+| Individual Contributions | $299,075 |
+| PAC Contributions | $307,929 |
+| Cash on Hand | 1714102.22 |
+| IE Support (Super PAC) | $2,426,501 |
+| IE Opposition (Super PAC) | $3,842,853 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $922,124 | $299,075 | $307,929 |
+| 2024 | $3,230,464 | $722,721 | $999,203 |
+| 2022 | $5,647,931 | $2,904,271 | $1,052,578 |
+| 2020 | $3,690,747 | $2,573,339 | $237,500 |
+| 2018 | $2,069,164 | $1,613,392 | $71,200 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DCCC | $0 | $2,048,831 |
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $1,712,393 | $0 |
+| HOUSE MAJORITY PAC | $0 | $1,162,569 |
+| LATINO VOTE FOR AMERICA PAC | $214,840 | $0 |
+| WOMEN VOTE! | $0 | $204,486 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8FL27185/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -2,7 +2,7 @@
 title: "Kenneth Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -28,6 +28,15 @@ ein: 581607989
 annual-revenue: "$86K"
 net-assets: "$83K"
 tax-year: "2023"
+sec-filings: 4674
+sec-form-types:
+  - "EX-99.1"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SC TO-I/A"
+  - "SC TO-T/A"
+  - "SCHEDULE 13G"
+  - "SCHEDULE 13G/A"
 ---
 
 
@@ -221,3 +230,21 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 581607989](https://projects.propublica.org/nonprofits/organizations/581607989) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 4,674 |
+| Form Types | EX-99.1, SC 13G, SC 13G/A, SC TO-I/A, SC TO-T/A, SCHEDULE 13G, SCHEDULE 13G/A |
+
+**Notable filings:**
+
+- 2004-08-24 — **SC 13G**: SC 13G
+- 2003-06-27 — **SC 13G**: SC 13G
+- 2002-10-28 — **SC 13G**: SC 13G
+- 2002-08-09 — **SC 13G**: SC 13G
+- 2002-10-11 — **SC 13G**: SC 13G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kenneth%20Griffin%22) (Tier 1)
+<!-- auto:sec-edgar end -->

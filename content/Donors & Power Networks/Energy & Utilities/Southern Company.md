@@ -2,11 +2,14 @@
 title: "Southern Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
+lei: "549300ZW53G2TUFW5T39"
+lei-jurisdiction: "US-GA"
+lei-parent: "THE SOUTHERN COMPANY"
 ---
 
 #southern-company #utility #georgia #nuclear #coal #monopoly #rate-base
@@ -65,3 +68,23 @@ content-readiness:: ready
 | JOHNSON LEADERSHIP FUND | $55.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300ZW53G2TUFW5T39](https://search.gleif.org/#/record/549300ZW53G2TUFW5T39) |
+| Legal Name | Southern Company Gas |
+| Jurisdiction | US-GA |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-05-05T18:14:14Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [THE SOUTHERN COMPANY](https://search.gleif.org/#/record/549300FC3G3YU2FBZD92) (US-DE)
+- Southern Company Gas (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

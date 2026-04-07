@@ -14,6 +14,12 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
+top-federal-agency: "Department of the Interior"
+top-naics-code: "561599"
 ---
 
 
@@ -141,3 +147,51 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Lyft) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+| Top Federal Agency | Department of the Interior ($105K) |
+| Primary NAICS Sector | All Other Travel Arrangement and Reservation Services |
+
+**Subcontractors receiving federal money from Lyft:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to Lyft:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of the Interior | $105K |
+| Department of Veterans Affairs | $48K |
+| Department of Energy | $40K |
+| Department of State | $30K |
+| General Services Administration | $13K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| All Other Travel Arrangement and Reservation Services (561599) | $177K |
+| Recreational Goods Rental (532284) | $28K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Lyft) (Tier 1)
+<!-- auto:usaspending-subawards end -->

@@ -2,7 +2,7 @@
 title: "Harold Hamm"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,7 +12,7 @@ politicians-funded:
 issues:
   - "Energy & Climate"
 court-cases: 75
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 court-jurisdictions:
   - "District Court, D. Delaware"
   - "District Court, D. New Mexico"
@@ -26,6 +26,13 @@ total-political-spend: "$3,161,279"
 federal-register-mentions: 3
 regulatory-agencies:
   - "Federal Trade Commission"
+ein: "461256191"
+annual-revenue: "$163K"
+net-assets: "$11.1M"
+tax-year: "2024"
+nonprofit-status: "501(c)(3)"
+total-revenue: 160081
+total-assets: 8950006
 ---
 
 #donor-node #mega-donor #fossil-fuel #fracking #oklahoma #republican #class-analysis #continental-resources #bakken #energy-policy #trump-advisor #donor
@@ -275,3 +282,40 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Harold%20Hamm%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Financial Overview (990 Filing — 2024)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $163K |
+| Total Contributions | $0 |
+| Total Expenses | $2.1M |
+| Net Assets | $11.1M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 461256191](https://projects.propublica.org/nonprofits/organizations/461256191) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 461256191 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $160K |
+| Total Assets | $9.0M |
+| NTEE Code | T21 |
+| IRS Ruling Date | 2013-04-01 |
+| Filings on Record | 9 |
+
+**Filing history:** 2024, 2023, 2022, 2021, 2020, 2016, 2015, 2014
+
+**View 990 filings:**
+- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2024)
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2020)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461256191) (Tier 1)
+<!-- auto:nonprofit-990 end -->

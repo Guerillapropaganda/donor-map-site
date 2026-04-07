@@ -2,7 +2,7 @@
 title: "Consumer Energy Alliance"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "IRAN-EO13846"
 court-cases: 44
@@ -21,6 +21,10 @@ court-jurisdictions:
   - "District Court, D. Oregon"
   - "District Court, District of Columbia"
   - "United States Bankruptcy Court, S.D. Texas"
+ein: "261658339"
+nonprofit-status: "501(c)(4)"
+total-revenue: 3002567
+total-assets: 1618273
 ---
 
 #fossil-fuel-astroturf #energy-lobby #dark-money #greenwashing #regulatory-capture
@@ -109,3 +113,28 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Consumer%20Energy%20Alliance%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 261658339 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $3.0M |
+| Total Assets | $1.6M |
+| NTEE Code | C35 |
+| IRS Ruling Date | 2008-09-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/261658339) (Tier 1)
+<!-- auto:nonprofit-990 end -->

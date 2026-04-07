@@ -2,7 +2,7 @@
 title: "Jeff Merkley Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,6 +18,8 @@ issues:
 top-donors:
   - "Labor Unions"
   - "Small Dollar Donors"
+total-received: "$6,114,210"
+fec-candidate-id: "S8OR00207"
 ---
 
 
@@ -134,3 +136,37 @@ party:: Democrat
 profile-status:: ready
 research-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $6,114,210 |
+| Individual Contributions | $2,859,515 |
+| PAC Contributions | $360,725 |
+| Cash on Hand | 5951698.96 |
+| IE Support (Super PAC) | $1,836,784 |
+| IE Opposition (Super PAC) | $8,101,626 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $6,114,210 | $2,859,515 | $360,725 |
+| 2020 | $11,451,041 | $5,004,768 | $755,251 |
+| 2014 | $12,022,202 | $5,410,134 | $2,270,237 |
+| 2008 | $6,512,231 | $3,802,026 | $708,040 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $0 | $5,166,418 |
+| FREEDOM PARTNERS ACTION FUND INC | $0 | $2,028,031 |
+| SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (SEIU COPE) | $861,651 | $0 |
+| League of Conservation Voters Inc | $591,357 | $0 |
+| AMERICAN FUTURE FUND POLITICAL ACTION | $0 | $330,000 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1)
+<!-- auto:fec-politician end -->

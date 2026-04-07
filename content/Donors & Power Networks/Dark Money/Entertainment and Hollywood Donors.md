@@ -181,3 +181,21 @@ content-readiness:: developed
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Entertainment%20and%20Hollywood%20Donors&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 4 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Barack Obama]] — contracts: $997K
+- [[Joe Biden]] — contracts: $997K
+- [[Hillary Clinton]] — contracts: $997K
+- [[Jon Ossoff]] — contracts: $997K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "Pharmaceutical Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -13,6 +13,10 @@ issues:
   - "Healthcare"
   - "Social Safety Net"
   - "Dark Money & Campaign Finance"
+ein: 431985339
+annual-revenue: "$4.1M"
+net-assets: "$615K"
+tax-year: "2023"
 ---
 
 #pharma #pharmaceutical #lobbying #drug-pricing #bipartisan #medicare #negotiation #revolving-door #dark-money #class-analysis
@@ -190,3 +194,15 @@ content-readiness:: developed
 | NRSC - NONFEDERAL | $250 |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $4.1M |
+| Total Contributions | $4.1M |
+| Total Expenses | $4.1M |
+| Net Assets | $615K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 431985339](https://projects.propublica.org/nonprofits/organizations/431985339) (Tier 1)
+<!-- auto:propublica-990 end -->

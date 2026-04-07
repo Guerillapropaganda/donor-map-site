@@ -18,6 +18,15 @@ ein: 300039820
 annual-revenue: "$4.2M"
 net-assets: "$148.4M"
 tax-year: "2023"
+federal-register-mentions: 3
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Energy Department"
+  - "Federal Aviation Administration"
+  - "Federal Energy Regulatory Commission"
+  - "Labor Department"
+  - "Transportation Department"
+  - "Wage and Hour Division"
 ---
 
 #jb-pritzker #illinois #hyatt #billionaire #self-funder #democratic #governor #mega-donor #dark-money #2028 #think-big-america #dga #class-analysis
@@ -204,3 +213,20 @@ content-readiness:: developed
 - [Source: ProPublica Nonprofit Explorer — EIN 300039820](https://projects.propublica.org/nonprofits/organizations/300039820) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F300039820_202312_990PF_2024112522929848.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 3 |
+| Proposed Rule | 1 |
+| Notice | 2 |
+| Agencies | Energy Department, Federal Aviation Administration, Federal Energy Regulatory Commission, Labor Department, Transportation Department, Wage and Hour Division |
+
+**Recent regulatory activity:**
+- [Employment of Workers With Disabilities Under Section 14(c) of the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/12/04/2024-27880/employment-of-workers-with-disabilities-under-section-14c-of-the-fair-labor-standards-act) (2024-12-04) — Labor Department
+- [Records Governing Off-the-Record Communications; Public Notice](https://www.federalregister.gov/documents/2023/11/16/2023-25342/records-governing-off-the-record-communications-public-notice) (2023-11-16) — Energy Department
+- [COVID-19 Related Relief Concerning Operations at Chicago O'Hare International Airport, John F. Kennedy International Airport, Los Angeles International Airport, Newark Liberty International Airport, New York LaGuardia Airport, Ronald Reagan Washington National Airport, and San Francisco International Airport for the Winter 2020/2021 Scheduling Season](https://www.federalregister.gov/documents/2020/10/07/2020-22291/covid-19-related-relief-concerning-operations-at-chicago-ohare-international-airport-john-f-kennedy) (2020-10-07) — Transportation Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22JB%20Pritzker%22) (Tier 1)
+<!-- auto:federal-register end -->

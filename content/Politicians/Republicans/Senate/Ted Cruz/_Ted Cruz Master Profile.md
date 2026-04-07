@@ -2,7 +2,7 @@
 title: "Ted Cruz Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 career-total: "$100M"
 parent: null
@@ -17,6 +17,11 @@ top-donors:
   - "Robert Mercer"
   - "Koch Network - Charles Koch"
   - "Crypto Industry Bloc"
+govtrack-id: 412573
+bills-sponsored: 111
+bills-cosponsored: 220
+website: "https://www.cruz.senate.gov"
+phone: "202-224-5922"
 ---
 
 
@@ -140,3 +145,22 @@ Cruz's relationship with Trump reveals the donor-class hierarchy:
 - [Wall Street Journal: Mercer-Cruz financial relationship](https://www.opensecrets.org/news/2018/03/before-trump-cambridge-analytica-was-on-team-cruz/) (Tier 2)
 - [CNBC: leaked 2026 tariff recordings](https://www.axios.com/2026/01/25/cruz-trump-vance-secret-tapes) (Tier 2)
 conte
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 111 |
+| Bills Cosponsored | 220 |
+| Total Votes Cast | 4,851 |
+
+**Recent bills sponsored:**
+
+- S. 4063: Polisario Front Terrorist Designation Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3798: Safe Access to Cash Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 5, 2026.*
+- S. 4009: Falun Gong and Victims of Forced Organ Harvesting Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 933: NASA Transition Authorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+- S. 3923: Weather Research and Forecasting Innovation Reauthorization Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412573) (Tier 1)
+<!-- auto:govtrack end -->

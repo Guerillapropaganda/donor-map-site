@@ -196,3 +196,18 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 273743368](https://projects.propublica.org/nonprofits/organizations/273743368) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F273743368_201612_990EZ_2017080814620190.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]] — contracts: $19K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

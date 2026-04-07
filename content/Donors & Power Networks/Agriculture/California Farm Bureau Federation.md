@@ -2,7 +2,7 @@
 title: "California Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -16,7 +16,7 @@ annual-revenue: "$12.9M"
 net-assets: "$73.5M"
 tax-year: "2023"
 federal-register-mentions: 23
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Alcohol and Tobacco Tax and Trade Bureau"
   - "Commerce Department"
@@ -28,6 +28,14 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Interior Department"
   - "Labor Department"
+court-cases: 111
+court-jurisdictions:
+  - "Court of Appeals for the Federal Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, E.D. California"
+  - "District Court, W.D. Washington"
+  - "United States Bankruptcy Court, D. Delaware"
 ---
 
 
@@ -143,3 +151,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Farm%20Bureau%20Federation%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 111 |
+| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, E.D. California, District Court, W.D. Washington, United States Bankruptcy Court, D. Delaware |
+| Case Types | 896 Other Statutes: Arbitration, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Environmental Matters, Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Racketeer/Corrupt Organization |
+
+**Notable cases:**
+- United Farm Workers v. United States Department of Labor (2025) — District Court, E.D. California
+- California Chamber of Commerce, et al. v. Bonta, et al. (2025) — Court of Appeals for the Ninth Circuit
+- Moreno v. Rivas (2025) — District Court, E.D. California
+- Kohleriter v. U.S. Dept. of Agriculture (2025) — District Court, E.D. California
+- San Luis Obispo Coastkeeper, et al. v. County of San Luis Obispo (2024) — Court of Appeals for the Ninth Circuit
+- Baker Ranches, Inc., et al. v. Haaland, et al. (2024) — Court of Appeals for the Ninth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

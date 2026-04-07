@@ -2,7 +2,7 @@
 title: "SEIU - Service Employees International Union"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -18,6 +18,7 @@ ein: 361760052
 annual-revenue: "$14.9M"
 net-assets: "$8.2M"
 tax-year: "2023"
+total-political-spend: "$15,473,514"
 ---
 
 
@@ -186,3 +187,28 @@ content-readiness:: ready
 
 - [SEIU Local 721 March 2026 President's Report](https://www.seiu721.org/presidents-report/presidents-report-march-2026.php) (Tier 2)
 - [Amsterdam News: 32BJ SEIU building workers enter contract talks](https://amsterdamnews.com/news/2026/03/12/32bj-seiu-building-workers-enter-contract-talks/) (Tier 2)
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $15,473,514 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| FOR OUR FUTURE | $3,556,490 | — |
+| FF PAC | $3,500,000 | — |
+| UNITED WE CAN | $2,700,751 | — |
+| IN UNION USA | $750,000 | — |
+| CARE IN ACTION PAC | $750,000 | — |
+| FOR OUR FREEDOM | $600,000 | — |
+| COMMUNITY CHANGE VOTERS | $300,000 | — |
+| COLOROFCHANGE PAC | $300,000 | — |
+| UNIDOSUS ACTION PAC | $250,000 | — |
+| VOTAR ES PODER PAC | $235,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=SEIU%20-%20Service%20Employees%20International%20Union) (Tier 1)
+<!-- auto:fec-donor end -->

@@ -2,7 +2,7 @@
 title: "Stand Together"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -22,6 +22,28 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Veterans Employment and Training Service"
+sec-filings: 263
+sec-form-types:
+  - "425"
+  - "6-K"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-10.(L)"
+  - "EX-10.1"
+  - "EX-10.F"
+  - "EX-10.J"
+  - "EX-14"
+  - "EX-14.1"
+  - "EX-17"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.1 CHARTER"
+  - "EX-99.2"
+  - "FWP"
+  - "N-30D"
+  - "PX14A6G"
 ---
 
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money
@@ -190,3 +212,21 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Stand%20Together%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 263 |
+| Form Types | 425, 6-K, 8-K, DEF 14A, DEFA14A, DFAN14A, EX-10.(L), EX-10.1 +12 more |
+
+**Notable filings:**
+
+- 2024-08-08 — **EX-99.1**: EXHIBIT 99.1
+- 2001-03-29 — **EX-10.F**: 1995 LONG-TERM INCENTIVE COMPENSATION PLAN
+- 2020-06-30 — **EX-99.1**: EXHIBIT 99.1
+- 2001-03-29 — **EX-10.J**: SUPPLEMENTAL BENEFITS PLAN
+- 2002-02-28 — **EX-10.(L)**: EXHIBIT 10(L)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Stand%20Together%22) (Tier 1)
+<!-- auto:sec-edgar end -->

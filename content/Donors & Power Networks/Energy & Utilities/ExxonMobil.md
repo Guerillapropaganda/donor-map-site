@@ -2,7 +2,7 @@
 title: "ExxonMobil"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -16,7 +16,7 @@ politicians-funded:
 issues:
   - "Energy & Climate"
 court-cases: 6535
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 court-jurisdictions:
   - "Court of Appeals for the Sixth Circuit"
   - "District Court, C.D. California"
@@ -28,6 +28,16 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, S.D. Indiana"
   - "District Court, S.D. Texas"
+ein: "136082357"
+annual-revenue: "$6.0M"
+net-assets: "$108.5M"
+tax-year: "2023"
+nonprofit-status: "501(c)(3)"
+total-revenue: 4713229
+total-assets: 78357234
+federal-awards-total: 7553962
+federal-contracts-count: 25
+federal-grants-count: 0
 ---
 
 #donor-node #fossil-fuel #oil-gas #exxonmobil #climate #lobbying #bipartisan #donor #class-analysis #follow-the-money
@@ -398,3 +408,61 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ExxonMobil%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $6.0M |
+| Total Contributions | $0 |
+| Total Expenses | $29.9M |
+| Net Assets | $108.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 136082357](https://projects.propublica.org/nonprofits/organizations/136082357) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 136082357 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $4.7M |
+| Total Assets | $78.4M |
+| IRS Ruling Date | 1957-07-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136082357) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $7.6M |
+| Contracts (recent 3yr) | 25 ($9.8M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 1 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $619K | Department of Defense | N102 / N7 / R.GREER / LUBE OIL DELIVERY ORDER TO USNS LEWIS B. PULLER LOCATED IN BAHRAIN. |
+| $619K | Department of Defense | N102D/T.CUNNINGHAM  LUBE OIL DELIVERY IN SUPPORT OF USNS JOHN L. CANLEY, RDD 04/02/2023. |
+| $529K | Department of Defense | N102/N7/T.CUNNINGHAM/DELIVERY ORDER FOR USNS LEWIS AND CLARK |
+| $491K | Department of Defense | LUBE OIL ORDER FOR USNS ALAN SHEPARD |
+| $470K | Department of Defense | N102/N7/T.CUNNINGHAM/DELIVERY ORDER FOR USNS MONTFORD POINT |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-ExxonMobil) (Tier 1)
+<!-- auto:usaspending end -->

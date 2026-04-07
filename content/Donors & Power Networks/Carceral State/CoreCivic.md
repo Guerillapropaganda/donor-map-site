@@ -193,3 +193,20 @@ content-readiness:: ready
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=CoreCivic&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]] — contracts: $608
+- [[Donald Trump]] — contracts: $608
+- [[Chad Bianco]] — contracts: $608
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

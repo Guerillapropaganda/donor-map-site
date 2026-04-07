@@ -25,6 +25,8 @@ court-jurisdictions:
   - "District Court, S.D. Ohio"
   - "District Court, W.D. Washington"
   - "United States Bankruptcy Court, C.D. California"
+lei: "254900R0UACRM2XT9692"
+lei-jurisdiction: "US-NC"
 ---
 
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor
@@ -260,3 +262,18 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Boeing%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [254900R0UACRM2XT9692](https://search.gleif.org/#/record/254900R0UACRM2XT9692) |
+| Legal Name | Boeing Ventures, LLC |
+| Jurisdiction | US-NC |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-06-17T20:50:41Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

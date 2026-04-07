@@ -2,7 +2,7 @@
 title: "Donald Trump Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,9 @@ top-donors:
   - "Richard Uihlein"
   - "Kenneth Griffin"
   - "Crypto Industry Bloc"
+govtrack-id: 412733
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 
@@ -301,3 +304,14 @@ profile-status:: ready — master profile fully built with inline citations. All
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 0 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412733) (Tier 1)
+<!-- auto:govtrack end -->

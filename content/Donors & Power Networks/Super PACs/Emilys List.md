@@ -11,6 +11,13 @@ ein: 461067490
 annual-revenue: "$2.2M"
 net-assets: "$173K"
 tax-year: "2023"
+court-cases: 6
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, D. Maine"
+  - "District Court, D. New Jersey"
+  - "District Court, S.D. New York"
 ---
 
 #donor-node #super-pac #democratic #women #fundraising-infrastructure #pro-choice #gatekeeper #donor
@@ -209,3 +216,22 @@ research-status:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 461067490](https://projects.propublica.org/nonprofits/organizations/461067490) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F461067490_202306_990O_2024040422334157.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 6 |
+| Courts | Court of Appeals for the Sixth Circuit, District Court, D. Maine, District Court, D. New Jersey, District Court, S.D. New York |
+| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 820 Copyright |
+
+**Notable cases:**
+- DINNER TABLE ACTION v. SCHNEIDER (2024) — District Court, D. Maine
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- The Intercept Media, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- KIM v. HANLON (2024) — District Court, D. New Jersey
+- The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
+- United States v. Alexander Sittenfeld (2023) — Court of Appeals for the Sixth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Emilys%20List%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -2,7 +2,7 @@
 title: "Blue Shield of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -17,6 +17,10 @@ politicians-funded:
   - "Glenn Thompson"
   - "Pete Aguilar"
 total-political-spend: "$1,646,997"
+ein: 942822302
+annual-revenue: "$21.9M"
+net-assets: "$77.4M"
+tax-year: "2023"
 ---
 
 
@@ -130,3 +134,15 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Blue%20Shield%20of%20California) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $21.9M |
+| Total Contributions | $0 |
+| Total Expenses | $23.7M |
+| Net Assets | $77.4M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 942822302](https://projects.propublica.org/nonprofits/organizations/942822302) (Tier 1)
+<!-- auto:propublica-990 end -->

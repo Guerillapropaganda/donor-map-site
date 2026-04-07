@@ -2,17 +2,29 @@
 title: "American Enterprise Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "UKRAINE-EO13685"
   - "RUSSIA-EO14024"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
+federal-register-mentions: 71
+regulatory-agencies:
+  - "Comptroller of the Currency"
+  - "Consumer Financial Protection Bureau"
+  - "Consumer Product Safety Commission"
+  - "Education Department"
+  - "Employee Benefits Security Administration"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Deposit Insurance Corporation"
+  - "Federal Housing Finance Agency"
+  - "Federal Reserve System"
 ---
 
 #think-tank #conservative #neoconservative #defense-policy #climate-denial #revolving-door #dark-money #deregulation #tax-policy
@@ -395,3 +407,25 @@ content-readiness:: developed
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 71 |
+| Final Rules | 35 |
+| Proposed Rules | 19 |
+| Notices | 17 |
+| Agencies | Comptroller of the Currency, Consumer Financial Protection Bureau, Consumer Product Safety Commission, Education Department, Employee Benefits Security Administration, Energy Department, Environmental Protection Agency, Federal Deposit Insurance Corporation +7 more |
+
+**Recent regulatory activity:**
+- [ACCOUNTABILITY IN HIGHER EDUCATION AND ACCESS THROUGH DEMAND-DRIVEN WORKFORCE PELL: PELL GRANT EXCLUSION RELATING TO OTHER GRANT AID; AND WORKFORCE PELL GRANTS](https://www.federalregister.gov/documents/2026/03/09/2026-04520/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant) (2026-03-09) — Education Department
+- [Reimagining and Improving Student Education](https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education) (2026-01-30) — Education Department
+- [Safety Standard for Toys: Requirements for Water Beads](https://www.federalregister.gov/documents/2025/12/12/2025-22643/safety-standard-for-toys-requirements-for-water-beads) (2025-12-12) — Consumer Product Safety Commission
+- [Facilitating Earlier Filing of Certain Electronically Submitted H-2A Petitions](https://www.federalregister.gov/documents/2025/10/02/2025-19235/facilitating-earlier-filing-of-certain-electronically-submitted-h-2a-petitions) (2025-10-02) — Homeland Security Department
+- [Renewable Fuel Standard (RFS) Program: Standards for 2026 and 2027, Partial Waiver of 2025 Cellulosic Biofuel Volume Requirement, and Other Changes](https://www.federalregister.gov/documents/2025/06/17/2025-11128/renewable-fuel-standard-rfs-program-standards-for-2026-and-2027-partial-waiver-of-2025-cellulosic) (2025-06-17) — Environmental Protection Agency ★
+- [Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers](https://www.federalregister.gov/documents/2025/01/21/2024-31214/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and) (2025-01-21) — Energy Department
+- ... and 65 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Enterprise%20Institute%22) (Tier 1)
+<!-- auto:federal-register end -->

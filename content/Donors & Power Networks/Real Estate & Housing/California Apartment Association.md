@@ -2,7 +2,7 @@
 title: "California Apartment Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -14,12 +14,14 @@ issues:
 lobbying-spend: 10419974
 lobbying-filings: 105
 court-cases: 123
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"
   - "Court of Appeals for the Second Circuit"
   - "District Court, C.D. California"
   - "District Court, N.D. California"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 
@@ -175,3 +177,21 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=California%20Apartment%20Association) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

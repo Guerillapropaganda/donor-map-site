@@ -2,19 +2,16 @@
 title: "AIPAC - American Israel Public Affairs Committee"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Donald Trump"
-  - "Gavin Newsom"
-  - "Bernie Sanders"
-  - "Donna Miller"
-  - "Melissa Bean"
-  - "Daniel Biss"
-  - "JB Pritzker"
+  - "Ritchie Torres"
+  - "Jim Risch"
+  - "Frank Pallone"
+  - "Virginia Foxx"
 issues:
   - "Israel & Foreign Policy"
 featured-date: "2026-04-03"
@@ -25,6 +22,11 @@ last-enriched: "2026-04-06"
 ofac-programs:
   - "BELARUS"
   - "GLOMAG"
+total-political-spend: "$790,700"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
 ---
 
 
@@ -480,3 +482,57 @@ content-readiness:: developed — April 2026 merge. Added UNVERIFIED sections: l
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $790,700 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| TORRES FOR CONGRESS | $245,418 | DEM |
+| JIM RISCH FOR U.S. SENATE COMMITTEE | $175,208 | REP |
+| LANDSMAN FOR CONGRESS | $143,120 | DEM |
+| RUDY FOR INDIANA | $64,327 | REP |
+| PALLONE FOR CONGRESS | $32,470 | DEM |
+| MARIE FOR CONGRESS | $30,750 | DEM |
+| LANGWORTHY FOR CONGRESS | $30,500 | REP |
+| KUSTOFF FOR CONGRESS | $20,400 | REP |
+| BILIRAKIS FOR CONGRESS | $13,250 | REP |
+| JOSH BRECHEEN FOR CONGRESS | $13,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AIPAC%20-%20American%20Israel%20Public%20Affairs%20Committee) (Tier 1)
+<!-- auto:fec-donor end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+
+**Subcontractors receiving federal money from AIPAC - American Israel Public Affairs Committee:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to AIPAC - American Israel Public Affairs Committee:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-AIPAC%20-%20American%20Israel%20Public%20Affairs%20Committee) (Tier 1)
+<!-- auto:usaspending-subawards end -->

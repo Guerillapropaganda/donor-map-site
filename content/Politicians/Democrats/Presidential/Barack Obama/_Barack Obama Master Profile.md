@@ -2,7 +2,7 @@
 title: "Barack Obama Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -35,6 +35,7 @@ top-donors:
   - "JPMorgan Chase"
   - "Google"
   - "Apple"
+fec-candidate-id: "S6CA00808"
 ---
 
 
@@ -259,7 +260,8 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 2 of 2 |
+| Donors Who Also Lobby | 2 of 3 |
+| Donors With Federal Contracts | 1 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
@@ -269,3 +271,13 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2016 |
+| Cash on Hand | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6CA00808/) (Tier 1)
+<!-- auto:fec-politician end -->

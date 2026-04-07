@@ -21,6 +21,26 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, W.D. Texas"
 total-political-spend: "$31,584,790"
+sec-filings: 2516
+sec-form-types:
+  - "10-K/A"
+  - "3"
+  - "4"
+  - "424B7"
+  - "5"
+  - "8-K"
+  - "D"
+  - "DEF 14A"
+  - "DEFR14A"
+  - "EX-10.1"
+  - "EX-24.3_541198"
+  - "EX-4.9"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "N-PX"
+  - "PRE 14A"
+  - "S-3ASR"
+  - "S-8"
 ---
 
 tags:
@@ -264,3 +284,21 @@ research-status:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jan%20Koum) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 2,516 |
+| Form Types | 10-K/A, 3, 4, 424B7, 5, 8-K, D, DEF 14A +10 more |
+
+**Notable filings:**
+
+- 2016-06-17 — **4**: PRIMARY DOCUMENT
+- 2016-05-05 — **4**: PRIMARY DOCUMENT
+- 2017-08-17 — **4**: PRIMARY DOCUMENT
+- 2016-05-26 — **4**: PRIMARY DOCUMENT
+- 2015-05-01 — **4**: PRIMARY DOCUMENT
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jan%20Koum%22) (Tier 1)
+<!-- auto:sec-edgar end -->

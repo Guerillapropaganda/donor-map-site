@@ -2,7 +2,7 @@
 title: "CalPERS"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Wall Street & Finance"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
 ---
 
 #calpers #pension #california #public-employees #wall-street #private-equity #investment #lobbying #placement-agents #corruption #class-analysis #follow-the-money
@@ -159,3 +163,32 @@ The Buenrostro scandal was the system's most visible failure, but the structure 
 
 research-status:: developed — Expanded from 31-line stub to full donor node with Buenrostro corruption scandal (DOJ/SEC primary sources), PE fee transparency fight (NBC News, retiree investigation), 2025 board election spending ($660K union IE), temporal mapping table (8 entries), class analysis with union-CalPERS-Wall Street triangle, 2 callout blocks, 14 sources (5 Tier 1, 7 Tier 2, 2 Tier 3). Gaps: specific PE manager allocation amounts by firm (CalPERS annual report needed), state lobbying expenditure totals (FPPC data needed), employer contribution rate history table. Cannot reach ready without FPPC verification and complete PE fee accounting.
 content-readiness:: developed
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+
+**Subcontractors receiving federal money from CalPERS:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to CalPERS:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-CalPERS) (Tier 1)
+<!-- auto:usaspending-subawards end -->

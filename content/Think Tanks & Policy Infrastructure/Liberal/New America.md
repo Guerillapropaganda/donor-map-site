@@ -2,11 +2,13 @@
 title: "New America"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
+lei: "549300C6JPZKHI5YDM10"
+lei-jurisdiction: "KY"
 ---
 
 #think-tank #liberal #tech-policy #google #silicon-valley #national-security #education #obama-pipeline #class-analysis
@@ -228,3 +230,18 @@ New America is the most important case study in the vault of how Silicon Valley 
 - [SourceWatch: New America Foundation — funding, board, and policy influence documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/New_America_Foundation) (Tier 3)
 
 content-readiness:: ready
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300C6JPZKHI5YDM10](https://search.gleif.org/#/record/549300C6JPZKHI5YDM10) |
+| Legal Name | TCW NEW AMERICA PREMIER EQUITIES FUND |
+| Jurisdiction | KY |
+| Entity Status | ACTIVE |
+| Category | FUND |
+| Registration | ISSUED |
+| Last Updated | 2025-08-13T11:55:36Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -2,7 +2,7 @@
 title: "Ford Motor Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -15,6 +15,18 @@ ein: 386054714
 annual-revenue: "$30.0M"
 net-assets: "$243K"
 tax-year: "2016"
+court-cases: 21936
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Michigan"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. Texas"
+  - "United States Court of International Trade"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #ford #auto #detroit #michigan #manufacturing #ev #uaw #trade
@@ -76,3 +88,40 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 386054714](https://projects.propublica.org/nonprofits/organizations/386054714) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 21,936 |
+| Courts | District Court, C.D. California, District Court, E.D. California, District Court, E.D. Michigan, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. Texas, United States Court of International Trade |
+| Case Types | 365 Personal Inj. Prod. Liability |
+
+**Notable cases:**
+- Kane v. Ford Motor Company (2026) — District Court, E.D. California
+- Flores v. Ford Motor Company (2026) — District Court, C.D. California
+- Falman v. Ford Motor Company (2026) — District Court, E.D. Michigan
+- Melvin Taganas v. Ford Motor Company (2026) — District Court, C.D. California
+- Jerry Lee Kline v. Ford Motor Company (2026) — District Court, C.D. California
+- Grillo v. Ford Motor Company (2026) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ford%20Motor%20Company%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

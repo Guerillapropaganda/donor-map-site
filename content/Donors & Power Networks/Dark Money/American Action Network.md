@@ -15,6 +15,10 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+ein: 270730508
+annual-revenue: "$46.2M"
+net-assets: "$16.3M"
+tax-year: "2023"
 ---
 
 #aan #dark-money #republican #501c4 #lobbying #healthcare #tax #class-analysis #follow-the-money #house-republicans #pharma #corporate-dark-money
@@ -206,3 +210,17 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-American%20Action%20Network) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $46.2M |
+| Total Contributions | $46.2M |
+| Total Expenses | $65.7M |
+| Net Assets | $16.3M |
+| Officer Compensation | $1.3M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 270730508](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F270730508_202306_990O_2024061822537807.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

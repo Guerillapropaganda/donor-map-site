@@ -2,7 +2,7 @@
 title: "GEO Group - Private Prison Industrial Complex"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Carceral State"
@@ -22,6 +22,10 @@ ofac-programs:
   - "BELARUS-EO14038"
   - "RUSSIA-EO14024"
   - "IRAN-EO13902"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
 ---
 
 #donor #private-prison #immigration-detention #GEO-group #ICE #for-profit-detention #republican-donor #trump #class-analysis #follow-the-money #revolving-door #carceral-state #detention-expansion #ankle-monitor #bi-incorporated #electronic-monitoring #e-carceration #pam-bondi #sedition-caucus #forced-labor #racial-disparity
@@ -612,3 +616,32 @@ research-status:: developed — Complete 2025 financials ($2.63B revenue, $254.4
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+
+**Subcontractors receiving federal money from GEO Group - Private Prison Industrial Complex:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to GEO Group - Private Prison Industrial Complex:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1)
+<!-- auto:usaspending-subawards end -->

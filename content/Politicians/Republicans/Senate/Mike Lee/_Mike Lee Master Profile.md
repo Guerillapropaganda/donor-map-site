@@ -172,6 +172,7 @@ content-readiness:: developed
 | Metric | Value |
 |--------|-------|
 | Donors Who Also Lobby | 1 of 1 |
+| Donors With Federal Contracts | 1 |
 | Committee Overlap Detected | 1 donor |
 
 **Donate → Lobby → Committee chains:**
@@ -180,7 +181,7 @@ content-readiness:: developed
 
 **Donors who lobby (by spend):**
 
-- [[Blackstone Group]] — $4.5M lobbying spend (Aviation/Airlines/Airports, Banking, Budget/Appropriations)
+- [[Blackstone Group]] — $4.5M lobbying spend (Aviation/Airlines/Airports, Banking, Budget/Appropriations) + $623K in contracts
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->

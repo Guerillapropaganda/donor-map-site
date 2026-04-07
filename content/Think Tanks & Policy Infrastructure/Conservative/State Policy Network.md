@@ -2,13 +2,18 @@
 title: "State Policy Network"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 ein: 570952531
 annual-revenue: "$27.1M"
 net-assets: "$20.7M"
 tax-year: "2023"
+sec-filings: 3
+sec-form-types:
+  - "EX-99"
+  - "N-CSR"
+  - "PX14A6G"
 ---
 
 #think-tank #conservative #state-level #deregulation #koch-network #dark-money #class-analysis #follow-the-money
@@ -106,3 +111,19 @@ content-readiness:: draft
 - [Source: ProPublica Nonprofit Explorer — EIN 570952531](https://projects.propublica.org/nonprofits/organizations/570952531) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F570952531_202312_990_2024070522665761.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 3 |
+| Form Types | EX-99, N-CSR, PX14A6G |
+
+**Notable filings:**
+
+- 2022-05-02 — **EX-99**: DIRECTOR/OFFICER INFO
+- 2024-04-08 — **PX14A6G**: PX14A6G
+- 2006-03-10 — **N-CSR**: VARIABLE INSURANCE FUNDS/FREE ENTERPRISE ACTION FUND
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22State%20Policy%20Network%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -2,7 +2,7 @@
 title: "AT&T"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -11,6 +11,10 @@ ein: 593397155
 annual-revenue: "$82K"
 net-assets: "$253K"
 tax-year: "2023"
+cpsc-recalls: 1
+last-enriched: "2026-04-07"
+lei: "81560046090960AF7A65"
+lei-jurisdiction: "IT"
 ---
 
 #att #telecom #media #net-neutrality #lobbying #merger #surveillance #broadband
@@ -69,3 +73,33 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 593397155](https://projects.propublica.org/nonprofits/organizations/593397155) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_58-62%2F593397155_202312_990EZ_2024052822438682.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 1 |
+| Most Recent Recall | 1995-12-18 |
+| Hazard Types | Electrocution/Electric Shock |
+
+**Recent recalls:**
+
+- [Cellular Phone Charger Recalled by Mascot Electronic A.S.](https://www.cpsc.gov/Recalls/96043) (1995-12-18) — Electrocution/Electric Shock
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=AT%26T) (Tier 1)
+<!-- auto:cpsc-recalls end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [81560046090960AF7A65](https://search.gleif.org/#/record/81560046090960AF7A65) |
+| Legal Name | AT & T S.R.L. * |
+| Jurisdiction | IT |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-07-10T08:04:55Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

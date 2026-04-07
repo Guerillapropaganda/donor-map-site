@@ -2,7 +2,7 @@
 title: "Richard Neal Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,6 +18,8 @@ top-donors:
   - "MassMutual"
   - "Fidelity Investments"
   - "Blue Cross Blue Shield"
+total-received: "$1,411,406"
+fec-candidate-id: "H8MA02041"
 ---
 
 
@@ -174,3 +176,38 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 profile-status:: ready
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,411,406 |
+| Individual Contributions | $277,550 |
+| PAC Contributions | $984,500 |
+| Cash on Hand | 4041473.02 |
+| IE Support (Super PAC) | $746,701 |
+| IE Opposition (Super PAC) | $1,656,252 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,411,406 | $277,550 | $984,500 |
+| 2024 | $3,285,602 | $748,405 | $2,417,922 |
+| 2022 | $3,493,277 | $1,023,383 | $2,310,680 |
+| 2020 | $5,033,892 | $1,408,771 | $3,127,684 |
+| 2018 | $3,570,327 | $805,272 | $2,677,503 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| JUSTICE DEMOCRATS PAC | $0 | $700,000 |
+| FIGHT CORPORATE MONOPOLIES | $0 | $650,000 |
+| AMERICAN HOSPITAL ASSOCIATION PAC | $509,685 | $0 |
+| INDIVISIBLE ACTION | $0 | $302,147 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $126,197 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -13,6 +13,12 @@ ein: 871807181
 annual-revenue: "$2.0M"
 net-assets: "$37.8M"
 tax-year: "2023"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
+top-federal-agency: "Department of Defense"
+top-naics-code: "325412"
 ---
 
 #moderna #pharma #mrna #covid #vaccine #pricing #nih #public-funding #patent
@@ -77,3 +83,52 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 871807181](https://projects.propublica.org/nonprofits/organizations/871807181) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+| Top Federal Agency | Department of Defense ($6.8B) |
+| Primary NAICS Sector | Pharmaceutical Preparation Manufacturing |
+
+**Subcontractors receiving federal money from Moderna:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to Moderna:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $6.8B |
+| Department of Health and Human Services | $755.1M |
+| Department of Agriculture | $38.6M |
+| Department of Veterans Affairs | $12K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Pharmaceutical Preparation Manufacturing (325412) | $6.8B |
+| Biological Product (except Diagnostic) Manufacturing (325414) | $799.5M |
+| Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour (311824) | $38.6M |
+| Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $34K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Moderna) (Tier 1)
+<!-- auto:usaspending-subawards end -->

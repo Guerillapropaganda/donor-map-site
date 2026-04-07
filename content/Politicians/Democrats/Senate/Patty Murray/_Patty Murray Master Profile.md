@@ -160,7 +160,8 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
+| Donors Who Also Lobby | 1 of 2 |
+| Donors With Federal Contracts | 1 |
 | Committee Overlap Detected | 1 donor |
 
 **Donate → Lobby → Committee chains:**

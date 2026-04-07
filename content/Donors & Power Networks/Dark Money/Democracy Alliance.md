@@ -2,15 +2,17 @@
 title: "Democracy Alliance"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Tom Steyer"
+  - "Tammy Duckworth"
+  - "Lindsey Graham"
 issues:
   - "Dark Money & Campaign Finance"
+total-political-spend: "$116,675"
 ---
 
 #donor-consortium #dark-money #democrat #secretive-giving #class-analysis #donor
@@ -174,3 +176,28 @@ content-readiness:: ready
 | TULSI FOR HAWAII | $5.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $116,675 |
+| Contributions | 78 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB | $50,000 | UNK |
+| MOVEON.ORG POLITICAL ACTION | $7,000 | — |
+| TULSI FOR HAWAII | $5,000 | DEM |
+| FRIENDS OF PHIL HARE | $3,500 | DEM |
+| TIM WALZ FOR US CONGRESS | $2,500 | DFL |
+| MASSA FOR CONGRESS | $2,500 | DEM |
+| DUCKWORTH FOR CONGRESS | $2,000 | DEM |
+| BOSWELL FOR CONGRESS | $2,000 | DEM |
+| TRIVEDI FOR CONGRESS | $2,000 | DEM |
+| LEAHY FOR U.S. SENATOR COMMITTEE | $2,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Democracy%20Alliance) (Tier 1)
+<!-- auto:fec-donor end -->

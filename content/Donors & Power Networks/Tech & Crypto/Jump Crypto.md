@@ -2,13 +2,24 @@
 title: "Jump Crypto"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Corporation"
 issues:
   - "Technology"
+court-cases: 24
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Seventh Circuit"
+  - "District Court, D. Arizona"
+  - "District Court, D. Wyoming"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, D. Delaware"
 ---
 
 #crypto #trading #jump-trading #fairshake #political-spending
@@ -54,3 +65,22 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 | FAIRSHAKE | $25.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 24 |
+| Courts | Court of Appeals for the Seventh Circuit, District Court, D. Arizona, District Court, D. Wyoming, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. Florida, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware |
+| Case Types | 190 Contract: Other, 370 Other Fraud, 3850 Securities, Commodities, Exchange, 850 Securities/Commodities, 880 Defend Trade Secrets Act (of 2016) |
+
+**Notable cases:**
+- Snyder v. Jump Trading, LLC (2025) — District Court, N.D. Illinois
+- Taewoo Kim v. Jump Trading, LLC (2025) — Court of Appeals for the Seventh Circuit
+- Ward v. Jump Trading, LLC (2025) — District Court, N.D. California
+- Yao v. Chen (2025) — District Court, D. Arizona
+- Jump Operations, LLC v. Heeger (2025) — District Court, N.D. Illinois
+- FractureLabs Ou v. Jump Trading, LLC (2024) — District Court, N.D. Illinois
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jump%20Crypto%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

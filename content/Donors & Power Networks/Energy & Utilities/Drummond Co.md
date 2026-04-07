@@ -18,6 +18,12 @@ sec-form-types:
   - "N-CSRS"
   - "N-MFP"
   - "N-Q"
+federal-register-mentions: 4
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Employment and Training Administration"
+  - "Environmental Protection Agency"
+  - "Labor Department"
 ---
 
 #coal-mining #alabama-politics #fossil-fuel #environmental-violations #political-donor
@@ -117,3 +123,21 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Drummond%20Co.%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4 |
+| Proposed Rule | 1 |
+| Notice | 3 |
+| Agencies | Employment and Training Administration, Environmental Protection Agency, Labor Department |
+
+**Recent regulatory activity:**
+- [National Emission Standards for Hazardous Air Pollutants for Coke Ovens: Pushing, Quenching, and Battery Stacks, and Coke Oven Batteries; Residual Risk and Technology Review, and Periodic Technology Review](https://www.federalregister.gov/documents/2023/08/16/2023-16620/national-emission-standards-for-hazardous-air-pollutants-for-coke-ovens-pushing-quenching-and) (2023-08-16) — Environmental Protection Agency ★
+- [Notice of Determinations Regarding Eligibility To Apply for Worker Adjustment Assistance and NAFTA Transitional Adjustment Assistance](https://www.federalregister.gov/documents/2000/02/15/00-3507/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance-and-nafta) (2000-02-15) — Labor Department
+- [Notice of Determinations Regarding Eligibility to Apply for Worker Adjustment Assistance and NAFTA Transitional Adjustment Assistance](https://www.federalregister.gov/documents/1998/01/22/98-1471/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance-and-nafta) (1998-01-22) — Labor Department
+- [Investigations Regarding Certifications of Eligibility To Apply for Worker Adjustment Assistance](https://www.federalregister.gov/documents/1997/09/30/97-25865/investigations-regarding-certifications-of-eligibility-to-apply-for-worker-adjustment-assistance) (1997-09-30) — Labor Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Drummond%20Co.%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -8,6 +8,9 @@ parent: null
 sector: "Defense & Intelligence"
 entity-type: "Corporation"
 federal-contracts: "442675"
+federal-awards-total: 367636564
+federal-contracts-count: 25
+federal-grants-count: 0
 ---
 
 #defense-contractor #surveillance-technology #military-intelligence #l3harris-merger #weapons-systems
@@ -88,3 +91,40 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=L3%20Technologies&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[John Ratcliffe]] (Intelligence) — contracts: $443K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $367.6M |
+| Contracts (recent 3yr) | 25 ($4.2B sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 1 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $456.5M | Department of Defense | 63 EACH OF THE FOLLOWING HARDWARE ITEMS FOR THE BRADLEY FIGHTING VEHICLE SYSTEM (BFVS):  THOR HMPT 8 |
+| $315.9M | Department of Defense | CEC SYSTEM PRODUCTION AND REPAIR |
+| $267.9M | Department of Defense | UNDERSEA WARFARE TRAINING RANGE (USWTR) PROGRAM REQUIREMENTS WILL PROVIDE THE CAPABILITY FOR UNDERSE |
+| $265.3M | Department of Defense | DESIGN, DEVELOPMENT, TESTING, SYSTEM SUPPORT, AND PRODUCTION OF SUBMARINE PHOTONICS MASTS |
+| $262.9M | Department of Defense | ENHANCED NIGHT VISION GOGGLE - BINOCULAR PRODUCTION SYSTEMS DELIVERY ORDER 02 |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-L3%20Technologies) (Tier 1)
+<!-- auto:usaspending end -->

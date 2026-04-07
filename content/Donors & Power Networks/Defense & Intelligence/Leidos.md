@@ -2,7 +2,7 @@
 title: "Leidos"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -42,10 +42,30 @@ sec-form-types:
   - "SCHEDULE 13G/A"
 ein: "203922378"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 total-revenue: 186389
 total-assets: 730985
 cpsc-recalls: 2
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
+top-federal-agency: "Department of Defense"
+top-naics-code: "541512"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+federal-register-mentions: 107
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Commerce Department"
+  - "Copyright Royalty Board"
+  - "Defense Department"
+  - "Energy Department"
+  - "Federal Aviation Administration"
+  - "Health and Human Services Department"
+  - "International Trade Administration"
+  - "Justice Department"
+  - "Labor Department"
 ---
 
 #leidos #defense #intelligence #it #government #contractor #cybersecurity #revolving-door #outsourcing #surveillance
@@ -246,3 +266,100 @@ content-readiness:: developed
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Leidos) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+| Top Federal Agency | Department of Defense ($20.2B) |
+| Primary NAICS Sector | Computer Systems Design Services |
+
+**Subcontractors receiving federal money from Leidos:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to Leidos:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $20.2B |
+| Department of Veterans Affairs | $9.7B |
+| Department of Health and Human Services | $6.0B |
+| General Services Administration | $3.4B |
+| Department of Homeland Security | $3.2B |
+| Department of Transportation | $2.1B |
+| Social Security Administration | $1.4B |
+| National Science Foundation | $1.2B |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Computer Systems Design Services (541512) | $10.3B |
+| Offices of Physicians (except Mental Health Specialists) (621111) | $9.7B |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $7.6B |
+| Other Computer Related Services (541519) | $4.0B |
+| Engineering Services (541330) | $3.8B |
+| Computer Facilities Management Services (541513) | $3.4B |
+| Facilities Support Services (561210) | $1.5B |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology) (541712) | $1.3B |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Leidos) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Leidos) (Tier 1)
+<!-- auto:nhtsa-recalls end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 107 |
+| Final Rules | 4 |
+| Proposed Rules | 2 |
+| Notices | 101 |
+| Agencies | Antitrust Division, Commerce Department, Copyright Royalty Board, Defense Department, Energy Department, Federal Aviation Administration, Health and Human Services Department, International Trade Administration +7 more |
+
+**Recent regulatory activity:**
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (2026-03-26) — Justice Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05145/arms-sales-notification) (2026-03-17) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/09/2026-02528/arms-sales-notification) (2026-02-09) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2025/12/15/2025-22720/arms-sales-notification) (2025-12-15) — Defense Department
+- [Notice of Permit Applications Received Under the Antarctic Conservation Act of 1978](https://www.federalregister.gov/documents/2025/11/19/2025-20322/notice-of-permit-applications-received-under-the-antarctic-conservation-act-of-1978) (2025-11-19) — National Science Foundation
+- [Notice of Extension of Public Comment Period on the Draft Environmental Impact Statement for the SpaceX Starship-Super Heavy Vehicle at Launch Complex 39A, at Kennedy Space Center in Merritt Island, Florida](https://www.federalregister.gov/documents/2025/09/24/2025-18523/notice-of-extension-of-public-comment-period-on-the-draft-environmental-impact-statement-for-the) (2025-09-24) — Transportation Department
+- ... and 101 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Leidos%22) (Tier 1)
+<!-- auto:federal-register end -->

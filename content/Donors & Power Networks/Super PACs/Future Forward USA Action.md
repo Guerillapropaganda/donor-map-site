@@ -2,13 +2,17 @@
 title: "Future Forward USA Action"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: null
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Dark Money & Campaign Finance"
+ein: 824170762
+annual-revenue: "$65.7M"
+net-assets: "$7.5M"
+tax-year: "2022"
 ---
 
 #donor-node #super-pac #democratic #dark-money #501c4
@@ -100,3 +104,18 @@ research-status:: ready — Promoted Session 39.
 | FUTURE FORWARD USA PAC | $96.3K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2022)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $65.7M |
+| Total Contributions | $60.9M |
+| Program Service Revenue | $4.8M |
+| Total Expenses | $61.5M |
+| Net Assets | $7.5M |
+| Officer Compensation | $699K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 824170762](https://projects.propublica.org/nonprofits/organizations/824170762) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_82-83%2F824170762_202212_990O_2023120722083400.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,7 +2,7 @@
 title: "Amazon"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -12,6 +12,9 @@ politicians-funded:
 issues:
   - "Technology"
   - "Labor & Workers"
+ein: "873103053"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
 ---
 
 
@@ -222,3 +225,16 @@ content-readiness:: ready
 | DSCC | $25.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 873103053 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | P20 |
+| IRS Ruling Date | 2022-03-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/873103053) (Tier 1)
+<!-- auto:nonprofit-990 end -->

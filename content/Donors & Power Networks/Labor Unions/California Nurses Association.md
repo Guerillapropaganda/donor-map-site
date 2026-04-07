@@ -2,7 +2,7 @@
 title: "California Nurses Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -28,6 +28,22 @@ federal-register-mentions: 2
 last-enriched: "2026-04-06"
 regulatory-agencies:
   - "National Labor Relations Board"
+sec-filings: 71
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "424B3"
+  - "DEF 14A"
+  - "DEFC14A"
+  - "EX-10.1"
+  - "EX-10.2"
+  - "EX-99.1"
+  - "EX-99.5"
+  - "PRRN14A"
+  - "S-4"
+  - "S-4/A"
+  - "XML"
 ---
 
 #cna #nurses #union #california #single-payer #healthcare #progressive #labor
@@ -172,3 +188,21 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Nurses%20Association%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 71 |
+| Form Types | 10-K, 10-K/A, 10-Q, 424B3, DEF 14A, DEFC14A, EX-10.1, EX-10.2 +6 more |
+
+**Notable filings:**
+
+- 2011-05-03 — **XML**: IDEA: Claims and Lawsuits
+- 2011-08-02 — **10-Q**: FORM 10-Q
+- 2011-04-12 — **EX-99.1**: EX-99.1
+- 2004-06-14 — **EX-99.1**: EXHIBIT 99.1
+- 2004-09-02 — **EX-99.1**: EXHIBIT 99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Nurses%20Association%22) (Tier 1)
+<!-- auto:sec-edgar end -->

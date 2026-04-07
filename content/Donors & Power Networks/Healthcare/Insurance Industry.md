@@ -16,6 +16,16 @@ last-enriched: "2026-04-06"
 ofac-programs:
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
 federal-contracts: "10817"
+total-political-spend: "$156,500"
+politicians-funded:
+  - "Thom Tillis"
+  - "Deb Fischer"
+  - "Joe Manchin"
+  - "Tammy Baldwin"
+  - "Mark Warner"
+  - "Gary Peters"
+  - "Bryan Steil"
+  - "John Cornyn"
 ---
 
 #insurance #health-insurance #lobbying #aca #public-option #bipartisan #medicare-advantage #ahip #revolving-door
@@ -232,3 +242,44 @@ content-readiness:: developed
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Insurance%20Industry&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Barack Obama]] — contracts: $11K
+- [[John Thune]] — contracts: $11K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $156,500 |
+| Contributions | 118 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| THOM TILLIS COMMITTEE | $8,000 | REP |
+| FISCHER VICTORY FUND | $7,500 | — |
+| MOORE FOR CONGRESS | $7,500 | DEM |
+| MANCHIN FOR WEST VIRGINIA | $7,500 | DEM |
+| CASTEN FOR CONGRESS | $6,500 | DEM |
+| BEATTY FOR CONGRESS | $6,500 | DEM |
+| TAMMY BALDWIN FOR SENATE | $6,500 | DEM |
+| DON BACON FOR CONGRESS | $6,000 | REP |
+| FRIENDS OF MARK WARNER | $5,700 | DEM |
+| PETE SESSIONS FOR CONGRESS | $5,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Insurance%20Industry) (Tier 1)
+<!-- auto:fec-donor end -->

@@ -2,7 +2,7 @@
 title: "Kelcy Warren"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -26,6 +26,10 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Texas"
   - "District Court, S.D. Iowa"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
 ---
 
 #donor-node #mega-donor #fossil-fuel #pipeline #texas #republican #class-analysis #donor
@@ -209,3 +213,32 @@ research-status:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Kelcy%20Warren%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+
+**Subcontractors receiving federal money from Kelcy Warren:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to Kelcy Warren:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Kelcy%20Warren) (Tier 1)
+<!-- auto:usaspending-subawards end -->

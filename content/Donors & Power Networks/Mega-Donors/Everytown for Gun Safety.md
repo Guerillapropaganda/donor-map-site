@@ -16,6 +16,18 @@ regulatory-agencies:
   - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
   - "Justice Department"
   - "Personnel Management Office"
+court-cases: 481
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, D. Maryland"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Missouri"
+  - "District Court, E.D. North Carolina"
+  - "District Court, M.D. Florida"
 ---
 
 
@@ -146,3 +158,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Everytown%20for%20Gun%20Safety%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 481 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eighth Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, D. Maryland, District Court, District of Columbia, District Court, E.D. Missouri +4 more |
+| Case Types | 2895 Freedom of Information Act of 1974, 3440 Other Civil Rights, 440 Civil Rights: Other, 440 Civil Rights: Other Civil Rights, 442 Civil Rights: Jobs |
+
+**Notable cases:**
+- Ctrlpew LLC v. Chiu (2026) — District Court, M.D. Florida
+- NATIONAL RIFLE ASSOCIATION OF AMERICA v. NRA FOUNDATION (2026) — District Court, District of Columbia
+- Johnson v. Everytown for Gun Safety Action Fund, Inc. (2025) — District Court, E.D. North Carolina
+- Larosiere v. Wilson (2025) — District Court, M.D. Florida
+- United States v. Arnold (2025) — District Court, N.D. Texas
+- Jensen v. Bureau Of Alcohol, Tobacco, Firearms And Explosives (2025) — District Court, N.D. Texas
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Everytown%20for%20Gun%20Safety%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

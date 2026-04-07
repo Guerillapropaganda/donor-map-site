@@ -2,7 +2,7 @@
 title: "Michael Bloomberg"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,6 +12,18 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Energy & Climate"
+federal-register-mentions: 12
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+  - "Antitrust Division"
+  - "Defense Department"
+  - "Federal Election Commission"
+  - "Federal Emergency Management Agency"
+  - "Federal Highway Administration"
+  - "Homeland Security Department"
+  - "Justice Department"
+  - "Transportation Department"
 ---
 
 
@@ -127,3 +139,25 @@ content-readiness:: ready
 | HOUSE MAJORITY PAC | $37.5M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 12 |
+| Notice | 9 |
+| Rule | 1 |
+| Proposed Rule | 2 |
+| Agencies | Alcohol, Tobacco, Firearms, and Explosives Bureau, Antitrust Division, Defense Department, Federal Election Commission, Federal Emergency Management Agency, Federal Highway Administration, Homeland Security Department, Justice Department +1 more |
+
+**Recent regulatory activity:**
+- [Defense Innovation Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2025/01/17/2025-01204/defense-innovation-board-notice-of-federal-advisory-committee-meeting) (2025-01-17) — Defense Department
+- [Defense Innovation Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2024/07/09/2024-15049/defense-innovation-board-notice-of-federal-advisory-committee-meeting) (2024-07-09) — Defense Department
+- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (2024-04-19) — Justice Department ★
+- [Notice of Department of Defense Federal Advisory Committee Meeting-Defense Innovation Board](https://www.federalregister.gov/documents/2024/04/03/2024-07053/notice-of-department-of-defense-federal-advisory-committee-meeting-defense-innovation-board) (2024-04-03) — Defense Department
+- [Meeting of Department of Defense Federal Advisory Committees-Defense Innovation Board](https://www.federalregister.gov/documents/2024/01/23/2024-01226/meeting-of-department-of-defense-federal-advisory-committees-defense-innovation-board) (2024-01-23) — Defense Department
+- [Meeting of Department of Defense Federal Advisory Committees-Defense Innovation Board](https://www.federalregister.gov/documents/2023/10/25/2023-23569/meeting-of-department-of-defense-federal-advisory-committees-defense-innovation-board) (2023-10-25) — Defense Department
+- ... and 6 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Michael%20Bloomberg%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,7 +2,7 @@
 title: "John McCain"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -10,6 +10,8 @@ chamber: "Senate"
 govtrack-id: 300071
 bills-sponsored: 0
 bills-cosponsored: 0
+total-received: "$707,083"
+fec-candidate-id: "H2AZ01024"
 ---
 
 #politician #republican #senator #presidential2008 #maverick-brand #keating-five
@@ -82,3 +84,27 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/300071) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 1984 |
+| Total Raised | $707,083 |
+| Cash on Hand | 192781.00 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 1984 | $707,083 | $0 | $0 |
+| 1982 | $454,665 | $0 | $0 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NRA POLITICAL VICTORY FUND | $0 | $77 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -2,11 +2,48 @@
 title: "Christopher Ruddy"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Individual Donor"
+sec-filings: 159
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "3"
+  - "D"
+  - "D/A"
+  - "DEF 14A"
+  - "EX-1.1"
+  - "EX-10.1"
+  - "EX-10.4"
+  - "EX-10.5"
+  - "EX-24"
+  - "EX-24.1"
+  - "EX-3.1"
+  - "EX-31.1"
+  - "EX-32.1"
+  - "EX-32.2"
+  - "EX-4.1"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.77C VOTES"
+  - "EX1A-1 UNDR AGMT"
+  - "EX1A-2A CHARTER"
+  - "EX1A-2B BYLAWS"
+  - "EX1A-4 SUBS AGMT"
+  - "EX1A-5 VOTG TRST"
+  - "EX1A-6 MAT CTRCT"
+  - "N-CSRS"
+  - "PART II AND III"
+  - "RW"
+  - "S-1"
+  - "S-1/A"
+  - "S-8"
+  - "SB-2"
+  - "SB-2/A"
+  - "SCHEDULE 13D"
 ---
 
 #newsmax #trump-media #right-wing-media #trump-confidant #media-proprietor
@@ -57,3 +94,21 @@ Christopher Ruddy exemplifies how media proprietorship can be weaponized as a di
 | LEAN FORWARD AMERICA | $200.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 159 |
+| Form Types | 10-K, 10-K/A, 3, D, D/A, DEF 14A, EX-1.1, EX-10.1 +27 more |
+
+**Notable filings:**
+
+- 2025-03-31 — **SCHEDULE 13D**: SCHEDULE 13D
+- 2025-03-31 — **EX-1.1**: JOINT FILING AGREEMENT, DATED MARCH 31, 2025, BETWEEN THE CHRISTOPHER RUDDY REVOCABLE TRUST DATED OCTOBER 12, 2007 AND CHRISTOPHER RUDDY
+- 2025-03-28 — **3**: 3
+- 2002-02-26 — **EX-3.1**: ARTICLES OF INCORPORATION OF THE REGISTRANT
+- 2025-02-07 — **EX1A-4 SUBS AGMT**: ASSIGNMENT AND ASSUMPTION AGREEMENT BY AND BETWEEN NEWSMAX MEDIA, INC. AND NEWSMAX INC. DATED APRIL 29, 2024
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Christopher%20Ruddy%22) (Tier 1)
+<!-- auto:sec-edgar end -->

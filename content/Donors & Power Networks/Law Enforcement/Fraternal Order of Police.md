@@ -2,11 +2,28 @@
 title: "Fraternal Order of Police"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
 entity-type: "Individual Donor"
+ein: "933414548"
+nonprofit-status: "501(c)(8)"
+last-enriched: "2026-04-07"
+court-cases: 5883
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, D. South Carolina"
+  - "District Court, E.D. Tennessee"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. Illinois"
+  - "District Court, S.D. Ohio"
+  - "District Court, W.D. Pennsylvania"
+lobbying-spend: 2529500
+lobbying-filings: 64
 ---
 
 #fop #police #law-enforcement #union #qualified-immunity #reform-opposition
@@ -61,3 +78,53 @@ content-readiness:: ready
 | HOYER FOR CONGRESS | $32.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 933414548 |
+| Tax-Exempt Status | 501(c)(8) |
+| IRS Ruling Date | 1952-10-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/933414548) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 5,883 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Second Circuit, Court of Appeals for the Third Circuit, District Court, D. South Carolina, District Court, E.D. Tennessee, District Court, N.D. Illinois, District Court, S.D. Florida, District Court, S.D. Illinois +2 more |
+| Case Types | 442 Civil Rights: Jobs, 820 Copyright |
+
+**Notable cases:**
+- Broadband Communications Association of Pennsylvan v. FCC (2026) — Court of Appeals for the D.C. Circuit
+- Sowell v. The State Of Ohio (2026) — District Court, S.D. Ohio
+- Madaris v. Tackett (2026) — District Court, S.D. Ohio
+- Soumana v. Mars Petcare US, Inc (2026) — District Court, S.D. Ohio
+- Kirby v. Perfection One Collision Center, Inc. (2026) — District Court, S.D. Ohio
+- Duff v. Yoder Building Solutions LLC (2026) — District Court, S.D. Ohio
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Fraternal%20Order%20of%20Police%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.5M |
+| Quarterly Filings | 64 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 9 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aviation/Airlines/Airports, Budget/Appropriations, Education, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Health Issues, Homeland Security, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Retirement, Taxation/Internal Revenue Code, Transportation, Veterans
+
+**Lobbying firms:** ARNOLD & PORTER KAYE SCHOLER LLP, CAPITOL 6 ADVISORS, CAPITOL COUNSEL LLC, CAPITOL67 STRATEGIES, COMMONWEALTH STRATEGIC PARTNERS, LLC, GALLANT GOVERNMENT & LAW GROUP, LLC, NATIONAL FRATERNAL ORDER OF POLICE, NORTH STAR STRATEGIES, LLC, OLD NORTH STRATEGIES, LLC
+
+**Agencies contacted:** Education, Dept of, HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Interior, Dept of (DOI), Justice, Dept of (DOJ), Labor, Dept of (DOL), SENATE, Veterans Affairs, Dept of (VA), White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Fraternal%20Order%20of%20Police) (Tier 1)
+<!-- auto:lda-lobbying end -->

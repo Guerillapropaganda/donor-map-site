@@ -19,6 +19,10 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. California"
   - "United States Bankruptcy Court, D. Delaware"
+ein: 956203844
+annual-revenue: "$4.8M"
+net-assets: "$5.8M"
+tax-year: "2023"
 ---
 
 
@@ -207,3 +211,18 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Riverside%20Sheriffs%20Association%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $4.8M |
+| Total Contributions | $0 |
+| Program Service Revenue | $3.1M |
+| Investment Income | $31K |
+| Total Expenses | $5.0M |
+| Net Assets | $5.8M |
+| Officer Compensation | $565K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 956203844](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,7 +2,7 @@
 title: "United Auto Workers"
 type: donor
 content-readiness: raw
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,8 @@ ein: 420606689
 annual-revenue: "$1.4M"
 net-assets: "$838K"
 tax-year: "2023"
+lobbying-spend: 11136388
+lobbying-filings: 113
 ---
 
 #uaw #redirect #auto-workers #union
@@ -54,3 +56,22 @@ content-readiness:: raw
 - [Source: ProPublica Nonprofit Explorer — EIN 420606689](https://projects.propublica.org/nonprofits/organizations/420606689) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F420606689_202312_990O_2024061722532860.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $11.1M |
+| Quarterly Filings | 113 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 73 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Insurance, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Pharmacy, Postal, Retirement, Roads/Highway, Science/Technology, Sports/Athletics, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Travel/Tourism, Trucking/Shipping, Unemployment, Veterans
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ALSTON & BIRD LLP, ASSOCIATION OF THE UNITED STATES ARMY, (INC.), ASSOCIATION OF THE UNITED STATES NAVY, AXADVOCACY GOVERNMENT RELATIONS, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BALLARD PARTNERS, BRODY GROUP L.L.C. PUBLIC AFFAIRS, CAPITOL 6 ADVISORS, CAPITOL SOUTH, LLC, CARLOUGH SOLUTIONS, LLC, CATHOLIC HEALTH ASSOCIATION OF THE UNITED STATES, CHRISTIANS UNITED FOR ISRAEL ACTION FUND, COLLECTIVE STRATEGIES & COMMUNICATIONS, CORNERSTONE GOVERNMENT AFFAIRS, INC., DEFAZIO AND ASSOCIATES CONSULTING LLC, END CITIZENS UNITED ACTION FUND // LET AMERICA VOTE ACTION FUND, FKA END CITIZENS UNITED ACTION FUND, EUGENE TRISKO, GALLANT GOVERNMENT & LAW GROUP, LLC, HEALTH POLICY SOURCE, INC., HOGAN LOVELLS US LLP, HOLLAND & KNIGHT LLP, K&L GATES, LLP, KNIGHT CAPITOL CONSULTANTS, KOUNTOUPES DENHAM CARR & REID, LLC, LENOVO (UNITED STATES) INC., LIEBMAN & ASSOCIATES, INC., LOBBYIT.COM, LONGBOW PUBLIC POLICY GROUP, LLC, MAYFORTH GROUP, LLC., MILLER STRATEGIES, LLC, MODERN FORTIS LLC, MWR CONSULTING, NATIONAL GUARD ASSOCIATION OF THE UNITED STATES, NATIONAL NURSES UNITED, NAVY LEAGUE OF THE UNITED STATES, NELSON MULLINS RILEY & SCARBOROUGH, ORIGIN ADVOCACY LLC, PAULEY MANAGEMENT INC., PENN AVENUE PARTNERS, PEOPLE UNITED FOR PRIVACY, PONTIS PARTNERS, LLC, PRASAM, PROTECT DEMOCRACY UNITED (FORMERLY KNOWN AS UNITED TO PROTECT DEMOCRACY), RIDGE PATH STRATEGIES, SQUIRE PATTON BOGGS, TARPLIN, DOWNS & YOUNG, LLC, THE ARC OF THE UNITED STATES, THE ARTEMIS GROUP, LLC (OKLAHOMA), THE LAMBOS FIRM, LLP (FORMERLY KNOWN AS THE LAMBOS FIRM), THE RESERVE COMPONENT, TROUTMAN STATEGIES, TWINLOGIC STRATEGIES, LLP, UNILEVER UNITED STATES, INC., UNITED AERIAL FIREFIGHTERS ASSOCIATION, UNITED AUTOMOBILE, AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS, UNITED BY INTEREST, LLC., UNITED FOOD & COMMERCIAL WORKERS INTERNATIONAL UNION, UNITED LAUNCH ALLIANCE LLC, UNITED MINE WORKERS OF AMERICA, UNITED NATURAL FOODS, INC. FKA UNFI, INC., UNITED NETWORK FOR ORGAN SHARING, UNITED SERVICE ORGANIZATIONS, UNITED SERVICES AUTOMOBILE ASSOCIATION, UNITED STATES MARITIME ALLIANCE LIMITED (USMX), UNITED STATES TELECOM ASSN, UNITED UNION OF ROOFERS, WATERPROOFERS AND ALLIED WORKERS, UPS (UNITED PARCEL SERVICE), USA-ITA DBA UNITED STATES FASHION INDUSTRY ASSOCIATION, VALCOUR LLC, VASTO STRATEGIES LLC, VENABLE LLP, VETERANS OF FOREIGN WARS OF THE UNITED STATES
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Other), Bureau of Citizenship & Immigration Services (BCIS), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Council of Economic Advisers (CEA), Defense, Dept of (DOD) +41 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=United%20Auto%20Workers) (Tier 1)
+<!-- auto:lda-lobbying end -->

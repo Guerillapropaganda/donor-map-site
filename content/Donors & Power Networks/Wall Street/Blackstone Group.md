@@ -328,6 +328,7 @@ content-readiness:: developed
 |--------|-------|
 | Politicians Funded | 4 |
 | Active Lobbyist | Yes |
+| Federal Contractor | Yes |
 | Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
@@ -336,10 +337,10 @@ content-readiness:: developed
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $4.5M
-- [[Chuck Schumer]] — lobbying: $4.5M
-- [[Susan Collins]] — lobbying: $4.5M
-- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $4.5M
+- [[Donald Trump]] — lobbying: $4.5M — contracts: $623K
+- [[Chuck Schumer]] — lobbying: $4.5M — contracts: $623K
+- [[Susan Collins]] — lobbying: $4.5M — contracts: $623K
+- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $4.5M — contracts: $623K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->

@@ -11,13 +11,15 @@ issues:
   - "Dark Money & Campaign Finance"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
 top-federal-agency: "Department of Defense"
 top-naics-code: "221122"
+ein: "881770844"
+nonprofit-status: "501(c)(3)"
 ---
 
 #utility-monopoly #southern-company #alabama-politics #regulatory-capture #dark-money
@@ -140,3 +142,16 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Alabama%20Power) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 881770844 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | N70 |
+| IRS Ruling Date | 2022-04-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/881770844) (Tier 1)
+<!-- auto:nonprofit-990 end -->

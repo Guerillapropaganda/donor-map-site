@@ -2,7 +2,7 @@
 title: "Concerned Veterans for America"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -17,6 +17,9 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+ein: "853318501"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
 ---
 
 
@@ -167,3 +170,16 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Concerned%20Veterans%20for%20America) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 853318501 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | W30 |
+| IRS Ruling Date | 2021-07-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/853318501) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@
 title: "Comcast - NBCUniversal"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -17,6 +17,10 @@ federal-register-mentions: 1
 last-enriched: "2026-04-06"
 regulatory-agencies:
   - "Federal Communications Commission"
+ein: 510390132
+annual-revenue: "$23.1M"
+net-assets: "$21.7M"
+tax-year: "2023"
 ---
 
 #comcast #nbcuniversal #telecom #media #lobbying #net-neutrality #cable #broadband #monopoly #revolving-door #brian-roberts
@@ -185,3 +189,16 @@ research-status:: developed — $13.9M lobbying (2024), $2.02M PAC (2025-2026 cy
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Comcast%20-%20NBCUniversal%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $23.1M |
+| Total Contributions | $0 |
+| Total Expenses | $45.1M |
+| Net Assets | $21.7M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 510390132](https://projects.propublica.org/nonprofits/organizations/510390132) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F510390132_202312_990PF_2025010222977425.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

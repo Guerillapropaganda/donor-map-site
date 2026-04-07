@@ -2,7 +2,7 @@
 title: "Real Estate Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -12,7 +12,7 @@ politicians-funded:
 issues:
   - "Housing"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "SDNTK"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
@@ -24,6 +24,20 @@ ofac-programs:
   - "DPRK2"
   - "ILLICIT-DRUGS-EO14059"
   - "TCO"
+federal-register-mentions: 141
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Antitrust Division"
+  - "Consumer Financial Protection Bureau"
+  - "Employee Benefits Security Administration"
+  - "Environmental Protection Agency"
+  - "Federal Trade Commission"
+  - "Financial Crimes Enforcement Network"
+  - "General Services Administration"
+  - "Housing and Urban Development Department"
+  - "Justice Department"
+lei: "254900I73YTKE7MJ8E15"
+lei-jurisdiction: "US-NY"
 ---
 
 #real-estate #nar #housing #1031-exchange #rent #zoning #bipartisan
@@ -87,3 +101,40 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 141 |
+| Final Rules | 42 |
+| Proposed Rules | 26 |
+| Notices | 73 |
+| Agencies | Agriculture Department, Antitrust Division, Consumer Financial Protection Bureau, Employee Benefits Security Administration, Environmental Protection Agency, Federal Trade Commission, Financial Crimes Enforcement Network, General Services Administration +5 more |
+
+**Recent regulatory activity:**
+- [United States of America et al. v. RealPage, Inc. et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/01/21/2026-01009/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (2026-01-21) — Justice Department
+- [United States of America et al. v. RealPage, Inc. et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/12/05/2025-21966/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (2025-12-05) — Justice Department
+- [Changes in Mortgage Insurance Premiums Applicable to FHA Multifamily Insurance Programs](https://www.federalregister.gov/documents/2025/09/23/2025-18379/changes-in-mortgage-insurance-premiums-applicable-to-fha-multifamily-insurance-programs) (2025-09-23) — Housing and Urban Development Department
+- [United States of America et al. v. RealPage, Inc. et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/09/05/2025-17086/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (2025-09-05) — Justice Department
+- [United States of America et al. v. RealPage, Inc. et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/01/30/2025-01886/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (2025-01-30) — Justice Department
+- [Phasedown of Hydrofluorocarbons: Restrictions on the Use of HFCs Under the AIM Act in Variable Refrigerant Flow Air Conditioning Subsector](https://www.federalregister.gov/documents/2024/12/12/2024-29243/phasedown-of-hydrofluorocarbons-restrictions-on-the-use-of-hfcs-under-the-aim-act-in-variable) (2024-12-12) — Environmental Protection Agency
+- ... and 135 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Real%20Estate%20Industry%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [254900I73YTKE7MJ8E15](https://search.gleif.org/#/record/254900I73YTKE7MJ8E15) |
+| Legal Name | Electrical Industry Real Estate Fund, LLC |
+| Jurisdiction | US-NY |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-23T16:39:29Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -13,6 +13,11 @@ nonprofit-status: "501(c)(9)"
 last-enriched: "2026-04-07"
 total-revenue: 3025110
 total-assets: 74501
+fara-status: "registrant"
+fara-records: 3
+fara-countries:
+  - "ISRAEL"
+  - "JAPAN"
 ---
 
 #lobbying #k-street #maritime #financial-services #energy #transportation #tech #steel #defense
@@ -246,3 +251,20 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/387169824) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 3 |
+| Countries | ISRAEL, JAPAN |
+| Foreign Principal Records | 2 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Mr. Alexander Morgulchik (ISRAEL)
+- Ministry of Foreign Affairs of the Government of Japan (JAPAN)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:K%26L%20Gates,) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

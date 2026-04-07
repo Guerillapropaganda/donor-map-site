@@ -2,7 +2,7 @@
 title: "Jon Ossoff Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,11 @@ state-abbr: "GA"
 top-donors:
   - "Tech and Media Donors"
   - "Entertainment and Hollywood Donors"
+govtrack-id: 456857
+bills-sponsored: 16
+bills-cosponsored: 182
+website: "https://www.ossoff.senate.gov"
+phone: "202-224-3521"
 ---
 
 
@@ -258,3 +263,33 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 - [The Hill: Ossoff starts 2026 midterm reelection effort with $25M in bank](https://thehill.com/homenews/campaign/5690552-jon-ossoff-war-chest-senate-race-2026/) (Tier 2)
 - [Newsweek: Jon Ossoff's Chances of Winning as His Fundraising Outpaces Republicans](https://www.newsweek.com/jon-ossoff-chances-winning-fundraising-outpaces-republicans-2100816) (Tier 2)
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | None |
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 182 |
+| Total Votes Cast | 2,371 |
+
+**Recent bills sponsored:**
+
+- S. 4067: Land Grant Research Prioritization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 2102: Ralph David Abernathy, Sr., National Historic Site Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+- S. 1049: Preventing Child Trafficking Act of 2025 — *This bill passed in the Senate on December 16, 2025 and goes to the House next for consideration.*
+- S. 3459: Support Small Business Growth Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 2713: American Energy Security Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 4, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456857) (Tier 1)
+<!-- auto:govtrack end -->

@@ -2,7 +2,7 @@
 title: "Martin Heinrich Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,7 @@ bills-sponsored: 39
 bills-cosponsored: 329
 website: "https://www.heinrich.senate.gov"
 phone: "202-224-5521"
+fec-candidate-id: "H8NM01224"
 ---
 
 
@@ -159,3 +160,33 @@ party:: Democrat
 profile-status:: ready
 research-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2012 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $2,574,539 |
+| IE Opposition (Super PAC) | $3,126,416 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2012 | $0 | $0 | $0 |
+| 2010 | $2,792,509 | $1,427,307 | $980,799 |
+| 2008 | $2,513,761 | $1,506,375 | $633,288 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,657,749 | $0 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $0 | $1,071,940 |
+| AMERICAN FUTURE FUND | $0 | $1,012,074 |
+| REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO | $0 | $930,000 |
+| ENVIRONMENT AMERICA INC | $289,555 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NM01224/) (Tier 1)
+<!-- auto:fec-politician end -->

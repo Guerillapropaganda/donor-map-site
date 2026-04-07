@@ -2,7 +2,7 @@
 title: "Federalist Society"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,12 @@ politicians-funded:
   - "Samuel Alito"
 issues:
   - "Dark Money & Campaign Finance"
+federal-register-mentions: 2
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Federal Trade Commission"
+ein: "815109948"
+nonprofit-status: "501(c)(3)"
 ---
 
 
@@ -197,3 +203,31 @@ content-readiness:: ready
 | LIBERTY 2.0 | $1.3K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Proposed Rule | 2 |
+| Agencies | Federal Trade Commission |
+
+**Recent regulatory activity:**
+- [Motor Vehicle Dealers Trade Regulation Rule](https://www.federalregister.gov/documents/2022/07/13/2022-14214/motor-vehicle-dealers-trade-regulation-rule) (2022-07-13) — Federal Trade Commission
+- [Energy Labeling Rule](https://www.federalregister.gov/documents/2020/04/10/2020-06960/energy-labeling-rule) (2020-04-10) — Federal Trade Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Federalist%20Society%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 815109948 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | B80 |
+| IRS Ruling Date | 2017-06-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815109948) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@
 title: "Uber"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -58,6 +58,11 @@ sec-form-types:
   - "SCHEDULE 13G"
   - "SCHEDULE 13G/A"
   - "TEXT-EXTRACT"
+ein: "884207935"
+nonprofit-status: "501(c)(6)"
+last-enriched: "2026-04-07"
+total-revenue: 127381
+total-assets: 272824
 ---
 
 
@@ -209,3 +214,18 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Uber%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 884207935 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $127K |
+| Total Assets | $273K |
+| NTEE Code | B25 |
+| IRS Ruling Date | 2024-05-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/884207935) (Tier 1)
+<!-- auto:nonprofit-990 end -->

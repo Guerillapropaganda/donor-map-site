@@ -2,7 +2,7 @@
 title: "Media Matters"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -10,10 +10,14 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
-ein: 844239468
+ein: "453568592"
 annual-revenue: "$2K"
 net-assets: "$1K"
 tax-year: "2023"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 5705
+total-assets: 261528
 ---
 
 #media-matters #dark-money #progressive #media-watchdog #democracy-alliance #Elon-Musk-lawsuit #infrastructure
@@ -144,3 +148,28 @@ content-readiness:: ready
 | HILLARY CLINTON FOR PRESIDENT | $198.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 453568592 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $6K |
+| Total Assets | $262K |
+| NTEE Code | E60 |
+| IRS Ruling Date | 2012-02-01 |
+| Filings on Record | 8 |
+
+**Filing history:** 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2019)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2018)
+- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2017)
+- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2016)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/453568592) (Tier 1)
+<!-- auto:nonprofit-990 end -->

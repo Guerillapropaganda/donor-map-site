@@ -13,7 +13,7 @@ federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 1
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 sec-filings: 10000
 sec-form-types:
   - "10-12G"
@@ -47,6 +47,9 @@ sec-form-types:
   - "SC TO-T"
   - "SC TO-T/A"
   - "SCHEDULE 13G/A"
+court-cases: 62892
+court-jurisdictions:
+  - "District Court, N.D. Florida"
 ---
 
 
@@ -278,3 +281,21 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Pfizer%20Inc.%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 62,892 |
+| Courts | District Court, N.D. Florida |
+
+**Notable cases:**
+- KING v. PFIZER INC (2026) — District Court, N.D. Florida
+- WHALEN v. PFIZER INC (2026) — District Court, N.D. Florida
+- MALDONADO v. PFIZER INC (2026) — District Court, N.D. Florida
+- EASTERLING v. PFIZER INC (2026) — District Court, N.D. Florida
+- HYMES v. PFIZER INC (2026) — District Court, N.D. Florida
+- REUTER v. PFIZER INC (2026) — District Court, N.D. Florida
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pfizer%20Inc.%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

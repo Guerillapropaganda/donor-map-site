@@ -10,6 +10,10 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+ein: 133319048
+annual-revenue: "$7.5M"
+net-assets: "$26.0M"
+tax-year: "2023"
 ---
 
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying
@@ -85,3 +89,15 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Verizon) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $7.5M |
+| Total Contributions | $0 |
+| Total Expenses | $7.4M |
+| Net Assets | $26.0M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 133319048](https://projects.propublica.org/nonprofits/organizations/133319048) (Tier 1)
+<!-- auto:propublica-990 end -->

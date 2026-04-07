@@ -16,6 +16,11 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 285378654
 total-assets: 433034472
+sec-filings: 1
+sec-form-types:
+  - "DEF 14A"
+lobbying-spend: 2680000
+lobbying-filings: 53
 ---
 
 #citadel #kenneth-griffin #hedge-fund #wall-street #mega-donor #market-making #florida #payment-for-order-flow #pfof #deregulation #class-analysis #follow-the-money
@@ -191,3 +196,36 @@ research-status:: developed — Expanded from 61 to 180+ lines. Core additions: 
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/362167797) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1 |
+| Form Types | DEF 14A |
+
+**Notable filings:**
+
+- 2008-04-11 — **DEF 14A**: SCHEDULE 14A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Citadel%20-%20Kenneth%20Griffin%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.7M |
+| Quarterly Filings | 53 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 9 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Defense, Financial Institutions/Investments/Securities, Foreign Relations, Taxation/Internal Revenue Code
+
+**Lobbying firms:** 9TH STREET STRATEGIES, CAPITOL TAX PARTNERS, LLP, CGCN GROUP, LLC, CITADEL ENTERPRISE AMERICAS SERVICES LLC, DELTA STRATEGY GROUP, HOLLAND & KNIGHT LLP, STERNHELL GROUP, T CAP SOLUTIONS, LLC, VENABLE LLP
+
+**Agencies contacted:** Commodity Futures Trading Commission (CFTC), Defense, Dept of (DOD), HOUSE OF REPRESENTATIVES, SENATE, State, Dept of (DOS), Treasury, Dept of
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Citadel%20-%20Kenneth%20Griffin) (Tier 1)
+<!-- auto:lda-lobbying end -->

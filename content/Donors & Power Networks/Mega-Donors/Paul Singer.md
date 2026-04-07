@@ -12,10 +12,14 @@ politicians-funded:
   - "Samuel Alito"
   - "Tom Cotton"
   - "Marco Rubio"
-ein: 272009342
+ein: "272009342"
 annual-revenue: "$53.9M"
 net-assets: "$276.4M"
 tax-year: "2023"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 227044787
+total-assets: 172417068
 ---
 
 
@@ -147,3 +151,28 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 - [Source: ProPublica Nonprofit Explorer — EIN 272009342](https://projects.propublica.org/nonprofits/organizations/272009342) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 272009342 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $227.0M |
+| Total Assets | $172.4M |
+| NTEE Code | T22 |
+| IRS Ruling Date | 2010-04-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/272009342) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@
 title: "L3Harris Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -25,6 +25,32 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, S.D. Ohio"
   - "United States Bankruptcy Court, S.D. Texas"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "144"
+  - "4"
+  - "424B2"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.2"
+  - "EX-10.W.II"
+  - "EX-10.Z"
+  - "EX-15"
+  - "EX-15.1"
+  - "EX-21"
+  - "EX-23"
+  - "EX-5"
+  - "EX-5.1"
+  - "EX-99.1"
+  - "EX-99.8"
+  - "N-PX"
+  - "NPORT-P"
+  - "S-8"
+  - "SC 13D"
+  - "SCHEDULE 13G/A"
 ---
 
 
@@ -280,3 +306,23 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3Harris%20Technologies%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 144, 4, 424B2, 8-K, ARS, DEF 14A, DEFA14A +16 more |
+| CIK | 202058 |
+| Ticker | LHX |
+
+**Notable filings:**
+
+- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000193442926000006/0001934429-26-000006-index.htm)
+- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000171593226000004/0001715932-26-000004-index.htm)
+- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000174211126000006/0001742111-26-000006-index.htm)
+- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000153914726000006/0001539147-26-000006-index.htm)
+- 2026-04-01 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/202058/000110465926038192/0001104659-26-038192-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22L3Harris%20Technologies%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -2,7 +2,7 @@
 title: "Tim Dunn"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -10,6 +10,19 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Mike Rogers"
   - "Donald Trump"
+court-cases: 43
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Second Circuit"
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, D. Connecticut"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
+  - "United States Bankruptcy Court, C.D. California"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, S.D. New York"
 ---
 
 #donor #mega-donor #texas-oil #christian-nationalist #republican-megadonor #crownquest
@@ -170,3 +183,22 @@ content-readiness:: ready
 | GROW THE MAJORITY | $1.1M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 43 |
+| Courts | Court of Appeals for the Second Circuit, Court of Appeals for the Sixth Circuit, District Court, D. Connecticut, District Court, E.D. Virginia, District Court, N.D. California, District Court, S.D. New York, District Court, W.D. Texas, United States Bankruptcy Court, C.D. California +4 more |
+| Case Types | 11 Recovery of money/property - 542 turnover of property; 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other, 3440 CIVIL RIGHTS-Other, 350 Motor Vehicle, 441 Civil Rights: Voting, 448 Civil Rights: Education |
+
+**Notable cases:**
+- WastePlace, LLC (2023) — United States Bankruptcy Court, W.D. Texas
+- French v. Trustees of Trinity College (2022) — District Court, D. Connecticut
+- Redmond v. United States (2022) — District Court, N.D. California
+- League of United Latin American Citizens v. Abbott (2021) — District Court, W.D. Texas
+- Upstate Jobs Party v. Kosinski (2021) — Court of Appeals for the Second Circuit
+- Charles v. Sacoolas (2020) — District Court, E.D. Virginia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tim%20Dunn%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

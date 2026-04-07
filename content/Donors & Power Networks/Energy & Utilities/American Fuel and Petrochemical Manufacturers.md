@@ -19,6 +19,16 @@ net-assets: "$74.5M"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+court-cases: 68
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Fourth Circuit"
+  - "District Court, D. Puerto Rico"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, N.D. California"
 ---
 
 #donor #energy #fossil-fuel #trade-association #lobbying #republican-lean #climate-obstruction #class-analysis #follow-the-money
@@ -167,3 +177,22 @@ content-readiness:: draft
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=American%20Fuel%20and%20Petrochemical%20Manufacturers) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 68 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Fourth Circuit, District Court, D. Puerto Rico, District Court, District of Columbia, District Court, E.D. California, District Court, N.D. California |
+| Case Types | 890 Other Statutory Actions, 893 Environmental Matters |
+
+**Notable cases:**
+- TEXAS ENVIRONMENTAL JUSTICE ADVOCACY SERVICES v. DONALD TRUMP (2025) — District Court, District of Columbia
+- American Fuel & Petrochemical Manufacturers v. EPA (2025) — Court of Appeals for the D.C. Circuit
+- Coalition for Renewable Natural Gas v. EPA (2025) — Court of Appeals for the D.C. Circuit
+- Daimler Truck North America LLC v. CA Air Resources Board (2025) — District Court, E.D. California
+- In Re: MCP 197 (2025) — Court of Appeals for the First Circuit
+- Center for Biological Diversity v. National Highway Traffic Safety Administration (2025) — Court of Appeals for the First Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Fuel%20and%20Petrochemical%20Manufacturers%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

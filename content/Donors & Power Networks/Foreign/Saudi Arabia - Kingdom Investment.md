@@ -2,16 +2,20 @@
 title: "Saudi Arabia - Kingdom Investment"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
 federal-contracts: "8213"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "SDGT"
+ein: "273669176"
+nonprofit-status: "501(c)(3)"
+total-revenue: 316387
+total-assets: 1285419
 ---
 
 #saudi-arabia #foreign #oil #arms-sales #mbs #pif #lobbying #khashoggi
@@ -95,3 +99,28 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 273669176 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $316K |
+| Total Assets | $1.3M |
+| NTEE Code | X20 |
+| IRS Ruling Date | 2025-09-01 |
+| Filings on Record | 8 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/273669176/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/273669176/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/273669176/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/273669176/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/273669176/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/273669176) (Tier 1)
+<!-- auto:nonprofit-990 end -->

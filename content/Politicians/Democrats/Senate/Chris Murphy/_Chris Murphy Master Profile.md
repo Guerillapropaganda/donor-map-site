@@ -2,7 +2,7 @@
 title: "Chris Murphy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -19,6 +19,9 @@ top-donors:
   - "Silicon Valley Democratic Donor Network"
   - "Goldman Sachs"
   - "Blue Cross Blue Shield Association"
+bioguide-id: "A000383"
+total-received: "$202,528"
+fec-candidate-id: "S2WI00409"
 ---
 
 #chris-murphy #democrat #connecticut #senate #gun-control #foreign-policy #insurance #sandy-hook #HELP-committee #foreign-relations #appropriations
@@ -171,3 +174,27 @@ However, the foreign policy portfolio receives far less attention than gun contr
 
 profile-status:: ready
 content-readiness:: ready
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2022 |
+| Total Raised | $202,528 |
+| Individual Contributions | $600 |
+| Cash on Hand | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
+<!-- auto:fec-politician end -->

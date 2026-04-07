@@ -2,7 +2,7 @@
 title: "John Thune Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -15,6 +15,8 @@ top-donors:
   - "NextEra Energy"
   - "Goldman Sachs"
   - "Insurance Industry"
+total-received: "$1,221,843"
+fec-candidate-id: "H6SD00085"
 ---
 
 
@@ -118,3 +120,45 @@ John Thune. Senate Majority Leader (2025–present). Republican senator from Sou
 - [NPR: Thune-Trump relationship evolution](https://www.npr.org/2024/11/14/nx-s1-5186649/newly-elected-senate-majority-leader-john-thune-has-his-work-cut-out-for-him) (Tier 2)
 - [The Hill: Tariff resolution and Thune blocking](https://thehill.com/homenews/senate/5225742-thune-republicans-trump-tariffs/) (Tier 2)
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | None |
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2000 |
+| Total Raised | $1,221,843 |
+| PAC Contributions | $278,001 |
+| Cash on Hand | 482917.00 |
+| IE Support (Super PAC) | $1,517 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2000 | $1,221,843 | $0 | $278,001 |
+| 1998 | $822,105 | $0 | $222,000 |
+| 1996 | $786,915 | $0 | $188,637 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NRA POLITICAL VICTORY FUND | $0 | $19,176 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $0 | $14,048 |
+| CLUB FOR GROWTH INC PAC | $1,466 | $0 |
+| LEAGUE OF CONSERVATION VOTERS | $0 | $203 |
+| NATIONAL RIGHT TO LIFE VICTORY FUND | $51 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6SD00085/) (Tier 1)
+<!-- auto:fec-politician end -->

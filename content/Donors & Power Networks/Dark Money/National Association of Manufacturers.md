@@ -2,13 +2,17 @@
 title: "National Association of Manufacturers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
+  - "JD Vance"
+  - "Adam Smith"
+  - "Jason Smith"
+  - "Steve Scalise"
 issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
@@ -17,6 +21,7 @@ ein: 131084330
 annual-revenue: "$62.0M"
 net-assets: "$69.6M"
 tax-year: "2023"
+total-political-spend: "$2,129,676"
 ---
 
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money
@@ -196,3 +201,28 @@ research-status:: developed — Expanded from 64 to 175+ lines. Key additions: 5
 
 - [Source: ProPublica Nonprofit Explorer — EIN 131084330](https://projects.propublica.org/nonprofits/organizations/131084330) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $2,129,676 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $1,000,000 | — |
+| HUDSON FOR CONGRESS | $25,000 | REP |
+| HALEY STEVENS FOR CONGRESS | $25,000 | DEM |
+| RUDY FOR INDIANA | $23,000 | REP |
+| NEW DEMOCRAT COALITION ACTION FUND | $20,000 | — |
+| EMMER FOR CONGRESS | $17,500 | REP |
+| FREEDOM FUND | $17,000 | — |
+| BRIAN FITZPATRICK FOR ALL OF US | $16,500 | REP |
+| ALAMO PAC | $16,000 | — |
+| ADRIAN SMITH FOR CONGRESS | $15,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Association%20of%20Manufacturers) (Tier 1)
+<!-- auto:fec-donor end -->

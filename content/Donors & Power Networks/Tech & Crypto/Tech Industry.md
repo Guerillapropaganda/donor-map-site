@@ -24,6 +24,17 @@ politicians-funded:
   - "Susan Collins"
   - "Gerry Connolly"
   - "Chuck Schumer"
+federal-register-mentions: 53
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Commerce Department"
+  - "Consumer Financial Protection Bureau"
+  - "Education Department"
+  - "Federal Communications Commission"
+  - "Federal Trade Commission"
+  - "Homeland Security Department"
+  - "Industry and Security Bureau"
+  - "International Trade Commission"
 ---
 
 #tech #industry #lobbying #section-230 #antitrust #ai #privacy #bipartisan
@@ -90,3 +101,25 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tech%20Industry) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 53 |
+| Final Rules | 17 |
+| Proposed Rules | 2 |
+| Notices | 34 |
+| Agencies | Commerce Department, Consumer Financial Protection Bureau, Education Department, Federal Communications Commission, Federal Trade Commission, Homeland Security Department, Industry and Security Bureau, International Trade Commission |
+
+**Recent regulatory activity:**
+- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (2025-12-29) — Homeland Security Department ★
+- [Required Rulemaking on Personal Financial Data Rights](https://www.federalregister.gov/documents/2024/11/18/2024-25079/required-rulemaking-on-personal-financial-data-rights) (2024-11-18) — Consumer Financial Protection Bureau ★
+- [Premerger Notification; Reporting and Waiting Period Requirements](https://www.federalregister.gov/documents/2024/11/12/2024-25024/premerger-notification-reporting-and-waiting-period-requirements) (2024-11-12) — Federal Trade Commission
+- [Non-Compete Clause Rule](https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule) (2024-05-07) — Federal Trade Commission
+- [Required Rulemaking on Personal Financial Data Rights](https://www.federalregister.gov/documents/2023/10/31/2023-23576/required-rulemaking-on-personal-financial-data-rights) (2023-10-31) — Consumer Financial Protection Bureau ★
+- [Authorization of Certain “Items” to Entities on the Entity List in the Context of Specific Standards Activities](https://www.federalregister.gov/documents/2022/09/09/2022-19415/authorization-of-certain-items-to-entities-on-the-entity-list-in-the-context-of-specific-standards) (2022-09-09) — Commerce Department ★
+- ... and 47 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tech%20Industry%22) (Tier 1)
+<!-- auto:federal-register end -->

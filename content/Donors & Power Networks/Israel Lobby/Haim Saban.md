@@ -2,7 +2,7 @@
 title: "Haim Saban"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -13,6 +13,10 @@ politicians-funded:
   - "Benjamin Netanyahu"
 issues:
   - "Israel & Foreign Policy"
+ein: 306473477
+annual-revenue: "$2.0M"
+net-assets: "$26.3M"
+tax-year: "2020"
 ---
 
 
@@ -125,3 +129,16 @@ content-readiness:: ready
 | SMP | $2.3M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2020)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2.0M |
+| Total Contributions | $540K |
+| Investment Income | $1.5M |
+| Total Expenses | $2.0M |
+| Net Assets | $26.3M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 306473477](https://projects.propublica.org/nonprofits/organizations/306473477) (Tier 1)
+<!-- auto:propublica-990 end -->

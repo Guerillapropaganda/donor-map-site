@@ -2,7 +2,7 @@
 title: "Council for National Policy"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,18 @@ ein: 720921017
 annual-revenue: "$3.8M"
 net-assets: "$3.5M"
 tax-year: "2023"
+court-cases: 21
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, D. Arizona"
+  - "District Court, D. Oregon"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Virginia"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+  - "District Court, S.D. Texas"
+  - "District Court, W.D. Texas"
 ---
 
 #cnp #dark-money #conservative #christian-right #networking #secretive #strategy
@@ -69,3 +81,22 @@ Conservative judicial appointments (the Federalist Society pipeline feeds direct
 - [Ballotpedia: Council for National Policy](https://ballotpedia.org/Council_for_National_Policy) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 21 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, D. Arizona, District Court, D. Oregon, District Court, District of Columbia, District Court, E.D. Virginia, District Court, S.D. Florida, District Court, S.D. New York, District Court, S.D. Texas +1 more |
+| Case Types | 190 Contract: Other, 320 Assault Libel & Slander, 3440 Other Civil Rights, 440 Civil Rights: Other, 441 Civil Rights: Voting |
+
+**Notable cases:**
+- Media Matters for America v. Warren Paxton, Jr. (2024) — Court of Appeals for the D.C. Circuit
+- The Intercept Media, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- MEDIA MATTERS FOR AMERICA v. PAXTON (2024) — District Court, District of Columbia
+- League of Women Voters of Arizona v. Lions of Liberty LLC (2022) — District Court, D. Arizona
+- Eshelman v. True the Vote, Inc. (2020) — District Court, S.D. Texas
+- Klayman v. Infowars, LLC (2020) — District Court, S.D. Florida
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Council%20for%20National%20Policy%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

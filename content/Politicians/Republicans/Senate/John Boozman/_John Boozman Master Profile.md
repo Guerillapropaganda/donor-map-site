@@ -2,7 +2,7 @@
 title: "John Boozman"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -16,6 +16,8 @@ issues:
   - "Agriculture"
 bioguide-id: "A000383"
 stock-trades: 43
+total-received: "$335,864"
+fec-candidate-id: "H2AR03176"
 ---
 
 
@@ -182,3 +184,34 @@ content-readiness:: ready
 
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2010 |
+| Total Raised | $335,864 |
+| Individual Contributions | $90,403 |
+| PAC Contributions | $217,701 |
+| Cash on Hand | 0.00 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2010 | $335,864 | $90,403 | $217,701 |
+| 2008 | $396,812 | $109,927 | $258,406 |
+| 2006 | $575,634 | $209,853 | $306,211 |
+| 2004 | $697,089 | $341,325 | $286,450 |
+| 2002 | $697,061 | $18,119 | $330,593 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES | $0 | $35,076 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $0 | $2,561 |
+| PLANNED PARENTHOOD ACTION FUND INC | $0 | $2 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1)
+<!-- auto:fec-politician end -->

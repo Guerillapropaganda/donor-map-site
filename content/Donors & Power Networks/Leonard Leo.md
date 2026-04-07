@@ -2,7 +2,7 @@
 title: "Leonard Leo"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Leonard Leo.md"
@@ -13,6 +13,21 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
+sec-filings: 23
+sec-form-types:
+  - "424B4"
+  - "425"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DFAN14A"
+  - "DRS"
+  - "DRS/A"
+  - "EX-24"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "S-1"
+  - "S-1/A"
 ---
 
 #donor #dark-money #judicial-capture #federalist-society #conservative #kingmaker #dark-money-architect #leonard-leo #judicial-pipeline #barre-seid #marble-freedom-trust #scotus #class-analysis
@@ -195,3 +210,21 @@ Leo also co-created Liberty Central with Ginni Thomas, seeded with $500,000 from
 
 research-status:: ready — $1.6B Barre Seid donation, Marble Freedom Trust, Supreme Court capture (Gorsuch/Kavanaugh/Barrett), state court pivot, CRC Advisors $33M, Lexington Fund/First Principles PACs 2026, Trump-Leo tension, Wisconsin loss. 9 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 23 |
+| Form Types | 424B4, 425, CORRESP, DEF 14A, DFAN14A, DRS, DRS/A, EX-24 +5 more |
+
+**Notable filings:**
+
+- 2002-08-22 — **EX-99.1**: CEO CERTIFICATION
+- 2002-08-22 — **EX-99.2**: CFO CERTIFICATION
+- 2010-09-10 — **CORRESP**: CORRESP
+- 2004-02-23 — **EX-99**: EX-99
+- 2010-09-20 — **DFAN14A**: DEFINITIVE ADDITIONAL MATERIALS
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Leonard%20Leo%22) (Tier 1)
+<!-- auto:sec-edgar end -->

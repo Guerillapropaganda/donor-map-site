@@ -2,7 +2,7 @@
 title: "Novo Nordisk"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -11,6 +11,19 @@ issues:
   - "Healthcare"
 lobbying-spend: 17065000
 lobbying-filings: 70
+federal-register-mentions: 80
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Commerce Department"
+  - "Employment and Training Administration"
+  - "Environmental Protection Agency"
+  - "Federal Trade Commission"
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
+  - "Justice Department"
+  - "Labor Department"
+  - "Patent and Trademark Office"
 ---
 
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark
@@ -88,3 +101,25 @@ content-readiness:: ready
 | NRSC | $35.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 80 |
+| Final Rules | 9 |
+| Proposed Rules | 5 |
+| Notices | 66 |
+| Agencies | Antitrust Division, Commerce Department, Employment and Training Administration, Environmental Protection Agency, Federal Trade Commission, Food and Drug Administration, Health and Human Services Department, Justice Department +2 more |
+
+**Recent regulatory activity:**
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; ALHEMO](https://www.federalregister.gov/documents/2025/12/29/2025-23863/determination-of-regulatory-review-period-for-purposes-of-patent-extension-alhemo) (2025-12-29) — Health and Human Services Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2025/08/04/2025-14723/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2025-08-04) — Federal Trade Commission
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; RIVFLOZA](https://www.federalregister.gov/documents/2025/06/16/2025-11040/determination-of-regulatory-review-period-for-purposes-of-patent-extension-rivfloza) (2025-06-16) — Health and Human Services Department
+- [Issuance of Priority Review Voucher; Rare Pediatric Disease Product; ALHEMO (concizumab-mtci)](https://www.federalregister.gov/documents/2025/01/15/2025-00750/issuance-of-priority-review-voucher-rare-pediatric-disease-product-alhemo-concizumab-mtci) (2025-01-15) — Health and Human Services Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Subcutaneous Drug Development & Delivery Consortium, Inc.](https://www.federalregister.gov/documents/2024/12/20/2024-30418/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-subcutaneous-drug) (2024-12-20) — Justice Department
+- ... and 74 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Novo%20Nordisk%22) (Tier 1)
+<!-- auto:federal-register end -->

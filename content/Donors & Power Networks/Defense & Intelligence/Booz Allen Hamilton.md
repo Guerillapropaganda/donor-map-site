@@ -124,3 +124,18 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Booz%20Allen%20Hamilton%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gerry Connolly]] (Oversight & Reform) — lobbying: $6.5M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

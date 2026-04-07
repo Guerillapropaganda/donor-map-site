@@ -2,7 +2,7 @@
 title: "Defense Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -13,6 +13,19 @@ ein: 42982768
 annual-revenue: "$82K"
 net-assets: "$202K"
 tax-year: "2023"
+federal-register-mentions: 200
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Air Force Department"
+  - "Antitrust Division"
+  - "Commerce Department"
+  - "Defense Department"
+  - "Environmental Protection Agency"
+  - "Executive Office of the President"
+  - "Federal Procurement Policy Office"
+  - "General Services Administration"
+  - "Industry and Security Bureau"
+  - "International Trade Administration"
 ---
 
 #defense #industry #military #ndaa #pentagon #bipartisan
@@ -71,3 +84,26 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 200 |
+| Final Rules | 44 |
+| Proposed Rules | 16 |
+| Notices | 135 |
+| Presidential Documents | 5 |
+| Agencies | Air Force Department, Antitrust Division, Commerce Department, Defense Department, Environmental Protection Agency, Executive Office of the President, Federal Procurement Policy Office, General Services Administration +6 more |
+
+**Recent regulatory activity:**
+- [30-Day Notice of Proposed Information Collection: Request To Change End-User, End-Use and/or Destination of Hardware and Open General Licenses](https://www.federalregister.gov/documents/2026/03/31/2026-06209/30-day-notice-of-proposed-information-collection-request-to-change-end-user-end-use-andor) (2026-03-31) — State Department
+- [Defense Trade Advisory Group; Notice of Membership](https://www.federalregister.gov/documents/2026/03/19/2026-05408/defense-trade-advisory-group-notice-of-membership) (2026-03-19) — State Department
+- [Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services](https://www.federalregister.gov/documents/2026/02/17/2026-03065/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services) (2026-02-17) — Management and Budget Office ★
+- [60-Day Notice of Proposed Information Collection: Request To Change End-User, End-Use and/or Destination of Hardware and Open General Licenses](https://www.federalregister.gov/documents/2026/01/21/2026-01018/60-day-notice-of-proposed-information-collection-request-to-change-end-user-end-use-andor) (2026-01-21) — State Department
+- [National Emission Standards for Hazardous Air Pollutants: Integrated Iron and Steel Manufacturing Facilities Technology Review](https://www.federalregister.gov/documents/2025/12/03/2025-21787/national-emission-standards-for-hazardous-air-pollutants-integrated-iron-and-steel-manufacturing) (2025-12-03) — Environmental Protection Agency
+- [Adjusting Imports of Medium- and Heavy-Duty Vehicles, Medium- and Heavy-Duty Vehicle Parts, and Buses Into the United States](https://www.federalregister.gov/documents/2025/10/22/2025-19639/adjusting-imports-of-medium--and-heavy-duty-vehicles-medium--and-heavy-duty-vehicle-parts-and-buses) (2025-10-22) — Executive Office of the President
+- ... and 194 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Defense%20Industry%22) (Tier 1)
+<!-- auto:federal-register end -->

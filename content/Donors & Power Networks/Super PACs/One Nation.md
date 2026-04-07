@@ -2,7 +2,7 @@
 title: "One Nation"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -13,6 +13,16 @@ ein: 271937961
 annual-revenue: "$66.8M"
 net-assets: "$60.8M"
 tax-year: "2023"
+federal-register-mentions: 119
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Energy Department"
+  - "Executive Office of the President"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Justice Department"
+  - "Labor Department"
 ---
 
 #one-nation #mcconnell #dark-money #501c4 #senate-races #donor-secrecy
@@ -81,3 +91,26 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 | CLT HOST 2020 INC | $1.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 119 |
+| Final Rules | 10 |
+| Proposed Rules | 11 |
+| Notices | 40 |
+| Presidential Documents | 58 |
+| Agencies | Antitrust Division, Energy Department, Executive Office of the President, Federal Energy Regulatory Commission, Federal Trade Commission, Justice Department, Labor Department |
+
+**Recent regulatory activity:**
+- [National Black History Month, 2026](https://www.federalregister.gov/documents/2026/02/06/2026-02496/national-black-history-month-2026) (2026-02-06) — Executive Office of the President
+- [Year of Celebration and Rededication, 2026](https://www.federalregister.gov/documents/2026/02/03/2026-02248/year-of-celebration-and-rededication-2026) (2026-02-03) — Executive Office of the President
+- [National Day of Patriotic Devotion, 2026](https://www.federalregister.gov/documents/2026/01/26/2026-01572/national-day-of-patriotic-devotion-2026) (2026-01-26) — Executive Office of the President
+- [Bill of Rights Day, 2025](https://www.federalregister.gov/documents/2025/12/18/2025-23416/bill-of-rights-day-2025) (2025-12-18) — Executive Office of the President
+- [250th Anniversary of the Founding of the United States Marine Corps](https://www.federalregister.gov/documents/2025/11/14/2025-19994/250th-anniversary-of-the-founding-of-the-united-states-marine-corps) (2025-11-14) — Executive Office of the President
+- [418th Anniversary of the First Landing and the Raising of the Cape Henry Cross](https://www.federalregister.gov/documents/2025/05/02/2025-07834/418th-anniversary-of-the-first-landing-and-the-raising-of-the-cape-henry-cross) (2025-05-02) — Executive Office of the President
+- ... and 113 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22One%20Nation%22) (Tier 1)
+<!-- auto:federal-register end -->

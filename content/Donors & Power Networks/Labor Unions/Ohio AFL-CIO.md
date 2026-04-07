@@ -35,6 +35,11 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+court-cases: 47
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, S.D. New York"
+  - "District Court, S.D. Ohio"
 ---
 
 #labor-union #ohio-politics #democratic-donor #working-class #labor-federation
@@ -170,3 +175,22 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Ohio%20AFL-CIO) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 47 |
+| Courts | District Court, S.D. New York, District Court, S.D. Ohio |
+| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 820 Copyright, 950 Constitutional - State Statute, Labor: Labor/Mgt. Relations |
+
+**Notable cases:**
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- Gonidakis v. Ohio Redistricting Commission (2022) — District Court, S.D. Ohio
+- United States v. Householder (2020) — District Court, S.D. Ohio
+- Thompson v. DeWine (2020) — District Court, S.D. Ohio
+- Plain Local School District Board of Education v. DeWine (2019) — District Court, S.D. Ohio
+- Ohioans Against Corporate Bailouts v. LaRose (2019) — District Court, S.D. Ohio
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20AFL-CIO%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

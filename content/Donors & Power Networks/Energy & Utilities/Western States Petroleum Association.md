@@ -34,6 +34,10 @@ sec-form-types:
   - "SB-2"
   - "SB-2/A"
   - "SC 14F1"
+ein: 950596680
+annual-revenue: "$36.1M"
+net-assets: "$13.1M"
+tax-year: "2023"
 ---
 
 
@@ -173,3 +177,18 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20States%20Petroleum%20Association%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $36.1M |
+| Total Contributions | $3K |
+| Program Service Revenue | $35.7M |
+| Investment Income | $302K |
+| Total Expenses | $35.0M |
+| Net Assets | $13.1M |
+| Officer Compensation | $3.3M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 950596680](https://projects.propublica.org/nonprofits/organizations/950596680) (Tier 1)
+<!-- auto:propublica-990 end -->

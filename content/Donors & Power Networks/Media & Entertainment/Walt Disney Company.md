@@ -11,6 +11,32 @@ politicians-funded:
   - "Ron DeSantis"
 lei: "549300GZKULIZ0WOW665"
 lei-jurisdiction: "US-DE"
+sec-filings: 10000
+sec-form-types:
+  - "144"
+  - "3"
+  - "4"
+  - "424B2"
+  - "424B5"
+  - "425"
+  - "8-K"
+  - "DEFA14A"
+  - "EX-10.2"
+  - "EX-10.B"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "FWP"
+  - "N-PX"
+  - "PROXY VOTING RECORD"
+  - "S-3ASR"
+  - "S-8 POS"
+  - "SC TO-I"
+  - "SCHEDULE 13D/A"
+  - "SCHEDULE 13G/A"
+ein: 956037079
+annual-revenue: "$2.3M"
+net-assets: "$681K"
+tax-year: "2023"
 ---
 
 #disney #media #entertainment #lobbying #copyright #florida #desantis
@@ -84,3 +110,35 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 144, 3, 4, 424B2, 424B5, 425, 8-K, DEFA14A +12 more |
+| CIK | 1744489 |
+| Ticker | DIS |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023335/0001628280-26-023335-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023334/0001628280-26-023334-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023333/0001628280-26-023333-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023332/0001628280-26-023332-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023331/0001628280-26-023331-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Walt%20Disney%20Company%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2.3M |
+| Total Contributions | $0 |
+| Total Expenses | $2.3M |
+| Net Assets | $681K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 956037079](https://projects.propublica.org/nonprofits/organizations/956037079) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,7 +2,7 @@
 title: "Starbucks"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
@@ -15,6 +15,36 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 top-federal-agency: "Department of Defense"
 top-naics-code: "336611"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "144"
+  - "4"
+  - "424B2"
+  - "424B5"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFC14A"
+  - "DFAN14A"
+  - "EX-10.1"
+  - "EX-10.11"
+  - "EX-10.2"
+  - "EX-10.32"
+  - "EX-10.37"
+  - "EX-10.4"
+  - "EX-10.5"
+  - "EX-21"
+  - "EX-4"
+  - "EX-99.(A)(1)(H)"
+  - "EX-99.(B)"
+  - "EX-99.1"
+  - "FWP"
+  - "PX14A6G"
+  - "SCHEDULE 13G/A"
+  - "SD"
+cpsc-recalls: 11
+last-enriched: "2026-04-07"
 ---
 
 #starbucks #coffee #anti-union #nlrb #progressive-brand #labor #howard-schultz
@@ -102,3 +132,45 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Starbucks) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 144, 4, 424B2, 424B5, 8-K, DEF 14A, DEFA14A +18 more |
+| CIK | 829224 |
+| Ticker | SBUX |
+
+**Notable filings:**
+
+- 2026-04-06 — **144**: [144](https://www.sec.gov/Archives/edgar/data/829224/000195917326002781/0001959173-26-002781-index.htm)
+- 2026-04-02 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/829224/000082922426000064/0000829224-26-000064-index.htm)
+- 2026-03-31 — **PX14A6G**: [PX14A6G](https://www.sec.gov/Archives/edgar/data/829224/000121465926004126/0001214659-26-004126-index.htm)
+- 2026-03-30 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/829224/000082922426000058/0000829224-26-000058-index.htm)
+- 2026-03-27 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/829224/000082922426000056/0000829224-26-000056-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Starbucks%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 11 |
+| Most Recent Recall | 2024-03-21 |
+| Earliest Recall | 2003-05-28 |
+| Hazard Types | If microwaved or filled with extremely hot liquid, the mugs can overheat or break, posing burn and laceration hazards., The coffee press' plunger knob can break and expose the metal rod, posing a laceration hazard., The stainless steel straws are rigid and can poke children in the mouth, posing a risk of injury., The glass carafe can fall out of the metal frame and plastic base of the coffee press and break or shatter, posing laceration and burn hazards to consumers., The glass water bottle and/or its stopper can shatter when the consumer is removing or inserting the stopper, posing a laceration hazard to consumers. |
+
+**Recent recalls:**
+
+- [Nestlé USA Recalls Metallic Mugs Sold with Starbucks-Branded Gift Sets Due to Burn and Laceration Hazards](https://www.cpsc.gov/Recalls/24171) (2024-03-21) — If microwaved or filled with extremely hot liquid, the mugs can overheat or break, posing burn and laceration hazards.
+- [Starbucks Recalls Bodum Recycled Coffee Presses Due to Laceration Hazard](https://www.cpsc.gov/Recalls/19114) (2019-05-01) — The coffee press' plunger knob can break and expose the metal rod, posing a laceration hazard.
+- [Laceration Injuries to Children Prompt Starbucks to Recall Stainless Steel Beverage Straws to Provide New Warnings](https://www.cpsc.gov/Recalls/16236) (2016-08-02) — The stainless steel straws are rigid and can poke children in the mouth, posing a risk of injury.
+- [Bodum USA Recalls Coffee Presses Sold Exclusively at Starbucks Due to Laceration and Burn Hazards](https://www.cpsc.gov/Recalls/14092) (2014-01-28) — The glass carafe can fall out of the metal frame and plastic base of the coffee press and break or shatter, posing laceration and burn hazards to consumers.
+- [Starbucks Recalls Glass Water Bottles Due to Laceration Hazard](https://www.cpsc.gov/Recalls/10125) (2010-01-28) — The glass water bottle and/or its stopper can shatter when the consumer is removing or inserting the stopper, posing a laceration hazard to consumers.
+- [Laceration Hazard Prompts Recall by Starbucks of Coffee Grinders; Made by Tsann Kuen](https://www.cpsc.gov/Recalls/09244) (2009-06-16) — The grinder can fail to turn off or can turn on unexpectedly, posing a laceration hazard to consumers.
+- ... and 5 more
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Starbucks) (Tier 1)
+<!-- auto:cpsc-recalls end -->

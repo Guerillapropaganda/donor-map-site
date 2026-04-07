@@ -2,7 +2,7 @@
 title: "John Hickenlooper"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,6 +16,8 @@ top-donors:
   - "Fossil Fuel Bloc"
   - "American Petroleum Institute"
   - "Brownstein Hyatt Farber Schreck"
+total-received: "$3,509,495"
+fec-candidate-id: "P00010520"
 ---
 
 #politician #democrat #senate #colorado #oil-gas #fracking #tech #brewery #moderate #follow-the-money #class-analysis #2026-election
@@ -208,3 +210,16 @@ Hickenlooper initially refused to appear at the commission's remote hearing, lea
 ---
 
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2020 |
+| Total Raised | $3,509,495 |
+| Individual Contributions | $2,790,358 |
+| PAC Contributions | $4,653 |
+| Cash on Hand | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00010520/) (Tier 1)
+<!-- auto:fec-politician end -->

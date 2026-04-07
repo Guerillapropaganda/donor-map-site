@@ -2,7 +2,7 @@
 title: "Tim Geithner"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,21 @@ politicians-funded:
   - "Barack Obama"
 issues:
   - "Wall Street & Finance"
+sec-filings: 29
+sec-form-types:
+  - "10-12G"
+  - "10-12G/A"
+  - "10-K"
+  - "425"
+  - "8-K"
+  - "DEFA14A"
+  - "EX-99.(16)(17)(D)(I)"
+  - "EX-99.1"
+  - "EX-99.17.G"
+  - "FWP"
+  - "N-CSR"
+  - "N-CSR/A"
+  - "N-CSRS"
 ---
 
 #donor #revolving-door #wall-street #treasury #warburg-pincus #bailout #financial-crisis #class-analysis #follow-the-money
@@ -156,3 +171,21 @@ content-readiness:: ready
 | HOUSE VICTORY PROJECT 2024 | $85.8K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 29 |
+| Form Types | 10-12G, 10-12G/A, 10-K, 425, 8-K, DEFA14A, EX-99.(16)(17)(D)(I), EX-99.1 +5 more |
+
+**Notable filings:**
+
+- 2009-02-24 — **8-K**: 8-K
+- 2012-09-11 — **FWP**: FREE WRITING PROSPECTUS
+- 2009-02-24 — **EX-99.1**: EXHIBIT 99.1
+- 2011-02-01 — **8-K**: LIVE FILING
+- 2010-01-15 — **EX-99.1**: EX-99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tim%20Geithner%22) (Tier 1)
+<!-- auto:sec-edgar end -->
