@@ -13,7 +13,8 @@ const ProfileWidget: QuartzComponent = ({
   if (!fm) return null
 
   const fmType = String(fm.type ?? "").toLowerCase()
-  const isProfile = slug.includes("master-profile") || fmType === "politician" || fmType === "donor" || fmType === "corporation"
+  const PROFILE_TYPES = ["politician", "donor", "corporation", "pac", "think-tank", "lobbying-firm", "media-profile"]
+  const isProfile = slug.includes("master-profile") || PROFILE_TYPES.includes(fmType)
   if (!isProfile) return null
 
   const baseUrl = cfg.baseUrl ?? ""
@@ -23,20 +24,29 @@ const ProfileWidget: QuartzComponent = ({
   const currentTitle = String(fm.title ?? "").replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim()
   const party = String(fm.party ?? "")
   const topDonors = Array.isArray(fm["top-donors"]) ? fm["top-donors"] as string[] : []
+  const isPolitician = fmType === "politician"
+  const isDonorType = fmType === "donor" || fmType === "corporation" || fmType === "pac"
 
-  if (topDonors.length === 0) {
-    return (
-      <div class={classNames(displayClass, "pw-widget")}>
-        <div class="pw-empty">No donor data tracked yet for {currentTitle}.</div>
-      </div>
-    )
+  // Extract wikilink targets from our own related/donors fields
+  const ourRelated = String(fm.related ?? "")
+  const ourDonorsField = String(fm.donors ?? "")
+  const ourAllLinks = ourRelated + " " + ourDonorsField
+  const ourLinkTargets = new Set<string>()
+  {
+    const lr = /\[\[([^\]|]+)/g
+    let m: RegExpExecArray | null
+    while ((m = lr.exec(ourAllLinks)) !== null) {
+      ourLinkTargets.add(m[1].replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim())
+    }
   }
 
-  // Build donor info map from allFiles
+  // Build lookup maps from allFiles
   const donorInfo = new Map<string, { sector: string; slug: string; politiciansFunded: string[] }>()
   const polInfo = new Map<string, { party: string; slug: string; chamber: string }>()
-  // Extended network: think tanks, K Street, media figures that reference this profile
+  // Extended network: think tanks, K Street, media, politicians, donors connected to this profile
   const networkInfo = new Map<string, { type: string; slug: string; category?: string; via?: string }>()
+  // For donor profiles: track politicians they fund
+  const politiciansFunded = isDonorType ? (Array.isArray(fm["politicians-funded"]) ? fm["politicians-funded"] as string[] : []) : []
 
   for (const f of allFiles) {
     const fFm = f.frontmatter
@@ -62,28 +72,26 @@ const ProfileWidget: QuartzComponent = ({
       })
     }
 
-    // Scan think tanks, K Street, media for connections to current profile
+    // Scan think tanks, K Street, media for connections
     const isThinkTank = fSlug.startsWith("think-tanks--and--policy-infrastructure/")
     const isKStreet = fSlug.startsWith("lobbying-firms--and--k-street/")
     const isMedia = fSlug.startsWith("media--and--influence-pipeline/")
     if (isThinkTank || isKStreet || isMedia) {
-      // Only include actual profile pages, not articles/indexes/frameworks
       const fmType2 = String(fFm.type ?? "").toLowerCase()
       if (!fmType2 || fmType2 === "index" || fmType2 === "framework" || fmType2 === "article" || fmType2 === "story") continue
       if (fTitle.includes("—") || fTitle.startsWith("_") || fTitle.includes(" Index") || fTitle.includes(" Framework")) continue
+      if (fTitle === currentTitle) continue // skip self
       const fType = isThinkTank ? "think-tank" : isKStreet ? "lobbying" : "media"
       const category = String(fFm.category ?? "")
-      // Check if their related field mentions us (via wikilinks)
+
+      // Check mutual references
       const theirRelated = String(fFm.related ?? "")
       const theyReferenceUs = theirRelated.toLowerCase().includes(currentTitle.toLowerCase())
-      // Check if we reference them (our related field or top-donors)
-      const ourRelated = String(fm.related ?? "")
-      const weReferenceThem = topDonors.includes(fTitle) || ourRelated.includes(fTitle)
-      // Shared-donor bridge: extract wikilink targets from their related/donors fields
-      // and compare against our top-donors using flexible matching
+      const weReferenceThem = topDonors.includes(fTitle) || ourLinkTargets.has(fTitle)
+
+      // Shared-donor bridge (for politician profiles)
       const theirDonors = String(fFm.donors ?? "")
       const theirAllLinks = theirRelated + " " + theirDonors
-      // Extract wikilink targets: [[Target|Display]] → "target", [[Target]] → "target"
       const linkTargets = new Set<string>()
       const linkRegex = /\[\[([^\]|]+)/g
       let lm: RegExpExecArray | null
@@ -91,12 +99,10 @@ const ProfileWidget: QuartzComponent = ({
         linkTargets.add(lm[1].replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim().toLowerCase())
       }
       let sharedDonor = ""
-      if (!theyReferenceUs && !weReferenceThem) {
+      if (!theyReferenceUs && !weReferenceThem && topDonors.length > 0) {
         for (const d of topDonors) {
           const dLc = d.toLowerCase()
-          // Exact match against extracted link targets
           if (linkTargets.has(dLc)) { sharedDonor = d; break }
-          // Partial: check if any link target starts with the donor name before " - "
           const dShort = dLc.split(" - ")[0].trim()
           for (const lt of linkTargets) {
             if (lt === dShort || lt.startsWith(dShort + " -") || lt.startsWith(dShort + " (")) {
@@ -115,6 +121,40 @@ const ProfileWidget: QuartzComponent = ({
         })
       }
     }
+  }
+
+  // For non-politician profiles: also find connected politicians and donors via our wikilinks
+  if (!isPolitician) {
+    for (const linkTarget of ourLinkTargets) {
+      // Check if it's a politician
+      const pi = polInfo.get(linkTarget)
+      if (pi && !networkInfo.has(linkTarget)) {
+        networkInfo.set(linkTarget, { type: "politician", slug: pi.slug, category: pi.party })
+        continue
+      }
+      // Check if it's a donor
+      const di = donorInfo.get(linkTarget)
+      if (di && !networkInfo.has(linkTarget)) {
+        networkInfo.set(linkTarget, { type: "donor", slug: di.slug, category: di.sector })
+      }
+    }
+    // For donor profiles: add politicians-funded as connections
+    for (const polName of politiciansFunded) {
+      const pi = polInfo.get(polName)
+      if (pi && !networkInfo.has(polName)) {
+        networkInfo.set(polName, { type: "politician", slug: pi.slug, category: pi.party })
+      }
+    }
+  }
+
+  // Check if we have any data at all
+  const hasAnyConnections = topDonors.length > 0 || networkInfo.size > 0
+  if (!hasAnyConnections) {
+    return (
+      <div class={classNames(displayClass, "pw-widget")}>
+        <div class="pw-empty">No connection data tracked yet for {currentTitle}.</div>
+      </div>
+    )
   }
 
   // ── FLOW TAB: Top donors with sector ──
@@ -176,38 +216,46 @@ const ProfileWidget: QuartzComponent = ({
   const miniGraphEdges: { source: string; target: string }[] = []
   const miniNodeIds = new Set<string>()
 
-  // Center node (current profile)
+  // Center node type based on profile
+  const centerType = isPolitician ? "politician" : isDonorType ? "donor"
+    : fmType === "think-tank" ? "think-tank" : fmType === "lobbying-firm" ? "lobbying"
+    : fmType === "media-profile" ? "media" : "donor"
+
   const centerId = slug
   miniGraphNodes.push({
     id: centerId,
     name: currentTitle,
-    type: fmType === "politician" ? "politician" : "donor",
+    type: centerType,
     party: party || undefined,
     slug: `${basePath}/${simplifySlug(fileData.slug!)}`,
   })
   miniNodeIds.add(centerId)
 
-  // Add connected donors
-  for (const donorName of topDonors.slice(0, 15)) {
-    const info = donorInfo.get(donorName)
-    const donorId = info?.slug ?? donorName
-    if (!miniNodeIds.has(donorId)) {
-      miniGraphNodes.push({
-        id: donorId,
-        name: donorName,
-        type: "donor",
-        sector: info?.sector,
-        slug: info?.slug ?? "",
-      })
-      miniNodeIds.add(donorId)
+  // For politician profiles: add top-donors as compact graph
+  // For other profiles: compact = direct connections from related/donors wikilinks
+  if (isPolitician) {
+    for (const donorName of topDonors.slice(0, 15)) {
+      const info = donorInfo.get(donorName)
+      const donorId = info?.slug ?? donorName
+      if (!miniNodeIds.has(donorId)) {
+        miniGraphNodes.push({
+          id: donorId,
+          name: donorName,
+          type: "donor",
+          sector: info?.sector,
+          slug: info?.slug ?? "",
+        })
+        miniNodeIds.add(donorId)
+      }
+      miniGraphEdges.push({ source: centerId, target: donorId })
     }
-    miniGraphEdges.push({ source: centerId, target: donorId })
   }
 
-  // Compact graph: donors only (default view)
-  const compactGraphData = JSON.stringify({ nodes: [...miniGraphNodes], edges: [...miniGraphEdges] })
+  // Compact graph: direct connections only (donors for politicians, wikilinks for others)
+  const compactNodes = [...miniGraphNodes]
+  const compactEdges = [...miniGraphEdges]
 
-  // Add extended network: think tanks, K Street, media
+  // Add all network connections (extended for politicians, primary for others)
   for (const [name, info] of networkInfo) {
     const nodeId = info.slug || name
     if (!miniNodeIds.has(nodeId)) {
@@ -215,6 +263,8 @@ const ProfileWidget: QuartzComponent = ({
         id: nodeId,
         name,
         type: info.type,
+        party: info.type === "politician" ? info.category : undefined,
+        sector: info.type === "donor" ? info.category : undefined,
         slug: info.slug,
       })
       miniNodeIds.add(nodeId)
@@ -222,17 +272,21 @@ const ProfileWidget: QuartzComponent = ({
     miniGraphEdges.push({ source: centerId, target: nodeId })
   }
 
-  // Full graph: donors + think tanks + K Street + media
+  const compactGraphData = JSON.stringify({ nodes: isPolitician ? compactNodes : miniGraphNodes, edges: isPolitician ? compactEdges : miniGraphEdges })
   const fullGraphData = JSON.stringify({ nodes: miniGraphNodes, edges: miniGraphEdges })
-  const hasExtendedNetwork = networkInfo.size > 0
-  const hasMiniGraph = topDonors.length > 0
+  const hasExtendedNetwork = isPolitician && networkInfo.size > 0
+  const hasMiniGraph = miniGraphNodes.length > 1
 
   return (
     <div class={classNames(displayClass, "pw-widget")}>
       {/* Tabs */}
       <div class="pw-tabs">
         {hasMiniGraph && <button class="pw-tab pw-tab-active" data-tab="graph">Graph</button>}
-        <button class={`pw-tab ${hasMiniGraph ? "" : "pw-tab-active"}`} data-tab="flow">Donors</button>
+        {topDonors.length > 0 && (
+          <button class={`pw-tab ${hasMiniGraph ? "" : "pw-tab-active"}`} data-tab="flow">
+            {isPolitician ? "Donors" : "Connections"}
+          </button>
+        )}
         {hasBothSides && <button class="pw-tab" data-tab="both">Both Sides</button>}
         {hasNetwork && <button class="pw-tab" data-tab="network">Reach</button>}
       </div>
@@ -250,21 +304,27 @@ const ProfileWidget: QuartzComponent = ({
         </div>
       )}
 
-      {/* Tab: Flow — Top Donors */}
-      <div class={`pw-panel ${hasMiniGraph ? "" : "pw-panel-active"}`} data-panel="flow">
-        <div class="pw-section-label">TOP DONORS</div>
-        <div class="pw-explain">Organizations and individuals funding {currentTitle}.</div>
-        {flowData.map((d) => (
-          <a href={d.slug || "#"} class={`pw-flow-row ${d.slug ? "internal" : ""}`}>
-            <div class="pw-flow-info">
-              <span class="pw-flow-donor">{d.donor}</span>
-              {d.sector && d.sector !== "undefined" && (
-                <span class="pw-flow-sector">{d.sector}</span>
-              )}
-            </div>
-          </a>
-        ))}
-      </div>
+      {/* Tab: Flow — Top Donors / Connections */}
+      {topDonors.length > 0 && (
+        <div class={`pw-panel ${hasMiniGraph ? "" : "pw-panel-active"}`} data-panel="flow">
+          <div class="pw-section-label">{isPolitician ? "TOP DONORS" : "CONNECTIONS"}</div>
+          <div class="pw-explain">
+            {isPolitician
+              ? `Organizations and individuals funding ${currentTitle}.`
+              : `Key connections tracked for ${currentTitle}.`}
+          </div>
+          {flowData.map((d) => (
+            <a href={d.slug || "#"} class={`pw-flow-row ${d.slug ? "internal" : ""}`}>
+              <div class="pw-flow-info">
+                <span class="pw-flow-donor">{d.donor}</span>
+                {d.sector && d.sector !== "undefined" && (
+                  <span class="pw-flow-sector">{d.sector}</span>
+                )}
+              </div>
+            </a>
+          ))}
+        </div>
+      )}
 
       {/* Tab: Both Sides */}
       {hasBothSides && (
