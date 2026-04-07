@@ -11,6 +11,9 @@ state: "Missouri"
 state-abbr: "MO"
 district: "1"
 bioguide-id: "A000383"
+govtrack-id: 456829
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money
@@ -130,3 +133,14 @@ content-readiness:: draft
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 2,239 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
+<!-- auto:govtrack end -->

@@ -2,7 +2,7 @@
 title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,6 +13,11 @@ district: "14"
 top-donors:
   - "Small Dollar Donors - ActBlue"
 bioguide-id: "A000383"
+govtrack-id: 412804
+bills-sponsored: 7
+bills-cosponsored: 323
+website: "https://ocasio-cortez.house.gov"
+phone: "202-225-3965"
 ---
 
 
@@ -233,3 +238,22 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 7 |
+| Bills Cosponsored | 323 |
+| Total Votes Cast | 3,663 |
+
+**Recent bills sponsored:**
+
+- H.R. 7917: Fair Wages for Home Care Workers Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 398: Geothermal Cost-Recovery Authority Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 5, 2026.*
+- H.R. 3302: Healthy Start Reauthorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on September 17, 2025.*
+- H.R. 5333: 9/11 Immigrant Worker Freedom Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3562: DEFIANCE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412804) (Tier 1)
+<!-- auto:govtrack end -->

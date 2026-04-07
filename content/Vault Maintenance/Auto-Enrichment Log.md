@@ -75,6 +75,17 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-07 17:24 UTC — 5 profiles
+
+**GovTrack — 5 profiles:**
+- Alexandria Ocasio-Cortez — 7 sponsored, 323 cosponsored
+- Cori Bush — 0 sponsored, 0 cosponsored
+- Ayanna Pressley — 29 sponsored, 230 cosponsored
+- French Hill — 24 sponsored, 95 cosponsored
+- Frank Lucas — 13 sponsored, 63 cosponsored
+
+---
 ## 2026-04-07 16:54 UTC — 10 profiles
 
 **federal-register — 10 profiles:**

@@ -2,7 +2,7 @@
 title: "Frank Lucas Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,11 @@ issues:
 top-donors:
   - "American Farm Bureau Federation"
   - "National Cattlemen's Beef Association"
+govtrack-id: 400247
+bills-sponsored: 13
+bills-cosponsored: 63
+website: "https://lucas.house.gov"
+phone: "202-225-5565"
 ---
 
 
@@ -306,3 +311,22 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 
 content-readiness:: ready
  
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 13 |
+| Bills Cosponsored | 63 |
+| Total Votes Cast | 20,047 |
+
+**Recent bills sponsored:**
+
+- H.R. 8087: To amend the Federal Deposit Insurance Act to provide deposit insurance for noninterest-bearing transaction accounts, an — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 1531: PROTECT Taiwan Act — *This bill passed in the House on February 9, 2026 and goes to the Senate next for consideration.*
+- H.R. 6967: Public Company Advisory Committee Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on January 22, 2026.*
+- H.R. 5089: Weather Act Reauthorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on September 10, 2025.*
+- H.R. 4459: MINT Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on July 16, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400247) (Tier 1)
+<!-- auto:govtrack end -->

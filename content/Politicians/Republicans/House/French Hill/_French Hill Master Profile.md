@@ -2,7 +2,7 @@
 title: "French Hill"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -23,6 +23,11 @@ top-donors:
 bioguide-id: "A000383"
 total-received: "$3,232,609"
 fec-candidate-id: "H4AR02141"
+govtrack-id: 412609
+bills-sponsored: 24
+bills-cosponsored: 95
+website: "https://hill.house.gov"
+phone: "202-225-2506"
 ---
 
 #french-hill #republican #arkansas #house #committee-chair #financial-services #banking #crypto #wall-street #phase-6-gavel-power
@@ -216,3 +221,22 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 95 |
+| Total Votes Cast | 6,198 |
+
+**Recent bills sponsored:**
+
+- H.R. 6644: 21st Century ROAD to Housing Act — *This bill has been passed in the House and the Senate, but the Senate made changes and sent it back to the House on March 12, 2026.*
+- H.R. 6955: Main Street Capital Access Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+- H.R. 7253: Ticket to Work Advertisement Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7180: Countering Captagon and Narcotics Post-Assad Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 21, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3187: To require the Secretary of Agriculture to convey a parcel of property of the Forest Service to Perry County, Arkansas,  — *This bill passed in the House on December 15, 2025 and goes to the Senate next for consideration.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412609) (Tier 1)
+<!-- auto:govtrack end -->
