@@ -174,6 +174,16 @@ export default function UrlManagerPage() {
       const data = await res.json()
       if (data.success) {
         setSaveResult(data.summary)
+        // Apply overrides permanently to URL status so they stay in their columns
+        setUrls((prev) =>
+          prev.map((u) => {
+            const override = overrides[u.id]
+            if (override) {
+              return { ...u, status: override }
+            }
+            return u
+          })
+        )
         setOverrides({})
         setHasChanges(false)
         setShowConfirm(false)
@@ -183,45 +193,72 @@ export default function UrlManagerPage() {
   }
 
   // URL card component
-  const UrlCard = ({ u }: { u: CheckedUrl }) => (
-    <div
-      draggable
-      onDragStart={() => handleDragStart(u.id)}
-      className={`flex items-start gap-2 p-2.5 rounded bg-[var(--color-bg)] hover:bg-[var(--color-bg-hover)] cursor-grab active:cursor-grabbing transition-colors border border-transparent hover:border-[var(--color-border)] group ${
-        overrides[u.id] ? "ring-1 ring-[var(--color-steel)]/30" : ""
-      }`}
-    >
-      <div className="flex-1 min-w-0">
-        <p className="text-[10px] text-[var(--color-text)] truncate">{u.label}</p>
-        <a
-          href={u.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-[9px] text-[var(--color-steel)] hover:underline truncate block"
-          onClick={(e) => e.stopPropagation()}
-        >
-          {u.url}
-        </a>
-        <div className="flex items-center gap-2 mt-1">
-          <span className="text-[8px] text-[var(--color-text-dim)]">{u.profile}</span>
-          {u.tier && <span className="text-[7px] px-1 rounded bg-[var(--color-green)]/10 text-[var(--color-green)]">T{u.tier}</span>}
-          {u.ms && <span className="text-[7px] text-[var(--color-text-dim)]">{u.ms}ms</span>}
-          {u.code && <span className="text-[7px] text-[var(--color-text-dim)]">{u.code}</span>}
+  const UrlCard = ({ u }: { u: CheckedUrl }) => {
+    // Build readable path breadcrumb from profilePath
+    const breadcrumb = u.profilePath
+      .replace("content/", "")
+      .replace(/_/g, "")
+      .replace(/ Master Profile\.md$/, "")
+      .replace(/\.md$/, "")
+      .split("/")
+      .filter(Boolean)
+
+    return (
+      <div
+        draggable
+        onDragStart={() => handleDragStart(u.id)}
+        className={`p-2.5 rounded bg-[var(--color-bg)] hover:bg-[var(--color-bg-hover)] cursor-grab active:cursor-grabbing transition-colors border border-transparent hover:border-[var(--color-border)] group ${
+          overrides[u.id] ? "ring-1 ring-[var(--color-steel)]/30" : ""
+        }`}
+      >
+        {/* Profile location — prominent */}
+        <div className="flex items-center gap-1 mb-1.5">
+          <span className="text-[8px] text-[var(--color-steel)]">
+            {breadcrumb.map((part, i) => (
+              <span key={i}>
+                {i > 0 && <span className="text-[var(--color-text-dim)] mx-0.5">/</span>}
+                <span className={i === breadcrumb.length - 1 ? "font-bold text-[var(--color-text)]" : ""}>{part}</span>
+              </span>
+            ))}
+          </span>
+          {u.tier && <span className="ml-auto text-[7px] px-1 rounded bg-[var(--color-green)]/10 text-[var(--color-green)]">T{u.tier}</span>}
+        </div>
+
+        {/* URL label + link */}
+        <div className="flex items-start gap-2">
+          <div className="flex-1 min-w-0">
+            <p className="text-[10px] text-[var(--color-text)] truncate">{u.label}</p>
+            <a
+              href={u.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[9px] text-[var(--color-steel)] hover:underline truncate block"
+              onClick={(e) => e.stopPropagation()}
+            >
+              {u.url}
+            </a>
+            {(u.ms || u.code) && (
+              <div className="flex items-center gap-2 mt-0.5">
+                {u.ms && <span className="text-[7px] text-[var(--color-text-dim)]">{u.ms}ms</span>}
+                {u.code && <span className="text-[7px] text-[var(--color-text-dim)]">HTTP {u.code}</span>}
+              </div>
+            )}
+          </div>
+          <a
+            href={u.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[var(--color-text-dim)] hover:text-[var(--color-steel)] opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0 mt-1"
+            title="Open in browser"
+          >
+            <svg width={14} height={14} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
+            </svg>
+          </a>
         </div>
       </div>
-      <a
-        href={u.url}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="text-[var(--color-text-dim)] hover:text-[var(--color-steel)] opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0 mt-1"
-        title="Open in browser"
-      >
-        <svg width={12} height={12} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
-          <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
-        </svg>
-      </a>
-    </div>
-  )
+    )
+  }
 
   // Drop zone component
   const DropZone = ({ status, color, label, items, icon }: {
