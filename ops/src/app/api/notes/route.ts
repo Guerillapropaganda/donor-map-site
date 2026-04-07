@@ -1,69 +1,36 @@
 import { NextResponse } from "next/server"
-import { Octokit } from "octokit"
+import fs from "fs"
+import path from "path"
 import { parseNote, noteToMarkdown, noteFilename } from "@/lib/notes"
+import { writeAndPush, readFile } from "@/lib/local-write"
 import type { AdminNote } from "@/lib/notes"
 
-const OWNER = "Guerillapropaganda"
-const REPO = "donor-map-site"
-const BRANCH = "v4"
 const NOTES_DIR = "content/Admin Notes"
 
-function getOctokit(): Octokit {
-  const token = process.env.GITHUB_TOKEN
-  if (!token) throw new Error("GITHUB_TOKEN not set")
-  return new Octokit({ auth: token })
+function getRepoRoot(): string {
+  const fromOps = path.resolve(process.cwd(), "..")
+  if (fs.existsSync(path.join(fromOps, "content"))) return fromOps
+  if (fs.existsSync(path.join(process.cwd(), "content"))) return process.cwd()
+  throw new Error("Cannot find repo root")
 }
 
-// GET — list all notes from the vault
+// GET — list all notes
 export async function GET() {
   try {
-    const octokit = getOctokit()
+    const repoRoot = getRepoRoot()
+    const notesDir = path.join(repoRoot, NOTES_DIR)
 
-    // Try to get the Admin Notes directory
-    let files: { name: string; path: string; sha: string }[] = []
-    try {
-      const { data } = await octokit.rest.repos.getContent({
-        owner: OWNER,
-        repo: REPO,
-        path: NOTES_DIR,
-        ref: BRANCH,
-      })
-      if (Array.isArray(data)) {
-        files = data.filter((f) => f.name.endsWith(".md")).map((f) => ({
-          name: f.name,
-          path: f.path,
-          sha: f.sha,
-        }))
-      }
-    } catch (e: unknown) {
-      // Directory doesn't exist yet — that's fine, return empty
-      if (e && typeof e === "object" && "status" in e && (e as { status: number }).status === 404) {
-        return NextResponse.json({ notes: [] })
-      }
-      throw e
+    if (!fs.existsSync(notesDir)) {
+      return NextResponse.json({ notes: [] })
     }
 
-    // Fetch content of each note
-    const notes: AdminNote[] = []
-    for (const file of files) {
-      try {
-        const { data } = await octokit.rest.repos.getContent({
-          owner: OWNER,
-          repo: REPO,
-          path: file.path,
-          ref: BRANCH,
-        })
-        if ("content" in data && data.content) {
-          const content = Buffer.from(data.content, "base64").toString("utf-8")
-          const note = parseNote(file.path, content)
-          notes.push(note)
-        }
-      } catch {
-        // Skip files that can't be read
-      }
-    }
+    const files = fs.readdirSync(notesDir).filter((f) => f.endsWith(".md"))
+    const notes: AdminNote[] = files.map((f) => {
+      const filePath = `${NOTES_DIR}/${f}`
+      const content = fs.readFileSync(path.join(notesDir, f), "utf-8")
+      return parseNote(filePath, content)
+    })
 
-    // Sort: open first, then by date descending
     notes.sort((a, b) => {
       if (a.status === "open" && b.status !== "open") return -1
       if (a.status !== "open" && b.status === "open") return 1
@@ -72,8 +39,8 @@ export async function GET() {
 
     return NextResponse.json({ notes })
   } catch (error: unknown) {
-    const message = error instanceof Error ? error.message : "Unknown error"
-    return NextResponse.json({ error: message }, { status: 500 })
+    const msg = error instanceof Error ? error.message : "Unknown error"
+    return NextResponse.json({ error: msg }, { status: 500 })
   }
 }
 
@@ -87,9 +54,8 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: "text is required" }, { status: 400 })
     }
 
-    const octokit = getOctokit()
     const filename = noteFilename(profile || "general", type || "question")
-    const path = `${NOTES_DIR}/${filename}`
+    const filePath = `${NOTES_DIR}/${filename}`
 
     const note: AdminNote = {
       id: filename.replace(".md", ""),
@@ -105,20 +71,12 @@ export async function POST(request: Request) {
     }
 
     const content = noteToMarkdown(note)
+    writeAndPush(filePath, content, `Admin note: ${note.title}`)
 
-    await octokit.rest.repos.createOrUpdateFileContents({
-      owner: OWNER,
-      repo: REPO,
-      path,
-      message: `Admin note: ${note.title}`,
-      content: Buffer.from(content).toString("base64"),
-      branch: BRANCH,
-    })
-
-    return NextResponse.json({ success: true, note, path })
+    return NextResponse.json({ success: true, note, path: filePath })
   } catch (error: unknown) {
-    const message = error instanceof Error ? error.message : "Unknown error"
-    return NextResponse.json({ error: message }, { status: 500 })
+    const msg = error instanceof Error ? error.message : "Unknown error"
+    return NextResponse.json({ error: msg }, { status: 500 })
   }
 }
 
@@ -132,23 +90,9 @@ export async function PUT(request: Request) {
       return NextResponse.json({ error: "id and status required" }, { status: 400 })
     }
 
-    const octokit = getOctokit()
-    const path = `${NOTES_DIR}/${id}.md`
-
-    // Get current file
-    const { data: fileData } = await octokit.rest.repos.getContent({
-      owner: OWNER,
-      repo: REPO,
-      path,
-      ref: BRANCH,
-    })
-
-    if (!("content" in fileData) || !fileData.content) {
-      return NextResponse.json({ error: "File not found" }, { status: 404 })
-    }
-
-    const content = Buffer.from(fileData.content, "base64").toString("utf-8")
-    const note = parseNote(path, content)
+    const filePath = `${NOTES_DIR}/${id}.md`
+    const content = readFile(filePath)
+    const note = parseNote(filePath, content)
     note.status = status
 
     if (status === "done") {
@@ -157,20 +101,11 @@ export async function PUT(request: Request) {
     }
 
     const updated = noteToMarkdown(note)
-
-    await octokit.rest.repos.createOrUpdateFileContents({
-      owner: OWNER,
-      repo: REPO,
-      path,
-      message: `Update note status: ${note.title} → ${status}`,
-      content: Buffer.from(updated).toString("base64"),
-      sha: fileData.sha,
-      branch: BRANCH,
-    })
+    writeAndPush(filePath, updated, `Update note status: ${note.title} → ${status}`)
 
     return NextResponse.json({ success: true, note })
   } catch (error: unknown) {
-    const message = error instanceof Error ? error.message : "Unknown error"
-    return NextResponse.json({ error: message }, { status: 500 })
+    const msg = error instanceof Error ? error.message : "Unknown error"
+    return NextResponse.json({ error: msg }, { status: 500 })
   }
 }
