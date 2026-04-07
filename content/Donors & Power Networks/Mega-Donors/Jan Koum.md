@@ -10,7 +10,6 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
   - "Nikki Haley"
-federal-contracts: "489"
 court-cases: 50
 last-enriched: "2026-04-06"
 court-jurisdictions:
@@ -158,30 +157,6 @@ This is the key analytical section for Koum. His pattern exemplifies how tech fo
 ---
 
 ### Federal Contracts
-<!-- auto:sam-contracts start -->
-
-| Metric | Value |
-|--------|-------|
-| Total Contracts Found | 489 |
-| Sample Value (top 25) | $1.2M |
-| Year Range | 2006-2017 |
-| Federal Agencies | 4 |
-
-**Contracting agencies:** DEPT OF DEFENSE, HOMELAND SECURITY, DEPARTMENT OF, INTERIOR, DEPARTMENT OF THE, SOCIAL SECURITY ADMINISTRATION
-
-**Recent contracts:**
-
-| Amount | Agency | Date |
-|--------|--------|------|
-| $7K | INTERIOR, DEPARTMENT OF THE | 2009-11-01 |
-| $4K | DEPT OF DEFENSE | 2006-11-02 |
-| $4K | DEPT OF DEFENSE | 2011-01-05 |
-| $4K | DEPT OF DEFENSE | 2011-01-03 |
-| $0 | SOCIAL SECURITY ADMINISTRATION | 2011-03-29 |
-
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Jan%20Koum&page=1&index=opp) (Tier 1)
-
-<!-- auto:sam-contracts end -->
 
 ### Sources
 

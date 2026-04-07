@@ -2,7 +2,7 @@
 title: "Harlan Crow"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,20 +11,6 @@ politicians-funded:
   - "Clarence Thomas"
 issues:
   - "Housing"
-federal-contracts: "6189"
-court-cases: 35
-last-enriched: "2026-04-07"
-court-jurisdictions:
-  - "Court of Appeals for the Fourth Circuit"
-  - "District Court, D. Massachusetts"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, S.D. New York"
-  - "District Court, Virgin Islands"
-  - "District Court, W.D. Texas"
-  - "United States Bankruptcy Court, N.D. Texas"
-lei: "549300VL0GY0XCBOIK44"
-lei-jurisdiction: "US-DE"
 ---
 
 
@@ -127,30 +113,6 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 ---
 
 ### Federal Contracts
-<!-- auto:sam-contracts start -->
-
-| Metric | Value |
-|--------|-------|
-| Total Contracts Found | 6189 |
-| Sample Value (top 25) | $980K |
-| Year Range | 2005-2017 |
-| Federal Agencies | 3 |
-
-**Contracting agencies:** AGRICULTURE, DEPARTMENT OF, EDUCATION, DEPARTMENT OF, NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
-
-**Recent contracts:**
-
-| Amount | Agency | Date |
-|--------|--------|------|
-| $77K | AGRICULTURE, DEPARTMENT OF | 2013-02-28 |
-| $14K | AGRICULTURE, DEPARTMENT OF | 2011-09-22 |
-| $11K | NATIONAL AERONAUTICS AND SPACE ADMINISTRATION | 2005-08-19 |
-| $4K | AGRICULTURE, DEPARTMENT OF | 2010-05-11 |
-| $0 | AGRICULTURE, DEPARTMENT OF | 2014-04-25 |
-
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Harlan%20Crow&page=1&index=opp) (Tier 1)
-
-<!-- auto:sam-contracts end -->
 
 ### Sources
 
@@ -172,52 +134,3 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 | HONOR PENNSYLVANIA, INC. | $225.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
-
-### Influence Network (Cross-Reference)
-<!-- auto:influence-cross-ref start -->
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 1 |
-| Federal Contractor | Yes |
-| Committee Overlap Detected | None |
-
-**Funded politicians:**
-
-- [[Clarence Thomas]] — contracts: $6K
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
-<!-- auto:influence-cross-ref end -->
-
-### Federal Court Records (CourtListener)
-<!-- auto:courtlistener-cases start -->
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 35 |
-| Courts | Court of Appeals for the Fourth Circuit, District Court, D. Massachusetts, District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, S.D. New York, District Court, Virgin Islands, District Court, W.D. Texas, United States Bankruptcy Court, N.D. Texas |
-| Case Types | 12 Recovery of money/property - 547 preference, 3890 Other Statutory Actions, 440 Civil Rights: Other, 820 Copyright, 890 Other Statutory Actions |
-
-**Notable cases:**
-- Michael Jackson v. Thomson Reuters America Corporation (2025) — Court of Appeals for the Fourth Circuit
-- Michael Jackson v. Whitepages, Inc. (2025) — Court of Appeals for the Fourth Circuit
-- Merit Street Media, Inc. v. Trinity Broadcasting of Texas Inc. (2025) — United States Bankruptcy Court, N.D. Texas
-- SMITH v. FLORES (2025) — District Court, District of Columbia
-- American Association of University Professors v. Rubio (2025) — District Court, D. Massachusetts
-- J.G.G. v. TRUMP (2025) — District Court, District of Columbia
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Harlan%20Crow%22&type=r) (Tier 1)
-<!-- auto:courtlistener-cases end -->
-
-### Corporate Structure (GLEIF)
-<!-- auto:gleif-lei start -->
-| Field | Value |
-|-------|-------|
-| LEI | [549300VL0GY0XCBOIK44](https://search.gleif.org/#/record/549300VL0GY0XCBOIK44) |
-| Legal Name | HARLAN R. CROW FAMILY BRANCH PARTNERSHIP, L.P. |
-| Jurisdiction | US-DE |
-| Entity Status | ACTIVE |
-| Category | GENERAL |
-| Registration | LAPSED |
-| Last Updated | 2023-08-04T17:27:34Z |
-
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
-<!-- auto:gleif-lei end -->

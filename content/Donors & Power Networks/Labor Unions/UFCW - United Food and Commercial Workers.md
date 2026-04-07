@@ -2,7 +2,7 @@
 title: "UFCW - United Food and Commercial Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-05
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -14,11 +14,6 @@ politicians-funded:
   - "Katie Porter"
 issues:
   - "Labor & Workers"
-federal-contracts: "1444229"
-ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
-ofac-programs:
-  - "RUSSIA-EO14024"
 ---
 
 
@@ -149,30 +144,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 ---
 
 ### Federal Contracts
-<!-- auto:sam-contracts start -->
-
-| Metric | Value |
-|--------|-------|
-| Total Contracts Found | 1444229 |
-| Sample Value (top 25) | $314K |
-| Year Range | 2004-2009 |
-| Federal Agencies | 1 |
-
-**Contracting agencies:** GENERAL SERVICES ADMINISTRATION
-
-**Recent contracts:**
-
-| Amount | Agency | Date |
-|--------|--------|------|
-| $15K | GENERAL SERVICES ADMINISTRATION | 2005-07-01 |
-| $15K | GENERAL SERVICES ADMINISTRATION | 2005-01-01 |
-| $15K | GENERAL SERVICES ADMINISTRATION | 2006-01-01 |
-| $15K | GENERAL SERVICES ADMINISTRATION | 2004-10-01 |
-| $8K | GENERAL SERVICES ADMINISTRATION | 2007-01-01 |
-
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=UFCW%20-%20United%20Food%20and%20Commercial%20Workers&page=1&index=opp) (Tier 1)
-
-<!-- auto:sam-contracts end -->
 
 ### Sources
 
@@ -196,38 +167,3 @@ content-readiness:: ready
 | BLOCK BY BLOCK PAC | $17.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
-
-### Influence Network (Cross-Reference)
-<!-- auto:influence-cross-ref start -->
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 4 |
-| Federal Contractor | Yes |
-| Committee Overlap Detected | None |
-
-**Funded politicians:**
-
-- [[Gavin Newsom]] — contracts: $1.4M
-- [[Kamala Harris]] — contracts: $1.4M
-- [[Elizabeth Warren]] — contracts: $1.4M
-- [[Katie Porter]] — contracts: $1.4M
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
-<!-- auto:influence-cross-ref end -->
-
-### OFAC Sanctions Screening
-<!-- auto:ofac-sdn start -->
-| Metric | Value |
-|--------|-------|
-| SDN List Status | **Match found** |
-| Match Quality | Fuzzy match (token overlap) |
-| SDN Records Matched | 1 |
-| Sanctions Programs | RUSSIA-EO14024 |
-| Entity Types | -0- |
-
-**Matched SDN entries:**
-- JOINT STOCK INVESTMENT COMMERCIAL BANK ENISEISK UNITED BANK (-0-) [RUSSIA-EO14024]
-  - Remarks: SWIFT/BIC EUJKRU55; Website www.united.ru; Secondary sanctions risk: See Section 11 of Executive Order 14024.; Target Type Financial Institution; Tax ID No. 2447002227 (Russia); Legal Entity Number 25...
-
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
-<!-- auto:ofac-sdn end -->
