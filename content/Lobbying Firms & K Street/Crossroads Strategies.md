@@ -16,11 +16,11 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. New York"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Goldman Sachs]] · [[Fossil Fuel Bloc]]"
 ---
 
 #lobbying #k-street #bipartisan #defense #energy #tech #financial-services #class-analysis
 
-related: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Goldman Sachs]] · [[Fossil Fuel Bloc]]
 
 ---
 

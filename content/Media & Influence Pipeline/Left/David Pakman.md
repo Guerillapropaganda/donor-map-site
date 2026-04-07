@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
+related: "[[Kyle Kulinski]] · [[Sam Seder]] · [[Rachel Maddow]] · [[John Oliver]] · [[Cenk Uygur]] · [[_Media Pipeline Framework]]"
+donors: "[[Sixteen Thirty Fund]] (Chorus Creator Incubator Program, disclosed Aug 2025)"
 ---
 
 #media-profile #left #progressive #youtube #democratic-party #dark-money #chorus #sixteen-thirty-fund #immigrant
 
-related: [[Kyle Kulinski]] · [[Sam Seder]] · [[Rachel Maddow]] · [[John Oliver]] · [[Cenk Uygur]] · [[_Media Pipeline Framework]]
-donors: [[Sixteen Thirty Fund]] (Chorus Creator Incubator Program, disclosed Aug 2025)
 
 ---
 

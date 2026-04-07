@@ -12,11 +12,11 @@ fara-status: "registrant"
 fara-records: 2
 fara-countries:
   - "JAPAN"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackstone Group]] · [[Raytheon (RTX)|RTX Corp]] · [[_Lobbying Firms Framework]]"
 ---
 
 #lobbying #k-street #pharma #healthcare #tobacco #grassroots #tax-policy #telecom #defense #bipartisan-access #clinton-orbit
 
-related: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackstone Group]] · [[Raytheon (RTX)|RTX Corp]] · [[_Lobbying Firms Framework]]
 
 ---
 

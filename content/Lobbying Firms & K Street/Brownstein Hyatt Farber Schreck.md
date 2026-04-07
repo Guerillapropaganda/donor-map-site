@@ -8,11 +8,11 @@ parent: null
 annual-revenue: "$73.8M"
 lobbyist-count: 81
 revolving-door-pct: "53.1%"
+related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Apollo Global Management]] · [[Palantir Technologies]] · [[PhRMA]]"
 ---
 
 #lobbying #k-street #energy #real-estate #cannabis #gaming #foreign-lobbying #defense #pharma #tech
 
-related: [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Apollo Global Management]] · [[Palantir Technologies]] · [[PhRMA]]
 
 ---
 

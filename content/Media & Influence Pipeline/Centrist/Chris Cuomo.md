@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 category: centrist
 platform: cable-news
+related: "[[Megyn Kelly]] · [[Bari Weiss]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]]"
+donors: "[]"
 ---
 
 #media-profile #centrist #journalist #cnn #newsnation #nexstar #dynasty #corporate-media #class-analysis
 
-related: [[Megyn Kelly]] · [[Bari Weiss]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]]
-donors: []
 
 ---
 

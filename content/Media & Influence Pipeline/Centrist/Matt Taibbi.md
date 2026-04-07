@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
+related: "[[Peter Thiel]] · [[Marc Andreessen and a16z]] · [[Goldman Sachs]]"
 ---
 
 #media-pipeline #centrist #substack #twitter-files #investigative-journalism #audience-swap
 
-related: [[Peter Thiel]] · [[Marc Andreessen and a16z]] · [[Goldman Sachs]]
 
 ---
 

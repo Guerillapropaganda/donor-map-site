@@ -6,12 +6,12 @@ last-updated: 2026-03-26
 source-tier: 1
 parent: null
 category: centrist
+related: "[[Glenn Greenwald]] · [[Lex Fridman]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]]"
+donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]]"
 ---
 
 #media-profile #centrist #journalist #free-press #cbs-news #independence-theater #tech-vc #class-analysis
 
-related: [[Glenn Greenwald]] · [[Lex Fridman]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]]
-donors: [[Marc Andreessen and a16z]] · [[Peter Thiel]]
 
 ---
 

@@ -7,11 +7,11 @@ source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
+related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]]"
 ---
 
 #media-pipeline #centrist #independence-theater #revolving-door #fox-news #conservative-media
 
-related: [[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]]
 
 ---
 

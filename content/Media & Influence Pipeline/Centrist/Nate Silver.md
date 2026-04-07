@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
+related: "[[Ezra Klein]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]]"
+donors: "[[Peter Thiel]]"
 ---
 
 #media-profile #centrist #data-journalist #substack #polymarket #prediction-markets #quantitative-centrism #class-analysis
 
-related: [[Ezra Klein]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]]
-donors: [[Peter Thiel]]
 
 ---
 

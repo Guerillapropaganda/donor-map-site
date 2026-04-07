@@ -8,11 +8,11 @@ parent: null
 annual-revenue: "$113.8M (2024 cycle vendor payments)"
 lobbyist-count: 0
 revolving-door-pct: "N/A — not a registered lobbying firm"
+related: "[[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
 
 #lobbying #k-street #democratic-machine #shadow-lobbying #fara #comms-as-lobbying #class-analysis
 
-related: [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 ---
 

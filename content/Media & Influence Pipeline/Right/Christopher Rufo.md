@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: right
 platform: substack
+related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Manhattan Institute for Policy Research]]"
 ---
 
 #media-pipeline #right #anti-dei #manhattan-institute #policy-architect #dark-money #donorstrust #bradley-foundation
 
-related: [[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Manhattan Institute for Policy Research]]
 
 ---
 

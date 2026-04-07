@@ -5,11 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+related: "[[Fox News - Murdoch Media Empire]] · [[Rachel Maddow]] · [[Tucker Carlson]] · [[Sean Hannity]] · [[Laura Ingraham]] · [[PhRMA]] · [[JPMorgan Chase]] · [[Raytheon (RTX)]] · [[Daily Wire]] · [[Joe Rogan]]"
 ---
 
 #media #advertising #cross-spectrum #pharma #insurance #defense #tech #boycotts #both-sides-illusion
 
-related: [[Fox News - Murdoch Media Empire]] · [[Rachel Maddow]] · [[Tucker Carlson]] · [[Sean Hannity]] · [[Laura Ingraham]] · [[PhRMA]] · [[JPMorgan Chase]] · [[Raytheon (RTX)]] · [[Daily Wire]] · [[Joe Rogan]]
 
 ---
 

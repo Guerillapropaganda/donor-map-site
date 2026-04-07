@@ -8,11 +8,11 @@ parent: null
 annual-revenue: "$65.4M"
 lobbyist-count: 74
 revolving-door-pct: "55.4%"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[Blackrock]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[Google]] · [[Meta]] · [[Verizon]] · [[Business Roundtable]] · [[_Lobbying Firms Framework]]"
 ---
 
 #lobbying #k-street #pharma #defense #finance #tech #trade #bipartisan #revolving-door
 
-related: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[Blackrock]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[Google]] · [[Meta]] · [[Verizon]] · [[Business Roundtable]] · [[_Lobbying Firms Framework]]
 
 ---
 

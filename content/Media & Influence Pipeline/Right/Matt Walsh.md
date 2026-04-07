@@ -6,12 +6,12 @@ last-updated: 2026-03-26
 source-tier: 1
 parent: null
 category: right
+related: "[[Ben Shapiro]] · [[Candace Owens]] · [[Steven Crowder]] · [[Charlie Kirk]] · [[_Media Pipeline Framework]]"
+donors: "[[Wilks Brothers]]"
 ---
 
 #media-profile #right #conservative #daily-wire #culture-war #anti-trans #documentary #class-analysis
 
-related: [[Ben Shapiro]] · [[Candace Owens]] · [[Steven Crowder]] · [[Charlie Kirk]] · [[_Media Pipeline Framework]]
-donors: [[Wilks Brothers]]
 
 ---
 

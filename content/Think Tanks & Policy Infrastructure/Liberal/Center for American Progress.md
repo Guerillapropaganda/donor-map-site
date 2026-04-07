@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
+related: "[[Goldman Sachs - Wall Street Titan]] · [[Goldman Sachs]] · [[Citigroup]] · [[Google - Alphabet]] · [[Meta - Facebook Political Operation]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Democratic Party Infrastructure]] · [[Silicon Valley Democratic Donor Network]]"
 ---
 
 #think-tank #liberal #healthcare #climate #economic-policy #revolving-door #idea-laundering #obama-network #biden-network
 
-related: [[Goldman Sachs - Wall Street Titan]] · [[Goldman Sachs]] · [[Citigroup]] · [[Google - Alphabet]] · [[Meta - Facebook Political Operation]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Democratic Party Infrastructure]] · [[Silicon Valley Democratic Donor Network]]
 
 ---
 

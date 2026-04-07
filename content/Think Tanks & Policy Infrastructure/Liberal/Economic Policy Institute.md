@@ -12,11 +12,11 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 12248246
 total-assets: 19581014
+related: "[[AFL-CIO]] · [[SEIU - Service Employees International Union|SEIU]] · [[American Federation of Teachers]] · [[National Education Association]] · [[Ford Foundation]] · [[Bill Gates]]"
 ---
 
 #think-tank #liberal #labor #economic-policy #minimum-wage #pro-act #nlrb #revolving-door
 
-related: [[AFL-CIO]] · [[SEIU - Service Employees International Union|SEIU]] · [[American Federation of Teachers]] · [[National Education Association]] · [[Ford Foundation]] · [[Bill Gates]]
 
 ---
 

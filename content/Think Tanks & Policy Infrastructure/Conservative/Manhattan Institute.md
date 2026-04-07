@@ -33,11 +33,11 @@ court-jurisdictions:
   - "District Court, N.D. New York"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
+related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Paul Singer]] · [[Scaife Foundations]]"
 ---
 
 #think-tank #conservative #policing #housing #education #criminal-justice #anti-dei #urban-policy #class-analysis
 
-related: [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Paul Singer]] · [[Scaife Foundations]]
 
 ---
 

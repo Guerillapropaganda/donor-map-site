@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
+related: "[[Bari Weiss]] · [[Pod Save America]] · [[_Media Pipeline Framework]]"
+donors: "[]"
 ---
 
 #media-profile #centrist #journalist #vox #nyt #policy-wonk #technocratic-centrism #class-analysis
 
-related: [[Bari Weiss]] · [[Pod Save America]] · [[_Media Pipeline Framework]]
-donors: []
 
 ---
 

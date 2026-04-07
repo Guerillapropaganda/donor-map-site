@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
+related: "[[DSA - Democratic Socialists of America]]"
 ---
 
 #media-pipeline #left #socialist #dsa #subscription-funded #class-analysis #jacobin
 
-related: [[DSA - Democratic Socialists of America]]
 
 ---
 

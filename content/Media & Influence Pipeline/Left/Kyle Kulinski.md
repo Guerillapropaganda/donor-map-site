@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
+related: "[[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Hasan Piker]] · [[Sam Seder]] · [[_Media Pipeline Framework]]"
+donors: "(audience-funded — no institutional donor)"
 ---
 
 #media-profile #left #progressive #independent #youtube #justice-democrats #bernie #class-analysis
 
-related: [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Hasan Piker]] · [[Sam Seder]] · [[_Media Pipeline Framework]]
-donors: (audience-funded — no institutional donor)
 
 ---
 

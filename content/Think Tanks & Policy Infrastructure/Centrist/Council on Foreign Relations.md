@@ -19,11 +19,11 @@ court-jurisdictions:
   - "District Court, M.D. North Carolina"
   - "District Court, N.D. California"
   - "United States Court of International Trade"
+related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Carlyle Group]] · [[BlackRock]] · [[ExxonMobil]]"
 ---
 
 #think-tank #centrist #foreign-policy #defense #wall-street #revolving-door #idea-laundering #bipartisan-credibility-shield
 
-related: [[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Carlyle Group]] · [[BlackRock]] · [[ExxonMobil]]
 
 ---
 

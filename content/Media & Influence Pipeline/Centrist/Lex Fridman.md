@@ -6,12 +6,12 @@ last-updated: 2026-03-26
 source-tier: 2
 parent: null
 category: centrist
+related: "[[Joe Rogan]] · [[Bill Maher]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]]"
+donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]]"
 ---
 
 #media-profile #centrist #tech #podcaster #ai #silicon-valley #class-analysis
 
-related: [[Joe Rogan]] · [[Bill Maher]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]]
-donors: [[Marc Andreessen and a16z]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]]
 
 ---
 

@@ -13,11 +13,11 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 316336
 total-assets: 148627
+related: "[[Palantir Technologies]] · [[Blackstone Group]] · [[Ford Motor Company]] · [[Amazon]] · [[_Lobbying Firms Framework]]"
 ---
 
 #lobbying #k-street #tax-policy #energy #defense #appropriations #tech #pharma #revolving-door #bipartisan-access
 
-related: [[Palantir Technologies]] · [[Blackstone Group]] · [[Ford Motor Company]] · [[Amazon]] · [[_Lobbying Firms Framework]]
 
 ---
 

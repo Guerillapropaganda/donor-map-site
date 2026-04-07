@@ -19,11 +19,11 @@ sec-form-types:
   - "S-1/A"
   - "S-4"
   - "S-4/A"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
 ---
 
 #lobbying #k-street #tech #healthcare #taxes #trade #bipartisan #big-tech
 
-related: [[Google - Alphabet]] · [[Meta - Facebook]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]
 
 ---
 

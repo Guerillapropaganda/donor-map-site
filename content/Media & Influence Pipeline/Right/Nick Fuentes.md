@@ -7,11 +7,11 @@ source-tier: 2
 parent: null
 category: right
 platform: multi-platform
+related: "[[Rumble]]"
 ---
 
 #media-pipeline #right #america-first #groyper #white-nationalist #dark-money #crypto-funding #january-6
 
-related: [[Rumble]]
 
 ### Who They Are
 

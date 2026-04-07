@@ -20,11 +20,11 @@ fara-countries:
   - "JAPAN"
 lei: "984500BYEBE6DF7F5U39"
 lei-jurisdiction: "GB"
+related: "[[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]]"
 ---
 
 #lobbying #k-street #maritime #financial-services #energy #transportation #tech #steel #defense
 
-related: [[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]]
 
 ---
 

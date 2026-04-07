@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
+related: "[[_Media Pipeline Framework]]"
+donors: "(Fox Corp / Murdoch family — indirect via corporate employment)"
 ---
 
 #media-pipeline #right #conservative #fox-news #cable-news #talk-radio #pharma-advertising #class-analysis
 
-related: [[_Media Pipeline Framework]]
-donors: (Fox Corp / Murdoch family — indirect via corporate employment)
 
 ---
 

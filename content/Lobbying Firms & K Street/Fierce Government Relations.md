@@ -8,11 +8,11 @@ parent: null
 annual-revenue: "$4.7M (2025)"
 lobbyist-count: 9
 revolving-door-pct: "77.8%"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]]"
 ---
 
 #lobbying #k-street #republican #bush-white-house #trump-white-house #tech #telecom #healthcare #energy #trade
 
-related: [[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]]
 
 ---
 

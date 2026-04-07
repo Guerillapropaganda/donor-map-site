@@ -7,11 +7,11 @@ source-tier: 2
 parent: null
 category: right
 platform: multi-platform
+related: "[[Wilks Brothers]]"
 ---
 
 #media-pipeline #right #daily-wire #infrastructure #evangelical-capitalism #culture-war
 
-related: [[Wilks Brothers]]
 
 ---
 

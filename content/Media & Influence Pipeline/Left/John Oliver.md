@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
+related: "[[Bill Maher]] · [[Rachel Maddow]] · [[Sam Seder]] · [[_Media Pipeline Framework]]"
+donors: "[]"
 ---
 
 #media-pipeline #left #comedy #hbo #corporate-media #policy-impact #john-oliver-effect #class-analysis
 
-related: [[Bill Maher]] · [[Rachel Maddow]] · [[Sam Seder]] · [[_Media Pipeline Framework]]
-donors: []
 
 ---
 

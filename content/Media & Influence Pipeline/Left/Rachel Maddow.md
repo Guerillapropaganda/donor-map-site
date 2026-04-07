@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
+related: "[[Pod Save America]] · [[Sam Seder]] · [[Laura Ingraham]] · [[_Media Pipeline Framework]]"
+donors: "[]"
 ---
 
 #media-pipeline #left #cable-news #msnbc #corporate-media #russiagate #dnc-alignment #class-analysis
 
-related: [[Pod Save America]] · [[Sam Seder]] · [[Laura Ingraham]] · [[_Media Pipeline Framework]]
-donors: []
 
 ---
 

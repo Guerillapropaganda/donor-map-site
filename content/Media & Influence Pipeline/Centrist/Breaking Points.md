@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
+related: "[[Kyle Kulinski]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Pod Save America]] · [[_Media Pipeline Framework]]"
+donors: "(subscription-funded — Reid Hoffman → People's House Project; Enjeti: Hudson Institute fellowships prior to launch)"
 ---
 
 #media-pipeline #centrist #populist #independent #youtube #podcast #left-right-crossover #class-analysis
 
-related: [[Kyle Kulinski]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Pod Save America]] · [[_Media Pipeline Framework]]
-donors: (subscription-funded — Reid Hoffman → People's House Project; Enjeti: Hudson Institute fellowships prior to launch)
 
 ---
 

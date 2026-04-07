@@ -7,11 +7,11 @@ source-tier: 2
 parent: null
 category: left
 platform: multi-platform
+related: "(no donor nodes — small-dollar self-funded campaigns; DNC gatekeeping structural analysis, not donor-class capture)"
 ---
 
 #media-pipeline #left #self-help #spirituality #outsider-candidate #dnc-gatekeeping
 
-related: (no donor nodes — small-dollar self-funded campaigns; DNC gatekeeping structural analysis, not donor-class capture)
 
 ---
 

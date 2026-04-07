@@ -20,11 +20,11 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Homeland Security Department"
   - "Labor Department"
+related: "[[Goldman Sachs]]"
 ---
 
 #think-tank #centrist #bipartisan #energy #healthcare #housing #immigration #governance #class-analysis
 
-related: [[Goldman Sachs]]
 
 ---
 

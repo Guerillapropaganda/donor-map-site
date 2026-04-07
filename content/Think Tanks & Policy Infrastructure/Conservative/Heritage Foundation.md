@@ -9,11 +9,11 @@ category: conservative
 tax-status: 501c3
 lei: "5493006YU7R03XUJSX56"
 lei-jurisdiction: "US-DC"
+related: "[[Heritage Foundation|Heritage Foundation (donor node)]] · [[Koch Network - Charles Koch]] · [[Charles Koch]] · [[Bradley Foundation]] · [[Leonard Leo]] · [[Federalist Society]]"
 ---
 
 #think-tank #conservative #project-2025 #dark-money #revolving-door #idea-laundering #regulatory-capture #judicial-pipeline #501c3
 
-related: [[Heritage Foundation|Heritage Foundation (donor node)]] · [[Koch Network - Charles Koch]] · [[Charles Koch]] · [[Bradley Foundation]] · [[Leonard Leo]] · [[Federalist Society]]
 
 ---
 

@@ -7,11 +7,11 @@ source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
+related: "(no donor nodes — platform-funded via Twitch/YouTube algorithmic revenue; no billionaire or corporate donor class patron)"
 ---
 
 #media-pipeline #centrist #streaming #debate-bro #twitch #youtube #platform-ban
 
-related: (no donor nodes — platform-funded via Twitch/YouTube algorithmic revenue; no billionaire or corporate donor class patron)
 
 ---
 

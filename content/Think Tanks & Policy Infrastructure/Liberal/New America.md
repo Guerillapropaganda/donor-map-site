@@ -9,22 +9,11 @@ category: liberal
 tax-status: 501c3
 lei: "549300C6JPZKHI5YDM10"
 lei-jurisdiction: "KY"
-federal-register-mentions: 77
-last-enriched: "2026-04-07"
-regulatory-agencies:
-  - "Education Department"
-  - "Employment and Training Administration"
-  - "Federal Communications Commission"
-  - "Health and Human Services Department"
-  - "Housing and Urban Development Department"
-  - "Labor Department"
-  - "Securities and Exchange Commission"
-  - "Wage and Hour Division"
+related: "[[Goldman Sachs]]"
 ---
 
 #think-tank #liberal #tech-policy #google #silicon-valley #national-security #education #obama-pipeline #class-analysis
 
-related: [[Goldman Sachs]]
 
 ---
 
@@ -256,26 +245,3 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
-
-### Federal Register Activity
-<!-- auto:federal-register start -->
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 77 |
-| Final Rules | 25 |
-| Proposed Rules | 21 |
-| Notices | 30 |
-| Presidential Documents | 1 |
-| Agencies | Education Department, Employment and Training Administration, Federal Communications Commission, Health and Human Services Department, Housing and Urban Development Department, Labor Department, Securities and Exchange Commission, Wage and Hour Division |
-
-**Recent regulatory activity:**
-- [Reimagining and Improving Student Education](https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education) (2026-01-30) — Education Department
-- [Addressing the Homework Gap Through the E-Rate Program; Partial Withdrawal](https://www.federalregister.gov/documents/2026/01/21/2026-01053/addressing-the-homework-gap-through-the-e-rate-program-partial-withdrawal) (2026-01-21) — Federal Communications Commission
-- [Deregistration Under Section 8(f) of the Investment Company Act of 1940](https://www.federalregister.gov/documents/2025/10/01/2025-19111/deregistration-under-section-8f-of-the-investment-company-act-of-1940) (2025-10-01) — Securities and Exchange Commission
-- [Lower 37 GHz Band and Use of Spectrum Bands Above 24 GHz for Mobile Radio Service](https://www.federalregister.gov/documents/2025/06/12/2025-10477/lower-37-ghz-band-and-use-of-spectrum-bands-above-24-ghz-for-mobile-radio-service) (2025-06-12) — Federal Communications Commission
-- [Lower 37 GHz Band and Use of Spectrum Bands Above 24 GHz for Mobile Radio Service](https://www.federalregister.gov/documents/2025/06/12/2025-10476/lower-37-ghz-band-and-use-of-spectrum-bands-above-24-ghz-for-mobile-radio-service) (2025-06-12) — Federal Communications Commission
-- [Spectrum Sharing Rules for NGSO Fixed-Satellite Service Systems](https://www.federalregister.gov/documents/2024/12/13/2024-28993/spectrum-sharing-rules-for-ngso-fixed-satellite-service-systems) (2024-12-13) — Federal Communications Commission
-- ... and 71 more
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22New%20America%22) (Tier 1)
-<!-- auto:federal-register end -->

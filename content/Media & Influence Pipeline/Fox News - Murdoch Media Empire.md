@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
+related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]]"
 ---
 
 #media-pipeline #fox-news #murdoch #institutional #right #propaganda #class-analysis #follow-the-money
 
-related: [[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]]
 
 personalities: [[Sean Hannity]] · [[Tucker Carlson]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Megyn Kelly]] · [[Bill Maher]] · [[Glenn Greenwald]]
 

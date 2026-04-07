@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
+related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]]"
 ---
 
 #media-pipeline #right #guerilla-journalism #project-veritas #omg #donor-funded #dark-money #donorstrust #bradley-foundation
 
-related: [[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]]
 
 ---
 

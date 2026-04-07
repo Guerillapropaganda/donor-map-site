@@ -8,11 +8,11 @@ parent: null
 annual-revenue: "$18.7M"
 lobbyist-count: 18
 revolving-door-pct: "72.2%"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Blackstone Group]]"
 ---
 
 #lobbying #k-street #democratic #biden #bundling #tech #finance #crypto #healthcare #clean-energy #chinese-military
 
-related: [[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Blackstone Group]]
 
 ---
 

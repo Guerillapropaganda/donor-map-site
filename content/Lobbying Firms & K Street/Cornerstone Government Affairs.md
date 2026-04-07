@@ -30,11 +30,11 @@ fara-countries:
   - "TAIWAN"
   - "UNITED ARAB EMIRATES"
   - "YEMEN"
+related: "[[Google - Alphabet]] · [[Palantir Technologies]] · [[Boeing]] · [[General Dynamics]] · [[Raytheon (RTX)|RTX Corp]] · [[AbbVie]] · [[Johnson & Johnson]] · [[Apollo Global Management]] · [[PhRMA]]"
 ---
 
 #lobbying #k-street #bipartisan #tech #defense #pharma #agriculture #finance
 
-related: [[Google - Alphabet]] · [[Palantir Technologies]] · [[Boeing]] · [[General Dynamics]] · [[Raytheon (RTX)|RTX Corp]] · [[AbbVie]] · [[Johnson & Johnson]] · [[Apollo Global Management]] · [[PhRMA]]
 
 ---
 

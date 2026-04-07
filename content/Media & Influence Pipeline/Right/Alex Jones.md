@@ -7,11 +7,11 @@ source-tier: 2
 parent: null
 category: right
 platform: multi-platform
+related: "[[InfoWars]] · [[Roger Stone]] · [[Oath Keepers]] · [[Proud Boys]] · [[Rumble]]"
 ---
 
 #media-pipeline #right #infowars #conspiracy #political-operative #trump #january-6 #bankruptcy #sandy-hook
 
-related: [[InfoWars]] · [[Roger Stone]] · [[Oath Keepers]] · [[Proud Boys]] · [[Rumble]]
 
 ---
 

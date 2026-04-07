@@ -13,18 +13,11 @@ sec-form-types:
   - "20-F"
   - "EX-2"
   - "EX-8.1"
-court-cases: 6
-last-enriched: "2026-04-07"
-court-jurisdictions:
-  - "District Court, District of Columbia"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Texas"
-  - "United States Bankruptcy Court, D. Delaware"
+related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]]"
 ---
 
 #lobbying #k-street #defense #foreign-policy #energy #healthcare #bipartisan #republican-establishment #dictators
 
-related: [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]]
 
 ---
 
@@ -272,22 +265,3 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Prime%20Policy%20Group%22) (Tier 1)
 <!-- auto:sec-edgar end -->
-
-### Federal Court Records (CourtListener)
-<!-- auto:courtlistener-cases start -->
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 6 |
-| Courts | District Court, District of Columbia, District Court, N.D. California, District Court, S.D. Texas, United States Bankruptcy Court, D. Delaware |
-| Case Types | 320 Assault Libel & Slander, 441 Civil Rights: Voting, 470 Racketeer/Corrupt Organization |
-
-**Notable cases:**
-- Redmond v. United States (2022) — District Court, N.D. California
-- CORSI v. CAPUTO (2019) — District Court, District of Columbia
-- CORSI v. STONE (2019) — District Court, District of Columbia
-- Education Management Corporation (2018) — United States Bankruptcy Court, D. Delaware
-- Education Management II LLC (2018) — United States Bankruptcy Court, D. Delaware
-- Veasey v. Abbott (2013) — District Court, S.D. Texas
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Prime%20Policy%20Group%22&type=r) (Tier 1)
-<!-- auto:courtlistener-cases end -->

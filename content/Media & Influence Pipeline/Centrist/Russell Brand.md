@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
+related: "[[Joe Rogan]] · [[Glenn Greenwald]] · [[Tucker Carlson]] · [[_Media Pipeline Framework]]"
+donors: "[[Peter Thiel]]"
 ---
 
 #media-profile #centrist #entertainer #rumble #youtube #sexual-assault #conspiracy #audience-capture #class-analysis
 
-related: [[Joe Rogan]] · [[Glenn Greenwald]] · [[Tucker Carlson]] · [[_Media Pipeline Framework]]
-donors: [[Peter Thiel]]
 
 ---
 

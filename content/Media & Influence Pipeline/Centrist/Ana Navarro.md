@@ -7,11 +7,11 @@ source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
+related: "[[AIPAC - American Israel Public Affairs Committee]]"
 ---
 
 #media-pipeline #centrist #cnn #the-view #republican-strategist #centrist-laundering #both-sides-illusion #revolving-door
 
-related: [[AIPAC - American Israel Public Affairs Committee]]
 
 ---
 

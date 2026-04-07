@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
+related: "[[Jeffrey Katzenberg]]"
 ---
 
 #media-pipeline #centrist #youtube #tyt #audience-swap #realignment #valuetainment
 
-related: [[Jeffrey Katzenberg]]
 
 ---
 

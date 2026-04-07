@@ -8,11 +8,11 @@ parent: null
 annual-revenue: "$23.8M"
 lobbyist-count: 20
 revolving-door-pct: "65.0%"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Apollo Global Management]] · [[Fossil Fuel Bloc]]"
 ---
 
 #lobbying #k-street #democratic #bipartisan #healthcare #pharma #biden #clinton #trade #appropriations #energy
 
-related: [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Apollo Global Management]] · [[Fossil Fuel Bloc]]
 
 ---
 

@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: cross-comparison
 tax-status: null
+related: "[[Heritage Foundation]] · [[Federalist Society]] · [[Mercatus Center]] · [[Manhattan Institute]] · [[Economic Policy Institute]] · [[Brookings Institution]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
 ---
 
 #think-tank #cross-comparison #model-legislation #idea-laundering #policy-pipeline #class-analysis #heritage #federalist-society #mercatus #manhattan-institute #alec
 
-related: [[Heritage Foundation]] · [[Federalist Society]] · [[Mercatus Center]] · [[Manhattan Institute]] · [[Economic Policy Institute]] · [[Brookings Institution]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]
 
 ---
 

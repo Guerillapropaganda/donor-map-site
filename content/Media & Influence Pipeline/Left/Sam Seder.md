@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
+related: "[[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Hasan Piker]] · [[Pod Save America]] · [[_Media Pipeline Framework]]"
+donors: "[]"
 ---
 
 #media-pipeline #left #progressive #podcaster #independent-media #air-america #msnbc #class-analysis
 
-related: [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Hasan Piker]] · [[Pod Save America]] · [[_Media Pipeline Framework]]
-donors: []
 
 ---
 

@@ -22,11 +22,11 @@ court-jurisdictions:
   - "District Court, E.D. Pennsylvania"
 ein: "393347513"
 nonprofit-status: "501(c)(3)"
+related: "[[Goldman Sachs]]"
 ---
 
 #think-tank #centrist #elite-networking #billionaire-consensus #congressional-influence #class-analysis
 
-related: [[Goldman Sachs]]
 
 ---
 

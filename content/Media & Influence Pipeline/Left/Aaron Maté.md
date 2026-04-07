@@ -7,11 +7,11 @@ source-tier: 2
 parent: null
 category: left
 platform: multi-platform
+related: "[[Katie Halper]] (Useful Idiots co-host)"
 ---
 
 #media-pipeline #left #grayzone #russiagate #syria-coverage #funding-questions
 
-related: [[Katie Halper]] (Useful Idiots co-host)
 
 ---
 

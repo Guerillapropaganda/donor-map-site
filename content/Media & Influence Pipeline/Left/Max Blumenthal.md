@@ -7,11 +7,11 @@ source-tier: 3
 parent: null
 category: left
 platform: multi-platform
+related: "[[The Grayzone]] · [[Aaron Maté]] · [[Ben Norton]]"
 ---
 
 #media-pipeline #left #grayzone #anti-imperialism #state-media-ties #journalist #patreon
 
-related: [[The Grayzone]] · [[Aaron Maté]] · [[Ben Norton]]
 
 ---
 

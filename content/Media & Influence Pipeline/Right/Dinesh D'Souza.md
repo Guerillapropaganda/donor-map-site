@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
+related: "[[Salem Media Group]] · [[Club for Growth Action]] · [[Right Texas PAC]]"
 ---
 
 #media-pipeline #right #conservative-film #salem-media #dinesh #trump-pardon #election-fraud #propagandist
 
-related: [[Salem Media Group]] · [[Club for Growth Action]] · [[Right Texas PAC]]
 
 ---
 

@@ -8,11 +8,11 @@ parent: null
 annual-revenue: "$25.4M"
 lobbyist-count: 38
 revolving-door-pct: "73.7%"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[ExxonMobil]] · [[AT&T - WarnerMedia|AT&T]] · [[Comcast - NBCUniversal|Comcast]]"
 ---
 
 #lobbying #k-street #revolving-door #healthcare #pharma #tax #finance #defense #agriculture #bipartisan
 
-related: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[ExxonMobil]] · [[AT&T - WarnerMedia|AT&T]] · [[Comcast - NBCUniversal|Comcast]]
 
 ---
 

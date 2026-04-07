@@ -29,11 +29,11 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Homeland Security Department"
   - "Internal Revenue Service"
+related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[ExxonMobil]] · [[Heritage Foundation]]"
 ---
 
 #think-tank #conservative #libertarian #deregulation #climate-denial #social-security #financial-regulation #dark-money #koch
 
-related: [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[ExxonMobil]] · [[Heritage Foundation]]
 
 ---
 

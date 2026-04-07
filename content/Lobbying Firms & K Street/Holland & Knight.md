@@ -19,11 +19,11 @@ fara-countries:
   - "JAPAN"
   - "KOREA SOUTH"
   - "QATAR"
+related: "[[Google - Alphabet|Alphabet/Google]] · [[Occidental Petroleum]] · [[Fossil Fuel Bloc]]"
 ---
 
 #lobbying #k-street #chemicals #defense #tech #healthcare #cannabis #trade #real-estate
 
-related: [[Google - Alphabet|Alphabet/Google]] · [[Occidental Petroleum]] · [[Fossil Fuel Bloc]]
 
 ---
 

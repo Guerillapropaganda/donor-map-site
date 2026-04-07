@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
+related: "[[Google - Alphabet|Google / YouTube]] · [[Silicon Valley Democratic Donor Network]]"
 ---
 
 #media-pipeline #left #youtube #podcast #platform-dependency #audience-capture #independence-theater
 
-related: [[Google - Alphabet|Google / YouTube]] · [[Silicon Valley Democratic Donor Network]]
 
 ---
 

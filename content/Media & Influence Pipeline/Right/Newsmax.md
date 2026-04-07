@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
+related: "[[Richard Mellon Scaife - Conservative Movement Infrastructure]] · [[Foreign Money in U.S. Media]] · [[Alex Acosta - Trump Justice System]] · [[Cable News Carriage Wars]]"
 ---
 
 #media-pipeline #right #conservative-media #trump-aligned #qatari-money #foreign-investment #defamation #cable-carriage #profit-driven
 
-related: [[Richard Mellon Scaife - Conservative Movement Infrastructure]] · [[Foreign Money in U.S. Media]] · [[Alex Acosta - Trump Justice System]] · [[Cable News Carriage Wars]]
 
 ---
 

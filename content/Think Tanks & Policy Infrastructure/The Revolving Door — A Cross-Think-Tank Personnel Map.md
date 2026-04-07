@@ -7,11 +7,11 @@ source-tier: 2
 parent: null
 category: cross-comparison
 tax-status: null
+related: "[[Heritage Foundation]] · [[Federalist Society]] · [[Center for American Progress]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]]"
 ---
 
 #think-tank #cross-comparison #revolving-door #class-analysis #personnel #policy-pipeline #regulatory-capture
 
-related: [[Heritage Foundation]] · [[Federalist Society]] · [[Center for American Progress]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]]
 
 ---
 

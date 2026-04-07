@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
+related: "[[Tim Pool]] · [[Dave Rubin]] · [[Benny Johnson]] · [[Lauren Southern]] · [[Lauren Chen]]"
 ---
 
 #media-pipeline #right #media-network #dark-money #russian-money #doj-indictment #tenet-media #foreign-influence #fara
 
-related: [[Tim Pool]] · [[Dave Rubin]] · [[Benny Johnson]] · [[Lauren Southern]] · [[Lauren Chen]]
 
 ---
 

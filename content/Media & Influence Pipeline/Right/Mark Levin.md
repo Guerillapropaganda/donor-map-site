@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
+related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]]"
 ---
 
 #media-pipeline #right #fox-news #radio #koch #scaife #exxon #constitutional-originalism #reagan #landmark-legal
 
-related: [[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]]
 
 ---
 

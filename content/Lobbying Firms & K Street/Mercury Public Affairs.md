@@ -20,11 +20,11 @@ court-jurisdictions:
   - "United States Bankruptcy Court, C.D. California"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. Texas"
+related: "[[Tech & Crypto]] · [[Foreign]] · [[Energy & Utilities]] · [[Wall Street]]"
 ---
 
 #lobbying #k-street #fara #foreign-government #china #ukraine #manafort #revolving-door #bipartisan
 
-related: [[Tech & Crypto]] · [[Foreign]] · [[Energy & Utilities]] · [[Wall Street]]
 
 ---
 

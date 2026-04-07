@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
+related: "[[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[Bradley Foundation]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Judicial Crisis Network]] · [[Barre Seid]] · [[Harlan Crow]]"
 ---
 
 #think-tank #conservative #judicial #federalist-society #leonard-leo #scotus #judicial-pipeline #originalism #dark-money #deregulation
 
-related: [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[Bradley Foundation]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Judicial Crisis Network]] · [[Barre Seid]] · [[Harlan Crow]]
 
 ---
 

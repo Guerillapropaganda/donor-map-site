@@ -6,12 +6,12 @@ last-updated: 2026-03-26
 source-tier: 1
 parent: null
 category: centrist
+related: "[[Joe Rogan]] · [[Tucker Carlson]] · [[Lex Fridman]] · [[Briahna Joy Gray]] · [[_Media Pipeline Framework]]"
+donors: "[[Peter Thiel]]"
 ---
 
 #media-profile #centrist #journalist #snowden #civil-liberties #surveillance #independence-theater #class-analysis
 
-related: [[Joe Rogan]] · [[Tucker Carlson]] · [[Lex Fridman]] · [[Briahna Joy Gray]] · [[_Media Pipeline Framework]]
-donors: [[Peter Thiel]]
 
 ---
 

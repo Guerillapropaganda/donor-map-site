@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
+related: "[[Peter Thiel]]"
 ---
 
 #media-pipeline #left #youtube #rumble #force-the-vote #audience-swap #anti-establishment
 
-related: [[Peter Thiel]]
 
 ---
 

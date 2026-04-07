@@ -32,11 +32,11 @@ regulatory-agencies:
   - "Federal Housing Finance Agency"
   - "Justice Department"
   - "Labor Department"
+related: "[[Palantir Technologies]] · [[SpaceX]] · [[Apple]] · [[Raytheon (RTX)]] · [[Founders Fund]] · [[Crypto Industry Bloc]]"
 ---
 
 #lobbying #k-street #tech #defense #pharma-healthcare #finance #crypto #bipartisan-access
 
-related: [[Palantir Technologies]] · [[SpaceX]] · [[Apple]] · [[Raytheon (RTX)]] · [[Founders Fund]] · [[Crypto Industry Bloc]]
 
 ---
 

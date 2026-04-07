@@ -7,11 +7,11 @@ source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
+related: "[[Koch Network - Charles Koch]] · [[_Think Tank Framework]] · [[_Think Tank Index]]"
 ---
 
 #think-tank #conservative #libertarian #deregulation #koch #academic-capture #class-analysis
 
-related: [[Koch Network - Charles Koch]] · [[_Think Tank Framework]] · [[_Think Tank Index]]
 
 ---
 

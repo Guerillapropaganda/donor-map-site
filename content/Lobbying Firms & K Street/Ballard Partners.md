@@ -9,11 +9,11 @@ annual-revenue: "$88.1M (2025)"
 lobbyist-count: 38
 fara-clients: 14
 revolving-door-pct: "29.7%"
+related: "[[Palantir Technologies]] · [[GEO Group]] · [[JPMorgan Chase]] · [[UnitedHealth Group - Optum|UnitedHealth Group]] · [[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]]"
 ---
 
 #lobbying #k-street #trump #revolving-door #fara #foreign-government #tech #defense #pharma #energy #crypto
 
-related: [[Palantir Technologies]] · [[GEO Group]] · [[JPMorgan Chase]] · [[UnitedHealth Group - Optum|UnitedHealth Group]] · [[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]]
 
 ---
 

@@ -8,11 +8,11 @@ parent: null
 annual-revenue: "$30.6M"
 lobbyist-count: 34
 revolving-door-pct: "70.6%"
+related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Lockheed Martin]]"
 ---
 
 #lobbying #k-street #appropriations #earmarks #defense #energy #universities #bipartisan
 
-related: [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Lockheed Martin]]
 
 ---
 

@@ -5,11 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
+related: "[[_Media Pipeline Framework|Media Pipeline Framework]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media|Shared Sponsor Map]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline|Revolving Door (Media)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts|Both-Sides Illusion (Politicians)]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
 
 #media-pipeline #both-sides-illusion #class-analysis #cross-comparison #corporate-media #venture-capital #advertising #platform-dependency
 
-related: [[_Media Pipeline Framework|Media Pipeline Framework]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media|Shared Sponsor Map]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline|Revolving Door (Media)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts|Both-Sides Illusion (Politicians)]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 ---
 

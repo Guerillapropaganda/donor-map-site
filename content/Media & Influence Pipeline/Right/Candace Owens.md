@@ -6,12 +6,12 @@ last-updated: 2026-03-26
 source-tier: 1
 parent: null
 category: right
+related: "[[Ben Shapiro]] · [[Charlie Kirk]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[_Media Pipeline Framework]]"
+donors: "[[Wilks Brothers]]"
 ---
 
 #media-profile #right #conservative #daily-wire #tpusa #antisemitism #blexit #conspiracy #class-analysis #self-funded
 
-related: [[Ben Shapiro]] · [[Charlie Kirk]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[_Media Pipeline Framework]]
-donors: [[Wilks Brothers]]
 
 ---
 
