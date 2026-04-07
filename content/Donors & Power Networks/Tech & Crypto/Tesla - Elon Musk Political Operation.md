@@ -1,0 +1,50 @@
+---
+title: "Tesla - Elon Musk Political Operation"
+type: corporation
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+sector: "Tech & Crypto"
+entity-type: "Corporation"
+---
+
+#tesla #musk #ev #doge #government #twitter #space #deregulation
+
+related: [[Elon Musk]] [[SpaceX]] [[Palantir Technologies]]
+
+---
+
+### Who They Are
+
+Tesla, Inc. ($96.8 billion revenue, 2024) and its political significance as a corporate extension of Elon Musk's political operation. Tesla does not operate a PAC — Musk's political spending flows through personal contributions ($277 million to the pro-Trump America PAC in 2024), X (formerly Twitter) platform manipulation, and the Department of Government Efficiency (DOGE) — the unofficial government cost-cutting operation Musk runs from within the Trump administration.
+
+Tesla's political significance extends beyond the company: Musk's $277 million 2024 election investment is the largest individual political expenditure in American history, purchasing direct access to the Trump administration through DOGE and creating a regulatory environment where Tesla's competitors (traditional automakers) face scrutiny while Tesla receives favorable treatment.
+
+---
+
+### What They Want
+
+EV tax credit structures that favor Tesla's manufacturing model, reduced NHTSA enforcement on autonomous driving (Tesla's Full Self-Driving software has been under investigation for crashes), favorable EPA emissions credit trading (Tesla has earned $9+ billion from selling regulatory credits to competitors), reduced federal workforce that diminishes regulatory capacity, and favorable treatment for SpaceX federal contracts.
+
+---
+
+### What They've Gotten
+
+**DOGE and Regulatory Capture:** Musk's DOGE operation — unprecedented access to federal agencies, government databases, and budget decisions — represents the most direct form of regulatory capture in American history. The person who runs multiple companies dependent on federal regulation (Tesla: NHTSA, EPA; SpaceX: FAA, NASA, DoD; Neuralink: FDA) is simultaneously operating within the government that regulates those companies. The conflict of interest is not hidden; it is the operating model.
+
+**Emissions Credit Revenue:** Tesla has earned $9+ billion in cumulative revenue from selling EPA emissions credits to competitors who cannot meet federal fuel efficiency standards. This revenue stream — which requires no manufacturing, no capital investment, and no labor — exists entirely because of the regulatory framework. Tesla simultaneously benefits from EPA regulation (emissions credits) while Musk's DOGE operation seeks to reduce EPA staffing and enforcement capacity.
+
+> [!money]
+> Musk's $277 million political investment in 2024 is the largest individual campaign expenditure in American history. The return: direct access to federal government operations through DOGE, potential to shape regulations affecting Tesla ($96.8B revenue), SpaceX ($15B+ in federal contracts), and Neuralink (FDA-regulated). The ROI calculation is not complex: $277 million invested in political access to influence regulatory decisions affecting companies with combined revenue exceeding $120 billion. The investment-to-revenue ratio is approximately 1:435.
+
+---
+
+### Sources
+
+- [OpenSecrets: Elon Musk political contributions](https://www.opensecrets.org/donor-lookup/results?name=elon+musk) (Tier 1)
+- [FEC: America PAC filings](https://www.fec.gov/data/committee/C00873893/) (Tier 1)
+- [Tesla: SEC 10-K filing, regulatory credit revenue](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605) (Tier 1)
+- [Ballotpedia: Elon Musk](https://ballotpedia.org/Elon_Musk) (Tier 3)
+
+content-readiness:: ready

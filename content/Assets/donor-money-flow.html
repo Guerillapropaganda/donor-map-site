@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Donor Map — Follow the Money</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-sankey/0.12.3/d3-sankey.min.js"></script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: #0a0a0f;
+  color: #e2e8f0;
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: #f8fafc;
+  margin-bottom: 4px;
+}
+
+.subtitle {
+  font-size: 13px;
+  color: #64748b;
+  letter-spacing: 0.03em;
+  margin-bottom: 8px;
+}
+
+.description {
+  font-size: 14px;
+  color: #94a3b8;
+  max-width: 700px;
+  line-height: 1.6;
+  margin-bottom: 32px;
+}
+
+#chart-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+svg {
+  display: block;
+}
+
+.link {
+  fill: none;
+  stroke-opacity: 0.25;
+  transition: stroke-opacity 0.2s;
+}
+
+.link:hover {
+  stroke-opacity: 0.6;
+}
+
+.link.dimmed {
+  stroke-opacity: 0.04;
+}
+
+.link.highlighted {
+  stroke-opacity: 0.7;
+}
+
+.node.dimmed rect {
+  opacity: 0.15;
+}
+
+.node.dimmed text {
+  opacity: 0.15;
+}
+
+.node rect {
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.node text {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  fill: #cbd5e1;
+  pointer-events: none;
+}
+
+.col-header {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  fill: #475569;
+  font-weight: 600;
+}
+
+#tooltip {
+  position: fixed;
+  display: none;
+  background: rgba(15,23,42,0.95);
+  border: 1px solid rgba(148,163,184,0.2);
+  border-radius: 8px;
+  padding: 12px 16px;
+  z-index: 200;
+  pointer-events: none;
+  backdrop-filter: blur(12px);
+  max-width: 340px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+#tooltip .tt-title {
+  font-weight: 600;
+  color: #f8fafc;
+  margin-bottom: 4px;
+  font-size: 14px;
+}
+
+#tooltip .tt-amount {
+  color: #f59e0b;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+#tooltip .tt-detail {
+  color: #94a3b8;
+  font-size: 12px;
+}
+
+#legend {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  color: #94a3b8;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  transition: all 0.2s;
+  user-select: none;
+}
+
+.legend-item:hover {
+  border-color: rgba(148,163,184,0.2);
+  color: #e2e8f0;
+}
+
+.legend-item.active {
+  border-color: rgba(148,163,184,0.3);
+  background: rgba(255,255,255,0.05);
+}
+
+.legend-item.inactive { opacity: 0.35; }
+
+.legend-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.footnote {
+  margin-top: 24px;
+  font-size: 11px;
+  color: #475569;
+  max-width: 600px;
+  line-height: 1.5;
+}
+</style>
+</head>
+<body>
+
+<h1>FOLLOW THE MONEY</h1>
+<div class="subtitle">THE DONOR-TO-POLICY PIPELINE</div>
+<div class="description">
+  Every stream shows money flowing from the donor class through PACs and dark money groups to politicians in both parties — and the policy outcomes that money purchased. Width equals dollars. The same industries fund both sides.
+</div>
+
+<div id="legend"></div>
+
+<div id="chart-container">
+  <svg id="sankey"></svg>
+</div>
+
+<div id="tooltip">
+  <div class="tt-title"></div>
+  <div class="tt-amount"></div>
+  <div class="tt-detail"></div>
+</div>
+
+<div class="footnote">
+  Dollar amounts represent aggregate political spending (PAC + Super PAC + lobbying + dark money where traceable) across recent election cycles, in millions. Sources: FEC filings, OpenSecrets, lobbying disclosures, DOJ filings. All figures documented in individual vault profiles.
+</div>
+
+<script>
+const DATA = {"flows":[{"from":"Lockheed Martin","to":"Defense PACs","value":18.2,"layer":"donor_to_pac","sector":"defense"},{"from":"Boeing","to":"Defense PACs","value":14.8,"layer":"donor_to_pac","sector":"defense"},{"from":"Raytheon (RTX)","to":"Defense PACs","value":12.5,"layer":"donor_to_pac","sector":"defense"},{"from":"Northrop Grumman","to":"Defense PACs","value":11.3,"layer":"donor_to_pac","sector":"defense"},{"from":"PhRMA","to":"Pharma PACs","value":35.0,"layer":"donor_to_pac","sector":"pharma"},{"from":"Pfizer","to":"Pharma PACs","value":8.2,"layer":"donor_to_pac","sector":"pharma"},{"from":"Johnson & Johnson","to":"Pharma PACs","value":6.8,"layer":"donor_to_pac","sector":"pharma"},{"from":"Goldman Sachs","to":"Wall Street PACs","value":22.5,"layer":"donor_to_pac","sector":"finance"},{"from":"JPMorgan Chase","to":"Wall Street PACs","value":18.0,"layer":"donor_to_pac","sector":"finance"},{"from":"Blackstone","to":"Wall Street PACs","value":12.0,"layer":"donor_to_pac","sector":"finance"},{"from":"Koch Network","to":"Dark Money Groups","value":68.0,"layer":"donor_to_pac","sector":"energy"},{"from":"ExxonMobil","to":"Fossil Fuel PACs","value":15.0,"layer":"donor_to_pac","sector":"energy"},{"from":"Chevron","to":"Fossil Fuel PACs","value":12.0,"layer":"donor_to_pac","sector":"energy"},{"from":"Crypto Industry","to":"Fairshake PAC","value":134.0,"layer":"donor_to_pac","sector":"tech"},{"from":"Peter Thiel","to":"Tech PACs","value":32.0,"layer":"donor_to_pac","sector":"tech"},{"from":"Elon Musk","to":"America PAC","value":174.0,"layer":"donor_to_pac","sector":"tech"},{"from":"AIPAC Donors","to":"AIPAC / UDP","value":100.0,"layer":"donor_to_pac","sector":"israel"},{"from":"Adelson Family","to":"Republican Super PACs","value":250.0,"layer":"donor_to_pac","sector":"mega"},{"from":"Timothy Mellon","to":"Republican Super PACs","value":200.0,"layer":"donor_to_pac","sector":"mega"},{"from":"George Soros","to":"Democratic Super PACs","value":128.0,"layer":"donor_to_pac","sector":"mega"},{"from":"Michael Bloomberg","to":"Democratic Super PACs","value":95.0,"layer":"donor_to_pac","sector":"mega"},{"from":"Defense PACs","to":"Republicans","value":35.0,"layer":"pac_to_pol","sector":"defense"},{"from":"Defense PACs","to":"Democrats","value":22.0,"layer":"pac_to_pol","sector":"defense"},{"from":"Pharma PACs","to":"Republicans","value":28.0,"layer":"pac_to_pol","sector":"pharma"},{"from":"Pharma PACs","to":"Democrats","value":22.0,"layer":"pac_to_pol","sector":"pharma"},{"from":"Wall Street PACs","to":"Republicans","value":28.0,"layer":"pac_to_pol","sector":"finance"},{"from":"Wall Street PACs","to":"Democrats","value":24.5,"layer":"pac_to_pol","sector":"finance"},{"from":"Dark Money Groups","to":"Republicans","value":55.0,"layer":"pac_to_pol","sector":"energy"},{"from":"Dark Money Groups","to":"Democrats","value":13.0,"layer":"pac_to_pol","sector":"energy"},{"from":"Fossil Fuel PACs","to":"Republicans","value":20.0,"layer":"pac_to_pol","sector":"energy"},{"from":"Fossil Fuel PACs","to":"Democrats","value":7.0,"layer":"pac_to_pol","sector":"energy"},{"from":"Fairshake PAC","to":"Republicans","value":67.0,"layer":"pac_to_pol","sector":"tech"},{"from":"Fairshake PAC","to":"Democrats","value":67.0,"layer":"pac_to_pol","sector":"tech"},{"from":"Tech PACs","to":"Republicans","value":20.0,"layer":"pac_to_pol","sector":"tech"},{"from":"Tech PACs","to":"Democrats","value":12.0,"layer":"pac_to_pol","sector":"tech"},{"from":"America PAC","to":"Republicans","value":174.0,"layer":"pac_to_pol","sector":"tech"},{"from":"AIPAC / UDP","to":"Republicans","value":35.0,"layer":"pac_to_pol","sector":"israel"},{"from":"AIPAC / UDP","to":"Democrats","value":65.0,"layer":"pac_to_pol","sector":"israel"},{"from":"Republican Super PACs","to":"Republicans","value":450.0,"layer":"pac_to_pol","sector":"mega"},{"from":"Democratic Super PACs","to":"Democrats","value":223.0,"layer":"pac_to_pol","sector":"mega"},{"from":"Republicans","to":"Tax Cuts (2017 TCJA)","value":150.0,"layer":"pol_to_policy","sector":"finance"},{"from":"Republicans","to":"Defense Budget Increases","value":45.0,"layer":"pol_to_policy","sector":"defense"},{"from":"Democrats","to":"Defense Budget Increases","value":35.0,"layer":"pol_to_policy","sector":"defense"},{"from":"Republicans","to":"Drug Pricing Protection","value":30.0,"layer":"pol_to_policy","sector":"pharma"},{"from":"Democrats","to":"Drug Pricing Protection","value":20.0,"layer":"pol_to_policy","sector":"pharma"},{"from":"Republicans","to":"Carried Interest Loophole Survives","value":25.0,"layer":"pol_to_policy","sector":"finance"},{"from":"Democrats","to":"Carried Interest Loophole Survives","value":20.0,"layer":"pol_to_policy","sector":"finance"},{"from":"Republicans","to":"Fossil Fuel Subsidies Protected","value":40.0,"layer":"pol_to_policy","sector":"energy"},{"from":"Democrats","to":"Fossil Fuel Subsidies Protected","value":15.0,"layer":"pol_to_policy","sector":"energy"},{"from":"Republicans","to":"Crypto Deregulation","value":60.0,"layer":"pol_to_policy","sector":"tech"},{"from":"Democrats","to":"Crypto Deregulation","value":40.0,"layer":"pol_to_policy","sector":"tech"},{"from":"Republicans","to":"Israel Aid Packages","value":20.0,"layer":"pol_to_policy","sector":"israel"},{"from":"Democrats","to":"Israel Aid Packages","value":50.0,"layer":"pol_to_policy","sector":"israel"},{"from":"Republicans","to":"Deregulation & EPA Rollbacks","value":50.0,"layer":"pol_to_policy","sector":"energy"},{"from":"Democrats","to":"Public Option Killed","value":25.0,"layer":"pol_to_policy","sector":"pharma"}],"columns":{"donors":["Koch Network","ExxonMobil","Chevron","Lockheed Martin","Boeing","Raytheon (RTX)","Northrop Grumman","PhRMA","Pfizer","Johnson & Johnson","Goldman Sachs","JPMorgan Chase","Blackstone","Crypto Industry","Peter Thiel","Elon Musk","AIPAC Donors","Adelson Family","Timothy Mellon","George Soros","Michael Bloomberg"],"pacs":["Dark Money Groups","Fossil Fuel PACs","Defense PACs","Pharma PACs","Wall Street PACs","Fairshake PAC","Tech PACs","America PAC","AIPAC / UDP","Republican Super PACs","Democratic Super PACs"],"politicians":["Republicans","Democrats"],"policy":["Tax Cuts (2017 TCJA)","Defense Budget Increases","Drug Pricing Protection","Carried Interest Loophole Survives","Fossil Fuel Subsidies Protected","Crypto Deregulation","Israel Aid Packages","Deregulation & EPA Rollbacks","Public Option Killed"]},"sectorColors":{"defense":"#ef4444","pharma":"#22c55e","finance":"#3b82f6","energy":"#f97316","tech":"#8b5cf6","israel":"#06b6d4","mega":"#f59e0b"}};
+
+const sectorLabels = {
+  defense: "Defense", pharma: "Pharma", finance: "Finance / Wall Street",
+  energy: "Fossil Fuel / Energy", tech: "Tech / Crypto", israel: "Israel Lobby", mega: "Mega-Donors"
+};
+
+const legendEl = document.getElementById('legend');
+let activeSectors = new Set(Object.keys(DATA.sectorColors));
+
+Object.entries(DATA.sectorColors).forEach(([key, color]) => {
+  const item = document.createElement('div');
+  item.className = 'legend-item active';
+  item.dataset.sector = key;
+  item.innerHTML = `<div class="legend-dot" style="background:${color}"></div>${sectorLabels[key]}`;
+  item.addEventListener('click', () => {
+    if (activeSectors.has(key)) { activeSectors.delete(key); item.classList.remove('active'); item.classList.add('inactive'); }
+    else { activeSectors.add(key); item.classList.add('active'); item.classList.remove('inactive'); }
+    renderSankey();
+  });
+  legendEl.appendChild(item);
+});
+
+const tooltip = document.getElementById('tooltip');
+
+function renderSankey() {
+  const container = document.getElementById('chart-container');
+  const svg = d3.select('#sankey');
+  svg.selectAll('*').remove();
+
+  const activeFlows = DATA.flows.filter(f => activeSectors.has(f.sector));
+  if (activeFlows.length === 0) return;
+
+  const nodeNames = [...new Set(activeFlows.flatMap(f => [f.from, f.to]))];
+  const nodeIndex = new Map(nodeNames.map((name, i) => [name, i]));
+
+  const cols = DATA.columns;
+  function getCol(name) {
+    if (cols.donors.includes(name)) return 0;
+    if (cols.pacs.includes(name)) return 1;
+    if (cols.politicians.includes(name)) return 2;
+    if (cols.policy.includes(name)) return 3;
+    return 1;
+  }
+
+  const margin = {top: 40, right: 220, bottom: 20, left: 200};
+  const width = Math.max(1000, container.clientWidth - margin.left - margin.right);
+  const height = Math.max(700, activeFlows.length * 15);
+
+  svg.attr('width', width + margin.left + margin.right)
+     .attr('height', height + margin.top + margin.bottom);
+
+  const g = svg.append('g').attr('transform', `translate(${margin.left},${margin.top})`);
+
+  const colHeaders = ["DONOR CLASS", "PACs & DARK MONEY", "POLITICIANS", "POLICY OUTCOMES"];
+  const colX = [0, width * 0.33, width * 0.63, width];
+  colHeaders.forEach((h, i) => {
+    g.append('text').attr('class', 'col-header').attr('x', colX[i]).attr('y', -15).text(h);
+  });
+
+  const sankeyGen = d3.sankey()
+    .nodeWidth(16)
+    .nodePadding(10)
+    .nodeAlign(d3.sankeyLeft)
+    .extent([[0, 0], [width, height]]);
+
+  const sankeyData = sankeyGen({
+    nodes: nodeNames.map((name, i) => ({name, col: getCol(name)})),
+    links: activeFlows.map(f => ({
+      source: nodeIndex.get(f.from),
+      target: nodeIndex.get(f.to),
+      value: f.value,
+      sector: f.sector,
+    }))
+  });
+
+  function nodeColor(d) {
+    if (d.name === 'Republicans') return '#dc2626';
+    if (d.name === 'Democrats') return '#2563eb';
+    const allSectors = [...d.sourceLinks, ...d.targetLinks].map(l => l.sector);
+    if (!allSectors.length) return '#64748b';
+    const counts = {};
+    allSectors.forEach(s => counts[s] = (counts[s]||0)+1);
+    const top = Object.entries(counts).sort((a,b) => b[1]-a[1])[0][0];
+    return DATA.sectorColors[top] || '#64748b';
+  }
+
+  // Links
+  const linkSel = g.append('g').selectAll('path')
+    .data(sankeyData.links).enter().append('path')
+    .attr('class', 'link')
+    .attr('d', d3.sankeyLinkHorizontal())
+    .attr('stroke', d => DATA.sectorColors[d.sector] || '#64748b')
+    .attr('stroke-width', d => Math.max(2, d.width));
+
+  // Nodes
+  const nodeSel = g.append('g').selectAll('g')
+    .data(sankeyData.nodes).enter().append('g').attr('class', 'node');
+
+  nodeSel.append('rect')
+    .attr('x', d => d.x0).attr('y', d => d.y0)
+    .attr('height', d => Math.max(4, d.y1 - d.y0))
+    .attr('width', d => d.x1 - d.x0)
+    .attr('fill', nodeColor)
+    .attr('rx', 2);
+
+  nodeSel.append('text')
+    .attr('x', d => getCol(d.name) === 0 ? d.x0 - 8 : d.x1 + 8)
+    .attr('y', d => (d.y0 + d.y1) / 2)
+    .attr('dy', '0.35em')
+    .attr('text-anchor', d => getCol(d.name) === 0 ? 'end' : 'start')
+    .attr('font-size', d => (d.y1 - d.y0) < 12 ? '9px' : '11px')
+    .text(d => d.name);
+
+  // Link hover
+  linkSel.on('mouseover', function(event, d) {
+    linkSel.classed('dimmed', l => l !== d).classed('highlighted', l => l === d);
+    const connNodes = new Set([d.source.index, d.target.index]);
+    nodeSel.classed('dimmed', n => !connNodes.has(n.index));
+    tooltip.style.display = 'block';
+    tooltip.querySelector('.tt-title').textContent = `${d.source.name}  →  ${d.target.name}`;
+    tooltip.querySelector('.tt-amount').textContent = `$${d.value}M`;
+    tooltip.querySelector('.tt-detail').textContent = sectorLabels[d.sector] || d.sector;
+  })
+  .on('mousemove', function(event) {
+    tooltip.style.left = (event.clientX + 16) + 'px';
+    tooltip.style.top = (event.clientY - 10) + 'px';
+  })
+  .on('mouseout', function() {
+    linkSel.classed('dimmed', false).classed('highlighted', false);
+    nodeSel.classed('dimmed', false);
+    tooltip.style.display = 'none';
+  });
+
+  // Node hover
+  nodeSel.selectAll('rect').on('mouseover', function(event, d) {
+    const connLinks = new Set([...d.sourceLinks, ...d.targetLinks]);
+    const connNodes = new Set([d.index]);
+    connLinks.forEach(l => { connNodes.add(l.source.index); connNodes.add(l.target.index); });
+    linkSel.classed('dimmed', l => !connLinks.has(l)).classed('highlighted', l => connLinks.has(l));
+    nodeSel.classed('dimmed', n => !connNodes.has(n.index));
+    const totalIn = d.targetLinks.reduce((s, l) => s + l.value, 0);
+    const totalOut = d.sourceLinks.reduce((s, l) => s + l.value, 0);
+    tooltip.style.display = 'block';
+    tooltip.querySelector('.tt-title').textContent = d.name;
+    tooltip.querySelector('.tt-amount').textContent = `$${Math.max(totalIn, totalOut).toFixed(1)}M`;
+    let detail = '';
+    if (totalIn > 0) detail += `Receives from ${d.targetLinks.length} sources. `;
+    if (totalOut > 0) detail += `Flows to ${d.sourceLinks.length} targets.`;
+    tooltip.querySelector('.tt-detail').textContent = detail;
+  })
+  .on('mousemove', function(event) {
+    tooltip.style.left = (event.clientX + 16) + 'px';
+    tooltip.style.top = (event.clientY - 10) + 'px';
+  })
+  .on('mouseout', function() {
+    linkSel.classed('dimmed', false).classed('highlighted', false);
+    nodeSel.classed('dimmed', false);
+    tooltip.style.display = 'none';
+  });
+}
+
+renderSankey();
+</script>
+</body>
+</html>

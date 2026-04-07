@@ -1,0 +1,112 @@
+---
+title: "CalSTRS - California State Teachers' Retirement System"
+type: corporation
+content-readiness: ready
+last-updated: 2026-03-26
+source-tier: 1
+parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
+politicians-funded:
+  - "Gavin Newsom"
+issues:
+  - "Wall Street & Finance"
+  - "Education"
+---
+
+#calstrs #pension #california #teachers #wall-street #investment #education #private-equity #fossil-fuels
+
+related: [[CalPERS]] [[National Education Association]] [[_Gavin Newsom Master Profile|Gavin Newsom]] [[CTA - California Teachers Association]] [[Blackstone - Blackstone Group|Blackstone]] [[Koch Network - Charles Koch|Koch Network]]
+
+---
+
+### Who They Are
+
+California State Teachers' Retirement System (CalSTRS). The second-largest public pension fund in America and the largest teacher pension fund in the world, managing $380+ billion in assets for approximately 1 million California educators and their beneficiaries. Established in 1913, CalSTRS administers retirement programs for current, former, and retired teachers and administrators working primarily at school and community college districts across California.
+
+CalSTRS is governed by the 12-member Teachers' Retirement Board, which includes the State Controller, State Treasurer, State Superintendent of Public Instruction, Director of Finance, three active CalSTRS members elected by members, one retired CalSTRS member, one school board representative, and three public representatives appointed by the Governor and confirmed by the State Senate. This governance structure embeds CalSTRS directly in California's political power structure — elected officials and gubernatorial appointees control the board that directs hundreds of billions in capital.
+
+---
+
+### What They Want
+
+CalSTRS's stated mission is retirement security for California's educators. Its structural function is more complex: as a $380B+ institutional investor, CalSTRS is a capital pipeline that channels public employee savings into Wall Street's most profitable asset classes — private equity, hedge funds, and real estate — while generating billions in management fees for the firms that manage those allocations.
+
+The fund's investment portfolio as of 2025 breaks down across public equity, fixed income, real estate, private equity, and alternative investments. The private equity portfolio alone was valued at approximately $55.2 billion as of September 2024 — roughly 15.7% of the total fund — with a target allocation of 14%. In 2025, CalSTRS deployed more than $12 billion into private markets across private equity and real estate, including $500 million re-ups to TPG Capital X and Blackstone Strategic X, and $250 million each to Sixth Street Opportunities Partners VI and Apollo Hybrid Value Fund III.
+
+Co-investments now represent 24.6% of the private equity portfolio, with a 33% target — a strategy that reduces fees while deepening CalSTRS's entanglement with the largest private equity firms.
+
+---
+
+### Who They Fund
+
+CalSTRS does not operate a traditional PAC or make direct campaign contributions. Its political influence operates through three structural channels:
+
+**Board Governance as Political Patronage.** The Governor appoints three public representatives to the Teachers' Retirement Board — positions that carry oversight of $380B+ in investment decisions. These appointments create a direct patronage channel: governors reward allies with board seats that confer influence over one of the world's largest pools of investable capital. The State Controller, Treasurer, and Superintendent of Public Instruction serve ex officio, meaning CalSTRS board composition shifts with every statewide election.
+
+**Wall Street Fee Pipeline.** CalSTRS's $55B+ private equity allocation generates billions in management fees and carried interest for firms including Blackstone, TPG, Apollo, Advent International, and Ares Management. These same firms are among the largest political donors in American politics — their lobbying operations, PAC contributions, and executive bundling networks are funded in part by fee income from pension fund allocations like CalSTRS's. The fund's capital allocation decisions are not campaign contributions, but they feed the revenue streams that finance Wall Street's political operations.
+
+**Legislative Lobbying.** CalSTRS actively lobbies the California Legislature on pension policy, investment regulation, and education funding. The fund opposed SB 252 (fossil fuel divestment legislation) and regularly testifies before legislative committees on matters affecting its investment authority and funding obligations. CalSTRS's legislative advocacy protects the fund's investment discretion — which in practice means protecting its ability to allocate capital to private equity, fossil fuels, and other asset classes that face political pressure.
+
+---
+
+### What They've Gotten
+
+CalSTRS's structural position produces policy outcomes that serve the fund's institutional interests — which frequently align with Wall Street's interests rather than the educators whose savings it manages:
+
+**Pension Contribution Escalation.** The 2014 CalSTRS Funding Plan authorized a dramatic increase in contribution rates to address the fund's $100B+ unfunded liability. Total contributions — shared among employees, school districts, and the state — have risen from roughly 18% of teacher salaries in 2014 to a projected plateau of approximately 38% by 2046. Employer (school district) contribution rates, frozen since 1986, began increasing under the plan, with the board authorized to adjust rates up to 1% annually to a cap of 20.25% of creditable compensation. The state supplemental contribution rate has been increased by 0.5% of payroll four times since the plan's adoption. Every dollar of increased pension contributions is a dollar not available for classroom spending, teacher hiring, or salary increases — the unfunded liability functions as a structural extraction mechanism that diverts education funding to cover investment shortfalls.
+
+**Fossil Fuel Divestment Blocked.** CalSTRS successfully opposed SB 252, which would have required divestment from fossil fuel companies by July 1, 2030. The fund argued that divestment conflicts with fiduciary duties — a framing that protects CalSTRS's fossil fuel holdings while positioning the fund as a defender of pension beneficiary interests. CalSTRS's "engagement over divestment" approach (pledging net-zero portfolio emissions by 2050 while maintaining fossil fuel investments) mirrors the strategy preferred by Wall Street asset managers who profit from fossil fuel allocations. As of 2025, CalSTRS has allocated $4.4B+ to low-carbon solutions and shifted approximately $30.8 billion (20.7% of public equity) to a low-carbon index — meaningful moves that nonetheless preserve the fund's ability to hold fossil fuel positions indefinitely.
+
+**Private Equity Expansion.** CalSTRS has steadily increased its private equity allocation, deploying $12B+ in private markets in 2025 alone. This expansion enriches the private equity firms that manage CalSTRS capital through management fees (typically 1.5-2% of committed capital) and carried interest (typically 20% of profits above a hurdle rate). The co-investment strategy — growing from 24.6% to a 33% target — reduces but does not eliminate these fees. The structural result: billions in teacher pension savings flow to Wall Street firms as fee income, funding the same political operations that lobby for policies favorable to private equity (carried interest tax treatment, light-touch regulation, pension fund access).
+
+---
+
+### Donation-to-Policy Timeline
+
+| Date | Recipient/Target | Amount | Policy Return | Time Gap |
+|------|------------------|--------|---------------|----------|
+| 2014 | California Legislature (AB 1469) | N/A — legislative advocacy | CalSTRS Funding Plan enacted — authorized contribution rate increases through 2046 | Direct |
+| 2019-2023 | SB 252 opposition lobbying | N/A — testimony and advocacy | Fossil fuel divestment legislation stalled; CalSTRS retains full investment discretion | Ongoing |
+| 2021 | Board investment policy | $4.4B deployed by 2025 | Sustainable Investment & Stewardship Strategies (SISS) portfolio created — low-carbon framing preserves fossil fuel holdings | Ongoing |
+| 2024 H1 | Private equity firms (Blackstone, KKR, TPG, others) | $5.2B committed | Continued PE fee pipeline; firms' lobbying operations funded by pension-derived fee income | Continuous |
+| 2024 H2-2025 | TPG Capital X, Blackstone Strategic X | $500M each | $1B re-up to two of Wall Street's largest PE firms; deepens structural dependency | Direct |
+| 2025 H2 | Apollo Hybrid Value Fund III, Sixth Street | $250M each | $500M to credit-focused PE strategies; expands alternative investment footprint | Direct |
+| 2025 | Co-investment partners (Advent, Ares, others) | $814M in H2 2025 | Co-investment share rises to 24.6% of PE portfolio, targeting 33% — reduced fees but deeper firm entanglement | Ongoing |
+| 2025 Proxy Season | 1,661 global companies | N/A — proxy votes | Board votes against directors at companies failing climate risk disclosure — engagement strategy that avoids divestment | Direct |
+
+> [!money]
+> CalSTRS's policy timeline reveals an institution that has mastered the politics of appearing progressive while protecting Wall Street's revenue streams. The fund's climate engagement strategy — proxy votes, low-carbon index shifts, net-zero pledges — generates favorable headlines while preserving the fossil fuel holdings and private equity allocations that generate fee income for the firms that fund political campaigns. The 2014 Funding Plan's contribution rate escalation is the most consequential policy outcome: by shifting the burden of the unfunded liability onto school districts and the state, the plan ensures that Wall Street's fee income is protected even when investment returns fall short. Teachers' retirement security is leveraged to guarantee Wall Street's management fees — the structural inversion at the heart of the public pension system.
+
+---
+
+### Class Analysis
+
+CalSTRS embodies the fundamental contradiction of public pension finance: a system designed to provide retirement security for working-class educators has become a mechanism for channeling those educators' savings into Wall Street's most profitable — and most politically influential — asset classes.
+
+The scale tells the story. Between CalPERS ($500B+) and CalSTRS ($380B+), California's public pension funds control $880B+ in assets — a capital pool that makes Wall Street structurally dependent on California's public sector. This dependency runs both directions: Wall Street firms compete for pension allocations, while pension fund returns depend on Wall Street performance. The practical result is that California's teachers' retirement security is entangled with private equity returns, hedge fund performance, and real estate markets.
+
+The unfunded liability ($100B+) functions as a structural extraction mechanism. The liability — greater than the total annual spending on all of California's K-12 students ($97.2B) — cannot be addressed without either raising contribution rates (diverting education funding) or achieving higher investment returns (deepening Wall Street dependency). The 2014 Funding Plan chose both: contribution rates rise to 38% of teacher salaries by 2046, while the fund pursues higher-return private equity allocations that generate billions in Wall Street fees. Teachers pay more, schools get less, and Wall Street earns fees regardless of outcomes.
+
+The governance structure completes the capture. Gubernatorial appointees, elected officials, and union-connected board members oversee investment decisions that affect both pension beneficiaries and the Wall Street firms seeking their capital. The revolving door between pension fund management, Wall Street firms, and political office creates a closed loop: politicians appoint board members who allocate capital to firms that fund political campaigns that elect the politicians who appoint the board members.
+
+> [!contradiction]
+> CalSTRS markets itself as a champion of California's educators — and its benefits genuinely provide retirement security for teachers who spent careers in underpaid public service. But the institution's structural function is to extract savings from one of America's most underpaid professions and deliver those savings to one of its most overpaid — the private equity and asset management industry. The pension system was designed to protect teachers. Its scale has transformed it into a profit center for Wall Street.
+
+---
+
+### Sources
+
+- [CalSTRS: CalSTRS at a Glance — fund overview and key statistics](https://www.calstrs.com/calstrs-at-a-glance) (Tier 1)
+- [CalSTRS: Investment Portfolio — asset allocation and investment strategy](https://www.calstrs.com/investment-portfolio) (Tier 1)
+- [CalSTRS: Private Equity Portfolio Performance — PE allocation data](https://www.calstrs.com/private-equity-portfolio-performance) (Tier 1)
+- [CalSTRS: Teachers' Retirement Board — governance structure and board composition](https://www.calstrs.com/teachers-retirement-board) (Tier 1)
+- [CalSTRS: Funding Plan Fact Sheet — contribution rate structure and projections](https://www.calstrs.com/funding-plan-fact-sheet) (Tier 1)
+- [CalSTRS: Perspective on Fossil Fuel Divestment — official position on divestment](https://www.calstrs.com/calstrs-perspective-on-fossil-fuel-divestment) (Tier 1)
+- [LAO: A Review of the CalSTRS Funding Plan — background and analysis](https://lao.ca.gov/Publications/Report/3332) (Tier 1)
+- [Brookings: California's pension debt is harming teachers and students — unfunded liability analysis](https://www.brookings.edu/articles/californias-pension-debt-is-harming-teachers-and-students-now-and-its-going-to-get-worse/) (Tier 2)
+- [CalMatters: Fossil fuel shares and California pension investment](https://calmatters.org/commentary/2024/04/fossil-fuel-company-investment-calpers-pension/) (Tier 2)
+- [PPIC: Public Pensions in California — statewide pension fund analysis](https://www.ppic.org/publication/public-pensions-in-california/) (Tier 2)
+- [InfluenceWatch: California State Teachers' Retirement System — political connections and influence](https://www.influencewatch.org/government-agency/california-state-teachers-retirement-system/) (Tier 3)
+
+content-readiness:: developed

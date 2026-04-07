@@ -1,0 +1,47 @@
+---
+title: "Think Big AI PAC"
+type: pac
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+sector: "Tech & Crypto"
+entity-type: "PAC"
+issues:
+  - "Technology"
+---
+
+#think-big-ai #super-pac #tech #ai #lobbying #regulation #silicon-valley
+
+related: [[Fairshake PAC - Crypto Super PAC]] [[Marc Andreessen & Horowitz]] [[Eric Schmidt]]
+
+---
+
+### Who They Are
+
+Think Big AI. A Super PAC focused on advancing pro-AI policy and supporting candidates who favor innovation-friendly AI regulation. Part of the broader tech industry political operation that emerged in the 2024 cycle alongside Fairshake PAC (crypto) and other tech-aligned Super PACs. Think Big AI represents the AI industry's political strategy: frame AI regulation as a choice between innovation (minimal regulation) and stagnation (aggressive regulation), then fund candidates who choose "innovation."
+
+The PAC is funded by AI industry leaders and tech investors who have a financial interest in ensuring that AI regulation does not constrain their business models. The funding network overlaps significantly with the venture capital and tech donor networks that fund Fairshake, America PAC, and other tech-aligned political operations.
+
+---
+
+### What They Want
+
+Innovation-friendly AI regulation (industry self-regulation rather than government oversight), opposition to AI moratoriums, favorable treatment of AI in defense and government procurement, liability protections for AI developers, reduced regulatory barriers to AI deployment, and immigration reform (AI companies need high-skilled immigrant workers).
+
+---
+
+### What They've Gotten
+
+**Framing Victory:** Think Big AI's primary achievement is framing: the PAC has helped establish the narrative that AI regulation is a binary choice between American innovation leadership and ceding AI development to China. This framing — endorsed by both AI industry leaders and national security hawks — has shifted the policy debate from "how do we regulate AI?" to "how do we ensure American AI dominance?" The shift serves industry interests by making aggressive regulation politically untenable (any regulation becomes "helping China").
+
+> [!money]
+> Think Big AI represents the AI industry's preemptive political strategy: invest in political infrastructure before regulation materializes, framing the debate in terms favorable to industry (innovation vs. stagnation, America vs. China) rather than terms favorable to the public (safety, accountability, labor displacement). The strategy mirrors the tech industry's earlier approach to internet regulation (Section 230) and the crypto industry's approach to financial regulation (Fairshake PAC). The pattern: fund candidates and frame debates before regulation threatens business models, ensuring that when regulation eventually comes, it is shaped by industry preferences.
+
+---
+
+### Sources
+
+- [Ballotpedia: AI policy](https://ballotpedia.org/Think_Big_AI_PAC) (Tier 3)
+
+content-readiness:: ready

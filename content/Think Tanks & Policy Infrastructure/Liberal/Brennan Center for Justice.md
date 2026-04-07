@@ -1,0 +1,192 @@
+---
+title: "Brennan Center for Justice"
+type: think-tank
+content-readiness: ready
+last-updated: 2026-03-27
+source-tier: 1
+parent: null
+category: liberal
+tax-status: 501c3
+related: "[[_Think Tank Framework]] · [[_Think Tank Index]]"
+---
+
+#think-tank #liberal #voting-rights #democracy #criminal-justice #campaign-finance #class-analysis
+
+
+---
+
+### Who They Are
+
+The Brennan Center for Justice is a hybrid think tank, litigation shop, and advocacy organization housed at New York University School of Law. Founded in 1995 by Joshua Rosenkranz and named after Supreme Court Justice William J. Brennan Jr., the Center describes itself as working to "build a nation that is democratic, just, and free for everyone." It operates three core programs: Democracy (voting rights, elections, money in politics), Justice (criminal justice reform, mass incarceration), and Liberty & National Security (government surveillance, rule of law).
+
+Michael Waldman has served as president since 2005. Waldman was director of speechwriting for President Bill Clinton from 1995 to 1999, responsible for nearly 2,000 speeches including four State of the Union addresses. This Clinton White House pedigree positions the Brennan Center firmly within the Democratic Party's professional-class institutional network.
+
+The Center's financial trajectory tells the real story. In FY2019, revenue was $26.2M with $31.6M in net assets. By FY2024, revenue hit $57.9M with net assets of $266.6M — an 8x growth in net assets in five years. The Trump-era fundraising surge peaked in FY2023 at $110.5M in revenue, with $109M coming from contributions alone. The Brennan Center is now among the best-funded legal advocacy organizations in the country, with $313M in total assets as of 2024.
+
+**Budget:** $57.9M revenue / $50.6M expenses (FY2024)
+**Net assets:** $266.6M (FY2024)
+**Total assets:** $313.3M (FY2024)
+**Staff:** 100+ attorneys and staff
+**Tax status:** 501(c)(3), EIN 13-3839293
+**Location:** 120 Broadway, Suite 1750, New York, NY
+
+**2025-2026 development:** The Brennan Center has emerged as the lead litigation shop challenging the Trump administration's assault on election infrastructure. On March 25, 2025, Trump signed an executive order titled "Preserving and Protecting the Integrity of American Elections," directing the Election Assistance Commission to require documentary proof of citizenship on federal voter registration forms and reject mail ballots received after Election Day. On April 1, 2025, the Brennan Center filed *League of Women Voters v. Trump* in federal court. On April 24, 2025, the court issued a preliminary injunction blocking the EAC from implementing the "show-your-papers" requirement. On October 31, 2025, the court granted summary judgment permanently enjoining the EAC — a definitive legal victory. Simultaneously, the DOJ purged all senior civil servants from its voting section and dismissed active voting rights cases, making the Brennan Center's private litigation capacity the primary remaining institutional check on federal election interference. The Brennan Center now tracks all executive actions against voting rights through its "Status of Trump's Anti-Voting Executive Order" tracker — a real-time litigation dashboard.
+
+---
+
+### Who Funds Them
+
+The Brennan Center relies almost entirely on contributions — 88.4% of FY2024 revenue came from donations, with the rest from investment income on its now-substantial endowment. It receives no funding from NYU or the government.
+
+### Major foundation funders:
+
+- **Open Society Foundations (George Soros):** $7.47M from 2000-2010 alone, with continued funding since. One of the largest single-source funders in the Center's history. VP for Programs John Kowal worked at the Open Society Institute from 1997-2008 before joining Brennan Center.
+- **Carnegie Corporation of New York:** $3.65M+ total since initial $25,000 founding grant in 1996.
+- **MacArthur Foundation:** $2.71M since 2012, including $525,000 in 2023.
+- **Tides Foundation:** $2.75M from 2002-2011.
+- **JEHT Foundation:** $1.02M from 2002-2011.
+- **Joyce Foundation:** $1.02M from 1998-2002.
+- **Jennifer & Jonathan Allan Soros Foundation:** $250,000 from 2011-2015.
+- **Additional funders include:** Ford Foundation, Kohlberg Foundation, Proteus Fund, Schumann Media Center, Public Welfare Foundation, JPB Foundation.
+
+**Donor base:** 40,000+ individual and family donors, plus foundations, law firms, and corporate supporters. Major NYC law firms including Arnold & Porter and WilmerHale provide pro bono legal work.
+
+> [!money]
+> The Brennan Center's explosive growth from $26M to $110M in revenue during 2019-2023 maps directly onto the Trump administration's attacks on voting rights. Donor class foundations — Soros, Carnegie, MacArthur — poured money into the institution positioned as the premier legal defender of democratic norms. The question is what kind of democracy these funders are purchasing: one that expands voting access (good) but leaves the structural power of wealth in politics untouched (by design).
+
+---
+
+### What They Produce
+
+The Brennan Center's policy output spans three major areas, with voting rights as the flagship:
+
+### Voting Rights & Election Reform:
+- Pioneered Automatic Voter Registration (AVR) — now adopted in 23 states plus DC, the single most impactful voter registration reform in modern history
+- Led litigation against restrictive voter ID laws, including *Veasey v. Abbott* (successful challenge to Texas voter ID law at the Fifth Circuit)
+- Filed amicus briefs in *Shelby County v. Holder* (2013) defending Section 5 of the Voting Rights Act
+- Drafted model language for the John R. Lewis Voting Rights Advancement Act
+- Published influential research on voter fraud rarity, directly countering Heritage Foundation's voter fraud database
+
+### Money in Politics:
+- Developed small-donor public financing models adopted in New York City and proposed at federal level
+- Published research on Citizens United impact and dark money flows
+- Advocated for the For the People Act / Freedom to Vote Act
+
+### Criminal Justice:
+- Research on mass incarceration costs and alternatives
+- Advocacy for sentencing reform and reentry programs
+- Published influential analyses of prosecutorial discretion and bail reform
+
+---
+
+### The Policy Pipeline
+
+The Brennan Center operates one of the most effective think-tank-to-legislation pipelines in liberal policy:
+
+### Automatic Voter Registration (AVR):
+1. Brennan Center researchers developed the AVR concept and model legislation
+2. Oregon became first state to adopt (2015), followed by California
+3. By 2026, 23 states plus DC have enacted AVR — 17 legislatively, 3 administratively, 3 by ballot initiative
+4. Brennan Center staff provided direct technical assistance to state legislatures throughout
+
+### Voting Rights Litigation:
+1. Brennan Center attorneys litigate voting rights cases in federal court
+2. *Veasey v. Abbott* — blocked Texas's strict voter ID law
+3. Amicus briefs in *Shelby County v. Holder* (lost, but shaped post-decision legislative response)
+4. Research feeds directly into congressional testimony — Waldman testified before the House Administration Committee on voting rights (2021)
+
+### Freedom to Vote / John Lewis VRA:
+1. Brennan Center published framework analyses defining legislative goals
+2. Waldman and staff directly consulted with Senate offices drafting the legislation
+3. The bill incorporated Brennan Center's proposed VRA preclearance formula updates
+
+### Donation-to-Policy Timeline
+
+| Date | Recipient/Target | Amount | Policy Return | Time Gap |
+|------|------------------|--------|---------------|----------|
+| 2000-2010 | Brennan Center (from Open Society Foundations) | $7.47M | AVR model legislation development, voting rights litigation infrastructure | 5-15 years |
+| 2012 | Brennan Center (from MacArthur Foundation) | $2.71M (through 2023) | Criminal justice reform research, democracy program expansion | Ongoing |
+| 2015 | Oregon legislature | N/A | First AVR law enacted — Brennan Center model | ~3 years from concept |
+| 2016 | Fifth Circuit Court of Appeals | N/A | *Veasey v. Abbott* — Texas voter ID law struck down | Litigation cycle |
+| 2019-2023 | Brennan Center (from all donors) | $272M+ in contributions | Trump-era democracy defense litigation, 2020 election protection infrastructure | Immediate |
+| 2021 | U.S. Senate | N/A | Myrna Pérez confirmed to Second Circuit (48-43) | 15 years at Brennan Center |
+| 2021-2022 | Congress | N/A | Freedom to Vote Act / John Lewis VRA — Brennan Center language incorporated | 2-3 years from research |
+| 2023-2026 | State legislatures | N/A | AVR adopted in 23 states + DC — Brennan Center's signature policy achievement | 8 years from first adoption |
+| 2025 Mar | Trump White House / EAC | N/A | Trump signs voting EO — Brennan Center files *League of Women Voters v. Trump* within one week; court blocks "show-your-papers" requirement (Apr), then permanently enjoins EAC (Oct) | 7 months from filing to permanent injunction |
+| 2025-2026 | Federal election infrastructure | N/A | DOJ voting section purged; Brennan Center becomes primary institutional check on federal election interference — tracks all actions via real-time litigation dashboard | Ongoing |
+
+> [!money]
+> The AVR pipeline is the Brennan Center's clearest idea-laundering success — though in this case the "laundering" serves voter access rather than donor profit. The structural question: does expanding who votes threaten the donor class that funds the Brennan Center? Not if the expanded electorate still chooses between two parties funded by the same donors. AVR is a genuine democratic reform that operates within — and does not challenge — the donor-funded political system.
+
+---
+
+### The Revolving Door
+
+The Brennan Center's revolving door runs primarily between the organization, the Democratic Party's legal infrastructure, and the federal judiciary:
+
+### Brennan Center → Federal Judiciary:
+- **Myrna Pérez** — Director of Voting Rights and Elections (2006-2021) → U.S. Court of Appeals, Second Circuit (confirmed October 2021, 48-43 vote). Led *Veasey v. Abbott* litigation at Brennan Center before being nominated by Biden.
+
+### Brennan Center → Biden Administration:
+- **Vanita Gupta** — Brennan Center board member → Associate Attorney General of the United States (2021-2025), the #3 position at DOJ
+- **Nicole Austin-Hillery** — Director of Brennan Center's Washington D.C. office, interfacing directly with congressional offices on voting rights legislation
+
+### Open Society → Brennan Center:
+- **John Kowal** — Open Society Institute (1997-2008), then Ford Foundation → Brennan Center VP for Programs. Carries the Soros network's institutional priorities directly into Brennan Center programming.
+
+### Clinton White House → Brennan Center:
+- **Michael Waldman** — Clinton speechwriter/Director of Speechwriting (1995-1999) → Brennan Center President (2005-present). 20+ year tenure making him the defining figure of the institution.
+
+> [!contradiction]
+> The Brennan Center advocates for democratic access while its leadership pipeline runs exclusively through elite institutional channels — Clinton White House, Soros foundations, NYU Law, federal judiciary. The revolving door connects progressive donors to Democratic administrations through a legal infrastructure that expands voting rights but never challenges the structural role of wealth in determining who runs and what policies are viable.
+
+---
+
+### What Their Funders Got
+
+**Open Society Foundations / Soros:** Funded the premier legal infrastructure defending voting access — which aligns with Soros's stated commitment to open societies, but also ensures the Democratic Party's voter expansion strategy has institutional backing.
+
+**Carnegie Corporation:** Investment in democratic infrastructure that reinforces the legitimacy of existing institutions — Carnegie's founding mission. The Brennan Center defends the system, it doesn't propose replacing it.
+
+**MacArthur Foundation:** Criminal justice reform research that supports incremental sentencing and bail reform — meaningful improvements that stop well short of challenging the carceral system's structural function.
+
+**Law firm donors (Arnold & Porter, WilmerHale):** Pro bono work for the Brennan Center provides reputational cover for firms whose paying clients include major corporations. WilmerHale's David Ogden served as Deputy Attorney General under Obama.
+
+---
+
+### Class Analysis
+
+The Brennan Center occupies a specific structural position in the liberal ecosystem: it is the premier institution for expanding *access* to the existing democratic system while leaving the *power dynamics within* that system unchallenged.
+
+This is not accidental — it's a function of who funds them. The Soros/Carnegie/MacArthur donor class wants more people voting, but within a two-party system where both parties are funded by the donor class. AVR is a genuine reform. Small-donor public financing is a genuine reform. But neither threatens the structural dominance of wealth in politics. The Brennan Center's campaign finance work advocates for transparency and public financing — not for banning private money from elections entirely.
+
+The 8x growth in net assets during the Trump era ($31M → $266M) reveals the Center's function most clearly: it is the liberal donor class's emergency response mechanism for democratic norms. When the system is threatened, money floods in. When norms stabilize, the institution grows richer — but the structural power of wealth in politics remains unchanged.
+
+The revolving door — Clinton White House to Brennan Center to federal judiciary to Biden DOJ — maps a closed circuit of Democratic institutional power. The Brennan Center trains the lawyers who become the judges who interpret the laws the Brennan Center helped write. This is a progressive version of the Federalist Society's judicial pipeline, operating through different funders but serving an analogous structural function: ensuring the legal system reflects the priorities of the donor class that funds it.
+
+**Pattern: Genuine Win + Structural Limit.** AVR in 23 states is real. Blocking Texas's voter ID law is real. Permanently enjoining Trump's "show-your-papers" executive order is real — and with the DOJ voting section gutted, the Brennan Center is now the *de facto* institutional replacement for the federal government's own voting rights enforcement apparatus. The $266M war chest makes this financially sustainable. But the boundary remains clear: expand who participates, never challenge what they're participating in.
+
+---
+
+### Sources
+
+- [ProPublica Nonprofit Explorer: Brennan Center for Justice (EIN 13-3839293)](https://projects.propublica.org/nonprofits/organizations/133839293) (Tier 1)
+- [Brennan Center for Justice: Financial & Legal Information](https://www.brennancenter.org/about/financial-legal-information) (Tier 3)
+- [Brennan Center for Justice: Michael Waldman Leadership Bio](https://www.brennancenter.org/about/leadership/michael-waldman) (Tier 3)
+- [Wikipedia: Brennan Center for Justice](https://en.wikipedia.org/wiki/Brennan_Center_for_Justice) (Tier 3)
+- [MacArthur Foundation: Brennan Center for Justice Grantee Profile](https://www.macfound.org/grantee/brennan-center-for-justice-44759/) (Tier 1)
+- [NBC News: Senate confirms Latina voting expert Myrna Pérez as federal appeals judge](https://www.nbcnews.com/news/latino/senate-confirms-latina-voting-expert-myrna-perez-federal-appeals-judge-rcna3749) (Tier 2)
+- [Wikipedia: Myrna Pérez](https://en.wikipedia.org/wiki/Myrna_P%C3%A9rez) (Tier 3)
+- [Brennan Center: Shelby County v. Holder (Amicus Brief)](https://www.brennancenter.org/our-work/court-cases/shelby-county-v-holder-amicus-brief) (Tier 3)
+- [Brennan Center: History of AVR & Implementation Dates](https://www.brennancenter.org/our-work/research-reports/history-avr-implementation-dates) (Tier 3)
+- [Brennan Center: Announces Two New Board Members (Vanita Gupta)](https://www.brennancenter.org/our-work/research-reports/brennan-center-announces-two-new-board-members) (Tier 3)
+- [Capital Research Center: Dismantling Self-Government — The Brennan Center's Election Fraud Offensive](https://capitalresearch.org/article/dismantling-self-government-the-brennan-centers-election-fraud-offensive/) (Tier 4)
+- [InfluenceWatch: William J. Brennan Center for Justice](https://www.influencewatch.org/non-profit/william-j-brennan-center-for-justice/) (Tier 4)
+- [Wikipedia: Vanita Gupta](https://en.wikipedia.org/wiki/Vanita_Gupta) (Tier 3)
+- [Media Bias/Fact Check: Brennan Center for Justice](https://mediabiasfactcheck.com/brennan-center-for-justice/) (Tier 3)
+- [Open Society Foundations: Awarded Grants — Brennan Center](https://www.opensocietyfoundations.org/grants/past?filter_keyword=brennan+center) (Tier 1)
+- [Brennan Center: Court Strikes Down Key Part of Trump's Unlawful Voting Executive Order, Permanently Blocking Show-Your-Papers Requirement (Oct 2025)](https://www.brennancenter.org/our-work/analysis-opinion/court-strikes-down-key-part-trumps-unlawful-voting-executive-order) (Tier 3)
+- [Brennan Center: Status of Trump's Anti-Voting Executive Order — real-time litigation tracker](https://www.brennancenter.org/our-work/research-reports/status-trumps-anti-voting-executive-order) (Tier 3)
+- [Brennan Center: The Trump Administration's Campaign to Undermine the Next Election (2026)](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) (Tier 3)
+
+content-readiness:: ready

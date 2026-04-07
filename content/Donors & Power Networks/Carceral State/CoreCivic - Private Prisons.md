@@ -1,0 +1,138 @@
+---
+title: "CoreCivic - Private Prisons"
+type: corporation
+content-readiness: ready
+last-updated: 2026-03-25
+source-tier: 1
+parent: null
+sector: "Carceral State"
+entity-type: "Corporation"
+issues:
+  - "Immigration"
+---
+
+#corecivic #private-prison #carceral #cca #immigration #detention #lobbying #incarceration #ice #revolving-door #trump
+
+related: [[GEO Group]] [[Prison Policy Initiative]] [[Fraternal Order of Police]]
+
+---
+
+### Who They Are
+
+CoreCivic Inc. (formerly Corrections Corporation of America/CCA, rebranded 2016). The largest private prison company in the United States ($1.9 billion revenue, 2024), operating 70+ correctional and detention facilities with a capacity of 80,000+ beds across 19 states. Headquartered in Nashville, Tennessee (Brentwood). CoreCivic holds contracts with the Federal Bureau of Prisons, U.S. Marshals Service, Immigration and Customs Enforcement (ICE), and state departments of corrections. The company is structured as a Real Estate Investment Trust (REIT), which provides significant tax advantages — CoreCivic pays little or no corporate income tax while distributing profits to shareholders.
+
+CoreCivic's revenue breakdown reveals the real business model: ICE contracts accounted for 30% of revenue in 2023, with the U.S. Marshals Service at 21% and the Bureau of Prisons at just 2%. The company's stock price is directly correlated with immigration enforcement policy — rising under administrations that increase detention and falling under those that reduce it. The day after Trump's 2024 reelection, CoreCivic shares jumped nearly 29%. Between Election Day and inauguration, shares rose nearly 60%.
+
+CoreCivic's political operation in the 2024 cycle: $784,974 in total contributions (PAC + individual), $1.77 million in lobbying, 60% of lobbyists (6 of 10) are government alumni. CEO Damon Hininger personally contributed $300,000 to a joint Trump-RNC fundraising committee. CoreCivic donated $500,000 to the Trump-Vance inaugural committee in December 2024 — double its $250,000 contribution to Trump's 2016 inaugural committee.
+
+- [OpenSecrets: CoreCivic organizational profile](https://www.opensecrets.org/orgs/corecivic-inc/summary?id=D000021940) (Tier 1)
+- [SEC EDGAR: CoreCivic Inc. (CIK 0001070985) — 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=corecivic&CIK=&type=10-K&dateb=&owner=include&count=10&search_text=&action=getcompany) (Tier 1)
+
+---
+
+### What They Want
+
+Increased federal detention capacity (more ICE beds), mandatory minimum sentencing (keeping prison populations high), opposition to criminal justice reform that reduces incarceration, immigration enforcement expansion (each detained immigrant is a revenue source), favorable contract terms with guaranteed minimum occupancy rates, reversal of Biden's Executive Order 14006 (which limited DOJ private prison contracts), and inclusion of private detention funding in federal budget legislation. CoreCivic also lobbied specifically on S.2625 in the 118th Congress — the most-lobbied bill in their portfolio.
+
+---
+
+### Who They Fund
+
+CoreCivic's 2024 political spending was overwhelmingly Republican: $660,170 of $784,974 (84%) went to Republican candidates and committees.
+
+### Top recipients (2024 cycle):
+
+| Recipient | Amount | Type |
+|-----------|--------|------|
+| Republican National Committee | $223,223 | Party |
+| Democratic Lieutenant Governors Assn | $50,000 | Party |
+| GOPAC | $50,000 | 527 |
+| Marsha Blackburn (R-TN) | $33,700 | Senate candidate |
+| NRCC | $33,387 | Party |
+| NRSC | $32,669 | Party |
+| Mark Green (R-TN) | $21,800 | House candidate |
+| Roger Marshall (R-KS) | $19,600 | Senate candidate |
+| John Thune (R-SD) | $14,600 | Senate candidate |
+| Republican Party of Tennessee | $14,415 | State party |
+
+The Tennessee concentration is notable: CoreCivic is headquartered in Brentwood, TN, and its top candidate recipients (Blackburn, Green) are Tennessee's own federal delegation. The company invests most heavily in the representatives who directly serve its home-state interests and sit on relevant committees.
+
+**Inaugural investment:** $500,000 to Trump-Vance inaugural committee (2024), $250,000 to Trump inaugural (2016). The doubling signals the industry's recognition that Trump's second term represents an exponentially larger revenue opportunity than his first.
+
+> [!money]
+> CoreCivic's 2024 political investment totals roughly $2.5 million when combining contributions ($785K), lobbying ($1.77M), and inaugural donation ($500K, which is not tracked in campaign finance totals). The return: ICE contracts surged from $140 million (Q3 2024, pre-inauguration) to $215 million (Q3 2025) — a 55% increase in a single year. CoreCivic's $2.5M political investment generated roughly $300M+ in annualized new ICE revenue. That's a 120:1 return on political spending.
+
+- [OpenSecrets: Private prison companies positioned to benefit from increased deportations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 2)
+- [CREW: Trump's budget bill benefits private detention companies that donated to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2)
+
+---
+
+### What They've Gotten
+
+### Guaranteed Occupancy Contracts — Taxpayers Pay for Empty Beds
+
+CoreCivic's contracts with government agencies frequently include "lockup quotas" — guaranteed minimum occupancy rates (typically 80-90%) that require the government to pay for beds whether or not they are filled. An estimated 65% of private prison contracts include some form of occupancy guarantee. These provisions transfer the financial risk of reduced incarceration from the company to taxpayers: if crime drops or enforcement policy changes, the government still pays CoreCivic for empty beds.
+
+### The Detention Bed Mandate — Congress Guarantees Revenue
+
+CoreCivic's lobbying focuses on maintaining and expanding the congressional "detention bed mandate" — the requirement that ICE maintain a minimum number of detention beds (34,000 under recent appropriations). This congressional floor on detention capacity is unique in American law: Congress does not mandate minimum hospital beds, school seats, or any other public service level. The bed mandate exists solely to guarantee revenue for private detention companies.
+
+### The Policy Cycle — Biden EO to Trump Reversal
+
+| Date | Event | Impact | Source |
+|------|-------|--------|--------|
+| 2021-01-26 | Biden signs EO 14006 limiting DOJ private prison contracts | CoreCivic stock drops; BOP contracts threatened | Brennan Center |
+| 2021-2024 | Biden EO does NOT cover ICE contracts — detention continues | ICE remains 30% of CoreCivic revenue | CNN |
+| 2024-11-06 | Trump wins reelection | CoreCivic stock jumps ~29% in one day | OpenSecrets |
+| 2024-12 | CoreCivic donates $500K to Trump inaugural | Double 2016 inaugural contribution | CREW |
+| 2025-01 | Trump reverses Biden EO 14006 on Day 1 | DOJ private prison contracts restored | Brennan Center |
+| 2025-Q3 | ICE CoreCivic contracts reach $215M/quarter | Up 55% from $140M pre-inauguration | TN Lookout |
+| 2025 | Trump's reconciliation bill includes expanded private detention funding | Direct legislative benefit to CoreCivic/GEO | CREW |
+
+> [!contradiction]
+> Biden's Executive Order 14006 was marketed as ending federal use of private prisons — but it applied only to DOJ contracts (2% of CoreCivic revenue), not ICE contracts (30% of revenue). The policy that would have actually threatened CoreCivic's business model — ending ICE private detention — was never attempted. Biden's executive order was a Genuine Win + Structural Limit in real time: a visible policy victory that stopped precisely at the boundary of the company's core revenue stream.
+
+### Immigration Detention Expansion Under Trump 2.0
+
+CoreCivic's most profitable growth area is immigrant detention. ICE detention contracts surged 55% in the first year of Trump's second term, from $140 million per quarter (Q3 2024) to $215 million per quarter (Q3 2025). GEO Group, CoreCivic's chief competitor, projected doubling its ICE bed count to 32,000. The industry-wide expansion is funded through congressional appropriations and the reconciliation process — the same legislation that CoreCivic lobbied for directly.
+
+---
+
+### Class Analysis
+
+CoreCivic's business model is the most literal form of commodified human suffering in the vault: the company generates revenue by keeping people in cages, with each detained person generating $80-120 per day in government payments. The political investment required to maintain this revenue stream is remarkably small relative to the return — roughly $2.5M in 2024 political spending protecting a $1.9B revenue operation.
+
+### Analytical patterns present:
+
+- **Donor-Class Override:** The detention bed mandate — a congressional requirement that ICE maintain minimum bed levels — exists solely to guarantee revenue for CoreCivic and GEO Group. No other industry has a congressional floor on government purchasing of its services. This is the most direct case of legislation written for donor benefit in the carceral sector.
+- **Genuine Win + Structural Limit:** Biden's EO 14006 applied to DOJ contracts (2% of CoreCivic revenue) while leaving ICE contracts (30% of revenue) untouched. The visible policy victory preserved the company's actual profit center.
+- **Both-Sides Illusion (partial):** CoreCivic's $50,000 to the Democratic Lieutenant Governors Association provides minimal bipartisan cover for a spending profile that is 84% Republican. The investment in both parties is heavily asymmetric but maintains a nominal bipartisan presence.
+- **Revolving Door:** 60% of CoreCivic's 2024 lobbyists (6 of 10) previously held government positions. The company's lobbying operation is built on government alumni who bring relationships and institutional knowledge from the agencies that award contracts.
+
+---
+
+### Enemies / Opposition
+
+The Sentencing Project, Prison Policy Initiative, ACLU (National Prison Project), Worth Rises, Detention Watch Network, the Congressional Progressive Caucus (which has introduced private prison ban legislation), and investigative outlets including The Marshall Project and The Intercept. State-level opposition includes California (AB 32, banning private prisons), Illinois, and New York.
+
+---
+
+### Connected Policy Areas
+
+Immigration enforcement and ICE funding, criminal justice reform, mandatory minimum sentencing, the Federal Bureau of Prisons budget, DHS appropriations, the congressional detention bed mandate, REIT tax policy (CoreCivic's REIT status provides significant tax advantages), prison conditions and oversight, private prison divestment campaigns, and state-level private prison bans.
+
+---
+
+### Sources
+
+- [OpenSecrets: CoreCivic organizational profile](https://www.opensecrets.org/orgs/corecivic-inc/summary?id=D000021940) (Tier 1)
+- [SEC EDGAR: CoreCivic 10-K filings (CIK 0001070985)](https://www.sec.gov/cgi-bin/browse-edgar?company=corecivic&CIK=&type=10-K&dateb=&owner=include&count=10&search_text=&action=getcompany) (Tier 1)
+- [DHS: ICE detention management](https://www.ice.gov/detain/detention-management) (Tier 1)
+- [OpenSecrets: Private prison companies positioned to benefit from increased deportations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 2)
+- [Brennan Center: Trump reverses Biden order on DOJ private prison contracts](https://www.brennancenter.org/our-work/analysis-opinion/trump-reverses-biden-order-eliminated-doj-contracts-private-prisons) (Tier 2)
+- [CREW: Trump's budget bill benefits private detention companies that donated to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2)
+- [Tennessee Lookout: CoreCivic saw 55% increase in immigration detainee contracts](https://tennesseelookout.com/2025/11/06/private-prison-operator-corecivic-saw-55-increase-in-immigration-detainee-contracts/) (Tier 2)
+- [CNN: Biden promised but failed to end federal use of private prisons](https://www.cnn.com/2025/02/05/politics/private-prisons-poised-to-expand-under-trump-invs/index.html) (Tier 2)
+- [Ballotpedia: CoreCivic](https://ballotpedia.org/CoreCivic) (Tier 3)
+
+content-readiness:: developed

@@ -1,0 +1,180 @@
+---
+title: "Dave Rubin"
+type: media-profile
+content-readiness: ready
+last-updated: 2026-03-26
+source-tier: 1
+parent: null
+category: right
+platform: multi-platform
+related: "[[Tim Pool]] · [[Ben Shapiro]] · [[Charlie Kirk]] · [[Jordan Peterson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]]"
+donors: "[[Koch Network - Charles Koch]]"
+---
+
+#media-pipeline #right #conservative #classical-liberal #IDW #Koch #tenet-media #russian-dark-money #blazetv #locals #class-analysis
+
+
+---
+
+### Who They Are
+
+David Joshua Rubin (born June 26, 1976, Brooklyn, New York) is an American political commentator, talk show host, YouTuber, and author. He holds a BA in political science from Binghamton University (1998), where he spent a semester at Ben-Gurion University of the Negev in Israel. He is the host of The Rubin Report, a talk show on YouTube and BlazeTV. As of March 2026, his YouTube channel has 3.17 million subscribers and 2.5 billion total views.
+
+Rubin is openly gay, married David Janet in August 2015, and has two sons born via surrogacy in 2022. He registered as a Republican in 2022 after identifying as a Democrat, then a "classical liberal," and then a conservative over the previous decade.
+
+Career arc: Stand-up comedian (1998-2012) → The Ben and Dave Show / The Six Pack on Sirius XM (2007-2012) → The Young Turks network (Jan 2013 – Mar 2015) → Ora TV / Larry King (Sep 2015-2016) → Independent Rubin Report with Koch-affiliated IHS sponsorship (2016-2018) → Patreon crowdfunding ($10K+/month, left Jan 2019) → Co-created Locals.com (2019) → BlazeTV deal (Sep 2019) → Tenet Media / Russian dark money ($400K/month + $100K signing bonus, 2023-2024) → DOJ indictment names Rubin as "Commentator-1" (Sep 2024) → continued BlazeTV/YouTube presence (2025-present).
+
+**FEC record:** $0 confirmed personal contributions. FEC API query for "RUBIN, DAVE" and "RUBIN, DAVID" in Florida and California returned results for different individuals (PA/NY-based Democratic donors). The conservative Dave Rubin has no identifiable federal political contributions — consistent with the pattern documented across right-wing media figures in this vault (Shapiro $0, Walsh $0, Ingraham $0, Peterson N/A).
+
+---
+
+### Funding Model
+
+Rubin's funding arc traces the modern right-wing media pipeline: progressive network → "classical liberal" rebranding → Koch sponsorship → crowdfunding → corporate conservative media deal → Russian dark money.
+
+**Phase 1 — TYT Network (2013-2015):** Rubin joined The Young Turks in January 2013, hosting The Rubin Report as part of the TYT network. He left in March 2015, citing ideological differences with Cenk Uygur. TYT's funding model (Roemer $4M, Katzenberg/WndrCo $20M) is documented in the [[Cenk Uygur]] profile.
+
+**Phase 2 — Koch-Affiliated Sponsorship (2016-2018):** After going independent, The Rubin Report received sponsorship from Learn Liberty, an initiative of the Institute for Humane Studies (IHS) at George Mason University. IHS is heavily funded by the Koch family foundations and chaired by Charles Koch. Its stated mission is to "cultivate and subsidize a farm team of the next generation's libertarian scholars." This is the first documented Koch pipeline connection: Koch money → IHS → Learn Liberty → Rubin Report sponsorship. Rubin's "classical liberal" self-branding aligned perfectly with IHS's libertarian mission.
+
+**Phase 3 — Patreon Crowdfunding (2016-2019):** Rubin built a Patreon following that exceeded $10,000/month before he deleted his account in January 2019, alongside Jordan Peterson, in protest of the platform banning Sargon of Akkad. The "free speech" rationale for leaving Patreon was consistent with the broader conservative media migration documented in this vault (Peterson → DailyWire+, Greenwald → Rumble, Brand → Rumble). Each migration traded audience-funded independence for institutional conservative infrastructure.
+
+**Phase 4 — Locals.com / Platform Ownership (2019-present):** Rubin co-created Locals.com, a community subscription platform, after leaving Patreon. Locals was acquired by Rumble in 2021 for an undisclosed amount. Rumble's investors include Peter Thiel's Narya Capital and J.D. Vance (before his Senate run). This gives Rubin a direct equity connection to the Thiel-backed conservative media infrastructure documented across this vault (Greenwald on Rumble, Brand on Rumble, Crowder's Rumble deal).
+
+**Phase 5 — BlazeTV (Sep 2019-present):** Rubin signed a deal with BlazeTV, Glenn Beck's conservative subscription video service, in September 2019. The Rubin Report became available on the BlazeTV platform alongside Beck, Mark Levin, and other conservative hosts. BlazeTV later merged with CRTV (Cary Katz's network) to form Blaze Media, creating an institutional conservative media infrastructure parallel to the Daily Wire.
+
+**Phase 6 — Tenet Media / Russian Dark Money (2023-2024):** In September 2024, the DOJ indicted two RT (Russia Today) employees for covertly funding Tenet Media, a Tennessee-based content company, with nearly $10 million in Russian state money. Rubin matches the indictment's description of "Commentator-1," who agreed to produce four weekly videos livestreamed by Tenet Media in exchange for **$400,000 per month** and a **$100,000 signing bonus**. This is the largest documented dark money payment to any single media figure in this vault — exceeding Tim Pool's parallel Tenet arrangement. Rubin claimed to be a "victim" of the scheme, stating he was unaware of Russian funding. Attorney General Merrick Garland confirmed the influencers were not told about the Russian source.
+
+> [!money]
+> **The funding pipeline in full:** TYT progressive network (Roemer/Katzenberg money) → Koch/IHS libertarian sponsorship → Patreon crowdfunding ($10K+/month) → BlazeTV corporate conservative deal → Tenet Media/Russian state money ($400K/month + $100K signing bonus). Each transition moved Rubin further right and into deeper financial dependency on institutional conservative infrastructure. The Koch connection is the pivotal moment: it transformed a TYT progressive into a "classical liberal" — a brand perfectly calibrated to the Koch network's decades-long project of building libertarian intellectual infrastructure. The Russian money was the terminal point: a foreign state paying $400K/month for political content to an influencer who started as a progressive comedian. The pipeline didn't radicalize Rubin — it purchased him in stages.
+
+---
+
+### FEC Record
+
+**Total:** $0 | **Contributions:** 0 | **API-verified:** 2026-03-26
+
+No FEC individual contributions confirmed for the conservative media personality. The FEC API returns 197 results for "rubin, dave" via fuzzy matching — a common name. Filtering by California/Florida residence and independent media employer (BlazeTV, YouTube, self-employed) yields no confirmed matches. The $0 FEC record is consistent with the pattern across right-wing media: the infrastructure itself is the political contribution. Rubin's content promotes conservative causes; his wallet remains silent on federal candidates.
+
+- [FEC API: Dave Rubin individual contributions (197 results, likely other individuals)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=rubin%2C+dave&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+
+> **Disambiguation note:** API returns 197 results for "rubin, dave" — a common name. Filtering by known address and employer reveals no confirmed contributions from the Rubin Report host. All identifiable results are other Dave Rubins.
+
+---
+
+### Who Funds Them
+
+**Koch Network / Institute for Humane Studies (via Learn Liberty):** The Koch family foundations fund IHS, which is chaired by Charles Koch. IHS's Learn Liberty initiative sponsored episodes of The Rubin Report during the critical 2016-2018 period when Rubin was rebranding from progressive to "classical liberal." The Koch network's interest in Rubin is consistent with their documented strategy of funding media personalities who can popularize libertarian economics to younger, non-traditional conservative audiences. Rubin — gay, formerly progressive, based in Los Angeles — was the ideal vector for Koch messaging to an audience that would reject it from a traditional conservative source.
+
+**Glenn Beck / Blaze Media (via BlazeTV deal):** Institutional conservative media platform providing distribution, production resources, and subscription revenue. Blaze Media's investor base includes conservative media entrepreneurs; its merger with CRTV (funded by casino mogul Cary Katz) created a corporate conservative media entity. Rubin's BlazeTV deal provides stable institutional backing beyond YouTube ad revenue.
+
+**Russian Federation (via RT / Tenet Media):** Per the DOJ indictment (Sep 2024), two RT employees funneled nearly $10 million through Tenet Media to pay right-wing influencers. Rubin ("Commentator-1") received $400K/month + $100K signing bonus. The money was laundered through a Tennessee company to obscure its origin in Russian state media. This is the clearest documented case of foreign dark money in the conservative media ecosystem alongside Tim Pool's parallel Tenet arrangement.
+
+**Peter Thiel (indirect, via Rumble/Locals acquisition):** Rumble, backed by Thiel's Narya Capital, acquired Locals.com (co-created by Rubin) in 2021. This gives Rubin an indirect equity relationship with Thiel-backed conservative media infrastructure.
+
+> [!contradiction]
+> **The "free thinker" funded by Koch, Beck, and Putin.** Rubin's brand is the independent thinker who "left the left" to pursue truth wherever it leads. His funding model tells a different story: Koch libertarian sponsorship during the "classical liberal" rebrand, BlazeTV corporate conservative infrastructure for distribution, and — at the terminal point — $400K/month from Russian state media laundered through a shell company. The "independent" thinker's independence was purchased by three successive institutional funders, each further right than the last. Rubin didn't leave the left — he was recruited away from it, one funding deal at a time.
+
+---
+
+### What They Push
+
+**1. "Classical liberal" → conservative pipeline.** Rubin's primary contribution to the conservative media ecosystem is the "left the left" narrative — a personal conversion story that normalizes the progressive-to-conservative journey. His 2017 PragerU video "Why I Left the Left" is a foundational text of this genre. The narrative serves donor-class interests by framing conservatism as the intellectually honest destination for former progressives disillusioned with "woke" politics.
+
+**2. Koch-aligned libertarian economics.** During the IHS/Learn Liberty sponsorship period, Rubin's content aligned with Koch network priorities: deregulation, free markets, opposition to government intervention. The "classical liberal" label is the Koch network's preferred branding for libertarian economics — it sounds intellectual rather than partisan, progressive rather than regressive.
+
+**3. Anti-progressive culture war.** Rubin's primary content vertical post-2019: opposition to progressive politics, cancel culture, critical race theory, and what he frames as left-wing authoritarianism. This content serves the structural function of channeling cultural grievance away from economic analysis and toward identity-based conflict.
+
+**4. Pro-Israel alignment.** Consistent with the broader conservative media ecosystem and his personal background (semester at Ben-Gurion University, self-described Zionist), Rubin is an outspoken Israel supporter who equates anti-Zionism with antisemitism.
+
+**5. TPUSA / Turning Point USA amplification.** Rubin frequently appears at Turning Point USA events, connecting his audience to Charlie Kirk's mega-donor pipeline (Bradley Impact Fund $23.6M, Wayne Duddlesten $13.1M, DonorsTrust dark money — documented in [[Charlie Kirk]] profile).
+
+---
+
+### Audience Capture
+
+**Platform:** YouTube (3.17M subscribers, 2.5B views), BlazeTV (subscription platform), Locals.com (community platform), X/Twitter.
+
+**Demographics:** Young male conservatives and libertarians (18-35), college-educated or aspirational, many former progressives or centrists who identify with Rubin's "left the left" narrative. The audience skews younger and more socially liberal than traditional conservative media consumers — which is precisely why Koch/IHS invested in Rubin as a vector.
+
+**Capture mechanism — The Audience Rejection Cycle:** Rubin's audience capture operates through a distinctive feedback loop documented by Forbes (2022): his audience — initially attracted by his "classical liberal" moderation — has progressively pushed him rightward. When Rubin announced his children born via surrogacy in 2022, his conservative audience vocally rejected same-sex parenting, creating a contradiction between his personal life and his political base. Rather than pushing back, Rubin adapted: he spoke out against Pride Month rainbow logos (2022) and deepened his alignment with anti-LGBTQ conservative positions. The audience captured him, not the other way around — and the capture moved him further into the donor-class ecosystem that funds anti-LGBTQ politics.
+
+**The IDW gateway:** Rubin was a core member of the "Intellectual Dark Web" alongside Jordan Peterson, Ben Shapiro, Bari Weiss, Sam Harris, and Eric Weinstein. The IDW functioned as a legitimacy-laundering network: Rubin's progressive credentials laundered conservative ideas for progressive-adjacent audiences, while Peterson's academic credentials and Shapiro's debate-bro style provided different entry points for different demographics. The network has since fractured — Rubin acknowledged a split in 2021, noting that the "liberal" wing (Harris, Weiss, Weinstein) had diverged from the conservative wing.
+
+> [!contradiction]
+> **The gay conservative whose audience rejects his family.** Rubin's personal life — married to a man, two children via surrogacy — exists in direct contradiction with the political movement he amplifies. His audience's hostile reaction to his family announcement revealed the structural impossibility of his position: the donor class that funds anti-LGBTQ politics cannot accommodate a gay father as a permanent spokesperson. Rubin's response — attacking Pride Month rather than his audience — demonstrates how audience capture functions as a one-way ratchet. The audience doesn't move toward the host; the host moves toward the audience. And the audience is shaped by the donor-class interests that fund the broader ecosystem.
+
+---
+
+### What Funders Got
+
+**Koch Network got:** A "classical liberal" who could deliver libertarian economic messaging to an audience that would reject it from a traditional conservative source. Rubin's progressive background and gay identity made him the ideal vector for Koch-aligned deregulation messaging to younger, non-traditional conservative audiences. The IHS/Learn Liberty investment was small but strategic: it funded the critical rebrand period (2016-2018) when Rubin transitioned from TYT progressive to IDW "classical liberal."
+
+**BlazeTV/Blaze Media got:** A high-profile YouTuber (3.17M subscribers) who brought a younger demographic to a platform dominated by Glenn Beck and Mark Levin's older audiences. Rubin's "left the left" brand differentiated BlazeTV from the Daily Wire and provided a specific narrative — the conversion story — that traditional conservative hosts couldn't deliver.
+
+**Russian Federation got:** Per the DOJ indictment, Tenet Media produced thousands of political videos that amplified divisive content favorable to Russian interests ahead of the 2024 US election. Rubin's $400K/month produced four weekly videos reaching his 3+ million subscriber base. The ROI for Russian influence operations was extraordinary: for roughly $5M/year, Russia purchased weekly content from an established American media personality with a built-in audience of millions.
+
+**TPUSA/Charlie Kirk got:** A regular speaker at Turning Point events who connects the IDW/YouTube audience to Kirk's campus conservative infrastructure and mega-donor pipeline.
+
+---
+
+### Timeline
+
+| Date | Event | Key Players | Amount | Significance |
+|------|-------|-------------|--------|-------------|
+| Jan 2013 | Joins The Young Turks network | Rubin, Cenk Uygur | N/A | Entry point into progressive media; TYT funded by Roemer/Katzenberg |
+| Mar 2015 | Leaves TYT, citing ideological differences | Rubin, Uygur | N/A | Break from progressive media begins political migration rightward |
+| 2016 | Learn Liberty/IHS begins sponsoring Rubin Report | Koch/IHS, Rubin | Undisclosed | Koch network funds "classical liberal" rebrand; first documented institutional conservative funding |
+| Feb 2017 | PragerU "Why I Left the Left" video | Rubin, PragerU/Wilks Brothers | N/A | Foundational text of progressive-to-conservative conversion narrative; PragerU funded by Wilks Brothers |
+| Jan 2019 | Leaves Patreon with Jordan Peterson | Rubin, Peterson | $10K+/month abandoned | "Free speech" platform migration; co-creates Locals.com |
+| Sep 2019 | Signs BlazeTV deal | Rubin, Glenn Beck/Blaze Media | Undisclosed | Institutional conservative media platform; merger with Katz-funded CRTV |
+| 2021 | Locals.com acquired by Rumble | Rubin, Rumble (Thiel/Narya Capital) | Undisclosed | Equity connection to Thiel-backed conservative media infrastructure |
+| Dec 2021 | Moves from LA to Miami, registers Republican | Rubin | N/A | Geographic and political realignment complete |
+| Mar 2022 | Announces two children via surrogacy; audience backlash | Rubin, conservative audience | N/A | Audience rejection reveals structural contradiction of gay conservative identity |
+| 2023-2024 | Produces content for Tenet Media | Rubin, Tenet Media (RT/Russian state) | $400K/month + $100K signing | Russian dark money pipeline; largest documented payment in vault |
+| Sep 2024 | DOJ indicts RT employees; Rubin identified as "Commentator-1" | DOJ, RT, Tenet Media, Rubin | ~$10M total scheme | Russian influence operation exposed; Rubin claims victimhood |
+
+> [!money]
+> **The price of a political conversion: $400K/month.** Rubin's timeline reveals the economics of the progressive-to-conservative pipeline. The Koch/IHS sponsorship was the seed investment — funding the "classical liberal" rebrand that made Rubin marketable to conservative institutional infrastructure. BlazeTV provided the platform. Russian state money provided the terminal payment: $400K/month for content that served foreign influence objectives. The total funding trajectory — from TYT progressive to $400K/month Russian asset — maps the donor-class investment strategy in real dollar amounts. Each funder got what they paid for: Koch got a "classical liberal," Beck got a YouTuber, Russia got an American influence vector. The only constant was Rubin's availability for purchase.
+
+---
+
+### Class Analysis
+
+Dave Rubin represents **the conversion narrative as product** — the progressive-to-conservative pipeline monetized as a personal brand. His structural function in the donor-class media ecosystem is unique: he is not a political commentator who happens to have changed his views, but a media product whose entire value proposition IS the conversion story. The "I left the left" narrative is the content, the brand, and the funding justification simultaneously.
+
+**Pattern: Koch-Funded Ideological Laundering.** The Koch/IHS sponsorship of Rubin's "classical liberal" period is the clearest documented case of the Koch network's media investment strategy in this vault. Unlike the Wilks Brothers' direct ownership model (Daily Wire seed funding, PragerU), the Koch approach is indirect: fund academic and quasi-academic institutions (IHS, George Mason University, Learn Liberty) that sponsor media personalities who can deliver libertarian messaging to non-traditional audiences. Rubin didn't know he was a Koch product. He didn't need to. The IHS sponsorship aligned his content with Koch priorities through market incentives, not editorial control.
+
+**Pattern: Dark Money Symmetry.** Rubin's Tenet Media arrangement mirrors the left-media dark money documented in this vault. David Pakman received up to $8K/month from the Sixteen Thirty Fund (Arabella Advisors, $389M dark money 501(c)(4)) via the Chorus Creator Incubator Program. Rubin received $400K/month from RT via Tenet Media. The scale differs dramatically (50:1 ratio), but the structural pattern is identical: undisclosed institutional money flowing to media personalities through intermediary organizations. Both figures claimed ignorance of the money's origin. The difference is that Rubin's money came from a hostile foreign government, while Pakman's came from a domestic dark money network.
+
+**Pattern: Audience Capture as One-Way Ratchet.** Rubin's audience rejection of his surrogacy announcement demonstrates how audience capture functions in the conservative media ecosystem. The audience — shaped by the broader donor-class funded anti-LGBTQ movement — pushed Rubin to adopt anti-Pride positions that contradicted his personal identity. This is the inverse of the Hasan Piker model (platform contains leftist content) or the John Oliver model (corporate platform enables critical content). In Rubin's case, the audience IS the capture mechanism: it pulls the host rightward regardless of personal conviction, because the host's revenue depends on audience retention. The donor class doesn't need to control Rubin directly — it controls the audience that controls him.
+
+**Pattern: Independence Theater.** Rubin's brand is "thinking for yourself" (the subtitle of his 2020 book). His funding model is the opposite: Koch sponsorship → Patreon crowd → BlazeTV institutional deal → Russian state money. Each phase of "independence" was funded by a progressively more institutional source. The Patreon phase was the closest to genuine independence, and Rubin abandoned it voluntarily. The "independent thinker" is a character — a media product designed to attract audiences who want to believe that conservative politics is the intellectually honest destination for former progressives. The product works precisely because the audience doesn't see the funding structure behind it.
+
+**Comparison to Tim Pool:** Both Rubin and Pool were paid by Tenet Media/Russian state money at comparable rates ($400K/month). Both claimed ignorance. But their class functions differ. Pool is a "journalist" brand (impartial observer who independently arrived at conservative conclusions). Rubin is a "conversion" brand (progressive who saw the light). They serve the same donor-class interests through different audience entry points: Pool attracts people who want to believe conservative media is objective journalism; Rubin attracts people who want to believe their own rightward shift is intellectual growth. Together they represent the two primary narratives of conservative media recruitment — and both were funded by Russian state money.
+
+---
+
+### Capture Architecture
+
+**Platform funder:** BlazeTV/Blaze Media (Glenn Beck, Cary Katz merger); previously Koch/IHS Learn Liberty sponsorship (2016-2018); Tenet Media/RT (Russian state, $400K/month + $100K signing, 2023-2024 — DOJ indicted). Rumble/Locals.com (Thiel-backed, acquired 2021 — indirect equity).
+**Income dependency:** BlazeTV platform deal + YouTube ad revenue (3.17M subs, 2.5B views) + Locals.com subscription community + book sales (Don't Burn This Book, Don't Burn This Country). The Tenet Media income ($400K/month) dwarfed all other sources while active — creating near-total dependency on undisclosed Russian state money during 2023-2024.
+**Editorial red lines:** Cannot criticize Koch-aligned libertarian economics (IHS funded the rebrand), cannot meaningfully defend LGBTQ rights beyond personal identity (audience has already rejected his family structure; donor-class funds anti-LGBTQ politics), cannot acknowledge that "leaving the left" was a funded pipeline rather than an intellectual journey (the conversion narrative IS the product). The Russian money revelation should have destroyed the "independent thinker" brand but didn't — because the audience's identity is invested in the narrative regardless of evidence.
+
+---
+
+### Sources
+
+- [Wikipedia: Dave Rubin](https://en.wikipedia.org/wiki/Dave_Rubin) (Tier 3)
+- [Wikipedia: 2024 Tenet Media investigation](https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation) (Tier 3)
+- [FEC API: "RUBIN, DAVE" and "RUBIN, DAVID" individual contributions (FL, CA) — no matches for conservative Dave Rubin](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=RUBIN%2C+DAVE&api_key=DEMO_KEY) (Tier 1)
+- [Miami Herald: "Dave Rubin says he was a 'victim' of Russian election scheme" (Sep 2024)](https://www.miamiherald.com/news/politics-government/article291976560.html) (Tier 2)
+- [TheWrap: "Conservative YouTuber Dave Rubin Signs Deal With BlazeTV" (Sep 2019)](https://www.thewrap.com/conservative-youtuber-dave-rubin-signs-deal-with-blazetv/) (Tier 3)
+- [Data & Society: "Alternative Influence: Broadcasting the Reactionary Right on YouTube" (2018)](https://www.datasociety.net/library/alternative-influence/) (Tier 2)
+- [Forbes: "Dave Rubin Is Being Rejected By His Own Audience" (Mar 2022)](https://www.forbes.com/sites/danidiplacido/2022/03/21/dave-rubin-is-being-rejected-by-his-own-audience/) (Tier 2)
+- [Newsweek: "Classical Liberals and Libertarians Should Vote Republican" by Dave Rubin (Dec 2021)](https://www.newsweek.com/classical-liberals-libertarians-should-vote-republican-opinion-1656513) (Tier 4)
+- [The Jerusalem Post: "Dave Rubin's journey" (Nov 2020)](https://www.jpost.com/jerusalem-report/dave-rubins-journey-647137) (Tier 3)
+- [Fox News: "Jordan B. Peterson, Dave Rubin ditch crowdfunding site Patreon to stand up for free speech" (Jan 2019)](https://www.foxnews.com/tech/jordan-b-peterson-dave-rubin-ditch-crowdfunding-site-patreon-to-stand-up-for-free-speech) (Tier 3)
+
+---
+
+content-readiness:: ready

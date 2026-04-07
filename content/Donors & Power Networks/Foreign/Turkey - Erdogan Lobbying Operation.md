@@ -1,0 +1,49 @@
+---
+title: "Turkey - Erdogan Lobbying Operation"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+sector: "Foreign Influence"
+entity-type: "Individual Donor"
+---
+
+#turkey #erdogan #foreign #lobbying #nato #arms #flynn #fara #kurdish
+
+related: [[Saudi Arabia - Kingdom Investment]] [[United Arab Emirates - Influence Operation]]
+
+---
+
+### Who They Are
+
+The Republic of Turkey. A NATO ally with a $1 trillion GDP, strategically located between Europe and the Middle East, and operating one of the most controversial foreign lobbying operations in Washington. Turkey's influence operation has included: registered foreign agents ($5-15 million annually), unregistered lobbying that resulted in federal prosecutions (the Michael Flynn case), corporate advocacy through Turkish-American business networks, and direct leader-to-leader diplomacy between President Erdogan and American presidents.
+
+Turkey's lobbying priorities have shifted under Erdogan: from traditional NATO alliance management to aggressive advocacy against Kurdish political movements, opposition to Armenian genocide recognition, defense of Erdogan's democratic backsliding, and management of the S-400 missile defense controversy that resulted in Turkey's removal from the F-35 program.
+
+---
+
+### What They Want
+
+F-35 program reinstatement (after S-400 removal), opposition to Kurdish political movements (PKK, but also Syrian Kurdish allies of the United States), resistance to Armenian genocide recognition, reduced Congressional scrutiny of democratic erosion, favorable trade treatment, and continued NATO alliance benefits despite Erdogan's authoritarian governance.
+
+---
+
+### What They've Gotten
+
+**Flynn Operation:** The most dramatic illustration of Turkish influence: Michael Flynn, Trump's first National Security Advisor, was a paid agent of Turkey during the 2016 campaign, receiving $530,000 from a Turkish businessman connected to the Erdogan government. Flynn failed to register as a foreign agent (later charged under FARA), and reportedly advocated for the extradition of Turkish cleric Fethullah Gulen — Erdogan's primary political rival — while serving in the White House. The Flynn case demonstrated how foreign influence can penetrate the highest levels of U.S. government through the revolving door.
+
+**Armenian Genocide Resolution Delay:** Turkey's lobbying operation successfully delayed congressional recognition of the Armenian genocide for decades — the Senate resolution passed in 2019 and the House in 2019, but only after Turkey's strategic value to the U.S. in the Syrian conflict diminished. The delay demonstrated how a foreign government used lobbying to suppress historical acknowledgment of mass atrocity for geopolitical convenience.
+
+> [!money]
+> Turkey's influence operation illustrates the FARA enforcement gap: Michael Flynn operated as a paid Turkish agent while advising a presidential campaign and serving as National Security Advisor — and the legal consequences came years later, after the damage was done. Turkey's $5-15 million annual lobbying investment protected Erdogan's interests on Armenian genocide recognition, Kurdish policy, and democratic erosion scrutiny for decades. The structural issue: FARA registration is largely self-enforced, prosecutions are rare, and the revolving door between government service and foreign lobbying is the primary mechanism through which foreign governments purchase American policy influence.
+
+---
+
+### Sources
+
+- [FARA: Turkey foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1) (Tier 1)
+- [Congress.gov: Armenian Genocide Resolution](https://www.congress.gov/bill/116th-congress/house-resolution/296) (Tier 1)
+- [Ballotpedia: Turkey-US relations](https://ballotpedia.org/Turkey_-_Erdogan_Lobbying_Operation) (Tier 3)
+
+content-readiness:: ready

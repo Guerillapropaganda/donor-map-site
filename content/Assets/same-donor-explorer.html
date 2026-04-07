@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Donor Map — Same Donor, Opposite Politicians</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: #0a0a0f;
+  color: #e2e8f0;
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+  padding: 40px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header { max-width: 900px; width: 100%; margin-bottom: 36px; }
+h1 { font-size: 34px; font-weight: 900; letter-spacing: -0.04em; color: #f8fafc; margin-bottom: 4px; line-height: 1.1; }
+.subtitle { font-size: 14px; color: #f59e0b; font-weight: 500; margin-bottom: 12px; }
+.intro { font-size: 15px; color: #94a3b8; max-width: 700px; line-height: 1.7; }
+
+/* Donor selector */
+.donors { max-width: 900px; width: 100%; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 10px; margin-bottom: 40px; }
+
+.donor-btn {
+  padding: 14px 16px;
+  border-radius: 10px;
+  border: 1px solid rgba(148,163,184,0.1);
+  background: rgba(15,23,42,0.6);
+  cursor: pointer;
+  transition: all 0.25s;
+  text-align: left;
+}
+.donor-btn:hover { border-color: rgba(245,158,11,0.3); transform: translateY(-2px); box-shadow: 0 4px 20px rgba(0,0,0,0.3); }
+.donor-btn.active { border-color: #f59e0b; background: rgba(245,158,11,0.06); }
+.donor-btn-name { font-size: 14px; font-weight: 700; color: #f8fafc; margin-bottom: 2px; }
+.donor-btn-type { font-size: 11px; color: #64748b; }
+.donor-btn-total { font-size: 12px; color: #f59e0b; font-weight: 600; margin-top: 4px; }
+
+/* Result */
+.result { max-width: 900px; width: 100%; display: none; }
+.result.visible { display: block; }
+
+/* Donor header */
+.donor-header {
+  background: rgba(245,158,11,0.04);
+  border: 1px solid rgba(245,158,11,0.15);
+  border-radius: 14px;
+  padding: 28px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+.dh-name { font-size: 28px; font-weight: 900; color: #f8fafc; margin-bottom: 4px; }
+.dh-total { font-size: 20px; font-weight: 700; color: #f59e0b; margin-bottom: 8px; }
+.dh-desc { font-size: 14px; color: #94a3b8; max-width: 650px; margin: 0 auto; line-height: 1.7; }
+
+/* Politicians grid - two columns */
+.pol-columns { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 24px; }
+
+.col-header {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  padding: 10px 16px;
+  border-radius: 8px 8px 0 0;
+  text-align: center;
+}
+.col-header.dem { color: #2563eb; background: rgba(37,99,235,0.08); border-bottom: 2px solid #2563eb; }
+.col-header.rep { color: #dc2626; background: rgba(220,38,38,0.08); border-bottom: 2px solid #dc2626; }
+
+.pol-list { display: flex; flex-direction: column; gap: 10px; padding-top: 12px; }
+
+.pol-item {
+  background: rgba(15,23,42,0.6);
+  border: 1px solid rgba(148,163,184,0.08);
+  border-radius: 10px;
+  padding: 16px;
+  transition: all 0.2s;
+}
+.pol-item:hover { border-color: rgba(148,163,184,0.2); background: rgba(15,23,42,0.8); }
+
+.pi-name { font-size: 15px; font-weight: 700; color: #f8fafc; margin-bottom: 2px; }
+.pi-state { font-size: 11px; color: #64748b; margin-bottom: 8px; }
+.pi-amount { font-size: 18px; font-weight: 800; color: #f59e0b; margin-bottom: 4px; }
+.pi-what { font-size: 12px; color: #94a3b8; line-height: 1.5; }
+
+/* Bottom line */
+.bottom-line {
+  background: rgba(15,23,42,0.7);
+  border: 1px solid rgba(148,163,184,0.1);
+  border-radius: 14px;
+  padding: 24px;
+  text-align: center;
+}
+.bl-label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.15em; color: #64748b; margin-bottom: 8px; }
+.bl-text { font-size: 18px; font-weight: 700; color: #f8fafc; line-height: 1.4; }
+
+.footnote { max-width: 900px; width: 100%; font-size: 11px; color: #3e4c5e; line-height: 1.6; margin-top: 28px; }
+
+@media (max-width: 700px) { .pol-columns { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>SAME DONOR, OPPOSITE POLITICIANS</h1>
+  <div class="subtitle">Pick a Donor. See Everyone They Fund. Both Parties.</div>
+  <div class="intro">
+    These donors don't pick sides — they pick winners. Select a donor below and see every politician they fund across both parties, what each one delivered, and why the donor class doesn't care which team wins.
+  </div>
+</div>
+
+<div class="donors" id="donors"></div>
+<div class="result" id="result"></div>
+
+<div class="footnote">
+  All figures from FEC filings, OpenSecrets, lobbying disclosures. "Received" includes PAC contributions, bundled individual contributions, and Super PAC spending in support where documented. Detailed receipts in The Donor Map vault.
+</div>
+
+<script>
+const DONORS = [
+  {
+    name: "Goldman Sachs",
+    type: "Wall Street / Investment Bank",
+    totalSpent: "$32M+ (recent cycles)",
+    desc: "Goldman doesn't pick a party — they pick the people who regulate them. Both Senate leaders, both parties' presidential nominees, and every member of the Banking and Finance committees receive Goldman money. The firm that was 'Too Big to Fail' ensures it's too connected to regulate.",
+    dems: [
+      { name: "Chuck Schumer", state: "D-NY", amount: "$707K", what: "Senate Majority Leader. Wall Street's home senator. Never advanced financial regulation that Goldman opposed. Top career recipient of securities/investment industry money in the Senate." },
+      { name: "Hillary Clinton", state: "D-NY", amount: "$675K", what: "2016 presidential nominee. Goldman speaking fees ($225K per speech x 3). Refused to release transcripts. Lost partly over perception of Wall Street capture." },
+      { name: "Cory Booker", state: "D-NJ", amount: "$277K", what: "Banking Committee member. Voted against drug imports. Joined Tim Scott on Opportunity Zones — a bipartisan gift to real estate investors and financial firms." },
+      { name: "Joe Biden", state: "D-DE", amount: "$215K+", what: "2020 nominee. Goldman employees were top bundlers. Biden's SEC made no major structural reforms to Wall Street after taking office." },
+    ],
+    reps: [
+      { name: "Ted Cruz", state: "R-TX", amount: "$277K+", what: "Wife Heidi worked at Goldman Sachs. Cruz took an unreported Goldman loan for his 2012 Senate campaign. Opposes all financial regulation while personally benefiting from Goldman services." },
+      { name: "Mitch McConnell", state: "R-KY", amount: "$250K+", what: "Senate Republican Leader. Blocked Dodd-Frank strengthening. Ensured carried interest loophole survived every tax reform negotiation." },
+      { name: "Mitt Romney", state: "R-UT", amount: "$235K+", what: "2012 presidential nominee. Former Bain Capital (Goldman client). The 'corporations are people' candidate. Goldman covered both sides of the 2012 presidential race." },
+      { name: "Tim Scott", state: "R-SC", amount: "$190K+", what: "Banking Committee member. Co-authored Opportunity Zones with Booker. Same donor, same committee, opposite parties, same policy outcome for Goldman's clients." },
+    ],
+    bottomLine: "Goldman Sachs gave to both the Democrat and the Republican on the Banking Committee. They gave to both parties' presidential nominees. They gave to both Senate leaders. The firm doesn't need to win an election — they need to win every election.",
+  },
+  {
+    name: "AIPAC",
+    type: "Israel Lobby / Political Action",
+    totalSpent: "$100M+ (2024 cycle)",
+    desc: "AIPAC is the only lobby that spends massively in BOTH parties' primaries — not just general elections. They don't just buy votes; they eliminate politicians who might vote differently. Their 2024 spending exceeded the NRA.",
+    dems: [
+      { name: "Ritchie Torres", state: "D-NY", amount: "$683K", what: "AIPAC's top Democratic champion. Leads pro-Israel messaging in the progressive caucus. Attacks any Democrat who questions unconditional aid." },
+      { name: "Shontel Brown", state: "D-OH", amount: "$4M+", what: "AIPAC spent millions to elect Brown over Nina Turner in the 2021 primary. Brown became a reliable pro-Israel vote in a district that might have sent a progressive critic." },
+      { name: "Josh Gottheimer", state: "D-NJ", amount: "$450K+", what: "Co-chair of the bipartisan Problem Solvers Caucus. Leads Democratic opposition to any conditions on Israel aid. Top AIPAC recipient in the House." },
+      { name: "Against: Jamaal Bowman", state: "D-NY", amount: "$14.5M against", what: "AIPAC/UDP spent $14.5M to defeat Bowman in his 2024 primary — the most expensive House primary in history. He lost." },
+    ],
+    reps: [
+      { name: "Ted Cruz", state: "R-TX", amount: "$350K+", what: "Leads Republican support for unconditional Israel aid. Opposes any humanitarian conditions. Cruz and Torres publicly disagree on everything except Israel." },
+      { name: "Marco Rubio", state: "R-FL", amount: "$200K+", what: "Now Secretary of State. Career-long AIPAC relationship. Introduced anti-BDS legislation. AIPAC invested in Rubio decades before he had cabinet-level power." },
+      { name: "Lindsey Graham", state: "R-SC", amount: "$175K+", what: "Armed Services Committee. Champions every Israel military aid package. Graham's hawkish foreign policy aligns perfectly with AIPAC's agenda." },
+      { name: "Mitch McConnell", state: "R-KY", amount: "$150K+", what: "Ensured Israel aid packages always receive floor votes. Used Senate rules to fast-track aid bills. Bipartisan on nothing except defense and Israel." },
+    ],
+    bottomLine: "AIPAC spent $14.5M to defeat ONE progressive Democrat (Bowman) while simultaneously funding Ted Cruz. They don't have a party — they have a policy, and they'll fund anyone who delivers it and destroy anyone who doesn't.",
+  },
+  {
+    name: "Koch Network",
+    type: "Dark Money / Fossil Fuel / Libertarian",
+    totalSpent: "$68M/year across all entities",
+    desc: "The Koch network is the largest dark money operation in American politics. While primarily Republican, they strategically fund Democrats who protect fossil fuel and deregulation interests — and they've spent against Republicans who break ranks.",
+    dems: [
+      { name: "Joe Manchin", state: "D-WV", amount: "AFP support", what: "Americans for Prosperity ran ads DEFENDING Manchin when he killed BBB. Koch's most valuable Democrat: he single-handedly protected fossil fuel subsidies from within the Democratic majority." },
+      { name: "Kyrsten Sinema", state: "I-AZ", amount: "AFP support", what: "Koch network publicly praised and defended Sinema when she blocked BBB and killed carried interest reform. She delivered more for Koch priorities than most Republicans." },
+      { name: "Henry Cuellar", state: "D-TX", amount: "Koch-aligned PAC support", what: "The most conservative House Democrat. Koch-aligned groups supported his primary against progressive Jessica Cisneros. Cuellar votes with fossil fuel interests consistently." },
+    ],
+    reps: [
+      { name: "Ted Cruz", state: "R-TX", amount: "$10M+ career", what: "Koch's Senate champion. Opposes all climate legislation, EPA authority, and energy regulation. Cruz received Koch support in his 2012 primary upset against the establishment candidate." },
+      { name: "Mike Lee", state: "R-UT", amount: "$8M+ career", what: "Koch libertarian favorite. Opposes federal land management, EPA authority, and government regulation across the board. Lee's entire policy agenda aligns with Koch priorities." },
+      { name: "Ron Johnson", state: "R-WI", amount: "$7M+", what: "AFP spent heavily to save Johnson's 2022 seat. Climate denier. Opposes all environmental regulation. Johnson delivered Koch's deregulation agenda in the Senate." },
+      { name: "Against: Liz Cheney", state: "R-WY", amount: "AFP opposition", what: "Koch-aligned groups supported Cheney's 2022 primary challenger. Even in deep-red Wyoming, the Koch network punishes Republicans who break ranks." },
+    ],
+    bottomLine: "The Koch network doesn't just fund Republicans — they defend Democrats like Manchin and Sinema who deliver fossil fuel protection, AND they punish Republicans like Cheney who step out of line. The network's loyalty is to policy outcomes, not party labels.",
+  },
+  {
+    name: "Fairshake PAC (Crypto)",
+    type: "Crypto Industry Bloc",
+    totalSpent: "$134M (2024 cycle — single largest corporate PAC)",
+    desc: "The crypto industry executed the most explicitly bipartisan corporate spending strategy in modern politics: spend exactly 50/50 on both parties. The result was regulatory capture from both directions simultaneously.",
+    dems: [
+      { name: "John Fetterman", state: "D-PA", amount: "$12M+ support", what: "Fairshake supported crypto-friendly Democrats to create bipartisan cover for deregulation. Fetterman's populist brand made crypto support look mainstream rather than corporate." },
+      { name: "Ruben Gallego", state: "D-AZ", amount: "$8M+ support", what: "Fairshake spent heavily in the Arizona Senate race. Gallego won. Crypto now has allies in both the Arizona and Pennsylvania Senate seats — both swing states." },
+      { name: "Democratic House candidates", state: "Various", amount: "$25M+", what: "Fairshake funded dozens of Democratic House candidates specifically chosen for crypto-favorable positioning, creating a bipartisan House majority for deregulation." },
+    ],
+    reps: [
+      { name: "Bernie Moreno", state: "R-OH", amount: "$10M+ support", what: "Fairshake's trophy kill: spent $40M total in Ohio to defeat Sherrod Brown, the Senate's top crypto skeptic. Moreno, a crypto-friendly Republican, replaced the biggest threat to the industry." },
+      { name: "Donald Trump", state: "R", amount: "Industry alignment", what: "Trump pivoted from calling crypto 'a scam' to promising to make America 'the crypto capital.' The industry's 2024 spending signaled that crypto deregulation was now bipartisan consensus." },
+      { name: "House GOP (swing seats)", state: "Various", amount: "$30M+", what: "Fairshake funded Republican candidates in competitive districts. Combined with Democratic spending, they built a working majority in the House for crypto-favorable legislation." },
+    ],
+    bottomLine: "The crypto industry spent $134M split perfectly 50/50 by party. They defeated the Senate's top critic (Brown) and built bipartisan majorities in both chambers. The SEC subsequently retreated from enforcement. Perfect capture, purchased from both directions.",
+  },
+  {
+    name: "Lockheed Martin",
+    type: "Defense Contractor (#1 by contract value)",
+    totalSpent: "$18.2M PAC + lobbying",
+    desc: "The world's largest defense contractor gives to every Armed Services and Appropriations Committee member in both parties. They don't need one party to win — they need both parties to keep increasing the defense budget. And both parties always do.",
+    dems: [
+      { name: "Jack Reed", state: "D-RI", amount: "$142K", what: "Senate Armed Services Chair. Co-authors every NDAA. Reed has never voted against a defense spending increase in his career. The 'reasonable Democrat' who ensures defense budgets are bipartisan." },
+      { name: "Adam Smith", state: "D-WA", amount: "$128K", what: "House Armed Services Chair (former). Even when Democrats controlled the House, Smith ensured defense spending increased. Publicly criticized Pentagon waste but voted for every budget." },
+      { name: "Mark Kelly", state: "D-AZ", amount: "$112K", what: "Armed Services member. Former fighter pilot and astronaut. Kelly's military credibility gives bipartisan cover to defense spending. Arizona has major Lockheed facilities (Missiles & Fire Control)." },
+    ],
+    reps: [
+      { name: "Roger Wicker", state: "R-MS", amount: "$148K", what: "Armed Services ranking member. Pushes for HIGHER spending than even the Pentagon requests. Ingalls Shipbuilding (Huntington, MS) is a Lockheed-connected facility and Wicker's top donor." },
+      { name: "Kay Granger", state: "R-TX", amount: "$138K", what: "Former House Appropriations Chair. Fort Worth district is home to the F-35 production line — the most expensive weapons program in history ($1.7T lifetime). Granger's entire district depends on Lockheed." },
+      { name: "Mike Rogers", state: "R-AL", amount: "$125K", what: "House Armed Services Chair. Alabama hosts major defense facilities. Rogers ensures every NDAA includes provisions that benefit Lockheed programs." },
+    ],
+    bottomLine: "Lockheed gives to the chairs AND ranking members of Armed Services in both chambers, both parties. The result: no NDAA has ever been voted down. The defense budget has increased every year regardless of which party controls Congress. $18.2M in → $886B out. That's a 450,000% return.",
+  },
+  {
+    name: "PhRMA",
+    type: "Pharmaceutical Lobby",
+    totalSpent: "$35M/year lobbying + PAC contributions",
+    desc: "The pharmaceutical industry spends more on lobbying than any other sector in America. They give to Democrats on health committees AND Republicans who oppose regulation. The goal: ensure no drug pricing reform ever passes, no matter who controls Congress.",
+    dems: [
+      { name: "Cory Booker", state: "D-NJ", amount: "$468K", what: "NJ is pharma HQ state. Booker voted AGAINST importing cheaper drugs from Canada in 2017 (Sanders amendment). Later reversed under pressure, but the vote failed. Pharma won." },
+      { name: "Bob Menendez", state: "D-NJ", amount: "$320K+", what: "Also NJ — both senators from the pharma capital received pharma money and both initially opposed drug pricing reform. Menendez later indicted on corruption charges (unrelated)." },
+      { name: "Joe Manchin", state: "D-WV", amount: "$280K+", what: "Manchin limited the IRA's drug negotiation provision to only 10 drugs initially. The industry wanted zero. Ten was the compromise. PhRMA considered this a major win." },
+      { name: "Chuck Schumer", state: "D-NY", amount: "$250K+", what: "Senate leader. PhRMA gives to leadership in both parties to ensure drug pricing bills never reach the floor — or arrive pre-weakened." },
+    ],
+    reps: [
+      { name: "Richard Burr", state: "R-NC", amount: "$507K", what: "NC Research Triangle is pharma country. Burr voted against every drug pricing reform for his entire career. Never pretended otherwise. PhRMA's honest investment." },
+      { name: "Bill Cassidy", state: "R-LA", amount: "$300K+", what: "HELP Committee ranking member. Physician-turned-senator who consistently sides with pharma on patent protections and opposes government negotiation." },
+      { name: "Richard Neal", state: "R-MA (D actually)", amount: "—", what: "" },
+      { name: "Brett Guthrie", state: "R-KY", amount: "$267K", what: "Energy & Commerce health subcommittee. Guthrie is pharma's gatekeeper in the House — legislation must pass through his subcommittee to reach the floor." },
+    ],
+    bottomLine: "PhRMA gave $468K to Booker (D) and $507K to Burr (R). Both voted against the same drug import amendment on the same day. Americans pay 2-3x what other countries pay for identical medications. The industry spends $35M/year to keep it that way — and it works, every time, through both parties.",
+  },
+  {
+    name: "Donald Trump's Donor Class",
+    type: "The donors who funded Trump AND his opponents",
+    totalSpent: "$1.5B+ flowed to Trump across 2016-2024",
+    desc: "Trump ran as the anti-establishment candidate who couldn't be bought. Then the establishment bought in. The donors who fund Trump also funded Clinton, Biden, and establishment Republicans. They didn't switch sides — they hedged. Every major Trump donor has a policy ask, and every one of them got paid.",
+    dems: [
+      { name: "Goldman Sachs → Clinton AND Trump", state: "", amount: "$675K to Clinton / Trump hired 3 GS execs", what: "Goldman gave $675K to Clinton in speaking fees and contributions. When Trump won, he appointed Steve Mnuchin (Goldman), Gary Cohn (Goldman), and Dina Powell (Goldman) to his administration. Goldman didn't lose the 2016 election — they won both sides." },
+      { name: "Stephen Schwarzman → GOP AND Dem donors", state: "Blackstone", amount: "$35M+ to Republicans", what: "Schwarzman's Blackstone is the world's largest PE firm. He funded Trump, but Blackstone employees and affiliated donors also give heavily to Democrats on the Finance Committee. Carried interest survived Trump's presidency despite his campaign promise to close it." },
+      { name: "Elon Musk → Obama, then Trump", state: "", amount: "$174M to America PAC (2024)", what: "Musk was an Obama supporter who benefited from $4.9B in government subsidies under Obama/Biden (Tesla, SpaceX, SolarCity). Then spent $174M to elect Trump in 2024. He didn't switch ideology — he followed the subsidies and government contracts to whoever would give him more." },
+      { name: "Peter Thiel → Trump AND Silicon Valley Dems", state: "", amount: "$32M+ to Trump orbit", what: "Thiel bankrolled JD Vance's Senate run and Trump's 2016 campaign. But Palantir — Thiel's surveillance company — has contracts with agencies under BOTH administrations. Thiel's political giving follows his government contract portfolio, not an ideology." },
+    ],
+    reps: [
+      { name: "Adelson Family", state: "", amount: "$250M+ to Trump/GOP", what: "Miriam Adelson gave $100M+ to Trump 2024 with a specific ask: Israel annexation support and online gambling regulation favorable to Sands casino interests. The largest single donor to any presidential candidate in 2024. This isn't ideology — it's a purchase order." },
+      { name: "Timothy Mellon", state: "", amount: "$200M (Trump + RFK Jr)", what: "Mellon gave $150M to MAGA Inc AND $50M to the RFK Jr super PAC simultaneously. He funded Trump's main campaign and his spoiler. Mellon's family fortune comes from banking and fossil fuels — he bought insurance on both disruption candidates." },
+      { name: "Jeffrey Yass", state: "", amount: "$46M to Club for Growth", what: "Yass is the richest man in Pennsylvania and TikTok's largest outside investor. He funded Club for Growth (anti-Trump) until Trump reversed his position on banning TikTok. Yass's $46M bought a policy reversal from a sitting president on a national security issue." },
+      { name: "Crypto Industry", state: "", amount: "$134M via Fairshake", what: "Trump called crypto 'a scam' in 2021. By 2024, he promised to make America 'the crypto capital.' The industry spent $134M across both parties, and Trump pivoted to match the money. His crypto policy is now written by the industry that paid for it." },
+    ],
+    bottomLine: "Trump's donor class includes Goldman Sachs executives in his cabinet, a casino billionaire with a $100M policy purchase order, a TikTok investor who bought a presidential policy reversal for $46M, and an apartheid emerald heir who spent $174M after receiving $4.9B in government subsidies. The 'anti-establishment' president was the most transactional in history — every donor got what they paid for.",
+  },
+  {
+    name: "Trump Admin ↔ Wall Street",
+    type: "The Goldman Sachs Government",
+    totalSpent: "Goldman alumni filled 6+ senior Trump positions",
+    desc: "Trump campaigned against Goldman Sachs in 2016 — literally ran ads attacking Ted Cruz's wife for working there. Then he filled his administration with more Goldman alumni than any president since the firm's founding. This isn't hypocrisy — it's how the donor class captures 'outsider' candidates.",
+    dems: [
+      { name: "Hillary Clinton", state: "D", amount: "$675K in Goldman speaking fees", what: "Goldman paid Clinton $225K per speech — three speeches in 2013. Trump attacked this relentlessly in 2016: 'She's owned by Wall Street.' He was right. Then he hired Goldman's people himself." },
+      { name: "Barack Obama", state: "D", amount: "Goldman was #2 Obama 2008 donor", what: "Goldman employees gave $1M+ to Obama 2008. Obama's Treasury Department declined to prosecute any Goldman executives after the 2008 financial crisis. Goldman paid $5B in settlements — a fraction of their profits." },
+      { name: "Joe Biden", state: "D", amount: "Goldman bundlers active 2020", what: "Goldman executives were active Biden bundlers in 2020. Biden's SEC under Gensler increased enforcement rhetoric but made no structural changes to Goldman's business model. The revolving door continued." },
+      { name: "Chuck Schumer", state: "D-NY", amount: "$707K career from Goldman", what: "Goldman's home senator. Schumer has been the top Senate recipient of Goldman money for two decades. He has never advanced legislation that would structurally threaten Goldman's business." },
+    ],
+    reps: [
+      { name: "Steve Mnuchin", state: "Treasury Secretary", amount: "17 years at Goldman", what: "Trump's Treasury Secretary spent 17 years at Goldman, then ran a bank that foreclosed on 36,000 homes during the financial crisis. He oversaw the 2017 TCJA tax cuts — Goldman saved $3B in the first year alone." },
+      { name: "Gary Cohn", state: "NEC Director", amount: "Goldman President & COO", what: "Trump's top economic advisor was Goldman's #2 executive. Cohn designed the tax reform that saved Goldman and Wall Street billions. He resigned over tariffs — not ethics — proving his loyalty was to markets, not Trump." },
+      { name: "Dina Powell", state: "Deputy Nat'l Security Advisor", amount: "Goldman partner", what: "Powell went from Goldman partner to Deputy National Security Advisor. After leaving the White House, she returned to Goldman as a senior executive. The revolving door completed in 18 months." },
+      { name: "Jay Clayton", state: "SEC Chairman", amount: "Sullivan & Cromwell (Goldman's law firm)", what: "Trump's SEC chair came from Goldman's primary outside law firm. He relaxed enforcement and reporting requirements. The fox guarding the henhouse — appointed by the 'anti-Wall Street' president." },
+    ],
+    bottomLine: "Trump attacked Goldman Sachs to win the election, then hired six Goldman alumni to run the economy. Goldman paid $675K for access to Clinton and got three cabinet-level appointments from Trump for free. The firm doesn't need to buy a president — they staff the government regardless of who wins.",
+  },
+];
+
+// Render donor buttons
+const donorsEl = document.getElementById('donors');
+DONORS.forEach((d, i) => {
+  const btn = document.createElement('div');
+  btn.className = 'donor-btn';
+  btn.innerHTML = `<div class="donor-btn-name">${d.name}</div><div class="donor-btn-type">${d.type}</div><div class="donor-btn-total">${d.totalSpent}</div>`;
+  btn.addEventListener('click', () => selectDonor(i, btn));
+  donorsEl.appendChild(btn);
+});
+
+function selectDonor(idx, btn) {
+  document.querySelectorAll('.donor-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+
+  const d = DONORS[idx];
+  const resultEl = document.getElementById('result');
+  resultEl.className = 'result visible';
+
+  const demCards = d.dems.filter(p => p.what).map(p => `
+    <div class="pol-item">
+      <div class="pi-name">${p.name}</div>
+      <div class="pi-state">${p.state}</div>
+      <div class="pi-amount">${p.amount}</div>
+      <div class="pi-what">${p.what}</div>
+    </div>
+  `).join('');
+
+  const repCards = d.reps.filter(p => p.what).map(p => `
+    <div class="pol-item">
+      <div class="pi-name">${p.name}</div>
+      <div class="pi-state">${p.state}</div>
+      <div class="pi-amount">${p.amount}</div>
+      <div class="pi-what">${p.what}</div>
+    </div>
+  `).join('');
+
+  resultEl.innerHTML = `
+    <div class="donor-header">
+      <div class="dh-name">${d.name}</div>
+      <div class="dh-total">${d.totalSpent}</div>
+      <div class="dh-desc">${d.desc}</div>
+    </div>
+
+    <div class="pol-columns">
+      <div>
+        <div class="col-header dem">DEMOCRATS FUNDED</div>
+        <div class="pol-list">${demCards}</div>
+      </div>
+      <div>
+        <div class="col-header rep">REPUBLICANS FUNDED</div>
+        <div class="pol-list">${repCards}</div>
+      </div>
+    </div>
+
+    <div class="bottom-line">
+      <div class="bl-label">THE BOTTOM LINE</div>
+      <div class="bl-text">${d.bottomLine}</div>
+    </div>
+  `;
+
+  resultEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+</script>
+</body>
+</html>

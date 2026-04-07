@@ -1,0 +1,67 @@
+---
+title: "The Biden Exit and Harris Installation"
+type: sub-note
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 2
+parent: [[_Nancy Pelosi Master Profile]]
+---
+
+
+#pelosi #biden #harris #2024 #class-analysis #follow-the-money #nomination #donor-class #anointment
+
+related: [[_Nancy Pelosi Master Profile]] · [[_Kamala Harris Master Profile]] · [[The Billion-Dollar Campaign - 2024 Finance]]
+donors: [[George Soros]], [[Michael Bloomberg]]
+
+---
+
+### The Biden Exit and Harris Installation (July 2024)
+
+Pelosi was the most powerful single actor in forcing Biden's withdrawal from the 2024 presidential race. Her role demonstrates the gatekeeper function at its highest level: one person, operating through private phone calls and institutional pressure, reshaping the presidential nomination.
+
+---
+
+### The Timeline
+
+**June 27, 2024:** Biden's disastrous debate performance against Trump. Pelosi began private conversations with senior Democrats about Biden's viability.
+
+**July 10, 2024:** Pelosi publicly urged Biden to "make a decision" on staying in the race, saying "time is running short." This was the first public pressure from Democratic leadership.
+
+**July 17, 2024:** In private phone calls, Pelosi told Biden she was pessimistic about his candidacy. Biden became "more receptive" to the message. Pelosi's leverage: she warned that a Biden loss would cost Democrats the House and Senate — making the argument about down-ballot races, not about Biden personally. This reframed the decision from personal pride to institutional survival.
+
+**July 18–20, 2024:** Biden met with senior advisors. Multiple sources reported Pelosi continued private pressure through intermediaries. Senior Democratic donors — many of whom Pelosi had raised money from for decades — communicated through back channels that funding would dry up if Biden stayed.
+
+**July 21, 2024:** Biden ended his campaign and endorsed [[_Kamala Harris Master Profile|Kamala Harris]].
+
+---
+
+### Process vs. Anointment
+
+> [!contradiction] The Rhetoric and the Reality
+> Pelosi publicly stated the nomination should include "a process, not an anointment." She told Harris directly: "It's important there's a process, we have a great bench."
+>
+> But when Biden endorsed Harris on July 21, the "process" evaporated:
+> - **First 24 hours:** $81 million in donations to Harris — the donor class had already decided
+> - **Within 48 hours:** Enough delegates committed to Harris to secure the nomination
+> - **Pelosi endorsed Harris** shortly after Biden's endorsement
+>
+> The "process" rhetoric served a function: it gave Pelosi cover to push Biden out without appearing to install his replacement. Once the donor class consolidated behind Harris ($81M in 24 hours), the process was irrelevant. Pelosi's role was to remove Biden. The donor class's role was to install Harris. Both functions operated as designed.
+
+---
+
+### The Donor Class Signal
+
+The speed of the consolidation behind Harris is analytically significant. $81 million in 24 hours doesn't happen through spontaneous individual decisions. It happens because the fundraising infrastructure — the bundler networks, the major donor contact lists, the Super PAC apparatus — was activated simultaneously. Pelosi's decades of fundraising relationships meant she was connected to every node in that network.
+
+See [[The Billion-Dollar Campaign - 2024 Finance]] for the full picture: Soros $60M, Bloomberg $50M+, Gates $50M, Hoffman $16.6M — all committed within days. The donor class didn't deliberate. It executed.
+
+---
+
+### Sources
+
+- [NBC News: Nancy Pelosi helped pressure Joe Biden to end his 2024 campaign](https://www.nbcnews.com/politics/2024-election/nancy-pelosi-helped-pressure-joe-biden-end-2024-campaign-rcna162943) (Tier 2)
+- [OpenSecrets: Kamala Harris drives record fundraising after Biden exit](https://www.opensecrets.org/news/2024/07/kamala-harris-drives-record-fundraising-after-biden-exit/) (Tier 1)
+- [Axios: Kamala Harris rakes in $81M in 24 hours after Biden's exit](https://www.axios.com/2024/07/22/kamala-harris-record-81-million-24-hours) (Tier 2)
+- [CNBC: Democratic donors push Biden to drop out as Kamala Harris events fill up](https://www.cnbc.com/2024/07/18/democratic-donors-biden-drop-out-kamala-harris.html) (Tier 2)
+
+content-readiness:: ready

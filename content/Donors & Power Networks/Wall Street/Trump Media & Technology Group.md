@@ -1,0 +1,61 @@
+---
+title: "Trump Media & Technology Group"
+type: corporation
+content-readiness: ready
+last-updated: 2026-04-06
+source-tier: 1
+parent: null
+sector: "Wall Street"
+entity-type: "Corporation"
+politicians-funded:
+  - "Donald Trump"
+federal-contracts: "960966"
+---
+
+#trump-media #truth-social #djt #stock #spac #media
+
+related: [[_Donald Trump Master Profile|Trump]] [[Trump Organization]] [[News Corp - Fox Corporation]]
+
+---
+
+### Who They Are
+
+Trump Media & Technology Group (TMTG). The publicly traded company (DJT on NASDAQ) that operates Truth Social, Trump's social media platform. TMTG went public in 2024 through a SPAC merger (Digital World Acquisition Corp), giving Trump a paper fortune of $3-5B+ at peak valuation while generating minimal revenue ($4M in 2023). The company's stock price functions as a de facto Trump political futures market — rising on positive political developments and falling on negative ones.
+
+TMTG's political significance is structural: the company gives Trump personal financial assets that fluctuate with his political fortunes, creating a direct financial incentive to generate the political engagement that drives stock price. TMTG's lock-up expiration (allowing Trump to sell shares) transformed the presidency into a personal profit center — policy announcements, legal developments, and political drama all affect Trump's personal wealth through DJT stock.
+
+> [!money]
+> Trump Media is the most innovative political monetization vehicle in American history: a publicly traded company whose stock price is a direct derivative of its founder's political power. DJT stock is not valued on revenue, earnings, or growth — it's valued on Trump's political momentum. This creates an unprecedented incentive structure: every policy announcement, political rally, and media controversy that boosts Trump's political standing also boosts his personal wealth. Trump Media has transformed political power into a tradeable financial asset — a monetization model that previous presidents could not have imagined.
+
+---
+
+### Sources
+
+- [SEC: Trump Media & Technology Group filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Trump%20Media%20%26%20Technology%20Group&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
+- [Ballotpedia: Trump Media](https://ballotpedia.org/Trump_Media_&_Technology_Group) (Tier 3)
+
+content-readiness:: ready
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 960966 |
+| Sample Value (top 25) | $293K |
+| Year Range | 2004-2021 |
+| Federal Agencies | 8 |
+
+**Contracting agencies:** COMMERCE, DEPARTMENT OF, DEPT OF DEFENSE, GENERAL SERVICES ADMINISTRATION, HEALTH AND HUMAN SERVICES, DEPARTMENT OF, HOMELAND SECURITY, DEPARTMENT OF, INTERIOR, DEPARTMENT OF THE, STATE, DEPARTMENT OF, TREASURY, DEPARTMENT OF THE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $29K | COMMERCE, DEPARTMENT OF | 2003-12-23 |
+| $29K | COMMERCE, DEPARTMENT OF | 2003-12-01 |
+| $12K | DEPT OF DEFENSE | 2007-12-21 |
+| $12K | DEPT OF DEFENSE | 2008-08-09 |
+| $4K | DEPT OF DEFENSE | 2006-09-01 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Trump%20Media%20%26%20Technology%20Group&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

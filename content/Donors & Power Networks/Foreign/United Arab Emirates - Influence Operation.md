@@ -1,0 +1,51 @@
+---
+title: "United Arab Emirates - Influence Operation"
+type: donor
+content-readiness: ready
+last-updated: 2026-03-24
+source-tier: 1
+parent: null
+sector: "Foreign Influence"
+entity-type: "Individual Donor"
+issues:
+  - "Technology"
+---
+
+#uae #foreign #lobbying #arms-sales #abu-dhabi #dubai #sovereign-wealth #tech
+
+related: [[Gulf State Money - Saudi Arabia, UAE, Qatar]] [[Saudi Arabia - Kingdom Investment]]
+
+---
+
+### Who They Are
+
+The United Arab Emirates. A federation of seven emirates (Abu Dhabi, Dubai, and five smaller states) with a combined GDP of $500 billion and sovereign wealth funds totaling $1.5+ trillion (Abu Dhabi Investment Authority: $990 billion; Mubadala: $300+ billion). The UAE has built the most sophisticated foreign influence operation in Washington after Israel and Saudi Arabia — spending $20-30 million annually on registered lobbying while cultivating commercial relationships that create corporate advocates.
+
+The UAE's influence model combines arms purchases ($23 billion F-35 sale announced 2020, later complicated), lobbying through former senior officials (the UAE's registered agents have included former members of Congress, former ambassadors, and former national security officials), and sovereign wealth fund investments in American tech companies, real estate, and financial institutions.
+
+---
+
+### What They Want
+
+Advanced U.S. weapons systems (F-35, drones, missile defense), diplomatic support for regional posture (against Iran, Muslim Brotherhood), favorable treatment in tech sector (AI, semiconductor access), reduced scrutiny of human rights record (labor practices, Yemen war involvement), and normalization with Israel (Abraham Accords, 2020).
+
+---
+
+### What They've Gotten
+
+**Abraham Accords Positioning:** The UAE's normalization agreement with Israel (2020) was the centerpiece of a diplomatic strategy that exchanged recognition of Israel for advanced U.S. weapons systems (the F-35 sale was linked to normalization), reduced congressional scrutiny of UAE human rights practices, and elevated the UAE's diplomatic status as a "moderate" Gulf state. The deal served all parties' interests: Israel gained diplomatic recognition, the UAE gained weapons access, and the Trump administration gained a foreign policy achievement.
+
+**Tech and AI Hub:** The UAE has positioned itself as a regional technology hub, with investments in AI (G42, a UAE AI company with close government ties), cloud computing, and semiconductor access. The UAE's lobbying has focused on ensuring continued access to advanced U.S. technology despite concerns about technology transfer to China (G42's previous relationship with Chinese companies raised security concerns addressed through divestiture requirements).
+
+> [!money]
+> The UAE's Washington influence operation demonstrates how sovereign wealth transforms into political power: $1.5+ trillion in sovereign wealth funds creates investment relationships with American corporations that become advocates for the UAE relationship. Every Mubadala investment in a U.S. tech company, every Abu Dhabi Investment Authority purchase of American real estate, creates a corporate stakeholder with an interest in maintaining favorable UAE-US relations. The lobbying operation ($20-30 million annually) provides direct access to policymakers, but the commercial relationships provide something more valuable: a constituency of American businesses that will oppose any policy that threatens the UAE relationship.
+
+---
+
+### Sources
+
+- [FARA: UAE foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1) (Tier 1)
+- [State Department: Abraham Accords](https://www.state.gov/the-abraham-accords/) (Tier 1)
+- [Ballotpedia: UAE-US relations](https://ballotpedia.org/United_Arab_Emirates_-_Influence_Operation) (Tier 3)
+
+content-readiness:: ready

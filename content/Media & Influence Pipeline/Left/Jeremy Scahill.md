@@ -1,0 +1,100 @@
+---
+title: "Jeremy Scahill"
+type: media-profile
+content-readiness: ready
+last-updated: 2026-04-01
+source-tier: 2
+parent: null
+category: left
+platform: substack
+related: "[[Drop Site News]] · [[Ryan Grim]] · [[First Look Media]] · [[Open Society Foundations]]"
+---
+
+#media-pipeline #left #drop-site #intercept #national-security #war-crimes #investigative #journalist
+
+
+---
+
+### Who They Are
+
+Investigative journalist and author. Co-founding editor of The Intercept (2014, with Glenn Greenwald and Laura Poitras, funded by Pierre Omidyar). Author of *Blackwater* (2007), *Dirty Wars* (2013 book + documentary), and *The Assassination Complex* (2015). Decades-long focus on U.S. military-industrial complex, CIA drone operations, war crimes, and covert operations. The Intercept departure in 2024 and immediate co-founding of Drop Site News with Ryan Grim represents the strongest evidence that Omidyar's funding created editorial constraints—unlike Grim, Scahill has the institutional credibility to make this claim stick.
+
+### The Funding Model
+
+Scahill's pre-Drop Site income combined magazine fees (The Nation contributor, 2005+), book royalties (*Blackwater*, *Dirty Wars*, *The Assassination Complex*), documentary film revenue (Dirty Wars directed by Richard Rowley), speaking engagements, and Intercept salary as co-founding editor. The *Blackwater* book was a bestseller (published 2007); *Dirty Wars* was both book and feature documentary (2013, premiered at SXSW). Scahill has been a regular at anti-war and investigative journalism conferences.
+
+The Intercept departure was contentious. During early 2024, as The Intercept faced $300K/month losses and Omidyar's financial control tightened, Scahill and Grim attempted to secure editorial control via board restructuring. The board refused. Scahill left and co-founded Drop Site News with Grim, immediately accepting undisclosed OSF funding ($250K) despite founding Drop Site explicitly to escape billionaire/foundation control.
+
+### FEC Record
+
+**Total:** $0 | **Contributions:** 0 | **API-verified:** 2026-04-01
+
+No FEC individual contributions found. The FEC API returns 0 results for "SCAHILL, JEREMY" — confirmed no contributions. Scahill's political influence operates through investigative journalism and media authority rather than campaign finance.
+
+- [FEC API: Jeremy Scahill individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=SCAHILL%2C+JEREMY&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+
+### Who Funds Them
+
+**The Intercept (2014-2024):** Co-founding editor salary within Omidyar's structure; estimated $100K-$150K annually based on editorial seniority. Total compensation over decade approximately $1.2M+ from Omidyar funding.
+
+**Book royalties:** *Blackwater* (2007) has sold 200K+ copies; *Dirty Wars* (2013) also bestselling; estimated cumulative royalties $500K-$1M+ over 15+ years.
+
+**Documentary film:** *Dirty Wars* (2013) directed by Richard Rowley; Scahill as subject and producer; revenue from festival circulation, streaming, DVD sales (modest for documentary).
+
+**Drop Site News (post-2024):** Co-founder salary from subscriber revenue and foundation grants; exact amount undisclosed.
+
+**Open Society Foundations:** Indirect funding through Drop Site's $250K undisclosed MENA desk grant (2024).
+
+### What They Push
+
+Scahill's signature: exposing U.S. military-industrial complex through meticulous investigation of CIA operations, drone warfare, private military contractors (Blackwater), and covert interventions. At The Intercept, he was the outlet's most credentialed national security journalist. His departure was framed as editorial independence crisis—Omidyar was tightening financial control, dampening aggressive reporting, and constraining coverage of Gaza. Scahill's claim: The Intercept had become captured. His solution: Drop Site News.
+
+At Drop Site, Scahill has expanded beyond U.S. national security to include Gaza/Palestine coverage, Ecuador investigations, Pakistan reporting—maintaining the anti-imperialism lens while diversifying geographic focus. His authority effect is maximum: he wrote the definitive book on Blackwater contractors; he broke major stories on CIA kill lists; he has decades of institutional credibility.
+
+### Class Analysis
+
+Scahill is the most credentialed anti-war journalist on the American left. His departure from The Intercept over donor capture is the strongest evidence that Omidyar's funding created editorial constraints—precisely because Scahill has the track record and reputation to make this claim and have it believed. Unlike Grim, Scahill does not need to prove credibility; his books and documentaries are his credential.
+
+The structural question is whether Scahill genuinely escaped capture by leaving The Intercept, or whether he simply exchanged Omidyar's billionaire control for foundation control (OSF) plus subscriber dependency. His founding narrative says the former. The funding structure says the latter. Scahill's reputation allows him to make claims about editorial independence with credibility others cannot access—but that credibility does not change the structural dynamics of how non-corporate journalism gets funded.
+
+### Capture Architecture
+
+**Platform:** Substack + Drop Site News website
+
+**Primary funders:** Subscribers (est. 50%+) + [[Open Society Foundations]] ($250K MENA desk grant, undisclosed)
+
+**Income dependency:** Drop Site co-founder salary; potential equity upside if outlet grows
+
+**Editorial anchor:** National security, CIA operations, war crimes, Gaza, anti-imperialism
+
+**Structural vulnerability:** The outlet's founding was response to Omidyar's editorial constraint. Accepting OSF funding weeks later suggests either: (a) Scahill/Grim genuinely believed foundation money is categorically different from billionaire control (it isn't—different concentration, same class), or (b) they rationalized it as necessary to launch. Either way, the contradiction between founding narrative and funding reality undermines claims about independence.
+
+### Timeline
+
+| Date | Event | Key Players | Amount | Significance |
+|------|-------|-------------|--------|--------------|
+| 2005 | Jeremy Scahill begins contributing to The Nation magazine | Scahill, The Nation | Per-article fees | Entry into national security journalism; builds reputation on military-industrial complex coverage |
+| 2007 | *Blackwater* published | Scahill, Hachette | Book royalties (est. $500K+) | Bestselling investigative book; Scahill becomes definitive voice on private military contractors |
+| 2013 | *Dirty Wars* published (book + documentary) | Scahill, Rowley (director) | Film/book revenue | Feature documentary premiered at SXSW; expanded Scahill's media footprint beyond journalism |
+| 2014 | The Intercept launches; Scahill becomes co-founding editor | Omidyar, Greenwald, Poitras, Scahill | First Look Media funding ($250M pledge) | Omidyar pledges $250M; Scahill joins as co-founding editor; operates within billionaire-funded structure |
+| 2015 | *The Assassination Complex* published | Scahill, Greenwald, et al. | Intercept reporting + book | Collaboration between Intercept team; Snowden documents on CIA drone kill lists |
+| Late 2022 | Omidyar withdraws support from The Intercept | Omidyar, board | N/A | Financial crisis begins; Scahill observes tightening control and diminishing editorial independence |
+| April 2024 | The Intercept losses reach $300K/month; CEO restructuring announced | Leadership | N/A | Financial pressure triggers editorial consolidation; Scahill/Grim plan departure |
+| June 2024 | Scahill and Grim attempt board takeover to secure editorial control; board declines | Scahill, Grim, Intercept board | N/A | Control bid fails; resignations negotiated. Scahill's critique: editorial independence requires escaping donor control |
+| July 8, 2024 | Drop Site News launches | Grim, Scahill | $250K+ (OSF grant + transition funding) | New outlet positioned as answer to Intercept's Omidyar capture; immediately accepts undisclosed OSF funding |
+| 2024 | Open Society Foundations awards $250K MENA desk grant (undisclosed) | OSF, Drop Site | $250K | Foundation explicitly funds geographic coverage—same focus that subscriptions fund. Grant not publicly disclosed. |
+| November 2025 | OSF grant exposure in Washington Free Beacon | Free Beacon, OSF, Drop Site | $250K (revealed) | One year after award, undisclosed foundation funding becomes public; editorial independence claim complicated |
+
+> [!money]
+> **The Intercept departure as funder-influence evidence:** Scahill left The Intercept claiming Omidyar's tightening control was dampening aggressive reporting. This is the strongest evidence in the vault that Omidyar's funding created editorial constraints—because Scahill has the institutional credibility to make this claim and have it believed. However, Scahill's immediate acceptance of undisclosed OSF funding ($250K within months) suggests he either misunderstands the structural dynamics of philanthropic capture, or he rationalized it as necessary for launch. Either way, his departure proves donor control exists (his critique of Intercept is credible), while his funding choices prove he did not escape it (foundation money is donor control by another mechanism). This is not hypocrisy—Scahill is genuinely anti-imperialism committed—but structural inevitability: independent journalism requires capital, and the only available capital comes from foundations. Scahill's reputation allows him to secure that capital while others cannot.
+
+### Sources
+
+- [Jeremy Scahill — Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Scahill) (Tier 2)
+- [*Blackwater* — Amazon / Publishing Records](https://www.amazon.com/Blackwater-Rise-World-Most-Powerful/dp/0374530033) (Tier 2)
+- [Dirty Wars (film) — SXSW / IMDb](https://www.imdb.com/title/tt2490374/) (Tier 2)
+- [Semafor: Money woes and staff issues strain The Intercept](https://www.semafor.com/article/06/02/2024/money-woes-staff-issues-strain-the-intercept) (Tier 2)
+- [Washington Free Beacon: Soros bankrolling anti-Israel Drop Site News](https://freebeacon.com/media/exclusive-soros-bankrolling-anti-israel-drop-site-news/) (Tier 4)
+- [Drop Site News — Jeremy Scahill](https://www.dropsitenews.com/author/jeremy-scahill/) (Tier 2)
+
+content-readiness:: developed

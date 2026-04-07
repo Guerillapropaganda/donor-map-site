@@ -1,0 +1,119 @@
+---
+title: "Bill Pulte"
+type: politician
+content-readiness: draft
+last-updated: 2026-04-02
+source-tier: 1
+parent: null
+party: "Republican"
+chamber: "Cabinet"
+issues:
+  - "Housing"
+---
+
+#politician #republican #trump-cabinet #fhfa #housing #fannie-mae #freddie-mac #gao-probe #class-analysis #follow-the-money
+
+related: [[National Rental Home Council]] · [[National Multifamily Housing Council]] · [[Donald Trump]]
+
+---
+
+### Sub-Notes
+
+None yet. Potential sub-notes: GAO probe, politically motivated mortgage fraud referrals, FHFA weaponization, Twitter philanthropy.
+
+---
+
+### Who They Are
+
+Bill Pulte (born May 28, 1988, Michigan/Washington, D.C.) is the grandson of PulteGroup founder William J. Pulte. He founded Pulte Capital Partners (2011), a private equity firm in building products ($30M revenue by 2014). He gained fame for "Twitter philanthropy" — giving away money to followers starting in 2019. He served on the PulteGroup board (2016–2020) and founded the Blight Authority (2015) for urban renewal. Confirmed as FHFA Director 56–43 in March 2025. Estimated net worth: $100–105M.
+
+---
+
+### The Central Thesis
+
+Pulte is a trust fund heir who leveraged inherited wealth into a political brand (Twitter philanthropy, Trump loyalty) and then into a regulatory position (FHFA Director) where he controls Fannie Mae and Freddie Mac — the entities that backstop the entire U.S. housing market. His tenure has been marked by the weaponization of regulatory authority: using FHFA's power to refer Trump critics to the DOJ for mortgage fraud investigations. He represents the donor-class capture of a regulatory agency — not through industry lobbying, but through direct installation of a political loyalist.
+
+---
+
+### The Core Contradiction
+
+> [!contradiction]
+> Pulte built a public brand around generosity (Twitter philanthropy, giving away money to followers) while using his regulatory position to punish political opponents. The man who tweeted $100 bills to strangers now wields federal mortgage oversight as a weapon against Trump critics — referring New York AG Letitia James, Rep. Adam Schiff, Fed Governor Lisa Cook, and Rep. Eric Swalwell to the DOJ.
+
+---
+
+### Donor Class Map
+
+> [!money] Follow the Money
+> Pulte is a heavy Republican donor and close Trump ally. His political spending operates through personal donations and LLC structures. A $500K contribution via LLC to a pro-Trump PAC in 2021 was alleged to be an illegal conduit donation.
+
+### Known political spending:
+- $500K via LLC to pro-Trump PAC (2021) — alleged illegal conduit donation
+- Close Trump ally with personal relationship
+- Republican donor (specific federal contribution records need FEC API pull)
+
+### Suspicious financial activity:
+- Team Pulte Inc. (philanthropic foundation) funded with $200K
+- Team Pulte made $65K donation to One World Love LLC (2023) — questioned as potential conduit for Trump-related legal funds
+
+### Net worth sources:
+- Pulte Capital Partners (private equity, building products)
+- PulteGroup board compensation (2016–2020)
+- Family wealth (PulteGroup founder's grandson)
+
+---
+
+### Donation-to-Policy Timeline
+
+| Date | Money In | Amount | Policy Out | Time Gap |
+|------|----------|--------|------------|----------|
+| 2021 | LLC contribution to pro-Trump PAC | $500K | Trump loyalty demonstrated | Ongoing |
+| Jan 2025 | Political loyalty | N/A | Nominated as FHFA Director | ~4 years |
+| Mar 2025 | Confirmed FHFA Director | N/A | Controls Fannie Mae and Freddie Mac | Direct |
+| Apr 2025 | FHFA power | N/A | Referred NY AG Letitia James to DOJ for mortgage fraud | ~1 month |
+| Jul 2025 | FHFA power | N/A | Referred Rep. Adam Schiff to DOJ | ~4 months |
+| Aug 2025 | FHFA power | N/A | Referred Fed Governor Lisa Cook to DOJ | ~5 months |
+| Nov 2025 | FHFA power | N/A | Referred Rep. Eric Swalwell to DOJ; pushed ouster of U.S. Attorney Erik Siebert | ~8 months |
+
+---
+
+### Policy Area Notes
+
+No sub-notes built yet. Key policy areas:
+- FHFA weaponization (politically motivated DOJ referrals)
+- GAO probe (opened December 2025)
+- 50-year mortgage proposal (November 2025, retracted January 2026)
+- Fannie Mae/Freddie Mac oversight
+- Clash with Treasury Secretary Scott Bessent
+- Pressure on Federal Reserve Chair Jerome Powell (early 2026)
+
+---
+
+### Rhetorical Signature Moves
+
+Pulte uses populist framing — "fighting fraud," "protecting taxpayers" — to justify politically motivated actions. The mortgage fraud referrals are framed as regulatory enforcement rather than political retaliation. His Twitter persona (generous, direct, man-of-the-people) provides cover for wielding institutional power on behalf of a political faction.
+
+---
+
+### Analytical Patterns
+
+- **Donor-Class Override** — Pulte uses FHFA regulatory authority to serve Trump's political interests rather than housing market stability. The DOJ referrals target Trump critics, not actual fraud patterns.
+- **Self-Funding as Independence** — His $100M+ net worth from family wealth and private equity provides financial independence, but his policy actions serve Trump's political loyalty test rather than independent judgment.
+- **Villain Framing** — Trump critics referred to DOJ are framed as "mortgage fraudsters," converting political opposition into criminal allegations.
+
+---
+
+### Sources
+
+- [Wikipedia: Bill Pulte](https://en.wikipedia.org/wiki/Bill_Pulte) (Tier 4)
+- [Detroit Chamber: Bill Pulte bio](https://www.detroitchamber.com/bios/bill-pulte/) (Tier 3)
+- [Mother Jones: Pulte charity mystery, Trump J6 defendants](https://www.motherjones.com/politics/2026/02/bill-pulte-donald-trump-jan-6-defendants-donation-charity-mystery/) (Tier 2)
+- [Yahoo Finance: Pulte net worth](https://finance.yahoo.com/news/bill-pulte-net-worth-2025-035242434.html) (Tier 3)
+- [Axios: Pulte GAO probe over mortgage fraud referrals](https://www.axios.com/2025/12/04/pulte-trump-gao-probe-mortgage-fraud) (Tier 2)
+- [Axios: Pulte Jerome Powell DOJ referral](https://www.axios.com/2026/01/12/bill-pulte-housing-regulator-jerome-powell-doj) (Tier 2)
+- [CNN: GAO investigation into Pulte mortgage referrals](https://www.cnn.com/2025/12/04/business/government-accountability-office-investigation-bill-pulte-mortgage-referrals) (Tier 2)
+
+---
+
+profile-status:: draft
+content-readiness:: draft

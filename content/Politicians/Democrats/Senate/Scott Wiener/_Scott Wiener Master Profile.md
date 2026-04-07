@@ -1,0 +1,121 @@
+---
+title: "Scott Wiener"
+type: politician
+content-readiness: draft
+last-updated: 2026-04-02
+source-tier: 1
+parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "California"
+state-abbr: "CA"
+issues:
+  - "Housing"
+  - "Technology"
+---
+
+#politician #democrat #california #state-senate #housing #yimby #tech #lgbtq #class-analysis #follow-the-money
+
+related: [[National Multifamily Housing Council]] · [[Real Estate Donors]]
+
+---
+
+### Sub-Notes
+
+None yet. Potential sub-notes: Real estate donor relationships, SB 35/SB 50 housing legislation, AI regulation (SB 1047), Congressional campaign.
+
+---
+
+### Who They Are
+
+Scott Wiener (born May 11, 1970, San Francisco) represents California's 11th Senate District (San Francisco and parts of San Mateo County) since 2016. Previously served on the SF Board of Supervisors representing Harvey Milk's former District 8. Harvard Law graduate. Chairs the Senate Budget & Fiscal Review and Elections Committees. Co-chaired the CA Legislative Jewish Caucus (stepped down February 2026). A prominent LGBTQ legislator who has authored over 100 bills on housing, transit, climate, and technology. Running for Congress (CA-11) with $2.78M raised and $2.27M cash on hand.
+
+---
+
+### The Central Thesis
+
+Wiener is the YIMBY movement's legislative champion — a pro-housing Democrat whose landmark bills (SB 35, SB 50, SB 827) have reshaped California development policy. But his funding reveals the core tension: over $500K from real estate interests across his career. He serves the progressive constituency's desire for more housing while also serving real estate developers' desire for fewer regulatory barriers to construction. These interests align on housing supply but diverge on tenant protections, rent control, and the question of who profits from new construction.
+
+---
+
+### The Core Contradiction
+
+> [!contradiction]
+> Wiener champions housing affordability while receiving $500K+ from real estate developers. His bills streamline housing approvals (good for tenants who need more supply) but also remove regulatory barriers that developers find costly (good for developer profits). He is simultaneously praised by YIMBYs for increasing housing production and criticized by tenant advocates who see him as too developer-friendly. The question is whether "build more housing" serves tenants or developers more — and Wiener's funding suggests the answer his donors are betting on.
+
+---
+
+### Donor Class Map
+
+> [!money] Follow the Money
+> Wiener's congressional campaign has raised $2.78M with $2.27M cash on hand. His career fundraising shows significant real estate sector funding — $500K+ from real estate interests, drawing criticism from housing activists.
+
+### Congressional campaign (CA-11, launched 2025):
+- Raised: $2.78M
+- Cash on hand: $2.27M
+
+### Career funding patterns:
+- Real estate interests: $500K+ across career
+- Endorsements: California Democratic Party, LGBTQ Victory Fund, EMILY's List, tech industry donors
+
+### Key endorsements:
+- California Democratic Party (2026 congressional race)
+- LGBTQ Victory Fund
+- EMILY's List
+
+---
+
+### Donation-to-Policy Timeline
+
+| Date | Money In | Amount | Policy Out | Time Gap |
+|------|----------|--------|------------|----------|
+| Career | Real estate developers | $500K+ | SB 35 (streamlined housing approvals), SB 827, SB 50 (transit-oriented density) | Ongoing |
+| Career | Tech industry donors | Undisclosed | SB 1047 (AI regulation — vetoed by Newsom) | Ongoing |
+
+---
+
+### Policy Area Notes
+
+No sub-notes built yet. Key policy areas:
+- Housing (SB 35, SB 50, SB 827 — pro-density, streamlined approvals)
+- AI regulation (SB 1047, vetoed by Newsom)
+- Psychedelic therapy legalization
+- Anti-conversion therapy legislation
+- LGBTQ rights
+- Congressional campaign (CA-11)
+
+---
+
+### Rhetorical Signature Moves
+
+Wiener uses technocratic framing — "supply and demand," "evidence-based housing policy," "cutting red tape" — that appeals to both progressive urbanists and developer interests. This language obscures the distributional question: more housing built by whom, for whom, at what price point? He positions opposition to his bills as NIMBYism, which is effective but collapses legitimate tenant protection concerns into bad-faith obstructionism.
+
+---
+
+### Analytical Patterns
+
+- **Genuine Win + Structural Limit** — His housing bills genuinely increase supply, but stop short of requiring affordability mandates that would threaten developer profit margins.
+- **Two-Audience Problem** — One message for YIMBY activists and housing advocates (more housing, lower rents), another message implicit in his donor relationships (fewer regulations, higher returns on development).
+
+---
+
+### Sources
+
+- [Senator Wiener: Biography](https://sd11.senate.ca.gov/biography) (Tier 1)
+- [Wikipedia: Scott Wiener](https://en.wikipedia.org/wiki/Scott_Wiener) (Tier 4)
+- [Ballotpedia: Scott Wiener](https://ballotpedia.org/Scott_Wiener) (Tier 3)
+- [FEC: Wiener congressional campaign](https://www.fec.gov/data/committee/C00909283/) (Tier 1)
+- [OpenSecrets: Wiener contributors 2024](https://www.opensecrets.org/officeholders/scott-wiener/contributors?cycle=2024&id=32203683) (Tier 1)
+- [OpenSecrets: Wiener contributors 2017](https://www.opensecrets.org/officeholders/scott-wiener/contributors?cycle=2017&id=32203683) (Tier 1)
+- [Housing is a Human Right: Wiener real estate money ties](https://www.housingisahumanright.org/selling-out-california-scott-wiener-money-ties-to-big-real-estate/) (Tier 2)
+- [Scott Wiener: Campaign platform](https://www.scottwiener.com/platform) (Tier 3)
+- [Lawfare: Wiener on SB 53](https://www.lawfaremedia.org/article/scaling-laws--sen.-scott-wiener-on-california-senate-bill-53) (Tier 2)
+- [Forward: Wiener steps down from Jewish Caucus](https://forward.com/fast-forward/799791/facing-backlash-after-accusing-israel-of-genocide-scott-wiener-steps-down-as-calif-jewish-caucus-co-chair/) (Tier 2)
+- [SF Chronicle: Wiener and Pelosi endorsement](https://www.sfchronicle.com/politics/article/scott-wiener-democrats-nancy-pelosi-21360874.php) (Tier 2)
+- [NYT: Pelosi and Wiener congressional race](https://www.nytimes.com/2025/10/22/us/pelosi-congress-scott-wiener.html) (Tier 2)
+- [The Advocate: Wiener endorsed by five organizations](https://www.advocate.com/politics/scott-wiener-endorsed-five-organizations) (Tier 3)
+
+---
+
+profile-status:: draft
+content-readiness:: draft

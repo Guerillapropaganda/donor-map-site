@@ -1,0 +1,176 @@
+---
+title: "Ron DeSantis Master Profile"
+type: politician
+content-readiness: ready
+last-updated: 2026-04-06
+source-tier: 1
+parent: null
+party: "Republican"
+chamber: "Governor"
+state: "Florida"
+state-abbr: "FL"
+top-donors:
+  - "Kenneth Griffin"
+  - "Koch Network - Charles Koch"
+  - "Fossil Fuel Bloc"
+  - "Club for Growth"
+  - "Lennar Corporation"
+total-received: "$375,129"
+fec-candidate-id: "P40013039"
+---
+
+#desantis #governor #florida #republican #culture-war #anti-woke #class-analysis #follow-the-money #failed-2024 #tax-haven #disney #donor-capture #presidential-2028
+
+related: [[_Donald Trump Master Profile]] · [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Elon Musk]] · [[_Gavin Newsom Master Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[The Disney War and the Limits of Culture War Governance]]
+
+donors: [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Club for Growth]] · [[Lennar Corporation]]
+
+profile-status:: ready
+
+---
+---
+
+### Who He Is
+
+[[_Ron DeSantis Master Profile|Ron DeSantis]]. Born September 14, 1978, Jacksonville, Florida. Republican Governor of Florida since January 2019 (first term), reelected by 19 points in 2022. Yale undergraduate, Harvard Law. Navy JAG officer (Guantanamo Bay legal advisor, Iraq deployment). U.S. Representative, Florida's 6th District (2013–2018). Failed 2024 presidential candidate — dropped out January 21, 2024, after winning zero states and burning through the most expensive failed primary campaign per vote in modern history. Endorsed [[_Donald Trump Master Profile|Donald Trump]] the same day he suspended. Widely discussed as a 2028 presidential candidate as his governorship term ends.
+
+---
+
+### The Central Thesis
+
+> DeSantis is the donor class's backup plan. When Trump became criminally indicted and legally toxic heading into 2024, billionaires like Ken Griffin ($5M+ to DeSantis's 2022 reelection), the Koch network, and [[Club for Growth|Club for Growth]]-aligned donors rallied behind DeSantis as the disciplined alternative who would deliver the same deregulation, tax structure, and judicial appointments without the chaos. His 2024 primary collapse — $158.5M raised and spent by campaign and Never Back Down super PAC combined, zero primary victories, $2,263 cost-per-vote in Iowa — revealed a fundamental truth: donor-class money can build infrastructure but cannot manufacture grassroots political connection. The culture war agenda (Don't Say Gay, Disney fight, anti-woke crusade) was the marketing campaign. The deregulation, billionaire tax haven, and corporate-friendly policy structure of Florida was the product being sold.
+
+---
+
+### The Core Contradiction
+
+> [!contradiction]
+> DeSantis ran as an anti-establishment populist fighting "woke corporations" and elite power. His campaign was funded almost entirely by elites — 70% maxed-out donors, a $130M+ super PAC backed by hedge fund billionaires and fossil fuel executives. He picked a fight with Disney as his signature "anti-corporate" moment — then settled in March 2024 on terms that preserved Disney's core autonomy. He was the "anti-chaos" alternative to Trump — then his campaign imploded in internal chaos (Never Back Down saw multiple senior leadership departures and transfers out of $9.6M to a splinter group, Fight Right). The culture war was not the product. The product is Florida as a billionaire tax haven — no income tax, no estate tax — that attracted Ken Griffin's Citadel headquarters, crypto firms, and hedge funds. DeSantis didn't fight woke corporations. He built the state structure that attracted them.
+
+---
+
+### Donor Class Map
+
+### The Citadel-Griffin Axis:
+- [[Kenneth Griffin]] — Donated $5M to DeSantis's 2022 reelection (largest individual contribution). Gave $5M to Republican Party of Florida. Early 2023: pledged presidential support. By September 2023: publicly sat out the primary, stating he didn't understand DeSantis's Disney strategy. Griffin's Citadel relocated headquarters from Chicago to Miami in 2022 — a direct beneficiary of Florida's zero-income-tax structure DeSantis maintained.
+
+### The [[Koch Network - Charles Koch|Koch Network]]:
+- [[Koch Network - Charles Koch]] — [[Americans for Prosperity|Americans for Prosperity]] initially courted DeSantis before pivoting to [[_Nikki Haley Master Profile|Nikki Haley]] ($31M+ via AFP Action for Haley). The Koch pivot exemplifies the donor class's instrumental rationality: they backed DeSantis as Trump alternative, then upgraded to Haley when DeSantis's poll numbers collapsed. Koch's abandonment accelerated the narrative of DeSantis's unelectability.
+
+### Never Back Down — The PAC Implosion:
+- Never Back Down super PAC raised $145M+, spent $131M in 2023 alone. Structurally unusual: DeSantis effectively outsourced his campaign to the PAC, operating the entire ground game, travel, and voter contact through what was nominally an "independent" entity. Multiple senior officials resigned or were fired. The group transferred $9.6M to Fight Right in a factional split. The experiment proved that campaign outsourcing to a super PAC cannot replace the candidate's own political skills.
+
+### Fossil Fuel Donors:
+- Four of DeSantis's top 10 individual donors in 2022 came from the fossil fuel sector. Florida Power & Light and utility industry contributed ~$10M in the 2022 cycle. League of Conservation Voters lifetime score as congressman: 2%.
+
+### [[Club for Growth]]:
+- The Club commissioned internal polling showing DeSantis beating Trump in Iowa and New Hampshire (November 2022), a document designed to boost DeSantis's viability before he launched. Hosted donor retreats featuring DeSantis. Never formally endorsed but positioned DeSantis as the viable Trump alternative.
+
+---
+
+### What Donors Wanted vs. What They Got
+
+> [!money]
+> **The ask:** A disciplined Republican governor with Trump's culture-war appeal, without Trump's legal liabilities, personality disorder, and tendency to turn on his own donors. A vessel for deregulation, tax policy, and judicial appointments. Florida's zero-tax structure maintained. Corporate regulatory structure preserved.
+>
+> **The result:** Zero primary victories. $158.5M burned. Griffin sat out. Koch pivoted to Haley. DeSantis endorsed Trump — the candidate his donors spent $130M trying to replace — on the same day he dropped out.
+>
+> **What Florida got:** The tax haven consolidation was the most durable donor-class win. No income tax, no estate tax. Griffin relocated Citadel from Chicago to Miami. Crypto firms followed. The anti-woke legislation (Stop WOKE Act, DEI bans, book removals) generated national headlines but produced no specific donor returns beyond cultural signaling. The Disney fight generated the most political cost for the least policy result — a settled lawsuit that preserved Disney's essential autonomy.
+
+---
+
+### Donation-to-Policy Timeline
+
+#### Koch Network / Wall Street
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| 2018-11 | [[Koch Network - Charles Koch|Koch Network]], [[Paul Singer]], Wall Street donors + Trump endorsement | $20M+ for first gubernatorial run | 2018 | DeSantis defeats Gillum by 0.4% — narrowest FL gubernatorial margin in history; Koch/Trump coalition proves sufficient |
+| 2023-Q2 | Koch-affiliated [[Americans for Prosperity]] + Robert Uihlein | $100M+ pledged for 2024 presidential | 2023 | DeSantis campaigns on Koch priorities: spending cuts, education privatization, anti-"woke" corporate culture |
+| 2024-01 | Koch Network (withdrawal) | $0 — Koch abandons DeSantis, pivots to [[_Nikki Haley Master Profile|Haley]] | 2023-Q3 (after poor Iowa polls) | DeSantis drops out; Koch treats candidates as portfolio investments — dropped when ROI deteriorates |
+
+#### Mega-Donors / MAGA
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| 2021-2022 | [[Timothy Mellon]] ($10M+) + Koch Network ($15M+) | $25M+ | 2020-2021 | Signs "Don't Say Gay" (HB 1557), Stop WOKE Act, election law restrictions — Christian nationalist and MAGA donor priorities satisfied |
+| 2022-09 | [[Timothy Mellon]] (anti-immigration focus) | Part of $10M+ | 2020-2021 | DeSantis flies migrants to Martha's Vineyard — stunt generates national attention and MAGA fundraising; Mellon's donation pays for optimal donor-activation content |
+
+#### Florida Real Estate / Development
+
+| Date | Donor | Amount | Given | Policy Outcome |
+|------|-------|--------|-------|----------------|
+| 2022-11 | Florida real estate developers + Ron Book lobbying network | $5M+ | 2022 | DeSantis wins re-election by 19 points — transforms to national frontrunner; tax haven consolidation (no income tax, no estate tax) is the most durable donor-class win |
+
+> [!money] The Damning Sequences
+> **Koch $100M → abandoned:** Largest Koch presidential investment in history — abandoned when DeSantis polled below 15% in Iowa. Koch treats candidates as portfolio investments. DeSantis learned [[_Rand Paul Master Profile|Rand Paul]]'s 2016 lesson.
+>
+> **Disney retaliation:** DeSantis dissolved Reedy Creek after Disney opposed "Don't Say Gay." Use state power to punish donor class defectors, reward loyalists. Governance as donor discipline.
+>
+> **Mellon $10M → immigration theater:** Mellon's anti-immigration donations align precisely with migrant-transport stunts. The policy is the fundraising content.
+
+
+### Analytical Patterns
+
+**The Genuine Win + Structural Limit** — DeSantis's education deregulation (charter school expansion, DEI elimination) is a real donor victory for the privatization network, but stops short of dismantling public education entirely. His wins advance private education interests without comprehensive school system restructuring.
+
+**The Villain Framing** — DeSantis blames the "woke left" and corporate "DEI bureaucrats" as external villains requiring cultural war responses, deflecting from his actual material position: he is funded by the privatization donors (Walton, DeVos networks) who benefit directly from the deregulation he implements. The villain is cultural overreach; the beneficiary (privatization donors) remains structurally invisible.
+
+**The Two-Audience Problem** — DeSantis performs as a cultural warrior defending traditional values to his base, while privately serving deregulatory corporate interests (tax cuts, labor deregulation) whose benefits contradict working-class economic security. The culture war rhetoric masks the actual function: corporate governance.
+
+---
+
+### Rhetorical Signature Moves
+
+1. **The anti-woke pivot:** Frame every corporate power structure as "woke" rather than "powerful." Attack DEI programs while maintaining zero-tax structures that attract the corporations running DEI programs. The target is the branding, not the power.
+2. **The media enemy:** DeSantis positioned legacy media and "corporate media" as enemies — while his campaign spent tens of millions on ads in those same corporate media outlets.
+3. **The freedom brand:** "Florida is where woke goes to die." The freedom branding masks the policy reality: freedom for corporations (no taxes, light regulation), restricted freedom for public school teachers (curriculum mandates, book removals), restricted freedom for local governments (state preemption of local ordinances).
+4. **The military credential:** Constant deployment of Navy JAG service as populist credibility. The actual service (Guantanamo legal advisor) is never examined — Guantanamo represents the U.S. military detention apparatus, not the populist military experience the branding implies.
+
+---
+
+### 2028 Positioning
+
+DeSantis's second gubernatorial term ends in January 2027. He is term-limited and constitutionally barred from a third term. His 2028 presidential positioning depends on whether Republican voters forgive the 2024 collapse, whether Trump endorses him or a rival, and whether the donor class returns after the 2024 defection. His strongest argument: Florida's economy (largest state by population after California and Texas, major GDP growth, continued migration from high-tax states). His liability: the memory of $158.5M spent to win nothing.
+
+---
+
+### Sources
+
+- [OpenSecrets: Ron DeSantis 2024 Presidential Summary](https://www.opensecrets.org/2024-presidential-race/ron-desantis/candidate?id=N00034746) (Tier 1)
+- [OpenSecrets: DeSantis 2022 Contributors and Donors](https://www.opensecrets.org/2024-presidential-race/ron-desantis/contributors?id=N00034746) (Tier 1)
+- [FEC: Ron DeSantis Candidate Overview](https://www.fec.gov/data/candidate/P40013039/) (Tier 1)
+- [League of Conservation Voters: Ron DeSantis scorecard](https://www.lcv.org/moc/ron-desantis/) (Tier 1)
+- [Orlando Sentinel: DeSantis and super PAC spent $158.5 million during presidential run](https://www.orlandosentinel.com/2024/02/01/desantis-super-pac-spent-158-5-million-during-presidential-run-in-2023/) (Tier 2)
+- [Washington Post: Inside the collapse of Ron DeSantis's campaign funding experiment](https://www.washingtonpost.com/politics/2023/12/16/desantis-super-pac-collapse/) (Tier 2)
+- [CNBC: Billionaire Ken Griffin, former DeSantis donor, sits out GOP primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2)
+- [CNBC: Ken Griffin becomes GOP $100 million midterm megadonor](https://www.cnbc.com/2022/10/07/citadels-ceo-ken-griffin-becomes-gop-100-million-midterm-megadonor.html) (Tier 2)
+- [NBC News: Never Back Down super PAC details and campaign outsourcing](https://www.nbcnews.com/politics/2024-election/travel-costs-staff-ads-added-ron-desantis-dropped-rcna136501) (Tier 2)
+- [CNBC: Disney and Florida settle lawsuits over DeSantis special district fight](https://www.cnbc.com/2024/03/27/disney-and-florida-settle-lawsuits-over-desantis-special-district-fight-dont-say-gay-bill.html) (Tier 2)
+- [NBC News: Club for Growth post-Trump positioning](https://www.nbcnews.com/meet-the-press/meetthepressblog/eyes-2024-club-post-trump-growth-rcna69468) (Tier 2)
+- [FactCheck.org: Never Back Down Inc.](https://www.factcheck.org/2024/01/never-back-down-inc/) (Tier 2)
+content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $375,129 |
+| Individual Contributions | $181,105 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $32,688,599 |
+| IE Opposition (Super PAC) | $80,216,894 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SFA FUND, INC | $0 | $46,974,966 |
+| MAKE AMERICA GREAT AGAIN INC. | $0 | $33,241,929 |
+| NEVER BACK DOWN INC. | $26,139,099 | $0 |
+| GOOD FIGHT | $5,549,500 | $0 |
+| READY TO WIN | $1,000,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40013039/) (Tier 1)
+<!-- auto:fec-politician end -->
