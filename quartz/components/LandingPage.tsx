@@ -61,8 +61,8 @@ const hookCards: HookCard[] = [
     statLabel: "Koch Network return on McConnell investment",
     color: "green",
     links: [
-      { text: "Drug Pricing Theater", search: "contradiction-03---pharma-kills-drug-negotiation-from-both-sides" },
-      { text: "Carried Interest Loophole", search: "the-carried-interest-loophole---30-years-of-survival" },
+      { text: "Drug Pricing Theater", search: "contradiction-03---phrma-kills-drug-negotiation-from-both-sides" },
+      { text: "Manchin-Sinema Donor Veto", search: "the-manchin-sinema-donor-class-veto---how-two-senators-killed-a-majority" },
     ],
   },
   {
@@ -90,11 +90,11 @@ interface FeaturedInvestigation {
 
 const featuredInvestigations: FeaturedInvestigation[] = [
   {
-    title: "The Cuba Fuel Blockade",
-    hook: "On March 16, 2026, Cuba's power grid collapsed. Ten million people went dark. The cause: a U.S. fuel blockade managed by Secretary of State Rubio — whose career was funded by the Fanjul sugar dynasty, the family that directly benefits from eliminating Cuban agricultural competition.",
-    stat: "$2.9M",
-    statLabel: "Fanjul family political spending in 2024",
-    search: "operation-southern-spear-and-the-cuba-fuel-blockade",
+    title: "Defense Contractor 450,000% ROI",
+    hook: "Lockheed Martin, Raytheon, and Boeing spend millions funding both parties. In return, they receive hundreds of billions in contracts — a return on investment that makes Wall Street look like a savings account. The defense budget passes with bipartisan supermajorities every single year.",
+    stat: "450,000%",
+    statLabel: "defense contractor return on political investment",
+    search: "defense-contractor-450000-percent-roi",
   },
   {
     title: "The Nuestra America Convoy",
@@ -148,10 +148,6 @@ const LandingPage: QuartzComponent = ({
   const storyCount = allFiles.filter((f) =>
     (f.slug ?? "").toLowerCase().startsWith("stories/"),
   ).length
-  const kStreetCount = allFiles.filter((f) => {
-    const s = (f.slug ?? "").toLowerCase()
-    return s.startsWith("lobbying-firms--and--k-street/") || s.startsWith("think-tanks/")
-  }).length
 
   // Entry points with dynamic counts
   const entryPoints: EntryPoint[] = [
@@ -179,7 +175,6 @@ const LandingPage: QuartzComponent = ({
     {
       icon: "K STREET",
       title: "Lobbyists & Think Tanks",
-      count: kStreetCount,
       desc: "The intermediaries who deliver the ask and the organizations that manufacture the talking points.",
       slugPrefix: "Lobbying-Firms--and--K-Street",
     },
@@ -234,7 +229,7 @@ const LandingPage: QuartzComponent = ({
           </div>
         </div>
         <div class="lp-hero-cta">
-          <a href={getHref("follow-the-money---guided-tour")} class="lp-cta-primary">
+          <a href={getHref("cross-politician-contradiction-map---the-both-sides-illusion-with-receipts")} class="lp-cta-primary">
             Start Here
           </a>
           <a href={absHref("Politicians")} class="lp-cta-secondary">
@@ -315,22 +310,22 @@ const LandingPage: QuartzComponent = ({
       <section class="lp-start">
         <div class="lp-section-label">QUICK PATHS</div>
         <div class="lp-start-grid">
-          <a href={getHref("the-biggest-findings")} class="lp-start-card lp-start-primary">
+          <a href={getHref("cross-politician-contradiction-map---the-both-sides-illusion-with-receipts")} class="lp-start-card lp-start-primary">
             <div class="lp-start-card-title">The Biggest Findings</div>
             <div class="lp-start-card-desc">
               The most damning contradictions. Same donors, both parties, same outcomes.
             </div>
           </a>
-          <a href={getHref("browse-by-pattern")} class="lp-start-card">
-            <div class="lp-start-card-title">Browse by Pattern</div>
+          <a href={absHref("Stories/Published/Contradiction-Deep-Dives")} class="lp-start-card">
+            <div class="lp-start-card-title">Browse Contradictions</div>
             <div class="lp-start-card-desc">
-              Revolving Door, Two-Audience Problem, Donor-Class Override, Dark Money Symmetry.
+              21 deep dives into how the same money controls both parties.
             </div>
           </a>
-          <a href={getHref("about-the-donor-map")} class="lp-start-card">
-            <div class="lp-start-card-title">About &amp; Methodology</div>
+          <a href={absHref("Interactive")} class="lp-start-card">
+            <div class="lp-start-card-title">Interactive Tools</div>
             <div class="lp-start-card-desc">
-              What this project is, how profiles are built, sourced, and verified.
+              Power Rankings, Who Funds Your Rep, Issue Explorer, and more.
             </div>
           </a>
         </div>
