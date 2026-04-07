@@ -8,7 +8,7 @@ const NAV_ITEMS = [
   { href: "/pipelines", label: "Pipelines", icon: "zap" },
   { href: "/notes", label: "Notes & Queues", icon: "clipboard" },
   { href: "/source-hunter", label: "Source Hunter", icon: "search" },
-  { href: "/relationships", label: "Relationships", icon: "link", disabled: true },
+  { href: "/relationships", label: "Relationships", icon: "link" },
   { href: "/publisher", label: "Publisher", icon: "edit", disabled: true },
   { href: "/alerts", label: "Alerts", icon: "bell", disabled: true },
   { href: "/distribution", label: "Distribution", icon: "share", disabled: true },
