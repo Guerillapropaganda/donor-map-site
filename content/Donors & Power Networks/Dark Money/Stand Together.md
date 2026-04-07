@@ -44,6 +44,8 @@ sec-form-types:
   - "FWP"
   - "N-30D"
   - "PX14A6G"
+lobbying-spend: 6505000
+lobbying-filings: 89
 ---
 
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money
@@ -230,3 +232,22 @@ content-readiness:: developed
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Stand%20Together%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $6.5M |
+| Quarterly Filings | 89 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 31 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Alcohol and Drug Abuse, Animals, Apparel/Clothing Industry/Textiles, Arts/Entertainment, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Constitution, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, District of Columbia, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Food Industry (safety, labeling, etc.), Foreign Relations, Fuel/Gas/Oil, Gaming/Gambling/Casino, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Media (information/publishing), Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Pharmacy, Postal, Railroads, Real Estate/Land Use/Conservation, Retirement, Roads/Highway, Science/Technology, Small Business, Sports/Athletics, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Tobacco, Torts, Trade (domestic/foreign), Transportation, Travel/Tourism, Trucking/Shipping, Unemployment, Urban Development/Municipalities, Utilities, Veterans, Waste (hazardous/solid/interstate/nuclear), Welfare
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BALLARD PARTNERS, BRACEWELL LLP, CAPITOL COUNSEL LLC, CASSIDY & ASSOCIATES, INC., CERTIFIED FINANCIAL PLANNER BOARD OF STANDARDS, INC., CHICAGO WE STAND INC, CORRIGAN & USSERY LLC, DB3, LLC (FKA THE DASCHLE GROUP), FUTURE STANDARD, HOLLAND & KNIGHT LLP, INTERNATIONAL SUSTAINABILITY STANDARDS BOARD (ISSB), INVARIANT LLC, JAPAN AUTOMOBILE STANDARDS INTERNATIONALIZATION CENTER, K&L GATES, LLP, MERCURY PUBLIC AFFAIRS, LLC, NVG, LLC, PATTERSON REAL BIRD & RASMUSSEN LLP, S-3 GROUP, SACHEM STRATEGIES, SALT POINT STRATEGIES, SIMS STRATEGIES, LLC, SONOSKY, CHAMBERS, SACHSE, ENDRESON & PERRY, LLP, STANDARD CHARTERED BANK, STANDARD INDUSTRIES, STRATEGIC MARKETING INNOVATIONS, THE VOGEL GROUP, TRANE TECHNOLOGIES COMPANY LLC (FKA INGERSOLL RAND, TRANE, AMERICAN STANDARD), ULSE INC. D/B/A UL STANDARDS & ENGAGEMENT, VENABLE LLP
+
+**Agencies contacted:** Army, Dept of (Corps of Engineers), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Indian Health Service, Justice, Dept of (DOJ) +8 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Stand%20Together) (Tier 1)
+<!-- auto:lda-lobbying end -->

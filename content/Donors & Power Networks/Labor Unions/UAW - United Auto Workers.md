@@ -2,7 +2,7 @@
 title: "UAW - United Auto Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -22,6 +22,10 @@ sec-form-types:
   - "ARS"
   - "EX-99.1"
   - "N-CSR"
+ein: 340200249
+annual-revenue: "$104K"
+net-assets: "$180K"
+tax-year: "2016"
 ---
 
 #donor #labor #union #auto-industry #working-class #fain #stand-up-strike #ev-transition #corruption #consent-decree
@@ -431,3 +435,16 @@ content-readiness:: developed
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UAW%20-%20United%20Auto%20Workers%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2016)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $104K |
+| Total Contributions | $0 |
+| Total Expenses | $118K |
+| Net Assets | $180K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 340200249](https://projects.propublica.org/nonprofits/organizations/340200249) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2017_03_EO%2F34-0200249_990EO_201612.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

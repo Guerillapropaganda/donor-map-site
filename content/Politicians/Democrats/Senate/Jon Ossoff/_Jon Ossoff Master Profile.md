@@ -17,6 +17,8 @@ bills-sponsored: 16
 bills-cosponsored: 182
 website: "https://www.ossoff.senate.gov"
 phone: "202-224-3521"
+total-received: "$31,605,071"
+fec-candidate-id: "H8GA06195"
 ---
 
 
@@ -293,3 +295,28 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456857) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2018 |
+| Total Raised | $31,605,071 |
+| Individual Contributions | $10,414,256 |
+| PAC Contributions | $372,353 |
+| Cash on Hand | 392475.44 |
+| IE Support (Super PAC) | $1,756,914 |
+| IE Opposition (Super PAC) | $22,521,049 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NRCC | $0 | $11,594,028 |
+| CONGRESSIONAL LEADERSHIP FUND | $0 | $5,993,817 |
+| AMERICA FIRST POLICIES INC. | $0 | $4,339,970 |
+| US CHAMBER OF COMMERCE | $0 | $500,000 |
+| PLANNED PARENTHOOD ACTION FUND INC | $495,427 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1)
+<!-- auto:fec-politician end -->

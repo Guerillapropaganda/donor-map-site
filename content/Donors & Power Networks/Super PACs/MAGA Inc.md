@@ -2,7 +2,7 @@
 title: "MAGA Inc"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -11,6 +11,19 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 34
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Eleventh Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. South Carolina"
+  - "District Court, District of Columbia"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. Texas"
+  - "United States Bankruptcy Court, D. Puerto Rico"
+ein: "921057815"
+nonprofit-status: "501(c)(4)"
 ---
 
 #donor-node #super-pac #trump #mega-donors #dark-money
@@ -130,3 +143,33 @@ research-status:: ready — $304M war chest documented, top donor breakdown (Mel
 | DNC-NONFEDERAL-CORPORATE | $12.2K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 34 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eleventh Circuit, District Court, C.D. California, District Court, D. South Carolina, District Court, District of Columbia, District Court, S.D. Florida, District Court, S.D. Texas, United States Bankruptcy Court, D. Puerto Rico |
+| Case Types | 3470 Civil (Rico), 840 Trademark, 895 Freedom of Information Act |
+
+**Notable cases:**
+- M-EDIF v. Trump (2026) — District Court, D. South Carolina
+- Zhaocheng Tan v. Donald Trump (2026) — Court of Appeals for the D.C. Circuit
+- MAGA Burger Holdings, LLC v. 409 Bradford, LLC (2025) — District Court, S.D. Texas
+- United States v. Donato Bautista (2024) — District Court, S.D. Florida
+- JUDICIAL WATCH, INC. v. U.S. DEPARTMENT OF JUSTICE (2024) — District Court, District of Columbia
+- Donald Trump v. Hillary Clinton (2023) — Court of Appeals for the Eleventh Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22MAGA%20Inc%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 921057815 |
+| Tax-Exempt Status | 501(c)(4) |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/921057815) (Tier 1)
+<!-- auto:nonprofit-990 end -->

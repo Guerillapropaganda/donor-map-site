@@ -30,6 +30,12 @@ annual-revenue: "$511K"
 net-assets: "$52K"
 tax-year: "2024"
 federal-contracts: "608"
+subawards-issued: 50
+subawards-issued-amount: 51876611853
+subawards-received: 50
+subawards-received-amount: 51876611853
+top-federal-agency: "Department of Homeland Security"
+top-naics-code: "561612"
 ---
 
 
@@ -210,3 +216,49 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($51.9B sampled) |
+| Subawards Received (as sub) | 50 ($51.9B sampled) |
+| Top Federal Agency | Department of Homeland Security ($978.1M) |
+| Primary NAICS Sector | Security Guards and Patrol Services |
+
+**Subcontractors receiving federal money from CoreCivic:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| SUFFOLK, COUNTY OF | $15.3B | 2 |
+| AMERICAN UNIVERSITY | $9.9B | 1 |
+| SCHOOL DISTRICT OF WABENO AREA | $9.5B | 1 |
+| WILLIAMSPORT MUNICIPAL WATER AUTHORITY | $9.0B | 1 |
+| DEPARTMENT OF STATE HEALTH SERVICES | $8.2B | 1 |
+
+**Prime contractors funneling federal money to CoreCivic:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $51.9B | 6 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Homeland Security | $978.1M |
+| Department of Justice | $548.2M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Security Guards and Patrol Services (561612) | $1.1B |
+| Other Justice, Public Order, and Safety Activities (922190) | $236.6M |
+| Other Residential Care Facilities (623990) | $121.2M |
+| Facilities Support Services (561210) | $90.1M |
+| Furniture Merchant Wholesalers (423210) | $500K |
+| Painting and Wall Covering Contractors (238320) | $27K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

@@ -13,6 +13,13 @@ top-donors:
   - "Tech and Media Donors"
   - "Healthcare Sector"
 bioguide-id: "A000383"
+total-received: "$6,047,785"
+fec-candidate-id: "S0GA00559"
+govtrack-id: 456858
+bills-sponsored: 24
+bills-cosponsored: 297
+website: "https://www.warnock.senate.gov"
+phone: "202-224-3643"
 ---
 
 
@@ -220,3 +227,68 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $6,047,785 |
+| Individual Contributions | $2,739,191 |
+| PAC Contributions | $129,317 |
+| Cash on Hand | 3766043.86 |
+| IE Support (Super PAC) | $26,428,956 |
+| IE Opposition (Super PAC) | $226,876,185 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $6,047,785 | $2,739,191 | $129,317 |
+| 2022 | $206,593,948 | $98,860,194 | $2,128,484 |
+| 2020 | $125,359,128 | $57,386,035 | $714,327 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| AMERICAN CROSSROADS | $0 | $77,735,210 |
+| SENATE LEADERSHIP FUND | $0 | $77,261,714 |
+| PEACHTREE PAC | $0 | $28,361,919 |
+| NRSC | $0 | $23,545,584 |
+| WORKER POWER PAC FOR GEORGIA | $8,030,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 297 |
+| Total Votes Cast | 2,371 |
+
+**Recent bills sponsored:**
+
+- S. 4195: A bill to prevent maternal mortality and severe maternal morbidity among Black pregnant and postpartum individuals and o — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4167: HBCU Research Capacity Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.J.Res. 140: A joint resolution providing for congressional disapproval under chapter 8 of  title 5, United States Code, of the rule  — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.J.Res. 141: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4119: Student Loan Marriage Penalty Elimination Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456858) (Tier 1)
+<!-- auto:govtrack end -->

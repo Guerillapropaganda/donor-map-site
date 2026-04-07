@@ -2,7 +2,7 @@
 title: "Blackstone Real Estate"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Housing"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "SDNTK"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
@@ -22,6 +22,18 @@ ofac-programs:
   - "DPRK2"
   - "ILLICIT-DRUGS-EO14059"
   - "TCO"
+court-cases: 188
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Nevada"
+  - "District Court, D. New Jersey"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. Mississippi"
+  - "United States Bankruptcy Court, C.D. California"
+  - "United States Bankruptcy Court, D. Delaware"
 ---
 
 #blackstone #real-estate #housing #rents #private-equity #schwarzman #institutional-landlord #institutional-landlords #invitation-homes #breit #landlordism
@@ -205,3 +217,22 @@ content-readiness:: developed
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 188 |
+| Courts | Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, D. Nevada, District Court, D. New Jersey, District Court, E.D. Pennsylvania, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. Mississippi +4 more |
+| Case Types | 190 Contract: Other, 230 Rent Lease & Ejectment, 360 P.I.: Other, 370 Other Fraud, Other Statutory Actions |
+
+**Notable cases:**
+- WILLIAMS v. EXTENDED STAY AMERICA INC. (2025) — District Court, D. New Jersey
+- Claire's Holdings LLC (2025) — United States Bankruptcy Court, D. Delaware
+- PONS v. THE GREAT WOLF LODGE OF THE POCONOS, LLC (2025) — District Court, E.D. Pennsylvania
+- Marc Phelps v. Air GP LLC (2025) — District Court, C.D. California
+- Blackstone Real Estate Investment LLC (2025) — United States Bankruptcy Court, E.D. California
+- T. v. Bellagio LLC (2025) — District Court, D. Nevada
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Real%20Estate%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

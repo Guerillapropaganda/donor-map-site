@@ -19,6 +19,8 @@ ein: 833135259
 annual-revenue: "$18.6M"
 net-assets: "$19.4M"
 tax-year: "2023"
+lei: "549300HMUDNO0RY56D37"
+lei-jurisdiction: "US-DE"
 ---
 
 #airbnb #gig-economy #housing #short-term-rental #lobbying #zoning #tourism
@@ -118,3 +120,18 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 833135259](https://projects.propublica.org/nonprofits/organizations/833135259) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300HMUDNO0RY56D37](https://search.gleif.org/#/record/549300HMUDNO0RY56D37) |
+| Legal Name | AIRBNB, INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-11-10T19:01:56Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

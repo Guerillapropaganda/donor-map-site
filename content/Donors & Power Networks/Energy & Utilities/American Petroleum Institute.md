@@ -2,7 +2,7 @@
 title: "American Petroleum Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -10,14 +10,17 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
-ein: 130433430
+ein: "130433430"
 annual-revenue: "$267.6M"
 net-assets: "$122.9M"
 tax-year: "2023"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "RUSSIA-EO14024"
+nonprofit-status: "501(c)(6)"
+total-revenue: 268010806
+total-assets: 109879063
 ---
 
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money
@@ -671,3 +674,27 @@ content-readiness:: developed
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 130433430 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $268.0M |
+| Total Assets | $109.9M |
+| IRS Ruling Date | 1938-04-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
+<!-- auto:nonprofit-990 end -->

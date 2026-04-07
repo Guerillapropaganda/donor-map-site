@@ -2,7 +2,7 @@
 title: "Patrick McHenry Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -19,6 +19,7 @@ top-donors:
   - "Crypto Industry Bloc"
 total-received: "$2,203,814"
 fec-candidate-id: "H4NC10047"
+bioguide-id: "A000383"
 ---
 
 
@@ -210,3 +211,10 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NC10047/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

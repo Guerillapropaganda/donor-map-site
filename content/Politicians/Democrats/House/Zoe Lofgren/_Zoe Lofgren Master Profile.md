@@ -2,7 +2,7 @@
 title: "Zoe Lofgren"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -19,6 +19,8 @@ issues:
   - "Technology"
   - "Immigration"
   - "Antitrust & Monopoly"
+total-received: "$1,274,233"
+fec-candidate-id: "H4CA16049"
 ---
 
 
@@ -144,3 +146,37 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 - [Wikipedia: Zoe Lofgren](https://en.wikipedia.org/wiki/Zoe_Lofgren) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,274,233 |
+| Individual Contributions | $538,016 |
+| PAC Contributions | $325,450 |
+| Cash on Hand | 716844.09 |
+| IE Support (Super PAC) | $406,226 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,274,233 | $538,016 | $325,450 |
+| 2024 | $2,327,180 | $1,214,766 | $686,799 |
+| 2022 | $2,022,557 | $1,087,601 | $509,817 |
+| 2020 | $1,795,702 | $488,175 | $538,590 |
+| 2018 | $1,733,955 | $944,643 | $488,800 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CENTRAL COAST VALUES PAC | $349,671 | $0 |
+| RESOLUTE COURAGE PAC | $46,152 | $0 |
+| COURAGE CALIFORNIA SUPER PAC | $2,301 | $0 |
+| SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE | $1,795 | $0 |
+| OPPORTUNITY PAC - A COALITION OF TEACHERS HEALTH CARE GIVERS FACULTY MEMBERS SCHOOL EMPLOYEES AND PUBLIC AND PR | $1,772 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1)
+<!-- auto:fec-politician end -->

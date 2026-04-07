@@ -2,7 +2,7 @@
 title: "Save America PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -11,6 +11,9 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
+ein: "933113620"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
 ---
 
 
@@ -231,3 +234,16 @@ content-readiness:: ready
 | NRSC | $60.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 933113620 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | G01 |
+| IRS Ruling Date | 2024-04-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/933113620) (Tier 1)
+<!-- auto:nonprofit-990 end -->

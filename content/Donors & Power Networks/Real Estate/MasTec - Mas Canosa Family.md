@@ -16,6 +16,10 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+subawards-issued: 50
+subawards-issued-amount: 51876611853
+subawards-received: 50
+subawards-received-amount: 51876611853
 ---
 
 #donor #corporation #infrastructure #construction #cuba #exile #telecom #energy #real-estate #class-analysis #follow-the-money
@@ -112,3 +116,29 @@ content-readiness:: developed
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=MasTec%20-%20Mas%20Canosa%20Family) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($51.9B sampled) |
+| Subawards Received (as sub) | 50 ($51.9B sampled) |
+
+**Subcontractors receiving federal money from MasTec - Mas Canosa Family:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| SUFFOLK, COUNTY OF | $15.3B | 2 |
+| AMERICAN UNIVERSITY | $9.9B | 1 |
+| SCHOOL DISTRICT OF WABENO AREA | $9.5B | 1 |
+| WILLIAMSPORT MUNICIPAL WATER AUTHORITY | $9.0B | 1 |
+| DEPARTMENT OF STATE HEALTH SERVICES | $8.2B | 1 |
+
+**Prime contractors funneling federal money to MasTec - Mas Canosa Family:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $51.9B | 6 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

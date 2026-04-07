@@ -2,11 +2,16 @@
 title: "Dianne Feinstein"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
 stock-trades: 29
+total-received: "$679,803"
+fec-candidate-id: "S0CA00199"
+govtrack-id: 300043
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 #feinstein #democrat #senate #california #intelligence #defense-contractors #richard-blum #surveillance-champion #class-analysis
@@ -148,3 +153,61 @@ content-readiness:: ready
 
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $679,803 |
+| Individual Contributions | $36,773 |
+| PAC Contributions | $23,500 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $481,164 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $679,803 | $36,773 | $23,500 |
+| 2018 | $23,724,115 | $4,431,800 | $1,843,918 |
+| 2012 | $14,797,542 | $5,476,482 | $2,298,217 |
+| 2006 | $12,200,678 | $3,358,492 | $1,815,736 |
+| 2000 | $10,464,194 | $0 | $1,245,727 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| HUMANE SOCIETY LEGISLATIVE FUND | $159,553 | $0 |
+| DELIVERING FOR CALIFORNIA | $150,000 | $0 |
+| COPS VOTER GUIDE INC. | $50,000 | $0 |
+| ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE | $0 | $47,994 |
+| ONE NATION UNITED | $26,400 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CA00199/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 10,389 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2023-09-28 | S.J.Res. 24 (118th): A joint resolution providing for congressional disapproval … | Not Voting | Veto Sustained |
+| 2023-09-28 | S.J.Res. 9 (118th): A joint resolution providing for congressional disapproval u… | Not Voting | Veto Sustained |
+| 2023-09-28 | On the Motion to Proceed H.R. 3935 | Yea | Motion to Proceed Agreed to |
+| 2023-09-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 3935 | Not Voting | Cloture Motion Agreed to |
+| 2023-09-21 | On the Nomination PN691: Gen. Eric M. Smith, in the Marine Corps, to be General | Not Voting | Nomination Confirmed |
+| 2023-09-21 | Motion to Invoke Cloture: Gen. Eric M. Smith for appointment as Commandant of th… | Not Voting | Cloture Motion Agreed to |
+| 2023-09-21 | On the Nomination PN537: Gen. Randy A. George, in the Army, to be General | Not Voting | Nomination Confirmed |
+| 2023-09-20 | Motion to Invoke Cloture: Gen. Randy A. George for appointment as Chief of Staff… | Not Voting | Cloture Motion Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300043) (Tier 1)
+<!-- auto:govtrack end -->

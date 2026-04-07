@@ -208,3 +208,21 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412321) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Telecom Industry** donates → Lobbies on **Intelligence** → This member sits on **Intelligence**
+
+**Donors who lobby (by spend):**
+
+- [[Telecom Industry]] — $9.0M lobbying spend (Aerospace, Agriculture, Banking)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

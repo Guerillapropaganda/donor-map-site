@@ -12,7 +12,7 @@ annual-revenue: "$6.4M"
 net-assets: "$4.3M"
 tax-year: "2023"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
 federal-contracts: "10817"
@@ -26,6 +26,18 @@ politicians-funded:
   - "Gary Peters"
   - "Bryan Steil"
   - "John Cornyn"
+federal-register-mentions: 849
+regulatory-agencies:
+  - "Centers for Medicare & Medicaid Services"
+  - "Federal Emergency Management Agency"
+  - "Federal Reserve System"
+  - "Federal Trade Commission"
+  - "Financial Crimes Enforcement Network"
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
+  - "Homeland Security Department"
+  - "Housing and Urban Development Department"
+  - "Internal Revenue Service"
 ---
 
 #insurance #health-insurance #lobbying #aca #public-option #bipartisan #medicare-advantage #ahip #revolving-door
@@ -291,3 +303,26 @@ content-readiness:: developed
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Insurance%20Industry) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 849 |
+| Final Rules | 348 |
+| Proposed Rules | 220 |
+| Notices | 279 |
+| Presidential Documents | 2 |
+| Agencies | Centers for Medicare & Medicaid Services, Federal Emergency Management Agency, Federal Reserve System, Federal Trade Commission, Financial Crimes Enforcement Network, Food and Drug Administration, Health and Human Services Department, Homeland Security Department +7 more |
+
+**Recent regulatory activity:**
+- [Request for Expressions of Interest in Membership on the Federal Insurance Office's Federal Advisory Committee on Insurance](https://www.federalregister.gov/documents/2026/03/25/2026-05811/request-for-expressions-of-interest-in-membership-on-the-federal-insurance-offices-federal-advisory) (2026-03-25) — Treasury Department
+- [Administrative Simplification; Adoption of Standards for Health Care Claims Attachments Transactions and Electronic Signatures](https://www.federalregister.gov/documents/2026/03/24/2026-05676/administrative-simplification-adoption-of-standards-for-health-care-claims-attachments-transactions) (2026-03-24) — Health and Human Services Department ★
+- [Reestablishment of the Federal Advisory Committee on Insurance](https://www.federalregister.gov/documents/2026/03/10/2026-04693/reestablishment-of-the-federal-advisory-committee-on-insurance) (2026-03-10) — Treasury Department
+- [Revising the National Drug Code Format and Drug Label Barcode Requirements](https://www.federalregister.gov/documents/2026/03/05/2026-04368/revising-the-national-drug-code-format-and-drug-label-barcode-requirements) (2026-03-05) — Health and Human Services Department
+- [Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program](https://www.federalregister.gov/documents/2026/02/11/2026-02769/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and) (2026-02-11) — Health and Human Services Department ★
+- [HUD's Implementation of the Fair Housing Act's Disparate Impact Standard](https://www.federalregister.gov/documents/2026/01/14/2026-00590/huds-implementation-of-the-fair-housing-acts-disparate-impact-standard) (2026-01-14) — Housing and Urban Development Department ★
+- ... and 843 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Insurance%20Industry%22) (Tier 1)
+<!-- auto:federal-register end -->

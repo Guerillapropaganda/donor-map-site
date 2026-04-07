@@ -27,6 +27,17 @@ regulatory-agencies:
   - "Labor Department"
   - "Transportation Department"
   - "Wage and Hour Division"
+court-cases: 349
+court-jurisdictions:
+  - "District Court, C.D. Illinois"
+  - "District Court, D. Arizona"
+  - "District Court, D. Hawaii"
+  - "District Court, D. Minnesota"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. Illinois"
+  - "District Court, S.D. New York"
 ---
 
 #jb-pritzker #illinois #hyatt #billionaire #self-funder #democratic #governor #mega-donor #dark-money #2028 #think-big-america #dga #class-analysis
@@ -230,3 +241,22 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22JB%20Pritzker%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 349 |
+| Courts | District Court, C.D. Illinois, District Court, D. Arizona, District Court, D. Hawaii, District Court, D. Minnesota, District Court, District of Columbia, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. Illinois +1 more |
+| Case Types | 440 Civil Rights: Other, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute, Civil Rights: Voting |
+
+**Notable cases:**
+- UNITED STATES OF AMERICA v. State of Illinois (2026) — District Court, N.D. Illinois
+- American Federation of State, County, and Municipal Employees, AFLCIO v. Vought (2026) — District Court, N.D. Illinois
+- AMERICAN ACADEMY OF PEDIATRICS v. FEDERAL TRADE COMMISSION (2026) — District Court, District of Columbia
+- State of Illinois v. Vought (2026) — District Court, N.D. Illinois
+- American Federation of State, County & Municipal Employees, AFL-CIO v. U.S. Department of Health and Human Services (2026) — District Court, N.D. California
+- State of Minnesota v. Noem (2026) — District Court, D. Minnesota
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JB%20Pritzker%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -21,6 +21,10 @@ court-jurisdictions:
   - "District Court, W.D. Washington"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+ein: 510189525
+annual-revenue: "$222K"
+net-assets: "$781K"
+tax-year: "2023"
 ---
 
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund
@@ -264,3 +268,16 @@ content-readiness:: developed
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Chevron) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $222K |
+| Total Contributions | $219K |
+| Investment Income | $3K |
+| Total Expenses | $184K |
+| Net Assets | $781K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 510189525](https://projects.propublica.org/nonprofits/organizations/510189525) (Tier 1)
+<!-- auto:propublica-990 end -->

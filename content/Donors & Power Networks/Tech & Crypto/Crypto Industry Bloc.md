@@ -2,7 +2,7 @@
 title: "Crypto Industry Bloc"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -17,6 +17,10 @@ politicians-funded:
   - "Howard Lutnick"
 issues:
   - "Technology"
+subawards-issued: 50
+subawards-issued-amount: 51876611853
+subawards-received: 50
+subawards-received-amount: 51876611853
 ---
 
 
@@ -229,3 +233,29 @@ Both sides are deploying in the same primaries as crypto and AIPAC money. In NC-
 
 research-status:: ready — Crypto industry bloc ($195M Fairshake spending, 91% win rate). Comprehensive analysis of donor structure (Coinbase $75M+, a16z $70M+, Ripple $50M+), regulatory capture (Gensler removed, Atkins installed), Trump family conflicts (WLF $1.2B, UAE $500M stake), legislative victories (GENIUS Act), lobbying infrastructure ($25M+ annual, 922% surge), and 2026 midterm deployment ($193M cash). 194 lines, 13 sources (Tier 1–2). All headers standardized to ###, all callout blocks verified, all citations formatted (Tier X). Ready for publication. Promoted Session 38k.
 content-readiness:: ready
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($51.9B sampled) |
+| Subawards Received (as sub) | 50 ($51.9B sampled) |
+
+**Subcontractors receiving federal money from Crypto Industry Bloc:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| SUFFOLK, COUNTY OF | $15.3B | 2 |
+| AMERICAN UNIVERSITY | $9.9B | 1 |
+| SCHOOL DISTRICT OF WABENO AREA | $9.5B | 1 |
+| WILLIAMSPORT MUNICIPAL WATER AUTHORITY | $9.0B | 1 |
+| DEPARTMENT OF STATE HEALTH SERVICES | $8.2B | 1 |
+
+**Prime contractors funneling federal money to Crypto Industry Bloc:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $51.9B | 6 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

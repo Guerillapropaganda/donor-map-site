@@ -38,6 +38,12 @@ total-assets: 78357234
 federal-awards-total: 7553962
 federal-contracts-count: 25
 federal-grants-count: 0
+subawards-issued: 50
+subawards-issued-amount: 51876611853
+subawards-received: 50
+subawards-received-amount: 51876611853
+top-federal-agency: "Department of Defense"
+top-naics-code: "324191"
 ---
 
 #donor-node #fossil-fuel #oil-gas #exxonmobil #climate #lobbying #bipartisan #donor #class-analysis #follow-the-money
@@ -466,3 +472,31 @@ content-readiness:: developed
 
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-ExxonMobil) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($51.9B sampled) |
+| Subawards Received (as sub) | 50 ($51.9B sampled) |
+| Top Federal Agency | Department of Defense ($81.6M) |
+| Primary NAICS Sector | Petroleum Lubricating Oil and Grease Manufacturing |
+
+**Subcontractors receiving federal money from ExxonMobil:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| SUFFOLK, COUNTY OF | $15.3B | 2 |
+| AMERICAN UNIVERSITY | $9.9B | 1 |
+| SCHOOL DISTRICT OF WABENO AREA | $9.5B | 1 |
+| WILLIAMSPORT MUNICIPAL WATER AUTHORITY | $9.0B | 1 |
+| DEPARTMENT OF STATE HEALTH SERVICES | $8.2B | 1 |
+
+**Prime contractors funneling federal money to ExxonMobil:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $51.9B | 6 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

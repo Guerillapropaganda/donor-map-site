@@ -2,7 +2,7 @@
 title: "Centene Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -21,6 +21,38 @@ regulatory-agencies:
   - "Employee Benefits Security Administration"
   - "Federal Trade Commission"
   - "Labor Department"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "3"
+  - "4"
+  - "4/A"
+  - "424B2"
+  - "425"
+  - "8-A12G"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.1"
+  - "EX-10.10"
+  - "EX-10.21B"
+  - "EX-10.24"
+  - "EX-10.25C"
+  - "EX-10.4"
+  - "EX-10.6"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "FWP"
+  - "PRE 14A"
+  - "S-3/A"
+  - "S-4/A"
+  - "S-8"
+  - "SC 13G/A"
+  - "SCHEDULE 13G"
+  - "SCHEDULE 13G/A"
+lobbying-spend: 10590000
+lobbying-filings: 52
 ---
 
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca
@@ -110,3 +142,42 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Centene%20Corporation%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-Q, 3, 4, 4/A, 424B2, 425, 8-A12G +20 more |
+| CIK | 1071739 |
+| Ticker | CNC |
+
+**Notable filings:**
+
+- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000089/0001071739-26-000089-index.htm)
+- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000088/0001071739-26-000088-index.htm)
+- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000087/0001071739-26-000087-index.htm)
+- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000086/0001071739-26-000086-index.htm)
+- 2026-03-27 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000081/0001071739-26-000081-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Centene%20Corporation%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $10.6M |
+| Quarterly Filings | 52 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 11 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Health Issues, Insurance, Medicare/Medicaid, Taxation/Internal Revenue Code
+
+**Lobbying firms:** ALB SOLUTIONS, BGR GOVERNMENT AFFAIRS, BROWNSTEIN HYATT FARBER SCHRECK, LLP, BRYAN CAVE LEIGHTON PAISNER LLP, CENTENE CORPORATION, CONTINENTAL STRATEGY, LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., GREENBERG TRAURIG, LLP, HSA STRATEGIES, SALT POINT STRATEGIES, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Office of Management & Budget (OMB), SENATE, White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Centene%20Corporation) (Tier 1)
+<!-- auto:lda-lobbying end -->

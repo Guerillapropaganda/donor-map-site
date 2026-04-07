@@ -10,6 +10,18 @@ entity-type: "Individual Donor"
 issues:
   - "Education"
 total-political-spend: "$85,137,027"
+sec-filings: 1850
+sec-form-types:
+  - "10-K"
+  - "144"
+  - "4"
+  - "497"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.3G"
 ---
 
 #nea #education #union #teachers #democratic #vouchers #charter #political-spending
@@ -89,3 +101,23 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Education%20Association) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,850 |
+| Form Types | 10-K, 144, 4, 497, 8-K, DEF 14A, DEFA14A, EX-99 +2 more |
+| CIK | 109380 |
+| Ticker | ZION |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Education%20Association%22) (Tier 1)
+<!-- auto:sec-edgar end -->

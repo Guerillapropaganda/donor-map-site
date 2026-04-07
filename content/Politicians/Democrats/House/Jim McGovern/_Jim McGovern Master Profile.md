@@ -2,7 +2,7 @@
 title: "Jim McGovern"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,6 +13,11 @@ district: "2"
 leadership-roles:
   - "Ranking Member"
 bioguide-id: "A000383"
+govtrack-id: 400263
+bills-sponsored: 30
+bills-cosponsored: 431
+website: "https://mcgovern.house.gov"
+phone: "202-225-6101"
 ---
 
 
@@ -154,3 +159,35 @@ content-readiness:: ready
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 431 |
+| Total Votes Cast | 18,371 |
+
+**Recent bills sponsored:**
+
+- H.Res. 1068: Providing for consideration of the joint resolution (H.J. Res. 143) enabling Congress to advance important policies. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7521: United States-Cuba Trade Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7546: To amend title XVIII of the Social Security Act to provide coverage for wigs as durable medical equipment under the Medi — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Con.Res. 68: To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress. — *This resolution failed in the House on January 22, 2026.*
+- H.J.Res. 143: Resolution Act. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on January 22, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400263) (Tier 1)
+<!-- auto:govtrack end -->

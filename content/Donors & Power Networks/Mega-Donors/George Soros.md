@@ -25,7 +25,7 @@ court-jurisdictions:
   - "District Court, M.D. Louisiana"
   - "District Court, N.D. Georgia"
   - "District Court, N.D. Illinois"
-ein: 830650656
+ein: "830650656"
 annual-revenue: "$1"
 net-assets: "$1K"
 tax-year: "2023"
@@ -39,6 +39,12 @@ sec-form-types:
   - "SC 13D/A"
   - "SC 13G"
   - "SC 13G/A"
+nonprofit-status: "501(c)(3)"
+total-revenue: 1
+total-assets: 899
+lei: "549300N08KWU11RFO340"
+lei-jurisdiction: "KY"
+lei-parent: "Quantum Partners LP"
 ---
 
 #donor #billionaire #democratic #progressive #dark-money #open-society
@@ -224,3 +230,47 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22George%20Soros%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 830650656 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $1 |
+| Total Assets | $899 |
+| NTEE Code | B70 |
+| IRS Ruling Date | 2019-02-01 |
+| Filings on Record | 5 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2019)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/830650656) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300N08KWU11RFO340](https://search.gleif.org/#/record/549300N08KWU11RFO340) |
+| Legal Name | QUANTUM INVESTMENTS LTD. |
+| Jurisdiction | KY |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-22T09:08:03Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [Quantum Partners LP](https://search.gleif.org/#/record/5493001O43804SXJTO88) (KY)
+- QUANTUM INVESTMENTS LTD. (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

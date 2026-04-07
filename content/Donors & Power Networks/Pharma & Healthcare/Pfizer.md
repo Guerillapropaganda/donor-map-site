@@ -50,6 +50,10 @@ sec-form-types:
 court-cases: 62892
 court-jurisdictions:
   - "District Court, N.D. Florida"
+ein: 132986156
+annual-revenue: "$82.1M"
+net-assets: "$1.4M"
+tax-year: "2016"
 ---
 
 
@@ -299,3 +303,18 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pfizer%20Inc.%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2016)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $82.1M |
+| Total Contributions | $0 |
+| Program Service Revenue | $82.1M |
+| Investment Income | $3K |
+| Total Expenses | $82.1M |
+| Net Assets | $1.4M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 132986156](https://projects.propublica.org/nonprofits/organizations/132986156) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_06-13%2F132986156_201612_990O_2018010315075922.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

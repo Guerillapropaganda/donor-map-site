@@ -27,6 +27,68 @@ court-jurisdictions:
   - "United States Bankruptcy Court, C.D. California"
 lei: "254900R0UACRM2XT9692"
 lei-jurisdiction: "US-NC"
+ein: 916056255
+annual-revenue: "$914K"
+net-assets: "$468K"
+tax-year: "2023"
+sec-filings: 10000
+sec-form-types:
+  - "4"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10"
+  - "EX-10.1"
+  - "EX-10.10"
+  - "EX-10.102"
+  - "EX-10.15"
+  - "EX-10.16"
+  - "EX-10.18"
+  - "EX-10.183"
+  - "EX-10.2"
+  - "EX-10.2.H"
+  - "EX-10.21"
+  - "EX-10.23"
+  - "EX-10.24"
+  - "EX-10.25"
+  - "EX-10.26"
+  - "EX-10.27"
+  - "EX-10.28"
+  - "EX-10.3"
+  - "EX-10.4"
+  - "EX-10.43"
+  - "EX-10.46"
+  - "EX-10.47"
+  - "EX-10.5"
+  - "EX-10.53"
+  - "EX-10.6"
+  - "EX-10.7"
+  - "EX-10.74"
+  - "EX-10.76"
+  - "EX-10.9"
+  - "EX-21"
+  - "EX-4.12"
+  - "EX-4.14"
+  - "EX-4.2.1"
+  - "EX-4.29"
+  - "EX-4.3"
+  - "EX-4.36"
+  - "EX-4.39"
+  - "EX-4.4"
+  - "EX-4.42"
+  - "EX-4.47"
+  - "EX-4.5"
+  - "EX-4.6"
+  - "EX-4.7"
+  - "SCHEDULE 13G/A"
+subawards-issued: 50
+subawards-issued-amount: 51876611853
+subawards-received: 50
+subawards-received-amount: 51876611853
+top-federal-agency: "National Aeronautics and Space Administration"
+top-naics-code: "336414"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor
@@ -277,3 +339,109 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $914K |
+| Total Contributions | $0 |
+| Program Service Revenue | $908K |
+| Investment Income | $6K |
+| Total Expenses | $956K |
+| Net Assets | $468K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 916056255](https://projects.propublica.org/nonprofits/organizations/916056255) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 4, ARS, DEF 14A, DEFA14A, EX-10, EX-10.1, EX-10.10, EX-10.102 +40 more |
+| CIK | 12927 |
+| Ticker | BA |
+
+**Notable filings:**
+
+- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004386/0001225208-26-004386-index.htm)
+- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004385/0001225208-26-004385-index.htm)
+- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004384/0001225208-26-004384-index.htm)
+- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004383/0001225208-26-004383-index.htm)
+- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004382/0001225208-26-004382-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Boeing%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($51.9B sampled) |
+| Subawards Received (as sub) | 50 ($51.9B sampled) |
+| Top Federal Agency | National Aeronautics and Space Administration ($8.5B) |
+| Primary NAICS Sector | Guided Missile and Space Vehicle Manufacturing |
+
+**Subcontractors receiving federal money from Boeing:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| SUFFOLK, COUNTY OF | $15.3B | 2 |
+| AMERICAN UNIVERSITY | $9.9B | 1 |
+| SCHOOL DISTRICT OF WABENO AREA | $9.5B | 1 |
+| WILLIAMSPORT MUNICIPAL WATER AUTHORITY | $9.0B | 1 |
+| DEPARTMENT OF STATE HEALTH SERVICES | $8.2B | 1 |
+
+**Prime contractors funneling federal money to Boeing:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $51.9B | 6 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| National Aeronautics and Space Administration | $8.5B |
+| General Services Administration | $63.9M |
+| Department of Homeland Security | $59.9M |
+| Department of Justice | $8.8M |
+| Department of Transportation | $8.2M |
+| Department of Energy | $5.7M |
+| Department of Commerce | $3.3M |
+| Department of the Treasury | $2.9M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Guided Missile and Space Vehicle Manufacturing (336414) | $7.8B |
+| Aircraft Engine and Engine Parts Manufacturing (336412) | $4.7B |
+| Ammunition (except Small Arms) Manufacturing (332993) | $4.4B |
+| Engineering Services (541330) | $4.0B |
+| Research and Development in Biotechnology (except Nanobiotechnology) (541714) | $2.4B |
+| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $2.2B |
+| Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $2.0B |
+| Other Support Activities for Air Transportation (488190) | $1.9B |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Boeing) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

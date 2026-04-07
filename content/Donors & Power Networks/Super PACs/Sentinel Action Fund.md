@@ -2,11 +2,16 @@
 title: "Sentinel Action Fund"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
+ein: "824373804"
+nonprofit-status: "501(c)(4)"
+last-enriched: "2026-04-07"
+total-revenue: 2903054
+total-assets: 15309069
 ---
 
 #sentinel-action-fund #super-pac #heritage-foundation #republican #mega-donor #judicial #2022-midterms
@@ -127,3 +132,28 @@ content-readiness:: ready
 | KEYSTONE RENEWAL PAC | $400.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 824373804 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $2.9M |
+| Total Assets | $15.3M |
+| NTEE Code | R24 |
+| IRS Ruling Date | 2018-10-01 |
+| Filings on Record | 6 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2019)
+- ... and 1 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/824373804) (Tier 1)
+<!-- auto:nonprofit-990 end -->

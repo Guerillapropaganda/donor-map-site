@@ -14,6 +14,29 @@ federal-register-mentions: 4
 regulatory-agencies:
   - "Federal Communications Commission"
   - "Federal Trade Commission"
+sec-filings: 1047
+sec-form-types:
+  - "13F-HR"
+  - "8-K"
+  - "CORRESP"
+  - "EX-10.1"
+  - "EX-10.23"
+  - "EX-10.24"
+  - "EX-10.25"
+  - "EX-10.38"
+  - "EX-10.39"
+  - "EX-23.1"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.77O RULE 10F-3"
+  - "INFORMATION TABLE"
+  - "LETTER"
+  - "N-30D"
+  - "N-PX"
+  - "N-Q"
+  - "N-Q/A"
+  - "NSAR-B"
+  - "SC 13G/A"
 ---
 
 #sinclair-broadcasting #media #television #local-news #conservative #propaganda #media-consolidation
@@ -189,3 +212,21 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Sinclair%20Broadcasting%20Group%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,047 |
+| Form Types | 13F-HR, 8-K, CORRESP, EX-10.1, EX-10.23, EX-10.24, EX-10.25, EX-10.38 +13 more |
+
+**Notable filings:**
+
+- 2010-08-25 — **LETTER**: LETTER
+- 2010-09-21 — **LETTER**: LETTER
+- 2010-10-14 — **LETTER**: LETTER
+- 2005-02-14 — **13F-HR**: 13F-HR
+- 2004-02-09 — **SC 13G/A**: SC 13G/A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sinclair%20Broadcasting%20Group%22) (Tier 1)
+<!-- auto:sec-edgar end -->

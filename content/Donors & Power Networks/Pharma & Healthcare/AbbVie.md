@@ -18,6 +18,8 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 top-federal-agency: "Department of Defense"
 top-naics-code: "423450"
+lei: "5493003YLH4WVSPWMC20"
+lei-jurisdiction: "BE"
 ---
 
 #abbvie #pharma #humira #drug-pricing #patent #lobbying
@@ -141,3 +143,18 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-AbbVie) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [5493003YLH4WVSPWMC20](https://search.gleif.org/#/record/5493003YLH4WVSPWMC20) |
+| Legal Name | ABBVIE |
+| Jurisdiction | BE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-12-04T16:57:28Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -341,3 +341,25 @@ content-readiness:: developed
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=ConocoPhillips) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 4 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Kennedy** → Sits on **Banking**
+
+**Funded politicians:**
+
+- [[Lisa Murkowski]] — lobbying: $17.9M
+- [[Dan Sullivan]] — lobbying: $17.9M
+- [[Dan Crenshaw]] — lobbying: $17.9M
+- [[John Kennedy]] (Judiciary, Banking) — lobbying: $17.9M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

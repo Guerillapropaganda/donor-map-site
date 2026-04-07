@@ -2,7 +2,7 @@
 title: "Ethanol Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -26,6 +26,10 @@ sec-form-types:
   - "EX-99.4"
   - "FWP"
   - "XML"
+ein: 300451687
+annual-revenue: "$25K"
+net-assets: "$172K"
+tax-year: "2019"
 ---
 
 #ethanol #corn #biofuel #rfs #agriculture #iowa #mandates #subsidies
@@ -124,3 +128,16 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ethanol%20Industry%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2019)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $25K |
+| Total Contributions | $0 |
+| Total Expenses | $131K |
+| Net Assets | $172K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 300451687](https://projects.propublica.org/nonprofits/organizations/300451687) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=05_2021_prefixes_27-30%2F300451687_201912_990EZ_2021051918142012.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

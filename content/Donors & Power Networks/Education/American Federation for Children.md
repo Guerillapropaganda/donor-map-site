@@ -2,7 +2,7 @@
 title: "American Federation for Children"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Education"
@@ -10,6 +10,10 @@ entity-type: "Individual Donor"
 issues:
   - "Education"
   - "Dark Money & Campaign Finance"
+ein: 330627955
+annual-revenue: "$11.1M"
+net-assets: "$5.2M"
+tax-year: "2023"
 ---
 
 
@@ -193,3 +197,17 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $11.1M |
+| Total Contributions | $11.1M |
+| Investment Income | $84K |
+| Total Expenses | $11.0M |
+| Net Assets | $5.2M |
+| Officer Compensation | $1.1M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 330627955](https://projects.propublica.org/nonprofits/organizations/330627955) (Tier 1)
+<!-- auto:propublica-990 end -->

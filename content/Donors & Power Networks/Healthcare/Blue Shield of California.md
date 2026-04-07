@@ -21,6 +21,16 @@ ein: 942822302
 annual-revenue: "$21.9M"
 net-assets: "$77.4M"
 tax-year: "2023"
+federal-register-mentions: 4
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Employment and Training Administration"
+  - "Federal Trade Commission"
+  - "Health Care Finance Administration"
+  - "Health and Human Services Department"
+  - "Justice Department"
+  - "Labor Department"
 ---
 
 
@@ -146,3 +156,20 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 942822302](https://projects.propublica.org/nonprofits/organizations/942822302) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4 |
+| Notice | 4 |
+| Agencies | Antitrust Division, Employment and Training Administration, Federal Trade Commission, Health Care Finance Administration, Health and Human Services Department, Justice Department, Labor Department |
+
+**Recent regulatory activity:**
+- [Notice of Determinations Regarding Eligibility To Apply for Trade Adjustment Assistance](https://www.federalregister.gov/documents/2020/10/26/2020-23622/notice-of-determinations-regarding-eligibility-to-apply-for-trade-adjustment-assistance) (2020-10-26) — Labor Department
+- [United States v. UnitedHealth Group Incorporated & PacifiCare Health Systems, Inc.; Propoosed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2006/03/20/06-2591/united-states-v-unitedhealth-group-incorporated-and-pacificare-health-systems-inc-propoosed-final) (2006-03-20) — Justice Department
+- [North Lake Tahoe Medical Group, Inc.; Analysis To Aid Public Comment](https://www.federalregister.gov/documents/1999/03/26/99-7404/north-lake-tahoe-medical-group-inc-analysis-to-aid-public-comment) (1999-03-26) — Federal Trade Commission
+- [Medicare Program; Schedule of Limits on Home Health Agency Costs Per Visit](https://www.federalregister.gov/documents/1995/02/14/95-3526/medicare-program-schedule-of-limits-on-home-health-agency-costs-per-visit) (1995-02-14) — Health and Human Services Department ★
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Blue%20Shield%20of%20California%22) (Tier 1)
+<!-- auto:federal-register end -->

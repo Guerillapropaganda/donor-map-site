@@ -17,6 +17,8 @@ last-enriched: "2026-04-07"
 nonprofit-status: "501(c)(3)"
 total-revenue: 4436307
 total-assets: 1150303
+lei: "ENYF8GB5SMQZ25S06U51"
+lei-jurisdiction: "US-DE"
 ---
 
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
@@ -134,3 +136,18 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/262383244) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [ENYF8GB5SMQZ25S06U51](https://search.gleif.org/#/record/ENYF8GB5SMQZ25S06U51) |
+| Legal Name | HALLIBURTON COMPANY |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-06-23T21:07:51Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

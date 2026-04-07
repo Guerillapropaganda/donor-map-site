@@ -23,6 +23,37 @@ regulatory-agencies:
   - "Federal Energy Regulatory Commission"
 lobbying-spend: 3022000
 lobbying-filings: 89
+sec-filings: 64
+sec-form-types:
+  - "10-Q"
+  - "424B2"
+  - "424H"
+  - "425"
+  - "5"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-3.1"
+  - "EX-3.2"
+  - "EX-99.(A)-(1)"
+  - "EX-99.(C)(4)"
+  - "EX-99.(R.2)"
+  - "EX-99.(R2)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "EX-99.A.1.A"
+  - "EX-99.A.3.A"
+  - "EX-99.P.1"
+  - "FWP"
+  - "N-CSR"
+  - "N-CSRS"
+  - "PREM14A"
+  - "PRER14A"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 14D9"
 ---
 
 #donor #billionaire #republican #private-equity #blackstone #wall-street
@@ -235,3 +266,21 @@ content-readiness:: developed
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 64 |
+| Form Types | 10-Q, 424B2, 424H, 425, 5, DEF 14A, DEFA14A, DFAN14A +21 more |
+
+**Notable filings:**
+
+- 2007-06-15 — **FWP**: FWP
+- 2019-05-28 — **EX-99.2**: EXHIBIT 99.2
+- 2002-02-14 — **5**: STEPHEN SCHWARZMAN
+- 2011-11-04 — **EX-99.4**: PRESS RELEASE
+- 2007-05-16 — **SC 13D/A**: AMENDMENT NO. 10 TO SCHEDULE 13D
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Stephen%20Schwarzman%22) (Tier 1)
+<!-- auto:sec-edgar end -->

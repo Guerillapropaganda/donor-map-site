@@ -8,15 +8,17 @@ parent: null
 sector: "Israel Lobby"
 entity-type: "Individual Donor"
 politicians-funded:
+  - "Joe Biden"
+  - "Hakeem Jeffries"
+  - "Nancy Pelosi"
   - "Gavin Newsom"
-  - "Donald Trump"
-  - "Benjamin Netanyahu"
 issues:
   - "Israel & Foreign Policy"
 ein: 306473477
 annual-revenue: "$2.0M"
 net-assets: "$26.3M"
 tax-year: "2020"
+total-political-spend: "$20,115,751"
 ---
 
 
@@ -142,3 +144,28 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 306473477](https://projects.propublica.org/nonprofits/organizations/306473477) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $20,115,751 |
+| Contributions | 450 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| HOUSE MAJORITY PAC | $3,750,000 | — |
+| UNITED DEMOCRACY PROJECT ('UDP') | $3,000,000 | — |
+| SMP | $2,260,852 | — |
+| HARRIS VICTORY FUND | $1,852,599 | — |
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $1,242,500 | DEM |
+| DCCC | $1,026,500 | DEM |
+| UNITED DEMOCRACY PROJECT (UDP) | $1,000,000 | — |
+| BIDEN VICTORY FUND | $725,000 | — |
+| DSCC | $504,000 | DEM |
+| DEMOCRATIC GRASSROOTS VICTORY FUND | $500,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Haim%20Saban) (Tier 1)
+<!-- auto:fec-donor end -->

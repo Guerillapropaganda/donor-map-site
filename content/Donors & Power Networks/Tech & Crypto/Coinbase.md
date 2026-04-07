@@ -2,7 +2,7 @@
 title: "Coinbase"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -24,6 +24,14 @@ court-jurisdictions:
   - "District Court, M.D. Alabama"
   - "District Court, M.D. Tennessee"
   - "District Court, N.D. California"
+subawards-issued: 50
+subawards-issued-amount: 51876611853
+subawards-received: 50
+subawards-received-amount: 51876611853
+top-federal-agency: "Department of Justice"
+top-naics-code: "523160"
+lei: "549300QHD76EP6ZKTT48"
+lei-jurisdiction: "US-DE"
 ---
 
 #coinbase #crypto #lobbying #sec #deregulation #fairshake
@@ -130,3 +138,60 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Coinbase%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($51.9B sampled) |
+| Subawards Received (as sub) | 50 ($51.9B sampled) |
+| Top Federal Agency | Department of Justice ($7.0M) |
+| Primary NAICS Sector | Commodity Contracts Intermediation |
+
+**Subcontractors receiving federal money from Coinbase:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| SUFFOLK, COUNTY OF | $15.3B | 2 |
+| AMERICAN UNIVERSITY | $9.9B | 1 |
+| SCHOOL DISTRICT OF WABENO AREA | $9.5B | 1 |
+| WILLIAMSPORT MUNICIPAL WATER AUTHORITY | $9.0B | 1 |
+| DEPARTMENT OF STATE HEALTH SERVICES | $8.2B | 1 |
+
+**Prime contractors funneling federal money to Coinbase:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $51.9B | 6 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Justice | $7.0M |
+| Department of Homeland Security | $1.0M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Commodity Contracts Intermediation (523160) | $7.0M |
+| Securities and Commodity Exchanges (523210) | $1.0M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300QHD76EP6ZKTT48](https://search.gleif.org/#/record/549300QHD76EP6ZKTT48) |
+| Legal Name | COINBASE, INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-02-07T23:51:00Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

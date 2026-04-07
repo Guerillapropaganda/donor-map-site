@@ -2,7 +2,7 @@
 title: "Harlan Crow"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Clarence Thomas"
 issues:
   - "Housing"
+ein: 463077371
+annual-revenue: "$109"
+net-assets: "$4K"
+tax-year: "2023"
 ---
 
 
@@ -134,3 +138,15 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 | HONOR PENNSYLVANIA, INC. | $225.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $109 |
+| Total Contributions | $0 |
+| Total Expenses | $3K |
+| Net Assets | $4K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 463077371](https://projects.propublica.org/nonprofits/organizations/463077371) (Tier 1)
+<!-- auto:propublica-990 end -->

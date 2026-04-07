@@ -66,6 +66,9 @@ regulatory-agencies:
   - "International Trade Administration"
   - "Justice Department"
   - "Labor Department"
+federal-awards-total: 10432350765
+federal-contracts-count: 25
+federal-grants-count: 9
 ---
 
 #leidos #defense #intelligence #it #government #contractor #cybersecurity #revolving-door #outsourcing #surveillance
@@ -363,3 +366,35 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Leidos%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $10.4B |
+| Contracts (recent 3yr) | 25 ($28.6B sampled) |
+| Grants (recent 3yr) | 9 ($11.4M sampled) |
+| Federal Agencies | 13 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $4.8B | Department of Health and Human Services | TAS::75 0849::TAS  OPER OF GOVT R&D GOCO FACILITIES |
+| $3.6B | Department of Energy | MISSION SUPPORT CONTRACT - PROVIDE DIRECT SUPPORT TO DOE-RL, DOE-ORP AND THEIR CONTRACTORS WITH COST |
+| $3.1B | National Science Foundation | SCIENCE OPERATION AND MAINTENANCE SUPPORT FOR THE UNITED STATES ANTARCTIC PROGRAM |
+| $1.8B | Department of Health and Human Services | NCI OPERATIONAL TASK ORDER |
+| $1.3B | National Aeronautics and Space Administration | THE FACILITIES DEVELOPMENT AND OPERATIONS CONTRACT(FDOC) SPECIFIES TECHNICAL, MANAGERIAL, AND ADMINS |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $11.2M | Department of Education | CONVERGENCE:  WHEN ART AND STEM MEET |
+| $57K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
+| $53K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
+| $50K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
+| $29K | Department of Housing and Urban Development | MOD UNIT INSPITA CON |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/3b1c9c58-1f9e-8125-7105-02f4ff2c5b8b-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

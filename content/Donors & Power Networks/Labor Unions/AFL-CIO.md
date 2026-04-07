@@ -2,7 +2,7 @@
 title: "AFL-CIO"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -13,6 +13,10 @@ ein: 746062811
 annual-revenue: "$70K"
 net-assets: "$47K"
 tax-year: "2023"
+total-political-spend: "$5,644,162"
+politicians-funded:
+  - "Adam Schiff"
+  - "Brendan Boyle"
 ---
 
 #afl-cio #labor #unions #federation #democratic #organizing #wages #pro-act #class-analysis #follow-the-money
@@ -216,3 +220,28 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 746062811](https://projects.propublica.org/nonprofits/organizations/746062811) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $5,644,162 |
+| Contributions | 499 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| HMP | $1,450,000 | — |
+| SMP | $1,000,000 | — |
+| WORKERS VOTE | $325,000 | — |
+| DCCC | $227,000 | DEM |
+| WOMEN VOTE | $225,000 | — |
+| DSCC | $217,500 | DEM |
+| AB PAC | $200,000 | — |
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $150,000 | DEM |
+| IN UNION USA | $100,000 | — |
+| COMMUNITIES UNITED | $100,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFL-CIO) (Tier 1)
+<!-- auto:fec-donor end -->

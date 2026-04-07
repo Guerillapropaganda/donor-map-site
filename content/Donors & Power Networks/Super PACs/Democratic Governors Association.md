@@ -2,13 +2,19 @@
 title: "Democratic Governors Association"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Healthcare"
+federal-register-mentions: 4
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Coast Guard"
+  - "Federal Election Commission"
+  - "Homeland Security Department"
 ---
 
 #democratic-governors-association #DGA #super-pac #gubernatorial #party-committee #corporate-donors #pharma
@@ -130,3 +136,21 @@ content-readiness:: ready
 | A STRONGER OHIO | $7.6M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4 |
+| Notice | 3 |
+| Rule | 1 |
+| Agencies | Coast Guard, Federal Election Commission, Homeland Security Department |
+
+**Recent regulatory activity:**
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/09/10/2013-22067/sunshine-act-meetings) (2013-09-10) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/08/20/2013-20344/sunshine-act-meetings) (2013-08-20) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/07/23/2013-17733/sunshine-act-meetings) (2013-07-23) — Federal Election Commission
+- [Safety Zone; Democratic Governors Association Fireworks Display-Boston, MA](https://www.federalregister.gov/documents/2004/07/23/04-16831/safety-zone-democratic-governors-association-fireworks-display-boston-ma) (2004-07-23) — Homeland Security Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Democratic%20Governors%20Association%22) (Tier 1)
+<!-- auto:federal-register end -->

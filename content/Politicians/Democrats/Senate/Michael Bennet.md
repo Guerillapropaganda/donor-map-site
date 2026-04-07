@@ -2,13 +2,15 @@
 title: "Michael Bennet"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 stock-trades: 7
 stock-trade-tickers:
   - "RGC"
   - "LVLT"
+total-received: "$7,524,650"
+fec-candidate-id: "P00011833"
 ---
 
 #michael-bennet #senator #colorado #education #reform #moderate #class-analysis #democrat
@@ -116,3 +118,23 @@ content-readiness:: ready
 
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2020 |
+| Total Raised | $7,524,650 |
+| Individual Contributions | $4,462,562 |
+| PAC Contributions | $4,807 |
+| Cash on Hand | 3864.37 |
+| IE Support (Super PAC) | $176 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| MISLOVE, ALAN EDWARD | $176 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00011833/) (Tier 1)
+<!-- auto:fec-politician end -->

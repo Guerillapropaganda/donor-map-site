@@ -2,7 +2,7 @@
 title: "Kyrsten Sinema Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Independent"
@@ -15,6 +15,7 @@ issues:
 top-donors:
   - "Wall Street Bloc"
   - "Pharmaceutical Industry"
+fec-candidate-id: "H2AZ09019"
 ---
 
 
@@ -164,3 +165,34 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2018 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $1,445,052 |
+| IE Opposition (Super PAC) | $9,074,334 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2018 | $0 | $0 | $0 |
+| 2016 | $4,402,181 | $1,948,260 | $1,862,584 |
+| 2014 | $3,718,525 | $1,845,015 | $1,380,006 |
+| 2012 | $2,167,384 | $1,250,242 | $371,319 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEFENDARIZONA | $0 | $3,377,416 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $0 | $2,817,627 |
+| AMERICAN FUTURE FUND | $0 | $1,145,640 |
+| CONGRESSIONAL LEADERSHIP FUND | $0 | $1,143,122 |
+| NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $712,100 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1)
+<!-- auto:fec-politician end -->

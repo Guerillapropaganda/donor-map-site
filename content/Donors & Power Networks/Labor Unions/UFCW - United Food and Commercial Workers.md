@@ -2,7 +2,7 @@
 title: "UFCW - United Food and Commercial Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -14,6 +14,10 @@ politicians-funded:
   - "Katie Porter"
 issues:
   - "Labor & Workers"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "RUSSIA-EO14024"
 ---
 
 
@@ -167,3 +171,20 @@ content-readiness:: ready
 | BLOCK BY BLOCK PAC | $17.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- JOINT STOCK INVESTMENT COMMERCIAL BANK ENISEISK UNITED BANK (-0-) [RUSSIA-EO14024]
+  - Remarks: SWIFT/BIC EUJKRU55; Website www.united.ru; Secondary sanctions risk: See Section 11 of Executive Order 14024.; Target Type Financial Institution; Tax ID No. 2447002227 (Russia); Legal Entity Number 25...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

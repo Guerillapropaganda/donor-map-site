@@ -8,7 +8,7 @@ parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 court-cases: 218
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"
   - "District Court, C.D. California"
@@ -37,6 +37,9 @@ sec-form-types:
   - "SC 13G/A"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+federal-register-mentions: 2
+regulatory-agencies:
+  - "Securities and Exchange Commission"
 ---
 
 #reed-hastings #netflix #charter-school #education-reform #mega-donor #democratic #Hastings Fund
@@ -192,3 +195,19 @@ content-readiness:: ready
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Notice | 1 |
+| Proposed Rule | 1 |
+| Agencies | Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Amending NYSE Arca Equities Rule 5.3(i)(3) To Amend the Requirements for the Dissemination of News in Compliance With the Exchange's Immediate Release Policy](https://www.federalregister.gov/documents/2016/08/31/2016-20881/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed) (2016-08-31) — Securities and Exchange Commission
+- [Business and Financial Disclosure Required by Regulation S-K](https://www.federalregister.gov/documents/2016/04/22/2016-09056/business-and-financial-disclosure-required-by-regulation-s-k) (2016-04-22) — Securities and Exchange Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Reed%20Hastings%22) (Tier 1)
+<!-- auto:federal-register end -->

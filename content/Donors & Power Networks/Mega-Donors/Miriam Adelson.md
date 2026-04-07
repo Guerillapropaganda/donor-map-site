@@ -2,7 +2,7 @@
 title: "Miriam Adelson"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -21,6 +21,19 @@ ein: 886063073
 annual-revenue: "$13K"
 net-assets: "$90K"
 tax-year: "2023"
+court-cases: 41
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Nevada"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Florida"
+  - "District Court, N.D. Illinois"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. New York"
 ---
 
 
@@ -248,3 +261,22 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 886063073](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 41 |
+| Courts | Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, D. Massachusetts, District Court, D. Nevada, District Court, District of Columbia, District Court, N.D. California, District Court, N.D. Florida, District Court, N.D. Illinois +2 more |
+| Case Types | 290 Real Property: Other, 440 Civil Rights: Other, 463 Prisoner Pet/Habeas Corpus: Alien Detainee, 820 Copyright |
+
+**Notable cases:**
+- Adelson, et al. v. United States District Court for the District of Nevada, Las Vegas (2026) — Court of Appeals for the Ninth Circuit
+- DAMSKY v. SUMMERLIN (2025) — District Court, N.D. Florida
+- Getty Images (US), Inc. v. Stability AI, Ltd. (2025) — District Court, N.D. California
+- Stanford Daily Publishing Corporation v. Rubio (2025) — District Court, N.D. California
+- Kordia v. Noem (2025) — District Court, N.D. Texas
+- American Association of University Professors v. Rubio (2025) — District Court, D. Massachusetts
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Miriam%20Adelson%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

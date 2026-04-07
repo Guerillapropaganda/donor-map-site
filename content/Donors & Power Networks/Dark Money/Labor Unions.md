@@ -2,7 +2,7 @@
 title: "Labor Unions"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,6 +15,7 @@ net-assets: "$57.0M"
 tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+total-political-spend: "$500"
 ---
 
 #labor #unions #democratic #organizing #collective-bargaining #pac #decline
@@ -69,3 +70,19 @@ content-readiness:: ready
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
 ### Federal Subawards & Spending Breakdown
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $500 |
+| Contributions | 1 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| FRANK KRATOVIL FOR CONGRESS | $500 | NNE |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Labor%20Unions) (Tier 1)
+<!-- auto:fec-donor end -->

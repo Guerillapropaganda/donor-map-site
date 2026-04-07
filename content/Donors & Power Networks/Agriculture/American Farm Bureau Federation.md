@@ -2,7 +2,7 @@
 title: "American Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -14,11 +14,15 @@ issues:
   - "Environment"
   - "Trade"
   - "Labor & Workers"
-ein: 360725160
+ein: "360725160"
 annual-revenue: "$37.3M"
 net-assets: "$108.4M"
 tax-year: "2023"
 total-political-spend: "$44,294"
+nonprofit-status: "501(c)(5)"
+last-enriched: "2026-04-07"
+total-revenue: 36693260
+total-assets: 125601852
 ---
 
 
@@ -251,3 +255,27 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 360725160 |
+| Tax-Exempt Status | 501(c)(5) |
+| Total Revenue | $36.7M |
+| Total Assets | $125.6M |
+| IRS Ruling Date | 1950-06-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/360725160) (Tier 1)
+<!-- auto:nonprofit-990 end -->

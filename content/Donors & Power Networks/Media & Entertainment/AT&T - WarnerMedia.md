@@ -15,6 +15,14 @@ cpsc-recalls: 1
 last-enriched: "2026-04-07"
 lei: "81560046090960AF7A65"
 lei-jurisdiction: "IT"
+subawards-issued: 50
+subawards-issued-amount: 51876611853
+subawards-received: 50
+subawards-received-amount: 51876611853
+top-federal-agency: "Department of Veterans Affairs"
+top-naics-code: "517110"
+lobbying-spend: 21040000
+lobbying-filings: 28
 ---
 
 #att #telecom #media #net-neutrality #lobbying #merger #surveillance #broadband
@@ -103,3 +111,76 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($51.9B sampled) |
+| Subawards Received (as sub) | 50 ($51.9B sampled) |
+| Top Federal Agency | Department of Veterans Affairs ($1.8B) |
+| Primary NAICS Sector | Wired Telecommunications Carriers |
+
+**Subcontractors receiving federal money from AT&T:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| SUFFOLK, COUNTY OF | $15.3B | 2 |
+| AMERICAN UNIVERSITY | $9.9B | 1 |
+| SCHOOL DISTRICT OF WABENO AREA | $9.5B | 1 |
+| WILLIAMSPORT MUNICIPAL WATER AUTHORITY | $9.0B | 1 |
+| DEPARTMENT OF STATE HEALTH SERVICES | $8.2B | 1 |
+
+**Prime contractors funneling federal money to AT&T:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $51.9B | 6 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Veterans Affairs | $1.8B |
+| Department of Defense | $896.9M |
+| Department of Justice | $648.4M |
+| Department of Homeland Security | $635.3M |
+| Department of State | $574.1M |
+| Department of the Treasury | $449.5M |
+| Department of Agriculture | $158.6M |
+| Department of Transportation | $149.1M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Wired Telecommunications Carriers (517110) | $4.6B |
+| Wireless Telecommunications Carriers (except Satellite) (517312) | $476.0M |
+| Wired Telecommunications Carriers (517311) | $215.5M |
+| Other Computer Related Services (541519) | $197.3M |
+| Wired Telecommunications Carriers (517111) | $179.3M |
+| Wireless Telecommunications Carriers (except Satellite) (517112) | $85.3M |
+| Computer Systems Design Services (541512) | $55.2M |
+| Engineering Services (541330) | $47.8M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $21.0M |
+| Quarterly Filings | 28 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 13 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Communications/Broadcasting/Radio/TV, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Foreign Relations, Government Issues, Indian/Native American Affairs, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign)
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ARNOLD & PORTER KAYE SCHOLER LLP, AT&T SERVICES, INC. AND ITS AFFILIATES, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CARPENTER STRATEGIC CONSULTING LLC, CLYBURN CONSULTING, LLC, EAST CAPITOL ADVISORS LLC, GONRING, SPAHN & ASSOCIATES, INC., HB STRATEGIES, HSA STRATEGIES, MR. BRIAN KELLY, POTOMAC STRATEGIC CONSULTING LLC, THE GIBSON GROUP, LLC
+
+**Agencies contacted:** Commerce, Dept of (DOC), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Natl Economic Council (NEC), Natl Security Council (NSC), Natl Telecommunications & Information Administration (NTIA), Office of Administration +7 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=AT%26T) (Tier 1)
+<!-- auto:lda-lobbying end -->

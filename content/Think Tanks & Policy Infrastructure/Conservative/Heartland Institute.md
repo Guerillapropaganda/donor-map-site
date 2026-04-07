@@ -12,6 +12,32 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 3350282
 total-assets: 1074871
+sec-filings: 55
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "424B3"
+  - "424B4"
+  - "425"
+  - "487"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFM14A"
+  - "DRS"
+  - "EX-10.42"
+  - "EX-10.45"
+  - "EX-99.(A)(1)(A)"
+  - "EX-99.(A)(1)(F)"
+  - "N-CSRS"
+  - "POS AM"
+  - "PRE 14A"
+  - "PREM14A"
+  - "PRER14A"
+  - "PX14A6G"
+  - "S-1"
+  - "S-1/A"
+  - "S-6"
+  - "U-13-60"
 ---
 
 #think-tank #conservative #climate-denial #tobacco #fossil-fuel #NIPCC #model-legislation #state-policy #class-analysis
@@ -243,3 +269,21 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363309812) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 55 |
+| Form Types | 10-K, 10-K/A, 424B3, 424B4, 425, 487, CORRESP, DEF 14A +16 more |
+
+**Notable filings:**
+
+- 2019-04-10 — **PX14A6G**: NOTICE OF EXEMPT SOLICITATION
+- 2006-06-06 — **425**: PROSPECTUSES AND COMMUNICATIONS RE: BUSINESS COMBINATION TRANSACTIONS
+- 2014-04-01 — **425**: FORM 425
+- 2006-03-13 — **425**: 425
+- 2011-03-31 — **CORRESP**: CORRESP
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Heartland%20Institute%22) (Tier 1)
+<!-- auto:sec-edgar end -->

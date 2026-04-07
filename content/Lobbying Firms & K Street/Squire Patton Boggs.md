@@ -16,6 +16,29 @@ fara-countries:
   - "KAZAKHSTAN"
   - "KOREA SOUTH"
   - "PALESTINE"
+ein: "522284635"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 442348
+total-assets: 1938151
+sec-filings: 4003
+sec-form-types:
+  - "CORRESP"
+  - "DRSLTR"
+  - "EX-5"
+  - "EX-5.(A)"
+  - "EX-5.(A)(I)"
+  - "EX-5.(A)(II)"
+  - "EX-5.(B)(I)"
+  - "EX-5.1"
+  - "EX-5.A"
+  - "EX-5.A(I)"
+  - "EX-5.A(II)"
+  - "EX-5.A.I"
+  - "EX-5.A.II"
+  - "EX-8.1"
+  - "EX-8.3"
+  - "EX-99.(L)(3)"
 ---
 
 #lobbying #k-street #defense #trade #appropriations #transportation #foreign-governments #revolving-door #bipartisan #fara
@@ -238,3 +261,46 @@ content-readiness:: ready
 
 - [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Squire%20Patton%20Boggs,) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 522284635 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $442K |
+| Total Assets | $1.9M |
+| NTEE Code | T21 |
+| IRS Ruling Date | 2001-03-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2023, 2022, 2021, 2021, 2020, 2019, 2018, 2017
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/522284635/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/522284635/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/522284635/2021)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/522284635/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/522284635/2020)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/522284635) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 4,003 |
+| Form Types | CORRESP, DRSLTR, EX-5, EX-5.(A), EX-5.(A)(I), EX-5.(A)(II), EX-5.(B)(I), EX-5.1 +8 more |
+
+**Notable filings:**
+
+- 2014-07-07 — **EX-5.1**: OPINION OF SQUIRE PATTON BOGGS (US) LLP
+- 2017-08-24 — **EX-5**: EXHIBIT 5
+- 2023-02-13 — **EX-8.3**: OPINION OF SQUIRE PATTON BOGGS (US) LLP REGARDING CERTAIN US TAX MATTERS
+- 2019-10-07 — **EX-5.A**: EXHIBIT 5.A
+- 2026-02-10 — **EX-5.A**: EX-5.A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Squire%20Patton%20Boggs%22) (Tier 1)
+<!-- auto:sec-edgar end -->

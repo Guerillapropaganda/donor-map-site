@@ -2,13 +2,16 @@
 title: "Mitt Romney"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Senate"
 total-received: "$483,642,897"
 fec-candidate-id: "P80003353"
+govtrack-id: 412841
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 #politician #republican #senator #presidential2012 #bain-capital #self-funding #private-equity
@@ -101,3 +104,27 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003353/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 2,360 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-21 | H.R. 10545 (118th): American Relief Act, 2025 | Nay | Bill Passed |
+| 2024-12-21 | H.R. 82 (118th): Social Security Fairness Act of 2023 | Nay | Bill Passed |
+| 2024-12-20 | On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: H.R. 82) | Nay | Motion Agreed to |
+| 2024-12-20 | S.Amdt. 3331 (Crapo) to H.R. 82: To delay the repeal of the Government pension o… | Yea | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3360 (Cruz) to H.R. 82: In the nature of a substitute. | Yea | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3352 (Paul) to H.R. 82: To provide for automatic continuing resolutions. | Yea | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3346 (Paul) to H.R. 82: To adjust the normal and early retirement ages f… | Nay | Amendment Rejected |
+| 2024-12-20 | On the Nomination PN2245: Serena Raquel Murillo, of California, to be United Sta… | Nay | Nomination Confirmed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412841) (Tier 1)
+<!-- auto:govtrack end -->

@@ -17,6 +17,32 @@ regulatory-agencies:
   - "Antitrust Division"
   - "Defense Department"
   - "Justice Department"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "11-K"
+  - "15-12B"
+  - "425"
+  - "8-K"
+  - "8-K12B"
+  - "EX-10.(X)(VI)"
+  - "EX-10.38"
+  - "EX-10.40"
+  - "EX-10.41"
+  - "EX-10.42"
+  - "EX-21"
+  - "EX-21.1"
+  - "EX-3.1"
+  - "EX-4.1"
+  - "EX-4.3"
+  - "EX-4.4"
+  - "EX-5"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.5"
+  - "S-8"
+  - "S-8 POS"
 ---
 
 #defense-contractor #surveillance-technology #military-intelligence #l3harris-merger #weapons-systems
@@ -154,3 +180,21 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22L3%20Technologies%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-Q, 11-K, 15-12B, 425, 8-K, 8-K12B, EX-10.(X)(VI) +16 more |
+
+**Notable filings:**
+
+- 2019-07-01 — **S-8 POS**: S-8 POS
+- 2019-07-01 — **S-8 POS**: S-8 POS
+- 2019-07-01 — **S-8 POS**: S-8 POS
+- 2019-07-01 — **S-8 POS**: S-8 POS
+- 2019-07-01 — **S-8 POS**: S-8 POS
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22L3%20Technologies%22) (Tier 1)
+<!-- auto:sec-edgar end -->

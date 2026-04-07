@@ -15,6 +15,18 @@ federal-contracts-count: 5
 federal-grants-count: 0
 lei: "0W9AIBT6U6ADJ2I8HK17"
 lei-jurisdiction: "US-NV"
+federal-register-mentions: 50
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Employment and Training Administration"
+  - "Environmental Protection Agency"
+  - "Federal Trade Commission"
+  - "Health and Human Services Department"
+  - "Justice Department"
+  - "Labor Department"
+  - "National Labor Relations Board"
+  - "Securities and Exchange Commission"
 ---
 
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory
@@ -191,3 +203,24 @@ content-readiness:: developed
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 50 |
+| Final Rules | 2 |
+| Notices | 48 |
+| Agencies | Antitrust Division, Employment and Training Administration, Environmental Protection Agency, Federal Trade Commission, Health and Human Services Department, Justice Department, Labor Department, National Labor Relations Board +1 more |
+
+**Recent regulatory activity:**
+- [Standard for Determining Joint Employer Status](https://www.federalregister.gov/documents/2023/10/27/2023-23573/standard-for-determining-joint-employer-status) (2023-10-27) — National Labor Relations Board ★
+- [Notice of Determinations Regarding Eligibility To Apply for Trade Adjustment Assistance](https://www.federalregister.gov/documents/2021/01/29/2021-01933/notice-of-determinations-regarding-eligibility-to-apply-for-trade-adjustment-assistance) (2021-01-29) — Labor Department
+- [United States et al. v. The Charlotte-Mecklenburg Hospital Authority, d/b/a Carolinas Healthcare System; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2018/12/11/2018-26755/united-states-et-al-v-the-charlotte-mecklenburg-hospital-authority-dba-carolinas-healthcare-system) (2018-12-11) — Justice Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2017/12/11/2017-26578/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2017-12-11) — Federal Trade Commission
+- [Casmalia Resources Superfund Site; Notice of Proposed CERCLA Administrative De Minimis Settlement](https://www.federalregister.gov/documents/2017/10/02/2017-21123/casmalia-resources-superfund-site-notice-of-proposed-cercla-administrative-de-minimis-settlement) (2017-10-02) — Environmental Protection Agency
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2017/07/19/2017-15093/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2017-07-19) — Federal Trade Commission
+- ... and 44 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tenet%20Healthcare%22) (Tier 1)
+<!-- auto:federal-register end -->

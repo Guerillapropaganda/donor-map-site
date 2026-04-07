@@ -2,10 +2,12 @@
 title: "Chris Christie"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
+total-received: "$7,628,085"
+fec-candidate-id: "P60008521"
 ---
 
 #christie #independent #former-governor #new-jersey #bridgegate #anti-trump #kushner-vendetta #2024-candidate #class-analysis
@@ -112,3 +114,33 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $7,628,085 |
+| Individual Contributions | $5,219,185 |
+| PAC Contributions | $30,300 |
+| Cash on Hand | 32731.57 |
+| IE Support (Super PAC) | $41,246,610 |
+| IE Opposition (Super PAC) | $6,643,036 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $7,628,085 | $5,219,185 | $30,300 |
+| 2016 | $8,770,289 | $7,989,088 | $115,738 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| AMERICA LEADS | $35,391,631 | $0 |
+| CONSERVATIVE SOLUTIONS PAC | $0 | $6,643,036 |
+| TELL IT LIKE IT IS PAC | $5,854,979 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60008521/) (Tier 1)
+<!-- auto:fec-politician end -->

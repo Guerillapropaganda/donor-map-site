@@ -13,6 +13,11 @@ issues:
   - "Technology"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+court-cases: 3
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, D. Delaware"
+  - "District Court, N.D. California"
 ---
 
 #ajay-royan #mithril-capital #thiel #tech #venture-capital #defense-tech #biotech #republican #donor #paypal-mafia-adjacent #oak-ridge #hoover-institution
@@ -158,3 +163,19 @@ research-status:: developed — Expanded from 32-line stub to full donor node. 1
 content-readiness:: developed
 
 ### Federal Subawards & Spending Breakdown
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 3 |
+| Courts | District Court, D. Delaware, District Court, N.D. California |
+| Case Types | 442 Civil Rights: Jobs, 850 Securities/Commodities, Contract: Other |
+
+**Notable cases:**
+- Mithril II L.P. v. ColubrisMX, Inc. (2022) — District Court, D. Delaware
+- Mithril GP Employee Feeder LLC v. Crystal Scripps McKellar (2019) — District Court, D. Delaware
+- McKellar v. Mithril Capital Management LLC (2019) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ajay%20Royan%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

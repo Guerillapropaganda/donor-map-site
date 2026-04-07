@@ -2,7 +2,7 @@
 title: "Mallory McMorrow Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,6 +11,8 @@ state: "Michigan"
 state-abbr: "MI"
 top-donors:
   - "National Progressive Donor Networks"
+total-received: "$5,595,106"
+fec-candidate-id: "S6MI00392"
 ---
 
 
@@ -233,3 +235,23 @@ The Michigan primary cannot tell us which path McMorrow will follow. But it can 
 
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $5,595,106 |
+| Individual Contributions | $2,842,867 |
+| PAC Contributions | $34,149 |
+| Cash on Hand | 1951146.97 |
+| IE Support (Super PAC) | $50 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| THE PEOPLE UNITED PAC | $50 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MI00392/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -2,7 +2,7 @@
 title: "BGR Group"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 annual-revenue: "$71.5M"
@@ -21,6 +21,8 @@ court-jurisdictions:
   - "District Court, S.D. Mississippi"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. Indiana"
+lei: "549300OIZGC2Y6ME1214"
+lei-jurisdiction: "BG"
 ---
 
 #lobbying #k-street #revolving-door #republican #foreign-governments #pharma #defense #finance #bipartisan #trump-aligned
@@ -302,3 +304,18 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BGR%20Group%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300OIZGC2Y6ME1214](https://search.gleif.org/#/record/549300OIZGC2Y6ME1214) |
+| Legal Name | Би Джи Ар Груп |
+| Jurisdiction | BG |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-02-03T00:00:00Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

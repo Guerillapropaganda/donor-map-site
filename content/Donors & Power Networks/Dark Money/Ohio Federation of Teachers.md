@@ -12,6 +12,9 @@ issues:
   - "Education"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+sec-filings: 1
+sec-form-types:
+  - "424B3"
 ---
 
 #ohio #teachers #union #labor #education #democratic #oft #aft #afl-cio #vouchers #public-education #collective-bargaining
@@ -138,3 +141,17 @@ The deeper pattern: OFT represents workers who serve the public. The donor class
 content-readiness:: developed
 
 ### Federal Subawards & Spending Breakdown
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1 |
+| Form Types | 424B3 |
+
+**Notable filings:**
+
+- 2014-04-14 — **424B3**: 424B3
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ohio%20Federation%20of%20Teachers%22) (Tier 1)
+<!-- auto:sec-edgar end -->

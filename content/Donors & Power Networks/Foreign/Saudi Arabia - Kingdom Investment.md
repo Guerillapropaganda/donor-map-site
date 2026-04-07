@@ -2,11 +2,15 @@
 title: "Saudi Arabia - Kingdom Investment"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "SDGT"
 ---
 
 #saudi-arabia #foreign #oil #arms-sales #mbs #pif #lobbying #khashoggi
@@ -49,3 +53,20 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 - [Ballotpedia: Saudi Arabia-US relations](https://ballotpedia.org/Saudi_Arabia_-_Kingdom_Investment) (Tier 3)
 
 content-readiness:: ready
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | SDGT |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- ISIL-SAUDI ARABIA (-0-) [SDGT]
+  - Remarks: Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; a.k.a. 'WILAYAT NAJD'; a.k.a. 'NAJD PROVINCE'; a.k.a. 'PROVINCE OF THE TWO HOLY PLACES'; a.k.a. 'A...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

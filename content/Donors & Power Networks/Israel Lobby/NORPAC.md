@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Jamaal Bowman"
 federal-register-mentions: 42
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Commerce Department"
   - "Employment and Training Administration"
@@ -24,6 +24,10 @@ lei: "9845000814B4D365EG29"
 lei-jurisdiction: "IN"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+ein: "352841377"
+nonprofit-status: "501(c)(4)"
+total-revenue: 2327
+total-assets: 51394
 ---
 
 #norpac #israel-lobby #pro-israel #pac #bundling #new-jersey #bipartisan #dinner-fundraiser #follow-the-money
@@ -223,3 +227,18 @@ content-readiness:: ready
 <!-- auto:gleif-lei end -->
 
 ### Federal Subawards & Spending Breakdown
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 352841377 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $2K |
+| Total Assets | $51K |
+| NTEE Code | R99 |
+| IRS Ruling Date | 2025-03-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352841377) (Tier 1)
+<!-- auto:nonprofit-990 end -->

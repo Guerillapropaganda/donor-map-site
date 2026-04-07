@@ -16,6 +16,7 @@ top-donors:
   - "Leonard Leo"
 total-received: "$1,150,554"
 fec-candidate-id: "S8MO00160"
+bioguide-id: "A000383"
 ---
 
 
@@ -154,3 +155,10 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

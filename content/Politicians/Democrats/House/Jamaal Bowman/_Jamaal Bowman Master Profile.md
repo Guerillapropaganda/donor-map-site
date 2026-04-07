@@ -2,7 +2,7 @@
 title: "Jamaal Bowman Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -10,6 +10,8 @@ chamber: "House"
 district: "16"
 issues:
   - "Israel & Foreign Policy"
+total-received: "$6,052,176"
+fec-candidate-id: "H0NY16143"
 ---
 
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester
@@ -259,3 +261,36 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $6,052,176 |
+| Individual Contributions | $3,819,429 |
+| PAC Contributions | $295,120 |
+| Cash on Hand | 79884.30 |
+| IE Support (Super PAC) | $5,053,983 |
+| IE Opposition (Super PAC) | $24,339,399 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $6,052,176 | $3,819,429 | $295,120 |
+| 2022 | $1,877,493 | $1,132,720 | $219,004 |
+| 2020 | $2,915,373 | $1,241,147 | $165,445 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| UNITED DEMOCRACY PROJECT ('UDP') | $0 | $19,090,698 |
+| FAIRSHAKE | $0 | $4,133,800 |
+| JUSTICE DEMOCRATS PAC | $3,151,946 | $0 |
+| DMFI PAC | $0 | $990,125 |
+| COURAGE TO CHANGE | $469,200 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
+<!-- auto:fec-politician end -->

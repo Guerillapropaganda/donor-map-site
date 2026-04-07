@@ -27,6 +27,39 @@ court-jurisdictions:
   - "District Court, W.D. Kentucky"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+sec-filings: 10000
+sec-form-types:
+  - "10-D"
+  - "10-K"
+  - "4"
+  - "40-APP"
+  - "424B2"
+  - "425"
+  - "497"
+  - "DEF 14A"
+  - "EX-2"
+  - "EX-21"
+  - "EX-33"
+  - "EX-33.10"
+  - "EX-33.11"
+  - "EX-33.12"
+  - "EX-33.1C"
+  - "EX-33.7"
+  - "EX-33.8"
+  - "EX-33.9"
+  - "EX-35"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.77O RULE 10F-3"
+  - "EX-99.77Q1 OTHR EXHB"
+  - "EX-99.J OTHER OPININ"
+  - "FWP"
+  - "MA"
+  - "MA/A"
+  - "N-CEN"
+  - "N-PX"
+  - "NPORT-EX"
+  - "SCHEDULE 13G/A"
 ---
 
 #wells-fargo #wall-street #consumer #fraud #fake-accounts #banking #charlotte
@@ -125,3 +158,23 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Wells%20Fargo) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-D, 10-K, 4, 40-APP, 424B2, 425, 497, DEF 14A +23 more |
+| CIK | 72971 |
+| Ticker | WFC |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000210/0000072971-26-000210-index.htm)
+- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000209/0000072971-26-000209-index.htm)
+- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000208/0000072971-26-000208-index.htm)
+- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000207/0000072971-26-000207-index.htm)
+- 2026-04-02 — **424B2**: [PRELIMINARY PRICING SUPPLEMENT NO. 32](https://www.sec.gov/Archives/edgar/data/72971/000183988226018884/0001839882-26-018884-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Wells%20Fargo%22) (Tier 1)
+<!-- auto:sec-edgar end -->

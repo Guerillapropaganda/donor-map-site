@@ -2,7 +2,7 @@
 title: "Center for American Progress"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -10,6 +10,10 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
+ein: 300126510
+annual-revenue: "$46.1M"
+net-assets: "$99.3M"
+tax-year: "2023"
 ---
 
 #center-for-american-progress #CAP #dark-money #think-tank #democratic #infrastructure #Neera-Tanden
@@ -114,3 +118,18 @@ The revolving door between CAP and Democratic administrations reveals **structur
 - [The American Prospect: CAP's role in Democratic strategy](https://prospect.org/2023/07/11/2023-07-11-gunning-for-more-va-privatization/) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $46.1M |
+| Total Contributions | $44.1M |
+| Program Service Revenue | $75K |
+| Investment Income | $1.4M |
+| Total Expenses | $49.0M |
+| Net Assets | $99.3M |
+| Officer Compensation | $1.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 300126510](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1)
+<!-- auto:propublica-990 end -->

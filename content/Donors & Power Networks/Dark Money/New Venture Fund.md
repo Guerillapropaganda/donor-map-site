@@ -2,7 +2,7 @@
 title: "New Venture Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -27,6 +27,33 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. Texas"
   - "District Court, S.D. New York"
+sec-filings: 94
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "10KSB"
+  - "20-F"
+  - "253G1"
+  - "424B2"
+  - "424B3"
+  - "424B4"
+  - "424H"
+  - "497AD"
+  - "6-K"
+  - "ARS"
+  - "D"
+  - "D/A"
+  - "DEF 14A"
+  - "EX-99.(A)(1)(I)"
+  - "EX-99.1"
+  - "F-4"
+  - "F-4/A"
+  - "FWP"
+  - "PART II AND III"
+  - "PRE 14A"
+  - "S-1/A"
+  - "S-4"
+  - "S-4/A"
 ---
 
 #new-venture-fund #arabella #dark-money #liberal #501c3 #fiscal-sponsorship
@@ -123,3 +150,21 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22New%20Venture%20Fund%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 94 |
+| Form Types | 10-K, 10-Q, 10KSB, 20-F, 253G1, 424B2, 424B3, 424B4 +17 more |
+
+**Notable filings:**
+
+- 2019-09-11 — **D/A**: D/A
+- 2019-01-04 — **D**: D
+- 2006-04-13 — **6-K**: 6-K
+- 2024-07-09 — **497AD**: 497AD
+- 2010-04-16 — **EX-99.1**: PRESS RELEASE
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22New%20Venture%20Fund%22) (Tier 1)
+<!-- auto:sec-edgar end -->

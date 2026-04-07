@@ -2,7 +2,7 @@
 title: "Brett Guthrie Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,6 +13,8 @@ issues:
 top-donors:
   - "PhRMA"
   - "AbbVie"
+total-received: "$3,143,679"
+fec-candidate-id: "H8KY02031"
 ---
 
 #politician #republican #house #brett-guthrie #donor-pipeline #pharma
@@ -128,3 +130,38 @@ Guthrie supports PBM transparency requirements and fee disclosure — which moll
 profile-status:: ready
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $3,143,679 |
+| Individual Contributions | $1,182,729 |
+| PAC Contributions | $1,947,030 |
+| Cash on Hand | 1466651.86 |
+| IE Support (Super PAC) | $78,895 |
+| IE Opposition (Super PAC) | $1,252,954 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $3,143,679 | $1,182,729 | $1,947,030 |
+| 2024 | $3,849,229 | $955,493 | $2,842,788 |
+| 2022 | $2,259,393 | $503,475 | $1,701,010 |
+| 2020 | $1,425,220 | $193,600 | $1,184,235 |
+| 2018 | $1,971,351 | $303,350 | $1,608,459 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $752 | $1,251,342 |
+| POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS | $64,000 | $0 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $9,286 | $0 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $4,751 | $0 |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND | $0 | $862 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1)
+<!-- auto:fec-politician end -->

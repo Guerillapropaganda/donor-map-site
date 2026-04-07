@@ -28,6 +28,42 @@ court-jurisdictions:
 nonprofit-status: "501(c)(6)"
 total-revenue: 265773
 total-assets: 703358
+sec-filings: 61
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10KSB"
+  - "20-F"
+  - "20-F/A"
+  - "424B4"
+  - "485BPOS"
+  - "8-K"
+  - "DEF 14A"
+  - "DRS"
+  - "DRS/A"
+  - "EX-10.5"
+  - "EX-99.1"
+  - "F-1"
+  - "F-1/A"
+  - "F-4"
+  - "F-4/A"
+  - "PRE 14A"
+  - "S-1"
+  - "S-1/A"
+  - "SB-2"
+  - "SB-2/A"
+federal-register-mentions: 22
+regulatory-agencies:
+  - "Agricultural Marketing Service"
+  - "Agriculture Department"
+  - "Environmental Protection Agency"
+  - "Fish and Wildlife Service"
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
+  - "Homeland Security Department"
+  - "Interior Department"
+  - "Pipeline and Hazardous Materials Safety Administration"
+  - "Transportation Department"
 ---
 
 
@@ -171,3 +207,43 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/751972150) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 61 |
+| Form Types | 10-K, 10-K/A, 10KSB, 20-F, 20-F/A, 424B4, 485BPOS, 8-K +14 more |
+
+**Notable filings:**
+
+- 2018-08-02 — **8-K**: 8-K
+- 2018-08-02 — **EX-99.1**: EX-99.1
+- 2021-02-25 — **DEF 14A**: DEF 14A
+- 2003-05-28 — **10KSB**: 10KSB
+- 2001-08-20 — **SB-2**: SB-2
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20Growers%20Association%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 22 |
+| Final Rules | 8 |
+| Proposed Rules | 8 |
+| Notices | 6 |
+| Agencies | Agricultural Marketing Service, Agriculture Department, Environmental Protection Agency, Fish and Wildlife Service, Food and Drug Administration, Health and Human Services Department, Homeland Security Department, Interior Department +2 more |
+
+**Recent regulatory activity:**
+- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption](https://www.federalregister.gov/documents/2015/11/27/2015-28159/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption) (2015-11-27) — Health and Human Services Department ★
+- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption](https://www.federalregister.gov/documents/2013/01/16/2013-00123/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption) (2013-01-16) — Health and Human Services Department ★
+- [Perishable Agricultural Commodities Act: Increase in License Fees](https://www.federalregister.gov/documents/2010/08/24/2010-20978/perishable-agricultural-commodities-act-increase-in-license-fees) (2010-08-24) — Agriculture Department
+- [Draft Guidance for Industry: Guide to Minimize Microbial Food Safety Hazards of Leafy Greens; Availability](https://www.federalregister.gov/documents/2009/08/03/E9-18451/draft-guidance-for-industry-guide-to-minimize-microbial-food-safety-hazards-of-leafy-greens) (2009-08-03) — Health and Human Services Department
+- [Hazardous Materials: Miscellaneous Cargo Tank Motor Vehicle and Cylinder Issues; Petitions for Rulemaking](https://www.federalregister.gov/documents/2009/04/09/E9-8021/hazardous-materials-miscellaneous-cargo-tank-motor-vehicle-and-cylinder-issues-petitions-for) (2009-04-09) — Transportation Department
+- [Safe Harbor Procedures for Employers Who Receive a No-Match Letter: Clarification; Final Regulatory Flexibility Analysis](https://www.federalregister.gov/documents/2008/10/28/E8-25544/safe-harbor-procedures-for-employers-who-receive-a-no-match-letter-clarification-final-regulatory) (2008-10-28) — Homeland Security Department
+- ... and 16 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Western%20Growers%20Association%22) (Tier 1)
+<!-- auto:federal-register end -->

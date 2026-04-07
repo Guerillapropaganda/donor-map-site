@@ -47,6 +47,14 @@ sec-form-types:
   - "PRE 14A"
   - "S-3"
   - "U-1"
+federal-awards-total: 18296801
+federal-contracts-count: 25
+federal-grants-count: 0
+federal-register-mentions: 1859
+regulatory-agencies:
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Energy Regulatory Commission"
 ---
 
 #utility-monopoly #southern-company #alabama-politics #regulatory-capture #dark-money
@@ -200,3 +208,47 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Alabama%20Power%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $18.3M |
+| Contracts (recent 3yr) | 25 ($148.6M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 4 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $75.2M | Department of Defense | 200309!009606!97AS!0600  !DEFENSE ENERGY SUPPORT CENTER   !SP060003C8262  !A!N! !N!                  |
+| $16.9M | Department of Homeland Security | IGF::OT::IGF ELECTRICAL SERVICES FOR THE CDP |
+| $10.0M | Department of Defense | UESC ANNISTON ARMY DEPOT IMPLEMENTATION |
+| $8.7M | Department of Defense | INVESTMENT GRADE AUDIT (IGA) |
+| $8.3M | Department of Defense | PREVENTIVE MAINT OF ELECTRICAL EQUIPMENT |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8a7cd03a-dabc-9d74-2795-cc4f3ada4fd1-C/latest) (Tier 1)
+<!-- auto:usaspending end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1,859 |
+| Final Rules | 159 |
+| Proposed Rules | 127 |
+| Notices | 1,573 |
+| Agencies | Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission |
+
+**Recent regulatory activity:**
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/26/2026-05887/combined-notice-of-filings-1) (2026-03-26) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/24/2026-05702/combined-notice-of-filings-1) (2026-03-24) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/19/2026-05385/combined-notice-of-filings-1) (2026-03-19) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/04/2026-04264/combined-notice-of-filings-1) (2026-03-04) — Energy Department
+- [Combined Notice of Filings #3](https://www.federalregister.gov/documents/2026/02/20/2026-03399/combined-notice-of-filings-3) (2026-02-20) — Energy Department
+- [Alabama Power Company; Notice of Application Accepted for Filing and Soliciting Comments, Motions To Intervene, and Protests](https://www.federalregister.gov/documents/2026/02/20/2026-03360/alabama-power-company-notice-of-application-accepted-for-filing-and-soliciting-comments-motions-to) (2026-02-20) — Energy Department
+- ... and 1,853 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Alabama%20Power%22) (Tier 1)
+<!-- auto:federal-register end -->

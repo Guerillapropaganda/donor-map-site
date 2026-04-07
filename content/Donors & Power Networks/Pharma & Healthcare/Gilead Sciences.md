@@ -11,6 +11,19 @@ issues:
   - "Healthcare"
 lobbying-spend: 19612000
 lobbying-filings: 55
+court-cases: 2108
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Fourth Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, D. New Jersey"
+  - "District Court, D. Rhode Island"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Florida"
+  - "District Court, N.D. Illinois"
 ---
 
 #gilead #pharma #hiv #hepatitis #pricing #sovaldi #truvada #prep #lobbying
@@ -83,3 +96,22 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Gilead%20Sciences) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2,108 |
+| Courts | Court of Appeals for the Fourth Circuit, Court of Appeals for the Third Circuit, District Court, D. Delaware, District Court, D. New Jersey, District Court, D. Rhode Island, District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, N.D. California +4 more |
+| Case Types | 360 P.I.: Other, 470 Racketeer/Corrupt Organization, 835 Patent - Abbreviated New Drug Application(ANDA), 850 Other Statutes: Securities/Commodities |
+
+**Notable cases:**
+- GILEAD SCIENCES, INC. v. SABA ILAC SANAYI VE TICARET A.S. (2026) — District Court, D. New Jersey
+- Roofers' Unions Welfare Trust Fund v. CaremarkPCS Health, LLC (2026) — District Court, D. Rhode Island
+- SHIN v. SHEA (2026) — District Court, E.D. Pennsylvania
+- LEVITAN v. GILEAD SCIENCES INC (2026) — District Court, N.D. Florida
+- Atmus Filtration, Inc. v. United States (2026) — United States Court of International Trade
+- KUDOS PHARMACEUTICALS LIMITED v. NATCO PHARMA LIMITED (2026) — District Court, D. New Jersey
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Gilead%20Sciences%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

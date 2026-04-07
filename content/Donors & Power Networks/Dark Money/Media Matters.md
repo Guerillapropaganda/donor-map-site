@@ -22,6 +22,18 @@ federal-register-mentions: 4
 regulatory-agencies:
   - "Food and Drug Administration"
   - "Health and Human Services Department"
+court-cases: 511
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, District of Columbia"
+  - "District Court, M.D. Tennessee"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, N.D. Ohio"
+  - "District Court, S.D. Iowa"
+  - "District Court, W.D. Texas"
 ---
 
 #media-matters #dark-money #progressive #media-watchdog #democracy-alliance #Elon-Musk-lawsuit #infrastructure
@@ -194,3 +206,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Media%20Matters%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 511 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the Ninth Circuit, District Court, District of Columbia, District Court, M.D. Tennessee, District Court, N.D. California, District Court, N.D. Illinois, District Court, N.D. Ohio +2 more |
+| Case Types | 190 Contract: Other, 2899 Other Statutes APA/Review Agency, 360 P.I.: Other, 410 Anti-Trust, 440 Civil Rights: Other |
+
+**Notable cases:**
+- WASHINGTON AREA BICYCLIST ASSOCIATION, INC. v. BURGUM (2026) — District Court, District of Columbia
+- Adelson, et al. v. United States District Court for the District of Nevada, Las Vegas (2026) — Court of Appeals for the Ninth Circuit
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+- Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
+- COALITION FOR INDEPENDENT TECHNOLOGY RESEARCH v. RUBIO (2026) — District Court, District of Columbia
+- WESTALL v. GOOGLE (2026) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Media%20Matters%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

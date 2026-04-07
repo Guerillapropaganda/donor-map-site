@@ -17,6 +17,13 @@ lobbying-spend: 7030293
 lobbying-filings: 104
 lei: "549300E3ZXGJ1J5DKJ05"
 lei-jurisdiction: "CH"
+ein: 356202479
+annual-revenue: "$30.2M"
+net-assets: "$6.7M"
+tax-year: "2023"
+federal-awards-total: 229741
+federal-contracts-count: 2
+federal-grants-count: 0
 ---
 
 #donor-node #lilly #pharma #insulin #drug-pricing #indiana #diabetes #weight-loss #glp1 #lobbying #class-analysis #follow-the-money
@@ -250,3 +257,34 @@ content-readiness:: developed
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $30.2M |
+| Total Contributions | $0 |
+| Total Expenses | $26.4M |
+| Net Assets | $6.7M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 356202479](https://projects.propublica.org/nonprofits/organizations/356202479) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $230K |
+| Contracts (recent 3yr) | 2 ($1.5B sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $1.5B | Department of Defense | LYCOV1404 BEBTELOVIMAB |
+| $230K | Department of Veterans Affairs | AMYVID RADIOPHARMACEUTICAL 10 MCI FLORBETAPIR F-18 INJ,SOLN |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b620c99d-9b16-86c8-fa2d-2c14d6e69ce9-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

@@ -2,13 +2,16 @@
 title: "Marble Freedom Trust"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Dark Money & Campaign Finance"
+ein: "850784793"
+nonprofit-status: "501(c)(4)"
+last-enriched: "2026-04-07"
 ---
 
 #donor #dark-money #judicial-capture #leonard-leo #conservative #mega-donation #federalist-society
@@ -115,3 +118,14 @@ The contradiction is explicit: the organization claims to defend constitutional 
 
 research-status:: ready — $1.6B Barre Seid transfer, Leo-controlled 501(c)(4), $140-180M annual distribution, Federalist Society $45M, The 85 Fund $60M, state court flips (NC, WI, MI), 218 federal judges, Dobbs, CRC Advisors fees. 7 sources, Tier 1-3. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 850784793 |
+| Tax-Exempt Status | 501(c)(4) |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/850784793) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -19,6 +19,18 @@ regulatory-agencies:
   - "Federal Trade Commission"
 ein: "815109948"
 nonprofit-status: "501(c)(3)"
+court-cases: 776
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Seventh Circuit"
+  - "District Court, D. Colorado"
+  - "District Court, D. South Dakota"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. New York"
 ---
 
 
@@ -231,3 +243,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815109948) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 776 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Seventh Circuit, District Court, D. Colorado, District Court, D. South Dakota, District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, M.D. Florida, District Court, N.D. California +4 more |
+| Case Types | 2899 Other Statutes, 3890 Other Statutory Actions, 440 Civil Rights: Other, 890 Other Statutory Actions, 899 Administrative Procedure Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Jackson v. University of South Dakota (2026) — District Court, D. South Dakota
+- Ballentine v. Meta Platforms, Inc. (2026) — District Court, M.D. Florida
+- The Interfaith Alliance v. Trump (2026) — District Court, S.D. New York
+- Unknown Case Title (2025) — District Court, M.D. Florida
+- In re: Application for Judicial Assistance (2025) — Court of Appeals for the D.C. Circuit
+- WHEELER v. BLANCHE (2025) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Federalist%20Society%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

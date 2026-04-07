@@ -2,7 +2,7 @@
 title: "Judicial Crisis Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -17,6 +17,16 @@ issues:
   - "Dark Money & Campaign Finance"
 lobbying-spend: 248300
 lobbying-filings: 23
+court-cases: 17
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Tenth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Massachusetts"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Arkansas"
+  - "District Court, M.D. Tennessee"
+  - "District Court, S.D. Indiana"
 ---
 
 #donor #judicial-crisis-network #concord-fund #leonard-leo #scotus #dark-money #judicial-confirmations #class-analysis #follow-the-money #barre-seid #marble-freedom-trust #honest-elections-project #raga
@@ -211,3 +221,22 @@ research-status:: developed — $65M FY2024 revenue, $100M+ SCOTUS confirmation 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 17 |
+| Courts | Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, D. Massachusetts, District Court, District of Columbia, District Court, E.D. Arkansas, District Court, M.D. Tennessee, District Court, S.D. Indiana |
+| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 890 Other Statutory Actions, 895 Freedom of Information Act, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Younger v. Trump (2025) — District Court, D. Massachusetts
+- John Doe v. U.S Department of Justice (2022) — District Court, C.D. California
+- Arkansas State Conference NAACP v. Arkansas Board of Apportionment (2021) — District Court, E.D. Arkansas
+- United States v. Kelsey (2021) — District Court, M.D. Tennessee
+- AMERICAN OVERSIGHT v. U.S. CENSUS BUREAU (2020) — District Court, District of Columbia
+- AMERICAN OVERSIGHT v. U.S. DEPARTMENT OF EDUCATION (2019) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Judicial%20Crisis%20Network%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

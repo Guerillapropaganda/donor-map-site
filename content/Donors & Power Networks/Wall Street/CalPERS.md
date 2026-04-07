@@ -15,6 +15,8 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+lei: "549300ZK777GYOOK5750"
+lei-jurisdiction: "LU"
 ---
 
 #calpers #pension #california #public-employees #wall-street #private-equity #investment #lobbying #placement-agents #corruption #class-analysis #follow-the-money
@@ -192,3 +194,18 @@ content-readiness:: developed
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-CalPERS) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300ZK777GYOOK5750](https://search.gleif.org/#/record/549300ZK777GYOOK5750) |
+| Legal Name | CALPERS HOTELS S.A. |
+| Jurisdiction | LU |
+| Entity Status | INACTIVE |
+| Category | GENERAL |
+| Registration | RETIRED |
+| Last Updated | 2025-03-21T15:58:23Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

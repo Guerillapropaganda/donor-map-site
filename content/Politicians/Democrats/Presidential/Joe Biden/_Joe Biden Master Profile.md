@@ -255,12 +255,13 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 2 of 2 |
+| Donors Who Also Lobby | 3 of 3 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
 
 - [[UnitedHealth Group - Optum]] — $25.1M lobbying spend (Banking, Budget/Appropriations, Defense)
+- [[Citigroup]] — $11.6M lobbying spend (Banking, Financial Institutions/Investments/Securities, Foreign Relations)
 - [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*

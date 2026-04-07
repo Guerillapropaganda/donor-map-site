@@ -28,6 +28,14 @@ court-jurisdictions:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 nonprofit-status: "501(c)(17)"
+subawards-issued: 50
+subawards-issued-amount: 51876611853
+subawards-received: 50
+subawards-received-amount: 51876611853
+top-federal-agency: "General Services Administration"
+top-naics-code: "336111"
+lei: "20S05OYHG0MQM4VUIC57"
+lei-jurisdiction: "US-DE"
 ---
 
 #ford #auto #detroit #michigan #manufacturing #ev #uaw #trade
@@ -147,3 +155,65 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/386054714) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($51.9B sampled) |
+| Subawards Received (as sub) | 50 ($51.9B sampled) |
+| Top Federal Agency | General Services Administration ($1.8B) |
+| Primary NAICS Sector | Automobile Manufacturing |
+
+**Subcontractors receiving federal money from Ford Motor Company:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| SUFFOLK, COUNTY OF | $15.3B | 2 |
+| AMERICAN UNIVERSITY | $9.9B | 1 |
+| SCHOOL DISTRICT OF WABENO AREA | $9.5B | 1 |
+| WILLIAMSPORT MUNICIPAL WATER AUTHORITY | $9.0B | 1 |
+| DEPARTMENT OF STATE HEALTH SERVICES | $8.2B | 1 |
+
+**Prime contractors funneling federal money to Ford Motor Company:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $51.9B | 6 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| General Services Administration | $1.8B |
+| Department of Health and Human Services | $859K |
+| Department of Defense | $48K |
+| Department of Homeland Security | $38K |
+| Department of the Interior | $36K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Automobile Manufacturing (336111) | $1.8B |
+| Automotive Body, Paint, and Interior Repair and Maintenance (811121) | $48K |
+| Passenger Car Leasing (532112) | $38K |
+| General Automotive Repair (811111) | $36K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [20S05OYHG0MQM4VUIC57](https://search.gleif.org/#/record/20S05OYHG0MQM4VUIC57) |
+| Legal Name | FORD MOTOR COMPANY |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-05-09T16:37:00Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

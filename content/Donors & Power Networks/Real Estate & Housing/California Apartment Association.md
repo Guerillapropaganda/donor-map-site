@@ -22,6 +22,10 @@ court-jurisdictions:
   - "District Court, N.D. California"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+ein: 950944360
+annual-revenue: "$291K"
+net-assets: "$864K"
+tax-year: "2023"
 ---
 
 
@@ -195,3 +199,16 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=California%20Apartment%20Association) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $291K |
+| Total Contributions | $291K |
+| Total Expenses | $253K |
+| Net Assets | $864K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 950944360](https://projects.propublica.org/nonprofits/organizations/950944360) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F950944360_202312_990O_2025031723222139.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

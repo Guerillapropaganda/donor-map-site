@@ -23,6 +23,10 @@ court-jurisdictions:
   - "District Court, N.D. Georgia"
   - "District Court, S.D. Florida"
   - "District Court, S.D. Georgia"
+ein: 582514027
+annual-revenue: "$1.6M"
+net-assets: "$104.5M"
+tax-year: "2023"
 ---
 
 #southern-company #utility #georgia #nuclear #coal #monopoly #rate-base
@@ -120,3 +124,15 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Southern%20Company%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.6M |
+| Total Contributions | $0 |
+| Total Expenses | $4.9M |
+| Net Assets | $104.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 582514027](https://projects.propublica.org/nonprofits/organizations/582514027) (Tier 1)
+<!-- auto:propublica-990 end -->

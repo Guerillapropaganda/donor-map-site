@@ -224,3 +224,21 @@ content-readiness:: developed
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **ConocoPhillips** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Banking**
+
+**Donors who lobby (by spend):**
+
+- [[ConocoPhillips]] — $17.9M lobbying spend (Clean Air and Water (quality), Energy/Nuclear, Environment/Superfund)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

@@ -19,6 +19,19 @@ ein: 560946914
 annual-revenue: "$4.0M"
 net-assets: "$22.6M"
 tax-year: "2023"
+court-cases: 376
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Arizona"
+  - "District Court, D. Colorado"
+  - "District Court, D. Idaho"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Georgia"
+  - "District Court, S.D. Florida"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
@@ -186,3 +199,22 @@ content-readiness:: developed
 - [Source: ProPublica Nonprofit Explorer — EIN 560946914](https://projects.propublica.org/nonprofits/organizations/560946914) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F560946914_202312_990O_2024061722525326.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 376 |
+| Courts | District Court, C.D. California, District Court, D. Arizona, District Court, D. Colorado, District Court, D. Idaho, District Court, E.D. Pennsylvania, District Court, M.D. Florida, District Court, N.D. California, District Court, N.D. Georgia +2 more |
+| Case Types | 190 Contract: Other, 320 Assault Libel & Slander, 360 P.I.: Other, 410 Other Statutes: Anti-Trust, 710 Labor: Fair Standards |
+
+**Notable cases:**
+- Requiz v. Lennar Corporation (2026) — District Court, S.D. Florida
+- Osborne v. Minkow (2025) — District Court, D. Idaho
+- Jeffrey Gu v. City of Irvine (2025) — District Court, C.D. California
+- Flores v. Wall to Wall, LLC (2025) — District Court, N.D. California
+- Sunnova Energy International Inc. and Rebecca Nelson (2025) — United States Bankruptcy Court, S.D. Texas
+- Stephens v. American Arbitration Association Incorporated (2025) — District Court, D. Arizona
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lennar%20Corporation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

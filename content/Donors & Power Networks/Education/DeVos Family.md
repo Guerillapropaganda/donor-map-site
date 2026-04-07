@@ -14,10 +14,14 @@ issues:
   - "Dark Money & Campaign Finance"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-ein: 861509286
+ein: "861509286"
 annual-revenue: "$4.4M"
 net-assets: "$5K"
 tax-year: "2023"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 10147492
+total-assets: 2950
 ---
 
 
@@ -204,3 +208,24 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 861509286](https://projects.propublica.org/nonprofits/organizations/861509286) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 861509286 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $10.1M |
+| Total Assets | $3K |
+| NTEE Code | T20 |
+| IRS Ruling Date | 2023-07-01 |
+| Filings on Record | 2 |
+
+**Filing history:** 2023, 2022
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/861509286/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/861509286/2022)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/861509286) (Tier 1)
+<!-- auto:nonprofit-990 end -->

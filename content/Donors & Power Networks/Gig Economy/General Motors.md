@@ -2,7 +2,7 @@
 title: "General Motors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -15,6 +15,10 @@ federal-contracts-count: 25
 federal-grants-count: 20
 lobbying-spend: 61183910
 lobbying-filings: 104
+ein: 383569669
+annual-revenue: "$25K"
+net-assets: "$130K"
+tax-year: "2023"
 ---
 
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw
@@ -132,3 +136,16 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $25K |
+| Total Contributions | $824 |
+| Program Service Revenue | $38K |
+| Total Expenses | $25K |
+| Net Assets | $130K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 383569669](https://projects.propublica.org/nonprofits/organizations/383569669) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -16,6 +16,8 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 40154470
 total-assets: 139880517
+lobbying-spend: 680000
+lobbying-filings: 12
 ---
 
 
@@ -162,3 +164,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352122763) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $680K |
+| Quarterly Filings | 12 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 3 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Health Issues, Medicare/Medicaid, Taxation/Internal Revenue Code, Veterans
+
+**Lobbying firms:** TARPLIN, DOWNS & YOUNG, LLC, THE PRENDA GROUP LLC, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Office of Management & Budget (OMB), SENATE, White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Anthem%20-%20Elevance%20Health) (Tier 1)
+<!-- auto:lda-lobbying end -->

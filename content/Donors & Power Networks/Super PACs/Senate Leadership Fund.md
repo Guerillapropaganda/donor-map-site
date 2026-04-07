@@ -2,7 +2,7 @@
 title: "Senate Leadership Fund"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -19,6 +19,10 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, W.D. Texas"
   - "United States Bankruptcy Court, D. Delaware"
+sec-filings: 2
+sec-form-types:
+  - "ARS"
+  - "DEF 14A"
 ---
 
 #donor-node #super-pac #republican #senate #mcconnell #thune #dark-money #leadership-pac #class-analysis #follow-the-money
@@ -223,3 +227,18 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Leadership%20Fund%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 2 |
+| Form Types | ARS, DEF 14A |
+
+**Notable filings:**
+
+- 2025-03-27 — **DEF 14A**: DEF 14A
+- 2025-03-27 — **ARS**: ARS
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Senate%20Leadership%20Fund%22) (Tier 1)
+<!-- auto:sec-edgar end -->

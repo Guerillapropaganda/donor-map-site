@@ -22,6 +22,29 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 top-federal-agency: "Department of Defense"
 top-naics-code: "541330"
+court-cases: 123599
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Puerto Rico"
+  - "District Court, E.D. Arkansas"
+  - "District Court, N.D. California"
+  - "District Court, S.D. California"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
+federal-register-mentions: 3372
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Animal and Plant Health Inspection Service"
+  - "Antitrust Division"
+  - "Commerce Department"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Communications Commission"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Reserve System"
+  - "Food and Drug Administration"
 ---
 
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy
@@ -214,3 +237,44 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Apple) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 123,599 |
+| Courts | District Court, C.D. California, District Court, D. Puerto Rico, District Court, E.D. Arkansas, District Court, N.D. California, District Court, S.D. California, District Court, S.D. Florida, District Court, S.D. New York, District Court, W.D. Texas |
+| Case Types | 820 Copyright, 830 Patent |
+
+**Notable cases:**
+- Golden v. Apple, Inc. (2026) — District Court, W.D. Texas
+- CIPM, LLC (2026) — District Court, C.D. California
+- United States v. Black Apple iPhone Seizure No. 2026250400098301-0004 (Target Device 2) (2026) — District Court, S.D. California
+- United States v. Black Apple iPhone Seizure No. 2026250400098301-0003 (Target Device 1) (2026) — District Court, S.D. California
+- Poole v. Maxine Productions, LLC (2026) — District Court, S.D. New York
+- United States v. Application For Order Commanding Apple Inc. Not To Notify Any Person Of The Existence Of Subpoena (2026) — District Court, S.D. Florida
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apple%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 3,372 |
+| Final Rules | 883 |
+| Proposed Rules | 459 |
+| Notices | 2,030 |
+| Agencies | Agriculture Department, Animal and Plant Health Inspection Service, Antitrust Division, Commerce Department, Energy Department, Environmental Protection Agency, Federal Communications Commission, Federal Energy Regulatory Commission +7 more |
+
+**Recent regulatory activity:**
+- [Notice of Intended Repatriation: California State University, Fullerton, Fullerton, CA](https://www.federalregister.gov/documents/2026/04/02/2026-06356/notice-of-intended-repatriation-california-state-university-fullerton-fullerton-ca) (2026-04-02) — Interior Department
+- [Supplemental Guidance for Examination of Design Patent Applications Related to Computer-Generated Interfaces and Icons](https://www.federalregister.gov/documents/2026/03/13/2026-04987/supplemental-guidance-for-examination-of-design-patent-applications-related-to-computer-generated) (2026-03-13) — Commerce Department
+- [Agency Information Collection Activities; Notice and Request for Comment; Distraction: Personal Electronic Devices](https://www.federalregister.gov/documents/2026/03/06/2026-04440/agency-information-collection-activities-notice-and-request-for-comment-distraction-personal) (2026-03-06) — Transportation Department
+- [Unlicensed Use of the 6 GHz Band; Expanding Flexible Use in Mid-Band Spectrum Between 3.7 and 24 GHz](https://www.federalregister.gov/documents/2026/02/25/2026-03744/unlicensed-use-of-the-6-ghz-band-expanding-flexible-use-in-mid-band-spectrum-between-37-and-24-ghz) (2026-02-25) — Federal Communications Commission
+- [Marine Mammals; File No. 28985](https://www.federalregister.gov/documents/2026/02/23/2026-03474/marine-mammals-file-no-28985) (2026-02-23) — Commerce Department
+- [Pesticide Tolerances; Implementing Registration Review Decisions for Certain Pesticides; Diphenylamine, et al.](https://www.federalregister.gov/documents/2026/02/20/2026-03371/pesticide-tolerances-implementing-registration-review-decisions-for-certain-pesticides-diphenylamine) (2026-02-20) — Environmental Protection Agency
+- ... and 3,366 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Apple%22) (Tier 1)
+<!-- auto:federal-register end -->
