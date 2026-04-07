@@ -807,6 +807,28 @@ function initMiniGraph() {
         const overlayData = fullData || compactData
         if (!overlayData) return
 
+        // Parse graph data to find what node types exist
+        let parsedData: { nodes: any[]; edges: any[] }
+        try { parsedData = JSON.parse(overlayData) } catch { return }
+
+        // Map of type → display label
+        const typeLabels: Record<string, string> = {
+          "donor": "Donors",
+          "politician": "Politicians",
+          "think-tank": "Think Tanks",
+          "lobbying": "K Street",
+          "media": "Media",
+          "corporation": "Corporations",
+        }
+        // Find which types exist (excluding the center node)
+        const typesPresent = new Set<string>()
+        parsedData.nodes.forEach((n: any, i: number) => {
+          if (i > 0 && n.type) typesPresent.add(n.type)
+        })
+
+        // Track which types are hidden
+        const hiddenTypes = new Set<string>()
+
         const overlay = document.createElement("div")
         overlay.className = "pw-graph-overlay"
 
@@ -814,14 +836,56 @@ function initMiniGraph() {
         closeBtn.className = "pw-graph-overlay-close"
         closeBtn.textContent = "Close"
 
+        const overlayBox = document.createElement("div")
+        overlayBox.className = "pw-graph-overlay-box"
+
+        // Build filter bar if there are multiple node types
+        let filterBar: HTMLElement | null = null
+        if (typesPresent.size > 1) {
+          filterBar = document.createElement("div")
+          filterBar.className = "pw-overlay-filters"
+
+          typesPresent.forEach((nodeType) => {
+            const btn = document.createElement("button")
+            btn.className = "pw-overlay-filter-btn pw-filter-active"
+            btn.textContent = typeLabels[nodeType] || nodeType
+            btn.dataset.nodeType = nodeType
+            btn.addEventListener("click", () => {
+              if (hiddenTypes.has(nodeType)) {
+                hiddenTypes.delete(nodeType)
+                btn.classList.remove("pw-filter-off")
+                btn.classList.add("pw-filter-active")
+              } else {
+                hiddenTypes.add(nodeType)
+                btn.classList.remove("pw-filter-active")
+                btn.classList.add("pw-filter-off")
+              }
+              // Re-render with filtered data
+              const centerNode = parsedData.nodes[0]
+              const filteredNodes = parsedData.nodes.filter((n: any, i: number) =>
+                i === 0 || !hiddenTypes.has(n.type)
+              )
+              const nodeIds = new Set(filteredNodes.map((n: any) => n.id))
+              const filteredEdges = parsedData.edges.filter((e: any) =>
+                nodeIds.has(e.source) && nodeIds.has(e.target)
+              )
+              const filteredJson = JSON.stringify({ nodes: filteredNodes, edges: filteredEdges })
+              graphBox.innerHTML = ""
+              renderMiniGraphInContainer(graphBox, filteredJson, true)
+            })
+            filterBar!.appendChild(btn)
+          })
+          overlayBox.appendChild(filterBar)
+        }
+
         const graphBox = document.createElement("div")
-        graphBox.className = "pw-graph-overlay-box"
+        overlayBox.appendChild(graphBox)
 
         overlay.appendChild(closeBtn)
-        overlay.appendChild(graphBox)
+        overlay.appendChild(overlayBox)
         document.body.appendChild(overlay)
 
-        // Full screen always shows the full network
+        // Full screen shows everything initially
         renderMiniGraphInContainer(graphBox, overlayData, true)
 
         closeBtn.addEventListener("click", () => overlay.remove())
