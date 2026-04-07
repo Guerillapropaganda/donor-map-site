@@ -7,7 +7,8 @@ source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]]"
+related: ""
+opposes: "[[Fox Corp - Rupert Murdoch]]"
 ---
 
 #media-pipeline #left #msnbc #zeteo #subscription #palestine #comcast #institutional-capture #independence

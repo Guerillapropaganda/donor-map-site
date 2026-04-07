@@ -7,7 +7,8 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Pod Save America]] · [[Sam Seder]] · [[Laura Ingraham]] · [[_Media Pipeline Framework]]"
+related: "[[Pod Save America]] · [[Sam Seder]]"
+opposes: "[[Laura Ingraham]]"
 donors: "[]"
 ---
 

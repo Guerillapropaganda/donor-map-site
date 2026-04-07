@@ -7,7 +7,8 @@ source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Aaron Maté]]"
+related: "[[Aaron Maté]]"
+opposes: "[[AIPAC - American Israel Public Affairs Committee]]"
 ---
 
 #media-pipeline #left #israel-palestine #editorial-gatekeeping #useful-idiots

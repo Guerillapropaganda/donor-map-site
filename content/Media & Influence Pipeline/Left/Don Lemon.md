@@ -7,7 +7,8 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]]"
+related: ""
+opposes: "[[Fox Corp - Rupert Murdoch]]"
 ---
 
 #media-pipeline #left #cnn #youtube #musk #corporate-media #institutional-capture #independence
