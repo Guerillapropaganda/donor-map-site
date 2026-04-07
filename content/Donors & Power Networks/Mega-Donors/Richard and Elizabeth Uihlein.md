@@ -11,9 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Reproductive Rights"
-subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
-subawards-received: 50
 subawards-received-amount: 1009778941592127500
 ---
 
@@ -119,30 +117,3 @@ content-readiness:: ready
 research-status:: ready — 2024 cycle $133.8M verified, $72M documented, No. 3 national donor confirmed, PAC funding breakdown documented (Club for Growth $69.25M, Restoration PAC $65.95M, Women Speak Out 80% funding), Tea Party Patriots January 6 connection documented, labor exploitation allegations noted. 8 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 
 ### Federal Subawards & Spending Breakdown
-<!-- auto:usaspending-subawards start -->
-| Metric | Value |
-|--------|-------|
-| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
-| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
-
-**Subcontractors receiving federal money from Richard and Elizabeth Uihlein:**
-
-| Subcontractor | Amount | Awards |
-|---------------|--------|--------|
-| TOWN OF VAN BUREN | $1000000000.0B | 1 |
-| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
-| WORCESTER COUNTY | $74881.1B | 1 |
-| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
-| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
-| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
-| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
-| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
-
-**Prime contractors funneling federal money to Richard and Elizabeth Uihlein:**
-
-| Prime Contractor | Amount | Awards |
-|------------------|--------|--------|
-| Unknown | $1009778941.6B | 50 |
-
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Richard%20and%20Elizabeth%20Uihlein) (Tier 1)
-<!-- auto:usaspending-subawards end -->
