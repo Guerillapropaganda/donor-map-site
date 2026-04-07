@@ -295,9 +295,7 @@ const ProfileWidget: QuartzComponent = ({
       {hasMiniGraph && (
         <div class="pw-panel pw-panel-active" data-panel="graph">
           <div class="pw-mini-graph" data-graph={compactGraphData} data-full-graph={fullGraphData}></div>
-          {hasExtendedNetwork && (
-            <button class="pw-mini-expand" data-expanded="false">Expand Network</button>
-          )}
+          {/* Full Screen button is added dynamically by networkGraph.inline.ts */}
         </div>
       )}
 
@@ -408,27 +406,7 @@ function initProfileWidget() {
     });
   });
 
-  // Expand/collapse network button
-  var expandBtn = widget.querySelector('.pw-mini-expand:not(.pw-graph-fullscreen)');
-  if (expandBtn) {
-    expandBtn.addEventListener('click', function() {
-      var graphEl = widget.querySelector('.pw-mini-graph');
-      if (!graphEl) return;
-      var isExpanded = expandBtn.getAttribute('data-expanded') === 'true';
-      if (isExpanded) {
-        graphEl.setAttribute('data-active-graph', 'compact');
-        expandBtn.setAttribute('data-expanded', 'false');
-        expandBtn.textContent = 'Expand Network';
-      } else {
-        graphEl.setAttribute('data-active-graph', 'full');
-        expandBtn.setAttribute('data-expanded', 'true');
-        expandBtn.textContent = 'Collapse Network';
-      }
-      if (typeof window.initMiniGraph === 'function') {
-        window.initMiniGraph();
-      }
-    });
-  }
+  // Full Screen button is created by networkGraph.inline.ts
 
   // Graph is now the first tab — render it immediately
   if (typeof window.initMiniGraph === 'function') {
