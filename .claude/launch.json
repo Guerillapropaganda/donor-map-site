@@ -12,6 +12,13 @@
       "runtimeExecutable": "node",
       "runtimeArgs": [".claude/static-server.cjs", "8095"],
       "port": 8095
+    },
+    {
+      "name": "ops-dashboard",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["next", "dev", "-p", "3333"],
+      "port": 3333,
+      "cwd": "ops"
     }
   ]
 }
