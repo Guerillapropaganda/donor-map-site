@@ -43,6 +43,7 @@ import MobileProfile from "./MobileProfile"
 import AlphabetJump from "./AlphabetJump"
 import ProfileTabs from "./ProfileTabs"
 import NetworkGraph from "./NetworkGraph"
+import AdminBar from "./AdminBar"
 
 export {
   ArticleTitle,
@@ -90,4 +91,5 @@ export {
   AlphabetJump,
   ProfileTabs,
   NetworkGraph,
+  AdminBar,
 }
