@@ -38,8 +38,6 @@ MobileNav.css = `
     bottom: 0;
     left: 0;
     right: 0;
-    width: 100%;
-    box-sizing: border-box;
     z-index: 999;
     background: rgba(12, 12, 15, 0.95);
     backdrop-filter: blur(12px);
