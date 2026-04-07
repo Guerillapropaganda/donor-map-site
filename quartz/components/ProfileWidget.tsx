@@ -522,12 +522,85 @@ a.pw-bs-recip:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #0c0c0f;
+  background: radial-gradient(ellipse at center, #111118 0%, #0c0c0f 70%);
   border-radius: 6px;
+  position: relative;
 }
 
 .pw-mini-graph svg {
   border-radius: 6px;
+}
+
+/* Expand button */
+.pw-mini-expand {
+  display: block;
+  width: 100%;
+  padding: 6px 0;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #1a1a22;
+  color: #5b8dce;
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.15s;
+  text-align: center;
+}
+
+.pw-mini-expand:hover {
+  color: #8bb5e8;
+  background: rgba(91, 141, 206, 0.06);
+}
+
+/* ─── Expanded overlay ─────────────────────── */
+
+.pw-graph-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pw-graph-overlay-box {
+  background: radial-gradient(ellipse at center, #111118 0%, #0c0c0f 70%);
+  border: 1px solid rgba(91, 141, 206, 0.2);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 8px 48px rgba(0, 0, 0, 0.6), 0 0 24px rgba(91, 141, 206, 0.06);
+  max-width: 95vw;
+  max-height: 90vh;
+  overflow: hidden;
+}
+
+.pw-graph-overlay-close {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  z-index: 10000;
+  padding: 6px 16px;
+  background: #13131a;
+  border: 1px solid #1e1e28;
+  border-radius: 6px;
+  color: #8a8a96;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.pw-graph-overlay-close:hover {
+  color: #e4e4e7;
+  border-color: #5b8dce;
 }
 
 /* ─── Hide on mobile (right sidebar hides) ─── */
