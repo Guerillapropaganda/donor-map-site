@@ -12,38 +12,32 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-07 (night)
+Date: 2026-04-07 (late night)
 
 Done:
-- **Built Donor Map Ops** — standalone Next.js + Tailwind dashboard app at `ops/`
-- Dashboard: stats bar (total profiles, enriched, coverage, Tier 1 count), readiness distribution chart, type breakdown chart, activity feed (recent commits)
-- Vault grid: color-coded profile tiles by readiness status, searchable, filterable by type/readiness, sortable by name/readiness/updated
-- Profile detail panel: click any tile → slide-in panel with frontmatter, connections, source tier counts, URL list, enrichment status
-- GitHub API layer: reads vault from live v4 branch (not local files), caches 60s, batched file fetching
-- Sidebar nav with 6 module slots: Dashboard (active), Source Hunter, Relationships, Publisher, Alerts, Distribution (coming later)
-- Dark theme matching site design system (#0c0c0f bg, steel blue, Space Mono)
-- Setup guide for GitHub token (shown when token is missing/invalid)
-- Merged to v4 and pushed
-
-Architecture decisions:
-- App lives at `ops/` — fully separate from Quartz, own package.json, own deps
-- Reads from GitHub API (live repo state), not local filesystem
-- Run with: `cd ops && npm install && npm run dev` → localhost:3333
+- **Built Donor Map Ops v1.0 — complete 9-module operations app** across 10 sessions
+- All modules: Dashboard, Pipeline Control, Notes & Queues, Source Hunter, Relationship Mapper, Profile Editor, Content Publisher, Alerts Monitor, Distribution
+- Admin Bar overlay on live site (URL checker, notes, fix queue) — may deprecate in favor of Ops app Editor
+- Desktop launcher: double-click `ops/start-ops.bat` to run, or `ops/create-shortcut.bat` for desktop icon
+- PWA manifest: Chrome "Install as app" support for native-like window
+- Fixed Tailwind CSS compilation issues (SVG sizing, launch.json cwd)
 - Zero Claude/AI cost to operate — pure JavaScript + GitHub API
+
+Architecture:
+- App lives at `ops/` — Next.js + Tailwind, separate from Quartz
+- Reads from GitHub API (live v4 branch), writes via GitHub API
+- 11 pages, 8 API routes, all building clean
+- Run: double-click `start-ops.bat` or `cd ops && npm run dev` → localhost:3333
 
 Known issues:
 - EPA ECHO API flaky (500 errors, has fallback endpoints)
 - Public Accountability HTTPS cert issues (falls back to HTTP)
-- Stale worktree `angry-easley` can be cleaned up
 
-Next (Ops app — Sessions 2-10):
-- Session 2: Pipeline controls + single-profile enrichment + live feed
-- Session 3: Admin Mode overlay on live site + URL checker
-- Session 4: Notes system + Fix Queue + Research Queue
-- Session 5: Source Hunter module
-- Session 6: Relationship Mapper module
-- Session 7: Content Publisher module
-- Session 8: Alerts Monitor module
+Next:
+- David tests Ops app with real GitHub token, reports issues
+- Run opensecrets-replace for remaining categories (~3,000 URLs)
+- LDA migration: lda.senate.gov → lda.gov before June 30, 2026 sunset
+- Pipeline coverage report for enrichment gaps
 - Session 9: Distribution Dashboard module
 - Session 10: Polish, animations, edge cases
 

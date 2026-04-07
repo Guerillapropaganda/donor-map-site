@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="32" fill="#0c0c0f"/>
+  <rect x="16" y="16" width="160" height="160" rx="24" fill="#141419" stroke="#2a2a35" stroke-width="2"/>
+  <text x="96" y="88" text-anchor="middle" fill="#5b8dce" font-family="monospace" font-size="32" font-weight="bold">DONOR</text>
+  <text x="96" y="120" text-anchor="middle" fill="#5b8dce" font-family="monospace" font-size="32" font-weight="bold">MAP</text>
+  <text x="96" y="148" text-anchor="middle" fill="#7a7a86" font-family="monospace" font-size="14">OPS</text>
+</svg>
