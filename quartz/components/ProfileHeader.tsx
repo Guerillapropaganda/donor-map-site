@@ -114,6 +114,8 @@ function wrapProfileSections() {
       // Wins / policy outcomes (donors: "What They've Gotten"; check before contradiction)
       if (text.indexOf('gotten') !== -1 || text.indexOf("what they've") !== -1 || text.indexOf('victor') !== -1 || text.indexOf('policy win') !== -1 || text.indexOf('what they got') !== -1) {
         currentCard.classList.add('psc-wins');
+      } else if (text.indexOf('executive order') !== -1 || text.indexOf('executive action') !== -1) {
+        currentCard.classList.add('psc-executive');
       } else if (text.indexOf('vote') !== -1 || text.indexOf('voting record') !== -1 || text.indexOf('bills sponsored') !== -1 || text.indexOf('cosponsor') !== -1 || text.indexOf('legislation') !== -1 || text.indexOf('legislative') !== -1 || text.indexOf('committee') !== -1 || text.indexOf('floor speech') !== -1) {
         currentCard.classList.add('psc-voting');
       } else if (text.indexOf('contradiction') !== -1) {
@@ -162,7 +164,7 @@ function wrapProfileSections() {
         else if (variant.indexOf('psc-sources') !== -1) tab = 'sources';
       } else {
         if (variant.indexOf('psc-donors') !== -1 || variant.indexOf('psc-timeline') !== -1) tab = 'donors';
-        else if (variant.indexOf('psc-voting') !== -1 || variant.indexOf('psc-wins') !== -1) tab = 'voting';
+        else if (variant.indexOf('psc-executive') !== -1 || variant.indexOf('psc-voting') !== -1 || variant.indexOf('psc-wins') !== -1) tab = 'voting';
         else if (variant.indexOf('psc-contradiction') !== -1 || variant.indexOf('psc-patterns') !== -1) tab = 'analysis';
         else if (variant.indexOf('psc-sources') !== -1) tab = 'sources';
       }
