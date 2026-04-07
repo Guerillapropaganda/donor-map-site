@@ -2,13 +2,18 @@
 title: "PG&E - Pacific Gas and Electric"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
+ein: "201337481"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 397265
+total-assets: 358665
 ---
 
 #pge #pacific-gas-electric #california #utility #wildfire #camp-fire #monopoly #negligence
@@ -41,3 +46,28 @@ PG&E represents the extreme case of utility political capture: a company that ha
 - [Ballotpedia: California utility regulation](https://ballotpedia.org/PG&E_-_Pacific_Gas_and_Electric) (Tier 3)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 201337481 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $397K |
+| Total Assets | $359K |
+| NTEE Code | T21 |
+| IRS Ruling Date | 2004-08-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201337481) (Tier 1)
+<!-- auto:nonprofit-990 end -->

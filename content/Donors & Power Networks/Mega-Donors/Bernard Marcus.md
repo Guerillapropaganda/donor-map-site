@@ -2,7 +2,7 @@
 title: "Bernard Marcus"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -58,6 +58,8 @@ sec-form-types:
   - "SC 14D9"
   - "SC TO-T"
   - "SC TO-T/A"
+lei: "213800MWAHGQE6BU9654"
+lei-jurisdiction: "GB"
 ---
 
 #donor-node #mega-donor #retail #home-depot #republican #israel #class-analysis
@@ -181,3 +183,18 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Bernard%20Marcus%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [213800MWAHGQE6BU9654](https://search.gleif.org/#/record/213800MWAHGQE6BU9654) |
+| Legal Name | BERNARD MARCUS SCHWARTZ FAMILY FUND |
+| Jurisdiction | GB |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2020-02-13T08:10:41Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

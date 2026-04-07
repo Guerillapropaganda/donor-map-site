@@ -27,7 +27,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, C.D. California"
 lei: "254900R0UACRM2XT9692"
 lei-jurisdiction: "US-NC"
-ein: 916056255
+ein: "916056255"
 annual-revenue: "$914K"
 net-assets: "$468K"
 tax-year: "2023"
@@ -89,6 +89,9 @@ top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "336414"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+nonprofit-status: "501(c)(6)"
+total-revenue: 1031754
+total-assets: 589361
 ---
 
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor
@@ -445,3 +448,27 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Boeing) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 916056255 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $1.0M |
+| Total Assets | $589K |
+| IRS Ruling Date | 1949-11-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/916056255) (Tier 1)
+<!-- auto:nonprofit-990 end -->

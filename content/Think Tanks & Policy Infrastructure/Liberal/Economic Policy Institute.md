@@ -13,6 +13,22 @@ last-enriched: "2026-04-07"
 total-revenue: 12248246
 total-assets: 19581014
 related: "[[AFL-CIO]] · [[SEIU - Service Employees International Union|SEIU]] · [[American Federation of Teachers]] · [[National Education Association]] · [[Ford Foundation]] · [[Bill Gates]]"
+fara-status: "registrant"
+fara-records: 2
+fara-countries:
+  - "KOREA SOUTH"
+federal-register-mentions: 89
+regulatory-agencies:
+  - "Children and Families Administration"
+  - "Education Department"
+  - "Employment and Training Administration"
+  - "Environmental Protection Agency"
+  - "Financial Stability Oversight Council"
+  - "Health and Human Services Department"
+  - "Homeland Security Department"
+  - "Labor Department"
+  - "Labor-Management Standards Office"
+  - "National Labor Relations Board"
 ---
 
 #think-tank #liberal #labor #economic-policy #minimum-wage #pro-act #nlrb #revolving-door
@@ -257,3 +273,41 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521368964) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 2 |
+| Countries | KOREA SOUTH |
+| Foreign Principal Records | 1 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Korea Institute for International Economic Policy (KIEP) (KOREA SOUTH)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Economic%20Policy%20Institute) (Tier 1)
+<!-- auto:fara-foreign-agents end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 89 |
+| Final Rules | 55 |
+| Proposed Rules | 32 |
+| Notices | 2 |
+| Agencies | Children and Families Administration, Education Department, Employment and Training Administration, Environmental Protection Agency, Financial Stability Oversight Council, Health and Human Services Department, Homeland Security Department, Labor Department +3 more |
+
+**Recent regulatory activity:**
+- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (2026-03-27) — Labor Department
+- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (2025-12-29) — Homeland Security Department ★
+- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/09/24/2025-18473/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (2025-09-24) — Homeland Security Department ★
+- [Supporting the Head Start Workforce and Consistent Quality Programming](https://www.federalregister.gov/documents/2024/08/21/2024-18279/supporting-the-head-start-workforce-and-consistent-quality-programming) (2024-08-21) — Health and Human Services Department
+- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (2024-08-01) — National Labor Relations Board ★
+- [Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2024/04/29/2024-08333/improving-protections-for-workers-in-temporary-agricultural-employment-in-the-united-states) (2024-04-29) — Labor Department ★
+- ... and 83 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Economic%20Policy%20Institute%22) (Tier 1)
+<!-- auto:federal-register end -->

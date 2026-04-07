@@ -2,13 +2,19 @@
 title: "Fidelity Investments"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
 issues:
   - "Technology"
+federal-register-mentions: 182
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Employee Benefits Security Administration"
+  - "Labor Department"
+  - "Securities and Exchange Commission"
 ---
 
 #asset-manager #johnson-family #private-equity #financial-deregulation #crypto
@@ -43,3 +49,25 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 ---
 
 `content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 182 |
+| Final Rules | 53 |
+| Proposed Rules | 28 |
+| Notices | 101 |
+| Agencies | Employee Benefits Security Administration, Labor Department, Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Joint Industry Plan; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove an Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Modified by Amendment No. 1, To Adopt a Fee Schedule](https://www.federalregister.gov/documents/2026/04/03/2026-06463/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to) (2026-04-03) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; the Options Clearing Corporation; Order Granting Petition for Review and Scheduling Filing of Statements Concerning Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment No. 1, by the Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk Is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk](https://www.federalregister.gov/documents/2026/02/19/2026-03232/self-regulatory-organizations-the-options-clearing-corporation-order-granting-petition-for-review) (2026-02-19) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Reflect an Amendment to the Application and Exemptive Order Governing the Fidelity Women's Leadership ETF and Fidelity Sustainability U.S. Equity ETF](https://www.federalregister.gov/documents/2025/04/14/2025-06252/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed) (2025-04-14) — Securities and Exchange Commission
+- [Joint Industry Plan; Order Approving, as Modified, a National Market System Plan Regarding Consolidated Equity Market Data](https://www.federalregister.gov/documents/2024/11/29/2024-27644/joint-industry-plan-order-approving-as-modified-a-national-market-system-plan-regarding-consolidated) (2024-11-29) — Securities and Exchange Commission
+- [Form N-PORT and Form N-CEN Reporting; Guidance on Open-End Fund Liquidity Risk Management Programs](https://www.federalregister.gov/documents/2024/09/11/2024-19819/form-n-port-and-form-n-cen-reporting-guidance-on-open-end-fund-liquidity-risk-management-programs) (2024-09-11) — Securities and Exchange Commission
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) — Securities and Exchange Commission
+- ... and 176 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Fidelity%20Investments%22) (Tier 1)
+<!-- auto:federal-register end -->

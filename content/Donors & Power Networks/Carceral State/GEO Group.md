@@ -28,6 +28,8 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+lobbying-spend: 2624500
+lobbying-filings: 106
 ---
 
 #donor #private-prison #immigration-detention #GEO-group #ICE #for-profit-detention #republican-donor #trump #class-analysis #follow-the-money #revolving-door #carceral-state #detention-expansion #ankle-monitor #bi-incorporated #electronic-monitoring #e-carceration #pam-bondi #sedition-caucus #forced-labor #racial-disparity
@@ -665,3 +667,22 @@ research-status:: developed — Complete 2025 financials ($2.63B revenue, $254.4
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.6M |
+| Quarterly Filings | 106 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 43 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Agriculture, Animals, Arts/Entertainment, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Government Issues, Health Issues, Homeland Security, Immigration, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Marine/Maritime/Boating/Fisheries, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Pharmacy, Science/Technology, Small Business, Sports/Athletics, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Urban Development/Municipalities, Utilities, Veterans
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ALCALDE & FAY, AMERICAN GEOPHYSICAL UNION, AUGUSTA UNIVERSITY (FORMERLY GEORGIA REGENTS UNIVERSITY), BRACEWELL LLP, CASSIDY & ASSOCIATES, INC., CENTER ROAD SOLUTIONS, CONTINENTAL STRATEGY, LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., COVINGTON & BURLING LLP, DA VINCI GROUP, DENTONS US LLP, DGA GROUP GOVERNMENT RELATIONS LLC, G S PROCTOR AND ASSOCIATES, INC, GEOFFREY P. GRAY, GEORGE H. DENISON, GEORGE J. HOCHBRUECKNER & ASSOCIATES, INC., HEALTH AND MEDICINE COUNSEL, LLC, HYPERFOCAL COMMUNICATIONS, LLC, ICE MILLER LLP, ICEBREAKER STRATEGIES, LLC, INSESSION STRATEGIES LLC, LAW OFFICES OF GEORGE HARRIS, LLC, LEWIS-BURKE ASSOCIATES, LLC, LOBBYIT.COM, MARCUS G. FAUST, PC, MERCURY PUBLIC AFFAIRS, LLC, MWW GROUP, NELSON MULLINS RILEY & SCARBOROUGH, PETER DAMON GROUP LLC, POBLETE TAMARGO, LLP, QORVIS HOLDING INC - GEOPOLS, R&R PARTNERS, INC., SQUIRE PATTON BOGGS, THE GEO GROUP, INC., THE MADISON GROUP, TIBER CREEK GROUP, TROUTMAN STATEGIES, TSG ADVOCATES DC, LLC, UNIVERSITY OF GEORGIA, VECTIS DC, WILLIAM BALL, ZANSKAR GEOTHERMAL & MINERALS, INC.
+
+**Agencies contacted:** Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Federal Aviation Administration (FAA), Federal Emergency Management Agency (FEMA), HOUSE OF REPRESENTATIVES +13 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1)
+<!-- auto:lda-lobbying end -->

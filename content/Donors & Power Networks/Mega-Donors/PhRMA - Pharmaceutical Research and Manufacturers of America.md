@@ -30,6 +30,8 @@ sec-form-types:
   - "S-1/A"
   - "SB-2"
   - "SB-2/A"
+lobbying-spend: 2748000
+lobbying-filings: 51
 ---
 
 #phrma #redirect #pharma #lobbying
@@ -89,3 +91,22 @@ content-readiness:: raw
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.7M |
+| Quarterly Filings | 51 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 26 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Foreign Relations, Health Issues, Medicare/Medicaid, Pharmacy, Science/Technology, Trade (domestic/foreign)
+
+**Lobbying firms:** ADAMS AND REESE, LLP, ADVANCED POLICY CONSULTING, LLC, ARNOLD & PORTER KAYE SCHOLER LLP, CAPITOL COUNSEL LLC, CONVERGENCE PUBLIC AFFAIRS LLC, DENTONS US LLP, DESIMONE CONSULTING, LLC, FORBES-TATE, HANCE SCARBOROUGH, HILLNORTH LLC, HORIZON GOVERNMENT AFFAIRS, LKB STRATEGIES LLC, MONUMENT ADVOCACY, MR. VINCENT A. PANVINI, NELSON MULLINS RILEY & SCARBOROUGH, NVG, LLC, OGR, ROBERTI GLOBAL (F/K/A ROBERTI WHITE, LLC), RUBIN, TURNBULL & ASSOCIATES, TARPLIN, DOWNS & YOUNG, LLC, THE DUBERSTEIN GROUP INC., THE MATHIS HARPLE GROUP, THE SIMMONS & RUSSELL GROUP, LLC, TIBER CREEK GROUP, TIBER CREEK HEALTH STRATEGIES, INC., WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Office of Management & Budget (OMB), SENATE, White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America) (Tier 1)
+<!-- auto:lda-lobbying end -->

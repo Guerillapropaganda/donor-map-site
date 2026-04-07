@@ -228,3 +228,20 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Paul%20Singer) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Samuel Alito]] — lobbying: $1.3M
+- [[Tom Cotton]] — lobbying: $1.3M
+- [[Marco Rubio]] — lobbying: $1.3M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

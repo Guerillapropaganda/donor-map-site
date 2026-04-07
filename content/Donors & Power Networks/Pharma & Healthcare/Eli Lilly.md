@@ -24,6 +24,8 @@ tax-year: "2023"
 federal-awards-total: 229741
 federal-contracts-count: 2
 federal-grants-count: 0
+top-federal-agency: "Department of Defense"
+top-naics-code: "325412"
 ---
 
 #donor-node #lilly #pharma #insulin #drug-pricing #indiana #diabetes #weight-loss #glp1 #lobbying #class-analysis #follow-the-money
@@ -288,3 +290,20 @@ content-readiness:: developed
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/b620c99d-9b16-86c8-fa2d-2c14d6e69ce9-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Defense ($3.5B) |
+| Primary NAICS Sector | Pharmaceutical Preparation Manufacturing |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $3.5B |
+| Department of Veterans Affairs | $230K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

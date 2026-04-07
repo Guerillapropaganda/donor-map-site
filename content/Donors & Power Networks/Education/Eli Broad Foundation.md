@@ -14,6 +14,8 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 163352987
 total-assets: 1860562867
+lei: "549300MEWH8MEHZXWM71"
+lei-jurisdiction: "US-CA"
 ---
 
 
@@ -151,3 +153,18 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/954686318) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300MEWH8MEHZXWM71](https://search.gleif.org/#/record/549300MEWH8MEHZXWM71) |
+| Legal Name | The Eli and Edythe Broad Foundation |
+| Jurisdiction | US-CA |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-08-04T16:55:27Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

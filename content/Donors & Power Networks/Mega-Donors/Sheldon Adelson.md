@@ -2,7 +2,7 @@
 title: "Sheldon & Miriam Adelson"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Israel & Foreign Policy"
+ein: 886063073
+annual-revenue: "$13K"
+net-assets: "$90K"
+tax-year: "2023"
 ---
 
 
@@ -168,3 +172,15 @@ The Adelson model's most dangerous innovation is its transparency. Most donor-to
 ---
 
 content-readiness:: developed
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $13K |
+| Total Contributions | $0 |
+| Total Expenses | $756 |
+| Net Assets | $90K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 886063073](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1)
+<!-- auto:propublica-990 end -->

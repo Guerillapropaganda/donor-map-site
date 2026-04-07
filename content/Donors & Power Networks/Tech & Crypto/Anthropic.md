@@ -10,6 +10,18 @@ entity-type: "Corporation"
 federal-awards-total: 18960
 federal-contracts-count: 1
 federal-grants-count: 1
+court-cases: 303
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, E.D. Texas"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
+lei: "984500B6DEB8CEBC4Z70"
+lei-jurisdiction: "US-DE"
 ---
 
 #anthropic #ai #safety #regulation #frontier-models #google #amazon
@@ -86,3 +98,37 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/5835c90c-1fd8-d04d-a4c0-2ee70d53ae63-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 303 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, E.D. Texas, District Court, N.D. California, District Court, S.D. New York, District Court, W.D. Texas |
+| Case Types | 190 Contract: Other, 360 P.I.: Other, 370 Other Fraud, 791 Labor: E.R.I.S.A., 820 Copyright |
+
+**Notable cases:**
+- Anthropic, PBC v. United States Department of War, et al. (2026) — Court of Appeals for the Ninth Circuit
+- Doe v. Perplexity AI, Inc. (2026) — District Court, N.D. California
+- Christian Marquez v. Beekeepers Naturals USA, Inc. (2026) — District Court, C.D. California
+- BMG Rights Management (US) LLC v. Anthropic PBC (2026) — District Court, N.D. California
+- Chicken Soup for the Soul, LLC v. Anthropic PBC (2026) — District Court, N.D. California
+- Bruff v. USAA Educational Assistance Plan (2026) — District Court, W.D. Texas
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Anthropic%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [984500B6DEB8CEBC4Z70](https://search.gleif.org/#/record/984500B6DEB8CEBC4Z70) |
+| Legal Name | ANTHROPIC, PBC |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-28T08:07:08Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

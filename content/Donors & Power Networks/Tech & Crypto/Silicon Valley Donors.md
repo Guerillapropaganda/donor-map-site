@@ -2,7 +2,7 @@
 title: "Silicon Valley Donors"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -12,6 +12,8 @@ politicians-funded:
   - "David Sacks"
 issues:
   - "Technology"
+lobbying-spend: 1258000
+lobbying-filings: 51
 ---
 
 #silicon-valley #tech #donors #democratic #republican #realignment #deregulation #lobbying #crypto #ai #venture-capital #class-analysis #follow-the-money
@@ -134,3 +136,22 @@ Third, **preemption of democratic governance.** The December 2025 executive orde
 ---
 
 content-readiness:: developed
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.3M |
+| Quarterly Filings | 51 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 8 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Banking, Budget/Appropriations, Chemicals/Chemical Industry, Defense, Energy/Nuclear, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** H&M STRATEGIES LLP, HOLLAND & KNIGHT LLP, INNOVATIVE FEDERAL STRATEGIES, LLC, KELLEY DRYE & WARREN LLP, KING & SPALDING LLP, LONGVIEW GLOBAL, LLC, THE FERGUSON GROUP, WSQUARED STRATEGIES LLC
+
+**Agencies contacted:** Air Force, Dept of, Commerce, Dept of (DOC), Defense, Dept of (DOD), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Silicon%20Valley%20Donors) (Tier 1)
+<!-- auto:lda-lobbying end -->

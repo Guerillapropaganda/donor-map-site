@@ -2,7 +2,7 @@
 title: "Cathy McMorris Rodgers Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,8 @@ top-donors:
   - "Koch Industries"
   - "Marathon Petroleum"
   - "Chevron"
+total-received: "$3,631,602"
+fec-candidate-id: "H4WA05077"
 ---
 
 
@@ -175,3 +177,38 @@ Her committee position turned her funded-by relationship into actual regulatory 
 profile-status:: ready
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $3,631,602 |
+| Individual Contributions | $1,192,047 |
+| PAC Contributions | $1,858,958 |
+| Cash on Hand | 73009.68 |
+| IE Support (Super PAC) | $1,346,274 |
+| IE Opposition (Super PAC) | $1,145,448 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $3,631,602 | $1,192,047 | $1,858,958 |
+| 2022 | $6,416,913 | $1,926,713 | $3,315,555 |
+| 2020 | $4,419,970 | $1,518,885 | $1,812,368 |
+| 2018 | $5,863,432 | $2,161,399 | $2,185,942 |
+| 2016 | $3,274,060 | $954,945 | $1,497,426 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $0 | $982,440 |
+| AMERICAN HOSPITAL ASSOCIATION PAC | $347,605 | $0 |
+| CLEARPATH ACTION FUND, INC. | $336,750 | $0 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $278,926 | $0 |
+| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $179,660 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4WA05077/) (Tier 1)
+<!-- auto:fec-politician end -->

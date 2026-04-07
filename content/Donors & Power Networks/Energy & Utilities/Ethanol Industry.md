@@ -26,10 +26,14 @@ sec-form-types:
   - "EX-99.4"
   - "FWP"
   - "XML"
-ein: 300451687
+ein: "300451687"
 annual-revenue: "$25K"
 net-assets: "$172K"
 tax-year: "2019"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 25479
+total-assets: 172173
 ---
 
 #ethanol #corn #biofuel #rfs #agriculture #iowa #mandates #subsidies
@@ -141,3 +145,28 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 300451687](https://projects.propublica.org/nonprofits/organizations/300451687) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=05_2021_prefixes_27-30%2F300451687_201912_990EZ_2021051918142012.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 300451687 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $25K |
+| Total Assets | $172K |
+| NTEE Code | P20 |
+| IRS Ruling Date | 2010-01-01 |
+| Filings on Record | 9 |
+
+**Filing history:** 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012
+
+**View 990 filings:**
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2019)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2018)
+- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2017)
+- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2016)
+- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2015)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300451687) (Tier 1)
+<!-- auto:nonprofit-990 end -->

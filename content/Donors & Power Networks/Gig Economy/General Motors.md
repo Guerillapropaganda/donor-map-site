@@ -19,6 +19,16 @@ ein: 383569669
 annual-revenue: "$25K"
 net-assets: "$130K"
 tax-year: "2023"
+court-cases: 52314
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, D. Colorado"
+  - "District Court, E.D. Michigan"
+  - "District Court, M.D. Florida"
+  - "District Court, M.D. Louisiana"
+  - "District Court, N.D. Texas"
+  - "District Court, W.D. Texas"
+  - "District Court, W.D. Washington"
 ---
 
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw
@@ -149,3 +159,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 383569669](https://projects.propublica.org/nonprofits/organizations/383569669) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 52,314 |
+| Courts | District Court, D. Colorado, District Court, E.D. Michigan, District Court, M.D. Florida, District Court, M.D. Louisiana, District Court, N.D. Texas, District Court, W.D. Texas, District Court, W.D. Washington |
+| Case Types | 190 Contract: Other, 355 Motor Vehicle Prod. Liability, 480 Consumer Credit, 830 Patent |
+
+**Notable cases:**
+- Hammack v. General Motors LLC (2026) — District Court, N.D. Texas
+- Henry v. General Motors, LLC (2026) — District Court, M.D. Louisiana
+- Gunn v. General Motors, LLC (2026) — District Court, D. Colorado
+- Grimes v. General Motors, LLC (2026) — District Court, M.D. Louisiana
+- Walock v. General Motors, LLC (2026) — District Court, M.D. Louisiana
+- Gonnering v. General Motors LLC (2026) — District Court, E.D. Michigan
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22General%20Motors%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

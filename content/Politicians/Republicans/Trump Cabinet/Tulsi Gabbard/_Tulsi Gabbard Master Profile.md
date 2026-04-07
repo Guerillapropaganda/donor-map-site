@@ -2,7 +2,7 @@
 title: "Tulsi Gabbard Master Profile"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,6 +13,9 @@ top-donors:
   - "MAGA Inc"
 total-received: "$737,137"
 fec-candidate-id: "H2HI02508"
+govtrack-id: 412532
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 
@@ -154,3 +157,27 @@ Gabbard was raised in the Science of Identity Foundation (SIF), a new religious 
 - [Honolulu Civil Beat: Senators urged to examine Gabbard's 'deep and intense' ties to Hawaii sect](https://www.civilbeat.org/2024/12/senators-urged-to-examine-gabbards-deep-and-intense-ties-to-hawaii-sect/) (Tier 2)
 - [FEC: Tulsi Gabbard contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=gabbard,+tulsi) (Tier 1)
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 4,693 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2020-12-28 | H.R. 6395: National Defense Authorization Act for Fiscal Year 2021 | Nay | Passed |
+| 2020-12-28 | H.R. 9051: CASH Act of 2020 | Yea | Passed |
+| 2020-12-21 | H.R. 133: Consolidated Appropriations Act, 2021 [Including Coronavirus Stimulus … | Nay | Passed |
+| 2020-12-21 | H.R. 133: Consolidated Appropriations Act, 2021 [Including Coronavirus Stimulus … | Nay | Passed |
+| 2020-12-21 | H.Res. 1271: Providing for consideration of the Senate amendment to the bill (H.… | Nay | Passed |
+| 2020-12-20 | H.J.Res. 110: Extension of Continuing Appropriations Act, 2021 | Yea | Passed |
+| 2020-12-18 | H.J.Res. 107: Further Additional Continuing Appropriations Act, 2021 | Yea | Passed |
+| 2020-12-18 | S. 979: Federal Advance Contracts Enhancement Act | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412532) (Tier 1)
+<!-- auto:govtrack end -->

@@ -2,7 +2,7 @@
 title: "Ballard Partners"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 annual-revenue: "$88.1M (2025)"
@@ -10,6 +10,16 @@ lobbyist-count: 38
 fara-clients: 14
 revolving-door-pct: "29.7%"
 related: "[[Palantir Technologies]] · [[GEO Group]] · [[JPMorgan Chase]] · [[UnitedHealth Group - Optum|UnitedHealth Group]] · [[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]]"
+court-cases: 33
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, D. Nevada"
+  - "District Court, District of Columbia"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, D. New Jersey"
+  - "United States Bankruptcy Court, S.D. Florida."
 ---
 
 #lobbying #k-street #trump #revolving-door #fara #foreign-government #tech #defense #pharma #energy #crypto
@@ -242,3 +252,22 @@ The structural function: Ballard Partners is the firm that converts political pr
 - [OpenSecrets: Rich L. Haselwood Lobbyist Profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 33 |
+| Courts | District Court, D. Nevada, District Court, District of Columbia, District Court, M.D. Florida, District Court, N.D. California, District Court, S.D. New York, United States Bankruptcy Court, D. New Jersey, United States Bankruptcy Court, S.D. Florida. |
+| Case Types | 440 Civil Rights: Other, 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions, Assault Libel & Slander |
+
+**Notable cases:**
+- Knight v. Ballard Partners, Inc. (2026) — District Court, D. Nevada
+- MACTRUONG v. BEZOS (2026) — District Court, District of Columbia
+- United States v. Mangione (2025) — District Court, S.D. New York
+- Bird Rides, Inc. (2023) — United States Bankruptcy Court, S.D. Florida.
+- Bird Global, Inc. (2023) — United States Bankruptcy Court, S.D. Florida.
+- In re: Uber Technologies, Inc., Passenger Sexual Assault Litigation (2023) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ballard%20Partners%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

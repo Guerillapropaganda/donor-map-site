@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -13,6 +13,24 @@ issues:
   - "Defense & Military"
 lobbying-spend: 20724000
 lobbying-filings: 56
+ein: 916374992
+annual-revenue: "$956K"
+net-assets: "$2.8M"
+tax-year: "2022"
+court-cases: 92830
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the First Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, D. Kansas"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Texas"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, N.D. New York"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+cpsc-recalls: 1
 ---
 
 #microsoft #tech #lobbying #ai #cloud #antitrust #government-contracts #defense
@@ -121,3 +139,50 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Financial Overview (990 Filing — 2022)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $956K |
+| Total Contributions | $0 |
+| Total Expenses | $40K |
+| Net Assets | $2.8M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 916374992](https://projects.propublica.org/nonprofits/organizations/916374992) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F916374992_202206_990PF_2023030921056171.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 92,830 |
+| Courts | Court of Appeals for the First Circuit, District Court, D. Delaware, District Court, D. Kansas, District Court, E.D. Pennsylvania, District Court, E.D. Texas, District Court, N.D. California, District Court, N.D. Illinois, District Court, N.D. New York +4 more |
+| Case Types | 190 Contract: Other, 2899 Other Statutes, 360 P.I.: Other, 820 Copyright, 830 Patent |
+
+**Notable cases:**
+- ADAPTIVE CLASSIFICATION TECHNOLOGIES LLC v. Open Text Inc. (2026) — District Court, W.D. Texas
+- GLOBUS MEDICAL, INC. v. POWELL (2026) — District Court, E.D. Pennsylvania
+- Quantion LLC v. Warner Bros. Entertainment, Inc. (2026) — District Court, D. Delaware
+- CheckWizard LLC v. CartonCloud Pty Ltd (2026) — District Court, E.D. Texas
+- Southeast Kansas Eye Care Associates, P.A. v. UnitedHealth Group Incorporated (2026) — District Court, D. Kansas
+- Shaw v. Kennedy (2026) — Court of Appeals for the First Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Microsoft%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 1 |
+| Most Recent Recall | 2016-02-02 |
+| Hazard Types | The power cords can overheat, posing fire or shock hazards. |
+
+**Recent recalls:**
+
+- [Microsoft Recalls AC Power Cords for Surface Pro Devices Due to Fire, Shock Hazards](https://www.cpsc.gov/Recalls/16089) (2016-02-02) — The power cords can overheat, posing fire or shock hazards.
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Microsoft) (Tier 1)
+<!-- auto:cpsc-recalls end -->

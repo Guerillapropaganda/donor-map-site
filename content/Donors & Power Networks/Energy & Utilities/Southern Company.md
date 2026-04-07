@@ -27,6 +27,14 @@ ein: 582514027
 annual-revenue: "$1.6M"
 net-assets: "$104.5M"
 tax-year: "2023"
+federal-register-mentions: 1579
+regulatory-agencies:
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Communications Commission"
+  - "Federal Energy Regulatory Commission"
+  - "Labor Department"
+  - "Veterans Employment and Training Service"
 ---
 
 #southern-company #utility #georgia #nuclear #coal #monopoly #rate-base
@@ -136,3 +144,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 582514027](https://projects.propublica.org/nonprofits/organizations/582514027) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1,579 |
+| Final Rules | 185 |
+| Proposed Rules | 100 |
+| Notices | 1,294 |
+| Agencies | Energy Department, Environmental Protection Agency, Federal Communications Commission, Federal Energy Regulatory Commission, Labor Department, Veterans Employment and Training Service |
+
+**Recent regulatory activity:**
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
+- [Unlicensed Use of the 6 GHz Band; Expanding Flexible Use in Mid-Band Spectrum Between 3.7 and 24 GHz](https://www.federalregister.gov/documents/2026/02/25/2026-03744/unlicensed-use-of-the-6-ghz-band-expanding-flexible-use-in-mid-band-spectrum-between-37-and-24-ghz) (2026-02-25) — Federal Communications Commission
+- [Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Deadline Extensions](https://www.federalregister.gov/documents/2025/12/31/2025-24102/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source) (2025-12-31) — Environmental Protection Agency
+- [Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Deadline Extensions](https://www.federalregister.gov/documents/2025/10/02/2025-19268/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source) (2025-10-02) — Environmental Protection Agency
+- [Gulf South Pipeline Company, LLC, Texas Gas Transmission, LLC; Notice of Application and Establishing Intervention Deadline](https://www.federalregister.gov/documents/2025/09/30/2025-18993/gulf-south-pipeline-company-llc-texas-gas-transmission-llc-notice-of-application-and-establishing) (2025-09-30) — Energy Department
+- [Accelerating Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment](https://www.federalregister.gov/documents/2025/08/22/2025-16088/accelerating-wireline-broadband-deployment-by-removing-barriers-to-infrastructure-investment) (2025-08-22) — Federal Communications Commission
+- ... and 1,573 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Southern%20Company%22) (Tier 1)
+<!-- auto:federal-register end -->

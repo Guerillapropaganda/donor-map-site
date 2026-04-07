@@ -2,7 +2,7 @@
 title: "Jodey Arrington"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -25,6 +25,11 @@ top-donors:
 total-received: "$1,678,317"
 fec-candidate-id: "H6TX19099"
 bioguide-id: "A000383"
+govtrack-id: 412726
+bills-sponsored: 54
+bills-cosponsored: 79
+website: "https://arrington.house.gov"
+phone: "202-225-4005"
 ---
 
 #jodey-arrington #republican #texas #house #committee-chair #budget #ways-and-means #oil-gas #agriculture #tax-cuts #reconciliation #phase-6-gavel-power
@@ -202,3 +207,35 @@ content-readiness:: ready
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 54 |
+| Bills Cosponsored | 79 |
+| Total Votes Cast | 4,873 |
+
+**Recent bills sponsored:**
+
+- H.R. 7812: Securing Accountability in Foreign Entries Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7745: To establish certain requirements relating to wellness checks for the health and welfare of certain members of the Armed — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7348: Transparency in Federal Land Acquisitions Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6974: Improving MA SNP Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 8, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6707: CFIUSMCA Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 15, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412726) (Tier 1)
+<!-- auto:govtrack end -->

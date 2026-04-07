@@ -13,6 +13,11 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
+ein: "950596680"
+nonprofit-status: "501(c)(6)"
+last-enriched: "2026-04-07"
+total-revenue: 56147294
+total-assets: 16493191
 ---
 
 #wspa #petroleum #california #lobbying #oil #gas #refining #cap-and-trade
@@ -72,3 +77,27 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 950596680 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $56.1M |
+| Total Assets | $16.5M |
+| IRS Ruling Date | 1942-08-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/950596680) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -16,6 +16,19 @@ tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 total-political-spend: "$500"
+court-cases: 5044
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Minnesota"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
 ---
 
 #labor #unions #democratic #organizing #collective-bargaining #pac #decline
@@ -86,3 +99,22 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Labor%20Unions) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 5,044 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, D. Massachusetts, District Court, D. Minnesota, District Court, E.D. California, District Court, E.D. Pennsylvania, District Court, M.D. Florida +3 more |
+| Case Types | 422 Bankruptcy Appeal (801), 442 Civil Rights: Jobs, 840 Property Rights: Trademark, 890 Other Statutory Actions, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- WORKERS UNITED v. STARBUCKS CORPORATION (2026) — District Court, E.D. Pennsylvania
+- Broadband Communications Association of Pennsylvan v. FCC (2026) — Court of Appeals for the D.C. Circuit
+- LeadingAge Minnesota v. Blissenbach (2026) — District Court, D. Minnesota
+- Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
+- Sierra Club, et al. v. United States Department of Energy, et al. (2026) — Court of Appeals for the Ninth Circuit
+- Martin Luther King, Jr. County v. DOT (2026) — Court of Appeals for the D.C. Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Labor%20Unions%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

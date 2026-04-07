@@ -43,6 +43,28 @@ ein: 742873537
 annual-revenue: "$1.9M"
 net-assets: "$4.8M"
 tax-year: "2023"
+sec-filings: 10000
+sec-form-types:
+  - "10-Q"
+  - "144"
+  - "3"
+  - "4"
+  - "424B2"
+  - "8-A12B"
+  - "8-K"
+  - "EX-99"
+  - "EX-99.(C)(II)"
+  - "EX-99.1"
+  - "EX-99.4"
+  - "FWP"
+  - "S-8 POS"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SC TO-I"
+  - "SC TO-I/A"
+  - "SCHEDULE 13G/A"
 ---
 
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory
@@ -271,3 +293,23 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 742873537](https://projects.propublica.org/nonprofits/organizations/742873537) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-Q, 144, 3, 4, 424B2, 8-A12B, 8-K, EX-99 +12 more |
+| CIK | 70318 |
+| Ticker | THC |
+
+**Notable filings:**
+
+- 2026-03-30 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/70318/000007031826000015/0000070318-26-000015-index.htm)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/70318/000010290926002471/0000102909-26-002471-index.htm)
+- 2026-03-13 — **4**: [4](https://www.sec.gov/Archives/edgar/data/70318/000119312526106696/0001193125-26-106696-index.htm)
+- 2026-03-11 — **144**: [144](https://www.sec.gov/Archives/edgar/data/70318/000195917326002196/0001959173-26-002196-index.htm)
+- 2026-03-10 — **4**: [4](https://www.sec.gov/Archives/edgar/data/70318/000119312526100724/0001193125-26-100724-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tenet%20Healthcare%22) (Tier 1)
+<!-- auto:sec-edgar end -->

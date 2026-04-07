@@ -11,6 +11,8 @@ bills-sponsored: 23
 bills-cosponsored: 159
 website: "https://www.moreno.senate.gov"
 phone: "202-224-2315"
+total-received: "$1,879,101"
+fec-candidate-id: "S4OH00192"
 ---
 
 #bernie-moreno #senate #ohio #crypto-industry #trump-backed #auto-dealer #class-analysis
@@ -133,3 +135,35 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2030 |
+| Total Raised | $1,879,101 |
+| Individual Contributions | $194,119 |
+| PAC Contributions | $224,371 |
+| Cash on Hand | 1471622.63 |
+| IE Support (Super PAC) | $105,474,412 |
+| IE Opposition (Super PAC) | $163,370,656 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2030 | $1,879,101 | $194,119 | $224,371 |
+| 2024 | $26,920,694 | $11,267,320 | $909,531 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| WINSENATE | $0 | $143,088,684 |
+| DEFEND AMERICAN JOBS | $80,059,410 | $0 |
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $12,916,134 | $0 |
+| SENATE LEADERSHIP FUND | $9,777,367 | $0 |
+| BUCKEYE LEADERSHIP FUND, INC. | $0 | $6,577,836 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1)
+<!-- auto:fec-politician end -->

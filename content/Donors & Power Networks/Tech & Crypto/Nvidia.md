@@ -2,7 +2,7 @@
 title: "Nvidia"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -10,6 +10,8 @@ entity-type: "Corporation"
 issues:
   - "Technology"
   - "Defense & Military"
+lei: "549300S4KLFTLO7GSQ80"
+lei-jurisdiction: "US-DE"
 ---
 
 #nvidia #tech #ai #chips #gpu #defense #data-centers #jensen-huang
@@ -52,3 +54,18 @@ Favorable AI regulation (avoiding restrictions on AI model development), continu
 - [Ballotpedia: Nvidia](https://ballotpedia.org/Nvidia) (Tier 3)
 
 content-readiness:: ready
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300S4KLFTLO7GSQ80](https://search.gleif.org/#/record/549300S4KLFTLO7GSQ80) |
+| Legal Name | NVIDIA CORPORATION |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-07T01:29:18Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

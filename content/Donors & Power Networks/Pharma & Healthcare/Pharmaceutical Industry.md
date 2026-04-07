@@ -17,6 +17,32 @@ ein: 431985339
 annual-revenue: "$4.1M"
 net-assets: "$615K"
 tax-year: "2023"
+sec-filings: 10000
+sec-form-types:
+  - "424B2"
+  - "497K"
+  - "6-K"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14C"
+  - "DEFA14A"
+  - "EX-1"
+  - "EX-10.55"
+  - "EX-10.6"
+  - "EX-15.4"
+  - "EX-20"
+  - "EX-99"
+  - "EX-99.01"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "FWP"
+  - "LETTER"
+  - "POS AM"
+  - "PRE 14C"
+  - "PREC14C"
+  - "PX14A6G"
+  - "S-1"
+  - "S-1/A"
 ---
 
 #pharma #pharmaceutical #lobbying #drug-pricing #bipartisan #medicare #negotiation #revolving-door #dark-money #class-analysis
@@ -206,3 +232,21 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 431985339](https://projects.propublica.org/nonprofits/organizations/431985339) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 424B2, 497K, 6-K, 8-K, CORRESP, DEF 14C, DEFA14A, EX-1 +16 more |
+
+**Notable filings:**
+
+- 2014-09-03 — **EX-10.55**: EX-10.55
+- 2015-07-01 — **EX-10.55**: EXHIBIT 10.55
+- 2013-02-04 — **497K**: 497K
+- 2016-09-22 — **FWP**: BASKET OF THREE PHARMACEUTICAL INDUSTRY STOCKS 14M ARN
+- 2016-10-07 — **424B2**: BASKET OF THREE PHARMACEUTICAL INDUSTRY STOCKS 14M ARN
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Pharmaceutical%20Industry%22) (Tier 1)
+<!-- auto:sec-edgar end -->

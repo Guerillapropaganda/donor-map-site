@@ -2,7 +2,7 @@
 title: "Organizing for Action"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,15 @@ ein: 461827418
 annual-revenue: "$4.7M"
 net-assets: "$2.3M"
 tax-year: "2018"
+sec-filings: 11
+sec-form-types:
+  - "424B3"
+  - "DEF 14A"
+  - "EX-10.1"
+  - "EX-99.1"
+  - "EX-99.5"
+  - "S-4/A"
+  - "S-4EF"
 ---
 
 #ofa #organizing-for-action #obama #501c4 #dark-money #campaign-infrastructure
@@ -75,3 +84,21 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 - [Source: ProPublica Nonprofit Explorer — EIN 461827418](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2020_prefixes_45-46%2F461827418_201812_990O_2020010316992777.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 11 |
+| Form Types | 424B3, DEF 14A, EX-10.1, EX-99.1, EX-99.5, S-4/A, S-4EF |
+
+**Notable filings:**
+
+- 2024-12-03 — **EX-99.1**: EX-99.1
+- 2022-03-21 — **DEF 14A**: DEF 14A
+- 2024-04-11 — **DEF 14A**: DEF 14A
+- 2023-04-14 — **DEF 14A**: DEF 14A
+- 2023-05-30 — **EX-10.1**: EX-10.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Organizing%20for%20Action%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -2,13 +2,18 @@
 title: "Monsanto - Bayer"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Agriculture"
 entity-type: "Corporation"
 issues:
   - "Agriculture"
+federal-register-mentions: 1
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Justice Department"
 ---
 
 #monsanto #bayer #agriculture #gmo #roundup #glyphosate #seeds #patents
@@ -53,3 +58,17 @@ Patent protection for genetically modified seeds (preventing farmers from saving
 - [Ballotpedia: Monsanto](https://ballotpedia.org/Monsanto_Company) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Notice | 1 |
+| Agencies | Antitrust Division, Justice Department |
+
+**Recent regulatory activity:**
+- [United States of America v. Bayer AG and Monsanto Company; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2018/06/13/2018-12202/united-states-of-america-v-bayer-ag-and-monsanto-company-proposed-final-judgment-and-competitive) (2018-06-13) — Justice Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Monsanto%20-%20Bayer%22) (Tier 1)
+<!-- auto:federal-register end -->

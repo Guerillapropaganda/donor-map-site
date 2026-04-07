@@ -2,11 +2,14 @@
 title: "TikTok - ByteDance"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Corporation"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-07"
 ---
 
 #tiktok #bytedance #china #social-media #ban #data #lobbying #foreign
@@ -48,3 +51,21 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 - [Ballotpedia: TikTok ban](https://ballotpedia.org/TikTok_-_ByteDance) (Tier 3)
 
 content-readiness:: ready
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=TikTok%20-%20ByteDance) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

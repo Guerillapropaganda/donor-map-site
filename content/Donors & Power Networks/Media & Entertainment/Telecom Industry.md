@@ -20,6 +20,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, E.D. New York"
 lobbying-spend: 9020027
 lobbying-filings: 97
+total-political-spend: "$270,182"
 ---
 
 #telecom #net-neutrality #spectrum #broadband #lobbying #fcc #bipartisan
@@ -117,3 +118,28 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $270,182 |
+| Contributions | 92 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| NRCCC - NON FED ACT | $39,166 | — |
+| DSCC NON-FEDERAL CORPORATE | $35,000 | — |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $25,000 | REP |
+| NRSC - NONFEDERAL | $25,000 | — |
+| NRCCC - NONFEDERAL ACCOUNT | $24,500 | — |
+| DNC-NONFEDERAL-CORPORATE | $15,000 | — |
+| CONGRESSMAN JOE BARTON COMMITTEE, THE | $10,500 | REP |
+| NRCCC - NON FEDERAL #1 | $10,450 | — |
+| DCCCC NON-FEDERAL ACCOUNT #3 | $10,000 | — |
+| DCCC BUILDING FUND ACCOUNT #1 | $7,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Telecom%20Industry) (Tier 1)
+<!-- auto:fec-donor end -->

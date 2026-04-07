@@ -2,13 +2,28 @@
 title: "Donors Capital Fund"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 13
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, D. Minnesota"
+  - "District Court, D. New Jersey"
+  - "District Court, D. Puerto Rico"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Florida"
+  - "District Court, W.D. Washington"
+ein: 541934032
+annual-revenue: "$696K"
+net-assets: "$9.5M"
+tax-year: "2023"
 ---
 
 #donor #dark-money #donor-advised-fund #501c3 #conservative #koch-network #class-analysis #follow-the-money
@@ -95,3 +110,35 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 
 research-status:: draft — Core financial profile and grant distribution documented. Gaps: complete donor list (shielded by DAF structure), full recipient list beyond top-line, detailed temporal mapping of grants to policy outcomes, IRS 990 deep-dive for historical grant patterns. ProPublica 990 data and CMD investigative reporting are the strongest available sources.
 content-readiness:: draft
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 13 |
+| Courts | District Court, D. Minnesota, District Court, D. New Jersey, District Court, D. Puerto Rico, District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, N.D. California, District Court, N.D. Florida, District Court, W.D. Washington |
+| Case Types | 370 Fraud, 440 Civil Rights: Other, 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions, 893 Environmental Matters |
+
+**Notable cases:**
+- Kennedy v. Exxon Mobil Corporation (2025) — District Court, W.D. Washington
+- Commonwealth of Puerto Rico v. Exxon Mobil Corporation (2024) — District Court, D. Puerto Rico
+- The Municipality of San Juan Puerto Rico v. Exxon Mobil Corp. (2023) — District Court, D. Puerto Rico
+- Municipality of Bayamon v. Exxon Mobil Corporation (2022) — District Court, D. Puerto Rico
+- LINK v. CORCORAN (2021) — District Court, N.D. Florida
+- CITY OF HOBOKEN v. EXXON MOBIL CORP. (2020) — District Court, D. New Jersey
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Donors%20Capital%20Fund%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $696K |
+| Total Contributions | $392K |
+| Investment Income | $336K |
+| Total Expenses | $505K |
+| Net Assets | $9.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 541934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
+<!-- auto:propublica-990 end -->

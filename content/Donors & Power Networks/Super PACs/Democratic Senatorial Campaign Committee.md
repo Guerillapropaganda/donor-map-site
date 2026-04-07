@@ -2,11 +2,17 @@
 title: "Democratic Senatorial Campaign Committee"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
+federal-register-mentions: 33
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Federal Election Commission"
+  - "Postal Regulatory Commission"
+  - "Securities and Exchange Commission"
 ---
 
 #dscc #senate #democratic #campaign #fundraising #party-committee
@@ -61,3 +67,25 @@ content-readiness:: ready
 | PENNSYLVANIA DEMOCRATIC PARTY | $6.4M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 33 |
+| Final Rules | 12 |
+| Proposed Rules | 5 |
+| Notices | 16 |
+| Agencies | Federal Election Commission, Postal Regulatory Commission, Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Use of Campaign Funds for Candidate and Officeholder Security](https://www.federalregister.gov/documents/2024/09/25/2024-21918/use-of-campaign-funds-for-candidate-and-officeholder-security) (2024-09-25) — Federal Election Commission
+- [Internet Communication Disclaimers and Definition of “Public Communication”](https://www.federalregister.gov/documents/2018/03/26/2018-06010/internet-communication-disclaimers-and-definition-of-public-communication) (2018-03-26) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/08/20/2013-20344/sunshine-act-meetings) (2013-08-20) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/07/23/2013-17733/sunshine-act-meetings) (2013-07-23) — Federal Election Commission
+- [Sunshine Act Notice](https://www.federalregister.gov/documents/2012/11/14/2012-27703/sunshine-act-notice) (2012-11-14) — Federal Election Commission
+- [Sunshine Act Meeting](https://www.federalregister.gov/documents/2011/07/18/2011-18154/sunshine-act-meeting) (2011-07-18) — Federal Election Commission
+- ... and 27 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Democratic%20Senatorial%20Campaign%20Committee%22) (Tier 1)
+<!-- auto:federal-register end -->

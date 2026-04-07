@@ -43,6 +43,18 @@ ein: "361520690"
 nonprofit-status: "501(c)(6)"
 total-revenue: 839996863
 total-assets: 1078254728
+federal-register-mentions: 123
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Antitrust Division"
+  - "Drug Enforcement Administration"
+  - "Energy Department"
+  - "Federal Housing Finance Agency"
+  - "Financial Crimes Enforcement Network"
+  - "Housing and Urban Development Department"
+  - "Justice Department"
+  - "Labor Department"
+  - "National Labor Relations Board"
 ---
 
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door
@@ -486,3 +498,25 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/361520690) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 123 |
+| Final Rules | 53 |
+| Proposed Rules | 37 |
+| Notices | 33 |
+| Agencies | Agriculture Department, Antitrust Division, Drug Enforcement Administration, Energy Department, Federal Housing Finance Agency, Financial Crimes Enforcement Network, Housing and Urban Development Department, Justice Department +6 more |
+
+**Recent regulatory activity:**
+- [2026-2028 Enterprise Housing Goals](https://www.federalregister.gov/documents/2025/12/23/2025-23746/2026-2028-enterprise-housing-goals) (2025-12-23) — Federal Housing Finance Agency
+- [2026-2028 Enterprise Housing Goals](https://www.federalregister.gov/documents/2025/10/02/2025-19428/2026-2028-enterprise-housing-goals) (2025-10-02) — Federal Housing Finance Agency
+- [2025-2027 Enterprise Housing Goals](https://www.federalregister.gov/documents/2024/12/30/2024-30793/2025-2027-enterprise-housing-goals) (2024-12-30) — Federal Housing Finance Agency ★
+- [2025-2027 Enterprise Housing Goals](https://www.federalregister.gov/documents/2024/08/29/2024-19261/2025-2027-enterprise-housing-goals) (2024-08-29) — Federal Housing Finance Agency ★
+- [Anti-Money Laundering Regulations for Residential Real Estate Transfers](https://www.federalregister.gov/documents/2024/08/29/2024-19198/anti-money-laundering-regulations-for-residential-real-estate-transfers) (2024-08-29) — Treasury Department ★
+- [Final Determination: Adoption of Energy Efficiency Standards for New Construction of HUD- and USDA-Financed Housing](https://www.federalregister.gov/documents/2024/04/26/2024-08793/final-determination-adoption-of-energy-efficiency-standards-for-new-construction-of-hud--and) (2024-04-26) — Housing and Urban Development Department ★
+- ... and 117 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Association%20of%20Realtors%22) (Tier 1)
+<!-- auto:federal-register end -->

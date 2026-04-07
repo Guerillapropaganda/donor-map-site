@@ -2,13 +2,17 @@
 title: "Trial Lawyers Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Joe Biden"
+ein: 371064396
+annual-revenue: "$193K"
+net-assets: "$222K"
+tax-year: "2023"
 ---
 
 #trial-lawyers #tort #litigation #democratic #donor #aat #plaintiffs
@@ -40,3 +44,18 @@ Trial lawyer political spending is concentrated around blocking tort reform legi
 - [Ballotpedia: Tort reform](https://ballotpedia.org/Trial_Lawyers_Fund) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $193K |
+| Total Contributions | $0 |
+| Program Service Revenue | $182K |
+| Investment Income | $11K |
+| Total Expenses | $400K |
+| Net Assets | $222K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 371064396](https://projects.propublica.org/nonprofits/organizations/371064396) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_31-38%2F371064396_202306_990_2024022022293832.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

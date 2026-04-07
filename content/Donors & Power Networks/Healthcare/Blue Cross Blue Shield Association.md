@@ -25,6 +25,18 @@ ofac-programs:
   - "SDGT] [ILLICIT-DRUGS-EO14059"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+federal-register-mentions: 27
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Centers for Medicare & Medicaid Services"
+  - "Employee Benefits Security Administration"
+  - "Health Care Finance Administration"
+  - "Health and Human Services Department"
+  - "Homeland Security Department"
+  - "Internal Revenue Service"
+  - "Justice Department"
+  - "Labor Department"
+  - "Occupational Safety and Health Administration"
 ---
 
 #bcbs #blue-cross #blue-shield #insurance #healthcare #lobbying #antitrust #bipartisan #aca #medicare-advantage #public-option #class-analysis #follow-the-money
@@ -251,3 +263,25 @@ content-readiness:: developed
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Blue%20Cross%20Blue%20Shield%20Association) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 27 |
+| Final Rules | 13 |
+| Proposed Rules | 7 |
+| Notices | 7 |
+| Agencies | Antitrust Division, Centers for Medicare & Medicaid Services, Employee Benefits Security Administration, Health Care Finance Administration, Health and Human Services Department, Homeland Security Department, Internal Revenue Service, Justice Department +4 more |
+
+**Recent regulatory activity:**
+- [Requirements Related to the Mental Health Parity and Addiction Equity Act](https://www.federalregister.gov/documents/2024/09/23/2024-20612/requirements-related-to-the-mental-health-parity-and-addiction-equity-act) (2024-09-23) — Treasury Department
+- [Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA) Reporting Requirements](https://www.federalregister.gov/documents/2024/04/04/2024-06526/cyber-incident-reporting-for-critical-infrastructure-act-circia-reporting-requirements) (2024-04-04) — Homeland Security Department
+- [Medicare Program; Hospital Outpatient Prospective Payment System: Remedy for the 340B-Acquired Drug Payment Policy for Calendar Years 2018-2022](https://www.federalregister.gov/documents/2023/11/08/2023-24407/medicare-program-hospital-outpatient-prospective-payment-system-remedy-for-the-340b-acquired-drug) (2023-11-08) — Health and Human Services Department ★
+- [Proposed Exemptions From Certain Prohibited Transaction Restrictions](https://www.federalregister.gov/documents/2022/08/24/2022-17995/proposed-exemptions-from-certain-prohibited-transaction-restrictions) (2022-08-24) — Labor Department
+- [Nondiscrimination in Health and Health Education Programs or Activities, Delegation of Authority](https://www.federalregister.gov/documents/2020/06/19/2020-11758/nondiscrimination-in-health-and-health-education-programs-or-activities-delegation-of-authority) (2020-06-19) — Health and Human Services Department ★
+- [Nondiscrimination in Health and Health Education Programs or Activities](https://www.federalregister.gov/documents/2019/06/14/2019-11512/nondiscrimination-in-health-and-health-education-programs-or-activities) (2019-06-14) — Health and Human Services Department ★
+- ... and 21 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Blue%20Cross%20Blue%20Shield%20Association%22) (Tier 1)
+<!-- auto:federal-register end -->
