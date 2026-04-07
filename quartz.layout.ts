@@ -22,6 +22,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.MobileProfile(),
     Component.ArticleNav(),
     Component.MobileNav(),
+    Component.AdminBar(),
   ],
   footer: Component.Footer({
     links: {

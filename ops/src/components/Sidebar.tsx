@@ -6,7 +6,8 @@ import { usePathname } from "next/navigation"
 const NAV_ITEMS = [
   { href: "/", label: "Dashboard", icon: "grid" },
   { href: "/pipelines", label: "Pipelines", icon: "zap" },
-  { href: "/source-hunter", label: "Source Hunter", icon: "search", disabled: true },
+  { href: "/notes", label: "Notes & Queues", icon: "clipboard" },
+  { href: "/source-hunter", label: "Source Hunter", icon: "search" },
   { href: "/relationships", label: "Relationships", icon: "link", disabled: true },
   { href: "/publisher", label: "Publisher", icon: "edit", disabled: true },
   { href: "/alerts", label: "Alerts", icon: "bell", disabled: true },
@@ -16,6 +17,7 @@ const NAV_ITEMS = [
 const ICONS: Record<string, string> = {
   grid: "M4 5a1 1 0 011-1h4a1 1 0 011 1v4a1 1 0 01-1 1H5a1 1 0 01-1-1V5zm10 0a1 1 0 011-1h4a1 1 0 011 1v4a1 1 0 01-1 1h-4a1 1 0 01-1-1V5zM4 15a1 1 0 011-1h4a1 1 0 011 1v4a1 1 0 01-1 1H5a1 1 0 01-1-1v-4zm10 0a1 1 0 011-1h4a1 1 0 011 1v4a1 1 0 01-1 1h-4a1 1 0 01-1-1v-4z",
   zap: "M13 10V3L4 14h7v7l9-11h-7z",
+  clipboard: "M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01",
   search: "M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z",
   link: "M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1",
   edit: "M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z",
