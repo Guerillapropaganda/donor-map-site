@@ -2,13 +2,33 @@
 title: "Gates Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Barack Obama"
+sec-filings: 7626
+sec-form-types:
+  - "10-Q"
+  - "3"
+  - "4"
+  - "8-K"
+  - "EX-10.13"
+  - "EX-10.15"
+  - "EX-10.3"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SCHEDULE 13G"
+  - "SCHEDULE 13G/A"
+  - "XML"
+lei: "335800ELY8A4QWLXQW56"
+lei-jurisdiction: "US-WA"
 ---
 
 #donor #mega-donor #gates-foundation #bill-gates #charter-schools #education-policy #pharma-influence #global-health #common-core #class-analysis #follow-the-money
@@ -145,3 +165,36 @@ The tax-exempt structure is the foundation of the foundation: every dollar Gates
 
 research-status:: ready — Full expansion from 40 to 175+ lines. Wikipedia Chrome-verified (education, financials, criticism). ProPublica Nonprofit Explorer Chrome-verified (EIN 56-2618866). Complete donor node anatomy: Who They Are → What They Want → Who They Fund (grant table) → What They've Gotten (Format 2 timeline, 8 rows) → Education Capture Model → Class Analysis → Capture Architecture → Sources. 5 sources (Tier 1–3). Key data: $86B assets, $71.3B net assets, $77.6B lifetime grants, $373M education (2009), $200M+ Common Core, $1.7B education commitment (2017), $4.1B GAVI, second-largest WHO funder.
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 7,626 |
+| Form Types | 10-Q, 3, 4, 8-K, EX-10.13, EX-10.15, EX-10.3, EX-99.1 +8 more |
+
+**Notable filings:**
+
+- 2016-04-11 — **8-K**: FORM 8-K
+- 2017-05-08 — **8-K**: 8-K
+- 2013-04-10 — **8-K**: 8-K
+- 2019-01-04 — **8-K**: 8-K GATES REMPTION
+- 2016-05-13 — **8-K**: FORM 8-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Gates%20Foundation%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [335800ELY8A4QWLXQW56](https://search.gleif.org/#/record/335800ELY8A4QWLXQW56) |
+| Legal Name | GATES FOUNDATION |
+| Jurisdiction | US-WA |
+| Entity Status | ACTIVE |
+| Category | BRANCH |
+| Registration | ISSUED |
+| Last Updated | 2025-11-26T07:22:21Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

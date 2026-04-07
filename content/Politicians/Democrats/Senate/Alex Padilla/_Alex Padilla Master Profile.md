@@ -2,7 +2,7 @@
 title: "Alex Padilla"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,6 +14,8 @@ leadership-roles:
 issues:
   - "Voting Rights"
   - "Immigration"
+total-received: "$1,908,371"
+fec-candidate-id: "S2CA00955"
 ---
 
 
@@ -146,3 +148,34 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 - [Wikipedia: Alex Padilla](https://en.wikipedia.org/wiki/Alex_Padilla) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $1,908,371 |
+| Individual Contributions | $507,600 |
+| PAC Contributions | $320,555 |
+| Cash on Hand | 7177222.88 |
+| IE Support (Super PAC) | $27,818 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $1,908,371 | $507,600 | $320,555 |
+| 2022 | $12,026,093 | $8,997,067 | $2,284,271 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| COALITION TO GROW SAN FRANCISCO - GROW SF PAC | $10,432 | $0 |
+| CARE ACTION NOW INC. | $6,977 | $0 |
+| ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC | $3,129 | $0 |
+| DEMOCRATIC ALLIANCE FOR ACTION | $1,550 | $0 |
+| DOLORES HUERTA ACTION FUND | $1,449 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2CA00955/) (Tier 1)
+<!-- auto:fec-politician end -->

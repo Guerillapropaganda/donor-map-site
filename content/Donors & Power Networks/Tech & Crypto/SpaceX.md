@@ -25,6 +25,8 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
+lei: "984500AB57A3B7E9AF80"
+lei-jurisdiction: "BE"
 ---
 
 #spacex #musk #defense #nasa #faa #starlink #military #launch
@@ -101,3 +103,18 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22SpaceX%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [984500AB57A3B7E9AF80](https://search.gleif.org/#/record/984500AB57A3B7E9AF80) |
+| Legal Name | SpaceX |
+| Jurisdiction | BE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-07-07T15:18:15Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

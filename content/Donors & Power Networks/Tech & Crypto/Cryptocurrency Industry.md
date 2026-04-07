@@ -2,7 +2,7 @@
 title: "Cryptocurrency Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -11,6 +11,14 @@ issues:
   - "Technology"
 lobbying-spend: 90000
 lobbying-filings: 5
+court-cases: 460
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, D. Nevada"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. New York"
+  - "District Court, M.D. Tennessee"
+  - "District Court, S.D. New York"
 ---
 
 #crypto #cryptocurrency #bitcoin #blockchain #deregulation #fairshake #sec #class-analysis #follow-the-money
@@ -191,3 +199,22 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 460 |
+| Courts | District Court, D. Nevada, District Court, E.D. Michigan, District Court, E.D. New York, District Court, M.D. Tennessee, District Court, S.D. New York |
+| Case Types | 320 Assault Libel & Slander, 850 Securities/Commodities, 890 Other Statutory Actions, 950 Constitutional - State Statute, Racketeer/Corrupt Organization |
+
+**Notable cases:**
+- Flaherty v. Pierce (2026) — District Court, M.D. Tennessee
+- McLaughlin v. Pierce (2026) — District Court, M.D. Tennessee
+- Binance Holdings Limited v. Dow Jones & Company, Inc. (2026) — District Court, S.D. New York
+- Snyder v. Jane Street Group, LLC (2026) — District Court, S.D. New York
+- Mou v. BTC King Technology Co., Ltd. (2026) — District Court, S.D. New York
+- Coinbase Financial Markets, Inc. v. Ford (2026) — District Court, D. Nevada
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cryptocurrency%20Industry%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

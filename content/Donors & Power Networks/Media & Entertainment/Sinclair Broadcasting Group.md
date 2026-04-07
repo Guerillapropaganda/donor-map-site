@@ -37,6 +37,18 @@ sec-form-types:
   - "N-Q/A"
   - "NSAR-B"
   - "SC 13G/A"
+court-cases: 52
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, C.D. California"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. Tennessee"
+  - "District Court, S.D. California"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #sinclair-broadcasting #media #television #local-news #conservative #propaganda #media-consolidation
@@ -230,3 +242,22 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sinclair%20Broadcasting%20Group%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 52 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, C.D. California, District Court, District of Columbia, District Court, E.D. Michigan, District Court, E.D. Tennessee, District Court, S.D. California, District Court, S.D. New York, District Court, W.D. Texas +2 more |
+| Case Types | 320 Assault Libel & Slander, 440 Civil Rights: Other, 820 Copyright |
+
+**Notable cases:**
+- Broadband Communications Association of Pennsylvan v. FCC (2026) — Court of Appeals for the D.C. Circuit
+- Zen JV, LLC (2025) — United States Bankruptcy Court, D. Delaware
+- Savage River Enterprises, LLC v. Sinclair Broadcast Group, LLC (2025) — District Court, E.D. Tennessee
+- Lenore Albert v. Tyler Technologies, Inc. (2025) — District Court, C.D. California
+- Franchise Group Acquisition TM, LLC (2024) — United States Bankruptcy Court, D. Delaware
+- Franchise Group, Inc. (2024) — United States Bankruptcy Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sinclair%20Broadcasting%20Group%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

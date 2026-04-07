@@ -194,3 +194,35 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Blue%20Shield%20of%20California) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 10 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 4 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Government Issues** → Funds **Gary Peters** → Sits on **Homeland Security**
+- Lobbies on **Government Issues** → Funds **Bennie Thompson** → Sits on **Homeland Security**
+- Lobbies on **Agriculture** → Funds **Glenn Thompson** → Sits on **Agriculture**
+- Lobbies on **Budget/Appropriations** → Funds **Pete Aguilar** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **Pete Aguilar** → Sits on **Appropriations**
+
+**Funded politicians:**
+
+- [[Nancy Pelosi]] — lobbying: $3.8M
+- [[Bobby Scott]] (Education & Labor) — lobbying: $3.8M
+- [[Rick Scott]] — lobbying: $3.8M
+- [[Tim Scott]] — lobbying: $3.8M
+- [[Gary Peters]] (Homeland Security) — lobbying: $3.8M
+- [[Bennie Thompson]] (Homeland Security) — lobbying: $3.8M
+- [[Glenn Thompson]] (Agriculture) — lobbying: $3.8M
+- [[Pete Aguilar]] (Appropriations) — lobbying: $3.8M
+- [[Gavin Newsom]] — lobbying: $3.8M
+- [[Kamala Harris]] — lobbying: $3.8M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

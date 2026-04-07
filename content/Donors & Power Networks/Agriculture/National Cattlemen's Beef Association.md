@@ -2,7 +2,7 @@
 title: "National Cattlemen's Beef Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-04
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -15,6 +15,19 @@ ein: 840738973
 annual-revenue: "$54.9M"
 net-assets: "$37.3M"
 tax-year: "2023"
+court-cases: 85
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. North Dakota"
+  - "District Court, D. Oregon"
+  - "District Court, D. Utah"
+  - "District Court, D. Wyoming"
+  - "District Court, District of Columbia"
+  - "District Court, W.D. Texas"
 ---
 
 
@@ -156,3 +169,22 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 85 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eighth Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the Ninth Circuit, District Court, D. North Dakota, District Court, D. Oregon, District Court, D. Utah, District Court, D. Wyoming +2 more |
+| Case Types | 2899 Other Statutes, 2899 Other Statutes - APA Review/Appeal, 2899 Other Statutes APA/Review Agency, 893 Environmental Matters, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Rural Empowerment Association for Community Help v. EPA (2025) — Court of Appeals for the D.C. Circuit
+- Texas v. US Dept of the Interior (2025) — Court of Appeals for the Fifth Circuit
+- AMERICAN FARM BUREAU FEDERATION v. UNITED STATES FISH AND WILDLIFE SERVICE (2025) — District Court, District of Columbia
+- American Farm Bureau Federation v. United States Department of the Interior (2024) — District Court, D. Utah
+- Chamber of Commerce of the United States of Americ v. EPA (2024) — Court of Appeals for the D.C. Circuit
+- Shoshone-Bannock Tribes of the Fort Hall Reservati v. USDOI (2023) — Court of Appeals for the Ninth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Cattlemen's%20Beef%20Association%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

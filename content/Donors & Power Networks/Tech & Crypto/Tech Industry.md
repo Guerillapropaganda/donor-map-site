@@ -35,6 +35,47 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Industry and Security Bureau"
   - "International Trade Commission"
+sec-filings: 10000
+sec-form-types:
+  - "6-K"
+  - "8-K"
+  - "8-K/A"
+  - "CORRESP"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-1"
+  - "EX-10.1"
+  - "EX-10.11"
+  - "EX-10.12"
+  - "EX-10.13"
+  - "EX-10.14"
+  - "EX-10.15"
+  - "EX-10.18"
+  - "EX-10.19"
+  - "EX-10.32"
+  - "EX-10.33"
+  - "EX-10.36"
+  - "EX-10.37"
+  - "EX-10.38"
+  - "EX-10.47"
+  - "EX-10.48"
+  - "EX-10.54"
+  - "EX-2.1(A)"
+  - "EX-2.1(B)"
+  - "EX-4.6"
+  - "EX-4.65"
+  - "EX-4.66"
+  - "EX-4.8"
+  - "EX-99"
+  - "EX-99.(A)(5)(EE)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "EX-99.4"
+  - "FWP"
+  - "LETTER"
+  - "PX14A6G"
+  - "SC 13D"
 ---
 
 #tech #industry #lobbying #section-230 #antitrust #ai #privacy #bipartisan
@@ -123,3 +164,21 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tech%20Industry%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 6-K, 8-K, 8-K/A, CORRESP, DEFA14A, DFAN14A, EX-1, EX-10.1 +31 more |
+
+**Notable filings:**
+
+- 2007-10-02 — **EX-10.13**: ENGLISH TRANSLATION OF LEASE CONTRACTS
+- 2020-08-07 — **EX-10.13**: EX-10.13
+- 2007-01-08 — **EX-2.1(B)**: EX-2.1(B)
+- 2005-11-01 — **EX-4.6**: EX-4.6 AGREEMENT FOR THE TRANSFER AND ASSUMPTION
+- 2009-03-23 — **EX-99.1**: EX-99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tech%20Industry%22) (Tier 1)
+<!-- auto:sec-edgar end -->

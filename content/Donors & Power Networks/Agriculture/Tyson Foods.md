@@ -2,7 +2,7 @@
 title: "Tyson Foods"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-04
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -13,6 +13,8 @@ issues:
   - "Agriculture"
   - "Labor & Workers"
   - "Immigration"
+top-federal-agency: "Department of Agriculture"
+top-naics-code: "311615"
 ---
 
 #tyson #agriculture #poultry #meatpacking #labor #arkansas #immigration
@@ -74,3 +76,20 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Agriculture ($1.1B) |
+| Primary NAICS Sector | Poultry Processing |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Poultry Processing (311615) | $1.1B |
+| Animal (except Poultry) Slaughtering (311611) | $38.8M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

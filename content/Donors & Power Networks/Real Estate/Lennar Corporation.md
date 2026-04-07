@@ -32,6 +32,8 @@ court-jurisdictions:
   - "District Court, N.D. Georgia"
   - "District Court, S.D. Florida"
   - "United States Bankruptcy Court, S.D. Texas"
+lei: "529900G61XVRLX5TJX09"
+lei-jurisdiction: "US-DE"
 ---
 
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
@@ -218,3 +220,18 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lennar%20Corporation%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [529900G61XVRLX5TJX09](https://search.gleif.org/#/record/529900G61XVRLX5TJX09) |
+| Legal Name | LENNAR CORPORATION |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2021-07-16T05:04:45Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

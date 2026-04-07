@@ -25,6 +25,8 @@ bills-sponsored: 36
 bills-cosponsored: 392
 website: "https://khanna.house.gov"
 phone: "202-225-2631"
+total-received: "$9,579,628"
+fec-candidate-id: "H4CA12055"
 ---
 
 #ro-khanna #democrat #california #house #silicon-valley #tech #progressive #defense #antitrust #2028
@@ -283,3 +285,38 @@ content-readiness:: developed
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412684) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $9,579,628 |
+| Individual Contributions | $8,151,718 |
+| PAC Contributions | $500 |
+| Cash on Hand | 15454963.11 |
+| IE Support (Super PAC) | $989,338 |
+| IE Opposition (Super PAC) | $169,914 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $9,579,628 | $8,151,718 | $500 |
+| 2024 | $10,570,516 | $9,483,000 | $2,000 |
+| 2022 | $5,949,744 | $5,669,265 | $0 |
+| 2020 | $3,917,727 | $3,448,779 | $0 |
+| 2018 | $2,745,646 | $2,565,347 | $2,000 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CALIFORNIANS FOR INNOVATION | $745,467 | $0 |
+| PROTECT PROGRESS | $217,092 | $0 |
+| WORKING FOR US POLITICAL ACTION COMMITTEE INC | $0 | $167,557 |
+| OHLONE AREA UNITED DEMOCRATIC CAMPAIGN | $13,246 | $0 |
+| HE'S GOTTA GO PAC | $1,750 | $4,715 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
+<!-- auto:fec-politician end -->

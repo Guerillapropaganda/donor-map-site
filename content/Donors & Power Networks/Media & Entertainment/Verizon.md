@@ -23,6 +23,12 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Justice Department"
   - "Transportation Department"
+subawards-issued: 50
+subawards-issued-amount: 37495275
+subawards-received: 50
+subawards-received-amount: 37495275
+top-federal-agency: "Department of Defense"
+top-naics-code: "517110"
 ---
 
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying
@@ -132,3 +138,62 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Verizon%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($37.5M sampled) |
+| Subawards Received (as sub) | 50 ($37.5M sampled) |
+| Top Federal Agency | Department of Defense ($1.0B) |
+| Primary NAICS Sector | Wired Telecommunications Carriers |
+
+**Subcontractors receiving federal money from Verizon:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| VERIZON BUSINESS NETWORK SERVICES LLC | $36.4M | 47 |
+| VERIZON COMMUNICATIONS INC | $928K | 2 |
+| VERIZON VIRGINIA LLC | $118K | 1 |
+
+**Prime contractors funneling federal money to Verizon:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| LEIDOS, INC. | $16.6M | 14 |
+| SCIENCE APPLICATIONS INTERNATIONAL CORPORATION | $9.7M | 4 |
+| ACCENTURE FEDERAL SERVICES LLC | $5.2M | 18 |
+| CONSOLIDATED NUCLEAR SECURITY LLC | $2.1M | 4 |
+| APPLIED RESEARCH ASSOCIATES, INC. | $1.4M | 3 |
+| CACI, INC. - FEDERAL | $830K | 1 |
+| JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC, THE | $654K | 1 |
+| FLUOR MARINE PROPULSION, LLC | $512K | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $1.0B |
+| Department of Health and Human Services | $425.4M |
+| Social Security Administration | $387.9M |
+| Department of the Treasury | $250.9M |
+| Department of Transportation | $247.6M |
+| Department of Justice | $171.8M |
+| Department of the Interior | $119.3M |
+| Department of Commerce | $111.4M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Wired Telecommunications Carriers (517110) | $1.6B |
+| Wireless Telecommunications Carriers (except Satellite) (517312) | $535.2M |
+| Other Computer Related Services (541519) | $266.7M |
+| Wired Telecommunications Carriers (517111) | $231.2M |
+| Wireless Telecommunications Carriers (except Satellite) (517112) | $225.3M |
+| All Other Telecommunications (517919) | $181.3M |
+| Telecommunications Resellers (517911) | $107.2M |
+| Wireless Telecommunications Carriers (except Satellite) (517210) | $38.6M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

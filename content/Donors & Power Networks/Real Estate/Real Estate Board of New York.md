@@ -2,13 +2,13 @@
 title: "Real Estate Board of New York"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Real Estate"
 entity-type: "Individual Donor"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "SDNTK"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
@@ -21,6 +21,12 @@ ofac-programs:
   - "DPRK2"
   - "ILLICIT-DRUGS-EO14059"
   - "TCO"
+federal-register-mentions: 6
+regulatory-agencies:
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Energy Regulatory Commission"
+  - "Securities and Exchange Commission"
 ---
 
 #real-estate-lobby #nyc-politics #zoning #housing-policy #developer-power #class-analysis #follow-the-money
@@ -184,3 +190,24 @@ content-readiness:: developed
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 6 |
+| Rule | 4 |
+| Notice | 1 |
+| Proposed Rule | 1 |
+| Agencies | Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) — Securities and Exchange Commission
+- [Private Fund Advisers; Documentation of Registered Investment Adviser Compliance Reviews](https://www.federalregister.gov/documents/2023/09/14/2023-18660/private-fund-advisers-documentation-of-registered-investment-adviser-compliance-reviews) (2023-09-14) — Securities and Exchange Commission
+- [Money Market Fund Reforms; Form PF Reporting Requirements for Large Liquidity Fund Advisers; Technical Amendments to Form N-CSR and Form N-1A](https://www.federalregister.gov/documents/2023/08/03/2023-15124/money-market-fund-reforms-form-pf-reporting-requirements-for-large-liquidity-fund-advisers-technical) (2023-08-03) — Securities and Exchange Commission
+- [Form PF; Event Reporting for Large Hedge Fund Advisers and Private Equity Fund Advisers; Requirements for Large Private Equity Fund Adviser Reporting](https://www.federalregister.gov/documents/2023/06/12/2023-09775/form-pf-event-reporting-for-large-hedge-fund-advisers-and-private-equity-fund-advisers-requirements) (2023-06-12) — Securities and Exchange Commission
+- [Carbon Pricing in Organized Wholesale Electricity Markets](https://www.federalregister.gov/documents/2021/04/23/2021-08218/carbon-pricing-in-organized-wholesale-electricity-markets) (2021-04-23) — Energy Department
+- [Lead; Identification of Dangerous Levels of Lead](https://www.federalregister.gov/documents/1998/06/03/98-14736/lead-identification-of-dangerous-levels-of-lead) (1998-06-03) — Environmental Protection Agency ★
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Real%20Estate%20Board%20of%20New%20York%22) (Tier 1)
+<!-- auto:federal-register end -->

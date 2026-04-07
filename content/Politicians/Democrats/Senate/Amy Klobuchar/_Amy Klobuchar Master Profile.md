@@ -153,11 +153,16 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | 1 donor |
+| Donors Who Also Lobby | 2 of 2 |
+| Committee Overlap Detected | 2 donors |
 
 **Donate → Lobby → Committee chains:**
 
+- **Amazon** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
+- **Amazon** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
+- **Amazon** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
+- **Amazon** donates → Lobbies on **Immigration** → This member sits on **Antitrust (Judiciary)**
+- **Amazon** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
 - **Apple** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
 - **Apple** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
 - **Apple** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
@@ -166,6 +171,7 @@ content-readiness:: ready
 
 **Donors who lobby (by spend):**
 
+- [[Amazon]] — $42.1M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking)
 - [[Apple]] — $29.2M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking)
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*

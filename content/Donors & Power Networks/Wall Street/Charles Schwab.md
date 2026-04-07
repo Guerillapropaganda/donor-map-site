@@ -2,7 +2,7 @@
 title: "Charles Schwab"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -13,6 +13,11 @@ ein: 943192615
 annual-revenue: "$19.2M"
 net-assets: "$34.9M"
 tax-year: "2023"
+federal-awards-total: 0
+federal-contracts-count: 2
+federal-grants-count: 0
+top-federal-agency: "Department of the Treasury"
+top-naics-code: "523120"
 ---
 
 #schwab #wall-street #brokerage #retirement #fiduciary #401k #retail-investing
@@ -67,3 +72,38 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 943192615](https://projects.propublica.org/nonprofits/organizations/943192615) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 2 ($689K sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 1 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $660K | Department of the Treasury | IGF::OT::IGF THE PURPOSE OF THIS CONTRACT IS TO OBTAIN RECORDKEEPING, INVESTMENT MANAGEMENT, AND TRU |
+| $29K | Department of the Treasury | HQ - 2022-NOV-08 - THIS REQUISITION IS FOR THE 401(K) CONTRACT RECOMPETE.  THE CONTRACT ENDS 12/31/2 |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/34a6238e-ff6a-764a-71e4-e53eef69c91d-R/latest) (Tier 1)
+<!-- auto:usaspending end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of the Treasury ($149K) |
+| Primary NAICS Sector | Securities Brokerage |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Securities Brokerage (523120) | $120K |
+| Investment Banking and Securities Intermediation (523150) | $29K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

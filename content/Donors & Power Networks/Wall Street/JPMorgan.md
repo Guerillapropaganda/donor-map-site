@@ -59,6 +59,8 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+lei: "8I5DZWZKVSZI1NUHU748"
+lei-jurisdiction: "US-DE"
 ---
 
 #megabank #wall-street #jamie-dimon #bipartisan #financial-deregulation #revolving-door #too-big-to-fail #both-sides
@@ -372,3 +374,18 @@ content-readiness:: developed
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=JPMorgan%20Chase) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [8I5DZWZKVSZI1NUHU748](https://search.gleif.org/#/record/8I5DZWZKVSZI1NUHU748) |
+| Legal Name | JPMORGAN CHASE & CO. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-12T10:41:29Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

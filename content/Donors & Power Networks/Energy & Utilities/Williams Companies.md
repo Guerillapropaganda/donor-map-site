@@ -36,6 +36,10 @@ sec-form-types:
   - "SC 13D"
   - "SC 13D/A"
   - "SCHEDULE 13G/A"
+ein: 237413843
+annual-revenue: "$14.9M"
+net-assets: "$65.4M"
+tax-year: "2023"
 ---
 
 #donor #energy #natural-gas #pipeline #fossil-fuel #republican-lean #class-analysis #follow-the-money
@@ -149,3 +153,15 @@ content-readiness:: draft
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Williams%20Companies%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $14.9M |
+| Total Contributions | $0 |
+| Total Expenses | $10.7M |
+| Net Assets | $65.4M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 237413843](https://projects.propublica.org/nonprofits/organizations/237413843) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,7 +2,7 @@
 title: "Americans for Prosperity"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -24,6 +24,10 @@ court-jurisdictions:
   - "District Court, D. New Jersey"
   - "District Court, District of Columbia"
   - "District Court, E.D. Pennsylvania"
+ein: 753148958
+annual-revenue: "$186.4M"
+net-assets: "$45.0M"
+tax-year: "2023"
 ---
 
 #donor-node #koch-network #dark-money #super-pac #501c4 #astroturf #state-capture #class-analysis #follow-the-money
@@ -202,3 +206,18 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Americans%20for%20Prosperity%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $186.4M |
+| Total Contributions | $181.3M |
+| Program Service Revenue | $4.7M |
+| Investment Income | $198K |
+| Total Expenses | $168.0M |
+| Net Assets | $45.0M |
+| Officer Compensation | $861K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 753148958](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1)
+<!-- auto:propublica-990 end -->

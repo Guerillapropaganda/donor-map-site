@@ -2,12 +2,16 @@
 title: "Federalist Society"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
 related: "[[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[Bradley Foundation]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Judicial Crisis Network]] · [[Barre Seid]] · [[Harlan Crow]]"
+federal-register-mentions: 2
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Federal Trade Commission"
 ---
 
 #think-tank #conservative #judicial #federalist-society #leonard-leo #scotus #judicial-pipeline #originalism #dark-money #deregulation
@@ -227,3 +231,18 @@ The structural function: the Federalist Society converts donor money into judici
 ---
 
 content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Proposed Rule | 2 |
+| Agencies | Federal Trade Commission |
+
+**Recent regulatory activity:**
+- [Motor Vehicle Dealers Trade Regulation Rule](https://www.federalregister.gov/documents/2022/07/13/2022-14214/motor-vehicle-dealers-trade-regulation-rule) (2022-07-13) — Federal Trade Commission
+- [Energy Labeling Rule](https://www.federalregister.gov/documents/2020/04/10/2020-06960/energy-labeling-rule) (2020-04-10) — Federal Trade Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Federalist%20Society%22) (Tier 1)
+<!-- auto:federal-register end -->

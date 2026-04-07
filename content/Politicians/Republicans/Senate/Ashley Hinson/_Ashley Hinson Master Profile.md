@@ -2,7 +2,7 @@
 title: "Ashley Hinson Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,11 @@ state-abbr: "IA"
 top-donors:
   - "Senate Leadership Fund"
   - "Winning for Women PAC"
+govtrack-id: 456816
+bills-sponsored: 26
+bills-cosponsored: 196
+website: "https://hinson.house.gov"
+phone: "202-225-2911"
 ---
 
 #politician #republican #senate #iowa #2026-candidate
@@ -137,3 +142,35 @@ profile-status:: ready
 research-status:: active
 content-readiness:: ready
  
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 26 |
+| Bills Cosponsored | 196 |
+| Total Votes Cast | 2,709 |
+
+**Recent bills sponsored:**
+
+- H.R. 8084: To direct the Secretary of Health and Human Services to conduct a study and submit to Congress a report on contraceptive — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8083: To allow women greater access to safe and effective oral contraceptive drugs intended for routine use, and to direct the — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8049: End Special Treatment for Congress at Airports Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7498: After Hours Child Care Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7330: DALCI Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456816) (Tier 1)
+<!-- auto:govtrack end -->

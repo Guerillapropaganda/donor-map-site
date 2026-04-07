@@ -20,6 +20,33 @@ lei-jurisdiction: "US"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+sec-filings: 5981
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "11-K"
+  - "13F-HR"
+  - "15-15D"
+  - "4"
+  - "8-A12B"
+  - "8-K"
+  - "EX-10.(MM)"
+  - "EX-10.(NN)"
+  - "EX-13"
+  - "EX-23"
+  - "EX-23.(E)"
+  - "EX-23.C"
+  - "EX-32"
+  - "EX-32.1"
+  - "EX-32.2"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "S-8"
+  - "S-8 POS"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
 ---
 
 #mbna #credit-card #delaware #biden #bankruptcy #wall-street #banking
@@ -98,3 +125,21 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=MBNA%20Corporation) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 5,981 |
+| Form Types | 10-K, 10-K/A, 11-K, 13F-HR, 15-15D, 4, 8-A12B, 8-K +17 more |
+
+**Notable filings:**
+
+- 2007-06-21 — **11-K**: FORM 11-K
+- 2005-03-15 — **EX-23**: CONSENT OF ERNST & YOUNG
+- 2003-04-23 — **8-K**: FIRST QUARTER 2003 PRESS RELEASE
+- 2004-04-22 — **EX-99**: EXHIBIT 99.1
+- 2006-06-29 — **11-K**: FORM 11-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MBNA%20Corporation%22) (Tier 1)
+<!-- auto:sec-edgar end -->

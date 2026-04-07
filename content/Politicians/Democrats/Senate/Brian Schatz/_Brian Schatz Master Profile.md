@@ -2,7 +2,7 @@
 title: "Brian Schatz Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -15,6 +15,8 @@ top-donors:
   - "Private Equity Industry"
   - "Real Estate Industry"
 bioguide-id: "A000383"
+total-received: "$1,513,132"
+fec-candidate-id: "S4HI00136"
 ---
 
 
@@ -148,3 +150,36 @@ content-readiness:: ready
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $1,513,132 |
+| Individual Contributions | $957,478 |
+| PAC Contributions | $325,647 |
+| Cash on Hand | 2243087.97 |
+| IE Support (Super PAC) | $1,313,519 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $1,513,132 | $957,478 | $325,647 |
+| 2022 | $4,719,780 | $2,190,125 | $1,944,671 |
+| 2016 | $3,842,453 | $2,078,937 | $1,556,328 |
+| 2014 | $6,109,936 | $4,429,157 | $1,267,850 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| LEAGUE OF CONSERVATION VOTERS INC | $1,040,091 | $0 |
+| WORKING FAMILIES FOR HAWAII | $241,841 | $0 |
+| MOVEON.ORG POLITICAL ACTION | $28,007 | $0 |
+| INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND | $1,613 | $0 |
+| CLIMATE HAWKS VOTE | $1,500 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1)
+<!-- auto:fec-politician end -->

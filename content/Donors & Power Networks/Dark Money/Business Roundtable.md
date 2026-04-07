@@ -2,7 +2,7 @@
 title: "Business Roundtable"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,23 @@ issues:
   - "Labor & Workers"
 lobbying-spend: 4861010
 lobbying-filings: 104
+ein: 237236607
+annual-revenue: "$64.5M"
+net-assets: "$47.8M"
+tax-year: "2023"
+doj-press-mentions: "264344"
+last-enriched: "2026-04-07"
+doj-components:
+  - "Civil Rights Division"
+  - "Cyber Division (FBI)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "National Security Division (NSD)"
+  - "USAO - Florida, Middle"
+  - "USAO - Florida, Northern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Massachusetts"
+  - "USAO - Missouri, Western"
+  - "USAO - New York, Northern"
 ---
 
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor
@@ -175,3 +192,38 @@ content-readiness:: developed
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $64.5M |
+| Total Contributions | $0 |
+| Program Service Revenue | $63.4M |
+| Investment Income | $2.0M |
+| Total Expenses | $55.3M |
+| Net Assets | $47.8M |
+| Officer Compensation | $5.8M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 237236607](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264344 |
+| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
+
+**Recent press releases:**
+
+- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
+- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
+- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
+- ... and 264,338 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Business%20Roundtable%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

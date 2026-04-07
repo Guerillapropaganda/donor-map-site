@@ -34,6 +34,11 @@ stock-trade-tickers:
   - "DISH"
   - "EBAY"
 bioguide-id: "A000383"
+govtrack-id: 412598
+bills-sponsored: 92
+bills-cosponsored: 541
+website: "https://www.booker.senate.gov"
+phone: "202-224-3224"
 ---
 
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door
@@ -239,3 +244,36 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 92 |
+| Bills Cosponsored | 541 |
+| Total Votes Cast | 4,626 |
+| Leadership | Senate Democratic Strategic Communications Committee Chair |
+
+**Recent bills sponsored:**
+
+- S. 4225: A bill to require the Secretary of Veterans Affairs to establish a pilot program to furnish doula services to veterans. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.J.Res. 154: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 661: A resolution recognizing the 205th anniversary of the independence of Greece and celebrating democracy in Greece and the — *This simple resolution was agreed to on March 25, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 4143: Fair Wages for Incarcerated Workers Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4136: Sentencing Commission Improvements Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 18, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412598) (Tier 1)
+<!-- auto:govtrack end -->

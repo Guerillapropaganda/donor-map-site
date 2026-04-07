@@ -2,18 +2,22 @@
 title: "Bradley Impact Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: 454678325
+ein: "454678325"
 annual-revenue: "$90.7M"
 net-assets: "$159.3M"
 tax-year: "2023"
 total-political-spend: "$100,000"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 130264386
+total-assets: 200316165
 ---
 
 #bradley #impact-fund #dark-money #conservative #donor-advised #philanthropy
@@ -74,3 +78,28 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bradley%20Impact%20Fund) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 454678325 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $130.3M |
+| Total Assets | $200.3M |
+| NTEE Code | T12 |
+| IRS Ruling Date | 2013-01-01 |
+| Filings on Record | 11 |
+
+**Filing history:** 2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2022)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2019)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2018)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 1)
+<!-- auto:nonprofit-990 end -->

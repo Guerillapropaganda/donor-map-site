@@ -17,6 +17,15 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "GLOMAG"
+subawards-issued: 2
+subawards-issued-amount: 4948
+subawards-received: 2
+subawards-received-amount: 4948
+top-federal-agency: "Department of Defense"
+top-naics-code: "423450"
+federal-awards-total: 41140658
+federal-contracts-count: 25
+federal-grants-count: 1
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
@@ -101,3 +110,80 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 2 ($5K sampled) |
+| Subawards Received (as sub) | 2 ($5K sampled) |
+| Top Federal Agency | Department of Defense ($335.8M) |
+| Primary NAICS Sector | Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers |
+
+**Subcontractors receiving federal money from Johnson & Johnson:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| JOHNSON & JOHNSON HEALTH CARE SYSTEMS INC. | $5K | 2 |
+
+**Prime contractors funneling federal money to Johnson & Johnson:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| CARDINAL HEALTH 200, LLC | $5K | 2 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $335.8M |
+| Department of Veterans Affairs | $109.1M |
+| Department of Health and Human Services | $42.8M |
+| Department of Justice | $1.4M |
+| General Services Administration | $1.1M |
+| Department of Agriculture | $268K |
+| Department of the Interior | $70K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers (423450) | $285.7M |
+| Analytical Laboratory Instrument Manufacturing (334516) | $64.1M |
+| Surgical and Medical Instrument Manufacturing (339112) | $55.0M |
+| Research and Development in Biotechnology (except Nanobiotechnology) (541714) | $22.5M |
+| Surgical Appliance and Supplies Manufacturing (339113) | $16.8M |
+| Other Electronic and Precision Equipment Repair and Maintenance (811219) | $9.0M |
+| In-Vitro Diagnostic Substance Manufacturing (325413) | $9.0M |
+| Pharmaceutical Preparation Manufacturing (325412) | $8.7M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $41.1M |
+| Contracts (recent 3yr) | 25 ($23.4M sampled) |
+| Grants (recent 3yr) | 1 ($319K sampled) |
+| Federal Agencies | 3 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $3.3M | Department of Health and Human Services | IGF::OT::IGF LABORATORY EQUIPMENT AND SERVICES |
+| $2.8M | Department of Veterans Affairs | CHEMISTRY REAGENTS |
+| $1.4M | Department of Veterans Affairs | DRY CHEMISTRY/IMMUNOCHEMISTRY SYSTEM |
+| $1.4M | Department of Defense | CHEMISTRY ANALYZER |
+| $1.3M | Department of Veterans Affairs | CHEMISTRY REAGENTS |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $319K | Department of Health and Human Services | DEVELOPMENT OF NOVEL METHODS TO ENABLE ROBUST COMPARISON OF REAL-WORLD PROGRESSION FREE SURVIVAL (RW |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/803dca7c-cdfb-9267-ab61-45f868860d81-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

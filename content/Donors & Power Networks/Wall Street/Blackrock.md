@@ -2,13 +2,16 @@
 title: "BlackRock"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
 issues:
   - "Wall Street & Finance"
+ein: "882750831"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
 ---
 
 #blackrock #asset-management #wall-street #esg #index-funds #lobbying #larry-fink
@@ -71,3 +74,16 @@ BlackRock is not merely a Wall Street firm — it is the infrastructure through 
 - [Ballotpedia: BlackRock political spending](https://ballotpedia.org/BlackRock) (Tier 3)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 882750831 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | B94 |
+| IRS Ruling Date | 2024-06-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/882750831) (Tier 1)
+<!-- auto:nonprofit-990 end -->

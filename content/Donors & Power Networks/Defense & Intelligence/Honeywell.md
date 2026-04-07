@@ -38,6 +38,9 @@ subawards-received: 50
 subawards-received-amount: 7506016889
 top-federal-agency: "Department of Defense"
 top-naics-code: "336992"
+federal-awards-total: 1083390059
+federal-contracts-count: 25
+federal-grants-count: 12
 ---
 
 #defense-contractor #aerospace #pac-donor #defense-committee #bipartisan
@@ -185,3 +188,40 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $1.1B |
+| Contracts (recent 3yr) | 25 ($46.9B sampled) |
+| Grants (recent 3yr) | 12 ($171.1M sampled) |
+| Federal Agencies | 5 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $41.7B | Department of Energy | IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SAND |
+| $1.2B | Department of Defense | TIGER II SERVICES AND HARDWARE UCA |
+| $798.7M | Department of Defense | NON-PERSONAL SERVICES - SECONDARY POWER LOGISTICS SOLUTION (SPLS) |
+| $341.5M | General Services Administration | CONTRACTOR TO BUILD PHASE 3 OF CENTRAL UTILITY PLANT AT THE FDA WHITE OAK CONSOLIDATION CAMPUS IN SI |
+| $316.8M | General Services Administration | NEW CONTRACT AWARD DOCUMENT TO MAKE THE CURRENT CONTRACT INTERFACEABLE WITH PEGASYS ONLY. |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $123.8M | Department of Energy | BIPARTISAN INFRASTRUCTURE LAW (BIL): LIFSI: ELECTROLYTE SALT PRODUCTION FACILITY
+
+THE OBJECTIVE IS T |
+| $14.8M | Department of Energy | INFLATION REDUCTION ACT (IRA): THE OBJECTIVE OF THE PROJECT IS TO CREATE A HFO-1234YF PRODUCTION CAP |
+| $6.8M | Department of Energy | HONEYWELL INTERNATIONAL, INC.: NEW AWARD
+2238-1534 	
+ASCEND
+PROJECT TITLE: ADVANCED ELECTRIC PROPULS |
+| $6.6M | Department of Health and Human Services | A WEARABLE FUNCTIONAL-BRAIN-IMAGING SYSTEM WITH FULL-HEAD COVERAGE AND ENHANCED SPATIOTEMPORAL-RESOL |
+| $4.6M | Department of Defense | JOINT MULTI-ROLE TECHNOLOGY DEMONSTRATOR MISSION SYSTEMS ARCHITECTURE DEMONSTRATION JCA PRODUCT DEVE |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a281345d-2343-2f48-369a-746f3ec8888f-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

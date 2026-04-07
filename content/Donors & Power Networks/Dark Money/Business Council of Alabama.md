@@ -2,13 +2,17 @@
 title: "Business Council of Alabama"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+ein: 630922835
+annual-revenue: "$4.8M"
+net-assets: "$7.7M"
+tax-year: "2023"
 ---
 
 #alabama-politics #business-lobby #regulatory-capture #dark-money #state-control
@@ -51,3 +55,19 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 - [OpenSecrets: Alabama business lobbying spending](https://www.opensecrets.org/organizations/alabama) (Tier 1)
 
 `content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $4.8M |
+| Total Contributions | $0 |
+| Program Service Revenue | $4.2M |
+| Investment Income | $166K |
+| Total Expenses | $4.3M |
+| Net Assets | $7.7M |
+| Officer Compensation | $380K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 630922835](https://projects.propublica.org/nonprofits/organizations/630922835) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F630922835_202312_990O_2024061722534137.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

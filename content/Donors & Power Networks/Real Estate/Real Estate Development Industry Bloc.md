@@ -28,6 +28,8 @@ ofac-programs:
   - "IRAN-EO13846"
   - "DPRK2"
   - "ILLICIT-DRUGS-EO14059"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 
@@ -144,3 +146,21 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Real%20Estate%20Development%20Industry%20Bloc) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

@@ -16,6 +16,9 @@ total-revenue: 240019
 total-assets: 47470
 top-federal-agency: "Department of Defense"
 top-naics-code: "221122"
+lei: "549300PQE8D806LWQV52"
+lei-jurisdiction: "US-HI"
+lei-parent: "HAWAIIAN ELECTRIC INDUSTRIES, INC."
 ---
 
 #hawaiian-electric #heco #hawaii #maui #wildfire #utility #energy #monopoly
@@ -130,3 +133,23 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300PQE8D806LWQV52](https://search.gleif.org/#/record/549300PQE8D806LWQV52) |
+| Legal Name | HAWAIIAN ELECTRIC COMPANY, INC. |
+| Jurisdiction | US-HI |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-21T13:23:32Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [HAWAIIAN ELECTRIC INDUSTRIES, INC.](https://search.gleif.org/#/record/JJ8FWOCWCV22X7GUPJ23) (US-HI)
+- HAWAIIAN ELECTRIC COMPANY, INC. (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

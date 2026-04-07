@@ -132,3 +132,19 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Building%20and%20Construction%20Trades%20Council) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]] — lobbying: $10.5M
+- [[Antonio Villaraigosa]] — lobbying: $10.5M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

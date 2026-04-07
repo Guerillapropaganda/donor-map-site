@@ -16,6 +16,8 @@ last-enriched: "2026-04-07"
 federal-awards-total: 792468895
 federal-contracts-count: 25
 federal-grants-count: 0
+lei: "254900CIXLZUXXNYQW57"
+lei-jurisdiction: "US-DE"
 ---
 
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money
@@ -163,3 +165,18 @@ content-readiness:: draft
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/1869c03a-77bb-b66c-469b-988719bbec4c-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [254900CIXLZUXXNYQW57](https://search.gleif.org/#/record/254900CIXLZUXXNYQW57) |
+| Legal Name | ANDURIL INDUSTRIES, INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2025-05-18T13:30:05Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

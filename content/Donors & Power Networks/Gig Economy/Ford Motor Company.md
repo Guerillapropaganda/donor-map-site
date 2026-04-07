@@ -36,6 +36,14 @@ top-federal-agency: "General Services Administration"
 top-naics-code: "336111"
 lei: "20S05OYHG0MQM4VUIC57"
 lei-jurisdiction: "US-DE"
+federal-register-mentions: 920
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Federal Communications Commission"
+  - "Justice Department"
+  - "National Highway Traffic Safety Administration"
+  - "Pipeline and Hazardous Materials Safety Administration"
+  - "Transportation Department"
 ---
 
 #ford #auto #detroit #michigan #manufacturing #ev #uaw #trade
@@ -217,3 +225,25 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 920 |
+| Final Rules | 198 |
+| Proposed Rules | 116 |
+| Notices | 606 |
+| Agencies | Antitrust Division, Federal Communications Commission, Justice Department, National Highway Traffic Safety Administration, Pipeline and Hazardous Materials Safety Administration, Transportation Department |
+
+**Recent regulatory activity:**
+- [Notice of Lodging of Proposed Consent Decree Under the Comprehensive Environmental Response, Compensation, and Liability Act](https://www.federalregister.gov/documents/2026/03/26/2026-05897/notice-of-lodging-of-proposed-consent-decree-under-the-comprehensive-environmental-response) (2026-03-26) — Justice Department
+- [Ford Motor Company, Receipt of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2025/12/16/2025-22847/ford-motor-company-receipt-of-petition-for-decision-of-inconsequential-noncompliance) (2025-12-16) — Transportation Department
+- [The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks](https://www.federalregister.gov/documents/2025/12/05/2025-22014/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger) (2025-12-05) — Transportation Department ★
+- [Ford Motor Company, Receipt of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2025/11/28/2025-21530/ford-motor-company-receipt-of-petition-for-decision-of-inconsequential-noncompliance) (2025-11-28) — Transportation Department
+- [Ford Motor Company, Receipt of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2025/07/31/2025-14475/ford-motor-company-receipt-of-petition-for-decision-of-inconsequential-noncompliance) (2025-07-31) — Transportation Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Electrified Vehicle and Energy Storage Evaluation-II](https://www.federalregister.gov/documents/2025/06/13/2025-10774/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-electrified-vehicle) (2025-06-13) — Justice Department
+- ... and 914 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Ford%20Motor%20Company%22) (Tier 1)
+<!-- auto:federal-register end -->

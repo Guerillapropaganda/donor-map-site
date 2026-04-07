@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Tax Policy"
   - "Trade"
-ein: 530218495
+ein: "530218495"
 annual-revenue: "$53.8M"
 net-assets: "$348.4M"
 tax-year: "2023"
@@ -37,6 +37,9 @@ sec-form-types:
   - "PX14A6G"
   - "PX14A6N"
   - "SC 13D/A"
+nonprofit-status: "501(c)(3)"
+total-revenue: 104831056
+total-assets: 353111569
 ---
 
 #aei #think-tank #conservative #deregulation #tax #trade #neoconservative
@@ -136,3 +139,28 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Enterprise%20Institute%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 530218495 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $104.8M |
+| Total Assets | $353.1M |
+| NTEE Code | V050 |
+| IRS Ruling Date | 1944-07-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1)
+<!-- auto:nonprofit-990 end -->

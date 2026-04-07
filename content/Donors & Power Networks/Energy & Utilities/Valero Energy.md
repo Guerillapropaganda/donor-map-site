@@ -2,7 +2,7 @@
 title: "Valero Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -30,6 +30,9 @@ regulatory-agencies:
   - "Justice Department"
   - "National Highway Traffic Safety Administration"
   - "Pipeline and Hazardous Materials Safety Administration"
+federal-awards-total: 665092359
+federal-contracts-count: 25
+federal-grants-count: 0
 ---
 
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis
@@ -203,3 +206,25 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Valero%20Energy%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $665.1M |
+| Contracts (recent 3yr) | 25 ($1.3B sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 1 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $116.3M | Department of Defense | 14000000 USG OF TURBINE FUEL, AVIATION (JP8) |
+| $114.3M | Department of Defense | 14000000 USG OF TURBINE FUEL, AVIATION (JP8) |
+| $76.8M | Department of Defense | 14000000 USG OF TURBINE FUEL, AVIATION (JP8) |
+| $70.6M | Department of Defense | CLIN 0007 14000000 USG OF TURBINE FUEL, AVIATION (JP8) FMS REQUIREMENT  FMS REQUIREMENT |
+| $64.7M | Department of Defense | CLIN 0008 9140-01-556-9156 DIESEL FUEL OIL (EN590)     14,000,000.00 USG UNIT PRICE $1.826260  AMOUN |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1ad3783b-6219-ee2a-8de8-f116c8b3c799-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

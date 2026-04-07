@@ -2,11 +2,15 @@
 title: "Reclaim America PAC"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
+court-cases: 2
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, S.D. New York"
 ---
 
 #pac #leadership-pac #republican #rubio #trump #class-analysis #follow-the-money
@@ -97,3 +101,16 @@ content-readiness:: draft
 | NRSC | $50.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2 |
+| Courts | District Court, S.D. New York |
+
+**Notable cases:**
+- United States v. BANKMAN-FRIED (2022) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Reclaim%20America%20PAC%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

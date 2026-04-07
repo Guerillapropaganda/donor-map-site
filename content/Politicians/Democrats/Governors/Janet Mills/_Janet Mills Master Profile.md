@@ -2,7 +2,7 @@
 title: "Janet Mills Master Profile"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,8 @@ state-abbr: "ME"
 top-donors:
   - "Democratic Senatorial Campaign Committee"
 bioguide-id: "A000383"
+total-received: "$126,322"
+fec-candidate-id: "H4ME02085"
 ---
 
 #politician #democrat #governor #maine #2026-senate-candidate
@@ -132,3 +134,15 @@ party:: Democrat
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 1994 |
+| Total Raised | $126,322 |
+| PAC Contributions | $6,000 |
+| Cash on Hand | 162.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4ME02085/) (Tier 1)
+<!-- auto:fec-politician end -->

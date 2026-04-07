@@ -56,3 +56,19 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tech%20and%20Media%20Donors) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Jon Ossoff]] — lobbying: $9.1M
+- [[Raphael Warnock]] — lobbying: $9.1M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

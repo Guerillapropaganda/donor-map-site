@@ -2,7 +2,7 @@
 title: "Bruce Westerman"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,8 @@ state-abbr: "AR"
 district: "4"
 issues:
   - "Energy & Climate"
+total-received: "$1,848,430"
+fec-candidate-id: "H4AR04048"
 ---
 
 
@@ -148,3 +150,38 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 - [Wikipedia: Bruce Westerman](https://en.wikipedia.org/wiki/Bruce_Westerman) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,848,430 |
+| Individual Contributions | $625,013 |
+| PAC Contributions | $671,050 |
+| Cash on Hand | 4182671.15 |
+| IE Support (Super PAC) | $245,846 |
+| IE Opposition (Super PAC) | $145,658 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,848,430 | $625,013 | $671,050 |
+| 2024 | $2,736,567 | $1,061,610 | $1,310,141 |
+| 2022 | $1,944,291 | $875,267 | $941,300 |
+| 2020 | $1,428,508 | $609,363 | $748,630 |
+| 2018 | $1,624,217 | $837,711 | $714,267 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $0 | $144,806 |
+| THE DISABLED VETERANS COALITION PAC | $125,262 | $0 |
+| AMERICAN CONSERVATIVE UNION | $68,465 | $0 |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $36,000 | $0 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $9,992 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1)
+<!-- auto:fec-politician end -->

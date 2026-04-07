@@ -17,6 +17,10 @@ sec-form-types:
   - "40-APP"
   - "40-APP/A"
   - "EX-99"
+federal-register-mentions: 9
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Federal Election Commission"
 ---
 
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis
@@ -138,3 +142,25 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ActBlue%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 9 |
+| Rule | 1 |
+| Proposed Rule | 2 |
+| Notice | 6 |
+| Agencies | Federal Election Commission |
+
+**Recent regulatory activity:**
+- [Technological Modernization](https://www.federalregister.gov/documents/2024/01/02/2023-27908/technological-modernization) (2024-01-02) — Federal Election Commission
+- [Technological Modernization](https://www.federalregister.gov/documents/2022/09/08/2022-19382/technological-modernization) (2022-09-08) — Federal Election Commission
+- [Technological Modernization](https://www.federalregister.gov/documents/2016/11/02/2016-25102/technological-modernization) (2016-11-02) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2015/01/12/2015-00367/sunshine-act-meetings) (2015-01-12) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2014/09/16/2014-22087/sunshine-act-meetings) (2014-09-16) — Federal Election Commission
+- [Sunshine Act Notices](https://www.federalregister.gov/documents/2007/12/10/07-6011/sunshine-act-notices) (2007-12-10) — Federal Election Commission
+- ... and 3 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ActBlue%22) (Tier 1)
+<!-- auto:federal-register end -->

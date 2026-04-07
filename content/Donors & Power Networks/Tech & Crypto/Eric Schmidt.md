@@ -20,6 +20,12 @@ issues:
 ein: "237155170"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
+federal-register-mentions: 9
+regulatory-agencies:
+  - "Defense Department"
+  - "Federal Communications Commission"
+  - "Federal Deposit Insurance Corporation"
+  - "National Security Commission on Artificial Intelligence"
 ---
 
 #donor-node #tech #google #defense #AI #revolving-door #mega-donor #nscai #schmidt-futures #china #dark-money #class-analysis #follow-the-money
@@ -261,3 +267,24 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237155170) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 9 |
+| Notice | 7 |
+| Proposed Rule | 2 |
+| Agencies | Defense Department, Federal Communications Commission, Federal Deposit Insurance Corporation, National Security Commission on Artificial Intelligence |
+
+**Recent regulatory activity:**
+- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2021/02/16/2021-02983/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (2021-02-16) — National Security Commission on Artificial Intelligence
+- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2021/02/03/2021-02196/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (2021-02-03) — National Security Commission on Artificial Intelligence
+- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2021/01/08/2021-00126/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (2021-01-08) — National Security Commission on Artificial Intelligence
+- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2020/09/23/2020-21021/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (2020-09-23) — National Security Commission on Artificial Intelligence
+- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2020/07/07/2020-14587/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (2020-07-07) — National Security Commission on Artificial Intelligence
+- [Defense Innovation Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2020/06/09/2020-12472/defense-innovation-board-notice-of-federal-advisory-committee-meeting) (2020-06-09) — Defense Department
+- ... and 3 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Eric%20Schmidt%22) (Tier 1)
+<!-- auto:federal-register end -->

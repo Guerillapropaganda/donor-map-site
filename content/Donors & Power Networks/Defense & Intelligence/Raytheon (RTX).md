@@ -40,6 +40,9 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-07"
 ---
 
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #iran #golden-dome #missiles #saudi-arabia #yemen #ukraine #f-35 #patriot #pac #fraud #stinger #tomahawk
@@ -474,3 +477,21 @@ content-readiness:: developed
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Raytheon%20(RTX%20Corporation)) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

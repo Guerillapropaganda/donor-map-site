@@ -129,3 +129,17 @@ content-readiness:: ready
 - [E&E News/Politico: Supreme Court steps up recusal checks after Alito near-miss in Louisiana oil case](https://www.eenews.net/articles/supreme-court-steps-up-recusal-checks-after-alito-near-miss-in-louisiana-oil-case/) (Tier 2)
 - [Washington Post: Martha-Ann Alito told The Post in 2021 that flag was 'signal of distress'](https://www.washingtonpost.com/politics/2024/05/25/alito-flag-martha-ann-washington-post/) (Tier 2)
  
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Paul Singer]] — $1.3M lobbying spend (Accounting, Aerospace, Budget/Appropriations)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

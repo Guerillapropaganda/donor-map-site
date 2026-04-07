@@ -52,6 +52,10 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
+ein: 131832448
+annual-revenue: "$11.7M"
+net-assets: "$11.7M"
+tax-year: "2023"
 ---
 
 
@@ -255,3 +259,18 @@ The "national security" frame is the mechanism that makes the transfer invisible
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22American%20Iron%20and%20Steel%20Institute%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $11.7M |
+| Total Contributions | $211K |
+| Program Service Revenue | $11.4M |
+| Investment Income | $151K |
+| Total Expenses | $10.6M |
+| Net Assets | $11.7M |
+| Officer Compensation | $1.7M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 131832448](https://projects.propublica.org/nonprofits/organizations/131832448) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -19,6 +19,12 @@ ein: 226028476
 annual-revenue: "$17.3M"
 net-assets: "$316.2M"
 tax-year: "2023"
+subawards-issued: 1
+subawards-issued-amount: 308700
+subawards-received: 1
+subawards-received-amount: 308700
+top-federal-agency: "Department of Defense"
+top-naics-code: "325412"
 ---
 
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation
@@ -139,3 +145,53 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 226028476](https://projects.propublica.org/nonprofits/organizations/226028476) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F226028476_202312_990PF_2025010222973787.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 1 ($309K sampled) |
+| Subawards Received (as sub) | 1 ($309K sampled) |
+| Top Federal Agency | Department of Defense ($2.3B) |
+| Primary NAICS Sector | Pharmaceutical Preparation Manufacturing |
+
+**Subcontractors receiving federal money from Merck:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| MERCK SHARP & DOHME LLC | $309K | 1 |
+
+**Prime contractors funneling federal money to Merck:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| INTERNATIONAL AIDS VACCINE INITATIVE INC. | $309K | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $2.3B |
+| Department of Health and Human Services | $376.9M |
+| Department of the Interior | $8.1M |
+| Department of Veterans Affairs | $2.6M |
+| Department of Commerce | $1.3M |
+| Department of Justice | $876K |
+| Environmental Protection Agency | $411K |
+| Department of Agriculture | $394K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Pharmaceutical Preparation Manufacturing (325412) | $2.4B |
+| Surgical Appliance and Supplies Manufacturing (339113) | $143.2M |
+| Biological Product (except Diagnostic) Manufacturing (325414) | $102.9M |
+| Research and Development in Biotechnology (541711) | $32.7M |
+| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $6.6M |
+| Refrigerated Warehousing and Storage (493120) | $6.4M |
+| Analytical Laboratory Instrument Manufacturing (334516) | $3.3M |
+| Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $1.8M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

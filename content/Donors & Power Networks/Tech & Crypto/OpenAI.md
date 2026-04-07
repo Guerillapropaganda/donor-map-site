@@ -10,6 +10,13 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+ein: "810861541"
+annual-revenue: "$5.4M"
+net-assets: "$22.7M"
+tax-year: "2023"
+nonprofit-status: "501(c)(3)"
+total-revenue: 691271
+total-assets: 14665036
 ---
 
 #openai #ai #chatgpt #altman #microsoft #regulation #nonprofit-conversion
@@ -68,3 +75,41 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=OpenAI) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $5.4M |
+| Total Contributions | $5.0M |
+| Investment Income | $340K |
+| Total Expenses | $2.9M |
+| Net Assets | $22.7M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 810861541](https://projects.propublica.org/nonprofits/organizations/810861541) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 810861541 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $691K |
+| Total Assets | $14.7M |
+| NTEE Code | U40 |
+| IRS Ruling Date | 2016-11-01 |
+| Filings on Record | 8 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/810861541) (Tier 1)
+<!-- auto:nonprofit-990 end -->
