@@ -57,7 +57,7 @@ export function Sidebar() {
               }`}
               onClick={item.disabled ? (e) => e.preventDefault() : undefined}
             >
-              <svg className="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5}>
+              <svg width={16} height={16} className="flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5} style={{ minWidth: 16, minHeight: 16 }}>
                 <path strokeLinecap="round" strokeLinejoin="round" d={ICONS[item.icon]} />
               </svg>
               <span>{item.label}</span>
