@@ -88,26 +88,26 @@ const featuredDonors: FeaturedItem[] = [
   { name: "Goldman Sachs", detail: "\u{1F3E6}", search: "Wall-Street/Goldman-Sachs" },
   { name: "AIPAC", detail: "\u{1F54E}", search: "Israel-Lobby/AIPAC---American-Israel-Public-Affairs-Committee" },
   { name: "Koch Network", detail: "\u{1F3ED}", search: "Mega-Donors/Koch-Network---Charles-Koch" },
-  { name: "Lockheed Martin", detail: "\u{2708}", search: "Defense--and--Intelligence/Lockheed-Martin" },
+  { name: "PhRMA", detail: "\u{1F48A}", search: "Mega-Donors/PhRMA---Pharmaceutical-Research-and-Manufacturers-of-America" },
 ]
 
 const featuredStories: FeaturedItem[] = [
-  { name: "Drug Pricing Theater", detail: "\u{1F48A}", search: "Contradiction-Deep-Dives/Contradiction-03---PhRMA-Kills-Drug-Negotiation-From-Both-Sides" },
-  { name: "Defense Budget Bloat", detail: "\u{1F4A3}", search: "Contradiction-Deep-Dives/Contradiction-04---Lockheed-Martin-Buys-Defense-Hawks-in-Both-Parties" },
-  { name: "Carried Interest Scam", detail: "\u{1F4B0}", search: "The-Carried-Interest-Loophole---30-Years-of-Survival" },
+  { name: "Drug Pricing Theater", detail: "\u{1F48A}", search: "Contradiction-03---PhRMA-Kills-Drug-Negotiation-From-Both-Sides" },
+  { name: "Defense Budget Bloat", detail: "\u{1F4A3}", search: "Contradiction-04---Lockheed-Martin-Buys-Defense-Hawks-in-Both-Parties" },
+  { name: "Both-Sides Illusion", detail: "\u{1F3AD}", search: "Cross-Politician-Contradiction-Map---The-Both-Sides-Illusion-With-Receipts" },
 ]
 
 const featuredMedia: FeaturedItem[] = [
   { name: "Fox News", detail: "\u{1F4FA}", search: "Fox-News---Murdoch-Media-Empire" },
-  { name: "Ben Shapiro", detail: "\u{1F399}", search: "Right/Ben-Shapiro" },
-  { name: "Pod Save America", detail: "\u{1F3A7}", search: "Left/Pod-Save-America" },
-  { name: "Joe Rogan", detail: "\u{1F3A4}", search: "Centrist/Joe-Rogan" },
+  { name: "Candace Owens", detail: "\u{1F399}", search: "Right/Candace-Owens" },
+  { name: "Rachel Maddow", detail: "\u{1F3A7}", search: "Left/Rachel-Maddow" },
+  { name: "Bari Weiss", detail: "\u{1F3A4}", search: "Centrist/Bari-Weiss" },
   { name: "Daily Wire", detail: "\u{1F4F0}", search: "Right/Daily-Wire" },
 ]
 
 const featuredThinkTanks: FeaturedItem[] = [
   { name: "Heritage Foundation", detail: "\u{1F3DB}", search: "Conservative/Heritage-Foundation" },
-  { name: "Brookings Institution", detail: "\u{1F4DA}", search: "Centrist/Brookings-Institution" },
+  { name: "Aspen Institute", detail: "\u{1F4DA}", search: "Centrist/Aspen-Institute" },
   { name: "ALEC", detail: "\u{2696}", search: "ALEC---American-Legislative-Exchange-Council" },
   { name: "Cato Institute", detail: "\u{1F5FD}", search: "Conservative/Cato-Institute" },
   { name: "Center for American Progress", detail: "\u{1F4CB}", search: "Liberal/Center-for-American-Progress" },
