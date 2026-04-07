@@ -242,7 +242,10 @@ const ProfileWidget: QuartzComponent = ({
         <div class="pw-panel pw-panel-active" data-panel="graph">
           <div class="pw-mini-graph" data-graph={compactGraphData} data-full-graph={fullGraphData}></div>
           {hasExtendedNetwork && (
-            <button class="pw-mini-expand" data-expanded="false">Expand Network</button>
+            <div class="pw-graph-controls">
+              <button class="pw-mini-expand" data-expanded="false">Expand Network</button>
+              <button class="pw-mini-filter" data-filter="all" style="display:none">Show Donors Only</button>
+            </div>
           )}
         </div>
       )}
@@ -350,6 +353,7 @@ function initProfileWidget() {
 
   // Expand/collapse network button
   var expandBtn = widget.querySelector('.pw-mini-expand');
+  var filterBtn = widget.querySelector('.pw-mini-filter');
   if (expandBtn) {
     expandBtn.addEventListener('click', function() {
       var graphEl = widget.querySelector('.pw-mini-graph');
@@ -360,13 +364,39 @@ function initProfileWidget() {
         graphEl.setAttribute('data-active-graph', 'compact');
         expandBtn.setAttribute('data-expanded', 'false');
         expandBtn.textContent = 'Expand Network';
+        if (filterBtn) {
+          filterBtn.style.display = 'none';
+          filterBtn.setAttribute('data-filter', 'all');
+          filterBtn.textContent = 'Show Donors Only';
+        }
       } else {
         // Expand: switch to full graph (donors + think tanks + K Street + media)
         graphEl.setAttribute('data-active-graph', 'full');
         expandBtn.setAttribute('data-expanded', 'true');
-        expandBtn.textContent = 'Show Donors Only';
+        expandBtn.textContent = 'Collapse Network';
+        if (filterBtn) filterBtn.style.display = '';
       }
       // Re-render the graph with new data
+      if (typeof window.initMiniGraph === 'function') {
+        window.initMiniGraph();
+      }
+    });
+  }
+  // Filter button: toggle between all nodes and donors only (only visible when expanded)
+  if (filterBtn) {
+    filterBtn.addEventListener('click', function() {
+      var graphEl = widget.querySelector('.pw-mini-graph');
+      if (!graphEl) return;
+      var currentFilter = filterBtn.getAttribute('data-filter');
+      if (currentFilter === 'all') {
+        graphEl.setAttribute('data-active-graph', 'compact');
+        filterBtn.setAttribute('data-filter', 'donors');
+        filterBtn.textContent = 'Show Full Network';
+      } else {
+        graphEl.setAttribute('data-active-graph', 'full');
+        filterBtn.setAttribute('data-filter', 'all');
+        filterBtn.textContent = 'Show Donors Only';
+      }
       if (typeof window.initMiniGraph === 'function') {
         window.initMiniGraph();
       }
@@ -642,14 +672,18 @@ a.pw-bs-recip:hover {
   border-radius: 6px;
 }
 
-/* Expand button */
-.pw-mini-expand {
-  display: block;
-  width: 100%;
+/* Graph controls row */
+.pw-graph-controls {
+  display: flex;
+  border-bottom: 1px solid #1a1a22;
+}
+
+.pw-mini-expand,
+.pw-mini-filter {
+  flex: 1;
   padding: 6px 0;
   background: none;
   border: none;
-  border-bottom: 1px solid #1a1a22;
   color: #5b8dce;
   font-family: 'Space Mono', monospace;
   font-size: 10px;
@@ -660,9 +694,19 @@ a.pw-bs-recip:hover {
   text-align: center;
 }
 
-.pw-mini-expand:hover {
+.pw-mini-expand:hover,
+.pw-mini-filter:hover {
   color: #8bb5e8;
   background: rgba(91, 141, 206, 0.06);
+}
+
+.pw-mini-filter {
+  border-left: 1px solid #1a1a22;
+  color: #8a8a96;
+}
+
+.pw-mini-filter:hover {
+  color: #d4d4dc;
 }
 
 /* ─── Expanded overlay ─────────────────────── */
