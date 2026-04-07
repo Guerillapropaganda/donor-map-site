@@ -1,0 +1,122 @@
+import { NextResponse } from "next/server"
+import fs from "fs"
+import path from "path"
+import { execSync } from "child_process"
+
+interface UrlChange {
+  url: string
+  label: string
+  tier?: number
+  profilePath: string
+  profile: string
+  newStatus: "ok" | "broken" | "slow" | "unsure"
+}
+
+function getRepoRoot(): string {
+  const fromOps = path.resolve(process.cwd(), "..")
+  if (fs.existsSync(path.join(fromOps, "content"))) return fromOps
+  if (fs.existsSync(path.join(process.cwd(), "content"))) return process.cwd()
+  throw new Error("Cannot find repo root")
+}
+
+export async function POST(request: Request) {
+  try {
+    const body = await request.json()
+    const { changes } = body as { changes: UrlChange[] }
+
+    if (!changes || !Array.isArray(changes) || changes.length === 0) {
+      return NextResponse.json({ error: "changes array required" }, { status: 400 })
+    }
+
+    const repoRoot = getRepoRoot()
+    const modifiedFiles = new Set<string>()
+    let archived = 0
+    let confirmed = 0
+    let flagged = 0
+
+    // Group changes by profile file
+    const byFile = new Map<string, UrlChange[]>()
+    for (const change of changes) {
+      const existing = byFile.get(change.profilePath) || []
+      existing.push(change)
+      byFile.set(change.profilePath, existing)
+    }
+
+    for (const [filePath, fileChanges] of byFile.entries()) {
+      const fullPath = path.join(repoRoot, filePath)
+      if (!fs.existsSync(fullPath)) continue
+
+      let content = fs.readFileSync(fullPath, "utf-8")
+      let modified = false
+
+      for (const change of fileChanges) {
+        if (change.newStatus === "broken") {
+          // Move to Archived: wrap in strikethrough
+          // Find the link: [label](url) and wrap with ~~
+          const linkPattern = `[${change.label}](${change.url})`
+          const archivedLink = `~~${linkPattern}~~`
+
+          if (content.includes(linkPattern) && !content.includes(archivedLink)) {
+            content = content.replace(linkPattern, archivedLink)
+
+            // Add note about archival
+            const tierNote = change.tier ? ` (was Tier ${change.tier}` : ""
+            const archiveNote = tierNote ? `${tierNote} — URL broken, archived by Ops)` : " (URL broken, archived by Ops)"
+            content = content.replace(archivedLink, archivedLink + archiveNote)
+
+            modified = true
+            archived++
+          }
+        } else if (change.newStatus === "ok") {
+          // URL confirmed working — if it was archived, unarchive it
+          const archivedPattern = `~~[${change.label}](${change.url})~~`
+          if (content.includes(archivedPattern)) {
+            content = content.replace(archivedPattern, `[${change.label}](${change.url})`)
+            modified = true
+          }
+          confirmed++
+        } else if (change.newStatus === "unsure") {
+          // Add (NEEDS REVIEW) tag if not already present
+          const linkPattern = `[${change.label}](${change.url})`
+          if (content.includes(linkPattern) && !content.includes(linkPattern + " (NEEDS REVIEW)")) {
+            content = content.replace(linkPattern, linkPattern + " (NEEDS REVIEW)")
+            modified = true
+          }
+          flagged++
+        }
+      }
+
+      if (modified) {
+        fs.writeFileSync(fullPath, content, "utf-8")
+        modifiedFiles.add(filePath)
+      }
+    }
+
+    // Git commit and push all modified files
+    if (modifiedFiles.size > 0) {
+      try {
+        for (const f of modifiedFiles) {
+          execSync(`git add "${f}"`, { cwd: repoRoot, timeout: 10000 })
+        }
+        const msg = `URL triage: ${archived} archived, ${confirmed} confirmed, ${flagged} flagged for review`
+        execSync(`git commit -m "${msg}"`, { cwd: repoRoot, timeout: 10000 })
+        execSync("git push origin v4", { cwd: repoRoot, timeout: 30000 })
+      } catch (e) {
+        console.error("Git push failed (local changes saved):", e)
+      }
+    }
+
+    return NextResponse.json({
+      success: true,
+      summary: {
+        archived,
+        confirmed,
+        flagged,
+        filesModified: modifiedFiles.size,
+      },
+    })
+  } catch (error: unknown) {
+    const msg = error instanceof Error ? error.message : "Unknown error"
+    return NextResponse.json({ error: msg }, { status: 500 })
+  }
+}

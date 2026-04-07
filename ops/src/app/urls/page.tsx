@@ -13,7 +13,7 @@ interface VaultUrl {
   domain: string
 }
 
-type UrlStatus = "unchecked" | "ok" | "broken" | "slow" | "redirect"
+type UrlStatus = "unchecked" | "ok" | "broken" | "slow" | "redirect" | "unsure"
 
 interface CheckedUrl extends VaultUrl {
   status: UrlStatus
@@ -34,6 +34,8 @@ export default function UrlManagerPage() {
   const [overrides, setOverrides] = useState<Record<string, UrlStatus>>({})
   const [hasChanges, setHasChanges] = useState(false)
   const [showConfirm, setShowConfirm] = useState(false)
+  const [saving, setSaving] = useState(false)
+  const [saveResult, setSaveResult] = useState<{ archived: number; confirmed: number; flagged: number } | null>(null)
 
   // Load all URLs from vault
   useEffect(() => {
@@ -84,6 +86,7 @@ export default function UrlManagerPage() {
   const greenUrls = filtered.filter((u) => getStatus(u) === "ok")
   const redUrls = filtered.filter((u) => getStatus(u) === "broken")
   const yellowUrls = filtered.filter((u) => getStatus(u) === "slow" || getStatus(u) === "redirect")
+  const unsureUrls = filtered.filter((u) => getStatus(u) === "unsure")
   const uncheckedUrls = filtered.filter((u) => getStatus(u) === "unchecked")
 
   // Check all URLs
@@ -141,8 +144,42 @@ export default function UrlManagerPage() {
     green: greenUrls.length,
     red: redUrls.length,
     yellow: yellowUrls.length,
+    unsure: unsureUrls.length,
     unchecked: uncheckedUrls.length,
     total: filtered.length,
+  }
+
+  // Save changes to vault
+  const saveChanges = async () => {
+    setSaving(true)
+    const changes = Object.entries(overrides).map(([id, status]) => {
+      const u = urls.find((u) => u.id === id)
+      if (!u) return null
+      return {
+        url: u.url,
+        label: u.label,
+        tier: u.tier,
+        profilePath: u.profilePath,
+        profile: u.profile,
+        newStatus: status === "slow" || status === "redirect" ? "unsure" : status,
+      }
+    }).filter(Boolean)
+
+    try {
+      const res = await fetch("/api/urls/save", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ changes }),
+      })
+      const data = await res.json()
+      if (data.success) {
+        setSaveResult(data.summary)
+        setOverrides({})
+        setHasChanges(false)
+        setShowConfirm(false)
+      }
+    } catch { /* error */ }
+    finally { setSaving(false) }
   }
 
   // URL card component
@@ -276,6 +313,9 @@ export default function UrlManagerPage() {
         <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[var(--color-amber)]/10 text-[var(--color-amber)]">
           <span className="w-2 h-2 rounded-full bg-current" /> {counts.yellow} Slow/Redirect
         </div>
+        <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[var(--color-purple)]/10 text-[var(--color-purple)]">
+          <span className="w-2 h-2 rounded-full bg-current" /> {counts.unsure} Unsure
+        </div>
         {counts.unchecked > 0 && (
           <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[var(--color-text-dim)]/10 text-[var(--color-text-dim)]">
             <span className="w-2 h-2 rounded-full bg-current" /> {counts.unchecked} Unchecked
@@ -295,7 +335,16 @@ export default function UrlManagerPage() {
             <DropZone status="ok" color="#22c55e" label="Working" items={greenUrls} icon="&#x2705;" />
             <DropZone status="broken" color="#ef4444" label="Broken" items={redUrls} icon="&#x274C;" />
             <DropZone status="slow" color="#f59e0b" label="Slow / Redirect" items={yellowUrls} icon="&#x26A0;" />
+            <DropZone status="unsure" color="#a855f7" label="Unsure" items={unsureUrls} icon="&#x2753;" />
           </div>
+
+          {/* Save result notification */}
+          {saveResult && (
+            <div className="mt-4 bg-[var(--color-green)]/10 border border-[var(--color-green)]/30 rounded-lg p-4 text-xs text-[var(--color-green)] flex items-center justify-between">
+              <span>Saved: {saveResult.archived} archived, {saveResult.confirmed} confirmed, {saveResult.flagged} flagged for review</span>
+              <button onClick={() => setSaveResult(null)} className="text-[var(--color-green)]/60 hover:text-[var(--color-green)]">&times;</button>
+            </div>
+          )}
 
           {/* Unchecked section */}
           {uncheckedUrls.length > 0 && (
@@ -341,6 +390,7 @@ export default function UrlManagerPage() {
                     <span className={`w-2 h-2 rounded-full ${
                       status === "ok" ? "bg-[var(--color-green)]" :
                       status === "broken" ? "bg-[var(--color-red)]" :
+                      status === "unsure" ? "bg-[var(--color-purple)]" :
                       "bg-[var(--color-amber)]"
                     }`} />
                     <span className="text-[var(--color-text)] truncate flex-1">{u.label}</span>
@@ -351,15 +401,11 @@ export default function UrlManagerPage() {
             </div>
             <div className="flex gap-2">
               <button
-                onClick={() => {
-                  // TODO: Save changes to vault files
-                  setShowConfirm(false)
-                  setHasChanges(false)
-                  setOverrides({})
-                }}
-                className="flex-1 bg-[var(--color-green)]/15 text-[var(--color-green)] border border-[var(--color-green)]/30 rounded-lg px-4 py-2 text-xs font-bold hover:bg-[var(--color-green)]/25"
+                onClick={saveChanges}
+                disabled={saving}
+                className="flex-1 bg-[var(--color-green)]/15 text-[var(--color-green)] border border-[var(--color-green)]/30 rounded-lg px-4 py-2 text-xs font-bold hover:bg-[var(--color-green)]/25 disabled:opacity-50"
               >
-                Save to Vault
+                {saving ? "Saving..." : "Save to Vault"}
               </button>
               <button
                 onClick={() => setShowConfirm(false)}
