@@ -36,7 +36,7 @@ const ProfileWidget: QuartzComponent = ({
   const donorInfo = new Map<string, { sector: string; slug: string; politiciansFunded: string[] }>()
   const polInfo = new Map<string, { party: string; slug: string; chamber: string }>()
   // Extended network: think tanks, K Street, media figures that reference this profile
-  const networkInfo = new Map<string, { type: string; slug: string; category?: string }>()
+  const networkInfo = new Map<string, { type: string; slug: string; category?: string; via?: string }>()
 
   for (const f of allFiles) {
     const fFm = f.frontmatter
@@ -67,6 +67,10 @@ const ProfileWidget: QuartzComponent = ({
     const isKStreet = fSlug.startsWith("lobbying-firms--and--k-street/")
     const isMedia = fSlug.startsWith("media--and--influence-pipeline/")
     if (isThinkTank || isKStreet || isMedia) {
+      // Only include actual profile pages, not articles/indexes/frameworks
+      const fmType2 = String(fFm.type ?? "").toLowerCase()
+      if (!fmType2 || fmType2 === "index" || fmType2 === "framework" || fmType2 === "article" || fmType2 === "story") continue
+      if (fTitle.includes("—") || fTitle.startsWith("_") || fTitle.includes(" Index") || fTitle.includes(" Framework")) continue
       const fType = isThinkTank ? "think-tank" : isKStreet ? "lobbying" : "media"
       const category = String(fFm.category ?? "")
       // Check if their related field mentions us (via wikilinks)
@@ -75,11 +79,39 @@ const ProfileWidget: QuartzComponent = ({
       // Check if we reference them (our related field or top-donors)
       const ourRelated = String(fm.related ?? "")
       const weReferenceThem = topDonors.includes(fTitle) || ourRelated.includes(fTitle)
-      if (theyReferenceUs || weReferenceThem) {
+      // Shared-donor bridge: extract wikilink targets from their related/donors fields
+      // and compare against our top-donors using flexible matching
+      const theirDonors = String(fFm.donors ?? "")
+      const theirAllLinks = theirRelated + " " + theirDonors
+      // Extract wikilink targets: [[Target|Display]] → "target", [[Target]] → "target"
+      const linkTargets = new Set<string>()
+      const linkRegex = /\[\[([^\]|]+)/g
+      let lm: RegExpExecArray | null
+      while ((lm = linkRegex.exec(theirAllLinks)) !== null) {
+        linkTargets.add(lm[1].replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim().toLowerCase())
+      }
+      let sharedDonor = ""
+      if (!theyReferenceUs && !weReferenceThem) {
+        for (const d of topDonors) {
+          const dLc = d.toLowerCase()
+          // Exact match against extracted link targets
+          if (linkTargets.has(dLc)) { sharedDonor = d; break }
+          // Partial: check if any link target starts with the donor name before " - "
+          const dShort = dLc.split(" - ")[0].trim()
+          for (const lt of linkTargets) {
+            if (lt === dShort || lt.startsWith(dShort + " -") || lt.startsWith(dShort + " (")) {
+              sharedDonor = d; break
+            }
+          }
+          if (sharedDonor) break
+        }
+      }
+      if (theyReferenceUs || weReferenceThem || sharedDonor) {
         networkInfo.set(fTitle, {
           type: fType,
           slug: `${basePath}/${simplifySlug(f.slug!)}`,
           category,
+          via: sharedDonor || undefined,
         })
       }
     }
