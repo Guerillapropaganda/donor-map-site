@@ -1,39 +1,40 @@
 ---
-title: "Donald Trump Master Profile"
+title: Donald Trump Master Profile
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: '2026-04-07'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Presidential"
-current-office: "President"
-career-total: "$2B+"
+party: Republican
+chamber: Presidential
+current-office: President
+career-total: $2B+
 top-donors:
-  - "Elon Musk"
-  - "Peter Thiel"
-  - "Miriam Adelson"
-  - "Jeffrey Yass"
-  - "Timothy Mellon"
-  - "Richard Uihlein"
-  - "Kenneth Griffin"
-  - "Crypto Industry Bloc"
+  - Elon Musk
+  - Peter Thiel
+  - Miriam Adelson
+  - Jeffrey Yass
+  - Timothy Mellon
+  - Richard Uihlein
+  - Kenneth Griffin
+  - Crypto Industry Bloc
 govtrack-id: 412733
 bills-sponsored: 0
 bills-cosponsored: 0
-doj-press-mentions: "264312"
-last-enriched: "2026-04-07"
+doj-press-mentions: '264312'
+last-enriched: '2026-04-07'
 doj-components:
-  - "Civil Rights Division"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
-  - "USAO - Ohio, Northern"
-  - "USAO - Ohio, Southern"
+  - Civil Rights Division
+  - 'USAO - Florida, Middle'
+  - 'USAO - Florida, Northern'
+  - 'USAO - Kentucky, Eastern'
+  - 'USAO - Louisiana, Eastern'
+  - USAO - Massachusetts
+  - 'USAO - Missouri, Western'
+  - 'USAO - New York, Northern'
+  - 'USAO - Ohio, Northern'
+  - 'USAO - Ohio, Southern'
+opposes: '[[Barack Obama Master Profile]]'
 ---
 
 
