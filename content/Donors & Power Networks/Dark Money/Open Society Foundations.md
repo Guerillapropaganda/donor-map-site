@@ -2,7 +2,7 @@
 title: "Open Society Foundations"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -11,6 +11,11 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Dark Money & Campaign Finance"
+federal-contracts: "18849"
+ein: 273743368
+annual-revenue: "$0"
+net-assets: "$553"
+tax-year: "2016"
 ---
 
 #donor #donor-node #dark-money #soros #progressive #democracy-infrastructure #international #criminal-justice-reform
@@ -154,3 +159,40 @@ OSF operates within a broader ecosystem of Democratic mega-donor funding:
 
 research-status:: ready | Comprehensive donor profile of Open Society Foundations: 152 lines, 8 sources (Tier 2-3), covers funding priorities, organizational structure, strategic outcomes, and class analysis. Documents $50M+ prosecutor funding, voting rights infrastructure, and professional-class progressive capture. Promoted Session 38k.
 content-readiness:: ready
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 18849 |
+| Sample Value (top 25) | $4.6M |
+| Year Range | 2004-2025 |
+| Federal Agencies | 4 |
+
+**Contracting agencies:** DEPT OF DEFENSE, NATIONAL AERONAUTICS AND SPACE ADMINISTRATION, SOCIAL SECURITY ADMINISTRATION, TRANSPORTATION, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $599K | NATIONAL AERONAUTICS AND SPACE ADMINISTRATION | 2004-04-08 |
+| $599K | NATIONAL AERONAUTICS AND SPACE ADMINISTRATION | 2003-12-01 |
+| $599K | NATIONAL AERONAUTICS AND SPACE ADMINISTRATION | 2005-03-14 |
+| $40K | SOCIAL SECURITY ADMINISTRATION | 2015-09-30 |
+| $12K | DEPT OF DEFENSE | 2025-09-10 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Open%20Society%20Foundations&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->
+
+### Financial Overview (990 Filing — 2016)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $0 |
+| Total Contributions | $0 |
+| Total Expenses | $192 |
+| Net Assets | $553 |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 273743368](https://projects.propublica.org/nonprofits/organizations/273743368) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F273743368_201612_990EZ_2017080814620190.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

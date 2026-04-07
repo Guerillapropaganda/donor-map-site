@@ -2,11 +2,16 @@
 title: "Economic Policy Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
+ein: "521368964"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 12248246
+total-assets: 19581014
 ---
 
 #think-tank #liberal #labor #economic-policy #minimum-wage #pro-act #nlrb #revolving-door
@@ -227,3 +232,28 @@ The critical question for class analysis is not whether EPI's research is accura
 - [EPI: Federal Policy Watch — real-time tracker of Trump administration changes to worker protections](https://www.epi.org/policywatch/) (Tier 3)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 521368964 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $12.2M |
+| Total Assets | $19.6M |
+| NTEE Code | V22F |
+| IRS Ruling Date | 1985-09-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521368964) (Tier 1)
+<!-- auto:nonprofit-990 end -->

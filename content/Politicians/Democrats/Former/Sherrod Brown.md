@@ -2,10 +2,13 @@
 title: "Sherrod Brown"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 fec-candidate-id: "H2OH13033"
+govtrack-id: 400050
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 #sherrod-brown #senate #ohio #labor #populist #class-analysis #2024-defeat
@@ -115,3 +118,14 @@ profile-status:: ready ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 14,251 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400050) (Tier 1)
+<!-- auto:govtrack end -->

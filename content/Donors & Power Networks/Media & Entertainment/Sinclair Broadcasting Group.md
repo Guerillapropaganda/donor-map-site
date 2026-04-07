@@ -2,14 +2,18 @@
 title: "Sinclair Broadcasting Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
 ein: "465691580"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
+federal-register-mentions: 4
+regulatory-agencies:
+  - "Federal Communications Commission"
+  - "Federal Trade Commission"
 ---
 
 #sinclair-broadcasting #media #television #local-news #conservative #propaganda #media-consolidation
@@ -166,3 +170,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/465691580) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4 |
+| Rule | 2 |
+| Proposed Rule | 1 |
+| Notice | 1 |
+| Agencies | Federal Communications Commission, Federal Trade Commission |
+
+**Recent regulatory activity:**
+- [2014 Quadrennial Regulatory Review](https://www.federalregister.gov/documents/2016/11/01/2016-25567/2014-quadrennial-regulatory-review) (2016-11-01) — Federal Communications Commission
+- [Broadcast Services; Radio Stations, Television Stations](https://www.federalregister.gov/documents/2001/02/13/01-3637/broadcast-services-radio-stations-television-stations) (2001-02-13) — Federal Communications Commission
+- [Review of the Commission's Rules and Policies Affecting the Conversion to Digital Television](https://www.federalregister.gov/documents/2000/03/23/00-7130/review-of-the-commissions-rules-and-policies-affecting-the-conversion-to-digital-television) (2000-03-23) — Federal Communications Commission
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/1997/01/17/97-1236/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (1997-01-17) — Federal Trade Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Sinclair%20Broadcasting%20Group%22) (Tier 1)
+<!-- auto:federal-register end -->

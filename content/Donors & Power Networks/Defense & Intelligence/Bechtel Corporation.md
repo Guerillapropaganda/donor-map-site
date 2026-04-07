@@ -2,7 +2,7 @@
 title: "Bechtel Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -11,6 +11,19 @@ issues:
   - "Infrastructure"
 lobbying-spend: 2980000
 lobbying-filings: 51
+court-cases: 2808
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Arizona"
+  - "District Court, D. Hawaii"
+  - "District Court, D. South Carolina"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. Georgia"
+  - "District Court, S.D. Georgia"
 ---
 
 #defense-contractor #infrastructure #private-construction #iraq-war #revolving-door
@@ -86,3 +99,22 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 | DNC-NONFEDERAL-CORPORATE | $20.4K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2,808 |
+| Courts | Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, D. Arizona, District Court, D. Hawaii, District Court, D. South Carolina, District Court, District of Columbia, District Court, E.D. Virginia +4 more |
+| Case Types | 360 P.I.: Other, 370 Other Fraud, 380 Personal Property: Other, 410 Other Statutes: Anti-Trust, 790 Labor: Other |
+
+**Notable cases:**
+- Arredondo v. Bechtel Corporation (2025) — District Court, S.D. Texas
+- WILSON v. ERICSSON INC. (2025) — District Court, District of Columbia
+- United States of America Chamber of Commerce, et al. v. Sanchez, et al. (2025) — Court of Appeals for the Ninth Circuit
+- McCray v. Microsoft Corporation (2025) — District Court, W.D. Washington
+- Eton Park Capital Management L.P. v. Argentine Republic (2025) — Court of Appeals for the Second Circuit
+- Petersen Energia Inversora, S.A.U. v. Argentine Republic (2025) — Court of Appeals for the Second Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bechtel%20Corporation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

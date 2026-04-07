@@ -2,7 +2,7 @@
 title: "DoorDash"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -13,6 +13,8 @@ politicians-funded:
   - "Joe Biden"
 issues:
   - "Technology"
+lei: "549300NUQ43FGGSK5051"
+lei-jurisdiction: "US-DE"
 ---
 
 
@@ -132,3 +134,18 @@ content-readiness:: ready
 | SMP | $175.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300NUQ43FGGSK5051](https://search.gleif.org/#/record/549300NUQ43FGGSK5051) |
+| Legal Name | DOORDASH, INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-04-17T11:06:21Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

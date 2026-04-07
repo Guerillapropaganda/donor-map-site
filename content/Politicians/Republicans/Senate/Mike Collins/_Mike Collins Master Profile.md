@@ -2,7 +2,7 @@
 title: "Mike Collins Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,11 @@ top-donors:
   - "Winklevoss Twins"
   - "Elon Musk"
   - "Club for Growth"
+govtrack-id: 456895
+bills-sponsored: 12
+bills-cosponsored: 206
+website: "https://collins.house.gov"
+phone: "202-225-4101"
 ---
 
 
@@ -135,3 +140,22 @@ Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (
 
 content-readiness:: ready
  
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 12 |
+| Bills Cosponsored | 206 |
+| Total Votes Cast | 1,711 |
+
+**Recent bills sponsored:**
+
+- H.R. 8079: To prohibit the enforcement of laws relating to the installation, certification, and maintenance of emissions control de — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3679: Small Business Artificial Intelligence Advancement Act — *This bill passed in the House on February 23, 2026 and goes to the Senate next for consideration.*
+- H.R. 3898: PERMIT Act — *This bill passed in the House on December 11, 2025 and goes to the Senate next for consideration.*
+- H.R. 5258: Lawsuit Abuse Reduction Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 4068: Streamlining NEPA for Coal Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on June 23, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456895) (Tier 1)
+<!-- auto:govtrack end -->

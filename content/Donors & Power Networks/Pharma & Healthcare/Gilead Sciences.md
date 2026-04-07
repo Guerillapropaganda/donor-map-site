@@ -2,13 +2,15 @@
 title: "Gilead Sciences"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+lobbying-spend: 19612000
+lobbying-filings: 55
 ---
 
 #gilead #pharma #hiv #hepatitis #pricing #sovaldi #truvada #prep #lobbying
@@ -62,3 +64,22 @@ content-readiness:: ready
 | SCALISE LEADERSHIP FUND | $17.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $19.6M |
+| Quarterly Filings | 55 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 15 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Copyright/Patent/Trademark, Health Issues, Medicare/Medicaid, Pharmacy, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** B HALL STRATEGIES, LLC, CAPITOL TAX PARTNERS, LLP, EMPIRE CONSULTING GROUP, FARRAGUT PARTNERS LLP, FORBES-TATE, GILEAD SCIENCES, INC., JEFFREY J. KIMBELL & ASSOCIATES, INC., MILLER STRATEGIES, LLC, TARPLIN, DOWNS & YOUNG, LLC, THE DUBERSTEIN GROUP INC., THE MCMANUS GROUP, THEGROUP DC, LLC, TIBER CREEK GROUP, TODD STRATEGY GROUP, W STRATEGIES, LLC
+
+**Agencies contacted:** Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Natl Institutes of Health (NIH), Natl Security Council (NSC), Office of Management & Budget (OMB) +8 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Gilead%20Sciences) (Tier 1)
+<!-- auto:lda-lobbying end -->

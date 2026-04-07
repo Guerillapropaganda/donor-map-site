@@ -2,14 +2,18 @@
 title: "Patrick Soon-Shiong"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Donald Trump"
-  - "Kamala Harris"
+  - "Cathy McMorris Rodgers"
+  - "Mike Johnson"
+  - "Ron Johnson"
+  - "Lindsey Graham"
+  - "Kevin McCarthy"
+  - "John McCain"
 total-political-spend: "$735,621"
 ---
 
@@ -161,3 +165,28 @@ content-readiness:: ready
 | ARIZONA GRASSROOTS ACTION PAC | $60.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $735,621 |
+| Contributions | 83 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| REPUBLICAN NATIONAL COMMITTEE | $250,000 | REP |
+| NRCC | $77,600 | REP |
+| ARIZONA GRASSROOTS ACTION PAC | $60,000 | — |
+| GROW THE MAJORITY | $50,000 | — |
+| MCMORRIS RODGERS AMERICAN DREAM PROJECT; THE | $50,000 | — |
+| HILLARY VICTORY FUND | $47,300 | — |
+| DNC SERVICES CORP./DEM. NAT'L COMMITTEE | $33,400 | DEM |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $30,400 | DEM |
+| DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $30,400 | DEM |
+| MIKE PENCE FOR PRESIDENT | $13,200 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Patrick%20Soon-Shiong) (Tier 1)
+<!-- auto:fec-donor end -->

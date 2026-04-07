@@ -2,17 +2,22 @@
 title: "JB Pritzker"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "JB Pritzker"
-  - "Gavin Newsom"
-  - "Gretchen Whitmer"
+  - "Barack Obama"
+  - "Jon Ossoff"
+  - "Cory Booker"
 issues:
   - "Dark Money & Campaign Finance"
+total-political-spend: "$4,643,247"
+ein: 300039820
+annual-revenue: "$4.2M"
+net-assets: "$148.4M"
+tax-year: "2023"
 ---
 
 #jb-pritzker #illinois #hyatt #billionaire #self-funder #democratic #governor #mega-donor #dark-money #2028 #think-big-america #dga #class-analysis
@@ -161,3 +166,41 @@ content-readiness:: developed
 | AMERICANS UNITED IN SUPPORT OF DEMOCRACY | $35.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $4,643,247 |
+| Contributions | 47 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| DEVELOPMENT NOW FOR CHICAGO | $2,709,295 | DEM |
+| HOUSE MAJORITY PAC | $1,800,000 | — |
+| AMERICANS UNITED IN SUPPORT OF DEMOCRACY | $35,000 | — |
+| LEVEL UP PAC | $25,000 | — |
+| NEW JERSEY DEMOCRATIC STATE COMMITTEE | $10,000 | DEM |
+| MICHIGAN DEMOCRATIC STATE CENTRAL COMMITEE | $10,000 | DEM |
+| CITYPAC | $10,000 | DEM |
+| JULIANA FOR ILLINOIS | $7,000 | DEM |
+| ERIC LYNN FOR CONGRESS | $5,400 | DEM |
+| FRIENDS OF WEINER | $4,800 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=JB%20Pritzker) (Tier 1)
+<!-- auto:fec-donor end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $4.2M |
+| Total Contributions | $0 |
+| Total Expenses | $56.9M |
+| Net Assets | $148.4M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 300039820](https://projects.propublica.org/nonprofits/organizations/300039820) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F300039820_202312_990PF_2024112522929848.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

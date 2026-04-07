@@ -2,7 +2,7 @@
 title: "Ocean Conservancy"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -12,6 +12,18 @@ issues:
   - "Dark Money & Campaign Finance"
 lobbying-spend: 5725200
 lobbying-filings: 86
+federal-register-mentions: 87
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Commerce Department"
+  - "Defense Department"
+  - "Environmental Protection Agency"
+  - "Interior Department"
+  - "National Oceanic and Atmospheric Administration"
+  - "Ocean Energy Management Bureau"
+  - "Regulatory Information Service Center"
+  - "Securities and Exchange Commission"
 ---
 
 #ocean-conservancy #environment #nonprofit #conservation #fishing #plastics #dark-money #corporate-capture #greenwashing
@@ -200,5 +212,27 @@ content-readiness:: ready
 
 - [[Sheldon Whitehouse]] (Environment & Public Works) — lobbying: $5.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 87 |
+| Final Rules | 28 |
+| Proposed Rules | 30 |
+| Notices | 29 |
+| Agencies | Agriculture Department, Commerce Department, Defense Department, Environmental Protection Agency, Interior Department, National Oceanic and Atmospheric Administration, Ocean Energy Management Bureau, Regulatory Information Service Center +1 more |
+
+**Recent regulatory activity:**
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) — Securities and Exchange Commission
+- [Announcement of Board of Directors of the National Environmental Education Foundation](https://www.federalregister.gov/documents/2024/02/22/2024-03531/announcement-of-board-of-directors-of-the-national-environmental-education-foundation) (2024-02-22) — Environmental Protection Agency
+- [California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision](https://www.federalregister.gov/documents/2023/10/20/2023-23261/california-state-nonroad-engine-pollution-control-standards-ocean-going-vessels-at-berth-notice-of) (2023-10-20) — Environmental Protection Agency
+- [Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Framework Adjustment 17 to the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan, and Framework Adjustment 6 to the Bluefish Fishery Management Plan](https://www.federalregister.gov/documents/2023/03/09/2023-04588/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern) (2023-03-09) — Commerce Department
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2022/04/11/2022-06342/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2022-04-11) — Securities and Exchange Commission
+- [Announcement of the Board of Directors for the National Environmental Education Foundation](https://www.federalregister.gov/documents/2019/05/21/2019-10569/announcement-of-the-board-of-directors-for-the-national-environmental-education-foundation) (2019-05-21) — Environmental Protection Agency
+- ... and 81 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Ocean%20Conservancy%22) (Tier 1)
+<!-- auto:federal-register end -->

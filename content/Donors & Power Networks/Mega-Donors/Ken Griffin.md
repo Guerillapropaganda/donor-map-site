@@ -2,7 +2,7 @@
 title: "Ken Griffin"
 type: donor
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -10,6 +10,19 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Ron DeSantis"
 total-political-spend: "$34,008,251"
+court-cases: 100
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Eleventh Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, D. Maryland"
+  - "District Court, D. Massachusetts"
+  - "District Court, N.D. Mississippi"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, C.D. California"
+  - "United States Bankruptcy Court, N.D. Alabama"
+  - "United States Bankruptcy Court, N.D. Texas"
 ---
 
 #ken-griffin #citadel #hedge-fund #mega-donor #republican #Trump #DeSantis #libertarian
@@ -123,3 +136,22 @@ content-readiness:: ready
 | THE SENTINEL ACTION FUND | $4.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 100 |
+| Courts | Court of Appeals for the Eleventh Circuit, District Court, D. Delaware, District Court, D. Maryland, District Court, D. Massachusetts, District Court, N.D. Mississippi, District Court, S.D. Florida, District Court, S.D. New York, United States Bankruptcy Court, C.D. California +2 more |
+| Case Types | 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy); 13 Recovery of money/property - 548 fraudulent transfer, 320 Assault Libel & Slander, 850 Securities/Commodities, 890 Other Statutory Actions |
+
+**Notable cases:**
+- Genius Group Limited v. Citadel Securities LLC (2025) — District Court, S.D. New York
+- Seidel, Trustee v. Winston & Strawn LLP (2025) — United States Bankruptcy Court, N.D. Texas
+- Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
+- President and Fellows of Harvard College v. United States Department of Homeland Security (2025) — District Court, D. Massachusetts
+- President and Fellows of Harvard College v. US Department of Health and Human Services (2025) — District Court, D. Massachusetts
+- American Association of University Professors - Harvard Faculty Chapter v. United States Department Of Justice (2025) — District Court, D. Massachusetts
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ken%20Griffin%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

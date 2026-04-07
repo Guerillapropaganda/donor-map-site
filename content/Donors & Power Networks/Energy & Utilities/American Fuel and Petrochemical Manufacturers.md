@@ -2,7 +2,7 @@
 title: "American Fuel and Petrochemical Manufacturers"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -10,9 +10,15 @@ entity-type: "Corporation"
 issues:
   - "Energy & Climate"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "IRAN-EO13846"
+ein: 530115970
+annual-revenue: "$60.8M"
+net-assets: "$74.5M"
+tax-year: "2023"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #donor #energy #fossil-fuel #trade-association #lobbying #republican-lean #climate-obstruction #class-analysis #follow-the-money
@@ -128,3 +134,36 @@ content-readiness:: draft
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $60.8M |
+| Total Contributions | $0 |
+| Program Service Revenue | $59.9M |
+| Investment Income | $1.5M |
+| Total Expenses | $43.8M |
+| Net Assets | $74.5M |
+| Officer Compensation | $7.3M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 530115970](https://projects.propublica.org/nonprofits/organizations/530115970) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=American%20Fuel%20and%20Petrochemical%20Manufacturers) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

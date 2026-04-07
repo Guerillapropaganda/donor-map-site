@@ -2,13 +2,23 @@
 title: "Chevron"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
+court-cases: 44045
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Wisconsin"
+  - "District Court, S.D. Illinois"
+  - "District Court, S.D. Indiana"
+  - "District Court, S.D. Texas"
+  - "District Court, W.D. Michigan"
+  - "District Court, W.D. Washington"
 ---
 
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund
@@ -215,3 +225,22 @@ content-readiness:: developed
 | SLF PAC | $1.5M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 44,045 |
+| Courts | District Court, District of Columbia, District Court, E.D. Wisconsin, District Court, S.D. Illinois, District Court, S.D. Indiana, District Court, S.D. Texas, District Court, W.D. Michigan, District Court, W.D. Washington |
+| Case Types | 151 Contract: Recovery Medicare, 365 Personal Inj. Prod. Liability, 440 Civil Rights: Other, 446 Civil Rights: Americans with Disabilities - Other, 899 Administrative Procedure Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Brown v. Syngenta AG (2026) — District Court, S.D. Illinois
+- HEALTHY GULF v. BURGUM (2026) — District Court, District of Columbia
+- Cox v. Syngenta Crop Protection, LLC (2026) — District Court, S.D. Illinois
+- Wade v. Syngenta Crop Protection, LLC (2026) — District Court, S.D. Illinois
+- Moses v. Syngenta AG (2026) — District Court, S.D. Illinois
+- Clark v. Syngenta AG (2026) — District Court, S.D. Illinois
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Chevron%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

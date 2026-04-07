@@ -68,5 +68,5 @@ content-readiness:: ready
 
 - [[Kyrsten Sinema]] — lobbying: $1.0M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->

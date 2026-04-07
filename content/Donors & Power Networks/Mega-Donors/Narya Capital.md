@@ -2,7 +2,7 @@
 title: "Narya Capital"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -13,6 +13,33 @@ politicians-funded:
 issues:
   - "Technology"
   - "Defense & Military"
+sec-filings: 63
+sec-form-types:
+  - "10-K"
+  - "144"
+  - "4"
+  - "424B3"
+  - "425"
+  - "8-K"
+  - "8-K/A"
+  - "D"
+  - "DEF 14A"
+  - "EX-10.1"
+  - "EX-10.3"
+  - "EX-10.5"
+  - "EX-2.1"
+  - "EX-3"
+  - "EX-4.2"
+  - "EX-4.3"
+  - "EX-99.1"
+  - "EX-99.3"
+  - "FWP"
+  - "POS AM"
+  - "PRE 14A"
+  - "S-1"
+  - "S-1/A"
+  - "S-4"
+  - "S-4/A"
 ---
 
 #narya-capital #jd-vance #venture-capital #thiel #tech #ohio #appalachia #defense #carried-interest #conflict-of-interest
@@ -134,3 +161,21 @@ The analytical pattern is **Revolving Door** plus **Donor-Class Override** in co
 
 research-status:: developed — Core financial structure, portfolio companies, and political ROI sourced to Tier 1–2. AppHarvest labor abuse documented via CNN (Tier 2). True Anomaly defense conflict sourced via Sludge (Tier 2). Carried interest conflict via Jacobin (Tier 3 — uses public filings). Thiel $15M PAC figure confirmed via Axios/TechCrunch. All URLs Chrome-verified March 26, 2026. Gaps: Vance's exact Narya equity percentage not in public record; individual portfolio company DoD contract dollar amounts require procurement database check. Protect Ohio Values PAC primary FEC record not yet pulled. Promote to ready requires: FEC primary source for Thiel $15M PAC figure, DoD contract figures for True Anomaly if available.
 content-readiness:: developed
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 63 |
+| Form Types | 10-K, 144, 4, 424B3, 425, 8-K, 8-K/A, D +17 more |
+
+**Notable filings:**
+
+- 2021-02-01 — **4**: FORM 4 SUBMISSION
+- 2022-11-09 — **D**: D
+- 2020-01-08 — **D**: D
+- 2020-12-14 — **425**: 425
+- 2025-10-10 — **EX-4.2**: EXHIBIT 4.2
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Narya%20Capital%22) (Tier 1)
+<!-- auto:sec-edgar end -->

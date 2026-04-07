@@ -2,7 +2,7 @@
 title: "Citadel - Kenneth Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,6 +11,11 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Wall Street & Finance"
+ein: "362167797"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 285378654
+total-assets: 433034472
 ---
 
 #citadel #kenneth-griffin #hedge-fund #wall-street #mega-donor #market-making #florida #payment-for-order-flow #pfof #deregulation #class-analysis #follow-the-money
@@ -161,3 +166,28 @@ Griffin's political investment protects this arrangement from regulation. His $1
 
 content-readiness:: developed
 research-status:: developed — Expanded from 61 to 180+ lines. Core additions: Citadel Securities market share (40% retail equity volume), PFOF revenue data (Q1 2025: $388M payments, $2B EBITDA), full 2022 and 2024 cycle spending with specific PAC breakdowns, DeSantis relationship arc, Bessent-Treasury connection, Florida move analysis, temporal mapping 9 entries, 2 callout blocks, class analysis, 11 sourced citations Tier 1-3. Gaps: Griffin's private net worth breakdown by fund, 2026 federal donations not yet fully disclosed, specific PFOF regulatory lobbying disclosures.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 362167797 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $285.4M |
+| Total Assets | $433.0M |
+| NTEE Code | A570 |
+| IRS Ruling Date | 1938-04-01 |
+| Filings on Record | 12 |
+
+**Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
+
+**View 990 filings:**
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2019)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2018)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/362167797) (Tier 1)
+<!-- auto:nonprofit-990 end -->

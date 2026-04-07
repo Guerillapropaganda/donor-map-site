@@ -2,7 +2,7 @@
 title: "Sixteen Thirty Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -23,6 +23,10 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, M.D. Florida"
   - "District Court, S.D. Ohio"
+ein: 264486735
+annual-revenue: "$181.4M"
+net-assets: "$139.9M"
+tax-year: "2023"
 ---
 
 #donor-node #dark-money #democrat #arabella #fiscal-sponsorship #class-analysis #donor
@@ -208,3 +212,18 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sixteen%20Thirty%20Fund%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $181.4M |
+| Total Contributions | $176.7M |
+| Program Service Revenue | $16K |
+| Investment Income | $3.7M |
+| Total Expenses | $141.3M |
+| Net Assets | $139.9M |
+| Officer Compensation | $196K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 264486735](https://projects.propublica.org/nonprofits/organizations/264486735) (Tier 1)
+<!-- auto:propublica-990 end -->

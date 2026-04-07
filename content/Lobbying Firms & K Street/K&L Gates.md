@@ -2,12 +2,17 @@
 title: "K&L Gates"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 annual-revenue: "$20.8M (2025)"
 lobbyist-count: 44
 revolving-door-pct: "63.6%"
+ein: "387169824"
+nonprofit-status: "501(c)(9)"
+last-enriched: "2026-04-07"
+total-revenue: 3025110
+total-assets: 74501
 ---
 
 #lobbying #k-street #maritime #financial-services #energy #transportation #tech #steel #defense
@@ -216,3 +221,28 @@ The revolving door at K&L Gates is not especially lurid — there are no Haley B
 - [Utility Dive: US partners with Westinghouse, Cameco and Brookfield on $80B nuclear deployment (October 2025)](https://www.utilitydive.com/news/westinghouse-cameco-brookfield-nuclear/803999/) (Tier 2)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 387169824 |
+| Tax-Exempt Status | 501(c)(9) |
+| Total Revenue | $3.0M |
+| Total Assets | $75K |
+| NTEE Code | Y43 |
+| IRS Ruling Date | 2017-06-01 |
+| Filings on Record | 8 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/387169824) (Tier 1)
+<!-- auto:nonprofit-990 end -->

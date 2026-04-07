@@ -2,7 +2,7 @@
 title: "League of Conservation Voters"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -11,6 +11,36 @@ issues:
   - "Environment"
   - "Energy & Climate"
   - "Dark Money & Campaign Finance"
+court-cases: 189
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Alaska"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. New Jersey"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Washington"
+ein: 521733698
+nonprofit-status: "501(c)(4)"
+total-revenue: 162237362
+total-assets: 37128315
+annual-revenue: "$67.5M"
+net-assets: "$22.6M"
+tax-year: "2023"
+federal-register-mentions: 11
+regulatory-agencies:
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Election Commission"
+  - "Federal Energy Regulatory Commission"
+  - "Fish and Wildlife Service"
+  - "Interior Department"
+  - "National Park Service"
+  - "Presidio Trust"
 ---
 
 #donor #environment #climate #progressive #democratic #electoral #dark-money #501c4 #class-analysis #follow-the-money
@@ -108,3 +138,84 @@ content-readiness:: draft
 | GALLEGO FOR ARIZONA | $14.1K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 189 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Second Circuit, Court of Appeals for the Third Circuit, District Court, C.D. California, District Court, D. Alaska, District Court, D. Massachusetts, District Court, D. New Jersey +2 more |
+| Case Types | 441 Civil Rights: Voting, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- State of New York v. Trump (2026) — Court of Appeals for the First Circuit
+- American Public Health Association v. EPA (2026) — Court of Appeals for the D.C. Circuit
+- NY/NJ Baykeeper v. New Jersey Department of Environmental Protection (2026) — Court of Appeals for the Third Circuit
+- Natural Resources Defense Council Inc v. New Jersey Department of Environmental Protection (2026) — Court of Appeals for the Third Circuit
+- Renew Northeast v. United States Department of the Interior (2025) — District Court, D. Massachusetts
+- Natural Resources Defense Council, Inc. v. New Jersey Department of Environmental Protection (2025) — Court of Appeals for the Second Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22League%20of%20Conservation%20Voters%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 521733698 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $162.2M |
+| Total Assets | $37.1M |
+| NTEE Code | R01 |
+| IRS Ruling Date | 1991-12-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521733698) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $67.5M |
+| Total Contributions | $67.2M |
+| Program Service Revenue | $463K |
+| Investment Income | $96K |
+| Total Expenses | $65.8M |
+| Net Assets | $22.6M |
+| Officer Compensation | $388K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 521733698](https://projects.propublica.org/nonprofits/organizations/521733698) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 11 |
+| Rule | 5 |
+| Notice | 5 |
+| Proposed Rule | 1 |
+| Agencies | Energy Department, Environmental Protection Agency, Federal Election Commission, Federal Energy Regulatory Commission, Fish and Wildlife Service, Interior Department, National Park Service, Presidio Trust |
+
+**Recent regulatory activity:**
+- [Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.federalregister.gov/documents/2024/06/11/2024-10872/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation) (2024-06-11) — Energy Department
+- [Transcontinental Gas Pipe Line Company, LLC; Notice Granting Interventions](https://www.federalregister.gov/documents/2022/09/13/2022-19722/transcontinental-gas-pipe-line-company-llc-notice-granting-interventions) (2022-09-13) — Energy Department
+- [Consideration of Greenhouse Gas Emissions in Natural Gas Infrastructure Project Reviews](https://www.federalregister.gov/documents/2022/03/11/2022-04536/consideration-of-greenhouse-gas-emissions-in-natural-gas-infrastructure-project-reviews) (2022-03-11) — Energy Department
+- [Certification of New Interstate Natural Gas Facilities](https://www.federalregister.gov/documents/2022/03/01/2022-04148/certification-of-new-interstate-natural-gas-facilities) (2022-03-01) — Energy Department
+- [Endangered and Threatened Wildlife and Plants; Endangered Species Status for Rusty Patched Bumble Bee](https://www.federalregister.gov/documents/2017/01/11/2017-00195/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-rusty-patched-bumble-bee) (2017-01-11) — Interior Department
+- [Control of Emissions From New Marine Compression-Ignition Engines at or Above 30 Liters per Cylinder](https://www.federalregister.gov/documents/2010/04/30/2010-2534/control-of-emissions-from-new-marine-compression-ignition-engines-at-or-above-30-liters-per-cylinder) (2010-04-30) — Environmental Protection Agency ★
+- ... and 5 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22League%20of%20Conservation%20Voters%22) (Tier 1)
+<!-- auto:federal-register end -->

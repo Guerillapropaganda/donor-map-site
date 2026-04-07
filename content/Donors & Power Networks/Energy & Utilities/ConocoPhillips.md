@@ -2,7 +2,7 @@
 title: "ConocoPhillips"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -12,6 +12,41 @@ politicians-funded:
   - "Dan Sullivan"
 issues:
   - "Energy & Climate"
+sec-filings: 10000
+sec-form-types:
+  - "144"
+  - "4"
+  - "424B2"
+  - "424B3"
+  - "424B5"
+  - "425"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFM14A"
+  - "EX-1"
+  - "EX-1.1"
+  - "EX-10.1"
+  - "EX-10.2"
+  - "EX-10.3"
+  - "EX-10.5"
+  - "EX-2"
+  - "EX-2.1"
+  - "EX-21"
+  - "EX-5.1"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "POSASR"
+  - "PX14A6G"
+  - "S-3"
+  - "S-3/A"
+  - "S-3ASR"
+  - "S-4"
+  - "S-4/A"
+  - "S-8"
+  - "SCHEDULE 13G/A"
 ---
 
 #conocophillips #oil-gas #energy #alaska #willow #lobbying #revolving-door #cheney-energy-task-force
@@ -180,3 +215,23 @@ content-readiness:: developed
 | SLF PAC | $1.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 144, 4, 424B2, 424B3, 424B5, 425, 8-K, ARS +25 more |
+| CIK | 1163165 |
+| Ticker | COP |
+
+**Notable filings:**
+
+- 2026-03-31 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134713/0001193125-26-134713-index.htm)
+- 2026-03-31 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1163165/000195824426000183/0001958244-26-000183-index.htm)
+- 2026-03-31 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134453/0001193125-26-134453-index.htm)
+- 2026-03-30 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1163165/000110465926036395/0001104659-26-036395-index.htm)
+- 2026-03-30 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1163165/000110465926036377/0001104659-26-036377-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ConocoPhillips%22) (Tier 1)
+<!-- auto:sec-edgar end -->

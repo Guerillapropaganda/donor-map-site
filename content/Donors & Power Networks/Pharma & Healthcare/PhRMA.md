@@ -2,7 +2,7 @@
 title: "PhRMA - Pharmaceutical Research and Manufacturers of America"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Pharma & Healthcare"
@@ -14,6 +14,14 @@ politicians-funded:
 issues:
   - "Healthcare"
   - "Dark Money & Campaign Finance"
+ein: "530241211"
+nonprofit-status: "501(c)(6)"
+last-enriched: "2026-04-07"
+total-revenue: 524889625
+total-assets: 349012370
+federal-register-mentions: 1
+regulatory-agencies:
+  - "Health and Human Services Department"
 ---
 
 #donor #pharma #healthcare #lobbying #corporation #medicare-part-d #ira #patent-thicket #dark-money #trade-association
@@ -256,3 +264,41 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 ---
 
 content-readiness:: developed
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 530241211 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $524.9M |
+| Total Assets | $349.0M |
+| IRS Ruling Date | 1959-02-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530241211) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Proposed Rule | 1 |
+| Agencies | Health and Human Services Department |
+
+**Recent regulatory activity:**
+- [Clinical Trials Registration and Results Submission](https://www.federalregister.gov/documents/2014/11/21/2014-26197/clinical-trials-registration-and-results-submission) (2014-11-21) — Health and Human Services Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America%22) (Tier 1)
+<!-- auto:federal-register end -->

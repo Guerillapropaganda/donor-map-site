@@ -2,7 +2,7 @@
 title: "Las Vegas Sands"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Real Estate"
@@ -11,6 +11,7 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+federal-contracts: "7149"
 ---
 
 #sheldon-adelson #casino #megadonor #republican #single-family-donor
@@ -88,3 +89,27 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Las%20Vegas%20Sands) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 7149 |
+| Sample Value (top 25) | $60K |
+| Year Range | 2023-2023 |
+| Federal Agencies | 1 |
+
+**Contracting agencies:** DEPT OF DEFENSE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $2K | DEPT OF DEFENSE | 2023-03-17 |
+| $1K | DEPT OF DEFENSE | 2023-06-08 |
+| $1K | DEPT OF DEFENSE | 2023-05-19 |
+| $38 | DEPT OF DEFENSE | 2022-10-26 |
+| $32 | DEPT OF DEFENSE | 2023-04-13 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Las%20Vegas%20Sands&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

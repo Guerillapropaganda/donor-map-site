@@ -172,5 +172,5 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 
 - [[Clarence Thomas]] — contracts: $6K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->

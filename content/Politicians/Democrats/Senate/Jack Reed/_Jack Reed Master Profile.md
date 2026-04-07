@@ -2,7 +2,7 @@
 title: "Jack Reed"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -19,6 +19,7 @@ top-donors:
   - "Lockheed Martin"
   - "Boeing"
 stock-trades: 1
+fec-candidate-id: "P60023777"
 ---
 
 
@@ -182,3 +183,13 @@ content-readiness:: ready
 
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2036 |
+| Cash on Hand | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
+<!-- auto:fec-politician end -->

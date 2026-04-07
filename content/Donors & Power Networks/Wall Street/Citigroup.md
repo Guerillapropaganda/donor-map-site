@@ -2,7 +2,7 @@
 title: "Citigroup"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -12,6 +12,16 @@ politicians-funded:
   - "French Hill"
 issues:
   - "Wall Street & Finance"
+ein: 806098935
+annual-revenue: "$131K"
+net-assets: "$2.7M"
+tax-year: "2023"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
+top-federal-agency: "Department of Homeland Security"
+top-naics-code: "339113"
 ---
 
 #citigroup #wall-street #banking #too-big-to-fail #derivatives #lobbying #bailout
@@ -111,5 +121,75 @@ content-readiness:: ready
 
 - [[French Hill]] (Banking)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $131K |
+| Total Contributions | $0 |
+| Total Expenses | $191K |
+| Net Assets | $2.7M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 806098935](https://projects.propublica.org/nonprofits/organizations/806098935) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F806098935_202312_990PF_2025010222976934.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+| Top Federal Agency | Department of Homeland Security ($6.7M) |
+| Primary NAICS Sector | Surgical Appliance and Supplies Manufacturing |
+
+**Subcontractors receiving federal money from Citigroup:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to Citigroup:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Homeland Security | $6.7M |
+| Department of Health and Human Services | $1.9M |
+| Consumer Financial Protection Bureau | $724K |
+| Smithsonian Institution | $628K |
+| Federal Mine Safety and Health Review Commission | $321K |
+| Department of the Treasury | $190K |
+| Department of State | $160K |
+| Federal Labor Relations Authority | $120K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Surgical Appliance and Supplies Manufacturing (339113) | $5.4M |
+| Commercial Banking (522110) | $2.9M |
+| Industrial Supplies Merchant Wholesalers (423840) | $245K |
+| Office Supplies and Stationery Stores (453210) | $213K |
+| Software Publishers (511210) | $135K |
+| Internet Publishing and Broadcasting and Web Search Portals (519130) | $125K |
+| Security Systems Services (except Locksmiths) (561621) | $120K |
+| Miscellaneous Intermediation (523910) | $100K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Citigroup) (Tier 1)
+<!-- auto:usaspending-subawards end -->

@@ -2,11 +2,16 @@
 title: "Third Way"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c4
+ein: "201734070"
+nonprofit-status: "501(c)(4)"
+last-enriched: "2026-04-07"
+total-revenue: 60561784
+total-assets: 65953090
 ---
 
 #think-tank #centrist #wall-street #corporate-democrat #anti-progressive #class-analysis
@@ -201,3 +206,28 @@ The March 2026 "Winning the Middle" conference in Charleston makes the function 
 - [CounterPunch: The Return of Regressive Third Way Politics to the Democrats (March 2025)](https://www.counterpunch.org/2025/03/06/the-return-of-regressive-third-way-politics-to-the-democrats/) (Tier 2)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 201734070 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $60.6M |
+| Total Assets | $66.0M |
+| NTEE Code | R99 |
+| IRS Ruling Date | 2005-07-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201734070) (Tier 1)
+<!-- auto:nonprofit-990 end -->

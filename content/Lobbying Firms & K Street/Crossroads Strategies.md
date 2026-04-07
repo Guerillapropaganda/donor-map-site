@@ -2,12 +2,20 @@
 title: "Crossroads Strategies"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 annual-revenue: "$28.3M (2025)"
 lobbyist-count: 26
 revolving-door-pct: "76.9%"
+court-cases: 9
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, S.D. New York"
 ---
 
 #lobbying #k-street #bipartisan #defense #energy #tech #financial-services #class-analysis
@@ -208,3 +216,22 @@ The 76.9% revolving door rate is the business model expressed as a statistic. Mo
 - [Washington Examiner: Inside TikTok's army of lobbyists of ex-senators, congressmen, and staffers](https://www.washingtonexaminer.com/news/1779002/inside-tiktoks-army-of-lobbyists-of-ex-senators-congressmen-and-staffers/) (Tier 2)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 9 |
+| Courts | District Court, District of Columbia, District Court, E.D. Virginia, District Court, N.D. California, United States Bankruptcy Court, D. Delaware, United States Bankruptcy Court, S.D. New York |
+| Case Types | 365 Personal Inj. Prod. Liability, 840 Trademark, 895 Freedom of Information Act |
+
+**Notable cases:**
+- 2U, Inc. (2024) — United States Bankruptcy Court, S.D. New York
+- BLOOMBERG L.P. v. U.S. DEPARTMENT OF ARMY (2023) — District Court, District of Columbia
+- BLOOMBERG L.P. v. U.S. DEPARTMENT OF COMMERCE (2023) — District Court, District of Columbia
+- IN RE: SOCIAL MEDIA ADOLESCENT ADDICTION/PERSONAL INJURY PRODUCTS LIABILITY LITIGATION (2022) — District Court, N.D. California
+- Cooke v. CT Corporation/Jack Kent Cooke Foundation (2021) — District Court, E.D. Virginia
+- Restoration Action, Inc. v. Center for American Restoration, Inc (2021) — District Court, E.D. Virginia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Crossroads%20Strategies%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

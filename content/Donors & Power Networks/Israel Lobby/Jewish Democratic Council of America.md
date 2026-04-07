@@ -2,7 +2,7 @@
 title: "Jewish Democratic Council of America"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Israel Lobby"

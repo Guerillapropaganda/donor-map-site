@@ -2,7 +2,7 @@
 title: "JPMorgan Chase"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -34,6 +34,10 @@ sec-form-types:
   - "POSASR"
   - "S-4"
   - "SC 13D/A"
+ein: 237049738
+annual-revenue: "$155.8M"
+net-assets: "$442.1M"
+tax-year: "2023"
 ---
 
 #megabank #wall-street #jamie-dimon #bipartisan #financial-deregulation #revolving-door #too-big-to-fail #both-sides
@@ -219,7 +223,7 @@ content-readiness:: developed
 - [[John Boehner]] (Finance) — lobbying: $9.8M
 - [[Paul Ryan]] (Finance) — lobbying: $9.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity
@@ -241,3 +245,16 @@ content-readiness:: developed
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22JPMorgan%20Chase%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $155.8M |
+| Total Contributions | $0 |
+| Total Expenses | $195.0M |
+| Net Assets | $442.1M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 237049738](https://projects.propublica.org/nonprofits/organizations/237049738) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F237049738_202312_990PF_2024112522922928.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

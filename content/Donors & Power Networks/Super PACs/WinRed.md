@@ -2,7 +2,7 @@
 title: "WinRed"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -13,6 +13,10 @@ ein: 451839927
 annual-revenue: "$44K"
 net-assets: "$41K"
 tax-year: "2016"
+federal-register-mentions: 1
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Federal Election Commission"
 ---
 
 #winred #republican #fundraising #small-dollar #dark-patterns #online
@@ -65,3 +69,17 @@ The Trump campaign's $122 million in refunds represents only the donors who succ
 - [Ballotpedia: WinRed](https://ballotpedia.org/WinRed) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Proposed Rule | 1 |
+| Agencies | Federal Election Commission |
+
+**Recent regulatory activity:**
+- [Rulemaking Petition: Conduit Reporting Threshold](https://www.federalregister.gov/documents/2022/10/28/2022-23362/rulemaking-petition-conduit-reporting-threshold) (2022-10-28) — Federal Election Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22WinRed%22) (Tier 1)
+<!-- auto:federal-register end -->

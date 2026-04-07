@@ -2,14 +2,20 @@
 title: "Everytown for Gun Safety"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Gavin Newsom"
-  - "Kamala Harris"
+  - "Hakeem Jeffries"
+total-political-spend: "$39,062,644"
+federal-register-mentions: 4
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+  - "Justice Department"
+  - "Personnel Management Office"
 ---
 
 
@@ -97,3 +103,46 @@ content-readiness:: ready
 | DEVELOPMENT NOW FOR CHICAGO | $250.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $39,062,644 |
+| Contributions | 443 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND) | $35,270,598 | — |
+| SMP | $1,729,500 | — |
+| DEVELOPMENT NOW FOR CHICAGO | $250,000 | DEM |
+| THE GOOD LAND COMMITTEE, INC. | $250,000 | DEM |
+| DLGA PAC | $200,000 | — |
+| ROLLING SEA ACTION FUND | $131,000 | — |
+| HMP | $125,000 | — |
+| BOLD AMERICA | $104,000 | — |
+| HOUSE MAJORITY PAC | $102,250 | — |
+| WITH HONOR FUND II, INC. | $100,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Everytown%20for%20Gun%20Safety) (Tier 1)
+<!-- auto:fec-donor end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4 |
+| Rule | 3 |
+| Proposed Rule | 1 |
+| Agencies | Alcohol, Tobacco, Firearms, and Explosives Bureau, Justice Department, Personnel Management Office |
+
+**Recent regulatory activity:**
+- [Improving Performance, Accountability and Responsiveness in the Civil Service](https://www.federalregister.gov/documents/2026/02/06/2026-02375/improving-performance-accountability-and-responsiveness-in-the-civil-service) (2026-02-06) — Personnel Management Office ★
+- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (2024-04-19) — Justice Department ★
+- [Definition of “Frame or Receiver” and Identification of Firearms](https://www.federalregister.gov/documents/2022/04/26/2022-08026/definition-of-frame-or-receiver-and-identification-of-firearms) (2022-04-26) — Justice Department ★
+- [Definition of “Frame or Receiver” and Identification of Firearms](https://www.federalregister.gov/documents/2021/05/21/2021-10058/definition-of-frame-or-receiver-and-identification-of-firearms) (2021-05-21) — Justice Department ★
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Everytown%20for%20Gun%20Safety%22) (Tier 1)
+<!-- auto:federal-register end -->

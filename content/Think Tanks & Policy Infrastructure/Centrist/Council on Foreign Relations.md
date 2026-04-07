@@ -2,11 +2,23 @@
 title: "Council on Foreign Relations"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
+court-cases: 777
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Minnesota"
+  - "District Court, D. South Carolina"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. New York"
+  - "District Court, M.D. North Carolina"
+  - "District Court, N.D. California"
+  - "United States Court of International Trade"
 ---
 
 #think-tank #centrist #foreign-policy #defense #wall-street #revolving-door #idea-laundering #bipartisan-credibility-shield
@@ -219,3 +231,22 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 - [UPI: Hegseth Cuts Military Ties with Ivy League Schools, Multiple Think Tanks (March 2026)](https://www.upi.com/Top_News/US/2026/03/01/dod-ends-relationships-ivy-league/5671772385928/) (Tier 2)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 777 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, D. Massachusetts, District Court, D. Minnesota, District Court, D. South Carolina, District Court, E.D. Michigan, District Court, E.D. New York, District Court, M.D. North Carolina, District Court, N.D. California +1 more |
+| Case Types | 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- African Communities Together v. Noem (2026) — District Court, D. Massachusetts
+- Burlap and Barrel, Inc. v. Trump (2026) — United States Court of International Trade
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+- Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
+- Harbourview Products International, LLC v. United States of America (2026) — United States Court of International Trade
+- The State of Oregon v. Trump (2026) — United States Court of International Trade
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Council%20on%20Foreign%20Relations%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -2,7 +2,7 @@
 title: "UnitedHealth Group - Optum"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -11,6 +11,25 @@ politicians-funded:
   - "Gavin Newsom"
 lobbying-spend: 25055000
 lobbying-filings: 55
+sec-filings: 52
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "4"
+  - "424B4"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "DRS/A"
+  - "EX-10.11"
+  - "EX-10.31"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "PART II AND III"
+  - "S-1"
+  - "S-1/A"
+  - "SCHEDULE 13G/A"
 ---
 
 
@@ -162,5 +181,25 @@ content-readiness:: ready
 - [[Nancy Pelosi]] — lobbying: $25.1M
 - [[Joe Biden]] — lobbying: $25.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 52 |
+| Form Types | 10-K, 10-K/A, 4, 424B4, 8-K, DEF 14A, DEFA14A, DFAN14A +9 more |
+| CIK | 731766 |
+| Ticker | UNH |
+
+**Notable filings:**
+
+- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000119/0000731766-26-000119-index.htm)
+- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000118/0000731766-26-000118-index.htm)
+- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000117/0000731766-26-000117-index.htm)
+- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000116/0000731766-26-000116-index.htm)
+- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000115/0000731766-26-000115-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UnitedHealth%20Group%20-%20Optum%22) (Tier 1)
+<!-- auto:sec-edgar end -->

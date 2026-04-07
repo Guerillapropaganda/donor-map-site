@@ -2,7 +2,7 @@
 title: "Airbnb"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -15,6 +15,10 @@ federal-grants-count: 0
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-06"
+ein: 833135259
+annual-revenue: "$18.6M"
+net-assets: "$19.4M"
+tax-year: "2023"
 ---
 
 #airbnb #gig-economy #housing #short-term-rental #lobbying #zoning #tourism
@@ -101,3 +105,16 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Airbnb) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $18.6M |
+| Total Contributions | $18.4M |
+| Investment Income | $196K |
+| Total Expenses | $14.0M |
+| Net Assets | $19.4M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 833135259](https://projects.propublica.org/nonprofits/organizations/833135259) (Tier 1)
+<!-- auto:propublica-990 end -->

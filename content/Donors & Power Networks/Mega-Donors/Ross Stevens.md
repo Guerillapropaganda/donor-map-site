@@ -2,7 +2,7 @@
 title: "Ross Stevens"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -27,6 +27,24 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+sec-filings: 1666
+sec-form-types:
+  - "EX-99"
+  - "EX-99.(16)"
+  - "EX-99.(K)(3)"
+  - "EX-99.(K)(4)"
+  - "EX-99.(K)(5)"
+  - "EX-99.(Q)"
+  - "EX-99.(Q)(2)"
+  - "EX-99.(S)"
+  - "EX-99.(T)"
+  - "EX-99.12 TAX OPINION"
+  - "EX-99.16"
+  - "EX-99.CERT"
+  - "LETTER"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "TEXT-EXTRACT"
 ---
 
 #ross-stevens #stone-ridge #crypto #bitcoin #nydig #mega-donor #wall-street #club-for-growth #ramaswamy #pro-israel
@@ -204,3 +222,21 @@ content-readiness:: developed
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Ross%20Stevens) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,666 |
+| Form Types | EX-99, EX-99.(16), EX-99.(K)(3), EX-99.(K)(4), EX-99.(K)(5), EX-99.(Q), EX-99.(Q)(2), EX-99.(S) +8 more |
+
+**Notable filings:**
+
+- 2021-01-27 — **SC 13G**: SC 13G
+- 2020-02-07 — **SC 13G**: SC 13G
+- 2021-01-27 — **SC 13G/A**: SC 13G/A
+- 2022-01-13 — **SC 13G/A**: STONE RIDGE TRUST V
+- 2022-10-07 — **LETTER**: LETTER
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ross%20Stevens%22) (Tier 1)
+<!-- auto:sec-edgar end -->

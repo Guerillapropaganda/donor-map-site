@@ -2,11 +2,12 @@
 title: "L3 Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Corporation"
+federal-contracts: "442675"
 ---
 
 #defense-contractor #surveillance-technology #military-intelligence #l3harris-merger #weapons-systems
@@ -63,3 +64,27 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 | NRSC | $105.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 442675 |
+| Sample Value (top 25) | $511.8M |
+| Year Range | 2017-2026 |
+| Federal Agencies | 1 |
+
+**Contracting agencies:** DEPT OF DEFENSE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $8.2M | DEPT OF DEFENSE | 2025-09-24 |
+| $74K | DEPT OF DEFENSE | 2025-10-23 |
+| $11K | DEPT OF DEFENSE | 2025-10-07 |
+| $0 | DEPT OF DEFENSE | 2025-06-18 |
+| $0 | DEPT OF DEFENSE | 2025-10-22 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=L3%20Technologies&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

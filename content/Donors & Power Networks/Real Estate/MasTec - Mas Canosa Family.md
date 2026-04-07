@@ -2,7 +2,7 @@
 title: "MasTec - Mas Canosa Family"
 type: corporation
 content-readiness: developed
-last-updated: 2026-03-31
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Real Estate"
@@ -13,6 +13,9 @@ politicians-funded:
 issues:
   - "Infrastructure"
   - "Housing"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-07"
 ---
 
 #donor #corporation #infrastructure #construction #cuba #exile #telecom #energy #real-estate #class-analysis #follow-the-money
@@ -91,3 +94,21 @@ The Mas Canosa family represents the structural intersection of exile politics a
 
 research-status:: developed — Core profile built with verified sources. Gaps: FEC individual contribution data for Mas family members (API DATA PENDING), full OpenSecrets org ID verification needed, CANF political spending totals need historical research, MasTec government contracts via USASpending API (API DATA PENDING).
 content-readiness:: developed
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=MasTec%20-%20Mas%20Canosa%20Family) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

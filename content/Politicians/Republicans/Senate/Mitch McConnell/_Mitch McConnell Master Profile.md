@@ -2,7 +2,7 @@
 title: "Mitch McConnell Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 career-total: "$47M"
 parent: null
@@ -24,6 +24,8 @@ bills-sponsored: 12
 bills-cosponsored: 52
 website: "https://www.mcconnell.senate.gov"
 phone: "202-224-2541"
+total-received: "$7,816,890"
+fec-candidate-id: "S2KY00012"
 ---
 
 
@@ -220,5 +222,40 @@ profile-status:: ready — Dark money gatekeeper role documented ($3B+ coordinat
 
 - [[Timothy Mellon]] — $1.9M lobbying spend (Banking, Energy/Nuclear, Financial Institutions/Investments/Securities)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $7,816,890 |
+| Individual Contributions | $4,642,681 |
+| PAC Contributions | $760,552 |
+| Cash on Hand | 7279082.63 |
+| IE Support (Super PAC) | $5,886,318 |
+| IE Opposition (Super PAC) | $26,988,474 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $7,816,890 | $4,642,681 | $760,552 |
+| 2020 | $73,952,187 | $33,964,912 | $4,931,731 |
+| 2014 | $30,850,825 | $17,677,038 | $6,437,809 |
+| 2008 | $22,940,153 | $11,242,360 | $4,945,029 |
+| 2002 | $5,986,486 | $0 | $1,334,670 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SENATE MAJORITY PAC | $0 | $10,525,896 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $0 | $6,940,160 |
+| NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $3,343,000 | $0 |
+| DITCH FUND | $0 | $3,114,757 |
+| SAVE AMERICA FUND | $0 | $3,098,840 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2KY00012/) (Tier 1)
+<!-- auto:fec-politician end -->

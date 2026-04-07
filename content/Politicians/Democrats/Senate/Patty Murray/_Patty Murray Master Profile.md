@@ -173,7 +173,7 @@ content-readiness:: ready
 
 - [[Defense Industry Bloc]] — $2.0M lobbying spend (Aerospace, Animals, Aviation/Airlines/Airports)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
 
 ### Congressional Stock Trades (STOCK Act)

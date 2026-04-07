@@ -2,7 +2,7 @@
 title: "Apple"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -16,6 +16,12 @@ ein: 870911755
 annual-revenue: "$8.9M"
 net-assets: "$61.9M"
 tax-year: "2023"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
+top-federal-agency: "Department of Defense"
+top-naics-code: "541330"
 ---
 
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy
@@ -149,5 +155,62 @@ content-readiness:: ready
 - [[Barack Obama]] — lobbying: $29.2M
 - [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $29.2M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+| Top Federal Agency | Department of Defense ($74.5M) |
+| Primary NAICS Sector | Engineering Services |
+
+**Subcontractors receiving federal money from Apple:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to Apple:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $74.5M |
+| Department of Homeland Security | $41.0M |
+| Department of Agriculture | $23.3M |
+| Department of Justice | $6.0M |
+| Department of Veterans Affairs | $3.6M |
+| Department of Commerce | $2.9M |
+| Department of the Interior | $1.2M |
+| General Services Administration | $813K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Engineering Services (541330) | $48.2M |
+| Overhead Traveling Crane, Hoist, and Monorail System Manufacturing (333923) | $36.4M |
+| Fruit and Vegetable Canning (311421) | $18.5M |
+| Commercial and Institutional Building Construction (236220) | $9.5M |
+| Hotels (except Casino Hotels) and Motels (721110) | $6.4M |
+| Perishable Prepared Food Manufacturing (311991) | $4.6M |
+| Ship Building and Repairing (336611) | $2.9M |
+| Construction Machinery Manufacturing (333120) | $2.2M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Apple) (Tier 1)
+<!-- auto:usaspending-subawards end -->

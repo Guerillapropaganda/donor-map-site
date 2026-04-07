@@ -2,7 +2,7 @@
 title: "George Soros"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -25,6 +25,10 @@ court-jurisdictions:
   - "District Court, M.D. Louisiana"
   - "District Court, N.D. Georgia"
   - "District Court, N.D. Illinois"
+ein: 830650656
+annual-revenue: "$1"
+net-assets: "$1K"
+tax-year: "2023"
 ---
 
 #donor #billionaire #democratic #progressive #dark-money #open-society
@@ -157,3 +161,15 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22George%20Soros%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1 |
+| Total Contributions | $0 |
+| Total Expenses | $906 |
+| Net Assets | $1K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 830650656](https://projects.propublica.org/nonprofits/organizations/830650656) (Tier 1)
+<!-- auto:propublica-990 end -->

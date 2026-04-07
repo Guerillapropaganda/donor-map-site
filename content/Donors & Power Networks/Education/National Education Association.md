@@ -2,13 +2,14 @@
 title: "National Education Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Education"
 entity-type: "Individual Donor"
 issues:
   - "Education"
+total-political-spend: "$85,137,027"
 ---
 
 #nea #education #union #teachers #democratic #vouchers #charter #political-spending
@@ -63,3 +64,28 @@ content-readiness:: ready
 | DEVELOPMENT NOW FOR CHICAGO | $1.4M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $85,137,027 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| NEA ADVOCACY FUND | $73,175,000 | — |
+| THE GOOD LAND COMMITTEE, INC. | $4,285,594 | DEM |
+| DEVELOPMENT NOW FOR CHICAGO | $1,375,000 | DEM |
+| FAIR FIGHT | $1,025,000 | — |
+| AMERICAN BRIDGE 21ST CENTURY | $905,000 | — |
+| PHILADELPHIA 2016 HOST COMMITTEE | $510,000 | DEM |
+| AB PAC | $300,000 | — |
+| PRIORITIES USA ACTION | $250,000 | — |
+| PRESIDENTIAL INAUGURAL COMMITTEE 2013 | $250,000 | — |
+| COMMITTEE FOR CHARLOTTE/CHARLOTTE DNC HOST COMMITTEE | $250,000 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Education%20Association) (Tier 1)
+<!-- auto:fec-donor end -->

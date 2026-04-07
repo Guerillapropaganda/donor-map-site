@@ -2,7 +2,7 @@
 title: "Roger Williams"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,8 @@ state-abbr: "TX"
 district: "25"
 committees:
   - "Small Business"
+total-received: "$989,055"
+fec-candidate-id: "H2TX33040"
 ---
 
 
@@ -153,3 +155,38 @@ This is the Self-Funding as Independence pattern in its purest form, inverted: W
 - [Wikipedia: Roger Williams (Texas politician)](https://en.wikipedia.org/wiki/Roger_Williams_%28Texas_politician%29) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $989,055 |
+| Individual Contributions | $43,929 |
+| PAC Contributions | $277,478 |
+| Cash on Hand | 869845.44 |
+| IE Support (Super PAC) | $16,099 |
+| IE Opposition (Super PAC) | $10,402 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $989,055 | $43,929 | $277,478 |
+| 2024 | $1,916,400 | $240,925 | $599,555 |
+| 2022 | $1,788,358 | $526,620 | $521,240 |
+| 2020 | $2,446,005 | $574,050 | $891,297 |
+| 2018 | $1,651,610 | $306,895 | $548,207 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $10,128 | $0 |
+| ACTIVATE AMERICA | $0 | $4,333 |
+| FLIP THE WEST | $0 | $4,333 |
+| COMMITTEE FOR DEFENDING AMERICAN VALUES | $1,715 | $0 |
+| ZB, N.A. DBA AMEGY BANK PAC | $1,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1)
+<!-- auto:fec-politician end -->

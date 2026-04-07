@@ -2,7 +2,7 @@
 title: "Western States Petroleum Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -11,6 +11,29 @@ politicians-funded:
   - "Gavin Newsom"
 lobbying-spend: 5300420
 lobbying-filings: 105
+sec-filings: 179
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "10KSB"
+  - "10KSB/A"
+  - "424B3"
+  - "8-K"
+  - "DEF 14A"
+  - "EX-10.1"
+  - "EX-99"
+  - "EX-99.01"
+  - "EX-99.1"
+  - "MA-I"
+  - "MA-I/A"
+  - "PRE 14A"
+  - "PREC14A"
+  - "PRER14A"
+  - "PX14A6G"
+  - "SB-2"
+  - "SB-2/A"
+  - "SC 14F1"
 ---
 
 
@@ -130,5 +153,23 @@ content-readiness:: ready
 
 - [[Gavin Newsom]] — lobbying: $5.3M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 179 |
+| Form Types | 10-K, 10-K/A, 10-Q, 10KSB, 10KSB/A, 424B3, 8-K, DEF 14A +13 more |
+
+**Notable filings:**
+
+- 2021-05-03 — **PX14A6G**: PX14A6G
+- 2021-04-29 — **PX14A6G**: PX14A6G
+- 2019-05-29 — **MA-I**: MA-I
+- 2019-10-02 — **MA-I/A**: MA-I/A
+- 2025-07-24 — **MA-I/A**: MA-I/A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20States%20Petroleum%20Association%22) (Tier 1)
+<!-- auto:sec-edgar end -->

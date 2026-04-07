@@ -2,7 +2,7 @@
 title: "Freedom Partners Chamber of Commerce"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -20,6 +20,8 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+lobbying-spend: 2076000
+lobbying-filings: 84
 ---
 
 #donor #dark-money #koch-network #501c6 #conservative #class-analysis #follow-the-money
@@ -160,3 +162,22 @@ content-readiness:: draft
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Freedom%20Partners%20Chamber%20of%20Commerce) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.1M |
+| Quarterly Filings | 84 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 26 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Animals, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Computer Industry, Constitution, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Housing, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Media (information/publishing), Medicare/Medicaid, Natural Resources, Railroads, Real Estate/Land Use/Conservation, Religion, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Torts, Trade (domestic/foreign), Veterans
+
+**Lobbying firms:** ALLIANCE DEFENDING FREEDOM, AMBESSA SOLUTIONS LLC, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BLUE MARBLE STRATEGY LLC, BOSE PUBLIC AFFAIRS GROUP, CASSIDY & ASSOCIATES, INC., CENTER FOR FREEDOM AND PROSPERITY, CENTER FOR INDIVIDUAL FREEDOM, CHARTWELL STRATEGY GROUP LLC, COZEN O'CONNOR PUBLIC STRATEGIES, ENERGY FREEDOM FUND, FREEDOM FROM RELIGION FOUNDATION, G2G CONSULTING, GREENBERG TRAURIG, LLP, KEEFE STRATEGIES LLC (FKA KEEFE SINGISER PARTNERS), MAYER BROWN LLP, MERCURY PUBLIC AFFAIRS, LLC, MR. THOMAS MARQUEZ, REPRODUCTIVE FREEDOM FOR ALL, RICH FEUER ANDERSON, SCHAERR JAFFE LLP, SCHOENING STRATEGIES, SQUIRE PATTON BOGGS, THE POLICY AGENCY, LLC, FORMERLY ANNE SMITH, TROUTMAN STATEGIES, TSG ADVOCATES DC, LLC
+
+**Agencies contacted:** Bureau of Land Management (BLM), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Education, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Deposit Insurance Corporation (FDIC), Federal Reserve System, Federal Trade Commission (FTC) +24 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Freedom%20Partners%20Chamber%20of%20Commerce) (Tier 1)
+<!-- auto:lda-lobbying end -->

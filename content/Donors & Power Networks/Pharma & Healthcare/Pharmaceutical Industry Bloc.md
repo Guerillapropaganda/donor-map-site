@@ -2,7 +2,7 @@
 title: "Pharmaceutical Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -10,6 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Healthcare"
   - "Social Safety Net"
+federal-contracts: "5976"
 ---
 
 #pharma #industry-bloc #lobbying #drug-pricing #patent #medicare #aca
@@ -66,3 +67,27 @@ Medicare covers 4,000+ drugs. Negotiation on 10-20 drugs leaves 99%+ of the drug
 - [OpenSecrets: Pharmaceutical industry lobbying totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 content-readiness:: ready
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 5976 |
+| Sample Value (top 25) | $502K |
+| Year Range | 2004-2026 |
+| Federal Agencies | 3 |
+
+**Contracting agencies:** COMMERCE, DEPARTMENT OF, JUSTICE, DEPARTMENT OF, VETERANS AFFAIRS, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $117K | COMMERCE, DEPARTMENT OF | 2016-04-18 |
+| $7K | COMMERCE, DEPARTMENT OF | 2016-08-02 |
+| $3K | COMMERCE, DEPARTMENT OF | 2015-02-19 |
+| $0 | COMMERCE, DEPARTMENT OF | 2018-08-02 |
+| $0 | COMMERCE, DEPARTMENT OF | 2020-08-30 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Pharmaceutical%20Industry%20Bloc&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

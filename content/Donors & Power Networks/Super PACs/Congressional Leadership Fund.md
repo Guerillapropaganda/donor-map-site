@@ -2,13 +2,25 @@
 title: "Congressional Leadership Fund"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 26
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, D. Maine"
+  - "District Court, D. Utah"
+  - "District Court, N.D. Florida"
+  - "District Court, N.D. Texas"
+  - "United States Bankruptcy Court, D. Delaware"
+ein: "852656340"
+nonprofit-status: "501(c)(4)"
+total-revenue: 9647510
+total-assets: 714325
 ---
 
 #donor-node #super-pac #republican #house #leadership-pac #dark-money #american-action-network #class-analysis #follow-the-money
@@ -206,3 +218,45 @@ content-readiness:: developed
 | WINRED | $8.3K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 26 |
+| Courts | District Court, D. Maine, District Court, D. Utah, District Court, N.D. Florida, District Court, N.D. Texas, United States Bankruptcy Court, D. Delaware |
+| Case Types | 11 Recovery of money/property - 542 turnover of property, 11 Recovery of money/property - 542 turnover of property; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 12 Recovery of money/property - 547 preference; 13 Recovery of money/property - 548 fraudulent transfer; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other, 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy) |
+
+**Notable cases:**
+- Johnson v. Republican National Committee (2025) — District Court, D. Utah
+- DINNER TABLE ACTION v. SCHNEIDER (2024) — District Court, D. Maine
+- FTX Recovery Trust v. Manifold Markets, Inc. (2024) — United States Bankruptcy Court, D. Delaware
+- FTX Recovery Trust v. Matthew Nass (2024) — United States Bankruptcy Court, D. Delaware
+- FTX Recovery Trust v. Prosperity Alliance, Inc. (2024) — United States Bankruptcy Court, D. Delaware
+- FTX Recovery Trust v. American Action Network, Inc. (2024) — United States Bankruptcy Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Congressional%20Leadership%20Fund%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 852656340 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $9.6M |
+| Total Assets | $714K |
+| NTEE Code | R01 |
+| IRS Ruling Date | 2022-06-01 |
+| Filings on Record | 4 |
+
+**Filing history:** 2023, 2022, 2021, 2021
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2021)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2021)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/852656340) (Tier 1)
+<!-- auto:nonprofit-990 end -->

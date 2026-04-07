@@ -2,7 +2,7 @@
 title: "Insurance Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -15,6 +15,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
 ofac-programs:
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
+federal-contracts: "10817"
 ---
 
 #insurance #health-insurance #lobbying #aca #public-option #bipartisan #medicare-advantage #ahip #revolving-door
@@ -207,3 +208,27 @@ content-readiness:: developed
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 10817 |
+| Sample Value (top 25) | $558K |
+| Year Range | 2006-2024 |
+| Federal Agencies | 4 |
+
+**Contracting agencies:** AGRICULTURE, DEPARTMENT OF, COMMERCE, DEPARTMENT OF, DEPT OF DEFENSE, HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $117K | COMMERCE, DEPARTMENT OF | 2016-04-18 |
+| $7K | COMMERCE, DEPARTMENT OF | 2016-08-02 |
+| $3K | COMMERCE, DEPARTMENT OF | 2015-02-19 |
+| $0 | COMMERCE, DEPARTMENT OF | 2018-08-02 |
+| $0 | COMMERCE, DEPARTMENT OF | 2020-08-30 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Insurance%20Industry&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

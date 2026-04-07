@@ -172,5 +172,5 @@ content-readiness:: ready
 
 - [[California Apartment Association]] — $10.4M lobbying spend (Accounting, Agriculture, Banking)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->

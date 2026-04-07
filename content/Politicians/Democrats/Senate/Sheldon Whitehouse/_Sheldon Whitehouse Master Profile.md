@@ -257,7 +257,7 @@ content-readiness:: developed
 
 - [[Ocean Conservancy]] — $5.7M lobbying spend (Aerospace, Agriculture, Animals)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
 
 ### Congressional Stock Trades (STOCK Act)

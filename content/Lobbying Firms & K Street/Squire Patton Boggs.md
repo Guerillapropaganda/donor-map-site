@@ -2,12 +2,20 @@
 title: "Squire Patton Boggs"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 annual-revenue: "$23.5M"
 lobbyist-count: 54
 revolving-door-pct: "64.8%"
+fara-status: "registrant"
+fara-records: 9
+fara-countries:
+  - "ANGOLA"
+  - "BENIN"
+  - "KAZAKHSTAN"
+  - "KOREA SOUTH"
+  - "PALESTINE"
 ---
 
 #lobbying #k-street #defense #trade #appropriations #transportation #foreign-governments #revolving-door #bipartisan #fara
@@ -207,3 +215,26 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 - [Washington Examiner: Chinese drone maker ramped up lobbying against ban (2024)](https://www.washingtonexaminer.com/policy/foreign/chinese-drone-maker-ramped-up-lobbying-ban-drones) (Tier 2)
 
 content-readiness:: ready
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 9 |
+| Countries | ANGOLA, BENIN, KAZAKHSTAN, KOREA SOUTH, PALESTINE |
+| Foreign Principal Records | 8 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- The government of the Republic of Angola (ANGOLA)
+- The Goverment of the Republic of Angola (ANGOLA)
+- The Government of Kazakhstan through PSA LLC (KAZAKHSTAN)
+- The Government of the Republic of Benin (BENIN)
+- Palestine Monetary Authority (PALESTINE)
+- Government of the Republic of Angola (ANGOLA)
+- Embassy of the Republic of Korea (KOREA SOUTH)
+- Palestinian Authority (PALESTINE)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Squire%20Patton%20Boggs,) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

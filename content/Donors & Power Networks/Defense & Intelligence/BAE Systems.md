@@ -2,7 +2,7 @@
 title: "BAE Systems"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -15,6 +15,19 @@ ein: 742624710
 annual-revenue: "$418.7M"
 net-assets: "$54.6M"
 tax-year: "2022"
+court-cases: 1227
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, D. Hawaii"
+  - "District Court, D. Maryland"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Virginia"
+  - "District Court, M.D. Louisiana"
+  - "District Court, M.D. Pennsylvania"
+  - "District Court, S.D. California"
+  - "District Court, S.D. New York"
+  - "District Court, S.D. Texas"
+  - "District Court, W.D. Oklahoma"
 ---
 
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia
@@ -104,5 +117,24 @@ content-readiness:: ready
 
 - [[Jeanne Shaheen]] (Foreign Relations, Armed Services)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,227 |
+| Courts | District Court, D. Hawaii, District Court, D. Maryland, District Court, E.D. Pennsylvania, District Court, E.D. Virginia, District Court, M.D. Louisiana, District Court, M.D. Pennsylvania, District Court, S.D. California, District Court, S.D. New York +3 more |
+| Case Types | 442 Civil Rights: Jobs, 470 Racketeer/Corrupt Organization, 830 Patent |
+
+**Notable cases:**
+- Collision Communications, Inc. v. Apple Inc. (2026) — District Court, W.D. Texas
+- Gibney v. BAE Systems Technology Solutions & Services, Inc. (2026) — District Court, D. Maryland
+- Hot Systems, LLC v. San Diego Association of Governments (2026) — District Court, S.D. California
+- Nance v. United States Department of Defense (DoD) (2026) — District Court, M.D. Louisiana
+- Quirino Rocha v. BAE Systems, Inc. (2025) — District Court, S.D. California
+- McManus v. Lettera (2025) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BAE%20Systems%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

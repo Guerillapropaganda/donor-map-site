@@ -2,7 +2,7 @@
 title: "Chip Roy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,6 +13,11 @@ district: "21"
 committees:
   - "Judiciary"
 bioguide-id: "A000383"
+govtrack-id: 412826
+bills-sponsored: 48
+bills-cosponsored: 125
+website: "https://roy.house.gov"
+phone: "202-225-4236"
 ---
 
 #roy #texas #freedom-caucus #spending #border #libertarian #cruz-ally #rules-committee #judiciary #club-for-growth
@@ -168,3 +173,22 @@ content-readiness:: developed
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 48 |
+| Bills Cosponsored | 125 |
+| Total Votes Cast | 3,663 |
+
+**Recent bills sponsored:**
+
+- H.R. 8064: To amend title 18, United States Code, to provide for sentencing of three strikes offenders. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7776: Highway Formula Fairness Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 1057: Providing for consideration of the bill (S. 1383) to establish the Veterans Advisory Committee on Equal Access, and for  — *This simple resolution was agreed to on February 11, 2026. That is the end of the legislative process for a simple resolution.*
+- H.R. 7296: SAVE America Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 30, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 2159: Count the Crimes to Cut Act — *This bill passed in the House on December 1, 2025 and goes to the Senate next for consideration.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412826) (Tier 1)
+<!-- auto:govtrack end -->

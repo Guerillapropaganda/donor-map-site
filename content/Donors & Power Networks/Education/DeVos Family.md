@@ -2,7 +2,7 @@
 title: "DeVos Family"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Education"
@@ -16,6 +16,10 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+ein: 861509286
+annual-revenue: "$4.4M"
+net-assets: "$5K"
+tax-year: "2023"
 ---
 
 
@@ -217,3 +221,15 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-DeVos%20Family) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $4.4M |
+| Total Contributions | $0 |
+| Total Expenses | $4.4M |
+| Net Assets | $5K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 861509286](https://projects.propublica.org/nonprofits/organizations/861509286) (Tier 1)
+<!-- auto:propublica-990 end -->

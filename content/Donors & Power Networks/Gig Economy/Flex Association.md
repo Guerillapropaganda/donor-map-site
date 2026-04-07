@@ -2,11 +2,17 @@
 title: "Flex Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Gig Economy"
 entity-type: "Corporation"
+federal-register-mentions: 2
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Federal Trade Commission"
+  - "Labor Department"
+  - "Wage and Hour Division"
 ---
 
 
@@ -63,3 +69,18 @@ content-readiness:: ready
 | MILLER-MEEKS FOR CONGRESS | $2.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Rule | 2 |
+| Agencies | Federal Trade Commission, Labor Department, Wage and Hour Division |
+
+**Recent regulatory activity:**
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) — Federal Trade Commission
+- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (2024-01-10) — Labor Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Flex%20Association%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,21 +2,48 @@
 title: "David Sacks"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "David Sacks"
-  - "JD Vance"
   - "Donald Trump"
+  - "Bernie Moreno"
+  - "Sherrod Brown"
+  - "Jon Ossoff"
 issues:
   - "Technology"
 ein: 746417564
 annual-revenue: "$22K"
 net-assets: "$634K"
 tax-year: "2023"
+sec-filings: 218
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "10-Q/A"
+  - "4"
+  - "424B3"
+  - "425"
+  - "497AD"
+  - "8-K"
+  - "D"
+  - "D/A"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-10.6"
+  - "EX-24"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.7"
+  - "PRE 14A"
+  - "S-4/A"
+  - "S-8"
+  - "SC 13D/A"
+total-political-spend: "$458,349"
 ---
 
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast
@@ -395,3 +422,46 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 746417564](https://projects.propublica.org/nonprofits/organizations/746417564) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 218 |
+| Form Types | 10-K, 10-K/A, 10-Q, 10-Q/A, 4, 424B3, 425, 497AD +15 more |
+
+**Notable filings:**
+
+- 2010-03-12 — **D/A**: D/A
+- 2010-02-08 — **D**: D
+- 2019-06-21 — **D/A**: D/A
+- 2012-03-09 — **D**: D
+- 2010-12-07 — **D**: D
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22David%20Sacks%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $458,349 |
+| Contributions | 162 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| TRUMP 47 COMMITTEE, INC. | $150,000 | — |
+| REPUBLICAN NATIONAL COMMITTEE | $146,700 | REP |
+| TEAM MORENO | $75,000 | — |
+| NRSC | $63,400 | REP |
+| BERNIE MORENO FOR SENATE | $6,600 | REP |
+| BEST AT BRINGING ENTREPRENEURIAL RESULTS NEVER IMAGINED OR ENVISIONED PAC | $5,000 | — |
+| NEVER SURRENDER, INC. | $3,300 | REP |
+| DCCC | $1,267 | DEM |
+| HARRIS FOR PRESIDENT | $1,252 | DEM |
+| DSCC | $967 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20Sacks) (Tier 1)
+<!-- auto:fec-donor end -->

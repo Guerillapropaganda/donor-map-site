@@ -2,7 +2,7 @@
 title: "Melissa Bean Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,6 +23,8 @@ issues:
   - "Government Operations and Politics"
   - "Health"
   - "Immigration"
+total-received: "$2,292,879"
+fec-candidate-id: "H2IL08088"
 ---
 
 #democrat #politician #house
@@ -168,3 +170,37 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2010 |
+| Total Raised | $2,292,879 |
+| Individual Contributions | $761,312 |
+| PAC Contributions | $1,369,307 |
+| Cash on Hand | 25239.79 |
+| IE Support (Super PAC) | $2,371,995 |
+| IE Opposition (Super PAC) | $4,693,598 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2010 | $2,292,879 | $761,312 | $1,369,307 |
+| 2008 | $3,107,771 | $1,217,113 | $1,714,779 |
+| 2006 | $4,337,076 | $2,089,262 | $1,498,976 |
+| 2004 | $1,603,232 | $793,081 | $491,391 |
+| 2002 | $329,028 | $106,821 | $106,780 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $0 | $4,693,598 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,860,255 | $0 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $464,668 | $0 |
+| NEW HOUSE PAC | $47,072 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -2,7 +2,7 @@
 title: "Demand Justice"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,6 +15,11 @@ politicians-funded:
   - "Barack Obama"
 issues:
   - "Dark Money & Campaign Finance"
+ein: "863689961"
+nonprofit-status: "501(c)(4)"
+last-enriched: "2026-04-07"
+total-revenue: 566313
+total-assets: 1534141
 ---
 
 #donor-node #dark-money #democrat #judicial-appointments #court-capture #class-analysis #donor
@@ -185,3 +190,24 @@ content-readiness:: ready
 | PRAMILA FOR CONGRESS | $5.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 863689961 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $566K |
+| Total Assets | $1.5M |
+| NTEE Code | W20 |
+| IRS Ruling Date | 2021-12-01 |
+| Filings on Record | 2 |
+
+**Filing history:** 2022, 2021
+
+**View 990 filings:**
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2021)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/863689961) (Tier 1)
+<!-- auto:nonprofit-990 end -->

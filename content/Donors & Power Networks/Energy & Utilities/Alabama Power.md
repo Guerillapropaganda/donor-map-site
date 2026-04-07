@@ -2,7 +2,7 @@
 title: "Alabama Power"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -12,6 +12,12 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-06"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
+top-federal-agency: "Department of Defense"
+top-naics-code: "221122"
 ---
 
 #utility-monopoly #southern-company #alabama-politics #regulatory-capture #dark-money
@@ -85,3 +91,52 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Alabama%20Power) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+| Top Federal Agency | Department of Defense ($61.0M) |
+| Primary NAICS Sector | Electric Power Distribution |
+
+**Subcontractors receiving federal money from Alabama Power:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to Alabama Power:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $61.0M |
+| Department of Homeland Security | $12.6M |
+| Department of Justice | $8.1M |
+| Department of Veterans Affairs | $2.2M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Electric Power Distribution (221122) | $74.8M |
+| Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance (811310) | $8.4M |
+| Electronic and Precision Equipment Repair and Maintenance (811210) | $654K |
+| Electrical Contractors and Other Wiring Installation Contractors (238210) | $67K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Alabama%20Power) (Tier 1)
+<!-- auto:usaspending-subawards end -->

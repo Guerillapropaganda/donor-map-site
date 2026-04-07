@@ -2,7 +2,7 @@
 title: "California Restaurant Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
@@ -12,6 +12,33 @@ politicians-funded:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-06"
+sec-filings: 284
+sec-form-types:
+  - "10-K/A"
+  - "10-K405/A"
+  - "10-Q"
+  - "10-Q/A"
+  - "10KSB"
+  - "10KSB/A"
+  - "10QSB"
+  - "10QSB/A"
+  - "8-K"
+  - "COVER"
+  - "DEF 14A"
+  - "DEF 14C"
+  - "EX-13.1"
+  - "EX-13.2"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.3"
+  - "LETTER"
+  - "POS AM"
+  - "PRE 14A"
+  - "PRE 14C"
+  - "PX14A6G"
+  - "S-1/A"
+  - "S-4/A"
+  - "SB-2/A"
 ---
 
 
@@ -139,3 +166,21 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=California%20Restaurant%20Association) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 284 |
+| Form Types | 10-K/A, 10-K405/A, 10-Q, 10-Q/A, 10KSB, 10KSB/A, 10QSB, 10QSB/A +17 more |
+
+**Notable filings:**
+
+- 2003-06-09 — **EX-99.3**: PRESS RELEASE DATED MAY 28, 2003
+- 2007-11-08 — **EX-99.1**: EXHIBIT 99.1 - PRESS RELEASE
+- 2018-11-08 — **8-K**: 8-K
+- 2019-05-15 — **8-K**: 8-K
+- 2003-06-09 — **8-K**: FORM 8-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Restaurant%20Association%22) (Tier 1)
+<!-- auto:sec-edgar end -->

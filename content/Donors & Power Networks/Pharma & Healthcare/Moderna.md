@@ -2,13 +2,17 @@
 title: "Moderna"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+ein: 871807181
+annual-revenue: "$2.0M"
+net-assets: "$37.8M"
+tax-year: "2023"
 ---
 
 #moderna #pharma #mrna #covid #vaccine #pricing #nih #public-funding #patent
@@ -61,3 +65,15 @@ content-readiness:: ready
 | DEMOCRATIC PARTY OF NEW MEXICO | $450 |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2.0M |
+| Total Contributions | $0 |
+| Total Expenses | $8.8M |
+| Net Assets | $37.8M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 871807181](https://projects.propublica.org/nonprofits/organizations/871807181) (Tier 1)
+<!-- auto:propublica-990 end -->

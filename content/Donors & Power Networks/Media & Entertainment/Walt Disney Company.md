@@ -2,13 +2,15 @@
 title: "Walt Disney Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
 politicians-funded:
   - "Ron DeSantis"
+lei: "549300GZKULIZ0WOW665"
+lei-jurisdiction: "US-DE"
 ---
 
 #disney #media #entertainment #lobbying #copyright #florida #desantis
@@ -67,3 +69,18 @@ content-readiness:: ready
 | SCHIFF FOR CONGRESS | $33.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300GZKULIZ0WOW665](https://search.gleif.org/#/record/549300GZKULIZ0WOW665) |
+| Legal Name | THE WALT DISNEY COMPANY |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-02-20T09:04:38Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

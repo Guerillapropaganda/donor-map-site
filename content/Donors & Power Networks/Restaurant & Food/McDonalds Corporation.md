@@ -2,13 +2,15 @@
 title: "McDonalds Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
 entity-type: "Corporation"
 issues:
   - "Labor & Workers"
+lei: "549300R2IOM7D1Y4JN81"
+lei-jurisdiction: "US-DE"
 ---
 
 #mcdonalds #fast-food #minimum-wage #franchise #labor #fight-for-15 #lobbying
@@ -63,3 +65,18 @@ content-readiness:: ready
 | CHC BOLD PAC | $35.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300R2IOM7D1Y4JN81](https://search.gleif.org/#/record/549300R2IOM7D1Y4JN81) |
+| Legal Name | McDonalds Corporation Profit Sharing and Savings Plan |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-08-04T17:13:53Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

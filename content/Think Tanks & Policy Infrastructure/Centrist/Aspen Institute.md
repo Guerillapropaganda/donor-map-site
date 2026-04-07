@@ -2,11 +2,26 @@
 title: "Aspen Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
+court-cases: 437
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Colorado"
+  - "District Court, D. Maryland"
+  - "District Court, D. Minnesota"
+  - "District Court, D. Utah"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
+ein: "393347513"
+nonprofit-status: "501(c)(3)"
 ---
 
 #think-tank #centrist #elite-networking #billionaire-consensus #congressional-influence #class-analysis
@@ -214,3 +229,35 @@ The Bezos endowment marks a new phase: institutional capture by a single mega-do
 - [Aspen Institute: Dan Porterfield to Complete Transformational Tenure as President and CEO in Summer 2026 (Sep 2025)](https://www.aspeninstitute.org/blog-posts/dan-porterfield-to-complete-transformational-tenure-as-aspen-institute-president-and-ceo-in-summer-2026/) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 437 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the First Circuit, District Court, C.D. California, District Court, D. Colorado, District Court, D. Maryland, District Court, D. Minnesota, District Court, D. Utah +7 more |
+| Case Types | 160 Stockholders Suits, 190 Contract: Other, 2440 Other Civil Rights, 320 Assault Libel & Slander, 3440 Other Civil Rights |
+
+**Notable cases:**
+- Murtha v. National Collegiate Athletic Association (2026) — District Court, D. Maryland
+- Maheleh Azima v. Ethan Brown (2026) — District Court, C.D. California
+- ADKINS v. DAILY WIRE, LLC (2025) — District Court, District of Columbia
+- In re Target Corp. Securities Class Action Litigation (2025) — District Court, D. Minnesota
+- Granata v. Campbell (2025) — Court of Appeals for the First Circuit
+- WICHITA AND AFFILIATED TRIBES v. BURGUM (2025) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Aspen%20Institute%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 393347513 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | F30 |
+| IRS Ruling Date | 2025-12-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/393347513) (Tier 1)
+<!-- auto:nonprofit-990 end -->

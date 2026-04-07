@@ -2,7 +2,7 @@
 title: "Ro Khanna Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,11 @@ top-donors:
   - "Google - Alphabet"
   - "Apple"
   - "Microsoft"
+govtrack-id: 412684
+bills-sponsored: 36
+bills-cosponsored: 392
+website: "https://khanna.house.gov"
+phone: "202-225-2631"
 ---
 
 #ro-khanna #democrat #california #house #silicon-valley #tech #progressive #defense #antitrust #2028
@@ -254,5 +259,24 @@ content-readiness:: developed
 
 - [[Apple]] — $29.2M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 392 |
+| Total Votes Cast | 4,873 |
+
+**Recent bills sponsored:**
+
+- H.R. 8107: To require the establishment of a list identifying program areas and administrative practices presenting the greatest ri — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8108: To amend the Internal Revenue Code of 1986 to provide for an end date for the credit for certain qualified carbon oxide, — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7960: To amend the Internal Revenue Code of 1986 to impose a windfall profits excise tax on crude oil and to rebate the tax co — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7907: AI-Ready Bio-Data Standards Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7832: To establish the America’s Living Library Project, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412684) (Tier 1)
+<!-- auto:govtrack end -->

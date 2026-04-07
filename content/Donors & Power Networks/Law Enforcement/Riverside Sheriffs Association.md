@@ -2,7 +2,7 @@
 title: "Riverside Sheriffs Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
@@ -11,6 +11,14 @@ politicians-funded:
   - "Chad Bianco"
 lobbying-spend: 1806000
 lobbying-filings: 73
+court-cases: 12
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, E.D. California"
+  - "District Court, N.D. California"
+  - "District Court, S.D. California"
+  - "United States Bankruptcy Court, D. Delaware"
 ---
 
 
@@ -165,3 +173,37 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Riverside%20Sheriffs%20Association) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Chad Bianco]] — lobbying: $1.8M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 12 |
+| Courts | District Court, C.D. California, District Court, E.D. California, District Court, N.D. California, District Court, S.D. California, United States Bankruptcy Court, D. Delaware |
+| Case Types | 440 Civil Rights: Other, 890 Other Statutory Actions, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute, Civil Rights: Other |
+
+**Notable cases:**
+- Anthem Blue Cross Life and Health Insurance Company v. Prime Healthcare Services St. Francis, LLC (2026) — District Court, C.D. California
+- Monica Dawkins v. Unilever United States, Inc. (2025) — District Court, C.D. California
+- Riganian v. LiveRamp Holdings, Inc. (2025) — District Court, N.D. California
+- Robert Conohan v. Aftershokz, LLC (2024) — District Court, C.D. California
+- In Re: Senate Bill 2 Litigation (2023) — District Court, C.D. California
+- Bolbol v. Rowell Ranch Rodeo, Inc. (2023) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Riverside%20Sheriffs%20Association%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

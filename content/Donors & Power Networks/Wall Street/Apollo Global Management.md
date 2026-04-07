@@ -2,7 +2,7 @@
 title: "Apollo Global Management"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -13,13 +13,46 @@ issues:
   - "Wall Street & Finance"
   - "Healthcare"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "IRAN-EO13846"
 ein: "815163032"
 nonprofit-status: "501(c)(3)"
 total-revenue: 1096673
 total-assets: 82650
+court-cases: 738
+court-jurisdictions:
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Tenth Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, D. Colorado"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Nevada"
+  - "District Court, E.D. New York"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "15-12B"
+  - "305B2"
+  - "4"
+  - "424B2"
+  - "424B5"
+  - "8-K"
+  - "DEFA14A"
+  - "EX-99.(A)(17)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "FWP"
+  - "LETTER"
+  - "PROXY VOTING RECORD"
+  - "S-8"
+  - "S-8 POS"
+  - "SCHEDULE 13G/A"
 ---
 
 #apollo #private-equity #wall-street #university-of-phoenix #for-profit-education #healthcare #insurance
@@ -106,3 +139,42 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815163032) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 738 |
+| Courts | Court of Appeals for the Eighth Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Tenth Circuit, Court of Appeals for the Third Circuit, District Court, D. Colorado, District Court, D. Massachusetts, District Court, D. Nevada, District Court, E.D. New York +4 more |
+| Case Types | 370 Other Fraud, 410 Anti-Trust, 442 Civil Rights: Jobs, 820 Copyright, 830 Patent |
+
+**Notable cases:**
+- Goloja v. Vail Resorts, Inc. (2026) — District Court, D. Colorado
+- In re: Cross-Holder Ad Hoc Group (2026) — Court of Appeals for the Third Circuit
+- Apress Media, LLC v. Anna's Archive (2026) — District Court, S.D. New York
+- Doe v. Bank Of America, N.A. (2026) — District Court, S.D. Florida
+- Feldman v. Apollo Global Management, Inc. (2026) — District Court, S.D. New York
+- Estate of Saul Offit, by Its Marc Offit v. Financial Credit Investment III SPV-B (Cayman), L.P. (2026) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apollo%20Global%20Management%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-K/A, 15-12B, 305B2, 4, 424B2, 424B5, 8-K +11 more |
+| CIK | 1858681 |
+| Ticker | APO |
+
+**Notable filings:**
+
+- 2026-04-01 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1858681/000185868126000016/0001858681-26-000016-index.htm)
+- 2026-03-30 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1858681/000119312526131833/0001193125-26-131833-index.htm)
+- 2026-03-26 — **424B5**: [424B5](https://www.sec.gov/Archives/edgar/data/1858681/000119312526126316/0001193125-26-126316-index.htm)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1858681/000010290926000612/0000102909-26-000612-index.htm)
+- 2026-03-25 — **FWP**: [FWP](https://www.sec.gov/Archives/edgar/data/1858681/000095014226000832/0000950142-26-000832-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Apollo%20Global%20Management%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -2,7 +2,7 @@
 title: "Ohio AFL-CIO"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -10,6 +10,31 @@ entity-type: "Individual Donor"
 total-political-spend: "$1,478,057"
 lobbying-spend: 2848540
 lobbying-filings: 95
+sec-filings: 36
+sec-form-types:
+  - "10-12G"
+  - "10-12G/A"
+  - "10-K"
+  - "424B3"
+  - "424B4"
+  - "497"
+  - "DEF 14A"
+  - "DEFC14A"
+  - "DFAN14A"
+  - "EX-1.1"
+  - "EX-99.(F)(1)"
+  - "PRE 14A"
+  - "PREC14A"
+  - "PRER14A"
+  - "S-1"
+  - "S-1/A"
+  - "S-4"
+  - "S-4/A"
+  - "SC 14D9/A"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
 ---
 
 #labor-union #ohio-politics #democratic-donor #working-class #labor-federation
@@ -96,5 +121,52 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 
 - [[Amy Acton]] — lobbying: $2.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 36 |
+| Form Types | 10-12G, 10-12G/A, 10-K, 424B3, 424B4, 497, DEF 14A, DEFC14A +11 more |
+
+**Notable filings:**
+
+- 2019-05-29 — **497**: AFL-CIO HOUSING INVESTMENT TRUST IN OHIO
+- 2006-09-13 — **DFAN14A**: FORM DFAN14A - ESMARK'S RELEVANT NEWS ARTICLES
+- 2004-07-09 — **DEF 14A**: WHEELING PITTSBURGH STEEL
+- 2005-06-30 — **DEF 14A**: WHEELING-PITTSBURGH CORPORATION         DEF 14A
+- 2006-09-19 — **PRE 14A**: WHEELING-PITTSBURGH CORPORATION    PRE 14A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ohio%20AFL-CIO%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+
+**Subcontractors receiving federal money from Ohio AFL-CIO:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to Ohio AFL-CIO:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Ohio%20AFL-CIO) (Tier 1)
+<!-- auto:usaspending-subawards end -->

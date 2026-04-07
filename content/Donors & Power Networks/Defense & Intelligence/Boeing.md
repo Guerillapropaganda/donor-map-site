@@ -2,7 +2,7 @@
 title: "Boeing"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -13,6 +13,18 @@ politicians-funded:
   - "Elizabeth Warren"
 issues:
   - "Defense & Military"
+court-cases: 35992
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, D. Oregon"
+  - "District Court, D. South Carolina"
+  - "District Court, District of Columbia"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. New York"
+  - "District Court, S.D. Ohio"
+  - "District Court, W.D. Washington"
+  - "United States Bankruptcy Court, C.D. California"
 ---
 
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor
@@ -227,5 +239,24 @@ content-readiness:: ready
 - [[Mike Rogers]] (Armed Services)
 - [[Tom Cole]] (Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 35,992 |
+| Courts | District Court, D. Oregon, District Court, D. South Carolina, District Court, District of Columbia, District Court, M.D. Florida, District Court, N.D. Illinois, District Court, S.D. New York, District Court, S.D. Ohio, District Court, W.D. Washington +1 more |
+| Case Types | 190 Contract: Other, 360 P.I.: Other, 380 Personal Property: Other, 791 Labor: E.R.I.S.A., 890 Other Statutory Actions |
+
+**Notable cases:**
+- Lara-Trespalacios v. The Boeing Company (2026) — District Court, W.D. Washington
+- Pearson v. Amazon Data Services, Inc. (2026) — District Court, D. Oregon
+- Lesniewski v. Wexner (2026) — District Court, S.D. New York
+- Jiries v. The Boeing Company (2026) — District Court, D. South Carolina
+- United States v. BROWN (2026) — District Court, District of Columbia
+- Miller v. Blue Cross and Blue Shield of Illinois (2026) — District Court, W.D. Washington
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Boeing%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

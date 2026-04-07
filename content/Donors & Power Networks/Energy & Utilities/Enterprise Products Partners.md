@@ -2,7 +2,7 @@
 title: "Enterprise Products Partners"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -12,6 +12,8 @@ issues:
 federal-awards-total: 0
 federal-contracts-count: 0
 federal-grants-count: 2
+lei: "K4CDIF4M54DJZ6TB4Q48"
+lei-jurisdiction: "US-DE"
 ---
 
 #donor #energy #midstream #fossil-fuel #pipeline #republican-lean #class-analysis #follow-the-money
@@ -121,3 +123,18 @@ content-readiness:: draft
 | BRADY FOR CONGRESS | $36.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [K4CDIF4M54DJZ6TB4Q48](https://search.gleif.org/#/record/K4CDIF4M54DJZ6TB4Q48) |
+| Legal Name | ENTERPRISE PRODUCTS PARTNERS L.P. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-09-30T19:05:36Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

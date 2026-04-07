@@ -2,7 +2,7 @@
 title: "Pfizer Inc."
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -14,6 +14,39 @@ federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 1
 last-enriched: "2026-04-06"
+sec-filings: 10000
+sec-form-types:
+  - "10-12G"
+  - "11-K"
+  - "11-K/A"
+  - "4"
+  - "424B2"
+  - "424B3"
+  - "425"
+  - "8-K"
+  - "8-K/A"
+  - "ARS"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.19"
+  - "EX-23.6"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-FILING FEES"
+  - "FWP"
+  - "INFORMATION TABLE"
+  - "N-PX"
+  - "S-8"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G/A"
+  - "SC TO-I"
+  - "SC TO-I/A"
+  - "SC TO-T"
+  - "SC TO-T/A"
+  - "SCHEDULE 13G/A"
 ---
 
 
@@ -225,3 +258,23 @@ content-readiness:: ready
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Pfizer%20Inc.) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-12G, 11-K, 11-K/A, 4, 424B2, 424B3, 425, 8-K +23 more |
+| CIK | 78003 |
+| Ticker | PFE |
+
+**Notable filings:**
+
+- 2026-04-01 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004140/0001225208-26-004140-index.htm)
+- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004089/0001225208-26-004089-index.htm)
+- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004088/0001225208-26-004088-index.htm)
+- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004087/0001225208-26-004087-index.htm)
+- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004086/0001225208-26-004086-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Pfizer%20Inc.%22) (Tier 1)
+<!-- auto:sec-edgar end -->

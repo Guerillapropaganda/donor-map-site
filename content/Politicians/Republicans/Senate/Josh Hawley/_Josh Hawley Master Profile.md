@@ -2,7 +2,7 @@
 title: "Josh Hawley Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,8 @@ issues:
 top-donors:
   - "Koch Network - Charles Koch"
   - "Leonard Leo"
+total-received: "$1,150,554"
+fec-candidate-id: "S8MO00160"
 ---
 
 
@@ -119,3 +121,36 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 - [The Hill/CNN: corporate PAC pledge analysis](https://thehill.com/homenews/senate/4288563-hawley-mcconnell-battle-gut-citizens-united-ruling/) (Tier 2)
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2030 |
+| Total Raised | $1,150,554 |
+| Individual Contributions | $210,423 |
+| PAC Contributions | $19,500 |
+| Cash on Hand | 780974.33 |
+| IE Support (Super PAC) | $750,992 |
+| IE Opposition (Super PAC) | $57,701,939 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2030 | $1,150,554 | $210,423 | $19,500 |
+| 2024 | $27,468,286 | $9,934,066 | $537,382 |
+| 2018 | $11,946,032 | $7,757,352 | $1,120,241 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SMP | $0 | $35,399,813 |
+| WOMEN VOTE! | $0 | $8,519,441 |
+| PRIORITIES USA ACTION | $0 | $6,808,990 |
+| MAJORITY FORWARD | $0 | $6,433,695 |
+| PATRIOTS PREVAIL PAC | $0 | $540,000 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1)
+<!-- auto:fec-politician end -->

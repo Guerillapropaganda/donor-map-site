@@ -2,7 +2,7 @@
 title: "National Nurses United"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -13,6 +13,14 @@ ein: 271450491
 annual-revenue: "$18.1M"
 net-assets: "$52.0M"
 tax-year: "2023"
+total-political-spend: "$25,048,260"
+politicians-funded:
+  - "Bernie Sanders"
+  - "Sarah Huckabee Sanders"
+  - "Mark Takano"
+  - "Raul Grijalva"
+  - "Tammy Baldwin"
+  - "Jim McGovern"
 ---
 
 #nnu #nurses-union #medicare-for-all #progressive #labor #225k-members
@@ -78,3 +86,28 @@ National Nurses United represents class analysis embedded within labor organizin
 | SENATE MAJORITY PAC | $1.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $25,048,260 |
+| Contributions | 472 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $19,823,405 | — |
+| PROGRESSIVE KICK INDEPENDENT EXPENDITURES | $2,113,000 | — |
+| SENATE MAJORITY PAC | $1,000,000 | — |
+| DEVELOPMENT NOW FOR CHICAGO | $550,000 | DEM |
+| VOTE NURSES VALUES POLITICAL ACTION COMMITTEE: CALIFORNIA NURSES ASSOCIATION | $500,000 | — |
+| BATTLEGROUND NEW YORK | $250,000 | — |
+| FAIR FIGHT | $100,000 | — |
+| A PROGRESSIVE CALIFORNIA | $25,000 | — |
+| COLOROFCHANGE PAC | $25,000 | — |
+| WORKING FAMILIES PARTY INDEPENDENT EXPENDITURE COMMITTEE | $25,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Nurses%20United) (Tier 1)
+<!-- auto:fec-donor end -->

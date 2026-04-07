@@ -2,19 +2,17 @@
 title: "CNA - California Nurses Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Gavin Newsom"
-  - "Bernie Sanders"
-  - "Kamala Harris"
-  - "Katie Porter"
 issues:
   - "Healthcare"
   - "Labor & Workers"
+total-political-spend: "$319,800"
 ---
 
 
@@ -143,3 +141,21 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: CNA
 
 research-status:: ready — Full citation pass complete. CNA/NNU 225K+ members, $5.9M 2024 cycle, $9.4M Super PAC, single-payer legislative history (SB 562, AB 1400, AB 2200), Newsom betrayal documented, staffing ratio victory (AB 394), Kaiser AI strike March 2026, NUHW alliance, class analysis of union vs. healthcare donor class. 7 sources, Tier 1-2. All ### headers, callout blocks verified. Promoted Session 38k.
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $319,800 |
+| Contributions | 7 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| TEXAS ORGANIZING PROJECT POLITICAL ACTION COMMITTEE | $250,000 | — |
+| NEWSOM FOR CALIFORNIA GOVERNOR 2022 | $64,800 | — |
+| CD 1 ALLIANCE | $5,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=CNA%20-%20California%20Nurses%20Association) (Tier 1)
+<!-- auto:fec-donor end -->

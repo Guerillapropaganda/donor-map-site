@@ -2,7 +2,7 @@
 title: "US Chamber of Commerce"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -28,6 +28,24 @@ lobbying-spend: 790000
 lobbying-filings: 140
 lei: "558600L19F2GCYX6QZ15"
 lei-jurisdiction: "SA"
+sec-filings: 640
+sec-form-types:
+  - "3"
+  - "4"
+  - "425"
+  - "6-K"
+  - "8-K"
+  - "CORRESP"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-1"
+  - "EX-99"
+  - "EX-99.(A)(10)"
+  - "EX-99.1"
+  - "EX-99.1(A)(8)"
+  - "EX-99.2"
+  - "PX14A6G"
+  - "PX14A6N"
 ---
 
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis
@@ -338,7 +356,7 @@ content-readiness:: developed
 - [[Barack Obama]] — lobbying: $790K
 - [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $790K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
 
 ### Corporate Structure (GLEIF)
@@ -355,3 +373,21 @@ content-readiness:: developed
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 640 |
+| Form Types | 3, 4, 425, 6-K, 8-K, CORRESP, DEFA14A, DFAN14A +8 more |
+
+**Notable filings:**
+
+- 2025-03-13 — **PX14A6G**: PX14A6G
+- 2023-04-24 — **PX14A6G**: PX14A6G
+- 2020-04-03 — **PX14A6G**: PX14A6G
+- 2024-03-05 — **PX14A6G**: PX14A6G
+- 2020-04-14 — **PX14A6G**: PX14A6G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22US%20Chamber%20of%20Commerce%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -2,7 +2,7 @@
 title: "John Kennedy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -24,6 +24,7 @@ bills-cosponsored: 0
 stock-trades: 2
 stock-trade-tickers:
   - "MTUM"
+fec-candidate-id: "S0MD00069"
 ---
 
 #kennedy #louisiana #judiciary #energy #petrochemical #populist-brand #folksy #banking #cfpb #cancer-alley
@@ -213,3 +214,13 @@ content-readiness:: developed
 
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 1980 |
+| Cash on Hand | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
+<!-- auto:fec-politician end -->

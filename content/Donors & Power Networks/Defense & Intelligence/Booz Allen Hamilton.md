@@ -2,7 +2,7 @@
 title: "Booz Allen Hamilton"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -11,6 +11,21 @@ politicians-funded:
   - "Gerry Connolly"
 issues:
   - "Defense & Military"
+lobbying-spend: 6460000
+lobbying-filings: 48
+federal-register-mentions: 139
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Commerce Department"
+  - "Copyright Office, Library of Congress"
+  - "Executive Office for Immigration Review"
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
+  - "Industry and Security Bureau"
+  - "International Trade Administration"
+  - "Justice Department"
+  - "Labor Department"
 ---
 
 #booz-allen #defense #intelligence #consulting #nsa #snowden #government-contractor
@@ -68,3 +83,44 @@ content-readiness:: ready
 | FRIENDS OF MARK WARNER | $20.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $6.5M |
+| Quarterly Filings | 48 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Aviation/Airlines/Airports, Budget/Appropriations, Defense, Disaster Planning/Emergencies, Foreign Relations, Government Issues, Health Issues, Homeland Security, Intelligence, Medical/Disease Research/Clinical Labs, Science/Technology, Taxation/Internal Revenue Code, Transportation, Veterans
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, BALLARD PARTNERS, BOOZ ALLEN HAMILTON INC., INNOVATIVE FEDERAL STRATEGIES, LLC, LGL ADVISORS LLC, MONUMENT ADVOCACY, THE NICKLES GROUP, LLC
+
+**Agencies contacted:** Central Intelligence Agency (CIA), Defense, Dept of (DOD), Energy, Dept of, HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Interior, Dept of (DOI), Natl Institute of Standards & Technology (NIST), Office of Management & Budget (OMB), SENATE, Treasury, Dept of +2 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Booz%20Allen%20Hamilton) (Tier 1)
+<!-- auto:lda-lobbying end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 139 |
+| Final Rules | 21 |
+| Proposed Rules | 19 |
+| Notices | 99 |
+| Agencies | Antitrust Division, Commerce Department, Copyright Office, Library of Congress, Executive Office for Immigration Review, Food and Drug Administration, Health and Human Services Department, Industry and Security Bureau, International Trade Administration +5 more |
+
+**Recent regulatory activity:**
+- [Copyright Office Fees](https://www.federalregister.gov/documents/2026/03/20/2026-05529/copyright-office-fees) (2026-03-20) — Library of Congress
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Expeditionary Missions Consortium-Crane](https://www.federalregister.gov/documents/2025/04/23/2025-06924/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-expeditionary) (2025-04-23) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The Open Group, L.L.C.](https://www.federalregister.gov/documents/2025/01/27/2025-01727/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-open-group-llc) (2025-01-27) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2025/01/24/2025-01712/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (2025-01-24) — Justice Department
+- [Validation of Certain In Vitro Diagnostic Devices for Emerging Pathogens During a Section 564 Declared Emergency; Draft Guidance for Industry and Food and Drug Administration Staff; Availability](https://www.federalregister.gov/documents/2025/01/07/2024-31522/validation-of-certain-in-vitro-diagnostic-devices-for-emerging-pathogens-during-a-section-564) (2025-01-07) — Health and Human Services Department
+- ... and 133 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Booz%20Allen%20Hamilton%22) (Tier 1)
+<!-- auto:federal-register end -->

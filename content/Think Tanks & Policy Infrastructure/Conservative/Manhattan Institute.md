@@ -2,13 +2,13 @@
 title: "Manhattan Institute for Policy Research"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
 federal-register-mentions: 5
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Commerce Department"
   - "Securities and Exchange Commission"
@@ -23,6 +23,16 @@ ofac-programs:
   - "NPWMD] [RUSSIA-EO14024"
   - "RUSSIA-EO14024"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
+court-cases: 42
+court-jurisdictions:
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. New York"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, D. Delaware"
 ---
 
 #think-tank #conservative #policing #housing #education #criminal-justice #anti-dei #urban-policy #class-analysis
@@ -267,3 +277,22 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 42 |
+| Courts | Court of Appeals for the Fifth Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Sixth Circuit, District Court, District of Columbia, District Court, N.D. New York, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware |
+| Case Types | 12 Recovery of money/property - 547 preference; 13 Recovery of money/property - 548 fraudulent transfer; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 2899 Other Statutes, 440 Civil Rights: Other, 820 Copyright, 893 Environmental Matters |
+
+**Notable cases:**
+- AMERICAN ACADEMY OF PEDIATRICS v. FEDERAL TRADE COMMISSION (2026) — District Court, District of Columbia
+- Relentless Inc. v. US Dep't of Commerce (2025) — Court of Appeals for the First Circuit
+- In Re Grand Jury Subpoenas to the Office of the New York State Attorney General v. United States (2025) — District Court, N.D. New York
+- Diemert v. City of Seattle (2025) — Court of Appeals for the Ninth Circuit
+- FTX Recovery Trust v. Ryan Salame (2024) — United States Bankruptcy Court, D. Delaware
+- STANDING ROCK SIOUX TRIBE v. U.S. ARMY CORPS OF ENGINEERS (2024) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Manhattan%20Institute%20for%20Policy%20Research%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

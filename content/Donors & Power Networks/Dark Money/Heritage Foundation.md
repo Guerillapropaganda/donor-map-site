@@ -2,7 +2,7 @@
 title: "Heritage Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,6 +11,11 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
+ein: "237327730"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 147027845
+total-assets: 413819868
 ---
 
 
@@ -184,3 +189,28 @@ content-readiness:: ready
 | JIM RISCH FOR U S SENATE COMMITTEE | $1.4K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 237327730 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $147.0M |
+| Total Assets | $413.8M |
+| NTEE Code | W050 |
+| IRS Ruling Date | 1973-11-01 |
+| Filings on Record | 12 |
+
+**Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
+
+**View 990 filings:**
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2019)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2018)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1)
+<!-- auto:nonprofit-990 end -->

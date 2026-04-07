@@ -2,7 +2,7 @@
 title: "National Republican Senatorial Committee"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -10,11 +10,21 @@ entity-type: "PAC"
 politicians-funded:
   - "Rick Scott"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "BALKANS"
   - "BELARUS"
   - "GLOMAG"
+court-cases: 219
+court-jurisdictions:
+  - "Court of Appeals for the Eleventh Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. New Hampshire"
+  - "District Court, D. Utah"
+  - "District Court, District of Columbia"
+  - "District Court, W.D. Michigan"
 ---
 
 #nrsc #senate #republican #campaign #fundraising #party-committee #class-analysis #follow-the-money
@@ -168,3 +178,22 @@ content-readiness:: developed
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 219 |
+| Courts | Court of Appeals for the Eleventh Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the Sixth Circuit, District Court, C.D. California, District Court, D. New Hampshire, District Court, D. Utah, District Court, District of Columbia, District Court, W.D. Michigan |
+| Case Types | 3441 Civil Rights Voting, 3441 Voting (Civil Rights), 441 Voting, 485 Telephone Consumer Protection Act (TCPA), 890 Other Statutory Actions |
+
+**Notable cases:**
+- Bevill v. WinRed, Inc. (2026) — District Court, D. New Hampshire
+- SENATE MAJORITY PAC v. FEDERAL ELECTION COMMISSION (2026) — District Court, District of Columbia
+- United States v. Benson (2025) — District Court, W.D. Michigan
+- Johnson v. Republican National Committee (2025) — District Court, D. Utah
+- BURLEIGH v. FEDERAL COMMUNICATIONS COMMISSION (FCC) (2025) — District Court, District of Columbia
+- Coalition for Good Governance v. Secretary of State for the State of Georgia (2025) — Court of Appeals for the Eleventh Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Republican%20Senatorial%20Committee%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -2,7 +2,7 @@
 title: "Linda McMahon Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,8 @@ issues:
 top-donors:
   - "MAGA Inc"
   - "America First Policy Institute"
+total-received: "$50,963,418"
+fec-candidate-id: "S0CT00151"
 ---
 
 
@@ -117,3 +119,34 @@ Linda McMahon. Secretary of Education (2025–present). Co-founder of WWE (World
 - [FEC: Linda McMahon contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=mcmahon,+linda) (Tier 1)
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2012 |
+| Total Raised | $50,963,418 |
+| Individual Contributions | $923,149 |
+| Cash on Hand | 331781.00 |
+| IE Support (Super PAC) | $1,871,743 |
+| IE Opposition (Super PAC) | $22,027,263 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2012 | $50,963,418 | $923,149 | $0 |
+| 2010 | $50,285,122 | $110,694 | $17,749 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $0 | $14,390,579 |
+| MAJORITY PAC | $0 | $5,478,958 |
+| US CHAMBER OF COMMERCE | $1,400,000 | $0 |
+| AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E | $0 | $518,043 |
+| LEAGUE OF CONSERVATION VOTERS ACTION FUND | $0 | $509,979 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CT00151/) (Tier 1)
+<!-- auto:fec-politician end -->

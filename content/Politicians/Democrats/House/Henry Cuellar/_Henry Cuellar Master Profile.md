@@ -2,7 +2,7 @@
 title: "Henry Cuellar Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,8 @@ state-abbr: "TX"
 district: "28"
 issues:
   - "Energy & Climate"
+total-received: "$1,189,858"
+fec-candidate-id: "H2TX23082"
 ---
 
 
@@ -140,3 +142,38 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 profile-status:: ready
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,189,858 |
+| Individual Contributions | $562,160 |
+| PAC Contributions | $292,300 |
+| Cash on Hand | 483316.29 |
+| IE Support (Super PAC) | $4,195,927 |
+| IE Opposition (Super PAC) | $14,094,637 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,189,858 | $562,160 | $292,300 |
+| 2024 | $2,492,809 | $1,243,613 | $1,181,409 |
+| 2022 | $4,711,961 | $2,584,473 | $1,784,010 |
+| 2020 | $2,752,019 | $1,076,991 | $1,486,620 |
+| 2018 | $1,659,082 | $510,058 | $1,103,320 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NRCC | $0 | $5,408,102 |
+| CONGRESSIONAL LEADERSHIP FUND | $0 | $4,277,678 |
+| TEXAS FORWARD | $0 | $2,373,536 |
+| MAINSTREAM DEMOCRATS PAC | $1,425,211 | $0 |
+| NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $1,285,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2TX23082/) (Tier 1)
+<!-- auto:fec-politician end -->

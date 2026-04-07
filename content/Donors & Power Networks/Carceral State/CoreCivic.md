@@ -2,7 +2,7 @@
 title: "CoreCivic"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -29,6 +29,7 @@ ein: 823851866
 annual-revenue: "$511K"
 net-assets: "$52K"
 tax-year: "2024"
+federal-contracts: "608"
 ---
 
 
@@ -168,3 +169,27 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 823851866](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 608 |
+| Sample Value (top 25) | $164.5M |
+| Year Range | 2020-2025 |
+| Federal Agencies | 2 |
+
+**Contracting agencies:** HOMELAND SECURITY, DEPARTMENT OF, JUSTICE, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $0 | HOMELAND SECURITY, DEPARTMENT OF | 2020-01-13 |
+| $0 | HOMELAND SECURITY, DEPARTMENT OF | 2021-03-02 |
+| $0 | HOMELAND SECURITY, DEPARTMENT OF | 2024-06-12 |
+| $0 | HOMELAND SECURITY, DEPARTMENT OF | 2023-03-21 |
+| $0 | HOMELAND SECURITY, DEPARTMENT OF | 2024-12-18 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=CoreCivic&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

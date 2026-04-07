@@ -216,5 +216,5 @@ content-readiness:: ready
 
 - [[Virginia Foxx]] (Education & Labor) — contracts: $1.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "Jeffrey Yass"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -13,6 +13,10 @@ politicians-funded:
   - "Tom Cotton"
   - "Josh Shapiro"
   - "Rand Paul"
+federal-register-mentions: 4
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Securities and Exchange Commission"
 ---
 
 #donor #yass #tiktok #bytedance #trading #libertarian #class-analysis #follow-the-money #trump #school-choice #club-for-growth #mega-donor #pennsylvania-money
@@ -450,3 +454,20 @@ content-readiness:: developed
 | TERM LIMITS ACTION | $1.2M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4 |
+| Notice | 4 |
+| Agencies | Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Self-Regulatory Organizations; NYSE Arca, Inc.; Order Disapproving a Proposed Rule Change, as Modified by Amendment No. 1, Relating to the Listing and Trading of Shares of the Bitwise Bitcoin ETF Trust Under NYSE Arca Rule 8.201-E](https://www.federalregister.gov/documents/2019/10/16/2019-22486/self-regulatory-organizations-nyse-arca-inc-order-disapproving-a-proposed-rule-change-as-modified-by) (2019-10-16) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Bats BZX Exchange, Inc.; Order Setting Aside Action by Delegated Authority and Disapproving a Proposed Rule Change, as Modified by Amendments No. 1 and 2, To List and Trade Shares of the Winklevoss Bitcoin Trust](https://www.federalregister.gov/documents/2018/08/01/2018-16427/self-regulatory-organizations-bats-bzx-exchange-inc-order-setting-aside-action-by-delegated) (2018-08-01) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of Proposed Rule Change by the American Stock Exchange LLC Relating to Member Transaction Charges for Exchange-Traded Funds](https://www.federalregister.gov/documents/2002/11/12/02-28604/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change) (2002-11-12) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of Amendment No. 3 to a Proposed Rule Change by the American Stock Exchange LLC Relating to Specialist Unit Fees](https://www.federalregister.gov/documents/2002/05/30/02-13482/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-amendment-no-3-to-a) (2002-05-30) — Securities and Exchange Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Jeffrey%20Yass%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,7 +2,7 @@
 title: "Tech Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -14,6 +14,16 @@ ein: 954538000
 annual-revenue: "$249K"
 net-assets: "$131K"
 tax-year: "2023"
+total-political-spend: "$413,004"
+politicians-funded:
+  - "Zoe Lofgren"
+  - "Cathy McMorris Rodgers"
+  - "Mark Warner"
+  - "Hakeem Jeffries"
+  - "Mike Collins"
+  - "Susan Collins"
+  - "Gerry Connolly"
+  - "Chuck Schumer"
 ---
 
 #tech #industry #lobbying #section-230 #antitrust #ai #privacy #bipartisan
@@ -55,3 +65,28 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 - [Ballotpedia: Technology industry political spending](https://ballotpedia.org/Tech_Industry) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $413,004 |
+| Contributions | 387 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| MCCAUL FOR CONGRESS, INC | $9,500 | REP |
+| MATSUI FOR CONGRESS | $9,000 | DEM |
+| WALDEN FOR CONGRESS | $9,000 | REP |
+| JAY OBERNOLTE FOR CONGRESS | $7,500 | REP |
+| LOFGREN FOR CONGRESS | $7,500 | DEM |
+| FRIENDS OF JIM CLYBURN | $7,500 | DEM |
+| GARBARINO FOR CONGRESS | $7,000 | REP |
+| CATHY MCMORRIS RODGERS FOR CONGRESS | $6,500 | REP |
+| DELBENE FOR CONGRESS | $6,250 | DEM |
+| FRIENDS OF MARK WARNER | $6,000 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tech%20Industry) (Tier 1)
+<!-- auto:fec-donor end -->

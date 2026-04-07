@@ -2,7 +2,7 @@
 title: "AFSCME - American Federation of State County and Municipal Employees"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -13,7 +13,7 @@ politicians-funded:
 issues:
   - "Labor & Workers"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "CAATSA - RUSSIA"
   - "RUSSIA-EO14024"
@@ -21,6 +21,10 @@ court-cases: 2
 court-jurisdictions:
   - "District Court, D. Arizona"
   - "District Court, S.D. Florida"
+federal-register-mentions: 1
+regulatory-agencies:
+  - "Federal Motor Carrier Safety Administration"
+  - "Transportation Department"
 ---
 
 
@@ -162,3 +166,17 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Rule | 1 |
+| Agencies | Federal Motor Carrier Safety Administration, Transportation Department |
+
+**Recent regulatory activity:**
+- [Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.federalregister.gov/documents/2026/02/13/2026-02965/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl) (2026-02-13) — Transportation Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22) (Tier 1)
+<!-- auto:federal-register end -->

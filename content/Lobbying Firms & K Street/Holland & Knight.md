@@ -2,12 +2,14 @@
 title: "Holland & Knight"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 annual-revenue: "$54.9M (2025)"
 lobbyist-count: 79
 revolving-door-pct: "45.6%"
+lei: "549300TAKRWOFCAF8R11"
+lei-jurisdiction: "US-FL"
 ---
 
 #lobbying #k-street #chemicals #defense #tech #healthcare #cannabis #trade #real-estate
@@ -223,3 +225,18 @@ The firm's 318-client roster in 2024 also reveals the breadth of the Donor Map's
 - [The New Lede: House Republicans move to roll back key protections in US chemical safety law (January 2026)](https://www.thenewlede.org/2026/01/tsca-chemical-regulation-amendment-house-gop/) (Tier 2)
 
 content-readiness:: ready
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300TAKRWOFCAF8R11](https://search.gleif.org/#/record/549300TAKRWOFCAF8R11) |
+| Legal Name | HOLLAND & KNIGHT LLP |
+| Jurisdiction | US-FL |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-09-29T18:36:56Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

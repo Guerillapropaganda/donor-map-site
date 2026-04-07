@@ -2,7 +2,7 @@
 title: "Roger Marshall"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,7 @@ committees:
 issues:
   - "Agriculture"
   - "Healthcare"
+fec-candidate-id: "H6KS01179"
 ---
 
 #politician #republican #senate #kansas #agriculture #healthcare #pharma #covid #class-analysis #follow-the-money #gavel-power
@@ -133,3 +134,33 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2020 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $1,152,314 |
+| IE Opposition (Super PAC) | $1,635,154 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2020 | $0 | $0 | $0 |
+| 2018 | $1,343,114 | $350,042 | $801,711 |
+| 2016 | $1,653,986 | $644,587 | $506,900 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| ESAFUND | $736,952 | $0 |
+| CLUB FOR GROWTH ACTION | $0 | $727,816 |
+| HOUSE LIBERTY PROJECT | $0 | $479,599 |
+| KANSAS FARMERS FUND | $0 | $374,565 |
+| KANSAS AG COMMUNITIES COALITION | $204,877 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KS01179/) (Tier 1)
+<!-- auto:fec-politician end -->

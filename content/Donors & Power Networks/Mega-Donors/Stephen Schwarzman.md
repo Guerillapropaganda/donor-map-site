@@ -2,7 +2,7 @@
 title: "Stephen Schwarzman"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -21,6 +21,8 @@ last-enriched: "2026-04-06"
 regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
+lobbying-spend: 3022000
+lobbying-filings: 89
 ---
 
 #donor #billionaire #republican #private-equity #blackstone #wall-street
@@ -199,3 +201,22 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Stephen%20Schwarzman%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $3.0M |
+| Quarterly Filings | 89 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 17 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Banking, Budget/Appropriations, Communications/Broadcasting/Radio/TV, Computer Industry, Defense, Economics/Economic Development, Energy/Nuclear, Financial Institutions/Investments/Securities, Science/Technology, Sports/Athletics, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign)
+
+**Lobbying firms:** ADAMS AND REESE, LLP, CAPITOL COUNSEL LLC, CROSSROADS STRATEGIES, LLC, DB3, LLC (FKA THE DASCHLE GROUP), GLAZE CONSULTING, LLC, INNOVATIVE FEDERAL STRATEGIES, LLC, MERKAVA STRATEGIES CORPORATION, MILLER STRATEGIES, LLC, MR. STEPHEN M. RYAN, STEPHEN BASSETT, STEPHEN WARD CONSULTING, LLC, STEPHENS INVESTMENTS HOLDINGS LLC, STEPHENS SHARED SERVICES LLC, STIERS LLC, TORRIDON LAW PLLC, WHITAKER STRATEGIES (STEPHEN B. WHITAKER DBA WHITAKER SRATEGIES, FORMERLY WHITAK, WILMER CUTLER PICKERING HALE AND DORR LLP
+
+**Agencies contacted:** Air Force, Dept of, Bureau of Industry and Security (BIS), Defense, Dept of (DOD), Energy, Dept of, Executive Office of the President (EOP), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, Natl Security Council (NSC), SENATE, Treasury, Dept of
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Stephen%20Schwarzman) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -2,7 +2,7 @@
 title: "Reid Hoffman"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,28 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Technology"
+sec-filings: 1372
+sec-form-types:
+  - "3"
+  - "4"
+  - "425"
+  - "DEFA14A"
+  - "EX-1"
+  - "EX-10.12"
+  - "EX-24"
+  - "EX-24.1"
+  - "EX-24.2"
+  - "EX-24.3_400864"
+  - "EX-24.4_514801"
+  - "EX-24.4_517457"
+  - "EX-99.1"
+  - "EX-99.3"
+  - "EX-99.4"
+  - "PX14A6G"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SCHEDULE 13D"
+  - "SCHEDULE 13D/A"
 ---
 
 #donor #billionaire #democratic #tech #linkedin #wisconsin
@@ -159,3 +181,21 @@ research-status:: ready
 | ONE FOR ALL COMMITTEE | $2.6M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,372 |
+| Form Types | 3, 4, 425, DEFA14A, EX-1, EX-10.12, EX-24, EX-24.1 +12 more |
+
+**Notable filings:**
+
+- 2016-02-11 — **SC 13G/A**: SC 13G/A
+- 2025-11-12 — **PX14A6G**: NATIONAL LEGAL AND POLICY CENTER - PX14A6G
+- 2015-02-03 — **SC 13G/A**: SC 13G/A
+- 2023-11-08 — **PX14A6G**: NATIONAL LEGAL AND POLICY CENTER - PX14A6G
+- 2024-07-26 — **PX14A6G**: NATIONAL LEGAL AND POLICY CENTER - PX14A6G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Reid%20Hoffman%22) (Tier 1)
+<!-- auto:sec-edgar end -->

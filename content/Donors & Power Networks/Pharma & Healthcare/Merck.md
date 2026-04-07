@@ -2,7 +2,7 @@
 title: "Merck"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -12,6 +12,9 @@ issues:
 federal-awards-total: 2223209028
 federal-contracts-count: 25
 federal-grants-count: 1
+lei: "96760004Q9TBK1DS6T62"
+lei-jurisdiction: "BE"
+lei-parent: "E. Merck KG"
 ---
 
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation
@@ -99,3 +102,23 @@ content-readiness:: ready
 | IMPACT | $5.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [96760004Q9TBK1DS6T62](https://search.gleif.org/#/record/96760004Q9TBK1DS6T62) |
+| Legal Name | MERCK |
+| Jurisdiction | BE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-13T10:20:15Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [E. Merck KG](https://search.gleif.org/#/record/529900YCCXD7AIHXU523) (DE)
+- MERCK (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

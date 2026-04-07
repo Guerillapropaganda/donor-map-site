@@ -2,7 +2,7 @@
 title: "Mike Lee"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -19,6 +19,8 @@ top-donors:
   - "Club for Growth"
   - "Blackstone Group"
   - "Apollo Global Management"
+total-received: "$6,801,272"
+fec-candidate-id: "S0UT00165"
 ---
 
 #mike-lee #senate #utah #federalist-society #antitrust #tech-deference #oil-gas #public-lands #january-6 #class-analysis
@@ -164,3 +166,55 @@ The January 6 episode reveals the structural limit of Lee's constitutional liber
 
 profile-status:: developed
 content-readiness:: developed
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Blackstone Group** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
+
+**Donors who lobby (by spend):**
+
+- [[Blackstone Group]] — $4.5M lobbying spend (Aviation/Airlines/Airports, Banking, Budget/Appropriations)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $6,801,272 |
+| Individual Contributions | $2,782,490 |
+| PAC Contributions | $260,750 |
+| Cash on Hand | 915804.25 |
+| IE Support (Super PAC) | $11,421,767 |
+| IE Opposition (Super PAC) | $8,940,890 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $6,801,272 | $2,782,490 | $260,750 |
+| 2022 | $12,718,632 | $5,974,115 | $2,176,611 |
+| 2016 | $6,123,935 | $3,724,850 | $1,392,712 |
+| 2010 | $1,849,329 | $1,050,489 | $438,370 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| PUT UTAH FIRST PAC | $0 | $8,940,890 |
+| LIBERTY CHAMPIONS | $3,213,782 | $0 |
+| CLUB FOR GROWTH ACTION | $3,166,433 | $0 |
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $2,798,792 | $0 |
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $1,350,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
+<!-- auto:fec-politician end -->

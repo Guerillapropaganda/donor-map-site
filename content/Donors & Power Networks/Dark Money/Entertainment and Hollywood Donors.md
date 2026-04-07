@@ -2,7 +2,7 @@
 title: "Entertainment and Hollywood Donors"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Barack Obama"
   - "Joe Biden"
   - "Hillary Clinton"
+federal-contracts: "997000"
 ---
 
 #hollywood #entertainment #donors #democratic #bundling #cultural-influence #israel-lobby #revolving-door #copyright #mpaa
@@ -156,3 +157,27 @@ The industry's structural function for the donor class: maintain Democratic cult
 - [Wikipedia: Haim Saban](https://en.wikipedia.org/wiki/Haim_Saban) (Tier 3)
 
 content-readiness:: developed
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 997000 |
+| Sample Value (top 25) | $830K |
+| Year Range | 2005-2015 |
+| Federal Agencies | 5 |
+
+**Contracting agencies:** DEPT OF DEFENSE, GENERAL SERVICES ADMINISTRATION, HEALTH AND HUMAN SERVICES, DEPARTMENT OF, INTERIOR, DEPARTMENT OF THE, TREASURY, DEPARTMENT OF THE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $10K | INTERIOR, DEPARTMENT OF THE | 2011-10-27 |
+| $10K | INTERIOR, DEPARTMENT OF THE | 2009-10-27 |
+| $9K | DEPT OF DEFENSE | 2012-12-06 |
+| $4K | GENERAL SERVICES ADMINISTRATION | 2009-05-27 |
+| $4K | GENERAL SERVICES ADMINISTRATION | 2009-04-23 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Entertainment%20and%20Hollywood%20Donors&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

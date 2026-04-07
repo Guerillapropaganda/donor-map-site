@@ -2,7 +2,7 @@
 title: "Blackstone Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -20,6 +20,7 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 lobbying-spend: 4450000
 lobbying-filings: 51
+federal-contracts: "622714"
 ---
 
 #blackstone #private-equity #schwarzman #wall-street #carried-interest #real-estate #trump #republican #revolving-door #class-analysis #follow-the-money #housing #rental #tax-avoidance #sovereign-wealth #lobbying
@@ -320,3 +321,49 @@ content-readiness:: developed
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Blackstone%20Group) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 4 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Copyright/Patent/Trademark** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $4.5M
+- [[Chuck Schumer]] — lobbying: $4.5M
+- [[Susan Collins]] — lobbying: $4.5M
+- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $4.5M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 622714 |
+| Sample Value (top 25) | $2.1M |
+| Year Range | 2007-2025 |
+| Federal Agencies | 3 |
+
+**Contracting agencies:** DEPT OF DEFENSE, SMITHSONIAN INSTITUTION, VETERANS AFFAIRS, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $9K | SMITHSONIAN INSTITUTION | 2016-05-23 |
+| $8K | DEPT OF DEFENSE | 2007-10-25 |
+| $5K | DEPT OF DEFENSE | 2007-09-21 |
+| $460 | VETERANS AFFAIRS, DEPARTMENT OF | 2007-05-17 |
+| $195 | VETERANS AFFAIRS, DEPARTMENT OF | 2007-05-23 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Blackstone%20Group&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

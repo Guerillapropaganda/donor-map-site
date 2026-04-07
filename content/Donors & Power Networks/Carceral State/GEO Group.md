@@ -585,7 +585,7 @@ research-status:: developed — Complete 2025 financials ($2.63B revenue, $254.4
 - [[Marco Rubio]] — contracts: $959K
 - [[Pam Bondi]] — contracts: $959K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-06.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
 
 ### OFAC Sanctions Screening
