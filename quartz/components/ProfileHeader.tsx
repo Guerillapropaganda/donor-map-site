@@ -114,7 +114,7 @@ function wrapProfileSections() {
       // Wins / policy outcomes (donors: "What They've Gotten"; check before contradiction)
       if (text.indexOf('gotten') !== -1 || text.indexOf("what they've") !== -1 || text.indexOf('victor') !== -1 || text.indexOf('policy win') !== -1 || text.indexOf('what they got') !== -1) {
         currentCard.classList.add('psc-wins');
-      } else if (text.indexOf('executive order') !== -1 || text.indexOf('executive action') !== -1) {
+      } else if (text.indexOf('executive order') !== -1) {
         currentCard.classList.add('psc-executive');
       } else if (text.indexOf('vote') !== -1 || text.indexOf('voting record') !== -1 || text.indexOf('bills sponsored') !== -1 || text.indexOf('cosponsor') !== -1 || text.indexOf('legislation') !== -1 || text.indexOf('legislative') !== -1 || text.indexOf('committee') !== -1 || text.indexOf('floor speech') !== -1) {
         currentCard.classList.add('psc-voting');
