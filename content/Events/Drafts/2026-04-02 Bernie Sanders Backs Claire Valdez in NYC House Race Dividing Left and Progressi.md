@@ -20,4 +20,4 @@ On Thursday, Sanders waded into the New York City race between progressives and 
 
 ---
 
-**Linked Profiles:** [[Bernie Sanders Master Profile|Bernie Sanders]]
+**Linked Profiles:** [[_Bernie Sanders Master Profile|Bernie Sanders]]
