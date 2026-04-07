@@ -179,7 +179,9 @@ export default function UrlManagerPage() {
           prev.map((u) => {
             const override = overrides[u.id]
             if (override) {
-              return { ...u, status: override }
+              // Mark broken URLs as archived too
+              const archived = override === "broken"
+              return { ...u, status: override, archived }
             }
             return u
           })
@@ -187,6 +189,25 @@ export default function UrlManagerPage() {
         setOverrides({})
         setHasChanges(false)
         setShowConfirm(false)
+
+        // Re-fetch URLs from vault after a short delay to pick up file changes
+        setTimeout(() => {
+          fetch("/api/urls?refresh=true")
+            .then((r) => r.json())
+            .then((data) => {
+              if (data.urls) {
+                // Merge: keep check status for URLs we already checked, update everything else
+                setUrls((prev) => {
+                  const statusMap = new Map(prev.map((u) => [u.url + u.profilePath, u.status]))
+                  return (data.urls as VaultUrl[]).map((u: VaultUrl) => ({
+                    ...u,
+                    status: statusMap.get(u.url + u.profilePath) || (u.archived ? "broken" : "unchecked"),
+                  } as CheckedUrl))
+                })
+              }
+            })
+            .catch(() => {})
+        }, 1000)
       }
     } catch { /* error */ }
     finally { setSaving(false) }
