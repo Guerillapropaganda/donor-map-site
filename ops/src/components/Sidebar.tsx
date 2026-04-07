@@ -68,7 +68,7 @@ export function Sidebar() {
       {/* Footer */}
       <div className="p-4 border-t border-[var(--color-border)]">
         <p className="text-[9px] text-[var(--color-text-dim)] tracking-wider">
-          v1.0 — Session 1
+          v1.0 — Complete
         </p>
       </div>
     </aside>
