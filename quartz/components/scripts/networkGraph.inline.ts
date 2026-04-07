@@ -505,6 +505,241 @@ function initNetworkGraph() {
 }
 
 // ── Mini-graph for ProfileWidget ──
+function renderMiniGraphInContainer(container: HTMLElement, graphData: string, expanded: boolean) {
+  // Clear existing
+  container.innerHTML = ""
+
+  let data: { nodes: any[]; edges: any[] }
+  try {
+    data = JSON.parse(graphData)
+  } catch {
+    return
+  }
+  if (data.nodes.length === 0) return
+
+  const width = expanded ? Math.min(window.innerWidth - 80, 900) : 280
+  const height = expanded ? Math.min(window.innerHeight - 120, 650) : 240
+
+  const svgNs = "http://www.w3.org/2000/svg"
+  const svgEl = document.createElementNS(svgNs, "svg")
+  svgEl.setAttribute("width", String(width))
+  svgEl.setAttribute("height", String(height))
+  svgEl.style.display = "block"
+  svgEl.style.margin = "0 auto"
+  container.appendChild(svgEl)
+
+  const svg = select(svgEl)
+
+  // Add glow filter
+  const defs = svg.append("defs")
+  const glow = defs.append("filter").attr("id", "dm-mini-glow")
+  glow.append("feGaussianBlur").attr("stdDeviation", "3").attr("result", "blur")
+  glow.append("feMerge").html('<feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/>')
+
+  const g = svg.append("g")
+
+  const simNodes: GraphNode[] = data.nodes.map((n: any, i: number) => ({
+    ...n,
+    degree: i === 0 ? data.edges.length : 1,
+  }))
+  const nodeMap = new Map(simNodes.map((n) => [n.id, n]))
+
+  const simLinks: GraphLink[] = data.edges
+    .map((e: any) => ({
+      source: nodeMap.get(e.source)!,
+      target: nodeMap.get(e.target)!,
+    }))
+    .filter((l: any) => l.source && l.target)
+
+  // Zoom/pan (both modes)
+  const zoomBehavior = zoom<SVGSVGElement, unknown>()
+    .scaleExtent([0.3, 4])
+    .on("zoom", (event) => {
+      g.attr("transform", event.transform)
+      // Show labels when zoomed in
+      const k = event.transform.k
+      if (expanded) {
+        g.selectAll(".mini-label").attr("display", k > 0.8 ? "block" : "none")
+      }
+    })
+  svg.call(zoomBehavior)
+
+  // Edges — curved arcs
+  const linkEls = g
+    .append("g")
+    .selectAll("path")
+    .data(simLinks)
+    .join("path")
+    .attr("fill", "none")
+    .attr("stroke", "#1e1e2e")
+    .attr("stroke-opacity", 0.4)
+    .attr("stroke-width", 0.6)
+
+  // Nodes
+  const nodeSize = expanded ? 8 : 5
+  const centerSize = expanded ? 14 : 8
+
+  const nodeEls = g
+    .selectAll("g.mini-node")
+    .data(simNodes)
+    .join("g")
+    .attr("class", "mini-node")
+    .attr("cursor", "pointer")
+
+  // Glow ring
+  nodeEls
+    .append("path")
+    .attr("d", (d) => {
+      const r = (d.degree > 1 ? centerSize : nodeSize) + 2
+      return d.type === "politician" ? hexPath(0, 0, r) : rectPath(0, 0, r)
+    })
+    .attr("fill", "none")
+    .attr("stroke", (d) => getNodeColor(d))
+    .attr("stroke-width", 1)
+    .attr("stroke-opacity", 0.15)
+
+  nodeEls
+    .append("path")
+    .attr("class", "mini-shape")
+    .attr("d", (d) => {
+      const r = d.degree > 1 ? centerSize : nodeSize
+      return d.type === "politician" ? hexPath(0, 0, r) : rectPath(0, 0, r)
+    })
+    .attr("fill", (d) => getNodeColor(d))
+    .attr("fill-opacity", 0.8)
+    .attr("stroke", (d) => getNodeColor(d))
+    .attr("stroke-width", 1)
+    .attr("stroke-opacity", 0.3)
+
+  // Labels — always show in expanded, hidden in compact
+  nodeEls
+    .append("text")
+    .attr("class", "mini-label")
+    .attr("y", (d) => (d.degree > 1 ? centerSize + 12 : nodeSize + 10))
+    .attr("text-anchor", "middle")
+    .attr("fill", COLORS.text)
+    .attr("font-family", "'Space Mono', monospace")
+    .attr("font-size", expanded ? "10px" : "8px")
+    .attr("display", expanded ? "block" : "none")
+    .text((d) => {
+      const max = expanded ? 22 : 14
+      return d.name.length > max ? d.name.slice(0, max - 2) + ".." : d.name
+    })
+
+  // Drag (both modes)
+  const dragBehavior = drag<SVGGElement, GraphNode>()
+    .on("start", (event, d) => {
+      if (!event.active) sim.alphaTarget(0.3).restart()
+      d.fx = d.x
+      d.fy = d.y
+    })
+    .on("drag", (event, d) => {
+      d.fx = event.x
+      d.fy = event.y
+    })
+    .on("end", (event, d) => {
+      if (!event.active) sim.alphaTarget(0)
+      d.fx = null
+      d.fy = null
+    })
+  nodeEls.call(dragBehavior)
+
+  // Hover — show label + highlight connections
+  nodeEls
+    .on("mouseenter", (_event, d) => {
+      const connected = new Set<string>([d.id])
+      simLinks.forEach((l) => {
+        const s = (l.source as GraphNode).id
+        const t = (l.target as GraphNode).id
+        if (s === d.id) connected.add(t)
+        if (t === d.id) connected.add(s)
+      })
+
+      nodeEls.select(".mini-shape")
+        .attr("fill-opacity", (n: any) => (connected.has(n.id) ? 0.95 : 0.1))
+        .attr("filter", (n: any) => (n.id === d.id ? "url(#dm-mini-glow)" : "none"))
+      nodeEls.select(".mini-label")
+        .attr("display", (n: any) => (connected.has(n.id) ? "block" : "none"))
+      linkEls
+        .attr("stroke", (l: any) => {
+          const s = (l.source as GraphNode).id
+          const t = (l.target as GraphNode).id
+          return s === d.id || t === d.id ? COLORS.edgeHighlight : "#1e1e2e"
+        })
+        .attr("stroke-opacity", (l: any) => {
+          const s = (l.source as GraphNode).id
+          const t = (l.target as GraphNode).id
+          return s === d.id || t === d.id ? 0.7 : 0.05
+        })
+        .attr("stroke-width", (l: any) => {
+          const s = (l.source as GraphNode).id
+          const t = (l.target as GraphNode).id
+          return s === d.id || t === d.id ? 1.5 : 0.5
+        })
+    })
+    .on("mouseleave", () => {
+      nodeEls.select(".mini-shape").attr("fill-opacity", 0.8).attr("filter", "none")
+      nodeEls.select(".mini-label").attr("display", expanded ? "block" : "none")
+      linkEls.attr("stroke", "#1e1e2e").attr("stroke-opacity", 0.4).attr("stroke-width", 0.6)
+    })
+
+  // Click to navigate
+  nodeEls.on("click", (_event, d) => {
+    if (d.slug) window.location.href = d.slug
+  })
+
+  // Force
+  const spread = expanded ? 2.5 : 1
+  const sim = forceSimulation<GraphNode>(simNodes)
+    .force(
+      "link",
+      forceLink<GraphNode, GraphLink>(simLinks)
+        .id((d) => d.id)
+        .distance(50 * spread),
+    )
+    .force("charge", forceManyBody().strength(-100 * spread))
+    .force("center", forceCenter(width / 2, height / 2))
+    .force("collision", forceCollide<GraphNode>().radius((d) => (d.degree > 1 ? centerSize : nodeSize) + 6))
+
+  for (let i = 0; i < 150; i++) sim.tick()
+
+  function ticked() {
+    linkEls.attr("d", (d: any) => {
+      const sx = (d.source as GraphNode).x!
+      const sy = (d.source as GraphNode).y!
+      const tx = (d.target as GraphNode).x!
+      const ty = (d.target as GraphNode).y!
+      const dx = tx - sx
+      const dy = ty - sy
+      const dr = Math.sqrt(dx * dx + dy * dy) * 0.9
+      return `M${sx},${sy}A${dr},${dr} 0 0,1 ${tx},${ty}`
+    })
+    nodeEls.attr("transform", (d: any) => `translate(${d.x},${d.y})`)
+  }
+
+  ticked()
+  sim.on("tick", ticked)
+  sim.alphaDecay(0.08).restart()
+
+  // Auto-fit
+  setTimeout(() => {
+    let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity
+    for (const n of simNodes) {
+      if (n.x! < minX) minX = n.x!
+      if (n.y! < minY) minY = n.y!
+      if (n.x! > maxX) maxX = n.x!
+      if (n.y! > maxY) maxY = n.y!
+    }
+    const pad = expanded ? 60 : 30
+    const dx = maxX - minX + pad * 2
+    const dy = maxY - minY + pad * 2
+    const scale = Math.min(width / dx, height / dy, expanded ? 1.5 : 1.2)
+    const tx = width / 2 - ((minX + maxX) / 2) * scale
+    const ty = height / 2 - ((minY + maxY) / 2) * scale
+    svg.call(zoomBehavior.transform, zoomIdentity.translate(tx, ty).scale(scale))
+  }, 100)
+}
+
 function initMiniGraph() {
   const miniEls = document.querySelectorAll(".pw-mini-graph")
   miniEls.forEach((el) => {
@@ -514,109 +749,50 @@ function initMiniGraph() {
     const raw = container.dataset.graph
     if (!raw) return
 
-    let data: { nodes: any[]; edges: any[] }
-    try {
-      data = JSON.parse(raw)
-    } catch {
-      return
-    }
+    // Add expand button
+    const expandBtn = document.createElement("button")
+    expandBtn.className = "pw-mini-expand"
+    expandBtn.textContent = "Expand"
+    expandBtn.title = "Open full-size interactive graph"
+    container.parentElement?.insertBefore(expandBtn, container)
 
-    if (data.nodes.length === 0) return
+    // Render compact
+    renderMiniGraphInContainer(container, raw, false)
 
-    const width = 280
-    const height = 240
+    // Expand handler
+    expandBtn.addEventListener("click", () => {
+      // Create overlay
+      const overlay = document.createElement("div")
+      overlay.className = "pw-graph-overlay"
 
-    const svgNs = "http://www.w3.org/2000/svg"
-    const svgEl = document.createElementNS(svgNs, "svg")
-    svgEl.setAttribute("width", String(width))
-    svgEl.setAttribute("height", String(height))
-    svgEl.style.display = "block"
-    svgEl.style.margin = "0 auto"
-    container.appendChild(svgEl)
+      const closeBtn = document.createElement("button")
+      closeBtn.className = "pw-graph-overlay-close"
+      closeBtn.textContent = "Close"
 
-    const svg = select(svgEl)
-    const g = svg.append("g")
+      const graphBox = document.createElement("div")
+      graphBox.className = "pw-graph-overlay-box"
 
-    const simNodes: GraphNode[] = data.nodes.map((n: any, i: number) => ({
-      ...n,
-      degree: i === 0 ? data.edges.length : 1,
-    }))
-    const nodeMap = new Map(simNodes.map((n) => [n.id, n]))
+      overlay.appendChild(closeBtn)
+      overlay.appendChild(graphBox)
+      document.body.appendChild(overlay)
 
-    const simLinks: GraphLink[] = data.edges
-      .map((e: any) => ({
-        source: nodeMap.get(e.source)!,
-        target: nodeMap.get(e.target)!,
-      }))
-      .filter((l: any) => l.source && l.target)
+      // Render expanded
+      renderMiniGraphInContainer(graphBox, raw, true)
 
-    // Edges
-    const linkEls = g
-      .append("g")
-      .selectAll("line")
-      .data(simLinks)
-      .join("line")
-      .attr("stroke", "#2a2a3a")
-      .attr("stroke-opacity", 0.5)
-      .attr("stroke-width", 0.6)
-
-    // Nodes
-    const nodeEls = g
-      .selectAll("g.mini-node")
-      .data(simNodes)
-      .join("g")
-      .attr("class", "mini-node")
-      .attr("cursor", "pointer")
-
-    nodeEls
-      .append("path")
-      .attr("d", (d) => {
-        const r = d.degree > 1 ? 8 : 5
-        return d.type === "politician" ? hexPath(0, 0, r) : rectPath(0, 0, r)
+      // Close
+      closeBtn.addEventListener("click", () => {
+        overlay.remove()
       })
-      .attr("fill", (d) => getNodeColor(d))
-      .attr("fill-opacity", 0.85)
-
-    nodeEls
-      .append("text")
-      .attr("y", (d) => (d.degree > 1 ? 14 : 11))
-      .attr("text-anchor", "middle")
-      .attr("fill", COLORS.text)
-      .attr("font-family", "'Space Mono', monospace")
-      .attr("font-size", "8px")
-      .text((d) => (d.name.length > 16 ? d.name.slice(0, 14) + ".." : d.name))
-
-    // Click to navigate
-    nodeEls.on("click", (_event, d) => {
-      if (d.slug) window.location.href = d.slug
+      overlay.addEventListener("click", (e) => {
+        if (e.target === overlay) overlay.remove()
+      })
+      document.addEventListener("keydown", function esc(e) {
+        if (e.key === "Escape") {
+          overlay.remove()
+          document.removeEventListener("keydown", esc)
+        }
+      })
     })
-
-    // Force
-    const sim = forceSimulation<GraphNode>(simNodes)
-      .force(
-        "link",
-        forceLink<GraphNode, GraphLink>(simLinks)
-          .id((d) => d.id)
-          .distance(40),
-      )
-      .force("charge", forceManyBody().strength(-80))
-      .force("center", forceCenter(width / 2, height / 2))
-      .force("collision", forceCollide<GraphNode>().radius(12))
-
-    for (let i = 0; i < 150; i++) sim.tick()
-
-    function ticked() {
-      linkEls
-        .attr("x1", (d: any) => (d.source as GraphNode).x!)
-        .attr("y1", (d: any) => (d.source as GraphNode).y!)
-        .attr("x2", (d: any) => (d.target as GraphNode).x!)
-        .attr("y2", (d: any) => (d.target as GraphNode).y!)
-      nodeEls.attr("transform", (d: any) => `translate(${d.x},${d.y})`)
-    }
-
-    ticked()
-    sim.on("tick", ticked)
-    sim.alphaDecay(0.1).restart()
   })
 }
 
