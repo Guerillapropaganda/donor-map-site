@@ -12,36 +12,77 @@ How data flows from government APIs into vault profiles. Code Claude maintains t
 
 ## API Inventory
 
-| Pipeline | API Source | Tier | Auth | Rate Limit | What it provides |
-|----------|-----------|------|------|------------|-----------------|
-| **FEC** | api.open.fec.gov | 1 | API key | 1,000/hr | Fundraising totals, donor contributions, independent expenditures, politicians-funded |
-| **Congress** | api.congress.gov | 1 | API key | 5,000/hr | Bills sponsored, committees, policy areas, voting record |
-| **Senate LDA** | lda.senate.gov | 1 | Token | ~600/hr | Lobbying filings, spend totals, issues lobbied, firms hired |
-| **LobbyView** | rest-api.lobbyview.org | 1 | Token | 100/day | Client-bill lobbying networks, NAICS codes, issue areas |
-| **USASpending** | api.usaspending.gov | 1 | None | 2,000/hr | Federal contracts, grants, awards |
-| **SAM.gov** | api.sam.gov | 1 | API key | 1,000/hr | Entity registrations, contract opportunities |
-| **GovTrack** | govtrack.us/api | 1 | None | 1,000/hr | Enhanced bill tracking, vote analysis, legislator data |
-| **ProPublica 990s** | projects.propublica.org | 1 | None | 1,000/hr | Nonprofit tax filings, revenue, exec compensation |
-| **RSS** | Various feeds | 2-3 | None | N/A | News event matching against profiles |
+| Pipeline | API Source | Tier | Auth | What it provides |
+|----------|-----------|------|------|-----------------|
+| **FEC** | api.open.fec.gov | 1 | API key | Donor contributions, independent expenditures, politicians-funded |
+| **FEC Summary** | api.open.fec.gov | 1 | API key | Total raised/spent, cash on hand, debt per cycle |
+| **Congress** | api.congress.gov | 1 | API key | Bills sponsored, policy areas, member details |
+| **Committee** | api.congress.gov | 1 | API key | Committee and subcommittee assignments |
+| **Senate LDA** | lda.senate.gov | 1 | Token | Lobbying filings, spend totals, issues lobbied |
+| **LobbyView** | rest-api.lobbyview.org | 1 | Token | Client-bill lobbying networks, NAICS codes |
+| **FARA** | fara.us/api | 1 | None | Foreign agent registrations, foreign principals |
+| **USASpending** | api.usaspending.gov | 1 | None | Federal contracts, grants, awards |
+| **USASpending Awards** | api.usaspending.gov | 1 | None | Subawards, spending breakdowns by agency/NAICS |
+| **SAM.gov** | api.sam.gov | 1 | API key | Entity registrations, contract opportunities |
+| **GovTrack** | govtrack.us/api | 1 | None | Vote analysis, bill tracking, legislator data |
+| **Federal Register** | federalregister.gov/api | 1 | None | Federal rulemaking, proposed rules, notices |
+| **SEC EDGAR** | efts.sec.gov | 1 | None | Corporate filings (10-K, 10-Q, DEF 14A, etc.) |
+| **SEC Litigation** | efts.sec.gov | 1 | None | SEC enforcement actions, litigation releases |
+| **CourtListener** | courtlistener.com/api | 1 | API key | Federal court dockets, RECAP records |
+| **DOJ Press** | justice.gov/api | 1 | None | DOJ press releases, enforcement actions |
+| **EPA ECHO** | echo.epa.gov/api | 1 | None | Environmental violations, facility compliance |
+| **OSHA** | apiprod.dol.gov/v4 | 1 | API key | Workplace safety inspections, penalties |
+| **CPSC Recalls** | saferproducts.gov | 1 | None | Consumer product safety recalls |
+| **NHTSA Recalls** | api.nhtsa.gov | 1 | None | Vehicle recalls, complaints, investigations |
+| **FCC** | publicfiles.fcc.gov | 1 | None | Political ad buys (per-station only, limited) |
+| **Stock Watcher** | S3/GitHub bulk data | 1 | None | Congressional stock trades (Senate only) |
+| **OFAC SDN** | treasury.gov/ofac | 1 | None | Sanctions list screening (bulk CSV) |
+| **GLEIF** | api.gleif.org | 1 | None | Legal Entity Identifiers, corporate ownership |
+| **OpenSanctions** | api.opensanctions.org | 2 | API key | PEP screening, international sanctions |
+| **Nonprofit 990** | propublica.org/nonprofits | 2 | None | IRS 990 tax filings, revenue, exec comp |
+| **Public Accountability** | publicaccountability.org | 2 | None | UC Berkeley public records (1.9B records) |
+| **Wikipedia** | wikidata.org + en.wikipedia.org | 3 | None | Entity IDs, descriptions, key facts |
+| **Lobbying Cross-Ref** | Local vault analysis | — | None | Influence chains: lobbying → donations → committees |
+| **RSS** | Various feeds | 2-3 | None | News event matching against profiles |
 
 ## Scripts
 
 All scripts live in `donor-map-engine/scripts/`. Run from the engine repo root.
 
-| Script | Targets | Default limit | Key frontmatter written |
-|--------|---------|--------------|------------------------|
+| Script | Targets | Limit | Key frontmatter |
+|--------|---------|-------|-----------------|
 | `fec-pipeline.cjs` | Politicians + Donors | 30 | `total-raised`, `total-spent`, `politicians-funded` |
-| `congress-pipeline.cjs` | Politicians | 30 | `bills-sponsored`, `committees` |
+| `fec-summary-pipeline.cjs` | Politicians | 20 | `fec-candidate-id`, `fec-cycle`, `cash-on-hand` |
+| `congress-pipeline.cjs` | Politicians | 30 | `congress-id`, `bills-sponsored` |
+| `committee-pipeline.cjs` | Politicians | 20 | `committees` |
 | `lda-pipeline.cjs` | Donors/Corps | 20 | `lobbying-spend`, `lobbying-filings` |
 | `lobbyview-pipeline.cjs` | Donors/Corps | 5 | `lobbyview-bills`, `naics-code` |
+| `fara-pipeline.cjs` | All entities | 15 | `fara-registrant`, `fara-principals` |
 | `usaspending-pipeline.cjs` | Donors/Corps | 10 | `federal-contracts`, `contract-total` |
+| `usaspending-awards-pipeline.cjs` | Donors/Corps | 15 | `subawards-issued`, `top-federal-agency` |
 | `sam-pipeline.cjs` | Donors/Corps | 10 | `sam-registered` |
 | `govtrack-pipeline.cjs` | Politicians | 5 | `govtrack-id`, `leadership-score` |
-| `propublica-pipeline.cjs` | Donors/Corps (nonprofits) | 30 | `ein`, `total-revenue`, `total-assets` |
+| `federal-register-pipeline.cjs` | All entities | 20 | `federal-register-mentions`, `regulatory-agencies` |
+| `sec-edgar-pipeline.cjs` | Corps/Donors | 15 | `sec-filings`, `sec-form-types` |
+| `sec-litigation-pipeline.cjs` | Corps/Donors | 15 | `sec-enforcement-actions` |
+| `courtlistener-pipeline.cjs` | All entities | 15 | `court-cases`, `court-jurisdictions` |
+| `doj-press-pipeline.cjs` | All entities | 15 | `doj-press-mentions`, `doj-components` |
+| `epa-echo-pipeline.cjs` | Corporations | 15 | `epa-violations`, `epa-facilities` |
+| `osha-pipeline.cjs` | Corporations | 15 | `osha-inspections`, `osha-penalties` |
+| `recall-pipeline.cjs` | Corporations | 15 | `cpsc-recalls` |
+| `nhtsa-recalls-pipeline.cjs` | Corporations | 15 | `nhtsa-recalls`, `nhtsa-complaints` |
+| `fcc-political-pipeline.cjs` | All entities | 15 | `fcc-political-files` |
+| `stock-watcher-pipeline.cjs` | Politicians | all | `stock-trades`, `stock-trade-tickers` |
+| `ofac-sdn-pipeline.cjs` | All entities | all | `ofac-sdn-match`, `ofac-programs` |
+| `gleif-pipeline.cjs` | Corps/Donors | 30 | `lei`, `lei-jurisdiction`, `lei-parent` |
+| `opensanctions-pipeline.cjs` | All entities | 50 | `opensanctions-status`, `opensanctions-matches` |
+| `nonprofit-990-pipeline.cjs` | Corps/Donors/Think-tanks | 20 | `ein`, `nonprofit-status`, `total-revenue` |
+| `public-accountability-pipeline.cjs` | All entities | 15 | `public-accountability-records` |
+| `wikipedia-pipeline.cjs` | All entities | 30 | `wikidata-id`, `wikipedia-url`, `wikipedia-extract` |
+| `lobbying-contrib-pipeline.cjs` | All entities | all | Influence cross-reference (body only) |
 | `rss-pipeline.cjs` | All profiles | N/A | Creates event draft files |
-| `opensecrets-replace.cjs` | All files with opensecrets.org URLs | N/A | Replaces URLs in body |
-| `url-checker.cjs` | All files | N/A | Reports only |
-| `enrich-frontmatter.cjs` | All profiles | N/A | Bulk YAML field population |
+| `pipeline-coverage-report.cjs` | All profiles | N/A | Reports only (JSON + MD) |
+| `opensecrets-replace.cjs` | All files | N/A | Replaces URLs in body |
 
 ## Running Pipelines
 
@@ -68,7 +109,7 @@ gh workflow run api-enrichment.yml --field limit=20 --field pipeline=all
 gh workflow run api-enrichment.yml --field limit=5 --field pipeline=lobbyview
 ```
 
-Pipeline options: `fec`, `congress`, `propublica`, `govtrack`, `sam`, `usaspending`, `lda`, `lobbyview`, `all`
+Pipeline options: `fec`, `fec-summary`, `congress`, `committee`, `propublica`, `nonprofit-990`, `sam`, `lda`, `usaspending`, `usaspending-awards`, `govtrack`, `lobbyview`, `fara`, `courtlistener`, `federal-register`, `sec-edgar`, `sec-litigation`, `public-accountability`, `fcc`, `opensanctions`, `doj-press`, `wikipedia`, `ofac-sdn`, `recall`, `nhtsa-recalls`, `lobbying-contrib`, `stock-watcher`, `gleif`, `epa-echo`, `osha`, `all`
 
 ## How Data Lands in Profiles
 
@@ -101,13 +142,34 @@ Pipeline writes formatted content inside HTML comment markers:
 **Block types currently in use:**
 - `auto:fec-fundraising` — FEC financial summary
 - `auto:fec-donors` — Top donor contributions
+- `auto:fec-summary` — Campaign finance totals per cycle
 - `auto:congress-legislation` — Bills, committees, policy areas
+- `auto:committee-assignments` — Committee and subcommittee assignments
 - `auto:lda-lobbying` — Lobbying activity and spend
 - `auto:lobbyview-networks` — Bill-level lobbying networks
+- `auto:fara-foreign-agent` — FARA foreign agent registrations
 - `auto:usaspending-contracts` — Federal contract awards
+- `auto:usaspending-subawards` — Subaward details and spending breakdowns
 - `auto:sam-registration` — SAM.gov entity data
-- `auto:propublica-990` — Nonprofit tax filings
 - `auto:govtrack-votes` — Voting record and scores
+- `auto:federal-register` — Federal rulemaking mentions
+- `auto:sec-filings` — SEC EDGAR corporate filings
+- `auto:sec-enforcement` — SEC enforcement actions
+- `auto:courtlistener-cases` — Federal court records
+- `auto:doj-press` — DOJ press releases
+- `auto:epa-echo` — EPA environmental violations
+- `auto:osha-safety` — OSHA workplace inspections
+- `auto:cpsc-recalls` — Consumer product recalls
+- `auto:nhtsa-recalls` — Vehicle safety recalls
+- `auto:fcc-political-files` — FCC political ad buys
+- `auto:stock-trades` — Congressional stock trades
+- `auto:ofac-sdn` — OFAC sanctions screening
+- `auto:gleif-lei` — Legal Entity Identifiers
+- `auto:opensanctions` — PEP/sanctions screening
+- `auto:nonprofit-990` — IRS 990 tax filings
+- `auto:wikipedia` — Wikipedia/Wikidata entity data
+- `auto:influence-cross-ref` — Lobbying → donation → committee chains
+- `auto:propublica-990` — Nonprofit tax filings (legacy)
 
 ### 3. Conflict resolution
 - Fresh data overwrites auto-blocks on each run
@@ -126,8 +188,11 @@ Keys live in `.env` (gitignored) locally and as GitHub Secrets for CI.
 | Senate LDA | `LDA_API_KEY` | `LDAAPI` | Token auth (already configured) |
 | SAM.gov | `SAM_API_KEY` | `SAMAPI` | https://sam.gov/content/home |
 | LobbyView | `LOBBYVIEW_API_KEY` | `LOBBYVIEWAPI` | https://www.lobbyview.org → Sign in → Data Download → API |
+| CourtListener | `COURTLISTENER_API_KEY` | `COURTLISTENERAPI` | Profile page on courtlistener.com |
+| OpenSanctions | `OPENSANCTIONS_API_KEY` | `OPENSANCTIONSAPI` | https://opensanctions.org (free non-commercial) |
+| DOL/OSHA | `DOL_API_KEY` | `DOLAPI` | https://data.dol.gov (free registration) |
 
-USASpending, GovTrack, ProPublica 990s: no auth required.
+**22 pipelines need zero auth**: USASpending (both), GovTrack, Federal Register, SEC EDGAR, SEC Litigation, FARA, DOJ Press, EPA ECHO, CPSC, NHTSA, FCC, Stock Watcher, OFAC SDN, GLEIF, Wikipedia, Public Accountability, Nonprofit 990, Lobbying Cross-Ref, RSS.
 
 ## OpenSecrets URL Replacement
 
