@@ -97,6 +97,7 @@ Two Claudes, one vault. Clear lanes prevent contradictions.
 - Source verification: checking URLs, confirming claims, tier assignments
 - Two-section source layout: deciding what moves to Archived vs stays Verified
 - Profile structure: section ordering, callout usage, narrative flow
+- **Opposition tagging**: ensuring `related:` vs `opposes:` is correct on every profile touched. This is mandatory — never leave an adversarial connection in `related:`
 
 ### Shared:
 - `Vault Rules.md` (this file) — either Claude can update with David's approval
@@ -154,11 +155,20 @@ Pipelines write data into profiles automatically. This data must coexist with ed
 ### Frontmatter (required on every profile):
 ```yaml
 title: Name
-type: politician | donor | corporation | pac | event | story
+type: politician | donor | corporation | pac | think-tank | lobbying-firm | media-profile | event | story
 content-readiness: raw | draft | developed | verified | ready
 source-tier: 1-4 (highest tier source in the file)
 last-updated: YYYY-MM-DD
 ```
+
+### Relationship fields (on profiles with connections):
+```yaml
+related: "[[Ally 1]] · [[Funder 2]]"     # allied, funding, or organizational connections
+donors: "[[Funder 1]] · [[Funder 2]]"     # funding sources
+opposes: "[[Adversary 1]] · [[Target 2]]" # adversarial relationships — critics, targets, opponents
+```
+
+**Opposition tagging rule:** Every profile must correctly distinguish allied vs adversarial connections. If an entity in `related:` is an ideological opponent, subject of criticism, or adversarial target — it belongs in `opposes:`, not `related:`. This is mandatory for Research Claude during any profile review or creation. The graph renders `opposes:` connections as red dashed lines to prevent misrepresenting adversarial relationships as alliances.
 
 ### Wikilinks:
 - Always use full filename: `[[_Elizabeth Warren Master Profile|Elizabeth Warren]]`
@@ -220,6 +230,7 @@ Permanent record of architectural and editorial decisions that affect the whole 
 
 | Date | Decision | Made by |
 |------|----------|---------|
+| 2026-04-07 | `opposes:` frontmatter field mandatory. Research Claude must tag adversarial connections on every profile review. Graph renders as red dashed lines. | David |
 | 2026-04-06 | New readiness tier: `verified` (has Tier 1 data). Existing `ready` files stay published, pipeline promotes through `verified` organically | David |
 | 2026-04-06 | Tier 1 First mandate — every factual claim needs government source | David |
 | 2026-04-06 | Two-section source layout: Verified / Archived. Broken links preserved as research trail | David |
