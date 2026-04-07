@@ -11,7 +11,6 @@ politicians-funded:
   - "Clarence Thomas"
 issues:
   - "Housing"
-federal-contracts: "6189"
 ---
 
 
@@ -114,30 +113,6 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 ---
 
 ### Federal Contracts
-<!-- auto:sam-contracts start -->
-
-| Metric | Value |
-|--------|-------|
-| Total Contracts Found | 6189 |
-| Sample Value (top 25) | $980K |
-| Year Range | 2005-2017 |
-| Federal Agencies | 3 |
-
-**Contracting agencies:** AGRICULTURE, DEPARTMENT OF, EDUCATION, DEPARTMENT OF, NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
-
-**Recent contracts:**
-
-| Amount | Agency | Date |
-|--------|--------|------|
-| $77K | AGRICULTURE, DEPARTMENT OF | 2013-02-28 |
-| $14K | AGRICULTURE, DEPARTMENT OF | 2011-09-22 |
-| $11K | NATIONAL AERONAUTICS AND SPACE ADMINISTRATION | 2005-08-19 |
-| $4K | AGRICULTURE, DEPARTMENT OF | 2010-05-11 |
-| $0 | AGRICULTURE, DEPARTMENT OF | 2014-04-25 |
-
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Harlan%20Crow&page=1&index=opp) (Tier 1)
-
-<!-- auto:sam-contracts end -->
 
 ### Sources
 

@@ -9,7 +9,6 @@ sector: "Super PACs"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
-federal-contracts: "19626"
 ---
 
 #maga #small-dollar #donors #trump #grassroots #winred #fundraising #recurring-donations #indictment-fundraising #class-analysis #follow-the-money
@@ -105,30 +104,6 @@ The WinRed predatory extraction dimension adds a final layer: the very infrastru
 ---
 
 ### Federal Contracts
-<!-- auto:sam-contracts start -->
-
-| Metric | Value |
-|--------|-------|
-| Total Contracts Found | 19626 |
-| Sample Value (top 25) | $303K |
-| Year Range | 2005-2026 |
-| Federal Agencies | 7 |
-
-**Contracting agencies:** AGRICULTURE, DEPARTMENT OF, DEPT OF DEFENSE, EDUCATION, DEPARTMENT OF, GENERAL SERVICES ADMINISTRATION, HEALTH AND HUMAN SERVICES, DEPARTMENT OF, HOMELAND SECURITY, DEPARTMENT OF, INTERIOR, DEPARTMENT OF THE
-
-**Recent contracts:**
-
-| Amount | Agency | Date |
-|--------|--------|------|
-| $28K | DEPT OF DEFENSE | 2010-12-06 |
-| $15K | DEPT OF DEFENSE | 2011-02-11 |
-| $15K | DEPT OF DEFENSE | 2010-12-16 |
-| $5K | DEPT OF DEFENSE | 2007-04-03 |
-| $4K | DEPT OF DEFENSE | 2008-02-14 |
-
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=MAGA%20Small%20Dollar%20Base&page=1&index=opp) (Tier 1)
-
-<!-- auto:sam-contracts end -->
 
 ### Sources
 
