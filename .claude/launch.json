@@ -15,10 +15,9 @@
     },
     {
       "name": "ops-dashboard",
-      "runtimeExecutable": "npx",
-      "runtimeArgs": ["next", "dev", "-p", "3333"],
-      "port": 3333,
-      "cwd": "ops"
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "cd ops && npx next dev -p 3333"],
+      "port": 3333
     }
   ]
 }
