@@ -27,11 +27,13 @@ const ProfileWidget: QuartzComponent = ({
   const isPolitician = fmType === "politician"
   const isDonorType = fmType === "donor" || fmType === "corporation" || fmType === "pac"
 
-  // Extract wikilink targets from our own related/donors fields
+  // Extract wikilink targets from our own related/donors/opposes fields
   const ourRelated = String(fm.related ?? "")
   const ourDonorsField = String(fm.donors ?? "")
+  const ourOpposesField = String(fm.opposes ?? "")
   const ourAllLinks = ourRelated + " " + ourDonorsField
   const ourLinkTargets = new Set<string>()
+  const ourOpposesTargets = new Set<string>()
   {
     const lr = /\[\[([^\]|]+)/g
     let m: RegExpExecArray | null
@@ -39,12 +41,19 @@ const ProfileWidget: QuartzComponent = ({
       ourLinkTargets.add(m[1].replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim())
     }
   }
+  {
+    const lr = /\[\[([^\]|]+)/g
+    let m: RegExpExecArray | null
+    while ((m = lr.exec(ourOpposesField)) !== null) {
+      ourOpposesTargets.add(m[1].replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim())
+    }
+  }
 
   // Build lookup maps from allFiles
   const donorInfo = new Map<string, { sector: string; slug: string; politiciansFunded: string[] }>()
   const polInfo = new Map<string, { party: string; slug: string; chamber: string }>()
   // Extended network: think tanks, K Street, media, politicians, donors connected to this profile
-  const networkInfo = new Map<string, { type: string; slug: string; category?: string; via?: string }>()
+  const networkInfo = new Map<string, { type: string; slug: string; category?: string; via?: string; edgeType?: string }>()
   // For donor profiles: track politicians they fund
   const politiciansFunded = isDonorType ? (Array.isArray(fm["politicians-funded"]) ? fm["politicians-funded"] as string[] : []) : []
 
@@ -86,8 +95,12 @@ const ProfileWidget: QuartzComponent = ({
 
       // Check mutual references
       const theirRelated = String(fFm.related ?? "")
+      const theirOpposes = String(fFm.opposes ?? "")
       const theyReferenceUs = theirRelated.toLowerCase().includes(currentTitle.toLowerCase())
       const weReferenceThem = topDonors.includes(fTitle) || ourLinkTargets.has(fTitle)
+      // Check opposition references (either direction)
+      const theyOpposeUs = theirOpposes.toLowerCase().includes(currentTitle.toLowerCase())
+      const weOpposeThem = ourOpposesTargets.has(fTitle)
 
       // Shared-donor bridge (for politician profiles)
       const theirDonors = String(fFm.donors ?? "")
@@ -112,12 +125,15 @@ const ProfileWidget: QuartzComponent = ({
           if (sharedDonor) break
         }
       }
-      if (theyReferenceUs || weReferenceThem || sharedDonor) {
+      // Determine edge type: opposition takes priority
+      const isOpposition = theyOpposeUs || weOpposeThem
+      if (isOpposition || theyReferenceUs || weReferenceThem || sharedDonor) {
         networkInfo.set(fTitle, {
           type: fType,
           slug: `${basePath}/${simplifySlug(f.slug!)}`,
           category,
           via: sharedDonor || undefined,
+          edgeType: isOpposition ? "opposition" : "allied",
         })
       }
     }
@@ -126,29 +142,55 @@ const ProfileWidget: QuartzComponent = ({
   // For non-politician profiles: also find connected politicians and donors via our wikilinks
   if (!isPolitician) {
     for (const linkTarget of ourLinkTargets) {
-      // Check if it's a politician
       const pi = polInfo.get(linkTarget)
       if (pi && !networkInfo.has(linkTarget)) {
-        networkInfo.set(linkTarget, { type: "politician", slug: pi.slug, category: pi.party })
+        networkInfo.set(linkTarget, { type: "politician", slug: pi.slug, category: pi.party, edgeType: "allied" })
         continue
       }
-      // Check if it's a donor
       const di = donorInfo.get(linkTarget)
       if (di && !networkInfo.has(linkTarget)) {
-        networkInfo.set(linkTarget, { type: "donor", slug: di.slug, category: di.sector })
+        networkInfo.set(linkTarget, { type: "donor", slug: di.slug, category: di.sector, edgeType: "allied" })
+      }
+    }
+    // Opposition targets from opposes: field
+    for (const linkTarget of ourOpposesTargets) {
+      if (networkInfo.has(linkTarget)) continue
+      const pi = polInfo.get(linkTarget)
+      if (pi) {
+        networkInfo.set(linkTarget, { type: "politician", slug: pi.slug, category: pi.party, edgeType: "opposition" })
+        continue
+      }
+      const di = donorInfo.get(linkTarget)
+      if (di) {
+        networkInfo.set(linkTarget, { type: "donor", slug: di.slug, category: di.sector, edgeType: "opposition" })
+        continue
+      }
+      // Check if it's a think tank / K Street / media we already scanned
+      // If not found in polInfo/donorInfo, try to find it in allFiles by title
+      for (const f of allFiles) {
+        const fFm = f.frontmatter
+        if (!fFm) continue
+        const fTitle = String(fFm.title ?? "").replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim()
+        if (fTitle !== linkTarget) continue
+        const fSlug = (f.slug ?? "").toLowerCase()
+        const fType2 = fSlug.startsWith("think-tanks") ? "think-tank" : fSlug.startsWith("lobbying") ? "lobbying" : fSlug.startsWith("media") ? "media" : ""
+        if (fType2) {
+          networkInfo.set(linkTarget, { type: fType2, slug: `${basePath}/${simplifySlug(f.slug!)}`, edgeType: "opposition" })
+        }
+        break
       }
     }
     // For donor profiles: add politicians-funded as connections
     for (const polName of politiciansFunded) {
       const pi = polInfo.get(polName)
       if (pi && !networkInfo.has(polName)) {
-        networkInfo.set(polName, { type: "politician", slug: pi.slug, category: pi.party })
+        networkInfo.set(polName, { type: "politician", slug: pi.slug, category: pi.party, edgeType: "allied" })
       }
     }
   }
 
   // Check if we have any data at all
-  const hasAnyConnections = topDonors.length > 0 || networkInfo.size > 0
+  const hasAnyConnections = topDonors.length > 0 || networkInfo.size > 0 || ourOpposesTargets.size > 0
   if (!hasAnyConnections) {
     return (
       <div class={classNames(displayClass, "pw-widget")}>
@@ -213,7 +255,7 @@ const ProfileWidget: QuartzComponent = ({
 
   // ── GRAPH TAB: Build neighborhood for mini force graph ──
   const miniGraphNodes: { id: string; name: string; type: string; party?: string; sector?: string; slug: string }[] = []
-  const miniGraphEdges: { source: string; target: string }[] = []
+  const miniGraphEdges: { source: string; target: string; edgeType?: string }[] = []
   const miniNodeIds = new Set<string>()
 
   // Center node type based on profile
@@ -269,7 +311,7 @@ const ProfileWidget: QuartzComponent = ({
       })
       miniNodeIds.add(nodeId)
     }
-    miniGraphEdges.push({ source: centerId, target: nodeId })
+    miniGraphEdges.push({ source: centerId, target: nodeId, edgeType: info.edgeType || "allied" })
   }
 
   const compactGraphData = JSON.stringify({ nodes: isPolitician ? compactNodes : miniGraphNodes, edges: isPolitician ? compactEdges : miniGraphEdges })
@@ -791,6 +833,12 @@ a.pw-bs-recip:hover {
   border-color: #1a1a22;
   background: rgba(0, 0, 0, 0.2);
   text-decoration: line-through;
+}
+
+.pw-overlay-filter-btn.pw-filter-opposition.pw-filter-active {
+  color: #ef4444;
+  border-color: #ef4444;
+  background: rgba(239, 68, 68, 0.1);
 }
 
 /* ─── Hide on mobile (right sidebar hides) ─── */

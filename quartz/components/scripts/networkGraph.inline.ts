@@ -423,7 +423,11 @@ function initNetworkGraph() {
         nodeEls.select(".dm-ng-shape").attr("fill-opacity", 0.8).attr("filter", "none")
         nodeEls.select(".dm-ng-glow-ring").attr("stroke-opacity", 0.15)
         nodeEls.select(".dm-ng-label").attr("display", "none").attr("fill-opacity", 1)
-        linkEls.attr("stroke", "#1e1e2e").attr("stroke-opacity", 0.35).attr("stroke-width", 0.7).attr("filter", "none")
+        linkEls
+          .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#ef4444" : "#1e1e2e")
+          .attr("stroke-opacity", (l: any) => l.edgeType === "opposition" ? 0.6 : 0.35)
+          .attr("stroke-width", (l: any) => l.edgeType === "opposition" ? 1 : 0.7)
+          .attr("filter", "none")
         tooltip.style.display = "none"
       })
 
@@ -570,10 +574,11 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
   }))
   const nodeMap = new Map(simNodes.map((n) => [n.id, n]))
 
-  const simLinks: GraphLink[] = data.edges
+  const simLinks: (GraphLink & { edgeType?: string })[] = data.edges
     .map((e: any) => ({
       source: nodeMap.get(e.source)!,
       target: nodeMap.get(e.target)!,
+      edgeType: e.edgeType || "allied",
     }))
     .filter((l: any) => l.source && l.target)
 
@@ -590,16 +595,17 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
     })
   svg.call(zoomBehavior)
 
-  // Edges — curved arcs
+  // Edges — curved arcs (opposition = red dashed)
   const linkEls = g
     .append("g")
     .selectAll("path")
     .data(simLinks)
     .join("path")
     .attr("fill", "none")
-    .attr("stroke", "#1e1e2e")
-    .attr("stroke-opacity", 0.4)
-    .attr("stroke-width", 0.6)
+    .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#ef4444" : "#1e1e2e")
+    .attr("stroke-opacity", (l: any) => l.edgeType === "opposition" ? 0.6 : 0.4)
+    .attr("stroke-width", (l: any) => l.edgeType === "opposition" ? 1 : 0.6)
+    .attr("stroke-dasharray", (l: any) => l.edgeType === "opposition" ? "4,3" : "none")
 
   // Nodes
   const nodeSize = expanded ? 8 : 5
@@ -706,7 +712,10 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
     .on("mouseleave", () => {
       nodeEls.select(".mini-shape").attr("fill-opacity", 0.8).attr("filter", "none")
       nodeEls.select(".mini-label").attr("display", expanded ? "block" : "none")
-      linkEls.attr("stroke", "#1e1e2e").attr("stroke-opacity", 0.4).attr("stroke-width", 0.6)
+      linkEls
+        .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#ef4444" : "#1e1e2e")
+        .attr("stroke-opacity", (l: any) => l.edgeType === "opposition" ? 0.6 : 0.4)
+        .attr("stroke-width", (l: any) => l.edgeType === "opposition" ? 1 : 0.6)
     })
 
   // Click to navigate
@@ -820,14 +829,55 @@ function initMiniGraph() {
           "media": "Media",
           "corporation": "Corporations",
         }
-        // Find which types exist (excluding the center node)
+        // Find which node types and edge types exist
         const typesPresent = new Set<string>()
+        let hasOpposition = false
         parsedData.nodes.forEach((n: any, i: number) => {
           if (i > 0 && n.type) typesPresent.add(n.type)
         })
+        parsedData.edges.forEach((e: any) => {
+          if (e.edgeType === "opposition") hasOpposition = true
+        })
 
-        // Track which types are hidden
+        // Track filters
         const hiddenTypes = new Set<string>()
+        let hideOpposition = false
+
+        // Shared re-render function
+        function reRenderFiltered() {
+          // Filter nodes: hide by type, and if opposition hidden, remove nodes only connected via opposition
+          const oppositionNodeIds = new Set<string>()
+          if (hideOpposition) {
+            parsedData.edges.forEach((e: any) => {
+              if (e.edgeType === "opposition") {
+                oppositionNodeIds.add(e.source)
+                oppositionNodeIds.add(e.target)
+              }
+            })
+            // Don't remove center node or nodes that also have allied edges
+            const alliedNodeIds = new Set<string>()
+            parsedData.edges.forEach((e: any) => {
+              if (e.edgeType !== "opposition") {
+                alliedNodeIds.add(e.source)
+                alliedNodeIds.add(e.target)
+              }
+            })
+            // Only remove nodes that are ONLY connected via opposition
+            for (const id of oppositionNodeIds) {
+              if (alliedNodeIds.has(id)) oppositionNodeIds.delete(id)
+            }
+          }
+          const filteredNodes = parsedData.nodes.filter((n: any, i: number) =>
+            i === 0 || (!hiddenTypes.has(n.type) && !oppositionNodeIds.has(n.id))
+          )
+          const nodeIds = new Set(filteredNodes.map((n: any) => n.id))
+          const filteredEdges = parsedData.edges.filter((e: any) =>
+            nodeIds.has(e.source) && nodeIds.has(e.target) &&
+            !(hideOpposition && e.edgeType === "opposition")
+          )
+          graphBox.innerHTML = ""
+          renderMiniGraphInContainer(graphBox, JSON.stringify({ nodes: filteredNodes, edges: filteredEdges }), true)
+        }
 
         const overlay = document.createElement("div")
         overlay.className = "pw-graph-overlay"
@@ -839,10 +889,10 @@ function initMiniGraph() {
         const overlayBox = document.createElement("div")
         overlayBox.className = "pw-graph-overlay-box"
 
-        // Build filter bar if there are multiple node types
-        let filterBar: HTMLElement | null = null
-        if (typesPresent.size > 1) {
-          filterBar = document.createElement("div")
+        // Build filter bar
+        const showFilterBar = typesPresent.size > 1 || hasOpposition
+        if (showFilterBar) {
+          const filterBar = document.createElement("div")
           filterBar.className = "pw-overlay-filters"
 
           typesPresent.forEach((nodeType) => {
@@ -860,21 +910,30 @@ function initMiniGraph() {
                 btn.classList.remove("pw-filter-active")
                 btn.classList.add("pw-filter-off")
               }
-              // Re-render with filtered data
-              const centerNode = parsedData.nodes[0]
-              const filteredNodes = parsedData.nodes.filter((n: any, i: number) =>
-                i === 0 || !hiddenTypes.has(n.type)
-              )
-              const nodeIds = new Set(filteredNodes.map((n: any) => n.id))
-              const filteredEdges = parsedData.edges.filter((e: any) =>
-                nodeIds.has(e.source) && nodeIds.has(e.target)
-              )
-              const filteredJson = JSON.stringify({ nodes: filteredNodes, edges: filteredEdges })
-              graphBox.innerHTML = ""
-              renderMiniGraphInContainer(graphBox, filteredJson, true)
+              reRenderFiltered()
             })
-            filterBar!.appendChild(btn)
+            filterBar.appendChild(btn)
           })
+
+          // Opposition toggle (red-styled)
+          if (hasOpposition) {
+            const oppBtn = document.createElement("button")
+            oppBtn.className = "pw-overlay-filter-btn pw-filter-active pw-filter-opposition"
+            oppBtn.textContent = "Opposition"
+            oppBtn.addEventListener("click", () => {
+              hideOpposition = !hideOpposition
+              if (hideOpposition) {
+                oppBtn.classList.remove("pw-filter-active")
+                oppBtn.classList.add("pw-filter-off")
+              } else {
+                oppBtn.classList.remove("pw-filter-off")
+                oppBtn.classList.add("pw-filter-active")
+              }
+              reRenderFiltered()
+            })
+            filterBar.appendChild(oppBtn)
+          }
+
           overlayBox.appendChild(filterBar)
         }
 

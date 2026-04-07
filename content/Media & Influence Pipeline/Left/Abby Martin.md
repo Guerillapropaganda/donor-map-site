@@ -7,7 +7,8 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Israel - Government Lobbying Operation]]"
+related: ""
+opposes: "[[AIPAC - American Israel Public Affairs Committee]] · [[Israel - Government Lobbying Operation]]"
 ---
 
 #media-pipeline #left #independent #anti-imperialist #rt #telesur #bds #first-amendment
