@@ -227,10 +227,11 @@ function initNetworkGraph() {
     const simNodes: GraphNode[] = nodes.map((n) => ({ ...n }))
     const nodeMap = new Map(simNodes.map((n) => [n.id, n]))
 
-    const simLinks: GraphLink[] = edges
+    const simLinks: (GraphLink & { edgeType?: string })[] = edges
       .map((e) => ({
         source: nodeMap.get(e.source)!,
         target: nodeMap.get(e.target)!,
+        edgeType: (e as any).edgeType || "allied",
       }))
       .filter((l) => l.source && l.target)
 
@@ -270,9 +271,10 @@ function initNetworkGraph() {
       .join("path")
       .attr("class", "dm-ng-edge")
       .attr("fill", "none")
-      .attr("stroke", "#1e1e2e")
-      .attr("stroke-opacity", 0.35)
-      .attr("stroke-width", 0.7)
+      .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#ef4444" : "#1e1e2e")
+      .attr("stroke-opacity", (l: any) => l.edgeType === "opposition" ? 0.6 : 0.35)
+      .attr("stroke-width", (l: any) => l.edgeType === "opposition" ? 1 : 0.7)
+      .attr("stroke-dasharray", (l: any) => l.edgeType === "opposition" ? "4,3" : "none")
 
     // Draw nodes
     const nodeGroup = g.append("g").attr("class", "dm-ng-nodes")
@@ -373,7 +375,9 @@ function initNetworkGraph() {
           .attr("stroke", (l: any) => {
             const s = (l.source as GraphNode).id
             const t = (l.target as GraphNode).id
-            return s === d.id || t === d.id ? COLORS.edgeHighlight : "#1e1e2e"
+            const isConn = s === d.id || t === d.id
+            if (!isConn) return "#1e1e2e"
+            return l.edgeType === "opposition" ? "#ef4444" : COLORS.edgeHighlight
           })
           .attr("stroke-opacity", (l: any) => {
             const s = (l.source as GraphNode).id
@@ -384,6 +388,12 @@ function initNetworkGraph() {
             const s = (l.source as GraphNode).id
             const t = (l.target as GraphNode).id
             return s === d.id || t === d.id ? 1.8 : 0.5
+          })
+          .attr("stroke-dasharray", (l: any) => {
+            const s = (l.source as GraphNode).id
+            const t = (l.target as GraphNode).id
+            const isConn = s === d.id || t === d.id
+            return isConn && l.edgeType === "opposition" ? "4,3" : "none"
           })
           .attr("filter", (l: any) => {
             const s = (l.source as GraphNode).id
@@ -427,6 +437,7 @@ function initNetworkGraph() {
           .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#ef4444" : "#1e1e2e")
           .attr("stroke-opacity", (l: any) => l.edgeType === "opposition" ? 0.6 : 0.35)
           .attr("stroke-width", (l: any) => l.edgeType === "opposition" ? 1 : 0.7)
+          .attr("stroke-dasharray", (l: any) => l.edgeType === "opposition" ? "4,3" : "none")
           .attr("filter", "none")
         tooltip.style.display = "none"
       })
@@ -696,7 +707,9 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
         .attr("stroke", (l: any) => {
           const s = (l.source as GraphNode).id
           const t = (l.target as GraphNode).id
-          return s === d.id || t === d.id ? COLORS.edgeHighlight : "#1e1e2e"
+          const isConn = s === d.id || t === d.id
+          if (!isConn) return "#1e1e2e"
+          return l.edgeType === "opposition" ? "#ef4444" : COLORS.edgeHighlight
         })
         .attr("stroke-opacity", (l: any) => {
           const s = (l.source as GraphNode).id
@@ -708,6 +721,12 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
           const t = (l.target as GraphNode).id
           return s === d.id || t === d.id ? 1.5 : 0.5
         })
+        .attr("stroke-dasharray", (l: any) => {
+          const s = (l.source as GraphNode).id
+          const t = (l.target as GraphNode).id
+          const isConn = s === d.id || t === d.id
+          return isConn && l.edgeType === "opposition" ? "4,3" : "none"
+        })
     })
     .on("mouseleave", () => {
       nodeEls.select(".mini-shape").attr("fill-opacity", 0.8).attr("filter", "none")
@@ -716,6 +735,7 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
         .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#ef4444" : "#1e1e2e")
         .attr("stroke-opacity", (l: any) => l.edgeType === "opposition" ? 0.6 : 0.4)
         .attr("stroke-width", (l: any) => l.edgeType === "opposition" ? 1 : 0.6)
+        .attr("stroke-dasharray", (l: any) => l.edgeType === "opposition" ? "4,3" : "none")
     })
 
   // Click to navigate
