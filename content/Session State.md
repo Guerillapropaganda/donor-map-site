@@ -12,30 +12,51 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-06
+Date: 2026-04-06 (evening)
 
 Done:
-- Slimmed CLAUDE.md from 171→107 lines (removed duplicate Autonomy Directive, moved Recent Context here)
-- Archived last straggler doc: Publish Settings Guide.md → Vault Maintenance/Archive/
-- Created opensecrets-replace.yml GitHub Actions workflow (dry-run + write modes, category filtering)
-- Fixed opensecrets-replace.cjs: skip generic sub-page slugs (summary, contributors, industries, etc.)
-- Ran opensecrets-replace --write for `members-of-congress`: **997 URLs replaced across 346 files**
-- 127 URLs skipped (generic sub-pages with CRP IDs but no name slug — need CRP-to-FEC mapping or manual review)
-- 3,011 OpenSecrets URLs remain in other categories (orgs, pacs, outside-spending, etc.)
+- **Built 11 new pipelines**, bringing total from 21 → 32 data source pipelines
+- New pipelines: OSHA, Nonprofit 990, SEC Litigation, FEC Summary, DOJ Press, Wikipedia/Wikidata, Committee Assignments, OFAC SDN, CPSC Recalls, USASpending Awards, NHTSA Recalls, Lobbying Cross-Reference
+- All 32 wired into CI workflow (api-enrichment.yml), running 4x daily in parallel
+- Built pipeline coverage dashboard (`pipeline-coverage-report.cjs`) — scans vault against 26 enrichment markers
+- Created data sources page (`content/Interactive/data-sources.md`) documenting all 32 pipelines
+- Bumped CI timeout to 35min job / 25min pipeline step
+- All API keys configured (user added DOLAPI this session)
+- 22 of 32 pipelines need zero auth
+
+Known issues:
+- FCC pipeline returns 0 results (needs correct endpoint paths)
+- House Stock Watcher data URL 404s (Senate works fine)
+- EPA ECHO API flaky (500 errors, has fallback endpoints)
+- Public Accountability HTTPS cert issues (falls back to HTTP)
 
 In flight:
-- Nothing — all commits pushed to v4
+- CI run triggered with limit=3 to test all 32 pipelines
+- Session State and Pipeline Guide updates need finishing (agents hit rate limit)
 
 Next:
-- Run opensecrets-replace --write for remaining categories: orgs, pacs, outside-spending, donor-lookup, federal-lobbying
-- After all categories done, review the 127 skipped member URLs (add CRP ID lookup to script?)
-- Check LobbyView API key — couldn't find the earlier pipeline run
-- Run full pipeline enrichment cycle to populate `verified` tier
-- Consider adding `orgs` category to the workflow's scheduled runs
+- Fix FCC endpoint paths (research Swagger UI)
+- Fix House stock watcher data URL
+- Update Pipeline Guide with all 32 pipeline entries
+- Run opensecrets-replace for remaining categories (orgs, pacs, outside-spending)
+- LDA migration: lda.senate.gov → lda.gov before June 30, 2026 sunset
+- Run pipeline coverage report to identify enrichment gaps
+- Split CI into fast/slow workflows if timeout issues arise
 
 ---
 
 ## Previous Sessions
+
+### Code Claude — 2026-04-06 (afternoon)
+- Built FARA, CourtListener, Federal Register, SEC EDGAR, Public Accountability, FCC, OpenSanctions, Stock Watcher, GLEIF, EPA ECHO pipelines (10 new, bringing total from 11 → 21)
+- Completed FARA two-phase matching strategy with correct API field names
+- Fixed loadProfiles `donors` bucket to use `all` for broad entity matching
+- Researched 30+ potential data sources from Perplexity suggestions, categorized as Build/Defer/Skip
+
+### Code Claude — 2026-04-06 (earlier)
+- Slimmed CLAUDE.md from 171→107 lines
+- Created opensecrets-replace.yml workflow + ran for members-of-congress (997 URLs across 346 files)
+- 127 URLs skipped (generic sub-pages), 3,011 remain in other categories
 
 ### Code Claude — 2026-04-06 (earlier)
 - Built LobbyView pipeline (lobbyview-pipeline.cjs) — client-bill lobbying networks, 100 req/day
