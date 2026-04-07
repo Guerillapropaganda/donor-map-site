@@ -12,7 +12,49 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-06 (evening)
+Date: 2026-04-07 (evening)
+
+Done:
+- Restored 626 content files lost during worktree-v4 merge conflicts (246 politicians, 139 donors, 59 stories, 49 events, 48 media, 12 think tanks, 11 interactive)
+- Fixed CI pipeline merge conflicts: changed api-enrichment.yml from `git pull --rebase` to `git pull --no-rebase -X theirs`
+- Deployed graph widget to ALL profile types: donors, think tanks, media, K Street, PACs (was politicians-only)
+- Non-politician profiles build graph from `related:`/`donors:` wikilinks and `politicians-funded` frontmatter
+- Full-screen graph now has contextual filter bar at top — toggle Donors/Politicians/Think Tanks/K Street/Media on/off
+- Filter buttons are contextual: only shows types that exist in the graph data
+- Sidebar graph: Expand Network + Full Screen buttons only (no filters in mini view)
+- Restored 6 missing profiles: Lockheed Martin, Ben Shapiro, Joe Rogan, Pod Save America, Tucker Carlson, Brookings Institution
+- Reverted sidebar featured items to originals: Brookings (was Aspen), Carried Interest (was Both-Sides Illusion)
+- Fixed landing page: 6 broken links, story search paths with Contradiction-Deep-Dives prefix
+- ProfileTabs: empty tabs show "not available" message, presidents get Executive Orders tab
+- MobileNav box-sizing fix, landing page count spacing fix
+
+Known issues:
+- EPA ECHO API flaky (500 errors, has fallback endpoints)
+- Public Accountability HTTPS cert issues (falls back to HTTP)
+- Stale worktree `angry-easley` can be cleaned up
+- Junk Unicode directory `\357\200\242content/` in main repo (filesystem artifact, harmless)
+
+Next:
+- Run opensecrets-replace for remaining categories (orgs, pacs, outside-spending — ~3,000 URLs)
+- Run pipeline coverage report to identify enrichment gaps
+- LDA migration: lda.senate.gov → lda.gov before June 30, 2026 sunset
+- Split CI into fast/slow workflows if timeout issues arise
+- Add `govtrack-id` to Schumer's frontmatter so pipeline can populate legislative data
+- Re-tag Trump's EO content from `data-tab="overview"` to `data-tab="executive"` (Research Claude)
+
+---
+
+## Previous Sessions
+
+### Code Claude — 2026-04-07 (earlier)
+- Fixed front page 404 caused by wholesale v4 file sync — reverted 4 core files, surgically added NetworkGraph registrations
+- Graph tab moved to first position in ProfileWidget with Expand Network button
+- Built shared-donor bridge: expanded graph now shows think tanks, K Street, and media figures connected through shared donors
+- Migrated `related:` and `donors:` from body text into YAML frontmatter for 155 think tank, K Street, and media profiles
+- Confirmed FCC pipeline unfixable (per-station API, no global search)
+- Confirmed House Stock Watcher dead (GitHub repo deleted, S3 returns 403, site offline)
+
+### Code Claude — 2026-04-06 (evening)
 
 Done:
 - **Built 11 new pipelines**, bringing total from 21 → 32 data source pipelines
