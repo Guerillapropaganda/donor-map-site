@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server"
-import { getFileContent } from "@/lib/github"
+import { getLocalFileContent, hasLocalVault } from "@/lib/local-vault"
 import { parseProfile, countSources, extractUrls } from "@/lib/vault"
 
 export async function GET(request: Request) {
@@ -11,7 +11,17 @@ export async function GET(request: Request) {
   }
 
   try {
-    const content = await getFileContent(path)
+    let content: string
+
+    if (hasLocalVault()) {
+      // Read from local filesystem — zero API calls
+      content = getLocalFileContent(path)
+    } else {
+      // Fallback to GitHub API
+      const { getFileContent } = await import("@/lib/github")
+      content = await getFileContent(path)
+    }
+
     const profile = parseProfile(path, content)
     const sources = countSources(content)
     const urls = extractUrls(content)

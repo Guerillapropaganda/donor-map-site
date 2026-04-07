@@ -1,5 +1,4 @@
 import { NextResponse } from "next/server"
-import { getWorkflowRuns } from "@/lib/github"
 
 interface Alert {
   id: string
@@ -69,6 +68,7 @@ export async function GET(request: Request) {
 
     // === PIPELINE HEALTH (1-2 API calls) ===
     try {
+      const { getWorkflowRuns } = await import("@/lib/github")
       const runs = await getWorkflowRuns("api-enrichment.yml", 5)
       const recentFailures = runs.filter((r) => r.conclusion === "failure")
       const lastRun = runs[0]
