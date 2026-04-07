@@ -151,3 +151,18 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 - [Native News Online: Cole becomes longest-serving Native American in the House](https://nativenewsonline.net/currents/rep-cole-becomes-longest-serving-native-american-in-the-house/) (Tier 2)
 - [Indianz.com: Cole on tribal sovereignty and self-determination](https://indianz.com/News/2023/11/27/tom-cole-promoting-tribal-sovereignty-and-self-determination-in-congress/) (Tier 2)
 - [Ballotpedia: Tom Cole (Oklahoma)](https://ballotpedia.org/Tom_Cole_(Oklahoma)) 
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

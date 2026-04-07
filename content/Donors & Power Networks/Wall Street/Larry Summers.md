@@ -2,13 +2,15 @@
 title: "Lawrence Summers"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Wall Street"
 entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
+lobbying-spend: 67750
+lobbying-filings: 13
 ---
 
 #larry-summers #wall-street #treasury #harvard #obama-advisor #economic-policy
@@ -42,3 +44,22 @@ Lawrence Summers exemplifies the intellectual capture of the Democratic Party by
 ---
 
 `content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $68K |
+| Quarterly Filings | 13 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 3 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Marine/Maritime/Boating/Fisheries, Transportation
+
+**Lobbying firms:** K&L GATES, LLP, LAWRENCE JAMES GROUP PROFESSIONALS LLC, THORN RUN PARTNERS
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE, U.S. Coast Guard (USCG)
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Lawrence%20Summers) (Tier 1)
+<!-- auto:lda-lobbying end -->

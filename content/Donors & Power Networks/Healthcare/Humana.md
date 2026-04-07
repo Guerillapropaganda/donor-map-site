@@ -2,7 +2,7 @@
 title: "Humana"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -13,6 +13,18 @@ net-assets: "$26K"
 tax-year: "2019"
 lobbying-spend: 11740000
 lobbying-filings: 52
+court-cases: 17873
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Missouri"
+  - "District Court, M.D. Pennsylvania"
+  - "District Court, M.D. Tennessee"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Indiana"
+  - "District Court, S.D. Texas"
+  - "District Court, W.D. Kentucky"
+  - "United States Bankruptcy Court, W.D. Kentucky"
 ---
 
 #humana #health-insurance #medicare-advantage #lobbying #kentucky
@@ -102,3 +114,22 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Humana) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 17,873 |
+| Courts | District Court, District of Columbia, District Court, E.D. Missouri, District Court, M.D. Pennsylvania, District Court, M.D. Tennessee, District Court, N.D. California, District Court, S.D. Indiana, District Court, S.D. Texas, District Court, W.D. Kentucky +1 more |
+| Case Types | 190 Contract: Other, 710 Labor: Fair Standards, 791 Labor: E.R.I.S.A., 880 Defend Trade Secrets Act (of 2016), 890 Other Statutory Actions |
+
+**Notable cases:**
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- Waterfront Family Pharmacy LLC v. Optumrx, Inc. (2026) — District Court, E.D. Missouri
+- Kousiry v. Humana Inc. (2026) — District Court, W.D. Kentucky
+- RUSH v. ELEVANCE HEALTH, INC., f/k/a THE ANTHEM COMPANIES, INC. (2026) — District Court, S.D. Indiana
+- Evolution Well Services Operating, LLC et, al v. Hill (2026) — District Court, S.D. Texas
+- Childers v. Humana, Inc. (2026) — District Court, W.D. Kentucky
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Humana%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

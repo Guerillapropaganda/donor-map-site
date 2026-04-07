@@ -175,7 +175,7 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 3 |
+| Politicians Funded | 4 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
@@ -184,6 +184,7 @@ content-readiness:: ready
 - [[Gavin Newsom]] — lobbying: $25.1M
 - [[Nancy Pelosi]] — lobbying: $25.1M
 - [[Joe Biden]] — lobbying: $25.1M
+- [[Kamala Harris]] — lobbying: $25.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->

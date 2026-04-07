@@ -2,9 +2,10 @@
 title: "Three Justices in Four Years - The Leonard Leo Investment and Its Returns"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
+bioguide-id: "A000383"
 ---
 
 
@@ -142,3 +143,14 @@ The lower courts matter because the Supreme Court hears approximately 70 cases p
 - [SCOTUSblog. Loper Bright Enterprises v. Raimondo (June 28, 2024)](https://www.scotusblog.com/2024/06/supreme-court-strikes-down-chevron-curtailing-power-of-federal-agencies/) (Tier 2)
 
 research-status:: Appointment counts from Federal Judicial Center and Ballotpedia. Confirmation votes from Senate records. Leo network funding from ProPublica and CREW. JCN spending from SourceWatch and Documented. Rulings from SCOTUSblog. Circuit flip data from Courthouse News. Second term appointment demographics from Balls and Strikes. $1.6B Seid donation documented from multiple Tier 2 sources.
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

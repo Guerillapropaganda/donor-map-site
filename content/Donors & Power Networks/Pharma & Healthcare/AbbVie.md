@@ -20,6 +20,10 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "423450"
 lei: "5493003YLH4WVSPWMC20"
 lei-jurisdiction: "BE"
+ein: "460827839"
+nonprofit-status: "501(c)(3)"
+total-revenue: 67617104
+total-assets: 217738010
 ---
 
 #abbvie #pharma #humira #drug-pricing #patent #lobbying
@@ -158,3 +162,28 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 460827839 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $67.6M |
+| Total Assets | $217.7M |
+| NTEE Code | T20 |
+| IRS Ruling Date | 2013-11-01 |
+| Filings on Record | 9 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/460827839) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@
 title: "Colin Powell"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,20 @@ top-donors:
   - "Boeing"
   - "Kleiner Perkins"
   - "Salesforce"
+fec-candidate-id: "P60003050"
+doj-press-mentions: "264311"
+last-enriched: "2026-04-07"
+doj-components:
+  - "Civil Rights Division"
+  - "USAO - Florida, Middle"
+  - "USAO - Florida, Northern"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Massachusetts"
+  - "USAO - Missouri, Western"
+  - "USAO - New York, Northern"
+  - "USAO - Ohio, Northern"
+  - "USAO - Ohio, Southern"
 ---
 
 #colin-powell #secretary-of-state #chairman-joint-chiefs #iraq-war #wmd-speech #defense-contractor #revolving-door #credibility-weapon #class-analysis
@@ -121,3 +135,46 @@ The pattern: military authority → government deployment of credibility for def
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2000 |
+| Cash on Hand | 0.00 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2000 | $0 | $0 | $0 |
+| 1996 | $0 | $0 | $0 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| WASHINGTON CITIZENS FOR COLIN POWELL | $0 | $8,098 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60003050/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264311 |
+| DOJ Components | Civil Rights Division, USAO - Florida, Middle, USAO - Florida, Northern, USAO - Kentucky, Eastern, USAO - Louisiana, Eastern, USAO - Massachusetts +5 more |
+
+**Recent press releases:**
+
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
+- 2026-04-07 — [Former financial advisor sentenced to 5 years in prison for running $8.6M Ponzi scheme](https://www.justice.gov/usao-sdoh/pr/former-financial-advisor-sentenced-5-years-prison-running-86m-ponzi-scheme) — USAO - Ohio, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
+- 2026-04-07 — [Two Men Plead Guilty to Cocaine Trafficking](https://www.justice.gov/usao-ma/pr/two-men-plead-guilty-cocaine-trafficking) — USAO - Massachusetts
+- 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) — USAO - Massachusetts
+- ... and 264,305 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Colin%20Powell%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

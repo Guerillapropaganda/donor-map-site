@@ -2,7 +2,7 @@
 title: "Gulf State Money - Saudi Arabia, UAE, Qatar"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Donald Trump"
   - "Jared Kushner"
   - "Benjamin Netanyahu"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "SDGT"
 ---
 
 
@@ -145,3 +149,20 @@ $23 billion F-35/drone package to UAE as Abraham Accords sweetener. U.S. defense
 
 research-status:: core bloc fully documented with class analysis framework, donation-to-policy timelines, and legal workaround analysis. Comprehensive coverage of Saudi (PIF, Kushner, LIV Golf, Khashoggi), UAE (Tahnoon, WLF, chip sales, Barrack), and Qatar (QIA, Twitter, lobbying). ~1,900 words, 16 sources (Tier 1–3), dual callouts [!money] and [!contradiction] with temporal mapping. Promoted Session 38k.
 content-readiness:: ready
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | SDGT |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- ISIL-SAUDI ARABIA (-0-) [SDGT]
+  - Remarks: Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; a.k.a. 'WILAYAT NAJD'; a.k.a. 'NAJD PROVINCE'; a.k.a. 'PROVINCE OF THE TWO HOLY PLACES'; a.k.a. 'A...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

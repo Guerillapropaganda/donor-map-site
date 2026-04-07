@@ -2,13 +2,15 @@
 title: "Tim Walz"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Governor"
 state: "Minnesota"
 state-abbr: "MN"
+total-received: "$113,151"
+fec-candidate-id: "H6MN01174"
 ---
 
 #politician #labor-aligned #authenticity-brand #two-audience-problem #minnesota
@@ -85,3 +87,26 @@ He is not corrupt in the transactional sense. He believes in progressive values 
 ---
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2018 |
+| Total Raised | $113,151 |
+| Individual Contributions | $22,700 |
+| PAC Contributions | $80,650 |
+| Cash on Hand | 0.00 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2018 | $113,151 | $22,700 | $80,650 |
+| 2016 | $1,572,881 | $588,714 | $773,720 |
+| 2014 | $1,575,565 | $639,514 | $672,763 |
+| 2012 | $1,976,106 | $787,174 | $780,173 |
+| 2010 | $2,163,759 | $952,848 | $751,771 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
+<!-- auto:fec-politician end -->

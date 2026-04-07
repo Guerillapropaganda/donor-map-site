@@ -151,3 +151,17 @@ Moore publicly ruled out a 2028 presidential run on NBC's Meet the Press: "I'm n
 - [Free Beacon: Moore says KKK chased his great-grandfather — historical records tell different story](https://freebeacon.com/democrats/wes-moore-says-the-kkk-chased-his-great-grandfather-out-of-south-carolina-historical-records-tell-a-different-story/) (Tier 4)
 - [Ballotpedia: Wes Moore](https://ballotpedia.org/Wes_Moore) (Tier 3)
 content-readiness:: developed
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Citigroup]] — $11.6M lobbying spend (Banking, Financial Institutions/Investments/Securities, Foreign Relations)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

@@ -17,6 +17,26 @@ court-jurisdictions:
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. New York"
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Goldman Sachs]] · [[Fossil Fuel Bloc]]"
+sec-filings: 33
+sec-form-types:
+  - "10-K"
+  - "10KSB"
+  - "10KSB/A"
+  - "424B4"
+  - "8-K"
+  - "DRS"
+  - "EX-1.1"
+  - "EX-10.1"
+  - "EX-10.12"
+  - "EX-10.13"
+  - "EX-10.14"
+  - "EX-10.15"
+  - "EX-21.1"
+  - "POS AM"
+  - "S-1"
+  - "S-1/A"
+  - "SB-2"
+  - "SB-2/A"
 ---
 
 #lobbying #k-street #bipartisan #defense #energy #tech #financial-services #class-analysis
@@ -235,3 +255,21 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Crossroads%20Strategies%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 33 |
+| Form Types | 10-K, 10KSB, 10KSB/A, 424B4, 8-K, DRS, EX-1.1, EX-10.1 +10 more |
+
+**Notable filings:**
+
+- 2025-06-06 — **EX-21.1**: EX-21.1
+- 2025-10-10 — **EX-21.1**: EX-21.1
+- 2025-09-04 — **EX-21.1**: EX-21.1
+- 2021-01-26 — **8-K**: CURRENT REPORT
+- 2025-10-10 — **EX-10.15**: EX-10.15
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Crossroads%20Strategies%22) (Tier 1)
+<!-- auto:sec-edgar end -->

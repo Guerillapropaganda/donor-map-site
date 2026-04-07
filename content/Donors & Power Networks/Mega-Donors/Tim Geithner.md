@@ -8,7 +8,7 @@ parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Barack Obama"
+  - "Joe Biden"
 issues:
   - "Wall Street & Finance"
 sec-filings: 29
@@ -26,6 +26,7 @@ sec-form-types:
   - "N-CSR"
   - "N-CSR/A"
   - "N-CSRS"
+total-political-spend: "$469,350"
 ---
 
 #donor #revolving-door #wall-street #treasury #warburg-pincus #bailout #financial-crisis #class-analysis #follow-the-money
@@ -189,3 +190,28 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tim%20Geithner%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $469,350 |
+| Contributions | 32 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| BIDEN ACTION FUND | $150,000 | — |
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $147,200 | DEM |
+| HOUSE VICTORY PROJECT 2024 | $85,800 | — |
+| HERTEL FOR MICHIGAN | $3,300 | DEM |
+| MARLINGA FOR CONGRESS | $3,300 | DEM |
+| MARIE FOR CONGRESS | $3,300 | DEM |
+| FRIENDS OF JANELLE STELSON | $3,300 | DEM |
+| DEREK TRAN FOR CONGRESS | $3,300 | DEM |
+| CHRIS DELUZIO FOR CONGRESS | $3,300 | DEM |
+| DON DAVIS FOR NC | $3,300 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tim%20Geithner) (Tier 1)
+<!-- auto:fec-donor end -->

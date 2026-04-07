@@ -11,6 +11,10 @@ issues:
   - "Israel & Foreign Policy"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+fara-status: "registrant"
+fara-records: 2
+fara-countries:
+  - "QATAR"
 ---
 
 #israel #foreign #lobbying #aipac #aid #arms #settlements #gaza
@@ -55,3 +59,19 @@ Continued $3.8 billion annual military aid, diplomatic cover at the United Natio
 content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 2 |
+| Countries | QATAR |
+| Foreign Principal Records | 1 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Embassy of the State of Qatar (QATAR)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Israel%20-%20Government%20Lobbying%20Operation) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

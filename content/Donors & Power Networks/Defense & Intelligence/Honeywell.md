@@ -2,7 +2,7 @@
 title: "Honeywell International"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -32,6 +32,12 @@ court-jurisdictions:
   - "District Court, W.D. North Carolina"
   - "United States Bankruptcy Court, D. Puerto Rico"
   - "United States Court of International Trade"
+subawards-issued: 50
+subawards-issued-amount: 7506016889
+subawards-received: 50
+subawards-received-amount: 7506016889
+top-federal-agency: "Department of Defense"
+top-naics-code: "336992"
 ---
 
 #defense-contractor #aerospace #pac-donor #defense-committee #bipartisan
@@ -120,3 +126,62 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Honeywell%20International%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($7.5B sampled) |
+| Subawards Received (as sub) | 50 ($7.5B sampled) |
+| Top Federal Agency | Department of Defense ($5.3B) |
+| Primary NAICS Sector | Military Armored Vehicle, Tank, and Tank Component Manufacturing |
+
+**Subcontractors receiving federal money from Honeywell International:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| HONEYWELL INTERNATIONAL INC. | $4.5B | 48 |
+| HONEYWELL INTERNATIONAL, INC. | $3.0B | 1 |
+| HONEYWELL INTERNATIONAL, INC | $42.7M | 1 |
+
+**Prime contractors funneling federal money to Honeywell International:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| NORTHROP GRUMMAN SYSTEMS CORPORATION | $3.7B | 11 |
+| LOCKHEED MARTIN CORPORATION | $3.2B | 27 |
+| BOEING COMPANY, THE | $200.6M | 4 |
+| HUNTINGTON INGALLS INCORPORATED | $197.0M | 4 |
+| THE BOEING COMPANY | $71.9M | 1 |
+| LOCKHEED MARTIN CORP | $50.4M | 1 |
+| CHARLES STARK DRAPER LABORATORY, INC., THE | $47.2M | 1 |
+| TRIAD NATIONAL SECURITY, LLC | $42.7M | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $5.3B |
+| General Services Administration | $411.7M |
+| Department of Transportation | $177.6M |
+| Department of Veterans Affairs | $50.7M |
+| Department of Homeland Security | $33.7M |
+| Department of Housing and Urban Development | $30.0M |
+| National Aeronautics and Space Administration | $29.0M |
+| Department of Justice | $18.2M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Military Armored Vehicle, Tank, and Tank Component Manufacturing (336992) | $1.3B |
+| Other Aircraft Parts and Auxiliary Equipment Manufacturing (336413) | $1.1B |
+| Aircraft Engine and Engine Parts Manufacturing (336412) | $741.9M |
+| Engineering Services (541330) | $662.2M |
+| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $634.3M |
+| Aircraft Manufacturing (336411) | $507.4M |
+| Commercial and Institutional Building Construction (236220) | $175.4M |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $154.9M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

@@ -2,7 +2,7 @@
 title: "Scott Wiener"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,8 @@ state-abbr: "CA"
 issues:
   - "Housing"
   - "Technology"
+total-received: "$2,785,989"
+fec-candidate-id: "H8CA11116"
 ---
 
 #politician #democrat #california #state-senate #housing #yimby #tech #lgbtq #class-analysis #follow-the-money
@@ -119,3 +121,16 @@ Wiener uses technocratic framing — "supply and demand," "evidence-based housin
 
 profile-status:: draft
 content-readiness:: draft
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $2,785,989 |
+| Individual Contributions | $2,682,877 |
+| PAC Contributions | $28,100 |
+| Cash on Hand | 2274364.87 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA11116/) (Tier 1)
+<!-- auto:fec-politician end -->

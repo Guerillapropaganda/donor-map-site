@@ -2,19 +2,17 @@
 title: "Elon Musk"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-04
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
-  - "David Sacks"
-  - "JD Vance"
-  - "Kamala Harris"
-  - "Mitch McConnell"
+  - "Ken Calvert"
 issues:
   - "Technology"
+total-political-spend: "$366,359,788"
 ---
 
 
@@ -411,3 +409,28 @@ content-readiness:: ready
 | SLF PAC | $10.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $366,359,788 |
+| Contributions | 200 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| AMERICA PAC | $297,973,879 | — |
+| RBG PAC | $20,500,000 | — |
+| SLF PAC | $10,000,000 | — |
+| CONGRESSIONAL LEADERSHIP FUND | $10,000,000 | — |
+| SENATE LEADERSHIP FUND | $10,000,000 | — |
+| MAHA ALLIANCE | $6,000,000 | — |
+| MAGA INC. | $5,000,000 | — |
+| THE SENTINEL ACTION FUND | $2,339,600 | — |
+| EARLY VOTE ACTION PAC | $1,000,000 | — |
+| TRUMP 47 COMMITTEE, INC. | $924,600 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Elon%20Musk) (Tier 1)
+<!-- auto:fec-donor end -->

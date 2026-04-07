@@ -2,7 +2,7 @@
 title: "Deb Fischer"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,11 @@ issues:
 top-donors:
   - "AIPAC"
 bioguide-id: "A000383"
+govtrack-id: 412556
+bills-sponsored: 30
+bills-cosponsored: 154
+website: "https://www.fischer.senate.gov"
+phone: "202-224-6551"
 ---
 
 
@@ -157,3 +162,35 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 - [Ballotpedia: Deb Fischer](https://ballotpedia.org/Deb_Fischer) (Tier 3)
 - [Wikipedia: Deb Fischer](https://en.wikipedia.org/wiki/Deb_Fischer) (Tier 3)
 
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 154 |
+| Total Votes Cast | 4,851 |
+
+**Recent bills sponsored:**
+
+- S. 629: Emergency Conservation Program Improvement Act of 2025 — *This bill passed in the Senate on March 24, 2026 and goes to the House next for consideration.*
+- S. 4151: Unfunded Mandates Accountability and Transparency Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 2585: MAP for Broadband Funding Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
+- S. 3802: Foster Care Stabilization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 592: A resolution supporting the designation of 2026 as the “International Year of the Woman Farmer” to recognize and honor t — *This simple resolution was agreed to on January 29, 2026. That is the end of the legislative process for a simple resolution.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Yea | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Nay | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412556) (Tier 1)
+<!-- auto:govtrack end -->

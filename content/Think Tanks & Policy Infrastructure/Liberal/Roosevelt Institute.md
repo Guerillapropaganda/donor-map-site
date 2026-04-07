@@ -2,12 +2,25 @@
 title: "Roosevelt Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
 related: "[[Goldman Sachs]] · [[SEIU - Service Employees International Union|SEIU]]"
+court-cases: 73
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, D. Colorado"
+  - "District Court, D. Delaware"
+  - "District Court, D. North Dakota"
+  - "District Court, D. South Carolina"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Missouri"
+  - "District Court, M.D. Georgia"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
 ---
 
 #think-tank #liberal #progressive-economics #antitrust #inequality #industrial-policy #monopoly-power #class-analysis
@@ -209,3 +222,22 @@ But the class function is more nuanced than it appears:
 - [Roosevelt Institute: New Leadership at Roosevelt — Elizabeth Wilkins Named President and CEO (Feb 2025)](https://rooseveltinstitute.org/roosevelt-rundown/new-leadership-at-roosevelt/) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 73 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, D. Colorado, District Court, D. Delaware, District Court, D. North Dakota, District Court, D. South Carolina, District Court, District of Columbia, District Court, E.D. Missouri, District Court, M.D. Georgia +4 more |
+| Case Types | 190 Contract: Other, 410 Anti-Trust, 440 Civil Rights: Other, 820 Copyright, 893 Environmental Matters |
+
+**Notable cases:**
+- Natural Resources Defense Council v. DOE (2025) — Court of Appeals for the D.C. Circuit
+- Getty Images (US), Inc. v. Stability AI, Ltd. (2025) — District Court, N.D. California
+- American Federation Of Government Employees, AFL-CIO v. Trump (2025) — District Court, N.D. California
+- Amore v. American Association of Veterinary Clinicians (2025) — District Court, W.D. Virginia
+- Baske v. Jasper County (2025) — District Court, D. South Carolina
+- State of Iowa v. Council on Environmental Quality (2024) — District Court, D. North Dakota
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Roosevelt%20Institute%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

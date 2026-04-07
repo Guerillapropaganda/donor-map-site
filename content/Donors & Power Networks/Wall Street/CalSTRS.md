@@ -2,7 +2,7 @@
 title: "CalSTRS - California State Teachers' Retirement System"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -12,6 +12,10 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
   - "Education"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "RUSSIA-EO14024"
 ---
 
 #calstrs #pension #california #teachers #wall-street #investment #education #private-equity #fossil-fuels
@@ -110,3 +114,20 @@ The governance structure completes the capture. Gubernatorial appointees, electe
 - [InfluenceWatch: California State Teachers' Retirement System — political connections and influence](https://www.influencewatch.org/government-agency/california-state-teachers-retirement-system/) (Tier 3)
 
 content-readiness:: developed
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- FEDERAL STATE INSTITUTION FEDERAL SCIENTIFIC CENTER SCIENTIFIC RESEARCH INSTITUTE FOR SYSTEM ANALYSIS OF THE RUSSIAN ACADEMY OF SCIENCES (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 7727086772 (Russia); Registration Number 1027700384909 (Russia).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

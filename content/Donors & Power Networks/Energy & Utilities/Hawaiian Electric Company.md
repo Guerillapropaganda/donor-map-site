@@ -10,6 +10,12 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+ein: "990230697"
+nonprofit-status: "501(c)(3)"
+total-revenue: 240019
+total-assets: 47470
+top-federal-agency: "Department of Defense"
+top-naics-code: "221122"
 ---
 
 #hawaiian-electric #heco #hawaii #maui #wildfire #utility #energy #monopoly
@@ -73,3 +79,54 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Hawaiian%20Electric%20Company) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 990230697 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $240K |
+| Total Assets | $47K |
+| IRS Ruling Date | 1984-08-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/990230697) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Defense ($31.8M) |
+| Primary NAICS Sector | Electric Power Distribution |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $31.8M |
+| Department of Justice | $8.9M |
+| Smithsonian Institution | $1.8M |
+| Department of Homeland Security | $1.1M |
+| Department of the Interior | $267K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Electric Power Distribution (221122) | $24.5M |
+| Fossil Fuel Electric Power Generation (221112) | $19.2M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

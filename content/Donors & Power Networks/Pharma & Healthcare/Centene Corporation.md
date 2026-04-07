@@ -53,6 +53,10 @@ sec-form-types:
   - "SCHEDULE 13G/A"
 lobbying-spend: 10590000
 lobbying-filings: 52
+ein: 851888769
+annual-revenue: "$8K"
+net-assets: "$306"
+tax-year: "2023"
 ---
 
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca
@@ -181,3 +185,31 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Centene%20Corporation) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Joe Manchin]] — lobbying: $10.6M
+- [[Jon Husted]] — lobbying: $10.6M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $8K |
+| Total Contributions | $0 |
+| Total Expenses | $8K |
+| Net Assets | $306 |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 851888769](https://projects.propublica.org/nonprofits/organizations/851888769) (Tier 1)
+<!-- auto:propublica-990 end -->

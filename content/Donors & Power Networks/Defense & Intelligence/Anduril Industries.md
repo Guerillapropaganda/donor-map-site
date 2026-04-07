@@ -13,6 +13,9 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+federal-awards-total: 792468895
+federal-contracts-count: 25
+federal-grants-count: 0
 ---
 
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money
@@ -138,3 +141,25 @@ content-readiness:: draft
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Anduril%20Industries) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $792.5M |
+| Contracts (recent 3yr) | 25 ($1.4B sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $363.0M | Department of Homeland Security | PURCHASE OF TOWERS |
+| $250.0M | Department of Defense | ROADRUNNER, ANVIL AND QUASAR PACKAGES |
+| $94.0M | Department of Defense | PRODUCTION AND DELIVERY OF ALTIUS 600M-V LOITERING MUNITIONS AND SUPPORTING HARDWARE |
+| $62.6M | Department of Defense | EFS-ROADRUNNER HARDWARE |
+| $50.7M | Department of Homeland Security | AWARD |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1869c03a-77bb-b66c-469b-988719bbec4c-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

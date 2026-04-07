@@ -2,13 +2,18 @@
 title: "Eli Broad Foundation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Education"
 entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
+ein: "954686318"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 163352987
+total-assets: 1860562867
 ---
 
 
@@ -121,3 +126,28 @@ content-readiness:: ready
 | BOSTON HOST COMMITTEE | $100.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 954686318 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $163.4M |
+| Total Assets | $1.86B |
+| NTEE Code | T22 |
+| IRS Ruling Date | 1999-02-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/954686318) (Tier 1)
+<!-- auto:nonprofit-990 end -->

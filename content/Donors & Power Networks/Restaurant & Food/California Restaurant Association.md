@@ -11,7 +11,7 @@ politicians-funded:
   - "Gavin Newsom"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 sec-filings: 284
 sec-form-types:
   - "10-K/A"

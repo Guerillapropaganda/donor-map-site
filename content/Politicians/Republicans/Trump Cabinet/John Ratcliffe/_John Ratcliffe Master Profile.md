@@ -2,7 +2,7 @@
 title: "John Ratcliffe Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,8 @@ top-donors:
 govtrack-id: 412653
 bills-sponsored: 0
 bills-cosponsored: 0
+total-received: "$544,358"
+fec-candidate-id: "H4TX04153"
 ---
 
 
@@ -136,9 +138,43 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 0 of 1 |
-| Donors With Federal Contracts | 1 |
+| Donors Who Also Lobby | 0 of 2 |
+| Donors With Federal Contracts | 2 |
 | Committee Overlap Detected | None |
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2020 |
+| Total Raised | $544,358 |
+| Individual Contributions | $284,508 |
+| PAC Contributions | $223,500 |
+| Cash on Hand | 373577.72 |
+| IE Support (Super PAC) | $268,594 |
+| IE Opposition (Super PAC) | $1,602 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2020 | $544,358 | $284,508 | $223,500 |
+| 2018 | $1,072,295 | $426,809 | $602,994 |
+| 2016 | $927,772 | $415,941 | $491,792 |
+| 2014 | $1,499,055 | $513,940 | $184,602 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SENATE CONSERVATIVES FUND | $130,390 | $0 |
+| CLUB FOR GROWTH ACTION | $112,490 | $0 |
+| MADISON PROJECT INC. | $10,000 | $0 |
+| CLUB FOR GROWTH PAC | $5,083 | $0 |
+| THE COMMITTEE TO DEFEND THE PRESIDENT | $5,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4TX04153/) (Tier 1)
+<!-- auto:fec-politician end -->

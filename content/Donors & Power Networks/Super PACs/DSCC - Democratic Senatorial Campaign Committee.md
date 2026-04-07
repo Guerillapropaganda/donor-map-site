@@ -2,7 +2,7 @@
 title: "DSCC - Democratic Senatorial Campaign Committee"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -11,6 +11,9 @@ politicians-funded:
   - "Chuck Schumer"
 issues:
   - "Dark Money & Campaign Finance"
+sec-filings: 1
+sec-form-types:
+  - "EX-99.(P)(II)"
 ---
 
 #dscc #senate #democratic #campaign-committee #fundraising #gatekeeper #dark-money #class-analysis
@@ -141,3 +144,17 @@ content-readiness:: developed
 | HEIDI FOR SENATE | $43.1K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1 |
+| Form Types | EX-99.(P)(II) |
+
+**Notable filings:**
+
+- 2015-01-08 — **EX-99.(P)(II)**: EX-99.(P)(II)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22DSCC%20-%20Democratic%20Senatorial%20Campaign%20Committee%22) (Tier 1)
+<!-- auto:sec-edgar end -->

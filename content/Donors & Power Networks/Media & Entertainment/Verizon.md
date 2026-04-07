@@ -14,6 +14,15 @@ ein: 133319048
 annual-revenue: "$7.5M"
 net-assets: "$26.0M"
 tax-year: "2023"
+federal-register-mentions: 928
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Federal Aviation Administration"
+  - "Federal Communications Commission"
+  - "Federal Trade Commission"
+  - "Health and Human Services Department"
+  - "Justice Department"
+  - "Transportation Department"
 ---
 
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying
@@ -101,3 +110,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 133319048](https://projects.propublica.org/nonprofits/organizations/133319048) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 928 |
+| Final Rules | 271 |
+| Proposed Rules | 187 |
+| Notices | 470 |
+| Agencies | Antitrust Division, Federal Aviation Administration, Federal Communications Commission, Federal Trade Commission, Health and Human Services Department, Justice Department, Transportation Department |
+
+**Recent regulatory activity:**
+- [Implementation of the Final Acts of the World Radiocommunication Conference (Geneva, 2015) (WRC-15), Other Allocation Issues, and Related Rule Updates](https://www.federalregister.gov/documents/2026/01/14/2026-00587/implementation-of-the-final-acts-of-the-world-radiocommunication-conference-geneva-2015-wrc-15-other) (2026-01-14) — Federal Communications Commission
+- [Requirements for Interference-Tolerant Radio Altimeter Systems](https://www.federalregister.gov/documents/2026/01/07/2026-00051/requirements-for-interference-tolerant-radio-altimeter-systems) (2026-01-07) — Transportation Department
+- [Auction of Advanced Wireless Services (AWS-3) Licenses; Filing Requirements, Minimum Opening Bids, Upfront Payments, and Other Procedures for Auction 113](https://www.federalregister.gov/documents/2025/12/23/2025-23785/auction-of-advanced-wireless-services-aws-3-licenses-filing-requirements-minimum-opening-bids) (2025-12-23) — Federal Communications Commission
+- [Space Bureau Seeks To Refresh the Record on Proposed Rules To Permit the Use of Additional Frequency Bands for NGSO Satellites To Communicate With Earth Stations in Motion](https://www.federalregister.gov/documents/2025/12/22/2025-23638/space-bureau-seeks-to-refresh-the-record-on-proposed-rules-to-permit-the-use-of-additional-frequency) (2025-12-22) — Federal Communications Commission
+- [Protecting the Nation's Communications Systems From Cybersecurity Threats](https://www.federalregister.gov/documents/2025/12/15/2025-22830/protecting-the-nations-communications-systems-from-cybersecurity-threats) (2025-12-15) — Federal Communications Commission
+- [Facilitating More Intensive Use of Upper Microwave Spectrum](https://www.federalregister.gov/documents/2025/12/03/2025-21805/facilitating-more-intensive-use-of-upper-microwave-spectrum) (2025-12-03) — Federal Communications Commission
+- ... and 922 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Verizon%22) (Tier 1)
+<!-- auto:federal-register end -->

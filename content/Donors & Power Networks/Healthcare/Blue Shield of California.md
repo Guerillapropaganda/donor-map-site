@@ -31,6 +31,8 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Justice Department"
   - "Labor Department"
+lobbying-spend: 3803687
+lobbying-filings: 110
 ---
 
 
@@ -173,3 +175,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Blue%20Shield%20of%20California%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $3.8M |
+| Quarterly Filings | 110 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 47 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Alcohol and Drug Abuse, Animals, Banking, Budget/Appropriations, Clean Air and Water (quality), Computer Industry, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Government Issues, Health Issues, Insurance, Intelligence, Law Enforcement/Crime/Criminal Justice, Manufacturing, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Pharmacy, Science/Technology, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Trucking/Shipping, Veterans
+
+**Lobbying firms:** A1.9 STRATEGIES LLC, ACORN CONSULTING, ALB SOLUTIONS, ALEXANDER, BOROVICKA & O'SHEA GOVERNMENT SOLUTIONS (FKA ALEXANDER & BOROVICKA GOVERNMENT SOLUTIONS), ARNOLD & PORTER KAYE SCHOLER LLP, BALLARD PARTNERS, BECKER & POLIAKOFF, P.A., BLUE CROSS AND BLUE SHIELD OF FLORIDA, INC., BLUE GREEN ALLIANCE, BLUE MARBLE STRATEGY LLC, BLUE MOUNTAIN STRATEGIES, BLUE RIDGE LAW & POLICY, P.C., BLUE SHIELD OF CALIFORNIA, BLUE TUSK COMMUNICATIONS, BLUEBIRD STRATEGIES, BLUECROSS BLUESHIELD OF TENNESSEE, BLUEFORS INC. (FORMERLY KNOWN AS BLUEFORS), BLUESTONE STRATEGIES, LLC, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CARD & ASSOCIATES, LLC, CAREFIRST BLUECROSS BLUESHIELD, CHARTWELL STRATEGY GROUP LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., COZEN O'CONNOR PUBLIC STRATEGIES, DUE SOUTH ADVOCACY, LLC, FEDERAL ENVIRONMENTAL POLICY CONSULTING, LLC (FKN GABOR J ROZSA), FOLEY & LARDNER LLP, HB STRATEGIES, HOLLAND & KNIGHT LLP, INDEPENDENCE BLUE CROSS, LLC, INVARIANT LLC, KING AND CO, LEDYARD GROUP, MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP), MERCHANT STRATEGIES LLC, MERCURY PUBLIC AFFAIRS, LLC, NATIONAL STRATEGIES, LLC, PATTERSON & MEEK, RED+BLUE STRATEGIES, S-3 GROUP, SALT POINT STRATEGIES, SQUIRE PATTON BOGGS, TARPLIN, DOWNS & YOUNG, LLC, THE CONSILIO GROUP, THE INGRAM GROUP LLC, TIBER CREEK GROUP, TIGER HILL PARTNERS LLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Bureau of Land Management (BLM), Bureau of the Census, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense Advanced Research Projects Agency (DARPA), Defense Security Cooperation Agency (DSCA), Defense, Dept of (DOD), Energy, Dept of +16 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Blue%20Shield%20of%20California) (Tier 1)
+<!-- auto:lda-lobbying end -->

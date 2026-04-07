@@ -2,7 +2,7 @@
 title: "Benjamin Netanyahu Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 chamber: "International"
@@ -12,6 +12,19 @@ top-donors:
   - "Miriam Adelson"
   - "Haim Saban"
   - "AIPAC - American Israel Public Affairs Committee"
+doj-press-mentions: "264308"
+last-enriched: "2026-04-07"
+doj-components:
+  - "Civil Rights Division"
+  - "USAO - Florida, Middle"
+  - "USAO - Florida, Northern"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Massachusetts"
+  - "USAO - Missouri, Western"
+  - "USAO - New York, Northern"
+  - "USAO - Ohio, Northern"
+  - "USAO - Ohio, Southern"
 ---
 
 #master-profile #netanyahu #israel #prime-minister #likud #class-analysis #follow-the-money #settlements #adelson #corruption #aipac #surveillance #defense-industry #international
@@ -158,3 +171,23 @@ Netanyahu's coalition depends on Ben-Gvir and Smotrich (20 of 67 seats). Settlem
 profile-status:: ready
 research-status:: ready — Full citation pass complete. Temporal mapping (10 entries), Adelson $106M pipeline, corruption Cases 1000/2000/4000, $250M+ Bezeq regulatory benefits, 50,000 settlement units, $110B defense expansion. All ### headers, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
 content-readiness:: ready
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264308 |
+| DOJ Components | Civil Rights Division, USAO - Florida, Middle, USAO - Florida, Northern, USAO - Kentucky, Eastern, USAO - Louisiana, Eastern, USAO - Massachusetts +5 more |
+
+**Recent press releases:**
+
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
+- 2026-04-07 — [Former financial advisor sentenced to 5 years in prison for running $8.6M Ponzi scheme](https://www.justice.gov/usao-sdoh/pr/former-financial-advisor-sentenced-5-years-prison-running-86m-ponzi-scheme) — USAO - Ohio, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
+- 2026-04-07 — [Two Men Plead Guilty to Cocaine Trafficking](https://www.justice.gov/usao-ma/pr/two-men-plead-guilty-cocaine-trafficking) — USAO - Massachusetts
+- 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) — USAO - Massachusetts
+- ... and 264,302 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Benjamin%20Netanyahu%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

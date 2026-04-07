@@ -2,11 +2,20 @@
 title: "Brady Campaign"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
+court-cases: 407
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, D. Kansas"
+  - "District Court, D. Maryland"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. North Carolina"
+  - "District Court, W.D. Texas"
 ---
 
 #gun-violence-prevention #democratic-donor #advocacy-organization #brady-pac
@@ -50,3 +59,22 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - [Washington Post: After El Paso and Dayton shootings, gun-control groups seize momentum](https://www.washingtonpost.com/politics/2019/08/13/people-are-fed-up-after-el-paso-dayton-shootings-gun-control-groups-seize-momentum/) (Tier 2)
 
 `content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 407 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, D. Kansas, District Court, D. Maryland, District Court, District of Columbia, District Court, E.D. North Carolina, District Court, W.D. Texas |
+| Case Types | 2899 Other Statutes APA/Review Agency, 440 Civil Rights: Other, 840 Trademark, 890 Other Statutory Actions, 893 Environmental Matters |
+
+**Notable cases:**
+- National Trust for Historic Preservation v. NPS (2026) — Court of Appeals for the D.C. Circuit
+- WASHINGTON AREA BICYCLIST ASSOCIATION, INC. v. BURGUM (2026) — District Court, District of Columbia
+- DC PRESERVATION LEAGUE v. BOARD OF TRUSTEES OF THE JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS (2026) — District Court, District of Columbia
+- State of Maryland v. Mullin (2026) — District Court, D. Maryland
+- LEMMON v. TRUMP (2026) — District Court, District of Columbia
+- DC PRESERVATION LEAGUE v. DEPARTMENT OF INTERIOR (2026) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brady%20Campaign%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -14,6 +14,19 @@ federal-contracts-count: 0
 federal-grants-count: 2
 lei: "K4CDIF4M54DJZ6TB4Q48"
 lei-jurisdiction: "US-DE"
+court-cases: 154
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Tenth Circuit"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. Georgia"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. Mississippi"
+  - "District Court, S.D. New York"
+  - "District Court, S.D. Texas"
+  - "District Court, W.D. Texas"
 ---
 
 #donor #energy #midstream #fossil-fuel #pipeline #republican-lean #class-analysis #follow-the-money
@@ -138,3 +151,22 @@ content-readiness:: draft
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 154 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Tenth Circuit, District Court, E.D. New York, District Court, E.D. Virginia, District Court, N.D. Georgia, District Court, N.D. Texas, District Court, S.D. Mississippi, District Court, S.D. New York +2 more |
+| Case Types | 190 Contract: Other, 370 Other Fraud, 440 Civil Rights: Other, 4480 Consumer Credit, 850 Securities/Commodities |
+
+**Notable cases:**
+- Saint-Phard v. Zartler (2025) — District Court, S.D. Texas
+- Cowan v. Boyd (2025) — District Court, S.D. Texas
+- Environmental Defense Fund v. Lee Zeldin (2025) — Court of Appeals for the D.C. Circuit
+- Berkadia Commercial Mortgage LLC v. Cross Bridge Title LLC (2025) — District Court, S.D. Texas
+- Energy Transfer LP v. United States Department of Labor (2025) — District Court, N.D. Texas
+- Airlines for America v. FERC (2024) — Court of Appeals for the D.C. Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Enterprise%20Products%20Partners%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

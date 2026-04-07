@@ -160,18 +160,22 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 2 |
+| Donors Who Also Lobby | 2 of 3 |
 | Donors With Federal Contracts | 1 |
-| Committee Overlap Detected | 1 donor |
+| Committee Overlap Detected | 2 donors |
 
 **Donate → Lobby → Committee chains:**
 
 - **Defense Industry Bloc** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
 - **Defense Industry Bloc** donates → Lobbies on **Defense** → This member sits on **Appropriations**
 - **Defense Industry Bloc** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
+- **Microsoft** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
+- **Microsoft** donates → Lobbies on **Defense** → This member sits on **Appropriations**
+- **Microsoft** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
 
 **Donors who lobby (by spend):**
 
+- [[Microsoft]] — $20.7M lobbying spend (Budget/Appropriations, Communications/Broadcasting/Radio/TV, Computer Industry)
 - [[Defense Industry Bloc]] — $2.0M lobbying spend (Aerospace, Animals, Aviation/Airlines/Airports)
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*

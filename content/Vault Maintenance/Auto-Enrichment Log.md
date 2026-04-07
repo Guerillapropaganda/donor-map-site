@@ -88,6 +88,304 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 2026-04-07 20:40 UTC — 6 profiles
+
+**federal-register — 6 profiles:**
+- Kenneth Griffin — 5 mentions, 5 agencies
+- National Nurses United — 28 mentions, 7 agencies
+- Western States Petroleum Association — 76 mentions, 5 agencies
+- DoorDash — 7 mentions, 5 agencies
+- SpaceX — 166 mentions, 9 agencies
+- Verizon — 928 mentions, 7 agencies
+
+---
+## 2026-04-07 20:37 UTC — 15 profiles
+
+**doj-press — 15 profiles:**
+- Benjamin Netanyahu — 264308 mentions, 11 components
+- ADM - Archer Daniels Midland — 264308 mentions, 11 components
+- Jeff Bezos — 264309 mentions, 11 components
+- Republican Jewish Coalition — 264310 mentions, 11 components
+- Colin Powell — 264311 mentions, 11 components
+- Hillary Clinton — 264311 mentions, 11 components
+- Mark Zuckerberg — 264311 mentions, 11 components
+- Miriam Adelson — 264311 mentions, 11 components
+- Donald Trump — 264312 mentions, 11 components
+- Capitol Counsel — 264312 mentions, 11 components
+- Ash Kalra — 264312 mentions, 11 components
+- Richard and Elizabeth Uihlein — 264312 mentions, 11 components
+- John Cornyn — 264312 mentions, 11 components
+- American Iron and Steel Institute — 264312 mentions, 11 components
+- Kevin McCarthy — 264312 mentions, 11 components
+
+---
+## 2026-04-07 20:37 UTC — 5 profiles
+
+**usaspending-subawards — 5 profiles:**
+- Hawaiian Electric Company — 0 issued, 0 received, 5 agencies
+- Gilead Sciences — 0 issued, 0 received, 1 agencies
+- Novo Nordisk — 0 issued, 0 received, 2 agencies
+- Marathon Petroleum — 0 issued, 0 received, 1 agencies
+- Honeywell International — 50 issued, 50 received, 8 agencies
+
+---
+## 2026-04-07 20:32 UTC — 3 profiles
+
+**USAspending — 3 profiles:**
+- Anduril Industries — 25 contracts, 0 grants
+- Lyft — 10 contracts, 0 grants
+- Anthropic — 1 contracts, 1 grants
+
+---
+## 2026-04-07 20:30 UTC — 4 profiles
+
+**GovTrack — 4 profiles:**
+- Stephen Miller — 0 sponsored, 0 cosponsored
+- Bennie Thompson — 14 sponsored, 355 cosponsored
+- Deb Fischer — 30 sponsored, 154 cosponsored
+- Jamaal Bowman — 0 sponsored, 0 cosponsored
+
+---
+## 2026-04-07 20:27 UTC — 14 profiles
+
+**FEC — 14 profiles:**
+- John Ratcliffe — 2020 raised $544,358
+- Glenn Thompson — 2026 raised $1,227,441
+- Scott Wiener — 2026 raised $2,785,989
+- Colin Powell — 2000 raised $0
+- Nancy Mace — 2026 raised $452,863
+- John Roberts — 2022 raised $167,173
+- Kevin McCarthy — 2024 raised $15,739,442
+- Tim Walz — 2018 raised $113,151
+- Chris Wright — 2024 raised $10,625
+- Tim Geithner — total political spend $469,350
+- Bradley Foundation — total political spend $150,500
+- Tim Dunn — total political spend $9,908,147
+- Elon Musk — total political spend $366,359,788
+- AFGE - American Federation of Government Employees — total political spend $664,400
+
+---
+## 2026-04-07 20:26 UTC — 8 profiles
+
+**ProPublica — 8 profiles:**
+- CTA - California Teachers Association — $89K revenue, 2023 990
+- Cargill — $2.5M revenue, 2023 990
+- Tenet Healthcare — $1.9M revenue, 2023 990
+- Centene Corporation — $8K revenue, 2023 990
+- Wells Fargo — $256.3M revenue, 2023 990
+- Gilead Sciences — $5.0M revenue, 2023 990
+- Bradley Foundation — $2K revenue, 2023 990
+- US Chamber of Commerce — $37.8M revenue, 2023 990
+
+---
+## 2026-04-07 20:25 UTC — 10 profiles
+
+**nonprofit-990 — 10 profiles:**
+- Kenneth Griffin — EIN 362167797, 501(c)(3), rev $285.4M
+- Eli Broad Foundation — EIN 954686318, 501(c)(3), rev $163.4M
+- Republican Jewish Coalition — EIN 521386172, 501(c)(4), rev $13.4M
+- Prime Policy Group — EIN 841989534, 501(c)(4), rev $120K
+- Hawaiian Electric Company — EIN 990230697, 501(c)(3), rev $240K
+- Bipartisan Policy Center — EIN 731628382, 501(c)(3), rev $38.0M
+- American Gaming Association — EIN 931169142, 501(c)(6), rev $24.6M
+- AbbVie — EIN 460827839, 501(c)(3), rev $67.6M
+- Council on Foreign Relations — EIN 131628168, 501(c)(3), rev $173.5M
+- Brennan Center for Justice — EIN 133839293, 501(c)(3), rev $111.4M
+
+---
+## 2026-04-07 20:25 UTC — 3 profiles
+
+**committee — 3 profiles:**
+- The Fox News Pipeline - How Media Money Shaped the MAGA Machine — 0 committees, 0 subcommittees
+- Neil Gorsuch — 0 committees, 0 subcommittees
+- Jim McGovern — 0 committees, 0 subcommittees
+
+---
+## 2026-04-07 20:24 UTC — 10 profiles
+
+**sec-edgar — 10 profiles:**
+- Crossroads Strategies — 33 filings, 18 form types
+- ActBlue — 5 filings, 3 form types
+- American Enterprise Institute — 3868 filings, 15 form types
+- Williams Companies — 10000 filings, 25 form types
+- Meta - Facebook — 294 filings, 20 form types
+- DSCC - Democratic Senatorial Campaign Committee — 1 filings, 1 form types
+- Hoover Institution — 5190 filings, 22 form types
+- Ohio Democratic Party — 3 filings, 1 form types
+- America Votes — 4 filings, 4 form types
+- Sports Betting Alliance — 1 filings, 1 form types
+
+---
+## 2026-04-07 20:23 UTC — 3 profiles
+
+**Congress.gov — 3 profiles:**
+- Rex Tillerson — 0 policy areas, bioguide A000383
+- Oath Keepers Membership and the Constitutional Sheriff Movement — 0 policy areas, bioguide A000383
+- Three Justices in Four Years - The Leonard Leo Investment and Its Returns — 0 policy areas, bioguide A000383
+
+---
+## 2026-04-07 20:23 UTC — 11 profiles
+
+**courtlistener — 11 profiles:**
+- Stand Together — 883 cases, 11 courts
+- Roosevelt Institute — 73 cases, 12 courts
+- Cassidy & Associates — 7 cases, 6 courts
+- CREW - Citizens for Responsibility and Ethics in Washington — 2 cases, 1 courts
+- Tenet Healthcare — 2123 cases, 11 courts
+- Aramark — 12414 cases, 11 courts
+- Brady Campaign — 407 cases, 6 courts
+- Defense Contractors — 1288 cases, 9 courts
+- Humana — 17873 cases, 9 courts
+- NextEra Energy — 987 cases, 15 courts
+- Enterprise Products Partners — 154 cases, 10 courts
+
+---
+## 2026-04-07 20:22 UTC — 11 profiles
+
+**ofac-sdn — 11 profiles:**
+- Signalgate - The Yemen Strike Chat and the Security Theater — fuzzy match, 1 records, programs: SDGT
+- Real Estate Development Industry Bloc — fuzzy match, 33 records, programs: PAARSSR-EO13894,SDGT,GLOMAG,TCO,IRAN] [IRAN-EO13876,SDNTK,UKRAINE-EO13662] [RUSSIA-EO14024,SDGT] [IFSR,IRAN,RUSSIA-EO14024,IRAN-EO13846,DPRK2,ILLICIT-DRUGS-EO14059
+- CalSTRS - California State Teachers' Retirement System — fuzzy match, 1 records, programs: RUSSIA-EO14024
+- Blackstone Real Estate Political Operation — fuzzy match, 26 records, programs: SDNTK,UKRAINE-EO13662] [RUSSIA-EO14024,SDGT,PAARSSR-EO13894,RUSSIA-EO14024,IRAN-EO13846,GLOMAG,DPRK2,ILLICIT-DRUGS-EO14059,TCO
+- Democratic Party Infrastructure — fuzzy match, 1 records, programs: BALKANS
+- Gulf State Money - Saudi Arabia, UAE, Qatar — fuzzy match, 1 records, programs: SDGT
+- American Enterprise Institute — fuzzy match, 12 records, programs: UKRAINE-EO13685,RUSSIA-EO14024,UKRAINE-EO13662] [RUSSIA-EO14024
+- Trump Media & Technology Group — fuzzy match, 1 records, programs: CAATSA - RUSSIA] [CYBER4
+- Johnson & Johnson — fuzzy match, 3 records, programs: GLOMAG
+- Great Lakes Conservatives Fund — fuzzy match, 1 records, programs: DRCONGO
+- JPAC - Jewish Public Affairs Committee of California — fuzzy match, 4 records, programs: BELARUS,GLOMAG
+
+---
+## 2026-04-07 20:22 UTC — 1 profile
+
+**fara — 1 profile:**
+- Israel - Government Lobbying Operation — 2 records, QATAR
+
+---
+## 2026-04-07 20:22 UTC — 104 profiles
+
+**influence-xref — 104 profiles:**
+- John Ratcliffe — 2 connections, 0 committee overlaps
+- ADM - Archer Daniels Midland — 1 connections, 1 committee overlaps
+- Lyft — 1 connections, 0 committee overlaps
+- Devon Energy — 3 connections, 0 committee overlaps
+- California Nurses Association — 7 connections, 3 committee overlaps
+- Joni Ernst — 1 connections, 1 committee overlaps
+- GEO Group - Private Prison Industrial Complex — 5 connections, 0 committee overlaps
+- Private Equity Industry Bloc — 1 connections, 0 committee overlaps
+- Jeanne Shaheen — 1 connections, 1 committee overlaps
+- Sheldon Whitehouse — 1 connections, 0 committee overlaps
+- Microsoft — 2 connections, 5 committee overlaps
+- Eric Swalwell — 1 connections, 0 committee overlaps
+- Citadel - Kenneth Griffin — 1 connections, 0 committee overlaps
+- Cryptocurrency Industry — 1 connections, 0 committee overlaps
+- John Thune — 1 connections, 0 committee overlaps
+- Pharmaceutical Industry Bloc — 2 connections, 0 committee overlaps
+- Citigroup — 4 connections, 3 committee overlaps
+- Amy Klobuchar — 1 connections, 5 committee overlaps
+- Amy Acton — 2 connections, 0 committee overlaps
+- National Cattlemen's Beef Association — 1 connections, 1 committee overlaps
+- Apple — 3 connections, 7 committee overlaps
+- Boeing — 7 connections, 7 committee overlaps
+- Kamala Harris — 1 connections, 0 committee overlaps
+- L3 Technologies — 1 connections, 0 committee overlaps
+- Roger Wicker — 1 connections, 1 committee overlaps
+- Amy Coney Barrett — 1 connections, 0 committee overlaps
+- Paul Ryan — 1 connections, 3 committee overlaps
+- Kyrsten Sinema — 1 connections, 0 committee overlaps
+- Defense Industry — 1 connections, 1 committee overlaps
+- Ro Khanna — 2 connections, 4 committee overlaps
+- Founders Fund — 3 connections, 0 committee overlaps
+- Jon Husted — 1 connections, 0 committee overlaps
+- Stephen Schwarzman — 1 connections, 0 committee overlaps
+- Entertainment and Hollywood Donors — 4 connections, 0 committee overlaps
+- Booz Allen Hamilton — 1 connections, 0 committee overlaps
+- Tyson Foods — 1 connections, 1 committee overlaps
+- Brett Kavanaugh — 1 connections, 0 committee overlaps
+- John Cornyn — 1 connections, 6 committee overlaps
+- BAE Systems — 1 connections, 1 committee overlaps
+- Tom Cole — 1 connections, 1 committee overlaps
+- Timothy Mellon — 4 connections, 0 committee overlaps
+- Telecom Industry — 1 connections, 1 committee overlaps
+- Adam Smith — 1 connections, 1 committee overlaps
+- Northrop Grumman — 6 connections, 4 committee overlaps
+- Mitch McConnell — 1 connections, 0 committee overlaps
+- CoreCivic — 3 connections, 0 committee overlaps
+- Chad Bianco — 1 connections, 0 committee overlaps
+- Goldman Sachs — 4 connections, 4 committee overlaps
+- Ohio AFL-CIO — 1 connections, 0 committee overlaps
+- National Association of Realtors — 1 connections, 0 committee overlaps
+- JPMorgan Chase — 5 connections, 6 committee overlaps
+- Raytheon (RTX Corporation) — 4 connections, 4 committee overlaps
+- Thom Tillis — 1 connections, 0 committee overlaps
+- Wall Street Bloc — 1 connections, 0 committee overlaps
+- Dan Crenshaw — 1 connections, 0 committee overlaps
+- Valero Energy — 1 connections, 0 committee overlaps
+- ConocoPhillips — 4 connections, 1 committee overlaps
+- Ethanol Industry — 1 connections, 1 committee overlaps
+- Neil Gorsuch — 1 connections, 0 committee overlaps
+- Bill Cassidy — 1 connections, 0 committee overlaps
+- American Farm Bureau Federation — 2 connections, 2 committee overlaps
+- Insurance Industry — 10 connections, 0 committee overlaps
+- Anthem - Elevance Health — 1 connections, 0 committee overlaps
+- California Apartment Association — 2 connections, 0 committee overlaps
+- General Dynamics — 3 connections, 3 committee overlaps
+- Joe Biden — 3 connections, 0 committee overlaps
+- Patty Murray — 3 connections, 6 committee overlaps
+- Bradley Foundation — 1 connections, 0 committee overlaps
+- John Boehner — 1 connections, 3 committee overlaps
+- Agribusiness Donor Bloc — 1 connections, 1 committee overlaps
+- Cory Booker — 1 connections, 0 committee overlaps
+- Barack Obama — 3 connections, 0 committee overlaps
+- General Motors — 2 connections, 0 committee overlaps
+- Ocean Conservancy — 1 connections, 0 committee overlaps
+- Jeffrey Epstein Network — 4 connections, 0 committee overlaps
+- Trump Media & Technology Group — 1 connections, 0 committee overlaps
+- Antonio Villaraigosa — 1 connections, 0 committee overlaps
+- Morgan Stanley — 1 connections, 0 committee overlaps
+- Western States Petroleum Association — 1 connections, 0 committee overlaps
+- Mike Lee — 1 connections, 1 committee overlaps
+- Bank of America — 1 connections, 1 committee overlaps
+- Mark Warner — 1 connections, 1 committee overlaps
+- Greg Abbott — 1 connections, 0 committee overlaps
+- Riverside Sheriffs Association — 1 connections, 0 committee overlaps
+- Defense Industry Bloc — 2 connections, 3 committee overlaps
+- Centene Corporation — 2 connections, 0 committee overlaps
+- Petrochemical Industry Bloc — 1 connections, 0 committee overlaps
+- Blackstone Group — 4 connections, 1 committee overlaps
+- Gavin Newsom — 2 connections, 0 committee overlaps
+- Tommy Tuberville — 1 connections, 0 committee overlaps
+- Wes Moore — 1 connections, 0 committee overlaps
+- Jon Ossoff — 1 connections, 0 committee overlaps
+- Rand Paul — 1 connections, 0 committee overlaps
+- Ohio Democratic Party — 1 connections, 0 committee overlaps
+- Lockheed Martin — 9 connections, 9 committee overlaps
+- CCPOA - California Correctional Peace Officers Association — 2 connections, 0 committee overlaps
+- Open Society Foundations — 1 connections, 0 committee overlaps
+- US Chamber of Commerce — 3 connections, 6 committee overlaps
+- John Kennedy — 1 connections, 1 committee overlaps
+- Donald Trump — 1 connections, 0 committee overlaps
+- Business Roundtable — 1 connections, 0 committee overlaps
+- Nancy Pelosi — 1 connections, 0 committee overlaps
+- UnitedHealth Group - Optum — 4 connections, 0 committee overlaps
+- Judicial Crisis Network — 5 connections, 0 committee overlaps
+
+---
 ## 2026-04-07 17:56 UTC — 9 profiles
 
 **federal-register — 9 profiles:**

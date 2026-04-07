@@ -2,7 +2,7 @@
 title: "Great Lakes Conservatives Fund"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Mike Rogers"
   - "Abdul El-Sayed"
   - "Mallory McMorrow"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "DRCONGO"
 ---
 
 #donor #super-pac #great-lakes #michigan #mike-rogers #single-candidate-pac #defense-aligned
@@ -214,3 +218,20 @@ Rogers lost. Why?
 
 research-status:: ready — Single-candidate super PAC for Mike Rogers, $5.9M cash on hand, Tim Dunn 98% funding ($5M), Schwarzman $2M, Singer $500K, $21M 2024 spend, class analysis, 2024 loss analysis. 9 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | DRCONGO |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- GREAT LAKES BUSINESS COMPANY (-0-) [DRCONGO]
+  - Remarks: -0-
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

@@ -2,7 +2,7 @@
 title: "Aramark"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -11,6 +11,19 @@ ein: 276727955
 annual-revenue: "$1.8M"
 net-assets: "$1.2M"
 tax-year: "2023"
+court-cases: 12414
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Tenth Circuit"
+  - "District Court, D. New Jersey"
+  - "District Court, E.D. Wisconsin"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Florida"
+  - "District Court, N.D. Indiana"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. Indiana"
+  - "District Court, S.D. West Virginia"
+  - "District Court, W.D. North Carolina"
 ---
 
 
@@ -106,3 +119,22 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 - [Source: ProPublica Nonprofit Explorer — EIN 276727955](https://projects.propublica.org/nonprofits/organizations/276727955) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F276727955_202312_990O_2024061722529605.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 12,414 |
+| Courts | Court of Appeals for the Tenth Circuit, District Court, D. New Jersey, District Court, E.D. Wisconsin, District Court, N.D. California, District Court, N.D. Florida, District Court, N.D. Indiana, District Court, S.D. Florida, District Court, S.D. Indiana +3 more |
+| Case Types | 4190 Other Contract Actions, 442 Civil Rights: Jobs, 445 Civil Rights: Americans with Disabilities - Employment, 890 Other Statutory Actions |
+
+**Notable cases:**
+- LEVERETTE v. ARAMARK SERVICES INC (2026) — District Court, N.D. Florida
+- Byars v. Aramark Food Service (2026) — District Court, N.D. Indiana
+- Hartman v. Aramark Services, Inc. (2026) — District Court, N.D. California
+- Barnett v. Aramark NLNC Hospitality, LLC (2026) — District Court, W.D. North Carolina
+- HARPER v. ARAMARK SERVICES, INC. (2026) — District Court, S.D. Florida
+- The Cannabist Company Holdings (Canada) Inc. (2026) — United States Bankruptcy Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Aramark%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -46,6 +46,10 @@ sec-form-types:
   - "EX-99.2"
   - "PX14A6G"
   - "PX14A6N"
+ein: 461561597
+annual-revenue: "$37.8M"
+net-assets: "$61.1M"
+tax-year: "2023"
 ---
 
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis
@@ -391,3 +395,19 @@ content-readiness:: developed
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22US%20Chamber%20of%20Commerce%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $37.8M |
+| Total Contributions | $32.0M |
+| Program Service Revenue | $1.5M |
+| Investment Income | $1.7M |
+| Total Expenses | $37.8M |
+| Net Assets | $61.1M |
+| Officer Compensation | $1.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 461561597](https://projects.propublica.org/nonprofits/organizations/461561597) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F461561597_202312_990_2025022623131785.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

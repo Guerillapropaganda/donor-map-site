@@ -2,7 +2,7 @@
 title: "ActBlue"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,6 +12,11 @@ politicians-funded:
 issues:
   - "Infrastructure"
   - "Dark Money & Campaign Finance"
+sec-filings: 5
+sec-form-types:
+  - "40-APP"
+  - "40-APP/A"
+  - "EX-99"
 ---
 
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis
@@ -115,3 +120,21 @@ The structural difference is minor. Both are payment processors with embedded po
 
 research-status:: ready — Full citation pass complete. $22.6B processed since 2004, 3.9% processing fee, earmark controversy, fraud investigation (TX AG, House subpoena), WinRed comparison, platform dominance as gatekeeper function. 8 sources, Tier 1-2. All ### headers. Promoted Session 38k.
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 5 |
+| Form Types | 40-APP, 40-APP/A, EX-99 |
+
+**Notable filings:**
+
+- 2025-08-08 — **40-APP/A**: 40-APP/A
+- 2025-07-07 — **40-APP**: 40-APP
+- 2018-04-12 — **EX-99**: FORMC
+- 2018-04-13 — **EX-99**: FORMC
+- 2019-09-23 — **EX-99**: FORMC
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ActBlue%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -38,6 +38,14 @@ ein: 950596680
 annual-revenue: "$36.1M"
 net-assets: "$13.1M"
 tax-year: "2023"
+federal-register-mentions: 76
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Commerce Department"
+  - "Environmental Protection Agency"
+  - "National Oceanic and Atmospheric Administration"
+  - "Pipeline and Hazardous Materials Safety Administration"
+  - "Transportation Department"
 ---
 
 
@@ -192,3 +200,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 950596680](https://projects.propublica.org/nonprofits/organizations/950596680) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 76 |
+| Final Rules | 44 |
+| Proposed Rules | 20 |
+| Notices | 12 |
+| Agencies | Commerce Department, Environmental Protection Agency, National Oceanic and Atmospheric Administration, Pipeline and Hazardous Materials Safety Administration, Transportation Department |
+
+**Recent regulatory activity:**
+- [California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision](https://www.federalregister.gov/documents/2023/10/20/2023-23261/california-state-nonroad-engine-pollution-control-standards-ocean-going-vessels-at-berth-notice-of) (2023-10-20) — Environmental Protection Agency
+- [California State Motor Vehicle and Engine Pollution Control Standards; Heavy-Duty Vehicle and Engine Emission Warranty and Maintenance Provisions; Advanced Clean Trucks; Zero Emission Airport Shuttle; Zero-Emission Power Train Certification; Waiver of Preemption; Notice of Decision](https://www.federalregister.gov/documents/2023/04/06/2023-07184/california-state-motor-vehicle-and-engine-pollution-control-standards-heavy-duty-vehicle-and-engine) (2023-04-06) — Environmental Protection Agency
+- [Hazardous Materials: The State of Washington Crude Oil by Rail Volatility Requirements](https://www.federalregister.gov/documents/2020/05/15/2020-10381/hazardous-materials-the-state-of-washington-crude-oil-by-rail-volatility-requirements) (2020-05-15) — Transportation Department
+- [Determination of Attainment of the 1-Hour Ozone National Ambient Air Quality Standard in the San Joaquin Valley Nonattainment Area in California](https://www.federalregister.gov/documents/2016/07/18/2016-16792/determination-of-attainment-of-the-1-hour-ozone-national-ambient-air-quality-standard-in-the-san) (2016-07-18) — Environmental Protection Agency
+- [Water Quality Standards; Establishment of Revised Numeric Criteria for Selenium for the San Francisco Bay and Delta, State of California](https://www.federalregister.gov/documents/2016/07/15/2016-16266/water-quality-standards-establishment-of-revised-numeric-criteria-for-selenium-for-the-san-francisco) (2016-07-15) — Environmental Protection Agency ★
+- [Notice of Availability of Proposed National Pollutant Discharge Elimination System (NPDES) General Permit for Offshore Oil and Gas Exploration, Development and Production Operations off Southern California](https://www.federalregister.gov/documents/2012/12/20/2012-30696/notice-of-availability-of-proposed-national-pollutant-discharge-elimination-system-npdes-general) (2012-12-20) — Environmental Protection Agency
+- ... and 70 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Western%20States%20Petroleum%20Association%22) (Tier 1)
+<!-- auto:federal-register end -->

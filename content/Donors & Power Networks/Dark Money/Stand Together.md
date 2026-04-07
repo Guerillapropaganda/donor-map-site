@@ -14,7 +14,7 @@ annual-revenue: "$1.9M"
 net-assets: "$291K"
 tax-year: "2021"
 federal-register-mentions: 35
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
   - "Education Department"
@@ -46,6 +46,18 @@ sec-form-types:
   - "PX14A6G"
 lobbying-spend: 6505000
 lobbying-filings: 89
+court-cases: 883
+court-jurisdictions:
+  - "District Court, D. Arizona"
+  - "District Court, D. Connecticut"
+  - "District Court, D. Maryland"
+  - "District Court, D. Oregon"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. New York"
+  - "District Court, S.D. California"
 ---
 
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money
@@ -251,3 +263,22 @@ content-readiness:: developed
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Stand%20Together) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 883 |
+| Courts | District Court, D. Arizona, District Court, D. Connecticut, District Court, D. Maryland, District Court, D. Oregon, District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, E.D. Virginia, District Court, N.D. California +3 more |
+| Case Types | 290 Real Property: Other, 440 Civil Rights: Other, 460 Deportation, 465 Other Immigration Actions, 470 Other Statutes: Racketeer/Corrupt Organization |
+
+**Notable cases:**
+- Gilbert Baker Foundation v. U.S. Department of Interior (2026) — District Court, S.D. New York
+- Orr v. Stand Together Chamber of Commerce, Inc. (2026) — District Court, E.D. Virginia
+- Golden v. Google, LLC (2026) — District Court, N.D. California
+- KalshiEX LLC v. Cafferelli (2025) — District Court, D. Connecticut
+- Christian and Jewish Alliance Inc. v. Brunner (2025) — District Court, S.D. California
+- CITY OF PHILADELPHIA v. CVS HEALTH CORPORATION (2025) — District Court, E.D. Pennsylvania
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Stand%20Together%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

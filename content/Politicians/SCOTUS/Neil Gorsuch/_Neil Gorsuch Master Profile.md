@@ -2,7 +2,7 @@
 title: "Neil Gorsuch Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 chamber: "SCOTUS"
@@ -10,6 +10,7 @@ top-donors:
   - "Leonard Leo"
   - "Koch Network - Charles Koch"
   - "Judicial Crisis Network"
+bioguide-id: "A000383"
 ---
 
 
@@ -131,3 +132,24 @@ Neil M. Gorsuch. Associate Justice, U.S. Supreme Court (2017–present). First T
 - [U.S. Senate: Roll Call Vote — Gorsuch Confirmation 54-45](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00111.htm) (Tier 1)
 - [WBUR/NPR: Contempt — How Reagan's EPA Head Became the First Cabinet-Level Official Cited for Contempt of Congress](https://www.wbur.org/hereandnow/2022-09-16/contempt-how-reagans-epa-head-became-the-1st-cabinet-level-official-cited-for-contempt-of-congress) (Tier 2)
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Judicial Crisis Network]] — $248K lobbying spend (Constitution, Government Issues)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

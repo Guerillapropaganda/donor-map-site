@@ -2,7 +2,7 @@
 title: "Marathon Petroleum"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -15,6 +15,8 @@ issues:
 federal-awards-total: 437282470
 federal-contracts-count: 25
 federal-grants-count: 2
+top-federal-agency: "Department of Defense"
+top-naics-code: "324110"
 ---
 
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned
@@ -220,3 +222,13 @@ research-status:: developed — added 7-cycle PAC table (2012–2024, ~$8.2M PAC
 
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Marathon%20Petroleum) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Defense ($1.4B) |
+| Primary NAICS Sector | Petroleum Refineries |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

@@ -12,7 +12,7 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
 court-cases: 168
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 court-jurisdictions:
   - "Court of Appeals for the Eleventh Circuit"
   - "District Court, D. Massachusetts"
@@ -24,7 +24,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. Illinois"
   - "District Court, S.D. New York"
-ein: 581607989
+ein: "362167797"
 annual-revenue: "$86K"
 net-assets: "$83K"
 tax-year: "2023"
@@ -37,6 +37,16 @@ sec-form-types:
   - "SC TO-T/A"
   - "SCHEDULE 13G"
   - "SCHEDULE 13G/A"
+nonprofit-status: "501(c)(3)"
+total-revenue: 285378654
+total-assets: 433034472
+federal-register-mentions: 5
+regulatory-agencies:
+  - "Environmental Protection Agency"
+  - "Federal Emergency Management Agency"
+  - "Federal Motor Carrier Safety Administration"
+  - "Securities and Exchange Commission"
+  - "Transportation Department"
 ---
 
 
@@ -248,3 +258,48 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kenneth%20Griffin%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 362167797 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $285.4M |
+| Total Assets | $433.0M |
+| NTEE Code | A570 |
+| IRS Ruling Date | 1938-04-01 |
+| Filings on Record | 12 |
+
+**Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
+
+**View 990 filings:**
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2019)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2018)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/362167797) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 5 |
+| Notice | 2 |
+| Rule | 1 |
+| Proposed Rule | 2 |
+| Agencies | Environmental Protection Agency, Federal Emergency Management Agency, Federal Motor Carrier Safety Administration, Securities and Exchange Commission, Transportation Department |
+
+**Recent regulatory activity:**
+- [Qualification of Drivers; Exemption Applications; Vision](https://www.federalregister.gov/documents/2011/11/09/2011-29048/qualification-of-drivers-exemption-applications-vision) (2011-11-09) — Transportation Department
+- [Regulation NMS](https://www.federalregister.gov/documents/2005/06/29/05-11802/regulation-nms) (2005-06-29) — Securities and Exchange Commission
+- [Regulation NMS](https://www.federalregister.gov/documents/2004/12/27/04-27934/regulation-nms) (2004-12-27) — Securities and Exchange Commission
+- [Regulatory Reinvention (XL) Pilot Projects](https://www.federalregister.gov/documents/2000/09/07/00-22975/regulatory-reinvention-xl-pilot-projects) (2000-09-07) — Environmental Protection Agency
+- [Proposed Flood Elevation Determinations](https://www.federalregister.gov/documents/1995/05/17/95-12128/proposed-flood-elevation-determinations) (1995-05-17) — Federal Emergency Management Agency
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Kenneth%20Griffin%22) (Tier 1)
+<!-- auto:federal-register end -->

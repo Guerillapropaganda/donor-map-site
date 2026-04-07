@@ -60,6 +60,10 @@ sec-form-types:
   - "N-PX"
   - "NPORT-EX"
   - "SCHEDULE 13G/A"
+ein: 411367441
+annual-revenue: "$256.3M"
+net-assets: "$50.5M"
+tax-year: "2023"
 ---
 
 #wells-fargo #wall-street #consumer #fraud #fake-accounts #banking #charlotte
@@ -178,3 +182,15 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Wells%20Fargo%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $256.3M |
+| Total Contributions | $0 |
+| Total Expenses | $218.4M |
+| Net Assets | $50.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 411367441](https://projects.propublica.org/nonprofits/organizations/411367441) (Tier 1)
+<!-- auto:propublica-990 end -->

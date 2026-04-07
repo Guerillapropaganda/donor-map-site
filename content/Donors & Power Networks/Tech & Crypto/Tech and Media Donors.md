@@ -2,7 +2,7 @@
 title: "Tech and Media Donors"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -10,6 +10,8 @@ entity-type: "Individual Donor"
 issues:
   - "Technology"
   - "Antitrust & Monopoly"
+lobbying-spend: 9122856
+lobbying-filings: 133
 ---
 
 #tech #media #donors #section-230 #antitrust #streaming #ip #copyright
@@ -35,3 +37,22 @@ The tech-media convergence creates shared political priorities: Section 230 prot
 - [Ballotpedia: Tech and media political spending](https://ballotpedia.org/Tech_and_Media_Donors) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $9.1M |
+| Quarterly Filings | 133 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 95 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Natural Resources, Real Estate/Land Use/Conservation, Retirement, Roads/Highway, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Waste (hazardous/solid/interstate/nuclear)
+
+**Lobbying firms:** ALPINE GROUP PARTNERS, LLC., ALSTON & BIRD LLP, ALTANA TECHNOLOGIES, AMERICAN DEFENSE INTERNATIONAL, INC., AMERICAN SOCIETY OF RADIOLOGIC TECHNOLOGISTS, AMT - THE ASSOCIATION FOR MANUFACTURING TECHNOLOGY, ARK STRATEGY, ATLANTIC STRATEGIES GROUP LLC, ATS COMMUNICATIONS, INC. (DBA SILBEY STRATEGIES), AVENUE SOLUTIONS, AVOQ, LLC, BACKSTOP STRATEGIES, LLC, BETA TECHNOLOGIES, BGR GOVERNMENT AFFAIRS, BOOM TECHNOLOGY, INC., BRIAN GLACKIN & ASSOCIATES LLC, BRODY GROUP L.L.C. PUBLIC AFFAIRS, BROWNSTEIN HYATT FARBER SCHRECK, LLP, BWX TECHNOLOGIES, INC., C2 STRATEGIES, CAPITOL RESOURCES, LLC, CAPITOL STRATEGIES US, LLC, CATALYST STRATEGIES, LLC, CONSUMER TECHNOLOGY ASSOCIATION, CONTINENTAL STRATEGY, LLC, CORBIN STRATEGIES LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., CROSSROADS STRATEGIES, LLC, CT GROUP FKA CTF GLOBAL LLC, DEBRUNNER & ASSOCIATES, INC., DIGITAL TRADING SCIENCE & TECHNOLOGY (BEIJING) CO., LTD. DBA DHGATE, DJI TECHNOLOGY, INC., DUTKO WORLDWIDE, LLC, DYNAVAX TECHNOLOGIES CORP., EFB ADVOCACY, LLC, ENERGY WORKFORCE & TECHNOLOGY COUNCIL, EPPLIN STRATEGIC PLANNING, ERVIN GRAVES STRATEGY GROUP, LLC, ESS TECH, INC., FORBES-TATE, FUTUREWEI TECHNOLOGIES, INC., GAS TECHNOLOGY INSTITUTE, GLOBAL TECHNICAL SYSTEMS, GRV STRATEGIES LLC, HOLLAND & KNIGHT LLP, ICEBREAKER STRATEGIES, LLC, IMPACT MANAGEMENT GROUP, INDUSTRY COUNCIL FOR EMERGENCY RESPONSE TECHNOLOGIES, INFINEON TECHNOLOGIES AMERICAS CORP., INNOVATIVE FEDERAL STRATEGIES, LLC, INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS (IFPTE), KEYSIGHT TECHNOLOGIES, INC, KILEY CAPITOL SOLUTIONS, LLC, KIT BOND STRATEGIES, LUMEN TECHNOLOGIES, INC., MASSACHUSETTS INSTITUTE OF TECHNOLOGY, MCDERMOTT+ LLC, MERCHANT MCINTYRE & ASSOCIATES, LLC, MERCURY PUBLIC AFFAIRS, LLC, MICHIGAN TECHNOLOGICAL UNIVERSITY, MICRON TECHNOLOGY, INC., NAPATREE TECHNOLOGY, LLC, OCULUS STRATEGIES, LLC, OTT BIELITZKI & O'NEILL PLLC, PALANTIR TECHNOLOGIES, INC., PAUL HASTINGS LLP, POINTCLICKCARE TECHNOLOGIES USA CORP., POLARIS GOVERNMENT RELATIONS, LLC, RAAB GOVERNMENT STRATEGIES, LLC, RED CARR LLC, REPUBLIC CONSULTING, LLC, RIDGE PATH STRATEGIES, ROCHESTER INSTITUTE OF TECHNOLOGY, S-3 GROUP, SARAH BLACKWOOD GOVERNMENT RELATIONS, LLC, SKYWATER TECHNOLOGY FOUNDRY, STAPLETON & ASSOCIATES, LLC, TECHMET USA INC., TECHNOLOGY COUNCILS OF NORTH AMERICA, TECHNOLOGY NETWORK AKA TECHNET, TECHNOLOGY STRATEGIES LLC, THE PETRIZZO GROUP, INC., THE RESERVE COMPONENT, THE VOGEL GROUP, THORN RUN PARTNERS, TTM TECHNOLOGIES, INC, VENABLE LLP, VENN STRATEGIES, VESTAS-AMERICAN WIND TECHNOLOGY, INC., VIAL HEALTH TECHNOLOGY, INC., VITA INCLINATA TECHNOLOGIES, INC., WEB 3.0 TECHNOLOGIES FOUNDATION, WHEAT SHROYER GOVERNMENT RELATIONS LLC, WILLIAMS AND JENSEN, PLLC, WINNING STRATEGIES WASHINGTON
+
+**Agencies contacted:** Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense Advanced Research Projects Agency (DARPA), Defense, Dept of (DOD), Economic Development Administration, Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA) +32 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tech%20and%20Media%20Donors) (Tier 1)
+<!-- auto:lda-lobbying end -->

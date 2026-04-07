@@ -113,3 +113,20 @@ content-readiness:: ready
 | SLF PAC | $1.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[James Lankford]] (Finance, Homeland Security) — lobbying: $810K
+- [[Markwayne Mullin]] (Armed Services) — lobbying: $810K
+- [[John Fetterman]] — lobbying: $810K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

@@ -2,9 +2,11 @@
 title: "Nancy Mace"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
+total-received: "$452,863"
+fec-candidate-id: "H0SC01394"
 ---
 
 #nancy-mace #house #south-carolina #swing-district #donor-flip #weather-vane #ideological-flexibility
@@ -166,3 +168,37 @@ Mace's flip on transgender rights is the clearest possible case study of donor-d
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $452,863 |
+| Individual Contributions | $53,669 |
+| PAC Contributions | $11,500 |
+| Cash on Hand | 241293.75 |
+| IE Support (Super PAC) | $2,322,761 |
+| IE Opposition (Super PAC) | $17,099,331 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $452,863 | $53,669 | $11,500 |
+| 2024 | $3,481,912 | $731,297 | $593,500 |
+| 2022 | $5,884,937 | $2,173,611 | $1,181,254 |
+| 2020 | $5,873,154 | $3,321,939 | $322,626 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SOUTH CAROLINA PATRIOTS PAC | $0 | $4,988,211 |
+| HOUSE MAJORITY PAC | $0 | $4,558,493 |
+| DCCC | $0 | $2,953,950 |
+| 314 ACTION FUND | $0 | $1,511,730 |
+| CLUB FOR GROWTH ACTION | $1,278,503 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0SC01394/) (Tier 1)
+<!-- auto:fec-politician end -->

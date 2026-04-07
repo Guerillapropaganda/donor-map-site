@@ -27,6 +27,22 @@ regulatory-agencies:
   - "Labor Department"
   - "National Labor Relations Board"
   - "Securities and Exchange Commission"
+court-cases: 2123
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Oregon"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. Texas"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. Florida"
+  - "District Court, W.D. Texas"
+ein: 742873537
+annual-revenue: "$1.9M"
+net-assets: "$4.8M"
+tax-year: "2023"
 ---
 
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory
@@ -224,3 +240,34 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tenet%20Healthcare%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2,123 |
+| Courts | District Court, C.D. California, District Court, D. Massachusetts, District Court, D. Oregon, District Court, District of Columbia, District Court, E.D. California, District Court, E.D. Michigan, District Court, E.D. Texas, District Court, N.D. Texas +3 more |
+| Case Types | 190 Contract: Other, 362 Personal Inj. Med. Malpractice, 380 Other Personal Property Damage, 380 Personal Property: Other, 442 Civil Rights: Jobs |
+
+**Notable cases:**
+- Kennedy Bosco v. Tenet Healthcare Corporation (2026) — District Court, C.D. California
+- Ernest v. Tenet Healthcare Corporation (2026) — District Court, S.D. Florida
+- K.P. v. Courier Plus, Inc. (2025) — District Court, D. Oregon
+- State of Oregon v. Kennedy (2025) — District Court, D. Oregon
+- M.C. 1 v. Curriculum Associates, LLC (2025) — District Court, D. Massachusetts
+- TENET HEALTHCARE CORPORATION v. SERVICE EMPLOYEES INTERNATIONAL UNION (2025) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tenet%20Healthcare%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.9M |
+| Total Contributions | $0 |
+| Total Expenses | $841K |
+| Net Assets | $4.8M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 742873537](https://projects.propublica.org/nonprofits/organizations/742873537) (Tier 1)
+<!-- auto:propublica-990 end -->

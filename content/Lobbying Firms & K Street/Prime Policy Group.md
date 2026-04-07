@@ -14,6 +14,11 @@ sec-form-types:
   - "EX-2"
   - "EX-8.1"
 related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]]"
+ein: "841989534"
+nonprofit-status: "501(c)(4)"
+last-enriched: "2026-04-07"
+total-revenue: 120000
+total-assets: 2901
 ---
 
 #lobbying #k-street #defense #foreign-policy #energy #healthcare #bipartisan #republican-establishment #dictators
@@ -265,3 +270,27 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Prime%20Policy%20Group%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 841989534 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $120K |
+| Total Assets | $3K |
+| NTEE Code | W05 |
+| IRS Ruling Date | 2019-12-01 |
+| Filings on Record | 5 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2019)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/841989534) (Tier 1)
+<!-- auto:nonprofit-990 end -->

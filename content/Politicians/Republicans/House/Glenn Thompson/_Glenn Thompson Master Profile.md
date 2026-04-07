@@ -2,7 +2,7 @@
 title: "Glenn Thompson"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,8 @@ committees:
   - "Agriculture"
 issues:
   - "Agriculture"
+total-received: "$1,227,441"
+fec-candidate-id: "H8PA05071"
 ---
 
 
@@ -155,3 +157,38 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 - [Wikipedia: Glenn Thompson](https://en.wikipedia.org/wiki/Glenn_Thompson_%28politician%29) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,227,441 |
+| Individual Contributions | $485,931 |
+| PAC Contributions | $652,418 |
+| Cash on Hand | 867140.16 |
+| IE Support (Super PAC) | $122,779 |
+| IE Opposition (Super PAC) | $2,246 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,227,441 | $485,931 | $652,418 |
+| 2024 | $2,857,767 | $1,195,808 | $1,496,561 |
+| 2022 | $2,692,356 | $1,236,638 | $1,229,629 |
+| 2020 | $1,726,998 | $737,948 | $806,081 |
+| 2018 | $1,390,787 | $679,575 | $643,039 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $72,300 | $0 |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $26,000 | $0 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $22,167 | $0 |
+| PENNSYLVANIA PRO-LIFE FEDERATION PAC | $1,635 | $0 |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND | $0 | $862 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)
+<!-- auto:fec-politician end -->

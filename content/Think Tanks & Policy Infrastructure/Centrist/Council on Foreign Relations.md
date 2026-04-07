@@ -20,6 +20,12 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "United States Court of International Trade"
 related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Carlyle Group]] · [[BlackRock]] · [[ExxonMobil]]"
+ein: "131628168"
+nonprofit-status: "501(c)(3)"
+total-revenue: 173497100
+total-assets: 755521700
+lei: "5493002I685OPNH25F86"
+lei-jurisdiction: "US-NY"
 ---
 
 #think-tank #centrist #foreign-policy #defense #wall-street #revolving-door #idea-laundering #bipartisan-credibility-shield
@@ -250,3 +256,43 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Council%20on%20Foreign%20Relations%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 131628168 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $173.5M |
+| Total Assets | $755.5M |
+| NTEE Code | Q055 |
+| IRS Ruling Date | 1927-01-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [5493002I685OPNH25F86](https://search.gleif.org/#/record/5493002I685OPNH25F86) |
+| Legal Name | Council on Foreign Relations, Inc. |
+| Jurisdiction | US-NY |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2025-11-05T20:00:08Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

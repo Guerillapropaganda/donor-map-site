@@ -8,8 +8,11 @@ parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Mike Rogers"
-  - "Donald Trump"
+  - "Michael Whatley"
+  - "Barbara Lee"
+  - "Mike Lee"
+  - "Donna Miller"
+  - "Stephen Miller"
 court-cases: 43
 last-enriched: "2026-04-07"
 court-jurisdictions:
@@ -23,6 +26,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, C.D. California"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. New York"
+total-political-spend: "$9,908,147"
 ---
 
 #donor #mega-donor #texas-oil #christian-nationalist #republican-megadonor #crownquest
@@ -202,3 +206,28 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tim%20Dunn%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $9,908,147 |
+| Contributions | 331 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| GLCF, INC. | $5,000,000 | — |
+| JEFFERSON RISING | $2,000,000 | — |
+| GROW THE MAJORITY | $1,107,700 | — |
+| REPUBLICAN NATIONAL COMMITTEE | $310,100 | REP |
+| NRCC | $310,100 | REP |
+| HIGH PLAINS PAC | $250,000 | — |
+| FOUNDING PRINCIPLES COALITION PAC, INC | $200,000 | — |
+| PROTECTING AMERICA'S FUTURE | $150,000 | — |
+| WHATLEY VICTORY COMMITTEE | $12,000 | — |
+| FRIENDS OF MIKE LEE INC | $10,500 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tim%20Dunn) (Tier 1)
+<!-- auto:fec-donor end -->

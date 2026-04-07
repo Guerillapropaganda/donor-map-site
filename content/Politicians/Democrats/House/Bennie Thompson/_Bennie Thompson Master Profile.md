@@ -2,7 +2,7 @@
 title: "Bennie Thompson"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,6 +16,11 @@ leadership-roles:
   - "Ranking Member"
 total-received: "$497,950"
 fec-candidate-id: "H4MS02068"
+govtrack-id: 400402
+bills-sponsored: 14
+bills-cosponsored: 355
+website: "https://benniethompson.house.gov"
+phone: "202-225-5876"
 ---
 
 
@@ -183,3 +188,35 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 355 |
+| Total Votes Cast | 20,697 |
+
+**Recent bills sponsored:**
+
+- H.R. 4467: Vicksburg National Military Park Boundary Modification Act — *This bill passed in the House on March 16, 2026 and goes to the Senate next for consideration.*
+- H.R. 7382: Nonprofit Security Grant Program Transparency Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 1035: Condemning Federal workforce reductions that undermine preparedness, response, and recovery, and expressing concern rega — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7124: Realigning Mobile Phone Biometrics for American Privacy Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6548: DHS Suicide Prevention and Resiliency for Law Enforcement Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400402) (Tier 1)
+<!-- auto:govtrack end -->

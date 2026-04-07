@@ -2,17 +2,17 @@
 title: "Republican Jewish Coalition"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
 entity-type: "Individual Donor"
-ein: 521386172
+ein: "521386172"
 annual-revenue: "$6.4M"
 net-assets: "$3.4M"
 tax-year: "2023"
 court-cases: 15
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 court-jurisdictions:
   - "District Court, D. Massachusetts"
   - "District Court, District of Columbia"
@@ -22,6 +22,21 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, S.D. New York"
   - "District Court, W.D. Pennsylvania"
+nonprofit-status: "501(c)(4)"
+total-revenue: 13380498
+total-assets: 4294171
+doj-press-mentions: "264310"
+doj-components:
+  - "Civil Rights Division"
+  - "USAO - Florida, Middle"
+  - "USAO - Florida, Northern"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Massachusetts"
+  - "USAO - Missouri, Western"
+  - "USAO - New York, Northern"
+  - "USAO - Ohio, Northern"
+  - "USAO - Ohio, Southern"
 ---
 
 #republican-jewish-coalition #RJC #israel-lobby #pro-israel #mega-donor #sheldon-adelson #miriam-adelson
@@ -176,3 +191,47 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Republican%20Jewish%20Coalition%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 521386172 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $13.4M |
+| Total Assets | $4.3M |
+| IRS Ruling Date | 1985-10-01 |
+| Filings on Record | 12 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2016, 2015
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521386172) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264310 |
+| DOJ Components | Civil Rights Division, USAO - Florida, Middle, USAO - Florida, Northern, USAO - Kentucky, Eastern, USAO - Louisiana, Eastern, USAO - Massachusetts +5 more |
+
+**Recent press releases:**
+
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
+- 2026-04-07 — [Former financial advisor sentenced to 5 years in prison for running $8.6M Ponzi scheme](https://www.justice.gov/usao-sdoh/pr/former-financial-advisor-sentenced-5-years-prison-running-86m-ponzi-scheme) — USAO - Ohio, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
+- 2026-04-07 — [Two Men Plead Guilty to Cocaine Trafficking](https://www.justice.gov/usao-ma/pr/two-men-plead-guilty-cocaine-trafficking) — USAO - Massachusetts
+- 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) — USAO - Massachusetts
+- ... and 264,304 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Republican%20Jewish%20Coalition%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

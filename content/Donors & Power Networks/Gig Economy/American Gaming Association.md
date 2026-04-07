@@ -2,12 +2,12 @@
 title: "American Gaming Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Gig Economy"
 entity-type: "Individual Donor"
-ein: 931169142
+ein: "931169142"
 annual-revenue: "$17.4M"
 net-assets: "$30.6M"
 tax-year: "2023"
@@ -22,6 +22,10 @@ politicians-funded:
   - "Susan Collins"
   - "Kevin McCarthy"
 
+nonprofit-status: "501(c)(6)"
+last-enriched: "2026-04-07"
+total-revenue: 24597723
+total-assets: 36994357
 ---
 
 #gaming #gambling #casino #sports-betting #lobbying #addiction #deregulation #murphyvncaa #revolving-door #bipartisan #class-analysis #follow-the-money
@@ -247,3 +251,27 @@ content-readiness:: developed
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Gaming%20Association) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 931169142 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $24.6M |
+| Total Assets | $37.0M |
+| IRS Ruling Date | 1995-09-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/931169142) (Tier 1)
+<!-- auto:nonprofit-990 end -->

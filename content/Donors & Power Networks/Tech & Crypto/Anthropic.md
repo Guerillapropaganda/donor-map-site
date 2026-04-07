@@ -2,11 +2,14 @@
 title: "Anthropic"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Corporation"
+federal-awards-total: 18960
+federal-contracts-count: 1
+federal-grants-count: 1
 ---
 
 #anthropic #ai #safety #regulation #frontier-models #google #amazon
@@ -59,3 +62,27 @@ content-readiness:: ready
 | TRUMP VANCE INAUGURAL COMMITTEE, INC. | $50.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $19K |
+| Contracts (recent 3yr) | 1 ($19K sampled) |
+| Grants (recent 3yr) | 1 ($797K sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $19K | Department of State | CLAUDE AI |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $797K | Department of Defense | ASSESSING JOINT TRAUMA SYSTEM CLINICAL PRACTICE GUIDELINES (CPG) FOR PARTNER NATIONS: UTILIZATION MA |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/5835c90c-1fd8-d04d-a4c0-2ee70d53ae63-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

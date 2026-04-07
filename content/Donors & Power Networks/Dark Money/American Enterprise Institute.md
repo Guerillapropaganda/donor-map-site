@@ -2,7 +2,7 @@
 title: "American Enterprise Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -14,6 +14,29 @@ ein: 530218495
 annual-revenue: "$53.8M"
 net-assets: "$348.4M"
 tax-year: "2023"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "UKRAINE-EO13685"
+  - "RUSSIA-EO14024"
+  - "UKRAINE-EO13662] [RUSSIA-EO14024"
+sec-filings: 3868
+sec-form-types:
+  - "4"
+  - "425"
+  - "497"
+  - "6-K"
+  - "8-K"
+  - "DEFA14A"
+  - "EX-10.5"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.1 CHARTER"
+  - "EX-99.2"
+  - "FWP"
+  - "PX14A6G"
+  - "PX14A6N"
+  - "SC 13D/A"
 ---
 
 #aei #think-tank #conservative #deregulation #tax #trade #neoconservative
@@ -70,3 +93,46 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 530218495](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F530218495_202306_990_2024040522345299.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 12 |
+| Sanctions Programs | UKRAINE-EO13685, RUSSIA-EO14024, UKRAINE-EO13662] [RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- STATE ENTERPRISE MAGARACH OF THE NATIONAL INSTITUTE OF WINE (-0-) [UKRAINE-EO13685]
+  - Remarks: Website http://magarach-institut.ru/; Email Address magar@ukr.net; Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; Registration ID 1123107000600...
+- FEDERAL STATE UNITARY ENTERPRISE CENTRAL SCIENTIFIC RESEARCH INSTITUTE OF ECONOMICS INFORMATICS AND MANAGEMENT SYSTEMS (-0-) [RUSSIA-EO14024]
+  - Remarks: Website cniieisu.ru; Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 11 Nov 1991; Organization Type: Other information technology and computer service...
+- FEDERAL STATE UNITARY ENTERPRISE CENTRAL RESEARCH INSTITUTE OF STRUCTURAL MATERIALS PROMETEY NAMED BY I.V. GORYNIN OF NATIONAL RESEARCH CENTER KURCHATOV INSTITUTE (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 7815021340 (Russia).
+- FEDERAL STATE UNITARY ENTERPRISE DUKHOV AUTOMATICS RESEARCH INSTITUTE (-0-) [UKRAINE-EO13662] [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; alt. Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; Organization Establishe...
+- THE FEDERAL STATE UNITARY ENTERPRISE V.A. KARGIN SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND TECHNOLOGY OF POLYMERS WITH A PILOT PRODUCTION PLANT (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 5249164736 (Russia); Government Gazette Number 33947252 (Russia); Registration Number 1185275058044 (Russia).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 3,868 |
+| Form Types | 4, 425, 497, 6-K, 8-K, DEFA14A, EX-10.5, EX-99 +7 more |
+
+**Notable filings:**
+
+- 2009-07-30 — **8-K**: FORM 8-K
+- 2006-09-28 — **EX-99.1**: EX-99.1
+- 2001-05-01 — **497**: 497
+- 2001-05-01 — **497**: 497
+- 2007-08-21 — **EX-99.1**: EX-99.1 - PRESS RELEASE DATED AUGUST 21, 2007
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Enterprise%20Institute%22) (Tier 1)
+<!-- auto:sec-edgar end -->

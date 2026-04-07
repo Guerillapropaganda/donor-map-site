@@ -196,3 +196,20 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 863992946](https://projects.propublica.org/nonprofits/organizations/863992946) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[JD Vance]] — contracts: $3K
+- [[David Sacks]] — contracts: $3K
+- [[Donald Trump]] — contracts: $3K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

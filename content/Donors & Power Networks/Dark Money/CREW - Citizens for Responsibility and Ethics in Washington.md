@@ -2,7 +2,7 @@
 title: "CREW - Citizens for Responsibility and Ethics in Washington"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 2
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, District of Columbia"
 ---
 
 #crew #ethics #watchdog #nonprofit #dark-money #14th-amendment #accountability #legal-advocacy #foia #progressive-infrastructure
@@ -156,3 +160,17 @@ CREW occupies a specific structural position in the American political ecosystem
 - [CREW: Statement on SCOTUS 14th Amendment decision](https://www.citizensforethics.org/news/press-releases/crew-statement-on-scotus-14th-amendment-decision/) (Tier 1)
 
 content-readiness:: developed
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2 |
+| Courts | District Court, District of Columbia |
+| Case Types | 890 Other Statutory Actions, 895 Freedom of Information Act of 1974 |
+
+**Notable cases:**
+- CITIZENS FOR RESPONSIBILITY AND ETHICS IN WASHINGTON v. U.S. DEPARTMENT OF EDUCATION (2007) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CREW%20-%20Citizens%20for%20Responsibility%20and%20Ethics%20in%20Washington%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

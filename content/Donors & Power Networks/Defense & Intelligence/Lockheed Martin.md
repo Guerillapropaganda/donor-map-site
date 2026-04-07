@@ -2,7 +2,7 @@
 title: "Lockheed Martin"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -20,6 +20,8 @@ ein: 946107683
 annual-revenue: "$137K"
 net-assets: "$74K"
 tax-year: "2014"
+lei: "DPRBOZP0K5RM2YE8UU08"
+lei-jurisdiction: "US-MD"
 ---
 
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door
@@ -294,3 +296,52 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 946107683](https://projects.propublica.org/nonprofits/organizations/946107683) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2014_09_EO%2F94-6107683_990EO_201406.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 9 |
+| Committee Overlap Detected | 9 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Defense & Military** → Funds **Kay Granger** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Ken Calvert** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Tom Cole** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
+
+**Funded politicians:**
+
+- [[Kay Granger]] (Appropriations)
+- [[Ken Calvert]] (Appropriations)
+- [[Mike Rogers]] (Armed Services)
+- [[Adam Smith]] (Armed Services)
+- [[Rosa DeLauro]] (Appropriations)
+- [[Jack Reed]] (Armed Services)
+- [[Tammy Duckworth]] (Armed Services)
+- [[Tom Cole]] (Appropriations)
+- [[Roger Wicker]] (Armed Services)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [DPRBOZP0K5RM2YE8UU08](https://search.gleif.org/#/record/DPRBOZP0K5RM2YE8UU08) |
+| Legal Name | LOCKHEED MARTIN CORPORATION |
+| Jurisdiction | US-MD |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-05-29T11:09:20Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

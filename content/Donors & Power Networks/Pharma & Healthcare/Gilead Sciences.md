@@ -24,6 +24,14 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Florida"
   - "District Court, N.D. Illinois"
+ein: 201042419
+annual-revenue: "$5.0M"
+net-assets: "$162.5M"
+tax-year: "2023"
+top-federal-agency: "Department of Veterans Affairs"
+top-naics-code: "325412"
+lei: "549300WTZWR07K8MNV44"
+lei-jurisdiction: "US-DE"
 ---
 
 #gilead #pharma #hiv #hepatitis #pricing #sovaldi #truvada #prep #lobbying
@@ -115,3 +123,40 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Gilead%20Sciences%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $5.0M |
+| Total Contributions | $0 |
+| Total Expenses | $25.2M |
+| Net Assets | $162.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 201042419](https://projects.propublica.org/nonprofits/organizations/201042419) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Veterans Affairs ($3.2M) |
+| Primary NAICS Sector | Pharmaceutical Preparation Manufacturing |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300WTZWR07K8MNV44](https://search.gleif.org/#/record/549300WTZWR07K8MNV44) |
+| Legal Name | GILEAD SCIENCES, INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-03T10:10:30Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

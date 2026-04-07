@@ -186,3 +186,14 @@ Bianco's investigators claim citizen volunteers reviewing public records found 6
 - [KESQ: Bianco/Bonta clash over 2025 election probe](https://kesq.com/news/2026/03/20/riverside-election-fraud-claims/) (Tier 2)
 - [Press Enterprise: Alleged irregularities in elections probed](https://www.pressenterprise.com/2026/03/17/alleged-irregularities-in-elections-probed-by-riverside-county-sheriffs-office/) (Tier 2)
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | None |
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

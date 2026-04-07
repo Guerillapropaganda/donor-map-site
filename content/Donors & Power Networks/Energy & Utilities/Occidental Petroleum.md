@@ -2,11 +2,13 @@
 title: "Occidental Petroleum"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
+lei: "IM7X0T3ECJW4C1T7ON55"
+lei-jurisdiction: "US-DE"
 ---
 
 #occidental #oil #permian-basin #buffett #carbon-capture #lobbying #energy
@@ -60,3 +62,18 @@ content-readiness:: ready
 | SLF PAC | $1.2M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [IM7X0T3ECJW4C1T7ON55](https://search.gleif.org/#/record/IM7X0T3ECJW4C1T7ON55) |
+| Legal Name | OCCIDENTAL PETROLEUM CORPORATION |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-12-05T07:32:56Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

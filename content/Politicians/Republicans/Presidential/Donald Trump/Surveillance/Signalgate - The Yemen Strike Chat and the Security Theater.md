@@ -2,9 +2,13 @@
 title: "Signalgate - The Yemen Strike Chat and the Security Theater"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-22
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "SDGT"
 ---
 
 
@@ -99,3 +103,20 @@ The $970.5 million spent on Palantir's surveillance platforms. The $10 billion P
 - [Axios. Who was in the Trump administration's explosive Signal group chat](https://www.axios.com/2025/03/26/trump-signal-group-chat-members) (Tier 2)
 
 research-status:: Chat membership and contents from The Atlantic, Axios, and ABC News. IG findings from Pentagon IG report and PBS. Waltz departure from Axios. Hegseth second chat from NYT via PBS. Congressional oversight from House Oversight Committee. Remaining. Full IG report declassified findings, complete list of 19 members (3 unconfirmed), classified material assessment detail.
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | SDGT |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- YEMEN ARMORED COMPREHENSIVE SECURITY SERVICES AND EXHIBITIONS ORGANIZATION COMPANY LTD (-0-) [SDGT]
+  - Remarks: Website www.yemenarmored.com; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Organization Established Date 2013; Organization Type: Private secur...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

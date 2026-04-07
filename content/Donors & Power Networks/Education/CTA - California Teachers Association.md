@@ -2,7 +2,7 @@
 title: "CTA - California Teachers Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Education"
@@ -12,6 +12,10 @@ politicians-funded:
 issues:
   - "Labor & Workers"
   - "Education"
+ein: 942552809
+annual-revenue: "$89K"
+net-assets: "$316K"
+tax-year: "2023"
 ---
 
 
@@ -92,3 +96,15 @@ Education — charter schools, COVID closures, curriculum, early childhood, scho
 
 content-readiness:: ready
 research-status:: ready — 310K members, largest CA teachers union, NEA affiliate, Newsom donor, AB 1505 win, COVID closure alignment, charter opposition, Prop 98 protections. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $89K |
+| Total Contributions | $0 |
+| Total Expenses | $39K |
+| Net Assets | $316K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 942552809](https://projects.propublica.org/nonprofits/organizations/942552809) (Tier 1)
+<!-- auto:propublica-990 end -->

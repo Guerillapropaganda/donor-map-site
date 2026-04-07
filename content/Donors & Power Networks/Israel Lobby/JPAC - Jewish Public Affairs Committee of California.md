@@ -2,7 +2,7 @@
 title: "JPAC - Jewish Public Affairs Committee of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -11,6 +11,11 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Israel & Foreign Policy"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "BELARUS"
+  - "GLOMAG"
 ---
 
 
@@ -78,3 +83,26 @@ Israel — legislative advocacy, anti-protest legislation, ethnic studies, donor
 
 research-status:: ready — CA statewide Jewish advocacy/lobbying org, ethnic studies reversal, anti-protest legislation, JPAC/JCRC/Federation network, Sacramento pressure pipeline. 2 sources, Tier 1/4. All ### headers. Promoted Session 38m.
 content-readiness:: ready
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 4 |
+| Sanctions Programs | BELARUS, GLOMAG |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- MAIN INTERNAL AFFAIRS DIRECTORATE OF THE MINSK CITY EXECUTIVE COMMITTEE (-0-) [BELARUS]
+  - Remarks: Tax ID No. 100582346 (Belarus).
+- DIRECTORATE OF INTERNAL AFFAIRS OF THE BREST OBLAST EXECUTIVE COMMITTEE (-0-) [BELARUS]
+  - Remarks: Target Type Government Entity; Registration Number 200127206 (Belarus).
+- DEPARTMENT OF INTERNAL AFFAIRS OF THE GOMEL REGIONAL EXECUTIVE COMMITTEE (-0-) [BELARUS]
+  - Remarks: Target Type Government Entity.
+- HOUTHI NATIONAL COMMITTEE FOR PRISONERS AFFAIRS (-0-) [GLOMAG]
+  - Remarks: a.k.a. 'NCPA'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

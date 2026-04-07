@@ -18,6 +18,9 @@ nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-07"
 total-revenue: 31556683
 total-assets: 15423689
+sec-filings: 1
+sec-form-types:
+  - "EX-99.1"
 ---
 
 #sports-betting #dark-money #draftkings-fanduel #gambling-expansion #lobbying
@@ -131,3 +134,17 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sports%20Betting%20Alliance) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1 |
+| Form Types | EX-99.1 |
+
+**Notable filings:**
+
+- 2026-03-16 — **EX-99.1**: EX-99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sports%20Betting%20Alliance%22) (Tier 1)
+<!-- auto:sec-edgar end -->

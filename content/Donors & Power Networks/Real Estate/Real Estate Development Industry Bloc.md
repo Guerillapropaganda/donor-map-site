@@ -2,7 +2,7 @@
 title: "Real Estate Development Industry Bloc"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -12,6 +12,22 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Housing"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "PAARSSR-EO13894"
+  - "SDGT"
+  - "GLOMAG"
+  - "TCO"
+  - "IRAN] [IRAN-EO13876"
+  - "SDNTK"
+  - "UKRAINE-EO13662] [RUSSIA-EO14024"
+  - "SDGT] [IFSR"
+  - "IRAN"
+  - "RUSSIA-EO14024"
+  - "IRAN-EO13846"
+  - "DPRK2"
+  - "ILLICIT-DRUGS-EO14059"
 ---
 
 
@@ -103,3 +119,28 @@ Specific FPPC filings for Lennar contributions to California state politicians 2
 
 research-status:: ready — NAR $19.8M PAC, CAA Essex $465K, Newsom recall $1.1M CBIA, Trump Homes $250B initiative, SB 9/SB 10/AB 1031, bipartisan class analysis. 8 sources, Tier 1-3. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 33 |
+| Sanctions Programs | PAARSSR-EO13894, SDGT, GLOMAG, TCO, IRAN] [IRAN-EO13876, SDNTK, UKRAINE-EO13662] [RUSSIA-EO14024, SDGT] [IFSR, IRAN, RUSSIA-EO14024, IRAN-EO13846, DPRK2, ILLICIT-DRUGS-EO14059 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- AL-AMER DEVELOPMENT AND REAL ESTATE INVESTMENT (-0-) [PAARSSR-EO13894]
+  - Remarks: Organization Established Date 19 Dec 2019; Organization Type: Real estate activities with own or leased property; Registration Number 19096 (Syria); a.k.a. 'AL-AMER DEVELOPMENT'; Linked To: KHITI, Ame...
+- AL ROWAD REAL ESTATE DEVELOPMENT (-0-) [SDGT]
+  - Remarks: Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Organization Established Date 2010; Organization Type: Construction of buildings; alt. Organizatio...
+- PYRAMAXIA REAL ESTATE DEVELOPMENT GMBH & CO. KG (-0-) [GLOMAG]
+  - Remarks: Organization Established Date 16 Sep 2020; Registration Number HRA 737095 (Stuttgart) (Germany); Linked To: RAHMANI, Ajmal.
+- RG REAL ESTATE DEVELOPMENT GMBH & CO. KG (-0-) [GLOMAG]
+  - Remarks: Organization Established Date 16 Sep 2020; Registration Number HRA 737089 (Stuttgart) (Germany); Linked To: RAHMANI, Ajmal.
+- OZEAN DEVELOPMENT REAL ESTATE GMBH & CO. KG (-0-) [GLOMAG]
+  - Remarks: Organization Established Date 23 Dec 2019; Registration Number HRA 736334 (Stuttgart) (Germany); Linked To: OCEAN PROPERTIES GMBH.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

@@ -2,13 +2,14 @@
 title: "Rex Tillerson"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Cabinet"
 issues:
   - "Energy & Climate"
+bioguide-id: "A000383"
 ---
 
 #politician #republican #trump-cabinet #secretary-of-state #exxon #fossil-fuel #revolving-door #class-analysis #follow-the-money
@@ -104,3 +105,16 @@ Tillerson operates with corporate executive framing: measured language, institut
 
 profile-status:: draft
 content-readiness:: draft
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Congress | 119th |
+| Party | Republican |
+| State | Oklahoma |
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:congress-legislation end -->

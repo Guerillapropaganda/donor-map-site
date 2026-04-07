@@ -2,12 +2,17 @@
 title: "Brennan Center for Justice"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
 related: "[[_Think Tank Framework]] · [[_Think Tank Index]]"
+ein: "133839293"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 111416912
+total-assets: 313321773
 ---
 
 #think-tank #liberal #voting-rights #democracy #criminal-justice #campaign-finance #class-analysis
@@ -190,3 +195,28 @@ The revolving door — Clinton White House to Brennan Center to federal judiciar
 - [Brennan Center: The Trump Administration's Campaign to Undermine the Next Election (2026)](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) (Tier 3)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 133839293 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $111.4M |
+| Total Assets | $313.3M |
+| NTEE Code | B40Z |
+| IRS Ruling Date | 1995-09-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/133839293) (Tier 1)
+<!-- auto:nonprofit-990 end -->

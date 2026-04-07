@@ -2,12 +2,36 @@
 title: "Hoover Institution"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 category: conservative
 tax-status: Division of Stanford University
 related: "[[Koch Network - Charles Koch]] · [[Scaife Foundations]] · [[Bradley Foundation]]"
+sec-filings: 5190
+sec-form-types:
+  - "10-K/A"
+  - "3"
+  - "4"
+  - "4/A"
+  - "424B3"
+  - "425"
+  - "497"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-4"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.7"
+  - "FWP"
+  - "N-CSR"
+  - "N-CSRS"
+  - "PRE 14C"
+  - "SC 13D"
+  - "SC 13D/A"
 ---
 
 #think-tank #conservative #free-market #defense #economics #education #Stanford #class-analysis
@@ -248,3 +272,21 @@ The Hoover Institution is the most structurally sophisticated conservative think
 - [Hoover Institution: $10 million grant from Annenberg Foundation](https://www.hoover.org/press-releases/10-million-grant-annenberg-foundation-will-establish-annenberg-strategic-initiative) (Tier 3)
 
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 5,190 |
+| Form Types | 10-K/A, 3, 4, 4/A, 424B3, 425, 497, 8-K +14 more |
+
+**Notable filings:**
+
+- 2020-08-25 — **497**: 497
+- 2005-05-03 — **EX-99.1**: PRESS RELEASE
+- 2023-12-12 — **8-K**: FORM 8-K
+- 2020-05-06 — **EX-99.1**: EX-99.1
+- 2018-01-23 — **SC 13D/A**: SCHEDULE 13D AMENDMENT NO. 2
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Hoover%20Institution%22) (Tier 1)
+<!-- auto:sec-edgar end -->

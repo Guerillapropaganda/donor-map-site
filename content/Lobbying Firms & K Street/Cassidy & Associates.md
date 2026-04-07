@@ -2,13 +2,22 @@
 title: "Cassidy & Associates"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 annual-revenue: "$30.6M"
 lobbyist-count: 34
 revolving-door-pct: "70.6%"
 related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Lockheed Martin]]"
+court-cases: 7
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, D. Maryland"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, S.D. New York"
 ---
 
 #lobbying #k-street #appropriations #earmarks #defense #energy #universities #bipartisan
@@ -237,3 +246,22 @@ The firm's representation of authoritarian governments — Equatorial Guinea's O
 - [Front Office Sports: NCAA Appears No Closer to Getting Its Congressional Wish List](https://frontofficesports.com/the-ncaa-congressional-wish-list/) (Tier 2)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 7 |
+| Courts | District Court, D. Maryland, District Court, District of Columbia, District Court, E.D. Virginia, District Court, N.D. California, District Court, S.D. New York, United States Bankruptcy Court, S.D. New York |
+| Case Types | 410 Anti-Trust, 470 Racketeer/Corrupt Organization, 850 Securities, Commodities, Exchange, 850 Securities/Commodities, Civil Rights: Jobs |
+
+**Notable cases:**
+- Solan Holding BV v. Synexxus Composites, Inc. (2022) — District Court, E.D. Virginia
+- Redmond v. United States (2022) — District Court, N.D. California
+- In re College Athlete NIL Litigation (2020) — District Court, N.D. California
+- Gawker Media, LLC (2016) — United States Bankruptcy Court, S.D. New York
+- Campbell v. Mikerin (2016) — District Court, D. Maryland
+- Midas Fund, Inc. v. Gammon Gold, Inc. (2007) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cassidy%20%26%20Associates%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

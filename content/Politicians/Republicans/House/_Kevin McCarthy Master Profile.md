@@ -2,7 +2,7 @@
 title: "Kevin McCarthy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -19,6 +19,21 @@ top-donors:
   - "Occidental Petroleum"
   - "Marathon Petroleum"
   - "Koch Industries"
+total-received: "$15,739,442"
+fec-candidate-id: "H6CA22125"
+doj-press-mentions: "264312"
+last-enriched: "2026-04-07"
+doj-components:
+  - "Civil Rights Division"
+  - "USAO - Florida, Middle"
+  - "USAO - Florida, Northern"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Massachusetts"
+  - "USAO - Missouri, Western"
+  - "USAO - New York, Northern"
+  - "USAO - Ohio, Northern"
+  - "USAO - Ohio, Southern"
 ---
 
 
@@ -227,3 +242,58 @@ McCarthy was the answer to the question: what does a successful donor-servant lo
 - [Salon: McCarthy's energy industry loyalty](https://www.salon.com/2023/06/01/kevin-mccarthy-fossil-fuel-speaker-baker/) *(source unavailable)* (Tier 2)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $15,739,442 |
+| Individual Contributions | $5,116,987 |
+| PAC Contributions | $292,500 |
+| Cash on Hand | 6235533.03 |
+| IE Support (Super PAC) | $138,943 |
+| IE Opposition (Super PAC) | $225,489 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $15,739,442 | $5,116,987 | $292,500 |
+| 2022 | $28,295,640 | $9,803,309 | $676,860 |
+| 2020 | $28,663,630 | $7,880,664 | $1,686,635 |
+| 2018 | $8,018,575 | $586,432 | $3,204,909 |
+| 2016 | $7,824,641 | $1,309,558 | $3,279,747 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| TEA PARTY EXPRESS CAMPAIGN FUND | $124,736 | $0 |
+| THE LINCOLN PROJECT | $0 | $102,942 |
+| VOTER PROTECTION PROJECT | $0 | $47,506 |
+| VALLEY WORKS ACTION FUND | $0 | $36,537 |
+| REALLY AMERICAN PAC | $0 | $20,670 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6CA22125/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264312 |
+| DOJ Components | Civil Rights Division, USAO - Florida, Middle, USAO - Florida, Northern, USAO - Kentucky, Eastern, USAO - Louisiana, Eastern, USAO - Massachusetts +5 more |
+
+**Recent press releases:**
+
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
+- 2026-04-07 — [Former financial advisor sentenced to 5 years in prison for running $8.6M Ponzi scheme](https://www.justice.gov/usao-sdoh/pr/former-financial-advisor-sentenced-5-years-prison-running-86m-ponzi-scheme) — USAO - Ohio, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
+- 2026-04-07 — [Two Men Plead Guilty to Cocaine Trafficking](https://www.justice.gov/usao-ma/pr/two-men-plead-guilty-cocaine-trafficking) — USAO - Massachusetts
+- 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) — USAO - Massachusetts
+- ... and 264,306 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Kevin%20McCarthy%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

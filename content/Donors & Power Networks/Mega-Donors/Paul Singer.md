@@ -32,6 +32,8 @@ court-jurisdictions:
   - "District Court, S.D. Illinois"
   - "District Court, W.D. Texas"
   - "United States Bankruptcy Court, M.D. Florida"
+lobbying-spend: 1268033
+lobbying-filings: 104
 ---
 
 
@@ -207,3 +209,22 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Paul%20Singer%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.3M |
+| Quarterly Filings | 104 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 19 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Aerospace, Budget/Appropriations, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Education, Energy/Nuclear, Financial Institutions/Investments/Securities, Gaming/Gambling/Casino, Government Issues, Health Issues, Housing, Indian/Native American Affairs, Law Enforcement/Crime/Criminal Justice, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Science/Technology, Small Business, Taxation/Internal Revenue Code, Telecommunications, Transportation, Urban Development/Municipalities, Veterans
+
+**Lobbying firms:** ACG ADVOCACY, BECKER & POLIAKOFF, P.A., CASSIDY & ASSOCIATES, INC., HALL, RENDER, KILLIAN, HEATH & LYMAN, P.C., HARO SOLUTIONS LLC, HIGH STREET STRATEGIES LLC, LARKIN HOFFMAN, MERCHANT MCINTYRE & ASSOCIATES, LLC, MILLER STRATEGIES, LLC, MPSTRATEGIES LLC, MR. PAUL MORINVILLE, PAUL HASTINGS LLP, PAUL MARCONE & ASSOCIATES, LLC, PAUL V. BEDDOE GOVERNMENT AFFAIRS, LLC, PAULEY MANAGEMENT INC., PRIMACY STRATEGY GROUP, RPN ADVOCACY, LLC, VECTIS DC, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** American Battle Monuments Commission, Army, Dept of (Corps of Engineers), Commerce, Dept of (DOC), Council on Environmental Quality (CEQ), Economic Development Administration, Education, Dept of, Executive Office of the President (EOP), Federal Aviation Administration (FAA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS) +10 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Paul%20Singer) (Tier 1)
+<!-- auto:lda-lobbying end -->

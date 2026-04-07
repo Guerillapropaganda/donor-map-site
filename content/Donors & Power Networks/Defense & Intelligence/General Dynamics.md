@@ -2,7 +2,7 @@
 title: "General Dynamics"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -16,6 +16,9 @@ ein: 382421395
 annual-revenue: "$207K"
 net-assets: "$11K"
 tax-year: "2019"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-07"
 ---
 
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial
@@ -119,3 +122,43 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 382421395](https://projects.propublica.org/nonprofits/organizations/382421395) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=03_2021_prefixes_37-42%2F382421395_201912_990O_2021031217796032.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Committee Overlap Detected | 3 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
+
+**Funded politicians:**
+
+- [[Jack Reed]] (Armed Services)
+- [[Roger Wicker]] (Armed Services)
+- [[Tammy Duckworth]] (Armed Services)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=General%20Dynamics) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

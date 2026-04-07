@@ -2,13 +2,40 @@
 title: "Williams Companies"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
 issues:
   - "Energy & Climate"
+sec-filings: 10000
+sec-form-types:
+  - "10-K/A"
+  - "144"
+  - "4"
+  - "424B2"
+  - "424B3"
+  - "424B5"
+  - "425"
+  - "8-K"
+  - "8-K/A"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.(K)"
+  - "EX-10.1"
+  - "EX-10.3"
+  - "EX-10.6"
+  - "EX-23.1"
+  - "EX-4.(LL)"
+  - "EX-4.1"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "N-PX"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SCHEDULE 13G/A"
 ---
 
 #donor #energy #natural-gas #pipeline #fossil-fuel #republican-lean #class-analysis #follow-the-money
@@ -102,3 +129,23 @@ content-readiness:: draft
 | NRSC | $15.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K/A, 144, 4, 424B2, 424B3, 424B5, 425, 8-K +17 more |
+| CIK | 107263 |
+| Ticker | WMB |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/107263/000170338826000014/0001703388-26-000014-index.htm)
+- 2026-04-01 — **144**: [144](https://www.sec.gov/Archives/edgar/data/107263/000195917326002685/0001959173-26-002685-index.htm)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/107263/000010290926002665/0000102909-26-002665-index.htm)
+- 2026-03-26 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/107263/000119312526126312/0001193125-26-126312-index.htm)
+- 2026-03-26 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/107263/000010726326000008/0000107263-26-000008-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Williams%20Companies%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -25,6 +25,18 @@ regulatory-agencies:
   - "Labor Department"
   - "Nuclear Regulatory Commission"
   - "Veterans Employment and Training Service"
+court-cases: 987
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Federal Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Tenth Circuit"
+  - "District Court, D. Maryland"
+  - "District Court, D. New Jersey"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Texas"
+  - "District Court, S.D. California"
+  - "District Court, S.D. Florida"
 ---
 
 #nextera #energy #renewables #solar #wind #florida #utility #fpl
@@ -155,3 +167,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22NextEra%20Energy%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 987 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Federal Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Tenth Circuit, District Court, D. Maryland, District Court, D. New Jersey, District Court, District of Columbia, District Court, E.D. Texas +7 more |
+| Case Types | 160 Stockholders Suits, 440 Civil Rights: Other, 896 Arbitration, 950 Constitutional - State Statute, Prisoner - Prison Condition |
+
+**Notable cases:**
+- Yates v. NextEra Energy, Inc. (2026) — District Court, S.D. Florida
+- MIDWEST RENEWABLE ENERGY ASSOCIATION v. VELETA (2026) — District Court, S.D. Indiana
+- Cumulus Media Inc. (2026) — United States Bankruptcy Court, S.D. Texas
+- DESARROLLO VIAL DE LOS ANDES S.A.C. v. REPUBLIC OF PERU (2026) — District Court, District of Columbia
+- Natural Resources Defense Council v. FERC (2026) — Court of Appeals for the D.C. Circuit
+- Avenger Flight Group, LLC (2026) — United States Bankruptcy Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NextEra%20Energy%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

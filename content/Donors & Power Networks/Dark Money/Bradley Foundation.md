@@ -17,6 +17,11 @@ lobbying-spend: 3489500
 lobbying-filings: 75
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+ein: 330771070
+annual-revenue: "$2K"
+net-assets: "$3.5M"
+tax-year: "2023"
+total-political-spend: "$150,500"
 ---
 
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure
@@ -263,3 +268,32 @@ research-status:: developed — Expanded from 47 to 190+ lines. CMD $86.4M grant
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Subawards & Spending Breakdown
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2K |
+| Total Contributions | $0 |
+| Total Expenses | $4K |
+| Net Assets | $3.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 330771070](https://projects.propublica.org/nonprofits/organizations/330771070) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $150,500 |
+| Contributions | 2 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| 170 FREEDOM MILWAUKEE 2024 HOST COMMITTEE INC | $150,000 | REP |
+| BOB CORKER FOR SENATE 2012 | $500 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bradley%20Foundation) (Tier 1)
+<!-- auto:fec-donor end -->

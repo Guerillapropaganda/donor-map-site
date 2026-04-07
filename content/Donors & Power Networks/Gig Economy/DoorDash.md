@@ -18,6 +18,13 @@ lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+federal-register-mentions: 7
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Federal Trade Commission"
+  - "Justice Department"
+  - "Labor Department"
+  - "Wage and Hour Division"
 ---
 
 
@@ -170,3 +177,25 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=DoorDash) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 7 |
+| Notice | 4 |
+| Rule | 2 |
+| Proposed Rule | 1 |
+| Agencies | Antitrust Division, Federal Trade Commission, Justice Department, Labor Department, Wage and Hour Division |
+
+**Recent regulatory activity:**
+- [United States v. Reddy Ice LLC, et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/02/18/2026-03102/united-states-v-reddy-ice-llc-et-al-proposed-final-judgment-and-competitive-impact-statement) (2026-02-18) — Justice Department
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) — Federal Trade Commission
+- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (2024-01-10) — Labor Department
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2023/11/09/2023-24234/trade-regulation-rule-on-unfair-or-deceptive-fees) (2023-11-09) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/18/2021-03184/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2021-02-18) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/05/13/2019-09815/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2019-05-13) — Federal Trade Commission
+- ... and 1 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22DoorDash%22) (Tier 1)
+<!-- auto:federal-register end -->

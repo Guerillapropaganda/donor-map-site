@@ -2,7 +2,7 @@
 title: "Trump Media & Technology Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -10,6 +10,10 @@ entity-type: "Corporation"
 politicians-funded:
   - "Donald Trump"
 federal-contracts: "960966"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "CAATSA - RUSSIA] [CYBER4"
 ---
 
 #trump-media #truth-social #djt #stock #spac #media
@@ -59,3 +63,35 @@ content-readiness:: ready
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Trump%20Media%20%26%20Technology%20Group&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Donald Trump]] — contracts: $961K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | CAATSA - RUSSIA] [CYBER4 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- MEDIA LAND TECHNOLOGY LIMITED LIABILITY COMPANY (-0-) [CAATSA - RUSSIA] [CYBER4]
+  - Remarks: Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201; Organization Established Date 14 Sep 2022; Tax ID No. 4727007790 (Russia); Registration Number 1224700016089 (R...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

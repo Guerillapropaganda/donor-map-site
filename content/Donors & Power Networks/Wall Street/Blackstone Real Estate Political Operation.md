@@ -2,7 +2,7 @@
 title: "Blackstone Real Estate Political Operation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,6 +11,19 @@ issues:
   - "Housing"
 lobbying-spend: 4450000
 lobbying-filings: 51
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "SDNTK"
+  - "UKRAINE-EO13662] [RUSSIA-EO14024"
+  - "SDGT"
+  - "PAARSSR-EO13894"
+  - "RUSSIA-EO14024"
+  - "IRAN-EO13846"
+  - "GLOMAG"
+  - "DPRK2"
+  - "ILLICIT-DRUGS-EO14059"
+  - "TCO"
 ---
 
 #blackstone #real-estate #private-equity #schwarzman #housing #rent #carried-interest
@@ -56,3 +69,28 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Blackstone%20Real%20Estate%20Political%20Operation) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 26 |
+| Sanctions Programs | SDNTK, UKRAINE-EO13662] [RUSSIA-EO14024, SDGT, PAARSSR-EO13894, RUSSIA-EO14024, IRAN-EO13846, GLOMAG, DPRK2, ILLICIT-DRUGS-EO14059, TCO |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- AHOME REAL ESTATE, S.A. DE C.V. (-0-) [SDNTK]
+  - Remarks: R.F.C. ARE0906295S0 (Mexico).
+- VTB REAL ESTATE LIMITED LIABILITY COMPANY (-0-) [UKRAINE-EO13662] [RUSSIA-EO14024]
+  - Remarks: Executive Order 13662 Directive Determination - Subject to Directive 1; Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; alt. Secondary sanctions...
+- AL YUMUN REAL ESTATE COMPANY SAL (-0-) [SDGT]
+  - Remarks: Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Commercial Registry Number 48642 (Lebanon); Linked To: ASSI, Saleh.
+- AL-AMER DEVELOPMENT AND REAL ESTATE INVESTMENT (-0-) [PAARSSR-EO13894]
+  - Remarks: Organization Established Date 19 Dec 2019; Organization Type: Real estate activities with own or leased property; Registration Number 19096 (Syria); a.k.a. 'AL-AMER DEVELOPMENT'; Linked To: KHITI, Ame...
+- LIMITED LIABILITY COMPANY SBERBANK REAL ESTATE CENTER (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 7736249247 (Russia); Registration Number 1157746652150 (Russia); a.k.a. 'SREC LLC'; Linked To: PUBLIC JOINT STOCK COMPANY...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

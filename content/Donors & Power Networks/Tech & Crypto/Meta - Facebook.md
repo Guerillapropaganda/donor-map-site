@@ -2,7 +2,7 @@
 title: "Meta - Facebook"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -12,6 +12,28 @@ politicians-funded:
 issues:
   - "Technology"
   - "Antitrust & Monopoly"
+sec-filings: 294
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "424B3"
+  - "497AD"
+  - "6-K"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "EX-99.9"
+  - "INFORMATION TABLE"
+  - "N-CSR"
+  - "N-CSR/A"
+  - "N-CSRS"
+  - "PART II"
+  - "PX14A6G"
 ---
 
 #meta #facebook #tech #lobbying #privacy #section-230 #advertising #zuckerberg #antitrust #ai #surveillance #class-analysis #follow-the-money #revolving-door
@@ -307,3 +329,21 @@ content-readiness:: developed
 | NEVADANS FOR STEVEN HORSFORD | $7.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 294 |
+| Form Types | 10-K, 10-K/A, 10-Q, 424B3, 497AD, 6-K, 8-K, CORRESP +12 more |
+
+**Notable filings:**
+
+- 2024-02-14 — **EX-99.9**: EX-99.9
+- 2023-07-18 — **6-K**: 6-K
+- 2023-07-18 — **424B3**: 424B3
+- 2023-07-18 — **EX-99.1**: EXHIBIT 99.1
+- 2023-08-03 — **EX-99.1**: EXHIBIT 99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Meta%20-%20Facebook%22) (Tier 1)
+<!-- auto:sec-edgar end -->

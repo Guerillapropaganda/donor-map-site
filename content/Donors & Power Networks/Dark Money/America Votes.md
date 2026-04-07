@@ -2,7 +2,7 @@
 title: "America Votes"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -10,6 +10,12 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
+sec-filings: 4
+sec-form-types:
+  - "10-K"
+  - "424B3"
+  - "DEF 14A"
+  - "EX-99"
 ---
 
 #america-votes #dark-money #progressive-coordination #democracy-alliance #infrastructure #voter-mobilization
@@ -133,3 +139,20 @@ America Votes also reveals **structural inequality in progressive politics:**
 - [America Votes: About Us and Coordination](https://americavotes.org/about/) (Tier 2)
 
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 4 |
+| Form Types | 10-K, 424B3, DEF 14A, EX-99 |
+
+**Notable filings:**
+
+- 2002-08-23 — **EX-99**: TRANSCRIPT OF TELECONFERENCE 08-22-02
+- 2007-05-04 — **DEF 14A**: DEFINITIVE PROXY STATEMENT
+- 2022-03-11 — **424B3**: 424B3
+- 2022-03-11 — **10-K**: 10-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22America%20Votes%22) (Tier 1)
+<!-- auto:sec-edgar end -->

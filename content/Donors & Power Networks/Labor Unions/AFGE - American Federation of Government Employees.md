@@ -2,7 +2,7 @@
 title: "AFGE - American Federation of Government Employees"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -11,6 +11,16 @@ ein: 756085578
 annual-revenue: "$253K"
 net-assets: "$112K"
 tax-year: "2023"
+total-political-spend: "$664,400"
+politicians-funded:
+  - "Tammy Baldwin"
+  - "Gary Peters"
+  - "Bobby Scott"
+  - "Rick Scott"
+  - "Tim Scott"
+  - "Frank Pallone"
+  - "Kyrsten Sinema"
+  - "Lisa Murkowski"
 ---
 
 #AFGE #labor-union #federal-employees #government-workers #DOGE #Trump-layoffs #union-resistance
@@ -166,3 +176,28 @@ content-readiness:: ready
 | TAMMY BALDWIN FOR SENATE | $27.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $664,400 |
+| Contributions | 347 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| MCKINLEY FOR CONGRESS | $34,500 | REP |
+| COLORADO DEMOCRATIC PARTY | $33,000 | DEM |
+| TAMMY BALDWIN FOR SENATE | $27,500 | DEM |
+| EQUALITY PAC | $25,000 | — |
+| JULIA BROWNLEY FOR CONGRESS | $22,000 | DEM |
+| PETERS FOR MICHIGAN | $21,000 | DEM |
+| ROSEN FOR NEVADA | $20,500 | DEM |
+| KIRKPATRICK FOR ARIZONA | $20,000 | DEM |
+| SUSAN WILD FOR CONGRESS | $18,000 | DEM |
+| COMMITTEE TO ELECT ALAN GRAYSON | $16,500 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFGE%20-%20American%20Federation%20of%20Government%20Employees) (Tier 1)
+<!-- auto:fec-donor end -->

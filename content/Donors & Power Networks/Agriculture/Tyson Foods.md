@@ -56,3 +56,21 @@ Opposition to EPA regulation of agricultural waste (poultry litter runoff), favo
 - [Ballotpedia: Tyson Foods](https://ballotpedia.org/Tyson_Foods) (Tier 3)
 
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Agriculture** → Funds **John Boozman** → Sits on **Agriculture**
+
+**Funded politicians:**
+
+- [[John Boozman]] (Agriculture, Appropriations)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

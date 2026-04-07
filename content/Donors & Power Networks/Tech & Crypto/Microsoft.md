@@ -97,3 +97,27 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Microsoft) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 2 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Copyright/Patent/Trademark** → Funds **Ro Khanna** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Immigration** → Funds **Ro Khanna** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Budget/Appropriations** → Funds **Patty Murray** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **Patty Murray** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Patty Murray** → Sits on **Appropriations**
+
+**Funded politicians:**
+
+- [[Ro Khanna]] (Antitrust (Judiciary)) — lobbying: $20.7M
+- [[Patty Murray]] (Appropriations) — lobbying: $20.7M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

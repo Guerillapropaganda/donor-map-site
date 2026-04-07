@@ -2,7 +2,7 @@
 title: "Stephen Miller Master Profile"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -15,6 +15,9 @@ top-donors:
   - "Bradley Impact Fund"
 total-received: "$181,912"
 fec-candidate-id: "H2NC07104"
+govtrack-id: 407733
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 #stephen-miller #republican #immigration #white-house #america-first-legal #dark-money #family-separation #class-analysis #follow-the-money #alien-enemies-act #denaturalization #birthright-citizenship
@@ -217,3 +220,27 @@ The Villain Framing Miller frames immigrants and immigration advocates as the th
 profile-status:: ready
 research-status:: ready — Full citation pass complete. AFL dark money ($44.4M revenue, $27M Bradley Impact Fund), SPLC leaked emails, first-term policies (Muslim ban, family separation, public charge rule), second-term escalation (birthright citizenship EO, Alien Enemies Act, 3000 ICE daily quota, denaturalization), Heritage/Project 2025 network, class analysis. 19 sources Tier 1-3 with URLs. All ### headers. Promoted Session 38n.
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 570 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 1833-03-02 | TO PASS THE RESOLUTION PROVIDING THAT THE SENATE DO ADVISE AND CONSENT TO THE RA… | Not Voting | unknown |
+| 1833-03-02 | TO PASS S. 115, AN ACT TO EXPLAIN AND AMEND THE ACT TO ALTER AND AMEND THE SEVER… | Not Voting | unknown |
+| 1833-03-02 | TO PASS THE RESOLUTION PROVIDING THAT THE SENATE ADVISE AND CONSENT TO THE RATIF… | Not Voting | unknown |
+| 1833-03-02 | ON ORDERING ENGROSSMENT AND THIRD READING OF THE RESOLUTION (4 STAT 668, MAR. 2,… | Not Voting | unknown |
+| 1833-03-02 | TO PASS THE RESOLUTION APPOINTING WILLIAM FORBES SAVAGE, TO BE RECEIVER OF PUBLI… | Not Voting | unknown |
+| 1833-03-02 | TO ADJOURN UNTIL TEN (10 A.M.) TOMORROW.  (P. 812). | Not Voting | unknown |
+| 1833-03-02 | *****MISSING TEXT***** OF THE RESOLUTION AND BY PROVIDING THAT THE RESOLUTION FO… | Not Voting | unknown |
+| 1833-03-02 | ON ORDERING THIRD READING OF H.R. 632 (6 STAT 546, MAR. 2, 1833) FOR THE RELIEF … | Not Voting | unknown |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/407733) (Tier 1)
+<!-- auto:govtrack end -->

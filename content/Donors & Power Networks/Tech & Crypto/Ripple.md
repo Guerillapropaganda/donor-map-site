@@ -2,13 +2,15 @@
 title: "Ripple"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Corporation"
 issues:
   - "Technology"
+lobbying-spend: 3170000
+lobbying-filings: 38
 ---
 
 #crypto #payments #fairshake #sec-lawsuit #regulatory-capture
@@ -44,3 +46,22 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 ---
 
 `content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $3.2M |
+| Quarterly Filings | 38 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 6 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Banking, Commodities (big ticket), Financial Institutions/Investments/Securities
+
+**Lobbying firms:** BALLARD PARTNERS, CONAWAY GRAVES GROUP, LLC, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), MICHAEL BEST STRATEGIES LLC, RIPPLE, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Commerce, Dept of (DOC), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE, Securities & Exchange Commission (SEC), Treasury, Dept of, White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ripple) (Tier 1)
+<!-- auto:lda-lobbying end -->

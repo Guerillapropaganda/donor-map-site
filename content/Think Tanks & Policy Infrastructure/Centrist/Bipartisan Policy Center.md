@@ -21,6 +21,10 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Labor Department"
 related: "[[Goldman Sachs]]"
+ein: "731628382"
+nonprofit-status: "501(c)(3)"
+total-revenue: 38011931
+total-assets: 62759127
 ---
 
 #think-tank #centrist #bipartisan #energy #healthcare #housing #immigration #governance #class-analysis
@@ -253,3 +257,28 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Bipartisan%20Policy%20Center%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 731628382 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $38.0M |
+| Total Assets | $62.8M |
+| NTEE Code | W052 |
+| IRS Ruling Date | 2002-07-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/731628382) (Tier 1)
+<!-- auto:nonprofit-990 end -->

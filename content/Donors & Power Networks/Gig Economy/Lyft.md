@@ -22,6 +22,9 @@ top-federal-agency: "Department of the Interior"
 top-naics-code: "561599"
 lobbying-spend: 3410000
 lobbying-filings: 36
+federal-awards-total: 6002
+federal-contracts-count: 10
+federal-grants-count: 0
 ---
 
 
@@ -231,3 +234,25 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $6K |
+| Contracts (recent 3yr) | 10 ($235K sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 5 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $77K | Department of the Interior | RIDESHARE SERVICE LYFT |
+| $40K | Department of Energy | PROVIDE THE U.S. DEPARTMENT OF ENERGY (DOE) WITH RIDESHARE SERVICES UNDER THE GSA RIDESHARE BLANKET  |
+| $30K | Department of State | RIDESHARE SERVICES AT HST |
+| $28K | Department of the Interior | PEACE CORPS BICYCLE SHARING PROGRAM |
+| $24K | Department of Veterans Affairs | VA EMPLOYEE RIDESHARE SERVICES |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/dd740621-7bb8-7375-766e-de19ead4b3f9-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

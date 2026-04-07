@@ -15,6 +15,8 @@ issues:
 ein: "873103053"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
+lobbying-spend: 42075000
+lobbying-filings: 59
 ---
 
 
@@ -238,3 +240,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/873103053) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $42.1M |
+| Quarterly Filings | 59 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 29 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Government Issues, Health Issues, Homeland Security, Immigration, Intelligence, Labor Issues/Antitrust/Workplace, Medicare/Medicaid, Pharmacy, Postal, Science/Technology, Small Business, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Welfare
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, AMAZON.COM SERVICES LLC, AMERICAN DEFENSE INTERNATIONAL, INC., AVOQ, LLC, BALLARD PARTNERS, BERQUAM VENTURES, LLC, BLOOM STRATEGIC COUNSEL, CAPITOL TAX PARTNERS, LLP, CAPITOL VENTURE LLC, CARD & ASSOCIATES, LLC, CHARTWELL STRATEGY GROUP LLC, COZEN O'CONNOR PUBLIC STRATEGIES, ENDGAME STRATEGIES, LLC, FEDERAL STREET STRATEGIES, LLC, HILLTOP ADVOCACY, HOLLAND & KNIGHT LLP, HOLLY STRATEGIES INCORPORATED, HSA STRATEGIES, JEFFRIES STRATEGIES LLC, MINDSET ADVOCACY, LLC, MONUMENT ADVOCACY, ORIGIN ADVOCACY LLC, PHRONESISDC, LLC, PRASAM, RICH FEUER ANDERSON, SALT POINT STRATEGIES, TARPLIN, DOWNS & YOUNG, LLC, TEAM HALLAHAN LLC, THE DUBERSTEIN GROUP INC.
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Consumer Product Safety Commission (CPSC), Defense, Dept of (DOD), Director of National Intelligence (ODNI), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA) +35 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Amazon) (Tier 1)
+<!-- auto:lda-lobbying end -->

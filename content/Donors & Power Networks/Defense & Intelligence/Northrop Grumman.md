@@ -279,3 +279,30 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 956095343](https://projects.propublica.org/nonprofits/organizations/956095343) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 6 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | 4 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Tom Cole** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
+
+**Funded politicians:**
+
+- [[Donald Trump]] — contracts: $94K
+- [[Adam Smith]] (Armed Services) — contracts: $94K
+- [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — contracts: $94K
+- [[Tom Cole]] (Appropriations) — contracts: $94K
+- [[Roger Wicker]] (Armed Services) — contracts: $94K
+- [[John Ratcliffe]] (Intelligence) — contracts: $94K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

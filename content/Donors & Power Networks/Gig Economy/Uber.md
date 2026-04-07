@@ -65,6 +65,8 @@ total-revenue: 127381
 total-assets: 272824
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+lei: "8156000D95B737A14284"
+lei-jurisdiction: "IT"
 ---
 
 
@@ -249,3 +251,18 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Uber) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [8156000D95B737A14284](https://search.gleif.org/#/record/8156000D95B737A14284) |
+| Legal Name | UBER S.R.L. |
+| Jurisdiction | IT |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-09-10T07:07:19Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

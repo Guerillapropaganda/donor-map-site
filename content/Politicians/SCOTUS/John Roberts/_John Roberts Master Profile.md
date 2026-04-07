@@ -2,13 +2,15 @@
 title: "John Roberts Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 chamber: "SCOTUS"
 top-donors:
   - "Leonard Leo"
   - "Koch Network - Charles Koch"
+total-received: "$167,173"
+fec-candidate-id: "H2AL05169"
 ---
 
 
@@ -134,3 +136,15 @@ John G. Roberts Jr. Chief Justice of the United States (2005–present). Nominat
 - [Congress.gov: Loper Bright and the Future of Agency Interpretations](https://www.congress.gov/crs-product/R48320) (Tier 1)
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2022 |
+| Total Raised | $167,173 |
+| Individual Contributions | $110,850 |
+| Cash on Hand | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AL05169/) (Tier 1)
+<!-- auto:fec-politician end -->

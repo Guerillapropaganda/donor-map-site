@@ -24,6 +24,10 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Patent and Trademark Office"
+top-federal-agency: "Department of Veterans Affairs"
+top-naics-code: "518210"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark
@@ -123,3 +127,46 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Novo%20Nordisk%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Veterans Affairs ($12.8M) |
+| Primary NAICS Sector | Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Veterans Affairs | $12.8M |
+| Department of Defense | $1.7M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services (518210) | $12.8M |
+| Medicinal and Botanical Manufacturing (325411) | $1.0M |
+| Pharmaceutical Preparation Manufacturing (325412) | $661K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Novo%20Nordisk) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

@@ -2,7 +2,7 @@
 title: "Johnson & Johnson"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -13,6 +13,10 @@ ein: 760552018
 annual-revenue: "$477K"
 net-assets: "$1.3M"
 tax-year: "2023"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "GLOMAG"
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
@@ -76,3 +80,24 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 760552018](https://projects.propublica.org/nonprofits/organizations/760552018) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 3 |
+| Sanctions Programs | GLOMAG |
+| Entity Types | individual |
+
+**Matched SDN entries:**
+- JOHNSON, Prince Yormie (individual) [GLOMAG]
+  - Remarks: DOB 06 Jul 1952; POB Gomaplay, Liberia; nationality Liberia; Gender Male.
+- ANDRE, Johnson (individual) [GLOMAG]
+  - Remarks: DOB 1997; POB Haiti; nationality Haiti; citizen Haiti; Gender Male; a.k.a. 'IZO'; a.k.a. 'IZO VILAJ DE DYE'; a.k.a. 'IZO 5 SECONDS'; a.k.a. 'IZO 5 SEGONN'.
+- BYABASHAIJA, Johnson (individual) [GLOMAG]
+  - Remarks: DOB 27 Sep 1957; POB Kajure, Rukungiri District, Uganda; nationality Uganda; Gender Male.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

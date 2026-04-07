@@ -29,6 +29,9 @@ subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 lobbying-spend: 2848540
 lobbying-filings: 95
+sec-filings: 3
+sec-form-types:
+  - "DEF 14A"
 ---
 
 #ohio #democratic-party #state-party #rust-belt #labor #decline #donor-class #working-class
@@ -210,3 +213,34 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ohio%20Democratic%20Party) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Amy Acton]] — lobbying: $2.8M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 3 |
+| Form Types | DEF 14A |
+
+**Notable filings:**
+
+- 2002-04-19 — **DEF 14A**: PROXY
+- 2001-04-20 — **DEF 14A**: PROXY2001
+- 2003-04-18 — **DEF 14A**: DEF 14A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ohio%20Democratic%20Party%22) (Tier 1)
+<!-- auto:sec-edgar end -->

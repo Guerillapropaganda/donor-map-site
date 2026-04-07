@@ -2,13 +2,17 @@
 title: "Democratic Party Infrastructure"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Infrastructure"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
+ofac-programs:
+  - "BALKANS"
 ---
 
 #democratic #party #infrastructure #dnc #dccc #dscc #actblue #organizing
@@ -34,3 +38,20 @@ The Democratic Party infrastructure's structural challenge: the party raises mor
 - [Ballotpedia: Democratic Party organization](https://ballotpedia.org/Democratic_Party_Infrastructure) (Tier 3)
 
 content-readiness:: ready
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | BALKANS |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- SERB DEMOCRATIC PARTY (-0-) [BALKANS]
+  - Remarks: a.k.a. 'SDS'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

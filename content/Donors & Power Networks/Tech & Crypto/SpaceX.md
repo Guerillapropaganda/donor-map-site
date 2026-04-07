@@ -2,7 +2,7 @@
 title: "SpaceX"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -13,6 +13,18 @@ ein: 873059688
 annual-revenue: "$57K"
 net-assets: "$13K"
 tax-year: "2023"
+federal-register-mentions: 166
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Air Force Department"
+  - "Coast Guard"
+  - "Defense Department"
+  - "Environmental Protection Agency"
+  - "Federal Aviation Administration"
+  - "Federal Communications Commission"
+  - "Homeland Security Department"
+  - "Pipeline and Hazardous Materials Safety Administration"
+  - "Transportation Department"
 ---
 
 #spacex #musk #defense #nasa #faa #starlink #military #launch
@@ -67,3 +79,25 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 873059688](https://projects.propublica.org/nonprofits/organizations/873059688) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_86-88%2F873059688_202312_990EZ_2024052322427085.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 166 |
+| Final Rules | 54 |
+| Proposed Rules | 39 |
+| Notices | 73 |
+| Agencies | Air Force Department, Coast Guard, Defense Department, Environmental Protection Agency, Federal Aviation Administration, Federal Communications Commission, Homeland Security Department, Pipeline and Hazardous Materials Safety Administration +1 more |
+
+**Recent regulatory activity:**
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (2026-03-18) — Transportation Department
+- [Notice of Availability of the Final Tiered Environmental Assessment and Finding of No Significant Impact/Record of Decision for Updates to Airspace Closures for Additional Launch Trajectories and Starship Boca Chica Landings of the SpaceX Starship-Super Heavy Vehicle at the SpaceX Boca Chica Launch Site in Cameron County, Texas (Final Tiered EA and FONSI/ROD)](https://www.federalregister.gov/documents/2026/02/19/2026-03291/notice-of-availability-of-the-final-tiered-environmental-assessment-and-finding-of-no-significant) (2026-02-19) — Transportation Department
+- [Environmental Impact Statements; Notice of Availability](https://www.federalregister.gov/documents/2026/02/06/2026-02362/environmental-impact-statements-notice-of-availability) (2026-02-06) — Environmental Protection Agency
+- [Notice of Availability of the Final Environmental Impact Statement and Record of Decision for SpaceX Starship-Super Heavy Vehicle at Launch Complex 39A at Kennedy Space Center in Merritt Island, Florida](https://www.federalregister.gov/documents/2026/02/03/2026-02108/notice-of-availability-of-the-final-environmental-impact-statement-and-record-of-decision-for-spacex) (2026-02-03) — Transportation Department
+- [Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX](https://www.federalregister.gov/documents/2026/01/22/2026-01168/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx) (2026-01-22) — Homeland Security Department
+- [Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX](https://www.federalregister.gov/documents/2025/12/30/2025-23976/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx) (2025-12-30) — Homeland Security Department
+- ... and 160 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22SpaceX%22) (Tier 1)
+<!-- auto:federal-register end -->

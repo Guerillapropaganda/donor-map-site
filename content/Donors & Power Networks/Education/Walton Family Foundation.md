@@ -2,11 +2,13 @@
 title: "Walton Family Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Education"
 entity-type: "Individual Donor"
+lei: "549300EHSRWZEI5Q4G61"
+lei-jurisdiction: "US-DE"
 ---
 
 
@@ -92,3 +94,18 @@ Education — charter schools, teacher accountability, school choice, billionair
 
 research-status:: ready — $200-250B family net worth, $1B+ charter funding nationally, KIPP/Alliance/Green Dot/CCSA recipients, Walmart labor-charter parallel, Republican money in Democratic education. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300EHSRWZEI5Q4G61](https://search.gleif.org/#/record/549300EHSRWZEI5Q4G61) |
+| Legal Name | THE WALTON FAMILY FOUNDATION, INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-10-23T13:47:09Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

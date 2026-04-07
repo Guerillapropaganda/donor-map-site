@@ -2,7 +2,7 @@
 title: "Defense Contractors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -12,7 +12,7 @@ annual-revenue: "$1.3M"
 net-assets: "$2.2M"
 tax-year: "2023"
 federal-register-mentions: 327
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Defense Acquisition Regulations System"
   - "Defense Department"
@@ -24,6 +24,17 @@ regulatory-agencies:
   - "Management and Budget Office"
   - "National Aeronautics and Space Administration"
   - "Small Business Administration"
+court-cases: 1288
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Connecticut"
+  - "District Court, D. Kansas"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, W.D. Oklahoma"
+  - "United States Court of Federal Claims"
 ---
 
 #defense-contractors #military-industrial #bipartisan #ndaa #revolving-door #lobbying #class-analysis #follow-the-money
@@ -186,3 +197,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Defense%20Contractors%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,288 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, C.D. California, District Court, D. Connecticut, District Court, D. Kansas, District Court, E.D. Michigan, District Court, E.D. Virginia, District Court, N.D. California, District Court, W.D. Oklahoma +1 more |
+| Case Types | 138 Contract - (Pre Award) Injunctions, 690 Forfeit/Penalty: Other, 880 Defend Trade Secrets Act (of 2016), 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- United States v. Edwards (2026) — District Court, E.D. Michigan
+- California Department of Parks and Recreation v. Sable Offshore Corp. (2026) — District Court, C.D. California
+- Artis v. Sikorsky Aircraft Corporation (2026) — District Court, D. Connecticut
+- United States v. Rose (2026) — District Court, E.D. Michigan
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+- Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Defense%20Contractors%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

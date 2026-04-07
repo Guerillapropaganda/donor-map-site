@@ -2,7 +2,7 @@
 title: "Chris Wright Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,6 +11,8 @@ issues:
   - "Energy & Climate"
 top-donors:
   - "Koch Network - Charles Koch"
+total-received: "$10,625"
+fec-candidate-id: "H4NY16095"
 ---
 
 
@@ -114,3 +116,15 @@ Chris Wright. Secretary of Energy (2025–present). Founder and CEO of Liberty E
 - [OpenSecrets.org: Chris Wright donation profile](https://www.opensecrets.org/individuals/chris-wright) (Tier 1)
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $10,625 |
+| Individual Contributions | $312 |
+| Cash on Hand | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY16095/) (Tier 1)
+<!-- auto:fec-politician end -->
