@@ -11,7 +11,7 @@ politicians-funded:
   - "Joe Biden"
 issues:
   - "Trade"
-ein: 386054714
+ein: "386054714"
 annual-revenue: "$30.0M"
 net-assets: "$243K"
 tax-year: "2016"
@@ -27,6 +27,7 @@ court-jurisdictions:
   - "United States Court of International Trade"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+nonprofit-status: "501(c)(17)"
 ---
 
 #ford #auto #detroit #michigan #manufacturing #ev #uaw #trade
@@ -125,3 +126,24 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 386054714 |
+| Tax-Exempt Status | 501(c)(17) |
+| Filings on Record | 6 |
+
+**Filing history:** 2016, 2015, 2014, 2013, 2012, 2011
+
+**View 990 filings:**
+- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2016)
+- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2015)
+- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2014)
+- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2013)
+- [2012 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2012)
+- ... and 1 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/386054714) (Tier 1)
+<!-- auto:nonprofit-990 end -->

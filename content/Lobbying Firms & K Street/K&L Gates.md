@@ -18,6 +18,8 @@ fara-records: 3
 fara-countries:
   - "ISRAEL"
   - "JAPAN"
+lei: "984500BYEBE6DF7F5U39"
+lei-jurisdiction: "GB"
 ---
 
 #lobbying #k-street #maritime #financial-services #energy #transportation #tech #steel #defense
@@ -268,3 +270,18 @@ content-readiness:: ready
 
 - [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:K%26L%20Gates,) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [984500BYEBE6DF7F5U39](https://search.gleif.org/#/record/984500BYEBE6DF7F5U39) |
+| Legal Name | K&L GATES LLP |
+| Jurisdiction | GB |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-08-28T08:59:06Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

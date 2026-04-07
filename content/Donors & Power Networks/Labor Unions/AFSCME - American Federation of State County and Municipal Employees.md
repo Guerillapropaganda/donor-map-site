@@ -8,8 +8,13 @@ parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Gavin Newsom"
-  - "Kamala Harris"
+  - "Pete Aguilar"
+  - "Mark Takano"
+  - "Ritchie Torres"
+  - "Kyrsten Sinema"
+  - "Barbara Lee"
+  - "Mike Lee"
+  - "Richard Neal"
 issues:
   - "Labor & Workers"
 ofac-sdn-match: "true"
@@ -25,6 +30,9 @@ federal-register-mentions: 1
 regulatory-agencies:
   - "Federal Motor Carrier Safety Administration"
   - "Transportation Department"
+ein: "332579905"
+nonprofit-status: "501(c)(5)"
+total-political-spend: "$4,933,884"
 ---
 
 
@@ -180,3 +188,40 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 332579905 |
+| Tax-Exempt Status | 501(c)(5) |
+| IRS Ruling Date | 1957-08-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/332579905) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $4,933,884 |
+| Contributions | 317 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| PRIORITIES USA ACTION | $4,031,509 | — |
+| BATTLEGROUND TEXAS | $100,000 | — |
+| PETE AGUILAR FOR CONGRESS | $57,500 | DEM |
+| TONY CARDENAS FOR CONGRESS | $48,500 | DEM |
+| DOGGETT FOR CONGRESS | $47,000 | DEM |
+| MARK TAKANO FOR CONGRESS | $42,500 | DEM |
+| COMMITTEE TO ELECT ALAN GRAYSON | $37,500 | DEM |
+| ARIZONA STATE DEMOCRATIC CENTRAL EXECUTIVE COMMITTEE | $35,000 | DEM |
+| OHIO DEMOCRATIC PARTY - FEDERAL | $34,875 | DEM |
+| FRIENDS OF JAHANA HAYES | $32,500 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees) (Tier 1)
+<!-- auto:fec-donor end -->

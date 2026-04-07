@@ -8,7 +8,9 @@ parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Ron DeSantis"
+  - "Donald Trump"
+  - "JD Vance"
+  - "Mark Kelly"
 total-political-spend: "$34,008,251"
 court-cases: 100
 last-enriched: "2026-04-07"
@@ -27,6 +29,10 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+ein: 816166962
+annual-revenue: "$230K"
+net-assets: "$2.3M"
+tax-year: "2023"
 ---
 
 #ken-griffin #citadel #hedge-fund #mega-donor #republican #Trump #DeSantis #libertarian
@@ -188,3 +194,41 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Ken%20Griffin) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $230K |
+| Total Contributions | $0 |
+| Total Expenses | $142K |
+| Net Assets | $2.3M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 816166962](https://projects.propublica.org/nonprofits/organizations/816166962) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F816166962_202312_990PF_2025011022987307.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $34,008,251 |
+| Contributions | 308 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SENATE LEADERSHIP FUND | $20,000,000 | — |
+| KEYSTONE RENEWAL PAC | $6,000,000 | — |
+| THE SENTINEL ACTION FUND | $4,000,000 | — |
+| CONGRESSIONAL LEADERSHIP FUND | $2,000,000 | — |
+| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $1,000,000 | — |
+| BUCKEYE VALUES PAC | $1,000,000 | — |
+| WINRED | $2,133 | — |
+| HARRIS FOR PRESIDENT | $1,918 | DEM |
+| PRESTON FOR CONGRESS | $1,000 | DEM |
+| AMERICAN SUPPLY ASSOCIATION POLITICAL ACTION COMMITTEE | $1,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ken%20Griffin) (Tier 1)
+<!-- auto:fec-donor end -->

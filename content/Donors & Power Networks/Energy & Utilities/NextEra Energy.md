@@ -2,7 +2,7 @@
 title: "NextEra Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -12,9 +12,19 @@ federal-contracts-count: 25
 federal-grants-count: 2
 ein: "650031452"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 total-revenue: 23163816
 total-assets: 78162606
+federal-register-mentions: 797
+regulatory-agencies:
+  - "Energy Department"
+  - "Federal Communications Commission"
+  - "Federal Energy Regulatory Commission"
+  - "Fish and Wildlife Service"
+  - "Interior Department"
+  - "Labor Department"
+  - "Nuclear Regulatory Commission"
+  - "Veterans Employment and Training Service"
 ---
 
 #nextera #energy #renewables #solar #wind #florida #utility #fpl
@@ -123,3 +133,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/650031452) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 797 |
+| Final Rules | 30 |
+| Proposed Rules | 18 |
+| Notices | 749 |
+| Agencies | Energy Department, Federal Communications Commission, Federal Energy Regulatory Commission, Fish and Wildlife Service, Interior Department, Labor Department, Nuclear Regulatory Commission, Veterans Employment and Training Service |
+
+**Recent regulatory activity:**
+- [In the Matter of NextEra Energy Duane Arnold, LLC; Central Iowa Power Cooperative; Corn Belt Power Cooperative; Duane Arnold Energy Center; Direct Transfer of Licenses](https://www.federalregister.gov/documents/2026/04/03/2026-06498/in-the-matter-of-nextera-energy-duane-arnold-llc-central-iowa-power-cooperative-corn-belt-power) (2026-04-03) — Nuclear Regulatory Commission
+- [Combined Notice of Filings](https://www.federalregister.gov/documents/2026/04/02/2026-06381/combined-notice-of-filings) (2026-04-02) — Energy Department
+- [Review of the Commission's Rules Governing the 896-901/935-940 MHz Band](https://www.federalregister.gov/documents/2026/03/31/2026-06239/review-of-the-commissions-rules-governing-the-896-901935-940-mhz-band) (2026-03-31) — Federal Communications Commission
+- [Monthly Notice; Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations](https://www.federalregister.gov/documents/2026/03/17/2026-05121/monthly-notice-applications-and-amendments-to-facility-operating-licenses-and-combined-licenses) (2026-03-17) — Nuclear Regulatory Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/13/2026-04933/combined-notice-of-filings-1) (2026-03-13) — Energy Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
+- ... and 791 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22NextEra%20Energy%22) (Tier 1)
+<!-- auto:federal-register end -->

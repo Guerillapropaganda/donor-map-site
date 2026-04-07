@@ -21,6 +21,34 @@ ein: 510390132
 annual-revenue: "$23.1M"
 net-assets: "$21.7M"
 tax-year: "2023"
+sec-filings: 1165
+sec-form-types:
+  - "425"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-1.01"
+  - "EX-10.1"
+  - "EX-10.10"
+  - "EX-10.15"
+  - "EX-10.16"
+  - "EX-10.4"
+  - "EX-10.C"
+  - "EX-2.2"
+  - "EX-4.9"
+  - "EX-5.1"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "EX-FILING FEES"
+  - "N-PX"
+  - "PROXY VOTING RECORD"
+  - "PX14A6G"
+  - "S-8"
+  - "SC 13D/A"
 ---
 
 #comcast #nbcuniversal #telecom #media #lobbying #net-neutrality #cable #broadband #monopoly #revolving-door #brian-roberts
@@ -202,3 +230,21 @@ research-status:: developed — $13.9M lobbying (2024), $2.02M PAC (2025-2026 cy
 - [Source: ProPublica Nonprofit Explorer — EIN 510390132](https://projects.propublica.org/nonprofits/organizations/510390132) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F510390132_202312_990PF_2025010222977425.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,165 |
+| Form Types | 425, 8-K, CORRESP, DEF 14A, DEFA14A, DFAN14A, EX-1.01, EX-10.1 +18 more |
+
+**Notable filings:**
+
+- 2018-06-14 — **DFAN14A**: FORM DFAN14A
+- 2014-09-25 — **425**: FORM 425
+- 2018-06-14 — **DFAN14A**: FORM DFAN14A
+- 2016-07-28 — **S-8**: S-8
+- 2018-07-12 — **8-K**: FORM 8-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Comcast%20-%20NBCUniversal%22) (Tier 1)
+<!-- auto:sec-edgar end -->

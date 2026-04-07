@@ -10,6 +10,15 @@ lobbyist-count: 79
 revolving-door-pct: "45.6%"
 lei: "549300TAKRWOFCAF8R11"
 lei-jurisdiction: "US-FL"
+fara-status: "registrant"
+fara-records: 7
+fara-countries:
+  - "BAHAMAS"
+  - "GIBRALTAR"
+  - "ISRAEL"
+  - "JAPAN"
+  - "KOREA SOUTH"
+  - "QATAR"
 ---
 
 #lobbying #k-street #chemicals #defense #tech #healthcare #cannabis #trade #real-estate
@@ -240,3 +249,24 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 7 |
+| Countries | BAHAMAS, GIBRALTAR, ISRAEL, JAPAN, KOREA SOUTH, QATAR |
+| Foreign Principal Records | 6 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- The Government of the Commonwealth of The Bahamas (BAHAMAS)
+- The Ministry of Trade, Industry and Energy of the Republic of Korea (KOREA SOUTH)
+- Embassy of Qatar through Moran Global Strategies, Inc. (QATAR)
+- Israel Ministry of Foreign Affairs (ISRAEL)
+- Embassy of Japan (JAPAN)
+- Government of Gibraltar (GIBRALTAR)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Holland%20%26%20Knight,) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

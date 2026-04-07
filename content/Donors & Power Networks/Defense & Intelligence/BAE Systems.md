@@ -28,6 +28,9 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, S.D. Texas"
   - "District Court, W.D. Oklahoma"
+federal-awards-total: 1694356217
+federal-contracts-count: 25
+federal-grants-count: 17
 ---
 
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia
@@ -138,3 +141,35 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BAE%20Systems%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $1.7B |
+| Contracts (recent 3yr) | 25 ($42.5B sampled) |
+| Grants (recent 3yr) | 17 ($164.9M sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $7.1B | Department of Defense | 200502!000833!2100!W56HZV!TACOM - WARREN                  !DAAE0703CS023  !A!N! !N!             !P00 |
+| $4.1B | Department of Defense | PROCUREMENT OF 10,000 FAMILY OF MEDIUM TACTICAL VEHICLES.  ALSO ADDING PROGRAM SUPPORT AND FEDERAL R |
+| $3.7B | Department of Defense | IGF::OT::IGF |
+| $2.9B | Department of Defense | LETTER CONTRACT FOR EARLY PROCUREMENT MATERIAL TO SUPPORT THE M109A7/M992A3 VEHICLE PRODUCTION. |
+| $2.5B | Department of Defense | EARLY ORDER MATERIAL IN SUPPORT OF THE FUTURE PURCHASE OF 197 AMPVS AND FACILITY CAPACITY EXPANSION  |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $74.4M | Department of Defense | MICRO AUTONOMOUS SYSTEMS AND TECHNOLOGY CTA |
+| $45.3M | Department of Defense | TAS: : 97X0360: : TAS DEFENSE PRODUCTION ACT TITLE III SPACE INDUSTRIAL BASE COUNCIL (SIBC) NEXT GEN |
+| $7.2M | Department of Defense | TAS::57 73600 TAS:: SHORT-GATE HIGH-EFFICIENCY GALLIUM NITRIDE (GAN) MONOLITHIC MICROWAVE INTEGRATED |
+| $6.2M | Department of Defense | MANTECH ARL COOPERATIVE AGREEMENT W911NF-12-R-0011 |
+| $5.9M | National Aeronautics and Space Administration | OBSERVATIONS AT 1KM HORIZONTAL RESOLUTION ARE NEEDED TO RESOLVE THE FINE THERMODYNAMIC PHASE STRUCTU |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-BAE%20Systems) (Tier 1)
+<!-- auto:usaspending end -->

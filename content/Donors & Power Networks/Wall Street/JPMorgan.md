@@ -38,6 +38,25 @@ ein: 237049738
 annual-revenue: "$155.8M"
 net-assets: "$442.1M"
 tax-year: "2023"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
+top-federal-agency: "Pension Benefit Guaranty Corporation"
+top-naics-code: "523930"
+federal-register-mentions: 395
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Comptroller of the Currency"
+  - "Consumer Financial Protection Bureau"
+  - "Employee Benefits Security Administration"
+  - "Federal Deposit Insurance Corporation"
+  - "Federal Reserve System"
+  - "Federal Trade Commission"
+  - "Labor Department"
+  - "National Credit Union Administration"
+  - "Neighborhood Reinvestment Corporation"
+  - "Securities and Exchange Commission"
 ---
 
 #megabank #wall-street #jamie-dimon #bipartisan #financial-deregulation #revolving-door #too-big-to-fail #both-sides
@@ -258,3 +277,78 @@ content-readiness:: developed
 - [Source: ProPublica Nonprofit Explorer — EIN 237049738](https://projects.propublica.org/nonprofits/organizations/237049738) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F237049738_202312_990PF_2024112522922928.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+| Top Federal Agency | Pension Benefit Guaranty Corporation ($1.6M) |
+| Primary NAICS Sector | Investment Advice |
+
+**Subcontractors receiving federal money from JPMorgan Chase:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to JPMorgan Chase:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Pension Benefit Guaranty Corporation | $1.6M |
+| Department of Health and Human Services | $787K |
+| Department of Defense | $253K |
+| Department of Homeland Security | $22K |
+| Department of Justice | $11K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Investment Advice (523930) | $1.7M |
+| Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services (518210) | $787K |
+| Portfolio Management and Investment Advice (523940) | $650K |
+| Commercial Banking (522110) | $252K |
+| All Other Professional, Scientific, and Technical Services (541990) | $12K |
+| Packing and Crating (488991) | $12K |
+| Site Preparation Contractors (238910) | $10K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-JPMorgan%20Chase) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 395 |
+| Final Rules | 58 |
+| Proposed Rules | 39 |
+| Notices | 298 |
+| Agencies | Comptroller of the Currency, Consumer Financial Protection Bureau, Employee Benefits Security Administration, Federal Deposit Insurance Corporation, Federal Reserve System, Federal Trade Commission, Labor Department, National Credit Union Administration +4 more |
+
+**Recent regulatory activity:**
+- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (2026-03-27) — Treasury Department ★
+- [Proposed Exemption From Certain Prohibited Transaction Restrictions Involving AT&T Inc. (Together With AT&T Inc.'s Affiliates, AT&T or the Applicant) Located in Dallas, Texas](https://www.federalregister.gov/documents/2026/03/17/2026-05165/proposed-exemption-from-certain-prohibited-transaction-restrictions-involving-atandt-inc-together) (2026-03-17) — Labor Department
+- [Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act](https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical) (2026-02-27) — Labor Department ★
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
+- [Real Estate Lending Escrow Accounts](https://www.federalregister.gov/documents/2025/12/30/2025-23988/real-estate-lending-escrow-accounts) (2025-12-30) — Treasury Department
+- [Preemption Determination: State Interest-on-Escrow Laws](https://www.federalregister.gov/documents/2025/12/30/2025-23987/preemption-determination-state-interest-on-escrow-laws) (2025-12-30) — Treasury Department
+- ... and 389 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22JPMorgan%20Chase%22) (Tier 1)
+<!-- auto:federal-register end -->

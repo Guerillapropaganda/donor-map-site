@@ -9,7 +9,7 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: 720921017
+ein: "720921017"
 annual-revenue: "$3.8M"
 net-assets: "$3.5M"
 tax-year: "2023"
@@ -25,6 +25,9 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, S.D. Texas"
   - "District Court, W.D. Texas"
+nonprofit-status: "501(c)(3)"
+total-revenue: 4179564
+total-assets: 3694941
 ---
 
 #cnp #dark-money #conservative #christian-right #networking #secretive #strategy
@@ -100,3 +103,28 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Council%20for%20National%20Policy%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 720921017 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $4.2M |
+| Total Assets | $3.7M |
+| NTEE Code | W00F |
+| IRS Ruling Date | 1992-08-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/720921017) (Tier 1)
+<!-- auto:nonprofit-990 end -->

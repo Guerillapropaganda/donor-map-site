@@ -10,6 +10,19 @@ entity-type: "Corporation"
 lei: "549300ZW53G2TUFW5T39"
 lei-jurisdiction: "US-GA"
 lei-parent: "THE SOUTHERN COMPANY"
+court-cases: 1227
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Fourth Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, D. Maryland"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. Alabama"
+  - "District Court, N.D. Georgia"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. Georgia"
 ---
 
 #southern-company #utility #georgia #nuclear #coal #monopoly #rate-base
@@ -88,3 +101,22 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,227 |
+| Courts | Court of Appeals for the Fourth Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, D. Delaware, District Court, D. Maryland, District Court, District of Columbia, District Court, N.D. Alabama, District Court, N.D. Georgia +4 more |
+| Case Types | 160 Stockholders Suits, 422 Bankruptcy Appeal (801), 830 Patent, 890 Other Statutory Actions |
+
+**Notable cases:**
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- Yates v. NextEra Energy, Inc. (2026) — District Court, S.D. Florida
+- Cumulus Media Inc. (2026) — United States Bankruptcy Court, S.D. Texas
+- Bromerc Ltd. v. Arthur J. Gallagher & Co. (2026) — District Court, D. Delaware
+- Bromerc Ltd. v. DTE Energy Resources, LLC (2026) — District Court, D. Delaware
+- Bromerc Ltd. v. CERT Operations, LLC (2026) — District Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Southern%20Company%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

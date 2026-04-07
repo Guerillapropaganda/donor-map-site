@@ -13,7 +13,7 @@ issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$188,381,113"
 court-cases: 600
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"
   - "District Court, C.D. California"
@@ -29,6 +29,16 @@ ein: 830650656
 annual-revenue: "$1"
 net-assets: "$1K"
 tax-year: "2023"
+federal-register-mentions: 10
+regulatory-agencies:
+  - "Executive Office of the President"
+  - "Federal Trade Commission"
+  - "Securities and Exchange Commission"
+sec-filings: 2093
+sec-form-types:
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
 ---
 
 #donor #billionaire #democratic #progressive #dark-money #open-society
@@ -173,3 +183,44 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 830650656](https://projects.propublica.org/nonprofits/organizations/830650656) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 10 |
+| Presidential Document | 1 |
+| Rule | 3 |
+| Proposed Rule | 2 |
+| Notice | 4 |
+| Agencies | Executive Office of the President, Federal Trade Commission, Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Addressing Risks From Perkins Coie LLP](https://www.federalregister.gov/documents/2025/03/11/2025-03989/addressing-risks-from-perkins-coie-llp) (2025-03-11) — Executive Office of the President
+- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2016/07/27/2016-15676/disclosure-of-payments-by-resource-extraction-issuers) (2016-07-27) — Securities and Exchange Commission
+- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2015/12/23/2015-31702/disclosure-of-payments-by-resource-extraction-issuers) (2015-12-23) — Securities and Exchange Commission
+- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2012/09/12/2012-21155/disclosure-of-payments-by-resource-extraction-issuers) (2012-09-12) — Securities and Exchange Commission
+- [Amendments to Regulation SHO](https://www.federalregister.gov/documents/2010/03/10/2010-4409/amendments-to-regulation-sho) (2010-03-10) — Securities and Exchange Commission
+- [Amendments to Regulation SHO](https://www.federalregister.gov/documents/2009/04/20/E9-8730/amendments-to-regulation-sho) (2009-04-20) — Securities and Exchange Commission
+- ... and 4 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22George%20Soros%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 2,093 |
+| Form Types | SC 13D/A, SC 13G, SC 13G/A |
+
+**Notable filings:**
+
+- 2014-02-13 — **SC 13G/A**: SC 13G/A
+- 2012-02-14 — **SC 13G**: SC 13G
+- 2012-06-11 — **SC 13G**: SC 13G
+- 2013-02-14 — **SC 13G/A**: SC 13G/A
+- 2016-02-16 — **SC 13G/A**: SC 13G/A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22George%20Soros%22) (Tier 1)
+<!-- auto:sec-edgar end -->

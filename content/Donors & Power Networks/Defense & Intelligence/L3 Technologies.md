@@ -11,6 +11,12 @@ federal-contracts: "442675"
 federal-awards-total: 367636564
 federal-contracts-count: 25
 federal-grants-count: 0
+federal-register-mentions: 32
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Defense Department"
+  - "Justice Department"
 ---
 
 #defense-contractor #surveillance-technology #military-intelligence #l3harris-merger #weapons-systems
@@ -128,3 +134,23 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-L3%20Technologies) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 32 |
+| Notices | 32 |
+| Agencies | Antitrust Division, Defense Department, Justice Department |
+
+**Recent regulatory activity:**
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Naval Surface Technology & Innovation Consortium](https://www.federalregister.gov/documents/2026/02/23/2026-03539/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-naval-surface) (2026-02-23) — Justice Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2024/11/27/2024-27774/arms-sales-notification) (2024-11-27) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2024/10/07/2024-23120/arms-sales-notification) (2024-10-07) — Defense Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-National Armaments Consortium](https://www.federalregister.gov/documents/2024/09/12/2024-20742/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-national-armaments) (2024-09-12) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Training & Readiness Accelerator II](https://www.federalregister.gov/documents/2024/04/16/2024-07940/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-training-and) (2024-04-16) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Maritime Sustainment and Technology Innovation Consortium](https://www.federalregister.gov/documents/2024/03/13/2024-05315/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-maritime-sustainment) (2024-03-13) — Justice Department
+- ... and 26 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22L3%20Technologies%22) (Tier 1)
+<!-- auto:federal-register end -->

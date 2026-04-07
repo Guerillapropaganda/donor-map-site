@@ -247,12 +247,20 @@ content-readiness:: developed
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 2 |
+| Politicians Funded | 10 |
 | Federal Contractor | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
+- [[Thom Tillis]] — contracts: $11K
+- [[Deb Fischer]] (Armed Services, Agriculture) — contracts: $11K
+- [[Joe Manchin]] — contracts: $11K
+- [[Tammy Baldwin]] — contracts: $11K
+- [[Mark Warner]] (Intelligence) — contracts: $11K
+- [[Gary Peters]] (Homeland Security) — contracts: $11K
+- [[Bryan Steil]] — contracts: $11K
+- [[John Cornyn]] (Judiciary, Intelligence, Finance) — contracts: $11K
 - [[Barack Obama]] — contracts: $11K
 - [[John Thune]] — contracts: $11K
 

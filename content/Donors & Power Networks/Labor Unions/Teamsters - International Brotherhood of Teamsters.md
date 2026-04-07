@@ -2,7 +2,7 @@
 title: "Teamsters - International Brotherhood of Teamsters"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -14,6 +14,14 @@ politicians-funded:
   - "JD Vance"
 issues:
   - "Labor & Workers"
+ein: 940963930
+annual-revenue: "$12.2M"
+net-assets: "$13.2M"
+tax-year: "2023"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
 ---
 
 
@@ -184,3 +192,48 @@ DHL Express Teamsters voted **96% to authorize a strike** if no contract is reac
 | IN UNION USA | $250.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $12.2M |
+| Total Contributions | $0 |
+| Program Service Revenue | $11.5M |
+| Investment Income | $269K |
+| Total Expenses | $11.5M |
+| Net Assets | $13.2M |
+| Officer Compensation | $1.1M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 940963930](https://projects.propublica.org/nonprofits/organizations/940963930) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940963930_202312_990O_2024071222684155.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+
+**Subcontractors receiving federal money from Teamsters - International Brotherhood of Teamsters:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to Teamsters - International Brotherhood of Teamsters:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Teamsters%20-%20International%20Brotherhood%20of%20Teamsters) (Tier 1)
+<!-- auto:usaspending-subawards end -->

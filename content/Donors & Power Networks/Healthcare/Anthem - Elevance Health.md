@@ -2,7 +2,7 @@
 title: "Anthem - Elevance Health"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -13,6 +13,11 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+ein: "352122763"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 40154470
+total-assets: 139880517
 ---
 
 
@@ -161,3 +166,28 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Anthem%20-%20Elevance%20Health) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 352122763 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $40.2M |
+| Total Assets | $139.9M |
+| NTEE Code | T20 |
+| IRS Ruling Date | 2002-02-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352122763) (Tier 1)
+<!-- auto:nonprofit-990 end -->

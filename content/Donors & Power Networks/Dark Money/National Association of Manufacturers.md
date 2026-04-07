@@ -17,11 +17,15 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
   - "Trade"
-ein: 131084330
+ein: "742553304"
 annual-revenue: "$62.0M"
 net-assets: "$69.6M"
 tax-year: "2023"
 total-political-spend: "$2,129,676"
+nonprofit-status: "501(c)(6)"
+last-enriched: "2026-04-07"
+total-revenue: 3628984
+total-assets: 6552030
 ---
 
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money
@@ -226,3 +230,27 @@ research-status:: developed — Expanded from 64 to 175+ lines. Key additions: 5
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Association%20of%20Manufacturers) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 742553304 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $3.6M |
+| Total Assets | $6.6M |
+| IRS Ruling Date | 1991-04-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742553304) (Tier 1)
+<!-- auto:nonprofit-990 end -->

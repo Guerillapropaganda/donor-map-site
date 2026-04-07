@@ -2,7 +2,7 @@
 title: "HBW Resources"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,6 +10,10 @@ entity-type: "Corporation"
 issues:
   - "Energy & Climate"
   - "Dark Money & Campaign Finance"
+fara-status: "registrant"
+fara-records: 4
+fara-countries:
+  - "CANADA"
 ---
 
 #hbw-resources #lobbying #energy #fossil-fuel #astroturf #front-group #lng #consumer-energy-alliance #western-states-tribal-nations #oil-gas #influence #dark-money
@@ -136,3 +140,21 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 **Editorial note:** The prior version of this file incorrectly described HBW Resources as a FARA-registered foreign agent for Turkey and Qatar, and included related links to the Turkey-Erdogan Lobbying Operation. This was an error — HBW Resources is a domestic energy lobbying firm with no documented Turkey or Qatar FARA registrations in the OpenSecrets or Senate LDA databases. The Turkey FARA related tag has been removed and the classification corrected to reflect HBW's actual practice areas: fossil fuel front groups, tribal gaming, defense aerostats, and carbon capture.
 
 content-readiness:: developed
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 4 |
+| Countries | CANADA |
+| Foreign Principal Records | 3 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Doug Ford (CANADA)
+- Province of Saskatchewan (CANADA)
+- Province of Alberta (CANADA)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:HBW%20Resources,) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

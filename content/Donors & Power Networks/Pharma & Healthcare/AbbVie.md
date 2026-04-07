@@ -2,13 +2,22 @@
 title: "AbbVie"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-07"
+subawards-issued: 50
+subawards-issued-amount: 1009778941592127500
+subawards-received: 50
+subawards-received-amount: 1009778941592127500
+top-federal-agency: "Department of Defense"
+top-naics-code: "423450"
 ---
 
 #abbvie #pharma #humira #drug-pricing #patent #lobbying
@@ -64,3 +73,71 @@ content-readiness:: ready
 | NRCC | $30.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=AbbVie) (Tier 1)
+<!-- auto:nhtsa-recalls end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1009778941.6B sampled) |
+| Subawards Received (as sub) | 50 ($1009778941.6B sampled) |
+| Top Federal Agency | Department of Defense ($1.3M) |
+| Primary NAICS Sector | Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers |
+
+**Subcontractors receiving federal money from AbbVie:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| TOWN OF VAN BUREN | $1000000000.0B | 1 |
+| MARICOPA COUNTY FINANCE DEPT | $9612589.8B | 2 |
+| WORCESTER COUNTY | $74881.1B | 1 |
+| CPI SATCOM & ANTENNA TECHNOLOGIES INC. | $39157.9B | 1 |
+| ADAMS COUNTY CARES, INC. | $38512.3B | 1 |
+| MICHIGAN DEPARTMENT OF HEALTH & HUMAN SERVICES | $2616.4B | 1 |
+| FAMILY & COMMUNITY SERVICES INC | $2419.4B | 3 |
+| THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK | $2022.1B | 1 |
+
+**Prime contractors funneling federal money to AbbVie:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| Unknown | $1009778941.6B | 50 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $1.3M |
+| Department of Veterans Affairs | $908K |
+| Department of Health and Human Services | $100K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers (423450) | $1.2M |
+| Pharmaceutical Preparation Manufacturing (325412) | $349K |
+| Surgical and Medical Instrument Manufacturing (339112) | $333K |
+| Surgical Appliance and Supplies Manufacturing (339113) | $289K |
+| Biological Product (except Diagnostic) Manufacturing (325414) | $40K |
+| Medicinal and Botanical Manufacturing (325411) | $14K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-AbbVie) (Tier 1)
+<!-- auto:usaspending-subawards end -->

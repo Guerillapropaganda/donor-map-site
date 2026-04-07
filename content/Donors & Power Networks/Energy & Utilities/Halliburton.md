@@ -2,18 +2,21 @@
 title: "Halliburton"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
-ein: 262383244
+ein: "262383244"
 annual-revenue: "$3.0M"
 net-assets: "$806K"
 tax-year: "2022"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
+nonprofit-status: "501(c)(3)"
+total-revenue: 4436307
+total-assets: 1150303
 ---
 
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
@@ -106,3 +109,28 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Halliburton) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 262383244 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $4.4M |
+| Total Assets | $1.2M |
+| NTEE Code | T21 |
+| IRS Ruling Date | 2009-01-01 |
+| Filings on Record | 12 |
+
+**Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
+
+**View 990 filings:**
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2019)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2018)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/262383244) (Tier 1)
+<!-- auto:nonprofit-990 end -->

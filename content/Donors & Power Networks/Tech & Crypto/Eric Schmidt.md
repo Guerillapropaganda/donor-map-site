@@ -2,7 +2,7 @@
 title: "Eric Schmidt"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -17,6 +17,9 @@ issues:
   - "Technology"
   - "Defense & Military"
   - "Dark Money & Campaign Finance"
+ein: "237155170"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
 ---
 
 #donor-node #tech #google #defense #AI #revolving-door #mega-donor #nscai #schmidt-futures #china #dark-money #class-analysis #follow-the-money
@@ -245,3 +248,16 @@ content-readiness:: developed
 | TROY DOWNING FOR CONGRESS | $7.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 237155170 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | B82 |
+| IRS Ruling Date | 2011-09-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237155170) (Tier 1)
+<!-- auto:nonprofit-990 end -->

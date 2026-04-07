@@ -2,7 +2,7 @@
 title: "National Rifle Association"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -12,6 +12,34 @@ politicians-funded:
 issues:
   - "Gun Policy"
   - "Dark Money & Campaign Finance"
+sec-filings: 403
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "10KSB"
+  - "10KSB/A"
+  - "10QSB"
+  - "10QSB/A"
+  - "144"
+  - "4"
+  - "424B3"
+  - "425"
+  - "497"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.1"
+  - "EX-10.19"
+  - "EX-10.2"
+  - "EX-10.40"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "LETTER"
+  - "PRE 14A"
+  - "PX14A6G"
+  - "SB-2"
+  - "SB-2/A"
 ---
 
 
@@ -196,3 +224,23 @@ content-readiness:: ready
 | NRSC | $130.2K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 403 |
+| Form Types | 10-K, 10-Q, 10KSB, 10KSB/A, 10QSB, 10QSB/A, 144, 4 +18 more |
+| CIK | 109380 |
+| Ticker | ZION |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Rifle%20Association%22) (Tier 1)
+<!-- auto:sec-edgar end -->

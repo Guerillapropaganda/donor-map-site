@@ -2,7 +2,7 @@
 title: "Palantir Technologies Political Operation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,6 +12,9 @@ politicians-funded:
 issues:
   - "Defense & Military"
   - "Immigration"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-07"
 ---
 
 #palantir #surveillance #thiel #defense #ice #data #government-contracts #revolving-door #ai #immigration
@@ -147,3 +150,21 @@ content-readiness:: developed
 | DCCC | $10.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Palantir%20Technologies%20Political%20Operation) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

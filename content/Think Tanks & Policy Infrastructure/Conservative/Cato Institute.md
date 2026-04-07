@@ -2,11 +2,33 @@
 title: "Cato Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
+court-cases: 1175
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Ohio"
+  - "United States Court of International Trade"
+federal-register-mentions: 46
+regulatory-agencies:
+  - "Commodity Futures Trading Commission"
+  - "Education Department"
+  - "Employee Benefits Security Administration"
+  - "Employment and Training Administration"
+  - "Energy Department"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Health and Human Services Department"
+  - "Homeland Security Department"
+  - "Internal Revenue Service"
 ---
 
 #think-tank #conservative #libertarian #deregulation #climate-denial #social-security #financial-regulation #dark-money #koch
@@ -373,3 +395,44 @@ The revolving door completes the circuit: research produced → personnel traine
 ---
 
 content-readiness:: developed
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,175 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Ninth Circuit, District Court, District of Columbia, District Court, N.D. California, District Court, S.D. Ohio, United States Court of International Trade |
+| Case Types | 440 Civil Rights: Other, 895 Freedom of Information Act, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- CATO INSTITUTE v. U.S. DEPARTMENT OF JUSTICE (2026) — District Court, District of Columbia
+- CATO INSTITUTE v. U.S. DEPARTMENT OF DEFENSE (2026) — District Court, District of Columbia
+- Peralta v. Department of Homeland Security (2026) — District Court, S.D. Ohio
+- Burlap and Barrel, Inc. v. Trump (2026) — United States Court of International Trade
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+- Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cato%20Institute%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 46 |
+| Final Rules | 28 |
+| Proposed Rules | 10 |
+| Notices | 8 |
+| Agencies | Commodity Futures Trading Commission, Education Department, Employee Benefits Security Administration, Employment and Training Administration, Energy Department, Federal Energy Regulatory Commission, Federal Trade Commission, Health and Human Services Department +7 more |
+
+**Recent regulatory activity:**
+- [Reimagining and Improving Student Education](https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education) (2026-01-30) — Education Department
+- [Modernizing H-2 Program Requirements, Oversight, and Worker Protections](https://www.federalregister.gov/documents/2024/12/18/2024-29353/modernizing-h-2-program-requirements-oversight-and-worker-protections) (2024-12-18) — Homeland Security Department ★
+- [Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.federalregister.gov/documents/2024/06/11/2024-10872/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation) (2024-06-11) — Energy Department
+- [Event Contracts](https://www.federalregister.gov/documents/2024/06/10/2024-12125/event-contracts) (2024-06-10) — Commodity Futures Trading Commission ★
+- [Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2024/04/29/2024-08333/improving-protections-for-workers-in-temporary-agricultural-employment-in-the-united-states) (2024-04-29) — Labor Department ★
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) — Securities and Exchange Commission
+- ... and 40 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cato%20Institute%22) (Tier 1)
+<!-- auto:federal-register end -->

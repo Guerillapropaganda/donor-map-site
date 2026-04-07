@@ -2,7 +2,7 @@
 title: "Dan Osborn Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Independent"
@@ -11,6 +11,8 @@ top-donors:
   - "Senate Majority PAC"
   - "ActBlue"
   - "Labor Unions"
+total-received: "$2,121,436"
+fec-candidate-id: "S4NE00207"
 ---
 
 #politician #independent #senate
@@ -159,3 +161,35 @@ profile-status:: ready
 research-status:: active
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $2,121,436 |
+| Individual Contributions | $1,102,835 |
+| PAC Contributions | $40,868 |
+| Cash on Hand | 575663.35 |
+| IE Support (Super PAC) | $18,418,400 |
+| IE Opposition (Super PAC) | $15,488,235 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $2,121,436 | $1,102,835 | $40,868 |
+| 2024 | $15,129,327 | $7,759,397 | $359,769 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| RETIRE CAREER POLITICIANS | $15,753,725 | $0 |
+| SENATE LEADERSHIP FUND | $0 | $6,331,319 |
+| ESAFUND | $0 | $5,369,856 |
+| HEARTLAND RESURGENCE | $0 | $3,787,060 |
+| RAILROADERS FOR PUBLIC SAFETY | $1,520,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1)
+<!-- auto:fec-politician end -->

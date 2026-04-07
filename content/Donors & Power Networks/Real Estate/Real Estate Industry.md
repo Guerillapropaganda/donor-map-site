@@ -38,6 +38,8 @@ regulatory-agencies:
   - "Justice Department"
 lei: "254900I73YTKE7MJ8E15"
 lei-jurisdiction: "US-NY"
+ein: "991696593"
+nonprofit-status: "501(c)(6)"
 ---
 
 #real-estate #nar #housing #1031-exchange #rent #zoning #bipartisan
@@ -138,3 +140,15 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 991696593 |
+| Tax-Exempt Status | 501(c)(6) |
+| IRS Ruling Date | 2024-10-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/991696593) (Tier 1)
+<!-- auto:nonprofit-990 end -->

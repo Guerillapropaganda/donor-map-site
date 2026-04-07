@@ -2,7 +2,7 @@
 title: "ADM - Archer Daniels Midland"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -11,6 +11,8 @@ politicians-funded:
   - "Dick Durbin"
 issues:
   - "Agriculture"
+lobbying-spend: 2101600
+lobbying-filings: 96
 ---
 
 #adm #agriculture #commodities #ethanol #grain #biofuel #illinois
@@ -54,3 +56,22 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 - [Ballotpedia: ADM](https://ballotpedia.org/Archer_Daniels_Midland) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.1M |
+| Quarterly Filings | 96 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 33 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Consumer Issues/Safety/Products, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Government Issues, Health Issues, Housing, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Science/Technology, Sports/Athletics, Taxation/Internal Revenue Code, Telecommunications, Veterans
+
+**Lobbying firms:** ACTIVE POLICY SOLUTIONS, LLC, ADVANTAGE ASSOCIATES INTERNATIONAL, AMERICAN ASSOCIATION OF COLLEGIATE REGISTRARS AND ADMISSIONS OFFICERS, AMERICAN ASSOCIATION OF SCHOOL ADMINISTRATORS, AMERICAN DEFENSE INTERNATIONAL, INC., BALLARD PARTNERS, BERNSTEIN STRATEGY GROUP, BRIMLEY GROUP INC., CAPITOL HILL CONSULTING GROUP, CAPITOL TAX PARTNERS, LLP, CHECKMATE GOVERNMENT RELATIONS, CORNERSTONE GOVERNMENT AFFAIRS, INC., COUNCIL OF STATE ADMINISTRATORS OF VOCATIONAL REHABILITATION, EDUCATIONCOUNSEL LLC, FEDERAL HALL POLICY ADVISORS, LLC, FORBES-TATE, FORESIGHT LAW + POLICY PLLC, FREEMYER & ASSOCIATES P.C., LOBBYIT.COM, MARSHALL BRACHMAN, MELTSNER STRATEGIES, LLC, MERCURY PUBLIC AFFAIRS, LLC, MILLER & WENHOLD CAPITOL STRATEGIES, NATIONAL ASSOCIATION FOR COLLEGE ADMISSION COUNSELING, NATIONAL ASSOCIATION OF STUDENT FINANCIAL AID ADMINISTRATORS, NATIONAL GROUP, LLP, POLSINELLI PC, S2R, LLC, THE COLOR NINE GROUP, LLC, THE STATE UNIVERSITY OF NEW YORK, SYSTEM ADMINISTRATION, TIDES GROUP, LLC, VECTIS DC, ZERO ONE STRATEGIES
+
+**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Education, Dept of, Executive Office of the President (EOP), Federal Communications Commission (FCC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD) +7 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=ADM%20-%20Archer%20Daniels%20Midland) (Tier 1)
+<!-- auto:lda-lobbying end -->

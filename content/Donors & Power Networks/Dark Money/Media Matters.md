@@ -18,6 +18,10 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 5705
 total-assets: 261528
+federal-register-mentions: 4
+regulatory-agencies:
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
 ---
 
 #media-matters #dark-money #progressive #media-watchdog #democracy-alliance #Elon-Musk-lawsuit #infrastructure
@@ -173,3 +177,20 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/453568592) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4 |
+| Notice | 4 |
+| Agencies | Food and Drug Administration, Health and Human Services Department |
+
+**Recent regulatory activity:**
+- [Office of the Commissioner Reorganization; Statement of Organizations, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/2010/02/19/2010-3161/office-of-the-commissioner-reorganization-statement-of-organizations-functions-and-delegations-of) (2010-02-19) — Health and Human Services Department
+- [Office of the Commissioner Reorganization; Statement of Organizations, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/2009/08/18/E9-19680/office-of-the-commissioner-reorganization-statement-of-organizations-functions-and-delegations-of) (2009-08-18) — Health and Human Services Department
+- [Statement of Organization, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/1999/07/06/99-17019/statement-of-organization-functions-and-delegations-of-authority) (1999-07-06) — Health and Human Services Department
+- [Statement of Organization, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/1995/02/28/95-4796/statement-of-organization-functions-and-delegations-of-authority) (1995-02-28) — Health and Human Services Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Media%20Matters%22) (Tier 1)
+<!-- auto:federal-register end -->

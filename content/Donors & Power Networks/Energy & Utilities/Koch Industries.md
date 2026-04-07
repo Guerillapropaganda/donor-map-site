@@ -18,6 +18,10 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 top-federal-agency: "Department of Health and Human Services"
 top-naics-code: "541519"
+ein: 480834445
+annual-revenue: "$375K"
+net-assets: "$1.9M"
+tax-year: "2023"
 ---
 
 #koch-industries #energy #oil-gas #refining #lobbying #dark-money #deregulation #epa #climate #labor #class-analysis #follow-the-money #tcja #clean-power-plan
@@ -721,3 +725,18 @@ research-status:: developed → ready (2026-04-01) — Merged: KochPAC complete 
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Koch%20Industries) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $375K |
+| Total Contributions | $0 |
+| Program Service Revenue | $320K |
+| Investment Income | $54K |
+| Total Expenses | $290K |
+| Net Assets | $1.9M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 480834445](https://projects.propublica.org/nonprofits/organizations/480834445) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480834445_202312_990O_2025032023241115.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

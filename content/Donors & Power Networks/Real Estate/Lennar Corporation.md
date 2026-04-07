@@ -2,7 +2,7 @@
 title: "Lennar Corporation"
 type: corporation
 content-readiness: developed
-last-updated: 2026-03-31
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -15,6 +15,10 @@ issues:
   - "Housing"
   - "Immigration"
   - "Labor & Workers"
+ein: 560946914
+annual-revenue: "$4.0M"
+net-assets: "$22.6M"
+tax-year: "2023"
 ---
 
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
@@ -166,3 +170,19 @@ content-readiness:: developed
 | CALIFORNIA DEMOCRATIC PARTY | $10.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $4.0M |
+| Total Contributions | $0 |
+| Program Service Revenue | $3.7M |
+| Investment Income | $145K |
+| Total Expenses | $4.0M |
+| Net Assets | $22.6M |
+| Officer Compensation | $33K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 560946914](https://projects.propublica.org/nonprofits/organizations/560946914) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F560946914_202312_990O_2024061722525326.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

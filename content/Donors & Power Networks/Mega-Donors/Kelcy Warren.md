@@ -30,6 +30,10 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+ein: 367285069
+annual-revenue: "$8K"
+net-assets: "$94K"
+tax-year: "2015"
 ---
 
 #donor-node #mega-donor #fossil-fuel #pipeline #texas #republican #class-analysis #donor
@@ -242,3 +246,16 @@ research-status:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Kelcy%20Warren) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Financial Overview (990 Filing — 2015)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $8K |
+| Total Contributions | $0 |
+| Total Expenses | $7K |
+| Net Assets | $94K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 367285069](https://projects.propublica.org/nonprofits/organizations/367285069) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2016_06_PF%2F36-7285069_990PF_201512.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

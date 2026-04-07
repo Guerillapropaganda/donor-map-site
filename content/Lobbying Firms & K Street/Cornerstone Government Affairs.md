@@ -2,12 +2,34 @@
 title: "Cornerstone Government Affairs"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-31
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 annual-revenue: "$55.7M"
 lobbyist-count: 100
 revolving-door-pct: "43%"
+fara-status: "registrant"
+fara-records: 24
+fara-countries:
+  - "ALGERIA"
+  - "ANGOLA"
+  - "CYPRUS"
+  - "GREECE"
+  - "GUINEA"
+  - "INDIA"
+  - "IRAQ"
+  - "KOREA SOUTH"
+  - "LEBANON"
+  - "LIBERIA"
+  - "MOROCCO"
+  - "NIGERIA"
+  - "PANAMA"
+  - "QATAR"
+  - "SERBIA"
+  - "SOMALIA"
+  - "TAIWAN"
+  - "UNITED ARAB EMIRATES"
+  - "YEMEN"
 ---
 
 #lobbying #k-street #bipartisan #tech #defense #pharma #agriculture #finance
@@ -233,3 +255,29 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 ---
 
 content-readiness:: ready
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 24 |
+| Countries | ALGERIA, ANGOLA, CYPRUS, GREECE, GUINEA, INDIA, IRAQ, KOREA SOUTH, LEBANON, LIBERIA, MOROCCO, NIGERIA, PANAMA, QATAR, SERBIA, SOMALIA, TAIWAN, UNITED ARAB EMIRATES, YEMEN |
+| Foreign Principal Records | 21 |
+| Registrant Records | 3 |
+
+**Foreign principals:**
+- Embassy of the Federal Republic of Somalia (SOMALIA)
+- Taipei Economic and Cultural Representative Office in the United States (TAIWAN)
+- Dubai Aluimnium PDSC (UNITED ARAB EMIRATES)
+- Embassy of the State of Qatar (QATAR)
+- OCP S.A. (through OCP North America, Inc.) (MOROCCO)
+- Government of Nigeria (NIGERIA)
+- Republic of Guinea (GUINEA)
+- Republic of Angola (ANGOLA)
+- Embassy of the Republic of Korea (KOREA SOUTH)
+- Ministry of Foreign Affairs of Greece (GREECE)
+- ... and 10 more
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Cornerstone%20Government%20Affairs,) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

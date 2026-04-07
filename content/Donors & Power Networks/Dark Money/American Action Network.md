@@ -19,6 +19,16 @@ ein: 270730508
 annual-revenue: "$46.2M"
 net-assets: "$16.3M"
 tax-year: "2023"
+court-cases: 56
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Texas"
+  - "District Court, M.D. North Carolina"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, D. Delaware"
 ---
 
 #aan #dark-money #republican #501c4 #lobbying #healthcare #tax #class-analysis #follow-the-money #house-republicans #pharma #corporate-dark-money
@@ -224,3 +234,22 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 270730508](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F270730508_202306_990O_2024061822537807.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 56 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, District of Columbia, District Court, E.D. Texas, District Court, M.D. North Carolina, District Court, N.D. Illinois, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware |
+| Case Types | 11 Recovery of money/property - 542 turnover of property, 11 Recovery of money/property - 542 turnover of property; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 12 Recovery of money/property - 547 preference; 13 Recovery of money/property - 548 fraudulent transfer; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other, 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy) |
+
+**Notable cases:**
+- Perkins Coie LLP v. DOJ (2025) — Court of Appeals for the D.C. Circuit
+- FTX Recovery Trust v. Manifold Markets, Inc. (2024) — United States Bankruptcy Court, D. Delaware
+- FTX Recovery Trust v. Matthew Nass (2024) — United States Bankruptcy Court, D. Delaware
+- FTX Recovery Trust v. Prosperity Alliance, Inc. (2024) — United States Bankruptcy Court, D. Delaware
+- FTX Recovery Trust v. American Action Network, Inc. (2024) — United States Bankruptcy Court, D. Delaware
+- FTX Trading Ltd. - Adversary Proceeding (2024) — United States Bankruptcy Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Action%20Network%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -2,14 +2,14 @@
 title: "Invariant"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 annual-revenue: "$47.2M (2025) / $42.3M (2024)"
 lobbyist-count: 59
 revolving-door-pct: "54.2%"
 court-cases: 793
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"
   - "District Court, C.D. California"
@@ -20,6 +20,18 @@ court-jurisdictions:
   - "District Court, N.D. Georgia"
   - "District Court, S.D. New York"
   - "District Court, W.D. Texas"
+federal-register-mentions: 88
+regulatory-agencies:
+  - "Agricultural Marketing Service"
+  - "Agriculture Department"
+  - "Antitrust Division"
+  - "Census Bureau"
+  - "Commerce Department"
+  - "Copyright Royalty Board"
+  - "Federal Communications Commission"
+  - "Federal Housing Finance Agency"
+  - "Justice Department"
+  - "Labor Department"
 ---
 
 #lobbying #k-street #tech #defense #pharma-healthcare #finance #crypto #bipartisan-access
@@ -244,3 +256,25 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Invariant%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 88 |
+| Final Rules | 33 |
+| Proposed Rules | 23 |
+| Notices | 32 |
+| Agencies | Agricultural Marketing Service, Agriculture Department, Antitrust Division, Census Bureau, Commerce Department, Copyright Royalty Board, Federal Communications Commission, Federal Housing Finance Agency +6 more |
+
+**Recent regulatory activity:**
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2025/01/24/2025-01712/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (2025-01-24) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2024/09/16/2024-20965/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (2024-09-16) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Expeditionary Missions Consortium-Crane](https://www.federalregister.gov/documents/2024/09/12/2024-20744/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-expeditionary) (2024-09-12) — Justice Department
+- [Heat Injury and Illness Prevention in Outdoor and Indoor Work Settings](https://www.federalregister.gov/documents/2024/08/30/2024-14824/heat-injury-and-illness-prevention-in-outdoor-and-indoor-work-settings) (2024-08-30) — Labor Department
+- [Distribution of Cable Royalty Funds](https://www.federalregister.gov/documents/2024/06/28/2024-13597/distribution-of-cable-royalty-funds) (2024-06-28) — Library of Congress
+- [Transparency in Poultry Grower Contracting and Tournaments](https://www.federalregister.gov/documents/2023/11/28/2023-24922/transparency-in-poultry-grower-contracting-and-tournaments) (2023-11-28) — Agriculture Department ★
+- ... and 82 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Invariant%22) (Tier 1)
+<!-- auto:federal-register end -->

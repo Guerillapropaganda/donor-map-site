@@ -20,6 +20,8 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 top-federal-agency: "Department of the Interior"
 top-naics-code: "561599"
+lobbying-spend: 3410000
+lobbying-filings: 36
 ---
 
 
@@ -195,3 +197,22 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Lyft) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $3.4M |
+| Quarterly Filings | 36 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 5 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Automotive Industry, Budget/Appropriations, Consumer Issues/Safety/Products, Energy/Nuclear, Government Issues, Health Issues, Labor Issues/Antitrust/Workplace, Taxation/Internal Revenue Code, Transportation, Veterans
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ALPINE GROUP PARTNERS, LLC., FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), LYFT, THEGROUP DC, LLC
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Labor, Dept of (DOL), Natl Highway Traffic Safety Administration (NHTSA), SENATE, Transportation, Dept of (DOT), Veterans Affairs, Dept of (VA), White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Lyft) (Tier 1)
+<!-- auto:lda-lobbying end -->

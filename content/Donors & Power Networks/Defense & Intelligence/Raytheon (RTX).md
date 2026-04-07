@@ -2,7 +2,7 @@
 title: "Raytheon (RTX Corporation)"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -34,6 +34,8 @@ politicians-funded:
   - "Greg Gianforte"
 issues:
   - "Defense & Military"
+lei: "I07WOS4YJ0N7YRFE7309"
+lei-jurisdiction: "US-DE"
 ---
 
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #iran #golden-dome #missiles #saudi-arabia #yemen #ukraine #f-35 #patriot #pac #fraud #stinger #tomahawk
@@ -427,3 +429,18 @@ content-readiness:: developed
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [I07WOS4YJ0N7YRFE7309](https://search.gleif.org/#/record/I07WOS4YJ0N7YRFE7309) |
+| Legal Name | RTX CORPORATION |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-04-23T20:41:56Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

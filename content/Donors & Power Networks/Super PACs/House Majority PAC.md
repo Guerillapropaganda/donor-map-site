@@ -2,7 +2,7 @@
 title: "House Majority PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -21,6 +21,9 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "District Court, S.D. Indiana"
   - "District Court, S.D. New York"
+sec-filings: 1
+sec-form-types:
+  - "10-K"
 ---
 
 #donor-node #super-pac #democratic #house #leadership-pac #dark-money #house-majority-forward #donor
@@ -202,3 +205,17 @@ research-status:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22House%20Majority%20PAC%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1 |
+| Form Types | 10-K |
+
+**Notable filings:**
+
+- 2023-03-16 — **10-K**: 10-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22House%20Majority%20PAC%22) (Tier 1)
+<!-- auto:sec-edgar end -->

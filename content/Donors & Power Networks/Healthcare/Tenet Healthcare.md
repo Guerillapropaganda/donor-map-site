@@ -2,7 +2,7 @@
 title: "Tenet Healthcare"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -13,6 +13,8 @@ issues:
 federal-awards-total: 439929
 federal-contracts-count: 5
 federal-grants-count: 0
+lei: "0W9AIBT6U6ADJ2I8HK17"
+lei-jurisdiction: "US-NV"
 ---
 
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory
@@ -174,3 +176,18 @@ content-readiness:: developed
 
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Tenet%20Healthcare) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [0W9AIBT6U6ADJ2I8HK17](https://search.gleif.org/#/record/0W9AIBT6U6ADJ2I8HK17) |
+| Legal Name | Tenet Healthcare Corporation |
+| Jurisdiction | US-NV |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-08-04T15:31:49Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -22,6 +22,8 @@ bills-sponsored: 111
 bills-cosponsored: 220
 website: "https://www.cruz.senate.gov"
 phone: "202-224-5922"
+total-received: "$6,442,446"
+fec-candidate-id: "S2TX00312"
 ---
 
 
@@ -164,3 +166,37 @@ conte
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412573) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2030 |
+| Total Raised | $6,442,446 |
+| Individual Contributions | $2,884,169 |
+| PAC Contributions | $331,800 |
+| Cash on Hand | 2467065.72 |
+| IE Support (Super PAC) | $15,212,720 |
+| IE Opposition (Super PAC) | $20,745,612 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2030 | $6,442,446 | $2,884,169 | $331,800 |
+| 2024 | $107,113,866 | $49,732,003 | $1,567,451 |
+| 2018 | $45,668,718 | $18,803,870 | $1,512,582 |
+| 2012 | $15,098,279 | $9,700,522 | $1,399,665 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| TEXAS CONSERVATIVES FUND | $0 | $11,020,000 |
+| TRUTH AND COURAGE PAC | $6,598,631 | $0 |
+| TEXAS FOREVER | $0 | $4,600,814 |
+| SAVE OUR COUNTRY | $3,100,000 | $0 |
+| WINSENATE | $0 | $2,487,500 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1)
+<!-- auto:fec-politician end -->

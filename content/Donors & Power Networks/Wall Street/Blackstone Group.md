@@ -21,6 +21,9 @@ subawards-received-amount: 1009778941592127500
 lobbying-spend: 4450000
 lobbying-filings: 51
 federal-contracts: "622714"
+federal-awards-total: 0
+federal-contracts-count: 2
+federal-grants-count: 0
 ---
 
 #blackstone #private-equity #schwarzman #wall-street #carried-interest #real-estate #trump #republican #revolving-door #class-analysis #follow-the-money #housing #rental #tax-avoidance #sovereign-wealth #lobbying
@@ -368,3 +371,21 @@ content-readiness:: developed
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Blackstone%20Group&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 2 ($46K sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 1 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $29K | Department of Homeland Security | OFF CENTER HOUSING CHARLESTON, SC |
+| $17K | Department of Homeland Security | OFF CENTER HOUSING CHARLESTON, SC |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Blackstone%20Group) (Tier 1)
+<!-- auto:usaspending end -->

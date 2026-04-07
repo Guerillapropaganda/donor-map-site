@@ -2,7 +2,7 @@
 title: "Rick Scott Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,11 @@ top-donors:
 total-received: "$1,289,827"
 fec-candidate-id: "S8FL00273"
 stock-trades: 142
+govtrack-id: 412838
+bills-sponsored: 142
+bills-cosponsored: 331
+website: "https://www.rickscott.senate.gov"
+phone: "202-224-5274"
 ---
 
 
@@ -160,3 +165,22 @@ content-readiness:: ready
 
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 142 |
+| Bills Cosponsored | 331 |
+| Total Votes Cast | 3,093 |
+
+**Recent bills sponsored:**
+
+- S.Res. 647: A resolution designating March 21, 2026, as “National Osceola Turkey Day”. — *This simple resolution was agreed to on March 27, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 4229: A bill to require the Secretary of Veterans Affairs to establish a comprehensive standard for timing between referrals a — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4231: A bill to amend title 38, United States Code, to increase flexibility in the transferability of Post-9/11 Educational As — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Con.Res. 30: A concurrent resolution expressing the sense of Congress that the Ratepayer Protection Pledge announced on March 4, 2026 — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4184: Senior Citizens’ Freedom to Work Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412838) (Tier 1)
+<!-- auto:govtrack end -->

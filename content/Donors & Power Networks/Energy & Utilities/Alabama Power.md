@@ -20,6 +20,33 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "221122"
 ein: "881770844"
 nonprofit-status: "501(c)(3)"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "8-A12B"
+  - "8-K"
+  - "ARS"
+  - "CORRESP"
+  - "EX-10.12"
+  - "EX-10.13"
+  - "EX-10.2"
+  - "EX-10.3"
+  - "EX-19.B"
+  - "EX-21.A"
+  - "EX-23.1"
+  - "EX-24"
+  - "EX-24.1"
+  - "EX-24.B"
+  - "EX-24.B.1"
+  - "EX-3"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.B.2"
+  - "EX-FILING FEES"
+  - "PRE 14A"
+  - "S-3"
+  - "U-1"
 ---
 
 #utility-monopoly #southern-company #alabama-politics #regulatory-capture #dark-money
@@ -155,3 +182,21 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/881770844) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-Q, 8-A12B, 8-K, ARS, CORRESP, EX-10.12, EX-10.13 +17 more |
+
+**Notable filings:**
+
+- 2002-08-22 — **EX-10.13**: EX-10.13
+- 2002-08-22 — **EX-10.12**: EX-10.12
+- 2026-02-25 — **8-K**: 8-K
+- 2018-04-20 — **8-K**: 8-K
+- 2019-09-06 — **8-K**: 8-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Alabama%20Power%22) (Tier 1)
+<!-- auto:sec-edgar end -->

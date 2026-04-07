@@ -2,11 +2,24 @@
 title: "Telecom Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Individual Donor"
+court-cases: 479
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Fifth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Texas"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Texas"
+  - "District Court, W.D. Texas"
+  - "United States Bankruptcy Court, E.D. New York"
+lobbying-spend: 9020027
+lobbying-filings: 97
 ---
 
 #telecom #net-neutrality #spectrum #broadband #lobbying #fcc #bipartisan
@@ -47,3 +60,41 @@ content-readiness:: ready
 | NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $25.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 479 |
+| Courts | Court of Appeals for the Fifth Circuit, District Court, C.D. California, District Court, E.D. California, District Court, E.D. Texas, District Court, N.D. California, District Court, N.D. Texas, District Court, W.D. Texas, United States Bankruptcy Court, E.D. New York |
+| Case Types | 360 Torts/Pers Inj: Other Personal Injury, 410 Anti-Trust, 440 Civil Rights: Other, 830 Patent, 840 Trademark |
+
+**Notable cases:**
+- In Re: Nexstar-TEGNA Merger Litigation (2026) — District Court, E.D. California
+- Netwk Comm Intl v. FCC (2025) — Court of Appeals for the Fifth Circuit
+- USTelecom - The Broadband Association v. Reynolds (2025) — District Court, N.D. California
+- HEADWATER RESEARCH LLC v. Google LLC (2025) — District Court, W.D. Texas
+- Broadband Telecom, Inc. (2025) — United States Bankruptcy Court, E.D. New York
+- Lumen21, Inc. v. CenturyLink Communications, LLC (2025) — District Court, C.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Telecom%20Industry%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $9.0M |
+| Quarterly Filings | 97 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 32 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Banking, Budget/Appropriations, Communications/Broadcasting/Radio/TV, Computer Industry, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Foreign Relations, Indian/Native American Affairs, Insurance, Intelligence, Real Estate/Land Use/Conservation, Retirement, Small Business, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Urban Development/Municipalities
+
+**Lobbying firms:** ACG ADVOCACY, BEST BEST & KRIEGER LLP, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL COUNSEL LLC, CARMEN GROUP INCORPORATED, COMTECH TELECOMMUNICATIONS CORP., CR FEDERAL, DAVID RUDD & ASSOCIATES LLC, EMPIRE CONSULTING GROUP, FARRAGUT PARTNERS LLP, FIERCE GOVERNMENT RELATIONS, FORBES-TATE, GUIDEPOSTSTRATEGIES, LLC, KELSAY STRATEGIES LLC, MERCURY PUBLIC AFFAIRS, LLC, NATIONAL ASSOCIATION OF TELECOMMUNICATIONS OFFICERS AND ADVISORS, NATIONAL TELECOMMUNICATIONS COOPERATIVE ASSOCIATION, OXFORD STRATEGIES LLC-MD, PENN AVENUE PARTNERS, POLARIS GOVERNMENT RELATIONS, LLC, RIDGE PATH STRATEGIES, SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION, SC, SYNCHRONICITY STRATEGIES LLC, TDS TELECOMMUNICATIONS CORPORATION, TELECOMMUNICATIONS INDUSTRY ASSOCIATION, TELEMEDIA POLICY CORP., THE HOBBS GROUP, LLC, THE JOSEPH GROUP, LLC, UNITED STATES TELECOM ASSN, VITELLO CONSULTING, WILEY REIN LLP, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Interior, Dept of (DOI), Natl Security Council (NSC), Natl Telecommunications & Information Administration (NTIA), Office of Management & Budget (OMB), SENATE +2 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Telecom%20Industry) (Tier 1)
+<!-- auto:lda-lobbying end -->

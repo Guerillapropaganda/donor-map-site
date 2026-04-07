@@ -2,13 +2,17 @@
 title: "Sam Bankman-Fried"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 issues:
   - "Technology"
+total-political-spend: "$45,943,261"
+politicians-funded:
+  - "Joe Biden"
+  - "Debbie Stabenow"
 ---
 
 #sbf #ftx #crypto #fraud #democratic-donor #bipartisan #effective-altruism
@@ -66,3 +70,28 @@ content-readiness:: ready
 | FF PAC | $5.0M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $45,943,261 |
+| Contributions | 276 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| PROTECT OUR FUTURE PAC | $27,000,000 | — |
+| HOUSE MAJORITY PAC | $6,000,000 | — |
+| FF PAC | $5,000,000 | — |
+| GMI PAC, INC. | $2,000,000 | — |
+| AMERICA UNITED | $1,300,000 | — |
+| SMP | $1,000,000 | — |
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $865,000 | DEM |
+| DEMOCRATIC GRASSROOTS VICTORY FUND | $400,000 | — |
+| VOTE TRIPLING PAC | $350,000 | — |
+| OPPORTUNITY FOR TOMORROW | $300,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sam%20Bankman-Fried) (Tier 1)
+<!-- auto:fec-donor end -->

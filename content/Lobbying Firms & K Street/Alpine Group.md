@@ -2,12 +2,17 @@
 title: "Alpine Group"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 annual-revenue: "$19.7M"
 lobbyist-count: 18
 revolving-door-pct: "72.2%"
+ein: "830411414"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 316336
+total-assets: 148627
 ---
 
 #lobbying #k-street #tax-policy #energy #defense #appropriations #tech #pharma #revolving-door #bipartisan-access
@@ -299,3 +304,28 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 - [CNBC: Netherlands expands export curbs on advanced chip tools (Sep 2024)](https://www.cnbc.com/2024/09/06/netherlands-expands-export-curbs-on-advanced-chip-tools.html) (Tier 2)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 830411414 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $316K |
+| Total Assets | $149K |
+| NTEE Code | C32 |
+| IRS Ruling Date | 2006-04-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/830411414) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,13 +2,20 @@
 title: "Gun Owners of America"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+federal-register-mentions: 4
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+  - "Interior Department"
+  - "Justice Department"
+  - "Treasury Department"
 ---
 
 #gun-owners-of-america #GOA #hardline-gun-rights #NRA-alternative #dark-money #second-amendment #Republican-donor
@@ -147,3 +154,21 @@ content-readiness:: ready
 | STEVE DAINES FOR MONTANA | $25.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4 |
+| Rule | 2 |
+| Notice | 2 |
+| Agencies | Alcohol, Tobacco, Firearms, and Explosives Bureau, Interior Department, Justice Department, Treasury Department |
+
+**Recent regulatory activity:**
+- [Factoring Criteria for Firearms With Attached “Stabilizing Braces”](https://www.federalregister.gov/documents/2023/01/31/2023-01001/factoring-criteria-for-firearms-with-attached-stabilizing-braces) (2023-01-31) — Justice Department ★
+- [Implementation of Public Law 103-159, Relating to the Permanent Provisions of the Brady Handgun Violence Prevention Act](https://www.federalregister.gov/documents/1998/10/29/98-28986/implementation-of-public-law-103-159-relating-to-the-permanent-provisions-of-the-brady-handgun) (1998-10-29) — Treasury Department ★
+- [Reestablishment of Visitor Restrictions for Designated Recreation Sites, Special Recreation Management Areas, and Other Public Land in the Roswell District, NM](https://www.federalregister.gov/documents/1995/12/07/95-29852/reestablishment-of-visitor-restrictions-for-designated-recreation-sites-special-recreation) (1995-12-07) — Interior Department
+- [Establishment of Visitor Restrictions for Designated Recreation Sites, Special Recreation Management Areas, and Other Public Land in the Roswell District, New Mexico](https://www.federalregister.gov/documents/1995/05/10/95-11475/establishment-of-visitor-restrictions-for-designated-recreation-sites-special-recreation-management) (1995-05-10) — Interior Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Gun%20Owners%20of%20America%22) (Tier 1)
+<!-- auto:federal-register end -->

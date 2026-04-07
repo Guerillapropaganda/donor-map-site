@@ -2,7 +2,7 @@
 title: "National Restaurant Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
@@ -19,6 +19,30 @@ regulatory-agencies:
   - "National Labor Relations Board"
   - "Securities and Exchange Commission"
   - "Wage and Hour Division"
+sec-filings: 2422
+sec-form-types:
+  - "10-K"
+  - "144"
+  - "4"
+  - "425"
+  - "6-K"
+  - "8-K"
+  - "CORRESP"
+  - "COVER"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-1"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "EX-99.A"
+  - "LETTER"
+  - "PX14A6G"
+ein: 361525480
+annual-revenue: "$112.6M"
+net-assets: "$206.9M"
+tax-year: "2023"
 ---
 
 #nra-restaurants #food #labor #minimum-wage #tipped-workers #lobbying
@@ -98,3 +122,38 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Restaurant%20Association%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 2,422 |
+| Form Types | 10-K, 144, 4, 425, 6-K, 8-K, CORRESP, COVER +10 more |
+| CIK | 109380 |
+| Ticker | ZION |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Restaurant%20Association%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $112.6M |
+| Total Contributions | $5.0M |
+| Program Service Revenue | $4.5M |
+| Investment Income | $4.4M |
+| Total Expenses | $116.7M |
+| Net Assets | $206.9M |
+| Officer Compensation | $12.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 361525480](https://projects.propublica.org/nonprofits/organizations/361525480) (Tier 1)
+<!-- auto:propublica-990 end -->

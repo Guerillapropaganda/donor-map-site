@@ -2,7 +2,7 @@
 title: "California Labor Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -17,6 +17,14 @@ annual-revenue: "$10.3M"
 net-assets: "$19.5M"
 tax-year: "2023"
 total-political-spend: "$1,740,356"
+federal-register-mentions: 3
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Federal Motor Carrier Safety Administration"
+  - "Federal Railroad Administration"
+  - "Labor Department"
+  - "Occupational Safety and Health Administration"
+  - "Transportation Department"
 ---
 
 
@@ -150,3 +158,20 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Labor%20Federation) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 3 |
+| Rule | 1 |
+| Notice | 2 |
+| Agencies | Federal Motor Carrier Safety Administration, Federal Railroad Administration, Labor Department, Occupational Safety and Health Administration, Transportation Department |
+
+**Recent regulatory activity:**
+- [Train Crew Size Safety Requirements](https://www.federalregister.gov/documents/2024/04/09/2024-06625/train-crew-size-safety-requirements) (2024-04-09) — Transportation Department ★
+- [National Environmental Policy Act Implementing Procedures](https://www.federalregister.gov/documents/2004/03/01/04-4338/national-environmental-policy-act-implementing-procedures) (2004-03-01) — Transportation Department
+- [Supplement to California State Plan; Approval](https://www.federalregister.gov/documents/1997/06/06/97-14723/supplement-to-california-state-plan-approval) (1997-06-06) — Labor Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Labor%20Federation%22) (Tier 1)
+<!-- auto:federal-register end -->

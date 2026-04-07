@@ -2,7 +2,7 @@
 title: "Western Growers Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -11,13 +11,13 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Immigration"
-ein: 751972150
+ein: "751972150"
 annual-revenue: "$236K"
 net-assets: "$849K"
 tax-year: "2023"
 total-political-spend: "$481,034"
 court-cases: 44
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"
   - "Court of Appeals for the Second Circuit"
@@ -25,6 +25,9 @@ court-jurisdictions:
   - "District Court, E.D. California"
   - "District Court, S.D. California"
   - "District Court, W.D. New York"
+nonprofit-status: "501(c)(6)"
+total-revenue: 265773
+total-assets: 703358
 ---
 
 
@@ -144,3 +147,27 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Western%20Growers%20Association%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 751972150 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $266K |
+| Total Assets | $703K |
+| IRS Ruling Date | 1989-05-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/751972150) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -11,6 +11,25 @@ issues:
   - "Labor & Workers"
 lei: "549300R2IOM7D1Y4JN81"
 lei-jurisdiction: "US-DE"
+sec-filings: 3742
+sec-form-types:
+  - "10-K"
+  - "13F-HR"
+  - "13F-HR/A"
+  - "144"
+  - "4"
+  - "8-K/A"
+  - "EX-5.2"
+  - "EX-99"
+  - "EX-99.77O RULE 10F-3"
+  - "FWP"
+  - "INFORMATION TABLE"
+  - "N-PX"
+  - "NPORT-P"
+  - "PROXY VOTING RECORD"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SCHEDULE 13G/A"
 ---
 
 #mcdonalds #fast-food #minimum-wage #franchise #labor #fight-for-15 #lobbying
@@ -80,3 +99,23 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 3,742 |
+| Form Types | 10-K, 13F-HR, 13F-HR/A, 144, 4, 8-K/A, EX-5.2, EX-99 +9 more |
+| CIK | 63908 |
+| Ticker | MCD |
+
+**Notable filings:**
+
+- 2026-04-02 — **8-K/A**: [FORM 8-K/A](https://www.sec.gov/Archives/edgar/data/63908/000006390826000042/0000063908-26-000042-index.htm)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/63908/000010290926001729/0000102909-26-001729-index.htm)
+- 2026-03-24 — **4**: [JOE ERLINGER - FORM 4 (MARCH 23, 2026)](https://www.sec.gov/Archives/edgar/data/63908/000168580026000007/0001685800-26-000007-index.htm)
+- 2026-03-23 — **144**: [144](https://www.sec.gov/Archives/edgar/data/63908/000195004726002912/0001950047-26-002912-index.htm)
+- 2026-03-19 — **4**: [DARIO BARONI - FORM 4 (MARCH 18, 2026)](https://www.sec.gov/Archives/edgar/data/63908/000207699826000003/0002076998-26-000003-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22McDonalds%20Corporation%22) (Tier 1)
+<!-- auto:sec-edgar end -->

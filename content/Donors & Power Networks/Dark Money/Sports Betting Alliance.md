@@ -10,10 +10,14 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$766,000"
-ein: 874117395
+ein: "874117395"
 annual-revenue: "$13.4M"
 net-assets: "$5.8M"
 tax-year: "2023"
+nonprofit-status: "501(c)(6)"
+last-enriched: "2026-04-07"
+total-revenue: 31556683
+total-assets: 15423689
 ---
 
 #sports-betting #dark-money #draftkings-fanduel #gambling-expansion #lobbying
@@ -81,3 +85,24 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 
 - [Source: ProPublica Nonprofit Explorer — EIN 874117395](https://projects.propublica.org/nonprofits/organizations/874117395) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 874117395 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $31.6M |
+| Total Assets | $15.4M |
+| NTEE Code | W01 |
+| IRS Ruling Date | 2022-08-01 |
+| Filings on Record | 2 |
+
+**Filing history:** 2023, 2022
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2022)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/874117395) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@
 title: "Eli Lilly"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -15,6 +15,8 @@ court-jurisdictions:
   - "District Court, E.D. Pennsylvania"
 lobbying-spend: 7030293
 lobbying-filings: 104
+lei: "549300E3ZXGJ1J5DKJ05"
+lei-jurisdiction: "CH"
 ---
 
 #donor-node #lilly #pharma #insulin #drug-pricing #indiana #diabetes #weight-loss #glp1 #lobbying #class-analysis #follow-the-money
@@ -233,3 +235,18 @@ content-readiness:: developed
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Eli%20Lilly) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300E3ZXGJ1J5DKJ05](https://search.gleif.org/#/record/549300E3ZXGJ1J5DKJ05) |
+| Legal Name | Eli Lilly SA |
+| Jurisdiction | CH |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-07-02T15:45:20Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

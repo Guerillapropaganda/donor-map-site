@@ -56,6 +56,20 @@ nhtsa-complaints: 0
 last-enriched: "2026-04-07"
 lei: "WPTL2Z3FIYTHSP5V2253"
 lei-jurisdiction: "US-DE"
+court-cases: 4295
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, D. Alaska"
+  - "District Court, District of Columbia"
+  - "District Court, M.D. Louisiana"
+  - "District Court, S.D. Indiana"
+  - "District Court, S.D. Texas"
+  - "District Court, W.D. Oklahoma"
+  - "United States Court of International Trade"
+lobbying-spend: 17930000
+lobbying-filings: 39
 ---
 
 #conocophillips #oil-gas #energy #alaska #willow #lobbying #revolving-door #cheney-energy-task-force
@@ -289,3 +303,41 @@ content-readiness:: developed
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 4,295 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the Third Circuit, District Court, D. Alaska, District Court, District of Columbia, District Court, M.D. Louisiana, District Court, S.D. Indiana, District Court, S.D. Texas +2 more |
+| Case Types | 190 Contract: Other, 360 P.I.: Other, 440 Civil Rights: Other, 893 Environmental Matters, 899 Administrative Procedure Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- MIDWEST RENEWABLE ENERGY ASSOCIATION v. VELETA (2026) — District Court, S.D. Indiana
+- NUIQSUT TRILATERAL, INC. v. BURGUM (2026) — District Court, D. Alaska
+- GRANDMOTHERS GROWING GOODNESS v. BURGUM (2026) — District Court, D. Alaska
+- Atmus Filtration, Inc. v. United States (2026) — United States Court of International Trade
+- Stephenson v. East Binger Unit (2026) — District Court, W.D. Oklahoma
+- American Public Health Association v. EPA (2026) — Court of Appeals for the D.C. Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ConocoPhillips%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $17.9M |
+| Quarterly Filings | 39 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Clean Air and Water (quality), Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Natural Resources, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** BLUEWATER STRATEGIES, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CONOCOPHILLIPS, GREENBERG TRAURIG, LLP, S-3 GROUP, TAUZIN STRATEGIC NETWORKS, THE BERNHARDT GROUP LLC
+
+**Agencies contacted:** Commerce, Dept of (DOC), Congressional Budget Office (CBO), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Energy Regulatory Commission (FERC), HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), Natl Security Council (NSC), Nuclear Regulatory Commission (NRC) +6 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=ConocoPhillips) (Tier 1)
+<!-- auto:lda-lobbying end -->

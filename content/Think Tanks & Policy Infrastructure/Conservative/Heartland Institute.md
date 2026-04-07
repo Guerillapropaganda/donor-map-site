@@ -2,11 +2,16 @@
 title: "Heartland Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
+ein: "363309812"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 3350282
+total-assets: 1074871
 ---
 
 #think-tank #conservative #climate-denial #tobacco #fossil-fuel #NIPCC #model-legislation #state-policy #class-analysis
@@ -213,3 +218,28 @@ The Heartland Institute is the most transparent case study in the vault of how t
 - [DeSmog: Mapped — Pro-Trump Heartland Institute's European Network (Dec 10, 2025)](https://www.desmog.com/2025/12/10/mapped-donald-trump-heartland-institute-european-network/) (Tier 2)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 363309812 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $3.4M |
+| Total Assets | $1.1M |
+| NTEE Code | W20G |
+| IRS Ruling Date | 1984-12-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363309812) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@
 title: "Trump Victory"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -11,6 +11,18 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
+sec-filings: 243
+sec-form-types:
+  - "10-K"
+  - "425"
+  - "EX-99"
+  - "EX-99.1"
+  - "FWP"
+  - "N-30B-2"
+  - "N-CSR"
+  - "N-CSR/A"
+  - "N-CSRS"
+  - "PX14A6G"
 ---
 
 
@@ -195,3 +207,21 @@ content-readiness:: ready
 | ALASKA REPUBLICAN PARTY | $4.1M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 243 |
+| Form Types | 10-K, 425, EX-99, EX-99.1, FWP, N-30B-2, N-CSR, N-CSR/A +2 more |
+
+**Notable filings:**
+
+- 2016-11-09 — **FWP**: MARKET UPDATE GOLD BREACHES US$1,300/OZ ON TRUMP VICTORY
+- 2024-11-08 — **PX14A6G**: NATIONAL LEGAL AND POLICY CENTER - PX14A6G
+- 2016-12-21 — **EX-99.1**: EXHIBIT 99.1 FOURTH QUARTER REPORT 2016 TO SHAREHOLDERS
+- 2025-03-11 — **N-CSR**: N-CSR
+- 2016-11-09 — **425**: 425
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%20Victory%22) (Tier 1)
+<!-- auto:sec-edgar end -->

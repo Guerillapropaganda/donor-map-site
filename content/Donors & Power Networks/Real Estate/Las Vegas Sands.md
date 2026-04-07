@@ -12,6 +12,8 @@ subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
 federal-contracts: "7149"
+lei: "549300DUOO1KXOHPM605"
+lei-jurisdiction: "US-NV"
 ---
 
 #sheldon-adelson #casino #megadonor #republican #single-family-donor
@@ -113,3 +115,18 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Las%20Vegas%20Sands&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300DUOO1KXOHPM605](https://search.gleif.org/#/record/549300DUOO1KXOHPM605) |
+| Legal Name | LAS VEGAS SANDS CORP. |
+| Jurisdiction | US-NV |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-08-29T16:42:27Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -2,7 +2,7 @@
 title: "Harlan Crow"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,6 +12,19 @@ politicians-funded:
 issues:
   - "Housing"
 federal-contracts: "6189"
+court-cases: 35
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the Fourth Circuit"
+  - "District Court, D. Massachusetts"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, S.D. New York"
+  - "District Court, Virgin Islands"
+  - "District Court, W.D. Texas"
+  - "United States Bankruptcy Court, N.D. Texas"
+lei: "549300VL0GY0XCBOIK44"
+lei-jurisdiction: "US-DE"
 ---
 
 
@@ -174,3 +187,37 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 35 |
+| Courts | Court of Appeals for the Fourth Circuit, District Court, D. Massachusetts, District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, S.D. New York, District Court, Virgin Islands, District Court, W.D. Texas, United States Bankruptcy Court, N.D. Texas |
+| Case Types | 12 Recovery of money/property - 547 preference, 3890 Other Statutory Actions, 440 Civil Rights: Other, 820 Copyright, 890 Other Statutory Actions |
+
+**Notable cases:**
+- Michael Jackson v. Thomson Reuters America Corporation (2025) — Court of Appeals for the Fourth Circuit
+- Michael Jackson v. Whitepages, Inc. (2025) — Court of Appeals for the Fourth Circuit
+- Merit Street Media, Inc. v. Trinity Broadcasting of Texas Inc. (2025) — United States Bankruptcy Court, N.D. Texas
+- SMITH v. FLORES (2025) — District Court, District of Columbia
+- American Association of University Professors v. Rubio (2025) — District Court, D. Massachusetts
+- J.G.G. v. TRUMP (2025) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Harlan%20Crow%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300VL0GY0XCBOIK44](https://search.gleif.org/#/record/549300VL0GY0XCBOIK44) |
+| Legal Name | HARLAN R. CROW FAMILY BRANCH PARTNERSHIP, L.P. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-08-04T17:27:34Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

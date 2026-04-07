@@ -2,12 +2,17 @@
 title: "Prime Policy Group"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 annual-revenue: "$4.1M"
 lobbyist-count: 16
 revolving-door-pct: "56.3%"
+sec-filings: 18
+sec-form-types:
+  - "20-F"
+  - "EX-2"
+  - "EX-8.1"
 ---
 
 #lobbying #k-street #defense #foreign-policy #energy #healthcare #bipartisan #republican-establishment #dictators
@@ -242,3 +247,21 @@ The WPP ownership structure serves a specific function: it insulates the firm fr
 - [ACCF: Former Congressman Tom Reed (R-NY) Joins ACCF Board of Advisors](https://accf.org/former-congressman-tom-reed-r-ny-joins-accf-board-of-advisors/) (Tier 3)
 
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 18 |
+| Form Types | 20-F, EX-2, EX-8.1 |
+
+**Notable filings:**
+
+- 2026-03-19 — **EX-8.1**: EX-8.1
+- 2025-03-28 — **EX-8.1**: EX-8.1
+- 2025-07-25 — **EX-8.1**: EX-8.1
+- 2024-03-21 — **EX-8.1**: EX-8.1
+- 2023-03-23 — **EX-8.1**: EX-8.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Prime%20Policy%20Group%22) (Tier 1)
+<!-- auto:sec-edgar end -->

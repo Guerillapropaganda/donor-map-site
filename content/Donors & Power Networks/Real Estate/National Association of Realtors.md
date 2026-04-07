@@ -2,7 +2,7 @@
 title: "National Association of Realtors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -36,9 +36,13 @@ sec-form-types:
   - "SC TO-T"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 lei: "549300HH1QGPI9FI1510"
 lei-jurisdiction: "US-IL"
+ein: "361520690"
+nonprofit-status: "501(c)(6)"
+total-revenue: 839996863
+total-assets: 1078254728
 ---
 
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door
@@ -458,3 +462,27 @@ content-readiness:: developed
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 361520690 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $840.0M |
+| Total Assets | $1.08B |
+| IRS Ruling Date | 1934-12-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/361520690) (Tier 1)
+<!-- auto:nonprofit-990 end -->

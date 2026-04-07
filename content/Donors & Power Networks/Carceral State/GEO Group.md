@@ -15,7 +15,7 @@ politicians-funded:
   - "Pam Bondi"
 federal-contracts: "959292"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 ofac-programs:
   - "NPWMD] [IFSR"
   - "IRAN-EO13871"
@@ -26,6 +26,8 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #donor #private-prison #immigration-detention #GEO-group #ICE #for-profit-detention #republican-donor #trump #class-analysis #follow-the-money #revolving-door #carceral-state #detention-expansion #ankle-monitor #bi-incorporated #electronic-monitoring #e-carceration #pam-bondi #sedition-caucus #forced-labor #racial-disparity
@@ -645,3 +647,21 @@ research-status:: developed — Complete 2025 financials ($2.63B revenue, $254.4
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

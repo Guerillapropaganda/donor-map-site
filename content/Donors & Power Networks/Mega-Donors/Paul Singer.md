@@ -20,6 +20,18 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 227044787
 total-assets: 172417068
+court-cases: 155
+court-jurisdictions:
+  - "Court of Appeals for the Fifth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. South Carolina"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, S.D. Illinois"
+  - "District Court, W.D. Texas"
+  - "United States Bankruptcy Court, M.D. Florida"
 ---
 
 
@@ -176,3 +188,22 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/272009342) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 155 |
+| Courts | Court of Appeals for the Fifth Circuit, District Court, C.D. California, District Court, D. Massachusetts, District Court, D. South Carolina, District Court, District of Columbia, District Court, E.D. California, District Court, E.D. Pennsylvania, District Court, S.D. Illinois +6 more |
+| Case Types | 3470 RICO, 365 Personal Inj. Prod. Liability, 440 Civil Rights: Other, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Civil Rights: Other |
+
+**Notable cases:**
+- In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
+- Star Island Vacation Ownership Association, Inc. (2025) — United States Bankruptcy Court, M.D. Florida
+- Adams-Young v. 3M Company (2025) — District Court, D. South Carolina
+- Point Bridge Capital v. Johnson (2025) — Court of Appeals for the Fifth Circuit
+- Singer v. Waters Esq (2025) — District Court, E.D. California
+- Paul Singer (2025) — United States Bankruptcy Court, W.D. Pennsylvania
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Paul%20Singer%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

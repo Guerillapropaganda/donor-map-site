@@ -15,6 +15,10 @@ federal-grants-count: 1
 lei: "96760004Q9TBK1DS6T62"
 lei-jurisdiction: "BE"
 lei-parent: "E. Merck KG"
+ein: 226028476
+annual-revenue: "$17.3M"
+net-assets: "$316.2M"
+tax-year: "2023"
 ---
 
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation
@@ -122,3 +126,16 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $17.3M |
+| Total Contributions | $0 |
+| Total Expenses | $26.1M |
+| Net Assets | $316.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 226028476](https://projects.propublica.org/nonprofits/organizations/226028476) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F226028476_202312_990PF_2025010222973787.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

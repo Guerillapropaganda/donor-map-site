@@ -28,6 +28,10 @@ court-jurisdictions:
   - "District Court, E.D. Missouri"
   - "District Court, E.D. North Carolina"
   - "District Court, M.D. Florida"
+ein: 208802884
+annual-revenue: "$60.7M"
+net-assets: "$23.2M"
+tax-year: "2023"
 ---
 
 
@@ -177,3 +181,18 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Everytown%20for%20Gun%20Safety%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $60.7M |
+| Total Contributions | $58.8M |
+| Program Service Revenue | $598K |
+| Investment Income | $749K |
+| Total Expenses | $55.3M |
+| Net Assets | $23.2M |
+| Officer Compensation | $262K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 208802884](https://projects.propublica.org/nonprofits/organizations/208802884) (Tier 1)
+<!-- auto:propublica-990 end -->

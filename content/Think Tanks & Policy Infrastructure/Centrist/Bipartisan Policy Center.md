@@ -2,11 +2,24 @@
 title: "Bipartisan Policy Center"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
+federal-register-mentions: 27
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Centers for Medicare & Medicaid Services"
+  - "Children and Families Administration"
+  - "Commodity Futures Trading Commission"
+  - "Education Department"
+  - "Employment and Training Administration"
+  - "Energy Department"
+  - "Federal Energy Regulatory Commission"
+  - "Health and Human Services Department"
+  - "Homeland Security Department"
+  - "Labor Department"
 ---
 
 #think-tank #centrist #bipartisan #energy #healthcare #housing #immigration #governance #class-analysis
@@ -218,3 +231,25 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 - [Responsible Statecraft: Weapons makers, foreign states lavish $32 million on US think tanks (includes BPC data)](https://responsiblestatecraft.org/think-tank-funding-tracker/) (Tier 2)
 
 content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 27 |
+| Final Rules | 13 |
+| Proposed Rules | 9 |
+| Notices | 5 |
+| Agencies | Centers for Medicare & Medicaid Services, Children and Families Administration, Commodity Futures Trading Commission, Education Department, Employment and Training Administration, Energy Department, Federal Energy Regulatory Commission, Health and Human Services Department +6 more |
+
+**Recent regulatory activity:**
+- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (2026-03-27) — Labor Department
+- [Committee and Quarterly Board Meetings](https://www.federalregister.gov/documents/2026/02/09/2026-02515/committee-and-quarterly-board-meetings) (2026-02-09) — Education Department
+- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (2025-12-29) — Homeland Security Department ★
+- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/09/24/2025-18473/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (2025-09-24) — Homeland Security Department ★
+- [Commission Guidance Regarding the Listing of Voluntary Carbon Credit Derivative Contracts](https://www.federalregister.gov/documents/2024/10/15/2024-23105/commission-guidance-regarding-the-listing-of-voluntary-carbon-credit-derivative-contracts) (2024-10-15) — Commodity Futures Trading Commission
+- [Supporting the Head Start Workforce and Consistent Quality Programming](https://www.federalregister.gov/documents/2024/08/21/2024-18279/supporting-the-head-start-workforce-and-consistent-quality-programming) (2024-08-21) — Health and Human Services Department
+- ... and 21 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Bipartisan%20Policy%20Center%22) (Tier 1)
+<!-- auto:federal-register end -->
