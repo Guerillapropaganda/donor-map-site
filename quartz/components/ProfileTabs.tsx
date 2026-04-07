@@ -13,6 +13,13 @@ ProfileTabs.afterDOMLoaded = `
     { id: 'analysis', label: 'Analysis' },
     { id: 'sources', label: 'Sources' }
   ];
+  var PRESIDENTIAL_TABS = [
+    { id: 'overview', label: 'Overview' },
+    { id: 'donors', label: 'Donors' },
+    { id: 'executive', label: 'Executive Orders' },
+    { id: 'analysis', label: 'Analysis' },
+    { id: 'sources', label: 'Sources' }
+  ];
   var DONOR_TABS = [
     { id: 'overview', label: 'Overview' },
     { id: 'recipients', label: 'Recipients' },
@@ -28,12 +35,22 @@ ProfileTabs.afterDOMLoaded = `
     return ph ? ph.getAttribute('data-profile-type') : null;
   }
 
+  function isPresidential() {
+    var bc = document.querySelector('.breadcrumb-container, nav.breadcrumbs');
+    if (bc && bc.textContent && bc.textContent.indexOf('Presidential') !== -1) return true;
+    if (bc && bc.textContent && bc.textContent.indexOf('Cabinet') !== -1) return false;
+    var slug = window.location.pathname.toLowerCase();
+    return slug.indexOf('/presidential/') !== -1;
+  }
+
   function isProfilePage() {
     return getProfileType() !== null;
   }
 
   function getTabs() {
-    return getProfileType() === 'donor' ? DONOR_TABS : POLITICIAN_TABS;
+    if (getProfileType() === 'donor') return DONOR_TABS;
+    if (isPresidential()) return PRESIDENTIAL_TABS;
+    return POLITICIAN_TABS;
   }
 
   function isMobileViewport() {
@@ -59,10 +76,13 @@ ProfileTabs.afterDOMLoaded = `
     var tabs = getTabs();
 
     // Count cards per tab
+    var isPres = isPresidential();
     var cardsByTab = {};
     tabs.forEach(function(t) { cardsByTab[t.id] = []; });
     cards.forEach(function(card) {
       var tab = card.dataset.tab || 'overview';
+      // Remap voting → executive for presidential profiles
+      if (isPres && tab === 'voting') tab = 'executive';
       if (!cardsByTab[tab]) cardsByTab[tab] = [];
       cardsByTab[tab].push(card);
     });
@@ -83,11 +103,14 @@ ProfileTabs.afterDOMLoaded = `
       var isEmpty = count === 0;
       if (isEmpty) {
         btn.classList.add('profile-tab-empty');
-        btn.setAttribute('aria-disabled', 'true');
-        btn.title = 'No ' + tabDef.label.toLowerCase() + ' data yet for this profile';
+        // Create a placeholder card for empty tabs
+        var placeholder = document.createElement('div');
+        placeholder.className = 'profile-section-card profile-tab-placeholder';
+        placeholder.dataset.tab = tabDef.id;
+        placeholder.innerHTML = '<div class="profile-tab-empty-msg">' + tabDef.label + ' data not yet available for this profile.</div>';
+        cardsByTab[tabDef.id] = [placeholder];
       }
       btn.addEventListener('click', function() {
-        if (isEmpty) return;
         activateTab(tabDef.id);
       });
       nav.appendChild(btn);
@@ -100,6 +123,18 @@ ProfileTabs.afterDOMLoaded = `
     } else {
       article.appendChild(nav);
     }
+
+    // Append placeholder cards for empty tabs
+    var allPlaceholders = article.querySelectorAll('.profile-tab-placeholder');
+    allPlaceholders.forEach(function(el) { el.remove(); });
+    tabs.forEach(function(tabDef) {
+      var items = cardsByTab[tabDef.id] || [];
+      items.forEach(function(item) {
+        if (item.classList && item.classList.contains('profile-tab-placeholder')) {
+          article.appendChild(item);
+        }
+      });
+    });
 
     article.dataset.profileTabsBuilt = 'true';
 
@@ -138,9 +173,12 @@ ProfileTabs.afterDOMLoaded = `
     });
 
     // Show/hide cards
+    var isPres = isPresidential();
     var cards = article.querySelectorAll('.profile-section-card');
     cards.forEach(function(card) {
-      if ((card.dataset.tab || 'overview') === tabId) {
+      var cardTab = card.dataset.tab || 'overview';
+      if (isPres && cardTab === 'voting') cardTab = 'executive';
+      if (cardTab === tabId) {
         card.classList.remove('profile-tab-hidden');
       } else {
         card.classList.add('profile-tab-hidden');
@@ -219,11 +257,20 @@ nav.profile-tabs {
 }
 .profile-tab-btn.profile-tab-empty {
   color: #7a7a86;
-  cursor: not-allowed;
+  cursor: pointer;
 }
 .profile-tab-btn.profile-tab-empty:hover {
+  color: #9a9aa6;
+}
+.profile-tab-empty-msg {
   color: #7a7a86;
-  background: transparent;
+  font-family: "Space Mono", monospace;
+  font-size: 13px;
+  text-align: center;
+  padding: 2rem 1rem;
+  border: 1px dashed #2a2a36;
+  border-radius: 6px;
+  margin: 1rem 0;
 }
 
 /* Hidden section cards */
