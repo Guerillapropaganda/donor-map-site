@@ -35,6 +35,8 @@ const ProfileWidget: QuartzComponent = ({
   // Build donor info map from allFiles
   const donorInfo = new Map<string, { sector: string; slug: string; politiciansFunded: string[] }>()
   const polInfo = new Map<string, { party: string; slug: string; chamber: string }>()
+  // Extended network: think tanks, K Street, media figures that reference this profile
+  const networkInfo = new Map<string, { type: string; slug: string; category?: string }>()
 
   for (const f of allFiles) {
     const fFm = f.frontmatter
@@ -58,6 +60,28 @@ const ProfileWidget: QuartzComponent = ({
         slug: `${basePath}/${simplifySlug(f.slug!)}`,
         chamber: String(fFm.chamber ?? ""),
       })
+    }
+
+    // Scan think tanks, K Street, media for connections to current profile
+    const isThinkTank = fSlug.startsWith("think-tanks--and--policy-infrastructure/")
+    const isKStreet = fSlug.startsWith("lobbying-firms--and--k-street/")
+    const isMedia = fSlug.startsWith("media--and--influence-pipeline/")
+    if (isThinkTank || isKStreet || isMedia) {
+      const fType = isThinkTank ? "think-tank" : isKStreet ? "lobbying" : "media"
+      const category = String(fFm.category ?? "")
+      // Check if their related field mentions us (via wikilinks)
+      const theirRelated = String(fFm.related ?? "")
+      const theyReferenceUs = theirRelated.toLowerCase().includes(currentTitle.toLowerCase())
+      // Check if we reference them (our related field or top-donors)
+      const ourRelated = String(fm.related ?? "")
+      const weReferenceThem = topDonors.includes(fTitle) || ourRelated.includes(fTitle)
+      if (theyReferenceUs || weReferenceThem) {
+        networkInfo.set(fTitle, {
+          type: fType,
+          slug: `${basePath}/${simplifySlug(f.slug!)}`,
+          category,
+        })
+      }
     }
   }
 
@@ -115,7 +139,7 @@ const ProfileWidget: QuartzComponent = ({
   const hasBothSides = bothSidesData.length > 0
   const hasNetwork = networkData.length > 0
 
-  // ── GRAPH TAB: Build 1-hop neighborhood for mini force graph ──
+  // ── GRAPH TAB: Build neighborhood for mini force graph ──
   const miniGraphNodes: { id: string; name: string; type: string; party?: string; sector?: string; slug: string }[] = []
   const miniGraphEdges: { source: string; target: string }[] = []
   const miniNodeIds = new Set<string>()
@@ -148,21 +172,51 @@ const ProfileWidget: QuartzComponent = ({
     miniGraphEdges.push({ source: centerId, target: donorId })
   }
 
-  const miniGraphData = JSON.stringify({ nodes: miniGraphNodes, edges: miniGraphEdges })
+  // Compact graph: donors only (default view)
+  const compactGraphData = JSON.stringify({ nodes: [...miniGraphNodes], edges: [...miniGraphEdges] })
+
+  // Add extended network: think tanks, K Street, media
+  for (const [name, info] of networkInfo) {
+    const nodeId = info.slug || name
+    if (!miniNodeIds.has(nodeId)) {
+      miniGraphNodes.push({
+        id: nodeId,
+        name,
+        type: info.type,
+        slug: info.slug,
+      })
+      miniNodeIds.add(nodeId)
+    }
+    miniGraphEdges.push({ source: centerId, target: nodeId })
+  }
+
+  // Full graph: donors + think tanks + K Street + media
+  const fullGraphData = JSON.stringify({ nodes: miniGraphNodes, edges: miniGraphEdges })
+  const hasExtendedNetwork = networkInfo.size > 0
   const hasMiniGraph = topDonors.length > 0
 
   return (
     <div class={classNames(displayClass, "pw-widget")}>
       {/* Tabs */}
       <div class="pw-tabs">
-        <button class="pw-tab pw-tab-active" data-tab="flow">Donors</button>
+        {hasMiniGraph && <button class="pw-tab pw-tab-active" data-tab="graph">Graph</button>}
+        <button class={`pw-tab ${hasMiniGraph ? "" : "pw-tab-active"}`} data-tab="flow">Donors</button>
         {hasBothSides && <button class="pw-tab" data-tab="both">Both Sides</button>}
         {hasNetwork && <button class="pw-tab" data-tab="network">Reach</button>}
-        {hasMiniGraph && <button class="pw-tab" data-tab="graph">Graph</button>}
       </div>
 
+      {/* Tab: Graph — Mini force-directed graph (first tab) */}
+      {hasMiniGraph && (
+        <div class="pw-panel pw-panel-active" data-panel="graph">
+          <div class="pw-mini-graph" data-graph={compactGraphData} data-full-graph={fullGraphData}></div>
+          {hasExtendedNetwork && (
+            <button class="pw-mini-expand" data-expanded="false">Expand Network</button>
+          )}
+        </div>
+      )}
+
       {/* Tab: Flow — Top Donors */}
-      <div class="pw-panel pw-panel-active" data-panel="flow">
+      <div class={`pw-panel ${hasMiniGraph ? "" : "pw-panel-active"}`} data-panel="flow">
         <div class="pw-section-label">TOP DONORS</div>
         <div class="pw-explain">Organizations and individuals funding {currentTitle}.</div>
         {flowData.map((d) => (
@@ -231,12 +285,7 @@ const ProfileWidget: QuartzComponent = ({
         </div>
       )}
 
-      {/* Tab: Graph — Mini force-directed graph */}
-      {hasMiniGraph && (
-        <div class="pw-panel" data-panel="graph">
-          <div class="pw-mini-graph" data-graph={miniGraphData}></div>
-        </div>
-      )}
+      {/* Graph tab moved to first position above */}
     </div>
   )
 }
@@ -266,6 +315,36 @@ function initProfileWidget() {
       }
     });
   });
+
+  // Expand/collapse network button
+  var expandBtn = widget.querySelector('.pw-mini-expand');
+  if (expandBtn) {
+    expandBtn.addEventListener('click', function() {
+      var graphEl = widget.querySelector('.pw-mini-graph');
+      if (!graphEl) return;
+      var isExpanded = expandBtn.getAttribute('data-expanded') === 'true';
+      if (isExpanded) {
+        // Collapse: switch back to compact (donors only)
+        graphEl.setAttribute('data-active-graph', 'compact');
+        expandBtn.setAttribute('data-expanded', 'false');
+        expandBtn.textContent = 'Expand Network';
+      } else {
+        // Expand: switch to full graph (donors + think tanks + K Street + media)
+        graphEl.setAttribute('data-active-graph', 'full');
+        expandBtn.setAttribute('data-expanded', 'true');
+        expandBtn.textContent = 'Show Donors Only';
+      }
+      // Re-render the graph with new data
+      if (typeof window.initMiniGraph === 'function') {
+        window.initMiniGraph();
+      }
+    });
+  }
+
+  // Graph is now the first tab — render it immediately
+  if (typeof window.initMiniGraph === 'function') {
+    setTimeout(window.initMiniGraph, 100);
+  }
 }
 
 initProfileWidget();

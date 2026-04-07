@@ -20,7 +20,7 @@ import { removeAllChildren } from "./util"
 interface GraphNode extends SimulationNodeDatum {
   id: string
   name: string
-  type: "politician" | "donor" | "corporation" | "pac"
+  type: "politician" | "donor" | "corporation" | "pac" | "think-tank" | "lobbying" | "media"
   party?: string
   chamber?: string
   state?: string
@@ -54,13 +54,18 @@ const COLORS = {
   edgeHighlight: "#5b8dce",
 }
 
+const COLORS_PURPLE = "#a855f7"
+
 function getNodeColor(node: GraphNode): string {
   if (node.type === "politician") {
     if (node.party === "Democrat") return COLORS.blue
     if (node.party === "Republican") return COLORS.red
     return COLORS.textDim
   }
-  return COLORS.amber
+  if (node.type === "think-tank") return COLORS.amber
+  if (node.type === "lobbying") return COLORS.steel
+  if (node.type === "media") return COLORS_PURPLE
+  return COLORS.green // donors, corporations, PACs
 }
 
 function getNodeSize(node: GraphNode): number {
@@ -84,6 +89,27 @@ function rectPath(cx: number, cy: number, r: number): string {
   const h = r * 1.3
   const rx = 2
   return `M${cx - w + rx},${cy - h} L${cx + w - rx},${cy - h} Q${cx + w},${cy - h} ${cx + w},${cy - h + rx} L${cx + w},${cy + h - rx} Q${cx + w},${cy + h} ${cx + w - rx},${cy + h} L${cx - w + rx},${cy + h} Q${cx - w},${cy + h} ${cx - w},${cy + h - rx} L${cx - w},${cy - h + rx} Q${cx - w},${cy - h} ${cx - w + rx},${cy - h}Z`
+}
+
+// Diamond path for think tanks
+function diamondPath(cx: number, cy: number, r: number): string {
+  const w = r * 1.4
+  const h = r * 1.4
+  return `M${cx},${cy - h} L${cx + w},${cy} L${cx},${cy + h} L${cx - w},${cy}Z`
+}
+
+// Circle path for media figures
+function circlePath(cx: number, cy: number, r: number): string {
+  return `M${cx - r},${cy} A${r},${r} 0 1,1 ${cx + r},${cy} A${r},${r} 0 1,1 ${cx - r},${cy}Z`
+}
+
+// Get shape path based on node type
+function getNodePath(type: string, cx: number, cy: number, r: number): string {
+  if (type === "politician") return hexPath(cx, cy, r)
+  if (type === "think-tank") return diamondPath(cx, cy, r)
+  if (type === "media") return circlePath(cx, cy, r)
+  if (type === "lobbying") return hexPath(cx, cy, r) // K Street gets hexagons too (institutional)
+  return rectPath(cx, cy, r) // donors, corporations, PACs
 }
 
 function initNetworkGraph() {
@@ -591,7 +617,7 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
     .append("path")
     .attr("d", (d) => {
       const r = (d.degree > 1 ? centerSize : nodeSize) + 2
-      return d.type === "politician" ? hexPath(0, 0, r) : rectPath(0, 0, r)
+      return getNodePath(d.type, 0, 0, r)
     })
     .attr("fill", "none")
     .attr("stroke", (d) => getNodeColor(d))
@@ -603,7 +629,7 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
     .attr("class", "mini-shape")
     .attr("d", (d) => {
       const r = d.degree > 1 ? centerSize : nodeSize
-      return d.type === "politician" ? hexPath(0, 0, r) : rectPath(0, 0, r)
+      return getNodePath(d.type, 0, 0, r)
     })
     .attr("fill", (d) => getNodeColor(d))
     .attr("fill-opacity", 0.8)
@@ -744,55 +770,72 @@ function initMiniGraph() {
   const miniEls = document.querySelectorAll(".pw-mini-graph")
   miniEls.forEach((el) => {
     const container = el as HTMLElement
-    if (container.querySelector("svg")) return // already rendered
 
-    const raw = container.dataset.graph
+    // Determine which graph data to use (compact vs full)
+    const activeGraph = container.getAttribute("data-active-graph") || "compact"
+    const compactData = container.dataset.graph
+    const fullData = container.dataset.fullGraph
+    const raw = activeGraph === "full" && fullData ? fullData : compactData
     if (!raw) return
 
-    // Add expand button
-    const expandBtn = document.createElement("button")
-    expandBtn.className = "pw-mini-expand"
-    expandBtn.textContent = "Expand"
-    expandBtn.title = "Open full-size interactive graph"
-    container.parentElement?.insertBefore(expandBtn, container)
+    // Clear and re-render (supports toggling between compact/full)
+    container.innerHTML = ""
 
-    // Render compact
+    // Render in the sidebar panel
     renderMiniGraphInContainer(container, raw, false)
 
-    // Expand handler
-    expandBtn.addEventListener("click", () => {
-      // Create overlay
-      const overlay = document.createElement("div")
-      overlay.className = "pw-graph-overlay"
+    // The "Expand Network" button is now in the JSX template (ProfileWidget)
+    // The "Expand" overlay button for full-screen view:
+    // Check if the expand overlay button already exists (from a previous init)
+    const panel = container.parentElement
+    let overlayBtn = panel?.querySelector(".pw-graph-fullscreen") as HTMLButtonElement | null
+    if (!overlayBtn && panel) {
+      overlayBtn = document.createElement("button")
+      overlayBtn.className = "pw-mini-expand pw-graph-fullscreen"
+      overlayBtn.textContent = "Full Screen"
+      overlayBtn.title = "Open full-size interactive graph"
+      panel.appendChild(overlayBtn)
+    }
 
-      const closeBtn = document.createElement("button")
-      closeBtn.className = "pw-graph-overlay-close"
-      closeBtn.textContent = "Close"
+    if (overlayBtn) {
+      // Remove old listener by cloning
+      const newBtn = overlayBtn.cloneNode(true) as HTMLButtonElement
+      overlayBtn.parentNode?.replaceChild(newBtn, overlayBtn)
 
-      const graphBox = document.createElement("div")
-      graphBox.className = "pw-graph-overlay-box"
+      newBtn.addEventListener("click", () => {
+        // Use full graph data for the overlay (always show everything)
+        const overlayData = fullData || compactData
+        if (!overlayData) return
 
-      overlay.appendChild(closeBtn)
-      overlay.appendChild(graphBox)
-      document.body.appendChild(overlay)
+        const overlay = document.createElement("div")
+        overlay.className = "pw-graph-overlay"
 
-      // Render expanded
-      renderMiniGraphInContainer(graphBox, raw, true)
+        const closeBtn = document.createElement("button")
+        closeBtn.className = "pw-graph-overlay-close"
+        closeBtn.textContent = "Close"
 
-      // Close
-      closeBtn.addEventListener("click", () => {
-        overlay.remove()
+        const graphBox = document.createElement("div")
+        graphBox.className = "pw-graph-overlay-box"
+
+        overlay.appendChild(closeBtn)
+        overlay.appendChild(graphBox)
+        document.body.appendChild(overlay)
+
+        // Full screen always shows the full network
+        renderMiniGraphInContainer(graphBox, overlayData, true)
+
+        closeBtn.addEventListener("click", () => overlay.remove())
+        overlay.addEventListener("click", (e) => {
+          if (e.target === overlay) overlay.remove()
+        })
+        document.addEventListener("keydown", function esc(e) {
+          if (e.key === "Escape") {
+            overlay.remove()
+            document.removeEventListener("keydown", esc)
+          }
+        })
       })
-      overlay.addEventListener("click", (e) => {
-        if (e.target === overlay) overlay.remove()
-      })
-      document.addEventListener("keydown", function esc(e) {
-        if (e.key === "Escape") {
-          overlay.remove()
-          document.removeEventListener("keydown", esc)
-        }
-      })
-    })
+    }
   })
 }
 
