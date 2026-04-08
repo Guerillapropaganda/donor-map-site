@@ -46,6 +46,7 @@ export default function UrlManagerPage() {
   const [toast, setToast] = useState<string | null>(null)
   const [uncheckedVisible, setUncheckedVisible] = useState(20)
   const [checkResults, setCheckResults] = useState<Record<string, { status: string; code?: number; ms?: number; redirectUrl?: string }>>({})
+  const [urlNotes, setUrlNotes] = useState<Record<string, string>>({})
 
   // Show toast notification
   const showToast = useCallback((msg: string) => {
@@ -204,11 +205,13 @@ export default function UrlManagerPage() {
         body: JSON.stringify({ changes: changes.map((c) => ({
           url: c.url, label: c.label, tier: c.tier,
           profilePath: c.profilePath, profile: c.profile, newStatus: c.newStatus,
+          note: urlNotes[c.id] || undefined,
         })) }),
       })
       const data = await res.json()
       if (data.success) {
         setOverrides({})
+        setUrlNotes({})
         setHasChanges(false)
         setShowConfirm(false)
         showToast(`Saved: ${data.summary.archived} archived, ${data.summary.confirmed} confirmed, ${data.summary.flagged} flagged`)
@@ -293,6 +296,17 @@ export default function UrlManagerPage() {
             </a>
           </div>
         </div>
+        {isActive && overrides[u.id] && (
+          <div className="mt-1.5">
+            <input
+              type="text"
+              placeholder="Add a note (optional)..."
+              value={urlNotes[u.id] || ""}
+              onChange={(e) => setUrlNotes(prev => ({ ...prev, [u.id]: e.target.value }))}
+              className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-2 py-1 text-[9px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]"
+            />
+          </div>
+        )}
       </div>
     )
   }
