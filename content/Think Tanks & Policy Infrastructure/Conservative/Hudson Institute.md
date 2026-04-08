@@ -8,7 +8,7 @@ parent: null
 category: conservative
 tax-status: 501c3
 deepening-pass: 2026-03-26
-related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]]"
+related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]]"
 ---
 
 #think-tank #conservative #neoconservative #foreign-policy #defense #china-hawk #taiwan #national-security #class-analysis

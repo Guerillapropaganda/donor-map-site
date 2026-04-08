@@ -88,7 +88,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Colorado 2026 Senate Race]] · [[Martin Heinrich Master Profile]] · [[Mark Warner]] · [[Zoe Lofgren]] · [[Gerry Connolly]]"
+related: "[[Colorado 2026 Senate Race]] · [[Martin Heinrich Master Profile]] · [[Mark Warner]] · [[Zoe Lofgren]] · [[Gerry Connolly]] · [[Virginia 2026 Senate Race]]"
 ---
 
 #tech #industry #lobbying #section-230 #antitrust #ai #privacy #bipartisan

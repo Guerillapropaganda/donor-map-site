@@ -18,7 +18,7 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-related: "[[Uber]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Brett Kavanaugh Master Profile]] · [[The Executive Power Portfolio and the Donor-Class Rulings]]"
+related: "[[Uber]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Brett Kavanaugh Master Profile]] · [[The Executive Power Portfolio and the Donor-Class Rulings]] · [[The Supermajority Rulings and the Donor-Class Returns]]"
 ---
 
 

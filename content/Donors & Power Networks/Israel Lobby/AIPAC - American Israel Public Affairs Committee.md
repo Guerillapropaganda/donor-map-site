@@ -25,7 +25,7 @@ ofac-programs:
 total-political-spend: "$790,700"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[JCRC Bay Area]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Michigan 2026 Senate Race]]"
+related: "[[JCRC Bay Area]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Michigan 2026 Senate Race]] · [[Georgia 2026 Senate Race]]"
 opposes: "[[Katie Halper]] · [[Abby Martin]]"
 ---
 

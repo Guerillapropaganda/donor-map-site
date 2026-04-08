@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Anderson Cooper]] · [[Nicolle Wallace]] · [[Joe Scarborough]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Anderson Cooper]] · [[Nicolle Wallace]] · [[Joe Scarborough]] · [[Greg Gutfeld]]"
 ---
 
 #media-pipeline #centrist #cnn #corporate-media #ownership-instability #novelist #debate-moderator

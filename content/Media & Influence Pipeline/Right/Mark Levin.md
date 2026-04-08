@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]] · [[Patrick Bet-David]] · [[Sean Hannity]]"
+related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]] · [[Patrick Bet-David]] · [[Sean Hannity]] · [[Greg Gutfeld]]"
 ---
 
 #media-pipeline #right #fox-news #radio #koch #scaife #exxon #constitutional-originalism #reagan #landmark-legal

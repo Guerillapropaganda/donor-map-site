@@ -25,7 +25,7 @@ regulatory-agencies:
   - "Federal Deposit Insurance Corporation"
   - "Federal Housing Finance Agency"
   - "Federal Reserve System"
-related: "[[Charles Koch]] · [[Harlan Crow]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Carlyle Group]] · [[Federalist Society]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]]"
+related: "[[Charles Koch]] · [[Harlan Crow]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Carlyle Group]] · [[Federalist Society]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]]"
 ---
 
 #think-tank #conservative #neoconservative #defense-policy #climate-denial #revolving-door #dark-money #deregulation #tax-policy

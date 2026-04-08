@@ -43,7 +43,7 @@ sec-form-types:
   - "PX14A6G"
   - "S-1"
   - "S-1/A"
-related: "[[Pam Bondi Master Profile]] · [[Kyrsten Sinema Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Barack Obama Master Profile]]"
+related: "[[Pam Bondi Master Profile]] · [[Kyrsten Sinema Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Barack Obama Master Profile]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]]"
 ---
 
 #pharma #pharmaceutical #lobbying #drug-pricing #bipartisan #medicare #negotiation #revolving-door #dark-money #class-analysis

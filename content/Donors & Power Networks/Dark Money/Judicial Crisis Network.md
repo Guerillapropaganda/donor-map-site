@@ -27,7 +27,7 @@ court-jurisdictions:
   - "District Court, E.D. Arkansas"
   - "District Court, M.D. Tennessee"
   - "District Court, S.D. Indiana"
-related: "[[DeVos Family]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]]"
+related: "[[DeVos Family]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Council for National Policy]]"
 ---
 
 #donor #judicial-crisis-network #concord-fund #leonard-leo #scotus #dark-money #judicial-confirmations #class-analysis #follow-the-money #barre-seid #marble-freedom-trust #honest-elections-project #raga

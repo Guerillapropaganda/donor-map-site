@@ -19,7 +19,7 @@ annual-revenue: "$14.9M"
 net-assets: "$8.2M"
 tax-year: "2023"
 total-political-spend: "$15,473,514"
-related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Bernie Sanders Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]]"
+related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Bernie Sanders Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]]"
 ---
 
 

@@ -18,7 +18,7 @@ net-assets: "$316K"
 tax-year: "2023"
 lobbying-spend: 160000
 lobbying-filings: 8
-related: "[[Eli Broad Foundation]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]]"
+related: "[[Eli Broad Foundation]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]] · [[Buffy Wicks]]"
 ---
 
 

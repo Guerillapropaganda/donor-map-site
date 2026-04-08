@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Wilks Brothers]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Rebekah Mercer]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]]"
+related: "[[Wilks Brothers]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Rebekah Mercer]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
 ---
 
 #media-pipeline #right #climate-denial #israel-lobby #fossil-fuel-media #conservative-media #daily-wire

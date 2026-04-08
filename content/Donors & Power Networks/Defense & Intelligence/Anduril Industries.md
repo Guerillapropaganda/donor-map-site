@@ -26,7 +26,7 @@ sec-form-types:
   - "EX-99.2"
   - "NPORT-EX"
   - "NPORT-P"
-related: "[[Palantir Technologies]]"
+related: "[[Palantir Technologies]] · [[David Sacks]]"
 subawards-issued: 50
 subawards-issued-amount: 156117244
 subawards-received: 50

@@ -17,7 +17,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 lobbying-spend: 42075000
 lobbying-filings: 59
-related: "[[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]]"
+related: "[[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Caucus Chair and Inland Empire Logistics Economy]]"
 ---
 
 

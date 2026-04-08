@@ -25,7 +25,7 @@ sec-form-types:
   - "DEF 14A"
 ein: "862883453"
 nonprofit-status: "501(c)(4)"
-related: "[[Senate Majority PAC]] · [[North Carolina 2026 Senate Race]] · [[Maine 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[NRSC Chair and the McConnell Spending War]]"
+related: "[[Senate Majority PAC]] · [[North Carolina 2026 Senate Race]] · [[Maine 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[NRSC Chair and the McConnell Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]]"
 ---
 
 #donor-node #super-pac #republican #senate #mcconnell #thune #dark-money #leadership-pac #class-analysis #follow-the-money
