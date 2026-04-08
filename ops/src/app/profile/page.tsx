@@ -190,18 +190,16 @@ export default function ProfilePage() {
       const brokenCount = Object.values(current).filter(v => v === "broken").length
       const yellowCount = Object.values(current).filter(v => v === "yellow").length
       const date = new Date().toISOString().split("T")[0]
-      const lines: string[] = []
-      lines.push(`[URL Check ${date}] ${unchecked.length} URLs checked: ${okCount} ok, ${brokenCount} broken, ${yellowCount} slow/redirect`)
-      // Add details for non-ok URLs
+      const parts: string[] = []
+      parts.push(`[URL Check ${date}] ${unchecked.length} checked: ${okCount} ok, ${brokenCount} broken, ${yellowCount} slow.`)
       for (const [idx, status] of Object.entries(current)) {
         if (status === "broken" || status === "yellow") {
           const u = urls[Number(idx)]
-          const note = urlNotes[Number(idx)] || ""
-          lines.push(`  - ${status === "broken" ? "BROKEN" : "SLOW"}: ${u?.label || u?.url}${note ? ` (${note})` : ""}`)
+          parts.push(`${status === "broken" ? "BROKEN" : "SLOW"}: ${u?.label || u?.url}`)
         }
       }
-      const summary = lines.join("\n")
-      const newNotes = internalNotes ? `${internalNotes}\n\n${summary}` : summary
+      const summary = parts.join(" | ")
+      const newNotes = internalNotes ? `${internalNotes} | ${summary}` : summary
       setInternalNotes(newNotes)
       // Auto-save notes
       if (profilePath) {

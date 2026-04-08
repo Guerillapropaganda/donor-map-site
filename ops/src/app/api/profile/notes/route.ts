@@ -13,20 +13,16 @@ export async function POST(request: Request) {
 
     let updated = content
 
-    // Escape notes for YAML — use quoted string for multiline safety
-    const escapedNotes = (notes || "").replace(/"/g, '\\"')
+    // Flatten notes to single line and escape for YAML
+    const flatNotes = (notes || "").replace(/\n/g, " | ").replace(/"/g, '\\"').trim()
 
-    if (/^internal-notes:\s*/m.test(updated)) {
-      // Replace existing — handle both single-line and multi-line
-      updated = updated.replace(/^internal-notes:\s*"?[^"\n]*"?\s*$/m, `internal-notes: "${escapedNotes}"`)
-    } else if (notes && notes.trim()) {
-      // Add before closing ---
-      updated = updated.replace(/\n---\n/, `\ninternal-notes: "${escapedNotes}"\n---\n`)
-    }
+    // Remove existing internal-notes field (may span multiple lines if corrupted)
+    // Match from "internal-notes:" to next YAML key or closing ---
+    updated = updated.replace(/^internal-notes:[\s\S]*?(?=^[a-zA-Z][\w-]*:|^---$)/m, "")
 
-    // If notes are empty, remove the field
-    if (!notes || !notes.trim()) {
-      updated = updated.replace(/^internal-notes:\s*"?[^"\n]*"?\s*\n/m, "")
+    // Add back if non-empty, before closing ---
+    if (flatNotes) {
+      updated = updated.replace(/\n---\n/, `\ninternal-notes: "${flatNotes}"\n---\n`)
     }
 
     if (updated === content) {
