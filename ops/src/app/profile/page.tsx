@@ -59,7 +59,7 @@ export default function ProfilePage() {
   const [urls, setUrls] = useState<UrlData[]>([])
   const [connections, setConnections] = useState<Connection[]>([])
   const [loading, setLoading] = useState(true)
-  const [tab, setTab] = useState<"overview" | "sources" | "connections" | "urls">("overview")
+  const [tab, setTab] = useState<"overview" | "sources" | "connections" | "urls" | "notes">("overview")
   const [urlOverrides, setUrlOverrides] = useState<Record<number, "ok" | "broken" | "unsure" | "yellow">>({})
   const [urlNotes, setUrlNotes] = useState<Record<number, string>>({})
   const [urlSaving, setUrlSaving] = useState(false)
@@ -70,6 +70,14 @@ export default function ProfilePage() {
   const [expandedUrl, setExpandedUrl] = useState<number | null>(null)
   const [readinessChanging, setReadinessChanging] = useState(false)
   const [readinessMsg, setReadinessMsg] = useState("")
+  const [internalNotes, setInternalNotes] = useState("")
+  const [notesSaving, setNotesSaving] = useState(false)
+  const [notesMsg, setNotesMsg] = useState("")
+  const [notesOriginal, setNotesOriginal] = useState("")
+  const [connSearch, setConnSearch] = useState("")
+  const [connSearchResults, setConnSearchResults] = useState<{ title: string; path: string; type: string }[]>([])
+  const [connAddType, setConnAddType] = useState<"related" | "donors" | "opposes">("related")
+  const [connMsg, setConnMsg] = useState("")
 
   // Browse state (when no profile selected)
   const [browseSearch, setBrowseSearch] = useState("")
@@ -93,6 +101,9 @@ export default function ProfilePage() {
           setProfile(profileData.profile)
           setSources(profileData.sources || null)
           setUrls(profileData.urls || [])
+          const notes = profileData.profile.internalNotes || ""
+          setInternalNotes(notes)
+          setNotesOriginal(notes)
         }
         // Find connections for this profile
         const title = profileData.profile?.title || ""
@@ -106,15 +117,16 @@ export default function ProfilePage() {
   }, [profilePath])
 
   // Load profiles for browsing when no profile selected
+  // Always load profiles (for browse AND connection search)
   useEffect(() => {
-    if (!profilePath && allProfiles.length === 0) {
+    if (allProfiles.length === 0) {
       setBrowseLoading(true)
       fetch("/api/vault").then((r) => r.json()).then((data) => {
         setAllProfiles(data.profiles || [])
         setBrowseLoading(false)
       }).catch(() => setBrowseLoading(false))
     }
-  }, [profilePath, allProfiles.length])
+  }, [allProfiles.length])
 
   async function saveUrlTriage() {
     if (Object.keys(urlOverrides).length === 0 || !profile) return
@@ -207,6 +219,80 @@ export default function ProfilePage() {
       setReadinessMsg("Error saving")
     }
     setReadinessChanging(false)
+  }
+
+  async function saveNotes() {
+    if (!profile || !profilePath) return
+    setNotesSaving(true)
+    setNotesMsg("")
+    try {
+      const res = await fetch("/api/profile/notes", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ path: profilePath, notes: internalNotes }),
+      })
+      const data = await res.json()
+      if (data.success) {
+        setNotesMsg("Saved")
+        setNotesOriginal(internalNotes)
+      } else {
+        setNotesMsg(`Error: ${data.error}`)
+      }
+    } catch { setNotesMsg("Error saving") }
+    setNotesSaving(false)
+  }
+
+  function searchProfilesToConnect() {
+    if (connSearch.length < 2) return
+    const q = connSearch.toLowerCase()
+    const results = allProfiles
+      .filter((p) => p.title.toLowerCase().includes(q))
+      .filter((p) => p.title !== profile?.title)
+      .slice(0, 10)
+    setConnSearchResults(results)
+  }
+
+  async function addConnection(targetTitle: string) {
+    if (!profile || !profilePath) return
+    setConnMsg("")
+    try {
+      const res = await fetch("/api/profile/connections", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ path: profilePath, action: "add", target: targetTitle, field: connAddType }),
+      })
+      const data = await res.json()
+      setConnMsg(data.message || "Added")
+      setConnSearchResults([])
+      setConnSearch("")
+      // Refresh profile + connections
+      const refreshed = await fetch(`/api/profile?path=${encodeURIComponent(profilePath)}`).then(r => r.json())
+      if (refreshed.profile) setProfile(refreshed.profile)
+      const connData = await fetch("/api/connections").then(r => r.json())
+      setConnections((connData.connections || []).filter(
+        (c: Connection) => c.source === profile.title || c.target === profile.title
+      ))
+    } catch (e) { setConnMsg(`Error: ${e}`) }
+  }
+
+  async function removeConnection(targetTitle: string, field: "related" | "donors" | "opposes") {
+    if (!profile || !profilePath) return
+    setConnMsg("")
+    try {
+      const res = await fetch("/api/profile/connections", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ path: profilePath, action: "remove", target: targetTitle, field }),
+      })
+      const data = await res.json()
+      setConnMsg(data.message || "Removed")
+      const refreshed = await fetch(`/api/profile?path=${encodeURIComponent(profilePath)}`).then(r => r.json())
+      if (refreshed.profile) setProfile(refreshed.profile)
+      const connData = await fetch("/api/connections").then(r => r.json())
+      setConnections((connData.connections || []).filter(
+        (c: Connection) => c.source === profile.title || c.target === profile.title
+      ))
+    } catch (e) { setConnMsg(`Error: ${e}`) }
   }
 
   function getUrlStatus(u: UrlData, i: number): string {
@@ -479,17 +565,18 @@ export default function ProfilePage() {
 
           {/* Quick actions */}
           <div className="flex gap-2 flex-shrink-0">
+            <button
+              onClick={() => { setLoading(true); router.replace(`/profile?path=${encodeURIComponent(profilePath!)}`) }}
+              className="text-[10px] px-3 py-1.5 rounded-lg bg-[var(--color-bg)]/50 text-[var(--color-text-dim)] border border-[var(--color-border)] hover:text-[var(--color-text)] transition-colors"
+              title="Refresh profile"
+            >
+              ↻ Refresh
+            </button>
             <Link
               href={`/editor?profile=${encodeURIComponent(profile.path)}`}
               className="text-[10px] px-3 py-1.5 rounded-lg bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30 hover:bg-[var(--color-steel)]/25 transition-colors"
             >
               Edit
-            </Link>
-            <Link
-              href={`/relationships?profile=${encodeURIComponent(profile.title)}`}
-              className="text-[10px] px-3 py-1.5 rounded-lg bg-[#a855f7]/15 text-[#a855f7] border border-[#a855f7]/30 hover:bg-[#a855f7]/25 transition-colors"
-            >
-              Connections
             </Link>
           </div>
         </div>
@@ -579,12 +666,12 @@ export default function ProfilePage() {
 
       {/* Tabs */}
       <div className="flex gap-1 mb-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-1 w-fit">
-        {(["overview", "connections", "sources", "urls"] as const).map((t) => (
+        {(["overview", "connections", "urls", "notes"] as const).map((t) => (
           <button key={t} onClick={() => setTab(t)}
             className={`px-4 py-2 rounded text-xs transition-all capitalize ${
               tab === t ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)]" : "text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
             }`}>
-            {t}
+            {t}{t === "notes" && internalNotes ? " •" : ""}
           </button>
         ))}
       </div>
@@ -665,6 +752,39 @@ export default function ProfilePage() {
 
       {tab === "connections" && (
         <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
+          {/* Add connection */}
+          <div className="flex gap-2 mb-4 pb-4 border-b border-[var(--color-border)]">
+            <div className="relative flex-1">
+              <input type="text" placeholder="Search profile to add..." value={connSearch}
+                onChange={(e) => { setConnSearch(e.target.value); setConnSearchResults([]) }}
+                onKeyDown={(e) => { if (e.key === "Enter" && connSearch.length >= 2) searchProfilesToConnect() }}
+                className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg px-3 py-2 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
+              {connSearchResults.length > 0 && (
+                <div className="absolute top-full left-0 right-0 mt-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg max-h-48 overflow-y-auto z-20 shadow-lg">
+                  {connSearchResults.map((r) => (
+                    <button key={r.path} onClick={() => addConnection(r.title)}
+                      className="w-full text-left px-3 py-2 text-[10px] hover:bg-[var(--color-bg-hover)] transition-colors border-b border-[var(--color-border)] last:border-b-0">
+                      <span className="text-[var(--color-text)]">{r.title}</span>
+                      <span className="text-[var(--color-text-dim)] ml-2">{r.type}</span>
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
+            <select value={connAddType} onChange={(e) => setConnAddType(e.target.value as "related" | "donors" | "opposes")}
+              className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg px-2 py-2 text-[10px] text-[var(--color-text)]">
+              <option value="related">Related</option>
+              <option value="donors">Funded By</option>
+              <option value="opposes">Opposes</option>
+            </select>
+            <button onClick={searchProfilesToConnect} disabled={connSearch.length < 2}
+              className="px-3 py-2 bg-[var(--color-steel)]/15 text-[var(--color-steel)] text-[10px] font-bold rounded-lg border border-[var(--color-steel)]/30 hover:bg-[var(--color-steel)]/25 disabled:opacity-50">
+              Search
+            </button>
+          </div>
+          {connMsg && <p className={`text-[10px] mb-3 ${connMsg.includes("Error") ? "text-[var(--color-red)]" : "text-[var(--color-green)]"}`}>{connMsg}</p>}
+
+          {/* Connection lists with remove buttons */}
           {(["related", "donors", "opposes"] as const).map((rt) => {
             const items = rt === "related" ? allRelated : rt === "donors" ? allDonors : allOpposes
             if (items.length === 0) return null
@@ -673,9 +793,12 @@ export default function ProfilePage() {
                 <h4 className="text-[9px] uppercase tracking-wider mb-2" style={{ color: REL_COLORS[rt] }}>{REL_LABELS[rt]} ({items.length})</h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
                   {items.map((name) => (
-                    <div key={name} className="flex items-center gap-2 p-2 bg-[var(--color-bg)] rounded hover:bg-[var(--color-bg-hover)] transition-colors">
-                      <span className="w-2 h-2 rounded-full" style={{ backgroundColor: REL_COLORS[rt] }} />
+                    <div key={name} className="flex items-center gap-2 p-2 bg-[var(--color-bg)] rounded hover:bg-[var(--color-bg-hover)] transition-colors group">
+                      <span className="w-2 h-2 rounded-full flex-shrink-0" style={{ backgroundColor: REL_COLORS[rt] }} />
                       <span className="text-[11px] text-[var(--color-text)] flex-1">{name}</span>
+                      <button onClick={() => removeConnection(name, rt)}
+                        className="text-[var(--color-red)] opacity-0 group-hover:opacity-100 transition-opacity text-[10px] px-1 hover:bg-[var(--color-red)]/10 rounded"
+                        title="Remove connection">✕</button>
                     </div>
                   ))}
                 </div>
@@ -683,22 +806,23 @@ export default function ProfilePage() {
             )
           })}
           {allRelated.length + allDonors.length + allOpposes.length === 0 && (
-            <p className="text-xs text-[var(--color-text-dim)] text-center py-8">No connections found</p>
+            <p className="text-xs text-[var(--color-text-dim)] text-center py-8">No connections found. Search above to add.</p>
           )}
-        </div>
-      )}
-
-      {tab === "sources" && (
-        <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
-          <p className="text-xs text-[var(--color-text-dim)]">
-            {sources ? `${sources.total} sources (${sources.tier1} Tier 1, ${sources.tier2} Tier 2, ${sources.tier3 + sources.tier4} Tier 3-4)` : "No source data available"}
-            {sources && sources.broken > 0 && <span className="text-[var(--color-red)] ml-2">{sources.broken} broken/archived</span>}
-          </p>
         </div>
       )}
 
       {tab === "urls" && (
         <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
+          {/* Source tier summary (merged from Sources tab) */}
+          {sources && (
+            <div className="flex items-center gap-3 mb-3 pb-3 border-b border-[var(--color-border)] text-[10px]">
+              <span className="text-[var(--color-green)] font-bold">{sources.tier1} Tier 1</span>
+              <span className="text-[var(--color-steel)]">{sources.tier2} Tier 2</span>
+              <span className="text-[var(--color-amber)]">{sources.tier3 + sources.tier4} Tier 3-4</span>
+              {sources.broken > 0 && <span className="text-[var(--color-red)]">{sources.broken} broken</span>}
+              <span className="text-[var(--color-text-dim)]">{sources.total} total sources</span>
+            </div>
+          )}
           {/* Action bar */}
           <div className="flex items-center gap-2 mb-3 pb-3 border-b border-[var(--color-border)] flex-wrap">
             <button onClick={autoCheckUrls} disabled={urlChecking || urls.length === 0}
@@ -793,6 +917,34 @@ export default function ProfilePage() {
               })}
             </div>
           )}
+        </div>
+      )}
+
+      {tab === "notes" && (
+        <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
+          <div className="flex items-center justify-between mb-3">
+            <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)]">Internal Notes</h3>
+            <span className="text-[8px] text-[var(--color-text-dim)]">Not published — only visible in Ops app and to both Claudes</span>
+          </div>
+          <textarea
+            value={internalNotes}
+            onChange={(e) => setInternalNotes(e.target.value)}
+            placeholder="Leave notes for yourself or Claude... e.g. 'Need to verify FEC data for 2024 cycle' or 'Missing lobbying connections to Koch network'"
+            className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg px-4 py-3 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)] min-h-[200px] resize-y"
+          />
+          <div className="flex items-center gap-2 mt-3">
+            <button
+              onClick={saveNotes}
+              disabled={notesSaving || internalNotes === notesOriginal}
+              className="px-4 py-2 bg-[var(--color-steel)]/15 text-[var(--color-steel)] text-[10px] font-bold rounded-lg border border-[var(--color-steel)]/30 hover:bg-[var(--color-steel)]/25 disabled:opacity-50 transition-colors"
+            >
+              {notesSaving ? "Saving..." : "Save Notes"}
+            </button>
+            {internalNotes !== notesOriginal && (
+              <span className="text-[9px] text-[var(--color-amber)]">Unsaved changes</span>
+            )}
+            {notesMsg && <span className={`text-[10px] ${notesMsg.includes("Error") ? "text-[var(--color-red)]" : "text-[var(--color-green)]"}`}>{notesMsg}</span>}
+          </div>
         </div>
       )}
     </div>

@@ -25,6 +25,7 @@ export interface Profile {
   corroborationCount?: number
   lastVerifiedBy?: string          // "pipeline" | "editorial"
   sourceTypes?: string[]
+  internalNotes?: string
 }
 
 // Parse frontmatter from markdown content
@@ -59,6 +60,7 @@ export function parseProfile(path: string, content: string): Profile {
     corroborationCount: data["corroboration-count"],
     lastVerifiedBy: data["last-verified-by"],
     sourceTypes: data["source-types"],
+    internalNotes: data["internal-notes"],
   }
 }
 
