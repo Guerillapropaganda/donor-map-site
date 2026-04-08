@@ -10,6 +10,7 @@ interface UrlChange {
   profilePath: string
   profile: string
   newStatus: "ok" | "broken" | "slow" | "unsure"
+  note?: string
 }
 
 function escapeRegex(s: string): string {
@@ -86,37 +87,45 @@ export async function POST(request: Request) {
             modified = true
           }
 
-          // Remove (NEEDS REVIEW) if present
-          if (content.includes(linkPattern + " (NEEDS REVIEW)")) {
-            content = content.replace(linkPattern + " (NEEDS REVIEW)", linkPattern)
+          // Remove (NEEDS REVIEW...) if present
+          const needsReviewRegex = new RegExp(escapeRegex(linkPattern) + "\\s*\\(NEEDS REVIEW(?::[^)]*)?\\)")
+          if (needsReviewRegex.test(content)) {
+            content = content.replace(needsReviewRegex, linkPattern)
             modified = true
           }
 
-          // Add (VERIFIED) if not already present
-          if (content.includes(linkPattern) && !content.includes(linkPattern + " (VERIFIED)")) {
-            // Find the link with optional tier suffix and add VERIFIED after
+          // Remove old (VERIFIED...) if present (to re-add with possibly new note)
+          const oldVerifiedRegex = new RegExp(escapeRegex(linkPattern) + "(\\s*\\(Tier \\d\\))?\\s*\\(VERIFIED(?::[^)]*)?\\)")
+          content = content.replace(oldVerifiedRegex, (_, tier) => linkPattern + (tier || ""))
+
+          // Add (VERIFIED) or (VERIFIED: note) after link+tier
+          const verifiedTag = change.note ? ` (VERIFIED: ${change.note})` : " (VERIFIED)"
+          if (content.includes(linkPattern) && !content.includes(linkPattern + " (VERIFIED")) {
             const tierPattern = new RegExp(
               escapeRegex(linkPattern) + "(\\s*\\(Tier \\d\\))?",
             )
-            content = content.replace(tierPattern, (match) => match + " (VERIFIED)")
+            content = content.replace(tierPattern, (match) => match + verifiedTag)
             modified = true
           }
           confirmed++
         } else if (change.newStatus === "unsure") {
           const linkPattern = `[${change.label}](${change.url})`
 
-          // Remove (VERIFIED) if present
-          if (content.includes(linkPattern)) {
-            content = content.replace(linkPattern + " (VERIFIED)", linkPattern)
-          }
+          // Remove (VERIFIED...) if present
+          const oldVerifiedRegex2 = new RegExp(escapeRegex(linkPattern) + "(\\s*\\(Tier \\d\\))?\\s*\\(VERIFIED(?::[^)]*)?\\)")
+          content = content.replace(oldVerifiedRegex2, (_, tier) => linkPattern + (tier || ""))
 
-          // Add (NEEDS REVIEW) tag if not already present
-          if (content.includes(linkPattern) && !content.includes(linkPattern + " (NEEDS REVIEW)")) {
-            // Find the link with optional tier suffix and add NEEDS REVIEW after
+          // Remove old (NEEDS REVIEW...) if present (to re-add with possibly new note)
+          const oldNeedsReviewRegex = new RegExp(escapeRegex(linkPattern) + "(\\s*\\(Tier \\d\\))?\\s*\\(NEEDS REVIEW(?::[^)]*)?\\)")
+          content = content.replace(oldNeedsReviewRegex, (_, tier) => linkPattern + (tier || ""))
+
+          // Add (NEEDS REVIEW) or (NEEDS REVIEW: note) tag
+          const reviewTag = change.note ? ` (NEEDS REVIEW: ${change.note})` : " (NEEDS REVIEW)"
+          if (content.includes(linkPattern) && !content.includes(linkPattern + " (NEEDS REVIEW")) {
             const tierPattern = new RegExp(
               escapeRegex(linkPattern) + "(\\s*\\(Tier \\d\\))?",
             )
-            content = content.replace(tierPattern, (match) => match + " (NEEDS REVIEW)")
+            content = content.replace(tierPattern, (match) => match + reviewTag)
             modified = true
           }
           flagged++

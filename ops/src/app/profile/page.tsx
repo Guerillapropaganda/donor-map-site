@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import React, { useState, useEffect } from "react"
 import { useSearchParams, useRouter } from "next/navigation"
 import Link from "next/link"
 import { readinessColor, typeColor } from "@/lib/vault"
@@ -29,7 +29,7 @@ interface SourceData {
 }
 
 interface UrlData {
-  url: string; label: string; tier?: number; archived: boolean; triageStatus?: "verified" | "broken" | "unsure" | "unchecked"
+  url: string; label: string; tier?: number; archived: boolean; triageStatus?: "verified" | "broken" | "unsure" | "unchecked"; triageNote?: string
 }
 
 interface Connection {
@@ -61,6 +61,7 @@ export default function ProfilePage() {
   const [loading, setLoading] = useState(true)
   const [tab, setTab] = useState<"overview" | "sources" | "connections" | "urls">("overview")
   const [urlOverrides, setUrlOverrides] = useState<Record<number, "ok" | "broken" | "unsure">>({})
+  const [urlNotes, setUrlNotes] = useState<Record<number, string>>({})
   const [urlSaving, setUrlSaving] = useState(false)
   const [urlSaveMsg, setUrlSaveMsg] = useState("")
 
@@ -111,7 +112,7 @@ export default function ProfilePage() {
     setUrlSaveMsg("")
     const changes = Object.entries(urlOverrides).map(([idx, status]) => {
       const u = urls[Number(idx)]
-      return { url: u.url, label: u.label, tier: u.tier, profilePath: profilePath!, profile: profile.title, newStatus: status }
+      return { url: u.url, label: u.label, tier: u.tier, profilePath: profilePath!, profile: profile.title, newStatus: status, note: urlNotes[Number(idx)] || "" }
     })
     try {
       const res = await fetch("/api/urls/save", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ changes }) })
@@ -119,6 +120,7 @@ export default function ProfilePage() {
       if (data.success) {
         setUrlSaveMsg(`Saved: ${data.summary.archived} archived, ${data.summary.confirmed} confirmed, ${data.summary.flagged} flagged`)
         setUrlOverrides({})
+        setUrlNotes({})
         // Refresh URLs
         const profileData = await fetch(`/api/profile?path=${encodeURIComponent(profilePath!)}`).then(r => r.json())
         setUrls(profileData.urls || [])
@@ -448,7 +450,8 @@ export default function ProfilePage() {
                   : status === "unsure" ? "bg-[#a855f7]"
                   : "bg-[#6b7280]" // unchecked = gray
                 return (
-                  <div key={i} className={`flex items-start gap-2 p-2 rounded text-[10px] hover:bg-[var(--color-bg-hover)] transition-colors group ${status === "broken" ? "opacity-40" : ""}`}>
+                <React.Fragment key={i}>
+                  <div className={`flex items-start gap-2 p-2 rounded text-[10px] hover:bg-[var(--color-bg-hover)] transition-colors group ${status === "broken" ? "opacity-40" : ""}`}>
                     <span className={`mt-1 w-2 h-2 rounded-full flex-shrink-0 ${dotColor}`} />
                     <a href={u.url} target="_blank" rel="noopener noreferrer" className="min-w-0 flex-1">
                       <p className={`text-[var(--color-text)] hover:text-[var(--color-steel)] ${status === "broken" ? "line-through" : ""}`}>{u.label}</p>
@@ -464,6 +467,18 @@ export default function ProfilePage() {
                         className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "unsure" ? "bg-[#a855f7] text-white border-[#a855f7]" : "border-[var(--color-border)] text-[#a855f7] hover:bg-[#a855f7] hover:text-white"}`}>?</button>
                     </div>
                   </div>
+                  {override && (
+                    <div className="flex items-center gap-2 ml-6 -mt-0.5 mb-1">
+                      <input type="text" placeholder="Add a note (optional)..." value={urlNotes[i] || ""}
+                        onChange={(e) => setUrlNotes(p => ({ ...p, [i]: e.target.value }))}
+                        onClick={(e) => e.stopPropagation()}
+                        className="flex-1 bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-2 py-1 text-[9px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
+                    </div>
+                  )}
+                  {!override && u.triageNote && (
+                    <p className="ml-6 -mt-0.5 mb-1 text-[9px] text-[var(--color-text-dim)] italic">{u.triageNote}</p>
+                  )}
+                </React.Fragment>
                 )
               })}
             </div>

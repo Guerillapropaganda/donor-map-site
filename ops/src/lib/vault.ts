@@ -107,23 +107,26 @@ export function countSources(content: string): { total: number; tier1: number; t
 export type UrlTriageStatus = "verified" | "broken" | "unsure" | "unchecked"
 
 // Extract URLs from markdown content
-export function extractUrls(content: string): { url: string; label: string; tier?: number; archived: boolean; triageStatus: UrlTriageStatus }[] {
-  const urls: { url: string; label: string; tier?: number; archived: boolean; triageStatus: UrlTriageStatus }[] = []
-  const linkRegex = /(?:~~)?\[([^\]]+)\]\(([^)]+)\)(?:~~)?(?:\s*\(Tier (\d)\))?(?:\s*\(VERIFIED\))?(?:\s*\(NEEDS REVIEW\))?/g
+export function extractUrls(content: string): { url: string; label: string; tier?: number; archived: boolean; triageStatus: UrlTriageStatus; triageNote?: string }[] {
+  const urls: { url: string; label: string; tier?: number; archived: boolean; triageStatus: UrlTriageStatus; triageNote?: string }[] = []
+  const linkRegex = /(?:~~)?\[([^\]]+)\]\(([^)]+)\)(?:~~)?(?:\s*\(Tier (\d)\))?(?:\s*\(VERIFIED(?::\s*([^)]*))?\))?(?:\s*\(NEEDS REVIEW(?::\s*([^)]*))?\))?(?:\s*\([^)]*archived by Ops\))?/g
   let match
 
   while ((match = linkRegex.exec(content)) !== null) {
     const full = match[0]
     const isArchived = full.startsWith("~~")
-    const isVerified = full.includes("(VERIFIED)")
-    const isUnsure = full.includes("(NEEDS REVIEW)")
+    const isVerified = full.includes("(VERIFIED")
+    const isUnsure = full.includes("(NEEDS REVIEW")
     const triageStatus: UrlTriageStatus = isArchived ? "broken" : isVerified ? "verified" : isUnsure ? "unsure" : "unchecked"
+    // Extract note from markers: (VERIFIED: note) or (NEEDS REVIEW: note)
+    const triageNote = match[4] || match[5] || undefined
     urls.push({
       label: match[1],
       url: match[2],
       tier: match[3] ? parseInt(match[3]) : undefined,
       archived: isArchived,
       triageStatus,
+      triageNote: triageNote?.trim(),
     })
   }
 
