@@ -14,7 +14,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 397265
 total-assets: 358665
-related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]]"
+related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]]"
 ---
 
 #pge #pacific-gas-electric #california #utility #wildfire #camp-fire #monopoly #negligence

@@ -23,7 +23,7 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, S.D. California"
   - "District Court, S.D. Florida"
-related: "[[Fox News to Pentagon - The Media-Military Pipeline]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[Fox News - Murdoch Media Empire]]"
+related: "[[Fox News to Pentagon - The Media-Military Pipeline]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[Fox News - Murdoch Media Empire]] · [[Wilks Brothers — Dan and Farris Wilks]]"
 ---
 
 #donor #murdoch #oligarch #media #fox-news #uk #australia #us
