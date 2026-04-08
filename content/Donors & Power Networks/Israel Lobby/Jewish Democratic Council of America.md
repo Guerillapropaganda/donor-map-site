@@ -35,7 +35,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[John Fetterman Master Profile]] · [[Paul Ryan]]"
+related: "[[John Fetterman Master Profile]] · [[Paul Ryan]] · [[Amy Klobuchar]]"
 ---
 
 #jdca #jewish-democratic-council #israel-lobby #democratic-party #pro-israel

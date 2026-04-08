@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]]"
+related: "[[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
 ---
 
 

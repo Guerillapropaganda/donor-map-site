@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Corporate Subsidies and the Business Climate Argument]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]]"
+related: "[[Corporate Subsidies and the Business Climate Argument]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]]"
 ---
 
 

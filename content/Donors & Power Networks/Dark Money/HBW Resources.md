@@ -20,7 +20,7 @@ court-jurisdictions:
   - "District Court, S.D. Texas"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. Texas"
-related: "[[WSPA - Western States Petroleum Association]] · [[Michael Whatley Master Profile]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]]"
 ---
 
 #hbw-resources #lobbying #energy #fossil-fuel #astroturf #front-group #lng #consumer-energy-alliance #western-states-tribal-nations #oil-gas #influence #dark-money

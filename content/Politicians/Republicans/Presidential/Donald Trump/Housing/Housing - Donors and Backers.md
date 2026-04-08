@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Real Estate Development Industry Bloc]] · [[Lennar Corporation]]"
+related: "[[Real Estate Development Industry Bloc]] · [[Lennar Corporation]] · [[Supply-Side Framework - Who It Helps]]"
 ---
 
 

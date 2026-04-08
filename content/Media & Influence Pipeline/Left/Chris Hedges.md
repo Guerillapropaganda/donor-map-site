@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "(no donor nodes — Hedges' funding model is institutional salary → state media → audience-funded; no single donor class patron) · [[Owen Jones]] · [[Lee Camp]]"
+related: "(no donor nodes — Hedges' funding model is institutional salary → state media → audience-funded; no single donor class patron) · [[Owen Jones]] · [[Lee Camp]] · [[George Galloway]]"
 ---
 
 #media-pipeline #left #institutional-transition #pulitzer-prize #editorial-constraints

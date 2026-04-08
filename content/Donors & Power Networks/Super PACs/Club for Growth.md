@@ -11,7 +11,7 @@ ein: 204681603
 annual-revenue: "$12.3M"
 net-assets: "$9.3M"
 tax-year: "2023"
-related: "[[Senate Majority PAC]] · [[Intra-Republican Contradiction Map]]"
+related: "[[Senate Majority PAC]] · [[Intra-Republican Contradiction Map]] · [[John Ratcliffe Master Profile]]"
 ---
 
 #donor-node #super-pac #republican #primary-enforcement #anti-tax #fiscal-conservative #class-analysis #follow-the-money #mega-donor

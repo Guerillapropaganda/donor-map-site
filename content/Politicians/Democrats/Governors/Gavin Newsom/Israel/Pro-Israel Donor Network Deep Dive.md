@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Trump Resistance and the 2028 Play]] · [[Ethnic Studies - Whose History Gets Taught]]"
+related: "[[Trump Resistance and the 2028 Play]] · [[Ethnic Studies - Whose History Gets Taught]] · [[AIPAC Buys Progressive Cover for Bipartisan Israel Policy]]"
 ---
 
 

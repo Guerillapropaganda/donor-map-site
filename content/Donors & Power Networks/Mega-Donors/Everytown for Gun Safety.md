@@ -32,7 +32,7 @@ ein: 208802884
 annual-revenue: "$60.7M"
 net-assets: "$23.2M"
 tax-year: "2023"
-related: "[[Mark Kelly]] · [[Chris Murphy Master Profile]]"
+related: "[[Mark Kelly]] · [[Chris Murphy Master Profile]] · [[Gun and Public Safety - Donors and Backers]]"
 ---
 
 

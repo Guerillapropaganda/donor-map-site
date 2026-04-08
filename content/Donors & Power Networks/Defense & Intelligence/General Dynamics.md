@@ -25,7 +25,7 @@ subawards-received: 50
 subawards-received-amount: 5728077424
 top-federal-agency: "General Services Administration"
 top-naics-code: "541512"
-related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]]"
+related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]]"
 ---
 
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial

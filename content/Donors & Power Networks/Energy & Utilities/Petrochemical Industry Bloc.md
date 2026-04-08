@@ -15,7 +15,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
 ofac-programs:
   - "NPWMD] [IFSR"
-related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]]"
+related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]]"
 ---
 
 #petrochemical #plastics #refining #cancer-alley #louisiana #texas #environmental-justice

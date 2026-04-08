@@ -34,7 +34,7 @@ lei: "549300QHD76EP6ZKTT48"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]]"
+related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]]"
 ---
 
 #coinbase #crypto #lobbying #sec #deregulation #fairshake

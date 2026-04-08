@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Josh Shapiro Master Profile]]
-related: "[[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
+related: "[[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[The Biden Exit and Harris Installation]]"
 ---
 
 

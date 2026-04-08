@@ -38,7 +38,7 @@ regulatory-agencies:
   - "Federal Motor Carrier Safety Administration"
   - "Federal Trade Commission"
   - "International Trade Administration"
-related: "[[DeVos Family]] · [[Labor - Donors and Backers]]"
+related: "[[DeVos Family]] · [[Labor - Donors and Backers]] · [[The Education Committee and Michigan Manufacturing]]"
 ---
 
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money

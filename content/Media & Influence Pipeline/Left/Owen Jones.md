@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[Chris Hedges]] · [[Aaron Maté]] · [[Mehdi Hasan]] · [[Novara Media]] · [[George Galloway]]"
+related: "[[Chris Hedges]] · [[Aaron Maté]] · [[Mehdi Hasan]] · [[Novara Media]] · [[George Galloway]] · [[Lee Camp]]"
 ---
 
 #media-pipeline #left #UK #guardian #labour #democratic-socialism #platform-dependency #institutional-left

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Tim Pool]] · [[Dave Rubin]] · [[Benny Johnson]] · [[Lauren Southern]] · [[Lauren Chen]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Rumble]]"
+related: "[[Tim Pool]] · [[Dave Rubin]] · [[Benny Johnson]] · [[Lauren Southern]] · [[Lauren Chen]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Rumble]] · [[Jordan Peterson]]"
 ---
 
 #media-pipeline #right #media-network #dark-money #russian-money #doj-indictment #tenet-media #foreign-influence #fara

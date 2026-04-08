@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
-related: "[[Koch Network - Charles Koch]] · [[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Center for a New American Security]]"
+related: "[[Koch Network - Charles Koch]] · [[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Center for a New American Security]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]]"
 court-cases: 146
 last-enriched: "2026-04-08"
 court-jurisdictions:

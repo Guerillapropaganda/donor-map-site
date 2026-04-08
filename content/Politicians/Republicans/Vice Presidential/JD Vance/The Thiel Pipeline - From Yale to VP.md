@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_JD Vance Master Profile]]
-related: "[[The 2024 Tech Billionaire Network]] · [[Hillbilly Elegy and the Class Fraud]]"
+related: "[[The 2024 Tech Billionaire Network]] · [[Hillbilly Elegy and the Class Fraud]] · [[The Thiel-Adjacent Tech Pipeline]]"
 ---
 
 

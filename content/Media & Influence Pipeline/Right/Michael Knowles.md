@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Jeremy Boreing]]"
+related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Jeremy Boreing]] · [[Andrew Klavan]]"
 ---
 
 #media-pipeline #right #culture-war #daily-wire #evangelical-capitalism

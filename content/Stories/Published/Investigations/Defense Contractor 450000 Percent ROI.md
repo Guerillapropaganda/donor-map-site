@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[The Defense Spending Bipartisan Consensus]] · [[Think Tank Capture - Foreign Governments Writing US Policy]]"
+related: "[[The Defense Spending Bipartisan Consensus]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[South Carolina 2026 Senate Race]]"
 ---
 
 #story #investigation #donor-pipeline #defense-industry-capture

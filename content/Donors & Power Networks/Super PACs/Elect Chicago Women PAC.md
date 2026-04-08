@@ -10,7 +10,7 @@ entity-type: "PAC"
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean Master Profile]]"
+related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean Master Profile]] · [[Daniel Biss Master Profile]]"
 ---
 
 #elect-chicago-women-pac #AIPAC #shell-pac #Israel-lobby #2024-Illinois-House #dark-money #disclosure-avoidance

@@ -44,7 +44,7 @@ sec-form-types:
   - "EX-99.4"
   - "N-Q"
   - "SC TO-C"
-related: "[[Sports Gambling Industry State Capture]] · [[Steve Scalise]]"
+related: "[[Sports Gambling Industry State Capture]] · [[Steve Scalise]] · [[Jason Smith]]"
 ---
 
 #gaming #gambling #casino #sports-betting #lobbying #addiction #deregulation #murphyvncaa #revolving-door #bipartisan #class-analysis #follow-the-money

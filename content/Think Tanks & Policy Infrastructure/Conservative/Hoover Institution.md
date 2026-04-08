@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: conservative
 tax-status: Division of Stanford University
-related: "[[Koch Network - Charles Koch]] · [[Scaife Foundations]] · [[Bradley Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]]"
+related: "[[Koch Network - Charles Koch]] · [[Scaife Foundations]] · [[Bradley Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]]"
 sec-filings: 5190
 sec-form-types:
   - "10-K/A"

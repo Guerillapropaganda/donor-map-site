@@ -21,7 +21,7 @@ ofac-programs:
   - "RUSSIA-EO14024"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
   - "IRAN-EO13902"
-related: "[[Texas 2026 Senate Race]] · [[Kay Granger Master Profile]]"
+related: "[[Texas 2026 Senate Race]] · [[Kay Granger Master Profile]] · [[Cathy McMorris Rodgers Master Profile]]"
 ---
 
 #oil #gas #pacs #fossil-fuel #republican #bipartisan #energy

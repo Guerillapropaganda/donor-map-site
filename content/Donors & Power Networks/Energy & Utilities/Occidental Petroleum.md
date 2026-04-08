@@ -9,7 +9,7 @@ sector: "Energy & Utilities"
 entity-type: "Corporation"
 lei: "IM7X0T3ECJW4C1T7ON55"
 lei-jurisdiction: "US-DE"
-related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]]"
+related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Marathon Petroleum]]"
 ---
 
 #occidental #oil #permian-basin #buffett #carbon-capture #lobbying #energy

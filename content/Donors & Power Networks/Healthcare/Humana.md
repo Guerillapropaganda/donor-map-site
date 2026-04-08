@@ -25,7 +25,7 @@ court-jurisdictions:
   - "District Court, S.D. Texas"
   - "District Court, W.D. Kentucky"
   - "United States Bankruptcy Court, W.D. Kentucky"
-related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Hospital Corporation of America - HCA]]"
+related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Hospital Corporation of America - HCA]] · [[Anthem - Elevance Health Political Operation]]"
 ---
 
 #humana #health-insurance #medicare-advantage #lobbying #kentucky

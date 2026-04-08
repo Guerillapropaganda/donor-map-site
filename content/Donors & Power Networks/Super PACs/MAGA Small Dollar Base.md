@@ -9,7 +9,7 @@ sector: "Super PACs"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
-related: "[[Matt Gaetz Master Profile]] · [[The McCarthy Ouster and the Politics of Institutional Destruction]]"
+related: "[[Matt Gaetz Master Profile]] · [[The McCarthy Ouster and the Politics of Institutional Destruction]] · [[Marjorie Taylor Greene Master Profile]]"
 ---
 
 #maga #small-dollar #donors #trump #grassroots #winred #fundraising #recurring-donations #indictment-fundraising #class-analysis #follow-the-money

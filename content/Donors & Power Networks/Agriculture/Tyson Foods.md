@@ -32,7 +32,7 @@ regulatory-agencies:
   - "Federal Maritime Commission"
   - "Food and Nutrition Service"
   - "Health and Human Services Department"
-related: "[[Cargill]] · [[Agriculture - Donors and Backers]]"
+related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]]"
 ---
 
 #tyson #agriculture #poultry #meatpacking #labor #arkansas #immigration

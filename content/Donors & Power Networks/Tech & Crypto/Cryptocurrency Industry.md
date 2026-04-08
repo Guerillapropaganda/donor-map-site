@@ -26,7 +26,7 @@ regulatory-agencies:
   - "Internal Revenue Service"
   - "Securities and Exchange Commission"
   - "Treasury Department"
-related: "[[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]]"
+related: "[[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Crypto vs. Institutional Democrats in Illinois]]"
 ---
 
 #crypto #cryptocurrency #bitcoin #blockchain #deregulation #fairshake #sec #class-analysis #follow-the-money
