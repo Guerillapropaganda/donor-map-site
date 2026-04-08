@@ -47,7 +47,7 @@ The four pillars:
 
 - [FEC Receipts: Agribusiness industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - ~~[EWG: Farm subsidy database](https://farm.ewg.org/search.php?search=Agribusiness%20Donor%20Bloc)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [Ballotpedia: Agricultural policy](https://ballotpedia.org/Agribusiness_Donor_Bloc) (Tier 3)
+- ~~[Ballotpedia: Agricultural policy](https://ballotpedia.org/Agribusiness_Donor_Bloc)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 content-readiness:: ready
 
