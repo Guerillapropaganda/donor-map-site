@@ -466,7 +466,7 @@ export default function RelationshipsPage() {
                         return (
                           <div key={name} className="flex items-center gap-2 p-2 bg-[var(--color-bg)] rounded hover:bg-[var(--color-bg-hover)] transition-colors group">
                             <span className="w-2 h-2 rounded-full" style={{ backgroundColor: REL_COLORS[rt] }} />
-                            <button onClick={() => { const tp = topConnected.find((t) => t.title === name); if (tp) selectProfile(tp) }}
+                            <button onClick={() => { const tp = topConnected.find((t) => t.title === name) || profiles.find((p) => p.title === name); if (tp) selectProfile(tp) }}
                               className="text-[11px] text-[var(--color-text)] hover:text-[var(--color-steel)] text-left flex-1">{name}</button>
                             {targetProfile && <span className="text-[7px] px-1 rounded" style={{ color: typeColor(targetProfile.type), backgroundColor: `${typeColor(targetProfile.type)}15` }}>{targetProfile.type}</span>}
                             {shared.length > 0 && (
@@ -608,7 +608,7 @@ export default function RelationshipsPage() {
                         <div className="absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 z-10 group/node"
                           style={{ left: `${x}%`, top: `${y}%` }}>
                           <button
-                            onClick={() => { const tp = topConnected.find((t) => t.title === node.name); if (tp) selectProfile(tp) }}
+                            onClick={() => { const tp = topConnected.find((t) => t.title === node.name) || profiles.find((p) => p.title === node.name); if (tp) selectProfile(tp) }}
                             onContextMenu={(e) => { e.preventDefault(); e.stopPropagation(); setContextMenu({ x: e.clientX, y: e.clientY, name: node.name, type: node.type }) }}
                             className="w-full h-full rounded-full flex items-center justify-center text-center hover:scale-110 transition-transform"
                             style={{ backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
