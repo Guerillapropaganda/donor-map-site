@@ -12,6 +12,10 @@ interface UrlChange {
   newStatus: "ok" | "broken" | "slow" | "unsure"
 }
 
+function escapeRegex(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+}
+
 function getRepoRoot(): string {
   const fromOps = path.resolve(process.cwd(), "..")
   if (fs.existsSync(path.join(fromOps, "content"))) return fromOps
@@ -68,18 +72,51 @@ export async function POST(request: Request) {
             archived++
           }
         } else if (change.newStatus === "ok") {
-          // URL confirmed working — if it was archived, unarchive it
-          const archivedPattern = `~~[${change.label}](${change.url})~~`
+          // URL confirmed working — unarchive if needed, add (VERIFIED) marker
+          const linkPattern = `[${change.label}](${change.url})`
+          const archivedPattern = `~~${linkPattern}~~`
+
+          // Unarchive if strikethrough
           if (content.includes(archivedPattern)) {
-            content = content.replace(archivedPattern, `[${change.label}](${change.url})`)
+            // Remove strikethrough and any archive note
+            const archiveNoteRegex = new RegExp(
+              escapeRegex(`~~${linkPattern}~~`) + "(?:\\s*\\([^)]*archived by Ops\\))?",
+            )
+            content = content.replace(archiveNoteRegex, linkPattern)
+            modified = true
+          }
+
+          // Remove (NEEDS REVIEW) if present
+          if (content.includes(linkPattern + " (NEEDS REVIEW)")) {
+            content = content.replace(linkPattern + " (NEEDS REVIEW)", linkPattern)
+            modified = true
+          }
+
+          // Add (VERIFIED) if not already present
+          if (content.includes(linkPattern) && !content.includes(linkPattern + " (VERIFIED)")) {
+            // Find the link with optional tier suffix and add VERIFIED after
+            const tierPattern = new RegExp(
+              escapeRegex(linkPattern) + "(\\s*\\(Tier \\d\\))?",
+            )
+            content = content.replace(tierPattern, (match) => match + " (VERIFIED)")
             modified = true
           }
           confirmed++
         } else if (change.newStatus === "unsure") {
-          // Add (NEEDS REVIEW) tag if not already present
           const linkPattern = `[${change.label}](${change.url})`
+
+          // Remove (VERIFIED) if present
+          if (content.includes(linkPattern)) {
+            content = content.replace(linkPattern + " (VERIFIED)", linkPattern)
+          }
+
+          // Add (NEEDS REVIEW) tag if not already present
           if (content.includes(linkPattern) && !content.includes(linkPattern + " (NEEDS REVIEW)")) {
-            content = content.replace(linkPattern, linkPattern + " (NEEDS REVIEW)")
+            // Find the link with optional tier suffix and add NEEDS REVIEW after
+            const tierPattern = new RegExp(
+              escapeRegex(linkPattern) + "(\\s*\\(Tier \\d\\))?",
+            )
+            content = content.replace(tierPattern, (match) => match + " (NEEDS REVIEW)")
             modified = true
           }
           flagged++

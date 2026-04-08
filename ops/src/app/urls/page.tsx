@@ -8,6 +8,7 @@ interface VaultUrl {
   label: string
   tier?: number
   archived: boolean
+  triageStatus?: "verified" | "broken" | "unsure" | "unchecked"
   profile: string
   profilePath: string
   domain: string
@@ -85,6 +86,16 @@ export default function UrlManagerPage() {
               completedStatus: "archived-done",
               completedDate: "from vault",
             })
+          } else if (u.triageStatus === "verified") {
+            // Already verified in vault → goes to Completed Archive as confirmed
+            fromVaultCompleted.push({
+              ...u,
+              completedStatus: "confirmed",
+              completedDate: "from vault",
+            })
+          } else if (u.triageStatus === "unsure") {
+            // Flagged in vault → show in active triage as unsure
+            active.push({ ...u, status: "unsure" as UrlStatus })
           } else {
             active.push({ ...u, status: "unchecked" as UrlStatus })
           }

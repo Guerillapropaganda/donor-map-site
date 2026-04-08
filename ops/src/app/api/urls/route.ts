@@ -2,12 +2,15 @@ import { NextResponse } from "next/server"
 import fs from "fs"
 import path from "path"
 
+export type UrlTriageStatus = "verified" | "broken" | "unsure" | "unchecked"
+
 export interface VaultUrl {
   id: string
   url: string
   label: string
   tier?: number
   archived: boolean
+  triageStatus: UrlTriageStatus
   profile: string
   profilePath: string
   domain: string
@@ -75,11 +78,15 @@ export async function GET(request: Request) {
       const profileTitle = titleMatch ? titleMatch[1].trim().replace(/^["']|["']$/g, "") : filePath.split("/").pop()?.replace(".md", "") || "Unknown"
 
       // Extract URLs with markdown link syntax
-      const linkRegex = /(~~)?\[([^\]]+)\]\((https?:\/\/[^)]+)\)(~~)?(?:\s*\(Tier (\d)\))?/g
+      const linkRegex = /(~~)?\[([^\]]+)\]\((https?:\/\/[^)]+)\)(~~)?(?:\s*\(Tier (\d)\))?(?:\s*\(VERIFIED\))?(?:\s*\(NEEDS REVIEW\))?/g
       let match
 
       while ((match = linkRegex.exec(content)) !== null) {
+        const full = match[0]
         const isArchived = !!(match[1] || match[4])
+        const isVerified = full.includes("(VERIFIED)")
+        const isUnsure = full.includes("(NEEDS REVIEW)")
+        const triageStatus: UrlTriageStatus = isArchived ? "broken" : isVerified ? "verified" : isUnsure ? "unsure" : "unchecked"
         const url = match[3]
         let domain = ""
         try { domain = new URL(url).hostname.replace("www.", "") } catch { /* skip */ }
@@ -90,6 +97,7 @@ export async function GET(request: Request) {
           label: match[2],
           tier: match[5] ? parseInt(match[5]) : undefined,
           archived: isArchived,
+          triageStatus,
           profile: profileTitle,
           profilePath: filePath,
           domain,
