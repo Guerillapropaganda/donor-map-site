@@ -148,5 +148,5 @@ content-readiness:: ready
 - Ultimate Parent: [ARCHER-DANIELS-MIDLAND COMPANY](https://search.gleif.org/#/record/549300LO13MQ9HYSTR83) (US-DE)
 - Công ty TNHH Archer Daniels Midland VN (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- ~~[Source: GLEIF](https://www.gleif.org/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:gleif-lei end -->
