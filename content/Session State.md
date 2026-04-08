@@ -12,7 +12,7 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-08 (readiness overhaul + ops v2 + profile viewer rebuild)
+Date: 2026-04-08 (readiness overhaul + ops v2 + profile viewer rebuild + type-specific checklists)
 
 Done:
 - **Readiness tier overhaul** — removed "developed", established 4-tier grading (raw/draft/ready/verified) with investigative journalism standards
@@ -35,16 +35,37 @@ Done:
 
 Bug fixes: URL dedup, nested bracket regex, internal-notes YAML corruption (newlines), refresh button loading, search matching paths.
 
+Additional done:
+- **Type-specific A+ checklists** — VerificationChecklist component with role-aware requirements:
+  Congress (voting records, committees, bills), President (executive orders, cabinet appointments),
+  Governor (executive actions, state legislation), Cabinet (appointment, revolving door),
+  Donor, Corporation, Media, Think Tank, Lobbying Firm, PAC — each with tailored criteria
+- **N/A system** — edge cases (candidate not in office, private company, independent media) can mark
+  items N/A with a reason, stored in checklist-na frontmatter. N/A items excluded from A+ scoring.
+- **Pipeline Data Viewer** — expandable read-only view of all auto-blocks (voting records, committees,
+  bills, FEC, executive orders, lobbying, contracts). Priority-sorted by profile type.
+- **Executive orders pipeline** — proper pipeline in engine repo, ran for 5 presidents:
+  Trump (474 EOs), Obama (294), Clinton (310), Biden (162), Bush W (294). Write run in progress.
+- **Prev/Next navigation** on profile viewer
+- **URL deduplication**, nested bracket regex fix, internal-notes YAML corruption fix
+- **Connection type editor** — hover any connection to change type via dropdown (Related/Funded By/Opposes)
+- **Editor auto-loads** profile from ?profile= query param
+- Removed redundant ReadinessChart, added ContentBreakdown by category
+- GitHub support ticket responded to (Actions disabled, awaiting re-enablement)
+
 Known issues:
-- Trump's `related:`/`donors:` in body not frontmatter — shows 0 connections
-- Some profiles may have corrupted internal-notes from early auto-check
+- Trump's `related:`/`donors:` in body not frontmatter — shows 0 connections in profile viewer
+- Executive orders --write run may not have completed (check next session)
+- Some profiles may have corrupted internal-notes from early auto-check runs
 
 Next session priorities:
-1. Profile viewer improvements (David has ideas)
-2. Graph legend on live site
-3. Contradiction scanner
-4. Money trail visualizer
+1. Check executive orders pipeline --write results
+2. Graph legend on live site (Stories, Opposition, entity types)
+3. Contradiction scanner — auto-find shared-donor contradictions
+4. Money trail visualizer — donor→politician→committee→bill flow
 5. Fix lda-pipeline.cjs domain
+6. Build governor executive actions pipeline (state-level)
+7. Social scheduling for Distribution page
 
 Next session priorities:
 1. Run reclassify-readiness.cjs --write after David reviews report
