@@ -222,16 +222,14 @@ export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }:
                 <span className="w-4 h-4 flex items-center justify-center text-[10px] text-[var(--color-red)]">&#10007;</span>
               )}
 
-              {/* Label */}
-              <span className={`text-[10px] flex-1 ${na ? "line-through text-[var(--color-text-dim)]" : passed ? "text-[var(--color-text)]" : "text-[var(--color-red)]"}`}>
+              {/* Label + pipeline button inline */}
+              <span className={`text-[10px] ${na ? "line-through text-[var(--color-text-dim)]" : passed ? "text-[var(--color-text)]" : "text-[var(--color-red)]"}`}>
                 {item.label}
               </span>
-
-              {/* Run pipeline button */}
               {item.pipeline && !na && onRunPipeline && (
                 <button
                   onClick={(e) => { e.stopPropagation(); onRunPipeline(item.pipeline!, profile.title) }}
-                  className={`text-[8px] px-1.5 py-0.5 rounded border transition-colors ${
+                  className={`text-[8px] px-1 py-0.5 rounded border transition-colors ml-1 ${
                     passed
                       ? "border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-steel)] hover:border-[var(--color-steel)]/30"
                       : "border-[var(--color-steel)]/30 text-[var(--color-steel)] hover:bg-[var(--color-steel)]/10"
@@ -241,6 +239,7 @@ export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }:
                   ▶ {item.pipeline}
                 </button>
               )}
+              <span className="flex-1" />
 
               {/* N/A reason */}
               {na && naReasonText && (
