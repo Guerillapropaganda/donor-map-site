@@ -33,6 +33,14 @@ regulatory-agencies:
   - "Labor Department"
 lobbying-spend: 3803687
 lobbying-filings: 110
+court-cases: 1615
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, N.D. Alabama"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. California"
+  - "United States Bankruptcy Court, C.D. California"
 ---
 
 
@@ -226,3 +234,22 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,615 |
+| Courts | District Court, C.D. California, District Court, N.D. Alabama, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. California, United States Bankruptcy Court, C.D. California |
+| Case Types | 410 Anti-Trust |
+
+**Notable cases:**
+- Texas Medical Association v. MultiPlan Inc (2026) — District Court, N.D. Illinois
+- Pico-Union Housing Corporation (2026) — United States Bankruptcy Court, C.D. California
+- Carolina Neurosurgery and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
+- Florida Spine and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
+- Allstate Lending Group, Inc. (2026) — United States Bankruptcy Court, C.D. California
+- Anderson v. Blue Shield of California (2026) — District Court, S.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blue%20Shield%20of%20California%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

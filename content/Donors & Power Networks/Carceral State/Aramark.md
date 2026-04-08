@@ -24,6 +24,60 @@ court-jurisdictions:
   - "District Court, S.D. Indiana"
   - "District Court, S.D. West Virginia"
   - "District Court, W.D. North Carolina"
+sec-filings: 10000
+sec-form-types:
+  - "10-K/A"
+  - "10-Q"
+  - "4"
+  - "8-K"
+  - "8-K/A"
+  - "CORRESP"
+  - "EFFECT"
+  - "EX-10.1"
+  - "EX-10.10"
+  - "EX-10.11"
+  - "EX-10.13"
+  - "EX-10.17"
+  - "EX-10.19"
+  - "EX-10.2"
+  - "EX-10.20"
+  - "EX-10.22"
+  - "EX-10.28"
+  - "EX-10.3"
+  - "EX-10.4"
+  - "EX-10.5"
+  - "EX-10.9"
+  - "EX-2"
+  - "EX-21"
+  - "EX-21.0"
+  - "EX-21.1"
+  - "EX-25"
+  - "EX-4.1"
+  - "EX-4.2"
+  - "EX-5"
+  - "EX-5.1"
+  - "EX-7.13"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "POS EX"
+  - "S-1/A"
+  - "SCHEDULE 13G/A"
+federal-register-mentions: 111
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Antitrust Division"
+  - "Employment and Training Administration"
+  - "Federal Trade Commission"
+  - "Food and Nutrition Service"
+  - "Interior Department"
+  - "Justice Department"
+  - "Labor Department"
+  - "National Labor Relations Board"
+  - "National Park Service"
+federal-awards-total: 5386278
+federal-contracts-count: 25
+federal-grants-count: 0
 ---
 
 
@@ -138,3 +192,67 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Aramark%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K/A, 10-Q, 4, 8-K, 8-K/A, CORRESP, EFFECT, EX-10.1 +29 more |
+| CIK | 1584509 |
+| Ticker | ARMK |
+
+**Notable filings:**
+
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1584509/000010290926000685/0000102909-26-000685-index.htm)
+- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000076/0001584509-26-000076-index.htm)
+- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000075/0001584509-26-000075-index.htm)
+- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000074/0001584509-26-000074-index.htm)
+- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000073/0001584509-26-000073-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Aramark%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 111 |
+| Final Rules | 4 |
+| Proposed Rules | 2 |
+| Notices | 105 |
+| Agencies | Agriculture Department, Antitrust Division, Employment and Training Administration, Federal Trade Commission, Food and Nutrition Service, Interior Department, Justice Department, Labor Department +2 more |
+
+**Recent regulatory activity:**
+- [United States v. Reddy Ice LLC, et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/02/18/2026-03102/united-states-v-reddy-ice-llc-et-al-proposed-final-judgment-and-competitive-impact-statement) (2026-02-18) — Justice Department
+- [Notice of Intent To Award a Sole-Source Concession Contract for Visitor Services at Bryce Canyon National Park](https://www.federalregister.gov/documents/2025/11/18/2025-20192/notice-of-intent-to-award-a-sole-source-concession-contract-for-visitor-services-at-bryce-canyon) (2025-11-18) — Interior Department
+- [Notice of Intent To Extend and Continue Concession Contracts and Award Temporary Concession Contracts](https://www.federalregister.gov/documents/2025/10/02/2025-19359/notice-of-intent-to-extend-and-continue-concession-contracts-and-award-temporary-concession) (2025-10-02) — Interior Department
+- [Notice of Intent To Extend Concession Contracts at Yellowstone National Park](https://www.federalregister.gov/documents/2025/01/21/2025-01240/notice-of-intent-to-extend-concession-contracts-at-yellowstone-national-park) (2025-01-21) — Interior Department
+- [Notice of Intent To Extend and Continue Concession Contracts and Award Temporary Concession Contracts](https://www.federalregister.gov/documents/2024/10/25/2024-24872/notice-of-intent-to-extend-and-continue-concession-contracts-and-award-temporary-concession) (2024-10-25) — Interior Department
+- [Standard for Determining Joint Employer Status](https://www.federalregister.gov/documents/2023/10/27/2023-23573/standard-for-determining-joint-employer-status) (2023-10-27) — National Labor Relations Board ★
+- ... and 105 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Aramark%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $5.4M |
+| Contracts (recent 3yr) | 25 ($70.4M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 8 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $31.9M | Department of Homeland Security | IGF::OT::IGF FULL FOOD SERVICES IN ACCORDANCE WITH THE SCHEDULE OF SERVICES ON PAGES 5 THROUGH 9 AT  |
+| $16.1M | Department of the Interior | NCTC GUEST SERVICES |
+| $15.9M | Department of the Interior | GUEST AND FOOD&BEVERAGE SERVICES AT THE NATIONAL CONSERVATION TRAINING CENTER  IGF::OT::IGF |
+| $1.2M | Department of Homeland Security | RESERVISTS LODGING/MEALS IGF::CT::IGF |
+| $1.1M | Department of the Interior | VISITOR TRANSPORTATION SERVICE FOR NATIONAL PARK SERVICE - INTERIOR REGIONS 8, 9, 10, AND 12, YOSEMI |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/51228162-3071-aad7-ea2a-2d3d08d780eb-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

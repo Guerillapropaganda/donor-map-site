@@ -2,11 +2,15 @@
 title: "Walmart"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
+ein: 710569421
+annual-revenue: "$3.5B"
+net-assets: "$890.1M"
+tax-year: "2023"
 ---
 
 #walmart #walton #retail #anti-union #minimum-wage #arkansas #bipartisan #corporate-welfare #estate-tax #school-choice #pac
@@ -120,3 +124,17 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 - [Columbia Journalism Review: How billionaires get around the estate tax (Walton family)](https://www.cjr.org/the_audit/bloomberg_waltons_how_billionaires_get_around_estate_tax.php) (Tier 2)
 
 content-readiness:: developed
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $3.5B |
+| Total Contributions | $0 |
+| Program Service Revenue | $3.5B |
+| Investment Income | $931K |
+| Total Expenses | $3.5B |
+| Net Assets | $890.1M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 710569421](https://projects.propublica.org/nonprofits/organizations/710569421) (Tier 1)
+<!-- auto:propublica-990 end -->

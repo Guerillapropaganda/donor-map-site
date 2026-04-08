@@ -582,16 +582,17 @@ research-status:: developed — Complete 2025 financials ($2.63B revenue, $254.4
 | Metric | Value |
 |--------|-------|
 | Politicians Funded | 5 |
+| Active Lobbyist | Yes |
 | Federal Contractor | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Gavin Newsom]] — contracts: $959K
-- [[Donald Trump]] — contracts: $959K
-- [[Chad Bianco]] — contracts: $959K
-- [[Marco Rubio]] — contracts: $959K
-- [[Pam Bondi]] — contracts: $959K
+- [[Gavin Newsom]] — lobbying: $2.6M — contracts: $959K
+- [[Donald Trump]] — lobbying: $2.6M — contracts: $959K
+- [[Chad Bianco]] — lobbying: $2.6M — contracts: $959K
+- [[Marco Rubio]] — lobbying: $2.6M — contracts: $959K
+- [[Pam Bondi]] — lobbying: $2.6M — contracts: $959K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->

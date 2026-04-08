@@ -2,12 +2,14 @@
 title: "Urban Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
 related: "[[Goldman Sachs]]"
+lei: "984500C6P0VF15B8E658"
+lei-jurisdiction: "IN"
 ---
 
 #think-tank #liberal #housing #poverty #healthcare #tax-policy #urban-policy #government-funded #class-analysis
@@ -194,3 +196,18 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 - [Brookings: The Fifth Estate — Think Tanks, Public Policy, and Governance — academic analysis of think tank government dependency](https://www.brookings.edu/wp-content/uploads/2016/06/chapter-one_-the-fifth-estate.pdf) (Tier 3)
 
 content-readiness:: ready
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [984500C6P0VF15B8E658](https://search.gleif.org/#/record/984500C6P0VF15B8E658) |
+| Legal Name | NATIONAL INSTITUTE OF URBAN AFFAIRS |
+| Jurisdiction | IN |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-06T12:17:23Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

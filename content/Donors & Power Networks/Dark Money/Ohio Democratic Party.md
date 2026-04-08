@@ -32,6 +32,10 @@ lobbying-filings: 95
 sec-filings: 3
 sec-form-types:
   - "DEF 14A"
+total-political-spend: "$9,177,680"
+politicians-funded:
+  - "Sherrod Brown"
+  - "Richard Neal"
 ---
 
 #ohio #democratic-party #state-party #rust-belt #labor #decline #donor-class #working-class
@@ -244,3 +248,28 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ohio%20Democratic%20Party%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $9,177,680 |
+| Contributions | 88 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $5,807,500 | DEM |
+| MICHIGAN DEMOCRATIC STATE CENTRAL COMMITTEE | $885,000 | DEM |
+| MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY | $600,000 | DEM |
+| FRIENDS OF SHERROD BROWN | $500,000 | DEM |
+| DGA ACTION | $440,000 | — |
+| OHIO DEMOCRATIC PARTY | $243,014 | DEM |
+| DSCC | $150,000 | DEM |
+| DNC SERVICES CORP./DEM. NAT'L COMMITTEE | $96,000 | DEM |
+| ASSOCIATION OF STATE DEMOCRATIC COMMITTEES | $69,370 | DEM |
+| IDAHO STATE DEMOCRATIC PARTY | $50,000 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ohio%20Democratic%20Party) (Tier 1)
+<!-- auto:fec-donor end -->

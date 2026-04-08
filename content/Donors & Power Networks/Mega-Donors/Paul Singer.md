@@ -9,9 +9,8 @@ parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Samuel Alito"
-  - "Tom Cotton"
-  - "Marco Rubio"
+  - "Mike Rogers"
+  - "Michael Whatley"
 ein: "272009342"
 annual-revenue: "$53.9M"
 net-assets: "$276.4M"
@@ -34,6 +33,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, M.D. Florida"
 lobbying-spend: 1268033
 lobbying-filings: 104
+total-political-spend: "$16,466,849"
 ---
 
 
@@ -245,3 +245,28 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $16,466,849 |
+| Contributions | 290 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SLF PAC | $4,000,000 | — |
+| CONGRESSIONAL LEADERSHIP FUND | $3,000,000 | — |
+| UNITED DEMOCRACY PROJECT ('UDP') | $2,500,000 | — |
+| PINE TREE RESULTS PAC | $1,000,000 | — |
+| AMERICA 21 PAC | $1,000,000 | — |
+| MAGA KY | $1,000,000 | — |
+| THE SENTINEL ACTION FUND | $750,000 | — |
+| CONSERVATIVES FOR AMERICAN EXCELLENCE INC. | $750,000 | — |
+| GLCF, INC. | $500,000 | — |
+| SECURITY IS STRENGTH PAC | $500,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Paul%20Singer) (Tier 1)
+<!-- auto:fec-donor end -->

@@ -2,7 +2,7 @@
 title: "MassMutual"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Wall Street"
@@ -11,6 +11,8 @@ ein: 474967720
 annual-revenue: "$820K"
 net-assets: "$8.6M"
 tax-year: "2023"
+top-federal-agency: "Department of the Treasury"
+top-naics-code: "522110"
 ---
 
 #insurance #financial-services #pac-donor #house-financial-services
@@ -57,3 +59,13 @@ MassMutual represents the regulatory capture of an industry built on information
 
 - [Source: ProPublica Nonprofit Explorer — EIN 474967720](https://projects.propublica.org/nonprofits/organizations/474967720) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of the Treasury ($1.3M) |
+| Primary NAICS Sector | Commercial Banking |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

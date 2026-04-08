@@ -2,7 +2,7 @@
 title: "Rick Crawford"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,8 @@ leadership-roles:
   - "Chair"
 issues:
   - "Agriculture"
+total-received: "$525,029"
+fec-candidate-id: "H0AR01083"
 ---
 
 
@@ -148,3 +150,38 @@ Crawford's prior career was agriculture. His donor base is agribusiness, defense
 - [Wikipedia: Rick Crawford](https://en.wikipedia.org/wiki/Rick_Crawford_%28politician%29) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $525,029 |
+| Individual Contributions | $182,850 |
+| PAC Contributions | $302,500 |
+| Cash on Hand | 1013618.58 |
+| IE Support (Super PAC) | $19,159 |
+| IE Opposition (Super PAC) | $3,590,009 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $525,029 | $182,850 | $302,500 |
+| 2024 | $1,098,029 | $315,335 | $740,194 |
+| 2022 | $1,087,410 | $461,717 | $599,400 |
+| 2020 | $966,801 | $367,990 | $556,336 |
+| 2018 | $1,019,464 | $467,850 | $497,188 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $0 | $3,557,781 |
+| HOUSE MAJORITY PAC | $0 | $30,396 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $8,883 | $0 |
+| REVERE AMERICA | $4,298 | $0 |
+| AMERICANS FOR JOB SECURITY | $3,227 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0AR01083/) (Tier 1)
+<!-- auto:fec-politician end -->

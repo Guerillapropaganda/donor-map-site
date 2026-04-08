@@ -2,7 +2,7 @@
 title: "Northrop Grumman"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -16,6 +16,51 @@ ein: 956095343
 annual-revenue: "$15.1M"
 net-assets: "$31.0M"
 tax-year: "2023"
+sec-filings: 10000
+sec-form-types:
+  - "144"
+  - "3"
+  - "4"
+  - "424B3"
+  - "425"
+  - "8-K"
+  - "8-K/A"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFC14A"
+  - "EX-10.32"
+  - "EX-2.1"
+  - "EX-2.3"
+  - "EX-21"
+  - "EX-21.1"
+  - "EX-99"
+  - "EX-99.(A)(5)(D)"
+  - "EX-99.(A)(5)(FF)"
+  - "EX-99.(D)(3)"
+  - "EX-99.1"
+  - "EX-99.14"
+  - "EX-99.28"
+  - "EX-99.A.12"
+  - "EX-99.A.9"
+  - "POS AM"
+  - "PREC14A"
+  - "PREM14C"
+  - "PRRN14A"
+  - "PX14A6G"
+  - "S-3"
+  - "S-3/A"
+  - "S-4"
+  - "S-4/A"
+  - "S-8 POS"
+  - "SC 13D"
+  - "SC 13E3"
+  - "SC 14D9/A"
+  - "SC TO-T/A"
+  - "SCHEDULE 13G/A"
+federal-awards-total: 9185964914
+federal-contracts-count: 25
+federal-grants-count: 12
 ---
 
 
@@ -306,3 +351,55 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 144, 3, 4, 424B3, 425, 8-K, 8-K/A, ARS +32 more |
+| CIK | 1133421 |
+| Ticker | NOC |
+
+**Notable filings:**
+
+- 2026-04-03 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1133421/000113342126000008/0001133421-26-000008-index.htm)
+- 2026-04-03 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1133421/000113342126000007/0001133421-26-000007-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1133421/000162828026022976/0001628280-26-022976-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1133421/000162828026022974/0001628280-26-022974-index.htm)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1133421/000010290926001945/0000102909-26-001945-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Northrop%20Grumman%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $9.2B |
+| Contracts (recent 3yr) | 25 ($81.0B sampled) |
+| Grants (recent 3yr) | 12 ($46.2M sampled) |
+| Federal Agencies | 3 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $11.7B | Department of Defense | GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PR |
+| $10.0B | Department of Defense | 200506!000026!5700!FA8214!OO-ALC/PKME/LMKE                !F4261098C0001  !A!N! !Y!             !P01 |
+| $8.5B | Department of Defense | E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7) |
+| $5.4B | Department of Defense | E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-2) |
+| $4.4B | National Aeronautics and Space Administration | FIRST DDT AND E, ARES I-X, AND FLIGHT TESTS.  FIRST STAGE WILL BE A FIVE SEGMENT, SOLID ROCKET BOOST |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $18.9M | Department of Defense | DEFENSE PRODUCTION ACT (DPA) TITLE III SCALABLE COMPOSITE ROBOTIC ADDITIVE MANUFACTURING (SCRAM) FOR |
+| $6.8M | National Aeronautics and Space Administration | NORTHROP GRUMMAN AEROSPACE SYSTEMS (NGAS) PROPOSES TO BUILD AND DEMONSTRATE AN INTEGRATED PHOTONIC I |
+| $4.4M | National Aeronautics and Space Administration | SMART ICE CLOUD SENSING |
+| $4.3M | National Aeronautics and Space Administration | PARTICIPATION IN THE NASA HIGH-RATE COMPOSITES AIRCRAFT MANUFACTURING (HICAM) PROJECT PHASE 1  PERFO |
+| $4.0M | Department of Defense | THIS EFFORT WILL ACCELERATE THE 70 NM ADVANCED INP HEMT TECHNOLOGY MATURATIONY TRANSITION AND INCREA |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/fbe19298-837a-c0c2-9e1d-ff4c0a5ad25a-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

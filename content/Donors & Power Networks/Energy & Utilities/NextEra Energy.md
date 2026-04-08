@@ -37,6 +37,31 @@ court-jurisdictions:
   - "District Court, E.D. Texas"
   - "District Court, S.D. California"
   - "District Court, S.D. Florida"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "144"
+  - "4"
+  - "424B2"
+  - "424B5"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.(B)"
+  - "EX-10.(D)"
+  - "EX-99"
+  - "EX-99.99"
+  - "EX-99.A"
+  - "EX-99.B"
+  - "EX-FILING FEES"
+  - "FWP"
+  - "PX14A6G"
+  - "S-3ASR"
+  - "S-3D"
+  - "SCHEDULE 13G/A"
 ---
 
 #nextera #energy #renewables #solar #wind #florida #utility #fpl
@@ -186,3 +211,23 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NextEra%20Energy%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-K/A, 10-Q, 144, 4, 424B2, 424B5, 8-K +15 more |
+| CIK | 753308 |
+| Ticker | NEE |
+
+**Notable filings:**
+
+- 2026-04-07 — **4**: [STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES](https://www.sec.gov/Archives/edgar/data/753308/000195003226000008/0001950032-26-000008-index.htm)
+- 2026-04-02 — **PX14A6G**: [PX14A6G](https://www.sec.gov/Archives/edgar/data/753308/000121465926004230/0001214659-26-004230-index.htm)
+- 2026-04-01 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/753308/000110465926038560/0001104659-26-038560-index.htm)
+- 2026-04-01 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/753308/000110465926038556/0001104659-26-038556-index.htm)
+- 2026-04-01 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/0001104659-26-038551-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22NextEra%20Energy%22) (Tier 1)
+<!-- auto:sec-edgar end -->

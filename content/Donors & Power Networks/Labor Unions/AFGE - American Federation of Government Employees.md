@@ -21,6 +21,11 @@ politicians-funded:
   - "Frank Pallone"
   - "Kyrsten Sinema"
   - "Lisa Murkowski"
+federal-register-mentions: 1
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Homeland Security Department"
+  - "Personnel Management Office"
 ---
 
 #AFGE #labor-union #federal-employees #government-workers #DOGE #Trump-layoffs #union-resistance
@@ -201,3 +206,17 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFGE%20-%20American%20Federation%20of%20Government%20Employees) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Rule | 1 |
+| Agencies | Homeland Security Department, Personnel Management Office |
+
+**Recent regulatory activity:**
+- [Department of Homeland Security Human Resources Management System](https://www.federalregister.gov/documents/2005/02/01/05-1629/department-of-homeland-security-human-resources-management-system) (2005-02-01) — Homeland Security Department ★
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFGE%20-%20American%20Federation%20of%20Government%20Employees%22) (Tier 1)
+<!-- auto:federal-register end -->

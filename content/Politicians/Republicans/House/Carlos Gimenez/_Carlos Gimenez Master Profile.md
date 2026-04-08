@@ -2,7 +2,7 @@
 title: "Carlos Gimenez"
 type: politician
 content-readiness: developed
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,8 @@ issues:
 top-donors:
   - "MasTec - Mas Canosa Family"
   - "Fanjul Family - Florida Crystals"
+total-received: "$301,979"
+fec-candidate-id: "H0FL26036"
 ---
 
 #politician #republican #house #florida #cuba #miami #real-estate #defense #class-analysis #follow-the-money #crowley #transportation
@@ -161,3 +163,37 @@ The public posture is maximalist anti-Castroism. The donor positioning is post-e
 
 profile-status:: developed
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $301,979 |
+| Individual Contributions | $92,245 |
+| PAC Contributions | $141,000 |
+| Cash on Hand | 587253.39 |
+| IE Support (Super PAC) | $1,611,649 |
+| IE Opposition (Super PAC) | $18,672,332 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $301,979 | $92,245 | $141,000 |
+| 2024 | $1,127,146 | $335,565 | $344,900 |
+| 2022 | $2,143,685 | $758,774 | $803,350 |
+| 2020 | $2,245,735 | $1,590,411 | $325,100 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DCCC | $0 | $7,775,420 |
+| HOUSE MAJORITY PAC | $0 | $7,741,557 |
+| LCV VICTORY FUND | $0 | $1,471,580 |
+| SOUTH FLORIDA RESIDENTS FIRST | $1,071,310 | $0 |
+| WOMEN VOTE! | $0 | $943,110 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1)
+<!-- auto:fec-politician end -->

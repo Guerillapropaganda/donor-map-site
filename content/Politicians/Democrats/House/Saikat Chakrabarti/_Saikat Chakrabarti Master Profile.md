@@ -2,7 +2,7 @@
 title: "Saikat Chakrabarti Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-02
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,8 @@ state-abbr: "CA"
 district: "11"
 top-donors:
   - "Small Dollar Donors - ActBlue"
+total-received: "$1,769,248"
+fec-candidate-id: "H6CA11219"
 ---
 
 #saikat-chakrabarti #house #california #ca-11 #san-francisco #progressive #justice-democrats #stripe #tech-wealth #green-new-deal #class-analysis #follow-the-money
@@ -167,3 +169,22 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 
 research-status:: developed
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,769,248 |
+| Individual Contributions | $298,248 |
+| Cash on Hand | 112266.36 |
+| IE Opposition (Super PAC) | $205,918 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| ABUNDANT FUTURE | $0 | $205,918 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6CA11219/) (Tier 1)
+<!-- auto:fec-politician end -->

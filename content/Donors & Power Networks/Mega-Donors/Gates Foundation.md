@@ -29,6 +29,10 @@ sec-form-types:
   - "XML"
 lei: "335800ELY8A4QWLXQW56"
 lei-jurisdiction: "US-WA"
+ein: 562618866
+annual-revenue: "$7.8B"
+net-assets: "$77.0B"
+tax-year: "2023"
 ---
 
 #donor #mega-donor #gates-foundation #bill-gates #charter-schools #education-policy #pharma-influence #global-health #common-core #class-analysis #follow-the-money
@@ -198,3 +202,15 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $7.8B |
+| Total Contributions | $0 |
+| Total Expenses | $8.8B |
+| Net Assets | $77.0B |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 562618866](https://projects.propublica.org/nonprofits/organizations/562618866) (Tier 1)
+<!-- auto:propublica-990 end -->

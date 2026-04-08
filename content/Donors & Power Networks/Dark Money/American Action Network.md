@@ -13,7 +13,7 @@ issues:
   - "Tax Policy"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-ein: 270730508
+ein: "270730508"
 annual-revenue: "$46.2M"
 net-assets: "$16.3M"
 tax-year: "2023"
@@ -27,6 +27,9 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
+nonprofit-status: "501(c)(4)"
+total-revenue: 74081200
+total-assets: 35265577
 ---
 
 #aan #dark-money #republican #501c4 #lobbying #healthcare #tax #class-analysis #follow-the-money #house-republicans #pharma #corporate-dark-money
@@ -224,3 +227,28 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Action%20Network%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 270730508 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $74.1M |
+| Total Assets | $35.3M |
+| NTEE Code | P20 |
+| IRS Ruling Date | 2010-04-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1)
+<!-- auto:nonprofit-990 end -->

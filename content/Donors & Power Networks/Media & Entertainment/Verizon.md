@@ -29,6 +29,9 @@ subawards-received: 50
 subawards-received-amount: 37495275
 top-federal-agency: "Department of Defense"
 top-naics-code: "517110"
+federal-awards-total: 649696365
+federal-contracts-count: 25
+federal-grants-count: 0
 ---
 
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying
@@ -197,3 +200,25 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $649.7M |
+| Contracts (recent 3yr) | 25 ($2.9B sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 10 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $398.5M | Department of Health and Human Services | CENTRALIZED HHS EIS REQUIREMENT |
+| $283.5M | Social Security Administration | ENTERPRISE INFRASTRUCTURE SOLUTIONS (EIS) PROGRAM - SSA DATA NETWORK SERVICES (SSANET) |
+| $279.2M | Department of Health and Human Services | TAS::75 4552 001::TAS  LOCAL TELECOMMUNICATIONS SERVICES DC AREA |
+| $264.6M | Department of the Treasury | THE TFCCEIS TASK ORDER IS TO TRANSITION THE EXISTING TFCC SERVICES FROM THE NETWORX CONTRACT ONTO TH |
+| $205.1M | Department of Defense | IGF::OT::IGF NATIONAL SECURITY AND EMERGENCY PREPAREDNESS (NS/EP) PRIORITY SERVICE (PS) WITH VERIZON |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/9cf75cb8-bdc0-c47e-5204-95cfffc05adb-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

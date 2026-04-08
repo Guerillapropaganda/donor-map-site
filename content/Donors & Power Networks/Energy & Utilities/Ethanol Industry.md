@@ -2,7 +2,7 @@
 title: "Ethanol Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -34,6 +34,8 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 25479
 total-assets: 172173
+lei: "984500B40IB4DF09CF40"
+lei-jurisdiction: "IN"
 ---
 
 #ethanol #corn #biofuel #rfs #agriculture #iowa #mandates #subsidies
@@ -170,3 +172,18 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300451687) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [984500B40IB4DF09CF40](https://search.gleif.org/#/record/984500B40IB4DF09CF40) |
+| Legal Name | OSWAL ETHANOL AND FEED INDUSTRY PRIVATE LIMITED |
+| Jurisdiction | IN |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-02-19T15:03:33Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

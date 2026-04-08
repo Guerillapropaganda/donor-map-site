@@ -34,7 +34,7 @@ sec-form-types:
   - "POSASR"
   - "S-4"
   - "SC 13D/A"
-ein: 237049738
+ein: "237049738"
 annual-revenue: "$155.8M"
 net-assets: "$442.1M"
 tax-year: "2023"
@@ -61,6 +61,9 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 lei: "8I5DZWZKVSZI1NUHU748"
 lei-jurisdiction: "US-DE"
+nonprofit-status: "501(c)(3)"
+total-revenue: 2245488721
+total-assets: 1219377637
 ---
 
 #megabank #wall-street #jamie-dimon #bipartisan #financial-deregulation #revolving-door #too-big-to-fail #both-sides
@@ -389,3 +392,27 @@ content-readiness:: developed
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 237049738 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $2.25B |
+| Total Assets | $1.22B |
+| IRS Ruling Date | 1969-12-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237049738) (Tier 1)
+<!-- auto:nonprofit-990 end -->

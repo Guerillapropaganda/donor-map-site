@@ -14,6 +14,8 @@ ein: 330627955
 annual-revenue: "$11.1M"
 net-assets: "$5.2M"
 tax-year: "2023"
+lobbying-spend: 3142538
+lobbying-filings: 146
 ---
 
 
@@ -211,3 +213,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 330627955](https://projects.propublica.org/nonprofits/organizations/330627955) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $3.1M |
+| Quarterly Filings | 146 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 88 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Animals, Arts/Entertainment, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Chemicals/Chemical Industry, Clean Air and Water (quality), Computer Industry, Constitution, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Foreign Relations, Government Issues, Health Issues, Homeland Security, Immigration, Indian/Native American Affairs, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Pharmacy, Railroads, Real Estate/Land Use/Conservation, Roads/Highway, Science/Technology, Small Business, Sports/Athletics, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Tobacco, Torts, Trade (domestic/foreign), Transportation, Travel/Tourism, Trucking/Shipping, Urban Development/Municipalities, Utilities, Veterans, Waste (hazardous/solid/interstate/nuclear)
+
+**Lobbying firms:** 162 STRATEGIES, 2020 STRATEGIES LLC, ALCALDE & FAY, AMERICAN ACADEMY OF AUDIOLOGY, AMERICAN ASSOCIATION OF PEOPLE WITH DISABILITIES, AMERICAN ASSOCIATION OF PORT AUTHORITIES, AMERICAN BANKERS ASSOCIATION SECURITIES ASSOCIATION (ABASA), AMERICAN BIRD CONSERVANCY, AMERICAN BUS ASSOCIATION, AMERICAN CABLE ASSOCIATION, INC. DBA ACACONNECTS, AMERICAN CAPITOL GROUP, AMERICAN CHIROPRACTIC ASSOCIATION, AMERICAN COLLEGE OF CLINICAL PHARMACY, AMERICAN COLLEGE OF PREVENTIVE MEDICINE, AMERICAN COLLEGE OF SURGEONS, AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION, AMERICAN COMMERCIAL BARGE LINES, LLC, AMERICAN COMMITTEE FOR THE WEIZMANN INSTITUTE OF SCIENCE, AMERICAN CONSERVATIVE UNION, AMERICAN COUNCIL FOR CAPITAL FORMATION, AMERICAN DEFENSE INTERNATIONAL, INC., AMERICAN FINANCIAL SERVICES ASSOCIATION, AMERICAN FLOOD COALITION ACTION, INC., AMERICAN INDUSTRIAL HYGIENE ASSOCIATION, AMERICAN PEANUT SHELLERS ASSOCIATION, AMERICAN PRESIDENT LINES, LLC, AMERICAN RESORT DEVELOPMENT ASSN, AMERICAN SOCIETY FOR BIOCHEMISTRY AND MOLECULAR BIOLOGY, AMERICAN SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS, AMERICAN SOCIETY OF RADIOLOGIC TECHNOLOGISTS, AMERICAN STATISTICAL ASSOCIATION, AMERICAN SUGARBEET GROWERS ASSOCIATION, AMERICAN TORT REFORM ASSOCIATION, AMERICAN TRAIN DISPATCHERS ASSOCIATION, AMERICAN WILD HORSE CAMPAIGN, ATLAS CROSSING LLC, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BECKER & POLIAKOFF, P.A., BGR GOVERNMENT AFFAIRS, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL COUNSEL LLC, CAPITOL DOME ADVOCACY, CHARTWELL STRATEGY GROUP LLC, CHET CULVER GROUP, COVENANT GOVERNMENT AFFAIRS, LLC, CROSSROADS STRATEGIES, LLC, CUMBERLAND GAP CONSULTING, LLC, DCI GROUP, L.L.C., DEFAZIO AND ASSOCIATES CONSULTING LLC, EDINGTON, PEEL & ASSOCIATES, INC., FORBES-TATE, GLOBAL CONNECTION GROUP, LLC, GOLDSTEIN POLICY SOLUTIONS LLC, GREENBERG TRAURIG, LLP, GREGORY BROCK, HART HEALTH STRATEGIES, I STREET ADVOCATES, INTERSECT PUBLIC AFFAIRS, LLC, LACROIX ENVIRONMENTAL INTELLIGENCE, LOBBYIT.COM, LOCKE LOBBYING CO., LLC, MAZDA MOTOR OF AMERICA DBA MAZDA NORTH AMERICAN OPERATIONS, MILLER STRATEGIES, LLC, MODERN FORTIS LLC, MORRISON PUBLIC AFFAIRS GROUP, MWMURRAY CONSULTING LLC, NEW AMERICAN INDUSTRIAL ALLIANCE, NEW JEWISH NARRATIVE (FKA AMERICANS FOR PEACE NOW), NORTH AMERICAN RESCUE, LLC, NVG, LLC, PHRONESISDC, LLC, RAGNAR GROUP LLC, RED+BLUE STRATEGIES, RTK CONSULTING GROUP LLC, S-3 GROUP, SCHAERR JAFFE LLP, SINGISER SOLUTIONS LLC, SOBBA PUBLIC, LLC, SUMMIT HEALTH CARE CONSULTING, THE AMERICAN COLLEGE OF MEDICAL GENETICS AND GENOMICS, THE AMERICAN LEGION, THE VOGEL GROUP, THEGROUP DC, LLC, THOMPSON COBURN LLP, THORN RUN PARTNERS, TIGER HILL PARTNERS LLC, VENN STRATEGIES, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of +35 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=American%20Federation%20for%20Children) (Tier 1)
+<!-- auto:lda-lobbying end -->

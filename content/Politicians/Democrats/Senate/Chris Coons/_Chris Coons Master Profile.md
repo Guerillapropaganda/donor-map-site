@@ -21,6 +21,7 @@ stock-trade-tickers:
   - "MSFT"
 total-received: "$5,285,973"
 fec-candidate-id: "S0DE00092"
+bioguide-id: "A000383"
 ---
 
 
@@ -205,3 +206,10 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

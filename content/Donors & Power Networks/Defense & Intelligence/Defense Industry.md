@@ -2,7 +2,7 @@
 title: "Defense Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -26,6 +26,8 @@ regulatory-agencies:
   - "General Services Administration"
   - "Industry and Security Bureau"
   - "International Trade Administration"
+lei: "5299006DUWIX3AEL2A58"
+lei-jurisdiction: "US-DE"
 ---
 
 #defense #industry #military #ndaa #pentagon #bipartisan
@@ -107,3 +109,18 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Defense%20Industry%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [5299006DUWIX3AEL2A58](https://search.gleif.org/#/record/5299006DUWIX3AEL2A58) |
+| Legal Name | PLUS Korea Defense Industry Index ETF |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | FUND |
+| Registration | ISSUED |
+| Last Updated | 2026-01-24T14:10:41Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

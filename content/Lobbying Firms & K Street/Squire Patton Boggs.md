@@ -17,6 +17,8 @@ fara-countries:
   - "KOREA SOUTH"
   - "PALESTINE"
 related: "[[Boeing]] · [[_Lobbying Firms Framework]]"
+lei: "259400PVBJ4RB4LUZ721"
+lei-jurisdiction: "PL"
 ---
 
 #lobbying #k-street #defense #trade #appropriations #transportation #foreign-governments #revolving-door #bipartisan #fara
@@ -238,3 +240,18 @@ content-readiness:: ready
 
 - [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Squire%20Patton%20Boggs,) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [259400PVBJ4RB4LUZ721](https://search.gleif.org/#/record/259400PVBJ4RB4LUZ721) |
+| Legal Name | SQUIRE PATTON BOGGS KRZEŚNIAK SPÓŁKA KOMANDYTOWA |
+| Jurisdiction | PL |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-04-05T21:49:39Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

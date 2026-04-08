@@ -9,10 +9,14 @@ sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Clarence Thomas"
-ein: 363342443
+ein: "363342443"
 annual-revenue: "$642K"
 net-assets: "$341K"
 tax-year: "2023"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 701289
+total-assets: 279469
 ---
 
 #barre-seid #mega-donor #judicial #Leonard-Leo #Marble-Freedom-Trust #tax-avoidance #judicial-capture
@@ -112,3 +116,27 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 363342443](https://projects.propublica.org/nonprofits/organizations/363342443) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 363342443 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $701K |
+| Total Assets | $279K |
+| IRS Ruling Date | 1985-07-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363342443) (Tier 1)
+<!-- auto:nonprofit-990 end -->

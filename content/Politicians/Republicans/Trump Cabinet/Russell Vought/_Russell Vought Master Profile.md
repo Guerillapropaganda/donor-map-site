@@ -2,13 +2,14 @@
 title: "Russell Vought Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Cabinet"
 top-donors:
   - "Leonard Leo"
+bioguide-id: "A000383"
 ---
 
 
@@ -111,3 +112,10 @@ Russell Vought. OMB Director (second term, confirmed February 2025, 53-47 party-
 - [Baptist News Global: Vought Christian nationalist statements](https://baptistnews.com/article/russell-vought-the-gung-ho-christian-nationalist-who-helps-trump-be-trump/) (Tier 2)
 - [OpenSecrets: Russell Vought fundraising and contributions](https://www.congress.gov/search?q=Search&searchResultViewType=expanded) (Tier 1)
 content-readiness:: ready
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->
