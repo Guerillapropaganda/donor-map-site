@@ -2,13 +2,15 @@
 title: "Juliana Stratton Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Senate"
 top-donors:
   - "JB Pritzker"
+total-received: "$4,058,200"
+fec-candidate-id: "S6IL00458"
 ---
 
 #politician #democrat #senate
@@ -147,3 +149,28 @@ party:: Democrat
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $4,058,200 |
+| Individual Contributions | $3,069,107 |
+| PAC Contributions | $108,584 |
+| Cash on Hand | 1258744.49 |
+| IE Support (Super PAC) | $16,182,137 |
+| IE Opposition (Super PAC) | $16,395,514 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| ILLINOIS FUTURE PAC | $15,825,270 | $0 |
+| FAIRSHAKE | $0 | $15,406,382 |
+| THE IMPACT FUND | $0 | $579,744 |
+| DLGA | $356,857 | $0 |
+| PROTECT PROGRESS | $0 | $211,662 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IL00458/) (Tier 1)
+<!-- auto:fec-politician end -->

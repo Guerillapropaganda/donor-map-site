@@ -2,7 +2,7 @@
 title: "CNA - California Nurses Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -13,6 +13,9 @@ issues:
   - "Healthcare"
   - "Labor & Workers"
 total-political-spend: "$319,800"
+sec-filings: 1
+sec-form-types:
+  - "EX-10.1"
 ---
 
 
@@ -159,3 +162,17 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=CNA%20-%20California%20Nurses%20Association) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1 |
+| Form Types | EX-10.1 |
+
+**Notable filings:**
+
+- 2009-07-31 — **EX-10.1**: EX-10.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CNA%20-%20California%20Nurses%20Association%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -2,12 +2,24 @@
 title: "Mercatus Center"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
 related: "[[Koch Network - Charles Koch]] · [[_Think Tank Framework]] · [[_Think Tank Index]]"
+court-cases: 146
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "Court of Appeals for the Federal Circuit"
+  - "District Court, D. Maryland"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "United States Court of International Trade"
+ein: "541436224"
+nonprofit-status: "501(c)(3)"
+total-revenue: 39392965
+total-assets: 36765270
 ---
 
 #think-tank #conservative #libertarian #deregulation #koch #academic-capture #class-analysis
@@ -387,3 +399,47 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 - [WTOP: DOGE spending claims and Veronique de Rugy interview](https://wtop.com/local/2025/02/how-much-money-is-doge-saving-the-federal-government/) (Tier 2)
 
 content-readiness:: developed
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 146 |
+| Courts | Court of Appeals for the Federal Circuit, District Court, D. Maryland, District Court, N.D. California, District Court, S.D. New York, United States Court of International Trade |
+| Case Types | 440 Civil Rights: Other, 895 Freedom of Information Act, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, 950 Const. of State Statutes (Fed. Qst.), 950 Constitutional - State Statute |
+
+**Notable cases:**
+- RealPage, Inc. v. James (2025) — District Court, S.D. New York
+- Stanford Daily Publishing Corporation v. Rubio (2025) — District Court, N.D. California
+- Sierra Club v. Office of Management and Budget (2025) — District Court, N.D. California
+- National Retail Federation v. James (2025) — District Court, S.D. New York
+- Sierra Club v. United States Department of Interior (2025) — District Court, N.D. California
+- Sierra Club v. United States Department Of Energy (2025) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercatus%20Center%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 541436224 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $39.4M |
+| Total Assets | $36.8M |
+| NTEE Code | V22Z |
+| IRS Ruling Date | 1988-03-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1)
+<!-- auto:nonprofit-990 end -->

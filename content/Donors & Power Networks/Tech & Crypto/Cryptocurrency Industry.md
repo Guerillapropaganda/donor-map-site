@@ -2,7 +2,7 @@
 title: "Cryptocurrency Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -12,13 +12,20 @@ issues:
 lobbying-spend: 90000
 lobbying-filings: 5
 court-cases: 460
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, D. Nevada"
   - "District Court, E.D. Michigan"
   - "District Court, E.D. New York"
   - "District Court, M.D. Tennessee"
   - "District Court, S.D. New York"
+federal-register-mentions: 6
+regulatory-agencies:
+  - "Consumer Financial Protection Bureau"
+  - "Financial Crimes Enforcement Network"
+  - "Internal Revenue Service"
+  - "Securities and Exchange Commission"
+  - "Treasury Department"
 ---
 
 #crypto #cryptocurrency #bitcoin #blockchain #deregulation #fairshake #sec #class-analysis #follow-the-money
@@ -197,7 +204,7 @@ content-readiness:: ready
 
 - [[Rand Paul]] — lobbying: $90K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)
@@ -218,3 +225,24 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cryptocurrency%20Industry%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 6 |
+| Rule | 3 |
+| Proposed Rule | 2 |
+| Notice | 1 |
+| Agencies | Consumer Financial Protection Bureau, Financial Crimes Enforcement Network, Internal Revenue Service, Securities and Exchange Commission, Treasury Department |
+
+**Recent regulatory activity:**
+- [Imposition of Special Measure Regarding Huione Group, as a Foreign Financial Institution of Primary Money Laundering Concern](https://www.federalregister.gov/documents/2025/10/16/2025-19571/imposition-of-special-measure-regarding-huione-group-as-a-foreign-financial-institution-of-primary) (2025-10-16) — Treasury Department
+- [Special Measure Regarding Huione Group, as a Foreign Financial Institution of Primary Money Laundering Concern](https://www.federalregister.gov/documents/2025/05/05/2025-07837/special-measure-regarding-huione-group-as-a-foreign-financial-institution-of-primary-money) (2025-05-05) — Treasury Department
+- [Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales](https://www.federalregister.gov/documents/2024/12/30/2024-30496/gross-proceeds-reporting-by-brokers-that-regularly-provide-services-effectuating-digital-asset-sales) (2024-12-30) — Treasury Department
+- [Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications](https://www.federalregister.gov/documents/2024/12/10/2024-27836/defining-larger-participants-of-a-market-for-general-use-digital-consumer-payment-applications) (2024-12-10) — Consumer Financial Protection Bureau
+- [Public Company Accounting Oversight Board; Order Granting Approval of QC 1000, A Firm's System of Quality Control, and Related Amendments to PCAOB Standards, Rules, and Forms](https://www.federalregister.gov/documents/2024/09/12/2024-20714/public-company-accounting-oversight-board-order-granting-approval-of-qc-1000-a-firms-system-of) (2024-09-12) — Securities and Exchange Commission
+- [Requirements for Certain Transactions Involving Convertible Virtual Currency or Digital Assets](https://www.federalregister.gov/documents/2020/12/23/2020-28437/requirements-for-certain-transactions-involving-convertible-virtual-currency-or-digital-assets) (2020-12-23) — Treasury Department ★
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cryptocurrency%20Industry%22) (Tier 1)
+<!-- auto:federal-register end -->

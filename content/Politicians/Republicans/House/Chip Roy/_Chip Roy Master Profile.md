@@ -2,7 +2,7 @@
 title: "Chip Roy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,8 @@ bills-sponsored: 48
 bills-cosponsored: 125
 website: "https://roy.house.gov"
 phone: "202-225-4236"
+total-received: "$782,581"
+fec-candidate-id: "H8TX21307"
 ---
 
 #roy #texas #freedom-caucus #spending #border #libertarian #cruz-ally #rules-committee #judiciary #club-for-growth
@@ -192,3 +194,38 @@ content-readiness:: developed
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412826) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $782,581 |
+| Individual Contributions | $262,198 |
+| PAC Contributions | $61,000 |
+| Cash on Hand | 237984.60 |
+| IE Support (Super PAC) | $2,458,545 |
+| IE Opposition (Super PAC) | $10,101,008 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $782,581 | $262,198 | $61,000 |
+| 2024 | $2,899,550 | $1,652,798 | $179,250 |
+| 2022 | $2,344,485 | $1,416,492 | $302,074 |
+| 2020 | $5,098,027 | $3,130,111 | $607,516 |
+| 2018 | $1,895,148 | $1,311,647 | $306,839 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| HOUSE MAJORITY PAC | $0 | $5,759,617 |
+| DCCC | $0 | $2,978,188 |
+| CLUB FOR GROWTH ACTION | $1,723,280 | $43,500 |
+| WOMEN VOTE! | $0 | $925,128 |
+| VOTEVETS | $0 | $364,650 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8TX21307/) (Tier 1)
+<!-- auto:fec-politician end -->

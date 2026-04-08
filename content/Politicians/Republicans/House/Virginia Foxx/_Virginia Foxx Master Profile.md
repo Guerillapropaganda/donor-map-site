@@ -203,9 +203,12 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 0 of 1 |
-| Donors With Federal Contracts | 1 |
+| Donors Who Also Lobby | 1 of 1 |
 | Committee Overlap Detected | None |
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+**Donors who lobby (by spend):**
+
+- [[American Federation for Children]] — $3.1M lobbying spend (Aerospace, Agriculture, Animals)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->

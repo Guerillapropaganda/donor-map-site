@@ -2,7 +2,7 @@
 title: "California Restaurant Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Gavin Newsom"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 sec-filings: 284
 sec-form-types:
   - "10-K/A"

@@ -2,7 +2,7 @@
 title: "Peter Thiel"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -15,6 +15,10 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+federal-register-mentions: 1
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Federal Trade Commission"
 ---
 
 
@@ -221,3 +225,17 @@ content-readiness:: ready
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
 ### Federal Subawards & Spending Breakdown
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Notice | 1 |
+| Agencies | Federal Trade Commission |
+
+**Recent regulatory activity:**
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/10/16/2020-22943/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2020-10-16) — Federal Trade Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Peter%20Thiel%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,7 +2,7 @@
 title: "Dustin Moskovitz"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -13,6 +13,32 @@ politicians-funded:
 issues:
   - "Technology"
   - "Dark Money & Campaign Finance"
+sec-filings: 399
+sec-form-types:
+  - "10-K/A"
+  - "3"
+  - "4"
+  - "8-A12B"
+  - "8-K"
+  - "D"
+  - "DEF 14A"
+  - "EX-10.1"
+  - "EX-10.2"
+  - "EX-10.8"
+  - "EX-31.1"
+  - "EX-31.3"
+  - "EX-32.1"
+  - "EX-4.2"
+  - "EX-4.3"
+  - "EX-99.1"
+  - "LETTER"
+  - "S-8"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SCHEDULE 13D/A"
+  - "TEXT-EXTRACT"
 ---
 
 #donor #billionaire #democratic #tech #dark-money #effective-altruism
@@ -106,3 +132,21 @@ content-readiness:: ready
 | SMP | $5.5M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 399 |
+| Form Types | 10-K/A, 3, 4, 8-A12B, 8-K, D, DEF 14A, EX-10.1 +16 more |
+
+**Notable filings:**
+
+- 2025-07-17 — **SCHEDULE 13D/A**: SCHEDULE 13D/A
+- 2025-07-31 — **SCHEDULE 13D/A**: SCHEDULE 13D/A
+- 2025-08-15 — **SCHEDULE 13D/A**: SCHEDULE 13D/A
+- 2022-09-16 — **SC 13D/A**: SC 13D/A
+- 2020-09-09 — **EX-4.3**: EX-4.3
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Dustin%20Moskovitz%22) (Tier 1)
+<!-- auto:sec-edgar end -->

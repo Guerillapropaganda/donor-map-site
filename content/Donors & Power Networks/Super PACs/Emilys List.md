@@ -2,22 +2,25 @@
 title: "Emilys List"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
-ein: 461067490
+ein: "461067490"
 annual-revenue: "$2.2M"
 net-assets: "$173K"
 tax-year: "2023"
 court-cases: 6
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the Sixth Circuit"
   - "District Court, D. Maine"
   - "District Court, D. New Jersey"
   - "District Court, S.D. New York"
+nonprofit-status: "501(c)(4)"
+total-revenue: 1057103
+total-assets: 79716
 ---
 
 #donor-node #super-pac #democratic #women #fundraising-infrastructure #pro-choice #gatekeeper #donor
@@ -235,3 +238,28 @@ research-status:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Emilys%20List%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 461067490 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $1.1M |
+| Total Assets | $80K |
+| NTEE Code | S20 |
+| IRS Ruling Date | 2014-09-01 |
+| Filings on Record | 11 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461067490) (Tier 1)
+<!-- auto:nonprofit-990 end -->

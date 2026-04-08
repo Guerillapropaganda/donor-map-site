@@ -2,7 +2,7 @@
 title: "Citigroup"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -27,6 +27,9 @@ nhtsa-complaints: 0
 last-enriched: "2026-04-07"
 lobbying-spend: 11560000
 lobbying-filings: 52
+federal-awards-total: 0
+federal-contracts-count: 25
+federal-grants-count: 0
 ---
 
 #citigroup #wall-street #banking #too-big-to-fail #derivatives #lobbying #bailout
@@ -132,7 +135,7 @@ content-readiness:: ready
 - [[Wes Moore]] — lobbying: $11.6M
 - [[Joe Biden]] — lobbying: $11.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -241,3 +244,24 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Citigroup) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 25 ($884K sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 6 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $245K | Department of Homeland Security | FRESHWATER OIL SPILL RESPONSE EQUIPMENT FOR THE CENTER OF EXPERTISE (GL NCOE) FOR GREAT LAKES OIL SP |
+| $65K | Consumer Financial Protection Bureau | HANDSHAKE DIGITAL RECRUITING PLATFORM |
+| $53K | Department of Homeland Security | FOOD SERVICE EQUIPMENT FOR AIR STATION BARBERS POINT |
+| $51K | Consumer Financial Protection Bureau | 2023 CRA & FAIR LENDING COLLOQUIUM |
+| $41K | Social Security Administration | THIRD PARTY PAYMENT SYSTEM (TPPS) BANK SERVICES CONTRACT - TASK ORDER FOR TPPS SERVICES |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8aa915fd-d3c6-9128-ff26-48aa35edd9e7-R/latest) (Tier 1)
+<!-- auto:usaspending end -->

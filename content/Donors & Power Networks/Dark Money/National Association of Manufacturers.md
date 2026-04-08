@@ -2,7 +2,7 @@
 title: "National Association of Manufacturers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -23,9 +23,21 @@ net-assets: "$69.6M"
 tax-year: "2023"
 total-political-spend: "$2,129,676"
 nonprofit-status: "501(c)(6)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 total-revenue: 3628984
 total-assets: 6552030
+federal-register-mentions: 241
+regulatory-agencies:
+  - "Commerce Department"
+  - "Consumer Product Safety Commission"
+  - "Copyright Office, Library of Congress"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Communications Commission"
+  - "Federal Maritime Commission"
+  - "Federal Motor Carrier Safety Administration"
+  - "Federal Trade Commission"
+  - "International Trade Administration"
 ---
 
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money
@@ -254,3 +266,25 @@ research-status:: developed — Expanded from 64 to 175+ lines. Key additions: 5
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742553304) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 241 |
+| Final Rules | 140 |
+| Proposed Rules | 61 |
+| Notices | 40 |
+| Agencies | Commerce Department, Consumer Product Safety Commission, Copyright Office, Library of Congress, Energy Department, Environmental Protection Agency, Federal Communications Commission, Federal Maritime Commission, Federal Motor Carrier Safety Administration +7 more |
+
+**Recent regulatory activity:**
+- [Perchloroethylene (PCE) and Carbon Tetrachloride (CTC); Regulation Under the Toxic Substances Control Act (TSCA); Compliance Date Extensions](https://www.federalregister.gov/documents/2026/03/27/2026-05977/perchloroethylene-pce-and-carbon-tetrachloride-ctc-regulation-under-the-toxic-substances-control-act) (2026-03-27) — Environmental Protection Agency
+- [Updating the Water Quality Certification Regulations](https://www.federalregister.gov/documents/2026/01/15/2026-00754/updating-the-water-quality-certification-regulations) (2026-01-15) — Environmental Protection Agency
+- [Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Domestic and International Client Export Services and Customized Forms Revision](https://www.federalregister.gov/documents/2025/09/26/2025-18765/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for) (2025-09-26) — Commerce Department
+- [Procedures for Chemical Risk Evaluation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2025/09/23/2025-18431/procedures-for-chemical-risk-evaluation-under-the-toxic-substances-control-act-tsca) (2025-09-23) — Environmental Protection Agency ★
+- [Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Domestic and International Client Export Services and Customized Forms Renewal](https://www.federalregister.gov/documents/2025/07/16/2025-13320/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for) (2025-07-16) — Commerce Department
+- [Establishment of Public Docket and Listening Sessions on Implementation Challenges Associated With Clean Water Act Section 401](https://www.federalregister.gov/documents/2025/07/07/2025-12564/establishment-of-public-docket-and-listening-sessions-on-implementation-challenges-associated-with) (2025-07-07) — Environmental Protection Agency
+- ... and 235 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Association%20of%20Manufacturers%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,7 +2,7 @@
 title: "Rebekah Mercer"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -12,6 +12,12 @@ politicians-funded:
   - "Steve Bannon"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+sec-filings: 9
+sec-form-types:
+  - "425"
+  - "D"
+  - "EX-10.9"
+  - "PX14A6G"
 ---
 
 
@@ -88,3 +94,21 @@ content-readiness:: ready
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
 ### Federal Subawards & Spending Breakdown
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 9 |
+| Form Types | 425, D, EX-10.9, PX14A6G |
+
+**Notable filings:**
+
+- 2022-01-06 — **D**: D
+- 2023-02-09 — **D**: D
+- 2024-06-10 — **D**: D
+- 2024-06-10 — **D**: D
+- 2025-01-07 — **425**: FORM 425
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Rebekah%20Mercer%22) (Tier 1)
+<!-- auto:sec-edgar end -->

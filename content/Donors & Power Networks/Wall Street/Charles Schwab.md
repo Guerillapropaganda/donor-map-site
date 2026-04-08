@@ -2,7 +2,7 @@
 title: "Charles Schwab"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -18,6 +18,11 @@ federal-contracts-count: 2
 federal-grants-count: 0
 top-federal-agency: "Department of the Treasury"
 top-naics-code: "523120"
+federal-register-mentions: 298
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Federal Trade Commission"
+  - "Securities and Exchange Commission"
 ---
 
 #schwab #wall-street #brokerage #retirement #fiduciary #401k #retail-investing
@@ -107,3 +112,25 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 298 |
+| Final Rules | 56 |
+| Proposed Rules | 41 |
+| Notices | 201 |
+| Agencies | Federal Trade Commission, Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt Additional Initial Listing Criteria for Companies Primarily Operating in China](https://www.federalregister.gov/documents/2025/12/23/2025-23660/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine) (2025-12-23) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Modify Certain Initial Listing Requirements](https://www.federalregister.gov/documents/2025/12/23/2025-23655/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and) (2025-12-23) — Securities and Exchange Commission
+- [Multi-Class ETF Fund Exemptive Relief Under the Investment Company Act of 1940](https://www.federalregister.gov/documents/2025/12/22/2025-23492/multi-class-etf-fund-exemptive-relief-under-the-investment-company-act-of-1940) (2025-12-22) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt Certain Changes to the Governing Documents of the Exchange and Its Parent Company](https://www.federalregister.gov/documents/2025/12/16/2025-22856/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-immediate-effectiveness) (2025-12-16) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Investors Exchange LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 3, To Adopt Rules To Govern the Trading of Options on the Exchange for a New Facility Called IEX Options](https://www.federalregister.gov/documents/2025/09/23/2025-18380/self-regulatory-organizations-investors-exchange-llc-order-approving-a-proposed-rule-change-as) (2025-09-23) — Securities and Exchange Commission
+- ... and 292 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Charles%20Schwab%22) (Tier 1)
+<!-- auto:federal-register end -->

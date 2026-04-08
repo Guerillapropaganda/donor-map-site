@@ -264,7 +264,7 @@ content-readiness:: developed
 - [[Apple]] — $29.2M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking)
 - [[Microsoft]] — $20.7M lobbying spend (Budget/Appropriations, Communications/Broadcasting/Radio/TV, Computer Industry)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (GovTrack)

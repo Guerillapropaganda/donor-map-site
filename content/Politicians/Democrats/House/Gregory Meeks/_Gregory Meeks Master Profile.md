@@ -2,7 +2,7 @@
 title: "Gregory Meeks"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -22,6 +22,11 @@ top-donors:
   - "Goldman Sachs"
 total-received: "$1,032,781"
 fec-candidate-id: "H8NY06048"
+govtrack-id: 400271
+bills-sponsored: 36
+bills-cosponsored: 193
+website: "https://meeks.house.gov"
+phone: "202-225-3461"
 ---
 
 #gregory-meeks #democrat #new-york #house #ranking-member #foreign-affairs #financial-services #israel-lobby #wall-street #ethics-violations #phase-6-gavel-power
@@ -215,3 +220,35 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 193 |
+| Total Votes Cast | 17,715 |
+
+**Recent bills sponsored:**
+
+- H.J.Res. 150: Terminating the national emergency declared to impose global tariffs. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.J.Res. 72: Relating to a national emergency by the President on February 1, 2025. — *This resolution passed in the House on February 11, 2026 and goes to the Senate next for consideration.*
+- H.J.Res. 147: Terminating the national emergency declared to impose duties on articles imported from Brazil. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6879: RESTRICT Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 18, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Con.Res. 61: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces fro — *This resolution failed in the House on December 17, 2025.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Not Voting | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400271) (Tier 1)
+<!-- auto:govtrack end -->

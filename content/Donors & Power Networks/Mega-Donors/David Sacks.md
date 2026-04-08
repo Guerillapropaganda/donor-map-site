@@ -2,7 +2,7 @@
 title: "David Sacks"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -44,6 +44,19 @@ sec-form-types:
   - "S-8"
   - "SC 13D/A"
 total-political-spend: "$458,349"
+court-cases: 98
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "Court of Appeals for the First Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Delaware"
+  - "District Court, D. Maryland"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. New Jersey"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, N.D. Ohio"
+  - "District Court, S.D. New York"
 ---
 
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast
@@ -465,3 +478,22 @@ content-readiness:: developed
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20Sacks) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 98 |
+| Courts | Court of Appeals for the First Circuit, District Court, C.D. California, District Court, D. Delaware, District Court, D. Maryland, District Court, D. Massachusetts, District Court, D. New Jersey, District Court, N.D. California, District Court, N.D. Illinois +6 more |
+| Case Types | 2899 Other Statutes, 320 Assault Libel & Slander, 360 P.I.: Other, 410 Anti-Trust, 470 Racketeer/Corrupt Organization |
+
+**Notable cases:**
+- Taibbi v. Higgins (2025) — District Court, S.D. New York
+- Ye v. Musk (2025) — District Court, N.D. California
+- Rapport v. Chapiro (2025) — District Court, N.D. Ohio
+- Kent v. Marriott Hotel Services LLC (2025) — District Court, S.D. Texas
+- American Council of Learned Societies v. McDonald (2025) — District Court, S.D. New York
+- State of New York v. Trump (2025) — Court of Appeals for the First Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22David%20Sacks%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

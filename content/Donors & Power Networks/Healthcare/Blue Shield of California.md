@@ -232,7 +232,7 @@ content-readiness:: ready
 - [[Gavin Newsom]] — lobbying: $3.8M
 - [[Kamala Harris]] — lobbying: $3.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

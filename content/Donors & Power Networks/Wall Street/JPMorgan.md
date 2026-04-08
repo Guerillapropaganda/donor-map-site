@@ -2,7 +2,7 @@
 title: "JPMorgan Chase"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -45,7 +45,7 @@ subawards-received-amount: 1009778941592127500
 top-federal-agency: "Pension Benefit Guaranty Corporation"
 top-naics-code: "523930"
 federal-register-mentions: 395
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Comptroller of the Currency"
   - "Consumer Financial Protection Bureau"
@@ -249,7 +249,7 @@ content-readiness:: developed
 - [[John Boehner]] (Finance) — lobbying: $9.8M
 - [[Paul Ryan]] (Finance) — lobbying: $9.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity

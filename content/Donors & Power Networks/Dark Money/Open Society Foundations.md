@@ -2,7 +2,7 @@
 title: "Open Society Foundations"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -12,10 +12,12 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 federal-contracts: "18849"
-ein: 273743368
+ein: "273743368"
 annual-revenue: "$0"
 net-assets: "$553"
 tax-year: "2016"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
 ---
 
 #donor #donor-node #dark-money #soros #progressive #democracy-infrastructure #international #criminal-justice-reform
@@ -209,5 +211,26 @@ content-readiness:: ready
 
 - [[Gavin Newsom]] — contracts: $19K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 273743368 |
+| Tax-Exempt Status | 501(c)(3) |
+| Filings on Record | 6 |
+
+**Filing history:** 2016, 2015, 2014, 2013, 2012, 2011
+
+**View 990 filings:**
+- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2016)
+- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2015)
+- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2014)
+- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2013)
+- [2012 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2012)
+- ... and 1 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/273743368) (Tier 1)
+<!-- auto:nonprofit-990 end -->

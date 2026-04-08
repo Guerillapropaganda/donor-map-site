@@ -2,7 +2,7 @@
 title: "Nucor Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -18,6 +18,9 @@ top-naics-code: "331110"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+federal-awards-total: 0
+federal-contracts-count: 1
+federal-grants-count: 1
 ---
 
 
@@ -176,3 +179,26 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Nucor%20Corporation) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 1 ($15K sampled) |
+| Grants (recent 3yr) | 1 ($2.4M sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $15K | Department of Agriculture | PURCHASE AND DELIVERY OF STEEL JOISTS TO THE WHITE RIVER NATIONAL FOREST FOR THE CONSTRUCTION OF TWO |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $2.4M | Department of Transportation | BARGE SERVICES IN THE PORTS OF CINCINNATI AND NORTHERN KENTUCKY AND BEYOND NUCOR STEEL BRANDENBURG M |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/eadd9efc-3f8d-7748-9766-c07740e682f0-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

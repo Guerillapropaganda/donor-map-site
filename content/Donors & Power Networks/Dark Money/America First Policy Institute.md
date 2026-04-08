@@ -2,7 +2,7 @@
 title: "America First Policy Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,10 @@ fara-status: "registrant"
 fara-records: 2
 fara-countries:
   - "ARMENIA"
+ein: 854202763
+annual-revenue: "$27.3M"
+net-assets: "$9.9M"
+tax-year: "2023"
 ---
 
 #afpi #trump #think-tank #project-2025 #transition #dark-money #maga
@@ -67,3 +71,17 @@ content-readiness:: ready
 
 - [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:America%20First%20Policy%20Institute) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $27.3M |
+| Total Contributions | $28.7M |
+| Investment Income | $28K |
+| Total Expenses | $22.9M |
+| Net Assets | $9.9M |
+| Officer Compensation | $1.7M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 854202763](https://projects.propublica.org/nonprofits/organizations/854202763) (Tier 1)
+<!-- auto:propublica-990 end -->

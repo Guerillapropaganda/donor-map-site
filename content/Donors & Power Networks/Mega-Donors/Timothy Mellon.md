@@ -278,5 +278,5 @@ research-status:: ready — $504M total spending documented with full breakdown 
 - [[JD Vance]] — lobbying: $1.9M
 - [[Mitch McConnell]] — lobbying: $1.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->

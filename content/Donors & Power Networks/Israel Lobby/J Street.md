@@ -2,7 +2,7 @@
 title: "J Street"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -12,6 +12,10 @@ politicians-funded:
   - "Bernie Sanders"
 issues:
   - "Israel & Foreign Policy"
+ein: 261507828
+annual-revenue: "$4.0M"
+net-assets: "$4.5M"
+tax-year: "2023"
 ---
 
 #donor #israel #pro-israel #lobbying #pac #progressive #two-state #democratic #follow-the-money #class-analysis #foreign-policy
@@ -133,3 +137,17 @@ Domestic — campus free speech, antisemitism definition debates (opposes confla
 ---
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $4.0M |
+| Total Contributions | $3.9M |
+| Investment Income | $59K |
+| Total Expenses | $3.0M |
+| Net Assets | $4.5M |
+| Officer Compensation | $139K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 261507828](https://projects.propublica.org/nonprofits/organizations/261507828) (Tier 1)
+<!-- auto:propublica-990 end -->

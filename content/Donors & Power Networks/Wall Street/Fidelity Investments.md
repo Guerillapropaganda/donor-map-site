@@ -2,7 +2,7 @@
 title: "Fidelity Investments"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Wall Street"
@@ -15,6 +15,10 @@ regulatory-agencies:
   - "Employee Benefits Security Administration"
   - "Labor Department"
   - "Securities and Exchange Commission"
+ein: 110303001
+annual-revenue: "$14.7B"
+net-assets: "$56.7B"
+tax-year: "2023"
 ---
 
 #asset-manager #johnson-family #private-equity #financial-deregulation #crypto
@@ -71,3 +75,17 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Fidelity%20Investments%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $14.7B |
+| Total Contributions | $12.6B |
+| Investment Income | $1.6B |
+| Total Expenses | $10.5B |
+| Net Assets | $56.7B |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 110303001](https://projects.propublica.org/nonprofits/organizations/110303001) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F110303001_202306_990_2024120622932373.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

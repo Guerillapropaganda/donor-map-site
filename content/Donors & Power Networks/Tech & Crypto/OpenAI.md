@@ -2,14 +2,14 @@
 title: "OpenAI"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 ein: "810861541"
 annual-revenue: "$5.4M"
 net-assets: "$22.7M"

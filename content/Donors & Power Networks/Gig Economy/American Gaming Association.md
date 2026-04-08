@@ -2,7 +2,7 @@
 title: "American Gaming Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -26,6 +26,24 @@ nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-07"
 total-revenue: 24597723
 total-assets: 36994357
+sec-filings: 2157
+sec-form-types:
+  - "425"
+  - "8-K"
+  - "DEFC14A"
+  - "EX-99"
+  - "EX-99.(A)(1)(G)"
+  - "EX-99.(A)(1)(J)"
+  - "EX-99.(A)(1)(K)"
+  - "EX-99.(A)(1)(L)"
+  - "EX-99.(A)(2)"
+  - "EX-99.(A)(3)"
+  - "EX-99.(A)(5)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "N-Q"
+  - "SC TO-C"
 ---
 
 #gaming #gambling #casino #sports-betting #lobbying #addiction #deregulation #murphyvncaa #revolving-door #bipartisan #class-analysis #follow-the-money
@@ -275,3 +293,21 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/931169142) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 2,157 |
+| Form Types | 425, 8-K, DEFC14A, EX-99, EX-99.(A)(1)(G), EX-99.(A)(1)(J), EX-99.(A)(1)(K), EX-99.(A)(1)(L) +8 more |
+
+**Notable filings:**
+
+- 2004-10-20 — **EX-99.1**: EX-99.1
+- 2010-04-14 — **EX-99**: EX-99
+- 2005-12-01 — **EX-99.2**: PRESS RELEASE
+- 2021-03-22 — **EX-99.1**: INVESTOR PRESENTATION
+- 2021-08-25 — **EX-99.1**: INVESTOR PRESENTATION DATED AUGUST 2021
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Gaming%20Association%22) (Tier 1)
+<!-- auto:sec-edgar end -->

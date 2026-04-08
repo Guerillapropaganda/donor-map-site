@@ -2,7 +2,7 @@
 title: "One Nation"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -14,7 +14,7 @@ annual-revenue: "$66.8M"
 net-assets: "$60.8M"
 tax-year: "2023"
 federal-register-mentions: 119
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Antitrust Division"
   - "Energy Department"
@@ -23,6 +23,18 @@ regulatory-agencies:
   - "Federal Trade Commission"
   - "Justice Department"
   - "Labor Department"
+court-cases: 1628
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Eleventh Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the Fourth Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Arizona"
+  - "District Court, D. Idaho"
 ---
 
 #one-nation #mcconnell #dark-money #501c4 #senate-races #donor-secrecy
@@ -114,3 +126,22 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22One%20Nation%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,628 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eleventh Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the Fourth Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, Court of Appeals for the Sixth Circuit, District Court, C.D. California +7 more |
+| Case Types | 2890 Other Statutory Actions, 440 Civil Rights: Other, 442 Civil Rights: Jobs |
+
+**Notable cases:**
+- Adelson, et al. v. United States District Court for the District of Nevada, Las Vegas (2026) — Court of Appeals for the Ninth Circuit
+- United States v. Brzoska (2026) — District Court, N.D. Ohio
+- The State of Oregon v. Trump (2026) — United States Court of International Trade
+- United States v. Regents of The University of California (2026) — District Court, C.D. California
+- Doe v. Trump (2026) — District Court, W.D. Louisiana
+- Inama v. Idaho State Board of Education (2026) — District Court, D. Idaho
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22One%20Nation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

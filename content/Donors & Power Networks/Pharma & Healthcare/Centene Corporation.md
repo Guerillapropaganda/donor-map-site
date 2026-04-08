@@ -2,7 +2,7 @@
 title: "Centene Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -16,7 +16,7 @@ federal-awards-total: 38306385
 federal-contracts-count: 12
 federal-grants-count: 0
 federal-register-mentions: 13
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Employee Benefits Security Administration"
   - "Federal Trade Commission"
@@ -57,6 +57,17 @@ ein: 851888769
 annual-revenue: "$8K"
 net-assets: "$306"
 tax-year: "2023"
+court-cases: 675
+court-jurisdictions:
+  - "District Court, D. Delaware"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Missouri"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Wisconsin"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. New York"
 ---
 
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca
@@ -199,7 +210,7 @@ content-readiness:: ready
 - [[Joe Manchin]] — lobbying: $10.6M
 - [[Jon Husted]] — lobbying: $10.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -213,3 +224,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 851888769](https://projects.propublica.org/nonprofits/organizations/851888769) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 675 |
+| Courts | District Court, D. Delaware, District Court, E.D. California, District Court, E.D. Missouri, District Court, E.D. New York, District Court, E.D. Wisconsin, District Court, M.D. Florida, District Court, N.D. California, District Court, N.D. Illinois +1 more |
+| Case Types | 190 Contract: Other, 410 Anti-Trust, 442 Civil Rights: Jobs, 710 Labor: Fair Standards, 850 Securities/Commodities |
+
+**Notable cases:**
+- Texas Medical Association v. MultiPlan Inc (2026) — District Court, N.D. Illinois
+- Health Net of Arizona, Inc. v. US Health Systems, LLC (2026) — District Court, E.D. Missouri
+- Albritton v. Centene Corporation (2026) — District Court, E.D. California
+- Roberts v. Centene Corporation (2026) — District Court, E.D. Missouri
+- Carolina Neurosurgery and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
+- Florida Spine and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Centene%20Corporation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

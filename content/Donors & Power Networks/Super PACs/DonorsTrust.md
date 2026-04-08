@@ -2,13 +2,17 @@
 title: "DonorsTrust"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Dark Money & Campaign Finance"
+ein: 473233646
+annual-revenue: "$0"
+net-assets: "$57K"
+tax-year: "2016"
 ---
 
 #donor #dark-money #conduit #conservative #anonymous #koch-adjacent #501c3 #daf-sponsor #class-analysis #follow-the-money
@@ -591,3 +595,16 @@ In November 2023, the IRS proposed new regulations for donor-advised funds, but 
 ---
 
 content-readiness:: developed
+
+### Financial Overview (990 Filing — 2016)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $0 |
+| Total Contributions | $0 |
+| Total Expenses | $2K |
+| Net Assets | $57K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 473233646](https://projects.propublica.org/nonprofits/organizations/473233646) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F473233646_201612_990EZ_2017110314918196.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

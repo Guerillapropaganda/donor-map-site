@@ -2,7 +2,7 @@
 title: "Bryan Steil"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,8 @@ issues:
   - "Wall Street & Finance"
 top-donors:
   - "Koch Network"
+total-received: "$3,443,146"
+fec-candidate-id: "H8WI01156"
 ---
 
 
@@ -147,3 +149,38 @@ Steil's election reform agenda â€” the "Make Elections Great Again" (MEGA) Act â
 - [Wikipedia: Bryan Steil](https://en.wikipedia.org/wiki/Bryan_Steil) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $3,443,146 |
+| Individual Contributions | $700,852 |
+| PAC Contributions | $1,097,252 |
+| Cash on Hand | 4902448.64 |
+| IE Support (Super PAC) | $1,807,210 |
+| IE Opposition (Super PAC) | $240,365 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $3,443,146 | $700,852 | $1,097,252 |
+| 2024 | $5,618,111 | $2,035,153 | $2,080,081 |
+| 2022 | $3,616,862 | $1,798,497 | $1,472,429 |
+| 2020 | $3,521,992 | $1,789,383 | $1,235,486 |
+| 2018 | $2,314,019 | $1,451,030 | $456,243 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| FAIRSHAKE | $1,528,412 | $0 |
+| HMP | $0 | $239,615 |
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $123,200 | $0 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $62,666 | $0 |
+| MIDWEST GROWTH PAC | $39,950 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1)
+<!-- auto:fec-politician end -->

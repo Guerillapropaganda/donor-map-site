@@ -2,7 +2,7 @@
 title: "Kay Granger Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,8 @@ issues:
 top-donors:
   - "Lockheed Martin"
   - "Oil & Gas PACs"
+total-received: "$1,080,370"
+fec-candidate-id: "H6TX12060"
 ---
 
 
@@ -201,3 +203,38 @@ This is the ultimate expression of donor capture: not just funding a politician,
 profile-status:: ready
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $1,080,370 |
+| Individual Contributions | $288,933 |
+| PAC Contributions | $507,116 |
+| Cash on Hand | 140929.66 |
+| IE Support (Super PAC) | $1,096,582 |
+| IE Opposition (Super PAC) | $4,532,486 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $1,080,370 | $288,933 | $507,116 |
+| 2022 | $2,041,433 | $897,870 | $1,080,226 |
+| 2020 | $3,247,939 | $1,706,270 | $1,458,909 |
+| 2018 | $2,081,276 | $1,230,319 | $798,003 |
+| 2016 | $1,416,153 | $739,259 | $647,905 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $0 | $2,301,252 |
+| CLUB FOR GROWTH ACTION | $0 | $2,226,944 |
+| CONGRESSIONAL LEADERSHIP FUND | $848,763 | $0 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $118,530 | $0 |
+| WFW ACTION FUND, INC. | $79,662 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1)
+<!-- auto:fec-politician end -->

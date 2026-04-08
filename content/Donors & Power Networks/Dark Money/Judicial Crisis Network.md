@@ -219,7 +219,7 @@ research-status:: developed — $65M FY2024 revenue, $100M+ SCOTUS confirmation 
 - [[Sheldon Whitehouse]] (Environment & Public Works) — lobbying: $248K
 - [[Clarence Thomas]] — lobbying: $248K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

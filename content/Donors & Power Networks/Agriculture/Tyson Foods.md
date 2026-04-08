@@ -2,7 +2,7 @@
 title: "Tyson Foods"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -15,6 +15,11 @@ issues:
   - "Immigration"
 top-federal-agency: "Department of Agriculture"
 top-naics-code: "311615"
+ein: "476014039"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 1
+total-assets: 321518
 ---
 
 #tyson #agriculture #poultry #meatpacking #labor #arkansas #immigration
@@ -74,7 +79,7 @@ content-readiness:: ready
 
 - [[John Boozman]] (Agriculture, Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -93,3 +98,27 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 476014039 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $1 |
+| Total Assets | $322K |
+| IRS Ruling Date | 1979-06-01 |
+| Filings on Record | 6 |
+
+**Filing history:** 2019, 2015, 2014, 2013, 2012, 2011
+
+**View 990 filings:**
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2019)
+- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2015)
+- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2014)
+- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2013)
+- [2012 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2012)
+- ... and 1 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/476014039) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@
 title: "Jewish Democratic Council of America"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
@@ -19,6 +19,10 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-06"
 total-revenue: 2588140
 total-assets: 470240
+fara-status: "registrant"
+fara-records: 2
+fara-countries:
+  - "SYRIA"
 ---
 
 #jdca #jewish-democratic-council #israel-lobby #democratic-party #pro-israel
@@ -132,3 +136,19 @@ The Jewish Democratic Council of America exemplifies how identity-based advocacy
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/821919054) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 2 |
+| Countries | SYRIA |
+| Foreign Principal Records | 1 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Syrian Democratic Council (SYRIA)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Jewish%20Democratic%20Council%20of%20America) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

@@ -2,7 +2,7 @@
 title: "Conservative Partnership Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
+federal-register-mentions: 1
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Energy Department"
 ---
 
 #conservative-partnership-institute #cpi #dark-money #maga #jim-demint #mark-meadows #january-6
@@ -43,3 +47,17 @@ CPI operates as a shadow personnel operation for the MAGA movement — performin
 - [Ballotpedia: Conservative Partnership Institute](https://ballotpedia.org/Conservative_Partnership_Institute) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Rule | 1 |
+| Agencies | Energy Department |
+
+**Recent regulatory activity:**
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.federalregister.gov/documents/2024/02/14/2024-02008/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products) (2024-02-14) — Energy Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Conservative%20Partnership%20Institute%22) (Tier 1)
+<!-- auto:federal-register end -->

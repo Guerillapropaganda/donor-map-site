@@ -2,7 +2,7 @@
 title: "Duke Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -20,7 +20,39 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "221122"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "3"
+  - "4"
+  - "424B5"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10"
+  - "EX-10.1"
+  - "EX-10.3"
+  - "EX-2.4"
+  - "EX-21"
+  - "EX-4.3"
+  - "EX-9.2"
+  - "EX-99.1"
+  - "PRE 14A"
+  - "SCHEDULE 13G/A"
+  - "XML"
+ein: 581586283
+annual-revenue: "$1.1M"
+net-assets: "$6.2M"
+tax-year: "2023"
+federal-register-mentions: 4102
+regulatory-agencies:
+  - "Energy Department"
+  - "Federal Energy Regulatory Commission"
+  - "Nuclear Regulatory Commission"
 ---
 
 #duke-energy #utility #coal-ash #north-carolina #monopoly #rate-base #renewables
@@ -198,3 +230,59 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Duke%20Energy) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-K/A, 10-Q, 3, 4, 424B5, 8-K, ARS +13 more |
+| CIK | 1326160 |
+| Ticker | DUK |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000201796426000008/0002017964-26-000008-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000178977626000008/0001789776-26-000008-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000201796526000008/0002017965-26-000008-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000201792326000008/0002017923-26-000008-index.htm)
+- 2026-04-01 — **8-K**: [FORM 8-K](https://www.sec.gov/Archives/edgar/data/1326160/000110465926038007/0001104659-26-038007-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Duke%20Energy%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1.1M |
+| Total Contributions | $0 |
+| Total Expenses | $29.7M |
+| Net Assets | $6.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 581586283](https://projects.propublica.org/nonprofits/organizations/581586283) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F581586283_202312_990PF_2024112522929234.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4,102 |
+| Final Rules | 208 |
+| Proposed Rules | 128 |
+| Notices | 3,765 |
+| Presidential Documents | 1 |
+| Agencies | Energy Department, Federal Energy Regulatory Commission, Nuclear Regulatory Commission |
+
+**Recent regulatory activity:**
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/04/07/2026-06702/combined-notice-of-filings-1) (2026-04-07) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/04/03/2026-06503/combined-notice-of-filings-1) (2026-04-03) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/27/2026-05979/combined-notice-of-filings-1) (2026-03-27) — Energy Department
+- [Duke Energy Progress, LLC; H.B. Robinson Steam Electric Plant, Unit No. 2; Exemption](https://www.federalregister.gov/documents/2026/03/24/2026-05658/duke-energy-progress-llc-hb-robinson-steam-electric-plant-unit-no-2-exemption) (2026-03-24) — Nuclear Regulatory Commission
+- [Duke Energy Progress, LLC; H.B. Robinson Steam Electric Plant, Unit No. 2; Final Environmental Impact Statement](https://www.federalregister.gov/documents/2026/03/20/2026-05489/duke-energy-progress-llc-hb-robinson-steam-electric-plant-unit-no-2-final-environmental-impact) (2026-03-20) — Nuclear Regulatory Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/18/2026-05273/combined-notice-of-filings-1) (2026-03-18) — Energy Department
+- ... and 4,096 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Duke%20Energy%22) (Tier 1)
+<!-- auto:federal-register end -->

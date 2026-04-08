@@ -2,7 +2,7 @@
 title: "Walmart - Walton Family"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -12,6 +12,11 @@ politicians-funded:
 issues:
   - "Labor & Workers"
   - "Tax Policy"
+ein: "472066714"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 455437
+total-assets: 1873781
 ---
 
 #walmart #walton #retail #labor #anti-union #snap #tax #arkansas
@@ -56,3 +61,28 @@ Opposition to minimum wage increases (Walmart's wage floor has risen through mar
 - [Ballotpedia: Walmart](https://ballotpedia.org/Walmart) (Tier 3)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 472066714 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $455K |
+| Total Assets | $1.9M |
+| NTEE Code | T20 |
+| IRS Ruling Date | 2015-02-01 |
+| Filings on Record | 7 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2019)
+- ... and 2 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1)
+<!-- auto:nonprofit-990 end -->

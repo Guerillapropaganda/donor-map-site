@@ -2,7 +2,7 @@
 title: "L3 Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -55,6 +55,12 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+subawards-issued: 50
+subawards-issued-amount: 1110991781
+subawards-received: 50
+subawards-received-amount: 1110991781
+top-federal-agency: "Department of Defense"
+top-naics-code: "334511"
 ---
 
 #defense-contractor #surveillance-technology #military-intelligence #l3harris-merger #weapons-systems
@@ -148,7 +154,7 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [[John Ratcliffe]] (Intelligence) — contracts: $443K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Spending (USASpending)
@@ -230,3 +236,60 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22L3%20Technologies%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1.1B sampled) |
+| Subawards Received (as sub) | 50 ($1.1B sampled) |
+| Top Federal Agency | Department of Defense ($5.9B) |
+| Primary NAICS Sector | Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing |
+
+**Subcontractors receiving federal money from L3 Technologies:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| L3 TECHNOLOGIES, INC. | $1.1B | 48 |
+| L3 TECHNOLOGIES INC | $45.0M | 2 |
+
+**Prime contractors funneling federal money to L3 Technologies:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| LOCKHEED MARTIN CORPORATION | $338.8M | 17 |
+| NORTHROP GRUMMAN SYSTEMS CORPORATION | $290.7M | 16 |
+| GENERAL DYNAMICS MISSION SYSTEMS, INC | $120.0M | 3 |
+| GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC. | $86.4M | 3 |
+| TEXTRON SYSTEMS CORPORATION | $65.6M | 2 |
+| THE BOEING COMPANY | $63.0M | 2 |
+| ATLANTIC DIVING SUPPLY, INC. | $52.9M | 2 |
+| ALION SCIENCE AND TECHNOLOGY CORPORATION | $45.0M | 3 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $5.9B |
+| General Services Administration | $232.5M |
+| Department of Homeland Security | $46.6M |
+| Department of Justice | $858K |
+| Department of the Interior | $405K |
+| Department of Energy | $18K |
+| Department of State | $3K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $1.6B |
+| Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $1.1B |
+| Other Communications Equipment Manufacturing (334290) | $633.6M |
+| Commercial and Service Industry Machinery Manufacturing (333310) | $531.7M |
+| Engineering Services (541330) | $424.1M |
+| Optical Instrument and Lens Manufacturing (333314) | $351.5M |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $327.6M |
+| Other Aircraft Parts and Auxiliary Equipment Manufacturing (336413) | $220.1M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

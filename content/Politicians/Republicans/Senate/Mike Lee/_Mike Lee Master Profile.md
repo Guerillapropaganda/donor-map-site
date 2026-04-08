@@ -183,7 +183,7 @@ content-readiness:: developed
 
 - [[Blackstone Group]] — $4.5M lobbying spend (Aviation/Airlines/Airports, Banking, Budget/Appropriations) + $623K in contracts
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

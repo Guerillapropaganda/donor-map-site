@@ -2,7 +2,7 @@
 title: "AbbVie"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -24,6 +24,9 @@ ein: "460827839"
 nonprofit-status: "501(c)(3)"
 total-revenue: 67617104
 total-assets: 217738010
+federal-awards-total: 378082
+federal-contracts-count: 20
+federal-grants-count: 0
 ---
 
 #abbvie #pharma #humira #drug-pricing #patent #lobbying
@@ -187,3 +190,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/460827839) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $378K |
+| Contracts (recent 3yr) | 20 ($624K sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $113K | Department of Veterans Affairs | PHARM - VYALEV |
+| $69K | Department of Veterans Affairs | FOSCARBIDOPA 12MG/ML/FOSLEVODOPA 240MG/ML INJ,SOLN - 4 MONTH SUPPLY |
+| $62K | Department of Veterans Affairs | VYALEV - ANTIPARKINSON AGENTS |
+| $52K | Department of Health and Human Services | ABBVIE US LLC, ALLERGAN BREAST IMPLANT SUPPLIES, PIMC, YEAR 3 |
+| $50K | Department of Health and Human Services | BPA CALL 25F28002 YEAR 2 ABBVIE US LLC PIMC ALLERGAN BREAST IMPLANT SUPPLIES |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b143e4e4-6e13-3227-a9be-875c39fabe95-P/latest) (Tier 1)
+<!-- auto:usaspending end -->
