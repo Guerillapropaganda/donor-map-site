@@ -12,6 +12,35 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
+Date: 2026-04-08 (readiness overhaul + ops improvements)
+
+Done:
+- **Readiness tier overhaul** — removed "developed", established 4-tier grading (raw/draft/ready/verified) with investigative journalism standards
+- Built `reclassify-readiness.cjs` — scans all profiles, computes source diversity, corroboration, known gaps. Dry-run: 592 ready (B), 371 draft (C), 0 verified (A+), 483 A+ candidates
+- Built `staleness-decay.cjs` — auto-demotes verified→ready (90d), ready→draft (180d)
+- New frontmatter: `source-types`, `corroboration-count`, `known-gaps`, `last-verified-by`
+- Gold A+ badge on live site for verified profiles, green "SOURCED" for ready
+- Near-verified + decay candidate alerts in Ops dashboard
+- **Stale profile detector** — alerts API + dashboard cards for stale/never-enriched
+- **A-Z navigation bar** — letter filter on vault grid, disabled letters dimmed
+- **"What's needed" per profile** — color-coded next-action on cards and detail panel
+- **"View Full Profile" button** — dashboard detail → profile viewer navigation
+- Updated all docs: Vault Rules, CLAUDE.md, Pipeline Guide
+
+Reclassification script NOT yet run with --write. David should review the dry-run report first.
+
+Next session priorities:
+1. Run reclassify-readiness.cjs --write after David reviews report
+2. Run staleness-decay.cjs --write
+3. Graph legend on live site (Stories, Opposition, entity types)
+4. Contradiction scanner — auto-find shared-donor contradictions
+5. Money trail visualizer — donor→politician→committee→bill flow
+6. Fix lda-pipeline.cjs domain
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-08 (marathon session — Ops v1.0 → v1.5, live site upgrades)
 
 Biggest session in the project's history. Ops v1.0→v1.5, live site voting records, responsive tables, graph fixes.
