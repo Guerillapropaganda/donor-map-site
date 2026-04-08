@@ -18,7 +18,7 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p) => (p.sourceTypes || []).length >= 2 },
     { id: "connections", label: "Connections mapped (donors + related)", check: (p) => !!(p.related || p.donors) },
     { id: "enriched", label: "Enriched within 90 days", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
-    { id: "no-contradictions", label: "No unresolved contradictions", check: (_, raw) => !raw.includes("[!contradiction]") },
+    { id: "contradiction-review", label: "Contradiction investigation complete (Research Claude)", check: (_, raw) => raw.includes("[!contradiction-cleared]") || !raw.includes("[!contradiction]") },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ]
 
@@ -265,4 +265,57 @@ export function VerificationChecklist({ profile, raw, onSaveNa }: Props) {
       })()}
     </div>
   )
+}
+
+// Exported utility: evaluate what tier a profile is eligible for based on checklist
+export function evaluateReadinessEligibility(profile: Profile, raw: string): {
+  maxTier: "raw" | "draft" | "ready" | "verified"
+  pct: number
+  failingItems: string[]
+} {
+  const items = profile.type === "politician"
+    ? getPoliticianChecklist(profile.chamber)
+    : (CHECKLISTS[profile.type] || DEFAULT_CHECKLIST)
+  const naItems = profile.checklistNa || []
+  const isNa = (id: string) => naItems.some((n: string) => n.startsWith(`${id}:`))
+
+  const failing: string[] = []
+  for (const item of items) {
+    if (!isNa(item.id) && !item.check(profile, raw)) {
+      failing.push(item.label)
+    }
+  }
+
+  const checked = items.filter((item) => !isNa(item.id) && item.check(profile, raw)).length
+  const naCount = items.filter((item) => isNa(item.id)).length
+  const total = items.length - naCount
+  const pct = total > 0 ? Math.round((checked / total) * 100) : 0
+
+  // Determine max eligible tier
+  let maxTier: "raw" | "draft" | "ready" | "verified" = "raw"
+  if (pct === 100) maxTier = "verified"
+  else if (pct >= 50) maxTier = "ready"
+  else if (pct > 0) maxTier = "draft"
+
+  return { maxTier, pct, failingItems: failing }
+}
+
+// Story-specific grading based on URL count
+export function evaluateStoryGrading(raw: string): {
+  level: "story" | "report" | "investigation"
+  tier: "draft" | "ready" | "verified"
+  urlCount: number
+  tier1Count: number
+} {
+  const urlMatches = raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []
+  const urlCount = urlMatches.length
+  const tier1Count = (raw.match(/\(Tier 1\)/g) || []).length
+
+  if (urlCount >= 10 && tier1Count >= 3) {
+    return { level: "investigation", tier: "verified", urlCount, tier1Count }
+  }
+  if (urlCount >= 5) {
+    return { level: "report", tier: "ready", urlCount, tier1Count }
+  }
+  return { level: "story", tier: "draft", urlCount, tier1Count }
 }

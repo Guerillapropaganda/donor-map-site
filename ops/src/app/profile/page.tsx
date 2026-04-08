@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react"
 import { useSearchParams, useRouter } from "next/navigation"
 import Link from "next/link"
 import { readinessColor, typeColor } from "@/lib/vault"
-import { VerificationChecklist } from "@/components/VerificationChecklist"
+import { VerificationChecklist, evaluateReadinessEligibility, evaluateStoryGrading } from "@/components/VerificationChecklist"
 import { PipelineDataViewer } from "@/components/PipelineDataViewer"
 
 interface ProfileData {
@@ -542,6 +542,8 @@ export default function ProfilePage() {
   }
 
   const readinessIndex = READINESS_STEPS.indexOf(profile.contentReadiness)
+  const isStoryType = ["story", "event", "sub-note", "daily-update"].includes(profile.type)
+  const storyGrading = isStoryType ? evaluateStoryGrading(rawContent) : null
 
   // Group connections by type
   const connByType = connections.reduce(
@@ -676,46 +678,81 @@ export default function ProfilePage() {
               )
             })}
           </div>
-          <div className="flex items-center gap-2">
-            {/* Demote button */}
-            {readinessIndex > 0 && (
-              <button
-                onClick={() => changeReadiness(READINESS_STEPS[readinessIndex - 1])}
-                disabled={readinessChanging}
-                className="flex items-center gap-1 px-3 py-1.5 text-[10px] font-bold rounded-lg bg-[var(--color-red)]/10 text-[var(--color-red)] border border-[var(--color-red)]/30 hover:bg-[var(--color-red)]/20 transition-colors disabled:opacity-50"
-              >
-                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M19 12H5" />
-                </svg>
-                Demote to {READINESS_STEPS[readinessIndex - 1]}
-              </button>
-            )}
-            {/* Promote button */}
-            {readinessIndex < READINESS_STEPS.length - 1 && (
-              <button
-                onClick={() => changeReadiness(READINESS_STEPS[readinessIndex + 1])}
-                disabled={readinessChanging}
-                className="flex items-center gap-1 px-3 py-1.5 text-[10px] font-bold rounded-lg transition-colors disabled:opacity-50"
-                style={{
-                  backgroundColor: `${readinessColor(READINESS_STEPS[readinessIndex + 1])}15`,
-                  color: readinessColor(READINESS_STEPS[readinessIndex + 1]),
-                  border: `1px solid ${readinessColor(READINESS_STEPS[readinessIndex + 1])}30`,
-                }}
-              >
-                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14" />
-                </svg>
-                {READINESS_STEPS[readinessIndex + 1] === "verified" ? "Sign off → A+" : `Promote to ${READINESS_STEPS[readinessIndex + 1]}`}
-              </button>
-            )}
-            {/* Status message */}
-            {readinessMsg && (
-              <span className={`text-[10px] ${readinessMsg.includes("Error") ? "text-[var(--color-red)]" : "text-[var(--color-green)]"}`}>
-                {readinessMsg}
-              </span>
-            )}
-            {readinessChanging && <span className="text-[10px] text-[var(--color-text-dim)] animate-pulse">Saving...</span>}
-          </div>
+          {/* Promote/Demote with checklist enforcement */}
+          {(() => {
+            const isStory = ["story", "event", "sub-note", "daily-update"].includes(profile.type)
+            const eligibility = isStory
+              ? { maxTier: storyGrading?.tier || "draft" as const, pct: 0, failingItems: [] }
+              : evaluateReadinessEligibility(profile, rawContent)
+            const nextTier = readinessIndex < READINESS_STEPS.length - 1 ? READINESS_STEPS[readinessIndex + 1] : null
+            const canPromote = nextTier && READINESS_STEPS.indexOf(nextTier) <= READINESS_STEPS.indexOf(eligibility.maxTier)
+            const isBlocked = nextTier && !canPromote
+
+            return (
+              <div className="space-y-2">
+                <div className="flex items-center gap-2 flex-wrap">
+                  {/* Demote */}
+                  {readinessIndex > 0 && (
+                    <button onClick={() => changeReadiness(READINESS_STEPS[readinessIndex - 1])} disabled={readinessChanging}
+                      className="flex items-center gap-1 px-3 py-1.5 text-[10px] font-bold rounded-lg bg-[var(--color-red)]/10 text-[var(--color-red)] border border-[var(--color-red)]/30 hover:bg-[var(--color-red)]/20 transition-colors disabled:opacity-50">
+                      ↓ Demote to {READINESS_STEPS[readinessIndex - 1]}
+                    </button>
+                  )}
+                  {/* Promote (enabled if checklist allows) */}
+                  {nextTier && canPromote && (
+                    <button onClick={() => changeReadiness(nextTier)} disabled={readinessChanging}
+                      className="flex items-center gap-1 px-3 py-1.5 text-[10px] font-bold rounded-lg transition-colors disabled:opacity-50"
+                      style={{
+                        backgroundColor: `${readinessColor(nextTier)}15`,
+                        color: readinessColor(nextTier),
+                        border: `1px solid ${readinessColor(nextTier)}30`,
+                      }}>
+                      ↑ {nextTier === "verified" ? "Sign off → A+" : `Promote to ${nextTier}`}
+                    </button>
+                  )}
+                  {/* Blocked promote (shows why) */}
+                  {nextTier && isBlocked && (
+                    <span className="flex items-center gap-1 px-3 py-1.5 text-[10px] rounded-lg bg-[var(--color-bg)] text-[var(--color-text-dim)] border border-[var(--color-border)]">
+                      ↑ {nextTier === "verified" ? "A+" : nextTier} blocked — {eligibility.failingItems.slice(0, 2).join(", ")}{eligibility.failingItems.length > 2 ? ` +${eligibility.failingItems.length - 2} more` : ""}
+                    </span>
+                  )}
+                  {/* Bypass button (when blocked) */}
+                  {nextTier && isBlocked && (
+                    <button
+                      onClick={() => {
+                        if (confirm(`Bypass checklist? Promoting to ${nextTier} despite ${eligibility.failingItems.length} failing items:\n\n${eligibility.failingItems.join("\n")}\n\nThis will be logged.`)) {
+                          changeReadiness(nextTier)
+                        }
+                      }}
+                      disabled={readinessChanging}
+                      className="flex items-center gap-1 px-2 py-1.5 text-[9px] rounded-lg text-[var(--color-amber)] border border-[var(--color-amber)]/30 hover:bg-[var(--color-amber)]/10 transition-colors disabled:opacity-50">
+                      ⚠ Bypass
+                    </button>
+                  )}
+                  {readinessMsg && (
+                    <span className={`text-[10px] ${readinessMsg.includes("Error") ? "text-[var(--color-red)]" : "text-[var(--color-green)]"}`}>{readinessMsg}</span>
+                  )}
+                  {readinessChanging && <span className="text-[10px] text-[var(--color-text-dim)] animate-pulse">Saving...</span>}
+                </div>
+
+                {/* Story grading display */}
+                {isStory && storyGrading && (
+                  <div className="flex items-center gap-2 text-[9px]">
+                    <span className="text-[var(--color-text-dim)]">Story grade:</span>
+                    <span className="font-bold" style={{
+                      color: storyGrading.level === "investigation" ? "#fbbf24" : storyGrading.level === "report" ? "#10b981" : "#f59e0b"
+                    }}>
+                      {storyGrading.level.toUpperCase()}
+                    </span>
+                    <span className="text-[var(--color-text-dim)]">({storyGrading.urlCount} URLs, {storyGrading.tier1Count} Tier 1)</span>
+                    <span className="text-[var(--color-text-dim)]">
+                      {storyGrading.level === "story" ? "→ 5+ URLs for Report" : storyGrading.level === "report" ? "→ 10+ URLs + 3 Tier 1 for Investigation" : "Full investigation"}
+                    </span>
+                  </div>
+                )}
+              </div>
+            )
+          })()}
         </div>
       </div>
 

@@ -127,6 +127,70 @@ verified-blocks:           # pipeline data blocks reviewed by editor
 - Run with `--write` to apply. Most profiles stay at `ready` (B) — honest assessment
 - Very few qualify for `verified` (A+) since it requires editorial sign-off
 
+**Checklist enforcement:**
+- The promote button in the Ops profile viewer checks the type-specific checklist before allowing promotion
+- If items are failing, the promote button is blocked with a list of what's missing
+- A **Bypass** button exists for edge cases — requires confirmation and logs the override
+- Bypass is for editorial judgment calls, not for skipping real requirements
+
+**Story grading (stories, events, sub-notes):**
+
+Stories and editorial content don't require pipeline enrichment. They're graded by source density:
+
+| Level | URL count | Readiness | What it means |
+|-------|-----------|-----------|---------------|
+| Story | 1-4 sourced URLs | draft (C) | Narrative exists, light sourcing |
+| Report | 5-9 sourced URLs | ready (B) | Well-sourced, multiple angles |
+| Investigation | 10+ sourced URLs, 3+ Tier 1 | verified (A+) | Full investigative piece, government records |
+
+Stories/events/sub-notes do NOT require: pipeline enrichment, last-enriched dates, FEC/Congress/LDA data.
+Stories DO require: sourced URLs, profiles linked via wikilinks, editorial sign-off for A+.
+
+**Contradiction investigation (A+ requirement):**
+- `[!contradiction]` callouts flag unresolved contradictions between sources
+- A+ profiles MUST have all contradictions investigated and resolved by Research Claude
+- Resolution: Research Claude investigates, resolves, and adds `[!contradiction-cleared]` callout
+- This is a mandatory Research Claude task — Code Claude flags, Research Claude resolves
+
+**Editorial checks (full framework):**
+
+| Check | What | Owner | Automated? |
+|-------|------|-------|-----------|
+| Source density | URLs per profile, tier distribution | Code Claude | Yes |
+| Source freshness | Data cycle year, last verified | Code Claude | Yes |
+| Claim attribution | % of factual claims with sources | Research Claude | Manual |
+| Cross-ref consistency | Same facts match across related profiles | Code Claude | Buildable |
+| Contradiction investigation | `[!contradiction]` flags resolved | Research Claude | Manual (Code flags) |
+| Legal sensitivity | Profiles with strong claims need extra sourcing | Research Claude | Manual |
+| Correction history | Past errors documented in `corrections` frontmatter | Both | Manual |
+| Wikilink integrity | All `[[links]]` resolve to real profiles | Code Claude | Yes |
+| Orphan detection | Profiles with no incoming links | Code Claude | Yes |
+| Update cadence | Review frequency matches subject activity | Both | Semi-auto |
+| Known gaps | What we don't know, explicitly documented | Both | Semi-auto |
+| Editorial sign-off | Human reviewed and approved | Research Claude / David | Manual |
+
+---
+
+## 2b. Research Claude + Code Claude Integration
+
+**Code Claude surfaces → Research Claude acts:**
+- Pipeline finds data contradiction → flags with `[!contradiction]` → Research Claude investigates
+- Reclassification identifies near-A+ profiles → Research Claude reviews + signs off
+- Auto-connection engine maps relationship → Research Claude verifies accuracy
+- URL checker finds broken source → Research Claude finds replacement
+- Cross-ref checker finds mismatched numbers → Research Claude resolves
+
+**Research Claude requests → Code Claude builds:**
+- "Need lobbying data" → Code Claude runs LDA pipeline
+- "Story needs FEC backing" → Code Claude runs FEC on referenced profiles
+- Research Claude writes story → Code Claude verifies wikilinks + URLs work
+
+**Shared workspace (Ops app):**
+- **Notes tab** = handoff point between Claudes (internal-notes frontmatter)
+- **Checklist** = shared progress tracker visible on every profile
+- Profiles flagged "Needs Research Claude" in notes = editorial queue
+- Profiles flagged "Needs Code Claude" in notes = data/pipeline queue
+
 ---
 
 ## 3. Scope Boundaries
@@ -281,6 +345,7 @@ Permanent record of architectural and editorial decisions that affect the whole 
 
 | Date | Decision | Made by |
 |------|----------|---------|
+| 2026-04-08 | Editorial framework: checklist enforces readiness (with bypass), story grading (story/report/investigation by URL count), contradiction investigation mandatory for A+, Research+Code Claude integration protocol, cross-ref/wikilink/orphan checks planned | David |
 | 2026-04-08 | Readiness overhaul: "developed" removed, 4-tier system (raw/draft/ready/verified). Investigative journalism standards: corroboration, staleness decay, known-gaps, editorial sign-off gate. Verified = A+, Ready = B. | David |
 | 2026-04-08 | Senate LDA (lda.gov) temporarily removed from Tier 1 — site mid-migration from lda.senate.gov, URLs broken. Reinstate after June 2026 when migration completes. Existing LDA citations stay as Archived until then. | David |
 | 2026-04-08 | FollowTheMoney.org merged into OpenSecrets — all FTM URLs are dead. Archive on sight, do not use as a source. Use FEC or state campaign finance databases instead. | David |
