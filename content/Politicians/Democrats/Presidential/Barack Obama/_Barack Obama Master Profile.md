@@ -37,6 +37,7 @@ top-donors:
   - Apple
 fec-candidate-id: S6CA00808
 opposes: '[[Donald Trump Master Profile]]'
+stories: '[[Pharmaceutical: The PhRMA Deal]]'
 ---
 
 
