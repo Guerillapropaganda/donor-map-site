@@ -8,6 +8,7 @@ parent: null
 related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[DCCC Red-to-Blue Targets 2026]] · [[California Razor-Thin Districts 2026]]"
 source-types:
   - FEC
+internal-notes: "[URL Check 2026-04-08] 19 checked: 16 ok, 3 broken, 0 slow. | BROKEN: United Democracy Project Recipients, 2024 • OpenSecrets | BROKEN: MAGA Inc. super PAC enters 2026 with $300 million stockpile - Fox News | BROKEN: Lawler decides not to run for governor in 2026, will seek reelection in NY-17 instead - WAMC"
 ---
 
 #2026-election #house #race-frame #pac-money #donor-networks
