@@ -51,7 +51,7 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Housing and Urban Development Department"
   - "National Oceanic and Atmospheric Administration"
-related: "[[The Judiciary Committee and Tech Accountability]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]]"
+related: "[[The Judiciary Committee and Tech Accountability]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]]"
 ---
 
 #microsoft #tech #lobbying #ai #cloud #antitrust #government-contracts #defense

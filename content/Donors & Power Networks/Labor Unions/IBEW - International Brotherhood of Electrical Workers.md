@@ -28,7 +28,7 @@ regulatory-agencies:
 ein: "611602482"
 nonprofit-status: "501(c)(5)"
 total-political-spend: "$4,861,275"
-related: "[[Bernie Sanders Master Profile]] · [[Glenn Thompson]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Rick Larsen]] · [[Legislative Record as Speaker]] · [[Bennie Thompson]]"
+related: "[[Bernie Sanders Master Profile]] · [[Glenn Thompson]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Rick Larsen]] · [[Legislative Record as Speaker]] · [[Bennie Thompson]] · [[Nancy Pelosi Master Profile]]"
 ---
 
 

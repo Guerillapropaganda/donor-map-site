@@ -211,3 +211,30 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/300043) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| Date | Vote | Position | Result |
+|------|------|----------|--------|
+| 2023-09-28 | S.J.Res. 24 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United State | **Not Voting** | Veto Sustained |
+| 2023-09-28 | S.J.Res. 9 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States | **Not Voting** | Veto Sustained |
+| 2023-09-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 3935 | **Not Voting** | Cloture Motion Agreed to |
+| 2023-09-21 | On the Nomination PN691: Gen. Eric M. Smith, in the Marine Corps, to be General | **Not Voting** | Nomination Confirmed |
+| 2023-09-21 | Motion to Invoke Cloture: Gen. Eric M. Smith for appointment as Commandant of the Marine Corps and appointment in the U. | **Not Voting** | Cloture Motion Agreed to |
+| 2023-09-21 | On the Nomination PN537: Gen. Randy A. George, in the Army, to be General | **Not Voting** | Nomination Confirmed |
+| 2023-09-20 | Motion to Invoke Cloture: Gen. Randy A. George for appointment as Chief of Staff of the Army and appointment in the U.S. | **Not Voting** | Cloture Motion Agreed to |
+| 2023-09-20 | On the Nomination PN677: Gen. Charles Q. Brown, Jr., in the Air Force, to be General | **Not Voting** | Nomination Confirmed |
+| 2023-09-20 | Motion to Invoke Cloture: Gen. Charles Q. Brown Jr. for reappointment as Chairman of the Joint Chiefs of Staff and appoi | **Not Voting** | Cloture Motion Agreed to |
+| 2023-09-20 | Motion to Invoke Cloture: Motion to Suspend the rules under Rule V Re: Amdt No 1092 | **Yea** | Cloture Motion Rejected |
+| 2023-09-19 | On the Nomination PN173: Rita F. Lin, of California, to be United States District Judge for the Northern District of Cal | **Not Voting** | Nomination Confirmed |
+| 2023-09-19 | Motion to Invoke Cloture: Rita F. Lin to be U.S. District Judge for the Northern District of California: Rita F. Lin, of | **Not Voting** | Cloture Motion Agreed to |
+| 2023-09-19 | On the Nomination PN591: Vernon D. Oliver, of Connecticut, to be United States District Judge for the District of Connec | **Not Voting** | Nomination Confirmed |
+| 2023-09-18 | Motion to Invoke Cloture: Vernon D. Oliver to be U.S. District Judge for the District of Connecticut: Vernon D. Oliver,  | **Yea** | Cloture Motion Agreed to |
+| 2023-09-12 | Motion to Invoke Cloture: Motion to Proceed to H.R. 4366 | **Yea** | Cloture Motion Agreed to |
+
+**Sources**
+
+- [GovTrack: Dianne Feinstein](https://www.govtrack.us/congress/members/300043) (Tier 1)
+<!-- auto:voting-record end -->

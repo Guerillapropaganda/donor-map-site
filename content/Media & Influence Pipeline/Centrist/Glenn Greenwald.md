@@ -6,7 +6,7 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
-related: "[[Joe Rogan]] · [[Tucker Carlson]] · [[Lex Fridman]] · [[Briahna Joy Gray]] · [[Rumble]] · [[Tim Pool]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Jordan Peterson]]"
+related: "[[Joe Rogan]] · [[Tucker Carlson]] · [[Lex Fridman]] · [[Briahna Joy Gray]] · [[Rumble]] · [[Tim Pool]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]]"
 donors: "[[Peter Thiel]]"
 ---
 

@@ -53,7 +53,7 @@ tax-year: "2023"
 nonprofit-status: "501(c)(6)"
 total-revenue: 173949
 total-assets: 231861
-related: "[[DeVos Family]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Finance Committee and Tax Industry Alignment]] · [[The Education Committee and Michigan Manufacturing]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FEC to Congress Pipeline and Election Law]]"
+related: "[[DeVos Family]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Finance Committee and Tax Industry Alignment]] · [[The Education Committee and Michigan Manufacturing]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FEC to Congress Pipeline and Election Law]] · [[2026-03-25 Finance Research]]"
 ---
 
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis

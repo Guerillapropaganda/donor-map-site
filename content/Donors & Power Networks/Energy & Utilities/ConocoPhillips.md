@@ -70,7 +70,7 @@ court-jurisdictions:
   - "United States Court of International Trade"
 lobbying-spend: 17930000
 lobbying-filings: 39
-related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[Koch Industries]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[Koch Industries]] · [[The Homeland Security Committee and Oklahoma Energy]]"
 ---
 
 #conocophillips #oil-gas #energy #alaska #willow #lobbying #revolving-door #cheney-energy-task-force
