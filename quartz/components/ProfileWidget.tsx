@@ -27,11 +27,12 @@ const ProfileWidget: QuartzComponent = ({
   const isPolitician = fmType === "politician"
   const isDonorType = fmType === "donor" || fmType === "corporation" || fmType === "pac"
 
-  // Extract wikilink targets from our own related/donors/opposes fields
+  // Extract wikilink targets from our own related/donors/opposes/stories fields
   const ourRelated = String(fm.related ?? "")
   const ourDonorsField = String(fm.donors ?? "")
   const ourOpposesField = String(fm.opposes ?? "")
-  const ourAllLinks = ourRelated + " " + ourDonorsField
+  const ourStoriesField = String(fm.stories ?? "")
+  const ourAllLinks = ourRelated + " " + ourDonorsField + " " + ourStoriesField
   const ourLinkTargets = new Set<string>()
   const ourOpposesTargets = new Set<string>()
   {
@@ -186,6 +187,37 @@ const ProfileWidget: QuartzComponent = ({
       if (pi && !networkInfo.has(polName)) {
         networkInfo.set(polName, { type: "politician", slug: pi.slug, category: pi.party, edgeType: "allied" })
       }
+    }
+  }
+
+  // Add opposition targets for ALL profile types (including politicians)
+  for (const linkTarget of ourOpposesTargets) {
+    if (networkInfo.has(linkTarget)) {
+      // Already in graph — just update edge type to opposition
+      const existing = networkInfo.get(linkTarget)!
+      existing.edgeType = "opposition"
+      continue
+    }
+    const pi = polInfo.get(linkTarget)
+    if (pi) {
+      networkInfo.set(linkTarget, { type: "politician", slug: pi.slug, category: pi.party, edgeType: "opposition" })
+      continue
+    }
+    const di = donorInfo.get(linkTarget)
+    if (di) {
+      networkInfo.set(linkTarget, { type: "donor", slug: di.slug, category: di.sector, edgeType: "opposition" })
+      continue
+    }
+    // Try to find in allFiles by title
+    for (const f of allFiles) {
+      const fFm = f.frontmatter
+      if (!fFm) continue
+      const fTitle = String(fFm.title ?? "").replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim()
+      if (fTitle !== linkTarget) continue
+      const fSlug = (f.slug ?? "").toLowerCase()
+      const fType2 = fSlug.startsWith("think-tanks") ? "think-tank" : fSlug.startsWith("lobbying") ? "lobbying" : fSlug.startsWith("media") ? "media" : "politician"
+      networkInfo.set(linkTarget, { type: fType2, slug: `${basePath}/${simplifySlug(f.slug!)}`, edgeType: "opposition" })
+      break
     }
   }
 

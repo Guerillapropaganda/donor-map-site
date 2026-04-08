@@ -40,6 +40,10 @@ doj-components:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[The Telecom and Media Monopoly Oversight]]"
+ein: "911500276"
+nonprofit-status: "501(c)(3)"
+total-revenue: 210851
+total-assets: 149613
 ---
 
 #sinclair #local-news #media #conservative #must-run #propaganda #consolidation
@@ -188,3 +192,27 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Sinclair%20Broadcast%20Group) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 911500276 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $211K |
+| Total Assets | $150K |
+| IRS Ruling Date | 1991-05-01 |
+| Filings on Record | 9 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2014, 2013, 2012
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911500276) (Tier 1)
+<!-- auto:nonprofit-990 end -->

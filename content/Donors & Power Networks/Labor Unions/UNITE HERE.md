@@ -19,7 +19,7 @@ nonprofit-status: "501(c)(5)"
 last-enriched: "2026-04-06"
 lei: "54930053JDKWMZI3NN64"
 lei-jurisdiction: "CA"
-related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]]"
 ---
 
 

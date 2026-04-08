@@ -19,6 +19,7 @@ export interface ConnectedProfile {
   related: string[]
   donors: string[]
   opposes: string[]
+  stories: string[]
 }
 
 function getRepoRoot(): string {
@@ -107,20 +108,23 @@ export async function GET() {
         const fmRelated = parseWikilinks(fm.related)
         const fmDonors = parseWikilinks(fm.donors)
         const fmOpposes = parseWikilinks(fm.opposes)
+        const fmStories = parseWikilinks(fm.stories)
         const related = fmRelated.length > 0 ? fmRelated : parseBodyField(body, "related")
         const donors = fmDonors.length > 0 ? fmDonors : parseBodyField(body, "donors")
         const opposes = fmOpposes.length > 0 ? fmOpposes : parseBodyField(body, "opposes")
+        const stories = fmStories.length > 0 ? fmStories : parseBodyField(body, "stories")
 
         const profile: ConnectedProfile = {
           title, path: relPath, type,
-          connectionCount: related.length + donors.length + opposes.length,
-          related, donors, opposes,
+          connectionCount: related.length + donors.length + opposes.length + stories.length,
+          related, donors, opposes, stories,
         }
         profileMap.set(title, profile)
 
         for (const t of related) connections.push({ source: title, sourcePath: relPath, sourceType: type, target: t, relationshipType: "related" })
         for (const t of donors) connections.push({ source: title, sourcePath: relPath, sourceType: type, target: t, relationshipType: "donors" })
         for (const t of opposes) connections.push({ source: title, sourcePath: relPath, sourceType: type, target: t, relationshipType: "opposes" })
+        for (const t of stories) connections.push({ source: title, sourcePath: relPath, sourceType: type, target: t, relationshipType: "stories" })
       } catch { /* skip bad files */ }
     }
 
@@ -159,6 +163,7 @@ export async function GET() {
       related: connections.filter((c) => c.relationshipType === "related").length,
       donors: connections.filter((c) => c.relationshipType === "donors").length,
       opposes: connections.filter((c) => c.relationshipType === "opposes").length,
+      stories: connections.filter((c) => c.relationshipType === "stories").length,
       total: connections.length,
     }
 

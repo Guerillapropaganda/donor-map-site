@@ -20,6 +20,8 @@ top-donors:
 bioguide-id: "A000383"
 donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]]"
 related: "[[Tom Cole]]"
+total-received: "$689,298"
+fec-candidate-id: "H0CT03072"
 ---
 
 #rosa-delauro #democrat #connecticut #house #appropriations #ranking-member #phase-6-gavel-power
@@ -127,3 +129,37 @@ On healthcare, she leads with children and families — the child tax credit, sc
 
 profile-status:: ready
 c
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $689,298 |
+| Individual Contributions | $273,092 |
+| PAC Contributions | $317,000 |
+| Cash on Hand | 239597.33 |
+| IE Support (Super PAC) | $264,121 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $689,298 | $273,092 | $317,000 |
+| 2024 | $1,751,635 | $719,555 | $867,476 |
+| 2022 | $2,182,549 | $1,193,238 | $892,830 |
+| 2020 | $1,956,686 | $1,004,114 | $774,300 |
+| 2018 | $1,305,047 | $573,871 | $601,770 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| WFP IE COMMITTEE | $155,000 | $0 |
+| AMERICAN HOSPITAL ASSOCIATION PAC | $100,000 | $0 |
+| CLEAN UP CONGRESS | $0 | $9,464 |
+| CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT | $5,075 | $0 |
+| MID-AMERICA CONSERVATIVE POLITICAL ACTION COMMITTEE | $0 | $4,496 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -41,6 +41,9 @@ sec-form-types:
   - "SC 13G/A"
   - "SCHEDULE 13G/A"
 related: "[[Real Estate Industry Bloc]]"
+federal-awards-total: 87656
+federal-contracts-count: 3
+federal-grants-count: 0
 ---
 
 #cbre #real-estate #commercial #brokerage #lobbying #1031-exchange
@@ -113,3 +116,23 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CBRE%20Group%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $88K |
+| Contracts (recent 3yr) | 3 ($353K sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $193K | Department of the Treasury | EXPERT WITNESS SERVICES |
+| $144K | Department of the Treasury | TRACS0001866 - APPROVAL DATE 5/2/25. EXPERT WITNESS SERVICES REQUIRED FOR VALUATION OF REAL ESTATE F |
+| $15K | Environmental Protection Agency | SMALL INSTRUMENT CALIBRATION FOR CENTRIFUGES, PH METERS, THERMOCYCLERS, THERMOMETERS, AND SPECTROPHO |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/7e86b7d3-1a74-95d4-dd2e-e89f86cc9d2b-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

@@ -44,10 +44,14 @@ sec-form-types:
   - "SCHEDULE 13G/A"
   - "SD"
 cpsc-recalls: 11
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[McDonalds Corporation]]"
+ein: "911795425"
+nonprofit-status: "501(c)(3)"
+total-revenue: 2762084
+total-assets: 22542308
 ---
 
 #starbucks #coffee #anti-union #nlrb #progressive-brand #labor #howard-schultz
@@ -195,3 +199,28 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Starbucks) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 911795425 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $2.8M |
+| Total Assets | $22.5M |
+| NTEE Code | Z99Z |
+| IRS Ruling Date | 1998-09-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911795425) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@ import { NextResponse } from "next/server"
 import matter from "gray-matter"
 import { readFile, writeAndPush } from "@/lib/local-write"
 
-const VALID_TYPES = ["related", "donors", "opposes"]
+const VALID_TYPES = ["related", "donors", "opposes", "stories"]
 
 // Find and remove a wikilink from a body-text field line like "related: [[A]] · [[B]]"
 function removeFromBodyField(body: string, field: string, targetTitle: string): { updated: string; found: boolean } {

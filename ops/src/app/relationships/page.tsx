@@ -6,15 +6,15 @@ import { typeColor } from "@/lib/vault"
 
 interface Connection {
   source: string; sourcePath: string; sourceType: string
-  target: string; relationshipType: "related" | "donors" | "opposes"
+  target: string; relationshipType: "related" | "donors" | "opposes" | "stories"
 }
 interface ConnectedProfile {
   title: string; path: string; type: string; connectionCount: number
   related: string[]; donors: string[]; opposes: string[]
 }
 
-const REL_COLORS = { related: "#5b8dce", donors: "#22c55e", opposes: "#ef4444" }
-const REL_LABELS = { related: "Related", donors: "Funded By", opposes: "Opposes" }
+const REL_COLORS: Record<string, string> = { related: "#5b8dce", donors: "#22c55e", opposes: "#ef4444", stories: "#ec4899" }
+const REL_LABELS: Record<string, string> = { related: "Related", donors: "Funded By", opposes: "Opposes", stories: "Stories" }
 const TYPE_COLORS: Record<string, string> = {
   politician: "#5b8dce", donor: "#22c55e", corporation: "#22c55e", "think-tank": "#a855f7",
   "lobbying-firm": "#f59e0b", "media-profile": "#ef4444", story: "#ec4899", unknown: "#7a7a86",
@@ -52,14 +52,14 @@ export default function RelationshipsPage() {
 
   // Add connection state
   const [targetSearch, setTargetSearch] = useState("")
-  const [relType, setRelType] = useState<"related" | "donors" | "opposes">("related")
+  const [relType, setRelType] = useState<"related" | "donors" | "opposes" | "stories">("related")
   const [targetTypeFilter, setTargetTypeFilter] = useState<string>("all")
   const [saving, setSaving] = useState(false)
   const [toast, setToast] = useState<string | null>(null)
   const [sidebarTypeFilter, setSidebarTypeFilter] = useState<string>("all")
 
   // Context menu for changing connection types
-  const [contextMenu, setContextMenu] = useState<{ x: number; y: number; name: string; type: "related" | "donors" | "opposes" } | null>(null)
+  const [contextMenu, setContextMenu] = useState<{ x: number; y: number; name: string; type: "related" | "donors" | "opposes" | "stories" } | null>(null)
 
   // Close context menu on click anywhere
   useEffect(() => {
@@ -163,7 +163,7 @@ export default function RelationshipsPage() {
   }
 
   // Change connection type (remove old, add new)
-  const changeConnectionType = async (targetTitle: string, fromType: "related" | "donors" | "opposes", toType: "related" | "donors" | "opposes") => {
+  const changeConnectionType = async (targetTitle: string, fromType: "related" | "donors" | "opposes" | "stories", toType: "related" | "donors" | "opposes" | "stories") => {
     if (!selected || fromType === toType) return
     setSaving(true)
     try {
@@ -190,7 +190,7 @@ export default function RelationshipsPage() {
     finally { setSaving(false) }
   }
 
-  const removeConnection = async (targetTitle: string, rt: "related" | "donors" | "opposes") => {
+  const removeConnection = async (targetTitle: string, rt: "related" | "donors" | "opposes" | "stories") => {
     if (!selected) return
     setSaving(true)
     try {
@@ -269,7 +269,7 @@ export default function RelationshipsPage() {
       {/* Relationship type */}
       <div className="flex gap-2 mb-2">
         <span className="text-[8px] text-[var(--color-text-dim)] py-1.5">Type:</span>
-        {(["related", "donors", "opposes"] as const).map((rt) => (
+        {(["related", "donors", "opposes", "stories"] as const).map((rt) => (
           <button key={rt} onClick={() => setRelType(rt)}
             className={`text-[9px] px-2.5 py-1.5 rounded border transition-all ${relType === rt ? "border-current bg-current/10" : "border-[var(--color-border)] text-[var(--color-text-dim)]"}`}
             style={{ color: relType === rt ? REL_COLORS[rt] : undefined }}>{REL_LABELS[rt]}</button>
@@ -320,7 +320,7 @@ export default function RelationshipsPage() {
           <div className="px-3 py-2 border-b border-[var(--color-border)]">
             <p className="text-[9px] text-[var(--color-text-dim)] truncate max-w-[200px]">{contextMenu.name}</p>
           </div>
-          {(["related", "donors", "opposes"] as const).map((rt) => (
+          {(["related", "donors", "opposes", "stories"] as const).map((rt) => (
             <button key={rt}
               onClick={() => {
                 if (rt !== contextMenu.type) changeConnectionType(contextMenu.name, contextMenu.type, rt)
@@ -390,6 +390,9 @@ export default function RelationshipsPage() {
         <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[#ef4444]/10 text-[#ef4444]">
           <span className="w-2 h-2 rounded-full bg-current" /> {breakdown.opposes} Opposes
         </div>
+        <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[#ec4899]/10 text-[#ec4899]">
+          <span className="w-2 h-2 rounded-full bg-current" /> {breakdown.stories || 0} Stories
+        </div>
         <div className="ml-auto text-[10px] text-[var(--color-text-dim)]">{filteredUnconnectedCount} profiles with no connections</div>
       </div>
 
@@ -453,7 +456,7 @@ export default function RelationshipsPage() {
                 <button onClick={clearSelection} className="ml-auto text-[var(--color-text-dim)] hover:text-[var(--color-text)] text-xs px-2 py-1 rounded hover:bg-[var(--color-bg-hover)]">Clear</button>
               </div>
 
-              {(["related", "donors", "opposes"] as const).map((rt) => {
+              {(["related", "donors", "opposes", "stories"] as const).map((rt) => {
                 const items = selected[rt]
                 if (items.length === 0) return null
                 return (
@@ -477,13 +480,14 @@ export default function RelationshipsPage() {
                             {/* Change type dropdown */}
                             <select
                               value={rt}
-                              onChange={(e) => changeConnectionType(name, rt, e.target.value as "related" | "donors" | "opposes")}
+                              onChange={(e) => changeConnectionType(name, rt, e.target.value as "related" | "donors" | "opposes" | "stories")}
                               disabled={saving}
                               className="text-[8px] px-1 py-0.5 rounded border border-[var(--color-border)] bg-[var(--color-bg)] opacity-0 group-hover:opacity-100 transition-all focus:opacity-100"
                               style={{ color: REL_COLORS[rt] }}>
                               <option value="related" style={{ color: "#5b8dce" }}>Related</option>
                               <option value="donors" style={{ color: "#22c55e" }}>Funded By</option>
                               <option value="opposes" style={{ color: "#ef4444" }}>Opposes</option>
+                              <option value="stories" style={{ color: "#ec4899" }}>Stories</option>
                             </select>
                             <button onClick={() => removeConnection(name, rt)} disabled={saving}
                               className="text-[8px] px-1.5 py-0.5 rounded text-[var(--color-red)]/60 hover:text-[var(--color-red)] hover:bg-[var(--color-red)]/10 opacity-0 group-hover:opacity-100 transition-all">
@@ -530,13 +534,14 @@ export default function RelationshipsPage() {
                         {/* Type dropdown — same as List View */}
                         <select
                           value={conn.relationshipType}
-                          onChange={(e) => changeConnectionType(targetName, conn.relationshipType, e.target.value as "related" | "donors" | "opposes")}
+                          onChange={(e) => changeConnectionType(targetName, conn.relationshipType, e.target.value as "related" | "donors" | "opposes" | "stories")}
                           disabled={saving}
                           className="text-[8px] uppercase tracking-wider bg-transparent border-none cursor-pointer focus:outline-none"
                           style={{ color: REL_COLORS[conn.relationshipType] }}>
                           <option value="related" style={{ color: "#5b8dce", background: "#141419" }}>Related</option>
                           <option value="donors" style={{ color: "#22c55e", background: "#141419" }}>Funded By</option>
                           <option value="opposes" style={{ color: "#ef4444", background: "#141419" }}>Opposes</option>
+                          <option value="stories" style={{ color: "#ec4899", background: "#141419" }}>Stories</option>
                         </select>
                         <button onClick={() => removeConnection(targetName, conn.relationshipType)} disabled={saving}
                           className="ml-auto text-[8px] px-1.5 py-0.5 rounded text-[var(--color-red)]/60 hover:text-[var(--color-red)] hover:bg-[var(--color-red)]/10 opacity-0 group-hover:opacity-100 transition-all">
@@ -648,6 +653,7 @@ export default function RelationshipsPage() {
                 <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-6 h-0 border-t border-[#5b8dce]" /> Related</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-6 h-0 border-t border-[#22c55e]" /> Donors</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-6 h-0 border-t border-dashed border-[#ef4444]" /> Opposes</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#ec4899]"><span className="w-6 h-0 border-t border-dotted border-[#ec4899]" /> Stories</span>
                 <span className="text-[7px] text-[var(--color-text-dim)] ml-2">Scroll to zoom · Click+drag to pan</span>
               </div>
               <AddConnectionForm />
