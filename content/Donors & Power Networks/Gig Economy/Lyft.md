@@ -34,7 +34,38 @@ court-jurisdictions:
   - "District Court, E.D. Michigan"
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
-related: "[[Instacart]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Instacart]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Airbnb]]"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "144"
+  - "4"
+  - "40-APP"
+  - "424B2"
+  - "497K"
+  - "8-K"
+  - "CORRESP"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "DRSLTR"
+  - "EX-1.01"
+  - "EX-10.20"
+  - "EX-10.3"
+  - "EX-19.1"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.10"
+  - "EX-99.11"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "EX-99.6"
+  - "EX-99.9"
+  - "FWP"
+  - "PRE 14A"
+  - "PX14A6G"
+  - "S-8"
+  - "SCHEDULE 13G"
+  - "SCHEDULE 13G/A"
 ---
 
 
@@ -300,3 +331,23 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lyft%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 144, 4, 40-APP, 424B2, 497K, 8-K, CORRESP +21 more |
+| CIK | 1759509 |
+| Ticker | LYFT |
+
+**Notable filings:**
+
+- 2026-04-07 — **SCHEDULE 13G**: [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1759509/000201238326001049/0002012383-26-001049-index.htm)
+- 2026-03-31 — **PRE 14A**: [PRE 14A](https://www.sec.gov/Archives/edgar/data/1759509/000162828026022374/0001628280-26-022374-index.htm)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1759509/000010290926001782/0000102909-26-001782-index.htm)
+- 2026-03-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1759509/000203482626000003/0002034826-26-000003-index.htm)
+- 2026-03-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1759509/000178022726000002/0001780227-26-000002-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Lyft%22) (Tier 1)
+<!-- auto:sec-edgar end -->

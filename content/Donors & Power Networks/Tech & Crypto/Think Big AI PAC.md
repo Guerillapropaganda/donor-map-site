@@ -9,7 +9,7 @@ sector: "Tech & Crypto"
 entity-type: "PAC"
 issues:
   - "Technology"
-related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs. Institutional Democrats in Illinois]]"
+related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Melissa Bean Master Profile]] · [[Think Big AI PAC and AI Policy Alignment]]"
 ---
 
 #think-big-ai #super-pac #tech #ai #lobbying #regulation #silicon-valley

@@ -26,7 +26,13 @@ court-jurisdictions:
   - "District Court, M.D. Tennessee"
   - "District Court, N.D. California"
   - "District Court, W.D. Washington"
-related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]]"
+related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]]"
+sec-filings: 9
+sec-form-types:
+  - "DEF 14A"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "PX14A6G"
 ---
 
 
@@ -262,3 +268,21 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Federation%20for%20Children%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 9 |
+| Form Types | DEF 14A, EX-99.1, EX-99.2, PX14A6G |
+
+**Notable filings:**
+
+- 2023-10-30 — **PX14A6G**: PX14A6G
+- 2017-01-10 — **EX-99.2**: EX-99.2
+- 2011-01-05 — **EX-99.1**: PRESS RELEASE
+- 2021-11-15 — **PX14A6G**: PX14A6G
+- 2019-10-25 — **DEF 14A**: DEF 14A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Federation%20for%20Children%22) (Tier 1)
+<!-- auto:sec-edgar end -->

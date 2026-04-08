@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Lee Camp]] · [[George Galloway]]"
+related: "[[Lee Camp]] · [[George Galloway]] · [[Owen Jones]] · [[Chris Hedges]]"
 opposes: "[[AIPAC - American Israel Public Affairs Committee]] · [[Israel - Government Lobbying Operation]]"
 ---
 

@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
-ein: 474967720
+ein: "474967720"
 annual-revenue: "$820K"
 net-assets: "$8.6M"
 tax-year: "2023"
@@ -17,6 +17,10 @@ lei: "549300AWJCCLBT2W8T68"
 lei-jurisdiction: "US-MA"
 lei-parent: "MASSMUTUAL PREMIER FUNDS"
 related: "[[Richard Neal Master Profile]]"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 58873009
+total-assets: 34302568
 ---
 
 #insurance #financial-services #pac-donor #house-financial-services
@@ -94,3 +98,28 @@ MassMutual represents the regulatory capture of an industry built on information
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 474967720 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $58.9M |
+| Total Assets | $34.3M |
+| NTEE Code | T21 |
+| IRS Ruling Date | 2016-04-01 |
+| Filings on Record | 6 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2019)
+- ... and 1 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474967720) (Tier 1)
+<!-- auto:nonprofit-990 end -->

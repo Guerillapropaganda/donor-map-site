@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Real Estate Development Industry Bloc]] · [[Lennar Corporation]] · [[Supply-Side Framework - Who It Helps]]"
+related: "[[Real Estate Development Industry Bloc]] · [[Lennar Corporation]] · [[Supply-Side Framework - Who It Helps]] · [[Rent Control - Props 10, 21, and 33]] · [[Homelessness Spending and Encampments]]"
 ---
 
 

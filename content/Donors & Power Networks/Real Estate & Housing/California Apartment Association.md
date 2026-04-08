@@ -26,7 +26,7 @@ ein: 950944360
 annual-revenue: "$291K"
 net-assets: "$864K"
 tax-year: "2023"
-related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[Anthony Rendon]]"
+related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]]"
 ---
 
 

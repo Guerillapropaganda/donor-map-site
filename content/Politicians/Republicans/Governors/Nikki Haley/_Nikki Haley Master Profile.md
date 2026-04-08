@@ -2,7 +2,7 @@
 title: "Nikki Haley Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,8 @@ issues:
 top-donors:
   - "Koch Network - Charles Koch"
   - "Kenneth Griffin"
+total-received: "$58,378,348"
+fec-candidate-id: "P40010977"
 ---
 
 #nikki-haley #governor #south-carolina #un-ambassador #republican #defense-hawk #class-analysis #follow-the-money #koch-network #wall-street #presidential-2028 #electability-candidate
@@ -166,3 +168,28 @@ Haley is the most likely donor-class vehicle for 2028 if Trump does not run and 
 - [NBC News: Nikki Haley ends presidential campaign with 'no regrets'](https://www.nbcnews.com/politics/2024-election/nikki-haley-ends-presidential-campaign-trump-gop-primary-rcna134811) (Tier 2)
 - [Wikipedia: Nikki Haley](https://en.wikipedia.org/wiki/Nikki_Haley) (Tier 3)
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $58,378,348 |
+| Individual Contributions | $34,132,886 |
+| PAC Contributions | $32,800 |
+| Cash on Hand | 1687666.89 |
+| IE Support (Super PAC) | $110,687,351 |
+| IE Opposition (Super PAC) | $39,801,645 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SFA FUND, INC | $65,502,351 | $0 |
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $45,185,000 | $0 |
+| FIGHT RIGHT INC | $0 | $18,881,648 |
+| MAKE AMERICA GREAT AGAIN INC. | $0 | $16,761,873 |
+| NEVER BACK DOWN INC. | $0 | $4,158,125 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40010977/) (Tier 1)
+<!-- auto:fec-politician end -->

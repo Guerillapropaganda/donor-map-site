@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Vault Standards and Agent Instructions]] · [[API Pipeline — Data Collection Layer]] · [[Think Tank & Policy Infrastructure Framework]]"
+related: "[[Vault Standards and Agent Instructions]] · [[API Pipeline — Data Collection Layer]] · [[Think Tank & Policy Infrastructure Framework]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Media & Influence Pipeline Framework]]"
 ---
 
 #methodology #research #data-sources #class-analysis #vault-maintenance #analysis

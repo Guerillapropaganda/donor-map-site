@@ -33,7 +33,7 @@ tax-year: "2024"
 nonprofit-status: "501(c)(3)"
 total-revenue: 160081
 total-assets: 8950006
-related: "[[Doug Burgum Master Profile]] · [[The Interior Department as Fossil Fuel Policy Vehicle]] · [[The Harold Hamm Pipeline and the Continental Resources Conflict]]"
+related: "[[Doug Burgum Master Profile]] · [[The Interior Department as Fossil Fuel Policy Vehicle]] · [[The Harold Hamm Pipeline and the Continental Resources Conflict]] · [[The 445 Million Dollar Oil Investment and Wrights Buy-In]] · [[Environment - Donors and Backers]]"
 ---
 
 #donor-node #mega-donor #fossil-fuel #fracking #oklahoma #republican #class-analysis #continental-resources #bakken #energy-policy #trump-advisor #donor

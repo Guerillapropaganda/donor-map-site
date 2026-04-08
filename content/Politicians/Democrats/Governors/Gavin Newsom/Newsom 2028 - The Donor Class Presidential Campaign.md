@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
+related: "[[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Prop 22 - The $200M Corporate Rollback]]"
 ---
 
 

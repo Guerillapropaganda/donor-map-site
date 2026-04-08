@@ -30,7 +30,7 @@ lobbying-filings: 52
 federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 0
-related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]]"
+related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Wes Moore Master Profile]]"
 ---
 
 #citigroup #wall-street #banking #too-big-to-fail #derivatives #lobbying #bailout

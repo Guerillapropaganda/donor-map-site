@@ -7,7 +7,7 @@ source-tier: null
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Individual Donor"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lex Fridman]] · [[Bari Weiss]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lex Fridman]] · [[Bari Weiss]] · [[Matt Taibbi]] · [[Joe Rogan]]"
 ---
 
 #redirect

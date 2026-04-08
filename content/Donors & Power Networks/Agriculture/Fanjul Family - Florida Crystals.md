@@ -15,7 +15,7 @@ issues:
   - "Israel & Foreign Policy"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Defense Industry Bloc]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]]"
+related: "[[Defense Industry Bloc]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[LARA Fund - Mauricio Claver-Carone]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]]"
 ---
 
 

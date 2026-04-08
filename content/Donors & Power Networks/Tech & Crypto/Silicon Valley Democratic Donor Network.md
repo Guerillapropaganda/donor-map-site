@@ -11,7 +11,7 @@ issues:
   - "Technology"
 lobbying-spend: 1258000
 lobbying-filings: 51
-related: "[[The Dark Money Crusader and Court Reform]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Venture Capital Senator - Tech Wealth in the Senate]]"
+related: "[[The Dark Money Crusader and Court Reform]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Climate Hawk and Green New Deal Limits]] · [[Chris Murphy Master Profile]]"
 ---
 
 #donor #donor-network #tech #democratic #2024-realignment #silicon-valley #billionaire-coordination #ai-regulation #immigration-policy

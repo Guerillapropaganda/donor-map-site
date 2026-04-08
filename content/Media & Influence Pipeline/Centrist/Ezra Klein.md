@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Bari Weiss]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Kyle Kulinski]]"
+related: "[[Bari Weiss]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
 donors: "[]"
 ---
 

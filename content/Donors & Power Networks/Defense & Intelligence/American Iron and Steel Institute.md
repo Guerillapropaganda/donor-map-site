@@ -67,7 +67,7 @@ court-jurisdictions:
   - "District Court, S.D. Indiana"
   - "District Court, W.D. Pennsylvania"
   - "United States Court of International Trade"
-related: "[[Trade and Tariffs - Donors and Backers]] · [[Mike Bost]] · [[Ron Johnson]]"
+related: "[[Trade and Tariffs - Donors and Backers]] · [[Mike Bost]] · [[Ron Johnson]] · [[Paul Ryan]] · [[Bob Casey]]"
 ---
 
 

@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs Labor - The Structural Funding Gap]]"
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]]"
 ---
 
 #2026-election #house #new-york #race-frame

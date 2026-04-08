@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: substack
-related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Manhattan Institute for Policy Research]] · [[James O'Keefe]] · [[Charlie Kirk]] · [[Dave Rubin]]"
+related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Manhattan Institute for Policy Research]] · [[James O'Keefe]] · [[Charlie Kirk]] · [[Dave Rubin]] · [[Matt Walsh]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
 ---
 
 #media-pipeline #right #anti-dei #manhattan-institute #policy-architect #dark-money #donorstrust #bradley-foundation

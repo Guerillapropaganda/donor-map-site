@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Tucker Carlson]] · [[Laura Ingraham]] · [[_Media Pipeline Framework]] · [[Dan Bongino]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
+related: "[[Tucker Carlson]] · [[Laura Ingraham]] · [[_Media Pipeline Framework]] · [[Dan Bongino]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]]"
 donors: "[[Fox Corp - Rupert Murdoch]]"
 ---
 

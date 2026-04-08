@@ -29,7 +29,7 @@ doj-components:
 lei: "549300KDUEM5IEU30490"
 lei-jurisdiction: "VN"
 lei-parent: "ARCHER-DANIELS-MIDLAND COMPANY"
-related: "[[Monsanto - Bayer]] · [[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]]"
+related: "[[Monsanto - Bayer]] · [[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]]"
 ---
 
 #adm #agriculture #commodities #ethanol #grain #biofuel #illinois

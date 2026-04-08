@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[Sean Hannity]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[Sean Hannity]] · [[Nicolle Wallace]]"
 ---
 
 #media-pipeline #right #fox-news #late-night #comedy #pharma-ads #dominion

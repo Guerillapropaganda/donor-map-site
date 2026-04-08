@@ -9,8 +9,8 @@ fec-candidate-id: "H2OH13033"
 govtrack-id: 400050
 bills-sponsored: 0
 bills-cosponsored: 0
-donors: "[[David Sacks]] · [[UAW - United Auto Workers]] · [[California Nurses Association]]"
-related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]]"
+donors: "[[David Sacks]] · [[UAW - United Auto Workers]] · [[California Nurses Association]] · [[American Iron and Steel Institute]] · [[Ohio Democratic Party]]"
+related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]]"
 ---
 
 #sherrod-brown #senate #ohio #labor #populist #class-analysis #2024-defeat

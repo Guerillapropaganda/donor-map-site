@@ -19,7 +19,7 @@ top-donors:
   - "Pharmaceutical Industry"
   - "AIPAC"
 donors: "[[ADM - Archer Daniels Midland]]"
-related: "[[Tammy Duckworth]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Financial Services Donors]]"
+related: "[[Tammy Duckworth]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Financial Services Donors]] · [[Legal Sector Donors]]"
 ---
 
 #dick-durbin #senate #illinois #judiciary #whip #class-analysis #donor-gatekeeper #democrat #managed-opposition #retirement

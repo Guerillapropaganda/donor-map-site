@@ -17,13 +17,13 @@ lobbying-spend: 3489500
 lobbying-filings: 75
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-ein: 330771070
+ein: "330771070"
 annual-revenue: "$2K"
 net-assets: "$3.5M"
 tax-year: "2023"
 total-political-spend: "$150,500"
 doj-press-mentions: "264345"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 doj-components:
   - "Civil Rights Division"
   - "Cyber Division (FBI)"
@@ -35,7 +35,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]]"
+related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]]"
 ---
 
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure
@@ -331,3 +331,28 @@ research-status:: developed — Expanded from 47 to 190+ lines. CMD $86.4M grant
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Bradley%20Foundation%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 330771070 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $9K |
+| Total Assets | $3.5M |
+| NTEE Code | T20 |
+| IRS Ruling Date | 1999-05-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/330771070) (Tier 1)
+<!-- auto:nonprofit-990 end -->

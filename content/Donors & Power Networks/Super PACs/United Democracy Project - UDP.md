@@ -15,7 +15,7 @@ politicians-funded:
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Israel and Foreign Policy - Donors and Backers]]"
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Elect Chicago Women Shell PAC Operation]] · [[Donna Miller Master Profile]]"
 ---
 
 #donor #aipac #super-pac #israel-lobby #udp #dark-money
