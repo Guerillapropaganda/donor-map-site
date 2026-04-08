@@ -48,6 +48,13 @@ export interface Profile {
   lobbyistCount?: number
   revolvingDoorPct?: string
   faraClients?: string
+  topDonors?: string[]
+  totalReceived?: string
+  careerTotal?: string
+  lobbyingFilings?: number
+  federalContracts?: number
+  federalAwardsTotal?: number
+  leadershipRoles?: string[]
 }
 
 // Parse frontmatter from markdown content
@@ -103,6 +110,13 @@ export function parseProfile(path: string, content: string): Profile {
     lobbyistCount: data["lobbyist-count"] ? parseInt(data["lobbyist-count"]) : undefined,
     revolvingDoorPct: data["revolving-door-pct"],
     faraClients: data["fara-clients"],
+    topDonors: data["top-donors"],
+    totalReceived: data["total-received"],
+    careerTotal: data["career-total"],
+    lobbyingFilings: data["lobbying-filings"] ? parseInt(data["lobbying-filings"]) : undefined,
+    federalContracts: data["federal-contracts"] ? parseInt(data["federal-contracts"]) : undefined,
+    federalAwardsTotal: data["federal-awards-total"] ? parseInt(data["federal-awards-total"]) : undefined,
+    leadershipRoles: data["leadership-roles"],
   }
 }
 
