@@ -38,7 +38,8 @@ const BLOCK_LABELS: Record<string, string> = {
   "nonprofit-990": "IRS 990 Tax Filings",
   "propublica-990": "Nonprofit Tax Data",
   "wikipedia": "Wikipedia/Wikidata",
-  "federal-register": "Federal Register (Executive Orders, Rules)",
+  "federal-register": "Federal Register (Rules & Notices)",
+  "executive-orders": "Executive Orders",
   "influence-cross-ref": "Influence Cross-Reference",
 }
 
@@ -85,7 +86,7 @@ export function PipelineDataViewer({ raw, profileType }: { raw: string; profileT
 
   // Priority order based on profile type
   const priorityOrder: Record<string, string[]> = {
-    politician: ["govtrack-votes", "voting-record", "committee-assignments", "congress-legislation", "fec-fundraising", "fec-politician", "federal-register", "stock-trades"],
+    politician: ["executive-orders", "govtrack-votes", "voting-record", "committee-assignments", "congress-legislation", "fec-fundraising", "fec-politician", "federal-register", "stock-trades"],
     donor: ["fec-donor", "lda-lobbying", "fara-foreign-agents", "influence-cross-ref"],
     corporation: ["fec-donor", "lda-lobbying", "usaspending", "sec-edgar", "sec-enforcement", "epa-echo", "osha-safety"],
     "think-tank": ["nonprofit-990", "propublica-990", "fec-donor", "influence-cross-ref"],

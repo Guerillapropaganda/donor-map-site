@@ -26,7 +26,7 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
 
   if (ch === "presidential" || ch === "president") {
     return [
-      { id: "executive-orders", label: "Executive orders documented", check: (_, raw) => raw.includes("<!-- auto:federal-register") || raw.toLowerCase().includes("executive order") },
+      { id: "executive-orders", label: "Executive orders documented", check: (_, raw) => raw.includes("<!-- auto:executive-orders") || raw.includes("<!-- auto:federal-register") },
       { id: "cabinet-appointments", label: "Cabinet appointments documented", check: (_, raw) => raw.toLowerCase().includes("cabinet") || raw.toLowerCase().includes("appointed") },
       { id: "voting-records", label: "Prior voting record (if applicable)", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record"), naAllowed: true },
       { id: "fec-data", label: "FEC fundraising data", check: (p, raw) => !!p.totalRaised || raw.includes("<!-- auto:fec") },
