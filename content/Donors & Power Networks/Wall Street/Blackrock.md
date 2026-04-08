@@ -18,6 +18,9 @@ subawards-received: 5
 subawards-received-amount: 923723
 top-federal-agency: "Pension Benefit Guaranty Corporation"
 top-naics-code: "541519"
+federal-awards-total: 1387500
+federal-contracts-count: 25
+federal-grants-count: 6
 ---
 
 #blackrock #asset-management #wall-street #esg #index-funds #lobbying #larry-fink
@@ -141,3 +144,35 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $1.4M |
+| Contracts (recent 3yr) | 25 ($44.0M sampled) |
+| Grants (recent 3yr) | 6 ($5.3M sampled) |
+| Federal Agencies | 4 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $14.0M | Pension Benefit Guaranty Corporation | IGF::CT::IGF |
+| $12.7M | Pension Benefit Guaranty Corporation | IGF::CT::IGF PORTFOLIO MANAGEMENT SERVICES |
+| $7.6M | Pension Benefit Guaranty Corporation | IGF::CT::IGF INVESTMENT RISK MANAGEMENT SYSTEM (IRMS) |
+| $5.5M | Pension Benefit Guaranty Corporation | INVESTMENT RISK MANAGEMENT SYSTEM |
+| $1.5M | Pension Benefit Guaranty Corporation | RECOMPETE OF PBGC01CT160005 |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $1.7M | Department of Health and Human Services | DEVELOPMENT AND TRANSLATION OF NOVEL SIC ENCAPSULATION THIN FILM FOR CHRONIC AUDITORY NERVE IMPLANT  |
+| $1.7M | Department of Health and Human Services | DEVELOPMENT OF AN AMF ORION/BLACKROCK HD-USEA BASED 60/128 CHANNEL IMPLANTABLE WIRELESS SIMULATOR SY |
+| $970K | Department of Health and Human Services | COMMERCIAL TRANSLATION OF HIGH-DENSITY CARBON FIBER ELECTRODE ARRAYS FOR MULTI-MODAL ANALYSIS OF NEU |
+| $437K | Department of Health and Human Services | HIGH DENSITY CHRONIC OPTOGENETIC INTERFACE FOR PRIMATE BRAINS - PROJECT SUMMARY UNDERSTANDING THE FU |
+| $299K | Department of Health and Human Services | METRICS FOR BRAIN CONTROLLED COMMUNICATION: A COMPREHENSIVE REVIEW OF CLINICAL OUTCOME ASSESSMENTS F |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/963017a4-7c44-8029-c07b-ea24185fdc8a-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

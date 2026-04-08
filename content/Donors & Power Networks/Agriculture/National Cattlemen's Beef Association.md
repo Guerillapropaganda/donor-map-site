@@ -16,7 +16,7 @@ annual-revenue: "$54.9M"
 net-assets: "$37.3M"
 tax-year: "2023"
 court-cases: 85
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Eighth Circuit"
@@ -30,6 +30,18 @@ court-jurisdictions:
   - "District Court, W.D. Texas"
 lobbying-spend: 3106887
 lobbying-filings: 143
+federal-register-mentions: 71
+regulatory-agencies:
+  - "Agricultural Marketing Service"
+  - "Agriculture Department"
+  - "Animal and Plant Health Inspection Service"
+  - "Commodity Futures Trading Commission"
+  - "Environmental Protection Agency"
+  - "Federal Motor Carrier Safety Administration"
+  - "Federal Trade Commission"
+  - "Fish and Wildlife Service"
+  - "Food Safety and Inspection Service"
+  - "Interior Department"
 ---
 
 
@@ -211,3 +223,25 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=National%20Cattlemen's%20Beef%20Association) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 71 |
+| Final Rules | 27 |
+| Proposed Rules | 27 |
+| Notices | 17 |
+| Agencies | Agricultural Marketing Service, Agriculture Department, Animal and Plant Health Inspection Service, Commodity Futures Trading Commission, Environmental Protection Agency, Federal Motor Carrier Safety Administration, Federal Trade Commission, Fish and Wildlife Service +4 more |
+
+**Recent regulatory activity:**
+- [Endangered and Threatened Wildlife and Plants; Removal of Northern and Southern Distinct Population Segments of the Lesser Prairie-Chicken From the List of Endangered and Threatened Wildlife in Compliance With Court Order](https://www.federalregister.gov/documents/2026/02/26/2026-03883/endangered-and-threatened-wildlife-and-plants-removal-of-northern-and-southern-distinct-population) (2026-02-26) — Interior Department
+- [Price Discovery and Competition in Markets for Fed Cattle](https://www.federalregister.gov/documents/2024/10/11/2024-23528/price-discovery-and-competition-in-markets-for-fed-cattle) (2024-10-11) — Agriculture Department ★
+- [Use of Electronic Identification Eartags as Official Identification in Cattle and Bison](https://www.federalregister.gov/documents/2024/05/09/2024-09717/use-of-electronic-identification-eartags-as-official-identification-in-cattle-and-bison) (2024-05-09) — Agriculture Department ★
+- [Voluntary Labeling of FSIS-Regulated Products With U.S.-Origin Claims](https://www.federalregister.gov/documents/2024/03/18/2024-05479/voluntary-labeling-of-fsis-regulated-products-with-us-origin-claims) (2024-03-18) — Agriculture Department ★
+- [Inclusive Competition and Market Integrity Under the Packers and Stockyards Act](https://www.federalregister.gov/documents/2024/03/06/2024-04419/inclusive-competition-and-market-integrity-under-the-packers-and-stockyards-act) (2024-03-06) — Agriculture Department ★
+- [Clean Water Act Effluent Limitations Guidelines and Standards for the Meat and Poultry Products Point Source Category](https://www.federalregister.gov/documents/2024/01/23/2023-28498/clean-water-act-effluent-limitations-guidelines-and-standards-for-the-meat-and-poultry-products) (2024-01-23) — Environmental Protection Agency ★
+- ... and 65 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1)
+<!-- auto:federal-register end -->

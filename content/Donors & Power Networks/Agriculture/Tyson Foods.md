@@ -20,6 +20,18 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
 total-revenue: 1
 total-assets: 321518
+federal-register-mentions: 74
+regulatory-agencies:
+  - "Agricultural Marketing Service"
+  - "Agriculture Department"
+  - "Children and Families Administration"
+  - "Consumer Financial Protection Bureau"
+  - "Employment and Training Administration"
+  - "Environmental Protection Agency"
+  - "Federal Aviation Administration"
+  - "Federal Maritime Commission"
+  - "Food and Nutrition Service"
+  - "Health and Human Services Department"
 ---
 
 #tyson #agriculture #poultry #meatpacking #labor #arkansas #immigration
@@ -122,3 +134,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/476014039) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 74 |
+| Final Rules | 20 |
+| Proposed Rules | 12 |
+| Notices | 42 |
+| Agencies | Agricultural Marketing Service, Agriculture Department, Children and Families Administration, Consumer Financial Protection Bureau, Employment and Training Administration, Environmental Protection Agency, Federal Aviation Administration, Federal Maritime Commission +7 more |
+
+**Recent regulatory activity:**
+- [Air Plan Approval; Ohio; Source-Specific Non-CTG RACT and SIP Strengthening for Ohio](https://www.federalregister.gov/documents/2026/02/27/2026-03931/air-plan-approval-ohio-source-specific-non-ctg-ract-and-sip-strengthening-for-ohio) (2026-02-27) — Environmental Protection Agency
+- [Grandfathering Registration Notice](https://www.federalregister.gov/documents/2026/01/29/2026-01794/grandfathering-registration-notice) (2026-01-29) — Susquehanna River Basin Commission
+- [Designation of Perfluorooctanoic Acid (PFOA) and Perfluorooctanesulfonic Acid (PFOS) as CERCLA Hazardous Substances](https://www.federalregister.gov/documents/2024/05/08/2024-08547/designation-of-perfluorooctanoic-acid-pfoa-and-perfluorooctanesulfonic-acid-pfos-as-cercla-hazardous) (2024-05-08) — Environmental Protection Agency
+- [Child Nutrition Programs: Meal Patterns Consistent With the 2020-2025 Dietary Guidelines for Americans](https://www.federalregister.gov/documents/2024/04/25/2024-08098/child-nutrition-programs-meal-patterns-consistent-with-the-2020-2025-dietary-guidelines-for) (2024-04-25) — Agriculture Department
+- [Demurrage and Detention Billing Requirements](https://www.federalregister.gov/documents/2024/02/26/2024-02926/demurrage-and-detention-billing-requirements) (2024-02-26) — Federal Maritime Commission ★
+- [Definition of Unreasonable Refusal To Deal or Negotiate With Respect to Vessel Space Accommodations Provided by an Ocean Common Carrier](https://www.federalregister.gov/documents/2023/06/14/2023-12744/definition-of-unreasonable-refusal-to-deal-or-negotiate-with-respect-to-vessel-space-accommodations) (2023-06-14) — Federal Maritime Commission ★
+- ... and 68 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tyson%20Foods%22) (Tier 1)
+<!-- auto:federal-register end -->

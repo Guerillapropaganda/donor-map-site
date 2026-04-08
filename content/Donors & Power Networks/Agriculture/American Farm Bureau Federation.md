@@ -2,7 +2,7 @@
 title: "American Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -23,6 +23,41 @@ nonprofit-status: "501(c)(5)"
 last-enriched: "2026-04-07"
 total-revenue: 36693260
 total-assets: 125601852
+sec-filings: 519
+sec-form-types:
+  - "10-K/A"
+  - "10QSB"
+  - "425"
+  - "485APOS"
+  - "6-K"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.1"
+  - "EX-10.4"
+  - "EX-2"
+  - "EX-2.1"
+  - "EX-3.(I)(B)"
+  - "EX-3.(I)(C)"
+  - "EX-3.(I)(E)"
+  - "EX-3.1"
+  - "EX-3.1(B)"
+  - "EX-3.1(C)"
+  - "EX-3.2"
+  - "EX-3.4"
+  - "EX-3.I.B"
+  - "EX-3.I.C"
+  - "EX-3.I.E"
+  - "EX-4.2"
+  - "EX-99.(A)(1)(A)"
+  - "EX-99.(A)(1)(D)"
+  - "EX-99.(A)(1)(E)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "N-CSR"
+  - "PRE 14A"
+  - "SC TO-I"
+  - "SC TO-I/A"
 ---
 
 
@@ -279,3 +314,21 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/360725160) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 519 |
+| Form Types | 10-K/A, 10QSB, 425, 485APOS, 6-K, 8-K, DEF 14A, DEFA14A +25 more |
+
+**Notable filings:**
+
+- 2002-01-04 — **425**: 425
+- 2002-01-04 — **425**: 425
+- 2004-04-02 — **8-K**: FBL FINANCIAL 8-K
+- 2002-01-14 — **425**: FORM 425:  PRESS RELEASE
+- 2002-01-10 — **425**: 425
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Farm%20Bureau%20Federation%22) (Tier 1)
+<!-- auto:sec-edgar end -->

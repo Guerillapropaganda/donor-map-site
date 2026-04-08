@@ -2,7 +2,7 @@
 title: "US Chamber of Commerce"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,7 +13,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 court-cases: 149
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "District Court, D. Massachusetts"
@@ -46,10 +46,13 @@ sec-form-types:
   - "EX-99.2"
   - "PX14A6G"
   - "PX14A6N"
-ein: 461561597
+ein: "141883061"
 annual-revenue: "$37.8M"
 net-assets: "$61.1M"
 tax-year: "2023"
+nonprofit-status: "501(c)(6)"
+total-revenue: 173949
+total-assets: 231861
 ---
 
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis
@@ -411,3 +414,28 @@ content-readiness:: developed
 - [Source: ProPublica Nonprofit Explorer — EIN 461561597](https://projects.propublica.org/nonprofits/organizations/461561597) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F461561597_202312_990_2025022623131785.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 141883061 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $174K |
+| Total Assets | $232K |
+| NTEE Code | S41 |
+| IRS Ruling Date | 2005-03-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/141883061) (Tier 1)
+<!-- auto:nonprofit-990 end -->

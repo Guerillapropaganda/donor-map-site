@@ -2,7 +2,7 @@
 title: "CTA - California Teachers Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Education"
@@ -16,6 +16,8 @@ ein: 942552809
 annual-revenue: "$89K"
 net-assets: "$316K"
 tax-year: "2023"
+lobbying-spend: 160000
+lobbying-filings: 8
 ---
 
 
@@ -108,3 +110,22 @@ research-status:: ready — 310K members, largest CA teachers union, NEA affilia
 
 - [Source: ProPublica Nonprofit Explorer — EIN 942552809](https://projects.propublica.org/nonprofits/organizations/942552809) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $160K |
+| Quarterly Filings | 8 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Transportation
+
+**Lobbying firms:** WINNING STRATEGIES WASHINGTON
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=CTA%20-%20California%20Teachers%20Association) (Tier 1)
+<!-- auto:lda-lobbying end -->

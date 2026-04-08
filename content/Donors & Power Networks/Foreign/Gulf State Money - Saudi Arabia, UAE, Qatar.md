@@ -17,6 +17,8 @@ ofac-programs:
   - "SDGT"
 lobbying-spend: 918000
 lobbying-filings: 71
+lei: "894500LPEZD0PA4A6I95"
+lei-jurisdiction: "IN"
 ---
 
 
@@ -187,3 +189,35 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Gulf%20State%20Money%20-%20Saudi%20Arabia%2C%20UAE%2C%20Qatar) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $918K
+- [[Jared Kushner]] — lobbying: $918K
+- [[Benjamin Netanyahu]] — lobbying: $918K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+<!-- auto:influence-cross-ref end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [894500LPEZD0PA4A6I95](https://search.gleif.org/#/record/894500LPEZD0PA4A6I95) |
+| Legal Name | UAE ENTERPRISE |
+| Jurisdiction | IN |
+| Entity Status | ACTIVE |
+| Category | SOLE_PROPRIETOR |
+| Registration | ISSUED |
+| Last Updated | 2025-08-22T11:02:43Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -81,6 +81,12 @@ regulatory-agencies:
   - "National Highway Traffic Safety Administration"
 lobbying-spend: 10190000
 lobbying-filings: 57
+subawards-issued: 50
+subawards-issued-amount: 35631187
+subawards-received: 50
+subawards-received-amount: 35631187
+top-federal-agency: "Department of Defense"
+top-naics-code: "238910"
 ---
 
 
@@ -321,3 +327,80 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Uber) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]] — lobbying: $10.2M
+- [[Donald Trump]] — lobbying: $10.2M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+<!-- auto:influence-cross-ref end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($35.6M sampled) |
+| Subawards Received (as sub) | 50 ($35.6M sampled) |
+| Top Federal Agency | Department of Defense ($47.5M) |
+| Primary NAICS Sector | Site Preparation Contractors |
+
+**Subcontractors receiving federal money from Uber:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| UBERETHER, INC. | $12.7M | 13 |
+| GAUBERT OIL CO INC | $11.6M | 20 |
+| HUBER+SUHNER ASTROLAB, INC. | $8.6M | 10 |
+| HUBER + SUHNER, INC | $2.3M | 6 |
+| KEITH HUBER CORP | $333K | 1 |
+
+**Prime contractors funneling federal money to Uber:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| PERATON INC. | $12.4M | 12 |
+| WEEKS MARINE, INC. | $11.2M | 19 |
+| RAYTHEON COMPANY | $9.1M | 11 |
+| LOCKHEED MARTIN CORPORATION | $1.1M | 3 |
+| WEEKS MARINE INC | $429K | 1 |
+| TRIAD NATIONAL SECURITY, LLC | $390K | 1 |
+| ALLIANT TECHSYSTEMS OPERATIONS LLC | $350K | 1 |
+| FLUOR FEDERAL PETROLEUM OPERATIONS, LLC | $333K | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $47.5M |
+| Pension Benefit Guaranty Corporation | $16.1M |
+| Department of Health and Human Services | $11.9M |
+| Department of Veterans Affairs | $3.7M |
+| Department of the Treasury | $2.9M |
+| General Services Administration | $2.5M |
+| Department of State | $2.1M |
+| National Aeronautics and Space Administration | $1.1M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Site Preparation Contractors (238910) | $29.7M |
+| Portfolio Management (523920) | $16.1M |
+| Custom Computer Programming Services (541511) | $14.1M |
+| Other Technical and Trade Schools (611519) | $5.5M |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $3.2M |
+| Computer Systems Design Services (541512) | $2.9M |
+| Small Arms, Ordnance, and Ordnance Accessories Manufacturing (332994) | $2.5M |
+| Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing (333924) | $2.2M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

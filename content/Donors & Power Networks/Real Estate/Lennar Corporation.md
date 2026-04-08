@@ -2,7 +2,7 @@
 title: "Lennar Corporation"
 type: corporation
 content-readiness: developed
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -20,7 +20,7 @@ annual-revenue: "$4.0M"
 net-assets: "$22.6M"
 tax-year: "2023"
 court-cases: 376
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Arizona"
@@ -34,6 +34,25 @@ court-jurisdictions:
   - "United States Bankruptcy Court, S.D. Texas"
 lei: "529900G61XVRLX5TJX09"
 lei-jurisdiction: "US-DE"
+doj-press-mentions: "264349"
+doj-components:
+  - "Civil Rights Division"
+  - "Cyber Division (FBI)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "National Security Division (NSD)"
+  - "USAO - Florida, Middle"
+  - "USAO - Florida, Northern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Massachusetts"
+  - "USAO - Missouri, Western"
+  - "USAO - New York, Northern"
+federal-register-mentions: 7
+regulatory-agencies:
+  - "Environmental Protection Agency"
+  - "Federal Trade Commission"
+  - "Fish and Wildlife Service"
+  - "Interior Department"
+  - "Securities and Exchange Commission"
 ---
 
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
@@ -235,3 +254,43 @@ content-readiness:: developed
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264349 |
+| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
+
+**Recent press releases:**
+
+- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
+- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
+- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
+- ... and 264,343 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Lennar%20Corporation%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 7 |
+| Notice | 7 |
+| Agencies | Environmental Protection Agency, Federal Trade Commission, Fish and Wildlife Service, Interior Department, Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Endangered and Threatened Species; Issuance of Enhancement of Survival and Incidental Take Permits for Safe Harbor Agreements, Candidate Conservation Agreements, and Habitat Conservation Plans, 2018; Issuance of Recovery Permits, July 1, 2017, Through December 31, 2018](https://www.federalregister.gov/documents/2019/06/06/2019-11806/endangered-and-threatened-species-issuance-of-enhancement-of-survival-and-incidental-take-permits) (2019-06-06) — Interior Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/04/18/2019-07735/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2019-04-18) — Federal Trade Commission
+- [Endangered and Threatened Wildlife and Plants; Availability of Proposed Low-Effect Habitat Conservation Plan for the Sand Skink, Orange County, FL](https://www.federalregister.gov/documents/2017/12/22/2017-27601/endangered-and-threatened-wildlife-and-plants-availability-of-proposed-low-effect-habitat) (2017-12-22) — Interior Department
+- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Schedule of Fees](https://www.federalregister.gov/documents/2013/01/17/2013-00873/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (2013-01-17) — Securities and Exchange Commission
+- [Final Modification of National Pollutant Discharge Elimination System (NPDES) General Permit for Storm Water Discharges From Construction Activities; Notice](https://www.federalregister.gov/documents/2004/12/22/04-27995/final-modification-of-national-pollutant-discharge-elimination-system-npdes-general-permit-for-storm) (2004-12-22) — Environmental Protection Agency
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2003/10/23/03-26751/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2003-10-23) — Federal Trade Commission
+- ... and 1 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lennar%20Corporation%22) (Tier 1)
+<!-- auto:federal-register end -->

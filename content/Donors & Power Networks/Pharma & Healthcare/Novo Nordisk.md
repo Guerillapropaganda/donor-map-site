@@ -2,7 +2,7 @@
 title: "Novo Nordisk"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -12,7 +12,7 @@ issues:
 lobbying-spend: 17065000
 lobbying-filings: 70
 federal-register-mentions: 80
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Antitrust Division"
   - "Commerce Department"
@@ -28,6 +28,10 @@ top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "518210"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+court-cases: 9469
+court-jurisdictions:
+  - "District Court, D. New Jersey"
+  - "District Court, E.D. Pennsylvania"
 ---
 
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark
@@ -170,3 +174,22 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Novo%20Nordisk) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 9,469 |
+| Courts | District Court, D. New Jersey, District Court, E.D. Pennsylvania |
+| Case Types | 367 P.I.: Health Care/Pharmaceutical Personal Injury Product Liability |
+
+**Notable cases:**
+- DAVIDE v. NOVO NORDISK INC. (2026) — District Court, E.D. Pennsylvania
+- JONES v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
+- Goodale v. NOVO NORDISK, INC. (2026) — District Court, E.D. Pennsylvania
+- MACLIN v. NOVO NORDISK INC. (2026) — District Court, E.D. Pennsylvania
+- Chairez v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
+- TAHERI v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Novo%20Nordisk%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

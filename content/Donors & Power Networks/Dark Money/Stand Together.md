@@ -2,19 +2,19 @@
 title: "Stand Together"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: 912166417
+ein: "912166417"
 annual-revenue: "$1.9M"
 net-assets: "$291K"
 tax-year: "2021"
 federal-register-mentions: 35
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
   - "Education Department"
@@ -61,6 +61,9 @@ court-jurisdictions:
 total-political-spend: "$84,259,968"
 politicians-funded:
   - "Bryan Steil"
+nonprofit-status: "501(c)(3)"
+total-revenue: 1852719
+total-assets: 290992
 ---
 
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money
@@ -325,3 +328,28 @@ content-readiness:: developed
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 912166417 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $1.9M |
+| Total Assets | $291K |
+| NTEE Code | P028 |
+| IRS Ruling Date | 2002-05-01 |
+| Filings on Record | 11 |
+
+**Filing history:** 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014
+
+**View 990 filings:**
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2019)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2018)
+- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2017)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/912166417) (Tier 1)
+<!-- auto:nonprofit-990 end -->

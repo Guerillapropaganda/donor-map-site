@@ -2,7 +2,7 @@
 title: "Paul Ryan"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -16,6 +16,9 @@ top-donors:
   - "JPMorgan Chase"
   - "Northwestern Mutual"
   - "Fox News"
+govtrack-id: 400351
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 #paul-ryan #speaker-of-house #tax-cuts-jobs-act #deficit-hawk #koch-network #fox-corporation #finance #class-analysis
@@ -152,3 +155,27 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 11,602 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2018-12-20 | H.R. 695: Further Additional Continuing Appropriations Act, 2019 | Yea | Passed |
+| 2018-12-12 | H.Res. 1176: Providing for consideration of the conference report to accompany t… | Aye | Passed |
+| 2018-09-28 | H.R. 6760: Protecting Family and Small Business Tax Cuts Act of 2018 | Yea | Passed |
+| 2018-06-27 | H.R. 6136: Border Security and Immigration Reform Act of 2018 | Aye | Failed |
+| 2018-06-21 | H.R. 2: Agriculture and Nutrition Act of 2018 | Yea | Passed |
+| 2018-05-18 | H.R. 2: Agriculture and Nutrition Act of 2018 | Nay | Failed |
+| 2018-03-22 | H.R. 1625: Consolidated Appropriations Act, 2018 | Yea | Passed |
+| 2018-03-22 | H.Res. 796: Providing for consideration of H.R. 1625: Consolidated  Appropriatio… | Aye | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400351) (Tier 1)
+<!-- auto:govtrack end -->

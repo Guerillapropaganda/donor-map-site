@@ -2,7 +2,7 @@
 title: "UNITE HERE"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -17,6 +17,8 @@ total-political-spend: "$51,678,221"
 ein: "352455960"
 nonprofit-status: "501(c)(5)"
 last-enriched: "2026-04-06"
+lei: "54930053JDKWMZI3NN64"
+lei-jurisdiction: "CA"
 ---
 
 
@@ -187,3 +189,18 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352455960) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [54930053JDKWMZI3NN64](https://search.gleif.org/#/record/54930053JDKWMZI3NN64) |
+| Legal Name | Unite Here Pension Trust Fund |
+| Jurisdiction | CA |
+| Entity Status | ACTIVE |
+| Category | FUND |
+| Registration | LAPSED |
+| Last Updated | 2023-08-08T06:54:30Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

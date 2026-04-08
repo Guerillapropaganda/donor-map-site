@@ -20,6 +20,12 @@ tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+subawards-issued: 50
+subawards-issued-amount: 7034204
+subawards-received: 50
+subawards-received-amount: 7034204
+top-federal-agency: "Department of Defense"
+top-naics-code: "333120"
 ---
 
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
@@ -118,3 +124,49 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=John%20Deere) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($7.0M sampled) |
+| Subawards Received (as sub) | 50 ($7.0M sampled) |
+| Top Federal Agency | Department of Defense ($56.3M) |
+| Primary NAICS Sector | Construction Machinery Manufacturing |
+
+**Subcontractors receiving federal money from John Deere:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| JOHN DEERE ELECTRONIC SOLUTIONS, INC | $7.0M | 50 |
+
+**Prime contractors funneling federal money to John Deere:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| AM GENERAL LLC | $4.1M | 2 |
+| OSHKOSH DEFENSE, LLC | $3.0M | 48 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $56.3M |
+| Department of the Interior | $14.3M |
+| Department of Agriculture | $1.9M |
+| Department of Homeland Security | $837K |
+| Department of Transportation | $443K |
+| National Aeronautics and Space Administration | $365K |
+| Department of Energy | $332K |
+| Department of Justice | $285K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Construction Machinery Manufacturing (333120) | $74.6M |
+| Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers (423810) | $435K |
+| Farm Machinery and Equipment Manufacturing (333111) | $89K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

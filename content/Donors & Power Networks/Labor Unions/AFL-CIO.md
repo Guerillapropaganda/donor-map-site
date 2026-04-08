@@ -2,7 +2,7 @@
 title: "AFL-CIO"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -18,7 +18,7 @@ politicians-funded:
   - "Adam Schiff"
   - "Brendan Boyle"
 court-cases: 38202
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "District Court, D. Massachusetts"
@@ -30,6 +30,18 @@ court-jurisdictions:
   - "District Court, N.D. Florida"
   - "District Court, N.D. Ohio"
   - "District Court, S.D. New York"
+federal-register-mentions: 1829
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Commerce Department"
+  - "Employment and Training Administration"
+  - "Energy Department"
+  - "Executive Office for Immigration Review"
+  - "Federal Labor Relations Authority"
+  - "Federal Motor Carrier Safety Administration"
+  - "Financial Stability Oversight Council"
+  - "Food Safety and Inspection Service"
+  - "Health and Human Services Department"
 ---
 
 #afl-cio #labor #unions #federation #democratic #organizing #wages #pro-act #class-analysis #follow-the-money
@@ -277,3 +289,26 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AFL-CIO%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1,829 |
+| Final Rules | 400 |
+| Proposed Rules | 261 |
+| Notices | 1,166 |
+| Presidential Documents | 2 |
+| Agencies | Agriculture Department, Commerce Department, Employment and Training Administration, Energy Department, Executive Office for Immigration Review, Federal Labor Relations Authority, Federal Motor Carrier Safety Administration, Financial Stability Oversight Council +7 more |
+
+**Recent regulatory activity:**
+- [Oil Country Tubular Goods From Austria, Taiwan, and United Arab Emirates; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations](https://www.federalregister.gov/documents/2026/04/07/2026-06689/oil-country-tubular-goods-from-austria-taiwan-and-united-arab-emirates-institution-of-antidumping) (2026-04-07) — International Trade Commission
+- [Walking-Working Surfaces](https://www.federalregister.gov/documents/2026/04/06/2026-06578/walking-working-surfaces) (2026-04-06) — Labor Department
+- [Authority To Require Supervision and Regulation of Certain Nonbank Financial Companies](https://www.federalregister.gov/documents/2026/03/30/2026-06114/authority-to-require-supervision-and-regulation-of-certain-nonbank-financial-companies) (2026-03-30) — Financial Stability Oversight Council
+- [High Purity Dissolving Pulp From Brazil: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination](https://www.federalregister.gov/documents/2026/03/25/2026-05805/high-purity-dissolving-pulp-from-brazil-preliminary-affirmative-countervailing-duty-determination) (2026-03-25) — Commerce Department
+- [Passenger Vehicle and Light Truck Tires From Taiwan: Notice of Court Decision Not in Harmony With Final Scope Ruling; Notice of Amended Final Scope Ruling Pursuant to Court Decision](https://www.federalregister.gov/documents/2026/03/12/2026-04881/passenger-vehicle-and-light-truck-tires-from-taiwan-notice-of-court-decision-not-in-harmony-with) (2026-03-12) — Commerce Department
+- [Miscellaneous and General Requirements](https://www.federalregister.gov/documents/2026/03/05/2026-04396/miscellaneous-and-general-requirements) (2026-03-05) — Federal Labor Relations Authority
+- ... and 1,823 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFL-CIO%22) (Tier 1)
+<!-- auto:federal-register end -->

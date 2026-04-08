@@ -2,7 +2,7 @@
 title: "Concerned Veterans for America"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -17,7 +17,23 @@ subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 ein: "853318501"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
+court-cases: 5
+court-jurisdictions:
+  - "District Court, District of Columbia"
+  - "District Court, N.D. Illinois"
+doj-press-mentions: "264349"
+doj-components:
+  - "Civil Rights Division"
+  - "Cyber Division (FBI)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "National Security Division (NSD)"
+  - "USAO - Florida, Middle"
+  - "USAO - Florida, Northern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Massachusetts"
+  - "USAO - Missouri, Western"
+  - "USAO - New York, Northern"
 ---
 
 
@@ -154,3 +170,41 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/853318501) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 5 |
+| Courts | District Court, District of Columbia, District Court, N.D. Illinois |
+| Case Types | 840 Trademark, 895 Freedom of Information Act, 899 Administrative Procedure Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- AMERICANS FOR PROSPERITY FOUNDATION v. U.S. DEPARTMENT OF VETERANS AFFAIRS (2021) — District Court, District of Columbia
+- AMERICAN OVERSIGHT v. U.S. DEPARTMENT OF VETERANS AFFAIRS (2018) — District Court, District of Columbia
+- HAMEL v. U.S. DEPARTMENT OF VETERANS AFFAIRS (2018) — District Court, District of Columbia
+- VOTEVETS ACTION FUND v. U.S. DEPARTMENT OF VETERANS AFFAIRS (2018) — District Court, District of Columbia
+- AVKO Educational Resource Foundation, Inc. v. Thomas A Morrow (2015) — District Court, N.D. Illinois
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Concerned%20Veterans%20for%20America%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264349 |
+| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
+
+**Recent press releases:**
+
+- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
+- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
+- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
+- ... and 264,343 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Concerned%20Veterans%20for%20America%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

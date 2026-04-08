@@ -2,7 +2,7 @@
 title: "Tom Steyer Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,6 +14,8 @@ issues:
 top-donors:
   - "Michael Bloomberg"
   - "CNA - California Nurses Association"
+total-received: "$353,041,956"
+fec-candidate-id: "P00012716"
 ---
 
 
@@ -166,3 +168,22 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 - [CalMatters: Governor race reporting](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
 - The Hill: Farallon divestment timeline (Tier 2)
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2020 |
+| Total Raised | $353,041,956 |
+| Individual Contributions | $1,213,511 |
+| Cash on Hand | 87004.02 |
+| IE Support (Super PAC) | $941 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| MISLOVE, ALAN EDWARD | $941 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00012716/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -23,6 +23,9 @@ last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Federal Trade Commission"
   - "Securities and Exchange Commission"
+lei: "549300N3L67TREKCRK89"
+lei-jurisdiction: "IE"
+lei-parent: "THE CHARLES SCHWAB CORPORATION"
 ---
 
 #schwab #wall-street #brokerage #retirement #fiduciary #401k #retail-investing
@@ -134,3 +137,23 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Charles%20Schwab%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300N3L67TREKCRK89](https://search.gleif.org/#/record/549300N3L67TREKCRK89) |
+| Legal Name | CHARLES SCHWAB EUROPE LIMITED |
+| Jurisdiction | IE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-07-31T17:11:36Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [THE CHARLES SCHWAB CORPORATION](https://search.gleif.org/#/record/549300VSGCJ7E698NM85) (US-DE)
+- CHARLES SCHWAB EUROPE LIMITED (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

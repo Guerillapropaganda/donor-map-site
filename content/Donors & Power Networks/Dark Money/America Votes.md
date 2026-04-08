@@ -2,7 +2,7 @@
 title: "America Votes"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -16,10 +16,14 @@ sec-form-types:
   - "424B3"
   - "DEF 14A"
   - "EX-99"
-ein: 264568349
+ein: "264568349"
 annual-revenue: "$115.0M"
 net-assets: "$24.3M"
 tax-year: "2023"
+nonprofit-status: "501(c)(4)"
+last-enriched: "2026-04-08"
+total-revenue: 91066512
+total-assets: 45486683
 ---
 
 #america-votes #dark-money #progressive-coordination #democracy-alliance #infrastructure #voter-mobilization
@@ -175,3 +179,28 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 264568349](https://projects.propublica.org/nonprofits/organizations/264568349) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F264568349_202306_990O_2024061822541095.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 264568349 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $91.1M |
+| Total Assets | $45.5M |
+| NTEE Code | S20 |
+| IRS Ruling Date | 2010-07-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/264568349) (Tier 1)
+<!-- auto:nonprofit-990 end -->

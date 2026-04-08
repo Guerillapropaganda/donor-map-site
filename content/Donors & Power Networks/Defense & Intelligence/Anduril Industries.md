@@ -2,7 +2,7 @@
 title: "Anduril Industries"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -18,6 +18,14 @@ federal-contracts-count: 25
 federal-grants-count: 0
 lei: "254900CIXLZUXXNYQW57"
 lei-jurisdiction: "US-DE"
+sec-filings: 617
+sec-form-types:
+  - "D"
+  - "D/A"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "NPORT-EX"
+  - "NPORT-P"
 ---
 
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money
@@ -180,3 +188,21 @@ content-readiness:: draft
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 617 |
+| Form Types | D, D/A, EX-99.1, EX-99.2, NPORT-EX, NPORT-P |
+
+**Notable filings:**
+
+- 2025-10-28 — **NPORT-P**: NPORT-P
+- 2025-09-26 — **NPORT-P**: NPORT-P
+- 2026-03-25 — **NPORT-P**: NPORT-P
+- 2026-01-23 — **NPORT-P**: NPORT-P
+- 2025-12-23 — **NPORT-EX**: NPORT-EX
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Anduril%20Industries%22) (Tier 1)
+<!-- auto:sec-edgar end -->

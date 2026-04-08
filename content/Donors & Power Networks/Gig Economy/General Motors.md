@@ -2,7 +2,7 @@
 title: "General Motors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -29,6 +29,12 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, W.D. Texas"
   - "District Court, W.D. Washington"
+subawards-issued: 1
+subawards-issued-amount: 68510
+subawards-received: 1
+subawards-received-amount: 68510
+top-federal-agency: "General Services Administration"
+top-naics-code: "336111"
 ---
 
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw
@@ -178,3 +184,51 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22General%20Motors%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 1 ($69K sampled) |
+| Subawards Received (as sub) | 1 ($69K sampled) |
+| Top Federal Agency | General Services Administration ($1.6B) |
+| Primary NAICS Sector | Automobile Manufacturing |
+
+**Subcontractors receiving federal money from General Motors:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| GENERAL MOTORS LLC | $69K | 1 |
+
+**Prime contractors funneling federal money to General Motors:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| REGENTS OF THE UNIVERSITY OF MICHIGAN | $69K | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| General Services Administration | $1.6B |
+| Department of Defense | $152.9M |
+| Department of State | $63.1M |
+| Department of Homeland Security | $37.2M |
+| Pension Benefit Guaranty Corporation | $2.3M |
+| Department of Health and Human Services | $256K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Automobile Manufacturing (336111) | $1.6B |
+| Light Truck and Utility Vehicle Manufacturing (336112) | $146.8M |
+| Industrial Design Services (541420) | $38.4M |
+| Motor Vehicle Body Manufacturing (336211) | $28.3M |
+| Military Armored Vehicle, Tank, and Tank Component Manufacturing (336992) | $24.7M |
+| Automotive Body, Paint, and Interior Repair and Maintenance (811121) | $6.9M |
+| Investment Banking and Securities Dealing (523110) | $2.3M |
+| Other Engine Equipment Manufacturing (333618) | $2.1M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

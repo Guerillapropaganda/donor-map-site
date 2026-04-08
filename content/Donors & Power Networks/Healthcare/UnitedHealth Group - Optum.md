@@ -2,7 +2,7 @@
 title: "UnitedHealth Group - Optum"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -34,6 +34,11 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+federal-register-mentions: 2
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Employment and Training Administration"
+  - "Labor Department"
 ---
 
 
@@ -237,3 +242,18 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-UnitedHealth%20Group%20-%20Optum) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Notice | 2 |
+| Agencies | Employment and Training Administration, Labor Department |
+
+**Recent regulatory activity:**
+- [Notice of Determinations Regarding Eligibility To Apply for Worker Adjustment Assistance](https://www.federalregister.gov/documents/2016/02/25/2016-04003/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance) (2016-02-25) — Labor Department
+- [Notice of Determinations Regarding Eligibility To Apply for Worker Adjustment Assistance](https://www.federalregister.gov/documents/2013/05/15/2013-11460/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance) (2013-05-15) — Labor Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22UnitedHealth%20Group%20-%20Optum%22) (Tier 1)
+<!-- auto:federal-register end -->

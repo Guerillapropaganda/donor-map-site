@@ -10,7 +10,7 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
-ein: 133319048
+ein: "133319048"
 annual-revenue: "$7.5M"
 net-assets: "$26.0M"
 tax-year: "2023"
@@ -33,6 +33,9 @@ federal-awards-total: 649696365
 federal-contracts-count: 25
 federal-grants-count: 0
 cpsc-recalls: 2
+nonprofit-status: "501(c)(3)"
+total-revenue: 5056273
+total-assets: 23768481
 ---
 
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying
@@ -240,3 +243,28 @@ content-readiness:: ready
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Verizon) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 133319048 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $5.1M |
+| Total Assets | $23.8M |
+| NTEE Code | T21Z |
+| IRS Ruling Date | 1987-04-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/133319048) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -22,6 +22,10 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+lei: "254900QJNNCR8JK6LC36"
+lei-jurisdiction: "CZ"
+lobbying-spend: 130000
+lobbying-filings: 8
 ---
 
 #donor #thiel #venture-capital #defense-tech #biotech #growth-stage
@@ -133,3 +137,37 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Mithril%20Capital%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [254900QJNNCR8JK6LC36](https://search.gleif.org/#/record/254900QJNNCR8JK6LC36) |
+| Legal Name | Mithril Capital s.r.o. |
+| Jurisdiction | CZ |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-07-18T04:36:40Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $130K |
+| Quarterly Filings | 8 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations
+
+**Lobbying firms:** STRATEGIC CAPITOL GROUP, LLC
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Mithril%20Capital) (Tier 1)
+<!-- auto:lda-lobbying end -->

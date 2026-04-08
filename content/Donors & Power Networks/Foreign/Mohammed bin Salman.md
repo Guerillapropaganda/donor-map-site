@@ -2,7 +2,7 @@
 title: "Mohammed bin Salman"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -11,6 +11,23 @@ politicians-funded:
   - "Jared Kushner"
   - "Donald Trump"
   - "Bernie Sanders"
+sec-filings: 31
+sec-form-types:
+  - "10-Q"
+  - "424B5"
+  - "425"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.4"
+  - "EX-99.D"
+  - "EX-99.D-1"
+  - "EX-99.D-2"
+  - "EX-99.D-3"
+  - "EX-99.D-4"
+  - "EX-99.D-5"
+  - "FWP"
+  - "N-CSR"
+  - "PX14A6G"
 ---
 
 #donor-node #foreign #saudi-arabia #sovereign-wealth #arms-sales #class-analysis
@@ -145,3 +162,21 @@ This asymmetry reflects U.S. alignment with Saudi Arabia as Middle East strategi
 
 research-status:: ready — Full citation pass complete. MBS foreign donor profile, $110B arms deal, Khashoggi murder, Kushner $2B PIF pipeline, $350M FARA-registered lobbying, OPEC+ price manipulation, Iran war lobby, Neom $500B, Vision 2030. 11 sources, Tier 1-3. All ### headers. Promoted Session 38k.
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 31 |
+| Form Types | 10-Q, 424B5, 425, EX-99, EX-99.1, EX-99.4, EX-99.D, EX-99.D-1 +7 more |
+
+**Notable filings:**
+
+- 2018-04-30 — **EX-99.4**: EX-99.4
+- 2018-04-17 — **EX-99.1**: EX-99.1
+- 2018-11-08 — **EX-99**: PITCH DECK
+- 2025-08-18 — **425**: FORM 425
+- 2025-08-14 — **425**: FORM 425
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mohammed%20bin%20Salman%22) (Tier 1)
+<!-- auto:sec-edgar end -->

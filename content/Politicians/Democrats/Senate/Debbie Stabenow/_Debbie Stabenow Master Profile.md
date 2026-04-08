@@ -2,7 +2,7 @@
 title: "Debbie Stabenow Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,8 @@ top-donors:
 govtrack-id: 300093
 bills-sponsored: 0
 bills-cosponsored: 0
+total-received: "$92,299"
+fec-candidate-id: "H6MI08163"
 ---
 
 
@@ -152,3 +154,31 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/300093) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2000 |
+| Total Raised | $92,299 |
+| PAC Contributions | $42,550 |
+| Cash on Hand | 0.00 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2000 | $92,299 | $0 | $42,550 |
+| 1998 | $1,122,683 | $0 | $505,988 |
+| 1996 | $1,508,135 | $0 | $404,877 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SIERRA CLUB POLITICAL COMMITTEE | $0 | $54,697 |
+| LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF NA | $0 | $7,500 |
+| RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE | $0 | $174 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1)
+<!-- auto:fec-politician end -->

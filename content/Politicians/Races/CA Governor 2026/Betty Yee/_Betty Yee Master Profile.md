@@ -2,7 +2,7 @@
 title: "Betty Yee Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,6 +13,7 @@ top-donors:
   - "CalPERS"
   - "CalSTRS"
   - "SEIU"
+bioguide-id: "A000383"
 ---
 
 
@@ -159,3 +160,10 @@ Without clarity on these questions, her fiscal watchdog credential is ambiguous.
 
 profile-status:: ready
 content-readiness:: ready
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

@@ -2,12 +2,17 @@
 title: "RAND Corporation"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
 related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]]"
+ein: "951958142"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 542914738
+total-assets: 743919280
 ---
 
 #think-tank #centrist #defense #national-security #FFRDC #government-contracts #revolving-door #AI-policy #class-analysis
@@ -221,3 +226,28 @@ The Daniel Ellsberg case is the exception that proves the rule. When a RAND anal
 - [Surf Santa Monica: RAND Lays Off Nearly One-Third of Remaining Workforce](https://www.surfsantamonica.com/ssm_site/the_lookout/news/News-2025/October-2025/10_24_2025_RAND_Lays_Off_Nearly_One_Third_of_Remaining_Workforce.html) (Tier 3)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 951958142 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $542.9M |
+| Total Assets | $743.9M |
+| NTEE Code | W050 |
+| IRS Ruling Date | 1950-04-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/951958142) (Tier 1)
+<!-- auto:nonprofit-990 end -->

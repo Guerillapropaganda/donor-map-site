@@ -2,7 +2,7 @@
 title: "Tisch Family"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Real Estate"
@@ -20,6 +20,26 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+sec-filings: 443
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "144"
+  - "3"
+  - "4"
+  - "4/A"
+  - "8-K"
+  - "DEF 14A"
+  - "EX-10.5"
+  - "EX-99.01"
+  - "EX-99.2"
+  - "PRE 14A"
+  - "PRER14A"
+  - "S-3/A"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
 ---
 
 #mega-donors #nyc-real-estate #loews-corporation #bipartisan-donors #hotel-insurance-empire
@@ -82,3 +102,21 @@ The Tisch family represents the bipartisan donor consensus: both major parties s
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Tisch%20Family%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 443 |
+| Form Types | 10-K, 10-K/A, 10-Q, 144, 3, 4, 4/A, 8-K +10 more |
+
+**Notable filings:**
+
+- 2004-04-08 — **DEF 14A**: DEF 14A
+- 2004-03-29 — **PRE 14A**: PRE 14A
+- 2007-12-14 — **EX-10.5**: 1ST AMEND TO 2ND AMEND &AMP; RESTATED 1996 STK PLAN
+- 2004-03-29 — **8-K**: 8-K
+- 2001-02-16 — **SC 13G/A**: SCHEDULE 13G, AMENDMENT NO. 5
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tisch%20Family%22) (Tier 1)
+<!-- auto:sec-edgar end -->

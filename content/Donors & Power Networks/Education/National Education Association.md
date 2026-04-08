@@ -2,7 +2,7 @@
 title: "National Education Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Education"
@@ -22,6 +22,8 @@ sec-form-types:
   - "EX-99"
   - "EX-99.1"
   - "EX-99.3G"
+lei: "549300HK4YWG61O0MF87"
+lei-jurisdiction: "US-DC"
 ---
 
 #nea #education #union #teachers #democratic #vouchers #charter #political-spending
@@ -121,3 +123,18 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Education%20Association%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300HK4YWG61O0MF87](https://search.gleif.org/#/record/549300HK4YWG61O0MF87) |
+| Legal Name | EMPLOYEES' RETIREMENT PLAN OF THE NATIONAL EDUCATION ASSOCIATION |
+| Jurisdiction | US-DC |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2024-05-06T13:30:05Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

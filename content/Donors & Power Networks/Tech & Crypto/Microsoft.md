@@ -18,7 +18,7 @@ annual-revenue: "$956K"
 net-assets: "$2.8M"
 tax-year: "2022"
 court-cases: 92830
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the First Circuit"
   - "District Court, D. Delaware"
@@ -37,6 +37,20 @@ subawards-received: 50
 subawards-received-amount: 350724763
 top-federal-agency: "Department of Defense"
 top-naics-code: "541512"
+lei: "967600DJA1Q8K13MZ845"
+lei-jurisdiction: "BE"
+federal-register-mentions: 10000
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Commerce Department"
+  - "Defense Department"
+  - "Education Department"
+  - "Energy Department"
+  - "Federal Communications Commission"
+  - "Federal Energy Regulatory Commission"
+  - "Food and Nutrition Service"
+  - "Housing and Urban Development Department"
+  - "National Oceanic and Atmospheric Administration"
 ---
 
 #microsoft #tech #lobbying #ai #cloud #antitrust #government-contracts #defense
@@ -249,3 +263,40 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [967600DJA1Q8K13MZ845](https://search.gleif.org/#/record/967600DJA1Q8K13MZ845) |
+| Legal Name | Microsoft |
+| Jurisdiction | BE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2019-01-09T23:16:45Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 10,000 |
+| Final Rules | 1,668 |
+| Proposed Rules | 4,420 |
+| Notices | 6,062 |
+| Agencies | Agriculture Department, Commerce Department, Defense Department, Education Department, Energy Department, Federal Communications Commission, Federal Energy Regulatory Commission, Food and Nutrition Service +4 more |
+
+**Recent regulatory activity:**
+- [Southern Star Central Gas Pipeline, Inc.; Notice of Application and Establishing Intervention Deadline](https://www.federalregister.gov/documents/2026/04/07/2026-06704/southern-star-central-gas-pipeline-inc-notice-of-application-and-establishing-intervention-deadline) (2026-04-07) — Energy Department
+- [Department of Defense Wage Committee (DoD Wage Committee); Notice of Federal Advisory Committee Meetings](https://www.federalregister.gov/documents/2026/04/06/2026-06645/department-of-defense-wage-committee-dod-wage-committee-notice-of-federal-advisory-committee) (2026-04-06) — Defense Department
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/04/06/2026-06609/privacy-act-of-1974-system-of-records) (2026-04-06) — Housing and Urban Development Department
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/04/06/2026-06606/privacy-act-of-1974-system-of-records) (2026-04-06) — Housing and Urban Development Department
+- [Village of Morrisville, Vermont; Notice of Meeting To Discuss Settlement Agreement](https://www.federalregister.gov/documents/2026/04/02/2026-06431/village-of-morrisville-vermont-notice-of-meeting-to-discuss-settlement-agreement) (2026-04-02) — Energy Department
+- [Proposed Collection; Comment Request](https://www.federalregister.gov/documents/2026/03/31/2026-06219/proposed-collection-comment-request) (2026-03-31) — Defense Department
+- ... and 9,994 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Microsoft%22) (Tier 1)
+<!-- auto:federal-register end -->

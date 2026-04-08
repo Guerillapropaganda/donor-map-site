@@ -2,7 +2,7 @@
 title: "Organizing for Action"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -22,6 +22,17 @@ sec-form-types:
   - "EX-99.5"
   - "S-4/A"
   - "S-4EF"
+court-cases: 30
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Maryland"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. North Carolina"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
 ---
 
 #ofa #organizing-for-action #obama #501c4 #dark-money #campaign-infrastructure
@@ -102,3 +113,22 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Organizing%20for%20Action%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 30 |
+| Courts | District Court, C.D. California, District Court, D. Maryland, District Court, District of Columbia, District Court, E.D. North Carolina, District Court, E.D. Pennsylvania, District Court, N.D. Illinois, District Court, S.D. New York, District Court, W.D. Texas |
+| Case Types | 320 P.I.: Assault Libel & Slander, 441 Civil Rights: Voting, 820 Copyright, 890 Other Statutory Actions |
+
+**Notable cases:**
+- F v. DNC SERVICES CORPORATION (2025) — District Court, E.D. Pennsylvania
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- The Intercept Media, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- United States v. NORDEAN (2021) — District Court, District of Columbia
+- Latinos for Trump v. Sessions (2021) — District Court, W.D. Texas
+- Larry Klayman v. American Civil Liberties Union (2017) — District Court, C.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Organizing%20for%20Action%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

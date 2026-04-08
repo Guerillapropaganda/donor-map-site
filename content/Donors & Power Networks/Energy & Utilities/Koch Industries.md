@@ -2,7 +2,7 @@
 title: "Koch Industries"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -22,6 +22,9 @@ ein: 480834445
 annual-revenue: "$375K"
 net-assets: "$1.9M"
 tax-year: "2023"
+federal-awards-total: 0
+federal-contracts-count: 10
+federal-grants-count: 0
 ---
 
 #koch-industries #energy #oil-gas #refining #lobbying #dark-money #deregulation #epa #climate #labor #class-analysis #follow-the-money #tcja #clean-power-plan
@@ -740,3 +743,24 @@ research-status:: developed → ready (2026-04-01) — Merged: KochPAC complete 
 - [Source: ProPublica Nonprofit Explorer — EIN 480834445](https://projects.propublica.org/nonprofits/organizations/480834445) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480834445_202312_990O_2025032023241115.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 10 ($613K sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 3 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $260K | Department of Health and Human Services | INFOR (US), INC:1222017 [24-000496] ANNUAL SOFTWARE ELITE XTREME PREMIUM MAINTENANCE AND SUPPORT AGR |
+| $254K | Department of Health and Human Services | INFOR (US), INC:1222017 [24-000019]  CLOVERLEAF MAINTENANCE |
+| $40K | Department of Health and Human Services | 01-ANNUAL SOFTWARE LICENSE, INFOR OS - ION PROCESS GRID EDITION |
+| $36K | Department of Health and Human Services | HL7 SECURE SERVER RENEWAL |
+| $14K | Department of Health and Human Services | INFOR (US), INC:1222017 [23-010757] ANNUAL SOFTWARE LICENSE, |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8cc00587-be89-6ad5-76c5-92c6a33ea5a2-R/latest) (Tier 1)
+<!-- auto:usaspending end -->
