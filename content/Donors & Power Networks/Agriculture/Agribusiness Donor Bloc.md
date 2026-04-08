@@ -37,7 +37,7 @@ The Agribusiness Donor Bloc. The combined political operation of America's agric
 
 The bloc's political operation: $30-50 million per cycle in PAC and campaign contributions, $80-120 million annually in lobbying (across all agricultural sub-sectors), and the most powerful state-level political networks in rural America. The Farm Bureau's 6 million member families provide the grassroots base; corporate agribusiness provides the funding.
 
-- ~~[FEC Receipts: Agribusiness industry spending](https://www.fec.gov/data/receipts/?data_type=processed)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FEC Receipts: Agribusiness industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (NEEDS REVIEW: FEC results page with no results)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -92,13 +92,13 @@ content-readiness:: ready
 
 **Recent press releases:**
 
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
+- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) (VERIFIED) — USAO - New York, Northern
+- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) (VERIFIED) — USAO - Texas, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) (VERIFIED) — USAO - Massachusetts
+- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) (VERIFIED) — USAO - Louisiana, Eastern
 - ... and 264,343 more
 
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Agribusiness%20Donor%20Bloc%22&sort=date) (Tier 1)
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Agribusiness%20Donor%20Bloc%22&sort=date) (Tier 1) (NEEDS REVIEW: Results page with no results)
 <!-- auto:doj-press end -->
