@@ -24,6 +24,9 @@ annual-revenue: "$4.8M"
 net-assets: "$5.8M"
 tax-year: "2023"
 related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Bail Bond Industry]]"
+sec-filings: 23
+sec-form-types:
+  - "424B3"
 ---
 
 
@@ -227,3 +230,21 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 956203844](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 23 |
+| Form Types | 424B3 |
+
+**Notable filings:**
+
+- 2013-03-14 — **424B3**: 424B3
+- 2013-03-12 — **424B3**: 424B3
+- 2013-03-11 — **424B3**: 424B3
+- 2013-03-12 — **424B3**: 424B3
+- 2013-03-12 — **424B3**: 424B3
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Riverside%20Sheriffs%20Association%22) (Tier 1)
+<!-- auto:sec-edgar end -->

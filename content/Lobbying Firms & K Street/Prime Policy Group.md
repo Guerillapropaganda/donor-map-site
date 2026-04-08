@@ -13,7 +13,7 @@ sec-form-types:
   - "20-F"
   - "EX-2"
   - "EX-8.1"
-related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Cassidy & Associates]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]]"
+related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Cassidy & Associates]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Ballard Partners]]"
 ein: "841989534"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"

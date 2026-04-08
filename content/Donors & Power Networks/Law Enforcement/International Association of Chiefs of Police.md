@@ -2,13 +2,13 @@
 title: "International Association of Chiefs of Police"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
 entity-type: "Individual Donor"
 federal-register-mentions: 86
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Civil Rights Commission"
   - "Federal Bureau of Investigation"
@@ -20,6 +20,10 @@ regulatory-agencies:
   - "National Highway Traffic Safety Administration"
   - "National Institute of Justice"
   - "Transportation Department"
+ein: "530227813"
+nonprofit-status: "501(c)(3)"
+total-revenue: 42771774
+total-assets: 52099024
 ---
 
 #iacp #law-enforcement #police #lobbying #qualified-immunity #surveillance #reform
@@ -67,3 +71,27 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22International%20Association%20of%20Chiefs%20of%20Police%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 530227813 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $42.8M |
+| Total Assets | $52.1M |
+| IRS Ruling Date | 1940-03-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530227813) (Tier 1)
+<!-- auto:nonprofit-990 end -->

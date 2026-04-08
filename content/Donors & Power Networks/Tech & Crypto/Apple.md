@@ -45,7 +45,7 @@ regulatory-agencies:
   - "Federal Energy Regulatory Commission"
   - "Federal Reserve System"
   - "Food and Drug Administration"
-related: "[[Amy Klobuchar]] · [[The Antitrust Crusade and Legislative Stalling]] · [[Barack Obama Master Profile]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]]"
+related: "[[Amy Klobuchar]] · [[The Antitrust Crusade and Legislative Stalling]] · [[Barack Obama Master Profile]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]]"
 ---
 
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy
