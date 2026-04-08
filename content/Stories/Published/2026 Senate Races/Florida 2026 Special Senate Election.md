@@ -72,7 +72,7 @@ Florida's special election for a two-year Senate term (versus six-year terms for
 - ~~[Florida 2026 Senate Special Election | Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Florida,_2026)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - ~~[Ballotpedia: Ashley Moody political career and campaign finances](https://ballotpedia.org/Ashley_Moody)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - [Cory Mills campaign finances and defense contractor ties | FEC](https://www.fec.gov/data/candidate/H2FL07156/) (Tier 1) (VERIFIED)
-- [Kat Cammack 2024-2026 political action committee activity | FEC](https://www.fec.gov/data/candidate/H2FL03015/) (Tier 1) (VERIFIED: GRIMSLEY, GEORGE CLAUDE page)
+- [FEC: Kat Cammack Candidate Overview](https://www.fec.gov/data/candidate/H0FL03175/) (Tier 1) (VERIFIED)
 - ~~[Cory Mills and Republican primary challengers in Florida race | Politico](https://www.politico.com/news/florida-senate-special-election-2026)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [FEC: United States Sugar Corporation PAC](https://www.fec.gov/data/committee/C00234120/) (Tier 1) (VERIFIED)
 - ~~[Sugar industry political spending in Florida | FollowTheMoney](https://www.followthemoney.org/Security/login?BackURL=/entity/c/1087342)~~ (was Tier 1 — login redirect, FollowTheMoney broken. Replaced with FEC PAC above)
