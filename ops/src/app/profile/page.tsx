@@ -60,7 +60,7 @@ export default function ProfilePage() {
   const [connections, setConnections] = useState<Connection[]>([])
   const [loading, setLoading] = useState(true)
   const [tab, setTab] = useState<"overview" | "sources" | "connections" | "urls">("overview")
-  const [urlOverrides, setUrlOverrides] = useState<Record<number, "ok" | "broken" | "unsure">>({})
+  const [urlOverrides, setUrlOverrides] = useState<Record<number, "ok" | "broken" | "unsure" | "yellow">>({})
   const [urlNotes, setUrlNotes] = useState<Record<number, string>>({})
   const [urlSaving, setUrlSaving] = useState(false)
   const [urlSaveMsg, setUrlSaveMsg] = useState("")
@@ -154,7 +154,7 @@ export default function ProfilePage() {
               if (r.status === "ok") setUrlOverrides(p => ({ ...p, [i]: "ok" }))
               else if (r.status === "broken") setUrlOverrides(p => ({ ...p, [i]: "broken" }))
               else if (r.status === "slow" || r.status === "redirect") {
-                setUrlOverrides(p => ({ ...p, [i]: "unsure" }))
+                setUrlOverrides(p => ({ ...p, [i]: "yellow" }))
                 setUrlNotes(p => ({ ...p, [i]: r.status === "redirect" ? `Redirects to ${r.redirectUrl || "unknown"}` : `Slow response (${r.ms}ms)` }))
               }
             }
@@ -168,7 +168,7 @@ export default function ProfilePage() {
   }
 
   function bulkMarkUnchecked(status: "ok" | "broken" | "unsure") {
-    const newOverrides: Record<number, "ok" | "broken" | "unsure"> = { ...urlOverrides }
+    const newOverrides: Record<number, "ok" | "broken" | "unsure" | "yellow"> = { ...urlOverrides }
     urls.forEach((u, i) => {
       const current = urlOverrides[i] || u.triageStatus || (u.archived ? "broken" : "unchecked")
       if (current === "unchecked") newOverrides[i] = status
@@ -542,6 +542,7 @@ export default function ProfilePage() {
                 const status = getUrlStatus(u, i)
                 const dotColor = status === "ok" || status === "verified" ? "bg-[var(--color-green)]"
                   : status === "broken" ? "bg-[var(--color-red)]"
+                  : status === "yellow" ? "bg-[var(--color-amber)]"
                   : status === "unsure" ? "bg-[#a855f7]"
                   : "bg-[#6b7280]"
                 const isExpanded = expandedUrl === i || !!override
@@ -560,6 +561,8 @@ export default function ProfilePage() {
                         className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "ok" ? "bg-[var(--color-green)] text-black border-[var(--color-green)]" : "border-[var(--color-border)] text-[var(--color-green)] hover:bg-[var(--color-green)] hover:text-black"}`}>✓</button>
                       <button title="Broken (✗)" onClick={() => setUrlOverrides(p => override === "broken" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "broken" })}
                         className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "broken" ? "bg-[var(--color-red)] text-white border-[var(--color-red)]" : "border-[var(--color-border)] text-[var(--color-red)] hover:bg-[var(--color-red)] hover:text-white"}`}>✗</button>
+                      <button title="Slow/Redirect (⚠)" onClick={() => setUrlOverrides(p => override === "yellow" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "yellow" })}
+                        className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "yellow" ? "bg-[var(--color-amber)] text-black border-[var(--color-amber)]" : "border-[var(--color-border)] text-[var(--color-amber)] hover:bg-[var(--color-amber)] hover:text-black"}`}>⚠</button>
                       <button title="Unsure (?)" onClick={() => setUrlOverrides(p => override === "unsure" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "unsure" })}
                         className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "unsure" ? "bg-[#a855f7] text-white border-[#a855f7]" : "border-[var(--color-border)] text-[#a855f7] hover:bg-[#a855f7] hover:text-white"}`}>?</button>
                     </div>

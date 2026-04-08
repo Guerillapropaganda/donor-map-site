@@ -9,7 +9,7 @@ interface UrlChange {
   tier?: number
   profilePath: string
   profile: string
-  newStatus: "ok" | "broken" | "slow" | "unsure"
+  newStatus: "ok" | "broken" | "slow" | "unsure" | "yellow"
   note?: string
 }
 
@@ -108,22 +108,33 @@ export async function POST(request: Request) {
             modified = true
           }
           confirmed++
-        } else if (change.newStatus === "unsure") {
+        } else if (change.newStatus === "unsure" || change.newStatus === "yellow") {
           const linkPattern = `[${change.label}](${change.url})`
+          const archivedPattern = `~~${linkPattern}~~`
+
+          // Unarchive if strikethrough (must do first so subsequent regexes can find the plain link)
+          if (content.includes(archivedPattern)) {
+            const archiveNoteRegex = new RegExp(
+              escapeRegex(`~~${linkPattern}~~`) + "(?:\\s*\\([^)]*archived by Ops\\))?",
+            )
+            content = content.replace(archiveNoteRegex, linkPattern)
+            modified = true
+          }
 
           // Remove (VERIFIED...) if present
-          const oldVerifiedRegex2 = new RegExp(escapeRegex(linkPattern) + "(\\s*\\(Tier \\d\\))?\\s*\\(VERIFIED(?::[^)]*)?\\)")
+          const oldVerifiedRegex2 = new RegExp(escapeRegex(linkPattern) + "(\\s*\\((?:was )?Tier \\d[^)]*\\))?\\s*\\(VERIFIED(?::[^)]*)?\\)")
           content = content.replace(oldVerifiedRegex2, (_, tier) => linkPattern + (tier || ""))
 
           // Remove old (NEEDS REVIEW...) if present (to re-add with possibly new note)
-          const oldNeedsReviewRegex = new RegExp(escapeRegex(linkPattern) + "(\\s*\\(Tier \\d\\))?\\s*\\(NEEDS REVIEW(?::[^)]*)?\\)")
+          const oldNeedsReviewRegex = new RegExp(escapeRegex(linkPattern) + "(\\s*\\((?:was )?Tier \\d[^)]*\\))?\\s*\\(NEEDS REVIEW(?::[^)]*)?\\)")
           content = content.replace(oldNeedsReviewRegex, (_, tier) => linkPattern + (tier || ""))
 
           // Add (NEEDS REVIEW) or (NEEDS REVIEW: note) tag
-          const reviewTag = change.note ? ` (NEEDS REVIEW: ${change.note})` : " (NEEDS REVIEW)"
+          const noteText = change.note || (change.newStatus === "yellow" ? "slow/redirect" : "")
+          const reviewTag = noteText ? ` (NEEDS REVIEW: ${noteText})` : " (NEEDS REVIEW)"
           if (content.includes(linkPattern) && !content.includes(linkPattern + " (NEEDS REVIEW")) {
             const tierPattern = new RegExp(
-              escapeRegex(linkPattern) + "(\\s*\\(Tier \\d\\))?",
+              escapeRegex(linkPattern) + "(\\s*\\((?:was )?Tier \\d[^)]*\\))?",
             )
             content = content.replace(tierPattern, (match) => match + reviewTag)
             modified = true
