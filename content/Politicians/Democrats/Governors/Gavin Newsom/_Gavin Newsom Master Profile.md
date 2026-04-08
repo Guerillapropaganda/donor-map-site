@@ -1,34 +1,34 @@
 ---
-title: "Gavin Newsom Master Profile"
+title: Gavin Newsom Master Profile
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: '2026-04-08'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Governor"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: Governor
+state: California
+state-abbr: CA
 issues:
-  - "Technology"
+  - Technology
 top-donors:
-  - "Elon Musk"
-  - "Michael Bloomberg"
-  - "Haim Saban"
-  - "SEIU - Service Employees International Union"
-  - "CNA - California Nurses Association"
-  - "AIPAC - American Israel Public Affairs Committee"
-  - "Blue Shield of California"
-  - "UnitedHealth Group - Optum"
-  - "Kaiser Permanente"
-  - "Lennar Corporation"
-  - "National Association of Realtors"
+  - Elon Musk
+  - Michael Bloomberg
+  - Haim Saban
+  - SEIU - Service Employees International Union
+  - CNA - California Nurses Association
+  - AIPAC - American Israel Public Affairs Committee
+  - Blue Shield of California
+  - UnitedHealth Group - Optum
+  - Kaiser Permanente
+  - Lennar Corporation
+  - National Association of Realtors
 ---
 
 
 #newsom #master-profile #california #governor #2028 #class-analysis #follow-the-money #rhetoric-vs-record #donor-class #silicon-valley #progressive-branding
 
-related: [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Pete Buttigieg Master Profile|Pete Buttigieg]] · [[Gretchen Whitmer]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[PG&E]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[CCPOA - California Correctional Peace Officers Association]] · [[California Restaurant Association]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[CTA - California Teachers Association]] · [[Chevron]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[California Labor Federation]] · [[California Building and Construction Trades Council]] · [[Elon Musk]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]]
+related: [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Pete Buttigieg Master Profile|Pete Buttigieg]] · [[Gretchen Whitmer]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[PG&E]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[CCPOA - California Correctional Peace Officers Association]] · [[California Restaurant Association]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Haim Saban]] · [[CTA - California Teachers Association]] · [[Chevron]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[California Labor Federation]] · [[California Building and Construction Trades Council]] · [[Elon Musk]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]]
 
 donors: [[Elon Musk]], [[Michael Bloomberg]], [[Haim Saban]], [[SEIU - Service Employees International Union]], [[CNA - California Nurses Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Blue Shield of California]], [[UnitedHealth Group - Optum]], [[Kaiser Permanente]], [[Lennar Corporation]], [[National Association of Realtors]]
 
