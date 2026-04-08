@@ -285,15 +285,24 @@ async function searchSECEdgar(query: string, type: string): Promise<SourceResult
 // ===== Senate LDA (Lobbying Disclosures) =====
 async function searchLDA(query: string, type: string): Promise<SourceResult[]> {
   const results: SourceResult[] = []
+  // lda.gov works without auth for search; old lda.senate.gov tokens don't work on new domain yet
   const apiKey = process.env.LDAAPI || process.env.LDA_API_KEY
-  if (!apiKey) return results
+  const headers: Record<string, string> = {}
+  if (apiKey) headers["Authorization"] = `Token ${apiKey}`
 
-  // Search registrants
+  // Search registrants — try lda.gov without auth first, fall back to lda.senate.gov with auth
   try {
-    const res = await fetch(
-      `https://lda.senate.gov/api/v1/registrants/?search=${encodeURIComponent(query)}&page_size=5`,
-      { signal: AbortSignal.timeout(8000), headers: { Authorization: `Token ${apiKey}` } }
+    let res = await fetch(
+      `https://lda.gov/api/v1/registrants/?search=${encodeURIComponent(query)}&page_size=5`,
+      { signal: AbortSignal.timeout(8000) }
     )
+    // If lda.gov fails with auth issues, try old domain
+    if (!res.ok && apiKey) {
+      res = await fetch(
+        `https://lda.senate.gov/api/v1/registrants/?search=${encodeURIComponent(query)}&page_size=5`,
+        { signal: AbortSignal.timeout(8000), headers: { Authorization: `Token ${apiKey}` } }
+      )
+    }
     if (res.ok) {
       const data = await res.json()
       for (const r of data.results || []) {
@@ -301,19 +310,25 @@ async function searchLDA(query: string, type: string): Promise<SourceResult[]> {
           source: "Senate LDA", tier: 1,
           title: `${r.name || query} — Lobbying Registrant`,
           description: `Address: ${r.address || "N/A"} | ID: ${r.id || "N/A"}`,
-          url: `https://lda.senate.gov/filings/search/?registrant=${encodeURIComponent(r.name || query)}`,
+          url: `https://lda.gov/filings/search/?registrant=${encodeURIComponent(r.name || query)}`,
           category: "Lobbying",
         })
       }
     }
   } catch { /* skip */ }
 
-  // Search filings
+  // Search filings — same fallback strategy
   try {
-    const res = await fetch(
-      `https://lda.senate.gov/api/v1/filings/?search=${encodeURIComponent(query)}&page_size=5`,
-      { signal: AbortSignal.timeout(8000), headers: { Authorization: `Token ${apiKey}` } }
+    let res = await fetch(
+      `https://lda.gov/api/v1/filings/?search=${encodeURIComponent(query)}&page_size=5`,
+      { signal: AbortSignal.timeout(8000) }
     )
+    if (!res.ok && apiKey) {
+      res = await fetch(
+        `https://lda.senate.gov/api/v1/filings/?search=${encodeURIComponent(query)}&page_size=5`,
+        { signal: AbortSignal.timeout(8000), headers: { Authorization: `Token ${apiKey}` } }
+      )
+    }
     if (res.ok) {
       const data = await res.json()
       for (const f of data.results || []) {
@@ -321,7 +336,7 @@ async function searchLDA(query: string, type: string): Promise<SourceResult[]> {
           source: "Senate LDA", tier: 1,
           title: `${f.registrant?.name || ""} — ${f.client?.name || query}`,
           description: `Filing: ${f.filing_type_display || "N/A"} | Period: ${f.filing_period_display || "N/A"} ${f.filing_year || ""} | Income: ${f.income || "N/A"}`,
-          url: f.filing_url || `https://lda.senate.gov/filings/search/?search=${encodeURIComponent(query)}`,
+          url: f.filing_url || `https://lda.gov/filings/search/?search=${encodeURIComponent(query)}`,
           category: "Lobbying",
         })
       }
