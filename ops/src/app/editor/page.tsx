@@ -1,11 +1,15 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { useSearchParams } from "next/navigation"
 import matter from "gray-matter"
 import type { Profile } from "@/lib/vault"
 import { typeColor, readinessColor } from "@/lib/vault"
 
 export default function EditorPage() {
+  const searchParams = useSearchParams()
+  const initialProfile = searchParams.get("profile")
+
   const [profiles, setProfiles] = useState<Profile[]>([])
   const [search, setSearch] = useState("")
   const [selected, setSelected] = useState<Profile | null>(null)
@@ -22,13 +26,26 @@ export default function EditorPage() {
   const [message, setMessage] = useState<{ text: string; type: "success" | "error" } | null>(null)
   const [dirty, setDirty] = useState(false)
   const [viewMode, setViewMode] = useState<"edit" | "preview" | "split" | "live">("edit")
+  const [autoLoaded, setAutoLoaded] = useState(false)
 
   useEffect(() => {
     fetch("/api/vault")
       .then((r) => r.json())
-      .then((d) => { setProfiles(d.profiles || []); setLoading(false) })
+      .then((d) => {
+        const allProfiles = d.profiles || []
+        setProfiles(allProfiles)
+        setLoading(false)
+        // Auto-load profile from URL param
+        if (initialProfile && !autoLoaded) {
+          const match = allProfiles.find((p: Profile) => p.path === initialProfile)
+          if (match) {
+            loadProfile(match)
+            setAutoLoaded(true)
+          }
+        }
+      })
       .catch(() => setLoading(false))
-  }, [])
+  }, [initialProfile, autoLoaded])
 
   const searchResults = search.length >= 2
     ? profiles.filter((p) => p.title.toLowerCase().includes(search.toLowerCase())).slice(0, 12)
