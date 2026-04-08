@@ -1,7 +1,7 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 ---
 
 # Session State
@@ -12,7 +12,45 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-08 (early morning)
+Date: 2026-04-08 (afternoon)
+
+Done:
+- **Ops v1.1 upgrade** — major UX improvements to the Operations Center
+- **Ctrl+K command palette** — global search across all 1,600+ profiles and pages from anywhere
+- **Unified profile page** (`/profile`) — readiness stepper, source quality bars, connections, URLs, clickable source links opening in new tab
+- **Rich activity feed** — categorizes commits into Pipeline/Connection/Edit/Deploy/URL/Note with colored icons and filter pills
+- **Keyboard shortcuts** — `?` for help, `g+d/p/n/u/r/e` for navigation
+- **Visual readiness badges** — VaultGrid cards show colored readiness labels + progress bars + tier/enrichment badges
+- **Fixed connections API** — now parses body text `related:`/`donors:`/`opposes:` fields as fallback (250+ profiles had connections in body, not frontmatter). Trump and all profiles now show connections.
+- **Relationship Mapper v2** — full rewrite:
+  - Search: click input to clear and search again (was stuck on previous profile)
+  - Graph: draggable (click+drag to pan), scroll-to-zoom (no Ctrl needed), zoom controls (+/-/Reset), no 24-node limit
+  - Explorer: Add Connection form on all three views (List, Explorer, Graph)
+  - Sidebar: type category filters, internal docs excluded from No Connections
+- **Profile View** — browse/search grid when no profile selected, clickable URLs
+
+Architecture:
+- New components: `CommandPalette.tsx`, `ClientProviders.tsx`, `KeyboardShortcuts.tsx`
+- New page: `ops/src/app/profile/page.tsx`
+- Enhanced: `ActivityFeed.tsx`, `VaultGrid.tsx`, `Sidebar.tsx`, layout.tsx, `relationships/page.tsx`
+- Connections API uses `parseBodyField()` fallback + returns all connected profiles (no top-50 cap)
+
+Known issues:
+- `.next` cache corruption if app killed mid-compile — `rm -rf ops/.next` fixes it
+- Connections API has 2-min cache — changes take up to 2min to appear in Relationships sidebar
+
+Next:
+- **Social scheduling** — David wants Buffer-like post scheduling for Distribution page
+- Stale profile detector (profiles not enriched in 30+ days)
+- Cross-module profile sidebar (see connections/URLs/notes without leaving Editor)
+- Run opensecrets-replace for remaining categories (~3,000 URLs)
+- LDA migration: lda.senate.gov → lda.gov before June 30, 2026 sunset
+
+---
+
+## Previous Sessions
+
+### Code Claude — 2026-04-08 (early morning)
 
 Done:
 - **Built Donor Map Ops v1.0** — 10-module local operations app at `ops/`

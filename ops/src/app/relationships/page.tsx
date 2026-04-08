@@ -1,8 +1,8 @@
 "use client"
 
-import { useState, useEffect, useMemo } from "react"
+import { useState, useEffect, useRef, useCallback } from "react"
 import type { Profile } from "@/lib/vault"
-import { typeColor, readinessColor } from "@/lib/vault"
+import { typeColor } from "@/lib/vault"
 
 interface Connection {
   source: string; sourcePath: string; sourceType: string
@@ -16,8 +16,22 @@ interface ConnectedProfile {
 const REL_COLORS = { related: "#5b8dce", donors: "#22c55e", opposes: "#ef4444" }
 const REL_LABELS = { related: "Related", donors: "Funded By", opposes: "Opposes" }
 const TYPE_COLORS: Record<string, string> = {
-  politician: "#5b8dce", donor: "#22c55e", "think-tank": "#a855f7",
-  "lobbying-firm": "#f59e0b", "media-profile": "#ef4444", unknown: "#7a7a86",
+  politician: "#5b8dce", donor: "#22c55e", corporation: "#22c55e", "think-tank": "#a855f7",
+  "lobbying-firm": "#f59e0b", "media-profile": "#ef4444", story: "#ec4899", unknown: "#7a7a86",
+}
+// Internal doc types to exclude from No Connections
+const INTERNAL_TYPES = new Set(["unknown", "system", "admin-note", "index"])
+const INTERNAL_TITLE_PATTERNS = [
+  /^About The Donor Map$/i, /^Browse by Pattern$/i, /^Changelog$/i,
+  /^Vault Rules$/i, /^Pipeline Guide$/i, /^Session State$/i,
+  /^Donors & Power Networks Index$/i, /Index$/,
+]
+
+function isInternalDoc(p: ConnectedProfile): boolean {
+  if (INTERNAL_TYPES.has(p.type)) return true
+  if (INTERNAL_TITLE_PATTERNS.some((re) => re.test(p.title))) return true
+  if (p.path.includes("Vault Maintenance/") || p.path.includes("Admin Notes/")) return true
+  return false
 }
 
 export default function RelationshipsPage() {
@@ -34,13 +48,52 @@ export default function RelationshipsPage() {
   const [search, setSearch] = useState("")
   const [selected, setSelected] = useState<ConnectedProfile | null>(null)
   const [explorerPath, setExplorerPath] = useState<string[]>([])
+  const [showDropdown, setShowDropdown] = useState(false)
 
   // Add connection state
   const [targetSearch, setTargetSearch] = useState("")
   const [relType, setRelType] = useState<"related" | "donors" | "opposes">("related")
+  const [targetTypeFilter, setTargetTypeFilter] = useState<string>("all")
   const [saving, setSaving] = useState(false)
   const [toast, setToast] = useState<string | null>(null)
   const [sidebarTypeFilter, setSidebarTypeFilter] = useState<string>("all")
+
+  // Graph zoom + pan
+  const [graphZoom, setGraphZoom] = useState(1)
+  const [graphPan, setGraphPan] = useState({ x: 0, y: 0 })
+  const [isDragging, setIsDragging] = useState(false)
+  const dragStart = useRef({ x: 0, y: 0, panX: 0, panY: 0 })
+  const graphRef = useRef<HTMLDivElement>(null)
+  const graphContainerRef = useRef<HTMLDivElement>(null)
+
+  // Attach non-passive wheel listener so we can preventDefault
+  useEffect(() => {
+    const el = graphContainerRef.current
+    if (!el) return
+    const handler = (e: WheelEvent) => {
+      e.preventDefault()
+      e.stopPropagation()
+      setGraphZoom((z) => Math.max(0.3, Math.min(3, z + (e.deltaY > 0 ? -0.1 : 0.1))))
+    }
+    el.addEventListener("wheel", handler, { passive: false })
+    return () => el.removeEventListener("wheel", handler)
+  }, [tab, selected])
+
+  const handleMouseDown = useCallback((e: React.MouseEvent) => {
+    // Only drag on the background, not on node buttons
+    if ((e.target as HTMLElement).closest("button")) return
+    setIsDragging(true)
+    dragStart.current = { x: e.clientX, y: e.clientY, panX: graphPan.x, panY: graphPan.y }
+  }, [graphPan])
+
+  const handleMouseMove = useCallback((e: React.MouseEvent) => {
+    if (!isDragging) return
+    const dx = e.clientX - dragStart.current.x
+    const dy = e.clientY - dragStart.current.y
+    setGraphPan({ x: dragStart.current.panX + dx, y: dragStart.current.panY + dy })
+  }, [isDragging])
+
+  const handleMouseUp = useCallback(() => setIsDragging(false), [])
 
   useEffect(() => {
     Promise.all([
@@ -60,28 +113,26 @@ export default function RelationshipsPage() {
 
   const showToast = (msg: string) => { setToast(msg); setTimeout(() => setToast(null), 4000) }
 
-  // Get connections for a specific profile
-  const getProfileConnections = (title: string) => {
-    return connections.filter((c) => c.source === title || c.target === title)
-  }
+  const getProfileConnections = (title: string) => connections.filter((c) => c.source === title || c.target === title)
 
-  // Find shared connections between selected and another profile
   const getSharedConnections = (a: string, b: string) => {
     const aConns = new Set(connections.filter((c) => c.source === a).map((c) => c.target))
     const bConns = new Set(connections.filter((c) => c.source === b).map((c) => c.target))
     return [...aConns].filter((x) => bConns.has(x))
   }
 
-  // Search profiles
-  const searchResults = search.length >= 2
+  // Search — only show dropdown when typing, not when selected
+  const searchResults = search.length >= 2 && showDropdown
     ? profiles.filter((p) => p.title.toLowerCase().includes(search.toLowerCase())).slice(0, 10)
     : []
 
   const targetResults = targetSearch.length >= 2
-    ? profiles.filter((p) => p.title.toLowerCase().includes(targetSearch.toLowerCase()) && p.title !== selected?.title).slice(0, 8)
+    ? profiles
+        .filter((p) => p.title.toLowerCase().includes(targetSearch.toLowerCase()) && p.title !== selected?.title)
+        .filter((p) => targetTypeFilter === "all" || p.type === targetTypeFilter)
+        .slice(0, 12)
     : []
 
-  // Select a profile from top connected or search
   const selectProfile = (p: ConnectedProfile | Profile) => {
     const cp = "connectionCount" in p ? p : topConnected.find((t) => t.title === p.title) || {
       title: p.title, path: p.path, type: p.type,
@@ -89,10 +140,46 @@ export default function RelationshipsPage() {
     }
     setSelected(cp)
     setSearch(cp.title)
+    setShowDropdown(false)
     setExplorerPath([cp.title])
+    setGraphZoom(1)
   }
 
-  // Remove connection
+  const clearSelection = () => {
+    setSelected(null)
+    setSearch("")
+    setShowDropdown(false)
+    setExplorerPath([])
+  }
+
+  // Change connection type (remove old, add new)
+  const changeConnectionType = async (targetTitle: string, fromType: "related" | "donors" | "opposes", toType: "related" | "donors" | "opposes") => {
+    if (!selected || fromType === toType) return
+    setSaving(true)
+    try {
+      // Remove old
+      await fetch("/api/relationships", {
+        method: "DELETE",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ sourcePath: selected.path, targetTitle, relationshipType: fromType }),
+      })
+      // Add new
+      await fetch("/api/relationships", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ sourcePath: selected.path, targetTitle, relationshipType: toType }),
+      })
+      showToast(`Changed: ${targetTitle} → ${REL_LABELS[toType]}`)
+      const connData = await fetch("/api/connections").then((r) => r.json())
+      setConnections(connData.connections || [])
+      setTopConnected(connData.topConnected || [])
+      setBreakdown(connData.breakdown || breakdown)
+      const updated = (connData.topConnected as ConnectedProfile[]).find((t) => t.title === selected.title)
+      if (updated) setSelected(updated)
+    } catch { showToast("Failed to change type") }
+    finally { setSaving(false) }
+  }
+
   const removeConnection = async (targetTitle: string, rt: "related" | "donors" | "opposes") => {
     if (!selected) return
     setSaving(true)
@@ -105,7 +192,7 @@ export default function RelationshipsPage() {
       const data = await res.json()
       if (data.error) showToast(data.error)
       else {
-        showToast(`Removed: ${selected.title} ✕ ${targetTitle}`)
+        showToast(`Removed: ${selected.title} × ${targetTitle}`)
         const connData = await fetch("/api/connections").then((r) => r.json())
         setConnections(connData.connections || [])
         setTopConnected(connData.topConnected || [])
@@ -118,7 +205,6 @@ export default function RelationshipsPage() {
     finally { setSaving(false) }
   }
 
-  // Add connection
   const addConnection = async (targetTitle: string) => {
     if (!selected) return
     setSaving(true)
@@ -133,7 +219,6 @@ export default function RelationshipsPage() {
       else {
         showToast(`Connected: ${selected.title} → ${targetTitle}`)
         setTargetSearch("")
-        // Refresh connections
         const connData = await fetch("/api/connections").then((r) => r.json())
         setConnections(connData.connections || [])
         setTopConnected(connData.topConnected || [])
@@ -145,13 +230,75 @@ export default function RelationshipsPage() {
     finally { setSaving(false) }
   }
 
-  // Explorer: expand a node
-  const expandNode = (title: string) => {
-    setExplorerPath((prev) => [...prev, title])
-  }
+  const expandNode = (title: string) => setExplorerPath((prev) => [...prev, title])
 
   const explorerCurrent = explorerPath[explorerPath.length - 1]
   const explorerConnections = explorerCurrent ? getProfileConnections(explorerCurrent) : []
+
+  // Filter unconnected to exclude internal docs
+  const filteredUnconnected = unconnected.filter((p) => !isInternalDoc(p))
+  const filteredUnconnectedCount = filteredUnconnected.length
+
+  // Entity type filter options for Add Connection
+  const ENTITY_FILTERS = [
+    { key: "all", label: "All", color: "#7a7a86" },
+    { key: "politician", label: "Politicians", color: "#5b8dce" },
+    { key: "donor", label: "Donors", color: "#22c55e" },
+    { key: "corporation", label: "Corps", color: "#22c55e" },
+    { key: "think-tank", label: "Think Tanks", color: "#a855f7" },
+    { key: "lobbying-firm", label: "K Street", color: "#f59e0b" },
+    { key: "media-profile", label: "Media", color: "#ef4444" },
+    { key: "story", label: "Stories", color: "#ec4899" },
+  ]
+
+  // Add Connection form (reusable)
+  const AddConnectionForm = () => (
+    <div className="mt-4 p-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg">
+      <h4 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Add Connection</h4>
+
+      {/* Relationship type */}
+      <div className="flex gap-2 mb-2">
+        <span className="text-[8px] text-[var(--color-text-dim)] py-1.5">Type:</span>
+        {(["related", "donors", "opposes"] as const).map((rt) => (
+          <button key={rt} onClick={() => setRelType(rt)}
+            className={`text-[9px] px-2.5 py-1.5 rounded border transition-all ${relType === rt ? "border-current bg-current/10" : "border-[var(--color-border)] text-[var(--color-text-dim)]"}`}
+            style={{ color: relType === rt ? REL_COLORS[rt] : undefined }}>{REL_LABELS[rt]}</button>
+        ))}
+      </div>
+
+      {/* Entity type filter */}
+      <div className="flex flex-wrap gap-1 mb-2">
+        <span className="text-[8px] text-[var(--color-text-dim)] py-0.5">Show:</span>
+        {ENTITY_FILTERS.map((t) => (
+          <button key={t.key} onClick={() => setTargetTypeFilter(t.key)}
+            className={`text-[7px] px-1.5 py-0.5 rounded transition-all ${targetTypeFilter === t.key ? "font-bold" : "text-[var(--color-text-dim)]"}`}
+            style={{ color: targetTypeFilter === t.key ? t.color : undefined, backgroundColor: targetTypeFilter === t.key ? `${t.color}15` : undefined }}>
+            {t.label}
+          </button>
+        ))}
+      </div>
+
+      {/* Search */}
+      <div className="relative">
+        <input type="text" placeholder={`Search ${targetTypeFilter === "all" ? "all profiles" : ENTITY_FILTERS.find((f) => f.key === targetTypeFilter)?.label || "profiles"}...`}
+          value={targetSearch}
+          onChange={(e) => setTargetSearch(e.target.value)}
+          className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-2 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
+        {targetResults.length > 0 && (
+          <div className="absolute top-full left-0 right-0 mt-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden z-20 max-h-48 overflow-y-auto">
+            {targetResults.map((p) => (
+              <button key={p.path} onClick={() => { addConnection(p.title); setTargetSearch("") }}
+                className="w-full flex items-center gap-2 px-3 py-2 text-left hover:bg-[var(--color-bg-hover)] text-xs border-b border-[var(--color-border)] last:border-0">
+                <span className="w-1.5 h-1.5 rounded-full flex-shrink-0" style={{ backgroundColor: typeColor(p.type) }} />
+                <span className="text-[var(--color-text)] flex-1">{p.title}</span>
+                <span className="text-[8px] px-1 py-0.5 rounded" style={{ color: typeColor(p.type), backgroundColor: `${typeColor(p.type)}15` }}>{p.type}</span>
+              </button>
+            ))}
+          </div>
+        )}
+      </div>
+    </div>
+  )
 
   return (
     <div>
@@ -165,9 +312,7 @@ export default function RelationshipsPage() {
       <div className="flex items-center justify-between mb-4">
         <div>
           <h1 className="text-lg font-bold text-[var(--color-text)]">Relationship Mapper</h1>
-          <p className="text-[10px] text-[var(--color-text-dim)]">
-            {breakdown.total} connections across the vault
-          </p>
+          <p className="text-[10px] text-[var(--color-text-dim)]">{breakdown.total} connections across the vault</p>
         </div>
       </div>
 
@@ -182,18 +327,25 @@ export default function RelationshipsPage() {
         <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[#ef4444]/10 text-[#ef4444]">
           <span className="w-2 h-2 rounded-full bg-current" /> {breakdown.opposes} Opposes
         </div>
-        <div className="ml-auto text-[10px] text-[var(--color-text-dim)]">{unconnectedCount} profiles with no connections</div>
+        <div className="ml-auto text-[10px] text-[var(--color-text-dim)]">{filteredUnconnectedCount} profiles with no connections</div>
       </div>
 
       <div className="grid grid-cols-1 xl:grid-cols-4 gap-4">
         {/* Main area — 3 cols */}
         <div className="xl:col-span-3">
-          {/* Search */}
+          {/* Search — now properly clearable */}
           <div className="relative mb-4">
             <input type="text" placeholder="Search for a profile..." value={search}
-              onChange={(e) => { setSearch(e.target.value); if (!e.target.value) setSelected(null) }}
+              onChange={(e) => { setSearch(e.target.value); setShowDropdown(true); if (!e.target.value) clearSelection() }}
+              onFocus={() => { if (selected) { setSearch(""); setSelected(null); setShowDropdown(true) } }}
               className="w-full bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-4 py-3 text-sm text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
-            {searchResults.length > 0 && !selected && (
+            {search && (
+              <button onClick={clearSelection}
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-[var(--color-text-dim)] hover:text-[var(--color-text)] text-xs px-2">
+                Clear
+              </button>
+            )}
+            {searchResults.length > 0 && (
               <div className="absolute top-full left-0 right-0 mt-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden z-20 max-h-64 overflow-y-auto">
                 {searchResults.map((p) => (
                   <button key={p.path} onClick={() => selectProfile(p)}
@@ -224,20 +376,20 @@ export default function RelationshipsPage() {
               <p className="text-xs text-[var(--color-text-dim)]">Search for a profile or click one from the sidebar</p>
             </div>
           ) : tab === "list" ? (
-            /* ===== LIST VIEW (LinkedIn-style) ===== */
+            /* ===== LIST VIEW ===== */
             <div>
               <div className="flex items-center gap-3 mb-4">
-                <div className="w-10 h-10 rounded-lg flex items-center justify-center text-sm font-bold" style={{ backgroundColor: `${TYPE_COLORS[selected.type] || "#7a7a86"}15`, color: TYPE_COLORS[selected.type] }}>
+                <div className="w-10 h-10 rounded-lg flex items-center justify-center text-sm font-bold"
+                  style={{ backgroundColor: `${TYPE_COLORS[selected.type] || "#7a7a86"}15`, color: TYPE_COLORS[selected.type] }}>
                   {selected.title[0]}
                 </div>
                 <div>
                   <h3 className="text-sm font-bold text-[var(--color-text)]">{selected.title}</h3>
                   <span className="text-[9px]" style={{ color: TYPE_COLORS[selected.type] }}>{selected.type} — {selected.connectionCount} connections</span>
                 </div>
-                <button onClick={() => { setSelected(null); setSearch("") }} className="ml-auto text-[var(--color-text-dim)] hover:text-[var(--color-text)] text-xs">Clear</button>
+                <button onClick={clearSelection} className="ml-auto text-[var(--color-text-dim)] hover:text-[var(--color-text)] text-xs px-2 py-1 rounded hover:bg-[var(--color-bg-hover)]">Clear</button>
               </div>
 
-              {/* Connection list by type */}
               {(["related", "donors", "opposes"] as const).map((rt) => {
                 const items = selected[rt]
                 if (items.length === 0) return null
@@ -259,6 +411,17 @@ export default function RelationshipsPage() {
                                 {shared.length} shared
                               </span>
                             )}
+                            {/* Change type dropdown */}
+                            <select
+                              value={rt}
+                              onChange={(e) => changeConnectionType(name, rt, e.target.value as "related" | "donors" | "opposes")}
+                              disabled={saving}
+                              className="text-[8px] px-1 py-0.5 rounded border border-[var(--color-border)] bg-[var(--color-bg)] opacity-0 group-hover:opacity-100 transition-all focus:opacity-100"
+                              style={{ color: REL_COLORS[rt] }}>
+                              <option value="related" style={{ color: "#5b8dce" }}>Related</option>
+                              <option value="donors" style={{ color: "#22c55e" }}>Funded By</option>
+                              <option value="opposes" style={{ color: "#ef4444" }}>Opposes</option>
+                            </select>
                             <button onClick={() => removeConnection(name, rt)} disabled={saving}
                               className="text-[8px] px-1.5 py-0.5 rounded text-[var(--color-red)]/60 hover:text-[var(--color-red)] hover:bg-[var(--color-red)]/10 opacity-0 group-hover:opacity-100 transition-all">
                               Remove
@@ -270,45 +433,16 @@ export default function RelationshipsPage() {
                   </div>
                 )
               })}
-
-              {/* Add connection */}
-              <div className="mt-4 p-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg">
-                <h4 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Add Connection</h4>
-                <div className="flex gap-2 mb-2">
-                  {(["related", "donors", "opposes"] as const).map((rt) => (
-                    <button key={rt} onClick={() => setRelType(rt)}
-                      className={`text-[9px] px-2.5 py-1.5 rounded border transition-all ${relType === rt ? "border-current bg-current/10" : "border-[var(--color-border)] text-[var(--color-text-dim)]"}`}
-                      style={{ color: relType === rt ? REL_COLORS[rt] : undefined }}>{REL_LABELS[rt]}</button>
-                  ))}
-                </div>
-                <div className="relative">
-                  <input type="text" placeholder="Search target profile..." value={targetSearch}
-                    onChange={(e) => setTargetSearch(e.target.value)}
-                    className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-2 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
-                  {targetResults.length > 0 && (
-                    <div className="absolute top-full left-0 right-0 mt-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden z-20 max-h-40 overflow-y-auto">
-                      {targetResults.map((p) => (
-                        <button key={p.path} onClick={() => { addConnection(p.title); setTargetSearch("") }}
-                          className="w-full flex items-center gap-2 px-3 py-2 text-left hover:bg-[var(--color-bg-hover)] text-xs border-b border-[var(--color-border)] last:border-0">
-                          <span className="text-[var(--color-text)]">{p.title}</span>
-                          <span className="ml-auto text-[8px]" style={{ color: typeColor(p.type) }}>{p.type}</span>
-                        </button>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              </div>
+              <AddConnectionForm />
             </div>
           ) : tab === "explorer" ? (
-            /* ===== EXPLORER (Palantir-style) ===== */
+            /* ===== EXPLORER ===== */
             <div>
-              {/* Breadcrumb path */}
               <div className="flex items-center gap-1 mb-4 flex-wrap">
                 {explorerPath.map((name, i) => (
                   <span key={i} className="flex items-center gap-1">
                     {i > 0 && <span className="text-[var(--color-text-dim)]">→</span>}
-                    <button
-                      onClick={() => setExplorerPath(explorerPath.slice(0, i + 1))}
+                    <button onClick={() => setExplorerPath(explorerPath.slice(0, i + 1))}
                       className={`text-[10px] px-2 py-1 rounded ${i === explorerPath.length - 1 ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)] font-bold" : "text-[var(--color-text-dim)] hover:text-[var(--color-text)]"}`}>
                       {name}
                     </button>
@@ -316,13 +450,11 @@ export default function RelationshipsPage() {
                 ))}
               </div>
 
-              {/* Current node */}
               <div className="bg-[var(--color-bg-card)] border border-[var(--color-steel)]/30 rounded-lg p-4 mb-4">
                 <h3 className="text-sm font-bold text-[var(--color-text)] mb-1">{explorerCurrent}</h3>
                 <p className="text-[10px] text-[var(--color-text-dim)]">{explorerConnections.length} connections from this node</p>
               </div>
 
-              {/* Expandable connections */}
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
                 {explorerConnections.map((conn, i) => {
                   const targetName = conn.source === explorerCurrent ? conn.target : conn.source
@@ -352,127 +484,88 @@ export default function RelationshipsPage() {
               {explorerConnections.length === 0 && (
                 <div className="text-xs text-[var(--color-text-dim)] text-center py-8">No connections from this node</div>
               )}
-
-              {/* Add connection (Explorer) */}
-              <div className="mt-4 p-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg">
-                <h4 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Add Connection</h4>
-                <div className="flex gap-2 mb-2">
-                  {(["related", "donors", "opposes"] as const).map((rt) => (
-                    <button key={rt} onClick={() => setRelType(rt)}
-                      className={`text-[9px] px-2.5 py-1.5 rounded border transition-all ${relType === rt ? "border-current bg-current/10" : "border-[var(--color-border)] text-[var(--color-text-dim)]"}`}
-                      style={{ color: relType === rt ? REL_COLORS[rt] : undefined }}>{REL_LABELS[rt]}</button>
-                  ))}
-                </div>
-                <div className="relative">
-                  <input type="text" placeholder="Search target profile..." value={targetSearch}
-                    onChange={(e) => setTargetSearch(e.target.value)}
-                    className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-2 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
-                  {targetResults.length > 0 && (
-                    <div className="absolute top-full left-0 right-0 mt-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden z-20 max-h-40 overflow-y-auto">
-                      {targetResults.map((p) => (
-                        <button key={p.path} onClick={() => { addConnection(p.title); setTargetSearch("") }}
-                          className="w-full flex items-center gap-2 px-3 py-2 text-left hover:bg-[var(--color-bg-hover)] text-xs border-b border-[var(--color-border)] last:border-0">
-                          <span className="text-[var(--color-text)]">{p.title}</span>
-                          <span className="ml-auto text-[8px]" style={{ color: typeColor(p.type) }}>{p.type}</span>
-                        </button>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              </div>
+              <AddConnectionForm />
             </div>
           ) : (
-            /* ===== GRAPH VIEW ===== */
+            /* ===== GRAPH VIEW — zoomable ===== */
             <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4" style={{ minHeight: "60vh" }}>
-              <div className="text-[10px] text-[var(--color-text-dim)] mb-3">
-                {selected.title} — {selected.connectionCount} connections
-              </div>
-              {/* Simple visual graph using CSS positioning */}
-              <div className="relative" style={{ height: "50vh" }}>
-                {/* Center node */}
-                <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-24 h-24 rounded-full flex items-center justify-center text-center z-10"
-                  style={{ backgroundColor: `${TYPE_COLORS[selected.type]}20`, border: `2px solid ${TYPE_COLORS[selected.type]}` }}>
-                  <span className="text-[9px] font-bold text-[var(--color-text)] px-2 leading-tight">{selected.title}</span>
+              <div className="flex items-center justify-between mb-3">
+                <div className="text-[10px] text-[var(--color-text-dim)]">
+                  {selected.title} — {selected.connectionCount} connections
                 </div>
-
-                {/* Orbiting nodes */}
-                {[...selected.related.map((n, i) => ({ name: n, type: "related" as const, i })),
-                  ...selected.donors.map((n, i) => ({ name: n, type: "donors" as const, i: i + selected.related.length })),
-                  ...selected.opposes.map((n, i) => ({ name: n, type: "opposes" as const, i: i + selected.related.length + selected.donors.length })),
-                ].slice(0, 24).map((node, idx, arr) => {
-                  const angle = (idx / arr.length) * 2 * Math.PI - Math.PI / 2
-                  const radius = 38 // percentage from center
-                  const x = 50 + radius * Math.cos(angle)
-                  const y = 50 + radius * Math.sin(angle)
-                  const targetProfile = profiles.find((p) => p.title === node.name)
-
-                  return (
-                    <div key={node.name + idx}>
-                      {/* Line from center to node */}
-                      <svg className="absolute inset-0 w-full h-full pointer-events-none" style={{ zIndex: 1 }}>
-                        <line x1="50%" y1="50%" x2={`${x}%`} y2={`${y}%`}
-                          stroke={REL_COLORS[node.type]}
-                          strokeWidth={node.type === "opposes" ? 1 : 1.5}
-                          strokeDasharray={node.type === "opposes" ? "4 2" : "none"}
-                          opacity={0.4} />
-                      </svg>
-                      {/* Node */}
-                      <div
-                        className="absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 z-10 group/node"
-                        style={{ left: `${x}%`, top: `${y}%` }}>
-                        <button
-                          onClick={() => { const tp = topConnected.find((t) => t.title === node.name); if (tp) selectProfile(tp) }}
-                          className="w-full h-full rounded-full flex items-center justify-center text-center hover:scale-110 transition-transform"
-                          style={{ backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
-                          title={`${node.name} (${node.type})`}>
-                          <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3">{node.name}</span>
-                        </button>
-                        <button
-                          onClick={(e) => { e.stopPropagation(); removeConnection(node.name, node.type) }}
-                          disabled={saving}
-                          className="absolute -top-1 -right-1 w-4 h-4 rounded-full bg-[var(--color-red)] text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
-                          title={`Remove ${node.name}`}>
-                          ×
-                        </button>
-                      </div>
-                    </div>
-                  )
-                })}
+                {/* Zoom controls */}
+                <div className="flex items-center gap-1">
+                  <button onClick={() => setGraphZoom((z) => Math.max(0.3, z - 0.15))}
+                    className="w-6 h-6 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] text-sm flex items-center justify-center">-</button>
+                  <span className="text-[9px] text-[var(--color-text-dim)] w-10 text-center">{Math.round(graphZoom * 100)}%</span>
+                  <button onClick={() => setGraphZoom((z) => Math.min(3, z + 0.15))}
+                    className="w-6 h-6 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] text-sm flex items-center justify-center">+</button>
+                  <button onClick={() => { setGraphZoom(1); setGraphPan({ x: 0, y: 0 }) }}
+                    className="text-[8px] px-2 py-1 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] ml-1">Reset</button>
+                </div>
               </div>
+
+              {/* Draggable + zoomable graph container */}
+              <div ref={graphContainerRef}
+                className="overflow-hidden border border-[var(--color-border)] rounded-lg select-none"
+                style={{ maxHeight: "55vh", cursor: isDragging ? "grabbing" : "grab" }}
+                onMouseDown={handleMouseDown}
+                onMouseMove={handleMouseMove}
+                onMouseUp={handleMouseUp}
+                onMouseLeave={handleMouseUp}>
+                <div ref={graphRef} className="relative"
+                  style={{ height: `${Math.max(500, selected.connectionCount * 20)}px`, width: `${Math.max(500, selected.connectionCount * 20)}px`, transform: `scale(${graphZoom}) translate(${graphPan.x / graphZoom}px, ${graphPan.y / graphZoom}px)`, transformOrigin: "center center" }}>
+                  {/* Center node */}
+                  <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-28 h-28 rounded-full flex items-center justify-center text-center z-10"
+                    style={{ backgroundColor: `${TYPE_COLORS[selected.type]}20`, border: `2px solid ${TYPE_COLORS[selected.type]}` }}>
+                    <span className="text-[9px] font-bold text-[var(--color-text)] px-2 leading-tight">{selected.title}</span>
+                  </div>
+
+                  {/* Orbiting nodes — no limit */}
+                  {[...selected.related.map((n, i) => ({ name: n, type: "related" as const, i })),
+                    ...selected.donors.map((n, i) => ({ name: n, type: "donors" as const, i: i + selected.related.length })),
+                    ...selected.opposes.map((n, i) => ({ name: n, type: "opposes" as const, i: i + selected.related.length + selected.donors.length })),
+                  ].map((node, idx, arr) => {
+                    const angle = (idx / arr.length) * 2 * Math.PI - Math.PI / 2
+                    const radius = Math.min(38, 25 + arr.length * 0.3)
+                    const x = 50 + radius * Math.cos(angle)
+                    const y = 50 + radius * Math.sin(angle)
+
+                    return (
+                      <div key={node.name + idx}>
+                        <svg className="absolute inset-0 w-full h-full pointer-events-none" style={{ zIndex: 1 }}>
+                          <line x1="50%" y1="50%" x2={`${x}%`} y2={`${y}%`}
+                            stroke={REL_COLORS[node.type]}
+                            strokeWidth={node.type === "opposes" ? 1 : 1.5}
+                            strokeDasharray={node.type === "opposes" ? "4 2" : "none"}
+                            opacity={0.4} />
+                        </svg>
+                        <div className="absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 z-10 group/node"
+                          style={{ left: `${x}%`, top: `${y}%` }}>
+                          <button onClick={() => { const tp = topConnected.find((t) => t.title === node.name); if (tp) selectProfile(tp) }}
+                            className="w-full h-full rounded-full flex items-center justify-center text-center hover:scale-110 transition-transform"
+                            style={{ backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
+                            title={`${node.name} (${node.type})`}>
+                            <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3">{node.name}</span>
+                          </button>
+                          <button onClick={(e) => { e.stopPropagation(); removeConnection(node.name, node.type) }} disabled={saving}
+                            className="absolute -top-1 -right-1 w-4 h-4 rounded-full bg-[var(--color-red)] text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
+                            title={`Remove ${node.name}`}>×</button>
+                        </div>
+                      </div>
+                    )
+                  })}
+                </div>
+              </div>
+
               {/* Legend */}
               <div className="flex items-center justify-center gap-4 mt-2">
                 <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-6 h-0 border-t border-[#5b8dce]" /> Related</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-6 h-0 border-t border-[#22c55e]" /> Donors</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-6 h-0 border-t border-dashed border-[#ef4444]" /> Opposes</span>
+                <span className="text-[7px] text-[var(--color-text-dim)] ml-2">Scroll to zoom · Click+drag to pan</span>
               </div>
-
-              {/* Add connection (Graph) */}
-              <div className="mt-4 p-4 border border-[var(--color-border)] rounded-lg">
-                <h4 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Add Connection</h4>
-                <div className="flex gap-2 mb-2">
-                  {(["related", "donors", "opposes"] as const).map((rt) => (
-                    <button key={rt} onClick={() => setRelType(rt)}
-                      className={`text-[9px] px-2.5 py-1.5 rounded border transition-all ${relType === rt ? "border-current bg-current/10" : "border-[var(--color-border)] text-[var(--color-text-dim)]"}`}
-                      style={{ color: relType === rt ? REL_COLORS[rt] : undefined }}>{REL_LABELS[rt]}</button>
-                  ))}
-                </div>
-                <div className="relative">
-                  <input type="text" placeholder="Search target profile..." value={targetSearch}
-                    onChange={(e) => setTargetSearch(e.target.value)}
-                    className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-2 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
-                  {targetResults.length > 0 && (
-                    <div className="absolute top-full left-0 right-0 mt-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden z-20 max-h-40 overflow-y-auto">
-                      {targetResults.map((p) => (
-                        <button key={p.path} onClick={() => { addConnection(p.title); setTargetSearch("") }}
-                          className="w-full flex items-center gap-2 px-3 py-2 text-left hover:bg-[var(--color-bg-hover)] text-xs border-b border-[var(--color-border)] last:border-0">
-                          <span className="text-[var(--color-text)]">{p.title}</span>
-                          <span className="ml-auto text-[8px]" style={{ color: typeColor(p.type) }}>{p.type}</span>
-                        </button>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              </div>
+              <AddConnectionForm />
             </div>
           )}
         </div>
@@ -498,7 +591,7 @@ export default function RelationshipsPage() {
             ))}
           </div>
 
-          {/* Top 50 Most Connected */}
+          {/* Most Connected */}
           <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3">
             <h3 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Most Connected</h3>
             <div className="space-y-1 max-h-64 overflow-y-auto">
@@ -535,13 +628,13 @@ export default function RelationshipsPage() {
             </div>
           </div>
 
-          {/* Unconnected */}
+          {/* No Connections — excludes internal docs */}
           <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3">
             <h3 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">
-              No Connections ({sidebarTypeFilter === "all" ? unconnectedCount : unconnected.filter((p) => p.type === sidebarTypeFilter).length})
+              No Connections ({sidebarTypeFilter === "all" ? filteredUnconnectedCount : filteredUnconnected.filter((p) => p.type === sidebarTypeFilter).length})
             </h3>
             <div className="space-y-1 max-h-40 overflow-y-auto">
-              {unconnected
+              {filteredUnconnected
                 .filter((p) => sidebarTypeFilter === "all" || p.type === sidebarTypeFilter)
                 .slice(0, 20)
                 .map((p) => (
