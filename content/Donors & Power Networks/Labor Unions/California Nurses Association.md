@@ -44,7 +44,7 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
   - "XML"
-related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Maxine Waters]] · [[Mike Lee]] · [[Barbara Lee]] · [[Labor - Donors and Backers]] · [[Sherrod Brown]] · [[Xavier Becerra Master Profile]]"
+related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Maxine Waters]] · [[Mike Lee]] · [[Barbara Lee]] · [[Labor - Donors and Backers]] · [[Sherrod Brown]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]]"
 ---
 
 #cna #nurses #union #california #single-payer #healthcare #progressive #labor

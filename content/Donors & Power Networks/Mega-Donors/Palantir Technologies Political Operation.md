@@ -27,7 +27,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[General Dynamics]] · [[Raytheon Technologies]]"
+related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]]"
 ---
 
 #palantir #surveillance #thiel #defense #ice #data #government-contracts #revolving-door #ai #immigration

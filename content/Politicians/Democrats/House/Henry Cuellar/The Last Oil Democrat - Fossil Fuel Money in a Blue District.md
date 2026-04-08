@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Henry Cuellar Master Profile]]"
-related: "[[Economic Policy - Donors and Backers]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Healthcare - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]]"
+related: "[[Economic Policy - Donors and Backers]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Healthcare - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]] · [[Labor - Donors and Backers]]"
 ---
 
 #cuellar #oil-gas #fossil-fuel #texas #border #indictment #donor-class-override

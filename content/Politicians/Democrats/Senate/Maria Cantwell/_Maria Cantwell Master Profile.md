@@ -240,8 +240,6 @@ content-readiness:: ready
 <!-- auto:voting-record start -->
 **Key Votes**
 
-| Date | Vote | Position | Result |
-|------|------|----------|--------|
 | 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
 | 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Nay** | Cloture Motion Rejected |
 | 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |

@@ -22,7 +22,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 10147492
 total-assets: 2950
-related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]]"
+related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Alliance Defending Freedom]]"
 ---
 
 

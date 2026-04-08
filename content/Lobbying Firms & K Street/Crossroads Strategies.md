@@ -16,7 +16,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. New York"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Goldman Sachs]] · [[Fossil Fuel Bloc]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[K&L Gates]] · [[Akin Gump Strauss Hauer & Feld]] · [[Forbes Tate Partners]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Goldman Sachs]] · [[Fossil Fuel Bloc]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[K&L Gates]] · [[Akin Gump Strauss Hauer & Feld]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]]"
 sec-filings: 33
 sec-form-types:
   - "10-K"

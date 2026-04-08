@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Healthcare - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]] · [[Single-Payer Broken Promise]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Healthcare - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]]"
 ---
 
 

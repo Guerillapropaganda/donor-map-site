@@ -24,7 +24,7 @@ federal-contracts: "622714"
 federal-awards-total: 0
 federal-contracts-count: 2
 federal-grants-count: 0
-related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Ways and Means Chair and TCJA Extension]] · [[The Housing Progressive and Wall Street Tension]] · [[Subject Matter (now Avoq)]] · [[Forbes Tate Partners]] · [[Alpine Group]]"
+related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Ways and Means Chair and TCJA Extension]] · [[The Housing Progressive and Wall Street Tension]] · [[Subject Matter (now Avoq)]] · [[Forbes Tate Partners]] · [[Alpine Group]] · [[Blackstone Real Estate Political Operation]]"
 ---
 
 #blackstone #private-equity #schwarzman #wall-street #carried-interest #real-estate #trump #republican #revolving-door #class-analysis #follow-the-money #housing #rental #tax-avoidance #sovereign-wealth #lobbying
