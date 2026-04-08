@@ -129,7 +129,7 @@ content-readiness:: ready
 - 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) (VERIFIED) — USAO - Massachusetts
 - ... and 264,302 more
 
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22ADM%20-%20Archer%20Daniels%20Midland%22&sort=date) (Tier 1) (NEEDS REVIEW: Goes to search engine but no results)
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22ADM%20-%20Archer%20Daniels%20Midland%22&sort=date) (Tier 1) (VERIFIED) (NEEDS REVIEW: Goes to search engine but no results)
 <!-- auto:doj-press end -->
 
 ### Corporate Structure (GLEIF)
