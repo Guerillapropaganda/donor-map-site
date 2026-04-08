@@ -34,7 +34,7 @@ sec-form-types:
   - "N-CSRS"
   - "PART II"
   - "PX14A6G"
-related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]]"
+related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]]"
 ---
 
 #meta #facebook #tech #lobbying #privacy #section-230 #advertising #zuckerberg #antitrust #ai #surveillance #class-analysis #follow-the-money #revolving-door

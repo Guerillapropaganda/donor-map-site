@@ -14,7 +14,7 @@ politicians-funded:
   - "David Sacks"
 issues:
   - "Technology"
-related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Donor Map]]"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Donor Map]] · [[Fairshake and the Crypto Industry War]] · [[The California Corporate Democrat and Tech-Labor Tension]]"
 ---
 
 

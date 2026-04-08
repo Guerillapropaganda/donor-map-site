@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Ethnic Studies - Whose History Gets Taught]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Gun and Public Safety - Donors and Backers]] · [[The Biden Exit and Harris Installation]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Ethnic Studies - Whose History Gets Taught]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Gun and Public Safety - Donors and Backers]] · [[The Biden Exit and Harris Installation]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]]"
 ---
 
 

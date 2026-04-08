@@ -7,7 +7,7 @@ source-tier: null
 parent: null
 category: centrist
 platform: substack
-related: "[[Bari Weiss]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Chris Cuomo]] · [[Megyn Kelly]]"
+related: "[[Bari Weiss]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Chris Cuomo]] · [[Megyn Kelly]] · [[Lex Fridman]] · [[Jordan Peterson]]"
 ---
 
 #media-pipeline #centrist #media-network #heterodox #bari-weiss #free-press #tech-money

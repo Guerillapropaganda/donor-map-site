@@ -28,7 +28,7 @@ subawards-received: 50
 subawards-received-amount: 2946802998
 top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "561990"
-related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]]"
+related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]]"
 ---
 
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door

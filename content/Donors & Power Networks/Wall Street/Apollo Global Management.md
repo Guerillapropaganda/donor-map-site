@@ -53,7 +53,7 @@ sec-form-types:
   - "S-8"
   - "S-8 POS"
   - "SCHEDULE 13G/A"
-related: "[[Mike Lee]] · [[The Education Committee and For-Profit College Pipeline]] · [[Patrick McHenry Master Profile]] · [[Subject Matter (now Avoq)]] · [[Peck Madigan Jones (now Tiber Creek Group)]]"
+related: "[[Mike Lee]] · [[The Education Committee and For-Profit College Pipeline]] · [[Patrick McHenry Master Profile]] · [[Subject Matter (now Avoq)]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]]"
 ---
 
 #apollo #private-equity #wall-street #university-of-phoenix #for-profit-education #healthcare #insurance

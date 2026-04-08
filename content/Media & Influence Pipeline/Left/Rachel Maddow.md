@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Pod Save America]] · [[Sam Seder]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Briahna Joy Gray]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[John Oliver]]"
+related: "[[Pod Save America]] · [[Sam Seder]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Briahna Joy Gray]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]]"
 opposes: "[[Laura Ingraham]]"
 donors: "[]"
 ---

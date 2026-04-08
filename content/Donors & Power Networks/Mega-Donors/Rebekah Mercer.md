@@ -18,7 +18,7 @@ sec-form-types:
   - "D"
   - "EX-10.9"
   - "PX14A6G"
-related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]]"
+related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[Tucker Carlson]] · [[Ben Shapiro]]"
 ---
 
 

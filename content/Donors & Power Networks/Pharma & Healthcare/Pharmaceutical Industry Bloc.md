@@ -11,7 +11,7 @@ issues:
   - "Healthcare"
   - "Social Safety Net"
 federal-contracts: "5976"
-related: "[[New Hampshire 2026 Senate Race]] · [[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[Patty Murray]]"
+related: "[[New Hampshire 2026 Senate Race]] · [[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[Patty Murray]] · [[Bob Casey]]"
 ---
 
 #pharma #industry-bloc #lobbying #drug-pricing #patent #medicare #aca

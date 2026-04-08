@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: left
 platform: podcast
-related: "[[Open Society Foundations]] · [[Democratic National Committee]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Fox News - Murdoch Media Empire]] · [[Sean Hannity]]"
+related: "[[Open Society Foundations]] · [[Democratic National Committee]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Fox News - Murdoch Media Empire]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]]"
 ---
 
 #media-pipeline #left #obama-revolving-door #pod-save-america #soros-investment #democratic-establishment #partisan-media

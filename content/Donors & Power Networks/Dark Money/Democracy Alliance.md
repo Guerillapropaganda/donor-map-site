@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$116,675"
-related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]]"
+related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]] · [[Tim Walz]] · [[Barack Obama Master Profile]]"
 ---
 
 #donor-consortium #dark-money #democrat #secretive-giving #class-analysis #donor

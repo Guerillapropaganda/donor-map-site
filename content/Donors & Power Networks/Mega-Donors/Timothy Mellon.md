@@ -15,7 +15,7 @@ issues:
   - "Immigration"
 lobbying-spend: 1860000
 lobbying-filings: 51
-related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Operation Lone Star and the Border Militarization Spending Machine]]"
+related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Operation Lone Star and the Border Militarization Spending Machine]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]]"
 ---
 
 

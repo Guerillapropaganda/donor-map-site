@@ -27,7 +27,7 @@ federal-awards-total: 41140658
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
-related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]]"
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing

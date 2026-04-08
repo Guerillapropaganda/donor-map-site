@@ -49,7 +49,7 @@ doj-components:
 nonprofit-status: "501(c)(3)"
 total-revenue: 3842
 total-assets: 92607
-related: "[[Intra-Republican Contradiction Map]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[The 2022 Governor Race and the Lauder Super PAC]] · [[Jared Kushner Master Profile]] · [[Abraham Accords as Business Development]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[The 2022 Governor Race and the Lauder Super PAC]] · [[Jared Kushner Master Profile]] · [[Abraham Accords as Business Development]] · [[Elise Stefanik]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]]"
 ---
 
 

@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]]"
+related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]]"
 ---
 
 #2028-election #democratic-primary #donor-networks #harris #newsom #establishment-split
