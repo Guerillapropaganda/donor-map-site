@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Lex Fridman]] · [[Chris Cuomo]] · [[Bari Weiss]]"
+related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Lex Fridman]] · [[Chris Cuomo]] · [[Bari Weiss]] · [[The Free Press]]"
 ---
 
 #media-pipeline #centrist #independence-theater #revolving-door #fox-news #conservative-media

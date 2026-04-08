@@ -21,7 +21,7 @@ top-donors:
   - "Apollo Global Management"
 total-received: "$6,801,272"
 fec-candidate-id: "S0UT00165"
-donors: "[[Eric Schmidt]] · [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
+donors: "[[Eric Schmidt]] · [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch network]]"
 related: "[[John Barrasso]] · [[Chip Roy Master Profile]] · [[Apollo Global Management]]"
 ---
 

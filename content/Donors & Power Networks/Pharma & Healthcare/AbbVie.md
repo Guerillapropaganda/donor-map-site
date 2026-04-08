@@ -27,7 +27,7 @@ total-assets: 217738010
 federal-awards-total: 378082
 federal-contracts-count: 20
 federal-grants-count: 0
-related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie Master Profile]] · [[Merck]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie Master Profile]] · [[Merck]] · [[Eli Lilly]]"
 ---
 
 #abbvie #pharma #humira #drug-pricing #patent #lobbying
