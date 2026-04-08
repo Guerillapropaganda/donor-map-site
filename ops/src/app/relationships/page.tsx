@@ -53,6 +53,7 @@ export default function RelationshipsPage() {
   // Add connection state
   const [targetSearch, setTargetSearch] = useState("")
   const [relType, setRelType] = useState<"related" | "donors" | "opposes">("related")
+  const [targetTypeFilter, setTargetTypeFilter] = useState<string>("all")
   const [saving, setSaving] = useState(false)
   const [toast, setToast] = useState<string | null>(null)
   const [sidebarTypeFilter, setSidebarTypeFilter] = useState<string>("all")
@@ -126,7 +127,10 @@ export default function RelationshipsPage() {
     : []
 
   const targetResults = targetSearch.length >= 2
-    ? profiles.filter((p) => p.title.toLowerCase().includes(targetSearch.toLowerCase()) && p.title !== selected?.title).slice(0, 8)
+    ? profiles
+        .filter((p) => p.title.toLowerCase().includes(targetSearch.toLowerCase()) && p.title !== selected?.title)
+        .filter((p) => targetTypeFilter === "all" || p.type === targetTypeFilter)
+        .slice(0, 12)
     : []
 
   const selectProfile = (p: ConnectedProfile | Profile) => {
@@ -235,28 +239,59 @@ export default function RelationshipsPage() {
   const filteredUnconnected = unconnected.filter((p) => !isInternalDoc(p))
   const filteredUnconnectedCount = filteredUnconnected.length
 
+  // Entity type filter options for Add Connection
+  const ENTITY_FILTERS = [
+    { key: "all", label: "All", color: "#7a7a86" },
+    { key: "politician", label: "Politicians", color: "#5b8dce" },
+    { key: "donor", label: "Donors", color: "#22c55e" },
+    { key: "corporation", label: "Corps", color: "#22c55e" },
+    { key: "think-tank", label: "Think Tanks", color: "#a855f7" },
+    { key: "lobbying-firm", label: "K Street", color: "#f59e0b" },
+    { key: "media-profile", label: "Media", color: "#ef4444" },
+    { key: "story", label: "Stories", color: "#ec4899" },
+  ]
+
   // Add Connection form (reusable)
   const AddConnectionForm = () => (
     <div className="mt-4 p-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg">
       <h4 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Add Connection</h4>
+
+      {/* Relationship type */}
       <div className="flex gap-2 mb-2">
+        <span className="text-[8px] text-[var(--color-text-dim)] py-1.5">Type:</span>
         {(["related", "donors", "opposes"] as const).map((rt) => (
           <button key={rt} onClick={() => setRelType(rt)}
             className={`text-[9px] px-2.5 py-1.5 rounded border transition-all ${relType === rt ? "border-current bg-current/10" : "border-[var(--color-border)] text-[var(--color-text-dim)]"}`}
             style={{ color: relType === rt ? REL_COLORS[rt] : undefined }}>{REL_LABELS[rt]}</button>
         ))}
       </div>
+
+      {/* Entity type filter */}
+      <div className="flex flex-wrap gap-1 mb-2">
+        <span className="text-[8px] text-[var(--color-text-dim)] py-0.5">Show:</span>
+        {ENTITY_FILTERS.map((t) => (
+          <button key={t.key} onClick={() => setTargetTypeFilter(t.key)}
+            className={`text-[7px] px-1.5 py-0.5 rounded transition-all ${targetTypeFilter === t.key ? "font-bold" : "text-[var(--color-text-dim)]"}`}
+            style={{ color: targetTypeFilter === t.key ? t.color : undefined, backgroundColor: targetTypeFilter === t.key ? `${t.color}15` : undefined }}>
+            {t.label}
+          </button>
+        ))}
+      </div>
+
+      {/* Search */}
       <div className="relative">
-        <input type="text" placeholder="Search target profile..." value={targetSearch}
+        <input type="text" placeholder={`Search ${targetTypeFilter === "all" ? "all profiles" : ENTITY_FILTERS.find((f) => f.key === targetTypeFilter)?.label || "profiles"}...`}
+          value={targetSearch}
           onChange={(e) => setTargetSearch(e.target.value)}
           className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-2 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
         {targetResults.length > 0 && (
-          <div className="absolute top-full left-0 right-0 mt-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden z-20 max-h-40 overflow-y-auto">
+          <div className="absolute top-full left-0 right-0 mt-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden z-20 max-h-48 overflow-y-auto">
             {targetResults.map((p) => (
               <button key={p.path} onClick={() => { addConnection(p.title); setTargetSearch("") }}
                 className="w-full flex items-center gap-2 px-3 py-2 text-left hover:bg-[var(--color-bg-hover)] text-xs border-b border-[var(--color-border)] last:border-0">
-                <span className="text-[var(--color-text)]">{p.title}</span>
-                <span className="ml-auto text-[8px]" style={{ color: typeColor(p.type) }}>{p.type}</span>
+                <span className="w-1.5 h-1.5 rounded-full flex-shrink-0" style={{ backgroundColor: typeColor(p.type) }} />
+                <span className="text-[var(--color-text)] flex-1">{p.title}</span>
+                <span className="text-[8px] px-1 py-0.5 rounded" style={{ color: typeColor(p.type), backgroundColor: `${typeColor(p.type)}15` }}>{p.type}</span>
               </button>
             ))}
           </div>
