@@ -148,6 +148,34 @@ export default function RelationshipsPage() {
     setExplorerPath([])
   }
 
+  // Change connection type (remove old, add new)
+  const changeConnectionType = async (targetTitle: string, fromType: "related" | "donors" | "opposes", toType: "related" | "donors" | "opposes") => {
+    if (!selected || fromType === toType) return
+    setSaving(true)
+    try {
+      // Remove old
+      await fetch("/api/relationships", {
+        method: "DELETE",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ sourcePath: selected.path, targetTitle, relationshipType: fromType }),
+      })
+      // Add new
+      await fetch("/api/relationships", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ sourcePath: selected.path, targetTitle, relationshipType: toType }),
+      })
+      showToast(`Changed: ${targetTitle} → ${REL_LABELS[toType]}`)
+      const connData = await fetch("/api/connections").then((r) => r.json())
+      setConnections(connData.connections || [])
+      setTopConnected(connData.topConnected || [])
+      setBreakdown(connData.breakdown || breakdown)
+      const updated = (connData.topConnected as ConnectedProfile[]).find((t) => t.title === selected.title)
+      if (updated) setSelected(updated)
+    } catch { showToast("Failed to change type") }
+    finally { setSaving(false) }
+  }
+
   const removeConnection = async (targetTitle: string, rt: "related" | "donors" | "opposes") => {
     if (!selected) return
     setSaving(true)
@@ -348,6 +376,17 @@ export default function RelationshipsPage() {
                                 {shared.length} shared
                               </span>
                             )}
+                            {/* Change type dropdown */}
+                            <select
+                              value={rt}
+                              onChange={(e) => changeConnectionType(name, rt, e.target.value as "related" | "donors" | "opposes")}
+                              disabled={saving}
+                              className="text-[8px] px-1 py-0.5 rounded border border-[var(--color-border)] bg-[var(--color-bg)] opacity-0 group-hover:opacity-100 transition-all focus:opacity-100"
+                              style={{ color: REL_COLORS[rt] }}>
+                              <option value="related" style={{ color: "#5b8dce" }}>Related</option>
+                              <option value="donors" style={{ color: "#22c55e" }}>Funded By</option>
+                              <option value="opposes" style={{ color: "#ef4444" }}>Opposes</option>
+                            </select>
                             <button onClick={() => removeConnection(name, rt)} disabled={saving}
                               className="text-[8px] px-1.5 py-0.5 rounded text-[var(--color-red)]/60 hover:text-[var(--color-red)] hover:bg-[var(--color-red)]/10 opacity-0 group-hover:opacity-100 transition-all">
                               Remove

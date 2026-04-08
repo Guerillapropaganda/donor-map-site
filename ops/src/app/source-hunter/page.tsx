@@ -230,7 +230,7 @@ export default function SourceHunterPage() {
                       <div className="flex-1 min-w-0">
                         <p className="text-[11px] font-bold text-[var(--color-text)] mb-0.5">{r.title}</p>
                         <p className="text-[9px] text-[var(--color-text-dim)] mb-1">{r.description}</p>
-                        <p className="text-[9px] text-[var(--color-steel)] truncate">{r.url}</p>
+                        <a href={r.url} target="_blank" rel="noopener noreferrer" className="text-[9px] text-[var(--color-steel)] hover:underline truncate block">{r.url}</a>
                       </div>
                       <div className="flex gap-1.5 flex-shrink-0 opacity-0 group-hover:opacity-100 transition-opacity">
                         <a

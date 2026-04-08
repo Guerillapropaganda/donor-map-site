@@ -127,23 +127,26 @@ export function ProfileDetail({ profile, onClose }: ProfileDetailProps) {
               </h3>
               <div className="space-y-1 max-h-64 overflow-y-auto">
                 {data.urls.map((u, i) => (
-                  <div
+                  <a
                     key={i}
-                    className={`flex items-start gap-2 text-[10px] p-1.5 rounded ${
-                      u.archived ? "opacity-50 line-through" : ""
+                    href={u.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={`flex items-start gap-2 text-[10px] p-1.5 rounded hover:bg-[var(--color-bg-hover)] transition-colors ${
+                      u.archived ? "opacity-50" : ""
                     }`}
                   >
                     <span className={`mt-0.5 w-1.5 h-1.5 rounded-full flex-shrink-0 ${
                       u.archived ? "bg-[var(--color-red)]" : "bg-[var(--color-green)]"
                     }`} />
                     <div className="min-w-0">
-                      <p className="text-[var(--color-text)] truncate">{u.label}</p>
+                      <p className={`text-[var(--color-text)] hover:text-[var(--color-steel)] truncate ${u.archived ? "line-through" : ""}`}>{u.label}</p>
                       <p className="text-[var(--color-text-dim)] truncate">{u.url}</p>
                     </div>
                     {u.tier && (
                       <span className="ml-auto flex-shrink-0 text-[8px] text-[var(--color-text-dim)]">T{u.tier}</span>
                     )}
-                  </div>
+                  </a>
                 ))}
               </div>
             </div>
