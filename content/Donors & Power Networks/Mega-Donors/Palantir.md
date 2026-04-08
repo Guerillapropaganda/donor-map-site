@@ -63,7 +63,7 @@ Palantir operates two core platforms: Gotham (government/intelligence) and Found
 
 The company generated $2.87 billion in revenue in 2024, with approximately 55% coming from U.S. government contracts. CEO Alex Karp holds the public-facing role while Thiel remains chairman and the company's largest individual shareholder. Founders Fund was Palantir's first institutional investor and the firm's political network — Thiel, JD Vance, David Sacks — now controls the policy architecture that awards Palantir's contracts.
 
-- [OpenSecrets: Palantir Technologies summary](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1)
+- [OpenSecrets: Palantir Technologies summary](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1) (VERIFIED)
 
 ---
 
@@ -128,8 +128,8 @@ Total political spending: $4,943,324
 > [!money]
 > Two-thirds of Palantir's lobbyists previously held government jobs. This revolving door isn't incidental — it's the business model. Former intelligence officials, Pentagon procurement staff, and congressional defense aides cycle into Palantir's lobbying operation, leveraging the relationships and institutional knowledge they built on the public payroll to sell surveillance technology back to their former employers. The 2013 lobbying peak ($796K) coincides precisely with the year Palantir launched its DCGS-A procurement fight — the lawsuit that broke open Army contracting for tech companies and ultimately led to the $10B enterprise agreement in 2025. The pre-IPO quiet period (2019: $180K) and the post-IPO explosion (2023: $5.09M) confirm the pattern: lobbying scaled with Palantir's political power, not just its revenue.
 
-- [OpenSecrets: Palantir Technologies PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/palantir-technologies/C00498691/candidate-recipients/2024) (Tier 1)
-- [Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Palantir Technologies PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/palantir-technologies/C00498691/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- ~~[Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.gov/filings/public/filing/search/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate LDA Filings: Palantir Technologies lobbyists — revolving door data](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
 ---
@@ -160,11 +160,11 @@ The return on Palantir's political investment is measured in contract ceilings, 
 
 **ICE surveillance infrastructure:** Palantir's ICE contracts have built one of the most comprehensive immigration surveillance systems in U.S. history. ImmigrationOS integrates data from passports, Social Security numbers, IRS records, license plate readers, cell phone tracking, and facial recognition databases into a single platform that provides ICE agents with near-real-time tracking capability. Total ICE spending on Palantir systems exceeds $287 million.
 
-- [CNBC: Palantir lands $10 billion Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)
-- [DefenseScoop: DOD raises Palantir Maven contract to $1.3B](https://defensescoop.com/2025/05/23/dod-palantir-maven-smart-system-contract-increase/) (Tier 2)
-- [State of Surveillance: Palantir $10B+ government surveillance ecosystem](https://stateofsurveillance.org/articles/surveillance/palantir-government-surveillance-ecosystem-billions/) (Tier 2)
-- [State of Surveillance: Palantir $287M ICE immigration tracking](https://stateofsurveillance.org/articles/surveillance/palantir-immigration-machine-287-million/) (Tier 2)
-- [USAspending.gov: Palantir ICE contract record](https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730) (Tier 1)
+- [CNBC: Palantir lands $10 billion Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2) (VERIFIED)
+- [DefenseScoop: DOD raises Palantir Maven contract to $1.3B](https://defensescoop.com/2025/05/23/dod-palantir-maven-smart-system-contract-increase/) (Tier 2) (VERIFIED)
+- [State of Surveillance: Palantir $10B+ government surveillance ecosystem](https://stateofsurveillance.org/articles/surveillance/palantir-government-surveillance-ecosystem-billions/) (Tier 2) (VERIFIED)
+- [State of Surveillance: Palantir $287M ICE immigration tracking](https://stateofsurveillance.org/articles/surveillance/palantir-immigration-machine-287-million/) (Tier 2) (VERIFIED)
+- [USAspending.gov: Palantir ICE contract record](https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730) (Tier 1) (VERIFIED)
 ---
 
 ### Israel / IDF Contracts
@@ -187,8 +187,8 @@ Palantir has neither confirmed nor denied specific operational roles in these sy
 > [!contradiction]
 > Palantir markets its military products as tools for "responsible target management" and has an internal ethics review process. CEO Alex Karp has explicitly defended selling to democratic militaries as a moral obligation. Simultaneously, Palantir's technology is implicated in targeting systems with documented double-digit error rates, deployed against a civilian population in one of the most densely inhabited territories on Earth. The ethical review process and the contract are not in contradiction — the review approved the contract.
 
-- [The Nation: How US Intelligence and an American Company Feed Israel's Killing Machine in Gaza](https://www.thenation.com/article/world/nsa-palantir-israel-gaza-ai/) (Tier 2)
-- [Brennan Center: AFSC Investigate — Palantir Technologies company profile](https://investigate.afsc.org/company/palantir) (Tier 3)
+- [The Nation: How US Intelligence and an American Company Feed Israel's Killing Machine in Gaza](https://www.thenation.com/article/world/nsa-palantir-israel-gaza-ai/) (Tier 2) (VERIFIED)
+- [Brennan Center: AFSC Investigate — Palantir Technologies company profile](https://investigate.afsc.org/company/palantir) (Tier 3) (VERIFIED)
 
 ---
 
@@ -207,8 +207,8 @@ The NYPD licensed Palantir software to analyze arrest records, license plate rea
 > [!contradiction]
 > The same Palantir that markets itself as a "Silicon Valley disruptor" challenging the defense establishment built its law enforcement client base through charitable subsidies — giving software away to police departments to create institutional dependencies. This is not a market disruption strategy; it is the oldest possible form of vendor lock-in. The NYPD data dispute confirms the playbook: donate access, integrate data, then claim ownership of the integrated product when the customer tries to leave.
 
-- [Brennan Center: Palantir Contract Dispute Exposes NYPD's Lack of Transparency](https://www.brennancenter.org/our-work/analysis-opinion/palantir-contract-dispute-exposes-nypds-lack-transparency) (Tier 2)
-- [BuzzFeed News: Documents Show How The LAPD Was Trained To Use Palantir](https://www.buzzfeednews.com/article/carolinehaskins1/training-documents-palantir-lapd) (Tier 2)
+- [Brennan Center: Palantir Contract Dispute Exposes NYPD's Lack of Transparency](https://www.brennancenter.org/our-work/analysis-opinion/palantir-contract-dispute-exposes-nypds-lack-transparency) (Tier 2) (VERIFIED)
+- [BuzzFeed News: Documents Show How The LAPD Was Trained To Use Palantir](https://www.buzzfeednews.com/article/carolinehaskins1/training-documents-palantir-lapd) (Tier 2) (VERIFIED)
 
 ---
 
@@ -230,7 +230,7 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 - [Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Palantir Technologies PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/palantir-technologies/C00498691/candidate-recipients/2024) (Tier 1)
 - [Senate LDA Filings: Palantir Technologies lobbyists — revolving door](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA API: Palantir Technologies lobbying filings 2006–2025 (489 filings)](https://lda.gov/filings/public/filing/search/?client_name=PALANTIR+TECHNOLOGIES) (Tier 1)
+- ~~[Senate LDA API: Palantir Technologies lobbying filings 2006–2025 (489 filings)](https://lda.gov/filings/public/filing/search/?client_name=PALANTIR+TECHNOLOGIES)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [USAspending.gov: Palantir ICE contract record](https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730) (Tier 1)
 - [CNBC: Palantir lands $10 billion Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)
 - [DefenseScoop: DOD raises Palantir Maven contract to $1.3B](https://defensescoop.com/2025/05/23/dod-palantir-maven-smart-system-contract-increase/) (Tier 2)
@@ -261,7 +261,7 @@ research-status:: developed — Full OpenSecrets political spending, lobbying, a
 - Williams v. Anthropic PBC (2026) — District Court, S.D. New York
 - Danielle Lynne Garfinkel v. RealClearHoldings, LLC (2026) — District Court, C.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Palantir%20Technologies%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Palantir%20Technologies%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Vehicle Safety (NHTSA)
@@ -279,7 +279,7 @@ research-status:: developed — Full OpenSecrets political spending, lobbying, a
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Palantir%20Technologies) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Palantir%20Technologies) (Tier 1) (NEEDS REVIEW: Currently shows search results with no results; interesting that this was tagged though investigate)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Register Activity
@@ -291,15 +291,15 @@ research-status:: developed — Full OpenSecrets political spending, lobbying, a
 | Agencies | Antitrust Division, Federal Communications Commission, Federal Trade Commission, Justice Department, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected](https://www.federalregister.gov/documents/2021/05/25/2021-10968/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-approving-a-proposed-rule-change-as) (2021-05-25) — Securities and Exchange Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/24/2021-03751/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2021-02-24) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/18/2021-03183/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2021-02-18) — Federal Trade Commission
-- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected](https://www.federalregister.gov/documents/2020/12/23/2020-28319/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine) (2020-12-23) — Securities and Exchange Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/10/16/2020-22944/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2020-10-16) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/10/16/2020-22943/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2020-10-16) — Federal Trade Commission
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected](https://www.federalregister.gov/documents/2021/05/25/2021-10968/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-approving-a-proposed-rule-change-as) (VERIFIED: Redirects to https://unblock.federalregister.gov/ ; has a scraper defense) (2021-05-25) — Securities and Exchange Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/24/2021-03751/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED: Redirects to https://unblock.federalregister.gov/) (2021-02-24) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/18/2021-03183/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED: Redirects to https://unblock.federalregister.gov/) (2021-02-18) — Federal Trade Commission
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected](https://www.federalregister.gov/documents/2020/12/23/2020-28319/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine) (VERIFIED: Redirects to https://unblock.federalregister.gov/) (2020-12-23) — Securities and Exchange Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/10/16/2020-22944/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED: Redirects to https://unblock.federalregister.gov/) (2020-10-16) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/10/16/2020-22943/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED: Redirects to https://unblock.federalregister.gov/) (2020-10-16) — Federal Trade Commission
 - ... and 2 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Palantir%20Technologies%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Palantir%20Technologies%22) (Tier 1) (VERIFIED: Redirects to https://unblock.federalregister.gov/)
 <!-- auto:federal-register end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -352,14 +352,14 @@ research-status:: developed — Full OpenSecrets political spending, lobbying, a
 | Other Management Consulting Services (541618) | $39.5M |
 | Ammunition (except Small Arms) Manufacturing (332993) | $1K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300UVN46B3BBDHO85](https://search.gleif.org/#/record/549300UVN46B3BBDHO85) |
+| LEI | [549300UVN46B3BBDHO85](https://search.gleif.org/#/record/549300UVN46B3BBDHO85) (VERIFIED) |
 | Legal Name | PALANTIR TECHNOLOGIES INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -367,5 +367,5 @@ research-status:: developed — Full OpenSecrets political spending, lobbying, a
 | Registration | ISSUED |
 | Last Updated | 2026-02-18T10:09:39Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- ~~[Source: GLEIF](https://www.gleif.org/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:gleif-lei end -->
