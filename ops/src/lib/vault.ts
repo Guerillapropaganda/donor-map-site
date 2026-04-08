@@ -19,6 +19,7 @@ export interface Profile {
   donors?: string
   folder: string
   subfolder: string
+  completeness?: number
 }
 
 // Parse frontmatter from markdown content
@@ -50,6 +51,44 @@ export function parseProfile(path: string, content: string): Profile {
     folder,
     subfolder,
   }
+}
+
+// Profile completeness score (0-100)
+// Scored on 5 dimensions: frontmatter, sources, connections, content, enrichment
+export function completenessScore(profile: Profile, content: string): number {
+  let score = 0
+
+  // 1. Frontmatter (20 points) — has key metadata fields
+  const hasFm = [
+    !!profile.type && profile.type !== "unknown",
+    !!profile.lastUpdated,
+    !!profile.sourceTier,
+    profile.contentReadiness !== "raw",
+  ]
+  score += Math.round((hasFm.filter(Boolean).length / hasFm.length) * 20)
+
+  // 2. Sources (20 points) — has Tier 1 sources
+  const sources = countSources(content)
+  if (sources.tier1 >= 3) score += 20
+  else if (sources.tier1 >= 1) score += 15
+  else if (sources.total >= 1) score += 5
+
+  // 3. Connections (20 points) — has related/donors/opposes
+  const hasRelated = !!(profile.related || content.match(/^related:\s*.+/m))
+  const hasDonors = !!(profile.donors || content.match(/^donors:\s*.+/m))
+  if (hasRelated && hasDonors) score += 20
+  else if (hasRelated || hasDonors) score += 10
+
+  // 4. Content (20 points) — has editorial body text
+  const bodyLength = content.split("---").slice(2).join("---").trim().length
+  if (bodyLength > 2000) score += 20
+  else if (bodyLength > 500) score += 15
+  else if (bodyLength > 100) score += 5
+
+  // 5. Enrichment (20 points) — has been enriched by pipelines
+  if (profile.lastEnriched) score += 20
+
+  return score
 }
 
 // Count sources in markdown content

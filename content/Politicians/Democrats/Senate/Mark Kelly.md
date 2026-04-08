@@ -155,3 +155,10 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Mark%20Kelly%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

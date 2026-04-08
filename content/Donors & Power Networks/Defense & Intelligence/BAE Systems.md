@@ -11,12 +11,12 @@ politicians-funded:
   - "Jeanne Shaheen"
 issues:
   - "Defense & Military"
-ein: 742624710
+ein: "742624710"
 annual-revenue: "$418.7M"
 net-assets: "$54.6M"
 tax-year: "2022"
 court-cases: 1227
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, D. Hawaii"
   - "District Court, D. Maryland"
@@ -36,6 +36,9 @@ nhtsa-complaints: 0
 lei: "8SVCSVKSGDWMW2QHOH83"
 lei-jurisdiction: "GB"
 related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]]"
+nonprofit-status: "501(c)(9)"
+total-revenue: 534243661
+total-assets: 33156493
 ---
 
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia
@@ -211,3 +214,28 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 742624710 |
+| Tax-Exempt Status | 501(c)(9) |
+| Total Revenue | $534.2M |
+| Total Assets | $33.2M |
+| NTEE Code | Y43 |
+| IRS Ruling Date | 1993-08-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
+
+**View 990 filings:**
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2019)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2018)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742624710) (Tier 1)
+<!-- auto:nonprofit-990 end -->

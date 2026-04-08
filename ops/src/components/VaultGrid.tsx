@@ -29,7 +29,7 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
   const [search, setSearch] = useState("")
   const [typeFilter, setTypeFilter] = useState<string>("all")
   const [readinessFilter, setReadinessFilter] = useState<string>("all")
-  const [sortBy, setSortBy] = useState<"name" | "readiness" | "updated">("name")
+  const [sortBy, setSortBy] = useState<"name" | "readiness" | "updated" | "completeness">("name")
 
   const types = useMemo(() => {
     const t = new Set(profiles.map((p) => p.type))
@@ -59,6 +59,9 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
       }
       if (sortBy === "updated") {
         return (b.lastUpdated || "").localeCompare(a.lastUpdated || "")
+      }
+      if (sortBy === "completeness") {
+        return (b.completeness || 0) - (a.completeness || 0)
       }
       return 0
     })
@@ -132,6 +135,7 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
           <option value="name">Sort: Name</option>
           <option value="readiness">Sort: Readiness</option>
           <option value="updated">Sort: Last Updated</option>
+          <option value="completeness">Sort: Completeness</option>
         </select>
       </div>
 
@@ -152,17 +156,33 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
                 : "border-[var(--color-border)]"
             }`}
           >
-            {/* Readiness badge */}
-            <span
-              className="absolute top-2 right-2 text-[7px] uppercase font-bold px-1.5 py-0.5 rounded"
-              style={{
-                color: readinessColor(profile.contentReadiness),
-                backgroundColor: `${readinessColor(profile.contentReadiness)}15`,
-                border: `1px solid ${readinessColor(profile.contentReadiness)}30`,
-              }}
-            >
-              {profile.contentReadiness}
-            </span>
+            {/* Completeness ring + readiness badge */}
+            <div className="absolute top-2 right-2 flex items-center gap-1.5">
+              {profile.completeness !== undefined && (
+                <div className="relative w-6 h-6" title={`${profile.completeness}% complete`}>
+                  <svg className="w-6 h-6 -rotate-90" viewBox="0 0 24 24">
+                    <circle cx="12" cy="12" r="10" fill="none" stroke="var(--color-border)" strokeWidth="2" />
+                    <circle cx="12" cy="12" r="10" fill="none"
+                      stroke={profile.completeness >= 80 ? "#22c55e" : profile.completeness >= 50 ? "#5b8dce" : profile.completeness >= 25 ? "#f59e0b" : "#ef4444"}
+                      strokeWidth="2" strokeLinecap="round"
+                      strokeDasharray={`${(profile.completeness / 100) * 62.83} 62.83`} />
+                  </svg>
+                  <span className="absolute inset-0 flex items-center justify-center text-[6px] font-bold text-[var(--color-text-dim)]">
+                    {profile.completeness}
+                  </span>
+                </div>
+              )}
+              <span
+                className="text-[7px] uppercase font-bold px-1.5 py-0.5 rounded"
+                style={{
+                  color: readinessColor(profile.contentReadiness),
+                  backgroundColor: `${readinessColor(profile.contentReadiness)}15`,
+                  border: `1px solid ${readinessColor(profile.contentReadiness)}30`,
+                }}
+              >
+                {profile.contentReadiness}
+              </span>
+            </div>
 
             {/* Type badge */}
             <span

@@ -33,6 +33,8 @@ stock-trade-tickers:
   - "UN"
   - "USB"
 donors: "[[Jeff Bezos]]"
+total-received: "$3,798,925"
+fec-candidate-id: "S2WA00189"
 ---
 
 #master-profile #democrat #senate #washington #defense #boeing #pharma #appropriations #follow-the-money #class-analysis
@@ -208,3 +210,38 @@ content-readiness:: ready
 
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $3,798,925 |
+| Individual Contributions | $1,949,645 |
+| PAC Contributions | $453,700 |
+| Cash on Hand | 1428684.43 |
+| IE Support (Super PAC) | $6,178,334 |
+| IE Opposition (Super PAC) | $28,406,716 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $3,798,925 | $1,949,645 | $453,700 |
+| 2022 | $20,425,812 | $9,945,807 | $3,465,828 |
+| 2016 | $14,108,045 | $7,243,535 | $3,885,175 |
+| 2010 | $17,124,667 | $8,075,164 | $3,589,308 |
+| 2004 | $13,022,435 | $0 | $2,100,157 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| EVERGREEN PRINCIPLES PAC | $0 | $8,581,846 |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $0 | $7,901,065 |
+| CROSSROADS GRASSROOTS POLICY STRATEGIES | $0 | $7,116,109 |
+| WOMEN VOTE! | $4,344,848 | $0 |
+| ESAFUND | $0 | $1,954,200 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1)
+<!-- auto:fec-politician end -->

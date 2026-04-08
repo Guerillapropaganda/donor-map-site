@@ -185,3 +185,19 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Real%20Estate%20Industry%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $15,000 |
+| Contributions | 1 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $15,000 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Real%20Estate%20Industry) (Tier 1)
+<!-- auto:fec-donor end -->

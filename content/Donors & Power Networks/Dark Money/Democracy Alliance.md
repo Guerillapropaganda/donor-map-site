@@ -8,6 +8,7 @@ parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
+  - "Tim Walz"
   - "Tammy Duckworth"
   - "Lindsey Graham"
 issues:

@@ -296,3 +296,23 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Manhattan%20Institute%20for%20Policy%20Research%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 122 |
+| Form Types | 10-K, 10-K/A, 10-Q, 20-F, 20-F/A, 424B3, 424B4, 425 +19 more |
+| CIK | 724445 |
+| Ticker | BZYR |
+
+**Notable filings:**
+
+- 2026-01-13 — **10-Q**: [10-Q](https://www.sec.gov/Archives/edgar/data/724445/000110465926003337/0001104659-26-003337-index.htm)
+- 2025-10-14 — **10-Q**: [10-Q](https://www.sec.gov/Archives/edgar/data/724445/000110465925099284/0001104659-25-099284-index.htm)
+- 2025-09-11 — **8-K/A**: [FORM 8-K/A](https://www.sec.gov/Archives/edgar/data/724445/000141057825002050/0001410578-25-002050-index.htm)
+- 2025-07-24 — **8-K**: [FORM 8-K](https://www.sec.gov/Archives/edgar/data/724445/000110465925070376/0001104659-25-070376-index.htm)
+- 2025-07-15 — **10-Q**: [10-Q](https://www.sec.gov/Archives/edgar/data/724445/000155837025009242/0001558370-25-009242-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Manhattan%20Institute%20for%20Policy%20Research%22) (Tier 1)
+<!-- auto:sec-edgar end -->

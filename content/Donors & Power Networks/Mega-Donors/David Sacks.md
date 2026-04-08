@@ -14,7 +14,7 @@ politicians-funded:
   - "Jon Ossoff"
 issues:
   - "Technology"
-ein: 746417564
+ein: "746417564"
 annual-revenue: "$22K"
 net-assets: "$634K"
 tax-year: "2023"
@@ -499,3 +499,28 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22David%20Sacks%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 746417564 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $142K |
+| Total Assets | $671K |
+| NTEE Code | T22 |
+| IRS Ruling Date | 2000-05-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/746417564/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/746417564/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/746417564/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/746417564/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/746417564/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/746417564) (Tier 1)
+<!-- auto:nonprofit-990 end -->

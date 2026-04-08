@@ -981,3 +981,28 @@ This architecture allows the Koch Network to:
 
 research-status:: developed — major expansion (April 1, 2026). Added 12 new sections: Donor Summit Machine, Key Network Donors, Freedom Partners financials, DonorsTrust architecture ($1.36B assets, $425M anonymous donation, top recipients list), expanded AFP (state infrastructure, win/loss record), AFP Action super PAC cycle breakdown, ALEC/State Policy Network ($70.5M Koch funding via DonorsTrust, 2,900 bills, 600+ enacted), Federal Policy ROI (TCJA, EPA deregulation, Paris withdrawal, Keystone XL, Federalist Society/judicial), Revolving Door table (44-50+ alumni in Trump admin), Koch-Trump relationship (2016 estrangement → 2017 tax cooperation → 2018 break → 2020 retreat → 2024-25 tactical alignment), Stand Together rebrand ($833M 2023 budget), Succession ($5.3B transfer, Chase Koch, Brian Hooks, Emily Seidel), and Complete Organization Architecture table (20 entities mapped). Donation-to-Policy Timeline expanded with 8 new rows. All new data (21 data points) merged. 50+ new source URLs added with (UNVERIFIED) tags. Ready for Chrome URL verification pass before promotion to ready.
 content-readiness:: developed
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 480918408 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $1.2M |
+| Total Assets | $758.9M |
+| NTEE Code | B82 |
+| IRS Ruling Date | 2014-10-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/480918408) (Tier 1)
+<!-- auto:nonprofit-990 end -->
