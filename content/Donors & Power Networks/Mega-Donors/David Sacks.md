@@ -57,12 +57,8 @@ court-jurisdictions:
   - 'District Court, N.D. Illinois'
   - 'District Court, N.D. Ohio'
   - 'District Court, S.D. New York'
-donors: >-
-  [[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen &
-  Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]]
-related: >-
-  [[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]]
-  · [[Steve Witkoff]]
+donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]]"
+related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]]"
 stories: '[[The Billionaire Cabinet - Wealthiest Administration in History]]'
 ---
 
