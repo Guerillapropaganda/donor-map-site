@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { useSearchParams } from "next/navigation"
+import { useSearchParams, useRouter } from "next/navigation"
 import Link from "next/link"
 import { readinessColor, typeColor } from "@/lib/vault"
 
@@ -51,6 +51,7 @@ function parseWikilinks(value: string): string[] {
 
 export default function ProfilePage() {
   const searchParams = useSearchParams()
+  const router = useRouter()
   const profilePath = searchParams.get("path")
 
   const [profile, setProfile] = useState<ProfileData | null>(null)
@@ -59,6 +60,11 @@ export default function ProfilePage() {
   const [connections, setConnections] = useState<Connection[]>([])
   const [loading, setLoading] = useState(true)
   const [tab, setTab] = useState<"overview" | "sources" | "connections" | "urls">("overview")
+
+  // Browse state (when no profile selected)
+  const [browseSearch, setBrowseSearch] = useState("")
+  const [allProfiles, setAllProfiles] = useState<{ title: string; path: string; type: string; contentReadiness: string; party?: string; state?: string; sector?: string }[]>([])
+  const [browseLoading, setBrowseLoading] = useState(false)
 
   useEffect(() => {
     if (!profilePath) return
@@ -85,13 +91,53 @@ export default function ProfilePage() {
       .catch(() => setLoading(false))
   }, [profilePath])
 
+  // Load profiles for browsing when no profile selected
+  useEffect(() => {
+    if (!profilePath && allProfiles.length === 0) {
+      setBrowseLoading(true)
+      fetch("/api/vault").then((r) => r.json()).then((data) => {
+        setAllProfiles(data.profiles || [])
+        setBrowseLoading(false)
+      }).catch(() => setBrowseLoading(false))
+    }
+  }, [profilePath, allProfiles.length])
+
   if (!profilePath) {
+    const filtered = browseSearch.length >= 2
+      ? allProfiles.filter((p) => p.title.toLowerCase().includes(browseSearch.toLowerCase())).slice(0, 20)
+      : allProfiles.slice(0, 30)
+
     return (
-      <div className="flex items-center justify-center h-[60vh]">
-        <div className="text-center">
-          <p className="text-sm text-[var(--color-text-dim)] mb-2">No profile selected</p>
-          <Link href="/" className="text-xs text-[var(--color-steel)] hover:underline">Back to Dashboard</Link>
-        </div>
+      <div>
+        <h1 className="text-lg font-bold text-[var(--color-text)] mb-1">Profile View</h1>
+        <p className="text-[10px] text-[var(--color-text-dim)] mb-4">Search or browse profiles to view full details</p>
+
+        <input type="text" placeholder="Search profiles..." value={browseSearch}
+          onChange={(e) => setBrowseSearch(e.target.value)}
+          className="w-full max-w-lg bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-4 py-3 text-sm text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)] mb-4" />
+
+        {browseLoading ? (
+          <div className="text-xs text-[var(--color-text-dim)] animate-pulse">Loading profiles...</div>
+        ) : (
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-2">
+            {filtered.map((p) => (
+              <button key={p.path} onClick={() => router.push(`/profile?path=${encodeURIComponent(p.path)}`)}
+                className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3 text-left hover:border-[var(--color-steel)]/50 transition-colors">
+                <span className="text-[7px] uppercase px-1 py-0.5 rounded mb-1 inline-block"
+                  style={{ color: typeColor(p.type), backgroundColor: `${typeColor(p.type)}15` }}>{p.type}</span>
+                <p className="text-[11px] font-bold text-[var(--color-text)] leading-tight line-clamp-2 mb-1">{p.title}</p>
+                <div className="flex items-center gap-1.5">
+                  {p.party && <span className={`text-[7px] px-1 rounded ${p.party === "Democrat" ? "bg-blue-500/20 text-blue-400" : p.party === "Republican" ? "bg-red-500/20 text-red-400" : "bg-gray-500/20 text-gray-400"}`}>
+                    {p.party === "Democrat" ? "D" : p.party === "Republican" ? "R" : "I"}
+                  </span>}
+                  {p.state && <span className="text-[7px] text-[var(--color-text-dim)]">{p.state}</span>}
+                  <span className="text-[7px] uppercase ml-auto" style={{ color: readinessColor(p.contentReadiness) }}>{p.contentReadiness}</span>
+                </div>
+              </button>
+            ))}
+          </div>
+        )}
+        <p className="text-[9px] text-[var(--color-text-dim)] mt-3">Tip: Use Ctrl+K to search from anywhere</p>
       </div>
     )
   }
