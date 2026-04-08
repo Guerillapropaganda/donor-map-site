@@ -12,7 +12,7 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-08 (readiness overhaul + ops improvements)
+Date: 2026-04-08 (readiness overhaul + ops v2 + profile viewer rebuild)
 
 Done:
 - **Readiness tier overhaul** — removed "developed", established 4-tier grading (raw/draft/ready/verified) with investigative journalism standards
@@ -31,7 +31,20 @@ Done:
 - **"View Full Profile" button** — dashboard detail → profile viewer navigation
 - Updated all docs: Vault Rules, CLAUDE.md, Pipeline Guide
 
-Reclassification script NOT yet run with --write. David should review the dry-run report first.
+**Reclassification executed**: 963 profiles audited, 387 reclassified. 598 ready (B), 365 draft (C), 525 A+ candidates.
+
+Bug fixes: URL dedup, nested bracket regex, internal-notes YAML corruption (newlines), refresh button loading, search matching paths.
+
+Known issues:
+- Trump's `related:`/`donors:` in body not frontmatter — shows 0 connections
+- Some profiles may have corrupted internal-notes from early auto-check
+
+Next session priorities:
+1. Profile viewer improvements (David has ideas)
+2. Graph legend on live site
+3. Contradiction scanner
+4. Money trail visualizer
+5. Fix lda-pipeline.cjs domain
 
 Next session priorities:
 1. Run reclassify-readiness.cjs --write after David reviews report
