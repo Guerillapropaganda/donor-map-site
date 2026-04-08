@@ -335,7 +335,7 @@ export default function UrlManagerPage() {
       <div className="p-2 space-y-1 max-h-[30vh] overflow-y-auto">
         {items.length === 0 ? (
           <div className="text-[10px] text-[var(--color-text-dim)] text-center py-4">Empty</div>
-        ) : items.map((u) => <UrlCard key={u.id + "-done"} u={u} isCompleted={true} />)}
+        ) : items.map((u, i) => <UrlCard key={`${u.id}-done-${i}`} u={u} isCompleted={true} />)}
       </div>
     </div>
   )
