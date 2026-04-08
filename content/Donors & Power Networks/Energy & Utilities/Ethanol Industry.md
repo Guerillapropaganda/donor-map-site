@@ -87,7 +87,7 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Energy, Dept of, Environmental Protection Agency (EPA), Federal Aviation Administration (FAA), Government Accountability Office (GAO), HOUSE OF REPRESENTATIVES, Internal Revenue Service (IRS), SENATE, Treasury, Dept of, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ethanol%20Industry) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ethanol%20Industry) (Tier 1)
 
 <!-- auto:lda-lobbying end -->
 

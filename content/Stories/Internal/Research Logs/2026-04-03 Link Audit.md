@@ -818,8 +818,8 @@ Scanned **1473** markdown files
 - **DEAD LINK (404, no archive)**: https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin — in Donors & Power Networks\Mega-Donors\Ken Griffin.md
 - **DEAD LINK (404, no archive)**: https://www.politico.com/story/2015/01/koch-2016-702-million-702-million-114604 — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
 - **DEAD LINK (404, no archive)**: https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://lda.senate.gov/filings/public/filing/search/ — in Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
-- **DEAD LINK (404)**: https://lda.senate.gov/filings/public/filing/search/ — in Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
+- **DEAD LINK (404)**: https://lda.gov/filings/public/filing/search/ — in Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
+- **DEAD LINK (404)**: https://lda.gov/filings/public/filing/search/ — in Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
 - **DEAD LINK (404, no archive)**: https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
 - **DEAD LINK (404, no archive)**: https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
 - **DEAD LINK (404, no archive)**: https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
@@ -871,7 +871,7 @@ Scanned **1473** markdown files
 - **DEAD LINK (404, no archive)**: https://msfaccess.org/msf-response-license-between-pfizer-and-medicines-patent-pool-for-new-covid-19-treatment-paxlovid — in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
 - **DEAD LINK (404, no archive)**: https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program — in Donors & Power Networks\Pharma & Healthcare\PhRMA.md, Stories\Published\Contradiction Deep Dives\Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides.md
 - **DEAD LINK (404, no archive)**: https://kffhealthnews.org/news/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/ — in Donors & Power Networks\Pharma & Healthcare\PhRMA.md
-- **DEAD LINK (404)**: https://lda.senate.gov/filings/public/filing/search/ — in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
+- **DEAD LINK (404)**: https://lda.gov/filings/public/filing/search/ — in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
 - **DEAD LINK (404, no archive)**: https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html — in Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md
 - **DEAD LINK (404, no archive)**: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sheldon%20adelson — in Donors & Power Networks\Real Estate\Las Vegas Sands.md
 - **DEAD LINK (404)**: https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image — in Lobbying Firms & K Street\Ballard Partners.md
@@ -960,7 +960,7 @@ Scanned **1473** markdown files
 - **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Rumble_(company — in Media & Influence Pipeline\Right\Rumble.md
 - **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Rumble_(company — in Media & Influence Pipeline\Right\Rumble.md
 - **DEAD LINK (404, no archive)**: https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices — in Donors & Power Networks\Wall Street\Wells Fargo.md
-- **DEAD LINK (404, no archive)**: https://lda.senate.gov/filings/public/filing/search/ — in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
+- **DEAD LINK (404, no archive)**: https://lda.gov/filings/public/filing/search/ — in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
 - **DEAD LINK (404)**: https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-wh-job.html — in Media & Influence Pipeline\The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices.md
 - **DEAD LINK (404)**: https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-wh-job.html — in Media & Influence Pipeline\The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices.md
 - **DEAD LINK (404, no archive)**: https://www.opensecrets.org/revolving-door?id=D000000162 — in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md

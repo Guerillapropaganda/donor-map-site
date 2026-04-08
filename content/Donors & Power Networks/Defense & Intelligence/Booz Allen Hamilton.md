@@ -129,7 +129,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Central Intelligence Agency (CIA), Defense, Dept of (DOD), Energy, Dept of, HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Interior, Dept of (DOI), Natl Institute of Standards & Technology (NIST), Office of Management & Budget (OMB), SENATE, Treasury, Dept of +2 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Booz%20Allen%20Hamilton) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Booz%20Allen%20Hamilton) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Register Activity

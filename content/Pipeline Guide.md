@@ -18,7 +18,7 @@ How data flows from government APIs into vault profiles. Code Claude maintains t
 | **FEC Summary** | api.open.fec.gov | 1 | API key | Total raised/spent, cash on hand, debt per cycle |
 | **Congress** | api.congress.gov | 1 | API key | Bills sponsored, policy areas, member details |
 | **Committee** | api.congress.gov | 1 | API key | Committee and subcommittee assignments |
-| **Senate LDA** | lda.senate.gov | 1 | Token | Lobbying filings, spend totals, issues lobbied |
+| **Senate LDA** | lda.gov | 1 | Token | Lobbying filings, spend totals, issues lobbied |
 | **LobbyView** | rest-api.lobbyview.org | 1 | Token | Client-bill lobbying networks, NAICS codes |
 | **FARA** | fara.us/api | 1 | None | Foreign agent registrations, foreign principals |
 | **USASpending** | api.usaspending.gov | 1 | None | Federal contracts, grants, awards |

@@ -39,7 +39,7 @@ This document defines the analytical framework, research layers, and external da
 
 - **OpenSecrets Revolving Door tracker** — staff moving between political offices, regulatory agencies, and industries.
 
-- **Senate LDA filings** (lda.senate.gov) — lobbying disclosure quarterly filings. Primary source for lobbying expenditures, client lists, registrant data. Tier 1. API available — see [[API Pipeline]].
+- **Senate LDA filings** (lda.gov) — lobbying disclosure quarterly filings. Primary source for lobbying expenditures, client lists, registrant data. Tier 1. API available — see [[API Pipeline]].
 
 - **IRS 990 filings via ProPublica Nonprofit Explorer** — annual tax returns for 501c3/501c4 organizations. Primary source for think tank revenue, donor disclosure (where applicable), executive compensation. Tier 1.
 

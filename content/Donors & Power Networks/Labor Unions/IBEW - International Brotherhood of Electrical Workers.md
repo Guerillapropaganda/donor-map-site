@@ -103,7 +103,7 @@ The 95% Democratic PAC split tells one story. The fact that IBEW members in many
 
 ### Sources
 
-- [Senate LDA Filings: IBEW organizational profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 2)
+- [Senate LDA Filings: IBEW organizational profile](https://lda.gov/filings/public/filing/search/) (Tier 2)
 - [FEC: IBEW PAC filings and campaign finance data](https://www.fec.gov/data/committee/C00027342/) (Tier 1)
 - [U.S. Department of Labor: Davis-Bacon prevailing wage](https://www.dol.gov/agencies/whd/government-contracts/prevailing-wage) (Tier 1)
 - [Congress.gov: Infrastructure Investment and Jobs Act (IIJA)](https://www.congress.gov/bill/117th-congress/house-bill/3684) (Tier 1)

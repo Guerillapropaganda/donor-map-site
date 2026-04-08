@@ -264,7 +264,7 @@ content-readiness:: developed
 
 **Agencies contacted:** Army, Dept of (Corps of Engineers), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Indian Health Service, Justice, Dept of (DOJ) +8 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Stand%20Together) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Stand%20Together) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)

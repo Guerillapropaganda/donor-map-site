@@ -147,7 +147,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Natl Institutes of Health (NIH), Natl Security Council (NSC), Office of Management & Budget (OMB) +8 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Gilead%20Sciences) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Gilead%20Sciences) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)

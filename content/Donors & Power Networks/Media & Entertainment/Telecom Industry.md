@@ -97,7 +97,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Interior, Dept of (DOI), Natl Security Council (NSC), Natl Telecommunications & Information Administration (NTIA), Office of Management & Budget (OMB), SENATE +2 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Telecom%20Industry) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Telecom%20Industry) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

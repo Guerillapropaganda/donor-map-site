@@ -99,8 +99,8 @@ The political contributions ($39,000 PAC annually, $550,000 in lobbying) are inv
 
 ### Tier 1 (Primary Data)
 - OpenSecrets Bacardi USA PAC (C00160838) 2024 recipient data: https://www.opensecrets.org/political-action-committees-pacs/bacardi-usa/C00160838/candidate-recipients/2024
-- OpenSecrets Bacardi lobbying expenditure history: https://lda.senate.gov/filings/public/filing/search/
-- OpenSecrets Bacardi lobbyist registry 2023: https://lda.senate.gov/filings/public/filing/search/
+- OpenSecrets Bacardi lobbying expenditure history: https://lda.gov/filings/public/filing/search/
+- OpenSecrets Bacardi lobbyist registry 2023: https://lda.gov/filings/public/filing/search/
 
 ### Tier 2 (Secondary Analysis)
 - Progreso Weekly: "The True Origin of the Helms-Burton Act" (CPI documentation of 1998 Section 211 insertion): https://progresoweekly.us/the-true-origin-of-the-helms-burton-act/

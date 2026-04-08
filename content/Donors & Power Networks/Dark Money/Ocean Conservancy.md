@@ -181,7 +181,7 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Council on Environmental Quality (CEQ), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), HOUSE OF REPRESENTATIVES +12 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ocean%20Conservancy) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ocean%20Conservancy) (Tier 1)
 
 <!-- auto:lda-lobbying end -->
 

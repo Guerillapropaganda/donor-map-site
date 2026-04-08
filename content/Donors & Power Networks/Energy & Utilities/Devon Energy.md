@@ -87,7 +87,7 @@ Favorable federal land leasing policies (expedited permitting, reduced royalty r
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Devon%20Energy) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Devon%20Energy) (Tier 1)
 
 <!-- auto:lda-lobbying end -->
 

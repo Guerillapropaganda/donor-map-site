@@ -64,7 +64,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Environmental Protection Agency (EPA), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), SENATE, Surface Transportation Board (STB), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Petrochemical%20Industry%20Bloc) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Petrochemical%20Industry%20Bloc) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

@@ -53,7 +53,7 @@ In 2024, Goldman gave $451,000 to federal candidates directly through its PAC, p
 
 [Goldman Sachs PAC Donors — OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/c00350744/donors/2024) (Tier 1)
 
-[Goldman Sachs Lobbying Profile — OpenSecrets](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+[Goldman Sachs Lobbying Profile — OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
 ### What They Want
 
@@ -195,7 +195,7 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 - [Goldman Sachs Profile: Summary — OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085) (Tier 1)
 - [Goldman Sachs Profile: Totals — OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085) (Tier 1)
 - [Goldman Sachs PAC Donors — OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/c00350744/donors/2024) (Tier 1)
-- [Goldman Sachs Lobbying Profile — OpenSecrets](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Goldman Sachs Lobbying Profile — OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Goldman Sachs PAC Finance Summary 2025–2026 — BeautifyData](https://beautifydata.com/us-campaign-donations/2025-2026/pac-summary/the-goldman-sachs-group-inc-political-action-committee) (Tier 3)
 - [U.S. banks' IPOs and political money contributions — ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1572308922000808) (Tier 2)
 - [Goldman Sachs Keeps Its Wallet Closed to Politicians, Parties — Bloomberg](https://www.bloomberg.com/news/articles/2021-07-08/goldman-sachs-keeps-its-wallet-closed-to-politicians-parties) (Tier 2)

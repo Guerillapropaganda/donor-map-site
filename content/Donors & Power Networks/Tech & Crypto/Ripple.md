@@ -69,7 +69,7 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 
 **Agencies contacted:** Commerce, Dept of (DOC), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE, Securities & Exchange Commission (SEC), Treasury, Dept of, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ripple) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ripple) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Subawards & Spending Breakdown

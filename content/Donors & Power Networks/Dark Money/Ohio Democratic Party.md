@@ -215,7 +215,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Alcohol Tobacco Firearms & Explosives, Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of +23 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ohio%20Democratic%20Party) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ohio%20Democratic%20Party) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

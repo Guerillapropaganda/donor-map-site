@@ -77,5 +77,5 @@ One Israel Fund exemplifies how U.S. tax law is weaponized to support foreign oc
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Centers For Disease Control & Prevention (CDC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Emergency Management Agency (FEMA), Federal Highway Administration (FHA), Federal Housing Finance Agency (FHFA), HOUSE OF REPRESENTATIVES +16 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=One%20Israel%20Fund) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=One%20Israel%20Fund) (Tier 1)
 <!-- auto:lda-lobbying end -->

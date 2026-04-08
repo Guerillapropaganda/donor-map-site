@@ -192,7 +192,7 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 - [OpenSecrets: Eli Lilly PAC summary — $2.4M raised, 60/40 R/D split (C00082792)](https://www.opensecrets.org/political-action-committees-pacs/eli-lilly-co/C00082792/summary/2024) (Tier 1)
 - [FEC: Eli Lilly PAC committee filings (C00082792)](https://www.fec.gov/data/committee/C00082792/) (Tier 1)
 - [OpenSecrets: Eli Lilly organizational profile — $1.86M contributions, recipients](https://www.opensecrets.org/orgs/eli-lilly-co/summary?id=d000000166) (Tier 1)
-- [Senate LDA Filings: Eli Lilly lobbying profile — $6.7M (2024), $11.2M (2025)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Eli Lilly lobbying profile — $6.7M (2024), $11.2M (2025)](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Senate Finance Committee: Grassley-Wyden insulin investigation — 100,000+ pages of documents (2021)](https://www.finance.senate.gov/chairmans-news/grassley-wyden-release-insulin-investigation-uncovering-business-practices-between-drug-companies-and-pbms-that-keep-prices-high) (Tier 1)
 - [NPR: Eli Lilly cuts insulin price, caps at $35/month (March 2023)](https://www.npr.org/2023/03/01/1160339792/eli-lilly-insulin-price) (Tier 2)
 - [CNBC: Trump announces Eli Lilly, Novo Nordisk deals to cut GLP-1 prices (November 2025)](https://www.cnbc.com/2025/11/06/trump-eli-lilly-novo-nordisk-deal-obesity-drug-prices.html) (Tier 2)
@@ -254,7 +254,7 @@ content-readiness:: developed
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP) +22 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Eli%20Lilly) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Eli%20Lilly) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Corporate Structure (GLEIF)

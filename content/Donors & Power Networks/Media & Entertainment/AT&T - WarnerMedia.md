@@ -182,5 +182,5 @@ content-readiness:: ready
 
 **Agencies contacted:** Commerce, Dept of (DOC), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Natl Economic Council (NEC), Natl Security Council (NSC), Natl Telecommunications & Information Administration (NTIA), Office of Administration +7 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=AT%26T) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=AT%26T) (Tier 1)
 <!-- auto:lda-lobbying end -->

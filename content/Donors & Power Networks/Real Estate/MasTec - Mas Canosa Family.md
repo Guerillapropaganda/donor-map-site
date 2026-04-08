@@ -161,5 +161,5 @@ content-readiness:: developed
 
 **Agencies contacted:** Defense, Dept of (DOD), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Transportation, Dept of (DOT)
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=MasTec%20-%20Mas%20Canosa%20Family) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=MasTec%20-%20Mas%20Canosa%20Family) (Tier 1)
 <!-- auto:lda-lobbying end -->

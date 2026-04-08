@@ -53,7 +53,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Commerce, Dept of (DOC), Federal Aviation Administration (FAA), Federal Trade Commission (FTC), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Housing & Urban Development, Dept of (HUD), Interior, Dept of (DOI), Justice, Dept of (DOJ) +11 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Wall%20Street%20Bloc) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Wall%20Street%20Bloc) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

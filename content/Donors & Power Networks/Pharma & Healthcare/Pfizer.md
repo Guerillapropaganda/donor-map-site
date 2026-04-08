@@ -216,7 +216,7 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 - [OpenSecrets: Pfizer Inc Summary](https://www.opensecrets.org/orgs/pfizer-inc/summary?id=D000000138) (Tier 1)
 - [OpenSecrets: Pfizer Inc PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/pfizer-inc/C00016683/summary/2024) (Tier 1)
 - [OpenSecrets: Pfizer Inc PAC Candidate Recipients](https://www.opensecrets.org/political-action-committees-pacs/pfizer-inc/C00016683/candidate-recipients/2024) (Tier 1)
-- [Senate LDA Filings: Pfizer Inc Lobbying Profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Pfizer Inc Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [HHS: Pfizer COVID-19 Vaccine Contract (PDF)](https://www.hhs.gov/sites/default/files/pfizer-inc-covid-19-vaccine-contract.pdf) (Tier 1)
 - [HHS: BARDA mRNA Development Wind-Down](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html) (Tier 1)
 - [KFF: Key Facts About Medicare Drug Price Negotiation](https://www.kff.org/medicare/key-facts-about-medicare-drug-price-negotiation/) (Tier 1)

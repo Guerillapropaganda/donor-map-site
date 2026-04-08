@@ -185,5 +185,5 @@ content-readiness:: ready
 
 **Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Reclamation, Commerce, Dept of (DOC), Defense, Dept of (DOD), Executive Office of the President (EOP), Federal Emergency Management Agency (FEMA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD), Interior, Dept of (DOI) +6 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Gulf%20State%20Money%20-%20Saudi%20Arabia%2C%20UAE%2C%20Qatar) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Gulf%20State%20Money%20-%20Saudi%20Arabia%2C%20UAE%2C%20Qatar) (Tier 1)
 <!-- auto:lda-lobbying end -->

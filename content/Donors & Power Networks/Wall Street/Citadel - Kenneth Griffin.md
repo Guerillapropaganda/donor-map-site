@@ -227,7 +227,7 @@ research-status:: developed — Expanded from 61 to 180+ lines. Core additions: 
 
 **Agencies contacted:** Commodity Futures Trading Commission (CFTC), Defense, Dept of (DOD), HOUSE OF REPRESENTATIVES, SENATE, State, Dept of (DOS), Treasury, Dept of
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Citadel%20-%20Kenneth%20Griffin) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Citadel%20-%20Kenneth%20Griffin) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

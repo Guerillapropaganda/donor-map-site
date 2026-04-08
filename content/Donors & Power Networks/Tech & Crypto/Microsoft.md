@@ -119,7 +119,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), Federal Railroad Administration +26 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Microsoft) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Microsoft) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

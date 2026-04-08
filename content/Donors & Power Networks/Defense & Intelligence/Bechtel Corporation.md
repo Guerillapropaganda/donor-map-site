@@ -78,7 +78,7 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 
 **Agencies contacted:** Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Executive Office of the President (EOP), Federal Energy Regulatory Commission (FERC), Federal Housing Finance Agency (FHFA), Federal Railroad Administration, Federal Transit Administration (FTA), HOUSE OF REPRESENTATIVES, Natl Aeronautics & Space Administration (NASA) +4 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Bechtel%20Corporation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Bechtel%20Corporation) (Tier 1)
 
 <!-- auto:lda-lobbying end -->
 

@@ -209,7 +209,7 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 ### Sources
 
 - [OpenSecrets: ConocoPhillips PAC contributions by cycle](https://www.opensecrets.org/orgs/conocophillips/totals?id=D000000303) (Tier 1)
-- [Senate LDA Filings: ConocoPhillips federal lobbying 2002–2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: ConocoPhillips federal lobbying 2002–2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: ConocoPhillips 2024 recipients](https://www.opensecrets.org/orgs/conocophillips/recipients?id=D000000303) (Tier 1)
 - [OpenSecrets: ConocoPhillips Willow Project lobbying blitz (Q1 2022: $4.6M, FY 2022: $8.68M)](https://www.opensecrets.org/news/2022/05/conocophillips-lobbying-fight-alaskan-oil-project/) (Tier 2)
 - [OpenSecrets: Oil and gas industry $124.4M lobbying 2022](https://www.opensecrets.org/news/2023/02/oil-and-gas-industry-spent-124-4-million-on-federal-lobbying-amid-record-profits-in-2022/) (Tier 2)
@@ -339,7 +339,7 @@ content-readiness:: developed
 
 **Agencies contacted:** Commerce, Dept of (DOC), Congressional Budget Office (CBO), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Energy Regulatory Commission (FERC), HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), Natl Security Council (NSC), Nuclear Regulatory Commission (NRC) +6 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=ConocoPhillips) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=ConocoPhillips) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

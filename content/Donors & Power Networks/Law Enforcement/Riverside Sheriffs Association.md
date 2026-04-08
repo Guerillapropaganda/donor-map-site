@@ -175,7 +175,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Advisory Council on Historic Preservation (ACHP), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Federal Aviation Administration (FAA), Federal Railroad Administration, HOUSE OF REPRESENTATIVES +7 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Riverside%20Sheriffs%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Riverside%20Sheriffs%20Association) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

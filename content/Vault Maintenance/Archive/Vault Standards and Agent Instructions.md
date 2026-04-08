@@ -426,7 +426,7 @@ Every source must be a working URL. This vault is built for public web publicati
 - [FEC: [Name] individual contributions ([N] results, $[total])](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=[name]) (Tier 1)
 ```
 
-**CRITICAL:** Never use raw API endpoint URLs (e.g., `api.open.fec.gov/v1/schedules/...`) as citation links. They return JSON, not a readable web page. Always link to the corresponding web interface (fec.gov, usaspending.gov, congress.gov, lda.senate.gov).
+**CRITICAL:** Never use raw API endpoint URLs (e.g., `api.open.fec.gov/v1/schedules/...`) as citation links. They return JSON, not a readable web page. Always link to the corresponding web interface (fec.gov, usaspending.gov, congress.gov, lda.gov).
 
 **Chrome source format:**
 ```
@@ -542,7 +542,7 @@ API-first research protocol:
 1. FEC API — individual contributions, candidate totals, independent expenditures
 2. Congress.gov API — member profiles, voting records, sponsored legislation
 3. USASpending API — federal contracts for donor companies (run from usaspending.gov domain)
-4. Senate LDA API — lobbying filings for donor companies (run from lda.senate.gov domain)
+4. Senate LDA API — lobbying filings for donor companies (run from lda.gov domain)
 5. ONLY use Chrome manual browsing for data NOT available via API
 
 ### Output

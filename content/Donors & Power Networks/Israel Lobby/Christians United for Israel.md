@@ -86,7 +86,7 @@ content-readiness:: ready
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Christians%20United%20for%20Israel) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Christians%20United%20for%20Israel) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### DOJ Press Releases

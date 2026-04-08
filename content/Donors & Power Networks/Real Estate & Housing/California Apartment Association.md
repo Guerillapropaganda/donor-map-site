@@ -144,7 +144,7 @@ content-readiness:: ready
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Apartment%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=California%20Apartment%20Association) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)

@@ -138,7 +138,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Communications Commission (FCC) +15 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Apple) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Apple) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Financial Overview (990 Filing — 2023)

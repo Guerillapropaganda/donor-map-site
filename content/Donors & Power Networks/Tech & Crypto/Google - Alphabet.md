@@ -44,7 +44,7 @@ Google's political strategy has undergone a notable shift since 2024. Historical
 Google's lobbying spans multiple subsidiaries: Google Inc ($12.3M in 2024), Waymo ($1.74M), Wing Aviation ($420K), Google Cloud ($390K), Mandiant ($144K in 2022), and DeepMind ($130K in 2022).
 
 - [OpenSecrets: Alphabet Inc organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/alphabet-inc/summary?id=D000067823) (Tier 1) (Chrome-verified)
-- [Senate LDA Filings: Alphabet Inc lobbying profile — 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
+- [Senate LDA Filings: Alphabet Inc lobbying profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
 
 ---
 
@@ -92,7 +92,7 @@ Google's core legislative and regulatory priorities, in order of financial signi
 
 Google consistently lobbies on: antitrust legislation (American Innovation and Choice Online Act, Open App Markets Act, AMERICA Act), Section 230, copyright/DMCA, autonomous vehicle regulation (Waymo), H-1B immigration, AI regulation, drone/commercial aviation (Wing), data privacy (ADPPA, APRA), and cybersecurity.
 
-- [Senate LDA Filings: Alphabet 2024 lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
+- [Senate LDA Filings: Alphabet 2024 lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
 - [TIME: Google lobbying 2017](https://time.com/5116226/google-lobbying-2017/) (Tier 2) (UNVERIFIED)
 - [OpenSecrets: Google ramped up lobbying ahead of antitrust](https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/) (Tier 1) (Chrome-verified)
 
@@ -332,7 +332,7 @@ Over the decade leading to 2020, at least 80 individuals were identified moving 
 > The revolving door serves a dual function: it brings institutional knowledge about regulatory processes into Google's lobbying operation, and it sends a signal to current government employees that compliance with Google's interests is a career investment. Robert Mahini moved from the FTC Office of General Counsel to Google as senior policy counsel in late 2012 — at the height of the FTC antitrust probe that would close in January 2013 with no action. Joshua Wright (FTC Commissioner) and Julie Brill (FTC Commissioner) both joined Google-affiliated law firms within weeks of each other in early 2016. The revolving door doesn't just influence current policy — it shapes the incentives of every government employee who might one day want to work in the private sector.
 
 - [Tech Transparency Project: Google's US Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2)
-- [Senate LDA Filings: Alphabet Inc lobbyists — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
+- [Senate LDA Filings: Alphabet Inc lobbyists — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
 - [Open Markets Institute: Google's 50-state lobbying strategy](https://www.openmarketsinstitute.org/publications/google-refines-50-state-lobby-strategy-austin-ahlman) (Tier 2) (Chrome-verified)
 
 ---
@@ -390,8 +390,8 @@ Google represents the most advanced form of monopoly power in the vault — one 
 ### FEC & OpenSecrets (Chrome-verified):
 - [OpenSecrets: Alphabet Inc organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/alphabet-inc/summary?id=D000067823) (Tier 1)
 - [OpenSecrets: Alphabet Inc top recipients — 2024](https://www.opensecrets.org/orgs/alphabet-inc/recipients?id=D000067823) (Tier 1)
-- [Senate LDA Filings: Alphabet Inc lobbying profile — 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Alphabet Inc lobbyists — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Alphabet Inc lobbying profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Alphabet Inc lobbyists — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Google ramped up lobbying ahead of antitrust](https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/) (Tier 1)
 
 ### Government & Court Documents (Chrome-verified):

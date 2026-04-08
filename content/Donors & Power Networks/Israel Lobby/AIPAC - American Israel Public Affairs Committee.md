@@ -92,7 +92,7 @@ AIPAC's registered lobbying expenditures represent the largest in the pro-Israel
 | 2024 | $3,324,268 | $4,899,268 | 67.8% |
 | 2025 (Q1) | $963,135 | — | — |
 
-In 2024, the remaining pro-Israel sector lobbying was distributed across J Street ($595,000), Republican Jewish Coalition ($400,000), Christians United for Israel ($400,000), and Zionist Organization of America ($180,000). ([OpenSecrets — UNVERIFIED](https://lda.senate.gov/filings/public/filing/search/))
+In 2024, the remaining pro-Israel sector lobbying was distributed across J Street ($595,000), Republican Jewish Coalition ($400,000), Christians United for Israel ($400,000), and Zionist Organization of America ($180,000). ([OpenSecrets — UNVERIFIED](https://lda.gov/filings/public/filing/search/))
 
 ---
 

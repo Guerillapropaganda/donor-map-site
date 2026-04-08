@@ -162,7 +162,7 @@ National Nurses United represents class analysis embedded within labor organizin
 
 **Agencies contacted:** Advisory Council on Historic Preservation (ACHP), Agriculture, Dept of (USDA), American Battle Monuments Commission, Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Congressional Budget Office (CBO), Consumer Financial Protection Bureau (CFPB) +60 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=National%20Nurses%20United) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=National%20Nurses%20United) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

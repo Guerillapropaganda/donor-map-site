@@ -147,7 +147,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Education, Dept of, HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Interior, Dept of (DOI), Justice, Dept of (DOJ), Labor, Dept of (DOL), SENATE, Veterans Affairs, Dept of (VA), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Fraternal%20Order%20of%20Police) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Fraternal%20Order%20of%20Police) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### SEC Filing Activity

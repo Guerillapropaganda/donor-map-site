@@ -129,7 +129,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Administration for Children & Families (ACF), Army, Dept of (Corps of Engineers), Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Defense, Dept of (DOD), Economic Development Administration, Education, Dept of, Energy, Dept of, Executive Office of the President (EOP), Federal Aviation Administration (FAA) +12 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=New%20Venture%20Fund) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=New%20Venture%20Fund) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)

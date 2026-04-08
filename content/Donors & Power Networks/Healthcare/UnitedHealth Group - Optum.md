@@ -156,7 +156,7 @@ Healthcare — COVID contracts, PBM regulation, single-payer
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Labor, Dept of (DOL), Office of Management & Budget (OMB), SENATE, Veterans Affairs, Dept of (VA), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=UnitedHealth%20Group%20-%20Optum) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=UnitedHealth%20Group%20-%20Optum) (Tier 1)
 
 <!-- auto:lda-lobbying end -->
 

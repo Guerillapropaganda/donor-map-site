@@ -226,7 +226,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 **Agencies contacted:** American Battle Monuments Commission, Army, Dept of (Corps of Engineers), Commerce, Dept of (DOC), Council on Environmental Quality (CEQ), Economic Development Administration, Education, Dept of, Executive Office of the President (EOP), Federal Aviation Administration (FAA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS) +10 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Paul%20Singer) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Paul%20Singer) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

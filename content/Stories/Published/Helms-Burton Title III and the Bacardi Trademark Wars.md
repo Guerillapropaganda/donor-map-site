@@ -325,7 +325,7 @@ content-readiness:: Developed story file with full donor-to-policy chain, litiga
 - FCSC Certified Claims List (PDF): https://www.just *(source unavailable)*ice.gov/sites/default/files/fcsc/pages/attachments/2014/12/18/cuban_basic_claimant_info_value.pdf (Tier 1)
 - U.S. Supreme Court Amicus Brief (Daniel W. Fisk Confirmation): https://www.supremecourt.gov/DocketPDF/24/24-983/385821/20251125231351031_24-983_Amicus%20Brief.pdf (Tier 1)
 - Federal Election Commission / OpenSecrets — Bacardi USA PAC (C00160838): https://www.opensecrets.org/political-action-committees-pacs/bacardi-usa/C00160838/candidate-recipients/2024 (Tier 1)
-- OpenSecrets Bacardi Federal Lobbying Disclosure: https://lda.senate.gov/filings/public/filing/search/ (Tier 1)
+- OpenSecrets Bacardi Federal Lobbying Disclosure: https://lda.gov/filings/public/filing/search/ (Tier 1)
 - U.S. State Department Title III Provisions (1999): https://1997-2001.state.gov/regions/wha/fs_990716_cuba_titleIII.html (Tier 1)
 - USTR WTO Dispute Settlement — Section 211 Dispute: https://ustr.gov/issue-areas/enforcement/dispute-settlement-proceedings/united-states-%E2%80%93-section-211-omnibus-appropri (Tier 1)
 

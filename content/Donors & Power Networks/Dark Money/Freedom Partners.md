@@ -150,5 +150,5 @@ content-readiness:: draft
 
 **Agencies contacted:** Bureau of Land Management (BLM), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Education, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Deposit Insurance Corporation (FDIC), Federal Reserve System, Federal Trade Commission (FTC) +24 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Freedom%20Partners%20Chamber%20of%20Commerce) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Freedom%20Partners%20Chamber%20of%20Commerce) (Tier 1)
 <!-- auto:lda-lobbying end -->

@@ -384,10 +384,10 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 - [FEC: PhRMA candidate totals](https://www.fec.gov/data/candidate/) (Tier 1) (UNVERIFIED)
 - [FEC: GEO Group candidate totals](https://www.fec.gov/data/candidate/) (Tier 1) (UNVERIFIED)
 - [FEC: UAW candidate totals](https://www.fec.gov/data/candidate/) (Tier 1) (UNVERIFIED)
-- [Senate LDA: RTX lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA: PhRMA lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA: GEO Group lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA: UAW lobbying filings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA: RTX lobbying filings](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA: PhRMA lobbying filings](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA: GEO Group lobbying filings](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA: UAW lobbying filings](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
 #### Tier 1 (Corporate Disclosures & Primary Documents)
 

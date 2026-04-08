@@ -185,7 +185,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: Mellon's im
 
 **Agencies contacted:** Consumer Financial Protection Bureau (CFPB), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Deposit Insurance Corporation (FDIC), Federal Maritime Commission, HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Office of Management & Budget (OMB), SENATE +3 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Timothy%20Mellon) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Timothy%20Mellon) (Tier 1)
 
 <!-- auto:lda-lobbying end -->
 

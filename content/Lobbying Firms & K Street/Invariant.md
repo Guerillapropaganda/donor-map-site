@@ -218,9 +218,9 @@ Invariant's Palantir portfolio crystallizes this. As progressive constituents de
 
 ### Sources
 
-- [Senate LDA Filings: Invariant LLC Lobbying Profile 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Invariant LLC Lobbying Profile 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Invariant LLC Lobbyists 2024 — Revolving Door data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Invariant LLC Lobbying Profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Invariant LLC Lobbying Profile 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Invariant LLC Lobbyists 2024 — Revolving Door data](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Paul Arcangeli Revolving Door Profile](https://www.opensecrets.org/revolving-door/summary?id=84071) (Tier 1)
 - [OpenSecrets: Revolving Door Lobbyists Help Defense Contractors in 2023](https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/) (Tier 1)
 - [Sludge: DCCC Rakes in Millions From Palantir Lobbyists as Protests Target ICE Surveillance Tools](https://readsludge.com/2026/02/25/dccc-rakes-in-millions-from-palantir-lobbyists-as-protests-target-the-companys-ice-surveillance-tools/) (Tier 2)

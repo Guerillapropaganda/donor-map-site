@@ -162,7 +162,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Air Force, Dept of, Commerce, Dept of (DOC), Defense, Dept of (DOD), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Silicon%20Valley%20Democratic%20Donor%20Network) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Silicon%20Valley%20Democratic%20Donor%20Network) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

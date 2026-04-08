@@ -150,7 +150,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Indian Affairs (BIA), Bureau of Land Management (BLM), Bureau of Reclamation, Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Environmental Protection Agency (EPA) +22 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Western%20States%20Petroleum%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Western%20States%20Petroleum%20Association) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

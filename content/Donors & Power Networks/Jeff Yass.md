@@ -39,5 +39,5 @@ content-readiness:: raw
 
 **Agencies contacted:** Appalachian Regional Commission, Army, Dept of (Corps of Engineers), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Education, Dept of, Energy, Dept of, Executive Office of the President (EOP), Federal Emergency Management Agency (FEMA), Federal Transit Administration (FTA), HOUSE OF REPRESENTATIVES +8 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Jeff%20Yass%20(Redirect)) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Jeff%20Yass%20(Redirect)) (Tier 1)
 <!-- auto:lda-lobbying end -->

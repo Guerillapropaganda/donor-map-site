@@ -153,7 +153,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), HOUSE OF REPRESENTATIVES, SENATE, U.S. Trade Representative (USTR)
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Jeffrey%20Epstein%20Network) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Jeffrey%20Epstein%20Network) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

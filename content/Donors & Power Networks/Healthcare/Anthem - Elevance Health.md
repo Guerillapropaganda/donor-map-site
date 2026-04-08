@@ -181,7 +181,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Office of Management & Budget (OMB), SENATE, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Anthem%20-%20Elevance%20Health) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Anthem%20-%20Elevance%20Health) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

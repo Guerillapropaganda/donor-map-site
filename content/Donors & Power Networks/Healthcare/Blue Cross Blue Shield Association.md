@@ -201,7 +201,7 @@ The public option was included in the original House ACA bill (2009) but strippe
 ### Sources
 
 - [OpenSecrets: Blue Cross Blue Shield organizational profile — $10.4M contributions, lobbying rank #5 (2024)](https://www.opensecrets.org/orgs/blue-cross-blue-shield/summary?id=D000000109) (Tier 1)
-- [Senate LDA Filings: BCBS lobbying profile — $27.1M (2024), $27.9M (2025), subsidiary breakdown](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: BCBS lobbying profile — $27.1M (2024), $27.9M (2025), subsidiary breakdown](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [AHA News: BCBS antitrust lawsuit provider settlement platform goes live (December 2024)](https://www.aha.org/news/headline/2024-12-20-bcbs-antitrust-lawsuit-provider-settlement-platform-goes-live) (Tier 2)
 - [BCBS Antitrust Settlement: Official settlement site — $2.8B cash, final approval August 2025](https://www.bcbssettlement.com/) (Tier 1)
 - [Healthcare Dive: Biden administration finalizes modest cut to 2025 Medicare Advantage rates](https://www.healthcaredive.com/news/medicare-advantage-final-rates-2025-modest-cut/711927/) (Tier 2)

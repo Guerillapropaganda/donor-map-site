@@ -293,7 +293,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Economic Development Administration, Energy, Dept of, Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Emergency Management Agency (FEMA), General Services Administration (GSA) +8 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=George%20Soros) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=George%20Soros) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

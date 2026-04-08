@@ -44,7 +44,7 @@ Next:
 - Stale profile detector (profiles not enriched in 30+ days)
 - Cross-module profile sidebar (see connections/URLs/notes without leaving Editor)
 - Run opensecrets-replace for remaining categories (~3,000 URLs)
-- LDA migration: lda.senate.gov → lda.gov before June 30, 2026 sunset
+- LDA migration: lda.gov → lda.gov before June 30, 2026 sunset
 
 ---
 
@@ -87,7 +87,7 @@ Next:
 - David testing Ops app, reporting issues for polish
 - Check `content/Admin Notes/` for any open notes from David
 - Run opensecrets-replace for remaining categories (~3,000 URLs)
-- LDA migration: lda.senate.gov → lda.gov before June 30, 2026 sunset
+- LDA migration: lda.gov → lda.gov before June 30, 2026 sunset
 - Pipeline coverage report for enrichment gaps
 
 ---
@@ -137,7 +137,7 @@ Next:
 - Fix House stock watcher data URL
 - Update Pipeline Guide with all 32 pipeline entries
 - Run opensecrets-replace for remaining categories (orgs, pacs, outside-spending)
-- LDA migration: lda.senate.gov → lda.gov before June 30, 2026 sunset
+- LDA migration: lda.gov → lda.gov before June 30, 2026 sunset
 - Run pipeline coverage report to identify enrichment gaps
 - Split CI into fast/slow workflows if timeout issues arise
 

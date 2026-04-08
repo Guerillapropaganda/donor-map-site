@@ -196,7 +196,7 @@ Americans pay 3–4x what Germans, Canadians, Australians pay for identical drug
 ### Sources
 
 ### Tier 1 — Government Records & Official Data
-- [Senate LDA Filings: PhRMA Lobbying Profile, 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: PhRMA Lobbying Profile, 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [FEC Candidate: Cory Booker Donor Profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
 - [FEC Candidate: Richard Neal Donor Profile](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
 - [FEC Candidate: Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1)

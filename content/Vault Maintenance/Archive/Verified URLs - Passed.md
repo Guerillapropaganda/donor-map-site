@@ -98,9 +98,9 @@ https://jacobin.com/2022/08/joe-manchin-ira-fossil-fuel-donors
 https://jacobin.com/2025/06/corporate-money-nyc-council-elections
 https://labornotes.org/2023/03/uaw-reformers-clinch-presidency
 https://labornotes.org/2023/10/big-3-buckled-stand-strike-spread
-https://lda.senate.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/
-https://lda.senate.gov/filings/public/filing/94aa0f30-7984-4a4e-bb3c-9f50b25355b3/print/
-https://lda.senate.gov/filings/public/filing/search/
+https://lda.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/
+https://lda.gov/filings/public/filing/94aa0f30-7984-4a4e-bb3c-9f50b25355b3/print/
+https://lda.gov/filings/public/filing/search/
 https://marginalrevolution.com/?p=91799
 https://nadler.house.gov/news/documentsingle.aspx?DocumentID=396204
 https://new.keystonenewsroom.com/news/politics/jeffrey-yass-trump-tiktok-ban/

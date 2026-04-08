@@ -233,15 +233,15 @@ The revolving door at K&L Gates is not especially lurid — there are no Haley B
 
 ### Sources
 
-- [Senate LDA Filings: K&L Gates Lobbying Profile 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: K&L Gates Lobbyists 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: K&L Gates Lobbying Profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: K&L Gates Lobbyists 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [K&L Gates: Adds Recently Retired US Congressman Mike Doyle to Public Policy Practice (December 2022)](https://www.klgates.com/KL-Gates-Adds-Recently-Retired-US-Congressman-Mike-Doyle-to-Public-Policy-and-Law-Practice-12-27-2022) (Tier 3)
 - [K&L Gates: Strengthens Public Policy Practice With DC Additions — Jackson, Fulton, Bickwit (May 2023)](https://www.klgates.com/KL-Gates-Strengthens-Public-Policy-and-Law-Practice-with-Washington-DC-Additions-5-3-2023) (Tier 3)
 - [K&L Gates: Adds Joseph Trahern Of Counsel to Public Policy Practice (January 2024)](https://www.klgates.com/KL-Gates-Adds-Of-Counsel-to-Public-Policy-and-Law-Practice-in-Washington-DC-1-17-2024) (Tier 3)
 - [K&L Gates: Daniel F.C. Crowley Partner Profile](https://www.klgates.com/lawyers/Daniel-FC-Crowley) (Tier 3)
 - [K&L Gates: Public Policy and Law Practice Overview](https://www.klgates.com/Public-Policy-and-Law-Practices) (Tier 3)
 - [The Hill: Ex-GOP Rep. Denham Heads to Lobbying Firm (K&L Gates, 2019)](https://thehill.com/business-a-lobbying/442730-ex-gop-rep-denham-heads-to-lobbying-firm/) (Tier 2)
-- [Senate LDA Filings: K&L Gates Issues Lobbied 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: K&L Gates Issues Lobbied 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Wikipedia: K&L Gates](https://en.wikipedia.org/wiki/K&L_Gates) (Tier 3)
 - [Congress.gov: SHIPS for America Act of 2024 (H.R.10493)](https://www.congress.gov/bill/118th-congress/house-bill/10493) (Tier 1)
 - [American Maritime Partnership: Applauds SHIPS for America Act sponsors](https://www.americanmaritimepartnership.com/general/american-maritime-partnership-applauds-the-sponsors-of-the-ships-for-america-act-press-release/) (Tier 3)

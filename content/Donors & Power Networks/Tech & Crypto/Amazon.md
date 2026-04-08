@@ -188,7 +188,7 @@ Amazon is the most complete case study in the vault of how a single corporation 
 - [OpenSecrets: Amazon.com Summary](https://www.opensecrets.org/orgs/amazon-com/summary?id=D000023883) (Tier 1)
 - [OpenSecrets: Amazon.com PAC Contributions 2024](https://www.opensecrets.org/political-action-committees-pacs/amazon-com/C00360354/summary/2024) (Tier 1)
 - [OpenSecrets: Amazon.com PAC Candidate Recipients](https://www.opensecrets.org/political-action-committees-pacs/amazon-com/C00360354/candidate-recipients/2024) (Tier 1)
-- [Senate LDA Filings: Amazon.com Lobbying Profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Amazon.com Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [NLRB: Joint Employer Final Rule](https://www.nlrb.gov/news-outreach/news-story/nlrb-issues-joint-employer-final-rule) (Tier 1)
 - [Senate HELP Committee: Amazon Warehouse Investigation (PDF)](https://www.help.senate.gov/imo/media/doc/help_committee_amazon_interim_report.pdf) (Tier 1)
 - [Nextgov: NSA Awards Secret $10B Contract to Amazon](https://www.nextgov.com/modernization/2021/08/nsa-awards-secret-10-billion-contract-amazon/184390/) (Tier 2)
@@ -257,7 +257,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Consumer Product Safety Commission (CPSC), Defense, Dept of (DOD), Director of National Intelligence (ODNI), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA) +35 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Amazon) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Amazon) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

@@ -262,7 +262,7 @@ research-status:: developed — Expanded from 47 to 190+ lines. CMD $86.4M grant
 
 **Agencies contacted:** Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Congressional Budget Office (CBO), Defense, Dept of (DOD), Energy, Dept of, Executive Office of the President (EOP), Federal Emergency Management Agency (FEMA), HOUSE OF REPRESENTATIVES, Health Resources & Services Administration (HRSA), SENATE +4 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Bradley%20Foundation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Bradley%20Foundation) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

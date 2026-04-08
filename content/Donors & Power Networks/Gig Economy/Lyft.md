@@ -219,7 +219,7 @@ content-readiness:: ready
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Labor, Dept of (DOL), Natl Highway Traffic Safety Administration (NHTSA), SENATE, Transportation, Dept of (DOT), Veterans Affairs, Dept of (VA), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Lyft) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Lyft) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

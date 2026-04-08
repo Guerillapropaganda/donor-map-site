@@ -85,7 +85,7 @@ content-readiness:: raw
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Other), Bureau of Citizenship & Immigration Services (BCIS), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Council of Economic Advisers (CEA), Defense, Dept of (DOD) +41 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=United%20Auto%20Workers) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=United%20Auto%20Workers) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### SEC Filing Activity

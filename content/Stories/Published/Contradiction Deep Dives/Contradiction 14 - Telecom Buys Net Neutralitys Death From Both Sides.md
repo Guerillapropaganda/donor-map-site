@@ -18,7 +18,7 @@ related: [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] [[_Chuck Schumer Mast
 
 ---
 
-Net neutrality was not killed by ideology. It was killed by money flowing to both sides of the aisle. Four companies — Comcast, AT&T, Verizon, and Charter — spent approximately $145 million in combined contributions to federal candidates across the 2014–2024 cycles, while their all-time federal lobbying totals reach staggering levels: AT&T at $324 million (No. 2 all-time), Verizon at $317 million (No. 4), and Comcast at $283 million (No. 9). [Senate LDA Filings: Federal Lobbying Rankings](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+Net neutrality was not killed by ideology. It was killed by money flowing to both sides of the aisle. Four companies — Comcast, AT&T, Verizon, and Charter — spent approximately $145 million in combined contributions to federal candidates across the 2014–2024 cycles, while their all-time federal lobbying totals reach staggering levels: AT&T at $324 million (No. 2 all-time), Verizon at $317 million (No. 4), and Comcast at $283 million (No. 9). [Senate LDA Filings: Federal Lobbying Rankings](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
 The industry deliberately hedges its bets. AT&T gave 64.9% to Republicans in 2014 but 70.2% to Democrats in 2020. Comcast's PAC tilted Republican until 2022, when it flipped to 52.4% Democratic. In the 2016 cycle, Comcast gave to 360 House members (83%) and 52 senators; AT&T gave to 381 House members (88%) and all 91 senators who ran. At least 31 members of Congress owned Comcast shares and 50 owned Verizon shares in 2015. [OpenSecrets: AT&T Profile](https://www.opensecrets.org/orgs/at-t-inc/totals?id=d000000076) (Tier 1)
 
@@ -147,7 +147,7 @@ The revolving door is fully bipartisan — Democrats and Republicans rotate thro
 | Verizon | $317,309,919 | #4 all-time |
 | Comcast | $283,470,323 | #9 all-time |
 
-Combined: $924 million in all-time federal lobbying from three companies alone. [Senate LDA Filings: Federal Lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+Combined: $924 million in all-time federal lobbying from three companies alone. [Senate LDA Filings: Federal Lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
 ---
 

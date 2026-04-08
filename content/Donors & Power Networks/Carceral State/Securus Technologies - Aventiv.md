@@ -100,7 +100,7 @@ The $315M California contract is the countervailing force. Even as rates are reg
 - [California Department of Technology: Securus contract award (February 2025)](https://www.cdcr.ca.gov/family-resources/tablets/) (Tier 1)
 - [Prison Policy Initiative: Martha Wright-Reed Act analysis](https://www.prisonpolicy.org/blog/2024/07/18/fcc-vote/) (Tier 1)
 - [Prison Policy Initiative: Prison telecom research](https://www.prisonpolicy.org/phones/) (Tier 2)
-- [Senate LDA Filings: Aventiv Technologies lobbying data](https://lda.senate.gov/filings/public/filing/search/) (Tier 2)
+- [Senate LDA Filings: Aventiv Technologies lobbying data](https://lda.gov/filings/public/filing/search/) (Tier 2)
 - [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3)
 
 research-status:: ready — $700M revenue, 50% market share, Platinum Equity $1.6B acquisition, $1.3B debt, $315M CA contract, commission model, surveillance/location tracking, Martha Wright-Reed Act, CCC- S&P rating, video visitation scheme. 8 sources, Tier 1-3. All ### headers. Promoted Session 38l.

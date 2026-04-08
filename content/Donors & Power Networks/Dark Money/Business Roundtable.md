@@ -154,7 +154,7 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Bureau of Industry and Security (BIS), Commerce, Dept of (DOC), Council on Environmental Quality (CEQ), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA) +26 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Business%20Roundtable) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Business%20Roundtable) (Tier 1)
 
 <!-- auto:lda-lobbying end -->
 

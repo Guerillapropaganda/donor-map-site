@@ -185,7 +185,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 **404** — https://www.afpm.org/newsroom/news/afpm-statement-president-trumps-executive-orders-unleashing-american-energy
   Files: Donors & Power Networks\Energy & Utilities\American Fuel and Petrochemical Manufacturers.md
 
-**405** — https://lda.senate.gov/filings/public/filing/94aa0f30-7984-4a4e-bb3c-9f50b25355b3/print/
+**405** — https://lda.gov/filings/public/filing/94aa0f30-7984-4a4e-bb3c-9f50b25355b3/print/
   Files: Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md
 
 **404** — https://www.eastbaytimes.com/2013/02/14/chevron-agrees-to-pay-90-million-to-settle-richmond-refinery-fire-claims/
@@ -215,7 +215,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 **405** — https://ballotpedia.org/Hawaiian_Electric_Company
   Files: Donors & Power Networks\Energy & Utilities\Hawaiian Electric Company.md
 
-**405** — https://lda.senate.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/
+**405** — https://lda.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/
   Files: Donors & Power Networks\Energy & Utilities\Koch Industries.md, Donors & Power Networks\Energy & Utilities\Koch Industries.md
 
 **405** — https://ballotpedia.org/Koch_Industries
@@ -584,7 +584,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 **405** — https://ballotpedia.org/Peter_Thiel
   Files: Donors & Power Networks\Mega-Donors\Palantir Technologies Political Operation.md, Donors & Power Networks\Tech & Crypto\Founders Fund.md, Donors & Power Networks\Tech & Crypto\Founders Fund.md
 
-**405** — https://lda.senate.gov/filings/public/filing/search/?client_name=PALANTIR+TECHNOLOGIES
+**405** — https://lda.gov/filings/public/filing/search/?client_name=PALANTIR+TECHNOLOGIES
   Files: Donors & Power Networks\Mega-Donors\Palantir.md
 
 **405** — https://ballotpedia.org/Paul_Singer
@@ -1064,22 +1064,22 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 **405** — https://ballotpedia.org/Wells_Fargo
   Files: Donors & Power Networks\Wall Street\Wells Fargo.md
 
-**405** — https://lda.senate.gov/filings/public/filing/search/?registrant=Akin+Gump
+**405** — https://lda.gov/filings/public/filing/search/?registrant=Akin+Gump
   Files: Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
 
 **404** — https://en.wikipedia.org/wiki/Gerald_Cassidy_(lobbyist
   Files: Lobbying Firms & K Street\Cassidy & Associates.md
 
-**405** — https://lda.senate.gov/filings/public/filing/search/?registrant=Fierce+Government+Relations
+**405** — https://lda.gov/filings/public/filing/search/?registrant=Fierce+Government+Relations
   Files: Lobbying Firms & K Street\Fierce Government Relations.md
 
-**405** — https://lda.senate.gov/filings/public/filing/search/?registrant=Mercury&filing_year=2025
+**405** — https://lda.gov/filings/public/filing/search/?registrant=Mercury&filing_year=2025
   Files: Lobbying Firms & K Street\Mercury Public Affairs.md
 
 **405** — https://ballotpedia.org/Mercury_Public_Affairs
   Files: Lobbying Firms & K Street\Mercury Public Affairs.md
 
-**405** — https://lda.senate.gov/filings/public/filing/search/?registrant=Thorn+Run&filing_year=2025
+**405** — https://lda.gov/filings/public/filing/search/?registrant=Thorn+Run&filing_year=2025
   Files: Lobbying Firms & K Street\Thorn Run Partners.md
 
 **429** — https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=weiss%2C+bari&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date
@@ -2660,16 +2660,16 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 **405** — https://www.haaretz.com/us-news/2026-03-18/ty-article/.premium/aipacs-21-million-illinois-efforts-help-defeat-israel-critics-amid-scrutiny/0000019c-fed9-d088-a5fc-fed9a4270000
   Files: Stories\Internal\Daily Updates\2026-03-24 News Scan.md
 
-**405** — https://lda.senate.gov/api/v1/filings/?filing_year=2026&page_size=20&ordering=-dt_posted
+**405** — https://lda.gov/api/v1/filings/?filing_year=2026&page_size=20&ordering=-dt_posted
   Files: Stories\Internal\Daily Updates\2026-03-27 API Briefing.md, Stories\Internal\Daily Updates\2026-03-27 API Briefing.md
 
 **405** — https://api.usaspending.gov/api/v2/search/spending_by_award/
   Files: Stories\Internal\Daily Updates\2026-03-27 API Briefing.md, Stories\Internal\Daily Updates\2026-03-27 API Briefing.md
 
-**405** — https://lda.senate.gov/filings/public/filing/30e77a16-2d6c-4794-a28e-34e5c800caa0/print/
+**405** — https://lda.gov/filings/public/filing/30e77a16-2d6c-4794-a28e-34e5c800caa0/print/
   Files: Stories\Internal\Daily Updates\2026-03-27 API Briefing.md
 
-**405** — https://lda.senate.gov/filings/public/filing/afcef92f-b9d9-49f3-ba4b-4020a7f86f6b/print/
+**405** — https://lda.gov/filings/public/filing/afcef92f-b9d9-49f3-ba4b-4020a7f86f6b/print/
   Files: Stories\Internal\Daily Updates\2026-03-27 API Briefing.md
 
 **404** — https://www.foxnews.com/politics/trump-aligned-super-pac-enters-2026-with-nearly-300m-war-chest.amp
@@ -2822,7 +2822,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 **404** — https://www.propublica.org/article/securus-jail-phone-calls-attorney-client-privilege
   Files: Stories\Published\Contradiction Deep Dives\Contradiction 23 - Prison Telecom Monopoly Profits From Bipartisan Neglect.md
 
-**405** — https://lda.senate.gov/filings/public/filing/search/
+**405** — https://lda.gov/filings/public/filing/search/
   Files: Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md, Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md, Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md, Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md
 
 **404** — https://democracync.org/research/charlotte-named-north-carolinas-political-money-center-shows-need-campaign-reform
@@ -3062,14 +3062,14 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/freedom-partners-chamber-of-commerce/C90016692/summary/2018
 - 403 — https://www.opensecrets.org/orgs/gun-owners-of-america/summary
 - 403 — https://www.opensecrets.org/orgs/gun-owners-of-america/lobbying?id=D000026353
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.sourcewatch.org/index.php/HBW_Resources
 - 403 — https://www.opensecrets.org/orgs/hbw-resources/summary?id=D000073431
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/news/2019/03/big-pharma-insurers-hospitals-team-up-to-kill-medicare-for-all/
 - 403 — https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/
 - 403 — https://www.opensecrets.org/news/2023/02/despite-record-federal-lobbying-spending-the-pharmaceutical-and-health-product-industry-lost-their-biggest-legislative-bet-in-2022/
@@ -3126,7 +3126,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/american-iron-steel-institute/C00295097/summary/2022
 - 403 — https://www.opensecrets.org/news/2021/11/steel-producers-eyeing-new-infrastructure-investment-spend-big-on-lobbying/
 - 403 — https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/bae-systems/summary?id=D000000236
 - 403 — https://www.opensecrets.org/orgs/bechtel-corp/summary
 - 403 — https://www.opensecrets.org/orgs/boeing-co/summary?id=D000000100
@@ -3154,7 +3154,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/honeywell-international/summary?id=D000000334
 - 403 — https://www.opensecrets.org/orgs/l3-technologies
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/l3harris-technologies/C00100321/summary/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/
 - 403 — https://www.opensecrets.org/orgs/leidos-inc/summary?id=D000000369
 - 403 — https://www.opensecrets.org/orgs/leidos-inc/lobbying?id=D000000369
@@ -3163,11 +3163,11 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.pogo.org/analyses/from-battlefield-to-boardroom-facilitating-dod-revolving-door
 - 403 — https://www.opensecrets.org/orgs/lockheed-martin/summary?id=D000000104
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/lockheed-martin/C00303024/summary/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/northrop-grumman/summary?id=D000000170
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/northrop-grumman/C00088591/summary/2024
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/northrop-grumman/C00088591/candidate-recipients/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.pogo.org/analyses/northrop-grumman-uses-b-21-program-to-push-unproven-inflation-bailout
 - 403 — https://www.armscontrol.org/factsheets/us-modernization-2024-update
 - 403 — https://thehill.com/homenews/senate/5799286-iran-war-powers-resolution-defeated/
@@ -3178,7 +3178,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://247wallst.com/investing/2026/02/13/if-trump-lowers-steel-tariffs-is-nucor-still-a-buy/
 - 403 — https://www.opensecrets.org/orgs/rtx-corp/summary?id=D000072615
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/rtx-corp/C00097568/candidate-recipients/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/revolving-door/esper-mark/summary?id=70733
 - 403 — https://www.opensecrets.org/revolving-door/lloyd-austin/summary?id=82688
 - 403 — https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle/
@@ -3203,22 +3203,22 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/southern-company
 - 403 — https://www.opensecrets.org/orgs/american-fuel-petrochemical-manufacturers/summary?id=D000000481
 - 403 — https://www.opensecrets.org/orgs/american-fuel-petrochem-manufacturers/summary?id=D000027874
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/american-petroleum-institute/totals?cycle=A&id=D000031493
 - 403 — https://www.opensecrets.org/news/2024/07/american-petroleum-institute-recycled-same-arguments-for-decades-lobbying-on-climate-policy/
 - 403 — https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1947636
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/american-petroleum-institute/summary?id=D000031493
 - 403 — https://www.sourcewatch.org/index.php/Global_Climate_Science_Communications_Plan_(1998
 - 403 — https://www.opensecrets.org/orgs/chevron/totals?id=D000000015
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/chevron/recipients?id=D000000015
 - 403 — https://www.nytimes.com/2021/04/22/us/politics/chevron-myanmar-sanctions.html
 - 403 — https://www.opensecrets.org/orgs/conocophillips/summary?id=D000000438
 - 403 — https://www.opensecrets.org/orgs/conocophillips/totals?id=D000000303
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/conocophillips/recipients?id=D000000303
 - 403 — https://www.opensecrets.org/news/2022/05/conocophillips-lobbying-fight-alaskan-oil-project/
 - 403 — https://www.opensecrets.org/news/2023/02/oil-and-gas-industry-spent-124-4-million-on-federal-lobbying-amid-record-profits-in-2022/
@@ -3231,7 +3231,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/duke-energy/summary?id=D000000477
 - 403 — https://www.opensecrets.org/orgs/enterprise-products-partners/summary?id=D000033463
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/enterprise-products-partners/C00496752/summary/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/exxon-mobil/summary?id=D000000129
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/C00121368/summary/2024
 - 403 — https://www.opensecrets.org/orgs/exxon-mobil/totals?id=D000000129
@@ -3247,7 +3247,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.bloomberg.com/billionaires/profiles/charles-d-koch/
 - 403 — https://www.forbes.com/sites/moesbachs/2024/08/07/koch-fertilizer-expands-with-36-billion-iowa-acquisition/
 - 403 — https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.politico.com/story/2019/02/04/former-koch-official-runs-epa-chemical-research-1136230
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/koch-inc/C00236489/summary/2024
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/C00236489/candidate-recipients/2024
@@ -3255,11 +3255,11 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://violationtracker.goodjobsfirst.org/parent/koch-industries
 - 403 — https://www.epi.org/policywatch/nlrb-reinstates-2020-joint-employer-rule-that-will-make-it-harder-for-workers-to-join-unions-and-bargain-contracts/
 - 403 — https://www.nytimes.com/2018/09/03/opinion/trump-betrays-forgotten-americans-greenhouse.html
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/koch-industries/lobbying?id=D000000186
 - 403 — https://www.opensecrets.org/news/2022/07/supreme-court-curbs-epa-regulatory-power-after-koch-tied-groups-push/
 - 403 — https://www.opensecrets.org/orgs/marathon-petroleum/totals?id=D000023121
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/marathon-petroleum/recipients?id=D000023121
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/marathon-petroleum/C00496307/summary/2024
 - 403 — https://www.nytimes.com/2018/12/13/climate/cafe-emissions-rollback-oil-industry.html
@@ -3276,7 +3276,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/valero-energy/C00109546/candidate-recipients/2024
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/williams-companies/C00040394/candidate-recipients/2024
 - 403 — https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/aipac/C00104638/summary/2024
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00764431/
 - 403 — https://www.opensecrets.org/fara/countries/41
@@ -3290,7 +3290,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.congress.gov/bill/116th-congress/house-resolution/296
 - 403 — https://www.opensecrets.org/orgs/airbnb-inc/summary?id=D000067232
 - 403 — https://www.opensecrets.org/orgs/american-gaming-assn/summary?id=D000023966
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/american-gaming-assn/C00309146/summary/2024
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
 - 403 — https://www.americangaming.org/2024-commercial-gaming-revenue-reaches-71-9b-marking-fourth-straight-year-of-record-revenue/
@@ -3301,19 +3301,19 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/doordash-inc/summary?id=D000072628
 - 403 — https://thehill.com/lobbying/3550101-doordash-expands-political-footprint-with-new-pac/
 - 403 — https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/ford-motor-co/summary?id=D000000093
 - 403 — https://www.opensecrets.org/orgs/general-motors/summary?id=D000000155
 - 403 — https://www.opensecrets.org/orgs/instacart/summary?id=D000074851
 - 403 — https://cal-access.sos.ca.gov/Campaign/Measures/Detail.aspx?id=1423353&session=2019
 - 403 — https://www.opensecrets.org/orgs/lyft-inc/summary?id=D000067782
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/elevance-health/summary?id=D000065854
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/elevance-health/C00197228/summary/2024
 - 403 — https://www.opensecrets.org/orgs/elevance-health/lobbying?id=D000023159
 - 403 — https://www.fiercehealthcare.com/payers/elevance-health-beats-profit-misses-revenue-mixed-q4
 - 403 — https://www.opensecrets.org/orgs/blue-cross-blue-shield/summary?id=D000000109
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://ktla.com/news/california/corporate-giants-flooded-newsom-with-record-226-million-in-charity-donations-in-2020/
 - 403 — https://www.opensecrets.org/orgs/cigna-group/summary?id=D000025719
 - 403 — https://www.opensecrets.org/orgs/cigna-group/lobbying?id=D000025719
@@ -3323,7 +3323,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/humana-inc/summary?id=D000000652
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/america-s-health-insurance-plans/summary?id=D000021819
 - 403 — https://www.opensecrets.org/orgs/unitedhealth-group/summary?id=D000000348
 - 403 — https://www.opensecrets.org/news/2021/06/costly-battle-obamacare-over/
@@ -3334,7 +3334,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.congress.gov/bill/118th-congress/house-bill/972
 - 403 — https://www.beckershospitalreview.com/hospital-management-administration/tenet-spends-630k-to-derail-medicare-for-all/
 - 403 — https://investor.tenethealth.com/governance/disclosure-of-political-expenditures/default.aspx
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.politico.com/news/2024/06/09/aipac-republican-donors-democratic-primaries-00162404
 - 403 — https://www.politico.com/news/2024/10/30/israel-aipac-funded-congress-travel-00185167
 - 403 — https://www.opensecrets.org/news/2022/11/american-israel-public-affairs-committee-backed-candidates-won-midterm-races-following-big-spending-by-groups-super-pac/
@@ -3367,7 +3367,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/american-federation-of-government-employees/summary
 - 403 — https://www.afge.org/about-afge/
 - 403 — https://www.opensecrets.org/orgs/afl-cio/summary?id=d000000088
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.fec.gov/data/independent-expenditures/
 - 403 — https://www.congress.gov/bill/118th-congress/house-bill/20
 - 403 — https://www.epi.org/publication/unions-raise-wages-tariffs-dont-why-trumps-trade-policy-wont-help-u-s-workers/
@@ -3385,7 +3385,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/teamsters-union/summary?id=D000000066
 - 403 — https://www.opensecrets.org/orgs/united-auto-workers/summary?id=D000000070
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/united-auto-workers/totals?cycle=A&id=d000000070
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2020
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2016
@@ -3395,7 +3395,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.politico.com/news/2024/01/24/biden-gets-uaw-endorsement-after-noticeable-delay-00137610
 - 403 — https://www.nytimes.com/2024/07/31/us/politics/uaw-kamala-harris.html
 - 403 — https://www.quorum.us/blog/corporate-donations/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/united-food-commercial-workers-union/summary?id=D000000072
 - 403 — https://www.opensecrets.org/orgs/unite-here/summary?id=D000022292
 - 403 — https://www.opensecrets.org/orgs/united-farm-workers/summary?id=D000057925
@@ -3409,7 +3409,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.fcc.gov/restoring-internet-freedom
 - 403 — https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html
 - 403 — https://www.opensecrets.org/orgs/comcast-corp/summary?id=D000000461
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeffrey%20Katzenberg
 - 403 — https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20Geffen
 - 403 — https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Haim%20Saban
@@ -3442,7 +3442,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.washingtonpost.com/graphics/politics/mercer-bannon/
 - 403 — https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024670
 - 403 — https://www.opensecrets.org/orgs/centene-corp/recipients?id=D000024670
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://missouriindependent.com/2022/11/04/centene-showers-politicians-with-millions-as-it-courts-contracts-settles-overbilling-allegations/
 - 403 — https://www.fiercehealthcare.com/payers/elevance-health-centene-donated-trump-inaugural-fund
 - 403 — https://www.opensecrets.org/pacs/pacgave.php?cmte_id=C00432260&cycle=2024
@@ -3545,7 +3545,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/elections-overview/biggest-donors?cycle=2018&view=hi
 - 403 — https://www.opensecrets.org/orgs/meta/summary?id=D000033563
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=mark%20zuckerberg
 - 403 — https://www.politico.com/
 - 403 — https://www.washingtonpost.com/
@@ -3556,10 +3556,10 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.axios.com/2024/07/16/jd-vance-venture-capital-career
 - 403 — https://www.fastcompany.com/91157500/companies-jd-vance-invested-in-as-a-vc
 - 403 — https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/palantir-technologies/C00498691/candidate-recipients/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=paul%20singer
 - 403 — https://www.washingtonpost.com/news/business/wp/2016/03/29/how-one-hedge-fund-made-2-billion-from-argentinas-economic-collapse/
 - 403 — https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/
@@ -3605,10 +3605,10 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.usnews.com/news/elections/articles/2026/01/15/maga-inc-enters-2026-with-300-million-war-chest
 - 403 — https://www.opensecrets.org/orgs/sentinel-action-fund/summary
 - 403 — https://www.opensecrets.org/orgs/united-parcel-service/summary?id=D000000081
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/united-parcel-service/C00064766/candidate-recipients/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/walmart-inc/summary?id=D000000367
 - 403 — https://www.forbes.com/sites/edwindurgy/2011/09/26/the-forbes-400s-newest-undercover-billionaires-the-wilks-brothers/
 - 403 — https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=winklevoss
@@ -3617,7 +3617,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024795
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/eli-lilly-co/C00082792/summary/2024
 - 403 — https://www.opensecrets.org/orgs/eli-lilly-co/summary?id=d000000166
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/gilead-sciences/summary?id=D000000540
 - 403 — https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385
 - 403 — https://www.opensecrets.org/orgs/johnson-johnson/lobbying?id=D000000385
@@ -3634,7 +3634,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/pfizer-inc/summary?id=D000000138
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/pfizer-inc/C00016683/summary/2024
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/pfizer-inc/C00016683/candidate-recipients/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://thehill.com/homenews/4264609-pfizer-plans-to-more-than-double-price-of-covid-medication-paxlovid/
 - 403 — https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful
 - 403 — https://qz.com/1656529/yet-another-fda-commissioner-joins-the-pharmaceutical-industry
@@ -3643,13 +3643,13 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.congress.gov/crs-product/R47872
 - 403 — https://www.fiercepharma.com/pharma/big-pharma-greets-hundreds-ex-federal-workers-at-revolving-door
 - 403 — https://thehill.com/blogs/congress-blog/politics/452654-for-big-pharma-the-revolving-door-keeps-spinning/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.fiercepharma.com/pharma/appeals-court-resurrects-phrmas-lawsuit-challenging-drug-pricing-provisions-ira
 - 403 — https://www.bloomberg.com/news/articles/2011-11-29/tauzin-s-11-6-million-made-him-highest-paid-health-law-lobbyist
 - 403 — https://www.politico.com/newsletters/prescription-pulse/2026/01/23/drugmaker-lobbying-reaches-historic-high-00742296
 - 403 — https://www.commonwealthfund.org/publications/issue-briefs/2020/apr/lower-drug-costs-now-act-hr3-how-it-would-work
 - 403 — https://www.opensecrets.org/orgs/purdue-pharma/summary?id=D000022208
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/news/2019/04/purdue-pharma-and-the-sackler-family-under-scrutiny-for-role-in-opioid-crisis-are-big-political-spenders/
 - 403 — https://www.politico.com/newsletters/politico-influence/2023/12/13/single-family-rentals-group-hires-thegroup-00131647
 - 403 — https://www.novoco.com/notes-from-novogradac/tax-teams-series-highlighting-the-impact-of-the-opportunity-zones-incentive
@@ -3691,7 +3691,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/national-multi-family-housing-council/summary?id=D000025696
 - 403 — https://www.opensecrets.org/orgs/national-multifamily-housing-council/summary?id=D000000755
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/national-multifamily-housing-council/C00130773/summary/2022
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/summary/2022
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/donors/2022
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/expenditures/2022
@@ -3724,7 +3724,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/league-of-conservation-voters/recipients?id=D000000288
 - 403 — https://www.opensecrets.org/orgs/league-of-conservation-voters/summary?id=d000000288
 - 403 — https://www.opensecrets.org/orgs/league-of-conservation-voters/totals?id=d000000288
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.washingtonpost.com/politics/2026/02/02/trump-pac-fundraising-midterms/
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/maga-inc/C00892471/summary/2024
 - 403 — https://www.opensecrets.org/news/2024/08/heir-to-andrew-mellons-fortune-spends-over-165-million-to-support-trumps-reelection/
@@ -3781,11 +3781,11 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/amazon-com/summary?id=D000023883
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/amazon-com/C00360354/summary/2024
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/amazon-com/C00360354/candidate-recipients/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://thehill.com/business/3931442-amazon-spent-unmatched-14-million-on-labor-consultants-in-anti-union-push/
 - 403 — https://www.washingtonpost.com/local/virginia-news/amazon-hq2-to-receive-more-than-28-billion-in-incentives-from-virginia-new-york-and-tennessee/2018/11/13/f3f73cf4-e757-11e8-a939-9469f1166f9d_story.html
 - 403 — https://www.datacenterdynamics.com/en/news/report-cia-gives-amazon-us600m-cloud-contract/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/apple-inc/summary?id=D000021754
 - 403 — https://www.opensecrets.org/orgs/apple-inc/lobbying?id=D000021754
 - 403 — https://www.washingtonpost.com/technology/2021/08/11/apple-google-senators-app-store-conflict/
@@ -3827,13 +3827,13 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.inc.com/leila-sheridan/peter-thiel-makes-his-biggest-political-donation-in-years-to-fight-californias-billionaire-tax/91286966
 - 403 — https://www.congress.gov/bill/117th-congress/senate-bill/4760
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/protect-our-future-pac/C00801514/summary/2022
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.washingtonpost.com/business/2022/12/14/sbf-ftx-political-donations/
 - 403 — https://time.com/6241262/sam-bankman-fried-political-donations/
 - 403 — https://www.courthousenews.com/former-ftx-executive-ryan-salame-sentenced-to-7-5-years-for-election-donor-scheme-with-sam-bankman-fried/
 - 403 — https://www.opensecrets.org/orgs/alphabet-inc/summary?id=D000067823
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://time.com/5116226/google-lobbying-2017/
 - 403 — https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/
 - 403 — https://www.opensecrets.org/orgs/alphabet-inc/recipients?id=D000067823
@@ -3843,7 +3843,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sundar%20Pichai
 - 403 — https://www.congress.gov/crs-product/LSB11362
 - 403 — https://bipartisanpolicy.org/article/gonzalez-v-google/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2022
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2020
@@ -3855,8 +3855,8 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/andreessen-horowitz/summary?id=D000047147
 - 403 — https://www.bloomberg.com/news/features/2026-02-10/trump-s-ai-policy-shaped-by-vc-tech-giant-andreessen-horowitz
 - 403 — https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.bloomberggov.com/
 - 403 — https://www.opensecrets.org/orgs/microsoft-corp/summary?id=D000000115
 - 403 — https://www.opensecrets.org/orgs/microsoft-corp/lobbying?id=D000000115
@@ -3886,7 +3886,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/blackrock-inc/summary?id=D000067266
 - 403 — https://www.nytimes.com/2020/04/14/business/blackrock-federal-reserve-bond-buying.html
 - 403 — https://www.ft.com/content/blackrock-esg-backlash
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stephen%20Schwarzman
 - 403 — https://www.opensecrets.org/orgs/blackstone-group/recipients?id=D000021873
 - 403 — https://www.cbo.gov/publication/options-reducing-deficit
@@ -3911,8 +3911,8 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
 - 403 — https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085
 - 403 — https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/news/2017/03/revolving-door-goldman-sachs/
 - 403 — https://thehill.com/blogs/pundits-blog/the-administration/309966-trump-continues-white-houses-goldman-sachs-revolving/
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/C00350744/candidate-recipients/2024
@@ -3992,105 +3992,105 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — http://opensecrets.org/news/2026/03/some-major-trump-donors-are-now-reaping-billions-in-ice-contracts
 - 403 — http://opensecrets.org/news/2026/03/trump-administration-profile-markwayne-mullin
 - 403 — http://opensecrets.org/news/2026/03/anthropics-ai-safety-stance-clashes-with-pentagon-and-reshapes-spending-on-primaries
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/news/2019/01/retired-reps-find-new-lobbying-jobs-with-former-campaign-contributor/
 - 403 — https://thehill.com/business-a-lobbying/business-a-lobbying/424130-ex-gop-lawmakers-ros-lehtinen-lamar-smith-join-akin/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/revolving-door/firm-profile?id=D000000162
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/orgs/alpine-group/lobbying?id=D000021816
 - 403 — https://thehill.com/lobbying/4898825-lobbying-world-alpine-group-ceo/
 - 403 — https://www.taxnotes.com/featured-news/lobbying-swells-tcja-rewrite-high-tide-forecast-2025/2024/08/21/7l4xw
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/fara/results?foreign-principal=&location=&order=desc&page=1&query=&registrant=Ballard+Partners&sort=stamped
 - 403 — https://www.opensecrets.org/news/2019/01/ballard-partners-revolving-door-white-house/
 - 403 — https://www.opensecrets.org/news/2025/08/the-rise-of-ballard-partners-now-the-top-lobbying-firm-in-the-country
 - 403 — https://www.washingtonpost.com/national-security/2026/03/21/firm-with-ties-trump-officials-signs-deal-lobby-libyan-warlord/
 - 403 — https://www.opensecrets.org/news/2025/07/pharma-industry-and-ballard-partners-dominate-the-lobbying-space-in-second-quarter-of-2025/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/revolving-door/duffy-sean-p/summary?id=82248
 - 403 — https://www.opensecrets.org/news/2025/11/as-lobbying-revenue-grows-at-record-pace-trump-aligned-firms-reap-the-biggest-rewards
 - 403 — https://www.opensecrets.org/news/2023/12/top-firms-rake-in-millions-lobbying-for-foreign-nations-on-us-defense-budget/
 - 403 — https://thehill.com/homenews/education/5574565-universities-lobbying-trump-crackdown/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/fara/registrants/D000000724
 - 403 — https://www.washingtonpost.com/climate-environment/2019/04/03/firm-that-once-employed-trumps-pick-run-interior-is-making-millions-lobbying-it/
 - 403 — https://www.sourcewatch.org/index.php/Brownstein_Hyatt_Farber_Schreck
 - 403 — https://www.sourcewatch.org/index.php?title=Energy,_Environment_and_Agriculture_Task_Force
 - 403 — https://news.bloomberglaw.com/environment-and-energy/interior-watchdog-opens-ethics-probe-into-secretary-bernhardt
 - 403 — https://news.bloomberglaw.com/business-and-practice/lobby-giants-cash-in-on-trump-tax-bill-as-brownstein-hits-record
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://thehill.com/business-a-lobbying/business-a-lobbying/200517-inside-a-k-street-success-story/
 - 403 — https://www.washingtonpost.com/business/capitalbusiness/capitol-counsel-has-shot-to-top-of-k-street/2013/11/22/6fe6dadc-507b-11e3-a7f0-b790929232e1_story.html
 - 403 — https://thehill.com/business-a-lobbying/lobbying-hires/540597-pat-roberts-joins-lobbying-firm-weeks-after-senate/
 - 403 — https://aerialfiremag.com/2026/03/05/collective-strategies-and-capitol-counsel-a-strategic-union-to-confront-the-wildfire-crisis/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://thehill.com/business-a-lobbying/business-a-lobbying/190992-k-street-icon-cassidy-to-step-down/
 - 403 — https://thehill.com/lobbying/4343004-lobbying-world-feinsteins-chief-of-staff-joins-cassidy-associates/
 - 403 — https://thehill.com/lobbying/4773312-bottom-line-former-blm-director-signs-up-to-lobby-for-wetlands-defense/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/revolving-door/search_result?priv=Cornerstone+Government+Affairs
 - 403 — https://thehill.com/lobbying/4320772-lobbying-world-cornerstone-snags-dnc-chief/
 - 403 — https://thehill.com/lobbying/4816663-lobbying-world-dhs-alum-joins-cornerstone/
 - 403 — https://thehill.com/lobbying/4974606-lobbying-world-treasury-appointee-joins-cornerstone/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://thehill.com/business-a-lobbying/business-a-lobbying/502725-lott-breaux-join-lobbying-shop-crossroads-strategies/
 - 403 — https://thehill.com/business/4411828-lobbying-world-schumer-amazon-alum-to-join-crossroads-strategies/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/revolving-door/firm-profile?id=D000021982
 - 403 — https://news.bloomberglaw.com/artificial-intelligence/ai-influence-spending-booms-signaling-monumental-clashes-ahead
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/revolving-door/summary?id=84071
 - 403 — https://thehill.com/business-a-lobbying/business-a-lobbying/326279-lobby-firm-heather-podesta-partners-rebrands/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://thehill.com/business-a-lobbying/442730-ex-gop-rep-denham-heads-to-lobbying-firm/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.congress.gov/bill/118th-congress/house-bill/10493
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://thehill.com/lobbying/3697714-top-firms-raked-in-record-profits-lobbying-to-influence-chips-act-ira/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/fara/registrants/D000071638
 - 403 — https://euromaidanpress.com/2025/12/12/ex-trump-campaign-adviser-now-consulting-for-sanctioned-russian-oil-giant-seeking-buyer-for-global-assets/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://thehill.com/business-a-lobbying/business-a-lobbying/301420-peck-madigan-jones-hires-obama-clinton-white-house/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.wpp.com/en/news/2024/01/wpp-unites-bcw-and-hill-knowlton-to-create-burson
 - 403 — https://www.pitchonnet.com/pitch-feature/wpps-strategic-overhaul-sparks-speculation-around-a-potential-sale-of-burson-39003.html
 - 403 — https://thehill.com/homenews/campaign/4575052-no-labels-party-passes-2024-election-candidate/
@@ -4098,20 +4098,20 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/skdknickerbocker/summary?id=D000066684
 - 403 — https://www.opensecrets.org/campaign-expenditures/vendor?vendor=SKDKnickerbocker
 - 403 — https://www.washingtonpost.com/politics/2022/03/28/anita-dunn-biden-skdk/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://news.bloomberglaw.com/business-and-practice/trump-defense-secretary-esper-joins-squire-patton-boggs
 - 403 — https://thehill.com/homenews/4465281-lobbying-world-dhs-assistant-secretary-jumps-to-squire-patton-boggs/
 - 403 — https://news.bloomberglaw.com/us-law-week/assange-allies-turn-to-squire-patton-boggs-to-help-lobby-doj
 - 403 — https://www.washingtonpost.com/national-security/2025/12/23/dji-drone-fcc-ban-national-security/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.opensecrets.org/revolving-door/search_result?priv=Thorn+Run+Partners
 - 403 — https://thehill.com/homenews/media/478340-cnn-moderator-criticized-for-question-to-sanders/
 - 403 — https://thehill.com/video/ana-kasparian-explains-her-beef-with-the-left-details-horrific-assault-by-homeless-man/10132153/
@@ -4429,7 +4429,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.washingtontimes.com/news/2013/mar/8/lawmaker-corrupt-ties-chavez-represents-us-funeral/
 - 403 — https://www.timesofisrael.com/pro-israel-democrat-gregory-meeks-voted-chair-of-key-house-foreign-affairs-panel/
 - 403 — https://www.fec.gov/data/candidate/H2NY10092/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.fec.gov/data/candidate/H2NY10092/
 - 403 — https://www.opensecrets.org/personal-finances/hakeem-jeffries/net-worth?cid=N00033640
 - 403 — https://www.opensecrets.org/news/2025/04/democratic-leadership-profile-hakeem-jeffries
@@ -5485,7 +5485,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.usnews.com/news/top-news/articles/2026-02-06/pentagon-poised-to-curb-some-defense-contractors-payouts-under-trump-order
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
 - 403 — https://www.theblock.co/post/389633/clock-is-ticking-crypto-bills-2026-fate-hinges-on-trump-stablecoin-yields
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.epi.org/publication/trump-is-enabling-musk-and-doge-to-flout-conflicts-of-interest-what-is-the-potential-cost-to-u-s-families/
 - 403 — https://www.washingtonpost.com/politics/2025/11/03/trump-ballroom-donors-contracts-enforcement/
 - 403 — https://www.congress.gov/bill/119th-congress/senate-bill/394/text
@@ -5558,7 +5558,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.timesofisrael.com/us-house-overwhelmingly-advances-iron-dome-funding-initially-scotched-by-squad/
 - 403 — https://thehill.com/homenews/house/454399-house-passes-bill-opposing-bds-exposing-democratic-divides/
 - 403 — https://www.axios.com/2025/07/31/israel-weapons-sales-democrats-vote-fail
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.fec.gov/data/candidate/P00009795/
 - 403 — https://www.fec.gov/data/candidate/H8MA02041/
 - 403 — https://kentuckylantern.com/2025/10/27/pac-donations-flow-to-new-committee-chairs-especially-us-rep-brett-guthrie-of-kentucky/
@@ -5617,14 +5617,14 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.opensecrets.org/orgs/apollo-global-management/totals?id=D000021845
 - 403 — https://www.opensecrets.org/orgs/kkr-co/totals?id=D000000358
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/industry-detail/A/2024
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
 - 403 — https://www.politico.com/story/2013/07/republicans-who-got-farm-subsidies-targeted-094532
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
 - 403 — https://www.congress.gov/search?q=Joe%20Lieberman&searchResultViewType=expanded
 - 403 — https://www.fec.gov/data/candidate/S6NE00095/
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
 - 403 — https://www.opensecrets.org/orgs/navient-corp/totals?id=D000068171
 - 403 — https://www.opensecrets.org/news/2021/08/student-loan-companies-spend-millions-lobbying-amid-extended-moratorium/
@@ -5633,7 +5633,7 @@ _Last run: 04/03/2026, 21:16 PT — auto-synced by pipeline, do not edit._
 - 403 — https://www.nasfaa.org/news-item/23471/Bill_Extending_Bankruptcy_Protections_to_Student_Loan_Borrowers_Advanced_by_House_Democrats
 - 403 — https://www.fec.gov/data/receipts/?data_type=processed
 - 403 — https://www.opensecrets.org/orgs/slm-corp/totals?id=D000022253
-- 403 — https://lda.senate.gov/filings/public/filing/search/
+- 403 — https://lda.gov/filings/public/filing/search/
 - 403 — https://advocacy.consumerreports.org/press_release/cfpb-on-life-support-one-year-after-it-was-targeted-for-shutdown/
 - 403 — https://www.opensecrets.org/political-action-committees-pacs/
 - 403 — https://www.axios.com/pro/tech-policy/2024/01/23/2023-tech-lobbying-in-review

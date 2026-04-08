@@ -200,7 +200,7 @@ research-status:: developed — $65M FY2024 revenue, $100M+ SCOTUS confirmation 
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Judicial%20Crisis%20Network) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Judicial%20Crisis%20Network) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

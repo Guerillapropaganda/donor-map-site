@@ -55,7 +55,7 @@ When the FEC web interface shows fewer results than the API, add a technical dis
 - [FEC: [Name] candidate totals](https://www.fec.gov/data/candidate/[CANDIDATE_ID]/) (Tier 1)
 - [USASpending: [Company] federal contracts](https://www.usaspending.gov/search/?hash=[search_hash]) (Tier 1)
 - [Congress.gov: [Name] voting record](https://www.congress.gov/member/[name]/[bioguide_id]) (Tier 1)
-- [Senate LDA: [Company] lobbying filings](https://lda.senate.gov/filings/public/filing/search/?registrant=[name]) (Tier 1)
+- [Senate LDA: [Company] lobbying filings](https://lda.gov/filings/public/filing/search/?registrant=[name]) (Tier 1)
 ```
 
 **Important:** All API calls must be executed via Chrome browser JavaScript context (`fetch()` through `javascript_tool`). The VM proxy blocks direct HTTP requests (curl, Python requests). See [[API Pipeline]] for implementation details.

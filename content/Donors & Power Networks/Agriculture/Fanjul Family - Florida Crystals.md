@@ -214,7 +214,7 @@ The Fanjul family is the vault's purest example of the Both-Sides Illusion — t
 
 - [OpenSecrets: Fanjul Corp Summary](https://www.opensecrets.org/orgs/fanjul-corp/summary?id=D000066714) (Tier 1)
 - [OpenSecrets: Fanjul Corp Recipients](https://www.opensecrets.org/orgs/fanjul-corp/recipients?id=D000066714) (Tier 1)
-- [Senate LDA Filings: Fanjul Corp Lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Fanjul Corp Lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Florida Sugar Cane League PAC](https://www.opensecrets.org/political-action-committees-pacs/florida-sugar-cane-league/C00012328/summary/2024) (Tier 1)
 - [GAO: Sugar Program Report (GAO-24-106144)](https://www.gao.gov/products/gao-24-106144) (Tier 1)
 - [USDA ERS: Sugar and Sweeteners Policy](https://www.ers.usda.gov/topics/crops/sugar-and-sweeteners/policy) (Tier 1)
@@ -255,7 +255,7 @@ The Fanjul family is the vault's purest example of the Both-Sides Illusion — t
 - [Encyclopedia MDPI: Fanjul Brothers — Rubio memoir acknowledgment in An American Son](https://encyclopedia.pub/entry/34575) (Tier 3) (Chrome verified 2026-03-31)
 - [Florida Politics: Putting the sugar industry's $57.8M in political contributions into context](https://floridapolitics.com/archives/216588-miami-heralds-foray-florida-sugar-industry-contributions-not-revealing/) (Tier 2) (Chrome verified 2026-03-31)
 - [FEC: Reclaim America PAC (C00500025) — Rubio Leadership PAC, $10.76M lifetime disbursements](https://www.fec.gov/data/committee/C00500025/) (Tier 1) (Chrome verified + API verified 2026-03-31 — corrected from erroneous $35M GV Wire claim)
-- [Senate LDA API: American Sugar Alliance Lobbying Filings 2023-2025 ($6.835M total)](https://lda.senate.gov/filings/public/filing/search/?client=american+sugar+alliance&search=search) (Tier 1) (API verified 2026-03-31)
+- [Senate LDA API: American Sugar Alliance Lobbying Filings 2023-2025 ($6.835M total)](https://lda.gov/filings/public/filing/search/?client=american+sugar+alliance&search=search) (Tier 1) (API verified 2026-03-31)
 - [Sludge: FEC Filing Day 8/20 — Fanjul $504K to Rubio, Alfy Democratic giving detail](https://readsludge.com/2024/08/21/sludge-report-fec-filing-day-08-20/) (Tier 2) (Chrome verified 2026-03-31)
 - [The American Prospect: Sugar Daddies — Fanjul/Trump/Coca-Cola meeting detail](https://prospect.org/2025/09/05/sugar-daddies/) (Tier 2) (Chrome verified 2026-03-31)
 - [Combest, Sell & Associates: About Us — Collin Peterson (former House Ag Chair, D-MN), Tom Sell (Co-Founder)](https://combest-sell.com/about/) (Tier 3) (Chrome verified 2026-03-31)

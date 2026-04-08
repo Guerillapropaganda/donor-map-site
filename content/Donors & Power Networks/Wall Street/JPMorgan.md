@@ -221,7 +221,7 @@ content-readiness:: developed
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, Natl Economic Council (NEC), SENATE, Treasury, Dept of, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=JPMorgan%20Chase) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=JPMorgan%20Chase) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

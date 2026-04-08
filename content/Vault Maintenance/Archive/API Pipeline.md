@@ -102,11 +102,11 @@ This document defines the API-first data collection layer for The Donor Map Data
 
 #### 4. Senate Lobbying Disclosure API — Tier 1
 
-**Endpoint:** `https://lda.senate.gov/api/`
+**Endpoint:** `https://lda.gov/api/`
 **Auth:** API key required — pass as `Authorization: Token <key>` header
 **Registered key:** `b3e00f77b9db54cd753ca43bb8773f9e8b0ec5c4`
-**Documentation:** `https://lda.senate.gov/api/redoc/v1/`
-**Note:** The legacy site at `lda.senate.gov` is moving to `lda.gov` by 06/30/2026. API endpoints may migrate — check docs if calls fail.
+**Documentation:** `https://lda.gov/api/redoc/v1/`
+**Note:** The legacy site at `lda.gov` is moving to `lda.gov` by 06/30/2026. API endpoints may migrate — check docs if calls fail.
 
 **Key endpoints:**
 - `/v1/filings/` — Lobbying disclosure filings (quarterly reports, registrations)
@@ -127,7 +127,7 @@ This document defines the API-first data collection layer for The Donor Map Data
 
 **Vault citation format:**
 ```
-- [Senate LDA: [Client] lobbying filings](https://lda.senate.gov/filings/public/filing/search/?client=[name]&search=search) (Tier 1)
+- [Senate LDA: [Client] lobbying filings](https://lda.gov/filings/public/filing/search/?client=[name]&search=search) (Tier 1)
 ```
 
 **Status:** TESTED AND WORKING (2026-03-31). Key authenticated. Confirmed returns structured JSON with filing records including income (hired firm revenue from client), expenses (client direct lobbying spend), registrant info, filing period, and lobbying activities. Test query: American Sugar Alliance 2023-2025 returned 40 filings across 3 years totaling $6.835M in lobbying expenditures. Chrome JavaScript execution required (VM proxy blocks direct HTTP). Auth header format: `Authorization: Token <key>`.
@@ -229,7 +229,7 @@ fetch('https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=NAME&a
 | FEC API (indep. exp.) | `https://www.fec.gov/data/independent-expenditures/?most_recent=true?q_spender=[name]` |
 | USASpending API | `https://www.usaspending.gov/search/?hash=[search_hash]` |
 | Congress.gov API | `https://www.congress.gov/member/[name]/[bioguide_id]` |
-| Senate LDA API | `https://lda.senate.gov/filings/public/filing/search/?registrant=[name]` |
+| Senate LDA API | `https://lda.gov/filings/public/filing/search/?registrant=[name]` |
 
 **Important:** Use your registered API key (`K10pqk...`) for research queries (1,000 calls/hour). Use `DEMO_KEY` in citation URLs — it's public and each reader gets their own 40/hour rate limit from their IP. Never put your personal key in vault files or citation URLs.
 

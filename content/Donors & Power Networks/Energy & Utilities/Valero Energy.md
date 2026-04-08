@@ -167,7 +167,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Commerce, Dept of (DOC), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE, State, Dept of (DOS), Treasury, Dept of, U.S. Trade Representative (USTR), Vice President of the U.S. +1 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Valero%20Energy) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Valero%20Energy) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

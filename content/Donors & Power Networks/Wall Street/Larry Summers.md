@@ -61,5 +61,5 @@ Lawrence Summers exemplifies the intellectual capture of the Democratic Party by
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE, U.S. Coast Guard (USCG)
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Lawrence%20Summers) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Lawrence%20Summers) (Tier 1)
 <!-- auto:lda-lobbying end -->

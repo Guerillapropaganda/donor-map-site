@@ -521,7 +521,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 #### Lobbying & Revolving Door:
 - [OpenSecrets: GEO Group Lobbying](https://www.opensecrets.org/orgs/geo-group/lobbying?id=D000022003) (Tier 1)
-- [Senate LDA Filings: Federal Lobbying Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Federal Lobbying Summary](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Project on Government Oversight (POGO): Private Prison Giant Hired ICE Detention Chief](https://www.pogo.org/investigates/private-prison-giant-hired-ice-detention-chief) (Tier 2)
 - [POGO: Locking In Profits — Top ICE Officials to GEO](https://www.pogo.org/investigates/locking-in-profits-top-ice-officials-leave-agency-to-serve-its-top-contractor) (Tier 2)
 - [Public Citizen: Pam Bondi Conflict of Interest](https://www.citizen.org/article/conflicted-justice/) (Tier 2)
@@ -685,5 +685,5 @@ research-status:: developed — Complete 2025 financials ($2.63B revenue, $254.4
 
 **Agencies contacted:** Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Federal Aviation Administration (FAA), Federal Emergency Management Agency (FEMA), HOUSE OF REPRESENTATIVES +13 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1)
 <!-- auto:lda-lobbying end -->

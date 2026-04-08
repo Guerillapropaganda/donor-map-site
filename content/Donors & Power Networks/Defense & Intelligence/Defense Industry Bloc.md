@@ -76,7 +76,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Air Force, Dept of, Army, Dept of (Other), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Export-Import Bank of the United States (EXIM Bank), Federal Aviation Administration (FAA), HOUSE OF REPRESENTATIVES, Justice, Dept of (DOJ) +5 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Defense%20Industry%20Bloc) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Defense%20Industry%20Bloc) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

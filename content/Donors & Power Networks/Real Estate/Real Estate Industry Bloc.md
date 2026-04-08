@@ -109,5 +109,5 @@ content-readiness:: ready
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Indian Affairs (BIA), Bureau of Land Management (BLM), Bureau of Reclamation, Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Director of National Intelligence (ODNI), Energy, Dept of +38 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Real%20Estate%20Industry%20Bloc) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Real%20Estate%20Industry%20Bloc) (Tier 1)
 <!-- auto:lda-lobbying end -->

@@ -130,5 +130,5 @@ content-readiness:: ready
 
 **Agencies contacted:** Administration for Children & Families (ACF), Army, Dept of (Other), Commerce, Dept of (DOC), Defense, Dept of (DOD), Economic Development Administration, Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA) +14 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=News%20Corp%20-%20Fox%20Corporation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=News%20Corp%20-%20Fox%20Corporation) (Tier 1)
 <!-- auto:lda-lobbying end -->

@@ -80,7 +80,7 @@ Opposition to drug price negotiation expansion (particularly for GLP-1 drugs), f
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Council of Economic Advisers (CEA), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES +8 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Novo%20Nordisk) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Novo%20Nordisk) (Tier 1)
 
 <!-- auto:lda-lobbying end -->
 

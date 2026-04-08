@@ -200,7 +200,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Bureau of Land Management (BLM), Bureau of the Census, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense Advanced Research Projects Agency (DARPA), Defense Security Cooperation Agency (DSCA), Defense, Dept of (DOD), Energy, Dept of +16 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Blue%20Shield%20of%20California) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Blue%20Shield%20of%20California) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

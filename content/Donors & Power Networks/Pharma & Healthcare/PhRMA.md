@@ -226,8 +226,8 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 ### Sources
 
 #### Tier 1 (Primary government documents):
-- [PhRMA Lobbying Profile • OpenSecrets](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets 2015–2024 Annual Cycle Profiles](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [PhRMA Lobbying Profile • OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets 2015–2024 Annual Cycle Profiles](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Medicare Drug Price Negotiation Program • CMS.gov](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1)
 - [Inflation Reduction Act Drug Negotiation Provision • Congressional Research Service](https://sgp.fas.org/crs/health/IF12447.pdf) (Tier 1)
 - [FEC PhRMA PAC Filings](https://www.fec.gov/data/committee/C00021972/) (Tier 1)

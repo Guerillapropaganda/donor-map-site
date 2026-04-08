@@ -78,7 +78,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Trade Commission (FTC), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS) +15 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Private%20Equity%20Industry%20Bloc) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Private%20Equity%20Industry%20Bloc) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

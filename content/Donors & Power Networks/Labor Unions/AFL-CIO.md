@@ -193,7 +193,7 @@ AFL-CIO President Shuler's framing: tariffs "can be an effective tool" but must 
 ### Sources
 
 - [OpenSecrets: AFL-CIO organizational profile — $2.9M contributions, $12.2M outside spending (2024)](https://www.opensecrets.org/orgs/afl-cio/summary?id=d000000088) (Tier 1)
-- [Senate LDA Filings: AFL-CIO lobbying profile — $5.2M (2024), $6.3M (2025)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: AFL-CIO lobbying profile — $5.2M (2024), $6.3M (2025)](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [FEC Independent Expenditures: AFL-CIO outside spending detail (2024 cycle)](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 - [FEC: AFL-CIO COPE Political Contributions Committee (C00003806)](https://www.fec.gov/data/committee/C00003806/) (Tier 1)
 - [Congress.gov: H.R. 20 — Richard L. Trumka PRO Act of 2023 (118th Congress)](https://www.congress.gov/bill/118th-congress/house-bill/20) (Tier 1)

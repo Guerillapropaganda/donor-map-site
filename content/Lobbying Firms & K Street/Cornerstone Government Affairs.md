@@ -234,9 +234,9 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 
 ### Sources
 
-- [Senate LDA Filings: Cornerstone Government Affairs lobbying profile 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Cornerstone Government Affairs lobbying profile 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Cornerstone Government Affairs lobbyists 2025 — 100 total, 43 revolvers (43%)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Cornerstone Government Affairs lobbying profile 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Cornerstone Government Affairs lobbying profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Cornerstone Government Affairs lobbyists 2025 — 100 total, 43 revolvers (43%)](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Revolving Door employer search — Cornerstone Government Affairs](https://www.opensecrets.org/revolving-door/search_result?priv=Cornerstone+Government+Affairs) (Tier 1)
 - [Cornerstone Government Affairs: Firm History — founded 2002, 180+ professionals, 16 offices](https://cgagroup.com/firm-history/) (Tier 3)
 - [Cornerstone Government Affairs: People directory](https://cgagroup.com/people/) (Tier 3)

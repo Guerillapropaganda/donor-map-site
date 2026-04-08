@@ -31,7 +31,7 @@ All other API data:
 - [FEC: [Name] candidate totals](https://www.fec.gov/data/candidate/[CANDIDATE_ID]/) (Tier 1)
 - [USASpending: [Company] federal contracts](https://www.usaspending.gov/search/?hash=[search_hash]) (Tier 1)
 - [Congress.gov: [Name] voting record](https://www.congress.gov/member/[name]/[bioguide_id]) (Tier 1)
-- [Senate LDA: [Company] lobbying filings](https://lda.senate.gov/filings/public/filing/search/?registrant=[name]) (Tier 1)
+- [Senate LDA: [Company] lobbying filings](https://lda.gov/filings/public/filing/search/?registrant=[name]) (Tier 1)
 ```
 
 This rule is defined canonically in Quality Standards. API Pipeline and Research Methodology reference Quality Standards and do not restate the rule.

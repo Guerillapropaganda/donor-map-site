@@ -54,7 +54,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense Advanced Research Projects Agency (DARPA), Defense, Dept of (DOD), Economic Development Administration, Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA) +32 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tech%20and%20Media%20Donors) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Tech%20and%20Media%20Donors) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

@@ -171,9 +171,9 @@ The class function: TRP exists to make sure that large institutional interests â
 
 ### Sources
 
-- [Senate LDA Filings: Thorn Run Partners Lobbying Profile 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Thorn Run Partners Lobbyists 2024 â€” 22 of 35 revolvers (62.9%)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Thorn Run Partners Lobbying Profile 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Thorn Run Partners Lobbying Profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Thorn Run Partners Lobbyists 2024 â€” 22 of 35 revolvers (62.9%)](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Thorn Run Partners Lobbying Profile 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Revolving Door â€” Thorn Run Partners employer search](https://www.opensecrets.org/revolving-door/search_result?priv=Thorn+Run+Partners) (Tier 1)
 - [Roll Call: Ex-Ogilvy Lobbyists Launch Thorn Run Partners (January 5, 2010)](https://rollcall.com/2010/01/05/ex-ogilvy-lobbyists-launch-thorn-run-partners/) (Tier 2)
 - [Thorn Run Partners: Veteran Defense Lobbyist Greg Lankler Joins Thorn Run Partners](https://thornrun.com/veteran-defense-lobbyist-greg-lankler-joins-thorn-run-partners/) (Tier 3)
@@ -184,7 +184,7 @@ The class function: TRP exists to make sure that large institutional interests â
 - [Thorn Run Partners: Rockingstone Group Strategic Partnership (Jan 2018)](https://thornrun.com/thorn-run-partners-rockingstone-group-announce-new-strategic-partnership/) (Tier 3)
 - [DefenseScoop: Army awards Anduril $20B contract with eye toward counter-drone capabilities (March 2026)](https://defensescoop.com/2026/03/14/anduril-20-billion-dollar-army-contract/) (Tier 2)
 - [GovCon Wire: Anduril Wins $642M Navy Contract for Counter-Drone Tech](https://www.govconwire.com/articles/anduril-navy-contract-counter-drone-tech) (Tier 2)
-- [Senate LDA: Thorn Run Partners lobbying filings](https://lda.senate.gov/filings/public/filing/search/?registrant=Thorn+Run&filing_year=2025) (Tier 1)
+- [Senate LDA: Thorn Run Partners lobbying filings](https://lda.gov/filings/public/filing/search/?registrant=Thorn+Run&filing_year=2025) (Tier 1)
 - [Thorn Run Partners: Former Federal Maritime Commissioner Louis Sola As Partner (August 1, 2025)](https://thornrun.com/thorn-run-partners-adds-former-federal-maritime-commissioner-louis-sola-as-partner/) (Tier 3)
 - [FreightWaves: Former U.S. shipping czar Sola joins D.C. lobby firm (August 1, 2025)](https://www.freightwaves.com/news/former-u-s-shipping-czar-sola-joins-d-c-lobby-firm) (Tier 2)
 - [FreightWaves: EXCLUSIVE: FMC Chief of Staff Hoang moves to private sector (January 2026)](https://www.freightwaves.com/news/exclusive-fmc-chief-of-staff-hoang-moves-to-private-sector) (Tier 2)

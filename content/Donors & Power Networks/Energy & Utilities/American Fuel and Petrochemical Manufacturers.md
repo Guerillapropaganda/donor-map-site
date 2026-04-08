@@ -106,8 +106,8 @@ AFPM is the fossil fuel industry's collective action vehicle — a $61.4M trade 
 - [ProPublica: AFPM 990 filings](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
 - [OpenSecrets: AFPM contributions](https://www.opensecrets.org/orgs/american-fuel-petrochemical-manufacturers/summary?id=D000000481) (Tier 1)
 - [OpenSecrets: AFPM summary (alt ID)](https://www.opensecrets.org/orgs/american-fuel-petrochem-manufacturers/summary?id=D000027874) (Tier 1)
-- [Senate LDA Filings: AFPM lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: AFPM lobbying (alt ID)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: AFPM lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: AFPM lobbying (alt ID)](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [DeSmog: AFPM profile](https://www.desmog.com/american-fuel-petrochemical-manufacturers-afpm/) (Tier 2)
 - [LinkedIn: AFPM](https://www.linkedin.com/company/american-fuel-&-petrochemical-manufacturers-afpm-) (Tier 4)
 
@@ -215,5 +215,5 @@ content-readiness:: draft
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of +35 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=American%20Fuel%20and%20Petrochemical%20Manufacturers) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=American%20Fuel%20and%20Petrochemical%20Manufacturers) (Tier 1)
 <!-- auto:lda-lobbying end -->

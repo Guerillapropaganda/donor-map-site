@@ -38,7 +38,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 ### Senate LDA — New Lobbying Filings
 
-**Source:** [Senate LDA API](https://lda.senate.gov/api/v1/filings/?filing_year=2026&page_size=20&ordering=-dt_posted) (Tier 1) (API)
+**Source:** [Senate LDA API](https://lda.gov/api/v1/filings/?filing_year=2026&page_size=20&ordering=-dt_posted) (Tier 1) (API)
 **Total 2026 filings in database:** 1,475
 
 #### Tracked Entities — Flagged Filings
@@ -223,9 +223,9 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 ### Sources
 
-- [Senate LDA API: Q1 2026 filings, ordered by post date](https://lda.senate.gov/api/v1/filings/?filing_year=2026&page_size=20&ordering=-dt_posted) (Tier 1) (API)
-- [Senate LDA: JPMorgan Chase Holdings LLC filing](https://lda.senate.gov/filings/public/filing/30e77a16-2d6c-4794-a28e-34e5c800caa0/print/) (Tier 1) (API)
-- [Senate LDA: ConocoPhillips registration](https://lda.senate.gov/filings/public/filing/afcef92f-b9d9-49f3-ba4b-4020a7f86f6b/print/) (Tier 1) (API)
+- [Senate LDA API: Q1 2026 filings, ordered by post date](https://lda.gov/api/v1/filings/?filing_year=2026&page_size=20&ordering=-dt_posted) (Tier 1) (API)
+- [Senate LDA: JPMorgan Chase Holdings LLC filing](https://lda.gov/filings/public/filing/30e77a16-2d6c-4794-a28e-34e5c800caa0/print/) (Tier 1) (API)
+- [Senate LDA: ConocoPhillips registration](https://lda.gov/filings/public/filing/afcef92f-b9d9-49f3-ba4b-4020a7f86f6b/print/) (Tier 1) (API)
 - [USASpending API: Federal contracts, March 2026, defense contractors](https://api.usaspending.gov/api/v2/search/spending_by_award/) (Tier 1) (API)
 - [FEC Developer registration](https://api.open.fec.gov/developers/) (reference)
 

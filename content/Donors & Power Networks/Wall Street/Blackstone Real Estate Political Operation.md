@@ -67,7 +67,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Homeland Security, Dept of (DHS), Labor, Dept of (DOL), SENATE, Transportation, Dept of (DOT), Treasury, Dept of, U.S. Mint, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Blackstone%20Real%20Estate%20Political%20Operation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Blackstone%20Real%20Estate%20Political%20Operation) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### OFAC Sanctions Screening

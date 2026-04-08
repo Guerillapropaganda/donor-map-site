@@ -112,7 +112,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Defense, Dept of (DOD), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Office of Management & Budget (OMB), SENATE, Treasury, Dept of, Veterans Affairs, Dept of (VA), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Humana) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Humana) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)

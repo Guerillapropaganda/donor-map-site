@@ -246,5 +246,5 @@ content-readiness:: ready
 
 **Agencies contacted:** Consumer Financial Protection Bureau (CFPB), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Trade Commission (FTC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Justice, Dept of (DOJ), Natl Economic Council (NEC), Office of Management & Budget (OMB) +2 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Demand%20Justice) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Demand%20Justice) (Tier 1)
 <!-- auto:lda-lobbying end -->

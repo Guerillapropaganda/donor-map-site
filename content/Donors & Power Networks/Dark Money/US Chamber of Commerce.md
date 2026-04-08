@@ -334,7 +334,7 @@ content-readiness:: developed
 
 **Agencies contacted:** Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Centers For Disease Control & Prevention (CDC), Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Export-Import Bank of the United States (EXIM Bank) +12 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=US%20Chamber%20of%20Commerce) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=US%20Chamber%20of%20Commerce) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

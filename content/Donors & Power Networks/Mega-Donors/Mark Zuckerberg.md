@@ -158,7 +158,7 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 ### FEC & OpenSecrets (Tier 1):
 - [OpenSecrets: Meta organization profile](https://www.opensecrets.org/orgs/meta/summary?id=D000033563) (Tier 1)
 - [OpenSecrets: Meta PAC profile](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024) (Tier 1)
-- [Senate LDA Filings: Meta lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Meta lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [FEC Receipts: Mark Zuckerberg donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=mark%20zuckerberg) (Tier 1)
 
 ### Government & Legal (Tier 1):

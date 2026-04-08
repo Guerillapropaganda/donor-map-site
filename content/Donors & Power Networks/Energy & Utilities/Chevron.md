@@ -200,7 +200,7 @@ Environment — oil production, refinery regulation, environmental justice, frac
 ### Sources
 
 - [OpenSecrets: Chevron PAC contributions by cycle](https://www.opensecrets.org/orgs/chevron/totals?id=D000000015) (Tier 1)
-- [Senate LDA Filings: Chevron federal lobbying 2000–2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Chevron federal lobbying 2000–2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Chevron 2024 recipients](https://www.opensecrets.org/orgs/chevron/recipients?id=D000000015) (Tier 1)
 - [East Bay Times: 2012 Richmond refinery fire and settlement](https://www.eastbaytimes.com/2013/02/14/chevron-agrees-to-pay-90-million-to-settle-richmond-refinery-fire-claims/) (Tier 2)
 - [ProPublica: Chevron California cap-and-trade lobbying and union quid pro quo](https://www.propublica.org/article/cap-and-trade-is-supposed-to-solve-climate-change-but-oil-and-gas-company-emissions-are-up) (Tier 2)

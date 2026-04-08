@@ -25,7 +25,7 @@ Republicans claim to oppose government spending. Democrats claim to fight for wo
 During Trump's trade-war bailout (MFP, 2018–2019), the top 1% averaged $524,298 per farm while the bottom 80% averaged $9,109. Tyler Farms (Arkansas) collected $38 million by splitting into 66 separate corporations to game payment limits. 50 Forbes 400 billionaires received $11.3 million in farm subsidies (1995–2012), including Paul Allen, Charles Schwab, and David Rockefeller. 15 Fortune 500 companies including Chevron received subsidies at up to 58× the median payment. [EWG/Green Fiscal Policy Network: Under Trump Farm Subsidies Soared](https://greenfiscalpolicy.org/under-trump-farm-subsidies-soared-and-the-rich-got-richer/) (Tier 2), [CNBC/EWG: Billionaires Received US Farm Subsidies](https://www.cnbc.com/2013/11/07/billionaires-received-us-farm-subsidies-report-finds.html) (Tier 2)
 
 > [!money]
-> Agribusiness PACs gave $30.7 million to federal candidates in the 2023–2024 cycle: 66.7% to Republicans, 32.8% to Democrats. Agribusiness lobbying hit $180.1 million in 2023 (record) — more than oil & gas or defense. Farm bill lobbying alone exceeded $523 million over the 2019–2023 cycle. [OpenSecrets: Agribusiness PACs 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/A/2024) (Tier 1), [Senate LDA Filings: Agribusiness Lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+> Agribusiness PACs gave $30.7 million to federal candidates in the 2023–2024 cycle: 66.7% to Republicans, 32.8% to Democrats. Agribusiness lobbying hit $180.1 million in 2023 (record) — more than oil & gas or defense. Farm bill lobbying alone exceeded $523 million over the 2019–2023 cycle. [OpenSecrets: Agribusiness PACs 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/A/2024) (Tier 1), [Senate LDA Filings: Agribusiness Lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
 ---
 
@@ -102,7 +102,7 @@ The top 10% of subsidy recipients collect 60–66% of all payments. The bottom 8
 
 - [OpenSecrets: Agribusiness PACs 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/A/2024) (Tier 1)
 - [FEC Receipts: Agribusiness Industry Summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Senate LDA Filings: Agribusiness Lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Agribusiness Lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [FEC Receipts: Agribusiness Contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [GAO: Cap Crop Insurers Profits](https://www.dtnpf.com/agriculture/web/ag/news/article/2023/12/04/gao-cap-crop-insurers-profits-large) (Tier 1)
 - [Rep. Gwen Moore: Farm Bill Analysis](https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=1907) (Tier 1)

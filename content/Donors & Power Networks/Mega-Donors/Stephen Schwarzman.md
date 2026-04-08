@@ -249,7 +249,7 @@ content-readiness:: developed
 
 **Agencies contacted:** Air Force, Dept of, Bureau of Industry and Security (BIS), Defense, Dept of (DOD), Energy, Dept of, Executive Office of the President (EOP), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, Natl Security Council (NSC), SENATE, Treasury, Dept of
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Stephen%20Schwarzman) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Stephen%20Schwarzman) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

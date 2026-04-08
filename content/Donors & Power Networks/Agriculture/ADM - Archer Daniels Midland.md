@@ -89,7 +89,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Education, Dept of, Executive Office of the President (EOP), Federal Communications Commission (FCC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD) +7 more
 
-- ~~[Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

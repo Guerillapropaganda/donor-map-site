@@ -128,7 +128,7 @@ content-readiness:: ready
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Bureau of Citizenship & Immigration Services (BCIS), Bureau of Indian Affairs (BIA), Centers For Medicare and Medicaid Services (CMS), Central Intelligence Agency (CIA), Commerce, Dept of (DOC) +60 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=General%20Motors) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=General%20Motors) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

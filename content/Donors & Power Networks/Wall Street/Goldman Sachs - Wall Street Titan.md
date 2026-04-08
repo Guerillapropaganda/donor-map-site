@@ -147,8 +147,8 @@ The structural implication: Goldman does not need to influence economic policy t
 
 - [OpenSecrets: Goldman Sachs Profile Summary — contributions, lobbying, revolving door data](https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085) (Tier 1)
 - [OpenSecrets: Goldman Sachs Profile Totals — full contribution history 1989–present](https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085) (Tier 1)
-- [Senate LDA Filings: Goldman Sachs Lobbying Profile — annual spending, 2025: $3.96M](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Goldman Sachs Lobbyists 2024 — 71.87% revolving door rate](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Goldman Sachs Lobbying Profile — annual spending, 2025: $3.96M](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Goldman Sachs Lobbyists 2024 — 71.87% revolving door rate](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets News: The revolving door always spins for Goldman Sachs — by design (2017)](https://www.opensecrets.org/news/2017/03/revolving-door-goldman-sachs/) (Tier 2)
 - [DOJ: Goldman Sachs Agrees to Pay More than $5 Billion — RMBS fraud settlement (April 2016)](https://www.justice.gov/archives/opa/pr/goldman-sachs-agrees-pay-more-5-billion-connection-its-sale-residential-mortgage-backed) (Tier 1)
 - [The Hill: Trump continues White House's Goldman Sachs revolving door tradition](https://thehill.com/blogs/pundits-blog/the-administration/309966-trump-continues-white-houses-goldman-sachs-revolving/) (Tier 3)

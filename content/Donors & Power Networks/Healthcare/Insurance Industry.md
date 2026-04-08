@@ -169,7 +169,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 
 - [FEC Receipts: Insurance industry summary — contributions and lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [FEC Receipts: Insurance industry background](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Senate LDA Filings: Insurance lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Insurance lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: AHIP organizational profile](https://www.opensecrets.org/orgs/america-s-health-insurance-plans/summary?id=D000021819) (Tier 1)
 - [OpenSecrets: UnitedHealth Group organizational profile](https://www.opensecrets.org/orgs/unitedhealth-group/summary?id=D000000348) (Tier 1)
 - [OpenSecrets: The long, costly battle over Obamacare](https://www.opensecrets.org/news/2021/06/costly-battle-obamacare-over/) (Tier 1)

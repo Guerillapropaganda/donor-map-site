@@ -197,7 +197,7 @@ This section records proven fix strategies by broken URL type. Check here first 
 | Status     | URL                                                                                                                           | Source                                                  | File                           |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------ |
 | UNVERIFIED | `https://www.opensecrets.org/orgs/american-gaming-assn/summary?id=D000023966`                                                 | OpenSecrets — AGA org summary (Tier 1)                  | American Gaming Association.md |
-| UNVERIFIED | `https://lda.senate.gov/filings/public/filing/search/`                                       | OpenSecrets — AGA lobbying profile (Tier 1)             | American Gaming Association.md |
+| UNVERIFIED | `https://lda.gov/filings/public/filing/search/`                                       | OpenSecrets — AGA lobbying profile (Tier 1)             | American Gaming Association.md |
 | UNVERIFIED | `https://www.opensecrets.org/political-action-committees-pacs/american-gaming-assn/C00309146/summary/2024`                    | OpenSecrets — AGA PAC C00309146 (Tier 1)                | American Gaming Association.md |
 | UNVERIFIED | `https://www.fec.gov/data/receipts/?data_type=processed`                                                            | OpenSecrets — Casinos/Gambling industry totals (Tier 1) | American Gaming Association.md |
 | UNVERIFIED | `https://www.fec.gov/data/committee/C00309146/`                                                                               | FEC — AGA PAC committee (Tier 1)                        | American Gaming Association.md |
@@ -598,22 +598,22 @@ This section records proven fix strategies by broken URL type. Check here first 
 | VALID | `https://www.fec.gov/data/independent-expenditures/?q=Peter%20Thiel` |
 | VALID | `https://www.opensecrets.org/news/2022/02/peter-thiel-tied-dark-money-group-helping-bankroll-super-pac-spending-on-2022-election/` |
 | VALID | `https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177` |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` |
+| VALID | `https://lda.gov/filings/public/filing/search/` |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/palantir-technologies/C00498691/candidate-recipients/2024` |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` |
+| VALID | `https://lda.gov/filings/public/filing/search/` |
 | VALID | `https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873` |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` |
+| VALID | `https://lda.gov/filings/public/filing/search/` |
 | VALID | `https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stephen%20Schwarzman` |
 | VALID | `https://www.opensecrets.org/orgs/jpmorgan-chase-co/summary?id=d000000103` |
 | VALID | `https://www.opensecrets.org/orgs/jpmorgan-chase-co/lobbying?id=D000000103` |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/jpmorgan-chase-co/C00104299/summary/2024` |
 | VALID | `https://www.opensecrets.org/orgs/united-auto-workers/summary?id=D000000070` |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` |
+| VALID | `https://lda.gov/filings/public/filing/search/` |
 | VALID | `https://www.opensecrets.org/orgs/afl-cio/summary?id=d000000088` | AFL-CIO org profile — Chrome-verified 2026-03-25 |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | AFL-CIO lobbying profile — Chrome-verified 2026-03-25 |
+| VALID | `https://lda.gov/filings/public/filing/search/` | AFL-CIO lobbying profile — Chrome-verified 2026-03-25 |
 | VALID | `https://www.fec.gov/data/independent-expenditures/` | AFL-CIO outside spending — Chrome-verified 2026-03-25 |
 | VALID | `https://www.opensecrets.org/orgs/blue-cross-blue-shield/summary?id=D000000109` | BCBS org profile — Chrome-verified 2026-03-25 |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | BCBS lobbying profile — Chrome-verified 2026-03-25 |
+| VALID | `https://lda.gov/filings/public/filing/search/` | BCBS lobbying profile — Chrome-verified 2026-03-25 |
 | BROKEN | `https://www.opensecrets.org/orgs/american-fedn-of-labor-congress-of-industrial-orgs/summary?id=D000000079` | AFL-CIO old URL — ID D000000079 returns Verizon data. Correct ID is D000000088 |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/C00571703/summary/2024` | Senate Leadership Fund PAC profile — Chrome-verified 2026-03-25 |
 | VALID | `https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516` | Senate Leadership Fund org profile — Chrome-verified 2026-03-25 |
@@ -2697,7 +2697,7 @@ Verified via Chrome browser load test during automated story discovery scan.
 | Status | Source | URL | Description |
 |--------|--------|-----|-------------|
 | VALID | OpenSecrets | `https://www.opensecrets.org/orgs/purdue-pharma/summary?id=D000022208` | Purdue Pharma organizational profile |
-| VALID | OpenSecrets | `https://lda.senate.gov/filings/public/filing/search/` | Purdue Pharma lobbying profile |
+| VALID | OpenSecrets | `https://lda.gov/filings/public/filing/search/` | Purdue Pharma lobbying profile |
 | VALID | OpenSecrets | `https://www.opensecrets.org/news/2019/04/purdue-pharma-and-the-sackler-family-under-scrutiny-for-role-in-opioid-crisis-are-big-political-spenders/` | Purdue Pharma and Sackler family political spending analysis |
 | VALID | HHS OIG | `https://oig.hhs.gov/fraud/enforcement/opioid-manufacturer-purdue-pharma-pleads-guilty-to-fraud-and-kickback-conspiracies/` | Purdue Pharma pleads guilty to fraud and kickback conspiracies |
 | VALID | Supreme Court | `https://www.supremecourt.gov/opinions/23pdf/23-124_8nk0.pdf` | Harrington v. Purdue Pharma L.P. opinion (23-124) |
@@ -2969,7 +2969,7 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | URL | Used In |
 |--------|-----|---------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | Comcast - NBCUniversal.md |
+| VALID | `https://lda.gov/filings/public/filing/search/` | Comcast - NBCUniversal.md |
 | VALID | `https://www.fec.gov/data/committee/C00248716/` | Comcast - NBCUniversal.md |
 | VALID | `https://rollcall.com/2024/04/09/fcc-move-to-restore-net-neutrality-sets-stage-for-familiar-fight/` | Comcast - NBCUniversal.md |
 | VALID | `https://therevolvingdoorproject.org/unmasking-fccs-revolving-door-with-telecom-giants/` | Comcast - NBCUniversal.md |
@@ -3066,9 +3066,9 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | URL | Description |
 |--------|-----|-------------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | Akin Gump et al Lobbying Profile — OpenSecrets firm summary (2025: $65.4M, 307 clients) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | Akin Gump et al Lobbyists 2024 — 74 lobbyists, 41 revolving door (55.4%), 3 former MoC |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | Akin Gump et al Issues Lobbied 2024 — Taxes #1 (232 reports, 68 clients) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | Akin Gump et al Lobbying Profile — OpenSecrets firm summary (2025: $65.4M, 307 clients) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | Akin Gump et al Lobbyists 2024 — 74 lobbyists, 41 revolving door (55.4%), 3 former MoC |
+| VALID | `https://lda.gov/filings/public/filing/search/` | Akin Gump et al Issues Lobbied 2024 — Taxes #1 (232 reports, 68 clients) |
 | VALID | `https://www.opensecrets.org/news/2019/01/retired-reps-find-new-lobbying-jobs-with-former-campaign-contributor/` | OpenSecrets news: Retired Reps find lobbying jobs with former campaign contributor (Jan 2019) |
 | VALID | `https://www.citizensforethics.org/reports-investigations/crew-investigations/former-reps-shuster-smith-ros-lehtinen-chaired-committees-on-issues-they-now-lobby-on/` | CREW investigation: Shuster, Smith, Ros-Lehtinen lobby on issues from their former committee chairmanships (Aug 2019) |
 | VALID | `https://thehill.com/business-a-lobbying/business-a-lobbying/424130-ex-gop-lawmakers-ros-lehtinen-lamar-smith-join-akin/` | The Hill: Ex-GOP lawmakers Ros-Lehtinen, Lamar Smith join Akin Gump (Jan 2019) |
@@ -3080,8 +3080,8 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | URL | Description |
 |--------|-----|-------------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | Brownstein, Hyatt et al Lobbying Profile — OpenSecrets firm summary (2025: $73.76M, 399 clients) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | Brownstein, Hyatt et al Lobbyists 2024 — 81 lobbyists, 43 revolving door (53.1%), 2 former MoC |
+| VALID | `https://lda.gov/filings/public/filing/search/` | Brownstein, Hyatt et al Lobbying Profile — OpenSecrets firm summary (2025: $73.76M, 399 clients) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | Brownstein, Hyatt et al Lobbyists 2024 — 81 lobbyists, 43 revolving door (53.1%), 2 former MoC |
 | VALID | `https://www.opensecrets.org/fara/registrants/D000000724` | Brownstein, Hyatt et al FARA Foreign Lobbying — Saudi Arabia $900K (2025) |
 | VALID | `https://www.fec.gov/data/committee/C00390583/` | FEC: BHFS-E, PC PAC committee overview |
 | VALID | `https://www.washingtonpost.com/climate-environment/2019/04/03/firm-that-once-employed-trumps-pick-run-interior-is-making-millions-lobbying-it/` | WaPo: Firm that once employed Trump's pick to run Interior is making millions lobbying it (Apr 2019) |
@@ -3097,9 +3097,9 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | URL | Description |
 |--------|-----|-------------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | BGR Group Lobbying Profile — OpenSecrets firm summary (2025: $71.5M, 328 clients) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | BGR Group Lobbyists 2024 — 36 lobbyists, 31 (86.1%) revolving door, 0 former MoC |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | BGR Group Issues Lobbied 2024 — issue area breakdown by client count |
+| VALID | `https://lda.gov/filings/public/filing/search/` | BGR Group Lobbying Profile — OpenSecrets firm summary (2025: $71.5M, 328 clients) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | BGR Group Lobbyists 2024 — 36 lobbyists, 31 (86.1%) revolving door, 0 former MoC |
+| VALID | `https://lda.gov/filings/public/filing/search/` | BGR Group Issues Lobbied 2024 — issue area breakdown by client count |
 | VALID | `https://www.opensecrets.org/revolving-door/duffy-sean-p/summary?id=82248` | Sean P. Duffy Revolving Door Profile — congressman to BGR lobbyist to Transportation Secretary |
 | VALID | `https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/` | OpenSecrets News: Lobbying firms took in a record $5 billion in 2025 — BGR ranked #3 nationally |
 | VALID | `https://www.opensecrets.org/news/2025/11/as-lobbying-revenue-grows-at-record-pace-trump-aligned-firms-reap-the-biggest-rewards` | OpenSecrets News: Trump-aligned firms reap biggest rewards — BGR 58% surge attributed to Urban/Trump ties |
@@ -3426,9 +3426,9 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | Source | URL | Notes |
 |--------|--------|-----|-------|
-| VALID | OpenSecrets | `https://lda.senate.gov/filings/public/filing/search/` | Squire Patton Boggs lobbying profile summary — $23.5M (2025), 132 clients (Tier 1) |
-| VALID | OpenSecrets | `https://lda.senate.gov/filings/public/filing/search/` | Squire Patton Boggs lobbyists 2023 — 54 lobbyists, 35 (64.8%) revolving door, 2 former MoC (Tier 1) |
-| VALID | OpenSecrets | `https://lda.senate.gov/filings/public/filing/search/` | Squire Patton Boggs issues lobbied 2023 — #1: Fed Budget & Appropriations (164 reports, 46 clients) (Tier 1) |
+| VALID | OpenSecrets | `https://lda.gov/filings/public/filing/search/` | Squire Patton Boggs lobbying profile summary — $23.5M (2025), 132 clients (Tier 1) |
+| VALID | OpenSecrets | `https://lda.gov/filings/public/filing/search/` | Squire Patton Boggs lobbyists 2023 — 54 lobbyists, 35 (64.8%) revolving door, 2 former MoC (Tier 1) |
+| VALID | OpenSecrets | `https://lda.gov/filings/public/filing/search/` | Squire Patton Boggs issues lobbied 2023 — #1: Fed Budget & Appropriations (164 reports, 46 clients) (Tier 1) |
 | VALID | Bloomberg Law | `https://news.bloomberglaw.com/business-and-practice/trump-defense-secretary-esper-joins-squire-patton-boggs` | Trump Defense Secretary Esper Joins Squire Patton Boggs (Sept 2024) (Tier 2) |
 | VALID | The Hill | `https://thehill.com/homenews/4465281-lobbying-world-dhs-assistant-secretary-jumps-to-squire-patton-boggs/` | Lobbying World: DHS assistant secretary (McGovern) jumps to Squire Patton Boggs (Feb 2024) (Tier 2) |
 | VALID | Bloomberg Law | `https://news.bloomberglaw.com/us-law-week/assange-allies-turn-to-squire-patton-boggs-to-help-lobby-doj` | Assange Allies Turn to Squire Patton Boggs to Help Lobby DOJ — Wau Holland $1.2M+ (Tier 2) |
@@ -3507,9 +3507,9 @@ Verified via Chrome browser load test during automated story discovery scan.
 
 | Status | Source | URL | Notes |
 |--------|--------|-----|-------|
-| VALID | OpenSecrets | `https://lda.senate.gov/filings/public/filing/search/` | Capitol Counsel Lobbying Profile — $25.4M revenue (2025), 185 clients; firm ID D000032306 confirmed (Tier 1) |
-| VALID | OpenSecrets | `https://lda.senate.gov/filings/public/filing/search/` | Capitol Counsel Lobbyists 2024 — 38 lobbyists, 28 (73.7%) revolving door, 1 former MoC (Tier 1) |
-| VALID | OpenSecrets | `https://lda.senate.gov/filings/public/filing/search/` | Capitol Counsel Issues Lobbied 2024 — Health Issues #1 (50 clients), Taxes #2 (46 clients), Fed Budget #3 (41 clients) (Tier 1) |
+| VALID | OpenSecrets | `https://lda.gov/filings/public/filing/search/` | Capitol Counsel Lobbying Profile — $25.4M revenue (2025), 185 clients; firm ID D000032306 confirmed (Tier 1) |
+| VALID | OpenSecrets | `https://lda.gov/filings/public/filing/search/` | Capitol Counsel Lobbyists 2024 — 38 lobbyists, 28 (73.7%) revolving door, 1 former MoC (Tier 1) |
+| VALID | OpenSecrets | `https://lda.gov/filings/public/filing/search/` | Capitol Counsel Issues Lobbied 2024 — Health Issues #1 (50 clients), Taxes #2 (46 clients), Fed Budget #3 (41 clients) (Tier 1) |
 | VALID | The Lever | `https://www.levernews.com/the-manchin-aide-turned-corporate-shill/` | The Manchin Aide Turned Corporate Shill — Kott's career path, Big Tent Project Fund ($12M dark money vs. Sanders), pharma/fossil fuel/Fox lobbying detail (Tier 2) |
 | VALID | The Hill | `https://thehill.com/business-a-lobbying/business-a-lobbying/200517-inside-a-k-street-success-story/` | Inside a K Street success story — Raffaelli/McCrery profile; firm founding, growth to $14.7M, bipartisan expansion (March 2014) (Tier 2) |
 | VALID | Washington Post | `https://www.washingtonpost.com/business/capitalbusiness/capitol-counsel-has-shot-to-top-of-k-street/2013/11/22/6fe6dadc-507b-11e3-a7f0-b790929232e1_story.html` | Capitol Counsel has shot to top of K Street — firm growth profile (November 2013) (Tier 2) |
@@ -3740,8 +3740,8 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 
 | Status | URL | Source / Notes |
 |--------|-----|----------------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets H&K lobbying profile 2024 — $49.7M, 318 clients (Tier 1) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets H&K lobbyists 2024-2025 — 90 lobbyists, 41 revolvers (45.6%), 6 former MoC (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets H&K lobbying profile 2024 — $49.7M, 318 clients (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets H&K lobbyists 2024-2025 — 90 lobbyists, 41 revolvers (45.6%), 6 former MoC (Tier 1) |
 | VALID | `https://www.eenews.net/articles/bidens-epa-chemicals-chief-lands-new-job/` | E&E News — Michal Freedhoff (Biden EPA OCSPP AA) joins Holland & Knight, April 2025 (Tier 2) |
 | VALID | `https://www.hklaw.com/en/news/pressreleases/2025/04/former-epa-chemical-safety-assistant-administrator-michal-freedhoff` | H&K press release — Freedhoff hire announcement (Tier 3) |
 | VALID | `https://www.hklaw.com/en/news/pressreleases/2019/01/former-congressman-tom-davis-joins-holland--knight` | H&K press release — Tom Davis (R-VA, former House Oversight chair) joins, Jan 2019 (Tier 3) |
@@ -3763,8 +3763,8 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 
 | Status | URL | Source / Notes |
 |--------|-----|----------------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets K&L Gates lobbying profile 2024 — $17.2M, 124 clients (Tier 1) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets K&L Gates lobbyists 2024 — 44 lobbyists, 28 revolvers (63.6%), 2 former MoC (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets K&L Gates lobbying profile 2024 — $17.2M, 124 clients (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets K&L Gates lobbyists 2024 — 44 lobbyists, 28 revolvers (63.6%), 2 former MoC (Tier 1) |
 | VALID | `https://www.klgates.com/KL-Gates-Adds-Recently-Retired-US-Congressman-Mike-Doyle-to-Public-Policy-and-Law-Practice-12-27-2022` | K&L Gates press release — Mike Doyle (D-PA, 14 terms, Energy & Commerce chair) joins, Dec 2022 (Tier 3) |
 | VALID | `https://www.klgates.com/KL-Gates-Strengthens-Public-Policy-and-Law-Practice-with-Washington-DC-Additions-5-3-2023` | K&L Gates press release — Jackson (Hoyer aide), Fulton (Trump DOT), Bickwit (NRC/Glenn/Hart) join, May 2023 (Tier 3) |
 | VALID | `https://www.klgates.com/KL-Gates-Adds-Of-Counsel-to-Public-Policy-and-Law-Practice-in-Washington-DC-1-17-2024` | K&L Gates press release — Joseph Trahern (Comcast, GM, Daschle, Clinton WH) joins, Jan 2024 (Tier 3) |
@@ -3886,8 +3886,8 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 |--------|-----|--------|
 | VALID | `https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085` | OpenSecrets — Goldman Sachs Profile Summary: contributions $3.53M (2024), lobbying $2.74M (2024), revolving door data (Tier 1) |
 | VALID | `https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085` | OpenSecrets — Goldman Sachs Profile Totals: full contribution history 1989–present (Tier 1) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets — Goldman Sachs Lobbying Profile: annual spending, 2025: $3.96M (Tier 1) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets — Goldman Sachs Lobbyists 2024: 71.87% revolving door rate, 23 of 32 former government employees (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets — Goldman Sachs Lobbying Profile: annual spending, 2025: $3.96M (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets — Goldman Sachs Lobbyists 2024: 71.87% revolving door rate, 23 of 32 former government employees (Tier 1) |
 | VALID | `https://www.opensecrets.org/news/2017/03/revolving-door-goldman-sachs/` | OpenSecrets News — The revolving door always spins for Goldman Sachs — by design (2017): 88% revolving door rate, full alumni list (Tier 2) |
 | VALID | `https://www.justice.gov/archives/opa/pr/goldman-sachs-agrees-pay-more-5-billion-connection-its-sale-residential-mortgage-backed` | DOJ — Goldman Sachs Agrees to Pay More than $5 Billion in Connection with Its Sale of Residential Mortgage Backed Securities (April 2016) (Tier 1) |
 | VALID | `https://thehill.com/blogs/pundits-blog/the-administration/309966-trump-continues-white-houses-goldman-sachs-revolving/` | The Hill — Trump continues White House's Goldman Sachs revolving door tradition (Tier 3) |
@@ -3976,9 +3976,9 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 
 | Status | URL | Source / Notes |
 |--------|-----|----------------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets — Invariant LLC lobbying profile 2024: $42.26M, 189 clients (Tier 1) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets — Invariant LLC lobbying profile 2025: $47.18M, 210 clients (Tier 1) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets — Invariant LLC lobbyists 2024: 59 total, 32 revolvers (54.2%), 0 former MoC (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets — Invariant LLC lobbying profile 2024: $42.26M, 189 clients (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets — Invariant LLC lobbying profile 2025: $47.18M, 210 clients (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets — Invariant LLC lobbyists 2024: 59 total, 32 revolvers (54.2%), 0 former MoC (Tier 1) |
 | VALID | `https://www.opensecrets.org/revolving-door/summary?id=84071` | OpenSecrets — Paul Arcangeli revolving door profile: HASC Staff Director 2004-2022 → Invariant 2022 (Tier 1) |
 | VALID | `https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/` | OpenSecrets News — Revolving door lobbyists help defense contractors in 2023; Arcangeli profile (Tier 1) |
 | VALID | `https://readsludge.com/2026/02/25/dccc-rakes-in-millions-from-palantir-lobbyists-as-protests-target-the-companys-ice-surveillance-tools/` | Sludge — DCCC rakes in millions from Palantir lobbyists; Invariant $560K from Palantir, ICE surveillance context (Tier 2) |
@@ -3998,9 +3998,9 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 
 | Status | URL | Source / Notes |
 |--------|-----|----------------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets — Thorn Run Partners lobbying profile 2024: $30.05M, 228 clients (Tier 1) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets — Thorn Run Partners lobbying profile 2025: $32.28M, 261 clients (Tier 1) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets — Thorn Run Partners lobbyists 2024: 35 total, 22 revolvers (62.9%), 0 former MoC (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets — Thorn Run Partners lobbying profile 2024: $30.05M, 228 clients (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets — Thorn Run Partners lobbying profile 2025: $32.28M, 261 clients (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets — Thorn Run Partners lobbyists 2024: 35 total, 22 revolvers (62.9%), 0 former MoC (Tier 1) |
 | VALID | `https://www.opensecrets.org/revolving-door/search_result?priv=Thorn+Run+Partners` | OpenSecrets — Revolving Door employer search: Thorn Run Partners (Tier 1) |
 | VALID | `https://rollcall.com/2010/01/05/ex-ogilvy-lobbyists-launch-thorn-run-partners/` | Roll Call — Ex-Ogilvy Lobbyists Launch Thorn Run Partners, Jan 5 2010; Lamond/Rosenberg founding story (Tier 2) |
 | VALID | `https://thornrun.com/veteran-defense-lobbyist-greg-lankler-joins-thorn-run-partners/` | TRP press release — Greg Lankler joins Nov 2019; 20+ yrs House including 10+ yrs House Appropriations Defense Subcommittee (Tier 3) |
@@ -4286,9 +4286,9 @@ Source: `Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Le
 
 | Status | URL | Source / Notes |
 |--------|-----|----------------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets — Cornerstone Government Affairs lobbying profile 2025: $55.65M, 386 clients (Tier 1) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets — Cornerstone Government Affairs lobbying profile 2024: $48.05M, 333 clients (Tier 1) |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets — Cornerstone lobbyists 2025: 100 total, 43 revolvers (43%), 0 former MoC (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets — Cornerstone Government Affairs lobbying profile 2025: $55.65M, 386 clients (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets — Cornerstone Government Affairs lobbying profile 2024: $48.05M, 333 clients (Tier 1) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets — Cornerstone lobbyists 2025: 100 total, 43 revolvers (43%), 0 former MoC (Tier 1) |
 | VALID | `https://www.opensecrets.org/revolving-door/search_result?priv=Cornerstone+Government+Affairs` | OpenSecrets — Revolving Door employer search: Cornerstone Government Affairs (Tier 1) |
 | VALID | `https://cgagroup.com/firm-history/` | Cornerstone — Firm History: founded 2002, 180+ professionals, 16 offices, 600+ clients (Tier 3) |
 | VALID | `https://cgagroup.com/people/` | Cornerstone — Full staff/people directory (Tier 3) |
@@ -4538,8 +4538,8 @@ These replacements correspond to broken CalMatters URLs listed in the CalMatters
 
 | Status | URL | Source | Notes |
 |--------|-----|--------|-------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | Ballard Partners Lobbying Profile |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | Ballard Partners Lobbyists 2025 — 37 lobbyists, 29.7% revolving door |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | Ballard Partners Lobbying Profile |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | Ballard Partners Lobbyists 2025 — 37 lobbyists, 29.7% revolving door |
 | VALID | `https://www.opensecrets.org/fara/results?foreign-principal=&location=&order=desc&page=1&query=&registrant=Ballard+Partners&sort=stamped` | OpenSecrets (Tier 1) | Ballard Partners FARA foreign lobby registrations |
 | VALID | `https://www.opensecrets.org/news/2019/01/ballard-partners-revolving-door-white-house/` | OpenSecrets News (Tier 2) | Revolving door brings Trump-tied lobbying firm even closer to the White House (2019) |
 | VALID | `https://www.opensecrets.org/news/2025/08/the-rise-of-ballard-partners-now-the-top-lobbying-firm-in-the-country` | OpenSecrets News (Tier 2) | The rise of Ballard Partners, now the top lobbying firm in the country (Aug 2025) |
@@ -4554,8 +4554,8 @@ These replacements correspond to broken CalMatters URLs listed in the CalMatters
 
 | Status | URL | Source | Notes |
 |--------|-----|--------|-------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | Mercury Lobbying Profile — $25.42M (2025), 129 clients |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | Mercury Lobbyists 2025 — 24 lobbyists, 45.8% revolving door, 3 ex-Congress |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | Mercury Lobbying Profile — $25.42M (2025), 129 clients |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | Mercury Lobbyists 2025 — 24 lobbyists, 45.8% revolving door, 3 ex-Congress |
 | VALID | `https://www.opensecrets.org/fara/registrants/D000071638` | OpenSecrets (Tier 1) | Mercury Public Affairs FARA — $3.63M 2025: Ukraine/India/Armenia/Qatar/Thailand |
 | VALID | `https://www.nbcnews.com/news/investigations/sources-podesta-group-mercury-are-companies-b-indictment-n815721` | NBC News (Tier 2) | Sources: Podesta Group, Mercury Are Companies 'A' and 'B' in Manafort Indictment (2017) |
 | VALID | `https://www.thedailybeast.com/robert-mueller-targeted-two-lobbying-firms-one-is-thriving-in-trumps-dc/` | The Daily Beast (Tier 2) | Robert Mueller Targeted Two Lobbying Firms. One Is Thriving in Trump's D.C. |
@@ -4662,9 +4662,9 @@ These replacements correspond to broken CalMatters URLs listed in the CalMatters
 |--------|-----|--------|-------------|
 | VALID | `https://www.opensecrets.org/orgs/united-parcel-service/summary?id=D000000081` | OpenSecrets (Tier 1) | UPS organization summary — total contributions, lobbying, revolving door |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/united-parcel-service/C00064766/candidate-recipients/2024` | OpenSecrets (Tier 1) | UPS PAC candidate recipients 2024 cycle |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | UPS lobbying profile 2024 — $6.19M spend |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | UPS lobbying issues 2024 — 13 issue categories |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | UPS lobbyists — revolving door data (60.6% former gov) |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | UPS lobbying profile 2024 — $6.19M spend |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | UPS lobbying issues 2024 — 13 issue categories |
+| VALID | `https://lda.gov/filings/public/filing/search/` | OpenSecrets (Tier 1) | UPS lobbyists — revolving door data (60.6% former gov) |
 | VALID | `https://investors.ups.com/corporategovernance/political-engagement-policy` | UPS Investor Relations (Tier 1) | UPS Political Engagement Policy — corporate disclosure |
 | VALID | `https://www.followthemoney.org/entity-details?eid=2710` | FollowTheMoney (Tier 1) | UPS state-level political spending |
 | VALID | `https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/` | Teamsters.org (Tier 2) | Teamsters ratify historic UPS contract — $30B deal |
@@ -5001,7 +5001,7 @@ For broken URLs where a real ProPublica article covering the same topic was iden
 | Status | URL | Title |
 |--------|-----|-------|
 | VALID | `https://www.fec.gov/data/receipts/?data_type=processed` | "Pharmaceuticals / Health Products Summary - OpenSecrets" |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | "Pharmaceuticals/Health Products Lobbying Profile - OpenSecrets" |
+| VALID | `https://lda.gov/filings/public/filing/search/` | "Pharmaceuticals/Health Products Lobbying Profile - OpenSecrets" |
 | VALID | `https://www.congress.gov/crs-product/R47872` | "Medicare Drug Price Negotiation Under the Inflation Reduction Act: Industry Responses and Potential Effects" |
 | VALID | `https://www.fiercepharma.com/pharma/big-pharma-greets-hundreds-ex-federal-workers-at-revolving-door` | "Big Pharma greets hundreds of ex-federal workers at the revolving door - Fierce Pharma" |
 | VALID | `https://thehill.com/blogs/congress-blog/politics/452654-for-big-pharma-the-revolving-door-keeps-spinning/` | "For Big Pharma, the revolving door keeps spinning" |
@@ -5185,7 +5185,7 @@ For broken URLs where a real ProPublica article covering the same topic was iden
 |--------|-----|-------|
 | VALID | `https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024670` | Centene Corp Profile: Summary • OpenSecrets |
 | VALID | `https://www.opensecrets.org/orgs/centene-corp/recipients?id=D000024670` | Centene Corp Profile: Recipients • OpenSecrets |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | Centene Corp Lobbying Profile • OpenSecrets |
+| VALID | `https://lda.gov/filings/public/filing/search/` | Centene Corp Lobbying Profile • OpenSecrets |
 | VALID | `https://www.followthemoney.org/entity-details?eid=528` | CENTENE CORP — FollowTheMoney.org |
 | VALID | `https://kffhealthnews.org/news/article/centene-political-donations-medicaid-contracts-overbilling-allegations/` | Centene Showers Politicians With Millions as It Courts Contracts and Settles Overbilling Allegations — KFF Health News |
 | VALID | `https://kffhealthnews.org/news/article/centene-settlements-pbms-medicaid-silence-holdouts-georgia-florida/` | Years Later, Centene Settlements With States Still Unfinished — KFF Health News |
@@ -5275,7 +5275,7 @@ Remaining FEC broken URLs not yet addressed (from original 34):
 |--------|-----|---------|
 | VALID | `https://www.opensecrets.org/orgs/meta/summary?id=D000033563` | Mark Zuckerberg |
 | VALID | `https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024` | Mark Zuckerberg |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | Mark Zuckerberg |
+| VALID | `https://lda.gov/filings/public/filing/search/` | Mark Zuckerberg |
 | VALID | `https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=mark%20zuckerberg` | Mark Zuckerberg |
 | VALID | `https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v` | Mark Zuckerberg |
 | VALID | `https://ballotpedia.org/Center_for_Tech_and_Civic_Life%27s_(CTCL)_grants_to_election_agencies,_2020` | Mark Zuckerberg |
@@ -5296,12 +5296,12 @@ Remaining FEC broken URLs not yet addressed (from original 34):
 
 | Status | URL | Context |
 |--------|-----|---------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | Akin Gump clients list 2024 (Tier 1) — added to profile |
+| VALID | `https://lda.gov/filings/public/filing/search/` | Akin Gump clients list 2024 (Tier 1) — added to profile |
 | VALID | `https://www.opensecrets.org/revolving-door/firm-profile?id=D000000162` | Akin Gump revolving door profile (Tier 1) — added to profile |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/?registrant=Akin+Gump` | Senate LDA filings for Akin Gump (Tier 1) — added to profile |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | K&L Gates issues lobbied 2024 (Tier 1) — added to profile |
+| VALID | `https://lda.gov/filings/public/filing/search/?registrant=Akin+Gump` | Senate LDA filings for Akin Gump (Tier 1) — added to profile |
+| VALID | `https://lda.gov/filings/public/filing/search/` | K&L Gates issues lobbied 2024 (Tier 1) — added to profile |
 | VALID | `https://www.opensecrets.org/revolving-door/firm-profile?id=D000021982` | Fierce Government Relations revolving door (Tier 1) — added to profile |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/?registrant=Fierce+Government+Relations` | Senate LDA filings for Fierce (Tier 1) — added to profile |
+| VALID | `https://lda.gov/filings/public/filing/search/?registrant=Fierce+Government+Relations` | Senate LDA filings for Fierce (Tier 1) — added to profile |
 | BROKEN | `https://www.hklaw.com/en/news/pressreleases/2020/09/nasim-fussell` | Holland & Knight Nasim Fussell press release — 404 |
 | BROKEN | `https://www.hklaw.com/en/professionals/f/fussell-nasim` | Holland & Knight Nasim Fussell profile — 404 |
 
@@ -5822,7 +5822,7 @@ All URLs below verified via Chrome browser load test on 2026-03-26 unless noted.
 | URL | Status | Title / Notes |
 |-----|--------|---------------|
 | `https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177` | VALID | Palantir Technologies Profile: Summary • OpenSecrets |
-| `https://lda.senate.gov/filings/public/filing/search/` | VALID | Palantir Technologies Lobbying Profile • OpenSecrets |
+| `https://lda.gov/filings/public/filing/search/` | VALID | Palantir Technologies Lobbying Profile • OpenSecrets |
 | `https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/all` | VALID | PALANTIR TECHNOLOGIES INC. \| Federal Award Recipient Profile \| USAspending |
 | `https://www.techtransparencyproject.org/articles/inside-palantirs-expanding-influence-operation` | VALID | TTP - Inside Palantir's Expanding Influence Operation |
 | `https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/` | VALID | Palantir courts major federal contracts — and controversy — in Trump era |
@@ -6027,9 +6027,9 @@ All URLs Chrome-verified before writing:
 
 | URL | Result | Used In |
 |-----|--------|---------|
-| `https://lda.senate.gov/filings/public/filing/search/` | VALID | HBW Resources.md |
+| `https://lda.gov/filings/public/filing/search/` | VALID | HBW Resources.md |
 | `https://www.opensecrets.org/orgs/hbw-resources/summary?id=D000073431` | VALID | HBW Resources.md |
-| `https://lda.senate.gov/filings/public/filing/search/` | VALID | HBW Resources.md |
+| `https://lda.gov/filings/public/filing/search/` | VALID | HBW Resources.md |
 | `https://www.desmog.com/consumer-energy-alliance-cea/` | VALID | HBW Resources.md |
 | `https://energyandpolicy.org/category/front-groups/consumer-energy-alliance/` | VALID (redirects from /consumer-energy-alliance/) | HBW Resources.md |
 | `https://www.facingsouth.org/2015/04/drive-to-drill-energy-lobbyists-behind-governors-c` | VALID | HBW Resources.md |
@@ -6896,7 +6896,7 @@ All ProPublica URLs in Donors & Power Networks and Stories folders are intact. N
 | VALID (Chrome) | `https://regtechtimes.com/india-contracts-lobbying-firms-to-address-tariffs/` | "India contracts lobbying firms in the US to address tariffs and oil sanctions - Regtechtimes" | Mercury Public Affairs.md |
 | VALID (Chrome) | `https://oc-media.org/us-lobbying-firm-that-cut-ties-with-turkey-amid-pressure-hired-by-armenia/` | "US lobbying firm that cut ties with Turkey amid pressure hired by Armenia" | Mercury Public Affairs.md |
 | VALID (Chrome) | `https://floridapolitics.com/archives/785587-rich-haselwood-joins-ballard-partners-washington-office/` | "Rich Haselwood joins Ballard Partners' Washington office" | Ballard Partners.md |
-| VALID (Chrome) | `https://lda.senate.gov/filings/public/filing/search/` | "Rich L Haselwood Lobbying Profile • OpenSecrets" | Ballard Partners.md |
+| VALID (Chrome) | `https://lda.gov/filings/public/filing/search/` | "Rich L Haselwood Lobbying Profile • OpenSecrets" | Ballard Partners.md |
 | VALID (Chrome) | `https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20S%20Yass` | "Yass, Jeffrey S : Donor Detail • OpenSecrets" | Jeffrey Yass.md |
 
 **Note:** The Yass OpenSecrets URL was previously logged as "UNVERIFIED (403 on WebFetch)" — now Chrome-confirmed VALID. 403 was anti-scraping behavior, not a broken link.
@@ -6989,7 +6989,7 @@ All ProPublica URLs in Donors & Power Networks and Stories folders are intact. N
 | VALID | OpenSecrets | `https://www.fec.gov/data/receipts/?data_type=processed` | Health Sector Summary — overall contributions and lobbying |
 | VALID | OpenSecrets | `https://www.fec.gov/data/receipts/?data_type=processed` | Health Sector Total — 2024 election cycle contributions |
 | VALID | OpenSecrets | `https://www.fec.gov/data/receipts/?data_type=processed` | Health Lobbying — 2024 cycle spending by sub-sector |
-| VALID | OpenSecrets | `https://lda.senate.gov/filings/public/filing/search/` | Pharmaceuticals/Health Products Lobbying Profile |
+| VALID | OpenSecrets | `https://lda.gov/filings/public/filing/search/` | Pharmaceuticals/Health Products Lobbying Profile |
 | VALID | OpenSecrets | `https://www.opensecrets.org/news/2019/03/big-pharma-insurers-hospitals-team-up-to-kill-medicare-for-all/` | Big Pharma, insurers, hospitals team up to kill Medicare for All |
 | VALID | OpenSecrets | `https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/` | Federal lobbying set new record in 2024 |
 | VALID | OpenSecrets | `https://www.opensecrets.org/news/2023/02/despite-record-federal-lobbying-spending-the-pharmaceutical-and-health-product-industry-lost-their-biggest-legislative-bet-in-2022/` | Pharma lost biggest legislative bet in 2022 (IRA drug pricing) |
@@ -7297,7 +7297,7 @@ All ProPublica URLs in Donors & Power Networks and Stories folders are intact. N
 
 | Status | URL | Title | Tier | File |
 |--------|-----|-------|------|------|
-| VALID | `https://lda.senate.gov/filings/public/filing/search/?client_name=PALANTIR+TECHNOLOGIES` | "Search Registrations & Quarterly Activity Reports \| LDA.gov" | 1 | Palantir.md |
+| VALID | `https://lda.gov/filings/public/filing/search/?client_name=PALANTIR+TECHNOLOGIES` | "Search Registrations & Quarterly Activity Reports \| LDA.gov" | 1 | Palantir.md |
 
 **Note:** `war.gov/News/Contracts/` confirmed to redirect from `defense.gov/News/Contracts/` — both load "Contracts \| U.S. Department of War" title (war.gov is the legacy DOD domain that redirects). Citation updated to canonical `defense.gov` domain.
 
@@ -8010,9 +8010,9 @@ New URLs verified via Chrome browser navigation during media-profile-builder run
 | VALID | `https://jacobin.com/2025/06/corporate-money-nyc-council-elections` | httpstatus.io 200 |
 | VALID | `https://labornotes.org/2023/03/uaw-reformers-clinch-presidency` | httpstatus.io 200 |
 | VALID | `https://labornotes.org/2023/10/big-3-buckled-stand-strike-spread` | httpstatus.io 200 |
-| VALID | `https://lda.senate.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/` | httpstatus.io 200 |
-| VALID | `https://lda.senate.gov/filings/public/filing/94aa0f30-7984-4a4e-bb3c-9f50b25355b3/print/` | httpstatus.io 200 |
-| VALID | `https://lda.senate.gov/filings/public/filing/search/` | httpstatus.io 200 |
+| VALID | `https://lda.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/` | httpstatus.io 200 |
+| VALID | `https://lda.gov/filings/public/filing/94aa0f30-7984-4a4e-bb3c-9f50b25355b3/print/` | httpstatus.io 200 |
+| VALID | `https://lda.gov/filings/public/filing/search/` | httpstatus.io 200 |
 | VALID | `https://marginalrevolution.com/?p=91799` | httpstatus.io 301 |
 | VALID | `https://nadler.house.gov/news/documentsingle.aspx?DocumentID=396204` | httpstatus.io 200 |
 | VALID | `https://new.keystonenewsroom.com/news/politics/jeffrey-yass-trump-tiktok-ban/` | httpstatus.io 200 |
@@ -8427,13 +8427,13 @@ New URLs verified via Chrome browser navigation during media-profile-builder run
 - BROKEN: https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html (403)
 - BROKEN: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt (403)
 - BROKEN: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sundar%20Pichai (403)
-- BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
-- BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
-- BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
-- BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
-- BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
-- BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
-- BROKEN: https://lda.senate.gov/filings/public/filing/search/ (403)
+- BROKEN: https://lda.gov/filings/public/filing/search/ (403)
+- BROKEN: https://lda.gov/filings/public/filing/search/ (403)
+- BROKEN: https://lda.gov/filings/public/filing/search/ (403)
+- BROKEN: https://lda.gov/filings/public/filing/search/ (403)
+- BROKEN: https://lda.gov/filings/public/filing/search/ (403)
+- BROKEN: https://lda.gov/filings/public/filing/search/ (403)
+- BROKEN: https://lda.gov/filings/public/filing/search/ (403)
 - BROKEN: https://www.fec.gov/data/receipts/?data_type=processed (403)
 - BROKEN: https://www.fec.gov/data/receipts/?data_type=processed (403)
 - BROKEN: https://www.fec.gov/data/receipts/?data_type=processed (403)
