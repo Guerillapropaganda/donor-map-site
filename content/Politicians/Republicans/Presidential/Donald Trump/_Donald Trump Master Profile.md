@@ -103,15 +103,15 @@ The working-class voters who wear the hat get the culture war. The billionaires 
 Trump's 2024 campaign and affiliated groups raised approximately $1.45 billion. About 44% came from just 10 megadonors. Small-dollar donations (under $200) collapsed from roughly 50% of his fundraising in 2020 to under 30% in 2024. The populist movement is funded by oligarchs. [Source: OpenSecrets — Tier 1; Brennan Center — Tier 2]
 
 ### The Mega-Donors (Over $100 Million Each):
-[[Timothy Mellon]] — $125–197 million. Banking heir (Mellon family). The single largest individual donor to [[MAGA Inc|MAGA Inc]]. super PAC. Reclusive. Old money. The class position is inheritance — generational wealth buying political protection. [Source: [Fortune: Timothy Mellon](https://fortune.com/2024/11/09/timothy-mellon-net-worth-top-donor-trump-campaign-elon-musk/) (Tier 2)]
+[[Timothy Mellon]] — $125–197 million. Banking heir (Mellon family). The single largest individual donor to [[MAGA Inc|MAGA Inc]]. super PAC. Reclusive. Old money. The class position is inheritance — generational wealth buying political protection. [Source: [Fortune: Timothy Mellon](https://fortune.com/2024/11/09/timothy-mellon-net-worth-top-donor-trump-campaign-elon-musk/) (Tier 2) (VERIFIED)]
 
-[[Elon Musk]] — $118.6 million to America PAC; approximately $292 million in total 2024 political spending. CEO of Tesla, SpaceX, X (Twitter). His companies hold $38 billion+ in federal contracts, loans, subsidies, and tax credits over two decades. $6.3 billion from federal and local governments in 2024 alone. He was then given control of DOGE — an agency tasked with cutting government spending on everyone except, apparently, [[Elon Musk]]. [Source: [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)] [See: Elon Musk - The Oligarch in the Building]
+[[Elon Musk]] — $118.6 million to America PAC; approximately $292 million in total 2024 political spending. CEO of Tesla, SpaceX, X (Twitter). His companies hold $38 billion+ in federal contracts, loans, subsidies, and tax credits over two decades. $6.3 billion from federal and local governments in 2024 alone. He was then given control of DOGE — an agency tasked with cutting government spending on everyone except, apparently, [[Elon Musk]]. [Source: [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)] [See: Elon Musk - The Oligarch in the Building]
 
 [[Miriam Adelson]] — $100–148 million. Widow of Sheldon Adelson (Las Vegas Sands casino empire). Primary policy interest: Israel — maximalist support, annexation of the West Bank, U.S. embassy in Jerusalem (achieved first term). Secondary interest: online gambling regulation favorable to casino industry. [Source: [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)]
 
 **Richard & [[Richard and Elizabeth Uihlein|Elizabeth Uihlein]]** — $100 million+. Uline shipping supplies fortune. Wisconsin-based. Major funders of far-right candidates and organizations nationally. The Kochs but less sophisticated. [Source: [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)]
 
-**[[Kenneth Griffin|Kenneth Griffin]]** — $100 million+. Citadel hedge fund founder. Financial deregulation interest. Moved from anti-Trump to mega-donor as the tax and regulatory benefits became clear. [Source: [Brennan Center: Megadonor analysis](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2)]
+**[[Kenneth Griffin|Kenneth Griffin]]** — $100 million+. Citadel hedge fund founder. Financial deregulation interest. Moved from anti-Trump to mega-donor as the tax and regulatory benefits became clear. [Source: [Brennan Center: Megadonor analysis](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2) (VERIFIED)]
 
 **Jeffrey & Janine Yass** — $100 million+. Susquehanna International Group (trading firm). Major Republican donor. TikTok investment interest — Yass holds a significant stake in ByteDance, TikTok's parent company. His donations coincided with the TikTok ban debate. [Source: [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)]
 
@@ -209,19 +209,19 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 
 ### Sources
 
-- [OpenSecrets: Trump 2024 summary](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1)
+- [OpenSecrets: Trump 2024 summary](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1) (VERIFIED)
 - [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
 - [Brennan Center: Megadonor analysis](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2)
-- [FEC: Trump candidate page](https://www.fec.gov/data/candidate/P80001571/) (Tier 1)
-- [CBO: TCJA analysis](https://www.cbo.gov/publication/53312) (Tier 1)
-- [Tax Policy Center: TCJA impact](https://taxpolicycenter.org/briefing-book/how-did-tcja-affect-federal-budget-outlook) (Tier 1)
-- [NPR: World Liberty Financial](https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial) (Tier 2)
-- [CBS News: Trump family crypto net worth](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/) (Tier 2)
-- [Yale Climate Connections: Fossil fuel spending](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2)
-- [The Hill: Palantir contracts](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2)
-- [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)
-- [PBS NewsHour: DOGE disassembled](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2)
-- [Holland & Knight: Crypto executive order](https://www.hklaw.com/en/insights/publications/2025/01/president-trump-signs-executive-order-on-digital-assets) (Tier 2)
+- [FEC: Trump candidate page](https://www.fec.gov/data/candidate/P80001571/) (Tier 1) (VERIFIED)
+- [CBO: TCJA analysis](https://www.cbo.gov/publication/53312) (Tier 1) (VERIFIED: H.R. 1, the Tax Cuts and Jobs Act November 13, 2017 Cost Estimate As ordered reported by the House Committee on Ways and Means on November 9, 2017; Seems like it works fine. Not sure about context but it works)
+- [Tax Policy Center: TCJA impact](https://taxpolicycenter.org/briefing-book/how-did-tcja-affect-federal-budget-outlook) (Tier 1) (VERIFIED)
+- [NPR: World Liberty Financial](https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial) (Tier 2) (VERIFIED)
+- [CBS News: Trump family crypto net worth](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/) (Tier 2) (VERIFIED)
+- [Yale Climate Connections: Fossil fuel spending](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2) (VERIFIED)
+- [The Hill: Palantir contracts](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2) (VERIFIED: It works just has a bot blocker; removed from bad)
+- [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2) (VERIFIED)
+- [PBS NewsHour: DOGE disassembled](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2) (VERIFIED)
+- [Holland & Knight: Crypto executive order](https://www.hklaw.com/en/insights/publications/2025/01/president-trump-signs-executive-order-on-digital-assets) (Tier 2) (VERIFIED)
 - [Fortune: Timothy Mellon](https://fortune.com/2024/11/09/timothy-mellon-net-worth-top-donor-trump-campaign-elon-musk/) (Tier 2)
 
 ---
@@ -298,9 +298,9 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 
 **Class composition note:** The new donor cohort is notably tech/crypto-heavy. Brockman (OpenAI), Foris DAX (crypto), and Isaacman (SpaceX/NASA) signal the tech-finance sector fully integrating into Trump's political infrastructure in Year 2 of his second term.
 
-- [CNN — Trump super PAC builds $300 million cash stockpile for 2026](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2)
-- [US News — Trump-Aligned MAGA Inc Super PAC enters 2026 with $300 million stockpile](https://www.usnews.com/news/politics/articles/2026-01-02/trump-aligned-maga-inc-super-pac-enters-2026-with-300-million-stockpile) (Tier 2)
-- [FEC — MAGA INC. committee overview](https://www.fec.gov/data/committee/C00892471/) (Tier 1)
+- [CNN — Trump super PAC builds $300 million cash stockpile for 2026](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2) (VERIFIED)
+- [US News — Trump-Aligned MAGA Inc Super PAC enters 2026 with $300 million stockpile](https://www.usnews.com/news/politics/articles/2026-01-02/trump-aligned-maga-inc-super-pac-enters-2026-with-300-million-stockpile) (Tier 2) (VERIFIED)
+- [FEC — MAGA INC. committee overview](https://www.fec.gov/data/committee/C00892471/) (Tier 1) (NEEDS REVIEW: Very slow but works; Note it)
 
 ---
 
@@ -320,10 +320,10 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 
 **DHS shutdown — week 5:** The partial DHS shutdown (since Feb 14) continues. 50,000+ TSA officers working without pay. Musk offered to personally cover TSA salaries. Trump threatened to deploy ICE agents to airports if shutdown doesn't end.
 
-- [NPR: Iran war enters fourth week](https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week) (Tier 2)
-- [CNBC: Trump AI policy framework](https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html) (Tier 2)
-- [Federal Register: 2026 Executive Orders](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026) (Tier 1)
-- [CNBC: Trump threatens ICE at airports](https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html) (Tier 2)
+- [NPR: Iran war enters fourth week](https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week) (Tier 2) (VERIFIED)
+- [CNBC: Trump AI policy framework](https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html) (Tier 2) (VERIFIED)
+- [Federal Register: 2026 Executive Orders](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026) (Tier 1) (NEEDS REVIEW: Redirects to https://unblock.federalregister.gov/)
+- [CNBC: Trump threatens ICE at airports](https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html) (Tier 2) (VERIFIED)
 
 profile-status:: ready — master profile fully built with inline citations. All bold headers converted to ### format. Mega-donors individually sourced (OpenSecrets Tier 1, Brennan Center Tier 2). Industry sectors (fossil fuel, crypto, tech, private prisons, defense) documented with source tier labels. Donation-to-policy timeline with temporal mapping. MAGA Inc 2026 war chest ($300M) documented. March 2026 updates (Iran war, executive orders, DHS shutdown). 17 policy sub-notes linked. Promoted to ready Session 
 
@@ -349,7 +349,7 @@ profile-status:: ready — master profile fully built with inline citations. All
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 0 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412733) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412733) (Tier 1) (NEEDS REVIEW: Redirects to https://www.govtrack.us/congress/other-people/donald_trump/412733 works)
 <!-- auto:govtrack end -->
 
 ### DOJ Press Releases
@@ -361,15 +361,15 @@ profile-status:: ready — master profile fully built with inline citations. All
 
 **Recent press releases:**
 
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Former financial advisor sentenced to 5 years in prison for running $8.6M Ponzi scheme](https://www.justice.gov/usao-sdoh/pr/former-financial-advisor-sentenced-5-years-prison-running-86m-ponzi-scheme) — USAO - Ohio, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Two Men Plead Guilty to Cocaine Trafficking](https://www.justice.gov/usao-ma/pr/two-men-plead-guilty-cocaine-trafficking) — USAO - Massachusetts
-- 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) — USAO - Massachusetts
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) (VERIFIED) — USAO - New York, Northern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Former financial advisor sentenced to 5 years in prison for running $8.6M Ponzi scheme](https://www.justice.gov/usao-sdoh/pr/former-financial-advisor-sentenced-5-years-prison-running-86m-ponzi-scheme) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) (VERIFIED) — USAO - Massachusetts
+- 2026-04-07 — [Two Men Plead Guilty to Cocaine Trafficking](https://www.justice.gov/usao-ma/pr/two-men-plead-guilty-cocaine-trafficking) (VERIFIED) — USAO - Massachusetts
+- 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) (VERIFIED) — USAO - Massachusetts
 - ... and 264,306 more
 
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Donald%20Trump%22&sort=date) (Tier 1)
+- ~~[Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Donald%20Trump%22&sort=date)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:doj-press end -->
 
 ### Campaign Finance (FEC)
