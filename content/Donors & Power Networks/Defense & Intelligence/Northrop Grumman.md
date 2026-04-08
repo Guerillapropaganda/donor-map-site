@@ -61,7 +61,7 @@ sec-form-types:
 federal-awards-total: 9185964914
 federal-contracts-count: 25
 federal-grants-count: 12
-related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]]"
+related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[John Ratcliffe Master Profile]]"
 ---
 
 

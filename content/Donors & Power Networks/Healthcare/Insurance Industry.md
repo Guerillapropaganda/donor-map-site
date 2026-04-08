@@ -38,7 +38,7 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Housing and Urban Development Department"
   - "Internal Revenue Service"
-related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]]"
+related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]]"
 ---
 
 #insurance #health-insurance #lobbying #aca #public-option #bipartisan #medicare-advantage #ahip #revolving-door

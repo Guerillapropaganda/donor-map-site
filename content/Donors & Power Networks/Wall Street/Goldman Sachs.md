@@ -29,7 +29,7 @@ regulatory-agencies:
   - "Labor Department"
   - "Securities and Exchange Commission"
   - "Treasury Department"
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Goldman Sachs and the Heidi Cruz Connection]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Finance Committee and Tax Industry Alignment]]"
 ---
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor

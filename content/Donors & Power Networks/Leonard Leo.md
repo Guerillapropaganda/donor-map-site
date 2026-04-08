@@ -30,7 +30,7 @@ sec-form-types:
   - "S-1/A"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[The Leo Pipeline and Operation Higher Court]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[John Roberts Master Profile]] · [[The Institutionalist Brand - Strategic Defections and Legitimacy Management]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[The Leo Pipeline and Operation Higher Court]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[John Roberts Master Profile]] · [[The Institutionalist Brand - Strategic Defections and Legitimacy Management]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]] · [[Brett Kavanaugh Master Profile]]"
 ---
 
 #donor #dark-money #judicial-capture #federalist-society #conservative #kingmaker #dark-money-architect #leonard-leo #judicial-pipeline #barre-seid #marble-freedom-trust #scotus #class-analysis

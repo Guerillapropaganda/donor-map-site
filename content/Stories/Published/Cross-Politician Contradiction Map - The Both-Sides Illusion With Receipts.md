@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Harris-Newsom Donor Class Fracture]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Georgia 2026 Senate Race]] · [[New York House Races 2026]] · [[AIPAC Illinois Shell PAC Operation]] · [[Think Tank & Policy Infrastructure Framework]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Harris-Newsom Donor Class Fracture]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Georgia 2026 Senate Race]] · [[New York House Races 2026]] · [[AIPAC Illinois Shell PAC Operation]] · [[Think Tank & Policy Infrastructure Framework]] · [[Schwarzman and Singer Fund Every Republican Faction]]"
 ---
 
 #investigation #contradiction-map #class-analysis #both-sides #donor-first #follow-the-money #vault-infrastructure
