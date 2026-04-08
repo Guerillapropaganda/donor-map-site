@@ -45,6 +45,7 @@ export default function UrlManagerPage() {
   const [saving, setSaving] = useState(false)
   const [toast, setToast] = useState<string | null>(null)
   const [uncheckedVisible, setUncheckedVisible] = useState(20)
+  const [checkResults, setCheckResults] = useState<Record<string, { status: string; code?: number; ms?: number; redirectUrl?: string }>>({})
 
   // Show toast notification
   const showToast = useCallback((msg: string) => {
@@ -144,10 +145,15 @@ export default function UrlManagerPage() {
         })
         const data = await res.json()
         if (data.results) {
-          setUrls((prev) => prev.map((u) => {
-            const result = data.results[u.url]
-            return result ? { ...u, status: result.status, code: result.code, ms: result.ms } : u
-          }))
+          // Store check results separately — don't change triage status
+          setCheckResults((prev) => {
+            const next = { ...prev }
+            for (const u of batch) {
+              const r = data.results[u.url]
+              if (r) next[u.id] = { status: r.status, code: r.code, ms: r.ms, redirectUrl: r.redirectUrl }
+            }
+            return next
+          })
         }
       } catch { /* skip */ }
       setCheckProgress({ done: Math.min(i + BATCH, toCheck.length), total: toCheck.length })
@@ -240,7 +246,15 @@ export default function UrlManagerPage() {
         <div className="flex items-start gap-2">
           <div className="flex-1 min-w-0">
             <p className="text-[10px] text-[var(--color-text)] truncate">{u.label}</p>
-            <a href={u.url} target="_blank" rel="noopener noreferrer" className="text-[9px] text-[var(--color-steel)] hover:underline truncate block" onClick={(e) => e.stopPropagation()}>{u.url}</a>
+            <div className="flex items-center gap-1.5">
+              <a href={u.url} target="_blank" rel="noopener noreferrer" className="text-[9px] text-[var(--color-steel)] hover:underline truncate" onClick={(e) => e.stopPropagation()}>{u.url}</a>
+              {checkResults[u.id] && (() => {
+                const cr = checkResults[u.id]
+                const color = cr.status === "ok" ? "#22c55e" : cr.status === "broken" ? "#ef4444" : cr.status === "slow" ? "#f59e0b" : cr.status === "redirect" ? "#f59e0b" : "#7a7a86"
+                const label = cr.status === "ok" ? `${cr.code} ${cr.ms}ms` : cr.status === "broken" ? `${cr.code || "err"}` : cr.status === "slow" ? `${cr.ms}ms` : cr.status === "redirect" ? "redirect" : cr.status
+                return <span className="flex-shrink-0 text-[7px] px-1 py-0.5 rounded" style={{ color, background: `${color}15` }}>{label}</span>
+              })()}
+            </div>
             {"completedDate" in u && <span className="text-[7px] text-[var(--color-text-dim)]">Completed {"completedDate" in u ? u.completedDate : ""}</span>}
           </div>
           <div className="flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0">
