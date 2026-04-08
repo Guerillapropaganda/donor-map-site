@@ -1,10 +1,12 @@
 ---
 title: "The Controller Record and the Fiscal Accountability Question"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Betty Yee Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

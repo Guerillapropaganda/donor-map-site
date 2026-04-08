@@ -1,7 +1,7 @@
 ---
 title: "Analytical Quality Audit - March 2026"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: null
 parent: null

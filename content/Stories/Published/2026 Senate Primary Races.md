@@ -1,11 +1,13 @@
 ---
 title: "2026 Senate Primary Races"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 related: "[[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Graham Platner Master Profile]] · [[Abdul El-Sayed Master Profile]]"
+source-types:
+  - FEC
 ---
 
 #2026 #senate #primary #elections #midterm #map #donors #super-pac

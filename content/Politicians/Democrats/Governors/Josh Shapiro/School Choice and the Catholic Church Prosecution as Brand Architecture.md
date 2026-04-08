@@ -1,7 +1,7 @@
 ---
 title: "School Choice and the Catholic Church Prosecution as Brand Architecture"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Josh Shapiro Master Profile]]

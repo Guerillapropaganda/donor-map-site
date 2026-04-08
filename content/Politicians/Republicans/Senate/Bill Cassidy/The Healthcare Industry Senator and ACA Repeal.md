@@ -1,10 +1,14 @@
 ---
 title: "The Healthcare Industry Senator and ACA Repeal"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Bill Cassidy Master Profile]]"
+source-types:
+  - Congress
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #cassidy #healthcare #louisiana #aca #energy #petrochemical #physician-senator

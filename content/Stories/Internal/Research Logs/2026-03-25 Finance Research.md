@@ -1,10 +1,14 @@
 ---
 title: "2026-03-25 Finance Research"
 type: daily-update
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #finance-research #campaign-finance #daily-update #automated

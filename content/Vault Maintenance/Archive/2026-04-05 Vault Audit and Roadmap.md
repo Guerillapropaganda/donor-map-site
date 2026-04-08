@@ -1,10 +1,12 @@
 ---
 title: "2026-04-05 Vault Audit and Roadmap"
 type: methodology
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-05
 source-tier: 1
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### Vault Audit and Roadmap: April 5, 2026

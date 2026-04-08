@@ -1,10 +1,14 @@
 ---
 title: "Even More About This Website"
 type: methodology
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-04
 source-tier: null
 parent: "[[About The Donor Map]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 This page documents how The Donor Map builds its claims: what counts as evidence, how units are defined, what the analytical framework can and cannot establish, and where the limitations are. Every profile in the database is built on these standards. If something doesn't meet them, it gets flagged or removed.

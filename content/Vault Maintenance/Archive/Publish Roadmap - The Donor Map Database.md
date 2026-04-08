@@ -1,11 +1,13 @@
 ---
 title: "Publish Roadmap - The Donor Map Database"
 type: methodology
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 related: "[[Vault Integrity Audit - Methodology and Tracker]]"
+source-types:
+  - Congress
 ---
 
 ### The Donor Map Database — Publish Roadmap

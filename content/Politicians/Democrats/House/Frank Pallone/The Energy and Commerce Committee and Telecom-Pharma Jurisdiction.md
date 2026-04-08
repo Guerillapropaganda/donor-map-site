@@ -1,10 +1,16 @@
 ---
 title: "The Energy and Commerce Committee and Telecom-Pharma Jurisdiction"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Frank Pallone Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #pallone #energy-commerce #telecom #pharma #new-jersey #aca #drug-pricing

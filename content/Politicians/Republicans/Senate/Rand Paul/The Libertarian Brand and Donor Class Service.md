@@ -1,10 +1,16 @@
 ---
 title: "The Libertarian Brand and Donor Class Service"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Rand Paul Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #rand-paul #libertarian #kentucky #anti-intervention #fauci #spending #filibuster

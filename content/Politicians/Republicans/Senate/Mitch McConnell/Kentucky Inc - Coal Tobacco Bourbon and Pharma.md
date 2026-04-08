@@ -1,10 +1,12 @@
 ---
 title: "Kentucky Inc - Coal Tobacco Bourbon and Pharma"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Mitch McConnell Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

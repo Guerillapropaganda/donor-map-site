@@ -1,7 +1,7 @@
 ---
 title: "The Carried Interest Loophole - 30 Years of Survival"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -9,6 +9,8 @@ issues:
   - "Wall Street & Finance"
   - "Tax Policy"
 related: "[[How Committee Jurisdiction Drives Fundraising]]"
+source-types:
+  - Congress
 ---
 
 #carried-interest #private-equity #wall-street #tax #loophole #bipartisan #lobbying

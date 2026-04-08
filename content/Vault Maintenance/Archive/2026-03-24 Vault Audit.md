@@ -1,10 +1,12 @@
 ---
 title: "2026-03-24 Vault Audit"
 type: methodology
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: null
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #vault-audit #vault-maintenance

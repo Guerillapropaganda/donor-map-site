@@ -1,10 +1,16 @@
 ---
 title: "The Housing Progressive and Wall Street Tension"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Jeff Merkley Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #merkley #housing #banking #wall-street #oregon #progressive #cfpb

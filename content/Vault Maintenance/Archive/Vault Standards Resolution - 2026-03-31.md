@@ -1,10 +1,18 @@
 ---
 title: "Vault Standards Resolution — March 31, 2026"
 type: methodology
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-31
 source-tier: null
 parent: null
+source-types:
+  - Congress
+  - FEC
+  - LDA
+  - USASpending
+corroboration-count: 4
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### Vault Standards Resolution — March 31, 2026

@@ -1,10 +1,14 @@
 ---
 title: "The Veterans Affairs Committee and Southern Illinois Defense"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Mike Bost Master Profile]]"
+source-types:
+  - Congress
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #bost #illinois #veterans #defense #coal #agriculture #scott-afb

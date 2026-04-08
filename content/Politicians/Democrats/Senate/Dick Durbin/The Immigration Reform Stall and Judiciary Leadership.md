@@ -1,10 +1,14 @@
 ---
 title: "The Immigration Reform Stall and Judiciary Leadership"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Dick Durbin Master Profile]]"
+source-types:
+  - Congress
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #durbin #immigration #dream-act #judiciary #reform #daca #bipartisan

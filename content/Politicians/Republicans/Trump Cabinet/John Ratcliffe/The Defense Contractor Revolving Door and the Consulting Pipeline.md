@@ -1,10 +1,12 @@
 ---
 title: "The Defense Contractor Revolving Door and the Consulting Pipeline"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_John Ratcliffe Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

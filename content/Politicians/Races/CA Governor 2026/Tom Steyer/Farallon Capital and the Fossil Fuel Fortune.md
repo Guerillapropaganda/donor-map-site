@@ -1,7 +1,7 @@
 ---
 title: "Farallon Capital and the Fossil Fuel Fortune"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Tom Steyer Master Profile]]

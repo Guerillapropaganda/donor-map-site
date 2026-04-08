@@ -1,10 +1,12 @@
 ---
 title: "Deep Research Prompts - Think Tank Policy Kill Map"
 type: reference
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: null
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### Think Tank Policy Kill Map — Deep Research Prompts

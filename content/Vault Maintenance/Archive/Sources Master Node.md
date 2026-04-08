@@ -1,11 +1,19 @@
 ---
 title: "Sources Master Node"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: null
 parent: null
 related: "[[Vault Standards and Agent Instructions]] · [[API Pipeline — Data Collection Layer]]"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+  - LDA
+  - SEC
+  - USASpending
+corroboration-count: 6
 ---
 
 

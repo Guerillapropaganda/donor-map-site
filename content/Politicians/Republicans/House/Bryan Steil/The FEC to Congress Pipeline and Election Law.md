@@ -1,10 +1,16 @@
 ---
 title: "The FEC to Congress Pipeline and Election Law"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Bryan Steil Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #steil #house-administration #elections #fec #wisconsin #campaign-finance

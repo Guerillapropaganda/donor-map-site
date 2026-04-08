@@ -16,6 +16,10 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+executive-orders: 294
+presidential-memoranda: 131
+proclamations: 942
+last-enriched: "2026-04-08"
 ---
 
 #politician #republican #president #2001-2009 #bush-administration #iraq-war #texas-governor
@@ -112,3 +116,41 @@ Bush's use of faith-based rhetoric, patriotic framing post-9/11, and "compassion
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P00003335/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Presidential Actions (Federal Register)
+<!-- auto:executive-orders start -->
+| Document Type | Count |
+|--------------|-------|
+| Executive Orders | 294 |
+| Presidential Memoranda | 131 |
+| Proclamations | 942 |
+| **Total Presidential Documents** | **1,367** |
+
+**Recent executive orders:**
+
+| EO# | Title | Date |
+|-----|-------|------|
+| EO 13488 | Granting Reciprocity on Excepted Service and Federal Contractor Employee Fitness… | 2009-01-16 |
+| EO 13487 | Establishment of a Temporary Organization To Facilitate United States Government… | 2009-01-16 |
+| EO 13486 | Strengthening Laboratory Biosecurity in the United States | 2009-01-09 |
+| EO 13485 | Providing an Order of Succession Within the Department of Transportation | 2009-01-09 |
+| EO 13484 | Amending the Order of Succession Within the Department of Agriculture | 2009-01-09 |
+| EO 13483 | Adjustments of Certain Rates of Pay | 2008-12-18 |
+| EO 13482 | Closing of Executive Departments and Agencies of the Federal Government on Frida… | 2008-12-12 |
+| EO 13481 | Providing An Order of Succession Within the Department of Justice | 2008-12-09 |
+| EO 13480 | Exclusions From the Federal Labor-management Relations Program | 2008-11-26 |
+| EO 13479 | Transformation of the National Air Transportation System | 2008-11-18 |
+| EO 13478 | Amendments To Executive Order 9397 Relating To Federal Agency Use of Social Secu… | 2008-11-18 |
+| EO 13477 | Settlement of Claims Against Libya | 2008-10-31 |
+| EO 13476 | Facilitation of a Presidential Transition | 2008-10-09 |
+| EO 13475 | Further Amendments To Executive Orders 12139 And 12949 In Light of the Foreign I… | 2008-10-07 |
+| EO 13474 | Amendments to Executive Order 12962 | 2008-09-26 |
+
+**Recent presidential memoranda:**
+
+- Designation of Officers to Act as President of the Overseas Private Investment Corporation (2009-01-16)
+- Designation of Officers of the National Aeronautics And Space Administration To Act as Administrator (2009-01-16)
+- Assignment of Reporting Function Under Section 14(b) of the Tom Lantos Block Burmese Junta's Anti- Democratic Efforts (J (2008-12-23)
+
+- [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/george-w-bush) (Tier 1)
+<!-- auto:executive-orders end -->

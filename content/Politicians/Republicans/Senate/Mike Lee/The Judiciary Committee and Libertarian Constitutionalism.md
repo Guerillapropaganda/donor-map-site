@@ -1,10 +1,16 @@
 ---
 title: "The Judiciary Committee and Libertarian Constitutionalism"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Mike Lee Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #lee #utah #judiciary #libertarian #tech #antitrust #constitution

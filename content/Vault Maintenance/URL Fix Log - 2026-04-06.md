@@ -1,10 +1,12 @@
 ---
 title: "URL Fix Log - 2026-04-06"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: null
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### URL Fix Log — April 6, 2026

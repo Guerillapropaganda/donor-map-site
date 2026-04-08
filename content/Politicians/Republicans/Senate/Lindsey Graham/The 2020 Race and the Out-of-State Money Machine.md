@@ -1,10 +1,14 @@
 ---
 title: "The 2020 Race and the Out-of-State Money Machine"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Lindsey Graham Master Profile]]
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

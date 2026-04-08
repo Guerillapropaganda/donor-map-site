@@ -1,7 +1,7 @@
 ---
 title: "Defense-Pharma-Carceral-Labor-Wexner Cross-Reference: Five Donors, One System"
 type: story
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -13,6 +13,7 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+
 ---
 
 #cross-reference #donor-analysis #roi-analysis #class-analysis #dark-money #donor-control

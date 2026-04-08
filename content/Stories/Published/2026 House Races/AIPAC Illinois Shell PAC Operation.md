@@ -1,7 +1,7 @@
 ---
 title: "AIPAC Illinois Shell PAC Operation"
 type: story
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null

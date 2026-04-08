@@ -1,10 +1,16 @@
 ---
 title: "The Folksy Populist Brand and Petrochemical Reality"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_John Kennedy Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #kennedy #louisiana #energy #petrochemical #populist #brand #media

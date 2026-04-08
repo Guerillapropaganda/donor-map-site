@@ -1,10 +1,12 @@
 ---
 title: "Fox News to Pentagon - The Media-Military Pipeline"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Pete Hegseth Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

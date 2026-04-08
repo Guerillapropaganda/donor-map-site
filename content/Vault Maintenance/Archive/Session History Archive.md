@@ -1,10 +1,21 @@
 ---
 title: "Session History Archive"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-23
 source-tier: null
 parent: null
+source-types:
+  - Congress
+  - DOJ
+  - FEC
+  - GovTrack
+  - SAM
+  - SEC
+  - USASpending
+corroboration-count: 7
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### Session History Archive

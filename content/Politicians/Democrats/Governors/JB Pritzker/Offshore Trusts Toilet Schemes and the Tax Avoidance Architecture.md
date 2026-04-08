@@ -1,7 +1,7 @@
 ---
 title: "Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_JB Pritzker Master Profile]]

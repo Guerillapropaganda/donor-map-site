@@ -1,10 +1,16 @@
 ---
 title: "The EPW Committee and West Virginia Energy Transition"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Shelley Moore Capito Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #capito #west-virginia #epw #coal #energy #infrastructure #appalachia

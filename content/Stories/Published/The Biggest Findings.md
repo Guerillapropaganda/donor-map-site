@@ -1,9 +1,11 @@
 ---
 title: "The Biggest Findings"
 type: sub-note
-content-readiness: ready
+content-readiness: raw
 last-updated: 2026-04-02
 source-tier: 1
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #featured #findings #contradictions #both-sides #donor-class #follow-the-money

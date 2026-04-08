@@ -1,10 +1,14 @@
 ---
 title: Justice Democrats and Brand New Congress - The Infrastructure He Built
 type: sub-note
-content-readiness: ready
+content-readiness: raw
 last-updated: 2026-04-02
 source-tier: 1
 parent: "[[_Saikat Chakrabarti Master Profile]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #justice-democrats #brand-new-congress #pac #recruitment #casting-call #aoc #squad #class-analysis #follow-the-money

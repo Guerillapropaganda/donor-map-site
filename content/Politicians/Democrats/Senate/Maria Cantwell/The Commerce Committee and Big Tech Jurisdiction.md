@@ -1,10 +1,16 @@
 ---
 title: "The Commerce Committee and Big Tech Jurisdiction"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Maria Cantwell Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #cantwell #commerce #tech #amazon #boeing #washington #privacy #telecom

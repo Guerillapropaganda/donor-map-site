@@ -1,10 +1,14 @@
 ---
 title: "Columbia-HCA and the Largest Medicare Fraud in History"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Rick Scott Master Profile]]
+source-types:
+  - DOJ
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

@@ -1,12 +1,13 @@
 ---
 title: "Kenneth Griffin Hedges the Republican Primary"
 type: story
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
 known-gaps:
   - "No mapped relationships"
+
 ---
 
 #investigation #contradiction #kenneth-griffin #citadel #republican #intra-party #class-analysis

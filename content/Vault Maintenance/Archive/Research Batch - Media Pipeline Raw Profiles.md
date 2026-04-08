@@ -1,10 +1,12 @@
 ---
 title: "Research Batch — Media Pipeline Raw Profiles"
 type: reference
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-03-31
 source-tier: null
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 # Research Batch Queries — 25 Raw Media Pipeline Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Koch vs Soros Mirror Image Dark Money Machines"
 type: story
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

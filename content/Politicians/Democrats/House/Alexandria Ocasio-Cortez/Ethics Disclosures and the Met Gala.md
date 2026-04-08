@@ -1,10 +1,12 @@
 ---
 title: "Ethics Disclosures and the Met Gala"
 type: sub-note
-content-readiness: ready
+content-readiness: raw
 last-updated: 2026-04-02
 source-tier: 1
 parent: "[[_Alexandria Ocasio-Cortez Master Profile]]"
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #aoc #ethics #financial-disclosure #met-gala #class-analysis #follow-the-money

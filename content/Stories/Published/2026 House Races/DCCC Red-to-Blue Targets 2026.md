@@ -1,12 +1,13 @@
 ---
 title: "DCCC Red-to-Blue Targets 2026"
 type: story
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
 known-gaps:
   - "No mapped relationships"
+
 ---
 
 #2026-election #house #race-frame #dccc #red-to-blue #offensive-strategy

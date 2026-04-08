@@ -1,7 +1,7 @@
 ---
 title: "The Endorsement Economy - Courage to Change PAC"
 type: sub-note
-content-readiness: ready
+content-readiness: raw
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Alexandria Ocasio-Cortez Master Profile]]"

@@ -1,11 +1,13 @@
 ---
 title: "The $1.6 Billion Fundraising Machine"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Nancy Pelosi Master Profile]]
 related: "[[The Biden Exit and Harris Installation]]"
+source-types:
+  - FEC
 ---
 
 

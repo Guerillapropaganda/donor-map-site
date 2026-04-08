@@ -1,10 +1,16 @@
 ---
 title: "The Ways and Means Chair and TCJA Extension"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Jason Smith Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #smith #ways-and-means #tax-policy #tcja #missouri #corporate-tax #carried-interest

@@ -1,10 +1,18 @@
 ---
 title: "Quality Standards — The Donor Map Database"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-05
 source-tier: null
 parent: null
+source-types:
+  - Congress
+  - FEC
+  - LDA
+  - USASpending
+corroboration-count: 4
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### Quality Standards — The Donor Map Database

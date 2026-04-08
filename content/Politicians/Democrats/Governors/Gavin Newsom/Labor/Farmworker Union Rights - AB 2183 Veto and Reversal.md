@@ -1,7 +1,7 @@
 ---
 title: "Farmworker Union Rights - AB 2183 Veto and Reversal"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]

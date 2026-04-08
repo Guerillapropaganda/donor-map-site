@@ -1,7 +1,7 @@
 ---
 title: "Session Timeline"
 type: reference
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

@@ -1,10 +1,16 @@
 ---
 title: "The Freedom Caucus and Spending Absolutism"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Chip Roy Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #roy #texas #freedom-caucus #spending #speaker-fight #rules #procedural

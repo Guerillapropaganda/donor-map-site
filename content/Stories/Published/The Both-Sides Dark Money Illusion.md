@@ -1,13 +1,15 @@
 ---
 title: "The Both-Sides Dark Money Illusion"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 issues:
   - "Dark Money & Campaign Finance"
 related: "[[Koch vs Soros Mirror Image Dark Money Machines]] · [[Dark Money Networks - The Shadow System]]"
+source-types:
+  - FEC
 ---
 
 #dark-money #both-sides #democrats #republicans #arabella #donors-trust #501c4 #transparency

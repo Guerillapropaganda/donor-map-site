@@ -1,7 +1,7 @@
 ---
 title: "West Bank Annexation and Settlement Expansion"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Benjamin Netanyahu Master Profile]]

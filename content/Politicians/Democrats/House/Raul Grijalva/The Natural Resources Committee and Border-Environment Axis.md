@@ -1,10 +1,16 @@
 ---
 title: "The Natural Resources Committee and Border-Environment Axis"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Raul Grijalva Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #grijalva #arizona #natural-resources #environment #border #mining #indigenous

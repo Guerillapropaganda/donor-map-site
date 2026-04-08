@@ -1,11 +1,15 @@
 ---
 title: "The Secretary of State and Sugar-Defense-Israel Donor Triangle"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Marco Rubio Master Profile]]"
 related: "[[Operation Southern Spear and the Cuba Fuel Blockade]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
 ---
 
 #rubio #florida #secretary-of-state #sugar #defense #israel #cuba #foreign-policy

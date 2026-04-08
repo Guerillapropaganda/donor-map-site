@@ -1,11 +1,15 @@
 ---
 title: "The Homeland Security Committee and Mississippi Delta"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Bennie Thompson Master Profile]]"
 related: "[[The Oversight Committee and Federal Workforce]] · [[The Armed Services Committee and Progressive Defense Paradox]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
 ---
 
 #thompson #mississippi #homeland-security #january6 #defense #delta #poverty

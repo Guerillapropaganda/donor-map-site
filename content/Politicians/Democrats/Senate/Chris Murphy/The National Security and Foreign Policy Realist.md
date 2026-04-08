@@ -1,10 +1,16 @@
 ---
 title: "The National Security and Foreign Policy Realist"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Chris Murphy Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #murphy #foreign-policy #yemen #arms-sales #saudi #realist #connecticut #defense

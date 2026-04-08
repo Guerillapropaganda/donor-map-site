@@ -1,7 +1,7 @@
 ---
 title: "AI Regulation and Tech Donors"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ entity-type: "Story"
 issues:
   - "Technology"
 related: "[[AI Safety and Regulatory Capture]]"
+source-types:
+  - Congress
 ---
 
 #ai #regulation #tech #donors #lobbying #safety #innovation #capture

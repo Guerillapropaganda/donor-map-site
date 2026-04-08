@@ -1,10 +1,17 @@
 ---
 title: "2026-03-27 API Briefing"
 type: daily-update
-content-readiness: raw
+content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
+source-types:
+  - FEC
+  - LDA
+  - USASpending
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #daily-update #api-briefing #fec #usaspending #lda

@@ -1,10 +1,12 @@
 ---
 title: "The Whiteboard Brand and the Corporate Accountability Record"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Katie Porter Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

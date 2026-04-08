@@ -1,10 +1,14 @@
 ---
 title: "The Caucus Chair and Inland Empire Logistics Economy"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Pete Aguilar Master Profile]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #aguilar #inland-empire #logistics #warehouse #leadership #fundraising #moderate

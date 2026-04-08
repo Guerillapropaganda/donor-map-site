@@ -1,10 +1,12 @@
 ---
 title: "README - Vault Maintenance"
 type: reference
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-03-23
 source-tier: null
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 # Vault Maintenance/

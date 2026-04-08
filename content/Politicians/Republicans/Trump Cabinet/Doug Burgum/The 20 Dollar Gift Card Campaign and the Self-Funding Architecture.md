@@ -1,10 +1,12 @@
 ---
 title: "The 20 Dollar Gift Card Campaign and the Self-Funding Architecture"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Doug Burgum Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

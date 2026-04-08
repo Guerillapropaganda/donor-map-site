@@ -1,11 +1,13 @@
 ---
 title: "The Oversight Committee and Federal Workforce"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Gerry Connolly Master Profile]]"
 related: "[[The Homeland Security Committee and Mississippi Delta]] · [[The Armed Services Committee and Progressive Defense Paradox]]"
+source-types:
+  - Congress
 ---
 
 #connolly #virginia #oversight #federal-workforce #government #doge #defense

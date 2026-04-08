@@ -1,10 +1,14 @@
 ---
 title: "The $30 Million Special Election and the National Donor Flood"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Jon Ossoff Master Profile]]
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #jon-ossoff #special-election #2017 #fundraising #georgia #karen-handel #national-donors

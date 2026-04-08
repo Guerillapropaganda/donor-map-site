@@ -1,10 +1,16 @@
 ---
 title: "The Small Business Committee and Puerto Rican Diaspora"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Nydia Velazquez Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #velazquez #new-york #small-business #puerto-rico #labor #housing #immigration

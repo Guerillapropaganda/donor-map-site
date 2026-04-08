@@ -1,10 +1,12 @@
 ---
 title: "The Nunes Pipeline and the Loyalty Promotion System"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Kash Patel Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

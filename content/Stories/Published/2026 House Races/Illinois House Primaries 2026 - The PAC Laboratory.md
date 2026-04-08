@@ -1,7 +1,7 @@
 ---
 title: "Illinois House Primaries 2026 - The PAC Laboratory"
 type: story
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null

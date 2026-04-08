@@ -1,10 +1,14 @@
 ---
 title: "The Foreign Relations Committee and Idaho Energy"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Jim Risch Master Profile]]"
+source-types:
+  - Congress
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #risch #idaho #foreign-relations #energy #nuclear #small-business #agriculture

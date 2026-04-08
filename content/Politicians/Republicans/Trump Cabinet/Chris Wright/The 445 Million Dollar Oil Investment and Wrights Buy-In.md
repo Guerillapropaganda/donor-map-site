@@ -1,10 +1,12 @@
 ---
 title: "The 445 Million Dollar Oil Investment and Wrights Buy-In"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Chris Wright Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

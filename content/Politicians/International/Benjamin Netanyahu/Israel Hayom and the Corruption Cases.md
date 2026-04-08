@@ -1,10 +1,12 @@
 ---
 title: "Israel Hayom and the Corruption Cases"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Benjamin Netanyahu Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #corruption #israel #media #oligarchy #trials #class-analysis #bribery #fraud #international

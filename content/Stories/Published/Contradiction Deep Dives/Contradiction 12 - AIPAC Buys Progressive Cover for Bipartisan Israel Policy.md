@@ -1,7 +1,7 @@
 ---
 title: "AIPAC Buys Progressive Cover for Bipartisan Israel Policy"
 type: story
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
@@ -11,6 +11,7 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+
 ---
 
 #investigation #contradiction #aipac #progressive-capture #ritchie-torres #both-sides #class-analysis

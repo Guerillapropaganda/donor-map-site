@@ -1,10 +1,14 @@
 ---
 title: "The Performative Populism and Goldman Sachs Marriage"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Ted Cruz Master Profile]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #cruz #texas #goldman-sachs #populist #energy #shutdown #performance

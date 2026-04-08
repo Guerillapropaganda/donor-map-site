@@ -32,6 +32,9 @@ corroboration-count: 4
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+executive-orders: 310
+presidential-memoranda: 89
+proclamations: 761
 ---
 
 #politician #dlc #third-way #class-realignment #wall-street #deregulation #nafta #crime-bill #telecom #welfare-reform #revolving-door #follow-the-money #class-analysis
@@ -283,3 +286,41 @@ content-readiness:: developed
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Bill%20Clinton%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Presidential Actions (Federal Register)
+<!-- auto:executive-orders start -->
+| Document Type | Count |
+|--------------|-------|
+| Executive Orders | 310 |
+| Presidential Memoranda | 89 |
+| Proclamations | 761 |
+| **Total Presidential Documents** | **1,160** |
+
+**Recent executive orders:**
+
+| EO# | Title | Date |
+|-----|-------|------|
+| EO 13197 | Governmentwide Accountability for Merit System Principles; Workforce Information | 2001-01-18 |
+| EO 13196 | Final Northwestern Hawaiian Islands Coral Reef Ecosystem Reserve | 2001-01-18 |
+| EO 13195 | Trails for America in the 21st Century | 2001-01-18 |
+| EO 13194 | Prohibiting the Importation of Rough Diamonds From Sierra Leone | 2001-01-18 |
+| EO 13193 | Federal Leadership on Global Tobacco Control and Prevention | 2001-01-18 |
+| EO 13192 | Lifting and Modifying Measures With Respect to the Federal Republic of Yugoslavi… | 2001-01-17 |
+| EO 13191 | Implementation of the African Growth and Opportunity Act and the United States-C… | 2001-01-17 |
+| EO 13190 | President's Commission on Educational Resource Equity | 2001-01-15 |
+| EO 13189 | Federal Interagency Task Force on the District of Columbia | 2001-01-15 |
+| EO 13188 | Amendment to Executive Order 13111, Extension of the Advisory Committee on Expan… | 2001-01-12 |
+| EO 13187 | The President's Disability Employment Partnership Board | 2001-01-10 |
+| EO 13186 | Responsibilities of Federal Agencies To Protect Migratory Birds | 2001-01-10 |
+| EO 13185 | To Strengthen the Federal Government-University Research Partnership | 2000-12-28 |
+| EO 13184 | Revocation of Executive Order 12834 | 2000-12-28 |
+| EO 13183 | Establishment of the President's Task Force on Puerto Rico's Status | 2000-12-23 |
+
+**Recent presidential memoranda:**
+
+- Delegation of Authority To Transmit Report on Cooperative Projects With Russia (2000-03-03)
+- Report to the Congress Regarding Conditions in Burma and U.S. Policy Toward Burma (2000-10-31)
+- Delegation of Authority Under the Iran Nonproliferation Act of 2000 (Public Law 106-178) (2000-09-11)
+
+- [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/william-j-clinton) (Tier 1)
+<!-- auto:executive-orders end -->

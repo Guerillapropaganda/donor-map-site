@@ -1,10 +1,12 @@
 ---
 title: "2026-03-18 Finance Research"
 type: daily-update
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-03-23
 source-tier: null
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

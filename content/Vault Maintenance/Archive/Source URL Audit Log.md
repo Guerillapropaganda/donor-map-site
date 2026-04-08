@@ -1,10 +1,22 @@
 ---
 title: "Source URL Audit Log"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-02
 source-tier: null
 parent: null
+source-types:
+  - Congress
+  - DOJ
+  - FEC
+  - GovTrack
+  - LDA
+  - OSHA
+  - SEC
+  - USASpending
+corroboration-count: 8
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### Source URL Audit Log

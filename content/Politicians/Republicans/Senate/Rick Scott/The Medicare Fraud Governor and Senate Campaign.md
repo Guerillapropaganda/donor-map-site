@@ -1,10 +1,16 @@
 ---
 title: "The Medicare Fraud Governor and Senate Campaign"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Rick Scott Master Profile]]"
+source-types:
+  - DOJ
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #rick-scott #florida #medicare-fraud #hca #self-funding #senate #nrsc #sunset

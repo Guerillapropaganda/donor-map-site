@@ -1,10 +1,14 @@
 ---
 title: "2026-03-26 Story Discovery"
 type: daily-update
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-03-26
 source-tier: null
 parent: null
+source-types:
+  - Congress
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #daily-update #story-discovery #automated

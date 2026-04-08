@@ -1,10 +1,16 @@
 ---
 title: "The Financial Services Committee and Consumer Protection"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Ayanna Pressley Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #pressley #massachusetts #financial-services #consumer #student-debt #banking-deserts #cfpb

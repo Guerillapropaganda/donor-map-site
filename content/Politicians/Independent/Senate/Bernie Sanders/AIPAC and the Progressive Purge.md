@@ -1,11 +1,13 @@
 ---
 title: "AIPAC and the Progressive Purge"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Bernie Sanders Master Profile]]
 related: "[[AIPAC Buys Progressive Cover for Bipartisan Israel Policy]]"
+source-types:
+  - FEC
 ---
 
 

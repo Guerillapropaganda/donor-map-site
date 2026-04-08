@@ -1,10 +1,12 @@
 ---
 title: "2026-03-24 Finance Research"
 type: daily-update
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #daily-update #finance-research #campaign-finance #2026-midterms

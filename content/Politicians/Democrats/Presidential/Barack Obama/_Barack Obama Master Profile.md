@@ -2,7 +2,7 @@
 title: Barack Obama Master Profile
 type: politician
 content-readiness: ready
-last-updated: '2026-04-08'
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: Democrat
@@ -39,6 +39,10 @@ fec-candidate-id: S6CA00808
 opposes: '[[Donald Trump Master Profile]]'
 stories: '[[Pharmaceutical: The PhRMA Deal]]'
 internal-notes: "[URL Check 2026-04-08] 15 checked: 12 ok, 3 broken, 0 slow. | BROKEN: OpenSecrets: Obama 2008 Top Contributors | BROKEN: Health Affairs: The Origins And Demise Of The Public Option | BROKEN: Medium/OpenSecrets: Obama-tied operatives and Biden supporters launch $60 million 'dark money' group"
+executive-orders: 294
+presidential-memoranda: 257
+proclamations: 1230
+last-enriched: "2026-04-08"
 ---
 
 
@@ -303,3 +307,41 @@ content-readiness:: ready
 
 - ~~[Source: FEC.gov](https://www.fec.gov/data/candidate/S6CA00808/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Presidential Actions (Federal Register)
+<!-- auto:executive-orders start -->
+| Document Type | Count |
+|--------------|-------|
+| Executive Orders | 294 |
+| Presidential Memoranda | 257 |
+| Proclamations | 1,230 |
+| **Total Presidential Documents** | **1,781** |
+
+**Recent executive orders:**
+
+| EO# | Title | Date |
+|-----|-------|------|
+| EO 13764 | Amending the Civil Service Rules, Executive Order 13488, and Executive Order 134… | 2017-01-17 |
+| EO 13763 | Providing an Order of Succession Within the Environmental Protection Agency | 2017-01-13 |
+| EO 13762 | Providing an Order of Succession Within the Department of Justice | 2017-01-13 |
+| EO 13761 | Recognizing Positive Actions by the Government of Sudan and Providing for the Re… | 2017-01-13 |
+| EO 13760 | Exclusions From the Federal Labor-Management Relations Program | 2017-01-12 |
+| EO 13759 | Designating the World Organisation for Animal Health as a Public International O… | 2017-01-12 |
+| EO 13758 | Amending Executive Order 11016 To Update Eligibility Criteria for Award of the P… | 2017-01-12 |
+| EO 13757 | Taking Additional Steps to Address the National Emergency With Respect to Signif… | 2016-12-28 |
+| EO 13756 | Adjustments of Certain Rates of Pay | 2016-12-27 |
+| EO 13755 | Providing an Order of Succession Within the Department of Labor | 2016-12-23 |
+| EO 13754 | Northern Bering Sea Climate Resilience | 2016-12-09 |
+| EO 13753 | Amending the Order of Succession in the Department of Homeland Security | 2016-12-09 |
+| EO 13752 | Relating to the Implementation of the Convention on the International Recovery o… | 2016-12-08 |
+| EO 13751 | Safeguarding the Nation From the Impacts of Invasive Species | 2016-12-05 |
+| — | Regarding the Proposed Acquisition of a Controlling Interest in Aixtron SE by Gr… | 2016-12-07 |
+
+**Recent presidential memoranda:**
+
+- Providing an Order of Succession Within the Federal Mediation and Conciliation Service (2017-01-13)
+- Providing an Order of Succession Within the Council on Environmental Quality (2017-01-13)
+- Designation of Officers or Employees of the Office of Science and Technology Policy To Act as Director (2017-01-13)
+
+- [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/barack-obama) (Tier 1)
+<!-- auto:executive-orders end -->

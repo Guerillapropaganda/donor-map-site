@@ -1,10 +1,16 @@
 ---
 title: "The Veterans Affairs Committee and Inland Empire"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Mark Takano Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #takano #california #veterans #inland-empire #education #labor #lgbtq

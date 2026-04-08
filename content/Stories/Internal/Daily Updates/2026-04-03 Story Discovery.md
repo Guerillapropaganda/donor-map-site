@@ -1,10 +1,12 @@
 ---
 title: "2026-04-03 Story Discovery"
 type: daily-update
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-03
 source-tier: null
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #story-discovery #daily-update #automated

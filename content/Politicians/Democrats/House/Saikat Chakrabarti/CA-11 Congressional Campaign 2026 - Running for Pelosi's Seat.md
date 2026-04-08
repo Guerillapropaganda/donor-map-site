@@ -1,10 +1,14 @@
 ---
 title: CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat
 type: sub-note
-content-readiness: ready
+content-readiness: raw
 last-updated: 2026-04-02
 source-tier: 1
 parent: "[[_Saikat Chakrabarti Master Profile]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #ca-11 #san-francisco #pelosi #2026 #primary #self-funding #class-analysis #follow-the-money

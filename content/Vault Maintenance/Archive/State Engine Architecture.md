@@ -1,10 +1,12 @@
 ---
 title: "State Engine Architecture — The Donor Map Database"
 type: methodology
-content-readiness: developed
+content-readiness: draft
 last-updated: 2026-04-05
 source-tier: null
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### State Engine Architecture

@@ -1,10 +1,14 @@
 ---
 title: "Diff Log"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-05
 source-tier: null
 parent: null
+source-types:
+  - SEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### Diff Log

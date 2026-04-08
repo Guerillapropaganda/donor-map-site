@@ -1,10 +1,22 @@
 ---
 title: "Search URL Upgrade Checklist"
 type: reference
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-03-25
 source-tier: null
 parent: null
+source-types:
+  - Congress
+  - DOJ
+  - FederalRegister
+  - GovTrack
+  - OSHA
+  - SAM
+  - Treasury
+  - USASpending
+corroboration-count: 8
+known-gaps:
+  - "No mapped relationships"
 ---
 
 # Search URL Upgrade Checklist

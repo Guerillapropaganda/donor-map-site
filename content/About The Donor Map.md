@@ -1,12 +1,14 @@
 ---
 title: "About The Donor Map"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-04
 source-tier: null
 parent: null
 aliases:
   - Methodology
+known-gaps:
+  - "No mapped relationships"
 ---
 
 I've been trying to explain why this project is needed. Many things come back to me. The state of our country. The everyday woes people continually endure. But the main driving factor is accountability.

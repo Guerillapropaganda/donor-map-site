@@ -1,10 +1,14 @@
 ---
 title: "The Political Evolution - From Moderate to MAGA and the Donor Incentive"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Elise Stefanik Master Profile]]
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #elise-stefanik #moderate-to-maga #donor-incentive #class-analysis #follow-the-money #fundraising #new-york #trump-loyalist #republican-conference-chair #paul-ryan #liz-cheney

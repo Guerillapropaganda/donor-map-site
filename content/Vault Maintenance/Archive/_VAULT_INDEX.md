@@ -1,10 +1,12 @@
 ---
 title: "Vault Index"
 type: index
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: null
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### Vault Index — The Donor Map Database

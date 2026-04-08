@@ -1,15 +1,16 @@
 ---
 title: "CA DOJ Investigation - Pattern and Practice"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 related: "[[Riverside Sheriffs Association]]"
 known-gaps:
   - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
   - "No voting record data"
+source-types:
+  - Congress
 ---
 
 

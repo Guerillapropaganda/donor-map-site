@@ -1,10 +1,12 @@
 ---
 title: "The Donor Map Database"
 type: index
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-31
 source-tier: null
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 <div class="hero-block">

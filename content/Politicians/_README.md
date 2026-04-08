@@ -1,10 +1,12 @@
 ---
 title: "README - Politicians"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-23
 source-tier: null
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### Politicians/

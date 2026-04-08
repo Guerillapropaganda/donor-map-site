@@ -1,12 +1,13 @@
 ---
 title: "Follow the Money - Guided Tour"
 type: story
-content-readiness: draft
+content-readiness: raw
 last-updated: 2026-03-31
 source-tier: null
 parent: null
 known-gaps:
   - "No mapped relationships"
+
 ---
 
 ### Follow the Money — Guided Tour

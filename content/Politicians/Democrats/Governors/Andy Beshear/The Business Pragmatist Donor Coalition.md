@@ -1,10 +1,12 @@
 ---
 title: "The Business Pragmatist Donor Coalition"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Andy Beshear Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

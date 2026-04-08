@@ -1,10 +1,14 @@
 ---
 title: "The Oversight Legacy and Agricultural Protection"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Chuck Grassley Master Profile]]"
+source-types:
+  - Congress
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #grassley #oversight #agriculture #iowa #ethanol #farm-bill #judiciary #whistleblower

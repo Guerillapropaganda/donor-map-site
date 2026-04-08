@@ -1,10 +1,14 @@
 ---
 title: "The Rules Committee and Food Policy"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Jim McGovern Master Profile]]"
+source-types:
+  - Congress
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #mcgovern #massachusetts #rules #hunger #snap #food-policy #procedural

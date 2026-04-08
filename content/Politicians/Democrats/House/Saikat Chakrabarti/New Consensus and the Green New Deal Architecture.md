@@ -1,10 +1,12 @@
 ---
 title: New Consensus and the Green New Deal Architecture
 type: sub-note
-content-readiness: ready
+content-readiness: raw
 last-updated: 2026-04-02
 source-tier: 1
 parent: "[[_Saikat Chakrabarti Master Profile]]"
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #new-consensus #think-tank #green-new-deal #climate #policy #class-analysis #follow-the-money

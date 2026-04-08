@@ -1,10 +1,14 @@
 ---
 title: "The Appropriations Gavel and the Spending Cartel"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Tom Cole Master Profile]]"
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #cole #appropriations #defense #energy #spending #cartel #bipartisan

@@ -1,7 +1,7 @@
 ---
 title: "The Biden Exit and Harris Installation"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Nancy Pelosi Master Profile]]

@@ -1,10 +1,12 @@
 ---
 title: "The Interior Department as Fossil Fuel Policy Vehicle"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Doug Burgum Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

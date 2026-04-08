@@ -1,7 +1,7 @@
 ---
 title: "Lobbying Firms Index"
 type: index
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-31 (run 12)
 source-tier: null
 parent: null

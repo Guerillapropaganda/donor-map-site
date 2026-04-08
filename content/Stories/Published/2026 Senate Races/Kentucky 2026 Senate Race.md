@@ -1,7 +1,7 @@
 ---
 title: "Kentucky 2026 Senate Race"
 type: story
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -9,6 +9,7 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+
 ---
 
 #2026-election #senate #kentucky #race-frame

@@ -1,10 +1,12 @@
 ---
 title: "The Ohio Governor Race and the Billionaire Super PAC"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Vivek Ramaswamy Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

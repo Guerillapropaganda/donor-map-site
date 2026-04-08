@@ -1,10 +1,12 @@
 ---
 title: "The 2022 Governor Race and the Lauder Super PAC"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Lee Zeldin Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

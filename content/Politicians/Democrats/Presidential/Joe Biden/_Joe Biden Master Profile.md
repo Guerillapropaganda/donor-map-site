@@ -35,6 +35,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+executive-orders: 162
+presidential-memoranda: 160
+proclamations: 747
 ---
 
 
@@ -300,3 +303,41 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Joe%20Biden%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Presidential Actions (Federal Register)
+<!-- auto:executive-orders start -->
+| Document Type | Count |
+|--------------|-------|
+| Executive Orders | 162 |
+| Presidential Memoranda | 160 |
+| Proclamations | 747 |
+| **Total Presidential Documents** | **1,069** |
+
+**Recent executive orders:**
+
+| EO# | Title | Date |
+|-----|-------|------|
+| EO 14146 | Partial Revocation of Executive Order 13961 | 2025-01-19 |
+| EO 14145 | Helping Left-Behind Communities Make a Comeback | 2025-01-19 |
+| EO 14144 | Strengthening and Promoting Innovation in the Nation's Cybersecurity | 2025-01-16 |
+| EO 14143 | Providing for the Appointment of Alumni of AmeriCorps to the Competitive Service | 2025-01-16 |
+| EO 14142 | Taking Additional Steps With Respect to the Situation in Syria | 2025-01-15 |
+| EO 14141 | Advancing United States Leadership in Artificial Intelligence Infrastructure | 2025-01-14 |
+| EO 14140 | Taking Additional Steps With Respect to the Situation in the Western Balkans | 2025-01-08 |
+| EO 14139 | Providing an Order of Succession Within the Office of the National Cyber Directo… | 2025-01-03 |
+| EO 14138 | Providing an Order of Succession Within the Office of Management and Budget | 2025-01-03 |
+| EO 14137 | Providing an Order of Succession Within the Department of the Treasury | 2025-01-03 |
+| EO 14136 | Providing an Order of Succession Within the Department of Justice | 2025-01-03 |
+| EO 14135 | Providing an Order of Succession Within the Department of Homeland Security | 2025-01-03 |
+| EO 14134 | Providing an Order of Succession Within the Department of Agriculture | 2025-01-03 |
+| EO 14133 | Providing for the Closing of Executive Departments and Agencies of the Federal G… | 2024-12-30 |
+| EO 14132 | Adjustments of Certain Rates of Pay | 2024-12-23 |
+
+**Recent presidential memoranda:**
+
+- Orderly Implementation of the Air Toxics Standards for Ethylene Oxide Commercial Sterilizers (2025-01-16)
+- Extending and Expanding Eligibility for Deferred Enforced Departure for Certain Hong Kong Residents (2025-01-15)
+- Withdrawal of Certain Areas of the United States Outer Continental Shelf From Oil and Natural Gas Leasing (2025-01-06)
+
+- [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/joe-biden) (Tier 1)
+<!-- auto:executive-orders end -->

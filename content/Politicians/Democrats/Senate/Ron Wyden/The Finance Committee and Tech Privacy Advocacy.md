@@ -1,10 +1,16 @@
 ---
 title: "The Finance Committee and Tech Privacy Advocacy"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Ron Wyden Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #wyden #finance #tech #privacy #surveillance #oregon #tax #internet

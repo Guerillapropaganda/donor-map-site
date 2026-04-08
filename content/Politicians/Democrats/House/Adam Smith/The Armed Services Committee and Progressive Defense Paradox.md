@@ -1,11 +1,15 @@
 ---
 title: "The Armed Services Committee and Progressive Defense Paradox"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Adam Smith Master Profile]]"
 related: "[[The Oversight Committee and Federal Workforce]] · [[The Homeland Security Committee and Mississippi Delta]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
 ---
 
 #adam-smith #armed-services #defense #washington #boeing #progressive #military

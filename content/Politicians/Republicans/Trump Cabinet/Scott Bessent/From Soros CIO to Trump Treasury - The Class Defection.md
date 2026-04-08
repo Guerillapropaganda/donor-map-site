@@ -1,10 +1,12 @@
 ---
 title: "From Soros CIO to Trump Treasury - The Class Defection"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Scott Bessent Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

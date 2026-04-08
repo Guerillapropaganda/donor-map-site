@@ -1,11 +1,13 @@
 ---
 title: "Defense Contractors and the Permanent War Donor Base"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Lindsey Graham Master Profile]]
 related: "[[Tommy Tuberville Master Profile]] · [[The Trump Conversion and the Defense Contractor Payday]]"
+source-types:
+  - FEC
 ---
 
 

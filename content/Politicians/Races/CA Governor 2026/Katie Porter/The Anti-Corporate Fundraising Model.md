@@ -1,11 +1,13 @@
 ---
 title: "The Anti-Corporate Fundraising Model"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Katie Porter Master Profile]]
 related: "[[The Whiteboard Brand and the Corporate Accountability Record]]"
+source-types:
+  - Congress
 ---
 
 

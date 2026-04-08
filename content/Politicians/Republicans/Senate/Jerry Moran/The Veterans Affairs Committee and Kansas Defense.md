@@ -1,10 +1,16 @@
 ---
 title: "The Veterans Affairs Committee and Kansas Defense"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Jerry Moran Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #moran #kansas #veterans #defense #agriculture #appropriations #fort-riley

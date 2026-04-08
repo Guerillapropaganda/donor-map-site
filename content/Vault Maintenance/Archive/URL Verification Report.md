@@ -1,10 +1,20 @@
 ---
 title: "URL Verification Report"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-31
 source-tier: null
 parent: null
+source-types:
+  - Congress
+  - DOJ
+  - FEC
+  - GovTrack
+  - OSHA
+  - SEC
+corroboration-count: 6
+known-gaps:
+  - "No mapped relationships"
 ---
 
 ### URL Verification Report

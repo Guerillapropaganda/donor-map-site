@@ -1,10 +1,16 @@
 ---
 title: "The China Hawk and National Security State"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Marco Rubio Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #rubio #china #secretary-of-state #taiwan #national-security #tech #hawks

@@ -1,12 +1,13 @@
 ---
 title: "Michigan 2026 Senate Race"
 type: story
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
 known-gaps:
   - "No mapped relationships"
+
 ---
 
 #2026-election #senate #michigan #race-frame #analysis

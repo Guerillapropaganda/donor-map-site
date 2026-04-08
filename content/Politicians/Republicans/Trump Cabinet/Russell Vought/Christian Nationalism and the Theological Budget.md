@@ -1,10 +1,14 @@
 ---
 title: "Christian Nationalism and the Theological Budget"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Russell Vought Master Profile]]
+source-types:
+  - Congress
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

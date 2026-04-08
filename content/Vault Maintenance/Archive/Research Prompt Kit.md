@@ -1,10 +1,14 @@
 ---
 title: "Research Prompt Kit"
 type: reference
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-31
 source-tier: null
 parent: null
+source-types:
+  - Congress
+known-gaps:
+  - "No mapped relationships"
 ---
 
 # Research Tool Prompt Kit — The Donor Map Database

@@ -1,10 +1,16 @@
 ---
 title: "The Immigration and Administration Committees - Silicon Valley Gatekeeper"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Zoe Lofgren Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #lofgren #california #immigration #silicon-valley #h1b #administration #tech

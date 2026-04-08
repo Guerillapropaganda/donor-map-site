@@ -1,10 +1,12 @@
 ---
 title: "The 31 Rollbacks and the Projected 200000 Premature Deaths"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Lee Zeldin Master Profile]]
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

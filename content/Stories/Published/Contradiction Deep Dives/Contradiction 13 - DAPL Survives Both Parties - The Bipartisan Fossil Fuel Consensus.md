@@ -1,7 +1,7 @@
 ---
 title: "DAPL Survives Both Parties - The Bipartisan Fossil Fuel Consensus"
 type: story
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
@@ -9,6 +9,7 @@ issues:
   - "Energy & Climate"
 known-gaps:
   - "No mapped relationships"
+
 ---
 
 #investigation #contradiction #kelcy-warren #dapl #fossil-fuel #bipartisan-consensus #class-analysis

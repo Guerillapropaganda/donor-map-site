@@ -1,7 +1,7 @@
 ---
 title: "San Quentin - COVID Disaster and Rehabilitation Theater"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]

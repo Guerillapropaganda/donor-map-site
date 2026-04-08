@@ -1,11 +1,16 @@
 ---
 title: "Vault Integrity Audit - Methodology and Tracker"
 type: methodology
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: null
 parent: null
 related: "[[Methodology Compliance Audit - March 2026]]"
+source-types:
+  - Congress
+  - FEC
+  - SEC
+corroboration-count: 3
 ---
 
 #vault-audit #methodology #integrity #quality-control

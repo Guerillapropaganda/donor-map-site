@@ -1,10 +1,16 @@
 ---
 title: "The Criminal Justice Reform and Bipartisan Alliance"
 type: sub-note
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Cory Booker Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #booker #criminal-justice #first-step-act #koch #bipartisan #reform #newark
