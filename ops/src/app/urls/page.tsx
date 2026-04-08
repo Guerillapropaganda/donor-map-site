@@ -56,6 +56,7 @@ export default function UrlManagerPage() {
   const [showConfirm, setShowConfirm] = useState(false)
   const [saving, setSaving] = useState(false)
   const [toast, setToast] = useState<string | null>(null)
+  const [uncheckedVisible, setUncheckedVisible] = useState(20)
 
   // Show toast notification
   const showToast = useCallback((msg: string) => {
@@ -123,11 +124,24 @@ export default function UrlManagerPage() {
   const unsureUrls = filtered.filter((u) => getStatus(u) === "unsure")
   const uncheckedUrls = filtered.filter((u) => getStatus(u) === "unchecked")
 
-  // Completed archive categories
-  const completedConfirmed = completed.filter((c) => c.completedStatus === "confirmed")
-  const completedArchived = completed.filter((c) => c.completedStatus === "archived-done")
-  const completedFlagged = completed.filter((c) => c.completedStatus === "flagged-done")
-  const completedReviewed = completed.filter((c) => c.completedStatus === "reviewed")
+  // Filter completed archive with same search/domain filters
+  const filteredCompleted = useMemo(() => {
+    let result = completed
+    if (search) {
+      const q = search.toLowerCase()
+      result = result.filter((c) =>
+        c.url.toLowerCase().includes(q) || c.label.toLowerCase().includes(q) ||
+        c.profile.toLowerCase().includes(q) || c.domain.toLowerCase().includes(q)
+      )
+    }
+    if (domainFilter !== "all") result = result.filter((c) => c.domain === domainFilter)
+    return result
+  }, [completed, search, domainFilter])
+
+  const completedConfirmed = filteredCompleted.filter((c) => c.completedStatus === "confirmed")
+  const completedArchived = filteredCompleted.filter((c) => c.completedStatus === "archived-done")
+  const completedFlagged = filteredCompleted.filter((c) => c.completedStatus === "flagged-done")
+  const completedReviewed = filteredCompleted.filter((c) => c.completedStatus === "reviewed")
 
   const checkAll = async () => {
     const toCheck = urls.filter((u) => !u.archived && getStatus(u) === "unchecked")
@@ -413,15 +427,32 @@ export default function UrlManagerPage() {
             <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden">
               <div className="p-3 border-b border-[var(--color-border)] flex items-center gap-2">
                 <span className="text-[10px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Unchecked</span>
-                <span className="ml-auto text-[11px] text-[var(--color-text-dim)]">{uncheckedUrls.length}</span>
+                <span className="text-[10px] text-[var(--color-text-dim)]">Showing {Math.min(uncheckedVisible, uncheckedUrls.length)} of {uncheckedUrls.length}</span>
+                <span className="ml-auto" />
                 <button onClick={checkAll} disabled={checking} className="text-[9px] text-[var(--color-steel)] hover:underline">Check All</button>
               </div>
-              <div className="p-2 space-y-1 max-h-[30vh] overflow-y-auto">
-                {uncheckedUrls.slice(0, 50).map((u) => <UrlCard key={u.id} u={u} />)}
-                {uncheckedUrls.length > 50 && (
-                  <p className="text-[9px] text-[var(--color-text-dim)] text-center py-2">...and {uncheckedUrls.length - 50} more</p>
-                )}
+              <div className="p-2 space-y-1 max-h-[50vh] overflow-y-auto">
+                {uncheckedUrls.slice(0, uncheckedVisible).map((u) => <UrlCard key={u.id} u={u} isCompleted={false} />)}
               </div>
+              {uncheckedUrls.length > uncheckedVisible && (
+                <div className="p-3 border-t border-[var(--color-border)] flex items-center justify-center gap-3">
+                  <button
+                    onClick={() => setUncheckedVisible((v) => v + 20)}
+                    className="text-[10px] text-[var(--color-steel)] hover:underline"
+                  >
+                    Load 20 More
+                  </button>
+                  <span className="text-[8px] text-[var(--color-text-dim)]">
+                    {uncheckedUrls.length - uncheckedVisible} remaining
+                  </span>
+                  <button
+                    onClick={() => setUncheckedVisible(uncheckedUrls.length)}
+                    className="text-[8px] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
+                  >
+                    Show All
+                  </button>
+                </div>
+              )}
             </div>
           )}
         </>
