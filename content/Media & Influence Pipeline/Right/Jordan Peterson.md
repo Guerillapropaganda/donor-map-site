@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Ben Shapiro]] · [[Matt Walsh]] · [[Steven Crowder]] · [[Lex Fridman]] · [[_Media Pipeline Framework]] · [[Dave Rubin]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
+related: "[[Ben Shapiro]] · [[Matt Walsh]] · [[Steven Crowder]] · [[Lex Fridman]] · [[_Media Pipeline Framework]] · [[Dave Rubin]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]]"
 donors: "[[Wilks Brothers]]"
 ---
 

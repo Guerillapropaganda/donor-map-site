@@ -153,6 +153,15 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-08 04:33 UTC — 3 profiles
+
+**GovTrack — 3 profiles:**
+- Mark Green — 0 sponsored, 0 cosponsored
+- Markwayne Mullin — 23 sponsored, 157 cosponsored
+- Tom Cole — 14 sponsored, 80 cosponsored
+
+---
 ## 2026-04-08 03:37 UTC — 9 profiles
 
 **federal-register — 9 profiles:**
