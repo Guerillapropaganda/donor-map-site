@@ -58,7 +58,7 @@ sec-form-types:
   - "PRE 14A"
   - "SC TO-I"
   - "SC TO-I/A"
-related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]]"
+related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]] · [[The Agriculture Committee and Farm Subsidy Pipeline]]"
 ---
 
 

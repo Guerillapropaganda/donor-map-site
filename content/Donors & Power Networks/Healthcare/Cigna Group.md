@@ -17,7 +17,7 @@ lei: "549300VIWYMSIGT1U456"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Johnson & Johnson]] · [[The Insurance Industry Public Option Kill]] · [[Tenet Healthcare]]"
+related: "[[Johnson & Johnson]] · [[The Insurance Industry Public Option Kill]] · [[Tenet Healthcare]] · [[Blue Cross Blue Shield Association]]"
 ---
 
 #cigna #health-insurance #lobbying #pbm #express-scripts #healthcare

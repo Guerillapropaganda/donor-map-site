@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Rumble]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Sean Hannity]]"
+related: "[[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Rumble]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick Bet-David]]"
 ---
 
 #media-pipeline #right #conservative-media #youtube #rumble #daily-wire #billionaire-funding #anti-union #culture-war

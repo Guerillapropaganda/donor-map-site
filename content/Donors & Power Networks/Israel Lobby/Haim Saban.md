@@ -20,7 +20,7 @@ annual-revenue: "$2.0M"
 net-assets: "$26.3M"
 tax-year: "2020"
 total-political-spend: "$20,115,751"
-related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]]"
+related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]]"
 ---
 
 

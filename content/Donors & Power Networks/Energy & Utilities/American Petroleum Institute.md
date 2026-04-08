@@ -21,7 +21,7 @@ ofac-programs:
 nonprofit-status: "501(c)(6)"
 total-revenue: 268010806
 total-assets: 109879063
-related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]]"
+related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]] · [[The Energy Committee and Houston Petrochemical Pipeline]]"
 ---
 
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money

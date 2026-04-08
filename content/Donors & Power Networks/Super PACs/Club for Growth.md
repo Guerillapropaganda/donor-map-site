@@ -11,7 +11,7 @@ ein: 204681603
 annual-revenue: "$12.3M"
 net-assets: "$9.3M"
 tax-year: "2023"
-related: "[[Senate Majority PAC]] · [[Intra-Republican Contradiction Map]] · [[John Ratcliffe Master Profile]] · [[Mike Collins Master Profile]] · [[Jim Jordan Master Profile]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[The Freedom Caucus and Spending Absolutism]] · [[The FEC to Congress Pipeline and Election Law]] · [[Ron DeSantis Master Profile]]"
+related: "[[Senate Majority PAC]] · [[Intra-Republican Contradiction Map]] · [[John Ratcliffe Master Profile]] · [[Mike Collins Master Profile]] · [[Jim Jordan Master Profile]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[The Freedom Caucus and Spending Absolutism]] · [[The FEC to Congress Pipeline and Election Law]] · [[Ron DeSantis Master Profile]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
 ---
 
 #donor-node #super-pac #republican #primary-enforcement #anti-tax #fiscal-conservative #class-analysis #follow-the-money #mega-donor
