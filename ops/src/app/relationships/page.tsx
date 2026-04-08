@@ -609,7 +609,7 @@ export default function RelationshipsPage() {
 
               {/* Draggable + zoomable graph container */}
               <div ref={graphContainerRef}
-                className="overflow-hidden border border-[var(--color-border)] rounded-lg select-none"
+                className="overflow-visible border border-[var(--color-border)] rounded-lg select-none"
                 style={{ maxHeight: "55vh", cursor: isDragging ? "grabbing" : "grab" }}
                 onMouseDown={handleMouseDown}
                 onMouseMove={handleMouseMove}
