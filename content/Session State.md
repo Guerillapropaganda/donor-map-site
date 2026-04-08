@@ -12,40 +12,45 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-07 (late night)
+Date: 2026-04-08 (early morning)
 
 Done:
-- **Built Donor Map Ops v1.0 — complete 9-module operations app** across 10 sessions
-- All modules: Dashboard, Pipeline Control, Notes & Queues, Source Hunter, Relationship Mapper, Profile Editor, Content Publisher, Alerts Monitor, Distribution
-- Admin Bar overlay on live site (URL checker, notes, fix queue) — may deprecate in favor of Ops app Editor
-- Desktop launcher: double-click `ops/start-ops.bat` to run, or `ops/create-shortcut.bat` for desktop icon
-- PWA manifest: Chrome "Install as app" support for native-like window
-- Fixed Tailwind CSS compilation issues (SVG sizing, launch.json cwd)
-- Zero Claude/AI cost to operate — pure JavaScript + GitHub API
+- **Built Donor Map Ops v1.0** — 10-module local operations app at `ops/`
+- Modules: Dashboard, Pipelines, Notes & Queues, URL Manager, Source Hunter, Relationships, Editor, Publisher, Alerts, Distribution
+- **Switched all reads to local filesystem** — zero GitHub API for browsing (was hitting 5,000/hr rate limit)
+- **Switched all writes to local filesystem + git push** — saves write to disk, git commit, git push. No GitHub Contents API.
+- URL Manager: two-tier triage (active + completed archive), quick-assign buttons, undo from completed, drag-and-drop
+- Editor: 4 view modes (Edit/Split/Preview/Live Site), markdown renderer with proper CSS, iframe of live page
+- Enrichment Results: plain English breakdown of what each pipeline run gathered, from local git history
+- Admin Notes: saved as markdown in `content/Admin Notes/`, both Claudes check these every session
+- Desktop launcher, PWA manifest, toast notifications
+- Updated CLAUDE.md with full Ops app documentation for both Claudes
 
 Architecture:
-- App lives at `ops/` — Next.js + Tailwind, separate from Quartz
-- Reads from GitHub API (live v4 branch), writes via GitHub API
-- 11 pages, 8 API routes, all building clean
-- Run: double-click `start-ops.bat` or `cd ops && npm run dev` → localhost:3333
+- App at `ops/` — Next.js + Tailwind, fully separate from Quartz
+- **Reads from local filesystem** (instant, zero API)
+- **Writes to local files + git push** (no GitHub API needed)
+- GitHub API only for: pipeline triggers (workflow_dispatch), Source Hunter (gov APIs)
+- Desktop shortcut: `ops/start-ops.bat`, or `ops/create-shortcut.bat` for desktop icon
+- Run: `cd ops && npm run dev` → localhost:3333
+
+David's workflow:
+- Opens Ops app daily to browse, edit, triage URLs, leave notes
+- Notes in `content/Admin Notes/` are work orders for both Claudes
+- URL triage marks broken links as archived (strikethrough) per Vault Rules
+- Check `content/Admin Notes/` every session for open notes
 
 Known issues:
 - EPA ECHO API flaky (500 errors, has fallback endpoints)
 - Public Accountability HTTPS cert issues (falls back to HTTP)
+- `.next` cache corrupts if app killed mid-compile — `rm -rf ops/.next` fixes it
 
 Next:
-- David tests Ops app with real GitHub token, reports issues
+- David testing Ops app, reporting issues for polish
+- Check `content/Admin Notes/` for any open notes from David
 - Run opensecrets-replace for remaining categories (~3,000 URLs)
 - LDA migration: lda.senate.gov → lda.gov before June 30, 2026 sunset
 - Pipeline coverage report for enrichment gaps
-- Session 9: Distribution Dashboard module
-- Session 10: Polish, animations, edge cases
-
-Next (site maintenance — ongoing):
-- Run opensecrets-replace for remaining categories (~3,000 URLs)
-- Pipeline coverage report for enrichment gaps
-- LDA migration: lda.senate.gov → lda.gov before June 30, 2026 sunset
-- Add `govtrack-id` to Schumer's frontmatter
 
 ---
 

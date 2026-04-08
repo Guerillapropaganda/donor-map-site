@@ -129,4 +129,53 @@ git push origin v4        # triggers GitHub Pages deploy
 - Donors: `content/Donors & Power Networks/{Sector}/{Name}/`
 - Interactive: `content/Interactive/`
 - Events: `content/Events/Drafts/` and `content/Events/Digests/`
+- Admin Notes: `content/Admin Notes/` — David's notes from Ops app (read these every session)
 - System docs: `content/Vault Rules.md`, `content/Pipeline Guide.md`, `content/Session State.md`
+
+## Donor Map Ops (David's Operations App)
+
+David has a local operations app at `ops/` that he uses to manage the site independently. **Both Claudes must be aware of this system.**
+
+### What it is
+A standalone Next.js app (localhost:3333) that reads/writes the vault directly. David uses it daily to:
+- Browse and search all 1,600+ profiles
+- Edit profiles (frontmatter + content) with live preview
+- Check URLs across the vault (green/red/yellow/purple triage)
+- Trigger pipeline enrichment (bulk or single profile)
+- Create new profiles from templates
+- Map relationships between profiles
+- Search government APIs for Tier 1 sources
+- Leave notes for Code Claude and Research Claude
+- Generate shareable content for social media
+- Monitor alerts (stale profiles, pipeline health)
+
+### How David's notes reach you
+David leaves notes via the Ops app Notes & Queues module. Notes are saved as markdown files in `content/Admin Notes/` with frontmatter:
+```yaml
+type: admin-note
+note-type: code | research | data | style | question
+priority: normal | urgent
+status: open | in-progress | done
+profile: "Profile Name"
+```
+
+**Every session, check `content/Admin Notes/` for open notes tagged for your lane:**
+- Code Claude: `note-type: code`, `note-type: data`, `note-type: style`
+- Research Claude: `note-type: research`, `note-type: question`
+
+When you resolve a note, update its status to `done` with `resolved-by` and `resolved-date`.
+
+### URL triage
+David triages URLs in the Ops app URL Manager. When he saves:
+- **Broken URLs** → get `~~strikethrough~~` in the profile markdown (Archived per Vault Rules)
+- **Unsure URLs** → get `(NEEDS REVIEW)` tag in the profile
+- Both Claudes should check for `(NEEDS REVIEW)` tags and resolve them
+
+### What NOT to change in ops/
+The `ops/` directory is David's app. Don't modify it unless David specifically asks. It has its own `package.json`, `node_modules`, and Next.js config. It doesn't affect the Quartz site build.
+
+### Running the Ops app
+```bash
+cd ops && npm run dev        # localhost:3333
+# Or double-click ops/start-ops.bat
+```
