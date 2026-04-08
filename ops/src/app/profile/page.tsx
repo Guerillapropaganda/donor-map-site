@@ -68,6 +68,8 @@ export default function ProfilePage() {
   const [urlCheckProgress, setUrlCheckProgress] = useState("")
   const [urlFilter, setUrlFilter] = useState<"all" | "unchecked" | "verified" | "broken" | "unsure">("all")
   const [expandedUrl, setExpandedUrl] = useState<number | null>(null)
+  const [readinessChanging, setReadinessChanging] = useState(false)
+  const [readinessMsg, setReadinessMsg] = useState("")
 
   // Browse state (when no profile selected)
   const [browseSearch, setBrowseSearch] = useState("")
@@ -178,6 +180,33 @@ export default function ProfilePage() {
       if (current === "unchecked") newOverrides[i] = status
     })
     setUrlOverrides(newOverrides)
+  }
+
+  async function changeReadiness(newReadiness: string) {
+    if (!profile || !profilePath) return
+    setReadinessChanging(true)
+    setReadinessMsg("")
+    try {
+      const res = await fetch("/api/profile/readiness", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          path: profilePath,
+          newReadiness,
+          signOff: newReadiness === "verified",
+        }),
+      })
+      const data = await res.json()
+      if (data.success) {
+        setReadinessMsg(`${data.from} → ${data.to}`)
+        setProfile({ ...profile, contentReadiness: newReadiness })
+      } else {
+        setReadinessMsg(`Error: ${data.error}`)
+      }
+    } catch {
+      setReadinessMsg("Error saving")
+    }
+    setReadinessChanging(false)
   }
 
   function getUrlStatus(u: UrlData, i: number): string {
@@ -465,28 +494,71 @@ export default function ProfilePage() {
           </div>
         </div>
 
-        {/* Readiness stepper */}
+        {/* Readiness stepper with promote/demote */}
         <div className="mt-5">
-          <div className="flex items-center gap-1">
-            {READINESS_STEPS.map((step, i) => (
-              <div key={step} className="flex items-center gap-1 flex-1">
-                <div className="flex flex-col items-center flex-1">
-                  <div
-                    className={`w-full h-2 rounded-full transition-all ${i === 0 ? "rounded-l-full" : ""} ${i === READINESS_STEPS.length - 1 ? "rounded-r-full" : ""}`}
-                    style={{
-                      backgroundColor: i <= readinessIndex ? readinessColor(step) : "var(--color-bg)",
-                      opacity: i <= readinessIndex ? 1 : 0.3,
-                    }}
-                  />
-                  <span
-                    className={`text-[7px] uppercase mt-1 ${i === readinessIndex ? "font-bold" : ""}`}
-                    style={{ color: i <= readinessIndex ? readinessColor(step) : "var(--color-text-dim)" }}
-                  >
-                    {step}
-                  </span>
+          <div className="flex items-center gap-1 mb-2">
+            {READINESS_STEPS.map((step, i) => {
+              const grades: Record<string, string> = { raw: "D-F", draft: "C", ready: "B", verified: "A+" }
+              return (
+                <div key={step} className="flex items-center gap-1 flex-1">
+                  <div className="flex flex-col items-center flex-1">
+                    <div
+                      className={`w-full h-2.5 rounded-full transition-all ${i === 0 ? "rounded-l-full" : ""} ${i === READINESS_STEPS.length - 1 ? "rounded-r-full" : ""}`}
+                      style={{
+                        backgroundColor: i <= readinessIndex ? readinessColor(step) : "var(--color-bg)",
+                        opacity: i <= readinessIndex ? 1 : 0.3,
+                      }}
+                    />
+                    <span
+                      className={`text-[7px] uppercase mt-1 ${i === readinessIndex ? "font-bold" : ""}`}
+                      style={{ color: i <= readinessIndex ? readinessColor(step) : "var(--color-text-dim)" }}
+                    >
+                      {grades[step]} {step}
+                    </span>
+                  </div>
                 </div>
-              </div>
-            ))}
+              )
+            })}
+          </div>
+          <div className="flex items-center gap-2">
+            {/* Demote button */}
+            {readinessIndex > 0 && (
+              <button
+                onClick={() => changeReadiness(READINESS_STEPS[readinessIndex - 1])}
+                disabled={readinessChanging}
+                className="flex items-center gap-1 px-3 py-1.5 text-[10px] font-bold rounded-lg bg-[var(--color-red)]/10 text-[var(--color-red)] border border-[var(--color-red)]/30 hover:bg-[var(--color-red)]/20 transition-colors disabled:opacity-50"
+              >
+                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M19 12H5" />
+                </svg>
+                Demote to {READINESS_STEPS[readinessIndex - 1]}
+              </button>
+            )}
+            {/* Promote button */}
+            {readinessIndex < READINESS_STEPS.length - 1 && (
+              <button
+                onClick={() => changeReadiness(READINESS_STEPS[readinessIndex + 1])}
+                disabled={readinessChanging}
+                className="flex items-center gap-1 px-3 py-1.5 text-[10px] font-bold rounded-lg transition-colors disabled:opacity-50"
+                style={{
+                  backgroundColor: `${readinessColor(READINESS_STEPS[readinessIndex + 1])}15`,
+                  color: readinessColor(READINESS_STEPS[readinessIndex + 1]),
+                  border: `1px solid ${readinessColor(READINESS_STEPS[readinessIndex + 1])}30`,
+                }}
+              >
+                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14" />
+                </svg>
+                {READINESS_STEPS[readinessIndex + 1] === "verified" ? "Sign off → A+" : `Promote to ${READINESS_STEPS[readinessIndex + 1]}`}
+              </button>
+            )}
+            {/* Status message */}
+            {readinessMsg && (
+              <span className={`text-[10px] ${readinessMsg.includes("Error") ? "text-[var(--color-red)]" : "text-[var(--color-green)]"}`}>
+                {readinessMsg}
+              </span>
+            )}
+            {readinessChanging && <span className="text-[10px] text-[var(--color-text-dim)] animate-pulse">Saving...</span>}
           </div>
         </div>
       </div>
