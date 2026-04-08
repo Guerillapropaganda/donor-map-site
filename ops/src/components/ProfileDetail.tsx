@@ -1,8 +1,9 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { useRouter } from "next/navigation"
 import type { Profile } from "@/lib/vault"
-import { readinessColor, typeColor } from "@/lib/vault"
+import { readinessColor, typeColor, profileNeeds } from "@/lib/vault"
 
 interface ProfileDetailProps {
   profile: Profile | null
@@ -18,6 +19,7 @@ interface ProfileData {
 export function ProfileDetail({ profile, onClose }: ProfileDetailProps) {
   const [data, setData] = useState<ProfileData | null>(null)
   const [loading, setLoading] = useState(false)
+  const router = useRouter()
 
   useEffect(() => {
     if (!profile) {
@@ -40,23 +42,34 @@ export function ProfileDetail({ profile, onClose }: ProfileDetailProps) {
   return (
     <div className="fixed right-0 top-0 h-screen w-96 bg-[var(--color-bg-card)] border-l border-[var(--color-border)] overflow-y-auto animate-slide-in z-40">
       {/* Header */}
-      <div className="sticky top-0 bg-[var(--color-bg-card)] border-b border-[var(--color-border)] p-4 flex items-start justify-between">
-        <div>
-          <span
-            className="inline-block text-[9px] uppercase tracking-wider px-1.5 py-0.5 rounded mb-1.5"
-            style={{ color: typeColor(profile.type), backgroundColor: `${typeColor(profile.type)}15` }}
+      <div className="sticky top-0 bg-[var(--color-bg-card)] border-b border-[var(--color-border)] p-4 z-10">
+        <div className="flex items-start justify-between mb-3">
+          <div>
+            <span
+              className="inline-block text-[9px] uppercase tracking-wider px-1.5 py-0.5 rounded mb-1.5"
+              style={{ color: typeColor(profile.type), backgroundColor: `${typeColor(profile.type)}15` }}
+            >
+              {profile.type}
+            </span>
+            <h2 className="text-sm font-bold">{profile.title}</h2>
+          </div>
+          <button
+            onClick={onClose}
+            className="text-[var(--color-text-dim)] hover:text-[var(--color-text)] p-1"
           >
-            {profile.type}
-          </span>
-          <h2 className="text-sm font-bold">{profile.title}</h2>
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
         </div>
         <button
-          onClick={onClose}
-          className="text-[var(--color-text-dim)] hover:text-[var(--color-text)] p-1"
+          onClick={() => router.push(`/profile?path=${encodeURIComponent(profile.path)}`)}
+          className="w-full flex items-center justify-center gap-2 bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30 rounded-lg px-4 py-2 text-xs font-bold hover:bg-[var(--color-steel)]/25 transition-colors"
         >
-          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
-            <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+          <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6" />
           </svg>
+          View Full Profile
         </button>
       </div>
 
@@ -76,6 +89,30 @@ export function ProfileDetail({ profile, onClose }: ProfileDetailProps) {
               </span>
             )}
           </div>
+
+          {/* What's Needed */}
+          {(() => {
+            const need = profileNeeds(profile)
+            if (need === "Up to date") return (
+              <div className="flex items-center gap-2 bg-[var(--color-green)]/10 border border-[var(--color-green)]/20 rounded-lg px-3 py-2">
+                <svg className="w-3.5 h-3.5 text-[var(--color-green)]" fill="currentColor" viewBox="0 0 20 20">
+                  <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                </svg>
+                <span className="text-[10px] text-[var(--color-green)] font-bold">Up to date</span>
+              </div>
+            )
+            const needColor = need.startsWith("Stale") || need.startsWith("Never") ? "var(--color-red)" :
+              need.includes("Tier 1") ? "var(--color-amber)" :
+              need.includes("raw") ? "var(--color-text-dim)" : "var(--color-steel)"
+            return (
+              <div className="flex items-center gap-2 rounded-lg px-3 py-2" style={{ backgroundColor: `${needColor}10`, border: `1px solid ${needColor}20` }}>
+                <svg className="w-3.5 h-3.5 flex-shrink-0" style={{ color: needColor }} fill="currentColor" viewBox="0 0 20 20">
+                  <path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd" />
+                </svg>
+                <span className="text-[10px] font-bold" style={{ color: needColor }}>{need}</span>
+              </div>
+            )
+          })()}
 
           {/* Metadata Grid */}
           <div className="grid grid-cols-2 gap-2">
