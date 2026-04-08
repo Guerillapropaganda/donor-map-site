@@ -397,14 +397,15 @@ export default function ProfilePage() {
           ) : (
             <div className="space-y-1">
               {urls.map((u, i) => (
-                <div key={i} className={`flex items-start gap-2 p-2 rounded text-[10px] ${u.archived ? "opacity-40" : ""}`}>
+                <a key={i} href={u.url} target="_blank" rel="noopener noreferrer"
+                  className={`flex items-start gap-2 p-2 rounded text-[10px] hover:bg-[var(--color-bg-hover)] transition-colors ${u.archived ? "opacity-40" : ""}`}>
                   <span className={`mt-1 w-2 h-2 rounded-full flex-shrink-0 ${u.archived ? "bg-[var(--color-red)]" : "bg-[var(--color-green)]"}`} />
                   <div className="min-w-0 flex-1">
-                    <p className={`text-[var(--color-text)] ${u.archived ? "line-through" : ""}`}>{u.label}</p>
+                    <p className={`text-[var(--color-text)] hover:text-[var(--color-steel)] ${u.archived ? "line-through" : ""}`}>{u.label}</p>
                     <p className="text-[var(--color-text-dim)] truncate">{u.url}</p>
                   </div>
                   {u.tier && <span className="text-[8px] text-[var(--color-text-dim)] flex-shrink-0">Tier {u.tier}</span>}
-                </div>
+                </a>
               ))}
             </div>
           )}

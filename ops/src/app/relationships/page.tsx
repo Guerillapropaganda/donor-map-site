@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect, useRef } from "react"
+import { useState, useEffect, useRef, useCallback } from "react"
 import type { Profile } from "@/lib/vault"
 import { typeColor } from "@/lib/vault"
 
@@ -57,9 +57,42 @@ export default function RelationshipsPage() {
   const [toast, setToast] = useState<string | null>(null)
   const [sidebarTypeFilter, setSidebarTypeFilter] = useState<string>("all")
 
-  // Graph zoom
+  // Graph zoom + pan
   const [graphZoom, setGraphZoom] = useState(1)
+  const [graphPan, setGraphPan] = useState({ x: 0, y: 0 })
+  const [isDragging, setIsDragging] = useState(false)
+  const dragStart = useRef({ x: 0, y: 0, panX: 0, panY: 0 })
   const graphRef = useRef<HTMLDivElement>(null)
+  const graphContainerRef = useRef<HTMLDivElement>(null)
+
+  // Attach non-passive wheel listener so we can preventDefault
+  useEffect(() => {
+    const el = graphContainerRef.current
+    if (!el) return
+    const handler = (e: WheelEvent) => {
+      e.preventDefault()
+      e.stopPropagation()
+      setGraphZoom((z) => Math.max(0.3, Math.min(3, z + (e.deltaY > 0 ? -0.1 : 0.1))))
+    }
+    el.addEventListener("wheel", handler, { passive: false })
+    return () => el.removeEventListener("wheel", handler)
+  }, [tab, selected])
+
+  const handleMouseDown = useCallback((e: React.MouseEvent) => {
+    // Only drag on the background, not on node buttons
+    if ((e.target as HTMLElement).closest("button")) return
+    setIsDragging(true)
+    dragStart.current = { x: e.clientX, y: e.clientY, panX: graphPan.x, panY: graphPan.y }
+  }, [graphPan])
+
+  const handleMouseMove = useCallback((e: React.MouseEvent) => {
+    if (!isDragging) return
+    const dx = e.clientX - dragStart.current.x
+    const dy = e.clientY - dragStart.current.y
+    setGraphPan({ x: dragStart.current.panX + dx, y: dragStart.current.panY + dy })
+  }, [isDragging])
+
+  const handleMouseUp = useCallback(() => setIsDragging(false), [])
 
   useEffect(() => {
     Promise.all([
@@ -393,21 +426,21 @@ export default function RelationshipsPage() {
                   <span className="text-[9px] text-[var(--color-text-dim)] w-10 text-center">{Math.round(graphZoom * 100)}%</span>
                   <button onClick={() => setGraphZoom((z) => Math.min(3, z + 0.15))}
                     className="w-6 h-6 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] text-sm flex items-center justify-center">+</button>
-                  <button onClick={() => setGraphZoom(1)}
+                  <button onClick={() => { setGraphZoom(1); setGraphPan({ x: 0, y: 0 }) }}
                     className="text-[8px] px-2 py-1 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] ml-1">Reset</button>
                 </div>
               </div>
 
-              {/* Scrollable + zoomable graph container */}
-              <div className="overflow-auto border border-[var(--color-border)] rounded-lg" style={{ maxHeight: "55vh" }}
-                onWheel={(e) => {
-                  if (e.ctrlKey || e.metaKey) {
-                    e.preventDefault()
-                    setGraphZoom((z) => Math.max(0.3, Math.min(3, z + (e.deltaY > 0 ? -0.1 : 0.1))))
-                  }
-                }}>
-                <div ref={graphRef} className="relative transition-transform"
-                  style={{ height: `${Math.max(500, selected.connectionCount * 20)}px`, width: `${Math.max(500, selected.connectionCount * 20)}px`, transform: `scale(${graphZoom})`, transformOrigin: "center center" }}>
+              {/* Draggable + zoomable graph container */}
+              <div ref={graphContainerRef}
+                className="overflow-hidden border border-[var(--color-border)] rounded-lg select-none"
+                style={{ maxHeight: "55vh", cursor: isDragging ? "grabbing" : "grab" }}
+                onMouseDown={handleMouseDown}
+                onMouseMove={handleMouseMove}
+                onMouseUp={handleMouseUp}
+                onMouseLeave={handleMouseUp}>
+                <div ref={graphRef} className="relative"
+                  style={{ height: `${Math.max(500, selected.connectionCount * 20)}px`, width: `${Math.max(500, selected.connectionCount * 20)}px`, transform: `scale(${graphZoom}) translate(${graphPan.x / graphZoom}px, ${graphPan.y / graphZoom}px)`, transformOrigin: "center center" }}>
                   {/* Center node */}
                   <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-28 h-28 rounded-full flex items-center justify-center text-center z-10"
                     style={{ backgroundColor: `${TYPE_COLORS[selected.type]}20`, border: `2px solid ${TYPE_COLORS[selected.type]}` }}>
@@ -456,7 +489,7 @@ export default function RelationshipsPage() {
                 <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-6 h-0 border-t border-[#5b8dce]" /> Related</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-6 h-0 border-t border-[#22c55e]" /> Donors</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-6 h-0 border-t border-dashed border-[#ef4444]" /> Opposes</span>
-                <span className="text-[7px] text-[var(--color-text-dim)] ml-2">Ctrl+Scroll to zoom</span>
+                <span className="text-[7px] text-[var(--color-text-dim)] ml-2">Scroll to zoom · Click+drag to pan</span>
               </div>
               <AddConnectionForm />
             </div>
