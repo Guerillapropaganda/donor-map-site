@@ -2,7 +2,7 @@
 title: David Sacks
 type: donor
 content-readiness: ready
-last-updated: '2026-04-08'
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: Mega-Donors
@@ -57,8 +57,8 @@ court-jurisdictions:
   - 'District Court, N.D. Illinois'
   - 'District Court, N.D. Ohio'
   - 'District Court, S.D. New York'
-donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]]"
-related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]]"
+donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Peter Thiel]] · [[Palantir Technologies]]"
+related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Thiel-Adjacent Tech Pipeline]]"
 stories: '[[The Billionaire Cabinet - Wealthiest Administration in History]]'
 ---
 

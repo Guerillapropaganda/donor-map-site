@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]]"
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[AIPAC Illinois Shell PAC Operation]]"
 ---
 
 #2026-election #house #new-york #race-frame

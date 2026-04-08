@@ -12,7 +12,7 @@ fara-status: "registrant"
 fara-records: 2
 fara-countries:
   - "JAPAN"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackstone Group]] · [[Raytheon (RTX)|RTX Corp]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Crossroads Strategies]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackstone Group]] · [[Raytheon (RTX)|RTX Corp]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Crossroads Strategies]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]]"
 court-cases: 6
 last-enriched: "2026-04-08"
 court-jurisdictions:

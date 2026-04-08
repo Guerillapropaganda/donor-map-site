@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Bobby Scott Master Profile]]"
-related: "[[Economic Policy - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Single-Payer Broken Promise]]"
+related: "[[Economic Policy - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 ---
 
 #bobby-scott #education #labor #minimum-wage #virginia #for-profit #teacher-unions

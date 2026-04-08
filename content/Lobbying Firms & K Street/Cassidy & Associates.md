@@ -8,7 +8,7 @@ parent: null
 annual-revenue: "$30.6M"
 lobbyist-count: 34
 revolving-door-pct: "70.6%"
-related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Lockheed Martin]] · [[Prime Policy Group]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Ballard Partners]] · [[K&L Gates]] · [[Akin Gump Strauss Hauer & Feld]]"
+related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Lockheed Martin]] · [[Prime Policy Group]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Ballard Partners]] · [[K&L Gates]] · [[Akin Gump Strauss Hauer & Feld]] · [[Subject Matter (now Avoq)]] · [[Thorn Run Partners]]"
 court-cases: 7
 last-enriched: "2026-04-07"
 court-jurisdictions:

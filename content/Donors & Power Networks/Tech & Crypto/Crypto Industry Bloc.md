@@ -21,7 +21,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[The 2024 Tech Billionaire Network]] · [[Cantor Fitzgerald Tether and the Crypto Reserve Play]] · [[Ted Cruz Master Profile]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[The Finance Committee and Tax Industry Alignment]] · [[Trump Crypto - The President as Personal Profiteer]]"
+related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[The 2024 Tech Billionaire Network]] · [[Cantor Fitzgerald Tether and the Crypto Reserve Play]] · [[Ted Cruz Master Profile]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[The Finance Committee and Tax Industry Alignment]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Crypto and Tech - Donors and Backers]] · [[Patrick McHenry Master Profile]]"
 ---
 
 

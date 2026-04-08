@@ -33,7 +33,7 @@ court-jurisdictions:
   - "District Court, N.D. New York"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
-related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Paul Singer]] · [[Scaife Foundations]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]]"
+related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Paul Singer]] · [[Scaife Foundations]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]]"
 ---
 
 #think-tank #conservative #policing #housing #education #criminal-justice #anti-dei #urban-policy #class-analysis

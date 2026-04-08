@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Prop 22 - The $200M Corporate Rollback]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[United Farm Workers]] · [[California Labor Federation]] · [[Economic Policy - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Single-Payer Broken Promise]]"
+related: "[[Prop 22 - The $200M Corporate Rollback]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[United Farm Workers]] · [[California Labor Federation]] · [[Economic Policy - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[Healthcare - Donors and Backers]]"
 ---
 
 
