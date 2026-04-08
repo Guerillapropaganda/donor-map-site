@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { usePathname } from "next/navigation"
+import { usePathname, useRouter } from "next/navigation"
 
 const NAV_ITEMS = [
   { href: "/", label: "Dashboard", icon: "grid" },
@@ -33,6 +33,7 @@ const ICONS: Record<string, string> = {
 
 export function Sidebar() {
   const pathname = usePathname()
+  const router = useRouter()
 
   return (
     <aside className="fixed left-0 top-0 h-screen w-56 bg-[var(--color-bg-card)] border-r border-[var(--color-border)] flex flex-col z-50">
@@ -57,6 +58,18 @@ export function Sidebar() {
           </svg>
           <span className="text-[10px] flex-1 text-left">Search...</span>
           <kbd className="text-[8px] px-1 py-0.5 rounded border border-[var(--color-border)]">Ctrl+K</kbd>
+        </button>
+      </div>
+
+      {/* Back / Forward */}
+      <div className="px-3 pb-1 flex gap-1">
+        <button onClick={() => router.back()}
+          className="flex-1 flex items-center justify-center gap-1 px-2 py-1.5 rounded-lg border border-[var(--color-border)] bg-[var(--color-bg)] text-[var(--color-text-dim)] hover:border-[var(--color-steel)]/30 hover:text-[var(--color-text)] transition-colors text-[10px]">
+          ← Back
+        </button>
+        <button onClick={() => router.forward()}
+          className="flex-1 flex items-center justify-center gap-1 px-2 py-1.5 rounded-lg border border-[var(--color-border)] bg-[var(--color-bg)] text-[var(--color-text-dim)] hover:border-[var(--color-steel)]/30 hover:text-[var(--color-text)] transition-colors text-[10px]">
+          Forward →
         </button>
       </div>
 
