@@ -527,15 +527,23 @@ export default function RelationshipsPage() {
                     <div key={i} className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg p-3 hover:border-[var(--color-steel)]/30 transition-colors group">
                       <div className="flex items-center gap-2 mb-1">
                         <span className="w-2 h-2 rounded-full" style={{ backgroundColor: REL_COLORS[conn.relationshipType] }} />
-                        <span className="text-[8px] uppercase tracking-wider" style={{ color: REL_COLORS[conn.relationshipType] }}>{conn.relationshipType}</span>
+                        {/* Type dropdown — same as List View */}
+                        <select
+                          value={conn.relationshipType}
+                          onChange={(e) => changeConnectionType(targetName, conn.relationshipType, e.target.value as "related" | "donors" | "opposes")}
+                          disabled={saving}
+                          className="text-[8px] uppercase tracking-wider bg-transparent border-none cursor-pointer focus:outline-none"
+                          style={{ color: REL_COLORS[conn.relationshipType] }}>
+                          <option value="related" style={{ color: "#5b8dce", background: "#141419" }}>Related</option>
+                          <option value="donors" style={{ color: "#22c55e", background: "#141419" }}>Funded By</option>
+                          <option value="opposes" style={{ color: "#ef4444", background: "#141419" }}>Opposes</option>
+                        </select>
                         <button onClick={() => removeConnection(targetName, conn.relationshipType)} disabled={saving}
                           className="ml-auto text-[8px] px-1.5 py-0.5 rounded text-[var(--color-red)]/60 hover:text-[var(--color-red)] hover:bg-[var(--color-red)]/10 opacity-0 group-hover:opacity-100 transition-all">
                           Remove
                         </button>
                       </div>
-                      <button onClick={() => expandNode(targetName)}
-                        onContextMenu={(e) => { e.preventDefault(); setContextMenu({ x: e.clientX, y: e.clientY, name: targetName, type: conn.relationshipType }) }}
-                        className="text-left w-full">
+                      <button onClick={() => expandNode(targetName)} className="text-left w-full">
                         <p className="text-[11px] font-bold text-[var(--color-text)] hover:text-[var(--color-steel)] transition-colors">{targetName}</p>
                         <div className="flex items-center gap-2 mt-1">
                           {targetProfile && <span className="text-[7px] px-1 rounded" style={{ color: typeColor(targetProfile.type), backgroundColor: `${typeColor(targetProfile.type)}15` }}>{targetProfile.type}</span>}
@@ -609,15 +617,25 @@ export default function RelationshipsPage() {
                           style={{ left: `${x}%`, top: `${y}%` }}>
                           <button
                             onClick={() => { const tp = topConnected.find((t) => t.title === node.name) || profiles.find((p) => p.title === node.name); if (tp) selectProfile(tp) }}
-                            onContextMenu={(e) => { e.preventDefault(); e.stopPropagation(); setContextMenu({ x: e.clientX, y: e.clientY, name: node.name, type: node.type }) }}
                             className="w-full h-full rounded-full flex items-center justify-center text-center hover:scale-110 transition-transform"
                             style={{ backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
-                            title={`${node.name} — Right-click to edit`}>
+                            title={node.name}>
                             <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3">{node.name}</span>
                           </button>
+                          {/* Edit button — opens context menu on click */}
+                          <button
+                            onClick={(e) => { e.stopPropagation(); setContextMenu({ x: e.clientX, y: e.clientY, name: node.name, type: node.type }) }}
+                            className="absolute -top-1 -left-1 w-5 h-5 rounded-full text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
+                            style={{ backgroundColor: REL_COLORS[node.type] }}
+                            title="Change type">
+                            <svg width={8} height={8} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={3}>
+                              <path strokeLinecap="round" strokeLinejoin="round" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
+                            </svg>
+                          </button>
+                          {/* Remove button */}
                           <button onClick={(e) => { e.stopPropagation(); removeConnection(node.name, node.type) }} disabled={saving}
-                            className="absolute -top-1 -right-1 w-4 h-4 rounded-full bg-[var(--color-red)] text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
-                            title={`Remove ${node.name}`}>×</button>
+                            className="absolute -top-1 -right-1 w-5 h-5 rounded-full bg-[var(--color-red)] text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
+                            title="Remove">×</button>
                         </div>
                       </div>
                     )
