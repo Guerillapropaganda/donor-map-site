@@ -64,6 +64,10 @@ export default function ProfilePage() {
   const [urlNotes, setUrlNotes] = useState<Record<number, string>>({})
   const [urlSaving, setUrlSaving] = useState(false)
   const [urlSaveMsg, setUrlSaveMsg] = useState("")
+  const [urlChecking, setUrlChecking] = useState(false)
+  const [urlCheckProgress, setUrlCheckProgress] = useState("")
+  const [urlFilter, setUrlFilter] = useState<"all" | "unchecked" | "verified" | "broken" | "unsure">("all")
+  const [expandedUrl, setExpandedUrl] = useState<number | null>(null)
 
   // Browse state (when no profile selected)
   const [browseSearch, setBrowseSearch] = useState("")
@@ -130,6 +134,69 @@ export default function ProfilePage() {
     } catch { setUrlSaveMsg("Error saving") }
     setUrlSaving(false)
   }
+
+  async function autoCheckUrls() {
+    const unchecked = urls.map((u, i) => ({ u, i })).filter(({ u }) => !u.archived && (u.triageStatus === "unchecked" || !u.triageStatus))
+    if (unchecked.length === 0) { setUrlSaveMsg("All URLs already triaged"); return }
+    setUrlChecking(true)
+    setUrlCheckProgress(`Checking 0/${unchecked.length}...`)
+    const batchSize = 5
+    for (let b = 0; b < unchecked.length; b += batchSize) {
+      const batch = unchecked.slice(b, b + batchSize)
+      setUrlCheckProgress(`Checking ${Math.min(b + batchSize, unchecked.length)}/${unchecked.length}...`)
+      try {
+        const res = await fetch("/api/urls/check", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ urls: batch.map(({ u }) => u.url) }) })
+        const data = await res.json()
+        if (data.results) {
+          for (const { u, i } of batch) {
+            const r = data.results[u.url]
+            if (r) {
+              if (r.status === "ok") setUrlOverrides(p => ({ ...p, [i]: "ok" }))
+              else if (r.status === "broken") setUrlOverrides(p => ({ ...p, [i]: "broken" }))
+              else if (r.status === "slow" || r.status === "redirect") {
+                setUrlOverrides(p => ({ ...p, [i]: "unsure" }))
+                setUrlNotes(p => ({ ...p, [i]: r.status === "redirect" ? `Redirects to ${r.redirectUrl || "unknown"}` : `Slow response (${r.ms}ms)` }))
+              }
+            }
+          }
+        }
+      } catch { /* continue */ }
+    }
+    setUrlChecking(false)
+    setUrlCheckProgress("")
+    setUrlSaveMsg(`Auto-check complete. Review results and Save.`)
+  }
+
+  function bulkMarkUnchecked(status: "ok" | "broken" | "unsure") {
+    const newOverrides: Record<number, "ok" | "broken" | "unsure"> = { ...urlOverrides }
+    urls.forEach((u, i) => {
+      const current = urlOverrides[i] || u.triageStatus || (u.archived ? "broken" : "unchecked")
+      if (current === "unchecked") newOverrides[i] = status
+    })
+    setUrlOverrides(newOverrides)
+  }
+
+  function getUrlStatus(u: UrlData, i: number): string {
+    return urlOverrides[i] || u.triageStatus || (u.archived ? "broken" : "unchecked")
+  }
+
+  const urlCounts = urls.reduce((acc, u, i) => {
+    const s = getUrlStatus(u, i)
+    if (s === "ok" || s === "verified") acc.verified++
+    else if (s === "broken") acc.broken++
+    else if (s === "unsure") acc.unsure++
+    else acc.unchecked++
+    return acc
+  }, { verified: 0, broken: 0, unsure: 0, unchecked: 0 })
+
+  const filteredUrls = urls.map((u, i) => ({ u, i })).filter(({ u, i }) => {
+    if (urlFilter === "all") return true
+    const s = getUrlStatus(u, i)
+    if (urlFilter === "verified") return s === "ok" || s === "verified"
+    if (urlFilter === "broken") return s === "broken"
+    if (urlFilter === "unsure") return s === "unsure"
+    return s === "unchecked"
+  })
 
   if (!profilePath) {
     const filtered = browseSearch.length >= 2
@@ -421,62 +488,91 @@ export default function ProfilePage() {
 
       {tab === "urls" && (
         <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
-          {Object.keys(urlOverrides).length > 0 && (
-            <div className="flex items-center gap-2 mb-3 pb-3 border-b border-[var(--color-border)]">
-              <span className="text-[10px] text-[var(--color-text-dim)]">{Object.keys(urlOverrides).length} change{Object.keys(urlOverrides).length > 1 ? "s" : ""}</span>
-              <button onClick={saveUrlTriage} disabled={urlSaving}
-                className="px-3 py-1 bg-[var(--color-green)] text-black text-[10px] font-bold rounded hover:opacity-90 disabled:opacity-50">
-                {urlSaving ? "Saving..." : "Save"}
+          {/* Action bar */}
+          <div className="flex items-center gap-2 mb-3 pb-3 border-b border-[var(--color-border)] flex-wrap">
+            <button onClick={autoCheckUrls} disabled={urlChecking || urls.length === 0}
+              className="px-3 py-1.5 bg-[var(--color-steel)] text-white text-[10px] font-bold rounded hover:opacity-90 disabled:opacity-50">
+              {urlChecking ? urlCheckProgress : "Auto-Check All"}
+            </button>
+            {Object.keys(urlOverrides).length > 0 && (
+              <>
+                <button onClick={saveUrlTriage} disabled={urlSaving}
+                  className="px-3 py-1.5 bg-[var(--color-green)] text-black text-[10px] font-bold rounded hover:opacity-90 disabled:opacity-50">
+                  {urlSaving ? "Saving..." : `Save ${Object.keys(urlOverrides).length} change${Object.keys(urlOverrides).length > 1 ? "s" : ""}`}
+                </button>
+                <button onClick={() => { setUrlOverrides({}); setUrlNotes({}) }}
+                  className="px-2 py-1.5 text-[var(--color-text-dim)] text-[10px] rounded hover:text-[var(--color-text)]">
+                  Clear
+                </button>
+              </>
+            )}
+            {urlCounts.unchecked > 0 && !urlChecking && (
+              <button onClick={() => bulkMarkUnchecked("ok")}
+                className="ml-auto px-2 py-1 border border-[var(--color-border)] text-[9px] text-[var(--color-green)] rounded hover:bg-[var(--color-green)]/10">
+                Mark all unchecked ✓
               </button>
-              <button onClick={() => setUrlOverrides({})}
-                className="px-3 py-1 bg-[var(--color-bg)] text-[var(--color-text-dim)] text-[10px] rounded hover:text-[var(--color-text)]">
-                Clear
+            )}
+            {urlSaveMsg && <span className="text-[10px] text-[var(--color-green)]">{urlSaveMsg}</span>}
+          </div>
+
+          {/* Filter bar with counts */}
+          <div className="flex gap-1 mb-3">
+            {([
+              ["all", `All ${urls.length}`, "text-[var(--color-text)]"],
+              ["unchecked", `${urlCounts.unchecked} Unchecked`, "text-[#6b7280]"],
+              ["verified", `${urlCounts.verified} Verified`, "text-[var(--color-green)]"],
+              ["broken", `${urlCounts.broken} Broken`, "text-[var(--color-red)]"],
+              ["unsure", `${urlCounts.unsure} Unsure`, "text-[#a855f7]"],
+            ] as [string, string, string][]).map(([key, label, color]) => (
+              <button key={key} onClick={() => setUrlFilter(key as typeof urlFilter)}
+                className={`px-2 py-1 rounded text-[9px] font-bold transition-colors ${urlFilter === key ? `${color} bg-[var(--color-bg)] border border-[var(--color-border)]` : "text-[var(--color-text-dim)] hover:text-[var(--color-text)]"}`}>
+                {label}
               </button>
-              {urlSaveMsg && <span className="text-[10px] text-[var(--color-green)]">{urlSaveMsg}</span>}
-            </div>
-          )}
-          {urlSaveMsg && Object.keys(urlOverrides).length === 0 && (
-            <p className="text-[10px] text-[var(--color-green)] mb-2">{urlSaveMsg}</p>
-          )}
+            ))}
+          </div>
+
           {urls.length === 0 ? (
             <p className="text-xs text-[var(--color-text-dim)] text-center py-8">No URLs found</p>
+          ) : filteredUrls.length === 0 ? (
+            <p className="text-xs text-[var(--color-text-dim)] text-center py-4">No URLs match this filter</p>
           ) : (
-            <div className="space-y-1">
-              {urls.map((u, i) => {
+            <div className="space-y-0.5">
+              {filteredUrls.map(({ u, i }) => {
                 const override = urlOverrides[i]
-                const status = override || u.triageStatus || (u.archived ? "broken" : "unchecked")
+                const status = getUrlStatus(u, i)
                 const dotColor = status === "ok" || status === "verified" ? "bg-[var(--color-green)]"
                   : status === "broken" ? "bg-[var(--color-red)]"
                   : status === "unsure" ? "bg-[#a855f7]"
-                  : "bg-[#6b7280]" // unchecked = gray
+                  : "bg-[#6b7280]"
+                const isExpanded = expandedUrl === i || !!override
                 return (
                 <React.Fragment key={i}>
-                  <div className={`flex items-start gap-2 p-2 rounded text-[10px] hover:bg-[var(--color-bg-hover)] transition-colors group ${status === "broken" ? "opacity-40" : ""}`}>
-                    <span className={`mt-1 w-2 h-2 rounded-full flex-shrink-0 ${dotColor}`} />
-                    <a href={u.url} target="_blank" rel="noopener noreferrer" className="min-w-0 flex-1">
+                  <div className={`flex items-center gap-2 p-2 rounded text-[10px] hover:bg-[var(--color-bg-hover)] transition-colors ${status === "broken" ? "opacity-40" : ""}`}>
+                    <span className={`w-2 h-2 rounded-full flex-shrink-0 ${dotColor}`} />
+                    <button onClick={() => { window.open(u.url, "_blank"); setExpandedUrl(i) }}
+                      className="min-w-0 flex-1 text-left">
                       <p className={`text-[var(--color-text)] hover:text-[var(--color-steel)] ${status === "broken" ? "line-through" : ""}`}>{u.label}</p>
                       <p className="text-[var(--color-text-dim)] truncate">{u.url}</p>
-                    </a>
+                    </button>
                     {u.tier && <span className="text-[8px] text-[var(--color-text-dim)] flex-shrink-0">Tier {u.tier}</span>}
-                    <div className="flex gap-1 flex-shrink-0 opacity-0 group-hover:opacity-100 transition-opacity">
-                      <button title="Working" onClick={(e) => { e.stopPropagation(); setUrlOverrides(p => override === "ok" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "ok" }) }}
+                    <div className="flex gap-1 flex-shrink-0">
+                      <button title="Working (✓)" onClick={() => setUrlOverrides(p => override === "ok" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "ok" })}
                         className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "ok" ? "bg-[var(--color-green)] text-black border-[var(--color-green)]" : "border-[var(--color-border)] text-[var(--color-green)] hover:bg-[var(--color-green)] hover:text-black"}`}>✓</button>
-                      <button title="Broken" onClick={(e) => { e.stopPropagation(); setUrlOverrides(p => override === "broken" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "broken" }) }}
+                      <button title="Broken (✗)" onClick={() => setUrlOverrides(p => override === "broken" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "broken" })}
                         className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "broken" ? "bg-[var(--color-red)] text-white border-[var(--color-red)]" : "border-[var(--color-border)] text-[var(--color-red)] hover:bg-[var(--color-red)] hover:text-white"}`}>✗</button>
-                      <button title="Unsure" onClick={(e) => { e.stopPropagation(); setUrlOverrides(p => override === "unsure" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "unsure" }) }}
+                      <button title="Unsure (?)" onClick={() => setUrlOverrides(p => override === "unsure" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "unsure" })}
                         className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "unsure" ? "bg-[#a855f7] text-white border-[#a855f7]" : "border-[var(--color-border)] text-[#a855f7] hover:bg-[#a855f7] hover:text-white"}`}>?</button>
                     </div>
                   </div>
-                  {override && (
-                    <div className="flex items-center gap-2 ml-6 -mt-0.5 mb-1">
+                  {isExpanded && (
+                    <div className="flex items-center gap-2 ml-6 mb-1">
                       <input type="text" placeholder="Add a note (optional)..." value={urlNotes[i] || ""}
                         onChange={(e) => setUrlNotes(p => ({ ...p, [i]: e.target.value }))}
-                        onClick={(e) => e.stopPropagation()}
                         className="flex-1 bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-2 py-1 text-[9px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
                     </div>
                   )}
-                  {!override && u.triageNote && (
-                    <p className="ml-6 -mt-0.5 mb-1 text-[9px] text-[var(--color-text-dim)] italic">{u.triageNote}</p>
+                  {!isExpanded && u.triageNote && (
+                    <p className="ml-6 mb-1 text-[9px] text-[var(--color-text-dim)] italic">{u.triageNote}</p>
                   )}
                 </React.Fragment>
                 )
