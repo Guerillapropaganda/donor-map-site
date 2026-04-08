@@ -34,7 +34,18 @@ court-jurisdictions:
 lobbying-spend: 1268033
 lobbying-filings: 104
 total-political-spend: "$16,466,849"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[Fossil Fuel Investments and the Recusal Pattern]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[Fossil Fuel Investments and the Recusal Pattern]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Rogers]]"
+sec-filings: 387
+sec-form-types:
+  - "13F-HR"
+  - "13F-HR/A"
+  - "13F-NT"
+  - "D"
+  - "D/A"
+  - "EX-10.3"
+  - "EX-24"
+  - "LETTER"
+  - "SC 13D/A"
 ---
 
 
@@ -276,3 +287,21 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Paul%20Singer) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 387 |
+| Form Types | 13F-HR, 13F-HR/A, 13F-NT, D, D/A, EX-10.3, EX-24, LETTER +1 more |
+
+**Notable filings:**
+
+- 2010-03-17 — **D/A**: D/A
+- 2011-03-17 — **D/A**: D/A
+- 2011-03-17 — **D/A**: D/A
+- 2003-11-26 — **EX-10.3**: EXHIBIT 10.3
+- 2010-03-17 — **D/A**: D/A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Paul%20Singer%22) (Tier 1)
+<!-- auto:sec-edgar end -->
