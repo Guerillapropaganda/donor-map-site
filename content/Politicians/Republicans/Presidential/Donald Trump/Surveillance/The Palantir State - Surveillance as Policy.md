@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[The Thiel Pipeline - From Yale to VP]] · [[Signalgate - The Yemen Strike Chat and the Security Theater]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]]"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Signalgate - The Yemen Strike Chat and the Security Theater]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Valinor Enterprises]]"
 ---
 
 
