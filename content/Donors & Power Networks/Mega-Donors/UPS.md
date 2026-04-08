@@ -127,7 +127,7 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 > The 2023 Teamsters contract reveals UPS's core contradiction: the company spent $14.7M lobbying Congress in 2023-2024 to reduce taxes and regulatory costs, while simultaneously absorbing $30 billion in labor cost increases because its unionized workforce had the leverage to demand it. UPS lobbies for a business-friendly regulatory environment while operating within the most labor-friendly private-sector contract in America. The company's political operation works to reduce costs everywhere except where organized labor has structural power — demonstrating that corporate political spending is effective against diffuse public interests (tax policy, regulation) but cannot overcome concentrated labor power when workers are organized and essential.
 
 - [Teamsters: Ratify Historic UPS Contract](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2)
-- [FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710) (Tier 1)
+- ~~[FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 
@@ -155,7 +155,7 @@ The class analysis conclusion: corporate political spending is effective against
 - [Senate LDA Filings: UPS lobbying issues 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Senate LDA Filings: UPS lobbyists — revolving door data](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [UPS Political Engagement Policy](https://investors.ups.com/corporategovernance/political-engagement-policy) (Tier 1)
-- [FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710) (Tier 1)
+- ~~[FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Teamsters: Ratify Historic UPS Contract](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2)
 - [Ballotpedia: UPS](https://ballotpedia.org/UPS) (Tier 3)
 

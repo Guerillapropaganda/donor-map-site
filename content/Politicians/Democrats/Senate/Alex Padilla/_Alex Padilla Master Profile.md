@@ -142,7 +142,7 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 - [Senate.gov: Padilla immigration issues page](https://www.padilla.senate.gov/about/issues/immigration/) (Tier 1)
 - [Senate.gov: Padilla raises AI inclusivity concerns at Judiciary hearing](https://www.padilla.senate.gov/newsroom/press-releases/padilla-raises-inclusivity-concerns-at-committee-hearing-on-artificial-intelligence/) (Tier 1)
 - [FEC: Alex Padilla for Senate committee overview](https://www.fec.gov/data/committee/C00765164/) (Tier 1)
-- [FollowTheMoney: Alex Padilla](https://www.followthemoney.org/tools/election-overview?eid=6468901&default=candidate) (Tier 1)
+- ~~[FollowTheMoney: Alex Padilla](https://www.followthemoney.org/tools/election-overview?eid=6468901&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [GovTrack: Alex Padilla](https://www.govtrack.us/congress/members/alejandro_padilla/456856) (Tier 3)
 - [Ballotpedia: Alex Padilla](https://ballotpedia.org/Alex_Padilla) (Tier 3)
 - [Wikipedia: Alex Padilla](https://en.wikipedia.org/wiki/Alex_Padilla) (Tier 3)

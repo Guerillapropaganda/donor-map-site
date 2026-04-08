@@ -215,7 +215,7 @@ Hickenlooper initially refused to appear at the commission's remote hearing, lea
 - [Colorado Sun: Ethics panel orders Hickenlooper to pay $2,750 for two violations](https://coloradosun.com/2020/06/12/john-hickenlooper-ethics-violation/) (Tier 2)
 - [CPR News: Ethics Commission concludes Hickenlooper violated Colorado's gift ban](https://www.cpr.org/2020/06/05/ethics-commission-concludes-hickenlooper-violated-colorados-gift-ban-for-public-officials/) (Tier 2)
 - [KUNC: What's in the fracking fluid Hickenlooper drank?](https://www.kunc.org/business/2013-02-15/whats-in-the-fracking-fluid-hickenlooper-drank) (Tier 2)
-- [FollowTheMoney: Energy dollars in Denver](https://www.followthemoney.org/research/blog/energy-dollars-in-denver) (Tier 1)
+- ~~[FollowTheMoney: Energy dollars in Denver](https://www.followthemoney.org/research/blog/energy-dollars-in-denver)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Congress.gov: John W. Hickenlooper member page](https://www.congress.gov/member/john-hickenlooper/H000273) (Tier 1)
 - [Denver Post: Hickenlooper says 2026 reelection will be final Senate run](https://www.denverpost.com/2024/08/21/john-hickenlooper-colorado-us-senate/) (Tier 2)
 - [Ballotpedia: John Hickenlooper](https://ballotpedia.org/John_Hickenlooper) (Tier 3)

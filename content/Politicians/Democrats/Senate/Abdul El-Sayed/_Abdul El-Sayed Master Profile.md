@@ -58,11 +58,11 @@ Dr. Abdul El-Sayed. Physician, epidemiologist, Rhodes Scholar (Oxford University
 
 ### Sanders Endorsement Effect:
 - Sanders endorsed El-Sayed immediately upon his campaign announcement (April 17, 2025). Sanders statement: "We need candidates who are prepared to stand up for the working class of this country and take on the oligarchy... Abdul is a physician who understands that our current health care system is broken and wildly expensive. He understands that health care is a human right, which is why he supports Medicare for All."
-- Source: [Ready to 'Fight for the Working Class': Sanders Endorses Abdul El-Sayed for US Senate](https://www.commondreams.org/news/abdul-el-sayed) (Tier 2)
+- Source: [Ready to 'Fight for the Working Class': Sanders Endorses Abdul El-Sayed for US Senate](https://www.commondreams.org/news/abdul-el-sayed) (Tier 2) (VERIFIED)
 
 ### The Fundraising Disadvantage:
 - El-Sayed's small-dollar model generates roughly 1/3 the total funds available to McMorrow, who benefits from national donor networks attracted by her 2022 viral speech and Warren endorsement. This creates a structural advantage for establishment candidates even in a primary framed as "progressive."
-- FEC filing data: [ABDUL EL-SAYED FOR MICHIGAN](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1)
+- FEC filing data: [ABDUL EL-SAYED FOR MICHIGAN](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -117,9 +117,9 @@ Dr. Abdul El-Sayed. Physician, epidemiologist, Rhodes Scholar (Oxford University
 >
 > **The 2018 proof of concept:** El-Sayed's 340,000 votes in the 2018 gubernatorial primary proved that Medicare for All + anti-corporate messaging can mobilize Michigan voters. But he lost to the establishment-backed candidate. The 2026 Senate race is testing whether the same coalition, scaled up with Sanders support, can overcome the same structural funding gap eight years later.
 
-- [Newsweek: Bernie Sanders-Backed Abdul El-Sayed Rakes in Over $24K Per Day](https://www.newsweek.com/michigan-senate-race-election-abdul-el-sayed-fundraising-2096219) (Tier 2)
-- [Common Dreams: Sanders Endorses Abdul El-Sayed for US Senate](https://www.commondreams.org/news/abdul-el-sayed) (Tier 2)
-- [FEC: Abdul El-Sayed for Michigan](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1)
+- [Newsweek: Bernie Sanders-Backed Abdul El-Sayed Rakes in Over $24K Per Day](https://www.newsweek.com/michigan-senate-race-election-abdul-el-sayed-fundraising-2096219) (Tier 2) (VERIFIED)
+- [Common Dreams: Sanders Endorses Abdul El-Sayed for US Senate](https://www.commondreams.org/news/abdul-el-sayed) (Tier 2) (VERIFIED)
+- [FEC: Abdul El-Sayed for Michigan](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -145,7 +145,7 @@ El-Sayed's 2018 campaign is instructive for understanding his 2026 strategy and 
 
 > [!quote]
 > El-Sayed on his 2018 loss: "If you want a fighter, I've got receipts. I've been doing this work. I'm not a politician who's just trying to figure out which way the wind is blowing."
-> Source: [Bridge Michigan](https://bridgemi.com/michigan-government/abdul-el-sayed-us-senate-run-if-you-want-fighter-ive-got-receipts/) (Tier 2)
+> Source: [Bridge Michigan](https://bridgemi.com/michigan-government/abdul-el-sayed-us-senate-run-if-you-want-fighter-ive-got-receipts/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -159,16 +159,16 @@ El-Sayed's 2018 campaign is instructive for understanding his 2026 strategy and 
 
 ### Sources
 
-- [Abdul El-Sayed - FEC Candidate Page](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1)
-- [ABDUL EL-SAYED FOR MICHIGAN - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44060467) (Tier 1)
+- [Abdul El-Sayed - FEC Candidate Page](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1) (VERIFIED)
+- ~~[ABDUL EL-SAYED FOR MICHIGAN - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44060467)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Ready to 'Fight for the Working Class': Sanders Endorses Abdul El-Sayed for US Senate](https://www.commondreams.org/news/abdul-el-sayed) (Tier 2)
-- [Abdul El-Sayed joins race for Michigan's U.S. Senate seat with Bernie Sanders endorsement](https://www.metrotimes.com/news/abdul-el-sayed-joins-race-for-michigans-us-senate-seat-with-bernie-sanders-endorsement-39147339/) (Tier 2)
-- [Washington Post: Ocasio-Cortez adds Michigan to campaign schedule to help Democrat Abdul El-Sayed](https://www.washingtonpost.com/news/powerpost/wp/2018/07/16/ocasio-cortez-adds-michigan-to-campaign-schedule-to-help-democrat-abdul-el-sayed/) (Tier 2)
-- [Abdul El-Sayed on US Senate run: 'If you want a fighter, I've got receipts'](https://bridgemi.com/michigan-government/abdul-el-sayed-us-senate-run-if-you-want-fighter-ive-got-receipts/) (Tier 2)
-- [Bernie Sanders-Backed Abdul El-Sayed Rakes in Over $24K Per Day While Swearing Off PAC Money](https://www.newsweek.com/michigan-senate-race-election-abdul-el-sayed-fundraising-2096219) (Tier 2)
-- [Abdul El-Sayed - Wikipedia](https://en.wikipedia.org/wiki/Abdul_El-Sayed) (Tier 3)
-- [Abdul El-Sayed - Ballotpedia](https://ballotpedia.org/Abdul_El-Sayed) (Tier 3)
-- [Abdul El-Sayed, MD, DPhil - Paul & Daisy Soros Fellowships for New Americans](https://pdsoros.org/fellows/abdul-el-sayed/) (Tier 1)
+- [Abdul El-Sayed joins race for Michigan's U.S. Senate seat with Bernie Sanders endorsement](https://www.metrotimes.com/news/abdul-el-sayed-joins-race-for-michigans-us-senate-seat-with-bernie-sanders-endorsement-39147339/) (Tier 2) (VERIFIED)
+- [Washington Post: Ocasio-Cortez adds Michigan to campaign schedule to help Democrat Abdul El-Sayed](https://www.washingtonpost.com/news/powerpost/wp/2018/07/16/ocasio-cortez-adds-michigan-to-campaign-schedule-to-help-democrat-abdul-el-sayed/) (Tier 2) (VERIFIED)
+- [Abdul El-Sayed on US Senate run: 'If you want a fighter, I've got receipts'](https://bridgemi.com/michigan-government/abdul-el-sayed-us-senate-run-if-you-want-fighter-ive-got-receipts/) (Tier 2) (VERIFIED)
+- [Bernie Sanders-Backed Abdul El-Sayed Rakes in Over $24K Per Day While Swearing Off PAC Money](https://www.newsweek.com/michigan-senate-race-election-abdul-el-sayed-fundraising-2096219) (Tier 2) (VERIFIED)
+- [Abdul El-Sayed - Wikipedia](https://en.wikipedia.org/wiki/Abdul_El-Sayed) (Tier 3) (VERIFIED)
+- [Abdul El-Sayed - Ballotpedia](https://ballotpedia.org/Abdul_El-Sayed) (Tier 3) (VERIFIED)
+- [Abdul El-Sayed, MD, DPhil - Paul & Daisy Soros Fellowships for New Americans](https://pdsoros.org/fellows/abdul-el-sayed/) (Tier 1) (VERIFIED)
 
 content-readiness:: ready
  
@@ -190,7 +190,7 @@ content-readiness:: ready
 |-----------|---------|--------|
 | THE PEOPLE UNITED PAC | $50 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### OFAC Sanctions Screening
@@ -209,7 +209,7 @@ content-readiness:: ready
 - DIB EL MALT, Abdul Naser (individual) [SDNT]
   - Remarks: DOB 20 Aug 1967; nationality Lebanon; citizen Colombia; Cedula No. 276392 (Colombia); Passport 0218186 (Lebanon).
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (NEEDS REVIEW: Goes to sanctions search with no results)
 <!-- auto:ofac-sdn end -->
 
 ### Legislative Activity (Congress.gov)
@@ -222,7 +222,7 @@ content-readiness:: ready
 | Bills Sponsored | 0 |
 | Bills Cosponsored | 0 |
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)

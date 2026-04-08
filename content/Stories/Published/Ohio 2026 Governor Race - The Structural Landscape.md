@@ -132,7 +132,7 @@ Acton was forced out by the same Republican power structure now running Ramaswam
 ### **Sources**
 
 - [OpenSecrets: Ohio 2026 Governor's Race — Contributions and Outside Spending](https://www.opensecrets.org/races/OH-G2026) (Tier 1)
-- [FollowTheMoney: Ohio 2026 Governor's Race Finance](https://www.followthemoney.org/race/OH/GU/2026) (Tier 1)
+- ~~[FollowTheMoney: Ohio 2026 Governor's Race Finance](https://www.followthemoney.org/race/OH/GU/2026)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [EMC Research: Ohio 2026 Governor's Race Poll — February 2026](https://www.emcresearch.org/polls) (Tier 2)
 - [Ballotpedia: Ohio 2026 Gubernatorial Election](https://ballotpedia.org/Ohio_gubernatorial_election,_2026) (Tier 3)
 - [SEC EDGAR: Roivant Sciences Filings](https://www.sec.gov/cgi-bin/browse-edgar) (Tier 1)

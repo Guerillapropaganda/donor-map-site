@@ -423,8 +423,8 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 
 #### Tier 3 (Secondary Analysis & Specialized Reporting)
 
-- [FollowTheMoney: Bail bond industry lobbying](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings) (Tier 3) (UNVERIFIED)
-- [FollowTheMoney: Private prisons reporting](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable) (Tier 3) (UNVERIFIED)
+- ~~[FollowTheMoney: Bail bond industry lobbying](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 3) (UNVERIFIED)
+- ~~[FollowTheMoney: Private prisons reporting](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 3) (UNVERIFIED)
 - [JTA: Wexner Epstein files 2026](https://www.jta.org/2026/02/11/united-states/unredacted-epstein-files-and-planned-deposition-thrust-jewish-philanthropist-leslie-wexner-back-into-spotlight) (Tier 3)
 - [Equal Justice Initiative: Prison phone companies lobbying](https://eji.org/news/private-companies-lobbied-to-criminalize-cell-phones-in-prisons/) (Tier 3)
 - [Physicians for Human Rights: Private prisons ALEC SB 1070](https://phr.org/our-work/resources/private-prison-companies-lobby-against-immigration-reform-for-their-own-profit/) (Tier 3)

@@ -237,7 +237,7 @@ The Michigan primary cannot tell us which path McMorrow will follow. But it can 
 ### Sources
 
 - [Mallory McMorrow - FEC Candidate Page](https://www.fec.gov/data/candidate/S6MI00392/) (Tier 1)
-- [MCMORROW, MALLORY - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44066166&default=candidate) (Tier 1)
+- ~~[MCMORROW, MALLORY - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44066166&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Viral speech: Michigan Sen. Mallory McMorrow fires back at colleague's 'grooming' accusation](https://www.clickondetroit.com/news/local/2022/04/20/viral-speech-michigan-sen-mallory-mcmorrow-fires-back-at-colleagues-grooming-accusation/) (Tier 2)
 - [Democrat McMorrow's rousing anti-hate speech leads to $250,000 in donations in one day](https://www.metrotimes.com/news/democrat-mcmorrows-rousing-anti-hate-speech-leads-to-250000-in-donations-in-one-day-29865253/) (Tier 2)
 - [Elizabeth Warren backs Mallory McMorrow in Michigan Senate primary](https://thehill.com/homenews/campaign/5789748-elizabeth-warren-mallory-mcmorrow-michigan-senate/) (Tier 2)

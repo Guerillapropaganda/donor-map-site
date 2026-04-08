@@ -257,6 +257,9 @@ Permanent record of architectural and editorial decisions that affect the whole 
 | Date | Decision | Made by |
 |------|----------|---------|
 | 2026-04-08 | Readiness overhaul: "developed" removed, 4-tier system (raw/draft/ready/verified). Investigative journalism standards: corroboration, staleness decay, known-gaps, editorial sign-off gate. Verified = A+, Ready = B. | David |
+| 2026-04-08 | Senate LDA (lda.gov) temporarily removed from Tier 1 — site mid-migration from lda.senate.gov, URLs broken. Reinstate after June 2026 when migration completes. Existing LDA citations stay as Archived until then. | David |
+| 2026-04-08 | FollowTheMoney.org merged into OpenSecrets — all FTM URLs are dead. Archive on sight, do not use as a source. Use FEC or state campaign finance databases instead. | David |
+| 2026-04-08 | ProPublica Nonprofit Explorer = Tier 1 (surfaces IRS 990 government data). ProPublica investigative articles = Tier 2. | David |
 | 2026-04-07 | `opposes:` frontmatter field mandatory. Research Claude must tag adversarial connections on every profile review. Graph renders as red dashed lines. | David |
 | 2026-04-06 | New readiness tier: `verified` (has Tier 1 data). Existing `ready` files stay published, pipeline promotes through `verified` organically | David |
 | 2026-04-06 | Tier 1 First mandate — every factual claim needs government source | David |

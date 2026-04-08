@@ -257,7 +257,7 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 - [Democratic state Sen. Zach Wahls launches campaign for U.S. Senate held by Sen. Joni Ernst](https://www.iowapublicradio.org/political-news/2025-06-11/democrat-iowa-senator-zach-wahls-campaign-for-u-s-senate-held-by-sen-joni-ernst) (Tier 2)
 - [Zach Wahls – Iowa State Senator](https://repbio.org/zach-wahls/) (Tier 3)
 - [Ten years later, Zach Wahls reflects on 2011 viral speech about family](https://cbs2iowa.com/news/local/ten-years-later-zach-wahls-reflects-on-2011-viral-speech-about-family) (Tier 2)
-- [FollowTheMoney.org: Zach Wahls Iowa Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46081947) (Tier 1)
+- ~~[FollowTheMoney.org: Zach Wahls Iowa Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46081947)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 content-readiness:: ready
  

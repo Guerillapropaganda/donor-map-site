@@ -146,7 +146,7 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 
 ### Sources
 
-- [FollowTheMoney.org: Villaraigosa 2026 Governor Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Antonio%20Villaraigosa#[%7B1%7Cgro=d-id) (Tier 1)
+- ~~[FollowTheMoney.org: Villaraigosa 2026 Governor Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Antonio%20Villaraigosa#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Congress.gov: Antonio Villaraigosa donor profile](https://www.congress.gov/search?q=Villaraigosa&searchResultViewType=expanded) (Tier 1)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
 - [The Real Deal LA: Real estate heavyweights back Villaraigosa's 2026 bid for governor](https://therealdeal.com/la/2025/10/14/real-estate-execs-fund-villaraigosa-for-california-governor/) (Tier 2)

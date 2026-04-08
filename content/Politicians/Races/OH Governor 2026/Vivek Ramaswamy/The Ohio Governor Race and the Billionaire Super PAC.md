@@ -178,5 +178,5 @@ Ramaswamy is 38 years old (2026). If elected Ohio governor in 2026, he would ser
 
 ### Sources
 - [OpenSecrets: 2026 Ohio gubernatorial election funding data](https://www.opensecrets.org/members-of-congress/summary?name=Ohio%20Governor%20Race%20and%20the%20Billionaire%20Super%20PAC) (Tier 1)
-- [FollowTheMoney: Ohio state campaign finance database and super PAC tracking](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=The%20Ohio%20Governor%20Race%20and%20the%20Billionaire%20Super%20PAC#[%7B1%7Cgro=d-id) (Tier 1)
+- ~~[FollowTheMoney: Ohio state campaign finance database and super PAC tracking](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=The%20Ohio%20Governor%20Race%20and%20the%20Billionaire%20Super%20PAC#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Ballotpedia: 2026 Ohio gubernatorial election overview](https://ballotpedia.org/The_Ohio_Governor_Race_and_the_Billionaire_Super_PAC) (Tier 3)

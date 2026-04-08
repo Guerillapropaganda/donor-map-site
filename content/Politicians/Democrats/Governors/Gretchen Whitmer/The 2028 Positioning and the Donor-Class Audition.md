@@ -114,5 +114,5 @@ The DGA relationships add a layer of gubernatorial donor class connections — t
 - [Bridge Michigan: How Whitmer could win the White House](https://bridgemi.com/michigan-government/how-michigan-gov-gretchen-whitmer-could-win-white-house-year/) (Tier 2)
 - [Tucson.com: Whitmer "hell yes" on a woman atop 2028 ticket](https://tucson.com/news/local/article_be1d3c7c-02a4-11f0-a929-ffa12302785f.html) (Tier 2)
 - [OpenSecrets: Gretchen Whitmer money profile 2022](https://www.opensecrets.org/officeholders/gretchen-e-whitmer/summary?cycle=2022&id=253478) (Tier 1)
-- [FollowTheMoney: Whitmer donor tracking](https://www.followthemoney.org/entity-details?eid=253478) (Tier 1)
+- ~~[FollowTheMoney: Whitmer donor tracking](https://www.followthemoney.org/entity-details?eid=253478)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Detroit News: Whitmer Oval Office encounter with Trump — what it means for her future](https://eu.detroitnews.com/story/news/politics/2025/04/12/gretchen-whitmer-trump-white-house-oval-office-meeting-michigan-republican-party-debt/83043091007/) (Tier 2)

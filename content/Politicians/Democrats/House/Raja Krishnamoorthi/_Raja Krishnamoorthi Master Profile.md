@@ -132,7 +132,7 @@ The Stratton victory showed that institutional Democratic support (governor's ba
 - [Chicago Sun-Times: Stratton defeats Krishnamoorthi in Senate primary](https://chicago.suntimes.com/elections/2026/03/17/us-senate-illinois-primary-results) (Tier 2)
 - [American Prospect: Illinois Senate primary features millions in outside spending](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (Tier 2)
 - [Ballotpedia: Raja Krishnamoorthi](https://ballotpedia.org/Raja_Krishnamoorthi) (Tier 3)
-- [FollowTheMoney: Raja Krishnamoorthi](https://www.followthemoney.org/tools/election-overview?eid=6265333&default=candidate) (Tier 1)
+- ~~[FollowTheMoney: Raja Krishnamoorthi](https://www.followthemoney.org/tools/election-overview?eid=6265333&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 

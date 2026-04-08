@@ -152,7 +152,7 @@ Without clarity on these questions, her fiscal watchdog credential is ambiguous.
 
 ### Sources
 
-- [FollowTheMoney.org: Betty Yee 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Betty%20Yee#[%7B1%7Cgro=d-id) (Tier 1)
+- ~~[FollowTheMoney.org: Betty Yee 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Betty%20Yee#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
 - [CapRadio: Former state Controller Betty Yee announces campaign for California governor](https://www.capradio.org/articles/2024/03/27/former-state-controller-betty-yee-announces-campaign-for-california-governor/) (Tier 2)
 - [CBS San Francisco: Former state Controller Betty Yee latest to announce 2026 run for California governor](https://www.cbsnews.com/sanfrancisco/news/betty-yee-former-california-controller-2026-campaignf-for-governor/) (Tier 2)

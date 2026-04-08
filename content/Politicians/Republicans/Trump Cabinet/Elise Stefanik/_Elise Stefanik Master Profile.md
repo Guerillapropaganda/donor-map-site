@@ -144,7 +144,7 @@ The nomination cycle revealed Stefanik's structural vulnerability: her value to 
 - [Congress.gov: Elise Stefanik](https://www.congress.gov/member/elise-stefanik/S001196) (Tier 1)
 - [Ballotpedia: Elise Stefanik](https://ballotpedia.org/Elise_Stefanik) (Tier 3)
 - [Spectrum News: Stefanik political operation raises record $7.1 million in Q1 2024](https://spectrumlocalnews.com/nys/central-ny/politics/2024/04/04/stefanik-political-operation-raises-record--7-1m-in-2024-s-first-quarter) (Tier 3)
-- [FollowTheMoney: Elise Stefanik](https://www.followthemoney.org/tools/election-overview?eid=21236694) (Tier 1)
+- ~~[FollowTheMoney: Elise Stefanik](https://www.followthemoney.org/tools/election-overview?eid=21236694)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 

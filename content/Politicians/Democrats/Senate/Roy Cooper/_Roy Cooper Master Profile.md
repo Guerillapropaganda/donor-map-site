@@ -138,7 +138,7 @@ Cooper employs classic progressive populism coupled with executive pragmatism. W
 ### Sources
 
 - [FEC: Roy Cooper Candidate Profile](https://www.fec.gov/data/candidate/S6NC00407/) (Tier 1)
-- [FollowTheMoney.org: Roy Cooper North Carolina Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46064532) (Tier 1)
+- ~~[FollowTheMoney.org: Roy Cooper North Carolina Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46064532)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2)
 - [WRAL: Cooper raises $3.4M in first 24 hours of Senate bid](https://www.wral.com/news/state/politics-us-senate-roy-cooper-fundraising-24-hours-bid-2026-election-july-2025/) (Tier 2)
 - [CBS 17: Cooper raises $14.5 million, Whatley raises $5.8 million in North Carolina Senate race](https://www.cbs17.com/news/north-carolina-news/roy-cooper-raises-14-5-million-in-north-carolina-senate-race-campaign-says/) (Tier 2)

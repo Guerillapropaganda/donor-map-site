@@ -83,7 +83,7 @@ Wicks represents the current iteration of procedural gatekeeping: a progressive-
 - [Richmond Confidential: How Charter School, Real Estate and Healthcare Money Helped Wicks Outspend Beckles](https://richmondconfidential.org/2018/11/05/how-charter-school-real-estate-and-healthcare-money-helped-wicks-outspend-beckles-4-1/) (Tier 2)
 - [48 Hills: The Big Right-Wing Money in Key East Bay Assembly Race](https://48hills.org/2018/06/big-right-wing-money-east-bay/) (Tier 2)
 - [Digital Democracy: Buffy Wicks Voting Record and Donor Profile](https://calmatters.digitaldemocracy.org/legislators/buffy-wicks-165044) (Tier 1)
-- [FollowTheMoney.org: Buffy Wicks Campaign Finance](https://www.followthemoney.org/tools/election-overview?eid=44493619) (Tier 1)
+- ~~[FollowTheMoney.org: Buffy Wicks Campaign Finance](https://www.followthemoney.org/tools/election-overview?eid=44493619)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Ballotpedia: Buffy Wicks](https://ballotpedia.org/Buffy_Wicks) (Tier 2)
 
 profile-status:: ready

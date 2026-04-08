@@ -72,18 +72,18 @@ Alaska's commercial fishing industry (salmon, halibut, pollock: $1.8B annual exp
 
 - [Alaska 2026 Senate race: Dan Sullivan vs Mary Peltola | Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Alaska,_2026) (Tier 3)
 - [Dan Sullivan 2020 campaign finances | FEC](https://www.fec.gov/data/candidate/S4AK00214/) (Tier 1)
-- [Mary Peltola campaign finances | FEC](https://www.fec.gov/data/candidate/S6AK00276/) (Tier 1)
-- [FEC Candidate: Dan Sullivan donor profile](https://www.fec.gov/data/candidate/H6MO01204/) (Tier 1)
-- [Dan Sullivan voting record: Arctic Refuge and energy votes | ProPublica Congress](https://projects.propublica.org/congress/members/S001181-dan-sullivan) (Tier 1)
+- [FEC: Mary Peltola Candidate Overview](https://www.fec.gov/data/candidate/S6AK00276/) (Tier 1)
+- [FEC: Dan Sullivan Candidate Overview](https://www.fec.gov/data/candidate/S4AK00214/) (Tier 1)
+- [FEC: ConocoPhillips SPIRIT PAC](https://www.fec.gov/data/committee/C00112896/) (Tier 1)
 - [Oil industry keeps funding Republicans despite climate crisis | Alaska Dispatch News](https://www.adn.com/politics/2025/11/14/oil-industry-keeps-funding-republicans-despite-climate-crisis/) (Tier 2)
-- [OpenSecrets: Dan Sullivan vs. challengers — Alaska 2026 outside spending](https://www.opensecrets.org/races/outside-spending?cycle=2026&id=AKS1) (Tier 1)
-- [Alaska Native voters shape 2026 race: polling shows Indigenous turnout surge | Alaska Public Media](https://www.alaskapublic.org/2026/03/alaska-native-voting-power-2026) (Tier 2)
-- [ConocoPhillips lobbying and political spending in Alaska | FollowTheMoney](https://www.followthemoney.org/Security/login?BackURL=/entity/c/1087342) (Tier 1)
-- [ExxonMobil Alaska operations and political contributions | Center for Responsive Politics](https://www.opensecrets.org/orgs/exxon-mobil-corp/summary) (Tier 1)
-- [Commercial Fishing Coalition fundraising for Peltola | FEC Itemized Contributions Search](https://www.fec.gov/data/candidate/S6AK00276/) (Tier 1)
+- [Alaska Native voters shape 2026 race | Alaska Public Media](https://www.alaskapublic.org/2026/03/alaska-native-voting-power-2026) (Tier 2)
 - [Alaska state budget oil revenue dependency analysis | Institute of the North](https://www.institutenorth.org/alaska-budget-oil-revenue) (Tier 3)
 
----
+#### Archived
+- ~~[FEC Candidate: Dan Sullivan](https://www.fec.gov/data/candidate/H6MO01204/)~~ (was Tier 1 — wrong FEC ID, shows Missouri House candidate not Alaska Senator. Replaced above)
+- ~~[ProPublica Congress: Dan Sullivan voting record](https://projects.propublica.org/congress/members/S001181-dan-sullivan)~~ (was Tier 1 — wrong member ID S001181 is Jeanne Shaheen, not Sullivan)
+- ~~[OpenSecrets: Dan Sullivan 2026 outside spending](https://www.opensecrets.org/races/outside-spending?cycle=2026&id=AKS1)~~ (was Tier 1 — OpenSecrets demoted, not government data)
+- ~~[ConocoPhillips lobbying | FollowTheMoney](https://www.followthemoney.org/Security/login?BackURL=/entity/c/1087342)~~ (was Tier 1 — FollowTheMoney dead, merged into OpenSecrets. Replaced with FEC PAC above)
+- ~~[ExxonMobil | Center for Responsive Politics](https://www.opensecrets.org/orgs/exxon-mobil-corp/summary)~~ (was Tier 1 — OpenSecrets under old name, not government data)
 
-content-readiness:: ready
-research-status:: active
+---

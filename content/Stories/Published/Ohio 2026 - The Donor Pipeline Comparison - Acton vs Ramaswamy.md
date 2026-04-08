@@ -158,7 +158,7 @@ The race pivots on three money movements over the next 7 months:
 ### Sources
 
 - [OpenSecrets: Vivek Ramaswamy 2026 Governor Campaign Finance](https://www.opensecrets.org/races/OH-Gov-2026) (Tier 1)
-- [FollowTheMoney.org: Ohio 2026 Governor Race](https://followthemoney.org/entity-race/OH/Governor/2026) (Tier 1)
+- ~~[FollowTheMoney.org: Ohio 2026 Governor Race](https://followthemoney.org/entity-race/OH/Governor/2026)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Jeff Yass personal donations tracker, Club for Growth, MAGA Inc.](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Yass) (Tier 1)
 - [ProPublica: Jeff Yass — The Billionaire GOP Mega-Donor Gaming the Tax System](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 2)
 - [Bloomberg: Stone Ridge Holdings profit, Ross Stevens Bitcoin](https://www.bloomberg.com/news/articles/stone-ridge-holdings-bitcoin) (Tier 2)

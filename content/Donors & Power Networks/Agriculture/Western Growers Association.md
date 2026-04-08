@@ -119,9 +119,9 @@ The position is not contradictory — it is coherent from a class standpoint. Th
 — 2024: $68,502 in contributions
 — 2021-22: $80,000
 — 2019-20: $49,000
-[Source: OpenSecrets / FollowTheMoney — Tier 1]
+[FEC: Western Growers Political Action Committee](https://www.fec.gov/data/committee/C00193979/) (Tier 1)
 
-**California lobbying:** ~$700,000 (specific year unclear); $190,000 in federal lobbying (2024). [Source: OpenSecrets — Tier 1]
+**California lobbying:** ~$700,000 (specific year unclear); $190,000 in federal lobbying (2024). ~~[Senate LDA: Western Growers Association Lobbying Filings](https://lda.gov/filings/public/filing/search/?client_name=Western+Growers)~~ (was Tier 1 — lda.gov mid-migration, reinstate after June 2026)
 
 **PAGA reform:** Contributed to a $9.5 million initiative effort alongside other business organizations for Private Attorneys General Act reform — a labor enforcement tool Western Growers wants weakened. [Source: CalMatters — Tier 2]
 

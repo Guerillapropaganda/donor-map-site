@@ -83,7 +83,7 @@ Cortez Masto represents the precise labor-containment function: she maintains la
 - [Senator Cortez Masto Official: Sports Betting Bill Press Release](https://www.cortezmasto.senate.gov/news/press-releases/as-football-season-begins-cortez-masto-hyde-smith-introduce-bipartisan-bill-to-boost-local-sports-tourism-and-gaming-economy/) (Tier 1)
 - [Las Vegas Review-Journal: Senators Reintroduce Bipartisan Bill to Repeal Federal Sports Betting Excise Tax](https://www.reviewjournal.com/business/casinos-gaming/bill-aims-to-repeal-federal-sports-betting-excise-tax-3441085/) (Tier 2)
 - [Las Vegas Review-Journal: Nevada's Top 10 Political Contributors](https://www.reviewjournal.com/local/local-nevada/nevadas-top-10-political-contributors-so-far/) (Tier 2)
-- [FollowTheMoney.org: Catherine Cortez Masto Campaign Finance](https://www.followthemoney.org/tools/election-overview?eid=13010255) (Tier 1)
+- ~~[FollowTheMoney.org: Catherine Cortez Masto Campaign Finance](https://www.followthemoney.org/tools/election-overview?eid=13010255)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [CBS News: Who is Catherine Cortez Masto?](https://www.cbsnews.com/news/laphonza-butler-senate-california-gavin-newsom-dianne-feinstein-seat-rcna118052) (Tier 3)
 
 profile-status:: ready

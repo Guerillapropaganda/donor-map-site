@@ -179,3 +179,19 @@ The `ops/` directory is David's app. Don't modify it unless David specifically a
 cd ops && npm run dev        # localhost:3333
 # Or double-click ops/start-ops.bat
 ```
+
+## URL & Source Citation Rules (Both Claudes)
+
+**Before adding any FEC URL, verify the committee/candidate ID is correct.** FEC IDs are opaque (e.g. C00234120, H0FL03175) — a wrong digit shows a completely different entity. Always search `site:fec.gov "Entity Name"` to confirm.
+
+**Common mistakes to avoid:**
+1. **Wrong FEC ID** — Always verify the FEC page shows the right entity name before committing. A wrong ID = wrong person/committee entirely.
+2. **Title/URL mismatch** — Link text must match the actual domain. `[OpenSecrets: X](fec.gov)` is wrong. `[FEC: X](fec.gov)` is correct.
+3. **FollowTheMoney is dead** — FollowTheMoney.org merged into OpenSecrets. All FTM URLs are broken (login redirects). Archive them on sight. Do not use FollowTheMoney as a source. Use FEC or state campaign finance databases instead.
+4. **LDA URLs broken until June 2026** — lda.gov is mid-migration. Archive LDA URLs as encountered, reinstate after June.
+5. **OpenSecrets is not Tier 1** — It's demoted. Existing citations go to Archived. Use FEC/Congress.gov equivalents.
+6. **ProPublica Nonprofit Explorer = Tier 1** (surfaces IRS 990 data). ProPublica articles = Tier 2.
+7. **FollowTheMoney = Tier 3** (aggregator), never Tier 1.
+8. **CREW (citizensforethics.org) = Tier 2** (advocacy org), not Tier 1.
+9. **Inline citations without URLs** (e.g. `[Source: OpenSecrets — Tier 1]`) — Replace with actual markdown links so the URL Manager can triage them.
+10. **FEC receipts search URLs** — Don't use complex filtered URLs (`/data/receipts/?data_type=...&contributor_state=...`). They often don't load. Use committee pages (`/data/committee/CXXXXXXXX/`) instead.

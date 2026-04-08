@@ -101,7 +101,7 @@ The United Auto Workers endorsed Whitmer for reelection. This is a genuine const
 ### Sources
 
 - [OpenSecrets: Gretchen Whitmer 2022 top industries](https://www.opensecrets.org/officeholders/gretchen-e-whitmer/industries?cycle=2022&id=253478) (Tier 1)
-- [FollowTheMoney: Whitmer donor profile](https://www.followthemoney.org/entity-details?eid=253478) (Tier 1)
+- ~~[FollowTheMoney: Whitmer donor profile](https://www.followthemoney.org/entity-details?eid=253478)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Bridge Michigan: Top 10 subsidies under Whitmer — $900M, 4,200 jobs](https://bridgemi.com/business-watch/top-10-subsidies-under-whitmer-michigan-spends-900m-firms-create-4200-jobs/) (Tier 2)
 - [Bridge Michigan: Michigan has spent $1B on EV/battery plants, 200 jobs created](https://bridgemi.com/business-watch/michigan-has-spent-1b-ev-battery-plants-so-far-theyve-created-200-jobs/) (Tier 2)
 - [Bridge Michigan: Ford retreats from EVs after Michigan spends on subsidies](https://bridgemi.com/business-watch/ford-retreats-from-evs-after-michigan-spends-big-on-subsidies-for-battery-plants/) (Tier 2)

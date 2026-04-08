@@ -195,7 +195,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 - [KFF Health News: UnitedHealth wins ruling over $2B in alleged Medicare Advantage overpayments](https://kffhealthnews.org/news/article/unitedhealth-special-master-ruling-medicare-advantage-overpayments/) (Tier 2)
 - [The Hill: Medicare Advantage overpayments cost seniors billions](https://thehill.com/policy/healthcare/5777186-medicare-advantage-overpayments-raise-premiums/) (Tier 2)
 - [Jacobin: UnitedHealthcare's decades-long fight to block reform](https://jacobin.com/2024/12/unitedhealthcare-reform-political-lobbying) (Tier 3)
-- [FollowTheMoney: Health insurance companies give healthy donations to political campaigns](https://www.followthemoney.org/research/institute-reports/health-insurance-companies-give-healthy-donations-to-political-campaigns) (Tier 1)
+- ~~[FollowTheMoney: Health insurance companies give healthy donations to political campaigns](https://www.followthemoney.org/research/institute-reports/health-insurance-companies-give-healthy-donations-to-political-campaigns)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 content-readiness:: developed
 

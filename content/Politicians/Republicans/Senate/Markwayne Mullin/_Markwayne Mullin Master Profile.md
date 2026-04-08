@@ -155,7 +155,7 @@ The 15.57% self-financing rate and low small-dollar percentage undercut the "blu
 - [Washington Post: Senate confirms Mullin as homeland security secretary](https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/) (Tier 2)
 - [TIME: Markwayne Mullin confirmed as Homeland Security Secretary](https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/wn-noem-tsa-ice/) (Tier 2)
 - [DHS: U.S. Senate Confirms Markwayne Mullin as Secretary](https://www.dhs.gov/news/2026/03/24/us-senate-confirms-markwayne-mullin-secretary-department-homeland-security) (Tier 1)
-- [FollowTheMoney: Markwayne Mullin](https://www.followthemoney.org/tools/election-overview?eid=12013169&default=candidate) (Tier 1)
+- ~~[FollowTheMoney: Markwayne Mullin](https://www.followthemoney.org/tools/election-overview?eid=12013169&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 

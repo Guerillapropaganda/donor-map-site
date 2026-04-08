@@ -154,13 +154,11 @@ CREW occupies a specific structural position in the American political ecosystem
 - [Wikipedia: Citizens for Responsibility and Ethics in Washington](https://en.wikipedia.org/wiki/Citizens_for_Responsibility_and_Ethics_in_Washington) (Tier 3)
 - [CNN: Watchdog group sues to block Trump from Colorado ballot](https://www.cnn.com/2023/09/06/politics/trump-14th-amendment-colorado/index.html) (Tier 2)
 - [Washingtonian: Can a DC Watchdog Group Keep Trump From Running?](https://washingtonian.com/2023/01/04/dc-watchdog-group-crew-trump/) (Tier 2)
-- [CREW: Lawsuit to block Trump's plan to fire government workers](https://www.citizensforethics.org/legal-action/lawsuits/trumps-plan-to-fire-government-workers-is-illegal/) (Tier 1)
+- [CREW: Lawsuit to block Trump's plan to fire government workers](https://www.citizensforethics.org/legal-action/lawsuits/trumps-plan-to-fire-government-workers-is-illegal/) (Tier 2)
 - [NPR: New lawsuit takes aim at Trump and DOGE's government overhaul](https://www.npr.org/2025/04/29/nx-s1-5380783/trump-doge-lawsuit-federal-workers-cities) (Tier 2)
 - [Ballotpedia: Citizens for Responsibility and Ethics in Washington](https://ballotpedia.org/Citizens_for_Responsibility_and_Ethics_in_Washington) (Tier 3)
 - [Charity Navigator: CREW rating](https://www.charitynavigator.org/ein/030445391) (Tier 3)
-- [CREW: Statement on SCOTUS 14th Amendment decision](https://www.citizensforethics.org/news/press-releases/crew-statement-on-scotus-14th-amendment-decision/) (Tier 1)
-
-content-readiness:: developed
+- [CREW: Statement on SCOTUS 14th Amendment decision](https://www.citizensforethics.org/news/press-releases/crew-statement-on-scotus-14th-amendment-decision/) (Tier 2)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

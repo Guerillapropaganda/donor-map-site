@@ -157,7 +157,7 @@ This unresolved contradiction makes the CTA endorsement decision even more signi
 
 ### Sources
 
-- [FollowTheMoney.org: Tony Thurmond 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Tony%20Thurmond#[%7B1%7Cgro=d-id) (Tier 1)
+- ~~[FollowTheMoney.org: Tony Thurmond 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Tony%20Thurmond#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
 - [EdSource: Tony Thurmond cruises to reelection as California state superintendent](https://edsource.org/2022/tony-thurmond-cruises-to-re-election-as-california-state-superintendent/681035) (Tier 2)
 - [EdSource: Schools chief uses influence to shape policy during pandemic, but lacks power to make big decisions](https://edsource.org/2021/state-schools-chief-lacks-power-to-make-big-decisions-uses-influence-to-shape-policy-during-pandemic/651480) (Tier 2)

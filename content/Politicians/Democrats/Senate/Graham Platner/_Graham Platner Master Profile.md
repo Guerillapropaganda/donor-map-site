@@ -241,7 +241,7 @@ If Mills defeats Platner despite Sanders + Warren backing:
 ### Sources
 
 - [FEC: Graham Platner Candidate Profile](https://www.fec.gov/data/candidate/S6ME00373/) (Tier 1)
-- [FollowTheMoney.org: Graham Platner Maine Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46011295) (Tier 1)
+- ~~[FollowTheMoney.org: Graham Platner Maine Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46011295)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Elizabeth Warren Backs Graham Platner in Maine Senate Race, Bucking Democratic Leadership](https://www.notus.org/2026-election/elizabeth-warren-graham-platner-maine-senate-endorse) (Tier 2)
 - [Elizabeth Warren endorses Graham Platner over Janet Mills in Maine Senate primary](https://thehill.com/homenews/campaign/5791291-warren-endorses-platner-maine-senate-primary/) (Tier 2)
 - [Graham Platner - Wikipedia](https://en.wikipedia.org/wiki/Graham_Platner) (Tier 3)

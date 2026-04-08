@@ -64,7 +64,7 @@ The clean-record system is PORAC's most important institutional product — more
 ### Who They Fund
 
 > [!money]
-> **[[_Gavin Newsom Master Profile|Gavin Newsom]]:** PORAC and LAPPL combined contributed **$47,100** to Newsom's 2022 campaign. Law enforcement unions collectively invested **$2.1+ million** in the 2021 recall defense. PORAC spent **$1.6 million** on political campaigns 2011–2017. Over **$1 million** to state Legislature and statewide offices in the 2022 cycle alone. [Source: CalMatters / FollowTheMoney — Tier 2]
+> **[[_Gavin Newsom Master Profile|Gavin Newsom]]:** PORAC and LAPPL combined contributed **$47,100** to Newsom's 2022 campaign. Law enforcement unions collectively invested **$2.1+ million** in the 2021 recall defense. PORAC spent **$1.6 million** on political campaigns 2011–2017. Over **$1 million** to state Legislature and statewide offices in the 2022 cycle alone. [Source: CalMatters / FollowTheMoney — Tier 2] (URL NEEDED — FollowTheMoney dead, replace with FEC or state campaign finance database)
 
 **Broader law enforcement spending context (2019-20 cycle):** Law enforcement unions spent **$2.7 million** in California political races. PORAC is the largest single contributor within this network.
 
@@ -110,7 +110,7 @@ Clean-Record Agreements — the most underreported mechanism of police union pow
 - [CalMatters: Cop cash — law enforcement campaign contributions](https://calmatters.org/category/politics/2022/03/california-law-enforcement-campaign-contributions/) (Tier 2)
 - [UC Berkeley Journalism: PORAC clean-record agreements](https://journalism.berkeley.edu/projects/this-is-the-secret-system-that-covers-up-police-misconduct-and-ensures-problem-officers-can-get-hired-again/) (Tier 2)
 - [Courage California Institute: Police union spending](https://couragecaliforniainstitute.org/investing-in-public-safety-the-influence-of-police-unions-and-associations/) (Tier 2)
-- [FollowTheMoney.org: PORAC political spending](https://followthemoney.org/?q=PORAC) (Tier 1)
+- ~~[FollowTheMoney.org: PORAC political spending](https://followthemoney.org/?q=PORAC)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 research-status:: ready — 85K+ members, 950+ associations, LDF $39-51M reserves, $20M annual misconduct defense, 297+ clean-record officers, AB 392/SB 2/AB 847 legislative positions, $2.1M+ recall spending. 6 sources, Tier 1-4. All ### headers. Promoted Session 38l.
 content-readiness:: ready
