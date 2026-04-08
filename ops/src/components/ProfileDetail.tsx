@@ -122,8 +122,8 @@ export function ProfileDetail({ profile, onClose }: ProfileDetailProps) {
             {profile.sector && <MetaItem label="Sector" value={profile.sector} />}
             {profile.totalRaised && <MetaItem label="Total Raised" value={profile.totalRaised} />}
             {profile.lobbyingSpend && <MetaItem label="Lobbying" value={profile.lobbyingSpend} />}
-            {profile.lastUpdated && <MetaItem label="Updated" value={profile.lastUpdated} />}
-            {profile.lastEnriched && <MetaItem label="Enriched" value={profile.lastEnriched} />}
+            {profile.lastUpdated && <MetaItem label="Updated" value={formatDate(profile.lastUpdated)} />}
+            {profile.lastEnriched && <MetaItem label="Enriched" value={formatDate(profile.lastEnriched)} />}
           </div>
 
           {/* Connections */}
@@ -197,6 +197,13 @@ export function ProfileDetail({ profile, onClose }: ProfileDetailProps) {
       )}
     </div>
   )
+}
+
+function formatDate(d: string): string {
+  if (!d) return ""
+  // Handle ISO timestamps like "2026-04-02T00:00:00.000Z" → "2026-04-02"
+  if (d.includes("T")) return d.split("T")[0]
+  return d
 }
 
 function MetaItem({ label, value }: { label: string; value: string }) {

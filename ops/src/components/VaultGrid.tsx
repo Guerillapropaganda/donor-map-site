@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useMemo, useRef } from "react"
+import { useRouter } from "next/navigation"
 import type { Profile } from "@/lib/vault"
 import { readinessColor, typeColor, profileNeeds } from "@/lib/vault"
 
@@ -32,6 +33,7 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
   const [sortBy, setSortBy] = useState<"name" | "readiness" | "updated" | "completeness" | "stale">("name")
   const [letterFilter, setLetterFilter] = useState<string>("all")
   const gridRef = useRef<HTMLDivElement>(null)
+  const router = useRouter()
 
   const types = useMemo(() => {
     const t = new Set(profiles.map((p) => p.type))
@@ -222,6 +224,7 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
           <button
             key={profile.path}
             onClick={() => onSelect(profile)}
+            onDoubleClick={() => router.push(`/profile?path=${encodeURIComponent(profile.path)}`)}
             className={`group relative bg-[var(--color-bg-card)] border rounded-lg p-3 text-left transition-all hover:bg-[var(--color-bg-hover)] hover:border-[var(--color-steel)]/50 ${
               selectedPath === profile.path
                 ? "border-[var(--color-steel)] ring-1 ring-[var(--color-steel)]/30"
