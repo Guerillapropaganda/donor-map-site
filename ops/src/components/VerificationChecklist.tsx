@@ -9,15 +9,16 @@ interface ChecklistItem {
   label: string
   check: (profile: Profile, raw: string) => boolean
   naAllowed?: boolean  // Can be marked N/A
+  pipeline?: string    // Pipeline script name (e.g., "fec", "congress", "govtrack")
 }
 
 // Role-specific politician checklists
 function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
   const common: ChecklistItem[] = [
-    { id: "fec-data", label: "FEC fundraising data", check: (p, raw) => !!p.totalRaised || raw.includes("<!-- auto:fec-fundraising") || raw.includes("<!-- auto:fec-politician") },
+    { id: "fec-data", label: "FEC fundraising data", pipeline: "fec", check: (p, raw) => !!p.totalRaised || raw.includes("<!-- auto:fec-fundraising") || raw.includes("<!-- auto:fec-politician") },
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p) => (p.sourceTypes || []).length >= 2 },
     { id: "connections", label: "Connections mapped (donors + related)", check: (p) => !!(p.related || p.donors) },
-    { id: "enriched", label: "Enriched within 90 days", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
+    { id: "enriched", label: "Enriched within 90 days", pipeline: "all", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
     { id: "contradiction-review", label: "Contradiction investigation complete (Research Claude)", check: (_, raw) => raw.includes("[!contradiction-cleared]") || !raw.includes("[!contradiction]") },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ]
@@ -26,10 +27,10 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
 
   if (ch === "presidential" || ch === "president") {
     return [
-      { id: "executive-orders", label: "Executive orders documented", check: (_, raw) => raw.includes("<!-- auto:executive-orders") || raw.includes("<!-- auto:federal-register") },
+      { id: "executive-orders", label: "Executive orders documented", pipeline: "executive-orders", check: (_, raw) => raw.includes("<!-- auto:executive-orders") || raw.includes("<!-- auto:federal-register") },
       { id: "cabinet-appointments", label: "Cabinet appointments documented", check: (_, raw) => raw.toLowerCase().includes("cabinet") || raw.toLowerCase().includes("appointed") },
-      { id: "voting-records", label: "Prior voting record (if applicable)", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record"), naAllowed: true },
-      { id: "fec-data", label: "FEC fundraising data", check: (p, raw) => !!p.totalRaised || raw.includes("<!-- auto:fec") },
+      { id: "voting-records", label: "Prior voting record (if applicable)", pipeline: "govtrack", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record"), naAllowed: true },
+      { id: "fec-data", label: "FEC fundraising data", pipeline: "fec", check: (p, raw) => !!p.totalRaised || raw.includes("<!-- auto:fec") },
       ...common,
     ]
   }
@@ -38,7 +39,7 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
     return [
       { id: "executive-actions", label: "Executive actions / state orders documented", check: (_, raw) => raw.toLowerCase().includes("executive order") || raw.toLowerCase().includes("signed into law") },
       { id: "state-legislation", label: "Key state legislation", check: (_, raw) => raw.toLowerCase().includes("signed") || raw.toLowerCase().includes("vetoed"), naAllowed: true },
-      { id: "voting-records", label: "Prior voting record (if applicable)", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record"), naAllowed: true },
+      { id: "voting-records", label: "Prior voting record (if applicable)", pipeline: "govtrack", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record"), naAllowed: true },
       ...common,
     ]
   }
@@ -47,16 +48,16 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
     return [
       { id: "appointment", label: "Appointment & confirmation documented", check: (_, raw) => raw.toLowerCase().includes("confirmed") || raw.toLowerCase().includes("appointed") || raw.toLowerCase().includes("nominated") },
       { id: "prior-role", label: "Prior role / revolving door documented", check: (_, raw) => raw.toLowerCase().includes("previously") || raw.toLowerCase().includes("former") },
-      { id: "voting-records", label: "Prior voting record (if applicable)", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record"), naAllowed: true },
+      { id: "voting-records", label: "Prior voting record (if applicable)", pipeline: "govtrack", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record"), naAllowed: true },
       ...common,
     ]
   }
 
   // Default: Congress (Senate/House)
   return [
-    { id: "voting-records", label: "Voting records exist", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record") },
-    { id: "committee-assignments", label: "Committee assignments", check: (p, raw) => !!p.committees || raw.includes("<!-- auto:committee-assignments") },
-    { id: "bills", label: "Bills sponsored/cosponsored", check: (p) => (p.billsSponsored || 0) > 0 || (p.billsCosponsored || 0) > 0, naAllowed: true },
+    { id: "voting-records", label: "Voting records exist", pipeline: "govtrack", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record") },
+    { id: "committee-assignments", label: "Committee assignments", pipeline: "committee", check: (p, raw) => !!p.committees || raw.includes("<!-- auto:committee-assignments") },
+    { id: "bills", label: "Bills sponsored/cosponsored", pipeline: "congress", check: (p) => (p.billsSponsored || 0) > 0 || (p.billsCosponsored || 0) > 0, naAllowed: true },
     ...common,
   ]
 }
@@ -64,24 +65,24 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
 const CHECKLISTS: Record<string, ChecklistItem[]> = {
   // politician is handled by getPoliticianChecklist() — see getChecklist() below
   donor: [
-    { id: "politicians-funded", label: "Politicians funded documented", check: (p) => !!p.politiciansFunded },
-    { id: "contribution-amounts", label: "Total contribution amounts", check: (p) => !!p.totalPoliticalSpend || !!p.totalRaised },
-    { id: "lobbying", label: "Lobbying spend", check: (p) => !!p.lobbyingSpend, naAllowed: true },
+    { id: "politicians-funded", label: "Politicians funded documented", pipeline: "fec", check: (p) => !!p.politiciansFunded },
+    { id: "contribution-amounts", label: "Total contribution amounts", pipeline: "fec", check: (p) => !!p.totalPoliticalSpend || !!p.totalRaised },
+    { id: "lobbying", label: "Lobbying spend", pipeline: "lda", check: (p) => !!p.lobbyingSpend, naAllowed: true },
     { id: "sector", label: "Sector classified", check: (p) => !!p.sector },
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p) => (p.sourceTypes || []).length >= 2 },
     { id: "connections", label: "Connections mapped", check: (p) => !!(p.related || p.donors) },
-    { id: "enriched", label: "Enriched within 90 days", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
+    { id: "enriched", label: "Enriched within 90 days", pipeline: "all", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   corporation: [
-    { id: "pac-contributions", label: "PAC contributions / politicians funded", check: (p, raw) => !!p.politiciansFunded || raw.includes("<!-- auto:fec-donor") },
-    { id: "lobbying", label: "Lobbying filings", check: (p, raw) => !!p.lobbyingSpend || raw.includes("<!-- auto:lda-lobbying") },
-    { id: "contracts", label: "Federal contracts", check: (_, raw) => raw.includes("<!-- auto:usaspending") || raw.includes("<!-- auto:sam-contracts") },
-    { id: "sec-filings", label: "SEC filings", check: (_, raw) => raw.includes("<!-- auto:sec-edgar"), naAllowed: true },
-    { id: "regulatory", label: "Regulatory record (EPA/OSHA)", check: (_, raw) => raw.includes("<!-- auto:epa-echo") || raw.includes("<!-- auto:osha"), naAllowed: true },
+    { id: "pac-contributions", label: "PAC contributions / politicians funded", pipeline: "fec", check: (p, raw) => !!p.politiciansFunded || raw.includes("<!-- auto:fec-donor") },
+    { id: "lobbying", label: "Lobbying filings", pipeline: "lda", check: (p, raw) => !!p.lobbyingSpend || raw.includes("<!-- auto:lda-lobbying") },
+    { id: "contracts", label: "Federal contracts", pipeline: "usaspending", check: (_, raw) => raw.includes("<!-- auto:usaspending") || raw.includes("<!-- auto:sam-contracts") },
+    { id: "sec-filings", label: "SEC filings", pipeline: "sec-edgar", check: (_, raw) => raw.includes("<!-- auto:sec-edgar"), naAllowed: true },
+    { id: "regulatory", label: "Regulatory record (EPA/OSHA)", pipeline: "epa-echo", check: (_, raw) => raw.includes("<!-- auto:epa-echo") || raw.includes("<!-- auto:osha"), naAllowed: true },
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p) => (p.sourceTypes || []).length >= 2 },
     { id: "connections", label: "Connections mapped", check: (p) => !!(p.related || p.donors) },
-    { id: "enriched", label: "Enriched within 90 days", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
+    { id: "enriched", label: "Enriched within 90 days", pipeline: "all", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   "media-profile": [
@@ -89,29 +90,29 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "political-lean", label: "Political lean sourced", check: (p) => !!p.category },
     { id: "connected", label: "Connected donors/politicians", check: (p) => !!p.related },
     { id: "platform", label: "Platform documented", check: (p) => !!p.platform },
-    { id: "source-type", label: "1+ Tier 1 source type", check: (p) => (p.sourceTypes || []).length >= 1, naAllowed: true },
+    { id: "source-type", label: "1+ Tier 1 source type", pipeline: "fec", check: (p) => (p.sourceTypes || []).length >= 1, naAllowed: true },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   "think-tank": [
     { id: "funders", label: "Top funders documented", check: (p) => !!(p.donors || p.related) },
-    { id: "990-data", label: "990 data (revenue, tax status)", check: (p, raw) => !!(p.ein || p.totalRevenue) || raw.includes("<!-- auto:nonprofit-990") },
+    { id: "990-data", label: "990 data (revenue, tax status)", pipeline: "nonprofit-990", check: (p, raw) => !!(p.ein || p.totalRevenue) || raw.includes("<!-- auto:nonprofit-990") },
     { id: "policy-mapped", label: "Policy positions mapped", check: (p) => !!p.related },
     { id: "tax-status", label: "Tax status documented", check: (p) => !!(p.taxStatus || p.nonprofitStatus) },
     { id: "source-type", label: "1+ Tier 1 source type", check: (p) => (p.sourceTypes || []).length >= 1 },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   "lobbying-firm": [
-    { id: "client-list", label: "Client list documented", check: (_, raw) => raw.includes("<!-- auto:lda-lobbying") || raw.includes("client") },
-    { id: "lobbying-spend", label: "Lobbying spend totals", check: (p) => !!p.lobbyingSpend },
-    { id: "fara", label: "FARA registrations", check: (p, raw) => !!p.faraClients || raw.includes("<!-- auto:fara"), naAllowed: true },
+    { id: "client-list", label: "Client list documented", pipeline: "lda", check: (_, raw) => raw.includes("<!-- auto:lda-lobbying") || raw.includes("client") },
+    { id: "lobbying-spend", label: "Lobbying spend totals", pipeline: "lda", check: (p) => !!p.lobbyingSpend },
+    { id: "fara", label: "FARA registrations", pipeline: "fara", check: (p, raw) => !!p.faraClients || raw.includes("<!-- auto:fara"), naAllowed: true },
     { id: "revolving-door", label: "Revolving door documented", check: (p) => !!p.revolvingDoorPct, naAllowed: true },
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p) => (p.sourceTypes || []).length >= 2 },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   pac: [
-    { id: "fec-data", label: "FEC fundraising data", check: (_, raw) => raw.includes("<!-- auto:fec") },
+    { id: "fec-data", label: "FEC fundraising data", pipeline: "fec", check: (_, raw) => raw.includes("<!-- auto:fec") },
     { id: "donors-mapped", label: "Donors mapped", check: (p) => !!p.donors },
-    { id: "politicians-funded", label: "Politicians funded", check: (p) => !!p.politiciansFunded || !!p.related },
+    { id: "politicians-funded", label: "Politicians funded", pipeline: "fec", check: (p) => !!p.politiciansFunded || !!p.related },
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p) => (p.sourceTypes || []).length >= 2 },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
@@ -150,9 +151,10 @@ interface Props {
   profile: Profile
   raw: string
   onSaveNa: (naItems: string[]) => void
+  onRunPipeline?: (pipeline: string, profileTitle: string) => void
 }
 
-export function VerificationChecklist({ profile, raw, onSaveNa }: Props) {
+export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }: Props) {
   const items = profile.type === "politician"
     ? getPoliticianChecklist(profile.chamber)
     : (CHECKLISTS[profile.type] || DEFAULT_CHECKLIST)
@@ -224,6 +226,21 @@ export function VerificationChecklist({ profile, raw, onSaveNa }: Props) {
               <span className={`text-[10px] flex-1 ${na ? "line-through text-[var(--color-text-dim)]" : passed ? "text-[var(--color-text)]" : "text-[var(--color-red)]"}`}>
                 {item.label}
               </span>
+
+              {/* Run pipeline button */}
+              {item.pipeline && !na && onRunPipeline && (
+                <button
+                  onClick={(e) => { e.stopPropagation(); onRunPipeline(item.pipeline!, profile.title) }}
+                  className={`text-[8px] px-1.5 py-0.5 rounded border transition-colors ${
+                    passed
+                      ? "border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-steel)] hover:border-[var(--color-steel)]/30"
+                      : "border-[var(--color-steel)]/30 text-[var(--color-steel)] hover:bg-[var(--color-steel)]/10"
+                  }`}
+                  title={`Run ${item.pipeline} pipeline on ${profile.title}`}
+                >
+                  ▶ {item.pipeline}
+                </button>
+              )}
 
               {/* N/A reason */}
               {na && naReasonText && (

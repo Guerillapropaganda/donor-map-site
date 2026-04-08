@@ -797,6 +797,24 @@ export default function ProfilePage() {
               })
               setProfile({ ...profile, checklistNa: naItems })
             }}
+            onRunPipeline={async (pipeline, profileTitle) => {
+              setReadinessMsg(`Running ${pipeline} pipeline on ${profileTitle}...`)
+              try {
+                const res = await fetch("/api/pipelines/run", {
+                  method: "POST",
+                  headers: { "Content-Type": "application/json" },
+                  body: JSON.stringify({ pipeline, profile: profileTitle, limit: 1 }),
+                })
+                const data = await res.json()
+                if (data.success) {
+                  setReadinessMsg(`${pipeline} pipeline triggered for ${profileTitle}`)
+                } else {
+                  setReadinessMsg(`Pipeline error: ${data.error || "GitHub Actions may be disabled"}`)
+                }
+              } catch {
+                setReadinessMsg("Pipeline error: GitHub Actions may be disabled")
+              }
+            }}
           />
 
           {/* Pipeline Data Viewer — voting records, committees, bills, etc. */}
