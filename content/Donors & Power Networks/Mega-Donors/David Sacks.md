@@ -63,6 +63,7 @@ donors: >-
 related: >-
   [[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]]
   · [[Steve Witkoff]]
+stories: '[[The Billionaire Cabinet - Wealthiest Administration in History]]'
 ---
 
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast
