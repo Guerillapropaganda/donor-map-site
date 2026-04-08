@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
 import "./globals.css"
 import { Sidebar } from "@/components/Sidebar"
+import { ClientProviders } from "@/components/ClientProviders"
 
 export const metadata: Metadata = {
   title: "Donor Map Ops",
@@ -22,8 +23,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
       </head>
       <body className="flex min-h-screen">
-        <Sidebar />
-        <main className="flex-1 ml-56 p-6 overflow-auto">{children}</main>
+        <ClientProviders>
+          <Sidebar />
+          <main className="flex-1 ml-56 p-6 overflow-auto">{children}</main>
+        </ClientProviders>
       </body>
     </html>
   )

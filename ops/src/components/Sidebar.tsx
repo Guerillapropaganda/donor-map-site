@@ -12,6 +12,7 @@ const NAV_ITEMS = [
   { href: "/relationships", label: "Relationships", icon: "link" },
   { href: "/editor", label: "Editor", icon: "edit" },
   { href: "/publisher", label: "Publisher", icon: "plus" },
+  { href: "/profile", label: "Profile View", icon: "user" },
   { href: "/alerts", label: "Alerts", icon: "bell" },
   { href: "/distribution", label: "Distribution", icon: "share" },
 ]
@@ -26,6 +27,7 @@ const ICONS: Record<string, string> = {
   link: "M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1",
   edit: "M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z",
   bell: "M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9",
+  user: "M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z",
   share: "M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z",
 }
 
@@ -42,6 +44,20 @@ export function Sidebar() {
         <p className="text-[10px] tracking-[0.2em] text-[var(--color-text-dim)] mt-0.5">
           OPERATIONS CENTER
         </p>
+      </div>
+
+      {/* Quick Search */}
+      <div className="px-3 pt-3 pb-1">
+        <button
+          onClick={() => window.dispatchEvent(new KeyboardEvent("keydown", { key: "k", ctrlKey: true }))}
+          className="w-full flex items-center gap-2 px-3 py-2 rounded-lg border border-[var(--color-border)] bg-[var(--color-bg)] text-[var(--color-text-dim)] hover:border-[var(--color-steel)]/30 hover:text-[var(--color-text)] transition-colors"
+        >
+          <svg width={12} height={12} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+          <span className="text-[10px] flex-1 text-left">Search...</span>
+          <kbd className="text-[8px] px-1 py-0.5 rounded border border-[var(--color-border)]">Ctrl+K</kbd>
+        </button>
       </div>
 
       {/* Nav */}
@@ -70,7 +86,7 @@ export function Sidebar() {
       {/* Footer */}
       <div className="p-4 border-t border-[var(--color-border)]">
         <p className="text-[9px] text-[var(--color-text-dim)] tracking-wider">
-          v1.0 — Complete
+          v1.1
         </p>
       </div>
     </aside>

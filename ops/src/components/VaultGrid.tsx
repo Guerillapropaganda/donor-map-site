@@ -152,12 +152,17 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
                 : "border-[var(--color-border)]"
             }`}
           >
-            {/* Readiness dot */}
-            <div
-              className="absolute top-2 right-2 w-2 h-2 rounded-full"
-              style={{ backgroundColor: readinessColor(profile.contentReadiness) }}
-              title={profile.contentReadiness}
-            />
+            {/* Readiness badge */}
+            <span
+              className="absolute top-2 right-2 text-[7px] uppercase font-bold px-1.5 py-0.5 rounded"
+              style={{
+                color: readinessColor(profile.contentReadiness),
+                backgroundColor: `${readinessColor(profile.contentReadiness)}15`,
+                border: `1px solid ${readinessColor(profile.contentReadiness)}30`,
+              }}
+            >
+              {profile.contentReadiness}
+            </span>
 
             {/* Type badge */}
             <span
@@ -194,13 +199,26 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
               )}
             </div>
 
-            {/* Enrichment indicator */}
-            {profile.lastEnriched && (
-              <div className="mt-1.5 flex items-center gap-1">
-                <div className="w-1.5 h-1.5 rounded-full bg-[var(--color-green)]" />
-                <span className="text-[8px] text-[var(--color-text-dim)]">Enriched</span>
-              </div>
-            )}
+            {/* Readiness progress bar */}
+            <div className="mt-2 w-full h-1 rounded-full bg-[var(--color-bg)] overflow-hidden">
+              <div
+                className="h-full rounded-full transition-all"
+                style={{
+                  backgroundColor: readinessColor(profile.contentReadiness),
+                  width: `${({ raw: 10, draft: 30, developed: 55, verified: 80, ready: 100 }[profile.contentReadiness] || 10)}%`,
+                }}
+              />
+            </div>
+
+            {/* Enrichment + source tier indicators */}
+            <div className="mt-1.5 flex items-center gap-1.5">
+              {profile.lastEnriched && (
+                <span className="text-[7px] px-1 py-0.5 rounded bg-[var(--color-green)]/10 text-[var(--color-green)]">Enriched</span>
+              )}
+              {profile.sourceTier && (
+                <span className="text-[7px] px-1 py-0.5 rounded bg-[var(--color-steel)]/10 text-[var(--color-steel)]">Tier {profile.sourceTier}</span>
+              )}
+            </div>
           </button>
         ))}
       </div>
