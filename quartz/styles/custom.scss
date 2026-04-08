@@ -335,6 +335,59 @@ tr:hover td {
   background: #141419 !important;
 }
 
+// ── Responsive tables: stack on mobile ──
+@media (max-width: 768px) {
+  table {
+    width: 100% !important;
+    min-width: unset !important;
+  }
+
+  thead {
+    display: none; // hide header row
+  }
+
+  tbody tr {
+    display: block;
+    background: #0e0e14;
+    border: 1px solid #1e1e28;
+    border-radius: 6px;
+    margin-bottom: 8px;
+    padding: 8px 0;
+  }
+
+  tbody tr:nth-child(even) {
+    background: #111118;
+  }
+
+  td {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 6px 12px !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03) !important;
+    font-size: 12px;
+    min-width: unset !important;
+
+    &::before {
+      content: attr(data-label);
+      font-family: 'Space Mono', monospace;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #7a7a86;
+      flex-shrink: 0;
+      margin-right: 12px;
+      padding-top: 2px;
+    }
+  }
+
+  // Hide scroll wrapper overflow on mobile
+  .table-scroll-wrap {
+    overflow-x: visible;
+  }
+}
+
 // Smart cell detection classes (applied by DOM script)
 .cell-money {
   font-family: 'Space Mono', monospace !important;

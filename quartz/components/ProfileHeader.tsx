@@ -300,6 +300,24 @@ function enhanceTables() {
       wrap.appendChild(table);
     }
 
+    // Add data-label for responsive mobile stacking
+    var headers = table.querySelectorAll('th');
+    var headerLabels = [];
+    for (var h = 0; h < headers.length; h++) {
+      headerLabels.push((headers[h].textContent || '').trim());
+    }
+    if (headerLabels.length > 0) {
+      var rows = table.querySelectorAll('tbody tr');
+      for (var r = 0; r < rows.length; r++) {
+        var rowCells = rows[r].querySelectorAll('td');
+        for (var rc = 0; rc < rowCells.length; rc++) {
+          if (headerLabels[rc]) {
+            rowCells[rc].setAttribute('data-label', headerLabels[rc]);
+          }
+        }
+      }
+    }
+
     // Scan cells for content-based styling
     var cells = table.querySelectorAll('td');
     for (var c = 0; c < cells.length; c++) {
