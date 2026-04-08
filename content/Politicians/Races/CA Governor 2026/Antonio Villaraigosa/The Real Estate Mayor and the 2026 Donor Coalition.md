@@ -1,16 +1,17 @@
 ---
-title: "The Real Estate Mayor and the 2026 Donor Coalition"
+title: The Real Estate Mayor and the 2026 Donor Coalition
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: '2026-04-08'
 source-tier: 2
-parent: [[_Antonio Villaraigosa Master Profile]]
+parent:
+  - - _Antonio Villaraigosa Master Profile
 ---
 
 
 #antonio-villaraigosa #real-estate-machine #gentrification #safer-cities #developer-coalition #2026 #class-analysis
 
-related: [[_Antonio Villaraigosa Master Profile]] · [[California Building and Construction Trades Council]] · [[California Apartment Association]] · [[Charter Schools and the Billionaire Reform Movement]]
+related: [[California Building and Construction Trades Council]] · [[California Apartment Association]] · [[Charter Schools and the Billionaire Reform Movement]]
 
 donors: [[California Building and Construction Trades Council]] · [[California Apartment Association]]
 
