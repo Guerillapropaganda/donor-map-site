@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Josh Shapiro Master Profile]]
-related: "[[The Biden Exit and Harris Installation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]]"
+related: "[[The Biden Exit and Harris Installation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Early History and Background Ties 2003-2019]]"
 ---
 
 

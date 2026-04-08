@@ -44,7 +44,7 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "511210"
 lei: "549300UVN46B3BBDHO85"
 lei-jurisdiction: "US-DE"
-related: "[[Palantir Technologies Political Operation]] · [[Invariant]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]]"
+related: "[[Palantir Technologies Political Operation]] · [[Invariant]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]] · [[Ballard Partners]]"
 ---
 
 

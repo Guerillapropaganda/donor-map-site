@@ -29,7 +29,7 @@ court-jurisdictions:
   - "District Court, M.D. Florida"
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
-related: "[[Dan Osborn Master Profile]] · [[Jeff Merkley Master Profile]] · [[Joseph Morelle Master Profile]] · [[Texas 2026 Senate Race]]"
+related: "[[Dan Osborn Master Profile]] · [[Jeff Merkley Master Profile]] · [[Joseph Morelle Master Profile]] · [[Texas 2026 Senate Race]] · [[Minnesota 2026 Senate Race]]"
 ---
 
 #labor #unions #democratic #organizing #collective-bargaining #pac #decline
