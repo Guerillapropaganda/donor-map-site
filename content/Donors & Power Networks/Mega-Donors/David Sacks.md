@@ -1,64 +1,68 @@
 ---
-title: "David Sacks"
+title: David Sacks
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: '2026-04-08'
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
+sector: Mega-Donors
+entity-type: Individual Donor
 politicians-funded:
-  - "Donald Trump"
-  - "Bernie Moreno"
-  - "Sherrod Brown"
-  - "Jon Ossoff"
+  - Donald Trump
+  - Bernie Moreno
+  - Sherrod Brown
+  - Jon Ossoff
 issues:
-  - "Technology"
-ein: "746417564"
-annual-revenue: "$22K"
-net-assets: "$634K"
-tax-year: "2023"
+  - Technology
+ein: '746417564'
+annual-revenue: $22K
+net-assets: $634K
+tax-year: '2023'
 sec-filings: 218
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
-  - "10-Q/A"
-  - "4"
-  - "424B3"
-  - "425"
-  - "497AD"
-  - "8-K"
-  - "D"
-  - "D/A"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-10.6"
-  - "EX-24"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.7"
-  - "PRE 14A"
-  - "S-4/A"
-  - "S-8"
-  - "SC 13D/A"
-total-political-spend: "$458,349"
+  - 10-K
+  - 10-K/A
+  - 10-Q
+  - 10-Q/A
+  - '4'
+  - 424B3
+  - '425'
+  - 497AD
+  - 8-K
+  - D
+  - D/A
+  - DEF 14A
+  - DEFA14A
+  - DFAN14A
+  - EX-10.6
+  - EX-24
+  - EX-99.1
+  - EX-99.2
+  - EX-99.7
+  - PRE 14A
+  - S-4/A
+  - S-8
+  - SC 13D/A
+total-political-spend: '$458,349'
 court-cases: 98
-last-enriched: "2026-04-08"
+last-enriched: '2026-04-08'
 court-jurisdictions:
-  - "Court of Appeals for the First Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Delaware"
-  - "District Court, D. Maryland"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. New Jersey"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, N.D. Ohio"
-  - "District Court, S.D. New York"
-donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]]"
-related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[Sherrod Brown]] · [[Steve Witkoff]]"
+  - Court of Appeals for the First Circuit
+  - 'District Court, C.D. California'
+  - 'District Court, D. Delaware'
+  - 'District Court, D. Maryland'
+  - 'District Court, D. Massachusetts'
+  - 'District Court, D. New Jersey'
+  - 'District Court, N.D. California'
+  - 'District Court, N.D. Illinois'
+  - 'District Court, N.D. Ohio'
+  - 'District Court, S.D. New York'
+donors: >-
+  [[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen &
+  Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]]
+related: >-
+  [[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]]
+  · [[Steve Witkoff]]
 ---
 
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast
