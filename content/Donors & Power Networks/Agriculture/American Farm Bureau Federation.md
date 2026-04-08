@@ -237,7 +237,7 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 | Net Assets | $108.4M |
 | Officer Compensation | $2.5M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 360725160](https://projects.propublica.org/nonprofits/organizations/360725160) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 360725160](https://projects.propublica.org/nonprofits/organizations/360725160) (Tier 1) (VERIFIED)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F360725160_202311_990O_2024121122947525.pdf) (Tier 1)
 
 <!-- auto:propublica-990 end -->
