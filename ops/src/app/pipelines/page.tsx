@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback } from "react"
 import { EnrichmentPanel } from "@/components/EnrichmentPanel"
 import { PipelineRunHistory } from "@/components/PipelineRunHistory"
 import { ProfileEnrich } from "@/components/ProfileEnrich"
+import { EnrichmentHistory } from "@/components/EnrichmentHistory"
 
 export default function PipelinesPage() {
   const [triggering, setTriggering] = useState(false)
@@ -83,6 +84,11 @@ export default function PipelinesPage() {
         <div>
           <PipelineRunHistory />
         </div>
+      </div>
+
+      {/* Enrichment Results — what came in */}
+      <div className="mt-8">
+        <EnrichmentHistory />
       </div>
     </div>
   )

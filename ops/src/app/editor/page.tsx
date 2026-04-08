@@ -21,6 +21,7 @@ export default function EditorPage() {
   const [confirmDelete, setConfirmDelete] = useState(false)
   const [message, setMessage] = useState<{ text: string; type: "success" | "error" } | null>(null)
   const [dirty, setDirty] = useState(false)
+  const [viewMode, setViewMode] = useState<"edit" | "preview" | "split">("edit")
 
   useEffect(() => {
     fetch("/api/vault")
@@ -147,6 +148,43 @@ export default function EditorPage() {
     }
   }
 
+  // Simple markdown to HTML renderer
+  function renderMarkdown(md: string): string {
+    let html = md
+      // Escape HTML
+      .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      // Headers
+      .replace(/^### (.+)$/gm, '<h3 style="font-size:14px;font-weight:bold;color:#e4e4e7;margin:16px 0 8px;">$1</h3>')
+      .replace(/^## (.+)$/gm, '<h2 style="font-size:16px;font-weight:bold;color:#e4e4e7;margin:20px 0 10px;border-bottom:1px solid #2a2a35;padding-bottom:6px;">$1</h2>')
+      .replace(/^# (.+)$/gm, '<h1 style="font-size:18px;font-weight:bold;color:#e4e4e7;margin:20px 0 12px;">$1</h1>')
+      // Bold + italic
+      .replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
+      .replace(/\*\*(.+?)\*\*/g, '<strong style="color:#e4e4e7;">$1</strong>')
+      .replace(/\*(.+?)\*/g, '<em>$1</em>')
+      // Strikethrough
+      .replace(/~~(.+?)~~/g, '<del style="opacity:0.5;">$1</del>')
+      // Links
+      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" style="color:#5b8dce;text-decoration:underline;" target="_blank">$1</a>')
+      // Wikilinks
+      .replace(/\[\[([^|\]]+)\|([^\]]+)\]\]/g, '<span style="color:#5b8dce;border-bottom:1px dashed #5b8dce;">$2</span>')
+      .replace(/\[\[([^\]]+)\]\]/g, '<span style="color:#5b8dce;border-bottom:1px dashed #5b8dce;">$1</span>')
+      // Callouts
+      .replace(/&gt; \[!(\w+)\]\s*(.+)/g, '<div style="border-left:3px solid #5b8dce;padding:8px 12px;margin:8px 0;background:#5b8dce10;border-radius:0 6px 6px 0;"><strong style="color:#5b8dce;">$1:</strong> $2</div>')
+      // Blockquotes
+      .replace(/^&gt; (.+)$/gm, '<blockquote style="border-left:3px solid #2a2a35;padding-left:12px;color:#7a7a86;margin:8px 0;">$1</blockquote>')
+      // Unordered lists
+      .replace(/^- (.+)$/gm, '<li style="margin-left:16px;list-style:disc;margin-bottom:4px;">$1</li>')
+      // Horizontal rules
+      .replace(/^---$/gm, '<hr style="border:none;border-top:1px solid #2a2a35;margin:16px 0;">')
+      // Tags
+      .replace(/#(\w[\w-]*)/g, '<span style="color:#f59e0b;font-size:10px;">#$1</span>')
+      // Line breaks
+      .replace(/\n\n/g, '<br><br>')
+      .replace(/\n/g, '<br>')
+
+    return html
+  }
+
   return (
     <div>
       {/* Header */}
@@ -247,16 +285,56 @@ export default function EditorPage() {
             </div>
           </div>
 
-          {/* Body editor */}
+          {/* Body editor + preview */}
           <div className="xl:col-span-2">
             <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
-              <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Content</h3>
-              <textarea
-                value={body}
-                onChange={(e) => { setBody(e.target.value); setDirty(true) }}
-                className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg px-3 py-2 text-[11px] text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)] min-h-[50vh] resize-y font-mono leading-relaxed"
-                spellCheck={false}
-              />
+              {/* View mode toggle */}
+              <div className="flex items-center justify-between mb-2">
+                <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)]">Content</h3>
+                <div className="flex gap-1 bg-[var(--color-bg)] rounded p-0.5">
+                  {(["edit", "split", "preview"] as const).map((mode) => (
+                    <button
+                      key={mode}
+                      onClick={() => setViewMode(mode)}
+                      className={`text-[9px] px-2.5 py-1 rounded transition-all ${
+                        viewMode === mode
+                          ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)]"
+                          : "text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
+                      }`}
+                    >
+                      {mode === "edit" ? "Edit" : mode === "split" ? "Split" : "Preview"}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div className={`flex gap-3 ${viewMode === "split" ? "" : ""}`}>
+                {/* Editor pane */}
+                {(viewMode === "edit" || viewMode === "split") && (
+                  <textarea
+                    value={body}
+                    onChange={(e) => { setBody(e.target.value); setDirty(true) }}
+                    className={`bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg px-3 py-2 text-[11px] text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)] min-h-[50vh] resize-y font-mono leading-relaxed ${
+                      viewMode === "split" ? "w-1/2" : "w-full"
+                    }`}
+                    spellCheck={false}
+                  />
+                )}
+
+                {/* Preview pane */}
+                {(viewMode === "preview" || viewMode === "split") && (
+                  <div
+                    className={`bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg px-4 py-3 min-h-[50vh] overflow-y-auto prose-invert ${
+                      viewMode === "split" ? "w-1/2" : "w-full"
+                    }`}
+                  >
+                    <div
+                      className="text-[12px] text-[var(--color-text)] leading-relaxed"
+                      dangerouslySetInnerHTML={{ __html: renderMarkdown(body) }}
+                    />
+                  </div>
+                )}
+              </div>
             </div>
 
             {/* Action bar */}
