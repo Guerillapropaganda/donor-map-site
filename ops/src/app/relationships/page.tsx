@@ -103,13 +103,30 @@ export default function RelationshipsPage() {
   }, [graphPan])
 
   const handleMouseMove = useCallback((e: React.MouseEvent) => {
+    // Node dragging takes priority
+    if (draggingNode) {
+      e.stopPropagation()
+      const container = graphRef.current
+      if (!container) return
+      const rect = container.getBoundingClientRect()
+      const dx = (e.clientX - nodeDragStart.current.x) / (rect.width * graphZoom) * 100
+      const dy = (e.clientY - nodeDragStart.current.y) / (rect.height * graphZoom) * 100
+      setNodePositions((prev) => ({
+        ...prev,
+        [draggingNode]: { x: nodeDragStart.current.nodeX + dx, y: nodeDragStart.current.nodeY + dy },
+      }))
+      return
+    }
     if (!isDragging) return
     const dx = e.clientX - dragStart.current.x
     const dy = e.clientY - dragStart.current.y
     setGraphPan({ x: dragStart.current.panX + dx, y: dragStart.current.panY + dy })
-  }, [isDragging])
+  }, [isDragging, draggingNode, graphZoom])
 
-  const handleMouseUp = useCallback(() => setIsDragging(false), [])
+  const handleMouseUp = useCallback(() => {
+    setIsDragging(false)
+    setDraggingNode(null)
+  }, [])
 
   useEffect(() => {
     Promise.all([
@@ -637,22 +654,7 @@ export default function RelationshipsPage() {
                             e.stopPropagation()
                             setDraggingNode(node.name)
                             nodeDragStart.current = { x: e.clientX, y: e.clientY, nodeX: x, nodeY: y }
-                          }}
-                          onMouseMove={(e) => {
-                            if (draggingNode !== node.name) return
-                            e.stopPropagation()
-                            const container = graphRef.current
-                            if (!container) return
-                            const rect = container.getBoundingClientRect()
-                            const dx = (e.clientX - nodeDragStart.current.x) / (rect.width * graphZoom) * 100
-                            const dy = (e.clientY - nodeDragStart.current.y) / (rect.height * graphZoom) * 100
-                            setNodePositions((prev) => ({
-                              ...prev,
-                              [node.name]: { x: nodeDragStart.current.nodeX + dx, y: nodeDragStart.current.nodeY + dy },
-                            }))
-                          }}
-                          onMouseUp={() => setDraggingNode(null)}
-                          onMouseLeave={() => { if (draggingNode === node.name) setDraggingNode(null) }}>
+                          }}>
                           <button
                             onClick={() => {
                               if (draggingNode) return
