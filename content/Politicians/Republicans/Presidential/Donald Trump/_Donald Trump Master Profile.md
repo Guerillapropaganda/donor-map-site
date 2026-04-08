@@ -35,7 +35,7 @@ doj-components:
   - 'USAO - Ohio, Northern'
   - 'USAO - Ohio, Southern'
 opposes: "[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]]"
-related: "[[The Culture War Economy - Who Profits From Division]]"
+related: "[[The Culture War Economy - Who Profits From Division]] · [[Vivek Ramaswamy Master Profile]]"
 total-received: "$3,852,435"
 fec-candidate-id: "P80001571"
 internal-notes: "[URL Check 2026-04-08] 29 URLs checked: 25 ok, 2 broken, 2 slow. BROKEN: CBO TCJA analysis, The Hill Palantir contracts. SLOW: Federal Register 2026 EOs, GovTrack.us"
