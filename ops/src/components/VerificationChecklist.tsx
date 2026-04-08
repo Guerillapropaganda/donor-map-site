@@ -239,8 +239,6 @@ export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }:
                   ▶ {item.pipeline}
                 </button>
               )}
-              <span className="flex-1" />
-
               {/* N/A reason */}
               {na && naReasonText && (
                 <span className="text-[8px] text-[var(--color-text-dim)] italic max-w-[200px] truncate" title={naReasonText}>{naReasonText}</span>
