@@ -154,21 +154,18 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
-## 2026-04-08 04:29 UTC — 12 profiles
+## 2026-04-08 04:28 UTC — 9 profiles
 
-**nonprofit-990 — 12 profiles:**
-- Donors Capital Fund — EIN 541934032, 501(c)(3), rev $8.4M
-- Starbucks — EIN 911795425, 501(c)(3), rev $2.8M
-- International Association of Chiefs of Police — EIN 530227813, 501(c)(3), rev $42.8M
-- MassMutual — EIN 474967720, 501(c)(3), rev $58.9M
-- Sinclair Broadcast Group — EIN 911500276, 501(c)(3), rev $211K
-- Walmart — EIN 710569421, 501(c)(9), rev $3.74B
-- Lyft — EIN 852458757, 501(c)(3), rev N/A
-- Koch Network - Charles Koch — EIN 480918408, 501(c)(3), rev $1.2M
-- Bradley Foundation — EIN 330771070, 501(c)(3), rev $9K
-- Future Forward USA Action — EIN 824170762, 501(c)(4), rev $624.6M
-- BAE Systems — EIN 742624710, 501(c)(9), rev $534.2M
-- David Sacks — EIN 746417564, 501(c)(3), rev $142K
+**sec-edgar — 9 profiles:**
+- Manhattan Institute for Policy Research — 122 filings, 27 form types
+- Halliburton — 10000 filings, 34 form types
+- Riverside Sheriffs Association — 23 filings, 1 form types
+- Johnson & Johnson — 10000 filings, 33 form types
+- Democratic Senatorial Campaign Committee — 145 filings, 22 form types
+- Lyft — 10000 filings, 29 form types
+- Paul Singer — 387 filings, 9 form types
+- Elon Musk — 4518 filings, 25 form types
+- American Federation for Children — 9 filings, 4 form types
 
 ---
 ## 2026-04-08 03:37 UTC — 9 profiles

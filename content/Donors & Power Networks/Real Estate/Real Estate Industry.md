@@ -52,7 +52,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Chris Christie]] · [[Gary Peters Master Profile]] · [[Brian Schatz Master Profile]] · [[Hakeem Jeffries Master Profile]]"
+related: "[[Chris Christie]] · [[Gary Peters Master Profile]] · [[Brian Schatz Master Profile]] · [[Hakeem Jeffries Master Profile]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]]"
 ---
 
 #real-estate #nar #housing #1031-exchange #rent #zoning #bipartisan

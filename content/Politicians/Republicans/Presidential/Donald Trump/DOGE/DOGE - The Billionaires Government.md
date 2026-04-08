@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Billionaire Cabinet - Self-Dealing as Governance]]"
+related: "[[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]]"
 ---
 
 

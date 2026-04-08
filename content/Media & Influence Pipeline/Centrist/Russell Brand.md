@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Joe Rogan]] · [[Glenn Greenwald]] · [[Tucker Carlson]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]]"
+related: "[[Joe Rogan]] · [[Glenn Greenwald]] · [[Tucker Carlson]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]]"
 donors: "[[Peter Thiel]]"
 ---
 

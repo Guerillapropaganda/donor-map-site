@@ -14,7 +14,7 @@ ein: 480918408
 annual-revenue: "$1.3M"
 net-assets: "$748.2M"
 tax-year: "2023"
-related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Libertarian Brand and Donor Class Service]] · [[Heritage Foundation]] · [[American Enterprise Institute]]"
+related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Libertarian Brand and Donor Class Service]] · [[Heritage Foundation]] · [[American Enterprise Institute]] · [[The Criminal Justice Reform and Bipartisan Alliance]]"
 ---
 
 #koch #mega-donor #libertarian #deregulation #climate-denial #network #dark-money

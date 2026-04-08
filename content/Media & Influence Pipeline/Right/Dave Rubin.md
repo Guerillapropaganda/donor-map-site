@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Tim Pool]] · [[Ben Shapiro]] · [[Charlie Kirk]] · [[Jordan Peterson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tenet Media]]"
+related: "[[Tim Pool]] · [[Ben Shapiro]] · [[Charlie Kirk]] · [[Jordan Peterson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Matt Walsh]]"
 donors: "[[Koch Network - Charles Koch]]"
 ---
 

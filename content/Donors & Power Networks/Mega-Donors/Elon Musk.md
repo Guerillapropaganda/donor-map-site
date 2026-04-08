@@ -26,7 +26,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]]"
+related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[Howard Lutnick Master Profile]]"
 ---
 
 
@@ -468,3 +468,21 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Elon%20Musk%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 4,518 |
+| Form Types | 4, 4/A, 425, 5, 8-K, CORRESP, DEF 14A, DEFA14A +17 more |
+
+**Notable filings:**
+
+- 2022-06-22 — **EX1A-13 TST WTRS**: TESTING THE WATERS MATERIALS RELATING TO SERIES #ELON1
+- 2018-05-09 — **PX14A6G**: PX14A6G
+- 2023-04-24 — **PX14A6N**: PX14A6N
+- 2016-11-02 — **425**: 425
+- 2024-05-21 — **PX14A6G**: PX14A6G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Elon%20Musk%22) (Tier 1)
+<!-- auto:sec-edgar end -->
