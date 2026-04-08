@@ -101,8 +101,8 @@ CoreCivic funds both parties but overwhelmingly Republicans — 96% of 2024 cont
 
 **SCOTUS — Al Otro Lado oral arguments (March 24):** The Court heard arguments on whether asylum seekers stopped on the Mexican side of the border have legally "arrived in the United States." A ruling expanding executive deportation power would accelerate the detention pipeline, increasing ICE bed utilization and CoreCivic contract revenue. Combined with the $45B detention expansion funded through reconciliation 1.0, this creates a legal-administrative-fiscal apparatus that maximizes private prison revenues.
 
-- [Roll Call: DHS funding deal appears close after White House talks](https://rollcall.com/2026/03/23/dhs-funding-deal-appears-close-after-white-house-talks/) (Tier 2)
-- [SCOTUSblog: Noem v. Al Otro Lado](https://www.scotusblog.com/cases/case-files/noem-v-al-otro-lado/) (Tier 2)
+- [Roll Call: DHS funding deal appears close after White House talks](https://rollcall.com/2026/03/23/dhs-funding-deal-appears-close-after-white-house-talks/) (Tier 2) (VERIFIED)
+- [SCOTUSblog: Noem v. Al Otro Lado](https://www.scotusblog.com/cases/case-files/noem-v-al-otro-lado/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -117,12 +117,12 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 
 ### Sources
 
-- [CalMatters: Gov. Newsom can protect Californians by closing private prisons](https://calmatters.org/commentary/2019/09/gov-newsom-can-protect-californians-by-closing-private-prisons/) (Tier 2)
-- [The Marshall Project: CoreCivic political giving](https://www.themarshallproject.org/2019/08/22/private-prison-companies-are-spending-millions-to-elect-tough-on-crime-candidates) (Tier 2)
-- [ABC News: $500K inaugural donation](https://abcnews.com/US/private-prison-firm-corecivic-gave-500k-trumps-inauguration/story?id=118218707?id=118218707) (Tier 2)
-- [OpenSecrets: private prison company donations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 1)
-- [The Intercept: Trump budget and private prisons](https://theintercept.com/2025/07/10/corecivic-trump-big-beautiful-bill/) (Tier 2)
-- [NOTUS: private prison lobbying](https://www.notus.org/money/private-prisons-lobbying-corecivic-geo-group-immigration-detention) (Tier 2)
+- [CalMatters: Gov. Newsom can protect Californians by closing private prisons](https://calmatters.org/commentary/2019/09/gov-newsom-can-protect-californians-by-closing-private-prisons/) (Tier 2) (VERIFIED)
+- ~~[The Marshall Project: CoreCivic political giving](https://www.themarshallproject.org/2019/08/22/private-prison-companies-are-spending-millions-to-elect-tough-on-crime-candidates)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ABC News: $500K inaugural donation](https://abcnews.com/US/private-prison-firm-corecivic-gave-500k-trumps-inauguration/story?id=118218707?id=118218707) (Tier 2) (VERIFIED)
+- [OpenSecrets: private prison company donations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 1) (VERIFIED)
+- [The Intercept: Trump budget and private prisons](https://theintercept.com/2025/07/10/corecivic-trump-big-beautiful-bill/) (Tier 2) (VERIFIED)
+- [NOTUS: private prison lobbying](https://www.notus.org/money/private-prisons-lobbying-corecivic-geo-group-immigration-detention) (Tier 2) (VERIFIED)
 
 research-status:: ready — California (AB 32) and federal roles documented, Trump second term contract expansion (45% increase, $269M), $116.5M profit (70% increase), lobbying doubled to $3.69M, bipartisan money flow analyzed, AB 32 federal override via Ninth Circuit. All ### headers, Tier 1-2 sources verified. Promoted to ready Session 38h.
 content-readiness:: ready
@@ -146,7 +146,7 @@ content-readiness:: ready
 | $103.7M | Department of Homeland Security | FUNDS FOR NEW TASK ORDER FOR CDF SAN DIEGO, CA. |
 | $87.9M | Department of Homeland Security | NEW TASK ORDER FOR DETENTION SERVICES AT THE OTAY MESA DETENTION CENTER |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-CoreCivic) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-CoreCivic) (Tier 1) (NEEDS REVIEW: Results page lands with no results)
 <!-- auto:usaspending end -->
 
 ### Federal Court Records (CourtListener)
@@ -165,7 +165,7 @@ content-readiness:: ready
 - (HC) Perez Reyes v. Chestnut (2026) — District Court, E.D. California
 - DEMOCRACY DEFENDERS FUND v. DEPARTMENT OF HOMELAND SECURITY (2026) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CoreCivic%22&type=r) (Tier 1)
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CoreCivic%22&type=r) (Tier 1) (NEEDS REVIEW: bout 3,000 Cases and 27,000 Docket Entries  311ms Sanford v. CoreCivic (W.D. Tenn. 2019) Docket Number: 1:19-cv-01139 Date Filed: July 9th, 2019 Date Terminated: September 23rd, 2021 Nature of Suit: Prisoner: Civil Rights Cause: 42:1983 Prisoner Civil Rights Jury Demand: Plaintiff Assigned To: James Dale Todd Referred To: Charmiane Griffin Claxton Parties: CoreCivic, Gerald A. Sanford, Sr., Aaron Ivey Attorneys: Gerald A. Sanford, Sr. Document #1  Date Filed: June 28th, 2019 Description: COMPLAINT against CoreCivic, Aaron Ivey, filed by Gerald A. Sanford, Sr. (Attachment: # 1 Cover Letter)(as) [Transferred from Tennessee Middle on 7/9/2019.] (Entered: 07/01/2019) …  Document #17 (11 pages) Date Filed: November 18th, 2019 Description: ORDER SEVERING CLAIMS, PARTIALLY DISMISSING COMPLAINT AND DIRECTING CLERK TO ISSUE A THIRD-PARTY SUBPOENA. Signed by Judge James D. Todd on 11/18/19. (mbm) … ) CORECIVIC, ET AL., ) …  Order — Document #36 (3 pages) Date Filed: September 23rd, 2021 Description: ORDER DISMISSING CASE WITHOUT PREJUDICE, CERTIFYING AN APPEAL WOULD NOT BE TAKEN IN GOOD FAITH, AND DENYING LEAVE TO APPEAL IN FORMA PAUPERIS. Signed by Judge James D. Todd on 9/23/2021. (mbm) … ) CORECIVIC and AARON IVEY, ) …    Kirk v. CoreCivic (M.D. Tenn. 2017) Docket Number: 1:17-cv-00041 Date Filed: May 3rd, 2017 Date Terminated: May 24th, 2018 Nature of Suit: 550 Prisoner: Civil Rights Cause: 42:1983 Prisoner Civil Rights Jury Demand: Plaintiff Assigned To: Waverly David Crenshaw Jr. Referred To: Joe B. Brown Parties: Damon Hininger, Rebecca Rich, f/n/u White, f/n/u Deathridge, f/n/u Roberts, Leigh Staggs, Cherry …  Attorneys: Jason W. Kirk Document #1  Date Filed: May 3rd, 2017 Description: COMPLAINT against William Bryant, Kristen Buttram, CoreCivic, f/n/u Deathridge, Daniel Dodd, Damon Hininger, Cherry Lindamood, Shane McClain, Scott Peeler, Rebecca Rich, f/n/u Roberts, Leigh Staggs, f/n/u White, filed by Jason W. Kirk. (Attachments: # 1 Exhibits 1 - 9 - Supporting Documents, # 2 Attachment envelope)(eh) (Entered: 05/04/2017) …  Document #4 (7 pages) Date Filed: May 25th, 2017 Description: MEMORANDUM OPINION OF THE COURT. Signed by Chief Judge Waverly D. Crenshaw, Jr on 5/25/2017. (xc:Pro se party by regular mail. ) (DOCKET TEXT SUMMARY ONLY-ATTORNEYS MUST OPEN THE PDF AND READ THE ORDER.)(jw) … ) CHIEF JUDGE CRENSHAW CORECIVIC, et al., ) …  Document #2  Date Filed: May 3rd, 2017 Description: APPLICATION for Leave to Proceed In Forma Pauperis by Jason W. Kirk. (eh) (Entered: 05/04/2017) … DOes this relate???)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2024)
@@ -177,7 +177,7 @@ content-readiness:: ready
 | Total Expenses | $583K |
 | Net Assets | $52K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 823851866](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 823851866](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Contracts
@@ -201,7 +201,7 @@ content-readiness:: ready
 | $0 | HOMELAND SECURITY, DEPARTMENT OF | 2023-03-21 |
 | $0 | HOMELAND SECURITY, DEPARTMENT OF | 2024-12-18 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=CoreCivic&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=CoreCivic&page=1&index=opp) (Tier 1) (NEEDS REVIEW: Lands on search page with no results)
 <!-- auto:sam-contracts end -->
 
 ### Influence Network (Cross-Reference)
@@ -264,7 +264,7 @@ content-readiness:: ready
 | Furniture Merchant Wholesalers (423210) | $500K |
 | Painting and Wall Covering Contractors (238320) | $27K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED: Lands on search page with no results)
 <!-- auto:usaspending-subawards end -->
 
 ### Tax Filings (IRS 990)
@@ -282,12 +282,12 @@ content-readiness:: ready
 **Filing history:** 2024, 2023, 2022, 2021, 2020, 2019
 
 **View 990 filings:**
-- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2024)
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2020)
+- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2024)~~ (URL broken, archived by Ops)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2020)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
