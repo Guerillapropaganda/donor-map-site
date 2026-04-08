@@ -238,19 +238,19 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 | Officer Compensation | $2.5M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 360725160](https://projects.propublica.org/nonprofits/organizations/360725160) (Tier 1) (VERIFIED)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F360725160_202311_990O_2024121122947525.pdf) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F360725160_202311_990O_2024121122947525.pdf) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [OpenSecrets: American Farm Bureau Federation Profile](https://www.opensecrets.org/orgs/american-farm-bureau/summary?id=D000021832) (Tier 1)
+- [OpenSecrets: American Farm Bureau Federation Profile](https://www.opensecrets.org/orgs/american-farm-bureau/summary?id=D000021832) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: AFBF Lobbying Profile](https://lda.gov/filings/public/filing/search/) (NEEDS REVIEW) (Tier 1)
-- [OpenSecrets: Farm Bureau PACs Industry Detail 2022](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/A6500/2022) (Tier 1)
-- [USDA: Farmer Bridge Assistance Announcement (Dec 2025)](https://www.usda.gov/about-usda/news/press-releases/2025/12/08/trump-administration-announces-12-billion-farmer-bridge-payments-american-farmers-impacted-unfair) (Tier 1)
-- [EWG: Farm Subsidies Ballooned Under Trump (Interactive)](https://www.ewg.org/interactive-maps/2021-farm-subsidies-ballooned-under-trump/) (Tier 1)
-- [Investigate Midwest: The "Voice of Agriculture" — These Groups Beg to Differ](https://investigatemidwest.org/2022/02/08/the-american-farm-bureau-federation-claims-its-the-voice-of-agriculture-these-groups-beg-to-differ/) (Tier 2)
-- [Civil Eats: How Four Years of Trump Reshaped Food and Farming](https://civileats.com/2020/11/02/how-four-years-of-trump-reshaped-food-and-farming/) (Tier 2)
+- [OpenSecrets: Farm Bureau PACs Industry Detail 2022](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/A6500/2022) (Tier 1) (VERIFIED)
+- [USDA: Farmer Bridge Assistance Announcement (Dec 2025)](https://www.usda.gov/about-usda/news/press-releases/2025/12/08/trump-administration-announces-12-billion-farmer-bridge-payments-american-farmers-impacted-unfair) (Tier 1) (VERIFIED)
+- [EWG: Farm Subsidies Ballooned Under Trump (Interactive)](https://www.ewg.org/interactive-maps/2021-farm-subsidies-ballooned-under-trump/) (Tier 1) (VERIFIED)
+- [Investigate Midwest: The "Voice of Agriculture" — These Groups Beg to Differ](https://investigatemidwest.org/2022/02/08/the-american-farm-bureau-federation-claims-its-the-voice-of-agriculture-these-groups-beg-to-differ/) (Tier 2) (VERIFIED)
+- [Civil Eats: How Four Years of Trump Reshaped Food and Farming](https://civileats.com/2020/11/02/how-four-years-of-trump-reshaped-food-and-farming/) (Tier 2) (VERIFIED)
 - [Inside Climate News: Reducing Methane from Livestock Critical for Climate](https://insideclimatenews.org/news/22122023/milking-it-reducing-methane-from-livestock-critical-for-climate/) (Tier 2)
 - [NPR: Trump Administration Announcing $12 Billion in Farm Payments](https://www.npr.org/2018/07/24/631953880/trump-administration-to-provide-farmers-12-billion-to-offset-tariffs) (Tier 2)
 - [The Nation: Whose Side Is the American Farm Bureau On?](https://www.thenation.com/article/archive/whose-side-american-farm-bureau/) (Tier 2)
