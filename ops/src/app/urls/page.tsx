@@ -67,7 +67,7 @@ export default function UrlManagerPage() {
           } else if (u.triageStatus === "verified") {
             vaultCompleted.push({ ...u, completedStatus: "confirmed", completedDate: "from vault" })
           } else if (u.triageStatus === "unsure") {
-            active.push({ ...u, status: "unsure" as UrlStatus })
+            vaultCompleted.push({ ...u, completedStatus: "flagged-done", completedDate: "from vault" })
           } else {
             active.push({ ...u, status: "unchecked" as UrlStatus })
           }
