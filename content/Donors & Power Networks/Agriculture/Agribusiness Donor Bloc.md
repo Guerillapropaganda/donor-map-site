@@ -37,7 +37,7 @@ The Agribusiness Donor Bloc. The combined political operation of America's agric
 
 The bloc's political operation: $30-50 million per cycle in PAC and campaign contributions, $80-120 million annually in lobbying (across all agricultural sub-sectors), and the most powerful state-level political networks in rural America. The Farm Bureau's 6 million member families provide the grassroots base; corporate agribusiness provides the funding.
 
-- ~~[FEC Receipts: Agribusiness industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (NEEDS REVIEW: results page but no results)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~~~[FEC Receipts: Agribusiness industry spending](https://www.fec.gov/data/receipts/?data_type=processed)~~ (was Tier 1 — URL broken, archived by Ops) (NEEDS REVIEW: results page but no results)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -100,5 +100,5 @@ content-readiness:: ready
 - 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) (VERIFIED) — USAO - Louisiana, Eastern
 - ... and 264,343 more
 
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Agribusiness%20Donor%20Bloc%22&sort=date) (Tier 1) (NEEDS REVIEW: Results page with no results)
+- ~~[Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Agribusiness%20Donor%20Bloc%22&sort=date)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (NEEDS REVIEW: Results page with no results)
 <!-- auto:doj-press end -->
