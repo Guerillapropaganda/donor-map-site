@@ -28,41 +28,6 @@ federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
 related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]]"
-sec-filings: 10000
-sec-form-types:
-  - "13F-HR/A"
-  - "144"
-  - "4"
-  - "424B3"
-  - "425"
-  - "6-K"
-  - "8-K"
-  - "ARS"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-10.17"
-  - "EX-20.1"
-  - "EX-21"
-  - "EX-21.1"
-  - "EX-3"
-  - "EX-4"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2O"
-  - "POS AM"
-  - "PX14A6G"
-  - "S-3"
-  - "S-3/A"
-  - "S-4"
-  - "S-4/A"
-  - "S-8 POS"
-  - "SC 13D"
-  - "SC TO-I/A"
-  - "SC TO-T/A"
-  - "SC14D9C"
-  - "SCHEDULE 13G/A"
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing

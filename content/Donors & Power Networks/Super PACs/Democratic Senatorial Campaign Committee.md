@@ -14,30 +14,6 @@ regulatory-agencies:
   - "Postal Regulatory Commission"
   - "Securities and Exchange Commission"
 related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]]"
-sec-filings: 145
-sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10KSB"
-  - "20-F"
-  - "424B4"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "EX-99.(P)(11)"
-  - "EX-99.(P)(35)"
-  - "EX-99.(P)(II)"
-  - "EX-99.(P)(VII)"
-  - "EX-99.(P)1.125"
-  - "EX-99.1"
-  - "EX-99.B(P)(17)"
-  - "EX-99.P CODE ETH"
-  - "N-2"
-  - "PRE 14A"
-  - "PRER14A"
-  - "S-1"
-  - "S-1/A"
-  - "U-13-60"
 ---
 
 #dscc #senate #democratic #campaign #fundraising #party-committee

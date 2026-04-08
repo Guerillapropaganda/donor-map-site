@@ -35,17 +35,6 @@ lobbying-spend: 1268033
 lobbying-filings: 104
 total-political-spend: "$16,466,849"
 related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[Fossil Fuel Investments and the Recusal Pattern]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Rogers]]"
-sec-filings: 387
-sec-form-types:
-  - "13F-HR"
-  - "13F-HR/A"
-  - "13F-NT"
-  - "D"
-  - "D/A"
-  - "EX-10.3"
-  - "EX-24"
-  - "LETTER"
-  - "SC 13D/A"
 ---
 
 

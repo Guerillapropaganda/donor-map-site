@@ -27,33 +27,6 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[Howard Lutnick Master Profile]]"
-sec-filings: 4518
-sec-form-types:
-  - "4"
-  - "4/A"
-  - "425"
-  - "5"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-10.1"
-  - "EX-10.17"
-  - "EX-10.9"
-  - "EX-31.3"
-  - "EX-32.1"
-  - "EX-4.1"
-  - "EX-4.2"
-  - "EX-4.2E"
-  - "EX-99.1"
-  - "EX1A-13 TST WTRS"
-  - "LETTER"
-  - "PX14A6G"
-  - "PX14A6N"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "TEXT-EXTRACT"
 ---
 
 
