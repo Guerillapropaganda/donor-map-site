@@ -38,6 +38,7 @@ top-donors:
 fec-candidate-id: S6CA00808
 opposes: '[[Donald Trump Master Profile]]'
 stories: '[[Pharmaceutical: The PhRMA Deal]]'
+internal-notes: "[URL Check 2026-04-08] 15 checked: 12 ok, 3 broken, 0 slow. | BROKEN: OpenSecrets: Obama 2008 Top Contributors | BROKEN: Health Affairs: The Origins And Demise Of The Public Option | BROKEN: Medium/OpenSecrets: Obama-tied operatives and Biden supporters launch $60 million 'dark money' group"
 ---
 
 
