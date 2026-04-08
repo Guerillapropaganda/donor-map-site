@@ -35,7 +35,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, W.D. Oklahoma"
   - "United States Court of Federal Claims"
-related: "[[Defense Contractors Bloc]] · [[Texas 2026 Senate Race]] · [[Katie Britt]] · [[Virginia 2026 Senate Race]]"
+related: "[[Defense Contractors Bloc]] · [[Texas 2026 Senate Race]] · [[Katie Britt]] · [[Virginia 2026 Senate Race]] · [[Chris Murphy Master Profile]]"
 ---
 
 #defense-contractors #military-industrial #bipartisan #ndaa #revolving-door #lobbying #class-analysis #follow-the-money
