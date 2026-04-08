@@ -58,14 +58,26 @@ Known issues:
 - Executive orders --write run may not have completed (check next session)
 - Some profiles may have corrupted internal-notes from early auto-check runs
 
+Executive orders pipeline ran with --write: Obama, Clinton, Biden, Bush W inserted. Trump parked (manual edit detected). Minor flushLog error (non-critical).
+
+Back/Forward nav buttons added to sidebar (site-wide). Fixed exec orders pipeline bug (passed content instead of filePath to updateFrontmatter).
+
+Editorial framework discussion with David — agreed on:
+- Checklist must ENFORCE readiness (not just visual) + bypass button for edge cases
+- Contradictions reworded: "Contradiction investigation complete (Research Claude)" — mandatory for A+
+- Story grading: Story (1-4 URLs/draft) → Report (5-9/ready) → Investigation (10+/verified)
+- Stories/events/sub-notes don't require pipeline enrichment
+- Research Claude + Code Claude integration protocol (surfaces → acts, requests → builds)
+- Additional editorial checks: cross-ref consistency, claim attribution, legal sensitivity, correction history, wikilink integrity, orphan detection, update cadence
+
 Next session priorities:
-1. Check executive orders pipeline --write results
-2. Graph legend on live site (Stories, Opposition, entity types)
-3. Contradiction scanner — auto-find shared-donor contradictions
-4. Money trail visualizer — donor→politician→committee→bill flow
-5. Fix lda-pipeline.cjs domain
-6. Build governor executive actions pipeline (state-level)
-7. Social scheduling for Distribution page
+1. **Implement editorial framework** — enforce checklist on readiness, bypass button, story grading, contradiction reword, Research Claude integration protocol
+2. **Write into Vault Rules** — complete editorial standards documentation
+3. **Build automated checks** — cross-ref consistency checker, wikilink integrity scanner, orphan detector
+4. Graph legend on live site
+5. Contradiction scanner
+6. Money trail visualizer
+7. Fix lda-pipeline.cjs domain
 
 Next session priorities:
 1. Run reclassify-readiness.cjs --write after David reviews report
