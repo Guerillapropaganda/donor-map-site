@@ -38,6 +38,12 @@ opposes: '[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]]'
 related: "[[The Culture War Economy - Who Profits From Division]] · [[Vivek Ramaswamy Master Profile]]"
 total-received: "$3,852,435"
 fec-candidate-id: "P80001571"
+internal-notes: "[URL Check 2026-04-08] 36 URLs checked: 31 ok, 3 broken, 2 slow/redirect
+  - BROKEN: FEC: Trump candidate page
+  - BROKEN: CBO: TCJA analysis
+  - BROKEN: The Hill: Palantir contracts
+  - SLOW: Federal Register: 2026 Executive Orders
+  - SLOW: Source: GovTrack.us"
 ---
 
 
