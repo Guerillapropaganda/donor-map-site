@@ -2,7 +2,7 @@
 title: "NextEra Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -62,6 +62,7 @@ sec-form-types:
   - "S-3ASR"
   - "S-3D"
   - "SCHEDULE 13G/A"
+related: "[[Valero Energy]]"
 ---
 
 #nextera #energy #renewables #solar #wind #florida #utility #fpl

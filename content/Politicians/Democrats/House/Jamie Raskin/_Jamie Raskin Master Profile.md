@@ -2,7 +2,7 @@
 title: "Jamie Raskin"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,8 @@ bills-sponsored: 18
 bills-cosponsored: 265
 website: "https://raskin.house.gov"
 phone: "202-225-5341"
+donors: "[[UNITE HERE]]"
+related: "[[The Oversight Chair and the Investigation Theater]]"
 ---
 
 #jamie-raskin #democrat #maryland #house #judiciary #ranking-member #phase-6-gavel-power #january-6th #impeachment

@@ -2,13 +2,14 @@
 title: "Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand"
 type: story
 content-readiness: draft
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 issues:
   - "Defense & Military"
   - "Dark Money & Campaign Finance"
   - "Israel & Foreign Policy"
+related: "[[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]]"
 ---
 
 #pelosi #mccarthy #both-sides #donor-class #defense #stock-trading #dark-money #israel #class-analysis #follow-the-money #california #house-speakers

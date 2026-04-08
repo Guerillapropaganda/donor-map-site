@@ -2,9 +2,10 @@
 title: "Roy Cooper Health Insurance Industry Funding"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Roy Cooper Master Profile]]
+related: "[[Roy Cooper Clean Energy Policy and Environmental Record]]"
 ---
 
 #politician #democrat #healthcare #insurance #donor-analysis #north-carolina

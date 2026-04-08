@@ -2,7 +2,7 @@
 title: "Democratic Governors Association"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -15,6 +15,7 @@ regulatory-agencies:
   - "Coast Guard"
   - "Federal Election Commission"
   - "Homeland Security Department"
+related: "[[JB Pritzker Master Profile]]"
 ---
 
 #democratic-governors-association #DGA #super-pac #gubernatorial #party-committee #corporate-donors #pharma

@@ -2,7 +2,7 @@
 title: "CREW - Citizens for Responsibility and Ethics in Washington"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,6 +15,7 @@ court-cases: 2
 last-enriched: "2026-04-07"
 court-jurisdictions:
   - "District Court, District of Columbia"
+related: "[[Ocean Conservancy]]"
 ---
 
 #crew #ethics #watchdog #nonprofit #dark-money #14th-amendment #accountability #legal-advocacy #foia #progressive-infrastructure

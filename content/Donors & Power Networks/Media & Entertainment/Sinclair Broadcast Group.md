@@ -39,6 +39,7 @@ doj-components:
   - "USAO - New York, Northern"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+related: "[[The Telecom and Media Monopoly Oversight]]"
 ---
 
 #sinclair #local-news #media #conservative #must-run #propaganda #consolidation

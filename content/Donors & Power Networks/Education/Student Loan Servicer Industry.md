@@ -2,7 +2,7 @@
 title: "Student Loan Servicer Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Education"
@@ -12,6 +12,7 @@ politicians-funded:
   - "Bobby Scott"
 issues:
   - "Education"
+related: "[[The Student Loan Gambit - Promise Block and Political Credit]]"
 ---
 
 #student-loans #education #navient #nelnet #mohela #servicing #debt

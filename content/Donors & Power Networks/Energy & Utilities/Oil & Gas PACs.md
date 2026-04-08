@@ -2,7 +2,7 @@
 title: "Oil & Gas PACs"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -21,6 +21,7 @@ ofac-programs:
   - "RUSSIA-EO14024"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
   - "IRAN-EO13902"
+related: "[[Texas 2026 Senate Race]]"
 ---
 
 #oil #gas #pacs #fossil-fuel #republican #bipartisan #energy

@@ -2,7 +2,7 @@
 title: "Ken Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -31,6 +31,7 @@ ein: 816166962
 annual-revenue: "$230K"
 net-assets: "$2.3M"
 tax-year: "2023"
+related: "[[Donald Trump Master Profile]]"
 ---
 
 #ken-griffin #citadel #hedge-fund #mega-donor #republican #Trump #DeSantis #libertarian

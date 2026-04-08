@@ -2,7 +2,7 @@
 title: "California Apartment Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -26,6 +26,7 @@ ein: 950944360
 annual-revenue: "$291K"
 net-assets: "$864K"
 tax-year: "2023"
+related: "[[Antonio Villaraigosa Master Profile]]"
 ---
 
 

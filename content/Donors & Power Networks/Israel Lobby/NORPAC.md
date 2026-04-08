@@ -2,7 +2,7 @@
 title: "NORPAC"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -28,6 +28,7 @@ ein: "352841377"
 nonprofit-status: "501(c)(4)"
 total-revenue: 2327
 total-assets: 51394
+related: "[[Ritchie Torres]]"
 ---
 
 #norpac #israel-lobby #pro-israel #pac #bundling #new-jersey #bipartisan #dinner-fundraiser #follow-the-money

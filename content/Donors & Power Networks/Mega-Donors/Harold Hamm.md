@@ -2,7 +2,7 @@
 title: "Harold Hamm"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -33,6 +33,7 @@ tax-year: "2024"
 nonprofit-status: "501(c)(3)"
 total-revenue: 160081
 total-assets: 8950006
+related: "[[Doug Burgum Master Profile]]"
 ---
 
 #donor-node #mega-donor #fossil-fuel #fracking #oklahoma #republican #class-analysis #continental-resources #bakken #energy-policy #trump-advisor #donor

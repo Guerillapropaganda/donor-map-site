@@ -2,11 +2,12 @@
 title: "AIPAC United Democracy Project 2026 Primary Intervention"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 issues:
   - "Israel & Foreign Policy"
+related: "[[Top 10 Most Expensive House Races 2026]]"
 ---
 
 #2026-election #AIPAC #super-pac #primary #donor-analysis #analysis #story

@@ -2,9 +2,10 @@
 title: "Fairshake and the Crypto Industry War"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Katie Porter Master Profile]]
+related: "[[The Whiteboard Brand and the Corporate Accountability Record]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "WinRed"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -17,6 +17,7 @@ federal-register-mentions: 1
 last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Federal Election Commission"
+related: "[[Trump Victory]]"
 ---
 
 #winred #republican #fundraising #small-dollar #dark-patterns #online

@@ -2,7 +2,7 @@
 title: "Lisa Murkowski"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,6 +13,8 @@ issues:
   - "Energy & Climate"
 total-received: "$1,637,930"
 fec-candidate-id: "S4AK00099"
+donors: "[[AFGE - American Federation of Government Employees]]"
+related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
 ---
 
 

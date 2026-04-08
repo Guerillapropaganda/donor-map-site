@@ -2,7 +2,7 @@
 title: "Defense Contractors Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Defense & Military"
+related: "[[Pete Hegseth Master Profile]]"
 ---
 
 #defense #contractors #bloc #military-industrial #bipartisan #ndaa #revolving-door #lobbying #pentagon #procurement

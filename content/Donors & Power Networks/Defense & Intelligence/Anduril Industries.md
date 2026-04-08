@@ -26,6 +26,7 @@ sec-form-types:
   - "EX-99.2"
   - "NPORT-EX"
   - "NPORT-P"
+related: "[[Palantir Technologies]]"
 ---
 
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money

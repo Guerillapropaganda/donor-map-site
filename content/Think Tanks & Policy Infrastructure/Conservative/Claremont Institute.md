@@ -2,13 +2,13 @@
 title: "Claremont Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
 deepening-pass: 2026-03-26
-related: "[[Bradley Foundation]] · [[Koch Network - Charles Koch]]"
+related: "[[Bradley Foundation]] · [[Koch Network - Charles Koch]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
 ---
 
 #think-tank #conservative #new-right #natural-law #straussian #Jan6 #personnel-pipeline #anti-progressive #class-analysis

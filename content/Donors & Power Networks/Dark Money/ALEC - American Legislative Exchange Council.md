@@ -2,7 +2,7 @@
 title: "ALEC - American Legislative Exchange Council"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,6 +12,7 @@ issues:
   - "Energy & Climate"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+related: "[[DeVos Family]]"
 ---
 
 #alec #dark-money #model-legislation #corporate #state-level #lobbying #koch #stand-your-ground #voter-id #right-to-work #tort-reform #anti-union #fossil-fuel #ag-gag #anti-esg #class-analysis

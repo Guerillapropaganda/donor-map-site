@@ -2,12 +2,12 @@
 title: "Chris Hedges"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "(no donor nodes — Hedges' funding model is institutional salary → state media → audience-funded; no single donor class patron)"
+related: "(no donor nodes — Hedges' funding model is institutional salary → state media → audience-funded; no single donor class patron) · [[Owen Jones]]"
 ---
 
 #media-pipeline #left #institutional-transition #pulitzer-prize #editorial-constraints

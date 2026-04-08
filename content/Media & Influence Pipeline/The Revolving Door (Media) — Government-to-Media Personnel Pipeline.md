@@ -2,10 +2,10 @@
 title: "The Revolving Door (Media) — Government-to-Media Personnel Pipeline"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[Fox News - Murdoch Media Empire]] · [[Crooked Media]] · [[Rachel Maddow]] · [[Sean Hannity]] · [[Tucker Carlson]] · [[Dan Bongino]] · [[Nicolle Wallace]] · [[Joe Scarborough]] · [[Raytheon (RTX)]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]]"
+related: "[[Fox News - Murdoch Media Empire]] · [[Crooked Media]] · [[Rachel Maddow]] · [[Sean Hannity]] · [[Tucker Carlson]] · [[Dan Bongino]] · [[Nicolle Wallace]] · [[Joe Scarborough]] · [[Raytheon (RTX)]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]]"
 ---
 
 #media #revolving-door #fox-news #msnbc #trump #obama #defense #lobbying #disclosure #both-sides-illusion

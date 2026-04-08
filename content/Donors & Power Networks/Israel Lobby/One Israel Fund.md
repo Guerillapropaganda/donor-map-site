@@ -2,7 +2,7 @@
 title: "One Israel Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
@@ -13,6 +13,7 @@ net-assets: "$3.2M"
 tax-year: "2023"
 lobbying-spend: 4526750
 lobbying-filings: 111
+related: "[[Itamar Ben-Gvir]]"
 ---
 
 #one-israel-fund #settlement-funding #us-nonprofit #west-bank #far-right-israel

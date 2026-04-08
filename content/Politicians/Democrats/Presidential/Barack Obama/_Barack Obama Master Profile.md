@@ -2,7 +2,7 @@
 title: "Barack Obama Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -36,6 +36,7 @@ top-donors:
   - "Google"
   - "Apple"
 fec-candidate-id: "S6CA00808"
+opposes: "[[Donald Trump Master Profile]]"
 ---
 
 

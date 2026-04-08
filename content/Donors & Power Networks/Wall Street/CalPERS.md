@@ -2,7 +2,7 @@
 title: "CalPERS"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -34,6 +34,7 @@ sec-form-types:
   - "SC 13D"
   - "SC 13G"
   - "SC TO-C"
+related: "[[Betty Yee Master Profile]]"
 ---
 
 #calpers #pension #california #public-employees #wall-street #private-equity #investment #lobbying #placement-agents #corruption #class-analysis #follow-the-money

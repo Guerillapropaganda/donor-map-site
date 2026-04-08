@@ -2,7 +2,7 @@
 title: "Enterprise Products Partners"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -27,6 +27,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, S.D. Texas"
   - "District Court, W.D. Texas"
+related: "[[InfluenceMap]]"
 ---
 
 #donor #energy #midstream #fossil-fuel #pipeline #republican-lean #class-analysis #follow-the-money

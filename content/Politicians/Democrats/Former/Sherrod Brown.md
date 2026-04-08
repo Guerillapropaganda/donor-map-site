@@ -2,13 +2,15 @@
 title: "Sherrod Brown"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 fec-candidate-id: "H2OH13033"
 govtrack-id: 400050
 bills-sponsored: 0
 bills-cosponsored: 0
+donors: "[[David Sacks]]"
+related: "[[Crypto Industry Buys Both Parties in One Cycle]]"
 ---
 
 #sherrod-brown #senate #ohio #labor #populist #class-analysis #2024-defeat

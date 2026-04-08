@@ -2,7 +2,7 @@
 title: "Kenneth Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -47,6 +47,7 @@ regulatory-agencies:
   - "Federal Motor Carrier Safety Administration"
   - "Securities and Exchange Commission"
   - "Transportation Department"
+related: "[[Intra-Republican Contradiction Map]]"
 ---
 
 

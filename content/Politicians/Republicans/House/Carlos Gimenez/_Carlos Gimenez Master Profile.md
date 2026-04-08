@@ -25,6 +25,8 @@ bills-sponsored: 8
 bills-cosponsored: 113
 website: "https://gimenez.house.gov"
 phone: "202-225-2778"
+donors: "[[Bacardi - Bacardi USA]]"
+related: "[[Lennar Corporation]]"
 ---
 
 #politician #republican #house #florida #cuba #miami #real-estate #defense #class-analysis #follow-the-money #crowley #transportation

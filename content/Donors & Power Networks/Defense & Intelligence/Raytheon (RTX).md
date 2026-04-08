@@ -2,7 +2,7 @@
 title: "Raytheon (RTX Corporation)"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -43,6 +43,7 @@ subawards-received-amount: 51876611853
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+related: "[[Palantir Technologies Political Operation]]"
 ---
 
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #iran #golden-dome #missiles #saudi-arabia #yemen #ukraine #f-35 #patriot #pac #fraud #stinger #tomahawk

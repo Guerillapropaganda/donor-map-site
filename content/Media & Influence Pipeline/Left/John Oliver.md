@@ -2,12 +2,12 @@
 title: "John Oliver"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Bill Maher]] · [[Rachel Maddow]] · [[Sam Seder]] · [[_Media Pipeline Framework]]"
+related: "[[Bill Maher]] · [[Rachel Maddow]] · [[Sam Seder]] · [[_Media Pipeline Framework]] · [[Kyle Kulinski]]"
 donors: "[]"
 ---
 

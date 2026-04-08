@@ -2,7 +2,7 @@
 title: "Mitt Romney"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,8 @@ fec-candidate-id: "P80003353"
 govtrack-id: 412841
 bills-sponsored: 0
 bills-cosponsored: 0
+donors: "[[Elliott Management]]"
+related: "[[Paul Ryan]]"
 ---
 
 #politician #republican #senator #presidential2012 #bain-capital #self-funding #private-equity

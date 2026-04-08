@@ -2,12 +2,12 @@
 title: "Center for a New American Security"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
-related: "[[_Think Tank Framework]] · [[_Think Tank Index]]"
+related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]]"
 ---
 
 #think-tank #centrist #defense #national-security #revolving-door #military-industrial-complex #class-analysis

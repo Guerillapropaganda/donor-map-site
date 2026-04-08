@@ -2,7 +2,7 @@
 title: "Koch Network - Charles Koch"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 aliases: ["Koch Network", "Koch Brothers", "Charles Koch", "Koch Industries", "Americans for Prosperity", "AFP"]
 source-tier: 1
 parent: null
@@ -19,6 +19,7 @@ shareable-stat: "$2.9M donated. $1.9T in tax cuts. 655,172x return."
 issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
+related: "[[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]]"
 ---
 
 

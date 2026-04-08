@@ -2,13 +2,13 @@
 title: "Thorn Run Partners"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$32.3M (2025)"
 lobbyist-count: 37
 revolving-door-pct: "62.9%"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Comcast - NBCUniversal|Comcast]] · [[_Lobbying Firms Framework]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Comcast - NBCUniversal|Comcast]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]]"
 ---
 
 #lobbying #k-street #healthcare #pharma #defense #tech #telecom #appropriations #bipartisan

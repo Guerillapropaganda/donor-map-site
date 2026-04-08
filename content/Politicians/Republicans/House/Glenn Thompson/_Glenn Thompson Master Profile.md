@@ -2,7 +2,7 @@
 title: "Glenn Thompson"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -16,6 +16,8 @@ issues:
   - "Agriculture"
 total-received: "$1,227,441"
 fec-candidate-id: "H8PA05071"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]]"
+related: "[[John Boozman]]"
 ---
 
 

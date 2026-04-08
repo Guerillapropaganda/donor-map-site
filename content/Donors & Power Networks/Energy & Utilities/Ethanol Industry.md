@@ -36,6 +36,7 @@ total-revenue: 25479
 total-assets: 172173
 lei: "984500B40IB4DF09CF40"
 lei-jurisdiction: "IN"
+related: "[[Agribusiness Donor Bloc]]"
 ---
 
 #ethanol #corn #biofuel #rfs #agriculture #iowa #mandates #subsidies

@@ -2,7 +2,7 @@
 title: "Bradley Impact Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -18,6 +18,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 130264386
 total-assets: 200316165
+related: "[[American Enterprise Institute]]"
 ---
 
 #bradley #impact-fund #dark-money #conservative #donor-advised #philanthropy

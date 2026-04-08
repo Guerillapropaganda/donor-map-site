@@ -2,7 +2,7 @@
 title: "John Kennedy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -25,6 +25,7 @@ stock-trades: 2
 stock-trade-tickers:
   - "MTUM"
 fec-candidate-id: "S0MD00069"
+related: "[[Dan Crenshaw Master Profile]]"
 ---
 
 #kennedy #louisiana #judiciary #energy #petrochemical #populist-brand #folksy #banking #cfpb #cancer-alley

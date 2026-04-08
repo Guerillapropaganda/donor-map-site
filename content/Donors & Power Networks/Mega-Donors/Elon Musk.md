@@ -26,6 +26,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+related: "[[Georgia 2026 Senate Race]]"
 ---
 
 

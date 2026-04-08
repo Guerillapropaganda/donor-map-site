@@ -2,7 +2,7 @@
 title: "Israel - Government Lobbying Operation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -15,6 +15,8 @@ fara-status: "registrant"
 fara-records: 2
 fara-countries:
   - "QATAR"
+opposes: "[[Abby Martin]]"
+related: "[[Christians United for Israel]]"
 ---
 
 #israel #foreign #lobbying #aipac #aid #arms #settlements #gaza

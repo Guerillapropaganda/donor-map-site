@@ -17,6 +17,7 @@ net-assets: "$34.1M"
 tax-year: "2023"
 lobbying-spend: 10479974
 lobbying-filings: 106
+related: "[[Buffy Wicks]]"
 ---
 
 

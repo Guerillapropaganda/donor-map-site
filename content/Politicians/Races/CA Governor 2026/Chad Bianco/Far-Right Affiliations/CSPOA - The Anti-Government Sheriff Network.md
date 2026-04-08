@@ -2,9 +2,10 @@
 title: "CSPOA - The Anti-Government Sheriff Network"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
+related: "[[2022 Jail Death Crisis]]"
 ---
 
 

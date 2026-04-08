@@ -9,7 +9,7 @@ category: conservative
 tax-status: 501c3
 lei: "5493006YU7R03XUJSX56"
 lei-jurisdiction: "US-DC"
-related: "[[Heritage Foundation|Heritage Foundation (donor node)]] · [[Koch Network - Charles Koch]] · [[Charles Koch]] · [[Bradley Foundation]] · [[Leonard Leo]] · [[Federalist Society]]"
+related: "[[Heritage Foundation|Heritage Foundation (donor node)]] · [[Koch Network - Charles Koch]] · [[Charles Koch]] · [[Bradley Foundation]] · [[Leonard Leo]] · [[Federalist Society]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
 fara-status: "registrant"
 fara-records: 2
 fara-countries:

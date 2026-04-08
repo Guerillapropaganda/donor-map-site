@@ -35,6 +35,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+related: "[[John Fetterman Master Profile]]"
 ---
 
 #jdca #jewish-democratic-council #israel-lobby #democratic-party #pro-israel

@@ -2,7 +2,7 @@
 title: "Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses"
 type: story
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 issues:
@@ -11,6 +11,7 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Healthcare"
   - "Defense & Military"
+related: "[[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]]"
 ---
 
 #schumer #mcconnell #both-sides #donor-class #wall-street #goldman-sachs #aipac #dark-money #pharma #defense #class-analysis #follow-the-money #senate-leadership

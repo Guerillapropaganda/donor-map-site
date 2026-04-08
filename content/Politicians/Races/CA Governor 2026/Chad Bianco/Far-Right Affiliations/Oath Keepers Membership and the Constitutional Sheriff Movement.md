@@ -2,10 +2,11 @@
 title: "Oath Keepers Membership and the Constitutional Sheriff Movement"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
+related: "[[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]"
 ---
 
 

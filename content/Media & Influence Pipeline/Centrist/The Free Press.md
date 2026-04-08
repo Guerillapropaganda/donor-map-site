@@ -2,12 +2,12 @@
 title: "The Free Press"
 type: media-profile
 content-readiness: raw
-last-updated: 2026-03-31
+last-updated: 2026-04-08
 source-tier: null
 parent: null
 category: centrist
 platform: substack
-related: "[[Bari Weiss]]"
+related: "[[Bari Weiss]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
 ---
 
 #media-pipeline #centrist #media-network #heterodox #bari-weiss #free-press #tech-money

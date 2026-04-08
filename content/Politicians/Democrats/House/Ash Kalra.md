@@ -2,7 +2,7 @@
 title: "Ash Kalra"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 doj-press-mentions: "264312"
@@ -18,6 +18,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
+related: "[[Medicare for All - The Policy That Broke the Party]]"
 ---
 
 

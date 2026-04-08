@@ -13,6 +13,7 @@ subawards-received: 1
 subawards-received-amount: 30000
 top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "541810"
+related: "[[Sinclair Broadcast Group]]"
 ---
 
 #iheartmedia #radio #media #consolidation #deregulation #clear-channel #telecom-act

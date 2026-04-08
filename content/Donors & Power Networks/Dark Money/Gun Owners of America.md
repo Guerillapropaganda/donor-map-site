@@ -20,6 +20,7 @@ ein: "521256643"
 nonprofit-status: "501(c)(4)"
 total-revenue: 7676175
 total-assets: 2172940
+related: "[[Guns - Donors and Backers]]"
 ---
 
 #gun-owners-of-america #GOA #hardline-gun-rights #NRA-alternative #dark-money #second-amendment #Republican-donor

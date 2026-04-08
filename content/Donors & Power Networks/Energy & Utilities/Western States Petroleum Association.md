@@ -2,7 +2,7 @@
 title: "Western States Petroleum Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -46,6 +46,7 @@ regulatory-agencies:
   - "National Oceanic and Atmospheric Administration"
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
+related: "[[Valero Energy]]"
 ---
 
 

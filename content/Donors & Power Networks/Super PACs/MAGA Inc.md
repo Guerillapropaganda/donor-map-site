@@ -27,6 +27,7 @@ nonprofit-status: "501(c)(4)"
 sec-filings: 1
 sec-form-types:
   - "D"
+related: "[[Senate Majority PAC]]"
 ---
 
 #donor-node #super-pac #trump #mega-donors #dark-money

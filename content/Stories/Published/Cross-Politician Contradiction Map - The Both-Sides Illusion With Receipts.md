@@ -2,9 +2,10 @@
 title: "Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts"
 type: story
 content-readiness: ready
-last-updated: 2026-03-31
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
+related: "[[Intra-Republican Contradiction Map]]"
 ---
 
 #investigation #contradiction-map #class-analysis #both-sides #donor-first #follow-the-money #vault-infrastructure

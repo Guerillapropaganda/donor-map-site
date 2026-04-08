@@ -2,12 +2,12 @@
 title: "Greg Gutfeld"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[Sean Hannity]]"
 ---
 
 #media-pipeline #right #fox-news #late-night #comedy #pharma-ads #dominion

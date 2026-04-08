@@ -2,9 +2,10 @@
 title: "Deputy Misconduct and the Whistleblower Firing"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
+related: "[[Riverside Sheriffs Association]]"
 ---
 
 

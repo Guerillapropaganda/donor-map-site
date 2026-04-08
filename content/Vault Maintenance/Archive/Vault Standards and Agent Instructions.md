@@ -2,9 +2,10 @@
 title: "Vault Standards and Agent Instructions"
 type: reference
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
+related: "[[Sources Master Node]]"
 ---
 
 tags: #story

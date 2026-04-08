@@ -2,14 +2,14 @@
 title: "Ballard Partners"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$88.1M (2025)"
 lobbyist-count: 38
 fara-clients: 14
 revolving-door-pct: "29.7%"
-related: "[[Palantir Technologies]] · [[GEO Group]] · [[JPMorgan Chase]] · [[UnitedHealth Group - Optum|UnitedHealth Group]] · [[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]]"
+related: "[[Palantir Technologies]] · [[GEO Group]] · [[JPMorgan Chase]] · [[UnitedHealth Group - Optum|UnitedHealth Group]] · [[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]] · [[K&L Gates]]"
 court-cases: 33
 last-enriched: "2026-04-07"
 court-jurisdictions:

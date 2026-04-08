@@ -2,7 +2,7 @@
 title: "Ripple"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
@@ -17,6 +17,7 @@ subawards-received: 30
 subawards-received-amount: 14071246
 top-federal-agency: "Department of Health and Human Services"
 top-naics-code: "541611"
+related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]]"
 ---
 
 #crypto #payments #fairshake #sec-lawsuit #regulatory-capture

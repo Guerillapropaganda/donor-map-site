@@ -2,7 +2,7 @@
 title: "DSCC - Democratic Senatorial Campaign Committee"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -14,6 +14,7 @@ issues:
 sec-filings: 1
 sec-form-types:
   - "EX-99.(P)(II)"
+related: "[[2024-2026 Campaign Finance and Democratic Infrastructure]]"
 ---
 
 #dscc #senate #democratic #campaign-committee #fundraising #gatekeeper #dark-money #class-analysis

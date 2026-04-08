@@ -2,7 +2,7 @@
 title: "Bacardi - Bacardi USA"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-02
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Corporate"
@@ -13,6 +13,7 @@ politicians-funded:
   - "Maria Elvira Salazar"
   - "Carlos Gimenez"
   - "Debbie Wasserman Schultz"
+related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]]"
 ---
 
 #bacardi #cuba #embargo #trademark #rum #lobbying #helms-burton #class-analysis #follow-the-money

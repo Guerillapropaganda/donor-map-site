@@ -2,7 +2,7 @@
 title: "Zoe Lofgren"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,8 @@ issues:
   - "Antitrust & Monopoly"
 total-received: "$1,274,233"
 fec-candidate-id: "H4CA16049"
+donors: "[[Tech Industry]]"
+related: "[[Brian Babin]]"
 ---
 
 

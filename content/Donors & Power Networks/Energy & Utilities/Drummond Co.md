@@ -2,7 +2,7 @@
 title: "Drummond Co."
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -26,6 +26,7 @@ regulatory-agencies:
   - "Labor Department"
 ein: "412064833"
 nonprofit-status: "501(c)(3)"
+related: "[[Katie Britt]]"
 ---
 
 #coal-mining #alabama-politics #fossil-fuel #environmental-violations #political-donor

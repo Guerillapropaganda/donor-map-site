@@ -2,7 +2,7 @@
 title: "Labor Unions"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -29,6 +29,7 @@ court-jurisdictions:
   - "District Court, M.D. Florida"
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
+related: "[[Dan Osborn Master Profile]]"
 ---
 
 #labor #unions #democratic #organizing #collective-bargaining #pac #decline

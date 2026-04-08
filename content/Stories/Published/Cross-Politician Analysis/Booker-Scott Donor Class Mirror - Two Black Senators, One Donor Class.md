@@ -2,7 +2,7 @@
 title: "Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class"
 type: story
 content-readiness: draft
-last-updated: 2026-03-31
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 issues:
@@ -10,6 +10,7 @@ issues:
   - "Healthcare"
   - "Israel & Foreign Policy"
   - "Criminal Justice"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
 ---
 
 

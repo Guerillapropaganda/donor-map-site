@@ -2,7 +2,7 @@
 title: "Ocean Conservancy"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -24,6 +24,7 @@ regulatory-agencies:
   - "Ocean Energy Management Bureau"
   - "Regulatory Information Service Center"
   - "Securities and Exchange Commission"
+related: "[[CREW - Citizens for Responsibility and Ethics in Washington]]"
 ---
 
 #ocean-conservancy #environment #nonprofit #conservation #fishing #plastics #dark-money #corporate-capture #greenwashing

@@ -2,7 +2,7 @@
 title: "Trump Victory"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -23,6 +23,7 @@ sec-form-types:
   - "N-CSR/A"
   - "N-CSRS"
   - "PX14A6G"
+related: "[[WinRed]]"
 ---
 
 

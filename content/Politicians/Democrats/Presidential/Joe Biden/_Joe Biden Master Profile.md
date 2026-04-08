@@ -2,7 +2,7 @@
 title: "Joe Biden Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,7 @@ top-donors:
   - "Pfizer"
   - "Moderna"
 fec-candidate-id: "P60012143"
+related: "[[Cory Booker]]"
 ---
 
 

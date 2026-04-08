@@ -2,7 +2,7 @@
 title: "Eli Broad Foundation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Education"
@@ -16,6 +16,7 @@ total-revenue: 163352987
 total-assets: 1860562867
 lei: "549300MEWH8MEHZXWM71"
 lei-jurisdiction: "US-CA"
+related: "[[CTA - California Teachers Association]]"
 ---
 
 

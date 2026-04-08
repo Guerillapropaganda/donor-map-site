@@ -2,7 +2,7 @@
 title: "Maria Cantwell"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -27,6 +27,8 @@ phone: "202-224-3441"
 stock-trades: 6
 stock-trade-tickers:
   - "RNWK"
+donors: "[[Jeff Bezos]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
 ---
 
 

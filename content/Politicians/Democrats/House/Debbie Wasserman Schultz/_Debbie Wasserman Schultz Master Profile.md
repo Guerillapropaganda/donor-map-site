@@ -30,6 +30,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+donors: "[[UNITE HERE]]"
 ---
 
 #politician #democrat #house #florida #sugar #aipac #dnc #both-sides-illusion #class-analysis #follow-the-money

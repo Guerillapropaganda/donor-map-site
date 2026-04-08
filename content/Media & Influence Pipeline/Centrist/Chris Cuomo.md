@@ -2,12 +2,12 @@
 title: "Chris Cuomo"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
 platform: cable-news
-related: "[[Megyn Kelly]] · [[Bari Weiss]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]]"
+related: "[[Megyn Kelly]] · [[Bari Weiss]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Dave Rubin]]"
 donors: "[]"
 ---
 

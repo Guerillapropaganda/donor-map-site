@@ -2,12 +2,13 @@
 title: "AIPAC Illinois Shell PAC Operation"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]]"
 ---
 
 #2026-election #house #illinois #aipac #shell-pac #dark-money #class-analysis

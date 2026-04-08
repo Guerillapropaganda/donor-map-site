@@ -64,6 +64,7 @@ lei-jurisdiction: "US-DE"
 nonprofit-status: "501(c)(3)"
 total-revenue: 2245488721
 total-assets: 1219377637
+related: "[[The Wall Street Senator - Finance Industry Alignment]]"
 ---
 
 #megabank #wall-street #jamie-dimon #bipartisan #financial-deregulation #revolving-door #too-big-to-fail #both-sides

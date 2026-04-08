@@ -2,7 +2,7 @@
 title: "Adelson Family"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -17,6 +17,7 @@ ein: 223769645
 annual-revenue: "$706K"
 net-assets: "$5.9M"
 tax-year: "2023"
+related: "[[Catherine Cortez Masto]]"
 ---
 
 

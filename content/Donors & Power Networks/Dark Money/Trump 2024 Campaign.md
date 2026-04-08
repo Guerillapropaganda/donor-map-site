@@ -2,7 +2,7 @@
 title: "Trump 2024 Campaign"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -18,6 +18,7 @@ court-jurisdictions:
   - "District Court, E.D. Virginia"
   - "District Court, S.D. Iowa"
   - "District Court, S.D. New York"
+related: "[[Fairshake PAC]]"
 ---
 
 #trump #2024 #campaign #fundraising #super-pac #mega-donor #maga #dark-money #billionaire #transactional

@@ -2,7 +2,7 @@
 title: "Senate Leadership Fund"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -25,6 +25,7 @@ sec-form-types:
   - "DEF 14A"
 ein: "862883453"
 nonprofit-status: "501(c)(4)"
+related: "[[Senate Majority PAC]]"
 ---
 
 #donor-node #super-pac #republican #senate #mcconnell #thune #dark-money #leadership-pac #class-analysis #follow-the-money

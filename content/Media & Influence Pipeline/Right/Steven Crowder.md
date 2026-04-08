@@ -2,12 +2,12 @@
 title: "Steven Crowder"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Peter Thiel]] · [[Koch Network - Charles Koch]]"
+related: "[[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tucker Carlson]]"
 ---
 
 #media-pipeline #right #conservative-media #youtube #rumble #daily-wire #billionaire-funding #anti-union #culture-war

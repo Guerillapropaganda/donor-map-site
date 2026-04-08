@@ -34,6 +34,7 @@ net-assets: "$1"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+related: "[[Valero Energy]]"
 ---
 
 #devon #energy #oklahoma #shale #fracking #permian #oil-gas

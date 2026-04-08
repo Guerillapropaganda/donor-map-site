@@ -19,6 +19,7 @@ ein: 110303001
 annual-revenue: "$14.7B"
 net-assets: "$56.7B"
 tax-year: "2023"
+related: "[[Richard Neal Master Profile]]"
 ---
 
 #asset-manager #johnson-family #private-equity #financial-deregulation #crypto

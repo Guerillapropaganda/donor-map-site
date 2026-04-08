@@ -2,7 +2,7 @@
 title: "Apple"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -45,6 +45,7 @@ regulatory-agencies:
   - "Federal Energy Regulatory Commission"
   - "Federal Reserve System"
   - "Food and Drug Administration"
+related: "[[Amy Klobuchar]]"
 ---
 
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy

@@ -2,7 +2,7 @@
 title: "Walton Family Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Education"
@@ -13,6 +13,7 @@ ein: 472066714
 annual-revenue: "$81K"
 net-assets: "$1.9M"
 tax-year: "2023"
+related: "[[Virginia Foxx]]"
 ---
 
 

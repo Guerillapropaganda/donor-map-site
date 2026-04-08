@@ -2,7 +2,7 @@
 title: "Jeffrey Yass"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -17,6 +17,7 @@ federal-register-mentions: 4
 last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Securities and Exchange Commission"
+related: "[[Intra-Republican Contradiction Map]]"
 ---
 
 #donor #yass #tiktok #bytedance #trading #libertarian #class-analysis #follow-the-money #trump #school-choice #club-for-growth #mega-donor #pennsylvania-money

@@ -2,7 +2,7 @@
 title: "Real Estate Development Industry Bloc"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -30,6 +30,7 @@ ofac-programs:
   - "ILLICIT-DRUGS-EO14059"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+related: "[[Steve Witkoff]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Insurance Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -38,6 +38,7 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Housing and Urban Development Department"
   - "Internal Revenue Service"
+related: "[[Healthcare Sector]]"
 ---
 
 #insurance #health-insurance #lobbying #aca #public-option #bipartisan #medicare-advantage #ahip #revolving-door

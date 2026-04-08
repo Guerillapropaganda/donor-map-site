@@ -2,7 +2,7 @@
 title: "Maria Elvira Salazar"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -19,6 +19,7 @@ ofac-programs:
   - "SDNTK"
 total-received: "$922,124"
 fec-candidate-id: "H8FL27185"
+donors: "[[Bacardi - Bacardi USA]]"
 ---
 
 #politician #republican #house #florida #cuba #exile #class-analysis #follow-the-money #miami #little-havana

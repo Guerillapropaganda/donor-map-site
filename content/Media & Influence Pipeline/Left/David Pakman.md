@@ -2,12 +2,12 @@
 title: "David Pakman"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Kyle Kulinski]] · [[Sam Seder]] · [[Rachel Maddow]] · [[John Oliver]] · [[Cenk Uygur]] · [[_Media Pipeline Framework]]"
+related: "[[Kyle Kulinski]] · [[Sam Seder]] · [[Rachel Maddow]] · [[John Oliver]] · [[Cenk Uygur]] · [[_Media Pipeline Framework]] · [[TYT Network - The Young Turks]]"
 donors: "[[Sixteen Thirty Fund]] (Chorus Creator Incubator Program, disclosed Aug 2025)"
 ---
 

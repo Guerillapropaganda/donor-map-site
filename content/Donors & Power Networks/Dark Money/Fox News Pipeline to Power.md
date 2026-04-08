@@ -2,7 +2,7 @@
 title: "Fox News Pipeline to Power"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,6 +10,7 @@ entity-type: "Story"
 politicians-funded:
   - "Pete Hegseth"
   - "Donald Trump"
+related: "[[Fox News - Murdoch Media Empire]]"
 ---
 
 #fox-news #media #pipeline #republican #trump #conservative #revolving-door #propaganda

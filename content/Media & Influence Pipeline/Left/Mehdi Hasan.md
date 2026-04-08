@@ -2,12 +2,12 @@
 title: "Mehdi Hasan"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26 (run 6)
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: ""
+related: "[[Owen Jones]]"
 opposes: "[[Fox Corp - Rupert Murdoch]]"
 ---
 

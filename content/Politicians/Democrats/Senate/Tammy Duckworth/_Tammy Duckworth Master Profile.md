@@ -2,7 +2,7 @@
 title: "Tammy Duckworth"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -35,6 +35,7 @@ stock-trade-tickers:
   - "DVMT"
 total-received: "$385,884"
 fec-candidate-id: "H6IL06141"
+donors: "[[Democracy Alliance]]"
 ---
 
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion

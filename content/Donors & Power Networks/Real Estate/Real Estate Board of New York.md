@@ -31,6 +31,7 @@ ein: 131201480
 annual-revenue: "$17.2M"
 net-assets: "$26.7M"
 tax-year: "2023"
+related: "[[Kathy Hochul]]"
 ---
 
 #real-estate-lobby #nyc-politics #zoning #housing-policy #developer-power #class-analysis #follow-the-money

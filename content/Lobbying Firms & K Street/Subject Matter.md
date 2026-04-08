@@ -2,13 +2,13 @@
 title: "Subject Matter (now Avoq)"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$18.7M"
 lobbyist-count: 18
 revolving-door-pct: "72.2%"
-related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Blackstone Group]]"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Blackstone Group]] · [[Mehlman Consulting]]"
 ---
 
 #lobbying #k-street #democratic #biden #bundling #tech #finance #crypto #healthcare #clean-energy #chinese-military

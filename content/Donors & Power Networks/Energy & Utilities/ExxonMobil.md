@@ -46,6 +46,7 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "324191"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+related: "[[WSPA - Western States Petroleum Association]]"
 ---
 
 #donor-node #fossil-fuel #oil-gas #exxonmobil #climate #lobbying #bipartisan #donor #class-analysis #follow-the-money

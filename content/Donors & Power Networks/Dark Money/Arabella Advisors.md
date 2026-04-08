@@ -2,7 +2,7 @@
 title: "Arabella Advisors"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,6 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
+related: "[[National Progressive Donor Networks]]"
 ---
 
 #donor-node #dark-money #democrat #fiscal-sponsorship #infrastructure #class-analysis #donor

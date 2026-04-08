@@ -2,11 +2,12 @@
 title: "QVT Financial"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
+related: "[[The Roivant Fortune and the FDA Deregulation Conflict]]"
 ---
 
 #vivek-ramaswamy #hedge-fund #biotech-investments #roivant-sciences #venture-capital

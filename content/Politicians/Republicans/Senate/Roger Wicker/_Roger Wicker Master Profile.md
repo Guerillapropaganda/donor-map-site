@@ -2,7 +2,7 @@
 title: "Roger Wicker"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -25,6 +25,8 @@ stock-trades: 8
 stock-trade-tickers:
   - "GDV"
   - "BIF"
+donors: "[[Raytheon (RTX Corporation)]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
 ---
 
 

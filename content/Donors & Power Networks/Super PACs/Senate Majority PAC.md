@@ -2,7 +2,7 @@
 title: "Senate Majority PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -24,6 +24,7 @@ court-jurisdictions:
   - "District Court, N.D. Florida"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
+related: "[[Senate Leadership Fund]]"
 ---
 
 #donor-node #super-pac #democratic #senate #schumer #dark-money #leadership-pac #donor

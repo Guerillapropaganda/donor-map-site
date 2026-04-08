@@ -53,6 +53,7 @@ tax-year: "2023"
 nonprofit-status: "501(c)(6)"
 total-revenue: 173949
 total-assets: 231861
+related: "[[DeVos Family]]"
 ---
 
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis

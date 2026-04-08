@@ -2,7 +2,7 @@
 title: "Leidos"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -69,6 +69,7 @@ regulatory-agencies:
 federal-awards-total: 10432350765
 federal-contracts-count: 25
 federal-grants-count: 9
+related: "[[Palantir Technologies Political Operation]]"
 ---
 
 #leidos #defense #intelligence #it #government #contractor #cybersecurity #revolving-door #outsourcing #surveillance

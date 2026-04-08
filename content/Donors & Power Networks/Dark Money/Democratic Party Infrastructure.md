@@ -2,7 +2,7 @@
 title: "Democratic Party Infrastructure"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -25,6 +25,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+related: "[[Ohio Democratic Party]]"
 ---
 
 #democratic #party #infrastructure #dnc #dccc #dscc #actblue #organizing

@@ -2,7 +2,7 @@
 title: "Michael Waltz"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,7 @@ issues:
 total-received: "$3,109"
 fec-candidate-id: "H8FL06148"
 bioguide-id: "A000383"
+related: "[[Fanjul Family - Florida Crystals]]"
 ---
 
 #politician #republican #trump-cabinet #un-ambassador #national-security #defense #signalgate #class-analysis #follow-the-money

@@ -2,7 +2,7 @@
 title: "Ohio Democratic Party"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -36,6 +36,7 @@ total-political-spend: "$9,177,680"
 politicians-funded:
   - "Sherrod Brown"
   - "Richard Neal"
+related: "[[Ohio Federation of Teachers]]"
 ---
 
 #ohio #democratic-party #state-party #rust-belt #labor #decline #donor-class #working-class

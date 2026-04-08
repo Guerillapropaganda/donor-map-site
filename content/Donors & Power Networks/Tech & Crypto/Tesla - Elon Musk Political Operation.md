@@ -10,6 +10,7 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+related: "[[America PAC - Elon Musk]]"
 ---
 
 #tesla #musk #ev #doge #government #twitter #space #deregulation

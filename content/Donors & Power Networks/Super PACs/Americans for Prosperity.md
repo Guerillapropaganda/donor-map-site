@@ -2,7 +2,7 @@
 title: "Americans for Prosperity"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -28,6 +28,7 @@ ein: 753148958
 annual-revenue: "$186.4M"
 net-assets: "$45.0M"
 tax-year: "2023"
+related: "[[Senate Majority PAC]]"
 ---
 
 #donor-node #koch-network #dark-money #super-pac #501c4 #astroturf #state-capture #class-analysis #follow-the-money

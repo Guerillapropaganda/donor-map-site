@@ -12,7 +12,7 @@ fara-status: "registrant"
 fara-records: 2
 fara-countries:
   - "JAPAN"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackstone Group]] · [[Raytheon (RTX)|RTX Corp]] · [[_Lobbying Firms Framework]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackstone Group]] · [[Raytheon (RTX)|RTX Corp]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]]"
 court-cases: 6
 last-enriched: "2026-04-08"
 court-jurisdictions:

@@ -2,9 +2,10 @@
 title: "2022 Jail Death Crisis"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Chad Bianco Master Profile]]
+related: "[[Riverside Sheriffs Association]]"
 ---
 
 

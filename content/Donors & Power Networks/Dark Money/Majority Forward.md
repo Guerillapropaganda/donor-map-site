@@ -14,6 +14,7 @@ issues:
 ein: "833690373"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-08"
+related: "[[DSCC - Democratic Senatorial Campaign Committee]]"
 ---
 
 #majority-forward #dark-money #democratic #501c4 #senate #schumer #dark-money-symmetry

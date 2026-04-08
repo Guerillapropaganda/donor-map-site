@@ -21,6 +21,7 @@ subawards-issued: 1
 subawards-issued-amount: 19500000
 subawards-received: 1
 subawards-received-amount: 19500000
+related: "[[AI Deregulation Super PAC - Leading the Future]]"
 ---
 
 #openai #ai #chatgpt #altman #microsoft #regulation #nonprofit-conversion

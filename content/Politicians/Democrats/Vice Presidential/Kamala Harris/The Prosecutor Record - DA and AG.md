@@ -2,9 +2,10 @@
 title: "The Prosecutor Record - DA and AG"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Kamala Harris Master Profile]]
+related: "[[VP Labor Record - What Unions Got and Didn't Get]]"
 ---
 
 

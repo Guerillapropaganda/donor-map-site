@@ -2,7 +2,7 @@
 title: "Alpine Group"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$19.7M"
@@ -13,7 +13,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 316336
 total-assets: 148627
-related: "[[Palantir Technologies]] · [[Blackstone Group]] · [[Ford Motor Company]] · [[Amazon]] · [[_Lobbying Firms Framework]]"
+related: "[[Palantir Technologies]] · [[Blackstone Group]] · [[Ford Motor Company]] · [[Amazon]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]]"
 ---
 
 #lobbying #k-street #tax-policy #energy #defense #appropriations #tech #pharma #revolving-door #bipartisan-access

@@ -2,12 +2,13 @@
 title: "Illinois House Primaries 2026 - The PAC Laboratory"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 issues:
   - "Israel & Foreign Policy"
   - "Technology"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 
 #2026-election #house #illinois #race-frame #aipac #crypto #ai-pac #primary

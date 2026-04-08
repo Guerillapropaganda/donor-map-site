@@ -2,12 +2,12 @@
 title: "Jake Tapper"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27 (run 18)
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Anderson Cooper]]"
 ---
 
 #media-pipeline #centrist #cnn #corporate-media #ownership-instability #novelist #debate-moderator

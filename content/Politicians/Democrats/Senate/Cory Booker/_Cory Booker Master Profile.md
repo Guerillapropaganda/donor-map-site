@@ -2,7 +2,7 @@
 title: "Cory Booker"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -39,6 +39,8 @@ bills-sponsored: 92
 bills-cosponsored: 541
 website: "https://www.booker.senate.gov"
 phone: "202-224-3224"
+related: "[[PhRMA Kills Drug Negotiation From Both Sides]]"
+donors: "[[JB Pritzker]]"
 ---
 
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door

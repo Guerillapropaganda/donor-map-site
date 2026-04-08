@@ -2,7 +2,7 @@
 title: "Democracy Alliance"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$116,675"
+related: "[[New Venture Fund]]"
 ---
 
 #donor-consortium #dark-money #democrat #secretive-giving #class-analysis #donor

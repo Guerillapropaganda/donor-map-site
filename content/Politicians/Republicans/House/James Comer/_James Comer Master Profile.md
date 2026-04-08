@@ -2,7 +2,7 @@
 title: "James Comer"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,7 @@ bills-sponsored: 7
 bills-cosponsored: 67
 website: "https://comer.house.gov"
 phone: "202-225-3115"
+related: "[[The Oversight Committee and the Anti-Corruption Brand]]"
 ---
 
 

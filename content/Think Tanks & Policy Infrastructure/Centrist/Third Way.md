@@ -12,7 +12,7 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
 total-revenue: 60561784
 total-assets: 65953090
-related: "[[Goldman Sachs]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Democracy Alliance]]"
+related: "[[Goldman Sachs]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Democracy Alliance]] · [[Brookings Institution]]"
 lei: "213800S9PS2GFGFQQB08"
 lei-jurisdiction: "GB"
 ---

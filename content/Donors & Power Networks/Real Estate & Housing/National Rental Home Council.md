@@ -43,6 +43,7 @@ sec-form-types:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+related: "[[Invitation Homes - Institutional Landlords]]"
 ---
 
 #donor #real-estate #housing #trade-association #institutional-landlords #revolving-door #class-analysis #follow-the-money

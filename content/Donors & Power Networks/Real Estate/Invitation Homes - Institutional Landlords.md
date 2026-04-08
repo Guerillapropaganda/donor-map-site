@@ -2,7 +2,7 @@
 title: "Invitation Homes - Institutional Landlords"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -13,6 +13,7 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+related: "[[The Housing Progressive and Wall Street Tension]]"
 ---
 
 #invitation-homes #institutional-landlord #real-estate #housing #blackstone #rent #private-equity #class-analysis #follow-the-money

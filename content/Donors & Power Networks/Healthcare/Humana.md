@@ -2,7 +2,7 @@
 title: "Humana"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -25,6 +25,7 @@ court-jurisdictions:
   - "District Court, S.D. Texas"
   - "District Court, W.D. Kentucky"
   - "United States Bankruptcy Court, W.D. Kentucky"
+related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
 ---
 
 #humana #health-insurance #medicare-advantage #lobbying #kentucky

@@ -11,6 +11,7 @@ issues:
   - "Technology"
 lobbying-spend: 1258000
 lobbying-filings: 51
+related: "[[The Dark Money Crusader and Court Reform]]"
 ---
 
 #donor #donor-network #tech #democratic #2024-realignment #silicon-valley #billionaire-coordination #ai-regulation #immigration-policy

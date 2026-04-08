@@ -2,9 +2,10 @@
 title: "The Silicon Valley Billionaire Donor Map"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Matt Mahan Master Profile]]
+related: "[[Tech Industry Policy Alignment and the Billionaire Tax Fight]]"
 ---
 
 

@@ -2,9 +2,10 @@
 title: "The Small-Dollar Model and the Anti-Donor Experiment"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-02
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexandria Ocasio-Cortez Master Profile]]
+related: "[[The Green New Deal - From Resolution to Reality]]"
 ---
 
 

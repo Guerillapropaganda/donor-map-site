@@ -2,9 +2,10 @@
 title: "How Money Captures Media — The Donor Map Media Pipeline"
 type: story
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
+related: "[[Intra-Republican Contradiction Map]]"
 ---
 
 #media-pipeline #cross-analysis #class-analysis #donor-map #both-sides-illusion

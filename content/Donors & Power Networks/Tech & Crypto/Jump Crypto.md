@@ -2,7 +2,7 @@
 title: "Jump Crypto"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
@@ -20,6 +20,7 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
+related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]]"
 ---
 
 #crypto #trading #jump-trading #fairshake #political-spending

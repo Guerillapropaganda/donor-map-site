@@ -2,7 +2,7 @@
 title: "Charles Koch"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -14,6 +14,7 @@ ein: 480918408
 annual-revenue: "$1.3M"
 net-assets: "$748.2M"
 tax-year: "2023"
+related: "[[The Leo Pipeline and Operation Higher Court]]"
 ---
 
 #koch #mega-donor #libertarian #deregulation #climate-denial #network #dark-money

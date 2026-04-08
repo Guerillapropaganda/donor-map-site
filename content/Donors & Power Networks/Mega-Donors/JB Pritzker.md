@@ -40,6 +40,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
 lobbying-spend: 5422000
 lobbying-filings: 87
+related: "[[Juliana Stratton Master Profile]]"
 ---
 
 #jb-pritzker #illinois #hyatt #billionaire #self-funder #democratic #governor #mega-donor #dark-money #2028 #think-big-america #dga #class-analysis

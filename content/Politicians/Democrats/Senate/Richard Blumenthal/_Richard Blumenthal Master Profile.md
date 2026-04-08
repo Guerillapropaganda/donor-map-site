@@ -2,7 +2,7 @@
 title: "Richard Blumenthal"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -36,6 +36,8 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+donors: "[[Google - Alphabet]]"
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Business Council of Alabama"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -25,6 +25,7 @@ court-jurisdictions:
   - "District Court, S.D. Mississippi"
   - "District Court, W.D. Washington"
   - "United States Bankruptcy Court, S.D. Texas"
+related: "[[Katie Britt]]"
 ---
 
 #alabama-politics #business-lobby #regulatory-capture #dark-money #state-control

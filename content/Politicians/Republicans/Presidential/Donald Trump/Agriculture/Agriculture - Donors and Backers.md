@@ -2,9 +2,10 @@
 title: "Agriculture - Donors and Backers"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
+related: "[[Agricultural Labor Vulnerability Donors]]"
 ---
 
 

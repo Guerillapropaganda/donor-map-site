@@ -2,7 +2,7 @@
 title: "New Venture Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -54,6 +54,7 @@ sec-form-types:
   - "S-1/A"
   - "S-4"
   - "S-4/A"
+related: "[[National Progressive Donor Networks]]"
 ---
 
 #new-venture-fund #arabella #dark-money #liberal #501c3 #fiscal-sponsorship

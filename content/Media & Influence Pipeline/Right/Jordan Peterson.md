@@ -2,12 +2,12 @@
 title: "Jordan Peterson"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Ben Shapiro]] · [[Matt Walsh]] · [[Steven Crowder]] · [[Lex Fridman]] · [[_Media Pipeline Framework]]"
+related: "[[Ben Shapiro]] · [[Matt Walsh]] · [[Steven Crowder]] · [[Lex Fridman]] · [[_Media Pipeline Framework]] · [[Dave Rubin]]"
 donors: "[[Wilks Brothers]]"
 ---
 

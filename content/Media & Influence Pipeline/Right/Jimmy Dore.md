@@ -2,12 +2,12 @@
 title: "Jimmy Dore"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Peter Thiel]]"
+related: "[[Peter Thiel]] · [[TYT Network - The Young Turks]]"
 ---
 
 #media-pipeline #left #youtube #rumble #force-the-vote #audience-swap #anti-establishment

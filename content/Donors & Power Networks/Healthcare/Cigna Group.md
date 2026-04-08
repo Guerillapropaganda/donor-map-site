@@ -2,7 +2,7 @@
 title: "Cigna Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -17,6 +17,7 @@ lei: "549300VIWYMSIGT1U456"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+related: "[[Johnson & Johnson]]"
 ---
 
 #cigna #health-insurance #lobbying #pbm #express-scripts #healthcare

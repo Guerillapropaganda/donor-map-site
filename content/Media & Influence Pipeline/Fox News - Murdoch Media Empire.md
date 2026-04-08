@@ -2,12 +2,12 @@
 title: "Fox News - Murdoch Media Empire"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]]"
+related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]]"
 ---
 
 #media-pipeline #fox-news #murdoch #institutional #right #propaganda #class-analysis #follow-the-money

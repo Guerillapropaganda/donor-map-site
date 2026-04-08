@@ -2,7 +2,7 @@
 title: "Cathy McMorris Rodgers Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -19,6 +19,7 @@ top-donors:
   - "Chevron"
 total-received: "$3,631,602"
 fec-candidate-id: "H4WA05077"
+related: "[[Kevin McCarthy Master Profile]]"
 ---
 
 

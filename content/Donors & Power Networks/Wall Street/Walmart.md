@@ -38,6 +38,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
 lobbying-spend: 17705000
 lobbying-filings: 56
+related: "[[The Agriculture-Appropriations Pipeline and Arkansas Defense]]"
 ---
 
 #walmart #walton #retail #anti-union #minimum-wage #arkansas #bipartisan #corporate-welfare #estate-tax #school-choice #pac

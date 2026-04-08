@@ -2,9 +2,10 @@
 title: "Post-October 7 Positions and Flip History"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Gavin Newsom Master Profile]]
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]]"
 ---
 
 

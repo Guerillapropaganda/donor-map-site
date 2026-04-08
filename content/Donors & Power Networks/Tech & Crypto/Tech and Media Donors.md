@@ -2,7 +2,7 @@
 title: "Tech and Media Donors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -12,6 +12,7 @@ issues:
   - "Antitrust & Monopoly"
 lobbying-spend: 9122856
 lobbying-filings: 133
+related: "[[Raphael Warnock Master Profile]]"
 ---
 
 #tech #media #donors #section-230 #antitrust #streaming #ip #copyright

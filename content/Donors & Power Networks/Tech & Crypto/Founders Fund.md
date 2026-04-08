@@ -2,7 +2,7 @@
 title: "Founders Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -22,6 +22,7 @@ net-assets: "$421K"
 tax-year: "2023"
 lei: "254900B4R5J7N0865R59"
 lei-jurisdiction: "LU"
+related: "[[Joe Rogan]]"
 ---
 
 #founders-fund #peter-thiel #venture-capital #tech #libertarian #palantir #republican #defense #paypal-mafia #dark-money #class-analysis #follow-the-money

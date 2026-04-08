@@ -2,7 +2,7 @@
 title: "Healthcare Sector"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -25,6 +25,7 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "District Court, S.D. Iowa"
   - "District Court, W.D. Michigan"
+related: "[[Raphael Warnock Master Profile]]"
 ---
 
 #healthcare #sector #lobbying #bipartisan #pharma #insurance #hospitals #aca #medicare #drug-pricing #class-analysis #follow-the-money

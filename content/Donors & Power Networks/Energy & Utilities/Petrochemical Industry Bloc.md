@@ -2,7 +2,7 @@
 title: "Petrochemical Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -15,6 +15,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
 ofac-programs:
   - "NPWMD] [IFSR"
+related: "[[American Petroleum Institute]]"
 ---
 
 #petrochemical #plastics #refining #cancer-alley #louisiana #texas #environmental-justice

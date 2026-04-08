@@ -2,7 +2,7 @@
 title: "Meta - Facebook"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -34,6 +34,7 @@ sec-form-types:
   - "N-CSRS"
   - "PART II"
   - "PX14A6G"
+related: "[[The Judiciary Committee and Tech Accountability]]"
 ---
 
 #meta #facebook #tech #lobbying #privacy #section-230 #advertising #zuckerberg #antitrust #ai #surveillance #class-analysis #follow-the-money #revolving-door

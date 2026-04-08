@@ -2,7 +2,7 @@
 title: "Defense Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -13,6 +13,7 @@ lobbying-spend: 2047000
 lobbying-filings: 123
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+related: "[[Defense Contractors]]"
 ---
 
 #defense #industry-bloc #lobbying #military-industrial-complex #pentagon #ndaa #contractors

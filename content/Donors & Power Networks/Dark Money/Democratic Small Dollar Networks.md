@@ -2,7 +2,7 @@
 title: "Democratic Small Dollar Networks"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,6 +15,7 @@ politicians-funded:
   - "Joe Biden"
   - "Nancy Pelosi"
   - "Chuck Schumer"
+related: "[[Small Dollar Donors - ActBlue]]"
 ---
 
 #small-dollar #actblue #democratic #grassroots #progressive #fundraising #campaign-finance #winred

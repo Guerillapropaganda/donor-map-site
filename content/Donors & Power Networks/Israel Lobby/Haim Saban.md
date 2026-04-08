@@ -20,6 +20,7 @@ annual-revenue: "$2.0M"
 net-assets: "$26.3M"
 tax-year: "2020"
 total-political-spend: "$20,115,751"
+related: "[[JCRC Bay Area]]"
 ---
 
 

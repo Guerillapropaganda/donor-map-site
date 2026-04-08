@@ -2,12 +2,12 @@
 title: "TYT Network - The Young Turks"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-31
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Cenk Uygur]] · [[Ana Kasparian]] · [[Kyle Kulinski]] · [[Jimmy Dore]]"
+related: "[[Cenk Uygur]] · [[Ana Kasparian]] · [[Kyle Kulinski]] · [[Jimmy Dore]] · [[David Pakman]]"
 ---
 
 #media-pipeline #left #media-network #tyt #progressive-media #venture-capital #audience-capture #labor-contradiction #independence-theater

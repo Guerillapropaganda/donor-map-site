@@ -19,6 +19,8 @@ top-donors:
 govtrack-id: 400351
 bills-sponsored: 0
 bills-cosponsored: 0
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
+donors: "[[Jewish Democratic Council of America]]"
 ---
 
 #paul-ryan #speaker-of-house #tax-cuts-jobs-act #deficit-hawk #koch-network #fox-corporation #finance #class-analysis

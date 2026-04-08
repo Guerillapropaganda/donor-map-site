@@ -2,7 +2,7 @@
 title: "Kelcy Warren - Energy Transfer Partners"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -23,6 +23,7 @@ sec-form-types:
   - "8-K"
   - "EX-99.1"
   - "FWP"
+related: "[[The Power Grid Failure and the Fossil Fuel Protection Racket]]"
 ---
 
 #donor #mega-donor #fossil-fuel #pipeline #dapl #texas #republican #energy-transfer #trump #class-analysis #follow-the-money

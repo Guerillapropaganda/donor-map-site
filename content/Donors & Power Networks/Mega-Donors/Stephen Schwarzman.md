@@ -2,7 +2,7 @@
 title: "Stephen Schwarzman"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -54,6 +54,7 @@ sec-form-types:
   - "SC 13D/A"
   - "SC 13G"
   - "SC 14D9"
+related: "[[Intra-Republican Contradiction Map]]"
 ---
 
 #donor #billionaire #republican #private-equity #blackstone #wall-street

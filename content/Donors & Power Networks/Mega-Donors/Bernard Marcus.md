@@ -2,7 +2,7 @@
 title: "Bernard Marcus"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -60,6 +60,7 @@ sec-form-types:
   - "SC TO-T/A"
 lei: "213800MWAHGQE6BU9654"
 lei-jurisdiction: "GB"
+related: "[[Charlie Kirk]]"
 ---
 
 #donor-node #mega-donor #retail #home-depot #republican #israel #class-analysis

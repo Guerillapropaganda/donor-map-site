@@ -2,12 +2,12 @@
 title: "Sean Hannity"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27 (run 18)
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[Greg Gutfeld]]"
 ---
 
 #media-pipeline #right #fox-news #talk-radio #real-estate #trump-advisor #pharma-ads #january-6

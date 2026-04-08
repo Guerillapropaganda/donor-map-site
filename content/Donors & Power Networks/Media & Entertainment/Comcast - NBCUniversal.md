@@ -2,7 +2,7 @@
 title: "Comcast - NBCUniversal"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -49,6 +49,7 @@ sec-form-types:
   - "PX14A6G"
   - "S-8"
   - "SC 13D/A"
+related: "[[The Telecom and Media Monopoly Oversight]]"
 ---
 
 #comcast #nbcuniversal #telecom #media #lobbying #net-neutrality #cable #broadband #monopoly #revolving-door #brian-roberts

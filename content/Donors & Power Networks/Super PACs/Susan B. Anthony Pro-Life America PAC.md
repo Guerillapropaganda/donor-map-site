@@ -2,11 +2,12 @@
 title: "Susan B. Anthony Pro-Life America PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
+related: "[[Louisiana 2026 Senate Race]]"
 ---
 
 #anti-abortion #super-pac #republican-kingmaker #reproductive-rights #electoral-power

@@ -2,11 +2,12 @@
 title: "Moinian Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Real Estate"
 entity-type: "Corporation"
+related: "[[Kathy Hochul]]"
 ---
 
 #nyc-real-estate #developer #hochul-donor #commercial-real-estate #moinian

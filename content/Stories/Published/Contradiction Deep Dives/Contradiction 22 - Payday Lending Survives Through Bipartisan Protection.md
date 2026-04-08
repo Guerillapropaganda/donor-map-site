@@ -2,9 +2,10 @@
 title: "Payday Lending Survives Through Bipartisan Protection"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]]"
 ---
 
 #contradiction #payday-lending #consumer-protection #CFPB #class-analysis

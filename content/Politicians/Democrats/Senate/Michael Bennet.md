@@ -2,7 +2,7 @@
 title: "Michael Bennet"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 stock-trades: 7
@@ -11,6 +11,7 @@ stock-trade-tickers:
   - "LVLT"
 total-received: "$7,524,650"
 fec-candidate-id: "P00011833"
+related: "[[John Hickenlooper]]"
 ---
 
 #michael-bennet #senator #colorado #education #reform #moderate #class-analysis #democrat

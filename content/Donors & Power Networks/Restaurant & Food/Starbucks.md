@@ -2,7 +2,7 @@
 title: "Starbucks"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
@@ -47,6 +47,7 @@ cpsc-recalls: 11
 last-enriched: "2026-04-07"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+related: "[[McDonalds Corporation]]"
 ---
 
 #starbucks #coffee #anti-union #nlrb #progressive-brand #labor #howard-schultz

@@ -2,7 +2,7 @@
 title: "Telecom Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -21,6 +21,7 @@ court-jurisdictions:
 lobbying-spend: 9020027
 lobbying-filings: 97
 total-political-spend: "$270,182"
+related: "[[Mark Warner]]"
 ---
 
 #telecom #net-neutrality #spectrum #broadband #lobbying #fcc #bipartisan

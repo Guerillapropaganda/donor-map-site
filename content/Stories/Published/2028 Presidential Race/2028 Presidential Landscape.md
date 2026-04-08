@@ -2,9 +2,10 @@
 title: "2028 Presidential Landscape"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
+related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]]"
 ---
 
 #2028-election #presidential #race-frame #donor-networks

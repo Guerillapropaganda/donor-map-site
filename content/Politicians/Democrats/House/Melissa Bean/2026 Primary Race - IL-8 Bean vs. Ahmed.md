@@ -2,9 +2,10 @@
 title: "2026 Primary Race - IL-8 Bean vs. Ahmed"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 2
 parent: "_Melissa Bean Master Profile"
+related: "[[Melissa Bean's Corporate Background]]"
 ---
 
 #democrat #politician #house #illinois #2026-primary #super-pac #aipac #ai-pac #crypto-pac #outside-spending

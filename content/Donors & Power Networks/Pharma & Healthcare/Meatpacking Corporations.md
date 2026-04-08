@@ -2,7 +2,7 @@
 title: "Meatpacking Corporations"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -13,6 +13,7 @@ issues:
   - "Labor & Workers"
   - "Antitrust & Monopoly"
   - "Immigration"
+related: "[[The Agribusiness Senator and the Family Farm Myth]]"
 ---
 
 #meatpacking #tyson #jbs #cargill #smithfield #labor #osha #antitrust #immigration #child-labor #covid #concentration #class-analysis #follow-the-money

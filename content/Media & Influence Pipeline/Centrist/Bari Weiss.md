@@ -2,11 +2,11 @@
 title: "Bari Weiss"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
-related: "[[Glenn Greenwald]] · [[Lex Fridman]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]]"
+related: "[[Glenn Greenwald]] · [[Lex Fridman]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]]"
 donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]]"
 ---
 

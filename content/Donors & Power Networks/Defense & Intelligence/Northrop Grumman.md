@@ -2,7 +2,7 @@
 title: "Northrop Grumman"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -61,6 +61,7 @@ sec-form-types:
 federal-awards-total: 9185964914
 federal-contracts-count: 25
 federal-grants-count: 12
+related: "[[Palantir Technologies Political Operation]]"
 ---
 
 

@@ -2,9 +2,10 @@
 title: "Project 2025 - The Blueprint They Followed"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
+related: "[[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]]"
 ---
 
 

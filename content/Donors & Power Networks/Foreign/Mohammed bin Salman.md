@@ -28,6 +28,7 @@ sec-form-types:
   - "FWP"
   - "N-CSR"
   - "PX14A6G"
+related: "[[Saudi Arabia - Kingdom Investment]]"
 ---
 
 #donor-node #foreign #saudi-arabia #sovereign-wealth #arms-sales #class-analysis

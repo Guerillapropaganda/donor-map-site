@@ -2,7 +2,7 @@
 title: "Cambridge Analytica and the Data Weaponization of Elections"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Donald Trump"
   - "Ted Cruz"
   - "Steve Bannon"
+related: "[[Steve Bannon Master Profile]]"
 ---
 
 

@@ -2,13 +2,13 @@
 title: "Capitol Counsel"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$25.4M"
 lobbyist-count: 38
 revolving-door-pct: "73.7%"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[ExxonMobil]] · [[AT&T - WarnerMedia|AT&T]] · [[Comcast - NBCUniversal|Comcast]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[ExxonMobil]] · [[AT&T - WarnerMedia|AT&T]] · [[Comcast - NBCUniversal|Comcast]] · [[Thorn Run Partners]]"
 doj-press-mentions: "264312"
 last-enriched: "2026-04-07"
 doj-components:

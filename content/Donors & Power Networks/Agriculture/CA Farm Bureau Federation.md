@@ -2,11 +2,12 @@
 title: "CA Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Agriculture"
 entity-type: "Individual Donor"
+related: "[[Labor - Donors and Backers]]"
 ---
 
 #agricultural-lobby #california-politics #farm-interests #worker-opposition #environmental-regulation

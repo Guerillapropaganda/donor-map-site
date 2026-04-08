@@ -2,7 +2,7 @@
 title: "Raytheon Technologies"
 type: corporation
 content-readiness: raw
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -22,6 +22,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Securities and Exchange Commission"
+related: "[[Defense Contractor 450000 Percent ROI]]"
 ---
 
 #raytheon #rtx #defense #redirect

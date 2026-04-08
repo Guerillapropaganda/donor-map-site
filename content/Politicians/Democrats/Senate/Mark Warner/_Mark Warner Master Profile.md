@@ -41,6 +41,8 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+donors: "[[Tech Industry]]"
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 ---
 
 #mark-warner #senate #virginia #intelligence #telecom #venture-capital #personal-wealth #class-analysis #democrat

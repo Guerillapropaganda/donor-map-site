@@ -2,7 +2,7 @@
 title: "Dick Durbin"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,6 +18,8 @@ top-donors:
   - "Financial Services Donors"
   - "Pharmaceutical Industry"
   - "AIPAC"
+donors: "[[ADM - Archer Daniels Midland]]"
+related: "[[Tammy Duckworth]]"
 ---
 
 #dick-durbin #senate #illinois #judiciary #whip #class-analysis #donor-gatekeeper #democrat #managed-opposition #retirement

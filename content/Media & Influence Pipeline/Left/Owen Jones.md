@@ -2,12 +2,12 @@
 title: "Owen Jones"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27 (run 14)
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[Chris Hedges]] · [[Aaron Maté]] · [[Mehdi Hasan]]"
+related: "[[Chris Hedges]] · [[Aaron Maté]] · [[Mehdi Hasan]] · [[Novara Media]]"
 ---
 
 #media-pipeline #left #UK #guardian #labour #democratic-socialism #platform-dependency #institutional-left

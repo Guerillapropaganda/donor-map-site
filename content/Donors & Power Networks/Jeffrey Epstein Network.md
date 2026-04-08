@@ -2,7 +2,7 @@
 title: "Jeffrey Epstein Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Jeffrey Epstein Network.md"
@@ -16,6 +16,7 @@ issues:
   - "Dark Money & Campaign Finance"
 lobbying-spend: 1699750
 lobbying-filings: 70
+related: "[[Les Wexner - Wexner Family Enterprises]]"
 ---
 
 

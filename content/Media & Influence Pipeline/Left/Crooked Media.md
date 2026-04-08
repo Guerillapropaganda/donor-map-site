@@ -2,12 +2,12 @@
 title: "Crooked Media"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: left
 platform: podcast
-related: "[[Open Society Foundations]] · [[Democratic National Committee]]"
+related: "[[Open Society Foundations]] · [[Democratic National Committee]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]]"
 ---
 
 #media-pipeline #left #obama-revolving-door #pod-save-america #soros-investment #democratic-establishment #partisan-media

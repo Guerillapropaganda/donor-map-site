@@ -2,9 +2,10 @@
 title: "School Choice and the Catholic Church Prosecution as Brand Architecture"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Josh Shapiro Master Profile]]
+related: "[[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
 ---
 
 

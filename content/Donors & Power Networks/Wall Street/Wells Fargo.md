@@ -67,6 +67,7 @@ tax-year: "2023"
 nonprofit-status: "501(c)(3)"
 total-revenue: 137336347
 total-assets: 12239451
+related: "[[The Intellectual Property and Banking Donor Pipeline]]"
 ---
 
 #wells-fargo #wall-street #consumer #fraud #fake-accounts #banking #charlotte

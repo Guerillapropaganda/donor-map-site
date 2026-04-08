@@ -2,12 +2,12 @@
 title: "Jesse Watters"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Tucker Carlson]] · [[Laura Ingraham]] · [[_Media Pipeline Framework]]"
+related: "[[Tucker Carlson]] · [[Laura Ingraham]] · [[_Media Pipeline Framework]] · [[Dan Bongino]]"
 donors: "[[Fox Corp - Rupert Murdoch]]"
 ---
 

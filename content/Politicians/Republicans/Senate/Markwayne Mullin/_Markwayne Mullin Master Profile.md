@@ -2,7 +2,7 @@
 title: "Markwayne Mullin"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,6 +13,8 @@ committees:
   - "Armed Services"
 total-received: "$4,666,234"
 fec-candidate-id: "S2OK00186"
+donors: "[[Devon Energy]]"
+related: "[[Kristi Noem]]"
 ---
 
 #markwayne-mullin #oklahoma #senate #republican #energy #cherokee #indigenous #armed-services #dhs-secretary #trump-cabinet #plumber #stock-trading

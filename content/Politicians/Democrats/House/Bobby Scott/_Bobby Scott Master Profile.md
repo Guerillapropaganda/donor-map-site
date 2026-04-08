@@ -2,7 +2,7 @@
 title: "Bobby Scott"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -27,6 +27,8 @@ website: "https://bobbyscott.house.gov"
 phone: "202-225-8351"
 total-received: "$135,250"
 fec-candidate-id: "H6GA02115"
+donors: "[[AFGE - American Federation of Government Employees]]"
+related: "[[Tim Walberg]]"
 ---
 
 

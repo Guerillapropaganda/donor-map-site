@@ -2,7 +2,7 @@
 title: "Blackstone Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -24,6 +24,7 @@ federal-contracts: "622714"
 federal-awards-total: 0
 federal-contracts-count: 2
 federal-grants-count: 0
+related: "[[The Wall Street Senator - Finance Industry Alignment]]"
 ---
 
 #blackstone #private-equity #schwarzman #wall-street #carried-interest #real-estate #trump #republican #revolving-door #class-analysis #follow-the-money #housing #rental #tax-avoidance #sovereign-wealth #lobbying

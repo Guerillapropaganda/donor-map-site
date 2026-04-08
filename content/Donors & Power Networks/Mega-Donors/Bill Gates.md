@@ -2,7 +2,7 @@
 title: "Bill Gates"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -16,6 +16,7 @@ politicians-funded:
   - "Martin Heinrich"
   - "Debbie Stabenow"
   - "Rosa DeLauro"
+related: "[[Economic Policy Institute]]"
 ---
 
 #gates #microsoft #philanthropy #education #health #charter-schools #climate

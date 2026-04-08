@@ -2,7 +2,7 @@
 title: "Reid Hoffman"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -33,6 +33,7 @@ sec-form-types:
   - "SC 13G/A"
   - "SCHEDULE 13D"
   - "SCHEDULE 13D/A"
+related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
 ---
 
 #donor #billionaire #democratic #tech #linkedin #wisconsin

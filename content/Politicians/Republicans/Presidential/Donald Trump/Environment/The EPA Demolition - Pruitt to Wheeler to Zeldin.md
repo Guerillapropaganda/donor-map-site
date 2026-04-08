@@ -2,9 +2,10 @@
 title: "The EPA Demolition - Pruitt to Wheeler to Zeldin"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
+related: "[[Environment - Donors and Backers]]"
 ---
 
 

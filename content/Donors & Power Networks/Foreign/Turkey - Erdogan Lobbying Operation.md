@@ -2,11 +2,12 @@
 title: "Turkey - Erdogan Lobbying Operation"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
+related: "[[HBW Resources]]"
 ---
 
 #turkey #erdogan #foreign #lobbying #nato #arms #flynn #fara #kurdish

@@ -2,12 +2,12 @@
 title: "Cenk Uygur"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Jeffrey Katzenberg]] · [[Greycroft]] · [[WndrCo]]"
+related: "[[Jeffrey Katzenberg]] · [[Greycroft]] · [[WndrCo]] · [[TYT Network - The Young Turks]]"
 ---
 
 #media-pipeline #left #independence-theater #audience-capture #revolving-door #labor-contradiction #venture-capital

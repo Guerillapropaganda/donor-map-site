@@ -2,7 +2,7 @@
 title: "Tim Geithner"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -27,6 +27,7 @@ sec-form-types:
   - "N-CSR/A"
   - "N-CSRS"
 total-political-spend: "$469,350"
+related: "[[Joe Biden Master Profile]]"
 ---
 
 #donor #revolving-door #wall-street #treasury #warburg-pincus #bailout #financial-crisis #class-analysis #follow-the-money

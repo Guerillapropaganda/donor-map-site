@@ -13,6 +13,7 @@ ein: 473233646
 annual-revenue: "$0"
 net-assets: "$57K"
 tax-year: "2016"
+related: "[[Sentinel Action Fund]]"
 ---
 
 #donor #dark-money #conduit #conservative #anonymous #koch-adjacent #501c3 #daf-sponsor #class-analysis #follow-the-money

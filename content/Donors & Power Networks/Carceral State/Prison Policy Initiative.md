@@ -2,10 +2,11 @@
 title: "Prison Policy Initiative"
 type: reference
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Carceral State"
+related: "[[CoreCivic - Private Prisons]]"
 ---
 
 #prison #carceral-state #mass-incarceration #data #research #reform

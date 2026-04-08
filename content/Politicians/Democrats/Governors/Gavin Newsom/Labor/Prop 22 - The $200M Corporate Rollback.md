@@ -2,9 +2,10 @@
 title: "Prop 22 - The $200M Corporate Rollback"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]]"
 ---
 
 

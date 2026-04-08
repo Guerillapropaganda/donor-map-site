@@ -2,7 +2,7 @@
 title: "Kamala Harris Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,6 +23,7 @@ top-donors:
   - "UnitedHealth Group - Optum"
 total-received: "$1,175,903,792"
 fec-candidate-id: "P00009423"
+related: "[[Nancy Pelosi Master Profile]]"
 ---
 
 

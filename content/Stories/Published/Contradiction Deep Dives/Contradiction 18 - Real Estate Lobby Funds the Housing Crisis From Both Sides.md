@@ -2,11 +2,12 @@
 title: "Real Estate Lobby Funds the Housing Crisis From Both Sides"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 issues:
   - "Housing"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
 ---
 
 #investigation #contradiction #real-estate #housing #nar #zoning #rent-control #bipartisan-consensus #class-analysis #tax-policy

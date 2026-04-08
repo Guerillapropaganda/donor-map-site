@@ -2,7 +2,7 @@
 title: "Great Lakes Conservatives Fund"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -15,6 +15,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "DRCONGO"
+related: "[[Michigan 2026 Senate Race]]"
 ---
 
 #donor #super-pac #great-lakes #michigan #mike-rogers #single-candidate-pac #defense-aligned

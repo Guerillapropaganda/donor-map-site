@@ -2,7 +2,7 @@
 title: "California Nurses Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -44,6 +44,7 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
   - "XML"
+related: "[[Eric Swalwell Master Profile]]"
 ---
 
 #cna #nurses #union #california #single-payer #healthcare #progressive #labor

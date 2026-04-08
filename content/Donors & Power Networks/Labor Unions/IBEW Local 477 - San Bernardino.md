@@ -2,13 +2,14 @@
 title: "IBEW Local 477 - San Bernardino"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Chad Bianco"
+related: "[[UFCW - United Food and Commercial Workers]]"
 ---
 
 

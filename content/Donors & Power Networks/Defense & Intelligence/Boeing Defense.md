@@ -2,7 +2,7 @@
 title: "Boeing Defense"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Maria Cantwell"
 issues:
   - "Defense & Military"
+related: "[[Palantir Technologies Political Operation]]"
 ---
 
 #boeing #defense #aerospace #military #lobbying #government-contracts #safety #revolving-door #too-big-to-fail

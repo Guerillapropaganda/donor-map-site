@@ -2,9 +2,10 @@
 title: "Adelson 250M Republican Kingmaker Pledge"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
+related: "[[2028 Presidential Landscape]]"
 ---
 
 #2028-election #republican-primary #mega-donor #adelson #israel-lobby

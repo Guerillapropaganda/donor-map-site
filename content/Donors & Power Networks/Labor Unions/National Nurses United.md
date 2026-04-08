@@ -2,7 +2,7 @@
 title: "National Nurses United"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -33,6 +33,7 @@ regulatory-agencies:
   - "Regulatory Information Service Center"
 lobbying-spend: 3106887
 lobbying-filings: 143
+related: "[[Pramila Jayapal]]"
 ---
 
 #nnu #nurses-union #medicare-for-all #progressive #labor #225k-members

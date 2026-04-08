@@ -16,6 +16,7 @@ bills-sponsored: 0
 bills-cosponsored: 0
 total-received: "$534,492"
 fec-candidate-id: "H8MO01143"
+related: "[[Jamaal Bowman Master Profile]]"
 ---
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money

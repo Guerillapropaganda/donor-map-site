@@ -53,6 +53,7 @@ regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
   - "Nuclear Regulatory Commission"
+related: "[[The Intellectual Property and Banking Donor Pipeline]]"
 ---
 
 #duke-energy #utility #coal-ash #north-carolina #monopoly #rate-base #renewables

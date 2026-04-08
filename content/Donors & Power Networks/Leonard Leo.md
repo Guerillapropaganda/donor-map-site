@@ -2,7 +2,7 @@
 title: "Leonard Leo"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Leonard Leo.md"
@@ -30,6 +30,7 @@ sec-form-types:
   - "S-1/A"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 
 #donor #dark-money #judicial-capture #federalist-society #conservative #kingmaker #dark-money-architect #leonard-leo #judicial-pipeline #barre-seid #marble-freedom-trust #scotus #class-analysis

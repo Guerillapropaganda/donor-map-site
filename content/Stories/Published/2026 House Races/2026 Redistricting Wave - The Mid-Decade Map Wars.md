@@ -2,11 +2,12 @@
 title: "2026 Redistricting Wave - The Mid-Decade Map Wars"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 issues:
   - "Voting Rights"
+related: "[[Top 10 Most Expensive House Races 2026]]"
 ---
 
 #2026-election #redistricting #house #gerrymandering #voting-rights

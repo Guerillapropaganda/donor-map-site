@@ -2,11 +2,12 @@
 title: "AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 issues:
   - "Israel & Foreign Policy"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
 ---
 
 #investigation #contradiction #aipac #israel #both-sides #bipartisan #primary-weapon #class-analysis

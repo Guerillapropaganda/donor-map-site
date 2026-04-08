@@ -2,7 +2,7 @@
 title: "Club for Growth"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -11,6 +11,7 @@ ein: 204681603
 annual-revenue: "$12.3M"
 net-assets: "$9.3M"
 tax-year: "2023"
+related: "[[Senate Majority PAC]]"
 ---
 
 #donor-node #super-pac #republican #primary-enforcement #anti-tax #fiscal-conservative #class-analysis #follow-the-money #mega-donor

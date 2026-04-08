@@ -2,7 +2,7 @@
 title: "Cornerstone Government Affairs"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$55.7M"
@@ -30,7 +30,7 @@ fara-countries:
   - "TAIWAN"
   - "UNITED ARAB EMIRATES"
   - "YEMEN"
-related: "[[Google - Alphabet]] · [[Palantir Technologies]] · [[Boeing]] · [[General Dynamics]] · [[Raytheon (RTX)|RTX Corp]] · [[AbbVie]] · [[Johnson & Johnson]] · [[Apollo Global Management]] · [[PhRMA]]"
+related: "[[Google - Alphabet]] · [[Palantir Technologies]] · [[Boeing]] · [[General Dynamics]] · [[Raytheon (RTX)|RTX Corp]] · [[AbbVie]] · [[Johnson & Johnson]] · [[Apollo Global Management]] · [[PhRMA]] · [[Subject Matter (now Avoq)]]"
 ---
 
 #lobbying #k-street #bipartisan #tech #defense #pharma #agriculture #finance

@@ -2,7 +2,7 @@
 title: "MBNA Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -47,6 +47,7 @@ sec-form-types:
   - "SC 13D/A"
   - "SC 13G"
   - "SC 13G/A"
+related: "[[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]]"
 ---
 
 #mbna #credit-card #delaware #biden #bankruptcy #wall-street #banking

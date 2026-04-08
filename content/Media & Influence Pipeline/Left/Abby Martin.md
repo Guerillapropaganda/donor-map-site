@@ -2,12 +2,12 @@
 title: "Abby Martin"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: ""
+related: "[[Lee Camp]]"
 opposes: "[[AIPAC - American Israel Public Affairs Committee]] · [[Israel - Government Lobbying Operation]]"
 ---
 

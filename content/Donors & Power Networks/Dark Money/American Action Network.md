@@ -32,6 +32,7 @@ total-revenue: 74081200
 total-assets: 35265577
 fara-status: "registrant"
 fara-records: 1
+related: "[[National Association of Manufacturers]]"
 ---
 
 #aan #dark-money #republican #501c4 #lobbying #healthcare #tax #class-analysis #follow-the-money #house-republicans #pharma #corporate-dark-money

@@ -2,7 +2,7 @@
 title: "Pharmaceutical Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -11,6 +11,7 @@ issues:
   - "Healthcare"
   - "Social Safety Net"
 federal-contracts: "5976"
+related: "[[New Hampshire 2026 Senate Race]]"
 ---
 
 #pharma #industry-bloc #lobbying #drug-pricing #patent #medicare #aca

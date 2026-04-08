@@ -2,9 +2,10 @@
 title: "Donors & Power Networks Index"
 type: index
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: null
 parent: null
+related: "[[2026-03-27 API Briefing]]"
 ---
 
 ### Donors & Power Networks Index

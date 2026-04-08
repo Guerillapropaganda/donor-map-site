@@ -2,9 +2,10 @@
 title: "Veterans and Military - Donors and Backers"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
+related: "[[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]"
 ---
 
 #trump #military #defense #veterans #VA #policy-node

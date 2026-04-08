@@ -2,7 +2,7 @@
 title: "Jim McGovern"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,6 +18,7 @@ bills-sponsored: 30
 bills-cosponsored: 431
 website: "https://mcgovern.house.gov"
 phone: "202-225-6101"
+donors: "[[National Nurses United]]"
 ---
 
 

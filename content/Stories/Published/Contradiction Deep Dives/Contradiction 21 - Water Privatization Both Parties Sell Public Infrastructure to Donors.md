@@ -2,11 +2,12 @@
 title: "Water Privatization: Both Parties Sell Public Infrastructure to Donors"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 issues:
   - "Infrastructure"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]]"
 ---
 
 #contradiction #water #privatization #infrastructure #class-analysis

@@ -2,12 +2,12 @@
 title: "Tucker Carlson"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]]"
+related: "[[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim Pool]]"
 ---
 
 #media-pipeline #right #fox-news #replacement-theory #dark-money #russia #independence-theater

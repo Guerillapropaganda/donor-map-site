@@ -2,9 +2,10 @@
 title: "The Adelson Pipeline - Embassy, Abraham Accords, and Iran"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
+related: "[[Jared Kushner Master Profile]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "ConocoPhillips"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -70,6 +70,7 @@ court-jurisdictions:
   - "United States Court of International Trade"
 lobbying-spend: 17930000
 lobbying-filings: 39
+related: "[[WSPA - Western States Petroleum Association]]"
 ---
 
 #conocophillips #oil-gas #energy #alaska #willow #lobbying #revolving-door #cheney-energy-task-force

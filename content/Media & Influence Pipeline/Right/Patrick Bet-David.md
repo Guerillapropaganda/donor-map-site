@@ -2,12 +2,12 @@
 title: "Patrick Bet-David"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]]"
+related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]] · [[Mark Levin]]"
 ---
 
 #media-pipeline #right #mlm #entrepreneurship #trump #immigration #youtube #podcast

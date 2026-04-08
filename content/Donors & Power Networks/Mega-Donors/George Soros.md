@@ -2,7 +2,7 @@
 title: "George Soros"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -47,6 +47,7 @@ lei-jurisdiction: "KY"
 lei-parent: "Quantum Partners LP"
 lobbying-spend: 1515500
 lobbying-filings: 100
+related: "[[Harris-Newsom Donor Class Fracture]]"
 ---
 
 #donor #billionaire #democratic #progressive #dark-money #open-society
