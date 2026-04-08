@@ -12,6 +12,41 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
+Date: 2026-04-08 (morning)
+
+Done:
+- **Ops v1.1 upgrade** — major UX improvements to the Operations Center
+- **Ctrl+K command palette** — global search across all 1,600+ profiles and pages from anywhere in the app
+- **Unified profile page** (`/profile`) — one view for everything about an entity: readiness stepper, source quality bars, connections, URLs, metadata, with Edit and Connections quick-action buttons
+- **Rich activity feed** — Dashboard feed now categorizes commits into Pipeline/Connection/Edit/Deploy/URL/Note with colored icons and filter pills
+- **Keyboard shortcuts** — `?` for help overlay, `g+d/p/n/u/r/e` for navigation to any module
+- **Visual readiness badges** — VaultGrid cards now show colored readiness label + progress bar + source tier + enrichment badges (replaced tiny dots)
+- **Fixed connections API** — was only reading YAML frontmatter, but 250+ profiles store `related:` and `donors:` in body text. API now parses body text as fallback. Trump and hundreds of other profiles now show connections correctly.
+- **Relationship Mapper upgrades** — Add/Remove connections available on all three views (List, Explorer, Graph). Type filter tabs on sidebar (Politicians, Donors, Think Tanks, etc.). Red × remove button on Graph view nodes.
+- **Profile View** added to sidebar navigation
+
+Architecture:
+- New components: `CommandPalette.tsx`, `ClientProviders.tsx`, `KeyboardShortcuts.tsx`
+- New page: `ops/src/app/profile/page.tsx`
+- Enhanced: `ActivityFeed.tsx`, `VaultGrid.tsx`, `Sidebar.tsx`, layout.tsx
+- Connections API (`ops/src/app/api/connections/route.ts`) now uses `parseBodyField()` fallback
+
+Known issues:
+- `.next` cache corruption still happens if app killed mid-compile — `rm -rf ops/.next` fixes it
+- Connections API has 2-min cache — changes take up to 2min to appear in Relationships sidebar
+
+Next:
+- David testing v1.1, reporting issues for polish
+- Consider: drag-and-drop connection building in Graph view
+- Consider: stale profile detector (profiles not enriched in 30+ days)
+- Consider: cross-module profile sidebar (see connections/URLs/notes without leaving Editor)
+- Run opensecrets-replace for remaining categories (~3,000 URLs)
+- LDA migration: lda.senate.gov → lda.gov before June 30, 2026 sunset
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-08 (early morning)
 
 Done:
