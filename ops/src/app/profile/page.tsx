@@ -73,6 +73,9 @@ export default function ProfilePage() {
   const [browseSearch, setBrowseSearch] = useState("")
   const [allProfiles, setAllProfiles] = useState<{ title: string; path: string; type: string; contentReadiness: string; party?: string; state?: string; sector?: string }[]>([])
   const [browseLoading, setBrowseLoading] = useState(false)
+  const [browseLetterFilter, setBrowseLetterFilter] = useState("all")
+  const [browseTypeFilter, setBrowseTypeFilter] = useState("all")
+  const [browseReadinessFilter, setBrowseReadinessFilter] = useState("all")
 
   useEffect(() => {
     if (!profilePath) return
@@ -199,24 +202,103 @@ export default function ProfilePage() {
   })
 
   if (!profilePath) {
-    const filtered = browseSearch.length >= 2
-      ? allProfiles.filter((p) => p.title.toLowerCase().includes(browseSearch.toLowerCase())).slice(0, 20)
-      : allProfiles.slice(0, 30)
+    const letterFilter = browseLetterFilter
+    const typeFilterVal = browseTypeFilter
+    const readinessFilterVal = browseReadinessFilter
+
+    let filtered = allProfiles
+    if (browseSearch.length >= 2) {
+      const q = browseSearch.toLowerCase()
+      filtered = filtered.filter((p) => p.title.toLowerCase().includes(q) || (p.path || "").toLowerCase().includes(q))
+    }
+    if (typeFilterVal !== "all") filtered = filtered.filter((p) => p.type === typeFilterVal)
+    if (readinessFilterVal !== "all") filtered = filtered.filter((p) => p.contentReadiness === readinessFilterVal)
+    if (letterFilter !== "all") {
+      if (letterFilter === "#") filtered = filtered.filter((p) => /^[0-9]/.test(p.title))
+      else filtered = filtered.filter((p) => p.title.charAt(0).toUpperCase() === letterFilter)
+    }
+    filtered.sort((a, b) => a.title.localeCompare(b.title))
+
+    const availableLetters = new Set<string>()
+    allProfiles.forEach((p) => {
+      const first = p.title.charAt(0).toUpperCase()
+      if (/[A-Z]/.test(first)) availableLetters.add(first)
+      else if (/[0-9]/.test(first)) availableLetters.add("#")
+    })
+
+    const types = Array.from(new Set(allProfiles.map((p) => p.type))).sort()
 
     return (
       <div>
         <h1 className="text-lg font-bold text-[var(--color-text)] mb-1">Profile View</h1>
-        <p className="text-[10px] text-[var(--color-text-dim)] mb-4">Search or browse profiles to view full details</p>
+        <p className="text-[10px] text-[var(--color-text-dim)] mb-4">Click a profile to view full details. Use filters below to narrow down.</p>
 
-        <input type="text" placeholder="Search profiles..." value={browseSearch}
-          onChange={(e) => setBrowseSearch(e.target.value)}
-          className="w-full max-w-lg bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-4 py-3 text-sm text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)] mb-4" />
+        {/* Search + Filters */}
+        <div className="flex flex-wrap gap-3 mb-3">
+          <input type="text" placeholder="Search profiles..." value={browseSearch}
+            onChange={(e) => setBrowseSearch(e.target.value)}
+            className="flex-1 min-w-[200px] bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-4 py-2.5 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
+          <select value={typeFilterVal} onChange={(e) => setBrowseTypeFilter(e.target.value)}
+            className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-3 py-2.5 text-xs text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)]">
+            <option value="all">All Types</option>
+            {types.map((t) => <option key={t} value={t}>{t}</option>)}
+          </select>
+        </div>
+
+        {/* Readiness Scroller */}
+        <div className="flex items-center gap-2 mb-3 overflow-x-auto pb-1">
+          <span className="text-[9px] text-[var(--color-text-dim)] uppercase tracking-wider flex-shrink-0">Grade:</span>
+          {[
+            { value: "all", label: "All", grade: "", color: "var(--color-text-dim)" },
+            { value: "verified", label: "Verified", grade: "A+", color: "#fbbf24" },
+            { value: "ready", label: "Ready", grade: "B", color: "#10b981" },
+            { value: "draft", label: "Draft", grade: "C", color: "#f59e0b" },
+            { value: "raw", label: "Raw", grade: "D-F", color: "#6b7280" },
+          ].map((r) => {
+            const count = r.value === "all" ? allProfiles.length : allProfiles.filter(p => p.contentReadiness === r.value).length
+            const isActive = readinessFilterVal === r.value
+            return (
+              <button key={r.value} onClick={() => setBrowseReadinessFilter(r.value)}
+                className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-[10px] font-bold transition-all flex-shrink-0 ${
+                  isActive ? "ring-1" : "opacity-70 hover:opacity-100"
+                }`}
+                style={{
+                  color: r.color,
+                  backgroundColor: isActive ? `${r.color}20` : `${r.color}08`,
+                  borderColor: isActive ? `${r.color}50` : "transparent",
+                  border: `1px solid ${isActive ? `${r.color}50` : "transparent"}`,
+                  ...(isActive ? { ringColor: `${r.color}30` } : {}),
+                }}>
+                {r.grade && <span className="text-[8px]">{r.grade}</span>}
+                <span>{r.label}</span>
+                <span className="text-[8px] opacity-60">{count}</span>
+              </button>
+            )
+          })}
+        </div>
+
+        {/* A-Z Bar */}
+        <div className="flex flex-wrap items-center gap-0.5 mb-2">
+          <button onClick={() => setBrowseLetterFilter("all")}
+            className={`px-2 py-1 text-[10px] font-bold rounded transition-colors ${letterFilter === "all" ? "bg-[var(--color-steel)] text-white" : "text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)]"}`}>ALL</button>
+          <button onClick={() => setBrowseLetterFilter("#")} disabled={!availableLetters.has("#")}
+            className={`px-1.5 py-1 text-[10px] font-bold rounded transition-colors ${letterFilter === "#" ? "bg-[var(--color-steel)] text-white" : availableLetters.has("#") ? "text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)]" : "text-[var(--color-text-dim)]/30 cursor-default"}`}>#</button>
+          {"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => (
+            <button key={letter} onClick={() => setBrowseLetterFilter(letter)} disabled={!availableLetters.has(letter)}
+              className={`px-1.5 py-1 text-[10px] font-bold rounded transition-colors ${letterFilter === letter ? "bg-[var(--color-steel)] text-white" : availableLetters.has(letter) ? "text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)]" : "text-[var(--color-text-dim)]/30 cursor-default"}`}>{letter}</button>
+          ))}
+        </div>
+
+        {/* Count */}
+        <p className="text-[10px] text-[var(--color-text-dim)] uppercase tracking-wider mb-3">
+          {filtered.length.toLocaleString()} profiles{letterFilter !== "all" && ` starting with "${letterFilter}"`}
+        </p>
 
         {browseLoading ? (
           <div className="text-xs text-[var(--color-text-dim)] animate-pulse">Loading profiles...</div>
         ) : (
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-2">
-            {filtered.map((p) => (
+            {filtered.slice(0, 100).map((p) => (
               <button key={p.path} onClick={() => router.push(`/profile?path=${encodeURIComponent(p.path)}`)}
                 className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3 text-left hover:border-[var(--color-steel)]/50 transition-colors">
                 <span className="text-[7px] uppercase px-1 py-0.5 rounded mb-1 inline-block"
@@ -233,7 +315,7 @@ export default function ProfilePage() {
             ))}
           </div>
         )}
-        <p className="text-[9px] text-[var(--color-text-dim)] mt-3">Tip: Use Ctrl+K to search from anywhere</p>
+        {filtered.length > 100 && <p className="text-[9px] text-[var(--color-text-dim)] mt-3">Showing first 100 of {filtered.length}. Use search or filters to narrow down.</p>}
       </div>
     )
   }
