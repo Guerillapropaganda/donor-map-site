@@ -14,7 +14,7 @@ internal-notes: "[URL Check 2026-04-08] 1 checked: 1 ok, 0 broken, 0 slow."
 
 ## “Casualty Cover-Up”: The Pentagon Is Hiding U.S. Losses Under Trump in the Middle East
 
-**Source:** [The Intercept](https://theintercept.com/2026/04/01/iran-war-us-casualty-numbers-trump-hegseth/)
+**Source:** [The Intercept](https://theintercept.com/2026/04/01/iran-war-us-casualty-numbers-trump-hegseth/) (VERIFIED)
 **Date:** 2026-04-01
 
 The Pentagon has sent outdated statements on the number of U.S. troops killed or wounded during the Iran war, resulting in undercounts. The post “Casualty Cover-Up”: The Pentagon Is Hiding U.S. Losses Under Trump in the Middle East appeared first on The Intercept.
