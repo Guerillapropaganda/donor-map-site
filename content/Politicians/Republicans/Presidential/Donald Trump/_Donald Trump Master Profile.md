@@ -2,7 +2,7 @@
 title: Donald Trump Master Profile
 type: politician
 content-readiness: ready
-last-updated: '2026-04-07'
+last-updated: '2026-04-08'
 source-tier: 1
 parent: null
 party: Republican
@@ -35,6 +35,7 @@ doj-components:
   - 'USAO - Ohio, Northern'
   - 'USAO - Ohio, Southern'
 opposes: '[[Barack Obama Master Profile]]'
+donors: '[[_Gavin Newsom Master Profile]]'
 ---
 
 
