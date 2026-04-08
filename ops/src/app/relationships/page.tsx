@@ -40,6 +40,7 @@ export default function RelationshipsPage() {
   const [relType, setRelType] = useState<"related" | "donors" | "opposes">("related")
   const [saving, setSaving] = useState(false)
   const [toast, setToast] = useState<string | null>(null)
+  const [sidebarTypeFilter, setSidebarTypeFilter] = useState<string>("all")
 
   useEffect(() => {
     Promise.all([
@@ -411,11 +412,33 @@ export default function RelationshipsPage() {
 
         {/* Sidebar — discovery widgets */}
         <div className="space-y-4">
+          {/* Type filter tabs */}
+          <div className="flex flex-wrap gap-1">
+            {[
+              { key: "all", label: "All", color: "#7a7a86" },
+              { key: "politician", label: "Politicians", color: "#5b8dce" },
+              { key: "donor", label: "Donors", color: "#22c55e" },
+              { key: "think-tank", label: "Think Tanks", color: "#a855f7" },
+              { key: "lobbying-firm", label: "K Street", color: "#f59e0b" },
+              { key: "media-profile", label: "Media", color: "#ef4444" },
+              { key: "story", label: "Stories", color: "#ec4899" },
+            ].map((t) => (
+              <button key={t.key} onClick={() => setSidebarTypeFilter(t.key)}
+                className={`text-[7px] px-1.5 py-1 rounded transition-all ${sidebarTypeFilter === t.key ? "bg-current/10 font-bold" : "text-[var(--color-text-dim)]"}`}
+                style={{ color: sidebarTypeFilter === t.key ? t.color : undefined }}>
+                {t.label}
+              </button>
+            ))}
+          </div>
+
           {/* Top 50 Most Connected */}
           <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3">
             <h3 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Most Connected</h3>
             <div className="space-y-1 max-h-64 overflow-y-auto">
-              {topConnected.slice(0, 50).map((p, i) => (
+              {topConnected
+                .filter((p) => sidebarTypeFilter === "all" || p.type === sidebarTypeFilter)
+                .slice(0, 50)
+                .map((p, i) => (
                 <button key={p.title} onClick={() => selectProfile(p)}
                   className={`w-full flex items-center gap-2 px-2 py-1.5 rounded text-left hover:bg-[var(--color-bg-hover)] transition-colors ${selected?.title === p.title ? "bg-[var(--color-steel)]/10" : ""}`}>
                   <span className="text-[8px] text-[var(--color-text-dim)] w-4">{i + 1}</span>
@@ -431,7 +454,10 @@ export default function RelationshipsPage() {
           <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3">
             <h3 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Recent Connections</h3>
             <div className="space-y-1 max-h-48 overflow-y-auto">
-              {recentConnections.slice(0, 20).map((c, i) => (
+              {recentConnections
+                .filter((c) => sidebarTypeFilter === "all" || c.sourceType === sidebarTypeFilter)
+                .slice(0, 20)
+                .map((c, i) => (
                 <div key={i} className="flex items-center gap-1.5 text-[8px] py-1">
                   <span className="w-1.5 h-1.5 rounded-full" style={{ backgroundColor: REL_COLORS[c.relationshipType] }} />
                   <span className="text-[var(--color-text)] truncate">{c.source}</span>
@@ -444,9 +470,14 @@ export default function RelationshipsPage() {
 
           {/* Unconnected */}
           <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3">
-            <h3 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">No Connections ({unconnectedCount})</h3>
+            <h3 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">
+              No Connections ({sidebarTypeFilter === "all" ? unconnectedCount : unconnected.filter((p) => p.type === sidebarTypeFilter).length})
+            </h3>
             <div className="space-y-1 max-h-40 overflow-y-auto">
-              {unconnected.slice(0, 20).map((p) => (
+              {unconnected
+                .filter((p) => sidebarTypeFilter === "all" || p.type === sidebarTypeFilter)
+                .slice(0, 20)
+                .map((p) => (
                 <button key={p.title} onClick={() => selectProfile(p)}
                   className="w-full flex items-center gap-2 px-2 py-1 rounded text-left hover:bg-[var(--color-bg-hover)] text-[9px] text-[var(--color-text-dim)]">
                   <span className="w-1.5 h-1.5 rounded-full" style={{ backgroundColor: TYPE_COLORS[p.type] || "#7a7a86" }} />
