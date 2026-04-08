@@ -115,17 +115,17 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 
 ### Sources
 
-- [FEC Candidate: Adam Smith campaign finance summary](https://www.fec.gov/data/candidate/S0KS00216/) (Tier 1)
-- [FEC: Adam Smith candidate filings](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
-- [House Armed Services Committee Democrats: Ranking Member Adam Smith](https://democrats-armedservices.house.gov/ranking-member) (Tier 1)
-- [Congress.gov: Adam Smith voting record](https://www.congress.gov/member/adam-smith/S000510) (Tier 1)
-- [KUOW: Mr. Smith stays in Washington — with help from military-industrial complex](https://www.kuow.org/stories/mr-smith-stays-washington-help-military-industrial-complex/) (Tier 2)
-- [Sludge: House Dem in charge of military budget opposes cuts favored by progressives](https://readsludge.com/2020/10/20/hawkish-dem-in-charge-of-military-budget-opposes-cuts-favored-by-progressives/) (Tier 2)
-- [Seattle Times: Rep. Adam Smith's campaign leans heavily on PAC money](https://www.seattletimes.com/seattle-news/rep-adam-smiths-campaign-leans-heavily-on-pac-money/) (Tier 2)
-- [Breaking Defense: Who's Who in Defense — Adam Smith, Ranking Member HASC](https://breakingdefense.com/2025/03/whos-who-in-defense-adam-smith-ranking-member-house-armed-services-committee-hasc/) (Tier 2)
-- [CSIS: Representative Adam Smith on the FY2020 NDAA](https://www.csis.org/analysis/representative-adam-smith-fy2020-national-defense-authorization-act) (Tier 2)
-- [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington)) (Tier 3)
-- [Washington State military & defense sector overview](https://choosewashingtonstate.com/why-washington/our-key-sectors/military-defense/) (Tier 3)
+- ~~[FEC Candidate: Adam Smith campaign finance summary](https://www.fec.gov/data/candidate/S0KS00216/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FEC: Adam Smith candidate filings](https://www.fec.gov/data/candidate/H6WA09025/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House Armed Services Committee Democrats: Ranking Member Adam Smith](https://democrats-armedservices.house.gov/ranking-member) (Tier 1) (VERIFIED)
+- [Congress.gov: Adam Smith voting record](https://www.congress.gov/member/adam-smith/S000510) (Tier 1) (VERIFIED: I see voting record. changed from bad)
+- [KUOW: Mr. Smith stays in Washington — with help from military-industrial complex](https://www.kuow.org/stories/mr-smith-stays-washington-help-military-industrial-complex/) (Tier 2) (VERIFIED)
+- [Sludge: House Dem in charge of military budget opposes cuts favored by progressives](https://readsludge.com/2020/10/20/hawkish-dem-in-charge-of-military-budget-opposes-cuts-favored-by-progressives/) (Tier 2) (VERIFIED)
+- [Seattle Times: Rep. Adam Smith's campaign leans heavily on PAC money](https://www.seattletimes.com/seattle-news/rep-adam-smiths-campaign-leans-heavily-on-pac-money/) (Tier 2) (NEEDS REVIEW: 403)
+- [Breaking Defense: Who's Who in Defense — Adam Smith, Ranking Member HASC](https://breakingdefense.com/2025/03/whos-who-in-defense-adam-smith-ranking-member-house-armed-services-committee-hasc/) (Tier 2) (VERIFIED)
+- [CSIS: Representative Adam Smith on the FY2020 NDAA](https://www.csis.org/analysis/representative-adam-smith-fy2020-national-defense-authorization-act) (Tier 2) (VERIFIED)
+- [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington) (VERIFIED: Works; changed from bad)) (Tier 3)
+- [Washington State military & defense sector overview](https://choosewashingtonstate.com/why-washington/our-key-sectors/military-defense/) (Tier 3) (VERIFIED)
 
 profile-status:: ready
 content-readiness:: ready
@@ -137,7 +137,7 @@ content-readiness:: ready
 | Election Cycle | 2020 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0KS00216/) (Tier 1)
+- ~~[Source: FEC.gov](https://www.fec.gov/data/candidate/S0KS00216/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -150,7 +150,7 @@ content-readiness:: ready
 | Bills Sponsored | 0 |
 | Bills Cosponsored | 0 |
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Influence Network (Cross-Reference)
