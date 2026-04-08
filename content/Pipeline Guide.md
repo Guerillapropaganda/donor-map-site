@@ -1,7 +1,7 @@
 ---
 title: Pipeline Guide
 type: system
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 ---
 
 # Pipeline Guide — The Donor Map
@@ -18,7 +18,7 @@ How data flows from government APIs into vault profiles. Code Claude maintains t
 | **FEC Summary** | api.open.fec.gov | 1 | API key | Total raised/spent, cash on hand, debt per cycle |
 | **Congress** | api.congress.gov | 1 | API key | Bills sponsored, policy areas, member details |
 | **Committee** | api.congress.gov | 1 | API key | Committee and subcommittee assignments |
-| **Senate LDA** | lda.gov | 1 | Token | Lobbying filings, spend totals, issues lobbied |
+| **Senate LDA** | lda.gov (migrated from lda.senate.gov) | 1 | Token | Lobbying filings, spend totals, issues lobbied |
 | **LobbyView** | rest-api.lobbyview.org | 1 | Token | Client-bill lobbying networks, NAICS codes |
 | **FARA** | fara.us/api | 1 | None | Foreign agent registrations, foreign principals |
 | **USASpending** | api.usaspending.gov | 1 | None | Federal contracts, grants, awards |
@@ -43,6 +43,7 @@ How data flows from government APIs into vault profiles. Code Claude maintains t
 | **Public Accountability** | publicaccountability.org | 2 | None | UC Berkeley public records (1.9B records) |
 | **Wikipedia** | wikidata.org + en.wikipedia.org | 3 | None | Entity IDs, descriptions, key facts |
 | **Lobbying Cross-Ref** | Local vault analysis | — | None | Influence chains: lobbying → donations → committees |
+| **Auto-Connection Engine** | Local vault analysis | — | None | Maps relationships: donor↔politician bidirectional, shared donors, opposition enforcement |
 | **RSS** | Various feeds | 2-3 | None | News event matching against profiles |
 
 ## Scripts
