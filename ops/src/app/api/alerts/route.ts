@@ -222,6 +222,71 @@ export async function GET(request: Request) {
         // No integrity report available
       }
 
+      // === CONTRADICTION SCANNER (from last scan) ===
+      try {
+        const fs2 = await import("fs")
+        const path2 = await import("path")
+        const repoRoot2 = path2.default.resolve(process.cwd(), "..")
+        const contradictionPath = path2.default.join(repoRoot2, "reports", "contradiction-scanner.json")
+        if (fs2.default.existsSync(contradictionPath)) {
+          const report = JSON.parse(fs2.default.readFileSync(contradictionPath, "utf-8"))
+          if (report.bothSides && report.bothSides.length > 0) {
+            const high = report.bothSides.filter((d: { storyPotential: string }) => d.storyPotential === "high")
+            alerts.push({
+              id: "both-sides-donors",
+              severity: high.length > 5 ? "warning" : "info",
+              category: "data",
+              title: `${report.bothSides.length} both-sides donors found (${high.length} high-priority stories)`,
+              description: `Donors funding politicians across party lines. Top: ${report.bothSides.slice(0, 5).map((d: { donor: string; totalFunded: number }) => `${d.donor} (${d.totalFunded})`).join(", ")}`,
+              profiles: report.bothSides.slice(0, 10).map((d: { donor: string }) => d.donor),
+              count: report.bothSides.length,
+              timestamp: today,
+            })
+          }
+          if (report.contradictions && report.contradictions.length > 0) {
+            alerts.push({
+              id: "opposition-funded",
+              severity: "warning",
+              category: "data",
+              title: `${report.contradictions.length} opposition-funded contradiction(s)`,
+              description: `Same donor funds politicians who directly oppose each other. ${report.contradictions.map((c: { donor: string }) => c.donor).join(", ")}`,
+              profiles: report.contradictions.map((c: { donor: string }) => c.donor),
+              count: report.contradictions.length,
+              timestamp: today,
+            })
+          }
+          if (report.mismatches && report.mismatches.length > 0) {
+            alerts.push({
+              id: "donor-crossref-mismatch",
+              severity: "info",
+              category: "data",
+              title: `${report.mismatches.length} donor cross-reference mismatches`,
+              description: "Profiles list donors that don't reference them back.",
+              profiles: report.mismatches.slice(0, 10).map((m: { donor: { title: string } }) => m.donor.title),
+              count: report.mismatches.length,
+              timestamp: today,
+            })
+          }
+          if (report.gaps && report.gaps.length > 0) {
+            const definite = report.gaps.filter((g: { type: string }) => g.type === "should-be-opposes")
+            if (definite.length > 0) {
+              alerts.push({
+                id: "opposition-miscategorized",
+                severity: "warning",
+                category: "data",
+                title: `${definite.length} connections miscategorized (should be opposes:)`,
+                description: "These profiles have adversarial connections in related: that should be in opposes:",
+                profiles: definite.slice(0, 10).map((g: { profile: { title: string } }) => g.profile.title),
+                count: definite.length,
+                timestamp: today,
+              })
+            }
+          }
+        }
+      } catch {
+        // No contradiction report available
+      }
+
       // Stats from vault
       const stats = vaultData.stats || {}
       if (stats.totalProfiles) {
