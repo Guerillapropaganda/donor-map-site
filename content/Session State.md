@@ -16,6 +16,10 @@ Date: 2026-04-08 (readiness overhaul + ops improvements)
 
 Done:
 - **Readiness tier overhaul** — removed "developed", established 4-tier grading (raw/draft/ready/verified) with investigative journalism standards
+- **Profile viewer overhaul** — Notes tab (internal, per-profile), connection editor (search + add/remove + commit), sources merged into URLs tab, readiness scroller, A-Z bar, completeness rings, promote/demote buttons, refresh button
+- **Dashboard redesign** — 3-panel stats bar (Grades/Quality/Health), readiness scroller pills, "Sort: Nearest to A+" option, legend bar
+- **Reclassification scripts** — reclassify-readiness.cjs + staleness-decay.cjs (not yet run with --write)
+- **New APIs** — POST /api/profile/readiness, /api/profile/notes, /api/profile/connections
 - Built `reclassify-readiness.cjs` — scans all profiles, computes source diversity, corroboration, known gaps. Dry-run: 592 ready (B), 371 draft (C), 0 verified (A+), 483 A+ candidates
 - Built `staleness-decay.cjs` — auto-demotes verified→ready (90d), ready→draft (180d)
 - New frontmatter: `source-types`, `corroboration-count`, `known-gaps`, `last-verified-by`
