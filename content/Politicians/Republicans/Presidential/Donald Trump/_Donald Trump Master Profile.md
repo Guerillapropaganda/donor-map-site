@@ -44,6 +44,11 @@ internal-notes: "[URL Check 2026-04-08] 36 URLs checked: 31 ok, 3 broken, 2 slow
   - BROKEN: The Hill: Palantir contracts
   - SLOW: Federal Register: 2026 Executive Orders
   - SLOW: Source: GovTrack.us"
+  - BROKEN: FEC: Trump candidate page
+  - BROKEN: CBO: TCJA analysis
+  - BROKEN: The Hill: Palantir contracts
+  - SLOW: Federal Register: 2026 Executive Orders
+  - SLOW: Source: GovTrack.us"
 ---
 
 
