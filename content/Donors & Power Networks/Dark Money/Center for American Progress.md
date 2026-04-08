@@ -49,6 +49,8 @@ sec-form-types:
   - "N-CSR"
   - "PART II"
   - "PX14A6G"
+lobbying-spend: 3338250
+lobbying-filings: 125
 ---
 
 #center-for-american-progress #CAP #dark-money #think-tank #democratic #infrastructure #Neera-Tanden
@@ -205,3 +207,22 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Center%20for%20American%20Progress%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $3.3M |
+| Quarterly Filings | 125 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 89 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Agriculture, Alcohol and Drug Abuse, Animals, Arts/Entertainment, Automotive Industry, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Computer Industry, Constitution, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Food Industry (safety, labeling, etc.), Government Issues, Health Issues, Homeland Security, Housing, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Marine/Maritime/Boating/Fisheries, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Pharmacy, Real Estate/Land Use/Conservation, Religion, Science/Technology, Small Business, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Utilities, Veterans, Welfare
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ALSTON & BIRD LLP, APPALACHIAN CITIZENS LAW CENTER INC., ARNOLD & PORTER KAYE SCHOLER LLP, ASSOCIATION OF CANCER CARE CENTERS (FKA ASSOCIATION OF COMMUNITY CANCER CENTERS), BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BALLARD PARTNERS, BARKER LEAVITT, PLLC (SKA MR. JAMES C. BARKER), BGR GOVERNMENT AFFAIRS, BIPARTISAN POLICY CENTER ACTION, BLIGEN ADVISORY, LLC, BOUNDARY STONE PARTNERS, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAMPAIGN LEGAL CENTER, INC., CAPITOL COUNSEL LLC, CAPITOL VIEW PARTNERS, CAVAROCCHI RUSCIO DENNIS ASSOCIATES, L.L.C., CENTER FOR AI SAFETY ACTION FUND, INC., CENTER FOR BIOLOGICAL DIVERSITY, CENTER FOR INDIVIDUAL FREEDOM, CENTER FOR JUDICIAL EXCELLENCE, CENTER FOR PROCUREMENT ADVOCACY, CENTER FOR SCIENCE IN THE PUBLIC INTEREST, CENTER HILL SOLUTIONS, CENTER MARKET STRATEGIES, LLC, CENTER ON BUDGET AND POLICY PRIORITIES, CENTER ROAD SOLUTIONS, CENTERLIGHT HEALTHCARE, INC., CENTERPOINT ENERGY, CENTERSTONE, CINCINNATI CHILDREN'S HOSPITAL MEDICAL CENTER, COIN CENTER INC., CORCORAN STRATEGIES GROUP, CORNERSTONE GOVERNMENT AFFAIRS, INC., COVENANT GOVERNMENT AFFAIRS, LLC, CROSSROADS STRATEGIES, LLC, DARTMOUTH-HITCHCOCK MEDICAL CENTER, DATA CENTER COALITION, DAVIDOFF HUTCHER & CITRON, LLP, DB3, LLC (FKA THE DASCHLE GROUP), DECENTRALIZATION RESEARCH CENTER, DENTONS US LLP, DSD ADVISORS, LLC, ENVIRONMENTAL LAW AND POLICY CENTER, FEDERAL SCIENCE PARTNERS LLC, FORBES-TATE, FREEMYER & ASSOCIATES P.C., H. LEE MOFFITT CANCER CENTER & RESEARCH INSTITUTE, HALL, RENDER, KILLIAN, HEATH & LYMAN, P.C., HB STRATEGIES, INDIGO HILL STRATEGIES, INVARIANT LLC, JAPAN AUTOMOBILE STANDARDS INTERNATIONALIZATION CENTER, JOHNSTON GROUP, LLC, KAMINS CONSULTING, KELLER PARTNERS & COMPANY, KOUNTOUPES DENHAM CARR & REID, LLC, LOT SIXTEEN LLC, MCCARTER & ENGLISH, LLP, MCCARTIN PUBLIC POLICY GROUP LLC, MEMORIAL SLOAN KETTERING CANCER CENTER, MISSION GOVERNMENT RELATIONS (FORMERLY KNOWN AS MUROFF LAW FIRM, LLC), MORRISON PUBLIC AFFAIRS GROUP, MR. AMIR GOULART SCHARIF, NATIONAL CENTER FOR LEARNING DISABILITIES, INC., NATIONAL CENTER FOR MISSING AND EXPLOITED CHILDREN, NATIONAL MAIN STREET CENTER, INC., PARENTS AS TEACHERS NATIONAL CENTER, PITTMAN LAW GROUP, PREST PUBLIC STRATEGIES, LLC, RUFFALO AND ASSOCIATES, LLC, S-3 GROUP, SALINAS STRATEGIES LLC, SHRIVER CENTER ON POVERTY LAW, SMITH GARSON, SOUTHERN POVERTY LAW CENTER, INC., THE BUSINESS COUNCILS 90A, LLC, THE CARTER CENTER, THE FABRY GROUP, THE FRIEDLANDER GROUP, THE LOUIS D. BRANDEIS CENTER FOR HUMAN RIGHTS UNDER LAW, THE ROOSEVELT GROUP, THE ROYER LAW FIRM (FORMERLY ROYER & BROOKS), THE VOGEL GROUP, UNIVERSITY OF PITTSBURGH MEDICAL CENTER, VENABLE LLP, VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC), WOODWELL CLIMATE RESEARCH CENTER, ZERO TO THREE: NATIONAL CENTER FOR INFANTS, TODDLERS, AND FAMILIES
+
+**Agencies contacted:** Agency for Healthcare Research & Quality (AHRQ), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commodity Futures Trading Commission (CFTC), Education, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS) +14 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Center%20for%20American%20Progress) (Tier 1)
+<!-- auto:lda-lobbying end -->

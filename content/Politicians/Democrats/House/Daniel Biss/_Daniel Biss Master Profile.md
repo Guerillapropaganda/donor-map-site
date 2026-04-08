@@ -2,7 +2,7 @@
 title: "Daniel Biss Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -181,3 +181,10 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL09228/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
+<!-- auto:committee-assignments end -->

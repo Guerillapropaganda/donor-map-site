@@ -29,6 +29,19 @@ subawards-received-amount: 2946802998
 top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "561990"
 related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]]"
+court-cases: 21890
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, D. Arizona"
+  - "District Court, D. Connecticut"
+  - "District Court, D. Delaware"
+  - "District Court, D. New Jersey"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Texas"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
 ---
 
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door
@@ -408,3 +421,22 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 21,890 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, D. Arizona, District Court, D. Connecticut, District Court, D. Delaware, District Court, D. New Jersey, District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, E.D. Texas +6 more |
+| Case Types | 880 Defend Trade Secrets Act (of 2016), 890 Other Statutory Actions, Airplane |
+
+**Notable cases:**
+- Jones v. Lockheed Martin Corporation (2026) — District Court, D. Delaware
+- Town of Wadesboro v. 3M Company (2026) — District Court, W.D. North Carolina
+- United States v. BROWN (2026) — District Court, District of Columbia
+- United States v. Amarillas (2026) — District Court, D. Arizona
+- State of Texas v. Snap Inc. (2026) — District Court, E.D. Texas
+- Artis v. Sikorsky Aircraft Corporation (2026) — District Court, D. Connecticut
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lockheed%20Martin%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

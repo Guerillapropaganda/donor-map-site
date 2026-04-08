@@ -29,6 +29,8 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[The 2024 Race - Most Expensive Senate Campaign in History]]"
+lei: "213800EIIUUJGZ8VRD59"
+lei-jurisdiction: "GB"
 ---
 
 
@@ -171,3 +173,18 @@ Political infrastructure that operates independently of politicians. The Mercer 
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Robert%20Mercer%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [213800EIIUUJGZ8VRD59](https://search.gleif.org/#/record/213800EIIUUJGZ8VRD59) |
+| Legal Name | THE ROBERT MERCER NAIRNE 1976 CHICAGO TRUST |
+| Jurisdiction | GB |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-09-07T11:57:49Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

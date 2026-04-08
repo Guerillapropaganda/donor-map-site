@@ -9,7 +9,7 @@ sector: "Real Estate"
 entity-type: "Corporation"
 issues:
   - "Housing"
-ein: 474822520
+ein: "474822520"
 annual-revenue: "$3.3M"
 net-assets: "$977K"
 tax-year: "2023"
@@ -44,6 +44,9 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
 related: "[[Invitation Homes - Institutional Landlords]]"
+nonprofit-status: "501(c)(6)"
+total-revenue: 4375683
+total-assets: 467752
 ---
 
 #donor #real-estate #housing #trade-association #institutional-landlords #revolving-door #class-analysis #follow-the-money
@@ -183,3 +186,28 @@ content-readiness:: draft
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=National%20Rental%20Home%20Council) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 474822520 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $4.4M |
+| Total Assets | $468K |
+| NTEE Code | S40 |
+| IRS Ruling Date | 2016-03-01 |
+| Filings on Record | 8 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2015
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1)
+<!-- auto:nonprofit-990 end -->

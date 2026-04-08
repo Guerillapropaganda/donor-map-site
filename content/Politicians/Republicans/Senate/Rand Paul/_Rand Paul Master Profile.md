@@ -2,7 +2,7 @@
 title: "Rand Paul Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,8 @@ bills-sponsored: 48
 bills-cosponsored: 59
 website: "https://www.paul.senate.gov"
 phone: "202-224-4343"
+total-received: "$11,515"
+fec-candidate-id: "H4OH19044"
 ---
 
 
@@ -198,3 +200,14 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 1994 |
+| Total Raised | $11,515 |
+| Cash on Hand | 45.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4OH19044/) (Tier 1)
+<!-- auto:fec-politician end -->

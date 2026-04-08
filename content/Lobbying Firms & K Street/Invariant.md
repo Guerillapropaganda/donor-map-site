@@ -2,7 +2,7 @@
 title: "Invariant"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$47.2M (2025) / $42.3M (2024)"
@@ -33,6 +33,24 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
 related: "[[Palantir Technologies]] · [[SpaceX]] · [[Apple]] · [[Raytheon (RTX)]] · [[Founders Fund]] · [[Crypto Industry Bloc]]"
+sec-filings: 737
+sec-form-types:
+  - "10-K"
+  - "13F-HR"
+  - "424B3"
+  - "6-K"
+  - "8-K"
+  - "D"
+  - "D/A"
+  - "EX-10.13"
+  - "EX-10.131"
+  - "EX-10.70"
+  - "EX-5.1"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "FWP"
+  - "NT 20-F"
 ---
 
 #lobbying #k-street #tech #defense #pharma-healthcare #finance #crypto #bipartisan-access
@@ -278,3 +296,21 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Invariant%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 737 |
+| Form Types | 10-K, 13F-HR, 424B3, 6-K, 8-K, D, D/A, EX-10.13 +8 more |
+
+**Notable filings:**
+
+- 2017-01-23 — **D/A**: D/A
+- 2016-02-11 — **D**: D
+- 2025-03-18 — **EX-99.1**: PRESS RELEASE
+- 2023-03-30 — **EX-99.1**: EX-99.1
+- 2019-05-22 — **D/A**: D/A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Invariant%22) (Tier 1)
+<!-- auto:sec-edgar end -->

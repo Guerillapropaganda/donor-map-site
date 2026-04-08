@@ -130,3 +130,19 @@ research-status:: ready — 310K members, largest CA teachers union, NEA affilia
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=CTA%20-%20California%20Teachers%20Association) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]] — lobbying: $160K
+- [[Tony Thurmond]] (Education & Labor) — lobbying: $160K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+<!-- auto:influence-cross-ref end -->

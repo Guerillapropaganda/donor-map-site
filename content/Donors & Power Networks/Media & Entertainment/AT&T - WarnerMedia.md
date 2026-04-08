@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
-ein: 593397155
+ein: "593397155"
 annual-revenue: "$82K"
 net-assets: "$253K"
 tax-year: "2023"
@@ -26,6 +26,9 @@ lobbying-filings: 28
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[News Corp - Fox Corporation]] · [[Capitol Counsel]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 91608
+total-assets: 252342
 ---
 
 #att #telecom #media #net-neutrality #lobbying #merger #surveillance #broadband
@@ -205,3 +208,28 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=AT%26T) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 593397155 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $92K |
+| Total Assets | $252K |
+| NTEE Code | J40Z |
+| IRS Ruling Date | 1997-12-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/593397155) (Tier 1)
+<!-- auto:nonprofit-990 end -->

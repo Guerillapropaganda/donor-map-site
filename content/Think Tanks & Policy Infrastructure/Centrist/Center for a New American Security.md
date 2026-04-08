@@ -8,6 +8,15 @@ parent: null
 category: centrist
 tax-status: 501c3
 related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
+federal-register-mentions: 4
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Commerce Department"
+  - "Defense Department"
+  - "Industry and Security Bureau"
+  - "Labor Department"
+  - "Privacy and Civil Liberties Oversight Board"
+  - "Veterans Employment and Training Service"
 ---
 
 #think-tank #centrist #defense #national-security #revolving-door #military-industrial-complex #class-analysis
@@ -207,3 +216,20 @@ The Hegseth fellowship ban (February 2026) is the first time a Defense Secretary
 - [Inside Higher Ed: Hegseth is Waging War on Colleges — His Targets Are Unclear (Mar 2026)](https://www.insidehighered.com/news/admissions/graduate/2026/03/06/hegseth-waging-war-colleges-his-targets-are-unclear) (Tier 2)
 
 content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4 |
+| Notice | 4 |
+| Agencies | Commerce Department, Defense Department, Industry and Security Bureau, Labor Department, Privacy and Civil Liberties Oversight Board, Veterans Employment and Training Service |
+
+**Recent regulatory activity:**
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2021/12/06/2021-26344/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2021-12-06) — Labor Department
+- [Public Forum](https://www.federalregister.gov/documents/2019/02/13/2019-02204/public-forum) (2019-02-13) — Privacy and Civil Liberties Oversight Board
+- [Emerging Technology and Research Advisory Committee; Notice of Open Meeting](https://www.federalregister.gov/documents/2016/02/17/2016-03157/emerging-technology-and-research-advisory-committee-notice-of-open-meeting) (2016-02-17) — Commerce Department
+- [Reserve Forces Policy Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2014/08/19/2014-19608/reserve-forces-policy-board-notice-of-federal-advisory-committee-meeting) (2014-08-19) — Defense Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Center%20for%20a%20New%20American%20Security%22) (Tier 1)
+<!-- auto:federal-register end -->

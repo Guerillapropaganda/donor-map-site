@@ -20,6 +20,8 @@ top-donors:
   - "AIPAC"
 donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
+total-received: "$1,175,788"
+fec-candidate-id: "H2FL25018"
 ---
 
 #politician #republican #house #florida #cuba #sugar #fanjul #appropriations #class-analysis #follow-the-money #aipac #israel #defense
@@ -139,3 +141,38 @@ Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His A
 
 profile-status:: developed
 content-readiness:: developed
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,175,788 |
+| Individual Contributions | $700,099 |
+| PAC Contributions | $464,650 |
+| Cash on Hand | 2082830.32 |
+| IE Support (Super PAC) | $41,202 |
+| IE Opposition (Super PAC) | $1,663,961 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,175,788 | $700,099 | $464,650 |
+| 2024 | $2,363,026 | $1,255,871 | $1,071,750 |
+| 2022 | $1,823,502 | $910,216 | $895,450 |
+| 2020 | $1,597,459 | $600,960 | $986,569 |
+| 2018 | $2,295,610 | $944,470 | $1,331,413 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $688 | $965,325 |
+| GIFFORDS PAC | $0 | $415,200 |
+| CHANGE NOW | $0 | $197,825 |
+| HOUSE MAJORITY PAC | $0 | $64,729 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $20,324 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2FL25018/) (Tier 1)
+<!-- auto:fec-politician end -->

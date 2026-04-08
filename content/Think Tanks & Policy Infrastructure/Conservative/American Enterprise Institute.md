@@ -8,7 +8,7 @@ parent: null
 category: conservative
 tax-status: 501c3
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 ofac-programs:
   - "UKRAINE-EO13685"
   - "RUSSIA-EO14024"
@@ -26,6 +26,18 @@ regulatory-agencies:
   - "Federal Housing Finance Agency"
   - "Federal Reserve System"
 related: "[[Charles Koch]] · [[Harlan Crow]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Carlyle Group]] · [[Federalist Society]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
+court-cases: 686
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Colorado"
+  - "District Court, D. Utah"
+  - "District Court, D. Vermont"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Indiana"
+  - "District Court, W.D. Washington"
 ---
 
 #think-tank #conservative #neoconservative #defense-policy #climate-denial #revolving-door #dark-money #deregulation #tax-policy
@@ -429,3 +441,22 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Enterprise%20Institute%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 686 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, D. Colorado, District Court, D. Utah, District Court, D. Vermont, District Court, District of Columbia, District Court, N.D. California +4 more |
+| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions, 895 Freedom of Information Act |
+
+**Notable cases:**
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+- Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
+- The State of Oregon v. Trump (2026) — United States Court of International Trade
+- Christy v. Lenovo (United States) Inc. (2026) — District Court, N.D. California
+- Powers Gardner v. Henderson (2026) — District Court, D. Utah
+- WILDERNESS SOCIETY v. U.S. DEPARTMENT OF INTERIOR (2026) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Enterprise%20Institute%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

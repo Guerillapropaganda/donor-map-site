@@ -25,6 +25,10 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "District Court, S.D. New York"
 related: "[[DeVos Family]] · [[America First Legal and the Dark Money Architecture]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Christian Nationalism and the Theological Budget]] · [[Bradley Impact Fund]]"
+ein: 821470217
+annual-revenue: "$19.5M"
+net-assets: "$71.1M"
+tax-year: "2023"
 ---
 
 #conservative-partnership-institute #cpi #dark-money #maga #jim-demint #mark-meadows #january-6
@@ -90,3 +94,18 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Conservative%20Partnership%20Institute%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $19.5M |
+| Total Contributions | $19.6M |
+| Program Service Revenue | $598K |
+| Investment Income | $31K |
+| Total Expenses | $21.2M |
+| Net Assets | $71.1M |
+| Officer Compensation | $1.7M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 821470217](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 1)
+<!-- auto:propublica-990 end -->

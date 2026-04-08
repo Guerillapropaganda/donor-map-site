@@ -30,6 +30,59 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
   - "Treasury Department"
 related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Goldman Sachs and the Heidi Cruz Connection]]"
+sec-filings: 10000
+sec-form-types:
+  - "40-17F2"
+  - "424B2"
+  - "497K"
+  - "EX-99.(A) (125)"
+  - "EX-99.(A) (74)"
+  - "EX-99.(A)(102)"
+  - "EX-99.(A)(103)"
+  - "EX-99.(A)(104)"
+  - "EX-99.(A)(105)"
+  - "EX-99.(A)(106)"
+  - "EX-99.(A)(109)"
+  - "EX-99.(A)(111)"
+  - "EX-99.(A)(113)"
+  - "EX-99.(A)(117)"
+  - "EX-99.(A)(121)"
+  - "EX-99.(A)(126)"
+  - "EX-99.(A)(72)"
+  - "EX-99.(A)(73)"
+  - "EX-99.(A)(77)"
+  - "EX-99.(A)(81)"
+  - "EX-99.(A)(82)"
+  - "EX-99.(A)(86)"
+  - "EX-99.(A)(88)"
+  - "EX-99.(A)(90)"
+  - "EX-99.(A)(93)"
+  - "EX-99.(A)(94)"
+  - "EX-99.(A)(96)"
+  - "EX-99.(A)(97)"
+  - "EX-99.(A)(99)"
+  - "EX-99.(E)(2)"
+  - "EX-99.3"
+  - "EX-99.77Q1 OTHR EXHB"
+  - "EX-99.A(83)"
+  - "EX-99.A.29"
+  - "EX-99.A.52"
+  - "EX-99.A.53"
+  - "EX-99.A.54"
+  - "EX-99.A.55"
+  - "EX-99.A.56"
+  - "EX-99.A.58"
+  - "EX-99.A.60"
+  - "EX-99.A.64"
+  - "EX-99.A.65"
+  - "EX-99.A.66"
+  - "EX-99.A.69"
+  - "FWP"
+  - "MA-A"
+  - "MA/A"
+  - "N-CEN"
+  - "N-CEN/A"
+  - "POSASR"
 ---
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor
@@ -262,3 +315,23 @@ research-status:: ready — Full citation pass complete. $39M career political c
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Goldman%20Sachs%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 40-17F2, 424B2, 497K, EX-99.(A) (125), EX-99.(A) (74), EX-99.(A)(102), EX-99.(A)(103), EX-99.(A)(104) +43 more |
+| CIK | 886982 |
+| Ticker | GS |
+
+**Notable filings:**
+
+- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145773/0001193125-26-145773-index.htm)
+- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145771/0001193125-26-145771-index.htm)
+- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145765/0001193125-26-145765-index.htm)
+- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145760/0001193125-26-145760-index.htm)
+- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145692/0001193125-26-145692-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Goldman%20Sachs%22) (Tier 1)
+<!-- auto:sec-edgar end -->

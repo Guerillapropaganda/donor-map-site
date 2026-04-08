@@ -2,7 +2,7 @@
 title: "McDonalds Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
@@ -30,6 +30,9 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
   - "SCHEDULE 13G/A"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-08"
 ---
 
 #mcdonalds #fast-food #minimum-wage #franchise #labor #fight-for-15 #lobbying
@@ -119,3 +122,21 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22McDonalds%20Corporation%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=McDonalds%20Corporation) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

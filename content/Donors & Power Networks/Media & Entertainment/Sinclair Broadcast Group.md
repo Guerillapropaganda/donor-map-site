@@ -44,6 +44,8 @@ ein: "911500276"
 nonprofit-status: "501(c)(3)"
 total-revenue: 210851
 total-assets: 149613
+lobbying-spend: 4000000
+lobbying-filings: 52
 ---
 
 #sinclair #local-news #media #conservative #must-run #propaganda #consolidation
@@ -216,3 +218,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911500276) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $4.0M |
+| Quarterly Filings | 52 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 8 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Animals, Communications/Broadcasting/Radio/TV, Energy/Nuclear, Fuel/Gas/Oil, Government Issues, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** CROSSROADS STRATEGIES, LLC, GORSHEIN PUBLIC POLICY LLC, HF SINCLAIR CORPORATION, MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP), RAGNAR GROUP LLC, REH COMPANY (FORMERLY THE SINCLAIR COMPANIES), SINCLAIR BROADCAST GROUP, WILMER CUTLER PICKERING HALE AND DORR LLP
+
+**Agencies contacted:** Army, Dept of (Corps of Engineers), Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, SENATE, Treasury, Dept of, U.S. Trade Representative (USTR)
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Sinclair%20Broadcast%20Group) (Tier 1)
+<!-- auto:lda-lobbying end -->

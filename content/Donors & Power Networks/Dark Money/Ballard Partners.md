@@ -9,6 +9,17 @@ sector: "Dark Money"
 entity-type: "Corporation"
 lei: "254900Z96JBXAI3OVT57"
 lei-jurisdiction: "US-TX"
+sec-filings: 17
+sec-form-types:
+  - "10-K"
+  - "424B4"
+  - "D"
+  - "DRS"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "PX14A6G"
+  - "S-1"
+  - "S-1/A"
 ---
 
 #lobbying #trump #clemency #foreign-agent
@@ -59,3 +70,21 @@ Ballard Partners is a pure distribution mechanism for elite legal and political 
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 17 |
+| Form Types | 10-K, 424B4, D, DRS, EX-99.2, EX-99.3, PX14A6G, S-1 +1 more |
+
+**Notable filings:**
+
+- 2024-04-01 — **D**: D
+- 2021-04-09 — **PX14A6G**: PX14A6G
+- 2022-08-10 — **EX-99.2**: EX-99.2
+- 2024-03-12 — **EX-99.3**: EX-99.3
+- 2023-03-17 — **EX-99.3**: EX-99.3
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ballard%20Partners%22) (Tier 1)
+<!-- auto:sec-edgar end -->

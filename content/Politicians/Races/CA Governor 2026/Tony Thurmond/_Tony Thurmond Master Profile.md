@@ -165,3 +165,17 @@ This unresolved contradiction makes the CTA endorsement decision even more signi
 
 profile-status:: ready
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[CTA - California Teachers Association]] — $160K lobbying spend (Budget/Appropriations, Transportation)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+<!-- auto:influence-cross-ref end -->

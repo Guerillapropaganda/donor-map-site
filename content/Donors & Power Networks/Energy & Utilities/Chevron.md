@@ -26,6 +26,8 @@ annual-revenue: "$222K"
 net-assets: "$781K"
 tax-year: "2023"
 related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]]"
+top-federal-agency: "Department of Defense"
+top-naics-code: "324110"
 ---
 
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund
@@ -282,3 +284,32 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 510189525](https://projects.propublica.org/nonprofits/organizations/510189525) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Defense ($868.0M) |
+| Primary NAICS Sector | Petroleum Refineries |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $868.0M |
+| General Services Administration | $277K |
+| Department of State | $132K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Petroleum Refineries (324110) | $781.1M |
+| Other Warehousing and Storage (493190) | $68.9M |
+| Petroleum Lubricating Oil and Grease Manufacturing (324191) | $18.1M |
+| General Automotive Repair (811111) | $277K |
+| Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) (424720) | $78K |
+| Support Activities for Oil and Gas Operations (213112) | $54K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

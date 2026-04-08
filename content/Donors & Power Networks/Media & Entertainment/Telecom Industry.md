@@ -22,6 +22,8 @@ lobbying-spend: 9020027
 lobbying-filings: 97
 total-political-spend: "$270,182"
 related: "[[Mark Warner]]"
+lei: "549300D3EIDZJB62TR20"
+lei-jurisdiction: "QA"
 ---
 
 #telecom #net-neutrality #spectrum #broadband #lobbying #fcc #bipartisan
@@ -144,3 +146,18 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Telecom%20Industry) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300D3EIDZJB62TR20](https://search.gleif.org/#/record/549300D3EIDZJB62TR20) |
+| Legal Name | أريد ش.م,ق.ع |
+| Jurisdiction | QA |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-09-17T14:47:00Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

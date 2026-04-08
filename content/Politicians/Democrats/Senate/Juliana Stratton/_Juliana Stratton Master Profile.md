@@ -175,3 +175,17 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IL00458/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[JB Pritzker]] — $5.4M lobbying spend (Agriculture, Animals, Budget/Appropriations)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+<!-- auto:influence-cross-ref end -->

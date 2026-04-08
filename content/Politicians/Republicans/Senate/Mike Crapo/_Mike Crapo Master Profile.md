@@ -15,6 +15,11 @@ top-donors:
   - "Koch Network - Charles Koch"
 donors: "[[Harlan Crow]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+govtrack-id: 300030
+bills-sponsored: 27
+bills-cosponsored: 254
+website: "https://www.crapo.senate.gov"
+phone: "202-224-6142"
 ---
 
 
@@ -146,3 +151,35 @@ His nuclear energy advocacy is the most authentic throughline — it directly se
 
 profile-status:: ready
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 254 |
+| Total Votes Cast | 12,964 |
+
+**Recent bills sponsored:**
+
+- S. 3985: State Boating Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3931: TAS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 356: Secure Rural Schools Reauthorization Act of 2025 — *This bill was enacted after being signed by the President on December 18, 2025.*
+- S. 3532: State Veterans Homes Inspection Simplification Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 17, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3386: Health Care Freedom for Patients Act of 2025 — *This bill is provisionally dead due to a failed vote for cloture on December 11, 2025. Cloture is required to move past a Senate filibuster or the threat of a filibuster and takes a 3/5ths vote. In practice, most bills must pass cloture to move forward in the Senate.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Yea | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Nay | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300030) (Tier 1)
+<!-- auto:govtrack end -->

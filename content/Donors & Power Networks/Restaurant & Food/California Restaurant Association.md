@@ -48,6 +48,16 @@ annual-revenue: "$5.4M"
 net-assets: "$20.8M"
 tax-year: "2023"
 related: "[[UFCW - United Food and Commercial Workers]]"
+court-cases: 97
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, C.D. California"
+  - "District Court, E.D. California"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. California"
+  - "District Court, W.D. Washington"
 ---
 
 
@@ -237,3 +247,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 951241045](https://projects.propublica.org/nonprofits/organizations/951241045) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 97 |
+| Courts | Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, E.D. California, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. California, District Court, W.D. Washington |
+| Case Types | 890 Other Statutory Actions, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute |
+
+**Notable cases:**
+- California League of Food Producers v. Bonta (2026) — District Court, S.D. California
+- United States v. City of Morgan Hill (2026) — District Court, N.D. California
+- California Chamber of Commerce, et al. v. Bonta, et al. (2025) — Court of Appeals for the Ninth Circuit
+- Mulhern Gas Co., Inc. v. Mosley (2025) — Court of Appeals for the Second Circuit
+- United States of America Chamber of Commerce, et al. v. Sanchez, et al. (2025) — Court of Appeals for the Ninth Circuit
+- Rinnai America Corporation, et al. v. South Coast Air Quality Management District, et al. (2025) — Court of Appeals for the Ninth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Restaurant%20Association%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

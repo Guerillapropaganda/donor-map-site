@@ -14,6 +14,8 @@ last-enriched: "2026-04-07"
 total-revenue: 316336
 total-assets: 148627
 related: "[[Palantir Technologies]] · [[Blackstone Group]] · [[Ford Motor Company]] · [[Amazon]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]]"
+lei: "549300SK16NJD6MI4436"
+lei-jurisdiction: "VI"
 ---
 
 #lobbying #k-street #tax-policy #energy #defense #appropriations #tech #pharma #revolving-door #bipartisan-access
@@ -329,3 +331,18 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/830411414) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300SK16NJD6MI4436](https://search.gleif.org/#/record/549300SK16NJD6MI4436) |
+| Legal Name | ALPINE GROUP USVI LLC |
+| Jurisdiction | VI |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2024-02-04T13:30:04Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -9,14 +9,14 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: 205806345
+ein: "205806345"
 annual-revenue: "$669.1M"
 net-assets: "$768.5M"
 tax-year: "2023"
 lobbying-spend: 976282
 lobbying-filings: 109
 court-cases: 83
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Fifth Circuit"
@@ -55,6 +55,9 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
 related: "[[National Progressive Donor Networks]] · [[Center for American Progress]] · [[Demand Justice]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 664320202
+total-assets: 624857462
 ---
 
 #new-venture-fund #arabella #dark-money #liberal #501c3 #fiscal-sponsorship
@@ -169,3 +172,28 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22New%20Venture%20Fund%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 205806345 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $664.3M |
+| Total Assets | $624.9M |
+| NTEE Code | C05 |
+| IRS Ruling Date | 2007-01-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -21,6 +21,39 @@ net-assets: "$26.3M"
 tax-year: "2020"
 total-political-spend: "$20,115,751"
 related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]]"
+sec-filings: 1744
+sec-form-types:
+  - "10-K"
+  - "10-K405"
+  - "10-Q"
+  - "13F-HR"
+  - "13F-HR/A"
+  - "3"
+  - "3/A"
+  - "4"
+  - "6-K"
+  - "8-K"
+  - "DEF 14A"
+  - "EX-10.1"
+  - "EX-10.12"
+  - "EX-10.15"
+  - "EX-10.26"
+  - "EX-10.38"
+  - "EX-10.39"
+  - "EX-24"
+  - "EX-24.1"
+  - "EX-24.4"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "N-PX"
+  - "POS AM"
+  - "S-8"
+  - "S-8 POS"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
 ---
 
 
@@ -171,3 +204,21 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Haim%20Saban) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,744 |
+| Form Types | 10-K, 10-K405, 10-Q, 13F-HR, 13F-HR/A, 3, 3/A, 4 +23 more |
+
+**Notable filings:**
+
+- 2017-02-09 — **SC 13G**: SCHEDULE 13G
+- 2013-02-08 — **SC 13D**: SC 13D
+- 2017-02-09 — **EX-99.1**: EX-1
+- 2013-02-08 — **EX-99.1**: EX-99.1
+- 2001-07-27 — **EX-99**: EXH 99.1 - PRESS RELEASE - FOX FAMILY
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Haim%20Saban%22) (Tier 1)
+<!-- auto:sec-edgar end -->

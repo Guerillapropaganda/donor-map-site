@@ -41,6 +41,10 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
 related: "[[Kathy Hochul]]"
+ein: 134037377
+annual-revenue: "$72.1M"
+net-assets: "$225.5M"
+tax-year: "2023"
 ---
 
 #mega-donors #nyc-real-estate #loews-corporation #bipartisan-donors #hotel-insurance-empire
@@ -121,3 +125,15 @@ The Tisch family represents the bipartisan donor consensus: both major parties s
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tisch%20Family%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $72.1M |
+| Total Contributions | $0 |
+| Total Expenses | $20.8M |
+| Net Assets | $225.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 134037377](https://projects.propublica.org/nonprofits/organizations/134037377) (Tier 1)
+<!-- auto:propublica-990 end -->

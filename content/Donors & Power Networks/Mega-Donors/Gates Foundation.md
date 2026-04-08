@@ -34,6 +34,19 @@ annual-revenue: "$7.8B"
 net-assets: "$77.0B"
 tax-year: "2023"
 related: "[[Michael Bennet]]"
+federal-register-mentions: 18
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Agency for International Development"
+  - "Antitrust Division"
+  - "Centers for Disease Control and Prevention"
+  - "Education Department"
+  - "Employment and Training Administration"
+  - "Environmental Protection Agency"
+  - "Federal Communications Commission"
+  - "Health and Human Services Department"
+  - "Housing and Urban Development Department"
+  - "Justice Department"
 ---
 
 #donor #mega-donor #gates-foundation #bill-gates #charter-schools #education-policy #pharma-influence #global-health #common-core #class-analysis #follow-the-money
@@ -215,3 +228,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 562618866](https://projects.propublica.org/nonprofits/organizations/562618866) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 18 |
+| Proposed Rule | 5 |
+| Rule | 2 |
+| Notice | 11 |
+| Agencies | Agency for International Development, Antitrust Division, Centers for Disease Control and Prevention, Education Department, Employment and Training Administration, Environmental Protection Agency, Federal Communications Commission, Health and Human Services Department +7 more |
+
+**Recent regulatory activity:**
+- [Expanding Employment, Training, and Apprenticeship Opportunities for 16- and 17-Year-Olds in Health Care Occupations Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2018/09/27/2018-20996/expanding-employment-training-and-apprenticeship-opportunities-for-16--and-17-year-olds-in-health) (2018-09-27) — Labor Department ★
+- [Open Licensing Requirement for Competitive Grant Programs](https://www.federalregister.gov/documents/2017/01/19/2017-00910/open-licensing-requirement-for-competitive-grant-programs) (2017-01-19) — Education Department ★
+- [Board for International Food and Agricultural Development; Notice of Meeting](https://www.federalregister.gov/documents/2016/09/29/2016-23648/board-for-international-food-and-agricultural-development-notice-of-meeting) (2016-09-29) — Agency for International Development
+- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2015/12/23/2015-31702/disclosure-of-payments-by-resource-extraction-issuers) (2015-12-23) — Securities and Exchange Commission
+- [Nominations to the FIFRA Scientific Advisory Panel; Request for Comments](https://www.federalregister.gov/documents/2015/08/12/2015-19828/nominations-to-the-fifra-scientific-advisory-panel-request-for-comments) (2015-08-12) — Environmental Protection Agency
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-IMS Global Learning Consortium, Inc.](https://www.federalregister.gov/documents/2015/04/22/2015-09316/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-ims-global-learning) (2015-04-22) — Justice Department
+- ... and 12 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Gates%20Foundation%22) (Tier 1)
+<!-- auto:federal-register end -->

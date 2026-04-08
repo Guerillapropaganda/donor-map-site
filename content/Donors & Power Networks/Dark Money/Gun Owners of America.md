@@ -21,6 +21,8 @@ nonprofit-status: "501(c)(4)"
 total-revenue: 7676175
 total-assets: 2172940
 related: "[[Guns - Donors and Backers]]"
+lobbying-spend: 11561787
+lobbying-filings: 68
 ---
 
 #gun-owners-of-america #GOA #hardline-gun-rights #NRA-alternative #dark-money #second-amendment #Republican-donor
@@ -202,3 +204,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521256643) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $11.6M |
+| Quarterly Filings | 68 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 15 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Civil Rights/Civil Liberties, Defense, District of Columbia, Energy/Nuclear, Environment/Superfund, Firearms/Guns/Ammunition, Government Issues, Health Issues, Indian/Native American Affairs, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Taxation/Internal Revenue Code, Veterans
+
+**Lobbying firms:** AVOQ, LLC, BRADY CAMPAIGN TO PREVENT GUN VIOLENCE, COGENT STRATEGIES LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., EVERYTOWN FOR GUN SAFETY ACTION FUND, FAEGRE DRINKER BIDDLE & REATH LLP, GUN OWNERS OF AMERICA, INC., MEHLMAN CONSULTING, INC., NATIONAL ASSOCIATION FOR GUN RIGHTS, SPIRIT ROCK CONSULTING, STRATEGIC PRINCIPLES LLC, SUMMIT STRATEGIES GOVERNMENT AFFAIRS LLC, TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP), THEGROUP DC, LLC, TIBER CREEK GROUP
+
+**Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Alcohol Tobacco Firearms & Explosives, Bureau of Indian Affairs (BIA), Education, Dept of, Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD), Justice, Dept of (DOJ), Labor, Dept of (DOL) +3 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Gun%20Owners%20of%20America) (Tier 1)
+<!-- auto:lda-lobbying end -->

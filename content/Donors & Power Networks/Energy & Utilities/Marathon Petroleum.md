@@ -56,6 +56,10 @@ sec-form-types:
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
 related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]]"
+ein: 464439930
+annual-revenue: "$5.1M"
+net-assets: "$13.4M"
+tax-year: "2020"
 ---
 
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned
@@ -309,3 +313,16 @@ research-status:: developed — added 7-cycle PAC table (2012–2024, ~$8.2M PAC
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Marathon%20Petroleum%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2020)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $5.1M |
+| Total Contributions | $0 |
+| Total Expenses | $3.8M |
+| Net Assets | $13.4M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 464439930](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2021_prefixes_45-52%2F464439930_202012_990PF_2021090318810669.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

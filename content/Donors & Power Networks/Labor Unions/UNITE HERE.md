@@ -16,10 +16,22 @@ issues:
 total-political-spend: "$51,678,221"
 ein: "352455960"
 nonprofit-status: "501(c)(5)"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-08"
 lei: "54930053JDKWMZI3NN64"
 lei-jurisdiction: "CA"
 related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]]"
+federal-register-mentions: 91
+regulatory-agencies:
+  - "Commodity Futures Trading Commission"
+  - "Employment and Training Administration"
+  - "Environmental Protection Agency"
+  - "Federal Railroad Administration"
+  - "Federal Trade Commission"
+  - "Labor Department"
+  - "National Labor Relations Board"
+  - "Occupational Safety and Health Administration"
+  - "Transportation Department"
+  - "Wage and Hour Division"
 ---
 
 
@@ -205,3 +217,25 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 91 |
+| Final Rules | 12 |
+| Proposed Rules | 3 |
+| Notices | 76 |
+| Agencies | Commodity Futures Trading Commission, Employment and Training Administration, Environmental Protection Agency, Federal Railroad Administration, Federal Trade Commission, Labor Department, National Labor Relations Board, Occupational Safety and Health Administration +2 more |
+
+**Recent regulatory activity:**
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) — Federal Trade Commission
+- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (2024-08-01) — National Labor Relations Board ★
+- [Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2024/04/29/2024-08333/improving-protections-for-workers-in-temporary-agricultural-employment-in-the-united-states) (2024-04-29) — Labor Department ★
+- [Standard for Determining Joint Employer Status](https://www.federalregister.gov/documents/2023/10/27/2023-23573/standard-for-determining-joint-employer-status) (2023-10-27) — National Labor Relations Board ★
+- [Improve Tracking of Workplace Injuries and Illnesses](https://www.federalregister.gov/documents/2023/07/21/2023-15091/improve-tracking-of-workplace-injuries-and-illnesses) (2023-07-21) — Labor Department ★
+- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2022/11/04/2022-23823/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (2022-11-04) — National Labor Relations Board ★
+- ... and 85 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22UNITE%20HERE%22) (Tier 1)
+<!-- auto:federal-register end -->

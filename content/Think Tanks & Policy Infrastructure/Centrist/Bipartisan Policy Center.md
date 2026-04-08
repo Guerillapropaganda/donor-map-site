@@ -8,7 +8,7 @@ parent: null
 category: centrist
 tax-status: 501c3
 federal-register-mentions: 27
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Centers for Medicare & Medicaid Services"
   - "Children and Families Administration"
@@ -25,6 +25,15 @@ ein: "731628382"
 nonprofit-status: "501(c)(3)"
 total-revenue: 38011931
 total-assets: 62759127
+court-cases: 175
+court-jurisdictions:
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, C.D. California"
+  - "District Court, E.D. Virginia"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Ohio"
 ---
 
 #think-tank #centrist #bipartisan #energy #healthcare #housing #immigration #governance #class-analysis
@@ -282,3 +291,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/731628382) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 175 |
+| Courts | Court of Appeals for the First Circuit, Court of Appeals for the Third Circuit, District Court, C.D. California, District Court, E.D. Virginia, District Court, M.D. Florida, District Court, N.D. California, District Court, N.D. Ohio |
+| Case Types | 2899 Other Statutes, 441 Civil Rights: Voting, 820 Copyright, Other Statutes: False Claims Act |
+
+**Notable cases:**
+- David Tangipa v. Gavin Newsom (2025) — District Court, C.D. California
+- Izquierdo v. Wipro Limited (2025) — District Court, N.D. Ohio
+- VOTE! v. City of Daytona Beach (2025) — District Court, M.D. Florida
+- United States v. James (2025) — District Court, E.D. Virginia
+- United States v. Comey (2025) — District Court, E.D. Virginia
+- Relentless Inc. v. US Dep't of Commerce (2025) — Court of Appeals for the First Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bipartisan%20Policy%20Center%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

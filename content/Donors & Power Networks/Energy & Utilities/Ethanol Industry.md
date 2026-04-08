@@ -31,12 +31,18 @@ annual-revenue: "$25K"
 net-assets: "$172K"
 tax-year: "2019"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 total-revenue: 25479
 total-assets: 172173
 lei: "984500B40IB4DF09CF40"
 lei-jurisdiction: "IN"
 related: "[[Agribusiness Donor Bloc]] · [[Joni Ernst Master Profile]] · [[The Agribusiness Senator and the Family Farm Myth]] · [[Ernst Campaign Finance Research - Verified Dates and Amounts]]"
+court-cases: 182
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
 ---
 
 #ethanol #corn #biofuel #rfs #agriculture #iowa #mandates #subsidies
@@ -188,3 +194,22 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 182 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, District of Columbia, District Court, N.D. California, District Court, S.D. New York |
+| Case Types | 150 Contract: Recovery/Enforcement, 890 Other Statutory Actions, 893 Environmental Matters |
+
+**Notable cases:**
+- Growth Energy v. EPA (2026) — Court of Appeals for the D.C. Circuit
+- Renewable Fuels Association v. EPA (2025) — Court of Appeals for the D.C. Circuit
+- CLEAN FUELS ALLIANCE AMERICA v. ZELDIN (2025) — District Court, District of Columbia
+- HF Sinclair Refining & Marketing LLC v. EPA (2025) — Court of Appeals for the D.C. Circuit
+- REH Company, LLC v. EPA (2025) — Court of Appeals for the D.C. Circuit
+- EXO Opportunity Fund, LLC v. Patriot Renewable Fuels, LLC (2025) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ethanol%20Industry%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

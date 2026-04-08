@@ -8,6 +8,10 @@ parent: null
 sector: "Real Estate"
 entity-type: "Corporation"
 related: "[[Kathy Hochul]]"
+lobbying-spend: 150000
+lobbying-filings: 4
+lei: "549300SIM2H13POBGQ56"
+lei-jurisdiction: "US-NY"
 ---
 
 #nyc-real-estate #developer #hochul-donor #commercial-real-estate #moinian
@@ -48,3 +52,35 @@ Moinian Group exemplifies how individual developers can exercise substantial pol
 - [New York Times: Developer contributions to Hochul](https://www.nytimes.com/2022/06/developer-hochul.html) (Tier 2)
 
 `content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $150K |
+| Quarterly Filings | 4 |
+| Year Range | 2025-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Real Estate/Land Use/Conservation
+
+**Lobbying firms:** HOLLAND & KNIGHT LLP
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Moinian%20Group) (Tier 1)
+<!-- auto:lda-lobbying end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300SIM2H13POBGQ56](https://search.gleif.org/#/record/549300SIM2H13POBGQ56) |
+| Legal Name | 900 Eighth Avenue Condominium LLC |
+| Jurisdiction | US-NY |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2025-11-25T18:37:40Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -31,6 +31,11 @@ fara-countries:
   - "UNITED ARAB EMIRATES"
   - "YEMEN"
 related: "[[Google - Alphabet]] · [[Palantir Technologies]] · [[Boeing]] · [[General Dynamics]] · [[Raytheon (RTX)|RTX Corp]] · [[AbbVie]] · [[Johnson & Johnson]] · [[Apollo Global Management]] · [[PhRMA]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Fierce Government Relations]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]]"
+ein: "521943698"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 3391955
+total-assets: 5542596
 ---
 
 #lobbying #k-street #bipartisan #tech #defense #pharma #agriculture #finance
@@ -281,3 +286,28 @@ content-readiness:: ready
 
 - [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Cornerstone%20Government%20Affairs,) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 521943698 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $3.4M |
+| Total Assets | $5.5M |
+| NTEE Code | W20 |
+| IRS Ruling Date | 1997-11-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017
+
+**View 990 filings:**
+- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2024)
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2020)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521943698) (Tier 1)
+<!-- auto:nonprofit-990 end -->

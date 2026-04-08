@@ -26,6 +26,15 @@ court-jurisdictions:
   - "District Court, W.D. Kentucky"
   - "United States Bankruptcy Court, W.D. Kentucky"
 related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Hospital Corporation of America - HCA]] · [[Anthem - Elevance Health Political Operation]]"
+federal-awards-total: 4870581193
+federal-contracts-count: 3
+federal-grants-count: 12
+subawards-issued: 1
+subawards-issued-amount: 171272
+subawards-received: 1
+subawards-received-amount: 171272
+top-federal-agency: "Department of Veterans Affairs"
+top-naics-code: "621498"
 ---
 
 #humana #health-insurance #medicare-advantage #lobbying #kentucky
@@ -134,3 +143,64 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Humana%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $4.9B |
+| Contracts (recent 3yr) | 3 ($77.5B sampled) |
+| Grants (recent 3yr) | 12 ($40.4M sampled) |
+| Federal Agencies | 5 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $51.3B | Department of Defense | IGF::OT::IGF |
+| $20.5B | Department of Defense | T3 MANAGED CARE SUPPORT CONTRACT FOR SOUTH REGION |
+| $5.8B | Department of Defense | TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $17.6M | Department of Health and Human Services | PROJECT TONGA NZOTO; IN CONGOLESE THIS MEANS "REVITALIZE YOUR HEALTH" OR "BUILD UP YOUR BODY." |
+| $8.7M | Agency for International Development | FIXED AMOUNT AWARD ON THE BOTSWANA COMMUNITY FOCUSED HIV/AIDS PROGRAM WITH A PROVISION OF COMMUNITY- |
+| $8.2M | Agency for International Development | REDUCE TB, IMPLEMENTED BY HPP-CONGO AND PARTNER APSME, WILL EMPOWER LOCAL COMMUNITIES AND HEALTH SER |
+| $4.5M | Department of Health and Human Services | TOTAL CONTROL OF THE EPIDEMIC TCE KINSHASA - LOCAL CONGOLESE NGO HUMANA PEOPLE TO PEOPLE CONGO (HPP- |
+| $474K | Inter-American Foundation | FOR FARMING COMMUNITIES IN THE SOUTHERN REGION OF THE FRANCISCO MORAZÁN DEPARTMENT, REPEATED DROUGHT |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1068e466-707d-6b6f-367f-0255fab79b8c-C/latest) (Tier 1)
+<!-- auto:usaspending end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 1 ($171K sampled) |
+| Subawards Received (as sub) | 1 ($171K sampled) |
+| Top Federal Agency | Department of Veterans Affairs ($317.1M) |
+| Primary NAICS Sector | All Other Outpatient Care Centers |
+
+**Subcontractors receiving federal money from Humana:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| HUMANA MACHINA INC | $171K | 1 |
+
+**Prime contractors funneling federal money to Humana:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| ALUTIIQ INFORMATION MANAGEMENT, LLC. | $171K | 1 |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| All Other Outpatient Care Centers (621498) | $317.1M |
+| Office Administrative Services (561110) | $8.7M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

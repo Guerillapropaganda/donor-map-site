@@ -2,7 +2,7 @@
 title: "Dan Goldman"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 govtrack-id: 456923
@@ -10,6 +10,8 @@ bills-sponsored: 32
 bills-cosponsored: 568
 website: "https://goldman.house.gov"
 phone: "202-225-7944"
+total-received: "$2,082,447"
+fec-candidate-id: "H2NY10308"
 ---
 
 #dan-goldman #house #new-york #levi-strauss-heir #impeachment-lawyer #israel-hawk #class-analysis #inherited-wealth #democrat
@@ -120,3 +122,34 @@ Goldman represents the final stage of Democratic realignment: dynastic wealth in
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $2,082,447 |
+| Individual Contributions | $1,264,322 |
+| PAC Contributions | $222,750 |
+| Cash on Hand | 1805522.56 |
+| IE Support (Super PAC) | $557,114 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $2,082,447 | $1,264,322 | $222,750 |
+| 2024 | $3,659,241 | $2,546,955 | $292,194 |
+| 2022 | $7,142,852 | $2,057,706 | $97,005 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| PROTECT PROGRESS | $301,706 | $0 |
+| MAINSTREAM DEMOCRATS PAC | $203,398 | $0 |
+| TZEDEK PAC | $52,000 | $0 |
+| SIERRA CLUB INDEPENDENT ACTION | $10 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10308/) (Tier 1)
+<!-- auto:fec-politician end -->

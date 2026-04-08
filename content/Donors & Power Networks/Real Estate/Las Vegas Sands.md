@@ -44,6 +44,18 @@ sec-form-types:
   - "SC 13G/A"
   - "SCHEDULE 13G/A"
 related: "[[Catherine Cortez Masto]]"
+court-cases: 1929
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Minnesota"
+  - "District Court, D. Nevada"
+  - "District Court, D. Oregon"
+  - "District Court, E.D. New York"
+  - "District Court, S.D. California"
+  - "United States Bankruptcy Court, E.D. Washington"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #sheldon-adelson #casino #megadonor #republican #single-family-donor
@@ -180,3 +192,22 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Las%20Vegas%20Sands%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,929 |
+| Courts | Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, D. Minnesota, District Court, D. Nevada, District Court, D. Oregon, District Court, E.D. New York, District Court, S.D. California, United States Bankruptcy Court, E.D. Washington +1 more |
+| Case Types | 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 190 Contract: Other, 460 Deportation, 463 Habeas Corpus - Alien Detainee, 890 Other Statutory Actions |
+
+**Notable cases:**
+- Adelson, et al. v. United States District Court for the District of Nevada, Las Vegas (2026) — Court of Appeals for the Ninth Circuit
+- Escareno v. RPM Living, LLC (2026) — District Court, S.D. California
+- Thomson v. Aria Resort & Casino, LLC (2025) — District Court, D. Nevada
+- Jacobo-Ramirez v. Mullin (2025) — District Court, D. Nevada
+- Riskon International, Inc. v. Zest Labs Holdings, LLC (2025) — District Court, D. Nevada
+- CLEAR Clinic v. Noem (2025) — District Court, D. Oregon
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Las%20Vegas%20Sands%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

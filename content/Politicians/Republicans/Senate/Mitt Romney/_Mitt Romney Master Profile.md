@@ -130,3 +130,28 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412841) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2024-12-21 | H.R. 10545 (118th): American Relief Act, 2025 | **Nay** | Bill Passed |
+| 2024-12-21 | H.R. 82 (118th): Social Security Fairness Act of 2023 | **Nay** | Bill Passed |
+| 2024-12-20 | S.Amdt. 3331 (Crapo) to H.R. 82: To delay the repeal of the Government pension offset and windfall elimination provision | **Yea** | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3360 (Cruz) to H.R. 82: In the nature of a substitute. | **Yea** | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3352 (Paul) to H.R. 82: To provide for automatic continuing resolutions. | **Yea** | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3346 (Paul) to H.R. 82: To adjust the normal and early retirement ages for Social Security benefits and increase | **Nay** | Amendment Rejected |
+| 2024-12-20 | On the Nomination PN2245: Serena Raquel Murillo, of California, to be United States District Judge for the Central Distr | **Nay** | Nomination Confirmed |
+| 2024-12-20 | Motion to Invoke Cloture: Serena Raquel Murillo to be U.S. District Judge for the Central District of California: Serena | **Nay** | Cloture Motion Agreed to |
+| 2024-12-20 | On the Nomination PN2244: Benjamin J. Cheeks, of California, to be United States District Judge for the Southern Distric | **Nay** | Nomination Confirmed |
+| 2024-12-20 | Motion to Invoke Cloture: Benjamin J. Cheeks to be U.S. District Judge for the Southern District of California: Benjamin | **Nay** | Cloture Motion Agreed to |
+| 2024-12-18 | S. 4367 (118th): Thomas R. Carper Water Resources Development Act of 2024 | **Yea** | Motion Agreed to |
+| 2024-12-18 | Motion to Invoke Cloture: Motion to Proceed to H.R. 82 | **Nay** | Cloture on the Motion to Proceed Agreed to |
+| 2024-12-18 | H.R. 5009 (118th): To authorize appropriations for fiscal year 2025 for military activities of the Department of Defense | **Yea** | Motion Agreed to |
+| 2024-12-16 | Motion to Invoke Cloture: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 5009 | **Not Voting** | Cloture Motion Agreed to |
+| 2024-12-12 | On the Nomination PN1980: Matthew James Marzano, of Illinois, to be a Member of the Nuclear Regulatory Commission for th | **Nay** | Nomination Confirmed |
+
+**Sources**
+
+- [GovTrack: Mitt Romney](https://www.govtrack.us/congress/members/412841) (Tier 1)
+<!-- auto:voting-record end -->

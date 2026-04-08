@@ -20,7 +20,7 @@ net-assets: "$108.4M"
 tax-year: "2023"
 total-political-spend: "$44,294"
 nonprofit-status: "501(c)(5)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 total-revenue: 36693260
 total-assets: 125601852
 sec-filings: 519
@@ -59,6 +59,18 @@ sec-form-types:
   - "SC TO-I"
   - "SC TO-I/A"
 related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]] · [[The Agriculture Committee and Farm Subsidy Pipeline]]"
+court-cases: 330
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, C.D. Illinois"
+  - "District Court, D. Connecticut"
+  - "District Court, D. Maryland"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Utah"
+  - "District Court, D. Wyoming"
+  - "District Court, District of Columbia"
 ---
 
 
@@ -333,3 +345,22 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Farm%20Bureau%20Federation%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 330 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Sixth Circuit, District Court, C.D. Illinois, District Court, D. Connecticut, District Court, D. Maryland, District Court, D. Massachusetts, District Court, D. Utah +7 more |
+| Case Types | 2899 Other Statutes APA/Review Agency, 440 Civil Rights: Other, 441 Civil Rights: Voting, 441 Voting, 442 Civil Rights: Employment |
+
+**Notable cases:**
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- United States v. Ziriax (2026) — District Court, W.D. Oklahoma
+- United States v. Thomas (2026) — District Court, D. Connecticut
+- United States v. EVANS (2025) — District Court, District of Columbia
+- United States v. Matthews (2025) — District Court, C.D. Illinois
+- United States v. RAFFENSPERGER (2025) — District Court, M.D. Georgia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Farm%20Bureau%20Federation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

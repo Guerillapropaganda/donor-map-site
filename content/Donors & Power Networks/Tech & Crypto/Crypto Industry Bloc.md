@@ -22,6 +22,9 @@ subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
 related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[The 2024 Tech Billionaire Network]] · [[Cantor Fitzgerald Tether and the Crypto Reserve Play]] · [[Ted Cruz Master Profile]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[The Finance Committee and Tax Industry Alignment]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Crypto and Tech - Donors and Backers]] · [[Patrick McHenry Master Profile]]"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-08"
 ---
 
 
@@ -260,3 +263,21 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Crypto%20Industry%20Bloc) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

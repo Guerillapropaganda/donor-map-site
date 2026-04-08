@@ -12,11 +12,15 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
 federal-contracts: "22671"
-ein: 136155650
+ein: "136155650"
 annual-revenue: "$1.0M"
 net-assets: "$18.6M"
 tax-year: "2023"
 related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Charles Schwab]]"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 10243579
+total-assets: 15848073
 ---
 
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying
@@ -130,3 +134,27 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 136155650 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $10.2M |
+| Total Assets | $15.8M |
+| IRS Ruling Date | 1963-07-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136155650) (Tier 1)
+<!-- auto:nonprofit-990 end -->

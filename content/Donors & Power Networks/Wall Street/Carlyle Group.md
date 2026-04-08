@@ -39,6 +39,8 @@ sec-form-types:
 top-federal-agency: "Department of Defense"
 top-naics-code: "336611"
 related: "[[American Enterprise Institute]] · [[Council on Foreign Relations]] · [[Blackstone Real Estate Political Operation]]"
+lei: "529900NGGVF94UK6PG95"
+lei-jurisdiction: "US-DE"
 ---
 
 #carlyle-group #private-equity #wall-street #defense #revolving-door #bipartisan #carried-interest #lobbying
@@ -264,3 +266,18 @@ content-readiness:: developed
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [529900NGGVF94UK6PG95](https://search.gleif.org/#/record/529900NGGVF94UK6PG95) |
+| Legal Name | THE CARLYLE GROUP INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-20T17:34:25Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

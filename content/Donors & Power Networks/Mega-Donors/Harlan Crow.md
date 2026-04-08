@@ -9,14 +9,13 @@ sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
   - "John Cornyn"
-  - "Mike Crapo"
 issues:
   - "Housing"
 ein: 463077371
 annual-revenue: "$109"
 net-assets: "$4K"
 tax-year: "2023"
-total-political-spend: "$969,948"
+total-political-spend: "$4,649,518"
 related: "[[Twenty Years of Financial Disclosure Failures]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Harlan Crow Gift Empire]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]] · [[Mike Crapo]] · [[John Cornyn]] · [[Federalist Society]] · [[American Enterprise Institute]]"
 ---
 
@@ -158,23 +157,23 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 <!-- auto:fec-donor start -->
 | Metric | Value |
 |--------|-------|
-| Total Political Spend | $969,948 |
-| Contributions | 97 |
+| Total Political Spend | $4,649,518 |
+| Contributions | 497 |
 
 **Top recipients:**
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
+| SENATE LEADERSHIP FUND | $500,000 | — |
+| NRSC | $290,484 | REP |
+| HONOR PENNSYLVANIA, INC. | $225,000 | — |
+| AMERICA FUND | $200,000 | — |
+| REPUBLICAN PARTY OF TEXAS | $175,000 | REP |
+| CONGRESSIONAL LEADERSHIP FUND | $165,000 | — |
 | TRUTH AND COURAGE PAC | $150,000 | — |
-| NRSC | $129,384 | REP |
+| MARYLAND'S FUTURE | $150,000 | — |
+| BLACK BEAR PAC, INC. | $107,000 | — |
 | CORNYN LONESTAR VICTORY FUND | $100,000 | — |
-| TEXANS FOR A CONSERVATIVE MAJORITY | $100,000 | — |
-| REPUBLICAN NATIONAL COMMITTEE | $50,000 | REP |
-| NRSC VICTORY | $50,000 | — |
-| DEFENDING AMERICA PAC, INC. | $25,000 | — |
-| ONE TEAM SENATE MAJORITY | $23,600 | — |
-| GROW THE MAJORITY | $21,000 | — |
-| CISCOMANI VICTORY FUND | $14,000 | — |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harlan%20Crow) (Tier 1)
 <!-- auto:fec-donor end -->

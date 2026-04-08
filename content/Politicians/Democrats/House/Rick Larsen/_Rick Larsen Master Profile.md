@@ -20,6 +20,8 @@ issues:
 top-donors:
   - "Boeing"
 donors: "[[IBEW - International Brotherhood of Electrical Workers]]"
+total-received: "$1,185,411"
+fec-candidate-id: "H0WA02080"
 ---
 
 
@@ -152,3 +154,38 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 - [Wikipedia: Rick Larsen](https://en.wikipedia.org/wiki/Rick_Larsen) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,185,411 |
+| Individual Contributions | $384,415 |
+| PAC Contributions | $681,000 |
+| Cash on Hand | 559906.71 |
+| IE Support (Super PAC) | $45,062 |
+| IE Opposition (Super PAC) | $1,256,162 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,185,411 | $384,415 | $681,000 |
+| 2024 | $2,450,006 | $834,754 | $1,468,800 |
+| 2022 | $1,697,229 | $511,737 | $1,077,092 |
+| 2020 | $1,284,956 | $323,509 | $873,850 |
+| 2018 | $1,148,127 | $236,857 | $842,750 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| AMERICAN FUTURE FUND | $0 | $1,123,991 |
+| NEA FUND FOR CHILDREN AND PUBLIC EDUCATION; THE (FKA NEAPAC) | $0 | $221,568 |
+| AMERICAN CROSSROADS | $0 | $63,731 |
+| NARAL | $0 | $57,293 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE - EXPENDITURES | $0 | $56,683 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0WA02080/) (Tier 1)
+<!-- auto:fec-politician end -->

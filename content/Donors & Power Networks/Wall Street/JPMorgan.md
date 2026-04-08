@@ -65,6 +65,18 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 2245488721
 total-assets: 1219377637
 related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[John Boehner]] · [[The Whiteboard Populism and Legislative Limits]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[Barack Obama Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Melissa Bean's Corporate Background]]"
+court-cases: 86914
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Maine"
+  - "District Court, D. Oregon"
+  - "District Court, E.D. Missouri"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. Georgia"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. California"
+  - "District Court, S.D. Florida"
 ---
 
 #megabank #wall-street #jamie-dimon #bipartisan #financial-deregulation #revolving-door #too-big-to-fail #both-sides
@@ -417,3 +429,22 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237049738) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 86,914 |
+| Courts | District Court, C.D. California, District Court, D. Maine, District Court, D. Oregon, District Court, E.D. Missouri, District Court, E.D. Pennsylvania, District Court, M.D. Florida, District Court, N.D. Georgia, District Court, N.D. Texas +7 more |
+| Case Types | 110 Insurance, 220 Real Property: Foreclosure, 480 Consumer Credit, 850 Securities/Commodities, 893 Environmental Matters |
+
+**Notable cases:**
+- Rivera v. Aspire Events LLC (2026) — District Court, M.D. Florida
+- Leonor Matos v. JPMorgan Chase Bank, N.A. (2026) — District Court, C.D. California
+- U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GREENE STREET FUNDING TRUST II v. GFG ENTERPRISE LLC (2026) — District Court, E.D. Pennsylvania
+- Brenda Rodriguez (2026) — United States Bankruptcy Court, M.D. Pennsylvania
+- Filardi v. USAA General Indemnity Company (2026) — District Court, E.D. Missouri
+- Westley Dane Rachko v. JPMorgan Chase Bank, N.A. (2026) — District Court, C.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JPMorgan%20Chase%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
