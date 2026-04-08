@@ -6,8 +6,8 @@ import { StatsBar } from "@/components/StatsBar"
 import { VaultGrid } from "@/components/VaultGrid"
 import { ProfileDetail } from "@/components/ProfileDetail"
 import { ActivityFeed } from "@/components/ActivityFeed"
-import { ReadinessChart } from "@/components/ReadinessChart"
 import { TypeBreakdown } from "@/components/TypeBreakdown"
+import { ContentBreakdown } from "@/components/ContentBreakdown"
 
 export default function Dashboard() {
   const [profiles, setProfiles] = useState<Profile[]>([])
@@ -112,7 +112,8 @@ export default function Dashboard() {
       <StatsBar stats={stats} loading={loading} />
 
       {/* Charts Row */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+        <ContentBreakdown profiles={profiles} />
         <TypeBreakdown stats={stats} />
         <ActivityFeed />
       </div>
