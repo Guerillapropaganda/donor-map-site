@@ -34,7 +34,7 @@ doj-components:
   - 'USAO - New York, Northern'
   - 'USAO - Ohio, Northern'
   - 'USAO - Ohio, Southern'
-opposes: '[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]]'
+opposes: "[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Vivek Ramaswamy Master Profile]]"
 related: "[[The Culture War Economy - Who Profits From Division]]"
 total-received: "$3,852,435"
 fec-candidate-id: "P80001571"
