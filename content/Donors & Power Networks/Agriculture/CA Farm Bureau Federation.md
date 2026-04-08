@@ -44,7 +44,7 @@ The California Farm Bureau exemplifies how agricultural wealth translates to pol
 
 ### Sources
 
-- [California Secretary of State: Campaign finance filings](https://cal-access.sos.ca.gov/Campaign/) (Tier 1)
+- [California Secretary of State: Campaign finance filings](https://cal-access.sos.ca.gov/Campaign/) (NEEDS REVIEW) (Tier 1)
 - [CalMatters: Newsom relents, signs farmworker union bill after pressure from Biden and labor](https://calmatters.org/california-divide/2022/09/newsom-farmworker-union-bill/) (Tier 2)
 
 `content-readiness:: ready
