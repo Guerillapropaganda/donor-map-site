@@ -142,11 +142,11 @@ This contradiction — the outsider brand hiding Wall Street integration — is 
 >
 > **Post-presidency:** $65M + $50M + $11.75M = $126.75M within 2 years of leaving office. The donor class doesn't just pay for access during the presidency — it rewards afterward. The post-presidency payday is the structural incentive that shapes in-office behavior.
 >
-> - [OpenSecrets: Obama 2008 Top Contributors](https://www.opensecrets.org/PRES08/contrib.php?cid=N00009638) (Tier 1)
-> - [CNN: Goldman Sachs was top Obama donor](https://www.cnn.com/2010/POLITICS/04/20/obama.goldman.donations/index.html) (Tier 2)
-> - [NPR: FTC Closes Google Antitrust Investigation Without Penalties](https://www.npr.org/2013/01/03/168564147/ftc-closes-google-anti-trust-investigation-without-penalties) (Tier 2)
-> - [PBS Frontline: Obama's Deal Chronology](https://www.pbs.org/wgbh/pages/frontline/obamasdeal/etc/cron.html) (Tier 2)
-> - [Health Affairs: The Origins And Demise Of The Public Option](https://www.healthaffairs.org/doi/10.1377/hlthaff.2010.0363) (Tier 2)
+> - ~~[OpenSecrets: Obama 2008 Top Contributors](https://www.opensecrets.org/PRES08/contrib.php?cid=N00009638)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+> - [CNN: Goldman Sachs was top Obama donor](https://www.cnn.com/2010/POLITICS/04/20/obama.goldman.donations/index.html) (Tier 2) (VERIFIED)
+> - [NPR: FTC Closes Google Antitrust Investigation Without Penalties](https://www.npr.org/2013/01/03/168564147/ftc-closes-google-anti-trust-investigation-without-penalties) (Tier 2) (VERIFIED)
+> - [PBS Frontline: Obama's Deal Chronology](https://www.pbs.org/wgbh/pages/frontline/obamasdeal/etc/cron.html) (Tier 2) (VERIFIED)
+> - ~~[Health Affairs: The Origins And Demise Of The Public Option](https://www.healthaffairs.org/doi/10.1377/hlthaff.2010.0363)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -243,17 +243,17 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 ### Sources
 
 - [CNN: Goldman Sachs was top Obama donor](https://www.cnn.com/2010/POLITICS/04/20/obama.goldman.donations/index.html) (Tier 2)
-- [Common Dreams: Obama's Big Sellout — The President has Packed His Economic Team with Wall Street Insiders](https://www.commondreams.org/news/2009/12/13/obamas-big-sellout-president-has-packed-his-economic-team-wall-street-insiders) (Tier 3)
-- [PolitiFact: Barack Obama got many campaign contributions from Goldman Sachs](https://www.politifact.com/factchecks/2009/sep/25/michael-moore/barack-obama-goldman-sachs-campaign-contributions/) (Tier 2)
-- [The Intercept: Google's Remarkably Close Relationship With the Obama White House](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/) (Tier 2)
-- [Campaign for Accountability: Google's Extraordinary Access to Obama](https://campaignforaccountability.org/googles-extraordinary-access-to-obama-revealed-as-white-house-visitor-logs-show-427-meetings-between-company-and-administration-officials/) (Tier 2)
-- [Sunlight Foundation: The Legacy of Billy Tauzin: The White House-PhRMA Deal](https://sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin-the-white-house-phrma-deal/) (Tier 2)
+- [Common Dreams: Obama's Big Sellout — The President has Packed His Economic Team with Wall Street Insiders](https://www.commondreams.org/news/2009/12/13/obamas-big-sellout-president-has-packed-his-economic-team-wall-street-insiders) (Tier 3) (VERIFIED)
+- [PolitiFact: Barack Obama got many campaign contributions from Goldman Sachs](https://www.politifact.com/factchecks/2009/sep/25/michael-moore/barack-obama-goldman-sachs-campaign-contributions/) (Tier 2) (VERIFIED)
+- [The Intercept: Google's Remarkably Close Relationship With the Obama White House](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/) (Tier 2) (VERIFIED)
+- [Campaign for Accountability: Google's Extraordinary Access to Obama](https://campaignforaccountability.org/googles-extraordinary-access-to-obama-revealed-as-white-house-visitor-logs-show-427-meetings-between-company-and-administration-officials/) (Tier 2) (VERIFIED)
+- [Sunlight Foundation: The Legacy of Billy Tauzin: The White House-PhRMA Deal](https://sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin-the-white-house-phrma-deal/) (Tier 2) (VERIFIED)
 - [PBS Frontline: Obama's Deal Chronology](https://www.pbs.org/wgbh/pages/frontline/obamasdeal/etc/cron.html) (Tier 2)
-- [Center for Public Integrity: Elimination of 'public option' threw consumers to the insurance wolves](https://publicintegrity.org/health/elimination-of-public-option-threw-consumers-to-the-insurance-wolves/) (Tier 2)
+- [Center for Public Integrity: Elimination of 'public option' threw consumers to the insurance wolves](https://publicintegrity.org/health/elimination-of-public-option-threw-consumers-to-the-insurance-wolves/) (Tier 2) (VERIFIED)
 - [Health Affairs Journal: The Origins And Demise Of The Public Option](https://www.healthaffairs.org/doi/10.1377/hlthaff.2010.0363) (Tier 2)
-- [Medium/OpenSecrets: Obama-tied operatives and Biden supporters launch $60 million 'dark money' group](https://medium.com/@OpenSecretsDC/obama-tied-operatives-and-biden-supporters-launch-60-million-dark-money-group-a21197faf3cf) (Tier 2)
-- [OpenSecrets: Organizing for Action Committee](https://www.opensecrets.org/obama/organizing-for-action-committee) (Tier 1)
-- [Free Beacon: Democracy Alliance Members Big Contributors to OFA](https://freebeacon.com/national-security/democracy-alliance-members-big-contributors-to-ofa/) (Tier 3 — partisan source but citing primary documentation) (Tier 2)
+- [Medium/OpenSecrets: Obama-tied operatives and Biden supporters launch $60 million 'dark money' group](https://medium.com/@OpenSecretsDC/obama-tied-operatives-and-biden-supporters-launch-60-million-dark-money-group-a21197faf3cf) (Tier 2) (VERIFIED)
+- [OpenSecrets: Organizing for Action Committee](https://www.opensecrets.org/obama/organizing-for-action-committee) (Tier 1) (VERIFIED)
+- [Free Beacon: Democracy Alliance Members Big Contributors to OFA](https://freebeacon.com/national-security/democracy-alliance-members-big-contributors-to-ofa/) (VERIFIED) (Tier 3 — partisan source but citing primary documentation) (Tier 2)
 
 profile-status:: ready
 content-readiness:: ready
@@ -301,5 +301,5 @@ content-readiness:: ready
 | Election Cycle | 2016 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6CA00808/) (Tier 1)
+- ~~[Source: FEC.gov](https://www.fec.gov/data/candidate/S6CA00808/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
