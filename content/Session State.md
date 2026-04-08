@@ -12,39 +12,37 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-08 (afternoon)
+Date: 2026-04-08 (evening)
 
 Done:
-- **Ops v1.1 upgrade** — major UX improvements to the Operations Center
-- **Ctrl+K command palette** — global search across all 1,600+ profiles and pages from anywhere
-- **Unified profile page** (`/profile`) — readiness stepper, source quality bars, connections, URLs, clickable source links opening in new tab
-- **Rich activity feed** — categorizes commits into Pipeline/Connection/Edit/Deploy/URL/Note with colored icons and filter pills
-- **Keyboard shortcuts** — `?` for help, `g+d/p/n/u/r/e` for navigation
-- **Visual readiness badges** — VaultGrid cards show colored readiness labels + progress bars + tier/enrichment badges
-- **Fixed connections API** — now parses body text `related:`/`donors:`/`opposes:` fields as fallback (250+ profiles had connections in body, not frontmatter). Trump and all profiles now show connections.
-- **Relationship Mapper v2** — full rewrite:
-  - Search: click input to clear and search again (was stuck on previous profile)
-  - Graph: draggable (click+drag to pan), scroll-to-zoom (no Ctrl needed), zoom controls (+/-/Reset), no 24-node limit
-  - Explorer: Add Connection form on all three views (List, Explorer, Graph)
-  - Sidebar: type category filters, internal docs excluded from No Connections
-- **Profile View** — browse/search grid when no profile selected, clickable URLs
+- **Ops v1.1 → v1.2 upgrade** — major Relationship Mapper and Source Hunter overhaul
+- **Source Hunter expanded: 6 → 15 APIs** — added Senate LDA, SAM.gov, CourtListener, FARA, DOJ Press, ProPublica Nonprofits, OSHA, OpenSanctions, LobbyView. Uses env vars matching GitHub Secrets (FECAPI, CONGRESSAPI, etc.)
+- **Auto-Connection Engine** — new pipeline script (`auto-connection-engine.cjs`) in donor-map-engine repo. 5 strategies: donor↔politician bidirectional, shared donor detection, opposition enforcement, top-donors→donors field, politicians-funded backlinks. Runs after all other pipelines in CI workflow.
+- **LDA migration complete** — 509 URLs across 163 files migrated from lda.senate.gov → lda.gov. Source Hunter uses lda.gov without auth (tokens not migrated yet), falls back to lda.senate.gov with auth.
+- **Relationship editing everywhere** — right-click context menu on Graph and Explorer nodes to change type (Related/Funded By/Opposes) or remove. List View has inline dropdown. API now handles body-text connections (not just frontmatter).
+- **Clickable URLs everywhere** — Source Hunter, ProfileDetail sidebar, Profile page URLs all open in new tab
+- **Entity type filtering on Add Connection** — filter search results by Politicians/Donors/Corps/Think Tanks/K Street/Media/Stories
+- **Connection type change** — `changeConnectionType()` removes old type, adds new, refreshes UI instantly (cache invalidation via globalThis flag)
+- **Ctrl+K command palette**, unified Profile page, keyboard shortcuts, visual readiness badges (from earlier in session)
 
 Architecture:
-- New components: `CommandPalette.tsx`, `ClientProviders.tsx`, `KeyboardShortcuts.tsx`
-- New page: `ops/src/app/profile/page.tsx`
-- Enhanced: `ActivityFeed.tsx`, `VaultGrid.tsx`, `Sidebar.tsx`, layout.tsx, `relationships/page.tsx`
-- Connections API uses `parseBodyField()` fallback + returns all connected profiles (no top-50 cap)
+- `auto-connection-engine.cjs` in donor-map-engine runs after all pipelines
+- Relationships API (`ops/src/app/api/relationships/route.ts`) rewritten to handle body-text fields
+- Connections API cache invalidated immediately on relationship changes
+- Source Hunter API reads keys from both `FECAPI` and `FEC_API_KEY` env var formats
+- LDA search: tries lda.gov without auth first, falls back to lda.senate.gov with auth
 
 Known issues:
-- `.next` cache corruption if app killed mid-compile — `rm -rf ops/.next` fixes it
-- Connections API has 2-min cache — changes take up to 2min to appear in Relationships sidebar
+- `.next` cache corruption if app killed mid-compile — `rm -rf ops/.next`
+- LDA auth tokens don't work on lda.gov yet (using unauthenticated search)
+- donor-map-engine `lda-pipeline.cjs` still generates lda.senate.gov URLs (needs separate fix)
 
 Next:
-- **Social scheduling** — David wants Buffer-like post scheduling for Distribution page
-- Stale profile detector (profiles not enriched in 30+ days)
-- Cross-module profile sidebar (see connections/URLs/notes without leaving Editor)
+- Social scheduling for Distribution page (Buffer-like)
+- Stale profile detector
+- Cross-module profile sidebar
+- Fix lda-pipeline.cjs in engine repo to use lda.gov
 - Run opensecrets-replace for remaining categories (~3,000 URLs)
-- LDA migration: lda.senate.gov → lda.gov before June 30, 2026 sunset
 
 ---
 
