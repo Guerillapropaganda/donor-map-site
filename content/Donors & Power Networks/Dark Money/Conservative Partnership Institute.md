@@ -15,6 +15,15 @@ federal-register-mentions: 1
 last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Energy Department"
+court-cases: 15
+court-jurisdictions:
+  - "Court of Appeals for the Fifth Circuit"
+  - "District Court, D. Minnesota"
+  - "District Court, District of Columbia"
+  - "District Court, M.D. North Carolina"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
 ---
 
 #conservative-partnership-institute #cpi #dark-money #maga #jim-demint #mark-meadows #january-6
@@ -61,3 +70,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Conservative%20Partnership%20Institute%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 15 |
+| Courts | Court of Appeals for the Fifth Circuit, District Court, D. Minnesota, District Court, District of Columbia, District Court, M.D. North Carolina, District Court, N.D. California, District Court, S.D. Florida, District Court, S.D. New York |
+| Case Types | 320 Assault Libel & Slander, 440 Civil Rights: Other, 441 Civil Rights: Voting, 890 Other Statutory Actions |
+
+**Notable cases:**
+- State of Mississippi v. DOE (2024) — Court of Appeals for the Fifth Circuit
+- DEMOCRACY NORTH CAROLINA v. HIRSCH (2023) — District Court, M.D. North Carolina
+- PASSANTINO v. WEISSMANN (2023) — District Court, District of Columbia
+- Bragg v. Jordan (2023) — District Court, S.D. New York
+- MITCHELL v. SELECT COMMITTEE TO INVESTIGATE THE JANUARY 6TH ATTACK ON THE UNITED STATES CAPITOL (2022) — District Court, District of Columbia
+- Smartmatic USA Corp. v. Lindell (2022) — District Court, D. Minnesota
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Conservative%20Partnership%20Institute%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -2,7 +2,7 @@
 title: "HBW Resources"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -14,6 +14,12 @@ fara-status: "registrant"
 fara-records: 4
 fara-countries:
   - "CANADA"
+court-cases: 4
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "District Court, S.D. Texas"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #hbw-resources #lobbying #energy #fossil-fuel #astroturf #front-group #lng #consumer-energy-alliance #western-states-tribal-nations #oil-gas #influence #dark-money
@@ -158,3 +164,20 @@ content-readiness:: developed
 
 - [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:HBW%20Resources,) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 4 |
+| Courts | District Court, S.D. Texas, United States Bankruptcy Court, D. Delaware, United States Bankruptcy Court, S.D. Texas |
+| Case Types | 820 Copyright |
+
+**Notable cases:**
+- Sunnova Energy International Inc. and Rebecca Nelson (2025) — United States Bankruptcy Court, S.D. Texas
+- Goldsmith v. HBW Resources, LLC (2019) — District Court, S.D. Texas
+- Cloud Peak Energy Inc. (2019) — United States Bankruptcy Court, D. Delaware
+- VER Technologies HoldCo LLC (2018) — United States Bankruptcy Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22HBW%20Resources%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

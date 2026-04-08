@@ -29,6 +29,10 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+ein: "813552287"
+nonprofit-status: "501(c)(3)"
+lobbying-spend: 1859712
+lobbying-filings: 106
 ---
 
 #world-liberty-financial #wlfi #crypto #trump #emoluments #stablecoin #uae #self-dealing #foreign-interference #class-analysis #follow-the-money
@@ -212,3 +216,35 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22World%20Liberty%20Financial%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 813552287 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | B99 |
+| IRS Ruling Date | 2016-09-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/813552287) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.9M |
+| Quarterly Filings | 106 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 39 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Alcohol and Drug Abuse, Animals, Apparel/Clothing Industry/Textiles, Arts/Entertainment, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Chemicals/Chemical Industry, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Constitution, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Foreign Relations, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Natural Resources, Real Estate/Land Use/Conservation, Religion, Science/Technology, Small Business, Sports/Athletics, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Travel/Tourism, Trucking/Shipping, Urban Development/Municipalities, Veterans, Welfare
+
+**Lobbying firms:** 9TH STREET STRATEGIES, ALIGNMENT GOVERNMENT STRATEGIES, APCO WORLDWIDE LLC, ARNOLD & PORTER KAYE SCHOLER LLP, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BLUE MARBLE STRATEGY LLC, C2 STRATEGIES, CASSIDY & ASSOCIATES, INC., COLTON STREET GROUP, DELPHI WORLD GROUP, DENTONS US LLP, DRAKE VENTURES, LLC, DUTKO WORLDWIDE, LLC, GREAT NORTHERN STRATEGIES, GRIFFIN STRATEGIES, LLC, HOGAN LOVELLS US LLP, HOLLAND & KNIGHT LLP, INTEGER, LLC, INVARIANT LLC, JENNIFER CUPP, KADESH & ASSOCIATES, LLC, MCCARTIN PUBLIC POLICY GROUP LLC, MR. JOE MIKLOSI, MR. KHALIL SALIBA, MWMURRAY CONSULTING LLC, NATURAL RESOURCE RESULTS LLC, OXFORD ALLEY POLICY ADVISORY, PARRY, ROMANI, DECONCINI & SYMMS, PAUL MARCONE & ASSOCIATES, LLC, PLURUS STRATEGIES, LLC, QUICKEL CONSULTING SERVICES, LLC, SAFE KIDS WORLDWIDE, SENTINEL WORLDWIDE, THE ETHIOPIAN WORLD FEDERATION, INCORPORATED, TROUTMAN STATEGIES, WORLD JEWISH RESTITUTION ORGANIZATION, WORLD SHIPPING COUNCIL, WORLDPAY, WORLDWIDE ERC
+
+**Agencies contacted:** Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Bureau of Reclamation, Bureau of the Census, Centers For Disease Control & Prevention (CDC), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Council on Environmental Quality (CEQ), Defense, Dept of (DOD), Education, Dept of +30 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=World%20Liberty%20Financial) (Tier 1)
+<!-- auto:lda-lobbying end -->

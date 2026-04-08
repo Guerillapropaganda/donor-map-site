@@ -2,7 +2,7 @@
 title: "Monsanto - Bayer"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -14,6 +14,38 @@ last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Antitrust Division"
   - "Justice Department"
+sec-filings: 127
+sec-form-types:
+  - "10-K"
+  - "20-F"
+  - "20-F/A"
+  - "40-24B2"
+  - "424B3"
+  - "424B4"
+  - "8-K"
+  - "DEFA14A"
+  - "DEFM14A"
+  - "DRS"
+  - "DRS/A"
+  - "EX-1"
+  - "EX-4.3"
+  - "EX-99"
+  - "EX-99.(C)(13)"
+  - "EX-99.(C)(III)"
+  - "EX-99.(C)(XXVI)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "EX-99.4"
+  - "EX-99.5"
+  - "EX-99.6"
+  - "EX-99.7"
+  - "F-1"
+  - "F-1/A"
+  - "N-CSR"
+  - "N-CSRS"
+  - "PREM14A"
+  - "SC 14D9"
 ---
 
 #monsanto #bayer #agriculture #gmo #roundup #glyphosate #seeds #patents
@@ -72,3 +104,21 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Monsanto%20-%20Bayer%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 127 |
+| Form Types | 10-K, 20-F, 20-F/A, 40-24B2, 424B3, 424B4, 8-K, DEFA14A +22 more |
+
+**Notable filings:**
+
+- 2016-12-01 — **DEFA14A**: DEFA14A
+- 2016-09-20 — **DEFA14A**: DEFA14A
+- 2016-09-21 — **DEFA14A**: DEFA14A
+- 2016-09-14 — **DEFA14A**: DEFA14A
+- 2016-09-21 — **DEFA14A**: DEFA14A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Monsanto%20-%20Bayer%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -17,6 +17,10 @@ tax-year: "2023"
 nonprofit-status: "501(c)(3)"
 total-revenue: 691271
 total-assets: 14665036
+subawards-issued: 1
+subawards-issued-amount: 19500000
+subawards-received: 1
+subawards-received-amount: 19500000
 ---
 
 #openai #ai #chatgpt #altman #microsoft #regulation #nonprofit-conversion
@@ -113,3 +117,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/810861541) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 1 ($19.5M sampled) |
+| Subawards Received (as sub) | 1 ($19.5M sampled) |
+
+**Subcontractors receiving federal money from OpenAI:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| OPENAI PUBLIC SECTOR, LLC | $19.5M | 1 |
+
+**Prime contractors funneling federal money to OpenAI:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| TRIAD NATIONAL SECURITY, LLC | $19.5M | 1 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

@@ -2,7 +2,7 @@
 title: "Valero Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -33,6 +33,8 @@ regulatory-agencies:
 federal-awards-total: 665092359
 federal-contracts-count: 25
 federal-grants-count: 0
+top-federal-agency: "Department of Defense"
+top-naics-code: "324110"
 ---
 
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis
@@ -228,3 +230,13 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/1ad3783b-6219-ee2a-8de8-f116c8b3c799-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Defense ($5.4B) |
+| Primary NAICS Sector | Petroleum Refineries |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

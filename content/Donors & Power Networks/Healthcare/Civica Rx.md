@@ -2,7 +2,7 @@
 title: "Civica Rx"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -17,7 +17,11 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
+court-cases: 2
+court-jurisdictions:
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, N.D. Ohio"
 ---
 
 
@@ -151,3 +155,18 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Civica%20Rx) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2 |
+| Courts | Court of Appeals for the Second Circuit, District Court, N.D. Ohio |
+| Case Types | 2430 STATUTES-Banks & Banking, 360 P.I.: Other |
+
+**Notable cases:**
+- In Re: National Prescription Opiate Litigation (2022) — District Court, N.D. Ohio
+- Federal Trade Commission v. Vyera Pharmaceuticals, LLC (2022) — Court of Appeals for the Second Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Civica%20Rx%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

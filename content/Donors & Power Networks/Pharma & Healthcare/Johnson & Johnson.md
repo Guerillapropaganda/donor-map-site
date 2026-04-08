@@ -2,7 +2,7 @@
 title: "Johnson & Johnson"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -14,7 +14,7 @@ annual-revenue: "$477K"
 net-assets: "$1.3M"
 tax-year: "2023"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 ofac-programs:
   - "GLOMAG"
 subawards-issued: 2
@@ -26,6 +26,7 @@ top-naics-code: "423450"
 federal-awards-total: 41140658
 federal-contracts-count: 25
 federal-grants-count: 1
+cpsc-recalls: 3
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
@@ -187,3 +188,21 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/803dca7c-cdfb-9267-ab61-45f868860d81-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 3 |
+| Most Recent Recall | 1989-11-02 |
+| Earliest Recall | 1986-06-02 |
+| Hazard Types | Laceration, Strangulation |
+
+**Recent recalls:**
+
+- [Johnson & Johnson Recalls Spin-A-Sound Toy](https://www.cpsc.gov/Recalls/90007) (1989-11-02) — Laceration
+- [Johnson & Johnson Crib Toys Case Settled](https://www.cpsc.gov/Recalls/86065) (1986-10-23) — Strangulation
+- [Crib Toys Recalled by Johnson & Johnson](https://www.cpsc.gov/Recalls/86036) (1986-06-02) — Strangulation
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Johnson%20%26%20Johnson) (Tier 1)
+<!-- auto:cpsc-recalls end -->

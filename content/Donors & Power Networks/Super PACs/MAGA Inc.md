@@ -2,7 +2,7 @@
 title: "MAGA Inc"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -24,6 +24,9 @@ court-jurisdictions:
   - "United States Bankruptcy Court, D. Puerto Rico"
 ein: "921057815"
 nonprofit-status: "501(c)(4)"
+sec-filings: 1
+sec-form-types:
+  - "D"
 ---
 
 #donor-node #super-pac #trump #mega-donors #dark-money
@@ -173,3 +176,17 @@ research-status:: ready — $304M war chest documented, top donor breakdown (Mel
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/921057815) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1 |
+| Form Types | D |
+
+**Notable filings:**
+
+- 2026-04-07 — **D**: D
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MAGA%20Inc%22) (Tier 1)
+<!-- auto:sec-edgar end -->

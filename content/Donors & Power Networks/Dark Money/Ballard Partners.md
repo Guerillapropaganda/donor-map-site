@@ -2,11 +2,13 @@
 title: "Ballard Partners"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Corporation"
+lei: "254900Z96JBXAI3OVT57"
+lei-jurisdiction: "US-TX"
 ---
 
 #lobbying #trump #clemency #foreign-agent
@@ -42,3 +44,18 @@ Ballard Partners is a pure distribution mechanism for elite legal and political 
 ---
 
 `content-readiness:: ready
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [254900Z96JBXAI3OVT57](https://search.gleif.org/#/record/254900Z96JBXAI3OVT57) |
+| Legal Name | BBCRV PARTNERS LLC |
+| Jurisdiction | US-TX |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-04-09T13:37:11Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

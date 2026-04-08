@@ -2,7 +2,7 @@
 title: "Heritage Foundation"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: conservative
@@ -10,6 +10,10 @@ tax-status: 501c3
 lei: "5493006YU7R03XUJSX56"
 lei-jurisdiction: "US-DC"
 related: "[[Heritage Foundation|Heritage Foundation (donor node)]] · [[Koch Network - Charles Koch]] · [[Charles Koch]] · [[Bradley Foundation]] · [[Leonard Leo]] · [[Federalist Society]]"
+fara-status: "registrant"
+fara-records: 2
+fara-countries:
+  - "KOREA SOUTH"
 ---
 
 #think-tank #conservative #project-2025 #dark-money #revolving-door #idea-laundering #regulatory-capture #judicial-pipeline #501c3
@@ -488,3 +492,19 @@ content-readiness:: developed
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 2 |
+| Countries | KOREA SOUTH |
+| Foreign Principal Records | 1 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Korean Cultural Heritage Administration through the Overseas Korean Cultural Heritage Foundation (KOREA SOUTH)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Heritage%20Foundation) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

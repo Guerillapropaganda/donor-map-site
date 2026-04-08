@@ -2,13 +2,18 @@
 title: "Fierce Government Relations"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$4.7M (2025)"
 lobbyist-count: 9
 revolving-door-pct: "77.8%"
 related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]]"
+ein: "520852291"
+nonprofit-status: "501(c)(6)"
+last-enriched: "2026-04-08"
+total-revenue: 250555
+total-assets: 98413
 ---
 
 #lobbying #k-street #republican #bush-white-house #trump-white-house #tech #telecom #healthcare #energy #trade
@@ -211,3 +216,27 @@ The structural function this serves for the donor class is risk management. A co
 - [OpenSecrets: Anthropic's AI safety stance clashes with Pentagon — and reshapes spending on primaries (March 2026)](https://www.opensecrets.org/news/2026/03/anthropics-ai-safety-stance-clashes-with-pentagon-and-reshapes-spending-on-primaries/) (Tier 1)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 520852291 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $251K |
+| Total Assets | $98K |
+| IRS Ruling Date | 1967-09-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/520852291) (Tier 1)
+<!-- auto:nonprofit-990 end -->

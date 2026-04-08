@@ -24,6 +24,20 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Interior Department"
   - "International Trade Commission"
+court-cases: 101104
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Arkansas"
+  - "District Court, E.D. Louisiana"
+  - "District Court, E.D. Texas"
+  - "District Court, M.D. Pennsylvania"
+  - "District Court, N.D. Georgia"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+lobbying-spend: 17705000
+lobbying-filings: 56
 ---
 
 #walmart #walton #retail #anti-union #minimum-wage #arkansas #bipartisan #corporate-welfare #estate-tax #school-choice #pac
@@ -173,3 +187,41 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Walmart%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 101,104 |
+| Courts | District Court, C.D. California, District Court, District of Columbia, District Court, E.D. Arkansas, District Court, E.D. Louisiana, District Court, E.D. Texas, District Court, M.D. Pennsylvania, District Court, N.D. Georgia, District Court, N.D. Texas +5 more |
+| Case Types | 830 Patent, 890 Other Statutory Actions |
+
+**Notable cases:**
+- Wolverine Barcode IP, LLC v. Subway IP LLC (2026) — District Court, E.D. Texas
+- Gamble v. Walmart Inc. (2026) — District Court, S.D. New York
+- Gibson v. Walmart Inc. (2026) — District Court, E.D. Louisiana
+- CLARK v. WALMART (2026) — District Court, W.D. Pennsylvania
+- Farr v. Walmart Inc (2026) — District Court, E.D. Arkansas
+- Roberts v. Walmart Inc. (2026) — District Court, N.D. Georgia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Walmart%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $17.7M |
+| Quarterly Filings | 56 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 16 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Disaster Planning/Emergencies, Economics/Economic Development, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Health Issues, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Science/Technology, Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation, Veterans, Welfare
+
+**Lobbying firms:** ALPINE GROUP PARTNERS, LLC., CAPITOL CONSULTING GROUP LLC (DC), CAPITOL COUNSEL LLC, DAVID T. MURRAY, LLC, EMPIRE CONSULTING GROUP, FEROX STRATEGIES, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), GUIDEPOSTSTRATEGIES, LLC, HOGAN LOVELLS US LLP, MEHLMAN CONSULTING, INC., MVP STRATEGIES, PENN AVENUE PARTNERS, S-3 GROUP, THE NICKLES GROUP, LLC, THE SIMMONS & RUSSELL GROUP, LLC, WALMART INC.
+
+**Agencies contacted:** Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Council of Economic Advisers (CEA), Defense, Dept of (DOD), Education, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP) +21 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Walmart) (Tier 1)
+<!-- auto:lda-lobbying end -->

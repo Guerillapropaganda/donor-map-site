@@ -2,7 +2,7 @@
 title: "Sheldon & Miriam Adelson"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,10 +11,14 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Israel & Foreign Policy"
-ein: 886063073
+ein: "886063073"
 annual-revenue: "$13K"
 net-assets: "$90K"
 tax-year: "2023"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 3842
+total-assets: 92607
 ---
 
 
@@ -184,3 +188,28 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 886063073](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 886063073 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $4K |
+| Total Assets | $93K |
+| NTEE Code | T20Z |
+| IRS Ruling Date | 1995-07-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1)
+<!-- auto:nonprofit-990 end -->

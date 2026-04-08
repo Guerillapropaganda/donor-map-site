@@ -2,7 +2,7 @@
 title: "Booz Allen Hamilton"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -14,7 +14,7 @@ issues:
 lobbying-spend: 6460000
 lobbying-filings: 48
 federal-register-mentions: 139
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Antitrust Division"
   - "Commerce Department"
@@ -55,6 +55,21 @@ sec-form-types:
   - "SC 13D/A"
   - "SCHEDULE 13G"
   - "SCHEDULE 13G/A"
+federal-awards-total: 6457449191
+federal-contracts-count: 25
+federal-grants-count: 2
+doj-press-mentions: "264349"
+doj-components:
+  - "Civil Rights Division"
+  - "Cyber Division (FBI)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "National Security Division (NSD)"
+  - "USAO - Florida, Middle"
+  - "USAO - Florida, Northern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Massachusetts"
+  - "USAO - Missouri, Western"
+  - "USAO - New York, Northern"
 ---
 
 #booz-allen #defense #intelligence #consulting #nsa #snowden #government-contractor
@@ -188,3 +203,52 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Booz%20Allen%20Hamilton%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $6.5B |
+| Contracts (recent 3yr) | 25 ($16.4B sampled) |
+| Grants (recent 3yr) | 2 ($2.0M sampled) |
+| Federal Agencies | 7 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $1.4B | General Services Administration | TASK ORDER (TO) 47QFCA21F0018 IS HEREBY AWARDED TO BOOZ ALLEN HAMILTON, INC. (BAH) TO PROVIDE ENTERP |
+| $1.4B | Department of Veterans Affairs | TRANSFORMATION TWENTY-ONE TOTAL TECHNOLOGY NEXT GENERATION (T4NG) TASK ORDER - BENEFITS INTEGRATED D |
+| $1.1B | Department of Veterans Affairs | PRODUCT AND TECHNOLOGY ECOSYSTEM MANAGEMENT SERVICES (PTEMS)WHICH INCLUDES PRODUCT DELIVERY AND LIFE |
+| $1.1B | General Services Administration | TASK ORDER AWARD |
+| $1.1B | General Services Administration | THE PURPOSE OF THIS EFFORT IS TO ACQUIRE CONTRACTOR SERVICES TO PROVIDE REAL-TIME, COMPREHENSIVE THR |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $2.0M | Department of Commerce | PURPOSE: THE RESEARCH EFFORT SEEKS TO MATERIALLY ADVANCE THE STATE-OF-THE-ART SECURITY OF O-RAN ENAB |
+| $0 | Department of Commerce | PURPOSE: THE RESEARCH EFFORT SEEKS TO MATERIALLY ADVANCE THE STATE-OF-THE-ART SECURITY OF O-RAN ENAB |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/ed02855e-60d7-2540-e3d7-18fba1dd1316-P/latest) (Tier 1)
+<!-- auto:usaspending end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264349 |
+| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
+
+**Recent press releases:**
+
+- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
+- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
+- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
+- ... and 264,343 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Booz%20Allen%20Hamilton%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

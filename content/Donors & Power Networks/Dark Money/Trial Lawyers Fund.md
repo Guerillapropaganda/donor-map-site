@@ -2,7 +2,7 @@
 title: "Trial Lawyers Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,10 @@ ein: 371064396
 annual-revenue: "$193K"
 net-assets: "$222K"
 tax-year: "2023"
+court-cases: 1
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "District Court, D. Massachusetts"
 ---
 
 #trial-lawyers #tort #litigation #democratic #donor #aat #plaintiffs
@@ -59,3 +63,17 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 371064396](https://projects.propublica.org/nonprofits/organizations/371064396) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_31-38%2F371064396_202306_990_2024022022293832.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1 |
+| Courts | District Court, D. Massachusetts |
+| Case Types | 160 Stockholders Suits |
+
+**Notable cases:**
+- Forsythe v. Sun Life Financial Inc. (2004) — District Court, D. Massachusetts
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trial%20Lawyers%20Fund%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

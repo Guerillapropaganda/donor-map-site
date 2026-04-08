@@ -2,7 +2,7 @@
 title: "California Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -11,12 +11,12 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Immigration"
-ein: 940357610
+ein: "940357610"
 annual-revenue: "$12.9M"
 net-assets: "$73.5M"
 tax-year: "2023"
 federal-register-mentions: 23
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Alcohol and Tobacco Tax and Trade Bureau"
   - "Commerce Department"
@@ -36,6 +36,9 @@ court-jurisdictions:
   - "District Court, E.D. California"
   - "District Court, W.D. Washington"
   - "United States Bankruptcy Court, D. Delaware"
+nonprofit-status: "501(c)(5)"
+total-revenue: 29941168
+total-assets: 75856990
 ---
 
 
@@ -170,3 +173,27 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 940357610 |
+| Tax-Exempt Status | 501(c)(5) |
+| Total Revenue | $29.9M |
+| Total Assets | $75.9M |
+| IRS Ruling Date | 1948-12-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1)
+<!-- auto:nonprofit-990 end -->

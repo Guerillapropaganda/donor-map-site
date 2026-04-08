@@ -2,7 +2,7 @@
 title: "Federalist Society"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -31,6 +31,25 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
+sec-filings: 677
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "424B3"
+  - "497"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFC14A"
+  - "EX-1"
+  - "EX-10.1"
+  - "EX-99.(E)"
+  - "EX-99.1"
+  - "N-CSR"
+  - "N-CSRS"
+  - "PRE 14A"
+  - "PX14A6G"
+  - "U-13-60"
 ---
 
 
@@ -262,3 +281,21 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Federalist%20Society%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 677 |
+| Form Types | 10-K, 10-K/A, 424B3, 497, 8-K, DEF 14A, DEFA14A, DEFC14A +9 more |
+
+**Notable filings:**
+
+- 2021-06-01 — **497**: NUSHARES ETF TRUST
+- 2014-06-13 — **8-K**: FORM 8-K
+- 2021-06-01 — **497**: NUVEEN MANAGED ACCOUNTS PORTFOLIOS TRUST
+- 2021-06-01 — **497**: NUVEEN INVESTMENT FUNDS, INC.
+- 2005-08-15 — **EX-99.(E)**: RESUME OF WALTER DELLINGER
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Federalist%20Society%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -15,13 +15,16 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-ein: 943382057
+ein: "943382057"
 annual-revenue: "$23.0M"
 net-assets: "$30.0M"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+nonprofit-status: "501(c)(5)"
+total-revenue: 23524060
+total-assets: 28875574
 ---
 
 
@@ -183,3 +186,28 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Kaiser%20Permanente) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 943382057 |
+| Tax-Exempt Status | 501(c)(5) |
+| Total Revenue | $23.5M |
+| Total Assets | $28.9M |
+| NTEE Code | J40 |
+| IRS Ruling Date | 2002-05-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/943382057) (Tier 1)
+<!-- auto:nonprofit-990 end -->

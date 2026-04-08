@@ -2,7 +2,7 @@
 title: "National Rental Home Council"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -13,6 +13,36 @@ ein: 474822520
 annual-revenue: "$3.3M"
 net-assets: "$977K"
 tax-year: "2023"
+sec-filings: 82
+sec-form-types:
+  - "10-12G/A"
+  - "10-K"
+  - "10-Q"
+  - "424B3"
+  - "424B4"
+  - "425"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFM14A"
+  - "DRS"
+  - "DRS/A"
+  - "EX-4.3"
+  - "EX-4.5"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "PART II AND III"
+  - "POS AM"
+  - "PRE 14A"
+  - "PREC14A"
+  - "S-1"
+  - "S-11"
+  - "S-11/A"
+  - "S-4"
+  - "S-4/A"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-08"
 ---
 
 #donor #real-estate #housing #trade-association #institutional-landlords #revolving-door #class-analysis #follow-the-money
@@ -116,3 +146,39 @@ content-readiness:: draft
 
 - [Source: ProPublica Nonprofit Explorer — EIN 474822520](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 82 |
+| Form Types | 10-12G/A, 10-K, 10-Q, 424B3, 424B4, 425, ARS, DEF 14A +17 more |
+
+**Notable filings:**
+
+- 2022-06-22 — **EX-99.1**: EX-99.1
+- 2017-11-14 — **EX-99.1**: EXHIBIT 99.1
+- 2017-08-10 — **EX-99.2**: EX-99.2
+- 2017-08-10 — **EX-99.2**: EX-99.2
+- 2017-08-10 — **EX-99.2**: EX-99.2
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Rental%20Home%20Council%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=National%20Rental%20Home%20Council) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

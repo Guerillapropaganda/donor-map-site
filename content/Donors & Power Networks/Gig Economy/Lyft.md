@@ -13,7 +13,7 @@ issues:
   - "Technology"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
@@ -27,6 +27,13 @@ federal-contracts-count: 10
 federal-grants-count: 0
 lei: "549300H7I5VN334XVZ52"
 lei-jurisdiction: "US-DE"
+court-cases: 6238
+court-jurisdictions:
+  - "District Court, D. Massachusetts"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Michigan"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
 ---
 
 
@@ -273,3 +280,22 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 6,238 |
+| Courts | District Court, D. Massachusetts, District Court, District of Columbia, District Court, E.D. Michigan, District Court, N.D. California, District Court, S.D. New York |
+| Case Types | 890 Other Statutory Actions |
+
+**Notable cases:**
+- United States v. Santos-Ixtepan (2026) — District Court, E.D. Michigan
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- S.L. v. Lyft, Inc. (2026) — District Court, N.D. California
+- L.T. v. Lyft, Inc. (2026) — District Court, N.D. California
+- A.T. v. Lyft, Inc. (2026) — District Court, N.D. California
+- CH.H. v. Lyft, Inc. (2026) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lyft%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

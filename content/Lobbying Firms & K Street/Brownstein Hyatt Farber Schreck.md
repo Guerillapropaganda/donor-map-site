@@ -2,13 +2,24 @@
 title: "Brownstein Hyatt Farber Schreck"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$73.8M"
 lobbyist-count: 81
 revolving-door-pct: "53.1%"
 related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Apollo Global Management]] · [[Palantir Technologies]] · [[PhRMA]]"
+federal-register-mentions: 6
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Consumer Product Safety Commission"
+  - "Justice Department"
+  - "Labor Department"
+  - "Securities and Exchange Commission"
+  - "Wage and Hour Division"
+lei: "5493001UWJ1RT346BG14"
+lei-jurisdiction: "US-CO"
 ---
 
 #lobbying #k-street #energy #real-estate #cannabis #gaming #foreign-lobbying #defense #pharma #tech
@@ -190,3 +201,39 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 - [Washington Blade: Comings & Goings — David Reid joins Brownstein as Principal, Public Policy](https://www.washingtonblade.com/2026/02/07/david-reid-brownstein-hyatt-farber-schreck/) (Tier 2)
 
 content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 6 |
+| Proposed Rule | 1 |
+| Rule | 3 |
+| Notice | 2 |
+| Agencies | Antitrust Division, Consumer Product Safety Commission, Justice Department, Labor Department, Securities and Exchange Commission, Wage and Hour Division |
+
+**Recent regulatory activity:**
+- [EDGAR Filer Access and Account Management](https://www.federalregister.gov/documents/2023/09/22/2023-20268/edgar-filer-access-and-account-management) (2023-09-22) — Securities and Exchange Commission
+- [Listing Standards for Recovery of Erroneously Awarded Compensation](https://www.federalregister.gov/documents/2022/11/28/2022-23757/listing-standards-for-recovery-of-erroneously-awarded-compensation) (2022-11-28) — Securities and Exchange Commission
+- [Pay Versus Performance](https://www.federalregister.gov/documents/2022/09/08/2022-18771/pay-versus-performance) (2022-09-08) — Securities and Exchange Commission
+- [Independent Contractor Status Under the Fair Labor Standards Act (FLSA): Withdrawal](https://www.federalregister.gov/documents/2021/05/06/2021-09518/independent-contractor-status-under-the-fair-labor-standards-act-flsa-withdrawal) (2021-05-06) — Labor Department ★
+- [United States v. SG Interests I LTD., et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2012/02/23/2012-4246/united-states-v-sg-interests-i-ltd-et-al-proposed-final-judgment-and-competitive-impact-statement) (2012-02-23) — Justice Department
+- [Jake's Fireworks, Inc., Far East Imports, Inc., Wholesale Fireworks Enterprises LLC, Pacific Northwest Fireworks, Inc., Provisional Acceptance of a Settlement Agreement and Order](https://www.federalregister.gov/documents/2010/11/30/2010-30073/jakes-fireworks-inc-far-east-imports-inc-wholesale-fireworks-enterprises-llc-pacific-northwest) (2010-11-30) — Consumer Product Safety Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brownstein%20Hyatt%20Farber%20Schreck%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [5493001UWJ1RT346BG14](https://search.gleif.org/#/record/5493001UWJ1RT346BG14) |
+| Legal Name | Brownstein Hyatt Farber Schreck, LLP |
+| Jurisdiction | US-CO |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-25T12:04:01Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

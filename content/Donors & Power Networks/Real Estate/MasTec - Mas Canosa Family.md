@@ -163,3 +163,24 @@ content-readiness:: developed
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=MasTec%20-%20Mas%20Canosa%20Family) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Budget/Appropriations** → Funds **Mario Diaz-Balart** → Sits on **Appropriations**
+
+**Funded politicians:**
+
+- [[Marco Rubio]] — lobbying: $180K
+- [[Mario Diaz-Balart]] (Appropriations) — lobbying: $180K
+- [[Carlos Gimenez]] (Transportation & Infrastructure) — lobbying: $180K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+<!-- auto:influence-cross-ref end -->

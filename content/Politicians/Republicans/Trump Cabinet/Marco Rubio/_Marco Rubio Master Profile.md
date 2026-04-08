@@ -150,3 +150,17 @@ See: [[Operation Southern Spear and the Cuba Fuel Blockade]] for the full timeli
 - [Wikipedia: Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio) (Tier 3)
 - [FEC: Marco Rubio contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=rubio,+marco) (Tier 1)
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[MasTec - Mas Canosa Family]] — $180K lobbying spend (Budget/Appropriations, Energy/Nuclear, Fuel/Gas/Oil)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+<!-- auto:influence-cross-ref end -->

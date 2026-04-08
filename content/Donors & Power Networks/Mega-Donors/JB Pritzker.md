@@ -2,7 +2,7 @@
 title: "JB Pritzker"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -38,6 +38,8 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. Illinois"
   - "District Court, S.D. New York"
+lobbying-spend: 5422000
+lobbying-filings: 87
 ---
 
 #jb-pritzker #illinois #hyatt #billionaire #self-funder #democratic #governor #mega-donor #dark-money #2028 #think-big-america #dga #class-analysis
@@ -260,3 +262,22 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JB%20Pritzker%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $5.4M |
+| Quarterly Filings | 87 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Animals, Budget/Appropriations, Clean Air and Water (quality), Economics/Economic Development, Environment/Superfund, Food Industry (safety, labeling, etc.), Immigration, Labor Issues/Antitrust/Workplace, Marine/Maritime/Boating/Fisheries, Real Estate/Land Use/Conservation, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** CORNERSTONE GOVERNMENT AFFAIRS, INC., JBI LTD, JBS COMMUNICATIONS, LLC, JBS USA FOOD COMPANY HOLDINGS (PREVIOUSLY REGISTERED AS JBS USA FOOD COMPANY), KEYS GROUP, LLC, MILLER STRATEGIES, LLC, SQUIRE PATTON BOGGS
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Labor, Dept of (DOL), SENATE, State, Dept of (DOS), U.S. Agency for International Development (USAID), White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=JB%20Pritzker) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -28,6 +28,11 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+govtrack-id: 412596
+bills-sponsored: 7
+bills-cosponsored: 27
+website: "https://jasonsmith.house.gov"
+phone: "202-225-4404"
 ---
 
 
@@ -179,3 +184,35 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Jason%20Smith%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 7 |
+| Bills Cosponsored | 27 |
+| Total Votes Cast | 7,205 |
+
+**Recent bills sponsored:**
+
+- H.R. 6500: AGOA Extension Act — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
+- H.R. 6599: Leasing and Infrastructure Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 212: Returning Senate Joint Resolution 3 to the Senate. — *This simple resolution was agreed to on March 11, 2025. That is the end of the legislative process for a simple resolution.*
+- H.R. 1156: Pandemic Unemployment Fraud Enforcement Act — *This bill passed in the House on March 11, 2025 and goes to the Senate next for consideration.*
+- H.Res. 109: Providing amounts for the expenses of the Committee on Ways and Means in the One Hundred Nineteenth Congress. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 5, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Not Voting | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412596) (Tier 1)
+<!-- auto:govtrack end -->

@@ -2,7 +2,7 @@
 title: "Anthropic"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -22,6 +22,18 @@ court-jurisdictions:
   - "District Court, W.D. Texas"
 lei: "984500B6DEB8CEBC4Z70"
 lei-jurisdiction: "US-DE"
+sec-filings: 1141
+sec-form-types:
+  - "424B3"
+  - "485APOS"
+  - "497AD"
+  - "D"
+  - "D/A"
+  - "EX-99.1"
+  - "EX-99.4"
+  - "NPORT-EX"
+  - "NPORT-P"
+  - "PX14A6G"
 ---
 
 #anthropic #ai #safety #regulation #frontier-models #google #amazon
@@ -132,3 +144,21 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,141 |
+| Form Types | 424B3, 485APOS, 497AD, D, D/A, EX-99.1, EX-99.4, NPORT-EX +2 more |
+
+**Notable filings:**
+
+- 2024-01-04 — **D/A**: D/A
+- 2024-11-05 — **PX14A6G**: NATIONAL LEGAL AND POLICY CENTER - PX14A6G
+- 2025-12-23 — **NPORT-P**: NPORT-P
+- 2026-02-11 — **485APOS**: 485A
+- 2025-05-07 — **PX14A6G**: NATIONAL LEGAL AND POLICY CENTER - PX14A6G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Anthropic%22) (Tier 1)
+<!-- auto:sec-edgar end -->

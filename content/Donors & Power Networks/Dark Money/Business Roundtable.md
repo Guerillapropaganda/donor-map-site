@@ -2,7 +2,7 @@
 title: "Business Roundtable"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -18,7 +18,7 @@ annual-revenue: "$64.5M"
 net-assets: "$47.8M"
 tax-year: "2023"
 doj-press-mentions: "264344"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 doj-components:
   - "Civil Rights Division"
   - "Cyber Division (FBI)"
@@ -30,6 +30,17 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+federal-register-mentions: 172
+regulatory-agencies:
+  - "Environmental Protection Agency"
+  - "Homeland Security Department"
+  - "Interior Department"
+  - "Justice Department"
+  - "Labor Department"
+  - "Ocean Energy Management Bureau"
+  - "Safety and Environmental Enforcement Bureau"
+  - "Securities and Exchange Commission"
+  - "Veterans Employment and Training Service"
 ---
 
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor
@@ -227,3 +238,25 @@ content-readiness:: developed
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Business%20Roundtable%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 172 |
+| Final Rules | 74 |
+| Proposed Rules | 45 |
+| Notices | 53 |
+| Agencies | Environmental Protection Agency, Homeland Security Department, Interior Department, Justice Department, Labor Department, Ocean Energy Management Bureau, Safety and Environmental Enforcement Bureau, Securities and Exchange Commission +1 more |
+
+**Recent regulatory activity:**
+- [Acceleration of Effectiveness of Registration Statements of Issuers With Certain Mandatory Arbitration Provisions](https://www.federalregister.gov/documents/2025/09/19/2025-18238/acceleration-of-effectiveness-of-registration-statements-of-issuers-with-certain-mandatory) (2025-09-19) — Securities and Exchange Commission
+- [Advisory Committee on Veterans' Employment, Training and Employer Outreach (ACVETEO): Charter Renewal](https://www.federalregister.gov/documents/2025/05/15/2025-08461/advisory-committee-on-veterans-employment-training-and-employer-outreach-acveteo-charter-renewal) (2025-05-15) — Labor Department
+- [Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern) (2025-01-08) — Justice Department
+- [Decabromodiphenyl Ether and Phenol, Isopropylated Phosphate (3:1); Revision to the Regulation of Persistent, Bioaccumulative, and Toxic Chemicals Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/11/19/2024-25758/decabromodiphenyl-ether-and-phenol-isopropylated-phosphate-31-revision-to-the-regulation-of) (2024-11-19) — Environmental Protection Agency
+- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (2024-10-29) — Justice Department
+- [Solicitation of Nominations for Appointment to the Advisory Committee on Veterans' Employment, Training, and Employer Outreach (ACVETEO)](https://www.federalregister.gov/documents/2024/08/05/2024-17221/solicitation-of-nominations-for-appointment-to-the-advisory-committee-on-veterans-employment) (2024-08-05) — Labor Department
+- ... and 166 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Business%20Roundtable%22) (Tier 1)
+<!-- auto:federal-register end -->

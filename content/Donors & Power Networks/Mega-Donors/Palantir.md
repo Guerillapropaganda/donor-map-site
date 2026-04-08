@@ -2,7 +2,7 @@
 title: "Palantir Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -15,7 +15,7 @@ issues:
   - "Defense & Military"
   - "Immigration"
 court-cases: 252
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Tenth Circuit"
@@ -29,6 +29,21 @@ court-jurisdictions:
   - "District Court, S.D. New York"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+federal-register-mentions: 8
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Federal Communications Commission"
+  - "Federal Trade Commission"
+  - "Justice Department"
+  - "Securities and Exchange Commission"
+subawards-issued: 9
+subawards-issued-amount: 50130060
+subawards-received: 9
+subawards-received-amount: 50130060
+top-federal-agency: "Department of Defense"
+top-naics-code: "511210"
+lei: "549300UVN46B3BBDHO85"
+lei-jurisdiction: "US-DE"
 ---
 
 
@@ -264,3 +279,91 @@ research-status:: developed — Full OpenSecrets political spending, lobbying, a
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Palantir%20Technologies) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 8 |
+| Notice | 8 |
+| Agencies | Antitrust Division, Federal Communications Commission, Federal Trade Commission, Justice Department, Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected](https://www.federalregister.gov/documents/2021/05/25/2021-10968/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-approving-a-proposed-rule-change-as) (2021-05-25) — Securities and Exchange Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/24/2021-03751/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2021-02-24) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/18/2021-03183/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2021-02-18) — Federal Trade Commission
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected](https://www.federalregister.gov/documents/2020/12/23/2020-28319/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine) (2020-12-23) — Securities and Exchange Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/10/16/2020-22944/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2020-10-16) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/10/16/2020-22943/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2020-10-16) — Federal Trade Commission
+- ... and 2 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Palantir%20Technologies%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 9 ($50.1M sampled) |
+| Subawards Received (as sub) | 9 ($50.1M sampled) |
+| Top Federal Agency | Department of Defense ($1.8B) |
+| Primary NAICS Sector | Software Publishers |
+
+**Subcontractors receiving federal money from Palantir Technologies:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| PALANTIR TECHNOLOGIES INC. | $50.1M | 8 |
+
+**Prime contractors funneling federal money to Palantir Technologies:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| PALANTIR TECHNOLOGIES INCORPORATED | $43.2M | 3 |
+| GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. | $2.5M | 1 |
+| BOOZ ALLEN HAMILTON INC. | $1.8M | 2 |
+| DELOITTE CONSULTING LLP | $1.4M | 1 |
+| NORTHROP GRUMMAN SYSTEMS CORPORATION | $1.3M | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $1.8B |
+| Department of Health and Human Services | $305.0M |
+| Department of Homeland Security | $203.6M |
+| Department of the Treasury | $155.0M |
+| Department of Veterans Affairs | $123.6M |
+| Department of State | $105.9M |
+| Department of Energy | $95.1M |
+| Department of Transportation | $58.2M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Software Publishers (511210) | $1.1B |
+| Software Publishers (513210) | $696.5M |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $428.5M |
+| Custom Computer Programming Services (541511) | $424.9M |
+| Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services (518210) | $216.9M |
+| Other Management Consulting Services (541618) | $39.5M |
+| Ammunition (except Small Arms) Manufacturing (332993) | $1K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300UVN46B3BBDHO85](https://search.gleif.org/#/record/549300UVN46B3BBDHO85) |
+| Legal Name | PALANTIR TECHNOLOGIES INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-02-18T10:09:39Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

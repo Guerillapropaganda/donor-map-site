@@ -20,6 +20,9 @@ subawards-received: 1
 subawards-received-amount: 96570
 top-federal-agency: "Department of Agriculture"
 top-naics-code: "311999"
+federal-awards-total: 49170610
+federal-contracts-count: 25
+federal-grants-count: 10
 ---
 
 #cargill #agriculture #commodities #grain #trade #private #family
@@ -119,3 +122,35 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $49.2M |
+| Contracts (recent 3yr) | 25 ($228.9M sampled) |
+| Grants (recent 3yr) | 10 ($26.4M sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $32.5M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000008995/4210006396/WHEAT, HARD RED WINTER BULK |
+| $26.2M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000009094/4210006495/WHEAT, HARD RED WINTER BULK |
+| $13.4M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010260/4100030841/TURKEY BREAST DELI SLC FRZ PKG-20/2 LB |
+| $13.4M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010329/4210007112/SORGHUM BULK |
+| $12.0M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000011135/4210007475/WHEAT, HARD RED WINTER BULK |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $23.9M | Agency for International Development | TRANSFORMATIONAL STRATEGIES FOR FARM OUTPUT RISK MITIGATION (TRANSFORM) |
+| $528K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
+| $459K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
+| $383K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
+| $340K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a31654c7-f5ff-71fe-90d8-91a59745fb51-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

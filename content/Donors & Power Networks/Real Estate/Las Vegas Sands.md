@@ -2,7 +2,7 @@
 title: "Las Vegas Sands"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Real Estate"
@@ -14,6 +14,35 @@ subawards-received-amount: 1009778941592127500
 federal-contracts: "7149"
 lei: "549300DUOO1KXOHPM605"
 lei-jurisdiction: "US-NV"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "144"
+  - "4"
+  - "424B2"
+  - "424B4"
+  - "424B5"
+  - "8-K"
+  - "ARS"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.70"
+  - "EX-21.1"
+  - "EX-4"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "FWP"
+  - "S-1"
+  - "S-1/A"
+  - "S-4"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SCHEDULE 13G/A"
 ---
 
 #sheldon-adelson #casino #megadonor #republican #single-family-donor
@@ -130,3 +159,23 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-K/A, 10-Q, 144, 4, 424B2, 424B4, 424B5 +19 more |
+| CIK | 1300514 |
+| Ticker | LVS |
+
+**Notable filings:**
+
+- 2026-04-01 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1300514/000130051426000035/0001300514-26-000035-index.htm)
+- 2026-04-01 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1300514/000130051426000033/0001300514-26-000033-index.htm)
+- 2026-04-01 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1300514/000130051426000031/0001300514-26-000031-index.htm)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1300514/000010290926001662/0000102909-26-001662-index.htm)
+- 2026-03-19 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1300514/000166799826000008/0001667998-26-000008-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Las%20Vegas%20Sands%22) (Tier 1)
+<!-- auto:sec-edgar end -->
