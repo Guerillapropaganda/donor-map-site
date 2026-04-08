@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox News - Murdoch Media Empire]] · [[Bari Weiss]] · [[Jake Tapper]] · [[Nicolle Wallace]] · [[Chris Wallace]] · [[Crooked Media]]"
+related: "[[Fox News - Murdoch Media Empire]] · [[Bari Weiss]] · [[Jake Tapper]] · [[Nicolle Wallace]] · [[Chris Wallace]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
 ---
 
 #media-pipeline #centrist #CNN #institutional-media #vanderbilt #class-analysis
