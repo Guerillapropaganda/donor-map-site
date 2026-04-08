@@ -14,6 +14,8 @@ federal-awards-total: 4624540
 federal-contracts-count: 25
 federal-grants-count: 25
 related: "[[Brian Kemp]] · [[The Caucus Chair and Inland Empire Logistics Economy]]"
+cpsc-recalls: 31
+last-enriched: "2026-04-08"
 ---
 
 #ups #logistics #shipping #teamsters #labor #bipartisan #trade #postal #transportation #revolving-door #class-analysis #follow-the-money
@@ -208,3 +210,25 @@ content-readiness:: developed
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/749cdca8-91d6-4d0a-1338-9af84563fbb1-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 31 |
+| Most Recent Recall | 2025-04-24 |
+| Earliest Recall | 1982-06-01 |
+| Hazard Types | The recalled window shades have long operating cords that can cause death or serious injury to children, due to strangulation and entanglement hazards. The window shades are in violation of the federal regulations for window coverings and present a substantial product hazard. The window shades also violate federal regulations for labeling of window coverings., The red tape on the bowling pin sipper cups contains levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health issues., The bottom exterior of the stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing laceration and choking hazards to children., The bottom exterior of the recalled stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing choking and laceration hazards to children., The bottom exterior of the stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing choking and laceration hazards to children. |
+
+**Recent recalls:**
+
+- [Window Roll Up Shades Recalled Due to Strangulation and Entanglement Hazards and Risk of Serious Injury or Death; Violation of Federal Regulations for Window Coverings; Sold Exclusively on SHEIN.co...](https://www.cpsc.gov/Recalls/25233) (2025-04-24) — The recalled window shades have long operating cords that can cause death or serious injury to children, due to strangulation and entanglement hazards. The window shades are in violation of the federal regulations for window coverings and present a substantial product hazard. The window shades also violate federal regulations for labeling of window coverings.
+- [Nazzaro Recalls Children Bowling Pin Sipper Cups Due to Risk of Lead Poisoning; Violation of Federal Lead Content Ban](https://www.cpsc.gov/Recalls/25139) (2025-02-20) — The red tape on the bowling pin sipper cups contains levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health issues.
+- [Tiblue Stainless Steel Children's Cups Recalled Due to Violation of Federal Lead Content Ban; Sold Exclusively on Amazon.com by FENGM (Recall Alert)](https://www.cpsc.gov/Recalls/24724) (2023-11-30) — The bottom exterior of the stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing laceration and choking hazards to children.
+- [PandaEar Recalls Stainless Steel Children's Cups Due to Violation of Federal Lead Content Ban; Sold Exclusively on Amazon.com (Recall Alert)](https://www.cpsc.gov/Recalls/24716) (2023-11-22) — The bottom exterior of the recalled stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing choking and laceration hazards to children.
+- [Stainless Steel Children's Cups Recalled Due to Violation of Federal Lead Content Ban; Sold Exclusively at Amazon.com by LAOION (Recall Alert)](https://www.cpsc.gov/Recalls/24714) (2023-11-16) — The bottom exterior of the stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing choking and laceration hazards to children.
+- [Soojimus Recalls CUPKIN Stainless Steel Children's Cups Due to Violation of Federal Lead Content Ban (Recall Alert)](https://www.cpsc.gov/Recalls/23774) (2023-07-20) — The stainless-steel cups contain levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects.
+- ... and 25 more
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=UPS) (Tier 1)
+<!-- auto:cpsc-recalls end -->
