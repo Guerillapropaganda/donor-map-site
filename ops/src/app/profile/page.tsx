@@ -29,7 +29,7 @@ interface SourceData {
 }
 
 interface UrlData {
-  url: string; label: string; tier?: number; archived: boolean
+  url: string; label: string; tier?: number; archived: boolean; triageStatus?: "verified" | "broken" | "unsure" | "unchecked"
 }
 
 interface Connection {
@@ -442,15 +442,16 @@ export default function ProfilePage() {
             <div className="space-y-1">
               {urls.map((u, i) => {
                 const override = urlOverrides[i]
-                const dotColor = override === "ok" ? "bg-[var(--color-green)]"
-                  : override === "broken" ? "bg-[var(--color-red)]"
-                  : override === "unsure" ? "bg-[#a855f7]"
-                  : u.archived ? "bg-[var(--color-red)]" : "bg-[var(--color-green)]"
+                const status = override || u.triageStatus || (u.archived ? "broken" : "unchecked")
+                const dotColor = status === "ok" || status === "verified" ? "bg-[var(--color-green)]"
+                  : status === "broken" ? "bg-[var(--color-red)]"
+                  : status === "unsure" ? "bg-[#a855f7]"
+                  : "bg-[#6b7280]" // unchecked = gray
                 return (
-                  <div key={i} className={`flex items-start gap-2 p-2 rounded text-[10px] hover:bg-[var(--color-bg-hover)] transition-colors group ${u.archived && !override ? "opacity-40" : ""}`}>
+                  <div key={i} className={`flex items-start gap-2 p-2 rounded text-[10px] hover:bg-[var(--color-bg-hover)] transition-colors group ${status === "broken" ? "opacity-40" : ""}`}>
                     <span className={`mt-1 w-2 h-2 rounded-full flex-shrink-0 ${dotColor}`} />
                     <a href={u.url} target="_blank" rel="noopener noreferrer" className="min-w-0 flex-1">
-                      <p className={`text-[var(--color-text)] hover:text-[var(--color-steel)] ${u.archived && !override ? "line-through" : ""}`}>{u.label}</p>
+                      <p className={`text-[var(--color-text)] hover:text-[var(--color-steel)] ${status === "broken" ? "line-through" : ""}`}>{u.label}</p>
                       <p className="text-[var(--color-text-dim)] truncate">{u.url}</p>
                     </a>
                     {u.tier && <span className="text-[8px] text-[var(--color-text-dim)] flex-shrink-0">Tier {u.tier}</span>}
