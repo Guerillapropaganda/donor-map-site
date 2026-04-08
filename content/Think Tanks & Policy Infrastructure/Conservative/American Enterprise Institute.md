@@ -8,7 +8,7 @@ parent: null
 category: conservative
 tax-status: 501c3
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 ofac-programs:
   - "UKRAINE-EO13685"
   - "RUSSIA-EO14024"
@@ -429,3 +429,22 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Enterprise%20Institute%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 686 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, D. Colorado, District Court, D. Utah, District Court, D. Vermont, District Court, District of Columbia, District Court, N.D. California +4 more |
+| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions, 895 Freedom of Information Act |
+
+**Notable cases:**
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+- Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
+- The State of Oregon v. Trump (2026) — United States Court of International Trade
+- Christy v. Lenovo (United States) Inc. (2026) — District Court, N.D. California
+- Powers Gardner v. Henderson (2026) — District Court, D. Utah
+- WILDERNESS SOCIETY v. U.S. DEPARTMENT OF INTERIOR (2026) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Enterprise%20Institute%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

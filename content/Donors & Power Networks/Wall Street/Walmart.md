@@ -42,6 +42,50 @@ related: "[[The Agriculture-Appropriations Pipeline and Arkansas Defense]]"
 nonprofit-status: "501(c)(9)"
 total-revenue: 3737153584
 total-assets: 902595677
+sec-filings: 10000
+sec-form-types:
+  - "144"
+  - "25-NSE"
+  - "4"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.(A)"
+  - "EX-10.(B)"
+  - "EX-10.(D)"
+  - "EX-10.(E)"
+  - "EX-10.(F)"
+  - "EX-10.(L)"
+  - "EX-10.(O)"
+  - "EX-10.(P)"
+  - "EX-10.(R)"
+  - "EX-10.(S)"
+  - "EX-10.(T)"
+  - "EX-10.(U)"
+  - "EX-10.1"
+  - "EX-10.11"
+  - "EX-10.17"
+  - "EX-10.18"
+  - "EX-10.19"
+  - "EX-10.2"
+  - "EX-10.27"
+  - "EX-10.29"
+  - "EX-10.3"
+  - "EX-10.31"
+  - "EX-10.32"
+  - "EX-10.6"
+  - "EX-10.7"
+  - "EX-10.75"
+  - "EX-10.8"
+  - "EX-10.9"
+  - "EX-19"
+  - "EX-2.1"
+  - "EX-4.1"
+  - "EX-99.01"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "PX14A6G"
+  - "SCHEDULE 13G/A"
 ---
 
 #walmart #walton #retail #anti-union #minimum-wage #arkansas #bipartisan #corporate-welfare #estate-tax #school-choice #pac
@@ -253,3 +297,23 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/710569421) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 144, 25-NSE, 4, 8-K, DEF 14A, DEFA14A, EX-10.(A), EX-10.(B) +34 more |
+| CIK | 104169 |
+| Ticker | WMT |
+
+**Notable filings:**
+
+- 2026-04-07 — **25-NSE**: [25-NSE](https://www.sec.gov/Archives/edgar/data/104169/000135445726000333/0001354457-26-000333-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000010416926000075/0000104169-26-000075-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000010416926000074/0000104169-26-000074-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000118342826000004/0001183428-26-000004-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000162858826000004/0001628588-26-000004-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Walmart%22) (Tier 1)
+<!-- auto:sec-edgar end -->

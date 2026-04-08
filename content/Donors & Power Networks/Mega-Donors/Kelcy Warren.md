@@ -45,6 +45,21 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[Environment - Donors and Backers]] · [[DAPL Survives Both Parties - The Bipartisan Fossil Fuel Consensus]]"
+sec-filings: 506
+sec-form-types:
+  - "4"
+  - "4/A"
+  - "425"
+  - "8-K"
+  - "DEFA14A"
+  - "EX-24."
+  - "EX-3.13.1"
+  - "EX-99.1"
+  - "EX-99.8"
+  - "POS AM"
+  - "S-8 POS"
+  - "SC 13D"
+  - "SC 13D/A"
 ---
 
 #donor-node #mega-donor #fossil-fuel #pipeline #texas #republican #class-analysis #donor
@@ -263,3 +278,21 @@ research-status:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Kelcy%20Warren%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 506 |
+| Form Types | 4, 4/A, 425, 8-K, DEFA14A, EX-24., EX-3.13.1, EX-99.1 +5 more |
+
+**Notable filings:**
+
+- 2014-10-14 — **4**: 4
+- 2011-08-10 — **4**: OPEN MARKET PURCHASE
+- 2024-06-17 — **4**: 4
+- 2025-11-20 — **4**: 4
+- 2023-05-23 — **4**: FORM 4 SUBMISSION
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kelcy%20Warren%22) (Tier 1)
+<!-- auto:sec-edgar end -->

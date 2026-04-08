@@ -11,6 +11,21 @@ issues:
   - "Wall Street & Finance"
   - "Technology"
 related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]]"
+doj-press-mentions: "264349"
+last-enriched: "2026-04-08"
+doj-components:
+  - "Civil Rights Division"
+  - "Cyber Division (FBI)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "National Security Division (NSD)"
+  - "USAO - Florida, Middle"
+  - "USAO - Florida, Northern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Massachusetts"
+  - "USAO - Missouri, Western"
+  - "USAO - New York, Northern"
+lobbying-spend: 7197209
+lobbying-filings: 102
 ---
 
 #bundler #wall-street #tech #fundraising #access #ambassadorships #bipartisan
@@ -36,3 +51,42 @@ The bundler network operates through fundraising events (dinners, receptions, re
 - [Ballotpedia: Campaign bundling](https://ballotpedia.org/Finance_and_Tech_Bundler_Network) (Tier 3)
 
 content-readiness:: ready
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264349 |
+| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
+
+**Recent press releases:**
+
+- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
+- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
+- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
+- ... and 264,343 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Finance%20and%20Tech%20Bundler%20Network%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $7.2M |
+| Quarterly Filings | 102 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 38 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Banking, Budget/Appropriations, Defense, Economics/Economic Development, Education, Energy/Nuclear, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Government Issues, Housing, Insurance, Law Enforcement/Crime/Criminal Justice, Science/Technology, Small Business, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign)
+
+**Lobbying firms:** 1607 STRATEGIES, LLC, 9TH STREET STRATEGIES, ATRIO CONSULTING GROUP, LLC, BANKERS ASSOCIATION FOR FINANCE AND TRADE (FORMERLY KNOWN AS BAFT-IFSA), COMMERCIAL REAL ESTATE FINANCE COUNCIL, CONTINENTAL STRATEGY, LLC, COVENANT GOVERNMENT AFFAIRS, LLC, DALY CONSULTING GROUP, EDUCATION FINANCE COUNCIL, INC., ELITE REAL ESTATE & FINANCE LLC, EQUIPMENT LEASING AND FINANCE ASSOCIATION, FS VECTOR LLC, HOLLAND & KNIGHT LLP, HUSCH BLACKWELL, LLP, K&L GATES, LLP, KRL INTERNATIONAL LLC, MCLARTY INBOUND LLC, MERCURY PUBLIC AFFAIRS, LLC, NORTH SOUTH GOVERNMENT STRATEGIES, FKA JDM PUBLIC STRATEGIES, LLC, OPPORTUNITY FINANCE NETWORK-FORMERLY NATIONAL COMMUNITY CAP, POLARIS GOVERNMENT RELATIONS, LLC, PORTERFIELD, FETTIG & SEARS, LLC, RICH FEUER ANDERSON, RYAN COSTELLO STRATEGIES, S-3 GROUP, SBL STRATEGIES, LLC, SECURITY FINANCE CORPORATION OF SPARTANBURG, SMITHBUCKLIN CORPORATION, SOFTWARE FINANCE AND TAX EXECUTIVES COUNCIL, SQUIRE PATTON BOGGS, STEPTOE LLP, STRATEGIC MARKETING INNOVATIONS, STRUCTURED FINANCE ASSOCIATION, THE VOGEL GROUP, TIBER CREEK GROUP, VAN SCOYOC ASSOCIATES, VENABLE LLP, WEST FRONT STRATEGIES LLC
+
+**Agencies contacted:** Air Force, Dept of, Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Energy, Dept of, Export-Import Bank of the United States (EXIM Bank), Federal Accounting Standards Advisory Board (FASAB), Federal Deposit Insurance Corporation (FDIC), Federal Housing Finance Agency (FHFA) +20 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Finance%20and%20Tech%20Bundler%20Network) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -16,13 +16,29 @@ issues:
   - "Defense & Military"
   - "Dark Money & Campaign Finance"
 federal-contracts: "2662"
-ein: 863992946
+ein: "863992946"
 annual-revenue: "$1.2M"
 net-assets: "$421K"
 tax-year: "2023"
 lei: "254900B4R5J7N0865R59"
 lei-jurisdiction: "LU"
 related: "[[Joe Rogan]] · [[Invariant]] · [[Ajay Royan]]"
+court-cases: 157
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "Court of Appeals for the Fifth Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, D. Massachusetts"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Texas"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Georgia"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. New York"
+nonprofit-status: "501(c)(3)"
+total-revenue: 1887693
+total-assets: 1396799
 ---
 
 #founders-fund #peter-thiel #venture-capital #tech #libertarian #palantir #republican #defense #paypal-mafia #dark-money #class-analysis #follow-the-money
@@ -231,3 +247,43 @@ content-readiness:: developed
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 157 |
+| Courts | Court of Appeals for the Fifth Circuit, District Court, D. Delaware, District Court, D. Massachusetts, District Court, E.D. New York, District Court, E.D. Pennsylvania, District Court, E.D. Texas, District Court, N.D. California, District Court, N.D. Georgia +5 more |
+| Case Types | 3470 RICO, 360 P.I.: Other, 422 Bankruptcy: Appeal 28 USC 158, 820 Copyright, 830 Patent |
+
+**Notable cases:**
+- Pusey v. People Center, Inc. (2026) — District Court, D. Massachusetts
+- In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
+- RHODES v. AYLO HOLDINGS, S.A.R.L. (2025) — District Court, W.D. Pennsylvania
+- Gaikwad v. Hanson (2025) — District Court, D. Massachusetts
+- Point Bridge Capital v. Johnson (2025) — Court of Appeals for the Fifth Circuit
+- Crusoe Energy Systems LLC v. Upstream Data Inc. (2025) — District Court, E.D. Texas
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Founders%20Fund%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 863992946 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $1.9M |
+| Total Assets | $1.4M |
+| NTEE Code | T30 |
+| IRS Ruling Date | 2022-01-01 |
+| Filings on Record | 2 |
+
+**Filing history:** 2023, 2022
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2022)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/863992946) (Tier 1)
+<!-- auto:nonprofit-990 end -->

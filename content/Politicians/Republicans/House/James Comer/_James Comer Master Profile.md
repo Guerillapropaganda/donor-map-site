@@ -18,6 +18,8 @@ bills-cosponsored: 67
 website: "https://comer.house.gov"
 phone: "202-225-3115"
 related: "[[The Oversight Committee and the Anti-Corruption Brand]]"
+total-received: "$1,108,482"
+fec-candidate-id: "H6KY01110"
 ---
 
 
@@ -181,3 +183,38 @@ content-readiness:: ready
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412676) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,108,482 |
+| Individual Contributions | $506,178 |
+| PAC Contributions | $271,200 |
+| Cash on Hand | 3385680.46 |
+| IE Support (Super PAC) | $8,694 |
+| IE Opposition (Super PAC) | $1,612 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,108,482 | $506,178 | $271,200 |
+| 2024 | $7,650,142 | $3,062,732 | $806,000 |
+| 2022 | $1,649,490 | $756,300 | $829,900 |
+| 2020 | $741,257 | $266,950 | $459,450 |
+| 2018 | $721,796 | $263,077 | $428,540 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $8,599 | $0 |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND | $0 | $862 |
+| TOGETHER WE THRIVE | $0 | $750 |
+| ALLIANCE COAL, LLC PAC | $69 | $0 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $13 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1)
+<!-- auto:fec-politician end -->

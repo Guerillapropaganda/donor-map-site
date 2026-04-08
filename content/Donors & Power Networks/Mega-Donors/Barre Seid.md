@@ -8,7 +8,7 @@ parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Clarence Thomas"
+  - "Rand Paul"
 ein: "363342443"
 annual-revenue: "$642K"
 net-assets: "$341K"
@@ -18,6 +18,7 @@ last-enriched: "2026-04-07"
 total-revenue: 701289
 total-assets: 279469
 related: "[[Federalist Society]]"
+total-political-spend: "$266,480"
 ---
 
 #barre-seid #mega-donor #judicial #Leonard-Leo #Marble-Freedom-Trust #tax-avoidance #judicial-capture
@@ -141,3 +142,28 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363342443) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $266,480 |
+| Contributions | 114 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE CONTRIBUTIONS | $75,000 | REP |
+| UNITED REPUBLICAN FUND OF IL INC FED ELECTION COMMITTEE | $25,000 | REP |
+| REPUBLICAN NATIONAL COMMITTEE - CONTRIBUTIONS (AKA REPUBLICAN NATIONAL FINANCE COMMITTEE | $16,180 | REP |
+| LAUZEN FOR CONGRESS | $13,800 | REP |
+| MARYLAND REPUBLICAN STATE CENTRAL COMMITTEE | $10,000 | Rep |
+| STEELE-MARYLAND VICTORY 2006 | $10,000 | — |
+| FAMILY-PAC FEDERAL | $10,000 | — |
+| UNITED REPUBLICAN FUND OF ILLINOIS | $10,000 | REP |
+| REPUBLICAN NATIONAL COMMITTEE - CONTRIBUTIONS (AKA REPUBLICAN NATIONAL FINANCE COMMITTEE) | $5,000 | REP |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE - CONTRIBUTIONS * | $5,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Barre%20Seid) (Tier 1)
+<!-- auto:fec-donor end -->

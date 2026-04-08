@@ -12,6 +12,8 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]]"
+lobbying-spend: 40000
+lobbying-filings: 4
 ---
 
 #donor-node #trump #donor-coalition #mega-donor #maga #realignment #small-dollar #patron-client #dark-money #class-analysis #follow-the-money
@@ -159,3 +161,22 @@ The transactional clarity is the defining feature. Traditional Republican fundra
 - [Read Sludge: Elon Musk spent over a quarter billion to elect Trump](https://readsludge.com/2024/12/06/elon-musk-spent-over-a-quarter-billion-to-elect-trump/) (Tier 2)
 
 content-readiness:: developed
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $40K |
+| Quarterly Filings | 4 |
+| Year Range | 2024-2024 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Energy/Nuclear, Manufacturing, Trade (domestic/foreign)
+
+**Lobbying firms:** PLURUS STRATEGIES, LLC
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, Intl Trade Administration (ITA), SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Trump%20Donor%20Coalition) (Tier 1)
+<!-- auto:lda-lobbying end -->

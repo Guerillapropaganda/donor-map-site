@@ -8,6 +8,18 @@ parent: null
 category: liberal
 tax-status: 501c3
 related: "[[George Soros]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[AFL-CIO]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Urban Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
+court-cases: 159
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "District Court, D. Maryland"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Rhode Island"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. New York"
 ---
 
 #think-tank #liberal #safety-net #anti-poverty #tax-policy #medicaid #SNAP #EITC #class-analysis
@@ -219,3 +231,22 @@ The Democracy Alliance connection and the Arabella Advisors dark money pipeline 
 - [CBPP: Administration's Radical Personnel Cuts Bypassed Congress and Lacked Transparency (2025)](https://www.cbpp.org/research/federal-budget/administrations-radical-personnel-cuts-bypassed-congress-and-lacked) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 159 |
+| Courts | Court of Appeals for the Fifth Circuit, Court of Appeals for the First Circuit, District Court, D. Maryland, District Court, D. Massachusetts, District Court, D. Rhode Island, District Court, District of Columbia, District Court, N.D. California, District Court, N.D. Texas +1 more |
+| Case Types | 2899 Other Statutes, 440 Civil Rights: Other, 895 Freedom of Information Act, 899 Administrative Procedure Act/Review or Appeal of Agency Decision, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- JANE ADDAMS SENIOR CAUCUS v. UNITED STATES DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (2026) — District Court, District of Columbia
+- Rhode Island State Council of Churches v. Rollins (2025) — Court of Appeals for the First Circuit
+- Perrone v. Rollins (2025) — District Court, N.D. California
+- Commonwealth of Massachusetts v. United States Department of Agriculture (2025) — District Court, D. Massachusetts
+- Urban Justice Center-Safety Net Project (UJC-SNP) v. Rollins (2025) — District Court, S.D. New York
+- Democracy Forward Foundation v. Social Security Administration (2025) — District Court, D. Maryland
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20on%20Budget%20and%20Policy%20Priorities%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

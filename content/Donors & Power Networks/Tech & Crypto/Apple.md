@@ -46,6 +46,9 @@ regulatory-agencies:
   - "Federal Reserve System"
   - "Food and Drug Administration"
 related: "[[Amy Klobuchar]] · [[The Antitrust Crusade and Legislative Stalling]] · [[Barack Obama Master Profile]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Judiciary Committee and Tech Accountability]] · [[Invariant]]"
+federal-awards-total: 17198395
+federal-contracts-count: 25
+federal-grants-count: 25
 ---
 
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy
@@ -279,3 +282,35 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Apple%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $17.2M |
+| Contracts (recent 3yr) | 25 ($62.5M sampled) |
+| Grants (recent 3yr) | 25 ($84.8M sampled) |
+| Federal Agencies | 8 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $6.1M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000011131/4100033614/APPLE JUICE PLST BTL-8/64 FL OZ,CHERRY APP |
+| $5.4M | Department of Defense | RENOVATE B4329 AND DEMOLISH B3101 |
+| $4.4M | Department of Defense | THE PURPOSE OF THIS PROJECT IS TO PROVIDE DESIGN AND ENGINEERING SERVICES TO SUPPORT SEA LEVEL RISE  |
+| $4.2M | Department of Homeland Security | FIRM-FIXED PRICE (FFP) CONTRACT WITH APPLETON MARINE, INC TO PURCHASE THE AFT BOAT HANDLING SYSTEM F |
+| $4.2M | Department of Defense | IGF::OT::IGF DRY DOCK 2 PORTAL CRANE RAIL REPAIRS |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $16.0M | Department of Transportation | CITY OF APPLETON VALLEY TRANSIT 5339 BUSES AND BUS FACILITIES INFRASTRUCTURE INVESTMENT CAPITAL GRAN |
+| $10.9M | Department of Transportation | THIS APPLICATION REQUESTS FUNDING FOR MULTIPLE PROJECTS INCLUDING OPERATING ASSISTANCE TO THE CITY O |
+| $7.4M | Department of Transportation | CITY OF APPLETON VALLEY TRANSIT 5307 CARES ACT GRANT |
+| $7.1M | Department of Education | REPLICATING HIGH-QUALITY CHARTER PRESCHOOLS |
+| $7.0M | Department of Agriculture | TO CONDUCT APPROVED MARKET DEVELOPMENT ACTIVITIES INTENDED TO FOSTER EXPANDED EXPORTS AND MARKET DIV |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/f6912e36-6cca-1f27-b7de-3d9631b48ec0-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

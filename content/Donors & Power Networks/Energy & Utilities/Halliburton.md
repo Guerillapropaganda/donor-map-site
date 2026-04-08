@@ -13,7 +13,7 @@ net-assets: "$806K"
 tax-year: "2022"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 nonprofit-status: "501(c)(3)"
 total-revenue: 4436307
 total-assets: 1150303
@@ -56,6 +56,18 @@ sec-form-types:
   - "S-4/A"
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
+court-cases: 12856
+court-jurisdictions:
+  - "District Court, D. Kansas"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Virginia"
+  - "District Court, M.D. Pennsylvania"
+  - "District Court, S.D. Alabama"
+  - "District Court, S.D. Texas"
+  - "District Court, W.D. Louisiana"
+  - "District Court, W.D. Michigan"
+  - "District Court, W.D. Tennessee"
+  - "District Court, W.D. Texas"
 ---
 
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
@@ -208,3 +220,22 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Halliburton%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 12,856 |
+| Courts | District Court, D. Kansas, District Court, E.D. California, District Court, E.D. Virginia, District Court, M.D. Pennsylvania, District Court, S.D. Alabama, District Court, S.D. Texas, District Court, W.D. Louisiana, District Court, W.D. Michigan +7 more |
+| Case Types | 440 Civil Rights: Other, 550 Prisoner: Civil Rights, 850 Securities/Commodities, 880 Defend Trade Secrets Act (of 2016) |
+
+**Notable cases:**
+- Doe v. West Shore Educational Service District (2026) — District Court, W.D. Michigan
+- Evolution Well Services Operating, LLC et, al v. Hill (2026) — District Court, S.D. Texas
+- Colon v. Halliburton Energy Services, Inc. (2026) — District Court, S.D. Texas
+- Bartok v. McCabe (2026) — District Court, W.D. Texas
+- Clark v. Halliburton Energy Services, Inc. (2026) — District Court, M.D. Pennsylvania
+- Fulton (ID 2000036653) v. Smith (2026) — District Court, D. Kansas
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Halliburton%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

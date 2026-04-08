@@ -13,7 +13,7 @@ issues:
   - "Wall Street & Finance"
   - "Healthcare"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 ofac-programs:
   - "IRAN-EO13846"
 ein: "815163032"
@@ -54,6 +54,11 @@ sec-form-types:
   - "S-8 POS"
   - "SCHEDULE 13G/A"
 related: "[[Mike Lee]] · [[The Education Committee and For-Profit College Pipeline]] · [[Patrick McHenry Master Profile]] · [[Subject Matter (now Avoq)]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]]"
+federal-register-mentions: 7
+regulatory-agencies:
+  - "Energy Department"
+  - "Federal Energy Regulatory Commission"
+  - "Securities and Exchange Commission"
 ---
 
 #apollo #private-equity #wall-street #university-of-phoenix #for-profit-education #healthcare #insurance
@@ -179,3 +184,23 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Apollo%20Global%20Management%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 7 |
+| Notice | 7 |
+| Agencies | Energy Department, Federal Energy Regulatory Commission, Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/02/18/2026-03172/combined-notice-of-filings-1) (2026-02-18) — Energy Department
+- [Change In Control: Port Arthur LNG Phase II, LLC](https://www.federalregister.gov/documents/2025/11/18/2025-20209/change-in-control-port-arthur-lng-phase-ii-llc) (2025-11-18) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2025/03/21/2025-04848/combined-notice-of-filings-1) (2025-03-21) — Energy Department
+- [Apollo Global Management, Inc.](https://www.federalregister.gov/documents/2023/08/15/2023-17497/apollo-global-management-inc) (2023-08-15) — Securities and Exchange Commission
+- [Voya Retirement Insurance and Annuity Company et al; Notice of Application](https://www.federalregister.gov/documents/2019/07/19/2019-15335/voya-retirement-insurance-and-annuity-company-et-al-notice-of-application) (2019-07-19) — Securities and Exchange Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2018/10/18/2018-22713/combined-notice-of-filings-1) (2018-10-18) — Energy Department
+- ... and 1 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Apollo%20Global%20Management%22) (Tier 1)
+<!-- auto:federal-register end -->

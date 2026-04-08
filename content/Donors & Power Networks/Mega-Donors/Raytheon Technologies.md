@@ -72,3 +72,46 @@ content-readiness:: raw
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Raytheon%20Technologies%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 5 ($3.4M sampled) |
+| Subawards Received (as sub) | 5 ($3.4M sampled) |
+
+**Subcontractors receiving federal money from Raytheon Technologies:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| RAYTHEON TECHNOLOGIES CORPORATION | $3.4M | 5 |
+
+**Prime contractors funneling federal money to Raytheon Technologies:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| BELL BOEING JOINT PROJECT OFFICE | $3.0M | 3 |
+| BELL TEXTRON INC. | $403K | 2 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [5493000JIXZDTNYC2638](https://search.gleif.org/#/record/5493000JIXZDTNYC2638) |
+| Legal Name | RAYTHEON GLOBAL TECHNOLOGIES INDIA PRIVATE LIMITED |
+| Jurisdiction | IN |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-23T12:34:34Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [RTX CORPORATION](https://search.gleif.org/#/record/I07WOS4YJ0N7YRFE7309) (US-DE)
+- RAYTHEON GLOBAL TECHNOLOGIES INDIA PRIVATE LIMITED (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -171,3 +171,21 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Haim%20Saban) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,744 |
+| Form Types | 10-K, 10-K405, 10-Q, 13F-HR, 13F-HR/A, 3, 3/A, 4 +23 more |
+
+**Notable filings:**
+
+- 2017-02-09 — **SC 13G**: SCHEDULE 13G
+- 2013-02-08 — **SC 13D**: SC 13D
+- 2017-02-09 — **EX-99.1**: EX-1
+- 2013-02-08 — **EX-99.1**: EX-99.1
+- 2001-07-27 — **EX-99**: EXH 99.1 - PRESS RELEASE - FOX FAMILY
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Haim%20Saban%22) (Tier 1)
+<!-- auto:sec-edgar end -->

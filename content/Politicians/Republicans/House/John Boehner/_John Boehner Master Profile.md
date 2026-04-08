@@ -2,7 +2,7 @@
 title: "John Boehner"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,7 @@ top-donors:
   - "Goldman Sachs"
   - "JPMorgan Chase"
   - "Real Estate/Commercial Property"
+fec-candidate-id: "H0OH08029"
 ---
 
 #john-boehner #speaker-of-house #tobacco #cannabis #revolving-door #koch-network #finance #class-analysis
@@ -164,3 +165,35 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2016 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $342,178 |
+| IE Opposition (Super PAC) | $756,041 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2016 | $0 | $0 | $0 |
+| 2014 | $18,372,560 | $2,139,320 | $2,321,650 |
+| 2012 | $22,024,288 | $3,533,841 | $2,430,850 |
+| 2010 | $9,796,947 | $2,833,806 | $2,690,870 |
+| 2008 | $5,161,992 | $1,436,573 | $2,276,559 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| THE TEA PARTY LEADERSHIP FUND | $0 | $553,540 |
+| FREEDOM VOTE | $342,178 | $0 |
+| SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION) | $0 | $106,057 |
+| MOVEON.ORG POLITICAL ACTION | $0 | $75,194 |
+| BLUE AMERICA PAC | $0 | $19,200 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0OH08029/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -8,6 +8,34 @@ parent: null
 sector: "Real Estate"
 entity-type: "Corporation"
 related: "[[Kathy Hochul]]"
+lobbying-spend: 150000
+lobbying-filings: 4
+lei: "549300SIM2H13POBGQ56"
+lei-jurisdiction: "US-NY"
+sec-filings: 323
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "EX-10"
+  - "EX-10.1"
+  - "EX-10.2"
+  - "EX-10.3"
+  - "EX-10.3.1"
+  - "EX-10.9"
+  - "EX-99"
+  - "EX-99.(C)(3)"
+  - "EX-99.(C)(4)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "EX-99.9"
+  - "EX1A-6 MAT CTRCT"
+  - "FWP"
+  - "PRE 14A"
+  - "XML"
 ---
 
 #nyc-real-estate #developer #hochul-donor #commercial-real-estate #moinian
@@ -48,3 +76,53 @@ Moinian Group exemplifies how individual developers can exercise substantial pol
 - [New York Times: Developer contributions to Hochul](https://www.nytimes.com/2022/06/developer-hochul.html) (Tier 2)
 
 `content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $150K |
+| Quarterly Filings | 4 |
+| Year Range | 2025-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Real Estate/Land Use/Conservation
+
+**Lobbying firms:** HOLLAND & KNIGHT LLP
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Moinian%20Group) (Tier 1)
+<!-- auto:lda-lobbying end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300SIM2H13POBGQ56](https://search.gleif.org/#/record/549300SIM2H13POBGQ56) |
+| Legal Name | 900 Eighth Avenue Condominium LLC |
+| Jurisdiction | US-NY |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2025-11-25T18:37:40Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 323 |
+| Form Types | 10-K, 10-Q, 8-K, CORRESP, DEF 14A, EX-10, EX-10.1, EX-10.2 +14 more |
+
+**Notable filings:**
+
+- 2010-10-26 — **EX-99.2**: EX-99.2
+- 2012-12-06 — **EX-99.9**: EX-99.9
+- 2016-02-03 — **EX-99.1**: EX-99.1
+- 2012-01-31 — **EX-99.1**: EX-99.1
+- 2016-02-03 — **8-K**: FORM 8-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Moinian%20Group%22) (Tier 1)
+<!-- auto:sec-edgar end -->

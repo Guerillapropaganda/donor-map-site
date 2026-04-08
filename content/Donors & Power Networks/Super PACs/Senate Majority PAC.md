@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 court-cases: 38
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the Eleventh Circuit"
   - "District Court, C.D. California"
@@ -191,3 +191,18 @@ research-status:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Majority%20PAC%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Notice | 2 |
+| Agencies | Federal Election Commission |
+
+**Recent regulatory activity:**
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2015/11/05/2015-28370/sunshine-act-meetings) (2015-11-05) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2015/10/26/2015-27336/sunshine-act-meetings) (2015-10-26) — Federal Election Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Senate%20Majority%20PAC%22) (Tier 1)
+<!-- auto:federal-register end -->

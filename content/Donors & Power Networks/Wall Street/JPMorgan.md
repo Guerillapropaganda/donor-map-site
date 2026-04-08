@@ -417,3 +417,22 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237049738) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 86,914 |
+| Courts | District Court, C.D. California, District Court, D. Maine, District Court, D. Oregon, District Court, E.D. Missouri, District Court, E.D. Pennsylvania, District Court, M.D. Florida, District Court, N.D. Georgia, District Court, N.D. Texas +7 more |
+| Case Types | 110 Insurance, 220 Real Property: Foreclosure, 480 Consumer Credit, 850 Securities/Commodities, 893 Environmental Matters |
+
+**Notable cases:**
+- Rivera v. Aspire Events LLC (2026) — District Court, M.D. Florida
+- Leonor Matos v. JPMorgan Chase Bank, N.A. (2026) — District Court, C.D. California
+- U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GREENE STREET FUNDING TRUST II v. GFG ENTERPRISE LLC (2026) — District Court, E.D. Pennsylvania
+- Brenda Rodriguez (2026) — United States Bankruptcy Court, M.D. Pennsylvania
+- Filardi v. USAA General Indemnity Company (2026) — District Court, E.D. Missouri
+- Westley Dane Rachko v. JPMorgan Chase Bank, N.A. (2026) — District Court, C.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JPMorgan%20Chase%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -8,7 +8,7 @@ parent: null
 sector: "Media & Entertainment"
 entity-type: "Individual Donor"
 court-cases: 479
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the Fifth Circuit"
   - "District Court, C.D. California"
@@ -22,6 +22,17 @@ lobbying-spend: 9020027
 lobbying-filings: 97
 total-political-spend: "$270,182"
 related: "[[Mark Warner]]"
+lei: "549300D3EIDZJB62TR20"
+lei-jurisdiction: "QA"
+federal-register-mentions: 13
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Defense Department"
+  - "Federal Communications Commission"
+  - "Federal Deposit Insurance Corporation"
+  - "Federal Reserve System"
+  - "Rural Utilities Service"
+  - "Securities and Exchange Commission"
 ---
 
 #telecom #net-neutrality #spectrum #broadband #lobbying #fcc #bipartisan
@@ -144,3 +155,40 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Telecom%20Industry) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300D3EIDZJB62TR20](https://search.gleif.org/#/record/549300D3EIDZJB62TR20) |
+| Legal Name | أريد ش.م,ق.ع |
+| Jurisdiction | QA |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-09-17T14:47:00Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 13 |
+| Proposed Rule | 11 |
+| Rule | 1 |
+| Notice | 1 |
+| Agencies | Agriculture Department, Defense Department, Federal Communications Commission, Federal Deposit Insurance Corporation, Federal Reserve System, Rural Utilities Service, Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Cybersecurity Maturity Model Certification (CMMC) Program](https://www.federalregister.gov/documents/2023/12/26/2023-27280/cybersecurity-maturity-model-certification-cmmc-program) (2023-12-26) — Defense Department
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2017](https://www.federalregister.gov/documents/2017/08/24/2017-16981/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2017) (2017-08-24) — Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2016](https://www.federalregister.gov/documents/2016/12/23/2016-29927/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2016) (2016-12-23) — Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2016](https://www.federalregister.gov/documents/2016/06/09/2016-12933/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2016) (2016-06-09) — Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2015](https://www.federalregister.gov/documents/2015/12/15/2015-30673/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2015) (2015-12-15) — Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2015](https://www.federalregister.gov/documents/2015/06/18/2015-14375/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2015) (2015-06-18) — Federal Communications Commission
+- ... and 7 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Telecom%20Industry%22) (Tier 1)
+<!-- auto:federal-register end -->

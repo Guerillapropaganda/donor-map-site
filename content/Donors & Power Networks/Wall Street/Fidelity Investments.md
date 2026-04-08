@@ -10,16 +10,19 @@ entity-type: "Corporation"
 issues:
   - "Technology"
 federal-register-mentions: 182
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Employee Benefits Security Administration"
   - "Labor Department"
   - "Securities and Exchange Commission"
-ein: 110303001
+ein: "110303001"
 annual-revenue: "$14.7B"
 net-assets: "$56.7B"
 tax-year: "2023"
 related: "[[Richard Neal Master Profile]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 36802245050
+total-assets: 66787000627
 ---
 
 #asset-manager #johnson-family #private-equity #financial-deregulation #crypto
@@ -90,3 +93,28 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 - [Source: ProPublica Nonprofit Explorer — EIN 110303001](https://projects.propublica.org/nonprofits/organizations/110303001) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F110303001_202306_990_2024120622932373.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 110303001 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $36.80B |
+| Total Assets | $66.79B |
+| NTEE Code | S500 |
+| IRS Ruling Date | 1991-05-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/110303001) (Tier 1)
+<!-- auto:nonprofit-990 end -->

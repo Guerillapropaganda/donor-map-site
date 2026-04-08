@@ -2,7 +2,7 @@
 title: "Larry Ellison"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Technology"
+ein: 943269827
+annual-revenue: "$179.4M"
+net-assets: "$192.2M"
+tax-year: "2023"
 ---
 
 #donor #mega-donor #oracle #tech #republican #government-contracts #class-analysis
@@ -155,3 +159,15 @@ content-readiness:: ready
 | SCALISE FOR CONGRESS | $1.7K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $179.4M |
+| Total Contributions | $0 |
+| Total Expenses | $54.7M |
+| Net Assets | $192.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 943269827](https://projects.propublica.org/nonprofits/organizations/943269827) (Tier 1)
+<!-- auto:propublica-990 end -->

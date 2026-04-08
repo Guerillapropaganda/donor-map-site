@@ -42,8 +42,10 @@ subawards-received: 50
 subawards-received-amount: 51876611853
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 related: "[[Palantir Technologies Political Operation]] · [[Roger Wicker]] · [[Rosa DeLauro]] · [[John Barrasso]] · [[Steve Scalise]] · [[Mike Rogers]] · [[Adam Smith]] · [[Booz Allen Hamilton]] · [[Raytheon Technologies]] · [[Boeing Defense]]"
+lobbying-spend: 2200000
+lobbying-filings: 50
 ---
 
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #iran #golden-dome #missiles #saudi-arabia #yemen #ukraine #f-35 #patriot #pac #fraud #stinger #tomahawk
@@ -496,3 +498,22 @@ content-readiness:: developed
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Raytheon%20(RTX%20Corporation)) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.2M |
+| Quarterly Filings | 50 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Defense, Government Issues, Taxation/Internal Revenue Code
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, AMERICAN DEFENSE INTERNATIONAL, INC., BGR GOVERNMENT AFFAIRS, C. BAKER CONSULTING, INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., J.A. GREEN AND COMPANY (FORMERLY LLC), THE ROOSEVELT GROUP
+
+**Agencies contacted:** Air Force, Dept of, Defense, Dept of (DOD), HOUSE OF REPRESENTATIVES, Natl Aeronautics & Space Administration (NASA), Navy, Dept of, SENATE, State, Dept of (DOS), Treasury, Dept of
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Raytheon%20(RTX%20Corporation)) (Tier 1)
+<!-- auto:lda-lobbying end -->

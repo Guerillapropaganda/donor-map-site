@@ -26,6 +26,27 @@ regulatory-agencies:
 lei: "549300N3L67TREKCRK89"
 lei-jurisdiction: "IE"
 lei-parent: "THE CHARLES SCHWAB CORPORATION"
+sec-filings: 10000
+sec-form-types:
+  - "11-K"
+  - "4"
+  - "485BXT"
+  - "497"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.5"
+  - "EX-10.E.6"
+  - "EX-99.77H CHNG CNTRL"
+  - "INFORMATION TABLE"
+  - "N-CEN"
+  - "PRE 14A"
+  - "SC 13D/A"
+  - "SC TO-I"
+  - "SC TO-I/A"
+  - "SC TO-T/A"
+  - "SCHEDULE 13G/A"
+  - "TA-1/A"
 ---
 
 #schwab #wall-street #brokerage #retirement #fiduciary #401k #retail-investing
@@ -157,3 +178,23 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 11-K, 4, 485BXT, 497, ARS, DEF 14A, DEFA14A, EX-10.5 +11 more |
+| CIK | 316709 |
+| Ticker | SCHW |
+
+**Notable filings:**
+
+- 2026-04-06 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/316709/000031670926000012/0000316709-26-000012-index.htm)
+- 2026-04-06 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/316709/000119312526142833/0001193125-26-142833-index.htm)
+- 2026-04-06 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/316709/000119312526142826/0001193125-26-142826-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/316709/000180418326000006/0001804183-26-000006-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/316709/000173992926000004/0001739929-26-000004-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Charles%20Schwab%22) (Tier 1)
+<!-- auto:sec-edgar end -->

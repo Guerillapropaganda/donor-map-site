@@ -36,6 +36,8 @@ regulatory-agencies:
   - "Labor Department"
   - "Veterans Employment and Training Service"
 related: "[[Duke Energy]]"
+top-federal-agency: "General Services Administration"
+top-naics-code: "221210"
 ---
 
 #southern-company #utility #georgia #nuclear #coal #monopoly #rate-base
@@ -167,3 +169,24 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Southern%20Company%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | General Services Administration ($19.1M) |
+| Primary NAICS Sector | Natural Gas Distribution |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| General Services Administration | $19.1M |
+| National Aeronautics and Space Administration | $5.9M |
+| Department of Defense | $3.4M |
+| Department of Health and Human Services | $3.1M |
+| Department of Homeland Security | $1.5M |
+| Department of Justice | $240K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

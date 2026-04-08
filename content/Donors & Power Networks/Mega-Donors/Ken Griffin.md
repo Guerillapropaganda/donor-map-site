@@ -8,10 +8,11 @@ parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
+  - "Kamala Harris"
   - "Donald Trump"
-  - "JD Vance"
   - "Mark Kelly"
-total-political-spend: "$34,008,251"
+  - "Sherrod Brown"
+total-political-spend: "$33,008,253"
 court-cases: 100
 last-enriched: "2026-04-07"
 court-jurisdictions:
@@ -32,6 +33,27 @@ annual-revenue: "$230K"
 net-assets: "$2.3M"
 tax-year: "2023"
 related: "[[Donald Trump Master Profile]] · [[Mark Kelly]]"
+sec-filings: 78
+sec-form-types:
+  - "20-F"
+  - "424B3"
+  - "424B5"
+  - "424B7"
+  - "425"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFM14A"
+  - "DFAN14A"
+  - "EX-10.73"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "EX-99.32"
+  - "F-1"
+  - "F-1/A"
+  - "F-4/A"
+  - "PART II AND III"
 ---
 
 #ken-griffin #citadel #hedge-fund #mega-donor #republican #Trump #DeSantis #libertarian
@@ -184,7 +206,7 @@ content-readiness:: ready
 <!-- auto:fec-donor start -->
 | Metric | Value |
 |--------|-------|
-| Total Political Spend | $34,008,251 |
+| Total Political Spend | $33,008,253 |
 | Contributions | 308 |
 
 **Top recipients:**
@@ -195,12 +217,30 @@ content-readiness:: ready
 | KEYSTONE RENEWAL PAC | $6,000,000 | — |
 | THE SENTINEL ACTION FUND | $4,000,000 | — |
 | CONGRESSIONAL LEADERSHIP FUND | $2,000,000 | — |
-| TRUMP VANCE INAUGURAL COMMITTEE, INC. | $1,000,000 | — |
 | BUCKEYE VALUES PAC | $1,000,000 | — |
 | WINRED | $2,133 | — |
 | HARRIS FOR PRESIDENT | $1,918 | DEM |
 | PRESTON FOR CONGRESS | $1,000 | DEM |
 | AMERICAN SUPPLY ASSOCIATION POLITICAL ACTION COMMITTEE | $1,000 | — |
+| HARRIS VICTORY FUND | $1,000 | — |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ken%20Griffin) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 78 |
+| Form Types | 20-F, 424B3, 424B5, 424B7, 425, 8-K, ARS, DEF 14A +11 more |
+
+**Notable filings:**
+
+- 2020-08-05 — **EX-99.3**: EXHIBIT 99.3
+- 2009-08-31 — **EX-99.32**: EX-99.32
+- 2017-12-04 — **8-K**: FORM 8K DATED NOVEMBER 29, 2017
+- 2007-12-04 — **EX-99.1**: EX-99.1
+- 2015-10-21 — **424B7**: 424B7
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ken%20Griffin%22) (Tier 1)
+<!-- auto:sec-edgar end -->

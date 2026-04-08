@@ -44,6 +44,30 @@ sec-form-types:
   - "S-1"
   - "S-1/A"
 related: "[[Pam Bondi Master Profile]] · [[Kyrsten Sinema Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Barack Obama Master Profile]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Dick Durbin]]"
+federal-register-mentions: 623
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Centers for Medicare & Medicaid Services"
+  - "Commerce Department"
+  - "Drug Enforcement Administration"
+  - "Environmental Protection Agency"
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
+  - "Industry and Security Bureau"
+  - "Justice Department"
+  - "National Institutes of Health"
+court-cases: 7107
+court-jurisdictions:
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, D. Maryland"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Minnesota"
+  - "District Court, D. New Jersey"
+  - "District Court, D. Rhode Island"
+  - "District Court, E.D. Arkansas"
+  - "District Court, E.D. Michigan"
 ---
 
 #pharma #pharmaceutical #lobbying #drug-pricing #bipartisan #medicare #negotiation #revolving-door #dark-money #class-analysis
@@ -251,3 +275,45 @@ content-readiness:: developed
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Pharmaceutical%20Industry%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 623 |
+| Final Rules | 140 |
+| Proposed Rules | 108 |
+| Notices | 372 |
+| Presidential Documents | 3 |
+| Agencies | Centers for Medicare & Medicaid Services, Commerce Department, Drug Enforcement Administration, Environmental Protection Agency, Food and Drug Administration, Health and Human Services Department, Industry and Security Bureau, Justice Department +1 more |
+
+**Recent regulatory activity:**
+- [Medicare Program; Contract Year 2027 and Certain Contract Year 2026 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Medicare Cost Plan Program](https://www.federalregister.gov/documents/2026/04/06/2026-06600/medicare-program-contract-year-2027-and-certain-contract-year-2026-policy-and-technical-changes-to) (2026-04-06) — Health and Human Services Department ★
+- [Office of the Director, Notice of Charter Renewal](https://www.federalregister.gov/documents/2026/03/24/2026-05694/office-of-the-director-notice-of-charter-renewal) (2026-03-24) — Health and Human Services Department
+- [Designation of Propionyl Chloride as a List I Chemical](https://www.federalregister.gov/documents/2026/03/10/2026-04657/designation-of-propionyl-chloride-as-a-list-i-chemical) (2026-03-10) — Justice Department
+- [Revising the National Drug Code Format and Drug Label Barcode Requirements](https://www.federalregister.gov/documents/2026/03/05/2026-04368/revising-the-national-drug-code-format-and-drug-label-barcode-requirements) (2026-03-05) — Health and Human Services Department
+- [New Clinical Investigation Exclusivity (3-Year Exclusivity) for Drug Products: Questions and Answers; Draft Guidance for Industry; Availability; Agency Information Collection Activities; Proposed Collection; Comment Request](https://www.federalregister.gov/documents/2026/03/04/2026-04291/new-clinical-investigation-exclusivity-3-year-exclusivity-for-drug-products-questions-and-answers) (2026-03-04) — Health and Human Services Department
+- [Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Emerging Drug Safety Technology Program](https://www.federalregister.gov/documents/2026/02/18/2026-03093/agency-information-collection-activities-submission-for-office-of-management-and-budget-review) (2026-02-18) — Health and Human Services Department
+- ... and 617 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Pharmaceutical%20Industry%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 7,107 |
+| Courts | Court of Appeals for the Eighth Circuit, Court of Appeals for the Third Circuit, District Court, D. Delaware, District Court, D. Maryland, District Court, D. Massachusetts, District Court, D. Minnesota, District Court, D. New Jersey, District Court, D. Rhode Island +7 more |
+| Case Types | 367 P.I.: Health Care/Pharmaceutical Personal Injury Product Liability, 890 Other Statutory Actions, 893 Environmental Matters, 950 Constitutional - State Statute |
+
+**Notable cases:**
+- Techteryx Ltd v. For an Order to Take Discovery for Use in Foreign Proceedings (2026) — District Court, W.D. Oklahoma
+- Barone v. Tempus AI, Inc. (2026) — District Court, N.D. Illinois
+- TinRx Holding Company, Inc. v. CVS Pharmacy, Inc. (2026) — District Court, D. Rhode Island
+- WILLINGBORO MUNICIPAL UTILITIES AUTHORITY v. METHODE ELECTRONICS INC. (2026) — District Court, D. New Jersey
+- AbbVie Inc v. Brown (2026) — District Court, W.D. Washington
+- Praznik v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pharmaceutical%20Industry%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

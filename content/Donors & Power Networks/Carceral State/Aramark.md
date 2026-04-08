@@ -2,7 +2,7 @@
 title: "Aramark"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -12,7 +12,7 @@ annual-revenue: "$1.8M"
 net-assets: "$1.2M"
 tax-year: "2023"
 court-cases: 12414
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"
   - "District Court, D. New Jersey"
@@ -78,6 +78,8 @@ regulatory-agencies:
 federal-awards-total: 5386278
 federal-contracts-count: 25
 federal-grants-count: 0
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 
@@ -256,3 +258,21 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/51228162-3071-aad7-ea2a-2d3d08d780eb-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Aramark) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

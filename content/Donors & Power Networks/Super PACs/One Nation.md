@@ -36,6 +36,17 @@ court-jurisdictions:
   - "District Court, D. Arizona"
   - "District Court, D. Idaho"
 related: "[[Janet Mills Master Profile]]"
+sec-filings: 7585
+sec-form-types:
+  - "10KSB"
+  - "425"
+  - "497K3B"
+  - "D"
+  - "EX-5.1"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.D.1"
 ---
 
 #one-nation #mcconnell #dark-money #501c4 #senate-races #donor-secrecy
@@ -146,3 +157,21 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22One%20Nation%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 7,585 |
+| Form Types | 10KSB, 425, 497K3B, D, EX-5.1, EX-99, EX-99.1, EX-99.2 +1 more |
+
+**Notable filings:**
+
+- 2002-02-27 — **425**: FORM 425
+- 2002-02-27 — **425**: FORM 425
+- 2002-07-19 — **425**: FORM 425
+- 2002-02-27 — **425**: FORM 425
+- 2002-07-24 — **425**: FORM 425
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22One%20Nation%22) (Tier 1)
+<!-- auto:sec-edgar end -->

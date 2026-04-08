@@ -14,6 +14,8 @@ issues:
   - "Israel & Foreign Policy"
 total-political-spend: "$707"
 related: "[[Schwarzman and Singer Fund Every Republican Faction]] · [[Mitt Romney]]"
+lei: "SUHPWJ4TBNAH1YMQM073"
+lei-jurisdiction: "US-DE"
 ---
 
 #hedge-fund #paul-singer #republican #national-security #war-hawk #fossil-fuel #israel #neoconservative #scotus #activist-investor #class-analysis #follow-the-money
@@ -200,3 +202,18 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Elliott%20Management) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [SUHPWJ4TBNAH1YMQM073](https://search.gleif.org/#/record/SUHPWJ4TBNAH1YMQM073) |
+| Legal Name | ELLIOTT MANAGEMENT CORPORATION |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-04-09T18:28:18Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

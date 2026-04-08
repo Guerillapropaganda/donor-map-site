@@ -32,6 +32,8 @@ annual-revenue: "$17.2M"
 net-assets: "$26.7M"
 tax-year: "2023"
 related: "[[Kathy Hochul]]"
+lobbying-spend: 32210838
+lobbying-filings: 101
 ---
 
 #real-estate-lobby #nyc-politics #zoning #housing-policy #developer-power #class-analysis #follow-the-money
@@ -231,3 +233,22 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 131201480](https://projects.propublica.org/nonprofits/organizations/131201480) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $32.2M |
+| Quarterly Filings | 101 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 39 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Computer Industry, Consumer Issues/Safety/Products, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Insurance, Labor Issues/Antitrust/Workplace, Manufacturing, Marine/Maritime/Boating/Fisheries, Natural Resources, Railroads, Real Estate/Land Use/Conservation, Roads/Highway, Science/Technology, Small Business, Taxation/Internal Revenue Code, Transportation, Travel/Tourism, Trucking/Shipping, Urban Development/Municipalities, Veterans
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, AMERICAN CAPITOL GROUP, ANYWHERE REAL ESTATE INC., ARENTFOX SCHIFF LLP, BALLARD PARTNERS, BANNER PUBLIC AFFAIRS, LLC, BECKER & POLIAKOFF, P.A., BROWNSTEIN HYATT FARBER SCHRECK, LLP, BROYDRICK & ASSOCIATES, BURRELL INTERNATIONAL GROUP LLC, CALIFORNIA ASSOCIATION OF REALTORS, CAPITOL COUNSEL LLC, COMMERCIAL REAL ESTATE FINANCE COUNCIL, ELITE REAL ESTATE & FINANCE LLC, FEDERAL POLICY GROUP, LLC, FORBES-TATE, GRASSROOTS POLITICAL CONSULTING LLC, HARVEY RUN STRATEGIES LLC, ICE MILLER STRATEGIES LLC, INSTITUTE OF REAL ESTATE MANAGEMENT, JAY B. LEVIN, LEVIN,PAOLINO & CHRIST GOVENMENT REALTIONS CONSULTING, LEAVITT PARTNERS, LLC, MARSHALL BRACHMAN, MR. JEFFREY SCHERMERHORN, NATIONAL ASSOCIATION OF REALTORS, NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC), PATTERSON REAL BIRD & RASMUSSEN LLP, POLARIS GOVERNMENT RELATIONS, LLC, REAL ESTATE ROUNDTABLE, REAL ESTATE SERVICES PROVIDERS COUNCIL, INC., SCHOENING STRATEGIES, SQUIRE PATTON BOGGS, STRATEGIC CONGRESSIONAL AND GOVERNMENTAL SOLUTIONS, LLC, THE CONAFAY GROUP, LLC, THE VOGEL GROUP, TIBER CREEK GROUP, TROUTMAN STATEGIES, VENABLE LLP, WINN STRATEGIES, LLC
+
+**Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Indian Affairs (BIA), Bureau of Land Management (BLM), Bureau of Reclamation, Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Director of National Intelligence (ODNI), Energy, Dept of +39 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Real%20Estate%20Board%20of%20New%20York) (Tier 1)
+<!-- auto:lda-lobbying end -->

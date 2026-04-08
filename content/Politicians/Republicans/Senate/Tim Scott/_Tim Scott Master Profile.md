@@ -22,6 +22,8 @@ top-donors:
 bioguide-id: "A000383"
 related: "[[Bank of America]] · [[John Cornyn]]"
 donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]]"
+total-received: "$1,539"
+fec-candidate-id: "P80008063"
 ---
 
 #master-profile #republican #senate #south-carolina #opportunity-zones #corporate-donor #presidential #banking-committee #crypto #wall-street #israel-lobby
@@ -186,3 +188,14 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $1,539 |
+| Cash on Hand | 1209.41 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
+<!-- auto:fec-politician end -->

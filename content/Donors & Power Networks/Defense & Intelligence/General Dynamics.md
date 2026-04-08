@@ -228,3 +228,35 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $4.2B |
+| Contracts (recent 3yr) | 25 ($46.0B sampled) |
+| Grants (recent 3yr) | 7 ($223.5M sampled) |
+| Federal Agencies | 5 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $5.8B | Department of Defense | DETAIL DESIGN AND CONSTRUCTION (DD&C) FOR T-AO 205 |
+| $5.3B | Department of Defense | FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION |
+| $5.0B | Department of Defense | CONSTRUCTION OF DDG 51 SHIPS FY23-27 |
+| $4.9B | Department of Defense | FY13-FY17 DDG 51 CLASS SHIP CONSTRUCTION. |
+| $2.6B | Department of Defense | DDG 1001/1002 CONSTRUCTION AND FY11 CLASS SERVICES |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $213.6M | Department of Defense | COOPERATIVE AGREEMENT FOR ROBOTICS COLLABORATIVE TECHNOLOGY ALLIANCE (RCTA) |
+| $3.4M | Department of Defense | TREATMENT OPTIMIZATION OF BRAIN-INJURED WARFIGHTERS: A PRESCRIBED SUB-SYMPTOMATIC EXERCISE TREATMENT |
+| $2.3M | Department of Defense | REMOTELY SUPERVISED TDCS COMBINED WITH COGNITIVE TRAINING TO IMPROVE COMPLEX ATTENTION IN ACTIVE-DUT |
+| $1.8M | Department of Defense | VALIDATION OF COGNITIVE ENHANCEMENT TECHNIQUES FOR MILD TRAUMATIC BRAIN INJURY (VOCET-MTBI). |
+| $1.2M | Department of Defense | TREATMENT INTERVENTIONS FOR THE MENTAL HEALTH NEEDS OF WARFIGHTERS WITH TRAUMATIC BRAIN INJURY (TIME |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/455555be-773d-eab1-1e6b-7b94400b757e-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

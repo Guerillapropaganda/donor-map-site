@@ -35,6 +35,19 @@ sec-form-types:
   - "SC 13G"
   - "SC TO-C"
 related: "[[Betty Yee Master Profile]] · [[The Controller Record and the Fiscal Accountability Question]] · [[CalSTRS - California State Teachers' Retirement System]]"
+court-cases: 1381
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Maine"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Nevada"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. California"
 ---
 
 #calpers #pension #california #public-employees #wall-street #private-equity #investment #lobbying #placement-agents #corruption #class-analysis #follow-the-money
@@ -245,3 +258,22 @@ content-readiness:: developed
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CalPERS%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,381 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, C.D. California, District Court, D. Maine, District Court, D. Massachusetts, District Court, D. Nevada, District Court, District of Columbia, District Court, E.D. California, District Court, N.D. California +7 more |
+| Case Types | 830 Patent, 899 Administrative Procedure Act/Review or Appeal of Agency Decision, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute |
+
+**Notable cases:**
+- Angel Mendoza and Charles Love (2026) — United States Bankruptcy Court, C.D. California
+- Ernest Mario Savedra (2026) — United States Bankruptcy Court, C.D. California
+- AbbVie Inc v. Brown (2026) — District Court, W.D. Washington
+- Sandy Pines, LLC (2026) — United States Bankruptcy Court, D. Maine
+- American Public Health Association v. EPA (2026) — Court of Appeals for the D.C. Circuit
+- State of Illinois v. Vought (2026) — District Court, N.D. Illinois
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CalPERS%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

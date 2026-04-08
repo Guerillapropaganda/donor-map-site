@@ -42,6 +42,12 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]]"
+subawards-issued: 9
+subawards-issued-amount: 912260
+subawards-received: 9
+subawards-received-amount: 912260
+top-federal-agency: "Department of Defense"
+top-naics-code: "522110"
 ---
 
 #bank-of-america #wall-street #banking #too-big-to-fail #consumer-finance #lobbying #mortgage
@@ -183,3 +189,28 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Bank%20of%20America%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 9 ($912K sampled) |
+| Subawards Received (as sub) | 9 ($912K sampled) |
+| Top Federal Agency | Department of Defense ($12.4M) |
+| Primary NAICS Sector | Commercial Banking |
+
+**Subcontractors receiving federal money from Bank of America:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| BANK OF AMERICA, N.A | $570K | 5 |
+| BANK OF AMERICA, NATIONAL ASSOCIATION | $342K | 4 |
+
+**Prime contractors funneling federal money to Bank of America:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| CGI FEDERAL INC. | $912K | 9 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

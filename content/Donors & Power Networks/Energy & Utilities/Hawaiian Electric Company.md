@@ -9,7 +9,7 @@ sector: "Energy & Utilities"
 entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 ein: "990230697"
 nonprofit-status: "501(c)(3)"
 total-revenue: 240019
@@ -20,6 +20,18 @@ lei: "549300PQE8D806LWQV52"
 lei-jurisdiction: "US-HI"
 lei-parent: "HAWAIIAN ELECTRIC INDUSTRIES, INC."
 related: "[[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Josh Green Master Profile]]"
+federal-register-mentions: 25
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Army Department"
+  - "Coast Guard"
+  - "Defense Department"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Energy Regulatory Commission"
+  - "Fish and Wildlife Service"
+  - "Homeland Security Department"
+  - "Interior Department"
 ---
 
 #hawaiian-electric #heco #hawaii #maui #wildfire #utility #energy #monopoly
@@ -154,3 +166,25 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 25 |
+| Final Rules | 4 |
+| Proposed Rules | 5 |
+| Notices | 16 |
+| Agencies | Antitrust Division, Army Department, Coast Guard, Defense Department, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Fish and Wildlife Service +5 more |
+
+**Recent regulatory activity:**
+- [Partial Approval and Partial Disapproval of Air Quality Implementation Plans; Hawaii; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.federalregister.gov/documents/2026/02/17/2026-03072/partial-approval-and-partial-disapproval-of-air-quality-implementation-plans-hawaii-regional-haze) (2026-02-17) — Environmental Protection Agency
+- [National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units Review of the Residual Risk and Technology Review](https://www.federalregister.gov/documents/2023/04/24/2023-07383/national-emission-standards-for-hazardous-air-pollutants-coal--and-oil-fired-electric-utility-steam) (2023-04-24) — Environmental Protection Agency
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The Open Group, L.L.C.](https://www.federalregister.gov/documents/2021/03/10/2021-04959/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-open-group-llc) (2021-03-10) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The Open Group, L.L.C.](https://www.federalregister.gov/documents/2020/02/27/2020-03979/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-open-group-llc) (2020-02-27) — Justice Department
+- [Pipeline Safety: Request for Special Permit-Hawaiian Electric Company, Inc.](https://www.federalregister.gov/documents/2018/05/25/2018-11333/pipeline-safety-request-for-special-permit-hawaiian-electric-company-inc) (2018-05-25) — Transportation Department
+- [Record of Decision for the Schofield Generating Station Project Final Environmental Impact Statement, United States Army Garrison-Hawaii](https://www.federalregister.gov/documents/2016/02/05/2016-02041/record-of-decision-for-the-schofield-generating-station-project-final-environmental-impact-statement) (2016-02-05) — Defense Department
+- ... and 19 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Hawaiian%20Electric%20Company%22) (Tier 1)
+<!-- auto:federal-register end -->

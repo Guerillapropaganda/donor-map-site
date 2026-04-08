@@ -21,6 +21,25 @@ court-jurisdictions:
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. Texas"
 related: "[[WSPA - Western States Petroleum Association]] · [[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]]"
+sec-filings: 19
+sec-form-types:
+  - "10-K"
+  - "424B2"
+  - "424B3"
+  - "424B4"
+  - "424H"
+  - "DEF 14A"
+  - "DEFM14A"
+  - "DRS/A"
+  - "F-4"
+  - "F-4/A"
+  - "FWP"
+  - "PREM14A"
+  - "PRER14A"
+  - "S-1"
+  - "S-1/A"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #hbw-resources #lobbying #energy #fossil-fuel #astroturf #front-group #lng #consumer-energy-alliance #western-states-tribal-nations #oil-gas #influence #dark-money
@@ -182,3 +201,39 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22HBW%20Resources%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 19 |
+| Form Types | 10-K, 424B2, 424B3, 424B4, 424H, DEF 14A, DEFM14A, DRS/A +7 more |
+
+**Notable filings:**
+
+- 2019-12-09 — **DEF 14A**: PROXY STATEMENT
+- 2018-02-20 — **S-1**: S-1
+- 2018-03-16 — **424B4**: 424B4
+- 2017-12-13 — **DRS/A**: DRS/A
+- 2018-01-30 — **DRS/A**: DRS/A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22HBW%20Resources%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=HBW%20Resources) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

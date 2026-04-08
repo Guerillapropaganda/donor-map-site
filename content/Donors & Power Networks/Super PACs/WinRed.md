@@ -18,6 +18,10 @@ last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Federal Election Commission"
 related: "[[Trump Victory]] · [[The Culture War Economy and Small Dollar Fundraising]]"
+sec-filings: 2
+sec-form-types:
+  - "10-K"
+  - "EX-10"
 ---
 
 #winred #republican #fundraising #small-dollar #dark-patterns #online
@@ -84,3 +88,18 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22WinRed%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 2 |
+| Form Types | 10-K, EX-10 |
+
+**Notable filings:**
+
+- 2005-07-01 — **EX-10**: GIANT INDUSTRIES, INC. FORM 8-K EXHIBIT 10.1
+- 2026-03-17 — **10-K**: 10-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22WinRed%22) (Tier 1)
+<!-- auto:sec-edgar end -->

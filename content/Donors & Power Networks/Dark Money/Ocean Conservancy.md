@@ -25,6 +25,10 @@ regulatory-agencies:
   - "Regulatory Information Service Center"
   - "Securities and Exchange Commission"
 related: "[[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Sheldon Whitehouse]]"
+ein: 237245152
+annual-revenue: "$48.6M"
+net-assets: "$96.1M"
+tax-year: "2023"
 ---
 
 #ocean-conservancy #environment #nonprofit #conservation #fishing #plastics #dark-money #corporate-capture #greenwashing
@@ -237,3 +241,18 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Ocean%20Conservancy%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $48.6M |
+| Total Contributions | $47.1M |
+| Investment Income | $1.1M |
+| Total Expenses | $51.9M |
+| Net Assets | $96.1M |
+| Officer Compensation | $2.4M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 237245152](https://projects.propublica.org/nonprofits/organizations/237245152) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2024_prefixes_20-27%2F237245152_202306_990_2024031222312055.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

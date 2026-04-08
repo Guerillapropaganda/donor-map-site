@@ -408,3 +408,22 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 21,890 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, D. Arizona, District Court, D. Connecticut, District Court, D. Delaware, District Court, D. New Jersey, District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, E.D. Texas +6 more |
+| Case Types | 880 Defend Trade Secrets Act (of 2016), 890 Other Statutory Actions, Airplane |
+
+**Notable cases:**
+- Jones v. Lockheed Martin Corporation (2026) — District Court, D. Delaware
+- Town of Wadesboro v. 3M Company (2026) — District Court, W.D. North Carolina
+- United States v. BROWN (2026) — District Court, District of Columbia
+- United States v. Amarillas (2026) — District Court, D. Arizona
+- State of Texas v. Snap Inc. (2026) — District Court, E.D. Texas
+- Artis v. Sikorsky Aircraft Corporation (2026) — District Court, D. Connecticut
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lockheed%20Martin%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

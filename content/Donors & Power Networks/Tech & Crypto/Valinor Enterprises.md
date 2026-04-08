@@ -2,13 +2,16 @@
 title: "Valinor Enterprises"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Corporation"
 politicians-funded:
   - "JD Vance"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-08"
 ---
 
 
@@ -134,3 +137,21 @@ The Thiel network builds defense companies. The Thiel network funds politicians 
 - [Fortune: Peter Thiel's protégés: a common thread runs through Trump's tech team](https://fortune.com/2025/05/21/peter-thiel-silicon-valley-trump-administration-elon-musk-jd-vance/) (Tier 2)
 
 content-readiness:: ready
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Valinor%20Enterprises) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

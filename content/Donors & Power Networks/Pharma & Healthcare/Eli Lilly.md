@@ -39,6 +39,40 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Merck]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Koch Industries]]"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "144"
+  - "4"
+  - "4/A"
+  - "424B2"
+  - "425"
+  - "8-K"
+  - "8-K/A"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-1"
+  - "EX-10.128"
+  - "EX-10.15"
+  - "EX-10.16"
+  - "EX-10.25"
+  - "EX-10.59"
+  - "EX-10.6"
+  - "EX-21"
+  - "EX-8.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "EX-99.4"
+  - "NPORT-P"
+  - "PRE 14A"
+  - "PX14A6G"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SC TO-I/A"
+  - "SC TO-T"
+  - "SC14D9C"
+  - "SCHEDULE 13G/A"
 ---
 
 #donor-node #lilly #pharma #insulin #drug-pricing #indiana #diabetes #weight-loss #glp1 #lobbying #class-analysis #follow-the-money
@@ -340,3 +374,23 @@ content-readiness:: developed
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Eli%20Lilly%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 144, 4, 4/A, 424B2, 425, 8-K, 8-K/A +24 more |
+| CIK | 59478 |
+| Ticker | LLY |
+
+**Notable filings:**
+
+- 2026-03-31 — **DFAN14A**: [DFAN14A](https://www.sec.gov/Archives/edgar/data/59478/000119312526133360/0001193125-26-133360-index.htm)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/59478/000010290926001113/0000102909-26-001113-index.htm)
+- 2026-03-20 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/59478/000005947826000031/0000059478-26-000031-index.htm)
+- 2026-03-20 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/0000059478-26-000029-index.htm)
+- 2026-03-17 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/59478/000126238826000006/0001262388-26-000006-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Eli%20Lilly%22) (Tier 1)
+<!-- auto:sec-edgar end -->

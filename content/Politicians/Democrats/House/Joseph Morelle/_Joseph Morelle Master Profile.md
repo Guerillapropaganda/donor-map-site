@@ -2,7 +2,7 @@
 title: "Joseph Morelle Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,6 +14,8 @@ issues:
   - "Voting Rights"
 top-donors:
   - "Labor Unions"
+total-received: "$1,130,491"
+fec-candidate-id: "H8NY25105"
 ---
 
 
@@ -124,3 +126,38 @@ party:: Democrat
 profile-status:: ready
 research-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,130,491 |
+| Individual Contributions | $350,565 |
+| PAC Contributions | $561,400 |
+| Cash on Hand | 630309.86 |
+| IE Support (Super PAC) | $65,403 |
+| IE Opposition (Super PAC) | $33,050 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,130,491 | $350,565 | $561,400 |
+| 2024 | $2,154,065 | $438,977 | $1,167,378 |
+| 2022 | $2,251,296 | $820,981 | $1,288,152 |
+| 2020 | $1,417,965 | $424,700 | $864,891 |
+| 2018 | $1,896,368 | $930,719 | $863,575 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| OPPORTUNITY FOR ALL ACTION FUND | $64,370 | $0 |
+| CONGRESSIONAL LEADERSHIP FUND | $0 | $33,050 |
+| TOGETHER WE THRIVE | $750 | $0 |
+| PLANNED PARENTHOOD VOTES | $195 | $0 |
+| NEA ADVOCACY FUND | $68 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY25105/) (Tier 1)
+<!-- auto:fec-politician end -->

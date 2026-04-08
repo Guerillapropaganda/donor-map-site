@@ -8,10 +8,12 @@ parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 court-cases: 2
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, S.D. New York"
 related: "[[Fanjul Family - Florida Crystals]]"
+ein: "933113620"
+nonprofit-status: "501(c)(3)"
 ---
 
 #pac #leadership-pac #republican #rubio #trump #class-analysis #follow-the-money
@@ -115,3 +117,16 @@ content-readiness:: draft
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Reclaim%20America%20PAC%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 933113620 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | G01 |
+| IRS Ruling Date | 2024-04-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/933113620) (Tier 1)
+<!-- auto:nonprofit-990 end -->

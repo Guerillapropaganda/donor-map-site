@@ -17,7 +17,7 @@ top-federal-agency: "Department of Agriculture"
 top-naics-code: "331110"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 federal-awards-total: 0
 federal-contracts-count: 1
 federal-grants-count: 1

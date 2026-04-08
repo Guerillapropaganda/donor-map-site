@@ -28,6 +28,19 @@ sec-form-types:
   - "N-CSRS"
 total-political-spend: "$469,350"
 related: "[[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Tim Geithner Political Operation]]"
+court-cases: 46
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "Court of Appeals for the Fourth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Colorado"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. New Mexico"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, N.D. California"
+  - "District Court, S.D. California"
 ---
 
 #donor #revolving-door #wall-street #treasury #warburg-pincus #bailout #financial-crisis #class-analysis #follow-the-money
@@ -216,3 +229,22 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tim%20Geithner) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 46 |
+| Courts | Court of Appeals for the Fourth Circuit, District Court, C.D. California, District Court, D. Colorado, District Court, D. Massachusetts, District Court, D. New Mexico, District Court, District of Columbia, District Court, E.D. Michigan, District Court, E.D. Pennsylvania +4 more |
+| Case Types | 290 Real Property: Other, 3830 Patent, 410 Anti-Trust, 410 Antitrust, 470 Racketeer/Corrupt Organization |
+
+**Notable cases:**
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- WANLESS v. YELLEN (2023) — District Court, District of Columbia
+- Golden v. Qualcomm, Inc. (2022) — District Court, N.D. California
+- Redmond v. United States (2022) — District Court, N.D. California
+- Jenkins-Bey v. Deutsche Bank National Trust Company (2021) — District Court, S.D. Florida
+- Larry Golden v. Apple, Inc. (2021) — Court of Appeals for the Fourth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tim%20Geithner%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

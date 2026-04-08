@@ -2,7 +2,7 @@
 title: "Antonio Villaraigosa Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,6 +14,7 @@ issues:
 top-donors:
   - "California Building and Construction Trades Council"
   - "California Apartment Association"
+bioguide-id: "A000383"
 ---
 
 
@@ -175,3 +176,10 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

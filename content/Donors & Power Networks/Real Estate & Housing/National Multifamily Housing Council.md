@@ -14,6 +14,21 @@ annual-revenue: "$26.6M"
 net-assets: "$20.2M"
 tax-year: "2023"
 related: "[[Blackstone Real Estate]]"
+sec-filings: 1236
+sec-form-types:
+  - "1-U"
+  - "10-K/A"
+  - "425"
+  - "497"
+  - "8-K"
+  - "8-K/A"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX1A-13 TST WTRS"
+  - "FWP"
+  - "PRE 14A"
 ---
 
 #donor #real-estate #housing #trade-association #multifamily #bipartisan #lobbying #class-analysis #follow-the-money
@@ -107,3 +122,21 @@ content-readiness:: draft
 - [Source: ProPublica Nonprofit Explorer — EIN 521127504](https://projects.propublica.org/nonprofits/organizations/521127504) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F521127504_202306_990O_2024061722535196.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,236 |
+| Form Types | 1-U, 10-K/A, 425, 497, 8-K, 8-K/A, DEF 14A, DEFA14A +5 more |
+
+**Notable filings:**
+
+- 2014-12-29 — **EX-99.1**: EXHIBIT 99.1 PDF
+- 2014-12-29 — **EX-99.1**: EXHIBIT 99.1
+- 2014-12-29 — **DEFA14A**: DEFA14A
+- 2016-02-02 — **EX-99.1**: EX-99.1
+- 2023-12-13 — **EX-99.1**: EX-99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Multifamily%20Housing%20Council%22) (Tier 1)
+<!-- auto:sec-edgar end -->

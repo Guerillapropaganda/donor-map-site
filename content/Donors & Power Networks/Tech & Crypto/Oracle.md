@@ -26,6 +26,9 @@ subawards-received-amount: 281107145
 top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "541512"
 related: "[[The Judiciary Committee and Libertarian Constitutionalism]]"
+federal-awards-total: 1133627862
+federal-contracts-count: 25
+federal-grants-count: 3
 ---
 
 #oracle #tech #cloud #government-contracts #lobbying #larry-ellison #tiktok
@@ -166,3 +169,33 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $1.1B |
+| Contracts (recent 3yr) | 25 ($6.9B sampled) |
+| Grants (recent 3yr) | 3 ($74K sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $1.3B | Department of Veterans Affairs | IGF::OT::IGF TASK ORDER 36C10B18N0003 UNDER IDIQ CONTRACT 36C10B18D5000 FOR OPERATIONAL MANAGEMENT S |
+| $995.1M | Department of Veterans Affairs | EHRM WAVES K, L, M (VISN 23) AND N, O (VISN 15) DEPLOYMENTS |
+| $516.3M | Department of Veterans Affairs | IGF::OT::IGF   AWARD OF TASK ORDER 0008 TO OEHRM ID/IQ - ADDITIONAL INTERFACES |
+| $468.7M | Department of Veterans Affairs | EHRM OPERATIONS |
+| $423.2M | Department of Veterans Affairs | AWARD FOR WAVES H, J, AND J DEPLOYMENTS. |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $37K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
+| $19K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
+| $17K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/c406663e-71aa-fbe3-4678-97f901f9fee6-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

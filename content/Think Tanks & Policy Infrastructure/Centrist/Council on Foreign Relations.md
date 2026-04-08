@@ -26,6 +26,19 @@ total-revenue: 173497100
 total-assets: 755521700
 lei: "5493002I685OPNH25F86"
 lei-jurisdiction: "US-NY"
+sec-filings: 10000
+sec-form-types:
+  - "10-K/A"
+  - "3"
+  - "497"
+  - "8-K"
+  - "DEF 14A"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.9"
+  - "N-30D"
+  - "SC 13D/A"
 ---
 
 #think-tank #centrist #foreign-policy #defense #wall-street #revolving-door #idea-laundering #bipartisan-credibility-shield
@@ -296,3 +309,21 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K/A, 3, 497, 8-K, DEF 14A, EX-99, EX-99.1, EX-99.2 +3 more |
+
+**Notable filings:**
+
+- 2004-09-23 — **8-K**: BOARD OF DIRECTORS
+- 2010-03-16 — **EX-99.1**: EXHIBIT 99.1
+- 2010-03-12 — **EX-99.1**: PRESS RELEASE
+- 2017-11-03 — **EX-99.1**: EXHIBIT 99.1
+- 2015-10-15 — **EX-99.1**: EXHIBIT 99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Council%20on%20Foreign%20Relations%22) (Tier 1)
+<!-- auto:sec-edgar end -->

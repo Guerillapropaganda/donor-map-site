@@ -15,13 +15,23 @@ annual-revenue: "$267.6M"
 net-assets: "$122.9M"
 tax-year: "2023"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 ofac-programs:
   - "RUSSIA-EO14024"
 nonprofit-status: "501(c)(6)"
 total-revenue: 268010806
 total-assets: 109879063
 related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Republican Party Apparatus]]"
+total-political-spend: "$24,891,220"
+politicians-funded:
+  - "Steve Scalise"
+  - "Henry Cuellar"
+  - "John Barrasso"
+  - "Mike Johnson"
+  - "Ron Johnson"
+  - "Kevin McCarthy"
+  - "Martin Heinrich"
+  - "Bruce Westerman"
 ---
 
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money
@@ -699,3 +709,47 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,749 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, District of Columbia, District Court, E.D. California, District Court, W.D. Michigan, District Court, W.D. Washington +1 more |
+| Case Types | 890 Other Statutory Actions, 899 Administrative Procedure Act/Review or Appeal of Agency Decision, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- HEALTHY GULF v. BURGUM (2026) — District Court, District of Columbia
+- Commonwealth of Massachusetts v. EPA (2026) — Court of Appeals for the D.C. Circuit
+- American Petroleum Institute v. EPA (2026) — Court of Appeals for the D.C. Circuit
+- Sable Offshore Corp. v. Armando Quintero (2026) — District Court, C.D. California
+- Service Employees International Union v. EPA (2026) — Court of Appeals for the D.C. Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Petroleum%20Institute%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $24,891,220 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SENATE LEADERSHIP FUND | $12,500,000 | — |
+| CONGRESSIONAL LEADERSHIP FUND | $8,000,000 | — |
+| SLF PAC | $2,000,000 | — |
+| CLT HOST 2020 INC | $1,500,000 | REP |
+| BLUE DOG POLITICAL ACTION COMMITTEE | $30,000 | — |
+| VICENTE GONZALEZ FOR CONGRESS | $20,000 | DEM |
+| SCALISE FOR CONGRESS | $20,000 | REP |
+| SCALISE LEADERSHIP FUND | $20,000 | — |
+| NEW DEMOCRAT COALITION ACTION FUND | $20,000 | — |
+| TEXANS FOR HENRY CUELLAR CONGRESSIONAL CAMPAIGN | $19,500 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Petroleum%20Institute) (Tier 1)
+<!-- auto:fec-donor end -->

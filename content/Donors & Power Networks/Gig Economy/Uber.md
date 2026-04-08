@@ -88,6 +88,10 @@ subawards-received-amount: 35631187
 top-federal-agency: "Department of Defense"
 top-naics-code: "238910"
 related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Fossil Fuel Bloc]] · [[GEO Group - Private Prison Industrial Complex]] · [[CoreCivic]]"
+federal-awards-total: 1913339677
+federal-contracts-count: 25
+federal-grants-count: 25
+cpsc-recalls: 1
 ---
 
 
@@ -405,3 +409,50 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $1.9B |
+| Contracts (recent 3yr) | 25 ($86.6M sampled) |
+| Grants (recent 3yr) | 25 ($168.5M sampled) |
+| Federal Agencies | 14 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $29.7M | Pension Benefit Guaranty Corporation | IGF::OT::IGF INVESTMENT MANAGEMENT SERVICES |
+| $17.6M | Department of Defense | FY22 BRAGG  DEMO OF 12 VOLAR BARRACKS |
+| $10.6M | Department of Health and Human Services | ARPA-H SERVICE DESK AND DESKTOP SUPPORT |
+| $7.9M | Department of Defense | BLDG. 9200 MAIN HOSPITAL BUILDING |
+| $2.9M | Consumer Financial Protection Bureau | FINANCIAL MANAGEMENT SUPPORT SERVICES |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $41.1M | Agency for International Development | FIVE  YEAR COOPERATIVE AGREEMENT TO IMPLEMENT COMPREHENSIVE TB CASE FINDING, CARE AND TREATMENT |
+| $38.3M | Department of State | TO FUND THE PURCHASE OF LENACAPAVIR FOR PREP THROUGH WAMBO.ORG FOR DOS / GHSD-FINANCED BENEFICIARIES |
+| $30.3M | Agency for International Development | AWARD TO IRD FOR DELIVERING A COMPREHENSIVE PACKAGE OF SERVICES TO END TB. |
+| $15.0M | Agency for International Development | IDEFEAT TB - INSTITUTIONAL STRENGTHENING TO ACCELERATE ACTIONS FOR TB AND DRUG-RESISTANT TB IN INDIA |
+| $9.8M | Agency for International Development | TO ADVANCE SOUTH AFRICA’S EFFORTS TOWARD TIMELY ACHIEVEMENT OF TB ELIMINATION TARGETS, AS PER THE NA |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/3460c0b7-631b-b70f-4a8a-1dadb59cc731-R/latest) (Tier 1)
+<!-- auto:usaspending end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 1 |
+| Most Recent Recall | 2018-10-01 |
+| Hazard Types | The packaging is not child resistant as required by the Poison Prevention Packaging Act. The pain relieving cream and spray contain lidocaine, posing a risk of poisoning to young children if they put it on their skin or ingest it. |
+
+**Recent recalls:**
+
+- [UberScientific Recalls Topical Anesthetic Due to Failure to Meet Child Resistant Closure Requirement; Risk of Poisoning](https://www.cpsc.gov/Recalls/19001) (2018-10-01) — The packaging is not child resistant as required by the Poison Prevention Packaging Act. The pain relieving cream and spray contain lidocaine, posing a risk of poisoning to young children if they put it on their skin or ingest it.
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Uber) (Tier 1)
+<!-- auto:cpsc-recalls end -->

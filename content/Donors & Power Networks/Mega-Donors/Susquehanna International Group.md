@@ -17,6 +17,8 @@ last-enriched: "2026-04-06"
 regulatory-agencies:
   - "Securities and Exchange Commission"
 related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
+lei: "549300UHLZVQ1CWNT812"
+lei-jurisdiction: "US-DE"
 ---
 
 #donor #mega-donor #sig #susquehanna #jeff-yass #trading #crypto #tiktok #libertarian #school-choice #republican #class-analysis #follow-the-money
@@ -189,3 +191,18 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Susquehanna%20International%20Group%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300UHLZVQ1CWNT812](https://search.gleif.org/#/record/549300UHLZVQ1CWNT812) |
+| Legal Name | Susquehanna International Group, LLP |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-09-18T05:45:15Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

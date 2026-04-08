@@ -14,6 +14,19 @@ fara-status: "registrant"
 fara-records: 2
 fara-countries:
   - "KOREA SOUTH"
+federal-register-mentions: 139
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Commodity Futures Trading Commission"
+  - "Education Department"
+  - "Employment and Training Administration"
+  - "Energy Department"
+  - "Executive Office of the President"
+  - "Federal Communications Commission"
+  - "Federal Railroad Administration"
+  - "Federal Trade Commission"
+  - "Homeland Security Department"
+  - "Interior Department"
 ---
 
 #think-tank #conservative #project-2025 #dark-money #revolving-door #idea-laundering #regulatory-capture #judicial-pipeline #501c3
@@ -508,3 +521,26 @@ content-readiness:: developed
 
 - [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Heritage%20Foundation) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 139 |
+| Final Rules | 46 |
+| Proposed Rules | 17 |
+| Notices | 75 |
+| Presidential Documents | 1 |
+| Agencies | Commodity Futures Trading Commission, Education Department, Employment and Training Administration, Energy Department, Executive Office of the President, Federal Communications Commission, Federal Railroad Administration, Federal Trade Commission +7 more |
+
+**Recent regulatory activity:**
+- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (2026-03-27) — Labor Department
+- [Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/11/25/2025-21001/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the) (2025-11-25) — Federal Communications Commission
+- [Applications for New Awards; Fund for the Improvement of Postsecondary Education-Special Projects (FIPSE-SP)](https://www.federalregister.gov/documents/2025/11/12/2025-19843/applications-for-new-awards-fund-for-the-improvement-of-postsecondary-education-special-projects) (2025-11-12) — Education Department
+- [Removal of the Automatic Extension of Employment Authorization Documents](https://www.federalregister.gov/documents/2025/10/30/2025-19702/removal-of-the-automatic-extension-of-employment-authorization-documents) (2025-10-30) — Homeland Security Department
+- [Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks](https://www.federalregister.gov/documents/2025/10/27/2025-19658/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security) (2025-10-27) — Federal Communications Commission
+- [Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/08/07/2025-14970/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement) (2025-08-07) — Federal Communications Commission
+- ... and 133 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Heritage%20Foundation%22) (Tier 1)
+<!-- auto:federal-register end -->

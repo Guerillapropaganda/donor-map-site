@@ -31,6 +31,16 @@ fara-countries:
   - "UNITED ARAB EMIRATES"
   - "YEMEN"
 related: "[[Google - Alphabet]] · [[Palantir Technologies]] · [[Boeing]] · [[General Dynamics]] · [[Raytheon (RTX)|RTX Corp]] · [[AbbVie]] · [[Johnson & Johnson]] · [[Apollo Global Management]] · [[PhRMA]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Fierce Government Relations]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]]"
+court-cases: 19
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "District Court, M.D. Georgia"
+  - "District Court, S.D. Iowa"
+  - "District Court, S.D. Mississippi"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, S.D. Texas"
+  - "United States Bankruptcy Court, W.D. Virginia"
 ---
 
 #lobbying #k-street #bipartisan #tech #defense #pharma #agriculture #finance
@@ -281,3 +291,47 @@ content-readiness:: ready
 
 - [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Cornerstone%20Government%20Affairs,) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 521943698 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $3.4M |
+| Total Assets | $5.5M |
+| NTEE Code | W20 |
+| IRS Ruling Date | 1997-11-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017
+
+**View 990 filings:**
+- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2024)
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2020)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521943698) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 19 |
+| Courts | District Court, M.D. Georgia, District Court, S.D. Iowa, District Court, S.D. Mississippi, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware, United States Bankruptcy Court, S.D. Texas, United States Bankruptcy Court, W.D. Virginia |
+| Case Types | 791 Labor: E.R.I.S.A., Contract: Other |
+
+**Notable cases:**
+- Pine Gate Renewables, LLC and Official Committee of Unsecured Creditors (2025) — United States Bankruptcy Court, S.D. Texas
+- Iowa Association of Business and Industry v. Iowa Insurance Commissioner (2025) — District Court, S.D. Iowa
+- Canoo Technologies Inc. (2025) — United States Bankruptcy Court, D. Delaware
+- Canoo Inc. (2025) — United States Bankruptcy Court, D. Delaware
+- Wellpath Holdings, Inc. (2024) — United States Bankruptcy Court, S.D. Texas
+- United States v. Owens, II (2024) — District Court, S.D. Mississippi
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cornerstone%20Government%20Affairs%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

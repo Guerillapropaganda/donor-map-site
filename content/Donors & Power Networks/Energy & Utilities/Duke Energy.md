@@ -44,7 +44,7 @@ sec-form-types:
   - "PRE 14A"
   - "SCHEDULE 13G/A"
   - "XML"
-ein: 581586283
+ein: "581586283"
 annual-revenue: "$1.1M"
 net-assets: "$6.2M"
 tax-year: "2023"
@@ -54,6 +54,9 @@ regulatory-agencies:
   - "Federal Energy Regulatory Commission"
   - "Nuclear Regulatory Commission"
 related: "[[The Intellectual Property and Banking Donor Pipeline]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 21294251
+total-assets: 1868586
 ---
 
 #duke-energy #utility #coal-ash #north-carolina #monopoly #rate-base #renewables
@@ -287,3 +290,27 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Duke%20Energy%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 581586283 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $21.3M |
+| Total Assets | $1.9M |
+| IRS Ruling Date | 1985-02-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/581586283) (Tier 1)
+<!-- auto:nonprofit-990 end -->

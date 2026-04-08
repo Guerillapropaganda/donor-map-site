@@ -25,6 +25,19 @@ sec-form-types:
 lei: "549300HK4YWG61O0MF87"
 lei-jurisdiction: "US-DC"
 related: "[[Economic Policy Institute]] · [[CalSTRS - California State Teachers' Retirement System]]"
+federal-register-mentions: 57
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Civil Rights Commission"
+  - "Defense Department"
+  - "Education Department"
+  - "Employee Benefits Security Administration"
+  - "Federal Motor Carrier Safety Administration"
+  - "Food and Nutrition Service"
+  - "Labor Department"
+  - "Labor-Management Standards Office"
+  - "National Labor Relations Board"
 ---
 
 #nea #education #union #teachers #democratic #vouchers #charter #political-spending
@@ -139,3 +152,26 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 57 |
+| Final Rules | 19 |
+| Proposed Rules | 17 |
+| Notices | 19 |
+| Presidential Documents | 2 |
+| Agencies | Agriculture Department, Civil Rights Commission, Defense Department, Education Department, Employee Benefits Security Administration, Federal Motor Carrier Safety Administration, Food and Nutrition Service, Labor Department +6 more |
+
+**Recent regulatory activity:**
+- [Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.federalregister.gov/documents/2026/02/13/2026-02965/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl) (2026-02-13) — Transportation Department
+- [Indian Education Discretionary Grant Programs; Professional Development Program](https://www.federalregister.gov/documents/2024/07/29/2024-16206/indian-education-discretionary-grant-programs-professional-development-program) (2024-07-29) — Education Department
+- [Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales, and Computer Employees](https://www.federalregister.gov/documents/2024/04/26/2024-08038/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and) (2024-04-26) — Labor Department
+- [Private Fund Advisers; Documentation of Registered Investment Adviser Compliance Reviews](https://www.federalregister.gov/documents/2023/09/14/2023-18660/private-fund-advisers-documentation-of-registered-investment-adviser-compliance-reviews) (2023-09-14) — Securities and Exchange Commission
+- [Proposed Priority and Definitions-State Personnel Development Grants](https://www.federalregister.gov/documents/2020/04/24/2020-08554/proposed-priority-and-definitions-state-personnel-development-grants) (2020-04-24) — Education Department
+- [Proposed Priorities, Requirements, Definition, and Selection Criteria-Education Innovation and Research- Teacher-Directed Professional Learning Experiences](https://www.federalregister.gov/documents/2020/04/13/2020-07753/proposed-priorities-requirements-definition-and-selection-criteria-education-innovation-and) (2020-04-13) — Education Department
+- ... and 51 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Education%20Association%22) (Tier 1)
+<!-- auto:federal-register end -->

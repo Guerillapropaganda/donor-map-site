@@ -27,6 +27,8 @@ stock-trade-tickers:
   - "BIF"
 donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[The Armed Services Ranking Member and Defense Bipartisanship]]"
+total-received: "$286,732"
+fec-candidate-id: "H4MS01078"
 ---
 
 
@@ -215,3 +217,61 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2008 |
+| Total Raised | $286,732 |
+| Individual Contributions | $123,436 |
+| PAC Contributions | $119,300 |
+| Cash on Hand | 1567.30 |
+| IE Support (Super PAC) | $19,442 |
+| IE Opposition (Super PAC) | $600,052 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2008 | $286,732 | $123,436 | $119,300 |
+| 2006 | $845,753 | $391,828 | $366,600 |
+| 2004 | $547,552 | $216,825 | $290,000 |
+| 2002 | $434,995 | $94,646 | $204,701 |
+| 2000 | $1,254,306 | $0 | $318,718 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $0 | $600,052 |
+| MISSISSIPPI REPUBLICAN PARTY | $19,442 | $0 |
+| PLANNED PARENTHOOD ACTION FUND INC | $0 | $2 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS01078/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Yea** | Cloture Motion Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
+| 2026-03-24 | On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General | **Yea** | Nomination Confirmed |
+| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Yea** | Cloture Motion Agreed to |
+| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Yea** | Nomination Confirmed |
+| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Yea** | Cloture Motion Agreed to |
+| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Nay** | Cloture Motion Rejected |
+| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Yea** | Cloture Motion Rejected |
+| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Not Voting** | Cloture on the Motion to Proceed Rejected |
+| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Yea** | Nomination Confirmed |
+| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Yea** | Cloture Motion Agreed to |
+| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
+| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
+| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Nay** | Cloture Motion Agreed to |
+
+**Sources**
+
+- [GovTrack: Roger Wicker](https://www.govtrack.us/congress/members/400432) (Tier 1)
+<!-- auto:voting-record end -->

@@ -329,3 +329,18 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/830411414) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300SK16NJD6MI4436](https://search.gleif.org/#/record/549300SK16NJD6MI4436) |
+| Legal Name | ALPINE GROUP USVI LLC |
+| Jurisdiction | VI |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2024-02-04T13:30:04Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

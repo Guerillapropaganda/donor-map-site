@@ -24,6 +24,15 @@ doj-components:
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
 related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]]"
+total-political-spend: "$114,701"
+politicians-funded:
+  - "Chuck Schumer"
+  - "Marco Rubio"
+  - "Paul Ryan"
+  - "Nancy Pelosi"
+  - "John Boehner"
+  - "Katie Porter"
+  - "Cory Booker"
 ---
 
 #zuckerberg #meta #facebook #tech #mega-donor #trump-realignment #lobbying #antitrust #ai #section-230
@@ -218,3 +227,28 @@ content-readiness:: developed
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Mark%20Zuckerberg%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $114,701 |
+| Contributions | 37 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| FACEBOOK INC. PAC | $40,000 | — |
+| META PLATFORMS, INC. PAC | $20,000 | — |
+| SAN FRANCISCO DEMOCRATIC COUNTY CENTRAL COMMITTEE | $10,000 | DEM |
+| FACEBOOK INC PAC (FBPAC) | $10,000 | — |
+| FRIENDS OF SCHUMER | $5,200 | DEM |
+| MARCO RUBIO FOR US SENATE | $5,200 | REP |
+| HATCH ELECTION COMMITTEE INC | $5,200 | REP |
+| SEAN ELDRIDGE FOR CONGRESS | $5,200 | DEM |
+| Unknown | $2,900 | — |
+| RYAN FOR CONGRESS, INC. | $2,600 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Mark%20Zuckerberg) (Tier 1)
+<!-- auto:fec-donor end -->

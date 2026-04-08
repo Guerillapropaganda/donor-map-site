@@ -12,11 +12,26 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
 federal-contracts: "22671"
-ein: 136155650
+ein: "136155650"
 annual-revenue: "$1.0M"
 net-assets: "$18.6M"
 tax-year: "2023"
 related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Charles Schwab]]"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 10243579
+total-assets: 15848073
+court-cases: 35789
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. South Carolina"
+  - "District Court, E.D. New York"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Georgia"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
+  - "United States Bankruptcy Court, D. Colorado"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying
@@ -130,3 +145,46 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 136155650 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $10.2M |
+| Total Assets | $15.8M |
+| IRS Ruling Date | 1963-07-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136155650) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 35,789 |
+| Courts | District Court, C.D. California, District Court, D. South Carolina, District Court, E.D. New York, District Court, N.D. California, District Court, N.D. Georgia, District Court, S.D. New York, District Court, W.D. Texas, United States Bankruptcy Court, D. Colorado +1 more |
+| Case Types | 160 Stockholders Suits, 463 Habeas Corpus - Alien Detainee, 850 Securities/Commodities |
+
+**Notable cases:**
+- Dunn v. Upstart Holdings, Inc. (2026) — District Court, N.D. California
+- Curti v. Winfrey (2026) — District Court, S.D. New York
+- Cabello Trejo v. BONDI (2026) — District Court, W.D. Texas
+- GUTIERREZ-GONZALEZ v. Thompson (2026) — District Court, W.D. Texas
+- Norfolk County Retirement System v. PayPal Holdings, Inc. (2026) — District Court, N.D. California
+- Taboh v. Bondi (2026) — District Court, W.D. Texas
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Morgan%20Stanley%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

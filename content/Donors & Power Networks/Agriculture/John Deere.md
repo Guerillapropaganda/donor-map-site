@@ -27,6 +27,25 @@ subawards-received-amount: 7034204
 top-federal-agency: "Department of Defense"
 top-naics-code: "333120"
 related: "[[Monsanto - Bayer]] · [[The Oversight Legacy and Agricultural Protection]] · [[The Farm Bill - The Bipartisan Subsidy Machine]]"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "8-K"
+  - "8-K/A"
+  - "EX-2.2"
+  - "EX-21"
+federal-register-mentions: 157
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Commerce Department"
+  - "Consumer Product Safety Commission"
+  - "Environmental Protection Agency"
+  - "Federal Communications Commission"
+  - "International Trade Administration"
+  - "International Trade Commission"
+  - "Justice Department"
+  - "Patent and Trademark Office"
 ---
 
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
@@ -171,3 +190,43 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-Q, 8-K, 8-K/A, EX-2.2, EX-21 |
+
+**Notable filings:**
+
+- 2005-12-20 — **EX-21**: SUBSIDIARIES OF THE REGISTRANT
+- 2001-12-21 — **EX-21**: SUBSIDIARIES
+- 2010-12-17 — **EX-21**: EX-21
+- 2014-12-19 — **EX-21**: EX-21
+- 2012-12-17 — **EX-21**: EX-21
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22John%20Deere%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 157 |
+| Final Rules | 29 |
+| Proposed Rules | 16 |
+| Notices | 112 |
+| Agencies | Antitrust Division, Commerce Department, Consumer Product Safety Commission, Environmental Protection Agency, Federal Communications Commission, International Trade Administration, International Trade Commission, Justice Department +1 more |
+
+**Recent regulatory activity:**
+- [Certain New Pneumatic Off-the-Road Tires From India: Final Results of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2026/03/19/2026-05440/certain-new-pneumatic-off-the-road-tires-from-india-final-results-of-countervailing-duty) (2026-03-19) — Commerce Department
+- [Certain New Pneumatic Off-the-Road Tires From India: Preliminary Results of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2025/07/11/2025-12948/certain-new-pneumatic-off-the-road-tires-from-india-preliminary-results-of-countervailing-duty) (2025-07-11) — Commerce Department
+- [Certain New Pneumatic Off-the-Road Tires From India: Preliminary Results and Partial Recission of Antidumping Duty Administrative Review; 2023-2024](https://www.federalregister.gov/documents/2025/07/11/2025-12947/certain-new-pneumatic-off-the-road-tires-from-india-preliminary-results-and-partial-recission-of) (2025-07-11) — Commerce Department
+- [Initiation of Antidumping and Countervailing Duty Administrative Reviews](https://www.federalregister.gov/documents/2025/05/20/2025-08970/initiation-of-antidumping-and-countervailing-duty-administrative-reviews) (2025-05-20) — Commerce Department
+- [Initiation of Antidumping and Countervailing Duty Administrative Reviews](https://www.federalregister.gov/documents/2025/04/28/2025-07286/initiation-of-antidumping-and-countervailing-duty-administrative-reviews) (2025-04-28) — Commerce Department
+- [Air Plan Approval; Wisconsin; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2025/04/22/2025-06618/air-plan-approval-wisconsin-revised-format-for-materials-incorporated-by-reference) (2025-04-22) — Environmental Protection Agency
+- ... and 151 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22John%20Deere%22) (Tier 1)
+<!-- auto:federal-register end -->

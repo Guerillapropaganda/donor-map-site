@@ -8,7 +8,18 @@ parent: null
 sector: "Israel Lobby"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Jamaal Bowman"
+  - "Bernie Moreno"
+  - "Michael Whatley"
+  - "Bill Cassidy"
+  - "Jim Risch"
+  - "Jack Reed"
+  - "Tim Walberg"
+  - "Tom Cotton"
+  - "Brian Mast"
+  - "Mike Lawler"
+  - "Ritchie Torres"
+  - "Gregory Meeks"
+  - "John Hickenlooper"
 federal-register-mentions: 42
 last-enriched: "2026-04-07"
 regulatory-agencies:
@@ -29,6 +40,7 @@ nonprofit-status: "501(c)(4)"
 total-revenue: 2327
 total-assets: 51394
 related: "[[Ritchie Torres]] · [[Jamaal Bowman Master Profile]]"
+total-political-spend: "$1,857,124"
 ---
 
 #norpac #israel-lobby #pro-israel #pac #bundling #new-jersey #bipartisan #dinner-fundraiser #follow-the-money
@@ -243,3 +255,28 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352841377) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,857,124 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| BRAD COHEN FOR CONGRESS | $341,334 | DEM |
+| TEAM MORENO | $165,628 | — |
+| WHATLEY VICTORY COMMITTEE | $116,800 | — |
+| TEAM FINE | $71,900 | — |
+| BILL CASSIDY FOR US SENATE | $70,000 | REP |
+| JIM RISCH FOR U.S. SENATE COMMITTEE | $65,220 | REP |
+| RANDY FINE FOR CONGRESS | $56,100 | REP |
+| THE REED COMMITTEE | $50,000 | DEM |
+| WALBERG FOR CONGRESS | $47,400 | REP |
+| MAGGIE FOR CONGRESS | $46,100 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=NORPAC) (Tier 1)
+<!-- auto:fec-donor end -->

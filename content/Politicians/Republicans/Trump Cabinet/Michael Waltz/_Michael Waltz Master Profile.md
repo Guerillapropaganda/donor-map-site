@@ -13,6 +13,9 @@ total-received: "$3,109"
 fec-candidate-id: "H8FL06148"
 bioguide-id: "A000383"
 related: "[[Fanjul Family - Florida Crystals]]"
+govtrack-id: 412764
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 #politician #republican #trump-cabinet #un-ambassador #national-security #defense #signalgate #class-analysis #follow-the-money
@@ -161,3 +164,27 @@ content-readiness:: draft
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 3,210 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2025-01-16 | H.R. 30: Preventing Violence Against Women by Illegal Aliens Act | Not Voting | Passed |
+| 2025-01-16 | On Motion to Recommit: H.R. 30: Preventing Violence Against Women by Illegal Ali… | Not Voting | Failed |
+| 2025-01-15 | H.R. 33: To amend the Internal Revenue Code of 1986 to provide special rules for… | Not Voting | Passed |
+| 2025-01-15 | H.R. 144: Tennessee Valley Authority Salary Transparency Act | Not Voting | Passed |
+| 2025-01-15 | H.R. 164: POWER Act of 2025 | Not Voting | Passed |
+| 2025-01-14 | H.R. 28: Protection of Women and Girls in Sports Act of 2025 | Yea | Passed |
+| 2025-01-14 | On Motion to Recommit: H.R. 28: Protection of Women and Girls in Sports Act of 2… | Nay | Failed |
+| 2025-01-14 | H.R. 153: Post-Disaster Assistance Online Accountability Act | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412764) (Tier 1)
+<!-- auto:govtrack end -->

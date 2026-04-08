@@ -15,7 +15,7 @@ federal-awards-total: 559918230
 federal-contracts-count: 25
 federal-grants-count: 0
 court-cases: 3032
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, D. Arizona"
   - "District Court, D. Montana"
@@ -25,7 +25,7 @@ court-jurisdictions:
   - "District Court, E.D. California"
   - "District Court, N.D. Ohio"
   - "District Court, S.D. California"
-ein: 823851866
+ein: "823851866"
 annual-revenue: "$511K"
 net-assets: "$52K"
 tax-year: "2024"
@@ -37,6 +37,9 @@ subawards-received-amount: 51876611853
 top-federal-agency: "Department of Homeland Security"
 top-naics-code: "561612"
 related: "[[Uber]] · [[Private Prison Immigration Pipeline]] · [[Family Separation - Zero Tolerance and Who Profited]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[Brian Kemp]] · [[Greg Abbott Master Profile]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[Bail Bond Industry]] · [[Aramark]] · [[CCPOA - California Correctional Peace Officers Association]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 709089
+total-assets: 27969
 ---
 
 
@@ -263,3 +266,28 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 823851866 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $709K |
+| Total Assets | $28K |
+| NTEE Code | P20 |
+| IRS Ruling Date | 2018-06-01 |
+| Filings on Record | 6 |
+
+**Filing history:** 2024, 2023, 2022, 2021, 2020, 2019
+
+**View 990 filings:**
+- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2024)
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2020)
+- ... and 1 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1)
+<!-- auto:nonprofit-990 end -->

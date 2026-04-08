@@ -48,6 +48,20 @@ annual-revenue: "$5.4M"
 net-assets: "$20.8M"
 tax-year: "2023"
 related: "[[UFCW - United Food and Commercial Workers]]"
+court-cases: 97
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, C.D. California"
+  - "District Court, E.D. California"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. California"
+  - "District Court, W.D. Washington"
+federal-register-mentions: 2
+regulatory-agencies:
+  - "Energy Department"
+  - "Environmental Protection Agency"
 ---
 
 
@@ -237,3 +251,38 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 951241045](https://projects.propublica.org/nonprofits/organizations/951241045) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 97 |
+| Courts | Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, E.D. California, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. California, District Court, W.D. Washington |
+| Case Types | 890 Other Statutory Actions, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute |
+
+**Notable cases:**
+- California League of Food Producers v. Bonta (2026) — District Court, S.D. California
+- United States v. City of Morgan Hill (2026) — District Court, N.D. California
+- California Chamber of Commerce, et al. v. Bonta, et al. (2025) — Court of Appeals for the Ninth Circuit
+- Mulhern Gas Co., Inc. v. Mosley (2025) — Court of Appeals for the Second Circuit
+- United States of America Chamber of Commerce, et al. v. Sanchez, et al. (2025) — Court of Appeals for the Ninth Circuit
+- Rinnai America Corporation, et al. v. South Coast Air Quality Management District, et al. (2025) — Court of Appeals for the Ninth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Restaurant%20Association%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Rule | 1 |
+| Proposed Rule | 1 |
+| Agencies | Energy Department, Environmental Protection Agency |
+
+**Recent regulatory activity:**
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.federalregister.gov/documents/2024/02/14/2024-02008/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products) (2024-02-14) — Energy Department
+- [Air Quality State Implementation Plans; Approvals and Promulgations: California; 1997 Annual Fine Particulate Matter Serious and Clean Air Act Section 189(d) Nonattainment Area Requirements; San Joaquin Valley, CA](https://www.federalregister.gov/documents/2023/07/14/2023-14687/air-quality-state-implementation-plans-approvals-and-promulgations-california-1997-annual-fine) (2023-07-14) — Environmental Protection Agency
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Restaurant%20Association%22) (Tier 1)
+<!-- auto:federal-register end -->

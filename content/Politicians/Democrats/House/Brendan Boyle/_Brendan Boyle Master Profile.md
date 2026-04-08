@@ -31,6 +31,8 @@ doj-components:
   - "USAO - New York, Northern"
 donors: "[[UNITE HERE]] · [[AFL-CIO]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
+total-received: "$1,522,158"
+fec-candidate-id: "H4PA13199"
 ---
 
 
@@ -183,3 +185,38 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Brendan%20Boyle%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,522,158 |
+| Individual Contributions | $358,434 |
+| PAC Contributions | $502,235 |
+| Cash on Hand | 4812331.40 |
+| IE Support (Super PAC) | $801,485 |
+| IE Opposition (Super PAC) | $105,659 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,522,158 | $358,434 | $502,235 |
+| 2024 | $2,337,216 | $622,941 | $1,112,299 |
+| 2022 | $1,708,550 | $568,755 | $1,221,250 |
+| 2020 | $1,560,584 | $381,701 | $1,123,520 |
+| 2018 | $1,174,515 | $311,399 | $835,840 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| BUILDING A BETTER PA | $696,069 | $0 |
+| WOMEN VOTE! | $0 | $85,090 |
+| INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 98 COMMITTEE ON POLITICAL EDUCATION | $34,175 | $0 |
+| COMMONWEALTH COMMUNICATIONS | $22,008 | $0 |
+| NARAL Pro-Choice America | $22,000 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
+<!-- auto:fec-politician end -->

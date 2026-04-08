@@ -18,7 +18,7 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 top-federal-agency: "Department of Health and Human Services"
 top-naics-code: "541519"
-ein: 480834445
+ein: "480834445"
 annual-revenue: "$375K"
 net-assets: "$1.9M"
 tax-year: "2023"
@@ -26,6 +26,10 @@ federal-awards-total: 0
 federal-contracts-count: 10
 federal-grants-count: 0
 related: "[[Eli Lilly]] · [[ALEC Dark Money Protection Machine]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Veterans Affairs and Iowa Agriculture]] · [[John Kennedy Master Profile]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[WSPA - Western States Petroleum Association]] · [[Chevron]] · [[PG&E - Pacific Gas and Electric]]"
+nonprofit-status: "501(c)(9)"
+last-enriched: "2026-04-08"
+total-revenue: 212200
+total-assets: 1900682
 ---
 
 #koch-industries #energy #oil-gas #refining #lobbying #dark-money #deregulation #epa #climate #labor #class-analysis #follow-the-money #tcja #clean-power-plan
@@ -765,3 +769,28 @@ research-status:: developed → ready (2026-04-01) — Merged: KochPAC complete 
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/8cc00587-be89-6ad5-76c5-92c6a33ea5a2-R/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 480834445 |
+| Tax-Exempt Status | 501(c)(9) |
+| Total Revenue | $212K |
+| Total Assets | $1.9M |
+| NTEE Code | Y43 |
+| IRS Ruling Date | 1977-05-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/480834445) (Tier 1)
+<!-- auto:nonprofit-990 end -->

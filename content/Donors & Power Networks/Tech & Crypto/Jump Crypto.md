@@ -21,6 +21,29 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
 related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]]"
+sec-filings: 55
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "3"
+  - "3/A"
+  - "424B3"
+  - "424B5"
+  - "425"
+  - "8-K"
+  - "D"
+  - "DEF 14A"
+  - "EX-10.1"
+  - "EX-10.4"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "PRE 14A"
+  - "S-1"
+  - "S-1/A"
+  - "S-3ASR"
+  - "SCHEDULE 13D"
+  - "SCHEDULE 13D/A"
 ---
 
 #crypto #trading #jump-trading #fairshake #political-spending
@@ -85,3 +108,21 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jump%20Crypto%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 55 |
+| Form Types | 10-K, 10-Q, 3, 3/A, 424B3, 424B5, 425, 8-K +13 more |
+
+**Notable filings:**
+
+- 2025-09-08 — **EX-99.1**: PRESS RELEASE, DATED SEPTEMBER 8, 2025
+- 2025-09-11 — **EX-99.1**: PRESS RELEASE, DATED SEPTEMBER 11, 2025
+- 2025-09-08 — **8-K**: CURRENT REPORT
+- 2025-09-18 — **EX-99.2**: ADDITIONAL ITEM 2(A) INFORMATION
+- 2025-09-08 — **EX-99.2**: INVESTOR PRESENTATION
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jump%20Crypto%22) (Tier 1)
+<!-- auto:sec-edgar end -->

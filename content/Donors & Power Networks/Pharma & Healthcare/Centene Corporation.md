@@ -71,6 +71,8 @@ court-jurisdictions:
 related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]]"
 top-federal-agency: "General Services Administration"
 top-naics-code: "624190"
+lei: "549300Z7JJ4TQSQGT333"
+lei-jurisdiction: "US-DE"
 ---
 
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca
@@ -280,3 +282,18 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300Z7JJ4TQSQGT333](https://search.gleif.org/#/record/549300Z7JJ4TQSQGT333) |
+| Legal Name | CENTENE CORPORATION |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-24T16:29:17Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

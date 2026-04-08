@@ -459,3 +459,25 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 354 |
+| Final Rules | 27 |
+| Proposed Rules | 23 |
+| Notices | 304 |
+| Agencies | Antitrust Division, Defense Department, Environmental Protection Agency, Federal Communications Commission, Federal Trade Commission, Health and Human Services Department, Justice Department, Pipeline and Hazardous Materials Safety Administration +1 more |
+
+**Recent regulatory activity:**
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (2026-03-26) — Justice Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/09/2026-02528/arms-sales-notification) (2026-02-09) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/27/2026-01491/arms-sales-notification) (2026-01-27) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/13/2026-00445/arms-sales-notification) (2026-01-13) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/12/2026-00363/arms-sales-notification) (2026-01-12) — Defense Department
+- [Nondiscrimination on the Basis of Disability in Programs or Activities Receiving Federal Financial Assistance](https://www.federalregister.gov/documents/2025/12/19/2025-23484/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial) (2025-12-19) — Health and Human Services Department
+- ... and 348 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Northrop%20Grumman%22) (Tier 1)
+<!-- auto:federal-register end -->

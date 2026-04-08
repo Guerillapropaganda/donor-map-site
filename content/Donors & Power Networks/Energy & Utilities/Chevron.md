@@ -10,7 +10,7 @@ entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
 court-cases: 44045
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. Wisconsin"
@@ -282,3 +282,32 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 510189525](https://projects.propublica.org/nonprofits/organizations/510189525) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Defense ($868.0M) |
+| Primary NAICS Sector | Petroleum Refineries |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $868.0M |
+| General Services Administration | $277K |
+| Department of State | $132K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Petroleum Refineries (324110) | $781.1M |
+| Other Warehousing and Storage (493190) | $68.9M |
+| Petroleum Lubricating Oil and Grease Manufacturing (324191) | $18.1M |
+| General Automotive Repair (811111) | $277K |
+| Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) (424720) | $78K |
+| Support Activities for Oil and Gas Operations (213112) | $54K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

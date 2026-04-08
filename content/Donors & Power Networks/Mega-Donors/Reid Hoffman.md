@@ -34,6 +34,10 @@ sec-form-types:
   - "SCHEDULE 13D"
   - "SCHEDULE 13D/A"
 related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
+federal-register-mentions: 2
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Securities and Exchange Commission"
 ---
 
 #donor #billionaire #democratic #tech #linkedin #wisconsin
@@ -200,3 +204,18 @@ research-status:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Reid%20Hoffman%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Notice | 2 |
+| Agencies | Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Self-Regulatory Organizations; Investors Exchange LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Establish a New Optional Listing Category on the Exchange, “LTSE Listings on IEX”](https://www.federalregister.gov/documents/2018/07/06/2018-14461/self-regulatory-organizations-investors-exchange-llc-notice-of-filing-of-amendment-no-1-and-order) (2018-07-06) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Investors Exchange LLC; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Establish a New Optional Listing Category on the Exchange, “LTSE Listings on IEX”](https://www.federalregister.gov/documents/2018/05/17/2018-10500/self-regulatory-organizations-investors-exchange-llc-notice-of-designation-of-longer-period-for) (2018-05-17) — Securities and Exchange Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Reid%20Hoffman%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -18,6 +18,9 @@ subawards-received-amount: 14071246
 top-federal-agency: "Department of Health and Human Services"
 top-naics-code: "541611"
 related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and Tech - Donors and Backers]]"
+federal-awards-total: 4528360
+federal-contracts-count: 25
+federal-grants-count: 13
 ---
 
 #crypto #payments #fairshake #sec-lawsuit #regulatory-capture
@@ -129,3 +132,35 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $4.5M |
+| Contracts (recent 3yr) | 25 ($78.4M sampled) |
+| Grants (recent 3yr) | 13 ($10.8M sampled) |
+| Federal Agencies | 6 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $9.8M | Department of Health and Human Services | HUMAN CENTERED DESIGN (HCD) COMMENT ANALYSIS SUPPORT |
+| $9.2M | Department of Defense | PROGRAM ADMINISTRATION AND TECHNICAL SUPPORT SERVICES, PROGRAM ANALYSTS, LOGISTICAL SUPPORT, PUBLIC  |
+| $6.9M | Department of Defense | BIOMEDICAL PROGRAM MANAGEMENT SUPPORT |
+| $6.3M | Department of Defense | PROGRAM EVALUATION, ANALYSIS, AND MANAGEMENT SUPPORT |
+| $6.3M | Department of Defense | IGF::CL::IGF PORTFOLIO AREA MANAGERS |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $2.7M | Department of Health and Human Services | IMPLANTABLE RECORDING AND INTEGRATED STIMULATION (IRIS) DEVICE FOR CORTICAL EXPERIMENTS |
+| $2.2M | Department of Health and Human Services | CLINICAL VALIDATION OF MYOELECTRIC IMPLANT FOR INTUITIVE PROSTHESIS CONTROL - ABSTRACT THE GOAL OF T |
+| $2.0M | Department of Health and Human Services | IMPLANTABLE PERIPHERAL NERVE STIMULATOR FOR TREATMENT OF PHANTOM LIMB PAIN |
+| $791K | Department of Health and Human Services | TYPE I INTERFERON IMPACTS TREATMENT RESPONSE IN RHEUMATOID ARTHRITIS - RHEUMATOID ARTHRITIS (RA) IS  |
+| $725K | Department of Defense | TREAT IMPLANT LOOSENING OF PERCUTANEOUS OSSEOINTEGRATED PROSTHETIC LIMBS WITH INTERMITTENT PARATHYRO |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a3c668a9-c6c0-e0f5-3dbd-1d64ec1c9938-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

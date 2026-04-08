@@ -19,6 +19,14 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
 total-revenue: 3842
 total-assets: 92607
+court-cases: 7
+court-jurisdictions:
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Virginia"
+  - "District Court, S.D. California"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Washington"
 ---
 
 
@@ -213,3 +221,22 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 7 |
+| Courts | District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, E.D. Virginia, District Court, S.D. California, District Court, S.D. New York, District Court, W.D. Washington |
+| Case Types | 320 Assault Libel & Slander, 360 P.I.: Other, 442 Civil Rights: Employment, 840 Trademark, 890 Other Statutory Actions |
+
+**Notable cases:**
+- Restoration Action, Inc. v. Center for American Restoration, Inc (2021) — District Court, E.D. Virginia
+- Kertesz v. Ferguson (2020) — District Court, W.D. Washington
+- PERSONAL REPRESENTATIVE OF THE DAWABSHEH FAMILY v. NETANYAHU (2020) — District Court, District of Columbia
+- AMERICAN OVERSIGHT v. U.S. DEPARTMENT OF COMMERCE (2019) — District Court, District of Columbia
+- Al Otro Lado, Inc. v. McAleenan (2017) — District Court, S.D. California
+- MAGERMAN v. MERCER (2017) — District Court, E.D. Pennsylvania
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sheldon%20%26%20Miriam%20Adelson%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

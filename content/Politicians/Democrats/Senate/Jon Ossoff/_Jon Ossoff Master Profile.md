@@ -2,7 +2,7 @@
 title: "Jon Ossoff Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -19,6 +19,19 @@ website: "https://www.ossoff.senate.gov"
 phone: "202-224-3521"
 total-received: "$31,605,071"
 fec-candidate-id: "H8GA06195"
+doj-press-mentions: "264349"
+last-enriched: "2026-04-08"
+doj-components:
+  - "Civil Rights Division"
+  - "Cyber Division (FBI)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "National Security Division (NSD)"
+  - "USAO - Florida, Middle"
+  - "USAO - Florida, Northern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Massachusetts"
+  - "USAO - Missouri, Western"
+  - "USAO - New York, Northern"
 ---
 
 
