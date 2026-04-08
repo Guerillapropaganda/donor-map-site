@@ -64,7 +64,7 @@ politicians-funded:
 nonprofit-status: "501(c)(3)"
 total-revenue: 1852719
 total-assets: 290992
-related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Americans for Tax Reform - Grover Norquist]]"
+related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Americans for Tax Reform - Grover Norquist]] · [[Bryan Steil]]"
 ---
 
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money

@@ -70,7 +70,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Raytheon (RTX Corporation)]] · [[The National Security-to-Senate Pipeline]]"
+related: "[[Raytheon (RTX Corporation)]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]]"
 ---
 
 #booz-allen #defense #intelligence #consulting #nsa #snowden #government-contractor

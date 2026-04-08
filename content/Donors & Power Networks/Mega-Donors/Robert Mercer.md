@@ -28,7 +28,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]]"
+related: "[[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]]"
 ---
 
 

@@ -153,6 +153,15 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-08 04:30 UTC — 3 profiles
+
+**committee — 3 profiles:**
+- The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared — 0 committees, 0 subcommittees
+- Susan Collins — 0 committees, 0 subcommittees
+- Mark Kelly — 0 committees, 0 subcommittees
+
+---
 ## 2026-04-08 03:37 UTC — 9 profiles
 
 **federal-register — 9 profiles:**
