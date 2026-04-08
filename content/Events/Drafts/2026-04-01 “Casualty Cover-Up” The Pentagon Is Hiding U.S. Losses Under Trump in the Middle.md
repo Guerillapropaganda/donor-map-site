@@ -7,6 +7,7 @@ source: "The Intercept"
 source-url: "https://theintercept.com/2026/04/01/iran-war-us-casualty-numbers-trump-hegseth/"
 profiles:
   - "The Iran War - Defense Donors and the DOGE Readiness Gap"
+internal-notes: "[URL Check 2026-04-08] 1 checked: 1 ok, 0 broken, 0 slow."
 ---
 
 #event #draft
