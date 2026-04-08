@@ -58,6 +58,11 @@ export default function RelationshipsPage() {
   const [toast, setToast] = useState<string | null>(null)
   const [sidebarTypeFilter, setSidebarTypeFilter] = useState<string>("all")
 
+  // Node positions for draggable graph
+  const [nodePositions, setNodePositions] = useState<Record<string, { x: number; y: number }>>({})
+  const [draggingNode, setDraggingNode] = useState<string | null>(null)
+  const nodeDragStart = useRef({ x: 0, y: 0, nodeX: 0, nodeY: 0 })
+
   // Context menu for changing connection types
   const [contextMenu, setContextMenu] = useState<{ x: number; y: number; name: string; type: "related" | "donors" | "opposes" | "stories" } | null>(null)
 
@@ -90,8 +95,9 @@ export default function RelationshipsPage() {
   }, [tab, selected])
 
   const handleMouseDown = useCallback((e: React.MouseEvent) => {
-    // Only drag on the background, not on node buttons
+    // Only drag on the background, not on nodes or buttons
     if ((e.target as HTMLElement).closest("button")) return
+    if ((e.target as HTMLElement).closest(".group\\/node")) return
     setIsDragging(true)
     dragStart.current = { x: e.clientX, y: e.clientY, panX: graphPan.x, panY: graphPan.y }
   }, [graphPan])
@@ -153,6 +159,7 @@ export default function RelationshipsPage() {
     setShowDropdown(false)
     setExplorerPath([cp.title])
     setGraphZoom(1)
+    setNodePositions({})
   }
 
   const clearSelection = () => {
@@ -578,7 +585,7 @@ export default function RelationshipsPage() {
                   <span className="text-[9px] text-[var(--color-text-dim)] w-10 text-center">{Math.round(graphZoom * 100)}%</span>
                   <button onClick={() => setGraphZoom((z) => Math.min(3, z + 0.15))}
                     className="w-6 h-6 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] text-sm flex items-center justify-center">+</button>
-                  <button onClick={() => { setGraphZoom(1); setGraphPan({ x: 0, y: 0 }) }}
+                  <button onClick={() => { setGraphZoom(1); setGraphPan({ x: 0, y: 0 }); setNodePositions({}) }}
                     className="text-[8px] px-2 py-1 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] ml-1">Reset</button>
                 </div>
               </div>
@@ -599,35 +606,61 @@ export default function RelationshipsPage() {
                     <span className="text-[9px] font-bold text-[var(--color-text)] px-2 leading-tight">{selected.title}</span>
                   </div>
 
-                  {/* Orbiting nodes — no limit */}
+                  {/* Orbiting nodes — draggable */}
                   {[...selected.related.map((n, i) => ({ name: n, type: "related" as const, i })),
                     ...selected.donors.map((n, i) => ({ name: n, type: "donors" as const, i: i + selected.related.length })),
                     ...selected.opposes.map((n, i) => ({ name: n, type: "opposes" as const, i: i + selected.related.length + selected.donors.length })),
+                    ...selected.stories.map((n, i) => ({ name: n, type: "stories" as const, i: i + selected.related.length + selected.donors.length + selected.opposes.length })),
                   ].map((node, idx, arr) => {
                     const angle = (idx / arr.length) * 2 * Math.PI - Math.PI / 2
                     const radius = Math.min(38, 25 + arr.length * 0.3)
-                    const x = 50 + radius * Math.cos(angle)
-                    const y = 50 + radius * Math.sin(angle)
+                    const defaultX = 50 + radius * Math.cos(angle)
+                    const defaultY = 50 + radius * Math.sin(angle)
+                    const pos = nodePositions[node.name]
+                    const x = pos ? pos.x : defaultX
+                    const y = pos ? pos.y : defaultY
 
                     return (
                       <div key={node.name + idx}>
                         <svg className="absolute inset-0 w-full h-full pointer-events-none" style={{ zIndex: 1 }}>
                           <line x1="50%" y1="50%" x2={`${x}%`} y2={`${y}%`}
                             stroke={REL_COLORS[node.type]}
-                            strokeWidth={node.type === "opposes" ? 1 : 1.5}
-                            strokeDasharray={node.type === "opposes" ? "4 2" : "none"}
+                            strokeWidth={node.type === "opposes" ? 1 : node.type === "stories" ? 1 : 1.5}
+                            strokeDasharray={node.type === "opposes" ? "4 2" : node.type === "stories" ? "2 2" : "none"}
                             opacity={0.4} />
                         </svg>
-                        <div className="absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 z-10 group/node"
-                          style={{ left: `${x}%`, top: `${y}%` }}>
+                        <div
+                          className={`absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 z-10 group/node ${draggingNode === node.name ? "cursor-grabbing" : "cursor-grab"}`}
+                          style={{ left: `${x}%`, top: `${y}%` }}
+                          onMouseDown={(e) => {
+                            if ((e.target as HTMLElement).closest("button")) return
+                            e.stopPropagation()
+                            setDraggingNode(node.name)
+                            nodeDragStart.current = { x: e.clientX, y: e.clientY, nodeX: x, nodeY: y }
+                          }}
+                          onMouseMove={(e) => {
+                            if (draggingNode !== node.name) return
+                            e.stopPropagation()
+                            const container = graphRef.current
+                            if (!container) return
+                            const rect = container.getBoundingClientRect()
+                            const dx = (e.clientX - nodeDragStart.current.x) / (rect.width * graphZoom) * 100
+                            const dy = (e.clientY - nodeDragStart.current.y) / (rect.height * graphZoom) * 100
+                            setNodePositions((prev) => ({
+                              ...prev,
+                              [node.name]: { x: nodeDragStart.current.nodeX + dx, y: nodeDragStart.current.nodeY + dy },
+                            }))
+                          }}
+                          onMouseUp={() => setDraggingNode(null)}
+                          onMouseLeave={() => { if (draggingNode === node.name) setDraggingNode(null) }}>
                           <button
-                            onClick={() => { const tp = topConnected.find((t) => t.title === node.name) || profiles.find((p) => p.title === node.name); if (tp) selectProfile(tp) }}
-                            className="w-full h-full rounded-full flex items-center justify-center text-center hover:scale-110 transition-transform"
+                            onClick={() => { if (!draggingNode) { const tp = topConnected.find((t) => t.title === node.name) || profiles.find((p) => p.title === node.name); if (tp) selectProfile(tp) } }}
+                            className="w-full h-full rounded-full flex items-center justify-center text-center hover:scale-105 transition-transform"
                             style={{ backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
                             title={node.name}>
                             <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3">{node.name}</span>
                           </button>
-                          {/* Edit button — opens context menu on click */}
+                          {/* Edit button */}
                           <button
                             onClick={(e) => { e.stopPropagation(); setContextMenu({ x: e.clientX, y: e.clientY, name: node.name, type: node.type }) }}
                             className="absolute -top-1 -left-1 w-5 h-5 rounded-full text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
