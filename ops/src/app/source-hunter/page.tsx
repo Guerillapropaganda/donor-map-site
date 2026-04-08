@@ -18,6 +18,15 @@ const SOURCE_COLORS: Record<string, string> = {
   "Federal Register": "#a855f7",
   GovTrack: "#06b6d4",
   "SEC EDGAR": "#ef4444",
+  "Senate LDA": "#10b981",
+  "SAM.gov": "#f97316",
+  CourtListener: "#8b5cf6",
+  FARA: "#ec4899",
+  "DOJ Press": "#dc2626",
+  "ProPublica Nonprofits": "#64748b",
+  OSHA: "#eab308",
+  OpenSanctions: "#f43f5e",
+  LobbyView: "#14b8a6",
 }
 
 const CATEGORY_ICONS: Record<string, string> = {
@@ -26,6 +35,13 @@ const CATEGORY_ICONS: Record<string, string> = {
   "Federal Spending": "S",
   Regulatory: "R",
   "Corporate Filings": "C",
+  Lobbying: "K",
+  "Federal Contracts": "G",
+  Judicial: "J",
+  "Foreign Lobbying": "F",
+  "Nonprofit Filings": "N",
+  "Workplace Safety": "W",
+  "Sanctions/PEP": "X",
 }
 
 export default function SourceHunterPage() {
