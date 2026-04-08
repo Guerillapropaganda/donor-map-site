@@ -85,13 +85,13 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 
 ### Sources
 
-- [OpenSecrets: Sen. Adam Schiff campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00009585&cycle=CAREER) (Tier 1)
-- [Deadline: California's U.S. Senate Hopefuls Seek Hollywood Support](https://deadline.com/2024/01/california-senate-race-hollywood-adam-schiff-1235693797/) (Tier 2)
-- [CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money. What does that mean?](https://calmatters.org/category/politics/elections/2024/02/california-senate-race-corporate-pacs/) (Tier 2)
-- [Washington Post: Katie Porter appears outmatched by Adam Schiff's establishment support](https://www.washingtonpost.com/politics/2024/03/04/porter-schiff-california-senate-election/) (Tier 2)
-- [JTA: Adam Schiff with AIPAC backing advances to Senate race](https://www.jta.org/2024/03/06/politics/adam-schiff-jewish-impeachment-star-with-aipac-backing-advances-to-senate-runoff-to-replace-dianne-feinstein) (Tier 2)
-- [OpenSecrets: Schiff heads into 2024 Senate race with sizable cash advantage](https://www.opensecrets.org/news/2023/05/adam-schiff-heads-into-californias-2024-u-s-senate-race-with-a-sizable-cash-advantage) (Tier 2)
-- [X/TrackAIPAC: Schiff received nearly $6M from AIPAC and Israel lobby](https://x.com/TrackAIPAC/status/1798411753879146754) (Tier 3)
+- [OpenSecrets: Sen. Adam Schiff campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00009585&cycle=CAREER) (Tier 1) (VERIFIED)
+- [Deadline: California's U.S. Senate Hopefuls Seek Hollywood Support](https://deadline.com/2024/01/california-senate-race-hollywood-adam-schiff-1235693797/) (Tier 2) (VERIFIED)
+- ~~[CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money. What does that mean?](https://calmatters.org/category/politics/elections/2024/02/california-senate-race-corporate-pacs/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Washington Post: Katie Porter appears outmatched by Adam Schiff's establishment support](https://www.washingtonpost.com/politics/2024/03/04/porter-schiff-california-senate-election/) (Tier 2) (VERIFIED)
+- [JTA: Adam Schiff with AIPAC backing advances to Senate race](https://www.jta.org/2024/03/06/politics/adam-schiff-jewish-impeachment-star-with-aipac-backing-advances-to-senate-runoff-to-replace-dianne-feinstein) (Tier 2) (VERIFIED)
+- [OpenSecrets: Schiff heads into 2024 Senate race with sizable cash advantage](https://www.opensecrets.org/news/2023/05/adam-schiff-heads-into-californias-2024-u-s-senate-race-with-a-sizable-cash-advantage) (Tier 2) (VERIFIED)
+- [X/TrackAIPAC: Schiff received nearly $6M from AIPAC and Israel lobby](https://x.com/TrackAIPAC/status/1798411753879146754) (Tier 3) (VERIFIED)
 
 profile-status:: ready
 content-readiness:: ready
@@ -125,5 +125,5 @@ content-readiness:: ready
 | PLANNED PARENTHOOD LA ADVOCACY PROJECT | $0 | $10,023 |
 | ALHAMBRA DEMOCRATIC CLUB | $0 | $3,577 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CA27085/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CA27085/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
