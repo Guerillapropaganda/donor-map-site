@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[George Soros]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[AFL-CIO]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]]"
+related: "[[George Soros]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[AFL-CIO]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]]"
 ---
 
 #think-tank #liberal #safety-net #anti-poverty #tax-policy #medicaid #SNAP #EITC #class-analysis

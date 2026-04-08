@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Jeffrey Katzenberg]] · [[TYT Network - The Young Turks]] · [[Cenk Uygur]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]]"
+related: "[[Jeffrey Katzenberg]] · [[TYT Network - The Young Turks]] · [[Cenk Uygur]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]]"
 ---
 
 #media-pipeline #centrist #youtube #tyt #audience-swap #realignment #valuetainment

@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Bobby Scott Master Profile]]"
-related: "[[Economic Policy - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Environment - Donors and Backers]]"
+related: "[[Economic Policy - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]]"
 ---
 
 #bobby-scott #education #labor #minimum-wage #virginia #for-profit #teacher-unions

@@ -40,7 +40,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
 lobbying-spend: 5422000
 lobbying-filings: 87
-related: "[[Juliana Stratton Master Profile]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Cory Booker]] · [[The 323 Million Dollar Self-Funded Governor]]"
+related: "[[Juliana Stratton Master Profile]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Cory Booker]] · [[The 323 Million Dollar Self-Funded Governor]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]]"
 donors: "[[Illinois Future PAC]]"
 ---
 

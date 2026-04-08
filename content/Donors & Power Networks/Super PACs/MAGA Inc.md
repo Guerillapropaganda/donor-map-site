@@ -27,7 +27,7 @@ nonprofit-status: "501(c)(4)"
 sec-filings: 1
 sec-form-types:
   - "D"
-related: "[[Senate Majority PAC]] · [[GOP House Defense 2026]] · [[Tulsi Gabbard Master Profile]] · [[Linda McMahon Master Profile]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Kash Patel Master Profile]]"
+related: "[[Senate Majority PAC]] · [[GOP House Defense 2026]] · [[Tulsi Gabbard Master Profile]] · [[Linda McMahon Master Profile]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]"
 ---
 
 #donor-node #super-pac #trump #mega-donors #dark-money

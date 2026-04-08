@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Sean Hannity]] · [[Crooked Media]] · [[Nicolle Wallace]]"
+related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Sean Hannity]] · [[Crooked Media]] · [[Nicolle Wallace]] · [[Greg Gutfeld]]"
 ---
 
 #media-pipeline #fox-news #murdoch #institutional #right #propaganda #class-analysis #follow-the-money

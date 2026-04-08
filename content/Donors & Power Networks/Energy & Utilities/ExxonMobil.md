@@ -46,7 +46,7 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "324191"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[ConocoPhillips]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[ConocoPhillips]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[Koch Industries]]"
 ---
 
 #donor-node #fossil-fuel #oil-gas #exxonmobil #climate #lobbying #bipartisan #donor #class-analysis #follow-the-money

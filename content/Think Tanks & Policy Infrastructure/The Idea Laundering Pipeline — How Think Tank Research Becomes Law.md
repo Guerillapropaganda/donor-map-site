@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: cross-comparison
 tax-status: null
-related: "[[Heritage Foundation]] · [[Federalist Society]] · [[Mercatus Center]] · [[Manhattan Institute]] · [[Economic Policy Institute]] · [[Brookings Institution]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Brennan Center for Justice]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]]"
+related: "[[Heritage Foundation]] · [[Federalist Society]] · [[Mercatus Center]] · [[Manhattan Institute]] · [[Economic Policy Institute]] · [[Brookings Institution]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Brennan Center for Justice]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Manhattan Institute for Policy Research]]"
 ---
 
 #think-tank #cross-comparison #model-legislation #idea-laundering #policy-pipeline #class-analysis #heritage #federalist-society #mercatus #manhattan-institute #alec
