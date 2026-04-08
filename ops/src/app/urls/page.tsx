@@ -145,7 +145,7 @@ export default function UrlManagerPage() {
         })
         const data = await res.json()
         if (data.results) {
-          // Store check results separately — don't change triage status
+          // Store check results AND auto-triage
           setCheckResults((prev) => {
             const next = { ...prev }
             for (const u of batch) {
@@ -154,6 +154,20 @@ export default function UrlManagerPage() {
             }
             return next
           })
+          // Auto-move URLs based on check results
+          setOverrides((prev) => {
+            const next = { ...prev }
+            for (const u of batch) {
+              const r = data.results[u.url]
+              if (r) {
+                if (r.status === "ok") next[u.id] = "ok"
+                else if (r.status === "broken") next[u.id] = "broken"
+                else if (r.status === "slow" || r.status === "redirect") next[u.id] = "slow"
+              }
+            }
+            return next
+          })
+          setHasChanges(true)
         }
       } catch { /* skip */ }
       setCheckProgress({ done: Math.min(i + BATCH, toCheck.length), total: toCheck.length })
