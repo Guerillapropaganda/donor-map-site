@@ -1060,12 +1060,12 @@ export default function ProfilePage() {
                   <div className={`flex items-center gap-2 p-2 rounded text-[10px] hover:bg-[var(--color-bg-hover)] transition-colors ${status === "broken" ? "opacity-40" : ""}`}>
                     <span className={`w-2 h-2 rounded-full flex-shrink-0 ${dotColor}`} />
                     <button onClick={() => { window.open(u.url, "_blank"); setExpandedUrl(i) }}
-                      className="min-w-0 flex-1 text-left">
+                      className="min-w-0 text-left">
                       <p className={`text-[var(--color-text)] hover:text-[var(--color-steel)] ${status === "broken" ? "line-through" : ""}`}>{u.label}</p>
                       <p className="text-[var(--color-text-dim)] truncate">{u.url}</p>
                     </button>
                     {u.tier && <span className="text-[8px] text-[var(--color-text-dim)] flex-shrink-0">Tier {u.tier}</span>}
-                    <div className="flex gap-1 flex-shrink-0">
+                    <div className="flex gap-1 flex-shrink-0 ml-1">
                       <button title="Working (✓)" onClick={() => setUrlOverrides(p => override === "ok" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "ok" })}
                         className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "ok" ? "bg-[var(--color-green)] text-black border-[var(--color-green)]" : "border-[var(--color-border)] text-[var(--color-green)] hover:bg-[var(--color-green)] hover:text-black"}`}>✓</button>
                       <button title="Broken (✗)" onClick={() => setUrlOverrides(p => override === "broken" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "broken" })}
