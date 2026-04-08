@@ -26,6 +26,25 @@ export interface Profile {
   lastVerifiedBy?: string          // "pipeline" | "editorial"
   sourceTypes?: string[]
   internalNotes?: string
+  checklistNa?: string[]
+  verifiedBlocks?: string[]
+  // Type-specific fields for checklist
+  billsSponsored?: number
+  billsCosponsored?: number
+  committees?: string
+  totalRaisedNum?: number
+  politiciansFunded?: string
+  totalPoliticalSpend?: string
+  entityType?: string
+  category?: string
+  platform?: string
+  taxStatus?: string
+  nonprofitStatus?: string
+  ein?: string
+  totalRevenue?: string
+  lobbyistCount?: number
+  revolvingDoorPct?: string
+  faraClients?: string
 }
 
 // Parse frontmatter from markdown content
@@ -61,6 +80,23 @@ export function parseProfile(path: string, content: string): Profile {
     lastVerifiedBy: data["last-verified-by"],
     sourceTypes: data["source-types"],
     internalNotes: data["internal-notes"],
+    checklistNa: data["checklist-na"],
+    verifiedBlocks: data["verified-blocks"],
+    billsSponsored: data["bills-sponsored"] ? parseInt(data["bills-sponsored"]) : undefined,
+    billsCosponsored: data["bills-cosponsored"] ? parseInt(data["bills-cosponsored"]) : undefined,
+    committees: data.committees,
+    politiciansFunded: data["politicians-funded"],
+    totalPoliticalSpend: data["total-political-spend"],
+    entityType: data["entity-type"],
+    category: data.category,
+    platform: data.platform,
+    taxStatus: data["tax-status"],
+    nonprofitStatus: data["nonprofit-status"],
+    ein: data.ein,
+    totalRevenue: data["total-revenue"],
+    lobbyistCount: data["lobbyist-count"] ? parseInt(data["lobbyist-count"]) : undefined,
+    revolvingDoorPct: data["revolving-door-pct"],
+    faraClients: data["fara-clients"],
   }
 }
 

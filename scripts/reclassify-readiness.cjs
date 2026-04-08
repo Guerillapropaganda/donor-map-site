@@ -122,6 +122,43 @@ function hasContradictions(content) {
   return /\[!contradiction\]/i.test(content);
 }
 
+// ─── Type-Specific A+ Requirements ─────────────────────────────
+
+const TYPE_REQUIREMENTS = {
+  politician: [
+    { id: 'voting-records', check: (d, c) => c.includes('<!-- auto:govtrack') || c.includes('<!-- auto:voting-record') },
+    { id: 'committees', check: (d) => !!d.committees || !!d['committee-assignments'] },
+    { id: 'bills', check: (d) => parseInt(d['bills-sponsored'] || 0) > 0 || parseInt(d['bills-cosponsored'] || 0) > 0 },
+    { id: 'fec-data', check: (d, c) => !!d['total-raised'] || c.includes('<!-- auto:fec') },
+  ],
+  donor: [
+    { id: 'politicians-funded', check: (d) => !!d['politicians-funded'] },
+    { id: 'contribution-amounts', check: (d) => !!d['total-political-spend'] || !!d['total-raised'] },
+    { id: 'sector', check: (d) => !!d.sector },
+  ],
+  corporation: [
+    { id: 'pac-contributions', check: (d, c) => !!d['politicians-funded'] || c.includes('<!-- auto:fec') },
+    { id: 'lobbying', check: (d, c) => !!d['lobbying-spend'] || c.includes('<!-- auto:lda') },
+    { id: 'contracts', check: (d, c) => c.includes('<!-- auto:usaspending') || c.includes('<!-- auto:sam') },
+  ],
+  'think-tank': [
+    { id: 'funders', check: (d) => !!d.donors || !!d.related },
+    { id: '990-data', check: (d, c) => !!d.ein || !!d['total-revenue'] || c.includes('<!-- auto:nonprofit-990') },
+  ],
+  'lobbying-firm': [
+    { id: 'lobbying-spend', check: (d) => !!d['lobbying-spend'] },
+    { id: 'client-list', check: (d, c) => c.includes('<!-- auto:lda') },
+  ],
+  'media-profile': [
+    { id: 'category', check: (d) => !!d.category },
+    { id: 'connected', check: (d) => !!d.related },
+  ],
+  pac: [
+    { id: 'fec-data', check: (d, c) => c.includes('<!-- auto:fec') },
+    { id: 'donors-mapped', check: (d) => !!d.donors },
+  ],
+};
+
 // ─── Classification Logic ──────────────────────────────────────
 
 function classify(data, body, content, sourceTypes, tier1Count) {
@@ -130,16 +167,25 @@ function classify(data, body, content, sourceTypes, tier1Count) {
   const lastEnriched = data['last-enriched'];
   const hasHumanSignoff = data['last-verified-by'] === 'editorial';
   const hasUnresolvedContradictions = hasContradictions(content);
+  const naItems = (data['checklist-na'] || []);
+
+  const isNa = (id) => naItems.some(n => typeof n === 'string' && n.startsWith(`${id}:`));
 
   let daysSinceEnriched = Infinity;
   if (lastEnriched) {
     daysSinceEnriched = (Date.now() - new Date(lastEnriched).getTime()) / (24 * 60 * 60 * 1000);
   }
 
-  // A+ (verified): 2+ source types, connections, enriched <90d, human sign-off, no contradictions
+  // Type-specific requirements for A+
+  const typeReqs = TYPE_REQUIREMENTS[data.type] || [];
+  const typeReqsMet = typeReqs.every(req => isNa(req.id) || req.check(data, content));
+  const minSourceTypes = ['media-profile', 'think-tank'].includes(data.type) ? 1 : 2;
+
+  // A+ (verified): type-specific reqs + universal reqs
   if (
-    sourceTypes.length >= 2 &&
-    tier1Count >= 2 &&
+    typeReqsMet &&
+    sourceTypes.length >= minSourceTypes &&
+    tier1Count >= minSourceTypes &&
     hasConnections &&
     daysSinceEnriched <= 90 &&
     hasHumanSignoff &&

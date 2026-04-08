@@ -4,6 +4,7 @@ import React, { useState, useEffect } from "react"
 import { useSearchParams, useRouter } from "next/navigation"
 import Link from "next/link"
 import { readinessColor, typeColor } from "@/lib/vault"
+import { VerificationChecklist } from "@/components/VerificationChecklist"
 
 interface ProfileData {
   title: string
@@ -68,6 +69,7 @@ export default function ProfilePage() {
   const [urlCheckProgress, setUrlCheckProgress] = useState("")
   const [urlFilter, setUrlFilter] = useState<"all" | "unchecked" | "verified" | "broken" | "unsure">("all")
   const [expandedUrl, setExpandedUrl] = useState<number | null>(null)
+  const [rawContent, setRawContent] = useState("")
   const [readinessChanging, setReadinessChanging] = useState(false)
   const [readinessMsg, setReadinessMsg] = useState("")
   const [internalNotes, setInternalNotes] = useState("")
@@ -101,6 +103,7 @@ export default function ProfilePage() {
           setProfile(profileData.profile)
           setSources(profileData.sources || null)
           setUrls(profileData.urls || [])
+          setRawContent(profileData.raw || "")
           const notes = profileData.profile.internalNotes || ""
           setInternalNotes(notes)
           setNotesOriginal(notes)
@@ -737,6 +740,21 @@ export default function ProfilePage() {
 
       {/* Tab content */}
       {tab === "overview" && (
+        <div className="space-y-4">
+          {/* A+ Verification Checklist */}
+          <VerificationChecklist
+            profile={profile}
+            raw={rawContent}
+            onSaveNa={async (naItems) => {
+              await fetch("/api/profile/checklist", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ path: profilePath, checklistNa: naItems }),
+              })
+              setProfile({ ...profile, checklistNa: naItems })
+            }}
+          />
+
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
           {/* Metadata */}
           <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
@@ -806,6 +824,7 @@ export default function ProfilePage() {
             <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-3">File</h3>
             <p className="text-[10px] text-[var(--color-text-dim)] break-all font-mono">{profile.path}</p>
           </div>
+        </div>
         </div>
       )}
 

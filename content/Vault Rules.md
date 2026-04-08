@@ -86,6 +86,22 @@ Every factual claim in the vault must cite a government record. Articles provide
 - Auto-populated by the reclassification script based on profile type (e.g., politicians missing Congress.gov data).
 - Transparency about gaps is strength, not weakness.
 
+**Type-specific A+ requirements:**
+
+| Type | Must have for A+ |
+|------|-----------------|
+| Politician | Voting records, committee assignments, bills, FEC data, 2+ Tier 1 types |
+| Donor | Politicians funded, contribution amounts, sector, 2+ Tier 1 types |
+| Corporation | PAC contributions, lobbying filings, federal contracts, 2+ Tier 1 types |
+| Think Tank | Top funders, 990 data, policy positions, 1+ Tier 1 type |
+| Lobbying Firm | Client list, lobbying spend, 2+ Tier 1 types (LDA + FARA/FEC) |
+| Media Profile | Ownership chain, political lean, connections, 1+ Tier 1 type |
+| PAC | FEC data, donors mapped, politicians funded, 2+ Tier 1 types |
+
+All types also require: connections mapped, enriched <90 days, no contradictions, editorial sign-off.
+
+**N/A system:** Items can be marked N/A with a reason (e.g., "Not yet in office", "Private company — no SEC filings"). N/A items don't count against the A+ score. Stored in `checklist-na` frontmatter.
+
 **New frontmatter fields:**
 ```yaml
 source-types:              # distinct Tier 1 sources present (auto-computed)
@@ -95,6 +111,12 @@ corroboration-count: 3     # facts backed by 2+ source types (auto-computed)
 known-gaps:                # what data is explicitly missing (auto + manual)
   - "No lobbying disclosure data"
 last-verified-by: editorial  # "pipeline" or "editorial" — gate for A+
+checklist-na:              # items marked N/A with reasons
+  - "voting-records: Not yet in office (candidate)"
+  - "sec-filings: Private company"
+verified-blocks:           # pipeline data blocks reviewed by editor
+  - fec-fundraising
+  - govtrack
 ```
 
 **Reclassification:**
