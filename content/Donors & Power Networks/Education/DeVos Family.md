@@ -173,9 +173,12 @@ The DeVos family represents the clearest case in the vault of a donor openly ack
 
 ### Sources
 
-- [OpenSecrets: DeVos Family Profile Summary](https://www.opensecrets.org/orgs/devos-family/summary?id=D000085658) (Tier 1) (NEEDS REVIEW: McGrath, North et al is the header. Not sure how it connects to devos; verify)
-- [OpenSecrets: Betsy DeVos and Her Big-Giving Relatives](https://www.opensecrets.org/news/2016/12/betsy-devos-big-giving-relatives-family-qualifies-gop-royalty/) (Tier 1) (VERIFIED)
-- [FollowTheMoney: Michigan's DeVos Family](https://followthemoney.org/research/institute-reports/names-in-news-michigans-devos-family) (NEEDS REVIEW: Follow the money moved to open secrets. Find a new URL) *(source unavailable)* (Tier 1)
+- [FEC: DeVos Family Individual Contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Betsy+Devos&contributor_name=Dick+Devos&contributor_name=Elisabeth+DeVos&contributor_name=Richard+Devos) (Tier 1) (VERIFIED)
+- [OpenSecrets: Betsy DeVos and Her Big-Giving Relatives](https://www.opensecrets.org/news/2016/12/betsy-devos-big-giving-relatives-family-qualifies-gop-royalty/) (Tier 2) (VERIFIED)
+
+#### Archived
+- ~~[OpenSecrets: DeVos Family Profile Summary](https://www.opensecrets.org/orgs/devos-family/summary?id=D000085658)~~ (was Tier 1 — org ID maps to McGrath North, not DeVos. Wrong entity.)
+- ~~[FollowTheMoney: Michigan's DeVos Family](https://followthemoney.org/research/institute-reports/names-in-news-michigans-devos-family)~~ (was Tier 1 — research report URL dead, source unavailable)
 - [FTC: In re Amway Corporation Decision (PDF)](https://www.ftc.gov/sites/default/files/documents/commission_decision_volumes/volume-93/ftc_volume_decision_93_january_-_june_1979pages_618-738.pdf) (Tier 1) (VERIFIED)
 - [Sen. Whitehouse: Senators Renew Calls for DeVos to Disclose Dark Money Ties](https://www.whitehouse.senate.gov/news/release/senators-renew-calls-for-devos-to-come-clean-on-dark-money-ties/) (Tier 1) (VERIFIED)
 - [Sen. Peters: DeVos Pressed on $500M Wasted on Failed Charter Schools](https://www.peters.senate.gov/newsroom/press-releases/peters-presses-devos-for-answers-on-program-that-wasted-over-500-million-in-taxpayer-money-on-failed-charter-schools/) (Tier 1) (VERIFIED)
