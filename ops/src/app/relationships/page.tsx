@@ -476,7 +476,7 @@ export default function RelationshipsPage() {
                         return (
                           <div key={name} className="flex items-center gap-2 p-2 bg-[var(--color-bg)] rounded hover:bg-[var(--color-bg-hover)] transition-colors group">
                             <span className="w-2 h-2 rounded-full" style={{ backgroundColor: REL_COLORS[rt] }} />
-                            <button onClick={() => { const tp = topConnected.find((t) => t.title === name) || profiles.find((p) => p.title === name); if (tp) selectProfile(tp) }}
+                            <button onClick={() => { const norm = (s: string) => s.replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim().toLowerCase(); const target = norm(name); const tp = topConnected.find((t) => norm(t.title) === target) || profiles.find((p) => norm(p.title) === target); if (tp) selectProfile(tp) }}
                               className="text-[11px] text-[var(--color-text)] hover:text-[var(--color-steel)] text-left flex-1">{name}</button>
                             {targetProfile && <span className="text-[7px] px-1 rounded" style={{ color: typeColor(targetProfile.type), backgroundColor: `${typeColor(targetProfile.type)}15` }}>{targetProfile.type}</span>}
                             {shared.length > 0 && (
@@ -654,7 +654,13 @@ export default function RelationshipsPage() {
                           onMouseUp={() => setDraggingNode(null)}
                           onMouseLeave={() => { if (draggingNode === node.name) setDraggingNode(null) }}>
                           <button
-                            onClick={() => { if (!draggingNode) { const tp = topConnected.find((t) => t.title === node.name) || profiles.find((p) => p.title === node.name); if (tp) selectProfile(tp) } }}
+                            onClick={() => {
+                              if (draggingNode) return
+                              const norm = (s: string) => s.replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim().toLowerCase()
+                              const target = norm(node.name)
+                              const tp = topConnected.find((t) => norm(t.title) === target) || profiles.find((p) => norm(p.title) === target)
+                              if (tp) selectProfile(tp)
+                            }}
                             className="w-full h-full rounded-full flex items-center justify-center text-center hover:scale-105 transition-transform"
                             style={{ backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
                             title={node.name}>
