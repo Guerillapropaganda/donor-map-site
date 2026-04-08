@@ -122,7 +122,7 @@ Immigration — H-2A program, undocumented workforce
 | Net Assets | $73.5M |
 | Officer Compensation | $1.1M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 940357610](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 940357610](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
