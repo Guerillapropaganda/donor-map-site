@@ -256,7 +256,7 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 
 profile-status:: ready
 content-readiness:: ready
- 
+
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
