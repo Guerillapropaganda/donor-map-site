@@ -44,15 +44,19 @@ Known issues:
 - LDA auth tokens don't work on lda.gov yet
 - `lda-pipeline.cjs` in engine repo still generates lda.senate.gov URLs
 
+Also done (end of session):
+- **Fixed Trump graph** — opposition targets now resolve for ALL profile types (was only non-politicians)
+- **Draggable graph nodes** — grab and reposition any node, lines follow, Reset restores layout
+- **Stories on graph** — pink dotted lines for story connections
+
 Next session priorities:
-1. **Fix Trump graph opposition display** — debug ProfileWidget node resolution for opposes targets
-2. **Stale profile detector** — surface profiles not enriched in 30+ days
-3. **Contradiction scanner** — auto-find shared-donor contradictions
-4. **Money trail visualizer** — donor→politician→committee→bill flow
-5. **Auto-story generator** — draft stories from detected patterns
-6. Fix lda-pipeline.cjs domain
-7. Social scheduling for Distribution page
-8. Profile completeness as a sort/filter on live site
+1. **Stale profile detector** — surface profiles not enriched in 30+ days
+2. **Contradiction scanner** — auto-find shared-donor contradictions
+3. **Money trail visualizer** — donor→politician→committee→bill flow
+4. **Auto-story generator** — draft stories from detected patterns
+5. Fix lda-pipeline.cjs domain
+6. Social scheduling for Distribution page
+7. Profile completeness as a sort/filter on live site
 
 ---
 
