@@ -58,6 +58,16 @@ export default function RelationshipsPage() {
   const [toast, setToast] = useState<string | null>(null)
   const [sidebarTypeFilter, setSidebarTypeFilter] = useState<string>("all")
 
+  // Context menu for changing connection types
+  const [contextMenu, setContextMenu] = useState<{ x: number; y: number; name: string; type: "related" | "donors" | "opposes" } | null>(null)
+
+  // Close context menu on click anywhere
+  useEffect(() => {
+    const handler = () => setContextMenu(null)
+    window.addEventListener("click", handler)
+    return () => window.removeEventListener("click", handler)
+  }, [])
+
   // Graph zoom + pan
   const [graphZoom, setGraphZoom] = useState(1)
   const [graphPan, setGraphPan] = useState({ x: 0, y: 0 })
@@ -302,6 +312,36 @@ export default function RelationshipsPage() {
 
   return (
     <div>
+      {/* Context menu for changing connection types */}
+      {contextMenu && (
+        <div className="fixed z-[100] bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg shadow-2xl overflow-hidden"
+          style={{ left: contextMenu.x, top: contextMenu.y }}
+          onClick={(e) => e.stopPropagation()}>
+          <div className="px-3 py-2 border-b border-[var(--color-border)]">
+            <p className="text-[9px] text-[var(--color-text-dim)] truncate max-w-[200px]">{contextMenu.name}</p>
+          </div>
+          {(["related", "donors", "opposes"] as const).map((rt) => (
+            <button key={rt}
+              onClick={() => {
+                if (rt !== contextMenu.type) changeConnectionType(contextMenu.name, contextMenu.type, rt)
+                setContextMenu(null)
+              }}
+              className={`w-full flex items-center gap-2 px-3 py-2 text-[10px] text-left hover:bg-[var(--color-bg-hover)] transition-colors ${rt === contextMenu.type ? "font-bold" : ""}`}
+              style={{ color: REL_COLORS[rt] }}>
+              <span className="w-2 h-2 rounded-full bg-current" />
+              {REL_LABELS[rt]}
+              {rt === contextMenu.type && <span className="ml-auto text-[8px]">current</span>}
+            </button>
+          ))}
+          <button
+            onClick={() => { removeConnection(contextMenu.name, contextMenu.type); setContextMenu(null) }}
+            className="w-full flex items-center gap-2 px-3 py-2 text-[10px] text-left text-[var(--color-red)] hover:bg-[var(--color-red)]/10 transition-colors border-t border-[var(--color-border)]">
+            <span className="w-2 h-2 rounded-full bg-current" />
+            Remove
+          </button>
+        </div>
+      )}
+
       {/* Toast */}
       {toast && (
         <div className="fixed top-4 right-4 z-50 bg-[var(--color-bg-card)] border border-[var(--color-green)]/30 rounded-lg px-4 py-3 text-xs text-[var(--color-green)] shadow-lg flex items-center gap-2">
@@ -470,7 +510,9 @@ export default function RelationshipsPage() {
                           Remove
                         </button>
                       </div>
-                      <button onClick={() => expandNode(targetName)} className="text-left w-full">
+                      <button onClick={() => expandNode(targetName)}
+                        onContextMenu={(e) => { e.preventDefault(); setContextMenu({ x: e.clientX, y: e.clientY, name: targetName, type: conn.relationshipType }) }}
+                        className="text-left w-full">
                         <p className="text-[11px] font-bold text-[var(--color-text)] hover:text-[var(--color-steel)] transition-colors">{targetName}</p>
                         <div className="flex items-center gap-2 mt-1">
                           {targetProfile && <span className="text-[7px] px-1 rounded" style={{ color: typeColor(targetProfile.type), backgroundColor: `${typeColor(targetProfile.type)}15` }}>{targetProfile.type}</span>}
@@ -542,10 +584,12 @@ export default function RelationshipsPage() {
                         </svg>
                         <div className="absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 z-10 group/node"
                           style={{ left: `${x}%`, top: `${y}%` }}>
-                          <button onClick={() => { const tp = topConnected.find((t) => t.title === node.name); if (tp) selectProfile(tp) }}
+                          <button
+                            onClick={() => { const tp = topConnected.find((t) => t.title === node.name); if (tp) selectProfile(tp) }}
+                            onContextMenu={(e) => { e.preventDefault(); e.stopPropagation(); setContextMenu({ x: e.clientX, y: e.clientY, name: node.name, type: node.type }) }}
                             className="w-full h-full rounded-full flex items-center justify-center text-center hover:scale-110 transition-transform"
                             style={{ backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
-                            title={`${node.name} (${node.type})`}>
+                            title={`${node.name} — Right-click to edit`}>
                             <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3">{node.name}</span>
                           </button>
                           <button onClick={(e) => { e.stopPropagation(); removeConnection(node.name, node.type) }} disabled={saving}
