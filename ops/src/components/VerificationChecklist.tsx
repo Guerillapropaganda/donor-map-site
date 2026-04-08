@@ -115,6 +115,27 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p) => (p.sourceTypes || []).length >= 2 },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
+  // Editorial content types — no pipeline enrichment required
+  story: [
+    { id: "sourced-urls", label: "Sources cited with URLs", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 1 },
+    { id: "url-threshold", label: "5+ sourced URLs (Report level)", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 5 },
+    { id: "profiles-linked", label: "Profiles linked via wikilinks", check: (_, raw) => (raw.match(/\[\[[^\]]+\]\]/g) || []).length >= 1 },
+    { id: "investigation-level", label: "10+ URLs + 3 Tier 1 (Investigation)", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 10 && (raw.match(/\(Tier 1\)/g) || []).length >= 3, naAllowed: true },
+    { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
+  ],
+  event: [
+    { id: "source-url", label: "Source URL provided", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 1 },
+    { id: "profiles-linked", label: "Profiles linked", check: (_, raw) => (raw.match(/\[\[[^\]]+\]\]/g) || []).length >= 1 },
+    { id: "date-accurate", label: "Date documented", check: (p) => !!p.lastUpdated },
+  ],
+  "sub-note": [
+    { id: "sourced", label: "Has sources", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 1 },
+    { id: "profiles-linked", label: "Profiles linked", check: (_, raw) => (raw.match(/\[\[[^\]]+\]\]/g) || []).length >= 1 },
+  ],
+  "daily-update": [
+    { id: "sourced", label: "Has sources", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 1 },
+    { id: "date", label: "Date documented", check: (p) => !!p.lastUpdated },
+  ],
 }
 
 // Fallback for types not in the map
