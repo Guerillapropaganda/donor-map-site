@@ -65,18 +65,32 @@ export default function UrlManagerPage() {
 
   // Load URLs + completed archive
   useEffect(() => {
-    setCompleted(loadCompleted())
+    const savedCompleted = loadCompleted()
     fetch("/api/urls")
       .then((r) => r.json())
       .then((data) => {
-        const completedIds = new Set(loadCompleted().map((c) => c.url + c.profilePath))
-        const checked: CheckedUrl[] = (data.urls || [])
-          .filter((u: VaultUrl) => !completedIds.has(u.url + u.profilePath))
-          .map((u: VaultUrl) => ({
-            ...u,
-            status: u.archived ? "broken" as UrlStatus : "unchecked" as UrlStatus,
-          }))
-        setUrls(checked)
+        const completedIds = new Set(savedCompleted.map((c) => c.url + c.profilePath))
+        const active: CheckedUrl[] = []
+        const fromVaultCompleted: CompletedUrl[] = []
+
+        for (const u of (data.urls || []) as VaultUrl[]) {
+          const key = u.url + u.profilePath
+          if (completedIds.has(key)) continue // Already in saved completed
+
+          if (u.archived) {
+            // Already archived in vault → goes straight to Completed Archive
+            fromVaultCompleted.push({
+              ...u,
+              completedStatus: "archived-done",
+              completedDate: "from vault",
+            })
+          } else {
+            active.push({ ...u, status: "unchecked" as UrlStatus })
+          }
+        }
+
+        setUrls(active)
+        setCompleted([...savedCompleted, ...fromVaultCompleted])
         setLoading(false)
       })
       .catch(() => setLoading(false))
@@ -353,8 +367,8 @@ export default function UrlManagerPage() {
               <div className="flex gap-3 flex-wrap mb-6">
                 <CompletedBox color="#22c55e" label="Confirmed Working" items={completedConfirmed} icon="&#x2705;" />
                 <CompletedBox color="#ef4444" label="Archived (Broken)" items={completedArchived} icon="&#x1F5C4;" />
-                <CompletedBox color="#f59e0b" label="Flagged for Review" items={completedFlagged} icon="&#x1F3F7;" />
-                <CompletedBox color="#a855f7" label="Reviewed" items={completedReviewed} icon="&#x2714;" />
+                <CompletedBox color="#f59e0b" label="Slow/Redirect Confirmed" items={completedFlagged} icon="&#x26A0;" />
+                <CompletedBox color="#a855f7" label="Flagged for Review" items={completedReviewed} icon="&#x2753;" />
               </div>
             </>
           )}
