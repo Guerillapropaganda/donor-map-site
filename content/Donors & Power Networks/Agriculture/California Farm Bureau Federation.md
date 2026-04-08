@@ -76,9 +76,9 @@ CFBF maintains a PAC and an active Sacramento lobbying operation. It has relatio
 — 2023-24: $63,951 in disbursements; $52,161 raised in 2024
 — 2021-22: $29,537 in PAC fundraising
 — Described as "the largest agricultural political committee in California"
-[Source: OpenSecrets / FollowTheMoney — Tier 1]
+[FPPC: CFBF/FarmPAC Committee Filings](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1007762&session=2023) (Tier 1) (VERIFIED)
 
-**American Farm Bureau Federation (national):** $1.46 million in federal lobbying (2023); $1.31 million (2024). CFBF President Shannon Douglass participates as AFBF voting delegate. AFBF adopted all four policy changes submitted by CFBF at the 2024 annual convention — demonstrating California's influence on national agricultural policy. [Source: OpenSecrets — Tier 1]
+**American Farm Bureau Federation (national):** $1.46 million in federal lobbying (2023); $1.31 million (2024). CFBF President Shannon Douglass participates as AFBF voting delegate. AFBF adopted all four policy changes submitted by CFBF at the 2024 annual convention — demonstrating California's influence on national agricultural policy. ~~[Senate LDA: American Farm Bureau Federation Lobbying Filings](https://lda.gov/filings/public/filing/search/?client_name=American+Farm+Bureau+Federation)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 **Anti-unionization spending:** Industry sources indicate the Farm Bureau has spent millions on Spanish-language radio advertisements discouraging farmworker unionization — this is the ground-level mechanism that complements the Sacramento lobbying. Specific dollar figures for radio spending not publicly itemized. [Source: agricultural press reports — Tier 3]
 
