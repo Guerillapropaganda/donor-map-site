@@ -12,37 +12,60 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-08 (evening)
+Date: 2026-04-08 (late night)
 
-Done:
-- **Ops v1.1 → v1.2 upgrade** — major Relationship Mapper and Source Hunter overhaul
-- **Source Hunter expanded: 6 → 15 APIs** — added Senate LDA, SAM.gov, CourtListener, FARA, DOJ Press, ProPublica Nonprofits, OSHA, OpenSanctions, LobbyView. Uses env vars matching GitHub Secrets (FECAPI, CONGRESSAPI, etc.)
-- **Auto-Connection Engine** — new pipeline script (`auto-connection-engine.cjs`) in donor-map-engine repo. 5 strategies: donor↔politician bidirectional, shared donor detection, opposition enforcement, top-donors→donors field, politicians-funded backlinks. Runs after all other pipelines in CI workflow.
-- **LDA migration complete** — 509 URLs across 163 files migrated from lda.senate.gov → lda.gov. Source Hunter uses lda.gov without auth (tokens not migrated yet), falls back to lda.senate.gov with auth.
-- **Relationship editing everywhere** — right-click context menu on Graph and Explorer nodes to change type (Related/Funded By/Opposes) or remove. List View has inline dropdown. API now handles body-text connections (not just frontmatter).
-- **Clickable URLs everywhere** — Source Hunter, ProfileDetail sidebar, Profile page URLs all open in new tab
-- **Entity type filtering on Add Connection** — filter search results by Politicians/Donors/Corps/Think Tanks/K Street/Media/Stories
-- **Connection type change** — `changeConnectionType()` removes old type, adds new, refreshes UI instantly (cache invalidation via globalThis flag)
-- **Ctrl+K command palette**, unified Profile page, keyboard shortcuts, visual readiness badges (from earlier in session)
+Done (massive session — Ops v1.0 → v1.3):
+- **Ops v1.1**: Ctrl+K command palette, unified Profile page, rich activity feed, keyboard shortcuts, visual readiness badges
+- **Ops v1.2**: Source Hunter 6→15 APIs, auto-connection engine (8 strategies, 5,733 connections mapped), LDA migration (509 URLs), relationship editing on all views, clickable URLs everywhere, entity type filtering on Add Connection
+- **Ops v1.3**: Voting Record pipeline, pipeline action categories, visible edit controls
+
+**Source Hunter expanded: 6 → 15 APIs** — Senate LDA, SAM.gov, CourtListener, FARA, DOJ Press, ProPublica Nonprofits, OSHA, OpenSanctions, LobbyView added. API keys in `ops/.env.local` using GitHub Secret names (FECAPI, CONGRESSAPI, etc.)
+
+**Auto-Connection Engine** — `auto-connection-engine.cjs` in donor-map-engine. 8 strategies covering ALL profile types: donor↔politician bidirectional, shared donors, opposition enforcement, related bidirectional (all types), donors bidirectional, cross-type shared connections. Has standalone workflow (`auto-connect.yml`) + "Run Auto-Connect" button on Relationships page. First run mapped 5,733 connections across 805 files.
+
+**Voting Record Pipeline** — `voting-record-pipeline.cjs` in donor-map-engine. Pulls from Congress.gov + GovTrack: party loyalty %, ideology score, missed votes %, key votes table. Writes frontmatter fields + auto-block section. Added to enrichment workflow.
+
+**Pipeline Action Categories** — pipelines reorganized into 4 intuitive groups:
+- Auto-Fill (green): pure data, goes live immediately
+- Source Discovery (blue): adds citations, quick review recommended
+- Needs Review (amber): editorial review before publishing
+- Relationship (purple): connects profiles automatically
+Default selection is Auto-Fill only. Pipeline cards show action + category badges.
+
+**Relationship Mapper overhaul**:
+- Draggable graph (click+drag to pan, scroll to zoom)
+- Visible edit controls: Explorer cards have type dropdown, Graph nodes have pencil/X buttons on hover
+- Context menu on right-click for all views
+- Search clears properly for new searches
+- Body-text connections editable (not just frontmatter)
+- Entity type filtering on Add Connection form
+- Internal docs excluded from No Connections list
+- Node click fixed (fallback to full profiles list)
+
+**LDA migration**: 509 URLs migrated lda.senate.gov → lda.gov. Source Hunter uses lda.gov without auth, falls back to old domain with token.
 
 Architecture:
-- `auto-connection-engine.cjs` in donor-map-engine runs after all pipelines
-- Relationships API (`ops/src/app/api/relationships/route.ts`) rewritten to handle body-text fields
-- Connections API cache invalidated immediately on relationship changes
-- Source Hunter API reads keys from both `FECAPI` and `FEC_API_KEY` env var formats
-- LDA search: tries lda.gov without auth first, falls back to lda.senate.gov with auth
+- New engine scripts: `auto-connection-engine.cjs`, `voting-record-pipeline.cjs`
+- New engine workflows: `auto-connect.yml` (standalone, 10min timeout)
+- New ops components: `CommandPalette.tsx`, `ClientProviders.tsx`, `KeyboardShortcuts.tsx`
+- New ops pages: `/profile`, pipeline API supports `workflow` parameter
+- Rewritten: `EnrichmentPanel.tsx` (action categories), `pipelines.ts` (action types), `relationships/page.tsx` (full rewrite), `api/relationships/route.ts` (body text support), `api/connections/route.ts` (cache invalidation), `api/sources/route.ts` (15 APIs)
 
 Known issues:
 - `.next` cache corruption if app killed mid-compile — `rm -rf ops/.next`
-- LDA auth tokens don't work on lda.gov yet (using unauthenticated search)
-- donor-map-engine `lda-pipeline.cjs` still generates lda.senate.gov URLs (needs separate fix)
+- LDA auth tokens don't work on lda.gov yet
+- `lda-pipeline.cjs` in engine repo still generates lda.senate.gov URLs
+- Enrichment workflow timeout at 25min can cut off auto-connection engine (has own workflow now)
 
-Next:
-- Social scheduling for Distribution page (Buffer-like)
-- Stale profile detector
-- Cross-module profile sidebar
-- Fix lda-pipeline.cjs in engine repo to use lda.gov
-- Run opensecrets-replace for remaining categories (~3,000 URLs)
+Next session priorities:
+1. **Pipeline diff viewer** — show what changed inside each profile after enrichment (not just file count)
+2. **Profile completeness score** — percentage ring on every profile card
+3. **Stale profile detector** — surface profiles needing attention
+4. **Contradiction scanner** — auto-find shared-donor contradictions for stories
+5. **Money trail visualizer** — donor→politician→committee→bill flow diagram
+6. **Auto-story generator** — draft story skeletons from detected patterns
+7. Fix lda-pipeline.cjs domain
+8. Social scheduling for Distribution page
 
 ---
 
