@@ -1,7 +1,7 @@
 "use client"
 
 import type { Pipeline } from "@/lib/pipelines"
-import { CATEGORY_COLORS } from "@/lib/pipelines"
+import { CATEGORY_COLORS, ACTION_COLORS, ACTION_LABELS } from "@/lib/pipelines"
 
 interface PipelineCardProps {
   pipeline: Pipeline
@@ -26,13 +26,21 @@ export function PipelineCard({ pipeline, selected, onToggle }: PipelineCardProps
         selected ? "bg-[var(--color-green)] border-[var(--color-green)]" : "border-[var(--color-border)]"
       }`} />
 
-      {/* Category badge */}
-      <span
-        className="inline-block text-[7px] uppercase tracking-widest px-1.5 py-0.5 rounded mb-1.5"
-        style={{ color: catColor, backgroundColor: `${catColor}15` }}
-      >
-        {pipeline.category}
-      </span>
+      {/* Action + Category badges */}
+      <div className="flex items-center gap-1.5 mb-1.5">
+        <span
+          className="text-[7px] uppercase tracking-widest px-1.5 py-0.5 rounded"
+          style={{ color: ACTION_COLORS[pipeline.action], backgroundColor: `${ACTION_COLORS[pipeline.action]}15` }}
+        >
+          {ACTION_LABELS[pipeline.action]}
+        </span>
+        <span
+          className="text-[7px] uppercase tracking-widest px-1.5 py-0.5 rounded"
+          style={{ color: catColor, backgroundColor: `${catColor}15` }}
+        >
+          {pipeline.category}
+        </span>
+      </div>
 
       {/* Name */}
       <p className="text-[11px] font-bold text-[var(--color-text)] mb-0.5 pr-5">{pipeline.name}</p>
