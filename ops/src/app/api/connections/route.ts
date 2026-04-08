@@ -62,6 +62,13 @@ function parseWikilinks(value: string): string[] {
   })
 }
 
+function parseBodyField(body: string, field: string): string[] {
+  const regex = new RegExp(`^${field}:\\s*(.+)`, "m")
+  const match = body.match(regex)
+  if (!match) return []
+  return parseWikilinks(match[1])
+}
+
 // Cache for 2 minutes
 let cache: { data: unknown; timestamp: number } | null = null
 const CACHE_TTL = 120_000
@@ -82,15 +89,19 @@ export async function GET() {
     for (const file of files) {
       try {
         const content = fs.readFileSync(file, "utf-8")
-        const { data: fm } = matter(content)
+        const { data: fm, content: body } = matter(content)
         const relPath = path.relative(repoRoot, file).replace(/\\/g, "/")
         const folder = relPath.replace("content/", "").split("/")[0]
         const title = fm.title || path.basename(file, ".md").replace(/^_/, "").replace(/ Master Profile$/, "")
         const type = fm.type || typeFromFolder(folder)
 
-        const related = parseWikilinks(fm.related)
-        const donors = parseWikilinks(fm.donors)
-        const opposes = parseWikilinks(fm.opposes)
+        // Check frontmatter first, fall back to body text
+        const fmRelated = parseWikilinks(fm.related)
+        const fmDonors = parseWikilinks(fm.donors)
+        const fmOpposes = parseWikilinks(fm.opposes)
+        const related = fmRelated.length > 0 ? fmRelated : parseBodyField(body, "related")
+        const donors = fmDonors.length > 0 ? fmDonors : parseBodyField(body, "donors")
+        const opposes = fmOpposes.length > 0 ? fmOpposes : parseBodyField(body, "opposes")
 
         const profile: ConnectedProfile = {
           title, path: relPath, type,
@@ -109,7 +120,7 @@ export async function GET() {
     const allProfiles = Array.from(profileMap.values())
     const connected = allProfiles.filter((p) => p.connectionCount > 0)
     const unconnected = allProfiles.filter((p) => p.connectionCount === 0)
-    const topConnected = [...connected].sort((a, b) => b.connectionCount - a.connectionCount).slice(0, 50)
+    const topConnected = [...connected].sort((a, b) => b.connectionCount - a.connectionCount)
 
     // Recent: sort by file mtime
     const recentFiles = files
@@ -117,11 +128,16 @@ export async function GET() {
       .sort((a, b) => b.mtime - a.mtime)
       .slice(0, 30)
 
+    // Build file→title lookup for recent connections
+    const fileToTitle = new Map<string, string>()
+    for (const f of files) {
+      const rp = path.relative(repoRoot, f).replace(/\\/g, "/")
+      for (const [t, p] of profileMap) { if (p.path === rp) { fileToTitle.set(f, t); break } }
+    }
+
     const recentConnections: Connection[] = []
     for (const { file } of recentFiles) {
-      const profile = profileMap.get(
-        path.basename(file, ".md").replace(/^_/, "").replace(/ Master Profile$/, "")
-      )
+      const profile = profileMap.get(fileToTitle.get(file) || "")
       if (profile && profile.connectionCount > 0) {
         for (const t of profile.related) recentConnections.push({ source: profile.title, sourcePath: profile.path, sourceType: profile.type, target: t, relationshipType: "related" })
         for (const t of profile.donors) recentConnections.push({ source: profile.title, sourcePath: profile.path, sourceType: profile.type, target: t, relationshipType: "donors" })
