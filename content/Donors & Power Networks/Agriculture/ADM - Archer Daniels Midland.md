@@ -44,7 +44,7 @@ Archer Daniels Midland Company (ADM). One of the "Big Four" global commodity tra
 
 ADM PAC contributes $1-2 million per cycle, with lobbying spending of $3-5 million annually. ADM's political priorities center on the Renewable Fuel Standard (which mandates ethanol blending in gasoline), agricultural trade policy, and commodity program support. The company's ethanol operations make it the primary corporate beneficiary of the corn ethanol mandate — a policy that diverts 40% of the US corn crop to fuel production.
 
-- [OpenSecrets: ADM organizational profile](https://www.opensecrets.org/orgs/archer-daniels-midland/summary?id=D000000132) (Tier 1)
+- [OpenSecrets: ADM organizational profile](https://www.opensecrets.org/orgs/archer-daniels-midland/summary?id=D000000132) (Tier 1) (VERIFIED)
 
 ---
 
@@ -69,7 +69,7 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 
 - [OpenSecrets: ADM organizational profile](https://www.opensecrets.org/orgs/archer-daniels-midland/summary?id=D000000132) (Tier 1)
 - [EPA: Renewable Fuel Standard program](https://www.epa.gov/renewable-fuel-standard) (NEEDS REVIEW) (Tier 1)
-- [DOJ: ADM price-fixing prosecution](https://www.justice.gov/archive/opa/pr/1996/Oct96/508at.htm) (Tier 1)
+- [DOJ: ADM price-fixing prosecution](https://www.justice.gov/archive/opa/pr/1996/Oct96/508at.htm) (Tier 1) (VERIFIED)
 - ~~[Ballotpedia: ADM](https://ballotpedia.org/Archer_Daniels_Midland)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 content-readiness:: ready
@@ -121,22 +121,22 @@ content-readiness:: ready
 
 **Recent press releases:**
 
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Former financial advisor sentenced to 5 years in prison for running $8.6M Ponzi scheme](https://www.justice.gov/usao-sdoh/pr/former-financial-advisor-sentenced-5-years-prison-running-86m-ponzi-scheme) — USAO - Ohio, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Two Men Plead Guilty to Cocaine Trafficking](https://www.justice.gov/usao-ma/pr/two-men-plead-guilty-cocaine-trafficking) — USAO - Massachusetts
-- 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) — USAO - Massachusetts
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) (VERIFIED) — USAO - New York, Northern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Former financial advisor sentenced to 5 years in prison for running $8.6M Ponzi scheme](https://www.justice.gov/usao-sdoh/pr/former-financial-advisor-sentenced-5-years-prison-running-86m-ponzi-scheme) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) (VERIFIED) — USAO - Massachusetts
+- 2026-04-07 — [Two Men Plead Guilty to Cocaine Trafficking](https://www.justice.gov/usao-ma/pr/two-men-plead-guilty-cocaine-trafficking) (VERIFIED) — USAO - Massachusetts
+- 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) (VERIFIED) — USAO - Massachusetts
 - ... and 264,302 more
 
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22ADM%20-%20Archer%20Daniels%20Midland%22&sort=date) (NEEDS REVIEW) (Tier 1)
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22ADM%20-%20Archer%20Daniels%20Midland%22&sort=date) (Tier 1) (NEEDS REVIEW: Goes to search engine but no results)
 <!-- auto:doj-press end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300KDUEM5IEU30490](https://search.gleif.org/#/record/549300KDUEM5IEU30490) |
+| LEI | [549300KDUEM5IEU30490](https://search.gleif.org/#/record/549300KDUEM5IEU30490) (VERIFIED) |
 | Legal Name | Công ty TNHH Archer Daniels Midland VN |
 | Jurisdiction | VN |
 | Entity Status | ACTIVE |
@@ -146,7 +146,7 @@ content-readiness:: ready
 
 **Ownership chain:**
 
-- Ultimate Parent: [ARCHER-DANIELS-MIDLAND COMPANY](https://search.gleif.org/#/record/549300LO13MQ9HYSTR83) (US-DE)
+- Ultimate Parent: [ARCHER-DANIELS-MIDLAND COMPANY](https://search.gleif.org/#/record/549300LO13MQ9HYSTR83) (VERIFIED) (US-DE)
 - Công ty TNHH Archer Daniels Midland VN (this entity)
 
 - ~~[Source: GLEIF](https://www.gleif.org/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
