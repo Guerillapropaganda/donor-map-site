@@ -829,6 +829,37 @@ export default function ProfilePage() {
                     <div key={name} className="flex items-center gap-2 p-2 bg-[var(--color-bg)] rounded hover:bg-[var(--color-bg-hover)] transition-colors group">
                       <span className="w-2 h-2 rounded-full flex-shrink-0" style={{ backgroundColor: REL_COLORS[rt] }} />
                       <span className="text-[11px] text-[var(--color-text)] flex-1">{name}</span>
+                      <select
+                        value={rt}
+                        onChange={async (e) => {
+                          const newType = e.target.value as "related" | "donors" | "opposes"
+                          if (newType === rt) return
+                          setConnMsg(`Moving ${name}...`)
+                          // Remove from old type
+                          await fetch("/api/profile/connections", {
+                            method: "POST", headers: { "Content-Type": "application/json" },
+                            body: JSON.stringify({ path: profilePath, action: "remove", target: name, field: rt }),
+                          })
+                          // Add to new type
+                          await fetch("/api/profile/connections", {
+                            method: "POST", headers: { "Content-Type": "application/json" },
+                            body: JSON.stringify({ path: profilePath, action: "add", target: name, field: newType }),
+                          })
+                          setConnMsg(`Moved ${name}: ${REL_LABELS[rt]} → ${REL_LABELS[newType]}`)
+                          // Refresh
+                          const refreshed = await fetch(`/api/profile?path=${encodeURIComponent(profilePath!)}`).then(r => r.json())
+                          if (refreshed.profile) setProfile(refreshed.profile)
+                          const connData = await fetch("/api/connections").then(r => r.json())
+                          setConnections((connData.connections || []).filter(
+                            (c: Connection) => c.source === profile!.title || c.target === profile!.title
+                          ))
+                        }}
+                        className="opacity-0 group-hover:opacity-100 transition-opacity bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded px-1 py-0.5 text-[8px] text-[var(--color-text-dim)] focus:outline-none"
+                      >
+                        <option value="related">Related</option>
+                        <option value="donors">Funded By</option>
+                        <option value="opposes">Opposes</option>
+                      </select>
                       <button onClick={() => removeConnection(name, rt)}
                         className="text-[var(--color-red)] opacity-0 group-hover:opacity-100 transition-opacity text-[10px] px-1 hover:bg-[var(--color-red)]/10 rounded"
                         title="Remove connection">✕</button>
