@@ -650,28 +650,36 @@ export default function RelationshipsPage() {
                           className={`absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 z-10 group/node ${draggingNode === node.name ? "cursor-grabbing" : "cursor-grab"}`}
                           style={{ left: `${x}%`, top: `${y}%` }}
                           onMouseDown={(e) => {
-                            if ((e.target as HTMLElement).closest("button")) return
+                            // Skip if clicking edit/remove buttons
+                            if ((e.target as HTMLElement).tagName === "BUTTON" || (e.target as HTMLElement).closest(".node-action-btn")) return
                             e.stopPropagation()
+                            e.preventDefault()
                             setDraggingNode(node.name)
                             nodeDragStart.current = { x: e.clientX, y: e.clientY, nodeX: x, nodeY: y }
+                          }}
+                          onMouseUp={(e) => {
+                            // If we didn't drag (mouse barely moved), treat as click → navigate
+                            if (draggingNode === node.name) {
+                              const dx = Math.abs(e.clientX - nodeDragStart.current.x)
+                              const dy = Math.abs(e.clientY - nodeDragStart.current.y)
+                              if (dx < 5 && dy < 5) {
+                                const norm = (s: string) => s.replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim().toLowerCase()
+                                const target = norm(node.name)
+                                const tp = topConnected.find((t) => norm(t.title) === target) || profiles.find((p) => norm(p.title) === target)
+                                if (tp) selectProfile(tp)
+                              }
+                            }
                           }}>
-                          <button
-                            onClick={() => {
-                              if (draggingNode) return
-                              const norm = (s: string) => s.replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim().toLowerCase()
-                              const target = norm(node.name)
-                              const tp = topConnected.find((t) => norm(t.title) === target) || profiles.find((p) => norm(p.title) === target)
-                              if (tp) selectProfile(tp)
-                            }}
-                            className="w-full h-full rounded-full flex items-center justify-center text-center hover:scale-105 transition-transform"
+                          <div
+                            className="w-full h-full rounded-full flex items-center justify-center text-center select-none"
                             style={{ backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
                             title={node.name}>
-                            <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3">{node.name}</span>
-                          </button>
+                            <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3 pointer-events-none">{node.name}</span>
+                          </div>
                           {/* Edit button */}
                           <button
                             onClick={(e) => { e.stopPropagation(); setContextMenu({ x: e.clientX, y: e.clientY, name: node.name, type: node.type }) }}
-                            className="absolute -top-1 -left-1 w-5 h-5 rounded-full text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
+                            className="node-action-btn absolute -top-1 -left-1 w-5 h-5 rounded-full text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
                             style={{ backgroundColor: REL_COLORS[node.type] }}
                             title="Change type">
                             <svg width={8} height={8} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={3}>
@@ -680,7 +688,7 @@ export default function RelationshipsPage() {
                           </button>
                           {/* Remove button */}
                           <button onClick={(e) => { e.stopPropagation(); removeConnection(node.name, node.type) }} disabled={saving}
-                            className="absolute -top-1 -right-1 w-5 h-5 rounded-full bg-[var(--color-red)] text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
+                            className="node-action-btn absolute -top-1 -right-1 w-5 h-5 rounded-full bg-[var(--color-red)] text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
                             title="Remove">×</button>
                         </div>
                       </div>
