@@ -2,6 +2,7 @@ import fs from "fs"
 import path from "path"
 import matter from "gray-matter"
 import type { Profile } from "./vault"
+import { completenessScore, countSources } from "./vault"
 
 // Resolve the vault content directory — works from ops/ or repo root
 function getContentDir(): string {
@@ -100,7 +101,7 @@ function profileFromFile(filePath: string, fullPath: string): Profile {
     const content = fs.readFileSync(fullPath, "utf-8")
     const { data } = matter(content)
 
-    return {
+    const profile: Profile = {
       path: filePath,
       title: data.title || title,
       type: data.type || typeFromFolder(folder),
@@ -120,6 +121,8 @@ function profileFromFile(filePath: string, fullPath: string): Profile {
       folder,
       subfolder,
     }
+    profile.completeness = completenessScore(profile, content)
+    return profile
   } catch {
     // File read failed — return path-derived data
     return {
