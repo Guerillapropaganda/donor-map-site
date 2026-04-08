@@ -141,7 +141,20 @@ export function extractUrls(content: string): { url: string; label: string; tier
     })
   }
 
-  return urls
+  // Deduplicate by URL — keep the entry with the most info (tier, triage status)
+  const seen = new Map<string, typeof urls[0]>()
+  for (const u of urls) {
+    const existing = seen.get(u.url)
+    if (!existing) {
+      seen.set(u.url, u)
+    } else {
+      // Keep the one with more info: prefer tier, prefer non-unchecked status
+      if (u.tier && !existing.tier) seen.set(u.url, u)
+      if (u.triageStatus !== "unchecked" && existing.triageStatus === "unchecked") seen.set(u.url, u)
+      if (u.triageNote && !existing.triageNote) seen.set(u.url, { ...seen.get(u.url)!, triageNote: u.triageNote })
+    }
+  }
+  return Array.from(seen.values())
 }
 
 // Readiness color mapping
