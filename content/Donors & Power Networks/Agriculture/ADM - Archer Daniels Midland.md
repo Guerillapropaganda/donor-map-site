@@ -66,7 +66,7 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 - [OpenSecrets: ADM organizational profile](https://www.opensecrets.org/orgs/archer-daniels-midland/summary?id=D000000132) (Tier 1)
 - [EPA: Renewable Fuel Standard program](https://www.epa.gov/renewable-fuel-standard) (NEEDS REVIEW) (Tier 1)
 - [DOJ: ADM price-fixing prosecution](https://www.justice.gov/archive/opa/pr/1996/Oct96/508at.htm) (Tier 1)
-- [Ballotpedia: ADM](https://ballotpedia.org/Archer_Daniels_Midland) (Tier 3)
+- ~~[Ballotpedia: ADM](https://ballotpedia.org/Archer_Daniels_Midland)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 content-readiness:: ready
 
@@ -86,7 +86,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Education, Dept of, Executive Office of the President (EOP), Federal Communications Commission (FCC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD) +7 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=ADM%20-%20Archer%20Daniels%20Midland) (Tier 1)
+- ~~[Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -125,5 +125,5 @@ content-readiness:: ready
 - 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) — USAO - Massachusetts
 - ... and 264,302 more
 
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22ADM%20-%20Archer%20Daniels%20Midland%22&sort=date) (Tier 1)
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22ADM%20-%20Archer%20Daniels%20Midland%22&sort=date) (NEEDS REVIEW) (Tier 1)
 <!-- auto:doj-press end -->
