@@ -27,11 +27,12 @@ const ProfileWidget: QuartzComponent = ({
   const isPolitician = fmType === "politician"
   const isDonorType = fmType === "donor" || fmType === "corporation" || fmType === "pac"
 
-  // Extract wikilink targets from our own related/donors/opposes fields
+  // Extract wikilink targets from our own related/donors/opposes/stories fields
   const ourRelated = String(fm.related ?? "")
   const ourDonorsField = String(fm.donors ?? "")
   const ourOpposesField = String(fm.opposes ?? "")
-  const ourAllLinks = ourRelated + " " + ourDonorsField
+  const ourStoriesField = String(fm.stories ?? "")
+  const ourAllLinks = ourRelated + " " + ourDonorsField + " " + ourStoriesField
   const ourLinkTargets = new Set<string>()
   const ourOpposesTargets = new Set<string>()
   {
