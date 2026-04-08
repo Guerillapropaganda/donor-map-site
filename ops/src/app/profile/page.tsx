@@ -358,7 +358,7 @@ export default function ProfilePage() {
     let filtered = allProfiles
     if (browseSearch.length >= 2) {
       const q = browseSearch.toLowerCase()
-      filtered = filtered.filter((p) => p.title.toLowerCase().includes(q) || (p.path || "").toLowerCase().includes(q))
+      filtered = filtered.filter((p) => p.title.toLowerCase().includes(q))
     }
     if (typeFilterVal !== "all") filtered = filtered.filter((p) => p.type === typeFilterVal)
     if (readinessFilterVal !== "all") filtered = filtered.filter((p) => p.contentReadiness === readinessFilterVal)
