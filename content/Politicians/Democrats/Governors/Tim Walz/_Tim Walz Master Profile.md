@@ -2,7 +2,7 @@
 title: "Tim Walz"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,6 +11,7 @@ state: "Minnesota"
 state-abbr: "MN"
 total-received: "$113,151"
 fec-candidate-id: "H6MN01174"
+donors: "[[Democracy Alliance]]"
 ---
 
 #politician #labor-aligned #authenticity-brand #two-audience-problem #minnesota

@@ -8,7 +8,7 @@ parent: null
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Georgia 2026 Senate Race]]"
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Georgia 2026 Senate Race]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 
 #2026-election #house #illinois #aipac #shell-pac #dark-money #class-analysis

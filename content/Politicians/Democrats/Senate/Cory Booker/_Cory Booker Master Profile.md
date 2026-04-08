@@ -41,6 +41,8 @@ website: "https://www.booker.senate.gov"
 phone: "202-224-3224"
 related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master Profile]]"
 donors: "[[JB Pritzker]]"
+total-received: "$26,085,174"
+fec-candidate-id: "P00009795"
 ---
 
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door
@@ -280,3 +282,26 @@ _No committee data found for the 119th Congress._
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412598) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2020 |
+| Total Raised | $26,085,174 |
+| Individual Contributions | $15,106,972 |
+| PAC Contributions | $173,930 |
+| Cash on Hand | 53630.33 |
+| IE Support (Super PAC) | $1,891,154 |
+| IE Opposition (Super PAC) | $3,516 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| UNITED WE WIN SUPER PAC | $1,873,487 | $0 |
+| DREAM UNITED | $17,667 | $0 |
+| DREAM DEFENDERS FIGHT PAC | $0 | $3,516 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -10,9 +10,10 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
   - "Ken Calvert"
+  - "Kevin McCarthy"
 issues:
   - "Technology"
-total-political-spend: "$366,359,788"
+total-political-spend: "$367,346,137"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
 doj-components:
@@ -26,7 +27,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]]"
+related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]]"
 ---
 
 
@@ -428,8 +429,8 @@ content-readiness:: ready
 <!-- auto:fec-donor start -->
 | Metric | Value |
 |--------|-------|
-| Total Political Spend | $366,359,788 |
-| Contributions | 200 |
+| Total Political Spend | $367,346,137 |
+| Contributions | 400 |
 
 **Top recipients:**
 

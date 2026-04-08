@@ -27,7 +27,7 @@ ein: 264486735
 annual-revenue: "$181.4M"
 net-assets: "$139.9M"
 tax-year: "2023"
-related: "[[New Venture Fund]] · [[Foreign Money in State Ballot Initiatives]] · [[David Pakman]]"
+related: "[[New Venture Fund]] · [[Foreign Money in State Ballot Initiatives]] · [[David Pakman]] · [[Center for American Progress]]"
 ---
 
 #donor-node #dark-money #democrat #arabella #fiscal-sponsorship #class-analysis #donor

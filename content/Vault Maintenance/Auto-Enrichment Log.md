@@ -153,6 +153,28 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-08 04:29 UTC — 16 profiles
+
+**FEC — 16 profiles:**
+- Ed Markey — 2014 raised $0
+- Nikki Haley — 2024 raised $58,378,348
+- Patty Murray — 2028 raised $3,798,925
+- Donald Trump — 2024 raised $3,852,435
+- Susan Collins — 2026 raised $10,153,542
+- Rosa DeLauro — 2026 raised $689,298
+- Thom Tillis — 2026 raised $8,072,231
+- Brian Mast — 2026 raised $2,368,244
+- Cory Booker — 2020 raised $26,085,174
+- George W. Bush — 2004 raised $377,846,444
+- Frank Lucas — 2026 raised $472,295
+- Democracy Alliance — total political spend $116,675
+- Real Estate Industry — total political spend $15,000
+- California Nurses Association — total political spend $19,855,072
+- Elon Musk — total political spend $367,346,137
+- Patrick Soon-Shiong — total political spend $735,621
+
+---
 ## 2026-04-08 03:37 UTC — 9 profiles
 
 **federal-register — 9 profiles:**

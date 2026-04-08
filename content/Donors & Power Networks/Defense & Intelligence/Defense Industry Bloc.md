@@ -13,7 +13,7 @@ lobbying-spend: 2047000
 lobbying-filings: 123
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Defense Contractors]] · [[Tommy Tuberville Master Profile]] · [[The STOCK Act Violations and the Enforcement Void]]"
+related: "[[Defense Contractors]] · [[Tommy Tuberville Master Profile]] · [[The STOCK Act Violations and the Enforcement Void]] · [[The Military Promotion Blockade and the Culture War as Donor Cover]]"
 ---
 
 #defense #industry-bloc #lobbying #military-industrial-complex #pentagon #ndaa #contractors

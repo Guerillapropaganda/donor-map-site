@@ -2,7 +2,7 @@
 title: "Thom Tillis Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -33,6 +33,8 @@ stock-trade-tickers:
   - "TYPE"
   - "TXRH"
 bioguide-id: "A000383"
+total-received: "$8,072,231"
+fec-candidate-id: "S4NC00162"
 ---
 
 
@@ -238,3 +240,36 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $8,072,231 |
+| Individual Contributions | $4,196,275 |
+| PAC Contributions | $2,847,324 |
+| Cash on Hand | 3675005.14 |
+| IE Support (Super PAC) | $10,665,133 |
+| IE Opposition (Super PAC) | $166,064,121 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $8,072,231 | $4,196,275 | $2,847,324 |
+| 2020 | $26,718,700 | $13,513,547 | $5,059,103 |
+| 2014 | $11,000,378 | $6,643,989 | $1,557,586 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SMP | $0 | $54,970,845 |
+| DSCC | $0 | $45,046,455 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $0 | $13,996,631 |
+| SENATE MAJORITY PAC | $0 | $11,990,212 |
+| NEA ADVOCACY FUND | $0 | $10,547,618 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
+<!-- auto:fec-politician end -->
