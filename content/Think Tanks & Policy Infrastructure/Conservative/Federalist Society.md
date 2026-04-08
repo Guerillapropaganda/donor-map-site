@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
-related: "[[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[Bradley Foundation]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Judicial Crisis Network]] · [[Barre Seid]] · [[Harlan Crow]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]]"
+related: "[[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[Bradley Foundation]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Judicial Crisis Network]] · [[Barre Seid]] · [[Harlan Crow]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]]"
 federal-register-mentions: 2
 last-enriched: "2026-04-07"
 regulatory-agencies:

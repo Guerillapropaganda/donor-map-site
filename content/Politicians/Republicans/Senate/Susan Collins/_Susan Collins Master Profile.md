@@ -24,6 +24,8 @@ stock-trade-tickers:
   - "HON"
   - "SRCL"
   - "COP"
+total-received: "$10,153,542"
+fec-candidate-id: "S6ME00159"
 ---
 
 
@@ -180,9 +182,37 @@ content-readiness:: ready
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
 
-### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $10,153,542 |
+| Individual Contributions | $4,945,872 |
+| PAC Contributions | $1,185,969 |
+| Cash on Hand | 8039233.60 |
+| IE Support (Super PAC) | $9,574,593 |
+| IE Opposition (Super PAC) | $81,745,684 |
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:committee-assignments end -->
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $10,153,542 | $4,945,872 | $1,185,969 |
+| 2020 | $30,783,434 | $19,311,552 | $3,355,788 |
+| 2014 | $6,368,159 | $3,166,967 | $2,773,062 |
+| 2008 | $8,039,750 | $4,259,663 | $2,870,081 |
+| 2002 | $4,266,592 | $0 | $1,546,344 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SMP | $0 | $50,402,276 |
+| DSCC | $0 | $9,261,000 |
+| WOMEN VOTE! | $0 | $5,926,226 |
+| 1820 PAC | $4,805,828 | $0 |
+| NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $3,849,523 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -13,7 +13,7 @@ regulatory-agencies:
   - "Federal Election Commission"
   - "Postal Regulatory Commission"
   - "Securities and Exchange Commission"
-related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]]"
+related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]]"
 ---
 
 #dscc #senate #democratic #campaign #fundraising #party-committee
@@ -90,3 +90,21 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Democratic%20Senatorial%20Campaign%20Committee%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 145 |
+| Form Types | 10-K, 10-K/A, 10KSB, 20-F, 424B4, 8-K, ARS, DEF 14A +14 more |
+
+**Notable filings:**
+
+- 2003-07-17 — **PRE 14A**: PRE 14A
+- 2012-06-04 — **EX-99.1**: PRESS RELEASE
+- 2017-03-03 — **8-K**: 8-K
+- 2003-07-29 — **DEF 14A**: DEF 14A
+- 2002-06-17 — **DEF 14A**: DEF 14A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Democratic%20Senatorial%20Campaign%20Committee%22) (Tier 1)
+<!-- auto:sec-edgar end -->

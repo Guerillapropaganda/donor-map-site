@@ -6,7 +6,7 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
-related: "[[Ben Shapiro]] · [[Candace Owens]] · [[Steven Crowder]] · [[Charlie Kirk]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tenet Media]]"
+related: "[[Ben Shapiro]] · [[Candace Owens]] · [[Steven Crowder]] · [[Charlie Kirk]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Tucker Carlson]]"
 donors: "[[Wilks Brothers]]"
 ---
 

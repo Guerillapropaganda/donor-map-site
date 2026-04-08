@@ -33,7 +33,7 @@ regulatory-agencies:
   - "Regulatory Information Service Center"
 lobbying-spend: 3106887
 lobbying-filings: 143
-related: "[[Pramila Jayapal]] · [[Sarah Huckabee Sanders]] · [[Raul Grijalva]] · [[Mark Takano]]"
+related: "[[Pramila Jayapal]] · [[Sarah Huckabee Sanders]] · [[Raul Grijalva]] · [[Mark Takano]] · [[Jim McGovern]]"
 ---
 
 #nnu #nurses-union #medicare-for-all #progressive #labor #225k-members

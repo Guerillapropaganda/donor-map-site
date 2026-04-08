@@ -2,7 +2,7 @@
 title: "Frank Lucas Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -23,6 +23,8 @@ bills-sponsored: 13
 bills-cosponsored: 63
 website: "https://lucas.house.gov"
 phone: "202-225-5565"
+total-received: "$472,295"
+fec-candidate-id: "H4OK06056"
 ---
 
 
@@ -348,3 +350,38 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $472,295 |
+| Individual Contributions | $66,300 |
+| PAC Contributions | $393,400 |
+| Cash on Hand | 813477.21 |
+| IE Support (Super PAC) | $135,734 |
+| IE Opposition (Super PAC) | $1,832 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $472,295 | $66,300 | $393,400 |
+| 2024 | $1,725,662 | $577,089 | $1,120,118 |
+| 2022 | $1,524,419 | $649,971 | $850,300 |
+| 2020 | $881,729 | $120,750 | $750,250 |
+| 2018 | $1,083,595 | $145,122 | $932,717 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CLEARPATH ACTION FUND, INC. | $99,708 | $0 |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $36,000 | $0 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $13 | $4,322 |
+| CLUB FOR GROWTH ACTION | $0 | $970 |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND | $0 | $862 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4OK06056/) (Tier 1)
+<!-- auto:fec-politician end -->
