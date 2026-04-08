@@ -91,6 +91,32 @@ export default function RelationshipsPage() {
     setExplorerPath([cp.title])
   }
 
+  // Remove connection
+  const removeConnection = async (targetTitle: string, rt: "related" | "donors" | "opposes") => {
+    if (!selected) return
+    setSaving(true)
+    try {
+      const res = await fetch("/api/relationships", {
+        method: "DELETE",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ sourcePath: selected.path, targetTitle, relationshipType: rt }),
+      })
+      const data = await res.json()
+      if (data.error) showToast(data.error)
+      else {
+        showToast(`Removed: ${selected.title} ✕ ${targetTitle}`)
+        const connData = await fetch("/api/connections").then((r) => r.json())
+        setConnections(connData.connections || [])
+        setTopConnected(connData.topConnected || [])
+        setBreakdown(connData.breakdown || breakdown)
+        const updated = (connData.topConnected as ConnectedProfile[]).find((t) => t.title === selected.title)
+        if (updated) setSelected(updated)
+        else setSelected({ ...selected, [rt]: selected[rt].filter((n) => n !== targetTitle), connectionCount: selected.connectionCount - 1 })
+      }
+    } catch { showToast("Failed to remove") }
+    finally { setSaving(false) }
+  }
+
   // Add connection
   const addConnection = async (targetTitle: string) => {
     if (!selected) return
@@ -232,6 +258,10 @@ export default function RelationshipsPage() {
                                 {shared.length} shared
                               </span>
                             )}
+                            <button onClick={() => removeConnection(name, rt)} disabled={saving}
+                              className="text-[8px] px-1.5 py-0.5 rounded text-[var(--color-red)]/60 hover:text-[var(--color-red)] hover:bg-[var(--color-red)]/10 opacity-0 group-hover:opacity-100 transition-all">
+                              Remove
+                            </button>
                           </div>
                         )
                       })}
@@ -298,18 +328,23 @@ export default function RelationshipsPage() {
                   const targetConns = getProfileConnections(targetName)
                   const targetProfile = profiles.find((p) => p.title === targetName)
                   return (
-                    <button key={i} onClick={() => expandNode(targetName)}
-                      className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg p-3 text-left hover:border-[var(--color-steel)]/30 transition-colors group">
+                    <div key={i} className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg p-3 hover:border-[var(--color-steel)]/30 transition-colors group">
                       <div className="flex items-center gap-2 mb-1">
                         <span className="w-2 h-2 rounded-full" style={{ backgroundColor: REL_COLORS[conn.relationshipType] }} />
                         <span className="text-[8px] uppercase tracking-wider" style={{ color: REL_COLORS[conn.relationshipType] }}>{conn.relationshipType}</span>
+                        <button onClick={() => removeConnection(targetName, conn.relationshipType)} disabled={saving}
+                          className="ml-auto text-[8px] px-1.5 py-0.5 rounded text-[var(--color-red)]/60 hover:text-[var(--color-red)] hover:bg-[var(--color-red)]/10 opacity-0 group-hover:opacity-100 transition-all">
+                          Remove
+                        </button>
                       </div>
-                      <p className="text-[11px] font-bold text-[var(--color-text)] group-hover:text-[var(--color-steel)] transition-colors">{targetName}</p>
-                      <div className="flex items-center gap-2 mt-1">
-                        {targetProfile && <span className="text-[7px] px-1 rounded" style={{ color: typeColor(targetProfile.type), backgroundColor: `${typeColor(targetProfile.type)}15` }}>{targetProfile.type}</span>}
-                        <span className="text-[8px] text-[var(--color-text-dim)]">{targetConns.length} connections →</span>
-                      </div>
-                    </button>
+                      <button onClick={() => expandNode(targetName)} className="text-left w-full">
+                        <p className="text-[11px] font-bold text-[var(--color-text)] hover:text-[var(--color-steel)] transition-colors">{targetName}</p>
+                        <div className="flex items-center gap-2 mt-1">
+                          {targetProfile && <span className="text-[7px] px-1 rounded" style={{ color: typeColor(targetProfile.type), backgroundColor: `${typeColor(targetProfile.type)}15` }}>{targetProfile.type}</span>}
+                          <span className="text-[8px] text-[var(--color-text-dim)]">{targetConns.length} connections →</span>
+                        </div>
+                      </button>
+                    </div>
                   )
                 })}
               </div>
