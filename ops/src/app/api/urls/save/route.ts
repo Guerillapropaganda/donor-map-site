@@ -13,6 +13,33 @@ interface UrlChange {
   note?: string
 }
 
+interface TriageEntry {
+  status: string
+  date: string
+  label: string
+  profile: string
+  profilePath: string
+}
+
+function getTriagePath(): string {
+  return path.join(process.cwd(), "data", "url-triage.json")
+}
+
+function loadTriage(): Record<string, TriageEntry> {
+  const p = getTriagePath()
+  if (fs.existsSync(p)) {
+    try { return JSON.parse(fs.readFileSync(p, "utf-8")) } catch { return {} }
+  }
+  return {}
+}
+
+function saveTriage(data: Record<string, TriageEntry>): void {
+  const p = getTriagePath()
+  const dir = path.dirname(p)
+  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true })
+  fs.writeFileSync(p, JSON.stringify(data, null, 2), "utf-8")
+}
+
 function escapeRegex(s: string): string {
   return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
 }
@@ -148,6 +175,20 @@ export async function POST(request: Request) {
         modifiedFiles.add(filePath)
       }
     }
+
+    // Persist triage status to sidecar JSON (reliable source of truth)
+    const triage = loadTriage()
+    for (const change of changes) {
+      const key = `${change.profilePath}::${change.url}`
+      triage[key] = {
+        status: change.newStatus === "slow" || change.newStatus === "yellow" ? "unsure" : change.newStatus,
+        date: new Date().toISOString().slice(0, 10),
+        label: change.label,
+        profile: change.profile,
+        profilePath: change.profilePath,
+      }
+    }
+    saveTriage(triage)
 
     // Git commit and push all modified files
     if (modifiedFiles.size > 0) {

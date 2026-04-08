@@ -16,3 +16,4 @@ content/Vault Maintenance/Pipeline Reports/
 .env
 ops/.next/
 ops/.env.local
+ops/data/

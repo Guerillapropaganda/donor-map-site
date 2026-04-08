@@ -23,6 +23,14 @@ function getRepoRoot(): string {
   throw new Error("Cannot find repo root")
 }
 
+function loadTriage(): Record<string, { status: string; date: string }> {
+  const p = path.join(process.cwd(), "data", "url-triage.json")
+  if (fs.existsSync(p)) {
+    try { return JSON.parse(fs.readFileSync(p, "utf-8")) } catch { return {} }
+  }
+  return {}
+}
+
 function findMarkdownFiles(dir: string, base: string): string[] {
   const results: string[] = []
   try {
@@ -61,6 +69,7 @@ export async function GET(request: Request) {
 
     const urls: VaultUrl[] = []
     let idCounter = 0
+    const triage = loadTriage()
 
     for (const filePath of files) {
       if (filePath.includes("/Admin Notes/")) continue
@@ -91,13 +100,24 @@ export async function GET(request: Request) {
         let domain = ""
         try { domain = new URL(url).hostname.replace("www.", "") } catch { /* skip */ }
 
+        // Check sidecar triage JSON (overrides vault markers if present)
+        const triageKey = `${filePath}::${url}`
+        const triageEntry = triage[triageKey]
+        let finalTriageStatus = triageStatus
+        let finalArchived = isArchived
+        if (triageEntry) {
+          if (triageEntry.status === "ok") { finalTriageStatus = "verified"; finalArchived = false }
+          else if (triageEntry.status === "broken") { finalTriageStatus = "broken"; finalArchived = true }
+          else if (triageEntry.status === "unsure") { finalTriageStatus = "unsure"; finalArchived = false }
+        }
+
         urls.push({
           id: `url-${idCounter++}`,
           url,
           label: match[2],
           tier: match[5] ? parseInt(match[5]) : undefined,
-          archived: isArchived,
-          triageStatus,
+          archived: finalArchived,
+          triageStatus: finalTriageStatus,
           profile: profileTitle,
           profilePath: filePath,
           domain,
