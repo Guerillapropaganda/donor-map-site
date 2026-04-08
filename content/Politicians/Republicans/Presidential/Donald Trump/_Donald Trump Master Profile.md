@@ -36,6 +36,8 @@ doj-components:
   - 'USAO - Ohio, Southern'
 opposes: '[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]]'
 related: "[[The Culture War Economy - Who Profits From Division]] · [[Vivek Ramaswamy Master Profile]]"
+total-received: "$3,852,435"
+fec-candidate-id: "P80001571"
 ---
 
 
@@ -350,3 +352,36 @@ profile-status:: ready — master profile fully built with inline citations. All
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Donald%20Trump%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $3,852,435 |
+| Individual Contributions | $4,750 |
+| Cash on Hand | 3020902.11 |
+| IE Support (Super PAC) | $151,696,265 |
+| IE Opposition (Super PAC) | $375,115,827 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $3,852,435 | $4,750 | $0 |
+| 2020 | $811,898,514 | $257,157,698 | $859,558 |
+| 2016 | $350,668,436 | $46,884,985 | $154,039 |
+| 1988 | $0 | $0 | $0 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| PRIORITIES USA ACTION | $0 | $210,068,093 |
+| FF PAC | $0 | $95,790,154 |
+| MAKE AMERICA GREAT AGAIN INC. | $44,719,936 | $0 |
+| RBG PAC | $34,600,000 | $0 |
+| AB PAC | $0 | $33,935,549 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80001571/) (Tier 1)
+<!-- auto:fec-politician end -->

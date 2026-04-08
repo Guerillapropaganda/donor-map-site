@@ -20,10 +20,42 @@ total-assets: 1150303
 lei: "ENYF8GB5SMQZ25S06U51"
 lei-jurisdiction: "US-DE"
 related: "[[Valero Energy]] · [[John Barrasso]]"
-subawards-issued: 1
-subawards-issued-amount: 54006
-subawards-received: 1
-subawards-received-amount: 54006
+sec-filings: 10000
+sec-form-types:
+  - "144"
+  - "4"
+  - "424B2"
+  - "424B3"
+  - "425"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFM14A"
+  - "EX-10"
+  - "EX-10.1"
+  - "EX-10.15"
+  - "EX-10.19"
+  - "EX-10.2"
+  - "EX-10.36"
+  - "EX-10.4"
+  - "EX-10.6"
+  - "EX-10.7"
+  - "EX-21"
+  - "EX-21.1"
+  - "EX-24"
+  - "EX-4.30"
+  - "EX-99.1"
+  - "EX-99.4"
+  - "EX-99.6"
+  - "FWP"
+  - "PRE 14A"
+  - "S-1/A"
+  - "S-3ASR"
+  - "S-4"
+  - "S-4/A"
+  - "SC TO-I/A"
+  - "SCHEDULE 13G/A"
 ---
 
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
@@ -157,24 +189,22 @@ content-readiness:: ready
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
 
-### Federal Subawards & Spending Breakdown
-<!-- auto:usaspending-subawards start -->
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
 | Metric | Value |
 |--------|-------|
-| Subawards Issued (as prime) | 1 ($54K sampled) |
-| Subawards Received (as sub) | 1 ($54K sampled) |
+| Total Filings | 10,000 |
+| Form Types | 144, 4, 424B2, 424B3, 425, 8-K, CORRESP, DEF 14A +26 more |
+| CIK | 45012 |
+| Ticker | HAL |
 
-**Subcontractors receiving federal money from Halliburton:**
+**Notable filings:**
 
-| Subcontractor | Amount | Awards |
-|---------------|--------|--------|
-| HALLIBURTON SURVEYING & MAPPING, INC. | $54K | 1 |
+- 2026-04-06 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/45012/000142284826000038/0001422848-26-000038-index.htm)
+- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/45012/000184175226000007/0001841752-26-000007-index.htm)
+- 2026-03-31 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/45012/000004501226000034/0000045012-26-000034-index.htm)
+- 2026-03-31 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/45012/000004501226000033/0000045012-26-000033-index.htm)
+- 2026-03-30 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/45012/000155866726000012/0001558667-26-000012-index.htm)
 
-**Prime contractors funneling federal money to Halliburton:**
-
-| Prime Contractor | Amount | Awards |
-|------------------|--------|--------|
-| BURNS & MCDONNELL ENGINEERING COMPANY, INC. | $54K | 1 |
-
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
-<!-- auto:usaspending-subawards end -->
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Halliburton%22) (Tier 1)
+<!-- auto:sec-edgar end -->

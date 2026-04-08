@@ -22,7 +22,7 @@ top-donors:
   - "Lockheed Martin"
 total-received: "$501,840"
 fec-candidate-id: "H6MO06013"
-related: "[[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]]"
+related: "[[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Adam Smith]]"
 ---
 
 #tom-cole #republican #oklahoma #house #committee-chair #appropriations #defense #energy #oil-gas #tribal #chickasaw #phase-6-gavel-power
@@ -167,3 +167,35 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 80 |
+| Total Votes Cast | 14,974 |
+
+**Recent bills sponsored:**
+
+- H.R. 7147: Further Additional Continuing Appropriations Act, 2026 — *This bill passed in the Senate and the House, but the House made changes and sent it back to the Senate on March 27, 2026.*
+- H.R. 7744: Department of Homeland Security Appropriations Act, 2026 — *This bill passed in the House on March 5, 2026 and goes to the Senate next for consideration.*
+- H.R. 7490: Tribal Warrant Fairness Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7148: Consolidated Appropriations Act, 2026 — *This bill was enacted after being signed by the President on February 3, 2026.*
+- H.R. 7325: Truth and Healing Commission on Indian Boarding School Policies Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400077) (Tier 1)
+<!-- auto:govtrack end -->

@@ -26,7 +26,7 @@ last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Homeland Security Department"
   - "Personnel Management Office"
-related: "[[Lisa Murkowski]] · [[Tim Scott]] · [[Frank Pallone]]"
+related: "[[Lisa Murkowski]] · [[Tim Scott]] · [[Frank Pallone]] · [[Bobby Scott]]"
 ---
 
 #AFGE #labor-union #federal-employees #government-workers #DOGE #Trump-layoffs #union-resistance

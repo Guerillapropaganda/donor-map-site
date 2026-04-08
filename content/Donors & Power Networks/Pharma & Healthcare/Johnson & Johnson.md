@@ -27,7 +27,7 @@ federal-awards-total: 41140658
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
-related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]]"
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
@@ -207,3 +207,23 @@ content-readiness:: ready
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Johnson%20%26%20Johnson) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 13F-HR/A, 144, 4, 424B3, 425, 6-K, 8-K, ARS +25 more |
+| CIK | 200406 |
+| Ticker | JNJ |
+
+**Notable filings:**
+
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/200406/000010290926000380/0000102909-26-000380-index.htm)
+- 2026-03-18 — **13F-HR/A**: [13F-HR/A](https://www.sec.gov/Archives/edgar/data/200406/000090445426000192/0000904454-26-000192-index.htm)
+- 2026-03-18 — **13F-HR/A**: [13F-HR/A](https://www.sec.gov/Archives/edgar/data/200406/000090445426000190/0000904454-26-000190-index.htm)
+- 2026-03-12 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/200406/000020040626000070/0000200406-26-000070-index.htm)
+- 2026-03-12 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/200406/000020040626000069/0000200406-26-000069-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Johnson%20%26%20Johnson%22) (Tier 1)
+<!-- auto:sec-edgar end -->

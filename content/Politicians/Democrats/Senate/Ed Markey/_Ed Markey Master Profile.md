@@ -2,7 +2,7 @@
 title: "Ed Markey"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,6 +16,7 @@ leadership-roles:
   - "Ranking Member"
 issues:
   - "Energy & Climate"
+fec-candidate-id: "H6MA07101"
 ---
 
 
@@ -148,3 +149,34 @@ The Small Business Committee RM position is secondary to Markey's real portfolio
 - [Wikipedia: Ed Markey](https://en.wikipedia.org/wiki/Ed_Markey) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2014 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $92,195 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2014 | $0 | $0 | $0 |
+| 2012 | $1,091,666 | $474,665 | $434,228 |
+| 2010 | $1,535,340 | $724,973 | $676,365 |
+| 2008 | $1,454,665 | $681,000 | $587,620 |
+| 2006 | $942,527 | $390,670 | $418,035 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SIERRA CLUB POLITICAL COMMITTEE | $84,125 | $0 |
+| MASSACHUSETTS FREEZE VOTER '84 | $0 | $9,015 |
+| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC | $0 | $7,137 |
+| SIERRA CLUB INDEPENDENT ACTION | $6,495 | $0 |
+| LEAGUE OF CONSERVATION VOTERS | $0 | $2,106 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -154,16 +154,18 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
-## 2026-04-08 04:39 UTC — 7 profiles
+## 2026-04-08 04:28 UTC — 9 profiles
 
-**usaspending-subawards — 7 profiles:**
-- Wells Fargo — 2 issued, 2 received, 2 agencies
-- Anduril Industries — 50 issued, 50 received, 4 agencies
-- PG&E — 0 issued, 0 received, 8 agencies
-- Halliburton — 1 issued, 1 received, 0 agencies
-- BAE Systems — 50 issued, 50 received, 8 agencies
-- Northrop Grumman — 50 issued, 50 received, 8 agencies
-- Centene Corporation — 0 issued, 0 received, 6 agencies
+**sec-edgar — 9 profiles:**
+- Manhattan Institute for Policy Research — 122 filings, 27 form types
+- Halliburton — 10000 filings, 34 form types
+- Riverside Sheriffs Association — 23 filings, 1 form types
+- Johnson & Johnson — 10000 filings, 33 form types
+- Democratic Senatorial Campaign Committee — 145 filings, 22 form types
+- Lyft — 10000 filings, 29 form types
+- Paul Singer — 387 filings, 9 form types
+- Elon Musk — 4518 filings, 25 form types
+- American Federation for Children — 9 filings, 4 form types
 
 ---
 ## 2026-04-08 03:37 UTC — 9 profiles
