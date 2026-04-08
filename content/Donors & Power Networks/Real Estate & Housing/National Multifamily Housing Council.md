@@ -1,7 +1,7 @@
 ---
 title: "National Multifamily Housing Council"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -29,6 +29,11 @@ sec-form-types:
   - "EX1A-13 TST WTRS"
   - "FWP"
   - "PRE 14A"
+source-types:
+  - SEC
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #donor #real-estate #housing #trade-association #multifamily #bipartisan #lobbying #class-analysis #follow-the-money

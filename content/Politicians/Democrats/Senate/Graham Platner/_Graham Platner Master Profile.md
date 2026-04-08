@@ -1,7 +1,7 @@
 ---
 title: "Graham Platner Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: "2026-04-05"
 source-tier: 1
 parent: null
@@ -11,6 +11,12 @@ state: "Maine"
 state-abbr: "ME"
 total-received: "$7,867,908"
 fec-candidate-id: "S6ME00373"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

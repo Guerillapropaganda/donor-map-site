@@ -1,7 +1,7 @@
 ---
 title: "Chris Coons Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -22,6 +22,13 @@ stock-trade-tickers:
 total-received: "$5,285,973"
 fec-candidate-id: "S0DE00092"
 bioguide-id: "A000383"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

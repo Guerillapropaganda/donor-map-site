@@ -1,7 +1,7 @@
 ---
 title: "Lindsey Graham Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
@@ -17,6 +17,12 @@ top-donors:
   - "Lockheed Martin"
   - "Boeing"
   - "Republican Jewish Coalition"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #lindsey-graham #senate #south-carolina #defense #trump #mccain #aipac #class-analysis #chameleon #follow-the-money

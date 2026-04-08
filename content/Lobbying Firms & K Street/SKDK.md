@@ -1,7 +1,7 @@
 ---
 title: "SKDK (SKDKnickerbocker)"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-27
 source-tier: 1
 parent: null
@@ -9,6 +9,9 @@ annual-revenue: "$113.8M (2024 cycle vendor payments)"
 lobbyist-count: 0
 revolving-door-pct: "N/A — not a registered lobbying firm"
 related: "[[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+known-gaps:
+  - "No lobbying disclosure data"
+  - "No foreign agent registration data"
 ---
 
 #lobbying #k-street #democratic-machine #shadow-lobbying #fara #comms-as-lobbying #class-analysis

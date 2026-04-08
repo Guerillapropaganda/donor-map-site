@@ -1,7 +1,7 @@
 ---
 title: "Lennar Corporation"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -54,6 +54,15 @@ regulatory-agencies:
   - "Interior Department"
   - "Securities and Exchange Commission"
 related: "[[Housing - Donors and Backers]]"
+source-types:
+  - Courts
+  - DOJ
+  - FEC
+  - FederalRegister
+corroboration-count: 4
+known-gaps:
+  - "No SEC corporate filings"
+  - "No lobbying disclosure data"
 ---
 
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money

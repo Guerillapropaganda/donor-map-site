@@ -1,7 +1,7 @@
 ---
 title: "Joni Ernst Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -22,6 +22,13 @@ bills-sponsored: 84
 bills-cosponsored: 174
 website: "https://www.ernst.senate.gov"
 phone: "202-224-3254"
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 

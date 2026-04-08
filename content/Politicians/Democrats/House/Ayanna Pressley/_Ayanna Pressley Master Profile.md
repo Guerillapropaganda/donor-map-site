@@ -1,7 +1,7 @@
 ---
 title: "Ayanna Pressley Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -19,6 +19,13 @@ bills-sponsored: 29
 bills-cosponsored: 230
 website: "https://pressley.house.gov"
 phone: "202-225-5111"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #pressley #massachusetts #progressive #squad #financial-services #criminal-justice #boston

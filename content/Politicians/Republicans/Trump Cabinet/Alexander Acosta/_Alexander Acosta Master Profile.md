@@ -1,7 +1,7 @@
 ---
 title: "Alexander Acosta Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -21,6 +21,15 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 bioguide-id: "A000383"
+source-types:
+  - Congress
+  - DOJ
+  - OSHA
+corroboration-count: 3
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

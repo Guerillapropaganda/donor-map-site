@@ -1,7 +1,7 @@
 ---
 title: "Tony Thurmond Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
@@ -15,6 +15,11 @@ issues:
   - "Education"
 top-donors:
   - "CTA - California Teachers Association"
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

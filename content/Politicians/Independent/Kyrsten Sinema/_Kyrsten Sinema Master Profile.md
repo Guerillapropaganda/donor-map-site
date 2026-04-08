@@ -1,7 +1,7 @@
 ---
 title: "Kyrsten Sinema Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -16,6 +16,12 @@ top-donors:
   - "Wall Street Bloc"
   - "Pharmaceutical Industry"
 fec-candidate-id: "H2AZ09019"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

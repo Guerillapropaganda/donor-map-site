@@ -1,7 +1,7 @@
 ---
 title: "Stephen Miller Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -18,6 +18,12 @@ fec-candidate-id: "H2NC07104"
 govtrack-id: 407733
 bills-sponsored: 0
 bills-cosponsored: 0
+source-types:
+  - GovTrack
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 #stephen-miller #republican #immigration #white-house #america-first-legal #dark-money #family-separation #class-analysis #follow-the-money #alien-enemies-act #denaturalization #birthright-citizenship

@@ -1,7 +1,7 @@
 ---
 title: "State Policy Network"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -22,6 +22,13 @@ related: "[[Donors Capital Fund]] · [[DonorsTrust]] · [[Freedom Partners]] · 
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+source-types:
+  - SEC
+  - USASpending
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #think-tank #conservative #state-level #deregulation #koch-network #dark-money #class-analysis #follow-the-money

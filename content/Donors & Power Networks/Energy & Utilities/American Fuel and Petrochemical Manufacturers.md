@@ -1,7 +1,7 @@
 ---
 title: "American Fuel and Petrochemical Manufacturers"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -35,6 +35,13 @@ related: "[[Marathon Petroleum]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 55318139
 total-assets: 57058180
+source-types:
+  - Courts
+  - LDA
+corroboration-count: 2
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
 ---
 
 #donor #energy #fossil-fuel #trade-association #lobbying #republican-lean #climate-obstruction #class-analysis #follow-the-money

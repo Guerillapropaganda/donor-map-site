@@ -1,7 +1,7 @@
 ---
 title: "Dan Osborn Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -13,6 +13,12 @@ top-donors:
   - "Labor Unions"
 total-received: "$2,121,436"
 fec-candidate-id: "S4NE00207"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #politician #independent #senate

@@ -1,10 +1,12 @@
 ---
 title: "North Carolina 2026 Senate Race"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #2026-election #senate #north-carolina #race-frame #analysis

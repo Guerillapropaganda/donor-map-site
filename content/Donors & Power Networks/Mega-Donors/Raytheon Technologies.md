@@ -1,7 +1,7 @@
 ---
 title: "Raytheon Technologies"
 type: corporation
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -23,6 +23,14 @@ regulatory-agencies:
   - "Labor Department"
   - "Securities and Exchange Commission"
 related: "[[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]] · [[2026-03-26 Finance Research]]"
+source-types:
+  - FederalRegister
+  - USASpending
+corroboration-count: 2
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #raytheon #rtx #defense #redirect

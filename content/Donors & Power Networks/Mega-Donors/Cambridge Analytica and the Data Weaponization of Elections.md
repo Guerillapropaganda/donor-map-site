@@ -1,7 +1,7 @@
 ---
 title: "Cambridge Analytica and the Data Weaponization of Elections"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -12,6 +12,9 @@ politicians-funded:
   - "Ted Cruz"
   - "Steve Bannon"
 related: "[[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 

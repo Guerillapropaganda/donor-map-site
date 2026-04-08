@@ -1,13 +1,16 @@
 ---
 title: "a16z - Andreessen Horowitz"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: null
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Individual Donor"
 related: "[[Trump 2024 Campaign]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #redirect

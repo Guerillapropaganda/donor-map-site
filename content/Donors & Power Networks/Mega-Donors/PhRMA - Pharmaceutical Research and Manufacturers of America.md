@@ -1,7 +1,7 @@
 ---
 title: "PhRMA - Pharmaceutical Research and Manufacturers of America"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -32,6 +32,13 @@ sec-form-types:
   - "SB-2/A"
 lobbying-spend: 2748000
 lobbying-filings: 51
+source-types:
+  - FEC
+  - LDA
+  - SEC
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #phrma #redirect #pharma #lobbying

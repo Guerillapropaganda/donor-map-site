@@ -1,7 +1,7 @@
 ---
 title: "Thom Tillis Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -35,6 +35,13 @@ stock-trade-tickers:
 bioguide-id: "A000383"
 total-received: "$8,072,231"
 fec-candidate-id: "S4NC00162"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

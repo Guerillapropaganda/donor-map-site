@@ -1,7 +1,7 @@
 ---
 title: "Michael Waltz"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -16,6 +16,11 @@ related: "[[Fanjul Family - Florida Crystals]]"
 govtrack-id: 412764
 bills-sponsored: 0
 bills-cosponsored: 0
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
 ---
 
 #politician #republican #trump-cabinet #un-ambassador #national-security #defense #signalgate #class-analysis #follow-the-money

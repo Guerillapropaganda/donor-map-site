@@ -1,7 +1,7 @@
 ---
 title: "Center for American Progress"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -51,6 +51,14 @@ sec-form-types:
   - "PX14A6G"
 lobbying-spend: 3338250
 lobbying-filings: 125
+source-types:
+  - Courts
+  - LDA
+  - SEC
+corroboration-count: 3
+known-gaps:
+  - "No FEC contribution data"
+  - "No mapped relationships"
 ---
 
 #center-for-american-progress #CAP #dark-money #think-tank #democratic #infrastructure #Neera-Tanden

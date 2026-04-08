@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Industry Bloc — Fairshake PAC Network"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
@@ -10,6 +10,9 @@ entity-type: "PAC"
 issues:
   - "Technology"
   - "Dark Money & Campaign Finance"
+known-gaps:
+  - "No FEC contribution data"
+  - "No mapped relationships"
 ---
 
 #donor-node #super-pac #crypto #fairshake #dark-money #policy-purchasing #deregulation

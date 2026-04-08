@@ -1,7 +1,7 @@
 ---
 title: "Chip Roy Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -20,6 +20,13 @@ website: "https://roy.house.gov"
 phone: "202-225-4236"
 total-received: "$782,581"
 fec-candidate-id: "H8TX21307"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #roy #texas #freedom-caucus #spending #border #libertarian #cruz-ally #rules-committee #judiciary #club-for-growth

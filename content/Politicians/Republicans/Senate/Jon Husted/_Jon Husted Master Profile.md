@@ -1,7 +1,7 @@
 ---
 title: "Jon Husted Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -13,6 +13,13 @@ top-donors:
   - "Senate Leadership Fund"
 total-received: "$7,348,700"
 fec-candidate-id: "S6OH00304"
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 #politician #republican #senate

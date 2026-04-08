@@ -1,7 +1,7 @@
 ---
 title: "Signalgate - The Yemen Strike Chat and the Security Theater"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -9,6 +9,11 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "SDGT"
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

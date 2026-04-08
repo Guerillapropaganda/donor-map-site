@@ -1,7 +1,7 @@
 ---
 title: "MasTec - Mas Canosa Family"
 type: corporation
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -23,6 +23,13 @@ subawards-received-amount: 51876611853
 lobbying-spend: 180000
 lobbying-filings: 10
 related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]]"
+source-types:
+  - FEC
+  - LDA
+  - USASpending
+corroboration-count: 3
+known-gaps:
+  - "No SEC corporate filings"
 ---
 
 #donor #corporation #infrastructure #construction #cuba #exile #telecom #energy #real-estate #class-analysis #follow-the-money

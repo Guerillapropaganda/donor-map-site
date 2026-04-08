@@ -1,12 +1,16 @@
 ---
 title: "David Sacks Political Operation (Redirect)"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: null
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #redirect

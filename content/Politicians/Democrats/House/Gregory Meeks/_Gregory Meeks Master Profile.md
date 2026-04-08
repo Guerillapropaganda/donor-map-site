@@ -1,7 +1,7 @@
 ---
 title: "Gregory Meeks"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -27,6 +27,13 @@ bills-sponsored: 36
 bills-cosponsored: 193
 website: "https://meeks.house.gov"
 phone: "202-225-3461"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #gregory-meeks #democrat #new-york #house #ranking-member #foreign-affairs #financial-services #israel-lobby #wall-street #ethics-violations #phase-6-gavel-power

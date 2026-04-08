@@ -1,7 +1,7 @@
 ---
 title: "Brian Babin"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: "2026-04-05"
 source-tier: 1
 parent: null
@@ -20,6 +20,13 @@ issues:
   - "Immigration"
 total-received: "$749,136"
 fec-candidate-id: "H6TX02079"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

@@ -1,10 +1,16 @@
 ---
 title: "Media and Propaganda - Donors and Backers"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

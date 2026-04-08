@@ -1,7 +1,7 @@
 ---
 title: "Jan Koum"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -40,6 +40,14 @@ sec-form-types:
   - "PRE 14A"
   - "S-3ASR"
   - "S-8"
+source-types:
+  - Courts
+  - FEC
+  - SEC
+corroboration-count: 3
+known-gaps:
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 tags:

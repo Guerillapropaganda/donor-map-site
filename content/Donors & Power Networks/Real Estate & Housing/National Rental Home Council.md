@@ -1,7 +1,7 @@
 ---
 title: "National Rental Home Council"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -47,6 +47,11 @@ related: "[[Invitation Homes - Institutional Landlords]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 4375683
 total-assets: 467752
+source-types:
+  - SEC
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #donor #real-estate #housing #trade-association #institutional-landlords #revolving-door #class-analysis #follow-the-money

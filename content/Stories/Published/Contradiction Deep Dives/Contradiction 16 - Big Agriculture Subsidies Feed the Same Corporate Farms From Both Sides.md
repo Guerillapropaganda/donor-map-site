@@ -1,12 +1,18 @@
 ---
 title: "Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
 issues:
   - "Agriculture"
+source-types:
+  - FEC
+  - LDA
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #investigation #contradiction #agriculture #farm-subsidies #crop-insurance #snap #bipartisan-consensus #class-analysis

@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Netanyahu Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -25,6 +25,13 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
+source-types:
+  - DOJ
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #master-profile #netanyahu #israel #prime-minister #likud #class-analysis #follow-the-money #settlements #adelson #corruption #aipac #surveillance #defense-industry #international

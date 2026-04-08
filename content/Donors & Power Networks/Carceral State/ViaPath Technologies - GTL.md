@@ -1,13 +1,17 @@
 ---
 title: "ViaPath Technologies - GTL"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Carceral State"
 entity-type: "Corporation"
 related: "[[Aramark]]"
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 

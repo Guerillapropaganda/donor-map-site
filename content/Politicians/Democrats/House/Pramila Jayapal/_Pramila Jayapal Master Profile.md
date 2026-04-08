@@ -1,7 +1,7 @@
 ---
 title: "Pramila Jayapal"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -23,6 +23,13 @@ top-donors:
   - "ActBlue"
 total-received: "$1,548,482"
 fec-candidate-id: "H6WA07458"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #pramila-jayapal #democrat #washington #house #progressive-caucus #medicare-for-all #immigration #labor #tech #seattle #antitrust

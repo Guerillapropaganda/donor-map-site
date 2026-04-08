@@ -1,7 +1,7 @@
 ---
 title: "Honeywell International"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -42,6 +42,16 @@ federal-awards-total: 1083390059
 federal-contracts-count: 25
 federal-grants-count: 12
 cpsc-recalls: 7
+source-types:
+  - Courts
+  - FederalRegister
+  - USASpending
+corroboration-count: 3
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #defense-contractor #aerospace #pac-donor #defense-committee #bipartisan

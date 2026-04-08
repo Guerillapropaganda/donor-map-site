@@ -1,7 +1,7 @@
 ---
 title: "The Grayzone"
 type: media-profile
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: 3
 parent: null

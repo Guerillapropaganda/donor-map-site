@@ -1,7 +1,7 @@
 ---
 title: "Ilhan Omar Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -19,6 +19,13 @@ issues:
   - "Education"
 total-received: "$3,125,783"
 fec-candidate-id: "H8MN05239"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #omar #minnesota #progressive #squad #foreign-affairs #israel #somalia #refugee #budget #education

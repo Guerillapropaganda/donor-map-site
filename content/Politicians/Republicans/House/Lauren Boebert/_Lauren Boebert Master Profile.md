@@ -1,7 +1,7 @@
 ---
 title: "Lauren Boebert"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -14,6 +14,13 @@ issues:
   - "Energy & Climate"
 total-received: "$723,121"
 fec-candidate-id: "H0CO03165"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #boebert #colorado #freedom-caucus #gun-rights #energy #maga #small-dollar #culture-war #oil-gas #ethics #district-switch

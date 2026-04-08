@@ -1,7 +1,7 @@
 ---
 title: "National Progressive Donor Networks"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -12,6 +12,9 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 related: "[[Democratic Donor Network]] · [[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Center for American Progress]] · [[Viral Moment Pipeline and National Fundraising]] · [[Arabella Advisors]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #progressive #donor-network #democracy-alliance #soros #steyer #dark-money

@@ -1,13 +1,15 @@
 ---
 title: "Joe Rogan"
 type: media-profile
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
 related: "[[Peter Thiel]] · [[Elon Musk]] · [[Marc Andreessen and a16z]] · [[Founders Fund]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Nate Silver]] · [[Glenn Greenwald]] · [[Dan Bongino]] · [[Rumble]] · [[Tucker Carlson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]]"
+source-types:
+  - FEC
 ---
 
 #media-pipeline #centrist #audience-capture #independence-theater #centrist-laundering #climate-denial #covid-misinformation #spotify #ufc

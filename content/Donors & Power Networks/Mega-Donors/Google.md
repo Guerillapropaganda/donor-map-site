@@ -1,12 +1,17 @@
 ---
 title: "Google / Alphabet Inc. (Redirect)"
 type: corporation
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: null
 parent: null
 sector: "Mega-Donors"
 entity-type: "Corporation"
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #redirect

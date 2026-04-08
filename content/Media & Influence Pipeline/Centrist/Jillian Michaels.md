@@ -1,13 +1,15 @@
 ---
 title: "Jillian Michaels"
 type: media-profile
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-27
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
 related: "[[Patrick Bet-David]]"
+source-types:
+  - FEC
 ---
 
 #media-pipeline #centrist #celebrity-to-commentator #valuetainment #fitness-brand #political-platform

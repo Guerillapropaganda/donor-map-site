@@ -1,7 +1,7 @@
 ---
 title: "Matt Gaetz Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -14,6 +14,12 @@ top-donors:
   - "MAGA Small Dollar Base"
 total-received: "$6,772,979"
 fec-candidate-id: "H6FL01119"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

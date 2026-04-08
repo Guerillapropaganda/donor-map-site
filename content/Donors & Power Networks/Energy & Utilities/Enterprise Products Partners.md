@@ -1,7 +1,7 @@
 ---
 title: "Enterprise Products Partners"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -28,6 +28,14 @@ court-jurisdictions:
   - "District Court, S.D. Texas"
   - "District Court, W.D. Texas"
 related: "[[InfluenceMap]] · [[Rex Tillerson]]"
+source-types:
+  - Courts
+  - LDA
+  - USASpending
+corroboration-count: 3
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
 ---
 
 #donor #energy #midstream #fossil-fuel #pipeline #republican-lean #class-analysis #follow-the-money

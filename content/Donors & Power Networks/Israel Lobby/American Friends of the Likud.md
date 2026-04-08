@@ -1,7 +1,7 @@
 ---
 title: "American Friends of the Likud"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -10,6 +10,9 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Benjamin Netanyahu"
 related: "[[Haim Saban]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #donor #israel-lobby #likud #501c3 #direct-party-funding #us-israel-nexus

@@ -1,7 +1,7 @@
 ---
 title: "Ajay Royan"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -30,6 +30,14 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+source-types:
+  - Courts
+  - DOJ
+  - FEC
+corroboration-count: 3
+known-gaps:
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #ajay-royan #mithril-capital #thiel #tech #venture-capital #defense-tech #biotech #republican #donor #paypal-mafia-adjacent #oak-ridge #hoover-institution

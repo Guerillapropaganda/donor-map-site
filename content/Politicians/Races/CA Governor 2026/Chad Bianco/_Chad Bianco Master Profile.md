@@ -1,7 +1,7 @@
 ---
 title: "Chad Bianco Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
@@ -10,6 +10,11 @@ chamber: "Governor"
 top-donors:
   - "PORAC - Peace Officers Research Association of California"
   - "CCPOA - California Correctional Peace Officers Association"
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

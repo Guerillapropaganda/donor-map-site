@@ -1,7 +1,7 @@
 ---
 title: "Raphael Warnock Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -20,6 +20,13 @@ bills-sponsored: 24
 bills-cosponsored: 297
 website: "https://www.warnock.senate.gov"
 phone: "202-224-3643"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 title: "Dick Cheney"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
 party: "Republican"
 chamber: "Cabinet"
 related: "[[Condoleezza Rice]] · [[Colin Powell]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
 ---
 
 #politician #republican #vice-president #secretary-defense #halliburton #revolving-door #defense-contractor #war-crimes #torture #energy-task-force

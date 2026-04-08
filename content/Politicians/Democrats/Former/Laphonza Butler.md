@@ -1,11 +1,17 @@
 ---
 title: "Laphonza Butler"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #laphonza-butler #senator #california #labor #appointed #seiu #emily-list #class-analysis #democrat

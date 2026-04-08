@@ -1,7 +1,7 @@
 ---
 title: "United Auto Workers"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -26,6 +26,12 @@ sec-form-types:
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 related: "[[2026-03-26 Finance Research]] · [[Gretchen Whitmer Master Profile]]"
+source-types:
+  - LDA
+  - SEC
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 #uaw #redirect #auto-workers #union

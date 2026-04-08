@@ -1,7 +1,7 @@
 ---
 title: "Aramark"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -80,6 +80,16 @@ federal-contracts-count: 25
 federal-grants-count: 0
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+source-types:
+  - Courts
+  - FederalRegister
+  - SEC
+  - USASpending
+corroboration-count: 4
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

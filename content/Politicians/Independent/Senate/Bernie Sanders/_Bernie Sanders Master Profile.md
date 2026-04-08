@@ -1,7 +1,7 @@
 ---
 title: "Bernie Sanders Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -18,6 +18,12 @@ top-donors:
   - "IBEW - International Brotherhood of Electrical Workers"
 total-received: "$4,189"
 fec-candidate-id: "H8VT01016"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

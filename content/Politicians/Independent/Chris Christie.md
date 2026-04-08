@@ -1,13 +1,21 @@
 ---
 title: "Chris Christie"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
 total-received: "$7,628,085"
 fec-candidate-id: "P60008521"
+source-types:
+  - Congress
+  - DOJ
+  - FEC
+corroboration-count: 3
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #christie #independent #former-governor #new-jersey #bridgegate #anti-trump #kushner-vendetta #2024-candidate #class-analysis

@@ -1,7 +1,7 @@
 ---
 title: "Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class"
 type: story
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -11,6 +11,10 @@ issues:
   - "Israel & Foreign Policy"
   - "Criminal Justice"
 related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]]"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
 ---
 
 

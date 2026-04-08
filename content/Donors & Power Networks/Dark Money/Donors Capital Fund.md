@@ -1,7 +1,7 @@
 ---
 title: "Donors Capital Fund"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -28,6 +28,11 @@ related: "[[DeVos Family]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 8448130
 total-assets: 10973631
+source-types:
+  - Courts
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #donor #dark-money #donor-advised-fund #501c3 #conservative #koch-network #class-analysis #follow-the-money

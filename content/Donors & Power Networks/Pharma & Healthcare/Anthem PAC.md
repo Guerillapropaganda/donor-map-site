@@ -1,7 +1,7 @@
 ---
 title: "Anthem PAC"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ entity-type: "PAC"
 issues:
   - "Healthcare"
 related: "[[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Centene Corporation PAC]]"
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 #anthem #elevance #insurance #healthcare #pac #bipartisan #aca

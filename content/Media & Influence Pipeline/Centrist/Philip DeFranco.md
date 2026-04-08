@@ -1,13 +1,15 @@
 ---
 title: "Philip DeFranco"
 type: media-profile
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-27
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
 related: "(no existing donor nodes — platform funded via YouTube/Google AdSense + Patreon; corporate deals with Discovery Digital Networks 2013-2016 and Group Nine Media 2016-2017 now defunct)"
+source-types:
+  - FEC
 ---
 
 #media-pipeline #centrist #youtube #creator-economy #platform-dependency

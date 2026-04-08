@@ -1,7 +1,7 @@
 ---
 title: "United Arab Emirates - Influence Operation"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -10,6 +10,9 @@ entity-type: "Individual Donor"
 issues:
   - "Technology"
 related: "[[Turkey - Erdogan Lobbying Operation]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #uae #foreign #lobbying #arms-sales #abu-dhabi #dubai #sovereign-wealth #tech

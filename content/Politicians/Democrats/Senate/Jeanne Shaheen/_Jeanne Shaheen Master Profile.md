@@ -1,7 +1,7 @@
 ---
 title: "Jeanne Shaheen Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -26,6 +26,13 @@ bills-sponsored: 77
 bills-cosponsored: 409
 website: "https://www.shaheen.senate.gov"
 phone: "202-224-2841"
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 

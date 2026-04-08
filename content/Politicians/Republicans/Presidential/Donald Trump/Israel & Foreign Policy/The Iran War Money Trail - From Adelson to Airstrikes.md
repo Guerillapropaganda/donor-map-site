@@ -1,7 +1,7 @@
 ---
 title: "The Iran War Money Trail - From Adelson to Airstrikes"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -19,6 +19,12 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[Jared Kushner Master Profile]] · [[Sheldon & Miriam Adelson]]"
+source-types:
+  - DOJ
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
 ---
 
 

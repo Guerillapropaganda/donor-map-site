@@ -1,7 +1,7 @@
 ---
 title: "Ro Khanna Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -40,6 +40,14 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+source-types:
+  - Congress
+  - DOJ
+  - FEC
+  - GovTrack
+corroboration-count: 4
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #ro-khanna #democrat #california #house #silicon-valley #tech #progressive #defense #antitrust #2028

@@ -1,7 +1,7 @@
 ---
 title: "America PAC - Elon Musk"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ entity-type: "PAC"
 issues:
   - "Technology"
 related: "[[Mike Lawler Master Profile]]"
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 #america-pac #elon-musk #trump #2024 #super-pac #tech #voter-data #turnout

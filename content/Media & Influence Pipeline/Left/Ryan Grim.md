@@ -1,13 +1,15 @@
 ---
 title: "Ryan Grim"
 type: media-profile
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
 category: left
 platform: substack
 related: "[[Drop Site News]] · [[Jeremy Scahill]] · [[Open Society Foundations]]"
+source-types:
+  - FEC
 ---
 
 #media-pipeline #left #drop-site #intercept #congressional-left #investigative #journalist

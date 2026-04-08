@@ -1,11 +1,15 @@
 ---
 title: "The NRA Investment and the Second Amendment Theater"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 related: "[[Guns - Donors and Backers]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
 ---
 
 

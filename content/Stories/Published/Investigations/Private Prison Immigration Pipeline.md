@@ -1,12 +1,16 @@
 ---
 title: "Private Prison Immigration Pipeline"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
 issues:
   - "Immigration"
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #investigation #private-prison #immigration #geo-group #corecivic #ice #detention #deportation

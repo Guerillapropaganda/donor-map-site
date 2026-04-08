@@ -1,7 +1,7 @@
 ---
 title: "Tom Cotton Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -21,6 +21,13 @@ bills-sponsored: 78
 bills-cosponsored: 149
 website: "https://www.cotton.senate.gov"
 phone: "202-224-2353"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

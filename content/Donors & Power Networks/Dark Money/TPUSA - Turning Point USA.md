@@ -1,7 +1,7 @@
 ---
 title: "TPUSA - Turning Point USA"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -11,6 +11,9 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
 related: "[[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Charlie Kirk]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #dark-money #conservative-youth #charlie-kirk #maga #infrastructure

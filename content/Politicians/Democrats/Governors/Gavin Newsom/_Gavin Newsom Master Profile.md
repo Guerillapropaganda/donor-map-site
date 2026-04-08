@@ -1,7 +1,7 @@
 ---
 title: Gavin Newsom Master Profile
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: '2026-04-08'
 source-tier: 1
 parent: null
@@ -23,6 +23,11 @@ top-donors:
   - Kaiser Permanente
   - Lennar Corporation
   - National Association of Realtors
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

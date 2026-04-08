@@ -1,7 +1,7 @@
 ---
 title: "The Free Press"
 type: media-profile
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: null
 parent: null

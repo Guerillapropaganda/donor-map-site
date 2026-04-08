@@ -1,7 +1,7 @@
 ---
 title: "Dan Goldman"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -12,6 +12,13 @@ website: "https://goldman.house.gov"
 phone: "202-225-7944"
 total-received: "$2,082,447"
 fec-candidate-id: "H2NY10308"
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 #dan-goldman #house #new-york #levi-strauss-heir #impeachment-lawyer #israel-hawk #class-analysis #inherited-wealth #democrat

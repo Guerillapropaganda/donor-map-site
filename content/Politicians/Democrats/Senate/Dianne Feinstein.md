@@ -1,7 +1,7 @@
 ---
 title: "Dianne Feinstein"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -12,6 +12,13 @@ fec-candidate-id: "S0CA00199"
 govtrack-id: 300043
 bills-sponsored: 0
 bills-cosponsored: 0
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #feinstein #democrat #senate #california #intelligence #defense-contractors #richard-blum #surveillance-champion #class-analysis

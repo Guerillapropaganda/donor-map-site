@@ -1,7 +1,7 @@
 ---
 title: "Tommy Tuberville Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -18,6 +18,13 @@ bills-sponsored: 35
 bills-cosponsored: 194
 website: "https://www.tuberville.senate.gov"
 phone: "202-224-4124"
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
+  - "No mapped relationships"
 ---
 
 

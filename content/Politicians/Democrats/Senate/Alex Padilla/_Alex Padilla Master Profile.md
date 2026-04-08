@@ -1,7 +1,7 @@
 ---
 title: "Alex Padilla"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -16,6 +16,13 @@ issues:
   - "Immigration"
 total-received: "$1,908,371"
 fec-candidate-id: "S2CA00955"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

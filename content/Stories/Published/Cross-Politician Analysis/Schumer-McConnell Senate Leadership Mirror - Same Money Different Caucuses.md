@@ -1,7 +1,7 @@
 ---
 title: "Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

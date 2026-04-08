@@ -1,7 +1,7 @@
 ---
 title: "Doug Burgum Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -14,6 +14,12 @@ top-donors:
   - "Harold Hamm"
 total-received: "$18,007,929"
 fec-candidate-id: "P40013518"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

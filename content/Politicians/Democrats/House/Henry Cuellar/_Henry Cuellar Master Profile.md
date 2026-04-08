@@ -1,7 +1,7 @@
 ---
 title: "Henry Cuellar Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -14,6 +14,14 @@ issues:
   - "Energy & Climate"
 total-received: "$1,189,858"
 fec-candidate-id: "H2TX23082"
+source-types:
+  - DOJ
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

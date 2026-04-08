@@ -1,7 +1,7 @@
 ---
 title: "Carlos Gimenez"
 type: politician
-content-readiness: developed
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -27,6 +27,12 @@ website: "https://gimenez.house.gov"
 phone: "202-225-2778"
 donors: "[[Bacardi - Bacardi USA]]"
 related: "[[Lennar Corporation]]"
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
 ---
 
 #politician #republican #house #florida #cuba #miami #real-estate #defense #class-analysis #follow-the-money #crowley #transportation

@@ -1,7 +1,7 @@
 ---
 title: "Arabella Advisors"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -11,6 +11,9 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
 related: "[[National Progressive Donor Networks]] · [[Sheldon Whitehouse]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #donor-node #dark-money #democrat #fiscal-sponsorship #infrastructure #class-analysis #donor

@@ -1,7 +1,7 @@
 ---
 title: "Tammy Baldwin Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -18,6 +18,13 @@ top-donors:
   - "EMILY's List"
   - "JStreetPAC"
 fec-candidate-id: "H8WI00018"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #baldwin #wisconsin #healthcare #labor #dairy #manufacturing #lgbtq #swing-state #help-committee #buy-american #class-analysis

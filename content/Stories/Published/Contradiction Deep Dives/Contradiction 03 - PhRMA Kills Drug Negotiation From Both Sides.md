@@ -1,12 +1,18 @@
 ---
 title: "PhRMA Kills Drug Negotiation From Both Sides"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
 issues:
   - "Healthcare"
+source-types:
+  - FEC
+  - LDA
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #investigation #contradiction #pharma #healthcare #drug-prices #both-sides #class-analysis

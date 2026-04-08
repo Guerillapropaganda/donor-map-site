@@ -1,12 +1,16 @@
 ---
 title: "Jack Posobiec"
 type: media-profile
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
+source-types:
+  - FEC
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #media-pipeline #right #maga #human-events #info-ops #posobiec #naval-intelligence #january-6 #stop-the-steal

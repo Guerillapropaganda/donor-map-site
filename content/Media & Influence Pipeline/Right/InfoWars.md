@@ -1,7 +1,7 @@
 ---
 title: "InfoWars"
 type: media-profile
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: 2
 parent: null

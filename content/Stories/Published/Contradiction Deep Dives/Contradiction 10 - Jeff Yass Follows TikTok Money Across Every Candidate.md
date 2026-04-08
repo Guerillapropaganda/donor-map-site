@@ -1,10 +1,16 @@
 ---
 title: "Jeff Yass Follows TikTok Money Across Every Candidate"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #investigation #contradiction #jeff-yass #tiktok #bytedance #multi-candidate #class-analysis

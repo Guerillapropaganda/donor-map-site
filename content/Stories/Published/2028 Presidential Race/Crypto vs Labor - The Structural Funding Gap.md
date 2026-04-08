@@ -1,7 +1,7 @@
 ---
 title: "Crypto vs Labor - The Structural Funding Gap"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null

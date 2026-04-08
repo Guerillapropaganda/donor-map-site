@@ -1,7 +1,7 @@
 ---
 title: "Lawrence Summers"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 2
 parent: null
@@ -11,6 +11,11 @@ issues:
   - "Wall Street & Finance"
 lobbying-spend: 67750
 lobbying-filings: 13
+source-types:
+  - LDA
+known-gaps:
+  - "No FEC contribution data"
+  - "No mapped relationships"
 ---
 
 #larry-summers #wall-street #treasury #harvard #obama-advisor #economic-policy

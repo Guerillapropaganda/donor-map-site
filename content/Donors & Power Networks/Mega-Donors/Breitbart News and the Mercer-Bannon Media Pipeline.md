@@ -1,7 +1,7 @@
 ---
 title: "Breitbart News and the Mercer-Bannon Media Pipeline"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -11,6 +11,9 @@ politicians-funded:
   - "Donald Trump"
   - "Steve Bannon"
 related: "[[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 

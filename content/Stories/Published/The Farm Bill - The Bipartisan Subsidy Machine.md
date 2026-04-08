@@ -1,12 +1,16 @@
 ---
 title: "The Farm Bill - The Bipartisan Subsidy Machine"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
 issues:
   - "Agriculture"
+source-types:
+  - Congress
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #farm-bill #agriculture #snap #subsidies #bipartisan #agribusiness #nutrition

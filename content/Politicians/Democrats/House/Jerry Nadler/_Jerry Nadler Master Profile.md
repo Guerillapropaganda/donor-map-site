@@ -1,7 +1,7 @@
 ---
 title: "Jerry Nadler"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -17,6 +17,13 @@ issues:
   - "Antitrust & Monopoly"
   - "Housing"
   - "Israel & Foreign Policy"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #politician #democrat #house #new-york #judiciary #antitrust #real-estate #israel #class-analysis #follow-the-money #gavel-power

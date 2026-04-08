@@ -1,7 +1,7 @@
 ---
 title: "Bob Menendez"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
@@ -13,6 +13,12 @@ committees:
   - "Foreign Relations"
 top-donors:
   - "AIPAC"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #politician #democrat #senate #new-jersey #cuba #corruption #foreign-relations #egypt #class-analysis #follow-the-money #bribery #gold-bars

@@ -1,12 +1,18 @@
 ---
 title: "Defense-Pharma-Carceral-Labor-Wexner Cross-Reference: Five Donors, One System"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
 issues:
   - "Dark Money & Campaign Finance"
+source-types:
+  - FEC
+  - LDA
+corroboration-count: 2
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #cross-reference #donor-analysis #roi-analysis #class-analysis #dark-money #donor-control

@@ -1,7 +1,7 @@
 ---
 title: "Media Matters"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 2
 parent: null
@@ -36,6 +36,14 @@ court-jurisdictions:
   - "District Court, W.D. Texas"
 lei: "2330006W7D3HYA5G4N42"
 lei-jurisdiction: "HU"
+source-types:
+  - Courts
+  - FederalRegister
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #media-matters #dark-money #progressive #media-watchdog #democracy-alliance #Elon-Musk-lawsuit #infrastructure

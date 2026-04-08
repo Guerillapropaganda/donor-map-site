@@ -1,7 +1,7 @@
 ---
 title: "Susan Collins Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -26,6 +26,13 @@ stock-trade-tickers:
   - "COP"
 total-received: "$10,153,542"
 fec-candidate-id: "S6ME00159"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Brian Schatz Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -17,6 +17,13 @@ top-donors:
 bioguide-id: "A000383"
 total-received: "$1,513,132"
 fec-candidate-id: "S4HI00136"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

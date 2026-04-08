@@ -1,7 +1,7 @@
 ---
 title: "John Roberts Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -11,6 +11,13 @@ top-donors:
   - "Koch Network - Charles Koch"
 total-received: "$167,173"
 fec-candidate-id: "H2AL05169"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Nancy Mace"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -12,6 +12,13 @@ bills-sponsored: 79
 bills-cosponsored: 170
 website: "https://mace.house.gov"
 phone: "202-225-3176"
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 #nancy-mace #house #south-carolina #swing-district #donor-flip #weather-vane #ideological-flexibility

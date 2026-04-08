@@ -1,7 +1,7 @@
 ---
 title: "Jodey Arrington"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -30,6 +30,13 @@ bills-sponsored: 54
 bills-cosponsored: 79
 website: "https://arrington.house.gov"
 phone: "202-225-4005"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #jodey-arrington #republican #texas #house #committee-chair #budget #ways-and-means #oil-gas #agriculture #tax-cuts #reconciliation #phase-6-gavel-power

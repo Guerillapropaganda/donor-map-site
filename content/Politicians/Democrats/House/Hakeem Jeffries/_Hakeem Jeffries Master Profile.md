@@ -1,7 +1,7 @@
 ---
 title: "Hakeem Jeffries Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -18,6 +18,12 @@ top-donors:
   - "Real Estate Industry"
 total-received: "$10,327,241"
 fec-candidate-id: "H2NY10092"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

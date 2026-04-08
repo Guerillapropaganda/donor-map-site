@@ -1,7 +1,7 @@
 ---
 title: "JCRC Bay Area"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -12,6 +12,9 @@ politicians-funded:
 issues:
   - "Israel & Foreign Policy"
 related: "[[Haim Saban]] · [[Ethnic Studies - Whose History Gets Taught]] · [[DMFI - Democratic Majority for Israel]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 

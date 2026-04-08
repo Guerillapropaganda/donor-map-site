@@ -1,7 +1,7 @@
 ---
 title: "Amy Acton Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -16,6 +16,14 @@ top-donors:
   - "AFGE"
   - "Ohio AFL-CIO"
 bioguide-id: "A000383"
+source-types:
+  - Congress
+  - DOJ
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #amy-acton #democrat #ohio #governor #public-health #2026-governor-race #grassroots #covid #class-analysis #follow-the-money #master-profile

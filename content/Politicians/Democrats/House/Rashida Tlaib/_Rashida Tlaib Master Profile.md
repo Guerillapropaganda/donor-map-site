@@ -1,7 +1,7 @@
 ---
 title: "Rashida Tlaib"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -19,6 +19,13 @@ website: "https://tlaib.house.gov"
 phone: "202-225-5126"
 total-received: "$1,896,063"
 fec-candidate-id: "H8MI13250"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #tlaib #michigan #progressive #squad #palestine #oversight #dearborn #detroit #dsa #small-dollar #censure #environmental-justice

@@ -1,7 +1,7 @@
 ---
 title: "Cori Bush"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -17,6 +17,11 @@ bills-cosponsored: 0
 total-received: "$534,492"
 fec-candidate-id: "H8MO01143"
 related: "[[Jamaal Bowman Master Profile]]"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
 ---
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money

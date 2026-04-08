@@ -1,7 +1,7 @@
 ---
 title: "Mike Waltz"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-31
 source-tier: 1
 parent: null
@@ -11,6 +11,12 @@ state: "Florida"
 state-abbr: "FL"
 top-donors:
   - "AIPAC"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #politician #republican #florida #national-security-advisor #defense-contractor #revolving-door #afghanistan #cuba #china #class-analysis #follow-the-money #metis #green-beret

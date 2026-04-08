@@ -1,7 +1,7 @@
 ---
 title: "America Votes"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -27,6 +27,14 @@ total-assets: 45486683
 federal-register-mentions: 1
 regulatory-agencies:
   - "Election Assistance Commission"
+source-types:
+  - FederalRegister
+  - SEC
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #america-votes #dark-money #progressive-coordination #democracy-alliance #infrastructure #voter-mobilization

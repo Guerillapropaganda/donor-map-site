@@ -1,7 +1,7 @@
 ---
 title: "Ted Cruz Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 career-total: "$100M"
@@ -24,6 +24,13 @@ website: "https://www.cruz.senate.gov"
 phone: "202-224-5922"
 total-received: "$6,442,446"
 fec-candidate-id: "S2TX00312"
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 

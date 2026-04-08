@@ -1,10 +1,14 @@
 ---
 title: "The Revolving Door Explosion of 2025"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+source-types:
+  - Congress
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #investigation #revolving-door #lobbying #corruption #congress #k-street #regulatory-capture

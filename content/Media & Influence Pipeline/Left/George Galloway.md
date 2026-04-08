@@ -1,7 +1,7 @@
 ---
 title: "George Galloway"
 type: media-profile
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-27
 source-tier: 2
 parent: null

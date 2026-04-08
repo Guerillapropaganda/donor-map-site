@@ -1,11 +1,15 @@
 ---
 title: "Anthony Rendon"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 related: "[[Buffy Wicks]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
 ---
 
 #rendon #democrat #california #assembly-speaker #class-analysis #healthcare-donor #follow-the-money

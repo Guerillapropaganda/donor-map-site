@@ -1,7 +1,7 @@
 ---
 title: "America First Policy Institute"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -18,6 +18,9 @@ annual-revenue: "$27.3M"
 net-assets: "$9.9M"
 tax-year: "2023"
 related: "[[Federalist Society]] · [[Linda McMahon Master Profile]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #afpi #trump #think-tank #project-2025 #transition #dark-money #maga

@@ -1,7 +1,7 @@
 ---
 title: "Mark Green"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -19,6 +19,13 @@ fec-candidate-id: "H0CT05150"
 govtrack-id: 400159
 bills-sponsored: 0
 bills-cosponsored: 0
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

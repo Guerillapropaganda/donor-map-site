@@ -1,7 +1,7 @@
 ---
 title: "Pete Hegseth Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: "2026-04-05"
 source-tier: 2
 parent: null
@@ -13,6 +13,11 @@ top-donors:
   - "Koch Network"
 total-received: "$202,554"
 fec-candidate-id: "S2MN00258"
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 > [!warning] DUPLICATE — DO NOT EDIT

@@ -1,12 +1,17 @@
 ---
 title: "Wilks Brothers — Dan and Farris Wilks"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-26
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #donor #mega-donor #energy #fracking #christian-nationalism #daily-wire #prageru #texas #media-infrastructure #class-analysis

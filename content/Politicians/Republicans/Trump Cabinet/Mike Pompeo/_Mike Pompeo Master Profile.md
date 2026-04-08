@@ -1,7 +1,7 @@
 ---
 title: "Mike Pompeo Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -14,6 +14,13 @@ top-donors:
 govtrack-id: 412431
 bills-sponsored: 0
 bills-cosponsored: 0
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 

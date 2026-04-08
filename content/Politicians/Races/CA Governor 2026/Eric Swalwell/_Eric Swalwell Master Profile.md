@@ -1,7 +1,7 @@
 ---
 title: "Eric Swalwell Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -28,6 +28,14 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 bioguide-id: "A000383"
+source-types:
+  - Congress
+  - DOJ
+  - FEC
+  - GovTrack
+corroboration-count: 4
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Student Loan Servicer Industry"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -13,6 +13,9 @@ politicians-funded:
 issues:
   - "Education"
 related: "[[The Student Loan Gambit - Promise Block and Political Credit]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #student-loans #education #navient #nelnet #mohela #servicing #debt

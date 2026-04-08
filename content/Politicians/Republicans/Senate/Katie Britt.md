@@ -1,12 +1,18 @@
 ---
 title: "Katie Britt"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
 total-received: "$5,988,486"
 fec-candidate-id: "S2AL00145"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #katie-britt #senate #alabama #rising-star #business-council #donor-class-project #manufactured

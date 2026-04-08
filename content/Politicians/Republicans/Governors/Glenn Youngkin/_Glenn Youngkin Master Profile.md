@@ -1,7 +1,7 @@
 ---
 title: "Glenn Youngkin Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
@@ -11,6 +11,12 @@ state: "Virginia"
 state-abbr: "VA"
 top-donors:
   - "Carlyle Group (self)"
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #glenn-youngkin #governor #virginia #private-equity #carlyle-group #class-analysis #follow-the-money #self-funded #education-culture-war #presidential-2028 #plutocratic-governance

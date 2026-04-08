@@ -1,10 +1,16 @@
 ---
 title: "Volodymyr Zelenskyy"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #zelenskyy #ukraine #international #defense-contractors #us-foreign-policy #class-analysis #follow-the-money

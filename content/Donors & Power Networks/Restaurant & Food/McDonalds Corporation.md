@@ -1,7 +1,7 @@
 ---
 title: "McDonalds Corporation"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -33,6 +33,12 @@ sec-form-types:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+source-types:
+  - SEC
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #mcdonalds #fast-food #minimum-wage #franchise #labor #fight-for-15 #lobbying

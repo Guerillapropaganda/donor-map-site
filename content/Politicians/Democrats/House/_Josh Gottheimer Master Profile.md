@@ -1,7 +1,7 @@
 ---
 title: "Josh Gottheimer Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -13,6 +13,12 @@ top-donors:
   - "Wall Street Finance PACs"
 total-received: "$1,892,291"
 fec-candidate-id: "H6NJ05171"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #politician #democrat #house #josh-gottheimer #donor-pipeline #corporate-democrat #problem-solvers

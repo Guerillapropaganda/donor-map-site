@@ -1,7 +1,7 @@
 ---
 title: "Jamaal Bowman Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -15,6 +15,13 @@ fec-candidate-id: "H0NY16143"
 govtrack-id: 456839
 bills-sponsored: 0
 bills-cosponsored: 0
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester

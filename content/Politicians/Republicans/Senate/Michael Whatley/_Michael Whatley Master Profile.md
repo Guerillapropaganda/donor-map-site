@@ -1,7 +1,7 @@
 ---
 title: "Michael Whatley Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 2
 parent: null
@@ -15,6 +15,12 @@ top-donors:
   - "Susan B. Anthony Pro-Life America PAC"
 total-received: "$6,273,539"
 fec-candidate-id: "S6NC00415"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #politician #republican #senate #north-carolina #2026-candidate #oil-lobbyist #trump-aligned

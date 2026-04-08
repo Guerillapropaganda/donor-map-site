@@ -1,7 +1,7 @@
 ---
 title: "Ed Markey"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -17,6 +17,13 @@ leadership-roles:
 issues:
   - "Energy & Climate"
 fec-candidate-id: "H6MA07101"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

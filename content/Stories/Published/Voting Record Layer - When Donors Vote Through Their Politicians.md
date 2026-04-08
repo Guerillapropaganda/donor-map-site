@@ -1,10 +1,12 @@
 ---
 title: "Voting Record Layer - When Donors Vote Through Their Politicians"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #investigation #methodology-layer #voting-record #donor-vote-correlation #class-analysis

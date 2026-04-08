@@ -1,7 +1,7 @@
 ---
 title: "Brett Guthrie Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -15,6 +15,13 @@ top-donors:
   - "AbbVie"
 total-received: "$3,143,679"
 fec-candidate-id: "H8KY02031"
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 #politician #republican #house #brett-guthrie #donor-pipeline #pharma

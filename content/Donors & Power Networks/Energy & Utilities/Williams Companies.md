@@ -1,7 +1,7 @@
 ---
 title: "Williams Companies"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -67,6 +67,14 @@ regulatory-agencies:
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Securities and Exchange Commission"
   - "Transportation Department"
+source-types:
+  - DOJ
+  - FederalRegister
+  - SEC
+corroboration-count: 3
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #donor #energy #natural-gas #pipeline #fossil-fuel #republican-lean #class-analysis #follow-the-money

@@ -1,7 +1,7 @@
 ---
 title: "Nikki Haley Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -16,6 +16,12 @@ top-donors:
   - "Kenneth Griffin"
 total-received: "$58,378,348"
 fec-candidate-id: "P40010977"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #nikki-haley #governor #south-carolina #un-ambassador #republican #defense-hawk #class-analysis #follow-the-money #koch-network #wall-street #presidential-2028 #electability-candidate

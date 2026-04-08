@@ -1,10 +1,15 @@
 ---
 title: "COVID Mandate Refusal - The Brand-Building Moment"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

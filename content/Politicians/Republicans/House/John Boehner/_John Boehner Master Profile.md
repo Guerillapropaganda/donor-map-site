@@ -1,7 +1,7 @@
 ---
 title: "John Boehner"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -18,6 +18,13 @@ top-donors:
   - "JPMorgan Chase"
   - "Real Estate/Commercial Property"
 fec-candidate-id: "H0OH08029"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #john-boehner #speaker-of-house #tobacco #cannabis #revolving-door #koch-network #finance #class-analysis

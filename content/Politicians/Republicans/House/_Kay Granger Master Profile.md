@@ -1,7 +1,7 @@
 ---
 title: "Kay Granger Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -19,6 +19,13 @@ top-donors:
   - "Oil & Gas PACs"
 total-received: "$1,080,370"
 fec-candidate-id: "H6TX12060"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

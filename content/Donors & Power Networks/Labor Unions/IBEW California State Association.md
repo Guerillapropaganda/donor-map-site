@@ -1,7 +1,7 @@
 ---
 title: "IBEW California State Association"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
@@ -9,6 +9,10 @@ sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Gavin Newsom"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

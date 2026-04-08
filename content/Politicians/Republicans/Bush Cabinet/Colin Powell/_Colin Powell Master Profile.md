@@ -1,7 +1,7 @@
 ---
 title: "Colin Powell"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -26,6 +26,14 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
+source-types:
+  - DOJ
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #colin-powell #secretary-of-state #chairman-joint-chiefs #iraq-war #wmd-speech #defense-contractor #revolving-door #credibility-weapon #class-analysis

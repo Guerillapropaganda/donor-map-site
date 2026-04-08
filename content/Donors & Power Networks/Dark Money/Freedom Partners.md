@@ -1,7 +1,7 @@
 ---
 title: "Freedom Partners Chamber of Commerce"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -21,6 +21,12 @@ subawards-received-amount: 1009778941592127500
 lobbying-spend: 2076000
 lobbying-filings: 84
 related: "[[ALEC - American Legislative Exchange Council]]"
+source-types:
+  - Courts
+  - LDA
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 #donor #dark-money #koch-network #501c6 #conservative #class-analysis #follow-the-money

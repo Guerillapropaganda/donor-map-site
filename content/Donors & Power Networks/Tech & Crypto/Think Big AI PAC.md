@@ -1,7 +1,7 @@
 ---
 title: "Think Big AI PAC"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ entity-type: "PAC"
 issues:
   - "Technology"
 related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Melissa Bean Master Profile]] · [[Think Big AI PAC and AI Policy Alignment]] · [[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Elect Chicago Women PAC]]"
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 #think-big-ai #super-pac #tech #ai #lobbying #regulation #silicon-valley

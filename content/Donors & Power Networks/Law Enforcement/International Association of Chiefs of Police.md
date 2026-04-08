@@ -1,7 +1,7 @@
 ---
 title: "International Association of Chiefs of Police"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -24,6 +24,12 @@ ein: "530227813"
 nonprofit-status: "501(c)(3)"
 total-revenue: 42771774
 total-assets: 52099024
+source-types:
+  - FederalRegister
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #iacp #law-enforcement #police #lobbying #qualified-immunity #surveillance #reform

@@ -1,12 +1,14 @@
 ---
 title: "Sports Gambling Industry State Capture"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
 issues:
   - "Dark Money & Campaign Finance"
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #investigation #gambling #sports-betting #state-legislature #dark-money #regulatory-capture

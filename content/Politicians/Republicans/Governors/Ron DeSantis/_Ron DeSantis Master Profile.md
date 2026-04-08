@@ -1,7 +1,7 @@
 ---
 title: "Ron DeSantis Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -17,6 +17,12 @@ top-donors:
   - "Lennar Corporation"
 total-received: "$375,129"
 fec-candidate-id: "P40013039"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #desantis #governor #florida #republican #culture-war #anti-woke #class-analysis #follow-the-money #failed-2024 #tax-haven #disney #donor-capture #presidential-2028

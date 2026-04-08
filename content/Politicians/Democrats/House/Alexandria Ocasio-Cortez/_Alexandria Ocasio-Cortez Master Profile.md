@@ -1,7 +1,7 @@
 ---
 title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -20,6 +20,13 @@ website: "https://ocasio-cortez.house.gov"
 phone: "202-225-3965"
 total-received: "$23,658,045"
 fec-candidate-id: "H8NY15148"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

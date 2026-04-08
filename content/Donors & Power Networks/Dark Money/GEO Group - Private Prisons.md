@@ -1,7 +1,7 @@
 ---
 title: "GEO Group - Private Prisons"
 type: corporation
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -13,6 +13,10 @@ last-enriched: "2026-04-07"
 total-revenue: 143756
 total-assets: 118562
 related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[CoreCivic - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[2026-03-26 Finance Research]]"
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #geo-group #redirect #private-prisons #carceral

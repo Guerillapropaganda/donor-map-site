@@ -1,12 +1,15 @@
 ---
 title: "Fairshake PAC - Crypto Super PAC (Redirect)"
 type: pac
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: null
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
+known-gaps:
+  - "No FEC contribution data"
+  - "No mapped relationships"
 ---
 
 #redirect

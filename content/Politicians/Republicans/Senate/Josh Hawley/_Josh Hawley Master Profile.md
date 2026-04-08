@@ -1,7 +1,7 @@
 ---
 title: "Josh Hawley Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -17,6 +17,13 @@ top-donors:
 total-received: "$1,150,554"
 fec-candidate-id: "S8MO00160"
 bioguide-id: "A000383"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

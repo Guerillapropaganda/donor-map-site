@@ -1,7 +1,7 @@
 ---
 title: "Joe Manchin Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -13,6 +13,14 @@ top-donors:
   - "Fossil Fuel Bloc"
 total-received: "$11,923,091"
 fec-candidate-id: "S0WV00090"
+source-types:
+  - FEC
+  - SEC
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

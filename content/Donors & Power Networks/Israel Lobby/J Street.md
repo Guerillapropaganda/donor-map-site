@@ -1,7 +1,7 @@
 ---
 title: "J Street"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -17,6 +17,9 @@ annual-revenue: "$4.0M"
 net-assets: "$4.5M"
 tax-year: "2023"
 related: "[[Entertainment and Hollywood Donors]] · [[Rashida Tlaib]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #donor #israel #pro-israel #lobbying #pac #progressive #two-state #democratic #follow-the-money #class-analysis #foreign-policy

@@ -1,10 +1,12 @@
 ---
 title: "Oklahoma 2026 Senate Race"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: 1
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #2026-election #senate #oklahoma #race-frame

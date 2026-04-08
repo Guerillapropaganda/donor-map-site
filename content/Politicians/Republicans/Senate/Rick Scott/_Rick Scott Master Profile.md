@@ -1,7 +1,7 @@
 ---
 title: "Rick Scott Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -19,6 +19,14 @@ bills-sponsored: 142
 bills-cosponsored: 331
 website: "https://www.rickscott.senate.gov"
 phone: "202-224-5274"
+source-types:
+  - DOJ
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 

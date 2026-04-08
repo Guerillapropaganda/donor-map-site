@@ -1,7 +1,7 @@
 ---
 title: "Kristi Noem"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: "2026-04-05"
 source-tier: 1
 parent: null
@@ -13,6 +13,12 @@ issues:
   - "Dark Money & Campaign Finance"
 total-received: "$20,992"
 fec-candidate-id: "H0SD00054"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #politician #republican #trump-cabinet #dhs #south-dakota #governor #corruption #no-bid-contracts #dark-money #follow-the-money #class-analysis #fired

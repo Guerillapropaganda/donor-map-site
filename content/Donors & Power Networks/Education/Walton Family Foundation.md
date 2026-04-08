@@ -1,7 +1,7 @@
 ---
 title: "Walton Family Foundation"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -14,6 +14,9 @@ annual-revenue: "$81K"
 net-assets: "$1.9M"
 tax-year: "2023"
 related: "[[Virginia Foxx]] · [[Sarah Huckabee Sanders Master Profile]] · [[The LEARNS Act and the Education Privatization Donor Network]] · [[Michael Bennet]] · [[Buffy Wicks]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 

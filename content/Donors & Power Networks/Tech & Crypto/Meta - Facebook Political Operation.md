@@ -1,7 +1,7 @@
 ---
 title: "Meta - Facebook Political Operation (Redirect)"
 type: corporation
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: null
 parent: null
@@ -10,6 +10,11 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #redirect

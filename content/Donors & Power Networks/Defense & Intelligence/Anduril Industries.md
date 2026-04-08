@@ -1,7 +1,7 @@
 ---
 title: "Anduril Industries"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -33,6 +33,13 @@ subawards-received: 50
 subawards-received-amount: 156117244
 top-federal-agency: "Department of Defense"
 top-naics-code: "334511"
+source-types:
+  - LDA
+  - SEC
+  - USASpending
+corroboration-count: 3
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money

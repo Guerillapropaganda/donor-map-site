@@ -1,7 +1,7 @@
 ---
 title: "Mike Collins Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -23,6 +23,13 @@ bills-sponsored: 12
 bills-cosponsored: 206
 website: "https://collins.house.gov"
 phone: "202-225-4101"
+source-types:
+  - Congress
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
+  - "No mapped relationships"
 ---
 
 

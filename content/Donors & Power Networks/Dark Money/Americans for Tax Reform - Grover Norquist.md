@@ -1,7 +1,7 @@
 ---
 title: "Americans for Tax Reform - Grover Norquist"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -10,6 +10,9 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
 related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #atr #norquist #tax-pledge #anti-tax #grover #lobbying #dark-money #republican

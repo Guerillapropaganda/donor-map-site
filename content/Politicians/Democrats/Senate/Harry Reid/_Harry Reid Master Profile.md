@@ -1,7 +1,7 @@
 ---
 title: "Harry Reid"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -12,6 +12,13 @@ bills-sponsored: 0
 bills-cosponsored: 0
 total-received: "$4,692,846"
 fec-candidate-id: "S6NV00028"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #politician #nevada-machine #gaming-industry #donor-extraction #senate-power

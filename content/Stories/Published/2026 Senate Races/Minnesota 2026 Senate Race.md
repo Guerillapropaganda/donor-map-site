@@ -1,10 +1,12 @@
 ---
 title: "Minnesota 2026 Senate Race"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #senate-race #2026 #competitive #minnesota #open-seat #analysis

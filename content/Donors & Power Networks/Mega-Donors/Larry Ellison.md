@@ -1,7 +1,7 @@
 ---
 title: "Larry Ellison"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -15,6 +15,11 @@ ein: 943269827
 annual-revenue: "$179.4M"
 net-assets: "$192.2M"
 tax-year: "2023"
+source-types:
+  - FEC
+known-gaps:
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #donor #mega-donor #oracle #tech #republican #government-contracts #class-analysis

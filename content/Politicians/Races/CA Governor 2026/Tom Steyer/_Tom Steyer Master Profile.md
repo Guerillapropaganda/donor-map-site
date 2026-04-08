@@ -1,7 +1,7 @@
 ---
 title: "Tom Steyer Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -16,6 +16,12 @@ top-donors:
   - "CNA - California Nurses Association"
 total-received: "$353,041,956"
 fec-candidate-id: "P00012716"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Chuck Schumer Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-23
 source-tier: 1
 career-total: "$100M"
@@ -19,6 +19,12 @@ issues:
 top-donors:
   - "Goldman Sachs"
   - "AIPAC - American Israel Public Affairs Committee"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

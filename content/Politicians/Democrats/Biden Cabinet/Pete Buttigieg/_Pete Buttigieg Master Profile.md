@@ -1,7 +1,7 @@
 ---
 title: "Pete Buttigieg Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -12,6 +12,12 @@ state-abbr: "IN"
 top-donors:
   - "Finance and Tech Bundler Network"
 fec-candidate-id: "P00010298"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

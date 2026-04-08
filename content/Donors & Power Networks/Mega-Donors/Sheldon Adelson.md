@@ -1,7 +1,7 @@
 ---
 title: "Sheldon & Miriam Adelson"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -27,6 +27,12 @@ court-jurisdictions:
   - "District Court, S.D. California"
   - "District Court, S.D. New York"
   - "District Court, W.D. Washington"
+source-types:
+  - Courts
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

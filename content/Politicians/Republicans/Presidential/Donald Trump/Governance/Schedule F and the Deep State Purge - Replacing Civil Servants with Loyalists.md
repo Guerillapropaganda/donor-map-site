@@ -1,7 +1,7 @@
 ---
 title: "Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -9,6 +9,11 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
 ofac-programs:
   - "RUSSIA-EO14024"
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

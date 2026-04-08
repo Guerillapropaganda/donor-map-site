@@ -1,7 +1,7 @@
 ---
 title: "Reclaim America PAC"
 type: pac
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -14,6 +14,10 @@ court-jurisdictions:
 related: "[[Fanjul Family - Florida Crystals]]"
 ein: "933113620"
 nonprofit-status: "501(c)(3)"
+source-types:
+  - Courts
+  - FEC
+corroboration-count: 2
 ---
 
 #pac #leadership-pac #republican #rubio #trump #class-analysis #follow-the-money

@@ -1,7 +1,7 @@
 ---
 title: "Blackstone Real Estate Political Operation"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -24,6 +24,13 @@ ofac-programs:
   - "DPRK2"
   - "ILLICIT-DRUGS-EO14059"
   - "TCO"
+source-types:
+  - LDA
+  - SEC
+corroboration-count: 2
+known-gaps:
+  - "No FEC contribution data"
+  - "No mapped relationships"
 ---
 
 #blackstone #real-estate #private-equity #schwarzman #housing #rent #carried-interest

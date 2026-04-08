@@ -1,7 +1,7 @@
 ---
 title: "InfluenceMap"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-07
 source-tier: 2
 parent: null
@@ -13,6 +13,10 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
 related: "[[League of Conservation Voters]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Enterprise Products Partners]] · [[Williams Companies]]"
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #think-tank #climate #accountability #non-partisan #data-driven #corporate-influence #class-analysis #follow-the-money

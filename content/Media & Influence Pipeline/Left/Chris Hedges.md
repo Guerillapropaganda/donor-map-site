@@ -1,13 +1,15 @@
 ---
 title: "Chris Hedges"
 type: media-profile
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: left
 platform: multi-platform
 related: "(no donor nodes — Hedges' funding model is institutional salary → state media → audience-funded; no single donor class patron) · [[Owen Jones]] · [[Lee Camp]] · [[George Galloway]] · [[Abby Martin]]"
+source-types:
+  - FEC
 ---
 
 #media-pipeline #left #institutional-transition #pulitzer-prize #editorial-constraints

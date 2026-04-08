@@ -1,13 +1,16 @@
 ---
 title: "Renaissance Technologies and the 7 Billion Dollar Tax Settlement"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 related: "[[Hedge Fund Industry Bloc]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 

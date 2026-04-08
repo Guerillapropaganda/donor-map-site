@@ -1,13 +1,15 @@
 ---
 title: "Max Blumenthal"
 type: media-profile
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-01
 source-tier: 3
 parent: null
 category: left
 platform: multi-platform
 related: "[[The Grayzone]] · [[Aaron Maté]] · [[Ben Norton]]"
+source-types:
+  - FEC
 ---
 
 #media-pipeline #left #grayzone #anti-imperialism #state-media-ties #journalist #patreon

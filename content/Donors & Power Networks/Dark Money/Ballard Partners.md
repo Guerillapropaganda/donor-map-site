@@ -1,7 +1,7 @@
 ---
 title: "Ballard Partners"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -20,6 +20,12 @@ sec-form-types:
   - "PX14A6G"
   - "S-1"
   - "S-1/A"
+source-types:
+  - SEC
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #lobbying #trump #clemency #foreign-agent

@@ -1,7 +1,7 @@
 ---
 title: "Bill Hagerty"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -13,6 +13,13 @@ phone: "202-224-4944"
 bioguide-id: "A000383"
 total-received: "$13,807,466"
 fec-candidate-id: "S0TN00169"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #bill-hagerty #senate #tennessee #private-equity #trump-ambassador #corporate-republican #class-analysis

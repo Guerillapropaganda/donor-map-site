@@ -1,7 +1,7 @@
 ---
 title: "The Bulwark"
 type: media-profile
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-03-31
 source-tier: null
 parent: null

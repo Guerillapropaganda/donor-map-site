@@ -1,7 +1,7 @@
 ---
 title: "Richard Neal Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -25,6 +25,13 @@ bills-sponsored: 3
 bills-cosponsored: 108
 website: "https://neal.house.gov"
 phone: "202-225-5601"
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 

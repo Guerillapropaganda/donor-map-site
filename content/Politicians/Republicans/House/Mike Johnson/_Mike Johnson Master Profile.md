@@ -1,7 +1,7 @@
 ---
 title: "Mike Johnson Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -37,6 +37,14 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+source-types:
+  - Congress
+  - DOJ
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No FEC contribution data"
+  - "No mapped relationships"
 ---
 
 

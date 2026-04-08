@@ -1,7 +1,7 @@
 ---
 title: "Jeff Yass (Redirect)"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: null
 parent: null
@@ -9,6 +9,11 @@ sector: "Jeff Yass.md"
 entity-type: "Individual Donor"
 lobbying-spend: 2895439
 lobbying-filings: 114
+source-types:
+  - LDA
+known-gaps:
+  - "No FEC contribution data"
+  - "No mapped relationships"
 ---
 
 #redirect

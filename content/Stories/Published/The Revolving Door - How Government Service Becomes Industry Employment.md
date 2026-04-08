@@ -1,10 +1,12 @@
 ---
 title: "The Revolving Door - How Government Service Becomes Industry Employment"
 type: story
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #revolving-door #lobbying #corruption #access #congress #regulatory-capture

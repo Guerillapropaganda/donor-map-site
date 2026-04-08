@@ -1,10 +1,15 @@
 ---
 title: "The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-22
 source-tier: 2
 parent: null
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

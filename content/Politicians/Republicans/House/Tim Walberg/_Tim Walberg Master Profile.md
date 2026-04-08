@@ -1,7 +1,7 @@
 ---
 title: "Tim Walberg"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -31,6 +31,14 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+source-types:
+  - Congress
+  - DOJ
+  - FEC
+corroboration-count: 3
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

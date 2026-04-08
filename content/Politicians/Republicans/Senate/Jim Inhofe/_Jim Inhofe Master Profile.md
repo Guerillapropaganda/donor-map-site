@@ -1,7 +1,7 @@
 ---
 title: "Jim Inhofe"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-25
 source-tier: 1
 parent: null
@@ -14,6 +14,13 @@ committees:
 issues:
   - "Energy & Climate"
   - "Defense & Military"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #politician #republican #senate #oklahoma #fossil-fuel #climate-denial #defense #armed-services #koch #oil-gas #follow-the-money #class-analysis #deceased

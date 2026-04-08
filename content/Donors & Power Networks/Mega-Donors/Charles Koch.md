@@ -1,7 +1,7 @@
 ---
 title: "Charles Koch"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -15,6 +15,9 @@ annual-revenue: "$1.3M"
 net-assets: "$748.2M"
 tax-year: "2023"
 related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Libertarian Brand and Donor Class Service]] · [[Heritage Foundation]] · [[American Enterprise Institute]] · [[The Criminal Justice Reform and Bipartisan Alliance]]"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
 ---
 
 #koch #mega-donor #libertarian #deregulation #climate-denial #network #dark-money

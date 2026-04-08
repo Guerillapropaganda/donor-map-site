@@ -1,7 +1,7 @@
 ---
 title: "Hudson Institute"
 type: think-tank
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -9,6 +9,8 @@ category: conservative
 tax-status: 501c3
 deepening-pass: 2026-03-26
 related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]]"
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 #think-tank #conservative #neoconservative #foreign-policy #defense #china-hawk #taiwan #national-security #class-analysis

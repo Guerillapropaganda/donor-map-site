@@ -1,7 +1,7 @@
 ---
 title: "Charles Schwab"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -47,6 +47,15 @@ sec-form-types:
   - "SC TO-T/A"
   - "SCHEDULE 13G/A"
   - "TA-1/A"
+source-types:
+  - FederalRegister
+  - SEC
+  - USASpending
+corroboration-count: 3
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #schwab #wall-street #brokerage #retirement #fiduciary #401k #retail-investing

@@ -1,7 +1,7 @@
 ---
 title: "Joseph Morelle Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -16,6 +16,13 @@ top-donors:
   - "Labor Unions"
 total-received: "$1,130,491"
 fec-candidate-id: "H8NY25105"
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 

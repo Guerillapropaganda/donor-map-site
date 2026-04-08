@@ -1,13 +1,15 @@
 ---
 title: "Brookings Institution"
 type: think-tank
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
 related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Enterprise Institute]] · [[PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]]"
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 #think-tank #centrist #wall-street #foreign-funding #revolving-door #hamilton-project #defense #financial-deregulation #qatar #jpmorgan #goldman-sachs #healthcare #housing #labor

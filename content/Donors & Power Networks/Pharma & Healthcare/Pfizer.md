@@ -1,7 +1,7 @@
 ---
 title: "Pfizer Inc."
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -54,6 +54,15 @@ ein: 132986156
 annual-revenue: "$82.1M"
 net-assets: "$1.4M"
 tax-year: "2016"
+source-types:
+  - Courts
+  - LDA
+  - SEC
+  - USASpending
+corroboration-count: 4
+known-gaps:
+  - "No FEC contribution data"
+  - "No mapped relationships"
 ---
 
 

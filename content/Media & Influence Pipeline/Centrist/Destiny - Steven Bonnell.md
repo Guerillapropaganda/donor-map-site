@@ -1,13 +1,15 @@
 ---
 title: "Destiny / Steven Bonnell"
 type: media-profile
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-27
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
 related: "(no donor nodes — platform-funded via Twitch/YouTube algorithmic revenue; no billionaire or corporate donor class patron)"
+source-types:
+  - FEC
 ---
 
 #media-pipeline #centrist #streaming #debate-bro #twitch #youtube #platform-ban

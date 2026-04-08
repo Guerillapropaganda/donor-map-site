@@ -1,7 +1,7 @@
 ---
 title: "Vivek Ramaswamy Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -19,6 +19,13 @@ top-donors:
 total-received: "$66,197,196"
 fec-candidate-id: "P40011082"
 bioguide-id: "A000383"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

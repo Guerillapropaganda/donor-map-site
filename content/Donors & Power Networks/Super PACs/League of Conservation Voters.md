@@ -1,7 +1,7 @@
 ---
 title: "League of Conservation Voters"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -65,6 +65,14 @@ sec-form-types:
   - "U-13-60"
 lobbying-spend: 6234961
 lobbying-filings: 96
+source-types:
+  - Courts
+  - FederalRegister
+  - LDA
+  - SEC
+corroboration-count: 4
+known-gaps:
+  - "No FEC contribution data"
 ---
 
 #donor #environment #climate #progressive #democratic #electoral #dark-money #501c4 #class-analysis #follow-the-money

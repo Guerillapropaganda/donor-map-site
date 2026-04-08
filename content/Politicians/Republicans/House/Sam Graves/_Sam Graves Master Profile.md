@@ -1,7 +1,7 @@
 ---
 title: "Sam Graves"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -16,6 +16,13 @@ issues:
   - "Infrastructure"
 total-received: "$1,448,379"
 fec-candidate-id: "H0MO06073"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

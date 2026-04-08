@@ -1,7 +1,7 @@
 ---
 title: "Jeff Merkley Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -20,6 +20,13 @@ top-donors:
   - "Small Dollar Donors"
 total-received: "$6,114,210"
 fec-candidate-id: "S8OR00207"
+source-types:
+  - FEC
+  - GovTrack
+corroboration-count: 2
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No mapped relationships"
 ---
 
 

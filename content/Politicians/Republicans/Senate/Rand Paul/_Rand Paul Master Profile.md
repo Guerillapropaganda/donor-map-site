@@ -1,7 +1,7 @@
 ---
 title: "Rand Paul Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -20,6 +20,13 @@ website: "https://www.paul.senate.gov"
 phone: "202-224-4343"
 total-received: "$11,515"
 fec-candidate-id: "H4OH19044"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 

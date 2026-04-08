@@ -1,7 +1,7 @@
 ---
 title: "Bail Bond Industry"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-03-23
 source-tier: 1
 parent: null
@@ -9,6 +9,10 @@ sector: "Carceral State"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Gavin Newsom"
+known-gaps:
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 

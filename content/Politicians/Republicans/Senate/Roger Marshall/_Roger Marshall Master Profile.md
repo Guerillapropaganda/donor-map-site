@@ -1,7 +1,7 @@
 ---
 title: "Roger Marshall"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -15,6 +15,13 @@ issues:
   - "Agriculture"
   - "Healthcare"
 fec-candidate-id: "H6KS01179"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - "No mapped relationships"
 ---
 
 #politician #republican #senate #kansas #agriculture #healthcare #pharma #covid #class-analysis #follow-the-money #gavel-power

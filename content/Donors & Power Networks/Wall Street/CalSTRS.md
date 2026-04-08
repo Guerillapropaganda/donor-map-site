@@ -1,7 +1,7 @@
 ---
 title: "CalSTRS - California State Teachers' Retirement System"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -16,6 +16,11 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "RUSSIA-EO14024"
+known-gaps:
+  - "No SEC corporate filings"
+  - "No FEC contribution data"
+  - "No lobbying disclosure data"
+  - "No mapped relationships"
 ---
 
 #calstrs #pension #california #teachers #wall-street #investment #education #private-equity #fossil-fuels

@@ -1,7 +1,7 @@
 ---
 title: "Rick Crawford"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -19,6 +19,13 @@ issues:
   - "Agriculture"
 total-received: "$525,029"
 fec-candidate-id: "H0AR01083"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

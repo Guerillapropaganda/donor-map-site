@@ -1,12 +1,18 @@
 ---
 title: "Catherine Cortez Masto"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 total-received: "$4,570,516"
 fec-candidate-id: "S6NV00200"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 #catherine-cortez-masto #senator #nevada #casino #gaming #labor #class-analysis #democrat

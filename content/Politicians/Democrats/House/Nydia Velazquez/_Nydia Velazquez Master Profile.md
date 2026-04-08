@@ -1,7 +1,7 @@
 ---
 title: "Nydia Velazquez"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: "2026-04-05"
 source-tier: 1
 parent: null
@@ -16,6 +16,13 @@ leadership-roles:
   - "Ranking Member"
 total-received: "$180,257"
 fec-candidate-id: "H2NY00010"
+source-types:
+  - Congress
+  - FEC
+corroboration-count: 2
+known-gaps:
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 

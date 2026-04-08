@@ -1,7 +1,7 @@
 ---
 title: "Xavier Becerra Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -11,6 +11,12 @@ state: "California"
 state-abbr: "CA"
 total-received: "$50,779"
 fec-candidate-id: "H2CA30143"
+source-types:
+  - FEC
+known-gaps:
+  - "No legislative record from Congress.gov"
+  - "No voting record data"
+  - "No mapped relationships"
 ---
 
 
