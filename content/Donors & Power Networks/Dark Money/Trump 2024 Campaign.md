@@ -2,7 +2,7 @@
 title: "Trump 2024 Campaign"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,6 +12,12 @@ politicians-funded:
   - "David Sacks"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 5
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, E.D. Virginia"
+  - "District Court, S.D. Iowa"
+  - "District Court, S.D. New York"
 ---
 
 #trump #2024 #campaign #fundraising #super-pac #mega-donor #maga #dark-money #billionaire #transactional
@@ -147,3 +153,21 @@ The broader structural pattern: billionaires contributed nearly 20% of all donat
 ---
 
 content-readiness:: developed
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 5 |
+| Courts | District Court, E.D. Virginia, District Court, S.D. Iowa, District Court, S.D. New York |
+| Case Types | 320 Assault Libel & Slander, 440 Civil Rights: Other, 820 Copyright, 950 Constitutional - State Statute |
+
+**Notable cases:**
+- LaCivita v. The Daily Beast Company, LLC (2025) — District Court, E.D. Virginia
+- Trump v. Selzer (2024) — District Court, S.D. Iowa
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
+- Bragg v. Jordan (2023) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trump%202024%20Campaign%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

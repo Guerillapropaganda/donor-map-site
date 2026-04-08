@@ -24,6 +24,8 @@ regulatory-agencies:
   - "Employment and Training Administration"
   - "Environmental Protection Agency"
   - "Labor Department"
+ein: "412064833"
+nonprofit-status: "501(c)(3)"
 ---
 
 #coal-mining #alabama-politics #fossil-fuel #environmental-violations #political-donor
@@ -141,3 +143,16 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Drummond%20Co.%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 412064833 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | N50 |
+| IRS Ruling Date | 2022-08-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/412064833) (Tier 1)
+<!-- auto:nonprofit-990 end -->

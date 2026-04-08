@@ -2,13 +2,16 @@
 title: "Preserve America"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 politicians-funded:
   - "Donald Trump"
+ein: "561858873"
+nonprofit-status: "tax-exempt"
+last-enriched: "2026-04-07"
 ---
 
 #donor #super-pac #republican #trump #adelson #israel-lobby #casino-regulation
@@ -126,3 +129,21 @@ content-readiness:: ready
 | NEW REPUBLICAN PAC | $200.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 561858873 |
+| Tax-Exempt Status | tax-exempt |
+| Filings on Record | 3 |
+
+**Filing history:** 2013, 2012, 2011
+
+**View 990 filings:**
+- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2013)
+- [2012 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2012)
+- [2011 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2011)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/561858873) (Tier 1)
+<!-- auto:nonprofit-990 end -->

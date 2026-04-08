@@ -2,7 +2,7 @@
 title: "Ken Calvert Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,13 @@ issues:
   - "Defense & Military"
 top-donors:
   - "Raytheon PAC"
+govtrack-id: 400057
+bills-sponsored: 20
+bills-cosponsored: 162
+website: "https://calvert.house.gov"
+phone: "202-225-1986"
+total-received: "$4,493,644"
+fec-candidate-id: "H2CA37023"
 ---
 
 #politician #republican #house #ken-calvert #donor-pipeline #defense #appropriations
@@ -132,3 +139,70 @@ When progressive members of Congress proposed redirecting small portions of the 
 profile-status:: ready
 content-readiness:: ready
  
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 162 |
+| Total Votes Cast | 20,833 |
+
+**Recent bills sponsored:**
+
+- H.R. 4638: Federal Working Animal Protection Act — *This bill passed in the House on March 19, 2026 and goes to the Senate next for consideration.*
+- H.R. 831: Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025 — *This bill passed in the House on March 16, 2026 and goes to the Senate next for consideration.*
+- H.R. 1663: VSAFE Act of 2025 — *This bill passed in the House on January 20, 2026 and goes to the Senate next for consideration.*
+- H.Res. 978: Expressing the profound sorrow of the House of Representatives on the death of the Honorable Doug LaMalfa. — *This simple resolution was agreed to on January 7, 2026. That is the end of the legislative process for a simple resolution.*
+- H.R. 5992: Stuck On Hold Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400057) (Tier 1)
+<!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $4,493,644 |
+| Individual Contributions | $1,388,107 |
+| PAC Contributions | $977,327 |
+| Cash on Hand | 3416882.17 |
+| IE Support (Super PAC) | $2,349,581 |
+| IE Opposition (Super PAC) | $16,393,027 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $4,493,644 | $1,388,107 | $977,327 |
+| 2024 | $8,056,905 | $4,242,013 | $2,154,529 |
+| 2022 | $3,728,273 | $1,970,656 | $1,100,654 |
+| 2020 | $1,444,951 | $742,908 | $611,550 |
+| 2018 | $1,556,406 | $827,070 | $704,041 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| HMP | $0 | $11,502,510 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $1,305,443 | $0 |
+| EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND) | $0 | $1,098,954 |
+| LCV VICTORY FUND | $0 | $918,467 |
+| EDF ACTION VOTES | $0 | $795,808 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA37023/) (Tier 1)
+<!-- auto:fec-politician end -->

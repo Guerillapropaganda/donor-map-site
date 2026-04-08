@@ -56,6 +56,17 @@ ein: 131832448
 annual-revenue: "$11.7M"
 net-assets: "$11.7M"
 tax-year: "2023"
+court-cases: 207
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "District Court, D. Montana"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Indiana"
+  - "District Court, W.D. Pennsylvania"
+  - "United States Court of International Trade"
 ---
 
 
@@ -274,3 +285,22 @@ The "national security" frame is the mechanism that makes the transfer invisible
 
 - [Source: ProPublica Nonprofit Explorer — EIN 131832448](https://projects.propublica.org/nonprofits/organizations/131832448) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 207 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eighth Circuit, Court of Appeals for the Fifth Circuit, District Court, D. Montana, District Court, District of Columbia, District Court, N.D. California, District Court, S.D. Indiana, District Court, W.D. Pennsylvania +1 more |
+| Case Types | 190 Contract: Other, 410 Anti-Trust, 440 Civil Rights: Other, 890 Other Statutory Actions |
+
+**Notable cases:**
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- MIDWEST RENEWABLE ENERGY ASSOCIATION v. VELETA (2026) — District Court, S.D. Indiana
+- Clean Air Council v. EPA (2025) — Court of Appeals for the D.C. Circuit
+- Lighthiser v. Trump (2025) — District Court, D. Montana
+- Exxon Mobil Corp v. OSHC (2025) — Court of Appeals for the Fifth Circuit
+- Freeland v. Nippon Steel Corp. (2025) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Iron%20and%20Steel%20Institute%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

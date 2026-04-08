@@ -2,7 +2,7 @@
 title: "News Corp - Fox Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -13,6 +13,8 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 lei: "984500CF6457BDCFAD28"
 lei-jurisdiction: "US-DE"
+lobbying-spend: 7016500
+lobbying-filings: 62
 ---
 
 #fox #newscorp #murdoch #media #propaganda #deregulation #defamation
@@ -111,3 +113,22 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $7.0M |
+| Quarterly Filings | 62 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 25 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Advertising, Aerospace, Budget/Appropriations, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Computer Industry, Constitution, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Education, Energy/Nuclear, Financial Institutions/Investments/Securities, Foreign Relations, Government Issues, Housing, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Media (information/publishing), Postal, Science/Technology, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Urban Development/Municipalities
+
+**Lobbying firms:** ACG ADVOCACY, ALCALDE & FAY, BL PARTNERS GROUP, LLC, BRYAN CAVE LEIGHTON PAISNER LLP, CAPITOL COUNSEL LLC, CAPITOL RESOURCES, LLC, CGCN GROUP, LLC, COGENT STRATEGIES LLC, FIERCE GOVERNMENT RELATIONS, GRAYROBINSON PA, INVARIANT LLC, LIVE OAK STRATEGIES, MADISON GOVERNMENT AFFAIRS, MARLA GROSSMAN LLC, MICHAEL R. PAWLOWSKI, MORRISSEY STRATEGIC PARTNERS, LLC, NEWS CORPORATION, NEWS MEDIA ALLIANCE, PLATINUM ADVISORS DC, LLC, RB CROWE LLC FORMERLY KNOWN AS ROBERT CROWE, RESOLUTION PUBLIC AFFAIRS, LLC, SQUIRE PATTON BOGGS, TELEMEDIA POLICY CORP., VECTIS DC, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Administration for Children & Families (ACF), Army, Dept of (Other), Commerce, Dept of (DOC), Defense, Dept of (DOD), Economic Development Administration, Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA) +14 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=News%20Corp%20-%20Fox%20Corporation) (Tier 1)
+<!-- auto:lda-lobbying end -->

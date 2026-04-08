@@ -2,7 +2,7 @@
 title: "Jeanne Shaheen Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -19,6 +19,13 @@ top-donors:
   - "Honeywell"
   - "Defense Industry"
 stock-trades: 3
+total-received: "$2,658,242"
+fec-candidate-id: "S0NH00219"
+govtrack-id: 412323
+bills-sponsored: 77
+bills-cosponsored: 409
+website: "https://www.shaheen.senate.gov"
+phone: "202-224-2841"
 ---
 
 
@@ -171,3 +178,70 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $2,658,242 |
+| Individual Contributions | $1,409,852 |
+| PAC Contributions | $584,652 |
+| Cash on Hand | 962535.73 |
+| IE Support (Super PAC) | $3,749,696 |
+| IE Opposition (Super PAC) | $24,269,546 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $2,658,242 | $1,409,852 | $584,652 |
+| 2020 | $19,891,143 | $11,016,178 | $2,608,515 |
+| 2014 | $16,506,920 | $8,859,179 | $2,562,464 |
+| 2008 | $8,342,986 | $4,941,557 | $1,140,192 |
+| 2002 | $5,837,914 | $0 | $1,001,660 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $0 | $8,296,003 |
+| ENDING SPENDING ACTION FUND | $0 | $7,523,339 |
+| AMERICAN CROSSROADS | $0 | $5,194,425 |
+| INDEPENDENT LEADERSHIP FOR NEW HAMPSHIRE PAC | $0 | $1,656,880 |
+| COUNCIL FOR AMERICAN JOB GROWTH | $1,401,341 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0NH00219/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 77 |
+| Bills Cosponsored | 409 |
+| Total Votes Cast | 6,033 |
+
+**Recent bills sponsored:**
+
+- S. 4275: A bill to encourage Hungary to end its reliance on Russian energy and prevent Hungary’s efforts to obstruct financial or — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4257: A bill to apply user fees with respect to tobacco products deemed subject to the requirements of chapter IX of the Feder — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4215: AFFIRM Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4189: A bill to reduce the price of insulin and provide for patient protections with respect to the cost of insulin. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3758: End Veterans Overdose Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412323) (Tier 1)
+<!-- auto:govtrack end -->

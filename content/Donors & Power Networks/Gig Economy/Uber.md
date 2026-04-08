@@ -2,7 +2,7 @@
 title: "Uber"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -60,13 +60,25 @@ sec-form-types:
   - "TEXT-EXTRACT"
 ein: "884207935"
 nonprofit-status: "501(c)(6)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 total-revenue: 127381
 total-assets: 272824
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 lei: "8156000D95B737A14284"
 lei-jurisdiction: "IT"
+federal-register-mentions: 94
+regulatory-agencies:
+  - "Commerce Department"
+  - "Federal Communications Commission"
+  - "Federal Motor Carrier Safety Administration"
+  - "Federal Trade Commission"
+  - "Fish and Wildlife Service"
+  - "Interior Department"
+  - "International Trade Administration"
+  - "Labor Department"
+  - "Management and Budget Office"
+  - "National Highway Traffic Safety Administration"
 ---
 
 
@@ -266,3 +278,25 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 94 |
+| Final Rules | 22 |
+| Proposed Rules | 30 |
+| Notices | 42 |
+| Agencies | Commerce Department, Federal Communications Commission, Federal Motor Carrier Safety Administration, Federal Trade Commission, Fish and Wildlife Service, Interior Department, International Trade Administration, Labor Department +7 more |
+
+**Recent regulatory activity:**
+- [Rule Concerning the Use of Prenotification Negative Option Plans](https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans) (2026-03-13) — Federal Trade Commission
+- [Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act](https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical) (2026-02-27) — Labor Department ★
+- [Performance Appraisal for General Schedule, Prevailing Rate, and Certain Other Employees](https://www.federalregister.gov/documents/2026/02/24/2026-03619/performance-appraisal-for-general-schedule-prevailing-rate-and-certain-other-employees) (2026-02-24) — Personnel Management Office
+- [Managing Senior Professional Performance](https://www.federalregister.gov/documents/2026/02/24/2026-03610/managing-senior-professional-performance) (2026-02-24) — Personnel Management Office ★
+- [Endangered and Threatened Wildlife and Plants; Initiation of 5-Year Status Reviews of 13 Northeastern Species](https://www.federalregister.gov/documents/2025/10/02/2025-19289/endangered-and-threatened-wildlife-and-plants-initiation-of-5-year-status-reviews-of-13-northeastern) (2025-10-02) — Interior Department
+- [TBL Group, Inc.-Control-Kaptyn Nevada, LLC](https://www.federalregister.gov/documents/2025/09/30/2025-18916/tbl-group-inc-control-kaptyn-nevada-llc) (2025-09-30) — Surface Transportation Board
+- ... and 88 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Uber%22) (Tier 1)
+<!-- auto:federal-register end -->

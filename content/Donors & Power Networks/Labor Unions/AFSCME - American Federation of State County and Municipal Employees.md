@@ -33,6 +33,13 @@ regulatory-agencies:
 ein: "332579905"
 nonprofit-status: "501(c)(5)"
 total-political-spend: "$4,933,884"
+sec-filings: 12
+sec-form-types:
+  - "10-K"
+  - "DEF 14A"
+  - "N-CSR"
+  - "N-CSRS"
+  - "PRE 14A"
 ---
 
 
@@ -225,3 +232,21 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 12 |
+| Form Types | 10-K, DEF 14A, N-CSR, N-CSRS, PRE 14A |
+
+**Notable filings:**
+
+- 2010-04-15 — **10-K**: PREPAID CARD HOLDINGS, INC. ANNUAL REPORT ON FORM 10-K FOR THE YEAR ENDING DECEMBER 31, 2009
+- 2010-04-15 — **10-K**: PREPAID CARD HOLDINGS, INC. ANNUAL REPORT ON FORM 10-K FOR THE YEAR ENDING DECEMBER 31, 2009
+- 2001-03-06 — **PRE 14A**: PRELIMINARY PROXY STATEMENT
+- 2001-03-23 — **DEF 14A**: PROXY STATEMENT
+- 2012-06-06 — **N-CSR**: N-CSR
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -2,13 +2,22 @@
 title: "Koch network"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+court-cases: 16
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. Florida"
+  - "District Court, S.D. California"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Washington"
 ---
 
 #koch #network #dark-money #libertarian #deregulation #afp
@@ -34,3 +43,22 @@ See [[Koch Network - Charles Koch]] for the complete donor node, and [[Koch - Ko
 - [Ballotpedia: Koch network](https://ballotpedia.org/Koch_network) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 16 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, District of Columbia, District Court, N.D. Florida, District Court, S.D. California, District Court, S.D. New York, District Court, W.D. Washington |
+| Case Types | 440 Civil Rights: Other, 820 Copyright, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Civil Rights: Voting, P.I.: Other |
+
+**Notable cases:**
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- The Intercept Media, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
+- United States v. Donald Trump (2023) — Court of Appeals for the D.C. Circuit
+- United States v. NAVARRO (2022) — District Court, District of Columbia
+- LINK v. CORCORAN (2021) — District Court, N.D. Florida
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Koch%20network%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

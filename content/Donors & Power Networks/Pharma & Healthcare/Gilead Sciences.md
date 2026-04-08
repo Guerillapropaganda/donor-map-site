@@ -2,7 +2,7 @@
 title: "Gilead Sciences"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -12,7 +12,7 @@ issues:
 lobbying-spend: 19612000
 lobbying-filings: 55
 court-cases: 2108
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the Fourth Circuit"
   - "Court of Appeals for the Third Circuit"
@@ -32,6 +32,51 @@ top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "325412"
 lei: "549300WTZWR07K8MNV44"
 lei-jurisdiction: "US-DE"
+sec-filings: 10000
+sec-form-types:
+  - "10-K/A"
+  - "144"
+  - "4"
+  - "424B2"
+  - "8-K"
+  - "8-K/A"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.7"
+  - "EX-10.8"
+  - "EX-21.1"
+  - "EX-3.1"
+  - "EX-99.(A)(11)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "FWP"
+  - "INFORMATION TABLE"
+  - "N-PX"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SC TO-C"
+  - "SC TO-T"
+  - "SC TO-T/A"
+  - "SC14D9C"
+  - "SCHEDULE 13D/A"
+  - "SCHEDULE 13G/A"
+doj-press-mentions: "264349"
+doj-components:
+  - "Civil Rights Division"
+  - "Cyber Division (FBI)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "National Security Division (NSD)"
+  - "USAO - Florida, Middle"
+  - "USAO - Florida, Northern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Massachusetts"
+  - "USAO - Missouri, Western"
+  - "USAO - New York, Northern"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #gilead #pharma #hiv #hepatitis #pricing #sovaldi #truvada #prep #lobbying
@@ -160,3 +205,61 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K/A, 144, 4, 424B2, 8-K, 8-K/A, ARS, DEF 14A +21 more |
+| CIK | 882095 |
+| Ticker | GILD |
+
+**Notable filings:**
+
+- 2026-04-01 — **SC TO-T/A**: [SC TO-T/A](https://www.sec.gov/Archives/edgar/data/882095/000110465926038557/0001104659-26-038557-index.htm)
+- 2026-03-30 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/882095/000163864326000018/0001638643-26-000018-index.htm)
+- 2026-03-27 — **144**: [144](https://www.sec.gov/Archives/edgar/data/882095/000195004726003040/0001950047-26-003040-index.htm)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/882095/000010290926001398/0000102909-26-001398-index.htm)
+- 2026-03-20 — **ARS**: [ANNUAL REPORT TO SECURITY HOLDERS](https://www.sec.gov/Archives/edgar/data/882095/000130817926000108/0001308179-26-000108-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Gilead%20Sciences%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264349 |
+| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
+
+**Recent press releases:**
+
+- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
+- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
+- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
+- ... and 264,343 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Gilead%20Sciences%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Gilead%20Sciences) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

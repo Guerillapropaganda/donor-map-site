@@ -2,7 +2,7 @@
 title: "Heritage Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -16,6 +16,38 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 147027845
 total-assets: 413819868
+sec-filings: 3784
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "3"
+  - "4"
+  - "425"
+  - "5"
+  - "6-K"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFR14A"
+  - "DFAN14A"
+  - "EX-1"
+  - "EX-10.7"
+  - "EX-2"
+  - "EX-21"
+  - "EX-3"
+  - "EX-4.47"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.4"
+  - "EX-99.6"
+  - "EX-99.C16"
+  - "N-30B-2"
+  - "PREC14A"
+  - "SC 13D"
+  - "SC 13G"
+lei: "5493006YU7R03XUJSX56"
+lei-jurisdiction: "US-DC"
 ---
 
 
@@ -214,3 +246,36 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 3,784 |
+| Form Types | 10-K, 10-Q, 3, 4, 425, 5, 6-K, 8-K +20 more |
+
+**Notable filings:**
+
+- 2021-03-26 — **SC 13G**: SC 13G
+- 2012-02-02 — **EX-99.1**: PRESS RELEASE
+- 2006-10-13 — **DFAN14A**: DEFINITIVE ADDITIONAL MATERIALS
+- 2022-02-03 — **425**: FORM 425
+- 2024-10-17 — **DEF 14A**: DEF 14A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Heritage%20Foundation%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [5493006YU7R03XUJSX56](https://search.gleif.org/#/record/5493006YU7R03XUJSX56) |
+| Legal Name | Heritage Foundation (The) |
+| Jurisdiction | US-DC |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-08-04T15:54:36Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

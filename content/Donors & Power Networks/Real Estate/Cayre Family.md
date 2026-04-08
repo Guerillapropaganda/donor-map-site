@@ -2,11 +2,18 @@
 title: "Cayre Family"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 sector: "Real Estate"
 entity-type: "Individual Donor"
+court-cases: 7
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, D. Maryland"
+  - "District Court, E.D. New York"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, S.D. New York"
 ---
 
 #nyc-real-estate #mega-donors #hochul-donors #midtown-development #real-estate-dynasty
@@ -47,3 +54,22 @@ The Cayre family exemplifies how New York real estate wealth translates directly
 - [New York Times: NYC developer political contributions](https://www.nytimes.com/2024/01/developer-contributions.html) (Tier 2)
 
 `content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 7 |
+| Courts | District Court, D. Maryland, District Court, E.D. New York, District Court, S.D. New York, United States Bankruptcy Court, S.D. New York |
+| Case Types | 13 Recovery of money/property - 548 fraudulent transfer; 81 Subordination of claim or interest, 190 Contract: Other, 470 Racketeer/Corrupt Organization, 710 Labor: Fair Standards |
+
+**Notable cases:**
+- Ninety-Five Madison Company, LP (2021) — United States Bankruptcy Court, S.D. New York
+- In Re Public Docket - the Appointment of Pamela K. Chen as Special Master (2017) — District Court, E.D. New York
+- In Re: Lerner (2016) — District Court, E.D. New York
+- Kriss v. BayRock Group LLC (2010) — District Court, S.D. New York
+- Thai v. Cayre Group, Ltd. (2010) — District Court, S.D. New York
+- GT Brands Holdings LLC - Adversary Proceeding (2007) — United States Bankruptcy Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cayre%20Family%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

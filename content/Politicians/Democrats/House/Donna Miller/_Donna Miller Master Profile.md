@@ -2,7 +2,7 @@
 title: "Donna Miller Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,8 @@ top-donors:
   - "AIPAC"
   - "United Democracy Project"
   - "Affordable Chicago Now PAC"
+total-received: "$1,971,085"
+fec-candidate-id: "H6IL02355"
 ---
 
 #democrat #politician #house
@@ -145,3 +147,27 @@ profile-status:: ready
 research-status:: active
 content-readiness:: ready
  
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,971,085 |
+| Individual Contributions | $1,874,696 |
+| PAC Contributions | $41,200 |
+| Cash on Hand | 465304.50 |
+| IE Support (Super PAC) | $6,767,602 |
+| IE Opposition (Super PAC) | $3,843 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| AFFORDABLE CHICAGO NOW! (ACN) | $6,738,685 | $0 |
+| ADPAC INDEPENDENT EXPENDITURES COMMITTEE | $28,534 | $0 |
+| THE PEOPLE'S LOBBY | $0 | $3,843 |
+| DMFI PAC | $382 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL02355/) (Tier 1)
+<!-- auto:fec-politician end -->

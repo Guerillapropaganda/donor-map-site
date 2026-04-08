@@ -2,7 +2,7 @@
 title: "Oracle"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -11,6 +11,10 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Technology"
+ein: 455577678
+annual-revenue: "$169K"
+net-assets: "$342K"
+tax-year: "2023"
 ---
 
 #oracle #tech #cloud #government-contracts #lobbying #larry-ellison #tiktok
@@ -55,3 +59,16 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 - [Ballotpedia: Oracle political spending](https://ballotpedia.org/Oracle_Corporation) (Tier 3)
 
 content-readiness:: ready
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $169K |
+| Total Contributions | $0 |
+| Total Expenses | $145K |
+| Net Assets | $342K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 455577678](https://projects.propublica.org/nonprofits/organizations/455577678) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455577678_202312_990EZ_2024070222641028.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -13,6 +13,18 @@ ein: 630922835
 annual-revenue: "$4.8M"
 net-assets: "$7.7M"
 tax-year: "2023"
+court-cases: 30
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Eleventh Circuit"
+  - "District Court, M.D. Alabama"
+  - "District Court, N.D. Alabama"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. Alabama"
+  - "District Court, S.D. Mississippi"
+  - "District Court, W.D. Washington"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #alabama-politics #business-lobby #regulatory-capture #dark-money #state-control
@@ -71,3 +83,22 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 - [Source: ProPublica Nonprofit Explorer — EIN 630922835](https://projects.propublica.org/nonprofits/organizations/630922835) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F630922835_202312_990O_2024061722534137.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 30 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eleventh Circuit, District Court, M.D. Alabama, District Court, N.D. Alabama, District Court, N.D. Illinois, District Court, S.D. Alabama, District Court, S.D. Mississippi, District Court, W.D. Washington +1 more |
+| Case Types | 110 Insurance, 14 Recovery of money/property - other; 11 Recovery of money/property - 542 turnover of property; 91 Declaratory judgment, 440 Civil Rights: Other, 441 Civil Rights: Voting, 950 Constitutional - State Statute |
+
+**Notable cases:**
+- Alabama Self Insured Workers Compensation Fund v. General Reinsurance Corporation (2024) — District Court, M.D. Alabama
+- Williams v. Mississippi Department of Corrections (2024) — District Court, S.D. Mississippi
+- College v. Indian Harbor Insurance Company (2023) — District Court, S.D. Alabama
+- Mountain Express Oil Company and Official Committee Of Unsecured Creditors (2023) — United States Bankruptcy Court, S.D. Texas
+- Carstarphen v. Gillespie (2022) — District Court, S.D. Alabama
+- Milligan v. Allen (2021) — District Court, N.D. Alabama
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Business%20Council%20of%20Alabama%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

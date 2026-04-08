@@ -37,6 +37,10 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Occupational Safety and Health Administration"
+ein: 135656874
+annual-revenue: "$819.1M"
+net-assets: "$1.1B"
+tax-year: "2023"
 ---
 
 #bcbs #blue-cross #blue-shield #insurance #healthcare #lobbying #antitrust #bipartisan #aca #medicare-advantage #public-option #class-analysis #follow-the-money
@@ -285,3 +289,18 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Blue%20Cross%20Blue%20Shield%20Association%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $819.1M |
+| Total Contributions | $0 |
+| Program Service Revenue | $811.2M |
+| Investment Income | $8.0M |
+| Total Expenses | $798.0M |
+| Net Assets | $1.1B |
+| Officer Compensation | $25.1M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 135656874](https://projects.propublica.org/nonprofits/organizations/135656874) (Tier 1)
+<!-- auto:propublica-990 end -->

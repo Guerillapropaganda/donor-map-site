@@ -2,19 +2,25 @@
 title: "The 85 Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: 202466871
+ein: "202466871"
 annual-revenue: "$143.1M"
 net-assets: "$3.9M"
 tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-07"
+total-revenue: 168530018
+total-assets: 2754902
+lei: "549300JZ9WCXZDH10988"
+lei-jurisdiction: "US-DE"
 ---
 
 #85-fund #dark-money #judicial #Leonard-Leo #judicial-education-project #SCOTUS #nomination-campaigns
@@ -108,3 +114,43 @@ The Fund's rebranding from "Judicial Education Project" to "The 85 Fund" reveals
 content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 202466871 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $168.5M |
+| Total Assets | $2.8M |
+| NTEE Code | I01 |
+| IRS Ruling Date | 2011-11-01 |
+| Filings on Record | 12 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/202466871) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300JZ9WCXZDH10988](https://search.gleif.org/#/record/549300JZ9WCXZDH10988) |
+| Legal Name | The E-Valuator Growth (70%-85%) RMS Fund |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | FUND |
+| Registration | ISSUED |
+| Last Updated | 2025-09-16T09:58:16Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

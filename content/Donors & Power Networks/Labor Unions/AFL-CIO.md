@@ -17,6 +17,19 @@ total-political-spend: "$5,644,162"
 politicians-funded:
   - "Adam Schiff"
   - "Brendan Boyle"
+court-cases: 38202
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. New Jersey"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Florida"
+  - "District Court, N.D. Ohio"
+  - "District Court, S.D. New York"
 ---
 
 #afl-cio #labor #unions #federation #democratic #organizing #wages #pro-act #class-analysis #follow-the-money
@@ -245,3 +258,22 @@ content-readiness:: developed
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFL-CIO) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 38,202 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, D. Massachusetts, District Court, D. New Jersey, District Court, District of Columbia, District Court, E.D. New York, District Court, E.D. Pennsylvania, District Court, N.D. California, District Court, N.D. Florida +2 more |
+| Case Types | 2441 Civil Rights Voting, 441 Civil Rights: Voting, 463 Habeas Corpus - Alien Detainee, 791 Labor: E.R.I.S.A., 890 Other Statutory Actions |
+
+**Notable cases:**
+- TRUSTEES OF THE NATIONAL ELEVATOR INDUSTRY PENSION FUND v. SMARTRISE ELEVATOR SERVICE INC. (2026) — District Court, E.D. Pennsylvania
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- State of California v. Trump (2026) — District Court, D. Massachusetts
+- League of United Latin American Citizens v. Executive Office of the President (2026) — Court of Appeals for the D.C. Circuit
+- Luma v. Mullin (2026) — District Court, E.D. New York
+- Moran Contreras v. Mullin (2026) — District Court, E.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AFL-CIO%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

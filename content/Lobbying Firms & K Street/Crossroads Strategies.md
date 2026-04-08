@@ -37,6 +37,10 @@ sec-form-types:
   - "S-1/A"
   - "SB-2"
   - "SB-2/A"
+federal-register-mentions: 1
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Justice Department"
 ---
 
 #lobbying #k-street #bipartisan #defense #energy #tech #financial-services #class-analysis
@@ -273,3 +277,17 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Crossroads%20Strategies%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Notice | 1 |
+| Agencies | Antitrust Division, Justice Department |
+
+**Recent regulatory activity:**
+- [United States v. UnitedHealth Group Incorporated; Response to Public Comments on the Proposed Final Judgment](https://www.federalregister.gov/documents/2008/08/22/E8-17366/united-states-v-unitedhealth-group-incorporated-response-to-public-comments-on-the-proposed-final) (2008-08-22) — Justice Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Crossroads%20Strategies%22) (Tier 1)
+<!-- auto:federal-register end -->

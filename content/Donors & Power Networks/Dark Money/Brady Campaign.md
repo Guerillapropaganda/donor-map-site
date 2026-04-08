@@ -16,6 +16,10 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. North Carolina"
   - "District Court, W.D. Texas"
+ein: 237321017
+annual-revenue: "$4.8M"
+net-assets: "$8.1M"
+tax-year: "2023"
 ---
 
 #gun-violence-prevention #democratic-donor #advocacy-organization #brady-pac
@@ -78,3 +82,17 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brady%20Campaign%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $4.8M |
+| Total Contributions | $4.8M |
+| Investment Income | $584 |
+| Total Expenses | $5.1M |
+| Net Assets | $8.1M |
+| Officer Compensation | $30K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 237321017](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -11,6 +11,12 @@ issues:
   - "Technology"
 lobbying-spend: 3170000
 lobbying-filings: 38
+subawards-issued: 30
+subawards-issued-amount: 14071246
+subawards-received: 30
+subawards-received-amount: 14071246
+top-federal-agency: "Department of Health and Human Services"
+top-naics-code: "541611"
 ---
 
 #crypto #payments #fairshake #sec-lawsuit #regulatory-capture
@@ -65,3 +71,60 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ripple) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 30 ($14.1M sampled) |
+| Subawards Received (as sub) | 30 ($14.1M sampled) |
+| Top Federal Agency | Department of Health and Human Services ($39.0M) |
+| Primary NAICS Sector | Administrative Management and General Management Consulting Services |
+
+**Subcontractors receiving federal money from Ripple:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| RIPPLE EFFECT COMMUNICATIONS, INC. | $12.4M | 24 |
+| RIPPLEWORX INC | $1.1M | 4 |
+| RIPPLE EFFECT CONSULTING, LLC | $378K | 1 |
+| TRIPPLEAGE INVESTMENT LIMITED | $247K | 1 |
+
+**Prime contractors funneling federal money to Ripple:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| THE MITRE CORPORATION | $6.3M | 18 |
+| DELOITTE CONSULTING LLP | $5.8M | 1 |
+| DESIGN KNOWLEDGE COMPANY, THE | $1.1M | 4 |
+| LEIDOS, INC. | $573K | 6 |
+| DAI GLOBAL, LLC | $247K | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Health and Human Services | $39.0M |
+| Department of Defense | $31.3M |
+| Department of Homeland Security | $638K |
+| Department of Agriculture | $436K |
+| General Services Administration | $400K |
+| Department of Education | $170K |
+| Department of the Interior | $129K |
+| Department of Veterans Affairs | $82K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Administrative Management and General Management Consulting Services (541611) | $51.6M |
+| Other Scientific and Technical Consulting Services (541690) | $12.6M |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $3.1M |
+| Research and Development in Biotechnology (except Nanobiotechnology) (541714) | $2.2M |
+| Ship Building and Repairing (336611) | $638K |
+| All Other Professional, Scientific, and Technical Services (541990) | $566K |
+| Educational Support Services (611710) | $492K |
+| Support Activities for Forestry (115310) | $436K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

@@ -8,13 +8,15 @@ parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Clarence Thomas"
+  - "John Cornyn"
+  - "Mike Crapo"
 issues:
   - "Housing"
 ein: 463077371
 annual-revenue: "$109"
 net-assets: "$4K"
 tax-year: "2023"
+total-political-spend: "$969,948"
 ---
 
 
@@ -150,3 +152,28 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 
 - [Source: ProPublica Nonprofit Explorer — EIN 463077371](https://projects.propublica.org/nonprofits/organizations/463077371) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $969,948 |
+| Contributions | 97 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| TRUTH AND COURAGE PAC | $150,000 | — |
+| NRSC | $129,384 | REP |
+| CORNYN LONESTAR VICTORY FUND | $100,000 | — |
+| TEXANS FOR A CONSERVATIVE MAJORITY | $100,000 | — |
+| REPUBLICAN NATIONAL COMMITTEE | $50,000 | REP |
+| NRSC VICTORY | $50,000 | — |
+| DEFENDING AMERICA PAC, INC. | $25,000 | — |
+| ONE TEAM SENATE MAJORITY | $23,600 | — |
+| GROW THE MAJORITY | $21,000 | — |
+| CISCOMANI VICTORY FUND | $14,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harlan%20Crow) (Tier 1)
+<!-- auto:fec-donor end -->

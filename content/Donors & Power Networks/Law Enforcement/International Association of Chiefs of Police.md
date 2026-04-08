@@ -2,11 +2,24 @@
 title: "International Association of Chiefs of Police"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
 entity-type: "Individual Donor"
+federal-register-mentions: 86
+last-enriched: "2026-04-07"
+regulatory-agencies:
+  - "Civil Rights Commission"
+  - "Federal Bureau of Investigation"
+  - "Federal Communications Commission"
+  - "Federal Railroad Administration"
+  - "Homeland Security Department"
+  - "Justice Department"
+  - "Justice Programs Office"
+  - "National Highway Traffic Safety Administration"
+  - "National Institute of Justice"
+  - "Transportation Department"
 ---
 
 #iacp #law-enforcement #police #lobbying #qualified-immunity #surveillance #reform
@@ -32,3 +45,25 @@ IACP's political significance: the organization provides an "expert" voice that 
 - [Ballotpedia: Law enforcement policy](https://ballotpedia.org/International_Association_of_Chiefs_of_Police) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 86 |
+| Final Rules | 19 |
+| Proposed Rules | 13 |
+| Notices | 54 |
+| Agencies | Civil Rights Commission, Federal Bureau of Investigation, Federal Communications Commission, Federal Railroad Administration, Homeland Security Department, Justice Department, Justice Programs Office, National Highway Traffic Safety Administration +3 more |
+
+**Recent regulatory activity:**
+- [Notice of Charter Reestablishment](https://www.federalregister.gov/documents/2025/04/11/2025-06200/notice-of-charter-reestablishment) (2025-04-11) — Justice Department
+- [Speed Measuring Device Conformity-RADAR](https://www.federalregister.gov/documents/2024/11/21/2024-27130/speed-measuring-device-conformity-radar) (2024-11-21) — Transportation Department
+- [Advanced Impaired Driving Prevention Technology](https://www.federalregister.gov/documents/2024/01/05/2023-27665/advanced-impaired-driving-prevention-technology) (2024-01-05) — Transportation Department ★
+- [Notice of Charter Reestablishment](https://www.federalregister.gov/documents/2023/05/03/2023-09330/notice-of-charter-reestablishment) (2023-05-03) — Justice Department
+- [Uniform Procedures for State Highway Safety Grant Programs](https://www.federalregister.gov/documents/2023/02/06/2023-01819/uniform-procedures-for-state-highway-safety-grant-programs) (2023-02-06) — Transportation Department
+- [Uniform Procedures for State Highway Safety Grant Programs](https://www.federalregister.gov/documents/2022/09/15/2022-18995/uniform-procedures-for-state-highway-safety-grant-programs) (2022-09-15) — Transportation Department
+- ... and 80 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22International%20Association%20of%20Chiefs%20of%20Police%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,7 +2,7 @@
 title: "Williams Companies"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -40,6 +40,11 @@ ein: 237413843
 annual-revenue: "$14.9M"
 net-assets: "$65.4M"
 tax-year: "2023"
+lei: "5493001M6BTAS56NAL04"
+lei-jurisdiction: "US"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-08"
 ---
 
 #donor #energy #natural-gas #pipeline #fossil-fuel #republican-lean #class-analysis #follow-the-money
@@ -165,3 +170,36 @@ content-readiness:: draft
 
 - [Source: ProPublica Nonprofit Explorer — EIN 237413843](https://projects.propublica.org/nonprofits/organizations/237413843) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [5493001M6BTAS56NAL04](https://search.gleif.org/#/record/5493001M6BTAS56NAL04) |
+| Legal Name | Williams Companies Master Pension Trust |
+| Jurisdiction | US |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-08-18T12:12:37Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Williams%20Companies) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

@@ -2,7 +2,7 @@
 title: "UPS"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -10,6 +10,9 @@ entity-type: "Corporation"
 issues:
   - "Labor & Workers"
   - "Trade"
+federal-awards-total: 4624540
+federal-contracts-count: 25
+federal-grants-count: 25
 ---
 
 #ups #logistics #shipping #teamsters #labor #bipartisan #trade #postal #transportation #revolving-door #class-analysis #follow-the-money
@@ -172,3 +175,35 @@ content-readiness:: developed
 | PROJECT 218 | $15.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $4.6M |
+| Contracts (recent 3yr) | 25 ($398.0M sampled) |
+| Grants (recent 3yr) | 25 ($85.7M sampled) |
+| Federal Agencies | 11 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $105.0M | Department of Homeland Security | IGF::CT::IGF MEDICAL SCREENING SERVICES |
+| $80.0M | Department of Homeland Security | ALTERNATIVE TRANSPORTABLE TEMPORARY HOUSING UNIT FOR RESPONSE AND RECOVERY FROM NATURAL DISASTERS. |
+| $57.1M | Department of Defense | WEST SHORE LAKE PONTCHARTRAIN, WSLP-104 LEVEE AND PIPELINE CROSSING FLOODWALL |
+| $50.1M | Department of Defense | WEST SHORE LAKE PONTCHARTRAIN, LOUISIANA, HURRICANE AND STORM DAMAGE RISK REDUCTION PROJECT, LEVEES  |
+| $26.3M | Department of Defense | TASK ORDER AWARD |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $16.5M | Department of Health and Human Services | NCORP OF THE CAROLINAS (GREENVILLE HEALTH SYSTEM NCORP) |
+| $10.7M | Department of Health and Human Services | COMMUNITY PROJECT FUNDING/CONGRESSIONALLY DIRECTED SPENDING - CONSTRUCTION - AS PRISMA HEALTH–UPSTAT |
+| $9.6M | Department of Health and Human Services | HEAD START |
+| $4.4M | Department of Health and Human Services | HEALTH CENTER PROGRAM |
+| $4.2M | Department of Health and Human Services | HEAD START |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/749cdca8-91d6-4d0a-1338-9af84563fbb1-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

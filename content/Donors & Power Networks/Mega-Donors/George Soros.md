@@ -45,6 +45,8 @@ total-assets: 899
 lei: "549300N08KWU11RFO340"
 lei-jurisdiction: "KY"
 lei-parent: "Quantum Partners LP"
+lobbying-spend: 1515500
+lobbying-filings: 100
 ---
 
 #donor #billionaire #democratic #progressive #dark-money #open-society
@@ -274,3 +276,22 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.5M |
+| Quarterly Filings | 100 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 20 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Aviation/Airlines/Airports, Budget/Appropriations, Clean Air and Water (quality), Consumer Issues/Safety/Products, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Law Enforcement/Crime/Criminal Justice, Manufacturing, Medicare/Medicaid, Natural Resources, Science/Technology, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Urban Development/Municipalities, Utilities, Veterans
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ARNOLD & PORTER KAYE SCHOLER LLP, BALLARD PARTNERS, BOSE PUBLIC AFFAIRS GROUP, CENTER ROAD SOLUTIONS, DLA PIPER LLP (US), G S PROCTOR AND ASSOCIATES, INC, GEORGE H. DENISON, GEORGE J. HOCHBRUECKNER & ASSOCIATES, INC., HEALTH AND MEDICINE COUNSEL, LLC, INVARIANT LLC, LAW OFFICES OF GEORGE HARRIS, LLC, MARCUS G. FAUST, PC, MR. GEORGE WATERS, PILLSBURY WINTHROP SHAW PITTMAN LLP, POBLETE TAMARGO, LLP, STEPTOE LLP, THE CORMAC GROUP, LLC, THORN RUN PARTNERS, VECTIS DC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Economic Development Administration, Energy, Dept of, Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Emergency Management Agency (FEMA), General Services Administration (GSA) +8 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=George%20Soros) (Tier 1)
+<!-- auto:lda-lobbying end -->

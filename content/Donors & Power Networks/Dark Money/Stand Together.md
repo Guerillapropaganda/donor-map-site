@@ -58,6 +58,9 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. New York"
   - "District Court, S.D. California"
+total-political-spend: "$84,259,968"
+politicians-funded:
+  - "Bryan Steil"
 ---
 
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money
@@ -282,3 +285,28 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Stand%20Together%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $84,259,968 |
+| Contributions | 24 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $82,869,138 | — |
+| ONE GIANT LEAP PAC | $1,001,500 | — |
+| AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $383,929 | — |
+| TEXAS DEMOCRATIC PARTY | $1,400 | DEM |
+| WILLIAM TIMMONS FOR CONGRESS | $651 | REP |
+| STEIL FOR WISCONSIN, INC. | $651 | REP |
+| JOHN ROSE FOR TENNESSEE | $651 | REP |
+| ANTHONY GONZALEZ FOR CONGRESS | $651 | REP |
+| LANCE GOODEN FOR CONGRESS COMMITTEE | $651 | REP |
+| DR JEAN L ENRIGHT FOR CONGRESS | $500 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stand%20Together) (Tier 1)
+<!-- auto:fec-donor end -->

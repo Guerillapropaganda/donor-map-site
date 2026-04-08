@@ -26,6 +26,35 @@ regulatory-agencies:
   - "International Trade Administration"
   - "Justice Department"
   - "Labor Department"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "144"
+  - "4"
+  - "424B2"
+  - "8-K"
+  - "CORRESP"
+  - "EX-10.1"
+  - "EX-10.2"
+  - "EX-21"
+  - "EX-21.1"
+  - "EX-23"
+  - "EX-3.1"
+  - "EX-4.1"
+  - "EX-5.1"
+  - "EX-99.1"
+  - "EX-FILING FEES"
+  - "FWP"
+  - "LETTER"
+  - "PROXY VOTING RECORD"
+  - "S-3ASR"
+  - "S-8"
+  - "S-8 POS"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SCHEDULE 13G"
+  - "SCHEDULE 13G/A"
 ---
 
 #booz-allen #defense #intelligence #consulting #nsa #snowden #government-contractor
@@ -139,3 +168,23 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-Q, 144, 4, 424B2, 8-K, CORRESP, EX-10.1 +19 more |
+| CIK | 1443646 |
+| Ticker | BAH |
+
+**Notable filings:**
+
+- 2026-04-07 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1443646/000195917326002809/0001959173-26-002809-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000193176626000003/0001931766-26-000003-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000205029926000003/0002050299-26-000003-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000194081226000003/0001940812-26-000003-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000158811026000004/0001588110-26-000004-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Booz%20Allen%20Hamilton%22) (Tier 1)
+<!-- auto:sec-edgar end -->

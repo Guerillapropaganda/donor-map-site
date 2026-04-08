@@ -16,6 +16,10 @@ sec-form-types:
   - "424B3"
   - "DEF 14A"
   - "EX-99"
+ein: 264568349
+annual-revenue: "$115.0M"
+net-assets: "$24.3M"
+tax-year: "2023"
 ---
 
 #america-votes #dark-money #progressive-coordination #democracy-alliance #infrastructure #voter-mobilization
@@ -156,3 +160,18 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22America%20Votes%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $115.0M |
+| Total Contributions | $114.9M |
+| Investment Income | $80K |
+| Total Expenses | $118.1M |
+| Net Assets | $24.3M |
+| Officer Compensation | $1.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 264568349](https://projects.propublica.org/nonprofits/organizations/264568349) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F264568349_202306_990O_2024061822541095.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

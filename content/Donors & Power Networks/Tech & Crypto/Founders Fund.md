@@ -2,7 +2,7 @@
 title: "Founders Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -20,6 +20,8 @@ ein: 863992946
 annual-revenue: "$1.2M"
 net-assets: "$421K"
 tax-year: "2023"
+lei: "254900B4R5J7N0865R59"
+lei-jurisdiction: "LU"
 ---
 
 #founders-fund #peter-thiel #venture-capital #tech #libertarian #palantir #republican #defense #paypal-mafia #dark-money #class-analysis #follow-the-money
@@ -213,3 +215,18 @@ content-readiness:: developed
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [254900B4R5J7N0865R59](https://search.gleif.org/#/record/254900B4R5J7N0865R59) |
+| Legal Name | Global Founders Fund |
+| Jurisdiction | LU |
+| Entity Status | ACTIVE |
+| Category | FUND |
+| Registration | ISSUED |
+| Last Updated | 2026-01-19T14:15:43Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

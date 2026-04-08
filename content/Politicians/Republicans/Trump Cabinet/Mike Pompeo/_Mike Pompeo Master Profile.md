@@ -2,7 +2,7 @@
 title: "Mike Pompeo Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,6 +11,9 @@ state: "Kansas"
 state-abbr: "KS"
 top-donors:
   - "Koch Network - Charles Koch"
+govtrack-id: 412431
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 
@@ -145,3 +148,27 @@ The pattern: think tank → PAC → speaking fees → board memberships → law 
 - [FEC: Mike Pompeo contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=pompeo,+mike) (Tier 1)
 content-readiness:: ready
  
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 4,196 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2017-01-23 | H.R. 582: Kari’s Law Act of 2017 | Not Voting | Passed |
+| 2017-01-23 | H.R. 423: Anti-Spoofing Act of 2017 | Not Voting | Passed |
+| 2017-01-13 | S. 84: A bill to provide for an exception to a limitation against appointment of… | Not Voting | Passed |
+| 2017-01-13 | S.Con.Res. 3: A concurrent resolution setting forth the congressional budget for… | Not Voting | Passed |
+| 2017-01-13 | H.Amdt. 44 (Yarmuth) to S.Con.Res. 3: Amendment sought to strike all after the r… | Not Voting | Failed |
+| 2017-01-13 | H.Res. 48: Providing for consideration of the concurrent resolution (S. Con. Res… | Not Voting | Passed |
+| 2017-01-13 | On Ordering the Previous Question: H.Res. 48: Providing for consideration of the… | Not Voting | Passed |
+| 2017-01-12 | H.R. 238: Commodity End-User Relief Act | Not Voting | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412431) (Tier 1)
+<!-- auto:govtrack end -->

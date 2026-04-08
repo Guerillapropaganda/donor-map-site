@@ -2,7 +2,7 @@
 title: "Lockheed Martin"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -22,6 +22,12 @@ net-assets: "$74K"
 tax-year: "2014"
 lei: "DPRBOZP0K5RM2YE8UU08"
 lei-jurisdiction: "US-MD"
+subawards-issued: 50
+subawards-issued-amount: 2946802998
+subawards-received: 50
+subawards-received-amount: 2946802998
+top-federal-agency: "National Aeronautics and Space Administration"
+top-naics-code: "561990"
 ---
 
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door
@@ -345,3 +351,59 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($2.9B sampled) |
+| Subawards Received (as sub) | 50 ($2.9B sampled) |
+| Top Federal Agency | National Aeronautics and Space Administration ($4.0B) |
+| Primary NAICS Sector | All Other Support Services |
+
+**Subcontractors receiving federal money from Lockheed Martin:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| LOCKHEED MARTIN CORPORATION | $2.8B | 45 |
+| RAYTHEON/LOCKHEED MARTIN JAVELIN JV | $48.4M | 2 |
+| LOCKHEED MARTIN CORP | $42.8M | 1 |
+| LOCKHEED MARTIN GLOBAL, INC | $38.0M | 1 |
+| LOCKHEED MARTIN SIPPICAN, INC. | $22.7M | 1 |
+
+**Prime contractors funneling federal money to Lockheed Martin:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| LOCKHEED MARTIN CORPORATION | $1.5B | 25 |
+| NORTHROP GRUMMAN SYSTEMS CORPORATION | $568.9M | 10 |
+| BELL TEXTRON INC. | $343.1M | 3 |
+| RAYTHEON COMPANY | $242.6M | 1 |
+| BOEING COMPANY, THE | $152.2M | 5 |
+| JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC, THE | $42.8M | 1 |
+| THE BOEING COMPANY | $37.1M | 1 |
+| ELECTRIC BOAT CORPORATION | $24.3M | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| National Aeronautics and Space Administration | $4.0B |
+| Department of Homeland Security | $669.8M |
+| Department of Commerce | $488.9M |
+| Department of Transportation | $170.9M |
+| General Services Administration | $130.2M |
+| Department of Justice | $34.1M |
+| Department of the Interior | $13.8M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| All Other Support Services (561990) | $3.9B |
+| Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing (336415) | $3.1B |
+| Research and Development in the Physical, Engineering, and Life Sciences (541710) | $2.3B |
+| Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing (336419) | $2.3B |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

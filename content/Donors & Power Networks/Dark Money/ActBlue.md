@@ -21,6 +21,10 @@ federal-register-mentions: 9
 last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Federal Election Commission"
+ein: 455097038
+annual-revenue: "$2.0M"
+net-assets: "$8.5M"
+tax-year: "2023"
 ---
 
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis
@@ -164,3 +168,18 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ActBlue%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2.0M |
+| Total Contributions | $1.8M |
+| Investment Income | $206K |
+| Total Expenses | $2.7M |
+| Net Assets | $8.5M |
+| Officer Compensation | $191K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 455097038](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455097038_202312_990O_2025032023237934.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

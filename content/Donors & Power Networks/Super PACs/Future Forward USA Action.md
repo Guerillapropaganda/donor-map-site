@@ -13,6 +13,13 @@ ein: 824170762
 annual-revenue: "$65.7M"
 net-assets: "$7.5M"
 tax-year: "2022"
+court-cases: 4
+last-enriched: "2026-04-07"
+court-jurisdictions:
+  - "District Court, D. New Jersey"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. Texas"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #donor-node #super-pac #democratic #dark-money #501c4
@@ -119,3 +126,20 @@ research-status:: ready — Promoted Session 39.
 - [Source: ProPublica Nonprofit Explorer — EIN 824170762](https://projects.propublica.org/nonprofits/organizations/824170762) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_82-83%2F824170762_202212_990O_2023120722083400.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 4 |
+| Courts | District Court, D. New Jersey, District Court, District of Columbia, District Court, N.D. Texas, United States Bankruptcy Court, S.D. Texas |
+| Case Types | 190 Contract: Other Contract, 440 Civil Rights: Other, 870 Taxes |
+
+**Notable cases:**
+- LOGAN v. GARLAND (2024) — District Court, D. New Jersey
+- X Corp. v. Media Matters for America (2023) — District Court, N.D. Texas
+- Diamond Sports Group, LLC (2023) — United States Bankruptcy Court, S.D. Texas
+- FREEDOM PATH, INC v. INTERNAL REVENUE SERVICE (2020) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Future%20Forward%20USA%20Action%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

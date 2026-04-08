@@ -213,7 +213,7 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
+| Donors Who Also Lobby | 2 of 2 |
 | Committee Overlap Detected | 1 donor |
 
 **Donate → Lobby → Committee chains:**
@@ -223,6 +223,7 @@ content-readiness:: ready
 **Donors who lobby (by spend):**
 
 - [[Telecom Industry]] — $9.0M lobbying spend (Aerospace, Agriculture, Banking)
+- [[Silicon Valley Donors]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->

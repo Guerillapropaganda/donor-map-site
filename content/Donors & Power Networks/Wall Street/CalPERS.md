@@ -17,6 +17,23 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 lei: "549300ZK777GYOOK5750"
 lei-jurisdiction: "LU"
+sec-filings: 10000
+sec-form-types:
+  - "8-K"
+  - "CORRESP"
+  - "DEFA14A"
+  - "EX-10.20"
+  - "EX-10.25"
+  - "EX-10.27"
+  - "EX-5"
+  - "EX-99"
+  - "EX-99.(A)(8)"
+  - "EX-99.1"
+  - "PX14A6G"
+  - "PX14A6N"
+  - "SC 13D"
+  - "SC 13G"
+  - "SC TO-C"
 ---
 
 #calpers #pension #california #public-employees #wall-street #private-equity #investment #lobbying #placement-agents #corruption #class-analysis #follow-the-money
@@ -209,3 +226,21 @@ content-readiness:: developed
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 8-K, CORRESP, DEFA14A, EX-10.20, EX-10.25, EX-10.27, EX-5, EX-99 +7 more |
+
+**Notable filings:**
+
+- 2012-03-23 — **EX-99.1**: EX-99.1
+- 2020-05-19 — **PX14A6G**: PX14A6G
+- 2001-12-13 — **EX-99.1**: PURCHASE AND SALE AGREEMENT
+- 2017-03-27 — **PX14A6G**: CALIFORNIA PUBLIC EMPLOYEES RETIREMENT SYSTEM PX14A6G 3-27-2017 (AEE)
+- 2021-06-02 — **PX14A6G**: PX14A6G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CalPERS%22) (Tier 1)
+<!-- auto:sec-edgar end -->

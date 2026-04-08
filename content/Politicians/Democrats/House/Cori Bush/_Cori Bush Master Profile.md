@@ -14,6 +14,8 @@ bioguide-id: "A000383"
 govtrack-id: 456829
 bills-sponsored: 0
 bills-cosponsored: 0
+total-received: "$534,492"
+fec-candidate-id: "H8MO01143"
 ---
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money
@@ -144,3 +146,37 @@ content-readiness:: draft
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $534,492 |
+| Individual Contributions | $377,596 |
+| Cash on Hand | 203864.16 |
+| IE Support (Super PAC) | $4,401,980 |
+| IE Opposition (Super PAC) | $13,968,928 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $534,492 | $377,596 | $0 |
+| 2024 | $4,165,846 | $2,501,283 | $206,609 |
+| 2022 | $2,448,937 | $1,044,344 | $144,949 |
+| 2020 | $1,429,837 | $527,593 | $116,849 |
+| 2018 | $177,038 | $44,763 | $3,832 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| UNITED DEMOCRACY PROJECT ('UDP') | $0 | $9,956,554 |
+| FAIRSHAKE | $0 | $2,789,872 |
+| JUSTICE DEMOCRATS PAC | $2,755,000 | $0 |
+| MAINSTREAM DEMOCRATS PAC | $0 | $992,222 |
+| WORKING FAMILIES PARTY PAC | $878,370 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
+<!-- auto:fec-politician end -->

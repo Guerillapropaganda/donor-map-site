@@ -2,13 +2,17 @@
 title: "National Rental Home Council"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-05
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Real Estate"
 entity-type: "Corporation"
 issues:
   - "Housing"
+ein: 474822520
+annual-revenue: "$3.3M"
+net-assets: "$977K"
+tax-year: "2023"
 ---
 
 #donor #real-estate #housing #trade-association #institutional-landlords #revolving-door #class-analysis #follow-the-money
@@ -97,3 +101,18 @@ content-readiness:: draft
 | SENATE GEORGIA BATTLEGROUND FUND | $5.6K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $3.3M |
+| Total Contributions | $265K |
+| Program Service Revenue | $3.0M |
+| Investment Income | $179 |
+| Total Expenses | $3.6M |
+| Net Assets | $977K |
+| Officer Compensation | $515K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 474822520](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -2,7 +2,7 @@
 title: "Securities & Investment Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -15,6 +15,17 @@ ofac-programs:
   - "IRAN"
   - "SDGT] [IFSR"
   - "SDGT"
+sec-filings: 9
+sec-form-types:
+  - "424B2"
+  - "424B3"
+  - "424B5"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "PRE 14A"
+  - "PRE 14C"
+  - "PRER14A"
+  - "S-4"
 ---
 
 #securities #investment #wall-street #hedge-fund #private-equity #carried-interest #bipartisan
@@ -64,3 +75,21 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 9 |
+| Form Types | 424B2, 424B3, 424B5, DEF 14A, DEFA14A, PRE 14A, PRE 14C, PRER14A +1 more |
+
+**Notable filings:**
+
+- 2016-07-22 — **PRE 14C**: ARYC_PREC14C.HTM
+- 2015-10-09 — **DEFA14A**: DEFA14A
+- 2004-02-19 — **424B2**: PROSPECTUS SUPPLEMENT
+- 2004-02-19 — **424B5**: PROSPECTUS SUPPLEMENT
+- 2010-04-16 — **PRE 14A**: PRE 14A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Securities%20%26%20Investment%20Industry%22) (Tier 1)
+<!-- auto:sec-edgar end -->

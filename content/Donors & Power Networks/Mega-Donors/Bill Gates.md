@@ -2,7 +2,7 @@
 title: "Bill Gates"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -10,6 +10,12 @@ entity-type: "Individual Donor"
 issues:
   - "Education"
   - "Energy & Climate"
+total-political-spend: "$652,713"
+politicians-funded:
+  - "Frank Lucas"
+  - "Martin Heinrich"
+  - "Debbie Stabenow"
+  - "Rosa DeLauro"
 ---
 
 #gates #microsoft #philanthropy #education #health #charter-schools #climate
@@ -66,3 +72,28 @@ content-readiness:: ready
 | INDIVIDUALS DEDICATED TO ETHICS AND SCIENCE PAC | $10.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $652,713 |
+| Contributions | 333 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| NOOGA PAC | $15,000 | — |
+| SAWTOOTH POLITICAL ACTION COMMITTEE (SAWTOOTH PAC) | $15,000 | — |
+| INDIVIDUALS DEDICATED TO ETHICS AND SCIENCE PAC | $10,000 | — |
+| UTAH FIRST PAC | $10,000 | — |
+| LIBERTY FUND; THE | $10,000 | — |
+| WILD AND WONDERFUL PAC | $10,000 | — |
+| BELIEVE IN AMERICA PAC | $10,000 | — |
+| DOGWOOD PAC | $10,000 | — |
+| I GOT YOUR BACK PAC | $10,000 | — |
+| LOBO PAC | $10,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bill%20Gates) (Tier 1)
+<!-- auto:fec-donor end -->

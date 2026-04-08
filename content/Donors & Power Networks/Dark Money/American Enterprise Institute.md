@@ -40,6 +40,7 @@ sec-form-types:
 nonprofit-status: "501(c)(3)"
 total-revenue: 104831056
 total-assets: 353111569
+total-political-spend: "$6,625"
 ---
 
 #aei #think-tank #conservative #deregulation #tax #trade #neoconservative
@@ -164,3 +165,20 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $6,625 |
+| Contributions | 2 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| RNC REPUBLICAN NATIONAL STATE ELECTIONS COMMITTEE | $6,375 | — |
+| FRIENDS OF ANDY COLEMAN | $250 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Enterprise%20Institute) (Tier 1)
+<!-- auto:fec-donor end -->

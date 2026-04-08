@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -31,6 +31,12 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "District Court, S.D. New York"
 cpsc-recalls: 1
+subawards-issued: 50
+subawards-issued-amount: 350724763
+subawards-received: 50
+subawards-received-amount: 350724763
+top-federal-agency: "Department of Defense"
+top-naics-code: "541512"
 ---
 
 #microsoft #tech #lobbying #ai #cloud #antitrust #government-contracts #defense
@@ -186,3 +192,60 @@ content-readiness:: ready
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Microsoft) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($350.7M sampled) |
+| Subawards Received (as sub) | 50 ($350.7M sampled) |
+| Top Federal Agency | Department of Defense ($2.1B) |
+| Primary NAICS Sector | Computer Systems Design Services |
+
+**Subcontractors receiving federal money from Microsoft:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| MICROSOFT CORPORATION | $350.7M | 50 |
+
+**Prime contractors funneling federal money to Microsoft:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| ACCENTURE FEDERAL SERVICES LLC | $223.2M | 2 |
+| GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. | $54.4M | 17 |
+| CACI, INC. - FEDERAL | $24.6M | 7 |
+| LEIDOS, INC. | $15.0M | 5 |
+| ECS FEDERAL, LLC | $7.1M | 1 |
+| JACOBS TECHNOLOGY INC. | $6.4M | 4 |
+| NORTHROP GRUMMAN SYSTEMS CORPORATION | $5.8M | 4 |
+| CSRA LLC | $4.1M | 2 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $2.1B |
+| Department of State | $130.1M |
+| Department of Justice | $98.0M |
+| Department of Homeland Security | $66.5M |
+| Department of Agriculture | $58.8M |
+| Social Security Administration | $53.1M |
+| Department of Transportation | $29.2M |
+| Federal Maritime Commission | $5.3M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Computer Systems Design Services (541512) | $1.6B |
+| Custom Computer Programming Services (541511) | $420.2M |
+| Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services (518210) | $255.4M |
+| Other Computer Related Services (541519) | $193.0M |
+| Computer Facilities Management Services (541513) | $23.3M |
+| Software Publishers (511210) | $1.2M |
+| Software Publishers (513210) | $732K |
+| Computer and Computer Peripheral Equipment and Software Merchant Wholesalers (423430) | $685K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

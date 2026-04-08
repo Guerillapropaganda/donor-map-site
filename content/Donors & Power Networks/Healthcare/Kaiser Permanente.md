@@ -15,6 +15,10 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+ein: 943382057
+annual-revenue: "$23.0M"
+net-assets: "$30.0M"
+tax-year: "2023"
 ---
 
 
@@ -145,3 +149,16 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Kaiser%20Permanente) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $23.0M |
+| Total Contributions | $22.4M |
+| Investment Income | $582K |
+| Total Expenses | $23.6M |
+| Net Assets | $30.0M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 943382057](https://projects.propublica.org/nonprofits/organizations/943382057) (Tier 1)
+<!-- auto:propublica-990 end -->

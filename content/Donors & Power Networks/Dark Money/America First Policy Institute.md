@@ -2,13 +2,17 @@
 title: "America First Policy Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
+fara-status: "registrant"
+fara-records: 2
+fara-countries:
+  - "ARMENIA"
 ---
 
 #afpi #trump #think-tank #project-2025 #transition #dark-money #maga
@@ -47,3 +51,19 @@ Deregulation across all sectors (energy, finance, healthcare), immigration restr
 - [Ballotpedia: America First Policy Institute](https://ballotpedia.org/America_First_Policy_Institute) (Tier 3)
 
 content-readiness:: ready
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 2 |
+| Countries | ARMENIA |
+| Foreign Principal Records | 1 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Public Television of Armenia CSJC (ARMENIA)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:America%20First%20Policy%20Institute) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

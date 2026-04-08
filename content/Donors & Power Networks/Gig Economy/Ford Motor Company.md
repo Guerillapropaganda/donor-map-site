@@ -44,6 +44,9 @@ regulatory-agencies:
   - "National Highway Traffic Safety Administration"
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
+federal-awards-total: 739664294
+federal-contracts-count: 25
+federal-grants-count: 7
 ---
 
 #ford #auto #detroit #michigan #manufacturing #ev #uaw #trade
@@ -247,3 +250,35 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Ford%20Motor%20Company%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $739.7M |
+| Contracts (recent 3yr) | 25 ($56.3M sampled) |
+| Grants (recent 3yr) | 7 ($42.3M sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $6.4M | General Services Administration | SUV, POLICE USE, 4 DOOR |
+| $6.1M | General Services Administration | 4X4 PICKUP,FULLSIZE,CREW CAB, POLICE USE |
+| $4.3M | General Services Administration | 4X4 PICKUP, FULL SIZE, CREW CAB, MIN 6700 LBS GVWR |
+| $3.6M | General Services Administration | 4X4 PICKUP,FULLSIZE,CREW CAB, POLICE USE |
+| $3.1M | General Services Administration | SUV, POLICE USE, 4 DOOR |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $25.0M | Department of Energy | NEW AWARD DE-EE0009858 WITH FORD MOTOR COMPANY TITLED HIGH ENERGY FUEL CELL APPLICATION FOR MEDIUM D |
+| $7.4M | Department of Energy | DE-EE0008878: NEXT GENERATION HIGH EFFICIENCY BOOSTED ENGINE DEVELOPMENT: NEW AWARD |
+| $5.2M | Department of Energy | NEW AWARD DE-EE0009203 WITH FORD MOTOR COMPANY TITLED MULTI-FUNCTIONAL SMART STRUCTURES FOR SMART VE |
+| $1.6M | Department of Energy | DE-EE0008464: USING REAL TIME MASS TRANSIT IN FIRST LAST MILE SOLUTION: NEW AWARD |
+| $1.5M | Department of Energy | CARBON CAPTURE TO REACH CARBON NEUTRAL VEHICLES: CO2-DERIVED PLATFORM MOLECULES FOR POLYURETHANE FOA |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1aaf04d1-c14b-54ee-4f16-a62964267244-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

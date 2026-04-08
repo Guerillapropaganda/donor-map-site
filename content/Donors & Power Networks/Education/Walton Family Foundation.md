@@ -9,6 +9,10 @@ sector: "Education"
 entity-type: "Individual Donor"
 lei: "549300EHSRWZEI5Q4G61"
 lei-jurisdiction: "US-DE"
+ein: 472066714
+annual-revenue: "$81K"
+net-assets: "$1.9M"
+tax-year: "2023"
 ---
 
 
@@ -109,3 +113,15 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $81K |
+| Total Contributions | $0 |
+| Total Expenses | $129K |
+| Net Assets | $1.9M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 472066714](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1)
+<!-- auto:propublica-990 end -->

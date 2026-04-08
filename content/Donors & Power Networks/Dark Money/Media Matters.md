@@ -34,6 +34,8 @@ court-jurisdictions:
   - "District Court, N.D. Ohio"
   - "District Court, S.D. Iowa"
   - "District Court, W.D. Texas"
+lei: "2330006W7D3HYA5G4N42"
+lei-jurisdiction: "HU"
 ---
 
 #media-matters #dark-money #progressive #media-watchdog #democracy-alliance #Elon-Musk-lawsuit #infrastructure
@@ -225,3 +227,18 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Media%20Matters%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [2330006W7D3HYA5G4N42](https://search.gleif.org/#/record/2330006W7D3HYA5G4N42) |
+| Legal Name | Media Matters Group Korlátolt Felelősségű Társaság |
+| Jurisdiction | HU |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-11-11T14:14:10Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

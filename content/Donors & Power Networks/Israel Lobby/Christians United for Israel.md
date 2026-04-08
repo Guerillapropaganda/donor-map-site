@@ -24,6 +24,12 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+sec-filings: 29
+sec-form-types:
+  - "DEF 14A"
+  - "EX-99.1"
+  - "FWP"
+  - "PRE 14A"
 ---
 
 #cufi #christian-zionism #israel #evangelical #hagee #lobbying #republican
@@ -102,3 +108,21 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Christians%20United%20for%20Israel%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 29 |
+| Form Types | DEF 14A, EX-99.1, FWP, PRE 14A |
+
+**Notable filings:**
+
+- 2010-07-23 — **EX-99.1**: EX-99.1
+- 2010-07-09 — **FWP**: FWP
+- 2010-07-09 — **EX-99.1**: EX-99.1
+- 2010-06-24 — **FWP**: FWP
+- 2010-06-24 — **EX-99.1**: EX-99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Christians%20United%20for%20Israel%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -2,7 +2,7 @@
 title: "Airbnb"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -14,13 +14,24 @@ federal-contracts-count: 0
 federal-grants-count: 0
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-08"
 ein: 833135259
 annual-revenue: "$18.6M"
 net-assets: "$19.4M"
 tax-year: "2023"
 lei: "549300HMUDNO0RY56D37"
 lei-jurisdiction: "US-DE"
+federal-register-mentions: 11
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Energy Department"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Homeland Security Department"
+  - "Justice Department"
+  - "Regulatory Information Service Center"
+  - "Securities and Exchange Commission"
+  - "U.S. Citizenship and Immigration Services"
 ---
 
 #airbnb #gig-economy #housing #short-term-rental #lobbying #zoning #tourism
@@ -135,3 +146,25 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 11 |
+| Notice | 3 |
+| Rule | 3 |
+| Proposed Rule | 5 |
+| Agencies | Antitrust Division, Energy Department, Federal Energy Regulatory Commission, Federal Trade Commission, Homeland Security Department, Justice Department, Regulatory Information Service Center, Securities and Exchange Commission +1 more |
+
+**Recent regulatory activity:**
+- [Termination of the Designation of Honduras for Temporary Protected Status](https://www.federalregister.gov/documents/2025/07/08/2025-12621/termination-of-the-designation-of-honduras-for-temporary-protected-status) (2025-07-08) — Homeland Security Department
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) — Federal Trade Commission
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2023/11/09/2023-24234/trade-regulation-rule-on-unfair-or-deceptive-fees) (2023-11-09) — Federal Trade Commission
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Pool Heaters](https://www.federalregister.gov/documents/2023/05/30/2023-10849/energy-conservation-program-energy-conservation-standards-for-consumer-pool-heaters) (2023-05-30) — Energy Department ★
+- [United States v. ASSA ABLOY AB, et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2023/05/15/2023-10343/united-states-v-assa-abloy-ab-et-al-proposed-final-judgment-and-competitive-impact-statement) (2023-05-15) — Justice Department
+- [Trade Regulation Rule on Commercial Surveillance and Data Security](https://www.federalregister.gov/documents/2022/08/22/2022-17752/trade-regulation-rule-on-commercial-surveillance-and-data-security) (2022-08-22) — Federal Trade Commission
+- ... and 5 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Airbnb%22) (Tier 1)
+<!-- auto:federal-register end -->

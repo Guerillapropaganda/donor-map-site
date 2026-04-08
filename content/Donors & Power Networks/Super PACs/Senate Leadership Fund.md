@@ -12,7 +12,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 court-cases: 31
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 court-jurisdictions:
   - "District Court, D. Maine"
   - "District Court, S.D. Florida"
@@ -23,6 +23,8 @@ sec-filings: 2
 sec-form-types:
   - "ARS"
   - "DEF 14A"
+ein: "862883453"
+nonprofit-status: "501(c)(4)"
 ---
 
 #donor-node #super-pac #republican #senate #mcconnell #thune #dark-money #leadership-pac #class-analysis #follow-the-money
@@ -242,3 +244,14 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Senate%20Leadership%20Fund%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 862883453 |
+| Tax-Exempt Status | 501(c)(4) |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/862883453) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -322,3 +322,23 @@ content-readiness:: developed
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 6 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Richard Neal]] (Ways & Means) — lobbying: $2.7M
+- [[Brett Guthrie]] — lobbying: $2.7M
+- [[Billy Tauzin]] — lobbying: $2.7M
+- [[Frank Pallone]] (Energy & Commerce, Environment & Public Works) — lobbying: $2.7M
+- [[Chris Coons]] — lobbying: $2.7M
+- [[Cory Booker]] — lobbying: $2.7M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+<!-- auto:influence-cross-ref end -->

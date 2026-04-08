@@ -2,7 +2,7 @@
 title: "InfluenceMap"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-07
 source-tier: 2
 parent: null
 ein: 852619691
@@ -11,7 +11,7 @@ net-assets: "$90K"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-07"
 related: "[[League of Conservation Voters]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Enterprise Products Partners]] · [[Williams Companies]]"
 ---
 

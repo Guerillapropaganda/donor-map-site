@@ -2,7 +2,7 @@
 title: "DMFI - Democratic Majority for Israel"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-03
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -15,6 +15,9 @@ politicians-funded:
   - "Jamaal Bowman"
 issues:
   - "Israel & Foreign Policy"
+ein: "833298146"
+nonprofit-status: "501(c)(4)"
+last-enriched: "2026-04-07"
 ---
 
 
@@ -203,3 +206,14 @@ content-readiness:: ready
 | COLIN ALLRED FOR CONGRESS | $4.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 833298146 |
+| Tax-Exempt Status | 501(c)(4) |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/833298146) (Tier 1)
+<!-- auto:nonprofit-990 end -->
