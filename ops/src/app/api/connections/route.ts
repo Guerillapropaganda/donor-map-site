@@ -69,11 +69,19 @@ function parseBodyField(body: string, field: string): string[] {
   return parseWikilinks(match[1])
 }
 
-// Cache for 2 minutes
+// Cache for 2 minutes, invalidated by relationship changes
 let cache: { data: unknown; timestamp: number } | null = null
 const CACHE_TTL = 120_000
+let lastInvalidation = 0
 
 export async function GET() {
+  // Check if relationships API invalidated the cache
+  const inv = (globalThis as Record<string, unknown>).__connectionsInvalidated as number || 0
+  if (inv > lastInvalidation) {
+    lastInvalidation = inv
+    cache = null
+  }
+
   if (cache && Date.now() - cache.timestamp < CACHE_TTL) {
     return NextResponse.json(cache.data)
   }
