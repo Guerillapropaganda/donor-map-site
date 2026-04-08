@@ -183,6 +183,39 @@ export default function ProfilePage() {
     setUrlChecking(false)
     setUrlCheckProgress("")
     setUrlSaveMsg(`Auto-check complete. Review results and Save.`)
+
+    // Build summary for internal notes
+    setUrlOverrides((current) => {
+      const okCount = Object.values(current).filter(v => v === "ok").length
+      const brokenCount = Object.values(current).filter(v => v === "broken").length
+      const yellowCount = Object.values(current).filter(v => v === "yellow").length
+      const date = new Date().toISOString().split("T")[0]
+      const lines: string[] = []
+      lines.push(`[URL Check ${date}] ${unchecked.length} URLs checked: ${okCount} ok, ${brokenCount} broken, ${yellowCount} slow/redirect`)
+      // Add details for non-ok URLs
+      for (const [idx, status] of Object.entries(current)) {
+        if (status === "broken" || status === "yellow") {
+          const u = urls[Number(idx)]
+          const note = urlNotes[Number(idx)] || ""
+          lines.push(`  - ${status === "broken" ? "BROKEN" : "SLOW"}: ${u?.label || u?.url}${note ? ` (${note})` : ""}`)
+        }
+      }
+      const summary = lines.join("\n")
+      const newNotes = internalNotes ? `${internalNotes}\n\n${summary}` : summary
+      setInternalNotes(newNotes)
+      // Auto-save notes
+      if (profilePath) {
+        fetch("/api/profile/notes", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ path: profilePath, notes: newNotes }),
+        }).then(() => {
+          setNotesOriginal(newNotes)
+          setNotesMsg("Auto-check notes saved")
+        })
+      }
+      return current
+    })
   }
 
   function bulkMarkUnchecked(status: "ok" | "broken" | "unsure") {
