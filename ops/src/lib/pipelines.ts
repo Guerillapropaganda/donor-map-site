@@ -25,6 +25,7 @@ export const PIPELINES: Pipeline[] = [
   { id: "lda", name: "Senate LDA", description: "Lobbying disclosure filings — registrations and activities", source: "lda.senate.gov", tier: 1, requiresAuth: true, category: "legislative" },
   { id: "lobbyview", name: "LobbyView", description: "Client-bill lobbying networks — who lobbied on what", source: "lobbyview.org", tier: 1, requiresAuth: true, category: "legislative" },
   { id: "lobbying-contrib", name: "Lobbying Cross-Ref", description: "Cross-references lobbyist contributions with filings", source: "lda.senate.gov", tier: 1, requiresAuth: false, category: "legislative" },
+  { id: "voting-record", name: "Voting Record", description: "Party loyalty, ideology score, missed votes, key votes table", source: "congress.gov + govtrack.us", tier: 1, requiresAuth: true, category: "legislative" },
 
   // Regulatory
   { id: "federal-register", name: "Federal Register", description: "Rules, proposed rules, notices, executive orders", source: "federalregister.gov", tier: 1, requiresAuth: false, category: "regulatory" },
