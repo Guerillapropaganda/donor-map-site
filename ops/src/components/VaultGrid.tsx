@@ -212,6 +212,23 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
         ))}
       </div>
 
+      {/* Legend */}
+      <div className="flex flex-wrap items-center gap-x-4 gap-y-1 mb-3 text-[9px]">
+        <span className="text-[var(--color-text-dim)] uppercase tracking-wider font-bold">Legend:</span>
+        <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full" style={{background:"#fbbf24", boxShadow:"0 0 4px rgba(251,191,36,0.5)"}} />A+ Verified</span>
+        <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full" style={{background:"#10b981"}} />B Ready</span>
+        <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full" style={{background:"#f59e0b"}} />C Draft</span>
+        <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full" style={{background:"#6b7280"}} />D-F Raw</span>
+        <span className="text-[var(--color-text-dim)]">|</span>
+        <span className="flex items-center gap-1">
+          <span className="relative w-4 h-4"><svg className="w-4 h-4 -rotate-90" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="none" stroke="var(--color-border)" strokeWidth="2" /><circle cx="12" cy="12" r="10" fill="none" stroke="#5b8dce" strokeWidth="2" strokeDasharray="31.4 62.83" /></svg></span>
+          Completeness %
+        </span>
+        <span className="text-[var(--color-text-dim)]">|</span>
+        <span className="text-[var(--color-red)]">Red text</span><span className="text-[var(--color-text-dim)]">= action needed</span>
+        <span className="text-[var(--color-steel)]">Blue text</span><span className="text-[var(--color-text-dim)]">= close to A+</span>
+      </div>
+
       {/* Results count */}
       <p className="text-[10px] text-[var(--color-text-dim)] uppercase tracking-wider mb-3">
         {filtered.length.toLocaleString()} profiles

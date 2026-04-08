@@ -231,26 +231,33 @@ export function computeStats(profiles: Profile[]): VaultStats {
 // Determine what a profile needs next
 export function profileNeeds(profile: Profile): string {
   if (profile.contentReadiness === "raw") return "Needs basic metadata and content"
-  if (!profile.lastEnriched) return "Never enriched — run pipeline"
-  if (!profile.sourceTier || profile.sourceTier > 2) return "Needs Tier 1 sources"
-
-  const now = Date.now()
-  const enrichedDate = new Date(profile.lastEnriched).getTime()
-  const daysSinceEnriched = (now - enrichedDate) / (24 * 60 * 60 * 1000)
 
   if (profile.contentReadiness === "verified") {
-    if (daysSinceEnriched > 90) return "Stale A+ — re-enrich to maintain verified status"
+    if (profile.lastEnriched) {
+      const days = (Date.now() - new Date(profile.lastEnriched).getTime()) / (24 * 60 * 60 * 1000)
+      if (days > 90) return "Stale A+ — re-enrich to maintain status"
+    }
     return "Up to date (A+)"
   }
 
   if (profile.contentReadiness === "ready") {
-    if (daysSinceEnriched > 180) return "Stale — needs re-enrichment"
+    // Build a checklist of what's needed for A+
+    const missing: string[] = []
+    if (!profile.lastEnriched) missing.push("pipeline enrichment")
     const sourceCount = (profile.sourceTypes || []).length
-    if (sourceCount < 2) return "Needs 2+ Tier 1 source types for A+"
-    if (!profile.lastVerifiedBy) return "Needs editorial sign-off for A+"
-    return "Up to date (B)"
+    if (sourceCount < 2) missing.push(`${2 - sourceCount} more Tier 1 source type${sourceCount === 1 ? "" : "s"}`)
+    if (!profile.lastVerifiedBy) missing.push("editorial sign-off")
+
+    if (missing.length === 0) return "Up to date (B)"
+    if (missing.length === 1 && missing[0] === "editorial sign-off") return "Ready for A+ — needs sign-off"
+    return `Needs: ${missing.join(", ")}`
   }
 
-  if (profile.contentReadiness === "draft") return "Needs enrichment and more sources"
+  if (profile.contentReadiness === "draft") {
+    if (!profile.lastEnriched) return "Never enriched — run pipeline"
+    if (!profile.sourceTier || profile.sourceTier > 2) return "Needs Tier 1 sources"
+    return "Needs more content and connections"
+  }
+
   return "Up to date"
 }
