@@ -153,6 +153,19 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-08 04:39 UTC — 7 profiles
+
+**usaspending-subawards — 7 profiles:**
+- Wells Fargo — 2 issued, 2 received, 2 agencies
+- Anduril Industries — 50 issued, 50 received, 4 agencies
+- PG&E — 0 issued, 0 received, 8 agencies
+- Halliburton — 1 issued, 1 received, 0 agencies
+- BAE Systems — 50 issued, 50 received, 8 agencies
+- Northrop Grumman — 50 issued, 50 received, 8 agencies
+- Centene Corporation — 0 issued, 0 received, 6 agencies
+
+---
 ## 2026-04-08 03:37 UTC — 9 profiles
 
 **federal-register — 9 profiles:**

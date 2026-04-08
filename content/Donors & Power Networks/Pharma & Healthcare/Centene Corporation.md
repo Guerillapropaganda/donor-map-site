@@ -69,6 +69,8 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
 related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]]"
+top-federal-agency: "General Services Administration"
+top-naics-code: "624190"
 ---
 
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca
@@ -244,3 +246,37 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Centene%20Corporation%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | General Services Administration ($69.6M) |
+| Primary NAICS Sector | Other Individual and Family Services |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| General Services Administration | $69.6M |
+| Department of Health and Human Services | $14.2M |
+| Department of Veterans Affairs | $11.1M |
+| Department of Transportation | $450K |
+| Department of Justice | $393K |
+| Peace Corps | $18K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Other Individual and Family Services (624190) | $82.6M |
+| Human Resources Consulting Services (541612) | $16.1M |
+| Offices of Physicians (except Mental Health Specialists) (621111) | $10.3M |
+| Engineering Services (541330) | $3.0M |
+| Administrative Management and General Management Consulting Services (541611) | $1.0M |
+| Pharmaceutical Preparation Manufacturing (325412) | $926K |
+| Offices of Mental Health Practitioners (except Physicians) (621330) | $450K |
+| Pharmacies and Drug Stores (446110) | $113K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

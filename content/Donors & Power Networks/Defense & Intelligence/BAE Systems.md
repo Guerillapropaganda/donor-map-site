@@ -36,6 +36,12 @@ nhtsa-complaints: 0
 lei: "8SVCSVKSGDWMW2QHOH83"
 lei-jurisdiction: "GB"
 related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]]"
+subawards-issued: 50
+subawards-issued-amount: 9702438629
+subawards-received: 50
+subawards-received-amount: 9702438629
+top-federal-agency: "National Aeronautics and Space Administration"
+top-naics-code: "336992"
 ---
 
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia
@@ -211,3 +217,62 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($9.7B sampled) |
+| Subawards Received (as sub) | 50 ($9.7B sampled) |
+| Top Federal Agency | National Aeronautics and Space Administration ($795.8M) |
+| Primary NAICS Sector | Military Armored Vehicle, Tank, and Tank Component Manufacturing |
+
+**Subcontractors receiving federal money from BAE Systems:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC. | $7.1B | 36 |
+| BAE SYSTEMS (OPERATIONS) LIMITED | $2.1B | 11 |
+| BAE SYSTEMS CONTROLS INC | $327.4M | 1 |
+| BAE SYSTEMS ORDNANCE SYSTEMS INC. | $96.2M | 1 |
+| BAE SYSTEMS LAND & ARMAMENTS L.P. | $89.6M | 1 |
+
+**Prime contractors funneling federal money to BAE Systems:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| LOCKHEED MARTIN CORPORATION | $8.6B | 43 |
+| LOCKHEED MARTIN CORP | $428.0M | 3 |
+| GENERAL ELECTRIC COMPANY | $327.4M | 1 |
+| THE BOEING COMPANY | $121.8M | 1 |
+| GENERAL DYNAMICS ORDNANCE AND TACTICAL SYSTEMS, INC. | $96.2M | 1 |
+| BOEING COMPANY, THE | $86.0M | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| National Aeronautics and Space Administration | $795.8M |
+| Department of Justice | $496.0M |
+| Department of Homeland Security | $322.8M |
+| General Services Administration | $159.7M |
+| Department of Labor | $55.4M |
+| Pension Benefit Guaranty Corporation | $19.5M |
+| Department of Commerce | $9.0M |
+| Department of the Interior | $1.5M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Military Armored Vehicle, Tank, and Tank Component Manufacturing (336992) | $9.2B |
+| Engineering Services (541330) | $5.9B |
+| Ship Building and Repairing (336611) | $4.4B |
+| Other Aircraft Parts and Auxiliary Equipment Manufacturing (336413) | $2.5B |
+| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $2.3B |
+| Guided Missile and Space Vehicle Manufacturing (336414) | $1.8B |
+| Motor Vehicle Body Manufacturing (336211) | $1.4B |
+| Facilities Support Services (561210) | $1.3B |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

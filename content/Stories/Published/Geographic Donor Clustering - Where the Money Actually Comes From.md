@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Harris-Newsom Donor Class Fracture]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Harris-Newsom Donor Class Fracture]] · [[2028 Presidential Landscape]]"
 ---
 
 #investigation #methodology-layer #geographic-clustering #donor-geography #class-analysis #follow-the-money

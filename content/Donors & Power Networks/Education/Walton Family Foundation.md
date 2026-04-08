@@ -13,7 +13,7 @@ ein: 472066714
 annual-revenue: "$81K"
 net-assets: "$1.9M"
 tax-year: "2023"
-related: "[[Virginia Foxx]] · [[Sarah Huckabee Sanders Master Profile]] · [[The LEARNS Act and the Education Privatization Donor Network]]"
+related: "[[Virginia Foxx]] · [[Sarah Huckabee Sanders Master Profile]] · [[The LEARNS Act and the Education Privatization Donor Network]] · [[Michael Bennet]]"
 ---
 
 

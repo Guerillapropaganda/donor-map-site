@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 issues:
   - "Defense & Military"
-related: "[[Think Tank Capture - Foreign Governments Writing US Policy]] · [[The Revolving Door - How Government Service Becomes Industry Employment]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]]"
+related: "[[Think Tank Capture - Foreign Governments Writing US Policy]] · [[The Revolving Door - How Government Service Becomes Industry Employment]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Defense Contractor 450000 Percent ROI]]"
 ---
 
 #defense #bipartisan #spending #military-industrial-complex #ndaa #pentagon #lobbying

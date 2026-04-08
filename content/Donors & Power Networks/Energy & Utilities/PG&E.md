@@ -14,6 +14,8 @@ annual-revenue: "$23.4M"
 net-assets: "$99.5M"
 tax-year: "2023"
 related: "[[Fossil Fuel Bloc]] · [[IBEW California State Association]]"
+top-federal-agency: "Department of Defense"
+top-naics-code: "221122"
 ---
 
 
@@ -124,3 +126,38 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 943358729](https://projects.propublica.org/nonprofits/organizations/943358729) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Defense ($29.7M) |
+| Primary NAICS Sector | Electric Power Distribution |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $29.7M |
+| Department of Justice | $18.4M |
+| Department of the Interior | $12.1M |
+| Department of Veterans Affairs | $12.0M |
+| National Aeronautics and Space Administration | $9.2M |
+| Social Security Administration | $4.5M |
+| Department of the Treasury | $1.9M |
+| Department of Transportation | $1.0M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Electric Power Distribution (221122) | $59.2M |
+| Electric Bulk Power Transmission and Control (221121) | $18.9M |
+| Power and Communication Line and Related Structures Construction (237130) | $8.9M |
+| Fossil Fuel Electric Power Generation (221112) | $2.1M |
+| Other Electric Power Generation (221118) | $87K |
+| Regulation and Administration of Communications, Electric, Gas, and Other Utilities (926130) | $56K |
+| Lessors of Nonresidential Buildings (except Miniwarehouses) (531120) | $20K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

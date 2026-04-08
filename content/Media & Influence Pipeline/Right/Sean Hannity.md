@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[Greg Gutfeld]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[Greg Gutfeld]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Fox News - Murdoch Media Empire]]"
 ---
 
 #media-pipeline #right #fox-news #talk-radio #real-estate #trump-advisor #pharma-ads #january-6

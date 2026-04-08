@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Mitch McConnell Master Profile]]
-related: "[[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[NRSC Chair and the McConnell Spending War]]"
+related: "[[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[NRSC Chair and the McConnell Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]]"
 ---
 
 

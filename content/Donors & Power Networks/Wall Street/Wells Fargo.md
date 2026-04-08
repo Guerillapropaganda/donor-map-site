@@ -68,6 +68,12 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 137336347
 total-assets: 12239451
 related: "[[The Intellectual Property and Banking Donor Pipeline]] · [[The Whiteboard Populism and Legislative Limits]]"
+subawards-issued: 2
+subawards-issued-amount: 72000
+subawards-received: 2
+subawards-received-amount: 72000
+top-federal-agency: "Pension Benefit Guaranty Corporation"
+top-naics-code: "523920"
 ---
 
 #wells-fargo #wall-street #consumer #fraud #fake-accounts #banking #charlotte
@@ -223,3 +229,42 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/411367441) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 2 ($72K sampled) |
+| Subawards Received (as sub) | 2 ($72K sampled) |
+| Top Federal Agency | Pension Benefit Guaranty Corporation ($16.4M) |
+| Primary NAICS Sector | Portfolio Management |
+
+**Subcontractors receiving federal money from Wells Fargo:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| WELLS FARGO BANK, NATIONAL ASSOCIATION | $72K | 2 |
+
+**Prime contractors funneling federal money to Wells Fargo:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| EDUCATION & TRAINING RESOURCES LLC | $72K | 2 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Pension Benefit Guaranty Corporation | $16.4M |
+| Department of State | $106K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Portfolio Management (523920) | $16.4M |
+| Upholstered Household Furniture Manufacturing (337121) | $66K |
+| Office Furniture (except Wood) Manufacturing (337214) | $42K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

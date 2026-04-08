@@ -27,6 +27,12 @@ sec-form-types:
   - "NPORT-EX"
   - "NPORT-P"
 related: "[[Palantir Technologies]]"
+subawards-issued: 50
+subawards-issued-amount: 156117244
+subawards-received: 50
+subawards-received-amount: 156117244
+top-federal-agency: "Department of Defense"
+top-naics-code: "334511"
 ---
 
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money
@@ -207,3 +213,56 @@ content-readiness:: draft
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Anduril%20Industries%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($156.1M sampled) |
+| Subawards Received (as sub) | 50 ($156.1M sampled) |
+| Top Federal Agency | Department of Defense ($1.4B) |
+| Primary NAICS Sector | Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing |
+
+**Subcontractors receiving federal money from Anduril Industries:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| ANDURIL INDUSTRIES, INC. | $156.1M | 50 |
+
+**Prime contractors funneling federal money to Anduril Industries:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| CACI, INC. - FEDERAL | $38.0M | 5 |
+| JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC, THE | $26.8M | 7 |
+| MANTECH TSG-2 JOINT VENTURE | $22.3M | 6 |
+| AMERICAN RHEINMETALL VEHICLES, LLC | $16.0M | 1 |
+| ATLANTIC DIVING SUPPLY, INC. | $12.0M | 3 |
+| SCIENCE APPLICATIONS INTERNATIONAL CORPORATION | $6.0M | 8 |
+| LINQUEST CORPORATION | $5.6M | 3 |
+| SIGMA DEFENSE SYSTEMS, INC. | $5.0M | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $1.4B |
+| Department of Homeland Security | $800.9M |
+| Department of Energy | $25.1M |
+| Department of Commerce | $490K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $1.0B |
+| Computer Systems Design Services (541512) | $816.2M |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $205.4M |
+| Aircraft Manufacturing (336411) | $96.8M |
+| Small Arms, Ordnance, and Ordnance Accessories Manufacturing (332994) | $90.6M |
+| Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing (336419) | $38.4M |
+| Engineering Services (541330) | $3.9M |
+| Security Systems Services (except Locksmiths) (561621) | $1.4M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

@@ -20,6 +20,10 @@ total-assets: 1150303
 lei: "ENYF8GB5SMQZ25S06U51"
 lei-jurisdiction: "US-DE"
 related: "[[Valero Energy]] · [[John Barrasso]]"
+subawards-issued: 1
+subawards-issued-amount: 54006
+subawards-received: 1
+subawards-received-amount: 54006
 ---
 
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
@@ -152,3 +156,25 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 1 ($54K sampled) |
+| Subawards Received (as sub) | 1 ($54K sampled) |
+
+**Subcontractors receiving federal money from Halliburton:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| HALLIBURTON SURVEYING & MAPPING, INC. | $54K | 1 |
+
+**Prime contractors funneling federal money to Halliburton:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| BURNS & MCDONNELL ENGINEERING COMPANY, INC. | $54K | 1 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->
