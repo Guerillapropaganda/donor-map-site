@@ -169,6 +169,8 @@ export interface VaultStats {
   enriched: number
   notEnriched: number
   withTier1: number
+  staleCount: number
+  neverEnriched: number
 }
 
 export function computeStats(profiles: Profile[]): VaultStats {
@@ -176,11 +178,22 @@ export function computeStats(profiles: Profile[]): VaultStats {
   const byReadiness: Record<string, number> = {}
   let enriched = 0
   let withTier1 = 0
+  let staleCount = 0
+  let neverEnriched = 0
+  const now = Date.now()
+  const STALE_DAYS = 30
+  const staleThreshold = STALE_DAYS * 24 * 60 * 60 * 1000
 
   for (const p of profiles) {
     byType[p.type] = (byType[p.type] || 0) + 1
     byReadiness[p.contentReadiness] = (byReadiness[p.contentReadiness] || 0) + 1
-    if (p.lastEnriched) enriched++
+    if (p.lastEnriched) {
+      enriched++
+      const enrichedDate = new Date(p.lastEnriched).getTime()
+      if (now - enrichedDate > staleThreshold) staleCount++
+    } else {
+      neverEnriched++
+    }
     if (p.sourceTier === 1) withTier1++
   }
 
@@ -191,5 +204,21 @@ export function computeStats(profiles: Profile[]): VaultStats {
     enriched,
     notEnriched: profiles.length - enriched,
     withTier1,
+    staleCount,
+    neverEnriched,
   }
+}
+
+// Determine what a profile needs next
+export function profileNeeds(profile: Profile): string {
+  if (profile.contentReadiness === "raw") return "Needs basic metadata and content"
+  if (!profile.lastEnriched) return "Never enriched — run pipeline"
+  if (!profile.sourceTier || profile.sourceTier > 2) return "Needs Tier 1 sources"
+  const now = Date.now()
+  const enrichedDate = new Date(profile.lastEnriched).getTime()
+  if (now - enrichedDate > 30 * 24 * 60 * 60 * 1000) return "Stale — last enriched " + profile.lastEnriched
+  if (profile.contentReadiness === "draft") return "Needs editorial development"
+  if (profile.contentReadiness === "developed") return "Needs verification pass"
+  if (profile.contentReadiness === "verified") return "Ready for final review"
+  return "Up to date"
 }

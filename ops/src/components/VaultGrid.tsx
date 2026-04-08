@@ -1,8 +1,8 @@
 "use client"
 
-import { useState, useMemo } from "react"
+import { useState, useMemo, useRef } from "react"
 import type { Profile } from "@/lib/vault"
-import { readinessColor, typeColor } from "@/lib/vault"
+import { readinessColor, typeColor, profileNeeds } from "@/lib/vault"
 
 interface VaultGridProps {
   profiles: Profile[]
@@ -29,11 +29,24 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
   const [search, setSearch] = useState("")
   const [typeFilter, setTypeFilter] = useState<string>("all")
   const [readinessFilter, setReadinessFilter] = useState<string>("all")
-  const [sortBy, setSortBy] = useState<"name" | "readiness" | "updated" | "completeness">("name")
+  const [sortBy, setSortBy] = useState<"name" | "readiness" | "updated" | "completeness" | "stale">("name")
+  const [letterFilter, setLetterFilter] = useState<string>("all")
+  const gridRef = useRef<HTMLDivElement>(null)
 
   const types = useMemo(() => {
     const t = new Set(profiles.map((p) => p.type))
     return Array.from(t).sort()
+  }, [profiles])
+
+  // Compute available letters from current profiles
+  const availableLetters = useMemo(() => {
+    const letters = new Set<string>()
+    profiles.forEach((p) => {
+      const first = p.title.charAt(0).toUpperCase()
+      if (/[A-Z]/.test(first)) letters.add(first)
+      else if (/[0-9]/.test(first)) letters.add("#")
+    })
+    return letters
   }, [profiles])
 
   const filtered = useMemo(() => {
@@ -52,6 +65,14 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
       result = result.filter((p) => p.contentReadiness === readinessFilter)
     }
 
+    if (letterFilter !== "all") {
+      if (letterFilter === "#") {
+        result = result.filter((p) => /^[0-9]/.test(p.title))
+      } else {
+        result = result.filter((p) => p.title.charAt(0).toUpperCase() === letterFilter)
+      }
+    }
+
     result.sort((a, b) => {
       if (sortBy === "name") return a.title.localeCompare(b.title)
       if (sortBy === "readiness") {
@@ -63,11 +84,17 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
       if (sortBy === "completeness") {
         return (b.completeness || 0) - (a.completeness || 0)
       }
+      if (sortBy === "stale") {
+        // Never enriched first, then oldest enriched first
+        const aTime = a.lastEnriched ? new Date(a.lastEnriched).getTime() : 0
+        const bTime = b.lastEnriched ? new Date(b.lastEnriched).getTime() : 0
+        return aTime - bTime
+      }
       return 0
     })
 
     return result
-  }, [profiles, search, typeFilter, readinessFilter, sortBy])
+  }, [profiles, search, typeFilter, readinessFilter, sortBy, letterFilter])
 
   if (loading) {
     return (
@@ -129,19 +156,64 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
         {/* Sort */}
         <select
           value={sortBy}
-          onChange={(e) => setSortBy(e.target.value as "name" | "readiness" | "updated")}
+          onChange={(e) => setSortBy(e.target.value as "name" | "readiness" | "updated" | "completeness" | "stale")}
           className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-3 py-2.5 text-xs text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)]"
         >
           <option value="name">Sort: Name</option>
           <option value="readiness">Sort: Readiness</option>
           <option value="updated">Sort: Last Updated</option>
           <option value="completeness">Sort: Completeness</option>
+          <option value="stale">Sort: Most Stale</option>
         </select>
+      </div>
+
+      {/* A-Z Navigation Bar */}
+      <div className="flex flex-wrap items-center gap-0.5 mb-3">
+        <button
+          onClick={() => setLetterFilter("all")}
+          className={`px-2 py-1 text-[10px] font-bold rounded transition-colors ${
+            letterFilter === "all"
+              ? "bg-[var(--color-steel)] text-white"
+              : "text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)] hover:text-[var(--color-text)]"
+          }`}
+        >
+          ALL
+        </button>
+        <button
+          onClick={() => setLetterFilter("#")}
+          className={`px-1.5 py-1 text-[10px] font-bold rounded transition-colors ${
+            letterFilter === "#"
+              ? "bg-[var(--color-steel)] text-white"
+              : availableLetters.has("#")
+                ? "text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)] hover:text-[var(--color-text)]"
+                : "text-[var(--color-text-dim)]/30 cursor-default"
+          }`}
+          disabled={!availableLetters.has("#")}
+        >
+          #
+        </button>
+        {"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => (
+          <button
+            key={letter}
+            onClick={() => setLetterFilter(letter)}
+            disabled={!availableLetters.has(letter)}
+            className={`px-1.5 py-1 text-[10px] font-bold rounded transition-colors ${
+              letterFilter === letter
+                ? "bg-[var(--color-steel)] text-white"
+                : availableLetters.has(letter)
+                  ? "text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)] hover:text-[var(--color-text)]"
+                  : "text-[var(--color-text-dim)]/30 cursor-default"
+            }`}
+          >
+            {letter}
+          </button>
+        ))}
       </div>
 
       {/* Results count */}
       <p className="text-[10px] text-[var(--color-text-dim)] uppercase tracking-wider mb-3">
         {filtered.length.toLocaleString()} profiles
+        {letterFilter !== "all" && ` starting with "${letterFilter}"`}
       </p>
 
       {/* Grid */}
@@ -218,6 +290,20 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
                 <span className="text-[8px] text-[var(--color-text-dim)] truncate max-w-[80px]">{profile.sector}</span>
               )}
             </div>
+
+            {/* What's needed */}
+            {(() => {
+              const need = profileNeeds(profile)
+              if (need === "Up to date") return null
+              const needColor = need.startsWith("Stale") || need.startsWith("Never") ? "var(--color-red)" :
+                need.includes("Tier 1") ? "var(--color-amber)" :
+                need.includes("raw") ? "var(--color-text-dim)" : "var(--color-steel)"
+              return (
+                <p className="mt-1.5 text-[8px] leading-tight" style={{ color: needColor }}>
+                  {need}
+                </p>
+              )
+            })()}
 
             {/* Readiness progress bar */}
             <div className="mt-2 w-full h-1 rounded-full bg-[var(--color-bg)] overflow-hidden">

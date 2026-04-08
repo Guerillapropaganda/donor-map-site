@@ -50,6 +50,66 @@ export async function GET(request: Request) {
         })
       }
 
+      // === STALE PROFILE DETECTION ===
+      const STALE_DAYS = 30
+      const staleThreshold = STALE_DAYS * 24 * 60 * 60 * 1000
+      const staleProfiles: string[] = []
+      const neverEnrichedProfiles: string[] = []
+      const rawProfiles: string[] = []
+
+      for (const p of profiles) {
+        if (p.lastEnriched) {
+          const enrichedDate = new Date(p.lastEnriched).getTime()
+          if (now.getTime() - enrichedDate > staleThreshold) {
+            staleProfiles.push(p.title)
+          }
+        } else if (p.type !== "event" && p.type !== "story") {
+          neverEnrichedProfiles.push(p.title)
+        }
+        if (p.contentReadiness === "raw") {
+          rawProfiles.push(p.title)
+        }
+      }
+
+      if (staleProfiles.length > 0) {
+        alerts.push({
+          id: "stale-enrichment",
+          severity: staleProfiles.length > 50 ? "critical" : "warning",
+          category: "stale",
+          title: `${staleProfiles.length} profiles stale (30+ days since enrichment)`,
+          description: "These profiles haven't been enriched by the pipeline in over 30 days. Run enrichment or check pipeline health.",
+          profiles: staleProfiles.slice(0, 20),
+          count: staleProfiles.length,
+          timestamp: today,
+        })
+      }
+
+      if (neverEnrichedProfiles.length > 0) {
+        alerts.push({
+          id: "never-enriched",
+          severity: neverEnrichedProfiles.length > 100 ? "critical" : "warning",
+          category: "stale",
+          title: `${neverEnrichedProfiles.length} profiles never enriched`,
+          description: "These profiles have never been processed by any pipeline. They may be missing government source data.",
+          profiles: neverEnrichedProfiles.slice(0, 20),
+          count: neverEnrichedProfiles.length,
+          timestamp: today,
+        })
+      }
+
+      if (rawProfiles.length > 0) {
+        alerts.push({
+          id: "raw-profiles",
+          severity: "info",
+          category: "readiness",
+          title: `${rawProfiles.length} profiles still at "raw" readiness`,
+          description: "These profiles need basic metadata and content before they can be developed further.",
+          profiles: rawProfiles.slice(0, 20),
+          count: rawProfiles.length,
+          timestamp: today,
+        })
+      }
+
       // Stats from vault
       const stats = vaultData.stats || {}
       if (stats.totalProfiles) {

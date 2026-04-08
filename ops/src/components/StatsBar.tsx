@@ -30,12 +30,14 @@ export function StatsBar({ stats, loading }: StatsBarProps) {
   const coverage = stats.totalProfiles > 0 ? Math.round((stats.enriched / stats.totalProfiles) * 100) : 0
 
   return (
-    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 mb-6">
+    <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-3 mb-6">
       <StatCard label="Total Profiles" value={stats.totalProfiles.toLocaleString()} color="var(--color-text)" />
       <StatCard label="Enriched" value={stats.enriched.toLocaleString()} color="var(--color-green)" />
       <StatCard label="Coverage" value={`${coverage}%`} color="var(--color-steel)" />
       <StatCard label="Tier 1 Sources" value={stats.withTier1.toLocaleString()} color="var(--color-green)" />
       <StatCard label="Not Enriched" value={stats.notEnriched.toLocaleString()} color="var(--color-amber)" />
+      <StatCard label="Stale (30+ days)" value={(stats.staleCount || 0).toLocaleString()} color="var(--color-red)" />
+      <StatCard label="Never Enriched" value={(stats.neverEnriched || 0).toLocaleString()} color="var(--color-amber)" />
       <StatCard label="Ready" value={(stats.byReadiness["ready"] || 0).toLocaleString()} color="#10b981" />
     </div>
   )
