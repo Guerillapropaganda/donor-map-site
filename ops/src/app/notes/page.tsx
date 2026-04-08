@@ -348,22 +348,25 @@ export default function NotesPage() {
                     <button
                       onClick={() => updateStatus(note.id, "in-progress")}
                       className="text-[8px] px-2 py-1 rounded border border-[var(--color-amber)]/30 text-[var(--color-amber)] hover:bg-[var(--color-amber)]/10 transition-colors"
+                      title="Mark as being worked on by Claude"
                     >
-                      Start
+                      Working On It
                     </button>
                   )}
                   {(note.status === "open" || note.status === "in-progress") && (
                     <button
                       onClick={() => updateStatus(note.id, "done")}
                       className="text-[8px] px-2 py-1 rounded border border-[var(--color-green)]/30 text-[var(--color-green)] hover:bg-[var(--color-green)]/10 transition-colors"
+                      title="Mark as resolved — issue is fixed"
                     >
-                      Done
+                      Resolved
                     </button>
                   )}
                   {note.status === "done" && (
                     <button
                       onClick={() => updateStatus(note.id, "open")}
                       className="text-[8px] px-2 py-1 rounded border border-[var(--color-border)] text-[var(--color-text-dim)] hover:bg-[var(--color-bg-hover)] transition-colors"
+                      title="Reopen — issue not actually fixed"
                     >
                       Reopen
                     </button>

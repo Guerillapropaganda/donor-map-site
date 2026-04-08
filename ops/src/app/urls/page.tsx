@@ -218,16 +218,35 @@ export default function UrlManagerPage() {
     finally { setSaving(false) }
   }
 
+  // Move completed item back to active triage
+  const undoCompleted = (item: CompletedUrl) => {
+    setCompleted((prev) => {
+      const next = prev.filter((c) => c.id !== item.id)
+      saveCompleted(next)
+      return next
+    })
+    setUrls((prev) => [...prev, { ...item, status: "unchecked" as UrlStatus }])
+    showToast(`Moved "${item.label}" back to Active`)
+  }
+
+  // Quick-assign buttons for active URLs
+  const quickAssign = (id: string, status: UrlStatus) => {
+    setOverrides((prev) => ({ ...prev, [id]: status }))
+    setHasChanges(true)
+  }
+
   // URL card
-  const UrlCard = ({ u }: { u: CheckedUrl | CompletedUrl }) => {
+  const UrlCard = ({ u, isCompleted }: { u: CheckedUrl | CompletedUrl; isCompleted?: boolean }) => {
     const breadcrumb = u.profilePath.replace("content/", "").replace(/_/g, "").replace(/ Master Profile\.md$/, "").replace(/\.md$/, "").split("/").filter(Boolean)
+    const isActive = "status" in u && !isCompleted
+
     return (
       <div
-        draggable={"status" in u}
-        onDragStart={() => "status" in u && handleDragStart(u.id)}
+        draggable={isActive}
+        onDragStart={() => isActive && handleDragStart(u.id)}
         className={`p-2.5 rounded bg-[var(--color-bg)] hover:bg-[var(--color-bg-hover)] transition-colors border border-transparent hover:border-[var(--color-border)] group ${
-          "status" in u && overrides[u.id] ? "ring-1 ring-[var(--color-steel)]/30" : ""
-        } ${"status" in u ? "cursor-grab active:cursor-grabbing" : ""}`}
+          isActive && overrides[u.id] ? "ring-1 ring-[var(--color-steel)]/30" : ""
+        } ${isActive ? "cursor-grab active:cursor-grabbing" : ""}`}
       >
         <div className="flex items-center gap-1 mb-1">
           <span className="text-[8px] text-[var(--color-steel)]">
@@ -243,13 +262,29 @@ export default function UrlManagerPage() {
           <div className="flex-1 min-w-0">
             <p className="text-[10px] text-[var(--color-text)] truncate">{u.label}</p>
             <a href={u.url} target="_blank" rel="noopener noreferrer" className="text-[9px] text-[var(--color-steel)] hover:underline truncate block" onClick={(e) => e.stopPropagation()}>{u.url}</a>
-            {"completedDate" in u && <span className="text-[7px] text-[var(--color-text-dim)]">Completed {u.completedDate}</span>}
+            {"completedDate" in u && <span className="text-[7px] text-[var(--color-text-dim)]">Completed {"completedDate" in u ? u.completedDate : ""}</span>}
           </div>
-          <a href={u.url} target="_blank" rel="noopener noreferrer" className="text-[var(--color-text-dim)] hover:text-[var(--color-steel)] opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0 mt-1" title="Open">
-            <svg width={14} height={14} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
-              <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
-            </svg>
-          </a>
+          <div className="flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0">
+            {/* Quick assign buttons for active URLs */}
+            {isActive && (
+              <>
+                <button onClick={() => quickAssign(u.id, "ok")} title="Working" className="w-5 h-5 rounded flex items-center justify-center text-[8px] bg-[#22c55e]/10 text-[#22c55e] hover:bg-[#22c55e]/25">&#x2713;</button>
+                <button onClick={() => quickAssign(u.id, "broken")} title="Broken" className="w-5 h-5 rounded flex items-center justify-center text-[8px] bg-[#ef4444]/10 text-[#ef4444] hover:bg-[#ef4444]/25">&#x2717;</button>
+                <button onClick={() => quickAssign(u.id, "unsure")} title="Unsure" className="w-5 h-5 rounded flex items-center justify-center text-[8px] bg-[#a855f7]/10 text-[#a855f7] hover:bg-[#a855f7]/25">?</button>
+                <button onClick={() => quickAssign(u.id, "slow")} title="Slow" className="w-5 h-5 rounded flex items-center justify-center text-[8px] bg-[#f59e0b]/10 text-[#f59e0b] hover:bg-[#f59e0b]/25">!</button>
+              </>
+            )}
+            {/* Undo button for completed URLs */}
+            {isCompleted && "completedStatus" in u && (
+              <button onClick={() => undoCompleted(u as CompletedUrl)} title="Move back to Active" className="text-[8px] px-1.5 py-0.5 rounded bg-[var(--color-steel)]/10 text-[var(--color-steel)] hover:bg-[var(--color-steel)]/25">Undo</button>
+            )}
+            {/* Open link */}
+            <a href={u.url} target="_blank" rel="noopener noreferrer" className="w-5 h-5 rounded flex items-center justify-center text-[var(--color-text-dim)] hover:text-[var(--color-steel)]" title="Open">
+              <svg width={12} height={12} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
+              </svg>
+            </a>
+          </div>
         </div>
       </div>
     )
@@ -269,7 +304,7 @@ export default function UrlManagerPage() {
       <div className="p-2 space-y-1 max-h-[40vh] overflow-y-auto">
         {items.length === 0 ? (
           <div className="text-[10px] text-[var(--color-text-dim)] text-center py-6">{dragItem ? "Drop here" : "No URLs"}</div>
-        ) : items.map((u) => <UrlCard key={u.id} u={u} />)}
+        ) : items.map((u) => <UrlCard key={u.id} u={u} isCompleted={false} />)}
       </div>
     </div>
   )
@@ -286,7 +321,7 @@ export default function UrlManagerPage() {
       <div className="p-2 space-y-1 max-h-[30vh] overflow-y-auto">
         {items.length === 0 ? (
           <div className="text-[10px] text-[var(--color-text-dim)] text-center py-4">Empty</div>
-        ) : items.map((u) => <UrlCard key={u.id + "-done"} u={u} />)}
+        ) : items.map((u) => <UrlCard key={u.id + "-done"} u={u} isCompleted={true} />)}
       </div>
     </div>
   )
@@ -367,8 +402,8 @@ export default function UrlManagerPage() {
               <div className="flex gap-3 flex-wrap mb-6">
                 <CompletedBox color="#22c55e" label="Confirmed Working" items={completedConfirmed} icon="&#x2705;" />
                 <CompletedBox color="#ef4444" label="Archived (Broken)" items={completedArchived} icon="&#x1F5C4;" />
-                <CompletedBox color="#a855f7" label="Flagged for Review" items={completedFlagged} icon="&#x2753;" />
                 <CompletedBox color="#f59e0b" label="Slow/Redirect Confirmed" items={completedReviewed} icon="&#x26A0;" />
+                <CompletedBox color="#a855f7" label="Flagged for Review" items={completedFlagged} icon="&#x2753;" />
               </div>
             </>
           )}
