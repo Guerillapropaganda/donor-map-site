@@ -1,0 +1,23 @@
+---
+title: "Freedom Caucus calls for full DHS funding in GOP-only bill, rejecting leadership"
+type: event
+date: 2026-04-07
+status: draft
+source: "The Hill"
+source-url: "https://thehill.com/homenews/house/5819560-freedom-caucus-dhs-reconciliation/"
+profiles:
+  - "House Freedom Caucus"
+---
+
+#event #draft
+
+## Freedom Caucus calls for full DHS funding in GOP-only bill, rejecting leadership plan
+
+**Source:** [The Hill](https://thehill.com/homenews/house/5819560-freedom-caucus-dhs-reconciliation/)
+**Date:** 2026-04-07
+
+The House Freedom Caucus on Tuesday called to fully fund the Department of Homeland Security (DHS) in a GOP-only budget reconciliation bill, rejecting leadership’s two-step plan that appeared to have the backing of President Trump. That plan would fund the bulk of the DHS, including the Coast Guard, the Transportation Security Administration, and the Federal…
+
+---
+
+**Linked Profiles:** [[House Freedom Caucus|House Freedom Caucus]]
