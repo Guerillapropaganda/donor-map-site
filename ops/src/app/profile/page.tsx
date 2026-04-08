@@ -60,6 +60,9 @@ export default function ProfilePage() {
   const [connections, setConnections] = useState<Connection[]>([])
   const [loading, setLoading] = useState(true)
   const [tab, setTab] = useState<"overview" | "sources" | "connections" | "urls">("overview")
+  const [urlOverrides, setUrlOverrides] = useState<Record<number, "ok" | "broken" | "unsure">>({})
+  const [urlSaving, setUrlSaving] = useState(false)
+  const [urlSaveMsg, setUrlSaveMsg] = useState("")
 
   // Browse state (when no profile selected)
   const [browseSearch, setBrowseSearch] = useState("")
@@ -101,6 +104,30 @@ export default function ProfilePage() {
       }).catch(() => setBrowseLoading(false))
     }
   }, [profilePath, allProfiles.length])
+
+  async function saveUrlTriage() {
+    if (Object.keys(urlOverrides).length === 0 || !profile) return
+    setUrlSaving(true)
+    setUrlSaveMsg("")
+    const changes = Object.entries(urlOverrides).map(([idx, status]) => {
+      const u = urls[Number(idx)]
+      return { url: u.url, label: u.label, tier: u.tier, profilePath: profilePath!, profile: profile.title, newStatus: status }
+    })
+    try {
+      const res = await fetch("/api/urls/save", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ changes }) })
+      const data = await res.json()
+      if (data.success) {
+        setUrlSaveMsg(`Saved: ${data.summary.archived} archived, ${data.summary.confirmed} confirmed, ${data.summary.flagged} flagged`)
+        setUrlOverrides({})
+        // Refresh URLs
+        const profileData = await fetch(`/api/profile?path=${encodeURIComponent(profilePath!)}`).then(r => r.json())
+        setUrls(profileData.urls || [])
+      } else {
+        setUrlSaveMsg("Error saving")
+      }
+    } catch { setUrlSaveMsg("Error saving") }
+    setUrlSaving(false)
+  }
 
   if (!profilePath) {
     const filtered = browseSearch.length >= 2
@@ -392,21 +419,52 @@ export default function ProfilePage() {
 
       {tab === "urls" && (
         <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
+          {Object.keys(urlOverrides).length > 0 && (
+            <div className="flex items-center gap-2 mb-3 pb-3 border-b border-[var(--color-border)]">
+              <span className="text-[10px] text-[var(--color-text-dim)]">{Object.keys(urlOverrides).length} change{Object.keys(urlOverrides).length > 1 ? "s" : ""}</span>
+              <button onClick={saveUrlTriage} disabled={urlSaving}
+                className="px-3 py-1 bg-[var(--color-green)] text-black text-[10px] font-bold rounded hover:opacity-90 disabled:opacity-50">
+                {urlSaving ? "Saving..." : "Save"}
+              </button>
+              <button onClick={() => setUrlOverrides({})}
+                className="px-3 py-1 bg-[var(--color-bg)] text-[var(--color-text-dim)] text-[10px] rounded hover:text-[var(--color-text)]">
+                Clear
+              </button>
+              {urlSaveMsg && <span className="text-[10px] text-[var(--color-green)]">{urlSaveMsg}</span>}
+            </div>
+          )}
+          {urlSaveMsg && Object.keys(urlOverrides).length === 0 && (
+            <p className="text-[10px] text-[var(--color-green)] mb-2">{urlSaveMsg}</p>
+          )}
           {urls.length === 0 ? (
             <p className="text-xs text-[var(--color-text-dim)] text-center py-8">No URLs found</p>
           ) : (
             <div className="space-y-1">
-              {urls.map((u, i) => (
-                <a key={i} href={u.url} target="_blank" rel="noopener noreferrer"
-                  className={`flex items-start gap-2 p-2 rounded text-[10px] hover:bg-[var(--color-bg-hover)] transition-colors ${u.archived ? "opacity-40" : ""}`}>
-                  <span className={`mt-1 w-2 h-2 rounded-full flex-shrink-0 ${u.archived ? "bg-[var(--color-red)]" : "bg-[var(--color-green)]"}`} />
-                  <div className="min-w-0 flex-1">
-                    <p className={`text-[var(--color-text)] hover:text-[var(--color-steel)] ${u.archived ? "line-through" : ""}`}>{u.label}</p>
-                    <p className="text-[var(--color-text-dim)] truncate">{u.url}</p>
+              {urls.map((u, i) => {
+                const override = urlOverrides[i]
+                const dotColor = override === "ok" ? "bg-[var(--color-green)]"
+                  : override === "broken" ? "bg-[var(--color-red)]"
+                  : override === "unsure" ? "bg-[#a855f7]"
+                  : u.archived ? "bg-[var(--color-red)]" : "bg-[var(--color-green)]"
+                return (
+                  <div key={i} className={`flex items-start gap-2 p-2 rounded text-[10px] hover:bg-[var(--color-bg-hover)] transition-colors group ${u.archived && !override ? "opacity-40" : ""}`}>
+                    <span className={`mt-1 w-2 h-2 rounded-full flex-shrink-0 ${dotColor}`} />
+                    <a href={u.url} target="_blank" rel="noopener noreferrer" className="min-w-0 flex-1">
+                      <p className={`text-[var(--color-text)] hover:text-[var(--color-steel)] ${u.archived && !override ? "line-through" : ""}`}>{u.label}</p>
+                      <p className="text-[var(--color-text-dim)] truncate">{u.url}</p>
+                    </a>
+                    {u.tier && <span className="text-[8px] text-[var(--color-text-dim)] flex-shrink-0">Tier {u.tier}</span>}
+                    <div className="flex gap-1 flex-shrink-0 opacity-0 group-hover:opacity-100 transition-opacity">
+                      <button title="Working" onClick={(e) => { e.stopPropagation(); setUrlOverrides(p => override === "ok" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "ok" }) }}
+                        className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "ok" ? "bg-[var(--color-green)] text-black border-[var(--color-green)]" : "border-[var(--color-border)] text-[var(--color-green)] hover:bg-[var(--color-green)] hover:text-black"}`}>✓</button>
+                      <button title="Broken" onClick={(e) => { e.stopPropagation(); setUrlOverrides(p => override === "broken" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "broken" }) }}
+                        className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "broken" ? "bg-[var(--color-red)] text-white border-[var(--color-red)]" : "border-[var(--color-border)] text-[var(--color-red)] hover:bg-[var(--color-red)] hover:text-white"}`}>✗</button>
+                      <button title="Unsure" onClick={(e) => { e.stopPropagation(); setUrlOverrides(p => override === "unsure" ? (({ [i]: _, ...rest }) => rest)(p) : { ...p, [i]: "unsure" }) }}
+                        className={`w-5 h-5 rounded text-[9px] font-bold border transition-colors ${override === "unsure" ? "bg-[#a855f7] text-white border-[#a855f7]" : "border-[var(--color-border)] text-[#a855f7] hover:bg-[#a855f7] hover:text-white"}`}>?</button>
+                    </div>
                   </div>
-                  {u.tier && <span className="text-[8px] text-[var(--color-text-dim)] flex-shrink-0">Tier {u.tier}</span>}
-                </a>
-              ))}
+                )
+              })}
             </div>
           )}
         </div>
