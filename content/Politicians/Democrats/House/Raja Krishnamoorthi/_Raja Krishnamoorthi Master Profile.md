@@ -21,7 +21,7 @@ bills-sponsored: 34
 bills-cosponsored: 578
 website: "https://krishnamoorthi.house.gov"
 phone: "202-225-3711"
-related: "[[Illinois Senate Primary Money War]]"
+related: "[[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]]"
 ---
 
 #raja-krishnamoorthi #illinois #house #democrat #oversight #tech #tiktok #india #ccp-committee #senate-2026 #maga-donors

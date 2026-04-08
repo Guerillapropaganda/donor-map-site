@@ -47,7 +47,7 @@ lei-jurisdiction: "KY"
 lei-parent: "Quantum Partners LP"
 lobbying-spend: 1515500
 lobbying-filings: 100
-related: "[[Harris-Newsom Donor Class Fracture]]"
+related: "[[Harris-Newsom Donor Class Fracture]] · [[From Soros CIO to Trump Treasury - The Class Defection]]"
 ---
 
 #donor #billionaire #democratic #progressive #dark-money #open-society

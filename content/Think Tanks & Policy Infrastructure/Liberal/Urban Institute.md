@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]]"
+related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Center for American Progress]]"
 lei: "984500C6P0VF15B8E658"
 lei-jurisdiction: "IN"
 ein: "520880375"

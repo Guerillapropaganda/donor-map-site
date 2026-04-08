@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Private Detention - AB 32]]"
+related: "[[Private Detention - AB 32]] · [[287(g) and the Sanctuary State Contradiction]]"
 ---
 
 

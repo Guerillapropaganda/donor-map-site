@@ -11,8 +11,8 @@ state: "Wisconsin"
 state-abbr: "WI"
 fec-candidate-id: "S2PA00513"
 stock-trades: 2
-donors: "[[Patrick Soon-Shiong]]"
-related: "[[Roger Marshall]]"
+donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]]"
+related: "[[Roger Marshall]] · [[Tammy Baldwin Master Profile]]"
 ---
 
 #politician #republican #senate #wisconsin #tax-policy #manufacturing #covid #russia #class-analysis #follow-the-money #gavel-power

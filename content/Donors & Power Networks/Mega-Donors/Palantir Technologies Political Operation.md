@@ -27,7 +27,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Palantir Technologies]]"
+related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]]"
 ---
 
 #palantir #surveillance #thiel #defense #ice #data #government-contracts #revolving-door #ai #immigration

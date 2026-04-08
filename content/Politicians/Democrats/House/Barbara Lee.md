@@ -21,7 +21,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-donors: "[[Tim Dunn]]"
+donors: "[[Tim Dunn]] · [[California Nurses Association]]"
 ---
 
 #barbara-lee #house #california #progressive #anti-war #oakland #class-analysis #democrat

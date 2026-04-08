@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Intra-Republican Contradiction Map]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
 ---
 
 #investigation #contradiction-map #class-analysis #both-sides #donor-first #follow-the-money #vault-infrastructure

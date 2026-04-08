@@ -21,7 +21,7 @@ court-jurisdictions:
   - "District Court, S.D. Mississippi"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. Indiana"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackrock]] · [[Comcast - NBCUniversal|Comcast]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackrock]] · [[Comcast - NBCUniversal|Comcast]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]]"
 doj-press-mentions: "264349"
 doj-components:
   - "Civil Rights Division"

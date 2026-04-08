@@ -44,7 +44,7 @@ ein: 530116130
 annual-revenue: "$175.7M"
 net-assets: "$168.1M"
 tax-year: "2023"
-related: "[[The Culture War Economy and Small Dollar Fundraising]]"
+related: "[[The Culture War Economy and Small Dollar Fundraising]] · [[Lauren Boebert]]"
 ---
 
 

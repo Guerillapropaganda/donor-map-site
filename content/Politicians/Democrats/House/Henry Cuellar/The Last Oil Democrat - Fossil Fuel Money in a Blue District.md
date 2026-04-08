@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Henry Cuellar Master Profile]]"
-related: "[[Economic Policy - Donors and Backers]]"
+related: "[[Economic Policy - Donors and Backers]] · [[Fracking and Oil Permits - Green Branding vs. Record]]"
 ---
 
 #cuellar #oil-gas #fossil-fuel #texas #border #indictment #donor-class-override

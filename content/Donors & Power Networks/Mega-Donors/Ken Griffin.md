@@ -31,7 +31,7 @@ ein: 816166962
 annual-revenue: "$230K"
 net-assets: "$2.3M"
 tax-year: "2023"
-related: "[[Donald Trump Master Profile]]"
+related: "[[Donald Trump Master Profile]] · [[Mark Kelly]]"
 ---
 
 #ken-griffin #citadel #hedge-fund #mega-donor #republican #Trump #DeSantis #libertarian

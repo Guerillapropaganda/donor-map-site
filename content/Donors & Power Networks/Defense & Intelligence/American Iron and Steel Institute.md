@@ -67,7 +67,7 @@ court-jurisdictions:
   - "District Court, S.D. Indiana"
   - "District Court, W.D. Pennsylvania"
   - "United States Court of International Trade"
-related: "[[Trade and Tariffs - Donors and Backers]]"
+related: "[[Trade and Tariffs - Donors and Backers]] · [[Mike Bost]]"
 ---
 
 

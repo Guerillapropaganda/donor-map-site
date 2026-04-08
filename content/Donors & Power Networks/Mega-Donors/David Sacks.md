@@ -57,8 +57,8 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, N.D. Ohio"
   - "District Court, S.D. New York"
-donors: "[[World Liberty Financial]]"
-related: "[[The 2024 Tech Billionaire Network]]"
+donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]]"
+related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]]"
 ---
 
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast

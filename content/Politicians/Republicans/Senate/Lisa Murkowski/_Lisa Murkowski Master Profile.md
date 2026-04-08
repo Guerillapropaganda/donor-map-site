@@ -13,7 +13,7 @@ issues:
   - "Energy & Climate"
 total-received: "$1,637,930"
 fec-candidate-id: "S4AK00099"
-donors: "[[AFGE - American Federation of Government Employees]]"
+donors: "[[AFGE - American Federation of Government Employees]] · [[ConocoPhillips]]"
 related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
 ---
 

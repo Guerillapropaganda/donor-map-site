@@ -17,7 +17,7 @@ subawards-received: 30
 subawards-received-amount: 14071246
 top-federal-agency: "Department of Health and Human Services"
 top-naics-code: "541611"
-related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]]"
+related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and Tech - Donors and Backers]]"
 ---
 
 #crypto #payments #fairshake #sec-lawsuit #regulatory-capture

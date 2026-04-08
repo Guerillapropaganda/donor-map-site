@@ -17,7 +17,7 @@ federal-register-mentions: 1
 last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Federal Election Commission"
-related: "[[Trump Victory]]"
+related: "[[Trump Victory]] · [[The Culture War Economy and Small Dollar Fundraising]]"
 ---
 
 #winred #republican #fundraising #small-dollar #dark-patterns #online

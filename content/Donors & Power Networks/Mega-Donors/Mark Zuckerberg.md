@@ -23,7 +23,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Cory Booker]]"
+related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]]"
 ---
 
 #zuckerberg #meta #facebook #tech #mega-donor #trump-realignment #lobbying #antitrust #ai #section-230

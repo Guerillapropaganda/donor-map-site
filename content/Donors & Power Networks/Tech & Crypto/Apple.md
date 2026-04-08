@@ -45,7 +45,7 @@ regulatory-agencies:
   - "Federal Energy Regulatory Commission"
   - "Federal Reserve System"
   - "Food and Drug Administration"
-related: "[[Amy Klobuchar]]"
+related: "[[Amy Klobuchar]] · [[The Antitrust Crusade and Legislative Stalling]]"
 ---
 
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy

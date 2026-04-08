@@ -18,7 +18,7 @@ bioguide-id: "A000383"
 stock-trades: 43
 total-received: "$335,864"
 fec-candidate-id: "H2AR03176"
-donors: "[[Walmart - Walton Family]]"
+donors: "[[Walmart - Walton Family]] · [[Tyson Foods]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
 ---
 

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Ben Shapiro]] · [[Matt Walsh]] · [[Steven Crowder]] · [[Lex Fridman]] · [[_Media Pipeline Framework]] · [[Dave Rubin]]"
+related: "[[Ben Shapiro]] · [[Matt Walsh]] · [[Steven Crowder]] · [[Lex Fridman]] · [[_Media Pipeline Framework]] · [[Dave Rubin]] · [[Rumble]]"
 donors: "[[Wilks Brothers]]"
 ---
 

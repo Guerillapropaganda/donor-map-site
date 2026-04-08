@@ -25,7 +25,7 @@ court-cases: 1
 last-enriched: "2026-04-06"
 court-jurisdictions:
   - "District Court, N.D. California"
-related: "[[The Judiciary Committee and Libertarian Constitutionalism]]"
+related: "[[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Tech Privacy Advocacy]]"
 ---
 
 #google #alphabet #tech #lobbying #antitrust #surveillance #advertising #data #ai #revolving-door #monopoly #eu-lobbying #california #pac #dark-money #class-analysis #follow-the-money

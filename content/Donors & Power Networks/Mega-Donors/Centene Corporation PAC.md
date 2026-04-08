@@ -10,7 +10,7 @@ entity-type: "PAC"
 issues:
   - "Healthcare"
   - "Social Safety Net"
-related: "[[Roy Cooper Master Profile]]"
+related: "[[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]]"
 ---
 
 #centene #pac #healthcare #medicaid #managed-care #bipartisan #revolving-door #overbilling

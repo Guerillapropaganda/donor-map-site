@@ -11,7 +11,7 @@ issues:
   - "Healthcare"
   - "Social Safety Net"
 federal-contracts: "5976"
-related: "[[New Hampshire 2026 Senate Race]]"
+related: "[[New Hampshire 2026 Senate Race]] · [[Thom Tillis Master Profile]]"
 ---
 
 #pharma #industry-bloc #lobbying #drug-pricing #patent #medicare #aca

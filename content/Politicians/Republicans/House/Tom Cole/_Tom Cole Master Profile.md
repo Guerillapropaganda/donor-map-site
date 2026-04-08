@@ -22,7 +22,7 @@ top-donors:
   - "Lockheed Martin"
 total-received: "$501,840"
 fec-candidate-id: "H6MO06013"
-related: "[[The Defense Appropriations Pipeline - Mississippi Military Spending]]"
+related: "[[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]]"
 ---
 
 #tom-cole #republican #oklahoma #house #committee-chair #appropriations #defense #energy #oil-gas #tribal #chickasaw #phase-6-gavel-power

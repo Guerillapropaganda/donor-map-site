@@ -32,7 +32,7 @@ ein: 208802884
 annual-revenue: "$60.7M"
 net-assets: "$23.2M"
 tax-year: "2023"
-related: "[[Mark Kelly]]"
+related: "[[Mark Kelly]] · [[Chris Murphy Master Profile]]"
 ---
 
 

@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "_Amy Acton Master Profile"
-related: "[[The Labor Coalition and What Unions Expect]]"
+related: "[[The Labor Coalition and What Unions Expect]] · [[Amy Acton Master Profile]]"
 ---
 
 

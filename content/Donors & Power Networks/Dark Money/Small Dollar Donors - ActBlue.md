@@ -12,7 +12,7 @@ politicians-funded:
   - "Alexandria Ocasio-Cortez"
 issues:
   - "Infrastructure"
-related: "[[Saikat Chakrabarti Master Profile]]"
+related: "[[Saikat Chakrabarti Master Profile]] · [[The Small-Dollar Model and the Anti-Donor Experiment]]"
 ---
 
 #actblue #small-dollar #democratic #grassroots #online #platform #conduit #infrastructure #winred

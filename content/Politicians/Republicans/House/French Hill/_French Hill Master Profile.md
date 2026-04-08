@@ -28,7 +28,7 @@ bills-sponsored: 24
 bills-cosponsored: 95
 website: "https://hill.house.gov"
 phone: "202-225-2506"
-donors: "[[Citigroup]]"
+donors: "[[Citigroup]] · [[Bank of America]]"
 related: "[[The Wall Street Senator - Finance Industry Alignment]]"
 ---
 

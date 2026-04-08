@@ -13,7 +13,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Humana]]"
+related: "[[Humana]] · [[The Insurance Industry Public Option Kill]]"
 ---
 
 #anthem #elevance #insurance #aca #medicaid #managed-care #lobbying

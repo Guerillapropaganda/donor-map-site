@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
-related: "[[Louisiana 2026 Senate Race]]"
+related: "[[Louisiana 2026 Senate Race]] · [[Michael Whatley Master Profile]]"
 ---
 
 #anti-abortion #super-pac #republican-kingmaker #reproductive-rights #electoral-power

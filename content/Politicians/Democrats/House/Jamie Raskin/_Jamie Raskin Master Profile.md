@@ -21,7 +21,7 @@ bills-sponsored: 18
 bills-cosponsored: 265
 website: "https://raskin.house.gov"
 phone: "202-225-5341"
-donors: "[[UNITE HERE]]"
+donors: "[[UNITE HERE]] · [[Demand Justice]]"
 related: "[[The Oversight Chair and the Investigation Theater]]"
 ---
 

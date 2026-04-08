@@ -15,7 +15,7 @@ issues:
   - "Israel & Foreign Policy"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Defense Industry Bloc]]"
+related: "[[Defense Industry Bloc]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]]"
 ---
 
 

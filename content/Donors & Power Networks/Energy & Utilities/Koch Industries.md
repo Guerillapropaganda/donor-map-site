@@ -25,7 +25,7 @@ tax-year: "2023"
 federal-awards-total: 0
 federal-contracts-count: 10
 federal-grants-count: 0
-related: "[[Eli Lilly]]"
+related: "[[Eli Lilly]] · [[ALEC Dark Money Protection Machine]]"
 ---
 
 #koch-industries #energy #oil-gas #refining #lobbying #dark-money #deregulation #epa #climate #labor #class-analysis #follow-the-money #tcja #clean-power-plan

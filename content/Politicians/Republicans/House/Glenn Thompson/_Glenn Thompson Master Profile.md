@@ -16,7 +16,7 @@ issues:
   - "Agriculture"
 total-received: "$1,227,441"
 fec-candidate-id: "H8PA05071"
-donors: "[[IBEW - International Brotherhood of Electrical Workers]]"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]]"
 related: "[[John Boozman]]"
 ---
 

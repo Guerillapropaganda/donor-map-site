@@ -18,7 +18,7 @@ issues:
 ein: "833298146"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
-related: "[[JCRC Bay Area]]"
+related: "[[JCRC Bay Area]] · [[AIPAC and the Progressive Purge]]"
 ---
 
 

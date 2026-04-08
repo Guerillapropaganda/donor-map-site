@@ -12,7 +12,7 @@ issues:
   - "Technology"
   - "Labor & Workers"
   - "Dark Money & Campaign Finance"
-related: "[[Ohio Democratic Party]]"
+related: "[[Ohio Democratic Party]] · [[Pod Save America]]"
 ---
 
 #democratic #donor-network #bundling #wall-street #hollywood #tech #labor #dark-money #super-pac #class-analysis #follow-the-money

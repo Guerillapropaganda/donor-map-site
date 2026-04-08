@@ -15,7 +15,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
 ofac-programs:
   - "NPWMD] [IFSR"
-related: "[[American Petroleum Institute]]"
+related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]]"
 ---
 
 #petrochemical #plastics #refining #cancer-alley #louisiana #texas #environmental-justice

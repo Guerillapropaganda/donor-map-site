@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Sources Master Node]]"
+related: "[[Sources Master Node]] · [[Analytical Quality Audit - March 2026]]"
 ---
 
 tags: #story

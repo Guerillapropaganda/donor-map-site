@@ -47,7 +47,7 @@ regulatory-agencies:
 federal-awards-total: 739664294
 federal-contracts-count: 25
 federal-grants-count: 7
-related: "[[The Agriculture Committee and Farm Bill Politics]]"
+related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]]"
 ---
 
 #ford #auto #detroit #michigan #manufacturing #ev #uaw #trade

@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]]"
+related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Adelson 250M Republican Kingmaker Pledge]]"
 ---
 
 #2028-election #presidential #race-frame #donor-networks

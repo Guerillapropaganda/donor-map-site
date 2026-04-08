@@ -21,8 +21,8 @@ top-donors:
   - "Apollo Global Management"
 total-received: "$6,801,272"
 fec-candidate-id: "S0UT00165"
-donors: "[[Eric Schmidt]]"
-related: "[[John Barrasso]]"
+donors: "[[Eric Schmidt]] · [[Tim Dunn]]"
+related: "[[John Barrasso]] · [[Chip Roy Master Profile]]"
 ---
 
 #mike-lee #senate #utah #federalist-society #antitrust #tech-deference #oil-gas #public-lands #january-6 #class-analysis

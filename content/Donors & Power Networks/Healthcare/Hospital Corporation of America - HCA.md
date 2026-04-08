@@ -9,7 +9,7 @@ sector: "Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-related: "[[Humana]]"
+related: "[[Humana]] · [[The Medicare Fraud Governor and Senate Campaign]]"
 ---
 
 #hca #healthcare #hospitals #for-profit #private-equity #frist #tennessee

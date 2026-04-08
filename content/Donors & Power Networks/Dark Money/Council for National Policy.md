@@ -28,7 +28,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(3)"
 total-revenue: 4179564
 total-assets: 3694941
-related: "[[DeVos Family]]"
+related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]]"
 ---
 
 #cnp #dark-money #conservative #christian-right #networking #secretive #strategy

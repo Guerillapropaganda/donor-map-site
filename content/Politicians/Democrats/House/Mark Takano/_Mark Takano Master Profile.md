@@ -16,7 +16,7 @@ leadership-roles:
   - "Ranking Member"
 total-received: "$524,547"
 fec-candidate-id: "H2CA43245"
-donors: "[[National Nurses United]]"
+donors: "[[National Nurses United]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
 ---
 
 

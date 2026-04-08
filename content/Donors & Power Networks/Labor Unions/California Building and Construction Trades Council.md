@@ -14,7 +14,7 @@ issues:
   - "Infrastructure"
 lobbying-spend: 10479974
 lobbying-filings: 106
-related: "[[Antonio Villaraigosa Master Profile]]"
+related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]]"
 ---
 
 

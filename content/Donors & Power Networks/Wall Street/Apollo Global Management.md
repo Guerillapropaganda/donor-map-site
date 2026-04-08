@@ -53,7 +53,7 @@ sec-form-types:
   - "S-8"
   - "S-8 POS"
   - "SCHEDULE 13G/A"
-related: "[[Mike Lee]]"
+related: "[[Mike Lee]] · [[The Education Committee and For-Profit College Pipeline]]"
 ---
 
 #apollo #private-equity #wall-street #university-of-phoenix #for-profit-education #healthcare #insurance

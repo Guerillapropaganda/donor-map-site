@@ -25,7 +25,7 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "District Court, S.D. Iowa"
   - "District Court, W.D. Michigan"
-related: "[[Raphael Warnock Master Profile]]"
+related: "[[Raphael Warnock Master Profile]] · [[The Moral Authority Brand and the Corporate Democrat Question]]"
 ---
 
 #healthcare #sector #lobbying #bipartisan #pharma #insurance #hospitals #aca #medicare #drug-pricing #class-analysis #follow-the-money

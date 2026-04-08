@@ -13,7 +13,7 @@ politicians-funded:
 issues:
   - "Infrastructure"
   - "Dark Money & Campaign Finance"
-related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]]"
+related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]]"
 ---
 
 #donor #private-equity #infrastructure #latin-america #cuba #revolving-door #dark-money #class-analysis #follow-the-money

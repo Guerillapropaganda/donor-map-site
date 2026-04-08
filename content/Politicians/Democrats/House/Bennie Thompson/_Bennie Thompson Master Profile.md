@@ -21,7 +21,7 @@ bills-sponsored: 14
 bills-cosponsored: 355
 website: "https://benniethompson.house.gov"
 phone: "202-225-5876"
-donors: "[[IBEW - International Brotherhood of Electrical Workers]]"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]]"
 ---
 
 

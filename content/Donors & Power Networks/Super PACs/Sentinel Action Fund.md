@@ -12,7 +12,7 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
 total-revenue: 2903054
 total-assets: 15309069
-related: "[[Marble Freedom Trust]]"
+related: "[[Marble Freedom Trust]] · [[DonorsTrust]]"
 ---
 
 #sentinel-action-fund #super-pac #heritage-foundation #republican #mega-donor #judicial #2022-midterms

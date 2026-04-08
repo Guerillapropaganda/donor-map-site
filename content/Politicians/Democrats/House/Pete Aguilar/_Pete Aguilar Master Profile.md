@@ -14,7 +14,7 @@ committees:
   - "Appropriations"
 total-received: "$3,026,029"
 fec-candidate-id: "H2CA31125"
-donors: "[[AFSCME - American Federation of State County and Municipal Employees]]"
+donors: "[[AFSCME - American Federation of State County and Municipal Employees]] · [[Blue Shield of California]]"
 ---
 
 #aguilar #california #caucus-chair #leadership #inland-empire #january-6 #moderate #appropriations #logistics #dccc

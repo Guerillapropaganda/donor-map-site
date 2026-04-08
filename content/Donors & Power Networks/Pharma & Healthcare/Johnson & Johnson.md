@@ -27,7 +27,7 @@ federal-awards-total: 41140658
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
-related: "[[Moderna]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]]"
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing

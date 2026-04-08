@@ -17,7 +17,7 @@ issues:
 top-donors:
   - "Lockheed Martin"
   - "Boeing"
-donors: "[[Great Lakes Conservatives Fund]]"
+donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]]"
 related: "[[The Armed Services Committee and Progressive Defense Paradox]]"
 ---
 

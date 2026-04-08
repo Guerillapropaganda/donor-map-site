@@ -21,7 +21,7 @@ issues:
   - "Antitrust & Monopoly"
 total-received: "$1,274,233"
 fec-candidate-id: "H4CA16049"
-donors: "[[Tech Industry]]"
+donors: "[[Tech Industry]] · [[Google - Alphabet]]"
 related: "[[Brian Babin]]"
 ---
 

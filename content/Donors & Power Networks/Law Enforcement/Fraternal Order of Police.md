@@ -45,7 +45,7 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
   - "SC 14F1"
-related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]]"
+related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]]"
 ---
 
 #fop #police #law-enforcement #union #qualified-immunity #reform-opposition

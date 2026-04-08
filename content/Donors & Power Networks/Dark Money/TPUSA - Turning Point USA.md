@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
-related: "[[The Insurrection Investment - Who Funded January 6th and What They Got]]"
+related: "[[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Charlie Kirk]]"
 ---
 
 #dark-money #conservative-youth #charlie-kirk #maga #infrastructure

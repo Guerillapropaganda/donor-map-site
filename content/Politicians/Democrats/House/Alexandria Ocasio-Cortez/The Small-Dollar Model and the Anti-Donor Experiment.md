@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexandria Ocasio-Cortez Master Profile]]
-related: "[[The Green New Deal - From Resolution to Reality]]"
+related: "[[The Green New Deal - From Resolution to Reality]] · [[The Endorsement Economy - Courage to Change PAC]]"
 ---
 
 

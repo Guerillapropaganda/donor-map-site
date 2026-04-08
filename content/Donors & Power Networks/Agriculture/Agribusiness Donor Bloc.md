@@ -9,7 +9,7 @@ sector: "Agriculture"
 entity-type: "Individual Donor"
 issues:
   - "Agriculture"
-related: "[[Joni Ernst Master Profile]]"
+related: "[[Joni Ernst Master Profile]] · [[The Agribusiness Senator and the Family Farm Myth]]"
 ---
 
 #agribusiness #agriculture #industry-bloc #subsidies #farm-bill #lobbying #consolidation

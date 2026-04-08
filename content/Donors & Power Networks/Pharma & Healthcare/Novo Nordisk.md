@@ -32,7 +32,7 @@ court-cases: 9469
 court-jurisdictions:
   - "District Court, D. New Jersey"
   - "District Court, E.D. Pennsylvania"
-related: "[[Merck]]"
+related: "[[Merck]] · [[Gilead Sciences]]"
 ---
 
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark

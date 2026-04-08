@@ -33,8 +33,8 @@ bills-sponsored: 7
 bills-cosponsored: 27
 website: "https://jasonsmith.house.gov"
 phone: "202-225-4404"
-donors: "[[American Gaming Association]]"
-related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
+donors: "[[American Gaming Association]] · [[National Association of Manufacturers]]"
+related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[The Ways and Means Gavel and Corporate Tax Architecture]]"
 ---
 
 

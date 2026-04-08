@@ -16,7 +16,7 @@ politicians-funded:
   - "Martin Heinrich"
   - "Debbie Stabenow"
   - "Rosa DeLauro"
-related: "[[Economic Policy Institute]]"
+related: "[[Economic Policy Institute]] · [[Rosa DeLauro]]"
 ---
 
 #gates #microsoft #philanthropy #education #health #charter-schools #climate

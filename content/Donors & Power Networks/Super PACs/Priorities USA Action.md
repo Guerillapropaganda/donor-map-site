@@ -9,7 +9,7 @@ sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Emilys List]]"
+related: "[[Emilys List]] · [[Democratic Senatorial Campaign Committee]]"
 ---
 
 #priorities-usa #super-pac #democratic #obama #clinton #biden #digital #advertising #dark-money

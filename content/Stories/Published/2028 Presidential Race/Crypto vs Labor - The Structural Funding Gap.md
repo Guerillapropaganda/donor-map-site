@@ -8,7 +8,7 @@ parent: null
 issues:
   - "Technology"
   - "Labor & Workers"
-related: "[[Georgia 2026 Senate Race]]"
+related: "[[Georgia 2026 Senate Race]] · [[Illinois House Primaries 2026 - The PAC Laboratory]]"
 ---
 
 #2028-election #crypto #labor #fairshake #funding-gap #class-analysis

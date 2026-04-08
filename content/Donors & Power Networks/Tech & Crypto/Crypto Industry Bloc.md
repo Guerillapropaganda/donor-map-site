@@ -21,7 +21,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Crypto vs Labor - The Structural Funding Gap]]"
+related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[The 2024 Tech Billionaire Network]]"
 ---
 
 

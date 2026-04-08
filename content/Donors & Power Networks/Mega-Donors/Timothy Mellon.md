@@ -15,7 +15,7 @@ issues:
   - "Immigration"
 lobbying-spend: 1860000
 lobbying-filings: 51
-related: "[[Mitch McConnell Master Profile]]"
+related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]]"
 ---
 
 

@@ -8,7 +8,7 @@ parent: null
 total-received: "$5,052,480"
 fec-candidate-id: "H0NY15160"
 donors: "[[AFSCME - American Federation of State County and Municipal Employees]]"
-related: "[[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]]"
+related: "[[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[NORPAC]]"
 ---
 
 #master-profile #democrat #house #bronx #new-york #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #crypto #class-contradiction

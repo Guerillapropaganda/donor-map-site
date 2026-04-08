@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
-related: "[[National Progressive Donor Networks]]"
+related: "[[National Progressive Donor Networks]] · [[Sheldon Whitehouse]]"
 ---
 
 #donor-node #dark-money #democrat #fiscal-sponsorship #infrastructure #class-analysis #donor

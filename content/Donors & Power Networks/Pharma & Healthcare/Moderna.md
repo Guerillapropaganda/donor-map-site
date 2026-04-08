@@ -22,7 +22,7 @@ top-naics-code: "325412"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
-related: "[[Merck]]"
+related: "[[Merck]] · [[Joe Biden Master Profile]]"
 ---
 
 #moderna #pharma #mrna #covid #vaccine #pricing #nih #public-funding #patent

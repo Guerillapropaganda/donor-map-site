@@ -34,7 +34,7 @@ sec-form-types:
   - "N-CSRS"
   - "PART II"
   - "PX14A6G"
-related: "[[The Judiciary Committee and Tech Accountability]]"
+related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]]"
 ---
 
 #meta #facebook #tech #lobbying #privacy #section-230 #advertising #zuckerberg #antitrust #ai #surveillance #class-analysis #follow-the-money #revolving-door

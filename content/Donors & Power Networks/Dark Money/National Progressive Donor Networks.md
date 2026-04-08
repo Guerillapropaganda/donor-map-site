@@ -11,7 +11,7 @@ politicians-funded:
   - "Tom Steyer"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Democratic Donor Network]]"
+related: "[[Democratic Donor Network]] · [[Zach Wahls Master Profile]]"
 ---
 
 #progressive #donor-network #democracy-alliance #soros #steyer #dark-money

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Joe Scarborough]]"
 ---
 
 #media-pipeline #centrist #msnbc #ms-now #republican-apostate #revolving-door #bush-administration #mccain-campaign

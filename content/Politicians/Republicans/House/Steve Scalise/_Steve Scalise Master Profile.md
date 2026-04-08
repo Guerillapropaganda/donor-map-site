@@ -14,7 +14,7 @@ issues:
   - "Energy & Climate"
 total-received: "$7,843,280"
 fec-candidate-id: "H0LA01087"
-donors: "[[American Gaming Association]]"
+donors: "[[American Gaming Association]] · [[Valero Energy]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
 ---
 

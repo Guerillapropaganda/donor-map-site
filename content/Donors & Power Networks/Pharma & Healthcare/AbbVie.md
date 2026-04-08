@@ -27,7 +27,7 @@ total-assets: 217738010
 federal-awards-total: 378082
 federal-contracts-count: 20
 federal-grants-count: 0
-related: "[[Moderna]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]]"
 ---
 
 #abbvie #pharma #humira #drug-pricing #patent #lobbying

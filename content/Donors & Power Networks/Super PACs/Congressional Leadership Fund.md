@@ -21,7 +21,7 @@ ein: "852656340"
 nonprofit-status: "501(c)(4)"
 total-revenue: 9647510
 total-assets: 714325
-related: "[[Senate Majority PAC]]"
+related: "[[Senate Majority PAC]] · [[Mike Lawler Master Profile]]"
 ---
 
 #donor-node #super-pac #republican #house #leadership-pac #dark-money #american-action-network #class-analysis #follow-the-money

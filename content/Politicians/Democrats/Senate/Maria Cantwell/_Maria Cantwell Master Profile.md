@@ -27,7 +27,7 @@ phone: "202-224-3441"
 stock-trades: 6
 stock-trade-tickers:
   - "RNWK"
-donors: "[[Jeff Bezos]]"
+donors: "[[Jeff Bezos]] · [[Comcast - NBCUniversal]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
 ---
 

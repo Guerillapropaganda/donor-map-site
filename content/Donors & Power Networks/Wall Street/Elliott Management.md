@@ -13,7 +13,7 @@ issues:
   - "Energy & Climate"
   - "Israel & Foreign Policy"
 total-political-spend: "$707"
-related: "[[Schwarzman and Singer Fund Every Republican Faction]]"
+related: "[[Schwarzman and Singer Fund Every Republican Faction]] · [[Mitt Romney]]"
 ---
 
 #hedge-fund #paul-singer #republican #national-security #war-hawk #fossil-fuel #israel #neoconservative #scotus #activist-investor #class-analysis #follow-the-money

@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]"
+related: "[[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Doug Collins]]"
 ---
 
 #trump #military #defense #veterans #VA #policy-node

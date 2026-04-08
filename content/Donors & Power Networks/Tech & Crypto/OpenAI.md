@@ -21,7 +21,7 @@ subawards-issued: 1
 subawards-issued-amount: 19500000
 subawards-received: 1
 subawards-received-amount: 19500000
-related: "[[AI Deregulation Super PAC - Leading the Future]]"
+related: "[[AI Deregulation Super PAC - Leading the Future]] · [[Crypto vs. Institutional Democrats in Illinois]]"
 ---
 
 #openai #ai #chatgpt #altman #microsoft #regulation #nonprofit-conversion

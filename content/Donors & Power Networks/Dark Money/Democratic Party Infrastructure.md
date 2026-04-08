@@ -25,7 +25,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Ohio Democratic Party]]"
+related: "[[Ohio Democratic Party]] · [[Center for American Progress]]"
 ---
 
 #democratic #party #infrastructure #dnc #dccc #dscc #actblue #organizing

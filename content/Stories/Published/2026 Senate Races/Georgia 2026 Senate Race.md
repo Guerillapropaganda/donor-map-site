@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Illinois House Primaries 2026 - The PAC Laboratory]]"
 ---
 
 #2026-election #senate #georgia #race-frame #analysis

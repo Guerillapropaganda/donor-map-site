@@ -53,7 +53,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Mithril Capital]]"
+related: "[[Mithril Capital]] · [[Ajay Royan]]"
 ---
 
 #narya-capital #jd-vance #venture-capital #thiel #tech #ohio #appalachia #defense #carried-interest #conflict-of-interest

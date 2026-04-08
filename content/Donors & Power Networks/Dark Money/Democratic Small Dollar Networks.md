@@ -15,7 +15,7 @@ politicians-funded:
   - "Joe Biden"
   - "Nancy Pelosi"
   - "Chuck Schumer"
-related: "[[Small Dollar Donors - ActBlue]]"
+related: "[[Small Dollar Donors - ActBlue]] · [[Ohio 2026 Special Senate Election]]"
 ---
 
 #small-dollar #actblue #democratic #grassroots #progressive #fundraising #campaign-finance #winred

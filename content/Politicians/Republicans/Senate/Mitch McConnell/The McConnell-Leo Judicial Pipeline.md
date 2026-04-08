@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Mitch McConnell Master Profile]]
-related: "[[Susan Collins Master Profile]]"
+related: "[[Susan Collins Master Profile]] · [[The Kavanaugh Vote and the Donor Realignment]]"
 ---
 
 

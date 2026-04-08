@@ -28,7 +28,7 @@ regulatory-agencies:
   - "International Trade Administration"
 lei: "5299006DUWIX3AEL2A58"
 lei-jurisdiction: "US-DE"
-related: "[[Tom Cotton Master Profile]]"
+related: "[[Tom Cotton Master Profile]] · [[Martin Heinrich Master Profile]]"
 ---
 
 #defense #industry #military #ndaa #pentagon #bipartisan

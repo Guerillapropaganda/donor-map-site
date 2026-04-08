@@ -24,7 +24,7 @@ court-jurisdictions:
   - "District Court, N.D. Florida"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
-related: "[[Senate Leadership Fund]]"
+related: "[[Senate Leadership Fund]] · [[Dan Osborn Master Profile]]"
 ---
 
 #donor-node #super-pac #democratic #senate #schumer #dark-money #leadership-pac #donor

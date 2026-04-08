@@ -28,7 +28,7 @@ ein: 753148958
 annual-revenue: "$186.4M"
 net-assets: "$45.0M"
 tax-year: "2023"
-related: "[[Senate Majority PAC]]"
+related: "[[Senate Majority PAC]] · [[Jodey Arrington]]"
 ---
 
 #donor-node #koch-network #dark-money #super-pac #501c4 #astroturf #state-capture #class-analysis #follow-the-money

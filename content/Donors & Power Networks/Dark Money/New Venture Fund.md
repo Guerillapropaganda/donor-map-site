@@ -54,7 +54,7 @@ sec-form-types:
   - "S-1/A"
   - "S-4"
   - "S-4/A"
-related: "[[National Progressive Donor Networks]]"
+related: "[[National Progressive Donor Networks]] · [[Center for American Progress]]"
 ---
 
 #new-venture-fund #arabella #dark-money #liberal #501c3 #fiscal-sponsorship

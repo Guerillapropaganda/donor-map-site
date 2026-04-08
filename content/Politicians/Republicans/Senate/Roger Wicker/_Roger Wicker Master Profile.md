@@ -25,8 +25,8 @@ stock-trades: 8
 stock-trade-tickers:
   - "GDV"
   - "BIF"
-donors: "[[Raytheon (RTX Corporation)]]"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
+donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[The Armed Services Ranking Member and Defense Bipartisanship]]"
 ---
 
 

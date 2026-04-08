@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Supply-Side Framework - Who It Helps]]"
 ---
 
 

@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 sector: "Agriculture"
 entity-type: "Individual Donor"
-related: "[[Labor - Donors and Backers]]"
+related: "[[Labor - Donors and Backers]] · [[Immigration - Donors and Backers]]"
 ---
 
 #agricultural-lobby #california-politics #farm-interests #worker-opposition #environmental-regulation

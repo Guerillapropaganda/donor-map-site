@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Lindsey Graham Master Profile]]
-related: "[[Tommy Tuberville Master Profile]]"
+related: "[[Tommy Tuberville Master Profile]] · [[The Trump Conversion and the Defense Contractor Payday]]"
 ---
 
 

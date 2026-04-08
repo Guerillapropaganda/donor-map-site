@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
   - "Ted Cruz"
   - "Steve Bannon"
-related: "[[Steve Bannon Master Profile]]"
+related: "[[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]]"
 ---
 
 

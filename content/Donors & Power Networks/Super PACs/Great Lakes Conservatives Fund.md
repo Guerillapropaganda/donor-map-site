@@ -15,7 +15,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "DRCONGO"
-related: "[[Michigan 2026 Senate Race]]"
+related: "[[Michigan 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]]"
 ---
 
 #donor #super-pac #great-lakes #michigan #mike-rogers #single-candidate-pac #defense-aligned

@@ -13,7 +13,7 @@ politicians-funded:
   - "Elizabeth Warren"
 issues:
   - "Technology"
-related: "[[Trump 2024 Campaign]]"
+related: "[[Trump 2024 Campaign]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 
 #donor #fairshake #crypto #super-pac #class-analysis #follow-the-money #deregulation #2024-election #2026-midterms #coinbase #a16z #ripple

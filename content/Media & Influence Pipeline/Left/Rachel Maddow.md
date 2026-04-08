@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Pod Save America]] · [[Sam Seder]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]]"
+related: "[[Pod Save America]] · [[Sam Seder]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Briahna Joy Gray]]"
 opposes: "[[Laura Ingraham]]"
 donors: "[]"
 ---

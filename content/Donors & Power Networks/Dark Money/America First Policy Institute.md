@@ -17,7 +17,7 @@ ein: 854202763
 annual-revenue: "$27.3M"
 net-assets: "$9.9M"
 tax-year: "2023"
-related: "[[Federalist Society]]"
+related: "[[Federalist Society]] · [[Linda McMahon Master Profile]]"
 ---
 
 #afpi #trump #think-tank #project-2025 #transition #dark-money #maga

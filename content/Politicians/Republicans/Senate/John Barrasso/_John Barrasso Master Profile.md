@@ -19,7 +19,7 @@ bills-cosponsored: 196
 website: "https://www.barrasso.senate.gov"
 phone: "202-224-6441"
 stock-trades: 1
-donors: "[[Marathon Petroleum]]"
+donors: "[[Marathon Petroleum]] · [[ExxonMobil]]"
 ---
 
 #politician #republican #senate #wyoming #energy #fossil-fuel #climate #class-analysis #follow-the-money #gavel-power

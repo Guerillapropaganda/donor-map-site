@@ -50,7 +50,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Amy Acton Master Profile]]"
+related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]]"
 ---
 
 #labor-union #ohio-politics #democratic-donor #working-class #labor-federation

@@ -47,7 +47,7 @@ regulatory-agencies:
   - "Federal Motor Carrier Safety Administration"
   - "Securities and Exchange Commission"
   - "Transportation Department"
-related: "[[Intra-Republican Contradiction Map]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 
 

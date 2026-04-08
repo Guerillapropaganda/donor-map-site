@@ -28,7 +28,7 @@ ein: "352841377"
 nonprofit-status: "501(c)(4)"
 total-revenue: 2327
 total-assets: 51394
-related: "[[Ritchie Torres]]"
+related: "[[Ritchie Torres]] · [[Jamaal Bowman Master Profile]]"
 ---
 
 #norpac #israel-lobby #pro-israel #pac #bundling #new-jersey #bipartisan #dinner-fundraiser #follow-the-money

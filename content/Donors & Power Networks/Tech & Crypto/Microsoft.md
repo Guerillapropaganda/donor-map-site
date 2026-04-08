@@ -51,7 +51,7 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Housing and Urban Development Department"
   - "National Oceanic and Atmospheric Administration"
-related: "[[The Judiciary Committee and Tech Accountability]]"
+related: "[[The Judiciary Committee and Tech Accountability]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]]"
 ---
 
 #microsoft #tech #lobbying #ai #cloud #antitrust #government-contracts #defense

@@ -2,7 +2,7 @@
 title: "AFSCME - American Federation of State County and Municipal Employees"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -40,6 +40,7 @@ sec-form-types:
   - "N-CSR"
   - "N-CSRS"
   - "PRE 14A"
+related: "[[Ritchie Torres]]"
 ---
 
 

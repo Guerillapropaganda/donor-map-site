@@ -18,7 +18,7 @@ issues:
 top-donors:
   - "Fanjul Family - Florida Crystals"
   - "AIPAC"
-donors: "[[MasTec - Mas Canosa Family]]"
+donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
 ---
 

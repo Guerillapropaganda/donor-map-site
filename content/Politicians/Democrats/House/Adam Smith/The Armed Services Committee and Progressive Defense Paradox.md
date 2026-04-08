@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Adam Smith Master Profile]]"
-related: "[[The Oversight Committee and Federal Workforce]]"
+related: "[[The Oversight Committee and Federal Workforce]] · [[The Homeland Security Committee and Mississippi Delta]]"
 ---
 
 #adam-smith #armed-services #defense #washington #boeing #progressive #military

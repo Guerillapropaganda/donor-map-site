@@ -35,7 +35,7 @@ doj-components:
   - 'USAO - Ohio, Northern'
   - 'USAO - Ohio, Southern'
 opposes: '[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]]'
-related: "[[The Culture War Economy - Who Profits From Division]]"
+related: "[[The Culture War Economy - Who Profits From Division]] · [[Vivek Ramaswamy Master Profile]]"
 ---
 
 

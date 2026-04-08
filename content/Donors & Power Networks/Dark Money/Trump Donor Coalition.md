@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]]"
+related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]]"
 ---
 
 #donor-node #trump #donor-coalition #mega-donor #maga #realignment #small-dollar #patron-client #dark-money #class-analysis #follow-the-money

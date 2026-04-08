@@ -12,7 +12,7 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
-related: "[[David Sacks Master Profile]]"
+related: "[[David Sacks Master Profile]] · [[The AI-Crypto Czar and the Portfolio Conflict]]"
 ---
 
 #vc #david-sacks #crypto #ai #conflict-of-interest #trump-czar

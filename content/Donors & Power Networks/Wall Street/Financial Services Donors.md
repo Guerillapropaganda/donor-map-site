@@ -16,7 +16,7 @@ ofac-programs:
   - "GLOMAG"
   - "SDGT] [IFSR"
   - "RUSSIA-EO14024"
-related: "[[Payday Lending Regulatory Capture]]"
+related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]]"
 ---
 
 #financial-services #banking #wall-street #donors #bipartisan #dodd-frank #deregulation

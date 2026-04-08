@@ -12,7 +12,7 @@ issues:
 ein: "850784793"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
-related: "[[Sentinel Action Fund]]"
+related: "[[Sentinel Action Fund]] · [[Judicial - Donors and Backers]]"
 ---
 
 #donor #dark-money #judicial-capture #leonard-leo #conservative #mega-donation #federalist-society

@@ -15,7 +15,7 @@ court-cases: 2
 last-enriched: "2026-04-07"
 court-jurisdictions:
   - "District Court, District of Columbia"
-related: "[[Ocean Conservancy]]"
+related: "[[Ocean Conservancy]] · [[The Grift Machine - How Trump Monetized the Presidency]]"
 ---
 
 #crew #ethics #watchdog #nonprofit #dark-money #14th-amendment #accountability #legal-advocacy #foia #progressive-infrastructure

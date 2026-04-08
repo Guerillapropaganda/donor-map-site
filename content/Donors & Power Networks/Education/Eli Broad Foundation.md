@@ -16,7 +16,7 @@ total-revenue: 163352987
 total-assets: 1860562867
 lei: "549300MEWH8MEHZXWM71"
 lei-jurisdiction: "US-CA"
-related: "[[CTA - California Teachers Association]]"
+related: "[[CTA - California Teachers Association]] · [[Michael Bennet]]"
 ---
 
 

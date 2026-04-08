@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]]"
+related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]]"
 ---
 
 #media-pipeline #fox-news #murdoch #institutional #right #propaganda #class-analysis #follow-the-money

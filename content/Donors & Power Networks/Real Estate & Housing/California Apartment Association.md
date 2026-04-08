@@ -26,7 +26,7 @@ ein: 950944360
 annual-revenue: "$291K"
 net-assets: "$864K"
 tax-year: "2023"
-related: "[[Antonio Villaraigosa Master Profile]]"
+related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]]"
 ---
 
 

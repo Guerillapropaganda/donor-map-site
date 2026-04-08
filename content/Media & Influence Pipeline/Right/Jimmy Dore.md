@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Peter Thiel]] · [[TYT Network - The Young Turks]]"
+related: "[[Peter Thiel]] · [[TYT Network - The Young Turks]] · [[Lee Camp]]"
 ---
 
 #media-pipeline #left #youtube #rumble #force-the-vote #audience-swap #anti-establishment

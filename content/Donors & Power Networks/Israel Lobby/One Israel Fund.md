@@ -13,7 +13,7 @@ net-assets: "$3.2M"
 tax-year: "2023"
 lobbying-spend: 4526750
 lobbying-filings: 111
-related: "[[Itamar Ben-Gvir]]"
+related: "[[Itamar Ben-Gvir]] · [[Bezalel Smotrich]]"
 ---
 
 #one-israel-fund #settlement-funding #us-nonprofit #west-bank #far-right-israel

@@ -24,7 +24,7 @@ court-jurisdictions:
 sec-filings: 1
 sec-form-types:
   - "10-K"
-related: "[[Senate Majority PAC]]"
+related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]]"
 ---
 
 #donor-node #super-pac #democratic #house #leadership-pac #dark-money #house-majority-forward #donor

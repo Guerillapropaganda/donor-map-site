@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[The Biden Exit and Harris Installation]]"
+related: "[[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]]"
 ---
 
 

@@ -24,7 +24,7 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Justice Department"
   - "Transportation Department"
-related: "[[Harris-Newsom Donor Class Fracture]]"
+related: "[[Harris-Newsom Donor Class Fracture]] · [[Tom Steyer Master Profile]]"
 ---
 
 

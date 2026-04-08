@@ -10,7 +10,7 @@ issues:
   - "Healthcare"
   - "Israel & Foreign Policy"
   - "Criminal Justice"
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]]"
 ---
 
 

@@ -34,7 +34,7 @@ court-jurisdictions:
   - "District Court, E.D. Michigan"
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
-related: "[[Instacart]]"
+related: "[[Instacart]] · [[The California Corporate Democrat and Tech-Labor Tension]]"
 ---
 
 

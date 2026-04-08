@@ -19,7 +19,7 @@ total-revenue: 4436307
 total-assets: 1150303
 lei: "ENYF8GB5SMQZ25S06U51"
 lei-jurisdiction: "US-DE"
-related: "[[Valero Energy]]"
+related: "[[Valero Energy]] · [[John Barrasso]]"
 ---
 
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian

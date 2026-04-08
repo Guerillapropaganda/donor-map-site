@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
   - "Technology"
-related: "[[Legal Sector Donors]]"
+related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]]"
 ---
 
 #bundler #wall-street #tech #fundraising #access #ambassadorships #bipartisan

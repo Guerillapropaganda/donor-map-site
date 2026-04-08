@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
-related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]]"
+related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Mercatus Center]]"
 ---
 
 #think-tank #centrist #defense #national-security #revolving-door #military-industrial-complex #class-analysis

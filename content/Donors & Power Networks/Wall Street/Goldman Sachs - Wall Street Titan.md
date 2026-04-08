@@ -10,7 +10,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Wall Street & Finance"
-related: "[[The Financial Services Committee and Wall Street Oversight]]"
+related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]]"
 ---
 
 #goldman-sachs #wall-street #revolving-door #treasury #bipartisan #both-sides #regulatory-capture #government-sachs #donor

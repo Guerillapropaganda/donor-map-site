@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
-related: "[[Finance and Tech Bundler Network]]"
+related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]]"
 ---
 
 #legal #lawyers #donors #tort #corporate-law #bundling #democratic #bipartisan

@@ -25,7 +25,7 @@ regulatory-agencies:
   - "Labor Department"
   - "Occupational Safety and Health Administration"
   - "Transportation Department"
-related: "[[VP Labor Record - What Unions Got and Didn't Get]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Nancy Pelosi Master Profile]]"
 ---
 
 

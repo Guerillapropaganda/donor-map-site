@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 party: "Republican"
 chamber: "Cabinet"
-related: "[[Condoleezza Rice]]"
+related: "[[Condoleezza Rice]] · [[Colin Powell]]"
 ---
 
 #politician #republican #vice-president #secretary-defense #halliburton #revolving-door #defense-contractor #war-crimes #torture #energy-task-force

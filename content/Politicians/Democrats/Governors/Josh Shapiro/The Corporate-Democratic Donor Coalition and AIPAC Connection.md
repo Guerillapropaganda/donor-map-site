@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Josh Shapiro Master Profile]]
-related: "[[The Biden Exit and Harris Installation]]"
+related: "[[The Biden Exit and Harris Installation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 ---
 
 

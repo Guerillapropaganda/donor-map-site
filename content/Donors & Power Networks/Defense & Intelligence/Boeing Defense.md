@@ -11,7 +11,7 @@ politicians-funded:
   - "Maria Cantwell"
 issues:
   - "Defense & Military"
-related: "[[Palantir Technologies Political Operation]]"
+related: "[[Palantir Technologies Political Operation]] · [[Defense Contractor 450000 Percent ROI]]"
 ---
 
 #boeing #defense #aerospace #military #lobbying #government-contracts #safety #revolving-door #too-big-to-fail

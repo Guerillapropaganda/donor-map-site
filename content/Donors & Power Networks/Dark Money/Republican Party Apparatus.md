@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Infrastructure"
-related: "[[American Petroleum Institute]]"
+related: "[[American Petroleum Institute]] · [[North Carolina 2026 Senate Race]]"
 ---
 
 #rnc #republican #party-apparatus #maga #infrastructure #fundraising

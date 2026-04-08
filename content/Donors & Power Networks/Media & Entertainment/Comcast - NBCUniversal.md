@@ -49,7 +49,7 @@ sec-form-types:
   - "PX14A6G"
   - "S-8"
   - "SC 13D/A"
-related: "[[The Telecom and Media Monopoly Oversight]]"
+related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]]"
 ---
 
 #comcast #nbcuniversal #telecom #media #lobbying #net-neutrality #cable #broadband #monopoly #revolving-door #brian-roberts

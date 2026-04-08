@@ -39,7 +39,7 @@ bills-sponsored: 92
 bills-cosponsored: 541
 website: "https://www.booker.senate.gov"
 phone: "202-224-3224"
-related: "[[PhRMA Kills Drug Negotiation From Both Sides]]"
+related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master Profile]]"
 donors: "[[JB Pritzker]]"
 ---
 

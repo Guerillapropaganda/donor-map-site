@@ -25,7 +25,7 @@ ein: "261658339"
 nonprofit-status: "501(c)(4)"
 total-revenue: 3002567
 total-assets: 1618273
-related: "[[Michael Whatley Master Profile]]"
+related: "[[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]]"
 ---
 
 #fossil-fuel-astroturf #energy-lobby #dark-money #greenwashing #regulatory-capture

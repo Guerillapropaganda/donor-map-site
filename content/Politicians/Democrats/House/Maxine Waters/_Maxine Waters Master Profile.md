@@ -21,7 +21,7 @@ bills-cosponsored: 182
 website: "https://waters.house.gov"
 phone: "202-225-2201"
 donors: "[[California Nurses Association]]"
-related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]]"
+related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Gregory Meeks]]"
 ---
 
 #maxine-waters #democrat #california #house #financial-services #ranking-member #phase-6-gavel-power

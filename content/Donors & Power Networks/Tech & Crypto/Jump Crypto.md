@@ -20,7 +20,7 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
-related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]]"
+related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]]"
 ---
 
 #crypto #trading #jump-trading #fairshake #political-spending

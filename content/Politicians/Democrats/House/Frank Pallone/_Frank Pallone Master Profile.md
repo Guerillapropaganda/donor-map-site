@@ -23,7 +23,7 @@ top-donors:
   - "PhRMA"
 total-received: "$1,311,209"
 fec-candidate-id: "H8NJ03073"
-donors: "[[AFGE - American Federation of Government Employees]]"
+donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
 ---
 

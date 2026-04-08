@@ -11,7 +11,7 @@ issues:
   - "Housing"
   - "Immigration"
   - "Dark Money & Campaign Finance"
-related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]]"
+related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]]"
 ---
 
 

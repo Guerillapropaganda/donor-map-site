@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
   - "Steve Bannon"
-related: "[[Steve Bannon Master Profile]]"
+related: "[[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]]"
 ---
 
 

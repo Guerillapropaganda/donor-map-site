@@ -14,7 +14,7 @@ issues:
   - "Technology"
 lobbying-spend: 1258000
 lobbying-filings: 51
-related: "[[Mark Warner]]"
+related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]]"
 ---
 
 #silicon-valley #tech #donors #democratic #republican #realignment #deregulation #lobbying #crypto #ai #venture-capital #class-analysis #follow-the-money

@@ -20,7 +20,7 @@ top-donors:
   - "American Federation for Children"
   - "Walton Family Foundation"
 bioguide-id: "A000383"
-donors: "[[Apollo Global Management]]"
+donors: "[[Apollo Global Management]] · [[AIPAC - American Israel Public Affairs Committee]]"
 related: "[[The Education Committee and Labor Alignment]]"
 ---
 

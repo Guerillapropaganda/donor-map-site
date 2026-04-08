@@ -43,7 +43,7 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
   - "TEXT-EXTRACT"
-related: "[[The Ohio Governor Race and the Billionaire Super PAC]]"
+related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Ohio 2026 Governor Race - The Structural Landscape]]"
 ---
 
 #ross-stevens #stone-ridge #crypto #bitcoin #nydig #mega-donor #wall-street #club-for-growth #ramaswamy #pro-israel

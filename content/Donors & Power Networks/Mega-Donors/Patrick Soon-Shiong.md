@@ -28,7 +28,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Media and Propaganda - Donors and Backers]]"
+related: "[[Media and Propaganda - Donors and Backers]] · [[Ron Johnson]]"
 ---
 
 #donor #mega-donor #la-times #biotech #billionaire #media-owner #republican #trump #editorial-capture #pharma-influence #class-analysis #follow-the-money

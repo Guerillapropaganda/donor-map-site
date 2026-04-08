@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Benjamin Netanyahu Master Profile]]
-related: "[[Itamar Ben-Gvir]]"
+related: "[[Itamar Ben-Gvir]] · [[Bezalel Smotrich]]"
 ---
 
 #westbank #settlements #annexation #ben-gvir #smotrich #defense-industry #surveillance #class-analysis #nso-pegasus #international

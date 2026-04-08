@@ -38,7 +38,7 @@ sec-form-types:
   - "SCHEDULE 13G/A"
 top-federal-agency: "Department of Defense"
 top-naics-code: "336611"
-related: "[[American Enterprise Institute]]"
+related: "[[American Enterprise Institute]] · [[Council on Foreign Relations]]"
 ---
 
 #carlyle-group #private-equity #wall-street #defense #revolving-door #bipartisan #carried-interest #lobbying

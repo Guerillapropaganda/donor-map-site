@@ -46,7 +46,7 @@ sec-form-types:
   - "N-CSRS"
   - "PREM14A"
   - "SC 14D9"
-related: "[[John Deere]]"
+related: "[[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]]"
 ---
 
 #monsanto #bayer #agriculture #gmo #roundup #glyphosate #seeds #patents

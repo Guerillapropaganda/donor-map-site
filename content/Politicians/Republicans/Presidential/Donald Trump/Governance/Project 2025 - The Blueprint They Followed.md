@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]]"
+related: "[[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]"
 ---
 
 

@@ -10,7 +10,7 @@ entity-type: "PAC"
 politicians-funded:
   - "JB Pritzker"
   - "Juliana Stratton"
-related: "[[Illinois 2026 Senate Race]]"
+related: "[[Illinois 2026 Senate Race]] · [[The Pritzker Machine and Illinois Democratic Power]]"
 ---
 
 #illinois-future-pac #pritzker #super-pac #illinois #democratic #governor

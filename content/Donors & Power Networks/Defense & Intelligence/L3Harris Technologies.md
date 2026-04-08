@@ -57,7 +57,7 @@ subawards-received: 50
 subawards-received-amount: 9882497978
 top-federal-agency: "Department of Transportation"
 top-naics-code: "336413"
-related: "[[Palantir Technologies Political Operation]]"
+related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]]"
 ---
 
 

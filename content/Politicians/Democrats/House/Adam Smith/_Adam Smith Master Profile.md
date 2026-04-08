@@ -24,7 +24,7 @@ top-donors:
 fec-candidate-id: "S0KS00216"
 bioguide-id: "A000383"
 related: "[[Tom Cole]]"
-donors: "[[American Gaming Association]]"
+donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]]"
 ---
 
 #adam-smith #democrat #washington #house #ranking-member #armed-services #defense #military-industrial-complex #phase-6-gavel-power

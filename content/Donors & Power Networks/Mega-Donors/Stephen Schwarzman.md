@@ -54,7 +54,7 @@ sec-form-types:
   - "SC 13D/A"
   - "SC 13G"
   - "SC 14D9"
-related: "[[Intra-Republican Contradiction Map]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 
 #donor #billionaire #republican #private-equity #blackstone #wall-street

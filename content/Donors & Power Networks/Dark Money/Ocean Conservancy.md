@@ -24,7 +24,7 @@ regulatory-agencies:
   - "Ocean Energy Management Bureau"
   - "Regulatory Information Service Center"
   - "Securities and Exchange Commission"
-related: "[[CREW - Citizens for Responsibility and Ethics in Washington]]"
+related: "[[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Sheldon Whitehouse]]"
 ---
 
 #ocean-conservancy #environment #nonprofit #conservation #fishing #plastics #dark-money #corporate-capture #greenwashing

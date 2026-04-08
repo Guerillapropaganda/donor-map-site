@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[_Media Pipeline Framework]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]]"
+related: "[[_Media Pipeline Framework]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Jesse Watters]]"
 donors: "(Fox Corp / Murdoch family — indirect via corporate employment)"
 opposes: "[[Rachel Maddow]]"
 ---

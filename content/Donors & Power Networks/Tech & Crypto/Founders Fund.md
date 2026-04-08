@@ -22,7 +22,7 @@ net-assets: "$421K"
 tax-year: "2023"
 lei: "254900B4R5J7N0865R59"
 lei-jurisdiction: "LU"
-related: "[[Joe Rogan]]"
+related: "[[Joe Rogan]] · [[Invariant]]"
 ---
 
 #founders-fund #peter-thiel #venture-capital #tech #libertarian #palantir #republican #defense #paypal-mafia #dark-money #class-analysis #follow-the-money

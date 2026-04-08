@@ -13,7 +13,7 @@ politicians-funded:
   - "Maria Elvira Salazar"
   - "Carlos Gimenez"
   - "Debbie Wasserman Schultz"
-related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]]"
+related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]]"
 ---
 
 #bacardi #cuba #embargo #trademark #rum #lobbying #helms-burton #class-analysis #follow-the-money

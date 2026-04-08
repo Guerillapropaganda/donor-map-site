@@ -6,7 +6,7 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
-related: "[[Judicial - Donors and Backers]]"
+related: "[[Judicial - Donors and Backers]] · [[Guns - Donors and Backers]]"
 ---
 
 

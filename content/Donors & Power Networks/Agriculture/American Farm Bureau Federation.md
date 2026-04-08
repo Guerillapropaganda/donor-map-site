@@ -58,7 +58,7 @@ sec-form-types:
   - "PRE 14A"
   - "SC TO-I"
   - "SC TO-I/A"
-related: "[[DeVos Family]]"
+related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]]"
 ---
 
 

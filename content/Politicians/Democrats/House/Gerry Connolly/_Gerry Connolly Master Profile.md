@@ -14,7 +14,7 @@ committees:
   - "Oversight & Reform"
 leadership-roles:
   - "Ranking Member"
-donors: "[[Tech Industry]]"
+donors: "[[Tech Industry]] · [[Booz Allen Hamilton]]"
 ---
 
 

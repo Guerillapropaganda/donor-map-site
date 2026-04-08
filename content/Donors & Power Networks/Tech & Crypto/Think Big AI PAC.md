@@ -9,7 +9,7 @@ sector: "Tech & Crypto"
 entity-type: "PAC"
 issues:
   - "Technology"
-related: "[[Crypto vs Labor - The Structural Funding Gap]]"
+related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[Illinois House Primaries 2026 - The PAC Laboratory]]"
 ---
 
 #think-big-ai #super-pac #tech #ai #lobbying #regulation #silicon-valley

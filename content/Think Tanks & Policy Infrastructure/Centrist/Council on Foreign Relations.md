@@ -19,7 +19,7 @@ court-jurisdictions:
   - "District Court, M.D. North Carolina"
   - "District Court, N.D. California"
   - "United States Court of International Trade"
-related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Carlyle Group]] · [[BlackRock]] · [[ExxonMobil]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
+related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Carlyle Group]] · [[BlackRock]] · [[ExxonMobil]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]]"
 ein: "131628168"
 nonprofit-status: "501(c)(3)"
 total-revenue: 173497100

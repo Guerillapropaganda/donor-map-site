@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Koch vs Soros Mirror Image Dark Money Machines]]"
+related: "[[Koch vs Soros Mirror Image Dark Money Machines]] · [[Dark Money Networks - The Shadow System]]"
 ---
 
 #dark-money #both-sides #democrats #republicans #arabella #donors-trust #501c4 #transparency

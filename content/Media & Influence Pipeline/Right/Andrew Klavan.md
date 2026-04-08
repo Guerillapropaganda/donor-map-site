@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Daily Wire - Ben Shapiro|Daily Wire]] · [[Wilks Brothers]] · [[Ben Shapiro]] · [[Matt Walsh]] · [[Jeremy Boreing]] · [[Michael Knowles]] · [[Jordan Peterson]]"
+related: "[[Daily Wire - Ben Shapiro|Daily Wire]] · [[Wilks Brothers]] · [[Ben Shapiro]] · [[Matt Walsh]] · [[Jeremy Boreing]] · [[Michael Knowles]] · [[Jordan Peterson]] · [[Dave Rubin]]"
 ---
 
 #media-pipeline #right #daily-wire #theological-capitalism #literary-conservative #wilks-brothers

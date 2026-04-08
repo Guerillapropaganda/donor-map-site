@@ -27,7 +27,7 @@ regulatory-agencies:
   - "Transportation Department"
 lei: "984500AB57A3B7E9AF80"
 lei-jurisdiction: "BE"
-related: "[[Invariant]]"
+related: "[[Invariant]] · [[Jeff Bezos]]"
 ---
 
 #spacex #musk #defense #nasa #faa #starlink #military #launch

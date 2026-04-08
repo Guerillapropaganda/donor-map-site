@@ -11,7 +11,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Aramark]]"
+related: "[[Aramark]] · [[Tulsi Gabbard Master Profile]]"
 ---
 
 

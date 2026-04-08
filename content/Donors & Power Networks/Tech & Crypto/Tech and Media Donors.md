@@ -12,7 +12,7 @@ issues:
   - "Antitrust & Monopoly"
 lobbying-spend: 9122856
 lobbying-filings: 133
-related: "[[Raphael Warnock Master Profile]]"
+related: "[[Raphael Warnock Master Profile]] · [[The Moral Authority Brand and the Corporate Democrat Question]]"
 ---
 
 #tech #media #donors #section-230 #antitrust #streaming #ip #copyright

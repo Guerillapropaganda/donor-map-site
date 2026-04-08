@@ -22,7 +22,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Securities and Exchange Commission"
-related: "[[Defense Contractor 450000 Percent ROI]]"
+related: "[[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]]"
 ---
 
 #raytheon #rtx #defense #redirect

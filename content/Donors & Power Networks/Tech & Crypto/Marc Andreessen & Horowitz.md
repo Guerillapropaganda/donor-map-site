@@ -14,7 +14,7 @@ politicians-funded:
   - "David Sacks"
 issues:
   - "Technology"
-related: "[[The Thiel Pipeline - From Yale to VP]]"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]]"
 ---
 
 

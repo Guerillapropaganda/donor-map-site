@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Budget Priorities - What California Actually Funds]]"
+related: "[[Budget Priorities - What California Actually Funds]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]]"
 ---
 
 

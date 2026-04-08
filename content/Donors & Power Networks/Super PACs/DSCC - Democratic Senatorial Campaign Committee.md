@@ -14,7 +14,7 @@ issues:
 sec-filings: 1
 sec-form-types:
   - "EX-99.(P)(II)"
-related: "[[2024-2026 Campaign Finance and Democratic Infrastructure]]"
+related: "[[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn Master Profile]]"
 ---
 
 #dscc #senate #democratic #campaign-committee #fundraising #gatekeeper #dark-money #class-analysis

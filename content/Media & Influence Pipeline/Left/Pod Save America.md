@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[George Soros]] · [[Hollywood Democratic Donor Network]] · [[Democratic Donor Network]] · [[Sam Seder]]"
+related: "[[George Soros]] · [[Hollywood Democratic Donor Network]] · [[Democratic Donor Network]] · [[Sam Seder]] · [[Red Scare]]"
 ---
 
 #media-pipeline #left #revolving-door #democratic-establishment #podcast #crooked-media

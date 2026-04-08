@@ -24,7 +24,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. Florida"
   - "District Court, S.D. New York"
-related: "[[DeVos Family]]"
+related: "[[DeVos Family]] · [[America First Legal and the Dark Money Architecture]]"
 ---
 
 #conservative-partnership-institute #cpi #dark-money #maga #jim-demint #mark-meadows #january-6

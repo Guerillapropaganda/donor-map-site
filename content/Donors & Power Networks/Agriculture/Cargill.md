@@ -23,7 +23,7 @@ top-naics-code: "311999"
 federal-awards-total: 49170610
 federal-contracts-count: 25
 federal-grants-count: 10
-related: "[[The Veterans Affairs and Iowa Agriculture]]"
+related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]]"
 ---
 
 #cargill #agriculture #commodities #grain #trade #private #family

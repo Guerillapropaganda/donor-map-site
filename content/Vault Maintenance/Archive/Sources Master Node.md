@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: null
 parent: null
-related: "[[Vault Standards and Agent Instructions]]"
+related: "[[Vault Standards and Agent Instructions]] · [[API Pipeline — Data Collection Layer]]"
 ---
 
 

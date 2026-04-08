@@ -27,7 +27,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, S.D. Texas"
   - "District Court, W.D. Texas"
-related: "[[InfluenceMap]]"
+related: "[[InfluenceMap]] · [[Rex Tillerson]]"
 ---
 
 #donor #energy #midstream #fossil-fuel #pipeline #republican-lean #class-analysis #follow-the-money

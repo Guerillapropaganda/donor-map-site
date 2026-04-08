@@ -55,7 +55,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "National Labor Relations Board"
-related: "[[Housing - Donors and Backers]]"
+related: "[[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]]"
 ---
 
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door

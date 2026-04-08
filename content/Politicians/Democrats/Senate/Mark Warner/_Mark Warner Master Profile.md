@@ -41,7 +41,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-donors: "[[Tech Industry]]"
+donors: "[[Tech Industry]] · [[Insurance Industry]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 ---
 

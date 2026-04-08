@@ -23,7 +23,7 @@ ein: 956203844
 annual-revenue: "$4.8M"
 net-assets: "$5.8M"
 tax-year: "2023"
-related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]]"
+related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Bail Bond Industry]]"
 ---
 
 

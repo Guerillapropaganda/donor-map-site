@@ -25,7 +25,7 @@ sec-form-types:
   - "FWP"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[2026-03-26 Finance Research]]"
+related: "[[2026-03-26 Finance Research]] · [[Gretchen Whitmer Master Profile]]"
 ---
 
 #uaw #redirect #auto-workers #union

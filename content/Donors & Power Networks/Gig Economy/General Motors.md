@@ -35,7 +35,7 @@ subawards-received: 1
 subawards-received-amount: 68510
 top-federal-agency: "General Services Administration"
 top-naics-code: "336111"
-related: "[[The Agriculture Committee and Farm Bill Politics]]"
+related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]]"
 ---
 
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw

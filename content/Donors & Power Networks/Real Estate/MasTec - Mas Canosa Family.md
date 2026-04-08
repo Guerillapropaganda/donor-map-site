@@ -22,7 +22,7 @@ subawards-received: 50
 subawards-received-amount: 51876611853
 lobbying-spend: 180000
 lobbying-filings: 10
-related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]]"
+related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]]"
 ---
 
 #donor #corporation #infrastructure #construction #cuba #exile #telecom #energy #real-estate #class-analysis #follow-the-money

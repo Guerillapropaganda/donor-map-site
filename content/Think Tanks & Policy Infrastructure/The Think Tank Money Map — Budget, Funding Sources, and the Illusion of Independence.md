@@ -2,12 +2,12 @@
 title: "The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27 (session 4)
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: cross-comparison
 tax-status: null
-related: "[[Heritage Foundation]] · [[RAND Corporation]] · [[Aspen Institute]] · [[Urban Institute]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[Center for American Progress]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Heartland Institute]] · [[Third Way]] · [[Atlantic Council]] · [[Mercatus Center]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]]"
+related: "[[Heritage Foundation]] · [[RAND Corporation]] · [[Aspen Institute]] · [[Urban Institute]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[Center for American Progress]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Heartland Institute]] · [[Third Way]] · [[Atlantic Council]] · [[Mercatus Center]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Brennan Center for Justice]]"
 ---
 
 #think-tank #cross-comparison #budget-analysis #funding-sources #class-analysis #government-contractor #dark-money #illusion-of-independence

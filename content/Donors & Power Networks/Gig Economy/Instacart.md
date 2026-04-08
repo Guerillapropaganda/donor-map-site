@@ -17,7 +17,7 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Labor Department"
   - "Wage and Hour Division"
-related: "[[Airbnb]]"
+related: "[[Airbnb]] · [[Labor - Donors and Backers]]"
 ---
 
 #instacart #gig-economy #delivery #labor #independent-contractor #prop22

@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[PG&E - The Utility Donor and the Wildfire Cover]]"
+related: "[[PG&E - The Utility Donor and the Wildfire Cover]] · [[PG&E - Pacific Gas and Electric]]"
 ---
 
 

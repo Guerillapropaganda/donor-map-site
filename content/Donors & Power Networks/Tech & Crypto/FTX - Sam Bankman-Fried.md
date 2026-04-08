@@ -25,7 +25,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[French Hill]]"
+related: "[[French Hill]] · [[Sam Bankman-Fried]]"
 ---
 
 

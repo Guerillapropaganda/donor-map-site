@@ -26,7 +26,7 @@ sec-form-types:
   - "PRE 14C"
   - "PRER14A"
   - "S-4"
-related: "[[Patrick McHenry Master Profile]]"
+related: "[[Patrick McHenry Master Profile]] · [[Dan Goldman]]"
 ---
 
 #securities #investment #wall-street #hedge-fund #private-equity #carried-interest #bipartisan

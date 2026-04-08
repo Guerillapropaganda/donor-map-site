@@ -26,7 +26,7 @@ ein: 340200249
 annual-revenue: "$104K"
 net-assets: "$180K"
 tax-year: "2016"
-related: "[[Michigan 2026 Senate Race]]"
+related: "[[Michigan 2026 Senate Race]] · [[Gary Peters Master Profile]]"
 ---
 
 #donor #labor #union #auto-industry #working-class #fain #stand-up-strike #ev-transition #corruption #consent-decree

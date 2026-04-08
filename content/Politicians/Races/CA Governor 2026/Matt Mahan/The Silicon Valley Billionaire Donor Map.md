@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Matt Mahan Master Profile]]
-related: "[[Tech Industry Policy Alignment and the Billionaire Tax Fight]]"
+related: "[[Tech Industry Policy Alignment and the Billionaire Tax Fight]] · [[From Causes to Governor - The Tech Career to Politics Pipeline]]"
 ---
 
 

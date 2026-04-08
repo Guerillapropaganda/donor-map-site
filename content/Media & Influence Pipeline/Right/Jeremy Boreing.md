@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Wilks Brothers]] · [[The Daily Wire]]"
+related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Michael Knowles]]"
 ---
 
 #media-pipeline #right #daily-wire #infrastructure #evangelical-capitalism #culture-war

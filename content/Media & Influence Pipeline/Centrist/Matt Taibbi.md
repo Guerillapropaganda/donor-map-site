@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Peter Thiel]] · [[Marc Andreessen and a16z]] · [[Goldman Sachs]] · [[Lex Fridman]]"
+related: "[[Peter Thiel]] · [[Marc Andreessen and a16z]] · [[Goldman Sachs]] · [[Lex Fridman]] · [[Nate Silver]]"
 ---
 
 #media-pipeline #centrist #substack #twitter-files #investigative-journalism #audience-swap

@@ -18,7 +18,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 130264386
 total-assets: 200316165
-related: "[[American Enterprise Institute]]"
+related: "[[American Enterprise Institute]] · [[Stephen Miller Master Profile]]"
 ---
 
 #bradley #impact-fund #dark-money #conservative #donor-advised #philanthropy

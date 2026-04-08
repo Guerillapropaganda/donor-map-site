@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Kamala Harris Master Profile]]
-related: "[[VP Labor Record - What Unions Got and Didn't Get]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Senate Record and 2020 Primary]]"
 ---
 
 

@@ -62,7 +62,7 @@ sec-form-types:
   - "S-3ASR"
   - "S-3D"
   - "SCHEDULE 13G/A"
-related: "[[Valero Energy]]"
+related: "[[Valero Energy]] · [[John Thune Master Profile]]"
 ---
 
 #nextera #energy #renewables #solar #wind #florida #utility #fpl

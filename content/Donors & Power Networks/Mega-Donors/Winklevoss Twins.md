@@ -9,7 +9,7 @@ sector: "Mega-Donors"
 entity-type: "Individual Donor"
 issues:
   - "Technology"
-related: "[[Georgia 2026 Senate Race]]"
+related: "[[Georgia 2026 Senate Race]] · [[Mike Collins Master Profile]]"
 ---
 
 #winklevoss #crypto #bitcoin #gemini #mega-donor #republican #trump #regulation

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: cable-news
-related: "[[Megyn Kelly]] · [[Bari Weiss]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Dave Rubin]]"
+related: "[[Megyn Kelly]] · [[Bari Weiss]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Dave Rubin]] · [[Jordan Peterson]]"
 donors: "[]"
 ---
 

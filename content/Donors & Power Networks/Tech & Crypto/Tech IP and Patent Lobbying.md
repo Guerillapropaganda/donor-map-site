@@ -9,7 +9,7 @@ sector: "Tech & Crypto"
 entity-type: "Story"
 issues:
   - "Technology"
-related: "[[Thom Tillis Master Profile]]"
+related: "[[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]]"
 ---
 
 #tech #patent #ip #copyright #lobbying #section-230 #dmca

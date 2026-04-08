@@ -17,7 +17,7 @@ issues:
   - "Defense & Military"
 total-received: "$4,955,682"
 fec-candidate-id: "H4NY21079"
-donors: "[[Winning for Women PAC]]"
+donors: "[[Winning for Women PAC]] · [[Miriam Adelson]]"
 ---
 
 #stefanik #new-york #conference-chair #trump #un-ambassador #ideological-transformation #education #antisemitism #aipac #harvard #fort-drum #defense

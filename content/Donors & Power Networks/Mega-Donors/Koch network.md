@@ -18,7 +18,7 @@ court-jurisdictions:
   - "District Court, S.D. California"
   - "District Court, S.D. New York"
   - "District Court, W.D. Washington"
-related: "[[Intra-Republican Contradiction Map]]"
+related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]]"
 ---
 
 #koch #network #dark-money #libertarian #deregulation #afp

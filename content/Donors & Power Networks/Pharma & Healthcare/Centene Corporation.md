@@ -68,7 +68,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
-related: "[[Blue Cross Blue Shield Association]]"
+related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]]"
 ---
 
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca

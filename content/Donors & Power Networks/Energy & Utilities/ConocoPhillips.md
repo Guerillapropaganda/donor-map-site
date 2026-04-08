@@ -70,7 +70,7 @@ court-jurisdictions:
   - "United States Court of International Trade"
 lobbying-spend: 17930000
 lobbying-filings: 39
-related: "[[WSPA - Western States Petroleum Association]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]]"
 ---
 
 #conocophillips #oil-gas #energy #alaska #willow #lobbying #revolving-door #cheney-energy-task-force

@@ -17,7 +17,7 @@ lei: "549300VIWYMSIGT1U456"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Johnson & Johnson]]"
+related: "[[Johnson & Johnson]] · [[The Insurance Industry Public Option Kill]]"
 ---
 
 #cigna #health-insurance #lobbying #pbm #express-scripts #healthcare

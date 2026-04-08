@@ -44,7 +44,7 @@ doj-components:
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
 related: "[[Tim Scott]]"
-donors: "[[Harlan Crow]]"
+donors: "[[Harlan Crow]] · [[Insurance Industry]]"
 ---
 
 #master-profile #republican #texas #senate #judiciary #intelligence #oil-gas #defense #border #finance #gun-bill #nra #cornyn-cruz

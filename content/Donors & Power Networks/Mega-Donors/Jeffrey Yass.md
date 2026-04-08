@@ -17,7 +17,7 @@ federal-register-mentions: 4
 last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Securities and Exchange Commission"
-related: "[[Intra-Republican Contradiction Map]]"
+related: "[[Intra-Republican Contradiction Map]] · [[The Ohio Governor Race and the Billionaire Super PAC]]"
 ---
 
 #donor #yass #tiktok #bytedance #trading #libertarian #class-analysis #follow-the-money #trump #school-choice #club-for-growth #mega-donor #pennsylvania-money

@@ -16,7 +16,7 @@ ein: 261507828
 annual-revenue: "$4.0M"
 net-assets: "$4.5M"
 tax-year: "2023"
-related: "[[Entertainment and Hollywood Donors]]"
+related: "[[Entertainment and Hollywood Donors]] · [[Rashida Tlaib]]"
 ---
 
 #donor #israel #pro-israel #lobbying #pac #progressive #two-state #democratic #follow-the-money #class-analysis #foreign-policy

@@ -11,7 +11,7 @@ issues:
   - "Wall Street & Finance"
 lobbying-spend: 1048100
 lobbying-filings: 87
-related: "[[Kyrsten Sinema Master Profile]]"
+related: "[[Kyrsten Sinema Master Profile]] · [[The Carried Interest Kill and the Wall Street Fundraising Surge]]"
 ---
 
 #wall-street #bloc #banking #finance #bipartisan #revolving-door

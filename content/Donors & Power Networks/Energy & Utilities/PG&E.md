@@ -13,7 +13,7 @@ ein: 943358729
 annual-revenue: "$23.4M"
 net-assets: "$99.5M"
 tax-year: "2023"
-related: "[[Fossil Fuel Bloc]]"
+related: "[[Fossil Fuel Bloc]] · [[IBEW California State Association]]"
 ---
 
 

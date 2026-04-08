@@ -44,7 +44,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Environment - Donors and Backers]]"
+related: "[[Environment - Donors and Backers]] · [[DAPL Survives Both Parties - The Bipartisan Fossil Fuel Consensus]]"
 ---
 
 #donor-node #mega-donor #fossil-fuel #pipeline #texas #republican #class-analysis #donor

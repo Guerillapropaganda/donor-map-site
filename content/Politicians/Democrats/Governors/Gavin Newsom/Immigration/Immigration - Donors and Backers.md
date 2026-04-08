@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Prop 22 - The $200M Corporate Rollback]]"
+related: "[[Prop 22 - The $200M Corporate Rollback]] · [[Criminal Justice - Donors and Backers]]"
 ---
 
 

@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Ohio 2026 Governor Race - The Structural Landscape]]"
+related: "[[Ohio 2026 Governor Race - The Structural Landscape]] · [[Amy Acton Master Profile]]"
 ---
 
 
