@@ -222,14 +222,14 @@ This is what $65 million per year buys. Not policies. Not legislation. Not outco
 
 ### Sources
 
-- [OpenSecrets: Akin Gump et al Lobbying Profile — Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Akin Gump et al Lobbyists 2024 — Revolving Door Data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Akin Gump et al Issues Lobbied 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Akin Gump et al Lobbying Profile — Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Akin Gump et al Lobbyists 2024 — Revolving Door Data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Akin Gump et al Issues Lobbied 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Retired Reps. find new lobbying jobs with former campaign contributor](https://www.opensecrets.org/news/2019/01/retired-reps-find-new-lobbying-jobs-with-former-campaign-contributor/) (Tier 1)
 - [CREW: Former Reps. Shuster, Smith, Ros-Lehtinen chaired committees on issues they now lobby on](https://www.citizensforethics.org/reports-investigations/crew-investigations/former-reps-shuster-smith-ros-lehtinen-chaired-committees-on-issues-they-now-lobby-on/) (Tier 2)
 - [The Hill: Ex-GOP lawmakers Ros-Lehtinen, Lamar Smith join top lobbying firm](https://thehill.com/business-a-lobbying/business-a-lobbying/424130-ex-gop-lawmakers-ros-lehtinen-lamar-smith-join-akin/) (Tier 2)
 - [Akin Gump Press Release: Former U.S. Senator Joe Donnelly to Join Akin Gump](https://www.akingump.com/en/insights/press-releases/former-u-s-senator-joe-donnelly-to-join-akin-gump) (Tier 3)
-- [OpenSecrets: Akin Gump et al Client List 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Akin Gump et al Client List 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Akin Gump Revolving Door Profile](https://www.opensecrets.org/revolving-door?id=D000000162) (Tier 1)
 - [Senate LDA: Akin Gump Lobbying Disclosure Filings](https://lda.senate.gov/filings/public/filing/search/?registrant=Akin+Gump) (Tier 1)
 - [Wikipedia: Akin Gump Strauss Hauer & Feld](https://en.wikipedia.org/wiki/Akin_Gump_Strauss_Hauer_&_Feld) (Tier 3)

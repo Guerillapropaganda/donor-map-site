@@ -37,7 +37,7 @@ The financial services industry is the ultimate bipartisan donor: both parties' 
 
 ### Sources
 
-- [OpenSecrets: Financial services industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Financial services industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Financial services lobbying](https://ballotpedia.org/Financial_Services_Donors) (Tier 3)
 
 content-readiness:: ready

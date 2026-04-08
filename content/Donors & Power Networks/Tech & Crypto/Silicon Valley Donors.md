@@ -119,10 +119,10 @@ Third, **preemption of democratic governance.** The December 2025 executive orde
 
 ### Sources
 
-- [OpenSecrets: Internet industry summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Internet industry summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [OpenSecrets: Fairshake PAC profile, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1)
-- [OpenSecrets: Elon Musk donor detail, 2024 cycle](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1)
-- [OpenSecrets: Reid Hoffman donor detail, 2024 cycle](https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman) (Tier 1)
+- [FEC Independent Expenditures: Elon Musk donor detail, 2024 cycle](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1)
+- [FEC Independent Expenditures: Reid Hoffman donor detail, 2024 cycle](https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman) (Tier 1)
 - [OpenSecrets: Elon Musk tops list of 2024 political donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
 - [OpenSecrets: Pro-crypto super PACs pouring tens of millions into 2024 elections](https://www.opensecrets.org/news/2024/07/pro-crypto-super-pacs-pouring-tens-of-millions-into-2024-elections/) (Tier 1)
 - [OpenSecrets: Federal lobbying set new record in 2024](https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/) (Tier 1)

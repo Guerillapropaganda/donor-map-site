@@ -80,8 +80,8 @@ Example 4: District Abandonment. Torres's stated priority is addressing Bronx ho
 
 ### Sources
 
-- [OpenSecrets: Ritchie Torres campaign finance summary](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1)
-- [OpenSecrets: Ritchie Torres industry breakdown 2024](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1)
+- [FEC Candidate: Ritchie Torres campaign finance summary](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1)
+- [FEC Candidate: Ritchie Torres industry breakdown 2024](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1)
 - [AIPAC Tracker on X: Torres AIPAC donations $683,006](https://x.com/TrackAIPAC/status/1892365341709279628?lang=en) (Tier 3 — activist tracking) (Tier 2)
 - [AIPAC Tracker on X: Torres Israel lobby total $1.5M+](https://x.com/TrackAIPAC/status/1793830657472471181) (Tier 3)
 - [Jewish Currents: Ritchie Torres is the Future of Pro-Israel Politics](https://jewishcurrents.org/ritchie-torres-is-the-future-of-pro-israel-politics) (Tier 2)

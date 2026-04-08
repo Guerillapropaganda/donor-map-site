@@ -144,7 +144,7 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 
 ### Sources
 
-- [OpenSecrets: Eric Swalwell campaign finance](https://www.fec.gov/data/candidate/H2CA15094/) (Tier 1)
+- [FEC Candidate: Eric Swalwell campaign finance](https://www.fec.gov/data/candidate/H2CA15094/) (Tier 1)
 - [FollowTheMoney.org: Eric Swalwell 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Eric%20Swalwell#[%7B1%7Cgro=d-id) (Tier 1)
 - [Emerson College Polling: California 2026 Poll - Swalwell Takes Lead in Governor Primary](https://emersoncollegepolling.com/california-2026-poll-swalwell-takes-lead-in-governor-primary-25-undecided-election-for-la-mayor-wide-open/) (Tier 2)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)

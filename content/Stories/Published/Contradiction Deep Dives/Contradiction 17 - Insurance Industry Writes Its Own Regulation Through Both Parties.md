@@ -20,7 +20,7 @@ related: [[_Nancy Pelosi Master Profile|Nancy Pelosi]] [[_Joe Biden Master Profi
 
 ---
 
-The insurance industry has contributed over $853 million to federal politicians from 1998–2024, favoring Republicans in every cycle but maintaining a 30–44% Democratic floor. 93% of Congressional incumbents running in 2024 received insurance contributions, including 100% of Senate incumbents. [OpenSecrets: Insurance Industry Totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1), [Health Care un-covered: Private Health Insurance Spends Big](https://healthcareuncovered.substack.com/p/private-health-insurance-spends-big) (Tier 2)
+The insurance industry has contributed over $853 million to federal politicians from 1998–2024, favoring Republicans in every cycle but maintaining a 30–44% Democratic floor. 93% of Congressional incumbents running in 2024 received insurance contributions, including 100% of Senate incumbents. [FEC Receipts: Insurance Industry Totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1), [Health Care un-covered: Private Health Insurance Spends Big](https://healthcareuncovered.substack.com/p/private-health-insurance-spends-big) (Tier 2)
 
 AHIP (the insurance trade group) spent $96.4 million on lobbying from 2018–2024. Blue Cross Blue Shield spent $22.7 million lobbying in 2009 alone — the 6th largest lobbying spender in America that year. [OpenSecrets: Federal Lobbying 2009](https://www.opensecrets.org/news/2010/02/federal-lobbying-soars-in-2009/) (Tier 1)
 
@@ -35,9 +35,9 @@ AHIP (the insurance trade group) spent $96.4 million on lobbying from 2018–202
 
 Sen. Max Baucus (D-MT), Senate Finance Chair, received $1.5 million from health companies in 2007–2008 and $5.5 million career from the healthcare industry. His chief health counsel Liz Fowler — whom Baucus called "the architect" of the ACA — was a former WellPoint/Anthem Senior VP. Baucus refused to allow single-payer testimony (Capitol Police arrested 13 advocates) and excluded the public option from his committee's bill. [Consumer Watchdog: Baucus Reels in Big Healthcare Donations](https://consumerwatchdog.org/healthcare/baucus-reels-big-healthcare-donations/) (Tier 2), [Revolving Door Project: Elizabeth Fowler](https://therevolvingdoorproject.org/revolver-spotlight-elizabeth-fowler/) (Tier 2)
 
-Sen. Joe Lieberman (I-CT) received $1 million+ from the insurance industry over his career, with $467,944 from insurance in the 2005–2006 cycle alone. He threatened to filibuster unless both the public option and a Medicare buy-in were removed — reversing his own prior support for the Medicare buy-in. His wife Hadassah worked in health industry lobbying at Hill & Knowlton. [OpenSecrets: Joe Lieberman Industries 2006](https://www.congress.gov/search?q=Joe%20Lieberman&searchResultViewType=expanded) (Tier 1)
+Sen. Joe Lieberman (I-CT) received $1 million+ from the insurance industry over his career, with $467,944 from insurance in the 2005–2006 cycle alone. He threatened to filibuster unless both the public option and a Medicare buy-in were removed — reversing his own prior support for the Medicare buy-in. His wife Hadassah worked in health industry lobbying at Hill & Knowlton. [Congress.gov: Joe Lieberman Industries 2006](https://www.congress.gov/search?q=Joe%20Lieberman&searchResultViewType=expanded) (Tier 1)
 
-Sen. Ben Nelson (D-NE) was a former insurance executive. Insurance was his No. 1 industry contributor: $470,649 (2007–2012). [OpenSecrets: Ben Nelson Summary](https://www.fec.gov/data/candidate/S6NE00095/) (Tier 1)
+Sen. Ben Nelson (D-NE) was a former insurance executive. Insurance was his No. 1 industry contributor: $470,649 (2007–2012). [FEC Candidate: Ben Nelson Summary](https://www.fec.gov/data/candidate/S6NE00095/) (Tier 1)
 
 > [!contradiction]
 > Three Democrats killed the public option. All three had direct financial ties to the insurance industry — through donations (Baucus, Lieberman, Nelson), through employment (Nelson was a former insurance executive), through staffing (Baucus's chief health counsel was a former WellPoint VP), and through family (Lieberman's wife lobbied for health companies). The public option died not because Democrats lacked votes but because industry money controlled the votes that mattered.
@@ -112,9 +112,9 @@ The contradiction is not that the system fails. The contradiction is that both p
 
 ---
 
-- [OpenSecrets: Insurance Industry Totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [OpenSecrets: Joe Lieberman Industries 2006](https://www.congress.gov/search?q=Joe%20Lieberman&searchResultViewType=expanded) (Tier 1)
-- [OpenSecrets: Ben Nelson Summary](https://www.fec.gov/data/candidate/S6NE00095/) (Tier 1)
+- [FEC Receipts: Insurance Industry Totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [Congress.gov: Joe Lieberman Industries 2006](https://www.congress.gov/search?q=Joe%20Lieberman&searchResultViewType=expanded) (Tier 1)
+- [FEC Candidate: Ben Nelson Summary](https://www.fec.gov/data/candidate/S6NE00095/) (Tier 1)
 - [OpenSecrets: Big Pharma Insurers Hospitals Team Up to Kill Medicare for All](https://www.opensecrets.org/news/2019/03/big-pharma-insurers-hospitals-team-up-to-kill-medicare-for-all/) (Tier 1)
 - [OpenSecrets: Federal Lobbying 2009](https://www.opensecrets.org/news/2010/02/federal-lobbying-soars-in-2009/) (Tier 1)
 - [Consumer Watchdog: Baucus Healthcare Donations](https://consumerwatchdog.org/healthcare/baucus-reels-big-healthcare-donations/) (Tier 2)

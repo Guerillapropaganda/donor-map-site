@@ -43,7 +43,7 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 ### Sources
 
 - [ProPublica: Inside the Investigation of Leading Republican Money Man Sheldon Adelson](https://www.propublica.org/article/inside-the-investigation-of-leading-republican-money-man-sheldon-adelson) (Tier 2)
-- [OpenSecrets: Sheldon & Miriam Adelson Political Giving](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sheldon%20adelson) (Tier 1)
+- [FEC Receipts: Sheldon & Miriam Adelson Political Giving](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sheldon%20adelson) (Tier 1)
 
 ---
 

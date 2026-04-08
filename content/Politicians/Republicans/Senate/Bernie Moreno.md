@@ -86,7 +86,7 @@ Sherrod Brown represented labor. Bernie Moreno represents crypto capital. The 20
 
 ### Sources
 
-- [OpenSecrets: Bernie Moreno donor profile](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1)
+- [FEC Candidate: Bernie Moreno donor profile](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1)
 - [FEC: Bernie Moreno campaign finance filings](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1)
 - [Senate Financial Disclosure: Bernie Moreno](https://efdsearch.senate.gov/search/home/) (Tier 1)
 - [Axios: Bernie Moreno's crypto dream in the Ohio Senate race](https://www.axios.com/2024/10/01/moreno-brown-senate-crypto-money-trump) (Tier 2)

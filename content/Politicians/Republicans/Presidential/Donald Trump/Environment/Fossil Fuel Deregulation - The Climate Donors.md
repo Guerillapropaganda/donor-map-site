@@ -138,7 +138,7 @@ Not applicable in this case — the endangerment finding revocation is a compreh
 
 - [Yale Climate Connections: Fossil fuel industry $219M in 2024 political spending](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2)
 - [EPA: Endangerment finding and climate regulation](https://www.epa.gov/climate-change/endangerment-and-cause-or-contribute-findings-greenhouse-gases-under-section-202a) (Tier 1)
-- [OpenSecrets: Fossil fuel sector political spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Fossil fuel sector political spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: EPA revokes endangerment finding, March 19, 2026](https://news.ballotpedia.org/2026/03/19/epa-revokes-endangerment-finding-rolling-back-epa-regulation-of-greenhouse-gas-emissions/) (Tier 2)
 - [NBC News: EPA reverses long-standing climate change finding](https://www.nbcnews.com/science/climate-change/epa-reverses-endangerment-climate-change-finding-rcna258452) (Tier 2)
 - [EPA Final Rule: Rescission of the Greenhouse Gas Endangerment Finding](https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-rescission-greenhouse-gas-endangerment) (Tier 1)

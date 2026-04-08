@@ -228,8 +228,8 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 
 ### Sources
 
-- [OpenSecrets: Ro Khanna campaign finance summary (career)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
-- [OpenSecrets: Ro Khanna campaign finance summary (2024 cycle)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
+- [FEC Candidate: Ro Khanna campaign finance summary (career)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
+- [FEC Candidate: Ro Khanna campaign finance summary (2024 cycle)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
 - [FEC: Khanna candidate overview (H4CA12055)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
 - [Congress.gov: Ro Khanna member profile](https://www.congress.gov/member/ro-khanna/K000389) (Tier 1)
 - [Khanna.house.gov: Statement on lone NDAA no vote](https://khanna.house.gov/media/press-releases/statement-khanna-long-no-vote-ndaa-out-house-armed-services-committee) (Tier 1)

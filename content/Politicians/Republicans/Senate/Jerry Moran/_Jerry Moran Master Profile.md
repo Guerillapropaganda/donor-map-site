@@ -143,8 +143,8 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 
 ### Sources
 
-- [OpenSecrets: Jerry Moran donor profile](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1)
-- [OpenSecrets: Jerry Moran industry donors](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1)
+- [FEC Candidate: Jerry Moran donor profile](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1)
+- [FEC Candidate: Jerry Moran industry donors](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1)
 - [Senate.gov: Moran biography](https://www.moran.senate.gov/public/index.cfm/biography) (Tier 1)
 - [Senate.gov: Moran appointed to committees for 119th Congress](https://www.moran.senate.gov/public/index.cfm/2025/1/sen-moran-appointed-to-influential-committees-for-the-119th-congress) (Tier 1)
 - [Senate.gov: Moran Aviation Subcommittee chair](https://www.moran.senate.gov/public/index.cfm/2025/2/sen-moran-to-chair-the-senate-commerce-subcommittee-on-aviation-space-and-innovation) (Tier 1)

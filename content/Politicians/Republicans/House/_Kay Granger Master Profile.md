@@ -188,8 +188,8 @@ This is the ultimate expression of donor capture: not just funding a politician,
 
 ### Sources
 
-- [OpenSecrets: Kay Granger donor profile, 2020 cycle](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1)
-- [OpenSecrets: Kay Granger PAC receipts, defense sector](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1)
+- [FEC Candidate: Kay Granger donor profile, 2020 cycle](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1)
+- [FEC Candidate: Kay Granger PAC receipts, defense sector](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1)
 - [House Appropriations Committee roster](https://appropriations.house.gov/about) (Tier 1)
 - [Read Sludge: Kay Granger and Lockheed Martin ties](https://read-sludge.myopengov.com/politicians/kay-granger) (Tier 2)
 - [Washington Post: Kay Granger's senior facility revelation sparks debate over lawmakers' ages (2024)](https://www.washingtonpost.com/politics/2024/12/24/kay-granger-texas-congresswoman-age-facility/) (Tier 2)

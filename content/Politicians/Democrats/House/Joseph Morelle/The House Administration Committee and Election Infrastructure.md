@@ -35,7 +35,7 @@ Morelle's ranking member position became politically significant after January 6
 ### Sources
 
 - [Congress.gov: Joseph Morelle member profile](https://www.congress.gov/member/joseph-morelle/M001206) (Tier 1)
-- [OpenSecrets: Joseph Morelle campaign finance summary](https://www.fec.gov/data/candidate/H8NY25105/) (Tier 1)
+- [FEC Candidate: Joseph Morelle campaign finance summary](https://www.fec.gov/data/candidate/H8NY25105/) (Tier 1)
 - [Ballotpedia: Joseph Morelle](https://ballotpedia.org/Joe_Morelle) (Tier 3)
 
 content-readiness:: ready

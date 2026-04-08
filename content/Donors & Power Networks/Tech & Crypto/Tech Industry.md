@@ -125,7 +125,7 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 
 ### Sources
 
-- [OpenSecrets: Tech industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Tech industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Technology industry political spending](https://ballotpedia.org/Tech_Industry) (Tier 3)
 
 content-readiness:: ready

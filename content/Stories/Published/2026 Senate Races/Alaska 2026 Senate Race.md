@@ -73,7 +73,7 @@ Alaska's commercial fishing industry (salmon, halibut, pollock: $1.8B annual exp
 - [Alaska 2026 Senate race: Dan Sullivan vs Mary Peltola | Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Alaska,_2026) (Tier 3)
 - [Dan Sullivan 2020 campaign finances | FEC](https://www.fec.gov/data/candidate/S4AK00214/) (Tier 1)
 - [Mary Peltola campaign finances | FEC](https://www.fec.gov/data/candidate/S6AK00276/) (Tier 1)
-- [OpenSecrets: Dan Sullivan donor profile](https://www.fec.gov/data/candidate/H6MO01204/) (Tier 1)
+- [FEC Candidate: Dan Sullivan donor profile](https://www.fec.gov/data/candidate/H6MO01204/) (Tier 1)
 - [Dan Sullivan voting record: Arctic Refuge and energy votes | ProPublica Congress](https://projects.propublica.org/congress/members/S001181-dan-sullivan) (Tier 1)
 - [Oil industry keeps funding Republicans despite climate crisis | Alaska Dispatch News](https://www.adn.com/politics/2025/11/14/oil-industry-keeps-funding-republicans-despite-climate-crisis/) (Tier 2)
 - [OpenSecrets: Dan Sullivan vs. challengers — Alaska 2026 outside spending](https://www.opensecrets.org/races/outside-spending?cycle=2026&id=AKS1) (Tier 1)

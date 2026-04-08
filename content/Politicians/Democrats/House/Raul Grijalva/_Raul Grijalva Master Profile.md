@@ -135,7 +135,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 
 ### Sources
 
-- [OpenSecrets: Raul Grijalva donor profile](https://www.fec.gov/data/candidate/H2AZ07070/) (Tier 1)
+- [FEC Candidate: Raul Grijalva donor profile](https://www.fec.gov/data/candidate/H2AZ07070/) (Tier 1)
 - [Congress.gov: Raul M. Grijalva](https://www.congress.gov/member/raul-grijalva/G000551) (Tier 1)
 - [House Natural Resources Democrats: Ranking Member Grijalva](https://democrats-naturalresources.house.gov/about/ranking-member-grijalva) (Tier 1)
 - [Grijalva.house.gov: Biography](https://grijalva.house.gov/about/about) (Tier 1)

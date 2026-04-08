@@ -146,8 +146,8 @@ Scott's presidential bid raised $45.8M combined: $12.5M campaign committee, $22M
 
 ### Sources
 
-- [OpenSecrets: Tim Scott campaign finance summary (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
-- [OpenSecrets: Tim Scott top industries (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
+- [FEC Candidate: Tim Scott campaign finance summary (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
+- [FEC Candidate: Tim Scott top industries (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
 - [OpenSecrets: Tim Scott 2024 presidential race summary](https://www.opensecrets.org/2024-presidential-race?id=N00031782) (Tier 1)
 - [Congress.gov: Tax Cuts and Jobs Act (H.R.1, 115th Congress)](https://www.congress.gov/bill/115th-congress/house-bill/1/text) (Tier 1)
 - [Senate Banking Committee: Scott pushes for regulatory clarity in digital asset market structure legislation](https://www.banking.senate.gov/newsroom/majority/scott-pushes-for-regulatory-clarity-in-digital-asset-market-structure-legislation) (Tier 1)

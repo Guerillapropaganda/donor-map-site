@@ -130,8 +130,8 @@ The border deal collapse is the defining event of Lankford's career and the clea
 
 ### Sources
 
-- [OpenSecrets: James Lankford donor profile](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1)
-- [OpenSecrets: James Lankford industry donors](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1)
+- [FEC Candidate: James Lankford donor profile](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1)
+- [FEC Candidate: James Lankford industry donors](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1)
 - [Senate.gov: James Lankford biography](https://www.lankford.senate.gov/about/bio/) (Tier 1)
 - [Senate.gov: Lankford committee assignments](https://www.lankford.senate.gov/about/committees/) (Tier 1)
 - [Senate.gov: Lankford secures wins for Oklahoma energy in One Big Beautiful Bill](https://www.lankford.senate.gov/news/press-releases/lankford-secures-major-wins-for-oklahoma-families-energy-producers-and-small-businesses-in-one-big-beautiful-bill/) (Tier 1)

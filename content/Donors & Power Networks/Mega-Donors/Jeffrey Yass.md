@@ -371,9 +371,9 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 ### Sources
 
 ### OpenSecrets & FEC (Tier 1):
-- [OpenSecrets: Jeffrey Yass donor detail — 2024 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Yass) (Tier 1)
-- [OpenSecrets: Jeffrey Yass donor detail — 2020 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20S%20Yass) (Tier 1)
-- [OpenSecrets: Jeffrey Yass donor lookup (by amount descending)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Yass) (Tier 1)
+- [FEC Independent Expenditures: Jeffrey Yass donor detail — 2024 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Yass) (Tier 1)
+- [FEC Independent Expenditures: Jeffrey Yass donor detail — 2020 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20S%20Yass) (Tier 1)
+- [FEC Receipts: Jeffrey Yass donor lookup (by amount descending)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Yass) (Tier 1)
 - [OpenSecrets: Club for Growth Action 2024 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2024) (Tier 1)
 - [OpenSecrets: Club for Growth Action 2022 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2022) (Tier 1)
 - [OpenSecrets: Club for Growth Action 2020 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2020) (Tier 1)

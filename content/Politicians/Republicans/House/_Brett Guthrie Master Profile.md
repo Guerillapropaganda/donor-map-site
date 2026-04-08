@@ -119,7 +119,7 @@ Guthrie supports PBM transparency requirements and fee disclosure — which moll
 
 ### Sources
 
-- [OpenSecrets: Rep Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1)
+- [FEC Candidate: Rep Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1)
 - [PhRMA 2024 Campaign Finance Data](https://www.opensecrets.org/orgs/pharmaceuticals-health-products/summary?id=D000000149) (Tier 1)
 - [House Energy & Commerce Committee Composition, 118th Congress](https://energycommerce.house.gov/about) (Tier 1)
 - [Orphan Drug Act expansion votes, Rep Guthrie record](https://www.govtrack.us/congress/members/vern_buchanan/412196) (Tier 1)

@@ -189,7 +189,7 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 
 ### Sources
 
-- [OpenSecrets: NRA Outside Spending 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
+- [FEC Independent Expenditures: NRA Outside Spending 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 - [OpenSecrets: NRA Profile Summary](https://www.opensecrets.org/orgs/national-rifle-assn/summary?id=D000000082) (Tier 1)
 - [OpenSecrets: NRA Recipients Profile](https://www.opensecrets.org/orgs/national-rifle-assn/recipients?id=D000000082) (Tier 1)
 - [FEC: NRA Political Victory Fund 2024](https://www.fec.gov/data/committee/C00053553/) (Tier 1)

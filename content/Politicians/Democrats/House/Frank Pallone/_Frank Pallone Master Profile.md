@@ -120,7 +120,7 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 
 ### Sources
 
-- [OpenSecrets: Frank Pallone campaign finance summary](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
+- [FEC Candidate: Frank Pallone campaign finance summary](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
 - [FEC: Frank Pallone candidate filings](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
 - [C-SPAN: RFK Jr. accuses Pallone of $2M pharma donations at E&C hearing](https://www.c-span.org/clip/house-committee/sec-kennedy-accuses-rep-pallone-of-receiving-2-million-of-contributions-from-pharmaceutical-companies/5166292) (Tier 1)
 - [Congress.gov: H.R. 3 — Elijah E. Cummings Lower Drug Costs Now Act](https://www.congress.gov/bill/116th-congress/house-bill/3) (Tier 1)

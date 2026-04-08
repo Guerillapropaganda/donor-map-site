@@ -260,9 +260,9 @@ BGR's 58% revenue surge in Trump's first year of his second term is the monetary
 
 ### Sources
 
-- [OpenSecrets: BGR Group Lobbying Profile — $71.5M revenue (2025), 328 clients, firm summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: BGR Group Lobbyists 2024 — 36 lobbyists, 31 (86.1%) revolving door](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: BGR Group Issues Lobbied 2024 — issue area breakdown by client count](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: BGR Group Lobbying Profile — $71.5M revenue (2025), 328 clients, firm summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: BGR Group Lobbyists 2024 — 36 lobbyists, 31 (86.1%) revolving door](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: BGR Group Issues Lobbied 2024 — issue area breakdown by client count](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Sean P. Duffy Revolving Door Profile — congressman to BGR lobbyist to Transportation Secretary](https://www.opensecrets.org/revolving-door/duffy-sean-p/summary?id=82248) (Tier 1)
 - [OpenSecrets News: Lobbying firms took in a record $5 billion in 2025 — BGR ranked #3 nationally](https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/) (Tier 1)
 - [OpenSecrets News: As lobbying revenue grows at record pace, Trump-aligned firms reap the biggest rewards — BGR growth attributed to Urban/Trump ties](https://www.opensecrets.org/news/2025/11/as-lobbying-revenue-grows-at-record-pace-trump-aligned-firms-reap-the-biggest-rewards) (Tier 1)

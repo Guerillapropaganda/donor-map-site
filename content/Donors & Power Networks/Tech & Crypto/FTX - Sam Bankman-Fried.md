@@ -120,7 +120,7 @@ SBF represents the purest case study in the vault of money-as-political-infrastr
 - [FEC: Protect Our Future PAC Committee Overview (C00801514)](https://www.fec.gov/data/committee/C00801514/) (Tier 1)
 - [Congress.gov: Digital Commodities Consumer Protection Act (S.4760)](https://www.congress.gov/bill/117th-congress/senate-bill/4760) (Tier 1)
 - [OpenSecrets: Protect Our Future PAC 2022](https://www.opensecrets.org/political-action-committees-pacs/protect-our-future-pac/C00801514/summary/2022) (Tier 1)
-- [OpenSecrets: FTX.US Lobbying Profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: FTX.US Lobbying Profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [CNBC: SBF Convicted on All Seven Criminal Fraud Counts](https://www.cnbc.com/2023/11/02/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts.html) (Tier 2)
 - [NBC News: SBF Sentenced to 25 Years](https://www.nbcnews.com/business/business-news/sam-bankman-fried-sentenced-25-years-prison-orchestrating-ftx-fraud-rcna145286) (Tier 2)
 - [CBS News: SBF Political Donations — Where Did They Go?](https://www.cbsnews.com/news/ftx-sam-bankman-fried-political-donations-2022/) (Tier 2)

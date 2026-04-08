@@ -175,8 +175,8 @@ See sub-note: [[The Folksy Populist Brand and Petrochemical Reality]]
 
 ### Sources
 
-- [OpenSecrets: John Kennedy campaign finance summary](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
-- [OpenSecrets: John Kennedy industry breakdown 2024 cycle](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
+- [FEC Candidate: John Kennedy campaign finance summary](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
+- [FEC Candidate: John Kennedy industry breakdown 2024 cycle](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
 - [Congress.gov: John Kennedy member profile](https://www.congress.gov/member/john-kennedy/K000393) (Tier 1)
 - [Kennedy.senate.gov: Transparency in CFPB Cost-Benefit Analysis Act (2023)](https://www.kennedy.senate.gov/public/2023/5/kennedy-introduces-bill-to-protect-taxpayers-from-cfpb-bureaucracy) (Tier 1)
 - [Kennedy.senate.gov: Bill to repeal CFPB small business data rule (2025)](https://www.kennedy.senate.gov/public/2025/2/kennedy-champions-bill-to-repeal-woke-cfpb-rule-forcing-banks-to-collect-data-on-sex-ethnicity-from-small-businesses) (Tier 1)

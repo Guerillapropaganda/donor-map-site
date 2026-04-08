@@ -201,9 +201,9 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 ### Sources
 
-- [OpenSecrets: Sheldon Whitehouse campaign finance summary](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
-- [OpenSecrets: Sheldon Whitehouse career industry breakdown](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
-- [OpenSecrets: Sheldon Whitehouse career top contributors](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
+- [FEC Candidate: Sheldon Whitehouse campaign finance summary](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
+- [FEC Candidate: Sheldon Whitehouse career industry breakdown](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
+- [FEC Candidate: Sheldon Whitehouse career top contributors](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
 - [FEC: Sheldon Whitehouse candidate profile](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
 - [Congress.gov: DISCLOSE Act of 2023 (S.512, 118th Congress)](https://www.congress.gov/bill/118th-congress/senate-bill/512) (Tier 1)
 - [Senator Whitehouse: The Scheme 30 — Update on Captured Supreme Court](https://www.whitehouse.senate.gov/news/speeches/the-scheme-30-an-update-on-the-captured-supreme-court/) (Tier 1)

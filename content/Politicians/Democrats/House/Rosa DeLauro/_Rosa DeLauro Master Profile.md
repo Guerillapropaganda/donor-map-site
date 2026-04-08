@@ -114,7 +114,7 @@ On healthcare, she leads with children and families — the child tax credit, sc
 
 ### Sources
 
-- [OpenSecrets: Rosa DeLauro donor profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
+- [FEC Candidate: Rosa DeLauro donor profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
 - [FEC: Rosa DeLauro candidate profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
 - [House Appropriations Committee: Ranking Member DeLauro](https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro) (Tier 1)
 - [Track AIPAC: Rosa DeLauro Israel lobby contributions](https://www.trackaipac.com/congress) (Tier 2)

@@ -208,9 +208,9 @@ The bipartisan structure serves a specific commercial function: it makes the fir
 
 ### Sources
 
-- [OpenSecrets: Mehlman Consulting Lobbying Firm Profile — Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Mehlman Consulting Lobbyists — Revolving Door Data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Mehlman Consulting Issues Lobbied](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Mehlman Consulting Lobbying Firm Profile — Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Mehlman Consulting Lobbyists — Revolving Door Data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Mehlman Consulting Issues Lobbied](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Mehlman Consulting: Official Website — Bipartisan Team](https://mehlmanconsulting.com/bipartisan-team/) (Tier 4)
 - [Mehlman Consulting: Bruce P. Mehlman Bio](https://mehlmanconsulting.com/team-member/bruce-p-mehlman/) (Tier 4)
 - [Mehlman Consulting: Dean A. Rosen Bio](https://www.mehlmanconsulting.com/team-member/dean-a-rosen/) (Tier 4)

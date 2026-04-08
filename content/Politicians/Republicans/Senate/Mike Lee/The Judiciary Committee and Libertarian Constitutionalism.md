@@ -37,7 +37,7 @@ The alignment between libertarian constitutionalism and tech industry preference
 ### Sources
 
 - [Congress.gov: Mike Lee member profile](https://www.congress.gov/member/mike-lee/L000577) (Tier 1)
-- [OpenSecrets: Mike Lee campaign finance summary](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
+- [FEC Candidate: Mike Lee campaign finance summary](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
 - [Ballotpedia: Mike Lee](https://ballotpedia.org/Mike_Lee_(Utah)) (Tier 3)
 
 content-readiness:: ready

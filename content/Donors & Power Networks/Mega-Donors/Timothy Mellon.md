@@ -203,7 +203,7 @@ The $504M didn't arrive in 2024. It arrived over seven cycles of escalating givi
 | 2024 | ~$165 million | Second-largest individual donor behind Musk; $150M to MAGA Inc |
 | 2025 (non-cycle) | $132 million | $130M to Pentagon (shutdown), $2M to MAGA Inc |
 
-Source: [Forbes, Oct. 28, 2025 — Mellon likely donated more than half his fortune](https://www.forbes.com/sites/phoebeliu/2025/10/28/timothy-mellon-has-likely-donated-more-than-half-his-fortune-to-trump-politics/) (Tier 2); [OpenSecrets: Timothy Mellon donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Timothy%20Mellon) (Tier 1).
+Source: [Forbes, Oct. 28, 2025 — Mellon likely donated more than half his fortune](https://www.forbes.com/sites/phoebeliu/2025/10/28/timothy-mellon-has-likely-donated-more-than-half-his-fortune-to-trump-politics/) (Tier 2); [FEC Receipts: Timothy Mellon donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Timothy%20Mellon) (Tier 1).
 
 Between 2018 and 2024 Mellon's giving grew 16x. That's not a political awakening. That's a dynasty deploying assets as Trump's coalition hardened into an immigration-and-tax-cuts vehicle.
 
@@ -222,7 +222,7 @@ Sources: [NOTUS: Mellon-RFK-Trump donor](https://www.notus.org/2024-election/tim
 ### Sources
 
 ### Political Spending:
-- [OpenSecrets: Timothy Mellon 2024 donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=timothy%20mellon) (Tier 1)
+- [FEC Receipts: Timothy Mellon 2024 donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=timothy%20mellon) (Tier 1)
 - [OpenSecrets News: Mellon as major donor](https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/) (Tier 1)
 - [Yahoo Finance: Mellon all-time political spending](https://finance.yahoo.com/news/reclusive-billionaire-timothy-mellon-has-spent-504-million-on-trump-and-gop-causes-113025926.html) (Tier 2)
 - [CNBC: Mellon political spending](https://www.cnbc.com/2024/11/07/timothy-mellon-quietly-spent-165-million-on-2024-election-making-him-second-largest-donor.html) *(source unavailable)* (Tier 2)

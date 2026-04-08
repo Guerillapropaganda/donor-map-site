@@ -51,8 +51,8 @@ From 2020 to 2024, private firms received $2.4 trillion in Pentagon contracts �
 
 The defense sector spent $159.2 million on lobbying in 2024 alone, employing 1,017 lobbyists — 617 of whom (60.67%) previously held government positions. Total political contributions in the 2024 cycle: $43.5 million, split 45% Democratic, 52% Republican. The near-even split is the defining feature: defense contractors are the paradigm case of bipartisan donor strategy because defense spending enjoys bipartisan support regardless of which party controls Congress or the White House.
 
-- [OpenSecrets: Defense sector summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [OpenSecrets: Defense sector totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Defense sector summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Defense sector totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Quincy Institute/Brown University: Profits of War — Top Beneficiaries of Pentagon Spending, 2020-2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/) (Tier 2)
 
 ---
@@ -102,8 +102,8 @@ Defense contractors fund everyone — that's the point. The industry's bipartisa
 
 **Key recipients:** Defense PAC money flows overwhelmingly to members of the Armed Services, Appropriations, and Intelligence committees — the gatekeepers who write defense budgets and approve weapons programs. Committee chairs and ranking members from both parties receive the largest contributions.
 
-- [OpenSecrets: Defense sector summary — top contributors 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [OpenSecrets: Defense lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Defense sector summary — top contributors 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Defense lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 
@@ -160,9 +160,9 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 
 ### Sources
 
-- [OpenSecrets: Defense sector summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [OpenSecrets: Defense sector totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [OpenSecrets: Defense lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Defense sector summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Defense sector totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Defense lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [OpenSecrets: Revolving door lobbyists help defense contractors in 2023](https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/) (Tier 2)
 - [DOD: Contract announcements](https://www.defense.gov/News/Contracts/) (Tier 1)
 - [Quincy Institute/Brown University: Profits of War — Top Beneficiaries of Pentagon Spending, 2020-2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/) (Tier 2)

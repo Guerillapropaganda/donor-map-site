@@ -20,7 +20,7 @@ related: [[_Ted Cruz Master Profile|Ted Cruz]] [[_Steve Scalise Master Profile|S
 
 ---
 
-NAR spent $86.4 million on federal lobbying in 2024 — more than any other organization in the United States — a 10× increase from $17.6 million in 2010. The real estate sector total: $150.9 million in federal lobbying in 2024. Finance/insurance/real estate combined: $636 million. [OpenSecrets: NAR Lobbying Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1), [RealEstateNews.com: NAR Spent More on Lobbying Than Any Other Group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2)
+NAR spent $86.4 million on federal lobbying in 2024 — more than any other organization in the United States — a 10× increase from $17.6 million in 2010. The real estate sector total: $150.9 million in federal lobbying in 2024. Finance/insurance/real estate combined: $636 million. [Senate LDA Filings: NAR Lobbying Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1), [RealEstateNews.com: NAR Spent More on Lobbying Than Any Other Group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2)
 
 NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3% Republican in 2024; 50.7% Democrat / 49.3% Republican in 2022. RPAC raised $45.8 million in 2024. NAR gave $2 million to Senate Majority PAC (Democratic) and $1 million to Senate Leadership Fund (Republican) — buying both sides simultaneously. [OpenSecrets: NAR Totals](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062) (Tier 1)
 
@@ -115,7 +115,7 @@ The result: housing costs rise, homeownership rates stagnate for working-class A
 
 ---
 
-- [OpenSecrets: NAR Lobbying Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: NAR Lobbying Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: NAR Totals](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062) (Tier 1)
 - [OpenSecrets: NAR Recipients](https://www.opensecrets.org/orgs/national-assn-of-realtors/recipients?id=D000000062) (Tier 1)
 - [RealEstateNews: NAR Spent More on Lobbying Than Any Other Group 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2)

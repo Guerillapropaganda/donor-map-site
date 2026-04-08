@@ -183,7 +183,7 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 
 - [OpenSecrets: Heritage Foundation summary](https://www.opensecrets.org/orgs/heritage-foundation/summary?id=D000034435) (Tier 1)
 - [OpenSecrets: Heritage Foundation lobbying](https://www.opensecrets.org/orgs/heritage-foundation/lobbying?id=D000034435) (Tier 1)
-- [OpenSecrets: Heritage Action political spending](https://www.fec.gov/data/independent-expenditures/?q=Political%20Nonprofits) (Tier 1)
+- [FEC Independent Expenditures: Heritage Action political spending](https://www.fec.gov/data/independent-expenditures/?q=Political%20Nonprofits) (Tier 1)
 - [OpenSecrets: Heritage Action independent expenditures 2018](https://www.opensecrets.org/political-action-committees-pacs/C90013525/independent-expenditures/2018) (Tier 1)
 - [ProPublica Nonprofit Explorer: Heritage Foundation 990 filings](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1)
 - [Heritage Foundation: Consolidated Financial Report 2024](https://static.heritage.org/2024/Financial.pdf) (Tier 1)

@@ -43,8 +43,8 @@ Neal also championed the restoration of the state and local tax (SALT) deduction
 ### Sources
 
 - [Congress.gov: Richard Neal member profile](https://www.congress.gov/member/richard-neal/N000015) (Tier 1)
-- [OpenSecrets: Richard Neal campaign finance summary](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
-- [OpenSecrets: Richard Neal top industries](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
+- [FEC Candidate: Richard Neal campaign finance summary](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
+- [FEC Candidate: Richard Neal top industries](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
 - [Joint Committee on Taxation: SALT deduction distributional analysis](https://www.jct.gov/publications/?search_term=The%20Ways%20and%20Means%20Gavel%20and%20Corporate%20Tax%20Architecture) (Tier 1)
 - [Jacobin: Richard Neal Is Making Sure a Wall Street Tax Break Survives to Keep Enriching His Donors](https://jacobin.com/2020/08/richard-neal-carried-interest-loophole-massachusetts) (Tier 3)
 - [OpenSecrets: Ways and Means Committee — top industries and donors](https://www.opensecrets.org/cong-cmtes/industries?cmte=HWYS&congno=118&cycle=2024) (Tier 1)

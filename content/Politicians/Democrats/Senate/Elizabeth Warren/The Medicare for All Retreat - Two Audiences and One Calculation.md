@@ -243,7 +243,7 @@ Warren's retreat from immediate M4A to a "transition plan" was the moment she ac
 - [Washington Post: Warren's Medicare proposal — Is she an electable revolutionary?](https://www.washingtonpost.com/politics/elizabeth-warren-proposes-new-taxes-to-fund-medicare-for-all-but-says-middle-class-would-be-spared/2019/11/01/13518ae6-fc1a-11e9-ac8c-8eced29ca6ef_story.html) (Tier 2)
 - [The New Republic: Elizabeth Warren Retreats From Medicare for All](https://newrepublic.com/article/155756/elizabeth-warren-retreats-medicare) (Tier 2)
 - [CNN Politics: Elizabeth Warren Drops Out of 2020 Presidential Race](https://www.cnn.com/2020/03/05/politics/elizabeth-warren-drops-out) (Tier 2)
-- [OpenSecrets: Elizabeth Warren 2024 Donor Industries](https://www.fec.gov/data/candidate/P00009621/) (Tier 1)
+- [FEC Candidate: Elizabeth Warren 2024 Donor Industries](https://www.fec.gov/data/candidate/P00009621/) (Tier 1)
 - [FEC: Elizabeth Warren Candidate Filing Data](https://www.fec.gov/data/candidate/S2MA00170/) (Tier 1)
 
 ---

@@ -118,7 +118,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 ### Sources
 
-- [OpenSecrets: Jason Smith Campaign Finance Summary](https://www.fec.gov/data/candidate/P20005559/) (Tier 1)
+- [FEC Candidate: Jason Smith Campaign Finance Summary](https://www.fec.gov/data/candidate/P20005559/) (Tier 1)
 - [FEC: Jason Smith for Congress Committee (C00541862)](https://www.fec.gov/data/committee/C00541862/) (Tier 1)
 - [Congress.gov: Rep. Jason Smith Member Profile](https://www.congress.gov/member/jason-smith/S001195) (Tier 1)
 - [House Ways and Means Committee: Chairman Jason Smith](https://waysandmeans.house.gov/the-chairman/) (Tier 1)

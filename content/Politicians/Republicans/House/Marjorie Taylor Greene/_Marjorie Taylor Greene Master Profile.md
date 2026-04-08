@@ -152,7 +152,7 @@ Greene aligned with the Department of Government Efficiency (DOGE) framework and
 
 ### Sources
 
-- [OpenSecrets: Marjorie Taylor Greene campaign finance summary](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1)
+- [FEC Candidate: Marjorie Taylor Greene campaign finance summary](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1)
 - [OpenSecrets: MTG heads for the exit after controversy-fueled fundraising trail](https://www.opensecrets.org/news/2025/12/marjorie-taylor-greene-heads-for-the-exit-having-blazed-a-controversy-fueled-fundraising-trail/) (Tier 1)
 - [ProPublica: How MTG juiced her fundraising numbers](https://www.propublica.org/article/how-josh-hawley-and-marjorie-taylor-greene-juiced-their-fundraising-numbers) (Tier 2)
 - [CNBC: Marjorie Taylor Greene expresses regret about QAnon](https://www.cnbc.com/2021/02/04/marjorie-taylor-greene-regret-qanon-conspiracy-claims.html) (Tier 2)

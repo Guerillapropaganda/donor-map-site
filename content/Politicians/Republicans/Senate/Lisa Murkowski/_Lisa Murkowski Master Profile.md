@@ -134,8 +134,8 @@ Murkowski is not a simple industry puppet. She supports climate science, biparti
 
 ### Sources
 
-- [OpenSecrets: Lisa Murkowski donor profile](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1)
-- [OpenSecrets: Lisa Murkowski industry donors](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1)
+- [FEC Candidate: Lisa Murkowski donor profile](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1)
+- [FEC Candidate: Lisa Murkowski industry donors](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1)
 - [OpenSecrets: Murkowski backed by oil industry (2015)](https://www.opensecrets.org/news/2015/02/murkowski-backed-by-oil-industry-is-getting-the-fight-shes-been-pining-for-on-tuesday) (Tier 1)
 - [Senate.gov: Lisa Murkowski about](https://www.murkowski.senate.gov/about-lisa) (Tier 1)
 - [Senate.gov: Murkowski Willow Project statement](https://www.murkowski.senate.gov/press/release/murkowski-welcomes-major-announcement-on-alaskas-willow-project) (Tier 1)

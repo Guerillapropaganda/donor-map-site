@@ -171,9 +171,9 @@ The class function: TRP exists to make sure that large institutional interests �
 
 ### Sources
 
-- [OpenSecrets: Thorn Run Partners Lobbying Profile 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Thorn Run Partners Lobbyists 2024 — 22 of 35 revolvers (62.9%)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Thorn Run Partners Lobbying Profile 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Thorn Run Partners Lobbying Profile 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Thorn Run Partners Lobbyists 2024 — 22 of 35 revolvers (62.9%)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Thorn Run Partners Lobbying Profile 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Revolving Door — Thorn Run Partners employer search](https://www.opensecrets.org/revolving-door/search_result?priv=Thorn+Run+Partners) (Tier 1)
 - [Roll Call: Ex-Ogilvy Lobbyists Launch Thorn Run Partners (January 5, 2010)](https://rollcall.com/2010/01/05/ex-ogilvy-lobbyists-launch-thorn-run-partners/) (Tier 2)
 - [Thorn Run Partners: Veteran Defense Lobbyist Greg Lankler Joins Thorn Run Partners](https://thornrun.com/veteran-defense-lobbyist-greg-lankler-joins-thorn-run-partners/) (Tier 3)

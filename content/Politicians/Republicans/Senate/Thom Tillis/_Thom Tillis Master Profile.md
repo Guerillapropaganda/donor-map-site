@@ -181,7 +181,7 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 
 ### Sources
 
-- [OpenSecrets: Thom Tillis campaign finance summary](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
+- [FEC Candidate: Thom Tillis campaign finance summary](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
 - [FEC: Thom Tillis candidate profile](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
 - [WBTV (Charlotte): Tillis took pharmaceutical money within weeks of co-sponsoring new drug price bill](https://www.wbtv.com/2020/09/16/tillis-took-pharmaceutical-money-within-weeks-co-sponsoring-new-drug-price-bill/) (Tier 2)
 - [KFF Health News: Senators Who Led Pharma-Friendly Patent Reform Also Prime Targets For Pharma Cash](https://kffhealthnews.org/news/senators-who-led-pharma-friendly-patent-reform-also-prime-targets-for-pharma-cash/) (Tier 2)

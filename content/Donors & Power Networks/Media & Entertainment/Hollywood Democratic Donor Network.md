@@ -139,9 +139,9 @@ Netflix has produced sympathetic biographical documentaries on Democratic politi
 
 ### Sources
 
-- [OpenSecrets: Jeffrey Katzenberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeffrey%20Katzenberg) (Tier 1)
-- [OpenSecrets: David Geffen donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20Geffen) (Tier 1)
-- [OpenSecrets: Haim Saban donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Haim%20Saban) (Tier 1)
+- [FEC Receipts: Jeffrey Katzenberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeffrey%20Katzenberg) (Tier 1)
+- [FEC Receipts: David Geffen donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20Geffen) (Tier 1)
+- [FEC Receipts: Haim Saban donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Haim%20Saban) (Tier 1)
 - [Variety: "Hollywood Donors Feel 'Tremendous Enthusiasm' for Kamala Harris"](https://variety.com/2024/politics/news/hollywood-donors-kamala-harris-support-joe-biden-jeffrey-katzenberg-1236080773/) (Tier 2)
 - [Hollywood Reporter: "Jeffrey Katzenberg rescues Democratic fundraising in Hollywood"](https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/) (Tier 2)
 - [The Ankler: "After Katzenberg: Hollywood Democrats Come Back To Life"](https://theankler.com/p/after-katzenberg-hollywood-democrats) (Tier 2)

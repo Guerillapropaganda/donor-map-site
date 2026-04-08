@@ -159,8 +159,8 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 
 ### Sources
 
-- [OpenSecrets: Shelley Moore Capito donor profile](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
-- [OpenSecrets: Shelley Moore Capito industry donors](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
+- [FEC Candidate: Shelley Moore Capito donor profile](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
+- [FEC Candidate: Shelley Moore Capito industry donors](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
 - [Senate EPW Committee: Chairman Capito](https://www.epw.senate.gov/public/public/index.cfm/chairman-capito) (Tier 1)
 - [Senate.gov: Shelley Moore Capito energy & environment](https://www.capito.senate.gov/about/issues/energy-and-environment) (Tier 1)
 - [Senate.gov: Capito commends Trump EPA repeal of Biden coal regulations](https://www.capito.senate.gov/news/press-releases/-capito-commends-trump-epas-repeal-of-biden-era-attacks-on-coal) (Tier 1)

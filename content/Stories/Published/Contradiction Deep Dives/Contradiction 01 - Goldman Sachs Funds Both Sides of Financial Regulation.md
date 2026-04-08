@@ -281,7 +281,7 @@ Across three decades, four presidents, and multiple Congress-control shifts, Gol
 
 - [OpenSecrets: Goldman Sachs Profile — Summary](https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085) (Tier 1)
 - [OpenSecrets: Goldman Sachs PAC Contributions 2024](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/C00350744/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Sen. Chuck Schumer Career Contributions](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1)
+- [FEC Candidate: Sen. Chuck Schumer Career Contributions](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1)
 - [NPR: The Ted Cruz Goldman Sachs Loan, Explained](https://www.npr.org/2016/01/14/463093708/the-ted-cruz-goldman-sachs-loan-explained) (Tier 2)
 - [Wikipedia: Heidi Cruz](https://en.wikipedia.org/wiki/Heidi_Cruz) (Tier 3)
 - [In These Times: Cory Booker Wall Street and Private Equity Donations](https://inthesetimes.com/article/cory-booker-wall-street-private-equity-pharma-pac-goldman-sachs) (Tier 2)

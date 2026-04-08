@@ -99,7 +99,7 @@ Congressional Democrats probed companies awarded the $220M ad contract for ties 
 
 ### Sources
 
-- [OpenSecrets: Kristi Noem campaign finance summary](https://www.fec.gov/data/candidate/H0SD00054/) (Tier 1)
+- [FEC Candidate: Kristi Noem campaign finance summary](https://www.fec.gov/data/candidate/H0SD00054/) (Tier 1)
 - [ProPublica: Kristi Noem secretly took personal cut of political donations](https://www.propublica.org/article/kristi-noem-political-donations-income-dark-money-dhs-ethics) (Tier 1)
 - [ProPublica: Kristi Noem-tied firm secretly got piece of $220M DHS campaign](https://www.propublica.org/article/kristi-noem-dhs-ad-campaign-strategy-group) (Tier 1)
 - [Bloomberg: Trump fires DHS head Kristi Noem amid $240M ad campaign](https://www.bloomberg.com/news/articles/2026-03-07/trump-fires-dhs-head-kristi-noem-amid-240-million-ad-campaign) (Tier 2)

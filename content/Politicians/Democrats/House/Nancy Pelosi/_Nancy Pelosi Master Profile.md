@@ -190,7 +190,7 @@ The DCCC blacklist, the dues system, the committee assignment leverage, the prog
 
 Detailed sourcing is in each sub-note. Key sources for the master profile:
 
-- [OpenSecrets: Nancy Pelosi Campaign Finance Summary](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1)
+- [FEC Candidate: Nancy Pelosi Campaign Finance Summary](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1)
 - [Federal Election Commission: Candidate Filings](https://www.fec.gov/data/filings/) (Tier 1)
 - Track AIPAC — Pelosi pro-Israel donations ($618K+) (Tier 1)
 - The Intercept — DCCC committee dues system, blacklist policy (Tier 2)

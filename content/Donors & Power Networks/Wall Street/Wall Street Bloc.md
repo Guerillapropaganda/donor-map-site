@@ -32,7 +32,7 @@ See [[Financial Services Donors]], [[Securities & Investment Industry]], and [[G
 
 ### Sources
 
-- [OpenSecrets: Finance sector contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Finance sector contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Wall Street political spending](https://ballotpedia.org/Wall_Street_Bloc) (Tier 3)
 
 content-readiness:: ready

@@ -49,7 +49,7 @@ Whitehouse's dark money crusade faces a credibility challenge: Democratic dark m
 ### Sources
 
 - [Congress.gov: Sheldon Whitehouse member profile](https://www.congress.gov/member/sheldon-whitehouse/W000802) (Tier 1)
-- [OpenSecrets: Sheldon Whitehouse campaign finance summary](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
+- [FEC Candidate: Sheldon Whitehouse campaign finance summary](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
 - [Senate Judiciary Committee: Whitehouse dark money investigations](https://www.judiciary.senate.gov/committee-activity/hearings) (Tier 1)
 - [Congress.gov: DISCLOSE Act](https://www.congress.gov/bill/118th-congress/senate-bill/3512) (Tier 1)
 - [ProPublica: Clarence Thomas Acknowledges Undisclosed Free Trips From Harlan Crow](https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow) (Tier 2)

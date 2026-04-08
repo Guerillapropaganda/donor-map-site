@@ -215,8 +215,8 @@ The firm's 318-client roster in 2024 also reveals the breadth of the Donor Map's
 
 ### Sources
 
-- [OpenSecrets: Holland & Knight Lobbying Profile 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Holland & Knight Lobbyists 2024-2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Holland & Knight Lobbying Profile 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Holland & Knight Lobbyists 2024-2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [E&E News: Biden's EPA chemicals chief lands new job (Freedhoff)](https://www.eenews.net/articles/bidens-epa-chemicals-chief-lands-new-job/) (Tier 2)
 - [Holland & Knight: Former EPA Chemical Safety AA Michal Freedhoff Joins](https://www.hklaw.com/en/news/pressreleases/2025/04/former-epa-chemical-safety-assistant-administrator-michal-freedhoff) (Tier 3)
 - [Holland & Knight: Former Congressman Tom Davis Joins Holland & Knight (2019)](https://www.hklaw.com/en/news/pressreleases/2019/01/former-congressman-tom-davis-joins-holland--knight) (Tier 3)

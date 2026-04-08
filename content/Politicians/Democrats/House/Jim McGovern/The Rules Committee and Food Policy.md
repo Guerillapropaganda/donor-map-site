@@ -35,7 +35,7 @@ McGovern's signature policy issue — separate from his procedural role — is h
 ### Sources
 
 - [Congress.gov: Jim McGovern member profile](https://www.congress.gov/member/james-mcgovern/M000312) (Tier 1)
-- [OpenSecrets: Jim McGovern campaign finance summary](https://www.congress.gov/search?q=Jim%20Mcgovern&searchResultViewType=expanded) (Tier 1)
+- [Congress.gov: Jim McGovern campaign finance summary](https://www.congress.gov/search?q=Jim%20Mcgovern&searchResultViewType=expanded) (Tier 1)
 - [Ballotpedia: Jim McGovern](https://ballotpedia.org/Jim_McGovern) (Tier 3)
 
 content-readiness:: ready

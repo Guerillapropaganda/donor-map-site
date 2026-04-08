@@ -253,7 +253,7 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 
 ### Sources
 
-- [OpenSecrets: Jon Ossoff Campaign Finance Summary](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1)
+- [FEC Candidate: Jon Ossoff Campaign Finance Summary](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1)
 - [FEC: Jon Ossoff Candidate Profile](https://www.fec.gov/data/candidate/S8GA00180/) (Tier 1)
 - [CNN: Democrats Ossoff and Warnock each raise more than $100 million for Georgia Senate runoffs](https://www.cnn.com/2020/12/24/politics/georgia-senate-runoffs-ossoff-warnock-fundraising) (Tier 2)
 - [The Hill: Ossoff, Warnock each rake in over $100 million](https://thehill.com/homenews/campaign/531652-ossoff-warnock-each-rake-in-over-100-million-in-recent-months/) (Tier 2)

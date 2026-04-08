@@ -50,7 +50,7 @@ Amy Klobuchar. Democrat, Minnesota. Senator since 2007. Chair of the Judiciary S
 
 Minnesota's economy anchors her donor base: 3M, Cargill, General Mills, Medtronic, and UnitedHealth Group all headquartered in the state. Her constituency alignment is corporate-moderate â€” the professionals, agribusiness executives, and healthcare company employees who fund her campaigns are the same people she represents.
 
-- [OpenSecrets: Amy Klobuchar campaign finance summary](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
+- [FEC Candidate: Amy Klobuchar campaign finance summary](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
 - [Congress.gov: Amy Klobuchar member profile](https://www.congress.gov/member/amy-klobuchar/K000367) (Tier 1)
 
 ---
@@ -134,8 +134,8 @@ Klobuchar's office has 18 documented revolving door staff movements since 2000 â
 
 ### Sources
 
-- [OpenSecrets: Amy Klobuchar campaign finance summary](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
-- [OpenSecrets: Amy Klobuchar top industries](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
+- [FEC Candidate: Amy Klobuchar campaign finance summary](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
+- [FEC Candidate: Amy Klobuchar top industries](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
 - [Congress.gov: Amy Klobuchar member profile](https://www.congress.gov/member/amy-klobuchar/K000367) (Tier 1)
 - [Congress.gov: American Innovation and Choice Online Act](https://www.congress.gov/bill/117th-congress/senate-bill/2992) (Tier 1)
 - [Congress.gov: Merger Filing Fee Modernization Act](https://www.congress.gov/bill/117th-congress/senate-bill/228) (Tier 1)

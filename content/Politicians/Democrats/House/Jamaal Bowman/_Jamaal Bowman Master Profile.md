@@ -253,7 +253,7 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 - [FEC: Bowman candidate financial summary 2024](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
 - [FEC: Independent expenditures opposing Bowman — all spenders](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&is_notice=false&candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1)
 - [FEC: United Democracy Project independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&q_spender=united+democracy+project&is_notice=false&candidate_id=H0NY16143) (Tier 1)
-- [OpenSecrets: Jamaal Bowman campaign finance summary](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
+- [FEC Candidate: Jamaal Bowman campaign finance summary](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
 - [Congress.gov: Jamaal Bowman member profile](https://www.congress.gov/member/jamaal-bowman/B001223) (Tier 1)
 - [The Intercept: George Latimer rakes in AIPAC cash to primary Bowman](https://theintercept.com/2024/02/01/george-latimer-aipac-donors-jamaal-bowman/) (Tier 2)
 - [The Intercept: AIPAC spends $2 million to attack Bowman](https://theintercept.com/2024/05/16/aipac-jamaal-bowman-attack-ads-george-latimer/) (Tier 2)

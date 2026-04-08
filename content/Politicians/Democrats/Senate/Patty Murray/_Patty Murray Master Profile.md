@@ -132,8 +132,8 @@ This is why Murray rarely appears in national media: she operates in the less vi
 
 ### Sources
 
-- [OpenSecrets: Sen. Patty Murray campaign finance summary](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1)
-- [OpenSecrets: Sen. Patty Murray elections 2024](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1)
+- [FEC Candidate: Sen. Patty Murray campaign finance summary](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1)
+- [FEC Candidate: Sen. Patty Murray elections 2024](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1)
 - [Seattle Times: Lobbyists are Sen. Murray's biggest donors](https://www.seattletimes.com/seattle-times/lobbyists-are-sen-murrays-biggest-donors/) (Tier 2)
 - [Senator Murray: Statement on Air Force Extending KC-46A Tanker Contract](https://www.murray.senate.gov/senator-murray-statement-on-air-force-extending-kc-46a-tanker-contract-award-to-acquire-up-to-75-additional-aircraft-produced-in-everett-wa/) (Tier 1)
 - [Defense News: Air Force awards Boeing $2.4 billion contract for KC-46 tankers](https://www.defensenews.com/air/2024/11/25/air-force-awards-boeing-2-4-billion-contract-for-kc-46-tankers/) (Tier 2)

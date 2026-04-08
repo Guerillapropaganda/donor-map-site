@@ -23,7 +23,7 @@ PE fund managers pay 20% capital gains tax on carried interest instead of the 37
 The contradiction is structural: the industry gives more money to whichever party poses the legislative threat. Over the two cycles preceding the 2022 IRA vote, private equity delivered $83 million to Democrats and $62 million to Republicans. In the 2019–2020 cycle alone, PE firms and hedge funds combined for $548 million in campaign contributions and $79 million in lobbying — a $627 million total. [Americans for Financial Reform: Private Funds Money in Politics](https://ourfinancialsecurity.org/wp-content/uploads/2021/10/FINAL-REPORT-ONLY-Private-Funds-Money-in-Politics-1.pdf) (Tier 2), [Jacobin: Democrats Schumer Carried Interest Tax Loophole](https://jacobin.com/2022/08/democrats-schumer-carried-interest-tax-loophole-private-equity) (Tier 2)
 
 > [!money]
-> Blackstone Group: ~$172 million in total political spending (2008–2024). Apollo Global: ~$41 million. Carlyle: ~$25 million. KKR: ~$22 million. 73% of the 268 PE industry lobbyists in 2024 are revolving door former government officials. [OpenSecrets: PE Industry Lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+> Blackstone Group: ~$172 million in total political spending (2008–2024). Apollo Global: ~$41 million. Carlyle: ~$25 million. KKR: ~$22 million. 73% of the 268 PE industry lobbyists in 2024 are revolving door former government officials. [FEC Receipts: PE Industry Lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 
@@ -66,7 +66,7 @@ Her receipts:
 | PE donations after killing the provision | $526,000+ | Post-Aug 2022 |
 | Welsh, Carson, Anderson & Stowe (two-week burst) | $47,100 | Sept 2021 |
 
-[OpenSecrets: Sinema Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1), [PBS News: Sinema Received Nearly $1 Million from Wall Street](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2), [More Perfect Union: Sinema PE Donations Keep Flowing](https://perfectunion.us/sinemas-private-equity-donations-keep-flowing-after-saving-tax-loophole/) (Tier 2)
+[FEC Candidate: Sinema Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1), [PBS News: Sinema Received Nearly $1 Million from Wall Street](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2), [More Perfect Union: Sinema PE Donations Keep Flowing](https://perfectunion.us/sinemas-private-equity-donations-keep-flowing-after-saving-tax-loophole/) (Tier 2)
 
 > [!money]
 > Two days after the IRA deal was announced, Blackstone hired Michael Shapiro — [[_Chuck Schumer Master Profile|Schumer's]] son-in-law — as Managing Director of Government Affairs. [Washington Free Beacon: PE Giant Taps Schumer's Son-in-Law as Lobbyist](https://freebeacon.com/democrats/private-equity-giant-taps-schumers-son-in-law-as-lobbyist/) (Tier 2)
@@ -83,7 +83,7 @@ Apollo gave $1,398,000 and Blackstone gave $1,277,327 to Senate Finance Committe
 
 [[_Mike Crapo Master Profile|Mike Crapo]] (R-ID), Finance ranking member (now chair), runs a documented pay-for-access scheme: $15,000 "Gold Benefits Package," $10,000 "Silver," $5,000 "Bronze" — each tier offering specific numbers of one-on-one meetings with the gatekeeper of Senate tax policy. [Business Insider: Mike Crapo Senate Contribution Donation Lobbyists](https://www.businessinsider.com/mike-crapo-senate-contribution-donation-lobbyists-election-campaign-money-2021-6) (Tier 2)
 
-[[_Ron Wyden Master Profile|Ron Wyden]] (D-OR), Finance Committee chair (2021–2025), publicly championed closing carried interest — his bill with Whitehouse would have raised $63 billion. Despite chairing the committee with the power to move the bill, it never advanced to a floor vote. He received $1,487,239 from securities and investment (2019–2024). [Senate Finance Committee: Wyden Whitehouse Bill](https://www.finance.senate.gov/chairmans-news/wyden-whitehouse-bill-ensures-private-equity-moguls-pay-fair-share-in-taxes) (Tier 1), [OpenSecrets: Wyden Summary](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1)
+[[_Ron Wyden Master Profile|Ron Wyden]] (D-OR), Finance Committee chair (2021–2025), publicly championed closing carried interest — his bill with Whitehouse would have raised $63 billion. Despite chairing the committee with the power to move the bill, it never advanced to a floor vote. He received $1,487,239 from securities and investment (2019–2024). [Senate Finance Committee: Wyden Whitehouse Bill](https://www.finance.senate.gov/chairmans-news/wyden-whitehouse-bill-ensures-private-equity-moguls-pay-fair-share-in-taxes) (Tier 1), [FEC Candidate: Wyden Summary](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1)
 
 [[_Jason Smith Master Profile|Jason Smith]] (R-MO), Ways and Means Chair, received $81,245 from KKR in 2024 — his largest individual outside donor. [OpenSecrets: KKR Recipients](https://www.opensecrets.org/orgs/kkr-co/recipients?id=D000000358) (Tier 1)
 
@@ -116,7 +116,7 @@ Apollo gave $1,398,000 and Blackstone gave $1,277,327 to Senate Finance Committe
 | Julius Genachowski | Obama FCC Chair | Carlyle Group Managing Director |
 | Michael Shapiro | Biden administration official, Schumer's son-in-law | Blackstone MD of Government Affairs |
 
-73% of the 268 PE industry lobbyists in 2024 are revolving door former government officials — the highest such ratio in major lobbying industries. [OpenSecrets: PE Industry Lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+73% of the 268 PE industry lobbyists in 2024 are revolving door former government officials — the highest such ratio in major lobbying industries. [FEC Receipts: PE Industry Lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 
@@ -142,7 +142,7 @@ The loophole costs the Treasury $13–63 billion per decade depending on the sco
 - [OpenSecrets: Carlyle Group Totals](https://www.opensecrets.org/orgs/carlyle-group/totals?id=D000000810) (Tier 1)
 - [OpenSecrets: KKR Totals](https://www.opensecrets.org/orgs/kkr-co/totals?id=D000000358) (Tier 1)
 - [OpenSecrets: Senate Finance Top Contributors 2024](https://www.opensecrets.org/cong-cmtes/contributors?cmte=SFIN&cmtename=Finance&cong=118&cycle=2024) (Tier 1)
-- [OpenSecrets: PE Industry Lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: PE Industry Lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [CBO: Tax Carried Interest as Ordinary Income (Dec 2024)](https://www.cbo.gov/budget-options/60946) (Tier 1)
 - [Senate Finance: Wyden-Whitehouse Bill](https://www.finance.senate.gov/chairmans-news/wyden-whitehouse-bill-ensures-private-equity-moguls-pay-fair-share-in-taxes) (Tier 1)
 - [Mother Jones: Carried Interest Loophole Biden Trump](https://www.motherjones.com/politics/2022/05/carried-interest-loophole-biden-trump-private-equity-tax-break/) (Tier 2)

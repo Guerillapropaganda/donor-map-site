@@ -151,7 +151,7 @@ Manchin attended No Labels events, publicly considered the bid, and ultimately d
 
 ### Sources
 
-- [OpenSecrets: Joe Manchin Campaign Finance Summary](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1)
+- [FEC Candidate: Joe Manchin Campaign Finance Summary](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1)
 - [Senate financial disclosures: Enersystems dividends](https://www.senate.gov/senators/senators-contact.htm) (Tier 1)
 - [OpenSecrets: Manchin career donors, fossil fuel totals](https://www.opensecrets.org/members-of-congress/summary?displayname=Joe%20Manchin) (Tier 1)
 - [Mylan SEC filings: Bresch compensation](https://www.sec.gov/cgi-bin/browse-edgar?company=Joe%20Manchin&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)

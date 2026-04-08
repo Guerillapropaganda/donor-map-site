@@ -150,7 +150,7 @@ These don't fit neatly into the tier system — they're tools for specific resea
 ### For every source citation in the vault:
 Format: `- [Source Name: Description](#URL-needed) (Tier X)`
 
-Example: `- [OpenSecrets: Jim Jordan donor profile](https://www.congress.gov/search?q=Jim%20Jordan&searchResultViewType=expanded) (Tier 1)`
+Example: `- [Congress.gov: Jim Jordan donor profile](https://www.congress.gov/search?q=Jim%20Jordan&searchResultViewType=expanded) (Tier 1)`
 
 ### Mandatory rules:
 - Every source needs a clickable URL

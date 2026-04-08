@@ -25,7 +25,7 @@ The Pharmaceutical Industry Bloc. The most powerful lobbying force in American p
 
 The industry employs more registered lobbyists than there are members of Congress — 1,800+ lobbyists, roughly 3.4 per legislator. This lobbying army includes 65%+ former government officials (revolving door).
 
-- [OpenSecrets: Pharmaceutical industry lobbying totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Pharmaceutical industry lobbying totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 
@@ -64,7 +64,7 @@ Medicare covers 4,000+ drugs. Negotiation on 10-20 drugs leaves 99%+ of the drug
 
 ### Sources
 
-- [OpenSecrets: Pharmaceutical industry lobbying totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Pharmaceutical industry lobbying totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 content-readiness:: ready
 

@@ -169,7 +169,7 @@ This is not a failure of Warnock's character or commitment. It's a structural fe
 
 - [Ebenezer Baptist Church: Our Pastor - Raphael Warnock](https://www.ebenezeratl.org/our-pastor/) (Tier 1)
 - [Senator Warnock Official Website: About The Senator](https://www.warnock.senate.gov/about/) (Tier 1)
-- [OpenSecrets: Raphael Warnock Industries](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
+- [FEC Candidate: Raphael Warnock Industries](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
 - [Washington Post: Ebenezer Baptist: MLK's church central to Raphael Warnock's Senate victory in Georgia](https://www.washingtonpost.com/history/2021/01/03/ebenezer-baptist-king-mlk-warnock/) (Tier 2)
 - [Martin Luther King Jr.: The Poor People's Campaign (historical archive)](https://kinginstitute.stanford.edu/poor-peoples-campaign) (Tier 1)
 - [CNA/NNU: Single-Payer Healthcare Campaign](https://www.nationalnursesunited.org/medicare-for-all) (Tier 1)

@@ -147,7 +147,7 @@ For IBEW members: Sanders's Raise the Wage Act, PRO Act co-sponsorship, and prev
 
 Detailed sourcing is in each sub-note. Key sources for the master profile:
 
-- [OpenSecrets: Sanders 2016 and 2020 Campaign Finance](https://www.fec.gov/data/candidate/H8VT01016/) (Tier 1)
+- [FEC Candidate: Sanders 2016 and 2020 Campaign Finance](https://www.fec.gov/data/candidate/H8VT01016/) (Tier 1)
 - [Federal Election Commission: Candidate Filings](https://www.fec.gov/data/filings/) (Tier 1)
 - [AIPAC 2024 Election Spending](https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963) (Tier 1)
 - [National Nurses United: Endorsements](https://www.nationalnursesunited.org/nnu-endorsements) (Tier 2)

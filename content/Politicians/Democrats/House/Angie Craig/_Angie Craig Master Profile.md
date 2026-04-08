@@ -111,7 +111,7 @@ Craig is the medical device industry's graduate in Congress — a former St. Jud
 
 ### Sources
 
-- [OpenSecrets: Angie Craig Campaign Finance Summary](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1)
+- [FEC Candidate: Angie Craig Campaign Finance Summary](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1)
 - [FEC: Angie Craig for Congress](https://www.fec.gov/data/committee/C00596015/) (Tier 1)
 - [MinnPost: What It Would Mean to Elect a Former Medical Device Executive to Congress](https://www.minnpost.com/politics-policy/2016/10/second-district-race-what-it-would-mean-elect-former-medical-device-executiv/) (Tier 2)
 - [Minnesota Reformer: Craig More Than Doubles Flanagan's Q3 Fundraising](https://minnesotareformer.com/briefs/craig-more-than-doubles-flanagans-q3-fundraising/) (Tier 2)

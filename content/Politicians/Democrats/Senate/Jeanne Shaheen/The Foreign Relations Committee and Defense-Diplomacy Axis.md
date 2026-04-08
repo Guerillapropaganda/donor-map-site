@@ -35,7 +35,7 @@ Shaheen's legislative brand is bipartisan pragmatism — working across the aisl
 ### Sources
 
 - [Congress.gov: Jeanne Shaheen member profile](https://www.congress.gov/member/jeanne-shaheen/S001181) (Tier 1)
-- [OpenSecrets: Jeanne Shaheen campaign finance summary](https://www.fec.gov/data/candidate/S0NH00219/) (Tier 1)
+- [FEC Candidate: Jeanne Shaheen campaign finance summary](https://www.fec.gov/data/candidate/S0NH00219/) (Tier 1)
 - [Ballotpedia: Jeanne Shaheen](https://ballotpedia.org/Jeanne_Shaheen) (Tier 3)
 
 content-readiness:: ready

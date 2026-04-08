@@ -65,7 +65,7 @@ On March 19, 2026, the EPA formally revoked the 2009 endangerment finding — th
 - [Public Citizen: Tracker — Trump Appointees' Corporate Conflicts of Interest](https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/) (Tier 2)
 - [Inequality.org: Fossil Fuel Oil-Garchs Reap Billions in Payback for Trump Support](https://inequality.org/article/fossil-fuel-oil-garchs-reap-billions-for-trump-support/) (Tier 2)
 - [Inside Climate News: Energy Sector Lobbying Spending](https://insideclimatenews.org/news/08092025/energy-sector-lobbying-spending/) (Tier 2)
-- [OpenSecrets: Oil & Gas Industry Summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Oil & Gas Industry Summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Brennan Center: Million-Dollar Donors Flooded Trump's Second Inauguration](https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration) (Tier 2)
 
 ---

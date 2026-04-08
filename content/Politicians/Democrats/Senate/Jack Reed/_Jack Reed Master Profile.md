@@ -151,9 +151,9 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 
 ### Sources
 
-- [OpenSecrets: Jack Reed donor profile](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
-- [OpenSecrets: Jack Reed industry donors](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
-- [OpenSecrets: Jack Reed contributors](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
+- [FEC Candidate: Jack Reed donor profile](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
+- [FEC Candidate: Jack Reed industry donors](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
+- [FEC Candidate: Jack Reed contributors](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
 - [Senate.gov: Jack Reed official biography](https://www.reed.senate.gov/about) (Tier 1)
 - [Congress.gov: National Defense Authorization Act](https://www.congress.gov/bill/118th-congress/house-bill/2670) (Tier 1)
 - [DOD: Rhode Island Defense Spending Report](https://oldcc.gov/state/rhode-island) (Tier 1)

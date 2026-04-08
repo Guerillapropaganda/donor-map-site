@@ -42,7 +42,7 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 
 ### Sources
 
-- [OpenSecrets: Telecom industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Telecom industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [FCC: Spectrum auction records](https://www.fcc.gov/auction) (Tier 1)
 - [Ballotpedia: Telecommunications regulation](https://ballotpedia.org/Telecom_Industry) (Tier 3)
 

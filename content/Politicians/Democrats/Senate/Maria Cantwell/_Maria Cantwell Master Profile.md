@@ -147,7 +147,7 @@ Cantwell made her wealth as VP of Marketing at RealNetworks in the late 1990s. S
 
 ### Sources
 
-- [OpenSecrets: Maria Cantwell donor profile](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1)
+- [FEC Candidate: Maria Cantwell donor profile](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1)
 - [OpenSecrets: Maria Cantwell net worth](https://www.opensecrets.org/personal-finances/maria-cantwell/net-worth?cid=N00007836) (Tier 1)
 - [Senate.gov: Maria Cantwell about](https://www.cantwell.senate.gov/about/biography) (Tier 1)
 - [Senate.gov: Cantwell takes over as Commerce Committee Chair](https://www.cantwell.senate.gov/news/press-releases/cantwell-takes-over-as-chair-of-senate-committee-on-commerce-science-and-transportationfirst-woman-to-chair-the-committee) (Tier 1)

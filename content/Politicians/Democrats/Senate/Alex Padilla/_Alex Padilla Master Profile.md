@@ -134,7 +134,7 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 
 ### Sources
 
-- [OpenSecrets: Alex Padilla donor profile](https://www.fec.gov/data/candidate/S2CA00955/) (Tier 1)
+- [FEC Candidate: Alex Padilla donor profile](https://www.fec.gov/data/candidate/S2CA00955/) (Tier 1)
 - [Congress.gov: Alex Padilla](https://www.congress.gov/member/alex-padilla/P000145) (Tier 1)
 - [Senate.gov: Alex Padilla](https://www.padilla.senate.gov/about/) (Tier 1)
 - [Senate.gov: Padilla committee assignments](https://www.padilla.senate.gov/about/committee-assignments/) (Tier 1)

@@ -144,7 +144,7 @@ REBNY's influence operates through both direct campaign contributions and struct
 - [Met Council on Housing: What REBNY bought for its money](https://thetenant.org/what-has-rebny-bought-for-its-money/) (Tier 2) (UNVERIFIED)
 - [REBNY: Official site and advocacy](https://www.rebny.com/) (Tier 3)
 - [New York State Joint Commission on Public Ethics: Campaign finance filings](https://publicreporting.elections.ny.gov/) (Tier 1)
-- [OpenSecrets: Real Estate industry political spending profile](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Real Estate industry political spending profile](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 

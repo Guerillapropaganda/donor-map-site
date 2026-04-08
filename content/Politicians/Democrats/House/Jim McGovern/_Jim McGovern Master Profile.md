@@ -132,7 +132,7 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 
 ### Sources
 
-- [OpenSecrets: Jim McGovern donor profile](https://www.fec.gov/data/candidate/H6FL06225/) (Tier 1)
+- [FEC Candidate: Jim McGovern donor profile](https://www.fec.gov/data/candidate/H6FL06225/) (Tier 1)
 - [Congress.gov: James P. McGovern](https://www.congress.gov/member/james-mcgovern/M000312) (Tier 1)
 - [House.gov: McGovern biography](https://mcgovern.house.gov/about/) (Tier 1)
 - [House Rules Committee: Ranking Member McGovern](https://democrats-rules.house.gov/about/chairman-mcgovern) (Tier 1)

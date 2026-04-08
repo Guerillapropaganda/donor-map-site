@@ -122,8 +122,8 @@ Johnson's donor-class function is to serve as the billionaire manufacturing and 
 
 ### Sources
 
-- [OpenSecrets: Ron Johnson campaign finance summary](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1)
-- [OpenSecrets: Ron Johnson career industry contributions](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1)
+- [FEC Candidate: Ron Johnson campaign finance summary](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1)
+- [FEC Candidate: Ron Johnson career industry contributions](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1)
 - [GovTrack: Ron Johnson — Tax Cuts and Jobs Act Senate Vote #303](https://www.govtrack.us/congress/votes/115-2017/s303) (Tier 1)
 - [Congress.gov: Ron Johnson committee assignments](https://www.congress.gov/member/ron-johnson/J000293/committees) (Tier 1)
 - [HSGAC: Johnson-Grassley conflicts-of-interest investigation report](https://www.hsgac.senate.gov/media/reps/johnson-grassley-release-report-on-conflicts-of-interest-investigation/) (Tier 1)

@@ -36,7 +36,7 @@ The 2023 Dominion defamation settlement required Fox to pay $787.5 million for b
 
 Sources:
 - [NBC News: Fox News settles Dominion defamation lawsuit](https://www.nbcnews.com/media/fox-news-settles-dominion-defamation-lawsuit-rcna80285) (Tier 2)
-- [OpenSecrets: Murdoch donor profile](https://www.fec.gov/data/independent-expenditures/?q=K.%20Rupert%20Murdoch) (Tier 1)
+- [FEC Independent Expenditures: Murdoch donor profile](https://www.fec.gov/data/independent-expenditures/?q=K.%20Rupert%20Murdoch) (Tier 1)
 - [The Hill: News Corp and Fox Corp Trump account matching](https://thehill.com/homenews/media/5745359-news-fox-corp-matching-federal-contribution-to-trump-accounts/) (Tier 2)
 
 ---

@@ -60,7 +60,7 @@ The leadership PAC (Jobs, Education and Family First) functions as the secondary
 
 ### Sources
 
-- [OpenSecrets: Jeffries industry donors 2022 cycle](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
+- [FEC Candidate: Jeffries industry donors 2022 cycle](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
 - [FEC: Jeffries for Congress committee overview](https://www.fec.gov/data/committee/C00503052/) (Tier 1)
 - [The Real Deal: Jeffries on real estate and gentrification (interview)](https://therealdeal.com/magazine/national-july-2020/the-closing-hakeem-jeffries/) (Tier 2)
 - [OpenSecrets: Jeffries net worth/personal finances](https://www.opensecrets.org/personal-finances/hakeem-jeffries/net-worth?cid=N00033640) (Tier 1)

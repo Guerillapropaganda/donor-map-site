@@ -512,7 +512,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - [OpenSecrets: GEO Group PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/C00382150/summary/2024) (Tier 1)
 - [OpenSecrets: GEO Group Donation Recipients](https://www.opensecrets.org/orgs/geo-group/recipients?id=D000022003) (Tier 1)
 - [OpenSecrets: GEO Group Totals by Cycle](https://www.opensecrets.org/orgs/geo-group/totals?id=D000022003) (Tier 1)
-- [OpenSecrets: For-Profit Prison Industry All-Time Recipients](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: For-Profit Prison Industry All-Time Recipients](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [OpenSecrets: private prison political spending 2025](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 1)
 - [CREW: Private prison companies first to max out to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/private-prison-behemoth-is-first-corporation-to-max-out-to-trump/) (Tier 2)
 - [Sludge: GEO inaugural donation](https://readsludge.com/2025/01/29/prison-company-banking-on-ice-raids-donated-to-trump-inauguration/) (Tier 2)
@@ -521,7 +521,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 #### Lobbying & Revolving Door:
 - [OpenSecrets: GEO Group Lobbying](https://www.opensecrets.org/orgs/geo-group/lobbying?id=D000022003) (Tier 1)
-- [OpenSecrets: Federal Lobbying Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Federal Lobbying Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Project on Government Oversight (POGO): Private Prison Giant Hired ICE Detention Chief](https://www.pogo.org/investigates/private-prison-giant-hired-ice-detention-chief) (Tier 2)
 - [POGO: Locking In Profits — Top ICE Officials to GEO](https://www.pogo.org/investigates/locking-in-profits-top-ice-officials-leave-agency-to-serve-its-top-contractor) (Tier 2)
 - [Public Citizen: Pam Bondi Conflict of Interest](https://www.citizen.org/article/conflicted-justice/) (Tier 2)

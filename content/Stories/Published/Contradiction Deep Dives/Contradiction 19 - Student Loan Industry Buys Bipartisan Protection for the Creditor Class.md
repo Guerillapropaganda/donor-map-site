@@ -158,9 +158,9 @@ The for-profit college lobby purchased a three-cycle regulatory carousel: implem
 
 - [OpenSecrets: Navient Corp Totals](https://www.opensecrets.org/orgs/navient-corp/totals?id=D000068171) (Tier 1)
 - [OpenSecrets: SLM Corp Totals](https://www.opensecrets.org/orgs/slm-corp/totals?id=D000022253) (Tier 1)
-- [OpenSecrets: Student Loan Industry Background](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Student Loan Industry Background](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [OpenSecrets: Navient PAC 2024 Recipients](https://www.opensecrets.org/political-action-committees-pacs/navient-corp/C00331835/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Navient Lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Navient Lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [CFPB: Navient Enforcement Action](https://www.consumerfinance.gov/enforcement/actions/navient-corporation-navient-solutions-inc-and-pioneer-credit-recovery-inc/) (Tier 1)
 - [CFPB: Navient Settlement Press Release](https://www.consumerfinance.gov/about-us/newsroom/cfpb-bans-navient-from-federal-student-loan-servicing-and-orders-the-company-to-pay-120-million-for-wide-ranging-student-lending-failures/) (Tier 1)
 - [FRED: Total Student Loans](https://fred.stlouisfed.org/series/SLOAS) (Tier 1)

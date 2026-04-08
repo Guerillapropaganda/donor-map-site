@@ -98,8 +98,8 @@ The $4.3M+ career finance sector haul and $262K+ career pharma haul are the fina
 
 ### Sources
 
-- [OpenSecrets: Thom Tillis campaign finance summary](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
-- [OpenSecrets: Thom Tillis industry contributions — finance sector](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
+- [FEC Candidate: Thom Tillis campaign finance summary](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
+- [FEC Candidate: Thom Tillis industry contributions — finance sector](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
 - [OpenSecrets News: Wall Street ally Sen. Thom Tillis tapped to join GOP leadership](https://www.opensecrets.org/news/2023/01/wall-street-ally-sen-thom-tillis-tapped-to-join-gop-leadership/) (Tier 1)
 - [FEC: Thom Tillis candidate overview](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
 - [Congress.gov: S.2155 — Economic Growth, Regulatory Relief, and Consumer Protection Act (115th Congress)](https://www.congress.gov/bill/115th-congress/senate-bill/2155) (Tier 1)

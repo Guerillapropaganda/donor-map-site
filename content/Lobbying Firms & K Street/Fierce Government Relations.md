@@ -193,9 +193,9 @@ The structural function this serves for the donor class is risk management. A co
 
 ### Sources
 
-- [OpenSecrets: Fierce Government Relations Lobbying Firm Profile — Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Fierce Government Relations Lobbyists — Revolving Door Data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Fierce Government Relations Issues Lobbied](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Fierce Government Relations Lobbying Firm Profile — Summary](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Fierce Government Relations Lobbyists — Revolving Door Data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Fierce Government Relations Issues Lobbied](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Wikipedia: Fierce, Isakowitz and Blalock](https://en.wikipedia.org/wiki/Fierce,_Isakowitz_and_Blalock) (Tier 3)
 - [FierceGR: Official Website — Our Story](https://www.fiercegr.com/our-story/) (Tier 4)
 - [FierceGR: Official Website — Our Team](https://www.fiercegr.com/our-team/) (Tier 4)

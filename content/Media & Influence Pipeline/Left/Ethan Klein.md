@@ -173,7 +173,7 @@ Klein's model also illustrates the limits of "independence" in creator economy m
 
 - [Wikipedia: h3h3Productions](https://en.wikipedia.org/wiki/H3h3Productions) (Tier 3)
 - [Wikipedia: H3 Podcast](https://en.wikipedia.org/wiki/H3_Podcast) (Tier 3)
-- [OpenSecrets: Ethan Klein donor lookup — FEC individual contribution records](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ethan%20klein) (Tier 1)
+- [FEC Receipts: Ethan Klein donor lookup — FEC individual contribution records](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ethan%20klein) (Tier 1)
 - [FEC: Browse Individual Contributions — Ethan Klein, CA](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ethan+klein&contributor_state=CA) (Tier 1)
 - [Tubefilter: A court battle is brewing between h3h3productions and BBTV](https://www.tubefilter.com/2023/04/11/h3h3-productions-bbtv-broadband-tv-network-revenue-dispute-ethan-klein/) (Tier 3)
 - [BetaKit: BBTV resolves dispute with Ethan Klein as YouTube creators raise concerns over revenue payouts](https://betakit.com/bbtv-resolves-dispute-with-ethan-klein-as-youtube-creators-raise-concerns-over-revenue-payouts/) (Tier 3)

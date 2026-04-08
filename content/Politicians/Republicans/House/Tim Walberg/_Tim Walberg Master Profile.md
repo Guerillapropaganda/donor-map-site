@@ -139,8 +139,8 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 
 ### Sources
 
-- [OpenSecrets: Tim Walberg donor profile](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1)
-- [OpenSecrets: Tim Walberg top contributors](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1)
+- [FEC Candidate: Tim Walberg donor profile](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1)
+- [FEC Candidate: Tim Walberg top contributors](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1)
 - [Congress.gov: Tim Walberg](https://www.congress.gov/member/tim-walberg/W000798) (Tier 1)
 - [House Education & Workforce Committee: Chair Walberg](https://edworkforce.house.gov/biography/) (Tier 1)
 - [Truthout: Anti-Union, Pro-Israel Billionaires Are Behind Tim Walberg and His Show Trials](https://truthout.org/articles/anti-union-pro-israel-billionaires-are-behind-tim-walberg-and-his-show-trials/) (Tier 2)

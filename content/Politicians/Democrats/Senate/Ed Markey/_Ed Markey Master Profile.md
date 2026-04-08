@@ -133,7 +133,7 @@ The Small Business Committee RM position is secondary to Markey's real portfolio
 
 ### Sources
 
-- [OpenSecrets: Ed Markey donor profile](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1)
+- [FEC Candidate: Ed Markey donor profile](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1)
 - [Congress.gov: Edward J. Markey](https://www.congress.gov/member/edward-markey/M000133) (Tier 1)
 - [Senate.gov: About Ed Markey](https://www.markey.senate.gov/about) (Tier 1)
 - [Senate.gov: Markey committee assignments](https://www.markey.senate.gov/about/committee-assignments) (Tier 1)

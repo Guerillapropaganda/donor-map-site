@@ -175,7 +175,7 @@ The deeper pattern: Schwarzman positions himself as a statesman (Yale scholar, m
 ### Sources
 
 - [FEC: Stephen Schwarzman individual contributions 2022-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=schwarzman) (Tier 1)
-- [OpenSecrets: Stephen Schwarzman donor detail (2024 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Stephen%20A.%20Schwarzman) (Tier 1) (UNVERIFIED)
+- [FEC Independent Expenditures: Stephen Schwarzman donor detail (2024 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Stephen%20A.%20Schwarzman) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
 - [OpenSecrets: Blackstone PAC and leadership bundling 2024](https://www.opensecrets.org/orgs/blackstone-inc/summary?id=D000117815) (Tier 1)
 - [Forbes: "Billionaire Blackstone CEO Schwarzman will back Trump after donating millions in 2020"](https://www.forbes.com/sites/mollybohannon/2024/05/24/billionaire-blackstone-ceo-schwarzman-will-back-trump-after-donating-millions-in-2020/) (Tier 2) (UNVERIFIED)
@@ -184,7 +184,7 @@ The deeper pattern: Schwarzman positions himself as a statesman (Yale scholar, m
 - [Tax Foundation: "The Carried Interest Tax Debate"](https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [Institute on Taxation and Economic Policy: "Private Equity Taxation Estimates"](https://itep.org/private-equity-tax-loophole/) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [ACCE Institute: Helter Shelter — Housing system analysis](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2)
-- [OpenSecrets: Federal lobbying — Real estate industry 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Federal lobbying — Real estate industry 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Politico: "Opportunity Zones — Tim Scott and Cory Booker bipartisan push"](https://www.politico.com/agenda/story/2018/11/20/tim-scott-opportunity-zones-000793) (Tier 2) (UNVERIFIED)
 
 ---

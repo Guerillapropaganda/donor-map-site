@@ -109,7 +109,7 @@ National Democratic politics — Clinton network, AIPAC connection, UDP funding
 ### Sources
 
 - [The New Yorker: "The Influencer" (Saban profile, 2010)](https://www.newyorker.com/magazine/2010/05/10/the-influencer) (Tier 2)
-- [OpenSecrets: Saban donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=haim%20saban) (Tier 1)
+- [FEC Receipts: Saban donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=haim%20saban) (Tier 1)
 - [OpenSecrets: Saban Capital Group](https://www.opensecrets.org/ORGS/summary.php?id=D000037316) (Tier 1)
 - [Haaretz: Saban $1M to AIPAC UDP](https://www.haaretz.com/us-news/2022-04-13/ty-article/.highlight/israeli-u-s-billionaire-saban-donates-1-million-to-aipacs-super-pac/00000180-5bb2-d718-afd9-dfbea3a70000) (Tier 2)
 

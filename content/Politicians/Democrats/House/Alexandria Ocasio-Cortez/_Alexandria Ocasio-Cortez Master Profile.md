@@ -148,9 +148,9 @@ Without corporate donor dependency, AOC's policy positions are structurally unco
 ### Sources
 
 - [FEC: Alexandria Ocasio-Cortez campaign finance filings](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
-- [OpenSecrets: Alexandria Ocasio-Cortez donor profile](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
-- [OpenSecrets: AOC Industries 2024](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
-- [OpenSecrets: AOC Industries 2020](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
+- [FEC Candidate: Alexandria Ocasio-Cortez donor profile](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
+- [FEC Candidate: AOC Industries 2024](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
+- [FEC Candidate: AOC Industries 2020](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
 - [OpenSecrets: AOC Industries Combined (All Cycles)](https://www.opensecrets.org/members-of-congress/industries?cycle=2024&type=C) (Tier 1)
 - [OpenSecrets: Courage to Change PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/courage-to-change/C00692202/summary/2024) (Tier 1)
 - [FEC: Courage to Change PAC C00692202](https://www.fec.gov/data/committee/C00692202/) (Tier 1)

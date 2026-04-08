@@ -129,7 +129,7 @@ Miller's political identity and the donor base that propelled her to Congress re
 
 ### Sources
 
-- [OpenSecrets: Donna Miller 2026 Campaign Finance](https://www.fec.gov/data/candidate/H6IL02355/) (Tier 1)
+- [FEC Candidate: Donna Miller 2026 Campaign Finance](https://www.fec.gov/data/candidate/H6IL02355/) (Tier 1)
 - [FEC: Illinois 2nd District 2026 Primary Results](https://www.fec.gov/data/elections/house/IL/02/2026/) (Tier 1)
 - [Cook County Commissioner Donna Miller wins Illinois' 2nd District over comeback effort by former Rep. Jesse Jackson Jr.: Chicago Tribune](https://www.chicagotribune.com/2026/03/17/illinois-2nd-democratic-primary/) (Tier 2)
 - [A voter's guide to the confusing world of super PACs influencing 2026 Illinois primary races: WBEZ](https://www.wbez.org/government-politics/elections/2026/03/13/super-pacs-influence-2026-illinois-primary-races-glossary) (Tier 2)

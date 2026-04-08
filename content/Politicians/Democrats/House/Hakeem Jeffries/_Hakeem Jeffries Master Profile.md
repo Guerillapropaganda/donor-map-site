@@ -130,8 +130,8 @@ The institutional continuity is the point. Jeffries was selected because he woul
 
 ### Sources
 
-- [OpenSecrets: Hakeem Jeffries campaign finance summary](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
-- [OpenSecrets: Jeffries industry donors 2022 cycle](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
+- [FEC Candidate: Hakeem Jeffries campaign finance summary](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
+- [FEC Candidate: Jeffries industry donors 2022 cycle](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
 - [OpenSecrets: Democratic leadership profile — Hakeem Jeffries](https://www.opensecrets.org/news/2025/04/democratic-leadership-profile-hakeem-jeffries) (Tier 1)
 - [Sludge: Jeffries misleads on AIPAC PAC money](https://readsludge.com/2025/11/25/jeffries-misleads-on-aipac-pac-money/) (Tier 2)
 - [Sludge: House Democrats' anti-progressive PAC funded by corporate lobbyists](https://readsludge.com/2022/02/01/house-democrats-new-anti-progressive-pac-is-funded-by-corporate-lobbyists-and-pacs/) (Tier 2)

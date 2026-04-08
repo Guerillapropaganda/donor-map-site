@@ -64,7 +64,7 @@ Cory Booker. Democrat, New Jersey. Senator since 2013. Former Mayor of Newark (2
 
 Booker is the most Wall Street-funded progressive in the Senate. New Jersey's economic geography makes this structural: Goldman Sachs offices, pharmaceutical headquarters (Johnson & Johnson, Merck, Pfizer facilities), and the financial corridor between Manhattan and Newark generate the donor base that funds his campaigns. His political brand combines progressive social positions (criminal justice reform, racial equity, veganism) with a donor base dominated by Wall Street and pharma — the two industries most concentrated in New Jersey's economy.
 
-- [OpenSecrets: Cory Booker campaign finance summary](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
+- [FEC Candidate: Cory Booker campaign finance summary](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
 - [Congress.gov: Cory Booker member profile](https://www.congress.gov/member/cory-booker/B001288) (Tier 1)
 
 ---
@@ -178,8 +178,8 @@ The development was real. The question is who benefited: corporate headquarters 
 
 ### Sources
 
-- [OpenSecrets: Cory Booker campaign finance summary](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
-- [OpenSecrets: Cory Booker top industries](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
+- [FEC Candidate: Cory Booker campaign finance summary](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
+- [FEC Candidate: Cory Booker top industries](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
 - [Congress.gov: Cory Booker member profile](https://www.congress.gov/member/cory-booker/B001288) (Tier 1)
 - [Congress.gov: First Step Act](https://www.congress.gov/bill/115th-congress/senate-bill/756) (Tier 1)
 - [Brennan Center: What Is the First Step Act](https://www.brennancenter.org/our-work/research-reports/what-first-step-act-and-whats-happening-it) (Tier 2)

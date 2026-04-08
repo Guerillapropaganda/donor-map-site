@@ -183,7 +183,7 @@ John Fetterman's post-election transformation raises a fundamental question abou
 
 ### Sources
 
-- [OpenSecrets: John Fetterman Campaign Finance Summary](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
+- [FEC Candidate: John Fetterman Campaign Finance Summary](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
 - [FEC: John Fetterman Candidate Profile](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
 - [The Intercept: Since October, Sen. John Fetterman Has Been Building a Roster of Republican Donors](https://theintercept.com/2024/04/19/john-fetterman-israel-gop-donors/) (Tier 2)
 - [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure—and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2)

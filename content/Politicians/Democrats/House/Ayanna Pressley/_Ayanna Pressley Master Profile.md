@@ -138,7 +138,7 @@ The notable absence: no Glass-Steagall restoration co-sponsorship, no financial 
 ### Sources
 
 - [Congress.gov: Ayanna Pressley member profile](https://www.congress.gov/member/ayanna-pressley/P000617) (Tier 1)
-- [OpenSecrets: Ayanna Pressley campaign finance summary](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
+- [FEC Candidate: Ayanna Pressley campaign finance summary](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
 - [OpenSecrets: Ayanna Pressley career industries breakdown](https://www.opensecrets.org/members-of-congress/industries?cid=N00042581&cycle=CAREER) (Tier 1)
 - [FEC: Pressley candidate profile](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
 - [Congress.gov: H.Res.702 — Criminal justice reform resolution (116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/702/all-info) (Tier 1)

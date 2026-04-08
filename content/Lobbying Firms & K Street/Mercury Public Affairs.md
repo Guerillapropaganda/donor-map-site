@@ -183,8 +183,8 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 
 ### Sources
 
-- [OpenSecrets: Mercury Lobbying Profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Mercury Lobbyists 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Mercury Lobbying Profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Mercury Lobbyists 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets Foreign Lobby Watch: Mercury Public Affairs FARA registrations](https://www.opensecrets.org/fara/registrants/D000071638) (Tier 1)
 - [Senate LDA: Mercury Public Affairs lobbying filings](https://lda.senate.gov/filings/public/filing/search/?registrant=Mercury&filing_year=2025) (Tier 1)
 - [NBC News: Sources: Podesta Group, Mercury Are Companies 'A' and 'B' in Manafort Indictment (2017)](https://www.nbcnews.com/news/investigations/sources-podesta-group-mercury-are-companies-b-indictment-n815721) (Tier 2)

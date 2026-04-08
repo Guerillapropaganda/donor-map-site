@@ -155,7 +155,7 @@ When FCC rate caps began limiting phone call revenue, companies pivoted to unreg
 
 - [FCC: Martha Wright-Reed Implementation Order (July 2024)](https://www.fcc.gov/document/fcc-caps-rates-incarcerated-peoples-communications) (Tier 1)
 - [FCC: October 2025 Rollback Order](https://www.fcc.gov/document/fcc-updates-incarcerated-peoples-communications-rules) (Tier 1)
-- [OpenSecrets: Private Prisons Industry](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Private Prisons Industry](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [CFPB: ViaPath Enforcement Action (Nov 2024)](https://www.consumerfinance.gov/enforcement/actions/global-tel-link-corp-et-al/) (Tier 1)
 - [DOJ Antitrust Division: Comment to FCC (April 2024)](https://www.justice.gov/atr/page/file/1567116/download) (Tier 1)
 - [Worth Rises: Prison Telecom Rate Analysis](https://worthrises.org/resources) (Tier 2)

@@ -124,7 +124,7 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 - [Public Citizen: Call for Sacks resignation over financial conflicts](https://www.citizen.org/news/david-sacks-financial-conflicts-mean-he-can-no-longer-credibly-serve-as-white-house-ai-advisor-he-should-resign/) (Tier 2)
 - [Rolling Stone: Who is David Sacks](https://www.rollingstone.com/culture/culture-news/david-sacks-trump-ai-crypto-czar-1235195832/) (Tier 2)
 - [SF Standard: $12M Trump fundraiser at Sacks home](https://sfstandard.com/2024/06/05/donald-trump-san-francisco-campaign-fundraiser-tech-david-sacks/) (Tier 2)
-- [OpenSecrets: David Sacks donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=david%20sacks) (Tier 1)
+- [FEC Receipts: David Sacks donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=david%20sacks) (Tier 1)
 - [TechCrunch: Sacks RNC speech](https://techcrunch.com/2024/07/16/vc-david-sacks-delivers-a-fire-and-brimstone-speech-at-the-republican-national-convention/) (Tier 2)
 - [FEC: David Sacks contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=sacks,+david) (Tier 1)
 - [Fortune: Peter Thiel Network Trump White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 2)

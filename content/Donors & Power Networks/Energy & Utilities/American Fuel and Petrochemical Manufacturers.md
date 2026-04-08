@@ -104,8 +104,8 @@ AFPM is the fossil fuel industry's collective action vehicle — a $61.4M trade 
 - [ProPublica: AFPM 990 filings](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
 - [OpenSecrets: AFPM contributions](https://www.opensecrets.org/orgs/american-fuel-petrochemical-manufacturers/summary?id=D000000481) (Tier 1)
 - [OpenSecrets: AFPM summary (alt ID)](https://www.opensecrets.org/orgs/american-fuel-petrochem-manufacturers/summary?id=D000027874) (Tier 1)
-- [OpenSecrets: AFPM lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: AFPM lobbying (alt ID)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: AFPM lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: AFPM lobbying (alt ID)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [DeSmog: AFPM profile](https://www.desmog.com/american-fuel-petrochemical-manufacturers-afpm/) (Tier 2)
 - [LinkedIn: AFPM](https://www.linkedin.com/company/american-fuel-&-petrochemical-manufacturers-afpm-) (Tier 4)
 

@@ -310,7 +310,7 @@ Both left and right media face identical economic pressures. The "debate" is the
 - [TheStreet: Howard Schultz CEO boycott of political donations](https://www.thestreet.com/politics/starbucks-ceo-boycott-campaign-donations-11220781) (Tier 3) (UNVERIFIED)
 - [Wikipedia: NBCUniversal DreamWorks $3.8B acquisition](https://en.wikipedia.org/wiki/NBCUniversal) (Tier 3)
 - [Quartz: Chamath Palihapitiya co-hosted Trump fundraiser, $1M+ Dem donations](https://qz.com/david-sacks-donald-trump-fundraiser-silicon-valley-tech-1851525573) (Tier 3) (UNVERIFIED)
-- [OpenSecrets: Farris Wilks donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=farris%20wilks) (Tier 1)
+- [FEC Receipts: Farris Wilks donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=farris%20wilks) (Tier 1)
 
 ### GARM & Advertising Infrastructure:
 - [NRB: GARM shutdown after Musk X lawsuit](https://nrb.org/garm-announces-shutdown-after-musks-x-files-lawsuit/) (Tier 3) (UNVERIFIED)

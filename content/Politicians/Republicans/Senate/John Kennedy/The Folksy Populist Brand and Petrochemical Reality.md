@@ -35,7 +35,7 @@ Louisiana's 85-mile stretch between Baton Rouge and New Orleans — known as "Ca
 ### Sources
 
 - [Congress.gov: John Kennedy voting record](https://www.congress.gov/member/john-kennedy/K000393) (Tier 1)
-- [OpenSecrets: John Kennedy energy sector contributions](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
+- [FEC Candidate: John Kennedy energy sector contributions](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
 - [ProPublica: Cancer Alley investigation](https://www.propublica.org/series/sacrifice-zones) (Tier 2)
 - [Ballotpedia: John Kennedy](https://ballotpedia.org/John_Kennedy_(Louisiana)) (Tier 3)
 

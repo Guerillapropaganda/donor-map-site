@@ -132,7 +132,7 @@ The UAW's $672,000 in federal lobbying is modest compared to auto companies: GM 
 > The asymmetry defines labor's structural disadvantage. GM, Ford, and Stellantis combined spent $23 million on federal lobbying in 2024. The UAW spent $672,000 — a 34:1 ratio. The UAW's real political power isn't lobbying volume; it's the ability to deliver 400,000 members' votes in Michigan, Wisconsin, Pennsylvania, and Ohio. The union trades money for bodies. The 2024 election demonstrated both power and limits: the UAW endorsed Harris, mobilized aggressively in swing states, and Harris won 57% of union households — yet Harris lost Michigan overall and the presidency.
 
 - [OpenSecrets: UAW organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/united-auto-workers/summary?id=D000000070) (Tier 1) (Chrome-verified)
-- [OpenSecrets: UAW lobbying profile — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
+- [Senate LDA Filings: UAW lobbying profile — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
 
 ---
 
@@ -345,10 +345,10 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 - [OpenSecrets: UAW V-CAP PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2024) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: UAW V-CAP PAC profile 2020](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2020) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: UAW V-CAP PAC profile 2016](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2016) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: UAW lobbying profile — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
-- [OpenSecrets: 2024 Outside Spending by Group](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Labor Sector Totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: FIRE Sector Totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED)
+- [Senate LDA Filings: UAW lobbying profile — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
+- [FEC Independent Expenditures: 2024 Outside Spending by Group](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (UNVERIFIED)
+- [FEC Receipts: Labor Sector Totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED)
+- [FEC Receipts: FIRE Sector Totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED)
 - [FEC: PAC Table 4b 2024](https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/pac/PAC4b_2024_24m.xlsx) (Tier 1)
 
 ### DOJ & Law Enforcement (Tier 1):
@@ -398,7 +398,7 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 - [Wikipedia: 2023 United Auto Workers strike](https://en.wikipedia.org/wiki/2023_United_Auto_Workers_strike) (Tier 3)
 - [Union Democracy: UAW consent decree referendum](https://uniondemocracy.org/victory-for-uaw-reformers-consent-decree-referendum-mandates-direct-election-of-top-officers/) (Tier 3)
 - [People's World: Fain wins UAW](https://peoplesworld.org/article/riding-wave-of-reform-and-renewal-shawn-fain-wins-uaw-presidency/) (Tier 3)
-- [OpenSecrets: Business-Labor lobbying split 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
+- [Senate LDA Filings: Business-Labor lobbying split 2025](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
 
 ---
 

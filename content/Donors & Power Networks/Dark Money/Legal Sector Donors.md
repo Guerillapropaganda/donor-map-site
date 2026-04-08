@@ -28,7 +28,7 @@ The legal sector's political power extends beyond contributions: lawyers are the
 
 ### Sources
 
-- [OpenSecrets: Lawyers & law firm contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Lawyers & law firm contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Legal profession political spending](https://ballotpedia.org/Legal_Sector_Donors) (Tier 3)
 
 content-readiness:: ready

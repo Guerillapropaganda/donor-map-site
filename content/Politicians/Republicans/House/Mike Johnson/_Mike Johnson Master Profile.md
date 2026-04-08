@@ -137,7 +137,7 @@ Mike Johnson. Speaker of the House (October 2023–present). Representative for 
 
 ### Sources
 
-- [OpenSecrets: Johnson congressional fundraising](https://www.congress.gov/search?q=Mike%20Johnson&searchResultViewType=expanded) (Tier 1)
+- [Congress.gov: Johnson congressional fundraising](https://www.congress.gov/search?q=Mike%20Johnson&searchResultViewType=expanded) (Tier 1)
 - [The Intercept: AIPAC cash flow to Johnson post-Speaker](https://theintercept.com/2024/01/20/israel-aipac-house-mike-johnson/) (Tier 2)
 - [Rolling Stone: ADF employment history](https://www.rollingstone.com/politics/politics-features/mike-johnson-alliance-defending-freedom-anti-lgbtq-1234865340/) (Tier 2)
 - [CNBC: Louisiana donor base](https://www.cnbc.com/2023/10/31/mike-johnsons-donors-could-become-key-funders-for-house-gop.html) (Tier 2)

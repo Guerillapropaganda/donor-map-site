@@ -117,8 +117,8 @@ When Britt moved from BCA to the Senate, she carried that donor list and alignme
 - [Wikipedia: Katie Britt](https://en.wikipedia.org/wiki/Katie_Britt) (Tier 3)
 - [Ballotpedia: Katie Britt](https://ballotpedia.org/Katie_Britt) (Tier 3)
 - [Bloomberg Government: Alabama GOP Candidate Boosted by Shelby's Appropriations Network](https://about.bgov.com/news/alabama-gop-candidate-boosted-by-shelbys-appropriations-network/) (Tier 2)
-- [OpenSecrets: Sen. Katie Britt Campaign Finance Summary](https://www.fec.gov/data/candidate/S2AL00145/) (Tier 1)
-- [OpenSecrets: Katie Britt 2022 Campaign Contributors](https://www.fec.gov/data/candidate/S2AL00145/) (Tier 1)
+- [FEC Candidate: Sen. Katie Britt Campaign Finance Summary](https://www.fec.gov/data/candidate/S2AL00145/) (Tier 1)
+- [FEC Candidate: Katie Britt 2022 Campaign Contributors](https://www.fec.gov/data/candidate/S2AL00145/) (Tier 1)
 - [Reckon News: RNC speaker Sen. Katie Britt's ties to 'big oil' and Alabama Power](https://www.reckon.news/news/2024/07/rnc-speaker-sen-katie-britts-ties-to-big-oil-and-alabama-power/) (Tier 2)
 - [CBS News: Who is Katie Britt, the senator who delivered the Republican State of the Union response?](https://www.cbsnews.com/amp/news/who-is-katie-britt/) (Tier 2)
 

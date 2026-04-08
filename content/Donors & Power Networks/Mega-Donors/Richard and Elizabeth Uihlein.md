@@ -115,7 +115,7 @@ The anti-immigration politics and the labor exploitation are not contradictory â
 
 ### Sources
 
-- [OpenSecrets: Uihlein donation history 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
+- [FEC Independent Expenditures: Uihlein donation history 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 - [OpenSecrets: Billionaire megadonor couple funding election denial](https://www.opensecrets.org/news/) (Tier 1)
 - [Revolving Door Project: Richard & Elizabeth Uihlein and Trump administration](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-richard-elizabeth-uihlein/) (Tier 2)
 - [Daily Beast: MAGA-owned business accused of sneaking immigrant workers into US](https://www.thedailybeast.com/maga-owned-business-accused-of-sneaking-immigrant-workers-into-us/) (Tier 3)

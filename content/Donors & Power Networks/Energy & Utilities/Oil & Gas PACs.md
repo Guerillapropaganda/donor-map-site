@@ -42,7 +42,7 @@ Oil and gas PACs are targeted with precision: the largest contributions go to me
 
 ### Sources
 
-- [OpenSecrets: Oil and gas industry PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Oil and gas industry PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Oil and gas political spending](https://ballotpedia.org/Oil_&_Gas_PACs) (Tier 3)
 
 content-readiness:: ready

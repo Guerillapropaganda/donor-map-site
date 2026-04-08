@@ -112,8 +112,8 @@ Total political spending: $4,943,324
 > Two-thirds of Palantir's lobbyists previously held government jobs. This revolving door isn't incidental — it's the business model. Former intelligence officials, Pentagon procurement staff, and congressional defense aides cycle into Palantir's lobbying operation, leveraging the relationships and institutional knowledge they built on the public payroll to sell surveillance technology back to their former employers. The 2013 lobbying peak ($796K) coincides precisely with the year Palantir launched its DCGS-A procurement fight — the lawsuit that broke open Army contracting for tech companies and ultimately led to the $10B enterprise agreement in 2025. The pre-IPO quiet period (2019: $180K) and the post-IPO explosion (2023: $5.09M) confirm the pattern: lobbying scaled with Palantir's political power, not just its revenue.
 
 - [OpenSecrets: Palantir Technologies PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/palantir-technologies/C00498691/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Palantir Technologies lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Palantir Technologies lobbyists — revolving door data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Palantir Technologies lobbyists — revolving door data](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 
 ---
 
@@ -210,9 +210,9 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 ### Sources
 
 - [OpenSecrets: Palantir Technologies summary](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1)
-- [OpenSecrets: Palantir Technologies lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Palantir Technologies PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/palantir-technologies/C00498691/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Palantir Technologies lobbyists — revolving door](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Palantir Technologies lobbyists — revolving door](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [Senate LDA API: Palantir Technologies lobbying filings 2006–2025 (489 filings)](https://lda.senate.gov/filings/public/filing/search/?client_name=PALANTIR+TECHNOLOGIES) (Tier 1)
 - [USAspending.gov: Palantir ICE contract record](https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730) (Tier 1)
 - [CNBC: Palantir lands $10 billion Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)

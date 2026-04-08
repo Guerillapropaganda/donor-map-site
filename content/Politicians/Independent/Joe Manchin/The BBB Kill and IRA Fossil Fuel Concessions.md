@@ -257,7 +257,7 @@ Manchin became a member of the Senate Energy and Natural Resources Committee whe
 ### Sources
 
 - [Congressional Budget Office: Estimated Budgetary Effects of HR 5376, Inflation Reduction Act](https://www.cbo.gov/publication/58366) (Tier 1)
-- [OpenSecrets: Manchin industry and contributor data](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (UNVERIFIED)
+- [FEC Candidate: Manchin industry and contributor data](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (UNVERIFIED)
 - [E&E News: Manchin has raked in $400K in fossil fuel donations](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2)
 - [E&E News: Manchin revives climate deal - what's in the $369B bill](https://www.eenews.net/articles/manchin-revives-climate-deal-whats-in-the-369b-bill/) (Tier 2)
 - [E&E News: Manchin pushes DOE to invest in coal that earned him millions](https://www.eenews.net/articles/manchin-pushes-doe-to-invest-in-coal-that-earned-him-millions/) (Tier 2)

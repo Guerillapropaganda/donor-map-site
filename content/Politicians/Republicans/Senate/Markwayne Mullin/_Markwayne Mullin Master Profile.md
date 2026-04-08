@@ -136,8 +136,8 @@ The 15.57% self-financing rate and low small-dollar percentage undercut the "blu
 
 ### Sources
 
-- [OpenSecrets: Markwayne Mullin donor profile](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1)
-- [OpenSecrets: Mullin industry donors (career)](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1)
+- [FEC Candidate: Markwayne Mullin donor profile](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1)
+- [FEC Candidate: Mullin industry donors (career)](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1)
 - [NOTUS: Mullin violated STOCK Act by failing to disclose trades](https://www.notus.org/oklahoma/markwayne-mullin-stock-act) (Tier 2)
 - [NOTUS: Mullin pledges to sell stock holdings if confirmed](https://www.notus.org/trump-white-house/markwayne-mullin-dhs-stock-holdings-sell) (Tier 2)
 - [NPR: Mullin confirmed as DHS secretary](https://www.npr.org/2026/03/23/g-s1-114813/markwayne-mullin-confirmed-homeland-security) (Tier 2)

@@ -98,6 +98,6 @@ The critical question: Porter's model raised $6.1 million. Steyer has self-funde
 ### Sources
 
 - [CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money](https://calmatters.org/politics/elections/2024/02/california-senate-race-corporate-pacs/) (Tier 2)
-- [OpenSecrets: Rep. Katie Porter Campaign Finance Summary](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded) (Tier 1)
+- [Congress.gov: Rep. Katie Porter Campaign Finance Summary](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded) (Tier 1)
 - [Daily Beast: Katie Porter Touts Clean Campaign Cash. Her Record Isn't So Spotless.](https://www.thedailybeast.com/katie-porter-touts-clean-campaign-cash-her-record-isnt-so-spotless/) (Tier 2)
 - [Yahoo News: Fact check: Did Katie Porter get campaign cash from Big Pharma, Big Oil and Big Banks?](https://www.yahoo.com/news/fact-check-did-katie-porter-233119467.html) (Tier 2)

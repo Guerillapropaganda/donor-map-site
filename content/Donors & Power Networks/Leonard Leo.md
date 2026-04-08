@@ -201,7 +201,7 @@ Leo also co-created Liberty Central with Ginni Thomas, seeded with $500,000 from
 ### Sources
 
 - [ProPublica: Leonard Leo Gave Millions Trying to Influence Supreme Court on Elections, Discrimination](https://www.propublica.org/article/leonard-leo-scotus-elections-nonprofits-discrimination) (Tier 2)
-- [OpenSecrets: Leo's Dark Money Architecture](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo) (Tier 1)
+- [FEC Receipts: Leo's Dark Money Architecture](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo) (Tier 1)
 - [IRS Form 990: Marble Freedom Trust Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Leonard%20Leo&city=&state=All+States&country=US) (Tier 1)
 - [ProPublica: We Don't Talk About Leonard](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 - [ProPublica: Barre Seid $1.6B donation to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)

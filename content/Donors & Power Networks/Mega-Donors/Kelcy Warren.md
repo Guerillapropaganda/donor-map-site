@@ -187,7 +187,7 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 - [Salon: A Pipeline of Oil Money Fuels Texas Deregulators](https://www.salon.com/2021/03/02/a-pipeline-of-oil-money-fuels-texas-deregulators_partner/) (Tier 2)
 - [ProPublica: Energy Transfer Partners Texas PAC 527 Explorer](https://projects.propublica.org/527-explorer/orgs/261239573) (Tier 1)
 - [NPR: Greenpeace Faces $300 Million Lawsuit After Dakota Access Pipeline Protests](https://www.npr.org/2025/02/24/nx-s1-5292463/greenpeace-lawsuit-energy-transfer-dakota-access) (Tier 2)
-- [OpenSecrets: Kelcy Warren Donor Lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kelcy%20warren) (Tier 1)
+- [FEC Receipts: Kelcy Warren Donor Lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kelcy%20warren) (Tier 1)
 
 ---
 

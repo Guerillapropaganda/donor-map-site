@@ -121,7 +121,7 @@ This is the clearest example in the vault of a politician whose funding is direc
 - [Virginia Independent: Key elections coming up in Virginia in 2026](https://virginiaindependentnews.com/elections/2026-constitution-amendments-referendums-primary-general-senate-house/) (Tier 2)
 - [Cook Political Report: VA Senate 2026](https://www.cookpolitical.com/senate/race/488691) (Tier 2)
 - [WDBJ7: Mark Warner banks record $13.36 million for 2026 Senate race](https://www.wdbj7.com/2026/01/13/mark-warner-banks-record-1336-million-as-he-gears-up-critical-2026-senate-race/) (Tier 2)
-- [OpenSecrets: Sen. Mark Warner campaign finance summary](https://www.fec.gov/data/candidate/P80003023/) (Tier 1)
+- [FEC Candidate: Sen. Mark Warner campaign finance summary](https://www.fec.gov/data/candidate/P80003023/) (Tier 1)
 - [VPAP: Top donors to Mark Warner](https://www.vpap.org/candidates/5301/top_donors/) (Tier 1)
 - [VPAP: Donors to Mark Warner by occupation](https://www.vpap.org/candidates/5301/donors_sector_totals/) (Tier 1)
 

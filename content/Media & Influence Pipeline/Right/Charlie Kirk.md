@@ -196,7 +196,7 @@ The audience captured by Kirk's content will vote against labor protections, aga
 - [Wikipedia: Turning Point USA](https://en.wikipedia.org/wiki/Turning_Point_USA) (Tier 3)
 - [OpenSecrets: Turning Point PAC — PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/turning-point-pac/C00814152/summary/2024) (Tier 1)
 - [FEC: TURNING POINT PAC INC. — committee overview](https://www.fec.gov/data/committee/C00814152/) (Tier 1)
-- [OpenSecrets: Turning Point USA Outside Spending 2022](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
+- [FEC Independent Expenditures: Turning Point USA Outside Spending 2022](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 - [Brennan Center for Justice: The Money Behind January 6 Is Flowing into the 2022 Elections](https://www.brennancenter.org/our-work/analysis-opinion/money-behind-january-6-flowing-2022-elections) (Tier 2)
 - [The Chronicle of Higher Education: As Turning Point USA Grows, So Does Charlie Kirk's Salary](https://www.chronicle.com/article/as-turning-point-usa-grows-so-does-charlie-kirks-salary) (Tier 2)
 - [InfluenceWatch: Turning Point USA](https://www.influencewatch.org/non-profit/turning-point-usa/) (Tier 3)

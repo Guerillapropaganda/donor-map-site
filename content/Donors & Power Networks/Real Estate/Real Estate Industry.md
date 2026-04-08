@@ -61,7 +61,7 @@ The industry's political priorities are bipartisan by structural necessity: mort
 
 ### Sources
 
-- [OpenSecrets: Real estate industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Real estate industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [JCT: Tax expenditure estimates for real estate provisions](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry) (Tier 1)
 - [Ballotpedia: Real estate industry lobbying](https://ballotpedia.org/Real_Estate_Industry) (Tier 3)
 

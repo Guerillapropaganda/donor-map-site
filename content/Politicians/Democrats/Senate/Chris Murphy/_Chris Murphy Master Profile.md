@@ -159,8 +159,8 @@ However, the foreign policy portfolio receives far less attention than gun contr
 
 ### Sources
 
-- [OpenSecrets: Chris Murphy campaign finance summary](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
-- [OpenSecrets: Chris Murphy career industries](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
+- [FEC Candidate: Chris Murphy campaign finance summary](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
+- [FEC Candidate: Chris Murphy career industries](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
 - [Congress.gov: Chris Murphy member profile](https://www.congress.gov/member/chris-murphy/M001169) (Tier 1)
 - [Congress.gov: Bipartisan Safer Communities Act](https://www.congress.gov/bill/117th-congress/senate-bill/2938) (Tier 1)
 - [Murphy.senate.gov: Murphy-Young resolution on Saudi arms sales](https://www.murphy.senate.gov/newsroom/press-releases/murphy-young-announce-privileged-resolution-to-force-vote-on-us-saudi-security-relationship-recent-arms-sale) (Tier 1)

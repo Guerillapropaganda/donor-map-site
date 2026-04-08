@@ -132,8 +132,8 @@ Steil's election reform agenda â€” the "Make Elections Great Again" (MEGA) Act â
 
 ### Sources
 
-- [OpenSecrets: Bryan Steil donor profile](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1)
-- [OpenSecrets: Bryan Steil industry donors](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1)
+- [FEC Candidate: Bryan Steil donor profile](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1)
+- [FEC Candidate: Bryan Steil industry donors](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1)
 - [Congress.gov: Bryan Steil](https://www.congress.gov/member/bryan-steil/S001213) (Tier 1)
 - [House Administration Committee: Meet the Chairman](https://cha.house.gov/meet-the-chairman) (Tier 1)
 - [House.gov: Steil introduces MEGA Act election reform package](https://steil.house.gov/media/press-releases/steil-introduces-election-reform-package) (Tier 1)

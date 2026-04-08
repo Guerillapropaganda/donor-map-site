@@ -43,7 +43,7 @@ Cotton's Intelligence Committee position gives him access to classified informat
 
 ### Sources
 
-- [OpenSecrets: Tom Cotton donor profile](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded) (Tier 1)
+- [Congress.gov: Tom Cotton donor profile](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded) (Tier 1)
 - [Congress.gov: Tom Cotton member page](https://www.congress.gov/member/tom-cotton/C001095) (Tier 1)
 - [Ballotpedia: Tom Cotton](https://ballotpedia.org/Tom_Cotton) (Tier 3)
 

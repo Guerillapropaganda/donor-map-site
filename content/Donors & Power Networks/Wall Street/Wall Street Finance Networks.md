@@ -143,11 +143,11 @@ The reverse flow — regulators joining Wall Street firms at multiples of their 
 ### Sources
 
 ### Industry Data & Contribution Totals:
-- [OpenSecrets: Securities & Investment Industry Summary, 2024 Cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [OpenSecrets: Securities & Investment Totals by Cycle, 1990–2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Securities & Investment Industry Summary, 2024 Cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Securities & Investment Totals by Cycle, 1990–2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ### Lobbying:
-- [OpenSecrets: Securities & Investment Top Lobbying Clients, 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Securities & Investment Top Lobbying Clients, 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ### Top Individual Contributors:
 - [OpenSecrets: Top Individual Contributors, 2024 Cycle](https://www.opensecrets.org/elections-overview/biggest-donors?cycle=2024) (Tier 1) (UNVERIFIED)

@@ -185,7 +185,7 @@ Meta's 82-85% revolving door rate is among the highest in corporate America. The
 > Meta spent $24.4 million on federal lobbying in 2024 plus $65 million on state-level super PACs = $89.4 million total political deployment. This protects a business that generates $134 billion in annual revenue. The lobbying-to-revenue ratio (0.067%) means Meta spends less than one-tenth of one percent of its revenue on political protection. The FTC case threatening Instagram divestiture alone threatens $100+ billion in asset value. The $89.4M is insurance on a $100B+ asset — a premium of less than 0.1%.
 
 - [OpenSecrets: Meta Platforms organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1) (Chrome-verified)
-- [OpenSecrets: Meta Platforms lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
+- [Senate LDA Filings: Meta Platforms lobbying profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
 
 ---
 
@@ -284,9 +284,9 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 
 ### FEC & OpenSecrets (Chrome-verified):
 - [OpenSecrets: Meta Platforms organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1)
-- [OpenSecrets: Meta Platforms lobbying profile — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Meta Platforms lobbying profile — 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Meta PAC profile — C00502906](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Section 230 lobbying breakdown — $59M Meta spend (2020-2023)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
+- [Senate LDA Filings: Section 230 lobbying breakdown — $59M Meta spend (2020-2023)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
 
 ### Government & Legal:
 - [FTC: FTC v. Meta Platforms case documents](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc-ftc-v-meta-platforms-inc) (Tier 1) (Chrome-verified — redirected URL)

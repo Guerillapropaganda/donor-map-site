@@ -132,8 +132,8 @@ The deeper tension is between Boyle's working-class brand and the Budget Committ
 
 ### Sources
 
-- [OpenSecrets: Brendan Boyle donor profile](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
-- [OpenSecrets: Brendan Boyle industry donors](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
+- [FEC Candidate: Brendan Boyle donor profile](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
+- [FEC Candidate: Brendan Boyle industry donors](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
 - [Congress.gov: Brendan Boyle](https://www.congress.gov/member/brendan-boyle/B001296) (Tier 1)
 - [House Budget Committee Democrats: Ranking Member Boyle](https://democrats-budget.house.gov/about/ranking-member) (Tier 1)
 - [House.gov: Boyle biography](https://boyle.house.gov/about/biography) (Tier 1)

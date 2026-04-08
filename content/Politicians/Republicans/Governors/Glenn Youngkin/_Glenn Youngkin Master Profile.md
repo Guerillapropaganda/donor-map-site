@@ -156,7 +156,7 @@ His liabilities: the 2024 election cycle revealed that Republican primary voters
 
 ### Sources
 
-- [OpenSecrets: Glenn Youngkin donor profile and campaign finance](https://www.congress.gov/search?q=G&searchResultViewType=expanded) (Tier 1)
+- [Congress.gov: Glenn Youngkin donor profile and campaign finance](https://www.congress.gov/search?q=G&searchResultViewType=expanded) (Tier 1)
 - [NBC Washington: GOP Candidate's Private Equity Resume Draws Scrutiny in Va.](https://www.nbcwashington.com/news/local/gop-candidates-private-equity-resume-draws-scrutiny-in-va/2716941/) (Tier 2)
 - [Bloomberg: Glenn Youngkin at Carlyle Racked Up Bad Bets Before Entering Virginia Politics](https://www.bloomberg.com/news/articles/2021-08-04/ex-carlyle-boss-racked-up-bad-bets-before-switching-to-politics) (Tier 2)
 - [Wikipedia: Glenn Youngkin](https://en.wikipedia.org/wiki/Glenn_Youngkin) (Tier 3)

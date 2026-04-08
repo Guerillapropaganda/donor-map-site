@@ -119,7 +119,7 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 
 ### Sources
 
-- [OpenSecrets: Roger Marshall campaign finance summary](https://www.fec.gov/data/candidate/H6KS01179/) (Tier 1)
+- [FEC Candidate: Roger Marshall campaign finance summary](https://www.fec.gov/data/candidate/H6KS01179/) (Tier 1)
 - [FEC: Roger Marshall candidate overview](https://www.fec.gov/data/candidate/S0KS00315/) (Tier 1)
 - [Congress.gov: Roger Marshall](https://www.congress.gov/member/roger-marshall/M001198) (Tier 1)
 - [Marshall.senate.gov: 119th Congress committee assignments](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-announces-committee-assignments-for-the-119th-congress/) (Tier 1)

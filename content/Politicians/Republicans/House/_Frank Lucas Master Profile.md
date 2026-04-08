@@ -296,7 +296,7 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 
 ### Sources
 
-- [OpenSecrets: Frank Lucas donor profile and campaign finance](https://www.fec.gov/data/candidate/H4OK06056/) (Tier 1)
+- [FEC Candidate: Frank Lucas donor profile and campaign finance](https://www.fec.gov/data/candidate/H4OK06056/) (Tier 1)
 - [OpenSecrets: Congressional members receiving farm subsidies](https://www.opensecrets.org/news/) (Tier 1)
 - [Environmental Working Group: Farm Subsidy Database — Frank Lucas](https://farm.ewg.org/persondetail.php?custnumber=13000178668) (Tier 1)
 - [FEC: Frank Lucas for Congress Committee filings](https://www.fec.gov/data/committee/C00287912/) (Tier 1)

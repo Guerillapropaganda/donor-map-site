@@ -140,7 +140,7 @@ This is the Self-Funding as Independence pattern in its purest form, inverted: W
 
 ### Sources
 
-- [OpenSecrets: Roger Williams donor profile](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1)
+- [FEC Candidate: Roger Williams donor profile](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1)
 - [OpenSecrets: Roger Williams net worth](https://www.opensecrets.org/personal-finances/roger-williams/net-worth?cid=N00030602) (Tier 1)
 - [FEC: Roger Williams candidate overview](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1)
 - [Office of Congressional Ethics: Referral regarding Rep. Roger Williams](https://conduct.house.gov/reports/investigations/oce-referral-regarding-rep-roger-williams) (Tier 1)

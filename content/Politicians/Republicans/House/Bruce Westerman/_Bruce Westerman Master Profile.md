@@ -137,8 +137,8 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 ### Sources
 
-- [OpenSecrets: Bruce Westerman donor profile](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1)
-- [OpenSecrets: Bruce Westerman industry donors](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1)
+- [FEC Candidate: Bruce Westerman donor profile](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1)
+- [FEC Candidate: Bruce Westerman industry donors](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1)
 - [Congress.gov: Bruce Westerman](https://www.congress.gov/member/bruce-westerman/W000821) (Tier 1)
 - [House Natural Resources Committee: Chairman Westerman](https://naturalresources.house.gov/about/chairman.htm) (Tier 1)
 - [Public Domain Media: House Natural Resources Chair's Oil Stock Purchases Were Unusual](https://www.publicdomain.media/p/bruce-westerman-stocks) (Tier 2)

@@ -136,9 +136,9 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 
 ### Sources
 
-- [OpenSecrets: Tom Cole campaign finance summary](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1)
-- [OpenSecrets: Tom Cole top industries](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1)
-- [OpenSecrets: Tom Cole top contributors](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1)
+- [FEC Candidate: Tom Cole campaign finance summary](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1)
+- [FEC Candidate: Tom Cole top industries](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1)
+- [FEC Candidate: Tom Cole top contributors](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1)
 - [FEC: Tom Cole candidate filings](https://www.fec.gov/data/candidate/H2OK04055/) (Tier 1)
 - [Congress.gov: Tom Cole member profile](https://www.congress.gov/member/tom-cole/C001053) (Tier 1)
 - [House Appropriations Committee: Chairman Tom Cole](https://appropriations.house.gov/about/chairman-tom-cole) (Tier 1)

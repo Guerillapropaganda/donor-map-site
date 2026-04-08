@@ -144,7 +144,7 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 
 ### Sources
 
-- [OpenSecrets: James Comer Campaign Finance Summary](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1)
+- [FEC Candidate: James Comer Campaign Finance Summary](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1)
 - [FEC: Comer for Congress (C00588764)](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1)
 - [Congress.gov: James Comer Member Profile](https://www.congress.gov/member/james-comer/C001108) (Tier 1)
 - [Fortune: Comer's Kentucky Land Shell Company](https://fortune.com/2023/12/14/james-comer-kentucky-land-shell-company-hunter-biden-probe/) (Tier 2)

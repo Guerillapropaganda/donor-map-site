@@ -158,7 +158,7 @@ This is not quid pro quo corruption in the legal sense. It is structural politic
 ### Sources
 
 - [Wikipedia: Tim Dunn (businessman)](https://en.wikipedia.org/wiki/Tim_Dunn_%28businessman%29) (Tier 3)
-- [OpenSecrets: Tim Dunn donor profile](https://www.fec.gov/data/independent-expenditures/?q=Tim%20Dunn) (Tier 1)
+- [FEC Independent Expenditures: Tim Dunn donor profile](https://www.fec.gov/data/independent-expenditures/?q=Tim%20Dunn) (Tier 1)
 - [Detroit News: Tim Dunn $5M to Great Lakes Conservatives Fund August 2025](https://www.detroitnews.com/story/news/politics/2025/08/01/crownquest-texas-oil-and-gas-tim-dunn-gives-5-million-to-mike-rogers-super-pac-michigan-senate/85472913007/?gnt-cfr=1&gca-cat=p) (Tier 2)
 - [Michigan Advance: Pro-Rogers Super PAC funded by Christian Nationalist August 2025](https://michiganadvance.com/2025/08/05/pro-rogers-super-pac-funded-by-ardent-christian-nationalist/) (Tier 2)
 - [CNN: Texas far-right politics Tim Dunn and Farris Wilks](https://www.cnn.com/2022/07/24/politics/texas-far-right-politics-invs) (Tier 2)

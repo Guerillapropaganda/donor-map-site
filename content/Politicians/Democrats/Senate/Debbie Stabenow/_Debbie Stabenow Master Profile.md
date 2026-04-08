@@ -120,7 +120,7 @@ Stabenow is the Farm Bill senator — the Democrat who controlled more agribusin
 
 ### Sources
 
-- [OpenSecrets: Debbie Stabenow Campaign Finance Summary](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1)
+- [FEC Candidate: Debbie Stabenow Campaign Finance Summary](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1)
 - [OpenSecrets: Debbie Stabenow Top Industries](https://www.opensecrets.org/members-of-congress/industries?cycle=Career&cid=N00004118) (Tier 1)
 - [FEC: Debbie Stabenow for U.S. Senate](https://www.fec.gov/data/candidate/S8MI00281/) (Tier 1)
 - [Sunlight Foundation: Senators Who Write Farm Bill Fine Print Reap Agribusiness Campaign Cash](https://sunlightfoundation.com/2013/06/10/senators-who-write-farm-bill/) (Tier 2)

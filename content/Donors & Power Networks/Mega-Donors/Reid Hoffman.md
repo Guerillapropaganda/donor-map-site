@@ -152,7 +152,7 @@ The Texas race was also notable for its progressive vs. establishment dynamics: 
 - [FEC: Reid Hoffman individual contributions 2019-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=hoffman) (Tier 1)
 - [OpenSecrets: Reid Hoffman donor profile](https://www.opensecrets.org/donor/top/hoffman-reid) (Tier 2)
 - [Wisconsin Democratic Party financial disclosures 2019-2024](https://elections.wi.gov/state-candidates-and-committees) (Tier 1)
-- [OpenSecrets: Reid Hoffman Outside Spending Donor Detail — 2024 Cycle](https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman) (Tier 1)
+- [FEC Independent Expenditures: Reid Hoffman Outside Spending Donor Detail — 2024 Cycle](https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman) (Tier 1)
 - [Wall Street Journal: "Tech Billionaire Reid Hoffman Becomes One of Democrats' Biggest Donors"](https://www.wsj.com/articles/tech-billionaire-reid-hoffman-becomes-one-of-democrats-biggest-donors-11603129533) (Tier 2)
 - [Politico: "Reid Hoffman's Wisconsin Machine"](https://www.politico.com/news/2024/10/swing-state-spending) (Tier 2)
 - [Bloomberg: "How Jeffrey Epstein Used Reid Hoffman to Court Silicon Valley's Elite" (March 4, 2026)](https://www.bloomberg.com/news/articles/2026-03-04/how-jeffrey-epstein-used-reid-hoffman-to-court-silicon-valley-s-elite) (Tier 2)

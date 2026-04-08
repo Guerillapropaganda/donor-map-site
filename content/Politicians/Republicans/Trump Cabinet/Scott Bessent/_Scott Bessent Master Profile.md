@@ -125,7 +125,7 @@ Bessent holds $250K–$500K in iShares Bitcoin Trust ETF and has positioned Trea
 
 ### Sources
 
-- [OpenSecrets: Bessent political contributions](https://www.fec.gov/data/independent-expenditures/?q=Scott%20Bessent) (Tier 1)
+- [FEC Independent Expenditures: Bessent political contributions](https://www.fec.gov/data/independent-expenditures/?q=Scott%20Bessent) (Tier 1)
 - [Fortune: Net worth disclosure and ethics compliance](https://fortune.com/2025/01/12/scott-bessent-net-worth-trump-treasury-secretary-nominee-personal-assets-financial-disclosure/) (Tier 2)
 - [Bloomberg: Wall Street backing and nomination](https://www.bloomberg.com/news/articles/2024-11-25/wall-street-cheers-trump-s-pick-of-bessent-to-run-treasury) (Tier 2)
 - [NPR: Soros connection (Planet Money - Black Wednesday)](https://www.npr.org/transcripts/1216966368) (Tier 2)

@@ -41,7 +41,7 @@ What it did not address: state incarceration (90% of the prison population), pol
 ### Sources
 
 - [Congress.gov: First Step Act](https://www.congress.gov/bill/115th-congress/senate-bill/756) (Tier 1)
-- [OpenSecrets: Cory Booker donor profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
+- [FEC Candidate: Cory Booker donor profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
 - [Ballotpedia: First Step Act](https://ballotpedia.org/First_Step_Act) (Tier 3)
 
 content-readiness:: ready

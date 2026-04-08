@@ -197,7 +197,7 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 ### Sources
 
 - [OpenSecrets: American Farm Bureau Federation Profile](https://www.opensecrets.org/orgs/american-farm-bureau/summary?id=D000021832) (Tier 1)
-- [OpenSecrets: AFBF Lobbying Profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: AFBF Lobbying Profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Farm Bureau PACs Industry Detail 2022](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/A6500/2022) (Tier 1)
 - [USDA: Farmer Bridge Assistance Announcement (Dec 2025)](https://www.usda.gov/about-usda/news/press-releases/2025/12/08/trump-administration-announces-12-billion-farmer-bridge-payments-american-farmers-impacted-unfair) (Tier 1)
 - [EWG: Farm Subsidies Ballooned Under Trump (Interactive)](https://www.ewg.org/interactive-maps/2021-farm-subsidies-ballooned-under-trump/) (Tier 1)

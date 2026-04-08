@@ -135,8 +135,8 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 
 ### Sources
 
-- [OpenSecrets: Tuberville campaign finance summary](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded) (Tier 1)
-- [OpenSecrets: Tuberville industry donors](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded) (Tier 1)
+- [Congress.gov: Tuberville campaign finance summary](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded) (Tier 1)
+- [Congress.gov: Tuberville industry donors](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded) (Tier 1)
 - [CNBC: Tuberville STOCK Act violations, 130+ trades](https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html) (Tier 2)
 - [Alabama Reporter: Tuberville defense stock trading while on Armed Services Committee](https://www.alreporter.com/2024/12/30/tuberville-involved-in-defense-stock-trading-while-on-armed-services-committee/) (Tier 2)
 - [Alabama Reporter: Defense contractors donated during promotions hold](https://www.alreporter.com/2023/10/11/report-tuberville-got-financial-support-from-defense-contractors-amid-confirmations-hold/) (Tier 2)

@@ -167,7 +167,7 @@ Neither was proposing crypto regulation. Both simply represented political model
 - [CNBC: Fairshake PAC $193M cash 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
 - [Axios: Crypto PACs hundreds of millions ready for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac) (Tier 2)
 - [Cointelegraph: Mike Collins accepting crypto donations campaign](https://cointelegraph.com/news/rep-mike-collins-accepting-crypto-donations-campaign) (Tier 2)
-- [OpenSecrets: Mike Collins campaign finance](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded) (Tier 1)
+- [Congress.gov: Mike Collins campaign finance](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded) (Tier 1)
 - [Congress.gov: S.J.Res.61 Sanders conditioning amendment](https://www.congress.gov/bill/118th-congress/senate-joint-resolution/61) (Tier 1)
 - [Track AIPAC: Ossoff voting record AIPAC alignment](https://www.trackaipac.com/states/georgia) (Tier 3)
 

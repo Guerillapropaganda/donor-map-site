@@ -77,7 +77,7 @@ Related races:
 - [Wikipedia: 2026 Kentucky Senate Election](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky) (Tier 3)
 - [AP News: McConnell Retirement](https://apnews.com/article/mitch-mcconnell-senate-retirement-34c79ef12bf62d14cb71d3c393f23a83) (Tier 2)
 - [FEC: Andy Barr for Senate](https://barrforsenate.com/press-release/andy-barr-officially-files-for-u-s-senate/) (Tier 1)
-- [OpenSecrets: Andy Barr Career Industries](https://www.fec.gov/data/candidate/H0KY06104/) (Tier 1)
+- [FEC Candidate: Andy Barr Career Industries](https://www.fec.gov/data/candidate/H0KY06104/) (Tier 1)
 - [Emerson College Polling: Kentucky 2026 GOP Primary](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/) (Tier 2)
 - [Fox News: Elon Musk $10M Kentucky Investment](https://www.foxnews.com/politics/elon-musk-pours-staggering-10m-kentucky-senate-race-backing-pro-trump-business-outsider) (Tier 2)
 - [Yahoo News: Republican Super PAC Spending](https://www.yahoo.com/news/articles/republican-spending-rises-kentucky-senate-090425701.html) (Tier 2)

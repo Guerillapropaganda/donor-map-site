@@ -79,8 +79,8 @@ Hagerty's career path reveals the private equity class conversion mechanism: acc
 
 ### Sources
 
-- [OpenSecrets: Bill Hagerty donor profile](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1)
-- [OpenSecrets: Hagerty 2024 industries](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1)
+- [FEC Candidate: Bill Hagerty donor profile](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1)
+- [FEC Candidate: Hagerty 2024 industries](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1)
 - [FEC: Bill Hagerty candidate overview](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1)
 - [Tennessee Lookout: GOP Senate hopeful serves with donors on White House panel](https://tennesseelookout.com/2020/05/08/tenn-senate-campaign-lures-cash-from-gop-politicos-megadonors/) (Tier 2)
 - [Solana Compass: Senator Hagerty on Crypto Regulation](https://solanacompass.com/learn/Validated/the-2024-pro-crypto-election-w-senator-bill-hagerty-r-tn) (Tier 3)

@@ -146,7 +146,7 @@ Gabbard was raised in the Science of Identity Foundation (SIF), a new religious 
 
 ### Sources
 
-- [OpenSecrets: Gabbard 2020 presidential campaign finance](https://www.fec.gov/data/candidate/H2HI02508/) (Tier 1)
+- [FEC Candidate: Gabbard 2020 presidential campaign finance](https://www.fec.gov/data/candidate/H2HI02508/) (Tier 1)
 - [NPR: Gabbard confirmed as DNI (52-48, February 12, 2025)](https://www.npr.org/2025/02/12/nx-s1-5294635/tulsi-gabbard-confirmed-dni-intelligence-senate) (Tier 2)
 - [CBS News: DNI confirmation vote details](https://www.cbsnews.com/news/tulsi-gabbard-confirmation-vote-senate-director-of-national-intelligence/) (Tier 2)
 - [Washington Post: Gabbard Section 702/FISA surveillance reversal](https://www.washingtonpost.com/national-security/2025/01/28/tulsi-gabbard-section-702-fisa-surveillance/) (Tier 2)

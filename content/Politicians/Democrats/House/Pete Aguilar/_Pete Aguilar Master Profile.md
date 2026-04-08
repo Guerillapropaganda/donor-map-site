@@ -134,10 +134,10 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 
 ### Sources
 
-- [OpenSecrets: Pete Aguilar campaign finance summary](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
-- [OpenSecrets: Pete Aguilar top contributors — career](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
-- [OpenSecrets: Pete Aguilar top contributors — 2024 cycle](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
-- [OpenSecrets: Pete Aguilar industries breakdown — 2024 cycle](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
+- [FEC Candidate: Pete Aguilar campaign finance summary](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
+- [FEC Candidate: Pete Aguilar top contributors — career](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
+- [FEC Candidate: Pete Aguilar top contributors — 2024 cycle](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
+- [FEC Candidate: Pete Aguilar industries breakdown — 2024 cycle](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
 - [FEC: Aguilar campaign finance filings](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
 - [Congress.gov: H.R.8034 — Israel Security Supplemental Appropriations Act, 2024](https://www.congress.gov/bill/118th-congress/house-bill/8034) (Tier 1)
 - [Congress.gov: Pete Aguilar](https://www.congress.gov/member/pete-aguilar/A000371) (Tier 1)

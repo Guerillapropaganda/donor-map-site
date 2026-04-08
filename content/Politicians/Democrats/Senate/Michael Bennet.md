@@ -83,11 +83,11 @@ Bennet represents the education reform pipeline operating at scale. Billionaire 
 - [Colorado Sun: Dark Money, Charter Schools Are Funding State Super PAC Backing Michael Bennet's Campaign](https://coloradosun.com/2025/07/18/the-unafilliated-07182025/) (Tier 2)
 - [Colorado Sun: Super PAC Backing Michael Bennet's Gubernatorial Bid is Fueled by Dark Money, Pro-Charter School Groups](https://coloradosun.com/2025/07/21/michael-bennet-super-pac-colorado/) (Tier 2)
 - [FEC.gov: Michael F. Bennet Candidate Overview](https://www.fec.gov/data/candidate/S0CO00211/) (Tier 1)
-- [OpenSecrets: Sen. Michael Bennet Campaign Finance Summary](https://www.fec.gov/data/candidate/P00011833/) (Tier 1)
+- [FEC Candidate: Sen. Michael Bennet Campaign Finance Summary](https://www.fec.gov/data/candidate/P00011833/) (Tier 1)
 - [Network for Public Education Action: Denver Hijacked by Billionaires](https://npeaction.org/wp-content/uploads/2018/09/Denver-Hijacked-by-Billionaires.pdf) (Tier 2)
 - [Gates Family Foundation: Bennet and Boasberg: Reflections and Predictions for Denver Public Schools](https://gatesfamilyfoundation.org/bennet-and-boasberg-reflections-and-predictions-for-denver-public-schools/) (Tier 3)
 - [Colorado Times Recorder: Outside Money, Inside Influence: The Network Shaping Denver's School Board Race](https://coloradotimesrecorder.com/2025/10/outside-money-inside-influence-the-network-shaping-denvers-school-board-race/73398/) (Tier 2)
-- [OpenSecrets: Sen. Michael F. Bennet Industries (2022 cycle)](https://www.fec.gov/data/candidate/P00011833/) (Tier 1)
+- [FEC Candidate: Sen. Michael F. Bennet Industries (2022 cycle)](https://www.fec.gov/data/candidate/P00011833/) (Tier 1)
 
 profile-status:: ready
 content-readiness:: ready

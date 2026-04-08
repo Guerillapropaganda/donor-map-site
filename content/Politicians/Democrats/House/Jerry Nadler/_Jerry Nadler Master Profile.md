@@ -125,9 +125,9 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 
 ### Sources
 
-- [OpenSecrets: Jerrold Nadler campaign finance summary](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1)
+- [FEC Candidate: Jerrold Nadler campaign finance summary](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1)
 - [OpenSecrets: Nadler career top contributors](https://www.opensecrets.org/members-of-congress/contributors?cid=N00000939&cycle=CAREER) (Tier 1)
-- [OpenSecrets: Nadler industry contributions 2022](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1)
+- [FEC Candidate: Nadler industry contributions 2022](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1)
 - [FEC: Jerrold Nadler candidate overview](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1)
 - [GovTrack: Jerrold Nadler](https://www.govtrack.us/congress/members/jerrold_nadler/400289) (Tier 1)
 - [Congress.gov: Jerrold Nadler](https://www.congress.gov/member/jerrold-nadler/N000002) (Tier 1)

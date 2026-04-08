@@ -98,7 +98,7 @@ This is predatory lending targeting the poor. The regulatory capture ensures it 
 
 ### Sources
 
-- [OpenSecrets: Payday Lending Industry Donations](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Payday Lending Industry Donations](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [ProPublica: CFPB Payday Lending Enforcement Rollback](https://www.propublica.org/article/consumer-financial-protection-bureau-drops-investigation-of-high-cost-lender) (Tier 2)
 - [OpenSecrets: Members of Congress overseeing payday lending have taken over $3.4 million from the industry](https://www.opensecrets.org/news/2022/02/members-of-congress-overseeing-payday-lending-have-taken-over-3-4-million-from-the-industry/) (Tier 1)
 - [CFPB Public Database: Payday Lending Enforcement Actions](https://www.consumerfinance.gov/data/) (Tier 1)

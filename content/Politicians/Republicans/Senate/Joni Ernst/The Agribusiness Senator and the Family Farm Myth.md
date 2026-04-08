@@ -179,7 +179,7 @@ Retirement before the 2026 cycle avoided forcing a defense of the contradiction 
 
 ### Sources
 
-- [OpenSecrets: Sen. Joni Ernst campaign finance summary](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1)
+- [FEC Candidate: Sen. Joni Ernst campaign finance summary](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1)
 - [The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/) (Tier 2)
 - [Think Progress: Iowa Senate Nominee Says The Koch Network 'Started My Trajectory'](https://thinkprogress.org/iowa-senate-nominee-says-the-koch-network-started-my-trajectory-56712b88d7e/) (Tier 2)
 - [USDA NASS: Iowa Farm Statistics 2020](https://www.nass.usda.gov/Statistics_by_State/Iowa/Publications/index.php) (Tier 1)

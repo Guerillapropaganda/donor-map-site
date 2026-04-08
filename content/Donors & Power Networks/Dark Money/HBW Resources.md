@@ -32,7 +32,7 @@ HBW's business model is the K Street front-group factory at its most efficient: 
 
 The firm's Denver office is led by Andrew Browning, who is simultaneously a managing partner of HBW Resources, an executive of Consumer Energy Alliance, and president of Western States and Tribal Nations. One person, three job titles, three organizations — all serving the same upstream oil and gas clients.
 
-- [OpenSecrets: HBW Resources lobbying firm profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: HBW Resources lobbying firm profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [DeSmog: Consumer Energy Alliance (CEA)](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2)
 - [SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/HBW_Resources) (Tier 3)
 
@@ -125,9 +125,9 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 
 ### Sources
 
-- [OpenSecrets: HBW Resources lobbying firm profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: HBW Resources lobbying firm profile](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: HBW Resources org summary — contributions 2024](https://www.opensecrets.org/orgs/hbw-resources/summary?id=D000073431) (Tier 1)
-- [OpenSecrets: HBW Resources lobbyists 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: HBW Resources lobbyists 2024](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 - [DeSmog: Consumer Energy Alliance (CEA)](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2)
 - [Energy and Policy Institute: Consumer Energy Alliance investigative archive](https://energyandpolicy.org/category/front-groups/consumer-energy-alliance/) (Tier 2)
 - [Facing South: Drive to Drill — Energy Lobbyists Behind Governors' Crusade for Atlantic Oil (2015)](https://www.facingsouth.org/2015/04/drive-to-drill-energy-lobbyists-behind-governors-c) (Tier 2)

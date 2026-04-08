@@ -93,7 +93,7 @@ Among all Senate candidates running in 2020, Graham received the largest percent
 ### Sources
 
 - [FEC.gov: Lindsey Graham - Candidate Overview](https://www.fec.gov/data/candidate/S0SC00149/) (Tier 1)
-- [OpenSecrets: Sen. Lindsey Graham - Campaign Finance Summary](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
+- [FEC Candidate: Sen. Lindsey Graham - Campaign Finance Summary](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
 - [OpenSecrets News: Lindsey Graham gets more money from donors lacking disclosure than anyone else](https://www.opensecrets.org/news/2020/11/lindsey-graham-gets-more-from-lacking-disclosure-than-anyone) (Tier 2)
 - [CNN Politics: Former Lindsey Graham donor backs his Democratic challenger after questioning Graham's principles](https://www.cnn.com/2020/05/12/politics/lindsey-graham-donor-support-challenger/index.html) (Tier 2)
 - [The Hill: Former Lindsey Graham donor says support stopped when he didn't defend McCain from Trump](https://thehill.com/homenews/senate/497332-former-lindsey-graham-donor-says-support-stopped-when-he-didnt-defend-mccain/) (Tier 2)

@@ -75,7 +75,7 @@ Pappas' fundraising advantage ($14.2M for House career) is disproportionately bu
 - [Chris Pappas voting record on healthcare and opioid legislation | ProPublica Congress](https://projects.propublica.org/congress/members/P000614-chris-pappas) (Tier 1)
 - [Scott Brown political action committee activity | FEC](https://www.fec.gov/data/candidate/S6NH00166/) (Tier 1)
 - [John Sununu state campaign finances | New Hampshire Secretary of State](https://sos.nh.gov/elections-division/candidates-committees/campaign-finance-disclosure) (Tier 1)
-- [OpenSecrets: Pharmaceutical industry political spending — New Hampshire](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Pharmaceutical industry political spending — New Hampshire](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Pfizer opioid settlement and ongoing litigation | DOJ Settlement Tracker](https://www.justice.gov/civil/opioid-litigation-settlements) (Tier 1)
 - [Portsmouth Naval Shipyard defense contracts and political spending | Center for Responsive Politics](https://www.opensecrets.org/orgs/general-dynamics/summary) (Tier 1)
 - [General Dynamics 2026 campaign contributions tracking | OpenSecrets](https://www.opensecrets.org/orgs/general-dynamics/recipients?cycle=2026) (Tier 1)

@@ -75,7 +75,7 @@ Graham's 2020 victory over Jaime Harrison by only 3.4 points (in a state Trump w
 - [Lockheed Martin contributions to Graham | OpenSecrets Recipient Search](https://www.opensecrets.org/orgs/lockheed-martin-corp/recipients?cand=G000359) (Tier 1)
 - [Raytheon Technologies political contributions to Graham | OpenSecrets](https://www.opensecrets.org/orgs/raytheon-technologies-corp/recipients?cand=G000359) (Tier 1)
 - [Boeing Defense political spending on Graham | OpenSecrets](https://www.opensecrets.org/orgs/boeing-co/recipients?cand=G000359) (Tier 1)
-- [OpenSecrets: Lindsey Graham top industries and defense sector donors](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
+- [FEC Candidate: Lindsey Graham top industries and defense sector donors](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
 - [Graham's voting record on military spending | ProPublica Congress](https://projects.propublica.org/congress/members/S001184-lindsey-graham) *(source unavailable)* (Tier 1)
 - [Graham Senate Armed Services Committee votes analysis | Center for Responsive Politics](https://www.opensecrets.org/members-of-congress/summary?cid=N00009975) (Tier 1)
 - [Annie Andrews 2026 campaign launch and funding | South Carolina Democratic Party](https://www.scdemocrats.org/annie-andrews-2026) *(source unavailable)* (Tier 3)

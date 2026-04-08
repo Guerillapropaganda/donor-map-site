@@ -64,7 +64,7 @@ Hawley's "no corporate PAC" pledge contains a critical loophole: he refuses dire
 
 ### Sources
 
-- [OpenSecrets: Sen. Josh Hawley - Campaign Finance Summary](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1)
+- [FEC Candidate: Sen. Josh Hawley - Campaign Finance Summary](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1)
 - [Missouri Independent: Hawley, Kunce draw heavily on donors outside Missouri to fuel U.S. Senate campaigns](https://missouriindependent.com/2023/10/23/hawley-kunce-draw-heavily-on-donors-outside-missouri-to-fuel-u-s-senate-campaigns/) (Tier 2)
 - [The Hill: Be skeptical of Hawley's 'opposition' to Citizens United](https://thehill.com/opinion/judiciary/4296407-be-skeptical-of-hawleys-opposition-to-citizens-united/) (Tier 2)
 - [CNN: Analysis: Josh Hawley makes a point about corporate money in politics. Would his bill make a difference?](https://www.cnn.com/2023/11/02/politics/josh-hawley-money-politics-what-matters/index.html) (Tier 2)

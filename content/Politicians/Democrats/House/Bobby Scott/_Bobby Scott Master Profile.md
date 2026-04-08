@@ -141,9 +141,9 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 
 ### Sources
 
-- [OpenSecrets: Bobby Scott donor profile](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
-- [OpenSecrets: Bobby Scott industry donors](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
-- [OpenSecrets: Bobby Scott contributors](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
+- [FEC Candidate: Bobby Scott donor profile](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
+- [FEC Candidate: Bobby Scott industry donors](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
+- [FEC Candidate: Bobby Scott contributors](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
 - [Congress.gov: Every Student Succeeds Act](https://www.congress.gov/bill/114th-congress/senate-bill/1177) (Tier 1)
 - [Congress.gov: Raise the Wage Act](https://www.congress.gov/bill/118th-congress/house-bill/4889) (Tier 1)
 - [Congress.gov: PRO Act](https://www.congress.gov/bill/117th-congress/house-bill/842) (Tier 1)

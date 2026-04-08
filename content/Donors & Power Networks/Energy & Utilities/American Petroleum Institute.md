@@ -528,7 +528,7 @@ From OpenSecrets' 2021 API lobbyist roster: **51 total lobbyists; 40 (78.43%) ha
 
 While not API official, exemplifies revolving door. Cooney was Chief of Staff, White House Council on Environmental Quality under President George W. Bush. Forced to resign 2005 after revealed tampering with government climate assessments—editing reports to downplay scientific evidence of global warming. After White House, hired as lobbyist for [[ExxonMobil]] (API's largest member company).
 
-Sources: [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2) | [OpenSecrets: API Lobbyist Roster (2021)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+Sources: [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2) | [Senate LDA Filings: API Lobbyist Roster (2021)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 
 ### Donation-to-Policy Timeline
 
@@ -583,10 +583,10 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 
 ### Sources
 
-- [OpenSecrets: API Federal Lobbying Disclosure (D000031493)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: API PAC Committee Filings (C00483677)](https://www.fec.gov/data/committee/C00483677/) (Tier 1)
+- [Senate LDA Filings: API Federal Lobbying Disclosure (D000031493)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
+- [FEC Committee: API PAC Committee Filings (C00483677)](https://www.fec.gov/data/committee/C00483677/) (Tier 1)
 - [OpenSecrets: API Political Contributions and Outside Spending](https://www.opensecrets.org/orgs/american-petroleum-institute/summary?id=D000031493) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: API Lobbyist Roster (2021–2024)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
+- [Senate LDA Filings: API Lobbyist Roster (2021–2024)](https://lda.senate.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
 - [ProPublica Nonprofit Explorer: API Form 990 Filings (2020–2024)](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
 - [FEC: American Petroleum Institute PAC and Super PAC Contributions](https://www.fec.gov/data/committee/C00483677/) (Tier 1)
 - [ExxonMobil Corporate Disclosure: Trade Association Expenditures](https://corporate.exxonmobil.com/who-we-are/policy/exxonmobil-advocacy-report/direct-lobbying-activities-expenditures/trade-associations-think-tanks-and-coalitions) (Tier 1)

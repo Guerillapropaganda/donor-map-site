@@ -140,7 +140,7 @@ On campaign finance reform, he leads with the structural argument — corporatio
 
 ### Sources
 
-- [OpenSecrets: Jamie Raskin donor profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1)
+- [FEC Candidate: Jamie Raskin donor profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1)
 - [FEC: Jamie Raskin candidate profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1)
 - [ProPublica FEC Itemizer: Jamie Raskin PAC donations](https://projects.propublica.org/itemizer/committee/C00575126/2024/pac-donations) (Tier 1)
 - [Congress.gov: Jamie Raskin member profile](https://www.congress.gov/member/jamie-raskin/R000606) (Tier 1)

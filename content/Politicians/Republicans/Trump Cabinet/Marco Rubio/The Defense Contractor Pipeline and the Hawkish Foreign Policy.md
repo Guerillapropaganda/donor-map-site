@@ -81,7 +81,7 @@ Every policy position as Secretary of State was prefigured by his Senate donor r
 
 ### Sources
 
-- [OpenSecrets: Marco Rubio donor industries — career](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
+- [FEC Candidate: Marco Rubio donor industries — career](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
 - [The Intercept: Rubio donor dollars and policy deviations](https://theintercept.com/2016/01/31/rubio-donor-dollars/) (Tier 2)
 - [Foreign Policy: Under Trump and Rubio, U.S. might intervene more in Latin America](https://foreignpolicy.com/2024/11/13/trump-rubio-secretary-state-latin-america-cuba-venezuela/) (Tier 2)
 - [Al Jazeera: Marco Rubio — traditionalist hawk in the age of Trump](https://www.aljazeera.com/features/2025/2/20/marco-rubio-a-traditionalist-hawk-in-the-age-of-trump) (Tier 2)

@@ -130,7 +130,7 @@ This is the Veterans' Affairs Committee's structural trap: the chair needs Trump
 
 ### Sources
 
-- [OpenSecrets: Mike Bost donor profile](https://www.congress.gov/search?q=Mike%20Bost&searchResultViewType=expanded) (Tier 1)
+- [Congress.gov: Mike Bost donor profile](https://www.congress.gov/search?q=Mike%20Bost&searchResultViewType=expanded) (Tier 1)
 - [Congress.gov: Mike Bost](https://www.congress.gov/member/mike-bost/B001295) (Tier 1)
 - [House Veterans' Affairs Committee: Chairman Bost](https://veterans.house.gov/about/chairman.htm) (Tier 1)
 - [Bost.house.gov: Biography](https://bost.house.gov/biography) (Tier 1)

@@ -211,9 +211,9 @@ This is the corporate-democrat template: use moral authority language ("everyone
 
 ### Sources
 
-- [OpenSecrets: Raphael Warnock Campaign Finance Summary](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
+- [FEC Candidate: Raphael Warnock Campaign Finance Summary](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
 - [FEC: Raphael Warnock Candidate Profile](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
-- [OpenSecrets: Warnock 2022 Industries](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
+- [FEC Candidate: Warnock 2022 Industries](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
 - [Newsweek: Raphael Warnock's Campaign Cash Is Coming From Everywhere But Georgia](https://www.newsweek.com/raphael-warnocks-campaign-cash-coming-everywhere-georgia-1752452) (Tier 2)
 - [Yahoo: Sen. Raphael Warnock Gets 73% More Campaign Contributions From California Donors Than Georgia](https://www.yahoo.com/entertainment/sen-raphael-warnock-gets-73-225439165.html) (Tier 2)
 - [Washington Post: Ebenezer Baptist: MLK's church central to Raphael Warnock's Senate victory in Georgia](https://www.washingtonpost.com/history/2021/01/03/ebenezer-baptist-king-mlk-warnock/) (Tier 2)

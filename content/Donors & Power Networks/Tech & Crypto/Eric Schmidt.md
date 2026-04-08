@@ -85,7 +85,7 @@ Schmidt is the class function personified: take a government advisory position, 
 
 During 2021-2022 cycle, Schmidt wired $227,000 in in-kind contributions to STAC Labs — a tech startup he bankrolled through a nonprofit — which provided voter data analysis services to 18 state Democratic parties. This disguises direct donations as "tech infrastructure support."
 
-- [OpenSecrets: Eric Schmidt Donor Lookup 2020](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1) (UNVERIFIED)
+- [FEC Receipts: Eric Schmidt Donor Lookup 2020](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1) (UNVERIFIED)
 - [FEC Individual Contribution Records — Eric Schmidt](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Eric+Schmidt) (Tier 1)
 - [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2)
 
@@ -224,7 +224,7 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 - [Project Censored: AI Warlord Eric Schmidt](https://www.projectcensored.org/ai-warlord-eric-schmidt-money-media-maim/) (Tier 2) (UNVERIFIED)
 
 ### FEC Donation Data (UNVERIFIED):
-- [OpenSecrets: Eric Schmidt 2020 donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1) (UNVERIFIED)
+- [FEC Receipts: Eric Schmidt 2020 donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1) (UNVERIFIED)
 
 ### Revolving Door / Regulatory Capture — Tier 2:
 - [Public Citizen: 75% of FTC Officials Have Revolving Door Conflicts](https://www.citizen.org/news/a-whopping-75-of-ftc-officials-have-revolving-door-conflicts-with-tech-corporations-and-other-industries/) (Tier 2)

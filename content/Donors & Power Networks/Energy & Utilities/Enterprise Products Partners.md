@@ -117,7 +117,7 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 - [Simply Wall St: EPD 2026 FCF guidance](https://simplywall.st/stocks/us/energy/nyse-epd/enterprise-products-partners/news/record-ebitda-and-robust-2026-fcf-guidance-might-change-the) (Tier 3)
 - [OpenSecrets: Enterprise Products Partners contributions](https://www.opensecrets.org/orgs/enterprise-products-partners/summary?id=D000033463) (Tier 1)
 - [OpenSecrets: Enterprise Products PAC](https://www.opensecrets.org/political-action-committees-pacs/enterprise-products-partners/C00496752/summary/2024) (Tier 1)
-- [OpenSecrets: Enterprise Products lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Enterprise Products lobbying](https://lda.senate.gov/filings/public/filing/search/) (Tier 1)
 
 ---
 

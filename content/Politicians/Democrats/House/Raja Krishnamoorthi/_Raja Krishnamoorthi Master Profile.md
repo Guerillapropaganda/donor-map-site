@@ -122,8 +122,8 @@ The Stratton victory showed that institutional Democratic support (governor's ba
 
 ### Sources
 
-- [OpenSecrets: Raja Krishnamoorthi donor profile](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
-- [OpenSecrets: Krishnamoorthi industry donors 2024](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
+- [FEC Candidate: Raja Krishnamoorthi donor profile](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
+- [FEC Candidate: Krishnamoorthi industry donors 2024](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
 - [FEC: Krishnamoorthi campaign finance](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
 - [Chicago Sun-Times: Krishnamoorthi rails against Trump but takes money from MAGA donors](https://chicago.suntimes.com/the-watchdogs/2025/12/08/raja-krishnamoorthi-senate-campaign-donors-trump-allies-maga-money) (Tier 2)
 - [Chicago Tribune: Krishnamoorthi raises millions for Senate bid as fundraising draws scrutiny](https://www.chicagotribune.com/2026/03/10/raja-krishnamoorthi-fundraising-illinois-senate/) (Tier 2)

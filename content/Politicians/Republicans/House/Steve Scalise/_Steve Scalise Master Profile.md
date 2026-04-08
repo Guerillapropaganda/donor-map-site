@@ -124,8 +124,8 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 
 ### Sources
 
-- [OpenSecrets: Steve Scalise campaign finance summary](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1)
-- [OpenSecrets: Steve Scalise industry contributions 2020](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1)
+- [FEC Candidate: Steve Scalise campaign finance summary](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1)
+- [FEC Candidate: Steve Scalise industry contributions 2020](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1)
 - [OpenSecrets: Team Scalise top donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/team-scalise/C00750521/2024/donors) (Tier 1)
 - [GovTrack: Steve Scalise](https://www.govtrack.us/congress/members/steve_scalise/412261) (Tier 1)
 - [Congress.gov: Steve Scalise](https://www.congress.gov/member/steve-scalise/S001176) (Tier 1)

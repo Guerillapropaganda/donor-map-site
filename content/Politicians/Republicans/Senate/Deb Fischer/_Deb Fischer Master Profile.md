@@ -149,7 +149,7 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 ### Sources
 
 - [OpenSecrets: Deb Fischer donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00033443) (Tier 1)
-- [OpenSecrets: Deb Fischer industry donors](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1)
+- [FEC Candidate: Deb Fischer industry donors](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1)
 - [OpenSecrets: Deb Fischer personal finances](https://www.opensecrets.org/personal-finances/deb-fischer/net-worth?cid=N00033443) (Tier 1)
 - [Senate.gov: Fischer biography](https://www.fischer.senate.gov/public/index.cfm/biography) (Tier 1)
 - [Senate.gov: Fischer Strategic Forces Subcommittee appointments](https://www.fischer.senate.gov/public/index.cfm/2025/1/fischer-announces-appointment-to-key-senate-armed-services-subcommittees) (Tier 1)

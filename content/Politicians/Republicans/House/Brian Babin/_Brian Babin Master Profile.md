@@ -137,7 +137,7 @@ The donor-class interest is structural: Babin's district IS the fossil fuel refi
 ### Sources
 
 - [OpenSecrets: Brian Babin donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00005736) (Tier 1)
-- [OpenSecrets: Brian Babin industry donors](https://www.fec.gov/data/candidate/H6TX02079/) (Tier 1)
+- [FEC Candidate: Brian Babin industry donors](https://www.fec.gov/data/candidate/H6TX02079/) (Tier 1)
 - [Congress.gov: Brian Babin](https://www.congress.gov/member/brian-babin/B001291) (Tier 1)
 - [House Science Committee: Chairman Brian Babin](https://science.house.gov/chairman-brian-babin) (Tier 1)
 - [House Science Committee: Babin applauds repeal of 2009 Endangerment Finding](https://science.house.gov/press-releases?id=C2495D60-D3EC-4C52-ABD2-427B14F8E061) (Tier 1)

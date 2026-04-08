@@ -136,8 +136,8 @@ The T&I Committee jurisdiction-to-donor overlap is near-total. Aviation donors â
 
 ### Sources
 
-- [OpenSecrets: Sam Graves donor profile](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1)
-- [OpenSecrets: Sam Graves industry donors](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1)
+- [FEC Candidate: Sam Graves donor profile](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1)
+- [FEC Candidate: Sam Graves industry donors](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1)
 - [OpenSecrets: Sam Graves net worth](https://www.opensecrets.org/personal-finances/sam-graves/net-worth?cid=N00013323) (Tier 1)
 - [Congress.gov: Sam Graves](https://www.congress.gov/member/sam-graves/G000546) (Tier 1)
 - [House Transportation Committee: Chairman Sam Graves](https://transportation.house.gov/about/ranking-member-sam-graves/) (Tier 1)
