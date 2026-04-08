@@ -2,7 +2,7 @@
 title: "Marc Andreessen & Horowitz"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -14,6 +14,7 @@ politicians-funded:
   - "David Sacks"
 issues:
   - "Technology"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]]"
 ---
 
 

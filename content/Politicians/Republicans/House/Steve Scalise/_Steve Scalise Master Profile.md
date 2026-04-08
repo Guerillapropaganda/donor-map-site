@@ -2,7 +2,7 @@
 title: "Steve Scalise"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,6 +14,8 @@ issues:
   - "Energy & Climate"
 total-received: "$7,843,280"
 fec-candidate-id: "H0LA01087"
+donors: "[[American Gaming Association]] · [[Valero Energy]]"
+related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
 ---
 
 #politician #republican #house #louisiana #energy #fossil-fuel #climate #leadership #class-analysis #follow-the-money #gavel-power

@@ -2,11 +2,12 @@
 title: "SV&B PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
+related: "[[Sports Gambling Industry State Capture]]"
 ---
 
 #sports-betting #pac #gambling-industry #tax-opposition #state-regulation

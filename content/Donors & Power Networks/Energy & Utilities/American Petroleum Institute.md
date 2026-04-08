@@ -2,7 +2,7 @@
 title: "American Petroleum Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -21,6 +21,7 @@ ofac-programs:
 nonprofit-status: "501(c)(6)"
 total-revenue: 268010806
 total-assets: 109879063
+related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]]"
 ---
 
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money

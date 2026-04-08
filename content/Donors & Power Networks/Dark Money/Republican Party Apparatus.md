@@ -2,7 +2,7 @@
 title: "Republican Party Apparatus"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Infrastructure"
+related: "[[American Petroleum Institute]] · [[North Carolina 2026 Senate Race]]"
 ---
 
 #rnc #republican #party-apparatus #maga #infrastructure #fundraising

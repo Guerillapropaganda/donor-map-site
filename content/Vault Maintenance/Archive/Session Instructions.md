@@ -2,9 +2,10 @@
 title: "Session Instructions"
 type: reference
 content-readiness: draft
-last-updated: 2026-03-22
+last-updated: 2026-04-08
 source-tier: null
 parent: null
+related: "[[Analytical Quality Audit - March 2026]]"
 ---
 
 tags: #analysis #story

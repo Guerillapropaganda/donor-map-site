@@ -2,7 +2,7 @@
 title: "Wall Street Finance Networks"
 type: donor
 content-readiness: developed
-last-updated: 2026-04-04
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,6 +11,7 @@ issues:
   - "Wall Street & Finance"
   - "Dark Money & Campaign Finance"
   - "Regulatory Capture"
+related: "[[Cory Booker]]"
 ---
 
 #wall-street #finance #networks #bundling #revolving-door #regulatory-capture #too-big-to-fail #class-analysis #both-sides

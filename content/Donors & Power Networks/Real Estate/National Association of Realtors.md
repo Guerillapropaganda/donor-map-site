@@ -2,7 +2,7 @@
 title: "National Association of Realtors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -55,6 +55,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "National Labor Relations Board"
+related: "[[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]]"
 ---
 
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door

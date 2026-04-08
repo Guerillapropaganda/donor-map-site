@@ -2,7 +2,7 @@
 title: "Ross Stevens"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -43,6 +43,7 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
   - "TEXT-EXTRACT"
+related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Ohio 2026 Governor Race - The Structural Landscape]]"
 ---
 
 #ross-stevens #stone-ridge #crypto #bitcoin #nydig #mega-donor #wall-street #club-for-growth #ramaswamy #pro-israel

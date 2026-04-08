@@ -2,12 +2,12 @@
 title: "Aaron Maté"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[Katie Halper]] (Useful Idiots co-host)"
+related: "[[Katie Halper]] (Useful Idiots co-host) · [[The Grayzone]] · [[Owen Jones]]"
 ---
 
 #media-pipeline #left #grayzone #russiagate #syria-coverage #funding-questions

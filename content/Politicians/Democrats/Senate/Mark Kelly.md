@@ -21,6 +21,8 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+donors: "[[Ken Griffin]]"
+related: "[[Lockheed Martin Buys Defense Hawks in Both Parties]]"
 ---
 
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control

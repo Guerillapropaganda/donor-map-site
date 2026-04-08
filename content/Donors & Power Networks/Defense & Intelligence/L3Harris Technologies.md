@@ -2,7 +2,7 @@
 title: "L3Harris Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -57,6 +57,7 @@ subawards-received: 50
 subawards-received-amount: 9882497978
 top-federal-agency: "Department of Transportation"
 top-naics-code: "336413"
+related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]]"
 ---
 
 

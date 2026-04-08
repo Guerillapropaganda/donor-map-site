@@ -2,7 +2,7 @@
 title: "Save America PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -14,6 +14,7 @@ issues:
 ein: "933113620"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
+related: "[[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Paul Singer"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 aliases: ["Paul Singer", "Elliott Management"]
 source-tier: 1
 parent: null
@@ -34,6 +34,7 @@ court-jurisdictions:
 lobbying-spend: 1268033
 lobbying-filings: 104
 total-political-spend: "$16,466,849"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]]"
 ---
 
 

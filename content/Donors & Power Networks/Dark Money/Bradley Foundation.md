@@ -2,7 +2,7 @@
 title: "Bradley Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -35,6 +35,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
 ---
 
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure

@@ -2,7 +2,7 @@
 title: "Timothy Mellon"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -15,6 +15,7 @@ issues:
   - "Immigration"
 lobbying-spend: 1860000
 lobbying-filings: 51
+related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]]"
 ---
 
 

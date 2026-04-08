@@ -2,12 +2,12 @@
 title: "Lee Camp"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27 (run 14)
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[Abby Martin]] · [[Chris Hedges]] · [[Jimmy Dore]]"
+related: "[[Abby Martin]] · [[Chris Hedges]] · [[Jimmy Dore]] · [[George Galloway]]"
 ---
 
 #media-pipeline #left #anti-war #RT-america #russian-state-media #socialist #dark-money #independence-theater

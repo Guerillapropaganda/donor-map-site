@@ -2,7 +2,7 @@
 title: "Bipartisan Policy Center"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
@@ -20,7 +20,7 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Homeland Security Department"
   - "Labor Department"
-related: "[[Goldman Sachs]]"
+related: "[[Goldman Sachs]] · [[Lennar Corporation]]"
 ein: "731628382"
 nonprofit-status: "501(c)(3)"
 total-revenue: 38011931

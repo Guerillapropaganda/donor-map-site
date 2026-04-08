@@ -2,12 +2,12 @@
 title: "Chapo Trap House"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[Democratic Socialists of America]] · [[Pod Save America]]"
+related: "[[Democratic Socialists of America]] · [[Pod Save America]] · [[Red Scare]]"
 ---
 
 #media-pipeline #left #socialist #dirtbag-left #patreon #DSA #audience-funded

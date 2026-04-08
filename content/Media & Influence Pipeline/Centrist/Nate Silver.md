@@ -2,12 +2,12 @@
 title: "Nate Silver"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Ezra Klein]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]]"
+related: "[[Ezra Klein]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Matt Walsh]]"
 donors: "[[Peter Thiel]]"
 ---
 

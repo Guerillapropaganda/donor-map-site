@@ -2,7 +2,7 @@
 title: "National Republican Senatorial Committee"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -25,6 +25,7 @@ court-jurisdictions:
   - "District Court, D. Utah"
   - "District Court, District of Columbia"
   - "District Court, W.D. Michigan"
+related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]]"
 ---
 
 #nrsc #senate #republican #campaign #fundraising #party-committee #class-analysis #follow-the-money

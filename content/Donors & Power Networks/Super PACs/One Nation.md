@@ -35,6 +35,7 @@ court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Arizona"
   - "District Court, D. Idaho"
+related: "[[Janet Mills Master Profile]]"
 ---
 
 #one-nation #mcconnell #dark-money #501c4 #senate-races #donor-secrecy

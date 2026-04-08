@@ -20,7 +20,7 @@ fara-countries:
   - "JAPAN"
 lei: "984500BYEBE6DF7F5U39"
 lei-jurisdiction: "GB"
-related: "[[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]]"
+related: "[[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]] · [[Ballard Partners]]"
 sec-filings: 10000
 sec-form-types:
   - "8-K"

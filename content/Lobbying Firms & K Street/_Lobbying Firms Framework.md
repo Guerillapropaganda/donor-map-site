@@ -2,10 +2,10 @@
 title: "Lobbying Firms & K Street Framework"
 type: methodology
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-08
 source-tier: null
 parent: null
-related: "[[_Think Tank Framework]] · [[_Media Pipeline Framework]] · [[Research Methodology and Data Sources]] · [[_VAULT_INDEX]]"
+related: "[[_Think Tank Framework]] · [[_Media Pipeline Framework]] · [[Research Methodology and Data Sources]] · [[_VAULT_INDEX]] · [[Think Tank & Policy Infrastructure Framework]] · [[Media & Influence Pipeline Framework]]"
 ---
 
 #lobbying #k-street #methodology #framework #class-analysis

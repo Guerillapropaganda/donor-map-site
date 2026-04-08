@@ -2,7 +2,7 @@
 title: "American Enterprise Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: conservative
@@ -25,7 +25,7 @@ regulatory-agencies:
   - "Federal Deposit Insurance Corporation"
   - "Federal Housing Finance Agency"
   - "Federal Reserve System"
-related: "[[Charles Koch]] · [[Harlan Crow]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Carlyle Group]] · [[Federalist Society]]"
+related: "[[Charles Koch]] · [[Harlan Crow]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Carlyle Group]] · [[Federalist Society]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]]"
 ---
 
 #think-tank #conservative #neoconservative #defense-policy #climate-denial #revolving-door #dark-money #deregulation #tax-policy

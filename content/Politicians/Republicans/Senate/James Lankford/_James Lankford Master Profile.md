@@ -2,7 +2,7 @@
 title: "James Lankford"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,7 @@ issues:
   - "Immigration"
 total-received: "$1,589,488"
 fec-candidate-id: "S4OK00232"
+donors: "[[Devon Energy]]"
 ---
 
 

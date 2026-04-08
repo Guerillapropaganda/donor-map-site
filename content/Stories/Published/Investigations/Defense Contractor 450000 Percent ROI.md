@@ -2,9 +2,10 @@
 title: "Defense Contractor 450000 Percent ROI"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
+related: "[[The Defense Spending Bipartisan Consensus]] · [[Think Tank Capture - Foreign Governments Writing US Policy]]"
 ---
 
 #story #investigation #donor-pipeline #defense-industry-capture

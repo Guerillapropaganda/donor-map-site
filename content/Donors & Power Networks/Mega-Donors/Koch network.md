@@ -2,7 +2,7 @@
 title: "Koch network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -18,6 +18,7 @@ court-jurisdictions:
   - "District Court, S.D. California"
   - "District Court, S.D. New York"
   - "District Court, W.D. Washington"
+related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]]"
 ---
 
 #koch #network #dark-money #libertarian #deregulation #afp

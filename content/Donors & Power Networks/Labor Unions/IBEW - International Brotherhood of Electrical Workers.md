@@ -28,6 +28,7 @@ regulatory-agencies:
 ein: "611602482"
 nonprofit-status: "501(c)(5)"
 total-political-spend: "$4,861,275"
+related: "[[Bernie Sanders Master Profile]] · [[Glenn Thompson]]"
 ---
 
 

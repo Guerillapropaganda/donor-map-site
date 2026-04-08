@@ -2,9 +2,10 @@
 title: "The Iran War - Defense Donors and the DOGE Readiness Gap"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Donald Trump Master Profile]]
+related: "[[The Iran War Money Trail - From Adelson to Airstrikes]]"
 ---
 
 

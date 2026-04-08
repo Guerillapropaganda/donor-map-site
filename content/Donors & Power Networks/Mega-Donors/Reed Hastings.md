@@ -2,7 +2,7 @@
 title: "Reed Hastings"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -40,6 +40,7 @@ subawards-received-amount: 1009778941592127500
 federal-register-mentions: 2
 regulatory-agencies:
   - "Securities and Exchange Commission"
+related: "[[Silicon Valley Democratic Donor Network]]"
 ---
 
 #reed-hastings #netflix #charter-school #education-reform #mega-donor #democratic #Hastings Fund

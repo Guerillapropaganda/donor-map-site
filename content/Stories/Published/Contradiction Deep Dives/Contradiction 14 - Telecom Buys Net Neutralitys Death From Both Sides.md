@@ -2,9 +2,10 @@
 title: "Telecom Buys Net Neutrality's Death From Both Sides"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
+related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]]"
 ---
 
 #investigation #contradiction #telecom #net-neutrality #comcast #att #verizon #bipartisan-consensus #class-analysis #revolving-door

@@ -2,7 +2,7 @@
 title: "Anthem - Elevance Health Political Operation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -13,6 +13,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
+related: "[[Humana]] · [[The Insurance Industry Public Option Kill]]"
 ---
 
 #anthem #elevance #insurance #aca #medicaid #managed-care #lobbying

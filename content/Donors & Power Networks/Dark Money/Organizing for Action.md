@@ -33,6 +33,7 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
   - "District Court, W.D. Texas"
+related: "[[Barack Obama Master Profile]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]]"
 ---
 
 #ofa #organizing-for-action #obama #501c4 #dark-money #campaign-infrastructure

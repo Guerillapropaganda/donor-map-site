@@ -2,7 +2,7 @@
 title: "GEO Group - Private Prisons"
 type: corporation
 content-readiness: raw
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,6 +12,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 143756
 total-assets: 118562
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]]"
 ---
 
 #geo-group #redirect #private-prisons #carceral

@@ -2,14 +2,14 @@
 title: "New America"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
 lei: "549300C6JPZKHI5YDM10"
 lei-jurisdiction: "KY"
-related: "[[Goldman Sachs]]"
+related: "[[Goldman Sachs]] · [[Gates Foundation]]"
 ---
 
 #think-tank #liberal #tech-policy #google #silicon-valley #national-security #education #obama-pipeline #class-analysis

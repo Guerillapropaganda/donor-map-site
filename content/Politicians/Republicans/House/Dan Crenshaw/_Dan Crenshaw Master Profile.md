@@ -33,6 +33,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+related: "[[John Kennedy Master Profile]]"
 ---
 
 #crenshaw #texas #energy #defense #navy-seal #veteran #media #brand #aipac #stock-trading #primary-loss #class-analysis

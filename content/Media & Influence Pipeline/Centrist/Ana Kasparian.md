@@ -2,12 +2,12 @@
 title: "Ana Kasparian"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Jeffrey Katzenberg]]"
+related: "[[Jeffrey Katzenberg]] · [[TYT Network - The Young Turks]] · [[Cenk Uygur]]"
 ---
 
 #media-pipeline #centrist #youtube #tyt #audience-swap #realignment #valuetainment

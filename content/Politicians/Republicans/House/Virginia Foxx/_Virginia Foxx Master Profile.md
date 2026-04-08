@@ -2,7 +2,7 @@
 title: "Virginia Foxx"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -20,6 +20,8 @@ top-donors:
   - "American Federation for Children"
   - "Walton Family Foundation"
 bioguide-id: "A000383"
+donors: "[[Apollo Global Management]] · [[AIPAC - American Israel Public Affairs Committee]]"
+related: "[[The Education Committee and Labor Alignment]]"
 ---
 
 #virginia-foxx #republican #north-carolina #house #committee-chair #education #for-profit-colleges #labor #student-debt #phase-6-gavel-power

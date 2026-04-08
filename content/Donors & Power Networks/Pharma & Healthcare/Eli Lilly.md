@@ -2,7 +2,7 @@
 title: "Eli Lilly"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -38,6 +38,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]]"
 ---
 
 #donor-node #lilly #pharma #insulin #drug-pricing #indiana #diabetes #weight-loss #glp1 #lobbying #class-analysis #follow-the-money

@@ -2,7 +2,7 @@
 title: "Eric Schmidt"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -26,6 +26,7 @@ regulatory-agencies:
   - "Federal Communications Commission"
   - "Federal Deposit Insurance Corporation"
   - "National Security Commission on Artificial Intelligence"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]]"
 ---
 
 #donor-node #tech #google #defense #AI #revolving-door #mega-donor #nscai #schmidt-futures #china #dark-money #class-analysis #follow-the-money

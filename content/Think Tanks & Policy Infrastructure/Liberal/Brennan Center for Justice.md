@@ -2,12 +2,12 @@
 title: "Brennan Center for Justice"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[_Think Tank Framework]] · [[_Think Tank Index]]"
+related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Mercatus Center]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]]"
 ein: "133839293"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"

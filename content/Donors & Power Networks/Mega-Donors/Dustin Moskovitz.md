@@ -39,6 +39,7 @@ sec-form-types:
   - "SC 13G/A"
   - "SCHEDULE 13D/A"
   - "TEXT-EXTRACT"
+related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
 ---
 
 #donor #billionaire #democratic #tech #dark-money #effective-altruism

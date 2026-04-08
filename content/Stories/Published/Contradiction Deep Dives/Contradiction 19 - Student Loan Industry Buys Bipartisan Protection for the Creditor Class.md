@@ -2,9 +2,10 @@
 title: "Contradiction 19 — Student Loan Industry Buys Bipartisan Protection for the Creditor Class"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]]"
 ---
 
 #contradiction #student-loans #bankruptcy #CFPB #for-profit-colleges #class-analysis

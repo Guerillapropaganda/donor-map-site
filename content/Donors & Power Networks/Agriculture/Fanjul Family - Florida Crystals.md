@@ -2,7 +2,7 @@
 title: "Fanjul Family - Florida Crystals"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -15,6 +15,7 @@ issues:
   - "Israel & Foreign Policy"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+related: "[[Defense Industry Bloc]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "National Multifamily Housing Council"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -13,6 +13,7 @@ ein: 521127504
 annual-revenue: "$26.6M"
 net-assets: "$20.2M"
 tax-year: "2023"
+related: "[[Blackstone Real Estate]]"
 ---
 
 #donor #real-estate #housing #trade-association #multifamily #bipartisan #lobbying #class-analysis #follow-the-money

@@ -2,11 +2,12 @@
 title: "Fairshake Crypto PAC 2026 Election Intervention"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 issues:
   - "Technology"
+related: "[[Top 10 Most Expensive House Races 2026]]"
 ---
 
 #2026-election #crypto #super-pac #fairshake #donor-analysis

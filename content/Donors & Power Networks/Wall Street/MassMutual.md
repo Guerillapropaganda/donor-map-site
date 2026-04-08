@@ -16,6 +16,7 @@ top-naics-code: "522110"
 lei: "549300AWJCCLBT2W8T68"
 lei-jurisdiction: "US-MA"
 lei-parent: "MASSMUTUAL PREMIER FUNDS"
+related: "[[Richard Neal Master Profile]]"
 ---
 
 #insurance #financial-services #pac-donor #house-financial-services

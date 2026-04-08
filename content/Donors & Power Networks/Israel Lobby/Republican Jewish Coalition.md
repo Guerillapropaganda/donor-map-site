@@ -2,7 +2,7 @@
 title: "Republican Jewish Coalition"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
@@ -37,6 +37,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
+related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]]"
 ---
 
 #republican-jewish-coalition #RJC #israel-lobby #pro-israel #mega-donor #sheldon-adelson #miriam-adelson

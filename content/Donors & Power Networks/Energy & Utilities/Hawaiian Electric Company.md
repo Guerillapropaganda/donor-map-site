@@ -2,7 +2,7 @@
 title: "Hawaiian Electric Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -19,6 +19,7 @@ top-naics-code: "221122"
 lei: "549300PQE8D806LWQV52"
 lei-jurisdiction: "US-HI"
 lei-parent: "HAWAIIAN ELECTRIC INDUSTRIES, INC."
+related: "[[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Josh Green Master Profile]]"
 ---
 
 #hawaiian-electric #heco #hawaii #maui #wildfire #utility #energy #monopoly

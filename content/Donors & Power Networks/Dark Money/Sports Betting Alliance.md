@@ -2,7 +2,7 @@
 title: "Sports Betting Alliance"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -21,6 +21,7 @@ total-assets: 15423689
 sec-filings: 1
 sec-form-types:
   - "EX-99.1"
+related: "[[Sports Gambling Industry State Capture]]"
 ---
 
 #sports-betting #dark-money #draftkings-fanduel #gambling-expansion #lobbying

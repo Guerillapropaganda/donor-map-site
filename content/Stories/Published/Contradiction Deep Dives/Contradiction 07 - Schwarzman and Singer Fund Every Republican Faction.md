@@ -2,11 +2,12 @@
 title: "Schwarzman and Singer Fund Every Republican Faction"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 issues:
   - "Wall Street & Finance"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 
 #investigation #contradiction #schwarzman #singer #wall-street #republican #class-analysis

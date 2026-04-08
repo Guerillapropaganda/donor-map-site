@@ -47,6 +47,7 @@ ein: 951241045
 annual-revenue: "$5.4M"
 net-assets: "$20.8M"
 tax-year: "2023"
+related: "[[UFCW - United Food and Commercial Workers]]"
 ---
 
 

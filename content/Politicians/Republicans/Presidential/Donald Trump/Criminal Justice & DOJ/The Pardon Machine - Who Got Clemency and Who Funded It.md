@@ -2,9 +2,10 @@
 title: "The Pardon Machine - Who Got Clemency and Who Funded It"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-22
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
+related: "[[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]"
 ---
 
 

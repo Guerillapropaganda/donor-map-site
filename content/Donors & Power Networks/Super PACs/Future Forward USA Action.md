@@ -2,7 +2,7 @@
 title: "Future Forward USA Action"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: null
 parent: null
 sector: "Super PACs"
@@ -20,6 +20,7 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, N.D. Texas"
   - "United States Bankruptcy Court, S.D. Texas"
+related: "[[Senate Majority PAC]]"
 ---
 
 #donor-node #super-pac #democratic #dark-money #501c4

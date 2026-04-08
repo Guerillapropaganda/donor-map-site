@@ -2,12 +2,12 @@
 title: "James O'Keefe"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]]"
+related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Christopher Rufo]] · [[Charlie Kirk]]"
 ---
 
 #media-pipeline #right #guerilla-journalism #project-veritas #omg #donor-funded #dark-money #donorstrust #bradley-foundation

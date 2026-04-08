@@ -2,7 +2,7 @@
 title: "Chuck Grassley"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -20,6 +20,7 @@ bills-sponsored: 73
 bills-cosponsored: 202
 website: "https://www.grassley.senate.gov"
 phone: "202-224-3744"
+related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
 ---
 
 

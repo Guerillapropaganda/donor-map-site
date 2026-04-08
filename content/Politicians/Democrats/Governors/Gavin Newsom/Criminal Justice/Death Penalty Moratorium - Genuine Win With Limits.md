@@ -2,9 +2,10 @@
 title: "Death Penalty Moratorium - Genuine Win With Limits"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
+related: "[[San Quentin - COVID Disaster and Rehabilitation Theater]]"
 ---
 
 

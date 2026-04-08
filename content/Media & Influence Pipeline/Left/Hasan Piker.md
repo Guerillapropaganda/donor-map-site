@@ -2,12 +2,12 @@
 title: "Hasan Piker"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[Cenk Uygur|TYT / Cenk Uygur]] · [[Amazon|Amazon/Twitch]]"
+related: "[[Cenk Uygur|TYT / Cenk Uygur]] · [[Amazon|Amazon/Twitch]] · [[Sam Seder]] · [[Kyle Kulinski]]"
 ---
 
 #media-pipeline #left #twitch #amazon #platform-dependency #audience-capture #independence-theater #socialist-content

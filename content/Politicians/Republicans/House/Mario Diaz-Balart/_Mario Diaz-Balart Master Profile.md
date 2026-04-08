@@ -2,7 +2,7 @@
 title: "Mario Diaz-Balart"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-31
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,8 @@ issues:
 top-donors:
   - "Fanjul Family - Florida Crystals"
   - "AIPAC"
+donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]]"
+related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
 ---
 
 #politician #republican #house #florida #cuba #sugar #fanjul #appropriations #class-analysis #follow-the-money #aipac #israel #defense

@@ -2,7 +2,7 @@
 title: "Christopher Ruddy"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Media & Entertainment"
@@ -44,6 +44,7 @@ sec-form-types:
   - "SB-2"
   - "SB-2/A"
   - "SCHEDULE 13D"
+related: "[[Media and Propaganda - Donors and Backers]]"
 ---
 
 #newsmax #trump-media #right-wing-media #trump-confidant #media-proprietor

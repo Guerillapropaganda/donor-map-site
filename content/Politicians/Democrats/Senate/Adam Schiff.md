@@ -2,10 +2,12 @@
 title: "Adam Schiff"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 fec-candidate-id: "H0CA27085"
+donors: "[[AFL-CIO]]"
+related: "[[Barbara Lee]] · [[Laphonza Butler]]"
 ---
 
 #master-profile #democrat #senate #california #intelligence #hollywood #aipac #follow-the-money #class-analysis

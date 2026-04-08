@@ -2,9 +2,10 @@
 title: "CalRx - The Genuine Win With Caveats"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-22
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
+related: "[[Mental Health CARE Court and Forced Treatment]]"
 ---
 
 

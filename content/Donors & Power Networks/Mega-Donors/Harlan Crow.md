@@ -2,7 +2,7 @@
 title: "Harlan Crow"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -17,6 +17,7 @@ annual-revenue: "$109"
 net-assets: "$4K"
 tax-year: "2023"
 total-political-spend: "$969,948"
+related: "[[Twenty Years of Financial Disclosure Failures]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]]"
 ---
 
 

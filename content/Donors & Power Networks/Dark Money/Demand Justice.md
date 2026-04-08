@@ -19,6 +19,7 @@ total-assets: 1534141
 total-political-spend: "$20,000"
 lobbying-spend: 650000
 lobbying-filings: 45
+related: "[[New Venture Fund]] · [[Sheldon Whitehouse]]"
 ---
 
 #donor-node #dark-money #democrat #judicial-appointments #court-capture #class-analysis #donor

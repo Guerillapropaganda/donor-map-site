@@ -2,7 +2,7 @@
 title: "Private Equity Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -15,6 +15,7 @@ issues:
   - "Housing"
 lobbying-spend: 2239378
 lobbying-filings: 64
+related: "[[The Education Committee and For-Profit College Pipeline]]"
 ---
 
 #private-equity #wall-street #carried-interest #leveraged-buyout #extraction #healthcare #housing

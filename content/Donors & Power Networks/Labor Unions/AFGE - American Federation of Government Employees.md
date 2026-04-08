@@ -2,7 +2,7 @@
 title: "AFGE - American Federation of Government Employees"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -26,6 +26,7 @@ last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Homeland Security Department"
   - "Personnel Management Office"
+related: "[[Lisa Murkowski]]"
 ---
 
 #AFGE #labor-union #federal-employees #government-workers #DOGE #Trump-layoffs #union-resistance

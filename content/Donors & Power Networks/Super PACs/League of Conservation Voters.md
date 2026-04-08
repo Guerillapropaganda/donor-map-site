@@ -2,7 +2,7 @@
 title: "League of Conservation Voters"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -41,6 +41,7 @@ regulatory-agencies:
   - "Interior Department"
   - "National Park Service"
   - "Presidio Trust"
+related: "[[Sheldon Whitehouse]]"
 ---
 
 #donor #environment #climate #progressive #democratic #electoral #dark-money #501c4 #class-analysis #follow-the-money

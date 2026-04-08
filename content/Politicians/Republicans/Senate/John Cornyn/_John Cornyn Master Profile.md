@@ -2,7 +2,7 @@
 title: "John Cornyn"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -43,6 +43,8 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
+related: "[[Tim Scott]]"
+donors: "[[Harlan Crow]] · [[Insurance Industry]]"
 ---
 
 #master-profile #republican #texas #senate #judiciary #intelligence #oil-gas #defense #border #finance #gun-bill #nra #cornyn-cruz

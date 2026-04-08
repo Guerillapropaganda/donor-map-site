@@ -45,6 +45,7 @@ lei-jurisdiction: "US"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+related: "[[InfluenceMap]]"
 ---
 
 #donor #energy #natural-gas #pipeline #fossil-fuel #republican-lean #class-analysis #follow-the-money

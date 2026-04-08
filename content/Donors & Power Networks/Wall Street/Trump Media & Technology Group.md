@@ -2,7 +2,7 @@
 title: "Trump Media & Technology Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -14,6 +14,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "CAATSA - RUSSIA] [CYBER4"
+related: "[[Trishul LLC and the Trump Loyalty Economy]] · [[Rumble]]"
 ---
 
 #trump-media #truth-social #djt #stock #spac #media

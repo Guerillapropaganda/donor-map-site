@@ -2,9 +2,10 @@
 title: "Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
+related: "[[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]]"
 ---
 
 #contradiction-map #democratic-party #class-analysis #follow-the-money #intra-party

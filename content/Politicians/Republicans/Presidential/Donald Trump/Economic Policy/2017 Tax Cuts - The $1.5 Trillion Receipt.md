@@ -2,9 +2,10 @@
 title: "2017 Tax Cuts - The $1.5 Trillion Receipt"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
+related: "[[Project 2025 - The Blueprint They Followed]] · [[The One Big Beautiful Bill - Who Won and Who Paid]]"
 ---
 
 

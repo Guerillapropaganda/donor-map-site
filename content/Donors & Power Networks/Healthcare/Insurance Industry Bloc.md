@@ -2,7 +2,7 @@
 title: "Insurance Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -13,6 +13,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
 ofac-programs:
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
+related: "[[Insurance Industry]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]]"
 ---
 
 #insurance #industry-bloc #healthcare #aca #public-option #lobbying #managed-care

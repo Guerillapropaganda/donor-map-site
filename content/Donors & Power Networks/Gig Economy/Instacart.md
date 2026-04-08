@@ -2,7 +2,7 @@
 title: "Instacart"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -17,6 +17,7 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Labor Department"
   - "Wage and Hour Division"
+related: "[[Airbnb]] · [[Labor - Donors and Backers]]"
 ---
 
 #instacart #gig-economy #delivery #labor #independent-contractor #prop22

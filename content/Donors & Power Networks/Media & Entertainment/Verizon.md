@@ -36,6 +36,7 @@ cpsc-recalls: 2
 nonprofit-status: "501(c)(3)"
 total-revenue: 5056273
 total-assets: 23768481
+related: "[[News Corp - Fox Corporation]] · [[The Telecom and Media Monopoly Oversight]]"
 ---
 
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying

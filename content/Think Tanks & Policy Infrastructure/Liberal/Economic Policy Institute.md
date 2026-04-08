@@ -2,7 +2,7 @@
 title: "Economic Policy Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: liberal
@@ -12,7 +12,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 12248246
 total-assets: 19581014
-related: "[[AFL-CIO]] · [[SEIU - Service Employees International Union|SEIU]] · [[American Federation of Teachers]] · [[National Education Association]] · [[Ford Foundation]] · [[Bill Gates]]"
+related: "[[AFL-CIO]] · [[SEIU - Service Employees International Union|SEIU]] · [[American Federation of Teachers]] · [[National Education Association]] · [[Ford Foundation]] · [[Bill Gates]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Center on Budget and Policy Priorities]]"
 fara-status: "registrant"
 fara-records: 2
 fara-countries:

@@ -25,6 +25,7 @@ subawards-received: 50
 subawards-received-amount: 281107145
 top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "541512"
+related: "[[The Judiciary Committee and Libertarian Constitutionalism]]"
 ---
 
 #oracle #tech #cloud #government-contracts #lobbying #larry-ellison #tiktok

@@ -2,7 +2,7 @@
 title: "Citadel - Kenneth Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -21,6 +21,7 @@ sec-form-types:
   - "DEF 14A"
 lobbying-spend: 2680000
 lobbying-filings: 53
+related: "[[Wall Street Finance Networks]]"
 ---
 
 #citadel #kenneth-griffin #hedge-fund #wall-street #mega-donor #market-making #florida #payment-for-order-flow #pfof #deregulation #class-analysis #follow-the-money

@@ -77,6 +77,7 @@ doj-components:
   - "USAO - New York, Northern"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+related: "[[Novo Nordisk]]"
 ---
 
 #gilead #pharma #hiv #hepatitis #pricing #sovaldi #truvada #prep #lobbying

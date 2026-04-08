@@ -24,6 +24,7 @@ sec-form-types:
   - "EX-99.3G"
 lei: "549300HK4YWG61O0MF87"
 lei-jurisdiction: "US-DC"
+related: "[[Economic Policy Institute]] · [[CalSTRS - California State Teachers' Retirement System]]"
 ---
 
 #nea #education #union #teachers #democratic #vouchers #charter #political-spending

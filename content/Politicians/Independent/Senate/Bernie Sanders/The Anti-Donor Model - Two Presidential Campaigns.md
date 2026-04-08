@@ -2,9 +2,10 @@
 title: "The Anti-Donor Model - Two Presidential Campaigns"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Bernie Sanders Master Profile]]
+related: "[[The Anti-Corporate Fundraising Model]]"
 ---
 
 

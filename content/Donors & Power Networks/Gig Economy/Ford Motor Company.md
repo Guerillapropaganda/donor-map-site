@@ -2,7 +2,7 @@
 title: "Ford Motor Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -47,6 +47,7 @@ regulatory-agencies:
 federal-awards-total: 739664294
 federal-contracts-count: 25
 federal-grants-count: 7
+related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]]"
 ---
 
 #ford #auto #detroit #michigan #manufacturing #ev #uaw #trade

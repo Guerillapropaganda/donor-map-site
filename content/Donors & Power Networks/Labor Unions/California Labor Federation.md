@@ -2,7 +2,7 @@
 title: "California Labor Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -25,6 +25,7 @@ regulatory-agencies:
   - "Labor Department"
   - "Occupational Safety and Health Administration"
   - "Transportation Department"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Nancy Pelosi Master Profile]]"
 ---
 
 

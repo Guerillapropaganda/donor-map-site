@@ -2,7 +2,7 @@
 title: "Blue Cross Blue Shield Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -41,6 +41,7 @@ ein: 135656874
 annual-revenue: "$819.1M"
 net-assets: "$1.1B"
 tax-year: "2023"
+related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]]"
 ---
 
 #bcbs #blue-cross #blue-shield #insurance #healthcare #lobbying #antitrust #bipartisan #aca #medicare-advantage #public-option #class-analysis #follow-the-money

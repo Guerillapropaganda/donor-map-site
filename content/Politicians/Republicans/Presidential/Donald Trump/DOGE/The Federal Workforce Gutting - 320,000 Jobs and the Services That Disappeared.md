@@ -2,10 +2,11 @@
 title: "The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
+related: "[[The Contractor Beneficiaries - Who Replaced the Civil Servants]]"
 ---
 
 

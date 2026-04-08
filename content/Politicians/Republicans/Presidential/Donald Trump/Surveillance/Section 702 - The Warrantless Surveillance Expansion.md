@@ -2,10 +2,11 @@
 title: "Section 702 - The Warrantless Surveillance Expansion"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 bioguide-id: "A000383"
+related: "[[Signalgate - The Yemen Strike Chat and the Security Theater]]"
 ---
 
 

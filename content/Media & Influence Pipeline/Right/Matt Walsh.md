@@ -2,11 +2,11 @@
 title: "Matt Walsh"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
-related: "[[Ben Shapiro]] · [[Candace Owens]] · [[Steven Crowder]] · [[Charlie Kirk]] · [[_Media Pipeline Framework]]"
+related: "[[Ben Shapiro]] · [[Candace Owens]] · [[Steven Crowder]] · [[Charlie Kirk]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Dave Rubin]]"
 donors: "[[Wilks Brothers]]"
 ---
 

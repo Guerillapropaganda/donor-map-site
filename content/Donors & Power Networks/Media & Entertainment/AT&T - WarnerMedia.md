@@ -25,6 +25,7 @@ lobbying-spend: 21040000
 lobbying-filings: 28
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+related: "[[News Corp - Fox Corporation]] · [[Capitol Counsel]]"
 ---
 
 #att #telecom #media #net-neutrality #lobbying #merger #surveillance #broadband

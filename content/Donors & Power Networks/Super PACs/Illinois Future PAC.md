@@ -2,7 +2,7 @@
 title: "Illinois Future PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -10,6 +10,7 @@ entity-type: "PAC"
 politicians-funded:
   - "JB Pritzker"
   - "Juliana Stratton"
+related: "[[Illinois 2026 Senate Race]] · [[The Pritzker Machine and Illinois Democratic Power]]"
 ---
 
 #illinois-future-pac #pritzker #super-pac #illinois #democratic #governor

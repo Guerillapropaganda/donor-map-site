@@ -21,6 +21,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(4)"
 total-revenue: 1057103
 total-assets: 79716
+related: "[[Democratic Senatorial Campaign Committee]]"
 ---
 
 #donor-node #super-pac #democratic #women #fundraising-infrastructure #pro-choice #gatekeeper #donor

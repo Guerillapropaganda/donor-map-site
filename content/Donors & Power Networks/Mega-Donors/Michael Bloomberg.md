@@ -2,7 +2,7 @@
 title: "Michael Bloomberg"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -24,6 +24,7 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Justice Department"
   - "Transportation Department"
+related: "[[Harris-Newsom Donor Class Fracture]] · [[Tom Steyer Master Profile]]"
 ---
 
 

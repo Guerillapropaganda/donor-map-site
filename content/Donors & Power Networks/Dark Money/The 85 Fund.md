@@ -21,6 +21,7 @@ total-revenue: 168530018
 total-assets: 2754902
 lei: "549300JZ9WCXZDH10988"
 lei-jurisdiction: "US-DE"
+related: "[[Federalist Society]]"
 ---
 
 #85-fund #dark-money #judicial #Leonard-Leo #judicial-education-project #SCOTUS #nomination-campaigns

@@ -18,6 +18,7 @@ net-assets: "$316K"
 tax-year: "2023"
 lobbying-spend: 160000
 lobbying-filings: 8
+related: "[[Eli Broad Foundation]] · [[Tony Thurmond Master Profile]]"
 ---
 
 

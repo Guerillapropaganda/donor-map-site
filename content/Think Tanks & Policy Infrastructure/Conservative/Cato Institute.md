@@ -2,7 +2,7 @@
 title: "Cato Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: conservative
@@ -29,7 +29,7 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Homeland Security Department"
   - "Internal Revenue Service"
-related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[ExxonMobil]] · [[Heritage Foundation]]"
+related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[ExxonMobil]] · [[Heritage Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]]"
 ---
 
 #think-tank #conservative #libertarian #deregulation #climate-denial #social-security #financial-regulation #dark-money #koch

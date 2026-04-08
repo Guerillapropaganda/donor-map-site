@@ -22,6 +22,7 @@ ein: 530220586
 annual-revenue: "$240.0M"
 net-assets: "$531.3M"
 tax-year: "2022"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]]"
 ---
 
 

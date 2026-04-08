@@ -2,11 +2,11 @@
 title: "Dan Bongino"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
-related: "[[Tucker Carlson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[Russell Brand]] · [[_Media Pipeline Framework]]"
+related: "[[Tucker Carlson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[Russell Brand]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
 donors: "[[Peter Thiel]]"
 ---
 

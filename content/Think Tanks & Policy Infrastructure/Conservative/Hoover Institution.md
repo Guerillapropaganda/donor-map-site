@@ -2,12 +2,12 @@
 title: "Hoover Institution"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: conservative
 tax-status: Division of Stanford University
-related: "[[Koch Network - Charles Koch]] · [[Scaife Foundations]] · [[Bradley Foundation]]"
+related: "[[Koch Network - Charles Koch]] · [[Scaife Foundations]] · [[Bradley Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]]"
 sec-filings: 5190
 sec-form-types:
   - "10-K/A"

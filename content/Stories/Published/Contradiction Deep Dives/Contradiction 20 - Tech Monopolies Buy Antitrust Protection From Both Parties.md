@@ -2,11 +2,12 @@
 title: "Contradiction 20 — Tech Monopolies Buy Antitrust Protection From Both Parties"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 issues:
   - "Antitrust & Monopoly"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]]"
 ---
 
 #contradiction #big-tech #antitrust #lobbying #AICOA #revolving-door #class-analysis

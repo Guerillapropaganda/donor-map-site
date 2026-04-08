@@ -2,7 +2,7 @@
 title: "Tim Dunn"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -27,6 +27,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. New York"
 total-political-spend: "$9,908,147"
+related: "[[The National Security-to-Senate Pipeline]] · [[Barbara Lee]]"
 ---
 
 #donor #mega-donor #texas-oil #christian-nationalist #republican-megadonor #crownquest

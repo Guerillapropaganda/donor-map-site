@@ -2,9 +2,10 @@
 title: "The NRA Investment and the Second Amendment Theater"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-22
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
+related: "[[Guns - Donors and Backers]]"
 ---
 
 

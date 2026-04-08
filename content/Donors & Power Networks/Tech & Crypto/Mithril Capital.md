@@ -26,6 +26,7 @@ lei: "254900QJNNCR8JK6LC36"
 lei-jurisdiction: "CZ"
 lobbying-spend: 130000
 lobbying-filings: 8
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Matt Mahan Master Profile]]"
 ---
 
 #donor #thiel #venture-capital #defense-tech #biotech #growth-stage

@@ -2,7 +2,7 @@
 title: "Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: null
 parent: null
 issues:
@@ -11,6 +11,7 @@ issues:
   - "Housing"
   - "Immigration"
   - "Dark Money & Campaign Finance"
+related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]]"
 ---
 
 

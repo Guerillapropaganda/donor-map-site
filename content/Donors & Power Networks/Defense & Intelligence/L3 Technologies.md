@@ -61,6 +61,7 @@ subawards-received: 50
 subawards-received-amount: 1110991781
 top-federal-agency: "Department of Defense"
 top-naics-code: "334511"
+related: "[[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]]"
 ---
 
 #defense-contractor #surveillance-technology #military-intelligence #l3harris-merger #weapons-systems

@@ -2,7 +2,7 @@
 title: "Alabama Power"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -55,6 +55,7 @@ regulatory-agencies:
   - "Energy Department"
   - "Environmental Protection Agency"
   - "Federal Energy Regulatory Commission"
+related: "[[Katie Britt]]"
 ---
 
 #utility-monopoly #southern-company #alabama-politics #regulatory-capture #dark-money

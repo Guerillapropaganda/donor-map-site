@@ -2,7 +2,7 @@
 title: "Tom Cole"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -22,6 +22,7 @@ top-donors:
   - "Lockheed Martin"
 total-received: "$501,840"
 fec-candidate-id: "H6MO06013"
+related: "[[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]]"
 ---
 
 #tom-cole #republican #oklahoma #house #committee-chair #appropriations #defense #energy #oil-gas #tribal #chickasaw #phase-6-gavel-power

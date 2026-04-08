@@ -2,11 +2,13 @@
 title: "Ritchie Torres"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 total-received: "$5,052,480"
 fec-candidate-id: "H0NY15160"
+donors: "[[AFSCME - American Federation of State County and Municipal Employees]]"
+related: "[[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[NORPAC]]"
 ---
 
 #master-profile #democrat #house #bronx #new-york #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #crypto #class-contradiction

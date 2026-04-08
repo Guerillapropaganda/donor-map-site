@@ -17,6 +17,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
 total-revenue: 455437
 total-assets: 1873781
+related: "[[The National Security Hawk and Arkansas Defense]]"
 ---
 
 #walmart #walton #retail #labor #anti-union #snap #tax #arkansas

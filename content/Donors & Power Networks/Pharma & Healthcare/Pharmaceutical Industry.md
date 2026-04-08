@@ -2,7 +2,7 @@
 title: "Pharmaceutical Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -43,6 +43,7 @@ sec-form-types:
   - "PX14A6G"
   - "S-1"
   - "S-1/A"
+related: "[[Pam Bondi Master Profile]] · [[Kyrsten Sinema Master Profile]]"
 ---
 
 #pharma #pharmaceutical #lobbying #drug-pricing #bipartisan #medicare #negotiation #revolving-door #dark-money #class-analysis

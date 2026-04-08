@@ -2,7 +2,7 @@
 title: "Judicial Crisis Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -27,6 +27,7 @@ court-jurisdictions:
   - "District Court, E.D. Arkansas"
   - "District Court, M.D. Tennessee"
   - "District Court, S.D. Indiana"
+related: "[[DeVos Family]] · [[The Stolen Seat and the McConnell-Leo Pipeline]]"
 ---
 
 #donor #judicial-crisis-network #concord-fund #leonard-leo #scotus #dark-money #judicial-confirmations #class-analysis #follow-the-money #barre-seid #marble-freedom-trust #honest-elections-project #raga

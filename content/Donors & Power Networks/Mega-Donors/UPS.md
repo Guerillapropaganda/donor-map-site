@@ -2,7 +2,7 @@
 title: "UPS"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -13,6 +13,7 @@ issues:
 federal-awards-total: 4624540
 federal-contracts-count: 25
 federal-grants-count: 25
+related: "[[Brian Kemp]] · [[The Caucus Chair and Inland Empire Logistics Economy]]"
 ---
 
 #ups #logistics #shipping #teamsters #labor #bipartisan #trade #postal #transportation #revolving-door #class-analysis #follow-the-money

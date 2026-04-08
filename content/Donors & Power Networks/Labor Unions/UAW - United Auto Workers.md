@@ -2,7 +2,7 @@
 title: "UAW - United Auto Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -26,6 +26,7 @@ ein: 340200249
 annual-revenue: "$104K"
 net-assets: "$180K"
 tax-year: "2016"
+related: "[[Michigan 2026 Senate Race]] · [[Gary Peters Master Profile]]"
 ---
 
 #donor #labor #union #auto-industry #working-class #fain #stand-up-strike #ev-transition #corruption #consent-decree

@@ -2,9 +2,10 @@
 title: "Farmworker Union Rights - AB 2183 Veto and Reversal"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
+related: "[[Prop 22 - The $200M Corporate Rollback]]"
 ---
 
 

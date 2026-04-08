@@ -2,9 +2,10 @@
 title: "The Biden Exit and Harris Installation"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Nancy Pelosi Master Profile]]
+related: "[[The $1.6 Billion Fundraising Machine]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
 ---
 
 

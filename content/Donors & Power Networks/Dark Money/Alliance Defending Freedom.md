@@ -14,6 +14,7 @@ annual-revenue: "$101.8M"
 net-assets: "$97.6M"
 tax-year: "2023"
 total-political-spend: "$250"
+related: "[[DeVos Family]] · [[The Culture War Economy - Who Profits From Division]]"
 ---
 
 #adf #religious-liberty #anti-lgbtq #scotus #litigation #dark-money #christian-right

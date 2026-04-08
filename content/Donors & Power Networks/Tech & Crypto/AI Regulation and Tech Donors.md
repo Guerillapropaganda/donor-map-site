@@ -2,13 +2,14 @@
 title: "AI Regulation and Tech Donors"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Story"
 issues:
   - "Technology"
+related: "[[AI Safety and Regulatory Capture]]"
 ---
 
 #ai #regulation #tech #donors #lobbying #safety #innovation #capture

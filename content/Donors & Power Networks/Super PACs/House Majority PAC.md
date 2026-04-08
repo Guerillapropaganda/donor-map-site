@@ -2,7 +2,7 @@
 title: "House Majority PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -24,6 +24,7 @@ court-jurisdictions:
 sec-filings: 1
 sec-form-types:
   - "10-K"
+related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]]"
 ---
 
 #donor-node #super-pac #democratic #house #leadership-pac #dark-money #house-majority-forward #donor

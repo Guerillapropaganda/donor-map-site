@@ -2,7 +2,7 @@
 title: "Palantir Technologies Political Operation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -27,6 +27,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]]"
 ---
 
 #palantir #surveillance #thiel #defense #ice #data #government-contracts #revolving-door #ai #immigration

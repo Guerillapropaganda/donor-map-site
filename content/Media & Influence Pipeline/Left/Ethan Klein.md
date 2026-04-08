@@ -2,12 +2,12 @@
 title: "Ethan Klein"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Google - Alphabet|Google / YouTube]] · [[Silicon Valley Democratic Donor Network]]"
+related: "[[Google - Alphabet|Google / YouTube]] · [[Silicon Valley Democratic Donor Network]] · [[Briahna Joy Gray]]"
 ---
 
 #media-pipeline #left #youtube #podcast #platform-dependency #audience-capture #independence-theater

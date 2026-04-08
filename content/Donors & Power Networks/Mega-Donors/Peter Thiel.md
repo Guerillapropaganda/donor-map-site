@@ -19,6 +19,7 @@ federal-register-mentions: 1
 last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Federal Trade Commission"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[The 2024 Tech Billionaire Network]]"
 ---
 
 

@@ -2,9 +2,10 @@
 title: "Legislative Record as Speaker"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Nancy Pelosi Master Profile]]
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Single-Payer Broken Promise]]"
 ---
 
 

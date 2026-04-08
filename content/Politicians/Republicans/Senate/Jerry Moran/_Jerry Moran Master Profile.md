@@ -2,7 +2,7 @@
 title: "Jerry Moran"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -23,6 +23,7 @@ website: "https://www.moran.senate.gov"
 phone: "202-224-6521"
 total-received: "$1,586,154"
 fec-candidate-id: "H6KS01096"
+related: "[[Richard Blumenthal]]"
 ---
 
 

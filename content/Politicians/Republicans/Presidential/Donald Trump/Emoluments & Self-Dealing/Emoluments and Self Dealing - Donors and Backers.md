@@ -2,9 +2,10 @@
 title: "Emoluments and Self Dealing - Donors and Backers"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
+related: "[[The Grift Machine - How Trump Monetized the Presidency]]"
 ---
 
 #emoluments #self-dealing #conflict-of-interest #trump-organization #foreign-governments #grift

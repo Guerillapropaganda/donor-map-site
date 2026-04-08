@@ -2,7 +2,7 @@
 title: "Elise Stefanik"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,7 @@ issues:
   - "Defense & Military"
 total-received: "$4,955,682"
 fec-candidate-id: "H4NY21079"
+donors: "[[Winning for Women PAC]] · [[Miriam Adelson]]"
 ---
 
 #stefanik #new-york #conference-chair #trump #un-ambassador #ideological-transformation #education #antisemitism #aipac #harvard #fort-drum #defense

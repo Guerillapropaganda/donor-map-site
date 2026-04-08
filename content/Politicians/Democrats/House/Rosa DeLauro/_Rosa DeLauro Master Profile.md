@@ -2,7 +2,7 @@
 title: "Rosa DeLauro"
 type: politician
 content-readiness: ready
-last-updated: "2026-04-05"
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,6 +18,8 @@ top-donors:
   - "Lockheed Martin"
   - "AIPAC"
 bioguide-id: "A000383"
+donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]]"
+related: "[[Tom Cole]]"
 ---
 
 #rosa-delauro #democrat #connecticut #house #appropriations #ranking-member #phase-6-gavel-power

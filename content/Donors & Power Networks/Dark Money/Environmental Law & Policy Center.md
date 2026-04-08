@@ -2,7 +2,7 @@
 title: "Environmental Law & Policy Center"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -15,6 +15,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 150007
 total-assets: 254525
+related: "[[Sheldon Whitehouse]]"
 ---
 
 #environmental-advocacy #clean-energy #midwest #litigation #nonprofit

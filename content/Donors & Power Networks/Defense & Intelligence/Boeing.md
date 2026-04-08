@@ -2,7 +2,7 @@
 title: "Boeing"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -92,6 +92,7 @@ nhtsa-complaints: 0
 nonprofit-status: "501(c)(6)"
 total-revenue: 1031754
 total-assets: 589361
+related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]]"
 ---
 
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor

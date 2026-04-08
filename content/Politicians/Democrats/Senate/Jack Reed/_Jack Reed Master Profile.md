@@ -2,7 +2,7 @@
 title: "Jack Reed"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,8 @@ top-donors:
   - "Boeing"
 stock-trades: 1
 fec-candidate-id: "P60023777"
+donors: "[[General Dynamics]]"
+related: "[[General Dynamics]]"
 ---
 
 

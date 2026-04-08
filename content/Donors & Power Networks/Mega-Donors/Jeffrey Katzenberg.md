@@ -2,7 +2,7 @@
 title: "Jeffrey Katzenberg"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -17,6 +17,7 @@ net-assets: "$10.7M"
 tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+related: "[[Adam Schiff]] · [[Ana Kasparian]]"
 ---
 
 #donor #mega-donor #hollywood #democratic #bundler #dreamworks #wndrco #entertainment #class-analysis #follow-the-money

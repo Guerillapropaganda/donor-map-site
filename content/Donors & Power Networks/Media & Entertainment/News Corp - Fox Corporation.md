@@ -15,6 +15,7 @@ lei: "984500CF6457BDCFAD28"
 lei-jurisdiction: "US-DE"
 lobbying-spend: 7016500
 lobbying-filings: 62
+related: "[[Verizon]] · [[Fox News - Murdoch Media Empire]]"
 ---
 
 #fox #newscorp #murdoch #media #propaganda #deregulation #defamation

@@ -2,7 +2,7 @@
 title: "Goldman Sachs — The Government Sachs Alumni Network"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: "Goldman Sachs"
 sector: "Wall Street"
@@ -10,6 +10,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Wall Street & Finance"
+related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]]"
 ---
 
 #goldman-sachs #wall-street #revolving-door #treasury #bipartisan #both-sides #regulatory-capture #government-sachs #donor

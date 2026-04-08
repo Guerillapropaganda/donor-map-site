@@ -2,9 +2,10 @@
 title: "The Trump Alliance and US Military Aid"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Benjamin Netanyahu Master Profile]]
+related: "[[West Bank Annexation and Settlement Expansion]]"
 ---
 
 #trump #israel #military-aid #weapons #diplomacy #class-analysis #adelson #usmilitary #gulfstates #international

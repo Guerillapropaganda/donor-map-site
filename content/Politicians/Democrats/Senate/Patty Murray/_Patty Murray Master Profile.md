@@ -2,7 +2,7 @@
 title: "Patty Murray"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -32,6 +32,7 @@ stock-trade-tickers:
   - "UPS"
   - "UN"
   - "USB"
+donors: "[[Jeff Bezos]]"
 ---
 
 #master-profile #democrat #senate #washington #defense #boeing #pharma #appropriations #follow-the-money #class-analysis

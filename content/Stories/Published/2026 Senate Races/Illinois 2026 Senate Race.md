@@ -2,9 +2,10 @@
 title: "Illinois 2026 Senate Race"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
+related: "[[Georgia 2026 Senate Race]]"
 ---
 
 #2026-election #senate #illinois #race-frame

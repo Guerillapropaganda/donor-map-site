@@ -2,7 +2,7 @@
 title: "TPUSA - Turning Point USA"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -10,6 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
+related: "[[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Charlie Kirk]]"
 ---
 
 #dark-money #conservative-youth #charlie-kirk #maga #infrastructure

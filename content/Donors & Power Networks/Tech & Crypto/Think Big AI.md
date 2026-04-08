@@ -2,13 +2,14 @@
 title: "Think Big AI"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
+related: "[[Crypto and AIPAC's Georgia Strategy]]"
 ---
 
 

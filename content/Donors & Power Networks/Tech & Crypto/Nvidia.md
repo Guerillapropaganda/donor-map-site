@@ -2,7 +2,7 @@
 title: "Nvidia"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -12,6 +12,7 @@ issues:
   - "Defense & Military"
 lei: "549300S4KLFTLO7GSQ80"
 lei-jurisdiction: "US-DE"
+related: "[[OpenAI]]"
 ---
 
 #nvidia #tech #ai #chips #gpu #defense #data-centers #jensen-huang

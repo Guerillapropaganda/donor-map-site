@@ -2,13 +2,14 @@
 title: "Winning for Women PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 politicians-funded:
   - "Elise Stefanik"
+related: "[[Ashley Hinson Master Profile]]"
 ---
 
 #winning-for-women #republican #women #pac #senate #house #gop #carey-committee #primary-intervention #paul-singer #citadel #class-analysis

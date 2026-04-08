@@ -2,10 +2,10 @@
 title: "The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[Fox News - Murdoch Media Empire]] · [[Rachel Maddow]] · [[Tucker Carlson]] · [[Sean Hannity]] · [[Laura Ingraham]] · [[PhRMA]] · [[JPMorgan Chase]] · [[Raytheon (RTX)]] · [[Daily Wire]] · [[Joe Rogan]]"
+related: "[[Fox News - Murdoch Media Empire]] · [[Rachel Maddow]] · [[Tucker Carlson]] · [[Sean Hannity]] · [[Laura Ingraham]] · [[PhRMA]] · [[JPMorgan Chase]] · [[Raytheon (RTX)]] · [[Daily Wire]] · [[Joe Rogan]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]]"
 ---
 
 #media #advertising #cross-spectrum #pharma #insurance #defense #tech #boycotts #both-sides-illusion

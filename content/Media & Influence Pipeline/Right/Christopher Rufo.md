@@ -2,12 +2,12 @@
 title: "Christopher Rufo"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
 platform: substack
-related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Manhattan Institute for Policy Research]]"
+related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Manhattan Institute for Policy Research]] · [[James O'Keefe]] · [[Charlie Kirk]]"
 ---
 
 #media-pipeline #right #anti-dei #manhattan-institute #policy-architect #dark-money #donorstrust #bradley-foundation

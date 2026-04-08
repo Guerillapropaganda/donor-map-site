@@ -24,6 +24,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
 lei: "549300MB5G3G4YWX8732"
 lei-jurisdiction: "US-CA"
+related: "[[Silicon Valley Democratic Donor Network]]"
 ---
 
 #donor-node #mega-donor #media #democrat #philanthropy #class-analysis #emerson-collective #the-atlantic #education-reform #immigration

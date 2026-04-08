@@ -2,7 +2,7 @@
 title: "Amazon"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -17,6 +17,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 lobbying-spend: 42075000
 lobbying-filings: 59
+related: "[[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]]"
 ---
 
 

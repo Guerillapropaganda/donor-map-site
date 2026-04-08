@@ -2,7 +2,7 @@
 title: "Financial Services Donors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -16,6 +16,7 @@ ofac-programs:
   - "GLOMAG"
   - "SDGT] [IFSR"
   - "RUSSIA-EO14024"
+related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]]"
 ---
 
 #financial-services #banking #wall-street #donors #bipartisan #dodd-frank #deregulation

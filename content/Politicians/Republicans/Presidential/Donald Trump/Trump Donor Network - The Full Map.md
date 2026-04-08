@@ -2,9 +2,10 @@
 title: "Trump Donor Network - The Full Map"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: null
 parent: [[_Alexander Acosta Master Profile]]
+related: "[[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]]"
 ---
 
 

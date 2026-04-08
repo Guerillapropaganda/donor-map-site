@@ -26,6 +26,7 @@ court-jurisdictions:
   - "District Court, S.D. Georgia"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+related: "[[South Carolina 2026 Senate Race]]"
 ---
 
 #defense-contractor #infrastructure #private-construction #iraq-war #revolving-door

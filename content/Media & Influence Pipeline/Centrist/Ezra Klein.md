@@ -2,12 +2,12 @@
 title: "Ezra Klein"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Bari Weiss]] · [[Pod Save America]] · [[_Media Pipeline Framework]]"
+related: "[[Bari Weiss]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[Sam Seder]] · [[Rachel Maddow]]"
 donors: "[]"
 ---
 

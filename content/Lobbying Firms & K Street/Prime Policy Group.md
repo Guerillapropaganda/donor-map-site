@@ -2,7 +2,7 @@
 title: "Prime Policy Group"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$4.1M"
@@ -13,7 +13,7 @@ sec-form-types:
   - "20-F"
   - "EX-2"
   - "EX-8.1"
-related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]]"
+related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Cassidy & Associates]] · [[Brownstein Hyatt Farber Schreck]]"
 ein: "841989534"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"

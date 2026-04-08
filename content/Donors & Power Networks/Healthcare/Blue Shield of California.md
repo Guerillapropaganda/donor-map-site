@@ -2,7 +2,7 @@
 title: "Blue Shield of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -41,6 +41,7 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. California"
   - "United States Bankruptcy Court, C.D. California"
+related: "[[Anthem - Elevance Health]] · [[Medicare for All - The Policy That Broke the Party]]"
 ---
 
 

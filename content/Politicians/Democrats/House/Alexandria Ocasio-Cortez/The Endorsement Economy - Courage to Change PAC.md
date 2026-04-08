@@ -2,9 +2,10 @@
 title: "The Endorsement Economy - Courage to Change PAC"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-02
+last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Alexandria Ocasio-Cortez Master Profile]]"
+related: "[[The Small-Dollar Model and the Anti-Donor Experiment]]"
 ---
 
 #aoc #leadership-pac #courage-to-change #endorsements #progressive #class-analysis #follow-the-money

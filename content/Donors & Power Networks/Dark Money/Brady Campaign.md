@@ -2,7 +2,7 @@
 title: "Brady Campaign"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -20,6 +20,7 @@ ein: 237321017
 annual-revenue: "$4.8M"
 net-assets: "$8.1M"
 tax-year: "2023"
+related: "[[Sheldon Whitehouse]]"
 ---
 
 #gun-violence-prevention #democratic-donor #advocacy-organization #brady-pac

@@ -39,6 +39,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(5)"
 total-revenue: 29941168
 total-assets: 75856990
+related: "[[Agricultural Labor Vulnerability Donors]]"
 ---
 
 

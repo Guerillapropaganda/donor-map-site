@@ -2,7 +2,7 @@
 title: "Democratic Donor Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,6 +12,7 @@ issues:
   - "Technology"
   - "Labor & Workers"
   - "Dark Money & Campaign Finance"
+related: "[[Ohio Democratic Party]] · [[Pod Save America]]"
 ---
 
 #democratic #donor-network #bundling #wall-street #hollywood #tech #labor #dark-money #super-pac #class-analysis #follow-the-money

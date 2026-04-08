@@ -2,7 +2,7 @@
 title: "Small Dollar Donors - ActBlue"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,6 +12,7 @@ politicians-funded:
   - "Alexandria Ocasio-Cortez"
 issues:
   - "Infrastructure"
+related: "[[Saikat Chakrabarti Master Profile]] · [[The Small-Dollar Model and the Anti-Donor Experiment]]"
 ---
 
 #actblue #small-dollar #democratic #grassroots #online #platform #conduit #infrastructure #winred

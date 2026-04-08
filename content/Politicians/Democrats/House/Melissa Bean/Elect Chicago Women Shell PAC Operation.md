@@ -2,9 +2,10 @@
 title: "Elect Chicago Women Shell PAC Operation"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: "_Melissa Bean Master Profile"
+related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]]"
 ---
 
 #aipac #shell-pac #dark-money #2026-election #illinois #il-8 #bean #class-analysis #follow-the-money #disclosure-evasion

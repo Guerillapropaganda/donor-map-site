@@ -2,13 +2,14 @@
 title: "Laura Ingraham"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[_Media Pipeline Framework]]"
+related: "[[_Media Pipeline Framework]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Jesse Watters]]"
 donors: "(Fox Corp / Murdoch family — indirect via corporate employment)"
+opposes: "[[Rachel Maddow]]"
 ---
 
 #media-pipeline #right #conservative #fox-news #cable-news #talk-radio #pharma-advertising #class-analysis

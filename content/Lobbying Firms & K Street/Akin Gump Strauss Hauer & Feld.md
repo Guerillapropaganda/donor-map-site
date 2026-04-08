@@ -2,13 +2,13 @@
 title: "Akin Gump Strauss Hauer & Feld"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-03-31
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$65.4M"
 lobbyist-count: 74
 revolving-door-pct: "55.4%"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[Blackrock]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[Google]] · [[Meta]] · [[Verizon]] · [[Business Roundtable]] · [[_Lobbying Firms Framework]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[Blackrock]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[Google]] · [[Meta]] · [[Verizon]] · [[Business Roundtable]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]]"
 ---
 
 #lobbying #k-street #pharma #defense #finance #tech #trade #bipartisan #revolving-door

@@ -2,7 +2,7 @@
 title: "Manhattan Institute for Policy Research"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: conservative
@@ -33,7 +33,7 @@ court-jurisdictions:
   - "District Court, N.D. New York"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
-related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Paul Singer]] · [[Scaife Foundations]]"
+related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Paul Singer]] · [[Scaife Foundations]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Hudson Institute]]"
 ---
 
 #think-tank #conservative #policing #housing #education #criminal-justice #anti-dei #urban-policy #class-analysis

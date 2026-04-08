@@ -2,7 +2,7 @@
 title: "ActBlue"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -25,6 +25,7 @@ ein: 455097038
 annual-revenue: "$2.0M"
 net-assets: "$8.5M"
 tax-year: "2023"
+related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
 ---
 
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis

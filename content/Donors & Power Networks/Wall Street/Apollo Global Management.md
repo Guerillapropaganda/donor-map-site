@@ -2,7 +2,7 @@
 title: "Apollo Global Management"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -53,6 +53,7 @@ sec-form-types:
   - "S-8"
   - "S-8 POS"
   - "SCHEDULE 13G/A"
+related: "[[Mike Lee]] · [[The Education Committee and For-Profit College Pipeline]]"
 ---
 
 #apollo #private-equity #wall-street #university-of-phoenix #for-profit-education #healthcare #insurance

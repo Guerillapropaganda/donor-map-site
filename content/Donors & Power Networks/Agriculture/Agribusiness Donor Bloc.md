@@ -2,13 +2,14 @@
 title: "Agribusiness Donor Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Agriculture"
 entity-type: "Individual Donor"
 issues:
   - "Agriculture"
+related: "[[Joni Ernst Master Profile]] · [[The Agribusiness Senator and the Family Farm Myth]]"
 ---
 
 #agribusiness #agriculture #industry-bloc #subsidies #farm-bill #lobbying #consolidation

@@ -2,12 +2,12 @@
 title: "Matt Taibbi"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Peter Thiel]] · [[Marc Andreessen and a16z]] · [[Goldman Sachs]]"
+related: "[[Peter Thiel]] · [[Marc Andreessen and a16z]] · [[Goldman Sachs]] · [[Lex Fridman]] · [[Nate Silver]]"
 ---
 
 #media-pipeline #centrist #substack #twitter-files #investigative-journalism #audience-swap

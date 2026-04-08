@@ -2,13 +2,14 @@
 title: "MAGA Small Dollar Base"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
+related: "[[Matt Gaetz Master Profile]] · [[The McCarthy Ouster and the Politics of Institutional Destruction]]"
 ---
 
 #maga #small-dollar #donors #trump #grassroots #winred #fundraising #recurring-donations #indictment-fundraising #class-analysis #follow-the-money

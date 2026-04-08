@@ -40,6 +40,7 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
   - "SCHEDULE 13G/A"
+related: "[[Real Estate Industry Bloc]]"
 ---
 
 #cbre #real-estate #commercial #brokerage #lobbying #1031-exchange

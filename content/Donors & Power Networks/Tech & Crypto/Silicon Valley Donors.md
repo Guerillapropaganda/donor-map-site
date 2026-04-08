@@ -2,7 +2,7 @@
 title: "Silicon Valley Donors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -14,6 +14,7 @@ issues:
   - "Technology"
 lobbying-spend: 1258000
 lobbying-filings: 51
+related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]]"
 ---
 
 #silicon-valley #tech #donors #democratic #republican #realignment #deregulation #lobbying #crypto #ai #venture-capital #class-analysis #follow-the-money

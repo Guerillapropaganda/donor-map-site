@@ -2,7 +2,7 @@
 title: "Bennie Thompson"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,6 +21,7 @@ bills-sponsored: 14
 bills-cosponsored: 355
 website: "https://benniethompson.house.gov"
 phone: "202-225-5876"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]]"
 ---
 
 

@@ -2,9 +2,10 @@
 title: "The McConnell Dark Money Empire - SLF and One Nation"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Mitch McConnell Master Profile]]
+related: "[[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[The 2024 Race - Most Expensive Senate Campaign in History]]"
 ---
 
 

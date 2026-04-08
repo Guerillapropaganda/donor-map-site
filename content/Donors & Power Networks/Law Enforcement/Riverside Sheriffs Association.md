@@ -2,7 +2,7 @@
 title: "Riverside Sheriffs Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
@@ -23,6 +23,7 @@ ein: 956203844
 annual-revenue: "$4.8M"
 net-assets: "$5.8M"
 tax-year: "2023"
+related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Bail Bond Industry]]"
 ---
 
 

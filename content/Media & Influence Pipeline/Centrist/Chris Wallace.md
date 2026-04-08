@@ -2,12 +2,12 @@
 title: "Chris Wallace"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox News - Murdoch Media Empire]]"
+related: "[[Fox News - Murdoch Media Empire]] · [[Anderson Cooper]]"
 ---
 
 #media-pipeline #centrist #fox-news #cnn #institutional-journalism #independence-theater #centrist-laundering

@@ -8,7 +8,7 @@ parent: null
 annual-revenue: "$73.8M"
 lobbyist-count: 81
 revolving-door-pct: "53.1%"
-related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Apollo Global Management]] · [[Palantir Technologies]] · [[PhRMA]]"
+related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Apollo Global Management]] · [[Palantir Technologies]] · [[PhRMA]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]]"
 federal-register-mentions: 6
 last-enriched: "2026-04-08"
 regulatory-agencies:

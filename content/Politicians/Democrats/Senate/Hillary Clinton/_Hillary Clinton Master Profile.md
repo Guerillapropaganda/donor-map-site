@@ -2,7 +2,7 @@
 title: "Hillary Clinton"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -24,6 +24,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
+donors: "[[Entertainment and Hollywood Donors]]"
 ---
 
 #politician #donor-captured #wall-street #two-audience-problem

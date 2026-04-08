@@ -2,7 +2,7 @@
 title: "SpaceX"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -27,6 +27,7 @@ regulatory-agencies:
   - "Transportation Department"
 lei: "984500AB57A3B7E9AF80"
 lei-jurisdiction: "BE"
+related: "[[Invariant]] · [[Jeff Bezos]]"
 ---
 
 #spacex #musk #defense #nasa #faa #starlink #military #launch

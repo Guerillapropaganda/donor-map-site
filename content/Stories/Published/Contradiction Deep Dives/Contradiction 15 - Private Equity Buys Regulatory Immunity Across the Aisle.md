@@ -2,9 +2,10 @@
 title: "Private Equity Buys Regulatory Immunity Across the Aisle"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
+related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
 ---
 
 #investigation #contradiction #private-equity #carried-interest #blackstone #apollo #carlyle #kkr #bipartisan-consensus #class-analysis #revolving-door #tax-policy

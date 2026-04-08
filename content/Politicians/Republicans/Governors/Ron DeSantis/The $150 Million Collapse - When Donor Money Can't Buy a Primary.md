@@ -2,9 +2,10 @@
 title: "The $150 Million Collapse - When Donor Money Can't Buy a Primary"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Ron DeSantis Master Profile]]
+related: "[[The Disney War and the Limits of Culture War Governance]]"
 ---
 
 #desantis #super-pac #never-back-down #donor-class #failed-campaign #class-analysis #follow-the-money #2024-primary

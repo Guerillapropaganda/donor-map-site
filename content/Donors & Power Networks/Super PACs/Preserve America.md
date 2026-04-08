@@ -16,6 +16,7 @@ federal-register-mentions: 489
 regulatory-agencies:
   - "Federal Highway Administration"
   - "Transportation Department"
+related: "[[Adelson Family]]"
 ---
 
 #donor #super-pac #republican #trump #adelson #israel-lobby #casino-regulation

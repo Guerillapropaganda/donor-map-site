@@ -2,7 +2,7 @@
 title: "Anthem - Elevance Health"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -18,6 +18,7 @@ total-revenue: 40154470
 total-assets: 139880517
 lobbying-spend: 680000
 lobbying-filings: 12
+related: "[[Medicare for All - The Policy That Broke the Party]] · [[Healthcare - Donors and Backers]]"
 ---
 
 

@@ -2,13 +2,13 @@
 title: "Hudson Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
 deepening-pass: 2026-03-26
-related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]]"
+related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]]"
 ---
 
 #think-tank #conservative #neoconservative #foreign-policy #defense #china-hawk #taiwan #national-security #class-analysis

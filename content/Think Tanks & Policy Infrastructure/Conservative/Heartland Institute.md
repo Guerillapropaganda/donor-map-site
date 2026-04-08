@@ -12,7 +12,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 3350282
 total-assets: 1074871
-related: "[[Koch Network - Charles Koch]]"
+related: "[[Koch Network - Charles Koch]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
 lei: "549300WPNE39YXMINQ56"
 lei-jurisdiction: "US-DE"
 ---

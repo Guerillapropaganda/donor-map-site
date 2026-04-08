@@ -2,7 +2,7 @@
 title: "Cayre Family"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Real Estate"
@@ -14,6 +14,7 @@ court-jurisdictions:
   - "District Court, E.D. New York"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, S.D. New York"
+related: "[[Kathy Hochul]]"
 ---
 
 #nyc-real-estate #mega-donors #hochul-donors #midtown-development #real-estate-dynasty

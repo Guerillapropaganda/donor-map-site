@@ -2,7 +2,7 @@
 title: "Sixteen Thirty Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -27,6 +27,7 @@ ein: 264486735
 annual-revenue: "$181.4M"
 net-assets: "$139.9M"
 tax-year: "2023"
+related: "[[New Venture Fund]] · [[Foreign Money in State Ballot Initiatives]]"
 ---
 
 #donor-node #dark-money #democrat #arabella #fiscal-sponsorship #class-analysis #donor

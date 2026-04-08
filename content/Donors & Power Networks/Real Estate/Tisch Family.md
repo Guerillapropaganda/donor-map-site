@@ -40,6 +40,7 @@ sec-form-types:
   - "SC 13D/A"
   - "SC 13G"
   - "SC 13G/A"
+related: "[[Kathy Hochul]]"
 ---
 
 #mega-donors #nyc-real-estate #loews-corporation #bipartisan-donors #hotel-insurance-empire

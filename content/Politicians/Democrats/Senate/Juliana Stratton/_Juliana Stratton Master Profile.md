@@ -11,6 +11,7 @@ top-donors:
   - "JB Pritzker"
 total-received: "$4,058,200"
 fec-candidate-id: "S6IL00458"
+related: "[[Illinois 2026 Senate Race]]"
 ---
 
 #politician #democrat #senate

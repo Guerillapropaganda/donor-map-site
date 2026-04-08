@@ -45,6 +45,7 @@ net-assets: "$206.9M"
 tax-year: "2023"
 lobbying-spend: 3106887
 lobbying-filings: 143
+related: "[[Starbucks]] · [[McDonalds Corporation]]"
 ---
 
 #nra-restaurants #food #labor #minimum-wage #tipped-workers #lobbying

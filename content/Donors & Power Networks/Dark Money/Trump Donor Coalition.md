@@ -2,7 +2,7 @@
 title: "Trump Donor Coalition"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,6 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
+related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]]"
 ---
 
 #donor-node #trump #donor-coalition #mega-donor #maga #realignment #small-dollar #patron-client #dark-money #class-analysis #follow-the-money

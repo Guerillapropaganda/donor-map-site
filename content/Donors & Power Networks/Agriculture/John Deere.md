@@ -26,6 +26,7 @@ subawards-received: 50
 subawards-received-amount: 7034204
 top-federal-agency: "Department of Defense"
 top-naics-code: "333120"
+related: "[[Monsanto - Bayer]] · [[The Oversight Legacy and Agricultural Protection]]"
 ---
 
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa

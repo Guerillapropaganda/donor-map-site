@@ -2,12 +2,12 @@
 title: "Dave Rubin"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Tim Pool]] · [[Ben Shapiro]] · [[Charlie Kirk]] · [[Jordan Peterson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]]"
+related: "[[Tim Pool]] · [[Ben Shapiro]] · [[Charlie Kirk]] · [[Jordan Peterson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
 donors: "[[Koch Network - Charles Koch]]"
 ---
 

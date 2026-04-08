@@ -2,7 +2,7 @@
 title: "Blackstone Real Estate"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -34,6 +34,7 @@ court-jurisdictions:
   - "District Court, S.D. Mississippi"
   - "United States Bankruptcy Court, C.D. California"
   - "United States Bankruptcy Court, D. Delaware"
+related: "[[Real Estate Industry]]"
 ---
 
 #blackstone #real-estate #housing #rents #private-equity #schwarzman #institutional-landlord #institutional-landlords #invitation-homes #breit #landlordism

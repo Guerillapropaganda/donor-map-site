@@ -2,7 +2,7 @@
 title: "Rupert Murdoch"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -23,6 +23,7 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, S.D. California"
   - "District Court, S.D. Florida"
+related: "[[Fox News to Pentagon - The Media-Military Pipeline]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]]"
 ---
 
 #donor #murdoch #oligarch #media #fox-news #uk #australia #us

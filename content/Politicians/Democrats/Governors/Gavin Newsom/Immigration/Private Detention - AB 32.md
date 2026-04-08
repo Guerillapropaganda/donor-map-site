@@ -2,9 +2,10 @@
 title: "Private Detention - AB 32"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-23
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
+related: "[[Trump Resistance and the 2028 Play]]"
 ---
 
 

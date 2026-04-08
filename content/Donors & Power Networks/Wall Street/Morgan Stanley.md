@@ -2,7 +2,7 @@
 title: "Morgan Stanley"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -16,6 +16,7 @@ ein: 136155650
 annual-revenue: "$1.0M"
 net-assets: "$18.6M"
 tax-year: "2023"
+related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Charles Schwab]]"
 ---
 
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying

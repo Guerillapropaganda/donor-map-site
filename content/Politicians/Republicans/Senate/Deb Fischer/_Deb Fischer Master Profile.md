@@ -25,6 +25,8 @@ website: "https://www.fischer.senate.gov"
 phone: "202-224-6551"
 total-received: "$572,417"
 fec-candidate-id: "S2NE00094"
+donors: "[[Insurance Industry]]"
+related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
 ---
 
 

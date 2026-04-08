@@ -2,9 +2,10 @@
 title: "2026 Senate Primary Races"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
+related: "[[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]]"
 ---
 
 #2026 #senate #primary #elections #midterm #map #donors #super-pac

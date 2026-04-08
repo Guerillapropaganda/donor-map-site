@@ -2,7 +2,7 @@
 title: "Mike Bost"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,8 @@ state-abbr: "IL"
 district: "12"
 committees:
   - "Veterans' Affairs"
+donors: "[[American Iron and Steel Institute]]"
+related: "[[Mark Takano]]"
 ---
 
 

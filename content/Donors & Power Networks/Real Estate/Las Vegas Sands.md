@@ -43,6 +43,7 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
   - "SCHEDULE 13G/A"
+related: "[[Catherine Cortez Masto]]"
 ---
 
 #sheldon-adelson #casino #megadonor #republican #single-family-donor

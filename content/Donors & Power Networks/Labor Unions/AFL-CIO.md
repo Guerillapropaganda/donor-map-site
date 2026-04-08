@@ -42,6 +42,7 @@ regulatory-agencies:
   - "Financial Stability Oversight Council"
   - "Food Safety and Inspection Service"
   - "Health and Human Services Department"
+related: "[[The Progressive Caucus and the Squad's Institutional Wing]] · [[Adam Schiff]]"
 ---
 
 #afl-cio #labor #unions #federation #democratic #organizing #wages #pro-act #class-analysis #follow-the-money

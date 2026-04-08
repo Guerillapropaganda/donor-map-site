@@ -2,7 +2,7 @@
 title: "Ohio Federation of Teachers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,6 +15,7 @@ subawards-received-amount: 1009778941592127500
 sec-filings: 1
 sec-form-types:
   - "424B3"
+related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]]"
 ---
 
 #ohio #teachers #union #labor #education #democratic #oft #aft #afl-cio #vouchers #public-education #collective-bargaining

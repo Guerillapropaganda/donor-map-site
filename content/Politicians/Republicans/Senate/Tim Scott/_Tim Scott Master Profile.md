@@ -2,7 +2,7 @@
 title: "Tim Scott"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -20,6 +20,8 @@ top-donors:
   - "Senate Leadership Fund"
   - "Michael Bloomberg"
 bioguide-id: "A000383"
+related: "[[Bank of America]] · [[John Cornyn]]"
+donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]]"
 ---
 
 #master-profile #republican #senate #south-carolina #opportunity-zones #corporate-donor #presidential #banking-committee #crypto #wall-street #israel-lobby

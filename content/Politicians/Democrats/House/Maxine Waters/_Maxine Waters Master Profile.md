@@ -2,7 +2,7 @@
 title: "Maxine Waters"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,8 @@ bills-sponsored: 40
 bills-cosponsored: 182
 website: "https://waters.house.gov"
 phone: "202-225-2201"
+donors: "[[California Nurses Association]]"
+related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Gregory Meeks]]"
 ---
 
 #maxine-waters #democrat #california #house #financial-services #ranking-member #phase-6-gavel-power

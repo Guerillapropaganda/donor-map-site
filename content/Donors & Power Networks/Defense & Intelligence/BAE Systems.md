@@ -35,6 +35,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 lei: "8SVCSVKSGDWMW2QHOH83"
 lei-jurisdiction: "GB"
+related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]]"
 ---
 
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia

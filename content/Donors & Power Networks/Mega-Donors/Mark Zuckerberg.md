@@ -2,7 +2,7 @@
 title: "Mark Zuckerberg"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -23,6 +23,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
+related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]]"
 ---
 
 #zuckerberg #meta #facebook #tech #mega-donor #trump-realignment #lobbying #antitrust #ai #section-230

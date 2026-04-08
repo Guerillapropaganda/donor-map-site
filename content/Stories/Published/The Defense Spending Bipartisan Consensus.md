@@ -2,11 +2,12 @@
 title: "The Defense Spending Bipartisan Consensus"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 issues:
   - "Defense & Military"
+related: "[[Think Tank Capture - Foreign Governments Writing US Policy]] · [[The Revolving Door - How Government Service Becomes Industry Employment]]"
 ---
 
 #defense #bipartisan #spending #military-industrial-complex #ndaa #pentagon #lobbying

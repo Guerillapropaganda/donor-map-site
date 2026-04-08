@@ -2,7 +2,7 @@
 title: "Walt Disney Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -37,6 +37,7 @@ ein: 956037079
 annual-revenue: "$2.3M"
 net-assets: "$681K"
 tax-year: "2023"
+related: "[[News Corp - Fox Corporation]]"
 ---
 
 #disney #media #entertainment #lobbying #copyright #florida #desantis

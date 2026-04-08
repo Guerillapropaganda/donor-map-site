@@ -2,9 +2,10 @@
 title: "Enersystems and the Personal Coal Fortune"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Joe Manchin Master Profile]]
+related: "[[The BBB Kill and IRA Fossil Fuel Concessions]]"
 ---
 
 

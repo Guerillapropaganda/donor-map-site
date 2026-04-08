@@ -16,6 +16,7 @@ top-donors:
   - "Koch Network"
 total-received: "$3,443,146"
 fec-candidate-id: "H8WI01156"
+donors: "[[Insurance Industry]] · [[Stand Together]]"
 ---
 
 

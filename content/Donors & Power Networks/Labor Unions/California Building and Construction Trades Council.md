@@ -2,7 +2,7 @@
 title: "California Building and Construction Trades Council"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -14,6 +14,7 @@ issues:
   - "Infrastructure"
 lobbying-spend: 10479974
 lobbying-filings: 106
+related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "John Boozman"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,8 @@ bioguide-id: "A000383"
 stock-trades: 43
 total-received: "$335,864"
 fec-candidate-id: "H2AR03176"
+donors: "[[Walmart - Walton Family]] · [[Tyson Foods]]"
+related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
 ---
 
 

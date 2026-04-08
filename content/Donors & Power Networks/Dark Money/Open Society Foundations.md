@@ -18,6 +18,7 @@ net-assets: "$553"
 tax-year: "2016"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
+related: "[[Center on Budget and Policy Priorities]] · [[Ryan Grim]]"
 ---
 
 #donor #donor-node #dark-money #soros #progressive #democracy-infrastructure #international #criminal-justice-reform

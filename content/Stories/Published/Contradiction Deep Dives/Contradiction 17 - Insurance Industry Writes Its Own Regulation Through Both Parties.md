@@ -2,11 +2,12 @@
 title: "Insurance Industry Writes Its Own Regulation Through Both Parties"
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 issues:
   - "Healthcare"
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 ---
 
 #investigation #contradiction #insurance #healthcare #public-option #medicare-advantage #aca #bipartisan-consensus #class-analysis #revolving-door

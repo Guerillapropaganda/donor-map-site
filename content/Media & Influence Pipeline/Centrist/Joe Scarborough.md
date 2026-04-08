@@ -2,12 +2,12 @@
 title: "Joe Scarborough"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Comcast Corporation]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Comcast Corporation]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Nicolle Wallace]]"
 ---
 
 #media-pipeline #centrist #cable-news #msnbc #ms-now #republican-turned-independent #revolving-door

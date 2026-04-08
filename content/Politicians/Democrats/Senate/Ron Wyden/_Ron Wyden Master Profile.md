@@ -2,7 +2,7 @@
 title: "Ron Wyden"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,6 +18,7 @@ issues:
 total-received: "$133,281"
 fec-candidate-id: "H0OR03026"
 stock-trades: 10
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Adam Smith"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,6 +23,8 @@ top-donors:
   - "Lockheed Martin"
 fec-candidate-id: "S0KS00216"
 bioguide-id: "A000383"
+related: "[[Tom Cole]]"
+donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]]"
 ---
 
 #adam-smith #democrat #washington #house #ranking-member #armed-services #defense #military-industrial-complex #phase-6-gavel-power

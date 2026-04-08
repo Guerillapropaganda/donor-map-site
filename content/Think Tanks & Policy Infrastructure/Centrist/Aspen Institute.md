@@ -2,7 +2,7 @@
 title: "Aspen Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
@@ -22,7 +22,7 @@ court-jurisdictions:
   - "District Court, E.D. Pennsylvania"
 ein: "393347513"
 nonprofit-status: "501(c)(3)"
-related: "[[Goldman Sachs]]"
+related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Urban Institute]]"
 ---
 
 #think-tank #centrist #elite-networking #billionaire-consensus #congressional-influence #class-analysis

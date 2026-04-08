@@ -2,7 +2,7 @@
 title: "United Democracy Project - UDP"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -15,6 +15,7 @@ politicians-funded:
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]]"
 ---
 
 #donor #aipac #super-pac #israel-lobby #udp #dark-money

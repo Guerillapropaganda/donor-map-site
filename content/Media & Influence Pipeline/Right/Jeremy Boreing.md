@@ -2,12 +2,12 @@
 title: "Jeremy Boreing"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Wilks Brothers]]"
+related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Michael Knowles]]"
 ---
 
 #media-pipeline #right #daily-wire #infrastructure #evangelical-capitalism #culture-war

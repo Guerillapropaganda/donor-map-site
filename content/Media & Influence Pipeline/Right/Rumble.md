@@ -2,12 +2,12 @@
 title: "Rumble"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 1
 category: right
 platform: multi-platform
 parent: null
-related: "[[Dan Bongino]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[Tim Pool]] · [[Russell Brand]] · [[Trump Media & Technology Group]] · [[JD Vance]] · [[Peter Thiel]] · [[Howard Lutnick]] · [[Tether]] · [[RT - Russian State Media]]"
+related: "[[Dan Bongino]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[Tim Pool]] · [[Russell Brand]] · [[Trump Media & Technology Group]] · [[JD Vance]] · [[Peter Thiel]] · [[Howard Lutnick]] · [[Tether]] · [[RT - Russian State Media]] · [[Dave Rubin]] · [[Tenet Media]]"
 ---
 
 #media-pipeline #right #video-platform #political-infrastructure #conservative-media #investor-capture #foreign-money #crypto #vertically-integrated

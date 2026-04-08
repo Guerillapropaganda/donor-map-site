@@ -2,7 +2,7 @@
 title: "Kevin McCarthy Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -34,6 +34,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
+related: "[[Cathy McMorris Rodgers Master Profile]]"
 ---
 
 

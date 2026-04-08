@@ -2,7 +2,7 @@
 title: "Real Estate Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -24,6 +24,7 @@ ofac-programs:
   - "TCO"
 lobbying-spend: 32185838
 lobbying-filings: 100
+related: "[[Blackstone Real Estate Political Operation]]"
 ---
 
 #real-estate #industry-bloc #housing #lobbying #1031-exchange #zoning #reit #landlord

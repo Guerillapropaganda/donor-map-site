@@ -2,12 +2,12 @@
 title: "The Daily Wire"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-03-31
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Ben Shapiro]] · [[Matt Walsh]] · [[Michael Knowles]] · [[Andrew Klavan]] · [[Jeremy Boreing]] · [[Wilks Brothers]] · [[Candace Owens]] · [[Steven Crowder]] · [[Jordan Peterson]] · [[Charlie Kirk]]"
+related: "[[Ben Shapiro]] · [[Matt Walsh]] · [[Michael Knowles]] · [[Andrew Klavan]] · [[Jeremy Boreing]] · [[Wilks Brothers]] · [[Candace Owens]] · [[Steven Crowder]] · [[Jordan Peterson]] · [[Charlie Kirk]] · [[Dave Rubin]] · [[Rumble]]"
 ---
 
 #media-pipeline #right #media-network #wilks-brothers #daily-wire #fossil-fuel-money #subscription-model

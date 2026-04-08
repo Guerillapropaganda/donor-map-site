@@ -2,7 +2,7 @@
 title: "Les Wexner - Wexner Family Enterprises"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -14,6 +14,7 @@ politicians-funded:
   - "John Kasich"
 issues:
   - "Israel & Foreign Policy"
+related: "[[Epstein Files and Les Wexner Controversy]]"
 ---
 
 #les-wexner #abigail-wexner #ohio #mega-donor #republican #limited-brands #l-brands #victoria-secret #epstein #columbus #new-albany #retail #wexner-foundation #israel #osu #jobsohio #data-centers #class-analysis #follow-the-money

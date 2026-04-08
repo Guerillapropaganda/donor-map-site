@@ -35,6 +35,7 @@ federal-contracts-count: 25
 federal-grants-count: 0
 top-federal-agency: "Department of Defense"
 top-naics-code: "324110"
+related: "[[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]]"
 ---
 
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis

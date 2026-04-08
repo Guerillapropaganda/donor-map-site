@@ -2,7 +2,7 @@
 title: "JPAC - Jewish Public Affairs Committee of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -16,6 +16,7 @@ last-enriched: "2026-04-07"
 ofac-programs:
   - "BELARUS"
   - "GLOMAG"
+related: "[[Ethnic Studies - Whose History Gets Taught]]"
 ---
 
 
