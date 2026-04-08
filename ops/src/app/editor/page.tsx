@@ -21,7 +21,7 @@ export default function EditorPage() {
   const [confirmDelete, setConfirmDelete] = useState(false)
   const [message, setMessage] = useState<{ text: string; type: "success" | "error" } | null>(null)
   const [dirty, setDirty] = useState(false)
-  const [viewMode, setViewMode] = useState<"edit" | "preview" | "split">("edit")
+  const [viewMode, setViewMode] = useState<"edit" | "preview" | "split" | "live">("edit")
 
   useEffect(() => {
     fetch("/api/vault")
@@ -148,41 +148,72 @@ export default function EditorPage() {
     }
   }
 
-  // Simple markdown to HTML renderer
-  function renderMarkdown(md: string): string {
-    let html = md
-      // Escape HTML
-      .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
-      // Headers
-      .replace(/^### (.+)$/gm, '<h3 style="font-size:14px;font-weight:bold;color:#e4e4e7;margin:16px 0 8px;">$1</h3>')
-      .replace(/^## (.+)$/gm, '<h2 style="font-size:16px;font-weight:bold;color:#e4e4e7;margin:20px 0 10px;border-bottom:1px solid #2a2a35;padding-bottom:6px;">$1</h2>')
-      .replace(/^# (.+)$/gm, '<h1 style="font-size:18px;font-weight:bold;color:#e4e4e7;margin:20px 0 12px;">$1</h1>')
-      // Bold + italic
-      .replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
-      .replace(/\*\*(.+?)\*\*/g, '<strong style="color:#e4e4e7;">$1</strong>')
-      .replace(/\*(.+?)\*/g, '<em>$1</em>')
-      // Strikethrough
-      .replace(/~~(.+?)~~/g, '<del style="opacity:0.5;">$1</del>')
-      // Links
-      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" style="color:#5b8dce;text-decoration:underline;" target="_blank">$1</a>')
-      // Wikilinks
-      .replace(/\[\[([^|\]]+)\|([^\]]+)\]\]/g, '<span style="color:#5b8dce;border-bottom:1px dashed #5b8dce;">$2</span>')
-      .replace(/\[\[([^\]]+)\]\]/g, '<span style="color:#5b8dce;border-bottom:1px dashed #5b8dce;">$1</span>')
-      // Callouts
-      .replace(/&gt; \[!(\w+)\]\s*(.+)/g, '<div style="border-left:3px solid #5b8dce;padding:8px 12px;margin:8px 0;background:#5b8dce10;border-radius:0 6px 6px 0;"><strong style="color:#5b8dce;">$1:</strong> $2</div>')
-      // Blockquotes
-      .replace(/^&gt; (.+)$/gm, '<blockquote style="border-left:3px solid #2a2a35;padding-left:12px;color:#7a7a86;margin:8px 0;">$1</blockquote>')
-      // Unordered lists
-      .replace(/^- (.+)$/gm, '<li style="margin-left:16px;list-style:disc;margin-bottom:4px;">$1</li>')
-      // Horizontal rules
-      .replace(/^---$/gm, '<hr style="border:none;border-top:1px solid #2a2a35;margin:16px 0;">')
-      // Tags
-      .replace(/#(\w[\w-]*)/g, '<span style="color:#f59e0b;font-size:10px;">#$1</span>')
-      // Line breaks
-      .replace(/\n\n/g, '<br><br>')
-      .replace(/\n/g, '<br>')
+  // Build the live site URL for this profile
+  function getLiveUrl(profilePath: string): string {
+    const slug = profilePath
+      .replace("content/", "")
+      .replace(/ /g, "-")
+      .replace(/\.md$/, "")
+    return `https://thedonormap.org/${slug}`
+  }
 
-    return html
+  // Simple markdown to HTML — no escaping since we control the input
+  function renderMarkdown(md: string): string {
+    const lines = md.split("\n")
+    const output: string[] = []
+    let inTable = false
+
+    for (const line of lines) {
+      // Skip frontmatter-like lines at top
+      if (line.startsWith("---")) { output.push('<hr class="md-hr">'); continue }
+
+      // Headers
+      if (line.startsWith("### ")) { output.push(`<h3 class="md-h3">${processInline(line.slice(4))}</h3>`); continue }
+      if (line.startsWith("## ")) { output.push(`<h2 class="md-h2">${processInline(line.slice(3))}</h2>`); continue }
+      if (line.startsWith("# ")) { output.push(`<h1 class="md-h1">${processInline(line.slice(2))}</h1>`); continue }
+
+      // Tables
+      if (line.includes("|") && line.trim().startsWith("|")) {
+        const cells = line.split("|").filter(Boolean).map((c) => c.trim())
+        if (cells.every((c) => /^[-:]+$/.test(c))) continue // separator row
+        if (!inTable) { output.push('<table class="md-table">'); inTable = true }
+        const tag = !inTable ? "th" : "td"
+        output.push("<tr>" + cells.map((c) => `<${tag} class="md-cell">${processInline(c)}</${tag}>`).join("") + "</tr>")
+        continue
+      }
+      if (inTable) { output.push("</table>"); inTable = false }
+
+      // Lists
+      if (line.startsWith("- ")) { output.push(`<div class="md-li">${processInline(line.slice(2))}</div>`); continue }
+
+      // Blockquotes / Callouts
+      if (line.startsWith("> [!")) {
+        const match = line.match(/> \[!(\w+)\]\s*(.*)/)
+        if (match) { output.push(`<div class="md-callout"><span class="md-callout-type">${match[1]}</span> ${processInline(match[2])}</div>`); continue }
+      }
+      if (line.startsWith("> ")) { output.push(`<div class="md-quote">${processInline(line.slice(2))}</div>`); continue }
+
+      // Empty line
+      if (line.trim() === "") { output.push('<div class="md-spacer"></div>'); continue }
+
+      // Regular paragraph
+      output.push(`<p class="md-p">${processInline(line)}</p>`)
+    }
+    if (inTable) output.push("</table>")
+
+    return output.join("")
+  }
+
+  function processInline(text: string): string {
+    return text
+      .replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*(.+?)\*/g, '<em>$1</em>')
+      .replace(/~~(.+?)~~/g, '<del>$1</del>')
+      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="md-link" target="_blank">$1</a>')
+      .replace(/\[\[([^|\]]+)\|([^\]]+)\]\]/g, '<span class="md-wikilink">$2</span>')
+      .replace(/\[\[([^\]]+)\]\]/g, '<span class="md-wikilink">$1</span>')
+      .replace(/#(\w[\w-]*)/g, '<span class="md-tag">#$1</span>')
   }
 
   return (
@@ -292,7 +323,7 @@ export default function EditorPage() {
               <div className="flex items-center justify-between mb-2">
                 <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)]">Content</h3>
                 <div className="flex gap-1 bg-[var(--color-bg)] rounded p-0.5">
-                  {(["edit", "split", "preview"] as const).map((mode) => (
+                  {(["edit", "split", "preview", "live"] as const).map((mode) => (
                     <button
                       key={mode}
                       onClick={() => setViewMode(mode)}
@@ -302,39 +333,68 @@ export default function EditorPage() {
                           : "text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
                       }`}
                     >
-                      {mode === "edit" ? "Edit" : mode === "split" ? "Split" : "Preview"}
+                      {mode === "edit" ? "Edit" : mode === "split" ? "Split" : mode === "preview" ? "Preview" : "Live Site"}
                     </button>
                   ))}
                 </div>
               </div>
 
-              <div className={`flex gap-3 ${viewMode === "split" ? "" : ""}`}>
-                {/* Editor pane */}
-                {(viewMode === "edit" || viewMode === "split") && (
-                  <textarea
-                    value={body}
-                    onChange={(e) => { setBody(e.target.value); setDirty(true) }}
-                    className={`bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg px-3 py-2 text-[11px] text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)] min-h-[50vh] resize-y font-mono leading-relaxed ${
-                      viewMode === "split" ? "w-1/2" : "w-full"
-                    }`}
-                    spellCheck={false}
-                  />
-                )}
-
-                {/* Preview pane */}
-                {(viewMode === "preview" || viewMode === "split") && (
-                  <div
-                    className={`bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg px-4 py-3 min-h-[50vh] overflow-y-auto prose-invert ${
-                      viewMode === "split" ? "w-1/2" : "w-full"
-                    }`}
-                  >
-                    <div
-                      className="text-[12px] text-[var(--color-text)] leading-relaxed"
-                      dangerouslySetInnerHTML={{ __html: renderMarkdown(body) }}
-                    />
+              {viewMode === "live" ? (
+                /* Live site iframe */
+                <div className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg overflow-hidden" style={{ height: "70vh" }}>
+                  <div className="flex items-center gap-2 px-3 py-1.5 bg-[var(--color-bg-card)] border-b border-[var(--color-border)]">
+                    <span className="w-2 h-2 rounded-full bg-[var(--color-green)]" />
+                    <span className="text-[9px] text-[var(--color-text-dim)] flex-1 truncate">{getLiveUrl(selected.path)}</span>
+                    <a href={getLiveUrl(selected.path)} target="_blank" rel="noopener noreferrer" className="text-[9px] text-[var(--color-steel)] hover:underline">Open</a>
                   </div>
-                )}
-              </div>
+                  <iframe
+                    src={getLiveUrl(selected.path)}
+                    className="w-full border-0"
+                    style={{ height: "calc(70vh - 32px)" }}
+                    title="Live preview"
+                  />
+                </div>
+              ) : (
+                <div className="flex gap-3">
+                  {/* Editor pane */}
+                  {(viewMode === "edit" || viewMode === "split") && (
+                    <textarea
+                      value={body}
+                      onChange={(e) => { setBody(e.target.value); setDirty(true) }}
+                      className={`bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg px-3 py-2 text-[11px] text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)] min-h-[50vh] resize-y font-mono leading-relaxed ${
+                        viewMode === "split" ? "w-1/2" : "w-full"
+                      }`}
+                      spellCheck={false}
+                    />
+                  )}
+
+                  {/* Preview pane */}
+                  {(viewMode === "preview" || viewMode === "split") && (
+                    <div className={`bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg px-4 py-3 min-h-[50vh] overflow-y-auto ${viewMode === "split" ? "w-1/2" : "w-full"}`}>
+                      <style>{`
+                        .md-h1 { font-size: 18px; font-weight: bold; color: #e4e4e7; margin: 20px 0 12px; }
+                        .md-h2 { font-size: 16px; font-weight: bold; color: #e4e4e7; margin: 20px 0 10px; border-bottom: 1px solid #2a2a35; padding-bottom: 6px; }
+                        .md-h3 { font-size: 14px; font-weight: bold; color: #e4e4e7; margin: 16px 0 8px; }
+                        .md-p { font-size: 12px; color: #e4e4e7; line-height: 1.7; margin: 4px 0; }
+                        .md-link { color: #5b8dce; text-decoration: underline; }
+                        .md-wikilink { color: #5b8dce; border-bottom: 1px dashed #5b8dce; cursor: pointer; }
+                        .md-tag { color: #f59e0b; font-size: 10px; background: rgba(245,158,11,0.1); padding: 1px 4px; border-radius: 3px; }
+                        .md-li { font-size: 12px; color: #e4e4e7; margin-left: 16px; padding-left: 8px; border-left: 2px solid #2a2a35; margin-bottom: 4px; }
+                        .md-quote { font-size: 12px; color: #7a7a86; border-left: 3px solid #2a2a35; padding-left: 12px; margin: 8px 0; }
+                        .md-callout { border-left: 3px solid #5b8dce; padding: 8px 12px; margin: 8px 0; background: rgba(91,141,206,0.05); border-radius: 0 6px 6px 0; font-size: 12px; color: #e4e4e7; }
+                        .md-callout-type { color: #5b8dce; font-weight: bold; text-transform: uppercase; font-size: 10px; margin-right: 4px; }
+                        .md-hr { border: none; border-top: 1px solid #2a2a35; margin: 16px 0; }
+                        .md-spacer { height: 12px; }
+                        .md-table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 11px; }
+                        .md-cell { border: 1px solid #2a2a35; padding: 6px 10px; color: #e4e4e7; }
+                        del { opacity: 0.5; text-decoration: line-through; }
+                        strong { color: #e4e4e7; }
+                      `}</style>
+                      <div dangerouslySetInnerHTML={{ __html: renderMarkdown(body) }} />
+                    </div>
+                  )}
+                </div>
+              )}
             </div>
 
             {/* Action bar */}
