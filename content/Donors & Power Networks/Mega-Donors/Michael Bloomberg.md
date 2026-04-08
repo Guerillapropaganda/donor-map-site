@@ -24,7 +24,7 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Justice Department"
   - "Transportation Department"
-related: "[[Harris-Newsom Donor Class Fracture]] · [[Tom Steyer Master Profile]] · [[NextGen America and the Climate-to-Politics Pipeline]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Nancy Pelosi Master Profile]] · [[The Biden Exit and Harris Installation]] · [[Josh Shapiro Master Profile]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
+related: "[[Harris-Newsom Donor Class Fracture]] · [[Tom Steyer Master Profile]] · [[NextGen America and the Climate-to-Politics Pipeline]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Nancy Pelosi Master Profile]] · [[The Biden Exit and Harris Installation]] · [[Josh Shapiro Master Profile]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]]"
 ---
 
 

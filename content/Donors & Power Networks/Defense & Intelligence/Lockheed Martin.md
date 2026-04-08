@@ -28,20 +28,7 @@ subawards-received: 50
 subawards-received-amount: 2946802998
 top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "561990"
-related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]]"
-court-cases: 21890
-last-enriched: "2026-04-08"
-court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "District Court, D. Arizona"
-  - "District Court, D. Connecticut"
-  - "District Court, D. Delaware"
-  - "District Court, D. New Jersey"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, E.D. Texas"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
+related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door

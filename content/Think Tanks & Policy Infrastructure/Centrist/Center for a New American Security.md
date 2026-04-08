@@ -7,16 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
-related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
-federal-register-mentions: 4
-last-enriched: "2026-04-08"
-regulatory-agencies:
-  - "Commerce Department"
-  - "Defense Department"
-  - "Industry and Security Bureau"
-  - "Labor Department"
-  - "Privacy and Civil Liberties Oversight Board"
-  - "Veterans Employment and Training Service"
+related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]]"
 ---
 
 #think-tank #centrist #defense #national-security #revolving-door #military-industrial-complex #class-analysis

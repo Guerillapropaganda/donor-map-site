@@ -25,19 +25,7 @@ regulatory-agencies:
   - "Federal Deposit Insurance Corporation"
   - "Federal Housing Finance Agency"
   - "Federal Reserve System"
-related: "[[Charles Koch]] · [[Harlan Crow]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Carlyle Group]] · [[Federalist Society]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
-court-cases: 686
-court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Colorado"
-  - "District Court, D. Utah"
-  - "District Court, D. Vermont"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Indiana"
-  - "District Court, W.D. Washington"
+related: "[[Charles Koch]] · [[Harlan Crow]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Carlyle Group]] · [[Federalist Society]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]]"
 ---
 
 #think-tank #conservative #neoconservative #defense-policy #climate-denial #revolving-door #dark-money #deregulation #tax-policy

@@ -22,14 +22,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Securities and Exchange Commission"
-related: "[[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]]"
-subawards-issued: 5
-subawards-issued-amount: 3361827
-subawards-received: 5
-subawards-received-amount: 3361827
-lei: "5493000JIXZDTNYC2638"
-lei-jurisdiction: "IN"
-lei-parent: "RTX CORPORATION"
+related: "[[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]] · [[2026-03-26 Finance Research]]"
 ---
 
 #raytheon #rtx #defense #redirect

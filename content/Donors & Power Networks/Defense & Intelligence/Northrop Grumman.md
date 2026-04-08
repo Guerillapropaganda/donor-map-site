@@ -61,19 +61,7 @@ sec-form-types:
 federal-awards-total: 9185964914
 federal-contracts-count: 25
 federal-grants-count: 12
-related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]]"
-federal-register-mentions: 354
-last-enriched: "2026-04-08"
-regulatory-agencies:
-  - "Antitrust Division"
-  - "Defense Department"
-  - "Environmental Protection Agency"
-  - "Federal Communications Commission"
-  - "Federal Trade Commission"
-  - "Health and Human Services Department"
-  - "Justice Department"
-  - "Pipeline and Hazardous Materials Safety Administration"
-  - "Transportation Department"
+related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[John Ratcliffe Master Profile]]"
 ---
 
 

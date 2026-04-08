@@ -19,20 +19,7 @@ sec-form-types:
   - "S-1/A"
   - "S-4"
   - "S-4/A"
-related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Subject Matter (now Avoq)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]]"
-doj-press-mentions: "264349"
-last-enriched: "2026-04-08"
-doj-components:
-  - "Civil Rights Division"
-  - "Cyber Division (FBI)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "National Security Division (NSD)"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Subject Matter (now Avoq)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]]"
 ---
 
 #lobbying #k-street #tech #healthcare #taxes #trade #bipartisan #big-tech
