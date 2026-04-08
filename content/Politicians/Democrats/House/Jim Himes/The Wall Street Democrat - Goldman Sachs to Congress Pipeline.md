@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Jim Himes Master Profile]]"
-related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]]"
+related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
 ---
 
 #himes #wall-street #goldman-sachs #financial-services #revolving-door #connecticut

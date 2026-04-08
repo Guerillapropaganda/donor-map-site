@@ -25,7 +25,7 @@ ein: 455097038
 annual-revenue: "$2.0M"
 net-assets: "$8.5M"
 tax-year: "2023"
-related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
+related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Dan Osborn Master Profile]]"
 ---
 
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis

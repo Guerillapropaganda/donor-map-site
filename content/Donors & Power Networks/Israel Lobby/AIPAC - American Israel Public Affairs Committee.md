@@ -25,7 +25,7 @@ ofac-programs:
 total-political-spend: "$790,700"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[JCRC Bay Area]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
+related: "[[JCRC Bay Area]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 opposes: "[[Katie Halper]] · [[Abby Martin]]"
 ---
 

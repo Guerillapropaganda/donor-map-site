@@ -25,7 +25,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[J Street]] · [[Jon Ossoff Master Profile]]"
+related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]]"
 ---
 
 #hollywood #entertainment #donors #democratic #bundling #cultural-influence #israel-lobby #revolving-door #copyright #mpaa

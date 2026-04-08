@@ -36,7 +36,7 @@ total-political-spend: "$9,177,680"
 politicians-funded:
   - "Sherrod Brown"
   - "Richard Neal"
-related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]]"
+related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]] · [[Democratic Donor Network]]"
 ---
 
 #ohio #democratic-party #state-party #rust-belt #labor #decline #donor-class #working-class

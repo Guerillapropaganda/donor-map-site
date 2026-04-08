@@ -8,7 +8,7 @@ parent: null
 issues:
   - "Israel & Foreign Policy"
   - "Technology"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Georgia 2026 Senate Race]]"
 ---
 
 #2026-election #house #illinois #race-frame #aipac #crypto #ai-pac #primary

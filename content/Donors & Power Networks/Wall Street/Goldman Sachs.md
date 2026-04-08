@@ -29,7 +29,7 @@ regulatory-agencies:
   - "Labor Department"
   - "Securities and Exchange Commission"
   - "Treasury Department"
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
 ---
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Kyle Kulinski]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
+related: "[[Kyle Kulinski]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Dave Rubin]]"
 donors: "(subscription-funded — Reid Hoffman → People's House Project; Enjeti: Hudson Institute fellowships prior to launch)"
 ---
 

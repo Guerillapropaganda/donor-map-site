@@ -13,7 +13,7 @@ regulatory-agencies:
   - "Federal Election Commission"
   - "Postal Regulatory Commission"
   - "Securities and Exchange Commission"
-related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]]"
+related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]]"
 ---
 
 #dscc #senate #democratic #campaign #fundraising #party-committee

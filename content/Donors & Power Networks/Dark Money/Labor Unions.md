@@ -29,7 +29,7 @@ court-jurisdictions:
   - "District Court, M.D. Florida"
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
-related: "[[Dan Osborn Master Profile]] · [[Jeff Merkley Master Profile]]"
+related: "[[Dan Osborn Master Profile]] · [[Jeff Merkley Master Profile]] · [[Joseph Morelle Master Profile]]"
 ---
 
 #labor #unions #democratic #organizing #collective-bargaining #pac #decline

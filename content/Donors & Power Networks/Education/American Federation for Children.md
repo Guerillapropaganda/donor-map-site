@@ -26,7 +26,7 @@ court-jurisdictions:
   - "District Court, M.D. Tennessee"
   - "District Court, N.D. California"
   - "District Court, W.D. Washington"
-related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]]"
+related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]]"
 ---
 
 

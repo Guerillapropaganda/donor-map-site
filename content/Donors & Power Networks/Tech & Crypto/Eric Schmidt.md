@@ -26,7 +26,7 @@ regulatory-agencies:
   - "Federal Communications Commission"
   - "Federal Deposit Insurance Corporation"
   - "National Security Commission on Artificial Intelligence"
-related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]]"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Matt Mahan Master Profile]]"
 ---
 
 #donor-node #tech #google #defense #AI #revolving-door #mega-donor #nscai #schmidt-futures #china #dark-money #class-analysis #follow-the-money

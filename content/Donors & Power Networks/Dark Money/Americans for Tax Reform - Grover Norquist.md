@@ -9,7 +9,7 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]]"
+related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]]"
 ---
 
 #atr #norquist #tax-pledge #anti-tax #grover #lobbying #dark-money #republican

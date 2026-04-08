@@ -14,7 +14,7 @@ issues:
 ein: "933113620"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
-related: "[[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]"
+related: "[[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Criminal Justice and DOJ - Donors and Backers]]"
 ---
 
 

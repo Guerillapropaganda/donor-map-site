@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Hasan Piker]] · [[Sam Seder]] · [[_Media Pipeline Framework]] · [[John Oliver]] · [[David Pakman]]"
+related: "[[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Hasan Piker]] · [[Sam Seder]] · [[_Media Pipeline Framework]] · [[John Oliver]] · [[David Pakman]] · [[TYT Network - The Young Turks]]"
 donors: "(audience-funded — no institutional donor)"
 ---
 

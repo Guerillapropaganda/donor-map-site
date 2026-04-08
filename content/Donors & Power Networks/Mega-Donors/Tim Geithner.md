@@ -27,7 +27,7 @@ sec-form-types:
   - "N-CSR/A"
   - "N-CSRS"
 total-political-spend: "$469,350"
-related: "[[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]]"
+related: "[[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Tim Geithner Political Operation]]"
 ---
 
 #donor #revolving-door #wall-street #treasury #warburg-pincus #bailout #financial-crisis #class-analysis #follow-the-money

@@ -9,7 +9,7 @@ sector: "Pharma & Healthcare"
 entity-type: "PAC"
 issues:
   - "Healthcare"
-related: "[[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]]"
+related: "[[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Centene Corporation PAC]]"
 ---
 
 #anthem #elevance #insurance #healthcare #pac #bipartisan #aca

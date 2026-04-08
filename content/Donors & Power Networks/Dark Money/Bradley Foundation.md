@@ -35,7 +35,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]]"
+related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]]"
 ---
 
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure

@@ -8,7 +8,7 @@ parent: null
 category: conservative
 tax-status: 501c3
 deepening-pass: 2026-03-26
-related: "[[Bradley Foundation]] · [[Koch Network - Charles Koch]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]]"
+related: "[[Bradley Foundation]] · [[Koch Network - Charles Koch]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]]"
 ---
 
 #think-tank #conservative #new-right #natural-law #straussian #Jan6 #personnel-pipeline #anti-progressive #class-analysis

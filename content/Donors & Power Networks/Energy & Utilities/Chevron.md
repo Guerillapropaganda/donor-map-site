@@ -25,7 +25,7 @@ ein: 510189525
 annual-revenue: "$222K"
 net-assets: "$781K"
 tax-year: "2023"
-related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]]"
+related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]]"
 ---
 
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund

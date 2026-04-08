@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 issues:
   - "Criminal Justice"
-related: "[[Payday Lending Survives Through Bipartisan Protection]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]]"
+related: "[[Payday Lending Survives Through Bipartisan Protection]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 — Tech Monopolies Buy Antitrust Protection From Both Parties]]"
 ---
 
 #contradiction #prison-telecom #criminal-justice #monopoly #class-analysis

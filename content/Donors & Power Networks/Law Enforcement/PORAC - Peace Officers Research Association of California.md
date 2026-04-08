@@ -24,7 +24,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Chad Bianco Master Profile]] · [[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]]"
+related: "[[Chad Bianco Master Profile]] · [[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Gun and Public Safety - Donors and Backers]]"
 ---
 
 

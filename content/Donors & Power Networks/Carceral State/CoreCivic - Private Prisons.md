@@ -24,7 +24,7 @@ doj-components:
   - "USAO - New York, Northern"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]]"
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]]"
 ---
 
 #corecivic #private-prison #carceral #cca #immigration #detention #lobbying #incarceration #ice #revolving-door #trump

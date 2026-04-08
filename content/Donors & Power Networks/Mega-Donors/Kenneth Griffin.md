@@ -47,7 +47,7 @@ regulatory-agencies:
   - "Federal Motor Carrier Safety Administration"
   - "Securities and Exchange Commission"
   - "Transportation Department"
-related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]]"
 ---
 
 

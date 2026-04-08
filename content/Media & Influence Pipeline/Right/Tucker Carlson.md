@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim Pool]] · [[Steven Crowder]]"
+related: "[[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]]"
 ---
 
 #media-pipeline #right #fox-news #replacement-theory #dark-money #russia #independence-theater

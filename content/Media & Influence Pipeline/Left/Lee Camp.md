@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[Abby Martin]] · [[Chris Hedges]] · [[Jimmy Dore]] · [[George Galloway]]"
+related: "[[Abby Martin]] · [[Chris Hedges]] · [[Jimmy Dore]] · [[George Galloway]] · [[Owen Jones]]"
 ---
 
 #media-pipeline #left #anti-war #RT-america #russian-state-media #socialist #dark-money #independence-theater

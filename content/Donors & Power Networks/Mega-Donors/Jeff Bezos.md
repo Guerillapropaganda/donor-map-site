@@ -44,7 +44,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Patty Murray]]"
+related: "[[Patty Murray]] · [[Maria Cantwell]]"
 ---
 
 #bezos #amazon #blue-origin #washington-post #mega-donor #media #space

@@ -12,7 +12,7 @@ issues:
   - "Energy & Climate"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[DeVos Family]] · [[2026-03-25 Finance Research]]"
+related: "[[DeVos Family]] · [[2026-03-25 Finance Research]] · [[Freedom Partners Chamber of Commerce]]"
 ---
 
 #alec #dark-money #model-legislation #corporate #state-level #lobbying #koch #stand-your-ground #voter-id #right-to-work #tort-reform #anti-union #fossil-fuel #ag-gag #anti-esg #class-analysis

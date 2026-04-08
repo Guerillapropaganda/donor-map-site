@@ -21,7 +21,7 @@ top-donors:
   - "Michael Bloomberg"
 bioguide-id: "A000383"
 related: "[[Bank of America]] · [[John Cornyn]]"
-donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]]"
+donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]]"
 ---
 
 #master-profile #republican #senate #south-carolina #opportunity-zones #corporate-donor #presidential #banking-committee #crypto #wall-street #israel-lobby

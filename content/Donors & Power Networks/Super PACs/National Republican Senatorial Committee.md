@@ -25,7 +25,7 @@ court-jurisdictions:
   - "District Court, D. Utah"
   - "District Court, District of Columbia"
   - "District Court, W.D. Michigan"
-related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]]"
+related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]] · [[Florida 2026 Special Senate Election]]"
 ---
 
 #nrsc #senate #republican #campaign #fundraising #party-committee #class-analysis #follow-the-money

@@ -21,7 +21,7 @@ top-naics-code: "541519"
 federal-awards-total: 1387500
 federal-contracts-count: 25
 federal-grants-count: 6
-related: "[[Council on Foreign Relations]] · [[BGR Group]]"
+related: "[[Council on Foreign Relations]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]]"
 ---
 
 #blackrock #asset-management #wall-street #esg #index-funds #lobbying #larry-fink

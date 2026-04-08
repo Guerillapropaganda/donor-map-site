@@ -41,7 +41,7 @@ regulatory-agencies:
   - "Safety and Environmental Enforcement Bureau"
   - "Securities and Exchange Commission"
   - "Veterans Employment and Training Service"
-related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]]"
+related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]]"
 ---
 
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor

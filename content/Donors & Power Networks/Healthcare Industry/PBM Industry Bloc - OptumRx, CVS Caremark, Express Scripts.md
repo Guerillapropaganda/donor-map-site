@@ -9,7 +9,7 @@ sector: "Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-related: "[[Johnson & Johnson]] · [[Kaiser Permanente]]"
+related: "[[Johnson & Johnson]] · [[Kaiser Permanente]] · [[Humana]]"
 ---
 
 

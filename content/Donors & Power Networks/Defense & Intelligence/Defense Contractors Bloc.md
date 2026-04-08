@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Defense & Military"
-related: "[[Pete Hegseth Master Profile]] · [[Veterans and Military - Donors and Backers]]"
+related: "[[Pete Hegseth Master Profile]] · [[Veterans and Military - Donors and Backers]] · [[Tammy Duckworth]]"
 ---
 
 #defense #contractors #bloc #military-industrial #bipartisan #ndaa #revolving-door #lobbying #pentagon #procurement

@@ -11,7 +11,7 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Israel & Foreign Policy"
-related: "[[Haim Saban]] · [[Ethnic Studies - Whose History Gets Taught]]"
+related: "[[Haim Saban]] · [[Ethnic Studies - Whose History Gets Taught]] · [[DMFI - Democratic Majority for Israel]]"
 ---
 
 

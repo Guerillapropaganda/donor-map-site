@@ -27,7 +27,7 @@ website: "https://bobbyscott.house.gov"
 phone: "202-225-8351"
 total-received: "$135,250"
 fec-candidate-id: "H6GA02115"
-donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]]"
+donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]]"
 related: "[[Tim Walberg]]"
 ---
 
