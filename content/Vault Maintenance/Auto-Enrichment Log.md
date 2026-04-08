@@ -153,6 +153,24 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-08 04:29 UTC — 12 profiles
+
+**nonprofit-990 — 12 profiles:**
+- Donors Capital Fund — EIN 541934032, 501(c)(3), rev $8.4M
+- Starbucks — EIN 911795425, 501(c)(3), rev $2.8M
+- International Association of Chiefs of Police — EIN 530227813, 501(c)(3), rev $42.8M
+- MassMutual — EIN 474967720, 501(c)(3), rev $58.9M
+- Sinclair Broadcast Group — EIN 911500276, 501(c)(3), rev $211K
+- Walmart — EIN 710569421, 501(c)(9), rev $3.74B
+- Lyft — EIN 852458757, 501(c)(3), rev N/A
+- Koch Network - Charles Koch — EIN 480918408, 501(c)(3), rev $1.2M
+- Bradley Foundation — EIN 330771070, 501(c)(3), rev $9K
+- Future Forward USA Action — EIN 824170762, 501(c)(4), rev $624.6M
+- BAE Systems — EIN 742624710, 501(c)(9), rev $534.2M
+- David Sacks — EIN 746417564, 501(c)(3), rev $142K
+
+---
 ## 2026-04-08 03:37 UTC — 9 profiles
 
 **federal-register — 9 profiles:**

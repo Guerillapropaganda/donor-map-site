@@ -9,18 +9,21 @@ sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Dark Money & Campaign Finance"
-ein: 824170762
+ein: "824170762"
 annual-revenue: "$65.7M"
 net-assets: "$7.5M"
 tax-year: "2022"
 court-cases: 4
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, D. New Jersey"
   - "District Court, District of Columbia"
   - "District Court, N.D. Texas"
   - "United States Bankruptcy Court, S.D. Texas"
 related: "[[Senate Majority PAC]]"
+nonprofit-status: "501(c)(4)"
+total-revenue: 624582324
+total-assets: 26668352
 ---
 
 #donor-node #super-pac #democratic #dark-money #501c4
@@ -144,3 +147,26 @@ research-status:: ready — Promoted Session 39.
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Future%20Forward%20USA%20Action%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 824170762 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $624.6M |
+| Total Assets | $26.7M |
+| NTEE Code | W05 |
+| IRS Ruling Date | 2018-10-01 |
+| Filings on Record | 4 |
+
+**Filing history:** 2022, 2021, 2020, 2018
+
+**View 990 filings:**
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/824170762/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/824170762/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/824170762/2020)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/824170762/2018)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/824170762) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -14,7 +14,7 @@ politicians-funded:
   - "Jon Ossoff"
 issues:
   - "Technology"
-ein: 746417564
+ein: "746417564"
 annual-revenue: "$22K"
 net-assets: "$634K"
 tax-year: "2023"
@@ -57,8 +57,11 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, N.D. Ohio"
   - "District Court, S.D. New York"
-donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]]"
-related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[The Billionaire Cabinet - Wealthiest Administration in History]]"
+donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Founders Fund]]"
+related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[Sherrod Brown]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 141736
+total-assets: 670965
 ---
 
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast
@@ -499,3 +502,28 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22David%20Sacks%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 746417564 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $142K |
+| Total Assets | $671K |
+| NTEE Code | T22 |
+| IRS Ruling Date | 2000-05-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/746417564/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/746417564/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/746417564/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/746417564/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/746417564/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/746417564) (Tier 1)
+<!-- auto:nonprofit-990 end -->

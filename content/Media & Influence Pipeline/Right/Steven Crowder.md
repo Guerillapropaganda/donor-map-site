@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Rumble]]"
+related: "[[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Rumble]] · [[Tenet Media]]"
 ---
 
 #media-pipeline #right #conservative-media #youtube #rumble #daily-wire #billionaire-funding #anti-union #culture-war

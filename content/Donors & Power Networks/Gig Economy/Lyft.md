@@ -34,7 +34,9 @@ court-jurisdictions:
   - "District Court, E.D. Michigan"
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
-related: "[[Instacart]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Instacart]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Airbnb]]"
+ein: "852458757"
+nonprofit-status: "501(c)(3)"
 ---
 
 
@@ -300,3 +302,16 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lyft%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 852458757 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | A99 |
+| IRS Ruling Date | 2021-02-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/852458757) (Tier 1)
+<!-- auto:nonprofit-990 end -->

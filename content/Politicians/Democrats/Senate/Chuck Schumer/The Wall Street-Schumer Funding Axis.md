@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Chuck Schumer Master Profile]]
-related: "[[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[Goldman Sachs and the Heidi Cruz Connection]]"
+related: "[[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Schwarzman Connection and Private Equity Capture]]"
 ---
 
 
