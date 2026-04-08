@@ -87,10 +87,25 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
         return (b.completeness || 0) - (a.completeness || 0)
       }
       if (sortBy === "stale") {
-        // Never enriched first, then oldest enriched first
         const aTime = a.lastEnriched ? new Date(a.lastEnriched).getTime() : 0
         const bTime = b.lastEnriched ? new Date(b.lastEnriched).getTime() : 0
         return aTime - bTime
+      }
+      if (sortBy === "nearest-a-plus") {
+        // Score: higher = closer to A+. Verified at top, then by source types + completeness + enrichment
+        const scoreProfile = (p: typeof a) => {
+          let s = 0
+          if (p.contentReadiness === "verified") s += 1000
+          if (p.contentReadiness === "ready") s += 500
+          if (p.contentReadiness === "draft") s += 100
+          s += (p.sourceTypes || []).length * 50
+          s += (p.completeness || 0) * 2
+          if (p.lastEnriched) s += 100
+          if (p.related || p.donors) s += 50
+          if (p.lastVerifiedBy) s += 200
+          return s
+        }
+        return scoreProfile(b) - scoreProfile(a)
       }
       return 0
     })
@@ -143,30 +158,47 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
           ))}
         </select>
 
-        {/* Readiness filter */}
-        <select
-          value={readinessFilter}
-          onChange={(e) => setReadinessFilter(e.target.value)}
-          className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-3 py-2.5 text-xs text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)]"
-        >
-          <option value="all">All Readiness</option>
-          {READINESS_LABELS.map((r) => (
-            <option key={r} value={r}>{r}</option>
-          ))}
-        </select>
-
         {/* Sort */}
         <select
           value={sortBy}
-          onChange={(e) => setSortBy(e.target.value as "name" | "readiness" | "updated" | "completeness" | "stale")}
+          onChange={(e) => setSortBy(e.target.value as "name" | "readiness" | "updated" | "completeness" | "stale" | "nearest-a-plus")}
           className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-3 py-2.5 text-xs text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)]"
         >
           <option value="name">Sort: Name</option>
+          <option value="nearest-a-plus">Sort: Nearest to A+</option>
           <option value="readiness">Sort: Readiness</option>
           <option value="updated">Sort: Last Updated</option>
           <option value="completeness">Sort: Completeness</option>
           <option value="stale">Sort: Most Stale</option>
         </select>
+      </div>
+
+      {/* Readiness Scroller */}
+      <div className="flex items-center gap-2 mb-3 overflow-x-auto pb-1">
+        <span className="text-[9px] text-[var(--color-text-dim)] uppercase tracking-wider flex-shrink-0">Grade:</span>
+        {[
+          { value: "all", label: "All", grade: "", color: "#7a7a86" },
+          { value: "verified", label: "Verified", grade: "A+", color: "#fbbf24" },
+          { value: "ready", label: "Ready", grade: "B", color: "#10b981" },
+          { value: "draft", label: "Draft", grade: "C", color: "#f59e0b" },
+          { value: "raw", label: "Raw", grade: "D-F", color: "#6b7280" },
+        ].map((r) => {
+          const count = r.value === "all" ? profiles.length : profiles.filter(p => p.contentReadiness === r.value).length
+          const isActive = readinessFilter === r.value
+          return (
+            <button key={r.value} onClick={() => setReadinessFilter(r.value)}
+              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-[10px] font-bold transition-all flex-shrink-0 ${isActive ? "" : "opacity-70 hover:opacity-100"}`}
+              style={{
+                color: r.color,
+                backgroundColor: isActive ? `${r.color}20` : `${r.color}08`,
+                border: `1px solid ${isActive ? `${r.color}50` : "transparent"}`,
+              }}>
+              {r.grade && <span className="text-[8px]">{r.grade}</span>}
+              <span>{r.label}</span>
+              <span className="text-[8px] opacity-60">{count}</span>
+            </button>
+          )
+        })}
       </div>
 
       {/* A-Z Navigation Bar */}

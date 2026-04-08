@@ -71,11 +71,12 @@ export default function ProfilePage() {
 
   // Browse state (when no profile selected)
   const [browseSearch, setBrowseSearch] = useState("")
-  const [allProfiles, setAllProfiles] = useState<{ title: string; path: string; type: string; contentReadiness: string; party?: string; state?: string; sector?: string }[]>([])
+  const [allProfiles, setAllProfiles] = useState<{ title: string; path: string; type: string; contentReadiness: string; party?: string; state?: string; sector?: string; completeness?: number; sourceTypes?: string[]; lastEnriched?: string; lastVerifiedBy?: string; related?: string; donors?: string }[]>([])
   const [browseLoading, setBrowseLoading] = useState(false)
   const [browseLetterFilter, setBrowseLetterFilter] = useState("all")
   const [browseTypeFilter, setBrowseTypeFilter] = useState("all")
   const [browseReadinessFilter, setBrowseReadinessFilter] = useState("all")
+  const [browseSortBy, setBrowseSortBy] = useState<"name" | "nearest-a-plus" | "completeness">("name")
 
   useEffect(() => {
     if (!profilePath) return
@@ -217,7 +218,27 @@ export default function ProfilePage() {
       if (letterFilter === "#") filtered = filtered.filter((p) => /^[0-9]/.test(p.title))
       else filtered = filtered.filter((p) => p.title.charAt(0).toUpperCase() === letterFilter)
     }
-    filtered.sort((a, b) => a.title.localeCompare(b.title))
+    if (browseSortBy === "nearest-a-plus") {
+      filtered.sort((a, b) => {
+        const score = (p: typeof a) => {
+          let s = 0
+          if (p.contentReadiness === "verified") s += 1000
+          if (p.contentReadiness === "ready") s += 500
+          if (p.contentReadiness === "draft") s += 100
+          s += (p.sourceTypes || []).length * 50
+          s += (p.completeness || 0) * 2
+          if (p.lastEnriched) s += 100
+          if (p.related || p.donors) s += 50
+          if (p.lastVerifiedBy) s += 200
+          return s
+        }
+        return score(b) - score(a)
+      })
+    } else if (browseSortBy === "completeness") {
+      filtered.sort((a, b) => (b.completeness || 0) - (a.completeness || 0))
+    } else {
+      filtered.sort((a, b) => a.title.localeCompare(b.title))
+    }
 
     const availableLetters = new Set<string>()
     allProfiles.forEach((p) => {
@@ -242,6 +263,12 @@ export default function ProfilePage() {
             className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-3 py-2.5 text-xs text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)]">
             <option value="all">All Types</option>
             {types.map((t) => <option key={t} value={t}>{t}</option>)}
+          </select>
+          <select value={browseSortBy} onChange={(e) => setBrowseSortBy(e.target.value as "name" | "nearest-a-plus" | "completeness")}
+            className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-3 py-2.5 text-xs text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)]">
+            <option value="name">Sort: Name</option>
+            <option value="nearest-a-plus">Sort: Nearest to A+</option>
+            <option value="completeness">Sort: Completeness</option>
           </select>
         </div>
 
@@ -298,21 +325,51 @@ export default function ProfilePage() {
           <div className="text-xs text-[var(--color-text-dim)] animate-pulse">Loading profiles...</div>
         ) : (
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-2">
-            {filtered.slice(0, 100).map((p) => (
-              <button key={p.path} onClick={() => router.push(`/profile?path=${encodeURIComponent(p.path)}`)}
-                className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3 text-left hover:border-[var(--color-steel)]/50 transition-colors">
-                <span className="text-[7px] uppercase px-1 py-0.5 rounded mb-1 inline-block"
-                  style={{ color: typeColor(p.type), backgroundColor: `${typeColor(p.type)}15` }}>{p.type}</span>
-                <p className="text-[11px] font-bold text-[var(--color-text)] leading-tight line-clamp-2 mb-1">{p.title}</p>
-                <div className="flex items-center gap-1.5">
-                  {p.party && <span className={`text-[7px] px-1 rounded ${p.party === "Democrat" ? "bg-blue-500/20 text-blue-400" : p.party === "Republican" ? "bg-red-500/20 text-red-400" : "bg-gray-500/20 text-gray-400"}`}>
-                    {p.party === "Democrat" ? "D" : p.party === "Republican" ? "R" : "I"}
-                  </span>}
-                  {p.state && <span className="text-[7px] text-[var(--color-text-dim)]">{p.state}</span>}
-                  <span className="text-[7px] uppercase ml-auto" style={{ color: readinessColor(p.contentReadiness) }}>{p.contentReadiness}</span>
-                </div>
-              </button>
-            ))}
+            {filtered.slice(0, 100).map((p) => {
+              const comp = p.completeness || 0
+              const compColor = comp >= 80 ? "#22c55e" : comp >= 50 ? "#5b8dce" : comp >= 25 ? "#f59e0b" : "#ef4444"
+              return (
+                <button key={p.path} onClick={() => router.push(`/profile?path=${encodeURIComponent(p.path)}`)}
+                  className="group relative bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3 text-left hover:border-[var(--color-steel)]/50 transition-colors">
+                  {/* Completeness ring + readiness */}
+                  <div className="absolute top-2 right-2 flex items-center gap-1">
+                    {comp > 0 && (
+                      <div className="relative w-5 h-5" title={`${comp}% complete`}>
+                        <svg className="w-5 h-5 -rotate-90" viewBox="0 0 24 24">
+                          <circle cx="12" cy="12" r="10" fill="none" stroke="var(--color-border)" strokeWidth="2" />
+                          <circle cx="12" cy="12" r="10" fill="none" stroke={compColor} strokeWidth="2" strokeLinecap="round"
+                            strokeDasharray={`${(comp / 100) * 62.83} 62.83`} />
+                        </svg>
+                        <span className="absolute inset-0 flex items-center justify-center text-[5px] font-bold text-[var(--color-text-dim)]">{comp}</span>
+                      </div>
+                    )}
+                    <span className="text-[7px] uppercase font-bold px-1 py-0.5 rounded"
+                      style={{ color: readinessColor(p.contentReadiness), backgroundColor: `${readinessColor(p.contentReadiness)}15`, border: `1px solid ${readinessColor(p.contentReadiness)}30` }}>
+                      {p.contentReadiness}
+                    </span>
+                  </div>
+                  <span className="text-[7px] uppercase px-1 py-0.5 rounded mb-1 inline-block"
+                    style={{ color: typeColor(p.type), backgroundColor: `${typeColor(p.type)}15` }}>{p.type}</span>
+                  <p className="text-[11px] font-bold text-[var(--color-text)] leading-tight line-clamp-2 mb-1 pr-14">{p.title}</p>
+                  <div className="flex items-center gap-1.5">
+                    {p.party && <span className={`text-[7px] px-1 rounded ${p.party === "Democrat" ? "bg-blue-500/20 text-blue-400" : p.party === "Republican" ? "bg-red-500/20 text-red-400" : "bg-gray-500/20 text-gray-400"}`}>
+                      {p.party === "Democrat" ? "D" : p.party === "Republican" ? "R" : "I"}
+                    </span>}
+                    {p.state && <span className="text-[7px] text-[var(--color-text-dim)]">{p.state}</span>}
+                    {p.sector && <span className="text-[7px] text-[var(--color-text-dim)] truncate max-w-[80px]">{p.sector}</span>}
+                  </div>
+                  {/* Source types indicator */}
+                  {(p.sourceTypes || []).length > 0 && (
+                    <div className="mt-1 flex items-center gap-1">
+                      <span className="text-[7px] text-[var(--color-green)]">{(p.sourceTypes || []).length} Tier 1 types</span>
+                      {(p.sourceTypes || []).length >= 2 && !p.lastVerifiedBy && (
+                        <span className="text-[7px] text-[#fbbf24]">A+ candidate</span>
+                      )}
+                    </div>
+                  )}
+                </button>
+              )
+            })}
           </div>
         )}
         {filtered.length > 100 && <p className="text-[9px] text-[var(--color-text-dim)] mt-3">Showing first 100 of {filtered.length}. Use search or filters to narrow down.</p>}
