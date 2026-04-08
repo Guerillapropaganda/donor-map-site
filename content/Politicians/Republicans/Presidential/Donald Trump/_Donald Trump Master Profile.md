@@ -35,7 +35,8 @@ doj-components:
   - 'USAO - Ohio, Northern'
   - 'USAO - Ohio, Southern'
 opposes: "[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]]"
-related: "[[The Culture War Economy - Who Profits From Division]] · [[Vivek Ramaswamy Master Profile]]"
+donors: "[[Elon Musk]] · [[Peter Thiel]] · [[Miriam Adelson]] · [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Kenneth Griffin]] · [[Crypto Industry Bloc]] · [[GEO Group]]"
+related: "[[The Culture War Economy - Who Profits From Division]] · [[Vivek Ramaswamy Master Profile]] · [[_Chad Bianco Master Profile]] · [[Jeff Yass]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[Rupert Murdoch]] · [[CoreCivic]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Trump Donor Network - The Full Map]] · [[Term 1 vs Term 2 - Trump Comparison]] · [[Trump Crypto - The President as Personal Profiteer]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The related: .5 Trillion Receipt]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir State - Surveillance as Policy]] · [[Immigration Enforcement - The Detention Economy]] · [[Project 2025 - The Blueprint They Followed]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]"
 total-received: "$3,852,435"
 fec-candidate-id: "P80001571"
 internal-notes: "[URL Check 2026-04-08] 29 URLs checked: 25 ok, 2 broken, 2 slow. BROKEN: CBO TCJA analysis, The Hill Palantir contracts. SLOW: Federal Register 2026 EOs, GovTrack.us | [URL Check 2026-04-08] 25 checked: 24 ok, 1 broken, 0 slow. | BROKEN: Preserving America's Game"
@@ -46,13 +47,6 @@ proclamations: 706
 
 
 #trump #master-profile #president #republican #class-analysis #follow-the-money #fascist #grifter #billionaire-populism #donor-class #oligarch
-
-related: [[_Chad Bianco Master Profile]] · [[Jeff Yass]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Ken Griffin]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[Rupert Murdoch]] · [[Crypto Industry Bloc]] · [[CoreCivic]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Trump Donor Network - The Full Map]] · [[Term 1 vs Term 2 - Trump Comparison]] · [[Trump Crypto - The President as Personal Profiteer]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The related: .5 Trillion Receipt]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir State - Surveillance as Policy]] · [[Immigration Enforcement - The Detention Economy]] · [[Project 2025 - The Blueprint They Followed]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]
-
-donors: "[[Elon Musk]], [[Peter Thiel]], [[Miriam Adelson]], [[Jeffrey Yass]], [[Timothy Mellon]], [[Richard and Elizabeth Uihlein|Richard Uihlein]], [[Kenneth Griffin]], [[Crypto Industry Bloc]] · [[GEO Group]]"
-
----
----
 
 ### Who He Is
 
