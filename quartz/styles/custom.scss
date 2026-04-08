@@ -335,8 +335,9 @@ tr:hover td {
   background: #141419 !important;
 }
 
-// ── Responsive tables: stack on mobile ──
-@media (max-width: 768px) {
+// ── Responsive tables: stack vertically on narrow screens ──
+// Applies on mobile AND when content area is narrow (sidebars present)
+@media (max-width: 1100px) {
   table {
     width: 100% !important;
     min-width: unset !important;
