@@ -8,12 +8,13 @@ parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
+  - "Tim Walz"
   - "Tammy Duckworth"
   - "Lindsey Graham"
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$116,675"
-related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]]"
+related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]]"
 ---
 
 #donor-consortium #dark-money #democrat #secretive-giving #class-analysis #donor

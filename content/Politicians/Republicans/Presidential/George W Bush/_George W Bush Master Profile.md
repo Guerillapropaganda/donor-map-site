@@ -2,11 +2,13 @@
 title: "George W. Bush"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
 chamber: "Presidential"
+total-received: "$377,846,444"
+fec-candidate-id: "P00003335"
 ---
 
 #politician #republican #president #2001-2009 #bush-administration #iraq-war #texas-governor
@@ -72,3 +74,34 @@ Bush's use of faith-based rhetoric, patriotic framing post-9/11, and "compassion
 ---
 
 `content-readiness:: ready`
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2004 |
+| Total Raised | $377,846,444 |
+| PAC Contributions | $2,919,246 |
+| Cash on Hand | 19291233.10 |
+| IE Support (Super PAC) | $19,193,577 |
+| IE Opposition (Super PAC) | $172,291,847 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2004 | $377,846,444 | $0 | $2,919,246 |
+| 2000 | $193,657,729 | $0 | $2,229,056 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $0 | $168,981,286 |
+| REPUBLICAN NATIONAL COMMITTEE | $12,878,211 | $0 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $2,388,835 | $631,306 |
+| NRA POLITICAL VICTORY FUND | $1,826,863 | $1,155,364 |
+| REPUBLICAN PARTY OF FLORIDA | $2,099,667 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00003335/) (Tier 1)
+<!-- auto:fec-politician end -->

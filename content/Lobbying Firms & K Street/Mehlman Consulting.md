@@ -19,7 +19,7 @@ sec-form-types:
   - "S-1/A"
   - "S-4"
   - "S-4/A"
-related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Subject Matter (now Avoq)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]]"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Subject Matter (now Avoq)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]]"
 ---
 
 #lobbying #k-street #tech #healthcare #taxes #trade #bipartisan #big-tech

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Cenk Uygur]] · [[Ana Kasparian]] · [[Kyle Kulinski]] · [[Jimmy Dore]] · [[David Pakman]] · [[Sam Seder]] · [[John Oliver]] · [[Rachel Maddow]]"
+related: "[[Cenk Uygur]] · [[Ana Kasparian]] · [[Kyle Kulinski]] · [[Jimmy Dore]] · [[David Pakman]] · [[Sam Seder]] · [[John Oliver]] · [[Rachel Maddow]] · [[Pod Save America]]"
 ---
 
 #media-pipeline #left #media-network #tyt #progressive-media #venture-capital #audience-capture #labor-contradiction #independence-theater

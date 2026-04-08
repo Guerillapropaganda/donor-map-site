@@ -2,7 +2,7 @@
 title: "Brian Mast"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,8 @@ issues:
 top-donors:
   - "AIPAC"
   - "Fanjul Family - Florida Crystals"
+total-received: "$2,368,244"
+fec-candidate-id: "H6FL18097"
 ---
 
 
@@ -148,3 +150,38 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 - [Wikipedia: Brian Mast](https://en.wikipedia.org/wiki/Brian_Mast) (Tier 3)
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $2,368,244 |
+| Individual Contributions | $1,189,989 |
+| PAC Contributions | $199,500 |
+| Cash on Hand | 2301554.19 |
+| IE Support (Super PAC) | $4,070,533 |
+| IE Opposition (Super PAC) | $2,630,232 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $2,368,244 | $1,189,989 | $199,500 |
+| 2024 | $3,998,824 | $1,703,607 | $350,250 |
+| 2022 | $6,338,072 | $2,531,632 | $363,435 |
+| 2020 | $6,196,669 | $2,538,611 | $833,184 |
+| 2018 | $6,120,278 | $2,470,095 | $1,135,946 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| WITH HONOR FUND, INC. | $1,638,382 | $0 |
+| NRCC | $1,305,418 | $0 |
+| HOUSE MAJORITY PAC | $0 | $1,092,265 |
+| DCCC | $0 | $614,220 |
+| SPECIAL OPERATIONS FOR AMERICA | $411,772 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1)
+<!-- auto:fec-politician end -->

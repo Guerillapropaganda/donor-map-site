@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
 court-cases: 13
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, D. Minnesota"
   - "District Court, D. New Jersey"
@@ -20,11 +20,14 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Florida"
   - "District Court, W.D. Washington"
-ein: 541934032
+ein: "541934032"
 annual-revenue: "$696K"
 net-assets: "$9.5M"
 tax-year: "2023"
 related: "[[DeVos Family]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 8448130
+total-assets: 10973631
 ---
 
 #donor #dark-money #donor-advised-fund #501c3 #conservative #koch-network #class-analysis #follow-the-money
@@ -143,3 +146,28 @@ content-readiness:: draft
 
 - [Source: ProPublica Nonprofit Explorer — EIN 541934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 541934032 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $8.4M |
+| Total Assets | $11.0M |
+| NTEE Code | P99 |
+| IRS Ruling Date | 1999-10-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2020)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2018)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
+<!-- auto:nonprofit-990 end -->

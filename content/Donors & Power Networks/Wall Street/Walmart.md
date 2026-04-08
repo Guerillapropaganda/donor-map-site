@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
-ein: 710569421
+ein: "710569421"
 annual-revenue: "$3.5B"
 net-assets: "$890.1M"
 tax-year: "2023"
@@ -39,6 +39,9 @@ court-jurisdictions:
 lobbying-spend: 17705000
 lobbying-filings: 56
 related: "[[The Agriculture-Appropriations Pipeline and Arkansas Defense]]"
+nonprofit-status: "501(c)(9)"
+total-revenue: 3737153584
+total-assets: 902595677
 ---
 
 #walmart #walton #retail #anti-union #minimum-wage #arkansas #bipartisan #corporate-welfare #estate-tax #school-choice #pac
@@ -226,3 +229,27 @@ content-readiness:: developed
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Walmart) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 710569421 |
+| Tax-Exempt Status | 501(c)(9) |
+| Total Revenue | $3.74B |
+| Total Assets | $902.6M |
+| IRS Ruling Date | 1983-09-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/710569421) (Tier 1)
+<!-- auto:nonprofit-990 end -->
