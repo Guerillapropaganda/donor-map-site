@@ -28,20 +28,7 @@ interface CompletedUrl extends VaultUrl {
   completedDate: string
 }
 
-// Persist completed URLs in localStorage
-const COMPLETED_KEY = "donor-map-url-completed"
-
-function loadCompleted(): CompletedUrl[] {
-  if (typeof window === "undefined") return []
-  try {
-    return JSON.parse(localStorage.getItem(COMPLETED_KEY) || "[]")
-  } catch { return [] }
-}
-
-function saveCompleted(items: CompletedUrl[]) {
-  if (typeof window === "undefined") return
-  localStorage.setItem(COMPLETED_KEY, JSON.stringify(items))
-}
+// Completed URLs now derived from vault triageStatus — no localStorage needed
 
 export default function UrlManagerPage() {
   const [urls, setUrls] = useState<CheckedUrl[]>([])
@@ -65,36 +52,21 @@ export default function UrlManagerPage() {
     setTimeout(() => setToast(null), 4000)
   }, [])
 
-  // Load URLs + completed archive
-  useEffect(() => {
-    const savedCompleted = loadCompleted()
-    fetch("/api/urls")
+  // Load URLs from vault (single source of truth)
+  const loadFromVault = useCallback((refresh = false) => {
+    setLoading(true)
+    fetch(`/api/urls${refresh ? "?refresh=true" : ""}`)
       .then((r) => r.json())
       .then((data) => {
-        const completedIds = new Set(savedCompleted.map((c) => c.url + c.profilePath))
         const active: CheckedUrl[] = []
-        const fromVaultCompleted: CompletedUrl[] = []
+        const vaultCompleted: CompletedUrl[] = []
 
         for (const u of (data.urls || []) as VaultUrl[]) {
-          const key = u.url + u.profilePath
-          if (completedIds.has(key)) continue // Already in saved completed
-
           if (u.archived) {
-            // Already archived in vault → goes straight to Completed Archive
-            fromVaultCompleted.push({
-              ...u,
-              completedStatus: "archived-done",
-              completedDate: "from vault",
-            })
+            vaultCompleted.push({ ...u, completedStatus: "archived-done", completedDate: "from vault" })
           } else if (u.triageStatus === "verified") {
-            // Already verified in vault → goes to Completed Archive as confirmed
-            fromVaultCompleted.push({
-              ...u,
-              completedStatus: "confirmed",
-              completedDate: "from vault",
-            })
+            vaultCompleted.push({ ...u, completedStatus: "confirmed", completedDate: "from vault" })
           } else if (u.triageStatus === "unsure") {
-            // Flagged in vault → show in active triage as unsure
             active.push({ ...u, status: "unsure" as UrlStatus })
           } else {
             active.push({ ...u, status: "unchecked" as UrlStatus })
@@ -102,11 +74,13 @@ export default function UrlManagerPage() {
         }
 
         setUrls(active)
-        setCompleted([...savedCompleted, ...fromVaultCompleted])
+        setCompleted(vaultCompleted)
         setLoading(false)
       })
       .catch(() => setLoading(false))
   }, [])
+
+  useEffect(() => { loadFromVault() }, [loadFromVault])
 
   const domains = useMemo(() => {
     const d = new Map<string, number>()
@@ -214,42 +188,22 @@ export default function UrlManagerPage() {
       })
       const data = await res.json()
       if (data.success) {
-        // Move triaged URLs to completed archive
-        const now = new Date().toISOString().split("T")[0]
-        const newCompleted: CompletedUrl[] = changes.map((c) => ({
-          id: c.id, url: c.url, label: c.label, tier: c.tier, archived: false,
-          profile: c.profile, profilePath: c.profilePath, domain: c.domain,
-          completedStatus: (
-            c.newStatus === "ok" ? "confirmed" :
-            c.newStatus === "broken" ? "archived-done" :
-            c.newStatus === "unsure" ? "flagged-done" : "reviewed"
-          ) as CompletedStatus,
-          completedDate: now,
-        }))
-
-        const updatedCompleted = [...completed, ...newCompleted]
-        setCompleted(updatedCompleted)
-        saveCompleted(updatedCompleted)
-
-        // Remove from active list
-        const removedIds = new Set(changes.map((c) => c.id))
-        setUrls((prev) => prev.filter((u) => !removedIds.has(u.id)))
         setOverrides({})
         setHasChanges(false)
         setShowConfirm(false)
         showToast(`Saved: ${data.summary.archived} archived, ${data.summary.confirmed} confirmed, ${data.summary.flagged} flagged`)
+        // Refresh from vault to get updated statuses
+        loadFromVault(true)
       }
     } catch { showToast("Save failed") }
     finally { setSaving(false) }
   }
 
-  // Move completed item back to active triage
-  const undoCompleted = (item: CompletedUrl) => {
-    setCompleted((prev) => {
-      const next = prev.filter((c) => c.id !== item.id)
-      saveCompleted(next)
-      return next
-    })
+  // Move completed item back to active triage (revert in vault via save API)
+  const undoCompleted = async (item: CompletedUrl) => {
+    // To truly undo, we need to remove the marker in the vault
+    // For now, move it to active locally — the user can re-triage and save
+    setCompleted((prev) => prev.filter((c) => c.id !== item.id))
     setUrls((prev) => [...prev, { ...item, status: "unchecked" as UrlStatus }])
     showToast(`Moved "${item.label}" back to Active`)
   }
