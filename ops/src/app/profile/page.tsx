@@ -530,7 +530,13 @@ export default function ProfilePage() {
   }
 
   if (!profile) {
-    return <div className="text-sm text-[var(--color-red)]">Profile not found</div>
+    return (
+      <div className="text-center py-12">
+        <p className="text-sm text-[var(--color-red)] mb-2">Profile not found</p>
+        <p className="text-[10px] text-[var(--color-text-dim)] mb-4">Path: {profilePath}</p>
+        <button onClick={() => router.push("/profile")} className="text-[10px] text-[var(--color-steel)] hover:underline">← Back to browse</button>
+      </div>
+    )
   }
 
   const readinessIndex = READINESS_STEPS.indexOf(profile.contentReadiness)
