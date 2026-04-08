@@ -605,7 +605,29 @@ export default function ProfilePage() {
           {/* Quick actions */}
           <div className="flex gap-2 flex-shrink-0">
             <button
-              onClick={() => { setLoading(true); router.replace(`/profile?path=${encodeURIComponent(profilePath!)}`) }}
+              onClick={async () => {
+                setLoading(true)
+                try {
+                  const [profileData, connData] = await Promise.all([
+                    fetch(`/api/profile?path=${encodeURIComponent(profilePath!)}`).then(r => r.json()),
+                    fetch("/api/connections").then(r => r.json()),
+                  ])
+                  if (profileData.profile) {
+                    setProfile(profileData.profile)
+                    setSources(profileData.sources || null)
+                    setUrls(profileData.urls || [])
+                    setInternalNotes(profileData.profile.internalNotes || "")
+                    setNotesOriginal(profileData.profile.internalNotes || "")
+                  }
+                  const title = profileData.profile?.title || ""
+                  setConnections((connData.connections || []).filter(
+                    (c: Connection) => c.source === title || c.target === title
+                  ))
+                } catch {}
+                setLoading(false)
+                setUrlOverrides({})
+                setUrlNotes({})
+              }}
               className="text-[10px] px-3 py-1.5 rounded-lg bg-[var(--color-bg)]/50 text-[var(--color-text-dim)] border border-[var(--color-border)] hover:text-[var(--color-text)] transition-colors"
               title="Refresh profile"
             >

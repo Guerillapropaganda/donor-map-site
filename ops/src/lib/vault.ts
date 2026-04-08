@@ -120,16 +120,21 @@ export type UrlTriageStatus = "verified" | "broken" | "unsure" | "unchecked"
 // Extract URLs from markdown content
 export function extractUrls(content: string): { url: string; label: string; tier?: number; archived: boolean; triageStatus: UrlTriageStatus; triageNote?: string }[] {
   const urls: { url: string; label: string; tier?: number; archived: boolean; triageStatus: UrlTriageStatus; triageNote?: string }[] = []
-  const linkRegex = /(?:~~)?\[([^\]]+)\]\(([^)]+)\)(?:~~)?(?:\s*\((?:was )?Tier (\d)[^)]*\))?(?:\s*\(VERIFIED(?::\s*([^)]*))?\))?(?:\s*\(NEEDS REVIEW(?::\s*([^)]*))?\))?(?:\s*\([^)]*archived by Ops\))?/g
+
+  // Match both standalone links and [Source: [link](url)] wrapped links
+  // Use a regex that allows nested brackets in the label
+  const linkRegex = /(?:~~)?\[((?:[^\[\]]|\[[^\]]*\])*)\]\((https?:\/\/[^)]+)\)(?:~~)?(?:\s*\((?:was )?Tier (\d)[^)]*\))?(?:\s*\(VERIFIED(?::\s*([^)]*))?\))?(?:\s*\(NEEDS REVIEW(?::\s*([^)]*))?\))?(?:\s*\([^)]*archived by Ops\))?/g
   let match
 
   while ((match = linkRegex.exec(content)) !== null) {
     const full = match[0]
-    const isArchived = full.startsWith("~~")
+    // Check surrounding context for archive markers (may be outside the match)
+    const preIdx = Math.max(0, match.index - 2)
+    const pre = content.slice(preIdx, match.index)
+    const isArchived = full.startsWith("~~") || pre.includes("~~")
     const isVerified = full.includes("(VERIFIED")
     const isUnsure = full.includes("(NEEDS REVIEW")
     const triageStatus: UrlTriageStatus = isArchived ? "broken" : isVerified ? "verified" : isUnsure ? "unsure" : "unchecked"
-    // Extract note from markers: (VERIFIED: note) or (NEEDS REVIEW: note)
     const triageNote = match[4] || match[5] || undefined
     urls.push({
       label: match[1],
