@@ -367,8 +367,8 @@ export default function UrlManagerPage() {
               <div className="flex gap-3 flex-wrap mb-6">
                 <CompletedBox color="#22c55e" label="Confirmed Working" items={completedConfirmed} icon="&#x2705;" />
                 <CompletedBox color="#ef4444" label="Archived (Broken)" items={completedArchived} icon="&#x1F5C4;" />
-                <CompletedBox color="#f59e0b" label="Slow/Redirect Confirmed" items={completedFlagged} icon="&#x26A0;" />
-                <CompletedBox color="#a855f7" label="Flagged for Review" items={completedReviewed} icon="&#x2753;" />
+                <CompletedBox color="#a855f7" label="Flagged for Review" items={completedFlagged} icon="&#x2753;" />
+                <CompletedBox color="#f59e0b" label="Slow/Redirect Confirmed" items={completedReviewed} icon="&#x26A0;" />
               </div>
             </>
           )}
