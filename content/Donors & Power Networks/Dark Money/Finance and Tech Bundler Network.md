@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
   - "Technology"
-related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]]"
+related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]]"
 ---
 
 #bundler #wall-street #tech #fundraising #access #ambassadorships #bipartisan

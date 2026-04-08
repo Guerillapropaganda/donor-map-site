@@ -6,7 +6,7 @@ last-updated: 2026-04-08
 source-tier: 2
 parent: null
 category: centrist
-related: "[[Joe Rogan]] · [[Bill Maher]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]]"
+related: "[[Joe Rogan]] · [[Bill Maher]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]]"
 donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]]"
 ---
 

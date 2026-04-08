@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Peter Thiel]] · [[Elon Musk]] · [[Marc Andreessen and a16z]] · [[Founders Fund]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Nate Silver]]"
+related: "[[Peter Thiel]] · [[Elon Musk]] · [[Marc Andreessen and a16z]] · [[Founders Fund]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Nate Silver]] · [[Glenn Greenwald]]"
 ---
 
 #media-pipeline #centrist #audience-capture #independence-theater #centrist-laundering #climate-denial #covid-misinformation #spotify #ufc
