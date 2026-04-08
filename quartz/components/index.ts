@@ -32,6 +32,7 @@ import IssueExplorer from "./IssueExplorer"
 import PowerRankings from "./PowerRankings"
 import PartySplitMeter from "./PartySplitMeter"
 import ProfileHeader from "./ProfileHeader"
+import VotingRecord from "./VotingRecord"
 import ProfileWidget from "./ProfileWidget"
 import RelatedProfiles from "./RelatedProfiles"
 import WeeklySpotlight from "./WeeklySpotlight"
@@ -80,6 +81,7 @@ export {
   PartySplitMeter,
   PowerRankings,
   ProfileHeader,
+  VotingRecord,
   ProfileWidget,
   RelatedProfiles,
   WeeklySpotlight,
