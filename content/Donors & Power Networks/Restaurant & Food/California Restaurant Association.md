@@ -58,6 +58,10 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. California"
   - "District Court, W.D. Washington"
+federal-register-mentions: 2
+regulatory-agencies:
+  - "Energy Department"
+  - "Environmental Protection Agency"
 ---
 
 
@@ -266,3 +270,19 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Restaurant%20Association%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Rule | 1 |
+| Proposed Rule | 1 |
+| Agencies | Energy Department, Environmental Protection Agency |
+
+**Recent regulatory activity:**
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.federalregister.gov/documents/2024/02/14/2024-02008/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products) (2024-02-14) — Energy Department
+- [Air Quality State Implementation Plans; Approvals and Promulgations: California; 1997 Annual Fine Particulate Matter Serious and Clean Air Act Section 189(d) Nonattainment Area Requirements; San Joaquin Valley, CA](https://www.federalregister.gov/documents/2023/07/14/2023-14687/air-quality-state-implementation-plans-approvals-and-promulgations-california-1997-annual-fine) (2023-07-14) — Environmental Protection Agency
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Restaurant%20Association%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -31,6 +31,28 @@ regulatory-agencies:
   - "Executive Office of the President"
   - "Federal Register, Administrative Committee"
 related: "[[Labor - Donors and Backers]]"
+sec-filings: 40
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-K405"
+  - "10-Q"
+  - "10KSB"
+  - "10KSB40"
+  - "424B3"
+  - "8-K"
+  - "DEFA14A"
+  - "DEFM14A"
+  - "EX-10.40"
+  - "EX-10.50"
+  - "EX-10.9"
+  - "POS AM"
+  - "PREM14A"
+  - "PRER14A"
+  - "S-1"
+  - "S-1/A"
+  - "S-4"
+  - "S-4/A"
 ---
 
 #ufw #farmworkers #labor #cesar-chavez #agriculture #immigration #california
@@ -118,3 +140,21 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22United%20Farm%20Workers%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 40 |
+| Form Types | 10-K, 10-K/A, 10-K405, 10-Q, 10KSB, 10KSB40, 424B3, 8-K +12 more |
+
+**Notable filings:**
+
+- 2004-03-26 — **EX-10.50**: COLLECTIVE BARGAINING AGREEMENT
+- 2002-03-29 — **EX-10.9**: EX-10.9
+- 2001-03-23 — **EX-10.40**: COLLECTIVE BARGAINING AGREEMENT
+- 2010-05-11 — **DEFA14A**: ADDITIONAL MATERIALS
+- 2003-12-30 — **8-K**: 8-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22United%20Farm%20Workers%22) (Tier 1)
+<!-- auto:sec-edgar end -->

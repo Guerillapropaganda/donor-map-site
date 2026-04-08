@@ -15,7 +15,7 @@ federal-grants-count: 1
 lei: "96760004Q9TBK1DS6T62"
 lei-jurisdiction: "BE"
 lei-parent: "E. Merck KG"
-ein: 226028476
+ein: "226028476"
 annual-revenue: "$17.3M"
 net-assets: "$316.2M"
 tax-year: "2023"
@@ -26,6 +26,11 @@ subawards-received-amount: 308700
 top-federal-agency: "Department of Defense"
 top-naics-code: "325412"
 related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Moderna]] · [[Johnson & Johnson]] · [[Cory Booker]]"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 45354708
+total-assets: 328259324
+cpsc-recalls: 1
 ---
 
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation
@@ -196,3 +201,42 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 226028476 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $45.4M |
+| Total Assets | $328.3M |
+| IRS Ruling Date | 1959-03-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/226028476) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 1 |
+| Most Recent Recall | 2015-08-18 |
+| Hazard Types | The bottle cap can be cracked which can cause the child-resistant closure to become ineffective to young children who can gain unintended access to the capsules, posing a risk of poisoning. |
+
+**Recent recalls:**
+
+- [Merck Recalls Temodar and Temozolomide Bottles with Cracked Caps Due to Failure to Meet Child-Resistant Closure Requirement](https://www.cpsc.gov/Recalls/15219) (2015-08-18) — The bottle cap can be cracked which can cause the child-resistant closure to become ineffective to young children who can gain unintended access to the capsules, posing a risk of poisoning.
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Merck) (Tier 1)
+<!-- auto:cpsc-recalls end -->

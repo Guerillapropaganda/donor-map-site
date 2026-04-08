@@ -21,6 +21,17 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
 total-revenue: 10243579
 total-assets: 15848073
+court-cases: 35789
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. South Carolina"
+  - "District Court, E.D. New York"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Georgia"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
+  - "United States Bankruptcy Court, D. Colorado"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying
@@ -158,3 +169,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136155650) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 35,789 |
+| Courts | District Court, C.D. California, District Court, D. South Carolina, District Court, E.D. New York, District Court, N.D. California, District Court, N.D. Georgia, District Court, S.D. New York, District Court, W.D. Texas, United States Bankruptcy Court, D. Colorado +1 more |
+| Case Types | 160 Stockholders Suits, 463 Habeas Corpus - Alien Detainee, 850 Securities/Commodities |
+
+**Notable cases:**
+- Dunn v. Upstart Holdings, Inc. (2026) — District Court, N.D. California
+- Curti v. Winfrey (2026) — District Court, S.D. New York
+- Cabello Trejo v. BONDI (2026) — District Court, W.D. Texas
+- GUTIERREZ-GONZALEZ v. Thompson (2026) — District Court, W.D. Texas
+- Norfolk County Retirement System v. PayPal Holdings, Inc. (2026) — District Court, N.D. California
+- Taboh v. Bondi (2026) — District Court, W.D. Texas
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Morgan%20Stanley%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

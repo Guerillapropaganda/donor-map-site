@@ -24,6 +24,8 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+lobbying-spend: 7197209
+lobbying-filings: 102
 ---
 
 #bundler #wall-street #tech #fundraising #access #ambassadorships #bipartisan
@@ -69,3 +71,22 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Finance%20and%20Tech%20Bundler%20Network%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $7.2M |
+| Quarterly Filings | 102 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 38 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Banking, Budget/Appropriations, Defense, Economics/Economic Development, Education, Energy/Nuclear, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Government Issues, Housing, Insurance, Law Enforcement/Crime/Criminal Justice, Science/Technology, Small Business, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign)
+
+**Lobbying firms:** 1607 STRATEGIES, LLC, 9TH STREET STRATEGIES, ATRIO CONSULTING GROUP, LLC, BANKERS ASSOCIATION FOR FINANCE AND TRADE (FORMERLY KNOWN AS BAFT-IFSA), COMMERCIAL REAL ESTATE FINANCE COUNCIL, CONTINENTAL STRATEGY, LLC, COVENANT GOVERNMENT AFFAIRS, LLC, DALY CONSULTING GROUP, EDUCATION FINANCE COUNCIL, INC., ELITE REAL ESTATE & FINANCE LLC, EQUIPMENT LEASING AND FINANCE ASSOCIATION, FS VECTOR LLC, HOLLAND & KNIGHT LLP, HUSCH BLACKWELL, LLP, K&L GATES, LLP, KRL INTERNATIONAL LLC, MCLARTY INBOUND LLC, MERCURY PUBLIC AFFAIRS, LLC, NORTH SOUTH GOVERNMENT STRATEGIES, FKA JDM PUBLIC STRATEGIES, LLC, OPPORTUNITY FINANCE NETWORK-FORMERLY NATIONAL COMMUNITY CAP, POLARIS GOVERNMENT RELATIONS, LLC, PORTERFIELD, FETTIG & SEARS, LLC, RICH FEUER ANDERSON, RYAN COSTELLO STRATEGIES, S-3 GROUP, SBL STRATEGIES, LLC, SECURITY FINANCE CORPORATION OF SPARTANBURG, SMITHBUCKLIN CORPORATION, SOFTWARE FINANCE AND TAX EXECUTIVES COUNCIL, SQUIRE PATTON BOGGS, STEPTOE LLP, STRATEGIC MARKETING INNOVATIONS, STRUCTURED FINANCE ASSOCIATION, THE VOGEL GROUP, TIBER CREEK GROUP, VAN SCOYOC ASSOCIATES, VENABLE LLP, WEST FRONT STRATEGIES LLC
+
+**Agencies contacted:** Air Force, Dept of, Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Energy, Dept of, Export-Import Bank of the United States (EXIM Bank), Federal Accounting Standards Advisory Board (FASAB), Federal Deposit Insurance Corporation (FDIC), Federal Housing Finance Agency (FHFA) +20 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Finance%20and%20Tech%20Bundler%20Network) (Tier 1)
+<!-- auto:lda-lobbying end -->

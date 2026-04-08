@@ -33,6 +33,8 @@ annual-revenue: "$60.7M"
 net-assets: "$23.2M"
 tax-year: "2023"
 related: "[[Mark Kelly]] · [[Chris Murphy Master Profile]] · [[Gun and Public Safety - Donors and Backers]]"
+lobbying-spend: 5215000
+lobbying-filings: 42
 ---
 
 
@@ -197,3 +199,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 208802884](https://projects.propublica.org/nonprofits/organizations/208802884) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $5.2M |
+| Quarterly Filings | 42 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Firearms/Guns/Ammunition, Health Issues, Taxation/Internal Revenue Code, Veterans
+
+**Lobbying firms:** AVOQ, LLC, COGENT STRATEGIES LLC, EVERYTOWN FOR GUN SAFETY ACTION FUND, MEHLMAN CONSULTING, INC., STRATEGIC PRINCIPLES LLC, THEGROUP DC, LLC, TIBER CREEK GROUP
+
+**Agencies contacted:** Education, Dept of, Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD), Justice, Dept of (DOJ), Labor, Dept of (DOL), SENATE, White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Everytown%20for%20Gun%20Safety) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -8,6 +8,8 @@ parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
 related: "[[HBW Resources]]"
+lobbying-spend: 1170000
+lobbying-filings: 32
 ---
 
 #turkey #erdogan #foreign #lobbying #nato #arms #flynn #fara #kurdish
@@ -48,3 +50,22 @@ F-35 program reinstatement (after S-400 removal), opposition to Kurdish politica
 - [Ballotpedia: Turkey-US relations](https://ballotpedia.org/Turkey_-_Erdogan_Lobbying_Operation) (Tier 3)
 
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.2M |
+| Quarterly Filings | 32 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 4 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Animals, Budget/Appropriations, Clean Air and Water (quality), Energy/Nuclear, Environment/Superfund, Food Industry (safety, labeling, etc.), Fuel/Gas/Oil, Immigration, Labor Issues/Antitrust/Workplace, Natural Resources, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Trucking/Shipping
+
+**Lobbying firms:** CORNERSTONE GOVERNMENT AFFAIRS, INC., HANCE SCARBOROUGH, NATIONAL TURKEY FEDERATION, THE POLICY GROUP
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Environmental Protection Agency (EPA), Federal Maritime Commission, Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Labor, Dept of (DOL), SENATE, State, Dept of (DOS), Transportation, Dept of (DOT) +2 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Turkey%20-%20Erdogan%20Lobbying%20Operation) (Tier 1)
+<!-- auto:lda-lobbying end -->

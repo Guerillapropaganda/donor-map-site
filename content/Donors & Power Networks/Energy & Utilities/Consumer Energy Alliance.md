@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 ofac-programs:
   - "IRAN-EO13846"
 court-cases: 44
@@ -26,6 +26,13 @@ nonprofit-status: "501(c)(4)"
 total-revenue: 3002567
 total-assets: 1618273
 related: "[[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]]"
+federal-register-mentions: 8
+regulatory-agencies:
+  - "Commerce Department"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Energy Regulatory Commission"
+  - "National Oceanic and Atmospheric Administration"
 ---
 
 #fossil-fuel-astroturf #energy-lobby #dark-money #greenwashing #regulatory-capture
@@ -139,3 +146,25 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/261658339) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 8 |
+| Rule | 5 |
+| Proposed Rule | 1 |
+| Notice | 2 |
+| Agencies | Commerce Department, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, National Oceanic and Atmospheric Administration |
+
+**Recent regulatory activity:**
+- [Arizona Underground Injection Control (UIC) Program; Class I-VI Primacy](https://www.federalregister.gov/documents/2025/09/15/2025-17769/arizona-underground-injection-control-uic-program-class-i-vi-primacy) (2025-09-15) — Environmental Protection Agency
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters](https://www.federalregister.gov/documents/2024/12/26/2024-30369/energy-conservation-program-energy-conservation-standards-for-consumer-gas-fired-instantaneous-water) (2024-12-26) — Energy Department
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Furnaces](https://www.federalregister.gov/documents/2023/12/18/2023-25514/energy-conservation-program-energy-conservation-standards-for-consumer-furnaces) (2023-12-18) — Energy Department
+- [Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Geophysical Surveys Related to Oil and Gas Activities in the Gulf of Mexico](https://www.federalregister.gov/documents/2021/01/19/2020-27252/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-related) (2021-01-19) — Commerce Department ★
+- [Qualifying Facility Rates and Requirements Implementation Issues Under the Public Utility Regulatory Policies Act of 1978](https://www.federalregister.gov/documents/2020/09/02/2020-15902/qualifying-facility-rates-and-requirements-implementation-issues-under-the-public-utility-regulatory) (2020-09-02) — Energy Department
+- [Assistance to Foreign Atomic Energy Activities](https://www.federalregister.gov/documents/2013/08/02/2013-18691/assistance-to-foreign-atomic-energy-activities) (2013-08-02) — Energy Department ★
+- ... and 2 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Consumer%20Energy%20Alliance%22) (Tier 1)
+<!-- auto:federal-register end -->

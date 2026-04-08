@@ -9,6 +9,21 @@ annual-revenue: "$65.4M"
 lobbyist-count: 74
 revolving-door-pct: "55.4%"
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[Blackrock]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[Google]] · [[Meta]] · [[Verizon]] · [[Business Roundtable]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cassidy & Associates]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[K&L Gates]]"
+sec-filings: 10000
+sec-form-types:
+  - "8-K"
+  - "CORRESP"
+  - "COVER"
+  - "EX-5"
+  - "EX-5.(C)"
+  - "EX-5.1"
+  - "EX-8"
+  - "EX-8.1"
+  - "EX-8.2"
+  - "EX-8.A"
+  - "EX-99.2"
+  - "POSASR"
+  - "S-8"
 ---
 
 #lobbying #k-street #pharma #defense #finance #tech #trade #bipartisan #revolving-door
@@ -245,3 +260,21 @@ This is what $65 million per year buys. Not policies. Not legislation. Not outco
 - [Akin Gump: Akin Expands Health Policy Platform with Molly (Brimmer) Lolli — E&C Health Subcommittee Senior Counsel, March 2026](https://www.akingump.com/en/insights/press-releases/akin-expands-health-policy-platform-with-addition-of-leading-house-energy-and-commerce-committee-health-staffer-molly-brimmer-lolli) (Tier 3)
 
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 8-K, CORRESP, COVER, EX-5, EX-5.(C), EX-5.1, EX-8, EX-8.1 +5 more |
+
+**Notable filings:**
+
+- 2015-07-23 — **8-K**: 8-K
+- 2017-03-24 — **8-K**: FORM 8-K
+- 2017-01-24 — **8-K**: VIPER 8-K
+- 2014-09-25 — **8-K**: 8-K
+- 2016-07-27 — **8-K**: FORM 8-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Akin%20Gump%20Strauss%20Hauer%20%26%20Feld%22) (Tier 1)
+<!-- auto:sec-edgar end -->

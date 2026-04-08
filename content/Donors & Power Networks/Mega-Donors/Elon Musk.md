@@ -13,7 +13,7 @@ politicians-funded:
   - "Kevin McCarthy"
 issues:
   - "Technology"
-total-political-spend: "$367,346,137"
+total-political-spend: "$367,328,637"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
 doj-components:
@@ -449,6 +449,34 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Elon%20Musk) (Tier 1)
 <!-- auto:fec-donor end -->
+
+<!-- auto:fec-donor pending-merge 2026-04-08 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $367,328,637 |
+| Contributions | 392 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| AMERICA PAC | $297,973,879 | — |
+| RBG PAC | $20,500,000 | — |
+| SLF PAC | $10,000,000 | — |
+| CONGRESSIONAL LEADERSHIP FUND | $10,000,000 | — |
+| SENATE LEADERSHIP FUND | $10,000,000 | — |
+| MAHA ALLIANCE | $6,000,000 | — |
+| MAGA INC. | $5,000,000 | — |
+| THE SENTINEL ACTION FUND | $2,339,600 | — |
+| EARLY VOTE ACTION PAC | $1,000,000 | — |
+| TRUMP 47 COMMITTEE, INC. | $924,600 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Elon%20Musk) (Tier 1)
+
+<!-- auto:fec-donor pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

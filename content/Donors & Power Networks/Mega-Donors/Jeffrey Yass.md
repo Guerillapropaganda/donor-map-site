@@ -18,6 +18,10 @@ last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Securities and Exchange Commission"
 related: "[[Intra-Republican Contradiction Map]] · [[The Ohio Governor Race and the Billionaire Super PAC]]"
+sec-filings: 6
+sec-form-types:
+  - "EX-99.1"
+  - "SC 13D"
 ---
 
 #donor #yass #tiktok #bytedance #trading #libertarian #class-analysis #follow-the-money #trump #school-choice #club-for-growth #mega-donor #pennsylvania-money
@@ -472,3 +476,21 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Jeffrey%20Yass%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 6 |
+| Form Types | EX-99.1, SC 13D |
+
+**Notable filings:**
+
+- 2014-08-11 — **SC 13D**: SC 13D
+- 2016-04-06 — **SC 13D**: SC 13D
+- 2013-08-01 — **SC 13D**: SC 13D
+- 2009-12-21 — **SC 13D**: SC 13D
+- 2021-07-06 — **SC 13D**: SCHEDULE 13D
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jeffrey%20Yass%22) (Tier 1)
+<!-- auto:sec-edgar end -->

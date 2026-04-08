@@ -56,6 +56,18 @@ regulatory-agencies:
   - "Industry and Security Bureau"
   - "Justice Department"
   - "National Institutes of Health"
+court-cases: 7107
+court-jurisdictions:
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, D. Maryland"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Minnesota"
+  - "District Court, D. New Jersey"
+  - "District Court, D. Rhode Island"
+  - "District Court, E.D. Arkansas"
+  - "District Court, E.D. Michigan"
 ---
 
 #pharma #pharmaceutical #lobbying #drug-pricing #bipartisan #medicare #negotiation #revolving-door #dark-money #class-analysis
@@ -286,3 +298,22 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Pharmaceutical%20Industry%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 7,107 |
+| Courts | Court of Appeals for the Eighth Circuit, Court of Appeals for the Third Circuit, District Court, D. Delaware, District Court, D. Maryland, District Court, D. Massachusetts, District Court, D. Minnesota, District Court, D. New Jersey, District Court, D. Rhode Island +7 more |
+| Case Types | 367 P.I.: Health Care/Pharmaceutical Personal Injury Product Liability, 890 Other Statutory Actions, 893 Environmental Matters, 950 Constitutional - State Statute |
+
+**Notable cases:**
+- Techteryx Ltd v. For an Order to Take Discovery for Use in Foreign Proceedings (2026) — District Court, W.D. Oklahoma
+- Barone v. Tempus AI, Inc. (2026) — District Court, N.D. Illinois
+- TinRx Holding Company, Inc. v. CVS Pharmacy, Inc. (2026) — District Court, D. Rhode Island
+- WILLINGBORO MUNICIPAL UTILITIES AUTHORITY v. METHODE ELECTRONICS INC. (2026) — District Court, D. New Jersey
+- AbbVie Inc v. Brown (2026) — District Court, W.D. Washington
+- Praznik v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pharmaceutical%20Industry%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

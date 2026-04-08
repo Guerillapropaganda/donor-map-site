@@ -14,6 +14,19 @@ subawards-received-amount: 30000
 top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "541810"
 related: "[[Sinclair Broadcast Group]]"
+court-cases: 769
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Maryland"
+  - "District Court, N.D. California"
+  - "District Court, W.D. Texas"
+  - "United States Bankruptcy Court, D. Colorado"
+  - "United States Bankruptcy Court, D. Maryland"
+  - "United States Bankruptcy Court, E.D. North Carolina"
+  - "United States Bankruptcy Court, E.D. Tennessee"
+  - "United States Bankruptcy Court, E.D. Virginia"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #iheartmedia #radio #media #consolidation #deregulation #clear-channel #telecom-act
@@ -117,3 +130,22 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 769 |
+| Courts | District Court, C.D. California, District Court, D. Maryland, District Court, N.D. California, District Court, W.D. Texas, United States Bankruptcy Court, D. Colorado, United States Bankruptcy Court, D. Maryland, United States Bankruptcy Court, E.D. North Carolina, United States Bankruptcy Court, E.D. Tennessee +2 more |
+| Case Types | 360 P.I.: Other, 830 Patent |
+
+**Notable cases:**
+- DynaMuse LLC v. iHeartMedia, Inc. (2026) — District Court, W.D. Texas
+- Uncle Nearest, Inc. (2026) — United States Bankruptcy Court, E.D. Tennessee
+- Cumulus Media Inc. (2026) — United States Bankruptcy Court, S.D. Texas
+- Charles & Colvard, Ltd. (2026) — United States Bankruptcy Court, E.D. North Carolina
+- NAVA Health Medical Group, LLC (2026) — United States Bankruptcy Court, E.D. Virginia
+- Armando Hernandez v. iHeartMedia Entertainment Inc. (2026) — District Court, C.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22iHeartMedia%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

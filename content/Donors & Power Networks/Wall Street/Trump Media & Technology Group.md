@@ -27,6 +27,15 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+court-cases: 16
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, District of Columbia"
+  - "District Court, M.D. Florida"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+lei: "6488S3A83U2SRQ48O215"
+lei-jurisdiction: "US-DE"
 ---
 
 #trump-media #truth-social #djt #stock #spac #media
@@ -128,3 +137,37 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Trump%20Media%20%26%20Technology%20Group%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 16 |
+| Courts | District Court, C.D. California, District Court, District of Columbia, District Court, M.D. Florida, District Court, S.D. Florida, District Court, S.D. New York |
+| Case Types | 440 Civil Rights: Other, 470 Racketeer/Corrupt Organization, 850 Securities/Commodities, 896 Other Statutes: Arbitration, Assault Libel & Slander |
+
+**Notable cases:**
+- 4CHAN COMMUNITY SUPPORT LLC v. UK OFFICE OF COMMUNICATIONS (2025) — District Court, District of Columbia
+- Nicole Brooke Beninate v. Chief Justice John G. Roberts, Jr. (2025) — District Court, C.D. California
+- Samantha Rutcoskey v. Chief Justice John Roberts (2025) — District Court, C.D. California
+- Brigette Villarreal v. Donald John Trump (2025) — District Court, C.D. California
+- Alexandra Marie Dean v. Donald J. Trump (2025) — District Court, C.D. California
+- Trump Media & Technology Group Corp. v. ARC Global Investments II LLC (2024) — District Court, M.D. Florida
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trump%20Media%20%26%20Technology%20Group%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [6488S3A83U2SRQ48O215](https://search.gleif.org/#/record/6488S3A83U2SRQ48O215) |
+| Legal Name | TRUMP MEDIA & TECHNOLOGY GROUP, CORP. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-02-26T11:45:29Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

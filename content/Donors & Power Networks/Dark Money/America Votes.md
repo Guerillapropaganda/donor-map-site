@@ -24,6 +24,9 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-08"
 total-revenue: 91066512
 total-assets: 45486683
+federal-register-mentions: 1
+regulatory-agencies:
+  - "Election Assistance Commission"
 ---
 
 #america-votes #dark-money #progressive-coordination #democracy-alliance #infrastructure #voter-mobilization
@@ -204,3 +207,17 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/264568349) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Notice | 1 |
+| Agencies | Election Assistance Commission |
+
+**Recent regulatory activity:**
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2025/04/03/2025-05822/sunshine-act-meetings) (2025-04-03) — Election Assistance Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22America%20Votes%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,7 +2,7 @@
 title: "Jon Husted Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,6 +11,8 @@ top-donors:
   - "Les Wexner"
   - "Centene Corporation"
   - "Senate Leadership Fund"
+total-received: "$7,348,700"
+fec-candidate-id: "S6OH00304"
 ---
 
 #politician #republican #senate
@@ -162,3 +164,28 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $7,348,700 |
+| Individual Contributions | $2,019,591 |
+| PAC Contributions | $1,361,635 |
+| Cash on Hand | 5963438.60 |
+| IE Support (Super PAC) | $1,446,450 |
+| IE Opposition (Super PAC) | $20,940 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SLF PAC | $908,826 | $0 |
+| WIN IT BACK PAC | $500,682 | $0 |
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $36,943 | $0 |
+| INDIVISIBLE ACTION | $0 | $15,476 |
+| ACTIVATE AMERICA | $0 | $5,465 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00304/) (Tier 1)
+<!-- auto:fec-politician end -->

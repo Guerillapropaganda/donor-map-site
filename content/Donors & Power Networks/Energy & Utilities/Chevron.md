@@ -10,7 +10,7 @@ entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
 court-cases: 44045
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. Wisconsin"

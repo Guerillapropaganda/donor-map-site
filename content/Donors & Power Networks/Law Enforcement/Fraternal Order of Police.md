@@ -9,7 +9,7 @@ sector: "Law Enforcement"
 entity-type: "Individual Donor"
 ein: "933414548"
 nonprofit-status: "501(c)(8)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-cases: 5883
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
@@ -46,6 +46,18 @@ sec-form-types:
   - "S-4/A"
   - "SC 14F1"
 related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]]"
+federal-register-mentions: 29
+regulatory-agencies:
+  - "Defense Department"
+  - "Education Department"
+  - "Employee Benefits Security Administration"
+  - "Federal Communications Commission"
+  - "Federal Contract Compliance Programs Office"
+  - "Federal Election Commission"
+  - "Federal Motor Carrier Safety Administration"
+  - "Federal Reserve System"
+  - "Federal Trade Commission"
+  - "Fish and Wildlife Service"
 ---
 
 #fop #police #law-enforcement #union #qualified-immunity #reform-opposition
@@ -168,3 +180,25 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Fraternal%20Order%20of%20Police%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 29 |
+| Final Rules | 12 |
+| Proposed Rules | 7 |
+| Notices | 10 |
+| Agencies | Defense Department, Education Department, Employee Benefits Security Administration, Federal Communications Commission, Federal Contract Compliance Programs Office, Federal Election Commission, Federal Motor Carrier Safety Administration, Federal Reserve System +7 more |
+
+**Recent regulatory activity:**
+- [Parts and Accessories Necessary for Safe Operation; Application for an Exemption From Waymo LLC (USDOT #3000336) and Aurora Operations, Inc. (USDOT #3441156)](https://www.federalregister.gov/documents/2024/12/27/2024-30860/parts-and-accessories-necessary-for-safe-operation-application-for-an-exemption-from-waymo-llc-usdot) (2024-12-27) — Transportation Department
+- [Health and Human Services Grants Regulation](https://www.federalregister.gov/documents/2021/01/12/2021-00207/health-and-human-services-grants-regulation) (2021-01-12) — Health and Human Services Department ★
+- [Fiduciary Duties Regarding Proxy Voting and Shareholder Rights](https://www.federalregister.gov/documents/2020/12/16/2020-27465/fiduciary-duties-regarding-proxy-voting-and-shareholder-rights) (2020-12-16) — Labor Department ★
+- [Implementing Legal Requirements Regarding the Equal Opportunity Clause's Religious Exemption](https://www.federalregister.gov/documents/2020/12/09/2020-26418/implementing-legal-requirements-regarding-the-equal-opportunity-clauses-religious-exemption) (2020-12-09) — Labor Department ★
+- [Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance](https://www.federalregister.gov/documents/2020/05/19/2020-10512/nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal) (2020-05-19) — Education Department ★
+- [Labor Organization Annual Financial Reports: Coverage of Intermediate Bodies](https://www.federalregister.gov/documents/2019/12/17/2019-26699/labor-organization-annual-financial-reports-coverage-of-intermediate-bodies) (2019-12-17) — Labor Department ★
+- ... and 23 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Fraternal%20Order%20of%20Police%22) (Tier 1)
+<!-- auto:federal-register end -->

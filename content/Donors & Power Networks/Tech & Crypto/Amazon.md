@@ -14,10 +14,28 @@ issues:
   - "Labor & Workers"
 ein: "873103053"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 lobbying-spend: 42075000
 lobbying-filings: 59
 related: "[[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Caucus Chair and Inland Empire Logistics Economy]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Alpine Group]] · [[Amy Klobuchar]]"
+subawards-issued: 50
+subawards-issued-amount: 683597304
+subawards-received: 50
+subawards-received-amount: 683597304
+top-federal-agency: "Department of Defense"
+top-naics-code: "518210"
+federal-register-mentions: 797
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Employee Benefits Security Administration"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Export-Import Bank"
+  - "Federal Communications Commission"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Food and Drug Administration"
+  - "General Services Administration"
 ---
 
 
@@ -284,3 +302,84 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($683.6M sampled) |
+| Subawards Received (as sub) | 50 ($683.6M sampled) |
+| Top Federal Agency | Department of Defense ($614.5M) |
+| Primary NAICS Sector | Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services |
+
+**Subcontractors receiving federal money from Amazon:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| AMAZON WEB SERVICES, INC. | $596.7M | 48 |
+| AMAZON WEB SERVICES, INC | $86.8M | 2 |
+
+**Prime contractors funneling federal money to Amazon:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. | $579.9M | 23 |
+| PARSONS GOVERNMENT SERVICES INC. | $58.8M | 19 |
+| BOOZ ALLEN HAMILTON INC. | $24.7M | 2 |
+| CSRA LLC | $4.0M | 1 |
+| ACCENTURE FEDERAL SERVICES LLC | $4.0M | 1 |
+| APPLIED RESEARCH ASSOCIATES, INC. | $3.3M | 1 |
+| JACOBS TECHNOLOGY INC. | $3.0M | 1 |
+| ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN ASTRONOMY, INC. | $2.9M | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $614.5M |
+| General Services Administration | $93.2M |
+| Department of Justice | $73.5M |
+| Department of Agriculture | $28.9M |
+| Department of Energy | $17.4M |
+| Department of the Treasury | $6.7M |
+| Securities and Exchange Commission | $3.3M |
+| National Gallery of Art | $695K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services (518210) | $760.2M |
+| Computer Systems Design Services (541512) | $71.8M |
+| Custom Computer Programming Services (541511) | $5.8M |
+| Other Computer Related Services (541519) | $919K |
+| Stationery and Office Supplies Merchant Wholesalers (424120) | $351K |
+| All Other Professional, Scientific, and Technical Services (541990) | $268K |
+| All Other Miscellaneous Fabricated Metal Product Manufacturing (332999) | $200K |
+| Environmental Consulting Services (541620) | $125K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 797 |
+| Final Rules | 143 |
+| Proposed Rules | 141 |
+| Notices | 506 |
+| Presidential Documents | 7 |
+| Agencies | Antitrust Division, Employee Benefits Security Administration, Energy Department, Environmental Protection Agency, Export-Import Bank, Federal Communications Commission, Federal Energy Regulatory Commission, Federal Trade Commission +7 more |
+
+**Recent regulatory activity:**
+- [Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, To Further Reduce the Costs of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the) (2026-04-01) — Securities and Exchange Commission
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/03/27/2026-05932/privacy-act-of-1974-system-of-records) (2026-03-27) — Export-Import Bank
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/03/26/2026-05870/privacy-act-of-1974-system-of-records) (2026-03-26) — Environmental Protection Agency
+- [Actions Taken at the March 12, 2026 Meeting](https://www.federalregister.gov/documents/2026/03/25/2026-05822/actions-taken-at-the-march-12-2026-meeting) (2026-03-25) — Susquehanna River Basin Commission
+- [Rule Concerning the Use of Prenotification Negative Option Plans](https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans) (2026-03-13) — Federal Trade Commission
+- [Media Bureau Seeks Comment on Sports Broadcasting Practices and Marketplace Developments](https://www.federalregister.gov/documents/2026/03/04/2026-04286/media-bureau-seeks-comment-on-sports-broadcasting-practices-and-marketplace-developments) (2026-03-04) — Federal Communications Commission
+- ... and 791 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Amazon%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -21,6 +21,68 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
 total-revenue: 58873009
 total-assets: 34302568
+sec-filings: 10000
+sec-form-types:
+  - "24F-2NT"
+  - "497"
+  - "8-K"
+  - "DEF 14C"
+  - "EX-99"
+  - "EX-99.(D)(34)"
+  - "EX-99.(G)(10)"
+  - "EX-99.(G)(11)"
+  - "EX-99.(G)(12)"
+  - "EX-99.(G)(6)"
+  - "EX-99.(G)(7)"
+  - "EX-99.(G)(8)"
+  - "EX-99.(G)(9)"
+  - "EX-99.(H)(10)"
+  - "EX-99.(H)(11)"
+  - "EX-99.(H)(15)"
+  - "EX-99.(H)(17)"
+  - "EX-99.(H)(18)"
+  - "EX-99.(H)(19)"
+  - "EX-99.(H)(23)"
+  - "EX-99.(H)(27)"
+  - "EX-99.(H)(28)"
+  - "EX-99.(H)(3)"
+  - "EX-99.(H)(33)"
+  - "EX-99.(H)(35)"
+  - "EX-99.(H)(41)"
+  - "EX-99.(H)(5)"
+  - "EX-99.(H)(6)"
+  - "EX-99.(H)(9)"
+  - "EX-99.(J)(1)"
+  - "EX-99.D(118)"
+  - "EX-99.D(23)"
+  - "EX-99.D(26)"
+  - "EX-99.D(74)"
+  - "EX-99.D.17"
+  - "EX-99.D.26"
+  - "EX-99.D.52"
+  - "EX-99.E(3)"
+  - "EX-99.G(10)"
+  - "EX-99.G(2)"
+  - "EX-99.G(3)"
+  - "EX-99.G(4)"
+  - "EX-99.G(5)"
+  - "EX-99.G(6)"
+  - "EX-99.H(11)"
+  - "EX-99.H(13)"
+  - "EX-99.H(14)"
+  - "EX-99.H(2)"
+  - "EX-99.H(20)"
+  - "EX-99.H(24)"
+  - "EX-99.H(3)"
+  - "EX-99.H(30)"
+  - "EX-99.H(31)"
+  - "EX-99.H(4)"
+  - "EX-99.H(6)"
+  - "EX-99.H(7)"
+  - "EX-99.H(9)"
+  - "EX-99.H40"
+  - "NPORT-P"
+  - "PRE 14A"
 ---
 
 #insurance #financial-services #pac-donor #house-financial-services
@@ -123,3 +185,21 @@ MassMutual represents the regulatory capture of an industry built on information
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474967720) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 24F-2NT, 497, 8-K, DEF 14C, EX-99, EX-99.(D)(34), EX-99.(G)(10), EX-99.(G)(11) +52 more |
+
+**Notable filings:**
+
+- 2022-01-31 — **EX-99.(H)(18)**: AMENDMENT FOUR TO THE SUB-ADMINISTRATIVE SERVICES AGREEMENT BETWEEN MML ADVISERS AND MASSMUTUAL
+- 2024-02-01 — **EX-99.(G)(10)**: APPENDIX A TO THE DELEGATION AGREEMENT BETWEEN THE TRUST AND STATE STREET
+- 2004-10-20 — **497**: MMIF PROSPECTUS SUPPLEMENT
+- 2022-03-02 — **EX-99.(G)(10)**: SECOND AMENDMENT TO THE AMENDED, RESTATED AND CONSOLIDATED DELEGATION AGREEMENT BETWEEN THE TRUST AND STATE STREET
+- 2022-11-18 — **EX-99.(H)(15)**: FORM OF APPENDIX A TO SUB-ADMINISTRATION AGREEMENT
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MassMutual%22) (Tier 1)
+<!-- auto:sec-edgar end -->

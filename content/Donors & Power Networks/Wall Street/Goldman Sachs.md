@@ -13,12 +13,12 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
 total-political-spend: "$2,326,690"
-ein: 311678646
+ein: "311678646"
 annual-revenue: "$-1,397,309"
 net-assets: "$648.2M"
 tax-year: "2023"
 federal-register-mentions: 800
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Comptroller of the Currency"
   - "Employee Benefits Security Administration"
@@ -30,6 +30,9 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
   - "Treasury Department"
 related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Finance Committee and Tax Industry Alignment]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 47401657
+total-assets: 690470487
 ---
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor
@@ -282,3 +285,28 @@ research-status:: ready — Full citation pass complete. $39M career political c
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Goldman%20Sachs%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 311678646 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $47.4M |
+| Total Assets | $690.5M |
+| NTEE Code | T21 |
+| IRS Ruling Date | 1999-12-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/311678646) (Tier 1)
+<!-- auto:nonprofit-990 end -->

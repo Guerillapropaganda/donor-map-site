@@ -91,6 +91,7 @@ related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign
 federal-awards-total: 1913339677
 federal-contracts-count: 25
 federal-grants-count: 25
+cpsc-recalls: 1
 ---
 
 
@@ -440,3 +441,18 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/3460c0b7-631b-b70f-4a8a-1dadb59cc731-R/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 1 |
+| Most Recent Recall | 2018-10-01 |
+| Hazard Types | The packaging is not child resistant as required by the Poison Prevention Packaging Act. The pain relieving cream and spray contain lidocaine, posing a risk of poisoning to young children if they put it on their skin or ingest it. |
+
+**Recent recalls:**
+
+- [UberScientific Recalls Topical Anesthetic Due to Failure to Meet Child Resistant Closure Requirement; Risk of Poisoning](https://www.cpsc.gov/Recalls/19001) (2018-10-01) — The packaging is not child resistant as required by the Poison Prevention Packaging Act. The pain relieving cream and spray contain lidocaine, posing a risk of poisoning to young children if they put it on their skin or ingest it.
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Uber) (Tier 1)
+<!-- auto:cpsc-recalls end -->

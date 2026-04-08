@@ -10,6 +10,11 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Chad Bianco"
 related: "[[UFCW - United Food and Commercial Workers]]"
+ein: "812607816"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 204827
+total-assets: 89679
 ---
 
 
@@ -81,3 +86,25 @@ This is the building trades class position at the local level: aligned with capi
 
 research-status:: ready — 1,200 members, San Bernardino/Inyo/Mono jurisdiction, IEETC training, IE political environment, Bianco contrast, logistics/solar/data center/EV project mapping, prevailing wage frontline analysis. 4 sources, Tier 2-4. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 812607816 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $205K |
+| Total Assets | $90K |
+| NTEE Code | P20 |
+| IRS Ruling Date | 2016-07-01 |
+| Filings on Record | 3 |
+
+**Filing history:** 2023, 2022, 2021
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2021)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/812607816) (Tier 1)
+<!-- auto:nonprofit-990 end -->

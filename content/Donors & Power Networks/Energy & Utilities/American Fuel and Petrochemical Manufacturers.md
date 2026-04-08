@@ -10,10 +10,10 @@ entity-type: "Corporation"
 issues:
   - "Energy & Climate"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 ofac-programs:
   - "IRAN-EO13846"
-ein: 530115970
+ein: "530115970"
 annual-revenue: "$60.8M"
 net-assets: "$74.5M"
 tax-year: "2023"
@@ -32,6 +32,9 @@ court-jurisdictions:
 lobbying-spend: 3142538
 lobbying-filings: 146
 related: "[[Marathon Petroleum]]"
+nonprofit-status: "501(c)(6)"
+total-revenue: 55318139
+total-assets: 57058180
 ---
 
 #donor #energy #fossil-fuel #trade-association #lobbying #republican-lean #climate-obstruction #class-analysis #follow-the-money
@@ -218,3 +221,27 @@ content-readiness:: draft
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=American%20Fuel%20and%20Petrochemical%20Manufacturers) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 530115970 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $55.3M |
+| Total Assets | $57.1M |
+| IRS Ruling Date | 1963-05-01 |
+| Filings on Record | 12 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2016, 2015
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530115970) (Tier 1)
+<!-- auto:nonprofit-990 end -->

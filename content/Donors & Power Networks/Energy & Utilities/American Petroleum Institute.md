@@ -22,6 +22,16 @@ nonprofit-status: "501(c)(6)"
 total-revenue: 268010806
 total-assets: 109879063
 related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Republican Party Apparatus]]"
+total-political-spend: "$24,891,220"
+politicians-funded:
+  - "Steve Scalise"
+  - "Henry Cuellar"
+  - "John Barrasso"
+  - "Mike Johnson"
+  - "Ron Johnson"
+  - "Kevin McCarthy"
+  - "Martin Heinrich"
+  - "Bruce Westerman"
 ---
 
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money
@@ -718,3 +728,28 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Petroleum%20Institute%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $24,891,220 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SENATE LEADERSHIP FUND | $12,500,000 | — |
+| CONGRESSIONAL LEADERSHIP FUND | $8,000,000 | — |
+| SLF PAC | $2,000,000 | — |
+| CLT HOST 2020 INC | $1,500,000 | REP |
+| BLUE DOG POLITICAL ACTION COMMITTEE | $30,000 | — |
+| VICENTE GONZALEZ FOR CONGRESS | $20,000 | DEM |
+| SCALISE FOR CONGRESS | $20,000 | REP |
+| SCALISE LEADERSHIP FUND | $20,000 | — |
+| NEW DEMOCRAT COALITION ACTION FUND | $20,000 | — |
+| TEXANS FOR HENRY CUELLAR CONGRESSIONAL CAMPAIGN | $19,500 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Petroleum%20Institute) (Tier 1)
+<!-- auto:fec-donor end -->

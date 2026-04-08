@@ -26,6 +26,10 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[Ohio Democratic Party]] · [[Center for American Progress]]"
+fara-status: "registrant"
+fara-records: 2
+fara-countries:
+  - "TAIWAN"
 ---
 
 #democratic #party #infrastructure #dnc #dccc #dscc #actblue #organizing
@@ -88,3 +92,19 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Democratic%20Party%20Infrastructure%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 2 |
+| Countries | TAIWAN |
+| Foreign Principal Records | 1 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Democratic Progressive Party (TAIWAN)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Democratic%20Party%20Infrastructure) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

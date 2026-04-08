@@ -14,16 +14,17 @@ ein: 954538000
 annual-revenue: "$249K"
 net-assets: "$131K"
 tax-year: "2023"
-total-political-spend: "$413,004"
+total-political-spend: "$336,000"
 politicians-funded:
   - "Zoe Lofgren"
   - "Cathy McMorris Rodgers"
-  - "Mark Warner"
   - "Hakeem Jeffries"
+  - "Mark Warner"
+  - "Gerry Connolly"
+  - "Adam Smith"
+  - "Jason Smith"
   - "Mike Collins"
   - "Susan Collins"
-  - "Gerry Connolly"
-  - "Chuck Schumer"
 federal-register-mentions: 53
 last-enriched: "2026-04-07"
 regulatory-agencies:
@@ -135,23 +136,23 @@ content-readiness:: ready
 <!-- auto:fec-donor start -->
 | Metric | Value |
 |--------|-------|
-| Total Political Spend | $413,004 |
-| Contributions | 387 |
+| Total Political Spend | $336,000 |
+| Contributions | 300 |
 
 **Top recipients:**
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| MCCAUL FOR CONGRESS, INC | $9,500 | REP |
 | MATSUI FOR CONGRESS | $9,000 | DEM |
-| WALDEN FOR CONGRESS | $9,000 | REP |
 | JAY OBERNOLTE FOR CONGRESS | $7,500 | REP |
 | LOFGREN FOR CONGRESS | $7,500 | DEM |
 | FRIENDS OF JIM CLYBURN | $7,500 | DEM |
 | GARBARINO FOR CONGRESS | $7,000 | REP |
+| MCCAUL FOR CONGRESS, INC | $7,000 | REP |
+| WALDEN FOR CONGRESS | $7,000 | REP |
 | CATHY MCMORRIS RODGERS FOR CONGRESS | $6,500 | REP |
 | DELBENE FOR CONGRESS | $6,250 | DEM |
-| FRIENDS OF MARK WARNER | $6,000 | DEM |
+| JEFFRIES FOR CONGRESS | $5,500 | DEM |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tech%20Industry) (Tier 1)
 <!-- auto:fec-donor end -->

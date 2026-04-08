@@ -21,6 +21,10 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+lei: "549300JMMSS9C5S2HO30"
+lei-jurisdiction: "US-DE"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #vivek-ramaswamy #hedge-fund #biotech-investments #roivant-sciences #venture-capital
@@ -81,3 +85,36 @@ QVT Financial exemplifies how venture capital operators convert business wealth 
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22QVT%20Financial%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300JMMSS9C5S2HO30](https://search.gleif.org/#/record/549300JMMSS9C5S2HO30) |
+| Legal Name | QVT FINANCIAL LP |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-11-18T16:05:00Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=QVT%20Financial) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

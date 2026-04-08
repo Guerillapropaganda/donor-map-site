@@ -11,7 +11,7 @@ issues:
   - "Healthcare"
   - "Antitrust & Monopoly"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 ofac-programs:
   - "SDNTK"
   - "IRAN"
@@ -42,6 +42,17 @@ annual-revenue: "$819.1M"
 net-assets: "$1.1B"
 tax-year: "2023"
 related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[Tammy Baldwin Master Profile]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Chris Murphy Master Profile]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The Insurance Industry Public Option Kill]] · [[Centene Corporation]]"
+court-cases: 825
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. Nevada"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, N.D. Alabama"
+  - "District Court, N.D. California"
+  - "District Court, W.D. Pennsylvania"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #bcbs #blue-cross #blue-shield #insurance #healthcare #lobbying #antitrust #bipartisan #aca #medicare-advantage #public-option #class-analysis #follow-the-money
@@ -305,3 +316,22 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 135656874](https://projects.propublica.org/nonprofits/organizations/135656874) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 825 |
+| Courts | Court of Appeals for the Ninth Circuit, District Court, D. Nevada, District Court, E.D. Michigan, District Court, E.D. New York, District Court, E.D. Pennsylvania, District Court, N.D. Alabama, District Court, N.D. California, District Court, W.D. Pennsylvania +1 more |
+| Case Types | 11 Recovery of money/property - 542 turnover of property; 13 Recovery of money/property - 548 fraudulent transfer, 110 Insurance, 410 Anti-Trust, 791 Labor: E.R.I.S.A., Anti-Trust |
+
+**Notable cases:**
+- Farkas v. Blue Cross Blue Shield Association (2026) — District Court, E.D. New York
+- Healthcare Justice Coalition, LLC v. Blue Cross Blue Shield Association (2026) — District Court, N.D. Alabama
+- GALEN HOSPITAL ALASKA, INC. v. HIGHMARK INC. (2026) — District Court, W.D. Pennsylvania
+- Falls v. Blue Cross Blue Shield of Michigan Mutual Insurance Company (2025) — District Court, E.D. Michigan
+- GERALD SEITZINGER, INDIVIDUALLY AND AS GUARDIAN OF DS v. ARAMARK SERVICES, INC. FSS EMPLOYEE MEDICAL PLAN (2025) — District Court, E.D. Pennsylvania
+- Doe v. United States Office of Personnel Management, et al. (2025) — Court of Appeals for the Ninth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blue%20Cross%20Blue%20Shield%20Association%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

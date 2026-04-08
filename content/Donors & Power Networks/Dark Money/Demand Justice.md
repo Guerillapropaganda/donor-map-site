@@ -13,13 +13,23 @@ issues:
   - "Dark Money & Campaign Finance"
 ein: "863689961"
 nonprofit-status: "501(c)(4)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 total-revenue: 566313
 total-assets: 1534141
 total-political-spend: "$20,000"
 lobbying-spend: 650000
 lobbying-filings: 45
 related: "[[New Venture Fund]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[Jamie Raskin]]"
+court-cases: 240
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Kentucky"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
 ---
 
 #donor-node #dark-money #democrat #judicial-appointments #court-capture #class-analysis #donor
@@ -265,3 +275,22 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 240 |
+| Courts | Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, District of Columbia, District Court, E.D. Kentucky, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. Florida, District Court, S.D. New York |
+| Case Types | 360 P.I.: Other, 440 Civil Rights: Other, 448 Civil Rights: Education, 480 Consumer Credit, 890 Other Statutory Actions |
+
+**Notable cases:**
+- CITIZENS FOR RESPONSIBILITY AND ETHICS IN WASHINGTON v. U.S. DEPARTMENT OF JUSTICE (2026) — District Court, District of Columbia
+- Batista v. Edelman Schwartz PLLC (2026) — District Court, S.D. New York
+- Trump v. Internal Revenue Service (2026) — District Court, S.D. Florida
+- DEMOCRACY FORWARD FOUNDATION v. US DEPARTMENT OF JUSTICE (2025) — District Court, District of Columbia
+- Coronavirus Reporter Corporation, et al. v. United States District Court for the Northern District of California, San Francisco (2025) — Court of Appeals for the Ninth Circuit
+- WHEELER v. BLANCHE (2025) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Demand%20Justice%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -12,7 +12,7 @@ federal-awards-total: 367636564
 federal-contracts-count: 25
 federal-grants-count: 0
 federal-register-mentions: 32
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Antitrust Division"
   - "Defense Department"
@@ -62,6 +62,8 @@ subawards-received-amount: 1110991781
 top-federal-agency: "Department of Defense"
 top-naics-code: "334511"
 related: "[[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]]"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #defense-contractor #surveillance-technology #military-intelligence #l3harris-merger #weapons-systems
@@ -294,3 +296,21 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=L3%20Technologies) (Tier 1)
+<!-- auto:nhtsa-recalls end -->
