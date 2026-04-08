@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "thedonormap.org",
-    ignorePatterns: ["private", "templates", ".obsidian", "_templates", "Vault Maintenance", "Excalidraw", "Assets", "DRAFT-*", "publish.css", "_VAULT_INDEX.md", "**/Internal/**", "**/_README*", "**/README*", "**/Jeffrey Epstein*", "**/Daily Updates/**", "flagged-urls-for-bulk-check.md", "remaining-unverified-urls-for-bulk-check.md"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_templates", "Vault Maintenance", "Excalidraw", "Assets", "Admin Notes", "DRAFT-*", "publish.css", "_VAULT_INDEX.md", "**/Internal/**", "**/_README*", "**/README*", "**/Jeffrey Epstein*", "**/Daily Updates/**", "flagged-urls-for-bulk-check.md", "remaining-unverified-urls-for-bulk-check.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
