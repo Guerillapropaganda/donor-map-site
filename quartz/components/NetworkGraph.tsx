@@ -44,23 +44,58 @@ const NetworkGraph: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
 
       {/* Legend */}
       <div class="dm-ng-legend">
-        <div class="dm-ng-legend-item">
-          <svg width="14" height="14" viewBox="-7 -7 14 14">
-            <polygon points="0,-6 5.2,-3 5.2,3 0,6 -5.2,3 -5.2,-3" fill="#3b82f6" opacity="0.8" />
-          </svg>
-          <span>Democrat</span>
+        <div class="dm-ng-legend-section">
+          <div class="dm-ng-legend-item">
+            <svg width="14" height="14" viewBox="-7 -7 14 14">
+              <polygon points="0,-6 5.2,-3 5.2,3 0,6 -5.2,3 -5.2,-3" fill="#3b82f6" opacity="0.8" />
+            </svg>
+            <span>Democrat</span>
+          </div>
+          <div class="dm-ng-legend-item">
+            <svg width="14" height="14" viewBox="-7 -7 14 14">
+              <polygon points="0,-6 5.2,-3 5.2,3 0,6 -5.2,3 -5.2,-3" fill="#ef4444" opacity="0.8" />
+            </svg>
+            <span>Republican</span>
+          </div>
+          <div class="dm-ng-legend-item">
+            <svg width="14" height="14" viewBox="-7 -7 14 14">
+              <rect x="-6" y="-4.5" width="12" height="9" rx="2" fill="#22c55e" opacity="0.8" />
+            </svg>
+            <span>Donor / Corp</span>
+          </div>
+          <div class="dm-ng-legend-item">
+            <svg width="14" height="14" viewBox="-7 -7 14 14">
+              <polygon points="0,-6 6,0 0,6 -6,0" fill="#f59e0b" opacity="0.8" />
+            </svg>
+            <span>Think Tank</span>
+          </div>
+          <div class="dm-ng-legend-item">
+            <svg width="14" height="14" viewBox="-7 -7 14 14">
+              <polygon points="0,-6 5.2,-3 5.2,3 0,6 -5.2,3 -5.2,-3" fill="#5b8dce" opacity="0.8" />
+            </svg>
+            <span>K Street</span>
+          </div>
+          <div class="dm-ng-legend-item">
+            <svg width="14" height="14" viewBox="-7 -7 14 14">
+              <circle cx="0" cy="0" r="5" fill="#a855f7" opacity="0.8" />
+            </svg>
+            <span>Media</span>
+          </div>
         </div>
-        <div class="dm-ng-legend-item">
-          <svg width="14" height="14" viewBox="-7 -7 14 14">
-            <polygon points="0,-6 5.2,-3 5.2,3 0,6 -5.2,3 -5.2,-3" fill="#ef4444" opacity="0.8" />
-          </svg>
-          <span>Republican</span>
-        </div>
-        <div class="dm-ng-legend-item">
-          <svg width="14" height="14" viewBox="-7 -7 14 14">
-            <rect x="-5" y="-5" width="10" height="10" rx="2" fill="#f59e0b" opacity="0.8" />
-          </svg>
-          <span>Donor / Corp</span>
+        <div class="dm-ng-legend-divider"></div>
+        <div class="dm-ng-legend-section">
+          <div class="dm-ng-legend-item">
+            <svg width="20" height="14" viewBox="0 0 20 14">
+              <line x1="1" y1="7" x2="19" y2="7" stroke="#7a7a86" stroke-width="1.2" stroke-opacity="0.6" />
+            </svg>
+            <span>Allied</span>
+          </div>
+          <div class="dm-ng-legend-item">
+            <svg width="20" height="14" viewBox="0 0 20 14">
+              <line x1="1" y1="7" x2="19" y2="7" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="4,3" stroke-opacity="0.8" />
+            </svg>
+            <span>Opposition</span>
+          </div>
         </div>
       </div>
     </div>

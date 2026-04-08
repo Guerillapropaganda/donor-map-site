@@ -873,6 +873,57 @@ a.pw-bs-recip:hover {
   background: rgba(239, 68, 68, 0.1);
 }
 
+/* ─── Graph Legend ─────────────────────────── */
+.pw-graph-legend {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 10px;
+  background: rgba(12, 12, 15, 0.7);
+  border-top: 1px solid #1e1e28;
+  border-radius: 0 0 6px 6px;
+}
+
+.pw-graph-legend-compact {
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 6px 8px;
+}
+
+.pw-legend-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.pw-graph-legend-compact .pw-legend-section {
+  gap: 6px;
+}
+
+.pw-legend-divider {
+  width: 1px;
+  height: 12px;
+  background: #2a2a36;
+}
+
+.pw-graph-legend-compact .pw-legend-divider {
+  display: none;
+}
+
+.pw-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  color: #7a7a86;
+  white-space: nowrap;
+}
+
+.pw-graph-legend-compact .pw-legend-item {
+  font-size: 8px;
+}
+
 /* ─── Hide on mobile (right sidebar hides) ─── */
 @media (max-width: 800px) {
   .pw-widget {

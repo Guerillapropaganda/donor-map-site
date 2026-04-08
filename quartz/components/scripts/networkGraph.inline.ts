@@ -545,6 +545,74 @@ function initNetworkGraph() {
   })
 }
 
+// ── Graph legend builder ──
+function buildGraphLegend(nodes: any[], edges: any[], compact: boolean): HTMLElement {
+  const legend = document.createElement("div")
+  legend.className = compact ? "pw-graph-legend pw-graph-legend-compact" : "pw-graph-legend"
+
+  // Determine which node types are present
+  const typesPresent = new Set<string>()
+  nodes.forEach((n: any, i: number) => {
+    if (i > 0 && n.type) typesPresent.add(n.type)
+  })
+  const hasOpposition = edges.some((e: any) => e.edgeType === "opposition")
+
+  // Node type legend items with correct shapes
+  const nodeItems: { type: string; label: string; svg: string }[] = []
+
+  // Politicians by party
+  const hasDem = nodes.some((n: any) => n.type === "politician" && n.party === "Democrat")
+  const hasRep = nodes.some((n: any) => n.type === "politician" && n.party === "Republican")
+  if (hasDem) nodeItems.push({ type: "politician", label: "Democrat", svg: `<polygon points="0,-5 4.3,-2.5 4.3,2.5 0,5 -4.3,2.5 -4.3,-2.5" fill="#3b82f6" opacity="0.8"/>` })
+  if (hasRep) nodeItems.push({ type: "politician", label: "Republican", svg: `<polygon points="0,-5 4.3,-2.5 4.3,2.5 0,5 -4.3,2.5 -4.3,-2.5" fill="#ef4444" opacity="0.8"/>` })
+
+  // Other types
+  if (typesPresent.has("donor") || typesPresent.has("corporation") || typesPresent.has("pac"))
+    nodeItems.push({ type: "donor", label: "Donor / Corp", svg: `<rect x="-5" y="-3.5" width="10" height="7" rx="1.5" fill="#22c55e" opacity="0.8"/>` })
+  if (typesPresent.has("think-tank"))
+    nodeItems.push({ type: "think-tank", label: "Think Tank", svg: `<polygon points="0,-5 5,0 0,5 -5,0" fill="#f59e0b" opacity="0.8"/>` })
+  if (typesPresent.has("lobbying"))
+    nodeItems.push({ type: "lobbying", label: "K Street", svg: `<polygon points="0,-5 4.3,-2.5 4.3,2.5 0,5 -4.3,2.5 -4.3,-2.5" fill="#5b8dce" opacity="0.8"/>` })
+  if (typesPresent.has("media"))
+    nodeItems.push({ type: "media", label: "Media", svg: `<circle cx="0" cy="0" r="4" fill="#a855f7" opacity="0.8"/>` })
+
+  // Build node items
+  const nodesSection = document.createElement("div")
+  nodesSection.className = "pw-legend-section"
+  nodeItems.forEach((item) => {
+    const el = document.createElement("div")
+    el.className = "pw-legend-item"
+    el.innerHTML = `<svg width="12" height="12" viewBox="-6 -6 12 12">${item.svg}</svg><span>${item.label}</span>`
+    nodesSection.appendChild(el)
+  })
+  legend.appendChild(nodesSection)
+
+  // Edge type items
+  const edgeItems: { label: string; svg: string }[] = []
+  edgeItems.push({ label: "Allied", svg: `<line x1="0" y1="5" x2="16" y2="5" stroke="#7a7a86" stroke-width="1.2" stroke-opacity="0.5"/>` })
+  if (hasOpposition) {
+    edgeItems.push({ label: "Opposition", svg: `<line x1="0" y1="5" x2="16" y2="5" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="3,2" stroke-opacity="0.8"/>` })
+  }
+
+  if (edgeItems.length > 0) {
+    const divider = document.createElement("div")
+    divider.className = "pw-legend-divider"
+    legend.appendChild(divider)
+
+    const edgesSection = document.createElement("div")
+    edgesSection.className = "pw-legend-section"
+    edgeItems.forEach((item) => {
+      const el = document.createElement("div")
+      el.className = "pw-legend-item"
+      el.innerHTML = `<svg width="16" height="10" viewBox="0 0 16 10">${item.svg}</svg><span>${item.label}</span>`
+      edgesSection.appendChild(el)
+    })
+    legend.appendChild(edgesSection)
+  }
+
+  return legend
+}
+
 // ── Mini-graph for ProfileWidget ──
 function renderMiniGraphInContainer(container: HTMLElement, graphData: string, expanded: boolean) {
   // Clear existing
@@ -793,6 +861,10 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
     const ty = height / 2 - ((minY + maxY) / 2) * scale
     svg.call(zoomBehavior.transform, zoomIdentity.translate(tx, ty).scale(scale))
   }, 100)
+
+  // Add legend
+  const legend = buildGraphLegend(data.nodes, data.edges, !expanded)
+  container.appendChild(legend)
 }
 
 function initMiniGraph() {

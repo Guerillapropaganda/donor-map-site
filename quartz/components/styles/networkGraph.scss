@@ -146,17 +146,31 @@
   bottom: 12px;
   left: 12px;
   display: flex;
-  gap: 12px;
-  background: rgba(19, 19, 26, 0.9);
+  align-items: center;
+  gap: 8px;
+  background: rgba(19, 19, 26, 0.92);
   border: 1px solid #1e1e28;
   border-radius: 6px;
   padding: 8px 12px;
+  backdrop-filter: blur(4px);
+}
+
+.dm-ng-legend-section {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.dm-ng-legend-divider {
+  width: 1px;
+  height: 14px;
+  background: #2a2a36;
 }
 
 .dm-ng-legend-item {
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 4px;
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   color: #8a8a96;
@@ -190,8 +204,16 @@
   }
 
   .dm-ng-legend {
-    gap: 8px;
+    gap: 6px;
     padding: 6px 8px;
+    flex-wrap: wrap;
+  }
+
+  .dm-ng-legend-section {
+    gap: 6px;
+  }
+
+  .dm-ng-legend-item {
     font-size: 9px;
   }
 }
