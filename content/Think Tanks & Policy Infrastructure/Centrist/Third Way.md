@@ -2,7 +2,7 @@
 title: "Third Way"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
@@ -13,6 +13,8 @@ last-enriched: "2026-04-07"
 total-revenue: 60561784
 total-assets: 65953090
 related: "[[Goldman Sachs]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Democracy Alliance]]"
+lei: "213800S9PS2GFGFQQB08"
+lei-jurisdiction: "GB"
 ---
 
 #think-tank #centrist #wall-street #corporate-democrat #anti-progressive #class-analysis
@@ -231,3 +233,18 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201734070) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [213800S9PS2GFGFQQB08](https://search.gleif.org/#/record/213800S9PS2GFGFQQB08) |
+| Legal Name | HOLT JCB LIMITED |
+| Jurisdiction | GB |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2016-05-04T14:04:21Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

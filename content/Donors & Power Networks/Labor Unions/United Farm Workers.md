@@ -2,7 +2,7 @@
 title: "United Farm Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -17,6 +17,19 @@ net-assets: "$5.7M"
 tax-year: "2020"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
+federal-register-mentions: 59
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Children and Families Administration"
+  - "Coast Guard"
+  - "Education Department"
+  - "Employee Benefits Security Administration"
+  - "Employment and Training Administration"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Executive Office for Immigration Review"
+  - "Executive Office of the President"
+  - "Federal Register, Administrative Committee"
 ---
 
 #ufw #farmworkers #labor #cesar-chavez #agriculture #immigration #california
@@ -81,3 +94,26 @@ content-readiness:: ready
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
 ### Federal Subawards & Spending Breakdown
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 59 |
+| Final Rules | 32 |
+| Proposed Rules | 9 |
+| Notices | 6 |
+| Presidential Documents | 12 |
+| Agencies | Children and Families Administration, Coast Guard, Education Department, Employee Benefits Security Administration, Employment and Training Administration, Energy Department, Environmental Protection Agency, Executive Office for Immigration Review +7 more |
+
+**Recent regulatory activity:**
+- [Reducing Bureaucracy and Burden for Refugee Resettlement Programs](https://www.federalregister.gov/documents/2026/03/27/2026-06027/reducing-bureaucracy-and-burden-for-refugee-resettlement-programs) (2026-03-27) — Health and Human Services Department
+- [Security Bars and Processing; Confirmation of Effective Date; Partial Withdrawal](https://www.federalregister.gov/documents/2025/12/30/2025-23970/security-bars-and-processing-confirmation-of-effective-date-partial-withdrawal) (2025-12-30) — Homeland Security Department ★
+- [Civil Monetary Penalty Adjustments for Inflation](https://www.federalregister.gov/documents/2025/12/29/2025-23808/civil-monetary-penalty-adjustments-for-inflation) (2025-12-29) — Homeland Security Department
+- [COVID-19 Mitigation Policy Requirement in Head Start Programs; Recission](https://www.federalregister.gov/documents/2025/12/19/2025-23452/covid-19-mitigation-policy-requirement-in-head-start-programs-recission) (2025-12-19) — Health and Human Services Department ★
+- [Adverse Effect Wage Rate Methodology for the Temporary Employment of H-2A Nonimmigrants in Non-Range Occupations in the United States](https://www.federalregister.gov/documents/2025/10/02/2025-19365/adverse-effect-wage-rate-methodology-for-the-temporary-employment-of-h-2a-nonimmigrants-in-non-range) (2025-10-02) — Labor Department ★
+- [Energy Conservation Program: Commercial Warm Air Furnaces; Final Determination](https://www.federalregister.gov/documents/2025/01/17/2025-01082/energy-conservation-program-commercial-warm-air-furnaces-final-determination) (2025-01-17) — Energy Department
+- ... and 53 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22United%20Farm%20Workers%22) (Tier 1)
+<!-- auto:federal-register end -->

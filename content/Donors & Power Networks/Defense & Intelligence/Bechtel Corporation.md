@@ -2,7 +2,7 @@
 title: "Bechtel Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -12,7 +12,7 @@ issues:
 lobbying-spend: 2980000
 lobbying-filings: 51
 court-cases: 2808
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"
   - "Court of Appeals for the Second Circuit"

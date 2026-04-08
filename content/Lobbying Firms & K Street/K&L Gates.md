@@ -2,7 +2,7 @@
 title: "K&L Gates"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$20.8M (2025)"
@@ -21,6 +21,32 @@ fara-countries:
 lei: "984500BYEBE6DF7F5U39"
 lei-jurisdiction: "GB"
 related: "[[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]]"
+sec-filings: 10000
+sec-form-types:
+  - "8-K"
+  - "CORRESP"
+  - "EX-11"
+  - "EX-12"
+  - "EX-16"
+  - "EX-25"
+  - "EX-5"
+  - "EX-5.1"
+  - "EX-5.2"
+  - "EX-99"
+  - "EX-99.(1)(2)"
+  - "EX-99.(12)"
+  - "EX-99.(12)(A)"
+  - "EX-99.(12)(B)"
+  - "EX-99.(I)(2)"
+  - "EX-99.(I)(3)"
+  - "EX-99.(L)"
+  - "EX-99.12"
+  - "EX-99.14(B)"
+  - "EX-99.L.1"
+  - "EX-99.L.3"
+  - "EX-99.N.1"
+  - "EX-99.N.2"
+  - "POS EX"
 ---
 
 #lobbying #k-street #maritime #financial-services #energy #transportation #tech #steel #defense
@@ -285,3 +311,21 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 8-K, CORRESP, EX-11, EX-12, EX-16, EX-25, EX-5, EX-5.1 +16 more |
+
+**Notable filings:**
+
+- 2024-02-16 — **EX-16**: EXHIBIT 16
+- 2025-12-09 — **EX-99**: EXHIBIT 99
+- 2021-04-06 — **CORRESP**: CORRESP
+- 2009-03-24 — **8-K**: FORM 8-K
+- 2024-02-16 — **EX-12**: EXHIBIT 12
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22K%26L%20Gates%22) (Tier 1)
+<!-- auto:sec-edgar end -->

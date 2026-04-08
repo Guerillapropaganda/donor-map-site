@@ -2,7 +2,7 @@
 title: "American Federation for Children"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Education"
@@ -16,6 +16,16 @@ net-assets: "$5.2M"
 tax-year: "2023"
 lobbying-spend: 3142538
 lobbying-filings: 146
+court-cases: 12
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Louisiana"
+  - "District Court, M.D. Alabama"
+  - "District Court, M.D. Florida"
+  - "District Court, M.D. Tennessee"
+  - "District Court, N.D. California"
+  - "District Court, W.D. Washington"
 ---
 
 
@@ -190,14 +200,14 @@ content-readiness:: ready
 | Metric | Value |
 |--------|-------|
 | Politicians Funded | 1 |
-| Federal Contractor | Yes |
+| Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Virginia Foxx]] (Education & Labor) — contracts: $1.9M
+- [[Virginia Foxx]] (Education & Labor) — lobbying: $3.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -232,3 +242,22 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=American%20Federation%20for%20Children) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 12 |
+| Courts | District Court, District of Columbia, District Court, E.D. Louisiana, District Court, M.D. Alabama, District Court, M.D. Florida, District Court, M.D. Tennessee, District Court, N.D. California, District Court, W.D. Washington |
+| Case Types | 442 Civil Rights: Jobs, 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions, 899 Administrative Procedure Act/Review or Appeal of Agency Decision, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- LOMA LINDA-INLAND CONSORTIUM FOR HEALTHCARE EDUCATION v. NATIONAL LABOR RELATIONS BOARD (2023) — District Court, District of Columbia
+- Mason Classical Academy, Inc. v. Arnn (2022) — District Court, M.D. Florida
+- Boe v. Marshall (2022) — District Court, M.D. Alabama
+- Redmond v. United States (2022) — District Court, N.D. California
+- United States v. Kelsey (2021) — District Court, M.D. Tennessee
+- NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE v. DEVOS (2020) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Federation%20for%20Children%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

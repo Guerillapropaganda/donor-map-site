@@ -2,7 +2,7 @@
 title: "Ohio AFL-CIO"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -136,7 +136,7 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 
 - [[Amy Acton]] — lobbying: $2.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity
@@ -197,3 +197,28 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Ohio%20AFL-CIO%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,478,057 |
+| Contributions | 59 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| OHIOANS FOR JUSTICE AND INTEGRITY | $335,000 | — |
+| WORKERS' VOICE | $244,658 | — |
+| SAVE AMERICA FUND | $200,000 | — |
+| WORKING AMERICA COALITION | $151,574 | — |
+| STUDENT SUCCESS MATTERS | $120,000 | — |
+| PACOH.IO | $120,000 | — |
+| A STRONGER OHIO | $100,000 | — |
+| KEEP TOLEDO WORKING | $75,800 | — |
+| OHIO DEMOCRATIC PARTY | $52,125 | DEM |
+| AMERICA VOTES ACTION FUND | $19,900 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ohio%20AFL-CIO) (Tier 1)
+<!-- auto:fec-donor end -->

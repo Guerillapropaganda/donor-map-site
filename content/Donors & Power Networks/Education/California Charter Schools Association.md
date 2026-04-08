@@ -2,7 +2,7 @@
 title: "California Charter Schools Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-05
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Education"
@@ -15,6 +15,8 @@ ein: 510465703
 annual-revenue: "$12.9M"
 net-assets: "$34.1M"
 tax-year: "2023"
+lobbying-spend: 10479974
+lobbying-filings: 106
 ---
 
 
@@ -113,3 +115,22 @@ Education — charter school expansion, school funding formula, district account
 
 research-status:: ready — 1,300 charter schools, 650K students, Walton/Broad/Hastings/Gates funders, AB 1505/AB 1507 legislative outcomes, class analysis of privatization mechanism. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $10.5M |
+| Quarterly Filings | 106 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 50 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Agriculture, Banking, Bankruptcy, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Fuel/Gas/Oil, Gaming/Gambling/Casino, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Insurance, Labor Issues/Antitrust/Workplace, Manufacturing, Marine/Maritime/Boating/Fisheries, Media (information/publishing), Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Pharmacy, Railroads, Retirement, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Torts, Trade (domestic/foreign), Transportation, Trucking/Shipping, Unemployment, Urban Development/Municipalities, Utilities, Veterans, Waste (hazardous/solid/interstate/nuclear), Welfare
+
+**Lobbying firms:** ALSTON & BIRD LLP, ASSOCIATION OF CALIFORNIA WATER AGENCIES, BGR GOVERNMENT AFFAIRS, BLUE SHIELD OF CALIFORNIA, CALIFORNIA AND NEVADA CREDIT UNION LEAGUES, CALIFORNIA ASSOCIATION OF REALTORS, CALIFORNIA CHILDREN'S HOSPITAL ASSOCIATION, CALIFORNIA FORESTRY ASSOCIATION, CALIFORNIA HOSPITAL ASSOCIATION, CALIFORNIA LIFE SCIENCES, CALIFORNIA MEDICAL ASSOCIATION INC., CALIFORNIA STATE UNIVERSITY, CAPITOL CORE GROUP, INC., CARPI & CLAY, INC, CONNECTOR INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., COZEN O'CONNOR PUBLIC STRATEGIES, DENTONS US LLP, DOWNS GOVERNMENT AFFAIRS, DUTKO WORLDWIDE, LLC, EHRLICH & ASSOCIATES, ENS RESOURCES, INC., FONTENOT HEALTH POLICY LLC, FORBES-TATE, GOVERNMENT COUNSEL, LLC, HALEY & ASSOCIATES, HARO SOLUTIONS LLC, HOLLAND & KNIGHT LLP, IMPACT HEALTH POLICY PARTNERS, KANNER & ASSOCIATES, LLC, MARK VARGAS, MCALLISTER & QUINN, LLC, METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA, MG HOUSING STRATEGIES LLC, MO STRATEGIES, INC., NATIONAL GROUP, LLP, NORTHERN CALIFORNIA POWER AGENCY, OLSSON, FRANK, WEEDA, TERMAN & MATZ, PC, ORSO GROUP, PACIFIC ATLANTIC PARTNERS, PAUL V. BEDDOE GOVERNMENT AFFAIRS, LLC, POTOMAC PARTNERS DC, POWERS PYLES SUTTER & VERVILLE, P.C., RBW GROUP, LLC, SOUTHERN CALIFORNIA PUBLIC RADIO, TELEGRAPH AVENUE ADVISORS, TROUTMAN STATEGIES, TRUMAN KEITH JONES, UNIVERSITY OF CALIFORNIA, UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION
+
+**Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Charter%20Schools%20Association) (Tier 1)
+<!-- auto:lda-lobbying end -->

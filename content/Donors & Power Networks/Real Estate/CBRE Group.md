@@ -2,7 +2,7 @@
 title: "CBRE Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -13,6 +13,33 @@ ein: 541871872
 annual-revenue: "$84K"
 net-assets: "$11K"
 tax-year: "2024"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "144"
+  - "4"
+  - "8-K"
+  - "ARS"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-23.1"
+  - "EX-3.1"
+  - "EX-99..1"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "EX-99.K"
+  - "FULL"
+  - "NPORT-P"
+  - "S-8"
+  - "S-8 POS"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SCHEDULE 13G/A"
 ---
 
 #cbre #real-estate #commercial #brokerage #lobbying #1031-exchange
@@ -65,3 +92,23 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 541871872](https://projects.propublica.org/nonprofits/organizations/541871872) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-Q, 144, 4, 8-K, ARS, CORRESP, DEF 14A +17 more |
+| CIK | 1138118 |
+| Ticker | CBRE |
+
+**Notable filings:**
+
+- 2026-04-03 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1138118/000119312526141311/0001193125-26-141311-index.htm)
+- 2026-04-03 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1138118/000119312526141288/0001193125-26-141288-index.htm)
+- 2026-04-03 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1138118/000119312526141285/0001193125-26-141285-index.htm)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1138118/000010290926000980/0000102909-26-000980-index.htm)
+- 2026-03-24 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1138118/000113811826000008/0001138118-26-000008-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CBRE%20Group%22) (Tier 1)
+<!-- auto:sec-edgar end -->

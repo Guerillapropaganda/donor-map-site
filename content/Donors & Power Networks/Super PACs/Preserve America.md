@@ -2,7 +2,7 @@
 title: "Preserve America"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -11,7 +11,11 @@ politicians-funded:
   - "Donald Trump"
 ein: "561858873"
 nonprofit-status: "tax-exempt"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
+federal-register-mentions: 489
+regulatory-agencies:
+  - "Federal Highway Administration"
+  - "Transportation Department"
 ---
 
 #donor #super-pac #republican #trump #adelson #israel-lobby #casino-regulation
@@ -147,3 +151,26 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/561858873) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 489 |
+| Final Rules | 2 |
+| Proposed Rules | 3 |
+| Notices | 483 |
+| Presidential Documents | 1 |
+| Agencies | Federal Highway Administration, Transportation Department |
+
+**Recent regulatory activity:**
+- [Notice of Final Federal Agency Actions on Proposed Highway Projects in Texas](https://www.federalregister.gov/documents/2026/03/17/2026-05154/notice-of-final-federal-agency-actions-on-proposed-highway-projects-in-texas) (2026-03-17) — Transportation Department
+- [Notice of Final State Agency Actions on Proposed Transportation Project in Arizona](https://www.federalregister.gov/documents/2026/02/20/2026-03383/notice-of-final-state-agency-actions-on-proposed-transportation-project-in-arizona) (2026-02-20) — Transportation Department
+- [Notice of Final State Agency Actions on Proposed Transportation Project in Arizona](https://www.federalregister.gov/documents/2026/02/20/2026-03382/notice-of-final-state-agency-actions-on-proposed-transportation-project-in-arizona) (2026-02-20) — Transportation Department
+- [Notice of Final Federal Agency Actions on Proposed Project in Hawaii](https://www.federalregister.gov/documents/2026/01/29/2026-01753/notice-of-final-federal-agency-actions-on-proposed-project-in-hawaii) (2026-01-29) — Transportation Department
+- [Notice of Final Federal Agency Actions on Proposed Transportation Project in California](https://www.federalregister.gov/documents/2026/01/28/2026-01685/notice-of-final-federal-agency-actions-on-proposed-transportation-project-in-california) (2026-01-28) — Transportation Department
+- [Notice of Final Federal Agency Actions on Proposed Transportation Project in California](https://www.federalregister.gov/documents/2026/01/28/2026-01684/notice-of-final-federal-agency-actions-on-proposed-transportation-project-in-california) (2026-01-28) — Transportation Department
+- ... and 483 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Preserve%20America%22) (Tier 1)
+<!-- auto:federal-register end -->

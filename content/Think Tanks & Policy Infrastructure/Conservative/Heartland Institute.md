@@ -2,7 +2,7 @@
 title: "Heartland Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: conservative
@@ -13,6 +13,8 @@ last-enriched: "2026-04-07"
 total-revenue: 3350282
 total-assets: 1074871
 related: "[[Koch Network - Charles Koch]]"
+lei: "549300WPNE39YXMINQ56"
+lei-jurisdiction: "US-DE"
 ---
 
 #think-tank #conservative #climate-denial #tobacco #fossil-fuel #NIPCC #model-legislation #state-policy #class-analysis
@@ -243,3 +245,18 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363309812) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300WPNE39YXMINQ56](https://search.gleif.org/#/record/549300WPNE39YXMINQ56) |
+| Legal Name | HEARTLAND WHOLE HEALTH INSTITUTE |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-12T17:21:35Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

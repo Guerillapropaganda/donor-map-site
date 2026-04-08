@@ -2,7 +2,7 @@
 title: "MasTec - Mas Canosa Family"
 type: corporation
 content-readiness: developed
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Real Estate"
@@ -20,6 +20,8 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
+lobbying-spend: 180000
+lobbying-filings: 10
 ---
 
 #donor #corporation #infrastructure #construction #cuba #exile #telecom #energy #real-estate #class-analysis #follow-the-money
@@ -142,3 +144,22 @@ content-readiness:: developed
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $180K |
+| Quarterly Filings | 10 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 2 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Energy/Nuclear, Fuel/Gas/Oil, Utilities
+
+**Lobbying firms:** CONTINENTAL STRATEGY, LLC, RUBIN, TURNBULL & ASSOCIATES
+
+**Agencies contacted:** Defense, Dept of (DOD), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Transportation, Dept of (DOT)
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=MasTec%20-%20Mas%20Canosa%20Family) (Tier 1)
+<!-- auto:lda-lobbying end -->

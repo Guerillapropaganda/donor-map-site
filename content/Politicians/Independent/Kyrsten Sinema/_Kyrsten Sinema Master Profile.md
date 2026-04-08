@@ -163,7 +163,7 @@ content-readiness:: ready
 
 - [[Wall Street Bloc]] — $1.0M lobbying spend (Aviation/Airlines/Airports, Budget/Appropriations, Defense)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

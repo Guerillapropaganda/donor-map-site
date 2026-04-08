@@ -2,9 +2,11 @@
 title: "Catherine Cortez Masto"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
+total-received: "$4,570,516"
+fec-candidate-id: "S6NV00200"
 ---
 
 #catherine-cortez-masto #senator #nevada #casino #gaming #labor #class-analysis #democrat
@@ -86,3 +88,36 @@ Cortez Masto represents the precise labor-containment function: she maintains la
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $4,570,516 |
+| Individual Contributions | $1,895,609 |
+| PAC Contributions | $259,520 |
+| Cash on Hand | 3310581.98 |
+| IE Support (Super PAC) | $9,195,038 |
+| IE Opposition (Super PAC) | $122,211,318 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2028 | $4,570,516 | $1,895,609 | $259,520 |
+| 2022 | $67,150,989 | $34,587,362 | $3,460,434 |
+| 2016 | $19,968,577 | $11,176,831 | $1,151,754 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| SENATE LEADERSHIP FUND | $0 | $74,688,772 |
+| CLUB FOR GROWTH ACTION | $0 | $19,696,986 |
+| FREEDOM PARTNERS ACTION FUND, INC. | $0 | $11,663,690 |
+| SMP | $8,551,162 | $0 |
+| NRSC | $0 | $4,359,251 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6NV00200/) (Tier 1)
+<!-- auto:fec-politician end -->

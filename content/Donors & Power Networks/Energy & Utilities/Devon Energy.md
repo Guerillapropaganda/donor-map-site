@@ -2,7 +2,7 @@
 title: "Devon Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -16,7 +16,7 @@ issues:
 lobbying-spend: 810000
 lobbying-filings: 18
 doj-press-mentions: "264342"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 doj-components:
   - "Civil Rights Division"
   - "Cyber Division (FBI)"
@@ -28,6 +28,12 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+ein: 365040938
+annual-revenue: "$1"
+net-assets: "$1"
+tax-year: "2023"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #devon #energy #oklahoma #shale #fracking #permian #oil-gas
@@ -141,7 +147,7 @@ content-readiness:: ready
 - [[Markwayne Mullin]] (Armed Services) — lobbying: $810K
 - [[John Fetterman]] — lobbying: $810K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases
@@ -163,3 +169,33 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Devon%20Energy%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1 |
+| Total Contributions | $0 |
+| Total Expenses | $0 |
+| Net Assets | $1 |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 365040938](https://projects.propublica.org/nonprofits/organizations/365040938) (Tier 1)
+<!-- auto:propublica-990 end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Devon%20Energy) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

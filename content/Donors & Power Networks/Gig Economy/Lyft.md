@@ -2,7 +2,7 @@
 title: "Lyft"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -25,6 +25,8 @@ lobbying-filings: 36
 federal-awards-total: 6002
 federal-contracts-count: 10
 federal-grants-count: 0
+lei: "549300H7I5VN334XVZ52"
+lei-jurisdiction: "US-DE"
 ---
 
 
@@ -232,7 +234,7 @@ content-readiness:: ready
 
 - [[Gavin Newsom]] — lobbying: $3.4M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Spending (USASpending)
@@ -256,3 +258,18 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/dd740621-7bb8-7375-766e-de19ead4b3f9-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300H7I5VN334XVZ52](https://search.gleif.org/#/record/549300H7I5VN334XVZ52) |
+| Legal Name | LYFT, INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-08-20T10:15:47Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -156,12 +156,13 @@ content-readiness:: developed
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
+| Donors Who Also Lobby | 2 of 2 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
 
 - [[Citigroup]] — $11.6M lobbying spend (Banking, Financial Institutions/Investments/Securities, Foreign Relations)
+- [[George Soros]] — $1.5M lobbying spend (Agriculture, Aviation/Airlines/Airports, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->

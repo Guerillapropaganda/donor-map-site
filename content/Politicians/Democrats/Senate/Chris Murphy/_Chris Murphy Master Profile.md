@@ -198,3 +198,22 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Silicon Valley Democratic Donor Network** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
+- **Silicon Valley Democratic Donor Network** donates → Lobbies on **Defense** → This member sits on **Appropriations**
+
+**Donors who lobby (by spend):**
+
+- [[Silicon Valley Democratic Donor Network]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+<!-- auto:influence-cross-ref end -->

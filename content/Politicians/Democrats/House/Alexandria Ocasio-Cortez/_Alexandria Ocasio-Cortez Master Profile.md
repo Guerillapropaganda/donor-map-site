@@ -2,7 +2,7 @@
 title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,6 +18,8 @@ bills-sponsored: 7
 bills-cosponsored: 323
 website: "https://ocasio-cortez.house.gov"
 phone: "202-225-3965"
+total-received: "$23,658,045"
+fec-candidate-id: "H8NY15148"
 ---
 
 
@@ -257,3 +259,38 @@ _No committee data found for the 119th Congress._
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412804) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $23,658,045 |
+| Individual Contributions | $6,636,331 |
+| PAC Contributions | $12,050 |
+| Cash on Hand | 13408910.09 |
+| IE Support (Super PAC) | $5,917 |
+| IE Opposition (Super PAC) | $1,323,914 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $23,658,045 | $6,636,331 | $12,050 |
+| 2024 | $15,299,236 | $4,264,081 | $44,883 |
+| 2022 | $12,471,243 | $3,910,643 | $54,935 |
+| 2020 | $21,166,404 | $4,232,825 | $60,690 |
+| 2018 | $2,147,896 | $749,453 | $77,618 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| FUTURE45 | $0 | $633,303 |
+| STOP THE AOC PAC | $0 | $193,069 |
+| HONORING AMERICAN LAW ENFORCEMENT PAC | $0 | $127,500 |
+| LAW ENFORCEMENT FOR A SAFER AMERICA PAC | $0 | $127,500 |
+| KEEP AMERICA AMERICA ACTION FUND | $0 | $81,400 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
+<!-- auto:fec-politician end -->

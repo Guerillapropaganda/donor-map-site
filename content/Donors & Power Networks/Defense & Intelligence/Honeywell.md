@@ -2,13 +2,13 @@
 title: "Honeywell International"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Corporation"
 federal-register-mentions: 720
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Antitrust Division"
   - "Commerce Department"
@@ -41,6 +41,7 @@ top-naics-code: "336992"
 federal-awards-total: 1083390059
 federal-contracts-count: 25
 federal-grants-count: 12
+cpsc-recalls: 7
 ---
 
 #defense-contractor #aerospace #pac-donor #defense-committee #bipartisan
@@ -225,3 +226,25 @@ PROJECT TITLE: ADVANCED ELECTRIC PROPULS |
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/a281345d-2343-2f48-369a-746f3ec8888f-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 7 |
+| Most Recent Recall | 2024-03-14 |
+| Earliest Recall | 2007-02-12 |
+| Hazard Types | The sounders and strobes can malfunction and cause the fire alarm system to fail to alert consumers of a fire., The photoelectric smoke sensor can malfunction and cause the fire alarm system to fail to alert occupants in commercial buildings of a fire., The smoke detectors connected to the gateway can fail to activate properly when significant environmental contaminants are present, posing a risk that consumers will not be alerted to a fire., Security systems programmed with a wireless silent panic feature can fail to operate properly the first time the panic button is pressed on the remote transmitter. If the panic button is pressed only once, this can unexpectedly leave residents without a triggered alarm during an emergency., The activation knob on the valve can be left in a position between OFF and PILOT, which can cause the pilot gas to leak and accumulate prior to burner ignition. This can pose the risk of thermal burns to consumers when they light the pilot of the fireplace or stove. |
+
+**Recent recalls:**
+
+- [Honeywell Recalls System Sensor L-Series Low Frequency Fire Alarm Sounders and Strobes Due to Risk of Failure to Alert Consumers to a Fire](https://www.cpsc.gov/Recalls/24158) (2024-03-14) — The sounders and strobes can malfunction and cause the fire alarm system to fail to alert consumers of a fire.
+- [Honeywell Recalls Gamewell-FCI and Notifier Photoelectric Smoke Sensors Sold with Fire Alarm Systems Due to Failure to Alert of a Fire](https://www.cpsc.gov/Recalls/19141) (2019-06-21) — The photoelectric smoke sensor can malfunction and cause the fire alarm system to fail to alert occupants in commercial buildings of a fire.
+- [Honeywell International Recalls SWIFT® Wireless Gateway Sold with Fire Alarm Systems Due To Failure to Communicate in Fire](https://www.cpsc.gov/Recalls/17151) (2017-05-12) — The smoke detectors connected to the gateway can fail to activate properly when significant environmental contaminants are present, posing a risk that consumers will not be alerted to a fire.
+- [Honeywell International Recalls Vista Security System Control Panels Due to Failure of Panic Feature](https://www.cpsc.gov/Recalls/09734) (2009-04-07) — Security systems programmed with a wireless silent panic feature can fail to operate properly the first time the panic button is pressed on the remote transmitter. If the panic button is pressed only once, this can unexpectedly leave residents without a triggered alarm during an emergency.
+- [Honeywell Recalls Gas Valves Used in Decorative Fireplaces and Stoves Due To Burn Hazard](https://www.cpsc.gov/Recalls/08003) (2007-10-02) — The activation knob on the valve can be left in a position between OFF and PILOT, which can cause the pilot gas to leak and accumulate prior to burner ignition. This can pose the risk of thermal burns to consumers when they light the pilot of the fireplace or stove.
+- [Apex Security Systems with XICOR Memory Chip Recalled by Honeywell International; Could Fail to Warn of Fire, Intrusion](https://www.cpsc.gov/Recalls/07575) (2007-09-06) — The memory chip in the control panel could lose programmed values in the event of a power outage exceeding four hours. If this occurs, the panel could fail to communicate with a central monitoring station and not sound an audible notification in the event of a fire or home intrusion.
+- ... and 1 more
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Honeywell%20International) (Tier 1)
+<!-- auto:cpsc-recalls end -->

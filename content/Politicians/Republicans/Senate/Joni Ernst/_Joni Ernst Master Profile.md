@@ -2,7 +2,7 @@
 title: "Joni Ernst Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,6 +17,11 @@ top-donors:
   - "Koch Network - Charles Koch"
   - "Agribusiness Donor Bloc"
   - "Ethanol Industry"
+govtrack-id: 412667
+bills-sponsored: 84
+bills-cosponsored: 174
+website: "https://www.ernst.senate.gov"
+phone: "202-224-3254"
 ---
 
 
@@ -206,5 +211,37 @@ content-readiness:: ready
 
 - [[Ethanol Industry]] — $2.3M lobbying spend (Agriculture, Copyright/Patent/Trademark, Energy/Nuclear)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 84 |
+| Bills Cosponsored | 174 |
+| Total Votes Cast | 4,194 |
+
+**Recent bills sponsored:**
+
+- S.Res. 653: A resolution designating March 21, 2026, as “National Women in Agriculture Day”. — *This simple resolution was agreed to on March 19, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 4130: COST Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 18, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3971: Small Business Innovation and Economic Security Act — *This bill was passed by Congress on March 17, 2026 and goes to the President next.*
+- S. 4059: End-of-Year Fiscal Responsibility Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 1070: National STEM Week Act — *This bill passed in the Senate on February 26, 2026 and goes to the House next for consideration.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Yea | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Nay | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412667) (Tier 1)
+<!-- auto:govtrack end -->

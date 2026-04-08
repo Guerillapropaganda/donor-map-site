@@ -2,17 +2,13 @@
 title: "Demand Justice"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Chuck Schumer"
-  - "JD Vance"
-  - "Bernie Sanders"
-  - "Elizabeth Warren"
-  - "Barack Obama"
+  - "Jamie Raskin"
 issues:
   - "Dark Money & Campaign Finance"
 ein: "863689961"
@@ -20,6 +16,9 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
 total-revenue: 566313
 total-assets: 1534141
+total-political-spend: "$20,000"
+lobbying-spend: 650000
+lobbying-filings: 45
 ---
 
 #donor-node #dark-money #democrat #judicial-appointments #court-capture #class-analysis #donor
@@ -211,3 +210,41 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/863689961) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $20,000 |
+| Contributions | 4 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| MAXWELL ALEJANDRO FROST FOR CONGRESS | $5,000 | DEM |
+| JAMIE RASKIN FOR CONGRESS | $5,000 | DEM |
+| PRAMILA FOR CONGRESS | $5,000 | DEM |
+| MARK POCAN FOR CONGRESS | $5,000 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Demand%20Justice) (Tier 1)
+<!-- auto:fec-donor end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $650K |
+| Quarterly Filings | 45 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Constitution, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Financial Institutions/Investments/Securities, Foreign Relations, Government Issues, Health Issues, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Medicare/Medicaid, Pharmacy, Science/Technology, Taxation/Internal Revenue Code, Telecommunications
+
+**Lobbying firms:** BLACK DIAMOND STRATEGIES LLC, CONTINENTAL STRATEGY, LLC, DEMAND PROGRESS ACTION, INC, KATHERINE OH, MARBLE ARCH, OMEGA STRATEGIES LLC (DC), TARPLIN, DOWNS & YOUNG, LLC
+
+**Agencies contacted:** Consumer Financial Protection Bureau (CFPB), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Trade Commission (FTC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Justice, Dept of (DOJ), Natl Economic Council (NEC), Office of Management & Budget (OMB) +2 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Demand%20Justice) (Tier 1)
+<!-- auto:lda-lobbying end -->

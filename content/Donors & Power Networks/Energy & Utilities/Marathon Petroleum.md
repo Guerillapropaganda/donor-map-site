@@ -20,6 +20,41 @@ top-naics-code: "324110"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+sec-filings: 10000
+sec-form-types:
+  - "10-12B/A"
+  - "11-K"
+  - "144"
+  - "4"
+  - "424B2"
+  - "425"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.1"
+  - "EX-10.14"
+  - "EX-10.2"
+  - "EX-10.3"
+  - "EX-10.5"
+  - "EX-10.57"
+  - "EX-10.6"
+  - "EX-10.65"
+  - "EX-2.1"
+  - "EX-21.1"
+  - "EX-8.1"
+  - "EX-99.1"
+  - "FWP"
+  - "NPORT-EX"
+  - "NPORT-P"
+  - "POSASR"
+  - "PRE 14A"
+  - "PX14A6G"
+  - "S-3ASR"
+  - "SC 13D"
+  - "SC TO-I"
+  - "SC TO-I/A"
+  - "SCHEDULE 13G/A"
 ---
 
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned
@@ -253,3 +288,23 @@ research-status:: developed — added 7-cycle PAC table (2012–2024, ~$8.2M PAC
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Marathon%20Petroleum) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-12B/A, 11-K, 144, 4, 424B2, 425, 8-K, ARS +25 more |
+| CIK | 1510295 |
+| Ticker | MPC |
+
+**Notable filings:**
+
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1510295/000010290926001738/0000102909-26-001738-index.htm)
+- 2026-03-24 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1510295/000195917326002587/0001959173-26-002587-index.htm)
+- 2026-03-19 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1510295/000195917326002506/0001959173-26-002506-index.htm)
+- 2026-03-17 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1510295/000119312526110774/0001193125-26-110774-index.htm)
+- 2026-03-16 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1510295/000151029526000025/0001510295-26-000025-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Marathon%20Petroleum%22) (Tier 1)
+<!-- auto:sec-edgar end -->

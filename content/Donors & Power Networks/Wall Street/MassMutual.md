@@ -2,7 +2,7 @@
 title: "MassMutual"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Wall Street"
@@ -13,6 +13,9 @@ net-assets: "$8.6M"
 tax-year: "2023"
 top-federal-agency: "Department of the Treasury"
 top-naics-code: "522110"
+lei: "549300AWJCCLBT2W8T68"
+lei-jurisdiction: "US-MA"
+lei-parent: "MASSMUTUAL PREMIER FUNDS"
 ---
 
 #insurance #financial-services #pac-donor #house-financial-services
@@ -69,3 +72,24 @@ MassMutual represents the regulatory capture of an industry built on information
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300AWJCCLBT2W8T68](https://search.gleif.org/#/record/549300AWJCCLBT2W8T68) |
+| Legal Name | MassMutual Premier Funds - MassMutual Premier Value Fund |
+| Jurisdiction | US-MA |
+| Entity Status | ACTIVE |
+| Category | FUND |
+| Registration | LAPSED |
+| Last Updated | 2023-08-04T16:12:14Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [Massachusetts Mutual Life Insurance Company](https://search.gleif.org/#/record/R6ZXK5P01NP6HXSY1S07) (US)
+- Direct Parent: [MASSMUTUAL PREMIER FUNDS](https://search.gleif.org/#/record/E8MCNB0YZSDBDPFJ3093) (US)
+- MassMutual Premier Funds - MassMutual Premier Value Fund (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

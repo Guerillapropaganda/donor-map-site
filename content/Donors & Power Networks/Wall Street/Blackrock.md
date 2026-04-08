@@ -2,7 +2,7 @@
 title: "BlackRock"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -12,6 +12,12 @@ issues:
 ein: "882750831"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
+subawards-issued: 5
+subawards-issued-amount: 923723
+subawards-received: 5
+subawards-received-amount: 923723
+top-federal-agency: "Pension Benefit Guaranty Corporation"
+top-naics-code: "541519"
 ---
 
 #blackrock #asset-management #wall-street #esg #index-funds #lobbying #larry-fink
@@ -87,3 +93,51 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/882750831) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 5 ($924K sampled) |
+| Subawards Received (as sub) | 5 ($924K sampled) |
+| Top Federal Agency | Pension Benefit Guaranty Corporation ($13.7M) |
+| Primary NAICS Sector | Other Computer Related Services |
+
+**Subcontractors receiving federal money from BlackRock:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| BLACKROCK STRATEGY, INC. | $856K | 4 |
+| BLACKROCK MICROSYSTEMS, INC | $67K | 1 |
+
+**Prime contractors funneling federal money to BlackRock:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| SIGMA DEFENSE SYSTEMS LLC | $856K | 4 |
+| JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC, THE | $67K | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Pension Benefit Guaranty Corporation | $13.7M |
+| Department of Veterans Affairs | $2.8M |
+| Department of Health and Human Services | $660K |
+| Department of the Interior | $138K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Other Computer Related Services (541519) | $7.6M |
+| Portfolio Management (523920) | $4.4M |
+| Electromedical and Electrotherapeutic Apparatus Manufacturing (334510) | $2.9M |
+| Other Accounting Services (541219) | $1.5M |
+| Analytical Laboratory Instrument Manufacturing (334516) | $527K |
+| Investment Advice (523930) | $157K |
+| Other Scientific and Technical Consulting Services (541690) | $99K |
+| Electronic Connector Manufacturing (334417) | $42K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

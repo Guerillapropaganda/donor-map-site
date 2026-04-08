@@ -79,6 +79,8 @@ regulatory-agencies:
   - "Labor Department"
   - "Management and Budget Office"
   - "National Highway Traffic Safety Administration"
+lobbying-spend: 10190000
+lobbying-filings: 57
 ---
 
 
@@ -300,3 +302,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Uber%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $10.2M |
+| Quarterly Filings | 57 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 14 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Banking, Budget/Appropriations, Copyright/Patent/Trademark, Environment/Superfund, Health Issues, Immigration, Labor Issues/Antitrust/Workplace, Roads/Highway, Science/Technology, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** AXADVOCACY GOVERNMENT RELATIONS, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL TAX PARTNERS, LLP, FEDERAL HILL GROUP, LLC, FORBES-TATE, JEFFRIES STRATEGIES LLC, MAYER BROWN LLP, MILLER STRATEGIES, LLC, MS. ALEXIS TKACHUK, SUMMIT STRATEGIES GOVERNMENT AFFAIRS LLC, THE DOERRER GROUP LLC, THEGROUP DC, LLC, TREMONT STRATEGIES GROUP LLC, UBER TECHNOLOGIES, INC.
+
+**Agencies contacted:** Commerce, Dept of (DOC), Energy, Dept of, Executive Office of the President (EOP), Federal Highway Administration (FHA), Federal Transit Administration (FTA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Labor, Dept of (DOL), Office of Management & Budget (OMB), SENATE +2 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Uber) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -2,7 +2,7 @@
 title: "Carlyle Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -19,6 +19,25 @@ ein: 850703768
 annual-revenue: "$62.1M"
 net-assets: "$8.9M"
 tax-year: "2023"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "13F-HR"
+  - "144"
+  - "3"
+  - "4"
+  - "8-K"
+  - "D"
+  - "D/A"
+  - "EX-23.1"
+  - "EX-23.3"
+  - "EX-99"
+  - "S-8 POS"
+  - "SC 13D/A"
+  - "SCHEDULE 13D/A"
+  - "SCHEDULE 13G/A"
+top-federal-agency: "Department of Defense"
+top-naics-code: "336611"
 ---
 
 #carlyle-group #private-equity #wall-street #defense #revolving-door #bipartisan #carried-interest #lobbying
@@ -188,3 +207,59 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 850703768](https://projects.propublica.org/nonprofits/organizations/850703768) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 13F-HR, 144, 3, 4, 8-K, D, D/A +7 more |
+| CIK | 1527166 |
+| Ticker | CG |
+
+**Notable filings:**
+
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1527166/000010290926000894/0000102909-26-000894-index.htm)
+- 2026-03-20 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1527166/000154389526000002/0001543895-26-000002-index.htm)
+- 2026-03-19 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1527166/000196858226000304/0001968582-26-000304-index.htm)
+- 2026-03-12 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1527166/000149315226009870/0001493152-26-009870-index.htm)
+- 2026-03-06 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1527166/000149315226009232/0001493152-26-009232-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Carlyle%20Group%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Defense ($1.4B) |
+| Primary NAICS Sector | Ship Building and Repairing |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $1.4B |
+| Department of Health and Human Services | $27.3M |
+| Department of Transportation | $24.6M |
+| Department of Homeland Security | $22.0M |
+| Department of Labor | $16.6M |
+| Pension Benefit Guaranty Corporation | $12.2M |
+| Department of the Interior | $11.1M |
+| Environmental Protection Agency | $9.7M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Ship Building and Repairing (336611) | $1.3B |
+| Software Publishers (511210) | $141.7M |
+| Aircraft Engine and Engine Parts Manufacturing (336412) | $66.8M |
+| Boat Building (336612) | $42.3M |
+| Surgical Appliance and Supplies Manufacturing (339113) | $25.3M |
+| Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers (423450) | $24.3M |
+| Computer and Software Stores (443120) | $13.4M |
+| Other Computer Related Services (541519) | $5.2M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

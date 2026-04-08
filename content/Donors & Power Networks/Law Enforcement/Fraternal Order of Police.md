@@ -2,7 +2,7 @@
 title: "Fraternal Order of Police"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
@@ -24,6 +24,27 @@ court-jurisdictions:
   - "District Court, W.D. Pennsylvania"
 lobbying-spend: 2529500
 lobbying-filings: 64
+sec-filings: 288
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "10KSB"
+  - "10KSB/A"
+  - "10QSB"
+  - "424B3"
+  - "485BPOS"
+  - "8-K"
+  - "DEF 14A"
+  - "EX-13"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "PRE 14A"
+  - "S-1"
+  - "S-1/A"
+  - "S-4"
+  - "S-4/A"
+  - "SC 14F1"
 ---
 
 #fop #police #law-enforcement #union #qualified-immunity #reform-opposition
@@ -128,3 +149,21 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Fraternal%20Order%20of%20Police) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 288 |
+| Form Types | 10-K, 10-Q, 10KSB, 10KSB/A, 10QSB, 424B3, 485BPOS, 8-K +11 more |
+
+**Notable filings:**
+
+- 2012-06-19 — **8-K**: CURRENT REPORT
+- 2013-05-09 — **EX-99.2**: EX-99.2
+- 2012-10-15 — **EX-99.1**: EX-99.1
+- 2011-06-23 — **EX-99**: EXHIBIT 99 - PRESS RELEASE
+- 2004-11-30 — **EX-99.1**: PRESS RELEASE - JOE PETERS
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Fraternal%20Order%20of%20Police%22) (Tier 1)
+<!-- auto:sec-edgar end -->

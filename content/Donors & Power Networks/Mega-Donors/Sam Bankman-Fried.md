@@ -2,7 +2,7 @@
 title: "Sam Bankman-Fried"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -13,6 +13,10 @@ total-political-spend: "$45,943,261"
 politicians-funded:
   - "Joe Biden"
   - "Debbie Stabenow"
+federal-register-mentions: 1
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Commodity Futures Trading Commission"
 ---
 
 #sbf #ftx #crypto #fraud #democratic-donor #bipartisan #effective-altruism
@@ -95,3 +99,17 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sam%20Bankman-Fried) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Proposed Rule | 1 |
+| Agencies | Commodity Futures Trading Commission |
+
+**Recent regulatory activity:**
+- [Investment of Customer Funds by Futures Commission Merchants and Derivatives Clearing Organizations](https://www.federalregister.gov/documents/2023/11/21/2023-24774/investment-of-customer-funds-by-futures-commission-merchants-and-derivatives-clearing-organizations) (2023-11-21) — Commodity Futures Trading Commission ★
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Sam%20Bankman-Fried%22) (Tier 1)
+<!-- auto:federal-register end -->

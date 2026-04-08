@@ -2,7 +2,7 @@
 title: "Alliance Defending Freedom"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,6 +13,7 @@ ein: 541660459
 annual-revenue: "$101.8M"
 net-assets: "$97.6M"
 tax-year: "2023"
+total-political-spend: "$250"
 ---
 
 #adf #religious-liberty #anti-lgbtq #scotus #litigation #dark-money #christian-right
@@ -76,3 +77,19 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 541660459](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $250 |
+| Contributions | 1 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| ALABAMA REPUBLICAN PARTY | $250 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Alliance%20Defending%20Freedom) (Tier 1)
+<!-- auto:fec-donor end -->

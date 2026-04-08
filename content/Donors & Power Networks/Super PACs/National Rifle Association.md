@@ -2,7 +2,7 @@
 title: "National Rifle Association"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -40,6 +40,10 @@ sec-form-types:
   - "PX14A6G"
   - "SB-2"
   - "SB-2/A"
+ein: 530116130
+annual-revenue: "$175.7M"
+net-assets: "$168.1M"
+tax-year: "2023"
 ---
 
 
@@ -244,3 +248,18 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Rifle%20Association%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $175.7M |
+| Total Contributions | $61.8M |
+| Program Service Revenue | $79.9M |
+| Investment Income | $1.7M |
+| Total Expenses | $208.8M |
+| Net Assets | $168.1M |
+| Officer Compensation | $5.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 530116130](https://projects.propublica.org/nonprofits/organizations/530116130) (Tier 1)
+<!-- auto:propublica-990 end -->

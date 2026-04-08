@@ -2,21 +2,17 @@
 title: "Elliott Management"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Donald Trump"
-  - "Marco Rubio"
-  - "Tom Cotton"
-  - "Ted Cruz"
-  - "Lindsey Graham"
-  - "Samuel Alito"
+  - "Mitt Romney"
 issues:
   - "Energy & Climate"
   - "Israel & Foreign Policy"
+total-political-spend: "$707"
 ---
 
 #hedge-fund #paul-singer #republican #national-security #war-hawk #fossil-fuel #israel #neoconservative #scotus #activist-investor #class-analysis #follow-the-money
@@ -186,3 +182,20 @@ Pattern flags: **Donor-Class Override** (judicial recusal reversed to protect do
 ---
 
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $707 |
+| Contributions | 4 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| ROMNEY FOR PRESIDENT INC. | $600 | REP |
+| RUDY GIULIANI PRESIDENTIAL COMMITTEE INC | $107 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Elliott%20Management) (Tier 1)
+<!-- auto:fec-donor end -->

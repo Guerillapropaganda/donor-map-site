@@ -2,14 +2,14 @@
 title: "Verizon"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 ein: 133319048
 annual-revenue: "$7.5M"
 net-assets: "$26.0M"
@@ -32,6 +32,7 @@ top-naics-code: "517110"
 federal-awards-total: 649696365
 federal-contracts-count: 25
 federal-grants-count: 0
+cpsc-recalls: 2
 ---
 
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying
@@ -222,3 +223,20 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/9cf75cb8-bdc0-c47e-5204-95cfffc05adb-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 2 |
+| Most Recent Recall | 2021-04-08 |
+| Earliest Recall | 2004-06-24 |
+| Hazard Types | The lithium ion battery in the hotspots can overheat, posing fire and burn hazards., Some LG-branded TM-510 batteries may be counterfeit and susceptible to overcharging, especially if used with a non-LG charger. LG Infocomm U.S.A. Inc. states that these are counterfeit LG-branded batteries, which do not contain a safety device in the circuitry, to prevent overcharging. In turn, the counterfeit batteries can overheat, posing a fire and burn hazard to users. |
+
+**Recent recalls:**
+
+- [Verizon Recalls 2.5 Million Ellipsis Jetpack Mobile Hotspots Imported by Franklin Wireless Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/21106) (2021-04-08) — The lithium ion battery in the hotspots can overheat, posing fire and burn hazards.
+- [CPSC, Verizon Wireless Announce Recall of Counterfeit Cell Phone Batteries](https://www.cpsc.gov/Recalls/04559) (2004-06-24) — Some LG-branded TM-510 batteries may be counterfeit and susceptible to overcharging, especially if used with a non-LG charger. LG Infocomm U.S.A. Inc. states that these are counterfeit LG-branded batteries, which do not contain a safety device in the circuitry, to prevent overcharging. In turn, the counterfeit batteries can overheat, posing a fire and burn hazard to users.
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Verizon) (Tier 1)
+<!-- auto:cpsc-recalls end -->

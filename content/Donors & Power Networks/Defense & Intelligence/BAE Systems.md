@@ -2,7 +2,7 @@
 title: "BAE Systems"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -33,6 +33,8 @@ federal-contracts-count: 25
 federal-grants-count: 17
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+lei: "8SVCSVKSGDWMW2QHOH83"
+lei-jurisdiction: "GB"
 ---
 
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia
@@ -122,7 +124,7 @@ content-readiness:: ready
 
 - [[Jeanne Shaheen]] (Foreign Relations, Armed Services)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)
@@ -193,3 +195,18 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=BAE%20Systems) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [8SVCSVKSGDWMW2QHOH83](https://search.gleif.org/#/record/8SVCSVKSGDWMW2QHOH83) |
+| Legal Name | BAE SYSTEMS PLC |
+| Jurisdiction | GB |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-05-19T07:12:19Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

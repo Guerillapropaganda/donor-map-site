@@ -2,7 +2,7 @@
 title: "Majority Forward"
 type: pac
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,6 +11,9 @@ politicians-funded:
   - "Chuck Schumer"
 issues:
   - "Dark Money & Campaign Finance"
+ein: "833690373"
+nonprofit-status: "501(c)(4)"
+last-enriched: "2026-04-08"
 ---
 
 #majority-forward #dark-money #democratic #501c4 #senate #schumer #dark-money-symmetry
@@ -127,3 +130,14 @@ content-readiness:: developed
 | LAST BEST PLACE PAC | $41.4M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 833690373 |
+| Tax-Exempt Status | 501(c)(4) |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/833690373) (Tier 1)
+<!-- auto:nonprofit-990 end -->

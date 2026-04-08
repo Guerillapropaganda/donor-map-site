@@ -2,7 +2,7 @@
 title: "Lauren Boebert"
 type: politician
 content-readiness: ready
-last-updated: 2026-03-25
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,6 +12,8 @@ state-abbr: "CO"
 district: "3"
 issues:
   - "Energy & Climate"
+total-received: "$723,121"
+fec-candidate-id: "H0CO03165"
 ---
 
 #boebert #colorado #freedom-caucus #gun-rights #energy #maga #small-dollar #culture-war #oil-gas #ethics #district-switch
@@ -174,3 +176,37 @@ The restaurant was never a successful business — it was a brand-building exerc
 
 profile-status:: ready
 content-readiness:: ready
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $723,121 |
+| Individual Contributions | $251,995 |
+| PAC Contributions | $71,500 |
+| Cash on Hand | 218665.78 |
+| IE Support (Super PAC) | $903,269 |
+| IE Opposition (Super PAC) | $10,123,994 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $723,121 | $251,995 | $71,500 |
+| 2024 | $4,822,754 | $2,001,050 | $255,888 |
+| 2022 | $7,854,669 | $3,180,055 | $109,195 |
+| 2020 | $2,989,470 | $1,296,740 | $158,624 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| HOUSE MAJORITY PAC | $0 | $3,520,550 |
+| DCCC | $0 | $2,254,577 |
+| WOMEN VOTE! | $0 | $1,351,032 |
+| LCV VICTORY FUND | $0 | $979,880 |
+| COLORADO UNITED PAC | $0 | $720,000 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1)
+<!-- auto:fec-politician end -->

@@ -2,7 +2,7 @@
 title: "Center for American Progress"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -14,6 +14,41 @@ ein: 300126510
 annual-revenue: "$46.1M"
 net-assets: "$99.3M"
 tax-year: "2023"
+court-cases: 582
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, D. Arizona"
+  - "District Court, D. Connecticut"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. New Jersey"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+sec-filings: 775
+sec-form-types:
+  - "10-Q"
+  - "10QSB"
+  - "485BPOS"
+  - "497"
+  - "497K"
+  - "6-K"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-99.1"
+  - "EX-99.1 CHARTER"
+  - "EX-99.2"
+  - "EX-99.2 BYLAWS"
+  - "FWP"
+  - "MA-I"
+  - "MA-I/A"
+  - "N-CSR"
+  - "PART II"
+  - "PX14A6G"
 ---
 
 #center-for-american-progress #CAP #dark-money #think-tank #democratic #infrastructure #Neera-Tanden
@@ -133,3 +168,40 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 300126510](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 582 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Second Circuit, Court of Appeals for the Third Circuit, District Court, D. Arizona, District Court, D. Connecticut, District Court, D. Massachusetts, District Court, D. New Jersey +3 more |
+| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 441 Voting, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Joslin v. U.S. Department of the Interior (2026) — District Court, E.D. California
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+- JOSLIN v. U.S. DEPARTMENT OF THE INTERIOR (2026) — District Court, District of Columbia
+- CITY OF PHILADELPHIA v. BURGUM (2026) — District Court, E.D. Pennsylvania
+- United States v. Fontes (2026) — District Court, D. Arizona
+- United States v. Thomas (2026) — District Court, D. Connecticut
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20for%20American%20Progress%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 775 |
+| Form Types | 10-Q, 10QSB, 485BPOS, 497, 497K, 6-K, 8-K, CORRESP +12 more |
+
+**Notable filings:**
+
+- 2013-12-20 — **8-K**: 8-K
+- 2020-05-27 — **PX14A6G**: PX14A6G
+- 2014-04-18 — **EX-99.1 CHARTER**: IFRS USD PRESS RELEASE
+- 2014-04-15 — **EX-99.1**: IFRS USD PRESS RELEASE
+- 2014-04-18 — **EX-99.2 BYLAWS**: IFRS INR PRESS RELEASE
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Center%20for%20American%20Progress%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -2,7 +2,7 @@
 title: "Gulf State Money - Saudi Arabia, UAE, Qatar"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -15,6 +15,8 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "SDGT"
+lobbying-spend: 918000
+lobbying-filings: 71
 ---
 
 
@@ -166,3 +168,22 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $918K |
+| Quarterly Filings | 71 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 26 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Budget/Appropriations, Clean Air and Water (quality), Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Immigration, Marine/Maritime/Boating/Fisheries, Real Estate/Land Use/Conservation, Roads/Highway, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** ADAMS AND REESE, LLP, ARENTFOX SCHIFF LLP, BECKER & POLIAKOFF, P.A., BRACEWELL LLP, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL HILL CONSULTING GROUP, CAPITOL RESOURCES, LLC, COVENANT GOVERNMENT AFFAIRS, LLC, DOWNS GOVERNMENT AFFAIRS, GOVERNMENT RELATIONS GROUP, LLC, GULF SOUTH STRATEGIES USA, LLC, HAIR OF THE DOG OUTFITTERS, LLC, HANCE SCARBOROUGH, HICKS-RAY ASSOCIATES, HOLLAND & HART LLP, HOLLAND & KNIGHT LLP, HOLLY STRATEGIES INCORPORATED, JOCELYN HONG & ASSOCIATES, K&L GATES, LLP, OGR, PAT YOUNGER, PROVENTURE CONSULTANTS LLC, SBL STRATEGIES, LLC, THORN RUN PARTNERS, VAN SCOYOC ASSOCIATES, WEST GULF MARITIME ASSOCIATION
+
+**Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Reclamation, Commerce, Dept of (DOC), Defense, Dept of (DOD), Executive Office of the President (EOP), Federal Emergency Management Agency (FEMA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD), Interior, Dept of (DOI) +6 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Gulf%20State%20Money%20-%20Saudi%20Arabia%2C%20UAE%2C%20Qatar) (Tier 1)
+<!-- auto:lda-lobbying end -->

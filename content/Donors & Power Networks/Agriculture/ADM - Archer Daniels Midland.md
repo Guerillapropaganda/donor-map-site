@@ -2,7 +2,7 @@
 title: "ADM - Archer Daniels Midland"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -26,6 +26,9 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
+lei: "549300KDUEM5IEU30490"
+lei-jurisdiction: "VN"
+lei-parent: "ARCHER-DANIELS-MIDLAND COMPANY"
 ---
 
 #adm #agriculture #commodities #ethanol #grain #biofuel #illinois
@@ -105,7 +108,7 @@ content-readiness:: ready
 
 - [[Dick Durbin]] (Judiciary) — lobbying: $2.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases
@@ -127,3 +130,23 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22ADM%20-%20Archer%20Daniels%20Midland%22&sort=date) (NEEDS REVIEW) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300KDUEM5IEU30490](https://search.gleif.org/#/record/549300KDUEM5IEU30490) |
+| Legal Name | Công ty TNHH Archer Daniels Midland VN |
+| Jurisdiction | VN |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-09-08T11:39:09Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [ARCHER-DANIELS-MIDLAND COMPANY](https://search.gleif.org/#/record/549300LO13MQ9HYSTR83) (US-DE)
+- Công ty TNHH Archer Daniels Midland VN (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -2,14 +2,18 @@
 title: "IBEW - International Brotherhood of Electrical Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Gavin Newsom"
-  - "Donald Trump"
+  - "Donna Miller"
+  - "Stephen Miller"
+  - "Rand Paul"
+  - "Bennie Thompson"
+  - "Glenn Thompson"
+  - "Rick Larsen"
 issues:
   - "Labor & Workers"
   - "Infrastructure"
@@ -23,6 +27,7 @@ regulatory-agencies:
   - "Transportation Department"
 ein: "611602482"
 nonprofit-status: "501(c)(5)"
+total-political-spend: "$4,861,275"
 ---
 
 
@@ -151,3 +156,28 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/611602482) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $4,861,275 |
+| Contributions | 411 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| THE GOOD LAND COMMITTEE, INC. | $2,000,000 | DEM |
+| PIC 2021, INC.  | $1,000,000 | — |
+| BUILDING A BETTER PA | $242,000 | — |
+| FRIENDS OF CONGRESSMAN GEORGE MILLER | $60,000 | DEM |
+| CARTWRIGHT FOR CONGRESS | $55,000 | DEM |
+| MCKINLEY FOR CONGRESS | $50,000 | REP |
+| COMMITTEE TO ELECT ALAN GRAYSON | $50,000 | DEM |
+| DARREN SOTO FOR CONGRESS | $48,000 | DEM |
+| ALL FOR OUR COUNTRY LEADERSHIP PAC | $45,000 | — |
+| PAUL COOK FOR CONGRESS | $45,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=IBEW%20-%20International%20Brotherhood%20of%20Electrical%20Workers) (Tier 1)
+<!-- auto:fec-donor end -->

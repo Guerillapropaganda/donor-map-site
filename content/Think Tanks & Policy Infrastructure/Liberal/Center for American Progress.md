@@ -2,12 +2,17 @@
 title: "Center for American Progress"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
 related: "[[Goldman Sachs - Wall Street Titan]] · [[Goldman Sachs]] · [[Citigroup]] · [[Google - Alphabet]] · [[Meta - Facebook Political Operation]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Democratic Party Infrastructure]] · [[Silicon Valley Democratic Donor Network]]"
+ein: "300126510"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 37377429
+total-assets: 84539768
 ---
 
 #think-tank #liberal #healthcare #climate #economic-policy #revolving-door #idea-laundering #obama-network #biden-network
@@ -187,3 +192,28 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 - [Semafor: Center for American Progress' new head Neera Tanden says Democrats 'should not be knee-jerk institution defenders' (February 2025)](https://www.semafor.com/article/02/20/2025/new-center-for-american-progress-head-neera-tanden-interview-on-democrats) (Tier 2)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 300126510 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $37.4M |
+| Total Assets | $84.5M |
+| NTEE Code | R05 |
+| IRS Ruling Date | 2003-02-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1)
+<!-- auto:nonprofit-990 end -->

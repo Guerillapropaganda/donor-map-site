@@ -2,7 +2,7 @@
 title: "Forbes Tate Partners"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$26.4M"
@@ -13,6 +13,14 @@ fara-records: 2
 fara-countries:
   - "JAPAN"
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackstone Group]] · [[Raytheon (RTX)|RTX Corp]] · [[_Lobbying Firms Framework]]"
+court-cases: 6
+last-enriched: "2026-04-08"
+court-jurisdictions:
+  - "Court of Appeals for the Eleventh Circuit"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. Alabama"
+  - "District Court, N.D. California"
+  - "United States Bankruptcy Court, N.D. California"
 ---
 
 #lobbying #k-street #pharma #healthcare #tobacco #grassroots #tax-policy #telecom #defense #bipartisan-access #clinton-orbit
@@ -298,3 +306,21 @@ content-readiness:: ready
 
 - [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Forbes%20Tate%20Partners,) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 6 |
+| Courts | Court of Appeals for the Eleventh Circuit, District Court, District of Columbia, District Court, N.D. Alabama, District Court, N.D. California, United States Bankruptcy Court, N.D. California |
+| Case Types | 3440 Other Civil Rights, 890 Other Statutory Actions, Civil Rights: Other, Other Statutory Actions |
+
+**Notable cases:**
+- Brian Rice v. Governor of Alabama (2024) — Court of Appeals for the Eleventh Circuit
+- Rice v. Ivey (2023) — District Court, N.D. Alabama
+- COALITION FOR APP FAIRNESS v. APPLE INC. (2021) — District Court, N.D. California
+- Apple Inc. v. Basecamp, LLC (2021) — District Court, N.D. California
+- PG&E Corporation (2019) — United States Bankruptcy Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Forbes%20Tate%20Partners%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

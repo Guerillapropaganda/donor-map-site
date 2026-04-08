@@ -2,13 +2,13 @@
 title: "Flex Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Gig Economy"
 entity-type: "Corporation"
 federal-register-mentions: 2
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Federal Trade Commission"
   - "Labor Department"
@@ -17,6 +17,12 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
+court-cases: 2
+court-jurisdictions:
+  - "District Court, E.D. Texas"
+  - "United States Bankruptcy Court, N.D. Illinois"
+ein: "394827006"
+nonprofit-status: "501(c)(3)"
 ---
 
 
@@ -117,3 +123,31 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Flex%20Association) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2 |
+| Courts | District Court, E.D. Texas, United States Bankruptcy Court, N.D. Illinois |
+| Case Types | 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Coalition for Workforce Innovation v. Walsh (2021) — District Court, E.D. Texas
+- Bruce S Hamilton (2013) — United States Bankruptcy Court, N.D. Illinois
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Flex%20Association%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 394827006 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | N63 |
+| IRS Ruling Date | 2026-01-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/394827006) (Tier 1)
+<!-- auto:nonprofit-990 end -->

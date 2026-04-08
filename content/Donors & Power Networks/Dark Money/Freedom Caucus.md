@@ -2,7 +2,7 @@
 title: "House Freedom Caucus"
 type: donor
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -14,6 +14,11 @@ politicians-funded:
   - "Scott Perry"
 issues:
   - "Dark Money & Campaign Finance"
+ein: "994082114"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-08"
+total-revenue: 1000410
+total-assets: 485221
 ---
 
 #freedom-caucus #house #republican #maga #obstruction #koch #tea-party #right-flank #dark-money #small-dollar #club-for-growth #heritage-action
@@ -139,3 +144,18 @@ The counter-funding dynamic — where Chamber of Commerce, AIPAC, and Main Stree
 - [The Hill: Freedom Caucus urges top funding negotiators to lock in DOGE cuts](https://thehill.com/business/budget/5331509-house-freedom-caucus-demands-budget-cuts/) (Tier 2)
 
 content-readiness:: developed
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 994082114 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $1.0M |
+| Total Assets | $485K |
+| NTEE Code | W70 |
+| IRS Ruling Date | 2025-03-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/994082114) (Tier 1)
+<!-- auto:nonprofit-990 end -->

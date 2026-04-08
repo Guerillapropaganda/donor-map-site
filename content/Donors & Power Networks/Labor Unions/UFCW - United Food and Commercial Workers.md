@@ -2,7 +2,7 @@
 title: "UFCW - United Food and Commercial Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -18,6 +18,10 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "RUSSIA-EO14024"
+ein: 530220586
+annual-revenue: "$240.0M"
+net-assets: "$531.3M"
+tax-year: "2022"
 ---
 
 
@@ -188,3 +192,19 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Financial Overview (990 Filing — 2022)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $240.0M |
+| Total Contributions | $2.0M |
+| Program Service Revenue | $213.5M |
+| Investment Income | $8.7M |
+| Total Expenses | $188.9M |
+| Net Assets | $531.3M |
+| Officer Compensation | $5.8M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 530220586](https://projects.propublica.org/nonprofits/organizations/530220586) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_52-56%2F530220586_202212_990O_2023121222090545.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

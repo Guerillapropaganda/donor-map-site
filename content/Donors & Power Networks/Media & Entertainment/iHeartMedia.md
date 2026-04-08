@@ -2,11 +2,17 @@
 title: "iHeartMedia"
 type: corporation
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
+subawards-issued: 1
+subawards-issued-amount: 30000
+subawards-received: 1
+subawards-received-amount: 30000
+top-federal-agency: "Department of Veterans Affairs"
+top-naics-code: "541810"
 ---
 
 #iheartmedia #radio #media #consolidation #deregulation #clear-channel #telecom-act
@@ -62,3 +68,51 @@ content-readiness:: ready
 | DCCC | $38.8K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 1 ($30K sampled) |
+| Subawards Received (as sub) | 1 ($30K sampled) |
+| Top Federal Agency | Department of Veterans Affairs ($486K) |
+| Primary NAICS Sector | Advertising Agencies |
+
+**Subcontractors receiving federal money from iHeartMedia:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| IHEARTMEDIA + ENTERTAINMENT, INC. | $30K | 1 |
+
+**Prime contractors funneling federal money to iHeartMedia:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| RESEARCH TRIANGLE INSTITUTE | $30K | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Veterans Affairs | $486K |
+| Department of Justice | $455K |
+| Department of Homeland Security | $98K |
+| Smithsonian Institution | $45K |
+| Department of Defense | $28K |
+| U.S. Agency for Global Media | $8K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Advertising Agencies (541810) | $455K |
+| Radio Stations (515112) | $443K |
+| Radio Broadcasting Stations (516110) | $98K |
+| Media Representatives (541840) | $45K |
+| Radio Networks (515111) | $42K |
+| Public Relations Agencies (541820) | $23K |
+| Custom Computer Programming Services (541511) | $8K |
+| Media Buying Agencies (541830) | $5K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

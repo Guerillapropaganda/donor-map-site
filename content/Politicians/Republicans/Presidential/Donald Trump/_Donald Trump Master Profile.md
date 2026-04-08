@@ -316,7 +316,7 @@ profile-status:: ready — master profile fully built with inline citations. All
 
 - [[Timothy Mellon]] — $1.9M lobbying spend (Banking, Energy/Nuclear, Financial Institutions/Investments/Securities)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (GovTrack)

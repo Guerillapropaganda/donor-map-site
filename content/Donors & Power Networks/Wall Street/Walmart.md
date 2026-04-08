@@ -2,7 +2,7 @@
 title: "Walmart"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,6 +11,19 @@ ein: 710569421
 annual-revenue: "$3.5B"
 net-assets: "$890.1M"
 tax-year: "2023"
+federal-register-mentions: 177
+last-enriched: "2026-04-08"
+regulatory-agencies:
+  - "Alcohol and Tobacco Tax and Trade Bureau"
+  - "Antitrust Division"
+  - "Centers for Medicare & Medicaid Services"
+  - "Drug Enforcement Administration"
+  - "Environmental Protection Agency"
+  - "Federal Trade Commission"
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
+  - "Interior Department"
+  - "International Trade Commission"
 ---
 
 #walmart #walton #retail #anti-union #minimum-wage #arkansas #bipartisan #corporate-welfare #estate-tax #school-choice #pac
@@ -138,3 +151,25 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 710569421](https://projects.propublica.org/nonprofits/organizations/710569421) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 177 |
+| Final Rules | 23 |
+| Proposed Rules | 38 |
+| Notices | 116 |
+| Agencies | Alcohol and Tobacco Tax and Trade Bureau, Antitrust Division, Centers for Medicare & Medicaid Services, Drug Enforcement Administration, Environmental Protection Agency, Federal Trade Commission, Food and Drug Administration, Health and Human Services Department +7 more |
+
+**Recent regulatory activity:**
+- [Medicare Program; Contract Year 2027 and Certain Contract Year 2026 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Medicare Cost Plan Program](https://www.federalregister.gov/documents/2026/04/06/2026-06600/medicare-program-contract-year-2027-and-certain-contract-year-2026-policy-and-technical-changes-to) (2026-04-06) — Health and Human Services Department ★
+- [United States v. Reddy Ice LLC, et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/02/18/2026-03102/united-states-v-reddy-ice-llc-et-al-proposed-final-judgment-and-competitive-impact-statement) (2026-02-18) — Justice Department
+- [Hazardous Materials: Notice of Applications for New Special Permits](https://www.federalregister.gov/documents/2026/01/16/2026-00870/hazardous-materials-notice-of-applications-for-new-special-permits) (2026-01-16) — Transportation Department
+- [Phasedown of Hydrofluorocarbons: Notice of 2026 Allowance Allocations for Production and Consumption of Regulated Substances Under the American Innovation and Manufacturing Act of 2020, and Notice of Final Actions Establishing Administrative Consequences](https://www.federalregister.gov/documents/2025/11/20/2025-20439/phasedown-of-hydrofluorocarbons-notice-of-2026-allowance-allocations-for-production-and-consumption) (2025-11-20) — Environmental Protection Agency
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2025/09/05/2025-17018/hazardous-materials-notice-of-actions-on-special-permits) (2025-09-05) — Transportation Department
+- [Certain Artificial Eyelash Extension Systems, Products, and Components Thereof; Notice of Commission Determination To Grant a Joint Motion To Terminate the Investigation](https://www.federalregister.gov/documents/2025/09/03/2025-16799/certain-artificial-eyelash-extension-systems-products-and-components-thereof-notice-of-commission) (2025-09-03) — International Trade Commission
+- ... and 171 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Walmart%22) (Tier 1)
+<!-- auto:federal-register end -->

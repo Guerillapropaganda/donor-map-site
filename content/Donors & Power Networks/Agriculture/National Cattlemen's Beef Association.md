@@ -158,7 +158,8 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 1 |
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
 | Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
@@ -167,9 +168,10 @@ content-readiness:: ready
 
 **Funded politicians:**
 
-- [[Frank Lucas]] (Agriculture)
+- [[Donald Trump]] — lobbying: $3.1M
+- [[Frank Lucas]] (Agriculture) — lobbying: $3.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

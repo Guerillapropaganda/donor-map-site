@@ -2,12 +2,22 @@
 title: "Atlantic Council"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-03-26
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
 related: "[[Goldman Sachs]]"
+ein: "813729813"
+nonprofit-status: "501(c)(6)"
+last-enriched: "2026-04-08"
+federal-register-mentions: 612
+regulatory-agencies:
+  - "Commerce Department"
+  - "Industry and Security Bureau"
+  - "Labor Department"
+  - "National Oceanic and Atmospheric Administration"
+  - "Occupational Safety and Health Administration"
 ---
 
 #think-tank #centrist #NATO #defense-industry #foreign-government-funding #DFRLab #Burisma #class-analysis
@@ -227,3 +237,38 @@ The Burisma scandal reveals the corruption beneath the prestige. A Ukrainian ene
 - [Racket News (Matt Taibbi): Twitter Files Extra — How the World's "No-Kidding Decision Makers" Got Organized — DFRLab censorship-industrial complex role](https://www.racket.news/p/twitter-files-extra-how-the-worlds) (Tier 2)
 
 content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 813729813 |
+| Tax-Exempt Status | 501(c)(6) |
+| NTEE Code | S41 |
+| IRS Ruling Date | 2016-12-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/813729813) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 612 |
+| Final Rules | 110 |
+| Proposed Rules | 149 |
+| Notices | 353 |
+| Agencies | Commerce Department, Industry and Security Bureau, Labor Department, National Oceanic and Atmospheric Administration, Occupational Safety and Health Administration |
+
+**Recent regulatory activity:**
+- [Fisheries of the Northeastern United States; Mid-Atlantic Blueline Tilefish and Golden Tilefish Fisheries; 2026 Specifications](https://www.federalregister.gov/documents/2026/03/30/2026-06102/fisheries-of-the-northeastern-united-states-mid-atlantic-blueline-tilefish-and-golden-tilefish) (2026-03-30) — Commerce Department
+- [Gulf Fishery Management Council; Public Meeting](https://www.federalregister.gov/documents/2026/03/10/2026-04699/gulf-fishery-management-council-public-meeting) (2026-03-10) — Commerce Department
+- [Electronic Logbook Reporting in Commercial Fisheries of the Gulf of America and Atlantic](https://www.federalregister.gov/documents/2025/11/20/2025-20491/electronic-logbook-reporting-in-commercial-fisheries-of-the-gulf-of-america-and-atlantic) (2025-11-20) — Commerce Department
+- [New England Fishery Management Council; Public Meeting](https://www.federalregister.gov/documents/2025/08/20/2025-15893/new-england-fishery-management-council-public-meeting) (2025-08-20) — Commerce Department
+- [Gulf Council Fishery Management Council; Public Meeting](https://www.federalregister.gov/documents/2025/08/13/2025-15367/gulf-council-fishery-management-council-public-meeting) (2025-08-13) — Commerce Department
+- [South Atlantic Fishery Management Council (Council); Public Meetings](https://www.federalregister.gov/documents/2025/07/28/2025-14178/south-atlantic-fishery-management-council-council-public-meetings) (2025-07-28) — Commerce Department
+- ... and 606 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Atlantic%20Council%22) (Tier 1)
+<!-- auto:federal-register end -->

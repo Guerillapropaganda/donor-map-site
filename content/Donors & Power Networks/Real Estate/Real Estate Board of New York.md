@@ -2,7 +2,7 @@
 title: "Real Estate Board of New York"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Real Estate"
@@ -27,6 +27,10 @@ regulatory-agencies:
   - "Environmental Protection Agency"
   - "Federal Energy Regulatory Commission"
   - "Securities and Exchange Commission"
+ein: 131201480
+annual-revenue: "$17.2M"
+net-assets: "$26.7M"
+tax-year: "2023"
 ---
 
 #real-estate-lobby #nyc-politics #zoning #housing-policy #developer-power #class-analysis #follow-the-money
@@ -211,3 +215,18 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Real%20Estate%20Board%20of%20New%20York%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $17.2M |
+| Total Contributions | $2.3M |
+| Program Service Revenue | $15.0M |
+| Investment Income | $187K |
+| Total Expenses | $16.4M |
+| Net Assets | $26.7M |
+| Officer Compensation | $4.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 131201480](https://projects.propublica.org/nonprofits/organizations/131201480) (Tier 1)
+<!-- auto:propublica-990 end -->
