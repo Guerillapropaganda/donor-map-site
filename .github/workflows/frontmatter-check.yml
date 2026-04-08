@@ -33,7 +33,7 @@ jobs:
               'sub-note', 'event', 'media-profile', 'think-tank',
               'lobbying-firm', 'meta'
             ];
-            const VALID_READINESS = ['raw', 'draft', 'developed', 'ready'];
+            const VALID_READINESS = ['raw', 'draft', 'ready', 'verified'];
             const VALID_SOURCE_TIERS = [1, 2, 3, 4, null];
             const VALID_PARTIES = ['Democrat', 'Republican', 'Independent'];
 

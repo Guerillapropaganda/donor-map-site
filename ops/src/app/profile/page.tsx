@@ -36,7 +36,7 @@ interface Connection {
   source: string; target: string; relationshipType: "related" | "donors" | "opposes"
 }
 
-const READINESS_STEPS = ["raw", "draft", "developed", "verified", "ready"]
+const READINESS_STEPS = ["raw", "draft", "ready", "verified"]
 const REL_COLORS = { related: "#5b8dce", donors: "#22c55e", opposes: "#ef4444" }
 const REL_LABELS = { related: "Related", donors: "Funded By", opposes: "Opposes" }
 

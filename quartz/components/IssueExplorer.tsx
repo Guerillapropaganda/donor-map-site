@@ -227,8 +227,8 @@ function initIssueExplorer() {
       html += '<div class="ie-profile-grid">';
       for (var d = 0; d < issue.donors.length; d++) {
         var donor = issue.donors[d];
-        var status = (donor.readiness === 'ready' || donor.readiness === 'publication-ready') ? 'VERIFIED' : 'DRAFT';
-        var statusClass = status === 'VERIFIED' ? 'ie-verified' : 'ie-draft';
+        var status = donor.readiness === 'verified' ? 'VERIFIED' : (donor.readiness === 'ready' || donor.readiness === 'publication-ready') ? 'SOURCED' : 'DRAFT';
+        var statusClass = status === 'VERIFIED' ? 'ie-verified' : status === 'SOURCED' ? 'ie-sourced' : 'ie-draft';
         html += '<a href="' + donor.slug + '" class="ie-profile-card internal">';
         html += '<span class="ie-profile-name">' + donor.name + '</span>';
         if (donor.sector && donor.sector !== 'undefined') {

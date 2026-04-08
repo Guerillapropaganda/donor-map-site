@@ -110,6 +110,69 @@ export async function GET(request: Request) {
         })
       }
 
+      // === STALENESS DECAY CANDIDATES ===
+      const VERIFIED_DECAY_DAYS = 90
+      const READY_DECAY_DAYS = 180
+      const verifiedDecayCandidates: string[] = []
+      const readyDecayCandidates: string[] = []
+      const nearVerifiedProfiles: string[] = []
+
+      for (const p of profiles) {
+        const daysSinceEnriched = p.lastEnriched
+          ? (now.getTime() - new Date(p.lastEnriched).getTime()) / 86400000
+          : Infinity
+
+        if (p.contentReadiness === "verified" && daysSinceEnriched > VERIFIED_DECAY_DAYS) {
+          verifiedDecayCandidates.push(p.title)
+        }
+        if (p.contentReadiness === "ready" && daysSinceEnriched > READY_DECAY_DAYS) {
+          readyDecayCandidates.push(p.title)
+        }
+        // Near-verified: ready profiles with 2+ source types, just missing sign-off
+        if (p.contentReadiness === "ready" && (p.sourceTypes || []).length >= 2 && !p.lastVerifiedBy) {
+          nearVerifiedProfiles.push(p.title)
+        }
+      }
+
+      if (verifiedDecayCandidates.length > 0) {
+        alerts.push({
+          id: "verified-decay",
+          severity: "warning",
+          category: "stale",
+          title: `${verifiedDecayCandidates.length} verified profiles need re-enrichment (90+ days)`,
+          description: "These A+ profiles will decay to ready (B) if not re-enriched soon.",
+          profiles: verifiedDecayCandidates.slice(0, 20),
+          count: verifiedDecayCandidates.length,
+          timestamp: today,
+        })
+      }
+
+      if (readyDecayCandidates.length > 0) {
+        alerts.push({
+          id: "ready-decay",
+          severity: "info",
+          category: "stale",
+          title: `${readyDecayCandidates.length} ready profiles may decay to draft (180+ days)`,
+          description: "These B-grade profiles haven't been updated in 180+ days. Run staleness-decay.cjs to apply demotions.",
+          profiles: readyDecayCandidates.slice(0, 20),
+          count: readyDecayCandidates.length,
+          timestamp: today,
+        })
+      }
+
+      if (nearVerifiedProfiles.length > 0) {
+        alerts.push({
+          id: "near-verified",
+          severity: "info",
+          category: "readiness",
+          title: `${nearVerifiedProfiles.length} profiles close to A+ (need editorial sign-off)`,
+          description: "These profiles have 2+ Tier 1 source types and just need editorial sign-off to be promoted to verified (A+).",
+          profiles: nearVerifiedProfiles.slice(0, 20),
+          count: nearVerifiedProfiles.length,
+          timestamp: today,
+        })
+      }
+
       // Stats from vault
       const stats = vaultData.stats || {}
       if (stats.totalProfiles) {

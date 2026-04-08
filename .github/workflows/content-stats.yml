@@ -123,7 +123,7 @@ jobs:
           const totalProfiles = politicians.length + donors.length;
 
           // --- Readiness ---
-          const readinessLevels = ['raw', 'draft', 'developed', 'ready'];
+          const readinessLevels = ['raw', 'draft', 'ready', 'verified'];
           const readiness = {};
           for (const level of readinessLevels) {
             readiness[level] = profiles.filter(p => p.contentReadiness === level).length;
@@ -175,10 +175,10 @@ jobs:
 
           | Level | Count |
           |-------|-------|
-          | Raw | ${readiness.raw} |
-          | Draft | ${readiness.draft} |
-          | Developed | ${readiness.developed} |
-          | Ready | ${readiness.ready} |
+          | Raw (D-F) | ${readiness.raw} |
+          | Draft (C) | ${readiness.draft} |
+          | Ready (B) | ${readiness.ready} |
+          | Verified (A+) | ${readiness.verified} |
           | Unknown / Not Set | ${unknownReadiness} |
 
           ## Verification Status

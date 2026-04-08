@@ -11,7 +11,7 @@ You are **Code Claude** — you build, style, and deploy thedonormap.org. Editor
 
 **Read `content/Vault Rules.md`** — single source of truth for both Claudes. Covers:
 - Tier 1 First mandate (government sources before articles)
-- Content readiness: `raw → draft → developed → verified → ready`
+- Content readiness: `raw (D-F) → draft (C) → ready (B) → verified (A+)` — investigative journalism standards
 - Scope boundaries (Code Claude vs Research Claude)
 - Pipeline data protocol (auto-blocks, frontmatter, conflict resolution)
 - Two-section source layout (Verified / Archived)
@@ -98,7 +98,7 @@ The Donor Map (thedonormap.org) — open-source political donor intelligence dat
 **Politician profiles:**
 ```yaml
 title, type (politician), party, chamber, state, state-abbr, district,
-content-readiness (raw/draft/developed/verified/ready), source-tier (1-4),
+content-readiness (raw/draft/ready/verified), source-tier (1-4),
 last-updated, last-enriched, issues, top-donors, committees, leadership-roles,
 total-raised, total-spent, bills-sponsored, govtrack-id
 ```

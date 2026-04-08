@@ -20,6 +20,7 @@ const ProfileHeader: QuartzComponent = ({
       : sourceTier.replace(/-/g, " ").replace(/^tier /i, "TIER ").toUpperCase()
     : ""
   const readinessLabel = readiness.replace(/-/g, " ").toUpperCase()
+  const isVerified = readiness === "verified"
   const isReady = readiness === "publication-ready" || readiness === "ready"
 
   // Party for politicians
@@ -50,8 +51,8 @@ const ProfileHeader: QuartzComponent = ({
         )}
         <span class={`ph-badge ${typeClass}`}>{typeLabel.toUpperCase()}</span>
         {tierLabel && <span class="ph-badge ph-tier">{tierLabel}</span>}
-        <span class={`ph-badge ph-readiness ${isReady ? "ph-ready" : "ph-draft"}`}>
-          {readinessLabel}
+        <span class={`ph-badge ph-readiness ${isVerified ? "ph-verified" : isReady ? "ph-ready" : "ph-draft"}`}>
+          {isVerified ? "VERIFIED (A+)" : readinessLabel}
         </span>
       </div>
       {lastUpdated && (

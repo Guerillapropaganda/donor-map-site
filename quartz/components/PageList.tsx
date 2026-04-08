@@ -188,9 +188,12 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                     aria-label={`Content readiness: ${readiness}`}
                   >
                     <span class="listing-ready-dot"></span>
-                    {readiness !== "ready" && readiness !== "publication-ready" && (
+                    {readiness === "verified" && (
+                      <span class="listing-ready-label">A+</span>
+                    )}
+                    {readiness !== "ready" && readiness !== "publication-ready" && readiness !== "verified" && (
                       <span class="listing-ready-label">
-                        {readiness === "developed" ? "DEV" : readiness === "draft" ? "DRAFT" : "RAW"}
+                        {readiness === "draft" ? "DRAFT" : "RAW"}
                       </span>
                     )}
                   </span>

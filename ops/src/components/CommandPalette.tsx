@@ -40,9 +40,8 @@ const TYPE_COLORS: Record<string, string> = {
 const READINESS_COLORS: Record<string, string> = {
   raw: "#6b7280",
   draft: "#f59e0b",
-  developed: "#5b8dce",
-  verified: "#22c55e",
   ready: "#10b981",
+  verified: "#fbbf24",
 }
 
 export function CommandPalette() {

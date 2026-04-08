@@ -23,7 +23,7 @@ const TYPE_LABELS: Record<string, string> = {
   event: "Events",
 }
 
-const READINESS_LABELS = ["raw", "draft", "developed", "verified", "ready"]
+const READINESS_LABELS = ["raw", "draft", "ready", "verified"]
 
 export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGridProps) {
   const [search, setSearch] = useState("")
@@ -311,7 +311,7 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
                 className="h-full rounded-full transition-all"
                 style={{
                   backgroundColor: readinessColor(profile.contentReadiness),
-                  width: `${({ raw: 10, draft: 30, developed: 55, verified: 80, ready: 100 }[profile.contentReadiness] || 10)}%`,
+                  width: `${({ raw: 10, draft: 35, ready: 65, verified: 100 }[profile.contentReadiness] || 10)}%`,
                 }}
               />
             </div>

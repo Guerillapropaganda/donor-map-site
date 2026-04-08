@@ -36,9 +36,9 @@ export function StatsBar({ stats, loading }: StatsBarProps) {
       <StatCard label="Coverage" value={`${coverage}%`} color="var(--color-steel)" />
       <StatCard label="Tier 1 Sources" value={stats.withTier1.toLocaleString()} color="var(--color-green)" />
       <StatCard label="Not Enriched" value={stats.notEnriched.toLocaleString()} color="var(--color-amber)" />
+      <StatCard label="Verified (A+)" value={(stats.byReadiness["verified"] || 0).toLocaleString()} color="#fbbf24" />
+      <StatCard label="Ready (B)" value={(stats.byReadiness["ready"] || 0).toLocaleString()} color="#10b981" />
       <StatCard label="Stale (30+ days)" value={(stats.staleCount || 0).toLocaleString()} color="var(--color-red)" />
-      <StatCard label="Never Enriched" value={(stats.neverEnriched || 0).toLocaleString()} color="var(--color-amber)" />
-      <StatCard label="Ready" value={(stats.byReadiness["ready"] || 0).toLocaleString()} color="#10b981" />
     </div>
   )
 }

@@ -213,6 +213,37 @@ Run: `node scripts/opensecrets-replace.cjs --write`
 
 Old OpenSecrets URLs move to the **Archived** section in profile sources per Vault Rules.
 
+## Auto-Promotion & Staleness Decay
+
+Pipelines can auto-promote profiles through readiness tiers:
+
+| Transition | Trigger | Automatic? |
+|-----------|---------|-----------|
+| `raw → draft` | Any substantive content added (body > 100 chars or Tier 1 source) | Yes |
+| `draft → ready` | Body > 500 chars + Tier 1 sources + enriched + connections exist | Yes |
+| `ready → verified` | 2+ Tier 1 source types + no contradictions + human sign-off | **NO — requires editorial** |
+| `verified → ready` | 90 days without re-enrichment (staleness decay) | Yes (automatic) |
+| `ready → draft` | 180 days without any update (staleness decay) | Yes (automatic) |
+
+### Reclassification Script
+
+Audits all profiles against the 4-tier criteria and reclassifies:
+```bash
+node scripts/reclassify-readiness.cjs                    # dry run (report)
+node scripts/reclassify-readiness.cjs --write            # apply changes
+node scripts/reclassify-readiness.cjs --profile="Name"   # single profile
+```
+
+Also computes `source-types`, `corroboration-count`, and `known-gaps` for each profile.
+
+### Staleness Decay Script
+
+Demotes stale profiles automatically:
+```bash
+node scripts/staleness-decay.cjs                          # dry run (report)
+node scripts/staleness-decay.cjs --write                  # apply demotions
+```
+
 ## Reports
 
 Pipeline output goes to `reports/` (gitignored). Key files:

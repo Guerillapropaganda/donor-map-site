@@ -290,11 +290,10 @@ export default function EditorPage() {
                         onChange={(e) => updateField(key, e.target.value)}
                         className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-2 py-1.5 text-[10px] text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)]"
                       >
-                        <option value="raw">raw</option>
-                        <option value="draft">draft</option>
-                        <option value="developed">developed</option>
-                        <option value="verified">verified</option>
-                        <option value="ready">ready</option>
+                        <option value="raw">raw (D-F)</option>
+                        <option value="draft">draft (C)</option>
+                        <option value="ready">ready (B)</option>
+                        <option value="verified">verified (A+)</option>
                       </select>
                     ) : value.length > 80 ? (
                       <textarea

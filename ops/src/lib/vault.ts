@@ -20,6 +20,11 @@ export interface Profile {
   folder: string
   subfolder: string
   completeness?: number
+  // New investigative journalism fields
+  knownGaps?: string[]
+  corroborationCount?: number
+  lastVerifiedBy?: string          // "pipeline" | "editorial"
+  sourceTypes?: string[]
 }
 
 // Parse frontmatter from markdown content
@@ -50,6 +55,10 @@ export function parseProfile(path: string, content: string): Profile {
     donors: data.donors,
     folder,
     subfolder,
+    knownGaps: data["known-gaps"],
+    corroborationCount: data["corroboration-count"],
+    lastVerifiedBy: data["last-verified-by"],
+    sourceTypes: data["source-types"],
   }
 }
 
@@ -136,11 +145,10 @@ export function extractUrls(content: string): { url: string; label: string; tier
 // Readiness color mapping
 export function readinessColor(status: string): string {
   switch (status) {
-    case "raw": return "#6b7280"      // grey
-    case "draft": return "#f59e0b"    // amber
-    case "developed": return "#5b8dce" // steel blue
-    case "verified": return "#22c55e"  // green
-    case "ready": return "#10b981"     // bright green
+    case "raw": return "#6b7280"      // grey — D-F
+    case "draft": return "#f59e0b"    // amber — C
+    case "ready": return "#10b981"    // green — B
+    case "verified": return "#fbbf24" // gold — A+ (investigative standard)
     default: return "#6b7280"
   }
 }
@@ -171,6 +179,7 @@ export interface VaultStats {
   withTier1: number
   staleCount: number
   neverEnriched: number
+  decayCandidates: { verifiedToReady: number; readyToDraft: number }
 }
 
 export function computeStats(profiles: Profile[]): VaultStats {
@@ -180,19 +189,28 @@ export function computeStats(profiles: Profile[]): VaultStats {
   let withTier1 = 0
   let staleCount = 0
   let neverEnriched = 0
+  let verifiedToReady = 0
+  let readyToDraft = 0
   const now = Date.now()
-  const STALE_DAYS = 30
-  const staleThreshold = STALE_DAYS * 24 * 60 * 60 * 1000
+  const VERIFIED_DECAY_DAYS = 90
+  const READY_DECAY_DAYS = 180
 
   for (const p of profiles) {
     byType[p.type] = (byType[p.type] || 0) + 1
     byReadiness[p.contentReadiness] = (byReadiness[p.contentReadiness] || 0) + 1
     if (p.lastEnriched) {
       enriched++
-      const enrichedDate = new Date(p.lastEnriched).getTime()
-      if (now - enrichedDate > staleThreshold) staleCount++
+      const daysSince = (now - new Date(p.lastEnriched).getTime()) / (24 * 60 * 60 * 1000)
+      if (daysSince > 30) staleCount++
+      if (p.contentReadiness === "verified" && daysSince > VERIFIED_DECAY_DAYS) verifiedToReady++
+      if (p.contentReadiness === "ready" && daysSince > READY_DECAY_DAYS) readyToDraft++
     } else {
       neverEnriched++
+      // Ready profiles with no enrichment and no recent update are decay candidates
+      if (p.contentReadiness === "ready") {
+        const lastUpdate = p.lastUpdated ? new Date(p.lastUpdated).getTime() : 0
+        if ((now - lastUpdate) / (24 * 60 * 60 * 1000) > READY_DECAY_DAYS) readyToDraft++
+      }
     }
     if (p.sourceTier === 1) withTier1++
   }
@@ -206,6 +224,7 @@ export function computeStats(profiles: Profile[]): VaultStats {
     withTier1,
     staleCount,
     neverEnriched,
+    decayCandidates: { verifiedToReady, readyToDraft },
   }
 }
 
@@ -214,11 +233,24 @@ export function profileNeeds(profile: Profile): string {
   if (profile.contentReadiness === "raw") return "Needs basic metadata and content"
   if (!profile.lastEnriched) return "Never enriched — run pipeline"
   if (!profile.sourceTier || profile.sourceTier > 2) return "Needs Tier 1 sources"
+
   const now = Date.now()
   const enrichedDate = new Date(profile.lastEnriched).getTime()
-  if (now - enrichedDate > 30 * 24 * 60 * 60 * 1000) return "Stale — last enriched " + profile.lastEnriched
-  if (profile.contentReadiness === "draft") return "Needs editorial development"
-  if (profile.contentReadiness === "developed") return "Needs verification pass"
-  if (profile.contentReadiness === "verified") return "Ready for final review"
+  const daysSinceEnriched = (now - enrichedDate) / (24 * 60 * 60 * 1000)
+
+  if (profile.contentReadiness === "verified") {
+    if (daysSinceEnriched > 90) return "Stale A+ — re-enrich to maintain verified status"
+    return "Up to date (A+)"
+  }
+
+  if (profile.contentReadiness === "ready") {
+    if (daysSinceEnriched > 180) return "Stale — needs re-enrichment"
+    const sourceCount = (profile.sourceTypes || []).length
+    if (sourceCount < 2) return "Needs 2+ Tier 1 source types for A+"
+    if (!profile.lastVerifiedBy) return "Needs editorial sign-off for A+"
+    return "Up to date (B)"
+  }
+
+  if (profile.contentReadiness === "draft") return "Needs enrichment and more sources"
   return "Up to date"
 }

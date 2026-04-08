@@ -3,7 +3,7 @@
 import type { VaultStats } from "@/lib/vault"
 import { readinessColor } from "@/lib/vault"
 
-const READINESS_ORDER = ["raw", "draft", "developed", "verified", "ready"]
+const READINESS_ORDER = ["raw", "draft", "ready", "verified"]
 
 export function ReadinessChart({ stats }: { stats: VaultStats | null }) {
   if (!stats) return null

@@ -54,28 +54,53 @@ Every factual claim in the vault must cite a government record. Articles provide
 
 ---
 
-## 2. Content Readiness
+## 2. Content Readiness (Investigative Journalism Standards)
 
-| Status | Meaning | Who promotes |
-|--------|---------|-------------|
-| `raw` | Stub or placeholder — no real content | Auto-created |
-| `draft` | Content exists, sources unverified or article-only | Research Claude |
-| `developed` | Editorial content solid, may lack Tier 1 backing | Research Claude |
-| `verified` | Has Tier 1 pipeline data backing factual claims | Pipeline (auto) + Research Claude (review) |
-| `ready` | Verified + editorial polish + all links working + no UNVERIFIED/URL NEEDED tags | Research Claude |
+4-tier grading system modeled on newsroom fact-check standards. Every tier reflects actual data quality, not just completeness.
+
+| Grade | Status | What it means | Who promotes |
+|-------|--------|--------------|-------------|
+| D-F | `raw` | Stub — needs everything | Auto-created |
+| C | `draft` | Some content, missing key pieces. Under active development | Pipeline or Research Claude |
+| B | `ready` | Has body + sources + pipeline enrichment + connections. May have gaps or single-source claims | Pipeline (auto-promotes when criteria met) |
+| A+ | `verified` | Gold standard. 2+ Tier 1 source types corroborating. Connections mapped. No contradictions. Enriched within 90 days. Human sign-off. Known gaps documented | Editorial sign-off required (pipeline CANNOT auto-promote) |
 
 **Promotion rules:**
-- `raw → draft`: Any substantive content added
-- `draft → developed`: Core sections filled, sources cited (any tier)
-- `developed → verified`: Pipeline has written auto-blocks with Tier 1 data OR Research Claude has manually added Tier 1 citations to all factual claims
-- `verified → ready`: All links tested working, no `(UNVERIFIED)` or `(URL NEEDED)` tags, editorial review complete
+- `raw → draft`: Any substantive content added (body > 100 chars or Tier 1 source exists)
+- `draft → ready`: Body > 500 chars + Tier 1 sources + pipeline enriched + connections mapped. Pipeline can auto-promote.
+- `ready → verified`: 2+ Tier 1 source types (e.g., FEC + Congress) + no unresolved contradictions + enriched within 90 days + editorial sign-off (`last-verified-by: editorial`). **Pipeline cannot auto-promote to this tier.**
 
-**Demotion rules:**
-- Adding `(UNVERIFIED)` or `(URL NEEDED)` to a `ready` file demotes it to `verified`
-- A `verified` file whose auto-blocks are removed or whose Tier 1 sources go dead demotes to `developed`
-- Demotion is not failure — it's the system being honest
+**Staleness decay (automatic demotion):**
+- `verified → ready`: After 90 days without re-enrichment. A+ profiles must stay current.
+- `ready → draft`: After 180 days without any update (enrichment or manual edit).
+- Decay is automatic — run `node scripts/staleness-decay.cjs --write` to apply.
+- Demotion is not failure — it's the system being honest about data freshness.
 
-**Current state (April 2026):** ~1,417 files are at `ready` but most lack Tier 1 pipeline backing. These stay published. The pipeline will gradually promote them through `verified` as it enriches profiles. No mass demotion — the new `verified` tier catches them organically.
+**Corroboration requirement (A+ only):**
+- A factual claim is "corroborated" when 2+ independent Tier 1 source types confirm it (e.g., FEC + Congress.gov both show the same committee assignment).
+- Profiles must have a `corroboration-count` >= 2 to qualify for verified.
+- Source types are detected by URL domain (fec.gov → FEC, congress.gov → Congress, lda.gov → LDA, etc.).
+
+**Known gaps (all profiles):**
+- Every profile should document what data is explicitly missing in `known-gaps` frontmatter.
+- Auto-populated by the reclassification script based on profile type (e.g., politicians missing Congress.gov data).
+- Transparency about gaps is strength, not weakness.
+
+**New frontmatter fields:**
+```yaml
+source-types:              # distinct Tier 1 sources present (auto-computed)
+  - FEC
+  - Congress
+corroboration-count: 3     # facts backed by 2+ source types (auto-computed)
+known-gaps:                # what data is explicitly missing (auto + manual)
+  - "No lobbying disclosure data"
+last-verified-by: editorial  # "pipeline" or "editorial" — gate for A+
+```
+
+**Reclassification:**
+- Run `node scripts/reclassify-readiness.cjs` for a dry-run report showing proposed tier changes
+- Run with `--write` to apply. Most profiles stay at `ready` (B) — honest assessment
+- Very few qualify for `verified` (A+) since it requires editorial sign-off
 
 ---
 
@@ -131,9 +156,10 @@ Pipelines write data into profiles automatically. This data must coexist with ed
 - Components on the site read frontmatter for live numbers (Both Sides meter, ProfileWidget stats)
 
 ### What triggers promotion:
-- When a pipeline successfully writes Tier 1 auto-blocks to a `developed` profile, it can be promoted to `verified`
-- The pipeline sets `last-enriched: YYYY-MM-DD` in frontmatter
-- Research Claude reviews and promotes to `ready` when editorial polish is complete
+- Pipeline sets `last-enriched: YYYY-MM-DD` in frontmatter on every enrichment run
+- Pipeline can auto-promote `raw → draft` and `draft → ready` when criteria are met (see Section 2)
+- Pipeline CANNOT promote to `verified` (A+) — that requires editorial sign-off via `last-verified-by: editorial`
+- Pipeline also computes `source-types` and `corroboration-count` from detected Tier 1 URLs
 
 ---
 
@@ -156,7 +182,7 @@ Pipelines write data into profiles automatically. This data must coexist with ed
 ```yaml
 title: Name
 type: politician | donor | corporation | pac | think-tank | lobbying-firm | media-profile | event | story
-content-readiness: raw | draft | developed | verified | ready
+content-readiness: raw | draft | ready | verified
 source-tier: 1-4 (highest tier source in the file)
 last-updated: YYYY-MM-DD
 ```
@@ -230,6 +256,7 @@ Permanent record of architectural and editorial decisions that affect the whole 
 
 | Date | Decision | Made by |
 |------|----------|---------|
+| 2026-04-08 | Readiness overhaul: "developed" removed, 4-tier system (raw/draft/ready/verified). Investigative journalism standards: corroboration, staleness decay, known-gaps, editorial sign-off gate. Verified = A+, Ready = B. | David |
 | 2026-04-07 | `opposes:` frontmatter field mandatory. Research Claude must tag adversarial connections on every profile review. Graph renders as red dashed lines. | David |
 | 2026-04-06 | New readiness tier: `verified` (has Tier 1 data). Existing `ready` files stay published, pipeline promotes through `verified` organically | David |
 | 2026-04-06 | Tier 1 First mandate — every factual claim needs government source | David |

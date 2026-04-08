@@ -25,10 +25,13 @@ const EvidencePanel: QuartzComponent = ({
   // Determine evidence status from content-readiness
   let evidenceStatus = "DRAFT"
   let evidenceClass = "ep-draft"
-  if (readiness === "publication-ready" || readiness === "ready") {
+  if (readiness === "verified") {
     evidenceStatus = "VERIFIED"
     evidenceClass = "ep-verified"
-  } else if (readiness === "developed" || readiness === "in-progress") {
+  } else if (readiness === "publication-ready" || readiness === "ready") {
+    evidenceStatus = "SOURCED"
+    evidenceClass = "ep-sourced"
+  } else if (readiness === "in-progress") {
     evidenceStatus = "IN PROGRESS"
     evidenceClass = "ep-progress"
   } else if (readiness === "raw" || readiness === "placeholder") {
@@ -189,9 +192,15 @@ EvidencePanel.css = `
 }
 
 .ep-verified {
-  color: #22c55e;
-  background: rgba(34, 197, 94, 0.12);
-  border: 1px solid rgba(34, 197, 94, 0.25);
+  color: #fbbf24;
+  background: rgba(251, 191, 36, 0.12);
+  border: 1px solid rgba(251, 191, 36, 0.25);
+}
+
+.ep-sourced {
+  color: #10b981;
+  background: rgba(16, 185, 129, 0.12);
+  border: 1px solid rgba(16, 185, 129, 0.25);
 }
 
 .ep-progress {
