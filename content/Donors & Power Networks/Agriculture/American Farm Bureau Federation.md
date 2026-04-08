@@ -251,15 +251,15 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 - [EWG: Farm Subsidies Ballooned Under Trump (Interactive)](https://www.ewg.org/interactive-maps/2021-farm-subsidies-ballooned-under-trump/) (Tier 1) (VERIFIED)
 - [Investigate Midwest: The "Voice of Agriculture" — These Groups Beg to Differ](https://investigatemidwest.org/2022/02/08/the-american-farm-bureau-federation-claims-its-the-voice-of-agriculture-these-groups-beg-to-differ/) (Tier 2) (VERIFIED)
 - [Civil Eats: How Four Years of Trump Reshaped Food and Farming](https://civileats.com/2020/11/02/how-four-years-of-trump-reshaped-food-and-farming/) (Tier 2) (VERIFIED)
-- [Inside Climate News: Reducing Methane from Livestock Critical for Climate](https://insideclimatenews.org/news/22122023/milking-it-reducing-methane-from-livestock-critical-for-climate/) (Tier 2)
-- [NPR: Trump Administration Announcing $12 Billion in Farm Payments](https://www.npr.org/2018/07/24/631953880/trump-administration-to-provide-farmers-12-billion-to-offset-tariffs) (Tier 2)
-- [The Nation: Whose Side Is the American Farm Bureau On?](https://www.thenation.com/article/archive/whose-side-american-farm-bureau/) (Tier 2)
-- [Union of Concerned Scientists: Cultivating Control](https://www.ucs.org/resources/cultivating-control) (Tier 2)
-- [IATP: Farm Bureau Leadership Accused of Playing to Business Interests](https://www.iatp.org/news/farm-bureau-leadership-accused-of-playing-to-business-interests) (Tier 2)
-- [Missouri Independent: AFBF Representation Criticism](https://missouriindependent.com/2022/02/15/american-farm-bureau-federation-claims-its-the-voice-of-agriculture-others-beg-to-differ/) (Tier 2)
-- [InfluenceWatch: AFBF Profile](https://www.influencewatch.org/labor-union/american-farm-bureau-federation/) (Tier 3)
+- [Inside Climate News: Reducing Methane from Livestock Critical for Climate](https://insideclimatenews.org/news/22122023/milking-it-reducing-methane-from-livestock-critical-for-climate/) (Tier 2) (VERIFIED)
+- [NPR: Trump Administration Announcing $12 Billion in Farm Payments](https://www.npr.org/2018/07/24/631953880/trump-administration-to-provide-farmers-12-billion-to-offset-tariffs) (Tier 2) (VERIFIED)
+- [The Nation: Whose Side Is the American Farm Bureau On?](https://www.thenation.com/article/archive/whose-side-american-farm-bureau/) (Tier 2) (VERIFIED)
+- [Union of Concerned Scientists: Cultivating Control](https://www.ucs.org/resources/cultivating-control) (Tier 2) (VERIFIED)
+- [IATP: Farm Bureau Leadership Accused of Playing to Business Interests](https://www.iatp.org/news/farm-bureau-leadership-accused-of-playing-to-business-interests) (Tier 2) (VERIFIED)
+- [Missouri Independent: AFBF Representation Criticism](https://missouriindependent.com/2022/02/15/american-farm-bureau-federation-claims-its-the-voice-of-agriculture-others-beg-to-differ/) (Tier 2) (VERIFIED)
+- [InfluenceWatch: AFBF Profile](https://www.influencewatch.org/labor-union/american-farm-bureau-federation/) (Tier 3) (VERIFIED)
 - ~~[SourceWatch: AFBF](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Farm_Bureau_Federation)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- [Wikipedia: American Farm Bureau Federation](https://en.wikipedia.org/wiki/American_Farm_Bureau_Federation) (Tier 3)
+- [Wikipedia: American Farm Bureau Federation](https://en.wikipedia.org/wiki/American_Farm_Bureau_Federation) (Tier 3) (VERIFIED)
 
 ---
 
@@ -281,7 +281,7 @@ content-readiness:: ready
 | NRCCC - NON FED ACT | $3,000 | — |
 | REPUBLICAN NATIONAL COMMITTEE - CONTRIBUTIONS (AKA REPUBLICAN NATIONAL FINANCE COMMITTEE | $200 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Farm%20Bureau%20Federation) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Farm%20Bureau%20Federation) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Influence Network (Cross-Reference)
@@ -325,7 +325,7 @@ content-readiness:: ready
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/360725160) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/360725160) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -343,7 +343,7 @@ content-readiness:: ready
 - 2002-01-14 — **425**: FORM 425:  PRESS RELEASE
 - 2002-01-10 — **425**: 425
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Farm%20Bureau%20Federation%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Farm%20Bureau%20Federation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -362,5 +362,5 @@ content-readiness:: ready
 - United States v. Matthews (2025) — District Court, C.D. Illinois
 - United States v. RAFFENSPERGER (2025) — District Court, M.D. Georgia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Farm%20Bureau%20Federation%22&type=r) (Tier 1)
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Farm%20Bureau%20Federation%22&type=r) (Tier 1) (VERIFIED)
 <!-- auto:courtlistener-cases end -->
