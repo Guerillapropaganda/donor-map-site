@@ -128,8 +128,8 @@ Immigration — H-2A program, undocumented workforce
 
 ### Sources
 
-- [OpenSecrets: California Farm Bureau Federation](https://www.opensecrets.org/orgs/california-farm-bureau/summary?id=D000070197) (Tier 1)
-- [FPPC: CFBF/FarmPAC filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
+- [OpenSecrets: California Farm Bureau Federation](https://www.opensecrets.org/orgs/california-farm-bureau/summary?id=D000070197) (Tier 1) (NEEDS REVIEW: https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1007762&session=2023 seems to be the correct link verify dates for california farm burea federaton)
+- [FPPC: CFBF/FarmPAC filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (NEEDS REVIEW: https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1007762&session=2023 seems to be correct link verify dates for California farm bureau federation)
 
 research-status:: ready — 30K member families, FarmPAC $29K-$64K/cycle, AFBF $1.3-1.5M federal lobbying, anti-unionization radio spending, H-2A/AB 2183 positions, small farmer tension. 3 sources, Tier 1. All ### headers. Promoted Session 38l.
 content-readiness:: ready
@@ -145,15 +145,15 @@ content-readiness:: ready
 | Agencies | Alcohol and Tobacco Tax and Trade Bureau, Commerce Department, Environmental Protection Agency, Federal Motor Carrier Safety Administration, Fish and Wildlife Service, Food and Drug Administration, Health and Human Services Department, Homeland Security Department +7 more |
 
 **Recent regulatory activity:**
-- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption Relating to Agricultural Water](https://www.federalregister.gov/documents/2021/12/06/2021-26127/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption-relating) (2021-12-06) — Health and Human Services Department ★
-- [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/11/10/2021-24365/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (2021-11-10) — Interior Department ★
-- [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/01/15/2021-00484/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (2021-01-15) — Interior Department ★
-- [Hours of Service of Drivers](https://www.federalregister.gov/documents/2019/08/22/2019-17810/hours-of-service-of-drivers) (2019-08-22) — Transportation Department ★
-- [Amendments To Implement Certain Provisions of the Fixing America's Surface Transportation Act or “FAST Act”](https://www.federalregister.gov/documents/2016/07/22/2016-17114/amendments-to-implement-certain-provisions-of-the-fixing-americas-surface-transportation-act-or-fast) (2016-07-22) — Transportation Department
-- [Improve Tracking of Workplace Injuries and Illnesses](https://www.federalregister.gov/documents/2016/05/12/2016-10443/improve-tracking-of-workplace-injuries-and-illnesses) (2016-05-12) — Labor Department ★
+- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption Relating to Agricultural Water](https://www.federalregister.gov/documents/2021/12/06/2021-26127/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption-relating) (VERIFIED) (2021-12-06) — Health and Human Services Department ★
+- [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/11/10/2021-24365/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (VERIFIED) (2021-11-10) — Interior Department ★
+- [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/01/15/2021-00484/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (VERIFIED) (2021-01-15) — Interior Department ★
+- [Hours of Service of Drivers](https://www.federalregister.gov/documents/2019/08/22/2019-17810/hours-of-service-of-drivers) (VERIFIED: A Proposed Rule by the Federal Motor Carrier Safety Administration on 08/22/2019) (2019-08-22) — Transportation Department ★
+- [Amendments To Implement Certain Provisions of the Fixing America's Surface Transportation Act or “FAST Act”](https://www.federalregister.gov/documents/2016/07/22/2016-17114/amendments-to-implement-certain-provisions-of-the-fixing-americas-surface-transportation-act-or-fast) (VERIFIED) (2016-07-22) — Transportation Department
+- [Improve Tracking of Workplace Injuries and Illnesses](https://www.federalregister.gov/documents/2016/05/12/2016-10443/improve-tracking-of-workplace-injuries-and-illnesses) (VERIFIED) (2016-05-12) — Labor Department ★
 - ... and 17 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Farm%20Bureau%20Federation%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Farm%20Bureau%20Federation%22) (Tier 1) (VERIFIED: Hours of Service of Drivers: California Farm Bureau Federation; Granting of Application for Exemption)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -172,7 +172,7 @@ content-readiness:: ready
 - San Luis Obispo Coastkeeper, et al. v. County of San Luis Obispo (2024) — Court of Appeals for the Ninth Circuit
 - Baker Ranches, Inc., et al. v. Haaland, et al. (2024) — Court of Appeals for the Ninth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r) (Tier 1)
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r) (Tier 1) (VERIFIED)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -189,12 +189,12 @@ content-readiness:: ready
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
