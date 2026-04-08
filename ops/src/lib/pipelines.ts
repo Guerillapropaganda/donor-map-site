@@ -1,4 +1,11 @@
 // Pipeline definitions — maps to donor-map-engine's api-enrichment.yml
+//
+// ACTION TYPES:
+// - "auto-fill": Pure data. Press Enrich → goes live. No editorial needed.
+// - "source-discovery": Finds government sources, adds citations. Quick review recommended.
+// - "investigative": Pulls data that may need editorial review before publishing.
+// - "relationship": Connects profiles to each other automatically.
+
 export interface Pipeline {
   id: string
   name: string
@@ -7,47 +14,46 @@ export interface Pipeline {
   tier: number
   requiresAuth: boolean
   category: "financial" | "legislative" | "regulatory" | "judicial" | "investigative" | "reference"
+  action: "auto-fill" | "source-discovery" | "investigative" | "relationship"
 }
 
 export const PIPELINES: Pipeline[] = [
-  // Financial
-  { id: "fec", name: "FEC Filings", description: "Campaign finance data — contributions, expenditures, committee filings", source: "fec.gov", tier: 1, requiresAuth: true, category: "financial" },
-  { id: "fec-summary", name: "FEC Summary", description: "Candidate financial summaries — total raised, spent, cash on hand", source: "fec.gov", tier: 1, requiresAuth: true, category: "financial" },
-  { id: "usaspending", name: "USASpending", description: "Federal contract awards and grant data", source: "usaspending.gov", tier: 1, requiresAuth: false, category: "financial" },
-  { id: "usaspending-awards", name: "USASpending Awards", description: "Individual award details and recipient info", source: "usaspending.gov", tier: 1, requiresAuth: false, category: "financial" },
-  { id: "nonprofit-990", name: "Nonprofit 990s", description: "IRS 990 filings — revenue, expenses, executive compensation", source: "projects.propublica.org", tier: 1, requiresAuth: false, category: "financial" },
-  { id: "sam", name: "SAM.gov", description: "Federal entity registrations and exclusions", source: "sam.gov", tier: 1, requiresAuth: true, category: "financial" },
+  // ═══ AUTO-FILL — pure data, no editorial needed ═══
+  { id: "fec", name: "FEC Filings", description: "How much they raised, spent, and who donated", source: "fec.gov", tier: 1, requiresAuth: true, category: "financial", action: "auto-fill" },
+  { id: "fec-summary", name: "FEC Summary", description: "Total raised, total spent, cash on hand per cycle", source: "fec.gov", tier: 1, requiresAuth: true, category: "financial", action: "auto-fill" },
+  { id: "voting-record", name: "Voting Record", description: "Party loyalty %, ideology score, key votes table", source: "congress.gov + govtrack.us", tier: 1, requiresAuth: true, category: "legislative", action: "auto-fill" },
+  { id: "congress", name: "Congress.gov", description: "Bills sponsored, cosponsored, policy areas", source: "congress.gov", tier: 1, requiresAuth: true, category: "legislative", action: "auto-fill" },
+  { id: "committee", name: "Committee Assignments", description: "Which committees and subcommittees they sit on", source: "congress.gov", tier: 1, requiresAuth: true, category: "legislative", action: "auto-fill" },
+  { id: "govtrack", name: "GovTrack", description: "Legislative activity, bill tracking, vote analysis", source: "govtrack.us", tier: 1, requiresAuth: false, category: "legislative", action: "auto-fill" },
+  { id: "usaspending", name: "USASpending", description: "Federal contracts and grants they received", source: "usaspending.gov", tier: 1, requiresAuth: false, category: "financial", action: "auto-fill" },
+  { id: "usaspending-awards", name: "USASpending Awards", description: "Individual federal award details", source: "usaspending.gov", tier: 1, requiresAuth: false, category: "financial", action: "auto-fill" },
+  { id: "sam", name: "SAM.gov", description: "Government contractor registration status", source: "sam.gov", tier: 1, requiresAuth: true, category: "financial", action: "auto-fill" },
+  { id: "nonprofit-990", name: "Nonprofit 990s", description: "IRS tax filings — revenue, expenses, executive pay", source: "projects.propublica.org", tier: 1, requiresAuth: false, category: "financial", action: "auto-fill" },
+  { id: "ofac-sdn", name: "OFAC SDN", description: "Are they on the sanctions list?", source: "treasury.gov", tier: 1, requiresAuth: false, category: "regulatory", action: "auto-fill" },
+  { id: "recall", name: "CPSC Recalls", description: "Product safety recalls linked to this entity", source: "cpsc.gov", tier: 1, requiresAuth: false, category: "regulatory", action: "auto-fill" },
+  { id: "nhtsa-recalls", name: "NHTSA Recalls", description: "Vehicle safety recalls", source: "nhtsa.gov", tier: 1, requiresAuth: false, category: "regulatory", action: "auto-fill" },
+  { id: "sec-edgar", name: "SEC EDGAR", description: "Corporate filings — 10-K, proxy statements", source: "sec.gov", tier: 1, requiresAuth: false, category: "judicial", action: "auto-fill" },
+  { id: "wikipedia", name: "Wikipedia/Wikidata", description: "Bio data, positions held, key facts", source: "wikipedia.org", tier: 3, requiresAuth: false, category: "reference", action: "auto-fill" },
+  { id: "fcc", name: "FCC", description: "Broadcasting licenses and media ownership", source: "fcc.gov", tier: 1, requiresAuth: false, category: "regulatory", action: "auto-fill" },
 
-  // Legislative
-  { id: "congress", name: "Congress.gov", description: "Bills sponsored, cosponsored, votes cast", source: "congress.gov", tier: 1, requiresAuth: true, category: "legislative" },
-  { id: "committee", name: "Committee Assignments", description: "Congressional committee and subcommittee memberships", source: "congress.gov", tier: 1, requiresAuth: true, category: "legislative" },
-  { id: "govtrack", name: "GovTrack", description: "Legislative activity, vote records, bill tracking", source: "govtrack.us", tier: 1, requiresAuth: false, category: "legislative" },
-  { id: "lda", name: "Senate LDA", description: "Lobbying disclosure filings — registrations and activities", source: "lda.senate.gov", tier: 1, requiresAuth: true, category: "legislative" },
-  { id: "lobbyview", name: "LobbyView", description: "Client-bill lobbying networks — who lobbied on what", source: "lobbyview.org", tier: 1, requiresAuth: true, category: "legislative" },
-  { id: "lobbying-contrib", name: "Lobbying Cross-Ref", description: "Cross-references lobbyist contributions with filings", source: "lda.senate.gov", tier: 1, requiresAuth: false, category: "legislative" },
-  { id: "voting-record", name: "Voting Record", description: "Party loyalty, ideology score, missed votes, key votes table", source: "congress.gov + govtrack.us", tier: 1, requiresAuth: true, category: "legislative" },
+  // ═══ SOURCE DISCOVERY — adds citations, quick review recommended ═══
+  { id: "lda", name: "Senate LDA", description: "Lobbying disclosure filings — who lobbied for what", source: "lda.gov", tier: 1, requiresAuth: true, category: "legislative", action: "source-discovery" },
+  { id: "lobbyview", name: "LobbyView", description: "Lobbying networks — which bills they lobbied on", source: "lobbyview.org", tier: 1, requiresAuth: true, category: "legislative", action: "source-discovery" },
+  { id: "fara", name: "FARA", description: "Foreign agent registrations — who represents foreign governments", source: "fara.us", tier: 1, requiresAuth: false, category: "regulatory", action: "source-discovery" },
+  { id: "federal-register", name: "Federal Register", description: "Federal rules, notices, and executive orders mentioning them", source: "federalregister.gov", tier: 1, requiresAuth: false, category: "regulatory", action: "source-discovery" },
+  { id: "courtlistener", name: "CourtListener", description: "Federal court cases they're involved in", source: "courtlistener.com", tier: 1, requiresAuth: true, category: "judicial", action: "source-discovery" },
+  { id: "sec-litigation", name: "SEC Litigation", description: "SEC enforcement actions against them", source: "sec.gov", tier: 1, requiresAuth: false, category: "judicial", action: "source-discovery" },
+  { id: "doj-press", name: "DOJ Press", description: "Department of Justice mentions and press releases", source: "justice.gov", tier: 1, requiresAuth: false, category: "judicial", action: "source-discovery" },
+  { id: "osha", name: "OSHA", description: "Workplace safety violations and inspections", source: "dol.gov", tier: 1, requiresAuth: true, category: "regulatory", action: "source-discovery" },
 
-  // Regulatory
-  { id: "federal-register", name: "Federal Register", description: "Rules, proposed rules, notices, executive orders", source: "federalregister.gov", tier: 1, requiresAuth: false, category: "regulatory" },
-  { id: "fara", name: "FARA", description: "Foreign agent registrations and activities", source: "fara.us", tier: 1, requiresAuth: false, category: "regulatory" },
-  { id: "ofac-sdn", name: "OFAC SDN", description: "Sanctions list — specially designated nationals", source: "treasury.gov", tier: 1, requiresAuth: false, category: "regulatory" },
-  { id: "recall", name: "CPSC Recalls", description: "Consumer product safety recalls", source: "cpsc.gov", tier: 1, requiresAuth: false, category: "regulatory" },
-  { id: "nhtsa-recalls", name: "NHTSA Recalls", description: "Vehicle and equipment safety recalls", source: "nhtsa.gov", tier: 1, requiresAuth: false, category: "regulatory" },
+  // ═══ INVESTIGATIVE — needs editorial review before publishing ═══
+  { id: "propublica", name: "ProPublica", description: "Congressional member data and committee info", source: "propublica.org", tier: 2, requiresAuth: false, category: "investigative", action: "investigative" },
+  { id: "public-accountability", name: "Public Accountability", description: "Corporate accountability and transparency records", source: "publicaccountability.org", tier: 2, requiresAuth: false, category: "investigative", action: "investigative" },
+  { id: "opensanctions", name: "OpenSanctions", description: "Global sanctions and politically exposed persons", source: "opensanctions.org", tier: 2, requiresAuth: true, category: "investigative", action: "investigative" },
+  { id: "lobbying-contrib", name: "Lobbying Cross-Ref", description: "Maps lobbying spend to campaign donations to committee seats", source: "local vault", tier: 1, requiresAuth: false, category: "investigative", action: "investigative" },
 
-  // Judicial
-  { id: "courtlistener", name: "CourtListener", description: "Federal court cases and docket entries", source: "courtlistener.com", tier: 1, requiresAuth: true, category: "judicial" },
-  { id: "sec-edgar", name: "SEC EDGAR", description: "Corporate filings — 10-K, 10-Q, proxy statements", source: "sec.gov", tier: 1, requiresAuth: false, category: "judicial" },
-  { id: "sec-litigation", name: "SEC Litigation", description: "SEC enforcement actions and litigation releases", source: "sec.gov", tier: 1, requiresAuth: false, category: "judicial" },
-  { id: "doj-press", name: "DOJ Press", description: "Department of Justice press releases and announcements", source: "justice.gov", tier: 1, requiresAuth: false, category: "judicial" },
-
-  // Investigative
-  { id: "propublica", name: "ProPublica", description: "Congressional member data, committee info", source: "propublica.org", tier: 2, requiresAuth: false, category: "investigative" },
-  { id: "public-accountability", name: "Public Accountability", description: "Corporate accountability and transparency data", source: "publicaccountability.org", tier: 2, requiresAuth: false, category: "investigative" },
-  { id: "opensanctions", name: "OpenSanctions", description: "Global sanctions and PEP data", source: "opensanctions.org", tier: 2, requiresAuth: true, category: "investigative" },
-
-  // Reference
-  { id: "wikipedia", name: "Wikipedia/Wikidata", description: "Biographical data, positions held, affiliations", source: "wikipedia.org", tier: 3, requiresAuth: false, category: "reference" },
-  { id: "fcc", name: "FCC", description: "Broadcasting licenses and ownership data", source: "fcc.gov", tier: 1, requiresAuth: false, category: "regulatory" },
+  // ═══ RELATIONSHIP — connects profiles automatically ═══
+  { id: "auto-connect", name: "Auto-Connect", description: "Maps donor↔politician links, shared donors, opposition", source: "local vault", tier: 1, requiresAuth: false, category: "reference", action: "relationship" },
 ]
 
 export const CATEGORY_LABELS: Record<string, string> = {
@@ -66,4 +72,25 @@ export const CATEGORY_COLORS: Record<string, string> = {
   judicial: "#ef4444",
   investigative: "#a855f7",
   reference: "#06b6d4",
+}
+
+export const ACTION_LABELS: Record<string, string> = {
+  "auto-fill": "Auto-Fill",
+  "source-discovery": "Source Discovery",
+  investigative: "Needs Review",
+  relationship: "Relationship",
+}
+
+export const ACTION_COLORS: Record<string, string> = {
+  "auto-fill": "#22c55e",
+  "source-discovery": "#5b8dce",
+  investigative: "#f59e0b",
+  relationship: "#a855f7",
+}
+
+export const ACTION_DESCRIPTIONS: Record<string, string> = {
+  "auto-fill": "Pure data — press Enrich and it goes live. No editing needed.",
+  "source-discovery": "Finds government sources and adds citations. Quick review recommended.",
+  investigative: "Pulls data that should be reviewed before publishing.",
+  relationship: "Connects profiles to each other automatically.",
 }

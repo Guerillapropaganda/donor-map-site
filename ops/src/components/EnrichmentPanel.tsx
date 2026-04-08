@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { PIPELINES, CATEGORY_LABELS, CATEGORY_COLORS } from "@/lib/pipelines"
+import { PIPELINES, ACTION_LABELS, ACTION_COLORS, ACTION_DESCRIPTIONS, CATEGORY_COLORS } from "@/lib/pipelines"
 import { PipelineCard } from "@/components/PipelineCard"
 
 interface EnrichmentPanelProps {
@@ -9,16 +9,16 @@ interface EnrichmentPanelProps {
   triggering: boolean
 }
 
+const ACTION_ORDER = ["auto-fill", "source-discovery", "investigative", "relationship"] as const
+
 export function EnrichmentPanel({ onTrigger, triggering }: EnrichmentPanelProps) {
-  const [selectedPipelines, setSelectedPipelines] = useState<Set<string>>(new Set(PIPELINES.map((p) => p.id)))
+  const [selectedPipelines, setSelectedPipelines] = useState<Set<string>>(new Set(PIPELINES.filter((p) => p.action === "auto-fill").map((p) => p.id)))
   const [limit, setLimit] = useState(30)
-  const [categoryFilter, setCategoryFilter] = useState<string>("all")
+  const [actionFilter, setActionFilter] = useState<string>("all")
 
-  const categories = Array.from(new Set(PIPELINES.map((p) => p.category)))
-
-  const filtered = categoryFilter === "all"
+  const filtered = actionFilter === "all"
     ? PIPELINES
-    : PIPELINES.filter((p) => p.category === categoryFilter)
+    : PIPELINES.filter((p) => p.action === actionFilter)
 
   const togglePipeline = (id: string) => {
     setSelectedPipelines((prev) => {
@@ -31,8 +31,9 @@ export function EnrichmentPanel({ onTrigger, triggering }: EnrichmentPanelProps)
 
   const selectAll = () => setSelectedPipelines(new Set(PIPELINES.map((p) => p.id)))
   const selectNone = () => setSelectedPipelines(new Set())
-  const selectCategory = (cat: string) => {
-    setSelectedPipelines(new Set(PIPELINES.filter((p) => p.category === cat).map((p) => p.id)))
+  const selectAction = (action: string) => {
+    setSelectedPipelines(new Set(PIPELINES.filter((p) => p.action === action).map((p) => p.id)))
+    setActionFilter(action)
   }
 
   const handleTrigger = () => {
@@ -41,8 +42,6 @@ export function EnrichmentPanel({ onTrigger, triggering }: EnrichmentPanelProps)
     } else if (selectedPipelines.size === 1) {
       onTrigger(Array.from(selectedPipelines)[0], limit)
     } else {
-      // Trigger each selected pipeline individually
-      // For now, if multiple are selected but not all, we run them one at a time
       const ids = Array.from(selectedPipelines)
       ids.reduce((promise, id) => {
         return promise.then(() => onTrigger(id, limit))
@@ -52,59 +51,89 @@ export function EnrichmentPanel({ onTrigger, triggering }: EnrichmentPanelProps)
 
   return (
     <div>
-      {/* Controls bar */}
-      <div className="flex flex-wrap items-center gap-3 mb-4">
-        {/* Category filter chips */}
+      {/* Action type cards — the main way to understand pipelines */}
+      <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 mb-6">
+        {ACTION_ORDER.map((action) => {
+          const count = PIPELINES.filter((p) => p.action === action).length
+          const selected = PIPELINES.filter((p) => p.action === action && selectedPipelines.has(p.id)).length
+          return (
+            <button
+              key={action}
+              onClick={() => selectAction(action)}
+              className={`text-left p-3 rounded-lg border transition-all ${
+                actionFilter === action
+                  ? "border-current bg-current/10"
+                  : "border-[var(--color-border)] hover:border-current/30"
+              }`}
+              style={{ color: ACTION_COLORS[action] }}
+            >
+              <div className="flex items-center gap-2 mb-1">
+                <span className="w-2 h-2 rounded-full bg-current" />
+                <span className="text-[10px] font-bold uppercase tracking-wider">{ACTION_LABELS[action]}</span>
+                <span className="ml-auto text-[9px] opacity-60">{selected}/{count}</span>
+              </div>
+              <p className="text-[8px] leading-snug" style={{ color: "var(--color-text-dim)" }}>
+                {ACTION_DESCRIPTIONS[action]}
+              </p>
+            </button>
+          )
+        })}
+      </div>
+
+      {/* Quick actions */}
+      <div className="flex items-center gap-3 mb-4">
         <button
-          onClick={() => setCategoryFilter("all")}
-          className={`text-[9px] uppercase tracking-wider px-2.5 py-1.5 rounded-full border transition-all ${
-            categoryFilter === "all"
-              ? "border-[var(--color-steel)] text-[var(--color-steel)] bg-[var(--color-steel)]/10"
-              : "border-[var(--color-border)] text-[var(--color-text-dim)] hover:border-[var(--color-text-dim)]"
+          onClick={() => { setActionFilter("all"); selectAll() }}
+          className={`text-[9px] px-2.5 py-1.5 rounded-full border transition-all ${
+            actionFilter === "all" ? "border-[var(--color-steel)] text-[var(--color-steel)] bg-[var(--color-steel)]/10" : "border-[var(--color-border)] text-[var(--color-text-dim)]"
           }`}
         >
           All ({PIPELINES.length})
         </button>
-        {categories.map((cat) => (
-          <button
-            key={cat}
-            onClick={() => setCategoryFilter(cat)}
-            className={`text-[9px] uppercase tracking-wider px-2.5 py-1.5 rounded-full border transition-all ${
-              categoryFilter === cat
-                ? `border-current bg-current/10`
-                : "border-[var(--color-border)] hover:border-[var(--color-text-dim)]"
-            }`}
-            style={{
-              color: categoryFilter === cat ? CATEGORY_COLORS[cat] : "var(--color-text-dim)",
-            }}
-          >
-            {CATEGORY_LABELS[cat]} ({PIPELINES.filter((p) => p.category === cat).length})
-          </button>
-        ))}
-
-        {/* Spacer */}
         <div className="flex-1" />
-
-        {/* Selection controls */}
-        <button onClick={selectAll} className="text-[9px] text-[var(--color-steel)] hover:underline">
-          Select All
-        </button>
-        <button onClick={selectNone} className="text-[9px] text-[var(--color-text-dim)] hover:underline">
-          Clear
-        </button>
+        <button onClick={selectAll} className="text-[9px] text-[var(--color-steel)] hover:underline">Select All</button>
+        <button onClick={selectNone} className="text-[9px] text-[var(--color-text-dim)] hover:underline">Clear</button>
       </div>
 
-      {/* Pipeline grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2 mb-6">
-        {filtered.map((pipeline) => (
-          <PipelineCard
-            key={pipeline.id}
-            pipeline={pipeline}
-            selected={selectedPipelines.has(pipeline.id)}
-            onToggle={togglePipeline}
-          />
-        ))}
-      </div>
+      {/* Pipeline grid — grouped by action type */}
+      {actionFilter === "all" ? (
+        ACTION_ORDER.map((action) => {
+          const group = PIPELINES.filter((p) => p.action === action)
+          if (group.length === 0) return null
+          return (
+            <div key={action} className="mb-6">
+              <div className="flex items-center gap-2 mb-2">
+                <span className="w-2 h-2 rounded-full" style={{ backgroundColor: ACTION_COLORS[action] }} />
+                <h3 className="text-[10px] font-bold uppercase tracking-wider" style={{ color: ACTION_COLORS[action] }}>
+                  {ACTION_LABELS[action]}
+                </h3>
+                <span className="text-[8px] text-[var(--color-text-dim)]">— {ACTION_DESCRIPTIONS[action]}</span>
+              </div>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2">
+                {group.map((pipeline) => (
+                  <PipelineCard
+                    key={pipeline.id}
+                    pipeline={pipeline}
+                    selected={selectedPipelines.has(pipeline.id)}
+                    onToggle={togglePipeline}
+                  />
+                ))}
+              </div>
+            </div>
+          )
+        })
+      ) : (
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2 mb-6">
+          {filtered.map((pipeline) => (
+            <PipelineCard
+              key={pipeline.id}
+              pipeline={pipeline}
+              selected={selectedPipelines.has(pipeline.id)}
+              onToggle={togglePipeline}
+            />
+          ))}
+        </div>
+      )}
 
       {/* Trigger bar */}
       <div className="sticky bottom-0 bg-[var(--color-bg)] border-t border-[var(--color-border)] -mx-6 px-6 py-4 flex items-center gap-4">
@@ -122,11 +151,9 @@ export function EnrichmentPanel({ onTrigger, triggering }: EnrichmentPanelProps)
             <option value={100}>100 profiles</option>
           </select>
         </div>
-
         <div className="flex-1 text-[10px] text-[var(--color-text-dim)]">
           {selectedPipelines.size} of {PIPELINES.length} pipelines selected
         </div>
-
         <button
           onClick={handleTrigger}
           disabled={triggering || selectedPipelines.size === 0}
