@@ -258,7 +258,7 @@ export default function UrlManagerPage() {
           {u.tier && <span className="ml-auto text-[7px] px-1 rounded bg-[var(--color-green)]/10 text-[var(--color-green)]">T{u.tier}</span>}
         </div>
         <div className="flex items-start gap-2">
-          <div className="flex-1 min-w-0">
+          <div className="min-w-0">
             <p className="text-[10px] text-[var(--color-text)] truncate">{u.label}</p>
             <div className="flex items-center gap-1.5">
               <a href={u.url} target="_blank" rel="noopener noreferrer" className="text-[9px] text-[var(--color-steel)] hover:underline truncate" onClick={(e) => e.stopPropagation()}>{u.url}</a>
