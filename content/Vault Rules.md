@@ -90,7 +90,10 @@ Every factual claim in the vault must cite a government record. Articles provide
 
 | Type | Must have for A+ |
 |------|-----------------|
-| Politician | Voting records, committee assignments, bills, FEC data, 2+ Tier 1 types |
+| Politician (Congress) | Voting records, committee assignments, bills, FEC data, 2+ Tier 1 types |
+| Politician (President) | Executive orders, cabinet appointments, FEC data, 2+ Tier 1 types. Voting record N/A-eligible. |
+| Politician (Governor) | Executive actions, key state legislation, FEC data, 2+ Tier 1 types. Voting record N/A-eligible. |
+| Politician (Cabinet) | Appointment documented, prior role / revolving door, 2+ Tier 1 types. Voting record N/A-eligible. |
 | Donor | Politicians funded, contribution amounts, sector, 2+ Tier 1 types |
 | Corporation | PAC contributions, lobbying filings, federal contracts, 2+ Tier 1 types |
 | Think Tank | Top funders, 990 data, policy positions, 1+ Tier 1 type |

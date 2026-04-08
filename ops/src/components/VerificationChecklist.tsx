@@ -11,18 +11,58 @@ interface ChecklistItem {
   naAllowed?: boolean  // Can be marked N/A
 }
 
-const CHECKLISTS: Record<string, ChecklistItem[]> = {
-  politician: [
-    { id: "voting-records", label: "Voting records exist", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record") },
-    { id: "committee-assignments", label: "Committee assignments", check: (p, raw) => !!p.committees || raw.includes("<!-- auto:committee-assignments") },
-    { id: "bills", label: "Bills sponsored/cosponsored", check: (p) => (p.billsSponsored || 0) > 0 || (p.billsCosponsored || 0) > 0, naAllowed: true },
+// Role-specific politician checklists
+function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
+  const common: ChecklistItem[] = [
     { id: "fec-data", label: "FEC fundraising data", check: (p, raw) => !!p.totalRaised || raw.includes("<!-- auto:fec-fundraising") || raw.includes("<!-- auto:fec-politician") },
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p) => (p.sourceTypes || []).length >= 2 },
-    { id: "connections", label: "Connections mapped", check: (p) => !!(p.related || p.donors) },
+    { id: "connections", label: "Connections mapped (donors + related)", check: (p) => !!(p.related || p.donors) },
     { id: "enriched", label: "Enriched within 90 days", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
     { id: "no-contradictions", label: "No unresolved contradictions", check: (_, raw) => !raw.includes("[!contradiction]") },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
-  ],
+  ]
+
+  const ch = (chamber || "").toLowerCase()
+
+  if (ch === "presidential" || ch === "president") {
+    return [
+      { id: "executive-orders", label: "Executive orders documented", check: (_, raw) => raw.includes("<!-- auto:federal-register") || raw.toLowerCase().includes("executive order") },
+      { id: "cabinet-appointments", label: "Cabinet appointments documented", check: (_, raw) => raw.toLowerCase().includes("cabinet") || raw.toLowerCase().includes("appointed") },
+      { id: "voting-records", label: "Prior voting record (if applicable)", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record"), naAllowed: true },
+      { id: "fec-data", label: "FEC fundraising data", check: (p, raw) => !!p.totalRaised || raw.includes("<!-- auto:fec") },
+      ...common,
+    ]
+  }
+
+  if (ch === "governor" || ch === "governors") {
+    return [
+      { id: "executive-actions", label: "Executive actions / state orders documented", check: (_, raw) => raw.toLowerCase().includes("executive order") || raw.toLowerCase().includes("signed into law") },
+      { id: "state-legislation", label: "Key state legislation", check: (_, raw) => raw.toLowerCase().includes("signed") || raw.toLowerCase().includes("vetoed"), naAllowed: true },
+      { id: "voting-records", label: "Prior voting record (if applicable)", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record"), naAllowed: true },
+      ...common,
+    ]
+  }
+
+  if (ch === "cabinet") {
+    return [
+      { id: "appointment", label: "Appointment & confirmation documented", check: (_, raw) => raw.toLowerCase().includes("confirmed") || raw.toLowerCase().includes("appointed") || raw.toLowerCase().includes("nominated") },
+      { id: "prior-role", label: "Prior role / revolving door documented", check: (_, raw) => raw.toLowerCase().includes("previously") || raw.toLowerCase().includes("former") },
+      { id: "voting-records", label: "Prior voting record (if applicable)", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record"), naAllowed: true },
+      ...common,
+    ]
+  }
+
+  // Default: Congress (Senate/House)
+  return [
+    { id: "voting-records", label: "Voting records exist", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record") },
+    { id: "committee-assignments", label: "Committee assignments", check: (p, raw) => !!p.committees || raw.includes("<!-- auto:committee-assignments") },
+    { id: "bills", label: "Bills sponsored/cosponsored", check: (p) => (p.billsSponsored || 0) > 0 || (p.billsCosponsored || 0) > 0, naAllowed: true },
+    ...common,
+  ]
+}
+
+const CHECKLISTS: Record<string, ChecklistItem[]> = {
+  // politician is handled by getPoliticianChecklist() — see getChecklist() below
   donor: [
     { id: "politicians-funded", label: "Politicians funded documented", check: (p) => !!p.politiciansFunded },
     { id: "contribution-amounts", label: "Total contribution amounts", check: (p) => !!p.totalPoliticalSpend || !!p.totalRaised },
@@ -92,7 +132,9 @@ interface Props {
 }
 
 export function VerificationChecklist({ profile, raw, onSaveNa }: Props) {
-  const items = CHECKLISTS[profile.type] || DEFAULT_CHECKLIST
+  const items = profile.type === "politician"
+    ? getPoliticianChecklist(profile.chamber)
+    : (CHECKLISTS[profile.type] || DEFAULT_CHECKLIST)
   const naItems = profile.checklistNa || []
   const [naInput, setNaInput] = useState<string | null>(null) // id being edited
   const [naReason, setNaReason] = useState("")

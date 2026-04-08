@@ -5,6 +5,7 @@ import { useSearchParams, useRouter } from "next/navigation"
 import Link from "next/link"
 import { readinessColor, typeColor } from "@/lib/vault"
 import { VerificationChecklist } from "@/components/VerificationChecklist"
+import { PipelineDataViewer } from "@/components/PipelineDataViewer"
 
 interface ProfileData {
   title: string
@@ -569,6 +570,31 @@ export default function ProfilePage() {
         <Link href="/" className="hover:text-[var(--color-steel)]">Dashboard</Link>
         <span>/</span>
         <span className="text-[var(--color-text)]">{profile.title}</span>
+        {/* Prev/Next navigation */}
+        {allProfiles.length > 0 && (() => {
+          const sorted = [...allProfiles].sort((a, b) => a.title.localeCompare(b.title))
+          const idx = sorted.findIndex((p) => p.path === profilePath)
+          const prev = idx > 0 ? sorted[idx - 1] : null
+          const next = idx < sorted.length - 1 ? sorted[idx + 1] : null
+          return (
+            <span className="ml-auto flex items-center gap-2">
+              {prev && (
+                <button onClick={() => router.push(`/profile?path=${encodeURIComponent(prev.path)}`)}
+                  className="text-[9px] text-[var(--color-text-dim)] hover:text-[var(--color-steel)] flex items-center gap-1"
+                  title={prev.title}>
+                  <span>&#8592;</span> Prev
+                </button>
+              )}
+              {next && (
+                <button onClick={() => router.push(`/profile?path=${encodeURIComponent(next.path)}`)}
+                  className="text-[9px] text-[var(--color-text-dim)] hover:text-[var(--color-steel)] flex items-center gap-1"
+                  title={next.title}>
+                  Next <span>&#8594;</span>
+                </button>
+              )}
+            </span>
+          )
+        })()}
       </div>
 
       {/* Header */}
@@ -754,6 +780,9 @@ export default function ProfilePage() {
               setProfile({ ...profile, checklistNa: naItems })
             }}
           />
+
+          {/* Pipeline Data Viewer — voting records, committees, bills, etc. */}
+          <PipelineDataViewer raw={rawContent} profileType={profile.type} />
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
           {/* Metadata */}
