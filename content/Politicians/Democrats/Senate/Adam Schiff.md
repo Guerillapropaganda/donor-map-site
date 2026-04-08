@@ -8,6 +8,7 @@ parent: null
 fec-candidate-id: "H0CA27085"
 donors: "[[AFL-CIO]]"
 related: "[[Barbara Lee]] · [[Laphonza Butler]]"
+internal-notes: "[URL Check 2026-04-08] 8 checked: 6 ok, 2 broken, 0 slow. | BROKEN: CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money. What does that mean? | BROKEN: Washington Post: Katie Porter appears outmatched by Adam Schiff's establishment support"
 ---
 
 #master-profile #democrat #senate #california #intelligence #hollywood #aipac #follow-the-money #class-analysis
