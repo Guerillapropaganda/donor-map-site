@@ -19,6 +19,7 @@ interface TriageEntry {
   label: string
   profile: string
   profilePath: string
+  note?: string
 }
 
 function getTriagePath(): string {
@@ -186,6 +187,7 @@ export async function POST(request: Request) {
         label: change.label,
         profile: change.profile,
         profilePath: change.profilePath,
+        note: change.note || undefined,
       }
     }
     saveTriage(triage)
