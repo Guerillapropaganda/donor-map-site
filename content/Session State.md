@@ -70,14 +70,25 @@ Editorial framework discussion with David — agreed on:
 - Research Claude + Code Claude integration protocol (surfaces → acts, requests → builds)
 - Additional editorial checks: cross-ref consistency, claim attribution, legal sensitivity, correction history, wikilink integrity, orphan detection, update cadence
 
+Additional done (continued):
+- **Editorial framework implemented** — checklist enforces readiness with bypass button, story grading (story/report/investigation by URL count), contradiction reworded as Research Claude requirement
+- **Story/event/sub-note checklists** — editorial types get editorial criteria, no enrichment required
+- **Vault integrity scanner** built — 499 broken wikilinks, 23 orphans, 10 cross-ref mismatches
+- **Integrity alerts wired into Ops** — reads from reports/vault-integrity.json
+- **New frontmatter fields** — corrections, update-cadence, legal-sensitivity
+- **Reclassification v2 run** — 1,493 files, 351 changes. Final: 899 ready, 565 draft, 29 raw, 0 verified, 0 developed
+- **Back/Forward nav** in sidebar (site-wide)
+- **Executive orders pipeline** ran — Obama, Clinton, Biden, Trump, Bush W all written
+- **Vault Rules** fully updated with editorial framework, integration protocol, story grading, contradiction protocol
+
 Next session priorities:
-1. **Implement editorial framework** — enforce checklist on readiness, bypass button, story grading, contradiction reword, Research Claude integration protocol
-2. **Write into Vault Rules** — complete editorial standards documentation
-3. **Build automated checks** — cross-ref consistency checker, wikilink integrity scanner, orphan detector
-4. Graph legend on live site
-5. Contradiction scanner
-6. Money trail visualizer
-7. Fix lda-pipeline.cjs domain
+1. Graph legend on live site (Stories, Opposition, entity types)
+2. Contradiction scanner — auto-find shared-donor contradictions
+3. Money trail visualizer — donor→politician→committee→bill flow
+4. Fix lda-pipeline.cjs domain
+5. Governor executive actions pipeline (state-level)
+6. Verify live site build with all readiness/component changes
+7. Social scheduling for Distribution page
 
 Next session priorities:
 1. Run reclassify-readiness.cjs --write after David reviews report
