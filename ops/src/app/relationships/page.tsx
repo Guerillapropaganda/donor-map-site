@@ -354,6 +354,29 @@ export default function RelationshipsPage() {
           <h1 className="text-lg font-bold text-[var(--color-text)]">Relationship Mapper</h1>
           <p className="text-[10px] text-[var(--color-text-dim)]">{breakdown.total} connections across the vault</p>
         </div>
+        <button
+          onClick={async () => {
+            setSaving(true)
+            showToast("Triggering auto-connection engine...")
+            try {
+              const res = await fetch("/api/pipelines", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ workflow: "auto-connect.yml" }),
+              })
+              const data = await res.json()
+              if (data.error) showToast(`Error: ${data.error}`)
+              else showToast("Auto-connection engine triggered — check Pipelines for status")
+            } catch { showToast("Failed to trigger") }
+            finally { setSaving(false) }
+          }}
+          disabled={saving}
+          className="flex items-center gap-2 bg-[var(--color-green)]/15 text-[var(--color-green)] border border-[var(--color-green)]/30 rounded-lg px-4 py-2 text-xs hover:bg-[var(--color-green)]/25 transition-colors disabled:opacity-50">
+          <svg className={`w-3.5 h-3.5 ${saving ? "animate-spin" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
+          </svg>
+          Run Auto-Connect
+        </button>
       </div>
 
       {/* Stats bar */}

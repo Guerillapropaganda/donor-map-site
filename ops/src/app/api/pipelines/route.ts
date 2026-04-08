@@ -10,13 +10,24 @@ function getOctokit(): Octokit {
   return new Octokit({ auth: token })
 }
 
-// Trigger the enrichment pipeline
+// Trigger a pipeline workflow
 export async function POST(request: Request) {
   try {
     const body = await request.json()
-    const { pipeline = "all", limit = "30" } = body
+    const { pipeline = "all", limit = "30", workflow = "api-enrichment.yml" } = body
 
     const octokit = getOctokit()
+
+    // Auto-connect workflow has no inputs
+    if (workflow === "auto-connect.yml") {
+      await octokit.rest.actions.createWorkflowDispatch({
+        owner: OWNER,
+        repo: ENGINE_REPO,
+        workflow_id: "auto-connect.yml",
+        ref: "main",
+      })
+      return NextResponse.json({ success: true, workflow: "auto-connect" })
+    }
 
     await octokit.rest.actions.createWorkflowDispatch({
       owner: OWNER,
