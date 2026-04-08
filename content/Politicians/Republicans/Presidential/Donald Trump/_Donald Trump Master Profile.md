@@ -35,7 +35,6 @@ doj-components:
   - 'USAO - Ohio, Northern'
   - 'USAO - Ohio, Southern'
 opposes: '[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]]'
-donors: '[[_Gavin Newsom Master Profile]]'
 ---
 
 
