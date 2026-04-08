@@ -60,7 +60,7 @@ Deere & Company (John Deere). The world's largest agricultural equipment manufac
 
 Deere PAC contributes $1-2 million per cycle, with lobbying spending of $3-5 million annually. The company's political priorities center on agricultural trade policy (Deere exports equipment globally), opposition to right-to-repair legislation (which would allow farmers to repair their own equipment), and favorable manufacturing trade rules.
 
-- [OpenSecrets: Deere & Company organizational profile](https://www.opensecrets.org/orgs/deere-co/summary?id=D000000504) (Tier 1)
+- [OpenSecrets: Deere & Company organizational profile](https://www.opensecrets.org/orgs/deere-co/summary?id=D000000504) (NEEDS REVIEW) (Tier 1)
 
 ---
 

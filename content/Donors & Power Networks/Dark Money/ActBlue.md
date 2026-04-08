@@ -117,7 +117,7 @@ The structural difference is minor. Both are payment processors with embedded po
 
 ### Sources
 
-- [OpenSecrets: ActBlue organization profile](https://www.opensecrets.org/orgs/actblue/summary?id=D000021585) (Tier 1)
+- ~~[OpenSecrets: ActBlue organization profile](https://www.opensecrets.org/orgs/actblue/summary?id=D000021585)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Campaign Legal Center: "One of the Largest Financial Operations in Politics Is Shrouded in Secrecy"](https://campaignlegal.org/update/one-largest-financial-operations-politics-shrouded-secrecy) (Tier 2)
 - [Texas Attorney General Ken Paxton: Investigation into ActBlue fraud and suspicious donations](https://www.texasattorneygeneral.gov/news/releases/investigation-actblue-attorney-general-ken-paxton-uncovers-large-number-suspicious-donations-made) (Tier 1)
 - [House Administration Committee: Chairman Steil releases findings from ActBlue subpoena](https://republicans-cha.house.gov/2024/12/chairman-steil-releases-findings-from-subpoena-of-actblue) (Tier 1)

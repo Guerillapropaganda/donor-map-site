@@ -143,7 +143,7 @@ America Votes also reveals **structural inequality in progressive politics:**
 
 ### Sources
 
-- [OpenSecrets: America Votes organizational profile](https://www.opensecrets.org/orgs/america-votes/summary) (Tier 1)
+- ~~[OpenSecrets: America Votes organizational profile](https://www.opensecrets.org/orgs/america-votes/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [IRS Form 990: America Votes (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=America%20Votes&city=&state=All+States&country=US) (Tier 1)
 - [InfluenceWatch: America Votes — coordination hub and Democracy Alliance ties](https://www.influencewatch.org/non-profit/america-votes/) (Tier 3)
 - [Democracy Fund: Voter contact efficiency and coordination](https://democracyfund.org/grants/voter-contact-coordination-research/) (Tier 2)
