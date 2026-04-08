@@ -26,6 +26,9 @@ export interface Profile {
   lastVerifiedBy?: string          // "pipeline" | "editorial"
   sourceTypes?: string[]
   internalNotes?: string
+  corrections?: string[]
+  updateCadence?: string          // "weekly" | "monthly" | "quarterly" | "annual"
+  legalSensitivity?: string       // "standard" | "elevated" | "high"
   checklistNa?: string[]
   verifiedBlocks?: string[]
   // Type-specific fields for checklist
@@ -80,6 +83,9 @@ export function parseProfile(path: string, content: string): Profile {
     lastVerifiedBy: data["last-verified-by"],
     sourceTypes: data["source-types"],
     internalNotes: data["internal-notes"],
+    corrections: data.corrections,
+    updateCadence: data["update-cadence"],
+    legalSensitivity: data["legal-sensitivity"],
     checklistNa: data["checklist-na"],
     verifiedBlocks: data["verified-blocks"],
     billsSponsored: data["bills-sponsored"] ? parseInt(data["bills-sponsored"]) : undefined,

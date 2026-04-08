@@ -161,7 +161,34 @@ const TYPE_REQUIREMENTS = {
 
 // ─── Classification Logic ──────────────────────────────────────
 
-function classify(data, body, content, sourceTypes, tier1Count) {
+// Editorial types: graded by URL count, not enrichment
+const EDITORIAL_TYPES = ['story', 'event', 'sub-note', 'daily-update'];
+
+function countUrls(content) {
+  return (content.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length;
+}
+
+function classifyEditorial(data, content, tier1Count) {
+  const urlCount = countUrls(content);
+  const hasSignoff = data['last-verified-by'] === 'editorial';
+
+  // Investigation (A+): 10+ URLs, 3+ Tier 1, sign-off
+  if (urlCount >= 10 && tier1Count >= 3 && hasSignoff) {
+    return 'verified';
+  }
+  // Report (B): 5+ URLs
+  if (urlCount >= 5) {
+    return 'ready';
+  }
+  // Story (C): has some URLs
+  if (urlCount >= 1) {
+    return 'draft';
+  }
+  // Raw: no URLs
+  return 'raw';
+}
+
+function classifyProfile(data, body, content, sourceTypes, tier1Count) {
   const bodyLength = body.length;
   const hasConnections = !!(data.related || data.donors || data.opposes);
   const lastEnriched = data['last-enriched'];
@@ -181,6 +208,9 @@ function classify(data, body, content, sourceTypes, tier1Count) {
   const typeReqsMet = typeReqs.every(req => isNa(req.id) || req.check(data, content));
   const minSourceTypes = ['media-profile', 'think-tank'].includes(data.type) ? 1 : 2;
 
+  // Contradiction check: cleared or none present
+  const contradictionsClear = content.includes('[!contradiction-cleared]') || !content.includes('[!contradiction]');
+
   // A+ (verified): type-specific reqs + universal reqs
   if (
     typeReqsMet &&
@@ -189,7 +219,7 @@ function classify(data, body, content, sourceTypes, tier1Count) {
     hasConnections &&
     daysSinceEnriched <= 90 &&
     hasHumanSignoff &&
-    !hasUnresolvedContradictions &&
+    contradictionsClear &&
     bodyLength > 500
   ) {
     return 'verified';
@@ -212,6 +242,13 @@ function classify(data, body, content, sourceTypes, tier1Count) {
 
   // D-F (raw): stub
   return 'raw';
+}
+
+function classify(data, body, content, sourceTypes, tier1Count) {
+  if (EDITORIAL_TYPES.includes(data.type)) {
+    return classifyEditorial(data, content, tier1Count);
+  }
+  return classifyProfile(data, body, content, sourceTypes, tier1Count);
 }
 
 // ─── Main ──────────────────────────────────────────────────────

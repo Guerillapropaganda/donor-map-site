@@ -173,6 +173,55 @@ export async function GET(request: Request) {
         })
       }
 
+      // === VAULT INTEGRITY (from last scan) ===
+      try {
+        const fs = await import("fs")
+        const path = await import("path")
+        const repoRoot = path.default.resolve(process.cwd(), "..")
+        const reportPath = path.default.join(repoRoot, "reports", "vault-integrity.json")
+        if (fs.default.existsSync(reportPath)) {
+          const report = JSON.parse(fs.default.readFileSync(reportPath, "utf-8"))
+          if (report.wikilinks && report.wikilinks.brokenCount > 0) {
+            alerts.push({
+              id: "broken-wikilinks",
+              severity: report.wikilinks.brokenCount > 100 ? "warning" : "info",
+              category: "data",
+              title: `${report.wikilinks.brokenCount} broken wikilinks (${report.wikilinks.totalRefs} references)`,
+              description: "Wikilinks pointing to profiles that don't exist. Run vault-integrity.cjs for details.",
+              profiles: report.wikilinks.items.slice(0, 10).map((i: { target: string }) => i.target),
+              count: report.wikilinks.brokenCount,
+              timestamp: today,
+            })
+          }
+          if (report.orphans && report.orphans.orphanCount > 0) {
+            alerts.push({
+              id: "orphan-profiles",
+              severity: "info",
+              category: "data",
+              title: `${report.orphans.orphanCount} orphan profiles (no incoming links)`,
+              description: "These profiles are never referenced by any other profile. They may be miscategorized or need connections.",
+              profiles: report.orphans.items.slice(0, 10).map((i: { title: string }) => i.title),
+              count: report.orphans.orphanCount,
+              timestamp: today,
+            })
+          }
+          if (report.crossref && report.crossref.mismatchCount > 0) {
+            alerts.push({
+              id: "crossref-mismatches",
+              severity: "warning",
+              category: "data",
+              title: `${report.crossref.mismatchCount} cross-reference mismatches`,
+              description: "Profiles that list donors/connections that don't link back. Data inconsistency.",
+              profiles: report.crossref.items.slice(0, 10).map((i: { from: string }) => i.from),
+              count: report.crossref.mismatchCount,
+              timestamp: today,
+            })
+          }
+        }
+      } catch {
+        // No integrity report available
+      }
+
       // Stats from vault
       const stats = vaultData.stats || {}
       if (stats.totalProfiles) {
