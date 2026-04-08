@@ -12,51 +12,42 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-08 (marathon session — Ops v1.0 → v1.4)
+Date: 2026-04-08 (marathon session — Ops v1.0 → v1.5)
 
-Done:
-- **Ops v1.1**: Ctrl+K command palette, unified Profile page, rich activity feed, keyboard shortcuts, visual readiness badges
-- **Ops v1.2**: Source Hunter 6→15 APIs, auto-connection engine (8 strategies, 5,733 connections mapped), LDA migration (509 URLs), relationship editing on all views, clickable URLs everywhere, entity type filtering
-- **Ops v1.3**: Voting Record pipeline, pipeline action categories (Auto-Fill/Source Discovery/Needs Review/Relationship), visible edit controls on Explorer/Graph
-- **Ops v1.4**: Pipeline diff viewer, profile completeness score (0-100% ring), stories connection type
+This was the biggest single session in the project's history. Ops went from v1.0 to v1.5.
 
-**Pipeline Diff Viewer** — click any profile in enrichment history → see what changed: "Added votes-with-party: 92%", "Updated total-raised". Collapsible raw diff with green/red lines. New API: `/api/enrichment-history/diff`
+**Ops v1.1**: Ctrl+K command palette, unified Profile page (`/profile`), rich activity feed (categorized commits), keyboard shortcuts (`?` for help, `g+d/p/n/u/r/e`), visual readiness badges + progress bars on VaultGrid cards
 
-**Profile Completeness Score** — 0-100% based on 5 dimensions: frontmatter (20), sources (20), connections (20), content (20), enrichment (20). SVG progress ring on every VaultGrid card. Sort by completeness to find gaps.
+**Ops v1.2**: Source Hunter 6→15 APIs (LDA, SAM, CourtListener, FARA, DOJ Press, ProPublica, OSHA, OpenSanctions, LobbyView), auto-connection engine (8 strategies, 5,733 connections on first run), LDA migration (509 URLs lda.senate.gov→lda.gov), relationship editing on all views, clickable URLs everywhere, entity type filtering on Add Connection
 
-**Stories Connection Type** — 4th type alongside Related/Funded By/Opposes. Pink (#ec4899) dotted lines on graph. Available in all dropdowns, context menus, Add Connection. Live site ProfileWidget updated to read stories field.
+**Ops v1.3**: Voting Record pipeline (Congress.gov + GovTrack), pipeline action categories (Auto-Fill/Source Discovery/Needs Review/Relationship), visible edit controls (Explorer dropdowns, Graph pencil/X buttons)
 
-**Source Hunter**: 15 APIs. Keys in `ops/.env.local` matching GitHub Secret names.
-**Auto-Connection Engine**: 8 strategies, standalone workflow, Run Auto-Connect button on Relationships page. 5,733 connections mapped on first run.
-**Voting Record Pipeline**: Congress.gov + GovTrack → party loyalty, ideology score, key votes table.
-**Pipeline Categories**: Auto-Fill (green), Source Discovery (blue), Needs Review (amber), Relationship (purple).
-**LDA Migration**: 509 URLs → lda.gov. Auth fallback to old domain.
+**Ops v1.4**: Pipeline diff viewer (click profile → see what changed), profile completeness score (0-100% SVG ring), stories as 4th connection type (pink #ec4899)
+
+**Ops v1.5**: VotingRecord component on live site (party loyalty ring, ideology spectrum, leadership score), pipeline View Logs button (per-pipeline found/not-found/written/errors), voting record format changed from tables to stacked blockquotes (mobile-friendly), fixed David Sacks YAML build failure, fixed Obama NUL bytes, fixed Trump opposition graph, draggable graph nodes, fuzzy name matching on node clicks
 
 Architecture:
-- Engine: `auto-connection-engine.cjs`, `voting-record-pipeline.cjs`, `auto-connect.yml` workflow
-- Ops new: `CommandPalette.tsx`, `ClientProviders.tsx`, `KeyboardShortcuts.tsx`, `/profile` page, `/api/enrichment-history/diff`
-- Ops rewritten: `EnrichmentPanel.tsx`, `EnrichmentHistory.tsx`, `pipelines.ts`, `relationships/page.tsx`, `api/relationships/route.ts`, `api/connections/route.ts`, `api/sources/route.ts`
-- Live site: `ProfileWidget.tsx` updated for stories field
+- Engine: `auto-connection-engine.cjs` (8 strategies), `voting-record-pipeline.cjs`, `auto-connect.yml` workflow
+- Ops new: `CommandPalette.tsx`, `ClientProviders.tsx`, `KeyboardShortcuts.tsx`, `/profile` page, `/api/enrichment-history/diff`, `/api/pipelines/logs`
+- Ops rewritten: `EnrichmentPanel.tsx` (action categories), `EnrichmentHistory.tsx` (diff viewer), `PipelineRunHistory.tsx` (View Logs), `pipelines.ts` (action types + voting record), `relationships/page.tsx` (full rewrite — stories, draggable nodes, fuzzy matching), `api/relationships/route.ts` (body text + stories), `api/connections/route.ts` (stories + cache invalidation), `api/sources/route.ts` (15 APIs)
+- Live site: `VotingRecord.tsx` (new component), `ProfileWidget.tsx` (opposition fix + stories), Obama profile cleaned (NUL bytes), David Sacks YAML fixed
 
 Known issues:
-- **Trump's opposes not showing on live site graph** — ProfileWidget reads fm.opposes correctly but Obama/Newsom nodes may not resolve (name matching issue in graph builder)
 - `.next` cache corruption if app killed mid-compile — `rm -rf ops/.next`
-- LDA auth tokens don't work on lda.gov yet
+- LDA auth tokens don't work on lda.gov yet (using unauthenticated search)
 - `lda-pipeline.cjs` in engine repo still generates lda.senate.gov URLs
-
-Also done (end of session):
-- **Fixed Trump graph** — opposition targets now resolve for ALL profile types (was only non-politicians)
-- **Draggable graph nodes** — grab and reposition any node, lines follow, Reset restores layout
-- **Stories on graph** — pink dotted lines for story connections
+- Voting record pipeline: some profiles return "not found" on Congress.gov (name mismatches for former officials, governors)
 
 Next session priorities:
-1. **Stale profile detector** — surface profiles not enriched in 30+ days
-2. **Contradiction scanner** — auto-find shared-donor contradictions
-3. **Money trail visualizer** — donor→politician→committee→bill flow
-4. **Auto-story generator** — draft stories from detected patterns
-5. Fix lda-pipeline.cjs domain
-6. Social scheduling for Distribution page
-7. Profile completeness as a sort/filter on live site
+1. **Graph legend update on live site** — add Stories, Opposition, entity type descriptions
+2. **Stale profile detector** — surface profiles not enriched in 30+ days
+3. **Contradiction scanner** — auto-find shared-donor contradictions
+4. **Money trail visualizer** — donor→politician→committee→bill flow
+5. **Auto-story generator** — draft stories from detected patterns
+6. Fix lda-pipeline.cjs domain in engine repo
+7. Social scheduling for Distribution page
+8. Table responsiveness audit across the live site
+9. Riff on graph improvements (filterable, more interactive)
 
 ---
 
