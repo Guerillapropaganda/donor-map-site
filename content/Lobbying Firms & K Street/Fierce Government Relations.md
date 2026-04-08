@@ -8,7 +8,7 @@ parent: null
 annual-revenue: "$4.7M (2025)"
 lobbyist-count: 9
 revolving-door-pct: "77.8%"
-related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Cornerstone Government Affairs]]"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]]"
 ein: "520852291"
 nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-08"

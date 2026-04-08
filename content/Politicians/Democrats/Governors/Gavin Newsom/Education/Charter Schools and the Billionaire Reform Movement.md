@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Antonio Villaraigosa Master Profile]]"
+related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]]"
 ---
 
 

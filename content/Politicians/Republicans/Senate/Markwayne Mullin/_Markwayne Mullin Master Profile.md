@@ -15,6 +15,9 @@ total-received: "$4,666,234"
 fec-candidate-id: "S2OK00186"
 donors: "[[Devon Energy]]"
 related: "[[Kristi Noem]]"
+govtrack-id: 412568
+bills-sponsored: 23
+bills-cosponsored: 157
 ---
 
 #markwayne-mullin #oklahoma #senate #republican #energy #cherokee #indigenous #armed-services #dhs-secretary #trump-cabinet #plumber #stock-trading
@@ -188,3 +191,35 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 157 |
+| Total Votes Cast | 7,105 |
+
+**Recent bills sponsored:**
+
+- S. 3994: PRIME Meat Processing in Indian Country Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3945: Tribal Police Department Parity Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3946: Tribal Firearm Access Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 550: A bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other — *This bill passed in the Senate on December 15, 2025 and goes to the House next for consideration.*
+- S. 3302: Mikaela Naylon Give Kids a Chance Act of 2025 — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Co… | Not Voting | Cloture Motion Agreed to |
+| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homel… | Yea | Nomination Confirmed |
+| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security:… | Yea | Cloture Motion Agreed to |
+| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | Nay | Cloture Motion Rejected |
+| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in t… | Yea | Cloture Motion Rejected |
+| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. … | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-18 | On the Motion to Discharge S.J.Res. 118 | Nay | Motion to Discharge Rejected |
+| 2026-03-17 | Motion to Proceed on S. 1383: Safeguard American Voter Eligibility Act / SAVE Am… | Yea | Motion to Proceed Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412568) (Tier 1)
+<!-- auto:govtrack end -->
