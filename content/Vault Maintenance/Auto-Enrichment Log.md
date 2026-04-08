@@ -153,6 +153,13 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-08 04:34 UTC — 1 profile
+
+**USAspending — 1 profile:**
+- CBRE Group — 3 contracts, 0 grants
+
+---
 ## 2026-04-08 03:37 UTC — 9 profiles
 
 **federal-register — 9 profiles:**

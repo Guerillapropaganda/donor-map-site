@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Marco Rubio Master Profile]]"
-related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[Mike Waltz]]"
+related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[Mike Waltz]] · [[Ted Cruz Master Profile]]"
 ---
 
 #rubio #cuba #operation-southern-spear #blockade #fuel #humanitarian-crisis #sugar #fanjul #class-analysis #follow-the-money #2026

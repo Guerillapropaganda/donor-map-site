@@ -26,7 +26,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]]"
+related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]]"
 ---
 
 
