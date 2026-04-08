@@ -352,6 +352,34 @@ export default function RelationshipsPage() {
               {explorerConnections.length === 0 && (
                 <div className="text-xs text-[var(--color-text-dim)] text-center py-8">No connections from this node</div>
               )}
+
+              {/* Add connection (Explorer) */}
+              <div className="mt-4 p-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg">
+                <h4 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Add Connection</h4>
+                <div className="flex gap-2 mb-2">
+                  {(["related", "donors", "opposes"] as const).map((rt) => (
+                    <button key={rt} onClick={() => setRelType(rt)}
+                      className={`text-[9px] px-2.5 py-1.5 rounded border transition-all ${relType === rt ? "border-current bg-current/10" : "border-[var(--color-border)] text-[var(--color-text-dim)]"}`}
+                      style={{ color: relType === rt ? REL_COLORS[rt] : undefined }}>{REL_LABELS[rt]}</button>
+                  ))}
+                </div>
+                <div className="relative">
+                  <input type="text" placeholder="Search target profile..." value={targetSearch}
+                    onChange={(e) => setTargetSearch(e.target.value)}
+                    className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-2 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
+                  {targetResults.length > 0 && (
+                    <div className="absolute top-full left-0 right-0 mt-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden z-20 max-h-40 overflow-y-auto">
+                      {targetResults.map((p) => (
+                        <button key={p.path} onClick={() => { addConnection(p.title); setTargetSearch("") }}
+                          className="w-full flex items-center gap-2 px-3 py-2 text-left hover:bg-[var(--color-bg-hover)] text-xs border-b border-[var(--color-border)] last:border-0">
+                          <span className="text-[var(--color-text)]">{p.title}</span>
+                          <span className="ml-auto text-[8px]" style={{ color: typeColor(p.type) }}>{p.type}</span>
+                        </button>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              </div>
             </div>
           ) : (
             /* ===== GRAPH VIEW ===== */
@@ -389,13 +417,24 @@ export default function RelationshipsPage() {
                           opacity={0.4} />
                       </svg>
                       {/* Node */}
-                      <button
-                        onClick={() => { const tp = topConnected.find((t) => t.title === node.name); if (tp) selectProfile(tp) }}
-                        className="absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 rounded-full flex items-center justify-center text-center hover:scale-110 transition-transform z-10"
-                        style={{ left: `${x}%`, top: `${y}%`, backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
-                        title={`${node.name} (${node.type})`}>
-                        <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3">{node.name}</span>
-                      </button>
+                      <div
+                        className="absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 z-10 group/node"
+                        style={{ left: `${x}%`, top: `${y}%` }}>
+                        <button
+                          onClick={() => { const tp = topConnected.find((t) => t.title === node.name); if (tp) selectProfile(tp) }}
+                          className="w-full h-full rounded-full flex items-center justify-center text-center hover:scale-110 transition-transform"
+                          style={{ backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
+                          title={`${node.name} (${node.type})`}>
+                          <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3">{node.name}</span>
+                        </button>
+                        <button
+                          onClick={(e) => { e.stopPropagation(); removeConnection(node.name, node.type) }}
+                          disabled={saving}
+                          className="absolute -top-1 -right-1 w-4 h-4 rounded-full bg-[var(--color-red)] text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
+                          title={`Remove ${node.name}`}>
+                          ×
+                        </button>
+                      </div>
                     </div>
                   )
                 })}
@@ -405,6 +444,34 @@ export default function RelationshipsPage() {
                 <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-6 h-0 border-t border-[#5b8dce]" /> Related</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-6 h-0 border-t border-[#22c55e]" /> Donors</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-6 h-0 border-t border-dashed border-[#ef4444]" /> Opposes</span>
+              </div>
+
+              {/* Add connection (Graph) */}
+              <div className="mt-4 p-4 border border-[var(--color-border)] rounded-lg">
+                <h4 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Add Connection</h4>
+                <div className="flex gap-2 mb-2">
+                  {(["related", "donors", "opposes"] as const).map((rt) => (
+                    <button key={rt} onClick={() => setRelType(rt)}
+                      className={`text-[9px] px-2.5 py-1.5 rounded border transition-all ${relType === rt ? "border-current bg-current/10" : "border-[var(--color-border)] text-[var(--color-text-dim)]"}`}
+                      style={{ color: relType === rt ? REL_COLORS[rt] : undefined }}>{REL_LABELS[rt]}</button>
+                  ))}
+                </div>
+                <div className="relative">
+                  <input type="text" placeholder="Search target profile..." value={targetSearch}
+                    onChange={(e) => setTargetSearch(e.target.value)}
+                    className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-2 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]" />
+                  {targetResults.length > 0 && (
+                    <div className="absolute top-full left-0 right-0 mt-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden z-20 max-h-40 overflow-y-auto">
+                      {targetResults.map((p) => (
+                        <button key={p.path} onClick={() => { addConnection(p.title); setTargetSearch("") }}
+                          className="w-full flex items-center gap-2 px-3 py-2 text-left hover:bg-[var(--color-bg-hover)] text-xs border-b border-[var(--color-border)] last:border-0">
+                          <span className="text-[var(--color-text)]">{p.title}</span>
+                          <span className="ml-auto text-[8px]" style={{ color: typeColor(p.type) }}>{p.type}</span>
+                        </button>
+                      ))}
+                    </div>
+                  )}
+                </div>
               </div>
             </div>
           )}
