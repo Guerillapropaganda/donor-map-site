@@ -112,8 +112,7 @@ export default function Dashboard() {
       <StatsBar stats={stats} loading={loading} />
 
       {/* Charts Row */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
-        <ReadinessChart stats={stats} />
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
         <TypeBreakdown stats={stats} />
         <ActivityFeed />
       </div>

@@ -188,9 +188,9 @@ function main() {
     const content = fs.readFileSync(filePath, 'utf8');
     const { data, body } = parseFrontmatter(content);
 
-    // Skip non-profile files
-    const profileTypes = ['politician', 'donor', 'corporation', 'think-tank', 'lobbying-firm', 'media-profile', 'pac', 'story'];
-    if (!data.type || !profileTypes.includes(data.type)) {
+    // Skip files without content-readiness or type
+    const allTypes = ['politician', 'donor', 'corporation', 'think-tank', 'lobbying-firm', 'media-profile', 'pac', 'story', 'event', 'sub-note', 'daily-update', 'meta', 'reference', 'index', 'methodology'];
+    if (!data.type || !data['content-readiness']) {
       skipped++;
       continue;
     }
