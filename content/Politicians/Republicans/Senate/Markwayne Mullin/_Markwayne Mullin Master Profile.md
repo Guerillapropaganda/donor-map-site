@@ -13,7 +13,7 @@ committees:
   - Armed Services
 total-received: '$4,666,234'
 fec-candidate-id: S2OK00186
-donors: '[[Devon Energy]] · [[DEFEND US PAC]]'
+donors: '[[Devon Energy]] · [[DEFEND US PAC]] · [[CRYPTO INNOVATION]]'
 related: '[[Kristi Noem]]'
 govtrack-id: 412568
 bills-sponsored: 23
