@@ -2,7 +2,7 @@
 title: "Palantir Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -44,7 +44,7 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "511210"
 lei: "549300UVN46B3BBDHO85"
 lei-jurisdiction: "US-DE"
-related: "[[Palantir Technologies Political Operation]] · [[Invariant]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]] · [[Ballard Partners]] · [[Alpine Group]] · [[Ajay Royan]] · [[Lockheed Martin]]"
+related: "[[Palantir Technologies Political Operation]] · [[Invariant]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]] · [[Ballard Partners]] · [[Alpine Group]] · [[Ajay Royan]] · [[Lockheed Martin]] · [[General Dynamics]]"
 internal-notes: "[URL Check 2026-04-08] 25 checked: 16 ok, 1 broken, 8 slow. | BROKEN: Source: CourtListener / RECAP | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Source: Federal Register | SLOW: Source: GLEIF"
 ---
 

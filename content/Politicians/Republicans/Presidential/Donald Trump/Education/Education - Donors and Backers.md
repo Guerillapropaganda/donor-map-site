@@ -2,10 +2,10 @@
 title: "Education - Donors and Backers"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Universal Pre-K and Transitional Kindergarten]]"
+related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]]"
 ---
 
 

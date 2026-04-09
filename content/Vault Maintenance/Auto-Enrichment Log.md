@@ -179,6 +179,15 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-09 04:23 UTC — 3 profiles
+
+**committee — 3 profiles:**
+- David Sacks — 0 committees, 0 subcommittees
+- Josh Green — 0 committees, 0 subcommittees
+- Matt Gaetz — 0 committees, 0 subcommittees
+
+---
 ## 2026-04-09 03:13 UTC — 1 profile
 
 **FEC — 1 profile:**

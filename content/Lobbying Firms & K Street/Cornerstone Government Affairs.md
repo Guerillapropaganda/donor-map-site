@@ -30,7 +30,7 @@ fara-countries:
   - "TAIWAN"
   - "UNITED ARAB EMIRATES"
   - "YEMEN"
-related: "[[Google - Alphabet]] · [[Palantir Technologies]] · [[Boeing]] · [[General Dynamics]] · [[Raytheon (RTX)|RTX Corp]] · [[AbbVie]] · [[Johnson & Johnson]] · [[Apollo Global Management]] · [[PhRMA]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Fierce Government Relations]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]]"
+related: "[[Google - Alphabet]] · [[Palantir Technologies]] · [[Boeing]] · [[General Dynamics]] · [[Raytheon (RTX)|RTX Corp]] · [[AbbVie]] · [[Johnson & Johnson]] · [[Apollo Global Management]] · [[PhRMA]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Fierce Government Relations]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]]"
 court-cases: 19
 last-enriched: "2026-04-08"
 court-jurisdictions:
