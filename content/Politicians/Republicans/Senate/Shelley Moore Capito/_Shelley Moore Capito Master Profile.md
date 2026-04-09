@@ -50,7 +50,7 @@ opposes: '[[SENATE MAJORITY PAC]]'
 
 related: [[_Joe Manchin Master Profile|Manchin]] [[_Donald Trump Master Profile|Trump]] [[Koch Network - Charles Koch|Koch Network]]
 
-donors: [[Koch Network - Charles Koch|Koch Network]]
+donors: [[Koch Network - Charles Koch|Koch Network]] · [[US CHAMBER OF COMMERCE]]
 
 profile-status:: ready
 
