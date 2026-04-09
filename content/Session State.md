@@ -11,6 +11,31 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Research (then Code)
+Date: 2026-04-08 (A+ editorial review system + contradiction scanner + money trail + governor pipeline)
+
+Done (Research Claude):
+- **A+ Editorial Review System** — designed and implemented with David:
+  - Section-by-section sign-off via `verified-blocks` array
+  - Priority scoring: connections(25%) + sources(30%) + corroboration(20%) + body(10%) - gaps(15%)
+  - Type-batched reviews: Congress(94) → Executive(7) → Donors(185) → Corporations(141) → Think Tanks/PACs(54) → Lobbying/Media(84)
+  - Detailed review log in frontmatter (date, reviewer, result, blocks reviewed, blockers, notes)
+  - `orphan-claims` block mandatory on every review — broken URLs' claims must be re-sourced or rewritten
+  - All rewrites documented in `corrections` frontmatter for permanent audit trail
+  - 10 profile types with type-specific block checklists
+- **Vault Rules updated** — orphaned claims rule, editorial review system, new frontmatter schema, review blocks table, decisions log entry
+- **editorial-priority.cjs** — scores and ranks 899 ready (B) profiles. Top candidates: Cori Bush (70), League of Conservation Voters (74.5), Lennar Corp (71.5)
+- **vault.ts** — editorial review fields added to Profile interface
+
+Next session priorities (Research Claude):
+1. Start A+ reviews — Congress batch first (94 profiles, top: Cori Bush, Carlos Gimenez, Sherrod Brown)
+2. Fix cross-ref mismatches from contradiction scanner (Peter Thiel → 6 media profiles)
+3. Review 9 cross-party connections flagged by scanner
+4. Write stories from both-sides donor data (AIPAC, Goldman Sachs, Boeing)
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-08 (contradiction scanner + money trail + governor pipeline + ops fixes)
 
