@@ -63,7 +63,7 @@ Monsanto (acquired by Bayer AG for $63 billion in 2018). The most politically co
 
 Monsanto's political operation was one of the most aggressive in agriculture: $3-5 million per cycle in PAC and individual contributions, $8-10 million annually in lobbying, and extensive revolving door connections between Monsanto and the FDA, USDA, and EPA. The company's legislative priorities — patent protection for GMO seeds, opposition to GMO labeling, and defense of glyphosate — shaped agricultural policy for decades.
 
-- [OpenSecrets: Monsanto organizational profile](https://www.opensecrets.org/orgs/monsanto-co/summary?id=D000000055) (Tier 1)
+- [OpenSecrets: Monsanto organizational profile](https://www.opensecrets.org/orgs/monsanto-co/summary?id=D000000055) (Tier 1) (VERIFIED)
 
 ---
 
@@ -87,10 +87,10 @@ Patent protection for genetically modified seeds (preventing farmers from saving
 ### Sources
 
 - [OpenSecrets: Monsanto organizational profile](https://www.opensecrets.org/orgs/monsanto-co/summary?id=D000000055) (Tier 1)
-- [Supreme Court: Bowman v. Monsanto Co., 569 U.S. 278 (2013)](https://supreme.justia.com/cases/federal/us/569/278/) (Tier 1)
-- [EPA: Glyphosate interim registration review decision](https://www.epa.gov/ingredients-used-pesticide-products/glyphosate) (Tier 1)
-- [NPR: The "Monsanto Protection Act" explained](https://www.npr.org/sections/thesalt/2013/03/21/174973235/did-congress-just-give-gmos-a-free-pass-in-the-courts) (Tier 2)
-- [Ballotpedia: Monsanto](https://ballotpedia.org/Monsanto_Company) (Tier 3)
+- [Supreme Court: Bowman v. Monsanto Co., 569 U.S. 278 (2013)](https://supreme.justia.com/cases/federal/us/569/278/) (Tier 1) (VERIFIED)
+- [EPA: Glyphosate interim registration review decision](https://www.epa.gov/ingredients-used-pesticide-products/glyphosate) (Tier 1) (VERIFIED)
+- [NPR: The "Monsanto Protection Act" explained](https://www.npr.org/sections/thesalt/2013/03/21/174973235/did-congress-just-give-gmos-a-free-pass-in-the-courts) (Tier 2) (VERIFIED)
+- ~~[Ballotpedia: Monsanto](https://ballotpedia.org/Monsanto_Company)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 content-readiness:: ready
 
@@ -103,9 +103,9 @@ content-readiness:: ready
 | Agencies | Antitrust Division, Justice Department |
 
 **Recent regulatory activity:**
-- [United States of America v. Bayer AG and Monsanto Company; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2018/06/13/2018-12202/united-states-of-america-v-bayer-ag-and-monsanto-company-proposed-final-judgment-and-competitive) (2018-06-13) — Justice Department
+- [United States of America v. Bayer AG and Monsanto Company; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2018/06/13/2018-12202/united-states-of-america-v-bayer-ag-and-monsanto-company-proposed-final-judgment-and-competitive) (VERIFIED) (2018-06-13) — Justice Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Monsanto%20-%20Bayer%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Monsanto%20-%20Bayer%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -123,7 +123,7 @@ content-readiness:: ready
 - 2016-09-14 — **DEFA14A**: DEFA14A
 - 2016-09-21 — **DEFA14A**: DEFA14A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Monsanto%20-%20Bayer%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Monsanto%20-%20Bayer%22) (Tier 1) (NEEDS REVIEW: bunch of code not sure of context)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -142,5 +142,5 @@ content-readiness:: ready
 
 **Agencies contacted:** Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Natl Security Council (NSC), SENATE, Securities & Exchange Commission (SEC)
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Monsanto%20-%20Bayer) (Tier 1)
+- ~~[Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Monsanto%20-%20Bayer)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:lda-lobbying end -->

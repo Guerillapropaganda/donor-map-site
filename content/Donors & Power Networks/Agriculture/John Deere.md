@@ -221,15 +221,15 @@ content-readiness:: ready
 | Agencies | Antitrust Division, Commerce Department, Consumer Product Safety Commission, Environmental Protection Agency, Federal Communications Commission, International Trade Administration, International Trade Commission, Justice Department +1 more |
 
 **Recent regulatory activity:**
-- [Certain New Pneumatic Off-the-Road Tires From India: Final Results of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2026/03/19/2026-05440/certain-new-pneumatic-off-the-road-tires-from-india-final-results-of-countervailing-duty) (2026-03-19) — Commerce Department
-- [Certain New Pneumatic Off-the-Road Tires From India: Preliminary Results of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2025/07/11/2025-12948/certain-new-pneumatic-off-the-road-tires-from-india-preliminary-results-of-countervailing-duty) (2025-07-11) — Commerce Department
-- [Certain New Pneumatic Off-the-Road Tires From India: Preliminary Results and Partial Recission of Antidumping Duty Administrative Review; 2023-2024](https://www.federalregister.gov/documents/2025/07/11/2025-12947/certain-new-pneumatic-off-the-road-tires-from-india-preliminary-results-and-partial-recission-of) (2025-07-11) — Commerce Department
-- [Initiation of Antidumping and Countervailing Duty Administrative Reviews](https://www.federalregister.gov/documents/2025/05/20/2025-08970/initiation-of-antidumping-and-countervailing-duty-administrative-reviews) (2025-05-20) — Commerce Department
-- [Initiation of Antidumping and Countervailing Duty Administrative Reviews](https://www.federalregister.gov/documents/2025/04/28/2025-07286/initiation-of-antidumping-and-countervailing-duty-administrative-reviews) (2025-04-28) — Commerce Department
-- [Air Plan Approval; Wisconsin; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2025/04/22/2025-06618/air-plan-approval-wisconsin-revised-format-for-materials-incorporated-by-reference) (2025-04-22) — Environmental Protection Agency
+- [Certain New Pneumatic Off-the-Road Tires From India: Final Results of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2026/03/19/2026-05440/certain-new-pneumatic-off-the-road-tires-from-india-final-results-of-countervailing-duty) (VERIFIED) (2026-03-19) — Commerce Department
+- [Certain New Pneumatic Off-the-Road Tires From India: Preliminary Results of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2025/07/11/2025-12948/certain-new-pneumatic-off-the-road-tires-from-india-preliminary-results-of-countervailing-duty) (VERIFIED) (2025-07-11) — Commerce Department
+- [Certain New Pneumatic Off-the-Road Tires From India: Preliminary Results and Partial Recission of Antidumping Duty Administrative Review; 2023-2024](https://www.federalregister.gov/documents/2025/07/11/2025-12947/certain-new-pneumatic-off-the-road-tires-from-india-preliminary-results-and-partial-recission-of) (VERIFIED) (2025-07-11) — Commerce Department
+- [Initiation of Antidumping and Countervailing Duty Administrative Reviews](https://www.federalregister.gov/documents/2025/05/20/2025-08970/initiation-of-antidumping-and-countervailing-duty-administrative-reviews) (VERIFIED) (2025-05-20) — Commerce Department
+- [Initiation of Antidumping and Countervailing Duty Administrative Reviews](https://www.federalregister.gov/documents/2025/04/28/2025-07286/initiation-of-antidumping-and-countervailing-duty-administrative-reviews) (VERIFIED) (2025-04-28) — Commerce Department
+- [Air Plan Approval; Wisconsin; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2025/04/22/2025-06618/air-plan-approval-wisconsin-revised-format-for-materials-incorporated-by-reference) (VERIFIED) (2025-04-22) — Environmental Protection Agency
 - ... and 151 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22John%20Deere%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22John%20Deere%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
 ### Product Recalls (CPSC)
@@ -243,13 +243,13 @@ content-readiness:: ready
 
 **Recent recalls:**
 
-- [Kawasaki Motors USA Recalls John Deere ZTrak Zero Turn Mowers with Kawasaki Engines Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/25083) (2025-01-02) — The voltage regulator in the mower's engine can fail during use or while the product is being stored, causing the engine to overheat, posing fire and burn hazards.
-- [John Deere Recalls Compact Utility Tractors Due to Crash Hazard](https://www.cpsc.gov/Recalls/24377) (2024-09-26) — The front bell crank in the brake linkage can fail causing the tractor to lose braking, resulting in a crash hazard.
-- [Kawasaki Motors USA Recalls Engines Used in Bad Boy Mowers, BigDog, Bobcat, Cub Cadet, Hustler, John Deere and Kubota Brand Lawn and Garden Equipment Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/24256) (2024-06-06) — The recalled engines can overheat, posing fire and burn hazards.
-- [John Deere Recalls XUV590 Gator Utility Vehicles Due to Fire Hazard (Recall Alert)](https://www.cpsc.gov/Recalls/23768) (2023-06-08) — Fuel can leak from under the fuel cap, posing a fire hazard.
-- [John Deere Recalls Lawn Tractors Due to Crash and Injury Hazards (Recall Alert)](https://www.cpsc.gov/Recalls/22756) (2022-07-07) — The wheel hubs were not manufactured to specifications and can fail, causing the tractor to lose braking and propulsion, posing crash and injury hazards.
-- [John Deere Recalls Compact Utility Tractors Due to Risk of Injury (Recall Alert)](https://www.cpsc.gov/Recalls/21776) (2021-08-19) — Rear wheel spacer bolts that were torqued improperly during manufacturing can cause the wheel to fall off during use. This can result in the tractor overturning, posing an injury hazard to the operator.
+- ~~[Kawasaki Motors USA Recalls John Deere ZTrak Zero Turn Mowers with Kawasaki Engines Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/25083)~~ (URL broken, archived by Ops) (2025-01-02) — The voltage regulator in the mower's engine can fail during use or while the product is being stored, causing the engine to overheat, posing fire and burn hazards.
+- ~~[John Deere Recalls Compact Utility Tractors Due to Crash Hazard](https://www.cpsc.gov/Recalls/24377)~~ (URL broken, archived by Ops) (2024-09-26) — The front bell crank in the brake linkage can fail causing the tractor to lose braking, resulting in a crash hazard.
+- ~~[Kawasaki Motors USA Recalls Engines Used in Bad Boy Mowers, BigDog, Bobcat, Cub Cadet, Hustler, John Deere and Kubota Brand Lawn and Garden Equipment Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/24256)~~ (URL broken, archived by Ops) (2024-06-06) — The recalled engines can overheat, posing fire and burn hazards.
+- ~~[John Deere Recalls XUV590 Gator Utility Vehicles Due to Fire Hazard (Recall Alert)](https://www.cpsc.gov/Recalls/23768)~~ (URL broken, archived by Ops) (2023-06-08) — Fuel can leak from under the fuel cap, posing a fire hazard.
+- ~~[John Deere Recalls Lawn Tractors Due to Crash and Injury Hazards (Recall Alert)](https://www.cpsc.gov/Recalls/22756)~~ (URL broken, archived by Ops) (2022-07-07) — The wheel hubs were not manufactured to specifications and can fail, causing the tractor to lose braking and propulsion, posing crash and injury hazards.
+- ~~[John Deere Recalls Compact Utility Tractors Due to Risk of Injury (Recall Alert)](https://www.cpsc.gov/Recalls/21776)~~ (URL broken, archived by Ops) (2021-08-19) — Rear wheel spacer bolts that were torqued improperly during manufacturing can cause the wheel to fall off during use. This can result in the tractor overturning, posing an injury hazard to the operator.
 - ... and 37 more
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=John%20Deere) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=John%20Deere)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
