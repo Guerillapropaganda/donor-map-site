@@ -123,16 +123,16 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 ### Sources
 
 #### Verified
-- [FEC Candidate: Cori Bush campaign finance summary](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
-- [FEC: Bush campaign committee C00638767](https://www.fec.gov/data/committee/C00638767/) (Tier 1)
+- [FEC Candidate: Cori Bush campaign finance summary](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1) (VERIFIED)
+- [FEC: Bush campaign committee C00638767](https://www.fec.gov/data/committee/C00638767/) (Tier 1) (VERIFIED)
 - [GovTrack: Cori Bush voting record](https://www.govtrack.us/congress/members/456829) (Tier 1)
-- [NBC News: Bush loses primary to Bell amid AIPAC spending](https://www.nbcnews.com/politics/2024-election/rep-cori-bush-loses-democratic-primary-campaign-onslaught-israel-group-rcna165306) (Tier 2)
-- [Time: Cori Bush DOJ investigation into security spending](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/) (Tier 2)
-- [Politico: Cori Bush announces 2026 comeback bid](https://www.politico.com/live-updates/2025/10/03/congress/cori-bushs-comeback-00592723) (Tier 2)
-- [Cori Bush: Campaign site](https://www.coribush.org/about) (Tier 3)
-- [Fox News: Bush hit with FEC complaint over security payments to husband](https://www.foxnews.com/politics/squad-rep-cori-bush-hit-fec-complaint-private-security-payments-husband) (Tier 3)
-- [Fox News: Records challenge Bush's claims of funding delivered to district](https://www.foxnews.com/politics/unearthed-records-torpedo-cori-bushs-new-claim-billions-funding-she-delivered-district) (Tier 3)
-- [Wikipedia: Cori Bush](https://en.wikipedia.org/wiki/Cori_Bush) (Tier 4)
+- [NBC News: Bush loses primary to Bell amid AIPAC spending](https://www.nbcnews.com/politics/2024-election/rep-cori-bush-loses-democratic-primary-campaign-onslaught-israel-group-rcna165306) (Tier 2) (VERIFIED)
+- [Time: Cori Bush DOJ investigation into security spending](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/) (Tier 2) (VERIFIED)
+- [Politico: Cori Bush announces 2026 comeback bid](https://www.politico.com/live-updates/2025/10/03/congress/cori-bushs-comeback-00592723) (Tier 2) (VERIFIED: Removed from Bad)
+- [Cori Bush: Campaign site](https://www.coribush.org/about) (Tier 3) (VERIFIED)
+- [Fox News: Bush hit with FEC complaint over security payments to husband](https://www.foxnews.com/politics/squad-rep-cori-bush-hit-fec-complaint-private-security-payments-husband) (Tier 3) (VERIFIED)
+- [Fox News: Records challenge Bush's claims of funding delivered to district](https://www.foxnews.com/politics/unearthed-records-torpedo-cori-bushs-new-claim-billions-funding-she-delivered-district) (Tier 3) (VERIFIED)
+- [Wikipedia: Cori Bush](https://en.wikipedia.org/wiki/Cori_Bush) (Tier 4) (VERIFIED)
 
 #### Archived
 - ~~[bush.house.gov: About](https://bush.house.gov/about)~~ (was Tier 1, site deactivated after Bush left office Jan 2025, bio data preserved in Who They Are section)
@@ -150,7 +150,7 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 | Bills Sponsored | 0 |
 | Bills Cosponsored | 0 |
 
-- [Source: Congress.gov](https://www.congress.gov/member/cori-bush/B001224) (Tier 1)
+- [Source: Congress.gov](https://www.congress.gov/member/cori-bush/B001224) (Tier 1) (VERIFIED: Removed from bad)
 <!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
@@ -161,7 +161,7 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 2,239 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1) (VERIFIED: Redirects to https://www.govtrack.us/congress/members/cori_bush/456829)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1) (VERIFIED)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -202,7 +202,7 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Voting Record
