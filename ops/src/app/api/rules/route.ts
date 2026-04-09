@@ -18,6 +18,7 @@ export async function GET() {
       { name: "Vault Rules", file: "content/Vault Rules.md" },
       { name: "CLAUDE.md", file: "CLAUDE.md" },
       { name: "Pipeline Guide", file: "content/Pipeline Guide.md" },
+      { name: "Pipeline Issues", file: "content/Pipeline Guide - Known Issues.md" },
     ]
 
     const results: RuleDoc[] = []
