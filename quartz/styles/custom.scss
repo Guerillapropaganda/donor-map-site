@@ -142,7 +142,9 @@ article li {
 
 article strong {
   color: #0a0a0a;
-  font-weight: 700;
+  font-weight: 900;
+  background: linear-gradient(to bottom, transparent 60%, #fbbf24 60%);
+  padding: 0 2px;
 }
 
 article em {
@@ -458,7 +460,7 @@ blockquote {
 }
 
 blockquote p {
-  color: #d4d4dc !important;
+  color: #333 !important;
   font-size: 15px !important;
   line-height: 1.7;
 }
@@ -470,7 +472,7 @@ code {
   border-radius: 0;
   font-family: 'Space Mono', monospace;
   font-size: 0.85em;
-  color: #d4d4dc;
+  color: #333;
 }
 
 pre {
@@ -546,7 +548,7 @@ strong > code, b > code {
 
 .toc .depth-1 > li > a {
   font-weight: 600;
-  color: #d4d4dc !important;
+  color: #333 !important;
 }
 
 // --- Backlinks ---
@@ -1031,13 +1033,13 @@ hr {
   article p {
     font-size: 16px !important;
     line-height: 1.85 !important;
-    color: #c8c8d0 !important;   // brighter than desktop #333
+    color: #333 !important;   // brighter than desktop #333
   }
 
   article li {
     font-size: 16px !important;
     line-height: 1.8 !important;
-    color: #c8c8d0 !important;
+    color: #333 !important;
   }
 
   article strong {
@@ -1089,7 +1091,7 @@ hr {
 
   // Callout text
   .callout {
-    color: #c8c8d0 !important;
+    color: #333 !important;
   }
 
   // Footer, breadcrumbs
@@ -1139,7 +1141,7 @@ hr {
   .callout p {
     font-size: 14px !important;
     line-height: 1.7 !important;
-    color: #c8c8d0 !important;
+    color: #333 !important;
   }
 
   // Blockquotes
@@ -1150,7 +1152,7 @@ hr {
 
   blockquote p {
     font-size: 14px !important;
-    color: #d4d4dc !important;
+    color: #333 !important;
   }
 
   // Money amounts in code
