@@ -742,9 +742,10 @@ a.pw-bs-recip:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: radial-gradient(ellipse at center, #ece6dd 0%, #f5f0eb 70%);
+  background: #0a0a0a;
   border-radius: 0;
   position: relative;
+  border: 1px solid #ddd;
 }
 
 .pw-mini-graph svg {
@@ -770,8 +771,8 @@ a.pw-bs-recip:hover {
 }
 
 .pw-mini-expand:hover {
-  color: #8bb5e8;
-  background: rgba(91, 141, 206, 0.06);
+  color: #fbbf24;
+  background: rgba(251, 191, 36, 0.08);
 }
 
 /* ─── Expanded overlay ─────────────────────── */
@@ -791,9 +792,9 @@ a.pw-bs-recip:hover {
 }
 
 .pw-graph-overlay-box {
-  background: radial-gradient(ellipse at center, #ece6dd 0%, #f5f0eb 70%);
-  border: 1px solid rgba(91, 141, 206, 0.2);
-  border-radius: 12px;
+  background: #0a0a0a;
+  border: 2px solid #333;
+  border-radius: 0;
   padding: 16px;
   box-shadow: none;
   max-width: 95vw;
@@ -873,21 +874,19 @@ a.pw-bs-recip:hover {
   background: rgba(239, 68, 68, 0.1);
 }
 
-/* ─── Graph Legend ─────────────────────────── */
+/* ─── Graph Legend — hidden in widget, visible in full screen ─── */
 .pw-graph-legend {
   display: flex;
   align-items: center;
   gap: 8px;
   padding: 8px 10px;
-  background: rgba(12, 12, 15, 0.7);
-  border-top: 1px solid #ddd;
-  border-radius: 0 0 6px 6px;
+  background: rgba(10, 10, 10, 0.85);
+  border-top: 1px solid #333;
+  border-radius: 0;
 }
 
 .pw-graph-legend-compact {
-  flex-wrap: wrap;
-  gap: 6px;
-  padding: 6px 8px;
+  display: none;
 }
 
 .pw-legend-section {
