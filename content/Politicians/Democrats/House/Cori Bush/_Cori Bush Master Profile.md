@@ -40,6 +40,7 @@ verified-blocks:
 checklist-na:
   - "committee-assignments: Lost 2024 primary, no longer in 119th Congress"
 internal-notes: "[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress) | [URL Check 2026-04-09] 11 checked: 8 ok, 3 broken, 0 slow. | BROKEN: Politico: Cori Bush announces 2026 comeback bid | BROKEN: Source: Congress.gov | BROKEN: Source: Congress.gov"
+last-enriched: "2026-04-09"
 ---
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money

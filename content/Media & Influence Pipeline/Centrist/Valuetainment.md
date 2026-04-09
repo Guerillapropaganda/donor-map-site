@@ -2,12 +2,12 @@
 title: "Valuetainment"
 type: media-profile
 content-readiness: draft
-last-updated: 2026-03-31
+last-updated: 2026-04-09
 source-tier: null
 parent: null
 category: centrist
 platform: youtube
-related: "[[Patrick Bet-David]] · [[Ana Kasparian]]"
+related: "[[Patrick Bet-David]] · [[Ana Kasparian]] · [[Rachel Maddow]]"
 ---
 
 #media-pipeline #centrist #media-network #valuetainment #patrick-bet-david #business-media
