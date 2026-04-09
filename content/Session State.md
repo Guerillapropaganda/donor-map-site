@@ -106,14 +106,30 @@ In progress:
 - State lookup pulls senator data from frontmatter at build time. Works for states with senator profiles that have `state-abbr` and `top-donors` frontmatter fields.
 - Global chrome reskin (sidebar, nav for non-landing pages) still pending.
 
+Done (continued):
+- **Landing page v3 tested in Quartz** — all 6 sections rendering correctly at 1280px viewport
+- **CSS overflow fixes** — reduced all section max-widths from 1000px to 900px, fixed ROI number clamp, fixed lookup title size
+- **Yellow highlight block fixed** — `isolation: isolate` solves z-index stacking in Quartz
+- **Quartz layout override solved** — `body:has(.lp-v3)` pattern works for full-width pages. Key learning: use `100%` not `100vw` to avoid HiDPI doubling.
+- **Site-wide reskin pushed** — custom.scss fully swapped from dark to light (288 lines changed). All dark colors → cream/light equivalents. All border-radius → 0. All shadows removed.
+- **29 component files reskinned** — EvidencePanel, ProfileWidget, ProfileTabs, NetworkGraph, PowerRankings, InteractiveGraphs, IssueExplorer, VotingRecord, MobileProfile, MobileNav, DonorMapSidebar, DiscoveryPanel, EventTimeline, AdminBar, and 15 more. 650 lines changed across all components.
+- **Profile page verified** — Cori Bush profile rendering on cream bg with dark text, dark sidebar, dark graph widget. Evidence panel still slightly dark (minor fix needed). Body text readable.
+- **GitHub Actions disabled again** — David contacted GitHub support. Waiting for re-enablement.
+
+Known issues remaining:
+- Evidence panel background still slightly dark (inline or base style override)
+- Need to test more profile types (donor, corporation, think tank)
+- Some component colors in the sidebar/right widgets may need fine-tuning after visual testing on live
+
 Next session priorities:
-1. **Test landing page v3 locally** — verify all sections render correctly, fix any CSS issues
-2. **Global chrome reskin** — topbar/sidebar stays dark, content areas go light for profile pages
-3. **State lookup data coverage** — ensure all 50 states have senator data with top-donors in frontmatter
-4. **Turn off construction mode** when ready to launch the new design
-5. Continue A+ reviews
-6. Fix congress pipeline to query all congresses (engine)
-7. Fix lda-pipeline.cjs domain in engine repo
+1. **Fix evidence panel dark bg** — find the remaining inline style
+2. **Test all profile types** — politician, donor, corporation, think tank, lobbying firm
+3. **Fine-tune component colors** — right sidebar widgets, mobile nav, search overlay
+4. **Turn off construction mode** when GitHub Actions re-enabled
+5. **State lookup data coverage** — ensure senator profiles have `top-donors` in frontmatter
+6. Continue A+ reviews
+7. Fix congress pipeline (engine)
+8. Fix lda-pipeline.cjs domain (engine)
 
 Design direction approved by David:
 - Brutalist art-direction. **Hybrid light/dark** — not full light, not full dark.
