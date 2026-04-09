@@ -43,6 +43,7 @@ related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master
 donors: "[[JB Pritzker]]"
 total-received: "$26,085,174"
 fec-candidate-id: "P00009795"
+internal-notes: "[URL Check 2026-04-09] 17 checked: 11 ok, 5 broken, 1 slow. | BROKEN: Congress.gov: Cory Booker member profile | BROKEN: Congress.gov: First Step Act | BROKEN: The Hill: Booker puts pause on pharma fundraising | BROKEN: Source: Senate Stock Watcher | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us"
 ---
 
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door
