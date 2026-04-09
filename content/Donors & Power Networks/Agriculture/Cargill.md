@@ -76,8 +76,8 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 ### Sources
 
 - [OpenSecrets: Cargill organizational profile](https://www.opensecrets.org/orgs/cargill-inc/summary?id=D000000241) (Tier 1)
-- [Forbes: Cargill-MacMillan family wealth](https://www.forbes.com/profile/cargill-macmillan/) (Tier 2)
-- [Ballotpedia: Cargill](https://ballotpedia.org/Cargill) (Tier 3)
+- [Forbes: Cargill-MacMillan family wealth](https://www.forbes.com/profile/cargill-macmillan/) (Tier 2) (VERIFIED)
+- ~~[Ballotpedia: Cargill](https://ballotpedia.org/Cargill)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 content-readiness:: ready
 
