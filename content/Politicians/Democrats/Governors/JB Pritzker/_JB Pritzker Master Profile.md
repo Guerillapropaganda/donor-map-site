@@ -1,30 +1,30 @@
 ---
-title: "JB Pritzker Master Profile"
+title: JB Pritzker Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-03-24
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Governor"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: Governor
+state: Illinois
+state-abbr: IL
 top-donors:
-  - "Democratic Governors Association"
-  - "UNITE HERE"
+  - Democratic Governors Association
+  - UNITE HERE
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 ---
 
 
 #jb-pritzker #democrat #governor #illinois #hyatt #billionaire #self-funded #2028 #class-analysis
 
-related: [[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]]
+related: [[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]]
 donors: [[Democratic Governors Association]] · [[UNITE HERE]] · Illinois Labor Unions · Think Big America PAC
 
 profile-status:: ready
