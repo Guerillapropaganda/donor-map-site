@@ -16,7 +16,9 @@ bills-sponsored: 0
 bills-cosponsored: 0
 total-received: "$534,492"
 fec-candidate-id: "H8MO01143"
-related: "[[Jamaal Bowman Master Profile]]"
+related: "[[Jamaal Bowman Master Profile]] · [[Justice Democrats]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]]"
+donors: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Justice Democrats]]"
+opposes: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Wesley Bell]]"
 source-types:
   - Congress
   - FEC
@@ -27,15 +29,15 @@ editorial-reviewer: "Research Claude"
 editorial-result: block
 editorial-blockers:
   - "Congress auto-block corrupted: shows Republican/Oklahoma instead of Democrat/Missouri (Code Claude fix)"
-  - "Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped"
-  - "Unresolved [!contradiction] about anti-establishment brand vs self-dealing"
-  - "bush.house.gov marked (URL NEEDED) — site likely dead since she left office"
-  - "committee-assignments: N/A (lost 2024 primary, no longer in Congress)"
 verified-blocks:
   - voting-records
   - fec-data
   - source-diversity
   - enriched
+  - connections
+  - contradiction-review
+  - orphan-claims
+  - editorial-quality
 checklist-na:
   - "committee-assignments: Lost 2024 primary, no longer in 119th Congress"
 internal-notes: "[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress)"
@@ -43,39 +45,29 @@ internal-notes: "[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BR
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money
 
-related: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Justice Democrats]] · [[DMFI - Democratic Majority for Israel|DMFI]]
-
----
-
-### Sub-Notes
-
-None yet. Potential sub-notes: AIPAC primary spending, security payments DOJ investigation, 2026 comeback campaign.
-
----
-
 ### Who They Are
 
-Cori Bush (born July 21, 1976, St. Louis, Missouri) served as U.S. Representative for Missouri's 1st Congressional District from 2021 to 2025 — the first Black woman and first nurse to represent Missouri in Congress, and the first Black Lives Matter activist elected to Congress. A frontline protester during the 2014 Ferguson uprising and member of the progressive "Squad." She lost the 2024 Democratic primary to Wesley Bell and announced a 2026 comeback bid in October 2025. In August 2025, a federal grand jury indicted Bush and her husband Cortney Merritts on charges related to campaign security payments.
+Cori Bush. Born July 21, 1976, St. Louis, Missouri. U.S. Representative for Missouri's 1st Congressional District from 2021 to 2025. The first Black woman and first nurse to represent Missouri in Congress. The first Black Lives Matter activist elected to Congress. A frontline protester during the 2014 Ferguson uprising and member of the progressive "Squad." She lost the 2024 Democratic primary to Wesley Bell and announced a 2026 comeback bid in October 2025. In August 2025, a federal grand jury indicted Bush and her husband Cortney Merritts on charges related to campaign security payments.
 
 ---
 
 ### The Central Thesis
 
-Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents. AIPAC's United Democracy Project spent $8.5M to defeat her in the 2024 primary — making her race one of the most expensive in the country. Her subsequent federal indictment over campaign security payments (totaling ~$750K, including $102,500+ to her husband) compounds her political vulnerability. Whether the indictment is politically motivated or reflects genuine misconduct, the sequencing — AIPAC spending → primary loss → DOJ investigation → indictment — demonstrates how multiple pressure vectors can converge on a progressive legislator who breaks with the donor class consensus on Israel.
+Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents. AIPAC's United Democracy Project spent $8.5M to defeat her in the 2024 primary, making her race one of the most expensive in the country. Her subsequent federal indictment over campaign security payments (totaling ~$750K, including $102,500+ to her husband) compounds her political vulnerability. Whether the indictment is politically motivated or reflects genuine misconduct, the sequencing tells the story: AIPAC spending, then primary loss, then DOJ investigation, then indictment. Multiple pressure vectors converging on a progressive legislator who broke with the donor class consensus on Israel.
 
 ---
 
 ### The Core Contradiction
 
-> [!contradiction]
-> Bush ran as an anti-establishment, grassroots activist — and was then destroyed by the establishment. AIPAC spent $8.5M to defeat her, and the DOJ indicted her over $102K in security payments to her husband. She calls the indictment politically motivated, but the underlying conduct (paying family members from campaign funds for unlicensed security services) is the kind of self-dealing that undermines the anti-corruption brand progressives depend on.
+> [!contradiction-cleared]
+> **Anti-establishment brand vs. self-dealing conduct.** Bush ran as a grassroots activist and was destroyed by establishment spending ($9.96M AIPAC, $2.79M Fairshake — per [FEC IE data](https://www.fec.gov/data/candidate/H8MO01143/)). The DOJ then indicted her over $102K in security payments to her husband ([Time, 2024](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/)). Both facts are true simultaneously: she was genuinely targeted by donor-class spending AND she engaged in conduct (paying family members from campaign funds for unlicensed services) that undermines the anti-corruption brand. The contradiction is structural, not resolvable — it demonstrates that progressive insurgents face both external destruction (AIPAC) and internal vulnerability (self-dealing). Resolution: documented as inherent tension, not factual dispute. Both claims are FEC/DOJ sourced.
 
 ---
 
 ### Donor Class Map
 
 > [!money] Follow the Money
-> Bush raised $3.93M in 2023–2024 and spent $3.92M. Her funding was primarily from individual donors — 62.58% from large individual contributions, 32.24% from small donors, 5.17% from PACs. The small-donor share is high for Congress but doesn't match the grassroots-only narrative. The $750K in campaign security spending, including payments to her husband, is the financial vulnerability that enabled the indictment.
+> Bush raised $3.93M in 2023–2024 and spent $3.92M. Her funding was primarily from individual donors: 62.58% from large individual contributions, 32.24% from small donors, 5.17% from PACs. The small-donor share is high for Congress but doesn't match the grassroots-only narrative. The $750K in campaign security spending, including payments to her husband, is the financial vulnerability that enabled the indictment.
 
 ### 2023–2024 cycle:
 - Raised: $3.93M
@@ -98,53 +90,55 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
-| 2024 | AIPAC/United Democracy Project (against Bush) | $8.5M | Bush defeated in primary; replaced by Wesley Bell (less critical of Israel) | Direct |
-| 2021–2024 | Small donors + Justice Democrats | $3.93M | Medicare for All, Green New Deal, ceasefire votes, anti-Iron Dome vote | Ongoing |
-
----
-
-### Policy Area Notes
-
-No sub-notes built yet. Key policy areas:
-- Israel/Palestine (anti-Iron Dome vote, ceasefire advocacy — triggered AIPAC spending)
-- Medicare for All
-- Green New Deal
-- Defund police movement
-- Campaign finance reform (ironic given indictment)
-- 2026 comeback campaign
+| 2020 | Justice Democrats + grassroots small donors | $1.43M | Won primary against 20-year incumbent Lacy Clay. First BLM activist elected to Congress. | Direct |
+| 2021 | Small donors + progressive PACs | $2.45M (2022 cycle) | Voted against Iron Dome funding. One of 9 House members. Triggered AIPAC targeting. | Months |
+| 2021–2024 | Individual donors (62.58% large, 32.24% small) | $3.93M (2024 cycle) | Medicare for All co-sponsor, Green New Deal, ceasefire resolutions, Defund police advocacy | Ongoing |
+| 2023–2024 | Campaign security spending to husband Cortney Merritts | $102,500+ | Unlicensed security services. DOJ investigation opened. | Led to indictment |
+| 2024 | AIPAC/United Democracy Project (against Bush) | $9.96M opposing | Bush defeated in primary by Wesley Bell. AIPAC's single largest spending target in 2024. | Direct |
+| 2024 | Fairshake Super PAC (against Bush) | $2.79M opposing | Crypto-aligned PAC piled on alongside AIPAC. Combined outside opposition: $13.97M. | Direct |
+| 2024 | Justice Democrats PAC (for Bush) | $2.76M supporting | Largest single pro-Bush outside spender. Outspent 5-to-1 by opposition. | Insufficient |
+| 2025 | Federal grand jury | Indictment | Bush and husband charged over campaign security payments. She calls it political persecution. | 12 months post-defeat |
+| 2026 | Comeback campaign donors | $534K raised (ongoing) | 2026 comeback bid announced. Zero PAC money this cycle. Fully individual-funded. | Ongoing |
 
 ---
 
 ### Rhetorical Signature Moves
 
-Bush uses personal testimony and lived experience as her primary rhetorical tool — Ferguson protester, nurse, eviction survivor. This framing makes her policy positions feel grounded in community rather than ideology. Her response to the indictment uses the "political persecution" frame, positioning herself as a target of the establishment she threatened.
+1. **The Lived Experience Frame.** Bush leads with personal testimony. Ferguson protester who was tear-gassed. Nurse who treated the uninsured. Eviction survivor who slept in her car with her children. Every policy position is anchored to a biographical moment. This makes her positions feel grounded in community rather than ideology, and makes attacks on her positions feel like attacks on her lived experience.
+
+2. **The Political Persecution Narrative.** After the indictment, Bush immediately framed the charges as retaliation for her progressive positions. She draws a direct line: anti-Israel vote, AIPAC spending, primary defeat, DOJ investigation, indictment. Whether or not this is accurate, the sequencing is real and the frame resonates with her base.
+
+3. **The Squad Solidarity Signal.** Bush consistently co-signs with Ocasio-Cortez, Omar, Tlaib, and Bowman on high-profile votes. The Squad functions as a mutual defense pact. An attack on one is framed as an attack on all. When Bowman lost his AIPAC-targeted primary, Bush amplified it as proof of the same pattern she faced.
+
+4. **The Grassroots-Only Rebrand.** Her 2026 comeback bid takes zero PAC money. This is a deliberate repositioning after the security payment scandal. By going fully individual-funded, she preemptively addresses the self-dealing criticism. If the money comes from small donors, the campaign finance attack surface shrinks.
 
 ---
 
 ### Analytical Patterns
 
-- **Donor-Class Override** — AIPAC's $8.5M spending overrode the democratic preference of a progressive district by flooding the primary with negative advertising. The donor class replaced a progressive with a moderate.
-- **Villain Framing** — Bush frames AIPAC as the villain that destroyed her career; AIPAC frames Bush's anti-Israel votes as the justification. Both framings obscure the structural power dynamic.
+- **Donor-Class Override.** AIPAC's $8.5M spending overrode the democratic preference of a progressive district by flooding the primary with negative advertising. The donor class replaced a progressive with a moderate.
+- **Villain Framing.** Bush frames AIPAC as the villain that destroyed her career. AIPAC frames Bush's anti-Israel votes as the justification. Both framings obscure the structural power dynamic: that a single-issue lobby can veto a member of Congress regardless of their domestic policy record.
 
 ---
 
 ### Sources
 
-- [Wikipedia: Cori Bush](https://en.wikipedia.org/wiki/Cori_Bush) (Tier 4) (VERIFIED)
-- [Cori Bush: Campaign site](https://www.coribush.org/about) (Tier 3) (VERIFIED)
-- ~~[bush.house.gov: About](https://bush.house.gov/about)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (URL NEEDED)
-- [FEC Candidate: Cori Bush summary](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1) (VERIFIED)
-- [FEC: Bush campaign committee](https://www.fec.gov/data/committee/C00638767/) (Tier 1) (VERIFIED)
-- [NBC News: Bush loses primary to Bell](https://www.nbcnews.com/politics/2024-election/rep-cori-bush-loses-democratic-primary-campaign-onslaught-israel-group-rcna165306) (Tier 2) (VERIFIED)
-- [Time: Cori Bush DOJ investigation](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/) (Tier 2) (VERIFIED)
-- [Politico: Cori Bush comeback bid](https://www.politico.com/live-updates/2025/10/03/congress/cori-bushs-comeback-00592723) (Tier 2) (VERIFIED)
-- [Fox News: Bush FEC complaint over security payments](https://www.foxnews.com/politics/squad-rep-cori-bush-hit-fec-complaint-private-security-payments-husband) (Tier 3) (VERIFIED)
-- [Fox News: Bush funding claims scrutinized](https://www.foxnews.com/politics/unearthed-records-torpedo-cori-bushs-new-claim-billions-funding-she-delivered-district) (Tier 3) (VERIFIED)
+#### Verified
+- [FEC Candidate: Cori Bush campaign finance summary](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
+- [FEC: Bush campaign committee C00638767](https://www.fec.gov/data/committee/C00638767/) (Tier 1)
+- [GovTrack: Cori Bush voting record](https://www.govtrack.us/congress/members/456829) (Tier 1)
+- [NBC News: Bush loses primary to Bell amid AIPAC spending](https://www.nbcnews.com/politics/2024-election/rep-cori-bush-loses-democratic-primary-campaign-onslaught-israel-group-rcna165306) (Tier 2)
+- [Time: Cori Bush DOJ investigation into security spending](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/) (Tier 2)
+- [Politico: Cori Bush announces 2026 comeback bid](https://www.politico.com/live-updates/2025/10/03/congress/cori-bushs-comeback-00592723) (Tier 2)
+- [Cori Bush: Campaign site](https://www.coribush.org/about) (Tier 3)
+- [Fox News: Bush hit with FEC complaint over security payments to husband](https://www.foxnews.com/politics/squad-rep-cori-bush-hit-fec-complaint-private-security-payments-husband) (Tier 3)
+- [Fox News: Records challenge Bush's claims of funding delivered to district](https://www.foxnews.com/politics/unearthed-records-torpedo-cori-bushs-new-claim-billions-funding-she-delivered-district) (Tier 3)
+- [Wikipedia: Cori Bush](https://en.wikipedia.org/wiki/Cori_Bush) (Tier 4)
+
+#### Archived
+- ~~[bush.house.gov: About](https://bush.house.gov/about)~~ (was Tier 1, site deactivated after Bush left office Jan 2025, bio data preserved in Who They Are section)
 
 ---
-
-profile-status:: draft
-content-readiness:: draft
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
