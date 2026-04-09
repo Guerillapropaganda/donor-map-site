@@ -14,7 +14,7 @@ function getOctokit(): Octokit {
 export async function POST(request: Request) {
   try {
     const body = await request.json()
-    const { pipeline = "all", limit = "30", workflow = "api-enrichment.yml" } = body
+    const { pipeline = "all", limit = "30", profile = "", workflow = "api-enrichment.yml" } = body
 
     const octokit = getOctokit()
 
@@ -29,18 +29,23 @@ export async function POST(request: Request) {
       return NextResponse.json({ success: true, workflow: "auto-connect" })
     }
 
+    const inputs: Record<string, string> = {
+      pipeline,
+      limit: String(limit),
+    }
+    if (profile) {
+      inputs.profile = profile
+    }
+
     await octokit.rest.actions.createWorkflowDispatch({
       owner: OWNER,
       repo: ENGINE_REPO,
       workflow_id: "api-enrichment.yml",
       ref: "main",
-      inputs: {
-        pipeline,
-        limit: String(limit),
-      },
+      inputs,
     })
 
-    return NextResponse.json({ success: true, pipeline, limit })
+    return NextResponse.json({ success: true, pipeline, limit, profile })
   } catch (error: unknown) {
     const message = error instanceof Error ? error.message : "Unknown error"
     return NextResponse.json({ error: message }, { status: 500 })
