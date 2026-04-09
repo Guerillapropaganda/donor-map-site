@@ -22,7 +22,7 @@ doj-components:
   - 'USAO - New York, Northern'
 donors: '[[Ken Griffin]]'
 related: '[[Lockheed Martin Buys Defense Hawks in Both Parties]]'
-opposes: '[[NRSC]] · [[SENATE LEADERSHIP FUND]]'
+opposes: '[[NRSC]] · [[SENATE LEADERSHIP FUND]] · [[DEFENDARIZONA]]'
 ---
 
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control
