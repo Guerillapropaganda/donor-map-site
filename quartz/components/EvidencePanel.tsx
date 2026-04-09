@@ -144,8 +144,9 @@ EvidencePanel.css = `
   letter-spacing: 1.5px;
   text-transform: uppercase;
   color: #0a0a0a;
-  padding: 3px 10px;
-  border: 1px solid #0a0a0a;
+  padding: 4px 12px;
+  background: #fbbf24;
+  border: none;
 }
 
 .ep-context {
@@ -170,13 +171,14 @@ EvidencePanel.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
-  color: #e63946 !important;
+  color: #0a0a0a !important;
   text-decoration: none;
-  border-bottom: none !important;
+  border-bottom: 2px solid #fbbf24 !important;
+  padding-bottom: 1px;
 }
 
 .ep-verify-link:hover {
-  color: #0a0a0a !important;
+  color: #fbbf24 !important;
 }
 
 .ep-row-bottom {
