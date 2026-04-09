@@ -35,7 +35,7 @@ opposes: '[[SENATE LEADERSHIP FUND]]'
 
 related: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]] · [[Fossil Fuel Bloc]] · [[_Kamala Harris Master Profile]] · [[_Joe Manchin Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Jewish Democratic Council of America]] · [[DMFI - Democratic Majority for Israel]]
 
-donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]]
+donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]] · [[PRIORITIES USA ACTION]]
 
 profile-status:: ready
 
