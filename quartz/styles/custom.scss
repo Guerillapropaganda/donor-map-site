@@ -2215,3 +2215,202 @@ body[data-slug*="master-profile" i] {
     color: #333 !important;
   }
 }
+
+// =============================================
+// CONSTRUCTION MODE
+// =============================================
+// Hide all Quartz chrome when construction page is showing
+body:has(.lp-construction) {
+  // Hide sidebars
+  .left.sidebar,
+  .right.sidebar {
+    display: none !important;
+  }
+
+  // Hide footer, mobile nav, admin bar
+  footer,
+  .mobile-nav-bar,
+  .admin-bar {
+    display: none !important;
+  }
+
+  // Hide article content + page-footer inside center
+  .center > article,
+  .center > .page-footer,
+  .center > hr {
+    display: none !important;
+  }
+
+  // Hide everything in page-header EXCEPT the construction page
+  .page-header > .popover-hint > *:not(.lp-construction) {
+    display: none !important;
+  }
+
+  // Full width layout — override Quartz grid
+  .page {
+    max-width: 100vw !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    display: block !important;
+    overflow-x: hidden !important;
+  }
+
+  #quartz-body {
+    display: block !important;
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .center {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: block !important;
+    grid-template-columns: 1fr !important;
+  }
+
+  .page-header {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}
+
+.lp-construction {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.lp-construct-container {
+  max-width: 640px;
+  text-align: center;
+}
+
+.lp-construct-badge {
+  display: inline-block;
+  font-family: "Space Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 3px;
+  color: #f59e0b;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  padding: 6px 16px;
+  border-radius: 2px;
+  margin-bottom: 2rem;
+}
+
+.lp-construct-title {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  color: #e4e4e7;
+  margin: 0 0 0.5rem;
+  line-height: 1.1;
+}
+
+.lp-construct-tagline {
+  font-family: "Space Mono", monospace;
+  font-size: 1.2rem;
+  color: #5b8dce;
+  margin-bottom: 2rem;
+  letter-spacing: 1px;
+}
+
+.lp-construct-desc {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: #9a9aa6;
+  margin-bottom: 2.5rem;
+}
+
+.lp-construct-stats {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin-bottom: 3rem;
+}
+
+.lp-construct-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.lp-construct-stat-num {
+  font-family: "Space Mono", monospace;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #e4e4e7;
+
+  &.green {
+    color: #22c55e;
+  }
+}
+
+.lp-construct-stat-label {
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #7a7a86;
+}
+
+.lp-construct-cta {
+  margin-bottom: 2rem;
+}
+
+.lp-construct-status {
+  font-family: "Space Mono", monospace;
+  font-size: 0.85rem;
+  color: #22c55e;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  animation: constructPulse 2s ease-in-out infinite;
+}
+
+@keyframes constructPulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.lp-construct-contact {
+  font-size: 0.8rem;
+  color: #63636e;
+
+  strong {
+    color: #9a9aa6;
+  }
+}
+
+@media (max-width: 600px) {
+  .lp-construction {
+    padding: 1rem;
+    overflow-x: hidden;
+  }
+
+  .lp-construct-container {
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  .lp-construct-title {
+    font-size: 1.8rem;
+  }
+
+  .lp-construct-tagline {
+    font-size: 0.95rem;
+  }
+
+  .lp-construct-desc {
+    font-size: 0.85rem;
+    padding: 0 0.5rem;
+  }
+
+  .lp-construct-stats {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+}

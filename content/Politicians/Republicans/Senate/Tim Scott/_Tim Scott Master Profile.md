@@ -19,7 +19,6 @@ top-donors:
   - "AIPAC"
   - "Senate Leadership Fund"
   - "Michael Bloomberg"
-bioguide-id: "A000383"
 related: "[[Bank of America]] · [[John Cornyn]]"
 donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]]"
 total-received: "$1,539"

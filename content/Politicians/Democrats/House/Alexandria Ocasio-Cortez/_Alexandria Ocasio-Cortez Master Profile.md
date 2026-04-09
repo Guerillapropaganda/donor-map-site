@@ -12,7 +12,6 @@ state-abbr: "NY"
 district: "14"
 top-donors:
   - "Small Dollar Donors - ActBlue"
-bioguide-id: "A000383"
 govtrack-id: 412804
 bills-sponsored: 7
 bills-cosponsored: 323

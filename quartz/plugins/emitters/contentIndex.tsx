@@ -1,4 +1,5 @@
 import { Root } from "hast"
+import { isConstructionMode } from "../../constructionMode"
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
 import { escapeHTML } from "../../util/escape"
@@ -97,6 +98,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
   return {
     name: "ContentIndex",
     async *emit(ctx, content) {
+      if (isConstructionMode) return
       const cfg = ctx.cfg.configuration
       const linkIndex: ContentIndexMap = new Map()
       for (const [tree, file] of content) {

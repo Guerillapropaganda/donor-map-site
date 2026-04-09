@@ -18,7 +18,6 @@ issues:
   - "Environment"
 total-received: "$17,388"
 fec-candidate-id: "H2AZ07070"
-bioguide-id: "A000383"
 govtrack-id: 400162
 bills-sponsored: 2
 bills-cosponsored: 122

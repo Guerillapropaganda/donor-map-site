@@ -16,7 +16,6 @@ top-donors:
   - "Leonard Leo"
 total-received: "$1,150,554"
 fec-candidate-id: "S8MO00160"
-bioguide-id: "A000383"
 source-types:
   - Congress
   - FEC

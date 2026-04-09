@@ -22,7 +22,7 @@ bills-cosponsored: 0
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[John Boehner]]"
 donors: "[[Jewish Democratic Council of America]] · [[American Iron and Steel Institute]] · [[Koch network]] · [[Mark Zuckerberg]]"
 total-received: "$483,642,897"
-fec-candidate-id: "P80003353"
+fec-candidate-id: "H8WI01024"
 ---
 
 #paul-ryan #speaker-of-house #tax-cuts-jobs-act #deficit-hawk #koch-network #fox-corporation #finance #class-analysis

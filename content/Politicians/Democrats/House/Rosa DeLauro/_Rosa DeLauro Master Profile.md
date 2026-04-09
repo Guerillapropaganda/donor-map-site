@@ -17,7 +17,6 @@ leadership-roles:
 top-donors:
   - "Lockheed Martin"
   - "AIPAC"
-bioguide-id: "A000383"
 donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]]"
 related: "[[Tom Cole]]"
 total-received: "$689,298"
