@@ -61,7 +61,13 @@ export default function ProfilePage() {
   const [urls, setUrls] = useState<UrlData[]>([])
   const [connections, setConnections] = useState<Connection[]>([])
   const [loading, setLoading] = useState(true)
-  const [tab, setTab] = useState<"overview" | "sources" | "connections" | "urls" | "notes">("overview")
+  const [tab, setTab] = useState<"overview" | "sources" | "connections" | "urls" | "notes" | "reviews">("overview")
+  const [reviewSubTab, setReviewSubTab] = useState<"code" | "research" | "editor">("editor")
+  const [codeNotes, setCodeNotes] = useState("")
+  const [researchNotes, setResearchNotes] = useState("")
+  const [editorNotes, setEditorNotes] = useState("")
+  const [reviewSaving, setReviewSaving] = useState(false)
+  const [reviewMsg, setReviewMsg] = useState("")
   const [urlOverrides, setUrlOverrides] = useState<Record<number, "ok" | "broken" | "unsure" | "yellow">>({})
   const [urlNotes, setUrlNotes] = useState<Record<number, string>>({})
   const [urlSaving, setUrlSaving] = useState(false)
@@ -772,12 +778,12 @@ export default function ProfilePage() {
 
       {/* Tabs */}
       <div className="flex gap-1 mb-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-1 w-fit">
-        {(["overview", "connections", "urls", "notes"] as const).map((t) => (
+        {(["overview", "connections", "urls", "notes", "reviews"] as const).map((t) => (
           <button key={t} onClick={() => setTab(t)}
             className={`px-4 py-2 rounded text-xs transition-all capitalize ${
               tab === t ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)]" : "text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
             }`}>
-            {t}{t === "notes" && internalNotes ? " •" : ""}
+            {t === "reviews" ? <>Reviews {profile?.editorialResult === "pass" ? <span className="inline-block w-2 h-2 rounded-full bg-[var(--color-green)] ml-1" /> : profile?.editorialResult === "block" ? <span className="inline-block w-2 h-2 rounded-full bg-[var(--color-red)] ml-1" /> : profile?.editorialResult === "defer" ? <span className="inline-block w-2 h-2 rounded-full bg-[var(--color-amber)] ml-1" /> : null}</> : <>{t}{t === "notes" && internalNotes ? " •" : ""}</>}
           </button>
         ))}
       </div>
@@ -1121,6 +1127,338 @@ export default function ProfilePage() {
           </div>
         </div>
       )}
+
+      {/* ═══ Reviews Tab ═══ */}
+      {tab === "reviews" && profile && (() => {
+        const blockers = profile.editorialBlockers || []
+        const codeBlockers = blockers.filter(b => b.toLowerCase().includes("code claude") || b.toLowerCase().includes("pipeline") || b.toLowerCase().includes("auto-block") || b.toLowerCase().includes("enrichment"))
+        const researchBlockers = blockers.filter(b => !codeBlockers.includes(b))
+        const verifiedBlocks = profile.verifiedBlocks || []
+        const corrections = profile.corrections || []
+        const knownGaps = profile.knownGaps || []
+        const reviewDate = profile.editorialReviewDate
+        const reviewResult = profile.editorialResult
+        const checklistNa = profile.checklistNa || []
+
+        // Parse prefixed notes from internal notes
+        const allNotes = (internalNotes || "").split(" | ")
+        const existingCodeNotes = allNotes.filter(n => n.startsWith("[CODE]")).map(n => n.replace("[CODE] ", "")).join("\n")
+        const existingResearchNotes = allNotes.filter(n => n.startsWith("[RESEARCH]")).map(n => n.replace("[RESEARCH] ", "")).join("\n")
+        const existingEditorNotes = allNotes.filter(n => n.startsWith("[EDITOR]")).map(n => n.replace("[EDITOR] ", "")).join("\n")
+
+        async function saveReviewNote(prefix: string, text: string) {
+          if (!profilePath || !text.trim()) return
+          setReviewSaving(true)
+          setReviewMsg("")
+          // Append prefixed note to internal-notes
+          const newNote = `[${prefix}] ${text.trim()}`
+          const updated = internalNotes ? `${internalNotes} | ${newNote}` : newNote
+          try {
+            const res = await fetch("/api/profile/notes", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ path: profilePath, notes: updated }),
+            })
+            const data = await res.json()
+            if (data.success) {
+              setInternalNotes(updated)
+              setNotesOriginal(updated)
+              setReviewMsg("Saved")
+              if (prefix === "CODE") setCodeNotes("")
+              if (prefix === "RESEARCH") setResearchNotes("")
+              if (prefix === "EDITOR") setEditorNotes("")
+            } else { setReviewMsg(`Error: ${data.error}`) }
+          } catch { setReviewMsg("Error saving") }
+          setReviewSaving(false)
+        }
+
+        async function approveForAPlus() {
+          if (!profilePath) return
+          setReviewSaving(true)
+          try {
+            const res = await fetch("/api/profile/readiness", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ path: profilePath, readiness: "verified", verifiedBy: "editorial" }),
+            })
+            const data = await res.json()
+            if (data.success) {
+              setReviewMsg("Promoted to A+ (verified)")
+              setProfile({ ...profile, contentReadiness: "verified", lastVerifiedBy: "editorial" })
+            } else { setReviewMsg(`Error: ${data.error}`) }
+          } catch { setReviewMsg("Error promoting") }
+          setReviewSaving(false)
+        }
+
+        async function requestResearchReview(blocker: string) {
+          await saveReviewNote("RESEARCH", `Needs Research Claude: ${blocker}`)
+        }
+
+        async function triggerPipelineFix(blocker: string) {
+          // Try to extract pipeline name from blocker text
+          const pipelineMap: Record<string, string> = {
+            fec: "fec", congress: "congress", govtrack: "govtrack", lda: "lda",
+            enrichment: "fec", "auto-block": "congress", wikipedia: "congress",
+          }
+          const key = Object.keys(pipelineMap).find(k => blocker.toLowerCase().includes(k))
+          const pipeline = key ? pipelineMap[key] : "fec"
+          setReviewMsg(`Running ${pipeline} pipeline...`)
+          try {
+            const res = await fetch("/api/pipelines/run", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ pipeline, profile: profile.title, limit: 1 }),
+            })
+            const data = await res.json()
+            if (data.success) setReviewMsg(`${pipeline} pipeline triggered`)
+            else setReviewMsg(`Pipeline error: ${data.error || "GitHub Actions may be disabled"}`)
+          } catch { setReviewMsg("Pipeline error: GitHub Actions may be disabled") }
+        }
+
+        return (
+        <div className="space-y-4">
+          {/* Review status banner */}
+          <div className={`rounded-lg p-3 border ${
+            reviewResult === "pass" ? "bg-[var(--color-green)]/10 border-[var(--color-green)]/30" :
+            reviewResult === "block" ? "bg-[var(--color-red)]/10 border-[var(--color-red)]/30" :
+            reviewResult === "defer" ? "bg-[var(--color-amber)]/10 border-[var(--color-amber)]/30" :
+            "bg-[var(--color-bg-card)] border-[var(--color-border)]"
+          }`}>
+            <div className="flex items-center gap-3">
+              <span className={`text-sm font-bold ${
+                reviewResult === "pass" ? "text-[var(--color-green)]" :
+                reviewResult === "block" ? "text-[var(--color-red)]" :
+                reviewResult === "defer" ? "text-[var(--color-amber)]" :
+                "text-[var(--color-text-dim)]"
+              }`}>
+                {reviewResult === "pass" ? "A+ APPROVED" : reviewResult === "block" ? "BLOCKED" : reviewResult === "defer" ? "DEFERRED" : "NOT REVIEWED"}
+              </span>
+              {reviewDate && <span className="text-[9px] text-[var(--color-text-dim)]">Last reviewed: {reviewDate}</span>}
+              <span className="text-[9px] text-[var(--color-text-dim)]">{verifiedBlocks.length} blocks verified</span>
+              {reviewMsg && <span className="ml-auto text-[9px] text-[var(--color-green)]">{reviewMsg}</span>}
+            </div>
+          </div>
+
+          {/* Sub-tabs */}
+          <div className="flex gap-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-1 w-fit">
+            {([
+              { id: "code" as const, label: "Code Claude", color: "#5b8dce", count: codeBlockers.length },
+              { id: "research" as const, label: "Research Claude", color: "#22c55e", count: researchBlockers.length },
+              { id: "editor" as const, label: "Editor (Me)", color: "#f59e0b", count: 0 },
+            ]).map((st) => (
+              <button key={st.id} onClick={() => setReviewSubTab(st.id)}
+                className={`px-4 py-2 rounded text-[10px] font-bold transition-all ${
+                  reviewSubTab === st.id ? "text-white" : "text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
+                }`}
+                style={reviewSubTab === st.id ? { backgroundColor: st.color + "25", color: st.color } : {}}>
+                {st.label} {st.count > 0 && <span className="ml-1 px-1.5 py-0.5 rounded-full text-[8px] bg-[var(--color-red)]/20 text-[var(--color-red)]">{st.count}</span>}
+              </button>
+            ))}
+          </div>
+
+          {/* ── Code Claude Sub-tab ── */}
+          {reviewSubTab === "code" && (
+            <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4 space-y-4">
+              <h3 className="text-[10px] uppercase tracking-wider text-[#5b8dce]">Pipeline & Data Blockers</h3>
+
+              {codeBlockers.length === 0 && knownGaps.length === 0 ? (
+                <p className="text-[10px] text-[var(--color-text-dim)]">No Code Claude blockers</p>
+              ) : (
+                <div className="space-y-2">
+                  {codeBlockers.map((b, i) => (
+                    <div key={i} className="flex items-start gap-2 p-2 rounded bg-[var(--color-bg)] border border-[var(--color-border)]">
+                      <span className="text-[var(--color-red)] text-xs mt-0.5">&#10007;</span>
+                      <span className="text-[10px] text-[var(--color-text)]">{b}</span>
+                      <button onClick={() => triggerPipelineFix(b)}
+                        className="ml-1 text-[8px] px-1.5 py-0.5 rounded border border-[var(--color-steel)]/30 text-[var(--color-steel)] hover:bg-[var(--color-steel)]/10 flex-shrink-0">
+                        Fix This ▶
+                      </button>
+                    </div>
+                  ))}
+                  {knownGaps.map((g, i) => (
+                    <div key={`gap-${i}`} className="flex items-start gap-2 p-2 rounded bg-[var(--color-bg)] border border-[var(--color-border)]">
+                      <span className="text-[var(--color-amber)] text-xs mt-0.5">!</span>
+                      <span className="text-[10px] text-[var(--color-text-dim)]">{g}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+
+              {/* Notepad for Code Claude */}
+              <div className="border-t border-[var(--color-border)] pt-3">
+                <h4 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Notes for Code Claude</h4>
+                {existingCodeNotes && <p className="text-[9px] text-[var(--color-text-dim)] italic mb-2 whitespace-pre-wrap">{existingCodeNotes}</p>}
+                <textarea
+                  value={codeNotes}
+                  onChange={(e) => setCodeNotes(e.target.value)}
+                  placeholder="Comments or instructions for Code Claude..."
+                  className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-2 text-[10px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)] min-h-[80px] resize-y"
+                />
+                <button onClick={() => saveReviewNote("CODE", codeNotes)} disabled={reviewSaving || !codeNotes.trim()}
+                  className="mt-2 px-3 py-1.5 bg-[#5b8dce]/15 text-[#5b8dce] text-[9px] font-bold rounded border border-[#5b8dce]/30 hover:bg-[#5b8dce]/25 disabled:opacity-50">
+                  {reviewSaving ? "Saving..." : "Save Note"}
+                </button>
+              </div>
+            </div>
+          )}
+
+          {/* ── Research Claude Sub-tab ── */}
+          {reviewSubTab === "research" && (
+            <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4 space-y-4">
+              <h3 className="text-[10px] uppercase tracking-wider text-[#22c55e]">Editorial Review Status</h3>
+
+              {/* Verified blocks progress */}
+              {verifiedBlocks.length > 0 && (
+                <div>
+                  <div className="flex items-center gap-2 mb-1">
+                    <span className="text-[9px] text-[var(--color-text-dim)]">Verified blocks:</span>
+                    <span className="text-[9px] font-bold text-[var(--color-green)]">{verifiedBlocks.length}</span>
+                  </div>
+                  <div className="flex flex-wrap gap-1">
+                    {verifiedBlocks.map((b, i) => (
+                      <span key={i} className="text-[8px] px-1.5 py-0.5 rounded bg-[var(--color-green)]/10 text-[var(--color-green)] border border-[var(--color-green)]/20">{b}</span>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* N/A items */}
+              {checklistNa.length > 0 && (
+                <div>
+                  <span className="text-[9px] text-[var(--color-text-dim)]">N/A items:</span>
+                  <div className="flex flex-wrap gap-1 mt-1">
+                    {checklistNa.map((n, i) => (
+                      <span key={i} className="text-[8px] px-1.5 py-0.5 rounded bg-[var(--color-bg)] text-[var(--color-text-dim)] border border-[var(--color-border)]">{n}</span>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Research blockers */}
+              {researchBlockers.length > 0 && (
+                <div>
+                  <h4 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Editorial Blockers</h4>
+                  <div className="space-y-2">
+                    {researchBlockers.map((b, i) => (
+                      <div key={i} className="flex items-start gap-2 p-2 rounded bg-[var(--color-bg)] border border-[var(--color-border)]">
+                        <span className="text-[var(--color-red)] text-xs mt-0.5">&#10007;</span>
+                        <span className="text-[10px] text-[var(--color-text)]">{b}</span>
+                        <button onClick={() => requestResearchReview(b)}
+                          className="ml-1 text-[8px] px-1.5 py-0.5 rounded border border-[#22c55e]/30 text-[#22c55e] hover:bg-[#22c55e]/10 flex-shrink-0">
+                          Request Review
+                        </button>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Corrections trail */}
+              {corrections.length > 0 && (
+                <div>
+                  <h4 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Corrections Trail</h4>
+                  {corrections.map((c, i) => (
+                    <p key={i} className="text-[9px] text-[var(--color-text-dim)] italic">{c}</p>
+                  ))}
+                </div>
+              )}
+
+              {/* Notepad for Research Claude */}
+              <div className="border-t border-[var(--color-border)] pt-3">
+                <h4 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Notes for Research Claude</h4>
+                {existingResearchNotes && <p className="text-[9px] text-[var(--color-text-dim)] italic mb-2 whitespace-pre-wrap">{existingResearchNotes}</p>}
+                <textarea
+                  value={researchNotes}
+                  onChange={(e) => setResearchNotes(e.target.value)}
+                  placeholder="Comments or feedback for Research Claude..."
+                  className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-2 text-[10px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)] min-h-[80px] resize-y"
+                />
+                <button onClick={() => saveReviewNote("RESEARCH", researchNotes)} disabled={reviewSaving || !researchNotes.trim()}
+                  className="mt-2 px-3 py-1.5 bg-[#22c55e]/15 text-[#22c55e] text-[9px] font-bold rounded border border-[#22c55e]/30 hover:bg-[#22c55e]/25 disabled:opacity-50">
+                  {reviewSaving ? "Saving..." : "Save Note"}
+                </button>
+              </div>
+            </div>
+          )}
+
+          {/* ── Editor Sub-tab ── */}
+          {reviewSubTab === "editor" && (
+            <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4 space-y-4">
+              <h3 className="text-[10px] uppercase tracking-wider text-[#f59e0b]">Editor Review</h3>
+
+              {/* A+ Readiness summary */}
+              <div className="p-3 rounded bg-[var(--color-bg)] border border-[var(--color-border)]">
+                <div className="flex items-center gap-3 mb-2">
+                  <span className="text-[10px] font-bold text-[var(--color-text)]">A+ Readiness</span>
+                  <span className={`text-[9px] px-2 py-0.5 rounded-full font-bold ${
+                    blockers.length === 0 && verifiedBlocks.length > 0 ? "bg-[var(--color-green)]/15 text-[var(--color-green)]" :
+                    blockers.length <= 2 ? "bg-[var(--color-amber)]/15 text-[var(--color-amber)]" :
+                    "bg-[var(--color-red)]/15 text-[var(--color-red)]"
+                  }`}>
+                    {blockers.length === 0 && verifiedBlocks.length > 0 ? "Ready for A+" : `${blockers.length} blocker${blockers.length !== 1 ? "s" : ""}`}
+                  </span>
+                </div>
+
+                {/* All blockers consolidated */}
+                {blockers.length > 0 && (
+                  <div className="space-y-1">
+                    {blockers.map((b, i) => (
+                      <div key={i} className="flex items-center gap-2">
+                        <span className="text-[var(--color-red)] text-[10px]">&#10007;</span>
+                        <span className="text-[9px] text-[var(--color-text)]">{b}</span>
+                      </div>
+                    ))}
+                  </div>
+                )}
+                {blockers.length === 0 && verifiedBlocks.length > 0 && (
+                  <p className="text-[9px] text-[var(--color-green)]">All blocks verified. Ready for editorial sign-off.</p>
+                )}
+              </div>
+
+              {/* Action buttons */}
+              <div className="flex gap-2">
+                <button onClick={approveForAPlus}
+                  disabled={reviewSaving || profile.contentReadiness === "verified"}
+                  className="px-4 py-2 bg-[var(--color-green)]/15 text-[var(--color-green)] text-[10px] font-bold rounded-lg border border-[var(--color-green)]/30 hover:bg-[var(--color-green)]/25 disabled:opacity-50 transition-colors">
+                  {profile.contentReadiness === "verified" ? "Already A+" : "Approve for A+"}
+                </button>
+                <button onClick={() => { if (editorNotes.trim()) saveReviewNote("EDITOR", editorNotes) }}
+                  disabled={reviewSaving || !editorNotes.trim()}
+                  className="px-4 py-2 bg-[var(--color-amber)]/15 text-[var(--color-amber)] text-[10px] font-bold rounded-lg border border-[var(--color-amber)]/30 hover:bg-[var(--color-amber)]/25 disabled:opacity-50 transition-colors">
+                  Request Changes
+                </button>
+              </div>
+
+              {/* Editor notepad */}
+              <div className="border-t border-[var(--color-border)] pt-3">
+                <h4 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Editor Notes</h4>
+                {existingEditorNotes && <p className="text-[9px] text-[var(--color-text-dim)] italic mb-2 whitespace-pre-wrap">{existingEditorNotes}</p>}
+                <textarea
+                  value={editorNotes}
+                  onChange={(e) => setEditorNotes(e.target.value)}
+                  placeholder="Your observations, decisions, or notes..."
+                  className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-2 text-[10px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)] min-h-[80px] resize-y"
+                />
+                <button onClick={() => saveReviewNote("EDITOR", editorNotes)} disabled={reviewSaving || !editorNotes.trim()}
+                  className="mt-2 px-3 py-1.5 bg-[#f59e0b]/15 text-[#f59e0b] text-[9px] font-bold rounded border border-[#f59e0b]/30 hover:bg-[#f59e0b]/25 disabled:opacity-50">
+                  {reviewSaving ? "Saving..." : "Save Note"}
+                </button>
+              </div>
+
+              {/* Review history */}
+              {reviewDate && (
+                <div className="border-t border-[var(--color-border)] pt-3">
+                  <h4 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Review History</h4>
+                  <div className="text-[9px] text-[var(--color-text-dim)]">
+                    <p>{reviewDate} — {profile.editorialReviewer || "Unknown"} — <span className={reviewResult === "pass" ? "text-[var(--color-green)]" : reviewResult === "block" ? "text-[var(--color-red)]" : "text-[var(--color-amber)]"}>{reviewResult || "pending"}</span></p>
+                  </div>
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+        )
+      })()}
     </div>
   )
 }
