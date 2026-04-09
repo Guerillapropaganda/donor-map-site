@@ -28,6 +28,8 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+executive-actions: 10
+last-enriched: "2026-04-09"
 ---
 
 
@@ -200,7 +202,26 @@ The new fault line: AI. Labor unions publicly conditioned 2028 support on AI reg
 
 ---
 
-### Sources
+#<!-- auto:governor-exec-actions start -->
+### Executive Actions (CA)
+
+| # | Title | Date | Link |
+|---|-------|------|------|
+| 1 | As Trump rolls back protections, Governor Newsom signs first-of-its-kind exec... | 2026-03-30 | [Link](https://www.gov.ca.gov/2026/03/30/as-trump-rolls-back-protections-governor-newsom-signs-first-of-its-kind-executive-order-to-strengthen-ai-protections-and-responsible-use/) |
+| 2 | Governor Newsom strengthens bans on insider betting by state officials, takes... | 2026-03-27 | [Link](https://www.gov.ca.gov/2026/03/27/governor-newsom-strengthens-bans-on-insider-betting-by-state-officials-takes-aim-at-corruption-fueled-by-trump/) |
+| 3 | Governor Newsom expands financial literacy in schools and wealth-building acc... | 2026-03-18 | [Link](https://www.gov.ca.gov/2026/03/18/governor-newsom-expands-financial-literacy-in-schools-and-wealth-building-access-for-women/) |
+| 4 | Governor Newsom signs Executive Order to assist Imperial County’s recovery fo... | 2026-02-05 | [Link](https://www.gov.ca.gov/2026/02/04/governor-newsom-signs-executive-order-to-assist-imperial-countys-recovery-following-2025-august-monsoon-storms/) |
+| 5 | Governor Newsom issues executive order expanding protections for survivors an... | 2026-01-06 | [Link](https://www.gov.ca.gov/2026/01/06/governor-newsom-issues-executive-order-expanding-protections-for-survivors-and-support-for-businesses/) |
+| 6 | Following LA fires, Governor Newsom extends key provision to fast‑track wildf... | 2025-12-31 | [Link](https://www.gov.ca.gov/2025/12/31/following-la-fires-governor-newsom-extends-key-provision-to-fast-track-wildfire-safety-window-protecting-more-communities-across-the-state/) |
+| 7 | While Trump turns his back on LA fire survivors, Governor Newsom issues order... | 2025-11-24 | [Link](https://www.gov.ca.gov/2025/11/24/while-trump-turns-his-back-on-la-fire-survivors-governor-newsom-issues-order-creating-more-flexibility-for-recovery-and-rebuilding/) |
+| 8 | Governor Newsom cuts red tape to help communities clean up and rebuild faster... | 2025-11-19 | [Link](https://www.gov.ca.gov/2025/11/19/governor-newsom-cuts-red-tape-to-help-communities-clean-up-and-rebuild-faster-following-the-tcu-lightning-complex-fires/) |
+| 9 | Governor Newsom signs executive order launching next phase of whole-of-govern... | 2025-09-30 | [Link](https://www.gov.ca.gov/2025/09/30/governor-newsom-signs-executive-order-launching-next-phase-of-whole-of-government-response-to-the-economic-and-insurance-consequences-of-climate-crisis/) |
+| 10 | Governor Newsom strengthens local control in Los Angeles burn scar areas | 2025-07-30 | [Link](https://www.gov.ca.gov/2025/07/30/governor-newsom-strengthens-local-control-in-los-angeles-burn-scar-areas/) |
+
+- [Source: CA Governor's Office](https://www.gov.ca.gov/2026/03/30/as-trump-rolls-back-protections-governor-newsom-signs-first-of-its-kind-executive-order-to-strengthen-ai-protections-and-responsible-use/) (Tier 1)
+<!-- auto:governor-exec-actions end -->
+
+## Sources
 
 - [FPPC: California Campaign Finance Records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 - [OpenSecrets: Gavin Newsom Campaign Finance](https://www.opensecrets.org/officeholders/gavin-newsom/summary?cycle=2021&id=312332) (Tier 1)

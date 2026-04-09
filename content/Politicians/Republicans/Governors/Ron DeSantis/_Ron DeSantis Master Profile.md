@@ -23,6 +23,8 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+executive-actions: 25
+last-enriched: "2026-04-09"
 ---
 
 #desantis #governor #florida #republican #culture-war #anti-woke #class-analysis #follow-the-money #failed-2024 #tax-haven #disney #donor-capture #presidential-2028
@@ -141,7 +143,41 @@ DeSantis's second gubernatorial term ends in January 2027. He is term-limited an
 
 ---
 
-### Sources
+#<!-- auto:governor-exec-actions start -->
+### Executive Actions (FL)
+
+| # | Title | Date | Link |
+|---|-------|------|------|
+| 1 | #2026-76 declares a vacancy on the Manatee County Board of County Commissioners | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-76.pdf) |
+| 2 | #2026-75 extends Executive Order 23-03 – Emergency Management – Illegal Immig... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-75.pdf) |
+| 3 | #2026-74 extends Executive Order 24-214 – Emergency Management – Hurricane Mi... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-74.pdf) |
+| 4 | #2026-73 extends Executive Order 25-80 re: Brett Duncan Arquette | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-73.pdf) |
+| 5 | #2026-72 extends Executive Order 25-84 re: Jerome Sanders | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-72.pdf) |
+| 6 | #2026-71 extends Executive Order 25-93 re: Ryan Michael Johnson | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-71.pdf) |
+| 7 | #2026-70 extends Executive Order 25-78 re: Jose Gonzalez | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-70.pdf) |
+| 8 | #2026-69 assigns the 11th circuit to the 17th circuit re: Henry Moya a.k.a. H... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-69.pdf) |
+| 9 | #2026-68 assigns the 20th circuit to the 17th circuit re: Jedson Durosene | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-68.pdf) |
+| 10 | #2026-67 extends Executive Order 25-73 re: Richard L. Ellwood | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-67.pdf) |
+| 11 | #2026-66 extends Executive Order 25-165 re: Todd Watson | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-66.pdf) |
+| 12 | #2026-65 extends Executive Order 25-52 re: Samantha Rae Butler | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-65.pdf) |
+| 13 | #2026-64 extends Executive Order 25-35 re: Christopher Devon Butler | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-64.pdf) |
+| 14 | #2026-63 assigns the 17th circuit to the 11th circuit re: Mark Junior Williams | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-63.pdf) |
+| 15 | #2026-62 assigns the 17th circuit to the 15th circuit re: Joel Antonio Vega | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-62.pdf) |
+| 16 | #2026-61 assigns the 8th circuit to the 3rd circuit re: Travis Delvin Koon | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-61.pdf) |
+| 17 | #2026-59 extends Executive Order 24-156– Emergency Management – Hurricane Debby | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-59.pdf) |
+| 18 | #2026-58 extends Executive Order 24-208 – Emergency Management – Hurricane He... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-58.pdf) |
+| 19 | #2026-57 extends Executive Order 25-101 – Emergency Management – Northwest Fl... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-57.pdf) |
+| 20 | #2026-56 amends Executive Order 23-132 – Rural Area of Opportunity | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-56.pdf) |
+| 21 | #2026-55 extends Executive Order 25-64 re: Kenneth Robert Kelly | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-55.pdf) |
+| 22 | #2026-54 extends Executive Order 25-40 re: John S. Huggins | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-54.pdf) |
+| 23 | #2026-53 extends Executive Order 25-39 re: Dolan Darling a.k.a. Sean Hector S... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-53.pdf) |
+| 24 | #2026-52 extends Executive Order 25-38 re: Dane Patrick Abdool | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-52.pdf) |
+| 25 | Executive Orders | N/A | [Link](https://www.flgov.com/eog/news/executive-orders) |
+
+- [Source: FL Governor's Office](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-76.pdf) (Tier 1)
+<!-- auto:governor-exec-actions end -->
+
+## Sources
 
 - [OpenSecrets: Ron DeSantis 2024 Presidential Summary](https://www.opensecrets.org/2024-presidential-race/ron-desantis/candidate?id=N00034746) (Tier 1)
 - [OpenSecrets: DeSantis 2022 Contributors and Donors](https://www.opensecrets.org/2024-presidential-race/ron-desantis/contributors?id=N00034746) (Tier 1)
