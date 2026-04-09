@@ -34,7 +34,8 @@ lobbying-spend: 1684850
 lobbying-filings: 106
 stories: >-
   [[The 2024 Tech Billionaire Network]] · [[Hillbilly Elegy and the Class
-  Fraud]] · [[Narya Capital and the Venture Capital Pipeline]]
+  Fraud]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The PayPal
+  Mafia and the Venture Capital Governing Class]]
 ---
 
 
