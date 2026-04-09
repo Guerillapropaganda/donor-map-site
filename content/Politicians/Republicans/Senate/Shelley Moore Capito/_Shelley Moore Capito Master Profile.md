@@ -1,47 +1,48 @@
 ---
-title: "Shelley Moore Capito"
+title: Shelley Moore Capito
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "West Virginia"
-state-abbr: "WV"
+party: Republican
+chamber: Senate
+state: West Virginia
+state-abbr: WV
 committees:
-  - "Environment & Public Works"
+  - Environment & Public Works
 issues:
-  - "Environment"
-  - "Infrastructure"
+  - Environment
+  - Infrastructure
 top-donors:
-  - "Koch Network"
-total-received: "$4,455,752"
-fec-candidate-id: "S4WV00159"
+  - Koch Network
+total-received: '$4,455,752'
+fec-candidate-id: S4WV00159
 stock-trades: 347
 stock-trade-tickers:
-  - "MSFT"
-  - "JPM"
-  - "WFC"
-  - "C"
-  - "JNJ"
-  - "ABT"
-  - "INTC"
-  - "ENB"
-  - "CSCO"
-  - "XOM"
+  - MSFT
+  - JPM
+  - WFC
+  - C
+  - JNJ
+  - ABT
+  - INTC
+  - ENB
+  - CSCO
+  - XOM
 govtrack-id: 400061
 bills-sponsored: 24
 bills-cosponsored: 278
-website: "https://www.capito.senate.gov"
-phone: "202-224-6472"
+website: 'https://www.capito.senate.gov'
+phone: 202-224-6472
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
+opposes: '[[SENATE MAJORITY PAC]]'
 ---
 
 
