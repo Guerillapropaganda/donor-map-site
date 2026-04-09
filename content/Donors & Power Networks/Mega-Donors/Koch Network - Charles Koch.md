@@ -19,7 +19,7 @@ shareable-stat: "$2.9M donated. $1.9T in tax cuts. 655,172x return."
 issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
-related: "[[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[The Gorsuch Deregulation Record and the Family Pipeline]] · [[John Roberts Master Profile]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Clarence Thomas Master Profile]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Koch Network and Concerned Veterans for America]] · [[Fox News to Pentagon - The Media-Military Pipeline]] · [[Mike Pompeo Master Profile]] · [[The Koch Pipeline - From Kansas to Foggy Bottom to the Boardroom]]"
+related: "[[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[The Gorsuch Deregulation Record and the Family Pipeline]] · [[John Roberts Master Profile]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Clarence Thomas Master Profile]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Koch Network and Concerned Veterans for America]] · [[Fox News to Pentagon - The Media-Military Pipeline]] · [[Mike Pompeo Master Profile]] · [[The Koch Pipeline - From Kansas to Foggy Bottom to the Boardroom]] · [[Lee Zeldin Master Profile]]"
 ---
 
 
