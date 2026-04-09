@@ -17,7 +17,7 @@ top-donors:
   - "SEIU"
   - "EMILY's List"
   - "JStreetPAC"
-fec-candidate-id: "H8WI00018"
+fec-candidate-id: "S2WI00219"
 source-types:
   - Congress
   - FEC

@@ -14,7 +14,7 @@ committees:
 issues:
   - "Agriculture"
   - "Healthcare"
-fec-candidate-id: "H6KS01179"
+fec-candidate-id: "S0KS00315"
 source-types:
   - Congress
   - FEC

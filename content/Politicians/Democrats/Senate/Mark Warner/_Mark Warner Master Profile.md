@@ -15,7 +15,7 @@ top-donors:
   - "Telecom Industry"
   - "Silicon Valley Donors"
   - "Defense Contractors"
-fec-candidate-id: "P80003023"
+fec-candidate-id: "S6VA00093"
 stock-trades: 88
 stock-trade-tickers:
   - "ZAYO"

@@ -16,7 +16,7 @@ leadership-roles:
   - "Ranking Member"
 issues:
   - "Energy & Climate"
-fec-candidate-id: "H6MA07101"
+fec-candidate-id: "S4MA00028"
 source-types:
   - Congress
   - FEC

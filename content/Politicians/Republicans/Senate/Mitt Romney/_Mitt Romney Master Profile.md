@@ -8,7 +8,7 @@ parent: null
 party: "Republican"
 chamber: "Senate"
 total-received: "$483,642,897"
-fec-candidate-id: "P80003353"
+fec-candidate-id: "S8UT00176"
 govtrack-id: 412841
 bills-sponsored: 0
 bills-cosponsored: 0

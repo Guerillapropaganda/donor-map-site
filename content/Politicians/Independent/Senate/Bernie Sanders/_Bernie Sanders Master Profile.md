@@ -17,7 +17,7 @@ top-donors:
   - "Teamsters - International Brotherhood of Teamsters"
   - "IBEW - International Brotherhood of Electrical Workers"
 total-received: "$4,189"
-fec-candidate-id: "H8VT01016"
+fec-candidate-id: "S4VT00033"
 source-types:
   - FEC
 known-gaps:

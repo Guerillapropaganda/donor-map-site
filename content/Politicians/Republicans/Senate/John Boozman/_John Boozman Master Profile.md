@@ -16,7 +16,7 @@ issues:
   - "Agriculture"
 stock-trades: 43
 total-received: "$335,864"
-fec-candidate-id: "H2AR03176"
+fec-candidate-id: "S0AR00150"
 donors: "[[Walmart - Walton Family]] · [[Tyson Foods]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
 ---

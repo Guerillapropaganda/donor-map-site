@@ -22,7 +22,7 @@ bills-cosponsored: 171
 website: "https://www.moran.senate.gov"
 phone: "202-224-6521"
 total-received: "$1,586,154"
-fec-candidate-id: "H6KS01096"
+fec-candidate-id: "S0KS00091"
 related: "[[Richard Blumenthal]]"
 ---
 
