@@ -35,7 +35,7 @@ doj-components:
   - 'USAO - Kentucky, Eastern'
   - 'USAO - Louisiana, Eastern'
   - 'USAO - Michigan, Western'
-opposes: '[[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]]'
+opposes: '[[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[MAJORITY PAC]]'
 ---
 
 
