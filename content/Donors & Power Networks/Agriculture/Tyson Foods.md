@@ -59,7 +59,7 @@ Tyson Foods. The largest US poultry producer and second-largest meat processor (
 
 Tyson's political significance lies at the intersection of agricultural policy, labor policy, and immigration enforcement. The meatpacking industry depends on immigrant labor — documented and undocumented — making immigration policy an existential business issue for Tyson and its competitors.
 
-- [OpenSecrets: Tyson Foods organizational profile](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000443) (Tier 1)
+- [OpenSecrets: Tyson Foods organizational profile](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000443) (Tier 1) (VERIFIED)
 
 ---
 
@@ -84,8 +84,8 @@ Opposition to EPA regulation of agricultural waste (poultry litter runoff), favo
 ### Sources
 
 - [OpenSecrets: Tyson Foods organizational profile](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000443) (Tier 1)
-- [ProPublica: Meatpacking worker safety investigations](https://www.propublica.org/article/tyson-foods-secret-recipe-for-carving-up-workers-comp) (Tier 2)
-- [Ballotpedia: Tyson Foods](https://ballotpedia.org/Tyson_Foods) (Tier 3)
+- [ProPublica: Meatpacking worker safety investigations](https://www.propublica.org/article/tyson-foods-secret-recipe-for-carving-up-workers-comp) (Tier 2) (VERIFIED)
+- ~~[Ballotpedia: Tyson Foods](https://ballotpedia.org/Tyson_Foods)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 content-readiness:: ready
 
@@ -121,7 +121,7 @@ content-readiness:: ready
 | Poultry Processing (311615) | $1.1B |
 | Animal (except Poultry) Slaughtering (311611) | $38.8M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- ~~[Source: USASpending.gov Subawards](https://www.usaspending.gov/search)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
 ### Tax Filings (IRS 990)
@@ -138,14 +138,14 @@ content-readiness:: ready
 **Filing history:** 2019, 2015, 2014, 2013, 2012, 2011
 
 **View 990 filings:**
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2019)
-- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2015)
-- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2014)
-- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2013)
-- [2012 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2012)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2019)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2015)~~ (URL broken, archived by Ops)
+- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2014)~~ (URL broken, archived by Ops)
+- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2013)~~ (URL broken, archived by Ops)
+- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2012)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/476014039) (Tier 1)
+- ~~[Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/476014039)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
