@@ -34,7 +34,8 @@ stories: >-
   Mafia and the Venture Capital Governing Class]] · [[The Palantir State -
   Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance
   Expansion]] · [[The Billionaire Cabinet - Wealthiest Administration in
-  History]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]]
+  History]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] ·
+  [[The Silicon Valley Billionaire Donor Map]]
 ---
 
 
