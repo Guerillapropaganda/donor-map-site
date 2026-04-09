@@ -1,31 +1,32 @@
 ---
-title: "Catherine Cortez Masto"
+title: Catherine Cortez Masto
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-total-received: "$4,570,516"
-fec-candidate-id: "S6NV00200"
+total-received: '$4,570,516'
+fec-candidate-id: S6NV00200
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
-doj-press-mentions: "264413"
-last-enriched: "2026-04-09"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
+doj-press-mentions: '264413'
+last-enriched: '2026-04-09'
 doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Florida, Southern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
+  - 'Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)'
+  - Federal Bureau of Investigation (FBI)
+  - 'USAO - California, Central'
+  - USAO - Connecticut
+  - 'USAO - Florida, Northern'
+  - 'USAO - Florida, Southern'
+  - USAO - Kansas
+  - 'USAO - Kentucky, Eastern'
+  - 'USAO - Louisiana, Eastern'
+  - 'USAO - Michigan, Western'
+opposes: '[[SENATE LEADERSHIP FUND]]'
 ---
 
 #catherine-cortez-masto #senator #nevada #casino #gaming #labor #class-analysis #democrat
