@@ -19,7 +19,6 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-bioguide-id: "A000383"
 ---
 
 
@@ -159,7 +158,7 @@ content-readiness:: ready
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
 <!-- auto:committee-assignments end -->
 
 ### Influence Network (Cross-Reference)

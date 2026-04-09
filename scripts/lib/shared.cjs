@@ -202,6 +202,71 @@ function logError(msg) {
   console.error(`[ERROR] ${msg}`);
 }
 
+// ─── Wikilink Utilities ─────────────────────────────────────────
+
+/**
+ * Extract ALL wikilinks from body text (not frontmatter).
+ * Returns [{ target, display, context }] where context is surrounding text.
+ */
+function parseAllWikilinks(body) {
+  const results = [];
+  const regex = /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g;
+  let match;
+  while ((match = regex.exec(body)) !== null) {
+    const target = match[1].replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim();
+    const display = match[2] || target;
+    // Grab ~80 chars of surrounding context
+    const start = Math.max(0, match.index - 40);
+    const end = Math.min(body.length, match.index + match[0].length + 40);
+    const context = body.slice(start, end).replace(/\n/g, " ").trim();
+    results.push({ target, display, context });
+  }
+  return results;
+}
+
+/**
+ * Resolve a profile title from a mention string against title maps.
+ * Tries exact match, then cleaned (no underscores/Master Profile suffix).
+ */
+function resolveProfileTitle(name, titleToProfile, cleanTitleToProfile) {
+  if (titleToProfile.has(name)) return titleToProfile.get(name);
+  const cleaned = name.replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim();
+  if (cleanTitleToProfile && cleanTitleToProfile.has(cleaned.toLowerCase())) {
+    return cleanTitleToProfile.get(cleaned.toLowerCase());
+  }
+  return null;
+}
+
+/**
+ * Extract frontmatter connection fields (related, donors, opposes, stories).
+ * Returns Set of cleaned target names.
+ */
+function extractFrontmatterConnections(data) {
+  const connected = new Set();
+  for (const field of ["related", "donors", "opposes", "stories", "politicians-funded"]) {
+    const val = data[field];
+    if (!val) continue;
+    if (Array.isArray(val)) {
+      for (const v of val) connected.add(v.replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim());
+    } else if (typeof val === "string") {
+      // Parse wikilink format: [[Name]] or [[Name|Alias]]
+      const links = val.match(/\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]/g) || [];
+      for (const l of links) {
+        const inner = l.match(/\[\[([^\]|]+)/);
+        if (inner) connected.add(inner[1].replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim());
+      }
+      // Also try plain names separated by ·
+      if (!val.includes("[[")) {
+        for (const part of val.split("·")) {
+          const trimmed = part.trim();
+          if (trimmed) connected.add(trimmed);
+        }
+      }
+    }
+  }
+  return connected;
+}
+
 module.exports = {
   walkDir,
   parseFrontmatter,
@@ -212,4 +277,7 @@ module.exports = {
   writeReport,
   log,
   logError,
+  parseAllWikilinks,
+  resolveProfileTitle,
+  extractFrontmatterConnections,
 };

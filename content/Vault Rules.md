@@ -280,7 +280,104 @@ Stories DO require: sourced URLs, profiles linked via wikilinks, editorial sign-
 
 ---
 
-## 3. Scope Boundaries
+## 3. Relationship Discovery
+
+Automated system for finding and creating connections between profiles. The scanner discovers, David reviews, Research Claude develops.
+
+### Connection Types
+
+| Type | Meaning | Visual | When to create |
+|------|---------|--------|---------------|
+| Money Trail | Donor to recipient, confirmed by FEC | Green solid | Always. Any dollar amount from Tier 1 source |
+| Opposition | IE spending against, documented opposition | Red dashed | Auto-create from FEC IE data. Editorial opposition = flag for review |
+| Work/Org | Employment, board membership, co-founding | Blue solid | Always. If body text confirms organizational role |
+| Alliance | Co-sponsors, shared caucus, mutual support | Purple thin | Flag for review unless 2+ strategies corroborate |
+| Story Link | Connected through investigative story | Pink dotted | When story wikilinks to profile |
+| Shared Donor | Two profiles funded by same entity | Amber dotted | Flag for review. Context matters |
+| Leak Data | Panama/Paradise Papers, ICIJ offshore | White double | Always flag for review. Too sensitive to auto-create |
+
+### Confidence Tiers
+
+| Tier | Criteria | Action |
+|------|----------|--------|
+| HIGH | FEC IE data, confirmed $ from Tier 1 source, 3+ strategies agree | Auto-create eligible. David can batch-approve. |
+| MEDIUM | Organizational match, shared donors, 2 strategies agree | Review recommended. Research Claude can approve. |
+| LOW | Single body text mention, no corroboration | Manual review required. David or Research Claude decides. |
+
+### Auto-Create Rules
+- FEC independent expenditures (oppose): ALWAYS auto-create as `opposes`
+- FEC independent expenditures (support): ALWAYS auto-create as `donors`
+- All other connections: suggest only, require approval
+
+### Bidirectional Enforcement
+- When A to B is approved, auto-create B to A
+- Exception: `donors` is directional (A funds B, not B funds A)
+- `opposes` is always bidirectional (if A opposes B, B opposes A)
+
+### Unnamed Entity Threshold
+Create stub profile when:
+- Mentioned in 3+ distinct profiles across the vault, OR
+- Mentioned with a dollar amount from any Tier 1 source (FEC, Congress, LDA), OR
+- Named in Panama Papers, Paradise Papers, or ICIJ leak data
+- Must be proper noun, not generic title
+- Stub profiles are `raw` readiness with `auto-generated: true`
+
+### Confidence Escalation
+- LOW to MEDIUM: if corroborated by a second strategy on next scan
+- MEDIUM to HIGH: if corroborated by Tier 1 source data
+- Multi-strategy discoveries always get +1 confidence level
+
+### Connection Decay
+- Deferred suggestions with no action for 30 days escalate to dashboard alert
+- Relationship notes marked "investigate deeper" with no follow-up for 30 days escalate
+- Alerts show in Ops Alerts page with link to the suggestion
+
+### Rejection Rules
+- Rejection requires a reason (stored in suggestion-actions.json)
+- Rejected pairs are not re-suggested unless new evidence appears (new strategy finds them)
+- "New evidence" = a strategy that was not in the original suggestion
+
+### Transparency Score
+
+Every discovered connection gets a Transparency Score (0-100) measuring how easy it is for a citizen to follow the money. This is not an accusation of corruption. It is a measurement of structural transparency. Low transparency is a problem regardless of legality.
+
+**Tiers:**
+
+| Score | Label | Color | What it means |
+|-------|-------|-------|---------------|
+| 90-100 | TRANSPARENT | Green | Fully disclosed, direct contribution, no intermediaries. Democracy functioning. |
+| 60-89 | DISCLOSED | Blue | Public record but complex structure. Legal, traceable with effort. |
+| 30-59 | OPAQUE | Amber | Dark money layers, suspicious timing, sector-committee alignment. Legal but designed to obscure. |
+| 0-29 | OBSCURED | Red | Untraceable intermediaries, leak data exposure, under investigation. The system hiding itself. |
+
+**Scoring factors (each adds or subtracts from a base of 70):**
+
+| Factor | Measurement | Score impact |
+|--------|-------------|-------------|
+| Disclosure layers | How many entities between original donor and recipient | -10 per intermediary layer (PAC to PAC, 501c4 pass-through) |
+| Timing correlation | Days between donation and favorable policy action | <30 days: -15. 30-90 days: -10. 90-180 days: -5. >180 days: 0 |
+| Dollar magnitude | Size of contribution relative to typical donations | >$1M: -10. >$100K: -5. <$10K: +5 |
+| Dark money indicators | 501(c)(4), LLC donors, anonymous contributions in body text | -15 per indicator found |
+| Revolving door | Lobbyist/staffer movement between donor org and politician's office | -10 if detected |
+| Sector-committee alignment | Donor's industry matches politician's committee jurisdiction | -10 if aligned |
+| Pattern repetition | Same donor type, same policy outcome, across multiple cycles | -5 per repeated pattern |
+| Legal scrutiny | DOJ investigation, FEC complaint, enforcement action | -20 if under investigation |
+| Leak exposure | Panama/Paradise/Pandora Papers, ICIJ data | -25 if referenced |
+| Direct FEC disclosure | Clean FEC filing, no intermediaries | +10 |
+| Small donor funded | Majority small-dollar contributions | +10 |
+
+**The framing principle:** We measure transparency, not morality. "How easy is it to follow this money?" If the answer is "you need to dig through 4 shell entities," that is a transparency problem. The reader decides what it means.
+
+**Display:** Every suggestion card shows the Transparency Score as a colored bar with the tier label. Connections with scores below 30 (OBSCURED) get flagged for priority editorial review.
+
+### Roles
+- **Code Claude**: Owns the discovery scanner, suggestions API, auto-create pipeline, transparency scoring. Does NOT approve editorial connections.
+- **Research Claude**: Reviews suggestions at session start. Approves/rejects medium-confidence connections. Develops stub profiles. Flags new relationships during editorial reviews. Investigates OBSCURED connections.
+- **David (Editor)**: Approves/rejects in Ops UI. Batch-approves high-confidence. Final say on edge cases. Prioritizes OBSCURED connections for editorial.
+
+---
+
+## 4. Scope Boundaries
 
 Two Claudes, one vault. Clear lanes prevent contradictions.
 
@@ -322,7 +419,7 @@ Two Claudes, one vault. Clear lanes prevent contradictions.
 
 ---
 
-## 4. Pipeline Data Protocol
+## 5. Pipeline Data Protocol
 
 Pipelines write data into profiles automatically. This data must coexist with editorial content without clashing.
 
@@ -348,7 +445,7 @@ Pipelines write data into profiles automatically. This data must coexist with ed
 
 ---
 
-## 5. File Standards
+## 6. File Standards
 
 ### Naming:
 - Master profiles: `_Name Master Profile.md` (underscore prefix)
@@ -411,7 +508,7 @@ corrections:                          # permanent audit trail of editorial chang
 
 ---
 
-## 6. Session Protocol
+## 7. Session Protocol
 
 ### Starting a session:
 1. Read `Session State.md` (auto-loaded or in vault)
@@ -441,7 +538,7 @@ Rolling 5-session history. Oldest drops off.
 
 ---
 
-## 7. Mechanical Hygiene
+## 8. Mechanical Hygiene
 
 Either Claude can perform these without handoff:
 - Fix NUL bytes, BOM artifacts, encoding corruption
@@ -454,7 +551,7 @@ Flag in Session State when doing bulk hygiene sweeps.
 
 ---
 
-## 8. Decisions Log
+## 9. Decisions Log
 
 Permanent record of architectural and editorial decisions that affect the whole vault. Add new entries at the top.
 

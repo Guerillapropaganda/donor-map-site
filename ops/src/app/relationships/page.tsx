@@ -10,7 +10,7 @@ interface Connection {
 }
 interface ConnectedProfile {
   title: string; path: string; type: string; connectionCount: number
-  related: string[]; donors: string[]; opposes: string[]
+  related: string[]; donors: string[]; opposes: string[]; stories: string[]
 }
 
 const REL_COLORS: Record<string, string> = { related: "#5b8dce", donors: "#22c55e", opposes: "#ef4444", stories: "#ec4899" }
@@ -44,7 +44,7 @@ export default function RelationshipsPage() {
   const [breakdown, setBreakdown] = useState({ related: 0, donors: 0, opposes: 0, total: 0 })
   const [loading, setLoading] = useState(true)
 
-  const [tab, setTab] = useState<"list" | "explorer" | "graph">("list")
+  const [tab, setTab] = useState<"list" | "explorer" | "graph" | "suggestions">("list")
   const [search, setSearch] = useState("")
   const [selected, setSelected] = useState<ConnectedProfile | null>(null)
   const [explorerPath, setExplorerPath] = useState<string[]>([])
@@ -58,6 +58,103 @@ export default function RelationshipsPage() {
   const [toast, setToast] = useState<string | null>(null)
   const [sidebarTypeFilter, setSidebarTypeFilter] = useState<string>("all")
 
+  // Suggestions state
+  interface TransparencyData { score: number; tier: string; tierColor: string; factors: { factor: string; impact: number; detail: string }[] }
+  interface PartisanData { flow: number; label: string; isCrossParty: boolean; sourceLabel: string; targetLabel: string }
+  interface DollarData { amount: number; display: string | null; tier: string }
+  interface Suggestion { id: string; source: string; sourcePath: string; target: string; targetPath: string; type: string; confidence: string; strategies: string[]; strategyCount: number; evidence: string; reasoning: string; autoCreate: boolean; discoveredAt: string; actionState?: string; actionAt?: string; actionReason?: string; transparency?: TransparencyData; partisan?: PartisanData; dollars?: DollarData }
+  interface NewProfile { name: string; mentions: number; contexts: string[]; mentionedBy: string[]; suggestedType: string; suggestedPath: string; hasDollarContext: boolean; hasLeakContext: boolean }
+  const [suggestions, setSuggestions] = useState<Suggestion[]>([])
+  const [newProfiles, setNewProfiles] = useState<NewProfile[]>([])
+  const [suggestionsStats, setSuggestionsStats] = useState<{ total: number; high: number; medium: number; low: number }>({ total: 0, high: 0, medium: 0, low: 0 })
+  const [suggestionsLoading, setSuggestionsLoading] = useState(false)
+  const [suggestionsScanning, setSuggestionsScanning] = useState(false)
+  const [suggestionsLastScan, setSuggestionsLastScan] = useState<string | null>(null)
+  const [suggestionsFilter, setSuggestionsFilter] = useState<string>("all") // confidence filter
+  const [suggestionsStratFilter, setSuggestionsStratFilter] = useState<string>("all") // strategy filter
+  const [suggestionsShowPending, setSuggestionsShowPending] = useState(true) // hide approved/rejected
+  const [suggestionsTypeFilter, setSuggestionsTypeFilter] = useState<string>("all") // connection type
+  const [suggestionsPartisan, setSuggestionsPartisan] = useState<string>("all") // partisan filter
+  const [suggestionsSort, setSuggestionsSort] = useState<string>("confidence") // sort order
+  const [suggestionsTotalFiltered, setSuggestionsTotalFiltered] = useState(0)
+  const [suggestionsHasMore, setSuggestionsHasMore] = useState(false)
+  const [suggestionsOffset, setSuggestionsOffset] = useState(0)
+  const [rejectModal, setRejectModal] = useState<{ id: string; source: string; target: string } | null>(null)
+  const [rejectReason, setRejectReason] = useState("")
+
+  const loadSuggestions = async (append = false, offsetOverride?: number) => {
+    setSuggestionsLoading(true)
+    try {
+      const o = offsetOverride ?? (append ? suggestionsOffset + 30 : 0)
+      const status = suggestionsShowPending ? "pending" : "all"
+      const params = new URLSearchParams({ confidence: suggestionsFilter, strategy: suggestionsStratFilter, status, type: suggestionsTypeFilter, partisan: suggestionsPartisan, sort: suggestionsSort, limit: "30", offset: String(o) })
+      const res = await fetch(`/api/suggestions?${params}`)
+      const data = await res.json()
+      if (append) {
+        setSuggestions(prev => [...prev, ...(data.discovered || [])])
+      } else {
+        setSuggestions(data.discovered || [])
+      }
+      setNewProfiles(data.newProfiles || [])
+      setSuggestionsStats(data.stats || { total: 0, high: 0, medium: 0, low: 0 })
+      setSuggestionsLastScan(data.scannedAt || null)
+      setSuggestionsTotalFiltered(data.totalFiltered || 0)
+      setSuggestionsHasMore(data.hasMore || false)
+      setSuggestionsOffset(o)
+    } catch { /* skip */ }
+    setSuggestionsLoading(false)
+  }
+
+  const runScan = async () => {
+    setSuggestionsScanning(true)
+    showToast("Running relationship discovery scan...")
+    try {
+      const res = await fetch("/api/suggestions/scan", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({}) })
+      const data = await res.json()
+      if (data.error) showToast(`Scan error: ${data.error}`)
+      else {
+        showToast(`Scan complete: ${data.stats?.total || 0} suggestions found`)
+        await loadSuggestions()
+      }
+    } catch { showToast("Scan failed") }
+    setSuggestionsScanning(false)
+  }
+
+  const actOnSuggestion = async (id: string, action: string, reason?: string) => {
+    setSaving(true)
+    try {
+      const res = await fetch("/api/suggestions", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id, action, ...(reason ? { reason } : {}) }),
+      })
+      const data = await res.json()
+      if (data.success) {
+        showToast(`${action === "approve" ? "Approved" : action === "reject" ? "Rejected" : "Deferred"}: ${id.split("::").slice(0, 2).join(" -> ")}`)
+        setSuggestions(prev => prev.map(s => s.id === id ? { ...s, actionState: action, actionAt: new Date().toISOString(), actionReason: reason } : s))
+      } else showToast(`Error: ${data.error}`)
+    } catch { showToast("Action failed") }
+    setSaving(false)
+  }
+
+  const batchApproveHigh = async () => {
+    const highPending = suggestions.filter(s => s.confidence === "high" && s.autoCreate && (!s.actionState || s.actionState === "pending"))
+    if (highPending.length === 0) { showToast("No high-confidence auto-create suggestions pending"); return }
+    setSaving(true)
+    let approved = 0
+    for (const s of highPending) {
+      try {
+        await actOnSuggestion(s.id, "approve")
+        approved++
+      } catch { /* continue */ }
+    }
+    showToast(`Batch approved ${approved} high-confidence connections`)
+    setSaving(false)
+  }
+
+  // Load suggestions when switching to tab or changing filters/sort
+  useEffect(() => { if (tab === "suggestions") loadSuggestions() }, [tab, suggestionsFilter, suggestionsStratFilter, suggestionsShowPending, suggestionsTypeFilter, suggestionsPartisan, suggestionsSort])
+
   // Node positions for draggable graph
   const [nodePositions, setNodePositions] = useState<Record<string, { x: number; y: number }>>({})
   const [draggingNode, setDraggingNode] = useState<string | null>(null)
@@ -66,9 +163,17 @@ export default function RelationshipsPage() {
   // Context menu for changing connection types
   const [contextMenu, setContextMenu] = useState<{ x: number; y: number; name: string; type: "related" | "donors" | "opposes" | "stories" } | null>(null)
 
-  // Close context menu on click anywhere
+  // Relationship notes state
+  const [notesCollapsed, setNotesCollapsed] = useState(false)
+  const [relationNotes, setRelationNotes] = useState<Record<string, { note: string; updatedAt: string }>>({})
+  const [notePopover, setNotePopover] = useState<{ name: string; x: number; y: number } | null>(null)
+  const [noteText, setNoteText] = useState("")
+  const [noteSaving, setNoteSaving] = useState(false)
+  const noteInputRef = useRef<HTMLTextAreaElement>(null)
+
+  // Close context menu and note popover on click anywhere
   useEffect(() => {
-    const handler = () => setContextMenu(null)
+    const handler = () => { setContextMenu(null); setNotePopover(null) }
     window.addEventListener("click", handler)
     return () => window.removeEventListener("click", handler)
   }, [])
@@ -169,7 +274,7 @@ export default function RelationshipsPage() {
   const selectProfile = (p: ConnectedProfile | Profile) => {
     const cp = "connectionCount" in p ? p : topConnected.find((t) => t.title === p.title) || {
       title: p.title, path: p.path, type: p.type,
-      connectionCount: 0, related: [], donors: [], opposes: [],
+      connectionCount: 0, related: [], donors: [], opposes: [], stories: [],
     }
     setSelected(cp)
     setSearch(cp.title)
@@ -177,6 +282,12 @@ export default function RelationshipsPage() {
     setExplorerPath([cp.title])
     setGraphZoom(1)
     setNodePositions({})
+    setNotePopover(null)
+    // Fetch relationship notes for this profile
+    fetch(`/api/relationship-notes?source=${encodeURIComponent(cp.title)}`)
+      .then((r) => r.json())
+      .then((data) => setRelationNotes(data))
+      .catch(() => setRelationNotes({}))
   }
 
   const clearSelection = () => {
@@ -264,6 +375,34 @@ export default function RelationshipsPage() {
     finally { setSaving(false) }
   }
 
+  // Save relationship note
+  const saveRelationNote = async (targetName: string, note: string) => {
+    if (!selected) return
+    setNoteSaving(true)
+    try {
+      await fetch("/api/relationship-notes", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ source: selected.title, target: targetName, note }),
+      })
+      const key = `${selected.title}::${targetName}`
+      if (note.trim()) {
+        setRelationNotes((prev) => ({ ...prev, [key]: { note: note.trim(), updatedAt: new Date().toISOString() } }))
+      } else {
+        setRelationNotes((prev) => { const next = { ...prev }; delete next[key]; return next })
+      }
+      showToast(note.trim() ? `Note saved for ${targetName}` : `Note removed for ${targetName}`)
+    } catch { showToast("Failed to save note") }
+    finally { setNoteSaving(false) }
+  }
+
+  const openNotePopover = (name: string, x: number, y: number) => {
+    const key = `${selected?.title}::${name}`
+    setNoteText(relationNotes[key]?.note || "")
+    setNotePopover({ name, x, y })
+    setTimeout(() => noteInputRef.current?.focus(), 50)
+  }
+
   const expandNode = (title: string) => setExplorerPath((prev) => [...prev, title])
 
   const explorerCurrent = explorerPath[explorerPath.length - 1]
@@ -285,8 +424,9 @@ export default function RelationshipsPage() {
     { key: "story", label: "Stories", color: "#ec4899" },
   ]
 
-  // Add Connection form (reusable)
-  const AddConnectionForm = () => (
+  // Add Connection form — inlined as JSX variable (NOT a component function)
+  // Defining as () => JSX inside render causes React to remount on every state change, losing input focus
+  const addConnectionFormJSX = (
     <div className="mt-4 p-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg">
       <h4 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Add Connection</h4>
 
@@ -366,6 +506,77 @@ export default function RelationshipsPage() {
         </div>
       )}
 
+      {/* Rejection reason modal */}
+      {rejectModal && (
+        <div className="fixed inset-0 z-[200] flex items-center justify-center bg-black/50" onClick={() => setRejectModal(null)}>
+          <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-5 w-96 shadow-2xl" onClick={e => e.stopPropagation()}>
+            <h3 className="text-sm font-bold text-[var(--color-text)] mb-1">Reject Connection</h3>
+            <p className="text-[10px] text-[var(--color-text-dim)] mb-4">{rejectModal.source} → {rejectModal.target}</p>
+            <p className="text-[9px] text-[var(--color-text-dim)] mb-2">Why reject? (required)</p>
+            <div className="space-y-1.5 mb-3">
+              {["Already implicit - no value adding", "Incorrect - profiles not actually related", "Duplicate - exists under different name", "Too speculative - needs more evidence"].map(reason => (
+                <button key={reason} onClick={() => setRejectReason(reason)}
+                  className={`w-full text-left text-[10px] px-3 py-2 rounded border transition-all ${rejectReason === reason ? "border-[var(--color-red)] bg-[var(--color-red)]/10 text-[var(--color-red)]" : "border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"}`}>
+                  {reason}
+                </button>
+              ))}
+            </div>
+            <input type="text" placeholder="Or type a custom reason..."
+              value={!["Already implicit - no value adding", "Incorrect - profiles not actually related", "Duplicate - exists under different name", "Too speculative - needs more evidence"].includes(rejectReason) ? rejectReason : ""}
+              onChange={e => setRejectReason(e.target.value)}
+              className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-2 text-[10px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)] mb-3" />
+            <div className="flex justify-end gap-2">
+              <button onClick={() => { setRejectModal(null); setRejectReason("") }}
+                className="text-[10px] px-3 py-1.5 rounded text-[var(--color-text-dim)] border border-[var(--color-border)] hover:bg-[var(--color-bg-hover)]">Cancel</button>
+              <button onClick={() => { if (rejectReason) { actOnSuggestion(rejectModal.id, "reject", rejectReason); setRejectModal(null); setRejectReason("") } }}
+                disabled={!rejectReason}
+                className="text-[10px] px-3 py-1.5 rounded bg-[var(--color-red)] text-white hover:bg-[var(--color-red)]/80 disabled:opacity-50">Reject</button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Note popover */}
+      {notePopover && (
+        <div className="fixed z-[100] bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg shadow-2xl p-3 w-72"
+          style={{ left: Math.min(notePopover.x, typeof window !== "undefined" ? window.innerWidth - 300 : notePopover.x), top: notePopover.y }}
+          onClick={(e) => e.stopPropagation()}>
+          <div className="flex items-center justify-between mb-2">
+            <div>
+              <p className="text-[9px] text-[var(--color-text-dim)] uppercase tracking-wider">Relationship Note</p>
+              <p className="text-[10px] text-[var(--color-text)] font-bold truncate max-w-[200px]">{notePopover.name}</p>
+            </div>
+            <button onClick={() => setNotePopover(null)}
+              className="w-5 h-5 rounded-full bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)] text-[10px] flex items-center justify-center hover:text-[var(--color-text)]">×</button>
+          </div>
+          <textarea
+            ref={noteInputRef}
+            value={noteText}
+            onChange={(e) => setNoteText(e.target.value)}
+            placeholder="e.g. Develop this connection deeper — shared donor pattern with Koch Network, check FEC filings..."
+            className="w-full h-20 bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-2 py-1.5 text-[10px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)]/50 focus:outline-none focus:border-[var(--color-steel)] resize-none"
+          />
+          <div className="flex items-center justify-between mt-2">
+            <span className="text-[7px] text-[var(--color-text-dim)]">
+              {relationNotes[`${selected?.title}::${notePopover.name}`]?.updatedAt
+                ? `Last: ${new Date(relationNotes[`${selected?.title}::${notePopover.name}`].updatedAt).toLocaleDateString()}`
+                : "No note yet"}
+            </span>
+            <div className="flex gap-1">
+              {noteText.trim() && relationNotes[`${selected?.title}::${notePopover.name}`]?.note && (
+                <button onClick={() => { setNoteText(""); saveRelationNote(notePopover.name, ""); setNotePopover(null) }}
+                  className="text-[8px] px-2 py-1 rounded text-[var(--color-red)] hover:bg-[var(--color-red)]/10">Delete</button>
+              )}
+              <button onClick={() => { saveRelationNote(notePopover.name, noteText); setNotePopover(null) }}
+                disabled={noteSaving}
+                className="text-[8px] px-3 py-1 rounded bg-[var(--color-steel)] text-white hover:bg-[var(--color-steel)]/80 disabled:opacity-50">
+                {noteSaving ? "..." : "Save"}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Toast */}
       {toast && (
         <div className="fixed top-4 right-4 z-50 bg-[var(--color-bg-card)] border border-[var(--color-green)]/30 rounded-lg px-4 py-3 text-xs text-[var(--color-green)] shadow-lg flex items-center gap-2">
@@ -376,7 +587,7 @@ export default function RelationshipsPage() {
       <div className="flex items-center justify-between mb-4">
         <div>
           <h1 className="text-lg font-bold text-[var(--color-text)]">Relationship Mapper</h1>
-          <p className="text-[10px] text-[var(--color-text-dim)]">{breakdown.total} connections across the vault</p>
+          <p className="text-[10px] text-[var(--color-text-dim)]">{loading ? "Loading..." : `${breakdown.total} connections across the vault`}</p>
         </div>
         <button
           onClick={async () => {
@@ -403,22 +614,24 @@ export default function RelationshipsPage() {
         </button>
       </div>
 
-      {/* Stats bar */}
-      <div className="flex gap-3 mb-4 flex-wrap">
-        <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[#5b8dce]/10 text-[#5b8dce]">
-          <span className="w-2 h-2 rounded-full bg-current" /> {breakdown.related} Related
+      {/* Stats bar — only render after data loads to avoid flashing 0s */}
+      {!loading && (
+        <div className="flex gap-3 mb-4 flex-wrap animate-in fade-in">
+          <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[#5b8dce]/10 text-[#5b8dce]">
+            <span className="w-2 h-2 rounded-full bg-current" /> {breakdown.related} Related
+          </div>
+          <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[#22c55e]/10 text-[#22c55e]">
+            <span className="w-2 h-2 rounded-full bg-current" /> {breakdown.donors} Donor
+          </div>
+          <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[#ef4444]/10 text-[#ef4444]">
+            <span className="w-2 h-2 rounded-full bg-current" /> {breakdown.opposes} Opposes
+          </div>
+          <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[#ec4899]/10 text-[#ec4899]">
+            <span className="w-2 h-2 rounded-full bg-current" /> {breakdown.stories || 0} Stories
+          </div>
+          <div className="ml-auto text-[10px] text-[var(--color-text-dim)]">{filteredUnconnectedCount} profiles with no connections</div>
         </div>
-        <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[#22c55e]/10 text-[#22c55e]">
-          <span className="w-2 h-2 rounded-full bg-current" /> {breakdown.donors} Donor
-        </div>
-        <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[#ef4444]/10 text-[#ef4444]">
-          <span className="w-2 h-2 rounded-full bg-current" /> {breakdown.opposes} Opposes
-        </div>
-        <div className="flex items-center gap-1.5 text-[10px] px-2.5 py-1.5 rounded bg-[#ec4899]/10 text-[#ec4899]">
-          <span className="w-2 h-2 rounded-full bg-current" /> {breakdown.stories || 0} Stories
-        </div>
-        <div className="ml-auto text-[10px] text-[var(--color-text-dim)]">{filteredUnconnectedCount} profiles with no connections</div>
-      </div>
+      )}
 
       <div className="grid grid-cols-1 xl:grid-cols-4 gap-4">
         {/* Main area — 3 cols */}
@@ -451,15 +664,246 @@ export default function RelationshipsPage() {
 
           {/* Tabs */}
           <div className="flex gap-1 mb-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-1 w-fit">
-            {(["list", "explorer", "graph"] as const).map((t) => (
+            {(["list", "explorer", "graph", "suggestions"] as const).map((t) => (
               <button key={t} onClick={() => setTab(t)}
                 className={`px-4 py-2 rounded text-xs transition-all ${tab === t ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)]" : "text-[var(--color-text-dim)] hover:text-[var(--color-text)]"}`}>
-                {t === "list" ? "List View" : t === "explorer" ? "Explorer" : "Graph"}
+                {t === "list" ? "List View" : t === "explorer" ? "Explorer" : t === "graph" ? "Graph" : <>Suggestions {suggestionsStats.total > 0 && <span className="ml-1 px-1.5 py-0.5 text-[8px] rounded-full bg-[#f59e0b]/20 text-[#f59e0b]">{suggestionsStats.total}</span>}</>}
               </button>
             ))}
           </div>
 
-          {loading ? (
+          {tab === "suggestions" ? (
+            /* ===== SUGGESTIONS TAB ===== */
+            <div>
+              <div className="flex items-center justify-between mb-4">
+                <div>
+                  <h3 className="text-sm font-bold text-[var(--color-text)]">Relationship Suggestions</h3>
+                  <p className="text-[10px] text-[var(--color-text-dim)]">
+                    {suggestionsLastScan ? `Last scan: ${new Date(suggestionsLastScan).toLocaleString()}` : "No scan run yet"}
+                    {suggestionsStats.total > 0 && ` \u00b7 ${suggestionsStats.total} suggestions`}
+                  </p>
+                </div>
+                <div className="flex gap-2">
+                  <button onClick={batchApproveHigh} disabled={saving} className="flex items-center gap-1.5 text-[10px] px-3 py-2 rounded-lg border border-[var(--color-green)]/30 text-[var(--color-green)] hover:bg-[var(--color-green)]/10 disabled:opacity-50">
+                    Batch Approve High <span className="px-1.5 py-0.5 rounded bg-[var(--color-green)]/15 text-[8px]">{suggestions.filter(s => s.confidence === "high" && s.autoCreate && (!s.actionState || s.actionState === "pending")).length}</span>
+                  </button>
+                  <button onClick={runScan} disabled={suggestionsScanning} className="flex items-center gap-1.5 text-[10px] px-3 py-2 rounded-lg bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30 hover:bg-[var(--color-steel)]/25 disabled:opacity-50">
+                    <svg className={`w-3 h-3 ${suggestionsScanning ? "animate-spin" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
+                    {suggestionsScanning ? "Scanning..." : "Run Scan"}
+                  </button>
+                </div>
+              </div>
+              {suggestionsStats.total > 0 && (
+                <div className="flex gap-3 mb-3 flex-wrap">
+                  {([["all","All","#5b8dce"],["high","High","#ef4444"],["medium","Medium","#f59e0b"],["low","Low","#7a7a86"]] as [string,string,string][]).map(([key,label,color]) => (
+                    <button key={key} onClick={() => setSuggestionsFilter(key)} className={`flex items-center gap-1.5 text-[10px] px-3 py-1.5 rounded-lg transition-all ${suggestionsFilter === key ? "font-bold" : "text-[var(--color-text-dim)]"}`} style={suggestionsFilter === key ? { color, backgroundColor: `${color}15` } : {}}>
+                      {key !== "all" && <span className="w-2 h-2 rounded-full" style={{ backgroundColor: color }} />} {label} <span className="font-bold">{key === "all" ? suggestionsStats.total : suggestionsStats[key as "high"|"medium"|"low"]}</span>
+                    </button>
+                  ))}
+                  <label className="flex items-center gap-1 text-[9px] text-[var(--color-text-dim)] ml-auto cursor-pointer"><input type="checkbox" checked={suggestionsShowPending} onChange={() => setSuggestionsShowPending(p => !p)} className="rounded" /> Pending only</label>
+                </div>
+              )}
+              {suggestionsStats.total > 0 && (
+                <div className="flex flex-wrap gap-1 mb-4">
+                  {[{key:"all",label:"All",color:"#7a7a86"},{key:"fec-ie",label:"Opposition/Support",color:"#ef4444"},{key:"shared-donors",label:"Shared Donors",color:"#f59e0b"},{key:"organizational",label:"Organizational",color:"#5b8dce"},{key:"story-attribution",label:"Stories",color:"#ec4899"},{key:"money-trail",label:"Money Trail",color:"#22c55e"},{key:"wikilink-mention",label:"Mentions",color:"#a855f7"},{key:"leak-data",label:"Leak Data",color:"#e5e5e5"}].map(s => (
+                    <button key={s.key} onClick={() => setSuggestionsStratFilter(s.key)} className={`text-[8px] px-2 py-1 rounded transition-all ${suggestionsStratFilter === s.key ? "font-bold" : "text-[var(--color-text-dim)]"}`} style={suggestionsStratFilter === s.key ? { color: s.color, backgroundColor: `${s.color}15` } : {}}>
+                      {s.label}{s.key !== "all" && <span className="ml-1 opacity-60">({suggestions.filter(sg => sg.strategies.includes(s.key)).length})</span>}
+                    </button>
+                  ))}
+                </div>
+              )}
+
+              {/* Row 3: Connection type + Partisan + Sort */}
+              {suggestionsStats.total > 0 && (
+                <div className="flex flex-wrap gap-3 mb-4 items-center">
+                  {/* Connection type */}
+                  <div className="flex items-center gap-1">
+                    <span className="text-[7px] text-[var(--color-text-dim)] uppercase">Type:</span>
+                    {[{key:"all",label:"All"},{key:"related",label:"Related",color:"#5b8dce"},{key:"donors",label:"Funded By",color:"#22c55e"},{key:"opposes",label:"Opposes",color:"#ef4444"},{key:"stories",label:"Stories",color:"#ec4899"}].map(t => (
+                      <button key={t.key} onClick={() => setSuggestionsTypeFilter(t.key)}
+                        className={`text-[8px] px-2 py-1 rounded transition-all ${suggestionsTypeFilter === t.key ? "font-bold" : "text-[var(--color-text-dim)]"}`}
+                        style={suggestionsTypeFilter === t.key && t.color ? { color: t.color, backgroundColor: `${t.color}15` } : suggestionsTypeFilter === t.key ? { color: "#5b8dce" } : {}}>
+                        {t.label}
+                      </button>
+                    ))}
+                  </div>
+
+                  {/* Partisan */}
+                  <div className="flex items-center gap-1">
+                    <span className="text-[7px] text-[var(--color-text-dim)] uppercase">Partisan:</span>
+                    {[{key:"all",label:"All"},{key:"dem",label:"Dem",color:"#2563eb"},{key:"gop",label:"GOP",color:"#dc2626"},{key:"cross",label:"Cross-Party",color:"#f59e0b"},{key:"neutral",label:"Neutral",color:"#7a7a86"}].map(p => (
+                      <button key={p.key} onClick={() => setSuggestionsPartisan(p.key)}
+                        className={`text-[8px] px-2 py-1 rounded transition-all ${suggestionsPartisan === p.key ? "font-bold" : "text-[var(--color-text-dim)]"}`}
+                        style={suggestionsPartisan === p.key && p.color ? { color: p.color, backgroundColor: `${p.color}15` } : suggestionsPartisan === p.key ? { color: "#5b8dce" } : {}}>
+                        {p.label}
+                      </button>
+                    ))}
+                  </div>
+
+                  {/* Sort */}
+                  <div className="flex items-center gap-1 ml-auto">
+                    <span className="text-[7px] text-[var(--color-text-dim)] uppercase">Sort:</span>
+                    <select value={suggestionsSort} onChange={e => setSuggestionsSort(e.target.value)}
+                      className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-2 py-1 text-[8px] text-[var(--color-text)] focus:outline-none focus:border-[var(--color-steel)]">
+                      <option value="confidence">Confidence (default)</option>
+                      <option value="transparency-asc">Least Transparent</option>
+                      <option value="transparency-desc">Most Transparent</option>
+                      <option value="dollars-desc">Highest Dollar</option>
+                      <option value="dollars-asc">Lowest Dollar</option>
+                      <option value="partisan-dem">Most Dem-Aligned</option>
+                      <option value="partisan-gop">Most GOP-Aligned</option>
+                    </select>
+                  </div>
+                </div>
+              )}
+
+              {suggestionsLoading ? (
+                <div className="py-16 text-center text-xs text-[var(--color-text-dim)] animate-pulse">Loading suggestions...</div>
+              ) : suggestions.length === 0 ? (
+                <div className="py-16 text-center">
+                  <p className="text-xs text-[var(--color-text-dim)] mb-3">No suggestions yet. Run a scan to discover connections.</p>
+                  <button onClick={runScan} disabled={suggestionsScanning} className="text-[10px] px-4 py-2 rounded-lg bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30">{suggestionsScanning ? "Scanning..." : "Run Discovery Scan"}</button>
+                </div>
+              ) : (
+                <div>
+                  <p className="text-[9px] text-[var(--color-text-dim)] mb-2">Showing {suggestions.length} of {suggestionsTotalFiltered} filtered suggestions</p>
+                  <div className="space-y-3 max-h-[70vh] overflow-y-auto pr-1">
+                  {suggestions.map(s => {
+                    const cc = s.confidence === "high" ? "#ef4444" : s.confidence === "medium" ? "#f59e0b" : "#7a7a86"
+                    const tc = s.type === "opposes" ? "#ef4444" : s.type === "donors" ? "#22c55e" : s.type === "stories" ? "#ec4899" : "#5b8dce"
+                    const tl = s.type === "opposes" ? "opposes" : s.type === "donors" ? "funded by" : s.type === "stories" ? "story link" : "related"
+                    const acted = s.actionState && s.actionState !== "pending"
+                    return (
+                      <div key={s.id} className={`bg-[var(--color-bg-card)] border rounded-lg overflow-hidden ${acted ? "opacity-40" : ""}`} style={{ borderLeftWidth: 3, borderLeftColor: cc, borderColor: "var(--color-border)" }}>
+                        <div className="flex items-center justify-between px-4 py-2 border-b border-[var(--color-border)]">
+                          <div className="flex items-center gap-2">
+                            <span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: cc }} />
+                            <span className="text-[9px] font-bold uppercase" style={{ color: cc }}>{s.confidence}</span>
+                            {s.strategies.map((st: string) => <span key={st} className="text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)]">{st}</span>)}
+                          </div>
+                          <span className="text-[8px] text-[var(--color-text-dim)]">{new Date(s.discoveredAt).toLocaleDateString()}</span>
+                        </div>
+                        <div className="px-4 py-3">
+                          <div className="flex items-center gap-2 mb-3">
+                            <span className="text-[11px] font-bold text-[var(--color-text)]">{s.source}</span>
+                            <span className="flex items-center gap-1">
+                              <span className="w-6 h-0 border-t-2" style={{ borderColor: tc, borderStyle: s.type === "opposes" ? "dashed" : s.type === "stories" ? "dotted" : "solid" }} />
+                              <span className="text-[8px] px-1.5 py-0.5 rounded" style={{ color: tc, backgroundColor: `${tc}15` }}>{tl}</span>
+                              <span className="w-4 h-0 border-t-2" style={{ borderColor: tc }} />
+                              <span style={{ color: tc }}>&#9654;</span>
+                            </span>
+                            <span className="text-[11px] font-bold text-[var(--color-text)]">{s.target}</span>
+                          </div>
+                          {/* Transparency + Partisan + Dollar meters */}
+                          {s.transparency && s.partisan && (
+                            <div className="flex gap-3 mb-3 flex-wrap">
+                              <div className="flex-1 min-w-[200px] bg-[var(--color-bg)] border border-[var(--color-border)] rounded p-2.5">
+                                <div className="flex items-center justify-between mb-1.5">
+                                  <span className="text-[7px] uppercase tracking-wider text-[var(--color-text-dim)]">Transparency</span>
+                                  <span className="text-[9px] font-bold" style={{ color: s.transparency.tierColor }}>{s.transparency.tier} {s.transparency.score}/100</span>
+                                </div>
+                                <div className="relative h-2.5 rounded-full bg-[var(--color-border)] overflow-hidden">
+                                  <div className="absolute inset-y-0 left-0 rounded-full" style={{ width: `${s.transparency.score}%`, background: "linear-gradient(90deg, #ef4444 0%, #f59e0b 40%, #5b8dce 70%, #22c55e 100%)" }} />
+                                  <div className="absolute inset-y-0 rounded-full w-1.5 bg-white shadow" style={{ left: `${Math.max(2, Math.min(98, s.transparency.score))}%`, transform: "translateX(-50%)" }} />
+                                </div>
+                                <div className="flex justify-between mt-1">
+                                  <span className="text-[6px] text-[#ef4444]">OBSCURED</span>
+                                  <span className="text-[6px] text-[#f59e0b]">OPAQUE</span>
+                                  <span className="text-[6px] text-[#5b8dce]">DISCLOSED</span>
+                                  <span className="text-[6px] text-[#22c55e]">TRANSPARENT</span>
+                                </div>
+                                {s.transparency.factors.length > 0 && (
+                                  <div className="mt-1.5 space-y-0.5">
+                                    {s.transparency.factors.slice(0, 3).map((f: TransparencyData["factors"][0], i: number) => (
+                                      <div key={i} className="flex items-center gap-1 text-[7px]">
+                                        <span className={f.impact < 0 ? "text-[#ef4444]" : "text-[#22c55e]"}>{f.impact > 0 ? "+" : ""}{f.impact}</span>
+                                        <span className="text-[var(--color-text-dim)]">{f.factor}</span>
+                                      </div>
+                                    ))}
+                                  </div>
+                                )}
+                              </div>
+                              <div className="w-[160px] bg-[var(--color-bg)] border border-[var(--color-border)] rounded p-2.5">
+                                <div className="flex items-center justify-between mb-1.5">
+                                  <span className="text-[7px] uppercase tracking-wider text-[var(--color-text-dim)]">Partisan Flow</span>
+                                  <span className="text-[8px] font-bold" style={{ color: s.partisan.isCrossParty ? "#f59e0b" : s.partisan.flow < -25 ? "#5b8dce" : s.partisan.flow > 25 ? "#ef4444" : "#7a7a86" }}>{s.partisan.label}</span>
+                                </div>
+                                <div className="relative h-2.5 rounded-full overflow-hidden" style={{ background: "linear-gradient(90deg, #2563eb 0%, #7a7a86 50%, #dc2626 100%)" }}>
+                                  <div className="absolute inset-y-0 w-2 bg-white rounded-full shadow" style={{ left: `${50 + s.partisan.flow / 2}%`, transform: "translateX(-50%)" }} />
+                                </div>
+                                <div className="flex justify-between mt-1">
+                                  <span className="text-[6px] text-[#2563eb]">DEM</span>
+                                  <span className="text-[6px] text-[#7a7a86]">Neutral</span>
+                                  <span className="text-[6px] text-[#dc2626]">GOP</span>
+                                </div>
+                                <div className="flex justify-between mt-0.5 text-[7px] text-[var(--color-text-dim)]">
+                                  <span>{s.partisan.sourceLabel}</span>
+                                  <span>{s.partisan.targetLabel}</span>
+                                </div>
+                              </div>
+                              {s.dollars?.display && (
+                                <div className="w-[100px] bg-[var(--color-bg)] border border-[var(--color-border)] rounded p-2.5 flex flex-col items-center justify-center">
+                                  <span className="text-[7px] uppercase tracking-wider text-[var(--color-text-dim)] mb-1">Amount</span>
+                                  <span className="text-[14px] font-bold text-[var(--color-green)]">{s.dollars.display}</span>
+                                  <span className="text-[7px] mt-0.5" style={{ color: s.dollars.tier === "massive" ? "#ef4444" : s.dollars.tier === "major" ? "#f59e0b" : s.dollars.tier === "significant" ? "#5b8dce" : "#7a7a86" }}>{s.dollars.tier}</span>
+                                </div>
+                              )}
+                            </div>
+                          )}
+                          <div className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded p-3 mb-3">
+                            <p className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)] mb-1.5">Why this connection?</p>
+                            <p className="text-[10px] text-[var(--color-text)] leading-relaxed whitespace-pre-wrap">{s.reasoning}</p>
+                          </div>
+                          {acted ? (
+                            <div className="flex items-center gap-2 text-[9px]">
+                              <span className={`px-2 py-1 rounded ${s.actionState === "approved" ? "bg-[var(--color-green)]/15 text-[var(--color-green)]" : s.actionState === "rejected" ? "bg-[var(--color-red)]/15 text-[var(--color-red)]" : "bg-[#f59e0b]/15 text-[#f59e0b]"}`}>{s.actionState === "approved" ? "Approved" : s.actionState === "rejected" ? "Rejected" : "Deferred"}</span>
+                              {s.actionReason && <span className="text-[var(--color-text-dim)]">{s.actionReason}</span>}
+                            </div>
+                          ) : (
+                            <div className="flex items-center gap-2">
+                              <button onClick={() => actOnSuggestion(s.id, "approve")} disabled={saving} className="flex items-center gap-1 text-[9px] px-3 py-1.5 rounded bg-[var(--color-green)]/15 text-[var(--color-green)] border border-[var(--color-green)]/30 hover:bg-[var(--color-green)]/25 disabled:opacity-50">&#10003; Approve</button>
+                              <button onClick={() => setRejectModal({ id: s.id, source: s.source, target: s.target })} disabled={saving} className="flex items-center gap-1 text-[9px] px-3 py-1.5 rounded bg-[var(--color-red)]/15 text-[var(--color-red)] border border-[var(--color-red)]/30 hover:bg-[var(--color-red)]/25 disabled:opacity-50">&#10005; Reject</button>
+                              <button onClick={() => actOnSuggestion(s.id, "defer")} disabled={saving} className="flex items-center gap-1 text-[9px] px-3 py-1.5 rounded text-[var(--color-text-dim)] border border-[var(--color-border)] hover:bg-[var(--color-bg-hover)] disabled:opacity-50">&#9201; Later</button>
+                              {s.autoCreate && <span className="ml-auto text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-green)]/10 text-[var(--color-green)]">auto-create eligible</span>}
+                            </div>
+                          )}
+                        </div>
+                      </div>
+                    )
+                  })}
+                  </div>
+                  {suggestionsHasMore && (
+                    <button onClick={() => loadSuggestions(true)}
+                      className="w-full mt-3 py-2.5 text-[10px] text-[var(--color-steel)] bg-[var(--color-steel)]/10 border border-[var(--color-steel)]/20 rounded-lg hover:bg-[var(--color-steel)]/20 transition-colors">
+                      Load more ({suggestionsTotalFiltered - suggestions.length} remaining)
+                    </button>
+                  )}
+                </div>
+              )}
+              {newProfiles.length > 0 && (
+                <div className="mt-6 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
+                  <h4 className="text-[10px] uppercase tracking-wider text-[#f59e0b] mb-3">New Profiles Needed <span className="px-1.5 py-0.5 rounded bg-[#f59e0b]/15 text-[8px]">{newProfiles.length}</span></h4>
+                  <p className="text-[9px] text-[var(--color-text-dim)] mb-3">Names appearing frequently but without profiles.</p>
+                  <div className="space-y-2 max-h-48 overflow-y-auto">
+                    {newProfiles.slice(0, 20).map(e => (
+                      <div key={e.name} className="flex items-start gap-3 p-2 rounded bg-[var(--color-bg)] border border-[var(--color-border)]">
+                        <div className="flex-1">
+                          <div className="flex items-center gap-2">
+                            <span className="text-[10px] font-bold text-[var(--color-text)]">{e.name}</span>
+                            <span className="text-[7px] px-1.5 py-0.5 rounded" style={{ color: e.suggestedType === "politician" ? "#5b8dce" : "#22c55e", backgroundColor: (e.suggestedType === "politician" ? "#5b8dce" : "#22c55e") + "15" }}>{e.suggestedType}</span>
+                            <span className="text-[8px] text-[var(--color-text-dim)]">{e.mentions} mentions</span>
+                            {e.hasDollarContext && <span className="text-[7px] px-1 rounded bg-[var(--color-green)]/10 text-[var(--color-green)]">$</span>}
+                          </div>
+                          <p className="text-[8px] text-[var(--color-text-dim)] mt-1">{e.contexts.slice(0, 2).join(" | ")}</p>
+                          <p className="text-[7px] text-[var(--color-text-dim)] mt-0.5">Mentioned by: {e.mentionedBy.slice(0, 4).join(", ")}</p>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          ) : loading ? (
             <div className="py-16 text-center text-xs text-[var(--color-text-dim)] animate-pulse">Loading connections...</div>
           ) : !selected ? (
             <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] border-dashed rounded-lg p-12 text-center">
@@ -524,7 +968,7 @@ export default function RelationshipsPage() {
                   </div>
                 )
               })}
-              <AddConnectionForm />
+              {addConnectionFormJSX}
             </div>
           ) : tab === "explorer" ? (
             /* ===== EXPLORER ===== */
@@ -586,7 +1030,7 @@ export default function RelationshipsPage() {
               {explorerConnections.length === 0 && (
                 <div className="text-xs text-[var(--color-text-dim)] text-center py-8">No connections from this node</div>
               )}
-              <AddConnectionForm />
+              {addConnectionFormJSX}
             </div>
           ) : (
             /* ===== GRAPH VIEW — zoomable ===== */
@@ -637,6 +1081,9 @@ export default function RelationshipsPage() {
                     const x = pos ? pos.x : defaultX
                     const y = pos ? pos.y : defaultY
 
+                    const noteKey = `${selected.title}::${node.name}`
+                    const hasNote = !!relationNotes[noteKey]?.note
+
                     return (
                       <div key={node.name + idx}>
                         <svg className="absolute inset-0 w-full h-full pointer-events-none" style={{ zIndex: 1 }}>
@@ -650,7 +1097,7 @@ export default function RelationshipsPage() {
                           className={`absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 z-10 group/node ${draggingNode === node.name ? "cursor-grabbing" : "cursor-grab"}`}
                           style={{ left: `${x}%`, top: `${y}%` }}
                           onMouseDown={(e) => {
-                            // Skip if clicking edit/remove buttons
+                            // Skip if clicking edit/remove/note buttons
                             if ((e.target as HTMLElement).tagName === "BUTTON" || (e.target as HTMLElement).closest(".node-action-btn")) return
                             e.stopPropagation()
                             e.preventDefault()
@@ -673,9 +1120,15 @@ export default function RelationshipsPage() {
                           <div
                             className="w-full h-full rounded-full flex items-center justify-center text-center select-none"
                             style={{ backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
-                            title={node.name}>
+                            title={hasNote ? `${node.name}\n--- Note ---\n${relationNotes[noteKey].note}` : node.name}>
                             <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3 pointer-events-none">{node.name}</span>
                           </div>
+                          {/* Note indicator — always visible when note exists */}
+                          {hasNote && (
+                            <div className="absolute -bottom-1 left-1/2 -translate-x-1/2 w-3 h-3 rounded-full bg-[#f59e0b] flex items-center justify-center pointer-events-none" style={{ zIndex: 15 }}>
+                              <span className="text-[6px] text-black font-bold">!</span>
+                            </div>
+                          )}
                           {/* Edit button */}
                           <button
                             onClick={(e) => { e.stopPropagation(); setContextMenu({ x: e.clientX, y: e.clientY, name: node.name, type: node.type }) }}
@@ -684,6 +1137,15 @@ export default function RelationshipsPage() {
                             title="Change type">
                             <svg width={8} height={8} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={3}>
                               <path strokeLinecap="round" strokeLinejoin="round" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
+                            </svg>
+                          </button>
+                          {/* Note button */}
+                          <button
+                            onClick={(e) => { e.stopPropagation(); openNotePopover(node.name, e.clientX, e.clientY) }}
+                            className={`node-action-btn absolute -bottom-1 -left-1 w-5 h-5 rounded-full text-white text-[8px] flex items-center justify-center transition-opacity hover:scale-110 ${hasNote ? "opacity-100 bg-[#f59e0b]" : "opacity-0 group-hover/node:opacity-100 bg-[#f59e0b]/70"}`}
+                            title={hasNote ? "Edit note" : "Add note"}>
+                            <svg width={8} height={8} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={3}>
+                              <path strokeLinecap="round" strokeLinejoin="round" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
                             </svg>
                           </button>
                           {/* Remove button */}
@@ -705,10 +1167,43 @@ export default function RelationshipsPage() {
                 <span className="flex items-center gap-1 text-[8px] text-[#ec4899]"><span className="w-6 h-0 border-t border-dotted border-[#ec4899]" /> Stories</span>
                 <span className="text-[7px] text-[var(--color-text-dim)] ml-2">Scroll to zoom · Click+drag to pan</span>
               </div>
-              <AddConnectionForm />
+
+              {/* Relationship notes summary — collapsible */}
+              {Object.keys(relationNotes).length > 0 && (
+                <div className="mt-3 p-3 bg-[#f59e0b]/5 border border-[#f59e0b]/20 rounded-lg">
+                  <button onClick={() => setNotesCollapsed((c) => !c)}
+                    className="w-full text-left text-[9px] uppercase tracking-wider text-[#f59e0b] flex items-center gap-1">
+                    <svg width={10} height={10} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2.5}>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
+                    </svg>
+                    Editorial Notes ({Object.keys(relationNotes).length})
+                    <svg className={`w-3 h-3 ml-auto transition-transform ${notesCollapsed ? "" : "rotate-180"}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </button>
+                  {!notesCollapsed && (
+                    <div className="space-y-1.5 max-h-32 overflow-y-auto mt-2">
+                      {Object.entries(relationNotes).map(([key, val]) => {
+                        const target = key.split("::")[1]
+                        return (
+                          <div key={key} className="flex items-start gap-2 text-[9px]">
+                            <button onClick={(e) => { e.stopPropagation(); openNotePopover(target, e.clientX, e.clientY) }}
+                              className="text-[#f59e0b] font-bold shrink-0 hover:underline">{target}</button>
+                            <span className="text-[var(--color-text-dim)] leading-snug">{val.note}</span>
+                          </div>
+                        )
+                      })}
+                    </div>
+                  )}
+                </div>
+              )}
+
+              {addConnectionFormJSX}
             </div>
           )}
         </div>
+
+        
 
         {/* Sidebar — discovery widgets */}
         <div className="space-y-4">

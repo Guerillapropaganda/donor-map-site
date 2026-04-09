@@ -786,11 +786,11 @@ export default function ProfilePage() {
         <StatCard label="URLs" value={urls.length} color="#06b6d4" />
       </div>
 
-      {/* Tabs */}
-      <div className="flex gap-1 mb-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-1 w-fit">
+      {/* Tabs — horizontally scrollable on mobile */}
+      <div className="flex gap-1 mb-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-1 w-fit max-w-full overflow-x-auto">
         {(["overview", "connections", "urls", "notes", "reviews"] as const).map((t) => (
           <button key={t} onClick={() => setTab(t)}
-            className={`px-4 py-2 rounded text-xs transition-all capitalize ${
+            className={`px-4 py-2 rounded text-xs transition-all capitalize whitespace-nowrap ${
               tab === t ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)]" : "text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
             }`}>
             {t === "reviews" ? <>Reviews {profile?.editorialResult === "pass" ? <span className="inline-block w-2 h-2 rounded-full bg-[var(--color-green)] ml-1" /> : profile?.editorialResult === "block" ? <span className="inline-block w-2 h-2 rounded-full bg-[var(--color-red)] ml-1" /> : profile?.editorialResult === "defer" ? <span className="inline-block w-2 h-2 rounded-full bg-[var(--color-amber)] ml-1" /> : null}</> : <>{t}{t === "notes" && internalNotes ? " •" : ""}</>}
@@ -1289,20 +1289,35 @@ export default function ProfilePage() {
             ))}
           </div>
 
-          {/* Timeline */}
+          {/* Timeline — grouped by date */}
           <div className="space-y-2">
             {filtered.length === 0 ? (
               <p className="text-[10px] text-[var(--color-text-dim)] text-center py-6">No review entries yet</p>
-            ) : filtered.map((entry, i) => (
-              <div key={i} className="p-3 rounded bg-[var(--color-bg)] border-l-2 border border-[var(--color-border)]"
-                style={{ borderLeftColor: AUTHOR_COLORS[entry.author] || "#888" }}>
-                <div className="flex items-center gap-2 mb-1">
-                  <span className="text-[9px] font-bold" style={{ color: AUTHOR_COLORS[entry.author] || "#888" }}>{entry.author}</span>
-                  {entry.date && <span className="text-[8px] text-[var(--color-text-dim)]">{entry.date}</span>}
-                </div>
-                <p className="text-[10px] text-[var(--color-text)] whitespace-pre-wrap">{entry.text}</p>
-              </div>
-            ))}
+            ) : (() => {
+              let lastDate = ""
+              return filtered.map((entry, i) => {
+                const entryDate = entry.date || "Unknown date"
+                const showDateHeader = entryDate !== lastDate
+                lastDate = entryDate
+                return (
+                  <div key={i}>
+                    {showDateHeader && (
+                      <div className="flex items-center gap-2 mt-3 mb-1 first:mt-0">
+                        <span className="text-[8px] font-bold text-[var(--color-text-dim)] uppercase tracking-wider">{entryDate}</span>
+                        <span className="flex-1 h-px bg-[var(--color-border)]" />
+                      </div>
+                    )}
+                    <div className="p-3 rounded bg-[var(--color-bg)] border-l-2 border border-[var(--color-border)]"
+                      style={{ borderLeftColor: AUTHOR_COLORS[entry.author] || "#888" }}>
+                      <div className="flex items-center gap-2 mb-1">
+                        <span className="text-[9px] font-bold" style={{ color: AUTHOR_COLORS[entry.author] || "#888" }}>{entry.author}</span>
+                      </div>
+                      <p className="text-[10px] text-[var(--color-text)] whitespace-pre-wrap">{entry.text}</p>
+                    </div>
+                  </div>
+                )
+              })
+            })()}
           </div>
 
           {/* Add entry */}

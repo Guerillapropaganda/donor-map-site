@@ -189,7 +189,12 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 #<!-- auto:executive-orders start -->
 ### Executive Orders (Federal Register)
 
-**Total Executive Orders:** 474
+| Document Type | Count |
+|--------------|-------|
+| Executive Orders | 474 |
+| Presidential Memoranda | 167 |
+| Proclamations | 706 |
+| **Total Presidential Documents** | **1,347** |
 
 | Date | Executive Order |
 |------|----------------|
@@ -221,47 +226,6 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 
 - [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026) (Tier 1)
 <!-- auto:executive-orders end -->
-
-<!-- auto:executive-orders pending-merge 2026-04-08 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Document Type | Count |
-|--------------|-------|
-| Executive Orders | 474 |
-| Presidential Memoranda | 167 |
-| Proclamations | 706 |
-| **Total Presidential Documents** | **1,347** |
-
-**Recent executive orders:**
-
-| EO# | Title | Date |
-|-----|-------|------|
-| EO 14399 | Ensuring Citizenship Verification and Integrity in Federal Elections | 2026-03-31 |
-| EO 14398 | Addressing DEI Discrimination by Federal Contractors | 2026-03-26 |
-| EO 14397 | Further Continuance of the Federal Emergency Management Agency Review Council | 2026-03-24 |
-| EO 14396 | Preserving America's Game | 2026-03-20 |
-| EO 14395 | Establishing the Task Force To Eliminate Fraud | 2026-03-16 |
-| EO 14394 | Removing Regulatory Barriers to Affordable Home Construction | 2026-03-13 |
-| EO 14393 | Promoting Access to Mortgage Credit | 2026-03-13 |
-| EO 14392 | Ensuring Truthful Advertising of Products Claiming To Be Made in America | 2026-03-13 |
-| EO 14391 | Adjusting Certain Delegations Under the Defense Production Act | 2026-03-13 |
-| EO 14390 | Combating Cybercrime, Fraud, and Predatory Schemes Against American Citizens | 2026-03-06 |
-| EO 14389 | Ending Certain Tariff Actions | 2026-02-20 |
-| EO 14388 | Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries | 2026-02-20 |
-| EO 14387 | Promoting the National Defense by Ensuring an Adequate Supply of Elemental Phosp… | 2026-02-18 |
-| EO 14386 | Strengthening United States National Defense With America's Beautiful Clean Coal… | 2026-02-11 |
-| EO 14385 | Protecting the National Security and Welfare of the United States and Its Citize… | 2026-02-06 |
-
-**Recent presidential memoranda:**
-
-- Presidential Waiver of Statutory Requirements Pursuant to Section 303 of the Defense Production Act of 1950, as Amended (2026-02-13)
-- Withdrawing the United States From International Organizations, Conventions, and Treaties That Are Contrary to the Inter (2026-01-07)
-- Delegation of Authority Under Section 614(a)(2) of the Foreign Assistance Act of 1961 (2025-12-26)
-
-- [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump) (Tier 1)
-
-<!-- auto:executive-orders pending-merge end -->
 
 ## Sources
 

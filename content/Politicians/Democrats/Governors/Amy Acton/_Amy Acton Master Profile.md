@@ -204,29 +204,11 @@ content-readiness:: ready
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-09 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 2 of 2 |
-| Committee Overlap Detected | None |
-
-**Donors who lobby (by spend):**
-
-- [[Ohio Democratic Party]] — $2.8M lobbying spend (Aerospace, Agriculture, Aviation/Airlines/Airports)
-- [[Ohio AFL-CIO]] — $2.8M lobbying spend (Aerospace, Agriculture, Aviation/Airlines/Airports)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
-
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
 <!-- auto:committee-assignments end -->
 
 ### Voting Record

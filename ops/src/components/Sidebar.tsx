@@ -1,5 +1,6 @@
 "use client"
 
+import { useState, useEffect } from "react"
 import Link from "next/link"
 import { usePathname, useRouter } from "next/navigation"
 
@@ -38,9 +39,27 @@ const ICONS: Record<string, string> = {
 export function Sidebar() {
   const pathname = usePathname()
   const router = useRouter()
+  const [mobileOpen, setMobileOpen] = useState(false)
+
+  // Close mobile sidebar on navigation
+  useEffect(() => { setMobileOpen(false) }, [pathname])
 
   return (
-    <aside className="fixed left-0 top-0 h-screen w-56 bg-[var(--color-bg-card)] border-r border-[var(--color-border)] flex flex-col z-50">
+    <>
+      {/* Mobile hamburger button */}
+      <button onClick={() => setMobileOpen((o) => !o)}
+        className="fixed top-3 left-3 z-[60] md:hidden w-10 h-10 rounded-lg bg-[var(--color-bg-card)] border border-[var(--color-border)] flex items-center justify-center text-[var(--color-text-dim)] hover:text-[var(--color-text)]">
+        <svg width={18} height={18} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+          {mobileOpen
+            ? <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+            : <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />}
+        </svg>
+      </button>
+
+      {/* Mobile overlay */}
+      {mobileOpen && <div className="fixed inset-0 bg-black/50 z-40 md:hidden" onClick={() => setMobileOpen(false)} />}
+
+    <aside className={`fixed left-0 top-0 h-screen w-56 bg-[var(--color-bg-card)] border-r border-[var(--color-border)] flex flex-col z-50 transition-transform md:translate-x-0 ${mobileOpen ? "translate-x-0" : "-translate-x-full"}`}>
       {/* Logo */}
       <div className="p-5 border-b border-[var(--color-border)]">
         <h1 className="text-sm font-bold tracking-wider text-[var(--color-steel)]">
@@ -80,7 +99,7 @@ export function Sidebar() {
       {/* Nav */}
       <nav className="flex-1 p-3 space-y-1">
         {NAV_ITEMS.map((item) => {
-          const active = pathname === item.href
+          const active = item.href === "/" ? pathname === "/" : pathname.startsWith(item.href)
           return (
             <Link
               key={item.href}
@@ -107,5 +126,6 @@ export function Sidebar() {
         </p>
       </div>
     </aside>
+    </>
   )
 }

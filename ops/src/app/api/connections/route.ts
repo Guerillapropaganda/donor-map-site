@@ -8,7 +8,7 @@ export interface Connection {
   sourcePath: string
   sourceType: string
   target: string
-  relationshipType: "related" | "donors" | "opposes"
+  relationshipType: "related" | "donors" | "opposes" | "stories"
 }
 
 export interface ConnectedProfile {

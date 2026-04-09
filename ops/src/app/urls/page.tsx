@@ -48,6 +48,27 @@ export default function UrlManagerPage() {
   const [checkResults, setCheckResults] = useState<Record<string, { status: string; code?: number; ms?: number; redirectUrl?: string }>>({})
   const [urlNotes, setUrlNotes] = useState<Record<string, string>>({})
 
+  // Batch selection mode
+  const [batchMode, setBatchMode] = useState(false)
+  const [batchSelected, setBatchSelected] = useState<Set<string>>(new Set())
+
+  const toggleBatchItem = (id: string) => {
+    setBatchSelected((prev) => {
+      const next = new Set(prev)
+      if (next.has(id)) next.delete(id); else next.add(id)
+      return next
+    })
+  }
+
+  const batchAction = (status: UrlStatus) => {
+    const newOverrides = { ...overrides }
+    for (const id of batchSelected) newOverrides[id] = status
+    setOverrides(newOverrides)
+    setHasChanges(true)
+    setBatchSelected(new Set())
+    showToast(`Marked ${batchSelected.size} URLs as ${status}`)
+  }
+
   // Show toast notification
   const showToast = useCallback((msg: string) => {
     setToast(msg)
@@ -245,13 +266,18 @@ export default function UrlManagerPage() {
     return (
       <div
         key={u.id}
-        draggable={isActive}
-        onDragStart={() => isActive && handleDragStart(u.id)}
+        draggable={isActive && !batchMode}
+        onDragStart={() => isActive && !batchMode && handleDragStart(u.id)}
+        onClick={() => batchMode && isActive ? toggleBatchItem(u.id) : undefined}
         className={`p-2.5 rounded bg-[var(--color-bg)] hover:bg-[var(--color-bg-hover)] transition-colors border border-transparent hover:border-[var(--color-border)] group ${
           isActive && overrides[u.id] ? "ring-1 ring-[var(--color-steel)]/30" : ""
-        } ${isActive ? "cursor-grab active:cursor-grabbing" : ""}`}
+        } ${batchMode && isActive ? "cursor-pointer" : isActive ? "cursor-grab active:cursor-grabbing" : ""} ${batchMode && batchSelected.has(u.id) ? "ring-1 ring-[var(--color-steel)] bg-[var(--color-steel)]/5" : ""}`}
       >
         <div className="flex items-center gap-1 mb-1">
+          {batchMode && isActive && (
+            <input type="checkbox" checked={batchSelected.has(u.id)} onChange={() => toggleBatchItem(u.id)}
+              className="w-3 h-3 rounded border-[var(--color-border)] accent-[var(--color-steel)] flex-shrink-0" />
+          )}
           <span className="text-[8px] text-[var(--color-steel)]">
             {breadcrumb.map((part, i) => (
               <span key={i}>{i > 0 && <span className="text-[var(--color-text-dim)] mx-0.5">/</span>}
@@ -409,8 +435,23 @@ export default function UrlManagerPage() {
         <div className="py-16 text-center text-xs text-[var(--color-text-dim)] animate-pulse">Scanning vault for URLs...</div>
       ) : (
         <>
-          {/* Active triage — drag and drop */}
-          <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-2">Active Triage</h3>
+          {/* Batch mode toggle + batch action bar */}
+          <div className="flex items-center gap-2 mb-2">
+            <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)]">Active Triage</h3>
+            <button onClick={() => { setBatchMode((m) => !m); setBatchSelected(new Set()) }}
+              className={`text-[8px] px-2 py-1 rounded border transition-all ${batchMode ? "border-[var(--color-steel)] bg-[var(--color-steel)]/10 text-[var(--color-steel)]" : "border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"}`}>
+              {batchMode ? "Exit Batch Mode" : "Batch Select"}
+            </button>
+            {batchMode && batchSelected.size > 0 && (
+              <div className="flex items-center gap-1 ml-auto">
+                <span className="text-[8px] text-[var(--color-text-dim)]">{batchSelected.size} selected:</span>
+                <button onClick={() => batchAction("ok")} className="text-[8px] px-2 py-1 rounded bg-[#22c55e]/15 text-[#22c55e] hover:bg-[#22c55e]/25">OK</button>
+                <button onClick={() => batchAction("broken")} className="text-[8px] px-2 py-1 rounded bg-[#ef4444]/15 text-[#ef4444] hover:bg-[#ef4444]/25">Broken</button>
+                <button onClick={() => batchAction("slow")} className="text-[8px] px-2 py-1 rounded bg-[#f59e0b]/15 text-[#f59e0b] hover:bg-[#f59e0b]/25">Slow</button>
+                <button onClick={() => batchAction("unsure")} className="text-[8px] px-2 py-1 rounded bg-[#a855f7]/15 text-[#a855f7] hover:bg-[#a855f7]/25">Unsure</button>
+              </div>
+            )}
+          </div>
           <div className="flex gap-3 flex-wrap mb-6">
             <DropZone status="ok" color="#22c55e" label="Working" items={greenUrls} icon="&#x2705;" />
             <DropZone status="broken" color="#ef4444" label="Broken" items={redUrls} icon="&#x274C;" />

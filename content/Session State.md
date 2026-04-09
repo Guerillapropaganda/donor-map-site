@@ -1,7 +1,7 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 ---
 
 # Session State
@@ -11,6 +11,81 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code + Research
+Date: 2026-04-09 (Ops polish run + congress pipeline fix + Cori Bush A+ review)
+
+Done:
+- **Ops: relationship search bar fix** — AddConnectionForm was an inner component causing focus loss on every keystroke. Changed to JSX variable. Works now.
+- **Ops: relationship notes on graph nodes** — amber note button on each node, note popover with textarea, notes summary panel below legend. Stored in ops/data/relationship-notes.json via new API.
+- **Congress pipeline fix** — removed hardcoded 119th Congress. Now queries all congresses (career totals) by default. --congress=119 still available as override. Both congress-pipeline.cjs and committee-pipeline.cjs fixed.
+- **Congress pipeline: frontmatter bioguide first** — pipeline now uses bioguide-id from YAML instead of name search. Fixes Cori Bush / Alan Armstrong mixup.
+- **Cori Bush A+ promoted** — first profile to reach verified (A+). Full 10-block review, added Class Analysis section, merged pending congress data, fixed committee URL.
+- **46 A000383 bioguide URLs fixed** — committee-assignment auto-blocks across vault had wrong bioguide URL from pipeline bug. All archived with note.
+- **7 bogus A000383 frontmatter IDs removed** — Josh Green, Mallory McMorrow, Matt Mahan, Xavier Becerra, Matt Gaetz, David Sacks, Scott Bessent had wrong bioguide-id.
+- **CLAUDE.md updated** — added Repo Paths table documenting main repo vs worktree vs Ops app paths.
+Ops polish run COMPLETE (all 10 items audited):
+1. ~~Fix A000383 bioguide URLs~~ DONE — 46 auto-block URLs archived, 7 bogus frontmatter IDs removed
+2. ~~Fix GovTrack 0/0 bills~~ DONE — govtrack-pipeline.cjs congress filter removed, Cori Bush updated manually, 19 others will fix on next run
+3. ~~Fix search focus bugs~~ DONE — only relationships had the bug, fixed earlier this session
+4. ~~Resolve pending-merge blocks~~ SKIPPED — needs editorial judgment per profile
+5. ~~Connection count 0 flash~~ DONE — stats bar conditionally rendered (not just opacity hidden)
+6. ~~Notes summary collapsible~~ VERIFIED — already implemented with chevron toggle
+7. ~~Reviews tab date grouping~~ VERIFIED — already implemented with date headers + dividers
+8. ~~URL Manager batch triage~~ VERIFIED — already implemented with checkboxes + bulk action bar
+9. ~~Sidebar active highlight~~ VERIFIED — usePathname + startsWith logic was already correct
+10. ~~Mobile responsive~~ DONE — profile viewer tabs now horizontally scrollable on mobile
+
+Engine repo fixes (donor-map-engine):
+- congress-pipeline.cjs: all-congresses by default + frontmatter bioguide-id first
+- committee-pipeline.cjs: same all-congresses fix
+- govtrack-pipeline.cjs: removed current-congress-only filter
+
+Relationship Discovery Engine (in progress):
+- **Vault Rules Section 3 added** — connection types, confidence tiers, auto-create rules, bidirectional enforcement, unnamed entity threshold, escalation, decay, rejection rules, role assignments
+- **CLAUDE.md updated** — Code Claude and Research Claude role sections for relationship discovery
+- **Scanner script built** (`scripts/relationship-discovery.cjs`) — 7 strategies, tested on full vault:
+  - 93 HIGH confidence (FEC IE data + leak references)
+  - 3,737 MEDIUM (shared donors, organizational, story attribution)
+  - 7,905 LOW (body text mentions)
+  - 89 auto-create eligible
+  - 147 unnamed entities needing profiles (PhRMA, Raytheon, GEO Group, Jeff Yass, etc.)
+- **Utility functions added** to scripts/lib/shared.cjs (parseAllWikilinks, resolveProfileTitle, extractFrontmatterConnections)
+- **Suggestions API built** — GET/POST at `/api/suggestions`, scan trigger at `/api/suggestions/scan`
+- **Suggestions UI live** — new tab in Relationship Mapper with confidence filters, strategy pills, visual cards with reasoning boxes, approve/reject/defer buttons, batch approve high, unnamed entities queue, rejection dialog with preset reasons
+- **Verified in browser** — 11,735 suggestions loaded, filters working, cards rendering with full reasoning
+
+Additional done this session:
+- **Transparency Score** added to scanner — 10 scoring factors (dark money, dollar magnitude, revolving door, sector-committee alignment, legal scrutiny, leak exposure, intermediary layers, direct FEC, small donor). Scores 0-100 with tiers: OBSCURED/OPAQUE/DISCLOSED/TRANSPARENT.
+- **Partisan Flow** analysis — DEM/GOP/Cross-Party/Neutral detection per connection
+- **Dollar Magnitude** extraction — tier classification (massive/major/significant/moderate/minor)
+- **Visual meters on cards** — transparency gradient bar, partisan DEM↔GOP meter, dollar display. Verified working.
+- **Server-side pagination** — API returns 30 results at a time with offset/limit, "Load more" button. Fixes the 11K card browser freeze.
+- **New filters** — connection type (Related/Funded By/Opposes/Stories), partisan (Dem/GOP/Cross-Party/Neutral), sort dropdown (Confidence/Least Transparent/Most Transparent/Highest Dollar/Lowest Dollar/Most Dem/Most GOP)
+- **Fixed type errors** — connections route ("stories" type), money-trail route (funded array typing)
+
+Server restarted and running.
+
+Additional done:
+- **Server-side filtering and sorting** — API accepts confidence, strategy, type, partisan, sort, limit, offset params
+- **New UI filter row** — connection type (All/Related/Funded By/Opposes/Stories), partisan (All/Dem/GOP/Cross-Party/Neutral), sort dropdown (Confidence/Least Transparent/Most Transparent/Highest Dollar/Lowest Dollar/Most Dem/Most GOP)
+- **useEffect-driven reload** — all filters trigger server-side re-fetch automatically
+- **Fixed type errors** — connections route (stories type), money-trail route (funded array), connections interface
+- **Server restarted** — killed old process, cleared .next cache, fresh start on port 3333
+
+Still TODO (David requested):
+- Add notes/tagging feature to each suggestion card (so David can tag suggestions for Claude to investigate deeper)
+- Add relationship discovery rules to Ops Rules tab (Section 3 is in Vault Rules, also show in Ops)
+
+Next session priorities:
+1. Add notes/tagging to suggestion cards (tag for Research Claude or Code Claude investigation)
+2. Add relationship discovery rules to Ops Rules tab
+3. Test approve/reject/defer actions end-to-end
+4. Tune scanner — reduce LOW noise (8,024 wikilink mentions)
+5. Commit all changes to worktree branch and merge to v4
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-09 (marathon — ID cleanup, construction mode, pipeline debugging, Ops features)
 

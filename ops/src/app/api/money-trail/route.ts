@@ -122,7 +122,7 @@ export async function GET(request: Request) {
         })
 
         // Politicians funded
-        const funded = Array.isArray(target.politiciansFunded) ? target.politiciansFunded : []
+        const funded: string[] = Array.isArray(target.politiciansFunded) ? [...target.politiciansFunded] : []
         if (target.related) {
           for (const r of parseWikilinks(target.related)) {
             const rProfile = profiles.find(
