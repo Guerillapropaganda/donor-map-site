@@ -20,7 +20,7 @@ source-types:
   - FEC
   - GovTrack
 corroboration-count: 3
-donors: '[[WITH HONOR FUND, INC.]]'
+donors: '[[WITH HONOR FUND, INC.]] · [[AMERICAN PATRIOTS PAC]]'
 opposes: '[[HOUSE MAJORITY PAC]]'
 ---
 
