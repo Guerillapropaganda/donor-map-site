@@ -48,7 +48,7 @@ Audience: CNN's liberal/centrist establishment demographic; approximately 700K-9
 
 Based on institutional pattern analysis: Cooper's peers at CNN with similar profiles (Jake Tapper, Chris Wallace, Nicolle Wallace) all show $0 FEC contributions. Institutional anchors at CNN operate under explicit or implied expectation of political neutrality in personal giving. This profile requires Chrome API verification before finalization.
 
-- [FEC API: Anderson Cooper individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=cooper%2C+anderson&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (UNVERIFIED — Chrome unavailable)
+- [FEC API: Anderson Cooper individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=cooper%2C+anderson&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (NEEDS REVIEW: rate limited) (UNVERIFIED — Chrome unavailable)
 
 > [!money]
 > Cooper is a $200M net worth individual who earns $18M/year from institutional media — his financial footprint is enormous, but he channels political influence exclusively through editorial platform access, not personal donations. This is the CNN anchor pattern: leverage flows from airtime, not checkbooks.
@@ -163,18 +163,18 @@ Anderson Cooper is the perfect centrist institutional media specimen: born into 
 
 ### Sources
 
-- [Variety: Anderson Cooper Will Stay at CNN After Striking New Deal](https://variety.com/2025/tv/news/anderson-cooper-cnn-new-contract-1236603476/) (Tier 2)
-- [Deadline: Anderson Cooper Signs New Deal To Stay At CNN](https://deadline.com/2025/12/anderson-cooper-cnn-new-deal-1236642407/) (Tier 2)
-- [Variety: Anderson Cooper Set to Exit CBS News' '60 Minutes'](https://variety.com/2026/tv/news/anderson-cooper-exit-60-minutes-cbs-news-1236664874/) (Tier 2)
-- [NBC News: Anderson Cooper leaving '60 Minutes' in latest CBS News shakeup](https://www.nbcnews.com/news/us-news/anderson-cooper-leaving-60-minutes-latest-cbs-news-rcna259293) (Tier 2)
-- [Washington Post: Anderson Cooper leaves 60 Minutes after two decades](https://www.washingtonpost.com/business/2026/02/16/anderson-cooper-leaves-60-minutes/) (Tier 2)
-- [Status/Oliver Darcy: Cooper's Final Minutes — not aligned with CBS rightward direction](https://www.status.news/p/anderson-cooper-60-minutes-bari-weiss) (Tier 2)
-- [Daily Beast: MAGA-Curious CBS Boss Bari Weiss Losing Another '60 Minutes' Star After Anderson Cooper's Exit](https://www.thedailybeast.com/maga-curious-cbs-boss-bari-weiss-losing-another-60-minutes-star-after-anderson-coopers-exit/) (Tier 2)
-- [CNN Business: Paramount's winning WBD bid — David and Larry Ellison amassing media empire](https://www.cnn.com/2026/02/26/business/paramount-wbd-merger-david-ellison) (Tier 2)
-- [Daily Beast: Anderson Cooper cuts off guest discussing Gaza carnage on CNN panel](https://www.thedailybeast.com/anderson-cooper-cuts-off-guest-discussing-gaza-carnage-on-cnn-panel/) (Tier 2)
-- [Newsweek: Anderson Cooper Is in Hot Water — Nina Turner Gaza cutoff](https://www.newsweek.com/anderson-cooper-nina-turner-cnn-gaza-israel-hamas-palestinians-joe-biden-michigan-primary-1874599) (Tier 3)
-- [LGBTQ Nation: CBS insider says Anderson Cooper's departure was a "f**k you" to anti-woke Bari Weiss](https://www.lgbtqnation.com/2026/02/cbs-insider-says-anderson-coopers-departure-was-a-fk-you-to-anti-woke-bari-weiss/) (Tier 3)
-- [Fox Business: Gloria Vanderbilt's son Anderson Cooper to inherit less than $1.5M](https://www.foxbusiness.com/business-leaders/gloria-vanderbilt-anderson-cooper-inheritance-report) (Tier 3)
+- [Variety: Anderson Cooper Will Stay at CNN After Striking New Deal](https://variety.com/2025/tv/news/anderson-cooper-cnn-new-contract-1236603476/) (Tier 2) (VERIFIED)
+- [Deadline: Anderson Cooper Signs New Deal To Stay At CNN](https://deadline.com/2025/12/anderson-cooper-cnn-new-deal-1236642407/) (Tier 2) (VERIFIED)
+- [Variety: Anderson Cooper Set to Exit CBS News' '60 Minutes'](https://variety.com/2026/tv/news/anderson-cooper-exit-60-minutes-cbs-news-1236664874/) (Tier 2) (VERIFIED)
+- [NBC News: Anderson Cooper leaving '60 Minutes' in latest CBS News shakeup](https://www.nbcnews.com/news/us-news/anderson-cooper-leaving-60-minutes-latest-cbs-news-rcna259293) (Tier 2) (VERIFIED)
+- [Washington Post: Anderson Cooper leaves 60 Minutes after two decades](https://www.washingtonpost.com/business/2026/02/16/anderson-cooper-leaves-60-minutes/) (Tier 2) (VERIFIED)
+- [Status/Oliver Darcy: Cooper's Final Minutes — not aligned with CBS rightward direction](https://www.status.news/p/anderson-cooper-60-minutes-bari-weiss) (Tier 2) (VERIFIED)
+- [Daily Beast: MAGA-Curious CBS Boss Bari Weiss Losing Another '60 Minutes' Star After Anderson Cooper's Exit](https://www.thedailybeast.com/maga-curious-cbs-boss-bari-weiss-losing-another-60-minutes-star-after-anderson-coopers-exit/) (Tier 2) (VERIFIED)
+- [CNN Business: Paramount's winning WBD bid — David and Larry Ellison amassing media empire](https://www.cnn.com/2026/02/26/business/paramount-wbd-merger-david-ellison) (Tier 2) (VERIFIED)
+- [Daily Beast: Anderson Cooper cuts off guest discussing Gaza carnage on CNN panel](https://www.thedailybeast.com/anderson-cooper-cuts-off-guest-discussing-gaza-carnage-on-cnn-panel/) (Tier 2) (VERIFIED)
+- [Newsweek: Anderson Cooper Is in Hot Water — Nina Turner Gaza cutoff](https://www.newsweek.com/anderson-cooper-nina-turner-cnn-gaza-israel-hamas-palestinians-joe-biden-michigan-primary-1874599) (Tier 3) (VERIFIED)
+- [LGBTQ Nation: CBS insider says Anderson Cooper's departure was a "f**k you" to anti-woke Bari Weiss](https://www.lgbtqnation.com/2026/02/cbs-insider-says-anderson-coopers-departure-was-a-fk-you-to-anti-woke-bari-weiss/) (Tier 3) (VERIFIED)
+- [Fox Business: Gloria Vanderbilt's son Anderson Cooper to inherit less than $1.5M](https://www.foxbusiness.com/business-leaders/gloria-vanderbilt-anderson-cooper-inheritance-report) (Tier 3) (VERIFIED)
 - [FEC API: Anderson Cooper individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=cooper%2C+anderson&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (UNVERIFIED — Chrome unavailable; must run via Chrome javascript_tool)
 
 ---
