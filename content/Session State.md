@@ -12,6 +12,42 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
+Date: 2026-04-09 (marathon — ID cleanup, construction mode, pipeline debugging, Ops features)
+
+Done:
+- **Under-construction mode** — `CONSTRUCTION_MODE=true` in deploy.yml. Only homepage deploys to production. All profile pages 404. Local dev unaffected. Live on thedonormap.org.
+- **67 wrong bioguide/FEC IDs fixed** — removed 58 bogus A000383 bioguide IDs, corrected 33 FEC candidate IDs (wrong state, presidential, legacy House)
+- **Pipeline trigger fix** — Ops profile viewer enrichment buttons now work (route was 404)
+- **Single-profile enrichment** — `--profile` flag added to engine workflow. Ops sends profile name when triggering. Shell quoting fixed for names with spaces.
+- **FEC pipeline: use frontmatter ID** — `processPolitician()` now uses `fec-candidate-id` from frontmatter instead of unreliable name search. Fixes Cori Bush and similar.
+- **last-enriched fix** — all 5 major pipelines (fec, congress, govtrack, committee, voting-record) now set `last-enriched` in frontmatter on write.
+- **116 FEC API URLs → website URLs** — removed DEMO_KEY rate limiting from profile links across 70 files.
+- **19 LDA URLs updated** — `lda.senate.gov` → `lda.gov` domain migration.
+- **Connection removal bug fixed** — regex now matches aliases (e.g., `[[Full Name|AIPAC]]`).
+- **URL triage yellow/purple fixed** — distinct `(SLOW)` vs `(NEEDS REVIEW)` tags, persistent states.
+- **Network graph expanded** — think tanks, lobbying firms, media profiles now included (~300 more nodes).
+- **Enrichment logging** — pipeline results logged in Reviews timeline, auto-pull after completion, checklist refreshes.
+- **Rules tab in Ops sidebar** — read-only view of Vault Rules, CLAUDE.md, Pipeline Guide with timestamps.
+- **Class analysis mandate** — #1 editorial rule. "Class Analysis" is 8th required section for A+.
+- **Pipeline Known Issues doc** — `content/Pipeline Guide - Known Issues.md` tracks bugs, fixes, debugging checklist.
+- **Cori Bush bill counts fixed** — 39 sponsored, 756 cosponsored (congress pipeline returned 0 due to 119th Congress bug).
+
+Known issues:
+- Congress pipeline hardcoded to 119th Congress — former members get 0 bills (engine fix needed)
+- `lda-pipeline.cjs` in engine repo still generates old domain (site-side URLs fixed, engine not yet)
+- NY/TX governor scrapers need HTML pattern fixes
+
+Next session priorities:
+1. Fix congress pipeline to query all congresses a member served in (engine)
+2. Fix lda-pipeline.cjs domain in engine repo
+3. Cori Bush: editorial sign-off remaining (only blocker left after bills fix)
+4. Continue A+ reviews — Congress batch
+5. Run enrichment on profiles with corrected FEC IDs (33 senators should get fresh data now)
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-09 (ID cleanup + construction mode + pipeline fixes)
 
 Done:
