@@ -147,6 +147,14 @@ article strong {
   padding: 0 2px;
 }
 
+// Bold inside links — keep yellow highlight, force black text for consistency
+article a strong,
+article strong a {
+  color: #0a0a0a !important;
+  background: linear-gradient(to bottom, transparent 60%, #fbbf24 60%);
+  padding: 0 2px;
+}
+
 article em {
   color: #555;
 }
