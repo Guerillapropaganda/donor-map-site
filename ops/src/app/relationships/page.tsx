@@ -62,7 +62,7 @@ export default function RelationshipsPage() {
   interface TransparencyData { score: number; tier: string; tierColor: string; factors: { factor: string; impact: number; detail: string }[] }
   interface PartisanData { flow: number; label: string; isCrossParty: boolean; sourceLabel: string; targetLabel: string }
   interface DollarData { amount: number; display: string | null; tier: string }
-  interface Suggestion { id: string; source: string; sourcePath: string; target: string; targetPath: string; type: string; confidence: string; strategies: string[]; strategyCount: number; evidence: string; reasoning: string; autoCreate: boolean; discoveredAt: string; actionState?: string; actionAt?: string; actionReason?: string; transparency?: TransparencyData; partisan?: PartisanData; dollars?: DollarData }
+  interface Suggestion { id: string; source: string; sourcePath: string; target: string; targetPath: string; type: string; confidence: string; strategies: string[]; strategyCount: number; evidence: string; reasoning: string; autoCreate: boolean; discoveredAt: string; actionState?: string; actionAt?: string; actionReason?: string; transparency?: TransparencyData; partisan?: PartisanData; dollars?: DollarData; note?: string; investigate?: boolean; investigateAt?: string }
   interface NewProfile { name: string; mentions: number; contexts: string[]; mentionedBy: string[]; suggestedType: string; suggestedPath: string; hasDollarContext: boolean; hasLeakContext: boolean }
   const [suggestions, setSuggestions] = useState<Suggestion[]>([])
   const [newProfiles, setNewProfiles] = useState<NewProfile[]>([])
@@ -72,7 +72,7 @@ export default function RelationshipsPage() {
   const [suggestionsLastScan, setSuggestionsLastScan] = useState<string | null>(null)
   const [suggestionsFilter, setSuggestionsFilter] = useState<string>("all") // confidence filter
   const [suggestionsStratFilter, setSuggestionsStratFilter] = useState<string>("all") // strategy filter
-  const [suggestionsShowPending, setSuggestionsShowPending] = useState(true) // hide approved/rejected
+  const [suggestionsStatusFilter, setSuggestionsStatusFilter] = useState<"pending" | "all" | "acted">("pending")
   const [suggestionsTypeFilter, setSuggestionsTypeFilter] = useState<string>("all") // connection type
   const [suggestionsPartisan, setSuggestionsPartisan] = useState<string>("all") // partisan filter
   const [suggestionsSort, setSuggestionsSort] = useState<string>("confidence") // sort order
@@ -86,7 +86,7 @@ export default function RelationshipsPage() {
     setSuggestionsLoading(true)
     try {
       const o = offsetOverride ?? (append ? suggestionsOffset + 30 : 0)
-      const status = suggestionsShowPending ? "pending" : "all"
+      const status = suggestionsStatusFilter
       const params = new URLSearchParams({ confidence: suggestionsFilter, strategy: suggestionsStratFilter, status, type: suggestionsTypeFilter, partisan: suggestionsPartisan, sort: suggestionsSort, limit: "30", offset: String(o) })
       const res = await fetch(`/api/suggestions?${params}`)
       const data = await res.json()
@@ -152,8 +152,52 @@ export default function RelationshipsPage() {
     setSaving(false)
   }
 
+  const saveNote = async (id: string, note: string) => {
+    try {
+      await fetch("/api/suggestions", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id, action: "note", note }),
+      })
+      setSuggestions(prev => prev.map(s => s.id === id ? { ...s, note } : s))
+    } catch { /* skip */ }
+  }
+
+  const toggleInvestigate = async (id: string, currentlyInvestigating: boolean) => {
+    try {
+      const action = currentlyInvestigating ? "uninvestigate" : "investigate"
+      const res = await fetch("/api/suggestions", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id, action }),
+      })
+      const data = await res.json()
+      if (data.success) {
+        setSuggestions(prev => prev.map(s => s.id === id ? { ...s, investigate: !currentlyInvestigating, investigateAt: !currentlyInvestigating ? new Date().toISOString() : undefined } : s))
+        showToast(currentlyInvestigating ? "Removed from investigation queue" : "Sent to Research Claude for investigation")
+      }
+    } catch { showToast("Failed to update investigation status") }
+  }
+
+  const undoAction = async (id: string) => {
+    setSaving(true)
+    try {
+      const res = await fetch("/api/suggestions", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id, action: "undo" }),
+      })
+      const data = await res.json()
+      if (data.success) {
+        showToast(`Undone: ${data.undone}${data.undone === "approve" ? " (removed from vault)" : ""}`)
+        setSuggestions(prev => prev.map(s => s.id === id ? { ...s, actionState: undefined, actionAt: undefined, actionReason: undefined } : s))
+      } else showToast(`Undo failed: ${data.error}`)
+    } catch { showToast("Undo failed") }
+    setSaving(false)
+  }
+
   // Load suggestions when switching to tab or changing filters/sort
-  useEffect(() => { if (tab === "suggestions") loadSuggestions() }, [tab, suggestionsFilter, suggestionsStratFilter, suggestionsShowPending, suggestionsTypeFilter, suggestionsPartisan, suggestionsSort])
+  useEffect(() => { if (tab === "suggestions") loadSuggestions() }, [tab, suggestionsFilter, suggestionsStratFilter, suggestionsStatusFilter, suggestionsTypeFilter, suggestionsPartisan, suggestionsSort])
 
   // Node positions for draggable graph
   const [nodePositions, setNodePositions] = useState<Record<string, { x: number; y: number }>>({})
@@ -700,7 +744,16 @@ export default function RelationshipsPage() {
                       {key !== "all" && <span className="w-2 h-2 rounded-full" style={{ backgroundColor: color }} />} {label} <span className="font-bold">{key === "all" ? suggestionsStats.total : suggestionsStats[key as "high"|"medium"|"low"]}</span>
                     </button>
                   ))}
-                  <label className="flex items-center gap-1 text-[9px] text-[var(--color-text-dim)] ml-auto cursor-pointer"><input type="checkbox" checked={suggestionsShowPending} onChange={() => setSuggestionsShowPending(p => !p)} className="rounded" /> Pending only</label>
+                  <div className="flex items-center gap-3 ml-auto">
+                    <div className="flex items-center gap-1 bg-[var(--color-bg)] border border-[var(--color-border)] rounded p-0.5">
+                      {(["pending", "all", "acted"] as const).map(v => (
+                        <button key={v} onClick={() => setSuggestionsStatusFilter(v)}
+                          className={`px-2 py-0.5 rounded text-[8px] transition-all ${suggestionsStatusFilter === v ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)] font-bold" : "text-[var(--color-text-dim)] hover:text-[var(--color-text)]"}`}>
+                          {v === "pending" ? "Pending" : v === "all" ? "All" : "History"}
+                        </button>
+                      ))}
+                    </div>
+                  </div>
                 </div>
               )}
               {suggestionsStats.total > 0 && (
@@ -780,6 +833,8 @@ export default function RelationshipsPage() {
                             <span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: cc }} />
                             <span className="text-[9px] font-bold uppercase" style={{ color: cc }}>{s.confidence}</span>
                             {s.strategies.map((st: string) => <span key={st} className="text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)]">{st}</span>)}
+                            {s.investigate && <span className="text-[7px] px-1.5 py-0.5 rounded bg-[#a855f7]/15 text-[#a855f7] border border-[#a855f7]/30">&#128269; investigating</span>}
+                            {s.note && <span className="text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-steel)]/10 text-[var(--color-steel)]" title={s.note}>&#128221; note</span>}
                           </div>
                           <span className="text-[8px] text-[var(--color-text-dim)]">{new Date(s.discoveredAt).toLocaleDateString()}</span>
                         </div>
@@ -854,17 +909,39 @@ export default function RelationshipsPage() {
                             <p className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)] mb-1.5">Why this connection?</p>
                             <p className="text-[10px] text-[var(--color-text)] leading-relaxed whitespace-pre-wrap">{s.reasoning}</p>
                           </div>
+                          {/* Notepad */}
+                          <div className="mb-2" onClick={e => e.stopPropagation()}>
+                            <input
+                              type="text"
+                              placeholder="Add a note for Claude..."
+                              defaultValue={s.note || ""}
+                              onBlur={e => { if (e.target.value !== (s.note || "")) saveNote(s.id, e.target.value) }}
+                              onKeyDown={e => { if (e.key === "Enter") (e.target as HTMLInputElement).blur() }}
+                              className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-2.5 py-1.5 text-[9px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)]/50 focus:outline-none focus:border-[var(--color-steel)] transition-colors"
+                            />
+                          </div>
+                          {/* Action row */}
                           {acted ? (
                             <div className="flex items-center gap-2 text-[9px]">
-                              <span className={`px-2 py-1 rounded ${s.actionState === "approved" ? "bg-[var(--color-green)]/15 text-[var(--color-green)]" : s.actionState === "rejected" ? "bg-[var(--color-red)]/15 text-[var(--color-red)]" : "bg-[#f59e0b]/15 text-[#f59e0b]"}`}>{s.actionState === "approved" ? "Approved" : s.actionState === "rejected" ? "Rejected" : "Deferred"}</span>
+                              <span className={`px-2 py-1 rounded ${s.actionState === "approve" ? "bg-[var(--color-green)]/15 text-[var(--color-green)]" : s.actionState === "reject" ? "bg-[var(--color-red)]/15 text-[var(--color-red)]" : "bg-[#f59e0b]/15 text-[#f59e0b]"}`}>{s.actionState === "approve" ? "Approved" : s.actionState === "reject" ? "Rejected" : "Deferred"}</span>
                               {s.actionReason && <span className="text-[var(--color-text-dim)]">{s.actionReason}</span>}
+                              {s.actionAt && <span className="text-[var(--color-text-dim)] text-[8px]">{new Date(s.actionAt).toLocaleDateString()}</span>}
+                              <button onClick={() => undoAction(s.id)} disabled={saving} className="ml-2 text-[8px] px-2 py-0.5 rounded border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] hover:bg-[var(--color-bg-hover)] disabled:opacity-50" title="Undo this action">&#8634; Undo</button>
+                              <label className="ml-auto flex items-center gap-1.5 cursor-pointer" title="Flag for Research Claude">
+                                <input type="checkbox" checked={!!s.investigate} onChange={() => toggleInvestigate(s.id, !!s.investigate)} className="rounded accent-[#a855f7]" />
+                                <span className={`text-[8px] ${s.investigate ? "text-[#a855f7] font-bold" : "text-[var(--color-text-dim)]"}`}>&#128269; Research</span>
+                              </label>
                             </div>
                           ) : (
                             <div className="flex items-center gap-2">
                               <button onClick={() => actOnSuggestion(s.id, "approve")} disabled={saving} className="flex items-center gap-1 text-[9px] px-3 py-1.5 rounded bg-[var(--color-green)]/15 text-[var(--color-green)] border border-[var(--color-green)]/30 hover:bg-[var(--color-green)]/25 disabled:opacity-50">&#10003; Approve</button>
                               <button onClick={() => setRejectModal({ id: s.id, source: s.source, target: s.target })} disabled={saving} className="flex items-center gap-1 text-[9px] px-3 py-1.5 rounded bg-[var(--color-red)]/15 text-[var(--color-red)] border border-[var(--color-red)]/30 hover:bg-[var(--color-red)]/25 disabled:opacity-50">&#10005; Reject</button>
                               <button onClick={() => actOnSuggestion(s.id, "defer")} disabled={saving} className="flex items-center gap-1 text-[9px] px-3 py-1.5 rounded text-[var(--color-text-dim)] border border-[var(--color-border)] hover:bg-[var(--color-bg-hover)] disabled:opacity-50">&#9201; Later</button>
-                              {s.autoCreate && <span className="ml-auto text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-green)]/10 text-[var(--color-green)]">auto-create eligible</span>}
+                              {s.autoCreate && <span className="text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-green)]/10 text-[var(--color-green)]">auto-create eligible</span>}
+                              <label className="ml-auto flex items-center gap-1.5 cursor-pointer" title="Flag for Research Claude">
+                                <input type="checkbox" checked={!!s.investigate} onChange={() => toggleInvestigate(s.id, !!s.investigate)} className="rounded accent-[#a855f7]" />
+                                <span className={`text-[8px] ${s.investigate ? "text-[#a855f7] font-bold" : "text-[var(--color-text-dim)]"}`}>&#128269; Research</span>
+                              </label>
                             </div>
                           )}
                         </div>
