@@ -429,10 +429,10 @@ DonorMapSidebar.css = `
   font-family: 'Space Mono', monospace;
   font-size: 14px;
   font-weight: 700;
-  color: #5b8dce;
+  color: #0a0a0a;
   background: rgba(91, 141, 206, 0.15);
   padding: 2px 6px;
-  border-radius: 3px;
+  border-radius: 0;
   margin-right: 8px;
 }
 
@@ -440,11 +440,11 @@ DonorMapSidebar.css = `
   font-family: 'Space Grotesk', sans-serif;
   font-size: 18px;
   font-weight: 700;
-  color: #e4e4e7;
+  color: #0a0a0a;
 }
 
 .dm-cursor {
-  color: #22c55e;
+  color: #16a34a;
   text-shadow: 0 0 8px rgba(34, 197, 94, 0.6);
   animation: pulse-glow 2.5s ease-in-out infinite;
 }
@@ -454,11 +454,11 @@ DonorMapSidebar.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
-  color: #f59e0b;
+  color: #fbbf24;
   background: rgba(245, 158, 11, 0.12);
   border: 1px solid rgba(245, 158, 11, 0.3);
   padding: 1px 5px;
-  border-radius: 3px;
+  border-radius: 0;
   margin-left: 8px;
   vertical-align: middle;
   position: relative;
@@ -474,7 +474,7 @@ DonorMapSidebar.css = `
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   letter-spacing: 0.5px;
-  color: #7a7a86;
+  color: #999;
   margin-top: 4px;
   margin-left: 2px;
 }
@@ -497,8 +497,8 @@ DonorMapSidebar.css = `
 }
 
 .dm-nav::-webkit-scrollbar-thumb {
-  background: #1e1e28;
-  border-radius: 3px;
+  background: #ddd;
+  border-radius: 0;
 }
 
 /* ── List resets ── */
@@ -534,8 +534,8 @@ DonorMapSidebar.css = `
   align-items: center;
   gap: 6px;
   padding: 6px 8px;
-  border-radius: 4px;
-  color: #a1a1aa;
+  border-radius: 0;
+  color: #777;
   transition: background 0.15s, color 0.15s;
   user-select: none;
 }
@@ -546,13 +546,13 @@ DonorMapSidebar.css = `
 
 .dm-nav-branch > summary:hover {
   background: rgba(91, 141, 206, 0.06);
-  color: #e4e4e7;
+  color: #0a0a0a;
 }
 
 /* ── Chevron icon ── */
 .dm-nav-chevron {
   flex-shrink: 0;
-  color: #7a7a86;
+  color: #999;
   transition: transform 0.15s ease;
 }
 
@@ -567,7 +567,7 @@ details[open] > summary > .dm-nav-chevron {
   font-weight: 700;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: #63636e;
+  color: #999;
   padding: 8px 6px;
   margin-top: 4px;
 }
@@ -577,12 +577,12 @@ details[open] > summary > .dm-nav-chevron {
 }
 
 .dm-nav-branch.depth-0 > summary:hover {
-  color: #5b8dce;
+  color: #0a0a0a;
   background: rgba(91, 141, 206, 0.04);
 }
 
 .dm-nav-branch.depth-0 > summary > .dm-nav-chevron {
-  color: #63636e;
+  color: #999;
 }
 
 /* ── Depth 1: subcategory headers ── */
@@ -601,7 +601,7 @@ details[open] > summary > .dm-nav-chevron {
   font-size: 13px;
   color: #8a8a96 !important;
   text-decoration: none !important;
-  border-radius: 4px;
+  border-radius: 0;
   border: none !important;
   background: none !important;
   transition: background 0.15s, color 0.15s;
@@ -623,9 +623,9 @@ details[open] > summary > .dm-nav-chevron {
   font-weight: 700;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: #63636e !important;
+  color: #999 !important;
   text-decoration: none !important;
-  border-radius: 4px;
+  border-radius: 0;
   border: none !important;
   background: none !important;
   transition: background 0.15s, color 0.15s;
@@ -633,19 +633,19 @@ details[open] > summary > .dm-nav-chevron {
 }
 
 .dm-nav-section-link:hover {
-  color: #5b8dce !important;
+  color: #0a0a0a !important;
   background: rgba(91, 141, 206, 0.04) !important;
 }
 
 /* ── Active state ── */
 .dm-nav-active {
-  color: #e4e4e7 !important;
+  color: #0a0a0a !important;
   background: rgba(91, 141, 206, 0.1) !important;
-  border-left: 2px solid #5b8dce !important;
+  border-left: 2px solid #0a0a0a !important;
 }
 
 .dm-nav-active .dm-nav-count {
-  color: #63636e;
+  color: #999;
 }
 
 .dm-nav-active .dm-featured-detail {
@@ -656,7 +656,7 @@ details[open] > summary > .dm-nav-chevron {
 .dm-nav-count {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #7a7a86;
+  color: #999;
   margin-left: auto;
   padding-left: 8px;
   flex-shrink: 0;
@@ -688,9 +688,9 @@ details[open] > summary > .dm-nav-chevron {
   align-items: center;
   padding: 4px 8px;
   font-size: 13px;
-  color: #b4b4bc !important;
+  color: #333 !important;
   text-decoration: none !important;
-  border-radius: 4px;
+  border-radius: 0;
   border: none !important;
   background: none !important;
   transition: background 0.15s, color 0.15s;
@@ -699,7 +699,7 @@ details[open] > summary > .dm-nav-chevron {
 
 .dm-featured-link:hover {
   background: rgba(91, 141, 206, 0.08) !important;
-  color: #e4e4e7 !important;
+  color: #0a0a0a !important;
 }
 
 .dm-featured-name {
@@ -714,7 +714,7 @@ details[open] > summary > .dm-nav-chevron {
 .dm-featured-detail {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
-  color: #22c55e;
+  color: #16a34a;
   margin-left: auto;
   padding-left: 8px;
   flex-shrink: 0;

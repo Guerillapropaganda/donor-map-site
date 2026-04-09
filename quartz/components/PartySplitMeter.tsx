@@ -139,10 +139,10 @@ PartySplitMeter.css = `
    ═══════════════════════════════════════════════ */
 
 .psm-meter {
-  background: #0e0e14;
-  border: 1px solid #1e1e28;
-  border-left: 3px solid #5b8dce;
-  border-radius: 6px;
+  background: #f5f0eb;
+  border: 1px solid #ddd;
+  border-left: 3px solid #0a0a0a;
+  border-radius: 0;
   padding: 14px 18px;
   margin: 0 0 24px 0;
   font-family: 'Space Mono', monospace;
@@ -167,7 +167,7 @@ PartySplitMeter.css = `
   font-weight: 700;
   letter-spacing: 1.5px;
   padding: 3px 10px;
-  border-radius: 3px;
+  border-radius: 0;
   white-space: nowrap;
 }
 
@@ -193,13 +193,13 @@ PartySplitMeter.css = `
   display: flex;
   width: 100%;
   height: 24px;
-  border-radius: 4px;
+  border-radius: 0;
   overflow: hidden;
-  background: #1e1e28;
+  background: #ddd;
 }
 
 .psm-bar-dem {
-  background: linear-gradient(90deg, #3b72b8 0%, #5b8dce 100%);
+  background: linear-gradient(90deg, #3b72b8 0%, #1d4ed8 100%);
   display: flex;
   align-items: center;
   justify-content: flex-end;
@@ -249,7 +249,7 @@ PartySplitMeter.css = `
   gap: 12px;
   margin-top: 10px;
   padding-top: 10px;
-  border-top: 1px solid #1e1e28;
+  border-top: 1px solid #ddd;
   font-size: 10px;
   color: #8a8a96;
 }
@@ -262,7 +262,7 @@ PartySplitMeter.css = `
 .psm-source {
   font-weight: 700;
   letter-spacing: 0.5px;
-  color: #7a7a86;
+  color: #999;
   white-space: nowrap;
 }
 

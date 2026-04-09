@@ -53,25 +53,25 @@ const NetworkGraph: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
           </div>
           <div class="dm-ng-legend-item">
             <svg width="14" height="14" viewBox="-7 -7 14 14">
-              <polygon points="0,-6 5.2,-3 5.2,3 0,6 -5.2,3 -5.2,-3" fill="#ef4444" opacity="0.8" />
+              <polygon points="0,-6 5.2,-3 5.2,3 0,6 -5.2,3 -5.2,-3" fill="#e63946" opacity="0.8" />
             </svg>
             <span>Republican</span>
           </div>
           <div class="dm-ng-legend-item">
             <svg width="14" height="14" viewBox="-7 -7 14 14">
-              <rect x="-6" y="-4.5" width="12" height="9" rx="2" fill="#22c55e" opacity="0.8" />
+              <rect x="-6" y="-4.5" width="12" height="9" rx="2" fill="#16a34a" opacity="0.8" />
             </svg>
             <span>Donor / Corp</span>
           </div>
           <div class="dm-ng-legend-item">
             <svg width="14" height="14" viewBox="-7 -7 14 14">
-              <polygon points="0,-6 6,0 0,6 -6,0" fill="#f59e0b" opacity="0.8" />
+              <polygon points="0,-6 6,0 0,6 -6,0" fill="#fbbf24" opacity="0.8" />
             </svg>
             <span>Think Tank</span>
           </div>
           <div class="dm-ng-legend-item">
             <svg width="14" height="14" viewBox="-7 -7 14 14">
-              <polygon points="0,-6 5.2,-3 5.2,3 0,6 -5.2,3 -5.2,-3" fill="#5b8dce" opacity="0.8" />
+              <polygon points="0,-6 5.2,-3 5.2,3 0,6 -5.2,3 -5.2,-3" fill="#0a0a0a" opacity="0.8" />
             </svg>
             <span>K Street</span>
           </div>
@@ -86,13 +86,13 @@ const NetworkGraph: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
         <div class="dm-ng-legend-section">
           <div class="dm-ng-legend-item">
             <svg width="20" height="14" viewBox="0 0 20 14">
-              <line x1="1" y1="7" x2="19" y2="7" stroke="#7a7a86" stroke-width="1.2" stroke-opacity="0.6" />
+              <line x1="1" y1="7" x2="19" y2="7" stroke="#999" stroke-width="1.2" stroke-opacity="0.6" />
             </svg>
             <span>Allied</span>
           </div>
           <div class="dm-ng-legend-item">
             <svg width="20" height="14" viewBox="0 0 20 14">
-              <line x1="1" y1="7" x2="19" y2="7" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="4,3" stroke-opacity="0.8" />
+              <line x1="1" y1="7" x2="19" y2="7" stroke="#e63946" stroke-width="1.2" stroke-dasharray="4,3" stroke-opacity="0.8" />
             </svg>
             <span>Opposition</span>
           </div>

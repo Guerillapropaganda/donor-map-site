@@ -65,7 +65,7 @@ ArticleNav.css = `
   gap: 12px;
   margin-top: 40px;
   padding-top: 20px;
-  border-top: 1px solid #1e1e28;
+  border-top: 1px solid #ddd;
 }
 
 .article-nav-spacer {
@@ -78,9 +78,9 @@ ArticleNav.css = `
   flex-direction: column;
   gap: 4px;
   padding: 14px 16px;
-  border-radius: 6px;
-  border: 1px solid #1e1e28;
-  background: #0e0e14;
+  border-radius: 0;
+  border: 1px solid #ddd;
+  background: #f5f0eb;
   text-decoration: none !important;
   transition: border-color 0.15s, background 0.15s;
 }
@@ -105,12 +105,12 @@ ArticleNav.css = `
   font-weight: 700;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: #5b8dce;
+  color: #0a0a0a;
 }
 
 .article-nav-title {
   font-size: 13px;
-  color: #b4b4bc;
+  color: #333;
   line-height: 1.3;
   display: -webkit-box;
   -webkit-line-clamp: 2;

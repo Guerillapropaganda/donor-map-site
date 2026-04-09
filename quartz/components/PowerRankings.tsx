@@ -257,10 +257,10 @@ PowerRankings.css = `
   flex: 1;
   min-width: 200px;
   padding: 10px 14px;
-  background: #13131a;
-  border: 1px solid #1e1e28;
-  border-radius: 6px;
-  color: #e4e4e7;
+  background: #ece6dd;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  color: #0a0a0a;
   font-size: 13px;
   font-family: inherit;
   outline: none;
@@ -268,19 +268,19 @@ PowerRankings.css = `
 }
 
 .pr-search:focus {
-  border-color: #5b8dce;
+  border-color: #0a0a0a;
 }
 
 .pr-search::placeholder {
-  color: #7a7a86;
+  color: #999;
 }
 
 .pr-select {
   padding: 10px 14px;
-  background: #13131a;
-  border: 1px solid #1e1e28;
-  border-radius: 6px;
-  color: #a1a1aa;
+  background: #ece6dd;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  color: #777;
   font-size: 12px;
   font-family: 'Space Mono', monospace;
   cursor: pointer;
@@ -288,21 +288,21 @@ PowerRankings.css = `
 }
 
 .pr-select:focus {
-  border-color: #5b8dce;
+  border-color: #0a0a0a;
 }
 
 .pr-stats {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #63636e;
+  color: #999;
   letter-spacing: 1px;
 }
 
 /* Table */
 .pr-table-wrap {
   overflow-x: auto;
-  border: 1px solid #1e1e28;
-  border-radius: 8px;
+  border: 1px solid #ddd;
+  border-radius: 0;
 }
 
 .pr-table {
@@ -312,8 +312,8 @@ PowerRankings.css = `
 }
 
 .pr-table thead {
-  background: linear-gradient(180deg, #13131a 0%, #0e0e14 100%);
-  border-bottom: 2px solid #2a2a36;
+  background: linear-gradient(180deg, #ece6dd 0%, #f5f0eb 100%);
+  border-bottom: 2px solid #ddd;
 }
 
 .pr-table th {
@@ -321,7 +321,7 @@ PowerRankings.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #5b8dce;
+  color: #0a0a0a;
   padding: 14px 12px;
   text-align: left;
   white-space: nowrap;
@@ -332,7 +332,7 @@ PowerRankings.css = `
 .pr-th-status { width: 90px; text-align: center; }
 
 .pr-row {
-  border-bottom: 1px solid #1a1a22;
+  border-bottom: 1px solid #ddd;
   transition: background 0.1s;
 }
 
@@ -351,32 +351,32 @@ PowerRankings.css = `
   font-family: 'Space Mono', monospace;
   font-size: 14px;
   font-weight: 700;
-  color: #63636e;
+  color: #999;
 }
 
 .pr-row:nth-child(1) .pr-rank,
 .pr-row:nth-child(2) .pr-rank,
 .pr-row:nth-child(3) .pr-rank {
-  color: #f59e0b;
+  color: #fbbf24;
 }
 
 /* Name */
 .pr-donor-link {
-  color: #e4e4e7 !important;
+  color: #0a0a0a !important;
   text-decoration: none !important;
   font-weight: 600;
   border: none !important;
 }
 
 .pr-donor-link:hover {
-  color: #5b8dce !important;
+  color: #0a0a0a !important;
 }
 
 .pr-entity-type {
   display: block;
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #7a7a86;
+  color: #999;
   letter-spacing: 0.5px;
   margin-top: 2px;
 }
@@ -389,23 +389,23 @@ PowerRankings.css = `
   font-weight: 700;
   letter-spacing: 0.5px;
   padding: 3px 8px;
-  border-radius: 3px;
+  border-radius: 0;
   white-space: nowrap;
   background: rgba(91, 141, 206, 0.08);
-  color: #5b8dce;
+  color: #0a0a0a;
 }
 
-.pr-sector-wallstreet { color: #22c55e; background: rgba(34, 197, 94, 0.08); }
-.pr-sector-defenseintelligence { color: #ef4444; background: rgba(239, 68, 68, 0.08); }
-.pr-sector-israellobby { color: #f59e0b; background: rgba(245, 158, 11, 0.08); }
+.pr-sector-wallstreet { color: #16a34a; background: rgba(34, 197, 94, 0.08); }
+.pr-sector-defenseintelligence { color: #e63946; background: rgba(239, 68, 68, 0.08); }
+.pr-sector-israellobby { color: #fbbf24; background: rgba(245, 158, 11, 0.08); }
 .pr-sector-healthcare,
 .pr-sector-pharmahealthcare { color: #a78bfa; background: rgba(167, 139, 250, 0.08); }
 .pr-sector-energyutilities { color: #fb923c; background: rgba(251, 146, 60, 0.08); }
-.pr-sector-darkmoney { color: #ef4444; background: rgba(239, 68, 68, 0.08); }
+.pr-sector-darkmoney { color: #e63946; background: rgba(239, 68, 68, 0.08); }
 .pr-sector-techcrypto { color: #38bdf8; background: rgba(56, 189, 248, 0.08); }
-.pr-sector-megadonors { color: #f59e0b; background: rgba(245, 158, 11, 0.08); }
-.pr-sector-superpacs { color: #ef4444; background: rgba(239, 68, 68, 0.08); }
-.pr-sector-agriculture { color: #22c55e; background: rgba(34, 197, 94, 0.08); }
+.pr-sector-megadonors { color: #fbbf24; background: rgba(245, 158, 11, 0.08); }
+.pr-sector-superpacs { color: #e63946; background: rgba(239, 68, 68, 0.08); }
+.pr-sector-agriculture { color: #16a34a; background: rgba(34, 197, 94, 0.08); }
 .pr-sector-realestate { color: #fb923c; background: rgba(251, 146, 60, 0.08); }
 .pr-sector-laborunions { color: #3b82f6; background: rgba(59, 130, 246, 0.08); }
 
@@ -418,14 +418,14 @@ PowerRankings.css = `
   font-family: 'Space Mono', monospace;
   font-size: 16px;
   font-weight: 700;
-  color: #22c55e;
+  color: #16a34a;
 }
 
 .pr-reach-label {
   display: block;
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #7a7a86;
+  color: #999;
   letter-spacing: 0.5px;
   margin-top: 1px;
 }
@@ -440,10 +440,10 @@ PowerRankings.css = `
 .pr-issue-tag {
   font-size: 10px;
   font-family: 'Space Mono', monospace;
-  color: #a1a1aa;
+  color: #777;
   background: rgba(161, 161, 170, 0.06);
   padding: 2px 6px;
-  border-radius: 3px;
+  border-radius: 0;
   white-space: nowrap;
 }
 
@@ -458,21 +458,21 @@ PowerRankings.css = `
   font-weight: 700;
   letter-spacing: 1px;
   padding: 3px 8px;
-  border-radius: 3px;
+  border-radius: 0;
 }
 
 .pr-verified {
-  color: #22c55e;
+  color: #16a34a;
   background: rgba(34, 197, 94, 0.12);
 }
 
 .pr-draft {
-  color: #f59e0b;
+  color: #fbbf24;
   background: rgba(245, 158, 11, 0.12);
 }
 
 .pr-limited {
-  color: #ef4444;
+  color: #e63946;
   background: rgba(239, 68, 68, 0.12);
 }
 

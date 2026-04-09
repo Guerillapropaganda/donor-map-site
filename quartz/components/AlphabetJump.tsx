@@ -63,8 +63,8 @@ AlphabetJump.css = `
 .alphabet-jump {
   margin: 0 0 1.2rem 0;
   padding: 0.5rem 0;
-  border-top: 1px solid #1a1a22;
-  border-bottom: 1px solid #1a1a22;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
 }
 .alphabet-jump-inner {
   display: flex;
@@ -75,21 +75,21 @@ AlphabetJump.css = `
 .alphabet-jump-btn {
   background: transparent;
   border: none;
-  color: #7a7a86;
+  color: #999;
   font-family: "Space Mono", monospace;
   font-size: 12px;
   padding: 4px 8px;
   cursor: pointer;
-  border-radius: 3px;
+  border-radius: 0;
   min-width: 24px;
   transition: background 0.12s, color 0.12s;
 }
 .alphabet-jump-btn:hover:not(:disabled) {
-  background: #1a1a22;
-  color: #5b8dce;
+  background: #ddd;
+  color: #0a0a0a;
 }
 .alphabet-jump-btn:disabled {
-  color: #7a7a86;
+  color: #999;
   cursor: default;
 }
 @media (max-width: 800px) {

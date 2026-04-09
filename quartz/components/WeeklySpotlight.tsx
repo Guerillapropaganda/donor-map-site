@@ -178,13 +178,13 @@ WeeklySpotlight.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #f59e0b;
+  color: #fbbf24;
   margin-bottom: 16px;
 }
 
 .ws-hero-card {
   display: block;
-  background: linear-gradient(135deg, #13131a 0%, #111118 100%);
+  background: linear-gradient(135deg, #ece6dd 0%, #ece6dd 100%);
   border: 2px solid rgba(245, 158, 11, 0.25);
   border-radius: 12px;
   padding: 32px;
@@ -194,7 +194,7 @@ WeeklySpotlight.css = `
 }
 
 .ws-hero-card:hover {
-  border-color: #f59e0b;
+  border-color: #fbbf24;
 }
 
 .ws-hero-top {
@@ -207,7 +207,7 @@ WeeklySpotlight.css = `
 .ws-hero-name {
   font-size: 32px !important;
   font-weight: 700 !important;
-  color: #e4e4e7 !important;
+  color: #0a0a0a !important;
   margin: 0 0 8px 0 !important;
   border: none !important;
   padding: 0 !important;
@@ -224,16 +224,16 @@ WeeklySpotlight.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #5b8dce;
+  color: #0a0a0a;
   background: rgba(91, 141, 206, 0.1);
   padding: 3px 10px;
-  border-radius: 3px;
+  border-radius: 0;
 }
 
 .ws-hero-type {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #63636e;
+  color: #999;
   letter-spacing: 0.5px;
   padding: 3px 10px;
 }
@@ -249,19 +249,19 @@ WeeklySpotlight.css = `
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   letter-spacing: 2px;
-  color: #7a7a86;
+  color: #999;
 }
 
 .ws-date-value {
   font-family: 'Space Mono', monospace;
   font-size: 12px;
-  color: #63636e;
+  color: #999;
 }
 
 .ws-hero-reason {
   font-size: 15px;
   line-height: 1.7;
-  color: #b4b4bc;
+  color: #333;
   margin-bottom: 20px;
 }
 
@@ -272,7 +272,7 @@ WeeklySpotlight.css = `
   padding: 16px 20px;
   background: rgba(245, 158, 11, 0.06);
   border: 1px solid rgba(245, 158, 11, 0.15);
-  border-radius: 8px;
+  border-radius: 0;
   margin-bottom: 20px;
 }
 
@@ -280,14 +280,14 @@ WeeklySpotlight.css = `
   font-family: 'Space Mono', monospace;
   font-size: 24px;
   font-weight: 700;
-  color: #f59e0b;
+  color: #fbbf24;
 }
 
 .ws-stat-text {
   font-family: 'Space Mono', monospace;
   font-size: 13px;
   font-weight: 600;
-  color: #f59e0b;
+  color: #fbbf24;
   letter-spacing: 0.5px;
 }
 
@@ -310,13 +310,13 @@ WeeklySpotlight.css = `
   font-family: 'Space Mono', monospace;
   font-size: 24px;
   font-weight: 700;
-  color: #22c55e;
+  color: #16a34a;
 }
 
 .ws-reach-label {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #63636e;
+  color: #999;
   letter-spacing: 0.5px;
 }
 
@@ -329,17 +329,17 @@ WeeklySpotlight.css = `
 .ws-issue-tag {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #a1a1aa;
+  color: #777;
   background: rgba(161, 161, 170, 0.06);
   padding: 3px 8px;
-  border-radius: 3px;
+  border-radius: 0;
 }
 
 .ws-hero-cta {
   font-family: 'Space Mono', monospace;
   font-size: 12px;
   font-weight: 700;
-  color: #f59e0b;
+  color: #fbbf24;
   letter-spacing: 0.5px;
 }
 
@@ -349,7 +349,7 @@ WeeklySpotlight.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #63636e;
+  color: #999;
   margin-top: 32px;
   margin-bottom: 12px;
 }
@@ -362,9 +362,9 @@ WeeklySpotlight.css = `
 
 .ws-upcoming-card {
   display: block;
-  background: #111118;
-  border: 1px solid #1e1e28;
-  border-radius: 8px;
+  background: #ece6dd;
+  border: 1px solid #ddd;
+  border-radius: 0;
   padding: 16px;
   text-decoration: none !important;
   color: inherit !important;
@@ -378,7 +378,7 @@ WeeklySpotlight.css = `
 .ws-upcoming-date {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #7a7a86;
+  color: #999;
   letter-spacing: 1px;
   margin-bottom: 6px;
 }
@@ -386,14 +386,14 @@ WeeklySpotlight.css = `
 .ws-upcoming-name {
   font-size: 14px;
   font-weight: 600;
-  color: #e4e4e7;
+  color: #0a0a0a;
   margin-bottom: 4px;
 }
 
 .ws-upcoming-sector {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #5b8dce;
+  color: #0a0a0a;
 }
 
 /* Archive */
@@ -408,7 +408,7 @@ WeeklySpotlight.css = `
   align-items: center;
   gap: 16px;
   padding: 10px 14px;
-  border-radius: 6px;
+  border-radius: 0;
   text-decoration: none !important;
   color: inherit !important;
   transition: background 0.15s;
@@ -421,7 +421,7 @@ WeeklySpotlight.css = `
 .ws-archive-date {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
-  color: #7a7a86;
+  color: #999;
   flex-shrink: 0;
   width: 90px;
 }
@@ -429,17 +429,17 @@ WeeklySpotlight.css = `
 .ws-archive-name {
   font-size: 13px;
   font-weight: 600;
-  color: #b4b4bc;
+  color: #333;
   flex: 1;
 }
 
 .ws-archive-sector {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #5b8dce;
+  color: #0a0a0a;
   background: rgba(91, 141, 206, 0.06);
   padding: 2px 8px;
-  border-radius: 3px;
+  border-radius: 0;
   flex-shrink: 0;
 }
 

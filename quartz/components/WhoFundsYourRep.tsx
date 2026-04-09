@@ -249,7 +249,7 @@ WhoFundsYourRep.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #63636e;
+  color: #999;
   margin-bottom: 16px;
 }
 
@@ -265,15 +265,15 @@ WhoFundsYourRep.css = `
   align-items: center;
   justify-content: center;
   padding: 12px 4px;
-  background: #13131a;
-  border: 1px solid #1e1e28;
-  border-radius: 6px;
+  background: #ece6dd;
+  border: 1px solid #ddd;
+  border-radius: 0;
   cursor: pointer;
   transition: all 0.15s;
 }
 
 .wf-state-btn:hover {
-  border-color: #5b8dce;
+  border-color: #0a0a0a;
   background: rgba(91, 141, 206, 0.06);
 }
 
@@ -281,14 +281,14 @@ WhoFundsYourRep.css = `
   font-family: 'Space Mono', monospace;
   font-size: 16px;
   font-weight: 700;
-  color: #e4e4e7;
+  color: #0a0a0a;
   letter-spacing: 1px;
 }
 
 .wf-state-count {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #7a7a86;
+  color: #999;
   margin-top: 2px;
 }
 
@@ -299,13 +299,13 @@ WhoFundsYourRep.css = `
   align-items: center;
   margin-bottom: 24px;
   padding-bottom: 16px;
-  border-bottom: 1px solid #1e1e28;
+  border-bottom: 1px solid #ddd;
 }
 
 .wf-state-title {
   font-size: 28px !important;
   font-weight: 700 !important;
-  color: #e4e4e7 !important;
+  color: #0a0a0a !important;
   margin: 0 !important;
   border: none !important;
   padding: 0 !important;
@@ -316,10 +316,10 @@ WhoFundsYourRep.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #5b8dce;
+  color: #0a0a0a;
   background: rgba(91, 141, 206, 0.08);
   border: 1px solid rgba(91, 141, 206, 0.2);
-  border-radius: 4px;
+  border-radius: 0;
   padding: 8px 16px;
   cursor: pointer;
   transition: all 0.15s;
@@ -327,7 +327,7 @@ WhoFundsYourRep.css = `
 
 .wf-back-btn:hover {
   background: rgba(91, 141, 206, 0.15);
-  border-color: #5b8dce;
+  border-color: #0a0a0a;
 }
 
 /* Chamber groups */
@@ -340,18 +340,18 @@ WhoFundsYourRep.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #63636e;
+  color: #999;
   margin-bottom: 12px;
   padding-bottom: 8px;
-  border-bottom: 1px solid #1a1a22;
+  border-bottom: 1px solid #ddd;
 }
 
 /* Rep cards */
 .wf-rep-card {
   display: block;
-  background: #111118;
-  border: 1px solid #1e1e28;
-  border-radius: 8px;
+  background: #ece6dd;
+  border: 1px solid #ddd;
+  border-radius: 0;
   padding: 20px;
   margin-bottom: 10px;
   text-decoration: none !important;
@@ -385,7 +385,7 @@ WhoFundsYourRep.css = `
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 6px;
+  border-radius: 0;
   flex-shrink: 0;
 }
 
@@ -395,12 +395,12 @@ WhoFundsYourRep.css = `
 }
 
 .wf-rep {
-  color: #ef4444;
+  color: #e63946;
   background: rgba(239, 68, 68, 0.15);
 }
 
 .wf-ind {
-  color: #f59e0b;
+  color: #fbbf24;
   background: rgba(245, 158, 11, 0.15);
 }
 
@@ -412,13 +412,13 @@ WhoFundsYourRep.css = `
 .wf-rep-name {
   font-size: 16px;
   font-weight: 600;
-  color: #e4e4e7;
+  color: #0a0a0a;
 }
 
 .wf-rep-meta {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #63636e;
+  color: #999;
   letter-spacing: 0.5px;
   margin-top: 2px;
 }
@@ -429,17 +429,17 @@ WhoFundsYourRep.css = `
   font-weight: 700;
   letter-spacing: 1px;
   padding: 3px 8px;
-  border-radius: 3px;
+  border-radius: 0;
   flex-shrink: 0;
 }
 
 .wf-verified {
-  color: #22c55e;
+  color: #16a34a;
   background: rgba(34, 197, 94, 0.12);
 }
 
 .wf-draft {
-  color: #f59e0b;
+  color: #fbbf24;
   background: rgba(245, 158, 11, 0.12);
 }
 
@@ -453,7 +453,7 @@ WhoFundsYourRep.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
-  color: #22c55e;
+  color: #16a34a;
   margin-bottom: 8px;
 }
 
@@ -466,17 +466,17 @@ WhoFundsYourRep.css = `
 .wf-donor-chip {
   font-size: 11px;
   font-weight: 500;
-  color: #b4b4bc;
+  color: #333;
   background: rgba(34, 197, 94, 0.06);
   border: 1px solid rgba(34, 197, 94, 0.12);
   padding: 4px 10px;
-  border-radius: 4px;
+  border-radius: 0;
 }
 
 .wf-donor-more {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #63636e;
+  color: #999;
   padding: 4px 8px;
 }
 
@@ -491,10 +491,10 @@ WhoFundsYourRep.css = `
 .wf-committee-tag {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #5b8dce;
+  color: #0a0a0a;
   background: rgba(91, 141, 206, 0.06);
   padding: 2px 8px;
-  border-radius: 3px;
+  border-radius: 0;
 }
 
 /* Issues */
@@ -507,10 +507,10 @@ WhoFundsYourRep.css = `
 .wf-issue-tag {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #a1a1aa;
+  color: #777;
   background: rgba(161, 161, 170, 0.06);
   padding: 2px 6px;
-  border-radius: 3px;
+  border-radius: 0;
 }
 
 /* Mobile */

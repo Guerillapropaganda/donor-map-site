@@ -106,10 +106,10 @@ const EventTimeline: QuartzComponent = ({
   }
 
   const categoryColors: Record<string, string> = {
-    money: "#22c55e",
-    investigation: "#ef4444",
-    legislation: "#5b8dce",
-    news: "#a1a1aa",
+    money: "#16a34a",
+    investigation: "#e63946",
+    legislation: "#0a0a0a",
+    news: "#777",
   }
 
   return (
@@ -121,7 +121,7 @@ const EventTimeline: QuartzComponent = ({
       <div class="et-list">
         {recentEvents.map((ev) => {
           const icon = categoryIcons[ev.category] || "→"
-          const color = categoryColors[ev.category] || "#a1a1aa"
+          const color = categoryColors[ev.category] || "#777"
           const dateStr = ev.date
             ? new Date(ev.date + "T00:00:00").toLocaleDateString("en-US", {
                 month: "short",
@@ -178,7 +178,7 @@ EventTimeline.css = `
    ═══════════════════════════════════════════════ */
 
 .et-panel {
-  border-top: 1px solid #1e1e28;
+  border-top: 1px solid #ddd;
   margin-top: 16px;
   padding-top: 16px;
 }
@@ -201,7 +201,7 @@ EventTimeline.css = `
 .et-empty {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
-  color: #7a7a86;
+  color: #999;
   padding: 12px 0;
 }
 
@@ -209,7 +209,7 @@ EventTimeline.css = `
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   font-weight: 700;
-  color: #5b8dce;
+  color: #0a0a0a;
   background: rgba(91, 141, 206, 0.1);
   padding: 2px 7px;
   border-radius: 10px;
@@ -243,7 +243,7 @@ EventTimeline.css = `
   align-items: center;
   justify-content: center;
   border: 1px solid;
-  border-radius: 4px;
+  border-radius: 0;
   flex-shrink: 0;
   margin-top: 1px;
   background: rgba(0, 0, 0, 0.3);
@@ -258,7 +258,7 @@ a.et-link,
 .et-link-text {
   font-size: 11px;
   font-weight: 600;
-  color: #b4b4bc !important;
+  color: #333 !important;
   text-decoration: none !important;
   line-height: 1.4;
   display: block;
@@ -269,7 +269,7 @@ a.et-link,
 }
 
 a.et-link:hover {
-  color: #e4e4e7 !important;
+  color: #0a0a0a !important;
 }
 
 .et-meta {
@@ -282,14 +282,14 @@ a.et-link:hover {
 .et-date {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #5b8dce;
+  color: #0a0a0a;
   font-weight: 600;
 }
 
 .et-source {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #7a7a86;
+  color: #999;
   letter-spacing: 0.5px;
 }
 
@@ -305,13 +305,13 @@ a.et-link:hover {
   color: #8a8a96;
   background: rgba(99, 99, 110, 0.1);
   padding: 1px 6px;
-  border-radius: 3px;
+  border-radius: 0;
 }
 
 .et-more {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #7a7a86;
+  color: #999;
   text-align: center;
   padding: 8px 0 2px;
   letter-spacing: 0.5px;

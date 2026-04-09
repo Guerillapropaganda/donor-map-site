@@ -80,7 +80,7 @@ const RelatedProfiles: QuartzComponent = ({
 
 RelatedProfiles.css = `
 .related-profiles {
-  border-top: 1px solid #1e1e28;
+  border-top: 1px solid #ddd;
   margin-top: 16px;
   padding-top: 16px;
 }
@@ -96,7 +96,7 @@ RelatedProfiles.css = `
 
 .rp-subtitle {
   font-size: 10px;
-  color: #7a7a86;
+  color: #999;
   margin-bottom: 12px;
 }
 
@@ -119,11 +119,11 @@ RelatedProfiles.css = `
   align-items: center;
   gap: 8px;
   padding: 6px 8px;
-  border-radius: 4px;
+  border-radius: 0;
   text-decoration: none !important;
   border: none !important;
   transition: background 0.15s;
-  color: #b4b4bc !important;
+  color: #333 !important;
   font-size: 13px;
 }
 
@@ -137,29 +137,29 @@ RelatedProfiles.css = `
   font-weight: 700;
   letter-spacing: 1px;
   padding: 2px 5px;
-  border-radius: 3px;
+  border-radius: 0;
   white-space: nowrap;
   flex-shrink: 0;
 }
 
 .rp-type-pol {
   background: rgba(91, 141, 206, 0.15);
-  color: #5b8dce;
+  color: #0a0a0a;
 }
 
 .rp-type-donor {
   background: rgba(34, 197, 94, 0.15);
-  color: #22c55e;
+  color: #16a34a;
 }
 
 .rp-type-story {
   background: rgba(239, 68, 68, 0.15);
-  color: #ef4444;
+  color: #e63946;
 }
 
 .rp-type-other {
   background: rgba(245, 158, 11, 0.15);
-  color: #f59e0b;
+  color: #fbbf24;
 }
 
 .rp-name {
@@ -173,7 +173,7 @@ RelatedProfiles.css = `
 .rp-shared {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #7a7a86;
+  color: #999;
   flex-shrink: 0;
 }
 `

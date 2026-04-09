@@ -34,7 +34,7 @@ const VotingRecord: QuartzComponent = ({
     : "Very Conservative"
     : null
 
-  const partyColor = party.toLowerCase().startsWith("democrat") ? "#3b82f6" : "#ef4444"
+  const partyColor = party.toLowerCase().startsWith("democrat") ? "#3b82f6" : "#e63946"
   const govtrackId = fm["govtrack-id"] ? String(fm["govtrack-id"]) : null
   const title = String(fm.title ?? "").replace(/^_/, "").replace(/\s*Master Profile.*/, "")
 
@@ -67,17 +67,17 @@ const VotingRecord: QuartzComponent = ({
         {/* Missed Votes */}
         {missedPct !== null && (
           <div class="vr-stat-card">
-            <div class="vr-stat-ring" data-pct={missedPct} data-color={missedPct > 10 ? "#ef4444" : missedPct > 5 ? "#f59e0b" : "#22c55e"}>
+            <div class="vr-stat-ring" data-pct={missedPct} data-color={missedPct > 10 ? "#e63946" : missedPct > 5 ? "#fbbf24" : "#16a34a"}>
               <svg viewBox="0 0 36 36" class="vr-ring-svg">
                 <circle cx="18" cy="18" r="15.9" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="2.5" />
                 <circle cx="18" cy="18" r="15.9" fill="none"
-                  stroke={missedPct > 10 ? "#ef4444" : missedPct > 5 ? "#f59e0b" : "#22c55e"}
+                  stroke={missedPct > 10 ? "#e63946" : missedPct > 5 ? "#fbbf24" : "#16a34a"}
                   stroke-width="2.5" stroke-linecap="round"
                   stroke-dasharray={`${missedPct} ${100 - missedPct}`}
                   stroke-dashoffset="25"
                   class="vr-ring-progress" />
               </svg>
-              <span class="vr-ring-value" style={{ color: missedPct > 10 ? "#ef4444" : missedPct > 5 ? "#f59e0b" : "#22c55e" }}>
+              <span class="vr-ring-value" style={{ color: missedPct > 10 ? "#e63946" : missedPct > 5 ? "#fbbf24" : "#16a34a" }}>
                 {missedPct.toFixed(1)}%
               </span>
             </div>
@@ -104,7 +104,7 @@ const VotingRecord: QuartzComponent = ({
         {/* Leadership */}
         {leadership !== null && (
           <div class="vr-stat-card">
-            <div class="vr-leadership-value" style={{ color: leadership > 0.5 ? "#22c55e" : "#5b8dce" }}>
+            <div class="vr-leadership-value" style={{ color: leadership > 0.5 ? "#16a34a" : "#0a0a0a" }}>
               {leadership.toFixed(2)}
             </div>
             <span class="vr-stat-label">Leadership Score</span>
@@ -129,9 +129,9 @@ const VotingRecord: QuartzComponent = ({
 
 VotingRecord.css = `
 .vr-container {
-  background: #13131a;
-  border: 1px solid #1e1e28;
-  border-radius: 8px;
+  background: #ece6dd;
+  border: 1px solid #ddd;
+  border-radius: 0;
   padding: 16px;
   margin: 16px 0;
 }
@@ -142,20 +142,20 @@ VotingRecord.css = `
   align-items: center;
   margin-bottom: 16px;
   padding-bottom: 8px;
-  border-bottom: 1px solid #1e1e28;
+  border-bottom: 1px solid #ddd;
 }
 
 .vr-title {
   font-size: 9px;
   letter-spacing: 0.15em;
   font-weight: 700;
-  color: #5b8dce;
+  color: #0a0a0a;
   text-transform: uppercase;
 }
 
 .vr-source {
   font-size: 8px;
-  color: #7a7a86;
+  color: #999;
   letter-spacing: 0.1em;
 }
 
@@ -204,7 +204,7 @@ VotingRecord.css = `
 
 .vr-stat-label {
   font-size: 8px;
-  color: #7a7a86;
+  color: #999;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   text-align: center;
@@ -223,8 +223,8 @@ VotingRecord.css = `
 .vr-ideology-track {
   position: relative;
   height: 6px;
-  background: linear-gradient(to right, #3b82f6, #8b5cf6, #ef4444);
-  border-radius: 3px;
+  background: linear-gradient(to right, #3b82f6, #8b5cf6, #e63946);
+  border-radius: 0;
   margin: 12px 0 20px;
 }
 
@@ -237,10 +237,10 @@ VotingRecord.css = `
 .vr-ideology-dot {
   width: 14px;
   height: 14px;
-  background: #e4e4e7;
-  border: 2px solid #0c0c0f;
+  background: #0a0a0a;
+  border: 2px solid #f5f0eb;
   border-radius: 50%;
-  box-shadow: 0 0 8px rgba(228, 228, 231, 0.4);
+  box-shadow: none;
 }
 
 .vr-ideology-left {
@@ -257,7 +257,7 @@ VotingRecord.css = `
   right: 0;
   top: 14px;
   font-size: 7px;
-  color: #ef4444;
+  color: #e63946;
   letter-spacing: 0.1em;
 }
 
@@ -274,12 +274,12 @@ VotingRecord.css = `
   gap: 12px;
   margin-top: 12px;
   padding-top: 8px;
-  border-top: 1px solid #1e1e28;
+  border-top: 1px solid #ddd;
 }
 
 .vr-source-link {
   font-size: 9px;
-  color: #5b8dce;
+  color: #0a0a0a;
   text-decoration: none;
   opacity: 0.7;
   transition: opacity 0.2s;

@@ -39,19 +39,19 @@ interface GraphLink extends SimulationLinkDatum<GraphNode> {
 
 // Colors
 const COLORS = {
-  bg: "#0c0c0f",
-  surface: "#13131a",
-  border: "#1e1e28",
-  text: "#b4b4bc",
-  textDim: "#7a7a86",
-  textBright: "#e4e4e7",
+  bg: "#f5f0eb",
+  surface: "#ece6dd",
+  border: "#ddd",
+  text: "#333",
+  textDim: "#999",
+  textBright: "#0a0a0a",
   blue: "#3b82f6",
-  red: "#ef4444",
-  green: "#22c55e",
-  amber: "#f59e0b",
-  steel: "#5b8dce",
-  edgeDefault: "#1e1e28",
-  edgeHighlight: "#5b8dce",
+  red: "#e63946",
+  green: "#16a34a",
+  amber: "#fbbf24",
+  steel: "#0a0a0a",
+  edgeDefault: "#ddd",
+  edgeHighlight: "#0a0a0a",
 }
 
 const COLORS_PURPLE = "#a855f7"
@@ -271,7 +271,7 @@ function initNetworkGraph() {
       .join("path")
       .attr("class", "dm-ng-edge")
       .attr("fill", "none")
-      .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#ef4444" : "#1e1e2e")
+      .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#e63946" : "#1e1e2e")
       .attr("stroke-opacity", (l: any) => l.edgeType === "opposition" ? 0.6 : 0.35)
       .attr("stroke-width", (l: any) => l.edgeType === "opposition" ? 1 : 0.7)
       .attr("stroke-dasharray", (l: any) => l.edgeType === "opposition" ? "4,3" : "none")
@@ -377,7 +377,7 @@ function initNetworkGraph() {
             const t = (l.target as GraphNode).id
             const isConn = s === d.id || t === d.id
             if (!isConn) return "#1e1e2e"
-            return l.edgeType === "opposition" ? "#ef4444" : COLORS.edgeHighlight
+            return l.edgeType === "opposition" ? "#e63946" : COLORS.edgeHighlight
           })
           .attr("stroke-opacity", (l: any) => {
             const s = (l.source as GraphNode).id
@@ -434,7 +434,7 @@ function initNetworkGraph() {
         nodeEls.select(".dm-ng-glow-ring").attr("stroke-opacity", 0.15)
         nodeEls.select(".dm-ng-label").attr("display", "none").attr("fill-opacity", 1)
         linkEls
-          .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#ef4444" : "#1e1e2e")
+          .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#e63946" : "#1e1e2e")
           .attr("stroke-opacity", (l: any) => l.edgeType === "opposition" ? 0.6 : 0.35)
           .attr("stroke-width", (l: any) => l.edgeType === "opposition" ? 1 : 0.7)
           .attr("stroke-dasharray", (l: any) => l.edgeType === "opposition" ? "4,3" : "none")
@@ -564,15 +564,15 @@ function buildGraphLegend(nodes: any[], edges: any[], compact: boolean): HTMLEle
   const hasDem = nodes.some((n: any) => n.type === "politician" && n.party === "Democrat")
   const hasRep = nodes.some((n: any) => n.type === "politician" && n.party === "Republican")
   if (hasDem) nodeItems.push({ type: "politician", label: "Democrat", svg: `<polygon points="0,-5 4.3,-2.5 4.3,2.5 0,5 -4.3,2.5 -4.3,-2.5" fill="#3b82f6" opacity="0.8"/>` })
-  if (hasRep) nodeItems.push({ type: "politician", label: "Republican", svg: `<polygon points="0,-5 4.3,-2.5 4.3,2.5 0,5 -4.3,2.5 -4.3,-2.5" fill="#ef4444" opacity="0.8"/>` })
+  if (hasRep) nodeItems.push({ type: "politician", label: "Republican", svg: `<polygon points="0,-5 4.3,-2.5 4.3,2.5 0,5 -4.3,2.5 -4.3,-2.5" fill="#e63946" opacity="0.8"/>` })
 
   // Other types
   if (typesPresent.has("donor") || typesPresent.has("corporation") || typesPresent.has("pac"))
-    nodeItems.push({ type: "donor", label: "Donor / Corp", svg: `<rect x="-5" y="-3.5" width="10" height="7" rx="1.5" fill="#22c55e" opacity="0.8"/>` })
+    nodeItems.push({ type: "donor", label: "Donor / Corp", svg: `<rect x="-5" y="-3.5" width="10" height="7" rx="1.5" fill="#16a34a" opacity="0.8"/>` })
   if (typesPresent.has("think-tank"))
-    nodeItems.push({ type: "think-tank", label: "Think Tank", svg: `<polygon points="0,-5 5,0 0,5 -5,0" fill="#f59e0b" opacity="0.8"/>` })
+    nodeItems.push({ type: "think-tank", label: "Think Tank", svg: `<polygon points="0,-5 5,0 0,5 -5,0" fill="#fbbf24" opacity="0.8"/>` })
   if (typesPresent.has("lobbying"))
-    nodeItems.push({ type: "lobbying", label: "K Street", svg: `<polygon points="0,-5 4.3,-2.5 4.3,2.5 0,5 -4.3,2.5 -4.3,-2.5" fill="#5b8dce" opacity="0.8"/>` })
+    nodeItems.push({ type: "lobbying", label: "K Street", svg: `<polygon points="0,-5 4.3,-2.5 4.3,2.5 0,5 -4.3,2.5 -4.3,-2.5" fill="#0a0a0a" opacity="0.8"/>` })
   if (typesPresent.has("media"))
     nodeItems.push({ type: "media", label: "Media", svg: `<circle cx="0" cy="0" r="4" fill="#a855f7" opacity="0.8"/>` })
 
@@ -589,9 +589,9 @@ function buildGraphLegend(nodes: any[], edges: any[], compact: boolean): HTMLEle
 
   // Edge type items
   const edgeItems: { label: string; svg: string }[] = []
-  edgeItems.push({ label: "Allied", svg: `<line x1="0" y1="5" x2="16" y2="5" stroke="#7a7a86" stroke-width="1.2" stroke-opacity="0.5"/>` })
+  edgeItems.push({ label: "Allied", svg: `<line x1="0" y1="5" x2="16" y2="5" stroke="#999" stroke-width="1.2" stroke-opacity="0.5"/>` })
   if (hasOpposition) {
-    edgeItems.push({ label: "Opposition", svg: `<line x1="0" y1="5" x2="16" y2="5" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="3,2" stroke-opacity="0.8"/>` })
+    edgeItems.push({ label: "Opposition", svg: `<line x1="0" y1="5" x2="16" y2="5" stroke="#e63946" stroke-width="1.2" stroke-dasharray="3,2" stroke-opacity="0.8"/>` })
   }
 
   if (edgeItems.length > 0) {
@@ -681,7 +681,7 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
     .data(simLinks)
     .join("path")
     .attr("fill", "none")
-    .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#ef4444" : "#1e1e2e")
+    .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#e63946" : "#1e1e2e")
     .attr("stroke-opacity", (l: any) => l.edgeType === "opposition" ? 0.6 : 0.4)
     .attr("stroke-width", (l: any) => l.edgeType === "opposition" ? 1 : 0.6)
     .attr("stroke-dasharray", (l: any) => l.edgeType === "opposition" ? "4,3" : "none")
@@ -777,7 +777,7 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
           const t = (l.target as GraphNode).id
           const isConn = s === d.id || t === d.id
           if (!isConn) return "#1e1e2e"
-          return l.edgeType === "opposition" ? "#ef4444" : COLORS.edgeHighlight
+          return l.edgeType === "opposition" ? "#e63946" : COLORS.edgeHighlight
         })
         .attr("stroke-opacity", (l: any) => {
           const s = (l.source as GraphNode).id
@@ -800,7 +800,7 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
       nodeEls.select(".mini-shape").attr("fill-opacity", 0.8).attr("filter", "none")
       nodeEls.select(".mini-label").attr("display", expanded ? "block" : "none")
       linkEls
-        .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#ef4444" : "#1e1e2e")
+        .attr("stroke", (l: any) => l.edgeType === "opposition" ? "#e63946" : "#1e1e2e")
         .attr("stroke-opacity", (l: any) => l.edgeType === "opposition" ? 0.6 : 0.4)
         .attr("stroke-width", (l: any) => l.edgeType === "opposition" ? 1 : 0.6)
         .attr("stroke-dasharray", (l: any) => l.edgeType === "opposition" ? "4,3" : "none")

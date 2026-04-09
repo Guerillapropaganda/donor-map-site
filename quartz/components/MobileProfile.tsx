@@ -348,8 +348,8 @@ MobileProfile.css = `
   .mp-container {
     display: block;
     margin: 24px 0;
-    background: #13131a;
-    border: 1px solid #1e1e28;
+    background: #ece6dd;
+    border: 1px solid #ddd;
     border-radius: 10px;
     overflow: hidden;
   }
@@ -359,8 +359,8 @@ MobileProfile.css = `
     align-items: center;
     justify-content: space-between;
     padding: 14px 16px;
-    background: #0e0e14;
-    border-bottom: 1px solid #1e1e28;
+    background: #f5f0eb;
+    border-bottom: 1px solid #ddd;
   }
 
   .mp-title {
@@ -368,7 +368,7 @@ MobileProfile.css = `
     font-size: 10px;
     font-weight: 700;
     letter-spacing: 2px;
-    color: #5b8dce;
+    color: #0a0a0a;
   }
 
   .mp-name {
@@ -379,7 +379,7 @@ MobileProfile.css = `
 
   /* Sections */
   .mp-section {
-    border-bottom: 1px solid #1a1a22;
+    border-bottom: 1px solid #ddd;
   }
 
   .mp-section:last-child {
@@ -416,7 +416,7 @@ MobileProfile.css = `
     font-family: 'Space Mono', monospace;
     font-size: 11px;
     font-weight: 700;
-    color: #5b8dce;
+    color: #0a0a0a;
     background: rgba(91, 141, 206, 0.1);
     padding: 2px 8px;
     border-radius: 10px;
@@ -426,7 +426,7 @@ MobileProfile.css = `
     font-family: 'Space Mono', monospace;
     font-size: 16px;
     font-weight: 700;
-    color: #5b8dce;
+    color: #0a0a0a;
     width: 24px;
     text-align: center;
   }
@@ -449,7 +449,7 @@ MobileProfile.css = `
     color: #8a8a96;
     margin-bottom: 10px;
     padding-bottom: 8px;
-    border-bottom: 1px solid #1a1a22;
+    border-bottom: 1px solid #ddd;
   }
 
   /* Rows — donors, politicians */
@@ -458,7 +458,7 @@ MobileProfile.css = `
     align-items: center;
     gap: 8px;
     padding: 10px 8px;
-    border-radius: 6px;
+    border-radius: 0;
     text-decoration: none !important;
     color: inherit !important;
     transition: background 0.15s;
@@ -481,7 +481,7 @@ MobileProfile.css = `
   .mp-row-meta {
     font-family: 'Space Mono', monospace;
     font-size: 10px;
-    color: #7a7a86;
+    color: #999;
     flex-shrink: 0;
   }
 
@@ -489,7 +489,7 @@ MobileProfile.css = `
     font-family: 'Space Mono', monospace;
     font-size: 12px;
     font-weight: 700;
-    color: #22c55e;
+    color: #16a34a;
     flex-shrink: 0;
   }
 
@@ -503,7 +503,7 @@ MobileProfile.css = `
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 4px;
+    border-radius: 0;
     flex-shrink: 0;
   }
 
@@ -513,7 +513,7 @@ MobileProfile.css = `
   }
 
   .mp-rep {
-    color: #ef4444;
+    color: #e63946;
     background: rgba(239, 68, 68, 0.15);
   }
 
@@ -521,15 +521,15 @@ MobileProfile.css = `
   .mp-bs-card {
     padding: 10px;
     background: rgba(255, 255, 255, 0.02);
-    border-radius: 6px;
+    border-radius: 0;
     margin-bottom: 8px;
-    border: 1px solid #1e1e28;
+    border: 1px solid #ddd;
   }
 
   a.mp-bs-donor {
     font-size: 14px;
     font-weight: 700;
-    color: #5b8dce !important;
+    color: #0a0a0a !important;
     text-decoration: none !important;
     display: block;
     margin-bottom: 4px;
@@ -538,7 +538,7 @@ MobileProfile.css = `
   .mp-bs-also {
     font-family: 'Space Mono', monospace;
     font-size: 10px;
-    color: #7a7a86;
+    color: #999;
     letter-spacing: 1px;
     margin: 4px 0;
   }
@@ -557,7 +557,7 @@ MobileProfile.css = `
     color: #d4d4dc !important;
     text-decoration: none !important;
     padding: 4px 6px;
-    border-radius: 4px;
+    border-radius: 0;
   }
 
   a.mp-bs-pol:active {
@@ -567,7 +567,7 @@ MobileProfile.css = `
   /* Events */
   .mp-event {
     padding: 8px 0;
-    border-bottom: 1px solid #1a1a22;
+    border-bottom: 1px solid #ddd;
   }
 
   .mp-event:last-child {
@@ -593,20 +593,20 @@ MobileProfile.css = `
   .mp-event-date {
     font-family: 'Space Mono', monospace;
     font-size: 11px;
-    color: #5b8dce;
+    color: #0a0a0a;
     font-weight: 600;
   }
 
   .mp-event-source {
     font-family: 'Space Mono', monospace;
     font-size: 10px;
-    color: #7a7a86;
+    color: #999;
   }
 
   .mp-more {
     font-family: 'Space Mono', monospace;
     font-size: 11px;
-    color: #7a7a86;
+    color: #999;
     text-align: center;
     padding: 8px 0;
   }

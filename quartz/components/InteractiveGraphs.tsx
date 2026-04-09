@@ -41,25 +41,25 @@ InteractiveGraphs.afterDOMLoaded = `
 // ═══════════════════════════════════════════════
 
 const DM_COLORS = {
-  steel: '#5b8dce',
+  steel: '#0a0a0a',
   steelLight: '#8bb5e8',
   steelDim: 'rgba(91, 141, 206, 0.15)',
-  green: '#22c55e',
+  green: '#16a34a',
   greenDim: 'rgba(34, 197, 94, 0.08)',
-  red: '#ef4444',
+  red: '#e63946',
   redDim: 'rgba(239, 68, 68, 0.08)',
-  amber: '#f59e0b',
+  amber: '#fbbf24',
   amberDim: 'rgba(245, 158, 11, 0.08)',
   blue: '#3b82f6',
   blueDim: 'rgba(59, 130, 246, 0.15)',
-  bg: '#0c0c0f',
-  surface: '#13131a',
-  border: '#1e1e28',
-  textPrimary: '#e4e4e7',
-  textSecondary: '#b4b4bc',
-  textMuted: '#63636e',
+  bg: '#f5f0eb',
+  surface: '#ece6dd',
+  border: '#ddd',
+  textPrimary: '#0a0a0a',
+  textSecondary: '#333',
+  textMuted: '#999',
   dem: '#3b82f6',
-  rep: '#ef4444',
+  rep: '#e63946',
 };
 
 // ─── DATA ────────────────────────────────────
@@ -707,7 +707,7 @@ var NETWORK_DATA = {
   koch: {
     name: 'Koch Network',
     sub: '$578M raised in 2024 cycle',
-    color: '#ef4444',
+    color: '#e63946',
     orgs: [
       { name: 'Americans for Prosperity', tag: 'PAC', amt: 72000000 },
       { name: 'DonorsTrust', tag: 'DARK MONEY', amt: 124000000 },
@@ -733,7 +733,7 @@ var NETWORK_DATA = {
   musk: {
     name: 'Elon Musk',
     sub: '$292M spent in 2024 cycle',
-    color: '#22c55e',
+    color: '#16a34a',
     orgs: [
       { name: 'America PAC', tag: 'SUPER PAC', amt: 118600000 },
       { name: 'SpaceX', tag: 'CONTRACTOR', amt: 15000000 },
@@ -756,7 +756,7 @@ var NETWORK_DATA = {
   fairshake: {
     name: 'Fairshake PAC',
     sub: '$358M raised across 3 PACs',
-    color: '#5b8dce',
+    color: '#0a0a0a',
     orgs: [
       { name: 'Coinbase', tag: 'CORPORATE', amt: 131500000 },
       { name: 'Ripple', tag: 'CORPORATE', amt: 48500000 },
@@ -1044,10 +1044,10 @@ function renderContradictions(container) {
 // ─── SECTOR SPENDING DASHBOARD ─────────────
 
 var SECTOR_DATA = [
-  { name: 'Energy / Dark Money', org: 'Koch Network', spent: 12300000, returned: 1900000000000, policy: '2017 Tax Cuts ($1.9T)', color: '#ef4444' },
-  { name: 'Defense', org: 'Lockheed Martin', spent: 6400000, returned: 886000000000, policy: 'Defense Budget $886B', color: '#f59e0b' },
-  { name: 'Pharma', org: 'PhRMA', spent: 9800000, returned: 450000000000, policy: 'Drug Pricing Killed', color: '#22c55e' },
-  { name: 'Israel Lobby', org: 'AIPAC', spent: 21200000, returned: 3800000000, policy: 'Israel Aid $3.8B/yr', color: '#5b8dce' },
+  { name: 'Energy / Dark Money', org: 'Koch Network', spent: 12300000, returned: 1900000000000, policy: '2017 Tax Cuts ($1.9T)', color: '#e63946' },
+  { name: 'Defense', org: 'Lockheed Martin', spent: 6400000, returned: 886000000000, policy: 'Defense Budget $886B', color: '#fbbf24' },
+  { name: 'Pharma', org: 'PhRMA', spent: 9800000, returned: 450000000000, policy: 'Drug Pricing Killed', color: '#16a34a' },
+  { name: 'Israel Lobby', org: 'AIPAC', spent: 21200000, returned: 3800000000, policy: 'Israel Aid $3.8B/yr', color: '#0a0a0a' },
   { name: 'Wall Street', org: 'Goldman Sachs', spent: 8700000, returned: 18000000000, policy: 'Carried Interest Kept', color: '#a855f7' },
   { name: 'Real Estate', org: 'Realtors Assn', spent: 7100000, returned: 12000000000, policy: 'Housing Deregulation', color: '#06b6d4' },
   { name: 'Agriculture', org: 'Fanjul Family', spent: 2900000, returned: 1500000000, policy: 'Sugar Tariffs + Cuba Sanctions', color: '#84cc16' },
@@ -1111,17 +1111,17 @@ function renderSectorDashboard(container) {
 // ─── POLICY COST COMPARISON ────────────────
 
 var POLICY_COST_DATA = [
-  { name: 'Medicare for All (10yr)', cost: 32000000000000, category: 'healthcare', note: 'Replaces $45T in current spending; net savings ~$2T', color: '#22c55e', sources: 'Lancet, CBO, PERI' },
-  { name: 'Current US Healthcare (10yr)', cost: 45000000000000, category: 'healthcare', note: 'What we already spend — premiums, copays, deductibles, uninsured', color: '#ef4444', sources: 'CMS National Health Expenditure Data' },
-  { name: 'Iraq War (total)', cost: 3000000000000, category: 'war', note: '2003-2021 including veteran care, interest on borrowing', color: '#f59e0b', sources: 'Watson Institute, Brown University' },
-  { name: 'Afghanistan War (total)', cost: 2300000000000, category: 'war', note: '2001-2021 including reconstruction, veteran care', color: '#f59e0b', sources: 'Watson Institute, Brown University' },
+  { name: 'Medicare for All (10yr)', cost: 32000000000000, category: 'healthcare', note: 'Replaces $45T in current spending; net savings ~$2T', color: '#16a34a', sources: 'Lancet, CBO, PERI' },
+  { name: 'Current US Healthcare (10yr)', cost: 45000000000000, category: 'healthcare', note: 'What we already spend — premiums, copays, deductibles, uninsured', color: '#e63946', sources: 'CMS National Health Expenditure Data' },
+  { name: 'Iraq War (total)', cost: 3000000000000, category: 'war', note: '2003-2021 including veteran care, interest on borrowing', color: '#fbbf24', sources: 'Watson Institute, Brown University' },
+  { name: 'Afghanistan War (total)', cost: 2300000000000, category: 'war', note: '2001-2021 including reconstruction, veteran care', color: '#fbbf24', sources: 'Watson Institute, Brown University' },
   { name: '2017 Tax Cuts (10yr)', cost: 1900000000000, category: 'tax', note: 'Exposed $1.9T deficit; top 1% received 83% of benefits by 2027', color: '#a855f7', sources: 'CBO, Tax Policy Center' },
-  { name: 'Defense Budget (1yr)', cost: 886000000000, category: 'war', note: 'FY2024 — more than next 10 countries combined', color: '#f59e0b', sources: 'DoD Budget Request' },
+  { name: 'Defense Budget (1yr)', cost: 886000000000, category: 'war', note: 'FY2024 — more than next 10 countries combined', color: '#fbbf24', sources: 'DoD Budget Request' },
   { name: 'Student Loan Debt (total)', cost: 1700000000000, category: 'education', note: '43 million borrowers; avg $37,574 per person', color: '#06b6d4', sources: 'Federal Reserve, Dept of Education' },
-  { name: 'Free Public College (10yr)', cost: 800000000000, category: 'education', note: 'Tuition-free public universities for all Americans', color: '#22c55e', sources: 'Dept of Education estimates' },
-  { name: 'PhRMA Lobbying vs Savings', cost: 450000000000, category: 'pharma', note: '$9.8M in donations killed drug pricing reform — saved industry $450B', color: '#ef4444', sources: 'OpenSecrets, CBO' },
-  { name: 'Israel Aid (10yr)', cost: 38000000000, category: 'foreign', note: '$3.8B/year in military aid; bipartisan 97-3 vote', color: '#5b8dce', sources: 'State Dept, CRS' },
-  { name: 'AIPAC + UDP Spending (2024)', cost: 121200000, category: 'lobbying', note: 'AIPAC PAC ($21.2M) + United Democracy Project Super PAC ($100M) in 2024 cycle alone', color: '#5b8dce', sources: 'OpenSecrets, FEC' },
+  { name: 'Free Public College (10yr)', cost: 800000000000, category: 'education', note: 'Tuition-free public universities for all Americans', color: '#16a34a', sources: 'Dept of Education estimates' },
+  { name: 'PhRMA Lobbying vs Savings', cost: 450000000000, category: 'pharma', note: '$9.8M in donations killed drug pricing reform — saved industry $450B', color: '#e63946', sources: 'OpenSecrets, CBO' },
+  { name: 'Israel Aid (10yr)', cost: 38000000000, category: 'foreign', note: '$3.8B/year in military aid; bipartisan 97-3 vote', color: '#0a0a0a', sources: 'State Dept, CRS' },
+  { name: 'AIPAC + UDP Spending (2024)', cost: 121200000, category: 'lobbying', note: 'AIPAC PAC ($21.2M) + United Democracy Project Super PAC ($100M) in 2024 cycle alone', color: '#0a0a0a', sources: 'OpenSecrets, FEC' },
   { name: 'Flint Water Fix', cost: 600000000, category: 'infrastructure', note: 'Total cost to replace all lead pipes in Flint, MI', color: '#06b6d4', sources: 'EPA, State of Michigan' },
   { name: 'Koch Tax Cut Donations', cost: 12300000, category: 'lobbying', note: 'What Koch spent to get $1.9T in tax cuts — 154,472x return', color: '#a855f7', sources: 'OpenSecrets' },
 ];
@@ -1129,14 +1129,14 @@ var POLICY_COST_DATA = [
 var COST_COMPARISONS = [
   {
     title: 'Medicare for All vs. What We Already Pay',
-    left: { name: 'Medicare for All (10yr)', cost: 32000000000000, color: '#22c55e' },
-    right: { name: 'Current System (10yr)', cost: 45000000000000, color: '#ef4444' },
+    left: { name: 'Medicare for All (10yr)', cost: 32000000000000, color: '#16a34a' },
+    right: { name: 'Current System (10yr)', cost: 45000000000000, color: '#e63946' },
     verdict: 'Medicare for All would SAVE $13 trillion over 10 years and cover everyone. The "too expensive" argument costs us more.',
   },
   {
     title: 'Wars We Funded vs. Healthcare We Refuse To',
-    left: { name: 'Iraq + Afghanistan Wars', cost: 5300000000000, color: '#f59e0b' },
-    right: { name: 'Medicare for All (10yr)', cost: 32000000000000, color: '#22c55e' },
+    left: { name: 'Iraq + Afghanistan Wars', cost: 5300000000000, color: '#fbbf24' },
+    right: { name: 'Medicare for All (10yr)', cost: 32000000000000, color: '#16a34a' },
     verdict: 'We found $5.3 trillion for two wars with no debate. Healthcare for everyone is "too expensive" — but would replace a $45T system and save $13T.',
   },
   {
@@ -1148,19 +1148,19 @@ var COST_COMPARISONS = [
   {
     title: 'Fixing Flint vs. AIPAC Spending',
     left: { name: 'Fix Flint Water Crisis', cost: 600000000, color: '#06b6d4' },
-    right: { name: 'AIPAC + UDP (2024 cycle)', cost: 121200000, color: '#5b8dce' },
+    right: { name: 'AIPAC + UDP (2024 cycle)', cost: 121200000, color: '#0a0a0a' },
     verdict: 'AIPAC and its Super PAC spent $121M in one election cycle to secure $38 BILLION in aid. We could fix Flint 5x over for what they spend in one cycle.',
   },
   {
     title: 'What Lobbying Buys',
     left: { name: 'Koch Donations', cost: 12300000, color: '#a855f7' },
-    right: { name: 'Tax Cuts They Got', cost: 1900000000000, color: '#ef4444' },
+    right: { name: 'Tax Cuts They Got', cost: 1900000000000, color: '#e63946' },
     verdict: '$12.3M in donations bought $1.9 TRILLION in tax cuts. Return on investment: 154,472x.',
   },
   {
     title: 'PhRMA: The $9.8M That Cost Americans $450B',
-    left: { name: 'PhRMA Donations', cost: 9800000, color: '#22c55e' },
-    right: { name: 'Drug Pricing Reform Killed', cost: 450000000000, color: '#ef4444' },
+    left: { name: 'PhRMA Donations', cost: 9800000, color: '#16a34a' },
+    right: { name: 'Drug Pricing Reform Killed', cost: 450000000000, color: '#e63946' },
     verdict: '$9.8M in donations to both parties killed drug pricing negotiation — costing Americans $450 billion.',
   },
 ];
@@ -1701,7 +1701,7 @@ InteractiveGraphs.css = `
 .dm-graph-hint {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
-  color: #63636e;
+  color: #999;
   text-align: center;
   margin-top: 12px;
   letter-spacing: 0.5px;
@@ -1719,19 +1719,19 @@ InteractiveGraphs.css = `
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #63636e;
+  color: #999;
   margin-bottom: 4px;
 }
 
 .dm-roi-header-sub, .dm-bs-header-sub {
   font-size: 13px;
-  color: #a1a1aa;
+  color: #777;
 }
 
 .dm-roi-card {
-  background: #13131a;
-  border: 1px solid #1e1e28;
-  border-radius: 8px;
+  background: #ece6dd;
+  border: 1px solid #ddd;
+  border-radius: 0;
   padding: 20px;
   margin-bottom: 16px;
   transition: border-color 0.2s;
@@ -1751,12 +1751,12 @@ InteractiveGraphs.css = `
 
 .dm-roi-donor {
   font-weight: 700;
-  color: #5b8dce;
+  color: #0a0a0a;
   font-size: 15px;
 }
 
 .dm-roi-arrow {
-  color: #63636e;
+  color: #999;
   font-size: 14px;
 }
 
@@ -1767,7 +1767,7 @@ InteractiveGraphs.css = `
 
 .dm-roi-policy {
   font-size: 13px;
-  color: #a1a1aa;
+  color: #777;
   margin-bottom: 16px;
   padding-left: 2px;
 }
@@ -1789,7 +1789,7 @@ InteractiveGraphs.css = `
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   letter-spacing: 1.5px;
-  color: #63636e;
+  color: #999;
   width: 90px;
   flex-shrink: 0;
 }
@@ -1797,30 +1797,30 @@ InteractiveGraphs.css = `
 .dm-roi-bar-track {
   flex: 1;
   height: 8px;
-  background: #1a1a22;
-  border-radius: 4px;
+  background: #ddd;
+  border-radius: 0;
   overflow: hidden;
 }
 
 .dm-roi-bar-fill {
   height: 100%;
-  border-radius: 4px;
+  border-radius: 0;
   transition: width 0.6s ease;
 }
 
 .dm-roi-bar-donated {
-  background: #5b8dce;
+  background: #0a0a0a;
 }
 
 .dm-roi-bar-value-fill {
-  background: #22c55e;
+  background: #16a34a;
 }
 
 .dm-roi-bar-value {
   font-family: 'Space Mono', monospace;
   font-size: 12px;
   font-weight: 700;
-  color: #b4b4bc;
+  color: #333;
   width: 60px;
   text-align: right;
   flex-shrink: 0;
@@ -1833,7 +1833,7 @@ InteractiveGraphs.css = `
   padding: 8px 14px;
   background: rgba(34, 197, 94, 0.08);
   border: 1px solid rgba(34, 197, 94, 0.15);
-  border-radius: 6px;
+  border-radius: 0;
   width: fit-content;
 }
 
@@ -1846,27 +1846,27 @@ InteractiveGraphs.css = `
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   letter-spacing: 2px;
-  color: #63636e;
+  color: #999;
 }
 
 .dm-roi-badge-value {
   font-family: 'Space Mono', monospace;
   font-size: 18px;
   font-weight: 700;
-  color: #22c55e;
+  color: #16a34a;
 }
 
 .dm-roi-badge-na .dm-roi-badge-value {
-  color: #f59e0b;
+  color: #fbbf24;
   font-size: 14px;
 }
 
 /* ─── Both Sides ─────────────────────────── */
 
 .dm-bs-card {
-  background: #13131a;
-  border: 1px solid #1e1e28;
-  border-radius: 8px;
+  background: #ece6dd;
+  border: 1px solid #ddd;
+  border-radius: 0;
   padding: 20px;
   margin-bottom: 20px;
   transition: border-color 0.2s;
@@ -1883,7 +1883,7 @@ InteractiveGraphs.css = `
 .dm-bs-donor-name {
   font-size: 18px;
   font-weight: 700;
-  color: #5b8dce;
+  color: #0a0a0a;
   margin-bottom: 4px;
 }
 
@@ -1897,17 +1897,17 @@ InteractiveGraphs.css = `
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   letter-spacing: 1px;
-  color: #63636e;
-  background: #1a1a22;
+  color: #999;
+  background: #ddd;
   padding: 2px 8px;
-  border-radius: 3px;
+  border-radius: 0;
 }
 
 .dm-bs-total {
   font-family: 'Space Mono', monospace;
   font-size: 12px;
   font-weight: 700;
-  color: #22c55e;
+  color: #16a34a;
 }
 
 .dm-bs-split {
@@ -1938,12 +1938,12 @@ InteractiveGraphs.css = `
   align-items: center;
   padding: 6px 10px;
   background: rgba(255, 255, 255, 0.02);
-  border-radius: 4px;
+  border-radius: 0;
 }
 
 .dm-bs-recip-name {
   font-size: 13px;
-  color: #b4b4bc;
+  color: #333;
   font-weight: 500;
 }
 
@@ -1951,7 +1951,7 @@ InteractiveGraphs.css = `
   font-family: 'Space Mono', monospace;
   font-size: 11px;
   font-weight: 700;
-  color: #22c55e;
+  color: #16a34a;
 }
 
 .dm-bs-center {
@@ -1967,7 +1967,7 @@ InteractiveGraphs.css = `
   display: flex;
   width: 80px;
   height: 6px;
-  border-radius: 3px;
+  border-radius: 0;
   overflow: hidden;
 }
 
@@ -1977,7 +1977,7 @@ InteractiveGraphs.css = `
 }
 
 .dm-bs-bar-rep {
-  background: #ef4444;
+  background: #e63946;
   height: 100%;
 }
 
@@ -1992,10 +1992,10 @@ InteractiveGraphs.css = `
 
 .dm-bs-policy {
   font-size: 13px;
-  color: #a1a1aa;
+  color: #777;
   padding: 10px 14px;
   background: rgba(245, 158, 11, 0.06);
-  border-left: 3px solid #f59e0b;
+  border-left: 3px solid #fbbf24;
   border-radius: 0 6px 6px 0;
 }
 
@@ -2004,7 +2004,7 @@ InteractiveGraphs.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #f59e0b;
+  color: #fbbf24;
 }
 
 /* ─── Mobile responsive ──────────────────── */
@@ -2055,16 +2055,16 @@ InteractiveGraphs.css = `
    ═══════════════════════════════════════════════ */
 
 .dm-hp-tools {
-  background: #13131a;
-  border: 1px solid #1e1e28;
+  background: #ece6dd;
+  border: 1px solid #ddd;
   border-radius: 10px;
   overflow: hidden;
 }
 
 .dm-hp-tabs {
   display: flex;
-  border-bottom: 1px solid #1e1e28;
-  background: #0e0e14;
+  border-bottom: 1px solid #ddd;
+  background: #f5f0eb;
 }
 
 .dm-hp-tab {
@@ -2072,7 +2072,7 @@ InteractiveGraphs.css = `
   padding: 14px 12px;
   border: none;
   background: none;
-  color: #63636e;
+  color: #999;
   font-family: 'Space Grotesk', sans-serif;
   font-size: 14px;
   font-weight: 600;
@@ -2083,13 +2083,13 @@ InteractiveGraphs.css = `
 }
 
 .dm-hp-tab:hover {
-  color: #a1a1aa;
+  color: #777;
   background: rgba(91, 141, 206, 0.04);
 }
 
 .dm-hp-tab-active {
-  color: #5b8dce !important;
-  border-bottom-color: #5b8dce !important;
+  color: #0a0a0a !important;
+  border-bottom-color: #0a0a0a !important;
   background: rgba(91, 141, 206, 0.06) !important;
 }
 
@@ -2134,10 +2134,10 @@ InteractiveGraphs.css = `
 
 .dm-net-btn {
   padding: 8px 18px;
-  border: 1px solid #1e1e28;
-  border-radius: 6px;
-  background: #13131a;
-  color: #b4b4bc;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  background: #ece6dd;
+  color: #333;
   font-family: 'Space Grotesk', sans-serif;
   font-size: 14px;
   font-weight: 600;
@@ -2147,12 +2147,12 @@ InteractiveGraphs.css = `
 
 .dm-net-btn:hover {
   border-color: rgba(91, 141, 206, 0.3);
-  color: #e4e4e7;
+  color: #0a0a0a;
 }
 
 .dm-net-btn.active {
-  border-color: #5b8dce;
-  color: #5b8dce;
+  border-color: #0a0a0a;
+  color: #0a0a0a;
   background: rgba(91, 141, 206, 0.08);
 }
 
@@ -2180,7 +2180,7 @@ InteractiveGraphs.css = `
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #ef4444;
+  color: #e63946;
   margin-bottom: 4px;
 }
 
@@ -2190,13 +2190,13 @@ InteractiveGraphs.css = `
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #63636e;
+  color: #999;
   margin-bottom: 4px;
 }
 
 .dm-contra-sub, .dm-sector-sub {
   font-size: 13px;
-  color: #a1a1aa;
+  color: #777;
 }
 
 .dm-contra-filters {
@@ -2207,9 +2207,9 @@ InteractiveGraphs.css = `
 
 .dm-contra-filter-btn {
   padding: 6px 16px;
-  border: 1px solid #1e1e28;
-  border-radius: 4px;
-  background: #13131a;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  background: #ece6dd;
   font-family: 'Space Mono', monospace;
   font-size: 11px;
   font-weight: 700;
@@ -2234,9 +2234,9 @@ InteractiveGraphs.css = `
 }
 
 .dm-contra-card {
-  background: #13131a;
-  border: 1px solid #1e1e28;
-  border-radius: 8px;
+  background: #ece6dd;
+  border: 1px solid #ddd;
+  border-radius: 0;
   padding: 20px;
   transition: border-color 0.2s;
 }
@@ -2270,36 +2270,36 @@ InteractiveGraphs.css = `
 .dm-contra-name {
   font-size: 16px;
   font-weight: 700;
-  color: #e4e4e7;
+  color: #0a0a0a;
 }
 
 .dm-contra-sector {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #63636e;
+  color: #999;
   letter-spacing: 0.5px;
   margin-left: auto;
 }
 
 .dm-contra-says, .dm-contra-pays, .dm-contra-result {
   padding: 10px 12px;
-  border-radius: 6px;
+  border-radius: 0;
   margin-bottom: 8px;
 }
 
 .dm-contra-says {
   background: rgba(91, 141, 206, 0.06);
-  border-left: 3px solid #5b8dce;
+  border-left: 3px solid #0a0a0a;
 }
 
 .dm-contra-pays {
   background: rgba(34, 197, 94, 0.06);
-  border-left: 3px solid #22c55e;
+  border-left: 3px solid #16a34a;
 }
 
 .dm-contra-result {
   background: rgba(239, 68, 68, 0.06);
-  border-left: 3px solid #ef4444;
+  border-left: 3px solid #e63946;
 }
 
 .dm-contra-label {
@@ -2307,13 +2307,13 @@ InteractiveGraphs.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #63636e;
+  color: #999;
   margin-bottom: 4px;
 }
 
 .dm-contra-text {
   font-size: 13px;
-  color: #b4b4bc;
+  color: #333;
   line-height: 1.5;
 }
 
@@ -2322,10 +2322,10 @@ InteractiveGraphs.css = `
    ═══════════════════════════════════════════════ */
 
 .dm-sector-card {
-  background: #13131a;
-  border: 1px solid #1e1e28;
+  background: #ece6dd;
+  border: 1px solid #ddd;
   border-left: 3px solid;
-  border-radius: 8px;
+  border-radius: 0;
   padding: 20px;
   margin-bottom: 12px;
   transition: border-color 0.2s;
@@ -2347,13 +2347,13 @@ InteractiveGraphs.css = `
 .dm-sector-name {
   font-size: 16px;
   font-weight: 700;
-  color: #e4e4e7;
+  color: #0a0a0a;
 }
 
 .dm-sector-org {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
-  color: #63636e;
+  color: #999;
 }
 
 .dm-sector-bars {
@@ -2373,7 +2373,7 @@ InteractiveGraphs.css = `
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   letter-spacing: 1.5px;
-  color: #63636e;
+  color: #999;
   width: 60px;
   flex-shrink: 0;
 }
@@ -2381,14 +2381,14 @@ InteractiveGraphs.css = `
 .dm-sector-bar-track {
   flex: 1;
   height: 8px;
-  background: #1a1a22;
-  border-radius: 4px;
+  background: #ddd;
+  border-radius: 0;
   overflow: hidden;
 }
 
 .dm-sector-bar-fill {
   height: 100%;
-  border-radius: 4px;
+  border-radius: 0;
   transition: width 0.8s ease;
 }
 
@@ -2396,7 +2396,7 @@ InteractiveGraphs.css = `
   font-family: 'Space Mono', monospace;
   font-size: 12px;
   font-weight: 700;
-  color: #b4b4bc;
+  color: #333;
   width: 70px;
   text-align: right;
   flex-shrink: 0;
@@ -2412,7 +2412,7 @@ InteractiveGraphs.css = `
 
 .dm-sector-policy {
   font-size: 12px;
-  color: #a1a1aa;
+  color: #777;
 }
 
 .dm-sector-roi {
@@ -2433,10 +2433,10 @@ InteractiveGraphs.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #ef4444;
+  color: #e63946;
   background: rgba(239, 68, 68, 0.08);
   border: 1px solid rgba(239, 68, 68, 0.2);
-  border-radius: 4px;
+  border-radius: 0;
   padding: 4px 12px;
   margin-bottom: 8px;
 }
@@ -2445,13 +2445,13 @@ InteractiveGraphs.css = `
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: #ef4444;
+  background: #e63946;
   animation: dm-contra-pulse 2s ease-in-out infinite;
 }
 
 @keyframes dm-contra-pulse {
-  0%, 100% { opacity: 1; box-shadow: 0 0 4px rgba(239, 68, 68, 0.6); }
-  50% { opacity: 0.3; box-shadow: 0 0 1px rgba(239, 68, 68, 0.2); }
+  0%, 100% { opacity: 1; box-shadow: none; }
+  50% { opacity: 0.3; box-shadow: none; }
 }
 
 /* ═══════════════════════════════════════════════
@@ -2460,8 +2460,8 @@ InteractiveGraphs.css = `
 
 .dm-profile-tools {
   margin-top: 40px;
-  background: #0e0e14;
-  border: 1px solid #1e1e28;
+  background: #f5f0eb;
+  border: 1px solid #ddd;
   border-radius: 10px;
   overflow: hidden;
 }
@@ -2476,20 +2476,20 @@ InteractiveGraphs.css = `
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #5b8dce;
+  color: #0a0a0a;
   margin-bottom: 4px;
 }
 
 .dm-profile-tools-sub {
   font-size: 13px;
-  color: #a1a1aa;
+  color: #777;
 }
 
 .dm-profile-svp {
-  background: #13131a;
+  background: #ece6dd;
   border: 1px solid rgba(239, 68, 68, 0.25);
-  border-left: 3px solid #ef4444;
-  border-radius: 8px;
+  border-left: 3px solid #e63946;
+  border-radius: 0;
   padding: 20px;
   margin: 16px 0 24px;
 }
@@ -2506,7 +2506,7 @@ InteractiveGraphs.css = `
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #ef4444;
+  color: #e63946;
 }
 
 /* ═══════════════════════════════════════════════
@@ -2523,13 +2523,13 @@ InteractiveGraphs.css = `
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #ef4444;
+  color: #e63946;
   margin-bottom: 4px;
 }
 
 .dm-costs-sub {
   font-size: 13px;
-  color: #a1a1aa;
+  color: #777;
 }
 
 .dm-costs-toggle {
@@ -2540,10 +2540,10 @@ InteractiveGraphs.css = `
 
 .dm-costs-toggle-btn {
   padding: 6px 16px;
-  border: 1px solid #1e1e28;
-  border-radius: 4px;
-  background: #13131a;
-  color: #b4b4bc;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  background: #ece6dd;
+  color: #333;
   font-family: 'Space Mono', monospace;
   font-size: 11px;
   font-weight: 700;
@@ -2557,17 +2557,17 @@ InteractiveGraphs.css = `
 }
 
 .dm-costs-toggle-btn.active {
-  border-color: #5b8dce;
-  color: #5b8dce;
+  border-color: #0a0a0a;
+  color: #0a0a0a;
   background: rgba(91, 141, 206, 0.08);
 }
 
 /* Side-by-side comparison cards */
 
 .dm-costs-compare-card {
-  background: #13131a;
-  border: 1px solid #1e1e28;
-  border-radius: 8px;
+  background: #ece6dd;
+  border: 1px solid #ddd;
+  border-radius: 0;
   padding: 20px;
   margin-bottom: 16px;
   transition: border-color 0.2s;
@@ -2580,7 +2580,7 @@ InteractiveGraphs.css = `
 .dm-costs-compare-title {
   font-size: 15px;
   font-weight: 700;
-  color: #e4e4e7;
+  color: #0a0a0a;
   margin-bottom: 16px;
   display: flex;
   justify-content: space-between;
@@ -2590,10 +2590,10 @@ InteractiveGraphs.css = `
 .dm-costs-ratio {
   font-size: 11px;
   font-weight: 600;
-  color: #f59e0b;
+  color: #fbbf24;
   background: rgba(245, 158, 11, 0.12);
   padding: 2px 8px;
-  border-radius: 4px;
+  border-radius: 0;
   white-space: nowrap;
 }
 
@@ -2612,7 +2612,7 @@ InteractiveGraphs.css = `
 
 .dm-costs-compare-label {
   font-size: 12px;
-  color: #b4b4bc;
+  color: #333;
   width: 180px;
   flex-shrink: 0;
 }
@@ -2620,14 +2620,14 @@ InteractiveGraphs.css = `
 .dm-costs-compare-track {
   flex: 1;
   height: 14px;
-  background: #1a1a22;
-  border-radius: 4px;
+  background: #ddd;
+  border-radius: 0;
   overflow: hidden;
 }
 
 .dm-costs-compare-fill {
   height: 100%;
-  border-radius: 4px;
+  border-radius: 0;
   transition: width 0.8s ease;
 }
 
@@ -2642,10 +2642,10 @@ InteractiveGraphs.css = `
 
 .dm-costs-verdict {
   font-size: 13px;
-  color: #e4e4e7;
+  color: #0a0a0a;
   padding: 12px 14px;
   background: rgba(239, 68, 68, 0.06);
-  border-left: 3px solid #ef4444;
+  border-left: 3px solid #e63946;
   border-radius: 0 6px 6px 0;
   line-height: 1.5;
   font-weight: 500;
@@ -2654,9 +2654,9 @@ InteractiveGraphs.css = `
 /* Full scale view */
 
 .dm-costs-scale-card {
-  background: #13131a;
-  border: 1px solid #1e1e28;
-  border-radius: 8px;
+  background: #ece6dd;
+  border: 1px solid #ddd;
+  border-radius: 0;
   padding: 16px 20px;
   margin-bottom: 8px;
   transition: border-color 0.2s;
@@ -2681,7 +2681,7 @@ InteractiveGraphs.css = `
 .dm-costs-scale-name {
   font-size: 14px;
   font-weight: 600;
-  color: #e4e4e7;
+  color: #0a0a0a;
   flex: 1;
 }
 
@@ -2694,21 +2694,21 @@ InteractiveGraphs.css = `
 
 .dm-costs-scale-bar-track {
   height: 8px;
-  background: #1a1a22;
-  border-radius: 4px;
+  background: #ddd;
+  border-radius: 0;
   overflow: hidden;
   margin-bottom: 6px;
 }
 
 .dm-costs-scale-bar-fill {
   height: 100%;
-  border-radius: 4px;
+  border-radius: 0;
   transition: width 0.8s ease;
 }
 
 .dm-costs-scale-note {
   font-size: 12px;
-  color: #63636e;
+  color: #999;
   line-height: 1.4;
 }
 
