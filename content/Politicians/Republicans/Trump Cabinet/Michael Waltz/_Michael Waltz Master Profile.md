@@ -1,17 +1,17 @@
 ---
-title: "Michael Waltz"
+title: Michael Waltz
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 issues:
-  - "Defense & Military"
-total-received: "$3,109"
-fec-candidate-id: "H8FL06148"
-related: "[[Fanjul Family - Florida Crystals]]"
+  - Defense & Military
+total-received: '$3,109'
+fec-candidate-id: H8FL06148
+related: '[[Fanjul Family - Florida Crystals]]'
 govtrack-id: 412764
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -20,6 +20,7 @@ source-types:
   - FEC
   - GovTrack
 corroboration-count: 3
+donors: '[[WITH HONOR FUND, INC.]]'
 ---
 
 #politician #republican #trump-cabinet #un-ambassador #national-security #defense #signalgate #class-analysis #follow-the-money
