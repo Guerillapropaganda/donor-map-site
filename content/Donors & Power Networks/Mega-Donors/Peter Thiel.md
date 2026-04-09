@@ -21,7 +21,6 @@ regulatory-agencies:
   - Federal Trade Commission
 related: >-
   [[The Thiel Pipeline - From Yale to VP]] · [[The Billionaire Cabinet -
-  Wealthiest Administration in History]] · [[The Billionaire Cabinet -
   Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced
   the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson
   Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising
