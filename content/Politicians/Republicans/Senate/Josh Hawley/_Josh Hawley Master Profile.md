@@ -23,7 +23,7 @@ corroboration-count: 2
 known-gaps:
   - No voting record data
   - No mapped relationships
-opposes: '[[PATRIOTS PREVAIL PAC]] · [[MAJORITY FORWARD]] · [[SMP]]'
+opposes: '[[PATRIOTS PREVAIL PAC]] · [[MAJORITY FORWARD]] · [[SMP]] · [[WOMEN VOTE!]]'
 ---
 
 
