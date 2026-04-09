@@ -168,11 +168,11 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 
 ### Sources
 
-- [Prison Legal News: Aramark food quality investigations](https://www.prisonlegalnews.org/news/2024/may/1/aramark-prison-food-thought/) (Tier 2)
-- [OpenSecrets: Aramark PAC and lobbying data](https://www.opensecrets.org/orgs/aramark-corp/summary?id=D000024107) (Tier 2)
-- [Michigan Public: Aramark contract termination (2015)](https://www.michiganpublic.org/politics-government/2015-07-13/michigan-will-end-its-contract-with-aramark-for-prison-food-services) (Tier 1)
-- [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3)
-- [Federal court filings documented in multiple sources](https://www.themarshallproject.org/2025/12/06/prison-food-abuse-aramark-lawsuit) (Tier 1)
+- [Prison Legal News: Aramark food quality investigations](https://www.prisonlegalnews.org/news/2024/may/1/aramark-prison-food-thought/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Aramark PAC and lobbying data](https://www.opensecrets.org/orgs/aramark-corp/summary?id=D000024107) (Tier 2) (VERIFIED)
+- [Michigan Public: Aramark contract termination (2015)](https://www.michiganpublic.org/politics-government/2015-07-13/michigan-will-end-its-contract-with-aramark-for-prison-food-services) (Tier 1) (VERIFIED)
+- [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3) (VERIFIED)
+- [Federal court filings documented in multiple sources](https://www.themarshallproject.org/2025/12/06/prison-food-abuse-aramark-lawsuit) (Tier 1) (VERIFIED)
 
 content-readiness:: ready
 research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6B corrections revenue, Union Supply acquisition, commissary trap analysis, SF County $19.7M contract, 300 CA employees banned, 130+ federal lawsuits. 5 sources, Tier 1-3. All ### headers. Promoted Session 38l.
@@ -188,8 +188,8 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 | Total Expenses | $1.2M |
 | Net Assets | $1.2M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 276727955](https://projects.propublica.org/nonprofits/organizations/276727955) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F276727955_202312_990O_2024061722529605.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 276727955](https://projects.propublica.org/nonprofits/organizations/276727955) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F276727955_202312_990O_2024061722529605.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -208,7 +208,7 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 - HARPER v. ARAMARK SERVICES, INC. (2026) — District Court, S.D. Florida
 - The Cannabist Company Holdings (Canada) Inc. (2026) — United States Bankruptcy Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Aramark%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Aramark%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -222,13 +222,13 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 
 **Notable filings:**
 
-- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1584509/000010290926000685/0000102909-26-000685-index.htm)
-- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000076/0001584509-26-000076-index.htm)
-- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000075/0001584509-26-000075-index.htm)
-- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000074/0001584509-26-000074-index.htm)
-- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000073/0001584509-26-000073-index.htm)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1584509/000010290926000685/0000102909-26-000685-index.htm) (VERIFIED)
+- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000076/0001584509-26-000076-index.htm) (VERIFIED)
+- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000075/0001584509-26-000075-index.htm) (VERIFIED)
+- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000074/0001584509-26-000074-index.htm) (VERIFIED)
+- 2026-03-05 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000073/0001584509-26-000073-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Aramark%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Aramark%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -242,15 +242,15 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 | Agencies | Agriculture Department, Antitrust Division, Employment and Training Administration, Federal Trade Commission, Food and Nutrition Service, Interior Department, Justice Department, Labor Department +2 more |
 
 **Recent regulatory activity:**
-- [United States v. Reddy Ice LLC, et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/02/18/2026-03102/united-states-v-reddy-ice-llc-et-al-proposed-final-judgment-and-competitive-impact-statement) (2026-02-18) — Justice Department
-- [Notice of Intent To Award a Sole-Source Concession Contract for Visitor Services at Bryce Canyon National Park](https://www.federalregister.gov/documents/2025/11/18/2025-20192/notice-of-intent-to-award-a-sole-source-concession-contract-for-visitor-services-at-bryce-canyon) (2025-11-18) — Interior Department
-- [Notice of Intent To Extend and Continue Concession Contracts and Award Temporary Concession Contracts](https://www.federalregister.gov/documents/2025/10/02/2025-19359/notice-of-intent-to-extend-and-continue-concession-contracts-and-award-temporary-concession) (2025-10-02) — Interior Department
-- [Notice of Intent To Extend Concession Contracts at Yellowstone National Park](https://www.federalregister.gov/documents/2025/01/21/2025-01240/notice-of-intent-to-extend-concession-contracts-at-yellowstone-national-park) (2025-01-21) — Interior Department
-- [Notice of Intent To Extend and Continue Concession Contracts and Award Temporary Concession Contracts](https://www.federalregister.gov/documents/2024/10/25/2024-24872/notice-of-intent-to-extend-and-continue-concession-contracts-and-award-temporary-concession) (2024-10-25) — Interior Department
-- [Standard for Determining Joint Employer Status](https://www.federalregister.gov/documents/2023/10/27/2023-23573/standard-for-determining-joint-employer-status) (2023-10-27) — National Labor Relations Board ★
+- [United States v. Reddy Ice LLC, et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/02/18/2026-03102/united-states-v-reddy-ice-llc-et-al-proposed-final-judgment-and-competitive-impact-statement) (VERIFIED) (2026-02-18) — Justice Department
+- [Notice of Intent To Award a Sole-Source Concession Contract for Visitor Services at Bryce Canyon National Park](https://www.federalregister.gov/documents/2025/11/18/2025-20192/notice-of-intent-to-award-a-sole-source-concession-contract-for-visitor-services-at-bryce-canyon) (VERIFIED) (2025-11-18) — Interior Department
+- [Notice of Intent To Extend and Continue Concession Contracts and Award Temporary Concession Contracts](https://www.federalregister.gov/documents/2025/10/02/2025-19359/notice-of-intent-to-extend-and-continue-concession-contracts-and-award-temporary-concession) (VERIFIED) (2025-10-02) — Interior Department
+- [Notice of Intent To Extend Concession Contracts at Yellowstone National Park](https://www.federalregister.gov/documents/2025/01/21/2025-01240/notice-of-intent-to-extend-concession-contracts-at-yellowstone-national-park) (VERIFIED) (2025-01-21) — Interior Department
+- [Notice of Intent To Extend and Continue Concession Contracts and Award Temporary Concession Contracts](https://www.federalregister.gov/documents/2024/10/25/2024-24872/notice-of-intent-to-extend-and-continue-concession-contracts-and-award-temporary-concession) (VERIFIED) (2024-10-25) — Interior Department
+- [Standard for Determining Joint Employer Status](https://www.federalregister.gov/documents/2023/10/27/2023-23573/standard-for-determining-joint-employer-status) (VERIFIED) (2023-10-27) — National Labor Relations Board ★
 - ... and 105 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Aramark%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Aramark%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Spending (USASpending)
@@ -272,7 +272,7 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 | $1.2M | Department of Homeland Security | RESERVISTS LODGING/MEALS IGF::CT::IGF |
 | $1.1M | Department of the Interior | VISITOR TRANSPORTATION SERVICE FOR NATIONAL PARK SERVICE - INTERIOR REGIONS 8, 9, 10, AND 12, YOSEMI |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/51228162-3071-aad7-ea2a-2d3d08d780eb-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/51228162-3071-aad7-ea2a-2d3d08d780eb-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Vehicle Safety (NHTSA)
@@ -290,7 +290,7 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Aramark) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Aramark) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -340,5 +340,5 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 | Caterers (722320) | $363K |
 | Linen Supply (812331) | $191K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->

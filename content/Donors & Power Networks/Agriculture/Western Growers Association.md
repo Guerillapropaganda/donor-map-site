@@ -119,7 +119,7 @@ The position is not contradictory — it is coherent from a class standpoint. Th
 — 2024: $68,502 in contributions
 — 2021-22: $80,000
 — 2019-20: $49,000
-[FEC: Western Growers Political Action Committee](https://www.fec.gov/data/committee/C00193979/) (Tier 1)
+[FEC: Western Growers Political Action Committee](https://www.fec.gov/data/committee/C00193979/) (Tier 1) (VERIFIED)
 
 **California lobbying:** ~$700,000 (specific year unclear); $190,000 in federal lobbying (2024). ~~[Senate LDA: Western Growers Association Lobbying Filings](https://lda.gov/filings/public/filing/search/?client_name=Western+Growers)~~ (was Tier 1 — lda.gov mid-migration, reinstate after June 2026)
 
@@ -164,16 +164,16 @@ Immigration — H-2A program, undocumented workforce, sanctuary policy
 | Total Expenses | $392K |
 | Net Assets | $849K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 751972150](https://projects.propublica.org/nonprofits/organizations/751972150) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F751972150_202312_990O_2024061722526159.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 751972150](https://projects.propublica.org/nonprofits/organizations/751972150) (Tier 1) (VERIFIED)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F751972150_202312_990O_2024061722526159.pdf) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [OpenSecrets: Western Growers Association PAC](https://www.opensecrets.org/orgs/western-growers-assn/summary?id=D000029824) (Tier 1)
-- [FPPC: Western Growers PAC filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [CalMatters: Federal judge weighs H-2A wage cuts to CA immigrant farmworkers](https://calmatters.org/justice/2026/03/farmworker-h2a-wages/) (Tier 2)
+- [OpenSecrets: Western Growers Association PAC](https://www.opensecrets.org/orgs/western-growers-assn/summary?id=D000029824) (Tier 1) (NEEDS REVIEW)
+- [FPPC: Western Growers PAC filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
+- [CalMatters: Federal judge weighs H-2A wage cuts to CA immigrant farmworkers](https://calmatters.org/justice/2026/03/farmworker-h2a-wages/) (Tier 2) (VERIFIED)
 
 research-status:: ready — large commercial growers CA/AZ/CO/NM, PAC $49K-$80K/cycle, $700K CA lobbying, dual opposition pattern (anti-enforcement + anti-union), PAGA reform $9.5M coalition, AB 2183 opposition. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 content-readiness:: ready
@@ -194,7 +194,7 @@ content-readiness:: ready
 - Western Growers Association v. Agricultural Labor Relations Board (2025) — District Court, E.D. California
 - California Chamber of Commerce v. Bonta (2024) — District Court, E.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Western%20Growers%20Association%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Western%20Growers%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -211,14 +211,14 @@ content-readiness:: ready
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/751972150) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/751972150) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -236,7 +236,7 @@ content-readiness:: ready
 - 2003-05-28 — **10KSB**: 10KSB
 - 2001-08-20 — **SB-2**: SB-2
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20Growers%20Association%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20Growers%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -250,15 +250,15 @@ content-readiness:: ready
 | Agencies | Agricultural Marketing Service, Agriculture Department, Environmental Protection Agency, Fish and Wildlife Service, Food and Drug Administration, Health and Human Services Department, Homeland Security Department, Interior Department +2 more |
 
 **Recent regulatory activity:**
-- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption](https://www.federalregister.gov/documents/2015/11/27/2015-28159/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption) (2015-11-27) — Health and Human Services Department ★
-- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption](https://www.federalregister.gov/documents/2013/01/16/2013-00123/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption) (2013-01-16) — Health and Human Services Department ★
-- [Perishable Agricultural Commodities Act: Increase in License Fees](https://www.federalregister.gov/documents/2010/08/24/2010-20978/perishable-agricultural-commodities-act-increase-in-license-fees) (2010-08-24) — Agriculture Department
-- [Draft Guidance for Industry: Guide to Minimize Microbial Food Safety Hazards of Leafy Greens; Availability](https://www.federalregister.gov/documents/2009/08/03/E9-18451/draft-guidance-for-industry-guide-to-minimize-microbial-food-safety-hazards-of-leafy-greens) (2009-08-03) — Health and Human Services Department
-- [Hazardous Materials: Miscellaneous Cargo Tank Motor Vehicle and Cylinder Issues; Petitions for Rulemaking](https://www.federalregister.gov/documents/2009/04/09/E9-8021/hazardous-materials-miscellaneous-cargo-tank-motor-vehicle-and-cylinder-issues-petitions-for) (2009-04-09) — Transportation Department
-- [Safe Harbor Procedures for Employers Who Receive a No-Match Letter: Clarification; Final Regulatory Flexibility Analysis](https://www.federalregister.gov/documents/2008/10/28/E8-25544/safe-harbor-procedures-for-employers-who-receive-a-no-match-letter-clarification-final-regulatory) (2008-10-28) — Homeland Security Department
+- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption](https://www.federalregister.gov/documents/2015/11/27/2015-28159/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption) (VERIFIED) (2015-11-27) — Health and Human Services Department ★
+- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption](https://www.federalregister.gov/documents/2013/01/16/2013-00123/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption) (VERIFIED) (2013-01-16) — Health and Human Services Department ★
+- [Perishable Agricultural Commodities Act: Increase in License Fees](https://www.federalregister.gov/documents/2010/08/24/2010-20978/perishable-agricultural-commodities-act-increase-in-license-fees) (VERIFIED) (2010-08-24) — Agriculture Department
+- [Draft Guidance for Industry: Guide to Minimize Microbial Food Safety Hazards of Leafy Greens; Availability](https://www.federalregister.gov/documents/2009/08/03/E9-18451/draft-guidance-for-industry-guide-to-minimize-microbial-food-safety-hazards-of-leafy-greens) (VERIFIED) (2009-08-03) — Health and Human Services Department
+- [Hazardous Materials: Miscellaneous Cargo Tank Motor Vehicle and Cylinder Issues; Petitions for Rulemaking](https://www.federalregister.gov/documents/2009/04/09/E9-8021/hazardous-materials-miscellaneous-cargo-tank-motor-vehicle-and-cylinder-issues-petitions-for) (VERIFIED) (2009-04-09) — Transportation Department
+- [Safe Harbor Procedures for Employers Who Receive a No-Match Letter: Clarification; Final Regulatory Flexibility Analysis](https://www.federalregister.gov/documents/2008/10/28/E8-25544/safe-harbor-procedures-for-employers-who-receive-a-no-match-letter-clarification-final-regulatory) (VERIFIED) (2008-10-28) — Homeland Security Department
 - ... and 16 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Western%20Growers%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Western%20Growers%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### DOJ Press Releases
@@ -270,13 +270,13 @@ content-readiness:: ready
 
 **Recent press releases:**
 
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
+- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) (VERIFIED) — USAO - New York, Northern
+- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) (VERIFIED) — USAO - Texas, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) (VERIFIED) — USAO - Massachusetts
+- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) (VERIFIED) — USAO - Louisiana, Eastern
 - ... and 264,332 more
 
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Western%20Growers%20Association%22&sort=date) (Tier 1)
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Western%20Growers%20Association%22&sort=date) (Tier 1) (VERIFIED)
 <!-- auto:doj-press end -->

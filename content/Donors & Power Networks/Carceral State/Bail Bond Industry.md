@@ -100,13 +100,13 @@ Ten states have no licensure requirements for bail agents. Only 22 states requir
 
 ### Sources
 
-- [Ballotpedia: California Proposition 25 (2020) donor data](https://ballotpedia.org/California_Proposition_25,_Replace_Cash_Bail_with_Risk_Assessments_Referendum_%282020%29) (Tier 1)
-- [Brennan Center for Justice: How Profit Shapes the Bail Bond System](https://www.brennancenter.org/our-work/analysis-opinion/how-profit-shapes-bail-bond-system) (Tier 2)
-- [ACLU: Statement on Endeavour Capital's Divestment (2020)](https://www.aclu.org/press-releases/aclu-and-color-change-statement-endeavour-capitals-divestment-predatory-profit-bail) (Tier 2)
-- [In re Kenneth Humphrey, California Supreme Court (2021)](https://law.justia.com/cases/california/supreme-court/2021/s247278.html) (Tier 1)
-- [California Department of Insurance: Seaview Insurance records](https://www.aclu.org/documents/final-letter-aclu-sent-endeavour-capital) (Tier 1)
-- [Private Equity Stakeholder Project: Endeavour Capital bail bond coverage](https://pestakeholder.org/news/following-aclu-report-endeavour-capital-exits-bail-bond-investment-2/) (Tier 3)
-- [Color of Change: Endeavour Capital Statement](https://colorofchange.org/blog/internal_press/aclu-and-color-of-change-statement-on-endeavour-capitals-divestment-from-predatory-for-profit-bail-industry/) (Tier 3)
+- [Ballotpedia: California Proposition 25 (2020) donor data](https://ballotpedia.org/California_Proposition_25,_Replace_Cash_Bail_with_Risk_Assessments_Referendum_%282020%29) (Tier 1) (VERIFIED)
+- [Brennan Center for Justice: How Profit Shapes the Bail Bond System](https://www.brennancenter.org/our-work/analysis-opinion/how-profit-shapes-bail-bond-system) (Tier 2) (VERIFIED)
+- [ACLU: Statement on Endeavour Capital's Divestment (2020)](https://www.aclu.org/press-releases/aclu-and-color-change-statement-endeavour-capitals-divestment-predatory-profit-bail) (Tier 2) (VERIFIED)
+- ~~[In re Kenneth Humphrey, California Supreme Court (2021)](https://law.justia.com/cases/california/supreme-court/2021/s247278.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [California Department of Insurance: Seaview Insurance records](https://www.aclu.org/documents/final-letter-aclu-sent-endeavour-capital) (Tier 1) (VERIFIED)
+- [Private Equity Stakeholder Project: Endeavour Capital bail bond coverage](https://pestakeholder.org/news/following-aclu-report-endeavour-capital-exits-bail-bond-investment-2/) (Tier 3) (VERIFIED)
+- [Color of Change: Endeavour Capital Statement](https://colorofchange.org/blog/internal_press/aclu-and-color-of-change-statement-on-endeavour-capitals-divestment-from-predatory-for-profit-bail-industry/) (Tier 3) (VERIFIED)
 
 research-status:: ready — $2-3.5B annual market, Prop 25 $11.26M No campaign, Endeavour/Triton $2.79M, CCPOA $2M, Humphrey decision, SB 262, class analysis, 6 insurance company domination. 8 sources, Tier 1-3. All ### headers. Promoted Session 38l.
 content-readiness:: ready

@@ -41,8 +41,8 @@ CoreCivic's revenue breakdown reveals the real business model: ICE contracts acc
 
 CoreCivic's political operation in the 2024 cycle: $784,974 in total contributions (PAC + individual), $1.77 million in lobbying, 60% of lobbyists (6 of 10) are government alumni. CEO Damon Hininger personally contributed $300,000 to a joint Trump-RNC fundraising committee. CoreCivic donated $500,000 to the Trump-Vance inaugural committee in December 2024 — double its $250,000 contribution to Trump's 2016 inaugural committee.
 
-- [OpenSecrets: CoreCivic organizational profile](https://www.opensecrets.org/orgs/corecivic-inc/summary?id=D000021940) (Tier 1)
-- [SEC EDGAR: CoreCivic Inc. (CIK 0001070985) — 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=corecivic&CIK=&type=10-K&dateb=&owner=include&count=10&search_text=&action=getcompany) (Tier 1)
+- ~~[OpenSecrets: CoreCivic organizational profile](https://www.opensecrets.org/orgs/corecivic-inc/summary?id=D000021940)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [SEC EDGAR: CoreCivic Inc. (CIK 0001070985) — 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=corecivic&CIK=&type=10-K&dateb=&owner=include&count=10&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 
 ---
 
@@ -78,8 +78,8 @@ The Tennessee concentration is notable: CoreCivic is headquartered in Brentwood,
 > [!money]
 > CoreCivic's 2024 political investment totals roughly $2.5 million when combining contributions ($785K), lobbying ($1.77M), and inaugural donation ($500K, which is not tracked in campaign finance totals). The return: ICE contracts surged from $140 million (Q3 2024, pre-inauguration) to $215 million (Q3 2025) — a 55% increase in a single year. CoreCivic's $2.5M political investment generated roughly $300M+ in annualized new ICE revenue. That's a 120:1 return on political spending.
 
-- [OpenSecrets: Private prison companies positioned to benefit from increased deportations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 2)
-- [CREW: Trump's budget bill benefits private detention companies that donated to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2)
+- ~~[OpenSecrets: Private prison companies positioned to benefit from increased deportations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CREW: Trump's budget bill benefits private detention companies that donated to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -142,14 +142,14 @@ Immigration enforcement and ICE funding, criminal justice reform, mandatory mini
 ### Sources
 
 - [OpenSecrets: CoreCivic organizational profile](https://www.opensecrets.org/orgs/corecivic-inc/summary?id=D000021940) (Tier 1)
-- [SEC EDGAR: CoreCivic 10-K filings (CIK 0001070985)](https://www.sec.gov/cgi-bin/browse-edgar?company=corecivic&CIK=&type=10-K&dateb=&owner=include&count=10&search_text=&action=getcompany) (Tier 1)
-- [DHS: ICE detention management](https://www.ice.gov/detain/detention-management) (Tier 1)
+- [SEC EDGAR: CoreCivic 10-K filings (CIK 0001070985)](https://www.sec.gov/cgi-bin/browse-edgar?company=corecivic&CIK=&type=10-K&dateb=&owner=include&count=10&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [DHS: ICE detention management](https://www.ice.gov/detain/detention-management) (Tier 1) (VERIFIED)
 - [OpenSecrets: Private prison companies positioned to benefit from increased deportations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 2)
-- [Brennan Center: Trump reverses Biden order on DOJ private prison contracts](https://www.brennancenter.org/our-work/analysis-opinion/trump-reverses-biden-order-eliminated-doj-contracts-private-prisons) (Tier 2)
+- [Brennan Center: Trump reverses Biden order on DOJ private prison contracts](https://www.brennancenter.org/our-work/analysis-opinion/trump-reverses-biden-order-eliminated-doj-contracts-private-prisons) (Tier 2) (VERIFIED)
 - [CREW: Trump's budget bill benefits private detention companies that donated to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2)
-- [Tennessee Lookout: CoreCivic saw 55% increase in immigration detainee contracts](https://tennesseelookout.com/2025/11/06/private-prison-operator-corecivic-saw-55-increase-in-immigration-detainee-contracts/) (Tier 2)
-- [CNN: Biden promised but failed to end federal use of private prisons](https://www.cnn.com/2025/02/05/politics/private-prisons-poised-to-expand-under-trump-invs/index.html) (Tier 2)
-- [Ballotpedia: CoreCivic](https://ballotpedia.org/CoreCivic) (Tier 3)
+- [Tennessee Lookout: CoreCivic saw 55% increase in immigration detainee contracts](https://tennesseelookout.com/2025/11/06/private-prison-operator-corecivic-saw-55-increase-in-immigration-detainee-contracts/) (Tier 2) (VERIFIED)
+- [CNN: Biden promised but failed to end federal use of private prisons](https://www.cnn.com/2025/02/05/politics/private-prisons-poised-to-expand-under-trump-invs/index.html) (Tier 2) (VERIFIED)
+- ~~[Ballotpedia: CoreCivic](https://ballotpedia.org/CoreCivic)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 content-readiness:: developed
 
@@ -162,11 +162,11 @@ content-readiness:: developed
 
 **Recent press releases:**
 
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
+- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) (VERIFIED) — USAO - New York, Northern
+- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) (VERIFIED) — USAO - Texas, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) (VERIFIED) — USAO - Massachusetts
 - 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
 - ... and 264,343 more
 

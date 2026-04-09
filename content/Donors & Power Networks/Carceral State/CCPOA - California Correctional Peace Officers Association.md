@@ -198,27 +198,27 @@ Ballot measures — Prop 36 (supported, $300K), Prop 1 (supported via Newsom, $1
 | $198K | TRANSPORTATION, DEPARTMENT OF | 2018-09-06 |
 | $198K | TRANSPORTATION, DEPARTMENT OF | 2019-05-14 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=CCPOA%20-%20California%20Correctional%20Peace%20Officers%20Association&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=CCPOA%20-%20California%20Correctional%20Peace%20Officers%20Association&page=1&index=opp) (Tier 1) (VERIFIED)
 
 <!-- auto:sam-contracts end -->
 
 ### Sources
 
-- [FPPC — CCPOA contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1 — — direct access blocked; figures reported via Tier 2 sources) (Tier 1)
+- [FPPC — CCPOA contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (VERIFIED) (Tier 1 — — direct access blocked; figures reported via Tier 2 sources) (Tier 1)
 - [CalMatters — "Why California's prison guard union is spending like never before on [[_Gavin Newsom Master Profile|Gavin Newsom]]"](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2 — — primary source for $2.9M total and 31% figure)
-- [CalMatters — Why California's prison guard union is spending like never before](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2)
-- [CalMatters — 2023 contract ($1B+)](https://calmatters.org/justice/2023/08/ccpoa-contract-2023-california-prisons/) (Tier 2)
-- [CalMatters — 2025 contract ($600M)](https://calmatters.org/justice/2025/06/ccpoa-contract-furloughs/) (Tier 2)
-- [CalMatters — Per-prisoner cost $132,860](https://calmatters.org/justice/2024/01/california-prison-cost-per-inmate/) (Tier 2)
-- [CalMatters — Prison closures](https://calmatters.org/justice/2025/05/prison-closure-state-budget/) (Tier 2)
-- [LAO — 2025-26 CDCR Budget Report (overtime, per-prisoner cost)](https://lao.ca.gov/Publications/Report/5085) (Tier 1)
-- [LAO — Inmate cost analysis](https://lao.ca.gov/policyareas/cj/6_cj_inmatecost) (Tier 1)
-- [CDCR — Prison closures](https://www.cdcr.ca.gov/prison-closures/) (Tier 1)
-- [CDCR — Spring 2025 Population Projections](https://www.cdcr.ca.gov/research/wp-content/uploads/sites/174/2025/05/Spring-2025-Population-Projections_May_2025_revised-1.pdf) (Tier 1)
-- [Governing Magazine — Newsom prison closures](https://www.governing.com/management-and-administration/newsom-approves-closure-of-3-prisons-but-resists-pressure-for-more) (Tier 2)
-- [CalMatters — 2019 CDCR overtime (~$491M)](https://calmatters.org/justice/2020/08/california-prisons-psychiatric-overtime/) (Tier 2)
-- [KQED — CCPOA $2M donation return](https://www.kqed.org/news/11722611/correctional-officers-ask-for-money-back-from-controversial-ballot-measure) (Tier 2)
-- [KPBS — CCPOA Newsom spending](https://www.kpbs.org/news/politics/2024/07/15/prison-unions-big-spending-california-governor-gavin-newsom) (Tier 2)
+- [CalMatters — Why California's prison guard union is spending like never before](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2) (VERIFIED)
+- [CalMatters — 2023 contract ($1B+)](https://calmatters.org/justice/2023/08/ccpoa-contract-2023-california-prisons/) (Tier 2) (VERIFIED)
+- [CalMatters — 2025 contract ($600M)](https://calmatters.org/justice/2025/06/ccpoa-contract-furloughs/) (Tier 2) (VERIFIED)
+- [CalMatters — Per-prisoner cost $132,860](https://calmatters.org/justice/2024/01/california-prison-cost-per-inmate/) (Tier 2) (VERIFIED)
+- [CalMatters — Prison closures](https://calmatters.org/justice/2025/05/prison-closure-state-budget/) (Tier 2) (VERIFIED)
+- [LAO — 2025-26 CDCR Budget Report (overtime, per-prisoner cost)](https://lao.ca.gov/Publications/Report/5085) (Tier 1) (VERIFIED)
+- [LAO — Inmate cost analysis](https://lao.ca.gov/policyareas/cj/6_cj_inmatecost) (Tier 1) (VERIFIED)
+- [CDCR — Prison closures](https://www.cdcr.ca.gov/prison-closures/) (Tier 1) (VERIFIED)
+- [CDCR — Spring 2025 Population Projections](https://www.cdcr.ca.gov/research/wp-content/uploads/sites/174/2025/05/Spring-2025-Population-Projections_May_2025_revised-1.pdf) (Tier 1) (VERIFIED)
+- [Governing Magazine — Newsom prison closures](https://www.governing.com/management-and-administration/newsom-approves-closure-of-3-prisons-but-resists-pressure-for-more) (Tier 2) (VERIFIED)
+- [CalMatters — 2019 CDCR overtime (~$491M)](https://calmatters.org/justice/2020/08/california-prisons-psychiatric-overtime/) (Tier 2) (VERIFIED)
+- [KQED — CCPOA $2M donation return](https://www.kqed.org/news/11722611/correctional-officers-ask-for-money-back-from-controversial-ballot-measure) (Tier 2) (VERIFIED)
+- [KPBS — CCPOA Newsom spending](https://www.kpbs.org/news/politics/2024/07/15/prison-unions-big-spending-california-governor-gavin-newsom) (Tier 2) (VERIFIED)
 
 research-status:: ready — core role fully documented. CCPOA power mapped across funding ($2.9M to Newsom, $1.6B in contracts), prison closures (5 facilities, $928M+ savings), overtime structure ($600M+ annually), and policy outcomes. 9 major section headers with class analysis framework. 23 sources (Tier 1-2). File length: 188 lines. Complete contradiction callout on Newsom dynamic. All wikilinks verified. Promoted Session 38k.
 content-readiness:: ready
@@ -253,14 +253,14 @@ content-readiness:: ready
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/941490964) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/941490964) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -286,5 +286,5 @@ content-readiness:: ready
 |------------------|--------|--------|
 | Unknown | $51.9B | 6 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->

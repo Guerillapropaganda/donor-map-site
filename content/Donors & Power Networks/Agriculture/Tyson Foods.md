@@ -159,15 +159,15 @@ content-readiness:: ready
 | Agencies | Agricultural Marketing Service, Agriculture Department, Children and Families Administration, Consumer Financial Protection Bureau, Employment and Training Administration, Environmental Protection Agency, Federal Aviation Administration, Federal Maritime Commission +7 more |
 
 **Recent regulatory activity:**
-- [Air Plan Approval; Ohio; Source-Specific Non-CTG RACT and SIP Strengthening for Ohio](https://www.federalregister.gov/documents/2026/02/27/2026-03931/air-plan-approval-ohio-source-specific-non-ctg-ract-and-sip-strengthening-for-ohio) (2026-02-27) — Environmental Protection Agency
-- [Grandfathering Registration Notice](https://www.federalregister.gov/documents/2026/01/29/2026-01794/grandfathering-registration-notice) (2026-01-29) — Susquehanna River Basin Commission
-- [Designation of Perfluorooctanoic Acid (PFOA) and Perfluorooctanesulfonic Acid (PFOS) as CERCLA Hazardous Substances](https://www.federalregister.gov/documents/2024/05/08/2024-08547/designation-of-perfluorooctanoic-acid-pfoa-and-perfluorooctanesulfonic-acid-pfos-as-cercla-hazardous) (2024-05-08) — Environmental Protection Agency
-- [Child Nutrition Programs: Meal Patterns Consistent With the 2020-2025 Dietary Guidelines for Americans](https://www.federalregister.gov/documents/2024/04/25/2024-08098/child-nutrition-programs-meal-patterns-consistent-with-the-2020-2025-dietary-guidelines-for) (2024-04-25) — Agriculture Department
-- [Demurrage and Detention Billing Requirements](https://www.federalregister.gov/documents/2024/02/26/2024-02926/demurrage-and-detention-billing-requirements) (2024-02-26) — Federal Maritime Commission ★
-- [Definition of Unreasonable Refusal To Deal or Negotiate With Respect to Vessel Space Accommodations Provided by an Ocean Common Carrier](https://www.federalregister.gov/documents/2023/06/14/2023-12744/definition-of-unreasonable-refusal-to-deal-or-negotiate-with-respect-to-vessel-space-accommodations) (2023-06-14) — Federal Maritime Commission ★
+- [Air Plan Approval; Ohio; Source-Specific Non-CTG RACT and SIP Strengthening for Ohio](https://www.federalregister.gov/documents/2026/02/27/2026-03931/air-plan-approval-ohio-source-specific-non-ctg-ract-and-sip-strengthening-for-ohio) (VERIFIED) (2026-02-27) — Environmental Protection Agency
+- [Grandfathering Registration Notice](https://www.federalregister.gov/documents/2026/01/29/2026-01794/grandfathering-registration-notice) (VERIFIED) (2026-01-29) — Susquehanna River Basin Commission
+- [Designation of Perfluorooctanoic Acid (PFOA) and Perfluorooctanesulfonic Acid (PFOS) as CERCLA Hazardous Substances](https://www.federalregister.gov/documents/2024/05/08/2024-08547/designation-of-perfluorooctanoic-acid-pfoa-and-perfluorooctanesulfonic-acid-pfos-as-cercla-hazardous) (VERIFIED) (2024-05-08) — Environmental Protection Agency
+- [Child Nutrition Programs: Meal Patterns Consistent With the 2020-2025 Dietary Guidelines for Americans](https://www.federalregister.gov/documents/2024/04/25/2024-08098/child-nutrition-programs-meal-patterns-consistent-with-the-2020-2025-dietary-guidelines-for) (VERIFIED) (2024-04-25) — Agriculture Department
+- [Demurrage and Detention Billing Requirements](https://www.federalregister.gov/documents/2024/02/26/2024-02926/demurrage-and-detention-billing-requirements) (VERIFIED) (2024-02-26) — Federal Maritime Commission ★
+- [Definition of Unreasonable Refusal To Deal or Negotiate With Respect to Vessel Space Accommodations Provided by an Ocean Common Carrier](https://www.federalregister.gov/documents/2023/06/14/2023-12744/definition-of-unreasonable-refusal-to-deal-or-negotiate-with-respect-to-vessel-space-accommodations) (VERIFIED) (2023-06-14) — Federal Maritime Commission ★
 - ... and 68 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tyson%20Foods%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tyson%20Foods%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -186,5 +186,5 @@ content-readiness:: ready
 - California Department of Parks and Recreation v. Sable Offshore Corp. (2026) — District Court, C.D. California
 - United States v. one white Tyson Foods semi-truck USDOT003327 located at 7033 Cold Creek Drive, Alexander, AR 72002 aka Vehicle 2 (2026) — District Court, E.D. Arkansas
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tyson%20Foods%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tyson%20Foods%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
