@@ -26,7 +26,7 @@ doj-components:
   - 'USAO - Kentucky, Eastern'
   - 'USAO - Louisiana, Eastern'
   - 'USAO - Michigan, Western'
-opposes: '[[SENATE LEADERSHIP FUND]]'
+opposes: '[[SENATE LEADERSHIP FUND]] · [[CLUB FOR GROWTH ACTION]]'
 ---
 
 #catherine-cortez-masto #senator #nevada #casino #gaming #labor #class-analysis #democrat
