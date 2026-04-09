@@ -155,6 +155,7 @@ article strong a {
   padding: 0 2px;
 }
 
+
 article em {
   color: #555;
 }
@@ -167,23 +168,21 @@ article em {
   letter-spacing: 0.5px;
 }
 
-// --- Links ---
+// --- Links — internal wikilinks get yellow underline (names pop) ---
 a.internal {
   color: #0a0a0a !important;
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: none;
-  background: none !important;
-  padding: 0 !important;
+  background: linear-gradient(to bottom, transparent 60%, #fbbf24 60%) !important;
+  padding: 0 2px !important;
   border: none !important;
-  border-bottom: 1px solid #ddd !important;
   border-radius: 0 !important;
   transition: all 0.15s;
 }
 
 a.internal:hover {
-  color: #e63946 !important;
-  border-bottom-color: #e63946 !important;
-  background: none !important;
+  color: #0a0a0a !important;
+  background: linear-gradient(to bottom, transparent 40%, #fbbf24 40%) !important;
 }
 
 a.external {
