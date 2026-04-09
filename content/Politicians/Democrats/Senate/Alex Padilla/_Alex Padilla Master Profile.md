@@ -23,6 +23,7 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+internal-notes: "[URL Check 2026-04-09] 11 checked: 9 ok, 1 broken, 1 slow. | BROKEN: Congress.gov: Alex Padilla | SLOW: Senate.gov: Padilla elected top Democrat on Rules and Administration Committee"
 ---
 
 
