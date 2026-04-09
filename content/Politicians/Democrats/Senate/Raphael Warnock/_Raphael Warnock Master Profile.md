@@ -36,7 +36,7 @@ opposes: >-
 
 related: [[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]]
 
-donors: [[Tech and Media Donors]] · [[Healthcare Sector]]
+donors: [[Tech and Media Donors]] · [[Healthcare Sector]] · [[WORKER POWER PAC FOR GEORGIA]]
 
 profile-status:: ready
 
