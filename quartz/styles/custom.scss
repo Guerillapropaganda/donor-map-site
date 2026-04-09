@@ -2277,140 +2277,275 @@ body:has(.lp-construction) {
   }
 }
 
+// ─── Construction page: brutalist design ───
+
 .lp-construction {
   min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 2rem;
+  background: #f5f0eb !important;
+  color: #0a0a0a;
 }
 
-.lp-construct-container {
-  max-width: 640px;
-  text-align: center;
-}
+// Override Quartz dark bg on construction
+body:has(.lp-construction) {
+  background: #f5f0eb !important;
 
-.lp-construct-badge {
-  display: inline-block;
-  font-family: "Space Mono", monospace;
-  font-size: 10px;
-  letter-spacing: 3px;
-  color: #f59e0b;
-  border: 1px solid rgba(245, 158, 11, 0.3);
-  padding: 6px 16px;
-  border-radius: 2px;
-  margin-bottom: 2rem;
-}
+  .page {
+    background: #f5f0eb !important;
+  }
 
-.lp-construct-title {
-  font-family: "Space Grotesk", sans-serif;
-  font-size: 3rem;
-  font-weight: 700;
-  color: #e4e4e7;
-  margin: 0 0 0.5rem;
-  line-height: 1.1;
-}
-
-.lp-construct-tagline {
-  font-family: "Space Mono", monospace;
-  font-size: 1.2rem;
-  color: #5b8dce;
-  margin-bottom: 2rem;
-  letter-spacing: 1px;
-}
-
-.lp-construct-desc {
-  font-size: 0.95rem;
-  line-height: 1.7;
-  color: #9a9aa6;
-  margin-bottom: 2.5rem;
-}
-
-.lp-construct-stats {
-  display: flex;
-  justify-content: center;
-  gap: 3rem;
-  margin-bottom: 3rem;
-}
-
-.lp-construct-stat {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 4px;
-}
-
-.lp-construct-stat-num {
-  font-family: "Space Mono", monospace;
-  font-size: 1.6rem;
-  font-weight: 700;
-  color: #e4e4e7;
-
-  &.green {
-    color: #22c55e;
+  header {
+    display: none !important;
   }
 }
 
-.lp-construct-stat-label {
-  font-size: 10px;
-  letter-spacing: 1.5px;
+// Subtle grain overlay
+.construct::after {
+  content: '';
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.025'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 9999;
+}
+
+.construct {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+// ─── Top bar ───
+.construct-topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  border-bottom: 1px solid #0a0a0a;
+  margin-bottom: 80px;
+}
+
+.construct-logo {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1px;
   text-transform: uppercase;
-  color: #7a7a86;
 }
 
-.lp-construct-cta {
-  margin-bottom: 2rem;
+.construct-dollar {
+  color: #e63946;
 }
 
-.lp-construct-status {
-  font-family: "Space Mono", monospace;
-  font-size: 0.85rem;
-  color: #22c55e;
+.construct-status-pill {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  animation: constructPulse 2s ease-in-out infinite;
+  color: #e63946;
+  animation: constructPulse 2.5s ease-in-out infinite;
 }
 
 @keyframes constructPulse {
   0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
+  50% { opacity: 0.4; }
 }
 
-.lp-construct-contact {
-  font-size: 0.8rem;
-  color: #63636e;
+// ─── Hero ───
+.construct-hero {
+  margin-bottom: 48px;
+}
+
+.construct-meta {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: #999;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+
+.construct-title {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: clamp(56px, 10vw, 96px);
+  font-weight: 900;
+  line-height: 0.9;
+  letter-spacing: -4px;
+  color: #0a0a0a;
+  margin: 0 0 24px;
+}
+
+.construct-highlight {
+  position: relative;
+  display: inline-block;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: -6px;
+    right: -6px;
+    top: 4px;
+    bottom: 4px;
+    background: #fbbf24;
+    z-index: -1;
+    transform: rotate(-0.5deg);
+  }
+}
+
+.construct-desc {
+  font-family: 'Georgia', 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: clamp(16px, 2.5vw, 22px);
+  color: #777;
+  line-height: 1.5;
+  max-width: 550px;
 
   strong {
-    color: #9a9aa6;
+    color: #0a0a0a;
+    font-style: normal;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-weight: 900;
+    background: linear-gradient(to bottom, transparent 60%, #fbbf24 60%);
   }
 }
 
+// ─── Stats ───
+.construct-stats {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+  padding: 24px 0;
+  border-top: 2px solid #0a0a0a;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 48px;
+}
+
+.construct-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.construct-stat-divider {
+  width: 1px;
+  height: 32px;
+  background: #ddd;
+}
+
+.construct-stat-num {
+  font-family: 'Space Mono', monospace;
+  font-size: 24px;
+  font-weight: 700;
+  color: #0a0a0a;
+}
+
+.construct-stat-accent {
+  color: #e63946 !important;
+}
+
+.construct-stat-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  color: #999;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+// ─── Teaser ───
+.construct-teaser {
+  border: 2px solid #0a0a0a;
+  margin-bottom: 48px;
+}
+
+.construct-teaser-tag {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #fbbf24;
+  background: #0a0a0a;
+  padding: 8px 16px;
+}
+
+.construct-teaser-content {
+  padding: 32px;
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+
+.construct-teaser-stat {
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 48px;
+  font-weight: 900;
+  color: #e63946;
+  letter-spacing: -2px;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.construct-teaser-context {
+  font-size: 14px;
+  color: #777;
+  line-height: 1.6;
+
+  strong {
+    color: #0a0a0a;
+    font-weight: 700;
+  }
+}
+
+// ─── Launch ───
+.construct-launch {
+  text-align: center;
+  padding: 48px 0;
+}
+
+.construct-launch-text {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+.construct-contact {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #999;
+  letter-spacing: 1px;
+}
+
+// ─── Mobile ───
 @media (max-width: 600px) {
-  .lp-construction {
-    padding: 1rem;
-    overflow-x: hidden;
+  .construct {
+    padding: 0 20px;
   }
 
-  .lp-construct-container {
-    max-width: 100%;
-    overflow: hidden;
+  .construct-topbar {
+    margin-bottom: 48px;
   }
 
-  .lp-construct-title {
-    font-size: 1.8rem;
+  .construct-title {
+    letter-spacing: -2px;
   }
 
-  .lp-construct-tagline {
-    font-size: 0.95rem;
+  .construct-stats {
+    flex-wrap: wrap;
+    gap: 20px;
   }
 
-  .lp-construct-desc {
-    font-size: 0.85rem;
-    padding: 0 0.5rem;
+  .construct-stat-divider {
+    display: none;
   }
 
-  .lp-construct-stats {
+  .construct-teaser-content {
     flex-direction: column;
-    gap: 1.5rem;
+    gap: 16px;
+  }
+
+  .construct-teaser-stat {
+    font-size: 36px;
   }
 }

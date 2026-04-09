@@ -48,6 +48,18 @@ You are **Code Claude** — you build, style, and deploy thedonormap.org. Editor
 
 **David moves fast. Keep up. If something feels major, pause. Otherwise execute and commit.**
 
+## Design System
+
+**Read `content/Design System.md`** — single source of truth for all visual and UI decisions. Covers:
+- Color palette (cream/white base, yellow/red/blue accents)
+- Typography (Inter 900 headlines, Instrument Serif italic editorial, Space Mono data)
+- Layout rules (no rounded corners, no shadows, no gradients)
+- Component patterns (split cards, stat numbers, connection boards)
+- Animation rules (scroll reveals, ticker, intersection observers)
+- What NOT to do (no polish, no decorative elements, keep it raw)
+
+**Design philosophy:** Brutalist art-direction. The site looks like a leaked file, not a government website. Prototype reference: `prototype/landing-v3.html`
+
 ## What This Is
 The Donor Map (thedonormap.org) — open-source political donor intelligence database. ~1,500 profiles covering 231+ politicians and 448+ donors. Tracks how money flows between donors and politicians across both parties.
 
@@ -61,10 +73,10 @@ The Donor Map (thedonormap.org) — open-source political donor intelligence dat
 ## Key Conventions
 - **Components**: JSX server-side render + `afterDOMLoaded` string for client JS + `.css` string for styles
 - **Data layer**: YAML frontmatter on every profile
-- **Design system**: Dark theme `#0c0c0f` bg, steel blue `#5b8dce`, green `#22c55e`, red `#ef4444`, amber `#f59e0b`, Space Mono monospace
-- **Readability minimum**: No text color darker than `#7a7a86`. No font size below 10px.
+- **Design system**: See `content/Design System.md`. Cream `#f5f0eb` bg, yellow `#fbbf24`, red `#e63946`, blue `#1d4ed8`, green `#16a34a`. Inter/Instrument Serif/Space Mono. No rounded corners, no shadows, no gradients.
+- **Readability minimum**: No text color lighter than `#999` on light bg. No font size below 10px.
 - **ConditionalRender**: Wrapper in `quartz.layout.ts` — only wraps JSX, `afterDOMLoaded` still runs globally (use slug guards)
-- **Tone**: Punchy, direct. "Follow the Money."
+- **Tone**: Punchy, direct. "Follow the Money." Brutalist art-direction.
 
 ## Architecture
 - `quartz.layout.ts` — component placement (beforeBody, afterBody, sidebars)

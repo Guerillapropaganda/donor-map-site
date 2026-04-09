@@ -1,0 +1,1348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Donor Map — Follow the Money</title>
+<style>
+/* ═══════════════════════════════════════════════════════
+   THE DONOR MAP — BRUTALIST LANDING PAGE PROTOTYPE
+   ═══════════════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;900&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #000;
+  --off-black: #0a0a0a;
+  --dark: #111;
+  --border: #222;
+  --muted: #555;
+  --body: #999;
+  --light: #ccc;
+  --white: #fff;
+  --yellow: #fbbf24;
+  --yellow-dim: rgba(251, 191, 36, 0.15);
+  --red: #ef4444;
+  --blue: #3b82f6;
+  --green: #22c55e;
+  --mono: 'Space Mono', monospace;
+  --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--black);
+  color: var(--white);
+  font-family: var(--sans);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Noise/grain overlay ─── */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.4;
+}
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--black); }
+::-webkit-scrollbar-thumb { background: var(--border); }
+
+/* ─── Container ─── */
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ═══════════════════════════════════════════════════════
+   SECTION 1: THE ARRIVAL — "You just opened a file"
+   ═══════════════════════════════════════════════════════ */
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 80px 0 60px;
+  position: relative;
+}
+
+/* Faint ruled lines — like notebook paper */
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 39px,
+    rgba(255,255,255,0.02) 39px,
+    rgba(255,255,255,0.02) 40px
+  );
+  pointer-events: none;
+}
+
+.hero-file-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 2px;
+  margin-bottom: 40px;
+  opacity: 0;
+  animation: typeIn 0.8s ease forwards 0.3s;
+}
+
+.hero-file-label span {
+  color: var(--yellow);
+}
+
+.hero-title {
+  font-size: clamp(48px, 8vw, 96px);
+  font-weight: 900;
+  line-height: 0.92;
+  letter-spacing: -4px;
+  color: var(--white);
+  margin-bottom: 8px;
+  opacity: 0;
+  animation: slideUp 0.6s ease forwards 0.5s;
+}
+
+.hero-title .highlight {
+  color: var(--yellow);
+  position: relative;
+}
+
+.hero-title .highlight::after {
+  content: '';
+  position: absolute;
+  bottom: 4px;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: var(--yellow);
+  opacity: 0;
+  animation: expandLine 0.4s ease forwards 1.2s;
+}
+
+.hero-subtitle {
+  font-size: clamp(18px, 2.5vw, 24px);
+  font-weight: 400;
+  color: var(--body);
+  max-width: 650px;
+  line-height: 1.5;
+  margin-top: 24px;
+  opacity: 0;
+  animation: fadeIn 0.8s ease forwards 0.9s;
+}
+
+.hero-subtitle strong {
+  color: var(--white);
+  font-weight: 700;
+}
+
+/* ─── Live ticker ─── */
+.ticker-bar {
+  margin-top: 48px;
+  padding: 20px 0;
+  border-top: 2px solid var(--yellow);
+  display: flex;
+  gap: 48px;
+  flex-wrap: wrap;
+  opacity: 0;
+  animation: fadeIn 0.6s ease forwards 1.1s;
+}
+
+.ticker-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.ticker-value {
+  font-family: var(--mono);
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--white);
+  tabular-nums: true;
+  font-variant-numeric: tabular-nums;
+}
+
+.ticker-value.yellow { color: var(--yellow); }
+.ticker-value.counting {
+  min-width: 180px;
+}
+
+.ticker-label {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/* ─── CTA ─── */
+.hero-cta {
+  margin-top: 40px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  opacity: 0;
+  animation: fadeIn 0.6s ease forwards 1.3s;
+}
+
+.btn-primary {
+  display: inline-block;
+  padding: 16px 36px;
+  background: var(--yellow);
+  color: var(--black);
+  font-weight: 900;
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 3px solid var(--yellow);
+  transition: all 0.15s;
+}
+
+.btn-primary:hover {
+  background: var(--white);
+  border-color: var(--white);
+}
+
+.btn-secondary {
+  display: inline-block;
+  padding: 16px 36px;
+  background: transparent;
+  color: var(--white);
+  font-weight: 900;
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 3px solid var(--border);
+  transition: all 0.15s;
+}
+
+.btn-secondary:hover {
+  border-color: var(--white);
+}
+
+
+/* ═══════════════════════════════════════════════════════
+   SECTION 2: THE RECEIPT — ROI that breaks your brain
+   ═══════════════════════════════════════════════════════ */
+
+.receipt {
+  padding: 100px 0;
+  border-top: 1px solid var(--border);
+  position: relative;
+}
+
+.receipt-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--yellow);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 48px;
+  font-weight: 700;
+}
+
+.receipt-grid {
+  display: grid;
+  grid-template-columns: 1fr 80px 1fr;
+  gap: 0;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
+.receipt-side {
+  padding: 32px;
+  border: 2px solid var(--border);
+}
+
+.receipt-side.left {
+  text-align: right;
+}
+
+.receipt-side.right {
+  border-color: var(--yellow);
+}
+
+.receipt-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  color: var(--yellow);
+  font-weight: 900;
+}
+
+.receipt-amount {
+  font-family: var(--mono);
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.receipt-side.left .receipt-amount {
+  color: var(--white);
+}
+
+.receipt-side.right .receipt-amount {
+  color: var(--yellow);
+}
+
+.receipt-desc {
+  font-size: 14px;
+  color: var(--body);
+  line-height: 1.5;
+}
+
+.receipt-desc strong {
+  color: var(--white);
+}
+
+.receipt-roi {
+  text-align: center;
+  margin-top: 40px;
+  padding: 32px;
+  border: 2px solid var(--yellow);
+  background: var(--yellow-dim);
+}
+
+.receipt-roi-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--yellow);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+.receipt-roi-number {
+  font-family: var(--sans);
+  font-size: 72px;
+  font-weight: 900;
+  color: var(--yellow);
+  letter-spacing: -3px;
+  line-height: 1;
+}
+
+.receipt-roi-context {
+  font-size: 14px;
+  color: var(--muted);
+  margin-top: 12px;
+}
+
+.receipt-roi-context strong {
+  color: var(--body);
+}
+
+/* ═══════════════════════════════════════════════════════
+   SECTION 3: THE WEB — Scroll-triggered connections
+   ═══════════════════════════════════════════════════════ */
+
+.web {
+  padding: 100px 0;
+  border-top: 1px solid var(--border);
+}
+
+.web-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--yellow);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+  font-weight: 700;
+}
+
+.web-headline {
+  font-size: 42px;
+  font-weight: 900;
+  letter-spacing: -2px;
+  margin-bottom: 48px;
+  line-height: 1.1;
+}
+
+.web-headline .dim {
+  color: var(--muted);
+}
+
+/* Connection nodes */
+.connection-board {
+  position: relative;
+  min-height: 500px;
+  border: 2px solid var(--border);
+  padding: 40px;
+  overflow: hidden;
+  background: var(--off-black);
+}
+
+.connection-board::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image:
+    repeating-linear-gradient(0deg, transparent, transparent 49px, rgba(255,255,255,0.02) 49px, rgba(255,255,255,0.02) 50px),
+    repeating-linear-gradient(90deg, transparent, transparent 49px, rgba(255,255,255,0.02) 49px, rgba(255,255,255,0.02) 50px);
+  pointer-events: none;
+}
+
+.node {
+  position: absolute;
+  padding: 10px 18px;
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 700;
+  border: 2px solid;
+  opacity: 0;
+  transition: opacity 0.5s ease, transform 0.5s ease;
+  transform: translateY(10px);
+  z-index: 2;
+  white-space: nowrap;
+}
+
+.node.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.node.donor {
+  color: var(--yellow);
+  border-color: var(--yellow);
+  background: rgba(251,191,36,0.1);
+}
+
+.node.pol-d {
+  color: var(--blue);
+  border-color: var(--blue);
+  background: rgba(59,130,246,0.1);
+}
+
+.node.pol-r {
+  color: var(--red);
+  border-color: var(--red);
+  background: rgba(239,68,68,0.1);
+}
+
+.node .amount {
+  display: block;
+  font-size: 10px;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+/* SVG connection lines */
+.connection-lines {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.connection-lines line {
+  stroke: var(--yellow);
+  stroke-width: 1;
+  opacity: 0;
+  transition: opacity 0.8s ease;
+  stroke-dasharray: 4 4;
+}
+
+.connection-lines line.visible {
+  opacity: 0.4;
+}
+
+.web-insight {
+  margin-top: 24px;
+  padding: 20px;
+  border-left: 3px solid var(--yellow);
+  background: var(--yellow-dim);
+  font-size: 15px;
+  color: var(--light);
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.web-insight.visible {
+  opacity: 1;
+}
+
+.web-insight strong {
+  color: var(--yellow);
+}
+
+
+/* ═══════════════════════════════════════════════════════
+   SECTION 4: THE SPLIT — What they say vs who pays
+   ═══════════════════════════════════════════════════════ */
+
+.split-section {
+  padding: 100px 0;
+  border-top: 1px solid var(--border);
+}
+
+.split-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--yellow);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 48px;
+  font-weight: 700;
+}
+
+.split-card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border: 2px solid var(--border);
+  margin-bottom: 24px;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.5s ease;
+}
+
+.split-card.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.split-says, .split-pays {
+  padding: 32px;
+}
+
+.split-says {
+  border-right: 2px solid var(--border);
+  position: relative;
+}
+
+.split-says::before {
+  content: 'WHAT THEY SAY';
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  font-family: var(--mono);
+  font-size: 9px;
+  color: var(--muted);
+  letter-spacing: 2px;
+}
+
+.split-pays::before {
+  content: 'WHO PAYS THEM';
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  font-family: var(--mono);
+  font-size: 9px;
+  color: var(--yellow);
+  letter-spacing: 2px;
+}
+
+.split-pays {
+  position: relative;
+  background: rgba(251,191,36,0.03);
+}
+
+.split-name {
+  font-size: 13px;
+  font-weight: 900;
+  margin-bottom: 12px;
+  margin-top: 20px;
+}
+
+.split-says .split-name { color: var(--light); }
+.split-pays .split-name { color: var(--yellow); }
+
+.split-quote {
+  font-size: 18px;
+  font-style: italic;
+  color: var(--body);
+  line-height: 1.5;
+  border-left: 2px solid var(--border);
+  padding-left: 16px;
+}
+
+.split-donor-list {
+  list-style: none;
+  padding: 0;
+}
+
+.split-donor-list li {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 14px;
+}
+
+.split-donor-list li:last-child {
+  border-bottom: none;
+}
+
+.split-donor-name {
+  color: var(--light);
+}
+
+.split-donor-amount {
+  font-family: var(--mono);
+  color: var(--yellow);
+  font-weight: 700;
+}
+
+.split-verdict {
+  grid-column: 1 / -1;
+  padding: 16px 32px;
+  background: var(--yellow-dim);
+  border-top: 2px solid var(--yellow);
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--yellow);
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+
+/* ═══════════════════════════════════════════════════════
+   SECTION 5: STATE LOOKUP — Make it personal
+   ═══════════════════════════════════════════════════════ */
+
+.lookup {
+  padding: 100px 0;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+
+.lookup-headline {
+  font-size: 48px;
+  font-weight: 900;
+  letter-spacing: -2px;
+  margin-bottom: 12px;
+}
+
+.lookup-headline .yellow { color: var(--yellow); }
+
+.lookup-sub {
+  font-size: 16px;
+  color: var(--muted);
+  margin-bottom: 40px;
+}
+
+.state-grid {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 4px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.state-btn {
+  padding: 8px 4px;
+  background: var(--dark);
+  border: 1px solid var(--border);
+  color: var(--body);
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.15s;
+  text-align: center;
+}
+
+.state-btn:hover {
+  background: var(--yellow);
+  color: var(--black);
+  border-color: var(--yellow);
+}
+
+.lookup-result {
+  margin-top: 40px;
+  display: none;
+  text-align: left;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.lookup-result.active {
+  display: block;
+  animation: fadeIn 0.3s ease;
+}
+
+.lookup-result-title {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--yellow);
+  letter-spacing: 2px;
+  margin-bottom: 16px;
+}
+
+.lookup-senator {
+  padding: 16px;
+  border: 2px solid var(--border);
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lookup-senator-name {
+  font-weight: 900;
+  font-size: 16px;
+}
+
+.lookup-senator-name.dem { color: var(--blue); }
+.lookup-senator-name.rep { color: var(--red); }
+
+.lookup-senator-donors {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.lookup-cta {
+  margin-top: 16px;
+  font-family: var(--mono);
+  font-size: 11px;
+}
+
+.lookup-cta a {
+  color: var(--yellow);
+  text-decoration: none;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+
+/* ═══════════════════════════════════════════════════════
+   SECTION 6: EXPLORE — Entry points
+   ═══════════════════════════════════════════════════════ */
+
+.explore {
+  padding: 100px 0;
+  border-top: 1px solid var(--border);
+}
+
+.explore-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--yellow);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+  font-weight: 700;
+}
+
+.explore-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.explore-card {
+  padding: 32px;
+  border: 2px solid var(--border);
+  text-decoration: none;
+  transition: all 0.15s;
+  position: relative;
+}
+
+.explore-card:hover {
+  border-color: var(--yellow);
+}
+
+.explore-card-count {
+  font-family: var(--mono);
+  font-size: 36px;
+  font-weight: 700;
+  color: var(--yellow);
+  margin-bottom: 8px;
+}
+
+.explore-card-title {
+  font-size: 20px;
+  font-weight: 900;
+  color: var(--white);
+  margin-bottom: 8px;
+}
+
+.explore-card-desc {
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.explore-card-arrow {
+  position: absolute;
+  top: 32px;
+  right: 32px;
+  color: var(--yellow);
+  font-size: 20px;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+.explore-card:hover .explore-card-arrow {
+  opacity: 1;
+}
+
+
+/* ═══════════════════════════════════════════════════════
+   FOOTER
+   ═══════════════════════════════════════════════════════ */
+
+.footer {
+  padding: 60px 0;
+  border-top: 2px solid var(--yellow);
+  text-align: center;
+}
+
+.footer-title {
+  font-family: var(--mono);
+  font-size: 14px;
+  color: var(--white);
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.footer-sub {
+  font-size: 13px;
+  color: var(--muted);
+  margin-bottom: 24px;
+}
+
+.footer-links a {
+  color: var(--yellow);
+  text-decoration: none;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 2px;
+  margin: 0 16px;
+}
+
+
+/* ═══════════════════════════════════════════════════════
+   ANIMATIONS
+   ═══════════════════════════════════════════════════════ */
+
+@keyframes typeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes expandLine {
+  from { opacity: 0; transform: scaleX(0); transform-origin: left; }
+  to { opacity: 1; transform: scaleX(1); transform-origin: left; }
+}
+
+@keyframes countUp {
+  from { opacity: 0.5; }
+  to { opacity: 1; }
+}
+
+
+/* ═══════════════════════════════════════════════════════
+   RESPONSIVE
+   ═══════════════════════════════════════════════════════ */
+
+@media (max-width: 768px) {
+  .hero-title { letter-spacing: -2px; }
+
+  .ticker-bar { gap: 24px; }
+  .ticker-value { font-size: 24px; }
+
+  .receipt-grid {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .receipt-side.left { text-align: left; border-bottom: none; }
+  .receipt-arrow {
+    padding: 16px;
+    transform: rotate(90deg);
+  }
+  .receipt-roi-number { font-size: 48px; }
+
+  .split-card { grid-template-columns: 1fr; }
+  .split-says { border-right: none; border-bottom: 2px solid var(--border); }
+
+  .state-grid { grid-template-columns: repeat(5, 1fr); }
+
+  .explore-grid { grid-template-columns: 1fr; }
+
+  .connection-board { min-height: 400px; padding: 20px; }
+  .node { font-size: 10px; padding: 6px 10px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════
+     SECTION 1: THE ARRIVAL
+     ═══════════════════════════════════════════════════════ -->
+<section class="hero">
+  <div class="container">
+    <div class="hero-file-label">FILE: <span>DONOR-INFLUENCE-DB</span> // STATUS: ACTIVE // NODES: 1,604</div>
+
+    <h1 class="hero-title">
+      Follow the<br><span class="highlight">Money.</span>
+    </h1>
+
+    <p class="hero-subtitle">
+      A sourced, navigable database tracking how money controls American politics.
+      Every profile starts with one question: <strong>who funds this person, and what did the funders get in return?</strong>
+    </p>
+
+    <div class="ticker-bar">
+      <div class="ticker-item">
+        <span class="ticker-value" id="ticker-profiles">0</span>
+        <span class="ticker-label">Profiles tracked</span>
+      </div>
+      <div class="ticker-item">
+        <span class="ticker-value" id="ticker-donations">$0</span>
+        <span class="ticker-label">Donations traced</span>
+      </div>
+      <div class="ticker-item">
+        <span class="ticker-value yellow" id="ticker-donors">0</span>
+        <span class="ticker-label">Donors exposed</span>
+      </div>
+      <div class="ticker-item">
+        <span class="ticker-value yellow" id="ticker-roi">0x</span>
+        <span class="ticker-label">Highest ROI found</span>
+      </div>
+    </div>
+
+    <div class="hero-cta">
+      <a href="#" class="btn-primary">Start here</a>
+      <a href="#" class="btn-secondary">Explore the database</a>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════
+     SECTION 2: THE RECEIPT
+     ═══════════════════════════════════════════════════════ -->
+<section class="receipt">
+  <div class="container">
+    <div class="receipt-label">The Return on Investment</div>
+
+    <div class="receipt-grid" data-scroll-reveal>
+      <div class="receipt-side left">
+        <div class="receipt-amount">$2.9M</div>
+        <div class="receipt-desc">
+          <strong>Koch Network</strong> donated to Mitch McConnell's campaigns and PACs
+        </div>
+      </div>
+      <div class="receipt-arrow">→</div>
+      <div class="receipt-side right">
+        <div class="receipt-amount">$1.9T</div>
+        <div class="receipt-desc">
+          in tax cuts delivered via the <strong>2017 Tax Cuts and Jobs Act</strong>
+        </div>
+      </div>
+    </div>
+
+    <div class="receipt-roi" data-scroll-reveal>
+      <div class="receipt-roi-label">Return on Political Investment</div>
+      <div class="receipt-roi-number">655,172x</div>
+      <div class="receipt-roi-context">
+        The S&P 500 averages <strong>10% annually</strong>.
+        Koch's political investment returned <strong>65,517,200%</strong>.
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════
+     SECTION 3: THE WEB
+     ═══════════════════════════════════════════════════════ -->
+<section class="web">
+  <div class="container">
+    <div class="web-label">It's all connected</div>
+    <h2 class="web-headline">
+      Same donors.<br>
+      <span class="dim">Both parties.</span><br>
+      Same outcomes.
+    </h2>
+
+    <div class="connection-board" id="connectionBoard">
+      <svg class="connection-lines" id="connectionLines"></svg>
+
+      <!-- Donor nodes -->
+      <div class="node donor" style="top: 40px; left: 50%; transform: translateX(-50%);" data-node="aipac">
+        AIPAC<span class="amount">$100M+ deployed</span>
+      </div>
+
+      <div class="node donor" style="top: 200px; left: 15%;" data-node="goldman">
+        Goldman Sachs<span class="amount">$48M+ political</span>
+      </div>
+
+      <div class="node donor" style="top: 200px; right: 15%; left: auto;" data-node="pharma">
+        PhRMA<span class="amount">$32M+ lobbying</span>
+      </div>
+
+      <!-- Democrat nodes -->
+      <div class="node pol-d" style="bottom: 120px; left: 8%;" data-node="pelosi">
+        Pelosi (D)<span class="amount">$3.2M from AIPAC</span>
+      </div>
+
+      <div class="node pol-d" style="bottom: 40px; left: 28%;" data-node="schumer">
+        Schumer (D)<span class="amount">$5.1M from AIPAC</span>
+      </div>
+
+      <!-- Republican nodes -->
+      <div class="node pol-r" style="bottom: 120px; right: 8%; left: auto;" data-node="cruz">
+        Cruz (R)<span class="amount">$1.9M from AIPAC</span>
+      </div>
+
+      <div class="node pol-r" style="bottom: 40px; right: 28%; left: auto;" data-node="mcconnell">
+        McConnell (R)<span class="amount">$2.9M from Koch</span>
+      </div>
+    </div>
+
+    <div class="web-insight" id="webInsight">
+      <strong>The pattern:</strong> The same donors fund politicians in both parties. Different jerseys, identical policy outcomes. The voting record proves it.
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════
+     SECTION 4: THE SPLIT
+     ═══════════════════════════════════════════════════════ -->
+<section class="split-section">
+  <div class="container">
+    <div class="split-label">What they say vs. who pays them</div>
+
+    <div class="split-card" data-scroll-reveal>
+      <div class="split-says">
+        <div class="split-name">Sen. Cory Booker (D-NJ)</div>
+        <div class="split-quote">"We need to make prescription drugs affordable for every American."</div>
+      </div>
+      <div class="split-pays">
+        <div class="split-name">Top Pharmaceutical Donors</div>
+        <ul class="split-donor-list">
+          <li><span class="split-donor-name">PhRMA</span><span class="split-donor-amount">$415K</span></li>
+          <li><span class="split-donor-name">Pfizer</span><span class="split-donor-amount">$198K</span></li>
+          <li><span class="split-donor-name">Johnson & Johnson</span><span class="split-donor-amount">$167K</span></li>
+        </ul>
+      </div>
+      <div class="split-verdict">VOTED AGAINST drug importation from Canada (2017) — the bill that would have lowered prices</div>
+    </div>
+
+    <div class="split-card" data-scroll-reveal>
+      <div class="split-says">
+        <div class="split-name">Sen. Ted Cruz (R-TX)</div>
+        <div class="split-quote">"I will always fight for free speech and against Big Tech censorship."</div>
+      </div>
+      <div class="split-pays">
+        <div class="split-name">Top Tech Donors</div>
+        <ul class="split-donor-list">
+          <li><span class="split-donor-name">Google/Alphabet</span><span class="split-donor-amount">$226K</span></li>
+          <li><span class="split-donor-name">Amazon</span><span class="split-donor-amount">$173K</span></li>
+          <li><span class="split-donor-name">AT&T</span><span class="split-donor-amount">$152K</span></li>
+        </ul>
+      </div>
+      <div class="split-verdict">VOTED FOR Section 230 protections that shield the same platforms he publicly attacks</div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════
+     SECTION 5: STATE LOOKUP
+     ═══════════════════════════════════════════════════════ -->
+<section class="lookup">
+  <div class="container">
+    <h2 class="lookup-headline">Who owns <span class="yellow">your</span> representative?</h2>
+    <p class="lookup-sub">Pick your state. See who's paying.</p>
+
+    <div class="state-grid" id="stateGrid">
+      <!-- Populated by JS -->
+    </div>
+
+    <div class="lookup-result" id="lookupResult">
+      <div class="lookup-result-title" id="lookupTitle">YOUR SENATORS</div>
+      <div id="lookupSenators"></div>
+      <div class="lookup-cta">
+        <a href="#">VIEW FULL PROFILES →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════
+     SECTION 6: EXPLORE
+     ═══════════════════════════════════════════════════════ -->
+<section class="explore">
+  <div class="container">
+    <div class="explore-label">Go deeper</div>
+    <div class="explore-grid">
+      <a href="#" class="explore-card">
+        <div class="explore-card-count">231</div>
+        <div class="explore-card-title">Politicians</div>
+        <div class="explore-card-desc">Every profile analyzed through one lens: who funds them, what the funders want, and what they got.</div>
+        <span class="explore-card-arrow">→</span>
+      </a>
+      <a href="#" class="explore-card">
+        <div class="explore-card-count">448</div>
+        <div class="explore-card-title">Donors & Power Networks</div>
+        <div class="explore-card-desc">Mega-donors, PACs, dark money networks, and the corporations that fund both parties.</div>
+        <span class="explore-card-arrow">→</span>
+      </a>
+      <a href="#" class="explore-card">
+        <div class="explore-card-count">97</div>
+        <div class="explore-card-title">Investigations</div>
+        <div class="explore-card-desc">Deep dives tracing money across party lines. The patterns the database reveals.</div>
+        <span class="explore-card-arrow">→</span>
+      </a>
+      <a href="#" class="explore-card">
+        <div class="explore-card-count">84</div>
+        <div class="explore-card-title">Lobbyists & Think Tanks</div>
+        <div class="explore-card-desc">The intermediaries who deliver the ask and the organizations that write the talking points.</div>
+        <span class="explore-card-arrow">→</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════
+     FOOTER
+     ═══════════════════════════════════════════════════════ -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-title">THE DONOR MAP$</div>
+    <div class="footer-sub">Open-source political donor intelligence. Transparent by design.</div>
+    <div class="footer-links">
+      <a href="#">GITHUB</a>
+      <a href="#">ABOUT</a>
+      <a href="#">CONTACT</a>
+    </div>
+  </div>
+</footer>
+
+
+<script>
+// ═══════════════════════════════════════════════════════
+// ANIMATIONS & INTERACTIVITY
+// ═══════════════════════════════════════════════════════
+
+// ─── Ticker count-up animation ───
+function animateValue(el, start, end, duration, prefix = '', suffix = '') {
+  const startTime = performance.now();
+  function update(currentTime) {
+    const elapsed = currentTime - startTime;
+    const progress = Math.min(elapsed / duration, 1);
+    // Ease out cubic
+    const eased = 1 - Math.pow(1 - progress, 3);
+    const current = Math.floor(start + (end - start) * eased);
+
+    if (prefix === '$') {
+      if (current >= 1e9) el.textContent = '$' + (current / 1e9).toFixed(1) + 'B';
+      else if (current >= 1e6) el.textContent = '$' + (current / 1e6).toFixed(1) + 'M';
+      else el.textContent = '$' + current.toLocaleString();
+    } else {
+      el.textContent = prefix + current.toLocaleString() + suffix;
+    }
+
+    if (progress < 1) requestAnimationFrame(update);
+  }
+  requestAnimationFrame(update);
+}
+
+// Start tickers after page loads
+setTimeout(() => {
+  animateValue(document.getElementById('ticker-profiles'), 0, 857, 2000);
+  animateValue(document.getElementById('ticker-donations'), 0, 2400000000, 2500, '$');
+  animateValue(document.getElementById('ticker-donors'), 0, 441, 2000);
+  animateValue(document.getElementById('ticker-roi'), 0, 655172, 3000, '', 'x');
+}, 1400);
+
+
+// ─── Scroll-triggered reveals ───
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.style.opacity = '1';
+      entry.target.style.transform = 'translateY(0)';
+    }
+  });
+}, { threshold: 0.2 });
+
+document.querySelectorAll('[data-scroll-reveal]').forEach(el => {
+  el.style.opacity = '0';
+  el.style.transform = 'translateY(20px)';
+  el.style.transition = 'all 0.6s ease';
+  observer.observe(el);
+});
+
+
+// ─── Connection board animation ───
+const boardObserver = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      revealConnections();
+      boardObserver.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.3 });
+
+boardObserver.observe(document.getElementById('connectionBoard'));
+
+function revealConnections() {
+  const nodes = document.querySelectorAll('.node');
+  const lines = document.querySelectorAll('.connection-lines line');
+
+  // Reveal nodes one by one
+  nodes.forEach((node, i) => {
+    setTimeout(() => {
+      node.classList.add('visible');
+    }, i * 200);
+  });
+
+  // Draw lines after nodes appear
+  setTimeout(() => {
+    drawConnectionLines();
+    setTimeout(() => {
+      document.getElementById('webInsight').classList.add('visible');
+    }, 800);
+  }, nodes.length * 200 + 300);
+}
+
+function drawConnectionLines() {
+  const board = document.getElementById('connectionBoard');
+  const svg = document.getElementById('connectionLines');
+  const rect = board.getBoundingClientRect();
+
+  const connections = [
+    ['aipac', 'pelosi'],
+    ['aipac', 'schumer'],
+    ['aipac', 'cruz'],
+    ['goldman', 'schumer'],
+    ['goldman', 'mcconnell'],
+    ['pharma', 'pelosi'],
+    ['pharma', 'cruz'],
+  ];
+
+  svg.innerHTML = '';
+
+  connections.forEach(([from, to], i) => {
+    const fromEl = document.querySelector(`[data-node="${from}"]`);
+    const toEl = document.querySelector(`[data-node="${to}"]`);
+    if (!fromEl || !toEl) return;
+
+    const fromRect = fromEl.getBoundingClientRect();
+    const toRect = toEl.getBoundingClientRect();
+
+    const x1 = fromRect.left + fromRect.width / 2 - rect.left;
+    const y1 = fromRect.top + fromRect.height / 2 - rect.top;
+    const x2 = toRect.left + toRect.width / 2 - rect.left;
+    const y2 = toRect.top + toRect.height / 2 - rect.top;
+
+    const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+    line.setAttribute('x1', x1);
+    line.setAttribute('y1', y1);
+    line.setAttribute('x2', x2);
+    line.setAttribute('y2', y2);
+    svg.appendChild(line);
+
+    setTimeout(() => line.classList.add('visible'), i * 150);
+  });
+}
+
+
+// ─── Split card reveals ───
+const splitObserver = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, { threshold: 0.2 });
+
+document.querySelectorAll('.split-card').forEach(el => {
+  splitObserver.observe(el);
+});
+
+
+// ─── State grid ───
+const states = [
+  'AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA',
+  'HI','ID','IL','IN','IA','KS','KY','LA','ME','MD',
+  'MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ',
+  'NM','NY','NC','ND','OH','OK','OR','PA','RI','SC',
+  'SD','TN','TX','UT','VT','VA','WA','WV','WI','WY'
+];
+
+// Sample data (would be real in production)
+const stateData = {
+  'CA': { senators: [{name: 'Adam Schiff', party: 'dem', donors: 'AIPAC, Google, Disney'}, {name: 'Alex Padilla', party: 'dem', donors: 'AIPAC, Alphabet, Comcast'}]},
+  'TX': { senators: [{name: 'Ted Cruz', party: 'rep', donors: 'Koch Network, AT&T, Google'}, {name: 'John Cornyn', party: 'rep', donors: 'AT&T, Koch, NRA'}]},
+  'NY': { senators: [{name: 'Chuck Schumer', party: 'dem', donors: 'Goldman Sachs, AIPAC, Citigroup'}, {name: 'Kirsten Gillibrand', party: 'dem', donors: 'Goldman Sachs, Google, AIPAC'}]},
+  'FL': { senators: [{name: 'Rick Scott', party: 'rep', donors: 'Koch, HCA Healthcare, Self-Funded'}, {name: 'Marco Rubio', party: 'rep', donors: 'AIPAC, Koch, Publix'}]},
+  'OH': { senators: [{name: 'JD Vance', party: 'rep', donors: 'Peter Thiel, Koch, Tech PACs'}, {name: 'Sherrod Brown', party: 'dem', donors: 'AFL-CIO, AIPAC, Trial Lawyers'}]},
+};
+
+const grid = document.getElementById('stateGrid');
+states.forEach(st => {
+  const btn = document.createElement('button');
+  btn.className = 'state-btn';
+  btn.textContent = st;
+  btn.onclick = () => showState(st);
+  grid.appendChild(btn);
+});
+
+function showState(st) {
+  const result = document.getElementById('lookupResult');
+  const title = document.getElementById('lookupTitle');
+  const senators = document.getElementById('lookupSenators');
+
+  const data = stateData[st];
+  if (!data) {
+    title.textContent = st + ' SENATORS';
+    senators.innerHTML = '<div class="lookup-senator"><span style="color: var(--muted)">Profile data loading for this state...</span></div>';
+    result.className = 'lookup-result active';
+    return;
+  }
+
+  title.textContent = st + ' SENATORS';
+  senators.innerHTML = data.senators.map(s => `
+    <div class="lookup-senator">
+      <span class="lookup-senator-name ${s.party}">${s.name}</span>
+      <span class="lookup-senator-donors">${s.donors}</span>
+    </div>
+  `).join('');
+
+  result.className = 'lookup-result active';
+}
+</script>
+
+</body>
+</html>

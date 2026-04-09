@@ -8,10 +8,22 @@
       "port": 8080
     },
     {
+      "name": "quartz-construction",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "set CONSTRUCTION_MODE=true && C:\\\"Program Files\"\\nodejs\\node.exe quartz/bootstrap-cli.mjs build --serve --port 8081"],
+      "port": 8081
+    },
+    {
       "name": "static-preview",
       "runtimeExecutable": "node",
       "runtimeArgs": [".claude/static-server.cjs", "8095"],
       "port": 8095
+    },
+    {
+      "name": "prototype",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["prototype/server.cjs", "8096"],
+      "port": 8096
     },
     {
       "name": "ops-dashboard",
