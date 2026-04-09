@@ -17,7 +17,7 @@ bills-cosponsored: 0
 total-received: "$534,492"
 fec-candidate-id: "H8MO01143"
 related: "[[Jamaal Bowman Master Profile]] · [[Justice Democrats]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]]"
-donors: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Justice Democrats]]"
+donors: "[[Justice Democrats]]"
 opposes: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Wesley Bell]]"
 source-types:
   - Congress
