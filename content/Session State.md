@@ -26,10 +26,27 @@ Done (Research Claude / with David):
 - **Review workflow rewritten** — three-stage (Research Claude reviews+fixes → Code Claude fixes pipeline → Editor approves). Review-fix-document-move on, not just find problems.
 - **Vault Rules updated** — editorial quality criteria, workflow clarification, decisions log
 
+Done (Research Claude, continued):
+- **Cori Bush full editorial review + improvement** (8/10 blocks verified):
+  - FIXED: Mapped connections to frontmatter (AIPAC, Justice Democrats, DMFI, AOC, Omar, Wesley Bell in related/donors/opposes)
+  - FIXED: Sources reorganized to Verified/Archived two-section layout. Archived bush.house.gov (dead).
+  - FIXED: Donation-to-Policy Timeline expanded from 2 to 9 rows with FEC data
+  - FIXED: Rhetorical Signature Moves expanded from 1 paragraph to 4 patterns
+  - FIXED: Contradiction investigated and cleared with FEC/DOJ sources
+  - FIXED: Removed all em dashes from editorial content (new rule: no em dashes, sounds AI)
+  - FIXED: Removed empty Sub-Notes and Policy Area sections, stale profile-status lines
+  - BLOCKED: Congress auto-block corrupted (shows Republican/Oklahoma). Code Claude needs to fix.
+- **Editorial quality block** added to Vault Rules: 7 core sections required (Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Donation-to-Policy Timeline, Rhetorical Signature Moves, Analytical Patterns)
+- **No em dashes rule** saved to memory: never use — in profile content
+
+**GitHub Actions reinstated** as of end of session.
+
 Next session priorities:
-1. Research Claude: full editorial review + improvement of Cori Bush (fix what was found + flesh out sections)
-2. Continue Congress batch reviews with editorial quality pass
-3. Code Claude backlog (when GitHub Actions returns): corrupted auto-blocks, wrong FEC IDs, enrichment
+1. Code Claude: clear backlog from 3 reviews (Cori Bush auto-block, Sherrod Brown FEC ID, Gimenez enrichment)
+2. Research Claude: continue Congress batch reviews (Carlos Gimenez, Sherrod Brown full passes)
+3. Editor: review Cori Bush profile and approve/send back
+4. Graph legend on live site
+5. Fix lda-pipeline.cjs domain
 
 ---
 
