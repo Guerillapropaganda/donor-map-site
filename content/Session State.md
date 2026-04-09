@@ -11,6 +11,47 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code + Research
+Date: 2026-04-08 (marathon session — ops fixes + contradiction scanner + money trail + governor pipeline + A+ editorial system + first reviews + Reviews tab)
+
+Done (Code Claude):
+- **Pipeline buttons on checklists** — ▶ run buttons next to each checklist item
+- **URL Manager fixes** — checked URLs persist via sidecar JSON triage, notes input on triage, focus loss bug fixed (uncontrolled input)
+- **Spacing fixes** — pipeline buttons, N/A buttons, URL triage buttons all closer to labels (checklist, profile viewer, URL Manager)
+- **Trump connections** — moved 30+ related: from body to frontmatter, added donors: field
+- **Contradiction scanner** (`scripts/contradiction-scanner.cjs`) — 34 both-sides donors (12 high story), 1 opposition-funded (Musk funds Newsom+Trump), 9 cross-ref mismatches, 9 cross-party connections. Wired into ops alerts.
+- **Money Trail visualizer** (`/money-trail` in ops) — force-directed graph, donor→politician→committee→bill flow, search any profile, draggable nodes
+- **Governor executive actions pipeline** (`scripts/governor-exec-actions.cjs`) — CA (10 EOs via RSS), FL (25 EOs). NY/TX scrapers need HTML fixes. Written to Newsom/DeSantis profiles.
+- **Reviews tab** in profile viewer — 3 sub-tabs (Code Claude, Research Claude, Editor). Each has notepad, blocker lists, action buttons (Fix This ▶, Request Review, Approve for A+). Color-coded status dot on tab.
+
+Done (Research Claude):
+- **A+ Editorial Review System** designed with David — section-by-section sign-off, priority scoring, type-batched reviews, orphan claims rule, correction trail
+- **Vault Rules updated** — editorial review system, orphan claims from broken URLs, new frontmatter schema, review blocks per profile type, decisions log
+- **editorial-priority.cjs** — scores 899 ready profiles. Batches: Congress(94), Executive(7), Donors(185), Corporations(141), Think Tanks/PACs(54), Lobbying/Media(84)
+- **First 3 A+ reviews** — all BLOCKED:
+  - Cori Bush (70): 4/10 pass. Corrupted Congress auto-block, sparse connections, unresolved contradiction
+  - Carlos Gimenez (55.3): 5/10 pass. No last-enriched, Crowley contradiction, broken Wikipedia URL
+  - Sherrod Brown (47.5): 1/10 pass. Wrong FEC ID (House not Senate), 0/0 bills wrong, OpenSecrets archived
+- **vault.ts** updated with editorial review fields
+
+Known issues:
+- GitHub Actions still disabled
+- NY/TX governor scrapers need HTML pattern fixes
+- lda-pipeline.cjs still generates lda.senate.gov URLs
+- Sherrod Brown FEC ID needs fixing (H2OH13033 → S6OH00163)
+- Cori Bush Congress auto-block corrupted (shows Republican/Oklahoma)
+
+Next session priorities:
+1. Fix Code Claude blockers from first 3 reviews (FEC IDs, auto-blocks, enrichment)
+2. Continue A+ reviews — Congress batch (91 remaining)
+3. Graph legend on live site
+4. Fix lda-pipeline.cjs domain
+5. Write stories from both-sides donor data (AIPAC, Goldman Sachs, Boeing)
+6. Fix NY/TX governor scrapers
+
+---
+
+## Previous Session
 Claude: Research (then Code)
 Date: 2026-04-08 (A+ editorial review system + contradiction scanner + money trail + governor pipeline)
 
