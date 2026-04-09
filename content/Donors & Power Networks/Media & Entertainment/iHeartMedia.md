@@ -2,7 +2,7 @@
 title: "iHeartMedia"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -27,6 +27,9 @@ court-jurisdictions:
   - "United States Bankruptcy Court, E.D. Tennessee"
   - "United States Bankruptcy Court, E.D. Virginia"
   - "United States Bankruptcy Court, S.D. Texas"
+federal-awards-total: 0
+federal-contracts-count: 3
+federal-grants-count: 0
 ---
 
 #iheartmedia #radio #media #consolidation #deregulation #clear-channel #telecom-act
@@ -149,3 +152,22 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22iHeartMedia%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 3 ($565K sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 3 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $443K | Department of Veterans Affairs | CINCINNATI VAMC: RADIO COMMERICALS AND DIGITAL COMMUNICATIONS |
+| $98K | Department of Homeland Security | THE PURPOSE OF THIS FIRM FIXED PRICE PURCHASE ORDER IS FOR RADIO MEDIA ADVERTISEMENT TO EXPAND THE A |
+| $23K | Department of Defense | IHEART RADIO |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/ec54d52d-6189-4661-937a-029bdbfed71a-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

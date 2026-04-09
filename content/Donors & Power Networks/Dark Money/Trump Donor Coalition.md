@@ -2,7 +2,7 @@
 title: "Trump Donor Coalition"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -14,6 +14,9 @@ issues:
 related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]]"
 lobbying-spend: 40000
 lobbying-filings: 4
+ein: "363550786"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-09"
 ---
 
 #donor-node #trump #donor-coalition #mega-donor #maga #realignment #small-dollar #patron-client #dark-money #class-analysis #follow-the-money
@@ -180,3 +183,41 @@ content-readiness:: developed
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Trump%20Donor%20Coalition) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $40K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 363550786 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | E65Z |
+| IRS Ruling Date | 1988-02-01 |
+| Filings on Record | 8 |
+
+**Filing history:** 2018, 2018, 2017, 2016, 2015, 2014, 2013, 2012
+
+**View 990 filings:**
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2018)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2018)
+- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2017)
+- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2016)
+- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2015)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363550786) (Tier 1)
+<!-- auto:nonprofit-990 end -->

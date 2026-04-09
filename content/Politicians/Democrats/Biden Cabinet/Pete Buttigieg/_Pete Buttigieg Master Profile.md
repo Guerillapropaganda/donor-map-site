@@ -177,3 +177,17 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P00010298/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Finance and Tech Bundler Network]] — $7.2M lobbying spend (Aerospace, Banking, Budget/Appropriations)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->

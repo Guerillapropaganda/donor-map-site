@@ -2,7 +2,7 @@
 title: "Sinclair Broadcast Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -46,6 +46,7 @@ total-revenue: 210851
 total-assets: 149613
 lobbying-spend: 4000000
 lobbying-filings: 52
+federal-contracts: "626681"
 ---
 
 #sinclair #local-news #media #conservative #must-run #propaganda #consolidation
@@ -237,3 +238,27 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Sinclair%20Broadcast%20Group) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 626681 |
+| Sample Value (top 25) | $334K |
+| Year Range | 2004-2014 |
+| Federal Agencies | 5 |
+
+**Contracting agencies:** DEPT OF DEFENSE, HOMELAND SECURITY, DEPARTMENT OF, JUSTICE, DEPARTMENT OF, TREASURY, DEPARTMENT OF THE, VETERANS AFFAIRS, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $31K | HOMELAND SECURITY, DEPARTMENT OF | 2011-09-24 |
+| $16K | TREASURY, DEPARTMENT OF THE | 2003-10-07 |
+| $6K | HOMELAND SECURITY, DEPARTMENT OF | 2013-01-02 |
+| $6K | HOMELAND SECURITY, DEPARTMENT OF | 2008-05-28 |
+| $0 | HOMELAND SECURITY, DEPARTMENT OF | 2011-08-05 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Sinclair%20Broadcast%20Group&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

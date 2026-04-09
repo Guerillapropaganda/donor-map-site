@@ -2,7 +2,7 @@
 title: "Donna Miller Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+bioguide-id: "B001296"
 ---
 
 #democrat #politician #house
@@ -177,3 +178,10 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL02355/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
+<!-- auto:committee-assignments end -->

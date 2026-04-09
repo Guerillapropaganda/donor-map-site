@@ -2,7 +2,7 @@
 title: "GEO Group - Private Prison Industrial Complex"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Carceral State"
@@ -15,7 +15,7 @@ politicians-funded:
   - "Pam Bondi"
 federal-contracts: "959292"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "NPWMD] [IFSR"
   - "IRAN-EO13871"
@@ -595,7 +595,7 @@ research-status:: developed — Complete 2025 financials ($2.63B revenue, $254.4
 - [[Marco Rubio]] — lobbying: $2.6M — contracts: $959K
 - [[Pam Bondi]] — lobbying: $2.6M — contracts: $959K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### OFAC Sanctions Screening

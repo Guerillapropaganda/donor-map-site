@@ -18,7 +18,7 @@ tax-year: "2023"
 lobbying-spend: 6500000
 lobbying-filings: 51
 federal-register-mentions: 79
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Antitrust Division"
   - "Commerce Department"
@@ -36,6 +36,30 @@ federal-grants-count: 0
 top-federal-agency: "Department of Defense"
 top-naics-code: "324110"
 related: "[[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Devon Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[ConocoPhillips]]"
+court-cases: 871
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "District Court, D. Minnesota"
+  - "District Court, D. Oregon"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Texas"
+  - "District Court, M.D. Louisiana"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Texas"
+doj-press-mentions: "264413"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Florida, Southern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
 ---
 
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis
@@ -185,7 +209,7 @@ content-readiness:: ready
 
 - [[Steve Scalise]] — lobbying: $6.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Register Activity
@@ -241,3 +265,42 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 871 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Fifth Circuit, District Court, D. Minnesota, District Court, D. Oregon, District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, E.D. Texas, District Court, M.D. Louisiana +7 more |
+| Case Types | 2899 Other Statutes APA/Review Agency, 470 Other Statutes: Racketeer/Corrupt Organization, 850 Securities/Commodities, 890 Other Statutory Actions, Other Statutes: Other Statutory Actions |
+
+**Notable cases:**
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- Jourdain v. Warner Bros. Discovery, Inc. (2026) — District Court, S.D. New York
+- Demos v. Valero Energy Corp (2026) — District Court, W.D. Washington
+- Center for Taxpayer Rights v. IRS (2026) — Court of Appeals for the D.C. Circuit
+- Valero Marketing and Supply Company v. United States (2026) — United States Court of International Trade
+- In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Valero%20Energy%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264413 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
+
+**Recent press releases:**
+
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
+- ... and 264,407 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Valero%20Energy%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

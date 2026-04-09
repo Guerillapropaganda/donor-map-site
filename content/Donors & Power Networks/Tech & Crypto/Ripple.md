@@ -2,7 +2,7 @@
 title: "Ripple"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
@@ -21,6 +21,7 @@ related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and Tec
 federal-awards-total: 4528360
 federal-contracts-count: 25
 federal-grants-count: 13
+federal-contracts: "438"
 ---
 
 #crypto #payments #fairshake #sec-lawsuit #regulatory-capture
@@ -164,3 +165,27 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/a3c668a9-c6c0-e0f5-3dbd-1d64ec1c9938-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 438 |
+| Sample Value (top 25) | $109.5M |
+| Year Range | 2012-2019 |
+| Federal Agencies | 3 |
+
+**Contracting agencies:** DEPT OF DEFENSE, HEALTH AND HUMAN SERVICES, DEPARTMENT OF, VETERANS AFFAIRS, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $6.7M | DEPT OF DEFENSE | 2017-03-07 |
+| $6.7M | DEPT OF DEFENSE | 2016-05-23 |
+| $1.5M | DEPT OF DEFENSE | 2015-06-25 |
+| $1.5M | DEPT OF DEFENSE | 2014-12-22 |
+| $30K | HEALTH AND HUMAN SERVICES, DEPARTMENT OF | 2012-09-12 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Ripple&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

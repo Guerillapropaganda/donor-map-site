@@ -2,7 +2,7 @@
 title: "Healthcare Sector"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -26,6 +26,8 @@ court-jurisdictions:
   - "District Court, S.D. Iowa"
   - "District Court, W.D. Michigan"
 related: "[[Raphael Warnock Master Profile]] · [[The Moral Authority Brand and the Corporate Democrat Question]] · [[The $170 Million Georgia Machine and the National Donor Base]]"
+lei: "54930024HJBJ7HNLBO26"
+lei-jurisdiction: "US"
 ---
 
 #healthcare #sector #lobbying #bipartisan #pharma #insurance #hospitals #aca #medicare #drug-pricing #class-analysis #follow-the-money
@@ -170,3 +172,18 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Healthcare%20Sector%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [54930024HJBJ7HNLBO26](https://search.gleif.org/#/record/54930024HJBJ7HNLBO26) |
+| Legal Name | JNL/MELLON HEALTHCARE SECTOR FUND |
+| Jurisdiction | US |
+| Entity Status | ACTIVE |
+| Category | FUND |
+| Registration | ISSUED |
+| Last Updated | 2025-09-09T15:51:18Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

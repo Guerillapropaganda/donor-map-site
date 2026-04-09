@@ -364,7 +364,7 @@ content-readiness:: developed
 - [[Barack Obama]] — lobbying: $790K
 - [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $790K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Corporate Structure (GLEIF)

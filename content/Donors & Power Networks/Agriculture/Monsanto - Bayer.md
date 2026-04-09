@@ -2,7 +2,7 @@
 title: "Monsanto - Bayer"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -47,6 +47,8 @@ sec-form-types:
   - "PREM14A"
   - "SC 14D9"
 related: "[[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[The Oversight Legacy and Agricultural Protection]] · [[ADM - Archer Daniels Midland]]"
+lobbying-spend: 840000
+lobbying-filings: 16
 ---
 
 #monsanto #bayer #agriculture #gmo #roundup #glyphosate #seeds #patents
@@ -123,3 +125,22 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Monsanto%20-%20Bayer%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $840K |
+| Quarterly Filings | 16 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 2 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Environment/Superfund, Foreign Relations, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, THE WASHINGTON TAX & PUBLIC POLICY GROUP
+
+**Agencies contacted:** Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Natl Security Council (NSC), SENATE, Securities & Exchange Commission (SEC)
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Monsanto%20-%20Bayer) (Tier 1)
+<!-- auto:lda-lobbying end -->

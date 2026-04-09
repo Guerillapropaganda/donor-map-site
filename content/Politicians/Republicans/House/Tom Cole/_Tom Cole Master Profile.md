@@ -178,7 +178,7 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 
 - **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (GovTrack)
@@ -232,3 +232,10 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Tom%20Cole%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Tom Cole](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Defense & Military"
 court-cases: 35992
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, D. Oregon"
   - "District Court, D. South Carolina"
@@ -307,7 +307,7 @@ content-readiness:: ready
 - [[Mike Rogers]] (Armed Services)
 - [[Tom Cole]] (Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

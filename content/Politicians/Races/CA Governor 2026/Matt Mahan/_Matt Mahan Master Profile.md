@@ -2,7 +2,7 @@
 title: "Matt Mahan Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-03-24
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -19,6 +19,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+bioguide-id: "A000383"
 ---
 
 
@@ -153,3 +154,10 @@ The pattern: every policy creates regulatory certainty for tech industry investm
 - [CalMatters: Governor race fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
 - San Jose Inside: VC donor bandwagon (Tier 2)
 content-readiness:: ready
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

@@ -229,7 +229,7 @@ profile-status:: ready — Dark money gatekeeper role documented ($3B+ coordinat
 
 - [[Timothy Mellon]] — $1.9M lobbying spend (Banking, Energy/Nuclear, Financial Institutions/Investments/Securities)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

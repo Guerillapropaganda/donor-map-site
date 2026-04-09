@@ -2,7 +2,7 @@
 title: "Tenet Healthcare"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -16,7 +16,7 @@ federal-grants-count: 0
 lei: "0W9AIBT6U6ADJ2I8HK17"
 lei-jurisdiction: "US-NV"
 federal-register-mentions: 50
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Antitrust Division"
   - "Employment and Training Administration"
@@ -39,7 +39,7 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, S.D. Florida"
   - "District Court, W.D. Texas"
-ein: 742873537
+ein: "742873537"
 annual-revenue: "$1.9M"
 net-assets: "$4.8M"
 tax-year: "2023"
@@ -66,6 +66,21 @@ sec-form-types:
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
 related: "[[Cigna Group]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 23648810
+total-assets: 24419400
+doj-press-mentions: "264413"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Florida, Southern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
 ---
 
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory
@@ -314,3 +329,48 @@ content-readiness:: developed
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tenet%20Healthcare%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 742873537 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $23.6M |
+| Total Assets | $24.4M |
+| NTEE Code | T90Z |
+| IRS Ruling Date | 1998-06-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742873537) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264413 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
+
+**Recent press releases:**
+
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
+- ... and 264,407 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Tenet%20Healthcare%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

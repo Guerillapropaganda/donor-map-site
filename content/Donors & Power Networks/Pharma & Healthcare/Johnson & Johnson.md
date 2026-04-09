@@ -9,12 +9,12 @@ sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-ein: 760552018
+ein: "760552018"
 annual-revenue: "$477K"
 net-assets: "$1.3M"
 tax-year: "2023"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "GLOMAG"
 subawards-issued: 2
@@ -28,6 +28,9 @@ federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
 related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 359319
+total-assets: 1224754
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
@@ -227,3 +230,28 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Johnson%20%26%20Johnson%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 760552018 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $359K |
+| Total Assets | $1.2M |
+| NTEE Code | P75 |
+| IRS Ruling Date | 1998-05-01 |
+| Filings on Record | 12 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2020)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2018)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/760552018) (Tier 1)
+<!-- auto:nonprofit-990 end -->

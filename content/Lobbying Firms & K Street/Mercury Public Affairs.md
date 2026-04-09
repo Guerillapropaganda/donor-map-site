@@ -2,14 +2,14 @@
 title: "Mercury Public Affairs"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-06
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 annual-revenue: "$25.4M (2025)"
 lobbyist-count: 24
 revolving-door-pct: "45.8%"
 court-cases: 145
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the Second Circuit"
   - "District Court, D. Massachusetts"
@@ -21,6 +21,8 @@ court-jurisdictions:
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. Texas"
 related: "[[Tech & Crypto]] · [[Foreign]] · [[Energy & Utilities]] · [[Wall Street]]"
+ein: "680461871"
+nonprofit-status: "501(c)(5)"
 ---
 
 #lobbying #k-street #fara #foreign-government #china #ukraine #manafort #revolving-door #bipartisan
@@ -224,3 +226,14 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercury%20Public%20Affairs%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 680461871 |
+| Tax-Exempt Status | 501(c)(5) |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/680461871) (Tier 1)
+<!-- auto:nonprofit-990 end -->

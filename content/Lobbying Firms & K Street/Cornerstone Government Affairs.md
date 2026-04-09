@@ -32,7 +32,7 @@ fara-countries:
   - "YEMEN"
 related: "[[Google - Alphabet]] · [[Palantir Technologies]] · [[Boeing]] · [[General Dynamics]] · [[Raytheon (RTX)|RTX Corp]] · [[AbbVie]] · [[Johnson & Johnson]] · [[Apollo Global Management]] · [[PhRMA]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Fierce Government Relations]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]]"
 court-cases: 19
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, M.D. Georgia"
   - "District Court, S.D. Iowa"
@@ -41,6 +41,10 @@ court-jurisdictions:
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. Texas"
   - "United States Bankruptcy Court, W.D. Virginia"
+federal-register-mentions: 4
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Justice Department"
 ---
 
 #lobbying #k-street #bipartisan #tech #defense #pharma #agriculture #finance
@@ -335,3 +339,20 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cornerstone%20Government%20Affairs%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4 |
+| Notice | 4 |
+| Agencies | Antitrust Division, Justice Department |
+
+**Recent regulatory activity:**
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Biopharmaceutical Manufacturing Preparedness Consortium](https://www.federalregister.gov/documents/2024/10/11/2024-23597/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-biopharmaceutical) (2024-10-11) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Rapid Response Partnership Vehicle](https://www.federalregister.gov/documents/2024/10/11/2024-23591/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-rapid-response) (2024-10-11) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Consortium for Rare Earth Technologies](https://www.federalregister.gov/documents/2023/12/15/2023-27608/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-consortium-for-rare) (2023-12-15) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Medical Technology Enterprise Consortium](https://www.federalregister.gov/documents/2018/11/02/2018-23989/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-medical-technology) (2018-11-02) — Justice Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cornerstone%20Government%20Affairs%22) (Tier 1)
+<!-- auto:federal-register end -->

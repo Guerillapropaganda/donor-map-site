@@ -2,7 +2,7 @@
 title: "National Multifamily Housing Council"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -34,6 +34,31 @@ source-types:
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+court-cases: 144
+last-enriched: "2026-04-09"
+court-jurisdictions:
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Colorado"
+  - "District Court, D. Nevada"
+  - "District Court, D. North Dakota"
+  - "District Court, D. Utah"
+  - "District Court, N.D. Texas"
+doj-press-mentions: "264413"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Florida, Southern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
 ---
 
 #donor #real-estate #housing #trade-association #multifamily #bipartisan #lobbying #class-analysis #follow-the-money
@@ -145,3 +170,42 @@ content-readiness:: draft
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Multifamily%20Housing%20Council%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 144 |
+| Courts | Court of Appeals for the Eighth Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, D. Colorado, District Court, D. Nevada, District Court, D. North Dakota +6 more |
+| Case Types | 190 Contract: Other, 360 Torts/Pers Inj: Other Personal Injury, 443 Civil Rights: Accommodations, 890 Other Statutory Actions, Fraud |
+
+**Notable cases:**
+- Cosey v. Russell Road TIC I LLC (2025) — District Court, D. Nevada
+- Harris, et al. v. City of Los Angeles, et al. (2025) — Court of Appeals for the Ninth Circuit
+- Padilla v. Greystar Real Estate Partners, LLC (2025) — District Court, D. Utah
+- Kristin Renault v. AvalonBay Communities, Inc. (2025) — District Court, C.D. California
+- Lopez v. Greystar Real Estate Partners LLC (2025) — District Court, N.D. Texas
+- Federal Trade Commission v. Greystar Real Estate Partners, LLC (2025) — District Court, D. Colorado
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Multifamily%20Housing%20Council%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264413 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
+
+**Recent press releases:**
+
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
+- ... and 264,407 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22National%20Multifamily%20Housing%20Council%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

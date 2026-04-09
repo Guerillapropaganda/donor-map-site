@@ -2,7 +2,7 @@
 title: "American Fuel and Petrochemical Manufacturers"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -42,6 +42,25 @@ corroboration-count: 2
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
+sec-filings: 115
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "425"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFN14A"
+  - "DEFR14A"
+  - "EX-9.1"
+  - "EX-99.1"
+  - "PRE 14A"
+  - "PREC14A"
+  - "PREN14A"
+  - "PRRN14A"
+  - "PX14A6G"
 ---
 
 #donor #energy #fossil-fuel #trade-association #lobbying #republican-lean #climate-obstruction #class-analysis #follow-the-money
@@ -252,3 +271,21 @@ content-readiness:: draft
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530115970) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 115 |
+| Form Types | 10-K, 10-K/A, 10-Q, 425, 8-K, ARS, DEF 14A, DEFA14A +9 more |
+
+**Notable filings:**
+
+- 2025-11-18 — **EX-99.1**: EX-99.1
+- 2024-05-07 — **PX14A6G**: PX14A6G
+- 2021-04-08 — **PX14A6G**: CALSTRS FORM PX14A6G
+- 2015-05-07 — **8-K**: FORM 8-K
+- 2021-04-14 — **PX14A6G**: PX14A6G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Fuel%20and%20Petrochemical%20Manufacturers%22) (Tier 1)
+<!-- auto:sec-edgar end -->

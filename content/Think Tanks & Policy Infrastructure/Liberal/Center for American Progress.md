@@ -10,9 +10,21 @@ tax-status: 501c3
 related: "[[Goldman Sachs - Wall Street Titan]] · [[Goldman Sachs]] · [[Citigroup]] · [[Google - Alphabet]] · [[Meta - Facebook Political Operation]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Democratic Party Infrastructure]] · [[Silicon Valley Democratic Donor Network]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Urban Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]]"
 ein: "300126510"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 total-revenue: 37377429
 total-assets: 84539768
+federal-register-mentions: 127
+regulatory-agencies:
+  - "Centers for Medicare & Medicaid Services"
+  - "Commodity Futures Trading Commission"
+  - "Education Department"
+  - "Employee Benefits Security Administration"
+  - "Federal Trade Commission"
+  - "Health and Human Services Department"
+  - "Homeland Security Department"
+  - "Housing and Urban Development Department"
+  - "Labor Department"
+  - "National Highway Traffic Safety Administration"
 ---
 
 #think-tank #liberal #healthcare #climate #economic-policy #revolving-door #idea-laundering #obama-network #biden-network
@@ -217,3 +229,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 127 |
+| Final Rules | 56 |
+| Proposed Rules | 38 |
+| Notices | 33 |
+| Agencies | Centers for Medicare & Medicaid Services, Commodity Futures Trading Commission, Education Department, Employee Benefits Security Administration, Federal Trade Commission, Health and Human Services Department, Homeland Security Department, Housing and Urban Development Department +6 more |
+
+**Recent regulatory activity:**
+- [Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.federalregister.gov/documents/2026/01/30/2026-01907/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure) (2026-01-30) — Labor Department ★
+- [Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability](https://www.federalregister.gov/documents/2025/06/25/2025-11606/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability) (2025-06-25) — Health and Human Services Department
+- [Uniform Procedures for State Highway Safety Grant Programs](https://www.federalregister.gov/documents/2025/01/06/2024-31487/uniform-procedures-for-state-highway-safety-grant-programs) (2025-01-06) — Transportation Department
+- [Increase of the Automatic Extension Period of Employment Authorization and Documentation for Certain Employment Authorization Document Renewal Applicants](https://www.federalregister.gov/documents/2024/12/13/2024-28584/increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation-for-certain) (2024-12-13) — Homeland Security Department
+- [Medicare and Medicaid Programs: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs, Including the Hospital Inpatient Quality Reporting Program; Health and Safety Standards for Obstetrical Services in Hospitals and Critical Access Hospitals; Prior Authorization; Requests for Information; Medicaid and CHIP Continuous Eligibility; Medicaid Clinic Services Four Walls Exceptions; Individuals Currently or Formerly in Custody of Penal Authorities; Revision to Medicare Special Enrollment Period for Formerly Incarcerated Individuals; and All-Inclusive Rate Add-On Payment for High-Cost Drugs Provided by Indian Health Service and Tribal Facilities](https://www.federalregister.gov/documents/2024/11/27/2024-25521/medicare-and-medicaid-programs-hospital-outpatient-prospective-payment-and-ambulatory-surgical) (2024-11-27) — Health and Human Services Department
+- [Negative Option Rule](https://www.federalregister.gov/documents/2024/11/15/2024-25534/negative-option-rule) (2024-11-15) — Federal Trade Commission
+- ... and 121 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Center%20for%20American%20Progress%22) (Tier 1)
+<!-- auto:federal-register end -->
