@@ -1,27 +1,28 @@
 ---
-title: "Mark Kelly"
+title: Mark Kelly
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-total-received: "$33,067,827"
-fec-candidate-id: "S0AZ00350"
-doj-press-mentions: "264349"
-last-enriched: "2026-04-08"
+total-received: '$33,067,827'
+fec-candidate-id: S0AZ00350
+doj-press-mentions: '264349'
+last-enriched: '2026-04-08'
 doj-components:
-  - "Civil Rights Division"
-  - "Cyber Division (FBI)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "National Security Division (NSD)"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
-donors: "[[Ken Griffin]]"
-related: "[[Lockheed Martin Buys Defense Hawks in Both Parties]]"
+  - Civil Rights Division
+  - Cyber Division (FBI)
+  - Federal Bureau of Investigation (FBI)
+  - National Security Division (NSD)
+  - 'USAO - Florida, Middle'
+  - 'USAO - Florida, Northern'
+  - 'USAO - Louisiana, Eastern'
+  - USAO - Massachusetts
+  - 'USAO - Missouri, Western'
+  - 'USAO - New York, Northern'
+donors: '[[Ken Griffin]]'
+related: '[[Lockheed Martin Buys Defense Hawks in Both Parties]]'
+opposes: '[[NRSC]]'
 ---
 
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control
