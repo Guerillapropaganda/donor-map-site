@@ -1,36 +1,36 @@
 ---
-title: "Vivek Ramaswamy Master Profile"
+title: Vivek Ramaswamy Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Candidate"
-running-for: "OH Governor 2026"
-state: "Ohio"
-state-abbr: "OH"
+party: Republican
+chamber: Candidate
+running-for: OH Governor 2026
+state: Ohio
+state-abbr: OH
 issues:
-  - "Healthcare"
+  - Healthcare
 top-donors:
-  - "Elon Musk"
-  - "Jeffrey Yass"
-  - "Peter Thiel"
-total-received: "$66,197,196"
-fec-candidate-id: "P40011082"
+  - Elon Musk
+  - Jeffrey Yass
+  - Peter Thiel
+total-received: '$66,197,196'
+fec-candidate-id: P40011082
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 ---
 
 
 #vivek-ramaswamy #republican #doge #ohio #biotech #pharma #anti-woke #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] [[Elon Musk]] [[Jeffrey Yass]] [[Peter Thiel]]
+related: [[_Donald Trump Master Profile]] [[Elon Musk]] [[Jeffrey Yass]] [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]]
 donors: [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]]
 
 profile-status:: ready
