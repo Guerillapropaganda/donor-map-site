@@ -61,7 +61,7 @@ Gray's career arc traces a movement from corporate law → progressive journalis
 > [!money]
 > Total political giving under $500 across a decade of career shifts — corporate law to progressive journalism to campaign politics to corporate media to independent media. All via ActBlue small-dollar platform. Zero corporate PAC, zero bundling, zero mega-donor alignment. This is genuinely one of the smallest FEC footprints of any media figure in this vault. The pattern reflects Gray's trajectory: she moved FROM corporate money TOWARD independence. Her donations follow her career arc: corporate law employer gives way to campaign employment gives way to self-employment. The FEC record is the purest documentation of a media figure who never participated in the donor-class fundraising infrastructure.
 
-- [FEC API: Briahna Joy Gray individual contributions (22 results, $447)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=briahna+gray&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Briahna Joy Gray individual contributions (22 results, $447)](https://www.fec.gov/data/receipts/?contributor_name=briahna+gray) (Tier 1)
 
 > **Note on API results:** The FEC API search for "briahna gray" returns 22 results totaling $447, all confirmed to belong to the media figure/lawyer. Contributions are from employers matching her career (DPK Law/corporate, The Intercept, Sanders 2020, self-employed). All 22 results verified as belonging to Briahna Joy Gray the political commentator. No disambiguation needed.
 

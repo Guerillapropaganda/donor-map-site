@@ -59,7 +59,7 @@ Rogan has been the UFC's color commentator since 2002, with a brief hiatus 2022�
 
 No FEC individual contributions found. FEC API returns 5 results for "Joe Rogan" — none match the podcaster. Results include: Joe Rogan (Sacramento, CA accountant), Joe Rogan (Houston, TX actuary), Joe Rogan (multiple other individuals across different states/employers). Zero political donations from a media personality who has commanded more influence over a single demographic (men 18-29) than any traditional politician in 2024 and whose $450M+ Spotify deal is the single largest media contract in podcasting history.
 
-- [FEC API: Joe Rogan individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=rogan%2C+joe&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Joe Rogan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=rogan%2C+joe) (Tier 1)
 
 > **Note on API results:** The FEC API search for "rogan, joe" returns 5 results, but none match the podcaster. Results include: Joe Rogan (Sacramento, CA accountant), Joe Rogan (Houston, TX actuary), and other individuals with the same name across different states and employers. No confirmed contributions from the media personality — all 5 API results are different people. Best evidence: $0 personal political contributions from the UFC commentator/podcaster.
 

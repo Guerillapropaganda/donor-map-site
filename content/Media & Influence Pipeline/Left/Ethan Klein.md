@@ -70,7 +70,7 @@ H3H3 partnered with BBTV (Broadband TV), a Vancouver-based creator network, in 2
 > [!money]
 > Klein gave to both Sanders and Biden in the 2020 cycle — the full arc of Democratic primary-to-general-election donor behavior. His $1,000 Sanders contribution in February 2020 (before Super Tuesday) places him in the progressive-donor lane; his $500 Biden contribution in October 2020 shows consolidation around the eventual nominee. The "NASA TOILET CLEANER" employer listing on the Sanders contribution is a joke occupation consistent with Klein's irreverent style — but it appears in the FEC database as a real filing. Total documented federal political giving: $1,500. No PAC or dark money connections identified. Klein's political funding is unremarkable — what matters structurally is who funds *him*, not who he funds.
 
-- [FEC API: Ethan Klein individual contributions (2 results, $1,500)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=ethan+klein&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Ethan Klein individual contributions (2 results, $1,500)](https://www.fec.gov/data/receipts/?contributor_name=ethan+klein) (Tier 1)
 
 > **Note on API results:** The FEC API search for "ethan klein" returns 2 results ($1,500 total), both confirming the media personality. The "NASA (TOILET CLEANER)" employer on the Bernie 2020 contribution is a joke filing consistent with Klein's comedic style but appears in FEC records as submitted. Both contributions verified as matching the YouTube personality (Encino, CA address on Biden 2020 filing). No disambiguation required — both results are the H3 Podcast host.
 

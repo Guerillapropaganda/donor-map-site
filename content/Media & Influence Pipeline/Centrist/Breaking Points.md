@@ -78,7 +78,7 @@ Ball's FEC record splits into two phases: her own 2010 congressional race (VA-1,
 > [!money]
 > Ball's FEC record is the strongest indicator of genuine progressive conviction in the centrist media section. Three patterns stand out: (1) the 2025 surge — $24K+ to insurgent candidates (Kasky, Ventouras, Blake, Abdul, Ojeda) while employer is listed as "Breaking Points," showing active progressive recruitment; (2) the People's House Project pipeline — $23.7K into her own PAC that Reid Hoffman funded, which channeled 39% to Ball's salary; (3) the Osborn independent — $3,300 to an independent Senate candidate, the only non-Democratic recipient. This distinguishes her sharply from co-host Enjeti ($0), suggesting asymmetric political conviction in the "populist crossover" format.
 
-- [FEC API: Krystal Ball individual contributions (227 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=ball%2C+krystal&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Krystal Ball individual contributions (227 results)](https://www.fec.gov/data/receipts/?contributor_name=ball%2C+krystal) (Tier 1)
 
 > **Disambiguation note:** The FEC API returns 227 raw results for "ball, krystal." VA-filtered results (162) are all confirmed as the media personality — employer listed as "Breaking Points," "Breaking Point LLC," "MSNBC," or "self-employed." Remaining results from other states need further verification. Raw total includes ActBlue conduit double-counting; de-duplicated figures reported above.
 
@@ -88,7 +88,7 @@ Ball's FEC record splits into two phases: her own 2010 congressional race (VA-1,
 
 No FEC individual contributions found. Zero results across all fuzzy-match variations (Saagar Enjeti, Saagar Enjet, Enjeti, etc.). Consistent with right-populist media pattern: commentary about politics without personal political financial commitment.
 
-- [FEC API: Saagar Enjeti individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=saagar+enjeti&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Saagar Enjeti individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=saagar+enjeti) (Tier 1)
 
 > **Note on API results:** The FEC API search for "saagar enjeti" and variants returns zero results. No disambiguation needed — no contributions on record for the media personality.
 

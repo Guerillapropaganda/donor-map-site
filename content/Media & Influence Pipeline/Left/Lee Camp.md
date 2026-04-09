@@ -46,7 +46,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "CAMP, 
 > [!money]
 > Lee Camp's $0 FEC record is consistent with his explicit anti-electoral politics — his critique targets the structural function of elections under capitalism, not the electoral horse race. Unlike right-wing talent whose $0 reflects strategic restraint, or left-liberal talent whose $0 reflects habitual disengagement, Camp's $0 reflects an ideological position: that campaign donations are not the mechanism of structural change. What makes the FEC record analytically interesting is the contrast — $0 in declared political spending while employed for 8 years by a government (Russia) that was actively interfering in U.S. elections during the same period.
 
-- [FEC API: Lee Camp individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=CAMP%2C+LEE&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Lee Camp individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=CAMP%2C+LEE) (Tier 1)
 
 ### Who Funds Them
 
@@ -144,6 +144,6 @@ Camp's audience capture mechanism evolved with his platform:
 - [MintPress News: Lee Camp author page](https://www.mintpressnews.com/author/lee-camp/) (Tier 3) (Chrome-verified 2026-03-27)
 - [Washington Post: Lee Camp of 'Redacted Tonight' on the problems in Washington (July 2016)](https://www.washingtonpost.com/lifestyle/magazine/the-host-of-redacted-tonight-is-making-his-mock/2016/07/13/03d544e6-3331-11e6-8758-d58e76e11b12_story.html) (Tier 2) (Chrome-verified 2026-03-27)
 - [CNN Business: RT America ceases productions and lays off most of its staff (March 3, 2022)](https://www.cnn.com/2022/03/03/media/rt-america-layoffs) (Tier 2) (Chrome-verified 2026-03-27)
-- [FEC API: Lee Camp individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=CAMP%2C+LEE&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Lee Camp individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=CAMP%2C+LEE) (Tier 1)
 
 content-readiness:: ready

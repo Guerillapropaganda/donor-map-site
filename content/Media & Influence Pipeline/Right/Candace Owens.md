@@ -31,7 +31,7 @@ Married George Farmer (July 7, 1990, London) at Trump Winery in 2019, after an 1
 
 No FEC individual contributions found. Candace Owens has made zero federal political contributions despite her position as one of the most prominent voices in Republican media. The FEC API returned 63 results for "candace owens" — all ActBlue/Democratic donors from different states. The self-funded independent media operation ($15-25M annual revenue) demonstrates that genuine audience funding creates different structural incentives than billionaire patronage, and Owens's $0 FEC record reflects this: her audience funds her directly, independent of the donor-aligned institutional constraints that bind other right-wing media figures.
 
-- [FEC API: Candace Owens individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=owens%2C+candace&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Candace Owens individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=owens%2C+candace) (Tier 1)
 
 > **Disambiguation note:** FEC returns 63 results for "candace owens" and 222 results for "farmer, candace" (maiden name) — all are Democratic donors from Tennessee and other states, none match the conservative media personality.
 

@@ -48,7 +48,7 @@ The critical moment: during COVID-19 in 2020, Chris Cuomo conducted on-air inter
 
 No FEC individual contributions confirmed for Chris Cuomo the journalist. FEC API returns 2 small ActBlue donations attributed to "CUOMO, CHRISTOPHER" (NY, Westchester County employer) — both belong to a different person (county government employee, not the CNN/NewsNation anchor). Disambiguation confirmed via employer and state filtering. Zero political donations from a journalist who earned $6M/year during the Trump era and has been a major media figure since 2001.
 
-- [FEC API: Chris Cuomo individual contributions (0 results, 0 confirmed)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=cuomo%2C+chris&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Chris Cuomo individual contributions (0 results, 0 confirmed)](https://www.fec.gov/data/receipts/?contributor_name=cuomo%2C+chris) (Tier 1)
 
 > **Disambiguation note:** The FEC API returns 2 results for "CUOMO, CHRISTOPHER" — both small ActBlue donations from a Westchester County, NY employer (likely a government employee). Neither matches Chris Cuomo the television journalist. The dynasty asset — Chris Cuomo's entire media career — was built on family political infrastructure, not personal political giving. The absence of any FEC record is structurally significant: a media figure who rose through a political dynasty leaves no trace of personal political participation.
 

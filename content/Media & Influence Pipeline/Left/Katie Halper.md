@@ -26,7 +26,7 @@ Katie Halper is a freelance journalist, podcaster, and progressive media persona
 
 No FEC individual contributions found. The FEC API returns 0 results for "HALPER, KATIE" and "HALPER, KATE" — no contributions on record. A progressive journalist fired for Israel/Palestine coverage who makes $0 in traceable political contributions — her political influence operates entirely through journalism and audience reach, not campaign finance. The $0 mirrors the left-media precarity pattern: figures who lack institutional salary also lack disposable income for political donations.
 
-- [FEC API: Katie Halper individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=HALPER%2C+KATIE&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Katie Halper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HALPER%2C+KATIE) (Tier 1)
 
 ### The Funding Model
 
@@ -157,6 +157,6 @@ Patreon subscriptions (60-70% of podcast income), freelance journalism (20-30%),
 - [Meet the Censored: Katie Halper — ScheerPost](https://scheerpost.com/2022/10/06/meet-the-censored-katie-halper/) (Tier 2) (Chrome verified 2026-03-27)
 - [Katie Halper Fired Over Israel Criticism — The Electronic Intifada](https://electronicintifada.net/blogs/nora-barrows-friedman/podcast-ep-67-katie-halper-fired-over-israel-criticism) (Tier 2) (Chrome verified 2026-03-27)
 - [Nexstar Media Group acquires The Hill — Media industry sources](https://www.nexstar.tv/) (Tier 2) (Chrome verified 2026-03-27)
-- [FEC API: Katie Halper individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=HALPER%2C+KATIE&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Katie Halper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HALPER%2C+KATIE) (Tier 1)
 
 content-readiness:: ready

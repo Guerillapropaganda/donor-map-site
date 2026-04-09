@@ -61,7 +61,7 @@ No FEC individual contributions found. The FEC API returns 0 results for both "P
 > [!money]
 > Abby Phillip covered campaign finance for Politico. She anchors a primetime show analyzing political money every night. She wrote a book about a candidate who ran on small-dollar grassroots funding. Her own FEC record: $0. This is not coincidence — it's institutional identity. CNN anchors are not permitted to have visible political preferences because their value to the network depends on the appearance of neutrality. The corporate sponsor (Warner Bros. Discovery / Paramount incoming) requires this performance of objectivity. $0 is the price of the anchor desk.
 
-- [FEC API: Abby Phillip individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=PHILLIP%2C+ABBY&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Abby Phillip individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=PHILLIP%2C+ABBY) (Tier 1)
 
 ---
 
@@ -185,6 +185,6 @@ The Paramount acquisition is the denouement. Under WBD, CNN moderated. Under Par
 - [CNN Business: What does the Paramount-WBD merger mean for CNN?](https://www.cnn.com/2026/02/27/media/cnn-paramount-ellison-bari-weiss-wbd-merger) (Tier 2)
 - [CNN Business: Trump enters Warner Bros. fight, says it's 'imperative that CNN be sold'](https://www.cnn.com/2025/12/10/media/trump-cnn-sold-paramount-warner-bros-netflix) (Tier 2)
 - [CNN: Abby Phillip NewsNight lineup announcement](https://edition.cnn.com/2023/08/14/media/cnn-prime-time-lineup) (Tier 2)
-- [FEC API: Abby Phillip individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=PHILLIP%2C+ABBY&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Abby Phillip individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=PHILLIP%2C+ABBY) (Tier 1)
 
 content-readiness:: ready

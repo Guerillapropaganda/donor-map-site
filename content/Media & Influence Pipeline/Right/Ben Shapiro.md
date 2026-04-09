@@ -73,7 +73,7 @@ The Daily Wire's revenue structure has three pillars: subscriptions, advertising
 > [!money]
 > The co-founder of the largest conservative media company in America — whose platform reaches 25 million monthly listeners and whose content directly shapes Republican electoral outcomes — has made exactly one federal contribution: $2,800 to a safe-seat Iowa Republican. This is not political engagement through donations; it is a token contribution from someone whose political influence operates through infrastructure, not campaign checks. The Daily Wire IS the political contribution.
 
-- [FEC API: Ben Shapiro individual contributions (665 results, fuzzy-matched)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=shapiro%2C+ben&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Ben Shapiro individual contributions (665 results, fuzzy-matched)](https://www.fec.gov/data/receipts/?contributor_name=shapiro%2C+ben) (Tier 1)
 - [MinistryWatch: Dust Up Between Christianity Today and Daily Wire](https://ministrywatch.com/dust-up-between-christianity-today-and-daily-wire-provides-a-teachable-moment/) (Tier 3) (WebFetch verified 2026-03-31 — confirms $2,800 to Feenstra as largest DW employee contribution)
 
 > **Disambiguation note:** The FEC API returns 665 results for "shapiro, ben" via fuzzy matching. The $2,800 Feenstra contribution was identified via MinistryWatch's analysis of Daily Wire employer-tagged FEC records — the API fuzzy match alone could not isolate it from 665 results. Previous "$0 confirmed" was based on employer filtering that missed this contribution. Corrected 2026-03-31.

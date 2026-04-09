@@ -51,7 +51,7 @@ At estimated sub-$200K/yr income from crowdfunding and documentaries, zero FEC a
 > [!money]
 > Zero FEC at low income is structurally different from zero FEC at high income (the Fox News pattern). Martin's $0 reflects genuine political independence — she has no institutional reason to avoid donations and no donor class to protect. Her 2004 Kerry campaign work was the last time she engaged with major-party politics. The absence of FEC activity is ideologically consistent, not strategically calculated.
 
-- [FEC API: Abby Martin individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=MARTIN%2C+ABBY&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Abby Martin individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=MARTIN%2C+ABBY) (Tier 1)
 
 ### Who Funds Them
 
@@ -146,6 +146,6 @@ The anti-BDS lawsuit is the most consequential output of Martin's career for the
 - [AJC: Judge: Ga. law barring contracts by groups boycotting Israel unconstitutional](https://www.ajc.com/education/judge-ga-law-barring-contracts-by-groups-boycotting-israel-unconstitutional/UO3WXWOHRBFUBHIX7DWGG4AEPA/) (Tier 2)
 - [FMEP: Constitutionality Issues & BDS Legislation: Source Docs & Expert Views](https://fmep.org/resource/constitutionality-issues-bds-legislation-expert-views/) (Tier 2)
 - [Ballotpedia: Abby Martin](https://ballotpedia.org/Abby_Martin) (Tier 3)
-- [FEC API: Abby Martin individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=MARTIN%2C+ABBY&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Abby Martin individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=MARTIN%2C+ABBY) (Tier 1)
 
 content-readiness:: ready

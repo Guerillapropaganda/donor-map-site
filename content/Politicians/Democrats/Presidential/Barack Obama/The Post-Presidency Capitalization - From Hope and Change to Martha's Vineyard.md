@@ -178,7 +178,7 @@ FEC data on Obama campaign finance is documented in [[Barack Obama Donor Network
 - Defense sector: $1.16M (2008) + $1.17M (2012). $278B in arms sales during presidency. Defense industry consulting available post-presidency. The loop closes.
 
 **FEC API reference:**
-- [FEC API: Obama 2008 campaign receipts](https://api.open.fec.gov/v1/schedules/schedule_a/?committee_id=C00431445&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (UNVERIFIED)
+- [FEC: Obama 2008 campaign receipts](https://www.fec.gov/data/receipts/?committee_id=C00431445) (Tier 1) (UNVERIFIED)
 - [FEC: Barack Obama candidate profile](https://www.fec.gov/data/candidate/P80003338/) (Tier 1) (UNVERIFIED)
 
 Post-presidency financial disclosures are not FEC-reportable (no candidate committee active). The wealth data in this note comes from investigative journalism and public real estate records (Tier 2).

@@ -50,7 +50,7 @@ Walsh operates entirely within the Daily Wire's institutional infrastructure —
 
 No FEC individual contributions found for Matt Walsh in Tennessee or other states. The FEC API search for "matt walsh" returns 2,465 results across all states due to the common name. Filtering to Tennessee (Walsh's state of residence) yields zero matches. The Daily Wire's culture war documentary producer has made zero federal political contributions — consistent with the pattern of Wilks-funded right-wing media figures (Shapiro $0, Owens $0, Walsh $0) who influence electoral outcomes through content distribution rather than campaign finance.
 
-- [FEC API: Matt Walsh individual contributions (0 results, Tennessee)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=walsh%2C+matt&contributor_state=TN&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Matt Walsh individual contributions (0 results, Tennessee)](https://www.fec.gov/data/receipts/?contributor_name=walsh%2C+matt&contributor_state=TN) (Tier 1)
 
 > **Disambiguation note:** The name "Matt Walsh" appears 2,465 times in FEC records across all states. Filtering by Tennessee reveals zero contributions from the Daily Wire host — all other results are different individuals.
 

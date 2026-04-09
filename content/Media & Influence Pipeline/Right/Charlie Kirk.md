@@ -80,7 +80,7 @@ Publix supermarket heiress. Gave $1.25 million to Kirk's organizations specifica
 
 The FEC API returns 70 results for "kirk, charlie" — a moderately common name requiring disambiguation. Filtering by known state of residence (Arizona, where TPUSA is based) and employer (Turning Point USA, media/commentary) does not yield definitive confirmation of a specific Charlie Kirk. The raw API data shows $2,877.52 across 70 results, but individual-level matching to the media personality/TPUSA founder cannot be completed with certainty via fuzzy matching alone. Best assessment: either $0 personal contributions, or minimal contributions ($2,877 total) obscured by name-matching ambiguity. The TPUSA organization receives $82–85M annually in tax-deductible donations — far exceeding what any individual founder would personally contribute.
 
-- [FEC API: Charlie Kirk individual contributions (70 results, $2,877.52 aggregate, disambiguation pending)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=kirk%2C+charlie&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Charlie Kirk individual contributions (70 results, $2,877.52 aggregate, disambiguation pending)](https://www.fec.gov/data/receipts/?contributor_name=kirk%2C+charlie) (Tier 1)
 
 > **Disambiguation note:** The name "Charlie Kirk" appears 70 times in FEC records via fuzzy matching. Filtering by Arizona and TPUSA-related employers does not isolate the Turning Point USA founder with certainty. The aggregate $2,877.52 across 70 results likely represents other individuals with similar names. Without verified biographical data in FEC records, confirmation remains pending.
 

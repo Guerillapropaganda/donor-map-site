@@ -65,7 +65,7 @@ Additional revenue: In November 2024, Carlson launched ALP nicotine pouches thro
 > [!money]
 > Carlson's FEC record maps his 30-year political evolution: Heritage Foundation staffer (1995) → Fox News personality (2021) → independent media mogul backing MTG (2025). The 2025 contribution burst — four separate checks to MTG entities totaling $15K on a single day — represents Carlson's only significant personal political investment of his entire career. The arc is revealing: Carlson's support for Marjorie Taylor Greene (the only politician he's backed substantially) coincides with his post-Fox independence and his deepest ideological alignment with the "American First" wing of the Republican party. His earlier contributions (Heritage Foundation 1995, Greene 2021) are minimal. The $15K to MTG in August 2025 is the clearest indicator of Carlson's current political commitment.
 
-- [FEC API: Tucker Carlson individual contributions (6 results, $16,250)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=carlson%2C+tucker&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Tucker Carlson individual contributions (6 results, $16,250)](https://www.fec.gov/data/receipts/?contributor_name=carlson%2C+tucker) (Tier 1)
 
 > **Note on API results:** The FEC API search for "carlson, tucker" returns 30 results, but only 6 belong to the media personality (FOX NEWS employer 2021, SELF EMPLOYED 1995, 2025). The remaining 24 results are other individuals named Tucker Carlson or Carlson Tucker across different states and employers. All 6 confirmed results are documented in the table above. Disambiguation confirmed via employer and date matching.
 

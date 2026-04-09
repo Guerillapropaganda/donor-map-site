@@ -54,7 +54,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "KLAVAN
 > [!money]
 > The entire Daily Wire A-roster shows $0 personal FEC footprint. This is not coincidence — it's structural. The Wilks Brothers don't need their hosts to make donations; they need them to produce content that serves donor-class political interests. Personal political giving would create a paper trail. Content produces deniability.
 
-- [FEC API: Andrew Klavan individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=KLAVAN%2C+ANDREW&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Andrew Klavan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KLAVAN%2C+ANDREW) (Tier 1)
 
 ---
 
@@ -177,6 +177,6 @@ The theological capitalism frame is central: Klavan's Christianity is not incide
 - [Daily Wire: DailyWire+ Tops 1 Million Subscribers](https://www.dailywire.com/news/dailywire-tops-1-million-subscribers-announces-key-updates-on-coming-content) (Tier 3)
 - [Publishers Weekly: The Great Good Thing review](https://www.publishersweekly.com/978-0-7180-1734-7) (Tier 3)
 - [Babylon Bee: Brett Cooper Leaves Daily Wire / Klavan reference](https://babylonbee.com/news/brett-cooper-leaves-daily-wire-causing-andrew-klavan-to-regain-title-of-daily-wires-most-attractive-host) (Tier 4 — satire, confirms roster position only)
-- [FEC API: Andrew Klavan individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=KLAVAN%2C+ANDREW&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Andrew Klavan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KLAVAN%2C+ANDREW) (Tier 1)
 
 content-readiness:: ready

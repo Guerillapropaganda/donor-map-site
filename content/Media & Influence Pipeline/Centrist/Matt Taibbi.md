@@ -54,7 +54,7 @@ Taibbi's funding model represents the purest Substack independence case in the p
 > [!money]
 > The FEC record maps Taibbi's political arc perfectly: Dean/Kerry/Obama via Rolling Stone payroll (2003-2008) represents $7,071.47 of unwavering Democratic commitment while at a corporate outlet. Then an 11-year silence (2008-2019) tracks his disillusionment as the party shifted from anti-Wall Street to Wall Street-aligned. Then $17.68 split bipartisan (ActBlue + WinRed, 2019-2020) as he crystallized an independent identity. The data documents the transition from institutional Democrat to anti-establishment voice — not as ideological drift but as the political arc of a class analyst who watched his former party capture dissolve.
 
-- [FEC API: Matt Taibbi individual contributions (7 results, $7,089.15)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=taibbi%2C+matt&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Matt Taibbi individual contributions (7 results, $7,089.15)](https://www.fec.gov/data/receipts/?contributor_name=taibbi%2C+matt) (Tier 1)
 
 > **Note on API results:** The FEC API search for "taibbi, matt" returns 7 results ($7,089.15 total). Employers include Rolling Stone (2003-2008 payroll deductions), and self-employed (2019-2020). All verified as belonging to the journalist/author. No disambiguation needed — contributions trace his political arc from institutional Democrat to independent.
 
@@ -147,7 +147,7 @@ But the class analysis doesn't require bad faith to function. The structural que
 
 ### Sources
 
-- [FEC API: Matt Taibbi individual contributions (7 results, $7,089.15 total)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=taibbi%2C+matt&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Matt Taibbi individual contributions (7 results, $7,089.15 total)](https://www.fec.gov/data/receipts/?contributor_name=taibbi%2C+matt) (Tier 1)
 
 > **Note on API results:** The FEC API search for "taibbi, matt" returns 7 results ($7,089.15 total). Employers include Rolling Stone (2003-2008 payroll deductions), and self-employed (2019-2020). All verified as belonging to the journalist/author. No disambiguation needed — contributions trace his political arc from institutional Democrat to independent.
 

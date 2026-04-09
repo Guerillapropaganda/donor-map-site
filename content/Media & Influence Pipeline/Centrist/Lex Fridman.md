@@ -45,7 +45,7 @@ Fridman's income derives from four streams, none of which involve traditional po
 
 No FEC individual contributions found. FEC API returns zero results for "Lex Fridman" across all variations. Consistent with his explicit "apolitical" brand positioning and distributed tech-sector funding model (no single donor, no personal political participation).
 
-- [FEC API: Lex Fridman individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=lex+fridman&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Lex Fridman individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=lex+fridman) (Tier 1)
 
 > **Note on API results:** The FEC API search for "lex fridman" returns zero results across all variations. No API matches for the media personality. Consistent with his explicit "apolitical" brand positioning and lack of personal political engagement. No results to disambiguate — zero contributions on record.
 

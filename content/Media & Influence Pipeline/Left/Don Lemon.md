@@ -26,7 +26,7 @@ Don Lemon (b. 1966, Baton Rouge, Louisiana) is a journalist and media personalit
 
 No FEC individual contributions found. The FEC API returns 0 results for "LEMON, DON" — zero federal political contributions from the former CNN anchor who earned an estimated $4-6M/year at CNN and received a $24.5M separation settlement. The $0 FEC record follows the same pattern as other high-earning CNN alumni in this vault: [[Chris Cuomo]] ($0), [[Rachel Maddow]] ($100 total over 20 years). Corporate media anchors influence politics through coverage, not contributions.
 
-- [FEC API: Don Lemon individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=LEMON%2C+DON&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Don Lemon individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=LEMON%2C+DON) (Tier 1)
 
 > [!money]
 > $0 FEC from a journalist who earned $4-6M/year at CNN, received a $24.5M exit settlement, and was offered $1.5M by Elon Musk for a single show deal. Lemon's political influence operates entirely through editorial positioning and, post-CNN, through activist visibility. The arrest at a Minnesota church protest represents a new mode of political engagement: direct action rather than campaign donations — something no other media figure in this vault has done.
@@ -126,7 +126,7 @@ The post-institutional phase is where Lemon becomes analytically interesting. Th
 - [BBC: Former CNN star Don Lemon sues Elon Musk over cancelled X show](https://www.bbc.com/news/articles/c28e87473x0o) (Tier 2) (Chrome verified 2026-03-26)
 - [The Guardian: Who is Don Lemon, the ex-CNN anchor arrested over a Minnesota church protest?](https://www.theguardian.com/us-news/2026/jan/30/who-is-don-lemon-arrested) (Tier 2) (Chrome verified 2026-03-26)
 - [Wikipedia: Don Lemon](https://en.wikipedia.org/wiki/Don_Lemon) (Tier 3) (Chrome verified 2026-03-26)
-- [FEC API: Don Lemon individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=LEMON%2C+DON&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Don Lemon individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=LEMON%2C+DON) (Tier 1)
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Don Lemon shows zero federal political contributions — a $0 FEC record from a journalist who received $24.5M in a CNN separation settlement and earned $4-6M/year during his primetime tenure.
 

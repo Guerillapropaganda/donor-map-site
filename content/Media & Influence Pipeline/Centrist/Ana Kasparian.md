@@ -48,7 +48,7 @@ Kasparian's funding model is the most structurally revealing in the pipeline bec
 > [!money]
 > All three contributions fall in 2019-2020 while Kasparian was firmly embedded at TYT, and the largest ($1,000) went directly to her boss Cenk Uygur's Rebellion PAC. Zero contributions after 2020 — perfectly tracking her "unaligned" declaration. The FEC record captures Kasparian at the moment of her institutional commitment to progressive politics, before the 2022 assault and subsequent dual-capture phase. The silence after 2020 indicates that the Valuetainment pivot removed her from political giving entirely — consistent with the "unaligned" brand positioning that benefits from political neutrality even while drawing paychecks from both progressive and conservative infrastructure.
 
-- [FEC API: Ana Kasparian individual contributions (3 results, $1,150)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=kasparian%2C+ana&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Ana Kasparian individual contributions (3 results, $1,150)](https://www.fec.gov/data/receipts/?contributor_name=kasparian%2C+ana) (Tier 1)
 
 > **Note on API results:** The FEC API search for "kasparian, ana" returns 3 results ($1,150 total), all from The Young Turks employer (2019-2020), California address. All verified as belonging to the Breaking Points co-host. No disambiguation needed.
 

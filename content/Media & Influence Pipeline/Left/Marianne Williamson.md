@@ -29,7 +29,7 @@ The FEC API returns 0 results for "WILLIAMSON, MARIANNE" as a contributor to oth
 - **2020 campaign:** $8,403,835 total receipts (Nov 2018 - Dec 2020), ~70% small-dollar, 100K+ individual donors
 - **2024 campaign:** $5,404,966 total receipts (Jul 2022 - Dec 2024), weaker trajectory, no debate platform
 
-- [FEC API: Marianne Williamson individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=WILLIAMSON%2C+MARIANNE&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Marianne Williamson individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=WILLIAMSON%2C+MARIANNE) (Tier 1)
 - Abandoned virtual roll call vote against Harris (July 2024); indicated base would not fund aggressive primary challenge
 
 Sources: FEC.gov candidate profile (P00009910), OpenSecrets, Ballotpedia 2024 data

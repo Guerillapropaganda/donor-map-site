@@ -57,7 +57,7 @@ Greenwald's career traces one of the most dramatic funding arcs in political med
 > [!money]
 > The most ideologically specific FEC record in the media section of this vault. Two contributions to the single Republican most aggressively targeted by AIPAC-aligned super PACs (Massie has voted against Israel military aid multiple times). Greenwald's only political donations are to an anti-interventionist libertarian Republican who shares his civil-libertarian and anti-Israel-lobby positions. This FEC footprint maps his trajectory from left-civil-libertarian (Snowden reporting) to anti-establishment alignment that crosses party lines — not rightward political conversion but principled anti-interventionism and anti-surveillance positioning that found no Democratic home. The donations reveal that Greenwald's analysis — anti-war, anti-surveillance state, anti-Israel lobby — is ideologically Republican-adjacent even though it originated on the left.
 
-- [FEC API: Glenn Greenwald individual contributions (2 results, $500)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=glenn+greenwald&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Glenn Greenwald individual contributions (2 results, $500)](https://www.fec.gov/data/receipts/?contributor_name=glenn+greenwald) (Tier 1)
 
 > **Note on API results:** The FEC API search for "glenn greenwald" returns 2 results ($500 total), both to Thomas Massie for Congress (2025), self-employed. All verified as belonging to the journalist. No disambiguation needed — employer and recipient confirm both results are the media figure.
 

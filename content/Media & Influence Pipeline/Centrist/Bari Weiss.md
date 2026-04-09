@@ -73,7 +73,7 @@ Bari Weiss's career traces the most successful version of the "resignation-to-em
 
 No FEC individual contributions found. FEC API returns 83 results for "Bari Weiss" — all belong to other individuals (Weiss is a common surname; results include different people across multiple states). Zero match the journalist. Zero political donations from a media figure who raises venture capital from Trump-adjacent investors (Andreessen, Sacks, Kotick) and whose acquisition by a Trump-sympathetic billionaire (Ellison) makes her editor-in-chief of CBS News.
 
-- [FEC API: Bari Weiss individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=weiss%2C+bari&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Bari Weiss individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=weiss%2C+bari) (Tier 1)
 
 > **Disambiguation note:** The FEC API returns 83 results for "Weiss, Bari" — none are the journalist. The absence of FEC records from a media figure whose career is explicitly political (resignation letter as brand launch, "anti-woke" editorial positioning, venture capital from Trump allies) contrasts with figures like Taibbi (7 contributions documenting political arc) or Ball (227+ donations mapping ideological commitment). Weiss's zero FEC participation while simultaneously serving as both a venture-funded media entrepreneur and editor-in-chief of CBS News represents a complete separation of political participation from political influence. Her political power operates entirely through editorial position and institutional appointment, not through campaign finance.
 

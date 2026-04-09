@@ -27,7 +27,7 @@ Chris Hedges is a Pulitzer Prize-winning journalist who spent 15 years as a fore
 
 No FEC individual contributions found. The FEC API returns 0 results for both "HEDGES, CHRIS" and "HEDGES, CHRISTOPHER" — no contributions on record for the Pulitzer Prize-winning journalist. A career spent critiquing both parties' subservience to corporate power reflected in zero financial engagement with the system he covers. The $0 is ideologically consistent: Hedges views electoral politics as a corporate managed spectacle.
 
-- [FEC API: Chris Hedges individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=HEDGES%2C+CHRIS&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Chris Hedges individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HEDGES%2C+CHRIS) (Tier 1)
 
 ### The Funding Model
 

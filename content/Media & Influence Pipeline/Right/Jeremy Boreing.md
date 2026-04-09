@@ -44,7 +44,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "BOREIN
 > [!money]
 > Boreing built the infrastructure for political influence — the capital returns flow through equity and consumer brands, not personal donations. The pattern is identical to Ben Shapiro ($0), Matt Walsh ($0), Michael Knowles ($0), and Laura Ingraham ($0): Daily Wire principals exercise political influence through platform scale, not personal campaign giving. This is the Daily Wire model — the donor (Wilks Brothers) provides capital, the talent provides reach, and the capital returns flow through equity stakes and consumer brand revenue rather than political contributions.
 
-- [FEC API: Jeremy Boreing individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=BOREING%2C+JEREMY&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Jeremy Boreing individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=BOREING%2C+JEREMY) (Tier 1)
 
 ### Who Funds Them
 
@@ -167,7 +167,7 @@ Boreing's model differs from individual host capture — he built the platform i
 - [In These Times: How a Shadowy Hollywood Conservative Group Gamed the IRS](https://inthesetimes.com/article/shadowy-hollywood-conservative-group-cheated-irs-documents-show) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
 - [Mediaite: Daily Wire made a 'Game of Thrones'-sized bet with Pendragon Cycle](https://www.mediaite.com/media/daily-wire-made-a-game-of-thrones-sized-bet-with-fantasy-series-producers-say-it-was-more-than-worth-it/) (Tier 3) (WebFetch/WebSearch verified 2026-03-27)
 - [Vice: Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Denial Empire](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
-- [FEC API: Jeremy Boreing individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=BOREING%2C+JEREMY&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (Chrome required — API rate-limited HTTP 429, 2026-03-27)
+- [FEC: Jeremy Boreing individual contributions](https://www.fec.gov/data/receipts/?contributor_name=BOREING%2C+JEREMY) (Tier 1) (Chrome required — API rate-limited HTTP 429, 2026-03-27)
 
 **Note:** 13 non-FEC sources verified via WebFetch/WebSearch (2026-03-27); key Axios and Deadline sources Chrome-verified 2026-03-27. FEC confirmed $0 via Chrome JavaScript API execution 2026-03-27.
 

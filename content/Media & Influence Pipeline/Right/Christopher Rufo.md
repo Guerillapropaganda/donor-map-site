@@ -182,7 +182,7 @@ Triple-income-stream architecture means that even if one funding source dries up
 
 ### Sources
 
-- [FEC API: Christopher Rufo individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Christopher%20Rufo&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Christopher Rufo individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=Christopher+Rufo) (Tier 1)
 - [ProPublica Nonprofit Explorer: Manhattan Institute for Policy Research (990 filings, 2014–2024)](https://projects.propublica.org/nonprofits/organizations/135626156) *(source unavailable)* (Tier 1)
 - [ProPublica Nonprofit Explorer: American Studio (990 filings, 2020–2024)](https://projects.propublica.org/nonprofits/organizations/855631396) *(source unavailable)* (Tier 1)
 - [Center for Media and Democracy: SourceWatch — Manhattan Institute for Policy Research](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Manhattan_Institute_for_Policy_Research) (Tier 2)

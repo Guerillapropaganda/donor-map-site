@@ -57,7 +57,7 @@ Dore operates a multi-platform, audience-funded model with no single corporate d
 > [!money]
 > One $500 contribution to Pete Buttigieg's 2020 campaign, made in June 2017 before Buttigieg was a national political figure. Notable because Dore later became one of Buttigieg's most vocal left-wing critics during the 2020 primary, attacking him as a corporate-backed empty suit. The donation predates the feud — making it the only documented FEC evidence that Dore ever supported a Democratic politician who would later become the target of his fiercest criticism. The pattern is analytically revealing: give $500 to a candidate, then spend thousands of hours on YouTube attacking that candidate. The monetary commitment to electoral politics was transient; the media platform commitment to attacking electoral politics was sustained.
 
-- [FEC API: Jimmy Dore individual contributions (1 result, $500)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=dore%2C+jimmy&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Jimmy Dore individual contributions (1 result, $500)](https://www.fec.gov/data/receipts/?contributor_name=dore%2C+jimmy) (Tier 1)
 
 > **Note on API results:** The FEC API search for "dore, jimmy" returns 1 result: $500 to Pete Buttigieg 2020 campaign, self-employed. Matches the comedian profile. No disambiguation required — single confirmed result is the media personality.
 

@@ -102,9 +102,9 @@ Every media profile follows this structure:
 8. **`### What Their Funders Got`** — Measurable outcomes: narrative shifts, political cover provided, policy positions normalized, candidates boosted/destroyed. The ROI section.
 9. **`### Class Analysis`** — Who benefits from this person's platform existing? What structural function do they serve for the donor class? How does their audience capture serve capital?
 10. **`### Capture Architecture`** — 3-5 line structural summary mapping platform funder, income dependency, and editorial red lines.
-11. **`### Sources`** — Same format as main vault: `[Source: Description](URL) (Tier X)`. FEC individual contributions cite the direct API endpoint with DEMO_KEY (see [[API Pipeline]]).
+11. **`### Sources`** — Same format as main vault: `[Source: Description](URL) (Tier X)`. FEC individual contributions cite the FEC website receipts search URL.
 
-**FEC data requirement:** Every U.S.-eligible media profile must include a standardized `### FEC Record` section. Use `fecDonorLookup()` from `api-toolkit.js` for research; cite the direct API endpoint with DEMO_KEY for reader verification. All FEC data is also aggregated in the **FEC Filings — Consolidated Media Pipeline Table** in [[_Media Pipeline Index]] — update the table when adding or modifying any profile's FEC data.
+**FEC data requirement:** Every U.S.-eligible media profile must include a standardized `### FEC Record` section. Use `fecDonorLookup()` from `api-toolkit.js` for research; cite the FEC website receipts URL for reader verification. All FEC data is also aggregated in the **FEC Filings — Consolidated Media Pipeline Table** in [[_Media Pipeline Index]] — update the table when adding or modifying any profile's FEC data.
 
 ### `### FEC Record` section spec — placement: after `### The Funding Model`, before `### Who Funds Them`:
 
@@ -122,7 +122,7 @@ Every media profile follows this structure:
 > [!money]
 > [1-3 sentence analytical read — what the FEC record reveals about this person's actual political commitments vs. on-air positioning]
 
-- [FEC API: [Name] individual contributions (N results, $X,XXX)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=[name]&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: [Name] individual contributions (N results, $X,XXX)](https://www.fec.gov/data/receipts/?contributor_name=[NAME]) (Tier 1)
 ```
 
 ### For profiles with $0 confirmed (always explain what the API returned):
@@ -133,7 +133,7 @@ Every media profile follows this structure:
 
 No FEC individual contributions found. The FEC API returns [N] results for "[name]" — [brief explanation of who those results belong to and why none match]. [1 sentence analytical read.]
 
-- [FEC API: [Name] individual contributions ([N] results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=[name]&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: [Name] individual contributions ([N] results)](https://www.fec.gov/data/receipts/?contributor_name=[NAME]) (Tier 1)
 ```
 
 **Rule: Always show your work on disambiguation.** When the API returns results for a common name but none belong to the subject, say so — name the count, explain why they don't match (wrong state, wrong employer, wrong occupation), and confirm $0 for the actual person. Silence is not the same as absence. Readers clicking the API link will see those results and need to understand why we're reporting $0.

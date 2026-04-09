@@ -41,7 +41,7 @@ Author of Drift: The Unmooring of American Military Power (2012), Blowout: Corru
 > [!money]
 > Correction from initial profile data: $100 total in two ActBlue contributions, both from 2005–2006, both from PIQUANT LLC (Maddow's media production company). This is pre-MSNBC career — made during her Air America Radio years (2004–2010). Since joining MSNBC in 2008, zero documented federal political contributions across 18 years and a $25–30M/year salary. The analytical significance: the highest-paid progressive media figure in America made $100 in political donations during her pre-MSNBC independent media phase, then zero in the 18 years of corporate MSNBC employment. The $0 contribution rate while earning $25–30M/year is the story — the silence itself demonstrates how corporate media salaries eliminate the need for political engagement at the individual level. MSNBC is her political engagement vehicle.
 
-- [FEC API: Rachel Maddow individual contributions (2 results, $100)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=rachel+maddow&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Rachel Maddow individual contributions (2 results, $100)](https://www.fec.gov/data/receipts/?contributor_name=rachel+maddow) (Tier 1)
 
 > **Note on API results:** The FEC API search for "rachel maddow" returns 2 results ($100 total), both from PIQUANT LLC (Maddow's media production company), 2005-2006 (Air America Radio era). All contributions verified as belonging to the MSNBC host. No disambiguation needed.
 

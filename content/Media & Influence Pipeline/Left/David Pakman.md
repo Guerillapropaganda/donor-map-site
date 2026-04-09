@@ -30,7 +30,7 @@ FEC results for "David Pakman" (22 results, $18,481.45, CT 2015-2026) belong to 
 
 No federal political contributions found for David Pakman (the show host). David B. Pakman (the venture capitalist with the same name) has made substantial political contributions, but these are not attributable to the media personality.
 
-- [FEC API: David Pakman disambiguation](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=pakman%2C+david&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1 — note: results are David B. Pakman, venture capitalist, not the media host)
+- [FEC: David Pakman disambiguation](https://www.fec.gov/data/receipts/?contributor_name=pakman%2C+david) (Tier 1 — note: results are David B. Pakman, venture capitalist, not the media host)
 
 > **Disambiguation note:** The FEC API search for "pakman, david" returns 22 results ($18,481.45 total). All 22 results belong to **David B. Pakman**, a venture capitalist at CoinFund (formerly Venrock), with Connecticut address and employer listed as financial firms (CoinFund, etc.). None of the 22 results match the YouTube host David Pakman — media personality has zero federal campaign contributions on record. Wikipedia distinguishes them: "For the internet entrepreneur and venture capitalist, see David B. Pakman." Disambiguation confirmed: all 22 API results = different person.
 

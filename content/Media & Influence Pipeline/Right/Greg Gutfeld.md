@@ -44,7 +44,7 @@ No FEC individual contributions found. The FEC API returns 0 results for both "G
 > [!money]
 > Zero FEC at $7M/yr income is the Fox News institutional pattern. Gutfeld, like Hannity ($45M/yr, $0 FEC), Ingraham ($15M/yr, $0 FEC), and Shapiro ($0 FEC), exercises political influence through airtime, not donations. The donation IS the platform access — Fox Corp's advertising revenue structure IS the political economy.
 
-- [FEC API: Greg Gutfeld individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=GUTFELD%2C+GREG&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Greg Gutfeld individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=GUTFELD%2C+GREG) (Tier 1)
 
 ### Who Funds Them
 
@@ -127,6 +127,6 @@ The zero-FEC pattern is revealing: Gutfeld's political influence is entirely cha
 - [The Daily Beast: How Vaccine Companies Have Bankrolled Fox News' Anti-Vaxx Insanity](https://www.thedailybeast.com/how-vaccine-companies-have-bankrolled-fox-news-anti-vaxx-insanity/) (Tier 2)
 - [Wikipedia: Greg Gutfeld](https://en.wikipedia.org/wiki/Greg_Gutfeld) (Tier 3)
 - [Ballotpedia: Greg Gutfeld](https://ballotpedia.org/Greg_Gutfeld) (Tier 3)
-- [FEC API: Greg Gutfeld individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=GUTFELD%2C+GREG&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Greg Gutfeld individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=GUTFELD%2C+GREG) (Tier 1)
 
 content-readiness:: ready

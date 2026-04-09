@@ -32,7 +32,7 @@ The founding of FiveThirtyEight itself traces to poker politics: the Unlawful In
 
 No FEC individual contributions found. FEC API returns 9 results for "Nate Silver" — all belong to other individuals: SILVERMAN, NATE (ClickUp Inc., OR); SILVER, NATE (Adonis, NY / Deloitte, NY); SILVERI, NATE (TPG Tuning, PA); SILVERBLATT, NATE (Accenture, TX-VA); SILVER, NATE (National Student Leadership Conference, IL). None match the statistician. Zero political donations from a man who has built his career analyzing elections — the most complete separation of analytical engagement from political participation in the vault.
 
-- [FEC API: Nate Silver individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=silver%2C+nate&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Nate Silver individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=silver%2C+nate) (Tier 1)
 
 > **Disambiguation note:** The FEC API returns 9 results for "Silver, Nate" — none are the statistician. The absence of any FEC record from a career election analyst who has created models used by millions of voters and by political campaigns themselves is structurally significant. Silver's analytical method (probabilistic, not class-based) and his funding model (via Disney, Substack, and Polymarket) create no requirement for personal political participation. His influence operates through predictions and credibility, not through campaign support. The zero FEC record documents the complete dematerialization of political participation into platform authority: Silver doesn't need to donate to shape how people think about elections — his models do that automatically.
 
