@@ -1,27 +1,28 @@
 ---
-title: "Raul Grijalva"
+title: Raul Grijalva
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Arizona"
-state-abbr: "AZ"
-district: "7"
+party: Democrat
+chamber: House
+state: Arizona
+state-abbr: AZ
+district: '7'
 committees:
-  - "Environment & Public Works"
+  - Environment & Public Works
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Environment"
-total-received: "$17,388"
-fec-candidate-id: "H2AZ07070"
+  - Environment
+total-received: '$17,388'
+fec-candidate-id: H2AZ07070
 govtrack-id: 400162
 bills-sponsored: 2
 bills-cosponsored: 122
-donors: "[[National Nurses United]]"
+donors: '[[National Nurses United]]'
+opposes: '[[AMERICANS FOR TAX REFORM]]'
 ---
 
 
