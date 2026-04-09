@@ -38,6 +38,7 @@ corroboration-count: 3
 known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
+internal-notes: "[URL Check 2026-04-09] 19 checked: 18 ok, 1 broken, 0 slow. | BROKEN: Source: CourtListener / RECAP"
 ---
 
 #ajay-royan #mithril-capital #thiel #tech #venture-capital #defense-tech #biotech #republican #donor #paypal-mafia-adjacent #oak-ridge #hoover-institution
