@@ -6,6 +6,7 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
 related: "[[Project 2025 - The Blueprint They Followed]] · [[The One Big Beautiful Bill - Who Won and Who Paid]]"
+internal-notes: "[URL Check 2026-04-09] 8 checked: 5 ok, 3 broken, 0 slow. | BROKEN: Joint Committee on Taxation: JCX-67-17 — TCJA official estimate ($1.5T revenue cost) | BROKEN: Congressional Budget Office: Economic Effects of TCJA (Publication 53312) | BROKEN: CNN Business: Stock buyback records ($437B explosion in 2018 post-TCJA)"
 ---
 
 
