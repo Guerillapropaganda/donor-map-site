@@ -35,7 +35,8 @@ stories: >-
   Fraud]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The PayPal
   Mafia and the Venture Capital Governing Class]] · [[The Palantir State -
   Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance
-  Expansion]]
+  Expansion]] · [[The Billionaire Cabinet - Wealthiest Administration in
+  History]]
 ---
 
 
