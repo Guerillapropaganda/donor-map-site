@@ -174,7 +174,7 @@ export default function RelationshipsPage() {
       const data = await res.json()
       if (data.success) {
         setSuggestions(prev => prev.map(s => s.id === id ? { ...s, investigate: !currentlyInvestigating, investigateAt: !currentlyInvestigating ? new Date().toISOString() : undefined } : s))
-        showToast(currentlyInvestigating ? "Removed from investigation queue" : "Sent to Research Claude for investigation")
+        showToast(currentlyInvestigating ? "Removed priority flag" : "Flagged as PRIORITY for Research Claude")
       }
     } catch { showToast("Failed to update investigation status") }
   }
@@ -833,7 +833,7 @@ export default function RelationshipsPage() {
                             <span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: cc }} />
                             <span className="text-[9px] font-bold uppercase" style={{ color: cc }}>{s.confidence}</span>
                             {s.strategies.map((st: string) => <span key={st} className="text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)]">{st}</span>)}
-                            {s.investigate && <span className="text-[7px] px-1.5 py-0.5 rounded bg-[#a855f7]/15 text-[#a855f7] border border-[#a855f7]/30">&#128269; investigating</span>}
+                            {s.investigate && <span className="text-[7px] px-1.5 py-0.5 rounded bg-[#ef4444]/15 text-[#ef4444] border border-[#ef4444]/30">&#9888; PRIORITY</span>}
                             {s.note && <span className="text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-steel)]/10 text-[var(--color-steel)]" title={s.note}>&#128221; note</span>}
                           </div>
                           <span className="text-[8px] text-[var(--color-text-dim)]">{new Date(s.discoveredAt).toLocaleDateString()}</span>
@@ -929,7 +929,7 @@ export default function RelationshipsPage() {
                               <button onClick={() => undoAction(s.id)} disabled={saving} className="ml-2 text-[8px] px-2 py-0.5 rounded border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] hover:bg-[var(--color-bg-hover)] disabled:opacity-50" title="Undo this action">&#8634; Undo</button>
                               <label className="ml-auto flex items-center gap-1.5 cursor-pointer" title="Flag for Research Claude">
                                 <input type="checkbox" checked={!!s.investigate} onChange={() => toggleInvestigate(s.id, !!s.investigate)} className="rounded accent-[#a855f7]" />
-                                <span className={`text-[8px] ${s.investigate ? "text-[#a855f7] font-bold" : "text-[var(--color-text-dim)]"}`}>&#128269; Research</span>
+                                <span className={`text-[8px] ${s.investigate ? "text-[#a855f7] font-bold" : "text-[var(--color-text-dim)]"}`}>&#9888; Priority</span>
                               </label>
                             </div>
                           ) : (
@@ -940,7 +940,7 @@ export default function RelationshipsPage() {
                               {s.autoCreate && <span className="text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-green)]/10 text-[var(--color-green)]">auto-create eligible</span>}
                               <label className="ml-auto flex items-center gap-1.5 cursor-pointer" title="Flag for Research Claude">
                                 <input type="checkbox" checked={!!s.investigate} onChange={() => toggleInvestigate(s.id, !!s.investigate)} className="rounded accent-[#a855f7]" />
-                                <span className={`text-[8px] ${s.investigate ? "text-[#a855f7] font-bold" : "text-[var(--color-text-dim)]"}`}>&#128269; Research</span>
+                                <span className={`text-[8px] ${s.investigate ? "text-[#a855f7] font-bold" : "text-[var(--color-text-dim)]"}`}>&#9888; Priority</span>
                               </label>
                             </div>
                           )}

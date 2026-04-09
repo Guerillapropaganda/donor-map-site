@@ -273,35 +273,101 @@ function removeConnectionFromVault(sourcePath: string, targetTitle: string, rela
   }
 }
 
+interface InvestigateItem {
+  flaggedAt: string
+  priority: "normal" | "urgent"
+  note?: string
+  source: string
+  target: string
+  type: string
+  reasoning?: string
+}
+
+// Add to investigate queue (called by both approve and manual flag)
+function addToInvestigateQueue(id: string, suggestion: Suggestion, priority: "normal" | "urgent") {
+  const queue = readJSON(INVESTIGATE_FILE) as Record<string, InvestigateItem>
+  const notes = readJSON(NOTES_FILE) as Record<string, SuggestionNote>
+  const existing = queue[id]
+
+  // Manual flag always upgrades to urgent; never downgrade urgent to normal
+  if (existing && existing.priority === "urgent" && priority === "normal") {
+    return // already urgent, don't downgrade
+  }
+
+  queue[id] = {
+    flaggedAt: existing?.flaggedAt || new Date().toISOString(),
+    priority,
+    note: notes[id]?.note,
+    source: suggestion.source,
+    target: suggestion.target,
+    type: suggestion.type,
+    reasoning: suggestion.reasoning,
+  }
+  writeJSON(INVESTIGATE_FILE, queue)
+  writeInvestigateAdminNote(queue)
+}
+
 // Write investigate queue to Admin Notes for Research Claude
-function writeInvestigateAdminNote(queue: Record<string, { flaggedAt: string; note?: string; source: string; target: string; type: string; reasoning?: string }>) {
+function writeInvestigateAdminNote(queue: Record<string, InvestigateItem>) {
   const items = Object.entries(queue)
-  if (items.length === 0) return
+  if (items.length === 0) {
+    // Clean up the admin note if queue is empty
+    const adminNotesDir = path.join(process.cwd(), "..", "content", "Admin Notes")
+    const notePath = path.join(adminNotesDir, "investigate-queue.md")
+    if (fs.existsSync(notePath)) fs.unlinkSync(notePath)
+    return
+  }
+
+  // Sort: urgent first, then by date
+  items.sort((a, b) => {
+    if (a[1].priority !== b[1].priority) return a[1].priority === "urgent" ? -1 : 1
+    return new Date(b[1].flaggedAt).getTime() - new Date(a[1].flaggedAt).getTime()
+  })
+
+  const urgentCount = items.filter(([, v]) => v.priority === "urgent").length
+  const normalCount = items.length - urgentCount
 
   const lines = [
     "---",
     "title: Investigation Queue",
     "type: admin-note",
     "note-type: research",
-    "priority: normal",
+    `priority: ${urgentCount > 0 ? "urgent" : "normal"}`,
     "status: open",
     `last-updated: ${new Date().toISOString().split("T")[0]}`,
     "---",
     "",
     "# Investigation Queue",
     "",
-    `${items.length} relationship suggestions flagged for deeper investigation by David.`,
+    `${items.length} relationships queued for Research Claude.${urgentCount > 0 ? ` **${urgentCount} PRIORITY** (David flagged).` : ""} ${normalCount > 0 ? `${normalCount} standard (auto-queued from approvals).` : ""}`,
     "",
   ]
 
-  for (const [id, item] of items) {
-    lines.push(`## ${item.source} \u2192 ${item.target}`)
-    lines.push(`- **Type**: ${item.type}`)
-    lines.push(`- **Flagged**: ${new Date(item.flaggedAt).toLocaleDateString()}`)
-    if (item.note) lines.push(`- **David's note**: ${item.note}`)
-    if (item.reasoning) lines.push(`- **Scanner reasoning**: ${item.reasoning}`)
-    lines.push(`- **ID**: \`${id}\``)
+  if (urgentCount > 0) {
+    lines.push("## PRIORITY (David flagged)")
     lines.push("")
+    for (const [id, item] of items.filter(([, v]) => v.priority === "urgent")) {
+      lines.push(`### ${item.source} \u2192 ${item.target}`)
+      lines.push(`- **Type**: ${item.type}`)
+      lines.push(`- **Flagged**: ${new Date(item.flaggedAt).toLocaleDateString()}`)
+      if (item.note) lines.push(`- **David's note**: ${item.note}`)
+      if (item.reasoning) lines.push(`- **Scanner reasoning**: ${item.reasoning}`)
+      lines.push(`- **ID**: \`${id}\``)
+      lines.push("")
+    }
+  }
+
+  if (normalCount > 0) {
+    lines.push("## Standard (approved relationships)")
+    lines.push("")
+    for (const [id, item] of items.filter(([, v]) => v.priority === "normal")) {
+      lines.push(`### ${item.source} \u2192 ${item.target}`)
+      lines.push(`- **Type**: ${item.type}`)
+      lines.push(`- **Flagged**: ${new Date(item.flaggedAt).toLocaleDateString()}`)
+      if (item.note) lines.push(`- **David's note**: ${item.note}`)
+      lines.push(`- **ID**: \`${id}\``)
+      lines.push("")
+    }
   }
 
   const adminNotesDir = path.join(process.cwd(), "..", "content", "Admin Notes")
@@ -339,26 +405,15 @@ export async function POST(request: Request) {
 
     const actions = readJSON(ACTIONS_FILE) as Record<string, SuggestionAction>
 
-    // Handle investigate toggle
+    // Handle investigate toggle (manual = urgent priority)
     if (action === "investigate") {
-      const queue = readJSON(INVESTIGATE_FILE) as Record<string, { flaggedAt: string; note?: string; source: string; target: string; type: string; reasoning?: string }>
-      const notes = readJSON(NOTES_FILE) as Record<string, SuggestionNote>
-      queue[id] = {
-        flaggedAt: new Date().toISOString(),
-        note: notes[id]?.note,
-        source: suggestion.source,
-        target: suggestion.target,
-        type: suggestion.type,
-        reasoning: suggestion.reasoning,
-      }
-      writeJSON(INVESTIGATE_FILE, queue)
-      writeInvestigateAdminNote(queue)
+      addToInvestigateQueue(id, suggestion, "urgent")
       return NextResponse.json({ success: true })
     }
 
     // Handle un-investigate
     if (action === "uninvestigate") {
-      const queue = readJSON(INVESTIGATE_FILE) as Record<string, { flaggedAt: string; note?: string; source: string; target: string; type: string; reasoning?: string }>
+      const queue = readJSON(INVESTIGATE_FILE) as Record<string, InvestigateItem>
       delete queue[id]
       writeJSON(INVESTIGATE_FILE, queue)
       writeInvestigateAdminNote(queue)
@@ -416,6 +471,9 @@ export async function POST(request: Request) {
         relationshipType: suggestion.type,
       }
       writeJSON(ACTIONS_FILE, actions)
+
+      // Auto-queue for Research Claude at normal priority
+      addToInvestigateQueue(id, suggestion, "normal")
 
       // Invalidate connections cache
       ;(globalThis as Record<string, unknown>).__connectionsInvalidated = Date.now()
