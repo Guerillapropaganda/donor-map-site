@@ -114,16 +114,16 @@ Bush uses personal testimony and lived experience as her primary rhetorical tool
 
 ### Sources
 
-- [Wikipedia: Cori Bush](https://en.wikipedia.org/wiki/Cori_Bush) (Tier 4)
-- [Cori Bush: Campaign site](https://www.coribush.org/about) (Tier 3)
-- [bush.house.gov: About](https://bush.house.gov/about) (Tier 1) (URL NEEDED)
-- [FEC Candidate: Cori Bush summary](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
-- [FEC: Bush campaign committee](https://www.fec.gov/data/committee/C00638767/) (Tier 1)
-- [NBC News: Bush loses primary to Bell](https://www.nbcnews.com/politics/2024-election/rep-cori-bush-loses-democratic-primary-campaign-onslaught-israel-group-rcna165306) (Tier 2)
-- [Time: Cori Bush DOJ investigation](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/) (Tier 2)
-- [Politico: Cori Bush comeback bid](https://www.politico.com/live-updates/2025/10/03/congress/cori-bushs-comeback-00592723) (Tier 2)
-- [Fox News: Bush FEC complaint over security payments](https://www.foxnews.com/politics/squad-rep-cori-bush-hit-fec-complaint-private-security-payments-husband) (Tier 3)
-- [Fox News: Bush funding claims scrutinized](https://www.foxnews.com/politics/unearthed-records-torpedo-cori-bushs-new-claim-billions-funding-she-delivered-district) (Tier 3)
+- [Wikipedia: Cori Bush](https://en.wikipedia.org/wiki/Cori_Bush) (Tier 4) (VERIFIED)
+- [Cori Bush: Campaign site](https://www.coribush.org/about) (Tier 3) (VERIFIED)
+- ~~[bush.house.gov: About](https://bush.house.gov/about)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (URL NEEDED)
+- [FEC Candidate: Cori Bush summary](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1) (VERIFIED)
+- [FEC: Bush campaign committee](https://www.fec.gov/data/committee/C00638767/) (Tier 1) (VERIFIED)
+- [NBC News: Bush loses primary to Bell](https://www.nbcnews.com/politics/2024-election/rep-cori-bush-loses-democratic-primary-campaign-onslaught-israel-group-rcna165306) (Tier 2) (VERIFIED)
+- [Time: Cori Bush DOJ investigation](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/) (Tier 2) (VERIFIED)
+- [Politico: Cori Bush comeback bid](https://www.politico.com/live-updates/2025/10/03/congress/cori-bushs-comeback-00592723) (Tier 2) (VERIFIED)
+- [Fox News: Bush FEC complaint over security payments](https://www.foxnews.com/politics/squad-rep-cori-bush-hit-fec-complaint-private-security-payments-husband) (Tier 3) (VERIFIED)
+- [Fox News: Bush funding claims scrutinized](https://www.foxnews.com/politics/unearthed-records-torpedo-cori-bushs-new-claim-billions-funding-she-delivered-district) (Tier 3) (VERIFIED)
 
 ---
 
@@ -140,7 +140,7 @@ content-readiness:: draft
 | Bills Sponsored | 0 |
 | Bills Cosponsored | 0 |
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
@@ -151,7 +151,7 @@ content-readiness:: draft
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 2,239 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1) (VERIFIED: Redirects to https://www.govtrack.us/congress/members/cori_bush/456829)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
