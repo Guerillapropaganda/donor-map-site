@@ -12,8 +12,8 @@ state-abbr: "MO"
 district: "1"
 bioguide-id: "B001224"
 govtrack-id: 456829
-bills-sponsored: 0
-bills-cosponsored: 0
+bills-sponsored: 39
+bills-cosponsored: 756
 total-received: "$534,492"
 fec-candidate-id: "H8MO01143"
 related: "[[Jamaal Bowman Master Profile]] · [[Justice Democrats]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]]"
@@ -148,8 +148,8 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 | Party | Democrat |
 | State | Missouri |
 | District | 1st |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 756 |
 
 - [Source: Congress.gov](https://www.congress.gov/member/cori-bush/B001224) (Tier 1) (VERIFIED: Removed from bad)
 <!-- auto:congress-legislation end -->
