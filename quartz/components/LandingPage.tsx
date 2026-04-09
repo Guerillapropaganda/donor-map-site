@@ -2,6 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 import { simplifySlug } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
+import { isConstructionMode } from "../constructionMode"
 
 // ─── Helpers ────────────────────────────────────────────────────────
 function findPage(allFiles: QuartzPluginData[], searchTerm: string): QuartzPluginData | undefined {
@@ -186,6 +187,45 @@ const LandingPage: QuartzComponent = ({
     const r = String(f.frontmatter?.["content-readiness"] ?? "")
     return r === "ready" || r === "publication-ready"
   }).length
+
+  // ─── Construction mode ──────────────────────────────────────────────
+  if (isConstructionMode) {
+    return (
+      <div class={classNames(displayClass, "lp-landing lp-construction")}>
+        <div class="lp-construct-container">
+          <div class="lp-construct-badge">UNDER CONSTRUCTION</div>
+          <h1 class="lp-construct-title">The Donor Map</h1>
+          <div class="lp-construct-tagline">Follow the Money.</div>
+          <p class="lp-construct-desc">
+            We're building an open-source political donor intelligence database
+            tracking how money controls American politics. Every profile starts with
+            one question: who funds this person, and what did the funders get in return?
+          </p>
+          <div class="lp-construct-stats">
+            <div class="lp-construct-stat">
+              <span class="lp-construct-stat-num">{totalProfiles.toLocaleString()}+</span>
+              <span class="lp-construct-stat-label">Profiles</span>
+            </div>
+            <div class="lp-construct-stat">
+              <span class="lp-construct-stat-num">{politicianCount.toLocaleString()}</span>
+              <span class="lp-construct-stat-label">Politicians</span>
+            </div>
+            <div class="lp-construct-stat">
+              <span class="lp-construct-stat-num green">{donorCount.toLocaleString()}</span>
+              <span class="lp-construct-stat-label">Donors Tracked</span>
+            </div>
+          </div>
+          <div class="lp-construct-cta">
+            <span class="lp-construct-status">Launching Soon</span>
+          </div>
+          <div class="lp-construct-contact">
+            <span>Questions? </span>
+            <strong>guerillapropaganda@proton.me</strong>
+          </div>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div class={classNames(displayClass, "lp-landing")}>

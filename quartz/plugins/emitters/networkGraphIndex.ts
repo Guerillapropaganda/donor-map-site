@@ -1,4 +1,5 @@
 import { FilePath, FullSlug, simplifySlug, joinSegments } from "../../util/path"
+import { isConstructionMode } from "../../constructionMode"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 
@@ -34,6 +35,7 @@ export const NetworkGraphIndex: QuartzEmitterPlugin = () => {
   return {
     name: "NetworkGraphIndex",
     async *emit(ctx, content) {
+      if (isConstructionMode) return
       const nodes: NetworkNode[] = []
       const edges: NetworkEdge[] = []
       const titleToSlug = new Map<string, string>()

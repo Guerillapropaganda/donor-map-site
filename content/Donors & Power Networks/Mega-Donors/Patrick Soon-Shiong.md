@@ -29,9 +29,8 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[Media and Propaganda - Donors and Backers]] · [[Ron Johnson]] · [[John McCain]]"
-federal-register-mentions: 8
-regulatory-agencies:
-  - "Federal Trade Commission"
+lobbying-spend: 0
+lobbying-filings: 1
 ---
 
 #donor #mega-donor #la-times #biotech #billionaire #media-owner #republican #trump #editorial-capture #pharma-influence #class-analysis #follow-the-money
@@ -228,22 +227,19 @@ content-readiness:: ready
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Patrick%20Soon-Shiong%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
 
-### Federal Register Activity
-<!-- auto:federal-register start -->
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
 | Metric | Value |
 |--------|-------|
-| Federal Register Mentions | 8 |
-| Notice | 8 |
-| Agencies | Federal Trade Commission |
+| Total Lobbying Spend | $0 |
+| Quarterly Filings | 1 |
+| Year Range | 2026-2026 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
 
-**Recent regulatory activity:**
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2018/06/20/2018-13189/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2018-06-20) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2018/04/13/2018-07697/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2018-04-13) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2017/04/14/2017-07541/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2017-04-14) — Federal Trade Commission
-- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2016/02/16/2016-03036/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2016-02-16) — Federal Trade Commission
-- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2011/05/11/2011-11303/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2011-05-11) — Federal Trade Commission
-- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2010/09/01/2010-21410/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2010-09-01) — Federal Trade Commission
-- ... and 2 more
+**Issues lobbied:** Government Issues
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Patrick%20Soon-Shiong%22) (Tier 1)
-<!-- auto:federal-register end -->
+**Lobbying firms:** CAPITOL RESOURCES, LLC
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Patrick%20Soon-Shiong) (Tier 1)
+<!-- auto:lda-lobbying end -->

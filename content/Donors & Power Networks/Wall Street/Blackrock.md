@@ -2,7 +2,7 @@
 title: "BlackRock"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,7 +11,7 @@ issues:
   - "Wall Street & Finance"
 ein: "882750831"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 subawards-issued: 5
 subawards-issued-amount: 923723
 subawards-received: 5
@@ -22,6 +22,18 @@ federal-awards-total: 1387500
 federal-contracts-count: 25
 federal-grants-count: 6
 related: "[[Council on Foreign Relations]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+court-cases: 6120
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Minnesota"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Texas"
+  - "District Court, E.D. Virginia"
+  - "District Court, M.D. Alabama"
+  - "District Court, N.D. California"
 ---
 
 #blackrock #asset-management #wall-street #esg #index-funds #lobbying #larry-fink
@@ -177,3 +189,22 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/963017a4-7c44-8029-c07b-ea24185fdc8a-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 6,120 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Third Circuit, District Court, C.D. California, District Court, D. Minnesota, District Court, E.D. California, District Court, E.D. Pennsylvania, District Court, E.D. Texas, District Court, E.D. Virginia +7 more |
+| Case Types | 350 P.I.: Motor Vehicle, 380 Personal Property: Other, 410 Anti-Trust, 690 Forfeit/Penalty: Other, 791 Labor: E.R.I.S.A. |
+
+**Notable cases:**
+- Rodriguez v. Western Union Financial Services, Inc. (2026) — District Court, S.D. California
+- Hodges v. Washington Regional Medical System and the Pension Committee (2026) — District Court, W.D. Arkansas
+- PDF Solutions, Inc. v. SMIC New Technology Research & Development (Shanghai) Corporation (2026) — District Court, N.D. California
+- United States v. Approximately 1,070,013.93441 Tether (USDT) Cryptocurrency (2026) — District Court, M.D. Alabama
+- Rico v. RBC USA Holdco Corporation (2026) — District Court, D. Minnesota
+- Broadband Communications Association of Pennsylvan v. FCC (2026) — Court of Appeals for the D.C. Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BlackRock%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

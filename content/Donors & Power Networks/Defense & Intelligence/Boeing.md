@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Defense & Military"
 court-cases: 35992
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, D. Oregon"
   - "District Court, D. South Carolina"

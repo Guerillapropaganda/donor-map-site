@@ -15,6 +15,8 @@ last-enriched: "2026-04-07"
 total-revenue: 397265
 total-assets: 358665
 related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]]"
+lei: "R0KNQ1I1NAJLDR51ER82"
+lei-jurisdiction: "US-CA"
 ---
 
 #pge #pacific-gas-electric #california #utility #wildfire #camp-fire #monopoly #negligence
@@ -72,3 +74,18 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201337481) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [R0KNQ1I1NAJLDR51ER82](https://search.gleif.org/#/record/R0KNQ1I1NAJLDR51ER82) |
+| Legal Name | Pacific Gas and Electric Company Post-retirement Medical Plan Trust - Management and Non-Bargaining Unit Retirees |
+| Jurisdiction | US-CA |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-11-12T07:52:31Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

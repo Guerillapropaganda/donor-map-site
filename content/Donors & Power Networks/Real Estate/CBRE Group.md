@@ -44,19 +44,8 @@ related: "[[Real Estate Industry Bloc]]"
 federal-awards-total: 87656
 federal-contracts-count: 3
 federal-grants-count: 0
-court-cases: 212
-last-enriched: "2026-04-09"
-court-jurisdictions:
-  - "District Court, D. Maryland"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. New Jersey"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Georgia"
-  - "District Court, S.D. Iowa"
-  - "District Court, S.D. New York"
+top-federal-agency: "General Services Administration"
+top-naics-code: "236220"
 ---
 
 #cbre #real-estate #commercial #brokerage #lobbying #1031-exchange
@@ -150,21 +139,38 @@ content-readiness:: ready
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/7e86b7d3-1a74-95d4-dd2e-e89f86cc9d2b-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
 
-### Federal Court Records (CourtListener)
-<!-- auto:courtlistener-cases start -->
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
 | Metric | Value |
 |--------|-------|
-| Federal Court Cases | 212 |
-| Courts | District Court, D. Maryland, District Court, D. Massachusetts, District Court, D. New Jersey, District Court, E.D. New York, District Court, E.D. Pennsylvania, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. Georgia +5 more |
-| Case Types | 190 Contract: Other, 422 Bankruptcy Appeal (801), 446 Civil Rights: Americans with Disabilities - Other, Civil Rights: Jobs |
+| Top Federal Agency | General Services Administration ($28.5M) |
+| Primary NAICS Sector | Commercial and Institutional Building Construction |
 
-**Notable cases:**
-- Crump v. Cumberland Mall, LLC (2025) — District Court, N.D. Georgia
-- Perry, Sr. v. Coldwell, Banker, Richard, Ellis (CBRE) Group (2025) — District Court, D. Maryland
-- F-Star Socorro, L.P. and Official Committee of Unsecured Creditors for F-St (2025) — United States Bankruptcy Court, S.D. Texas
-- XHEPA v. CBRE GROUP, INC. (2025) — District Court, E.D. Pennsylvania
-- Iovate Health Sciences International Inc. (2025) — United States Bankruptcy Court, S.D. New York
-- CVS PHARMACY, INC. v. NEW RITE AID, LLC (2025) — District Court, D. New Jersey
+**Federal agency spending breakdown:**
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CBRE%20Group%22&type=r) (Tier 1)
-<!-- auto:courtlistener-cases end -->
+| Agency | Amount |
+|--------|--------|
+| General Services Administration | $28.5M |
+| Department of State | $5.8M |
+| Millennium Challenge Corporation | $1.8M |
+| National Archives and Records Administration | $1.3M |
+| Department of Veterans Affairs | $1.3M |
+| Department of the Treasury | $1.1M |
+| Department of the Interior | $82K |
+| Department of Defense | $58K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Commercial and Institutional Building Construction (236220) | $20.0M |
+| Administrative Management and General Management Consulting Services (541611) | $6.1M |
+| Other Activities Related to Real Estate (531390) | $5.1M |
+| Facilities Support Services (561210) | $3.0M |
+| Engineering Services (541330) | $2.1M |
+| Offices of Real Estate Agents and Brokers (531210) | $1.4M |
+| Plumbing, Heating, and Air-Conditioning Contractors (238220) | $868K |
+| Electrical Contractors and Other Wiring Installation Contractors (238210) | $718K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

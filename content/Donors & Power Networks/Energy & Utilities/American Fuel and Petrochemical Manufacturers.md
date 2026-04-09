@@ -42,17 +42,25 @@ corroboration-count: 2
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
-federal-register-mentions: 51
-regulatory-agencies:
-  - "Environmental Protection Agency"
-  - "Federal Aviation Administration"
-  - "Federal Motor Carrier Safety Administration"
-  - "Homeland Security Department"
-  - "National Highway Traffic Safety Administration"
-  - "Pipeline and Hazardous Materials Safety Administration"
-  - "Securities and Exchange Commission"
-  - "Transportation Department"
-  - "Transportation Security Administration"
+sec-filings: 115
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "425"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFN14A"
+  - "DEFR14A"
+  - "EX-9.1"
+  - "EX-99.1"
+  - "PRE 14A"
+  - "PREC14A"
+  - "PREN14A"
+  - "PRRN14A"
+  - "PX14A6G"
 ---
 
 #donor #energy #fossil-fuel #trade-association #lobbying #republican-lean #climate-obstruction #class-analysis #follow-the-money
@@ -264,24 +272,20 @@ content-readiness:: draft
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530115970) (Tier 1)
 <!-- auto:nonprofit-990 end -->
 
-### Federal Register Activity
-<!-- auto:federal-register start -->
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
 | Metric | Value |
 |--------|-------|
-| Federal Register Mentions | 51 |
-| Final Rules | 28 |
-| Proposed Rules | 16 |
-| Notices | 7 |
-| Agencies | Environmental Protection Agency, Federal Aviation Administration, Federal Motor Carrier Safety Administration, Homeland Security Department, National Highway Traffic Safety Administration, Pipeline and Hazardous Materials Safety Administration, Securities and Exchange Commission, Transportation Department +1 more |
+| Total Filings | 115 |
+| Form Types | 10-K, 10-K/A, 10-Q, 425, 8-K, ARS, DEF 14A, DEFA14A +9 more |
 
-**Recent regulatory activity:**
-- [National Emission Standards for Hazardous Air Pollutants: Polyether Polyols Production Industry Review](https://www.federalregister.gov/documents/2026/03/18/2026-05261/national-emission-standards-for-hazardous-air-pollutants-polyether-polyols-production-industry) (2026-03-18) — Environmental Protection Agency
-- [Renewable Fuel Standard (RFS) Program: Partial Waiver of the 2024 Cellulosic Biofuel Volume Requirement](https://www.federalregister.gov/documents/2025/07/07/2025-11153/renewable-fuel-standard-rfs-program-partial-waiver-of-the-2024-cellulosic-biofuel-volume-requirement) (2025-07-07) — Environmental Protection Agency
-- [Pipeline Safety: Periodic Updates of Regulatory References to Technical Standards and Miscellaneous Amendments; Additional Technical Amendments; Response to Petition for Reconsideration](https://www.federalregister.gov/documents/2025/07/01/2025-12116/pipeline-safety-periodic-updates-of-regulatory-references-to-technical-standards-and-miscellaneous) (2025-07-01) — Transportation Department
-- [Extension of Effective Date for Removal of Gasoline Volatility Waiver for Ohio and Nine Counties in South Dakota](https://www.federalregister.gov/documents/2025/03/20/2025-04751/extension-of-effective-date-for-removal-of-gasoline-volatility-waiver-for-ohio-and-nine-counties-in) (2025-03-20) — Environmental Protection Agency
-- [Enhancing Surface Cyber Risk Management](https://www.federalregister.gov/documents/2024/11/07/2024-24704/enhancing-surface-cyber-risk-management) (2024-11-07) — Homeland Security Department
-- [New Source Performance Standards for the Synthetic Organic Chemical Manufacturing Industry and National Emission Standards for Hazardous Air Pollutants for the Synthetic Organic Chemical Manufacturing Industry and Group I & II Polymers and Resins Industry](https://www.federalregister.gov/documents/2024/05/16/2024-07002/new-source-performance-standards-for-the-synthetic-organic-chemical-manufacturing-industry-and) (2024-05-16) — Environmental Protection Agency
-- ... and 45 more
+**Notable filings:**
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Fuel%20and%20Petrochemical%20Manufacturers%22) (Tier 1)
-<!-- auto:federal-register end -->
+- 2025-11-18 — **EX-99.1**: EX-99.1
+- 2024-05-07 — **PX14A6G**: PX14A6G
+- 2021-04-08 — **PX14A6G**: CALSTRS FORM PX14A6G
+- 2015-05-07 — **8-K**: FORM 8-K
+- 2021-04-14 — **PX14A6G**: PX14A6G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Fuel%20and%20Petrochemical%20Manufacturers%22) (Tier 1)
+<!-- auto:sec-edgar end -->

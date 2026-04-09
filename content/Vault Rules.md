@@ -188,15 +188,24 @@ Result: X/Y blocks — PASS/BLOCK
 | Lobbying Firm | client-list, lobbying-spend, fara (N/A), revolving-door (N/A), source-diversity, connections, orphan-claims, editorial-quality, sign-off |
 | Media | ownership, political-lean, platform, source-type (N/A), connections, orphan-claims, editorial-quality, sign-off |
 
+**#1 Editorial Rule: Class Analysis Perspective**
+
+Every profile in The Donor Map must be written from a class analysis perspective. This is non-negotiable. The entire project exists to show how money controls politics through class structures. Profiles that don't frame through class analysis miss the point.
+
+- All editorial content must analyze donor-politician relationships through the lens of class interests: who benefits, who pays, what class interests are served
+- This applies to ALL profile types: politicians, donors, corporations, think tanks, media, PACs
+- "Class Analysis" is a mandatory section in every profile (see below)
+
 **`editorial-quality` block (all types) — Research Claude must check and fix:**
 
-Every profile must have these 7 core sections with substantive content:
+Every profile must have these 8 core sections with substantive content:
 
 | Section | What "passes" means |
 |---------|-------------------|
 | Who They Are | 2+ paragraphs. Bio, credentials, career arc. Not just a sentence. |
 | The Central Thesis | Specific, bold claim about their structural role. Not generic ("takes money from donors"). Names the mechanism. |
 | The Core Contradiction | At least one sourced tension between rhetoric and record. Uses `[!contradiction]` callout. |
+| Class Analysis | Who benefits from this person's actions? What class interests do their donors represent? How does their career serve capital vs. labor? Every profile must answer these questions explicitly. |
 | Donor Class Map | Career totals with amounts. Top donors named. Sector breakdown present. |
 | Donation-to-Policy Timeline | Table with actual dates, amounts, and policy outcomes. Shows the money→action connection explicitly. |
 | Rhetorical Signature Moves | 2+ identified patterns in how they frame their actions. |

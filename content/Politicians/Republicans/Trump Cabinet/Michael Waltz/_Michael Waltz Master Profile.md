@@ -11,7 +11,6 @@ issues:
   - "Defense & Military"
 total-received: "$3,109"
 fec-candidate-id: "H8FL06148"
-bioguide-id: "A000383"
 related: "[[Fanjul Family - Florida Crystals]]"
 govtrack-id: 412764
 bills-sponsored: 0

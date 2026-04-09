@@ -20,7 +20,6 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-bioguide-id: "A000383"
 source-types:
   - Congress
   - DOJ

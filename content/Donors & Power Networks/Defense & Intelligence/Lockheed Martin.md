@@ -427,3 +427,49 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lockheed%20Martin%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 639003 |
+| Sample Value (top 25) | $4.7B |
+| Year Range | 2020-2026 |
+| Federal Agencies | 1 |
+
+**Contracting agencies:** DEPT OF DEFENSE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $1.0B | DEPT OF DEFENSE | 2026-01-08 |
+| $183.0M | DEPT OF DEFENSE | 2025-12-18 |
+| $6.9M | DEPT OF DEFENSE | 2025-11-21 |
+| $873K | DEPT OF DEFENSE | 2025-08-07 |
+| $772K | DEPT OF DEFENSE | 2025-12-11 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Lockheed%20Martin&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1,165 |
+| Final Rules | 214 |
+| Proposed Rules | 147 |
+| Notices | 804 |
+| Agencies | Antitrust Division, Defense Department, Justice Department, Labor Department, Veterans Employment and Training Service |
+
+**Recent regulatory activity:**
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05145/arms-sales-notification) (2026-03-17) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05142/arms-sales-notification) (2026-03-17) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05141/arms-sales-notification) (2026-03-17) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05140/arms-sales-notification) (2026-03-17) — Defense Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/10/2026-04618/arms-sales-notification) (2026-03-10) — Defense Department
+- ... and 1,159 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lockheed%20Martin%22) (Tier 1)
+<!-- auto:federal-register end -->

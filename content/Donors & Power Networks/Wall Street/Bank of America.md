@@ -2,7 +2,7 @@
 title: "Bank of America"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -12,12 +12,12 @@ politicians-funded:
   - "Tim Scott"
 issues:
   - "Wall Street & Finance"
-ein: 200721133
+ein: "200721133"
 annual-revenue: "$220.2M"
 net-assets: "$7.6M"
 tax-year: "2023"
 federal-register-mentions: 828
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Commodity Futures Trading Commission"
   - "Comptroller of the Currency"
@@ -48,6 +48,12 @@ subawards-received: 9
 subawards-received-amount: 912260
 top-federal-agency: "Department of Defense"
 top-naics-code: "522110"
+nonprofit-status: "501(c)(3)"
+total-revenue: 218843611
+total-assets: 10062101
+federal-awards-total: 180306
+federal-contracts-count: 4
+federal-grants-count: 3
 ---
 
 #bank-of-america #wall-street #banking #too-big-to-fail #consumer-finance #lobbying #mortgage
@@ -214,3 +220,57 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 200721133 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $218.8M |
+| Total Assets | $10.1M |
+| NTEE Code | T20 |
+| IRS Ruling Date | 2004-03-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/200721133) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $180K |
+| Contracts (recent 3yr) | 4 ($21.3M sampled) |
+| Grants (recent 3yr) | 3 ($552K sampled) |
+| Federal Agencies | 3 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $8.7M | Department of Defense | FISCAL YEAR 2022 TASK ORDER FOR OVERSEAS MILITARY BANKING PROGRAM |
+| $4.2M | Department of Defense | FISCAL YEAR 2021 TASK ORDER FOR OVERSEAS MILITARY BANKING PROGRAM |
+| $4.2M | Department of Defense | FISCAL YEAR 2020 TASK ORDER FOR OVERSEAS MILITARY BANKING PROGRAM |
+| $4.2M | Department of Defense | FY18 TASK ORDER FOR OVERSEAS MILITARY BANKING PROGRAM |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $296K | Department of the Interior | DEVELOPMENT BANK OF AMERICAN SAMOA (DBAS) CONTINUES TO SEARCH FOR AVENUES TO ADAPT TO THE CHANGES TO |
+| $256K | Department of the Interior | DBAS STEP INTO VIRTUAL BANKING |
+| $0 | Department of Agriculture | RBDG RURAL BUSINESS COOP RURAL ENTERPRISE GRANT |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/509d48f2-8c0f-b129-8f4d-2638ea28c675-R/latest) (Tier 1)
+<!-- auto:usaspending end -->

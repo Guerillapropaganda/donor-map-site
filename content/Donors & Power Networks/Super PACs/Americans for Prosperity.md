@@ -2,7 +2,7 @@
 title: "Americans for Prosperity"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -12,7 +12,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 court-cases: 780
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Eighth Circuit"
@@ -24,11 +24,14 @@ court-jurisdictions:
   - "District Court, D. New Jersey"
   - "District Court, District of Columbia"
   - "District Court, E.D. Pennsylvania"
-ein: 753148958
+ein: "753148958"
 annual-revenue: "$186.4M"
 net-assets: "$45.0M"
 tax-year: "2023"
 related: "[[Senate Majority PAC]] · [[Jodey Arrington]] · [[State Policy Network]]"
+nonprofit-status: "501(c)(4)"
+total-revenue: 224037344
+total-assets: 60720666
 ---
 
 #donor-node #koch-network #dark-money #super-pac #501c4 #astroturf #state-capture #class-analysis #follow-the-money
@@ -222,3 +225,28 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 753148958](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 753148958 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $224.0M |
+| Total Assets | $60.7M |
+| NTEE Code | S31 |
+| IRS Ruling Date | 2004-10-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@
 title: "Raytheon (Redirect)"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: null
 parent: null
 sector: "Mega-Donors"
@@ -13,7 +13,7 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 source-types:
   - USASpending
 known-gaps:

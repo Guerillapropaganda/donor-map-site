@@ -12,7 +12,6 @@ state-abbr: "GA"
 top-donors:
   - "Tech and Media Donors"
   - "Healthcare Sector"
-bioguide-id: "A000383"
 total-received: "$6,047,785"
 fec-candidate-id: "S0GA00559"
 govtrack-id: 456858

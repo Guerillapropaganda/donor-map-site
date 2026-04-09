@@ -2,7 +2,7 @@
 title: "GEO Group - Private Prison Industrial Complex"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Carceral State"
@@ -15,7 +15,7 @@ politicians-funded:
   - "Pam Bondi"
 federal-contracts: "959292"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "NPWMD] [IFSR"
   - "IRAN-EO13871"

@@ -2,7 +2,7 @@
 title: "John Deere"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -19,7 +19,7 @@ net-assets: "$212.6M"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 subawards-issued: 50
 subawards-issued-amount: 7034204
 subawards-received: 50
@@ -46,6 +46,7 @@ regulatory-agencies:
   - "International Trade Commission"
   - "Justice Department"
   - "Patent and Trademark Office"
+cpsc-recalls: 43
 ---
 
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
@@ -230,3 +231,25 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22John%20Deere%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 43 |
+| Most Recent Recall | 2025-01-02 |
+| Earliest Recall | 1984-07-09 |
+| Hazard Types | The voltage regulator in the mower's engine can fail during use or while the product is being stored, causing the engine to overheat, posing fire and burn hazards., The front bell crank in the brake linkage can fail causing the tractor to lose braking, resulting in a crash hazard., The recalled engines can overheat, posing fire and burn hazards., Fuel can leak from under the fuel cap, posing a fire hazard., The wheel hubs were not manufactured to specifications and can fail, causing the tractor to lose braking and propulsion, posing crash and injury hazards. |
+
+**Recent recalls:**
+
+- [Kawasaki Motors USA Recalls John Deere ZTrak Zero Turn Mowers with Kawasaki Engines Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/25083) (2025-01-02) — The voltage regulator in the mower's engine can fail during use or while the product is being stored, causing the engine to overheat, posing fire and burn hazards.
+- [John Deere Recalls Compact Utility Tractors Due to Crash Hazard](https://www.cpsc.gov/Recalls/24377) (2024-09-26) — The front bell crank in the brake linkage can fail causing the tractor to lose braking, resulting in a crash hazard.
+- [Kawasaki Motors USA Recalls Engines Used in Bad Boy Mowers, BigDog, Bobcat, Cub Cadet, Hustler, John Deere and Kubota Brand Lawn and Garden Equipment Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/24256) (2024-06-06) — The recalled engines can overheat, posing fire and burn hazards.
+- [John Deere Recalls XUV590 Gator Utility Vehicles Due to Fire Hazard (Recall Alert)](https://www.cpsc.gov/Recalls/23768) (2023-06-08) — Fuel can leak from under the fuel cap, posing a fire hazard.
+- [John Deere Recalls Lawn Tractors Due to Crash and Injury Hazards (Recall Alert)](https://www.cpsc.gov/Recalls/22756) (2022-07-07) — The wheel hubs were not manufactured to specifications and can fail, causing the tractor to lose braking and propulsion, posing crash and injury hazards.
+- [John Deere Recalls Compact Utility Tractors Due to Risk of Injury (Recall Alert)](https://www.cpsc.gov/Recalls/21776) (2021-08-19) — Rear wheel spacer bolts that were torqued improperly during manufacturing can cause the wheel to fall off during use. This can result in the tractor overturning, posing an injury hazard to the operator.
+- ... and 37 more
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=John%20Deere) (Tier 1)
+<!-- auto:cpsc-recalls end -->

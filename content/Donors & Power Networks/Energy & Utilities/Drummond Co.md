@@ -2,7 +2,7 @@
 title: "Drummond Co."
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -27,6 +27,8 @@ regulatory-agencies:
 ein: "412064833"
 nonprofit-status: "501(c)(3)"
 related: "[[Katie Britt]]"
+lobbying-spend: 740000
+lobbying-filings: 36
 ---
 
 #coal-mining #alabama-politics #fossil-fuel #environmental-violations #political-donor
@@ -157,3 +159,22 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/412064833) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $740K |
+| Quarterly Filings | 36 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 2 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Government Issues, Indian/Native American Affairs, Trade (domestic/foreign)
+
+**Lobbying firms:** DRUMMOND WOODSUM STRATEGIC CONSULTING LLC, OAK GROVE STRATEGIES
+
+**Agencies contacted:** Bureau of Indian Affairs (BIA), Energy, Dept of, HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Drummond%20Co.) (Tier 1)
+<!-- auto:lda-lobbying end -->

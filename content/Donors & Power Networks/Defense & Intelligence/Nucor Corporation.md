@@ -22,12 +22,11 @@ federal-awards-total: 0
 federal-contracts-count: 1
 federal-grants-count: 1
 related: "[[Trade and Tariffs - Donors and Backers]]"
-federal-register-mentions: 773
-regulatory-agencies:
-  - "Commerce Department"
-  - "Environmental Protection Agency"
-  - "International Trade Administration"
-  - "International Trade Commission"
+court-cases: 634
+court-jurisdictions:
+  - "District Court, S.D. Indiana"
+  - "District Court, S.D. Texas"
+  - "United States Court of International Trade"
 ---
 
 
@@ -210,24 +209,20 @@ content-readiness:: ready
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/eadd9efc-3f8d-7748-9766-c07740e682f0-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
 
-### Federal Register Activity
-<!-- auto:federal-register start -->
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
 | Metric | Value |
 |--------|-------|
-| Federal Register Mentions | 773 |
-| Final Rules | 10 |
-| Proposed Rules | 6 |
-| Notices | 757 |
-| Agencies | Commerce Department, Environmental Protection Agency, International Trade Administration, International Trade Commission |
+| Federal Court Cases | 634 |
+| Courts | District Court, S.D. Indiana, District Court, S.D. Texas, United States Court of International Trade |
 
-**Recent regulatory activity:**
-- [Certain Corrosion-Resistant Steel Products from the Republic of Korea: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/04/02/2026-06449/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-initiation-of-circumvention) (2026-04-02) — Commerce Department
-- [Certain Corrosion-Resistant Steel Products From the Socialist Republic of Vietnam: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/03/25/2026-05808/certain-corrosion-resistant-steel-products-from-the-socialist-republic-of-vietnam-initiation-of) (2026-03-25) — Commerce Department
-- [Certain Corrosion-Resistant Steel Products From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/03/25/2026-05807/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of) (2026-03-25) — Commerce Department
-- [Steel Concrete Reinforcing Bar From Mexico: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order](https://www.federalregister.gov/documents/2026/03/12/2026-04883/steel-concrete-reinforcing-bar-from-mexico-final-results-of-the-expedited-second-sunset-review-of) (2026-03-12) — Commerce Department
-- [Certain Cold-Rolled Steel Flat Products From Republic of Korea: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2026/03/05/2026-04328/certain-cold-rolled-steel-flat-products-from-republic-of-korea-preliminary-results-and-rescission-in) (2026-03-05) — Commerce Department
-- [Certain Cut-to-Length Carbon-Quality Steel Plate Products From the Republic of Korea: Preliminary Results and Rescission of Antidumping Duty Administrative Review, in Part; 2024-2025](https://www.federalregister.gov/documents/2026/02/26/2026-03795/certain-cut-to-length-carbon-quality-steel-plate-products-from-the-republic-of-korea-preliminary) (2026-02-26) — Commerce Department
-- ... and 767 more
+**Notable cases:**
+- Nucor Corporation v. United States (2026) — United States Court of International Trade
+- Kern v. Nucor Corporation (2026) — District Court, S.D. Texas
+- YOUNG v. NUCOR CORPORATION (2026) — District Court, S.D. Indiana
+- Galvasid S.A. de C.V. v. United States (2026) — United States Court of International Trade
+- Kemper AIP Metals, LLC v. United States (2026) — United States Court of International Trade
+- Steel Dynamics, Inc. v. United States (2026) — United States Court of International Trade
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Nucor%20Corporation%22) (Tier 1)
-<!-- auto:federal-register end -->
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Nucor%20Corporation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

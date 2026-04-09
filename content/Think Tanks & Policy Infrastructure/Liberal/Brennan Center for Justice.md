@@ -13,18 +13,14 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 111416912
 total-assets: 313321773
-court-cases: 1043
-court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Federal Circuit"
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, D. Arizona"
-  - "District Court, D. Connecticut"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. Rhode Island"
-  - "District Court, District of Columbia"
+federal-register-mentions: 13
+regulatory-agencies:
+  - "Civil Rights Commission"
+  - "Defense Department"
+  - "Federal Election Commission"
+  - "General Services Administration"
+  - "National Aeronautics and Space Administration"
+  - "Small Business Administration"
 ---
 
 #think-tank #liberal #voting-rights #democracy #criminal-justice #campaign-finance #class-analysis
@@ -233,21 +229,24 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/133839293) (Tier 1)
 <!-- auto:nonprofit-990 end -->
 
-### Federal Court Records (CourtListener)
-<!-- auto:courtlistener-cases start -->
+### Federal Register Activity
+<!-- auto:federal-register start -->
 | Metric | Value |
 |--------|-------|
-| Federal Court Cases | 1,043 |
-| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Federal Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Arizona, District Court, D. Connecticut, District Court, D. Massachusetts +6 more |
-| Case Types | 2441 Civil Rights Voting, 441 Civil Rights: Voting, 463 Habeas Corpus - Alien Detainee, 530 Habeas Corpus (General), 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+| Federal Register Mentions | 13 |
+| Rule | 7 |
+| Proposed Rule | 5 |
+| Notice | 1 |
+| Agencies | Civil Rights Commission, Defense Department, Federal Election Commission, General Services Administration, National Aeronautics and Space Administration, Small Business Administration |
 
-**Notable cases:**
-- State of California v. Trump (2026) — District Court, D. Massachusetts
-- League of United Latin American Citizens v. Executive Office of the President (2026) — Court of Appeals for the D.C. Circuit
-- League of Women Voters of Massachusetts v. Trump (2026) — District Court, D. Massachusetts
-- Castro Espinoza v. Bondi (2026) — District Court, E.D. New York
-- Guarchaj Chox v. Genalo (2026) — District Court, S.D. New York
-- Dorcas International Institute of Rhode Island v. United States Citizenship and Immigration Services (2026) — District Court, D. Rhode Island
+**Recent regulatory activity:**
+- [Use of Campaign Funds for Candidate and Officeholder Security](https://www.federalregister.gov/documents/2024/09/25/2024-21918/use-of-campaign-funds-for-candidate-and-officeholder-security) (2024-09-25) — Federal Election Commission
+- [Candidate Salaries](https://www.federalregister.gov/documents/2022/12/12/2022-26778/candidate-salaries) (2022-12-12) — Federal Election Commission
+- [Community Advantage Pilot Program](https://www.federalregister.gov/documents/2022/04/29/2022-09162/community-advantage-pilot-program) (2022-04-29) — Small Business Administration
+- [Internet Communication Disclaimers and Definition of “Public Communication”](https://www.federalregister.gov/documents/2018/03/26/2018-06010/internet-communication-disclaimers-and-definition-of-public-communication) (2018-03-26) — Federal Election Commission
+- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2016/03/11/2016-05616/sunshine-act-meeting-notice) (2016-03-11) — Civil Rights Commission
+- [Federal Acquisition Regulation; FAR Case 2007-013, Employment Eligibility Verification](https://www.federalregister.gov/documents/2008/11/14/E8-26904/federal-acquisition-regulation-far-case-2007-013-employment-eligibility-verification) (2008-11-14) — Defense Department ★
+- ... and 7 more
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brennan%20Center%20for%20Justice%22&type=r) (Tier 1)
-<!-- auto:courtlistener-cases end -->
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brennan%20Center%20for%20Justice%22) (Tier 1)
+<!-- auto:federal-register end -->

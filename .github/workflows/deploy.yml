@@ -32,6 +32,8 @@ jobs:
 
       - name: Build Quartz
         run: npx quartz build
+        env:
+          CONSTRUCTION_MODE: "true"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

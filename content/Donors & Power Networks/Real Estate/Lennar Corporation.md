@@ -63,8 +63,8 @@ corroboration-count: 4
 known-gaps:
   - "No SEC corporate filings"
   - "No lobbying disclosure data"
-nhtsa-recalls: 0
-nhtsa-complaints: 0
+lobbying-spend: 0
+lobbying-filings: 8
 ---
 
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
@@ -307,20 +307,17 @@ content-readiness:: developed
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lennar%20Corporation%22) (Tier 1)
 <!-- auto:federal-register end -->
 
-### Vehicle Safety (NHTSA)
-<!-- auto:nhtsa-recalls start -->
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
 | Metric | Value |
 |--------|-------|
-| Vehicle Recalls | 0 |
-| Consumer Complaints | 0 |
-| NHTSA Investigations | 10 |
+| Total Lobbying Spend | $0 |
+| Quarterly Filings | 8 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
 
-**Active/recent investigations:**
+**Lobbying firms:** THE FERGUSON GROUP
 
-- DP26003: Fuel smell and loss of motive power (2026-03-30)
-- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
-- DP26001: All wheel drive allegation (2026-03-06)
-- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
-
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Lennar%20Corporation) (Tier 1)
-<!-- auto:nhtsa-recalls end -->
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Lennar%20Corporation) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -18,7 +18,7 @@ net-assets: "$11K"
 tax-year: "2019"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 subawards-issued: 50
 subawards-issued-amount: 5728077424
 subawards-received: 50
@@ -26,8 +26,16 @@ subawards-received-amount: 5728077424
 top-federal-agency: "General Services Administration"
 top-naics-code: "541512"
 related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Palantir Technologies Political Operation]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Homeland Security Committee and Michigan Defense]] · [[The National Security and Foreign Policy Realist]] · [[New Hampshire 2026 Senate Race]] · [[Tammy Duckworth]] · [[L3Harris Technologies]] · [[Cornerstone Government Affairs]]"
-lei: "9C1X8XOOTYY2FNYTVH06"
-lei-jurisdiction: "US-DE"
+federal-register-mentions: 386
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Coast Guard"
+  - "Defense Department"
+  - "Environmental Protection Agency"
+  - "Homeland Security Department"
+  - "Justice Department"
+  - "Labor Department"
+  - "Veterans Employment and Training Service"
 ---
 
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial
@@ -263,17 +271,24 @@ content-readiness:: ready
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/455555be-773d-eab1-1e6b-7b94400b757e-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
 
-### Corporate Structure (GLEIF)
-<!-- auto:gleif-lei start -->
-| Field | Value |
-|-------|-------|
-| LEI | [9C1X8XOOTYY2FNYTVH06](https://search.gleif.org/#/record/9C1X8XOOTYY2FNYTVH06) |
-| Legal Name | GENERAL DYNAMICS CORPORATION |
-| Jurisdiction | US-DE |
-| Entity Status | ACTIVE |
-| Category | GENERAL |
-| Registration | ISSUED |
-| Last Updated | 2025-09-10T09:40:59Z |
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 386 |
+| Final Rules | 59 |
+| Proposed Rules | 20 |
+| Notices | 307 |
+| Agencies | Antitrust Division, Coast Guard, Defense Department, Environmental Protection Agency, Homeland Security Department, Justice Department, Labor Department, Veterans Employment and Training Service |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
-<!-- auto:gleif-lei end -->
+**Recent regulatory activity:**
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05141/arms-sales-notification) (2026-03-17) — Defense Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Undersea Technology Innovation Consortium](https://www.federalregister.gov/documents/2026/02/23/2026-03544/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-undersea-technology) (2026-02-23) — Justice Department
+- [Air Plan Approval; Connecticut; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2026/02/09/2026-02477/air-plan-approval-connecticut-revised-format-for-materials-incorporated-by-reference) (2026-02-09) — Environmental Protection Agency
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/02/2026-02077/arms-sales-notification) (2026-02-02) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/26/2026-01337/arms-sales-notification) (2026-01-26) — Defense Department
+- ... and 380 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22General%20Dynamics%22) (Tier 1)
+<!-- auto:federal-register end -->

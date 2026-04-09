@@ -352,3 +352,22 @@ THE OBJECTIVE  |
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/deb1d465-49fc-877e-6f83-066c774fb2f5-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $21.1M |
+| Quarterly Filings | 52 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 8 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Chemicals/Chemical Industry, Clean Air and Water (quality), Defense, Disaster Planning/Emergencies, Energy/Nuclear, Environment/Superfund, Foreign Relations, Fuel/Gas/Oil, Labor Issues/Antitrust/Workplace, Manufacturing, Marine/Maritime/Boating/Fisheries, Natural Resources, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, BALLARD PARTNERS, CGCN GROUP, LLC, CHEVRON PHILLIPS CHEMICAL COMPANY LP, CHEVRON U.S.A. INC., ENS RESOURCES, INC., KOUNTOUPES DENHAM CARR & REID, LLC, MEHLMAN CONSULTING, INC.
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Energy Regulatory Commission (FERC) +13 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Chevron) (Tier 1)
+<!-- auto:lda-lobbying end -->

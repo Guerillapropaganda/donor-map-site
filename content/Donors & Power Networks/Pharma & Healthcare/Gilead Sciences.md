@@ -2,7 +2,7 @@
 title: "Gilead Sciences"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -12,7 +12,7 @@ issues:
 lobbying-spend: 19612000
 lobbying-filings: 55
 court-cases: 2108
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the Fourth Circuit"
   - "Court of Appeals for the Third Circuit"

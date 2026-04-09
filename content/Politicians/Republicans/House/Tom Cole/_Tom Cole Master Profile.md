@@ -21,7 +21,7 @@ top-donors:
   - "Raytheon"
   - "Lockheed Martin"
 total-received: "$501,840"
-fec-candidate-id: "H6MO06013"
+fec-candidate-id: "H2OK04055"
 related: "[[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Adam Smith]]"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
@@ -232,3 +232,10 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Tom%20Cole%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Tom Cole](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

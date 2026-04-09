@@ -1,4 +1,5 @@
 import { FullSlug, isRelativeURL, resolveRelative, simplifySlug } from "../../util/path"
+import { isConstructionMode } from "../../constructionMode"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
@@ -39,6 +40,7 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
 export const AliasRedirects: QuartzEmitterPlugin = () => ({
   name: "AliasRedirects",
   async *emit(ctx, content) {
+    if (isConstructionMode) return
     for (const [_tree, file] of content) {
       yield* processFile(ctx, file)
     }

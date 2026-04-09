@@ -13,10 +13,8 @@ issues:
 lei: "549300S4KLFTLO7GSQ80"
 lei-jurisdiction: "US-DE"
 related: "[[OpenAI]]"
-subawards-issued: 7
-subawards-issued-amount: 5507039
-subawards-received: 7
-subawards-received-amount: 5507039
+cpsc-recalls: 2
+last-enriched: "2026-04-09"
 ---
 
 #nvidia #tech #ai #chips #gpu #defense #data-centers #jensen-huang
@@ -75,25 +73,19 @@ content-readiness:: ready
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
 
-### Federal Subawards & Spending Breakdown
-<!-- auto:usaspending-subawards start -->
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
 | Metric | Value |
 |--------|-------|
-| Subawards Issued (as prime) | 7 ($5.5M sampled) |
-| Subawards Received (as sub) | 7 ($5.5M sampled) |
+| Total CPSC Recalls | 2 |
+| Most Recent Recall | 2017-08-08 |
+| Earliest Recall | 2015-07-31 |
+| Hazard Types | The plug heads can break exposing metal prongs, posing an electric shock hazard., The lithium-ion battery in the tablets can overheat, posing a fire hazard. |
 
-**Subcontractors receiving federal money from Nvidia:**
+**Recent recalls:**
 
-| Subcontractor | Amount | Awards |
-|---------------|--------|--------|
-| NVIDIA CORP | $5.5M | 7 |
+- [NVIDIA Recalls European Plug Heads Sold with Power Adaptors Due to Electric Shock Hazard](https://www.cpsc.gov/Recalls/17201) (2017-08-08) — The plug heads can break exposing metal prongs, posing an electric shock hazard.
+- [NVIDIA Recalls Tablet Computers Due to Fire Hazard](https://www.cpsc.gov/Recalls/15204) (2015-07-31) — The lithium-ion battery in the tablets can overheat, posing a fire hazard.
 
-**Prime contractors funneling federal money to Nvidia:**
-
-| Prime Contractor | Amount | Awards |
-|------------------|--------|--------|
-| TRIAD NATIONAL SECURITY, LLC | $5.4M | 6 |
-| LOCKHEED MARTIN CORPORATION | $150K | 1 |
-
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
-<!-- auto:usaspending-subawards end -->
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Nvidia) (Tier 1)
+<!-- auto:cpsc-recalls end -->

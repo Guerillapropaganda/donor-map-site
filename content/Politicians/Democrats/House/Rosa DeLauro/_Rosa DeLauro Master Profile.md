@@ -2,7 +2,7 @@
 title: "Rosa DeLauro"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -17,11 +17,15 @@ leadership-roles:
 top-donors:
   - "Lockheed Martin"
   - "AIPAC"
-bioguide-id: "A000383"
 donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]]"
 related: "[[Tom Cole]]"
 total-received: "$689,298"
 fec-candidate-id: "H0CT03072"
+govtrack-id: 400103
+bills-sponsored: 29
+bills-cosponsored: 179
+website: "https://delauro.house.gov"
+phone: "202-225-3661"
 ---
 
 #rosa-delauro #democrat #connecticut #house #appropriations #ranking-member #phase-6-gavel-power
@@ -163,3 +167,35 @@ c
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 179 |
+| Total Votes Cast | 21,765 |
+
+**Recent bills sponsored:**
+
+- H.R. 7867: Infant Formula Safety Modernization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7822: Tariff Relief for Consumers Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 1096: Providing for consideration of the bill (H.R. 4213) making appropriations for the Department of Homeland Security for th — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7531: Healthy Families Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7481: Department of Homeland Security Appropriations Act, 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400103) (Tier 1)
+<!-- auto:govtrack end -->

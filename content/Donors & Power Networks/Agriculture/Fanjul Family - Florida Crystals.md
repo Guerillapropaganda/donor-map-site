@@ -213,9 +213,9 @@ The Fanjul family is the vault's purest example of the Both-Sides Illusion — t
 
 ### Sources
 
-- [OpenSecrets: Fanjul Corp Summary](https://www.opensecrets.org/orgs/fanjul-corp/summary?id=D000066714) (Tier 1)
-- [OpenSecrets: Fanjul Corp Recipients](https://www.opensecrets.org/orgs/fanjul-corp/recipients?id=D000066714) (Tier 1)
-- [Senate LDA Filings: Fanjul Corp Lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Fanjul Corp Summary](https://www.opensecrets.org/orgs/fanjul-corp/summary?id=D000066714) (Tier 1) (VERIFIED)
+- [OpenSecrets: Fanjul Corp Recipients](https://www.opensecrets.org/orgs/fanjul-corp/recipients?id=D000066714) (Tier 1) (VERIFIED)
+- ~~[Senate LDA Filings: Fanjul Corp Lobbying](https://lda.gov/filings/public/filing/search/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Florida Sugar Cane League PAC](https://www.opensecrets.org/political-action-committees-pacs/florida-sugar-cane-league/C00012328/summary/2024) (Tier 1)
 - [GAO: Sugar Program Report (GAO-24-106144)](https://www.gao.gov/products/gao-24-106144) (Tier 1)
 - [USDA ERS: Sugar and Sweeteners Policy](https://www.ers.usda.gov/topics/crops/sugar-and-sweeteners/policy) (Tier 1)

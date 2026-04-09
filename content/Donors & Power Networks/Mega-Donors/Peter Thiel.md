@@ -243,21 +243,20 @@ content-readiness:: ready
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Peter%20Thiel%22) (Tier 1)
 <!-- auto:federal-register end -->
 
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
 | Metric | Value |
 |--------|-------|
-| Total Lobbying Spend | $1.7M |
-| Quarterly Filings | 106 |
-| Year Range | 2024-2026 |
-| Lobbying Firms | 23 |
-| Individual Lobbyists | 0 |
+| Total Filings | 1,956 |
+| Form Types | 13F-HR, 144, 3, 3/A, 4, 8-K, D, D/A +12 more |
 
-**Issues lobbied:** Aerospace, Agriculture, Animals, Aviation/Airlines/Airports, Budget/Appropriations, Civil Rights/Civil Liberties, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Foreign Relations, Government Issues, Health Issues, Indian/Native American Affairs, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Natural Resources, Religion, Science/Technology, Taxation/Internal Revenue Code, Tobacco, Trade (domestic/foreign), Transportation, Travel/Tourism, Veterans
+**Notable filings:**
 
-**Lobbying firms:** BELL & LINDSAY, INC., BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL COUNSEL LLC, FIFESTRATEGIES, LLC, FIRST PRINCIPLES STRATEGIES, LLC, FORZA DC, LLC, J M BURKMAN & ASSOCIATES, KING & SPALDING LLP, LAURA WOOD PETERSON CONSULTING, INC., MR. PETER DICKINSON, MR. PETER KNIGHT, MR. TOBIAS PETER NOSKWITH, NORTHERN COMPASS GROUP LLC, OLD NORTH STRATEGIES, LLC, ONMESSAGE PUBLIC STRATEGIES, PETER DAMON GROUP LLC, PETER TOMPA LAW, ROBERTSON, MONAGLE & EASTAUGH LLC, STEVE PETERSEN & ASSOCIATES, THE PETERSON GROUP INC, THE PETERSON GROUP LLC, VAN SCOYOC ASSOCIATES, WASHINGTON PREMIER GROUP
+- 2025-08-11 — **SCHEDULE 13G**: SCHEDULE 13G
+- 2021-02-16 — **SC 13G**: SC 13G
+- 2025-11-14 — **SCHEDULE 13G/A**: SCHEDULE 13G/A
+- 2022-02-14 — **SC 13G**: SC 13G
+- 2021-02-16 — **SC 13G**: PETER THIEL SCHEDULE 13G
 
-**Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Bureau of Industry and Security (BIS), Bureau of Land Management (BLM), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Defense, Dept of (DOD), Economic Development Administration +25 more
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Peter%20Thiel) (Tier 1)
-<!-- auto:lda-lobbying end -->
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Peter%20Thiel%22) (Tier 1)
+<!-- auto:sec-edgar end -->

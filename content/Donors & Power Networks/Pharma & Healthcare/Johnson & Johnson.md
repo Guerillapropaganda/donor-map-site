@@ -9,7 +9,7 @@ sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-ein: 760552018
+ein: "760552018"
 annual-revenue: "$477K"
 net-assets: "$1.3M"
 tax-year: "2023"
@@ -28,8 +28,9 @@ federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
 related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]]"
-nhtsa-recalls: 0
-nhtsa-complaints: 0
+nonprofit-status: "501(c)(3)"
+total-revenue: 359319
+total-assets: 1224754
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
@@ -230,20 +231,27 @@ content-readiness:: ready
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Johnson%20%26%20Johnson%22) (Tier 1)
 <!-- auto:sec-edgar end -->
 
-### Vehicle Safety (NHTSA)
-<!-- auto:nhtsa-recalls start -->
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
 | Metric | Value |
 |--------|-------|
-| Vehicle Recalls | 0 |
-| Consumer Complaints | 0 |
-| NHTSA Investigations | 10 |
+| EIN | 760552018 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $359K |
+| Total Assets | $1.2M |
+| NTEE Code | P75 |
+| IRS Ruling Date | 1998-05-01 |
+| Filings on Record | 12 |
 
-**Active/recent investigations:**
+**Filing history:** 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015
 
-- DP26003: Fuel smell and loss of motive power (2026-03-30)
-- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
-- DP26001: All wheel drive allegation (2026-03-06)
-- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2020)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2018)
+- ... and 3 more years
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Johnson%20%26%20Johnson) (Tier 1)
-<!-- auto:nhtsa-recalls end -->
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/760552018) (Tier 1)
+<!-- auto:nonprofit-990 end -->

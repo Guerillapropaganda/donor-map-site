@@ -9,7 +9,7 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: 630922835
+ein: "630922835"
 annual-revenue: "$4.8M"
 net-assets: "$7.7M"
 tax-year: "2023"
@@ -26,9 +26,9 @@ court-jurisdictions:
   - "District Court, W.D. Washington"
   - "United States Bankruptcy Court, S.D. Texas"
 related: "[[Katie Britt]]"
-federal-register-mentions: 2
-regulatory-agencies:
-  - "Federal Election Commission"
+nonprofit-status: "501(c)(6)"
+total-revenue: 7267008
+total-assets: 8134872
 ---
 
 #alabama-politics #business-lobby #regulatory-capture #dark-money #state-control
@@ -107,17 +107,26 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Business%20Council%20of%20Alabama%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
-### Federal Register Activity
-<!-- auto:federal-register start -->
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
 | Metric | Value |
 |--------|-------|
-| Federal Register Mentions | 2 |
-| Notice | 2 |
-| Agencies | Federal Election Commission |
+| EIN | 630922835 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $7.3M |
+| Total Assets | $8.1M |
+| IRS Ruling Date | 1986-03-01 |
+| Filings on Record | 13 |
 
-**Recent regulatory activity:**
-- [Sunshine Act Meeting](https://www.federalregister.gov/documents/1997/11/07/97-29662/sunshine-act-meeting) (1997-11-07) — Federal Election Commission
-- [Sunshine Act Meeting](https://www.federalregister.gov/documents/1996/06/06/96-14461/sunshine-act-meeting) (1996-06-06) — Federal Election Commission
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Business%20Council%20of%20Alabama%22) (Tier 1)
-<!-- auto:federal-register end -->
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/630922835) (Tier 1)
+<!-- auto:nonprofit-990 end -->

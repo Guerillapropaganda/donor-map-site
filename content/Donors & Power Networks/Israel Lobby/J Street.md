@@ -20,13 +20,19 @@ related: "[[Entertainment and Hollywood Donors]] · [[Rashida Tlaib]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
-federal-register-mentions: 386
+doj-press-mentions: "264413"
 last-enriched: "2026-04-09"
-regulatory-agencies:
-  - "Defense Department"
-  - "Engineers Corps"
-  - "Interior Department"
-  - "National Park Service"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Florida, Southern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
 ---
 
 #donor #israel #pro-israel #lobbying #pac #progressive #two-state #democratic #follow-the-money #class-analysis #foreign-policy
@@ -163,24 +169,22 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 261507828](https://projects.propublica.org/nonprofits/organizations/261507828) (Tier 1)
 <!-- auto:propublica-990 end -->
 
-### Federal Register Activity
-<!-- auto:federal-register start -->
+### DOJ Press Releases
+<!-- auto:doj-press start -->
 | Metric | Value |
 |--------|-------|
-| Federal Register Mentions | 386 |
-| Final Rules | 16 |
-| Proposed Rules | 14 |
-| Notices | 356 |
-| Agencies | Defense Department, Engineers Corps, Interior Department, National Park Service |
+| DOJ Press Mentions | 264413 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
 
-**Recent regulatory activity:**
-- [Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2026/01/16/2026-00868/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca) (2026-01-16) — Interior Department
-- [Notice of Inventory Completion: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2026/01/16/2026-00867/notice-of-inventory-completion-california-state-university-sacramento-sacramento-ca) (2026-01-16) — Interior Department
-- [Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2025/12/17/2025-23029/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca) (2025-12-17) — Interior Department
-- [Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2025/12/17/2025-23028/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca) (2025-12-17) — Interior Department
-- [Notice of Inventory Completion: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2025/12/16/2025-22906/notice-of-inventory-completion-california-state-university-sacramento-sacramento-ca) (2025-12-16) — Interior Department
-- [Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2025/12/16/2025-22876/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca) (2025-12-16) — Interior Department
-- ... and 380 more
+**Recent press releases:**
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22J%20Street%22) (Tier 1)
-<!-- auto:federal-register end -->
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
+- ... and 264,407 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22J%20Street%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

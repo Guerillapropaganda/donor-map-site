@@ -2,7 +2,7 @@
 title: "Meta - Facebook"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -35,6 +35,8 @@ sec-form-types:
   - "PART II"
   - "PX14A6G"
 related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Amy Klobuchar]]"
+lobbying-spend: 36516328
+lobbying-filings: 107
 ---
 
 #meta #facebook #tech #lobbying #privacy #section-230 #advertising #zuckerberg #antitrust #ai #surveillance #class-analysis #follow-the-money #revolving-door
@@ -348,3 +350,22 @@ content-readiness:: developed
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Meta%20-%20Facebook%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $36.5M |
+| Quarterly Filings | 107 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 46 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Insurance, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Media (information/publishing), Natural Resources, Railroads, Real Estate/Land Use/Conservation, Retirement, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Trucking/Shipping, Urban Development/Municipalities, Veterans, Waste (hazardous/solid/interstate/nuclear)
+
+**Lobbying firms:** 535 GROUP, LLC, AKERMAN LLP, BECKER & POLIAKOFF, P.A., BLUE MOUNTAIN STRATEGIES, BROWNSTEIN HYATT FARBER SCHRECK, LLP, BRYAN CAVE LEIGHTON PAISNER LLP, CASSIDY & ASSOCIATES, INC., CGCN GROUP, LLC, COMMERCIAL METALS COMPANY - CMC, CONTINENTAL STRATEGY, LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., COZEN O'CONNOR PUBLIC STRATEGIES, DRAKE VENTURES, LLC, E2 STRATEGIES, LLC, HB STRATEGIES, HEALTH AND MEDICINE COUNSEL, LLC, HOLLAND & KNIGHT LLP, ICE MILLER LLP, INT'L ASS'N OF SHEET METAL, AIR, RAIL & TRANSP. WORKERS, TRANSP. DIV., INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL & TRANSPORTATION WORKERS, KRL INTERNATIONAL LLC, LIGHTHOUSE POINT GOVERNMENT RELATIONS, LOT SIXTEEN LLC, MASON STREET CONSULTING, LLC, MAYER BROWN LLP, META PLATFORMS, INC. AND VARIOUS SUBSIDIARIES, METANOIC STRATEGIES, MICHAEL BEST STRATEGIES LLC, MINDSET ADVOCACY, LLC, OFF HILL STRATEGIES L.L.C., PORTER GROUP, LLC, QUINELLA GLOBAL LLC, RIDGE PATH STRATEGIES, ROSS TAYLOR & ASSOCIATES, LLC, SHEET METAL & AIR CONDITIONING CONTRACTORS NAT'L ASSN, SQUIRE PATTON BOGGS, STRATEGIC MARKETING INNOVATIONS, TELEGRAPH AVENUE ADVISORS, TELEMEDIA POLICY CORP., THE FEDERAL GROUP, INC., THE VOGEL GROUP, TMP METALS GROUP, LTD., VENABLE LLP, VIRFIN SOLUTIONS LLC, VITELLO CONSULTING, WILMER CUTLER PICKERING HALE AND DORR LLP
+
+**Agencies contacted:** Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Defense, Dept of (DOD), Director of National Intelligence (ODNI), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Export-Import Bank of the United States (EXIM Bank), Federal Communications Commission (FCC), Federal Trade Commission (FTC) +16 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Meta%20-%20Facebook) (Tier 1)
+<!-- auto:lda-lobbying end -->

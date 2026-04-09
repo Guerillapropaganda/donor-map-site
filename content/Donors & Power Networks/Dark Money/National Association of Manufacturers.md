@@ -39,18 +39,26 @@ regulatory-agencies:
   - "Federal Trade Commission"
   - "International Trade Administration"
 related: "[[DeVos Family]] · [[Labor - Donors and Backers]] · [[The Education Committee and Michigan Manufacturing]] · [[Jason Smith]] · [[Steve Scalise]] · [[American Gaming Association]] · [[Adam Smith]] · [[American Action Network]]"
-court-cases: 710
-court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Eleventh Circuit"
-  - "Court of Appeals for the Fourth Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Sixth Circuit"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, W.D. Texas"
-  - "United States Court of International Trade"
+sec-filings: 5021
+sec-form-types:
+  - "10-K"
+  - "144"
+  - "4"
+  - "424B3"
+  - "485BPOS"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-1.01"
+  - "EX-1.02"
+  - "EX-3"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.1 P RELEASE"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "EX-99.7"
+  - "PX14A6G"
 ---
 
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money
@@ -302,21 +310,22 @@ research-status:: developed — Expanded from 64 to 175+ lines. Key additions: 5
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Association%20of%20Manufacturers%22) (Tier 1)
 <!-- auto:federal-register end -->
 
-### Federal Court Records (CourtListener)
-<!-- auto:courtlistener-cases start -->
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
 | Metric | Value |
 |--------|-------|
-| Federal Court Cases | 710 |
-| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eleventh Circuit, Court of Appeals for the Fourth Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Sixth Circuit, District Court, District of Columbia, District Court, E.D. California, District Court, N.D. Illinois +2 more |
-| Case Types | 3791 Employee Retirement, 410 Anti-Trust, 830 Patent, 890 Other Statutory Actions, 950 Constitutional - State Statute |
+| Total Filings | 5,021 |
+| Form Types | 10-K, 144, 4, 424B3, 485BPOS, 8-K, DEF 14A, DEFA14A +10 more |
+| CIK | 109380 |
+| Ticker | ZION |
 
-**Notable cases:**
-- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
-- In Re: Nexstar-TEGNA Merger Litigation (2026) — District Court, E.D. California
-- The State of Oregon v. Trump (2026) — United States Court of International Trade
-- American Public Health Association v. EPA (2026) — Court of Appeals for the D.C. Circuit
-- Coinbase Financial Markets, Inc. v. Raoul (2025) — District Court, N.D. Illinois
-- Bayerische Motoren Werke Aktiengesellschaft v. Onesta IP, LLC (2025) — District Court, W.D. Texas
+**Notable filings:**
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Association%20of%20Manufacturers%22&type=r) (Tier 1)
-<!-- auto:courtlistener-cases end -->
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Association%20of%20Manufacturers%22) (Tier 1)
+<!-- auto:sec-edgar end -->

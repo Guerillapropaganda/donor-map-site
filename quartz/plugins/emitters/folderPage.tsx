@@ -5,6 +5,7 @@ import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { ProcessedContent, QuartzPluginData, defaultProcessedContent } from "../vfile"
 import { FullPageLayout } from "../../cfg"
+import { isConstructionMode } from "../../constructionMode"
 import path from "path"
 import {
   FullSlug,
@@ -129,6 +130,7 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
       ]
     },
     async *emit(ctx, content, resources) {
+      if (isConstructionMode) return
       const allFiles = content.map((c) => c[1].data)
       const cfg = ctx.cfg.configuration
 

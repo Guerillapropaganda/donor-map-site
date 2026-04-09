@@ -2,10 +2,9 @@
 title: "Dianne Feinstein"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
-bioguide-id: "A000383"
 stock-trades: 29
 total-received: "$679,803"
 fec-candidate-id: "S0CA00199"
@@ -245,3 +244,10 @@ content-readiness:: ready
 
 - [GovTrack: Dianne Feinstein](https://www.govtrack.us/congress/members/300043) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

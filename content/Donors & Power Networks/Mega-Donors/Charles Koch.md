@@ -2,7 +2,7 @@
 title: "Charles Koch"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -18,6 +18,12 @@ related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Libertarian B
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+federal-register-mentions: 3
+last-enriched: "2026-04-09"
+regulatory-agencies:
+  - "Civil Rights Commission"
+  - "Interior Department"
+  - "Surface Mining Reclamation and Enforcement Office"
 ---
 
 #koch #mega-donor #libertarian #deregulation #climate-denial #network #dark-money
@@ -86,3 +92,20 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 480918408](https://projects.propublica.org/nonprofits/organizations/480918408) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480918408_202312_990PF_2025011022984232.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 3 |
+| Notice | 2 |
+| Proposed Rule | 1 |
+| Agencies | Civil Rights Commission, Interior Department, Surface Mining Reclamation and Enforcement Office |
+
+**Recent regulatory activity:**
+- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2017/05/11/2017-09695/sunshine-act-meeting-notice) (2017-05-11) — Civil Rights Commission
+- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2016/03/11/2016-05616/sunshine-act-meeting-notice) (2016-03-11) — Civil Rights Commission
+- [Indian and Federal Lands](https://www.federalregister.gov/documents/2007/04/25/E7-7647/indian-and-federal-lands) (2007-04-25) — Interior Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Charles%20Koch%22) (Tier 1)
+<!-- auto:federal-register end -->

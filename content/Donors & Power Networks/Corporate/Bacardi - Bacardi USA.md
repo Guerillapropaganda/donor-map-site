@@ -2,7 +2,7 @@
 title: "Bacardi - Bacardi USA"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Corporate"
@@ -19,6 +19,8 @@ source-types:
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
+lobbying-spend: 1832500
+lobbying-filings: 36
 ---
 
 #bacardi #cuba #embargo #trademark #rum #lobbying #helms-burton #class-analysis #follow-the-money
@@ -138,3 +140,22 @@ content-readiness:: developed
 | MENENDEZ FOR SENATE | $15.5K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.8M |
+| Quarterly Filings | 36 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 5 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Alcohol and Drug Abuse, Budget/Appropriations, Copyright/Patent/Trademark, Financial Institutions/Investments/Securities, Foreign Relations, Immigration, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** A10 ASSOCIATES, LLC, BACARDI NORTH AMERICA (FORMERLY BACARDI USA, INC), BECKER & POLIAKOFF, P.A., THE CORMAC GROUP, LLC, TSG ADVOCATES DC, LLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, SENATE, State, Dept of (DOS), U.S. Trade Representative (USTR), White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Bacardi%20-%20Bacardi%20USA) (Tier 1)
+<!-- auto:lda-lobbying end -->

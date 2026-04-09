@@ -34,10 +34,19 @@ source-types:
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
-nonprofit-status: "501(c)(6)"
+court-cases: 144
 last-enriched: "2026-04-09"
-total-revenue: 29504018
-total-assets: 24053606
+court-jurisdictions:
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Colorado"
+  - "District Court, D. Nevada"
+  - "District Court, D. North Dakota"
+  - "District Court, D. Utah"
+  - "District Court, N.D. Texas"
 doj-press-mentions: "264413"
 doj-components:
   - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
@@ -162,29 +171,24 @@ content-readiness:: draft
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Multifamily%20Housing%20Council%22) (Tier 1)
 <!-- auto:sec-edgar end -->
 
-### Tax Filings (IRS 990)
-<!-- auto:nonprofit-990 start -->
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
 | Metric | Value |
 |--------|-------|
-| EIN | 521127504 |
-| Tax-Exempt Status | 501(c)(6) |
-| Total Revenue | $29.5M |
-| Total Assets | $24.1M |
-| IRS Ruling Date | 1978-12-01 |
-| Filings on Record | 13 |
+| Federal Court Cases | 144 |
+| Courts | Court of Appeals for the Eighth Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, D. Colorado, District Court, D. Nevada, District Court, D. North Dakota +6 more |
+| Case Types | 190 Contract: Other, 360 Torts/Pers Inj: Other Personal Injury, 443 Civil Rights: Accommodations, 890 Other Statutory Actions, Fraud |
 
-**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+**Notable cases:**
+- Cosey v. Russell Road TIC I LLC (2025) — District Court, D. Nevada
+- Harris, et al. v. City of Los Angeles, et al. (2025) — Court of Appeals for the Ninth Circuit
+- Padilla v. Greystar Real Estate Partners, LLC (2025) — District Court, D. Utah
+- Kristin Renault v. AvalonBay Communities, Inc. (2025) — District Court, C.D. California
+- Lopez v. Greystar Real Estate Partners LLC (2025) — District Court, N.D. Texas
+- Federal Trade Commission v. Greystar Real Estate Partners, LLC (2025) — District Court, D. Colorado
 
-**View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/521127504/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/521127504/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/521127504/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/521127504/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/521127504/2019)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521127504) (Tier 1)
-<!-- auto:nonprofit-990 end -->
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Multifamily%20Housing%20Council%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

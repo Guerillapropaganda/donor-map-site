@@ -2,7 +2,7 @@
 title: "New America"
 type: think-tank
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: liberal
@@ -12,6 +12,36 @@ lei-jurisdiction: "KY"
 related: "[[Goldman Sachs]] · [[Gates Foundation]]"
 known-gaps:
   - "No FEC contribution data"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "3"
+  - "4"
+  - "497"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "EX-99.77D POLICIES"
+  - "EX-99.A CHARTER"
+  - "EX-99.B(K)(16)"
+  - "EX-99.B(K)(2)"
+  - "EX-99.D2"
+  - "EX-99.N 18F-3 PLAN"
+  - "LETTER"
+  - "N-23C-1"
+  - "N-30D"
+  - "N-CSR"
+  - "N-CSR/A"
+  - "N-CSRS"
+  - "N-PX"
+  - "NPORT-EX"
+  - "SCHEDULE 13G"
+  - "SCHEDULE 13G/A"
+  - "TEXT-EXTRACT"
 ---
 
 #think-tank #liberal #tech-policy #google #silicon-valley #national-security #education #obama-pipeline #class-analysis
@@ -247,3 +277,23 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-Q, 3, 4, 497, 8-K, DEF 14A, DEFA14A +20 more |
+| CIK | 2074878 |
+| Ticker | NWAX |
+
+**Notable filings:**
+
+- 2026-03-31 — **10-K**: [10-K](https://www.sec.gov/Archives/edgar/data/2074878/000149315226014178/0001493152-26-014178-index.htm)
+- 2026-02-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007506/0001493152-26-007506-index.htm)
+- 2026-02-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007504/0001493152-26-007504-index.htm)
+- 2026-02-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007501/0001493152-26-007501-index.htm)
+- 2026-02-17 — **SCHEDULE 13G**: [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007233/0001493152-26-007233-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22New%20America%22) (Tier 1)
+<!-- auto:sec-edgar end -->

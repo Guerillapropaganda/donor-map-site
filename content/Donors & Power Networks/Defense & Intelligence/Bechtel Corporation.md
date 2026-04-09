@@ -2,7 +2,7 @@
 title: "Bechtel Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -27,6 +27,8 @@ court-jurisdictions:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[South Carolina 2026 Senate Race]]"
+lei: "A2351DQ25OUUH2Q6RR89"
+lei-jurisdiction: "US-NV"
 ---
 
 #defense-contractor #infrastructure #private-construction #iraq-war #revolving-door
@@ -139,3 +141,18 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Bechtel%20Corporation) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [A2351DQ25OUUH2Q6RR89](https://search.gleif.org/#/record/A2351DQ25OUUH2Q6RR89) |
+| Legal Name | BECHTEL CORPORATION |
+| Jurisdiction | US-NV |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-10-01T15:54:44Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

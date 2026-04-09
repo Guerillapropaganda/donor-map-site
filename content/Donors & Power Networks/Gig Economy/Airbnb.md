@@ -14,7 +14,7 @@ federal-contracts-count: 0
 federal-grants-count: 0
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 ein: 833135259
 annual-revenue: "$18.6M"
 net-assets: "$19.4M"
@@ -33,35 +33,18 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
   - "U.S. Citizenship and Immigration Services"
 related: "[[Lyft]] · [[Instacart]]"
-sec-filings: 10000
-sec-form-types:
-  - "144"
-  - "4"
-  - "424B2"
-  - "424B3"
-  - "8-K"
-  - "CORRESP"
-  - "D"
-  - "DEF 14A"
-  - "DRS"
-  - "DRS/A"
-  - "DRSLTR"
-  - "EX-10.1"
-  - "EX-10.19"
-  - "EX-10.20"
-  - "EX-10.21"
-  - "EX-10.22"
-  - "EX-10.23"
-  - "EX-10.5"
-  - "EX-10.8"
-  - "EX-21.1"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "FWP"
-  - "NPORT-P"
-  - "PX14A6G"
-  - "SCHEDULE 13G/A"
+doj-press-mentions: "264413"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Florida, Southern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
 ---
 
 #airbnb #gig-economy #housing #short-term-rental #lobbying #zoning #tourism
@@ -199,22 +182,22 @@ content-readiness:: ready
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Airbnb%22) (Tier 1)
 <!-- auto:federal-register end -->
 
-### SEC Filing Activity
-<!-- auto:sec-edgar start -->
+### DOJ Press Releases
+<!-- auto:doj-press start -->
 | Metric | Value |
 |--------|-------|
-| Total Filings | 10,000 |
-| Form Types | 144, 4, 424B2, 424B3, 8-K, CORRESP, D, DEF 14A +19 more |
-| CIK | 1559720 |
-| Ticker | ABNB |
+| DOJ Press Mentions | 264413 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
 
-**Notable filings:**
+**Recent press releases:**
 
-- 2026-04-08 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1559720/000119312526147937/0001193125-26-147937-index.htm)
-- 2026-04-08 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1559720/000195917326002823/0001959173-26-002823-index.htm)
-- 2026-03-27 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1559720/000195917326002645/0001959173-26-002645-index.htm)
-- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1559720/000010290926000557/0000102909-26-000557-index.htm)
-- 2026-03-25 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1559720/000119312526124200/0001193125-26-124200-index.htm)
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
+- ... and 264,407 more
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Airbnb%22) (Tier 1)
-<!-- auto:sec-edgar end -->
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Airbnb%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

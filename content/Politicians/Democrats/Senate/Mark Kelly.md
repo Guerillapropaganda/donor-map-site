@@ -5,7 +5,6 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-bioguide-id: "A000383"
 total-received: "$33,067,827"
 fec-candidate-id: "S0AZ00350"
 doj-press-mentions: "264349"

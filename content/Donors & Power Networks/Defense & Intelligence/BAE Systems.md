@@ -16,7 +16,7 @@ annual-revenue: "$418.7M"
 net-assets: "$54.6M"
 tax-year: "2022"
 court-cases: 1227
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, D. Hawaii"
   - "District Court, D. Maryland"
@@ -47,34 +47,15 @@ top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "336992"
 lobbying-spend: 10640000
 lobbying-filings: 50
-sec-filings: 10000
-sec-form-types:
-  - "10QSB"
-  - "3"
-  - "4"
-  - "425"
-  - "6-K"
-  - "8-K"
-  - "D"
-  - "DEF 14C"
-  - "DEFA14A"
-  - "DEFM14A"
-  - "EX-10.16"
-  - "EX-10.3"
-  - "EX-10.48"
-  - "EX-10.56"
-  - "EX-10.B"
-  - "EX-4.2"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "F-6 POS"
-  - "F-6EF"
-  - "NPORT-P"
-  - "PRE 14C"
-  - "PREM14A"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
+federal-contracts: "815648"
+federal-register-mentions: 651
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Defense Department"
+  - "Federal Aviation Administration"
+  - "Justice Department"
+  - "Pipeline and Hazardous Materials Safety Administration"
+  - "Transportation Department"
 ---
 
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia
@@ -357,22 +338,48 @@ content-readiness:: ready
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=BAE%20Systems) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
-### SEC Filing Activity
-<!-- auto:sec-edgar start -->
+### Federal Contracts
+<!-- auto:sam-contracts start -->
 | Metric | Value |
 |--------|-------|
-| Total Filings | 10,000 |
-| Form Types | 10QSB, 3, 4, 425, 6-K, 8-K, D, DEF 14C +18 more |
-| CIK | 895564 |
-| Ticker | BAESY |
+| Total Contracts Found | 815648 |
+| Sample Value (top 25) | $1.6B |
+| Year Range | 1988-2018 |
+| Federal Agencies | 2 |
 
-**Notable filings:**
+**Contracting agencies:** DEPT OF DEFENSE, NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
 
-- 2026-04-02 — **D**: [D](https://www.sec.gov/Archives/edgar/data/895564/000089556426000004/0000895564-26-000004-index.htm)
-- 2025-09-18 — **D**: [D](https://www.sec.gov/Archives/edgar/data/895564/000089556425000003/0000895564-25-000003-index.htm)
-- 2025-04-04 — **D**: [D](https://www.sec.gov/Archives/edgar/data/895564/000089556425000001/0000895564-25-000001-index.htm)
-- 2024-09-20 — **D**: [D](https://www.sec.gov/Archives/edgar/data/895564/000089556424000003/0000895564-24-000003-index.htm)
-- 2024-04-01 — **D**: [D](https://www.sec.gov/Archives/edgar/data/895564/000089556424000001/0000895564-24-000001-index.htm)
+**Recent contracts:**
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22BAE%20Systems%22) (Tier 1)
-<!-- auto:sec-edgar end -->
+| Amount | Agency | Date |
+|--------|--------|------|
+| $0 | DEPT OF DEFENSE | 2011-11-30 |
+| $0 | DEPT OF DEFENSE | 2010-08-11 |
+| $0 | DEPT OF DEFENSE | 2009-09-25 |
+| $0 | DEPT OF DEFENSE | 2010-06-28 |
+| $0 | DEPT OF DEFENSE | 2011-11-29 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=BAE%20Systems&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 651 |
+| Final Rules | 234 |
+| Proposed Rules | 196 |
+| Notices | 221 |
+| Agencies | Antitrust Division, Defense Department, Federal Aviation Administration, Justice Department, Pipeline and Hazardous Materials Safety Administration, Transportation Department |
+
+**Recent regulatory activity:**
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (2026-03-26) — Justice Department
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (2026-03-18) — Transportation Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04423/arms-sales-notification) (2026-03-06) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04422/arms-sales-notification) (2026-03-06) — Defense Department
+- [Hazardous Materials: Notice of Applications for New Special Permits](https://www.federalregister.gov/documents/2026/02/02/2026-02087/hazardous-materials-notice-of-applications-for-new-special-permits) (2026-02-02) — Transportation Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/02/2026-02055/arms-sales-notification) (2026-02-02) — Defense Department
+- ... and 645 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BAE%20Systems%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,7 +2,7 @@
 title: "Defense Contractors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -36,6 +36,31 @@ court-jurisdictions:
   - "District Court, W.D. Oklahoma"
   - "United States Court of Federal Claims"
 related: "[[Defense Contractors Bloc]] · [[Texas 2026 Senate Race]] · [[Katie Britt]] · [[Virginia 2026 Senate Race]] · [[Chris Murphy Master Profile]] · [[Mark Warner]] · [[Insurance Industry]]"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "10KSB"
+  - "10SB12G/A"
+  - "424B3"
+  - "424B5"
+  - "425"
+  - "497"
+  - "6-K"
+  - "8-K"
+  - "8-K/A"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFR14A"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.2.PDF"
+  - "LETTER"
+  - "PX14A6G"
+  - "SC 13D"
+  - "XML"
 ---
 
 #defense-contractors #military-industrial #bipartisan #ndaa #revolving-door #lobbying #class-analysis #follow-the-money
@@ -217,3 +242,21 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Defense%20Contractors%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-K/A, 10-Q, 10KSB, 10SB12G/A, 424B3, 424B5, 425 +15 more |
+
+**Notable filings:**
+
+- 2023-04-03 — **EX-99.1**: EXHIBIT 99.1
+- 2017-06-13 — **EX-99.1**: PRESS RELEASE ISSUED BY NANO DIMENSION LTD. ON JUNE 13, 2017, ANNOUNCING THAT IT HAS SUPPLIED A DRAGONFLY 2020 3D PRINTER TO ONE OF THE TOP 50 LARGEST DEFENSE CONTRACTORS IN THE WORLD
+- 2002-10-16 — **EX-99.1**: EX-99.1
+- 2023-09-19 — **EX-99.1**: PRESS RELEASE TITLED: "MOBILICOM SECURES INITIAL ORDER FROM ONE OF EUROPE'S LARGEST DEFENSE CONTRACTORS"
+- 2015-06-02 — **CORRESP**: CORRESP
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Defense%20Contractors%22) (Tier 1)
+<!-- auto:sec-edgar end -->

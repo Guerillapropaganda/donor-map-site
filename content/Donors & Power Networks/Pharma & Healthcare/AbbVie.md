@@ -2,7 +2,7 @@
 title: "AbbVie"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -11,7 +11,7 @@ issues:
   - "Healthcare"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
@@ -38,6 +38,18 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "International Trade Commission"
   - "Treasury Department"
+court-cases: 12951
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. New Jersey"
+  - "District Court, D. Oregon"
+  - "District Court, D. Puerto Rico"
+  - "District Court, D. Rhode Island"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. Florida"
+  - "District Court, W.D. Washington"
+  - "United States Bankruptcy Court, E.D. Virginia"
 ---
 
 #abbvie #pharma #humira #drug-pricing #patent #lobbying
@@ -245,3 +257,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AbbVie%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 12,951 |
+| Courts | District Court, C.D. California, District Court, D. New Jersey, District Court, D. Oregon, District Court, D. Puerto Rico, District Court, D. Rhode Island, District Court, District of Columbia, District Court, N.D. Illinois, District Court, S.D. Florida +2 more |
+| Case Types | 446 Civil Rights: Americans with Disabilities - Other, 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions, 899 Administrative Procedure Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute |
+
+**Notable cases:**
+- ABBVIE INC. v. KENNEDY (2026) — District Court, District of Columbia
+- ABRAXIS BIOSCIENCE, LLC v. DR. REDDY'S LABORATORIES, INC. (2026) — District Court, D. New Jersey
+- Barone v. Tempus AI, Inc. (2026) — District Court, N.D. Illinois
+- Gil v. AbbVie Inc. (2026) — District Court, S.D. Florida
+- Novartis Pharmaceuticals Corporation v. Brown (2026) — District Court, W.D. Washington
+- AbbVie Inc v. Brown (2026) — District Court, W.D. Washington
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AbbVie%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

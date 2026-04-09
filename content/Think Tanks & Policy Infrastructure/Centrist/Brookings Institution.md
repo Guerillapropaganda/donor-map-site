@@ -10,11 +10,19 @@ tax-status: 501c3
 related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Enterprise Institute]] · [[PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]]"
 known-gaps:
   - "No FEC contribution data"
-ein: "530196577"
-nonprofit-status: "501(c)(3)"
+federal-register-mentions: 169
 last-enriched: "2026-04-09"
-total-revenue: 212051581
-total-assets: 550992155
+regulatory-agencies:
+  - "Centers for Medicare & Medicaid Services"
+  - "Comptroller of the Currency"
+  - "Consumer Financial Protection Bureau"
+  - "Education Department"
+  - "Employee Benefits Security Administration"
+  - "Employment and Training Administration"
+  - "Federal Deposit Insurance Corporation"
+  - "Federal Housing Finance Agency"
+  - "Federal Reserve System"
+  - "Food and Drug Administration"
 ---
 
 #think-tank #centrist #wall-street #foreign-funding #revolving-door #hamilton-project #defense #financial-deregulation #qatar #jpmorgan #goldman-sachs #healthcare #housing #labor
@@ -364,27 +372,24 @@ What Brookings represents structurally is the think tank as a **shadow governmen
 
 content-readiness:: developed
 
-### Tax Filings (IRS 990)
-<!-- auto:nonprofit-990 start -->
+### Federal Register Activity
+<!-- auto:federal-register start -->
 | Metric | Value |
 |--------|-------|
-| EIN | 530196577 |
-| Tax-Exempt Status | 501(c)(3) |
-| Total Revenue | $212.1M |
-| Total Assets | $551.0M |
-| NTEE Code | V220 |
-| IRS Ruling Date | 1940-03-01 |
-| Filings on Record | 13 |
+| Federal Register Mentions | 169 |
+| Final Rules | 48 |
+| Proposed Rules | 47 |
+| Notices | 74 |
+| Agencies | Centers for Medicare & Medicaid Services, Comptroller of the Currency, Consumer Financial Protection Bureau, Education Department, Employee Benefits Security Administration, Employment and Training Administration, Federal Deposit Insurance Corporation, Federal Housing Finance Agency +7 more |
 
-**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+**Recent regulatory activity:**
+- [Termination of the Designation of Yemen for Temporary Protected Status](https://www.federalregister.gov/documents/2026/03/03/2026-04179/termination-of-the-designation-of-yemen-for-temporary-protected-status) (2026-03-03) — Homeland Security Department
+- [Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.federalregister.gov/documents/2026/01/30/2026-01907/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure) (2026-01-30) — Labor Department ★
+- [Global Benchmark for Efficient Drug Pricing (GLOBE) Model](https://www.federalregister.gov/documents/2025/12/23/2025-23702/global-benchmark-for-efficient-drug-pricing-globe-model) (2025-12-23) — Health and Human Services Department ★
+- [Enhanced Transparency and Public Accountability of the Supervisory Stress Test Models and Scenarios; Modifications to the Capital Planning and Stress Capital Buffer Requirement Rule, Enhanced Prudential Standards Rule, and Regulation LL](https://www.federalregister.gov/documents/2025/11/18/2025-20211/enhanced-transparency-and-public-accountability-of-the-supervisory-stress-test-models-and-scenarios) (2025-11-18) — Federal Reserve System
+- [Revisions to the Large Financial Institution Rating System and Framework for the Supervision of Insurance Organizations](https://www.federalregister.gov/documents/2025/11/17/2025-19945/revisions-to-the-large-financial-institution-rating-system-and-framework-for-the-supervision-of) (2025-11-17) — Federal Reserve System
+- [Prohibiting Illegal Discrimination in Registered Apprenticeship Programs](https://www.federalregister.gov/documents/2025/07/02/2025-12317/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs) (2025-07-02) — Labor Department ★
+- ... and 163 more
 
-**View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530196577/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530196577/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530196577/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530196577/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530196577/2019)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530196577) (Tier 1)
-<!-- auto:nonprofit-990 end -->
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brookings%20Institution%22) (Tier 1)
+<!-- auto:federal-register end -->

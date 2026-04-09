@@ -12,7 +12,7 @@ federal-awards-total: 367636564
 federal-contracts-count: 25
 federal-grants-count: 0
 federal-register-mentions: 32
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Antitrust Division"
   - "Defense Department"
@@ -64,6 +64,18 @@ top-naics-code: "334511"
 related: "[[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]] · [[Northrop Grumman]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+court-cases: 131
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Arizona"
+  - "District Court, D. New Hampshire"
+  - "District Court, D. Utah"
+  - "District Court, M.D. Florida"
+  - "District Court, M.D. Pennsylvania"
+  - "District Court, S.D. California"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, N.D. California"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 
 #defense-contractor #surveillance-technology #military-intelligence #l3harris-merger #weapons-systems
@@ -314,3 +326,22 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=L3%20Technologies) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 131 |
+| Courts | District Court, C.D. California, District Court, D. Arizona, District Court, D. New Hampshire, District Court, D. Utah, District Court, M.D. Florida, District Court, M.D. Pennsylvania, District Court, S.D. California, District Court, S.D. New York +3 more |
+| Case Types | 410 Other Statutes: Anti-Trust, 442 Civil Rights: Jobs, 880 Defend Trade Secrets Act (of 2016), Civil Rights: Jobs |
+
+**Notable cases:**
+- Gallardo v. L3 Technologies, Inc. (2025) — District Court, S.D. California
+- American Trash Management, Inc. (2025) — United States Bankruptcy Court, N.D. California
+- Advanced Technologies Group, Inc. v. L3Harris Technologies, Inc. (2025) — District Court, S.D. New York
+- Desktop Metal, Inc., Debtor (2025) — United States Bankruptcy Court, S.D. Texas
+- Nathan Griffin v. Stellant Systems, Inc. (2025) — District Court, C.D. California
+- Appiah v. L3 Technologies (2025) — District Court, D. Utah
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3%20Technologies%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

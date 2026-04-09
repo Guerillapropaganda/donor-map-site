@@ -19,9 +19,8 @@ top-donors:
   - "Silicon Valley Democratic Donor Network"
   - "Goldman Sachs"
   - "Blue Cross Blue Shield Association"
-bioguide-id: "A000383"
 total-received: "$202,528"
-fec-candidate-id: "S2WI00409"
+fec-candidate-id: "S2CT00132"
 source-types:
   - Congress
   - FEC

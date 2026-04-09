@@ -11,7 +11,6 @@ state: "Maine"
 state-abbr: "ME"
 top-donors:
   - "Blackstone"
-bioguide-id: "A000383"
 stock-trades: 441
 stock-trade-tickers:
   - "FB"

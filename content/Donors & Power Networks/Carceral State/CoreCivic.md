@@ -2,7 +2,7 @@
 title: "CoreCivic"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -15,7 +15,7 @@ federal-awards-total: 559918230
 federal-contracts-count: 25
 federal-grants-count: 0
 court-cases: 3032
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, D. Arizona"
   - "District Court, D. Montana"
@@ -40,6 +40,8 @@ related: "[[Uber]] · [[Private Prison Immigration Pipeline]] · [[Family Separa
 nonprofit-status: "501(c)(3)"
 total-revenue: 709089
 total-assets: 27969
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 
@@ -291,3 +293,21 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

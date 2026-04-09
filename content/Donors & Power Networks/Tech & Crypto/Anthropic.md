@@ -2,7 +2,7 @@
 title: "Anthropic"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -11,7 +11,7 @@ federal-awards-total: 18960
 federal-contracts-count: 1
 federal-grants-count: 1
 court-cases: 303
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Ninth Circuit"
@@ -47,6 +47,10 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+ein: "920526891"
+nonprofit-status: "501(c)(3)"
+top-federal-agency: "Department of State"
+top-naics-code: "513210"
 ---
 
 #anthropic #ai #safety #regulation #frontier-models #google #amazon
@@ -195,3 +199,26 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Anthropic%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 920526891 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | T30 |
+| IRS Ruling Date | 2023-01-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/920526891) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of State ($19K) |
+| Primary NAICS Sector | Software Publishers |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

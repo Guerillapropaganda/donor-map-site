@@ -27,11 +27,21 @@ federal-contracts-count: 10
 federal-grants-count: 0
 related: "[[Eli Lilly]] · [[ALEC Dark Money Protection Machine]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Veterans Affairs and Iowa Agriculture]] · [[John Kennedy Master Profile]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[WSPA - Western States Petroleum Association]] · [[Chevron]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[The Folksy Populist Brand and Petrochemical Reality]]"
 nonprofit-status: "501(c)(9)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 total-revenue: 212200
 total-assets: 1900682
-lobbying-spend: 21285000
-lobbying-filings: 55
+doj-press-mentions: "264413"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Florida, Southern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
 ---
 
 #koch-industries #energy #oil-gas #refining #lobbying #dark-money #deregulation #epa #climate #labor #class-analysis #follow-the-money #tcja #clean-power-plan
@@ -797,21 +807,22 @@ research-status:: developed → ready (2026-04-01) — Merged: KochPAC complete 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/480834445) (Tier 1)
 <!-- auto:nonprofit-990 end -->
 
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
+### DOJ Press Releases
+<!-- auto:doj-press start -->
 | Metric | Value |
 |--------|-------|
-| Total Lobbying Spend | $21.3M |
-| Quarterly Filings | 55 |
-| Year Range | 2024-2026 |
-| Lobbying Firms | 16 |
-| Individual Lobbyists | 0 |
+| DOJ Press Mentions | 264413 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
 
-**Issues lobbied:** Agriculture, Banking, Bankruptcy, Budget/Appropriations, Chemicals/Chemical Industry, Clean Air and Water (quality), Constitution, Defense, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Immigration, Law Enforcement/Crime/Criminal Justice, Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation, Utilities
+**Recent press releases:**
 
-**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, CAPITOL TAX PARTNERS, LLP, CROSSROADS STRATEGIES, LLC, HOLLAND & KNIGHT LLP, HUNTON ANDREWS KURTH LLP, KOCH GOVERNMENT AFFAIRS, LLC, LONGBOW PUBLIC POLICY GROUP, LLC, MERCURY PUBLIC AFFAIRS, LLC, MILLER STRATEGIES, LLC, MINDSET ADVOCACY, LLC, PHRONESISDC, LLC, RESEARCH SERVICE BUREAU, S-3 GROUP, TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP), THE NICKLES GROUP, LLC, VALCOUR LLC
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
+- ... and 264,407 more
 
-**Agencies contacted:** Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE, State, Dept of (DOS), Treasury, Dept of, U.S. Trade Representative (USTR)
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Koch%20Industries) (Tier 1)
-<!-- auto:lda-lobbying end -->
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Koch%20Industries%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

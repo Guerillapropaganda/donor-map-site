@@ -60,6 +60,7 @@ ein: 464439930
 annual-revenue: "$5.1M"
 net-assets: "$13.4M"
 tax-year: "2020"
+federal-contracts: "51405"
 federal-register-mentions: 105
 regulatory-agencies:
   - "Antitrust Division"
@@ -338,6 +339,30 @@ research-status:: developed — added 7-cycle PAC table (2012–2024, ~$8.2M PAC
 - [Source: ProPublica Nonprofit Explorer — EIN 464439930](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2021_prefixes_45-52%2F464439930_202012_990PF_2021090318810669.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 51405 |
+| Sample Value (top 25) | $4.7M |
+| Year Range | 2007-2014 |
+| Federal Agencies | 6 |
+
+**Contracting agencies:** DEPT OF DEFENSE, GENERAL SERVICES ADMINISTRATION, HOMELAND SECURITY, DEPARTMENT OF, NATIONAL AERONAUTICS AND SPACE ADMINISTRATION, SOCIAL SECURITY ADMINISTRATION, TREASURY, DEPARTMENT OF THE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $1.1M | DEPT OF DEFENSE | 2007-09-29 |
+| $666K | DEPT OF DEFENSE | 2008-02-01 |
+| $61K | SOCIAL SECURITY ADMINISTRATION | 2008-08-21 |
+| $27K | HOMELAND SECURITY, DEPARTMENT OF | 2007-09-06 |
+| $0 | GENERAL SERVICES ADMINISTRATION | 2013-06-25 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Marathon%20Petroleum&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

@@ -2,7 +2,7 @@
 title: "Donors Capital Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -33,6 +33,29 @@ source-types:
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+sec-filings: 19
+sec-form-types:
+  - "3"
+  - "4"
+  - "40-17G"
+  - "424B2"
+  - "424B3"
+  - "485APOS"
+  - "485BPOS"
+  - "497"
+  - "DEF 14A"
+  - "DEF 14C"
+  - "N-14"
+  - "N-14/A"
+  - "N-CEN"
+  - "N-CSR"
+  - "N-CSRS"
+  - "N-PX"
+  - "NPORT-P"
+  - "PRE 14A"
+  - "PRE 14C"
+  - "SCHEDULE 13G"
+  - "SCHEDULE 13G/A"
 ---
 
 #donor #dark-money #donor-advised-fund #501c3 #conservative #koch-network #class-analysis #follow-the-money
@@ -176,3 +199,23 @@ content-readiness:: draft
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 19 |
+| Form Types | 3, 4, 40-17G, 424B2, 424B3, 485APOS, 485BPOS, 497 +13 more |
+| CIK | 1270131 |
+| Ticker | SCD |
+
+**Notable filings:**
+
+- 2026-04-07 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1270131/000210764326000024/0002107643-26-000024-index.htm)
+- 2026-04-02 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1270131/000212570026000004/0002125700-26-000004-index.htm)
+- 2026-03-09 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1270131/000119312526098492/0001193125-26-098492-index.htm)
+- 2026-02-13 — **424B3**: [424B3](https://www.sec.gov/Archives/edgar/data/1270131/000119312526050129/0001193125-26-050129-index.htm)
+- 2026-02-11 — **N-CEN**: [N-CEN](https://www.sec.gov/Archives/edgar/data/1270131/000094040026003028/0000940400-26-003028-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Donors%20Capital%20Fund%22) (Tier 1)
+<!-- auto:sec-edgar end -->

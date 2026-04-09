@@ -21,7 +21,6 @@ stock-trade-tickers:
   - "MSFT"
 total-received: "$5,285,973"
 fec-candidate-id: "S0DE00092"
-bioguide-id: "A000383"
 source-types:
   - Congress
   - FEC

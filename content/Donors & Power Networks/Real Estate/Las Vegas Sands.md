@@ -2,7 +2,7 @@
 title: "Las Vegas Sands"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Real Estate"
@@ -45,7 +45,7 @@ sec-form-types:
   - "SCHEDULE 13G/A"
 related: "[[Catherine Cortez Masto]]"
 court-cases: 1929
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"
   - "District Court, C.D. California"
@@ -56,6 +56,9 @@ court-jurisdictions:
   - "District Court, S.D. California"
   - "United States Bankruptcy Court, E.D. Washington"
   - "United States Bankruptcy Court, S.D. Texas"
+federal-register-mentions: 14
+regulatory-agencies:
+  - "Securities and Exchange Commission"
 ---
 
 #sheldon-adelson #casino #megadonor #republican #single-family-donor
@@ -211,3 +214,23 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Las%20Vegas%20Sands%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 14 |
+| Notice | 14 |
+| Agencies | Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Self-Regulatory Organizations; NASDAQ OMX PHLX LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity in Select Symbols](https://www.federalregister.gov/documents/2012/03/06/2012-5328/self-regulatory-organizations-nasdaq-omx-phlx-llc-notice-of-filing-and-immediate-effectiveness-of) (2012-03-06) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of Proposed Rule Change by NASDAQ OMX PHLX LLC Relating to Listing and Trading Various Russell Products](https://www.federalregister.gov/documents/2011/07/06/2011-16843/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change) (2011-07-06) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity](https://www.federalregister.gov/documents/2010/09/08/2010-22290/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (2010-09-08) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity](https://www.federalregister.gov/documents/2010/08/16/2010-20147/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (2010-08-16) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity](https://www.federalregister.gov/documents/2010/07/22/2010-17929/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (2010-07-22) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; The NASDAQ Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to Pricing for Option Orders Routed to Away Markets](https://www.federalregister.gov/documents/2010/04/09/2010-8153/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate) (2010-04-09) — Securities and Exchange Commission
+- ... and 8 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Las%20Vegas%20Sands%22) (Tier 1)
+<!-- auto:federal-register end -->

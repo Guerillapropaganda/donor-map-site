@@ -12,7 +12,6 @@ state-abbr: "MA"
 district: "2"
 leadership-roles:
   - "Ranking Member"
-bioguide-id: "A000383"
 govtrack-id: 400263
 bills-sponsored: 30
 bills-cosponsored: 431

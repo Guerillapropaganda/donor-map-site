@@ -12,8 +12,6 @@ politicians-funded:
 issues:
   - "Defense & Military"
 related: "[[Palantir Technologies Political Operation]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]]"
-lei: "335800QNP41HVG52TS73"
-lei-jurisdiction: "IN"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
@@ -144,21 +142,6 @@ The Both-Sides Illusion pattern is central to Boeing's operation: the company fu
 - [Ballotpedia: Boeing Defense](https://ballotpedia.org/Boeing_Defense) (Tier 3)
 
 content-readiness:: developed
-
-### Corporate Structure (GLEIF)
-<!-- auto:gleif-lei start -->
-| Field | Value |
-|-------|-------|
-| LEI | [335800QNP41HVG52TS73](https://search.gleif.org/#/record/335800QNP41HVG52TS73) |
-| Legal Name | BOEING INDIA DEFENSE PRIVATE LIMITED |
-| Jurisdiction | IN |
-| Entity Status | ACTIVE |
-| Category | GENERAL |
-| Registration | ISSUED |
-| Last Updated | 2026-03-09T06:24:23Z |
-
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
-<!-- auto:gleif-lei end -->
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->

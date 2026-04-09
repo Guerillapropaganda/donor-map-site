@@ -233,3 +233,18 @@ content-readiness:: ready
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [254900RX3H5G12ZCZI06](https://search.gleif.org/#/record/254900RX3H5G12ZCZI06) |
+| Legal Name | Leo Texas LLC |
+| Jurisdiction | US-TX |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2022-03-15T20:14:23Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

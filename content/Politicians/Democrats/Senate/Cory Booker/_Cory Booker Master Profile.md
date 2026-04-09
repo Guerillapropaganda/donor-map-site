@@ -33,7 +33,6 @@ stock-trade-tickers:
   - "AAPL"
   - "DISH"
   - "EBAY"
-bioguide-id: "A000383"
 govtrack-id: 412598
 bills-sponsored: 92
 bills-cosponsored: 541
