@@ -48,7 +48,7 @@ Audience: CNN's liberal/centrist establishment demographic; approximately 700K-9
 
 Based on institutional pattern analysis: Cooper's peers at CNN with similar profiles (Jake Tapper, Chris Wallace, Nicolle Wallace) all show $0 FEC contributions. Institutional anchors at CNN operate under explicit or implied expectation of political neutrality in personal giving. This profile requires Chrome API verification before finalization.
 
-- [FEC API: Anderson Cooper individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=cooper%2C+anderson&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (NEEDS REVIEW: rate limited) (UNVERIFIED — Chrome unavailable)
+- [FEC API: Anderson Cooper individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=cooper%2C+anderson&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (NEEDS REVIEW: slow/redirect) (UNVERIFIED — Chrome unavailable)
 
 > [!money]
 > Cooper is a $200M net worth individual who earns $18M/year from institutional media — his financial footprint is enormous, but he channels political influence exclusively through editorial platform access, not personal donations. This is the CNN anchor pattern: leverage flows from airtime, not checkbooks.
