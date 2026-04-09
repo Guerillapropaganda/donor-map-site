@@ -9,8 +9,30 @@ fec-candidate-id: "H2OH13033"
 govtrack-id: 400050
 bills-sponsored: 0
 bills-cosponsored: 0
+party: "Democrat"
+chamber: "Senate"
+state: "Ohio"
+state-abbr: "OH"
 donors: "[[David Sacks]] · [[UAW - United Auto Workers]] · [[California Nurses Association]] · [[American Iron and Steel Institute]] · [[Ohio Democratic Party]]"
 related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]]"
+editorial-review-date: "2026-04-08"
+editorial-reviewer: "Research Claude"
+editorial-result: block
+editorial-blockers:
+  - "FEC candidate ID H2OH13033 is HOUSE ID — missing Senate FEC data entirely (Code Claude: find Senate ID S6OH00163)"
+  - "Bills 0/0 wrong — 18-year senator, pipeline pulled wrong data (Code Claude fix)"
+  - "No source-types computed"
+  - "No last-enriched date"
+  - "No committee data — chaired Senate Banking Committee (missing)"
+  - "OpenSecrets URL present — must move to Archived per Vault Rules"
+  - "Body has duplicate related:/donors: fields outside frontmatter (cleanup needed)"
+verified-blocks:
+  - connections
+known-gaps:
+  - "Senate FEC data missing (wrong candidate ID)"
+  - "Committee assignments missing (chaired Banking)"
+  - "Bills sponsored/cosponsored data wrong (shows 0)"
+  - "No source-types detected"
 ---
 
 #sherrod-brown #senate #ohio #labor #populist #class-analysis #2024-defeat
@@ -79,13 +101,15 @@ Brown's response was muted. He had no equivalent funding mechanism. Labor unions
 
 ### Sources
 
+#### Verified
 - [FEC Candidate: Sherrod Brown campaign finance summary](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
-- [OpenSecrets: Victory Now for Sherrod Brown donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/victory-now-for-sherrod-brown/C00846196/2024/donors) (Tier 1)
+- [AFL-CIO Scorecard: Sherrod Brown labor voting record](https://aflcio.org/scorecard/legislators/sherrod-brown) (Tier 1)
 - [WOSU Public Media: Crypto spent millions to defeat Sherrod Brown and elect allies](https://www.wosu.org/politics-government/2025-10-13/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026) (Tier 2)
 - [CNBC: Bitcoiners celebrate as Bernie Moreno ousts Sherrod Brown](https://www.cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html) (Tier 2)
 - [Common Dreams: Crypto Industry's $40 Million Defeat of Pro-Worker Sherrod Brown](https://www.commondreams.org/news/sherrod-brown-crypto) (Tier 3)
-- [AFL-CIO Scorecard: Sherrod Brown labor voting record](https://aflcio.org/scorecard/legislators/sherrod-brown) (Tier 1)
-- [FEC Candidate: Sherrod Brown industries](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
+
+#### Archived
+- ~~[OpenSecrets: Victory Now for Sherrod Brown donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/victory-now-for-sherrod-brown/C00846196/2024/donors)~~ (was Tier 1 — OpenSecrets demoted, data preserved in FEC section)
 
 profile-status:: ready ready
 

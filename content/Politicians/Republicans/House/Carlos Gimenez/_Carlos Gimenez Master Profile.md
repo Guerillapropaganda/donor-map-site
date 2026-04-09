@@ -33,6 +33,21 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
+editorial-review-date: "2026-04-08"
+editorial-reviewer: "Research Claude"
+editorial-result: block
+editorial-blockers:
+  - "No last-enriched date in frontmatter (Code Claude: run enrichment pipeline)"
+  - "Unresolved Crowley Maritime contradiction — needs investigation"
+  - "Wikipedia URL broken: points to All-In podcast instead of Carlos Gimenez"
+  - "Connections incomplete: Rubio, Diaz-Balart, Salazar, MasTec, Fanjul mentioned in body but not all in YAML"
+  - "StoneColdTruth.com source is Tier 4 (Roger Stone) — claims need independent verification"
+verified-blocks:
+  - voting-records
+  - committee-assignments
+  - bills
+  - fec-data
+  - source-diversity
 ---
 
 #politician #republican #house #florida #cuba #miami #real-estate #defense #class-analysis #follow-the-money #crowley #transportation
